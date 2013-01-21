@@ -15,7 +15,7 @@ Open Source Developers
 
 You have some awesome open source code. Too bad nobody is using it. The chance of someone discovering and using your awesome code goes up greatly with good documentation.
 
-Start with the :doc:`meta/basics`, and that should give you some food for thought to get started.
+Start with the :doc:`basics`, and that should give you some food for thought to get started.
 
 
 Developers at a company
@@ -23,7 +23,7 @@ Developers at a company
 
 You need help justifying writing documentation for your project. It seems the timelines you're given hardly has any time to write tests, and docs always get put off until the end. Well here are some ways that you can show value to your boss, and hopefully get the time to write the docs.
 
-Get started with :doc:`meta/mindshare`, which should give you a blueprint for how you can implement a documentation solution in your company.
+Get started with :doc:`mindshare`, which should give you a blueprint for how you can implement a documentation solution in your company.
 
 Enterprise Users
 ----------------
