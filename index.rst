@@ -16,4 +16,4 @@ Contents
    vision
    community
    conference/*
-   tools/*
+   tools/index
