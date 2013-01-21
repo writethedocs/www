@@ -6,7 +6,7 @@ When a user comes to your documentation, it's important to present them with a s
 
 This is a living document, and you should help contribute to it. The code lives at Github_, and we accept pull requests with love.
 
-.. _Github: https://github.com/ericholscher/documentation-basics
+.. _Github: https://github.com/writethedocs/docs/blob/master/meta/basics.rst
 
 
 What to include
@@ -69,4 +69,3 @@ Your project's license
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 BSD? MIT? GPL? This stuff might not matter to you, but the people who want to use your code will care about this a whole lot. Think about what you want to accomplish with your license, and please only pick one of the standard licenses that you see around the web.
-
