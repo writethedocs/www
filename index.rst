@@ -12,7 +12,7 @@ You have found yourself on one of the foundational aspects of the project. Insid
    :maxdepth: 2
    :glob:
 
-   meta/starting
+   starting
    tools/index
    community
    vision
