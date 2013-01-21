@@ -1,5 +1,5 @@
-Welcome to Write the Docs's documentation!
-==========================================
+Write the Docs!
+===============
 
 Write the Docs is a community that we are building around the concept of documentation. There are a lot of people out there that write docs, but there isn't a good place to go to find information, ask questions, and generally be a member of a community of documentation writers. We hope to slowly solve this problem by building a place to go with lots of information, and other folks who are interested in similar things.
 
