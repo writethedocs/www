@@ -5,6 +5,11 @@ Write the Docs is a community that we are building around the concept of documen
 
 The first step is a website and a conference. We'll be holding the first incantation of Write the Docs the conference in Portland, OR in early April 2013.
 
+Contents
+--------
+
 .. toctree::
    :maxdepth: 2
+   :glob:
 
+   *
