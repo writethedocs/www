@@ -18,3 +18,4 @@ Contents
    conference/*
    tools/index
    meta/prior
+   interesting
