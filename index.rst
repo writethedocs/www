@@ -13,5 +13,6 @@ Contents
    :glob:
 
    meta/docs_on_docs
+   vision
    community
    conference
