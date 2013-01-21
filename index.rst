@@ -16,6 +16,7 @@ You have found yourself on one of the foundational aspects of the project. Insid
    tools/index
    community
    vision
+   interesting
 
 This repository is open source and is available on `GitHub`_. We would love contributions.
 
@@ -35,4 +36,3 @@ Information abut Write the Docs
    :glob:
 
    conference/*
-   interesting
