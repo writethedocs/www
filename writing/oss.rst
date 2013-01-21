@@ -1,6 +1,5 @@
-Documentation basics
-====================
-
+Open Source basics
+==================
 
 When a user comes to your documentation, it's important to present them with a set of information that is useful to them. This will hopefully be a good starting point of what to include in your documentation. Either on the front page, or linked in an obvious fashion.
 
