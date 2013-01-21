@@ -17,3 +17,4 @@ Contents
    community
    conference/*
    tools/index
+   meta/prior
