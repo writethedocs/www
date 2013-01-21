@@ -12,5 +12,6 @@ Contents
    :maxdepth: 2
    :glob:
 
+   meta/docs_on_docs
    community
-   meta/*
+   conference
