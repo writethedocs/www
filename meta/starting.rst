@@ -32,11 +32,3 @@ You are a SAAS or Services company and you have developers as your target audien
 
 This page of :doc:`prior` is good starting point to see some documentation that is well done.
 
-
-Moar
-----
-
-It will be the awesome love child of:
-
-    * https://gist.github.com/3729593
-    * http://jacobian.org/writing/great-documentation/what-to-write/

@@ -7,22 +7,6 @@ These docs
 ----------
 
 You have found yourself on one of the foundational aspects of the project. Inside these pages we are starting to document:
-    * How to get started writing docs
-    * What good docs should have
-    * How to build a documentation culture in your company
-    * Why documentation is important for businesses
-
-This repository is open source and is available on `GitHub`_. We would love contributions.
-
-.. :GitHub: https://github.com/writethedocs/docs
-
-The conference
---------------
-
-We'll be holding the first version of Write the Docs, the conference, in Portland, OR in early April 2013. This will bring together the community of documentarians into a room, for a number of reasons. We hope to help people discover a sense of community, to introduce new and interesting approaches and ideas, and generally have a meeting of the minds around documentation.
-
-Writing the docs
-----------------
 
 .. toctree::
    :maxdepth: 2
@@ -32,6 +16,16 @@ Writing the docs
    tools/index
    community
    vision
+
+This repository is open source and is available on `GitHub`_. We would love contributions.
+
+.. _GitHub: https://github.com/writethedocs/docs
+
+The conference
+--------------
+
+We'll be holding the first version of Write the Docs, the conference, in Portland, OR in early April 2013. This will bring together the community of documentarians into a room, for a number of reasons. We hope to help people discover a sense of community, to introduce new and interesting approaches and ideas, and generally have a meeting of the minds around documentation.
+
 
 Information abut Write the Docs
 -------------------------------
