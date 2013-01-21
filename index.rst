@@ -1,9 +1,23 @@
 Write the Docs!
 ===============
 
-Write the Docs is a community that we are building around the concept of documentation. There are a lot of people out there that write docs, but there isn't a good place to go to find information, ask questions, and generally be a member of a community of documentation writers. We hope to slowly solve this problem by building a place to go with lots of information, and other folks who are interested in similar things.
+Write the Docs is an attempt to give the documentation community a place to prosper. There are a lot of people out there that write docs, but there isn't a good place to go to find information, ask questions, and generally be a member of a community of documentation writers. We hope to slowly solve this problem by building a place with high quality information about the art of writing documentation. Along with that, we hope to open communication between all the awesome people out there writing documentation.
 
-The first step is a website and a conference. We'll be holding the first incantation of Write the Docs the conference in Portland, OR in early April 2013.
+These docs
+----------
+
+You have found yourself on one of the foundational aspects of the project. Inside these pages we are starting to document:
+    * How to get started writing docs
+    * What good docs should have
+    * How to build a documentation culture in your company
+    * Why documentation is important for businesses
+
+This repository is open source and is available on `GitHub`_. We would love contributions.
+
+The conference
+--------------
+
+We'll be holding the first version of Write the Docs, the conference, in Portland, OR in early April 2013. This will bring together the community of documentarians into a room, for a number of reasons. We hope to help people discover a sense of community, to introduce new and interesting approaches and ideas, and generally have a meeting of the minds around documentation.
 
 Contents
 --------
@@ -19,3 +33,6 @@ Contents
    tools/index
    meta/prior
    interesting
+
+
+.. :GitHub: https://github.com/writethedocs/docs
