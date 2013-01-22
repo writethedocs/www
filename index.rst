@@ -18,7 +18,8 @@ You have found yourself on one of the foundational aspects of the project. Insid
    vision
    interesting
 
-This repository is open source and is available on `GitHub`_. We would love contributions.
+..  note:: This repository is open source and is available on `GitHub`_. 
+    We would love contributions.
 
 .. _GitHub: https://github.com/writethedocs/docs
 
