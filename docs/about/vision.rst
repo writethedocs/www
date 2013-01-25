@@ -2,7 +2,7 @@
 Vision
 ======
 
-There exists a tribe of documentarians in the world. Up until this point, they haven't had a central place to meet each other, and coalesce into a community. We hope to provide the space to allow this to happen, both in person and online.
+There exists a tribe of documentarians in the world. Up until this point, they haven't had a central place to meet each other, and coalesce into a community. We are providing the space to allow this to happen, both in person and online.
 
 The time for all technical people to care about documentation is now. We've lived too long with awful instructions for the tools we use everyday. People should demand solid instruction of things that they use.
 
