@@ -1,5 +1,5 @@
-Write the Docs!
-===============
+Welcome
+=======
 
 Write the Docs is a place where the art of documentation can be practiced and appreciated. There are a lot of people out there that write docs, but there isn't a good place to go to find good information, ask questions, and generally be a member of a community of documentatarians. We hope to slowly solve this problem by building a place with high quality information about the art of writing documentation. Along with that, we hope to open communication between all the awesome people out there writing documentation.
 
