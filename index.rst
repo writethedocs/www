@@ -14,9 +14,7 @@ You have found yourself on one of the foundational aspects of the project. Insid
 
    starting
    tools/index
-   community
-   vision
-   interesting
+   about/index
 
 ..  note:: This repository is open source and is available on `GitHub`_. 
     We would love contributions.

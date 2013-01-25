@@ -1,2 +1,4 @@
 _build
 
+# Editors' temporary buffers.
+*.swp
