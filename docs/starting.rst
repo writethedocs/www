@@ -30,5 +30,5 @@ Enterprise Users
 
 You are a SAAS or Services company and you have developers as your target audience. If you don't have great documentation, your competitors will leave you in the dust. It will also jack up your support costs, because customers can't help themselves.
 
-This page of :doc:`writing/prior` is good starting point to see some documentation that is well done.
+This page of :ref:`interesting-approaches` is good starting point to see some documentation that is well done.
 

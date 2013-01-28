@@ -4,6 +4,7 @@ Alternatives and related projects
 This document presents other projects that provide similar or complementary
 functionalities. It focuses on differences with WriteTheDocs.
 
+.. _interesting-approaches:
 
 Interesting approaches to documentation
 ---------------------------------------
