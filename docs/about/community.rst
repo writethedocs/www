@@ -4,8 +4,8 @@ Documentation Community
 
 We are bringing together a community around documentation. Communities need a `Third Place`_ to gather, and we hope to be that place. We currently have an IRC channel and mailing list for people to connect on:
 
-    * #writethedocs on Freenode IRC
-    * Write the Docs Google Group
+    * `#writethedocs`_ on Freenode IRC
+    * Write the Docs `Mailing List`_
     * Write the Docs on `Twitter`_
     * Write the Docs on `GitHub`_
 
@@ -17,3 +17,5 @@ A community without people who help maintain standards and advance the state of 
 .. _Third Place: http://en.wikipedia.org/wiki/Third_place
 .. _GitHub: https://github.com/writethedocs
 .. _Twitter: http://twitter.com/writethedocs
+.. _#writethedocs: http://webchat.freenode.net/?channels=writethedocs
+.. _Mailing List: https://groups.google.com/forum/?fromgroups=#!forum/write-the-docs
