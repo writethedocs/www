@@ -8,18 +8,10 @@ Write the Docs is a place where the art of documentation can be practiced and ap
 Resources
 ---------
 
-* Discover & learn:
-
-  * Online documentation: http://docs.writethedocs.org/
-
-* Meet:
-
-  * Conference: http://conf.writethedocs.org/
-  * IRC: `#writethedocs on freenode <http://webchat.freenode.net/?channels=writethedocs>`_
-  * Twitter: http://twitter.com/writethedocs
-  * Mailing List: https://groups.google.com/forum/?fromgroups=#!forum/write-the-docs
-
-* Contribute:
-
-  * Issues & feature requests: https://github.com/writethedocs/docs/issues
-  * Source repository: https://github.com/writethedocs/docs
+* Online documentation: http://docs.writethedocs.org/
+* Conference: http://conf.writethedocs.org/
+* IRC: `#writethedocs on freenode <http://webchat.freenode.net/?channels=writethedocs>`_
+* Twitter: http://twitter.com/writethedocs
+* Mailing List: https://groups.google.com/forum/?fromgroups=#!forum/write-the-docs
+* Issues & feature requests: https://github.com/writethedocs/docs/issues
+* Source repository: https://github.com/writethedocs/docs
