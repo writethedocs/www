@@ -1,1 +1,1 @@
-.. include:: ../AUTHORS
+.. include:: ../../AUTHORS
