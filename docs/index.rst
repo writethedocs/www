@@ -14,6 +14,7 @@ You have found yourself on one of the foundational aspects of the project. Insid
 
    starting
    tools/index
+   writing/index
    about/index
    writing/index
 

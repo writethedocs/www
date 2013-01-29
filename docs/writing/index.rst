@@ -1,11 +1,11 @@
-=====================
-Writing Documentation
-=====================
+=============================
+Writing documentation content
+=============================
 
-Writing documentation is hard work. Below you will find some sections devoted to different users who need to write documentation. 
+This section contains recommendations about documentation content.
 
 .. toctree::
-   :maxdepth: 2
-   :glob:
 
-   *
+   what
+   oss
+   what-not/index
