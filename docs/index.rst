@@ -10,7 +10,6 @@ You have found yourself on one of the foundational aspects of the project. Insid
 
 .. toctree::
    :maxdepth: 2
-   :glob:
 
    starting
    tools/index
@@ -30,10 +29,9 @@ We'll be holding the first version of Write the Docs, the conference, in Portlan
 
 
 Information about Write the Docs
--------------------------------
+--------------------------------
 
 .. toctree::
    :maxdepth: 2
-   :glob:
 
-   conference/*
+   conference/index

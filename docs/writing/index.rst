@@ -9,3 +9,4 @@ This section contains recommendations about writing documentation. What to do, a
    what
    oss
    what-not/index
+   mindshare

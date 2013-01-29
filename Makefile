@@ -20,7 +20,10 @@ dependencies:
 develop: virtualenv dependencies
 
 
-documentation:
+docs/_static:
+	mkdir -p docs/_static
+
+documentation: docs/_static
 	mkdir -p $(ROOT_DIR)/var/docs
 	make --directory=docs clean html
 
