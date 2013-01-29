@@ -5,6 +5,7 @@ BIN_DIR = $(VIRTUALENV_DIR)/bin
 PIP = $(BIN_DIR)/pip
 PIP_REQUIREMENTS = $(ROOT_DIR)/etc/pip/requirements.txt
 SPHINX_BUILD = $(BIN_DIR)/sphinx-build
+NOSE = $(BIN_DIR)/nosetests
 
 
 virtualenv:
@@ -22,3 +23,6 @@ develop: virtualenv dependencies
 documentation:
 	mkdir -p $(ROOT_DIR)/var/docs
 	make --directory=docs clean html
+
+test:
+	$(NOSE) --config=etc/nose.cfg
