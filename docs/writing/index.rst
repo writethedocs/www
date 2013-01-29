@@ -1,8 +1,8 @@
-=============================
-Writing documentation content
-=============================
+=====================
+Writing documentation 
+=====================
 
-This section contains recommendations about documentation content.
+This section contains recommendations about writing documentation. What to do, and what not to do.
 
 .. toctree::
 
