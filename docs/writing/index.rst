@@ -10,3 +10,4 @@ This section contains recommendations about writing documentation. What to do, a
    oss
    what-not/index
    mindshare
+   doctests

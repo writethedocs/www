@@ -23,9 +23,13 @@ develop: virtualenv dependencies
 docs/_static:
 	mkdir -p docs/_static
 
-documentation: docs/_static
+
+var/docs:
 	mkdir -p $(ROOT_DIR)/var/docs
-	make --directory=docs clean html
+
+
+documentation: docs/_static var/docs
+	make --directory=docs clean html doctest
 
 test:
 	$(NOSE) --config=etc/nose.cfg

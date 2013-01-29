@@ -107,10 +107,10 @@ class DocumentationBuildTestCase(TestCase):
         self.assertEqual(self.exit_code, 0, msg)
 
     def test_stderr(self):
-        """Documentation build doesn't report errors (on STDERR)."""
+        """Documentation build doesn't report errors."""
         self.build_documentation()
-        msg = """Command "%s" reported errors or warnings on STDERR:\n%s""" % (
-            ' '.join(self.command), self.stderr)
+        msg = """Command "%s" reported errors or warnings on STDERR:\n\n%s""" \
+              % (' '.join(self.command), self.stderr)
         self.assertEqual(self.stderr, '', msg)
 
     def test_build_created(self):
