@@ -12,7 +12,7 @@ We're proud to announce the first round of speakers and sponsors for the event. 
 Speakers
 --------
 
-A conference depends on lots of parts, but having great speakers is important. They will set the tone of the conference, and give us all something to think about. We have been trying to find speakers from different backgrounds in the documentation world. In that spirit, we're happy to announce the first 3 speakers of the conference:
+A conference depends on lots of parts, but having great speakers is the most important. They will set the tone of the conference, and give us all something to think about. We have been trying to find speakers from different backgrounds in the documentation world. In that spirit, we're happy to announce the first three speakers of the conference:
 
     * `Nóirín Plunkett`_
         Nóirín Plunkett is a jack of all trades, and a master of several. By day, she works for Eucalyptus Systems, as a geek<->English translator, and general force multiplier. She's passionate about community, communication, and collaboration.
