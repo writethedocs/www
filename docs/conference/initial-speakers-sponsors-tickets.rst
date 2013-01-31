@@ -37,13 +37,10 @@ As you may have noticed, we have kept the prices for this years conference very 
 
 The initial sponsors for Write the Docs are:
 
-    * `Basho`_
+     |Basho|_
+     |Urban Airship|_
+     |Wufoo|_
 
-    .. image:: /img/basho.png
-
-    * `Urban Airship`_
-
-    .. image:: /img/urbanairship.rst
 
 If you are interested in sponsoring Write the Docs, you can find more information by downloading the `Write the Docs sponsorship brochure`_
 
@@ -55,5 +52,11 @@ If you are interested in sponsoring Write the Docs, you can find more informatio
 .. _Kenneth Reitz: http://kennethreitz.org/
 .. _Nóirín Plunkett: http://about.me/noirin
 .. _Jim Wilson: http://jimbojw.com/
+
+.. |Basho| image:: /img/basho.png
 .. _Basho: http://basho.com/
+.. |Urban Airship| image:: /img/urbanairship.png
 .. _Urban Airship: http://urbanairship.com/
+
+.. |Wufoo| image:: /img/wufoo.png
+.. _Wufoo: http://www.wufoo.com/
