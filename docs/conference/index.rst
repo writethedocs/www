@@ -12,6 +12,9 @@ We invite all those who write the docs to spread the word:
 Docs or it didn't happen!
 
 
+Announcements
+-------------
+
 .. toctree::
    :maxdepth: 2
    :glob:
