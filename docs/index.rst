@@ -1,6 +1,3 @@
-Welcome
-=======
-
 .. include:: ../README.rst
 
 These docs
