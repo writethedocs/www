@@ -15,13 +15,13 @@ Speakers
 A conference depends on lots of parts, but having great speakers is important. They will set the tone of the conference, and give us all something to think about. We have been trying to find speakers from different backgrounds in the documentation world. In that spirit, we're happy to announce the first 3 speakers of the conference:
 
     * `Nóirín Plunkett`_
-        Nóirín Plunkett is a jack of all trades, and a master of several. By day, she works for Eucalyptus Systems, as a geek<->English translator, and general force multiplier. She's passionate about community, communication, and collaboration. 
+        Nóirín Plunkett is a jack of all trades, and a master of several. By day, she works for Eucalyptus Systems, as a geek<->English translator, and general force multiplier. She's passionate about community, communication, and collaboration.
 
     * `Kenneth Reitz`_
         Kenneth Reitz is the product owner of Python at Heroku and a member of the Python Software Foundation. He embraces minimalism, elegant architecture, and simple interfaces. Kenneth is well known for his many open source projects, specifically Requests. His projects are always well documented, and he is the curator of the The Hitchhiker’s Guide to Python, which documents best practices for Python developers.
 
     * `Jim Wilson`_
-        Jim managed internal docs for VistaPrint, and is writing the node.js book for the Pragmatic Programmers.
+        Jim R. Wilson started hacking at the age of 13 and never looked back. He has contributed to open source projects such as MediaWiki and HBase, and managed the large-scale documentation system at Vistaprint. He's co-author of one NoSQL book, and currently writing a node.js book.
 
 The `Call for Proposals`_ is open until Febuary 11. Submit a talk today!
 
