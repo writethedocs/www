@@ -14,3 +14,9 @@ Resources
 * Mailing List: https://groups.google.com/forum/?fromgroups=#!forum/write-the-docs
 * Issues & feature requests: https://github.com/writethedocs/docs/issues
 * Source repository: https://github.com/writethedocs/docs
+
+To build this repo locally, run::
+
+    make develop
+    make documentation
+
