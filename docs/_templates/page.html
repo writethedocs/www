@@ -33,7 +33,10 @@
   {{ super() }}
 
 {% if disqus_shortname %}
-<h2>Comments</h2>
+<h2 id="comments">
+Comments
+<a class="headerlink" href="#comments" title="Permalink to this headline">¶</a>
+</h2>
   {{ comments() }}
 {% else %}
 <!-- disqus commenting disabled; set disqus_shortname -->
