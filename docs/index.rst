@@ -13,7 +13,6 @@ You have found yourself on one of the foundational aspects of the project. Insid
    tools/index
    writing/index
    about/index
-   writing/index
 
 ..  note:: This repository is open source and is available on `GitHub`_. 
     We would love contributions.
@@ -27,7 +26,7 @@ We'll be holding the first version of Write the Docs, the conference, in Portlan
 
 
 Information about Write the Docs
--------------------------------
+--------------------------------
 
 .. toctree::
    :maxdepth: 2

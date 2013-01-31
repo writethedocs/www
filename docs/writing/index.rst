@@ -8,4 +8,5 @@ This section contains recommendations about writing documentation. What to do, a
 
    what
    oss
+   mindshare
    what-not/index
