@@ -20,4 +20,3 @@ Announcements
    :glob:
 
    *
-
