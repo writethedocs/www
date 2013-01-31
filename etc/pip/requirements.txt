@@ -8,3 +8,4 @@ nose==1.2.1
 python-termstyle==0.1.10
 rednose==0.3.3
 wsgiref==0.1.2
+https://bitbucket.org/benoitbryon/sphinxcontrib-testbuild/get/tip.tar.gz#egg=sphinxcontrib.testbuild
