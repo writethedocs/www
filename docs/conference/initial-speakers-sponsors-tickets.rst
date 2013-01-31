@@ -39,11 +39,11 @@ The initial sponsors for Write the Docs are:
 
     * `Basho`_
 
-    .. image:: http://conf.writethedocs.org/img/sponsors/basho.png
+    .. image:: /img/basho.png
 
     * `Urban Airship`_
 
-    .. image:: http://conf.writethedocs.org/img/sponsors/urbanairship.png
+    .. image:: /img/urbanairship.rst
 
 If you are interested in sponsoring Write the Docs, you can find more information by downloading the `Write the Docs sponsorship brochure`_
 
