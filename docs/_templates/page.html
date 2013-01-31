@@ -9,6 +9,10 @@
 {% macro comments() %}
 {% if 'conference' in pagename  %}
 <!-- Only show comments in the Conference section -->
+<h2 id="comments">
+Comments
+<a class="headerlink" href="#comments" title="Permalink to this headline">¶</a>
+</h2>
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -33,10 +37,6 @@
   {{ super() }}
 
 {% if disqus_shortname %}
-<h2 id="comments">
-Comments
-<a class="headerlink" href="#comments" title="Permalink to this headline">¶</a>
-</h2>
   {{ comments() }}
 {% else %}
 <!-- disqus commenting disabled; set disqus_shortname -->
