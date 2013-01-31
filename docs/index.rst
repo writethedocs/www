@@ -32,4 +32,4 @@ Information about Write the Docs
    :maxdepth: 2
    :glob:
 
-   conference/*
+   conference/index
