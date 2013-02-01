@@ -42,13 +42,14 @@ The initial sponsors for Write the Docs are:
      |Wufoo|_
 
 
-If you are interested in sponsoring Write the Docs, you can find more information by downloading the `Write the Docs sponsorship brochure`_
+If you are interested in sponsoring Write the Docs, please contact `Eric Holscher`.
 
 .. Yes, RST link syntax is the worst thing ever.
 
 .. _Write the Docs: http://conf.writethedocs.org/
 .. _Call for Proposals: http://conf.writethedocs.org/#speakers
-.. _Write the Docs sponsorship brochure: http://conf.writethedocs.org/WritetheDocsSponsorshipBrochure.pdf
+.. _Eric Holscher: mailto:eric@ericholscher.com?Subject=[Write%20the%20Docs]%20Sponsorship
+
 .. _Kenneth Reitz: http://kennethreitz.org/
 .. _Nóirín Plunkett: http://about.me/noirin
 .. _Jim Wilson: http://jimbojw.com/
@@ -57,6 +58,5 @@ If you are interested in sponsoring Write the Docs, you can find more informatio
 .. _Basho: http://basho.com/
 .. |Urban Airship| image:: /img/urbanairship.png
 .. _Urban Airship: http://urbanairship.com/
-
 .. |Wufoo| image:: /img/wufoo.png
 .. _Wufoo: http://www.wufoo.com/
