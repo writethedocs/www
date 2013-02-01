@@ -33,7 +33,7 @@ Pricing conferences is a hard business. Since the inception we have wanted Write
 Sponsors
 --------
 
-As you may have noticed, we have kept the prices for this years conference very low. This is possible through sponsorships who help to defray the cost to attendees. We are very grateful to these organizations who have helped us put the conference on.
+As you may have noticed, we have kept the prices for this years conference very low. This is possible through sponsors who help to defray the cost to attendees. We are very grateful to these organizations who have helped us put the conference on.
 
 The initial sponsors for Write the Docs are:
 
