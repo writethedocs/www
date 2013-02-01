@@ -42,7 +42,7 @@ The initial sponsors for Write the Docs are:
      |Wufoo|_
 
 
-If you are interested in sponsoring Write the Docs, please contact `Eric Holscher`.
+If you are interested in sponsoring Write the Docs, please contact `Eric Holscher`_.
 
 .. Yes, RST link syntax is the worst thing ever.
 
