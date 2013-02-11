@@ -14,7 +14,7 @@ virtualenv:
 
 
 dependencies:
-	if [ ! -x $(SPHINX_BUILD) ]; then $(PIP) install -r $(PIP_REQUIREMENTS); fi
+	if [ ! -x $(SPHINX_BUILD) ]; then $(PIP) install -r $(PIP_REQUIREMENTS) --use-mirrors; fi
 
 
 develop: virtualenv dependencies
