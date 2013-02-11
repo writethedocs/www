@@ -7,7 +7,6 @@ You have found yourself on one of the foundational aspects of the project. Insid
 
 .. toctree::
    :maxdepth: 2
-   :glob:
 
    starting
    tools/index
@@ -30,6 +29,5 @@ Information about Write the Docs
 
 .. toctree::
    :maxdepth: 2
-   :glob:
 
    conference/index
