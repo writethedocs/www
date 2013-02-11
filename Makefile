@@ -31,5 +31,17 @@ var/docs:
 documentation: docs/_static var/docs
 	make --directory=docs clean html doctest
 
+
 test:
 	$(NOSE) --config=etc/nose.cfg
+
+
+clean:
+	find $(ROOT_DIR)/ -name "*.pyc" -delete
+
+
+distclean: clean
+
+
+maintainer-clean:
+	rm -rf $(ROOT_DIR)/bin/ $(ROOT_DIR)/lib/
