@@ -1,7 +1,12 @@
 # Libraries.
 /lib/
 
+# Data.
 /var/
+
+# Python files.
+*.pyc
+*.pyo
 
 # Editors' temporary buffers.
 *.swp

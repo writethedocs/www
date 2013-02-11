@@ -1,4 +1,10 @@
 Changelog
 =========
 
-Nothing released yet.
+0.1 (unreleased)
+----------------
+
+Project initialization.
+
+* Using Travis-CI.org as continuous integration platform.
+* Using sphinxcontrib-testbuild to test documentation builds.
