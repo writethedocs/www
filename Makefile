@@ -45,3 +45,7 @@ distclean: clean
 
 maintainer-clean:
 	rm -rf $(ROOT_DIR)/bin/ $(ROOT_DIR)/lib/
+
+
+authors:
+	git log --pretty="* %aN <%aE>" | sort | uniq
