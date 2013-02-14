@@ -114,6 +114,29 @@ ul, ol {
 
 blockquote {
   margin: 0 0 0 20px;
+  padding: 8px;
+  border-style: 1px solid #cccccc;
+  background-color: #fafafa;
+}
+blockquote > div {
+
+}
+blockquote > div:before,
+blockquote > div:after {
+  line-height: 1em;
+  font-weight: bold;
+  font-size: 2em;
+  color: #cccccc;
+}
+blockquote > div:before {
+  content: open-quote;
+  margin-right: 4px;
+  float: left;
+}
+blockquote > div:after {
+  content: close-quote;
+  margin-left: 4px;
+  float: right;
 }
 
 dl dd {
