@@ -41,7 +41,21 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Write the Docs'
-copyright = u'2013, Eric Holscher, Troy Howard'
+copyright = """
+<a rel="license"
+   href="http://creativecommons.org/licenses/by/3.0/"
+   style="float:right;height:3em;line-height:3em;padding:10px 0 0 1em;">
+    <img alt="Creative Commons License" style="border-width:0"
+         src="http://i.creativecommons.org/l/by/3.0/88x31.png" />
+</a>
+2013, Eric Holscher, Troy Howard.
+<br />
+This work is licensed under a
+<br />
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/">
+    Creative Commons Attribution 3.0 Unported License
+</a>
+"""
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
