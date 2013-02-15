@@ -20,6 +20,10 @@ dependencies:
 develop: virtualenv dependencies
 
 
+update:
+	$(PIP) install -U -r $(PIP_REQUIREMENTS) --use-mirrors
+
+
 docs/_static:
 	mkdir -p docs/_static
 
