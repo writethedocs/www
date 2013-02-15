@@ -9,5 +9,9 @@ This section contains recommendations about writing documentation. What to do, a
    what
    oss
    mindshare
+   documentation-usage
+   documentation-is-part-of-the-product
+   kiss
+   be-directive
    what-not/index
    doctests
