@@ -17,15 +17,13 @@ We looked long and hard to find a fitting venue for the inaugural Write the Docs
 
 The building, listed in the National Register of Historic Places, was dedicated by the Swedish Evangelical Mission Covenant Church of Portland on February 18, 1912. It has long been a cornerstone of many communities, and has served them well. We think that it will be a fitting home for our community of documentarians, though only for a few days.
 
-If you are curious about the full history of the venue, there is a `historical brochure`_.
-
-There is also a :doc:`venue page <venue>`, which we will be
-updating as the conference nears. 
+There is also a :doc:`venue page <venue>`, which has more photos and
+information.
 
 General Ticket Sales
 --------------------
 
-We are now selling tickets for the conference at the normal price of **$75**.
+We are now `selling tickets for the conference`_ at the normal price of **$75**.
 We are happy that the early bird tickets sold out as well. The total number of
 tickets for the confernece is only **200**, so make sure to buy yours today.
 
@@ -36,9 +34,14 @@ perfect size for the event, and we're really excited!
 Call for Proposals has ended
 ----------------------------
 
-Last monday the CFP for talks ended. We are overjoyed with the number and
+Last Monday the CFP for talks ended. We are overjoyed with the number and
 quality of the talks submitted! The selection process is now over, and we will
 be sending out emails to everyone who submitted a talk this week.
 
 We should be able to announce the final schedule next week once we have
 confirmed all of the speakers.
+
+
+.. _Mission Theater: http://www.mcmenamins.com/215-mission-theater-history
+.. _historical brochure: http://www.mcmenamins.com/system/uploads/assets/History_PDFs/history.mission.pdf
+.. _selling tickets for the conference: http://conf.writethedocs.org/tickets.html
