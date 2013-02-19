@@ -25,7 +25,7 @@ sys.path.insert(0, os.path.abspath('../vendor'))
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['feed']
+extensions = ['feed', 'sphinx.ext.doctest']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -41,7 +41,21 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Write the Docs'
-copyright = u'2013, Eric Holscher, Troy Howard'
+copyright = """
+<a rel="license"
+   href="http://creativecommons.org/licenses/by/3.0/"
+   style="float:right;height:3em;line-height:3em;padding:10px 0 0 1em;">
+    <img alt="Creative Commons License" style="border-width:0"
+         src="http://i.creativecommons.org/l/by/3.0/88x31.png" />
+</a>
+2013, Eric Holscher, Troy Howard.
+<br />
+This work is licensed under a
+<br />
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/">
+    Creative Commons Attribution 3.0 Unported License
+</a>
+"""
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -135,7 +149,12 @@ html_static_path = ['_static']
 #html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
-#html_sidebars = {}
+html_sidebars = {
+    '**': ['globaltoc.html',
+           'relations.html',
+           'sourcelink.html',
+           'searchbox.html'],
+}
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
