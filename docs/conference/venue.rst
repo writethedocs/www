@@ -1,7 +1,7 @@
 2013 Venue: Mission Theater
 ===========================
 
-**1624 NW Glisan St  Portland, OR 97209**.
+`1624 NW Glisan St  Portland, OR 97209`_
 
 We looked long and hard to find a fitting venue for the inaugural Write the Docs conference. So, we are very excited to be holding it in the `Mission Theater`_ in Portland, Oregon. With roots as a Swedish Evangelical Mission and Longshoreman's Union, it is a wonderful building with a lot of history.
 
@@ -24,3 +24,4 @@ Photos
 
 .. _Mission Theater: http://www.mcmenamins.com/215-mission-theater-history
 .. _historical brochure: http://www.mcmenamins.com/system/uploads/assets/History_PDFs/history.mission.pdf
+.. _1624 NW Glisan St  Portland, OR 97209: https://maps.google.com/maps?q=1624+NW+Glisan+St++Portland,+OR+97209&hl=en&sll=45.543408,-122.654422&sspn=0.382318,0.637207&hnear=1624+NW+Glisan+St,+Portland,+Multnomah,+Oregon+97209&t=m&z=16
