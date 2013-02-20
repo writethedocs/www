@@ -22,9 +22,9 @@ information.
 General Ticket Sales
 --------------------
 
-Tickets for the conference are `now available`_ for only **$75**. We're limiting conference tickets to a mere **200**, so be sure to buy yours right now. We were amazed at how quickly the early bird tickets sold out.
+Tickets for the conference are `now available`_ for only **$75**. We're limiting conference tickets to a mere **200**, so be sure to buy yours right away. We were amazed at how quickly the early bird tickets sold out.
 
-We want to keep the conference at a reasonable number of people, to help foster communication and craft a more intimate experience. The venue is the perfect size for the event, and we’re really excited!
+We want to keep the conference at a reasonable number of people, to help foster communication and craft a more intimate experience. The venue is the perfect size for the event, and we think it will work perfectly. 
 
 Additional Sponsors
 -------------------
