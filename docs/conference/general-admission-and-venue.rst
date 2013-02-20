@@ -1,7 +1,7 @@
 :Date: 2013-02-19 15:00:00
 
-Announcing the conference venue, general admission sales, and end of CFP
-========================================================================
+Announcing Venue, General Ticket Sales, Additional Sponsors
+=====================================================
 
 Lots of things have been happening on the Write the Docs front lately. Things
 have been coming together nicely for the conference, and we have some exciting
@@ -31,6 +31,13 @@ We are happy to keep the conference at such a reasonable number of people,
 because we think it will be a very intimate experience. The venue is the
 perfect size for the event, and we're really excited!
 
+Additional Sponsors
+-------------------
+
+We are proud to announce three additional sponsors for the conference. `Mozilla`_,
+`Heroku`_, and `ESRI`_. Thanks to these awesome companies for helping make
+Write the Docs possible!
+
 Call for Proposals has ended
 ----------------------------
 
@@ -45,3 +52,7 @@ confirmed all of the speakers.
 .. _Mission Theater: http://www.mcmenamins.com/215-mission-theater-history
 .. _historical brochure: http://www.mcmenamins.com/system/uploads/assets/History_PDFs/history.mission.pdf
 .. _selling tickets for the conference: http://conf.writethedocs.org/tickets.html
+
+.. _Mozilla: http://www.mozilla.org/en-US/
+.. _Heroku: http://www.heroku.com/
+.. _ESRI: http://www.esri.com/
