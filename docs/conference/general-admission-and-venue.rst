@@ -3,19 +3,18 @@
 Announcing Venue, General Ticket Sales, Additional Sponsors
 =====================================================
 
-Lots of things have been happening on the Write the Docs front lately. Things
-have been coming together nicely for the conference, and we have some exciting
-announcements today. 
+Many new developments have occurred on the Write the Docs front lately. Details have coalesced nicely for the conference, and we have some exciting announcements today.
+
 
 Venue
 -----
 
-We looked long and hard to find a fitting venue for the inaugural Write the Docs conference. So, we are very excited to be holding it in the `Mission Theater`_ in Portland, Oregon. With roots as a Swedish Evangelical Mission and Longshoreman's Union, it is a wonderful building with a lot of history.
+We searched far and wide to find a fitting venue for the inaugural Write the Docs. We are thrilled to hold the conference in the `Mission Theater`_ in Portland, Oregon. With roots as a Swedish Evangelical Mission and Longshoreman’s Union, it is a wonderful building with a rich history.
 
 .. image:: /img/mission-outside.jpg
    :width: 400 px
 
-The building, listed in the National Register of Historic Places, was dedicated by the Swedish Evangelical Mission Covenant Church of Portland on February 18, 1912. It has long been a cornerstone of many communities, and has served them well. We think that it will be a fitting home for our community of documentarians, though only for a few days.
+Listed in the National Register of Historic Places, this building was dedicated by the Swedish Evangelical Mission Covenant Church of Portland on February 18, 1912. It has long been an important hub for communities, and we believe that it will be a fitting home for our new community of documentarians.
 
 There is also a :doc:`venue page <venue>`, which has more photos and
 information.
@@ -23,13 +22,9 @@ information.
 General Ticket Sales
 --------------------
 
-We are now `selling tickets for the conference`_ at the normal price of **$75**.
-We are happy that the early bird tickets sold out as well. The total number of
-tickets for the conference is only **200**, so make sure to buy yours today.
+Tickets for the conference are `now available`_ for only **$75**. We're limiting conference tickets to a mere **200**, so be sure to buy yours right now. We were amazed at how quickly the early bird tickets sold out.
 
-We are happy to keep the conference at such a reasonable number of people,
-because we think it will be a very intimate experience. The venue is the
-perfect size for the event, and we're really excited!
+We want to keep the conference at a reasonable number of people, to help foster communication and craft a more intimate experience. The venue is the perfect size for the event, and we’re really excited!
 
 Additional Sponsors
 -------------------
@@ -51,7 +46,7 @@ confirmed all of the speakers.
 
 .. _Mission Theater: http://www.mcmenamins.com/215-mission-theater-history
 .. _historical brochure: http://www.mcmenamins.com/system/uploads/assets/History_PDFs/history.mission.pdf
-.. _selling tickets for the conference: http://conf.writethedocs.org/tickets.html
+.. _now available: http://conf.writethedocs.org/tickets.html
 
 .. _Mozilla: http://www.mozilla.org/en-US/
 .. _Heroku: http://www.heroku.com/
