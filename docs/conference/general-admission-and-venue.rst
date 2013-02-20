@@ -25,7 +25,7 @@ General Ticket Sales
 
 We are now `selling tickets for the conference`_ at the normal price of **$75**.
 We are happy that the early bird tickets sold out as well. The total number of
-tickets for the confernece is only **200**, so make sure to buy yours today.
+tickets for the conference is only **200**, so make sure to buy yours today.
 
 We are happy to keep the conference at such a reasonable number of people,
 because we think it will be a very intimate experience. The venue is the
