@@ -1,7 +1,7 @@
 :Date: 2013-02-19 15:00:00
 
 Announcing Venue, General Ticket Sales, Additional Sponsors
-=====================================================
+===========================================================
 
 Many new developments have occurred on the Write the Docs front lately.
 Details have coalesced nicely for the conference, and we have some exciting announcements today.
