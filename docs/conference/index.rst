@@ -30,5 +30,4 @@ Conference Information
    :glob:
 
    venue
-   talks
    hike
