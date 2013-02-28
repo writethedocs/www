@@ -5,7 +5,7 @@ Write the Docs 2013 Presentations
    :local:
 
 
-Ana Nelson -Integrating Development, Documentation and Reporting    
+Ana Nelson - Integrating Development, Documentation and Reporting    
 -----------------------------------------------------------------------------------------
 
     **40 minutes**
