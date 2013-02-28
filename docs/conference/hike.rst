@@ -57,6 +57,14 @@ Finish
 On the other side of Hoyt is the `Oregon Zoo`_, where we can take the MAX back to downtown.
 People who wish to stay around in the park or zoo are more than welcome.
 
+After Party
+-----------
+
+We will be getting off the MAX near Bailey's Tap Room, which has 20 rotating
+taps of the best beer in the Northwest. We will hang out here for a bit, and
+then head over to the Write the Docs preregistration event to get ready for the
+conference.
+
 .. _take transit: https://maps.google.com/maps?saddr=McMenamins+Mission+Theater,+1624+NW+Glisan+St,+Portland,+OR&daddr=MacLeay+Park+Entrance,+Northwest+Upshur+Street,+Portland,+OR&hl=en&ll=45.529471,-122.700291&spn=0.023931,0.032358&sll=45.529501,-122.700248&sspn=0.023931,0.032358&geocode=FT6ttgIdkO2v-CHTbbXzuzB62Slv6GxU-AmVVDHTbbXzuzB62Q%3BFYLStgIdMI6v-CGojI77DIHw4SnVqz2N6QmVVDGojI77DIHw4Q&gl=us&dirflg=r&ttype=arr&date=04%2F07%2F13&time=1pm&noexp=0&noal=0&sort=def&mra=ls&t=m&z=15&start=0
 .. _Macleay Park Entrance: https://maps.google.com/maps?q=Macleay+Park+Entrance&fb=1&gl=us&hq=Macleay+Park+Entrance&hnear=0x54950b0b7da97427:0x1c36b9e6f6d18591,Portland,+OR&cid=0,0,16280654545704357032&t=m&z=16&iwloc=A
 .. _Visual of the hike: https://maps.google.com/maps?saddr=MacLeay+Park+Entrance,+NW+Upshur+St,+Portland,+OR&daddr=45.527373,-122.718589+to:45.5225885,-122.717297+to:oregon+zoo&hl=en&ll=45.52448,-122.717757&spn=0.023933,0.032358&sll=45.522345,-122.712822&sspn=0.023934,0.032358&geocode=FYLStgIdMI6v-CGojI77DIHw4SnVqz2N6QmVVDGojI77DIHw4Q%3BFU2xtgIdg3av-CmRNoxzkQmVVDFxAN8jMh2eKQ%3BFZyetgIdj3uv-CnD2fb_jgmVVDHuWX9DnHsevQ%3BFZpttgIdAoGv-CEm_N2esCDn5ykFuFa4LgqVVDEm_N2esCDn5w&oq=macleay+park&gl=us&dirflg=w&mra=dpe&mrsp=2&sz=15&via=1,2&t=m&z=15
