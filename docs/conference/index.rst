@@ -19,4 +19,16 @@ Announcements
    :maxdepth: 2
    :glob:
 
-   *
+   general-admission-and-venue
+   initial-speakers-sponsors-tickets
+
+Conference Information
+----------------------
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   venue
+   talks
+   hike
