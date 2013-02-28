@@ -22,10 +22,16 @@ The hike
 
 The hike will be around 6 miles long, and have 1000 feet of elevation gain.
 
+Meander
+~~~~~~~
+
 It will follow Balch Creek up from the entrace of `Forest Park`_. 
 
 .. image:: /img/balch.jpg
    :width: 500px
+
+Climb
+~~~~~
 
 Then we will switchback through beautiful forest until we get to Pittock Mansion.
 Pittock affords one of the best views of the city, and hopefully Mt. Hood & Mt. St. Helens if it's clear!
@@ -33,10 +39,18 @@ Pittock affords one of the best views of the city, and hopefully Mt. Hood & Mt. 
 .. image:: /img/pittock.jpg
    :width: 500px
 
+Diversity
+~~~~~~~~~
+
 After this we will descend into `Washington Park`_, and the beautiful `Hoyt Arboretum`_.
 There are a number of paths through Hoyt, and we can play that by year.
+More than 5,800 specimens from around the world grow here, including more than 1,100 species, which are valuable in reforesting damaged habitats.
+
+Finish
+~~~~~~
+
 On the other side of Hoyt is the `Oregon Zoo`_, where we can take the MAX back to downtown.
-People who wish to stay around in the park are more than welcome.
+People who wish to stay around in the park or zoo are more than welcome.
 
 .. _take transit: https://maps.google.com/maps?saddr=McMenamins+Mission+Theater,+1624+NW+Glisan+St,+Portland,+OR&daddr=MacLeay+Park+Entrance,+Northwest+Upshur+Street,+Portland,+OR&hl=en&ll=45.529471,-122.700291&spn=0.023931,0.032358&sll=45.529501,-122.700248&sspn=0.023931,0.032358&geocode=FT6ttgIdkO2v-CHTbbXzuzB62Slv6GxU-AmVVDHTbbXzuzB62Q%3BFYLStgIdMI6v-CGojI77DIHw4SnVqz2N6QmVVDGojI77DIHw4Q&gl=us&dirflg=r&ttype=arr&date=04%2F07%2F13&time=1pm&noexp=0&noal=0&sort=def&mra=ls&t=m&z=15&start=0
 .. _Macleay Park Entrance: https://maps.google.com/maps?q=Macleay+Park+Entrance&fb=1&gl=us&hq=Macleay+Park+Entrance&hnear=0x54950b0b7da97427:0x1c36b9e6f6d18591,Portland,+OR&cid=0,0,16280654545704357032&t=m&z=16&iwloc=A
