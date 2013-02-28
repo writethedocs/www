@@ -2,7 +2,7 @@ Write the Docs Hike
 ====================
 
 As you may or may not know, one of the organizers, Eric Holscher, is going to be hiking the Pacific Crest Trail this year. 
-He knows a ton about hiking in the Portland area, and would love to show you some.
+He knows a ton about hiking in the Portland area, and would love to show off some of the best parts in town.
 In this spirit, we'll be having an official pre-conference hike!
 
 Logistics
@@ -13,19 +13,21 @@ Logistics
 * End: **Oregon Zoo** -- There is a MAX stop here to take us back downtown.
 * `Visual of the hike`_
 
-We will be hiking in the amazing Forest Park, the largest urban forested park in the country.
-It is convinently located in Northwest Portland, not far from the conference venue.
+We will be hiking in the amazing `Forest Park`_, the largest urban forested park in the country.
+It is conveniently located in Northwest Portland, not far from the conference venue.
 It's about a 35 minute walk, or you can `take transit`_ to make it a bit quicker.
 
 The hike
 --------
 
-The hike will be around 6 miles long, and have 1000 feet of elevation gain.
+The hike will be around 5 miles long, and have 1000 feet of elevation gain.
+This classifies as a *moderate* hike.
+We'll be going nice and slow so people can appreciate the views and forest.
 
 Meander
 ~~~~~~~
 
-It will follow Balch Creek up from the entrace of `Forest Park`_. 
+It will follow Balch Creek up from the entrance of `Forest Park`_. 
 
 .. image:: /img/balch.jpg
    :width: 500px
@@ -39,8 +41,8 @@ Pittock affords one of the best views of the city, and hopefully Mt. Hood & Mt. 
 .. image:: /img/pittock.jpg
    :width: 500px
 
-Diversity
-~~~~~~~~~
+Admire
+~~~~~~
 
 After this we will descend into `Washington Park`_, and the beautiful `Hoyt Arboretum`_.
 There are a number of paths through Hoyt, and we can play that by year.
