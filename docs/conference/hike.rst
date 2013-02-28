@@ -5,10 +5,10 @@ As you may or may not know, one of the organizers, Eric Holscher, is going to be
 He knows a ton about hiking in the Portland area, and would love to show you some.
 In this spirit, we'll be having an official pre-conference hike!
 
-When and Where
---------------
+Logistics
+---------
 
-* Date: **Sunday, April 7, 1 PM**. The day before the conference.
+* Date & Time: **Sunday, April 7, 1 PM**. The day before the conference.
 * Start: **Lower Macleay Park** or `Macleay Park Entrance`_ 
 * End: **Oregon Zoo** -- There is a MAX stop here to take us back downtown.
 * `Visual of the hike`_
