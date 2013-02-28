@@ -1,7 +1,7 @@
 Write the Docs Hike
 ====================
 
-As you may or may not know, one of the organizers, Eric Holscher, is going to be hiking the Pacific Crest Trail this year. 
+As you may or may not know, one of the organizers, Eric Holscher, is going to be hiking the `Pacific Crest Trail`_ this year. 
 He knows a ton about hiking in the Portland area, and would love to show off some of the best parts in town.
 In this spirit, we'll be having an official pre-conference hike!
 
@@ -64,6 +64,8 @@ We will be getting off the MAX near Bailey's Tap Room, which has 20 rotating
 taps of the best beer in the Northwest. We will hang out here for a bit, and
 then head over to the Write the Docs preregistration event to get everyone 
 registered for the conference.
+
+.. _Pacific Crest Trail: http://en.wikipedia.org/wiki/Pacific_Crest_Trail
 
 .. _take transit: https://maps.google.com/maps?saddr=McMenamins+Mission+Theater,+1624+NW+Glisan+St,+Portland,+OR&daddr=MacLeay+Park+Entrance,+Northwest+Upshur+Street,+Portland,+OR&hl=en&ll=45.529471,-122.700291&spn=0.023931,0.032358&sll=45.529501,-122.700248&sspn=0.023931,0.032358&geocode=FT6ttgIdkO2v-CHTbbXzuzB62Slv6GxU-AmVVDHTbbXzuzB62Q%3BFYLStgIdMI6v-CGojI77DIHw4SnVqz2N6QmVVDGojI77DIHw4Q&gl=us&dirflg=r&ttype=arr&date=04%2F07%2F13&time=1pm&noexp=0&noal=0&sort=def&mra=ls&t=m&z=15&start=0
 .. _Macleay Park Entrance: https://maps.google.com/maps?q=Macleay+Park+Entrance&fb=1&gl=us&hq=Macleay+Park+Entrance&hnear=0x54950b0b7da97427:0x1c36b9e6f6d18591,Portland,+OR&cid=0,0,16280654545704357032&t=m&z=16&iwloc=A
