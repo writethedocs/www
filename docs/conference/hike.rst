@@ -48,6 +48,9 @@ After this we will descend into `Washington Park`_, and the beautiful `Hoyt Arbo
 There are a number of paths through Hoyt, and we can play that by year.
 More than 5,800 specimens from around the world grow here, including more than 1,100 species, which are valuable in reforesting damaged habitats.
 
+.. image:: /img/hoyt.jpg
+   :width: 500px
+
 Finish
 ~~~~~~
 
