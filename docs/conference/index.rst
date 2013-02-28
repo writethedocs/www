@@ -29,5 +29,6 @@ Conference Information
    :maxdepth: 2
    :glob:
 
+   talks
    venue
    hike
