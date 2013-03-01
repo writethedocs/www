@@ -77,6 +77,13 @@ Daniya Kamran - Translating Science into Poetry
 
     Whether you're writing a grant, putting together a speech, giving a lecture, or conducting any sort of expression through a document, you're asking the reader to respond to a narrative. Especially when you're dealing with subjects like science, technology, education, or business, developing a compelling narrative can be increasingly difficult. Technical writers deviate from risky narratives because too much of their readership is focused on professionalism. What is unnecessary? What is "flowery"? What makes you comes across as less of a scientist? This talk demonstrates how to extract narratives from technical documents by utilizing lessons learned from poetry, and especially focus on using these narratives to create compelling supplementary documents from scientific data, such as infographics, talks, or impact assessments
 
+Erin Robbins O'Brien - Beautiful Documents - A Language Love Story
+----------------------------------------------------------------------------------------
+
+   **20 minutes**
+
+    Technical writing, content marketing, and all other forms of documentation are a love story between writer and document. Carefully walking the balance between attractive, desirable content and the stability and comfort of getting the information needed. This talk will poetically address how to re-kindle your document love if it has been lost, and some strategies to keep the fires burning so you each document you write is as exciting as the first.  
+
 James Socol - UX and IA at Mozilla Support, and Helping 7.2 Million More People   
 ----------------------------------------------------------------------------------------
 
@@ -104,6 +111,19 @@ Jennifer Hartnett-Henderson - Dual Coding with Sketchnotes and Hand Lettering
     7. If you don't want to do it yourself where can you find resources
     8. Share your sketchnote from this talk: Twitter, Flickr
 
+
+Jennifer Hodgdon - Motivating developers to write API documentation
+----------------------------------------------------------------------------------------
+
+    **20 minutes**
+
+    Everyone attending this conference probably agrees that it's a benefit in any software project to have good API documentation. But how do you get it written? There are three possible strategies: (a) Developers write the API documentation, (b) Technical writers write the API documentation, and (c) No one writes the API documentation. Option (c) is obviously undesirable, and option (b) is only viable in a corporate setting, so in open-source, the question becomes: how to motivate developers to write good API documentation.
+
+    In the Drupal open-source project, API documentation has become one of the "Core Gates" that (in theory anyway) all patches must pass through to get committed to Drupal Core, which has taken API documentation from being an afterthought to being a requirement. This talk will go over:
+    * The "Core Gates" concept and how it came about
+    * The requirements for the Documentation "gate"
+    * The Drupal project's documentation standards
+    * How it's working in practice
 
 
 Jim R. Wilson - Describe, Defend, Differentiate and Deliver 
@@ -229,7 +249,7 @@ Sarah Grant - Evolution of the English Language from Text to Texting
 Teresa Talbot - Technically Communicating Internationally   
 ----------------------------------------------------------------------------------------
 
-    **40 minutes**
+    **20 minutes**
 
     Ever dreamed of working abroad? Often overlooked as an international career, technical documentation has taken me to nine countries and allowed me to work with many of the world's cultures. Truth is, if you're translating it's best to start with English. More people speak English as a second language than any other and, as you want translators to translate into their first language, it's easier and cheaper to translate from English. Come hear and share international experiences. Learn why and how I managed it legally. Gain tips and tricks for getting what you need from subject matter experts in a foreign (to you) culture and writing with translation in mind. Cultural shocks and embarrassing moments? I've got them and can help you avoid them.
 
