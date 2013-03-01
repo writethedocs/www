@@ -25,11 +25,12 @@ Andrew Kuchling - Why Projects Should Have "What's New" Documents
     projects should include a “What’s New” as part of their standard
     documentation set.
 
+.. Commenting this out for now, until we get an abstract.
 
-Ann Goliak - Helping the help pages 
-----------------------------------------------------------------------------------------
+    Ann Goliak - Helping the help pages 
+    ----------------------------------------------------------------------------------------
 
-    **20 minutes**
+        **20 minutes**
 
 Ashleigh Rentz - The technical challenges of serving docs at Google’s scale 
 ----------------------------------------------------------------------------------------
@@ -190,6 +191,12 @@ Noirin Plunkett - Text Lacks Empathy
 ----------------------------------------------------------------------------------------
 
     **40 minutes**
+
+    Have you ever written a nice friendly email and gotten a reply that seems like they read a whole different email?
+
+    In Open Source communities we write to each other all the time, but we’re not really writing, we’re speaking with our fingers. Text is our primary way to communicate, but text has problems. Speaking conveys subtle emotional cues that as social animals we rely on; text strips them out. A thoughtful correspondent can put those emotions back, but we’re often not thoughtful.
+
+    This talk is about the special problems of textual communication: mitigating them; ensuring that what you mean to say is what is understood; interpreting messages that seem totally out of whack; and increasing empathic bandwidth.
 
 Nisha George & Elaine Tsai - Translating Customer Interactions to Documentation  
 ----------------------------------------------------------------------------------------
