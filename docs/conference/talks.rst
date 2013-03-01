@@ -120,6 +120,7 @@ Jennifer Hodgdon - Motivating developers to write API documentation
     Everyone attending this conference probably agrees that it's a benefit in any software project to have good API documentation. But how do you get it written? There are three possible strategies: (a) Developers write the API documentation, (b) Technical writers write the API documentation, and (c) No one writes the API documentation. Option (c) is obviously undesirable, and option (b) is only viable in a corporate setting, so in open-source, the question becomes: how to motivate developers to write good API documentation.
 
     In the Drupal open-source project, API documentation has become one of the "Core Gates" that (in theory anyway) all patches must pass through to get committed to Drupal Core, which has taken API documentation from being an afterthought to being a requirement. This talk will go over:
+
     * The "Core Gates" concept and how it came about
     * The requirements for the Documentation "gate"
     * The Drupal project's documentation standards
