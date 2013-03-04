@@ -25,12 +25,13 @@ Andrew Kuchling - Why Projects Should Have "What's New" Documents
     projects should include a “What’s New” as part of their standard
     documentation set.
 
-.. Commenting this out for now, until we get an abstract.
 
-    Ann Goliak - Helping the help pages 
-    ----------------------------------------------------------------------------------------
+Ann Goliak - Helping the help pages 
+----------------------------------------------------------------------------------------
 
-        **20 minutes**
+    **20 minutes**
+
+    Updated abstract coming.
 
 Ashleigh Rentz - The technical challenges of serving docs at Google’s scale 
 ----------------------------------------------------------------------------------------
@@ -143,6 +144,13 @@ Jim R. Wilson - Describe, Defend, Differentiate and Deliver
     In this talk, I'll advocate for a wholistic approach to software development which incorporates documentation thinking at many levels.
     Documentation in its many forms can achieve diverse and sometimes accidental goals.
     With battle scars from real situations, I'll show how you can use documentation not only to describe, but to defend, differentiate and deliver.
+
+Jonathan Mukai-Heidt - Play and Pragmatism: Recapturing the Beginner's Mind    
+----------------------------------------------------------------------------------------
+
+    **20 minutes**
+
+    Updated abstract coming.
 
 
 Kenneth Reitz - Documentation is King
