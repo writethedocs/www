@@ -95,21 +95,25 @@ James Socol - UX and IA at Mozilla Support, and Helping 7.2 Million More People
 
 .. _Mozilla Support: http://support.mozilla.org
 
-Jennifer Hartnett-Henderson - Dual Coding with Sketchnotes and Hand Lettering
+Jennifer Hartnett-Henderson - Sketchnotes: Communicate Complex Ideas Quickly
 ----------------------------------------------------------------------------------------
 
     **20 minutes**
 
-    Dual coding theory says that if pick any 2 of Visual, Auditory, Kinesthetic or Reading/Writing you can learn more and teach more. In this short form talk, I'll show how sketchnotes and hand lettering can both spice up your documents and increase retention. 
+    Pick any two of the Visual, Auditory, Kinesthetic or Reading/Writing channels to communicate ideas faster and increase retention. In this 20 minute talk, I'll show how sketchnotes help communicate complex ideas quickly. For examples, check out the Sketchnote Army blog, The Sketchnote Handbook on Flickr, and these two entries on my blog: Getting All Your Photos in One Place and Ten Years of Photos in One Hand.
 
-    1. What are sketchnotes?  How are they different from art? From drawing? Challenge: draw one sketchnote during this talk.
-    2. What is hand lettering? How is it different from Typography?
-    3. What are examples in documentation where these techniques have been used
-    4. Why bother? Dual coding theory, brain research
-    5. What's in it for me? 
-    6. Simple ways to get started (basic tools, easily available resources including books, flickr groups, websites)
-    7. If you don't want to do it yourself where can you find resources
-    8. Share your sketchnote from this talk: Twitter, Flickr
+    Jennifer Hartnett-Henderson is a strategist, program manager and fine artist with an MFA in Digital Media.  She recently returned from the Mobile Photography Awards show in NYC where she was recognized with three Honorable Mentions in two categories.  Since 2000 she’s had many shows in the US and Europe and writes about photography on her blog Jennifer Hartnett Henderson. Sketchnoting helps integrate her right brain creative side with her left brain strategy work as she communicates complex ideas quickly.
+
+    We’ll cover:
+
+    * What are sketchnotes?  How are they different from art? 
+    * Challenge: draw one sketchnote during this talk.
+    * What is hand lettering? How is it different from typography?
+    * What are examples of sketchnotes in use?
+    * Why does it work? Dual coding theory, brain research
+    * Simple ways to get started (basic tools, easily available resources including books, videos, Flickr groups, websites)
+    * Share your sketchnote from this talk: Twitter, Flickr #sketchnotewtd
+
 
 
 Jennifer Hodgdon - Motivating developers to write API documentation
