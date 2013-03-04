@@ -159,6 +159,17 @@ Kevin Hale - Getting Developers and Engineers to Write the Docs
 
     We've called this approach to creating software Support Driven Development and in this talk Kevin Hale, one of the founders of Wufoo, will share how this model transformed every member of their company to be dedicated to the principles of clarity and simplicity.
 
+Lauren Rother - Build a Bakery: Making cake, eating it and planning for future cake too
+----------------------------------------------------------------------------------------
+
+    **20 minutes**
+
+    Most of our work as technical writers is geared toward persons external to the company (users, customers, consumers, etc.), so our first concern is creating something engaging and useful for them. Some of our tasks and projects, however, require us to consider a more complex audience.
+
+    At Puppet Labs, the documentation team curates, evaluates and edits internal documents (both inter-team and intra-team) and  develops documentation meant to be used by internal employees, with the knowledge that these documents may one day need to become external documents.  The team also develops documentation guidelines that are meant to be followed by internal employees and external users. 
+
+    Lauren Rother and Fred Lifton of Puppet Labs will discuss the way in which these tasks complicate the usual notion of audience, and the way in which they approach and manage working on projects that require an eye on the future as well as the present.
+
 Leah Cutter - Generating a Culture of Doc
 ----------------------------------------------------------------------------------------
 
