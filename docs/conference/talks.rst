@@ -150,7 +150,7 @@ Jennifer Hodgdon - Motivating developers to write API documentation
 Jim R. Wilson - Describe, Defend, Differentiate and Deliver 
 ----------------------------------------------------------------------------------------
 
-    **40 minutes**
+    **20 minutes**
 
     Many of us work for companies that fancy themselves software companies.
     Nominally though, what we produce is functionality, not software.
