@@ -17,6 +17,17 @@ We will be hiking in the amazing `Forest Park`_, the largest urban forested park
 It is conveniently located in Northwest Portland, not far from the conference venue.
 It's about a 35 minute walk, or you can `take transit`_ to make it a bit quicker.
 
+What to bring
+~~~~~~~~~~~~~
+
+April in Portland can be interesting. It will probably be in the 50s, with a chance of rain. So, please bring:
+
+* Comfortable shoes, that you are comfortable getting a bit muddy.
+* 1 Liter of water. There is water available halfway through the hike.
+* A light rain jacket. It won't be cold, but it might drizzle on you.
+* High spirits!
+
+
 The hike
 --------
 
