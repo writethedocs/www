@@ -4,6 +4,11 @@ Write the Docs 2013 Presentations
 .. contents:: Presentations
    :local:
 
+.. note:: If these talks look interesting, you should `get a ticket`_
+
+
+.. _get a ticket: http://conf.writethedocs.org/tickets.html
+
 
 Ana Nelson - Integrating Development, Documentation and Reporting    
 -----------------------------------------------------------------------------------------
