@@ -91,6 +91,15 @@ Erin Robbins O'Brien - Beautiful Documents - A Language Love Story
 
     Technical writing, content marketing, and all other forms of documentation are a love story between writer and document. Carefully walking the balance between attractive, desirable content and the stability and comfort of getting the information needed. This talk will poetically address how to re-kindle your document love if it has been lost, and some strategies to keep the fires burning so you each document you write is as exciting as the first.  
 
+Heidi Waterhouse - Search-first documentation: tags and keywords for frustrated users
+----------------------------------------------------------------------------------------
+
+   **20 minutes**
+
+    The days of linear documentation are over, or at least numbered. Users are much more likely to come to documentation through searches. 
+
+    As writers, we need to be aware that folksonomies and search terms are the present and future, and we need to write with tags and keywords as our first step. This presentation is a quick overview of how to write technical documentation ""search-first"", with an updated understanding of indexing and keywords.
+
 James Socol - UX and IA at Mozilla Support, and Helping 7.2 Million More People   
 ----------------------------------------------------------------------------------------
 
