@@ -14,16 +14,18 @@ The `full list of talks`_ is available. If you haven't already registered, `what
 .. _what are you waiting for: http://conf.writethedocs.org/tickets.html
 
 
-Hike
-----
-
-Write the Docs is in Portland, and we love to show off our city. In that spirit, we'll be having a `Write the Docs Hike`_ on Sunday, the day before the conference. The beginning and the end of the hike are located nearby the conference venue, to make it easily accessible to everyone. We will be hoping for good weather, but bring some light rain gear just in case :)
-
-.. _Write the Docs Hike: http://docs.writethedocs.org/en/2013/conference/hike.html
-
 Pre Registration
 ----------------
 
 Sunday evening everyone should be in town before the conference. We'll be having a small event to handle pre-registering people, so you can grab a bit more sleep in the morning. Have a couple drinks and get to know other folks who are in town for the conference, in a relaxed setting.
 
+Hike
+----
+
+Write the Docs is in Portland, and we love to show off our city. In that spirit, we'll be having a `Write the Docs Hike`_ on Sunday, the day before the conference. The beginning and the end of the hike are located nearby the conference venue, to make it easily accessible to everyone. We will be hoping for good weather, but bring some light rain gear just in case :)
+
 That's all for this announcement, but we have a couple more fun things planned for the conference. We are counting down the days, and look forward to seeing everyone in Portland.
+
+.. _Write the Docs Hike: http://docs.writethedocs.org/en/2013/conference/hike.html
+
+
