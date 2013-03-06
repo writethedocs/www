@@ -22,7 +22,7 @@ Sunday evening everyone should be in town before the conference. We'll be having
 Hike
 ----
 
-Write the Docs is in Portland, and we love to show off our city. In that spirit, we'll be having a `Write the Docs Hike`_ on Sunday, the day before the conference. The beginning and the end of the hike are located nearby the conference venue, to make it easily accessible to everyone. We will be hoping for good weather, but bring some light rain gear just in case :)
+Write the Docs is in Portland, and we love to show off our city. In that spirit, we'll be having a `Write the Docs Hike`_ on Sunday at 1pm, the day before the conference. The beginning and the end of the hike are located nearby the conference venue, to make it easily accessible to everyone. We will be hoping for good weather, but bring some light rain gear just in case :)
 
 That's all for this announcement, but we have a couple more fun things planned for the conference. We are counting down the days, and look forward to seeing everyone in Portland.
 
