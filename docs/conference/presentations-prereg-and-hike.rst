@@ -16,7 +16,7 @@ The `full list of talks`_ is available. If you haven't already registered, `what
 Pre Registration
 ----------------
 
-Sunday evening everyone should be in town before the conference. We'll be having a small event to handle pre-registering people, so you can grab a bit more sleep in the morning. Have a couple drinks and get to know other folks who are in town for the conference, in a relaxed setting. We'll have more details about time and location as the conference gets closer.
+Sunday evening everyone should be in town before the conference. We'll be having a small event to handle pre-registering people, so you can grab a bit more sleep in the morning. Come join us for a couple hours and get to know other folks who are in town for the conference, in a relaxed setting. We'll have more details about time and location as the conference gets closer.
 
 Hike
 ----
