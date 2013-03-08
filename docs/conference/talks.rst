@@ -9,6 +9,13 @@ Write the Docs 2013 Presentations
 
 .. _get a ticket: http://conf.writethedocs.org/tickets.html
 
+Adam DuVander - Docs as Marketing: Make Your API Irresistible   
+-----------------------------------------------------------------------------------------
+
+    **20 minutes**
+
+    Docs share knowledge, docs teach concepts, but docs done right can also bring in new customers. While developers might not like to admit it, documentation is now a form of marketing. Companies are building businesses on APIs, so how the technical details are communicated becomes as important as a product feature matrix. To succeed in this new reality, approach documentation with the same attention to detail and polish as other marketing. This talk shares lessons learned from observing the good and bad from hundreds of API providers and shares the ways the best are making their APIs irresistible.
+
 
 Ana Nelson - Integrating Development, Documentation and Reporting    
 -----------------------------------------------------------------------------------------
@@ -160,14 +167,12 @@ Jim R. Wilson - Describe, Defend, Differentiate and Deliver
     Documentation in its many forms can achieve diverse and sometimes accidental goals.
     With battle scars from real situations, I'll show how you can use documentation not only to describe, but to defend, differentiate and deliver.
 
-.. Commented til we get an abstract
+Jonathan Mukai-Heidt - Play and Pragmatism: Recapturing the Beginner's Mind    
+----------------------------------------------------------------------------------------
 
-    Jonathan Mukai-Heidt - Play and Pragmatism: Recapturing the Beginner's Mind    
-    ----------------------------------------------------------------------------------------
+    **20 minutes**
 
-        **20 minutes**
-
-        Updated abstract coming.
+    Code helps to achieve concrete goals, but it also gives us room to play in the sandbox. Recent experiences teaching programming have taught me that these two facets of writing code need to be taken into account when teaching or writing documentation. Students come in two broad flavors. Some have an overly specific goal ("I want to make a social app for cat owners to share pictures") that they pursue to the detriment of their overall learning ("I don't understand how printing 'hello world' in this black box gets me any closer to uploading a photo of Dr.Mittens.") Others come to the table with the very general goal "learn to program." I believe that we can play these two mutually beneficial but frequently opposed attitudes about programming off of each other in order to teach programming, learn new technology ourselves, and write better documentation. A firm understanding of this interplay in code (pragmatic construction vs. playful exploration) can help us not just teach, but also become better developers.
 
 
 Kenneth Reitz - Documentation is King
