@@ -443,3 +443,26 @@ a:hover tt {
 .revsys-inline {
     display: none!important;
 }
+
+/* WTD specific */
+
+table.docutils {
+    border-collapse:collapse;
+    border: 0 hidden;
+    -moz-box-shadow: 0px 0px 0px #eee;
+    -webkit-box-shadow: 0px 0px 0px #eee;
+    box-shadow: 0px 0px 0px #eee;
+}
+
+table.docutils td {
+    border: 0 hidden;
+}
+
+table.docutils tr {
+    border: 0 hidden;
+}
+
+table.docutils th {
+    border: 0 hidden;
+}
+
