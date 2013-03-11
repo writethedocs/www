@@ -17,7 +17,7 @@ Day 1
 +-----------+-------------------------------------------------------------------------------+
 | 1020-1040 | Coffee                                                                        |
 +-----------+-------------------------------------------------------------------------------+
-| 1040-1100 | Erin Robbins O’Brien - Beautiful Documents - A Language Love Story          |
+| 1040-1100 | Erin Robbins O’Brien - Beautiful Documents - A Language Love Story            |
 +-----------+-------------------------------------------------------------------------------+
 | 1100-1140 | Daniya Kamran - Translating Science into Poetry                               |
 +-----------+-------------------------------------------------------------------------------+
@@ -31,7 +31,7 @@ Day 1
 +-----------+-------------------------------------------------------------------------------+
 | 2-240     | Kevin Hale - Getting Developers and Engineers to Write the Docs               |
 +-----------+-------------------------------------------------------------------------------+
-| 240-3     | Jonathan Mukai-Heidt - Play and Pragmatism: Recapturing the Beginner’s Mind |
+| 240-3     | Jonathan Mukai-Heidt - Play and Pragmatism: Recapturing the Beginner’s Mind   |
 +-----------+-------------------------------------------------------------------------------+
 | 3-320     | Teresa Talbot - Technically Communicating Internationally                     |
 +-----------+-------------------------------------------------------------------------------+
@@ -41,7 +41,7 @@ Day 1
 +-----------+-------------------------------------------------------------------------------+
 | 4-420     | Brandon Philips - Single Page Docs: Stop the Click Insanity                   |
 +-----------+-------------------------------------------------------------------------------+
-| 420-440   | Andrew Kuchling - Why Projects Should Have “What’s New” Documents       |
+| 420-440   | Andrew Kuchling - Why Projects Should Have “What’s New” Documents             |
 +-----------+-------------------------------------------------------------------------------+
 | 440-520   | Marcia Riefer Johnston - Write Tight(er)                                      |
 +-----------+-------------------------------------------------------------------------------+
@@ -79,7 +79,7 @@ Day 2
 +-----------+-----------------------------------------------------------------------------------------+
 | 120-200   | James Socol - UX and IA at Mozilla Support, and Helping 7.2 Million More People         |
 +-----------+-----------------------------------------------------------------------------------------+
-| 2-240     | Ashleigh Rentz - The technical challenges of serving docs at Google’s scale           |
+| 2-240     | Ashleigh Rentz - The technical challenges of serving docs at Google’s scale             |
 +-----------+-----------------------------------------------------------------------------------------+
 | 240-3     | Ann Goliak - Helping the help pages                                                     |
 +-----------+-----------------------------------------------------------------------------------------+
