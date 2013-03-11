@@ -42,14 +42,14 @@ Andrew Kuchling - Why Projects Should Have "What's New" Documents
     projects should include a “What’s New” as part of their standard
     documentation set.
 
-.. Commented til we get an abstract
+.. _ann-goliak
 
-    Ann Goliak - Helping the help pages 
-    ----------------------------------------------------------------------------------------
+Ann Goliak - Helping the help pages 
+----------------------------------------------------------------------------------------
 
-        **20 minutes**
+    **20 minutes**
 
-        Updated abstract coming.
+    Updated abstract coming.
 
 .. _ashleigh-rentz:
 
@@ -136,6 +136,23 @@ James Socol - UX and IA at Mozilla Support, and Helping 7.2 Million More People
     I'll talk about some of the techniques and tools we've used (like heuristic evaluation, card sorts, treejack) and how to play along at home and apply these techniques to your own docs.
 
 .. _Mozilla Support: http://support.mozilla.org
+
+.. _james-tauber:
+
+James Tauber  - Versioned Literate Programming for Tutorials    
+----------------------------------------------------------------------------------------
+
+    **20 minutes**
+
+    This talk will explore the authoring of programming tutorials where each step of the tutorial involves code snippets that build on the code presented in earlier steps.
+
+    Because such tutorials are primarily exposition in human language, but contain code snippets that should be executable if extracted, the approach has a lot in common with Literate Programming.
+
+    At the same time, because the tutorials effectively guide the reader through the construction of the code, step-by-step, there is also a lot in common with Version Control.
+
+    Hence I describe this approach as "Versioned Literate Programming".
+
+    I don't (yet) have a good toolkit for this sort of tutorial authoring and so the talk will mostly focus on the ideas and challenges involved as well as some of the different approaches I've attempted over the years of thinking about this.
 
 .. _jennifer-hartnett-henderson: 
 
