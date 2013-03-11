@@ -466,3 +466,6 @@ table.docutils th {
     border: 0 hidden;
 }
 
+#write-the-docs-schedule table {
+    background-color: #fff;
+}
