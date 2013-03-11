@@ -10,3 +10,6 @@
 
 # Editors' temporary buffers.
 *.swp
+
+# OS X!
+.DS_Store
