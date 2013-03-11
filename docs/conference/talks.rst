@@ -9,6 +9,8 @@ Write the Docs 2013 Presentations
 
 .. _get a ticket: http://conf.writethedocs.org/tickets.html
 
+.. _adam-duvander:
+
 Adam DuVander - Docs as Marketing: Make Your API Irresistible   
 -----------------------------------------------------------------------------------------
 
@@ -16,6 +18,7 @@ Adam DuVander - Docs as Marketing: Make Your API Irresistible
 
     Docs share knowledge, docs teach concepts, but docs done right can also bring in new customers. While developers might not like to admit it, documentation is now a form of marketing. Companies are building businesses on APIs, so how the technical details are communicated becomes as important as a product feature matrix. To succeed in this new reality, approach documentation with the same attention to detail and polish as other marketing. This talk shares lessons learned from observing the good and bad from hundreds of API providers and shares the ways the best are making their APIs irresistible.
 
+.. _ana-nelson:
 
 Ana Nelson - Integrating Development, Documentation and Reporting    
 -----------------------------------------------------------------------------------------
@@ -25,6 +28,8 @@ Ana Nelson - Integrating Development, Documentation and Reporting
     Let's explore the amazing things that happen when you combine reporting with documentation. We'll start with a retro-chic command-line task management tool named 'ado', and create a beautifully modern D3-based interactive task explorer (no server necessary). Learn how powerful documentation-driven development can be, and the benefits of freeing documentation and reporting from their usual separate silos. 
 
     In this talk we will simultaneously document Bash, Python, SQL, CSS, HTML and JavaScript using HTML, PDF, epub, Excel and .docx formats (with just a single command!). You'll learn about Dexy, the document and data automation tool that makes this possible by working alongside the documentation tools you already know and love.
+
+.. _andrew-kuchling:
 
 Andrew Kuchling - Why Projects Should Have "What's New" Documents
 ----------------------------------------------------------------------------------------
@@ -46,6 +51,8 @@ Andrew Kuchling - Why Projects Should Have "What's New" Documents
 
         Updated abstract coming.
 
+.. _ashleigh-rentz:
+
 Ashleigh Rentz - The technical challenges of serving docs at Google’s scale 
 ----------------------------------------------------------------------------------------
 
@@ -54,6 +61,8 @@ Ashleigh Rentz - The technical challenges of serving docs at Google’s scale
     Google Code launched in 2005, hosting documentation for Google’s public APIs and Open Source software. Five years later, massive growth in the company’s developer offerings had pushed the site’s infrastructure to the max. What sorts of problems can sneak up when you go from 11 APIs to over a hundred? Or when many of those docs rapidly expand from hundreds to thousands of pages? And how can you build a serving infrastructure that won’t leave a room of execs holding their collective breath when new products launch at your annual showpiece conference?  
 
     Join Google Developer Programs’ Ashleigh Rentz for a behind-the-scenes retrospective: learn what it took to migrate a massive documentation library to a new home at Google Developers (developers.google.com) without freezing the existing site and how the new backend leverages both Open Source and Google technology to provide a CMS that truly scales.
+
+.. _brandon-philips:
 
 Brandon Philips - Single Page Docs: Stop the Click Insanity
 ----------------------------------------------------------------------------------------
@@ -75,6 +84,8 @@ Brandon Philips - Single Page Docs: Stop the Click Insanity
 .. _Django Fluent Contents: https://django-fluent-contents.readthedocs.org/en/latest/
 .. _Express JS: http://expressjs.com/api.html
 
+.. _daniel-lindsley:
+
 Daniel Lindsley - The Unenviable Tutorial 
 ----------------------------------------------------------------------------------------
 
@@ -84,6 +95,8 @@ Daniel Lindsley - The Unenviable Tutorial
 
     Frequently the first bit of documentation written, the first one to fall hopelessly out of date & the one *everyone* sees, the Tutorial bears the brunt of getting people started. Its job is to pull people in. It teaches them not only what the software is about, but *how* it should be used. It sets the stage, the standard & the lowest bar of entry. It's unenviable because it must do so many things & do them well to be a success.
 
+.. _daniya-kamran:
+
 Daniya Kamran - Translating Science into Poetry 
 ----------------------------------------------------------------------------------------
 
@@ -91,12 +104,16 @@ Daniya Kamran - Translating Science into Poetry
 
     Whether you're writing a grant, putting together a speech, giving a lecture, or conducting any sort of expression through a document, you're asking the reader to respond to a narrative. Especially when you're dealing with subjects like science, technology, education, or business, developing a compelling narrative can be increasingly difficult. Technical writers deviate from risky narratives because too much of their readership is focused on professionalism. What is unnecessary? What is "flowery"? What makes you comes across as less of a scientist? This talk demonstrates how to extract narratives from technical documents by utilizing lessons learned from poetry, and especially focus on using these narratives to create compelling supplementary documents from scientific data, such as infographics, talks, or impact assessments
 
+.. _erin-robbins-obrien:
+
 Erin Robbins O'Brien - Beautiful Documents - A Language Love Story
 ----------------------------------------------------------------------------------------
 
    **20 minutes**
 
     Technical writing, content marketing, and all other forms of documentation are a love story between writer and document. Carefully walking the balance between attractive, desirable content and the stability and comfort of getting the information needed. This talk will poetically address how to re-kindle your document love if it has been lost, and some strategies to keep the fires burning so you each document you write is as exciting as the first.  
+
+.. _heidi-waterhouse:
 
 Heidi Waterhouse - Search-first documentation: tags and keywords for frustrated users
 ----------------------------------------------------------------------------------------
@@ -106,6 +123,8 @@ Heidi Waterhouse - Search-first documentation: tags and keywords for frustrated 
     The days of linear documentation are over, or at least numbered. Users are much more likely to come to documentation through searches. 
 
     As writers, we need to be aware that folksonomies and search terms are the present and future, and we need to write with tags and keywords as our first step. This presentation is a quick overview of how to write technical documentation ""search-first"", with an updated understanding of indexing and keywords.
+
+.. _james-socol:
 
 James Socol - UX and IA at Mozilla Support, and Helping 7.2 Million More People   
 ----------------------------------------------------------------------------------------
@@ -117,6 +136,8 @@ James Socol - UX and IA at Mozilla Support, and Helping 7.2 Million More People
     I'll talk about some of the techniques and tools we've used (like heuristic evaluation, card sorts, treejack) and how to play along at home and apply these techniques to your own docs.
 
 .. _Mozilla Support: http://support.mozilla.org
+
+.. _jennifer-hartnett-henderson: 
 
 Jennifer Hartnett-Henderson - Sketchnotes: Communicate Complex Ideas Quickly
 ----------------------------------------------------------------------------------------
@@ -137,7 +158,7 @@ Jennifer Hartnett-Henderson - Sketchnotes: Communicate Complex Ideas Quickly
     * Simple ways to get started (basic tools, easily available resources including books, videos, Flickr groups, websites)
     * Share your sketchnote from this talk: Twitter, Flickr #sketchnotewtd
 
-
+.. _jennifer-hodgdon:
 
 Jennifer Hodgdon - Motivating developers to write API documentation
 ----------------------------------------------------------------------------------------
@@ -153,6 +174,7 @@ Jennifer Hodgdon - Motivating developers to write API documentation
     * The Drupal project's documentation standards
     * How it's working in practice
 
+.. _jim-wilson:
 
 Jim R. Wilson - Describe, Defend, Differentiate and Deliver 
 ----------------------------------------------------------------------------------------
@@ -167,6 +189,8 @@ Jim R. Wilson - Describe, Defend, Differentiate and Deliver
     Documentation in its many forms can achieve diverse and sometimes accidental goals.
     With battle scars from real situations, I'll show how you can use documentation not only to describe, but to defend, differentiate and deliver.
 
+.. _johnathan-mukai-heidt:
+
 Jonathan Mukai-Heidt - Play and Pragmatism: Recapturing the Beginner's Mind    
 ----------------------------------------------------------------------------------------
 
@@ -174,6 +198,7 @@ Jonathan Mukai-Heidt - Play and Pragmatism: Recapturing the Beginner's Mind
 
     Code helps to achieve concrete goals, but it also gives us room to play in the sandbox. Recent experiences teaching programming have taught me that these two facets of writing code need to be taken into account when teaching or writing documentation. Students come in two broad flavors. Some have an overly specific goal ("I want to make a social app for cat owners to share pictures") that they pursue to the detriment of their overall learning ("I don't understand how printing 'hello world' in this black box gets me any closer to uploading a photo of Dr.Mittens.") Others come to the table with the very general goal "learn to program." I believe that we can play these two mutually beneficial but frequently opposed attitudes about programming off of each other in order to teach programming, learn new technology ourselves, and write better documentation. A firm understanding of this interplay in code (pragmatic construction vs. playful exploration) can help us not just teach, but also become better developers.
 
+.. _kenneth-reitz:
 
 Kenneth Reitz - Documentation is King
 ----------------------------------------------------------------------------------------
@@ -184,6 +209,8 @@ Kenneth Reitz - Documentation is King
 
     Every design decision should be documented. Imagine not having to have tap your coworkers on the shoulder when you're working on an unfamiliar part of the codebase, or on-boarding a new employee. Imagine being able to make the change, run the tests, and push to production without questioning yourself, because the process was documented — or better yet, automated.
 
+.. _kevin-hale:
+
 Kevin Hale - Getting Developers and Engineers to Write the Docs  
 ----------------------------------------------------------------------------------------
 
@@ -192,6 +219,8 @@ Kevin Hale - Getting Developers and Engineers to Write the Docs
     At Wufoo, everyone has to wear multiple hats in our company and that includes manning the inbox and doing customer support every single week. One of the interesting side effects of having a company where designers, developers and even the accountant writing documentation and  answering support emails, is that everyone has a stake in making sure the application is as easy to use as possible.  
 
     We've called this approach to creating software Support Driven Development and in this talk Kevin Hale, one of the founders of Wufoo, will share how this model transformed every member of their company to be dedicated to the principles of clarity and simplicity.
+
+.. _lauren-rother:
 
 Lauren Rother - Build a Bakery: Making cake, eating it and planning for future cake too
 ----------------------------------------------------------------------------------------
@@ -203,6 +232,8 @@ Lauren Rother - Build a Bakery: Making cake, eating it and planning for future c
     At Puppet Labs, the documentation team curates, evaluates and edits internal documents (both inter-team and intra-team) and  develops documentation meant to be used by internal employees, with the knowledge that these documents may one day need to become external documents.  The team also develops documentation guidelines that are meant to be followed by internal employees and external users. 
 
     Lauren Rother and Fred Lifton of Puppet Labs will discuss the way in which these tasks complicate the usual notion of audience, and the way in which they approach and manage working on projects that require an eye on the future as well as the present.
+
+.. _leah-cutter:
 
 Leah Cutter - Generating a Culture of Doc
 ----------------------------------------------------------------------------------------
@@ -224,8 +255,7 @@ Leah Cutter - Generating a Culture of Doc
 
     Plus I would also present some of the things that haven't worked.
 
-
-
+.. _matthew-butterick:
 
 Matthew Butterick - Typography for Docs 
 -----------------------------------------------------------------------------------------
@@ -233,6 +263,8 @@ Matthew Butterick - Typography for Docs
     **40 minutes**
 
     Should writers of documentation care about typography? As someone who reads a lot of documentation, I can see that many don't. But good typography can reinforce your meaning, conserve reader attention, and make your docs more inviting and useful. And it's easier than you might think. In this session I'll explain the four rules of typography that every writer of docs needs to know. I'll also cover some typographic issues specific to web-based docs, and critique a few real-world examples. 
+
+.. _marcia-johnston: 
 
 Marcia Riefer Johnston - Write Tight(er) 
 ----------------------------------------------------------------------------------------
@@ -246,12 +278,16 @@ Marcia Riefer Johnston - Write Tight(er)
     - Why they don't need a double-standard to write for small screens. 
     - How to tighten and energize their writing.
 
+.. _michael-verdi:
+
 Michael Verdi - How Mozilla supports users all over the world
 ----------------------------------------------------------------------------------------
 
     **40 minutes**
 
     The Mozilla support platform is built around a fully localizable wiki and an awesome community of volunteers. Together we're able to support nearly half a billion users in dozens of languages. This talk will focus on how we support the 50% of Firefox users who use it a language other than English.
+
+.. _noirin-plunkett:
 
 Noirin Plunkett - Text Lacks Empathy
 ----------------------------------------------------------------------------------------
@@ -263,6 +299,8 @@ Noirin Plunkett - Text Lacks Empathy
     In Open Source communities we write to each other all the time, but we’re not really writing, we’re speaking with our fingers. Text is our primary way to communicate, but text has problems. Speaking conveys subtle emotional cues that as social animals we rely on; text strips them out. A thoughtful correspondent can put those emotions back, but we’re often not thoughtful.
 
     This talk is about the special problems of textual communication: mitigating them; ensuring that what you mean to say is what is understood; interpreting messages that seem totally out of whack; and increasing empathic bandwidth.
+
+.. _nisha-george:
 
 Nisha George & Elaine Tsai - Translating Customer Interactions to Documentation  
 ----------------------------------------------------------------------------------------
@@ -277,6 +315,8 @@ Nisha George & Elaine Tsai - Translating Customer Interactions to Documentation
     - Provide answers for all types of customers, from beginners to experts
     - Create positive experiences for customers and internal teams
 
+.. _sarah-grant:
+
 Sarah Grant - Evolution of the English Language from Text to Texting  
 ----------------------------------------------------------------------------------------
 
@@ -290,7 +330,7 @@ Sarah Grant - Evolution of the English Language from Text to Texting
 
     This talk will present these questions and others, and begin to formulate possible answers to benefit the potential audience of writers.
 
-
+.. _teresa-talbot:
 
 Teresa Talbot - Technically Communicating Internationally   
 ----------------------------------------------------------------------------------------
@@ -310,6 +350,8 @@ Teresa Talbot - Technically Communicating Internationally
     * Spain
     * Switzerland
     * France
+
+.. _tim-daly
 
 Tim Daly  - Literate Programming in the Large   
 ----------------------------------------------------------------------------------------
