@@ -264,7 +264,7 @@ Matthew Butterick - Typography for Docs
 
     Should writers of documentation care about typography? As someone who reads a lot of documentation, I can see that many don't. But good typography can reinforce your meaning, conserve reader attention, and make your docs more inviting and useful. And it's easier than you might think. In this session I'll explain the four rules of typography that every writer of docs needs to know. I'll also cover some typographic issues specific to web-based docs, and critique a few real-world examples. 
 
-.. _marcia-johnston: 
+.. _marcia-riefer-johnston: 
 
 Marcia Riefer Johnston - Write Tight(er) 
 ----------------------------------------------------------------------------------------
@@ -351,7 +351,7 @@ Teresa Talbot - Technically Communicating Internationally
     * Switzerland
     * France
 
-.. _tim-daly
+.. _tim-daly:
 
 Tim Daly  - Literate Programming in the Large   
 ----------------------------------------------------------------------------------------
