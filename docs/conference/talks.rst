@@ -44,12 +44,12 @@ Andrew Kuchling - Why Projects Should Have "What's New" Documents
 
 .. _ann-goliak
 
-Ann Goliak - Helping the help pages 
+Ann Goliak - Helping out customers help themselves
 ----------------------------------------------------------------------------------------
 
     **20 minutes**
 
-    Updated abstract coming.
+    37signals had help pages that weren't very helpful. That all changed with a new help section for the new Basecamp. Learn how the new help pages were developed & written and the effect they've had on support case load. Spoiler: it's much lighter!
 
 .. _ashleigh-rentz:
 
