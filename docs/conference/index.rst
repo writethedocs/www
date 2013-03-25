@@ -30,6 +30,7 @@ Conference Information
    :maxdepth: 2
    :glob:
 
+   schedule
    talks
    venue
    hike
