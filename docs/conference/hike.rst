@@ -8,6 +8,8 @@ In this spirit, we'll be having an official pre-conference hike!
 Logistics
 ---------
 
+.. note:: Please register for the hike here: http://writethedocshike.eventbrite.com/
+
 * Date & Time: **Sunday, April 7, 1 PM**. The day before the conference.
 * Start: **Lower Macleay Park** or `Macleay Park Entrance`_ 
     * There is a pavilion at the park entrance where we will gather.
