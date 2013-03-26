@@ -10,6 +10,7 @@ Logistics
 
 * Date & Time: **Sunday, April 7, 1 PM**. The day before the conference.
 * Start: **Lower Macleay Park** or `Macleay Park Entrance`_ 
+    * There is a pavilion at the park entrance where we will gather.
 * End: **Oregon Zoo** -- There is a MAX stop here to take us back downtown.
 * `Visual of the hike`_
 
