@@ -12,17 +12,6 @@ We invite all those who write the docs to spread the word:
 Docs or it didn't happen!
 
 
-Announcements
--------------
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   presentations-prereg-and-hike
-   general-admission-and-venue
-   initial-speakers-sponsors-tickets
-
 Conference Information
 ----------------------
 
@@ -35,3 +24,15 @@ Conference Information
    venue
    hike
    portland
+
+Announcements
+-------------
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   presentations-prereg-and-hike
+   general-admission-and-venue
+   initial-speakers-sponsors-tickets
+
