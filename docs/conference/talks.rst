@@ -42,7 +42,7 @@ Andrew Kuchling - Why Projects Should Have "What's New" Documents
     projects should include a “What’s New” as part of their standard
     documentation set.
 
-.. _ann-goliak
+.. _ann-goliak:
 
 Ann Goliak - Helping out customers help themselves
 ----------------------------------------------------------------------------------------
