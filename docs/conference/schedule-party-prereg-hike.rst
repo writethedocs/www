@@ -1,7 +1,7 @@
 Announcing Schedule, Preregistration & Party Details, and Hike Registration
 =============================================================================
 
-Write the Docs is only a week and a half away. I hope you all already have your tickets. They are almost all sold out, so if you haven't gotten yours yet, make sure to `do it soon`_.
+Write the Docs is only a week away. I hope you all already have your tickets. They are almost all sold out, so if you haven't gotten yours yet, make sure to `do it soon`_.
 
 Schedule is now live
 --------------------
