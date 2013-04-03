@@ -1,4 +1,4 @@
-Announcing Schedule, Party & Preregistration Details, and Hike Registration
+Announcing Schedule, Preregistration & Party Details, and Hike Registration
 =============================================================================
 
 Write the Docs is only a week and a half away. I hope you all already have your tickets. They are almost all sold out, so if you haven't gotten yours yet, make sure to `do it soon`_.
@@ -8,6 +8,13 @@ Schedule is now live
 
 We have released the `final schedule`_ for the conference. We tried to group the talks into themes in between each break, and think it should flow nicely together. 
 
+Pre-registration details
+-----------------------
+
+`Urban Airship`_ will be graciously hosting our pre-registration event. They are located about 6 blocks from the venue, so it should be an easy place to get to. The event will last from 6-8ish, and that means you can get another hour of sleep in the morning.
+
+The address is 334 NW 11th St, Portland, Or.
+
 Party Details
 -------------
 
@@ -16,13 +23,6 @@ We are doing something a bit different for the party at our conference. We're go
 The capacity for Ground Kontrol is only 130 people, so we have another option as well. We're going to have a tab open at `Baileys Taproom`_, a bar with 20 taps of great Northwest beer. This should give people a chance to either play some games, or check out Portland's great beer scene.
 
 Both of these events happen on Monday, from 8-10 PM.
-
-Pre-registration details
------------------------
-
-`Urban Airship`_ will be graciously hosting our pre-registration event. They are located about 6 blocks from the venue, so it should be an easy place to get to. The event will last from 6-8ish, and that means you can get another hour of sleep in the morning.
-
-The address is 334 NW 11th St, Portland, Or.
 
 Hike Registration
 -----------------
