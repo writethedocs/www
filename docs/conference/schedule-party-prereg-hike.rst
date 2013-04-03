@@ -1,5 +1,5 @@
-Announcing Schedule, Preregistration location, Hike registration and More
-=========================================================================
+Announcing Schedule, Party & Preregistration Details, and Hike Registration
+=============================================================================
 
 Write the Docs is only a week and a half away. I hope you all already have your tickets. They are almost all sold out, so if you haven't gotten yours yet, make sure to `do it soon`_.
 
