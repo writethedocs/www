@@ -11,16 +11,16 @@ We have released the `final schedule`_ for the conference. We tried to group the
 Party Details
 -------------
 
-We are doing something a bit different for the party at our conference. We're going to be renting out `Ground Kontrol`_, which is an arcade with a bar. It's a great part of Portland, and should be fun. 
+We are doing something a bit different for the party at our conference. We're going to be renting out `Ground Kontrol`_, which is an arcade with a bar. It's a unique Portland venue, and should bring out your inner child. This will be a private event for the conference, so make sure to bring your badge. 
 
-Along with that, we're going to have a tab open at `Baileys Taproom`_, a bar with 20 taps of great Northwest beer. This should give people a chance to either play some games, or check out Portland's great beer scene.
+The capacity for Ground Kontrol is only 130 people, so we have another option as well. We're going to have a tab open at `Baileys Taproom`_, a bar with 20 taps of great Northwest beer. This should give people a chance to either play some games, or check out Portland's great beer scene.
 
 Both of these events happen on Monday, from 8-10 PM.
 
-Preregistration details
+Pre-registration details
 -----------------------
 
-`Urban Airship`_ will be graciously hosting our preregistration event. They are located about 6 blocks from the venue, so it should be an easy place to get to. The event will last from 6-8ish, and that means you can get another hour of sleep in the morning.
+`Urban Airship`_ will be graciously hosting our pre-registration event. They are located about 6 blocks from the venue, so it should be an easy place to get to. The event will last from 6-8ish, and that means you can get another hour of sleep in the morning.
 
 The address is 334 NW 11th St, Portland, Or.
 
