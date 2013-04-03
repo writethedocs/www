@@ -20,7 +20,7 @@ Party Details
 
 We are doing something a bit different for the party at our conference. We're going to be renting out `Ground Kontrol`_, which is an arcade with a bar. It's a unique Portland venue, and should bring out your inner child. This will be a private event for the conference, so make sure to bring your badge. 
 
-The capacity for Ground Kontrol is only 130 people, so we have another option as well. We're going to have a tab open at `Baileys Taproom`_, a bar with 20 taps of great Northwest beer. This should give people a chance to either play some games, or check out Portland's great beer scene.
+The capacity for Ground Kontrol is only 130 people, so we have another option as well. We're going to have a tab open at `Bailey's Taproom`_, a bar with 20 taps of great Northwest beer. This should give people a chance to either play some games, or check out Portland's great beer scene.
 
 Both of these events happen on Monday, from 8-10 PM.
 
@@ -34,6 +34,6 @@ The forecast for Sunday is looking particularly Portlandy (high of 55 and light 
 .. _do it soon: http://conf.writethedocs.org/tickets.html
 .. _final schedule: http://conf.writethedocs.org/#schedule
 .. _Ground Kontrol: http://groundkontrol.com/about-us/
-.. _Baileys Taproom: http://www.baileystaproom.com/
+.. _Bailey's Taproom: http://www.baileystaproom.com/
 .. _Urban Airship: http://urbanairship.com/
 .. _Register now: http://writethedocshike.eventbrite.com/
