@@ -91,8 +91,6 @@ If you haven't had a chance to read the `conference code of conduct`_, please gi
 
 We look forward to seeing you and exploring how to Write the Docs!
 
-WTD Staff
-
 .. _website: http://conf.writethedocs.org
 .. _Lanyrd page: http://lanyrd.com/2013/writethedocs/
 .. _on your phone: http://lanyrd.com/mobile/
