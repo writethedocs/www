@@ -53,36 +53,36 @@ West End Portland (Forever)
 Portland is a walking city. Here are some options near NW 17th and Glisan if you want to explore the nearby area (in order from food style, then distance from closest to furthest):
 
 Coffee:
-  World Cup Coffee (18th & Glisan)
-  Coffeehouse NW (20th & Burnside)
-  Barista (13th & Hoyt)   [fancy, American]
-  Caffé Umbria (12th & Everett)   [fancy, Italian]
-  Powell's Books (12th & Burnside)
+  * World Cup Coffee (18th & Glisan)
+  * Coffeehouse NW (20th & Burnside)
+  * Barista (13th & Hoyt)   [fancy, American]
+  * Caffé Umbria (12th & Everett)   [fancy, Italian]
+  * Powell's Books (12th & Burnside)
 
 Pub food & Watering Holes:
-  The Matador (20th & Burnside)
-  Teardrop (11th Everett)   [fancy cocktails]
-  Life of Riley (10th & Everett)
-  Low Brow Lounge (11th & Hoyt)
+  * The Matador (20th & Burnside)
+  * Teardrop (11th Everett)   [fancy cocktails]
+  * Life of Riley (10th & Everett)
+  * Low Brow Lounge (11th & Hoyt)
 
 Burgers:
-  Little Big Burger (10th & Couch)
+  * Little Big Burger (10th & Couch)
 
 Pizza:
-  Oven & Shaker (12th & Everett)   [fancy]
-  Hotlips Pizza (18th & Burnside)
+  * Oven & Shaker (12th & Everett)   [fancy]
+  * Hotlips Pizza (18th & Burnside)
 
 Seafood:
-  Riffle NW (13th & Flanders)   [fancy]
-  Mio Sushi (13th & Hoyt)
+  * Riffle NW (13th & Flanders)   [fancy]
+  * Mio Sushi (13th & Hoyt)
 
 Grocery:
-  Trader Joes (21st & Glisan)
-  Local Choice Produce Market (9th & Everett)
+  * Trader Joes (21st & Glisan)
+  * Local Choice Produce Market (9th & Everett)
 
 Fastfood:
-  Taco Bell (Really?)
-  McDonald's (REALLY!?)
+  * Taco Bell (Really?)
+  * McDonald's (REALLY!?)
 
 Code of Conduct
 ---------------
