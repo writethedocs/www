@@ -45,7 +45,7 @@ We'll be playing a special screening of a feature film after the conference (we 
 Happy Hour (April 9th)
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Pivotal Labs is providing an after party at North 45 (517 NW 21st Ave, Portland, OR 97209) after the main event on Tuesday, April 9th.
+Pivotal Labs is providing an after party at North 45 (`517 NW 21st Ave, Portland, OR 97209`_) after the main event on Tuesday, April 9th.
 
 West End Portland (Forever)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,6 +101,7 @@ We look forward to seeing you and exploring how to Write the Docs!
 .. _213 SW Broadway, Portland, OR 97205: http://goo.gl/maps/Ro25n
 .. _511 NW Couch St, Portland, OR 97209: http://goo.gl/maps/B3g63
 .. _115 NW 5th Ave, Portland, OR 97209: http://goo.gl/maps/FYNsn
+.. _517 NW 21st Ave, Portland, OR 97209: http://goo.gl/maps/5xPtW
 .. _Lightning Talks Sign Up: https://docs.google.com/forms/d/16LOjVeXXjqEQhb50kooF0iof_RuaIxfkIgbcepo4KAY/viewform
 .. _on Wikipedia: http://en.wikipedia.org/wiki/Lightning_talk
 .. _Pecha Kucha: http://en.wikipedia.org/wiki/PechaKucha
