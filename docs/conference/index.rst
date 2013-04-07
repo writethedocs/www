@@ -32,6 +32,7 @@ Announcements
    :maxdepth: 2
    :glob:
 
+   welcome
    presentations-prereg-and-hike
    general-admission-and-venue
    initial-speakers-sponsors-tickets
