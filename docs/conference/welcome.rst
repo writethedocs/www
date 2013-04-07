@@ -1,19 +1,19 @@
 Welcome to Write the Docs!
 ==========================
 
-Greetings Documentarians!
+Greetings Fellow Documentarians!
 
 Write the Docs conference is upon us, and we wanted to give you some details about the event, venue, registration, evening events, and a bit about the surrounding area. Some of these details can be found on the `website`_, but please, read through this email...
 
 Preregistration (April 7th)
 ---------------------------
 
-If you are as excited as we are to get started, or just want to skip the Monday morning rush and chat with good folks, we will hold preregistration at Urban Airship (334 NW 11th Ave, Portland, OR 97209) from 6-8pm, Sunday April 7th. Come by, pick up your badge, your swag, and have a free beer. We cannot recommend this enough!
+If you are as excited as we are to get started, or just want to skip the Monday morning rush and chat with good folks, we will hold preregistration at Urban Airship (`334 NW 11th Ave, Portland, OR 97209`_) from 6-8pm, Sunday April 7th. Come by, pick up your badge, your swag, and have a free beer. We cannot recommend this enough!
 
 Main Event (April 8-9th)
 ------------------------
 
-We're meeting at McMenamin's Mission Theater (1624 N.W. Glisan, Portland, OR 97209) on April 8 and 9th. Registration begins at 8:00am and the main event begins at 9am and lasts until 6pm.
+We're meeting at McMenamin's Mission Theater (`1624 N.W. Glisan, Portland, OR 97209`_) on April 8 and 9th. Registration begins at 8:00am and the main event begins at 9am and lasts until 6pm.
 
 A continental breakfast will be provided, along with lunch and snacks. West End Portland has many excellent dinner options, a sampling listed below.
 
@@ -22,16 +22,20 @@ You can track the time of events on the `Lanyrd page`_, or download the mobile a
 Lightning Talks (April 8-9th)
 -----------------------------
 
-`Lightning Talks`_ are your chance to shine! If you have something to share with the crowd, we'll give you five minutes to present any topic you're excited about. If you sign up to speak, we'll select them day of.
+Lightning Talks are your chance to shine! If you have something to share with the crowd, we'll give you five minutes to present on any topic you're excited about. Sign up for lightning talks using the link below, and we'll be selecting and scheduling talks throughout the conference:
+
+`Lightning Talks Sign Up`_
+
+Never heard of a lightning talk? Read about them `on Wikipedia`_. Another fun option is the `Pecha Kucha`_ format, which we totally encourage.
 
 After Party(s) (April 8th)
 --------------------------
 
 On Monday evening we're having a private party at Ground Kontrol from 8-10pm. We will also host parties at two public locations Bailey's and Backspace):
 
-* Bailey's Tap Room (213 SW Broadway, Portland, OR 97205) - Provides: nerds, beer
-* Ground Kontrol (511 NW Couch St, Portland, OR 97209) - Provides: nerds, beer, arcade games
-* Backspace (115 NW 5th Ave, Portland, OR 97209) - Provides: nerds, beer, arcade games, coffee
+* Bailey's Tap Room (`213 SW Broadway, Portland, OR 97205`_) - Provides: nerds, beer
+* Ground Kontrol (`511 NW Couch St, Portland, OR 97209`_) - Provides: nerds, beer, arcade games
+* Backspace (`115 NW 5th Ave, Portland, OR 97209`_) - Provides: nerds, beer, arcade games, coffee
 
 Movie Night (April 9th)
 -----------------------
@@ -93,3 +97,11 @@ WTD Staff
 .. _on your phone: http://lanyrd.com/mobile/
 .. _Lightning Talk: http://en.wikipedia.org/wiki/Lightning_talk
 .. _conference code of conduct: http://conf.writethedocs.org/code-of-conduct.html
+.. _334 NW 11th Ave, Portland, OR 97209: http://goo.gl/maps/ODfxS
+.. _1624 N.W. Glisan, Portland, OR 97209: http://goo.gl/maps/dUZ1z
+.. _213 SW Broadway, Portland, OR 97205: http://goo.gl/maps/Ro25n
+.. _511 NW Couch St, Portland, OR 97209: http://goo.gl/maps/B3g63
+.. _115 NW 5th Ave, Portland, OR 97209: http://goo.gl/maps/FYNsn
+.. _Lightning Talks Sign Up: https://docs.google.com/forms/d/16LOjVeXXjqEQhb50kooF0iof_RuaIxfkIgbcepo4KAY/viewform
+.. _on Wikipedia: http://en.wikipedia.org/wiki/Lightning_talk
+.. _Pecha Kucha: http://en.wikipedia.org/wiki/PechaKucha
