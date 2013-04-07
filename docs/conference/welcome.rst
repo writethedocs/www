@@ -87,7 +87,9 @@ Fastfood:
 Code of Conduct
 ---------------
 
-If you haven't had a chance to read the `conference code of conduct`_, please give it a once-over before attending. TL;DR: be respectful and stay on topic.
+If you haven't had a chance to read the `conference code of conduct`_, please give it a once-over before attending. 
+
+TL;DR: be respectful and stay on topic.
 
 We look forward to seeing you and exploring how to Write the Docs!
 
