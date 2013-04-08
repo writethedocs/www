@@ -111,7 +111,7 @@ Erin Robbins O'Brien - Beautiful Documents - A Language Love Story
 
    **20 minutes**
 
-    Technical writing, content marketing, and all other forms of documentation are a love story between writer and document. Carefully walking the balance between attractive, desirable content and the stability and comfort of getting the information needed. This talk will poetically address how to re-kindle your document love if it has been lost, and some strategies to keep the fires burning so you each document you write is as exciting as the first.  
+    Technical writing, content marketing, and all other forms of documentation are a love story between writer and document. Carefully walking the balance between attractive, desirable content and the stability and comfort of getting the information needed. This talk will poetically address how to re-kindle your document love if it has been lost, and some strategies to keep the fires burning so that each document you write is as exciting as the first.  
 
 .. _heidi-waterhouse:
 
