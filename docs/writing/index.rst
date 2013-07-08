@@ -11,3 +11,4 @@ This section contains recommendations about writing documentation. What to do, a
    mindshare
    what-not/index
    doctests
+   conventions/index
