@@ -24,6 +24,7 @@ Conference Information
    venue
    hike
    portland
+   videos
 
 Announcements
 -------------
