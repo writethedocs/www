@@ -25,11 +25,7 @@ sys.path.insert(0, os.path.abspath('../vendor'))
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = [
-    'feed', 
-    'sphinx.ext.doctest', 
-    'websupport2.websupport2',
-]
+extensions = ['feed', 'sphinx.ext.doctest']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
