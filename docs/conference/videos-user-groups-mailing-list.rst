@@ -19,7 +19,7 @@ We hope that you share them with friends and collegues that couldn't make the co
 A `Bay Area Meetup Group`_
 ---------------------------
 
-We have our first user group setting up! `Ruth Buchanan`_ has organized a great first meeting, 
+We have our first meetup group setting up! `Ruth Buchanan`_ has organized a great first meeting, 
 and we hope that anyone in the area will come out and join. 
 They are looking for speakers for the first and following meetups, 
 so `check it out`_.
