@@ -47,6 +47,6 @@ Write the Docs Team
 .. _Ruth Buchanan: http://www.linkedin.com/pub/ruth-buchanan/19/8a8/ba
 .. _mailing list: https://groups.google.com/forum/#!forum/write-the-docs
 .. _sign up: https://groups.google.com/forum/#!forum/write-the-docs
-.. _Bay Area Meetup Group: http://www.meetup.com/Write-the-Docs-Meetup-Group/events/qwfnmgyrmbqb/
+.. _Bay Area Meetup Group: http://www.meetup.com/Write-the-Docs-Meetup-Group/
 .. _check it out: http://www.meetup.com/Write-the-Docs-Meetup-Group/events/qwfnmgyrmbqb/
 .. _Atlassian: https://www.atlassian.com/
