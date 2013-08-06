@@ -6,7 +6,7 @@ So, you want to write the docs for your project?
 
     *Where on earth do I start?*
 
-Well, you've come to the write (sic) place.
+Well, you've come to the write [sic] place.
 
 The goal here is to explain how to write docs, how to get the time to write docs, and what you should be striving for with those docs. A lot of projects are different, and a lot are the same. We will be covering the tactics for a few different groups.
 
