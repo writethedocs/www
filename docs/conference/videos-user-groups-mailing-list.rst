@@ -9,15 +9,15 @@ We hope that you've managed to keep some of the connections alive that you made 
 In that spirit, 
 we have a couple of announcements today that might help you connect more.
 
-`Talk Videos`_ are Posted
----------------------------
+Talk Videos are Posted
+----------------------
 
 The `talk videos`_ have been live for a few weeks, 
 but we thought we should email you as well. 
 We hope that you share them with friends and collegues that couldn't make the conference. 
 
-A `Bay Area Meetup Group`_
----------------------------
+A Bay Area Meetup Group
+-----------------------
 
 We have our first meetup group setting up! `Ruth Buchanan`_ has organized a great first meeting, 
 and we hope that anyone in the area will come out and join. 
@@ -31,8 +31,8 @@ Details:
 * Venue - Hosted and Sponsored by `Atlassian`_
 * Awesome - Free beer, wine, and pizza
 
-A `mailing list`_
--------------------
+A mailing list
+--------------
 
 Write the Docs is a larger idea than the conference. 
 A big part of that is having a community around documentation. 
