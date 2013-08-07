@@ -9,7 +9,7 @@ We hope that you've managed to keep some of the connections alive that you made 
 In that spirit, 
 we have a couple of announcements today that might help you connect more.
 
-Talk Videos are Posted
+Talk videos are posted
 ----------------------
 
 The `talk videos`_ have been live for a few weeks, 
