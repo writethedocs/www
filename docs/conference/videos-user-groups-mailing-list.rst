@@ -40,8 +40,8 @@ We have launched a `mailing list`_ that will allow people to chat about document
 If you are interested in chatting about docs or have questions you want to be answered, 
 go ahead and `sign up`_.
 
-Cheers,
-Write the Docs Team
+| Cheers,
+| Write the Docs Team
 
 .. _talk videos: http://www.youtube.com/playlist?list=PLmV2D6sIiX3UpQFzAIWh-_gsUTGCCtFIj
 .. _Ruth Buchanan: http://www.linkedin.com/pub/ruth-buchanan/19/8a8/ba
