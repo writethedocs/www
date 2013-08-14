@@ -5,6 +5,15 @@ These presentations are available for anyone to give at a local user group or co
 
 If you have feedback or want to make improvements, please submit them to our repository on GitHub: https://github.com/writethedocs/docs/issues
 
+Theme
+~~~~~
+
+We ship a theme that allows your presentation to have the Write the Docs theme, if you wish.
+
+* :download:`Theme </_static/presentations/Write_the_Docs_Theme.kth>`
+* Fonts_
+
+.. _Fonts: https://github.com/writethedocs/docs/tree/master/docs/_themes/kr/static/font
 
 Beginner
 ~~~~~~~~
