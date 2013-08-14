@@ -8,15 +8,15 @@ If you have feedback or want to make improvements, please submit them to our rep
 Theme
 ~~~~~
 
-We ship a theme that allows your presentation to have the Write the Docs theme, if you wish.
+We ship a theme that allows your presentation to have the Write the Docs theme. They require a set of fonts that you'll need as well.
 
 * :download:`Theme </_static/presentations/Write_the_Docs_Theme.kth>`
 * Fonts_
 
 .. _Fonts: https://github.com/writethedocs/docs/tree/master/docs/_themes/kr/static/font
 
-Beginner
-~~~~~~~~
+Beginner Presentations
+~~~~~~~~~~~~~~~~~~~~~~
 
 * Writing Docs: A beginners guide to writing documentation 
    * :download:`Keynote </_static/presentations/docs_talk.key>`
