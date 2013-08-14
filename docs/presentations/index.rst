@@ -10,7 +10,7 @@ Theme
 
 We ship a theme that allows your presentation to have the Write the Docs theme. They require a set of fonts that you'll need as well.
 
-* :download:`Theme </_static/presentations/Write_the_Docs_Theme.kth>`
+* :download:`Keynote Master Slides </_static/presentations/Write_the_Docs_Theme.kth>`
 * Fonts_
 
 .. _Fonts: https://github.com/writethedocs/docs/tree/master/docs/_themes/kr/static/font
