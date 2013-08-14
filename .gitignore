@@ -13,3 +13,6 @@
 
 # OS X!
 .DS_Store
+
+# Build dir
+_build
