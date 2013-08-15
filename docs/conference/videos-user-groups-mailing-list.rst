@@ -1,6 +1,4 @@
-:Date: 2013-02-19 15:00:00
-
-Announcing Conference Videos, a New User Group, and a Mailing List
+Announcing Conference Videos, a Meetup Group, and a Mailing List
 ==================================================================
 
 It's been a few months since the conference, 
