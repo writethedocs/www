@@ -45,9 +45,7 @@ go ahead and `sign up`_.
 2014 Details
 -------------
 
-We are excited about having the conference again.
-It will be held in Portland again,
-and we are starting to get in gear for next year.
+We are excited about having the conference again next year.
 We will be announcing the dates of the conference,
 and putting up a website in the next couple months. 
 
