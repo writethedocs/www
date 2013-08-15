@@ -52,7 +52,7 @@ and putting up a website in the next couple months.
 | Cheers,
 | Write the Docs Team
 
-.. _talk videos: http://www.youtube.com/playlist?list=PLmV2D6sIiX3UpQFzAIWh-_gsUTGCCtFIj
+.. _talk videos: http://videos.writethedocs.org/category/1/wtd-2013
 .. _Ruth Buchanan: http://www.linkedin.com/pub/ruth-buchanan/19/8a8/ba
 .. _mailing list: https://groups.google.com/forum/#!forum/write-the-docs
 .. _sign up: https://groups.google.com/forum/#!forum/write-the-docs
