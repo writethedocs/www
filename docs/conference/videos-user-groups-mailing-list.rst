@@ -5,7 +5,7 @@ Announcing Conference Videos, a New User Group, and a Mailing List
 
 It's been a few months since the conference, 
 and we hope everyone is enjoying their summer.
-We hope that you've managed to keep some of the connections alive that you made at Write the Docs.
+We hope that you've kept some of the connections alive that you made at Write the Docs.
 In that spirit, 
 we have a couple of announcements today that might help you stay connected.
 
