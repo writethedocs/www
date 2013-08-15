@@ -7,7 +7,7 @@ It's been a few months since the conference,
 and we hope everyone is enjoying their summer.
 We hope that you've kept some of the connections alive that you made at Write the Docs.
 In that spirit, 
-we have a couple of announcements today that might help you stay connected.
+we have a couple of announcements today that will help you stay connected.
 
 Talk videos are posted
 ----------------------
