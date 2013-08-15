@@ -37,4 +37,5 @@ Announcements
    presentations-prereg-and-hike
    general-admission-and-venue
    initial-speakers-sponsors-tickets
+   videos-user-groups-mailing-list
 
