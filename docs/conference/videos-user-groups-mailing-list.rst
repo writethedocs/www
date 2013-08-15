@@ -31,7 +31,7 @@ Details:
 * Awesome - Free beer, wine, and pizza
 
 If you are interested in setting up a meetup group in your own area,
-please `email me`_ if we can help at all.
+please `email us`_ if we can help at all.
 
 A mailing list
 --------------
@@ -62,4 +62,4 @@ and putting up a website in the next couple months.
 .. _meetup group: http://www.meetup.com/Write-the-Docs-Meetup-Group/
 .. _check it out: http://www.meetup.com/Write-the-Docs-Meetup-Group/events/qwfnmgyrmbqb/
 .. _Atlassian: https://www.atlassian.com/
-.. _email me: mailto:eric@ericholscher.com?subject=Meetup%20group
+.. _email us: mailto:eric@ericholscher.com?subject=Meetup%20group
