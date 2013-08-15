@@ -7,7 +7,7 @@ It's been a few months since the conference,
 and we hope everyone is enjoying their summer.
 We hope that you've managed to keep some of the connections alive that you made at Write the Docs.
 In that spirit, 
-we have a couple of announcements today that might help you connect more.
+we have a couple of announcements today that might help you stay connected.
 
 Talk videos are posted
 ----------------------
@@ -19,7 +19,7 @@ We hope that you share them with friends and collegues that couldn't make the co
 A Bay Area Meetup Group
 -----------------------
 
-We have our first meetup group setting up! `Ruth Buchanan`_ has organized a great first meeting, 
+We have our first `meetup group`_ setting up! `Ruth Buchanan`_ has organized a great first meeting, 
 and we hope that anyone in the area will come out and join. 
 They are looking for speakers for the first and following meetups, 
 so `check it out`_.
@@ -40,6 +40,15 @@ We have launched a `mailing list`_ that will allow people to chat about document
 If you are interested in chatting about docs or have questions you want to be answered, 
 go ahead and `sign up`_.
 
+2014 Details
+-------------
+
+We are excited about having the conference again next year.
+It will be held in Portland again,
+and we are starting to get in gear for next year.
+We will be announcing the dates of the conference,
+and putting up a website in the next couple months. 
+
 | Cheers,
 | Write the Docs Team
 
@@ -48,5 +57,6 @@ go ahead and `sign up`_.
 .. _mailing list: https://groups.google.com/forum/#!forum/write-the-docs
 .. _sign up: https://groups.google.com/forum/#!forum/write-the-docs
 .. _Bay Area Meetup Group: http://www.meetup.com/Write-the-Docs-Meetup-Group/
+.. _meetup group: http://www.meetup.com/Write-the-Docs-Meetup-Group/
 .. _check it out: http://www.meetup.com/Write-the-Docs-Meetup-Group/events/qwfnmgyrmbqb/
 .. _Atlassian: https://www.atlassian.com/
