@@ -22,3 +22,12 @@ Beginner Presentations
    * :download:`Keynote </_static/presentations/docs_talk.key>`
    * :download:`PDF </_static/presentations/docs_talk.pdf>`
    * :download:`Zipped HTML </_static/presentations/docs_talk_html.zip>`
+
+Intermediate Presentations
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. note:: Coming soon
+
+Outline:
+    * IA/Structure
+    * Things to include
