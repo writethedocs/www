@@ -15,7 +15,7 @@ We currently have meetups in the following cities:
 * `Boston`_
 * `New York`_
 
-.. _email us: mailto:eric@ericholscher.com?subject=Write the Docs Meetups
+.. _email us: mailto:eric@ericholscher.com?subject=Write%20the%20Docs%20Meetups
 .. _San Francisco: http://www.meetup.com/Write-the-Docs/
 .. _Boston: http://www.meetup.com/Write-The-Docs-Boston/
 .. _New York: http://www.meetup.com/Write-The-Docs-NY/
