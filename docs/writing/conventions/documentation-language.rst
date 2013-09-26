@@ -19,36 +19,36 @@ English is standard for software development
 
 **English is recommended for technical documentations related to software**,
 because it's the standard in software industry. Programming languages and code
-are written in english. So should be their documentation.
+are written in English. So should be their documentation.
 
 
 **********************************************
-Guidelines for non english-speaking developers
+Guidelines for non English-speaking developers
 **********************************************
 
-A common scenario in countries where english is not a natural language:
+A common scenario in countries where English is not a natural language:
 
 * a team develops software
-* some team members don't speak english, or at least not well enough to be
-  efficient with english.
+* some team members don't speak English, or at least not well enough to be
+  efficient with English.
 
-So english doesn't sound natural to this team... Let's consider other points
+So English doesn't sound natural to this team... Let's consider other points
 of interest, so that you can base your choice on pragmatic values.
 
-How much is english a useful skill to develop software?
+How much is English a useful skill to develop software?
 =======================================================
 
-Since most software documentations, articles, tutorials are written in english,
-learning english is truly useful. For developers, english language is valuable.
+Since most software documentations, articles, tutorials are written in English,
+learning English is truly useful. For developers, English language is valuable.
 
-So the question is: in the context of the project, can the team learn english?
-If the answer is "yes", then english remains a good choice.
+So the question is: in the context of the project, can the team learn English?
+If the answer is "yes", then English remains a good choice.
 Some helpers:
 
-* do team members actually are interested in learning english?
-* compare estimated learning cost to estimated benefits of english skill.
+* do team members actually are interested in learning English?
+* compare estimated learning cost to estimated benefits of English skill.
 
-Notice that, if some developers speak english, they can help others while
+Notice that, if some developers speak English, they can help others while
 doing code review or pair programming.
 
 How many foreign-speaking developers contribute to the software?
@@ -59,9 +59,9 @@ to the project? Which languages could be used for communications?
 
 The documentation language should be one in the list of possibilities.
 
-Notice that, as a universal communication language, english has chances to be
+Notice that, as a universal communication language, English has chances to be
 in the list. The more "international" or "open" is your project, the more
-english is a good choice.
+English is a good choice.
 
 How much would be a translation?
 ================================
@@ -74,7 +74,7 @@ If the cost is low, you may try a language now, and wonder about languages
 later, when necessary. Just make sure you defined "when necessary".
 
 As an example, if your documentation is about 200 words, you'd better
-write it now and translate it later, if necessary, rather than learn english
+write it now and translate it later, if necessary, rather than learn English
 then write the docs. But, the question should be asked again if the
 documentation reaches 5.000 words.
 
@@ -99,7 +99,7 @@ documentation of an international service:
 Then here is an example where multiple languages are not required... You
 provide a service to developers. Since your service is world-famous, users
 speak various languages. But your interface is user-friendly and most
-developers are used to english... so you don't have to localize the end-user
+developers are used to English... so you don't have to localize the end-user
 documentation.
 
 If only you can
@@ -116,7 +116,7 @@ or incomplete) documentation is generally more harmful than untranslated one.
 
 Sometimes, you can't support multiple languages yourself, but commmunity can.
 As an example, `the PHP documentation`_ is available in several languages.
-The original documentation is english, then translated in several languages. In
+The original documentation is English, then translated in several languages. In
 that case, the community is big enough to support the translation process.
 In fact, here, original documentation and its translations are managed as
 distinct products.
