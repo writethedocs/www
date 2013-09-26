@@ -48,7 +48,7 @@ Redirect
 ********
 
 As an entry point, documentation is a good place to redirect users to other
-services or ressources. What can't be maintained in documentation is referenced
+services or resources. What can't be maintained in documentation is referenced
 in documentation with hyperlinks or other straightforward redirections.
 
 

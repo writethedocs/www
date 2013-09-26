@@ -7,7 +7,7 @@ standards, conventions or best practices to increase code readbility.
 It makes collaboration and maintenance easier.
 
 **Adopt style guide for your documentation.**
-Then, in contributor guide, add an hyperlink to the style guide reference.
+Then, in contributor guide, add a hyperlink to the style guide reference.
 
 As an example, for Sphinx users `documentation-style-guide-sphinx`_ and
 `rst2rst`_ are **in-development** projects to explain and apply style guide
