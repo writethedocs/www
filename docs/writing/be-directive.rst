@@ -1,6 +1,6 @@
-############
-Be directive
-############
+#########
+Be direct
+#########
 
 Let's quote `the Zen of Python`_:
 
