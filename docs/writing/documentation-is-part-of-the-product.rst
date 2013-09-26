@@ -47,7 +47,7 @@ Several platforms, such as Github, propose a wiki service. It's a true
 temptation to use a wiki to host documentation:
 
 * it's collaborative,
-* it can be versionned,
+* it can be versioned,
 * it's a good place to receive contributions. It's visible and easy to use.
 
 So it seems suitable to serve documentation, but:
