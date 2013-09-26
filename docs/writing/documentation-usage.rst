@@ -77,7 +77,7 @@ tools. Vision or conventions can be written in documentation.
 
 
 *********
-Durbility
+Durability
 *********
 
 Some contributors leave, others come -- documentation persists.
