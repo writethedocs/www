@@ -28,7 +28,7 @@ Starting in the engineering organization I think is the simplest way to affect c
 Gather Input
 ------------
 
-You will want members from all of the teams in your organization to be invited to the planning meetings. They don't need to come, but you need to make sure it's an open and public discussion. This validations the outcome of the planning, and makes sure that you are taking into account all of the use cases of your team.
+vYou will want members from all of the teams in your organization to be invited to the planning meetings. They don't need to come, but you need to make sure it's an open and public discussion. This validates the outcome of the planning, and makes sure that you are taking into account all of the use cases of your team.
 
 Build a taxonomy
 ----------------
