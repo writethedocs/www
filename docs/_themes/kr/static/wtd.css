@@ -129,12 +129,10 @@ blockquote > div:after {
   color: #cccccc;
 }
 blockquote > div:before {
-  content: open-quote;
   margin-right: 4px;
   float: left;
 }
 blockquote > div:after {
-  content: close-quote;
   margin-left: 4px;
   float: right;
 }
