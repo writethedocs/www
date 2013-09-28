@@ -60,3 +60,14 @@ Information about Write the Docs Conference
    :maxdepth: 2
 
    conference/index
+
+
+.. BS toctree to stop warnings
+
+.. toctree::
+    :hidden:
+
+    book
+    writing/index
+    writing/oss
+    writing/what

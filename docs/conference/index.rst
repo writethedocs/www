@@ -38,4 +38,5 @@ Announcements
    general-admission-and-venue
    initial-speakers-sponsors-tickets
    videos-user-groups-mailing-list
+   schedule-party-prereg-hike
 
