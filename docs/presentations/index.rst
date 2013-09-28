@@ -15,6 +15,8 @@ We ship a theme that allows your presentation to have the Write the Docs theme. 
 
 .. _Fonts: https://github.com/writethedocs/docs/tree/master/docs/_themes/kr/static/font
 
+.. _beginner-presentation:
+
 Beginner Presentations
 ~~~~~~~~~~~~~~~~~~~~~~
 

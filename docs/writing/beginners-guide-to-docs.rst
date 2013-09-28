@@ -1,6 +1,10 @@
 A beginners guide to writing documentation
 ==========================================
 
+.. note:: This information is also available as a :ref:`Keynote Presentation <beginner-presentation>`
+
+.. 
+
 	| Camera pans from stage left.
 	| It shows a text editor, open to a blank page
 	| A person hunched in front, head to desk.
