@@ -15,7 +15,7 @@ Open Source Developers
 
 You have some awesome open source code, but nobody knows how to use it. The chance of someone discovering and using your awesome code goes up greatly with good documentation.
 
-Start with the :doc:`writing/oss`, and that should give you some food for thought to get started.
+Start with the :doc:`writing/beginners-guide-to-docs`, and that should give you some food for thought to get started.
 
 
 Developers at a company

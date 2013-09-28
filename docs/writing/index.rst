@@ -4,11 +4,17 @@ Writing documentation
 
 This section contains recommendations about writing documentation. What to do, and what not to do.
 
+Articles:
+
 .. toctree::
 
-   what
-   oss
+   beginners-guide-to-docs
    mindshare
+
+Musings:
+
+.. toctree::
+
    documentation-usage
    documentation-is-part-of-the-product
    kiss
