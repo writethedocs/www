@@ -27,9 +27,9 @@ the :file:`README`.
 * Documentation gives an overview of the project.
 
 
-*********************
+**********************
 Comparisons, decisions
-*********************
+**********************
 
 * Documentation highlights features, and compares to similar products.
 * Documentation quality can make a difference between similar projects.
@@ -76,9 +76,9 @@ Some content cannot be stored in scripts, configuration or other "productive"
 tools. Vision or conventions can be written in documentation.
 
 
-*********
+**********
 Durability
-*********
+**********
 
 Some contributors leave, others come -- documentation persists.
 

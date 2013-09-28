@@ -9,7 +9,7 @@ Schedule is now live
 We have released the `final schedule`_ for the conference. We tried to group the talks into themes in between each break, and think it should flow nicely together. 
 
 Pre-registration details
------------------------
+-------------------------
 
 `Urban Airship`_ will be graciously hosting our pre-registration event. They are located about 6 blocks from the venue, so it should be an easy place to get to. The event will last from 6-8ish, and that means you can get another hour of sleep in the morning.
 
