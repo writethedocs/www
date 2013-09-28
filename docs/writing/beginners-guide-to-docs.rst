@@ -3,6 +3,9 @@ A beginners guide to writing documentation
 
 .. note:: This information is also available as a :ref:`Keynote Presentation <beginner-presentation>`
 
+.. warning:: This is still a first draft, 
+	 		 not yet meant for public consumption.
+
 .. 
 
 	| Camera pans from stage left.
