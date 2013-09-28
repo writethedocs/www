@@ -22,6 +22,9 @@ and I hope this guide will get you started down the righteous path.
 At the end,
 you should have a project that is ready for public release.
 
+Feel free to read this document straight through,
+or simply use it as a reference.
+
 .. _why:
 
 Why write docs
