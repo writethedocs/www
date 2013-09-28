@@ -1,7 +1,7 @@
 A beginners guide to writing documentation
 ==========================================
 
-.. note:: This information is also available as a :ref:`Keynote Presentation <beginner-presentation>`
+.. note:: This is a write up of a :ref:`Presentation <beginner-presentation>`
 
 .. warning:: This is still a first draft, 
 	 		 not yet meant for public consumption.
