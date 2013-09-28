@@ -283,6 +283,17 @@ BSD? MIT? GPL? This stuff might not matter to you, but the people who want to us
 
 .. _template:
 
+
+Next Steps
+----------
+
+After you follow the above guide,
+we know your project will be successful!
+For further reading,
+check out this post on `how to maintain an open source project`_.
+
+.. _how to maintain an open source project: https://medium.com/p/aaa2a5437d3a
+
 Template
 --------
 
