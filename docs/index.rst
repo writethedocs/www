@@ -61,13 +61,3 @@ Information about Write the Docs Conference
 
    conference/index
 
-
-.. BS toctree to stop warnings
-
-.. toctree::
-    :hidden:
-
-    book
-    writing/index
-    writing/oss
-    writing/what
