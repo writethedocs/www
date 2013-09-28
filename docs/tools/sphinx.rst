@@ -52,11 +52,11 @@ reStructuredText
 
 To write nice looking documentation you will need to have a basic understanding of RST as a language. The `reStructuredText Primer`_ is a great place to start reading, and it covers most of the syntax you will care about. The main parts you will need at first are:
 
-  * **Inline Markup**
-  * **Source Code**
-  * **Hyperlinks**
-  * **Sections**
-  * **Directives**
+* **Inline Markup**
+* **Source Code**
+* **Hyperlinks**
+* **Sections**
+* **Directives**
 
 .. note:: You can live-preview RST on the web: http://rst.ninjs.org/
 
