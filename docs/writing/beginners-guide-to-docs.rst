@@ -9,19 +9,18 @@ A beginners guide to writing documentation
 	| It shows a text editor, open to a blank page
 	| A person hunched in front, head to desk.
 
-The scene above is well known to everyone who writes for a living.
-The mixed emotions of a blank page.
-Holding all possibility, breeding both despair and excitement.
+The scene above is well known to everyone who writes for a living;
+the mixed emotions of a blank page.
+Full of excitement, fresh with a new beginning.
+Yet also full of dispair, where do you even start?
 
-That is the scene I am trying to stop from playing out.
+I am here to stop this scene from playing out.
 
-This will be a guide to documenting your first project.
+This is a guide to documenting your first project.
 The first time is always the hardest,
 and I hope this guide will get you started down the righteous path.
-
-At the end of this guide,
-you should have a project with a great README.
-There is a :ref:`template` that you can use to get started.
+At the end,
+you should have a project that is ready for public release.
 
 .. _why:
 
