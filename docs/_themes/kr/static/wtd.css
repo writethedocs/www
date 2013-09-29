@@ -185,3 +185,7 @@ div.sidebar {
     position: relative;
     display: block;
 }
+
+div.warning > p.first {
+  color: red;
+}

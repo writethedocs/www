@@ -3,6 +3,11 @@ A beginners guide to writing documentation
 
 .. note:: This is a write up of a :ref:`Presentation <beginner-presentation>`
 
+.. warning:: This document is a work in progress. 
+			 Please provide feedback to `@ericholscher`_
+
+.. _@ericholscher: http://twitter.com/ericholscher
+		
 .. 
 
 	| Camera pans from stage left.
