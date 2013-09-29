@@ -213,8 +213,8 @@ First, you need to ask yourself who you're writing for.
 At first, 
 you generally just need to appeal to two audiences:
 
-	* Users
-	* Developers
+* Users
+* Developers
 
 Users are people who simply want to use your code,
 and don't care how it works.
