@@ -200,6 +200,10 @@ Code hosting services will render your README into HTML automatically if you pro
 It is also the first interaction that most users will have with your project.
 So having a solid README will serve your project well.
 
+Some people even go as far as to `start your project with a README`_ 
+
+.. _start your project with a README: http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
+
 .. _write:
 
 What to write
