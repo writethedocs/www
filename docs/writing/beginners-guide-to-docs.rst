@@ -241,8 +241,8 @@ People like to browse the code sometimes. They might be interested in filing bug
 
 .. _Python Guide: http://docs.python-guide.org/en/latest/index.html
 
-Writing an FAQ
-~~~~~~~~~~~~~~
+Frequently Asked Questions (FAQ)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A lot of people have the same problems. If things happen all the time, you should probably fix your documentation or the code, so that the problems go away. However, there are always questions that get asked about your project, things that can't be changed, etc. Document those, and **keep it up to date**. FAQs are generally out of date, but when done well, they are a golden resource. Tastypie_ did a great job with this, with their "Cookbook" concept.
 
