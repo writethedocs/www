@@ -32,7 +32,7 @@ Why write docs
 
 You will be using your code in 6 months
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+ 
 I find it best to start off with a selfish appeal.
 The best reason to write docs is because you will be using your code in 6 months.
 Code that you wrote 6 months ago is often indistinguishable from code that someone else has written.
@@ -60,19 +60,19 @@ people need to understand why your code might be useful for them,
 before they decide to use it.
 Documentation tells people that this project is for them.
 
-| If people don't know why your project exists,
-| they won't use it.
-| If people can't figure out how to install your code,
-| they won't use it.
-| If people can't figure out how to use your code,
-| they won't use it.
+	| If people don't know why your project exists,
+	| they won't use it.
+	| If people can't figure out how to install your code,
+	| they won't use it.
+	| If people can't figure out how to use your code,
+	| they won't use it.
 
 There are a small number of people who will source dive and use any code out there.
 That is a vanishingly small number of people,
 compared to people who will use your code when properly documented.
 If you really love your project,
 document it,
-and let other people 
+and let other people use it.
 
 Sidebar on open source
 ``````````````````````
@@ -82,18 +82,18 @@ It comes in a variety of ways, but it always hits you the same.
 *Someone is using my code?!*
 A mix of terror and excitement.
 
-| I made something of value!
-| What if it breaks?!
-| I am a real open source developer!
-| Oh god, someone else is using my code..
+	| I made something of value!
+	| What if it breaks?!
+	| I am a real open source developer!
+	| Oh god, someone else is using my code..
 
 Writing good documentation will help alleviate some of these fears.
 A lot of this fear comes from putting something into the world.
 My favorite quote about this is something along these lines:
 
-	Fear is what happens when you're doing something important.
-	If you are doing work that isn't scary,
-	it isn't improving you or the world
+	| Fear is what happens when you're doing something important.
+	| If you are doing work that isn't scary,
+	| it isn't improving you or the world
 
 Congrats on being afraid!
 It means you're doing something important.
@@ -112,9 +112,9 @@ but it doesn't exist outside the laws of physics.
 You have to put work in, 
 to get work out.
 
-| You only get contributions after you have put in a lot of work.
-| You only get contributions after you have users.
-| You only get contributions after you have documentation.
+	| You only get contributions after you have put in a lot of work.
+	| You only get contributions after you have users.
+	| You only get contributions after you have documentation.
 
 Documentation also provides a platform for your first contributions.
 A lot of people have never contributed before,
