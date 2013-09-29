@@ -49,10 +49,33 @@ Much in the same way code comments explain the why,
 and not the how,
 documentation serves the same purpose.
 
+.. sidebar::  Sidebar on open source
+
+	There is a magical feeling that happens when you release your code.
+	It comes in a variety of ways, but it always hits you the same.
+	*Someone is using my code?!*
+	A mix of terror and excitement.
+
+		| I made something of value!
+		| What if it breaks?!
+		| I am a real open source developer!
+		| Oh god, someone else is using my code..
+
+	Writing good documentation will help alleviate some of these fears.
+	A lot of this fear comes from putting something into the world.
+	My favorite quote about this is something along these lines:
+
+		| Fear is what happens when you're doing something important.
+		| If you are doing work that isn't scary,
+		| it isn't improving you or the world
+
+	Congrats on being afraid!
+	It means you're doing something important.
+
 You want people to use your code
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-You have written a piece of code,
+You have written a piece of cod,
 and released it into the world.
 You have done this because you think that others might find it useful.
 However,
@@ -74,29 +97,6 @@ If you really love your project,
 document it,
 and let other people use it.
 
-Sidebar on open source
-``````````````````````
-
-There is a magical feeling that happens when you release your code.
-It comes in a variety of ways, but it always hits you the same.
-*Someone is using my code?!*
-A mix of terror and excitement.
-
-	| I made something of value!
-	| What if it breaks?!
-	| I am a real open source developer!
-	| Oh god, someone else is using my code..
-
-Writing good documentation will help alleviate some of these fears.
-A lot of this fear comes from putting something into the world.
-My favorite quote about this is something along these lines:
-
-	| Fear is what happens when you're doing something important.
-	| If you are doing work that isn't scary,
-	| it isn't improving you or the world
-
-Congrats on being afraid!
-It means you're doing something important.
 	
 You want people to help out
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -220,8 +220,8 @@ Users are people who simply want to use your code,
 and don't care how it works.
 Developers are people who want to contribute back to your code.
 
-What problem your project solves.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+What problem your project solves
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A lot of people will come to your docs trying to figure out what exactly your project is. Someone will mention it, or they'll google a phrase randomly. You should explain what your project does and why it exists. Fabric_ does a great job of this.
 

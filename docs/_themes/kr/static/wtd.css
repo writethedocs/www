@@ -178,3 +178,10 @@ div.sphinxsidebarwrapper {
     margin: 20px 0px;
     padding: 20px 20px;
   }
+
+div.sidebar {
+    width: 440px;
+    margin: 0px -500px 0px;
+    position: relative;
+    display: block;
+}
