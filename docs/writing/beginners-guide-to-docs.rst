@@ -11,7 +11,7 @@ A beginners guide to writing documentation
 .. 
 
 	| Camera pans from stage left.
-	| It shows a text editor, open to a blank page
+	| It shows a text editor, open to a blank page.
 	| A person hunched in front, head to desk.
 
 The scene above is well known to everyone who writes for a living;
