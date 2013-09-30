@@ -80,7 +80,7 @@ documentation serves the same purpose.
 You want people to use your code
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-You have written a piece of cod,
+You have written a piece of code,
 and released it into the world.
 You have done this because you think that others might find it useful.
 However,
