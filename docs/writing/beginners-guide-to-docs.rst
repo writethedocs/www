@@ -163,6 +163,8 @@ you can expand your scope.
 The tools should be powerful and easy to use.
 This removes obstacles to actually putting words on the page.
 
+.. _markup_languages:
+
 .. sidebar:: Sidebar on markup languages.
 
    The examples in this document are both valid `Markdown`_ and `reStructuredText`_.
@@ -184,11 +186,6 @@ We also have some of the best tooling available for tracking changes to files.
 Why would we forgo using those tools when writing documentation.
 This workflow is powerful, and familiar to developers.
 
-We will be using Markdown,
-as it's the simplest plain text format.
-You can learn more about markdown with `this tutorial`_ 
-
-.. _this tutorial: http://www.markdowntutorial.com/
 
 Basic Example
 ~~~~~~~~~~~~~
@@ -208,8 +205,8 @@ It's easy to write,
 still makes sense as plain text,
 and renders nicely into HTML.
 
-README.md
-~~~~~~~~~
+README
+~~~~~~
 
 Your first steps in documentation should go into your README. 
 Code hosting services will render your README into HTML automatically if you provide the proper extension.
@@ -314,7 +311,13 @@ check out this post on `how to maintain an open source project`_.
 Template
 --------
 
-A simple template for you to start with, for your ``README.md``::
+A simple template for you to start with, 
+for your ``README``.
+Name the file ``README.md`` if you want to use markdown,
+or ``README.rst`` if you want to use reStructuredText.
+More information about these can be found in the :ref:`sidebar on markup <markup_languages>`.
+
+::
 
 	$project
 	========
