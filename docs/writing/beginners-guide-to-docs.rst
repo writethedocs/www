@@ -72,7 +72,7 @@ documentation serves the same purpose.
 
 		| Fear is what happens when you're doing something important.
 		| If you are doing work that isn't scary,
-		| it isn't improving you or the world
+		| it isn't improving you or the world.
 
 	Congrats on being afraid!
 	It means you're doing something important.
