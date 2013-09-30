@@ -170,7 +170,8 @@ div.sphinxsidebarwrapper {
   padding: 5px 10px 18px 10px;
 }
 
-@media screen and (max-width: 600px)
+@media screen and (max-width: 600px) {
+
   ul {
     margin: 10px 0 10px 20px;
   }
@@ -178,6 +179,12 @@ div.sphinxsidebarwrapper {
     margin: 20px 0px;
     padding: 20px 20px;
   }
+
+  div.sidebar {
+      width: 100%;
+  }
+
+}
 
 div.sidebar {
     width: 440px;

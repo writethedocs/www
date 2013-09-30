@@ -163,6 +163,17 @@ you can expand your scope.
 The tools should be powerful and easy to use.
 This removes obstacles to actually putting words on the page.
 
+.. sidebar:: Sidebar on markup languages.
+
+   The examples in this document are both valid `Markdown`_ and `reStructuredText`_.
+   reStructuredText is a bit harder to use,
+   but is more powerful.
+   I recommend that you check them both out,
+   and decide which you want to use going forward.
+
+.. _reStructuredText: http://sphinx-doc.org/rest.html#rst-primer
+.. _Markdown: http://daringfireball.net/projects/markdown/
+
 Version controlled plain text
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
