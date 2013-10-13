@@ -17,7 +17,7 @@ A beginners guide to writing documentation
 The scene above is well known to everyone who writes for a living;
 the mixed emotions of a blank page.
 Full of excitement, fresh with a new beginning.
-Yet also full of dispair, where do you even start?
+Yet also full of despair, where do you even start?
 
 I am here to stop this scene from playing out.
 
