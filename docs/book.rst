@@ -1,7 +1,10 @@
 Write the Docs: The Book
 ========================
 
-This page will organize the content of our repository into the format of a book. I think this will be more intuitive to readers, and easier to understand and get contributors from writers.
+This page will organize the content of our repository into the format of a
+book.
+I think this will be more intuitive to readers,
+and easier to understand and get contributors from writers.
 
 
 Chapters
