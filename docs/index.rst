@@ -2,9 +2,18 @@
 Welcome
 =======
 
-Write the Docs is a place where the art and science of documentation can be practiced and appreciated. There are a lot of people out there that write docs, but there isn't a good place to go to find information, ask questions, and generally be a member of a community of documentarians. We hope to slowly solve this problem by building a place with high quality information about the art of writing documentation. Along with that, we hope to open communication between all the awesome people out there writing documentation.
+Write the Docs is a place where the art and science of documentation can be
+practiced and appreciated.
+There are a lot of people out there who write docs,
+but there isn't a good place to go to find information,
+ask questions, and generally be a member of a community of documenters.
+We hope to slowly solve this problem by building a place with high quality
+information about the art of writing documentation.
+Along with that, we hope to open communication between all the awesome
+people out there writing documentation.
 
-.. note:: The website for Write the Docs Conference and Meetups is located at http://conf.writethedocs.org/
+.. note:: The website for Write the Docs Conference and Meetups is located
+    at http://conf.writethedocs.org/
 
 Contents
 --------
@@ -18,7 +27,7 @@ Contents
    presentations/index
    about/index
 
-..  note:: This repository is open source and is available on `GitHub`_. 
+.. note:: This repository is open source and is available on `GitHub`_. 
     We would love contributions.
 
 .. _GitHub: https://github.com/writethedocs/docs
@@ -38,7 +47,13 @@ Resources
 Meetups
 -------
 
-The best way to get involved with the community is with your local branch of Write the Docs! We currently have local meetups happening in cities across the country. If your city isn't listed, feel free to start your own. Please `email us`_ if you plan to start a meetup, and we can help get the word out.
+The best way to get involved with the community is your local branch of
+Write the Docs!
+We currently have local meetups happening in cities across the country 
+(tomorrow: the world!).
+If your city isn't listed, feel free to start your own.
+Please `email us`_ if you plan to start a meetup, and we can help get the
+word out.
 
 We currently have meetups in the following cities:
 
