@@ -7,7 +7,7 @@
 {#########################}
 
 {% macro comments() %}
-{% if 'conference' in pagename  %}
+{% if 'conference' in pagename or '2014' in pagename  %}
 <!-- Only show comments in the Conference section -->
 <h2 id="comments">
 Comments

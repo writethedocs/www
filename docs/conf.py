@@ -271,7 +271,7 @@ texinfo_documents = [
 
 
 #siteurl = 'file://' + os.path.abspath('../var/docs/html') #won't work in windows
-feed_base_url = "http://docs.writethedocs.org/en/2013"
+feed_base_url = "http://docs.writethedocs.org/en/latest/2014/"
 feed_description = "Write the Docs Announcements"
 feed_filename = 'rss.xml'
 feed_title = 'Write the Docs'

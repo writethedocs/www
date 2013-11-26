@@ -74,5 +74,5 @@ Information about Write the Docs Conference
 .. toctree::
    :maxdepth: 2
 
-   conference/index
+   2014/index
 

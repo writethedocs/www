@@ -1,5 +1,3 @@
-:Date: 2013-02-19 15:00:00
-
 Announcing Venue, General Ticket Sales, Additional Sponsors
 ===========================================================
 
