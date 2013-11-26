@@ -6,6 +6,21 @@ book.
 I think this will be more intuitive to readers,
 and easier to understand and get contributors from writers.
 
+Audience
+--------
+
+The audience that we are hoping to reach are people who want to write documentation. 
+We assume that they are familiar with open source development and version control.
+
+Take aways
+----------
+
+We hope that people who read this book will have the following take aways:
+
+* Understanding of Plain Text Markup Languages
+* A basic skeleton of their documentation
+* Understand why documentation is important
+
 
 Chapters
 --------
