@@ -45,7 +45,7 @@ It should be as easy and straight-forward getting started as possible. Most peop
 Build templates
 ~~~~~~~~~~~~~~~
 
-It should take about 5 seconds to get a basic outside of the documentation for a project started.
+It should take about 5 seconds to get a basic outline of the documentation for a project started.
 
 Also have a standard hierarchy for the docs, so that people know where to look for things in any project.
 
