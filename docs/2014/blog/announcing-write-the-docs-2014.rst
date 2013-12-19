@@ -52,6 +52,8 @@ Come share with us!
 * `Write the Docs EU talks`_ will be accepted until **January 31**
 * `Write the Docs NA talks`_ will be accepted until **March 1**
 
+Please remember that all talks are subject to our `Code of Conduct`_.
+
 Sponsors
 --------
 
@@ -78,3 +80,4 @@ We are happy to help in any way that we can.
 .. _Write the Docs NA talks: http://conf.writethedocs.org/na/2014/index.html#cfp
 .. _Write the Docs NA Lanyrd: http://lanyrd.com/2014/writethedocs/
 .. _Write the Docs EU Lanyrd: http://lanyrd.com/2014/write-the-docs-europe/
+.. _Code of Conduct: http://conf.writethedocs.org/code-of-conduct.html
