@@ -22,3 +22,6 @@ Blog
     :glob:
 
     blog/index
+
+.. _Write the Docs NA: http://conf.writethedocs.org/na/2014/index.html
+.. _Write the Docs EU: http://conf.writethedocs.org/eu/2014/index.html
