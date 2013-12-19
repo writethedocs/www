@@ -13,3 +13,8 @@ Docs or it didn't happen!
 
 Blog
 ----
+
+.. toctree::
+    :glob:
+
+    blog/*
