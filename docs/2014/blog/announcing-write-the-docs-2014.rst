@@ -7,8 +7,8 @@ we have decided to expand this year.
 There will be two conferences,
 one in North America and one in Europe.
 
-* Write the Docs EU in **Budapest, Hungary on March 31-April 1**.
-* Write the Docs NA in **Portland, Oregon on May 5-6**.
+* `Write the Docs EU`_ in **Budapest, Hungary on March 31-April 1**.
+* `Write the Docs NA`_ in **Portland, Oregon on May 5-6**.
 
 Both of these dates are on a Monday and Tuesday.
 We will be announcing ticket information in the new year,
@@ -81,6 +81,8 @@ We are happy to help in any way that we can.
 .. _Europe Mailing List: http://writethedocs.us6.list-manage.com/subscribe?u=94377ea46d8b176a11a325d03&id=232251933d
 .. _North America Mailing List: http://writethedocs.us6.list-manage.com/subscribe?u=94377ea46d8b176a11a325d03&id=dcf0ed349b
 .. _Write the Docs Twitter: https://twitter.com/writethedocs
+.. _Write the Docs NA: http://conf.writethedocs.org/na/2014/index.html
+.. _Write the Docs EU: http://conf.writethedocs.org/eu/2014/index.html
 .. _Write the Docs EU talks: http://conf.writethedocs.org/eu/2014/index.html#cfp
 .. _Write the Docs NA talks: http://conf.writethedocs.org/na/2014/index.html#cfp
 .. _Write the Docs NA Lanyrd: http://lanyrd.com/2014/writethedocs/
