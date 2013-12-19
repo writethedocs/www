@@ -11,6 +11,8 @@ one in North America and one in Europe.
 * Write the Docs NA in **Portland, Oregon on May 5-6**.
 
 Both of these dates are on a Monday and Tuesday.
+We will be announcing ticket information in the new year,
+but know that it will once again be very affordable.
 
 For the uninitiated,
 Write the Docs is a series of conferences focused on documentation systems,
