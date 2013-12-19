@@ -17,4 +17,4 @@ Blog
 .. toctree::
     :glob:
 
-    blog/*
+    blog
