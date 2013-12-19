@@ -34,9 +34,9 @@ sign up for our mailing list.
 * `Europe Mailing List`_
 
 Ticket announcements and other important information will be sent to these lists.
+You can also find us on online at other places:
 
-You can also track the events on Lanyrd:
-
+* `Write the Docs Twitter`_
 * `Write the Docs NA Lanyrd`_ 
 * `Write the Docs EU Lanyrd`_
 
@@ -77,6 +77,7 @@ We are happy to help in any way that we can.
 .. _send us an email: mailto:writethedocs@gmail.com
 .. _Europe Mailing List: http://writethedocs.us6.list-manage.com/subscribe?u=94377ea46d8b176a11a325d03&id=232251933d
 .. _North America Mailing List: http://writethedocs.us6.list-manage.com/subscribe?u=94377ea46d8b176a11a325d03&id=dcf0ed349b
+.. _Write the Docs Twitter: https://twitter.com/writethedocs
 .. _Write the Docs EU talks: http://conf.writethedocs.org/eu/2014/index.html#cfp
 .. _Write the Docs NA talks: http://conf.writethedocs.org/na/2014/index.html#cfp
 .. _Write the Docs NA Lanyrd: http://lanyrd.com/2014/writethedocs/
