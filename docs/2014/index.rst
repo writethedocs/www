@@ -1,15 +1,19 @@
 Write the Docs 2014
 ===================
 
-Write the Docs is a two-day conference focused on documentation systems, tech writing theory, and information delivery. It will be held on April 8-9 in Portland, Oregon.
+* `Write the Docs EU`_ in **Budapest, Hungary on March 31-April 1**.
+* `Write the Docs NA`_ in **Portland, Oregon on May 5-6**.
 
-Writing and maintaining documentation involves the talents of a multidisciplinary community of technical writers, designers, typesetters, developers, support teams, marketers, and many others.
+Both of these dates are on a Monday and Tuesday.
+We will be announcing ticket information in the new year,
+but know that it will once again be very affordable.
 
-This conference creates a time and a place for this community of documentarians to share information, discuss ideas, and work together to improve the art and science of documentation.
-
-We invite all those who write the docs to spread the word:
-
-Docs or it didn't happen!
+Write the Docs is a series of conferences focused on documentation systems,
+tech writing theory,
+and information delivery.
+Our conferences create a time and a place for the global community of documentarians to share information,
+discuss ideas,
+and work together to improve the art and science of documentation.
 
 Blog
 ----
