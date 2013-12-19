@@ -16,7 +16,7 @@ For the uninitiated,
 Write the Docs is a series of conferences focused on documentation systems,
 tech writing theory, 
 and information delivery.
-Our conferences create a time and a place for the global community of *documentarians* to share information, 
+Our conferences create a time and a place for the global community of documentarians to share information, 
 discuss ideas, 
 and work together to improve the art and science of documentation.
 
