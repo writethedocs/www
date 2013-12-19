@@ -1,7 +1,7 @@
 Announcing Write the Docs 2014
 ==============================
 
-We are excited to announce the Write the Docs dates for 2014.
+We are excited to announce the Write the Docs dates for 2014!
 We had such a great time in 2013,
 we have decided to expand this year.
 There will be two conferences,
