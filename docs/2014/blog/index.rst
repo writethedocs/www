@@ -5,6 +5,6 @@ Posts
 ~~~~~
 
 .. toctree::
-    :blog:
+    :glob:
 
     *

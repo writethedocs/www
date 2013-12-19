@@ -7,8 +7,8 @@ we have decided to expand this year.
 There will be two conferences,
 one in North America and one in Europe.
 
-* Write the Docs EU will be in **Budapest, Hungary on March 31-April 1**.
-* Write the Docs NA will be in **Portland, Oregon on May 5-6**.
+* Write the Docs EU in **Budapest, Hungary on March 31-April 1**.
+* Write the Docs NA in **Portland, Oregon on May 5-6**.
 
 Both of these dates are on a Monday and Tuesday.
 
