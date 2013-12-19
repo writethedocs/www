@@ -26,7 +26,7 @@ Stay up to date
 ---------------
 
 If you wish to get more information as it comes out,
-sign up for our mailing list.
+sign up for our mailing list:
 
 * `North America Mailing List`_
 * `Europe Mailing List`_
