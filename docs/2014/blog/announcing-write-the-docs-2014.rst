@@ -45,8 +45,8 @@ now is your chance.
 
 We'd love to hear your ideas for talks on the many and varied aspects of documentation.
 We love talks that deliver hard-earned knowledge based on real-world experience and research. 
-That said, we are happy to accept talks from all skill levels and backgrounds.
-We believe that beginners can teach us just as much about good documentation as experts can.
+We also believe that beginners can teach us just as much about good documentation as experts can.
+We are happy to accept talks from all skill levels and backgrounds.
 Come share with us!
 
 * `Write the Docs EU talks`_ will be accepted until **January 31**
