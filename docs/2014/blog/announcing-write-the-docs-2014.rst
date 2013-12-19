@@ -52,8 +52,8 @@ Come share with us!
 * `Write the Docs EU talks`_ will be accepted until **January 31**
 * `Write the Docs NA talks`_ will be accepted until **March 1**
 
-To get an idea of what might be interesting to talk about,
-check out `last years talks`_
+To get some ideas about what might be interesting,
+check out `last years talks`_.
 
 Please remember that all talks are subject to our `Code of Conduct`_.
 
