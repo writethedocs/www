@@ -2,7 +2,7 @@ Announcing Write the Docs 2014
 ==============================
 
 We are excited to announce the Write the Docs dates for 2014!
-We had such a great time in 2013,
+We had such a great time `in 2013`_,
 we have decided to expand this year.
 There will be two conferences,
 one in North America and one in Europe.
@@ -76,6 +76,7 @@ If you have any questions,
 feel free to `send us an email`_.
 We are happy to help in any way that we can.
 
+.. _in 2013: http://conf.writethedocs.org/na/2013/index.html
 .. _email us: mailto:writethedocs@gmail.com?subject=[Write%20the%20Docs]%20Sponsorship
 .. _send us an email: mailto:writethedocs@gmail.com
 .. _Europe Mailing List: http://writethedocs.us6.list-manage.com/subscribe?u=94377ea46d8b176a11a325d03&id=232251933d
