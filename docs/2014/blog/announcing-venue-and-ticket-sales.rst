@@ -38,12 +38,12 @@ There are only a limited number of Early Bird tickets,
 so if you are already planning to come,
 `buy them`_ now!
 
-Presentations Due Soon
-----------------------
+Talk Proposals Due Soon
+-----------------------
 
-If you are planning to speak at Write the Docs EU this year,
+If you are hoping to speak at Write the Docs EU this year,
 time is running out.
-The Call for Proposals ends on January 31,
+The Call for Proposals ends on **January 31**,
 so you have less than two weeks to submit a talk.
 
 Go ahead and `submit a talk now`_!
