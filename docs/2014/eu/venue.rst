@@ -40,7 +40,7 @@ Accomodation
 
 Budapest is a thriving city,
 and there are numerous places to stay within the city.
-Everywhere from a 5-star hotel to backpackers hostels are located within an easy ride from the venue.
+Everywhere from a four-star hotel to backpackers hostels are located within an easy ride from the venue.
 
 We can recomend a couple places though.
 

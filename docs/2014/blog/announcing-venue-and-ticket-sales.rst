@@ -21,10 +21,10 @@ and a devoted space for conferences.
 Prezi's home gives us a fitting environment to come together and talk about making documentation great.
 
 .. image:: /img/venue/PreziVenue.jpg
-	:width: 70%
+	:width: 100%
 
 More information can be found on the :doc:`/2014/eu/venue` page,
-including information about getting in and around Budapest.
+including more images, accommodation, and travel details.
 
 Early Bird Ticket Sales
 -----------------------
