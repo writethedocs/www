@@ -1,13 +1,14 @@
-Announcing EU Venue & Early Bird Tickets
-========================================
+Announcing EU Venue, Early Bird Tickets, Initial Speakers and Sponsors
+======================================================================
 
 We're excited to share the latest developments on Write the Docs EU.
 We will be hosting the conference at the fantastic headquarters of `Prezi`_.
 They have been kind enough to let us use their event space for our inaugural EU event.
 
 Along with that,
-we are announcing ticket prices,
-and the availability of Early Bird tickets.
+we are announcing early bird tickets,
+our first speakers,
+and our first sponsors.
 
 Venue: Prezi's House of Ideas
 -----------------------------
@@ -38,8 +39,33 @@ There are only a limited number of Early Bird tickets,
 so if you are already planning to come,
 `buy them`_ now!
 
+Our First Two Speakers
+----------------------
+
+We are proud to announce our first two speakers will be *Jannis Leidel* and *Kristof Van Tomme*.
+
+Jannis Leidel
+~~~~~~~~~~~~~
+
+`Jannis`_ works at Mozilla on the `Mozilla Developer Network`_.
+MDN hosts core documentation for the web,
+including canonical references for HTML, CSS, and Javascript.
+He is also a core contributor to the Django web framework,
+as well as many other important Open Source projects.
+
+.. _Mozilla Developer Network: https://developer.mozilla.org/en-US/
+.. _Jannis: https://twitter.com/jezdez
+
+Kristof Van Tomme
+~~~~~~~~~~~~~~~~~
+
+`Kristof`_ is one of the two founders of Pronovix, a Belgian Hungarian Drupal company. He has also created a company, `walkthrough`_, which strives to make creating documentation approachable through walkthrough videos. Recently he has also started an effort to build the tools to work with DITA in Drupal, which might create a new role for Drupal as an enabler of open source modular documentation for Open Source projects.
+
+.. _walkthrough: http://walkthrough.it/
+.. _Kristof: https://twitter.com/kvantomme
+
 Talk Proposals Due Soon
------------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 If you are hoping to speak at Write the Docs EU this year,
 time is running out.
@@ -47,6 +73,17 @@ The Call for Proposals ends on **January 31**,
 so you have less than two weeks to submit a talk.
 
 Go ahead and `submit a talk now`_!
+
+Initial Sponsors
+----------------
+
+We are able to keep costs for the conference so low thanks to our fantastic sponsors.
+We are happy to announce our first three sponsors this year:
+
+
+ |Rackspace|_
+ |GitHub|_
+ |Mozilla|_
 
 Conclusion
 ----------
@@ -61,4 +98,13 @@ As always,
 .. _let us know: mailto:writethedocs@gmail.com
 
 
+.. |Rackspace| image:: /img/sponsors/rackspace.png
+						:width: 30%
+.. _Rackspace: http://www.rackspace.com/
+.. |GitHub| image:: /img/sponsors/github_logo.png
+						:width: 30%
+.. _GitHub: https://github.com/
+.. |Mozilla| image:: /img/sponsors/mozilla.png
+						:width: 30%
+.. _Mozilla: http://www.mozilla.org/en-US/
 
