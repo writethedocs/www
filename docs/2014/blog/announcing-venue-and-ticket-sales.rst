@@ -1,19 +1,19 @@
 Announcing EU Venue, Early Bird Tickets, Initial Speakers and Sponsors
 ======================================================================
 
-We're excited to share the latest developments on Write the Docs EU.
-We will be hosting the conference at the fantastic headquarters of `Prezi`_.
-They have been kind enough to let us use their event space for our inaugural EU event.
+We are excited to share the latest developments on Write the Docs EU.
+Prezi is kindly letting us use their event space for our inaugural EU event, and
+we are hosting the conference at the fantastic `Prezi`_ headquarters.
 
 Along with that,
-we are announcing early bird tickets,
+we're announcing early bird tickets,
 our first speakers,
 and our first sponsors.
 
 Venue: Prezi's House of Ideas
 -----------------------------
 
-Prezi's aptly named Budapest headquarters, 
+Prezi's Budapest headquarters, 
 the `House of Ideas <http://retaildesignblog.net/2013/05/13/prezi-office-by-minusplus-budapest-hungary/>`_,
 serves as our 2014 venue. 
 The House of Ideas boasts unique architecture, 
@@ -32,17 +32,17 @@ Early Bird Ticket Sales
 
 We try hard to keep the conference affordable,
 so that everyone in the documentation world can afford to come.
-With that, we are really proud to announce that tickets this year will be **£55**.
+With that, we are proud to announce that tickets this year are **£55**.
 
 We are also releasing a small number of Early Bird tickets for only **£39**.
-There are only a limited number of Early Bird tickets,
-so if you are already planning to come,
-`buy them`_ now!
+There are a limited number of Early Bird tickets. 
+If you are planning to attend, 
+`buy tickets`_ now!
 
 Our First Two Speakers
 ----------------------
 
-We are proud to announce our first two speakers will be *Jannis Leidel* and *Kristof Van Tomme*.
+We are proud to announce our first two speakers, *Jannis Leidel* and *Kristof Van Tomme*.
 
 Jannis Leidel
 ~~~~~~~~~~~~~
@@ -70,14 +70,14 @@ Talk Proposals Due Soon
 If you are hoping to speak at Write the Docs EU this year,
 time is running out.
 The Call for Proposals ends on **January 31**,
-so you have less than two weeks to submit a talk.
+so there are less than two weeks to submit a talk.
 
 Go ahead and `submit a talk now`_!
 
 Initial Sponsors
 ----------------
 
-We are able to keep costs for the conference so low thanks to our fantastic sponsors.
+We can keep costs for the conference low thanks to our excellent sponsors.
 We are happy to announce our first three sponsors this year:
 
 
