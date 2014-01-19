@@ -6,7 +6,7 @@ Prezi is kindly letting us use their event space for our inaugural EU event, and
 we are hosting the conference at the fantastic `Prezi`_ headquarters.
 
 Along with that,
-we're announcing early bird tickets,
+we are announcing early bird tickets,
 our first speakers,
 and our first sponsors.
 
@@ -77,7 +77,7 @@ Go ahead and `submit a talk now`_!
 Initial Sponsors
 ----------------
 
-We can keep costs for the conference low thanks to our excellent sponsors.
+We can keep conference costs low thanks to our excellent sponsors.
 We are happy to announce our first three sponsors this year:
 
 
