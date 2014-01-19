@@ -33,7 +33,10 @@ var/docs:
 
 
 documentation: docs/_static var/docs
-	make --directory=docs clean html doctest
+	make --directory=docs html #clean html doctest
+
+html: docs/_static var/docs
+	make --directory=docs html #clean html doctest
 
 
 test:
