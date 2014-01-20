@@ -10,7 +10,7 @@ Prezi's House of Ideas
 | Hungary
 | `Google Map <http://goo.gl/maps/YIX8e>`_
 
-Prezi's aptly named Budapest headquarters, 
+Prezi's Budapest headquarters, 
 the `House of Ideas <http://retaildesignblog.net/2013/05/13/prezi-office-by-minusplus-budapest-hungary/>`_,
 serves as our 2014 conference venue. 
 The House of Ideas boasts unique architecture, 
