@@ -14,7 +14,7 @@ virtualenv:
 
 
 dependencies:
-	if [ ! -x $(SPHINX_BUILD) ]; then $(PIP) install -r $(PIP_REQUIREMENTS) --use-mirrors; fi
+	if [ ! -x $(SPHINX_BUILD) ]; then $(PIP) install -r $(PIP_REQUIREMENTS) --allow-external argparse; fi
 
 
 develop: virtualenv dependencies
