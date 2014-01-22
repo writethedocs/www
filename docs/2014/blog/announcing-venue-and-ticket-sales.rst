@@ -91,6 +91,10 @@ We are happy to announce our first three sponsors this year:
  |GitHub|_
  |Mozilla|_
 
+ We are still looking for more sponsors.
+ If you or your company is interested,
+ please `let us know`_.
+
 Conclusion
 ----------
 
