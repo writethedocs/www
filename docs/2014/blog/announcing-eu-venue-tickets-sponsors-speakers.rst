@@ -2,8 +2,7 @@ Announcing EU Venue, Early Bird Tickets, Initial Speakers and Sponsors
 ======================================================================
 
 We are excited to share the latest developments on Write the Docs EU.
-Prezi_ is kindly letting us use their event space for our inaugural EU event, and
-we are hosting the conference at the fantastic Prezi headquarters.
+Prezi_ is kindly letting us use their event space for our inaugural EU event.
 
 Along with that,
 we are announcing early bird tickets,
