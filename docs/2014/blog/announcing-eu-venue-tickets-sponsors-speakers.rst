@@ -101,7 +101,8 @@ As always,
 `let us know`_ if you have any questions or concerns.
 
 .. _Prezi: http://www.prezi.com
-.. _buy them: https://tito.io/writethedocs/write-the-docs-eu>
+.. _buy them: https://tito.io/writethedocs/write-the-docs-eu
+.. _buy tickets: https://tito.io/writethedocs/write-the-docs-eu
 .. _submit a talk now: http://conf.writethedocs.org/eu/2014/#cfp
 .. _let us know: mailto:writethedocs@gmail.com
 
