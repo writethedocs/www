@@ -59,7 +59,13 @@ as well as many other important Open Source projects.
 Kristof Van Tomme
 ~~~~~~~~~~~~~~~~~
 
-`Kristof`_ is one of the two founders of Pronovix, a Belgian Hungarian Drupal company. He has also created a company, `walkthrough`_, which strives to make creating documentation approachable through walkthrough videos. Recently he has also started an effort to build the tools to work with DITA in Drupal, which might create a new role for Drupal as an enabler of open source modular documentation for Open Source projects.
+`Kristof`_ is one of the two founders of Pronovix, a Belgian Hungarian
+Drupal company. At Pronovix he leads the `walkthrough`_ project, an open
+source tool that turns Selenium tests into Walkthroughs: living
+documentation that runs on top of your site and that tells you when it
+gets broken. Previously he has also started an effort to build the
+tools to work with DITA in Drupal, which might create a new role for
+Drupal as an enabler of open source modular documentation.
 
 .. _walkthrough: http://walkthrough.it/
 .. _Kristof: https://twitter.com/kvantomme
