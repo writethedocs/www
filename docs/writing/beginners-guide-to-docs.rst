@@ -50,8 +50,8 @@ you will start to empathize with your users.
 If only I had written down why I had done this.
 Life would be so much simpler.
 Documentation allows you to transfer the *why* behind code.
-Much in the same way code comments explain the why,
-and not the how,
+Much in the same way code comments explain the *why*,
+and not the *how*,
 documentation serves the same purpose.
 
 .. sidebar::  Sidebar on open source
