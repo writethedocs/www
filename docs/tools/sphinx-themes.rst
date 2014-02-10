@@ -16,6 +16,7 @@ and provides a menu of all the pages on the left-hand side.
 * https://github.com/snide/sphinx_rtd_theme
 
 .. image:: http://i.imgur.com/7oLntvR.png
+   :width: 80%
 
 Alabaster
 ---------
@@ -38,4 +39,5 @@ or just wants a simple good looking theme.
 * https://github.com/ryan-roemer/sphinx-bootstrap-theme
 
 .. image:: http://loose-bits.com/media/img/2013/09/08/sbt.png
+   :width: 80%
 
