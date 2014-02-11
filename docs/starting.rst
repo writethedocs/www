@@ -22,7 +22,7 @@ The chance of someone discovering and using your awesome code goes up
 greatly with good documentation.
 
 Start with the :doc:`writing/beginners-guide-to-docs`,
-and that should give you some food for thought to get started.
+which provides practical advice on getting started.
 
 
 Developers at a company
