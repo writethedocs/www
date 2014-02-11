@@ -47,11 +47,11 @@ We can recomend a couple places though.
 K9 residence
 ~~~~~~~~~~~~
 
-This modern residence is located in the heart of Budapest, and is just a two-minute walk from our venue and Deak Ferenc Ter Underground Station. The air-conditioned apartments offer free Wi-Fi, as well as a kitchen or kitchenette with a dining area, a bathroom, and cable TV.
+This modern residence is located in the heart of Budapest, and is a 10 minute walk from our venue and Deak Ferenc Ter Underground Station. The air-conditioned apartments offer free Wi-Fi, as well as a kitchen or kitchenette with a dining area, a bathroom, and cable TV.
 
-.. Need to confirm the discount
-   If you apply by e-mail and use the promotional code: 'Prezi', you can get a 25% discount from the normal price, working out at just 35 EUR a night.
+If you apply by e-mail and use the promotional code: 'Write the Docs', you can get a 25% discount from the normal price, working out at just 35 EUR a night.
 
+k9residence@gmail.com
 http://www.k9residence.com/webpage/home
 
 A Former Four-Star Hotel that's now a Wombat's City Hostel.
