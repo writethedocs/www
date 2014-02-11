@@ -2,7 +2,7 @@ Alternatives and related projects
 =================================
 
 This document presents other projects that provide similar or complementary
-functionalities. It focuses on differences with WriteTheDocs.
+functionalities.
 
 .. _interesting-approaches:
 
@@ -23,17 +23,3 @@ Interesting approaches to documentation
 
   *  https://github.com/PharkMillups/beautiful-docs
 
-Docness
--------
-
-`docness`_ is about "what makes a documentation". Vision is really similar to
-WriteTheDocs. Main author is currently working on a merge from docness to
-WriteTheDocs.
-
-
-References
-----------
-
-.. target-notes::
-
-.. _`docness`: http://docness.readthedocs.org/
