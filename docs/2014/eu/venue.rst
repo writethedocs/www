@@ -51,8 +51,8 @@ This modern residence is located in the heart of Budapest, and is a 10 minute wa
 
 If you apply by e-mail and use the promotional code: 'Write the Docs', you can get a 25% discount from the normal price, working out at just 35 EUR a night.
 
-k9residence@gmail.com
-http://www.k9residence.com/webpage/home
+| k9residence@gmail.com
+| http://www.k9residence.com/webpage/home
 
 A Former Four-Star Hotel that's now a Wombat's City Hostel.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
