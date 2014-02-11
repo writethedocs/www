@@ -4,7 +4,7 @@ Write the Docs EU 2014 Presentations
 .. contents:: Presentations
    :local:
 
-.. note:: If these talks look interesting, you should `get a ticket`_
+.. note:: If these talks look interesting, you should `get a ticket`_.
 
 .. _get a ticket: http://eutickets.writethedocs.org/
 
@@ -173,12 +173,23 @@ How to write multi-language documentation? What tools can you use? What mistakes
 
 This talk is based on the experiences I gathered while working on several multi-language documentation projects using Sphinx. I will talk about how Sphinx internationalization support works, which tools and services I use and how to organize the translation workflow. Finally I will have a look at what the future of internationalization in Sphinx might bring.
 
-Jannis Leidel - MDN, Docs, and The World
------------------------------------------
+Jannis Leidel - Search and find. How we made MDN discoverable
+-------------------------------------------------------------
+
+The Mozilla Developer Network (MDN) is a wiki on which volunteers and Mozilla staff writers document the open Web, Mozilla technologies, Firefox OS, and other developer topics. In 2013 we relaunched it with a new look and feel as well as many changes to the underlying technology. In this talk I look back at how we took content discoverability into account and how we’re continuing to improve the site in 2014.
+
+Tom Christie - Designing MkDocs
+-------------------------------
+
+MkDocs is a tool for creating documentation from Markdown, that's focused on simplicity and ease-of-use.
+This talk will explore the background, motivation and design of this new documentation builder.
+We'll also look at how to write, theme and publish your documentation with MkDocs, and compare it against some other existing tools.
 
 Kristof Van Tomme - Testing Documentation: a Necessity in a Continuous Integration Environment
 ----------------------------------------------------------------------------------------------
 
-Tom Christie - Mkdocs: A Documentation Project for Markdown
--------------------------------------------------------------
+
+David Hooker - Prezi and the Art of Presentation
+------------------------------------------------
+
 
