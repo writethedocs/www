@@ -161,6 +161,7 @@ Oliver Reichenstein famously quipped that “The Web is 95% Typography.” Most 
 This talk isn’t about art, or science, but technique. Typesetting has a rich history, dating back to Mr. Gutenberg and his printing press. Although digital type is fairly mature by now, type on the web is still very much in its infancy. We are only now gaining typographical controls that the publishing industry has taken for granted these last 20 years. I'll be taking you on tour of the current state of type on the web: what we can do today, and what we will be able to do tomorrow.
 
 Some highlights:
+
 * A reintroduction to font-face and the nitty-gritty details of how it works
 * Advanced typography with CSS3 font-features (http://caniuse.com/#feat=font-feature)
 * Icon fonts, and semantic use thereof
