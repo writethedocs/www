@@ -1,7 +1,7 @@
 Write the Docs EU 2014 Presentations
 ====================================
 
-.. contents:: Presentations
+.. contents:: 
    :local:
 
 .. note:: If these talks look interesting, you should `get a ticket`_.
@@ -25,11 +25,6 @@ and more than 15 books concerning various IT topics (all in Polish).
 Using the first versions of the text as the complementary stuff for 
 commercial trainings and applying the feedback allows me to provide 
 the textbook that can be appreciated in real life scenarios.
-
-I'd like to share more than 10 years of experience in writing about technical subjects.
-
-The list of my books is available at: http://git.gajdaw.pl/menu/moje-ksiazki.html
-I also have references form international corporations about trainings that I organized for them.
 
 Thomas Parisot - README Driven Development
 ------------------------------------------
