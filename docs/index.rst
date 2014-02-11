@@ -23,6 +23,7 @@ Contents
 
    starting
    writing/beginners-guide-to-docs
+   writing/mindshare
    tools/index
    presentations/index
    about/index
