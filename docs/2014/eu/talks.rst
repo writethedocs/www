@@ -120,17 +120,8 @@ I'll share:
 Kelly O'Brien - Engage or Die: Four Techniques for Writing Indispensible Docs
 -----------------------------------------------------------------------------
 
-No matter how detailed, how thorough, or how well organized you make your documentation, if it fails to engage your readers, they won’t stick around long enough to hear what you’re telling them. By borrowing time-honored techniques from professional nonfiction writers, you can make sure that your readers connect to your writing, right off the bat. In this talk, I will introduce four writing techniques, and show you how to use them to build docs that your readers will relate to and rely on. 
+No matter how detailed, how thorough, or how well organized you make your documentation, if it fails to engage your readers, they won’t stick around long enough to hear what you’re telling them. By borrowing time-honored techniques from professional nonfiction writers, you can make sure that your readers connect to your writing, right off the bat. In this talk, I will introduce four writing techniques, and show you how to use them to build docs that your readers will relate to and rely on.  
 
-Spanning both the conceptual and the concrete, these techniques will carry you from the blank page through to your final copyedit. 
-
-Put Your Readers First – One of the earliest lessons that any nonfiction writer learns is how to get into the reader’s head. Think about not only the tasks that your readers need to accomplish, but also the circumstances under which they’re performing those tasks. Demonstrating that you know where your readers are coming from is the first step to gaining their trust. 
-
-Mind Your Tone – Your voice is one of your most powerful tools for engaging your readers—make sure you’re using it wisely. Do your readers seek assurance from an authoritative expert or would they be more comfortable with an easy, conversational tone? Adjusting your writing style to suit your audience can deliver a lot of value for minimal effort. One sympathetic word in the right place, and you’ll be your reader’s best friend. 
-
-Lead with the Problem – When your readers reach for your documentation, they’ve already exhausted their troubleshooting options as well as some (most? all?) of their patience. When you’re organizing your docs, break down your content according to the problems it will solve. That way, your readers can easily find what they’re looking for, and they know that *you* know what’s important to them. 
-
-Use Powerful Pointers – Whether you’re writing a quick feature guide or a full-on user manual, you never want to risk confusing your readers. Keep them on the same page as you by using ample pointer sentences—key transitional statements that provide an infrastructure by which your readers can orient themselves. Pointer sentences have the added benefit of making your documentation friendly to readers of varying skill levels.
 
 Mikey Ariel - Your Personal Tech-Writing Agile Manifesto (or: Scrum is not a 4-character word)
 ----------------------------------------------------------------------------------------------
@@ -178,12 +169,23 @@ Tom Christie - Designing MkDocs
 -------------------------------
 
 MkDocs is a tool for creating documentation from Markdown, that's focused on simplicity and ease-of-use.
+
 This talk will explore the background, motivation and design of this new documentation builder.
 We'll also look at how to write, theme and publish your documentation with MkDocs, and compare it against some other existing tools.
 
-Kristof Van Tomme - Testing Documentation: a Necessity in a Continuous Integration Environment
-----------------------------------------------------------------------------------------------
+Kristof Van Tomme - Keeping trust: Testing documentation as part of a continuous integration process
+----------------------------------------------------------------------------------------------------
 
+You could argue that outdated documentation is even worse than no
+documentation at all. It creates frustration and destroys the trust of
+your customers. But how do you maintain your documentation in a
+project with a fast release cycle?
+
+In this talk I will explore strategies for keeping different types of
+documentation up to date and discuss a few tools (including WalkHub,
+an open source project we are working on) that can be used to
+automatically test or even update documentation as part of your
+continuous integration process.
 
 David Hooker - Prezi and the Art of Presentation
 ------------------------------------------------
