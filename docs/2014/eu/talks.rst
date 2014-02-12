@@ -96,11 +96,11 @@ One of the biggest challenges in crafting effective documentation is presenting 
 Robert Lehmann - Self-Directed Learning Material
 ------------------------------------------------
 
-The domain of Open Educational Resources is seeing a huge uplift in the past months.  How OER is distributed, licensed and used is well described — but how about its creation?
+The domain of Open Educational Resources has seen a huge uplift in the past months. How OER is distributed, licensed and used is well described — but how about its creation?
 
-The OpenTechSchool has been giving self-directed workshops under the supervision of volunteer coaches for almost two years now.  In its course it created some well-received and well-acclaimed learning materials, among the ""Python for beginners.""  Among its core values is self-direction, hands-on learning, and internationalization.  This talk will describe how such material come into place, improved and has been used in a community initiative.
+The OpenTechSchool has been giving self-directed workshops under the supervision of volunteer coaches for almost two years now. In its course it created some well-received and well-acclaimed learning material, including "Python for beginners." Among its core values is self-direction, hands-on learning, and internationalization. This talk will describe how the material came into place, improved over time, and has been successfully utilized in a community initiative.
 
-The speaker has been involved in the conception and maintenance of the ""Python for beginners"" material and is an active OpenTechSchool coach and organizer.
+The speaker has been involved in the conception and maintenance of the "Python for beginners" material and is an active OpenTechSchool coach and organizer.
 
 Christine Burwinkle - Pairing with designers to create a seamless user experience
 ---------------------------------------------------------------------------------
