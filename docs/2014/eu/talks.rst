@@ -45,23 +45,8 @@ When Opera switched to a Chromium code base (which included most of its extensio
 Elizabeth Urello - Blogging as Non-Traditional Support Documentation
 --------------------------------------------------------------------
 
-I am a Happiness Engineer (support staff) with Automattic, makers of WordPress.com, and I spend a lot of time working on our support documentation. I also write for our blogs, the `WordPress.com News Blog`_ and `The Daily Post`_.
+Starting an educational, interactive blog about your product is an easy and immediate way to open a new, more effective conversation with your user base. Through blogging, you can explore what sort of help works best for your users, and you can apply that knowledge to improve your traditional support documentation as well. I'll discuss how you can use blogging to:  build your users' overall knowledge in a gradual and fun way; transform documentation into conversation; and create an ongoing relationship with your users that's based around creativity rather than troubleshooting.
 
-.. _WordPress.com News Blog: http://en.blog.wordpress.com
-.. _The Daily Post: http://dailypost.wordpress.com
-
-The Daily Post is a blog aimed at increasing our users' engagement with WordPress.com. Throughout the week, we highlight and explore various features. We also encourage participation and interaction by hosting publishing challenges. 
-
-A sample of users involved in a recent “Zero to Hero” blogging challenge that ran on The Daily Post through the month of January showed that those users posted an average of 9.6 times per blog in the past month, compared to the average 0.2 times of a random sample of users. This means that consistent blogging by staff helped those users publish 48 times as often as a control group. For a company working to democratize publishing, that's a huge impact!
-
-Here are a few of the reasons why blog posts can be superior to traditional support documentation: 
-
-* Unlike support documentation, a reader can follow a blog so that they regularly receive and read articles on different aspects of using the software. This builds their overall knowledge in a gradual and fun way. 
-* Blog posts have a comment section for reader feedback and questions, which transforms documentation into conversation. 
-* Blog posts are written by an individual author that regular readers of the blog will come to know. This creates an ongoing relationship based around creativity rather than troubleshooting. 
-* People in various roles across a company will likely find it easier and more appealing to contribute helpful, support-like blog posts with a personal voice than to do the same with support documentation. Many people are familiar with what makes for a good blog post; the same is not true for writing documentation. 
-
-Many organizations have plans to overhaul existing dry or technical support documentation with more images, a more conversational tone, etc., but it can be overwhelming to begin. Starting an educational,  interactive blog about your product is an easy and immediate way to open a new, more effective conversation with your user base. You’ll be able to experiment with what works best for your users through blogging, and you can then apply that knowledge to improving your traditional support documentation as well.
 
 Sebastien Goasguen - Going from Publican to Read The Docs
 ---------------------------------------------------------
@@ -131,13 +116,16 @@ Mikey Ariel - Your Personal Tech-Writing Agile Manifesto (or: Scrum is not a 4-c
 
 1. marked by ready ability to move with quick easy grace <an agile dancer>
 2. having a quick resourceful and adaptable character <an agile mind>
+
 (Merriam-Webster dictionary)
 
-When the Agile Manifesto was first presented to the geeksphere, many thought it was the hottest thing since striped RAID. Since then, agile software development has morphed, evolved, branched out, and yes - been abused. Some companies have revolutionized their productivity, while others simply replaced the term ""specifications"" with the term ""ready documents"" and continued to *think* waterfall while boasting a Kanban board.
+When the Agile Manifesto was first presented to the geeksphere, many thought it was the hottest thing since striped RAID. Since then, agile software development has morphed, evolved, branched out, and yes - been abused. Some companies have revolutionized their productivity, while others simply renamed “specifications” to ”ready documents” and continued to think waterfall while boasting a Kanban board.
 
-We seem to have gotten so caught up in semantics and bureaucracy, we've forgotten about the true meaning of the word ""agile"". Nowadays, employees and companies who have been burned by these twisted agile implementations have all but written off agile methodologies as ""empty buzz words"" and shudder at the mere thought of a sprint.
+We seem to have gotten so caught up in semantics and bureaucracy that we’ve forgotten about the true meaning of the word “agile”. Nowadays, employees and companies who have been burned by these twisted agile implementations have all but written off agile methodologies as ”empty buzz words” and shudder at the mere thought of a sprint. And in any case, agile methodologies are only for developers, right? Maybe not!
 
-So what does make the agile methodologies work, and how can I, as a free-thinking, self-managing, maybe even team-leading technical writer, make them work for me, even if I work at a company that doesn't sing the scrum song and couldn't keep its points-poker face straight to safe its life? How can I build my own personal, portable Agile Manifesto, that I can apply to any working environment at any company? 
+So what does make agile methodologies work, and how can I, a free-thinking, self-managing, maybe even team-leading technical writer, make them work for me, even if I work at a company that doesn’t sing the scrum song and couldn’t keep its points-poker face straight? How can I build my own personal, portable Agile Manifesto, that I can apply to any working environment at any company?
+
+* Mikey Ariel is a senior technical writer at Red Hat, with writing experience in waterfall and agile environments. As luck (or misfortune) would have it, she also trained and worked as a scrum master long enough to form a semi-educated philosophy about life, the universe, and stand-up meetings.
 
 Idan Gazit - Advanced Web Typography
 ------------------------------------
