@@ -125,7 +125,7 @@ We seem to have gotten so caught up in semantics and bureaucracy that we’ve fo
 
 So what does make agile methodologies work, and how can I, a free-thinking, self-managing, maybe even team-leading technical writer, make them work for me, even if I work at a company that doesn’t sing the scrum song and couldn’t keep its points-poker face straight? How can I build my own personal, portable Agile Manifesto, that I can apply to any working environment at any company?
 
-* Mikey Ariel is a senior technical writer at Red Hat, with writing experience in waterfall and agile environments. As luck (or misfortune) would have it, she also trained and worked as a scrum master long enough to form a semi-educated philosophy about life, the universe, and stand-up meetings.
+\* Mikey Ariel is a senior technical writer at Red Hat, with writing experience in waterfall and agile environments. As luck (or misfortune) would have it, she also trained and worked as a scrum master long enough to form a semi-educated philosophy about life, the universe, and stand-up meetings.
 
 Idan Gazit - Advanced Web Typography
 ------------------------------------
