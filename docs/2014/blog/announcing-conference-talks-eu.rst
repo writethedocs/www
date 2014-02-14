@@ -25,16 +25,19 @@ and talk about the things we learned that day.
 The party venue will be near the conference venue,
 so you can head over after dinner on Monday night.
 
-Buy Tickets Now
----------------
+Announcing Student and Corporate tickets
+----------------------------------------
 
-We only have a limited number of tickets for the event.
-If you are considering coming,
-you should `buy your tickets`_ now.
+We price the conference really inexpensively so that we make sure everyone is able to come.
+This year we are adding a bit more flexibility to the pricing.
+We know students have very little money,
+so we are offering even cheaper tickets to them to attend the event.
 
-There are only a few early bird tickets left,
-so get them while you can.
-
+To cover the cost of the student tickets,
+we are asking companies that are buying tickets for their employees to pay a little more.
+This is *optional*,
+but if your company if buying your ticket,
+please consider paying a bit more to help us provide cheaper tickets to students.
 
 .. _EU conference: http://conf.writethedocs.org/eu/2014/
 .. _full list of talks: http://docs.writethedocs.org/2014/eu/talks/
