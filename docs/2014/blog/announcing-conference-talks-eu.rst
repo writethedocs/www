@@ -44,7 +44,7 @@ please consider paying a bit more to help us provide cheaper tickets to students
 
 Go ahead and `buy your tickets`_ now.
 
-That's all for this announcement, but we have a couple more fun things in the works for the conference. We are counting down the days, and look forward to seeing everyone in Budapest.
+That's all for this announcement, but we have a couple more fun things in the works for the conference. We are counting down the days, and look forward to seeing everyone in Budapest!
 
 
 .. _EU conference: http://conf.writethedocs.org/eu/2014/
