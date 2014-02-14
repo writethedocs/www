@@ -31,12 +31,12 @@ Announcing Student and Corporate tickets
 We price the conference really inexpensively so that we make sure everyone is able to come.
 This year we are adding a bit more flexibility to the pricing.
 We know students have very little money,
-so we are offering even cheaper tickets to them to attend the event.
+so we are offering even cheaper tickets to them.
 
 To cover the cost of the student tickets,
 we are asking companies that are buying tickets for their employees to pay a little more.
 This is *optional*,
-but if your company if buying your ticket,
+but if your company is buying your ticket,
 please consider paying a bit more to help us provide cheaper tickets to students.
 
 .. _EU conference: http://conf.writethedocs.org/eu/2014/
