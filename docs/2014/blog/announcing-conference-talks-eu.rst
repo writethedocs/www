@@ -10,9 +10,10 @@ Today we are proud to announce the talks and party for Write the Docs EU.
 Talks
 -----
 
-Presentations are the main event of the conference. 
-We are really excited about the quality and scope of the presentations. 
-There will be a little bit for everyone, and we believe it will introduce you to some new and useful concepts that you didn't know about before. 
+Talks are the main event of the conference. 
+We are really excited about the quality and scope of the talks this year. 
+There will be a little bit for everyone, 
+and we believe it will introduce you to some new and useful concepts that you didn't know about before. 
 
 The `full list of talks`_ is available.
 If you haven't already registered, `what are you waiting for`_?
@@ -48,6 +49,7 @@ That's all for this announcement, but we have a couple more fun things in the wo
 
 
 .. _EU conference: http://conf.writethedocs.org/eu/2014/
+.. _Talks: http://docs.writethedocs.org/2014/eu/talks/
 .. _full list of talks: http://docs.writethedocs.org/2014/eu/talks/
 .. _what are you waiting for: http://eutickets.writethedocs.org/
 .. _buy your tickets: http://eutickets.writethedocs.org/
