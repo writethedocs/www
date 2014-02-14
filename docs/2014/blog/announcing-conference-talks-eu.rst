@@ -1,4 +1,4 @@
-Announcing Conference Talks and Party for Write the Docs EU
+Announcing Conference Talks and a Party for Write the Docs EU
 ===========================================================
 
 Things are coming along nicely for our `EU conference`_.
