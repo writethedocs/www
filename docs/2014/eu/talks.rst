@@ -48,11 +48,13 @@ Elizabeth Urello - Blogging as Non-Traditional Support Documentation
 Starting an educational, interactive blog about your product is an easy and immediate way to open a new, more effective conversation with your user base. Through blogging, you can explore what sort of help works best for your users, and you can apply that knowledge to improve your traditional support documentation as well. I'll discuss how you can use blogging to:  build your users' overall knowledge in a gradual and fun way; transform documentation into conversation; and create an ongoing relationship with your users that's based around creativity rather than troubleshooting.
 
 
-Sebastien Goasguen - Going from Publican to Read The Docs
+Sebastien Goasguen - Going from Publican to Read the Docs
 ---------------------------------------------------------
 
 Picking a documentation format can be a tricky task, many requirements come into play such as ease of use, output format, localization support, experience of documentation writers and so on. In Apache CloudStack we chose DocBook and Publican to write our documentation, over a year into the project we are facing several issues such build problems, difficulty of maintaining and fixing builds, lack of contribution from the community. Something had to be done.
+
 In this talk we will show how we are migrating all our documentation from publican/docbook to restructured text format and Readthedocs.org for build and hosting. The simple markdown like format is a much lower barrier of entry for doc writers and the readthedocs platform provides a build  system, ability to manage releases, localization as well as a very handy github support.
+
 This talk will be a tale of switching documentation format for a major open source project, pros and cons and tips along the way.
 
 Fintan Bolton - The community wrote my docs!
