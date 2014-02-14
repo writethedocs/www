@@ -23,8 +23,7 @@ This will give you an opportunity to get to know your fellow attendees a bit bet
 and talk about the things we learned that day.
 
 The party venue will be near the conference venue,
-so you will be on your own for dinner,
-but have an event to attend that evening.
+so you can head over after dinner on Monday night.
 
 Buy Tickets Now
 ---------------
