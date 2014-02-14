@@ -1,7 +1,7 @@
 Announcing Conference Talks and Party for Write the Docs EU
 ===========================================================
 
-Things are coming along nicely for our EU conference.
+Things are coming along nicely for our `EU conference`_.
 The conference is 45 days away,
 and we are putting together the final touches.
 
@@ -37,6 +37,7 @@ There are only a few early bird tickets left,
 so get them while you can.
 
 
+.. _EU conference: http://conf.writethedocs.org/eu/2014/
 .. _full list of talks: http://docs.writethedocs.org/2014/eu/talks/
 .. _what are you waiting for: http://eutickets.writethedocs.org/
 .. _buy your tickets: http://eutickets.writethedocs.org/
