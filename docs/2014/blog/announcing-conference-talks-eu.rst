@@ -28,8 +28,8 @@ This will give you an opportunity to get to know your fellow attendees a bit bet
 The party venue is near the conference venue,
 so you can head over after dinner.
 
-Announcing Student and Corporate tickets
-----------------------------------------
+Student and Corporate Tickets
+-----------------------------
 
 We price the conference inexpensively so everybody is able to attend.
 This year we are adding a bit more flexibility to the pricing.
