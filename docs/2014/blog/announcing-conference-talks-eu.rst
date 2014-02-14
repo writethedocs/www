@@ -22,7 +22,7 @@ We will be having a party on Monday night at the conference.
 This will give you an opportunity to get to know your fellow attendees a bit better,
 and talk about the things we learned that day.
 
-The party venue will be near the conference venue,
+The party venue is near the conference venue,
 so you can head over after dinner on Monday night.
 
 Announcing Student and Corporate tickets
