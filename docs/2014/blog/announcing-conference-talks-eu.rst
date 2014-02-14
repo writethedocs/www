@@ -10,7 +10,9 @@ Today we are proud to announce the talks and party for Write the Docs EU.
 Talks
 -----
 
-Presentations are the main event of the conference. We are really excited about the quality and scope of the presentations. We think there will be a little bit for everyone, and hopefully it will introduce you to some new and useful concepts that you didn't know about before. 
+Presentations are the main event of the conference. 
+We are really excited about the quality and scope of the presentations. 
+There will be a little bit for everyone, and we believe it will introduce you to some new and useful concepts that you didn't know about before. 
 
 The `full list of talks`_ is available.
 If you haven't already registered, `what are you waiting for`_?
@@ -18,17 +20,18 @@ If you haven't already registered, `what are you waiting for`_?
 Party
 -----
 
-We will be having a party on Monday night at the conference.
-This will give you an opportunity to get to know your fellow attendees a bit better,
-and talk about the things we learned that day.
+One of the biggest values of attending a conference is being in a room with so many like-minded people.
+With this in mind,
+we will be having a party on Monday night after the conference.
+This will give you an opportunity to get to know your fellow attendees a bit better.
 
 The party venue is near the conference venue,
-so you can head over after dinner on Monday night.
+so you can head over after dinner.
 
 Announcing Student and Corporate tickets
 ----------------------------------------
 
-We price the conference really inexpensively so that we make sure everyone is able to come.
+We price the conference inexpensively so everybody is able to attend.
 This year we are adding a bit more flexibility to the pricing.
 We know students have very little money,
 so we are offering even cheaper tickets to them.
