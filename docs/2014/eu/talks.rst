@@ -45,7 +45,9 @@ When Opera switched to a Chromium code base (which included most of its extensio
 Elizabeth Urello - Blogging as Non-Traditional Support Documentation
 --------------------------------------------------------------------
 
-Starting an educational, interactive blog about your product is an easy and immediate way to open a new, more effective conversation with your user base. Through blogging, you can explore what sort of help works best for your users, and you can apply that knowledge to improve your traditional support documentation as well. I'll discuss how you can use blogging to:  build your users' overall knowledge in a gradual and fun way; transform documentation into conversation; and create an ongoing relationship with your users that's based around creativity rather than troubleshooting.
+Starting an educational, interactive blog about your product is an easy and immediate way to open a new, more effective conversation with your user base. Through blogging, you can explore what sort of help works best for your users, and you can apply that knowledge to improve your traditional support documentation as well. 
+
+I'll discuss how you can use blogging to:  build your users' overall knowledge in a gradual and fun way; transform documentation into conversation; and create an ongoing relationship with your users that's based around creativity rather than troubleshooting.
 
 
 Sebastien Goasguen - Going from Publican to Read the Docs
@@ -107,7 +109,9 @@ I'll share:
 Kelly O'Brien - Engage or Die: Four Techniques for Writing Indispensible Docs
 -----------------------------------------------------------------------------
 
-No matter how detailed, how thorough, or how well organized you make your documentation, if it fails to engage your readers, they won’t stick around long enough to hear what you’re telling them. By borrowing time-honored techniques from professional nonfiction writers, you can make sure that your readers connect to your writing, right off the bat. In this talk, I will introduce four writing techniques, and show you how to use them to build docs that your readers will relate to and rely on.  
+No matter how detailed, how thorough, or how well organized you make your documentation, if it fails to engage your readers, they won’t stick around long enough to hear what you’re telling them. By borrowing time-honored techniques from professional nonfiction writers, you can make sure that your readers connect to your writing, right off the bat. 
+
+In this talk, I will introduce four writing techniques, and show you how to use them to build docs that your readers will relate to and rely on.  
 
 
 Mikey Ariel - Your Personal Tech-Writing Agile Manifesto (or: Scrum is not a 4-character word)
