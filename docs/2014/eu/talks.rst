@@ -191,7 +191,12 @@ Emulate the best bloggers and the best posts. I’ll share links and discuss, fr
 You know something about programming that’s worth explaining. Plus, explaining it deepens your understanding as nothing else can. If you don’t know what to write about, riff off the ideas this talk suggests, or get inspired by great blogs. Craft articles of enduring value.
 
 
-David Hooker - Prezi and the Art of Presentation
-------------------------------------------------
+David Hooker - What I have taught developers about writing
+----------------------------------------------------------
 
+And to a lesser extent, what they may have taught me. 
+
+I arrived at Prezi as a technical writer used to dealing with engineers of the construction variety. The only developer I’d ever met previously was my mum. I now work long hours writing material that explains, promotes, evangelizes, and sometimes even influences their work. 
+
+This talk is about the challenges, learning curves, and (most importantly) vaguely amusing anecdotes of my eighteen months living amongst those who code. Or to put it in developer-speak, I include best practices as well as experiences of how I messed up when trying to convince 120 engineers that they needed to place greater value on words, write more often, and that they needed my help doing it. 
 
