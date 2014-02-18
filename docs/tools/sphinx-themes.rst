@@ -36,6 +36,9 @@ It's great for text content where you just want to make the words front and cent
 
 * https://github.com/bitprophet/alabaster
 
+.. image:: /img/paramiko.png
+   :width: 80%
+
 Sphinx Bootstrap Theme
 ----------------------
 
