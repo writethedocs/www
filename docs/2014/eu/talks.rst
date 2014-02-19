@@ -78,9 +78,10 @@ close you can get to that point and what obstacles lie in the way.
 Jessica Rose - Tone in Documentation
 ------------------------------------
 
-While technical writing often allows less room for emotive or engaging writing, recognizing the role tone plays in the development of well crafted and useful documentation allows writers to better use tone to meet specific needs in documentation development and to better recognize and excise aspects which may be distracting from their core message. This talk will explore several real world examples of tone in documentation with the goal of helping writers better focus on selecting appropriate tone for their own projects.
+This talk will explore how to balance appropriate tone selection in documentation with creating clear and useful documentation. Used well, the tone of your documentation can help you communicate the voice of your brand, who your desired audience is, what you hope for users to accomplish and more. Awkwardly applied or overreaching tone use may instead patronize users or turn them off of your product.
+ 
+We'll take a look at real world examples of great tone in documentation and documentation where it misses the mark with the hope that it will leave participants better able to incorporate audience effective tone into their docs.
 
-One of the biggest challenges in crafting effective documentation is presenting clear and useful data that users from a range of skill levels and backgrounds can engage with. By carefully managing tone, writers can help wrap the data in a voice that communicates of a number of additional factors. Tone allows you to introduce the voice of your brand, provides an emotional connection to the documents and your product, to suggest your user expectations and to paint a picture of how inclusive or exclusive you think your community of users should be.
 
 Robert Lehmann - Self-Directed Learning Material
 ------------------------------------------------
