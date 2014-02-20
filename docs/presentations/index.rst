@@ -10,7 +10,7 @@ Theme
 
 We ship a theme that allows your presentation to have the Write the Docs theme. They require a set of fonts that you'll need as well.
 
-* :download:`Keynote Master Slides </_static/presentations/Write_the_Docs_Theme.kth>`
+* :download:`Keynote Master Slides </files/presentations/Write_the_Docs_Theme.kth>`
 * Fonts_
 
 .. _Fonts: https://github.com/writethedocs/docs/tree/master/docs/_themes/kr/static/font
@@ -21,9 +21,9 @@ Beginner Presentations
 ~~~~~~~~~~~~~~~~~~~~~~
 
 * Writing Docs: A beginners guide to writing documentation 
-   * :download:`Keynote </_static/presentations/docs_talk.key>`
-   * :download:`PDF </_static/presentations/docs_talk.pdf>`
-   * :download:`Zipped HTML </_static/presentations/docs_talk_html.zip>`
+   * :download:`Keynote </files/presentations/docs_talk.key>`
+   * :download:`PDF </files/presentations/docs_talk.pdf>`
+   * :download:`Zipped HTML </files/presentations/docs_talk_html.zip>`
 
 Intermediate Presentations
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
