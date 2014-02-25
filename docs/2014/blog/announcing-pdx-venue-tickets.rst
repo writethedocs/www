@@ -52,7 +52,7 @@ time is running out.
 The Call for Proposals ends on **March 1st**,
 which is this weekend.
 If you have something to share with the community,
-`submit a talk now`_
+`submit a talk now`_.
 
 Budapest Conference Schedule
 ----------------------------
@@ -60,8 +60,7 @@ Budapest Conference Schedule
 We have the `official schedule`_ for our EU conference in Budapest.
 If you know folks in Europe that might be interested,
 please pass along the conference to them.
-Tickets are limited,
-but `still available`_
+Tickets are `still available`_.
 
 Conclusion
 ----------
