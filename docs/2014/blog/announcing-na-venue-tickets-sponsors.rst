@@ -1,5 +1,5 @@
-Announcing Portland Venue, Ticket Sales, Initial Sponsors.
-==========================================================
+Announcing Portland Venue, Ticket Sales, and Initial Sponsors
+=============================================================
 
 We are really excited for our Portland conference this year.
 It was a huge success last year,
