@@ -68,6 +68,14 @@ Thanks to our initial sponsors:
 Sponsorship is still available,
 you can email writethedocs@gmail.com for more information.
 
+Budapest Conference Schedule
+----------------------------
+
+We have the `official schedule`_ for our EU conference in Budapest.
+If you know folks in Europe that might be interested,
+please pass along the conference to them.
+Tickets are limited,
+but `still available`_
 
 Conclusion
 ----------
@@ -85,7 +93,10 @@ As always,
 
 .. _get your tickets now: http://natickets.writethedocs.org/
 .. _submit a talk now: http://conf.writethedocs.org/na/2014/#cfp
+.. _let us know: mailto:writethedocs@gmail.com
 
+.. _official schedule: http://docs.writethedocs.org/2014/eu/talks/
+.. _still available: http://eutickets.writethedocs.org/
 
 
 .. |Rackspace| image:: /img/sponsors/rackspace.png
