@@ -1,7 +1,7 @@
 Announcing Portland Venue and Ticket Sales
 ==========================================
 
-We are really excited for our Portland conference this year.
+We are really excited for our `Portland conference`_ this year.
 It was a huge success last year,
 and based on that success we are going to have more tickets so more folks can come.
 
@@ -77,6 +77,7 @@ As always,
 `let us know`_ if you have any questions or concerns.
 
 
+.. _Portland conference: http://conf.writethedocs.org/na/2014/
 .. _Crystal Ballroom: http://www.mcmenamins.com/CrystalBallroom
 .. _Lola's Room: http://www.mcmenamins.com/192-lola-s-room-home
 
