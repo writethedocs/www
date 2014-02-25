@@ -69,6 +69,10 @@ We are looking forward to seeing everyone in Portland this Spring.
 There are a few more exciting things in the works,
 so stay turned for more announcements in the next few weeks.
 
+Sponsorships are still available for both conferences.
+If your company would like to support the conference,
+please email us at writethedocs@gmail.com for more info.
+
 As always,
 `let us know`_ if you have any questions or concerns.
 
