@@ -14,7 +14,7 @@ The Crystal Ballroom
 ---------------------
 
 This year's Portland conference will be held at the `Crystal Ballroom`_.
-It is a beautiful concert venue located in the middle of downtown Portland.
+It is a beautiful concert venue located in the `middle of downtown`_ Portland.
 We believe it will provide a great home for Write the Docs this year,
 with room to grow in the future.
 
@@ -80,6 +80,7 @@ As always,
 .. _Portland conference: http://conf.writethedocs.org/na/2014/
 .. _Crystal Ballroom: http://www.mcmenamins.com/CrystalBallroom
 .. _Lola's Room: http://www.mcmenamins.com/192-lola-s-room-home
+.. _middle of downtown: http://goo.gl/maps/D2WrJ
 
 .. _get your tickets now: http://natickets.writethedocs.org/
 .. _submit a talk now: http://conf.writethedocs.org/na/2014/#cfp
