@@ -8,7 +8,7 @@ Posts
     :glob:
 
 
-    announcing-na-venue-tickets-sponsors
+    announcing-pdx-venue-tickets
     announcing-conference-talks-eu
     announcing-eu-venue-tickets-sponsors-speakers
     announcing-write-the-docs-2014

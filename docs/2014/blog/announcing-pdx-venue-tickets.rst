@@ -1,5 +1,5 @@
-Announcing Portland Venue, Ticket Sales, and Initial Sponsors
-=============================================================
+Announcing Portland Venue and Ticket Sales
+==========================================
 
 We are really excited for our Portland conference this year.
 It was a huge success last year,
@@ -53,20 +53,6 @@ The Call for Proposals ends on **March 1st**,
 which is this weekend.
 If you have something to share with the community,
 `submit a talk now`_
-
-Initial Sponsors
-----------------
-
-We couldn't keep ticket prices this low and provide the experience that we do without our sponsors.
-We are really grateful that they support us in this endeavor.
-Thanks to our initial sponsors:
-
-|Rackspace|_
-|Mozilla|_
-
-
-Sponsorship is still available,
-you can email writethedocs@gmail.com for more information.
 
 Budapest Conference Schedule
 ----------------------------
