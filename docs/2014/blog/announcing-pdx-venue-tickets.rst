@@ -25,8 +25,9 @@ We listened to people's feedback last year,
 and one of the biggest issues was the lack of a "Hallway Track".
 To help solve that problem,
 we also have booked `Lola's Room`_,
-which will be open during the entire conference for different uses.
-The venue also has a couple other areas where you can have a conversation with someone new and interesting you just met.
+which is a separate space in the same building.
+Lola's Room will be available for use by attendees throughout the conference.
+The building also has a couple of other areas where you can have a conversation with someone new and interesting you just met.
 
 Tickets are on sale
 -------------------
@@ -34,10 +35,10 @@ Tickets are on sale
 Tickets for the conference are on sale!
 We are keeping the same ticket prices as last year,
 with a couple additions.
-Early Bird are still **$55**.
+Early Bird are still **$55**, but limited.
 General Admission are still **$75**.
 We have added a Student ticket option,
-so students can always buy a ticket for **$50**.
+so students can buy a ticket for **$50**.
 To help cover the costs of doing this,
 we are asking companies who are buying their employee's tickets to pay a bit more.
 Corporate tickets are **$100**.
@@ -54,10 +55,15 @@ which is this weekend.
 If you have something to share with the community,
 `submit a talk now`_.
 
+Sponsorships are also still available for both conferences.
+If your company would like to support the conference,
+please email us at writethedocs@gmail.com for more info.
+
 Budapest Conference Schedule
 ----------------------------
 
-We have the `official schedule`_ for our EU conference in Budapest.
+Don't forget that we are also running our first `European conference`_ this year in Budapest.
+There is now an `official schedule`_ online.
 If you know folks in Europe that might be interested,
 please pass along the conference to them.
 Tickets are `still available`_.
@@ -65,13 +71,9 @@ Tickets are `still available`_.
 Conclusion
 ----------
 
-We are looking forward to seeing everyone in Portland this Spring.
+We are looking forward to seeing everyone in Portland this spring.
 There are a few more exciting things in the works,
-so stay turned for more announcements in the next few weeks.
-
-Sponsorships are still available for both conferences.
-If your company would like to support the conference,
-please email us at writethedocs@gmail.com for more info.
+so stay tuned for more announcements in the next few weeks.
 
 As always,
 `let us know`_ if you have any questions or concerns.
@@ -82,6 +84,7 @@ As always,
 .. _Lola's Room: http://www.mcmenamins.com/192-lola-s-room-home
 .. _middle of downtown: http://goo.gl/maps/D2WrJ
 
+.. _European conference: http://conf.writethedocs.org/eu/2014/
 .. _get your tickets now: http://natickets.writethedocs.org/
 .. _submit a talk now: http://conf.writethedocs.org/na/2014/#cfp
 .. _let us know: mailto:writethedocs@gmail.com
