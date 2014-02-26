@@ -182,21 +182,6 @@ an open source project we are working on) that can be used to
 automatically test or even update documentation as part of your
 continuous integration process.
 
-A. Jesse Jiryu Davis - Writing an Excellent Programming Blog 
-------------------------------------------------------------
-
-Please, help our community: share your programming knowledge by writing about it. It doesn’t matter how narrow your expertise is. If you know better than anyone how to parse NYC subway schedules in Python, write about it!
-
-Being known in your community as an expert or as a cogent explainer helps you, too. You’re more likely to get patches accepted by projects, get talks accepted by conferences, get a job, get users. Besides, writing teaches you to think: there’s no test of understanding so rigorous as writing an explanation. These days, when there's a problem I don't understand, I start drafting an article about it: I know by the time I'm done writing that I'll have attained the knowledge I seek.
-
-I notice roughly five formats among the best programming articles: stories, arguments, how-tos, how things work, and reviews. For each format I’ll discuss its structure and suggest ideas for what you could write about, and share some do’s or don’ts. If you want to write but haven’t chosen a topic, or don’t know how to approach it, this will get you started.
-
-Each programming language's "planet" aggregator is among the best channels for distributing your articles. Hacker News, Reddit, and Twitter have some value, too. You shouldn’t waste time on SEO. Writing isn't about reach, it's about satisfaction. Anyway, if you’re aggregated by sites devoted to your specialty, the audience that matters will come.
-
-Emulate the best bloggers and the best posts. I’ll share links and discuss, from examples, what makes a great article.
-
-You know something about programming that’s worth explaining. Plus, explaining it deepens your understanding as nothing else can. If you don’t know what to write about, riff off the ideas this talk suggests, or get inspired by great blogs. Craft articles of enduring value.
-
 
 David Hooker - What I have taught developers about writing
 ----------------------------------------------------------
