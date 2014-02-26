@@ -40,10 +40,17 @@ General Admission are still **$75**.
 We have added a Student ticket option,
 so students can buy a ticket for **$50**.
 To help cover the costs of doing this,
-we are asking companies who are buying their employee's tickets to pay a bit more.
+we are asking companies who are buying their employees tickets to pay a bit more.
 Corporate tickets are **$100**.
 
 Go ahead and `get your tickets now`_.
+
+When you book your travel,
+we recommend coming to Portland for the weekend before.
+It's a great town,
+and we will have optional events on Sunday afternoon.
+You should also make sure you stay until the end on Tuesday,
+which will be around 6pm.
 
 Call for Proposals ends this weekend
 -------------------------------------
