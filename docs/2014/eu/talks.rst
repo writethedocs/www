@@ -107,7 +107,7 @@ I'll share:
 
 - A look at how to make this strategy a success (how to start small, how to pick the right project, how to get buy-in from designers, managers, and others)
 
-Kelly O'Brien - Engage or Die: Four Techniques for Writing Indispensible Docs
+Kelly O'Brien - Engage or Die: Four Techniques for Writing Indispensable Docs
 -----------------------------------------------------------------------------
 
 No matter how detailed, how thorough, or how well organized you make your documentation, if it fails to engage your readers, they won’t stick around long enough to hear what you’re telling them. By borrowing time-honored techniques from professional nonfiction writers, you can make sure that your readers connect to your writing, right off the bat. 
