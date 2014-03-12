@@ -9,23 +9,6 @@ Write the Docs EU 2014 Presentations
 .. _get a ticket: http://eutickets.writethedocs.org/
 
 
-Włodzimierz Gajda - How to write a technical book?
---------------------------------------------------
-
-Writing interesting and informative books on technical topics requires a mixture of diverse abilities including technical expertise on a specific subject and communication skills.
-
-One of the methods to verify the quality of writings that you plan to publish as your next book is to use them in real life scenario. That's just the way I use to write and publish my books. I begin with a small tutorial. Next, I use the tutorial for teching purposes. After this I organize trainings for commercial companies. And finally, I publish the book.
-
-That's exactly how I wrote my first book for APress titled "Git Recipes":
-
-http://www.apress.com/9781430261032
-
-and more than 15 books concerning various IT topics (all in Polish).
-
-Using the first versions of the text as the complementary stuff for 
-commercial trainings and applying the feedback allows me to provide 
-the textbook that can be appreciated in real life scenarios.
-
 Thomas Parisot - README Driven Development
 ------------------------------------------
 
