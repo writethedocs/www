@@ -1,18 +1,19 @@
-Time Start,Session Title
-8:30:00,Venue Open
-9:00:00,Breakfast
-9:30:00,Eric Holscher - Introduction
-9:50:00,Kelly O’Brien - Engage or Die: Four Techniques for Writing Indispensible Docs
-10:30:00,Shwetank Dixit - Challenges and approaches taken with the Opera Extension Docs
-10:50:00,Break
-11:10:00,Idan Gazit - Advanced Web Typography
-11:50:00,Markus Zapke-Gründemann - Writing multi-language documentation using Sphinx
-12:30:00,Lunch
-13:30:00,Lightning talks
-14:00:00,Thomas Parisot - README Driven Development
-14:20:00,Jannis Leidel - Search and find. How we made MDN discoverable
-15:00:00,Break
-15:30:00,Jessica Rose - Tone in Documentation
-16:10:00,Elizabeth Urello - Blogging as Non-Traditional Support Documentation
-16:30:00,"Party Announce, etc"
-16:40:00,End
+Timeart,Session Title
+8:30,Venue Open
+9:00,Breakfast
+9:30,Eric Holscher - Introduction
+9:50,Kelly O’Brien - Engage or Die: Four Techniques for Writing Indispensible Docs
+10:30,Shwetank Dixit - Challenges and approaches taken with the Opera Extension Docs
+10:50,Break
+11:10,Idan Gazit - Advanced Web Typography
+11:50,Markus Zapke-Gründemann - Writing multi-language documentation using Sphinx
+12:30,Lunch
+13:30,Lightning talks
+14:00,Thomas Parisot - README Driven Development
+14:20,Jannis Leidel - Search and find. How we made MDN discoverable
+15:00,Break
+15:30,Jessica Rose - Tone in Documentation
+16:10,Elizabeth Urello - Blogging as Non-Traditional Support Documentation
+16:30,David Hooker - What I have taught developers about writing
+17:10,"Party Announce, etc"
+17:20,End
