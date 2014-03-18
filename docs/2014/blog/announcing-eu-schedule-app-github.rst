@@ -29,4 +29,4 @@ The Write the Docs Team
 
 .. _schedule: http://docs.writethedocs.org/2014/eu/schedule/
 .. _web version: http://m.guidebook.com/guide/18345/
-.. _download it here: http://guidebook.com/g/orwdfqp2/
+.. _download it: http://guidebook.com/g/orwdfqp2/
