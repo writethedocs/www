@@ -25,7 +25,7 @@ Community is a huge part of Write the Docs. We want to create a culture where we
 
 The event will be free and open to the public. So it will be a great way to meet other local tech folk, and have a good time on GitHub.
 
-With the conference party on Monday, that means there are evening events on both Monday and Tuesday. We hope that gives you plenty of oppertunity to meet other documentatarians.
+With the conference party on Monday, that means there are evening events on both Monday and Tuesday. We hope that gives you plenty of opportunity to meet other documentarians.
 
 That’s all for now! 
 
