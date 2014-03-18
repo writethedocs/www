@@ -1,6 +1,8 @@
 Write the Docs EU 2014 Schedule
 ===============================
 
+Check out the :doc:`talks` to see full descriptions of each talk.
+
 Day 1
 -----
 
