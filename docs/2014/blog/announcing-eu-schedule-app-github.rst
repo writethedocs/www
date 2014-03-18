@@ -28,7 +28,7 @@ The event will be free and open to the public. So it will be a great way to meet
 With the conference party on Monday, that means there are evening events on both Monday and Tuesday. We hope that gives you plenty of opportunity to meet other documentarians.
 
 There are still tickets for the conference left,
-so `buy one`_ if you want to come.
+so `buy one`_ now.
 
 
 .. _schedule: http://conf.writethedocs.org/eu/2014/#schedule
