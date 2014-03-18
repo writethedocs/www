@@ -27,8 +27,10 @@ The event will be free and open to the public. So it will be a great way to meet
 
 With the conference party on Monday, that means there are evening events on both Monday and Tuesday. We hope that gives you plenty of oppertunity to meet other documentatarians.
 
-That’s all for now! Cheers,
-The Write the Docs Team
+That’s all for now! 
+
+| Cheers,
+| The Write the Docs Team
 
 
 .. _schedule: http://docs.writethedocs.org/2014/eu/schedule/
