@@ -2,7 +2,7 @@ Announcing EU Schedule, App, and GitHub Drinkup
 ===============================================
 
 
-Write the Docs is right around the corner! We’re delighted to hold our first EU Write the Docs in Budapest, and we have some developments to share with you as the dates draw nearer. We’re announcing the schedule, a mobile app so you can easily check the schedule, and a Github-hosted evening event where you can get to know your fellow documentarians better. 
+Write the Docs is right around the corner! We’re delighted to hold our first EU Write the Docs in Budapest, and we have some developments to share with you as the dates draw nearer. We’re announcing the schedule, a mobile app so you can easily check the schedule, and a Github-hosted evening event after the conference. 
 
 Conference Schedule
 -------------------
