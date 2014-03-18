@@ -1,12 +1,11 @@
 Write the Docs EU 2014 Presentations
 ====================================
 
-.. contents:: 
-   :local:
-
 .. note:: If these talks look interesting, you should `get a ticket`_.
 
 .. _get a ticket: http://eutickets.writethedocs.org/
+
+You can see the final :doc:`schedule` also.
 
 
 Thomas Parisot - README Driven Development
