@@ -33,6 +33,6 @@ That’s all for now!
 | The Write the Docs Team
 
 
-.. _schedule: http://docs.writethedocs.org/2014/eu/schedule/
+.. _schedule: http://conf.writethedocs.org/eu/2014/#schedule
 .. _web version: http://m.guidebook.com/guide/18345/
 .. _download it: http://guidebook.com/g/orwdfqp2/
