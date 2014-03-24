@@ -11,6 +11,8 @@ Check out the :doc:`talks` to see full descriptions of each talk.
 Day 1
 -----
 
+Sponsored by `Prezi`_
+
 .. csv-table:: 
    :header: Time, Talk
    :widths: 20, 70
@@ -19,7 +21,13 @@ Day 1
 Day 2
 -----
 
+Sponsored by `Wordpress.com`_
+
 .. csv-table::
    :header: Time, Talk
    :widths: 20, 70
    :file: ../../_data/eu2014-day2.csv
+
+
+.. _Prezi: http://prezi.com/
+.. _Wordpress.com: http://wordpress.com/
