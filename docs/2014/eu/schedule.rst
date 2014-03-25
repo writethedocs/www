@@ -8,6 +8,13 @@ Write the Docs EU 2014 Schedule
 
 Check out the :doc:`talks` to see full descriptions of each talk.
 
+Day 0
+-----
+
+Join us for a Pre-Registration event at Prezi held from 17:00-19:00.
+Grab your badge and shirt early,
+and get to know other documentarians with provided drinks.
+
 Day 1
 -----
 
