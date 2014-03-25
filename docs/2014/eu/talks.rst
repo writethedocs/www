@@ -174,3 +174,11 @@ I arrived at Prezi as a technical writer used to dealing with engineers of the c
 
 This talk is about the challenges, learning curves, and (most importantly) vaguely amusing anecdotes of my eighteen months living amongst those who code. Or to put it in developer-speak, I include best practices as well as experiences of how I messed up when trying to convince 120 engineers that they needed to place greater value on words, write more often, and that they needed my help doing it. 
 
+Swizec Teller - What I learned writing a lousy tech book
+--------------------------------------------------------
+
+Last year I pounced on a chance to write a book about d3.js. Yes! My first book deal! This is going to be the greatest technical book the world has ever seen. It's going to sell so many copies and I will be rich and famous and everyone is going to learn so very much!
+
+But I soon found out that stuffing EVERYTHING into 120 pages is ... hard. Editors get in the way and publishers have deadlines and by the time the book came out I hated it. It's too fast paced, people can't learn from it, and all the examples I was so proud of are kind of lame.
+
+Turns out there's a reason why so many technical books are bad. In this talk I'm going to explain why I don't like mine and how you can do better.
