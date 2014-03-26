@@ -1,5 +1,5 @@
-Announcing First Conference Talks for NA
-========================================
+Announcing First Conference Talks and Events for North America
+==============================================================
 
 Things are coming along nicely for our `NA conference`_.
 The event is 45 days away,
