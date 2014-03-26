@@ -8,6 +8,7 @@ Posts
     :glob:
 
 
+    announcing-na-conference-talks
     announcing-eu-schedule-app-github
     announcing-pdx-venue-tickets
     announcing-conference-talks-eu
