@@ -49,12 +49,12 @@ Check out pictures from last years `hike`_ to see what it will be like.
 Pre-Registration
 ----------------
 
-Urban Airship will be kindly hosting the pre-registration event this year.
+Urban Airship will be kindly hosting the Pre-Registration event this year.
 Get your badges early,
 have a drink,
 and get to know some other attendees before the conference starts.
 
-Urban airship is located at *1417 NW Everett St*.
+Urban Airship is located at *1417 NW Everett St*.
 The event will run from **5pm to 8pm**,
 allowing you time to find folks to grab dinner with.
 
