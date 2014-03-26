@@ -28,7 +28,7 @@ We’re proud to announce the first round of talks:
 * R. N. Homer Christensen - Flow: A Permaculture Approach to Documentation Projects
 
 You can read the full abstracts `here`_. 
-If you haven’t registered already, 
+If you haven’t already, 
 `register here`_ before we sell out.
 
 Hike
