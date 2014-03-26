@@ -6,6 +6,13 @@ Write the Docs NA 2014 Presentations
 .. _get a ticket: http://natickets.writethedocs.org/
 
 
+Marko Gargenta - TechDocs at Twitter: Creating the culture of documentation
+---------------------------------------------------------------------------
+
+Twitter Engineering has grown quickly, to well over a thousand engineers in the space of a few years. In the process, scores of teams have developed hundreds of individual services and libraries. During this time, these teams have been supported by at most three full­time tech writers.
+
+This is a story of how we work towards creating the culture of documentation. To implement this culture, we needed to introduce new tools that are seamless for the developer workflow and to bring the teams along with education and training. In this talk, you will learn what worked and what didn’t for Twitter engineering documentation.
+
 Matthew Lyon - Minimum Viable Documentation
 -------------------------------------------
 

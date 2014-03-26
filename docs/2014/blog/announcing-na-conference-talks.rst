@@ -18,6 +18,7 @@ and we believe it will introduce you to some new and useful concepts that you di
 
 We are proud to announce the following talks:
 
+* Marko Gargenta - TechDocs at Twitter: Creating the culture of documentation
 * Matthew Lyon - Minimum Viable Documentation
 * Amelia Abreu - Data, Documentation, & Memory
 * Susan Salurito - From Docs to Engineering and Back Again
