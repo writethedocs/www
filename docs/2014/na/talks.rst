@@ -6,7 +6,7 @@ Write the Docs NA 2014 Presentations
 .. _get a ticket: http://natickets.writethedocs.org/
 
 
-Marko Gargenta - TechDocs at Twitter: Creating the culture of documentation
+Marko Gargenta - TechDocs at Twitter: Creating the Culture of Documentation
 ---------------------------------------------------------------------------
 
 Twitter Engineering has grown quickly, to well over a thousand engineers in the space of a few years. In the process, scores of teams have developed hundreds of individual services and libraries. During this time, these teams have been supported by at most three full­time tech writers.
@@ -100,7 +100,7 @@ A good doc is like a good program: beautifully architected, free of clutter, and
 We’ll review “code samples”  - examples of real sentences from docs - and refactor them into clear, straightforward explanations that help the reader learn. Throughout the talk, we’ll introduce a new way for developers to think about writing and for writers to think about the technology we are documenting.
 
 
-Siobhan McKeown - Writing for your other half
+Siobhan McKeown - Writing for Your Other Half
 ---------------------------------------------
 
 Writing documentation is all about writing for other people. When I write docs I write them for my husband, not because I'm currently writing a practical guide to marriage, but because keeping him in mind makes my documentation better: if he can understand it, anyone can. There are plenty of things that I've learned throughout the years just by keeping him in mind when I sit down to write.

@@ -18,7 +18,7 @@ and we believe it will introduce you to some new and useful concepts that you di
 
 We are proud to announce the following talks:
 
-* Marko Gargenta - TechDocs at Twitter: Creating the culture of documentation
+* Marko Gargenta - TechDocs at Twitter: Creating the Culture of Documentation
 * Matthew Lyon - Minimum Viable Documentation
 * Amelia Abreu - Data, Documentation, & Memory
 * Susan Salurito - From Docs to Engineering and Back Again
@@ -27,7 +27,7 @@ We are proud to announce the following talks:
 * Kenneth Reitz - Documentation at Scale
 * Mo Nishiyama - Did It In Minutes: The Art of Documenting Meeting Notes
 * Nina Vyedin - Hacking the English Language
-* Siobhan McKeown - Writing for your other half
+* Siobhan McKeown - Writing for Your Other Half
 * R. N. Homer Christensen - Flow: A Permaculture Approach to Documentation Projects
 
 The `full abstracts`_ are also available.
