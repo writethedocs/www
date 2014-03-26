@@ -2,7 +2,7 @@ Announcing First Conference Talks and Events for North America
 ==============================================================
 
 Things are coming along nicely for our `NA conference`_.
-The event is 45 days away,
+The event is 40 days away,
 and we are putting together the final touches.
 
 Today we are proud to announce the first set talks,
