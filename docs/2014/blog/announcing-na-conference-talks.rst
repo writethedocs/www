@@ -51,6 +51,7 @@ Pre-Registration
 
 Urban Airship will be kindly hosting the pre-registration event this year.
 Get your badges early,
+have a drink,
 and get to know some other attendees before the conference starts.
 
 Urban airship is located at *1417 NW Everett St*.
