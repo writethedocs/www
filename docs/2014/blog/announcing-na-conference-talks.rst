@@ -1,5 +1,5 @@
-Announcing First Conference Talks and Events for North America
-==============================================================
+Announcing Conference Talks and Events for North America
+========================================================
 
 Things are coming along nicely for our `upcoming conference`_ in Portland, Oregon. 
 It’s a little more than a month away, and we’re putting together the final touches.
