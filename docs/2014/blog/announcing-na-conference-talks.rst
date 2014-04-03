@@ -4,7 +4,7 @@ Announcing First Conference Talks and Events for North America
 Things are coming along nicely for our `upcoming conference`_ in Portland, Oregon. 
 It’s only 40 days away, and we’re putting together the final touches.
  
-We’re excited to announce the first set of speakers and a few events before the conference where you can get to know your fellow documentarians.
+We’re excited to announce our Portland speakers and a few events before the conference where you can get to know your fellow documentarians.
 
 Talks
 -----
@@ -13,7 +13,7 @@ The quality and diversity of speaker submissions this year is impressive.
 It’s made selecting talks difficult, 
 but it’s a great problem to have.
 
-We’re proud to announce the first round of talks:
+We’re proud to announce the following talks:
 
 * Marko Gargenta - TechDocs at Twitter: Creating the Culture of Documentation
 * Matthew Lyon - Minimum Viable Documentation
@@ -26,6 +26,24 @@ We’re proud to announce the first round of talks:
 * Nina Vyedin - Hacking the English Language
 * Siobhan McKeown - Writing for Your Other Half
 * R. N. Homer Christensen - Flow: A Permaculture Approach to Documentation Projects
+* Ali Spivak - Communities are Awesome
+* Amalia Hawkins - Ignorance Is Strength: Writing Documentation By Learning As You Go
+* Scot Marvin - Wabi-Sabi Writing
+* Britta Gustafson - Strategies to Fight Documentation Inertia
+* Brian Troutwine - Instrumentation as Living Documentation: Teaching Humans About Complex Systems
+* Christina Elmore - Death by Documentation
+* Christopher Kelleher - Make Music Not Noise
+* Drew Jaynes - Putting the (docs) Cart Before the (standards) Horse
+* Heidi Waterson - The New Sheriff in Town: Bringing Documentation Out of Chaos
+* Jared Bhatti - The Getting Stopped Experience: Improving Your Content’s First Impression
+* LS Cook - Scale for Support Without Losing Personality
+* Lauren Rother - We Strongly Recommend You Write Best Practices
+* Patrick Arlt - Ditch your CMS with Git and Static Site Generators
+* Simeon Franklin - Carrots, Sticks and Tools
+* Zach Corleissen - More Than a Reference: Better APIs through Empathy
+* Lois Patterson - What Makes Good API Documentation: An Example-Based Approach
+* Mark Tattersall - Documentation as Product
+
 
 You can read the full abstracts `here`_. 
 If you haven’t already, 
