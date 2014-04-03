@@ -9,9 +9,9 @@ We’re excited to announce our Portland speakers and a few events before the co
 Talks
 -----
 
-The quality and diversity of speaker submissions this year is impressive. 
-It’s made selecting talks difficult, 
-but it’s a great problem to have.
+The quality and diversity of speaker submissions this year was impressive. 
+We try to provide a wide ranging selection of topics around documentation,
+and think we have achieved that goal.
 
 We’re proud to announce the following talks:
 
@@ -43,7 +43,6 @@ We’re proud to announce the following talks:
 * Zach Corleissen - More Than a Reference: Better APIs through Empathy
 * Lois Patterson - What Makes Good API Documentation: An Example-Based Approach
 * Mark Tattersall - Documentation as Product
-
 
 You can read the full abstracts `here`_. 
 If you haven’t already, 
