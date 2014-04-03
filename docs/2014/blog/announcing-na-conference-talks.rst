@@ -25,7 +25,7 @@ We’re proud to announce the following talks:
 * Mo Nishiyama - Did It In Minutes: The Art of Documenting Meeting Notes
 * Nina Vyedin - Hacking the English Language
 * Siobhan McKeown - Writing for Your Other Half
-* R. N. Homer Christensen - Flow: A Permaculture Approach to Documentation Projects
+* R\. N\. Homer Christensen - Flow: A Permaculture Approach to Documentation Projects
 * Ali Spivak - Communities are Awesome
 * Amalia Hawkins - Ignorance Is Strength: Writing Documentation By Learning As You Go
 * Scot Marvin - Wabi-Sabi Writing
