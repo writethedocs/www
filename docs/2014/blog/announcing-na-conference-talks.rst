@@ -2,7 +2,7 @@ Announcing First Conference Talks and Events for North America
 ==============================================================
 
 Things are coming along nicely for our `upcoming conference`_ in Portland, Oregon. 
-It’s only 40 days away, and we’re putting together the final touches.
+It’s a little more than a month away, and we’re putting together the final touches.
  
 We’re excited to announce our Portland speakers and a few events before the conference where you can get to know your fellow documentarians.
 
