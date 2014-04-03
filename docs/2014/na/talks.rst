@@ -248,3 +248,10 @@ My talk will focus on two objectives:
 2) What do you mean Documentation as a Product?
 
 
+Juliana Arrighi - Cultivating Biological Documentation
+--------------------------------------------- 
+Information delivery doesn't stop at source code, internal knowledge bases, or even docs sites. 'Biological documentation' — the knowledge possessed by individuals on a team — is also an important part of the picture. This knowledge is used to create and maintain written documentation, but it is also used in ways that supplement written documentation, such as providing customer support, giving internal training, or speaking at events. 
+
+Maintaining biological documentation requires different considerations than written documentation. For example, biological documentation cannot be written, reviewed, and published; it is developed continuously through training and other knowledge transfer opportunities. 
+
+Juliana Arrighi, technical trainer at New Relic, will discuss the benefits of actively cultivating internal knowledge through structured and well-documented training, share some lessons learned while building an onboarding training curriculum, and describe a few examples of how New Relic is working to maintain the health of its information circulation system."
