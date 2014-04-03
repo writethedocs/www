@@ -6,7 +6,7 @@ Write the Docs NA 2014 Presentations
 .. _get a ticket: http://natickets.writethedocs.org/
 
 
-Marko Gargenta - TechDocs at Twitter: Creating the Culture of Documentation
+Simeon Franklin & Marko Gargenta - TechDocs at Twitter: Creating the Culture of Documentation
 ---------------------------------------------------------------------------
 
 Twitter Engineering has grown quickly, to well over a thousand engineers in the space of a few years. In the process, scores of teams have developed hundreds of individual services and libraries. During this time, these teams have been supported by at most three full­time tech writers.
@@ -29,7 +29,7 @@ In this presentation, I explore the role of documentation and technical writing 
 Drawing on my experiences as a UX Researcher and an academic HCI background, I introduce concepts from archival and critical theory. Examining both data and metadata structures, I argue for an infrastructural understanding of documentation, one that acknowledges documentation practice as crucial scaffolding for the development process. In conclusion, I present recommendations for maximizing the value of archival documentation and improving data retention and retrieval.
 
 
-Susan Salurito - From Docs to Engineering and Back Again
+Susan Salituro - From Docs to Engineering and Back Again
 --------------------------------------------------------
 
 When you head into a career as an API technical writer, you’re treading dangerously close to engineering territory. You have to know enough about software developer to write for an audience of developers, yet you also have to be an experienced and efficient writer of English prose. When a writer crosses the line into software development, how does she balance the need to write with the need to code (short of criticizing the grammar in code comments)? This is the story of how I started out as a technical writer, transitioned to release engineering, and came back to the documentation world, and what that experience taught me. 
