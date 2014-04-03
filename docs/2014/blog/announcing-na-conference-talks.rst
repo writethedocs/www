@@ -61,7 +61,7 @@ Pre-Registration
 ----------------
 
 Urban Airship is generously hosting our pre-registration event. 
-Get your badges early and meet other attendees. Here are the details:
+Get your badges early, have a drink, and meet other attendees. Here are the details:
 
 | **Time**: Sunday, May 4th from 5p-8p
 | **Place**: Urban Airship at 1417 NW Everett St, Portland 97209
@@ -69,7 +69,7 @@ Get your badges early and meet other attendees. Here are the details:
 In closing
 ----------
 
-We’ll announce the full speaking roster soon, and you can look forward to more Portland conference announcements over the coming weeks.
+You can look forward to more Portland conference announcements over the coming weeks.
 
 .. _upcoming conference: http://conf.writethedocs.org/na/2014/
 .. _here: http://docs.writethedocs.org/2014/na/talks/
