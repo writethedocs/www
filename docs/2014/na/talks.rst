@@ -105,3 +105,146 @@ Siobhan McKeown - Writing for Your Other Half
 
 Writing documentation is all about writing for other people. When I write docs I write them for my husband, not because I'm currently writing a practical guide to marriage, but because keeping him in mind makes my documentation better: if he can understand it, anyone can. There are plenty of things that I've learned throughout the years just by keeping him in mind when I sit down to write.
 
+
+Ali Spikak - Communities are Awesome
+---------------------------------------------
+The Mozilla Developer Network is an open-source documentation wiki for web developers, which is written by really passionate, smart, and inspiring people. Most are not paid employees of Mozilla. All of them are helping make the web a better place by writing, editing, and reviewing articles. How do you support a diverse community, acknowledge many different voices and perspectives, be open and inclusive, and still get things done (especially when you can't force anyone to do anything)?  In this session, I’ll share what I’ve learned (and keep learning) by working with, in, and for volunteer communities; including how to be more transparent, create opportunity, and broadly share ownership. 
+
+
+Amalia Hawkins - Ignorance Is Strength: Writing Documentation By Learning As You Go
+--------------------------------------------- 
+When your company’s codebase is large, complicated, and mostly undocumented, there is a huge burden to bring new hires up to speed — not to mention facilitate communication between distributed teams. How can you leverage the knowledge of experienced engineers — and the ignorance of new engineers — to guide your efforts and create a valuable resource?
+
+At MongoDB, we now have the Hitchhiker’s Guide to the Codebase, an internal documentation resource covering everything from an introduction to our build tool to detailed explanations of internal server mechanisms. Content is contributed by engineers across the company, based on their frustrations and requests from other engineers, and edited by volunteers. The most valuable content is often written by engineers who had to struggle through learning about those topics on their own.
+
+I’ll talk about how I started this initiative without any knowledge or power, how I recruited volunteers, and the impact this has had on productivity at our company. 
+
+
+Scot Marvin - Wabi-Sabi Writing
+--------------------------------------------- 
+Agile development environments bring increased versions, more due dates, and the accompanying headaches that go with publishing more frequently. And yet, writers must still maintain an emphasis on helping readers with the best documentation we can produce. So, how do we focus on producing documentation that is perfect, permanent, and complete? 
+
+We don't.
+
+The Japanese concept of wabi-sabi refers to an appreciation of the beauty in the imperfect, impermanent, and incomplete. These are qualities of Agile documentation. And they're beautiful. No, really. They are. This talk will detail my my journey to let go (meh, for the most part) of the need for technical communication perfection. I will also offer tips for my fellow control freaks.
+
+
+Britta Gustafson - Strategies to Fight Documentation Inertia
+--------------------------------------------- 
+I'm a non-developer working with a community including a bunch of mostly-volunteer developers, and for years our developer documentation wiki was quiet and mostly static. I didn't touch it, since I don't know enough to work on developer resources, right? Wait, no! I realized that even if I can't update it all myself, I can help the developers with it, including a bit of persuading them.
+
+I'll explain some of my strategies for making working on documentation more appealing and rewarding for developers, including by lending it some aspects of the quick feedback that people get when writing code.
+
+This includes things like: Ways to make the wiki feel active and alive, since nobody likes to hang out in a ghost town. Good questions to ask that encourage people to write things down. How to make first edits easy with bite-sized tasks and prominent "todos" that entice people to click that edit button. Finding people who prefer to ask permission first before making changes, and being there to give them permission! And the best "trick": advice for effective ways to thank people a lot, publicly and specifically.
+
+
+Brian Troutwine - Instrumentation as Living Documentation: Teaching Humans About Complex Systems
+--------------------------------------------- 
+Human intuition about complex systems is pretty abysmal: we have neither the scope of imagination or the experiences necessary to predict the varied behaviors of our creations. Humans operating these systems--in stable and disaster situations--must rely on a combination of faulty intuition, information coming out of the system and static documentation created by the designers of the system to guide them in their actions. In this talk I will focus on the interaction of instrumentation and static documentation on human operators. In particular, I will contend that by insisting on rich instrumentation system designers will gain a deeper intuition of their work, generating better static documentation and more contextual information for use by operators. I will further contend that this environment is conducive to smooth functioning of the system and creates a culture of constant improvement among the operators and the engineers. 
+
+I will use historical examples and my professional experience to argue this position. 
+
+
+Christina Elmore - Death by Documentation
+--------------------------------------------- 
+The urge to document is at the root of many bad presentation habits. 
+
+Despite a renaissance in the art of presentation - think TED Talks, Nancy Duarte, Prezi, and Ignite – we’ve all experienced more bad presentations than any lifetime deserves. And documentation is frequently to blame. Although documenting and presenting serve different needs and require different methods, many presentations end up being an awkward mash-up of the two. How can we understand and transform this self-defeating urge to document into leaner, more engaging presentations? 
+
+
+Christopher Kelleher - Make Music Not Noise
+--------------------------------------------- 
+Can the values of music guide us to create better documentation? We’ll look at examples of noisy documentation and consider how we can use the noise vs. music distinction to improve the world by documenting it better.
+
+sound without structure = noise
+sound + satisfying structure = music
+information + satisfying structure = successful documentation
+
+First we’ll examine cases of intentional noise – documents that are designed to be hard to follow. Think convoluted cable bills or droning usage agreements. This is noise with a purpose: if we give up on following along, the document has done its job because the original goal was to make us surrender, not understand. We’ll talk about how to isolate the noise and demand higher standards.
+
+And then there are documents that mean well but perform badly — the audience can discern a melody, but it’s either buried or gratingly inconsistent. Examples include tediously detailed consent forms, haphazard project documents, or reports that drift through random facts and jargon. This is the dissonance of badly structured information — making sound without making sense. Applying a musicality standard can guide authors out of the muck.
+
+
+Drew Jaynes - Putting the (docs) Cart Before the (standards) Horse
+--------------------------------------------- 
+When people think of documentation standards, I'd wager the first thing that comes to mind is probably something like "uniformity", or "best practice", or "one voice". And in consideration of that, most people probably also view standards as the de facto "starting place" for all the things to come after.
+
+So what happens when you turn that idea on its head, that is to say, 'write the documentation first, and develop standards later'?
+
+In the WordPress open source project, we did that. We developed an inline documentation standard using 10 years of contributions as a starting place.
+
+This talk will cover some of the challenges we overcame to develop a new standard using legacy documentation.
+Also:
+* Tools we used to assess our existing documentation "style".
+* How our new standards have been applied in practice.
+* How having a standard has allowed the docs team to rise to equal footing.
+
+
+Heidi Waterhouse - 
+--------------------------------------------- 
+It is rarely that a documentarian is brought in at the beginning of a company or project. More commonly, we are called in sometime just before or sometimes slightly after a project is released. We need to hit the ground running, maximize our value, and deliver something before the product is rejected for being undocumented.
+
+Join me for a discussion of my techniques and stress-tested questions for how to get minimum viable documentation out of a motley collection of gists, outdated specs, and time-crunched developers. See some immediately-applicable techniques for getting good-enough documentation out the door.
+
+My specialty as a technical writer is establishing a minimum viable documentation set, establishing tools and procedures, and training in a less battle-hardened writer to take over. 
+
+
+Jared Bhatti - The Getting Stopped Experience: Improving Your Content’s First Impression
+--------------------------------------------- 
+The “Getting Started” page of your product is the most important page for bringing new people onto your product. In the best case, it introduces readers to your product and convinces them to use it. Too often, though, it becomes the “Getting Stopped” experience, with readers getting repeatedly frustrated. Poor documentation, from the Getting Started page on, causes many developers to leave your content and product behind.  Outdated information, rude warnings, bad metrics, and poor content strategy all contribute to the “Getting Stopped” experience. 
+
+This talk examines several practical solutions that tech writers can use to engage readers and create a better first impression.  Drawing on examples from Google’s Cloud developer documentation, I focus on how users can define solid metrics for success and encourage reader participation.  With these simple but robust solutions, you too can bring more people to your product, getting them started and keeping them around. 
+
+LS Cook - Scale for Support Without Losing Personality
+--------------------------------------------- 
+Triage:  Support needn't be a burden.  
+
+Scaling for support-sensitive environments can seem like an overwhelming task.  This talk focuses on how being aware of the overlapping spheres of documentation, support & in-product design -- before writing a single article or doc -- can greatly reduce support burden and add personality to your brand.    
+
+
+Lauren Rother - We Strongly Recommend You Write Best Practices
+--------------------------------------------- 
+Writing best practices documentation is definitely an art, but that doesn't mean a little science can't help us along. Through some trial and error, I've uncovered some tenets of writing engaging, readable best practices docs. I'll walk through a bit of my path to discovery as I highlight and give examples of successful and (enthusiastic) reader-approved best practices documents. 
+
+
+Patrick Arlt - Ditch your CMS with Git and Static Site Generators
+--------------------------------------------- 
+The command line can be your best friend! Git is an amazing tool that helps developers collaborate, review and manage code, but these same tool also work for writing and managing documentation.
+
+Learn how we use tools like Git, Middleman and Markdown in building and managing the ArcGIS for Developers website (https://developers.arcigs.com). I'll share some Git basics and give some insight into how we do things like create, collaborate and version our documentation all the way up to how the final website is built and deployed.
+
+
+Simeon Franklin - Carrots, Sticks and Tools
+--------------------------------------------- 
+How do you build a culture of documentation? Especially in a large organization with many projects, a variety of languages, and wildly varying standards for documentation?
+
+This talk shares the experiences I've had with documentation at Twitter since coming aboard as part of the newly formed university engineering education division. In particular I'd like to discuss: 
+
+* Building and distributing documentation tools for a large in-house technical audience
+* Evangelizing for broader developer participation in documentation
+* Using rewards, policies, metrics, and public shame to drive documentation quality
+
+
+Zach Corleissen - More Than a Reference: Better APIs through Empathy
+--------------------------------------------- 
+You've probably seen (and maybe even written) API documentation so reference-complete, it puts the OED to shame. Useful API docs cover every endpoint, parameter and variable--but not all API methods deserve equal prominence.  
+
+This talk is about creating better API documentation through empathy. We'll talk about delighting readers by knowing your audience, showing them where to begin, and explaining why your API matters in the first place.
+
+
+Lois Patterson - What Makes Good API Documentation: An Example-Based Approach
+--------------------------------------------- 
+We'll take a tour through API documentation land, comparing the features and usability of different API doc sets. Interoperability is important, and making an easy-to-use API available can be a significant component of a company's success. Based on my own research, plus consultation with software engineers, product managers, and other technical writers, I will discuss what makes excellent API documentation. Here are some samples of great API documentation features that I have found.
+
+
+Mark Tattersall - Documentation as Product
+--------------------------------------------- 
+"Write the Docs" is so often a line item found at the end of a project plan. But documentation deserves so much more attention and thought as good documentation does more than just describe how to use or implement a new feature, particularly in the case of API documentation. It is both the shop window and instruction manual. The tone of the documentation represents your product, and the complexity, simplicity or ‘magic' needs to shine through.
+
+My talk will focus on two objectives:
+
+1) Why does Documentation deserve product planning on its own?
+
+2) What do you mean Documentation as a Product?
+
+
