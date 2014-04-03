@@ -112,6 +112,7 @@ Siobhan McKeown - Writing for Your Other Half
 
 Writing documentation is all about writing for other people. When I write docs I write them for my husband, not because I'm currently writing a practical guide to marriage, but because keeping him in mind makes my documentation better: if he can understand it, anyone can. There are plenty of things that I've learned throughout the years just by keeping him in mind when I sit down to write.
 
+This presentation will share what I've learned about writing for my other half; how I build that into my writing practice. I'll talk about how we can we can use the people close to us to write better documentation, how I write docs for my darling husband, and how we can keep in mind every writer's other half, our reader.
 
 Ali Spivak - Communities are Awesome
 ---------------------------------------------
