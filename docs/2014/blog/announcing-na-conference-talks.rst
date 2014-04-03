@@ -53,7 +53,8 @@ Hike
 
 Portland is a beautiful city, with wilderness inside the city limits. 
 Join us for a hike on **Sunday, May 4 at 1:00 pm**.
-We’re all about community and this is a great opportunity to meet and greet other documentarians.
+We’re all about community and this is a great opportunity to meet and greet other documentarians,
+while getting some exercise at the same time.
 
 See more details on the :doc:`Hike page </2014/na/hike>`, or `check out last year’s pictures`_.
 
@@ -61,7 +62,11 @@ Pre-Registration
 ----------------
 
 Urban Airship is generously hosting our pre-registration event. 
-Get your badges early, have a drink, and meet other attendees. Here are the details:
+Get your badges early, have a drink, and meet other attendees.
+It's a great way to kick off the conference,
+so we hope you will attend.
+
+Here are the details:
 
 | **Time**: Sunday, May 4th from 5p-8p
 | **Place**: Urban Airship at 1417 NW Everett St, Portland 97209
@@ -70,6 +75,8 @@ In closing
 ----------
 
 You can look forward to more Portland conference announcements over the coming weeks.
+We are getting excited about the conference,
+and hope you are too.
 
 .. _upcoming conference: http://conf.writethedocs.org/na/2014/
 .. _here: http://docs.writethedocs.org/2014/na/talks/
