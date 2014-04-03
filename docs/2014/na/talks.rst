@@ -13,6 +13,13 @@ Twitter Engineering has grown quickly, to well over a thousand enginee
 
 This is a story of how we work towards creating the culture of documentation. To implement this culture, we needed to introduce new tools that are seamless for the developer workflow and to bring the teams along with education and training. In this talk, you will learn what worked and what didn’t for Twitter engineering documentation.
 
+Twitter is a large organization with many projects, a variety of languages, and wildly varying standards for documentation. This talk shares the experiences of our newly formed university engineering education division. 
+
+* Building and distributing documentation tools for a large in-house technical audience
+* Evangelizing for broader developer participation in documentation
+* Using rewards, policies, metrics, and public shame to drive documentation quality
+
+
 Matthew Lyon - Minimum Viable Documentation
 -------------------------------------------
 
@@ -106,7 +113,7 @@ Siobhan McKeown - Writing for Your Other Half
 Writing documentation is all about writing for other people. When I write docs I write them for my husband, not because I'm currently writing a practical guide to marriage, but because keeping him in mind makes my documentation better: if he can understand it, anyone can. There are plenty of things that I've learned throughout the years just by keeping him in mind when I sit down to write.
 
 
-Ali Spikak - Communities are Awesome
+Ali Spivak - Communities are Awesome
 ---------------------------------------------
 The Mozilla Developer Network is an open-source documentation wiki for web developers, which is written by really passionate, smart, and inspiring people. Most are not paid employees of Mozilla. All of them are helping make the web a better place by writing, editing, and reviewing articles. How do you support a diverse community, acknowledge many different voices and perspectives, be open and inclusive, and still get things done (especially when you can't force anyone to do anything)?  In this session, I’ll share what I’ve learned (and keep learning) by working with, in, and for volunteer communities; including how to be more transparent, create opportunity, and broadly share ownership. 
 
@@ -195,6 +202,7 @@ The “Getting Started” page of your product is the most important page for br
 
 This talk examines several practical solutions that tech writers can use to engage readers and create a better first impression.  Drawing on examples from Google’s Cloud developer documentation, I focus on how users can define solid metrics for success and encourage reader participation.  With these simple but robust solutions, you too can bring more people to your product, getting them started and keeping them around. 
 
+
 LS Cook - Scale for Support Without Losing Personality
 --------------------------------------------- 
 Triage:  Support needn't be a burden.  
@@ -212,17 +220,6 @@ Patrick Arlt - Ditch your CMS with Git and Static Site Generators
 The command line can be your best friend! Git is an amazing tool that helps developers collaborate, review and manage code, but these same tool also work for writing and managing documentation.
 
 Learn how we use tools like Git, Middleman and Markdown in building and managing the ArcGIS for Developers website (https://developers.arcigs.com). I'll share some Git basics and give some insight into how we do things like create, collaborate and version our documentation all the way up to how the final website is built and deployed.
-
-
-Simeon Franklin - Carrots, Sticks and Tools
---------------------------------------------- 
-How do you build a culture of documentation? Especially in a large organization with many projects, a variety of languages, and wildly varying standards for documentation?
-
-This talk shares the experiences I've had with documentation at Twitter since coming aboard as part of the newly formed university engineering education division. In particular I'd like to discuss: 
-
-* Building and distributing documentation tools for a large in-house technical audience
-* Evangelizing for broader developer participation in documentation
-* Using rewards, policies, metrics, and public shame to drive documentation quality
 
 
 Zach Corleissen - More Than a Reference: Better APIs through Empathy
