@@ -39,7 +39,12 @@ Drawing on my experiences as a UX Researcher and an academic HCI background, I i
 Susan Salituro - From Docs to Engineering and Back Again
 --------------------------------------------------------
 
-When you head into a career as an API technical writer, you’re treading dangerously close to engineering territory. You have to know enough about software developer to write for an audience of developers, yet you also have to be an experienced and efficient writer of English prose. When a writer crosses the line into software development, how does she balance the need to write with the need to code (short of criticizing the grammar in code comments)? This is the story of how I started out as a technical writer, transitioned to release engineering, and came back to the documentation world, and what that experience taught me. 
+When you head into a career as an API technical writer, you’re treading dangerously close to engineering territory. You have to know enough about software development to write for an audience of software engineers, yet you also have to be an experienced and efficient writer of English prose. When a writer crosses the line into software development, how does she balance the need to write with the need to code (short of criticizing the grammar in code comments)?
+
+This is the story of how I began migrating between the documentation and software engineering worlds, how the combination of the two can form a valid career, and some of the insights I gained about both roles in the process. 
+
+Biographical Info: 
+Susan is a software infrastructure engineer and former technical writer at Pixar Animation Studios. 
 
 
 R. N. Homer Christensen - Flow: A Permaculture Approach to Documentation Projects
