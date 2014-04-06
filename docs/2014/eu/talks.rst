@@ -1,11 +1,8 @@
 Write the Docs EU 2014 Presentations
 ====================================
 
-.. note:: If these talks look interesting, you should `get a ticket`_.
-
-.. _get a ticket: http://eutickets.writethedocs.org/
-
-You can see the final :doc:`schedule` also.
+.. note:: We've posted most of the speaker slides! If you're looking for one you don't see here, `let us know`_. 
+.. _let us know: writethedocs@gmail.com
 
 
 Thomas Parisot - README Driven Development
@@ -19,10 +16,14 @@ As we hate specs and like to KISS, let's write documentation first, including ex
 
 As a bonus, it works pretty well for Github's Pull Requests too!
 
+`Slides <https://oncletom.io/talks/2014/writethedocs/>`_
+
 Shwetank Dixit - Challenges and approaches taken with the Opera Extension Docs
 ------------------------------------------------------------------------------
 
 When Opera switched to a Chromium code base (which included most of its extension system), we had a vexing challenge - How do you take something as great as the Chrome extension docs and try to improve upon it? We'll highlight the difficulties Opera faced on improving upon a great product, the tools we are using to do it, and how we're ultimately striving to build a more friendly set of documentation and tutorials. 
+
+:download:`Slides </files/presentations/eu/shwetank-dixit.pdf>`
 
 Elizabeth Urello - Blogging as Non-Traditional Support Documentation
 --------------------------------------------------------------------
@@ -30,6 +31,8 @@ Elizabeth Urello - Blogging as Non-Traditional Support Documentation
 Starting an educational, interactive blog about your product is an easy and immediate way to open a new, more effective conversation with your user base. Through blogging, you can explore what sort of help works best for your users, and you can apply that knowledge to improve your traditional support documentation as well. 
 
 I'll discuss how you can use blogging to:  build your users' overall knowledge in a gradual and fun way; transform documentation into conversation; and create an ongoing relationship with your users that's based around creativity rather than troubleshooting.
+
+`Slides <https://speakerdeck.com/eurello/blogging-as-non-traditional-support-documentation/>`_
 
 
 Sebastien Goasguen - Going from Publican to Read the Docs
@@ -41,9 +44,10 @@ In this talk we will show how we are migrating all our documentation from public
 
 This talk will be a tale of switching documentation format for a major open source project, pros and cons and tips along the way.
 
+`Slides <http://www.slideshare.net/sebastiengoasguen/moving-from-publican-to-read-the-docs/>`_
+
 Fintan Bolton - The community wrote my docs!
 --------------------------------------------
-
 In the world of Open Source software, writers can usually tap into a
 rich resource of content, provided by a community of volunteers and
 posted (typically) on a collaborative Wiki site. When it comes to
@@ -59,10 +63,11 @@ close you can get to that point and what obstacles lie in the way.
 
 Jessica Rose - Tone in Documentation
 ------------------------------------
-
 This talk will explore how to balance appropriate tone selection in documentation with creating clear and useful documentation. Used well, the tone of your documentation can help you communicate the voice of your brand, who your desired audience is, what you hope for users to accomplish and more. Awkwardly applied or overreaching tone use may instead patronize users or turn them off of your product.
  
 We'll take a look at real world examples of great tone in documentation and documentation where it misses the mark with the hope that it will leave participants better able to incorporate audience effective tone into their docs.
+
+`Slides <http://closetoclever.com/tone-documentation/>`_
 
 
 Robert Lehmann - Self-Directed Learning Material
@@ -73,6 +78,8 @@ The domain of Open Educational Resources has seen a huge uplift in the past mont
 The OpenTechSchool has been giving self-directed workshops under the supervision of volunteer coaches for almost two years now. In its course it created some well-received and well-acclaimed learning material, including "Python for beginners." Among its core values is self-direction, hands-on learning, and internationalization. This talk will describe how the material came into place, improved over time, and has been successfully utilized in a community initiative.
 
 The speaker has been involved in the conception and maintenance of the "Python for beginners" material and is an active OpenTechSchool coach and organizer.
+
+`Slides <https://speakerdeck.com/lehmannro/self-directed-learning-material/>`_
 
 Christine Burwinkle - Pairing with designers to create a seamless user experience
 ---------------------------------------------------------------------------------
@@ -89,6 +96,8 @@ I'll share:
 
 - A look at how to make this strategy a success (how to start small, how to pick the right project, how to get buy-in from designers, managers, and others)
 
+`Slides <http://www.slideshare.net/ChristineBurwinkle/write-the-docs-2014-eu/>`_
+
 Kelly O'Brien - Engage or Die: Four Techniques for Writing Indispensable Docs
 -----------------------------------------------------------------------------
 
@@ -96,6 +105,7 @@ No matter how detailed, how thorough, or how well organized you make your docume
 
 In this talk, I will introduce four writing techniques, and show you how to use them to build docs that your readers will relate to and rely on.  
 
+`Slides <https://speakerdeck.com/kobrien042/engage-or-die-four-techniques-for-writing-indispensable-docs/>`_
 
 Mikey Ariel - Your Personal Tech-Writing Agile Manifesto (or: Scrum is not a 4-character word)
 ----------------------------------------------------------------------------------------------
@@ -116,6 +126,8 @@ So what does make agile methodologies work, and how can I, a free-thinking, self
 
 \* Mikey Ariel is a senior technical writer at Red Hat, with writing experience in waterfall and agile environments. As luck (or misfortune) would have it, she also trained and worked as a scrum master long enough to form a semi-educated philosophy about life, the universe, and stand-up meetings.
 
+:download:`Slides </files/presentations/eu/mikey-ariel.pdf>`
+
 Idan Gazit - Advanced Web Typography
 ------------------------------------
 
@@ -130,6 +142,8 @@ Some highlights:
 * Icon fonts, and semantic use thereof
 * JavaScript tools like fittext.js and lettering.js
 
+`Slides <https://speakerdeck.com/idangazit/web-typography-state-of-the-art/>`_  •  `Lightning talk slides <https://speakerdeck.com/idangazit/sketching-in-five-minutes/>`_
+
 Markus Zapke-Gründemann - Writing multi-language documentation using Sphinx
 ---------------------------------------------------------------------------
 
@@ -137,10 +151,14 @@ How to write multi-language documentation? What tools can you use? What mistakes
 
 This talk is based on the experiences I gathered while working on several multi-language documentation projects using Sphinx. I will talk about how Sphinx internationalization support works, which tools and services I use and how to organize the translation workflow. Finally I will have a look at what the future of internationalization in Sphinx might bring.
 
+`Slides <https://t.co/MlIZiyd4Nh/>`_
+
 Jannis Leidel - Search and find. How we made MDN discoverable
 -------------------------------------------------------------
 
 The Mozilla Developer Network (MDN) is a wiki on which volunteers and Mozilla staff writers document the open Web, Mozilla technologies, Firefox OS, and other developer topics. In 2013 we relaunched it with a new look and feel as well as many changes to the underlying technology. In this talk I look back at how we took content discoverability into account and how we’re continuing to improve the site in 2014.
+
+:download:`Slides </files/presentations/eu/jannis-leidel.pdf>`
 
 Tom Christie - Designing MkDocs
 -------------------------------
@@ -164,6 +182,8 @@ an open source project we are working on) that can be used to
 automatically test or even update documentation as part of your
 continuous integration process.
 
+`Slides <https://docs.google.com/presentation/d/1OIx6Be2kmBMlv1BK5-erXH7EfiO7Y0ZNRMEm0SHcIdw/edit#slide=id.g1decb850a_00/>`_
+
 
 David Hooker - What I have taught developers about writing
 ----------------------------------------------------------
@@ -182,3 +202,5 @@ Last year I pounced on a chance to write a book about d3.js. Yes! My first book 
 But I soon found out that stuffing EVERYTHING into 120 pages is ... hard. Editors get in the way and publishers have deadlines and by the time the book came out I hated it. It's too fast paced, people can't learn from it, and all the examples I was so proud of are kind of lame.
 
 Turns out there's a reason why so many technical books are bad. In this talk I'm going to explain why I don't like mine and how you can do better.
+
+`Slides <https://www.dropbox.com/sh/s0dygaixn76dnrs/SifzBWWwKy/>`_

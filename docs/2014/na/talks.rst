@@ -43,9 +43,6 @@ When you head into a career as an API technical writer, you’re treading danger
 
 This is the story of how I began migrating between the documentation and software engineering worlds, how the combination of the two can form a valid career, and some of the insights I gained about both roles in the process. 
 
-Biographical Info: 
-Susan is a software infrastructure engineer and former technical writer at Pixar Animation Studios. 
-
 
 R. N. Homer Christensen - Flow: A Permaculture Approach to Documentation Projects
 ---------------------------------------------------------------------------------
