@@ -264,13 +264,7 @@ Given the investment in STEM education nationwide, there will be an increased ne
 
 Steve Stegelin - Bringing UA into the UX (and Vice Versa)
 --------------------------------------------- 
-Answers to users' questions are often provided by the user assistance (UA); typically a Help file accessed from the application. If you think about traditional software UA, odds are you envision a long-established, industry-wide pattern: The user uses the Help menu or a small ? icon to open the Help file, which displays content — hopefully context-sensitive — in a separate tri-pane window or browser. 
-
-The tri-pane view, with its Table of Contents and pages of content, paints an almost bookish reading experience. While the book metaphor may have once been appropriate, it now feels antiquated and contrary to the concise, focused content audiences now expect when reading elsewhere online. Also, the lengthy TOC, while a helpful navigation tool, can imply a level of complexity to both the Help and the product itself and may intimidate users.
-
-Perhaps most troublesome: While the separate window or browser effectively displays the Help content, it completely removes the user from the application and their task-at-hand; a likely frustrating UX for busy users pressed for time. So the question becomes, ""How do we provide user assistance that engages and informs but doesn't keep the user from their task-at-hand?"" 
-
-The solution: Rethink the UX of UA. From a content perspective, there are many strategies writers can take to make UA read less "bookish" and more similar to other content found online. For example, writing with progressive disclosure and the inverted pyramid in mind helps create shorter chunks of topics that foster ""information grazing"" so users can quickly obtain knowledge. The result is focused content and a more direct UX, where users can be more selective in the content they read and have a clear path to detailed information. The big win, however, comes by providing a fully integrated and seamless UX between the application and its Help file. To do this, we design a tabbed panel to bring the Help directly into the application, surfacing context-sensitive UA where the user already is rather than a separate UI. With this tighter integration between the UA and its application, users can better find answers, educate themselves, and maximize the potential of the features they use.
+In this talk, we'll discuss the part user assistance plays in the overall user experience, including a hard look at the perception we sometimes hear that "UA indicates a failed design." We'll also talk about how Blackbaud's focus on the UX of UA has lead to innovative content, engaged audiences, and a complete rethinking of the traditional UX of Help.
 
 
 James Pearson - Don't Write Documentation
