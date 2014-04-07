@@ -151,7 +151,7 @@ How to write multi-language documentation? What tools can you use? What mistakes
 
 This talk is based on the experiences I gathered while working on several multi-language documentation projects using Sphinx. I will talk about how Sphinx internationalization support works, which tools and services I use and how to organize the translation workflow. Finally I will have a look at what the future of internationalization in Sphinx might bring.
 
-`Slides <https://t.co/MlIZiyd4Nh/>`_
+`Slides <https://speakerdeck.com/keimlink/writing-multi-language-documentation-using-sphinx/>`_
 
 Jannis Leidel - Search and find. How we made MDN discoverable
 -------------------------------------------------------------
