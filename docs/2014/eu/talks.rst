@@ -168,6 +168,8 @@ MkDocs is a tool for creating documentation from Markdown, that's focused on sim
 This talk will explore the background, motivation and design of this new documentation builder.
 We'll also look at how to write, theme and publish your documentation with MkDocs, and compare it against some other existing tools.
 
+:download:`Slides </files/presentations/eu/tom-christie.pdf>`
+
 Kristof Van Tomme - Keeping trust: Testing documentation as part of a continuous integration process
 ----------------------------------------------------------------------------------------------------
 
@@ -193,6 +195,8 @@ And to a lesser extent, what they may have taught me.
 I arrived at Prezi as a technical writer used to dealing with engineers of the construction variety. The only developer I’d ever met previously was my mum. I now work long hours writing material that explains, promotes, evangelizes, and sometimes even influences their work. 
 
 This talk is about the challenges, learning curves, and (most importantly) vaguely amusing anecdotes of my eighteen months living amongst those who code. Or to put it in developer-speak, I include best practices as well as experiences of how I messed up when trying to convince 120 engineers that they needed to place greater value on words, write more often, and that they needed my help doing it. 
+
+`Slides <https://prezi.com/e62_4bdw0j2y/how-i-see-developers-and-writing/>`_
 
 Swizec Teller - What I learned writing a lousy tech book
 --------------------------------------------------------
