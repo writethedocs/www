@@ -184,7 +184,8 @@ So what happens when you turn that idea on its head, that is to say, 'write the 
 In the WordPress open source project, we did that. We developed an inline documentation standard using 10 years of contributions as a starting place.
 
 This talk will cover some of the challenges we overcame to develop a new standard using legacy documentation.
-Also:
+Also:  
+
 * Tools we used to assess our existing documentation "style".
 * How our new standards have been applied in practice.
 * How having a standard has allowed the docs team to rise to equal footing.
