@@ -57,7 +57,7 @@ Lola's Room
 .. csv-table::
    :header: Time, Session
    :widths: 20, 70
-   :file: ../../_data/na2014-day2.csv
+   :file: ../../_data/na2014-lola-day2.csv
 
 .. _Map: http://goo.gl/maps/jvk49
 .. _Atlassian: https://www.atlassian.com/
