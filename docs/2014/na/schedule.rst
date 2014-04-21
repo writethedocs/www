@@ -11,7 +11,7 @@ Check out the :doc:`talks` to see full descriptions of each talk.
 Day 0
 -----
 
-Join us for a Pre-Registration event at Urban Airship held from 5-8pm.
+Join us for a Pre-Registration event at Urban Airship (`Map`_) held from 5-8pm.
 Grab your badge and shirt early,
 and get to know other documentarians with provided drinks.
 
@@ -59,5 +59,6 @@ Lola's Room
    :widths: 20, 70
    :file: ../../_data/na2014-day2.csv
 
+.. _Map: http://goo.gl/maps/jvk49
 .. _Atlassian: https://www.atlassian.com/
 .. _Twitter: https://twitter.com/
