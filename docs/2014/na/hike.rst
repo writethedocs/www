@@ -8,7 +8,7 @@ In this spirit, we'll be having an official pre-conference hike!
 Logistics
 ---------
 
-* Date & Time: **Sunday, May 4, 1 PM**. The day before the conference.
+* Date & Time: Leaves promptly at **Sunday, May 4, 1 PM**. Meet at **12:45**.
 * Start: **Lower Macleay Park** or `Macleay Park Entrance`_. There is a pavilion at the park entrance where we will gather.
 * End: **Oregon Zoo** -- There is a MAX stop here to take us back downtown.
 * `Visual of the hike`_
