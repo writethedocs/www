@@ -17,6 +17,9 @@ We will be hiking in the amazing `Forest Park`_, the largest urban forested park
 It is conveniently located in Northwest Portland, not far from the conference venue.
 It's about a 35 minute walk, or you can `take transit`_ to make it a bit quicker.
 
+.. note:: The hike does not end where it starts. Take this into consideration with your planning.
+          There is an out-and-back option if you choose to just go to Pittock Mansion, then return back down.
+
 What to bring
 ~~~~~~~~~~~~~
 
