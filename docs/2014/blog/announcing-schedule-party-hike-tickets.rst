@@ -27,16 +27,18 @@ drinks. Bring your badge, grab a refreshment, and challenge someone to a
 `Ground Kontrol`_ is located at 511 NW Couch St. We'll be there from
 7:00-9:00 PM Monday night.
 
-If Tekken or Frogger isn't your thing, we'll be announcing another venue
-option soon.
+If Tekken or Frogger isn't your thing, we'll have another venue option for you to hang out at also.
 
-Hike with your fellow documentarians
-------------------------------------
+Get your hike ticket
+--------------------
 
 Join us for a hike through the Portland hills on Sunday afternoon. We go
 slow so you can take in the views of Mount Hood and Mount St. Helens.
-Our hike ends at `Bailey's Tap Room`_, home to more than 20 rotating
-taps of beer.
+
+We can't bring the whole conference onto a single trail,
+so there are a *limited number* of hike tickets.
+Please `get a ticket`_ for the hike now,
+if you wish to come.
 
 We leave at 1:00 PM from the Macleay Park entrance. `Check out route
 details, tips, and photos here`_.
@@ -44,7 +46,7 @@ details, tips, and photos here`_.
 Get excited
 -----------
 
-We're looking forward to seeing you in a few weeks. These conferences
+We're looking forward to seeing everyone in a couple weeks. These conferences
 are about more than sharing best practices for doc: they're about
 creating living, breathing communities. Expect to meet great people and
 learn interesting things.
@@ -59,3 +61,4 @@ We're more than happy to help.
 .. _Ground Kontrol: http://groundkontrol.com/
 .. _Bailey's Tap Room: http://www.baileystaproom.com/
 .. _Check out route details, tips, and photos here: http://docs.writethedocs.org/2014/na/hike/
+.. _get a ticket: https://ti.to/writethedocs/write-the-docs-na?release_id=x0shvedvqpg
