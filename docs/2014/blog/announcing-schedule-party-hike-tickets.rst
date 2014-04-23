@@ -52,7 +52,8 @@ learn interesting things.
 Feel free to reply to this email if you have any questions or issues.
 We're more than happy to help.
 
-See you soon! - The Write the Docs Team
+| See you soon! 
+| - The Write the Docs Team
 
 .. _4-player Pac Man: http://www.flickr.com/photos/kennethreitz/8635574190/
 .. _Ground Kontrol: http://groundkontrol.com/
