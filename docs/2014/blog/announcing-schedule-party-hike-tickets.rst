@@ -11,8 +11,8 @@ Check out the schedule
 ----------------------
 
 We have an amazing lineup this year. We intentionally curated a diverse
-array of topics relating to documentation, so you can hear talks ranging
-from writing tone to documenting cryptography libraries.
+array of documentation topics, so you can hear talks ranging
+from tone to documenting cryptography libraries.
 
 Check out the schedule here:
 http://docs.writethedocs.org/2014/na/schedule/
@@ -27,7 +27,7 @@ drinks. Bring your badge, grab a refreshment, and challenge someone to a
 `Ground Kontrol`_ is located at 511 NW Couch St. We'll be there from
 7:00-9:00 PM Monday night.
 
-If Tekken or Frogger isn't your thing, we'll have another venue option for you to hang out at also.
+If Tekken or Frogger isn't your thing, we're announcing another venue option soon.
 
 Get your hike ticket
 --------------------
@@ -37,8 +37,7 @@ slow so you can take in the views of Mount Hood and Mount St. Helens.
 
 We can't bring the whole conference onto a single trail,
 so there are a *limited number* of hike tickets.
-Please `get a ticket`_ for the hike now,
-if you wish to come.
+`Get a ticket`_ for the hike if you'd like to come.
 
 We leave at 1:00 PM from the Macleay Park entrance. `Check out route
 details, tips, and photos here`_.
