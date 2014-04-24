@@ -8,6 +8,8 @@ In this spirit, we'll be having an official pre-conference hike!
 Logistics
 ---------
 
+You need a `free hike ticket`_ to attend this event.
+
 * Date & Time: Leaves promptly at **Sunday, May 4, 1 PM**. Meet at **12:45**.
 * Start: **Lower Macleay Park** or `Macleay Park Entrance`_. There is a pavilion at the park entrance where we will gather.
 * End: **Oregon Zoo** -- There is a MAX stop here to take us back downtown.
@@ -88,3 +90,4 @@ registered for the conference.
 .. _Washington Park: http://washingtonparkpdx.org/
 .. _Hoyt Arboretum: http://www.hoytarboretum.org/
 .. _Oregon Zoo: http://www.oregonzoo.org/
+.. _free hike ticket: https://ti.to/writethedocs/write-the-docs-na?release_id=x0shvedvqpg

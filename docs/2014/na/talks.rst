@@ -223,7 +223,7 @@ Patrick Arlt - Ditch your CMS with Git and Static Site Generators
 --------------------------------------------- 
 The command line can be your best friend! Git is an amazing tool that helps developers collaborate, review and manage code, but these same tool also work for writing and managing documentation.
 
-Learn how we use tools like Git, Middleman and Markdown in building and managing the ArcGIS for Developers website (https://developers.arcigs.com). I'll share some Git basics and give some insight into how we do things like create, collaborate and version our documentation all the way up to how the final website is built and deployed.
+Learn how we use tools like Git, Middleman and Markdown in building and managing the ArcGIS for Developers website (https://developers.arcgis.com). I'll share some Git basics and give some insight into how we do things like create, collaborate and version our documentation all the way up to how the final website is built and deployed.
 
 
 Zach Corleissen - More Than a Reference: Better APIs through Empathy
