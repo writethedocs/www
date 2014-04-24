@@ -48,9 +48,6 @@ are about more than sharing best practices for doc: they're about
 creating living, breathing communities. Expect to meet great people and
 learn interesting things.
 
-Feel free to reply to this email if you have any questions or issues.
-We're more than happy to help.
-
 | See you soon! 
 | - The Write the Docs Team
 
