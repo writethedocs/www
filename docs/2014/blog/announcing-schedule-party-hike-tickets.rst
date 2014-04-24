@@ -1,8 +1,6 @@
 Announcing the Schedule, Party, and Hike Tickets
 ================================================
 
-Hi documentarians,
-
 The conference is almost here! We're looking forward to seeing everyone
 in just a couple of weeks. Here's a few announcements as you prepare for
 Write the Docs.
