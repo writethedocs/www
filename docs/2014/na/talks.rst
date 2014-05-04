@@ -157,9 +157,11 @@ I will use historical examples and my professional experience to argue this posi
 
 Christina Elmore - Death by Documentation
 --------------------------------------------- 
-The urge to document is at the root of many bad presentation habits. 
+The urge to document is at the root of many bad presentation habits.  
 
-Despite a renaissance in the art of presentation - think TED Talks, Nancy Duarte, Prezi, and Ignite – we’ve all experienced more bad presentations than any lifetime deserves. And documentation is frequently to blame. Although documenting and presenting serve different needs and require different methods, many presentations end up being an awkward mash-up of the two. How can we understand and transform this self-defeating urge to document into leaner, more engaging presentations? 
+Despite a renaissance in the art of presentation - think TED Talks, Nancy Duarte, Prezi, and Ignite – we still experience more bad presentations than any lifetime deserves. Even with compelling content and conquered nerves, a presenter’s visual materials can totally tank a talk. And documentation is often to blame.  
+
+The real culprit is a conflation of documentation and presentation. Many slide collections end up being an awkward mash-up of the two, and documents suffer when we force them into the mental model of a presentation. (NASA and the military offer striking examples of these failures.) Why have the differences between documentation and presentation been lost? How can we make better sense of these two forms to create more engaging presentations and better documents?  
 
 
 Christopher Kelleher - Make Music Not Noise
