@@ -240,7 +240,7 @@ What problem your project solves
 
 A lot of people will come to your docs trying to figure out what exactly your project is. Someone will mention it, or they'll google a phrase randomly. You should explain what your project does and why it exists. Fabric_ does a great job of this.
 
-.. _Fabric: http://docs.fabfile.org/en/1.3.4/index.html#about
+.. _Fabric: http://docs.fabfile.org/
 
 A small code example
 ~~~~~~~~~~~~~~~~~~~~
