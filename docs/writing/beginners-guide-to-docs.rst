@@ -3,8 +3,10 @@ A beginners guide to writing documentation
 
 .. note:: This is a write up of a :ref:`Presentation <beginner-presentation>`.
           Please provide feedback to `@ericholscher`_.
+          You can view the source on `GitHub`_.
 
 .. _@ericholscher: http://twitter.com/ericholscher
+.. _GitHub: https://github.com/writethedocs/docs/blob/master/docs/writing/beginners-guide-to-docs.rst
 		
 .. 
 
