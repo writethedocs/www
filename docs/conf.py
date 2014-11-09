@@ -16,7 +16,6 @@ import sys, os
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
-sys.path.insert(0, os.path.abspath('../vendor'))
 
 # -- General configuration -----------------------------------------------------
 
@@ -25,7 +24,7 @@ sys.path.insert(0, os.path.abspath('../vendor'))
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['feed', 'sphinx.ext.doctest']
+extensions = ['sphinx.ext.doctest']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -110,9 +109,23 @@ pygments_style = 'sphinx'
 # a list of builtin themes.
 #html_theme = 'default'
 
-sys.path.append(os.path.abspath('_themes'))
-html_theme_path = ['_themes']
-html_theme = 'kr'
+import alabaster
+
+html_theme_path = [alabaster.get_path()]
+extensions = ['alabaster']
+html_theme = 'alabaster'
+html_sidebars = {
+   '**': [
+       'about.html', 'navigation.html', 'searchbox.html', 
+   ]
+}
+
+html_theme_options = {
+   'logo': 'logo.png',
+   'logo_name': 'Write the Docs',
+   'github_user': 'writethedocs',
+   'github_repo': 'docs',
+}
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -131,7 +144,7 @@ html_theme = 'kr'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = "img/logo.png"
+#html_logo = "img/logo.png"
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -155,6 +168,7 @@ html_static_path = ['_static']
 html_sidebars = {
     '**': [
            'about.html',
+           'links.html',
            'localtoc.html',
            #'relations.html',
            #'sourcelink.html',

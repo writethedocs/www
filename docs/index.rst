@@ -45,35 +45,3 @@ Resources
 * Issues & feature requests: https://github.com/writethedocs/docs/issues
 * Source repository: https://github.com/writethedocs/docs
 
-Meetups
--------
-
-The best way to get involved with the community is your local branch of
-Write the Docs!
-We currently have local meetups happening in cities across the country 
-(tomorrow: the world!).
-If your city isn't listed, feel free to start your own.
-Please `email us`_ if you plan to start a meetup, and we can help get the
-word out.
-
-We currently have meetups in the following cities:
-
-* `San Francisco`_
-* `Boston`_
-* `New York`_
-
-.. _email us: mailto:eric@ericholscher.com?subject=Write%20the%20Docs%20Meetups
-.. _San Francisco: http://www.meetup.com/Write-the-Docs/
-.. _Boston: http://www.meetup.com/Write-The-Docs-Boston/
-.. _New York: http://www.meetup.com/Write-The-Docs-NY/
-
-
-
-Information about Write the Docs Conference
--------------------------------------------
-
-.. toctree::
-   :maxdepth: 2
-
-   2014/index
-

@@ -12,3 +12,4 @@ wsgiref==0.1.2
 sphinxcontrib-testbuild==0.1.2
 rednose
 docutils
+alabaster
