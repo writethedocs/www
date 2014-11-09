@@ -120,6 +120,8 @@ html_sidebars = {
    ]
 }
 
+html_style = "writethedocs.css"
+
 html_theme_options = {
    'logo': 'logo.png',
    'github_user': 'writethedocs',
