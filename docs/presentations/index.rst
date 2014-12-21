@@ -13,7 +13,7 @@ We ship a theme that allows your presentation to have the Write the Docs theme. 
 * :download:`Keynote Master Slides </files/presentations/Write_the_Docs_Theme.kth>`
 * Fonts_
 
-.. _Fonts: https://github.com/writethedocs/docs/tree/master/docs/_themes/kr/static/font
+.. _Fonts: https://github.com/writethedocs/docs/tree/master/docs/_static
 
 .. _beginner-presentation:
 
