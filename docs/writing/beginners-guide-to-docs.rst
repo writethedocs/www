@@ -183,7 +183,7 @@ As programmers we live in a world of plain text.
 Our documentation tooling should be no exception.
 We want tools that turn plain text into pretty HTML.
 We also have some of the best tooling available for tracking changes to files.
-Why would we forgo using those tools when writing documentation.
+Why would we forgo using those tools when writing documentation?
 This workflow is powerful, and familiar to developers.
 
 
