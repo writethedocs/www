@@ -1,4 +1,3 @@
-template: wtd.html
 
 
 <section id="about" class="yellow-sec content">
