@@ -1,3 +1,5 @@
+template: wtd.html
+
 <section id="home">
   <div class="container">
     <div class="row-fluid">

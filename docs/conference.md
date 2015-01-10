@@ -1,4 +1,26 @@
+template: wtd.html
 
+<meta name="ROBOTS" content="ALL">
+
+<meta name="geo.country" content="US">
+<meta name="dc.language" content="en">
+<meta name="geo.placename" content="Portland, Oregon">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Open Graph protocol -->
+<meta property="og:image" content="http://conf.writethedocs.org/img/logo.png">
+<meta property="og:title" content="A two day conference for technical writers, documentarians, and all those who write the docs.">
+<meta property="og:type" content="conference">
+<meta property="og:url" content="http://conf.writethedocs.org/na/2014/index.html">
+<meta property="og:site_name" content="Write The Docs">
+<!-- /Open Graph protocol -->
+
+<!-- Google Plus1 -->
+<meta itemprop="name" content="Write The Docs">
+<meta itemprop="description" content="A two day conference for technical writers, documentarians, and all those who write the docs.">
+<meta itemprop="image" content="http://conf.writethedocs.org/img/logo.png">
+<!-- /Google Plus1 -->
 
 <section id="about" class="yellow-sec content">
   <div class="container">

@@ -1,36 +1,12 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>{{ page_title }}</title>
-  <meta name="description" content="A two day conference for technical writers, documentarians, and all those who write the docs.">
+  {% if page_description %}<meta name="description" content="{{ page_description }}">{% endif %}
+  {% if site_author %}<meta name="author" content="{{ site_author }}">{% endif %}
+  {% if canonical_url %}<link rel="canonical" href="{{ canonical_url }}">{% endif %}
 
-  <meta name="author" content="Write the Docs">
-  <meta name="ROBOTS" content="ALL">
-
-  <meta name="geo.country" content="US">
-  <meta name="dc.language" content="en">
-  <meta name="geo.placename" content="Portland, Oregon">
-
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <!-- Open Graph protocol -->
-  <meta property="og:image" content="http://conf.writethedocs.org/img/logo.png">
-  <meta property="og:title" content="A two day conference for technical writers, documentarians, and all those who write the docs.">
-  <meta property="og:type" content="conference">
-  <meta property="og:url" content="http://conf.writethedocs.org/na/2014/index.html">
-  <meta property="og:site_name" content="Write The Docs">
-  <!-- /Open Graph protocol -->
-
-  <!-- Google Plus1 -->
-  <meta itemprop="name" content="Write The Docs">
-  <meta itemprop="description" content="A two day conference for technical writers, documentarians, and all those who write the docs.">
-  <meta itemprop="image" content="http://conf.writethedocs.org/img/logo.png">
-  <!-- /Google Plus1 -->
 
   <link rel="stylesheet" href="{{ base_url }}/css/vendor/bootstrap/bootstrap.min.css">
   <link rel="stylesheet" href="{{ base_url }}/css/vendor/bootstrap/bootstrap-responsive.min.css">
@@ -39,9 +15,8 @@
     <link href="{{ base_url }}/css/prettify-1.0.css" rel="stylesheet">
     <link href="{{ base_url }}/css/base.css" rel="stylesheet">
   <link rel="stylesheet" href="{{ base_url }}/css/font/aleo.css">
-    <link rel="stylesheet" href="{{ base_url }}/css/font/fontello.css"><!--[if IE 7]>
-    <link rel="stylesheet" href="{{ base_url }}/css/font/fontello-ie7.css"><![endif]-->
-    <link rel="stylesheet" href="{{ base_url }}/css/2015.main.css">
+    <link rel="stylesheet" href="{{ base_url }}/css/font/fontello.css">
+    {# <link rel="stylesheet" href="{{ base_url }}/css/2015.main.css"> #}
     <link rel="stylesheet" href="colors.css">
 
     <script src="http://www.google-analytics.com/ga.js"></script>
