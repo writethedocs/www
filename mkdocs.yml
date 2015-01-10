@@ -1,0 +1,3 @@
+site_name: Write the Docs
+theme_dir: theme
+docs_dir: .
