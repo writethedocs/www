@@ -14,6 +14,9 @@ nav.navbar {
 div.hero {
     background: #40466e;
     color: #f2f0eb;
+}
+
+div.hero div.row.row-logo {
     padding: 1em 0em;
     font-size: 6em;
     font-weight: bold;
@@ -22,6 +25,11 @@ div.hero {
 
 div.hero-wtd {
     text-align: right;
+    text-transform: uppercase;
+}
+
+div.hero-wtd > div {
+    text-transform: uppercase;
 }
 
 div.hero-wtd div.wtd-2015 {
@@ -31,18 +39,53 @@ div.hero-wtd div.wtd-2015 {
 div.hero-details {
     padding-top: 1.85em;
     font-weight: 100;
+    text-transform: uppercase;
     color: #b0b2c7;
 }
 
 div.hero-details > div {
     font-size: .55em;
     font-weight: 100;
+    text-transform: uppercase;
     line-height: 1em;
     text-align: left;
 }
 
-/* Author elements */
+div.hero-nav {
+    padding: .35em;
+    font-size: 1.3em;
+    font-weight: 100;
+    text-align: center;
+    text-transform: uppercase;
+    color: #f2f0eb;
+}
 
+div.hero-nav a:link,
+div.hero-nav a:visited {
+    color: #f2f0eb;
+}
+
+div.hero-nav a:hover,
+div.hero-nav a:active {
+    background: #b37a73;
+    color: #f2f0eb;
+}
+
+/* Author elements */
 h1, h2, h3, h4, h5, h6 {
     text-transform: uppercase;
+}
+
+/* Common elements and boostrap classes */
+ul.nav.nav-center,
+ul.nav.nav-center > li {
+    float: none;
+    display: inline-block;
+    *display:inline; /* ie7 fix */
+    *zoom:1; /* hasLayout ie7 trigger */
+    vertical-align: top;
+}
+
+ul.nav.nav-center {
+    text-align: center;
 }
