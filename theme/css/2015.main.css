@@ -1,5 +1,9 @@
 /* Write the Docs - 2015 */
 
+body {
+    background-color: #f2f0eb;
+}
+
 /* Nav */
 div.navbar,
 nav.navbar {
@@ -16,12 +20,16 @@ div.hero {
     line-height: 1em;
 }
 
+div.hero-wtd {
+    text-align: right;
+}
+
 div.hero-wtd div.wtd-2015 {
     color: #b37a73;
 }
 
 div.hero-details {
-    padding-top: 2.5em;
+    padding-top: 1.85em;
     font-weight: 100;
     color: #b0b2c7;
 }
@@ -30,5 +38,5 @@ div.hero-details > div {
     font-size: .55em;
     font-weight: 100;
     line-height: 1em;
-    text-align: right;
+    text-align: left;
 }
