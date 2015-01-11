@@ -8,9 +8,22 @@ We are excited to announce the Write the Docs Portland dates for 2015! We are ba
 
 The dates are again on a Monday and Tuesday. We will be announcing pricing information soon. 
 
+### Events
+
+Write the Docs is more than a conference. Each year we have a bunch of auxilary events so that people can get to know each other better. This year, those events will include:
+
+* Hike (Saturday day) - Enjoy the magestic beauty of Portland with this walk in the woods.
+* Writing Day (Sunday day) - Get together and actually *write the docs* with your fellow documentarians. Work on open source documentation (Wordpress, Mozilla Developer Network), and share tips and tricks.
+* Pre-Registration (Sunday Night) - Come early and get your badge and get to know folks
+* Official Party (Monday Night) - Wind down and talk about the days talks in a relaxed and friendly environment
+
 ### About
 
 For the uninitiated, Write the Docs is ...
+
+### Venue
+
+We are back at the beautiful Crystal Ballroom. It's centrally located in Portland, and a beautiful place to spend a couple days.
 
 ### Stay up to date
 
