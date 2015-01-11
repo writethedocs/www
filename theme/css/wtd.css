@@ -24,13 +24,13 @@ p {
 /* Navbar */
 div.navbar {
     background: #F2F0EB;
-    color: #446;
+    color: #334;
     font-weight: normal;
 }
 
 div.navbar ul.nav li a:link,
 div.navbar ul.nav li a:visited {
-    color: #446;
+    color: #334;
     font-size: 1.3em;
 }
 
@@ -38,12 +38,12 @@ div.navbar ul.nav li a:hover,
 div.navbar ul.nav li a:active,
 div.navbar ul.nav li.active a:link {
     background: #E2E0DB;
-    color: #446;
+    color: #334;
     font-size: 1.3em;
 }
 
 div.navbar div.container a.navbar-brand {
-    color: #446;
+    color: #334;
     font-size: 1.3em;
     font-family: Aleo;
     font-weight: bold;

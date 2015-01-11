@@ -12,7 +12,7 @@ nav.navbar {
 
 /* Hero */
 div.hero {
-    background: #4a4f6e;
+    background: #40466e;
     color: #f2f0eb;
     padding: 1em 0em;
     font-size: 6em;
@@ -39,4 +39,10 @@ div.hero-details > div {
     font-weight: 100;
     line-height: 1em;
     text-align: left;
+}
+
+/* Author elements */
+
+h1, h2, h3, h4, h5, h6 {
+    text-transform: uppercase;
 }
