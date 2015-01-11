@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block head_link %}
+  {{ super() }}
+  <link href="{{ base_url }}/css/2015.main.css" rel="stylesheet" />
+{% endblock %}
+
+{% block container %}
+  <div class="hero">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 col-md-offset-2 hero-wtd">
+          <div>WRITE</div>
+          <div>THE</div>
+          <div>DOCS</div>
+          <div class='wtd wtd-2015'>2015</div>
+        </div>
+        <div class="col-md-4 hero-details">
+          <div>MAY 18-19</div>
+          <div>PORTLAND</div>
+          <div>OREGON</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1">
+        {% include "content.html" %}
+      </div>
+    </div>
+  </div>
+{% endblock %}

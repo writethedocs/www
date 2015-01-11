@@ -1,2 +1,12 @@
 site_name: Write the Docs
 theme_dir: theme
+pages:
+  - ['index.md', 'Write the Docs']
+  - ['conf/index.md', 'Conference']
+  - ['conf/na/2015.md', 'Conference', '2015 North America']
+  - ['conf/eu/2015.md', 'Conference', '2015 Europe']
+  - ['conf/na/2014.md', 'Conference', '2014 North America']
+  - ['conf/eu/2014.md', 'Conference', '2014 Europe']
+  - ['conf/na/2013.md', 'Conference', '2013 North America']
+  - ['conf/eu/2013.md', 'Conference', '2013 Europe']
+  - ['meetups.md', 'Meetups']
