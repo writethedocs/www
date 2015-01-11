@@ -22,8 +22,8 @@ North America Mailing List
 
 **Ticket announcements and other important information will be sent to these lists.** You can also find us on online at other places:
 
-[Write the Docs Twitter](https://twitter.com/writethedocs)
-[Lanyard](http://lanyrd.com/2015/writethedocs/)
+* [Write the Docs Twitter](https://twitter.com/writethedocs)
+* [Lanyard](http://lanyrd.com/2015/writethedocs/)
 
 
 ### Speakers
