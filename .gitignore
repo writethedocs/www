@@ -5,3 +5,5 @@ src/
 lib/
 *.swp
 *.swo
+.DS_Store
+site
