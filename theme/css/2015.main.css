@@ -12,43 +12,25 @@ nav.navbar {
 
 /* Hero */
 div.hero {
-    background: #40466e;
+    background-color: #40466e;
     color: #f2f0eb;
 }
 
 div.hero div.row.row-logo {
-    padding: 1em 0em;
-    font-size: 6em;
-    font-weight: bold;
-    line-height: 1em;
+    height: 350px;
+    padding: 50px 0px 25px 0px;
+    background-image: url('../img/2015/logo.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 
-div.hero-wtd {
-    text-align: right;
-    text-transform: uppercase;
-}
-
-div.hero-wtd > div {
-    text-transform: uppercase;
-}
-
-div.hero-wtd div.wtd-2015 {
-    color: #b37a73;
-}
-
-div.hero-details {
-    padding-top: 1.85em;
-    font-weight: 100;
-    text-transform: uppercase;
-    color: #b0b2c7;
-}
-
-div.hero-details > div {
-    font-size: .55em;
-    font-weight: 100;
-    text-transform: uppercase;
-    line-height: 1em;
-    text-align: left;
+@media (min-width: 768px) {
+    div.hero div.row.row-logo {
+        height: 475px;
+        background-size: 750px 400px;
+        background-position: center 50px;
+    }
 }
 
 div.hero-nav {
@@ -57,6 +39,7 @@ div.hero-nav {
     font-weight: 100;
     text-align: center;
     text-transform: uppercase;
+    background-color: #40466e;
     color: #f2f0eb;
 }
 
@@ -71,10 +54,38 @@ div.hero-nav a:active {
     color: #f2f0eb;
 }
 
+div.hero-nav li.highlight a {
+    padding: 9px 14px;
+    font-weight: bold;
+}
+
+div.hero-nav li.highlight a:link,
+div.hero-nav li.highlight a:visited {
+    border: 1px solid #ab7774;
+    color: #ab7774;
+}
+
+div.hero-nav li.highlight a:hover,
+div.hero-nav li.highlight a:active {
+    border: 1px solid #f2f0eb;
+    color: #f2f0eb;
+    background: none;
+}
+
 /* Author elements */
 h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: .5em;
     text-transform: uppercase;
+    font-weight: 200;
+    color: #40466e;
 }
+
+a:link,
+a:visited { color: #40466e; }
+
+a:hover,
+a:active { color: #; }
 
 /* Common elements and boostrap classes */
 ul.nav.nav-center,
