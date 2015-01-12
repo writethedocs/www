@@ -82,10 +82,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a:link,
-a:visited { color: #40466e; }
+a:visited { color: #9b6764; }
 
 a:hover,
-a:active { color: #; }
+a:active { color: #8b5754; }
 
 /* Common elements and boostrap classes */
 ul.nav.nav-center,
