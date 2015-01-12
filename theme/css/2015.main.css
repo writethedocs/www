@@ -81,11 +81,31 @@ h1, h2, h3, h4, h5, h6 {
     color: #40466e;
 }
 
+p {
+    margin-bottom: .5em;
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+
 a:link,
 a:visited { color: #9b6764; }
 
 a:hover,
 a:active { color: #8b5754; }
+
+/* Footer */
+div.footer {
+    margin-top: 2em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    font-size: 1.1em;
+    line-height: 32px;
+    background: #fff;
+}
+
+div.footer span {
+    padding: 0em .4em;
+}
 
 /* Common elements and boostrap classes */
 ul.nav.nav-center,

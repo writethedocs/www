@@ -21,6 +21,7 @@
     <link href="{{ base_url }}/css/font-awesome-4.0.3.css" rel="stylesheet" />
     <link href="{{ base_url }}/css/prettify-1.0.css" rel="stylesheet" />
     <link href="{{ base_url }}/css/font/aleo.css" rel="stylesheet" />
+    <link href="{{ base_url }}/css/font/fontello.css" rel="stylesheet" />
     <link href="{{ base_url }}/css/wtd.css" rel="stylesheet" />
 
     {% block head_link %}
@@ -74,15 +75,19 @@
     {% endblock %}
 
     {% block footer %}
-      <footer class="col-md-12">
-        <span>&copy; Write The Docs 2015</span>
-        <span id="social-footer" class="pull-right">
-          <span><a href="https://github.com/writethedocs"><i class="iconf-github-circled-alt2"></i></a></span>
-          <span><a href="https://twitter.com/writethedocs"><i class="iconf-twitter-circled"></i></a></span>
-          <span><a href="http://webchat.freenode.net?channels=writethedocs">#writethedocs</a></span>
-          <span><a href="{{ base_url }}/code-of-conduct.html">Code of Conduct</a></span>
-        </span>
-      </footer>
+    <div class="footer">
+      <div class="container">
+        <div class="col-md-10 col-md-offset-1">
+          <span>&copy; Write The Docs 2015</span>
+          <span id="social-footer" class="pull-right">
+            <span><a href="https://github.com/writethedocs"><i class="iconf-github-circled-alt2"></i></a></span>
+            <span><a href="https://twitter.com/writethedocs"><i class="iconf-twitter-circled"></i></a></span>
+            <span><a href="http://webchat.freenode.net?channels=writethedocs">#writethedocs</a></span>
+            <span><a href="{{ base_url }}/code-of-conduct.html">Code&nbsp;of&nbsp;Conduct</a></span>
+          </span>
+        </div>
+      </div>
+    </div>
     {% endblock %}
 
     {% if include_search %}{% include "search.html" %}{% endif %}
