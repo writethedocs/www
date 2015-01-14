@@ -2,7 +2,7 @@
 Write the Docs Meetups
 ======================
 
-**Write the Docs** Meetups allow for documentarians to get to know their
+**Write the Docs Meetups** allow for documentarians to get to know their
 local community better. Meeting in person is a great way to stay up to
 date with the documentation world, and meet some great people in the
 process.
