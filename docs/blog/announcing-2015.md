@@ -2,18 +2,17 @@
 
 We are excited to announce the dates for the 2015 conference!
 
-* [Write the Docs North America](http://www.writethedocs.org/conf/na/2015/) will be in **Portland, Oregon on May 17-19.**
+* [Write the Docs North America](http://www.writethedocs.org/conf/na/2015/) will be in **Portland, Oregon on May 17-19, 2015.**
 * The conference will be held at the **Crystal Ballroom** in Downtown Portland.
 
 ### Conference
 
-Join us for a three day event to explore the art and science of documentation.
-You can look forward to learning more about documentation systems, tech writing theory, and information delivery.
+Join us for a three-day event to explore the art and science of documentation.
+You can look forward to learning more about documentation systems, tech writing theory, information delivery, and more.
 Past talks have also covered such diverse topics as typography, empathy, and [Wabi-sabi][wabisabi].
 
 The main event takes place from May 18-19 (Monday and Tuesday) from 9am to 6pm.
-We will return to the historic [Crystal Ballroom][crystal-ballroom],
-[centrally located](http://goo.gl/maps/D2WrJ) in the heart of Portland.
+We will return to the historic [Crystal Ballroom][crystal-ballroom], [centrally located](http://goo.gl/maps/D2WrJ) in the heart of Portland.
 
 Segue, there are a wide variety auxiliary events.
 
@@ -23,24 +22,23 @@ Segue, there are a wide variety auxiliary events.
 ### Auxiliary Events
 
 Write the Docs is more than a conference.
-Each year we have a bunch of events so that people can get to know each other better.
-This year we're expanding them into a full third day of fun.
+Each year we organize a wide variety of events so that people can get to know each other better.
+This year we're expanding those activities into a full third day of fun.
 Sunday's events are optional, but we recommend you come into town Saturday or early Sunday to participate.
 
 This year, those events will include:
 
-* Hike (Saturday Afternoon) - Enjoy the majestic beauty of Portland with this walk in the woods.
-* Writing Day (Sunday Daytime) - Get together and *write the docs* with your fellow documentarians.
+* Hike (Saturday Afternoon) --- Enjoy the majestic beauty of Portland with this walk in the woods
+* Writing Day (Sunday Daytime) --- Get together and *write the docs* with your fellow documentarians.
   This is a great opportunity to learn from others and share your knowledge.
-  Document your own projects, or contribute to an open source project such as Wordpress or Mozilla Developer Network.
-* Conference Reception (Sunday Night) - Come early, get your badge and get to know folks.
-* Official Party (Monday Night) - Wind down and talk about the days talks in a relaxed and friendly environment
+  Document your own projects or contribute to an open-source project such as Wordpress or Mozilla Developer Network.
+* Conference Reception (Sunday Night) --- Come early, get your badge, and get to know other attendees
+* Official Party (Monday Night) --- Wind down and talk about the day's talks in a relaxed and friendly environment
 
 ### Keep in Touch
 
-We will be announcing more information soon, including the call for proposals
-and pricing.
-If you wish to get more information as it comes out, sign up for [our mailing list][mailing-list] or follow us on Twitter at [@writethedocs][twitter].
+We will be announcing more information soon, including the call for proposals and pricing.
+If you wish to receive more information as it becomes available, sign up for [our mailing list][mailing-list] or follow us on Twitter at [@writethedocs][twitter].
 
 If you are interested in sponsorship, please [send us an email][email-us].
 
