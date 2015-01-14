@@ -13,7 +13,7 @@ Past talks have also covered such diverse topics as typography, empathy, and [Wa
 
 The main event takes place from May 18-19 (Monday and Tuesday) from 9am to 6pm.
 We will return to the historic [Crystal Ballroom][crystal-ballroom],
-centrally located in the heart of Portland.
+[centrally located](http://goo.gl/maps/D2WrJ) in the heart of Portland.
 
 Segue, there are a wide variety auxiliary events.
 
