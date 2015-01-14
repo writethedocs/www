@@ -98,6 +98,10 @@ p {
     line-height: 1.5em;
 }
 
+div.col-content ul li {
+    font-size: 1.2em;
+}
+
 a:link,
 a:visited { color: #9b6764; }
 
