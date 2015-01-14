@@ -73,12 +73,12 @@ div.hero-nav li.highlight a:active {
 }
 
 /* Sponsors */
-div.col-sidebar {
+div.col-sponsors {
     padding-top: 0em;
 }
 
 @media (min-width: 768px) {
-    div.col-sidebar {
+    div.col-sponsors {
         padding-top: 2em;
     }
 }
