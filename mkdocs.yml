@@ -2,6 +2,6 @@ site_name: Write the Docs
 theme_dir: theme
 pages:
   - ['index.md', 'Write the Docs']
-  - ['conf/index.md', 'Conference']
-  - ['conf/na/2015.md', 'Conference', 'North America 2015']
+  - ['conf/index.md', 'Conferences']
+  - ['conf/na/2015.md', 'Conferences', 'North America 2015']
   - ['meetups.md', 'Meetups']

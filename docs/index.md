@@ -1,4 +1,15 @@
 
+<div class="row">
+	<div class="col-md-4 col-md-offset-4">
+		<a href="index.html">
+		  <img class="img-responsive" src="img/stickers/sticker-wtd-colors.png">
+		</a>
+	</div>
+</div>
+
+<br>
+<br>
+
 **Write the Docs** is a series of conferences and local meetups focused
 on documentation systems, tech writing theory, and information delivery.
 
