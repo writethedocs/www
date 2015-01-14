@@ -3,5 +3,5 @@ theme_dir: theme
 pages:
   - ['index.md', 'Write the Docs']
   - ['conf/index.md', 'Conference']
-  - ['conf/na/2015.md', 'Conference', '2015 North America']
+  - ['conf/na/2015.md', 'Conference', 'North America 2015']
   - ['meetups.md', 'Meetups']
