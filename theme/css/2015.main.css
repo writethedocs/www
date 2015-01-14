@@ -84,7 +84,7 @@ div.col-sponsors {
 }
 
 /* Author elements */
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3 {
     margin-top: 1.5em;
     margin-bottom: .5em;
     text-transform: uppercase;
@@ -92,14 +92,21 @@ h1, h2, h3, h4, h5, h6 {
     color: #40466e;
 }
 
+h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: .5em;
+    font-weight: 800;
+    color: #445;
+}
+
 p {
     margin-bottom: .5em;
-    font-size: 1.2em;
+    font-size: 1.15em;
     line-height: 1.5em;
 }
 
 div.col-content ul li {
-    font-size: 1.2em;
+    font-size: 1.15em;
 }
 
 a:link,
