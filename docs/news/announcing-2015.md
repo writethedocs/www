@@ -23,7 +23,7 @@ Segue, there are a wide variety auxiliary events.
 Write the Docs is more than a conference.
 Each year we organize other events so that people can get to know each other better.
 This year we're expanding those activities into a full third day of fun.
-These events are optional, but we recommend you come into town Saturday or early Sunday to participate.
+These events are optional, but we strongly recommend you come into town Saturday or early Sunday to participate.
 
 This year, those events will include:
 
