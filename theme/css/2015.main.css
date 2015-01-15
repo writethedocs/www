@@ -142,3 +142,17 @@ ul.nav.nav-center > li {
 ul.nav.nav-center {
     text-align: center;
 }
+
+/* Other */
+div.images-venue {
+    overflow: auto;
+    margin-top: 1em;
+}
+
+div.images-venue img {
+    width: 100%;
+    padding: .5em;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
