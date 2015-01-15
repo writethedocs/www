@@ -56,7 +56,11 @@
         s.parentNode.insertBefore(g,s)}(document,'script'));
       </script>
       <script>
-      var mkdocs_page_name = "{{ current_page.input_path.replace('.md', '') }}"
+      {% if current_page %}
+        var mkdocs_page_name = "{{ current_page.input_path.replace('.md', '') }}"
+      {% else %}
+        var mkdocs_page_name = "rtd-sentinal-empty"
+      {% endif %}
       </script>
   </head>
   <body{% if current_page.is_homepage %} class="homepage"{% endif %}>
