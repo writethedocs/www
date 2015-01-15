@@ -16,21 +16,12 @@ div.hero {
     color: #f2f0eb;
 }
 
-div.hero div.row.row-logo {
-    height: 350px;
-    padding: 50px 0px 25px 0px;
-    background-image: url('../img/2015/site-logo.png');
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
+div.hero div.row.row-logo img {
+    width: 100%;
 }
 
-@media (min-width: 768px) {
-    div.hero div.row.row-logo {
-        height: 475px;
-        background-size: 750px 400px;
-        background-position: center 50px;
-    }
+div.hero.hero-conf div.row.row-logo {
+    padding: 1em;
 }
 
 div.hero-nav {

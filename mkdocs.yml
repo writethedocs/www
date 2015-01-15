@@ -3,6 +3,7 @@ theme_dir: theme
 pages:
   - ['index.md', 'Write the Docs']
   - ['code-of-conduct.md', 'Code of Conduct']
+  - ['blog/announcing-2015.md', 'Announcing Write the Docs 2015 NA']
   - ['conf/index.md', 'Conferences']
   - ['conf/na/2015.md', 'Conferences', 'North America 2015']
   - ['meetups.md', 'Meetups']

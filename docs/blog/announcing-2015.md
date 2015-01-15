@@ -1,3 +1,5 @@
+template: blog.2015.html
+
 # Announcing Write the Docs NA 2015
 
 We are excited to announce the dates for the 2015 conference!
