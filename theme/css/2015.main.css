@@ -156,3 +156,10 @@ div.images-venue img {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
 }
+
+
+/* RTD Overrides */
+
+div.injected {
+    display: none;
+}
