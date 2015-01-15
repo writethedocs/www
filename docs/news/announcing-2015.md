@@ -27,12 +27,12 @@ These events are optional, but we strongly recommend you come into town Saturday
 
 This year, those events will include:
 
-* Hike (Saturday Afternoon) --- Enjoy the majestic beauty of Portland with this walk in the woods
+* Hike (Saturday Afternoon) --- Enjoy the majestic beauty of Portland with this walk in the woods.
 * Writing Day (Sunday Daytime) --- Get together and *write the docs* with your fellow documentarians.
   This is a great opportunity to learn from others and share your knowledge.
   Document your own projects or contribute to an open-source project such as Wordpress or Mozilla Developer Network.
-* Conference Reception (Sunday Night) --- Come early, get your badge, and get to know other attendees
-* Official Party (Monday Night) --- Wind down and talk about the day's talks in a relaxed and friendly environment
+* Conference Reception (Sunday Night) --- Come early, get your badge, and get to know other attendees.
+* Official Party (Monday Night) --- Wind down and talk about the day's talks in a relaxed and friendly environment.
 
 ### Keep in Touch
 
