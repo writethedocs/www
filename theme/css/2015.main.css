@@ -135,12 +135,12 @@ ul.nav.nav-center {
 }
 
 /* Other */
-div.images-venue {
+div.row-images {
     overflow: auto;
     margin-top: 1em;
 }
 
-div.images-venue img {
+div.row-images img {
     width: 100%;
     padding: .5em;
     box-sizing: border-box;
@@ -148,9 +148,7 @@ div.images-venue img {
     -moz-box-sizing: border-box;
 }
 
-
 /* RTD Overrides */
-
 div.injected {
     display: none;
 }
