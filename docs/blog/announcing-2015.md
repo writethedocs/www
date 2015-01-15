@@ -22,7 +22,7 @@ Segue, there are a wide variety auxiliary events.
 ### Auxiliary Events
 
 Write the Docs is more than a conference.
-Each year we organize a wide variety of events so that people can get to know each other better.
+Each year we organize a wide bunch of events so that people can get to know each other better.
 This year we're expanding those activities into a full third day of fun.
 Sunday's events are optional, but we recommend you come into town Saturday or early Sunday to participate.
 
