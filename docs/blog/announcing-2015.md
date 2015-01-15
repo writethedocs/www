@@ -16,9 +16,6 @@ We will return to the historic [Crystal Ballroom][crystal-ballroom], [centrally 
 
 Segue, there are a wide variety auxiliary events.
 
-[wabisabi]: http://?
-[crystal-ballroom]: http://?
-
 ### Auxiliary Events
 
 Write the Docs is more than a conference.
@@ -42,10 +39,6 @@ If you wish to receive more information as it becomes available, sign up for [ou
 
 If you are interested in sponsorship, please [send us an email][email-us].
 
-[twitter]: https://twitter.com/writethedocs
-[mailing-list]: http://?
-[email-us]: mailto:sponsorship@writethedocs.org
-
 ### Conclusion
 
 We are excited to be part of the growing community of documentarians.
@@ -53,3 +46,10 @@ This year promises to be a fantastic experience for writers, programmers, design
 
 Talk proposals will open soon.
 Start gathering your ideas and getting excited about another year of great talks and conversations.
+
+
+[wabisabi]: http://en.wikipedia.org/wiki/Wabi-sabi
+[crystal-ballroom]: http://www.mcmenamins.com/CrystalBallroom
+[twitter]: https://twitter.com/writethedocs
+[mailing-list]: http://eepurl.com/I37rP
+[email-us]: mailto:sponsorship@writethedocs.org
