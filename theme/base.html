@@ -55,6 +55,9 @@
         g.src=('https:'==location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';
         s.parentNode.insertBefore(g,s)}(document,'script'));
       </script>
+      <script>
+      var mkdocs_page_name = "{{ current_page.input_path.replace('.md', '') }}"
+      </script>
   </head>
   <body{% if current_page.is_homepage %} class="homepage"{% endif %}>
 
