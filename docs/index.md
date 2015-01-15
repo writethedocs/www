@@ -22,6 +22,11 @@ Our conferences create a time and a place for the global community of
 *documentarians* to share information, discuss ideas, and work together
 to improve the art and science of documentation.
 
+Current Events
+---------------
+
+Our [2015 North American conference](http://www.writethedocs.org/conf/na/2015/) is the next upcoming event.
+
 Contact
 -------
 
