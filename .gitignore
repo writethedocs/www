@@ -1,8 +1,3 @@
-.Python
-include/
-bin/
-src/
-lib/
 *.swp
 *.swo
 .DS_Store
