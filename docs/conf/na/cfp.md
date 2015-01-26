@@ -1,3 +1,5 @@
+template: blog.2015.html
+
 ## Write the Docs NA 2015 Call for Proposals
 
 We here at Write the Docs are accepting proposals for our 2015
@@ -83,3 +85,7 @@ Proposal decisions will be sent by the middle of March.
 
 If you have any questions, please email us at
 [conf@writethedocs.org](mailto:conf@writethedocs.org) and let us know.
+
+# Submit a Proposal
+
+<iframe src="https://docs.google.com/forms/d/1ZW77cqr01rA9OiU9h015uQNdQURaeODkqw8aQ9Uqo6Y/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
