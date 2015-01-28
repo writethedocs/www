@@ -58,9 +58,9 @@ spirit of Write the Docs:
 
 ## Presentation formats
 
-Presentations will be either 20 or 40 minutes long. Pick the format that
-best fits the scope and style of your presentation. In general, however,
-we do recommend 20-minute talks.
+Presentations will be 30 minutes long. 
+If you have specific length needs for your presentation,
+let us know and we can work with it.
 
 ## Speaker Benefits and Logistics
 

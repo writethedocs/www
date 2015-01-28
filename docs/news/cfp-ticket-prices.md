@@ -26,7 +26,7 @@ respect and consideration they deserve. So come share with us how you
 convinced your company why documentation should be an organizational
 priority
 
-You can read our full [Call for Proposals]() on the website.
+You can read our full [Call for Proposals](http://www.writethedocs.org/conf/na/cfp/) on the website.
 
 ## Tickets
 
@@ -40,7 +40,7 @@ but that has increased stress for the organizers a lot.
 This year we are raising ticket prices so that the ticket cost covers the baseline cost of the event (venue, food, wifi, shirts).
 Sponsorship money will then be used to make the conference even better.
 
-If you can't afford these prices and still wish to attend, please email us at [conf@writethedocs.org](conf@writethedocs.org] and we can work something out.
+If you can't afford these prices and still wish to attend, please email us at [conf@writethedocs.org](mailto:conf@writethedocs.org) and we can work something out.
 
 #### Ticket Prices
 
