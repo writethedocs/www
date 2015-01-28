@@ -1,10 +1,11 @@
-## Write the Docs NA 2015 Call for Proposals
+template: blog.2015.html
 
-We here at Write the Docs are accepting proposals for our 2015
+## Call for Proposals
+
+We are accepting proposals for our 2015
 conference, which is happening **May 17-19, 2015** in Portland, Oregon.
 
-The deadline for submitting your proposal is **11:59 PM PST on March
-1**.
+The deadline for submitting your proposal is **Midnight PST on February 28**.
 
 ## Conference Goals
 
@@ -83,3 +84,7 @@ Proposal decisions will be sent by the middle of March.
 
 If you have any questions, please email us at
 [conf@writethedocs.org](mailto:conf@writethedocs.org) and let us know.
+
+# Submit a Proposal
+
+<iframe src="https://docs.google.com/forms/d/1ZW77cqr01rA9OiU9h015uQNdQURaeODkqw8aQ9Uqo6Y/viewform?embedded=true" width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

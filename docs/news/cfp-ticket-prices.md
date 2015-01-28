@@ -1,0 +1,76 @@
+template: blog.2015.html
+
+# Announcing Call for Proposals and Ticket Prices
+
+Today we are announcing our Call for Proposals and ticket prices.
+Speaking at Write the Docs is a fantastic way to share your ideas with our wonderful community of documentarians. 
+
+## Call for Proposals
+
+Although the general focus of Write the Docs is on documentation,
+there's a strong emphasis on the software industry. Within that thematic
+scope, we love having wide-ranging content that will stretch people in
+new directions.
+
+Some of our favorite talks are ones that make people see the world in a
+new way. Teaching someone something they already knew about is great;
+showing someone something they didn't know existed is magical.
+
+We love talks that deliver hard-earned knowledge based on real-world
+experience and research. Whether it's a story about spreading the
+documentarian gospel in your company or tips and tricks for writing that
+you've learned, come share it with people who are eager to know.
+
+We believe that tech writing and documentation don't always get the
+respect and consideration they deserve. So come share with us how you
+convinced your company why documentation should be an organizational
+priority
+
+You can read our full [Call for Proposals]() on the website.
+
+## Tickets
+
+Write the Docs is a community event.
+We attempt to run the conferences a little above break even,
+so that we can make the events as good as possible.
+We believe that everyone who cares about this topic has a place at our event.
+
+We have previously relied on sponsors to cover a large cost of the event,
+but that has increased stress for the organizers a lot.
+This year we are raising ticket prices so that the ticket cost covers the baseline cost of the event (venue, food, wifi, shirts).
+Sponsorship money will then be used to make the conference even better.
+
+If you can't afford these prices and still wish to attend, please email us at [conf@writethedocs.org](conf@writethedocs.org] and we can work something out.
+
+#### Ticket Prices
+
+As with the previous years, we have tiered pricing to make it fair for everyone.
+Please buy the ticket that best fits your situation.
+
+Tickets will go on sale **January 28th**.
+
+#### Corporate Tickets
+
+Purchase this ticket if a company is paying for your attendance.
+
+* $200 Corporate Early Bird
+* $250 Corporate Regular
+
+#### Independent Tickets
+
+Purchase this ticket if you are paying for yourself, work at a non-profit, or at a company with less than 10 employees.
+
+* $100 Independent Early Bird
+* $150 Independent Regular
+
+#### Student or Unemployed
+
+Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
+
+* $75 Student or Unemployed Tickets 
+
+## Conclusion
+
+We hope you will join us at Write the Docs again this year.
+Whether as a speaker or attendee,
+you can bet it will be another delightful year.
