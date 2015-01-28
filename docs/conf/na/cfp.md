@@ -5,8 +5,7 @@ template: blog.2015.html
 We are accepting proposals for our 2015
 conference, which is happening **May 17-19, 2015** in Portland, Oregon.
 
-The deadline for submitting your proposal is **11:59 PM PST on March
-1**.
+The deadline for submitting your proposal is **Midnight PST on February 28**.
 
 ## Conference Goals
 
