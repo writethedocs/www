@@ -1,8 +1,8 @@
 template: blog.2015.html
 
-# Announcing Call for Proposals and Ticket Prices
+# Announcing Call for Proposals and Ticket Sales
 
-Today we are announcing our Call for Proposals and ticket prices.
+Today we are announcing our Call for Proposals and ticket sales.
 Speaking at Write the Docs is a fantastic way to share your ideas with
 our wonderful community of documentarians.
 
@@ -47,7 +47,7 @@ If you can't afford these prices and still wish to attend, please email
 us at [conf@writethedocs.org](mailto:conf@writethedocs.org) and we can
 work something out.
 
-#### Ticket Prices
+#### Ticket Sales
 
 As with the previous years, we have tiered pricing to make it fair for
 everyone. Please buy the ticket that best fits your situation.
