@@ -56,7 +56,7 @@ spirit of Write the Docs:
   out of chaos
   ([abstact](http://docs.writethedocs.org/2014/na/talks/#heidi-waterhouse-the-new-sheriff-in-town-bringing-documentation-out-of-chaos))
 
-## Presentation formats
+## Presentation format
 
 Presentations will be 30 minutes long. 
 If you have specific length needs for your presentation,
