@@ -52,7 +52,7 @@ work something out.
 As with the previous years, we have tiered pricing to make it fair for
 everyone. Please buy the ticket that best fits your situation.
 
-Tickets will go on sale **January 28th**.
+Tickets are **on sale now**. [Buy them now](http://www.writethedocs.org/conf/na/2015/#tickets).
 
 #### Corporate Tickets
 
