@@ -3,7 +3,8 @@ template: blog.2015.html
 # Announcing Call for Proposals and Ticket Prices
 
 Today we are announcing our Call for Proposals and ticket prices.
-Speaking at Write the Docs is a fantastic way to share your ideas with our wonderful community of documentarians. 
+Speaking at Write the Docs is a fantastic way to share your ideas with
+our wonderful community of documentarians.
 
 ## Call for Proposals
 
@@ -26,26 +27,30 @@ respect and consideration they deserve. So come share with us how you
 convinced your company why documentation should be an organizational
 priority
 
-You can read our full [Call for Proposals](http://www.writethedocs.org/conf/na/cfp/) on the website.
+You can read our full [Call for
+Proposals](http://www.writethedocs.org/conf/na/cfp/) on the website.
 
 ## Tickets
 
-Write the Docs is a community event.
-We attempt to run the conferences a little above break even,
-so that we can make the events as good as possible.
-We believe that everyone who cares about this topic has a place at our event.
+Write the Docs is a community event. We attempt to run the conferences a
+little above break even, so that we can make the events as good as
+possible. We believe that everyone who cares about this topic has a
+place at our event.
 
-We have previously relied on sponsors to cover a large cost of the event,
-but that has increased stress for the organizers a lot.
-This year we are raising ticket prices so that the ticket cost covers the baseline cost of the event (venue, food, wifi, shirts).
-Sponsorship money will then be used to make the conference even better.
+We have previously relied on sponsors to cover a large cost of the
+event, but that has increased stress for the organizers a lot.  This
+year we are raising ticket prices so that the ticket cost covers the
+baseline cost of the event (venue, food, wifi, shirts).  Sponsorship
+money will then be used to make the conference even better.
 
-If you can't afford these prices and still wish to attend, please email us at [conf@writethedocs.org](mailto:conf@writethedocs.org) and we can work something out.
+If you can't afford these prices and still wish to attend, please email
+us at [conf@writethedocs.org](mailto:conf@writethedocs.org) and we can
+work something out.
 
 #### Ticket Prices
 
-As with the previous years, we have tiered pricing to make it fair for everyone.
-Please buy the ticket that best fits your situation.
+As with the previous years, we have tiered pricing to make it fair for
+everyone. Please buy the ticket that best fits your situation.
 
 Tickets will go on sale **January 28th**.
 
@@ -58,19 +63,20 @@ Purchase this ticket if a company is paying for your attendance.
 
 #### Independent Tickets
 
-Purchase this ticket if you are paying for yourself, work at a non-profit, or at a company with less than 10 employees.
+Purchase this ticket if you are paying for yourself, work at a
+non-profit, or at a company with less than 10 employees.
 
 * $100 Independent Early Bird
 * $150 Independent Regular
 
 #### Student or Unemployed
 
-Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
+Purchase this ticket if you are currently enrolled as a student, or
+don't currently have a source of income.
 
-* $75 Student or Unemployed Tickets 
+* $75 Student or Unemployed Tickets
 
 ## Conclusion
 
-We hope you will join us at Write the Docs again this year.
-Whether as a speaker or attendee,
-you can bet it will be another delightful year.
+We hope you will join us at Write the Docs again this year.  Whether as
+a speaker or attendee, you can bet it will be another delightful year.

@@ -58,9 +58,8 @@ spirit of Write the Docs:
 
 ## Presentation format
 
-Presentations will be 30 minutes long. 
-If you have specific length needs for your presentation,
-let us know and we can work with it.
+Presentations will be 30 minutes long. If you have specific length needs
+for your presentation, let us know and we can work with it.
 
 ## Speaker Benefits and Logistics
 

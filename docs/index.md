@@ -27,7 +27,9 @@ Upcoming Events
 
 * * * * *
 
-Our [2015 North American conference](http://www.writethedocs.org/conf/na/2015/) is the next upcoming event.
+Our [2015 North American
+conference](http://www.writethedocs.org/conf/na/2015/) is the next
+upcoming event.
 
 Contact
 -------
