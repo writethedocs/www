@@ -31,10 +31,10 @@ Proposals](http://www.writethedocs.org/conf/na/cfp/) on the website.
 
 ## Tickets
 
-Write the Docs is a community event. We attempt to run the conferences a
-little above break even, so that we can make the events as good as
-possible. We believe that everyone who cares about this topic has a
-place at our event.
+Write the Docs is a community event, organized and run by volunteers. The
+conference does not generate any income, and all revenue from ticket sales and
+sponsorships goes towards improving the conference. We believe that everyone
+who cares about this topic has a place at our event.
 
 We have previously relied on sponsors to cover a large cost of the
 event, but that has increased stress for the organizers a lot.  This
