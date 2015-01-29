@@ -27,9 +27,9 @@ there's a strong emphasis on the software industry. Within that thematic
 scope, we love having wide-ranging content that will stretch people in
 new directions.
 
-Some of our favorite talks are ones that make people see the world in a
-new way. Teaching someone something they already knew about is great;
-showing someone something they didn't know existed is magical.
+Some of our favorite talks are ones that make people see the world in a new way.
+Teaching entirely new ideas to others can be magical, and we are always
+delighted with the breadth of knowledge that our community brings together.
 
 We love talks that deliver hard-earned knowledge based on real-world
 experience and research. Whether it's a story about spreading the
