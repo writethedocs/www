@@ -36,11 +36,9 @@ conference does not generate any income, and all revenue from ticket sales and
 sponsorships goes towards improving the conference. We believe that everyone
 who cares about this topic has a place at our event.
 
-We have previously relied on sponsors to cover a large cost of the
-event, but that has increased stress for the organizers a lot.  This
-year we are raising ticket prices so that the ticket cost covers the
-baseline cost of the event (venue, food, wifi, shirts).  Sponsorship
-money will then be used to make the conference even better.
+This year, our ticket prices will ensure that the absolute cost of the
+conference is covered, with revenue from sponsorships used to extend the
+conference and make it substantially more awesome.
 
 If you can't afford these prices and still wish to attend, please email
 us at [conf@writethedocs.org](mailto:conf@writethedocs.org) and we can
