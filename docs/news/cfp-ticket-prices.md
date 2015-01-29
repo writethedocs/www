@@ -26,8 +26,8 @@ We believe that tech writing and documentation don't always get the respect and
 consideration they deserve. Come share the problems with documentation your
 company overcame, or how you ensure documentation is an organizational priority.
 
-You can read our full [Call for
-Proposals](http://www.writethedocs.org/conf/na/cfp/) on the website.
+You can read our full [Call for Proposals](http://www.writethedocs.org/conf/na/cfp/)
+on the website.
 
 ## Tickets
 
