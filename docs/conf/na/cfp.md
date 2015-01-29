@@ -10,7 +10,7 @@ The deadline for submitting your proposal is **Midnight PST on February 28**.
 ## Conference Goals
 
 Write the Docs is an event for anyone who cares about documentation and
-wants to gather and learn from like-minded people no matter their
+wants to gather and learn from like-minded people, no matter their
 personal or professional background. Whether you're a tech writer,
 programmer, designer, support technician, or something else entirely,
 come and share your tips, tricks, experiences, ideas, frustrations,
@@ -36,10 +36,9 @@ experience and research. Whether it's a story about spreading the
 documentarian gospel in your company or tips and tricks for writing that
 you've learned, come share it with people who are eager to know.
 
-We believe that tech writing and documentation don't always get the
-respect and consideration they deserve. So come share with us how you
-convinced your company why documentation should be an organizational
-priority
+We believe that tech writing and documentation don't always get the respect and
+consideration they deserve. Come share the documentation problems your company
+overcame, or how you ensure documentation is an organizational priority.
 
 Below are some talks from past events that we feel really captured the
 spirit of Write the Docs:
