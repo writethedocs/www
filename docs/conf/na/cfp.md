@@ -37,8 +37,8 @@ documentarian gospel in your company or tips and tricks for writing that
 you've learned, come share it with people who are eager to know.
 
 We believe that tech writing and documentation don't always get the respect and
-consideration they deserve. Come share the documentation problems your company
-overcame, or how you ensure documentation is an organizational priority.
+consideration they deserve. Come share the problems with documentation your
+company overcame, or how you ensure documentation is an organizational priority.
 
 Below are some talks from past events that we feel really captured the
 spirit of Write the Docs:
