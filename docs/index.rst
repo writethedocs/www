@@ -12,8 +12,7 @@ information about the art of writing documentation.
 Along with that, we hope to open communication between all the awesome
 people out there writing documentation.
 
-.. note:: The website for Write the Docs Conference and Meetups is located
-    at http://conf.writethedocs.org/
+.. note:: Write the Docs NA 2015 is happening on May 17-19 in Portland, Oregon: http://www.writethedocs.org/conf/na/2015/
 
 Contents
 --------
