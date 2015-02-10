@@ -1,3 +1,4 @@
+.. toctree:: test
 
 <div class="row">
 	<div class="col-md-4 col-md-offset-4">
@@ -13,7 +14,7 @@
 **Write the Docs** is a series of conferences and local meetups focused
 on documentation systems, tech writing theory, and information delivery.
 
-We consider everyone who cares about communication and documentation and
+We consider everyone who cares about communication, documentation, and
 their users to be a member of our community. This can be programmers,
 tech writers, customer support, marketers, and anyone else who wants
 people to have great experiences with software.
