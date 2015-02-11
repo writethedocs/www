@@ -18,7 +18,7 @@ hopes, and anything else that your passion for documentation inspires
 you to bring to the table.
 
 Come be a part of this fantastic multi-disciplinary gathering of
-documentation artisans.
+documentation artisans. 
 
 ## Topic Ideas
 
@@ -26,6 +26,10 @@ Although the general focus of Write the Docs is on documentation,
 there's a strong emphasis on the software industry. Within that thematic
 scope, we love having wide-ranging content that will stretch people in
 new directions.
+
+We encourage all levels to submit a talk.
+We welcome first time speakers as well as experienced.
+Talking about how things affect beginners or from a beginner point of view is valuable for experts.
 
 Some of our favorite talks are ones that make people see the world in a new way.
 Teaching entirely new ideas to others can be magical, and we are always
