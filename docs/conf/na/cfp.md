@@ -29,7 +29,7 @@ new directions.
 
 We encourage all levels to submit a talk.
 We welcome first time speakers as well as experienced.
-Talking about how things affect beginners or from a beginner point of view is valuable for experts.
+Talking about how things affect beginners or from a beginner point of view is just as important as a deep dive into a specific topic.
 
 Some of our favorite talks are ones that make people see the world in a new way.
 Teaching entirely new ideas to others can be magical, and we are always
@@ -37,8 +37,8 @@ delighted with the breadth of knowledge that our community brings together.
 
 We love talks that deliver hard-earned knowledge based on real-world
 experience and research. Whether it's a story about spreading the
-documentarian gospel in your company or tips and tricks for writing that
-you've learned, come share it with people who are eager to know.
+documentarian gospel in your company, or tips and tricks for writing,
+come share it with people who are eager to know.
 
 We believe that tech writing and documentation don't always get the respect and
 consideration they deserve. Come share the problems with documentation your
