@@ -40,7 +40,7 @@ master_doc = 'index'
 
 
 # General information about the project.
-project = u'Write the Docs'
+project = u'Write the Docs Guide'
 copyright = """
 <a rel="license"
    href="http://creativecommons.org/licenses/by/3.0/"
