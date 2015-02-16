@@ -19,7 +19,7 @@ people to have great experiences with software.
 
 Our conferences create a time and a place for the global community of
 *documentarians* to share information, discuss ideas, and work together
-to improve the art and science of documentation.
+to improve the **art and science of documentation**.
 
 Upcoming Events
 ---------------
