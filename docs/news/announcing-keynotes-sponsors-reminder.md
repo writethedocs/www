@@ -1,3 +1,5 @@
+template: blog.2015.html
+
 ## Announcing Keynotes, Initial Sponsors, and a Reminder
 
 The conference is three months away, 
