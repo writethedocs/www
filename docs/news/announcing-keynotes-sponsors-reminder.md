@@ -41,8 +41,13 @@ More information about these talks can be found on the [TODO:website](TODO).
 ## Call for Proposals Reminder
 
 There is still time to submit your talk to Write the Docs.
-The Call for Proposals ends on **February 28th at Midnight PST**,
+The [Call for Proposals](http://www.writethedocs.org/conf/na/cfp/) ends on **February 28th at Midnight PST**,
 so make sure to get your talk in this month.
+
+If there is anyone who you think would be a great addition to our lineup,
+invite them to speak.
+Our community is full of amazing people,
+and we'd love to have you come and share your experiences with us.
 
 We will be announcing the conference program on **March 15th**. 
 
@@ -59,3 +64,10 @@ If you're interested in sponsoring,
 [send us an email][email-us].
 
 [email-us]: mailto:sponsorship@writethedocs.org
+
+## Conclusion
+
+We are putting the finishing touches on all the other aspects of the event.
+Expect to hear more about the Hike, Writing Day, Party, Reception, and more in the next few weeks.
+This year is going to be the best year yet,
+so [don't miss it](https://ti.to/writethedocs/write-the-docs-na-2015/)
