@@ -45,6 +45,10 @@ div.hero-nav a:active {
     color: #f2f0eb;
 }
 
+div.hero-nav ul {
+    margin-top: .3em;
+}
+
 div.hero-nav li.highlight a {
     padding: 9px 14px;
     font-weight: bold;
