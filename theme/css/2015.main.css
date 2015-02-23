@@ -148,6 +148,57 @@ div.row-images img {
     -moz-box-sizing: border-box;
 }
 
+div.clear {
+    clear: both;
+}
+
+/* Keynote block hackery
+
+Because Markdown flakes out when you mix html and markdown content, we're
+forced to style the elements based on order. So, uh, don't change the order
+of the elements in the markdown.
+
+*/
+div.speaker-keynote {
+    clear: left;
+    padding-bottom: 1em;
+}
+
+/* First paragraph wrapping image */
+div.speaker-keynote + p {
+    display: block;
+    float: left;
+    margin: 0px 20px 32px 0px;
+    width: 220px;
+    position: relative;
+}
+
+div.speaker-keynote + p > img {
+    width: 100%;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+div.speaker-keynote + p + h3,
+div.speaker-keynote + p + h3 + h4 {
+    margin-top: 0em;
+    margin-bottom: .3em;
+}
+
+div.speaker-keynote + p + h3 + h4 + p,
+div.speaker-keynote + p + h3 + h4 + p + p {
+    overflow: auto;
+}
+
+@media (max-width: 768px), (max-device-width: 768px) {
+    div.speaker-keynote + p {
+        float: none;
+        margin-top: 1.65em;
+        margin-bottom: .65em;
+    }
+}
+
 /* RTD Overrides */
 div.injected {
     display: none;
