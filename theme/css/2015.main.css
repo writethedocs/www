@@ -167,6 +167,10 @@ div.row-images img {
     box-sizing: border-box;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
+
+    border-radius: .65em;
+    -webkit-border-radius: .65em;
+    -moz-border-radius: .65em;
 }
 
 div.clear {
