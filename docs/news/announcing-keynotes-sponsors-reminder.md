@@ -1,6 +1,6 @@
 template: blog.2015.html
 
-## Announcing Keynotes, Initial Sponsors, and a Reminder
+## Announcing Keynotes, Initial Sponsors, and a CFP Reminder
 
 The conference is three months away, 
 so I hope you're getting ready!
@@ -10,7 +10,7 @@ thanks for everyone who has already purchased a ticket.
 We do expect the conference to sell out fully,
 so [buy your tickets](https://ti.to/writethedocs/write-the-docs-na-2015/) today.
 
-#### Keynote Speakers
+## Keynote Speakers
 
 In previous years, we haven't had keynotes.
 As the community and conference has developed,
