@@ -56,10 +56,10 @@ The conference wouldn't be nearly as amazing without our sponsors.
 They help us provide all the extras that make the event delightful.
 Thanks to our initial sponsors:
 
-* [GitHub](https://github.com/)
-* [BaseCamp](http://basecamp.com/)
 * [Wordpress.com](https://wordpress.com/)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+* [GitHub](https://github.com/)
+* [BaseCamp](http://basecamp.com/)
 
 If you're interested in sponsoring, [send us an email][email-us].
 
