@@ -1,6 +1,6 @@
 template: blog.2015.html
 
-## Announcing Keynotes, Initial Sponsors, and a CFP Reminder
+## Announcing Keynotes, Initial Sponsors, and a Proposal Reminder
 
 The conference is now three months away, so I hope you're getting ready
 for what will be another great Write the Docs in lovely Portland,
