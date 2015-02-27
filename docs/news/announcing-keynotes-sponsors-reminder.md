@@ -44,8 +44,6 @@ There is still time to submit your talk to Write the Docs.
 The [Call for Proposals](http://www.writethedocs.org/conf/na/cfp/) ends on **February 28th at Midnight PST**,
 so make sure to get your talk in this month.
 
-If there is anyone who you think would be a great addition to our lineup,
-invite them to speak.
 Our community is full of amazing people,
 and we'd love to have you come and share your experiences with us.
 
@@ -59,6 +57,8 @@ Thanks to our initial sponsors:
 
 * [GitHub](https://github.com/)
 * [BaseCamp](http://basecamp.com/)
+* [Wordpress.com](https://wordpress.com/)
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
 If you're interested in sponsoring,
 [send us an email][email-us].
