@@ -27,7 +27,7 @@ Cunningham](http://en.wikipedia.org/wiki/Ward_Cunningham). Ward is the
 creator of the wiki and has one of the longest views on how the web is
 used of anyone in the world. He will be speaking about his view of
 content on the web and how it's shaping his latest project, the
-[Federated Wiki](http://fed.wiki.org/view/welcome-visitors).
+Federated Wiki.
 
 #### Marcia Johnston
 
