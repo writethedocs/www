@@ -224,6 +224,12 @@ div.speaker-keynote + p + h3 + h4 + p + p {
     }
 }
 
+/* Sponsors */
+div.row-sponsors > div {
+    margin-top: 2em;
+    text-align: center;
+}
+
 /* RTD Overrides */
 div.injected {
     display: none;
