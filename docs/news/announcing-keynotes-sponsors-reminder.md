@@ -2,7 +2,7 @@ template: blog.2015.html
 
 ## Announcing Keynotes, Initial Sponsors, and a CFP Reminder
 
-The conference is three months away, 
+The conference is a little less than three months away, 
 so I hope you're getting ready!
 
 The Early Bird tickets have sold out,
