@@ -2,7 +2,7 @@ template: blog.2015.html
 
 ## Announcing Keynotes, Initial Sponsors, and a Proposal Reminder
 
-The conference is now three months away, so I hope you're getting ready
+The conference is now less than three months away, so I hope you're getting ready
 for what will be another great Write the Docs in lovely Portland,
 Oregon!
 
@@ -72,7 +72,7 @@ If you're interested in sponsoring, [send us an email][email-us].
 ## Conclusion
 
 We are putting the finishing touches on all the other aspects of the
-event. Expect to hear more about the hike, writing day, the party, the
+event. Expect to hear more about the hike, writing day, party,
 reception, and more in the next few weeks.  This year is going to be the
 best yet, so [don't miss
 it](https://ti.to/writethedocs/write-the-docs-na-2015/).
