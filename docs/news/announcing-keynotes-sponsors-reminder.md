@@ -70,4 +70,4 @@ If you're interested in sponsoring,
 We are putting the finishing touches on all the other aspects of the event.
 Expect to hear more about the Hike, Writing Day, Party, Reception, and more in the next few weeks.
 This year is going to be the best year yet,
-so [don't miss it](https://ti.to/writethedocs/write-the-docs-na-2015/)
+so [don't miss it](https://ti.to/writethedocs/write-the-docs-na-2015/).
