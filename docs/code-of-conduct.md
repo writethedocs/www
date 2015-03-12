@@ -83,6 +83,11 @@ social events.
 * ruth@writethedocs.org
 * +1 (503) 951-8667
 
+**Anthony Johnson**
+
+* anthony@writethedocs.org
+* +1 (413) 376-8649
+
 ### License
 
 This Code of Conduct was forked from the example policy from the [Geek
