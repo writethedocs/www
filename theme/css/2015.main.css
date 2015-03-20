@@ -190,7 +190,8 @@ div.speaker-keynote {
 }
 
 /* First paragraph wrapping image */
-div.speaker-keynote + p {
+div.speaker-keynote + p,
+div.speaker + p {
     display: block;
     float: left;
     margin: 0px 20px 32px 0px;
@@ -198,7 +199,13 @@ div.speaker-keynote + p {
     position: relative;
 }
 
-div.speaker-keynote + p > img {
+div.speaker + p {
+    width: 120px;
+    height: 120px;
+}
+
+div.speaker-keynote + p > img,
+div.speaker + p > img {
     width: 100%;
     border-radius: 5px;
     -moz-border-radius: 5px;
@@ -206,22 +213,63 @@ div.speaker-keynote + p > img {
 }
 
 div.speaker-keynote + p + h3,
-div.speaker-keynote + p + h3 + h4 {
+div.speaker-keynote + p + h3 + h4,
+div.speaker + p + h3,
+div.speaker + p + h3 + h4 {
     margin-top: 0em;
     margin-bottom: .3em;
 }
 
 div.speaker-keynote + p + h3 + h4 + p,
-div.speaker-keynote + p + h3 + h4 + p + p {
+div.speaker-keynote + p + h3 + h4 + p + p,
+div.speaker + p + h3 + h4 + p,
+div.speaker + p + h3 + h4 + p + p {
     overflow: auto;
 }
 
 @media (max-width: 768px), (max-device-width: 768px) {
-    div.speaker-keynote + p {
+    div.speaker-keynote + p,
+    div.speaker + p {
         float: none;
         margin-top: 1.65em;
         margin-bottom: .65em;
     }
+}
+
+div.row.row-speaker {
+    margin-top: 1em;
+    clear: both;
+}
+
+div.row.row-speaker.row-speaker-keynote p,
+div.row.row-speaker.row-speaker-keynote li {
+    font-size: 1.1em;
+}
+
+div.row.row-speaker p,
+div.row.row-speaker li {
+    font-size: 1em;
+}
+
+div.row.row-speaker img.speaker-image {
+    width: 100%;
+    margin-bottom: 1em;
+    margin-right: 0em;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+@media (max-width: 768px), (max-device-width: 768px) {
+    div.row.row-speaker img.speaker-image {
+        width: 120px;
+        margin-right: 1em;
+    }
+}
+
+div.row.row-speaker h1, h2, h3, h4 {
+    padding-top: 0em;
+    margin-top: 0em;
 }
 
 /* Sponsors */
