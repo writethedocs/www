@@ -104,7 +104,7 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/tfranko.jpg" />
+    <img class="speaker-image" src="/img/2015/speakers/tfranko.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -137,7 +137,7 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/jswisher.jpg" />
+    <img class="speaker-image" src="/img/2015/speakers/jswisher.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -260,7 +260,7 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/gtorikian.jpg" />
+    <img class="speaker-image" src="/img/2015/speakers/gtorikian.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
