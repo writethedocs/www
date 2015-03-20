@@ -104,10 +104,13 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/wcunningham.jpg" />
+    <img class="speaker-image" src="../../../../img/2015/speakers/tfranko.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
-    <h3>Tana Franko</h3>
+    <h3>
+      Tana Franko
+      <span class="speaker-twitter"><a href="https://twitter.com/tanafranko">@tanafranko</a></span>
+    </h3>
     <h4>Elevating the Hedgehog: Creativity in Tech Writing</h4>
     <p>
       "People who hope to thrive in the Conceptual Age must understand the
@@ -134,10 +137,13 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/wcunningham.jpg" />
+    <img class="speaker-image" src="../../../../img/2015/speakers/jswisher.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
-    <h3>Janet Swisher</h3>
+    <h3>
+      Janet Swisher
+      <span class="speaker-twitter"><a href="https://twitter.com/jmswisher">@jmswisher</a></span>
+    </h3>
     <h4>Entry points and guide posts: Helping new contributors find their way</h4>
     <p>
       How did Mozilla Developer Network (MDN) achieve a 46% increase in active
@@ -224,10 +230,13 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/wcunningham.jpg" />
+    <img class="speaker-image" src="../../../../img/2015/speakers/gkoberger.png" />
   </div>
   <div class="col-md-8 col-sm-8">
-    <h3>Gregory Koberger</h3>
+    <h3>
+      Gregory Koberger
+      <span class="speaker-twitter"><a href="https://twitter.com/gkoberger">@gkoberger</a></span>
+    </h3>
     <h4>A Developers Approach to Documentation: From Passive to Dynamic</h4>
     <p>
       The era of O’Reilly books is done, finito, kaput. With so much of the
@@ -251,10 +260,13 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/wcunningham.jpg" />
+    <img class="speaker-image" src="../../../../img/2015/speakers/gtorikian.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
-    <h3>Garen Torikian</h3>
+    <h3>
+      Garen Torikian
+      <span class="speaker-twitter"><a href="https://twitter.com/gjtorikian">@gjtorikian</a></span>
+    </h3>
     <h4>How GitHub uses GitHub to document GitHub</h4>
     <p>
       Everyone knows that GitHub is the place to host your project's code. What
