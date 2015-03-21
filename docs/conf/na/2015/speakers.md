@@ -529,3 +529,105 @@ template: 2015/details.html
     </p>
   </div>
 </div>
+
+
+<div class="row row-speaker">
+  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+  </div>
+  <div class="col-md-8 col-sm-8">
+    <h3>
+      Christine Burwinkle
+      <span class="speaker-details">
+        Atlassian
+      </span>
+    </h3>
+    <h4>Tech writing in a continuous deployment world</h4>
+    <p>
+      Here at Atlassian, we’ve been moving ever closer to a world of
+      continuous deployment for our software products. Five years ago, releases
+      took months. Now, many products are releasing every two weeks at a
+      minimum. In addition, the past year has seen features being deployed as
+      soon as they pass testing. What’s a tech writer to do!?
+    </p>
+    <p>
+      In true agile fashion, the response to these challenges varies across
+      products and writers within Atlassian. This gives us a breadth of stories
+      and examples I can share about our experiences in this world. Here’s a
+      high-level look at what I’ll share:
+    </p>
+    <ul>
+      <li>A brief discussion of continuous deployment: what does it mean, especially for tech writers and others involved in the process?</li>
+      <li>A look at some things that have worked for us. Making the mental shift from releases to features has been an absolute necessity. We’ve also had to change the tooling we use, the processes we follow, and the way we communicate. This journey has also forced us to consider what the documentation equivalent of an MVP (minimal viable product in Agile development) looks like.</li>
+      <li>There are a few things that haven’t worked out very well! Resource-heavy deliverables (like videos and tutorials) are really difficult to maintain. Communication also  increases in importance in a rapidly-paced cycle. These and other areas provide us with some good lessons learned.</li>
+      <li>The jury is still out on a few experiments! Things like investing more heavily in in-app help and automating doc publication in tandem with code deployment are among the experiments we’re attempting to get better at this new world.</li>
+    </ul>
+  </div>
+</div>
+
+
+<div class="row row-speaker">
+  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="../../../../img/2015/speakers/jfernandes.jpg" />
+  </div>
+  <div class="col-md-8 col-sm-8">
+    <h3>
+      Joao Fernandes
+      <span class="speaker-details">
+        OutSystems&nbsp;&mdash;&nbsp;<a href="https://twitter.com/joaofnfernandes">@joaofnfernandes</a>
+      </span>
+    </h3>
+    <h4>User-Story Driven Docs</h4>
+    <p>
+      At OutSystems we make an awesome development platform, but our
+      documentation wasn't that awesome. We focused on describing each button
+      available on the user interface, and not the user intentions and goals.
+    </p>
+    <p>
+      A clear example of this, was that we had a full documentation page for
+      the find text feature (CTRL+F). It described in excruciating detail every
+      option available on the UI, but didn't told our users how they could
+      actually find what they needed!
+    </p>
+    <p>
+      For us it was a nightmare to maintain the docs. Our development
+      environment was constantly changing and we couldn't keep up with the
+      changes.
+    </p>
+    <p>
+      More importantly, we weren't meeting the user needs. And that was clear
+      from pages with a single-digit page view, and from the feedback we got
+      from our customers.
+    </p>
+    <p>
+      Due to this approach, we also ended up having page titles that were
+      feature-oriented, which is not the best for SEO.  For instance, the doc
+      page for the find text feature was called "Find Tool".  Who in their
+      right mind would search for that on Google?
+    </p>
+    <p>
+      In this talk I'll tell you the story of how we stopped trying to document
+      the UI, and started creating user-story driven docs.  We now focus on
+      what the user wants to achieve and how to achieve it, independently of
+      how many windows or buttons they need to go through.
+    </p>
+    <p>
+      I'll cover:
+    </p>
+
+    <ul>
+      <li>
+        How you can check if you're documenting the UI, and why you should
+        avoid doing it
+      </li>
+      <li>Why users stories work better for our users</li>
+      <li>
+        How focusing on user stories changed the culture of our team and
+        allowed us to work on what really matters.
+      </li>
+      <li>
+        I'll also share some unexpected outcomes, like how this lead us to work
+        closer than ever with the development teams. Now our users get twice
+        the cake: better features and better docs!
+      </li>
+  </div>
+</div>
