@@ -272,6 +272,13 @@ div.row.row-speaker h1, h2, h3, h4 {
     margin-top: 0em;
 }
 
+div.row.row-speaker span.speaker-details {
+    display: block;
+    margin: .3em 0em;
+    font-size: .7em;
+    text-transform: initial;
+}
+
 /* Sponsors */
 div.row-sponsors > div {
     margin-top: 2em;

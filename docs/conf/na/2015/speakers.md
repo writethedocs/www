@@ -38,7 +38,6 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/wcunningham.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>Kevin Burke</h3>
@@ -73,8 +72,6 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/wcunningham.jpg" />
-    <img class="speaker-image" src="../../../../img/2015/speakers/wcunningham.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>Riona MacNamara & Aaron Gillies</h3>
@@ -109,7 +106,9 @@ template: 2015/details.html
   <div class="col-md-8 col-sm-8">
     <h3>
       Tana Franko
-      <span class="speaker-twitter"><a href="https://twitter.com/tanafranko">@tanafranko</a></span>
+      <span class="speaker-details">
+        Cisco&nbsp;&mdash;&nbsp;<a href="https://twitter.com/tanafranko">@tanafranko</a>
+      </span>
     </h3>
     <h4>Elevating the Hedgehog: Creativity in Tech Writing</h4>
     <p>
@@ -142,7 +141,9 @@ template: 2015/details.html
   <div class="col-md-8 col-sm-8">
     <h3>
       Janet Swisher
-      <span class="speaker-twitter"><a href="https://twitter.com/jmswisher">@jmswisher</a></span>
+      <span class="speaker-details">
+        Mozilla Foundation&nbsp;&mdash;&nbsp;<a href="https://twitter.com/jmswisher">@jmswisher</a>
+      </span>
     </h3>
     <h4>Entry points and guide posts: Helping new contributors find their way</h4>
     <p>
@@ -195,7 +196,6 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/wcunningham.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>Heidi Waterhouse</h3>
@@ -235,7 +235,9 @@ template: 2015/details.html
   <div class="col-md-8 col-sm-8">
     <h3>
       Gregory Koberger
-      <span class="speaker-twitter"><a href="https://twitter.com/gkoberger">@gkoberger</a></span>
+      <span class="speaker-details">
+        ReadMe.io&nbsp;&dash;&nbsp;<a href="https://twitter.com/gkoberger">@gkoberger</a>
+      </span>
     </h3>
     <h4>A Developers Approach to Documentation: From Passive to Dynamic</h4>
     <p>
@@ -265,16 +267,17 @@ template: 2015/details.html
   <div class="col-md-8 col-sm-8">
     <h3>
       Garen Torikian
-      <span class="speaker-twitter"><a href="https://twitter.com/gjtorikian">@gjtorikian</a></span>
+      <span class="speaker-details">
+        Github&nbsp;&mdash;&nbsp;
+        <a href="https://twitter.com/gjtorikian">@gjtorikian</a>
+      </span>
     </h3>
     <h4>How GitHub uses GitHub to document GitHub</h4>
     <p>
       Everyone knows that GitHub is the place to host your project's code. What
       you may not know is that the same workflow developers use to create,
       update, and manage their software is also used to create, update, and
-      manage GitHub's documentation. This talk is an expansion of a blog post
-      written earlier this year on the same subject:
-      https://github.com/blog/1939-how-github-uses-github-to-document-github
+      manage GitHub's documentation.
     </p>
     <p>
       https://help.github.com is GitHub's second-most viewed site--after the
@@ -297,7 +300,6 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/wcunningham.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>Mo Nishiyama</h3>
@@ -339,11 +341,14 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/wcunningham.jpg" />
-    <img class="speaker-image" src="../../../../img/2015/speakers/wcunningham.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
-    <h3>Jody Bleyle & Arthur Louie</h3>
+    <h3>
+      Jody Bleyle & Arthur Louie
+      <span class="speaker-details">
+        Salesforce
+      </span>
+    </h3>
     <h4>Writer, Meet Tester</h4>
     <p>
       While our APIs are still in development, we gather feedback internally.
@@ -373,20 +378,22 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/wcunningham.jpg" />
+    <img class="speaker-image" src="../../../../img/2015/speakers/tpodmajersky.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
-    <h3>Torrey Podmajersky</h3>
+    <h3>
+      Torrey Podmajersky
+      <span class="speaker-details">
+        Microsoft&nbsp;&mdash;&nbsp;<a href="https://twitter.com/torreybird">@torreybird</a>
+      </span>
+    </h3>
     <h4>Keep 'em playing</h4>
     <p>
       When people have to stop to understand labels and instructions, they
       can't stay engaged in their experiences. My job shipping Xbox One was to
-      use words so well, people wouldn't notice them at all.
-    </p>
-    <p>
-      In this talk, I'll show the only 3 reasons I use words in user
-      interfaces, how I find the right words, and how I increase engagement by
-      respecting people’ intent.
+      use words so well, people wouldn't notice them at all. In this talk, I'll
+      show the only 3 reasons I use words in user interfaces, how I find the
+      right words, and how I increase engagement by respecting people’ intent.
     </p>
   </div>
 </div>
@@ -394,10 +401,15 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/wcunningham.jpg" />
+    <img class="speaker-image" src="../../../../img/2015/speakers/mness.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
-    <h3>Matt Ness</h3>
+    <h3>
+      Matt Ness
+      <span class="speaker-details">
+        Splunk&nbsp;&mdash;&nbsp;<a href="https://twitter.com/moerex">@moerex</a>
+      </span>
+    </h3>
     <h4>Let’s Tell a Story: Scenario-Based Documentation</h4>
     <p>
       To new users, complex software products can seem like dark woods on a
@@ -407,14 +419,12 @@ template: 2015/details.html
       (reference docs), and providing step-by-step guides to things like “how
       to cross a river” or “how to knock on a door” (task-based docs).
     </p>
-
     <p>
       But none of that helps your customers when they just want to know how to
       get to Grandmother’s house, without getting lost in the forest, falling
       into the river, and accidentally going to the other cabin in the woods,
       where the lycanthropic senior citizens live.
     </p>
-
     <p>
       In other words, your customers need a narrative. And maybe they need lots
       of them. When you’re dealing with products that can be run and configured
@@ -422,7 +432,6 @@ template: 2015/details.html
       not do the trick. It’s like giving people a Choose Your Own Adventure
       book and only allowing them to choose one path through to the end.
     </p>
-
     <p>
       For my talk I’ll explain how we became aware of the need for better
       scenario-based documentation, and how we ended up building a prototype
@@ -432,13 +441,17 @@ template: 2015/details.html
       things we’ve learned along the way and offer best practices for those who
       want to tell a few stories of their own.
     </p>
+    <p>
+      Matt Ness is a technical writer with over twenty years of experience at
+      places like PeopleSoft, Oracle, and Intuit. He's currently a writer for
+      Splunk, a leader in the machine data analytics sector.
+    </p>
   </div>
 </div>
 
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/wcunningham.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>Marya DeVoto</h3>
@@ -471,8 +484,6 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/wcunningham.jpg" />
-    <img class="speaker-image" src="../../../../img/2015/speakers/wcunningham.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>Emily Hoffmann & Alfonso Roman</h3>
