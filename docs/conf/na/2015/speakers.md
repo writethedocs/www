@@ -4,7 +4,7 @@ template: 2015/details.html
 
 <div class="row row-speaker row-speaker-keynote">
   <div class="col-md-4 col-sm-4">
-    <img class="speaker-image" src="../../../../img/2015/speakers/mjohnston.jpg" />
+    <img class="speaker-image" src="/img/2015/speakers/mjohnston.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>Marcia Johnston</h3>
@@ -21,7 +21,7 @@ template: 2015/details.html
 
 <div class="row row-speaker row-speaker-keynote">
   <div class="col-md-4 col-sm-4">
-    <img class="speaker-image" src="../../../../img/2015/speakers/wcunningham.jpg" />
+    <img class="speaker-image" src="/img/2015/speakers/wcunningham.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>Ward Cunningham</h3>
@@ -378,7 +378,7 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/tpodmajersky.jpg" />
+    <img class="speaker-image" src="/img/2015/speakers/tpodmajersky.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -401,7 +401,7 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/mness.jpg" />
+    <img class="speaker-image" src="/img/2015/speakers/mness.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -567,7 +567,7 @@ template: 2015/details.html
 
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="../../../../img/2015/speakers/jfernandes.jpg" />
+    <img class="speaker-image" src="/img/2015/speakers/jfernandes.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
