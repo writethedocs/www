@@ -36,6 +36,7 @@ template: 2015/details.html
 </div>
 
 
+<a name="speaker-kburke"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
   </div>
@@ -70,15 +71,16 @@ template: 2015/details.html
 </div>
 
 
+<a name="speaker-rmacnamara"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
       Riona MacNamara
-      <div class="speaker-details">
+      <span class="speaker-details">
         Google
-      </div>
+      </span>
     </h3>
     <h4>Documentation, Disrupted How Two Technical Writers Changed Google Engineering Culture, Built a Team, Made Powerful Friends, And Got Their Mojo Back</h4>
     <p>
@@ -104,6 +106,7 @@ template: 2015/details.html
 </div>
 
 
+<a name="speaker-tfranko"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
     <img class="speaker-image" src="/img/2015/speakers/tfranko.jpg" />
@@ -139,6 +142,7 @@ template: 2015/details.html
 </div>
 
 
+<a name="speaker-jswisher"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
     <img class="speaker-image" src="/img/2015/speakers/jswisher.jpg" />
@@ -157,7 +161,6 @@ template: 2015/details.html
       factors helped, but a major element was the support we added for new
       contributors.
     </p>
-
     <p>
       “Scratch your own itch” is the proverbial invitation to contribute to
       open source projects. How well this works for contributing to code is
@@ -168,7 +171,6 @@ template: 2015/details.html
       contributor as to what they might do, what they personally are able to
       do, and what would be most helpful to do.
     </p>
-
     <p>
       In the 10 years that MDN has been a wiki (some of the content pre-dates
       the wiki), the community has always welcomed constructive contributions
@@ -177,19 +179,16 @@ template: 2015/details.html
       wishlists of things we’d like to see documented. However, these didn’t
       necessarily help newcomers gain traction.
     </p>
-
     <p>
       Only in the last year or so have we created documentation to help new
       contributors specifically. Our aim is to help newcomers find the right
       match among:
     </p>
-
     <ul>
       <li>Topics and tasks the person is interested in (what they like)</li>
       <li>Tasks the person has the skills and time to do (what they can do)</li>
       <li>Tasks that help MDN meet the goals that Mozilla has set (what we need/want)</li>
     </ul>
-
     <p>
       I’ll describe the features we’ve put in place to achieve this, as well as
       things we’re still working on. I’ll leave space for discussion so we can
@@ -199,6 +198,7 @@ template: 2015/details.html
 </div>
 
 
+<a name="speaker-hwaterhouse"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
   </div>
@@ -233,6 +233,7 @@ template: 2015/details.html
 </div>
 
 
+<a name="speaker-gkoberger"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
     <img class="speaker-image" src="/img/2015/speakers/gkoberger.jpg" />
@@ -265,6 +266,7 @@ template: 2015/details.html
 </div>
 
 
+<a name="speaker-gtorikian"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
     <img class="speaker-image" src="/img/2015/speakers/gtorikian.jpg" />
@@ -290,7 +292,6 @@ template: 2015/details.html
       how our valiant Documentation team writes and releases content for
       features on GitHub.com and GitHub Enterprise. I'll go over:
     </p>
-
     <ul>
       <li>How our teams (Development, Security, Docs, etc) coordinate before launching a feature</li>
       <li>The importance of opening pull requests early</li>
@@ -303,6 +304,7 @@ template: 2015/details.html
 </div>
 
 
+<a name="speaker-mnishiyama"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
   </div>
@@ -318,7 +320,6 @@ template: 2015/details.html
       outdated, neglected, and ambiguous support documents are transformed into
       timely, relevant, and pleasing works of art.
     </p>
-
     <p>
       The role of the documentarian is to help execute this transformation.
       However, we are often asked (or voluntold) by our organizations to wear
@@ -333,7 +334,6 @@ template: 2015/details.html
       working on a documentation equivalent of a cleaning up Superfund site can
       turn into super fun.
     </p>
-
     <p>
       In this talk, I will share my experiences and lessons learned as a
       technical writer who is witnessing this documentation culture change, one
@@ -344,6 +344,7 @@ template: 2015/details.html
 </div>
 
 
+<a name="speaker-jbleyle-alouie"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
   </div>
@@ -363,14 +364,12 @@ template: 2015/details.html
       regular “dogfooding” sessions in which users are provided with draft
       documentation and asked to find both doc and product bugs.
     </p>
-
     <p>
       Our testers created an automated mechanism to alert us of any API changes
       in case anything slipped past the review board. It’s proven to be
       invaluable for both doc and testing to keep up with the various teams who
       are building functionality into the API.
     </p>
-
     <p>
       Once our APIs are publicly available, we take pride in listening to our
       users in help forums, on Twitter, and through pilot programs. We’ve
@@ -381,6 +380,7 @@ template: 2015/details.html
 </div>
 
 
+<a name="speaker-tpodmajersky"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
     <img class="speaker-image" src="/img/2015/speakers/tpodmajersky.jpg" />
@@ -404,6 +404,7 @@ template: 2015/details.html
 </div>
 
 
+<a name="speaker-mness"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
     <img class="speaker-image" src="/img/2015/speakers/mness.jpg" />
@@ -455,6 +456,7 @@ template: 2015/details.html
 </div>
 
 
+<a name="speaker-mdevoto"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
   </div>
@@ -472,11 +474,9 @@ template: 2015/details.html
       design decisions you're making so you can plan for growth. Design by
       default is not a good strategy!
     </p>
-
     <p>
       This talk discusses how:
     </p>
-
     <ul>
       <li>Information inherently includes design, whether or not you meant to do it. Information also requires design, no matter how simple and straightforward it may seem.</li>
       <li>Technical information can be roughly sorted into modes such as descriptive, defensive, procedural, and tutorial. (These are *different* from concept-task-reference.)</li>
@@ -487,6 +487,7 @@ template: 2015/details.html
 </div>
 
 
+<a name="speaker-ehoffmann-aroman"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
   </div>
@@ -503,7 +504,6 @@ template: 2015/details.html
       mathematician who ever lived, in many ways a proof is not so different
       from a grand, abstract how-to document.
     </p>
-
     <p>
       Perhaps surprisingly, for most of human history mathematical proofs and
       mathematics itself have been written in prose. Even those of us who
@@ -518,7 +518,6 @@ template: 2015/details.html
       in “UI design”, for example the invention of arabic numerals (0, 1, 2,
       3,...) as a replacement for clunky roman numerals (I, II, III, IV…).
     </p>
-
     <p>
       Proofs and rigorous documentation empower their readers to greater
       understanding by never relying on authority or persuasion. A mathematical
@@ -536,6 +535,7 @@ template: 2015/details.html
 </div>
 
 
+<a name="speaker-cburwinkle"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
   </div>
@@ -570,6 +570,7 @@ template: 2015/details.html
 </div>
 
 
+<a name="speaker-jfernandes"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
     <img class="speaker-image" src="/img/2015/speakers/jfernandes.jpg" />
@@ -618,7 +619,6 @@ template: 2015/details.html
     <p>
       I'll cover:
     </p>
-
     <ul>
       <li>
         How you can check if you're documenting the UI, and why you should
