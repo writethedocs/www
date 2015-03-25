@@ -177,65 +177,8 @@ div.clear {
     clear: both;
 }
 
-/* Keynote block hackery
 
-Because Markdown flakes out when you mix html and markdown content, we're
-forced to style the elements based on order. So, uh, don't change the order
-of the elements in the markdown.
-
-*/
-div.speaker-keynote {
-    clear: left;
-    padding-bottom: 1em;
-}
-
-/* First paragraph wrapping image */
-div.speaker-keynote + p,
-div.speaker + p {
-    display: block;
-    float: left;
-    margin: 0px 20px 32px 0px;
-    width: 220px;
-    position: relative;
-}
-
-div.speaker + p {
-    width: 120px;
-    height: 120px;
-}
-
-div.speaker-keynote + p > img,
-div.speaker + p > img {
-    width: 100%;
-    border-radius: 5px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-}
-
-div.speaker-keynote + p + h3,
-div.speaker-keynote + p + h3 + h4,
-div.speaker + p + h3,
-div.speaker + p + h3 + h4 {
-    margin-top: 0em;
-    margin-bottom: .3em;
-}
-
-div.speaker-keynote + p + h3 + h4 + p,
-div.speaker-keynote + p + h3 + h4 + p + p,
-div.speaker + p + h3 + h4 + p,
-div.speaker + p + h3 + h4 + p + p {
-    overflow: auto;
-}
-
-@media (max-width: 768px), (max-device-width: 768px) {
-    div.speaker-keynote + p,
-    div.speaker + p {
-        float: none;
-        margin-top: 1.65em;
-        margin-bottom: .65em;
-    }
-}
-
+/* Speaker rows */
 div.row.row-speaker {
     margin-top: 1em;
     clear: both;
@@ -280,6 +223,21 @@ div.row.row-speaker span.speaker-details {
     margin: .3em 0em;
     font-size: .7em;
     text-transform: initial;
+}
+
+div.row.row-speakers {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+div.row.row-speakers dl > dt {
+    margin-top: .65em;
+    font-size: 1.2em;
+}
+
+div.row.row-speakers dl > dd {
+    font-style: italic;
+    padding: .3em 1em;
 }
 
 /* Sponsors */
