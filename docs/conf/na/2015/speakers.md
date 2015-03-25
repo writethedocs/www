@@ -74,7 +74,12 @@ template: 2015/details.html
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
   </div>
   <div class="col-md-8 col-sm-8">
-    <h3>Riona MacNamara & Aaron Gillies</h3>
+    <h3>
+      Riona MacNamara
+      <div class="speaker-details">
+        Google
+      </div>
+    </h3>
     <h4>Documentation, Disrupted How Two Technical Writers Changed Google Engineering Culture, Built a Team, Made Powerful Friends, And Got Their Mojo Back</h4>
     <p>
       Last year, we were inspired to action by a presentation at Write the
