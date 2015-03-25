@@ -728,3 +728,41 @@ template: 2015/details.html
 </div>
 
 
+<a name="speaker-kronninghall"></a>
+<div class="row row-speaker">
+  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/img/2015/speakers/kronninghall.jpg" />
+  </div>
+  <div class="col-md-8 col-sm-8">
+    <h3>
+      Karen Ronning-Hall
+    </h3>
+    <h4>The Science of Creating Unforgettable Content</h4>
+    <p>
+      Companies spend big bucks developing content to attract and retain
+      customers—most of it, forgettable. In fact, according to some cognitive
+      scientists, people remember only 10 percent of what you say. The other 90
+      percent is forgotten. To make matters worse, the 10 percent that people
+      remember differs between members of your audience.
+    </p>
+    <p>
+      Imagine the time and money we could all save if we knew how to control
+      what our audiences remember about our content, if we could break through
+      all of the distractions with content so compelling that our audiences
+      couldn’t ignore our message.
+    </p>
+    <p>
+      For an upcoming blog that I’m writing, I had the opportunity to interview
+      Dr. Carmen Simon. A co-founder of Rexi Media, Dr. Simon holds doctorates
+      in instructional technology and cognitive psychology.  We explored how
+      science could help us design memorable content.
+    </p>
+    <p>
+      In my Write the Docs presentation, I’ll share five scientifically-based
+      techniques that the audience can apply to their own content and
+      presentations to make them more memorable and influential. This
+      presentation will be based on information from my interview with Dr. Simon
+      and other sources.
+    </p>
+  </div>
+</div>
