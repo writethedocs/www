@@ -39,6 +39,7 @@ template: 2015/details.html
 <a name="speaker-kburke"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/img/2015/speakers/kburke.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>Kevin Burke</h3>
@@ -74,6 +75,7 @@ template: 2015/details.html
 <a name="speaker-rmacnamara"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/img/2015/speakers/rmacnamara.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -201,6 +203,7 @@ template: 2015/details.html
 <a name="speaker-hwaterhouse"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/img/2015/speakers/hwaterhouse.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>Heidi Waterhouse</h3>
@@ -307,6 +310,7 @@ template: 2015/details.html
 <a name="speaker-mnishiyama"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/img/2015/speakers/mnishiyama.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>Mo Nishiyama</h3>
@@ -347,6 +351,8 @@ template: 2015/details.html
 <a name="speaker-jbleyle-alouie"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/img/2015/speakers/jbleyle.jpg" />
+    <img class="speaker-image" src="/img/2015/speakers/alouie.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -459,6 +465,7 @@ template: 2015/details.html
 <a name="speaker-mdevoto"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/img/2015/speakers/mdevoto.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>Marya DeVoto</h3>
@@ -490,6 +497,8 @@ template: 2015/details.html
 <a name="speaker-ehoffmann-aroman"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/img/2015/speakers/ehoffmann.jpg" />
+    <img class="speaker-image" src="/img/2015/speakers/aroman.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>Emily Hoffmann & Alfonso Roman</h3>
@@ -538,6 +547,7 @@ template: 2015/details.html
 <a name="speaker-cburwinkle"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/img/2015/speakers/cburwinkle.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
