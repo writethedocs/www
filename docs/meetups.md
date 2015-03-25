@@ -16,8 +16,6 @@ We invite you to join a meetup in your local community. If your local
 community isn't listed here, feel free to start one and let us know.
 We'd be happy to promote it and list it here.
 
- 
-
 ### Current Meetups
 
 -   [San Francisco, CA, USA](http://www.meetup.com/Write-the-Docs/)
