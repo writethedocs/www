@@ -139,7 +139,7 @@ ul.nav.nav-center {
 }
 
 #button-tito-writethedocs-write-the-docs-na-2015-1 {
-    margin: 0em .65em;
+    margin: 0em 0em 1em 0em;
     padding: 9px 14px;
     border: none;
 
@@ -267,7 +267,10 @@ div.row.row-speaker img.speaker-image {
     }
 }
 
-div.row.row-speaker h1, h2, h3, h4 {
+div.row.row-speaker h1,
+div.row.row-speaker h2,
+div.row.row-speaker h3,
+div.row.row-speaker h4 {
     padding-top: 0em;
     margin-top: 0em;
 }
