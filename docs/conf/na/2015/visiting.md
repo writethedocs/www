@@ -1,32 +1,44 @@
-# Logistics
+template: 2015/details.html
 
-## Location
+# Visiting Portland
 
-Write the Docs 2015 will be held at the [Crystal
-Ballroom](http://www.mcmenamins.com/CrystalBallroom) in downtown
-Portland, and most conference events will be held within just a few
-blocks of the Crystal Ballroom.
+Wondering where to stay and how to get around once you get into Portland? The
+conference will be held at the [Crystal Ballroom][crystal], in downtown
+Portland, and most conference events will be held within just a few blocks of
+the Crystal Ballroom.
 
-## Transportation
+[crystal]: http://www.mcmenamins.com/CrystalBallroom
+
+
+## Where to stay
+
+We are not working with any of the hotels for attendee accommodations, but
+there are many hotels available within walking distance of the venue:
+
+* [Crystal Hotel](http://www.mcmenamins.com/CrystalHotel)
+* [Ace Hotel](http://www.acehotel.com/portland)
+* [Hotel DeLuxe](http://www.hoteldeluxeportland.com/)
+* [Mark Spencer](http://www.markspencer.com/)
+* [The Sentinel](http://www.sentinelhotel.com/)
+
+
+## How to get around
 
 Portland is a very accessible city and there are many transportation
 options available, public and otherwise.
 
-### Public Transportation
-
-#### The MAX
+### The MAX
 
 The [MAX](http://trimet.org/max) is Portland's major light-rail system.
 The MAX primarily connects Portland with the surrounding cities, such as
 Gresham, Beaverton, Clackamas, and Hillsboro.
 
-If you're flying into Portland Airport (PDX), we recommend taking the MAX into
-downtown Portland. There is a MAX station for the [red
-line](http://trimet.org/schedules/maxredline.htm) in the airport itself.
-The closest red line stop to the Crystal Ballroom is the Galleria SW
-10th stop.
+If you're flying into Portland Airport (PDX), we recommend taking the MAX
+into downtown Portland. There is a MAX station for the [red
+line](http://trimet.org/schedules/maxredline.htm) in the airport itself.  The
+closest red line stop to the Crystal Ballroom is the Galleria SW 10th stop.
 
-#### The Streetcar and Buses
+### The Streetcar and Buses
 
 For getting around within and around downtown Portland, the
 [Streetcar](http://www.portlandstreetcar.org/) can be a good option.
@@ -52,13 +64,3 @@ much recommend!):
 
 * [Waterfront Bikes](http://trimet.org/bus/)
 * [Cycle Portland](http://www.portlandbicycletours.com/)
-
-## Hotels
-
-There are many hotels available within walking distance of the venue:
-
-* [Crystal Hotel](http://www.mcmenamins.com/CrystalHotel)
-* [Ace Hotel](http://www.acehotel.com/portland)
-* [Hotel DeLuxe](http://www.hoteldeluxeportland.com/)
-* [Mark Spencer](http://www.markspencer.com/)
-* [The Sentinel](http://www.sentinelhotel.com/)
