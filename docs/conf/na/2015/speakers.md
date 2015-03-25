@@ -646,3 +646,41 @@ template: 2015/details.html
       </li>
   </div>
 </div>
+
+
+<a name="speaker-gwalli"></a>
+<div class="row row-speaker">
+  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/img/2015/speakers/gwalli.jpg" />
+  </div>
+  <div class="col-md-8 col-sm-8">
+    <h3>
+      Gaylin Walli
+      <span class="speaker-details">
+        Fastly&nbsp;&mdash;&nbsp;<a href="https://twitter.com/gwalli">@gwalli</a>
+      </span>
+    </h3>
+    <h4>The Making of Writing Black Belts: How Martial Arts Philosophy Forged an Ad-Hoc Writing Team that Writes Great Docs</h4>
+    <p>
+      At Fastly, a San Francisco-based content delivery network startup company,
+      I’ve learned that almost every one of my co-workers, regardless of their
+      job function, is willing to write our company’s documentation. Whether
+      they realize it or not, each one of them has ventured onto the path of
+      becoming a “writing team black belt.”
+    </p>
+    <p>
+      In this talk I’ll discuss how my company has unwittingly followed the
+      seven (and a half) rules I normally associate with becoming a great
+      martial artist. I’ll discuss how we’ve been using these rules to forge an
+      amazing ad-hoc documentation team with no formal department and no squad
+      of strategically placed technical writers. I’ll talk about how my company
+      has managed it despite the obstacles of startup life, including moving
+      seven times and growing from less than 30 employees when I first joined to
+      a throng of more than 150 a mere year and a half later. Finally, I’ll
+      point out some of our successes, a few of our failures, and how each of
+      the seven (and a half) rules has taught us what it means to write Fastly.
+    </p>
+  </div>
+</div>
+
+
