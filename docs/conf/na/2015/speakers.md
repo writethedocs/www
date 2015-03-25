@@ -580,6 +580,50 @@ template: 2015/details.html
 </div>
 
 
+<a name="speaker-mjang"></a>
+<div class="row row-speaker">
+  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/img/2015/speakers/mjang.jpg" />
+  </div>
+  <div class="col-md-8 col-sm-8">
+    <h3>
+      Mike Jang
+      <span class="speaker-details">
+        Forge Rock&nbsp;&mdash;&nbsp;<a href="https://twitter.com/WriteTheDocsPDX">@WriteTheDocsPDX</a>
+      </span>
+    </h3>
+    <h4>Start Your Own Write The Docs Meetup Group</h4>
+    <p>
+      With just a little work, you can feel the joy of Write The Docs all year!
+    </p>
+    <p>
+      I started the Write The Docs PDX Meetup Group back in May of 2014, just
+      after last year’s conference. As the only writer in my office, I often
+      feel alone. At Write The Docs NA 2014 conference, I felt the joy of
+      interacting with documentarians like myself, people who were facing
+      similar challenges. I wanted to continue feeling that joy.
+    </p>
+    <p>
+      I’ll describe my experiences creating a Write The Docs Meetup group in
+      Portland. I’ll show you how easy<b>&#42;</b> it is to create a Meetup group, attract
+      members, get sponsors, find speakers, and make sure all members of your
+      group feel welcome. I’ll tell you about the Meetups we’ve had, and what we
+      learned from each other.
+    </p>
+    <p>
+      More importantly, I’ll lay out the ways you can continue the conversation
+      we've had during WTD 2015. I'll share my best practices for excellent
+      Meetups for Documentarians.
+    </p>
+    <p>
+      <b>&#42;</b><i>Yes, “easy” is a euphemism for a lot of hard work. But the people you'll
+      meet and the contacts that you'll make can reward you and your company in
+      other ways.</i>
+    </p>
+  </div>
+</div>
+
+
 <a name="speaker-jfernandes"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
