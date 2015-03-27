@@ -42,7 +42,12 @@ template: 2015/details.html
     <img class="speaker-image" src="/img/2015/speakers/kburke.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
-    <h3>Kevin Burke</h3>
+    <h3>
+      Kevin Burke
+      <span class="speaker-details">
+        <a href="https://twitter.com/ekrubnivek">@ekrubnivek</a>
+      </span>
+    </h3>
     <h4>How to Write Documentation for People that Don't Read</h4>
     <p>
       It's 3AM, do you know where your users are? If people want to learn how
