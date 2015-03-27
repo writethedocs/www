@@ -317,7 +317,12 @@ template: 2015/details.html
     <img class="speaker-image" src="/img/2015/speakers/mnishiyama.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
-    <h3>Mo Nishiyama</h3>
+    <h3>
+      Mo Nishiyama
+      <span class="speaker-details">
+        <a href="https://twitter.com/synthcat">@synthcat</a>
+      </span>
+    </h3>
     <h4>What Can Brownfield Do For You?</h4>
     <p>
       As documentarians, we are rarely afforded an opportunity to thrive in a
