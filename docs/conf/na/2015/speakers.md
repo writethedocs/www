@@ -506,7 +506,13 @@ template: 2015/details.html
     <img class="speaker-image" src="/img/2015/speakers/aroman.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
-    <h3>Emily Hoffmann & Alfonso Roman</h3>
+    <h3>
+      Emily Hoffmann & Alfonso Roman
+      <span class="speaker-details">
+        <a href="https://twitter.com/embalita">@embalita</a>
+        <a href="https://twitter.com/alromanb">@alromanb</a>
+      </span>
+    </h3>
     <h4>A brief history of math writing: symbol, structure, and proof</h4>
     <p>
       A mathematical proof is a logically rigorous way of showing that
