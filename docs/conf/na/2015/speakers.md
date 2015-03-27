@@ -767,17 +767,16 @@ template: 2015/details.html
       couldn’t ignore our message.
     </p>
     <p>
-      For an upcoming blog that I’m writing, I had the opportunity to interview
-      Dr. Carmen Simon. A co-founder of Rexi Media, Dr. Simon holds doctorates
-      in instructional technology and cognitive psychology.  We explored how
+      In a blog that I wrote, I had the opportunity to interview Dr. Carmen
+      Simon. A co-founder of Rexi Media, Dr. Simon holds doctorates in
+      instructional technology and cognitive psychology.  We explored how
       science could help us design memorable content.
     </p>
     <p>
       In my Write the Docs presentation, I’ll share five scientifically-based
       techniques that the audience can apply to their own content and
       presentations to make them more memorable and influential. This
-      presentation will be based on information from my interview with Dr. Simon
-      and other sources.
-    </p>
+      presentation will be based on information from my interview with Dr.
+      Simon and other sources.
   </div>
 </div>
