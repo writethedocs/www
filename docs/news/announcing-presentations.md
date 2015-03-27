@@ -54,25 +54,25 @@ Here is the full list of presentations for Write the Docs North America 2015:
 
 We also have the [full talk abstracts][speakers] available on our website.
 
-[speakers]: http://writethedocs.org/conf/na/2015/speakers/
-[speaker-kburke]: http://writethedocs.org/conf/na/2015/speakers/#speaker-kburke
-[speaker-rmacnamara]: http://writethedocs.org/conf/na/2015/speakers/#speaker-rmacnamara
-[speaker-tfranko]: http://writethedocs.org/conf/na/2015/speakers/#speaker-tfranko
-[speaker-jswisher]: http://writethedocs.org/conf/na/2015/speakers/#speaker-jswisher
-[speaker-hwaterhouse]: http://writethedocs.org/conf/na/2015/speakers/#speaker-hwaterhouse
-[speaker-gkoberger]: http://writethedocs.org/conf/na/2015/speakers/#speaker-gkoberger
-[speaker-gtorikian]: http://writethedocs.org/conf/na/2015/speakers/#speaker-gtorikian
-[speaker-mnishiyama]: http://writethedocs.org/conf/na/2015/speakers/#speaker-mnishiyama
-[speaker-jbleyle-alouie]: http://writethedocs.org/conf/na/2015/speakers/#speaker-jbleyle-alouie
-[speaker-tpodmajersky]: http://writethedocs.org/conf/na/2015/speakers/#speaker-tpodmajersky
-[speaker-mness]: http://writethedocs.org/conf/na/2015/speakers/#speaker-mness
-[speaker-mdevoto]: http://writethedocs.org/conf/na/2015/speakers/#speaker-mdevoto
-[speaker-ehoffmann-aroman]: http://writethedocs.org/conf/na/2015/speakers/#speaker-ehoffmann-aroman
-[speaker-cburwinkle]: http://writethedocs.org/conf/na/2015/speakers/#speaker-cburwinkle
-[speaker-mjang]: http://writethedocs.org/conf/na/2015/speakers/#speaker-mjang
-[speaker-jfernandes]: http://writethedocs.org/conf/na/2015/speakers/#speaker-jfernandes
-[speaker-gwalli]: http://writethedocs.org/conf/na/2015/speakers/#speaker-gwalli
-[speaker-kronninghall]: http://writethedocs.org/conf/na/2015/speakers/#speaker-kronninghall
+[speakers]: /conf/na/2015/speakers/
+[speaker-kburke]: /conf/na/2015/speakers/#speaker-kburke
+[speaker-rmacnamara]: /conf/na/2015/speakers/#speaker-rmacnamara
+[speaker-tfranko]: /conf/na/2015/speakers/#speaker-tfranko
+[speaker-jswisher]: /conf/na/2015/speakers/#speaker-jswisher
+[speaker-hwaterhouse]: /conf/na/2015/speakers/#speaker-hwaterhouse
+[speaker-gkoberger]: /conf/na/2015/speakers/#speaker-gkoberger
+[speaker-gtorikian]: /conf/na/2015/speakers/#speaker-gtorikian
+[speaker-mnishiyama]: /conf/na/2015/speakers/#speaker-mnishiyama
+[speaker-jbleyle-alouie]: /conf/na/2015/speakers/#speaker-jbleyle-alouie
+[speaker-tpodmajersky]: /conf/na/2015/speakers/#speaker-tpodmajersky
+[speaker-mness]: /conf/na/2015/speakers/#speaker-mness
+[speaker-mdevoto]: /conf/na/2015/speakers/#speaker-mdevoto
+[speaker-ehoffmann-aroman]: /conf/na/2015/speakers/#speaker-ehoffmann-aroman
+[speaker-cburwinkle]: /conf/na/2015/speakers/#speaker-cburwinkle
+[speaker-mjang]: /conf/na/2015/speakers/#speaker-mjang
+[speaker-jfernandes]: /conf/na/2015/speakers/#speaker-jfernandes
+[speaker-gwalli]: /conf/na/2015/speakers/#speaker-gwalli
+[speaker-kronninghall]: /conf/na/2015/speakers/#speaker-kronninghall
 
 ## Sponsors
 
