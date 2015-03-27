@@ -3,27 +3,28 @@ template: blog.2015.html
 # Announcing Presentations and Speakers
 
 Our talk selection process has just wrapped up and we're eager to
-announce the presentations for this year's conference. We try to
+announce the presentations for this year's conference. Each year we 
 highlight the intersection of tech writers and developers with our
-presentations, because we feel we all have a lot to learn from each
+presentations, because we all have a lot to learn from each
 other.
 
 Within the next couple weeks, we'll be announcing the details for the
-conference events: the annual hike on Saturday, the documentation hack
-day and the preregistration party on Sunday, and the official party on
-Monday evening. You'll be able to sign up for tickets for those events
-once everything is announced.
+conference events: the annual hike on Saturday, the writing 
+day and reception on Sunday, and the official party on
+Monday evening. 
 
-If you haven't purchased your ticket yet, you still have some time. [You can
-pick up your tickets here][tickets].
+If you haven't purchased your ticket yet, you still have some time. You can
+pick up your tickets [here][tickets]. 
 
-Coming to Portland, but need help planning your stay? [Here are some resources
+Coming to Portland, but need help planning your stay? We have published some [resources
 on where to stay and how to get around][visiting].
 
 [visiting]: http://writethedocs.org/conf/na/2015/visiting/
 [tickets]: http://writethedocs.org/conf/na/2015/#tickets
 
 ## Presentations
+
+Here is the full list of presentations for Write the Docs North America 2015:
 
  * Kevin Burke - [How to Write Documentation for People that Don't Read][speaker-kburke]
  * Riona MacNamara - [Documentation, Disrupted: How Two Technical Writers
@@ -51,7 +52,7 @@ on where to stay and how to get around][visiting].
    Docs][speaker-gwalli]
  * Karen Ronning-Hall - [The Science of Creating Unforgettable Content][speaker-kronninghall]
 
-[Read the full list of presentations and the talk outlines][speakers]
+We also have the [full talk abstracts][speakers] available on our website.
 
 [speakers]: http://writethedocs.org/conf/na/2015/speakers/
 [speaker-kburke]: http://writethedocs.org/conf/na/2015/speakers/#speaker-kburke
@@ -76,7 +77,7 @@ on where to stay and how to get around][visiting].
 ## Sponsors
 
 Our sponsors are one of the reasons we are able to have such a wonderful
-conference each year. We're happy to have the following sponsors join us
+conference each year. We're happy to have the following aditional sponsors join us
 in supporting the Write the Docs community:
 
  * [Rackspace](http://rackspace.com/)
@@ -85,4 +86,4 @@ in supporting the Write the Docs community:
 ----
 
 We're anticipating another fantastic conference, and we look forward to
-seeing you all in May!
+seeing you all in May! 
