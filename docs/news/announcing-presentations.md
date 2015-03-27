@@ -3,12 +3,11 @@ template: blog.2015.html
 # Announcing Presentations and Speakers
 
 Our talk selection process has just wrapped up and we're eager to
-announce the presentations for this year's conference. Each year we 
-highlight the intersection of tech writers and developers with our
-presentations, because we all have a lot to learn from each
+announce the presentations for this year's conference. Each year we select talks that emphasize
+intersections between tech writers and developers, because we all have so much to learn from each
 other.
 
-Within the next couple weeks, we'll be announcing the details for the
+In the next few weeks, we'll be announcing the details for the
 conference events: the annual hike on Saturday, the writing 
 day and reception on Sunday, and the official party on
 Monday evening. 
@@ -76,8 +75,8 @@ We also have the [full talk abstracts][speakers] available on our website.
 
 ## Sponsors
 
-Our sponsors are one of the reasons we are able to have such a wonderful
-conference each year. We're happy to have the following aditional sponsors join us
+Sponsorship is one of the reasons we are able to have such a wonderful
+conference each year. We're happy to have the following additional sponsors join us
 in supporting the Write the Docs community:
 
  * [Rackspace](http://rackspace.com/)
