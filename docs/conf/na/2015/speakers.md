@@ -598,7 +598,7 @@ template: 2015/details.html
     <h3>
       Mike Jang
       <span class="speaker-details">
-        Forge Rock&nbsp;&mdash;&nbsp;<a href="https://twitter.com/WriteTheDocsPDX">@WriteTheDocsPDX</a>
+        ForgeRock&nbsp;&mdash;&nbsp;<a href="https://twitter.com/WriteTheDocsPDX">@WriteTheDocsPDX</a>
       </span>
     </h3>
     <h4>Start Your Own Write The Docs Meetup Group</h4>
