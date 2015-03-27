@@ -751,6 +751,9 @@ template: 2015/details.html
   <div class="col-md-8 col-sm-8">
     <h3>
       Karen Ronning-Hall
+      <span class="speaker-details">
+        <a href="https://twitter.com/karenronning">@karenronning</a>
+      </span>
     </h3>
     <h4>The Science of Creating Unforgettable Content</h4>
     <p>
