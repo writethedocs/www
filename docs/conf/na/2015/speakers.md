@@ -7,7 +7,11 @@ template: 2015/details.html
     <img class="speaker-image" src="/img/2015/speakers/mjohnston.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
-    <h3>Marcia Johnston</h3>
+    <h3>Marcia Riefer Johnston
+      <span class="speaker-details">
+        <a href="https://twitter.com/MarciaRJohnston">@MarciaRJohnston</a>
+      </span>
+    </h3>
     <h4>Keynote: We Are All Abbott and Costello</h4>
     <p>
       Documentarians and technical writers have seen many changes in our
@@ -18,13 +22,16 @@ template: 2015/details.html
   </div>
 </div>
 
-
 <div class="row row-speaker row-speaker-keynote">
   <div class="col-md-4 col-sm-4">
     <img class="speaker-image" src="/img/2015/speakers/wcunningham.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
-    <h3>Ward Cunningham</h3>
+    <h3>Ward Cunningham
+      <span class="speaker-details">
+        New Relic&nbsp;&mdash;&nbsp;<a href="https://twitter.com/WardCunningham">@WardCunningham</a>
+      </span>
+    </h3>
     <h4>Keynote: The Federated Wiki</h4>
     <p>
       Just as the first wiki changed how people write, our new wiki will change
@@ -34,7 +41,6 @@ template: 2015/details.html
     </p>
   </div>
 </div>
-
 
 <a name="speaker-kburke"></a>
 <div class="row row-speaker">
