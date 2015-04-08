@@ -9,7 +9,7 @@ template: 2015/details.html
   <div class="col-md-8 col-sm-8">
     <h3>Marcia Riefer Johnston
       <span class="speaker-details">
-        <a href="https://twitter.com/MarciaRJohnston">@MarciaRJohnston</a>
+        <a href="http://writing.rocks/">Writing Rocks</a>&nbsp;&mdash;&nbsp;<a href="https://twitter.com/MarciaRJohnston">@MarciaRJohnston</a>
       </span>
     </h3>
     <h4>Keynote: We Are All Abbott and Costello</h4>
