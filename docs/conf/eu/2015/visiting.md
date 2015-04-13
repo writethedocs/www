@@ -18,13 +18,16 @@ several other US airports.
 
 Prague's [Vaclav Havel airport](http://www.prg.aero/en/) provides many direct and low-cost
 flights with airlines such as Czech Airlines, Ryanair, Wizz Air, Air Berlin, Norwegian... 
-You get the idea.
+You get the idea. To get from the airport to the city center, you can either take a bus 
+(average joureny time 30 minutes, cost ~30czk) or a taxi (average journey time 15-20 minutes
+depending on traffic, cost ~500czk).
 
 ### Trains
 
 Prague's main train station (Hlavni Nadrazi / hl.n) is a central railway hub, with direct
 trains to Germany, Poland, Austria, and Hungary. We recommend train lines by EuroCity (EC), 
-InterCity (IC) or RailJet (RJ). 
+InterCity (IC) or RailJet (RJ). You can even take a train from Denmark
+ [inside a ferry!](http://en.wikipedia.org/wiki/Vogelfluglinie)
 
 To look up train connections, head over to the [ČD Website](https://www.cd.cz/eshop/default.aspx).
 
@@ -33,7 +36,7 @@ To look up train connections, head over to the [ČD Website](https://www.cd.cz/e
 Prague is a popular destination among backpackers and shoestring travelers,
 so there are many affordable bus options if you are traveling within Europe. 
 The biggest Czech bus company [Student Agency](http://www.studentagency.eu/) operates direct
-bus lines between Prague and cities like Berlin, Vienna, Zagreb, Munic, etc. Global companies like
+bus lines between Prague and cities like Berlin, Vienna, Zagreb, Munich, etc. Global companies like
 [Eurolines](http://www.eurolines.com/en/) operate direct lines to many European cities.
 
 
@@ -72,7 +75,7 @@ bus stations.
 If you're flying into Prague Airport (PRG), you can take bus number 100, 119, or the
 Airport Express (AE) bus. Depending on where you are staying, these bus lines
 will connect you to several major metro stations as well as the main train station. 
-[More information on the DPP website](http://www.dpp.cz/en/public-transit-to-prague-airport/)
+[More information on airport transfers.](http://www.dpp.cz/en/public-transit-to-prague-airport/)
 
 ### Taxi companies
 
