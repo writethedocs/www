@@ -16,7 +16,7 @@ Past talks have also covered such diverse topics as typography, empathy, and [Wa
 
 The main event takes place on August 31 - September 1 (Monday and Tuesday) from 9am to 6pm.
 Our venue, [Klub Lavka][klub-lavka], sits right [on the bank of the Charles river](https://goo.gl/maps/OHjne), 
-overlooking the Charles bridge.
+is located in the historical city center of Prague, overlooking the Charles bridge.
 
 ### Auxiliary Events
 
@@ -24,11 +24,11 @@ Write the Docs is more than a conference.
 Each year we organize other events so that people can get to know each other better.
 These events are optional, but we strongly recommend you come into town Saturday or early Sunday to participate.
 
-This year, those events will include:
+This year, these events will include:
 
-* City tour (Saturday Afternoon) --- Join us for a walking tour of the old city center around the beautiful and historical sights that Prague has to offer.
-* Conference Reception (Sunday Night) --- Come early, get your badge, and get to know other attendees.
-* Official Party (Monday Night) --- Wind down and talk about the day's talks in a relaxed and friendly environment.
+* City tour (Sunday morning) --- Join us for a walking tour of the old city center around the beautiful and historical sights that Prague has to offer.
+* Conference Reception (Sunday evening) --- Come early, get your badge, and get to know other attendees.
+* Official Party (Monday night) --- Wind down and talk about the day's talks in a relaxed and friendly environment.
 
 ### Keep in Touch
 
