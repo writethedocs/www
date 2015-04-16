@@ -378,6 +378,12 @@ template: 2015/details.html
     </h3>
     <h4>Writer, Meet Tester</h4>
     <p>
+      A software tester can be a tech writer’s best friend, and vice versa. Jody
+      (writer) and Arthur (tester) work together on APIs at Salesforce.com, and
+      we’ll talk about the tools and techniques we use to improve the quality of
+      both our software and our documentation at the same time.
+    </p>
+    <p>
       While our APIs are still in development, we gather feedback internally.
       We established an API design review board to approve every API change --
       this made a huge difference in ensuring that we offer a consistent,
