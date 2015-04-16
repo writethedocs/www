@@ -86,6 +86,7 @@ template: 2015/details.html
 <a name="speaker-rmacnamara"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/img/2015/speakers/rmacnamara.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
