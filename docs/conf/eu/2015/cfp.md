@@ -83,7 +83,7 @@ Proposal decisions will be sent by the middle of June.
 ## Questions?
 
 If you have any questions, please email us at
-[conf@writethedocs.org](mailto:conf@writethedocs.org) and let us know.
+[conf@writethedocs.org](mailto:europe@writethedocs.org) and let us know.
 
 # Submit a Proposal
 

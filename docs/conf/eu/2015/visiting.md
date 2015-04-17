@@ -51,7 +51,7 @@ Just head over to your favorite booking site or use one of these sites to resear
 * [Hotels.com](http://www.hotels.com/)
 
 If you need help or advice when considering a specific hotel or apartment, 
-send us an email at [conf@writethedocs.org](mailto:conf@writethedocs.org)
+send us an email at [europe@writethedocs.org](mailto:europe@writethedocs.org)
 and we'll be happy to help you out.
 
 ## How to get around

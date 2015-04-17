@@ -2,7 +2,7 @@ template: blog.2015.html
 
 # Announcing Write the Docs EU 2015
 
-We are excited to announce the dates for the 2015 EU conference!
+We are excited to announce the 2015 EU conference!
 
 * [Write the Docs Europe](http://www.writethedocs.org/conf/eu/2015/) will be 
 in **Prague, Czech Republic on August 31 - September 1, 2015.**
@@ -26,13 +26,12 @@ These events are optional, but we strongly recommend you come into town Saturday
 
 This year, these events will include:
 
-* City tour (Sunday morning) --- Join us for a walking tour of the old city center around the beautiful and historical sights that Prague has to offer.
+* City Tour (Sunday morning) --- Join us for a walking tour of the old city center around the beautiful and historical sights that Prague has to offer.
 * Conference Reception (Sunday evening) --- Come early, get your badge, and get to know other attendees.
 * Official Party (Monday night) --- Wind down and talk about the day's talks in a relaxed and friendly environment.
 
 ### Keep in Touch
 
-Early-bird tickets are on sale and the call for proposals is open!
 If you wish to receive more information as it becomes available, sign up for [our mailing list][mailing-list] or follow us on Twitter at [@writethedocs][twitter].
 
 If you are interested in sponsorship, please [send us an email][email-us].
