@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block head_link %}
+    <!-- Open Graph protocol -->
+    <meta property="og:image" content="http://www.writethedocs.org/img/2015/site-eu-logo.png">
+    <meta property="og:title" content="A two day conference for technical writers, documentarians, and all those who write the docs.">
+    <meta property="og:type" content="conference">
+    <meta property="og:url" content="http://www.writethedocs.org/conf/eu/2015/">
+    <meta property="og:site_name" content="Write The Docs">
+    <!-- /Open Graph protocol -->
+
+    <!-- Google Plus1 -->
+    <meta itemprop="name" content="Write The Docs">
+    <meta itemprop="description" content="A two day conference for technical writers, documentarians, and all those who write the docs.">
+    <meta itemprop="image" content="http://www.writethedocs.org/img/2015/site-eu-logo.png">
+    <!-- /Google Plus1 -->
+
+  {{ super() }}
+  <link href="{{ base_url }}/css/2015.main.css" rel="stylesheet" />
+  <script src='https://js.tito.io/v1' async></script>
+{% endblock %}
+
+{% block container %}
+  <div class="hero hero-conf">
+    <div class="container">
+      <div class="row row-logo">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-12">
+          <a href="/conf/eu/2015/">
+            <img src="{{ base_url }}/img/2015/site-eu-logo.png" />
+          </a>
+        </div>
+      </div>
+      <div class="row row-nav">
+        <div class="hero-nav col-md-8 col-md-offset-2 col-sm-12">
+          <ul class="nav nav-pills nav-center">
+            <li><a href="#speakers">Speakers</a></li>
+            <li><a href="#tickets">Tickets</a></li>
+            <li><a href="#events">Events</a></li>
+            <li><a href="#sponsors">Sponsors</a></li>
+            <li><a href="#contact-us">Contact</a></li>
+          </ul>
+          <!--
+          <ul class="nav nav-pills nav-center">
+            <li class="highlight"><a href="https://ti.to/writethedocs/">Buy a Ticket</a></li>
+          </ul>
+          -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-content">
+        {% include "content.html" %}
+      </div>
+    </div>
+  </div>
+{% endblock %}
