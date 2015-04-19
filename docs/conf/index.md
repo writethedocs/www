@@ -21,7 +21,7 @@ improve the art and science of documentation.
 
 #### Europe
 
-- Write The Docs, September 2015, in **Prague, Czech Republic**
+- [Write The Docs, September 2015](eu/2015.md), in **Prague, Czech Republic**
 
 ## Past
 
