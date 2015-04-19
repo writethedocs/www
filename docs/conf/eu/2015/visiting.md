@@ -1,4 +1,4 @@
-template: 2015/details.html
+template: 2015/eu/details.html
 
 # Visiting Prague
 

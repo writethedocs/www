@@ -1,4 +1,4 @@
-template: blog.2015.html
+template: 2015/eu/blog.html
 
 # Announcing Write the Docs EU 2015
 

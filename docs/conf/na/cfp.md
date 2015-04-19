@@ -1,4 +1,4 @@
-template: blog.2015.html
+template: 2015/na/blog.html
 
 ## Call for Proposals
 

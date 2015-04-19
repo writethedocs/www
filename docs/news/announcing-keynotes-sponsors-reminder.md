@@ -1,4 +1,4 @@
-template: blog.2015.html
+template: 2015/na/blog.html
 
 ## Announcing Keynotes, Initial Sponsors, and a Proposal Reminder
 
