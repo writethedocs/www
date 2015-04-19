@@ -345,7 +345,7 @@
        xlink:href="#linearGradient3779"
        id="linearGradient5040"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.7376871,0,0,0.7376871,41.726388,246.90525)"
+       gradientTransform="matrix(0.7376871,0,0,0.7376871,38.726388,246.90525)"
        x1="133.19279"
        y1="915.35468"
        x2="1366.8073"
@@ -367,9 +367,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64"
-     inkscape:cx="806.66296"
-     inkscape:cy="76.355519"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="1011.6139"
+     inkscape:cy="15.820061"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -399,7 +399,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -495,15 +495,15 @@
          sodipodi:linespacing="125%"
          id="text4909"
          y="943.54907"
-         x="136.92625"
+         x="133.92625"
          style="font-size:60.49033356px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5040);fill-opacity:1;stroke:none;font-family:Aleo;-inkscape-font-specification:Aleo Light"
          xml:space="preserve"><tspan
            style="font-size:107.04443359px;fill:url(#linearGradient5040);fill-opacity:1"
            y="943.54907"
-           x="136.92625"
+           x="133.92625"
            id="tspan4911"
            sodipodi:role="line"
-           dx="0 -9.849947 0 0 0 1.6416576 0 -5.7458019 0 -4.1041446 0 0 0 0 0 0 0 -0.8208288 0 -5.7458019 2.4624865">AUG 31 - SEPT 1 PRAGUE</tspan></text>
+           dx="0 -9.849947 0 0 0 1.6416576 0 -5.7458019 0 -4.1041446 0 0 3.515625 0 0 0 0 -0.8208288 0 -5.7458019 2.4624865">AUG 31 - SEPT 1 PRAGUE</tspan></text>
     </g>
   </g>
 </svg>
