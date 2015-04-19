@@ -1,4 +1,4 @@
-template: blog.2015.html
+template: base.html
 
 ## What's a Documentarian?
 
