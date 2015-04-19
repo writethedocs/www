@@ -15,5 +15,6 @@ pages:
   - ['conf/eu/2015.md', 'Conferences', 'Europe 2015']
   - ['conf/eu/2015/cfp.md', 'Conferences', 'Call for Proposals - Europe 2015']
   - ['conf/eu/2015/visiting.md', 'Conferences', 'Visiting Prague - Europe 2015']
+  - ['conf/eu/2015/news/announcing-eu-2015.md', 'Announcing Write the Docs 2015 EU']
   - ['meetups.md', 'Meetups']
   - ['guide/documentarian.md', 'Documentarian']
