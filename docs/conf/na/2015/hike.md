@@ -1,8 +1,8 @@
 template: 2015/na/details.html
 
 
-Write the Docs NA Hike
-======================
+Write the Docs Hike
+===================
 
 One of the organizers, Eric Holscher, knows a ton about hiking in the
 Portland area, and would love to show off a side of Portland visitors
@@ -16,7 +16,6 @@ because it's the best one easily accessible from downtown Portland.
 It's rained on us the past couple years,
 but I have faith it will be beautiful this year!
 We shall see Mount Hood at the top :)
-
 
 Logistics
 ---------
