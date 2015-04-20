@@ -15,20 +15,12 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="site-eu-logo-composition.svg">
+   sodipodi:docname="site-logo-composition.svg"
+   inkscape:export-filename="/Users/anthony/Desktop/eu-site.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
-    <linearGradient
-       id="linearGradient6333">
-      <stop
-         style="stop-color:#ad7878;stop-opacity:1;"
-         offset="0"
-         id="stop6335" />
-      <stop
-         style="stop-color:#b58579;stop-opacity:1;"
-         offset="1"
-         id="stop6337" />
-    </linearGradient>
     <linearGradient
        id="linearGradient3779">
       <stop
@@ -49,16 +41,27 @@
        x2="903.14038"
        y2="461.40115"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.9429301,0,0,2.9429301,-1626.5172,-353.17852)" />
+       gradientTransform="matrix(3.1356151,0,0,3.1356151,-1786.9243,-458.78499)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient6333"
-       id="linearGradient6339"
-       x1="-327.84"
-       y1="643.52002"
-       x2="-228.315"
-       y2="643.52002"
-       gradientUnits="userSpaceOnUse" />
+       xlink:href="#linearGradient3779"
+       id="linearGradient5366"
+       x1="778.19714"
+       y1="660.92004"
+       x2="1175.6559"
+       y2="660.92004"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(45,33)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3779"
+       id="linearGradient6661"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.7136024,0,0,2.7136024,-1394.1761,-300.90556)"
+       x1="895.00568"
+       y1="332.82974"
+       x2="903.14038"
+       y2="461.40115" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -67,19 +70,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="1368.3369"
-     inkscape:cy="266.77867"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1109.3668"
+     inkscape:cy="257.75023"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1822"
-     inkscape:window-height="983"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
      inkscape:window-x="0"
-     inkscape:window-y="26"
-     inkscape:window-maximized="0">
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-to-guides="false">
     <sodipodi:guide
        orientation="1,0"
        position="725.28953,646.49763"
@@ -90,12 +94,20 @@
        id="guide2987" />
     <sodipodi:guide
        orientation="0,1"
-       position="606.0794,387.71712"
+       position="881.37472,388.02661"
        id="guide3787" />
     <sodipodi:guide
        orientation="0,1"
-       position="575.06204,209.67742"
+       position="445.47727,251.52798"
        id="guide3789" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="694.56763,210.64302"
+       id="guide5372" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="895.78714,314.85588"
+       id="guide5374" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -105,7 +117,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -116,60 +128,61 @@
      transform="translate(0,-252.36218)">
     <text
        xml:space="preserve"
-       style="font-size:200px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:87.00000047999998287%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#f2f0eb;fill-opacity:1;stroke:none;font-family:Bree Serif;-inkscape-font-specification:Bree Serif"
-       x="733.67358"
+       style="font-size:200px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:87.00000048%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#f2f0eb;fill-opacity:1;stroke:none;font-family:Bree Serif;-inkscape-font-specification:Bree Serif"
+       x="779.67358"
        y="451.40265"
        id="text2989"
        sodipodi:linespacing="87%"><tspan
          sodipodi:role="line"
          id="tspan2991"
-         x="733.67358"
+         x="779.67358"
          y="451.40265"
-         style="font-weight:normal;-inkscape-font-specification:Bree Serif;fill:#f2f0eb;fill-opacity:1">WRITE</tspan><tspan
+         style="font-weight:normal;fill:#f2f0eb;fill-opacity:1;-inkscape-font-specification:Bree Serif">WRITE</tspan><tspan
          sodipodi:role="line"
-         x="733.67358"
+         x="779.67358"
          y="625.40265"
          id="tspan2993"
          dx="0 0 -1.0101526"
-         style="font-weight:normal;-inkscape-font-specification:Bree Serif;fill:#f2f0eb;fill-opacity:1">THE</tspan><tspan
+         style="font-weight:normal;fill:#f2f0eb;fill-opacity:1;-inkscape-font-specification:Bree Serif">THE</tspan><tspan
          sodipodi:role="line"
-         x="733.67358"
+         x="779.67358"
          y="799.40265"
          id="tspan2995"
          dx="0 -5.0507622 -5.0507627 -7.0710673"
-         style="font-weight:normal;-inkscape-font-specification:Bree Serif;fill:#f2f0eb;fill-opacity:1">DOCS</tspan><tspan
+         style="font-weight:normal;fill:#f2f0eb;fill-opacity:1;-inkscape-font-specification:Bree Serif">DOCS</tspan><tspan
          sodipodi:role="line"
-         x="733.67358"
+         x="779.67358"
          y="973.40265"
          id="tspan2997"
-         dx="0 -6.060915 -5.0507627"
-         style="font-weight:normal;-inkscape-font-specification:Bree Serif;fill:#f2f0eb;fill-opacity:1">2015</tspan></text>
+         style="font-weight:normal;fill:#f2f0eb;fill-opacity:1;-inkscape-font-specification:Bree Serif"
+         dx="0 -2.8284268 2.383014e-08 -9.8994942 -8.485281 -2.8284271">EUROPE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:94.17376709px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:116.99999571%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient3785);fill-opacity:1;stroke:none;font-family:Aleo;-inkscape-font-specification:Aleo"
-       x="774.07324"
-       y="731.50146"
+       style="font-size:86.83527374px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:116.99999571%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient6661);fill-opacity:1;stroke:none;font-family:Aleo;-inkscape-font-specification:Aleo"
+       x="819.34845"
+       y="699.25079"
        id="text3771"
        sodipodi:linespacing="117%"><tspan
          sodipodi:role="line"
-         x="774.07324"
-         y="731.50146"
-         style="font-size:94.17376709px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3785);fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo Light"
-         dx="0 0 0 0 0 0 0 0 0 -13.139693 -0.57609797 0.076097965 3.2071068"
-         id="tspan5817"><tspan
-   dx="0 -7.5326858 0 0 0 0 -20.64809 9.3854952 3.7541981"
-   id="tspan5819"
-   style="font-size:94.17376709px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3785);fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo Light">AUG 31 - </tspan>SEPT 1</tspan><tspan
+         x="819.34845"
+         y="699.25079"
+         style="font-size:86.83527374px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6661);fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo Light"
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -15.577435 0 -10.384957"
+         id="tspan6657"><tspan
+           style="font-size:86.83527374px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6661);fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo Light"
+           id="tspan6659"
+           dx="0 -8 8.8817842e-16 0 0 0 0 -15.577435 0 -10.384957 1 1 3">AUG 31 - SEPT 1</tspan></tspan><tspan
          sodipodi:role="line"
-         x="774.07324"
-         y="841.68475"
-         id="tspan3775"
-         style="font-size:94.17376709px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3785);fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo Light"
-         dx="0 -2.1521959 0 -3.7663429 0.53804898">PRAGUE</tspan><tspan
+         x="819.34845"
+         y="800.84808"
+         style="font-size:86.83527374px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6661);fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo Light"
+         id="tspan6666"
+         dx="0 -1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -15.577435 0 -10.384957">2015</tspan><tspan
          sodipodi:role="line"
-         x="774.07324"
-         y="951.86804"
+         x="819.34845"
+         y="902.44531"
          id="tspan3777"
-         style="font-size:94.17376709px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3785);fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo Light" /></text>
+         style="font-size:86.83527374px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:116.99999571%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient6661);fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo Light"
+         dx="0 0.82842714 0 -5 3 2">PRAGUE</tspan></text>
   </g>
 </svg>
