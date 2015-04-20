@@ -1,8 +1,8 @@
 template: 2015/eu/blog.html
 
-# Announcing Write the Docs EU 2015
+# Announcing Write the Docs Europe 2015
 
-We are excited to announce the 2015 EU conference!
+We are excited to announce the 2015 European conference!
 
 * [Write the Docs Europe](http://www.writethedocs.org/conf/eu/2015/) will be 
 in **Prague, Czech Republic on August 31 - September 1, 2015.**
@@ -15,8 +15,7 @@ You can look forward to learning more about documentation systems, tech writing 
 Past talks have also covered such diverse topics as typography, empathy, and [Wabi-sabi][wabisabi].
 
 The main event takes place on August 31 - September 1 (Monday and Tuesday) from 9am to 6pm.
-Our venue, [Klub Lavka][klub-lavka], sits right [on the bank of the Charles river](https://goo.gl/maps/OHjne), 
-is located in the historical city center of Prague, overlooking the Charles bridge.
+Our venue, [Klub Lavka][klub-lavka], sits right [on the bank of the Charles river](https://goo.gl/maps/OHjne), in the historical city center of Prague, overlooking the Charles bridge.
 
 ### Auxiliary Events
 
@@ -29,6 +28,14 @@ This year, these events will include:
 * City Tour (Sunday morning) --- Join us for a walking tour of the old city center around the beautiful and historical sights that Prague has to offer.
 * Conference Reception (Sunday evening) --- Come early, get your badge, and get to know other attendees.
 * Official Party (Monday night) --- Wind down and talk about the day's talks in a relaxed and friendly environment.
+
+### Call for Proposals
+
+Have something you want to share with the community?  Head over to our
+[Call for Proposals](/conf/eu/2015/cfp) for more information, and to submit your talk.
+
+The deadline for submitting your proposal is **Midnight CET on May 31**.
+Speakers will be announced starting June 15.
 
 ### Keep in Touch
 
