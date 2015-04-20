@@ -38,7 +38,7 @@ so make sure you are able to do this with the tools you bring with.
 
 -   Date & Time: **Sunday, May 17th, 9am-6pm**, with the opening reception in the same space until 9, so feel free to keep working longer!
 -   Venue: CENTRL Office - 1355 NW Everett St. [Map](https://goo.gl/maps/xljmU)
--   Sustenance: We will provide food and drinks throughout the day so that you can focus on *Getting Shit Done*.
+-   Sustenance: Mozilla will provide food and drinks throughout the day so that you can focus on *Getting Shit Done*.
 
 #### Schedule
 
@@ -57,7 +57,7 @@ so make sure you are able to do this with the tools you bring with.
 
 Here are some of the suggested projects you can work on at the Writing Day.
 If you have your own to add to the list,
-feel free to [email us](mailto:conf@writethedocs.org) or even better, [submit a pull request](.
+feel free to [email us](mailto:conf@writethedocs.org) or even better, [submit a pull request]().
 
 ##### [Write the Docs Website](http://www.writethedocs.org)
 
