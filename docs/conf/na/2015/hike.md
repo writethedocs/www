@@ -1,4 +1,4 @@
-template: 2015/details.html
+template: 2015/na/details.html
 
 
 Write the Docs NA Hike
@@ -43,13 +43,12 @@ can [take
 transit](https://www.google.com/maps/dir/Crystal+Ballroom,+1332+W+Burnside+St,+Portland,+OR+97209,+United+States/MacLeay+Park+Entrance,+Northwest+Upshur+Street,+Portland,+OR/@45.5290603,-122.707244,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54950a02e43decb9:0xe289ad93ad758c66!2m2!1d-122.68483!2d45.522785!1m5!1m1!1s0x549509e98d3dabd5:0xe1f0810cfb8e8ca8!2m2!1d-122.712528!2d45.535874!3e3?hl=en)
 to make it a bit quicker.
 
-> **note**
->
-> The hike does not end where it starts. Take this into consideration with your planning.
->
-> :   There is an out-and-back option if you choose to just go to
->     Pittock Mansion, then return back down.
->
+**Note**
+
+The hike does not end where it starts. Take this into consideration with your planning.
+There is an out-and-back option if you choose to just go to
+Pittock Mansion, then return back down.
+
 
 ### What to bring
 
