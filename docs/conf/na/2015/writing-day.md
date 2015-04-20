@@ -12,13 +12,13 @@ or be ready and willing to contribute to someone elses project.
 This project can be anything,
 but some ideas:
 
-* Open Source Software Documentation
-* General Documentation Writing
-* Best Practices Manual (For your Company, or the World)
-* Blog Posts 
-* Tips and Tricks 
-* Great Works of Fiction 
-* Love Letters
+* Open source software documentation
+* General documentation writing
+* Best practices manual (For your company, or the world)
+* Blog posts 
+* Tips and tricks 
+* Great works of fiction 
+* Love letters
 * The Documentarian Manifesto
 
 You get the idea.
