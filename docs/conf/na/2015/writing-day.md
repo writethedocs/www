@@ -2,7 +2,7 @@ template: 2015/na/details.html
 
 ## Writing Day
 
-This year, Write the Docs will have a new Writing Day, modeled after [Sprints](http://en.wikipedia.org/wiki/Sprint_%28software_development%29) from the open source world.
+This year, Write the Docs will have a new Writing Day, modeled after the concept of [sprints](http://en.wikipedia.org/wiki/Sprint_%28software_development%29) from the open source world.
 
 The idea is simple: to get a bunch of interesting people in a room together and have them work towards shared goals.
 
