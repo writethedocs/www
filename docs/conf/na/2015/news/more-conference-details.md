@@ -13,6 +13,12 @@ haven't already.
 
 [ticket]: https://ti.to/writethedocs/write-the-docs-na-2015/
 
+If you miss this year's conference in Portland, don't fret. We've just announced
+our European conference, taking place this year in Prague from August 31st to
+September 1st! [Read more here][eu-conf].
+
+[eu-conf]: http://writethedocs.org/conf/eu/2015/
+
 Saturday - Annual Hike
 ----------------------
 
