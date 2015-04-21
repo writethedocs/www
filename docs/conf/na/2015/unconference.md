@@ -34,6 +34,8 @@ session. Here are a few ideas of how to structure your session, borrowed from
  * **Show and tell** - Show off your latest project, a new tool, or anything
    else you are excited about
 
+[unconference-session]: http://scottberkun.com/2006/how-to-run-a-great-unconference-session/
+
 ## Schedule a Session
 
 Attendees that wish to lead an unconference session have several options for
