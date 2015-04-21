@@ -54,5 +54,5 @@ Start gathering your ideas and getting excited about another year of great talks
 [wabisabi]: http://en.wikipedia.org/wiki/Wabi-sabi
 [klub-lavka]: http://www.lavka.cz/en/
 [twitter]: https://twitter.com/writethedocs
-[mailing-list]: http://eepurl.com/I37rP
+[mailing-list]: http://eepurl.com/I369L
 [email-us]: mailto:sponsorship@writethedocs.org
