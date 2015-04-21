@@ -14,14 +14,18 @@ Portland in all of its glory.
 
 ## Sunday, May 17th
 
-Our base of operations for all of our events on Sunday is Centrl Office, located
-at 1355 NW Everett St. During the day, we will be holding our [Writing Day
-documentation sprints][writing-day], followed by our preregistration party in
-the evening.
+During the day, we will be holding our [Writing Day documentation sprints][writing-day],
+followed by our preregistration party in the evening.
 
-Head there at any point during the day to pick up your badge, work on some
-documentation at the sprints, or join us in the evening for our preregistration
-party.
+Our base of operations for all of our events on Sunday is Centrl Office, located
+at 1355 NW Everett St.  Head there at any point during the day to pick up your
+badge, work on some documentation at the sprints, or join us in the evening to
+get to know some of the fellow attendees.
+
+We encourage everyone to drop by on Sunday evening for our preregistration
+party. Attendees will have a chance to get acquainted with each other over some
+drinks and snacks. We'll be helping groups to organize dinner plans so that you
+can continue your conversations over some food as well.
 
 * **9 AM** [Writing Day][writing-day] documentation sprints begin
 * **12:30 PM** Break for lunch
