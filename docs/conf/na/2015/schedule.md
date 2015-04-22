@@ -163,10 +163,6 @@ can continue your conversations over some food as well.
     <td class="schedule-time">5:20 PM</td>
     <td>Day 1 wraps up</td>
   </tr>
-  <tr>
-    <td class="schedule-time">7 PM</td>
-    <td>Conference Party</td>
-  </tr>
 </table>
 
 ### Lola's Room
@@ -193,6 +189,13 @@ done, take a break from the conference, or catch up with some familiar faces.
 
 Wind down and talk about the days talks in a relaxed and friendly
 environment.
+
+<table class="schedule">
+  <tr>
+    <td class="schedule-time">7 PM</td>
+    <td>Conference Party</td>
+  </tr>
+</table>
 
 ## Tuesday, May 19th - Day 2
 
