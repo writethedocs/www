@@ -2,10 +2,12 @@ template: 2015/na/details.html
 
 # Unconference
 
-As part of last year's conference, we held an unconference downstairs from
+As part of last year's conference, we held an [unconference][unconf-wiki] downstairs from
 the main stage, in Lola's Room. These sessions provided an outlet for the
 community to share ideas and discuss problems at a deeper level than we could on
 just the main stage of the conference.
+
+[unconf-wiki]: http://en.wikipedia.org/wiki/Unconference
 
 This year, we will be repeating the unconference track, with the addition of
 some scheduled topics to help guide talk sessions.
