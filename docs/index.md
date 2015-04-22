@@ -26,9 +26,18 @@ Upcoming Events
 
 * * * * *
 
-Our [2015 North American
-conference](http://www.writethedocs.org/conf/na/2015/) is the next
-upcoming event.
+#### North America
+
+- [Write The Docs, May 17-19, 2015](conf/na/2015.md), in **Portland, Oregon**
+
+#### Europe
+
+- [Write The Docs, August 31-September 1, 2015](conf/eu/2015.md), in **Prague, Czech Republic**
+
+Meetups
+-------
+
+We have meetups in multiple cities every month. The [Meetups page](meetups.md) has more information.
 
 Contact
 -------

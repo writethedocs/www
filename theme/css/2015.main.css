@@ -110,6 +110,23 @@ a:visited { color: #9b6764; }
 a:hover,
 a:active { color: #8b5754; }
 
+table {
+    font-size: 1.1em;
+    margin: 1em 2em;
+}
+
+tr {
+    border-bottom: 1px solid #ccc;
+}
+
+tr:first-child {
+    border-top: 1px solid #ccc;
+}
+
+td {
+    padding: .5em;
+}
+
 /* Footer */
 div.footer {
     margin-top: 2em;
@@ -177,6 +194,10 @@ div.clear {
     clear: both;
 }
 
+table td.schedule-time {
+    width: 8em;
+    font-weight: bold;
+}
 
 /* Speaker rows */
 div.row.row-speaker {

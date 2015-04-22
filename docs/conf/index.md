@@ -17,11 +17,11 @@ improve the art and science of documentation.
 
 #### North America
 
-- [Write The Docs, May 2015](na/2015.md), in **Portland, Oregon**
+- [Write The Docs, May 17-19, 2015](na/2015.md), in **Portland, Oregon**
 
 #### Europe
 
-- [Write The Docs, September 2015](eu/2015.md), in **Prague, Czech Republic**
+- [Write The Docs, August 31-September 1, 2015](eu/2015.md), in **Prague, Czech Republic**
 
 ## Past
 
