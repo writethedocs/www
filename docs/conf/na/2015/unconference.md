@@ -59,11 +59,13 @@ topic.
 We will start promoting the unconference sessions early in the day on the days
 of the conference, so be sure to post your topic early.
 
+[centrl]: https://goo.gl/maps/xljmU
+
 ## Sessions
 
 Unconference sessions will begin after lunch both days, running until the end of
 the day. We will start the unconference sessions off each day with some time
-for focused topics on one of several topics:
+for focus on one of several topics:
 
   * Documentation and Open Source Software
   * User Experience
