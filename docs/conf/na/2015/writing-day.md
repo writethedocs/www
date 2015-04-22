@@ -54,6 +54,11 @@ We'll be creating and editing content, so make sure you are able to do so with t
 Below are some suggested projects that you can work on during the Writing Day.
 If you have your own to add to the list, feel free to [email us](mailto:conf@writethedocs.org) or even better, [submit a pull request]().
 
+##### [Open News](http://opennews.org/blog/code-convening-wtd/)
+
+The Open News team will have multiple journalism projects that are being documented and open sourced.
+Help improve the docs on some amazing code that helps people understand the news everyday.
+
 ##### [Write the Docs Website](http://www.writethedocs.org)
 
 We have a website for our community, but it kinda sucks. Help us make it better by adding content, archiving old talks and notes, or just making it more friendly in general. Remember, you *are* the community.
@@ -65,10 +70,6 @@ A guide about writing documentation. Help us make this guide great for people wh
 ##### [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
 Help document the internet. Mozilla always needs more people to create, edit, and translate content, so we can do more to help make the internet more approachable.
-
-##### [Write the Docs Organizers Guide]()
-
-Want to run your own Write the Docs meetup or conference? Help us make the materials for doing that available, beautiful, and on the internet.
 
 ##### Your Project Here
 
