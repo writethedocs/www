@@ -67,10 +67,13 @@ Unconference sessions will begin after lunch both days, running until the end of
 the day. We will start the unconference sessions off each day with some time
 for focus on one of several topics:
 
-  * Documentation and Open Source Software
-  * User Experience
-  * Tools
-  * Journalism
+  * **Documentation and Open Source Software** - Writing documentation for
+    open source projects, or using open source tools for your documentation
+  * **User Experience** - Making your documentation more usable, or exploring
+    how readers use your documentation
+  * **Tools** - API reference generation tools, authoring tools, or tools
+    for using documentation
+  * **Journalism**
 
 Following these topics, we will open up the floor to topics, and will continue
 with unstructured content until the end of the day.
