@@ -100,8 +100,8 @@ This conference is made awesome in part by contributions from our sponsors.
 We're humbled to have the support of Atlassian and Urban Airship again this
 year.
 
- * Atlassian - https://atlassian.com
- * Urban Airship - http://urbanairship.com
+ * Atlassian - <https://atlassian.com>
+ * Urban Airship - <http://urbanairship.com>
 
 Conclusion
 ----------
