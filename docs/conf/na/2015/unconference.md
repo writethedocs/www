@@ -29,10 +29,13 @@ session. Here are a few ideas of how to structure your session, borrowed from
  * **Group discussion** - Pick a topic and facilitate a group discussion
  * **The semi-talk** - Use a short presentation to lead into a group discussion
    on a topic
- * **Presentation** - Give a longer talk, but expect more interaction from
-   others joining the session and break often for questions and discussion
  * **Show and tell** - Show off your latest project, a new tool, or anything
    else you are excited about
+ * **Presentation** - Because sessions are meant to be small and inclusive,
+   this is a difficult format to lead a session with. You cannot rely on
+   slides, because you will not have a screen to present with. Feel free to
+   present a longer talk, but expect more interaction from others joining the
+   session and break often for questions and discussion
 
 [unconference-session]: http://scottberkun.com/2006/how-to-run-a-great-unconference-session/
 
