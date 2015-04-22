@@ -102,8 +102,7 @@ year.
  * Atlassian - <https://atlassian.com>
  * Urban Airship - <http://urbanairship.com>
 
-Conclusion
-----------
+----
 
 This year will be the best Write the Docs yet!
 We have taken everyone's feedback and tweaked things to make them even better than before.
