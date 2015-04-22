@@ -2,6 +2,19 @@ template: 2015/na/details.html
 
 # Schedule
 
+Write the Docs is more than a conference.  Each year we organize a wide bunch
+of events so that people can join together, collaborate, and learn from each
+other.
+
+This year, we have events planned all day on Sunday, the day before the
+conference, and our annual hike will take place on Saturday afternoon. Our
+Sunday events include our [Writing Day][writing-day] documentation sprints
+during the day, and our conference reception in the evening.
+
+The main conference event will be held May 18-19th, during the day. We will be
+holding unconference sessions after lunch both days of the events, downstairs
+from the main stage, in Lola's Room.
+
 ## Saturday, May 16th
 
 The only event scheduled on Saturday is the [annual hike to Pittock Mansion][hike].
@@ -20,15 +33,15 @@ Portland in all of its glory.
 ## Sunday, May 17th
 
 During the day, we will be holding our [Writing Day documentation sprints][writing-day],
-followed by our preregistration party in the evening.
+followed by our conference reception in the evening.
 
 Our base of operations for all of our events on Sunday is Centrl Office, located
 at 1355 NW Everett St.  Head there at any point during the day to pick up your
 badge, work on some documentation at the sprints, or join us in the evening to
 get to know some of the fellow attendees.
 
-We encourage everyone to drop by on Sunday evening for our preregistration
-party. Attendees will have a chance to get acquainted with each other over some
+We encourage everyone to drop by on Sunday evening for our conference
+reception. Attendees will have a chance to get acquainted with each other over some
 drinks and snacks. We'll be helping groups to organize dinner plans so that you
 can continue your conversations over some food as well.
 
@@ -43,7 +56,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">6 PM</td>
-    <td>Sprints end, preregistration party begins</td>
+    <td>Sprints end, conference reception begins</td>
   </tr>
   <tr>
     <td class="schedule-time">9 PM</td>
@@ -156,7 +169,7 @@ can continue your conversations over some food as well.
   </tr>
 </table>
 
-## Lola's Room
+### Lola's Room
 
 While Lola's Room is open to attendees, feel free to drop by to get some work
 done, take a break from the conference, or catch up with some familiar faces.
@@ -175,6 +188,11 @@ done, take a break from the conference, or catch up with some familiar faces.
     <td>Unconference wraps up</td>
   </tr>
 </table>
+
+### Monday Night - Official Party
+
+Wind down and talk about the days talks in a relaxed and friendly
+environment.
 
 ## Tuesday, May 19th - Day 2
 
