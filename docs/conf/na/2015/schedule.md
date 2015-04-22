@@ -10,7 +10,7 @@ Portland in all of its glory.
 
 <table class="schedule">
   <tr>
-    <td class="time">1 PM</td>
+    <td class="schedule-time">1 PM</td>
     <td>Pittock Mansion Hike</td>
   </tr>
 </table>
