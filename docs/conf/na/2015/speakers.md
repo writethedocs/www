@@ -86,6 +86,7 @@ template: 2015/na/details.html
 <a name="speaker-rmacnamara"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/img/2015/speakers/rmacnamara.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -377,6 +378,12 @@ template: 2015/na/details.html
       </span>
     </h3>
     <h4>Writer, Meet Tester</h4>
+    <p>
+      A software tester can be a tech writer’s best friend, and vice versa. Jody
+      (writer) and Arthur (tester) work together on APIs at Salesforce.com, and
+      we’ll talk about the tools and techniques we use to improve the quality of
+      both our software and our documentation at the same time.
+    </p>
     <p>
       While our APIs are still in development, we gather feedback internally.
       We established an API design review board to approve every API change --
