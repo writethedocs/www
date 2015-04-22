@@ -77,9 +77,9 @@ Monday and Tuesday - Conference
 -------------------------------
 
 We've released the breakdown of [our daily schedule][schedule], we plan to
-release the full talk schedule right before the conference begins. The doors
+release the full talk schedule soon. The doors
 will open at 8am both days of the conference, get there early to get situated
-and grab some breakfast. Our keynote presentations will begin at 9am. Talks will
+and grab some breakfast. Our keynote presentations will begin at 9:15am. Talks will
 run all day, until after 5pm, with plenty of breaks between talks, and breaks
 for snacks and lunch.
 
@@ -102,3 +102,10 @@ year.
 
  * Atlassian - https://atlassian.com
  * Urban Airship - http://urbanairship.com
+
+Conclusion
+----------
+
+This year will be the best Write the Docs yet!
+We have taken everyone's feedback and tweaked things to make them even better.
+As always, let us know if there is anything else we can be doing to make it better.
