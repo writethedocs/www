@@ -73,7 +73,6 @@ for focus on one of several topics:
     how readers use your documentation
   * **Tools** - API reference generation tools, authoring tools, or tools
     for using documentation
-  * **Journalism**
 
 Following these topics, we will open up the floor to topics, and will continue
 with unstructured content until the end of the day.
