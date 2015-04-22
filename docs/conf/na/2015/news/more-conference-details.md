@@ -36,11 +36,11 @@ will be limited.
 [hike]: http://writethedocs.org/conf/na/2015/hike/
 [hike-ticket]: https://ti.to/writethedocs/write-the-docs-hike
 
-Sunday - Writing Day and Preregistration Party
-----------------------------------------------
+Sunday - Writing Day and Conference Reception
+---------------------------------------------
 
 During the day on Sunday, we will be holding our [Writing Day][writing-day]
-, followed by our preregistration party in the evening.
+, followed by our conference reception in the evening.
 
 Our base of operations for all of our events on Sunday is CENTRL Office, located
 at 1355 NW Everett St ([map][centrl-map]).  Head there at any point during the
@@ -59,10 +59,10 @@ bring open source to journalism. You are also welcome to bring your own project
 to work on, or feel free to suggest your project for sprints and get others
 involved.
 
-We encourage everyone to drop by on Sunday evening for our preregistration
-party. Attendees will have a chance to get acquainted with each other over some
-drinks and snacks. We'll be helping groups to organize dinner plans so that you
-can continue your conversations over some food as well.
+We encourage everyone to drop by on Sunday evening for our conference reception.
+Attendees will have a chance to get acquainted with each other over some drinks
+and snacks. We'll be helping groups to organize dinner plans so that you can
+continue your conversations over some food as well.
 
 [writing-day]: http://writethedocs.org/conf/na/2015/writing-day/
 [centrl-map]: https://goo.gl/maps/xljmU
