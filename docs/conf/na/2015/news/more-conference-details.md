@@ -40,11 +40,11 @@ Sunday - Writing Day and Conference Reception
 ---------------------------------------------
 
 During the day on Sunday, we'll have our [Writing Day][writing-day]
-, followed by the preregistration party in the evening.
+, followed by the reception in the evening.
 
-All events on Sunday are at CENTRL Office, located
-at 1355 NW Everett St ([map][centrl-map]).  Head there at any point during the
-day to pick up your badge, join a doc sprint, or party
+Both of these events on Sunday are at CENTRL Office, located
+at 1355 NW Everett St ([map][centrl-map]). Head there at any point during the
+day to pick up your badge, join a doc sprint, or join us
 in the evening and meet some of your fellow attendees.
 
 The Writing Day is modeled after the concept of ["sprints"][sprints] from
@@ -54,10 +54,10 @@ goals.
 
 Sprint projects include
 Mozilla's [MDN][mdn], [Wordpress][wordpress], and Write the Docs's [resources for
-documentarians][wtd-resources]. [OpenNews][opennews] will join us to
-bring open source to journalism. You are also welcome to bring your own project
-to work on, or feel free to suggest your project for sprints and get others
-involved.
+documentarians][wtd-resources]. [OpenNews][opennews] will also join us to
+bring open source to journalism. You are welcome to bring your own project
+to work on. Let us know and we will add it to the list on our website, 
+so people will know it's an option.
 
 We encourage everyone to drop by on Sunday evening for our conference reception.
 You'll have a chance to get acquainted with each other over some drinks and
