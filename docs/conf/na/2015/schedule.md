@@ -47,7 +47,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">6 PM</td>
-    <td>Sprints end, conference reception begins</td>
+    <td>Sprints end, Reception begins. Keep working, or start chatting!</td>
   </tr>
   <tr>
     <td class="schedule-time">9 PM</td>
