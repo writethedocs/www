@@ -73,7 +73,7 @@ can continue your conversations over some food as well.
 <table>
   <tr>
     <td class="schedule-time">8 AM</td>
-    <td>Breakfast</td>
+    <td><em>Breakfast</em></td>
   </tr>
   <tr>
     <td class="schedule-time">9 AM</td>
@@ -85,7 +85,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">10 AM</td>
-    <td>Break</td>
+    <td><em>Break</em></td>
   </tr>
   <tr>
     <td class="schedule-time">10:10 AM</td>
@@ -93,7 +93,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">10:40 AM</td>
-    <td>Snack break</td>
+    <td><em>Snack break</em></td>
   </tr>
   <tr>
     <td class="schedule-time">11 AM</td>
@@ -101,7 +101,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">11:30 AM</td>
-    <td>Break</td>
+    <td><em>Break</em></td>
   </tr>
   <tr>
     <td class="schedule-time">11:40 AM</td>
@@ -117,7 +117,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">1:40 PM</td>
-    <td>Break</td>
+    <td><em>Break</em></td>
   </tr>
   <tr>
     <td class="schedule-time">1:50 PM</td>
@@ -125,7 +125,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">2:20 PM</td>
-    <td>Break</td>
+    <td><em>Break</em></td>
   </tr>
   <tr>
     <td class="schedule-time">2:30 PM</td>
@@ -133,7 +133,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">3 PM</td>
-    <td>Snack break</td>
+    <td><em>Snack break</em></td>
   </tr>
   <tr>
     <td class="schedule-time">3:30 PM</td>
@@ -145,7 +145,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">4 PM</td>
-    <td>Break</td>
+    <td><em>Break</em></td>
   </tr>
   <tr>
     <td class="schedule-time">4:10 PM</td>
@@ -153,7 +153,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">4:40 PM</td>
-    <td>Break</td>
+    <td><em>Break</em></td>
   </tr>
   <tr>
     <td class="schedule-time">4:50 PM</td>
@@ -204,7 +204,7 @@ environment.
 <table>
   <tr>
     <td class="schedule-time">8 AM</td>
-    <td>Breakfast</td>
+    <td><em>Breakfast</em></td>
   </tr>
   <tr>
     <td class="schedule-time">9 AM</td>
@@ -216,7 +216,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">10 AM</td>
-    <td>Break</td>
+    <td><em>Break</em></td>
   </tr>
   <tr>
     <td class="schedule-time">10:10 AM</td>
@@ -224,7 +224,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">10:40 AM</td>
-    <td>Snack break</td>
+    <td><em>Snack break</em></td>
   </tr>
   <tr>
     <td class="schedule-time">11 AM</td>
@@ -232,7 +232,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">11:30 AM</td>
-    <td>Break</td>
+    <td><em>Break</em></td>
   </tr>
   <tr>
     <td class="schedule-time">11:40 AM</td>
@@ -248,7 +248,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">1:40 PM</td>
-    <td>Break</td>
+    <td><em>Break</em></td>
   </tr>
   <tr>
     <td class="schedule-time">1:50 PM</td>
@@ -256,7 +256,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">2:20 PM</td>
-    <td>Break</td>
+    <td><em>Break</em></td>
   </tr>
   <tr>
     <td class="schedule-time">2:30 PM</td>
@@ -264,7 +264,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">3 PM</td>
-    <td>Snack break</td>
+    <td><em>Snack break</em></td>
   </tr>
   <tr>
     <td class="schedule-time">3:30 PM</td>
@@ -276,7 +276,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">4 PM</td>
-    <td>Break</td>
+    <td><em>Break</em></td>
   </tr>
   <tr>
     <td class="schedule-time">4:10 PM</td>
@@ -284,7 +284,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">4:40 PM</td>
-    <td>Break</td>
+    <td><em>Break</em></td>
   </tr>
   <tr>
     <td class="schedule-time">4:50 PM</td>
