@@ -1,5 +1,5 @@
 <div class="row">
-	<div class="col-md-4 col-md-offset-4">
+	<div class="col-md-6 col-sm-6 col-sm-offset-3 col-xs-8 col-xs-offset-2">
 		<a href="index.html">
 		  <img class="img-responsive" src="img/stickers/sticker-wtd-colors.png">
 		</a>
