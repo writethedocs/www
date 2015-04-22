@@ -52,7 +52,7 @@ bunch of interesting people in a room together and have them work towards shared
 goals.
 
 Sprint projects include
-Mozilla's [MDN][mdn], [Wordpress][wordpress], and Write the Docs's [resources for
+Mozilla's [MDN][mdn] and Write the Docs's [resources for
 documentarians][wtd-resources]. [OpenNews][opennews] will also join us to
 bring open source to journalism. You are welcome to bring your own project
 to work on. Let us know and we will add it to the list on our website, 
