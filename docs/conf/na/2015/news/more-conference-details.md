@@ -88,7 +88,7 @@ couple of topics to get you started, followed by time for unstructured topics.
 If you are interested in leading a session, [read more about our unconference][unconference] .
 
 [schedule]: /conf/na/2015/schedule/
-[unconference]: /conf/na/2015/conference/
+[unconference]: /conf/na/2015/unconference/
 
 Sponsors
 --------
