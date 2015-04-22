@@ -73,7 +73,7 @@ can continue your conversations over some food as well.
 <table>
   <tr>
     <td class="schedule-time">8 AM</td>
-    <td><em>Breakfast</em></td>
+    <td>Breakfast</td>
   </tr>
   <tr>
     <td class="schedule-time">9 AM</td>
@@ -204,7 +204,7 @@ environment.
 <table>
   <tr>
     <td class="schedule-time">8 AM</td>
-    <td><em>Breakfast</em></td>
+    <td>Breakfast</td>
   </tr>
   <tr>
     <td class="schedule-time">9 AM</td>
