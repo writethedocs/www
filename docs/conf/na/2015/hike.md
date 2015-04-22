@@ -90,7 +90,9 @@ through Hoyt, and we can play that by ear. More than 5,800 specimens
 from around the world grow here, including more than 1,100 species,
 which are valuable in reforesting damaged habitats.
 
-![Hoyt](/img/2015/hike/hoyt.png)
+
+<p><img width=500 alt="Hoyt" src="/img/2015/hike/hoyt.png"></p>
+
 
 ### Finish
 
