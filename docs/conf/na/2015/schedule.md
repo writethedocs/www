@@ -6,19 +6,10 @@ Write the Docs is more than a conference.  Each year we organize a wide bunch
 of events so that people can join together, collaborate, and learn from each
 other.
 
-This year, we have events planned all day on Sunday, the day before the
-conference, and our annual hike will take place on Saturday afternoon. Our
-Sunday events include our [Writing Day][writing-day] documentation sprints
-during the day, and our conference reception in the evening.
-
-The main conference event will be held May 18-19th, during the day. We will be
-holding unconference sessions after lunch both days of the events, downstairs
-from the main stage, in Lola's Room.
-
 ## Saturday, May 16th
 
 The only event scheduled on Saturday is the [annual hike to Pittock Mansion][hike].
-If you get into town early, join us on the hike or take the chance to explore
+If you get into town early, join us on the hike and take the chance to explore
 Portland in all of its glory.
 
 <table class="schedule">
