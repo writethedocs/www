@@ -71,7 +71,7 @@ so people can appreciate the views and forest.
 It will follow Balch Creek up from the entrance of [Forest
 Park](http://www.forestparkconservancy.org/).
 
-![image](/img/2015/hike/balch.jpg)
+![Balch Creek](/img/2015/hike/balch.jpg)
 
 ### Climb
 
@@ -79,7 +79,7 @@ Then we will switchback through beautiful forest until we get to Pittock
 Mansion. Pittock affords one of the best views of the city, and
 hopefully Mt. Hood & Mt. St. Helens if it's clear!
 
-![image](/img/2015/hike/pittock.jpg)
+![Pittock](/img/2015/hike/pittock.jpg)
 
 ### Admire
 
@@ -90,7 +90,7 @@ through Hoyt, and we can play that by ear. More than 5,800 specimens
 from around the world grow here, including more than 1,100 species,
 which are valuable in reforesting damaged habitats.
 
-![image](/img/2015/hike/hoyt.png)
+![Hoyt](/img/2015/hike/hoyt.png)
 
 ### Finish
 
