@@ -4,7 +4,7 @@ More Conference Details
 =======================
 
 Write the Docs is less than 4 weeks away! We hope you are all as excited as we
-are for the conference. 
+are for the conference.
 
 Tickets are almost sold out, so make sure to [purchase a ticket][ticket] now, if you
 haven't already. **We expect them to sell out by next week!**
@@ -18,7 +18,7 @@ September 1st!
 [eu-announce]: http://www.writethedocs.org/conf/eu/2015/news/announcing-eu-2015/
 [eu-conf]: http://writethedocs.org/conf/eu/2015/
 
-We're getting all the finishing touches done,
+We're putting the finishing touches on the conference,
 and have more information for you about this year's conference events.
 We hope you can join us for most of them,
 because they are some of our favorite parts of the conference.
