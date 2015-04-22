@@ -34,7 +34,7 @@ You can [pick up your ticket][hike-ticket] for the hike now, spots on the hike
 will be limited.
 
 [hike]: http://writethedocs.org/conf/na/2015/hike/
-[hike-ticket]: https://ti.to/writethedocs/write-the-docs-na-2015/with/awcg3dzgy-u
+[hike-ticket]: https://ti.to/writethedocs/write-the-docs-hike
 
 Sunday - Writing Day and Preregistration Party
 ----------------------------------------------
