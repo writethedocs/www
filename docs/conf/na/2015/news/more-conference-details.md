@@ -44,8 +44,7 @@ During the day on Sunday, we'll have our [Writing Day][writing-day]
 
 Both of these events on Sunday are at CENTRL Office, located
 at 1355 NW Everett St ([map][centrl-map]). Head there at any point during the
-day to pick up your badge, join a doc sprint, or join us
-in the evening and meet some of your fellow attendees.
+day to pick up your badge, join a doc sprint, or meet some of your fellow attendees.
 
 The Writing Day is modeled after the concept of ["sprints"][sprints] from
 the open source and software development worlds. The idea is simple: to get a
@@ -79,9 +78,8 @@ Monday and Tuesday - Conference
 We've released the breakdown of [our daily schedule][schedule], and will
 release the full talk schedule soon. The doors
 open at 8am on both days, so that you can get there early, get yourself settled,
-and grab some breakfast. Our keynote presentations begin at 9:15am. Talks
-run all day, until shortly after 5pm. There will be plenty of breaks between talks, and breaks
-for snacks and lunch.
+and grab some breakfast. The introduction begins at 9:00am. Talks
+run all day, until shortly after 5pm. 
 
 We'll hold an unconference downstairs in Lola's Room again this year, again on
 both days. The unconference begins shortly after lunch,

@@ -2,9 +2,7 @@ template: 2015/na/details.html
 
 ## Writing Day
 
-This year, Write the Docs will have a new Writing Day, modeled after the concept of [sprints](http://en.wikipedia.org/wiki/Sprint_%28software_development%29) from the open source world.
-
-The idea is simple: to get a bunch of interesting people in a room together and have them work towards shared goals.
+This year, Write the Docs will have a new Writing Day, modeled after the concept of [sprints](http://en.wikipedia.org/wiki/Sprint_%28software_development%29) from the open source world. The idea is simple: to get a bunch of interesting people in a room together and have them work towards shared goals.
 
 To make the most out of the Writing Day, we recommend that you either come with a project, or be ready and willing to contribute to someone else's project.
 
@@ -19,7 +17,7 @@ Here are some examples of projects that you might want to work on:
 * Love letters
 * The Documentarian Manifesto
 
-... You get the idea.
+You get the idea.
 
 All this adds up to a room full of smart people sharing your problems, your passion, and your goals.
 So be ready to learn some new things and to teach others what you know.
