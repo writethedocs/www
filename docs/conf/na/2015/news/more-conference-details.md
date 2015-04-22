@@ -4,20 +4,24 @@ More Conference Details
 =======================
 
 Write the Docs is less than 4 weeks away! We hope you are all as excited as we
-are for the conference. The full schedule will be announced right before the
-conference begins, but here's a better idea of what to expect at all the events
-surrounding the conference.
+are for the conference. 
 
 Tickets are almost sold out, be sure to [purchase a ticket][ticket] now, if you
-haven't already.
+haven't already. **We expect them to sell out by next week!**
 
 [ticket]: https://ti.to/writethedocs/write-the-docs-na-2015/
 
-If you miss this year's conference in Portland, don't fret. We've just announced
-our European conference, taking place this year in Prague from August 31st to
-September 1st! [Read more here][eu-conf].
+If you miss this year's conference in Portland, don't fret. We've just [announced][eu-announce]
+our [European conference][eu-conf], taking place this year in Prague from August 31st to
+September 1st! 
 
+[eu-announce]: http://www.writethedocs.org/conf/eu/2015/news/announcing-eu-2015/
 [eu-conf]: http://writethedocs.org/conf/eu/2015/
+
+We're getting all the finishing touches done,
+and have more information about our conference events this year.
+We hope you can join us for most of the events below,
+because they are some of our favorite parts of the event.
 
 Saturday - Annual Hike
 ----------------------
@@ -36,14 +40,14 @@ Sunday - Writing Day and Preregistration Party
 ----------------------------------------------
 
 During the day on Sunday, we will be holding our [Writing Day][writing-day]
-documentation sprints, followed by our preregistration party in the evening.
+, followed by our preregistration party in the evening.
 
 Our base of operations for all of our events on Sunday is CENTRL Office, located
 at 1355 NW Everett St ([map][centrl-map]).  Head there at any point during the
 day to pick up your badge, work on some documentation at the sprints, or join us
 in the evening to get to meet some of the fellow attendees.
 
-The Writing Day event is modeled after the concept of ["sprints"][sprints] from
+The Writing Day is modeled after the concept of ["sprints"][sprints] from
 the open source and software development worlds. The idea is simple: to get a
 bunch of interesting people in a room together and have them work towards shared
 goals.
