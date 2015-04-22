@@ -51,7 +51,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">9 PM</td>
-    <td>Party ends</td>
+    <td>Reception ends</td>
   </tr>
 </table>
 
