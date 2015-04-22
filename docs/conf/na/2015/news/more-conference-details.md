@@ -36,8 +36,8 @@ will be limited.
 [hike]: http://writethedocs.org/conf/na/2015/hike/
 [hike-ticket]: https://ti.to/writethedocs/write-the-docs-hike
 
-Sunday - Writing Day and Preregistration Party
-----------------------------------------------
+Sunday - Writing Day and Conference Reception
+---------------------------------------------
 
 During the day on Sunday, we'll have our [Writing Day][writing-day]
 , followed by the preregistration party in the evening.
@@ -59,10 +59,10 @@ bring open source to journalism. You are also welcome to bring your own project
 to work on, or feel free to suggest your project for sprints and get others
 involved.
 
-We encourage everyone to drop by on Sunday evening for our preregistration
-party. You'll have a chance to get acquainted with each other over some
-drinks and snacks. We'll also help groups organize dinner plans so that you
-can continue your conversations over more substantial food.
+We encourage everyone to drop by on Sunday evening for our conference reception.
+You'll have a chance to get acquainted with each other over some drinks and
+snacks. We'll also help groups organize dinner plans so that you can continue
+your conversations over more substantial food.
 
 [writing-day]: http://writethedocs.org/conf/na/2015/writing-day/
 [centrl-map]: https://goo.gl/maps/xljmU
@@ -99,8 +99,8 @@ This conference is made awesome in part by contributions from our sponsors.
 We're humbled to have the support of Atlassian and Urban Airship again this
 year.
 
- * Atlassian - https://atlassian.com
- * Urban Airship - http://urbanairship.com
+ * Atlassian - <https://atlassian.com>
+ * Urban Airship - <http://urbanairship.com>
 
 Conclusion
 ----------
