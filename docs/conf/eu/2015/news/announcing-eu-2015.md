@@ -15,7 +15,7 @@ You can look forward to learning more about documentation systems, tech writing 
 Past talks have also covered such diverse topics as typography, empathy, and [Wabi-sabi][wabisabi].
 
 The main event takes place on August 31 - September 1 (Monday and Tuesday) from 9am to 6pm.
-Our venue, [Klub Lavka][klub-lavka], sits right [on the bank of the Charles river](https://goo.gl/maps/OHjne), in the historical city center of Prague, overlooking the Charles bridge.
+Our venue, [Klub Lavka][klub-lavka], sits right [on the bank of the Vltava river](https://goo.gl/maps/OHjne), in the historical city center of Prague, overlooking the Charles bridge.
 
 ### Auxiliary Events
 
