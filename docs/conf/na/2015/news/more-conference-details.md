@@ -76,10 +76,10 @@ your conversations over more substantial food.
 Monday and Tuesday - Conference
 -------------------------------
 
-We've released the breakdown of [our daily schedule][schedule], and we'll 
+We've released the breakdown of [our daily schedule][schedule], and will
 release the full talk schedule soon. The doors
 open at 8am on both days, so that you can get there early, get yourself settled,
-and grab some breakfast. Our keynote presentations begin at 9:15am. Talks 
+and grab some breakfast. Our keynote presentations begin at 9:15am. Talks
 run all day, until shortly after 5pm. There will be plenty of breaks between talks, and breaks
 for snacks and lunch.
 
