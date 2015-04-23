@@ -270,7 +270,7 @@ How to get support
 
 Mailing list? IRC Channel? Document how to get help and interact with the community around a project. Django_ does a great job with this.
 
-.. _Django: https://docs.djangoproject.com/en/1.3/#getting-help
+.. _Django: https://docs.djangoproject.com/en/1.8/faq/help
 
 
 
