@@ -50,7 +50,7 @@ We'll be creating and editing content, so make sure you are able to do so with t
 #### Projects
 
 Below are some suggested projects that you can work on during the Writing Day.
-If you have your own to add to the list, feel free to [email us](mailto:conf@writethedocs.org) or even better, [submit a pull request]().
+If you have your own to add to the list, feel free to [email us](mailto:conf@writethedocs.org) or even better, [submit a pull request](https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/writing-day.md).
 
 ##### [Open News](http://opennews.org/blog/code-convening-wtd/)
 
