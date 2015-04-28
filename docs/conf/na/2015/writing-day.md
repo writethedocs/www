@@ -52,28 +52,28 @@ We'll be creating and editing content, so make sure you are able to do so with t
 Below are some suggested projects that you can work on during the Writing Day.
 If you have your own to add to the list, feel free to [email us](mailto:conf@writethedocs.org) or even better, [submit a pull request](https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/writing-day.md).
 
-##### [Open News](http://opennews.org/blog/code-convening-wtd/) (Hosted by Ryan)
+##### [Open News](http://opennews.org/blog/code-convening-wtd/) 
 
 The Open News team will have multiple journalism projects that are being documented and open sourced.
 Help improve the docs on some amazing code that helps people understand the news everyday.
 
-##### [Mozilla Developer Network](https://developer.mozilla.org/en-US/) (Hosted by Janet)
+##### [Mozilla Developer Network](https://developer.mozilla.org/en-US/) 
 
 Help document the internet. Mozilla always needs more people to create, edit, and translate content, so we can do more to help make the internet more approachable.
 
-##### [Wordpress](https://wordpress.org/) (Hosted by Andrew)
+##### [Wordpress](https://wordpress.org/) 
 
 Wordpress powers a large portion of the internet. Help write the docs that help people set it up and use it.
 
-##### [Write the Docs Website](http://www.writethedocs.org) (Hosted by Anthony)
+##### [Write the Docs Website](http://www.writethedocs.org)
 
 We have a website for our community, but it kinda sucks. Help us make it better by adding content, archiving old talks and notes, or just making it more friendly in general. Remember, you *are* the community.
 
-##### [Write the Docs Guide](http://docs.writethedocs.org/) (Hosted by Eric)
+##### [Write the Docs Guide](http://docs.writethedocs.org/) 
 
 A guide about writing documentation. Help us make this guide great for people who want to write docs, but don't know where to start.
 
-##### RAML-based API generator (Hosted by Gwen)
+##### RAML-based API generator 
 
 I’m working on the API Reference for a new web service. I have all of the APIs defined in a RAML file, which also allows me to use the same source to generate the documentation. Ideally, I’d also like to make the API reference interactive.  As examples, see http://developer.wordnik.com/docs.html#!/account, https://support.3scale.net/reference/active-docs or http://developer.marvel.com/docs.
 
