@@ -75,7 +75,7 @@ A guide about writing documentation. Help us make this guide great for people wh
 
 ##### RAML-based API generator 
 
-I’m working on the API Reference for a new web service. I have all of the APIs defined in a RAML file, which also allows me to use the same source to generate the documentation. Ideally, I’d also like to make the API reference interactive.  As examples, see http://developer.wordnik.com/docs.html#!/account, https://support.3scale.net/reference/active-docs or http://developer.marvel.com/docs.
+I’m working on the API Reference for a new web service. I have all of the APIs defined in a RAML file, which also allows me to use the same source to generate the documentation. Ideally, I’d also like to make the API reference interactive.  As examples, see <http://developer.wordnik.com/docs.html#!/account>, <https://support.3scale.net/reference/active-docs> or <http://developer.marvel.com/docs>.
 
 Let's work together to make this happen at the Writing Day!
 
