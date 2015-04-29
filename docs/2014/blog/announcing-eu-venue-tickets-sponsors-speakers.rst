@@ -23,6 +23,9 @@ Prezi's home gives us a fitting environment to come together and talk about maki
 .. image:: /img/venue/PreziVenue.jpg
 	:width: 100%
 
+.. image:: /img/PreziVenue.jpg
+	:width: 100%
+
 More information can be found on the :doc:`/2014/eu/venue` page,
 including more images, accommodation, and travel details.
 

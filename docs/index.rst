@@ -13,7 +13,8 @@ information about the art of writing documentation.
 Along with that, we hope to open communication between all the awesome
 people out there writing documentation.
 
-.. note:: Write the Docs NA 2015 is happening on May 17-19 in Portland, Oregon: http://www.writethedocs.org/conf/na/2015/
+.. note:: Write the Docs NA 2015 is happening on May 17-19 in Portland, Oregon: http://www.writethedocs.org/conf/na/2015/.
+          Come join us!
 
 Contents
 --------
