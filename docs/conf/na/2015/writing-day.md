@@ -24,7 +24,7 @@ So be ready to learn some new things and to teach others what you know.
 
 It may not [feel](http://en.wikipedia.org/wiki/Impostor_syndrome) like you know that much, but take it from us, you would surprise yourself with how much you can share.
 
-#### Logisitics
+#### Logistics
 
 Please bring a computer or some other mechanism with which to create written words.
 
