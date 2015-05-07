@@ -22,13 +22,13 @@ You get the idea.
 All this adds up to a room full of smart people sharing your problems, your passion, and your goals.
 So be ready to learn some new things and to teach others what you know.
 
-It may not [feel](http://en.wikipedia.org/wiki/Impostor_syndrome) like you know that much, but take it from us, you would surprise yourself with how much you can share.
+Even if you [feel](http://en.wikipedia.org/wiki/Impostor_syndrome) as though you don't know that much, we know you have a lot to offer. Come surprise yourself with how much you can share.
 
-#### Logisitics
+#### Logistics
 
 Please bring a computer or some other mechanism with which to create written words.
 
-We'll be creating and editing content, so make sure you are able to do so with the tools you bring with you.
+We'll be creating and editing content, so make sure that you have the tools you need to contribute.
 
 -   Date & Time: **Sunday, May 17th, 9am-6pm**, with the conference opening reception in the same space until 9, so feel free to keep working longer!
 -   Venue: CENTRL Office - 1355 NW Everett St. [Map](https://goo.gl/maps/xljmU)
@@ -49,21 +49,21 @@ We'll be creating and editing content, so make sure you are able to do so with t
 
 #### Projects
 
-Below are some suggested projects that you can work on during the Writing Day.
-If you have your own to add to the list, feel free to [email us](mailto:conf@writethedocs.org) or even better, [submit a pull request](https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/writing-day.md).
+We have some suggestions for projects that you can work on during the Writing Day.
+If you'd like to add your own project to the list, you can [email us](mailto:conf@writethedocs.org). Better yet, [submit a pull request](https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/writing-day.md).
 
 ##### [Open News](http://opennews.org/blog/code-convening-wtd/) 
 
-The Open News team will have multiple journalism projects that are being documented and open sourced.
+The Open News team has multiple open source journalism projects whose documentation could use some expert love.
 Help improve the docs on some amazing code that helps people understand the news everyday.
 
 ##### [Mozilla Developer Network](https://developer.mozilla.org/en-US/) 
 
 Help document the internet. Mozilla always needs more people to create, edit, and translate content, so we can do more to help make the internet more approachable.
 
-##### [Wordpress](https://wordpress.org/) 
+##### [WordPress](https://wordpress.org/) 
 
-Wordpress powers a large portion of the internet. Help write the docs that help people set it up and use it.
+WordPress powers a large portion of the internet. Help write the docs that help people set it up and use it.
 
 ##### [Write the Docs Website](http://www.writethedocs.org)
 
@@ -71,7 +71,7 @@ We have a website for our community, but it kinda sucks. Help us make it better 
 
 ##### [Write the Docs Guide](http://docs.writethedocs.org/) 
 
-A guide about writing documentation. Help us make this guide great for people who want to write docs, but don't know where to start.
+A guide to writing documentation. Help us make this guide great for people who want to write docs, but don't know where to start.
 
 ##### RAML-based API generator 
 
