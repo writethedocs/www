@@ -167,7 +167,7 @@ done, take a break from the conference, or catch up with some familiar faces.
     <td>Room opens to attendees</td>
   </tr>
   <tr>
-    <td class="schedule-time">1:10 PM</td>
+    <td class="schedule-time">1:40 PM</td>
     <td>Unconference begins</td>
   </tr>
   <tr>
@@ -295,7 +295,7 @@ environment.
     <td>Room opens to attendees</td>
   </tr>
   <tr>
-    <td class="schedule-time">1:10 PM</td>
+    <td class="schedule-time">1:40 PM</td>
     <td>Unconference begins</td>
   </tr>
   <tr>
