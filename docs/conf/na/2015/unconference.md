@@ -75,6 +75,7 @@ for focus on one of several topics:
     how readers use your documentation
   * **Tools** - API reference generation tools, authoring tools, or tools
     for using documentation
+  * **Journalism** - We have the delightful people from <a href="http://opennews.org/">OpenNews</a> with us. Let's talk about this other delightful form of written communication.
 
 Following these topics, we will open up the floor to topics, and will continue
 with unstructured content until the end of the day.
