@@ -38,9 +38,8 @@ A participant may be expelled by the decision of any of the above listed entitie
 * A single serious offense (e.g., punching or groping someone)
 * A single obviously intentional offense (e.g., taking up-skirt photos)
 
-**Hotel/venue security and local authorities should be contacted when appropriate.**
-
-  Contact Eric Holscher (757-705-0532 or eric@ericholscher.com) to start this process.
+Hotel/venue security and local authorities should be contacted when appropriate.
+Contact Eric Holscher (757-705-0532 or eric@ericholscher.com) to start this process.
 
 ### Public statements
 
