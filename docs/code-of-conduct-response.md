@@ -32,7 +32,7 @@ If the reporter desires it, arrange for an escort by conference staff or a trust
 
 A participant may be expelled by the decision of any of the above listed entities for whatever reasons they deem sufficient. However, here are some general guidelines for when a participant should be expelled:
 
-* A second offense resulting in a warning from staff
+* A third offense resulting in a warning from staff
 * Continuing to harass after any "No" or "Stop" instruction
 * A pattern of harassing behavior, with or without warnings
 * A single serious offense (e.g., punching or groping someone)
