@@ -10,7 +10,7 @@ great way to practice. (Lovely example
 A lightning talk should be about **five minutes long**, just long enough
 to give an overview and make people curious about your topic. You can
 talk about anything that’s related to the event’s general theme (in the
-case of PDX Python, anything even remotely related to Python).
+case of Write the Docs, anything even remotely related to documentation).
 
 First, you need a **topic**. Your topic might be:
 
@@ -86,9 +86,6 @@ can assume your audience has been in your shoes before. Throw caution to
 the wind and embrace your five minutes! :)
 
 Practice can really help to soothe your nerves. Try it out on a friend.
-At PDX Python, we're not super strict on time, but it's good to time a
-run-through of your talk so can add or remove material if needed. Other
-events may enforce the time limit more strictly.
 
 Be sure to bring everything you need to do your presentation. It’s wise
 to assume that the internet access will fail precisely when you need it.
@@ -121,6 +118,10 @@ If you have your slide presentation or example code available online you
 can let the group know where to find it if you want to share it. Curious
 people may follow up with you if they’d like to collaborate or have
 feedback about your presentation.
+
+### License
+
+Thanks to the lovely Portland Python Users Group for use of this content.
 
 Lightning Talks: A Guide for Beginners by Michelle Rowley of PDX Python
 is licensed under a [Creative Commons
