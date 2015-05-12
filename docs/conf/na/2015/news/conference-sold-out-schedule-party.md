@@ -1,4 +1,4 @@
-Conference sells out, Party Venue, and Schedule Details
+Conference sells out, Schedule Details, and Party Venue
 =======================================================
 
 Exciting times in Write the Docs world!
