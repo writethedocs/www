@@ -6,8 +6,8 @@ Conference sells out, Schedule Details, and Party Venue
 These are exciting times for Write the Docs -- 
 the conference is next week, and we hope you're getting ready!
 We've officially sold out the conference at 350 documentarians,
-who will be converging on Portland for another intensely satisfying experience 
-of documentation immersion.
+who will be converging on Portland for two delightful days of documentation diving
+(or three, if your schedule permits).
 We just sent off the order for badges,
 and everything is getting quite real.
 
