@@ -1,3 +1,5 @@
+template: 2015/na/blog.html
+
 Conference sells out, Schedule Details, and Party Venue
 =======================================================
 

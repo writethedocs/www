@@ -32,7 +32,7 @@ We'll be creating and editing content, so make sure that you have the tools you 
 
 -   Date & Time: **Sunday, May 17th, 9am-6pm**, with the conference opening reception in the same space until 9, so feel free to keep working longer!
 -   Venue: CENTRL Office - 1355 NW Everett St. [Map](https://goo.gl/maps/xljmU)
--   Sustenance: Mozilla will provide food and drinks throughout the day so that you can focus on *Getting Sh\*t Done*.
+-   Sustenance: Mozilla will provide food and drinks throughout the day so that you can focus on *Getting Stuff Done*.
 
 #### Schedule
 

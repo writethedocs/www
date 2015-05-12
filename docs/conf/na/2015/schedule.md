@@ -39,7 +39,7 @@ can continue your conversations over some food as well.
 <table class="schedule">
   <tr>
     <td class="schedule-time">9 AM</td>
-    <td><a href="/conf/na/2015/writing-day/">Writing Day</a> documentation sprints begin</td>
+    <td><a href="/conf/na/2015/writing-day/">Writing Day</a> documentation sprints begin at <a href="https://goo.gl/maps/xljmU">CENTRL Office</a></td>
   </tr>
   <tr>
     <td class="schedule-time">12:30 PM</td>
@@ -184,7 +184,7 @@ environment.
 <table class="schedule">
   <tr>
     <td class="schedule-time">7 PM</td>
-    <td>Conference Party</td>
+    <td>Conference Party at <a href="https://goo.gl/maps/ZoKCP">TILT</a> (1355 NW Everett St)</td>
   </tr>
 </table>
 
