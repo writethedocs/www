@@ -21,7 +21,7 @@ so I hope you're ready!
 Party Venue
 -----------
 
-The party will be held at TILT,
+The party on Monday night will be held at TILT,
 where we have rented out a full side of the restaraunt.
 It will be from 7pm-11pm on Monday evening,
 so make sure to come!
@@ -43,6 +43,5 @@ The conference is next week, and I hope you're getting ready!
 Get started planning a [lightning talk](lightning-talks).
 Think about things to chat about at the [unconference](unconference).
 Get a project ready to document at the [Writing Day](writing-day).
-
 There will be lots going on,
 and we're ready to have another wonderful year.
