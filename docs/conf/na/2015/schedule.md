@@ -80,7 +80,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">10:10 AM</td>
-    <td>Talk</td>
+    <td>Jody Bleyle & Arthur Louie - Writer, Meet Tester</td>
   </tr>
   <tr>
     <td class="schedule-time">10:40 AM</td>
@@ -88,7 +88,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">11 AM</td>
-    <td>Talk</td>
+    <td>Matt Ness - Let’s Tell a Story: Scenario-Based Documentation</td>
   </tr>
   <tr>
     <td class="schedule-time">11:30 AM</td>
@@ -96,7 +96,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">11:40 AM</td>
-    <td>Talk</td>
+    <td>Kevin Burke - How to Write Documentation for People that Don't Read</td>
   </tr>
   <tr>
     <td class="schedule-time">12:10 PM</td>
@@ -112,7 +112,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">1:50 PM</td>
-    <td>Talk</td>
+    <td>Gregory Koberger - A Developers Approach to Documentation: From Passive to Dynamic</td>
   </tr>
   <tr>
     <td class="schedule-time">2:20 PM</td>
@@ -120,7 +120,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">2:30 PM</td>
-    <td>Talk</td>
+    <td>Emily Hoffmann & Alfonso Roman - A brief history of math writing: symbol, structure, and proof</td>
   </tr>
   <tr>
     <td class="schedule-time">3 PM</td>
@@ -128,11 +128,11 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">3:30 PM</td>
-    <td>Talk</td>
+    <td>Karen Ronning-Hall - The Science of Creating Unforgettable Content</td>
   </tr>
   <tr>
     <td class="schedule-time">3:45 PM</td>
-    <td>Talk</td>
+    <td>Joao Fernandes - User-Story Driven Docs</td>
   </tr>
   <tr>
     <td class="schedule-time">4 PM</td>
@@ -140,7 +140,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">4:10 PM</td>
-    <td>Talk</td>
+    <td>Marya DeVoto - Designing Information for Growth</td>
   </tr>
   <tr>
     <td class="schedule-time">4:40 PM</td>
@@ -148,7 +148,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">4:50 PM</td>
-    <td>Talk</td>
+    <td>Christine Burwinkle - Tech writing in a continuous deployment world</td>
   </tr>
   <tr>
     <td class="schedule-time">5:20 PM</td>
@@ -167,7 +167,7 @@ done, take a break from the conference, or catch up with some familiar faces.
     <td>Room opens to attendees</td>
   </tr>
   <tr>
-    <td class="schedule-time">1:10 PM</td>
+    <td class="schedule-time">1:40 PM</td>
     <td>Unconference begins</td>
   </tr>
   <tr>
@@ -211,7 +211,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">10:10 AM</td>
-    <td>Talk</td>
+    <td>Janet Swisher - Entry points and guide posts: Helping new contributors find their way</td>
   </tr>
   <tr>
     <td class="schedule-time">10:40 AM</td>
@@ -219,7 +219,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">11 AM</td>
-    <td>Talk</td>
+    <td>Riona MacNamara - Documentation, Disrupted How Two Technical Writers Changed Google Engineering Culture, Built a Team, Made Powerful Friends, And Got Their Mojo Back</td>
   </tr>
   <tr>
     <td class="schedule-time">11:30 AM</td>
@@ -227,7 +227,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">11:40 AM</td>
-    <td>Talk</td>
+    <td>Tana Franko - Elevating the Hedgehog: Creativity in Tech Writing</td>
   </tr>
   <tr>
     <td class="schedule-time">12:10 PM</td>
@@ -243,7 +243,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">1:50 PM</td>
-    <td>Talk</td>
+    <td>Mo Nishiyama - What Can Brownfield Do For You?</td>
   </tr>
   <tr>
     <td class="schedule-time">2:20 PM</td>
@@ -251,7 +251,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">2:30 PM</td>
-    <td>Talk</td>
+    <td>Garen Torikian - How GitHub uses GitHub to document GitHub</td>
   </tr>
   <tr>
     <td class="schedule-time">3 PM</td>
@@ -259,11 +259,11 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">3:30 PM</td>
-    <td>Talk</td>
+    <td>Gaylin Walli - The Making of Writing Black Belts: How Martial Arts Philosophy Forged an Ad-Hoc Writing Team that Writes Great Docs</td>
   </tr>
   <tr>
     <td class="schedule-time">3:45 PM</td>
-    <td>Talk</td>
+    <td>Mike Jang - Start Your Own Write The Docs Meetup Group</td>
   </tr>
   <tr>
     <td class="schedule-time">4 PM</td>
@@ -271,7 +271,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">4:10 PM</td>
-    <td>Talk</td>
+    <td>Torrey Podmajersky - Keep 'em playing</td>
   </tr>
   <tr>
     <td class="schedule-time">4:40 PM</td>
@@ -279,7 +279,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">4:50 PM</td>
-    <td>Talk</td>
+    <td>Heidi Waterhouse - Success is More Than Not Failing</td>
   </tr>
   <tr>
     <td class="schedule-time">5:20 PM</td>
@@ -295,7 +295,7 @@ environment.
     <td>Room opens to attendees</td>
   </tr>
   <tr>
-    <td class="schedule-time">1:10 PM</td>
+    <td class="schedule-time">1:40 PM</td>
     <td>Unconference begins</td>
   </tr>
   <tr>
