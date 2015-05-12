@@ -15,7 +15,7 @@ Portland in all of its glory.
 <table class="schedule">
   <tr>
     <td class="schedule-time">2 PM</td>
-    <td>Pittock Mansion Hike</td>
+    <td>Pittock Mansion [Hike](hike)</td>
   </tr>
 </table>
 
