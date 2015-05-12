@@ -15,7 +15,7 @@ Portland in all of its glory.
 <table class="schedule">
   <tr>
     <td class="schedule-time">2 PM</td>
-    <td>Pittock Mansion [Hike](hike)</td>
+    <td>Pittock Mansion <a href="/conf/na/2015/hike/">Hike</a></td>
   </tr>
 </table>
 
@@ -104,7 +104,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">1:10 PM</td>
-    <td>[Lightning Talks](lightning-talks)</td>
+    <td><a href="/conf/na/2015/lightning-talks/">Lightning Talks</a></td>
   </tr>
   <tr>
     <td class="schedule-time">1:40 PM</td>
@@ -168,7 +168,7 @@ done, take a break from the conference, or catch up with some familiar faces.
   </tr>
   <tr>
     <td class="schedule-time">1:40 PM</td>
-    <td>[Unconference](unconference) begins</td>
+    <td><a href="/conf/na/2015/unconference/">Unconference</a> begins</td>
   </tr>
   <tr>
     <td class="schedule-time">5:20 PM</td>
@@ -235,7 +235,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">1:10 PM</td>
-    <td>[Lightning Talks](lightning-talks)</td>
+    <td><a href="/conf/na/2015/lightning-talks/">Lightning Talks</a></td>
   </tr>
   <tr>
     <td class="schedule-time">1:40 PM</td>
@@ -296,7 +296,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">1:40 PM</td>
-    <td>[Unconference](unconference) begins</td>
+    <td><a href="/conf/na/2015/unconference/">Unconference</a> begins</td>
   </tr>
   <tr>
     <td class="schedule-time">5:20 PM</td>
