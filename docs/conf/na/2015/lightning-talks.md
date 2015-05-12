@@ -1,3 +1,5 @@
+template: 2015/na/details.html
+
 ### Lightning Talks
 
 A lightning talk is a very short talk where you share an idea, concept,
