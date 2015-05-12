@@ -64,7 +64,7 @@ can continue your conversations over some food as well.
 <table>
   <tr>
     <td class="schedule-time">8 AM</td>
-    <td>Breakfast</td>
+    <td>Doors & Breakfast Served</td>
   </tr>
   <tr>
     <td class="schedule-time">9 AM</td>
@@ -76,7 +76,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">10 AM</td>
-    <td><em>Break</em></td>
+    <td><em>Switch Speakers</em></td>
   </tr>
   <tr>
     <td class="schedule-time">10:10 AM</td>
@@ -92,7 +92,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">11:30 AM</td>
-    <td><em>Break</em></td>
+    <td><em>Switch Speakers</em></td>
   </tr>
   <tr>
     <td class="schedule-time">11:40 AM</td>
@@ -104,11 +104,11 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">1:10 PM</td>
-    <td>Lightning Talks</td>
+    <td>[Lightning Talks](lightning-talks)</td>
   </tr>
   <tr>
     <td class="schedule-time">1:40 PM</td>
-    <td><em>Break</em></td>
+    <td><em>Switch Speakers</em></td>
   </tr>
   <tr>
     <td class="schedule-time">1:50 PM</td>
@@ -116,7 +116,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">2:20 PM</td>
-    <td><em>Break</em></td>
+    <td><em>Switch Speakers</em></td>
   </tr>
   <tr>
     <td class="schedule-time">2:30 PM</td>
@@ -136,7 +136,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">4 PM</td>
-    <td><em>Break</em></td>
+    <td><em>Switch Speakers</em></td>
   </tr>
   <tr>
     <td class="schedule-time">4:10 PM</td>
@@ -144,7 +144,7 @@ can continue your conversations over some food as well.
   </tr>
   <tr>
     <td class="schedule-time">4:40 PM</td>
-    <td><em>Break</em></td>
+    <td><em>Switch Speakers</em></td>
   </tr>
   <tr>
     <td class="schedule-time">4:50 PM</td>
@@ -168,7 +168,7 @@ done, take a break from the conference, or catch up with some familiar faces.
   </tr>
   <tr>
     <td class="schedule-time">1:40 PM</td>
-    <td>Unconference begins</td>
+    <td>[Unconference](unconference) begins</td>
   </tr>
   <tr>
     <td class="schedule-time">5:20 PM</td>
@@ -195,11 +195,11 @@ environment.
 <table>
   <tr>
     <td class="schedule-time">8 AM</td>
-    <td>Breakfast</td>
+    <td>Doors & Breakfast Served</td>
   </tr>
   <tr>
-    <td class="schedule-time">9 AM</td>
-    <td>Introduction</td>
+    <td class="schedule-time">9:10 AM</td>
+    <td>Announcements</td>
   </tr>
   <tr>
     <td class="schedule-time">9:15 AM</td>
@@ -207,7 +207,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">10 AM</td>
-    <td><em>Break</em></td>
+    <td><em>Switch Speakers</em></td>
   </tr>
   <tr>
     <td class="schedule-time">10:10 AM</td>
@@ -223,7 +223,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">11:30 AM</td>
-    <td><em>Break</em></td>
+    <td><em>Switch Speakers</em></td>
   </tr>
   <tr>
     <td class="schedule-time">11:40 AM</td>
@@ -235,11 +235,11 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">1:10 PM</td>
-    <td>Lightning Talks</td>
+    <td>[Lightning Talks](lightning-talks)</td>
   </tr>
   <tr>
     <td class="schedule-time">1:40 PM</td>
-    <td><em>Break</em></td>
+    <td><em>Switch Speakers</em></td>
   </tr>
   <tr>
     <td class="schedule-time">1:50 PM</td>
@@ -247,7 +247,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">2:20 PM</td>
-    <td><em>Break</em></td>
+    <td><em>Switch Speakers</em></td>
   </tr>
   <tr>
     <td class="schedule-time">2:30 PM</td>
@@ -267,7 +267,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">4 PM</td>
-    <td><em>Break</em></td>
+    <td><em>Switch Speakers</em></td>
   </tr>
   <tr>
     <td class="schedule-time">4:10 PM</td>
@@ -275,7 +275,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">4:40 PM</td>
-    <td><em>Break</em></td>
+    <td><em>Switch Speakers</em></td>
   </tr>
   <tr>
     <td class="schedule-time">4:50 PM</td>
@@ -296,7 +296,7 @@ environment.
   </tr>
   <tr>
     <td class="schedule-time">1:40 PM</td>
-    <td>Unconference begins</td>
+    <td>[Unconference](unconference) begins</td>
   </tr>
   <tr>
     <td class="schedule-time">5:20 PM</td>
