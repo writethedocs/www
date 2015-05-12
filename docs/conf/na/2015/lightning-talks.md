@@ -17,15 +17,15 @@ case of Write the Docs, anything even remotely related to documentation).
 First, you need a **topic**. Your topic might be:
 
 -   A concept, process, or tool that you learned recently or are still
-    > learning
+    learning
 
 -   An idea for a website or product that would solve a problem you have
 
 -   A retrospective, or what went right/wrong during a project you did
-    > or are doing
+    or are doing
 
 -   Anything relevant that the audience might be interested in knowing
-    > more about
+    more about
 
 Next, you need an **outline** for the content. Think about the
 **audience**, and the **goal** of your talk. Choose points to make that
@@ -36,22 +36,22 @@ include!
 Potential **points of interest** might be:
 
 -   What could you use this for or when could you use it? Have you
-    > already used it? How?
+    already used it? How?
 
 -   When wouldn't it not be as useful? What are some contraindications
-    > to using it?
+    to using it?
 
 -   Resources related to the subject, including books, documentation,
-    > and URLs.
+    and URLs.
 
 -   Are there any projects or companies that are using what you're
-    > sharing?
+    sharing?
 
 -   Is this something you'd like to collaborate with others on? Feel
-    > free to ASK!
+    free to ASK!
 
 -   What are some of the challenges related to using, building, or
-    > configuring what you're showing?
+    configuring what you're showing?
 
 ### Preparation: Slides are Optional
 
