@@ -87,8 +87,6 @@ speaking career in the tech industry by giving lightning talks, so you
 can assume your audience has been in your shoes before. Throw caution to
 the wind and embrace your five minutes! :)
 
-Practice can really help to soothe your nerves. Try it out on a friend.
-
 Be sure to bring everything you need to do your presentation. It’s wise
 to assume that the internet access will fail precisely when you need it.
 Load web pages you need into your browser beforehand. Bring the adapters
@@ -97,24 +95,7 @@ and keep a backup copy of your presentation on a USB memory stick –
 laptops can and do fail, and this will allow you to use someone else’s
 laptop if the need arises.
 
-### The Follow Up: Audience Q&A and Individual Questions
-
-After you’re finished speaking, the audience may have the opportunity to
-ask questions. You’ve given them some wonderful new information and
-they’re genuinely interested and want to know more. Sometimes people
-will ask things you don’t expect, or that you don’t know the answer to.
-It’s totally okay to say, “I’m not sure about the answer to that
-question, I’ll have to do some research,” or even just, “Thanks for
-asking that question. It’s a great one, and I don’t know the answer to
-it, yet!”
-
-Sometimes people are too shy to ask questions during the public Q&A
-time, or they might think of their question too late. They may approach
-you after you are finished speaking to pose their question. If this
-happens to you, congratulations! You really piqued someone’s interest
-with your presentation. Don’t worry too much about having all the
-answers, you can think of it more as a continuing discussion about the
-topic with a potential new friend.
+### Finishing up
 
 If you have your slide presentation or example code available online you
 can let the group know where to find it if you want to share it. Curious
