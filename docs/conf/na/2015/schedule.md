@@ -26,8 +26,8 @@ Portland in all of its glory.
 During the day, we will be holding our [Writing Day documentation sprints][writing-day],
 followed by our conference reception in the evening.
 
-Our base of operations for all of our events on Sunday is Centrl Office, located
-at 1355 NW Everett St.  Head there at any point during the day to pick up your
+**Our base of operations for all of our events on Sunday is Centrl Office, located
+at 1355 NW Everett St.**  Head there at any point during the day to pick up your
 badge, work on some documentation at the sprints, or join us in the evening to
 get to know some of the fellow attendees.
 
