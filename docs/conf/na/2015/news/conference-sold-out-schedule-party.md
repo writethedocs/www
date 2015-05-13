@@ -48,7 +48,7 @@ Get Excited
 
 Even if you're not presenting a formal talk, there's still plenty you
 can do to participate.
-Start planning a [lightning talk](lightning-talks).
-Think about things to chat about at the [unconference](unconference).
-Get a project ready to document at the [Writing Day](writing-day).
+Start planning a [lightning talk](/conf/na/2015/lightning-talks).
+Think about things to chat about at the [unconference](/conf/na/2015/unconference).
+Get a project ready to document at the [Writing Day](/conf/na/2015/writing-day).
 We're excited about all the things, and we hope you're getting that way too!
