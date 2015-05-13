@@ -202,7 +202,7 @@ Sponsored by the wonderful folks at [Atlassian](https://www.atlassian.com/).
 <table>
   <tr>
     <td class="schedule-time">8 AM</td>
-    <td>Doors & Breakfast Served</td>
+    <td>Doors Open, Breakfast Served</td>
   </tr>
   <tr>
     <td class="schedule-time">9:10 AM</td>
