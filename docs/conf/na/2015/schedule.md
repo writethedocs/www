@@ -29,7 +29,7 @@ followed by our conference reception in the evening.
 **Our base of operations for all of our events on Sunday is Centrl Office, located
 at 1355 NW Everett St.**  Head there at any point during the day to pick up your
 badge, work on some documentation at the sprints, or join us in the evening to
-get to know some of the fellow attendees.
+get to know some of your fellow attendees.
 
 We encourage everyone to drop by on Sunday evening for our conference
 reception. Attendees will have a chance to get acquainted with each other over some
