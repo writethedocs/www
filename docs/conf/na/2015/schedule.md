@@ -2,7 +2,7 @@ template: 2015/na/details.html
 
 # Schedule
 
-Write the Docs is more than a conference.  Each year we organize a wide bunch
+Write the Docs is more than a conference.  Each year we organize a wide range
 of events so that people can join together, collaborate, and learn from each
 other.
 
