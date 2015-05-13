@@ -11,9 +11,9 @@ who will be converging on Portland for two delightful days of documentation divi
 We just sent off the order for badges,
 and everything is getting quite real.
 
-If you missed this year's Portland conference, don't fret.
+If you missed this year's Portland conference, worry not!
 Our [European conference](http://www.writethedocs.org/conf/eu/2015/) will be in Prague at the end of August,
-and the [Call for Proposals](http://www.writethedocs.org/conf/eu/2015/cfp/) is still open!
+and the [Call for Proposals](http://www.writethedocs.org/conf/eu/2015/cfp/) is still open.
 Tell all your European friends,
 or take the trip with us.
 
