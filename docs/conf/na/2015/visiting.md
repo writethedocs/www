@@ -46,8 +46,8 @@ Portland also has an extensive [bus network](http://trimet.org/bus/).
 
 ### Taxi Companies
 
-Portland does _not_ currently have Lyft or Uber, but there are several
-reliable local taxi companies:
+Portland just got Lyft or Uber, but they are somewhat unreliable.
+There are several reliable local taxi companies:
 
 * [Radio Cab](http://www.radiocab.net/)
 * [Broadway Cab](http://www.broadwaycab.com/)
@@ -62,5 +62,5 @@ There are two bike rental companies in downtown Portland that may be
 good options if you want to experience Portland by bike (which we very
 much recommend!):
 
-* [Waterfront Bikes](http://trimet.org/bus/)
+* [Waterfront Bikes](http://www.waterfrontbikes.com/)
 * [Cycle Portland](http://www.portlandbicycletours.com/)
