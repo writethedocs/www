@@ -25,9 +25,9 @@ Party Venue
 
 The conference party on Monday night will be held at TILT,
 where we have rented out a full side of the restaraunt.
-Party time is from 7pm-11pm, so make sure to come!
+**Party time is from 7pm-11pm**, so make sure to come!
 
-TILT is located at 1355 NW Everett St,
+[TILT](http://www.tiltitup.com/) is located at 1355 NW Everett St,
 in the same block as CENTRL Office where we will be the day before.
 Here's a [map](https://goo.gl/maps/ZoKCP) with directions from the venue.
 It's only a few minute walk.
