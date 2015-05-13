@@ -9,6 +9,11 @@ the Crystal Ballroom.
 
 [crystal]: http://www.mcmenamins.com/CrystalBallroom
 
+## Eating
+
+Portland is an amazing city. 
+The [Easter 38](http://pdx.eater.com/maps/best-portland-restaurants-38) is a great resource for delightful food.
+Though there are lots of amazing options.
 
 ## Where to stay
 
