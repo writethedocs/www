@@ -195,7 +195,7 @@ environment.
 
 ## Tuesday, May 19th - Day 2
 
-Sponsored by the wonderful folks at [Atlassian](https://www.atlassian.com/)
+Sponsored by the wonderful folks at [Atlassian](https://www.atlassian.com/).
 
 ### Main Stage
 
