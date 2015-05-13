@@ -59,7 +59,7 @@ can continue your conversations over some food as well.
 
 ## Monday, May 18th - Day 1
 
-Sponsored by the wonderful folks at [Wordpress.com](https://wordpress.com/). 
+Sponsored by the wonderful folks at [WordPress.com](https://wordpress.com/). 
 
 This is the main event! Hear from lots of interesting folks about all things documentation.
 Check out the [full abstracts](http://www.writethedocs.org/conf/na/2015/speakers/) for more information.
