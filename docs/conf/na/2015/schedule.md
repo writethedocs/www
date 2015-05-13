@@ -3,8 +3,8 @@ template: 2015/na/details.html
 # Schedule
 
 Write the Docs is more than a conference.  Each year we organize a wide range
-of events so that people can join together, collaborate, and learn from each
-other.
+of events so that people can come together, collaborate, and learn from each
+other in different ways.
 
 ## Saturday, May 16th
 
@@ -23,18 +23,17 @@ Portland in all of its glory.
 
 ## Sunday, May 17th
 
-During the day, we will be holding our [Writing Day documentation sprints][writing-day],
-followed by our conference reception in the evening.
+During the day, we'll hold our [Writing Day documentation sprints][writing-day],
+followed by the conference reception in the evening.
 
-**Our base of operations for all of our events on Sunday is Centrl Office, located
-at 1355 NW Everett St.**  Head there at any point during the day to pick up your
-badge, work on some documentation at the sprints, or join us in the evening to
-get to know some of your fellow attendees.
+**The base of operations for all our events on Sunday is CENTRL Office, located
+at 1355 NW Everett St.** Head there at any point during the day to pick up your
+badge, and take the opportunity to work on some documentation at the sprints. 
 
-We encourage everyone to drop by on Sunday evening for our conference
-reception. Attendees will have a chance to get acquainted with each other over some
-drinks and snacks. We'll be helping groups to organize dinner plans so that you
-can continue your conversations over some food as well.
+We encourage everyone to drop by on Sunday evening for the conference
+reception. You'll have a chance to get acquainted with each other over some
+drinks and snacks. We'll also help groups organize dinner plans, so you
+can continue your conversations over more substantial food as well.
 
 <table class="schedule">
   <tr>
@@ -69,7 +68,7 @@ Check out the [full abstracts](http://www.writethedocs.org/conf/na/2015/speakers
 <table>
   <tr>
     <td class="schedule-time">8 AM</td>
-    <td>Doors & Breakfast Served</td>
+    <td>Doors Open, Breakfast Served</td>
   </tr>
   <tr>
     <td class="schedule-time">9 AM</td>
@@ -163,7 +162,8 @@ Check out the [full abstracts](http://www.writethedocs.org/conf/na/2015/speakers
 
 ### Lola's Room
 
-While Lola's Room is open to attendees, feel free to drop by to get some work
+Lola's Room is open to attendees during the conference. 
+Feel free to drop by to get some work
 done, take a break from the conference, or catch up with some familiar faces.
 
 <table class="schedule">
@@ -181,9 +181,9 @@ done, take a break from the conference, or catch up with some familiar faces.
   </tr>
 </table>
 
-### Monday Night - Official Party
+### Monday Night - Party
 
-Wind down and talk about the days talks in a relaxed and friendly
+Wind down and talk about the day's talks in a relaxed and friendly
 environment.
 
 <table class="schedule">
