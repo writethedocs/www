@@ -63,6 +63,8 @@ Sponsored by the wonderful folks at [WordPress.com](https://wordpress.com/).
 This is the main event! Hear from lots of interesting folks about all things documentation.
 Check out the [full abstracts](http://www.writethedocs.org/conf/na/2015/speakers/) for more information.
 
+The talks will take place at the **Crystal Ballroom located at 1332 W Burnside St**.
+
 ### Main Stage
 
 <table>
@@ -208,6 +210,8 @@ environment.
 ## Tuesday, May 19th - Day 2
 
 Sponsored by the wonderful folks at [Atlassian](https://www.atlassian.com/).
+
+The talks will take place at the **Crystal Ballroom located at 1332 W Burnside St**.
 
 ### Main Stage
 
