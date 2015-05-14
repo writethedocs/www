@@ -79,6 +79,12 @@ I’m working on the API Reference for a new web service. I have all of the APIs
 
 Let's work together to make this happen at the Writing Day!
 
+##### NodeSchool Workshops/Events Docs
+
+There are around 30 [NodeSchool](http://nodeschool.io/) tutorials, and each one is it's own special snowflake. They are also viewed in the terminal, which isn't the most user friendly way to read docs. We want to figure some nice ways to write docs that can work in both the CLI as well as on the web. One example of a workshop that has done this is `git-it` which generates [this HTML guide](http://jlord.us/git-it/).
+
+Also there is a [NodeSchool International Day](http://nodeschool.io/international-day/) event coming up with events in 30+ cities and we wanna write a Guide for Organizers and a Guide for Attendees so they can get the most out of their events.
+
 ##### Your Project Here
 
 Yup. We know you need better docs. We do too. Make it happen. 
