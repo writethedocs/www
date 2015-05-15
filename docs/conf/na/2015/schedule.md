@@ -179,7 +179,7 @@ done, take a break from the conference, or catch up with some familiar faces.
   </tr>
   <tr>
     <td class="schedule-time">1:50 PM </td>
-    <td>User Experience <a href="http://www.writethedocs.org/conf/na/2015/unconference/#sessions">Sessions</a></td>
+    <td>Journalism <a href="http://www.writethedocs.org/conf/na/2015/unconference/#sessions">Sessions</a> </td>
   </tr>
   <tr>
     <td class="schedule-time">2:50 PM </td>
@@ -323,7 +323,7 @@ The talks will take place at the **Crystal Ballroom located at 1332 W Burnside S
   </tr>
   <tr>
     <td class="schedule-time">1:50 PM </td>
-    <td>Journalism <a href="http://www.writethedocs.org/conf/na/2015/unconference/#sessions">Sessions</a> </td>
+    <td>User Experience <a href="http://www.writethedocs.org/conf/na/2015/unconference/#sessions">Sessions</a></td>
   </tr>
   <tr>
     <td class="schedule-time">2:50 PM </td>
