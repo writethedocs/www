@@ -182,11 +182,15 @@ done, take a break from the conference, or catch up with some familiar faces.
     <td>Journalism <a href="http://www.writethedocs.org/conf/na/2015/unconference/#sessions">Sessions</a> </td>
   </tr>
   <tr>
-    <td class="schedule-time">2:50 PM </td>
+    <td class="schedule-time">2:30 PM </td>
     <td>Documentation and Open Source Software <a href="http://www.writethedocs.org/conf/na/2015/unconference/#sessions">Sessions</a> </td>
   </tr>
   <tr>
-    <td class="schedule-time">3:50 PM </td>
+    <td class="schedule-time">3:00 PM </td>
+    <td>Talk about the Keynote</td>
+  </tr>
+  <tr>
+    <td class="schedule-time">3:30 PM </td>
     <td>General Sessions </td>
   </tr>
   <tr>
@@ -326,11 +330,15 @@ The talks will take place at the **Crystal Ballroom located at 1332 W Burnside S
     <td>User Experience <a href="http://www.writethedocs.org/conf/na/2015/unconference/#sessions">Sessions</a></td>
   </tr>
   <tr>
-    <td class="schedule-time">2:50 PM </td>
+    <td class="schedule-time">2:30 PM </td>
     <td>Tools <a href="http://www.writethedocs.org/conf/na/2015/unconference/#sessions">Sessions</a> </td>
   </tr>
   <tr>
-    <td class="schedule-time">3:50 PM </td>
+    <td class="schedule-time">3:00 PM </td>
+    <td>Talk about the Keynote</td>
+  </tr>
+  <tr>
+    <td class="schedule-time">3:30 PM </td>
     <td>General Sessions </td>
   </tr>
   <tr>
