@@ -78,11 +78,6 @@ social events.
 * eric@writethedocs.org
 * +1 (757) 705-0532
 
-**Ruth Buchanan**
-
-* ruth@writethedocs.org
-* +1 (503) 951-8667
-
 **Anthony Johnson**
 
 * anthony@writethedocs.org
