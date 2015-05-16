@@ -68,11 +68,6 @@ social events.
 
 ### Staff Contact Information
 
-**Troy Howard**
-
-* troy@writethedocs.org
-* +1 (503) 544-1104
-
 **Eric Holscher**
 
 * eric@writethedocs.org
@@ -82,6 +77,12 @@ social events.
 
 * anthony@writethedocs.org
 * +1 (413) 376-8649
+
+**Troy Howard**
+
+* troy@writethedocs.org
+* +1 (503) 544-1104
+
 
 ### License
 
