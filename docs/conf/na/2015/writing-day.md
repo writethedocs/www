@@ -57,6 +57,8 @@ If you'd like to add your own project to the list, you can [email us](mailto:con
 The Open News team has multiple open source journalism projects whose documentation could use some expert love.
 Help improve the docs on some amazing code that helps people understand the news everyday.
 
+Check out the [full list](https://docs.google.com/document/d/1S8D_757jFZEE0GLc-1eXUyqbuQ7Km5GkKMHIjK6NxoI/edit?usp=sharing) of Open News projects that will be worked on.
+
 ##### [Mozilla Developer Network](https://developer.mozilla.org/en-US/) 
 
 Help document the internet. Mozilla always needs more people to create, edit, and translate content, so we can do more to help make the internet more approachable.
