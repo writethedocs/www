@@ -11,9 +11,14 @@ the Crystal Ballroom.
 
 ## Eating
 
-Portland is an amazing city. 
-The [Easter 38](http://pdx.eater.com/maps/best-portland-restaurants-38) is a great resource for delightful food.
-Though there are lots of amazing options.
+Portland is an amazing food city.
+Here are some resources that will help you find something good to eat:
+
+* The [Easter 38](http://pdx.eater.com/maps/best-portland-restaurants-38) is a great resource for delightful food.
+* Willamette Week's [Restaurant Guide](http://www.wweek.com/portland/restaurantguide)
+* Urban Spoon's [Best of Portland](http://www.urbanspoon.com/c/24/Portland-restaurants.html)
+* [Food Carts Portland](http://www.foodcartsportland.com/)
+
 
 ## Where to stay
 
