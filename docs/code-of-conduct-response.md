@@ -1,3 +1,5 @@
+## Code of Conduct Response Policy
+
 ### Warnings
 
 Any member of conference staff can issue a verbal warning to a participant that their behavior violates the conference's Code of Conduct. Warnings should be reported to Eric Holscher (757-705-0532 or eric@ericholscher.com) as soon as practical. The report should include:
