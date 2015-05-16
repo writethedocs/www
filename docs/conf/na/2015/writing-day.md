@@ -46,6 +46,10 @@ We'll be creating and editing content, so make sure that you have the tools you 
 * 6:00      Official start of the Reception -- In the same venue as the sprints
 * 9:00      End of the Reception. Go get some sleep and get ready for Day 1 of the conference!
 
+#### Documenting a new project?
+
+Check out our [beginners guide](http://docs.writethedocs.org/writing/beginners-guide-to-docs/) to writing documentation.
+This should help you get started, and give you some ideas for how you can contribute to a projet that you love.
 
 #### Projects
 
