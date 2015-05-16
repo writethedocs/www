@@ -16,8 +16,6 @@ The conference is just around the corner. Just a few notes to help your planning
 * **Use the hash tag #writethedocs.** Twitter is a great way to communicate at events. If you arrive into Portland early and want to find others, use the hash tag or tweet at @writethedocs. We can point you to something good.
 * **Get excited.** This is the third year of Write the Docs, and our community is growing. We have a fantastic venue in a beautiful city, and lots of interesting talks. Come ready to meet other people in the community, and have a great time.
 
-Feel free to reply to this email if you have any questions or issues. 
-We are happy to help you in any way we can.
 See you soon!
 
 
