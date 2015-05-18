@@ -67,7 +67,7 @@ The talks will take place at the **Crystal Ballroom located at 1332 W Burnside S
 
 ### Community Notes
 
-Attendees are welcome to contribute to the [Attende Notes](https://github.com/writethedocs/attendee-notes) during and after the talks.
+Attendees are welcome to contribute to the [Attendee Notes](https://github.com/writethedocs/attendee-notes) during and after the talks.
 
 ### Main Stage
 
