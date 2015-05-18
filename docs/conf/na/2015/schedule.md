@@ -65,6 +65,10 @@ Check out the [full abstracts](http://www.writethedocs.org/conf/na/2015/speakers
 
 The talks will take place at the **Crystal Ballroom located at 1332 W Burnside St**.
 
+### Community Notes
+
+Attendees are welcome to contribute to the [Attende Notes](https://github.com/writethedocs/attendee-notes) during and after the talks.
+
 ### Main Stage
 
 <table>
