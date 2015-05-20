@@ -1,3 +1,5 @@
+template: 2015/na/blog.html
+
 Thanks for coming to Write the Docs
 ===================================
 
