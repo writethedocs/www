@@ -2,10 +2,9 @@ template: 2015/eu/blog.html
 
 ## Call for Proposals
 
-We are accepting proposals for our 2015
-conference, which is happening on **August 31 - September 1, 2015** in Prague, Czech Republic.
+We are accepting proposals for our 2015 conference, which is happening on **August 31 - September 1, 2015** in Prague, Czech Republic.
 
-The deadline for submitting your proposal is **Midnight CET on May 31**.
+The deadline for submitting your proposal is **Midnight CET on June 15**.
 
 ## Conference Goals
 
@@ -78,7 +77,7 @@ possible. If your proposal is accepted but you are unable to attend due
 to travel costs, however, please let us know and we will do what we can
 to help out.
 
-Proposal decisions will be sent by the middle of June.
+Proposal decisions will be sent by the end of June.
 
 ## Questions?
 
