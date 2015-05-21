@@ -20,7 +20,7 @@ You can find information about the conference and Call for Proposals on our [Eur
 
 ## Videos
 
-All the videos for the conference are now posted. You can see all the videos from every year of Write the Docs on [Twitter](https://twitter.com/search?q=%23writethedocs%20from%3Anextdayvideo&src=typd). Thanks again to our wonderful video folks at [Next Day Video](http://nextdayvideo.com/) for turning them around so quickly.
+All the videos for the conference are now posted. You can see all the videos from every year of Write the Docs on [Youtube](https://www.youtube.com/playlist?list=PLkQw3GZ0bq1JvhaLqfBqRFuaY108QmJDK). Thanks again to our wonderful video folks at [Next Day Video](http://nextdayvideo.com/) for turning them around so quickly.
 
 ## Connect with other documentarians
 
