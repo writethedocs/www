@@ -7,7 +7,7 @@ Hi everyone,
 
 Thanks for attending our third North American Write the Docs conference in Portland! We're so grateful to our sponsors, speakers, volunteers, and attendees for making the conference possible. 
 
-We hope you had a wonderful time, and that you are as excited as we are about the beautiful community that is forming. Here are some links to resources like videos, notes, forum, and an anonymous survey so we can make the conference even better next year.
+We hope you had a wonderful time, and that you are as excited as we are about the beautiful community that is forming. Below we've included all of the resources you might need for staying in touch, like videos, notes, and a forum. We also have a short anonymous survey for you to fill out, so we can make the conference even better next year.
 
 ## Speak or Sponsor in Europe
 
