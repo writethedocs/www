@@ -20,11 +20,13 @@ please contact us at <sponsorships@writethedocs.org>.
 
 ## Videos
 
-We're almost finished posting the videos. You can access the videos that are already posted via [Twitter](https://twitter.com/search?q=%23writethedocs%20from%3Anextdayvideo&src=typd)
+All the videos for the conference are now posted. You can see all the videos from every year of Write the Docs on [Twitter](https://twitter.com/search?q=%23writethedocs%20from%3Anextdayvideo&src=typd).
 
-## Notes
+## Connect with other documentarians
 
-We have a GitHub repository with notes about the talks and unconference sessions, sourced from all the folks at the conference. If you have notes, feel free to contribute them or read [existing notes](https://github.com/writethedocs/attendee-notes).
+Thanks to our awesome community member [Sharon Campbell](https://twitter.com/captainshar), we now have a [Write the Docs Forum](http://forum.writethedocs.org/).
+
+We hope that this forum will serve as the easiest way to share information with the community. Join the forum, and feel free to start a topic or chime in on an existing thread.
 
 ## Meetups
 
@@ -35,22 +37,19 @@ Keep us posted if you start one (or encounter a new one) so that we can spread t
 * Seattle: <http://www.meetup.com/Write-The-Docs-Seattle/>
 * Portland: <http://www.meetup.com/Write-The-Docs-PDX/>
 * San Francisco: <http://www.meetup.com/Write-The-Docs/>
+* San Diego: <http://www.meetup.com/Write-the-Docs-San-Diego-CA/>
 * New York: <http://www.meetup.com/Write-The-Docs-NY/>
-* Boston: <http://www.meetup.com/Write-The-Docs-Boston/>
 * Your City Here -- [Start a meetup!](https://www.youtube.com/watch?v=ZwQ8Kd48d0w)
 
-## Connect with other documentarians
+## Notes
 
-Thanks to our awesome community member [Sharon Campbell](https://twitter.com/captainshar), we now have a [Write the Docs Forum](http://forum.writethedocs.org/).
-
-We hope that this forum will serve as the easiest way to share information with the community. Join the forum, and feel free to start a topic or chime in on an existing thread.
+We have a GitHub repository with notes about the talks and unconference sessions, sourced from all the folks at the conference. If you have notes, feel free to contribute them or read [the existing notes](https://github.com/writethedocs/attendee-notes).
 
 ## Tell us how we did
 
 Let us know how we can improve for future conferences and gatherings. We really appreciate your candid feedback!
 
 **Our two question survey is quick and easy, so [go fill it out](https://docs.google.com/forms/d/1s8PYo_VmjBg9-BZEBzD8V7glVBFNFWZ3Lz7dqNGOUic/viewform?usp=send_form).**
-
 
 ## Thanks again
 
