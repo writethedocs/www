@@ -15,6 +15,9 @@ Don't forget we have our European conference this year in Prague! The CFP is sti
 
 You can find information about the conference and CFP on our [European Conference website](http://www.writethedocs.org/conf/eu/2015/).
 
+If you are curious about sponsoring EU or NA again next year,
+please contact us at <sponsorships@writethedocs.org>.
+
 ## Videos
 
 We're almost finished posting the videos. You can access the videos that are already posted via [Twitter](https://twitter.com/search?q=%23writethedocs%20from%3Anextdayvideo&src=typd)
