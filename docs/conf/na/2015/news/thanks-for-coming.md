@@ -7,20 +7,20 @@ Hi everyone,
 
 Thanks for attending our third North American Write the Docs conference in Portland! We're so grateful to our sponsors, speakers, volunteers, and attendees for making the conference possible. 
 
-Here are some links to resources like videos, notes, forum, and an anonymous survey to tell us how we can improve.
+We hope you had a wonderful time, and that you are as excited as we are about the beautiful community that is forming. Here are some links to resources like videos, notes, forum, and an anonymous survey so we can make the conference even better next year.
 
 ## Speak or Sponsor in Europe
 
-Don't forget we have our European conference this year in Prague! The CFP is still open, and has been extended until June 15 to allow for those of you who were inspired by our NA conference to submit proposals for the EU conference. We're also looking for more sponsors to make the event just as magical as NA.
+Don't forget we have our European conference this year in Prague! The Call for Proposals is still open, and has been extended until June 15. We heard a lot of people excited about submitting, and worried about the dealdine, so we've pushed it back to give you a bit more time. 
 
-You can find information about the conference and CFP on our [European Conference website](http://www.writethedocs.org/conf/eu/2015/).
+We're also looking for more sponsors to make the event just as magical as this years Portland event. If you are curious about sponsoring EU or NA again next year,
+please contact us at [sponsorships@writethedocs.org](mailto:sponsorships@writethedocs.org).
 
-If you are curious about sponsoring EU or NA again next year,
-please contact us at <sponsorships@writethedocs.org>.
+You can find information about the conference and Call for Proposals on our [European Conference website](http://www.writethedocs.org/conf/eu/2015/).
 
 ## Videos
 
-All the videos for the conference are now posted. You can see all the videos from every year of Write the Docs on [Twitter](https://twitter.com/search?q=%23writethedocs%20from%3Anextdayvideo&src=typd).
+All the videos for the conference are now posted. You can see all the videos from every year of Write the Docs on [Twitter](https://twitter.com/search?q=%23writethedocs%20from%3Anextdayvideo&src=typd). Thanks again to our wonderful video folks at [Next Day Video](http://nextdayvideo.com/) for turning them around so quickly.
 
 ## Connect with other documentarians
 
@@ -53,7 +53,7 @@ Let us know how we can improve for future conferences and gatherings. We really 
 
 ## Thanks again
 
-The conference is only possible because folks like you make it happen.
+The conference is only possible because folks like you make it a great experience.
 Thanks for making it another wonderful year.
 We hope to see you back again next year,
-or even sooner at one of our other meetups that happen throughout the year.
+or even sooner at one of our other events that happen throughout the year.
