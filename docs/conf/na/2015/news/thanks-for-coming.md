@@ -19,14 +19,14 @@ Let us know how we can improve for future conferences and gatherings. We really 
 
 Don't forget we have our European conference this year in Prague! The Call for Proposals is still open, and has been extended until June 15. We heard a lot of people excited about submitting, and worried about the dealdine, so we've pushed it back to give you a bit more time. 
 
-We're also looking for more sponsors to make the event just as magical as this years Portland event. If you are curious about sponsoring EU or NA again next year,
+We're also looking for more sponsors to make the event just as magical as this year's Portland event. If you are curious about sponsoring EU or NA again next year,
 please contact us at [sponsorships@writethedocs.org](mailto:sponsorships@writethedocs.org).
 
 You can find information about the conference and Call for Proposals on our [European Conference website](http://www.writethedocs.org/conf/eu/2015/).
 
 ## Videos
 
-All the videos for the conference are now posted. You can see all the videos from every year of Write the Docs on [Youtube](https://www.youtube.com/playlist?list=PLkQw3GZ0bq1JvhaLqfBqRFuaY108QmJDK). Thanks again to our wonderful video folks at [Next Day Video](http://nextdayvideo.com/) for turning them around so quickly.
+All the videos for the conference are now posted. You can see all the videos from this year of Write the Docs on [Youtube](https://www.youtube.com/playlist?list=PLkQw3GZ0bq1JvhaLqfBqRFuaY108QmJDK). Thanks again to our wonderful video folks at [Next Day Video](http://nextdayvideo.com/) for turning them around so quickly.
 
 ## Our New Forum
 
