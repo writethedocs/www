@@ -5,7 +5,7 @@ Thanks for coming to Write the Docs North America
 
 Hi everyone,
 
-Thanks for attending our third North America Write the Docs conference in Portland! We're so grateful to our sponsors, speakers, volunteers, and attendees for making the conference possible. 
+Thanks for attending our third North American Write the Docs conference in Portland! We're so grateful to our sponsors, speakers, volunteers, and attendees for making the conference possible. 
 
 Here are some links to resources like videos, notes, forum, and an anonymous survey to tell us how we can improve.
 
