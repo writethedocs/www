@@ -9,6 +9,12 @@ Thanks for attending our third North American Write the Docs conference in Portl
 
 We hope you had a wonderful time, and that you are as excited as we are about the beautiful community that is forming. Below we've included all of the resources you might need for staying in touch, like videos, notes, and a forum. We also have a short anonymous survey for you to fill out, so we can make the conference even better next year.
 
+## Tell us how we did
+
+Let us know how we can improve for future conferences and gatherings. We really appreciate your candid feedback!
+
+**Our two question survey is quick and easy, so [go fill it out](https://docs.google.com/forms/d/1s8PYo_VmjBg9-BZEBzD8V7glVBFNFWZ3Lz7dqNGOUic/viewform?usp=send_form).**
+
 ## Speak or Sponsor in Europe
 
 Don't forget we have our European conference this year in Prague! The Call for Proposals is still open, and has been extended until June 15. We heard a lot of people excited about submitting, and worried about the dealdine, so we've pushed it back to give you a bit more time. 
@@ -22,7 +28,7 @@ You can find information about the conference and Call for Proposals on our [Eur
 
 All the videos for the conference are now posted. You can see all the videos from every year of Write the Docs on [Youtube](https://www.youtube.com/playlist?list=PLkQw3GZ0bq1JvhaLqfBqRFuaY108QmJDK). Thanks again to our wonderful video folks at [Next Day Video](http://nextdayvideo.com/) for turning them around so quickly.
 
-## Connect with other documentarians
+## Our New Forum
 
 Thanks to our awesome community member [Sharon Campbell](https://twitter.com/captainshar), we now have a [Write the Docs Forum](http://forum.writethedocs.org/).
 
@@ -44,12 +50,6 @@ Keep us posted if you start one (or encounter a new one) so that we can spread t
 ## Notes
 
 We have a GitHub repository with notes about the talks and unconference sessions, sourced from all the folks at the conference. If you have notes, feel free to contribute them or read [the existing notes](https://github.com/writethedocs/attendee-notes).
-
-## Tell us how we did
-
-Let us know how we can improve for future conferences and gatherings. We really appreciate your candid feedback!
-
-**Our two question survey is quick and easy, so [go fill it out](https://docs.google.com/forms/d/1s8PYo_VmjBg9-BZEBzD8V7glVBFNFWZ3Lz7dqNGOUic/viewform?usp=send_form).**
 
 ## Thanks again
 
