@@ -9,13 +9,19 @@ Thanks for attending our third North America Write the Docs conference in Portla
 
 Here are some links to resources like videos, notes, forum, and an anonymous survey to tell us how we can improve.
 
+## Speak or Sponsor in Europe
+
+Don't forget we have our European conference this year in Prague! The CFP is still open, and has been extended until June 15 to allow for those of you who were inspired by our NA conference to submit proposals for the EU conference. We're also looking for more sponsors to make the event just as magical as NA.
+
+You can find information about the conference and CFP on our [European Conference website](http://www.writethedocs.org/conf/eu/2015/).
+
 ## Videos
 
-We're almost finished posting the videos. You can access the videos that are already posted here: <https://twitter.com/search?q=%23writethedocs%20from%3Anextdayvideo&src=typd>
+We're almost finished posting the videos. You can access the videos that are already posted via [Twitter](https://twitter.com/search?q=%23writethedocs%20from%3Anextdayvideo&src=typd)
 
 ## Notes
 
-We have a GitHub repository with notes about the talks and unconference sessions, sourced from all the folks at the conference. If you have notes, feel free to contribute them or read existing notes here: <https://github.com/writethedocs/attendee-notes>
+We have a GitHub repository with notes about the talks and unconference sessions, sourced from all the folks at the conference. If you have notes, feel free to contribute them or read [existing notes](https://github.com/writethedocs/attendee-notes).
 
 ## Meetups
 
@@ -32,7 +38,7 @@ Keep us posted if you start one (or encounter a new one) so that we can spread t
 
 ## Connect with other documentarians
 
-Thanks to our awesome community member [Sharon Campbell](https://twitter.com/captainshar), we now have a Write the Docs forum here: <http://forum.writethedocs.org/>
+Thanks to our awesome community member [Sharon Campbell](https://twitter.com/captainshar), we now have a [Write the Docs Forum](http://forum.writethedocs.org/).
 
 We hope that this forum will serve as the easiest way to share information with the community. Join the forum, and feel free to start a topic or chime in on an existing thread.
 
@@ -40,15 +46,12 @@ We hope that this forum will serve as the easiest way to share information with 
 
 Let us know how we can improve for future conferences and gatherings. We really appreciate your candid feedback!
 
-You can access the survey here: 
-TODO
-
-## Write the Docs Europe 201, Aug 31 - Sept 1
-
-Don't forget we have our European conference this year in Prague! The CFP is still open, and has extended until June 15 to allow for those of you who were inspired by our NA conference to submit proposals for the EU conference.
-
-You can find information about the conference and CFP here: <http://www.writethedocs.org/conf/eu/2015/>
+**Our two question survey is quick and easy, so [go fill it out](https://docs.google.com/forms/d/1s8PYo_VmjBg9-BZEBzD8V7glVBFNFWZ3Lz7dqNGOUic/viewform?usp=send_form).**
 
 
-That's all for now. Once again, thanks a million for coming, and for making the conference possible.
+## Thanks again
 
+The conference is only possible because folks like you make it happen.
+Thanks for making it another wonderful year.
+We hope to see you back again next year,
+or even sooner at one of our other meetups that happen throughout the year.
