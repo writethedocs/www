@@ -21,6 +21,11 @@ Our conferences create a time and a place for the global community of
 *documentarians* to share information, discuss ideas, and work together
 to improve the **art and science of documentation**.
 
+Forum
+-----
+
+Check out our new [Forum](http://forum.writethedocs.org/) to keep in touch with your fellow documentarians.
+
 Upcoming Events
 ---------------
 
