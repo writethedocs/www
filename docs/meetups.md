@@ -18,9 +18,9 @@ We'd be happy to promote it and list it here.
 
 ### Current Meetups
 
+-   [Seattle, WA, USA](http://www.meetup.com/Write-The-Docs-Seattle/)
 -   [San Francisco, CA, USA](http://www.meetup.com/Write-the-Docs/)
 -   [San Diego, CA, USA](http://www.meetup.com/Write-the-Docs-San-Diego-CA/)
 -   [Portland, OR, USA](http://www.meetup.com/Write-The-Docs-PDX)
 -   [New York, NY, USA](http://www.meetup.com/Write-The-Docs-NY/)
--   [Boston, MA, USA](http://www.meetup.com/Write-The-Docs-Boston/)
 
