@@ -14,6 +14,10 @@ everyone. Please buy the ticket that best fits your situation.
 
 Tickets are **on sale now**. [Buy them now](http://www.writethedocs.org/conf/eu/2015/#tickets).
 
+Early Bird tickets are limited in number.
+We budget for a set amount,
+and don't have a deadline for them running out.
+
 ### Corporate Tickets
 
 Purchase this ticket if a company is paying for your attendance.
