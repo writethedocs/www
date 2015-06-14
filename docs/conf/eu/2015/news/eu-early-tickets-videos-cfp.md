@@ -2,7 +2,7 @@ template: 2015/eu/blog.html
 
 # Ticket Updates, Videos, and Proposals Reminder
 
-The conference is less than 3 months away, and we're happy to see such 
+The [conference](http://www.writethedocs.org/conf/eu/2015/) is less than 3 months away, and we're happy to see such 
 an overwhelmingly positive and supportive response from our documentarians
 all over the world.
 
