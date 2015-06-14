@@ -1,6 +1,6 @@
 template: 2015/na/blog.html
 
-# Check out the Videos, Forum, and European Call for Proposals
+# Check out the Videos, Forum, Local Meetups, and European Call for Proposals
 
 Write the Docs NA 2015 was another fabulous event.
 We brought over 350 documentarians to Portland to learn from each other,
