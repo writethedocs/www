@@ -21,7 +21,7 @@ We do expect the conference to sell out fully, so
 ## Videos from Write the Docs Europe 2014
 
 We're happy to announce that the videos from last year's Write the Docs Europe
-are live! We compiled the videos into a [playlist on our YouTube channel](https://www.youtube.com/watch?v=IMdyx4YJ0hQ&list=PLZAeFn6dfHpnHBLE4qEUwg1LjhDZEvC2A), and we thank all our speakers
+are live! We compiled the videos into a [playlist on our YouTube channel](https://www.youtube.com/playlist?list=PLZAeFn6dfHpnHBLE4qEUwg1LjhDZEvC2A), and we thank all our speakers
 from last year for your inspiring talks!
 
 ## Call for Proposals Reminder
