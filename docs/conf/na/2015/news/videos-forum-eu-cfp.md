@@ -39,6 +39,20 @@ The [Call for Proposals](http://www.writethedocs.org/conf/eu/2015/cfp/) ends tom
 We expect this event to sell out also,
 so don't wait to buy tickets.
 
+## Meetups
+
+We hope you continue to build the community and keep in touch with other documentarians in your hometown. In this spirit, we have a number of meetups in cities across the country. If you don't see your city listed, consider starting a meetup! 
+
+Keep us posted if you start one (or encounter a new one) so that we can spread the word.
+
+* Seattle: <http://www.meetup.com/Write-The-Docs-Seattle/>
+* Portland: <http://www.meetup.com/Write-The-Docs-PDX/>
+* San Francisco: <http://www.meetup.com/Write-The-Docs/>
+* San Diego: <http://www.meetup.com/Write-the-Docs-San-Diego-CA/>
+* Boulder/Denver: <http://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/>
+* New York: <http://www.meetup.com/Write-The-Docs-NY/>
+* Your City Here -- [Start a meetup!](https://www.youtube.com/watch?v=ZwQ8Kd48d0w)
+
 ## 2016
 
 We're starting the planning process for 2016 already.
