@@ -6,7 +6,7 @@ The [conference](http://www.writethedocs.org/conf/eu/2015/) is less than 3 month
 an overwhelmingly positive and supportive response from our documentarians
 all over the world.
 
-Here are some updates that you might like to know as the call for proposals
+Here are some updates that you might like to know as the Call for Proposals
 draws to a close and ticket sales are in full swing.
 
 ## Call for Proposals Reminder
