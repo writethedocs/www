@@ -1,6 +1,6 @@
 template: 2015/eu/blog.html
 
-# Ticket Updates, Videos, and Proposals Reminder
+# Early-Bird Tickets Sell Out, Videos, and Proposal Reminder
 
 The [conference](http://www.writethedocs.org/conf/eu/2015/) is less than 3 months away, and we're happy to see such 
 an overwhelmingly positive and supportive response from our documentarians
