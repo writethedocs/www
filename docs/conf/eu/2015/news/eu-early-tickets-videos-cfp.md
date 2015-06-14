@@ -6,8 +6,16 @@ The conference is less than 3 months away, and we're happy to see such
 an overwhelmingly positive and supportive response from our documentarians
 all over the world.
 
-Here are some updates that you might like to know as we're drawing our CFP to
-a close and hacking at the details of the schedule and activities.
+Here are some updates that you might like to know as the call for proposals
+draws to a close and ticket sales are in full swing.
+
+## Call for Proposals Reminder
+
+If you haven't submitted your proposal yet, you still have until the [Call
+for Proposals](http://www.writethedocs.org/conf/eu/2015/cfp/) ends **Tomorrow, June 15th Midnight CET**.
+
+Our community is full of amazing people, and we'd love to have you come and 
+share your experiences with us. We will be announcing the conference program on **July 1st, 2015**.
 
 ## Early-Bird Tickets Sold Out
 
@@ -23,14 +31,6 @@ We do expect the conference to sell out fully, so
 We're happy to announce that the videos from last year's Write the Docs Europe
 are live! We compiled the videos into a [playlist on our YouTube channel](https://www.youtube.com/playlist?list=PLZAeFn6dfHpnHBLE4qEUwg1LjhDZEvC2A), and we thank all our speakers
 from last year for your inspiring talks!
-
-## Call for Proposals Reminder
-
-If you haven't submitted your proposal yet, you still have until the [Call
-for Proposals](http://www.writethedocs.org/conf/eu/2015/cfp/) ends **Tomorrow, June 15th Midnight CET**.
-
-Our community is full of amazing people, and we'd love to have you come and 
-share your experiences with us. We will be announcing the conference program on **July 1st, 2015**.
 
 ## Conclusion
 
