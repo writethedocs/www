@@ -14,9 +14,9 @@ If you loved our North American event,
 don't forget that we have a [European conference](http://www.writethedocs.org/conf/eu/2015/) as well.
 Join us in Prague at the end of August.
 
-The [Call for Proposals](http://www.writethedocs.org/conf/eu/2015/cfp/) ends tomorrow, and early bird tickets are already sold out. 
+The [Call for Proposals](http://www.writethedocs.org/conf/eu/2015/cfp/) ends today, and early bird tickets are already sold out. 
 We expect this event to sell out also,
-so don't wait to buy tickets.
+so don't wait to submit a talk or buy tickets.
 
 ## Write the Docs Forum
 
