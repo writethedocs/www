@@ -43,6 +43,7 @@ Keep us posted if you start one (or encounter a new one) so that we can spread t
 * San Diego: <http://www.meetup.com/Write-the-Docs-San-Diego-CA/>
 * Boulder/Denver: <http://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/>
 * New York: <http://www.meetup.com/Write-The-Docs-NY/>
+* Austin: Coming Soon
 * Your City Here -- [Start a meetup!](https://www.youtube.com/watch?v=ZwQ8Kd48d0w)
 
 ## Videos
