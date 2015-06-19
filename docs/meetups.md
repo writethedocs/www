@@ -23,5 +23,5 @@ We'd be happy to promote it and list it here.
 -   [San Diego, CA, USA](http://www.meetup.com/Write-the-Docs-San-Diego-CA/)
 -   [Portland, OR, USA](http://www.meetup.com/Write-The-Docs-PDX)
 -   [New York, NY, USA](http://www.meetup.com/Write-The-Docs-NY/)
--   [Boulder/Denver, CO, USA](http://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/))
+-   [Boulder/Denver, CO, USA](http://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/)
 
