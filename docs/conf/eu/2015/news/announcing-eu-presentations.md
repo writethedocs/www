@@ -23,13 +23,47 @@ on where to stay and how to get around][visiting].
 
 Here is the full list of presentations for Write the Docs North America 2015:
 
- * SPEAKER NAME - [TITLE][speaker-FIRSINITIALLASTNAME]
+
+ * Adam Dangoor - [Tested and Correct, How to Make Sure Your Documentation Keeps Working][speaker-adangoor]
+ * Anna Jaruga - [The quest for scientific credit for software documentation][speaker-ajaruga]
+ * Beth Aitman - [A crash course in writing for user interfaces][speaker-baitman]
+ * Chris Ward - [Documenting your Story - Crafting a good presentation][speaker-cward]
+ * Christina Elmore - [All roads might not lead to docs][speaker-celmore]
+ * Diana Potter - [Screencasting 101][speaker-dpotter]
+ * Elijah Caine - [How to Write an Email][speaker-ecaine]
+ * Emilie Boillat - [Whatchamacallit: Controlled Vocabularies for Technical Writers][speaker-eboillat]
+ * Florian Scholz & Jean-Yves Perrier - [Gardening Open Docs][speaker-fscholzjyperrier]
+ * Jamie Hannaford - [Generating docs from APIs][speaker-jhannaford]
+ * Jennifer Rondeau - [Back to the Future: What Can Documentarians Learn From The Past?][speaker-jrondeau]
+ * Markus Zapke-Gründemann - [i18what?][speaker-mzapke]
+ * Patrick Keegan - [Free Your Mind and Your Docs Will Follow][speaker-pkeegan]
+ * Paul Adams - [Judas Priest Ate My Scrum Master][speaker-padams]
+ * Paul Roeland - [MacGyvering your docs][speaker-proeland]
+ * Radina Matic - [Inclusive Tech Docs - TechComm Meets Accessibility][speaker-rmatic]
+ * Riona MacNamara - [IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty, and Surf the Upcoming Swerve in Technical Documentation][speaker-rmacnamara]
+ * Sonja Heinen - [Visual Documentation Language][speaker-sheinen]
 
 We also have the [full talk abstracts][speakers] available on our website.
 
 [speakers]: /conf/eu/2015/speakers/
-[speaker-FIRSTINITIALLASTNAME]: /conf/eu/2015/speakers/#speaker-FIRSTINITIALLASTNAME
-
+[speaker-adangoor]: /conf/eu/2015/speakers/#speaker-adangoor
+[speaker-ajaruga]: /conf/eu/2015/speakers/#speaker-ajaruga
+[speaker-baitman]: /conf/eu/2015/speakers/#speaker-baitman
+[speaker-cward]: /conf/eu/2015/speakers/#speaker-cward
+[speaker-celmore]: /conf/eu/2015/speakers/#speaker-celmore
+[speaker-dpotter]: /conf/eu/2015/speakers/#speaker-dpotter
+[speaker-ecaine]: /conf/eu/2015/speakers/#speaker-ecaine
+[speaker-eboillat]: /conf/eu/2015/speakers/#speaker-eboillat
+[speaker-fscholzjyperrier]: /conf/eu/2015/speakers/#speaker-fscholzjyperrier
+[speaker-jhannaford]: /conf/eu/2015/speakers/#speaker-jhannaford
+[speaker-jrondeau]: /conf/eu/2015/speakers/#speaker-jrondeau
+[speaker-mzapke]: /conf/eu/2015/speakers/#speaker-mzapke
+[speaker-pkeegan]: /conf/eu/2015/speakers/#speaker-pkeegan
+[speaker-padams]: /conf/eu/2015/speakers/#speaker-padams
+[speaker-proeland]: /conf/eu/2015/speakers/#speaker-proeland
+[speaker-rmatic]: /conf/eu/2015/speakers/#speaker-rmatic
+[speaker-rmacnamara]: /conf/eu/2015/speakers/#speaker-rmacnamara
+[speaker-sheinen]: /conf/eu/2015/speakers/#speaker-sheinen
 ## Sponsors
 
 Sponsorship is one of the reasons we are able to have such a wonderful
@@ -37,7 +71,6 @@ conference each year. We're happy to have the following sponsors join us
 in supporting the Write the Docs community:
 
  * [Red Hat](https://twitter.com/RedHatJobs)
- * [Salesforce](http://salesforce.com/)
 
 ----
 
