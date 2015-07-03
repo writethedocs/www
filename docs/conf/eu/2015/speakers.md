@@ -29,7 +29,7 @@ This is not meant to be a tutorial but rather a conceptual guide for how to thin
 
 
 <!-- TODO: pic -->
-<a name="speaker-rn></a>
+<a name="speaker-rn"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
     <img class="speaker-image" src="/conf/eu/2015/pics/speakers/" />
