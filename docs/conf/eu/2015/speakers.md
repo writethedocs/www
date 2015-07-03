@@ -2,63 +2,6 @@ template: 2015/eu/details.html
 
 # Speakers
 
-<a name="speaker-ec"></a>
-<div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/elicropped2-19.jpg" />
-  </div>
-  <div class="col-md-8 col-sm-8">
-    <h3>
-      Elijah Caine
-      <span class="speaker-details">
-        <a href="https://twitter.com/ElijahCaineMV">@ElijahCaineMV</a>
-      </span>
-    </h3>
-    <h4>How to Write an Email</h4>
-    <p>
-      How to Write an Email (and other tips for on-line communication)
-
-Nobody loves email. Nobody really even likes email. In fact email can totally suck and it is here to stay. Despite how we feel about it, we have to deal with email almost every single day. Fortunately we can improve email as a whole by learning how to write email that sucks just a little bit less -- not that you write bad emails.. this talk is for your... friend. Yeah, this talk is for your friends that really need to setup up their email game.
-
-In addition to email this talk will explore some fundamental misunderstandings that people have with modes of online communication and how to correct these misunderstandings. Like how to craft a good Tweet, Facebook Post, and Instant Messaging interaction. 
-
-This is not meant to be a tutorial but rather a conceptual guide for how to think about on-line communication and how to correct some common faults we share as members of the on-line community. The Internet isn't going away anytime soon, and the amount we communicate over it is not going to diminish anytime soon either. This talk attempts to teach one how to make digital communication as painless as possible.
-    </p>
-  </div>
-</div>
-
-
-<!-- TODO: pic -->
-<a name="speaker-rn></a>
-<div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/" />
-  </div>
-  <div class="col-md-8 col-sm-8">
-    <h3>
-      Riona Macnamara
-      <span class="speaker-details">
-        Google
-      </span>
-    </h3>
-    <h4>IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty, and Surf the Upcoming Swerve in Technical Documentation</h4>
-    <p>
-Do you feel like a fraud? Do you have that sneaking fear of being “found out” and exposed? Imposter syndrome is corrosive. It holds us back at work - especially in an industry where we can feel constantly under review by talented peers -  and erodes our happiness. And the subject always comes up whenever technical writers gather; sometimes it feels like the very definition of a technical writer is “One who experiences imposter syndrome.”
-
-Why is this? The first, shorter part of this talk will cover some research and insights into why we, as documentarians, may be especially susceptible to imposter syndrome.
-
-But the field of tech writing is experiencing a swerve: a tipping point - a sea change in direction.  There will always be a demand for ""old"" tech writing, but many of us will have to adapt to this new environment. 
-
-In the second, forward-looking part of this talk, I’ll argue that being an “imposter” has its advantages during such a time of change. The very factors that contribute to our self-doubt are actually the qualities that will enable us to thrive as our role inexorably evolves to take on new, unsolved challenges in engineering information. The keys to our success: apophenia (the ability to see connections between seemingly random collections of information), empathy, and adaptability.
-
-Our future is bright if we pay attention to our new opportunities instead of that nagging voice in our heads.
-    </p>
-  </div>
-</div>
-
-
-
-
 <a name="speaker-adangoor"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
@@ -86,9 +29,11 @@ Our future is bright if we pay attention to our new opportunities instead of tha
   <div class="col-md-8 col-sm-8">
     <h3>
       Anna Jaruga
+<!--
       <span class="speaker-details">
         <a href="https://twitter.com/TWITTERHANDLE">@TWITTERHANDLE</a>
       </span>
+-->
     </h3>
     <h4>The quest for scientific credit for software documentation</h4>
     <p>Modern geoscientific research relies heavily on numerical computations involving complex software developed by physicists or chemists. It would seem that scientists should be well versed in ways of documenting and explaining their research. Yet, when it comes to the documentation of scientific software projects, one soon realises that scientific wisdom is spread mostly by LaTex and that the word 'documentation' starts to mean something completely different.
@@ -100,6 +45,35 @@ Our future is bright if we pay attention to our new opportunities instead of tha
   </div>
 </div>
 
+<a name="speaker-baitman"></a>
+<div class="row row-speaker">
+  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/bethprofilepic.jpg" />
+  </div>
+  <div class="col-md-8 col-sm-8">
+    <h3>
+      Beth Aitman
+      <span class="speaker-details">
+         Redgate Software&nbsp;&mdash;&nbsp;<a href="https://twitter.com/baitman">@baitman</a>
+      </span>
+    </h3>
+    <h4>Before the docs: writing for user interfaces</h4>
+    <p>
+Good documentation is important, but it should be your last resort. You need to help users before they reach the docs - in the user interface itself.
+ 
+In this talk, I'll discuss:
+- strategies for writing microcopy when you’re short on space
+
+- what to explain in the UI, and what to save for the documentation
+
+- how to pick the right style of embedded help
+
+- what makes a great error message (and a terrible one)
+
+... with plenty of real-world examples of doing it right and wrong.
+    </p>
+  </div>
+</div>
 
 <a name="speaker-cward"></a>
 <div class="row row-speaker">
@@ -125,11 +99,10 @@ Our future is bright if we pay attention to our new opportunities instead of tha
   </div>
 </div>
 
-<!-- TODO: pic -->
 <a name="speaker-celmore"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/PICNAME.EXT" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/christina-elmore.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -147,18 +120,16 @@ Our future is bright if we pay attention to our new opportunities instead of tha
   </div>
 </div>
 
-
-<!-- TODO: pic, twitter -->
 <a name="speaker-dpotter"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/PICNAME.EXT" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/Diana-P-cd4503c7.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
       Diana Potter
       <span class="speaker-details">
-        <a href="https://twitter.com/TWITTERHANDLE">@TWITTERHANDLE</a>
+        <a href="https://twitter.com/drpotter">@drpotter</a>
       </span>
     </h3>
     <h4>Screencasting 101</h4>
@@ -166,6 +137,102 @@ Our future is bright if we pay attention to our new opportunities instead of tha
 </p>
 <p>Part of my documentation journey has been learning how to create screencasts and I want to share that knowledge with everyone. From picking the right topics, to outlining, to writing a script (yes I promise, there is still writing involved), to how to record your audio and video, I'll cover it all. You don't need to be a professional voice actor or videographer to create a screencast, even a writer can create something wonderful.
 </p>
+  </div>
+</div>
+
+<a name="speaker-ecaine"></a>
+<div class="row row-speaker">
+  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/elicropped2-19.jpg" />
+  </div>
+  <div class="col-md-8 col-sm-8">
+    <h3>
+      Elijah Caine
+      <span class="speaker-details">
+        <a href="https://twitter.com/ElijahCaineMV">@ElijahCaineMV</a>
+      </span>
+    </h3>
+    <h4>How to Write an Email</h4>
+    <p>Nobody loves email. Nobody really even likes email. In fact email can totally suck and it is here to stay. Despite how we feel about it, we have to deal with email almost every single day. Fortunately we can improve email as a whole by learning how to write email that sucks just a little bit less -- not that you write bad emails.. this talk is for your... friend. Yeah, this talk is for your friends that really need to setup up their email game.
+</p>
+<p>In addition to email this talk will explore some fundamental misunderstandings that people have with modes of online communication and how to correct these misunderstandings. Like how to craft a good Tweet, Facebook Post, and Instant Messaging interaction. 
+</p>
+<p>This is not meant to be a tutorial but rather a conceptual guide for how to think about on-line communication and how to correct some common faults we share as members of the on-line community. The Internet isn't going away anytime soon, and the amount we communicate over it is not going to diminish anytime soon either. This talk attempts to teach one how to make digital communication as painless as possible.
+    </p>
+  </div>
+</div>
+
+<a name="speaker-eboillat"></a>
+<div class="row row-speaker">
+  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/EmilieBoillat300x300.png" />
+  </div>
+  <div class="col-md-8 col-sm-8">
+    <h3>
+     Emilie Boillat 
+      <span class="speaker-details">
+        Appway
+      </span>
+    </h3>
+    <h4>Whatchamacallit: Controlled Vocabularies for Technical Writers</h4>
+    <p>
+      A few years ago, I started working for a software company as their first de facto technical writer. It had a powerful, but complex product. The task was daunting, especially since whoever I talked to seemed to describe an entirely different product. I struggled to put the puzzle pieces together into a coherent whole.
+
+Just like me, users have to form a mental model of every new, unfamiliar software product. Good user interfaces go a long way towards this, but for complex products, UI is not enough. Developers do have a mental model of the product they work on, but it can be very different from that of people on the marketing side. 
+
+After several years of experience in information management, one of the first things I did was to build a controlled vocabulary about the software product I had to document. It was invaluable in a number of ways I did not expect at the beginning: to categorize and filter help content, for the self-help site's navigation, as a glossary, as documentation plan, as a features overview, as a structure for test cases, etc.
+
+Technical writers play an important role in bringing users, developers and business stakeholders on the same page. They hold the key to product-specific terminology. In this talk, I will show you how to make full use of that power through controlled vocabularies. I will share tools to create and maintain various types of vocabularies, and explain what each type is useful for. You can start with a simple list of terms and expand it into a glossary, a thesaurus, a taxonomy, or even a full-fledge ontology, according to your needs.
+
+In my case, it wasn't long until other people in the company started using the controlled vocabulary for their own purposes. This artefact also induced debates on several key concepts in the software, which in turn influenced product development.
+
+I am now building a start-up in the technical communication domain, for which I am conducting more research into controlled vocabularies, and ontologies in particular.
+    </p>
+  </div>
+</div>
+
+<a name="speaker-fscholz"></a>
+<div class="row row-speaker">
+  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/fschultz.jpg" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/jean-yves.jpg" />
+  </div>
+  <div class="col-md-8 col-sm-8">
+    <h3>
+      Florian Scholz&nbsp;& Jean-Yves&nbsp;Perrier
+      <span class="speaker-details">
+        Mozilla Developer Network&nbsp;&mdash;&nbsp;<a href="https://twitter.com/floscholz">@floscholz</a>&nbsp;<a href="https://twitter.com/Teoli2003">@Teoli2003</a>
+      </span>
+    </h3>
+    <h4>Gardening Open Docs</h4>
+    <p>
+    With about 1000 different editors each month, the Mozilla Developer Network (MDN) documentation Web site for Open Web technologies is a trafficked wiki with edits of all kind of quality: perfect text from seasoned professional writers to rough notes by teen-aged technology learners.
+
+In this talk, we are going to explore how to keep this doc garden clean, how the diversity of editors influence its evolution, and how we find our way through treacherous jungles to well-maintained royal gardens. 
+
+This is about improving quality, working with diverse communities, fostering innovation, and carnivorous plants.
+    </p>
+  </div>
+</div>
+
+<a name="speaker-jhannaford"></a>
+<div class="row row-speaker">
+  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/jamie-hannaford.jpg" />
+  </div>
+  <div class="col-md-8 col-sm-8">
+    <h3>
+      Jamie Hannaford
+      <span class="speaker-details">
+        <a href="https://twitter.com/jamiehannaford">@jamiehannaford</a>
+      </span>
+    </h3>
+    <h4>Generating docs from APIs</h4>
+    <p>
+      APIs define contracts between a service and a client, and with the rise of representation languages like Swagger, Apiary, and RAML, these contracts can be consumed programmatically and adapted easily into our codebases. Other tools like JSON Schema also contribute to this idea of integration between service and client.
+
+But what about our documentation? If API contracts can be assimilated into software, surely it can drive our documentation too? In this talk, I want to introduce some of the techniques I've used on past projects that allow exactly that. By using remote schemas to generate software, it also allows us to generate working documentation that is always relevant and never out of date. Apart from accuracy, we also get the added benefits of reduced development time, reduced effort, and reduced duplication. We can all of this by documenting once, and re-using across multiple projects!
+    </p>
   </div>
 </div>
 
@@ -179,29 +246,25 @@ Our future is bright if we pay attention to our new opportunities instead of tha
     <h3>
       Jennifer Rondeau
       <span class="speaker-details">
-        Symantec&nbsp;&mdash;&nbsp;<a href="https://twitter.com/bradamante">@bradamante</a>
+        <a href="https://twitter.com/bradamante">@bradamante</a>
       </span>
     </h3>
     <h4>Back to the Future: What Can Documentarians Learn From The Past?</h4>
     <p>“Those who cannot remember the past are condemned to repeat it." (George Santayana)
-</p>
-<p>“I've got news for Mr. Santayana: we're doomed to repeat the past no matter what. That's what it is to be alive.” (Kurt Vonnegut)
-</p>
-<p>Programmers and documentarians alike tend to emphasize the new and the innovative, over against the old, the traditional, the past. The pace of change in software development requires this perspective. But it can also lead us to disregard what the past can teach about how to move forward, to innovate, to create the change that we are all part of. We can keep the best of tradition, and still innovate. The proposed talk will look at some examples from the past and present of software documentation, and offer suggestions for how to use both to imagine the future.
-</p>
-<ul><li>In 1978, Microsoft’s early team of 13 included a technical writer. Nine engineers, one technical writer! How did this kind of attitude develop, and how and why have we lost it? Do we need it back? Here are some teaser “lessons from the past;” I’ll also develop them into thoughts about the future.
-</li>
-<li>The STC wasn’t always a stuffy walled garden. In some ways, Write The Docs has simply supplanted it as a resource for writers. (I want to talk about Techwhirl here too, but haven’t quite worked out how yet.)
-</li>
-<li>Techcomm programs emerged as early as the 1960s -- right at the same time that computer science programs were being established. The University of Washington techcomm program started as an effort to teach engineers how to write docs -- the same approach that many companies are moving to today.
-</li>
-<li>Once upon a time, XML was an exciting new *lightweight* spec to help with web publishing. (Compared to its parent, SGML, it is lighter!) Newer markup languages are continuing in the same spirit. Asciidoc in particular, with its support for DocBook, acknowledges this continuity.
-</li>
-<li>The STC is dwindling, many doc efforts are led by people who have no formal training in techcomm, and XML for doc publishing is a hidebound tool associated with corporate types. But viewed in historical context, all three represent important contributions to the development of software documentation that we care about today. 
-</li></ul>
-<p>Different contexts, today as always, require different approaches. But if one distinguishing characteristic of Write The Docs is that it brings engineers and writers together to truly communicate about the docs, let’s keep the door open for communication across technologies and approaches to documentation too. One way to keep this open mind is to appreciate what we have in common with the efforts that have come before us.
-</p>
-<p>This proposal was inspired by the WTD forum topic “Traditional tech writing, new tech writing,” which emerged out of a Twitter conversation toward the end of WTD NA. It might work nicely in tandem with Riona’s about “the swerve” (she and I have chatted about our ideas). You might say that while we both want to talk about how the worlds of software documentation are changing, she wants to emphasize break, or shift, whereas I want to emphasize continuity.
+
+“I've got news for Mr. Santayana: we're doomed to repeat the past no matter what. That's what it is to be alive.” (Kurt Vonnegut)
+
+Programmers and documentarians alike tend to emphasize the new and the innovative, over against the old, the traditional, the past. The pace of change in software development requires this perspective. But it can also lead us to disregard what the past can teach about how to move forward, to innovate, to create the change that we are all part of. We can keep the best of tradition, and still innovate. The proposed talk will look at some examples from the past and present of software documentation, and offer suggestions for how to use both to imagine the future.
+
+- In 1978, Microsoft’s early team of 13 included a technical writer. Nine engineers, one technical writer! How did this kind of attitude develop, and how and why have we lost it? Do we need it back? Here are some teaser “lessons from the past;” I’ll also develop them into thoughts about the future.
+- The STC wasn’t always a stuffy walled garden. In some ways, Write The Docs has simply supplanted it as a resource for writers. (I want to talk about Techwhirl here too, but haven’t quite worked out how yet.)
+- Techcomm programs emerged as early as the 1960s -- right at the same time that computer science programs were being established. The University of Washington techcomm program started as an effort to teach engineers how to write docs -- the same approach that many companies are moving to today.
+- Once upon a time, XML was an exciting new *lightweight* spec to help with web publishing. (Compared to its parent, SGML, it is lighter!) Newer markup languages are continuing in the same spirit. Asciidoc in particular, with its support for DocBook, acknowledges this continuity.
+- The STC is dwindling, many doc efforts are led by people who have no formal training in techcomm, and XML for doc publishing is a hidebound tool associated with corporate types. But viewed in historical context, all three represent important contributions to the development of software documentation that we care about today. 
+
+Different contexts, today as always, require different approaches. But if one distinguishing characteristic of Write The Docs is that it brings engineers and writers together to truly communicate about the docs, let’s keep the door open for communication across technologies and approaches to documentation too. One way to keep this open mind is to appreciate what we have in common with the efforts that have come before us.
+
+This proposal was inspired by the WTD forum topic “Traditional tech writing, new tech writing,” which emerged out of a Twitter conversation toward the end of WTD NA. It might work nicely in tandem with Riona’s about “the swerve” (she and I have chatted about our ideas). You might say that while we both want to talk about how the worlds of software documentation are changing, she wants to emphasize break, or shift, whereas I want to emphasize continuity.
 </p>
   </div>
 </div>
@@ -236,7 +299,7 @@ Our future is bright if we pay attention to our new opportunities instead of tha
     <h3>
       Patrick Keegan
       <span class="speaker-details">
-        Oracle&nbsp;&mdash;&nbsp;<a href="https://twitter.com/TWITTERHANDLE">@TWITTERHANDLE</a>
+        Oracle
       </span>
     </h3>
     <h4>Free Your Mind and Your Docs Will Follow</h4>
@@ -249,7 +312,7 @@ In this presentation, I'll talk about ways to overcome burdensome organizational
   </div>
 </div>
 
-<a name="speaker-pn"></a>
+<a name="speaker-padams"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
     <img class="speaker-image" src="/conf/eu/2015/pics/speakers/padams.png" />
@@ -258,12 +321,11 @@ In this presentation, I'll talk about ways to overcome burdensome organizational
     <h3>
       Paul Adams
       <span class="speaker-details">
-        &nbsp;&mdash;&nbsp;<a href="https://twitter.com/therealpadams">@therealpadams</a>
+        KDAB&nbsp;&mdash;&nbsp;<a href="https://twitter.com/therealpadams">@therealpadams</a>
         </span>
     </h3>
-    <h4><Judas Priest Ate My Scrum Master/h4>
-    <p>
-Community Management in Free Software communities is still an emerging field and has produced a spectrum of practitioners: from master-manipulators of social media, to those more focused on metrics and data as a means to driving process. Either way, the state of the art is still largely driven by the needs of technical contributors to projects.
+    <h4><Judas Priest Ate My Scrum Master</h4>
+    <p>Community Management in Free Software communities is still an emerging field and has produced a spectrum of practitioners: from master-manipulators of social media, to those more focused on metrics and data as a means to driving process. Either way, the state of the art is still largely driven by the needs of technical contributors to projects.
 
 Good documentation is a crucial component in a software product and yet often technical writers are overlooked as important stakeholders of the process. Within the community, there are undoubtedly common problems between engineers and technical writers. Software Engineering is full of laws; can we show that these laws apply to technical writers as a means to help bridge the chasm between developers and technical writers??
 
@@ -272,56 +334,7 @@ In this talk Paul walks us through a selection of his favourite laws of software
   </div>
 </div>
 
-<a name="speaker-ba"></a>
-<div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/bethprofilepic.jpg" />
-  </div>
-  <div class="col-md-8 col-sm-8">
-    <h3>
-      Beth Aitman
-      <span class="speaker-details">
-         Redgate Software&nbsp;&mdash;&nbsp;<a href="https://twitter.com/baitman">@baitman</a>
-      </span>
-    </h3>
-    <h4>Before the docs: writing for user interfaces</h4>
-    <p>
-Good documentation is important, but it should be your last resort. You need to help users before they reach the docs – in the user interface itself.
- 
-In this talk, I'll discuss:
--          strategies for writing microcopy when you’re short on space
-
--          what to explain in the UI, and what to save for the documentation
-
--          how to pick the right style of embedded help
-
--          what makes a great error message (and a terrible one)
-
-... with plenty of real-world examples of doing it right and wrong
-    </p>
-  </div>
-</div>
-
-<a name="speaker-rm"></a>
-<div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/RadinaMatic_headshot.jpg" />
-  </div>
-  <div class="col-md-8 col-sm-8">
-    <h3>
-      Radina Matic
-      <span class="speaker-details">
-        <a href="https://twitter.com/RadinaMatic">RadinaMatic</a>
-      </span>
-    </h3>
-    <h4>Inclusive Tech Docs - TechComm Meets Accessibility</h4>
-    <p>
-Presenting a business case for quality documentation can sometimes be a difficult enough task. Adding to that the accessibility requirements, and the whole idea may resemble a mission impossible. The fact that official standards (WCAG and WAI-ARIA) themselves seem to require user manuals in order to be properly implemented, is not helping developers, technical communicators and content managers achieve the desired results. This session will help you navigate through the maze of WCAG techniques, principles, guidelines and success criteria, in order to choose the appropriate path to make the accessibility goals of your techcomm project reality. Get ready to dive into A11y for Tech Docs!
-    </p>
-  </div>
-
-
-<a name="speaker-pa"></a>
+<a name="speaker-proeland"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
     <img class="speaker-image" src="/conf/eu/2015/pics/speakers/paul_roeland-300px.jpg" />
@@ -330,7 +343,7 @@ Presenting a business case for quality documentation can sometimes be a difficul
     <h3>
       Paul Roeland
       <span class="speaker-details">
-        &nbsp;&mdash;&nbsp;<a href="https://twitter.com/polyester">@polyester</a>
+        <a href="https://twitter.com/polyester">@polyester</a>
       </span>
     </h3>
     <h4>MacGyvering your docs</h4>
@@ -351,58 +364,52 @@ Not to mention being fun...
   </div>
 </div>
 
-<a name="speaker-jh"></a>
+<a name="speaker-rmatic"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/jamie-hannaford.jpg" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/RadinaMatic_headshot.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
-      Jamie Hannaford
+      Radina Matic
       <span class="speaker-details">
-        <a href="https://twitter.com/jamiehannaford">@jamiehannaford</a>
+        <a href="https://twitter.com/RadinaMatic">RadinaMatic</a>
       </span>
     </h3>
-    <h4>Generating docs from APIs</h4>
+    <h4>Inclusive Tech Docs - TechComm Meets Accessibility</h4>
     <p>
-      APIs define contracts between a service and a client, and with the rise of representation languages like Swagger, Apiary, and RAML, these contracts can be consumed programmatically and adapted easily into our codebases. Other tools like JSON Schema also contribute to this idea of integration between service and client.
+Presenting a business case for quality documentation can sometimes be a difficult enough task. Adding to that the accessibility requirements, and the whole idea may resemble a mission impossible. The fact that official standards (WCAG and WAI-ARIA) themselves seem to require user manuals in order to be properly implemented, is not helping developers, technical communicators and content managers achieve the desired results. This session will help you navigate through the maze of WCAG techniques, principles, guidelines and success criteria, in order to choose the appropriate path to make the accessibility goals of your techcomm project reality. Get ready to dive into A11y for Tech Docs!
+    </p>
+  </div>
 
-But what about our documentation? If API contracts can be assimilated into software, surely it can drive our documentation too? In this talk, I want to introduce some of the techniques I've used on past projects that allow exactly that. By using remote schemas to generate software, it also allows us to generate working documentation that is always relevant and never out of date. Apart from accuracy, we also get the added benefits of reduced development time, reduced effort, and reduced duplication. We can all of this by documenting once, and re-using across multiple projects!
+<!-- TODO: pic -->
+<a name="speaker-rmacnamara></a>
+<div class="row row-speaker">
+  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/PIC.EXT" />
+  </div>
+  <div class="col-md-8 col-sm-8">
+    <h3>
+      Riona Macnamara
+      <span class="speaker-details">
+        Google&nbsp;&mdash;&nbsp;<a href="https://twitter.com/RadinaMatic">RadinaMatic</a>
+      </span>
+    </h3>
+    <h4>IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty, and Surf the Upcoming Swerve in Technical Documentation</h4>
+    <p>Do you feel like a fraud? Do you have that sneaking fear of being “found out” and exposed? Imposter syndrome is corrosive. It holds us back at work - especially in an industry where we can feel constantly under review by talented peers -  and erodes our happiness. And the subject always comes up whenever technical writers gather; sometimes it feels like the very definition of a technical writer is “One who experiences imposter syndrome.”
+
+Why is this? The first, shorter part of this talk will cover some research and insights into why we, as documentarians, may be especially susceptible to imposter syndrome.
+
+But the field of tech writing is experiencing a swerve: a tipping point - a sea change in direction.  There will always be a demand for ""old"" tech writing, but many of us will have to adapt to this new environment. 
+
+In the second, forward-looking part of this talk, I’ll argue that being an “imposter” has its advantages during such a time of change. The very factors that contribute to our self-doubt are actually the qualities that will enable us to thrive as our role inexorably evolves to take on new, unsolved challenges in engineering information. The keys to our success: apophenia (the ability to see connections between seemingly random collections of information), empathy, and adaptability.
+
+Our future is bright if we pay attention to our new opportunities instead of that nagging voice in our heads.
     </p>
   </div>
 </div>
 
-
-<a name="speaker-eb"></a>
-<div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/EmilieBoillat300x300.png" />
-  </div>
-  <div class="col-md-8 col-sm-8">
-    <h3>
-     Emilie Boillat 
-      <span class="speaker-details">
-        Appway
-      </span>
-    </h3>
-    <h4>Whatchamacallit: Controlled Vocabularies for Technical Writers</h4>
-    <p>
-      A few years ago, I started working for a software company as their first de facto technical writer. It had a powerful, but complex product. The task was daunting, especially since whoever I talked to seemed to describe an entirely different product. I struggled to put the puzzle pieces together into a coherent whole.  
-
-Just like me, users have to form a mental model of every new, unfamiliar software product. Good user interfaces go a long way towards this, but for complex products, UI is not enough. Developers do have a mental model of the product they work on, but it can be very different from that of people on the marketing side. 
-
-After several years of experience in information management, one of the first things I did was to build a controlled vocabulary about the software product I had to document. It was invaluable in a number of ways I did not expect at the beginning: to categorize and filter help content, for the self-help site's navigation, as a glossary, as documentation plan, as a features overview, as a structure for test cases, etc.
-
-Technical writers play an important role in bringing users, developers and business stakeholders on the same page. They hold the key to product-specific terminology. In this talk, I will show you how to make full use of that power through controlled vocabularies. I will share tools to create and maintain various types of vocabularies, and explain what each type is useful for. You can start with a simple list of terms and expand it into a glossary, a thesaurus, a taxonomy, or even a full-fledge ontology, according to your needs.
-
-In my case, it wasn't long until other people in the company started using the controlled vocabulary for their own purposes. This artefact also induced debates on several key concepts in the software, which in turn influenced product development.
-
-I am now building a start-up in the technical communication domain, for which I am conducting more research into controlled vocabularies, and ontologies in particular.
-    </p>
-  </div>
-</div>
-
-<a name="speaker-sh"></a>
+<a name="speaker-sheinen"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
     <img class="speaker-image" src="/conf/eu/2015/pics/speakers/SHeinen_300x300.jpg" />
@@ -427,33 +434,6 @@ Primarily, the objective of reading and writing the docs serves the purpose to c
   </div>
 </div>
 
-
-<a name="speaker-fs"></a>
-<div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/fschultz.jpg" />
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/"jean-yves.jpg />
-  </div>
-  <div class="col-md-8 col-sm-8">
-    <h3>
-      Florian Scholz & Jean-Yves Perrier
-      <span class="speaker-details">
-        Mozilla&nbsp;&mdash;&nbsp;<a href="https://twitter.com/"floscholz>@floscholz</a>
-      </span>
-      <span class="speaker-details">
-        Mozilla&nbsp;&mdash;&nbsp;<a href="https://twitter.com/Teoli2003">@Teoli2003</a>
-      </span>
-    </h3>
-    <h4>Gardening Open Docs</h4>
-    <p>
-    With about 1000 different editors each month, the Mozilla Developer Network (MDN) documentation Web site for Open Web technologies is a trafficked wiki with edits of all kind of quality: perfect text from seasoned professional writers to rough notes by teen-aged technology learners.
-
-In this talk, we are going to explore how to keep this doc garden clean, how the diversity of editors influence its evolution, and how we find our way through treacherous jungles to well-maintained royal gardens. 
-
-This is about improving quality, working with diverse communities, fostering innovation, and carnivorous plants.
-    </p>
-  </div>
-</div>
 
 
 <!-- TEMPLATE FOR FUTURE SPEAKERS 

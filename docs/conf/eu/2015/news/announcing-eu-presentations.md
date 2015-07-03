@@ -54,7 +54,7 @@ We also have the [full talk abstracts][speakers] available on our website.
 [speaker-dpotter]: /conf/eu/2015/speakers/#speaker-dpotter
 [speaker-ecaine]: /conf/eu/2015/speakers/#speaker-ecaine
 [speaker-eboillat]: /conf/eu/2015/speakers/#speaker-eboillat
-[speaker-fscholzjyperrier]: /conf/eu/2015/speakers/#speaker-fscholzjyperrier
+[speaker-fscholz]: /conf/eu/2015/speakers/#speaker-fscholz
 [speaker-jhannaford]: /conf/eu/2015/speakers/#speaker-jhannaford
 [speaker-jrondeau]: /conf/eu/2015/speakers/#speaker-jrondeau
 [speaker-mzapke]: /conf/eu/2015/speakers/#speaker-mzapke
