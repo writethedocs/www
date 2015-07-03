@@ -199,7 +199,7 @@ I am now building a start-up in the technical communication domain, for which I 
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
-      Florian Scholz&nbsp;& Jean-Yves&nbsp;Perrier
+      Florian Scholz&nbsp;& Jean&mdash;Yves&nbsp;Perrier
       <span class="speaker-details">
         Mozilla Developer Network&nbsp;&mdash;&nbsp;<a href="https://twitter.com/floscholz">@floscholz</a>&nbsp;<a href="https://twitter.com/Teoli2003">@Teoli2003</a>
       </span>
@@ -224,7 +224,7 @@ This is about improving quality, working with diverse communities, fostering inn
     <h3>
       Jamie Hannaford
       <span class="speaker-details">
-        <a href="https://twitter.com/jamiehannaford">@jamiehannaford</a>
+        Rackspace&nbsp;&mdash;&nbsp;<a href="https://twitter.com/jamiehannaford">@jamiehannaford</a>
       </span>
     </h3>
     <h4>Generating docs from APIs</h4>
@@ -373,7 +373,7 @@ Not to mention being fun...
     <h3>
       Radina Matic
       <span class="speaker-details">
-        <a href="https://twitter.com/RadinaMatic">RadinaMatic</a>
+        <a href="https://twitter.com/RadinaMatic">@RadinaMatic</a>
       </span>
     </h3>
     <h4>Inclusive Tech Docs - TechComm Meets Accessibility</h4>
@@ -383,16 +383,16 @@ Presenting a business case for quality documentation can sometimes be a difficul
   </div>
 
 <!-- TODO: pic -->
-<a name="speaker-rmacnamara></a>
+<a name="speaker-rmacnamara"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
     <img class="speaker-image" src="/conf/eu/2015/pics/speakers/PIC.EXT" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
-      Riona Macnamara
+      Riona MacNamara
       <span class="speaker-details">
-        Google&nbsp;&mdash;&nbsp;<a href="https://twitter.com/RadinaMatic">RadinaMatic</a>
+        Google&nbsp;&mdash;&nbsp;<a href="https://twitter.com/rionam">@rionam</a>
       </span>
     </h3>
     <h4>IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty, and Surf the Upcoming Swerve in Technical Documentation</h4>
