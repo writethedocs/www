@@ -318,7 +318,7 @@ In this talk, I'll discuss:
     <p>
 Presenting a business case for quality documentation can sometimes be a difficult enough task. Adding to that the accessibility requirements, and the whole idea may resemble a mission impossible. The fact that official standards (WCAG and WAI-ARIA) themselves seem to require user manuals in order to be properly implemented, is not helping developers, technical communicators and content managers achieve the desired results. This session will help you navigate through the maze of WCAG techniques, principles, guidelines and success criteria, in order to choose the appropriate path to make the accessibility goals of your techcomm project reality. Get ready to dive into A11y for Tech Docs!
     </p>
-  </div
+  </div>
 
 
 <a name="speaker-pa"></a>
