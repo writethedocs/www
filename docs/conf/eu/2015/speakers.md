@@ -15,7 +15,7 @@ template: 2015/eu/details.html
       </span>
     </h3>
     <h4>Tested and Correct, How to Make Sure Your Documentation Keeps Working</h4>
-    <p>Wnen you are writing documentation for software, a top priority is surely that what you write is correct. That is, the examples you provide give the output you say they will. Or perhaps it is that the links in your documentation link to an expected page. Usually this is done with manual testing at the time of writing. Your organisation may have practices in place to make sure that these examples don't get too out of date - maybe someone checks them periodically, maybe code review comes with comments like "I remember that this part of the code is used in an example on Page 37 of our docs, change it". But these methods are tedious and flawed. This talk will give examples from my work as a software engineer in creating tested snippets for documentation which are linked to the code they represent. It will show how using techniques traditionally reserved for software testing can ease the burden of keeping documentation up to date.
+    <p>When you are writing documentation for software, a top priority is surely that what you write is correct. That is, the examples you provide give the output you say they will. Or perhaps it is that the links in your documentation link to an expected page. Usually this is done with manual testing at the time of writing. Your organisation may have practices in place to make sure that these examples don't get too out of date - maybe someone checks them periodically, maybe code review comes with comments like "I remember that this part of the code is used in an example on Page 37 of our docs, change it". But these methods are tedious and flawed. This talk will give examples from my work as a software engineer in creating tested snippets for documentation which are linked to the code they represent. It will show how using techniques traditionally reserved for software testing can ease the burden of keeping documentation up to date.
     </p>
   </div>
 </div>
@@ -240,7 +240,7 @@ But what about our documentation? If API contracts can be assimilated into softw
 <a name="speaker-jrondeau"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/PICNAME.EXT" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/jrondeau.png" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -250,21 +250,14 @@ But what about our documentation? If API contracts can be assimilated into softw
       </span>
     </h3>
     <h4>Back to the Future: What Can Documentarians Learn From The Past?</h4>
-    <p>“Those who cannot remember the past are condemned to repeat it." (George Santayana)
+The world of software development rightly demands an emphasis on the new and the innovative -- on doing things differently from how they’ve been done. The assumption is that newer is (almost) always better. But if we look only to the present and the future, we risk reinventing the wheel, failing to understand that we are all built on tradition, failing to learn everything that we could from the past.
 
-“I've got news for Mr. Santayana: we're doomed to repeat the past no matter what. That's what it is to be alive.” (Kurt Vonnegut)
+This talk shows how documentarians can find inspiration in the past, build on it, and move forward. It tells some of these stories, and shows what they meant in historical context: 
 
-Programmers and documentarians alike tend to emphasize the new and the innovative, over against the old, the traditional, the past. The pace of change in software development requires this perspective. But it can also lead us to disregard what the past can teach about how to move forward, to innovate, to create the change that we are all part of. We can keep the best of tradition, and still innovate. The proposed talk will look at some examples from the past and present of software documentation, and offer suggestions for how to use both to imagine the future.
+* The pre-history and dawn of software documentation -- how technical writers were hired, how they worked, what they made, the challenges they faced, and how their solutions continue to inform the work we do today
+* The much longer history of teaching engineers to write documentation
+* Efforts to make technical writing into an independent profession
 
-- In 1978, Microsoft’s early team of 13 included a technical writer. Nine engineers, one technical writer! How did this kind of attitude develop, and how and why have we lost it? Do we need it back? Here are some teaser “lessons from the past;” I’ll also develop them into thoughts about the future.
-- The STC wasn’t always a stuffy walled garden. In some ways, Write The Docs has simply supplanted it as a resource for writers. (I want to talk about Techwhirl here too, but haven’t quite worked out how yet.)
-- Techcomm programs emerged as early as the 1960s -- right at the same time that computer science programs were being established. The University of Washington techcomm program started as an effort to teach engineers how to write docs -- the same approach that many companies are moving to today.
-- Once upon a time, XML was an exciting new *lightweight* spec to help with web publishing. (Compared to its parent, SGML, it is lighter!) Newer markup languages are continuing in the same spirit. Asciidoc in particular, with its support for DocBook, acknowledges this continuity.
-- The STC is dwindling, many doc efforts are led by people who have no formal training in techcomm, and XML for doc publishing is a hidebound tool associated with corporate types. But viewed in historical context, all three represent important contributions to the development of software documentation that we care about today. 
-
-Different contexts, today as always, require different approaches. But if one distinguishing characteristic of Write The Docs is that it brings engineers and writers together to truly communicate about the docs, let’s keep the door open for communication across technologies and approaches to documentation too. One way to keep this open mind is to appreciate what we have in common with the efforts that have come before us.
-
-This proposal was inspired by the WTD forum topic “Traditional tech writing, new tech writing,” which emerged out of a Twitter conversation toward the end of WTD NA. It might work nicely in tandem with Riona’s about “the swerve” (she and I have chatted about our ideas). You might say that while we both want to talk about how the worlds of software documentation are changing, she wants to emphasize break, or shift, whereas I want to emphasize continuity.
 </p>
   </div>
 </div>
