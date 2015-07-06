@@ -57,7 +57,7 @@ Sponsorship is one of the reasons we are able to have such a wonderful
 conference each year. We're happy to have the following sponsors join us
 in supporting the Write the Docs community:
 
- * [Red Hat](https://twitter.com/RedHatJobs)
+ * [Red Hat](http://jobs.redhat.com/life-at-red-hat)
 
 ## What's Next
 
