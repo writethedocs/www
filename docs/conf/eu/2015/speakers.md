@@ -5,7 +5,7 @@ template: 2015/eu/details.html
 <a name="speaker-adangoor"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/AdamDangoor.png" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/AdamDangoor.png" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -24,7 +24,7 @@ template: 2015/eu/details.html
 <a name="speaker-ajaruga"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/PICNAME.EXT" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/PICNAME.EXT" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -48,7 +48,7 @@ template: 2015/eu/details.html
 <a name="speaker-baitman"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/bethprofilepic.jpg" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/bethprofilepic.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -78,7 +78,7 @@ In this talk, I'll discuss:
 <a name="speaker-cward"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/chris-ward.jpg" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/chris-ward.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -102,7 +102,7 @@ In this talk, I'll discuss:
 <a name="speaker-celmore"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/christina-elmore.jpg" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/christina-elmore.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -123,7 +123,7 @@ In this talk, I'll discuss:
 <a name="speaker-dpotter"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/Diana-P-cd4503c7.jpg" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/Diana-P-cd4503c7.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -143,7 +143,7 @@ In this talk, I'll discuss:
 <a name="speaker-ecaine"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/elicropped2-19.jpg" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/elicropped2-19.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -165,7 +165,7 @@ In this talk, I'll discuss:
 <a name="speaker-eboillat"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/EmilieBoillat300x300.png" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/EmilieBoillat300x300.png" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -194,8 +194,8 @@ I am now building a start-up in the technical communication domain, for which I 
 <a name="speaker-fscholz"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/fschultz.jpg" />
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/jean-yves.jpg" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/fschultz.jpg" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/jean-yves.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -218,7 +218,7 @@ This is about improving quality, working with diverse communities, fostering inn
 <a name="speaker-jhannaford"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/jamie-hannaford.jpg" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/jamie-hannaford.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -240,7 +240,7 @@ But what about our documentation? If API contracts can be assimilated into softw
 <a name="speaker-jrondeau"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/PICNAME.EXT" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/PICNAME.EXT" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -272,7 +272,7 @@ This proposal was inspired by the WTD forum topic “Traditional tech writing, n
 <a name="speaker-mzapke"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/markus-zapke.jpg" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/markus-zapke.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -293,7 +293,7 @@ This proposal was inspired by the WTD forum topic “Traditional tech writing, n
 <a name="speaker-pkeegan"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/patrick_keegan.jpg" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/patrick_keegan.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -315,7 +315,7 @@ In this presentation, I'll talk about ways to overcome burdensome organizational
 <a name="speaker-padams"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/padams.png" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/padams.png" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -337,7 +337,7 @@ In this talk Paul walks us through a selection of his favourite laws of software
 <a name="speaker-proeland"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/paul_roeland-300px.jpg" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/paul_roeland-300px.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -367,7 +367,7 @@ Not to mention being fun...
 <a name="speaker-rmatic"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/RadinaMatic_headshot.jpg" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/RadinaMatic_headshot.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -386,7 +386,7 @@ Presenting a business case for quality documentation can sometimes be a difficul
 <a name="speaker-rmacnamara"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/PIC.EXT" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/PIC.EXT" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -412,7 +412,7 @@ Our future is bright if we pay attention to our new opportunities instead of tha
 <a name="speaker-sheinen"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/SHeinen_300x300.jpg" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/SHeinen_300x300.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -441,7 +441,7 @@ Primarily, the objective of reading and writing the docs serves the purpose to c
 <a name="speaker-[FIRSTINITIALLASTNAME]"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/[PICNAME.EXT]" />
+    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/[PICNAME.EXT]" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
