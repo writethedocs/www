@@ -320,7 +320,7 @@ In this presentation, I'll talk about ways to overcome burdensome organizational
     </h3>
     <h4>Judas Priest Ate My Scrum Master</h4>
 
-    <p>Community Management in Free Software communities is still an emerging field and has produced a spectrum of practitioners: from master-manipulators of social media, to those more focused on metrics and data as a means to driving process. Either way, the state of the art is still largely driven by the needs of technical contributors to projects.
+Community Management in Free Software communities is still an emerging field and has produced a spectrum of practitioners: from master-manipulators of social media, to those more focused on metrics and data as a means to driving process. Either way, the state of the art is still largely driven by the needs of technical contributors to projects.
 
 Good documentation is a crucial component in a software product and yet often technical writers are overlooked as important stakeholders of the process. Within the community, there are undoubtedly common problems between engineers and technical writers. Software Engineering is full of laws; can we show that these laws apply to technical writers as a means to help bridge the chasm between developers and technical writers??
 
