@@ -62,6 +62,7 @@ template: 2015/eu/details.html
 Good documentation is important, but it should be your last resort. You need to help users before they reach the docs - in the user interface itself.
  
 In this talk, I'll discuss:
+
 - strategies for writing microcopy when you’re short on space
 
 - what to explain in the UI, and what to save for the documentation
@@ -317,7 +318,8 @@ In this presentation, I'll talk about ways to overcome burdensome organizational
         KDAB&nbsp;&mdash;&nbsp;<a href="https://twitter.com/therealpadams">@therealpadams</a>
         </span>
     </h3>
-    <h4><Judas Priest Ate My Scrum Master</h4>
+    <h4>Judas Priest Ate My Scrum Master</h4>
+
     <p>Community Management in Free Software communities is still an emerging field and has produced a spectrum of practitioners: from master-manipulators of social media, to those more focused on metrics and data as a means to driving process. Either way, the state of the art is still largely driven by the needs of technical contributors to projects.
 
 Good documentation is a crucial component in a software product and yet often technical writers are overlooked as important stakeholders of the process. Within the community, there are undoubtedly common problems between engineers and technical writers. Software Engineering is full of laws; can we show that these laws apply to technical writers as a means to help bridge the chasm between developers and technical writers??
@@ -419,7 +421,7 @@ Our future is bright if we pay attention to our new opportunities instead of tha
     A picture says more than …how many lines of code?
 
 Firstly this talk offers an introduction to a variety of established as well as experimental visual documentation methods. Subsequently, it explores the question whether or not these approaches can be applied to software documentation in a reasonable way.
-in this regard it takes a closer look at individual methods and estimates their corresponding affordances in terms of time, skill, resources and potential automatization.
+In this regard it takes a closer look at individual methods and estimates their corresponding affordances in terms of time, skill, resources and potential automatization.
 Eventually, this talk presents an initial attempt to translate existing docs into visual languages and discusses the according outcomes.
 
 Primarily, the objective of reading and writing the docs serves the purpose to convey clear, unambiguous information, at the same time, the experience should be as engaging and pleasant as possible. Building a Visual Documentation Language serves to reach this goal.
