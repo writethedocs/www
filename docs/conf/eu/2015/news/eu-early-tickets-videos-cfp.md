@@ -1,12 +1,12 @@
 template: 2015/eu/blog.html
 
-# Ticket Updates, Videos, and Proposals Reminder
+# Early-Bird Tickets Sell Out, Videos, and Proposal Reminder
 
 The [conference](http://www.writethedocs.org/conf/eu/2015/) is less than 3 months away, and we're happy to see such 
 an overwhelmingly positive and supportive response from our documentarians
 all over the world.
 
-Here are some updates that you might like to know as the call for proposals
+Here are some updates that you might like to know as the Call for Proposals
 draws to a close and ticket sales are in full swing.
 
 ## Call for Proposals Reminder
