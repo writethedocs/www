@@ -127,7 +127,7 @@ Attendees are welcome to contribute to the [Attendee Notes](https://github.com/w
   </tr>
   <tr>
     <td class="schedule-time">5:00 PM</td>
-    <td>Day 1 wrap-up announcements</td>
+    <td>Wrap-up announcements</td>
   </tr>
 </table>
 
@@ -234,7 +234,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   </tr>
   <tr>
     <td class="schedule-time">5:10 PM</td>
-    <td>Day 1 wrap-up announcements</td>
+    <td>Wrap-up announcements</td>
   </tr>
 </table>
 
