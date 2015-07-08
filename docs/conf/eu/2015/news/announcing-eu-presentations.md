@@ -1,10 +1,12 @@
 template: 2015/eu/blog.html
 
-# Announcing Presentations and Speakers
+# Announcing Presentations, Speakers, and Schedule
 
-Our talk selection process has just wrapped up and we're eager to announce the presentations for 
-this year's conference. Each year we select talks that emphasize intersections between tech writers 
-and developers, because we all have so much to learn from each other.
+Our talk selection process has just wrapped up and we're eager to announce the presentations for this year's conference. Each year we select talks that emphasize intersections between tech writers, developers, designers, and translators, because we all have so much to learn from each other.
+
+## Schedule
+
+The high-level schedule for the conference is now available [here][schedule]. We will post details about venues and final talk assignments in the next few weeks.
 
 ## Presentations
 
@@ -29,9 +31,10 @@ Here is the full list of presentations for Write the Docs Europe 2015:
  * Riona MacNamara - [IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty, and Surf the Upcoming Swerve in Technical Documentation][speaker-rmacnamara]
  * Sonja Heinen - [Visual Documentation Language][speaker-sheinen]
 
-We also have the [full talk abstracts][speakers] available on our website.
+You can check out the [full talk abstracts][speakers] on our website.
 
 [speakers]: /conf/eu/2015/speakers/
+[schedule]: /conf/eu/2015/schedule/
 [speaker-adangoor]: /conf/eu/2015/speakers/#speaker-adangoor
 [speaker-ajaruga]: /conf/eu/2015/speakers/#speaker-ajaruga
 [speaker-baitman]: /conf/eu/2015/speakers/#speaker-baitman
@@ -53,14 +56,11 @@ We also have the [full talk abstracts][speakers] available on our website.
 
 ## What's Next
 
-In the next few weeks, we'll be announcing the details for the conference schedule, as well as the
-events before, during, and after the conference. 
-
 If you haven't purchased your ticket yet, you still have some time! You can
 get your tickets [here][tickets]. 
 
-Coming to Prague, but need help planning your stay? We have published some [resources
-on where to stay and how to get around][visiting].
+Coming to Prague, but need help planning your stay? We have published some 
+[resources on where to stay and how to get around][visiting].
 
 [visiting]: http://writethedocs.org/conf/eu/2015/visiting/
 [tickets]: http://writethedocs.org/conf/eu/2015/#tickets
