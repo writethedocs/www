@@ -17,7 +17,7 @@ improve the art and science of documentation.
 
 #### North America
 
-- [Write The Docs, May 17-19, 2015](na/2015.md), in **Portland, Oregon**
+More information coming soon.
 
 #### Europe
 
@@ -31,6 +31,7 @@ improve the art and science of documentation.
 
 - [Write The Docs, Apr 8-9 2013, Portland, Oregon](http://conf.writethedocs.org/na/2013/)
 - [Write The Docs, May 5-6 2014, Portland, Oregon](http://conf.writethedocs.org/na/2014/)
+- [Write The Docs, May 17-19 2015, Portland, Oregon](http://conf.writethedocs.org/na/2015.md)
 
 #### Europe
 
