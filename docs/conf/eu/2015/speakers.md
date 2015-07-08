@@ -5,7 +5,7 @@ template: 2015/eu/details.html
 <a name="speaker-adangoor"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/AdamDangoor.png" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/AdamDangoor.png" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -20,11 +20,10 @@ template: 2015/eu/details.html
   </div>
 </div>
 
-<!-- TODO: pic, twitter -->
 <a name="speaker-ajaruga"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/PICNAME.EXT" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/anna_jaruga_small.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -48,7 +47,7 @@ template: 2015/eu/details.html
 <a name="speaker-baitman"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/bethprofilepic.jpg" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/bethaitman.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -79,7 +78,7 @@ In this talk, I'll discuss:
 <a name="speaker-cward"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/chris-ward.jpg" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/chris-ward.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -103,7 +102,7 @@ In this talk, I'll discuss:
 <a name="speaker-celmore"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/christina-elmore.jpg" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/elmore_headshot.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -113,18 +112,19 @@ In this talk, I'll discuss:
       </span>
     </h3>
     <h4>All roads might not lead to docs</h4>
-    <p>Documentation may not have a reputation as a creative enterprise, but we know that filling the role of documentarian often requires creative problem solving - especially in figuring how to create, display, and maintain a reliable collection of docs.
+    <p>Documentation may not have a reputation as a creative enterprise, but we know that filling the role of documentarian requires creative problem solving - especially in figuring how to create, display, and maintain a reliable collection of docs.
+
+If your goal is clear - we need (better) docs - then creativity comes in discovering how to get there. But creative problem solving has an important role to play in determining whether you've got the right goal: are docs the answer?
+
+This talk starts with framing the common types of needs that docs can meet: informing, learning, referencing, persuading, and engaging. With examples for each, we'll see how creative thinking - mixed with data and some knowledge of human behavior - can shape problem statements that lead to better solutions, which aren't always the traditional doc. It's about making sure that we, as documentarians, aren't just writing - we're shaping the discussion about when and how docs make our teams, organizations, and communities better.
 </p>
-<p>If your goal is clear - we need (better) docs - then the creativity comes in discovering how to get there. But creative problem solving has an important role to play in determining whether you've got the right goal: are docs the answer?
-</p>
-<p>This talk starts with framing the common types of needs that docs can meet: informing, learning, referencing, persuading, and engaging. With examples for each, we'll see how creative thinking - mixed with data and some knowledge of human behavior - can shape problem statements that lead to better solutions (which aren't always docs). It's about making sure that docs are the right goal so that we, as documentarians, aren't just writing - we're shaping the discussion about when and how docs make our teams, organizations, and communities better.</p>
   </div>
 </div>
 
 <a name="speaker-dpotter"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/Diana-P-cd4503c7.jpg" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/Diana-P-cd4503c7.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -144,7 +144,7 @@ In this talk, I'll discuss:
 <a name="speaker-ecaine"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/elicropped2-19.jpg" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/elicropped2-19.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -166,37 +166,29 @@ In this talk, I'll discuss:
 <a name="speaker-eboillat"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/EmilieBoillat300x300.png" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/EmilieBoillat300x300.png" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
      Emilie Boillat 
-      <span class="speaker-details">
-        Appway
-      </span>
     </h3>
     <h4>Whatchamacallit: Controlled Vocabularies for Technical Writers</h4>
-    <p>
-      A few years ago, I started working for a software company as their first de facto technical writer. It had a powerful, but complex product. The task was daunting, especially since whoever I talked to seemed to describe an entirely different product. I struggled to put the puzzle pieces together into a coherent whole.
+    <p>An everyday dilemma in technical communication: What do you call that “thing”? Whether you ask developers, marketing folks or users, you often get very different views.
 
-Just like me, users have to form a mental model of every new, unfamiliar software product. Good user interfaces go a long way towards this, but for complex products, UI is not enough. Developers do have a mental model of the product they work on, but it can be very different from that of people on the marketing side. 
+Along with user interfaces, documentation helps all stakeholders align their mental model of a product. Terminology plays a key role, and a controlled vocabulary is an ace up the technical writer's sleeve.
 
-After several years of experience in information management, one of the first things I did was to build a controlled vocabulary about the software product I had to document. It was invaluable in a number of ways I did not expect at the beginning: to categorize and filter help content, for the self-help site's navigation, as a glossary, as documentation plan, as a features overview, as a structure for test cases, etc.
+Controlled vocabularies are basically lists of concepts and the relationships between them. Beyond consistent naming, they are about structuring, categorizing and retrieving content. For example, you can use a vocabulary as a basis for documentation plans, tables of content, a help site's navigation, search filters, or even to organize test cases.
 
-Technical writers play an important role in bringing users, developers and business stakeholders on the same page. They hold the key to product-specific terminology. In this talk, I will show you how to make full use of that power through controlled vocabularies. I will share tools to create and maintain various types of vocabularies, and explain what each type is useful for. You can start with a simple list of terms and expand it into a glossary, a thesaurus, a taxonomy, or even a full-fledge ontology, according to your needs.
-
-In my case, it wasn't long until other people in the company started using the controlled vocabulary for their own purposes. This artefact also induced debates on several key concepts in the software, which in turn influenced product development.
-
-I am now building a start-up in the technical communication domain, for which I am conducting more research into controlled vocabularies, and ontologies in particular.
-    </p>
+In this talk, I will share ways to create and maintain various types of vocabularies, and explain what each type is useful for. You can start with a flat list of terms and expand it into a glossary, a thesaurus, a taxonomy, or even a full-fledge ontology.
+</p>
   </div>
 </div>
 
 <a name="speaker-fscholz"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/fschultz.jpg" />
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/jean-yves.jpg" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/fschultz.jpg" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/jean-yves.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -219,7 +211,7 @@ This is about improving quality, working with diverse communities, fostering inn
 <a name="speaker-jhannaford"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/jamie-hannaford.jpg" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/jamie-hannaford.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -240,7 +232,7 @@ But what about our documentation? If API contracts can be assimilated into softw
 <a name="speaker-jrondeau"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/jrondeau.png" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/jrondeau.png" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -265,7 +257,7 @@ This talk shows how documentarians can find inspiration in the past, build on it
 <a name="speaker-mzapke"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/markus-zapke.jpg" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/markus-zapke.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -282,11 +274,10 @@ This talk shows how documentarians can find inspiration in the past, build on it
   </div>
 </div>
 
-<!-- TODO: twitter -->
 <a name="speaker-pkeegan"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/patrick_keegan.jpg" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/patrick_keegan.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -308,7 +299,7 @@ In this presentation, I'll talk about ways to overcome burdensome organizational
 <a name="speaker-padams"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/padams.png" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/padams.png" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -331,7 +322,7 @@ In this talk Paul walks us through a selection of his favourite laws of software
 <a name="speaker-proeland"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/paul_roeland-300px.jpg" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/paul_roeland-300px.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -361,7 +352,7 @@ Not to mention being fun...
 <a name="speaker-rmatic"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/RadinaMatic_headshot.jpg" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/RadinaMatic_headshot.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -372,14 +363,13 @@ Not to mention being fun...
     </h3>
     <h4>Inclusive Tech Docs - TechComm Meets Accessibility</h4>
     <p>
-Presenting a business case for quality documentation can sometimes be a difficult enough task. Adding to that the accessibility requirements, and the whole idea may resemble a mission impossible. The fact that official standards (WCAG and WAI-ARIA) themselves seem to require user manuals in order to be properly implemented, is not helping developers, technical communicators and content managers achieve the desired results. This session will help you navigate through the maze of WCAG techniques, principles, guidelines and success criteria, in order to choose the appropriate path to make the accessibility goals of your techcomm project reality. Get ready to dive into A11y for Tech Docs!
-    </p>
+Presenting a business case for quality documentation can sometimes be a difficult enough task. Adding to that the accessibility requirements, and the whole idea may resemble a mission impossible. The fact that official standards (WCAG and WAI-ARIA) themselves seem to require user manuals in order to be properly implemented, is not helping developers, technical communicators and content managers achieve the desired results. This talk will present the main points and a selection of tools to get through the labyrinth of WCAG techniques and guidelines, and help you make your techcomm project accessibility-ready. Welcome to A11y for Tech Docs!</p>
   </div>
 
 <a name="speaker-rmacnamara"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/rmacnamara.jpg" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/rionam.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -405,7 +395,7 @@ Our future is bright if we pay attention to our new opportunities instead of tha
 <a name="speaker-sheinen"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/en/dev/conf/eu/2015/pics/speakers/SHeinen_300x300.jpg" />
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/SHeinen_300x300.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -419,6 +409,7 @@ Our future is bright if we pay attention to our new opportunities instead of tha
     A picture says more than …how many lines of code?
 
 Firstly this talk offers an introduction to a variety of established as well as experimental visual documentation methods. Subsequently, it explores the question whether or not these approaches can be applied to software documentation in a reasonable way.
+
 In this regard it takes a closer look at individual methods and estimates their corresponding affordances in terms of time, skill, resources and potential automatization.
 Eventually, this talk presents an initial attempt to translate existing docs into visual languages and discusses the according outcomes.
 

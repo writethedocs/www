@@ -51,14 +51,6 @@ We also have the [full talk abstracts][speakers] available on our website.
 [speaker-rmacnamara]: /conf/eu/2015/speakers/#speaker-rmacnamara
 [speaker-sheinen]: /conf/eu/2015/speakers/#speaker-sheinen
 
-## Sponsors
-
-Sponsorship is one of the reasons we are able to have such a wonderful
-conference each year. We're happy to have the following sponsors join us
-in supporting the Write the Docs community:
-
- * [Red Hat](http://jobs.redhat.com/life-at-red-hat)
-
 ## What's Next
 
 In the next few weeks, we'll be announcing the details for the conference schedule, as well as the
