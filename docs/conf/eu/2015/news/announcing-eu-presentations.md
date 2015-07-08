@@ -18,7 +18,7 @@ Here is the full list of presentations for Write the Docs Europe 2015:
  * Diana Potter - [Screencasting 101][speaker-dpotter]
  * Elijah Caine - [How to Write an Email][speaker-ecaine]
  * Emilie Boillat - [Whatchamacallit: Controlled Vocabularies for Technical Writers][speaker-eboillat]
- * Florian Scholz & Jean-Yves Perrier - [Gardening Open Docs][speaker-fscholzjyperrier]
+ * Florian Scholz & Jean-Yves Perrier - [Gardening Open Docs][speaker-fscholz]
  * Jamie Hannaford - [Generating docs from APIs][speaker-jhannaford]
  * Jennifer Rondeau - [Back to the Future: What Can Documentarians Learn From The Past?][speaker-jrondeau]
  * Markus Zapke-Gründemann - [i18what?][speaker-mzapke]
