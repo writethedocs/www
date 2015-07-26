@@ -107,7 +107,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
 Wind down and talk about the day's talks in a relaxed and friendly environment. 
 Free drinks of all varieties, snacks, and sweets will be provided.
 
-<table class="schedule">
+<table>
   <tr>
     <td class="schedule-time">7 PM</td>
     <td>Conference Party at <a href="https://goo.gl/maps/gfMnC">The PUB Praha 1</a> (Veleslavínova 3, Praha 1)</td>
@@ -209,8 +209,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
 
 ## Tuesday Night - Closing Meetup
 
-If you're still in town after the conference, join us for a closing meetup to unwind
-and wrap up the conference. The meetup is sponsored by the fine documentarians at [Elastic][elastic], 
-exact time and location will be announced soon.
+If you're still in town after the conference, join us for a closing meetup to unwind and wrap up the conference. 
+The meetup is sponsored by the fine documentarians at [Elastic][elastic], exact time and location will be announced soon.
 
 [elastic]: http://elastic.co/
