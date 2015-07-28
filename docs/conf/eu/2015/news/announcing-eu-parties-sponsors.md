@@ -38,7 +38,9 @@ The conference wouldn't be nearly as amazing without our sponsors. They help us 
 * [Mozilla Developer Network](https://developer.mozilla.org/)
 * [Travis CI](http://travis-ci.com/)
 * [Elastic](http://elastic.co/)
+<!--
 * [Aldryn](http://www.aldryn.com/en/)
+-->
 
 If you're interested in sponsoring, [send us an email][email-us].
 
