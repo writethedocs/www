@@ -25,7 +25,7 @@ If you're traveling with friends or family to Prague, we're happy to offer them 
 
 The **Friends-and-Family** tickets are [on sale now][tickets] for €25. Due to capacity restrictions at the party venue, we can offer only a limited number of these tickets, so don't wait to purchase.
 
-**A note for conference attendees:** The city tour and main conference party are already included in the full conference ticket, but the tickets are selling fast and we expect to sell out within the next two weeks.
+**A note for conference attendees:** The city tour and main conference party are already included in the full conference ticket, but the tickets are selling fast and we expect to sell out soon.
 
 [tickets]: https://ti.to/writethedocs/write-the-docs-eu-2015
 
