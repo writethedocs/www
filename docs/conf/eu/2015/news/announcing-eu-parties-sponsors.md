@@ -34,6 +34,7 @@ The **Friends-and-Family** tickets are [on sale now][tickets] for €25. Due to 
 The conference wouldn't be nearly as amazing without our sponsors. They help us provide all the extras that make the event delightful. We're happy to welcome our initial sponsors:
 
 * [Red Hat](http://jobs.redhat.com/life-at-red-hat/)
+* [GitHub](https://twitter.com/GitHubCommunity)
 * [Mozilla Developer Network](https://developer.mozilla.org/)
 * [Travis CI](http://travis-ci.com/)
 * [Elastic](http://elastic.co/)
