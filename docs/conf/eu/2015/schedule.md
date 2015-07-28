@@ -10,41 +10,12 @@ other in different ways.
 
 During the day we're hoping to have a walking city tour of Prague, followed by the conference reception in the evening. More information will be announced soon!
 
-<!-- <table class="schedule">
-  <tr>
-    <td class="schedule-time">9 AM</td>
-    <td><a href="/conf/na/2015/writing-day/">Writing Day</a> documentation sprints begin at <a href="https://goo.gl/maps/xljmU">CENTRL Office</a></td>
-  </tr>
-  <tr>
-    <td class="schedule-time">12:30 PM</td>
-    <td>Break for lunch</td>
-  </tr>
-  <tr>
-    <td class="schedule-time">6 PM</td>
-    <td>Sprints end, Reception begins. Keep working, or start chatting!</td>
-  </tr>
-  <tr>
-    <td class="schedule-time">9 PM</td>
-    <td>Reception ends</td>
-  </tr>
-</table>
-
--->
-
-[writing-day]: /conf/na/2015/writing-day/
-
 ## Monday, August 31st - Day 1
 
 This is the main event! Hear from lots of interesting folks about all things documentation.
 Check out the [full talk descriptions](http://www.writethedocs.org/conf/eu/2015/speakers/) for more information.
 
 The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1**.
-
-<!-- NEED TO FORK FOR EU
-### Community Notes
-
-Attendees are welcome to contribute to the [Attendee Notes](https://github.com/writethedocs/attendee-notes) during and after the talks.
--->
 
 ### Schedule Overview
 
@@ -133,17 +104,15 @@ Attendees are welcome to contribute to the [Attendee Notes](https://github.com/w
 
 ### Monday Night - Party
 
-Wind down and talk about the day's talks in a relaxed and friendly
-environment. Location will be announced soon, stay tuned for updates!
+Wind down and talk about the day's talks in a relaxed and friendly environment. 
+Free drinks of all varieties, snacks, and sweets will be provided.
 
-<!--
-<table class="schedule">
+<table>
   <tr>
     <td class="schedule-time">7 PM</td>
-    <td>Conference Party at <a href="https://goo.gl/maps/ZoKCP">TILT</a> (1355 NW Everett St)</td>
+    <td>Conference Party at <a href="https://goo.gl/maps/gfMnC">The PUB Praha 1</a> (Veleslavínova 3, Praha 1)</td>
   </tr>
 </table>
--->
 
 ## Tuesday, September 1st - Day 2
 
@@ -240,4 +209,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
 
 ## Tuesday Night - Closing Meetup
 
-If you're still in town, you might want to keep this evening free. More details soon!
+If you're still in town after the conference, join us for a closing meetup to unwind and wrap up the conference. 
+The meetup is sponsored by the fine documentarians at [Elastic][elastic], exact time and location will be announced soon.
+
+[elastic]: http://elastic.co/
