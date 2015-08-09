@@ -62,7 +62,6 @@ in conference tickets or friends-and-family tickets.
 We're happy to welcome our latest sponsors:
 
 * [Aldryn](http://www.aldryn.com/)
-* [Apiary](https://apiary.io/)
 
 If you're interested in sponsoring, [send us an email][email-us].
 

@@ -47,7 +47,6 @@ of the many restaurants in Praha 1 and then join us for drinks and a great view 
 
 We're happy to welcome our latest sponsors:
 
-* [Aldryn](http://www.aldryn.com/)
 * [Apiary](https://apiary.io/)
 
 If you're interested in sponsoring, [send us an email][email-us].
