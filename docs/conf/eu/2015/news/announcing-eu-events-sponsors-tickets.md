@@ -1,0 +1,93 @@
+template: 2015/eu/blog.html
+
+# Announcing More Events, Sponsors, Ticket Updates
+
+Just short of three weeks until our Prague conferences, and we hope you're getting as
+excited as we are! Here is some up-to-date information about tickets, reception,
+city tour, and partner events.
+
+### Ticket Sale Ends on August 20
+
+Thank you to everyone who registerd for the conference! We only have a handful of
+corporate and independent tickets available, and to allow us some time to prepare your
+swag and badges, we will **end the ticket sales on August 20th**.
+
+Friends-and-Family tickets will still be available until 3 days before the conference
+starts, and we will maintain a waiting list in case of cancellations, but now is the time
+to grab the [last tickets](tickets) before they're gone!
+
+[tickets]: https://ti.to/writethedocs/write-the-docs-eu-2015
+
+### Walking City Tour - Sunday Morning (Aug 30)
+
+Join us for a walking tour of the old city center around the beautiful and historical
+sights that Prague has to offer. We will meet [in front of Club Lavka](https://goo.gl/maps/gfMnC)
+at 12 NOON, and end the tour at 3 PM. Please be on time!
+
+The tour will be operated by English-speaking guides from the Prague City Tourism
+association, and will include historical and cultural sights around Praha 1, 2, and 5. After the
+tour you can continue to the [Prague Ice Cream Festival](https://www.facebook.com/events/911013742295892/) (not included in the conference ticket).
+
+**NOTE FOR TICKET HOLDERS:** Due to limited tour group size, we will be able to accommodate
+only confirmed attendees and friends-and-family ticket holders. Please adjust your RSVP for the city
+tour if you changed your mind, so that we can plan the number of guides accordingly.
+
+To change your RSVP, locate your ticket email confirmation, click the **Change Details** button,
+and then change your answer to the city tour question. Please update your answers no later
+than **August 23rd**.
+
+### Conference Reception - Sunday Evening (Aug 30)
+
+Come early, get your badge and get to know other attendees. The reception is hosted by our
+friends at [Apiary](https://apiary.io/company#contact) at their lovely new office
+in [Praha 8](https://goo.gl/maps/L7wCE).
+
+The reception will start at 6 PM and will include drinks and light snacks. This event is
+not included in the friends-and-family ticket.
+
+### Closing Meetup by Elastic - Tuesday Night (Sept 1)
+
+Following our previous announcement, we're happy to let you know that the closing meetup
+hosted by our friends from [Elastic][elastic] will be held at [BOAT NAME TBD](googlemaps)
+from 7:30 PM.
+
+Due to venue limitations, snacks will not be provided, but you can grab some food at one
+of the many restaurants in Praha 1 and then join us for drinks and a great view of the river!
+
+[elastic]: http://elastic.co/
+
+### GitHub Patchwork (Partner Event) - Saturday Night (Aug 29)
+
+Our friends at GitHub will be hosting a Patchwork on Saturday August 29. This is an independent
+event organized by GitHub and is open for everyone (based on availability and capacity).
+
+Some information from GitHub about the Patchwork event:
+
+> Patchwork is a self-directed, hands-on workshop for learning Git and GitHub featuring
+community mentors, talks from documentation and open source community members, and snacks.
+
+> Newcomers to Git and GitHub: you'll leave with a merged pull request, a square on your
+contributions graph, and confidence to get more involved in the open source community.
+
+> Mentors: if you've ever had a pull request merged, now is your chance to share the love
+and help someone else create magic.
+
+Register at https://ti.to/github-events/patchwork-prague
+
+This event requires separate registration and isn't organized by Write the Docs or included
+in conference tickets or friends-and-family tickets.
+
+### Sponsors
+
+We're happy to welcome our latest sponsors:
+
+* [Aldryn](http://www.aldryn.com/)
+* [Apiary](https://apiary.io/)
+
+If you're interested in sponsoring, [send us an email][email-us].
+
+[email-us]: mailto:europe@writethedocs.org
+
+----
+
+See you all in Prague!
