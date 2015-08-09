@@ -8,7 +8,7 @@ city tour, and partner events.
 
 ### Ticket Sale Ends on August 20
 
-Thank you to everyone who registerd for the conference! We only have a handful of
+Thank you to everyone who registered for the conference! We have a handful of
 corporate and independent tickets available, and to allow us some time to prepare your
 swag and badges, we will **end the ticket sales on August 20th**.
 
@@ -35,26 +35,6 @@ tour if you changed your mind, so that we can plan the number of guides accordin
 To change your RSVP, locate your ticket email confirmation, click the **Change Details** button,
 and then change your answer to the city tour question. Please update your answers no later
 than **August 23rd**.
-
-### Conference Reception - Sunday Evening (Aug 30)
-
-Come early, get your badge and get to know other attendees. The reception is hosted by our
-friends at [Apiary](https://apiary.io/company#contact) at their lovely new office
-in [Praha 8](https://goo.gl/maps/L7wCE).
-
-The reception will start at 6 PM and will include drinks and light snacks. This event is
-not included in the friends-and-family ticket.
-
-### Closing Meetup by Elastic - Tuesday Night (Sept 1)
-
-Following our previous announcement, we're happy to let you know that the closing meetup
-hosted by our friends from [Elastic][elastic] will be held at [BOAT NAME TBD](googlemaps)
-from 7:30 PM.
-
-Due to venue limitations, snacks will not be provided, but you can grab some food at one
-of the many restaurants in Praha 1 and then join us for drinks and a great view of the river!
-
-[elastic]: http://elastic.co/
 
 ### GitHub Patchwork (Partner Event) - Saturday Night (Aug 29)
 

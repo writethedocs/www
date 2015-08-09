@@ -16,10 +16,10 @@ Prague all around!
     <td class="schedule-time">12 NOON</td>
     <td>Walking tour of historical Prague <a href="https://goo.gl/maps/XKiSv">Meeting point in front of Club Lavka</a> (Novotného lávka 1, Praha 1)</td>
   </tr>
-  <tr>
+<!--  <tr>
     <td class="schedule-time">6 PM</td>
     <td>Conference reception <a href="https://goo.gl/maps/XKiSv">Apiary office</a> (Pernerova 49, Praha 8)</td>
-  </tr>
+  </tr> -->
 </table>
 
 
