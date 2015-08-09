@@ -52,7 +52,7 @@ contributions graph, and confidence to get more involved in the open source comm
 > Mentors: if you've ever had a pull request merged, now is your chance to share the love
 and help someone else create magic.
 
-Register at https://ti.to/github-events/patchwork-prague
+Register at <https://ti.to/github-events/patchwork-prague>
 
 This event requires separate registration and isn't organized by Write the Docs or included
 in conference tickets or friends-and-family tickets.
