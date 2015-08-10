@@ -2,8 +2,8 @@ template: 2015/eu/blog.html
 
 # Announcing More Events, Sponsors, Ticket Updates
 
-Just short of three weeks until our Prague conferences, and we hope you're getting as
-excited as we are! Here is some up-to-date information about tickets, reception,
+Just three short weeks until our Prague conferences, and we hope you're getting as
+excited as we are! Here is some up-to-date information about tickets,
 city tour, and partner events.
 
 ### Ticket Sale Ends on August 20
@@ -43,14 +43,14 @@ event organized by GitHub and is open for everyone (based on availability and ca
 
 Some information from GitHub about the Patchwork event:
 
-> Patchwork is a self-directed, hands-on workshop for learning Git and GitHub featuring
-community mentors, talks from documentation and open source community members, and snacks.
+_Patchwork is a self-directed, hands-on workshop for learning Git and GitHub featuring
+community mentors, talks from documentation and open source community members, and snacks._
 
-> Newcomers to Git and GitHub: you'll leave with a merged pull request, a square on your
-contributions graph, and confidence to get more involved in the open source community.
+_Newcomers to Git and GitHub: you'll leave with a merged pull request, a square on your
+contributions graph, and confidence to get more involved in the open source community._
 
-> Mentors: if you've ever had a pull request merged, now is your chance to share the love
-and help someone else create magic.
+_Mentors: if you've ever had a pull request merged, now is your chance to share the love
+and help someone else create magic._
 
 Register at <https://ti.to/github-events/patchwork-prague>.
 
