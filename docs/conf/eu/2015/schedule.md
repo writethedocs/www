@@ -225,7 +225,4 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
 If you're still in town after the conference, join us for a closing meetup to unwind
 and wrap up the conference. The meetup is hosted by our friends from [Elastic][elastic].
 
-We will meet at [BOAT NAME TBD](googlemaps) at 7:30 PM for drinks, chats, and a great
-view of the river!
-
 [elastic]: http://elastic.co/
