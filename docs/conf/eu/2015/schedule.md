@@ -8,7 +8,20 @@ other in different ways.
 
 ## Sunday, August 30th
 
-During the day we're hoping to have a walking city tour of Prague, followed by the conference reception in the evening. More information will be announced soon!
+City tour in the morning, conference reception in the evening, and a fun welcome to
+Prague all around!
+
+<table>
+  <tr>
+    <td class="schedule-time">12 NOON</td>
+    <td>Walking tour of historical Prague <a href="https://goo.gl/maps/XKiSv">Meeting point in front of Club Lavka</a> (Novotného lávka 1, Praha 1)</td>
+  </tr>
+<!--  <tr>
+    <td class="schedule-time">6 PM</td>
+    <td>Conference reception <a href="https://goo.gl/maps/XKiSv">Apiary office</a> (Pernerova 49, Praha 8)</td>
+  </tr> -->
+</table>
+
 
 ## Monday, August 31st - Day 1
 
@@ -104,7 +117,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
 
 ### Monday Night - Party
 
-Wind down and talk about the day's talks in a relaxed and friendly environment. 
+Wind down and talk about the day's talks in a relaxed and friendly environment.
 Free drinks of all varieties, snacks, and sweets will be provided.
 
 <table>
@@ -207,9 +220,9 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   </tr>
 </table>
 
-## Tuesday Night - Closing Meetup
+### Tuesday Night - Closing Meetup
 
-If you're still in town after the conference, join us for a closing meetup to unwind and wrap up the conference. 
-The meetup is sponsored by the fine documentarians at [Elastic][elastic], exact time and location will be announced soon.
+If you're still in town after the conference, join us for a closing meetup to unwind
+and wrap up the conference. The meetup is hosted by our friends from [Elastic][elastic].
 
 [elastic]: http://elastic.co/

@@ -59,7 +59,7 @@ template: 2015/eu/details.html
     <h4>Before the docs: writing for user interfaces</h4>
     <p>
 Good documentation is important, but it should be your last resort. You need to help users before they reach the docs - in the user interface itself.
- 
+
 In this talk, I'll discuss:
 
 - strategies for writing microcopy when you’re short on space
@@ -156,7 +156,7 @@ This talk starts with framing the common types of needs that docs can meet: info
     <h4>How to Write an Email</h4>
     <p>Nobody loves email. Nobody really even likes email. In fact email can totally suck and it is here to stay. Despite how we feel about it, we have to deal with email almost every single day. Fortunately we can improve email as a whole by learning how to write email that sucks just a little bit less -- not that you write bad emails.. this talk is for your... friend. Yeah, this talk is for your friends that really need to setup up their email game.
 </p>
-<p>In addition to email this talk will explore some fundamental misunderstandings that people have with modes of online communication and how to correct these misunderstandings. Like how to craft a good Tweet, Facebook Post, and Instant Messaging interaction. 
+<p>In addition to email this talk will explore some fundamental misunderstandings that people have with modes of online communication and how to correct these misunderstandings. Like how to craft a good Tweet, Facebook Post, and Instant Messaging interaction.
 </p>
 <p>This is not meant to be a tutorial but rather a conceptual guide for how to think about on-line communication and how to correct some common faults we share as members of the on-line community. The Internet isn't going away anytime soon, and the amount we communicate over it is not going to diminish anytime soon either. This talk attempts to teach one how to make digital communication as painless as possible.
     </p>
@@ -170,7 +170,7 @@ This talk starts with framing the common types of needs that docs can meet: info
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
-     Emilie Boillat 
+     Emilie Boillat
     </h3>
     <h4>Whatchamacallit: Controlled Vocabularies for Technical Writers</h4>
     <p>An everyday dilemma in technical communication: What do you call that “thing”? Whether you ask developers, marketing folks or users, you often get very different views.
@@ -201,7 +201,7 @@ In this talk, I will share ways to create and maintain various types of vocabula
     <p>
     With about 1000 different editors each month, the Mozilla Developer Network (MDN) documentation Web site for Open Web technologies is a trafficked wiki with edits of all kind of quality: perfect text from seasoned professional writers to rough notes by teen-aged technology learners.
 
-In this talk, we are going to explore how to keep this doc garden clean, how the diversity of editors influence its evolution, and how we find our way through treacherous jungles to well-maintained royal gardens. 
+In this talk, we are going to explore how to keep this doc garden clean, how the diversity of editors influence its evolution, and how we find our way through treacherous jungles to well-maintained royal gardens.
 
 This is about improving quality, working with diverse communities, fostering innovation, and carnivorous plants.
     </p>
@@ -244,33 +244,13 @@ But what about our documentation? If API contracts can be assimilated into softw
     <h4>Back to the Future: What Can Documentarians Learn From The Past?</h4>
 The world of software development rightly demands an emphasis on the new and the innovative -- on doing things differently from how they’ve been done. The assumption is that newer is (almost) always better. But if we look only to the present and the future, we risk reinventing the wheel, failing to understand that we are all built on tradition, failing to learn everything that we could from the past.
 
-This talk shows how documentarians can find inspiration in the past, build on it, and move forward. It tells some of these stories, and shows what they meant in historical context: 
+This talk shows how documentarians can find inspiration in the past, build on it, and move forward. It tells some of these stories, and shows what they meant in historical context:
 
 * The pre-history and dawn of software documentation -- how technical writers were hired, how they worked, what they made, the challenges they faced, and how their solutions continue to inform the work we do today
 * The much longer history of teaching engineers to write documentation
 * Efforts to make technical writing into an independent profession
 
 </p>
-  </div>
-</div>
-
-<a name="speaker-mzapke"></a>
-<div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/markus-zapke.jpg" />
-  </div>
-  <div class="col-md-8 col-sm-8">
-    <h3>
-      Markus Zapke-Gründemann
-      <span class="speaker-details">
-        <a href="https://twitter.com/keimlink">@keimlink</a>
-      </span>
-    </h3>
-    <h4>i18what?</h4>
-    <p>Having your documentation available in multiple languages is important to reach as many users as possible. Especially tutorials and documentation for beginners is better received if it's written in the reader's native language. But how to translate the documentation easy and fast? Software development must also deal with the translation of text and has developed a technique called "internationalization", which is abbreviated as "i18n". It separates the source code and the text strings so that the text strings can be translated easily. And a similar approach can be used to translate documentation.
-</p>
-<p>But how to organize and manage a documentation in multiple languages? How to keep the different translations up-to-date without ending up with different versions of your documentation? This talk will explain a basic work flow to internationalize your documentation project. It will address common problems that arise when internationalization is used and how to avoid them.
-    </p>
   </div>
 </div>
 
@@ -287,11 +267,11 @@ This talk shows how documentarians can find inspiration in the past, build on it
       </span>
     </h3>
     <h4>Free Your Mind and Your Docs Will Follow</h4>
-    <p>As documentarians, we face plenty of hurdles to delivering what we are assigned (harried and inaccessible subject matter experts, barely functioning builds, sketchy doc infrastructure, etc.). But there are also the obstacles that keep us from writing the docs we *want*, and those are largely ingrained in our companies' processes and our own heads. 
+    <p>As documentarians, we face plenty of hurdles to delivering what we are assigned (harried and inaccessible subject matter experts, barely functioning builds, sketchy doc infrastructure, etc.). But there are also the obstacles that keep us from writing the docs we *want*, and those are largely ingrained in our companies' processes and our own heads.
 </p>
-<p>We pay lip service to "the user" but then subordinate that to concerns of structure, consistency, and stylistic conventions. The result is often docs that are internally consistent and satisfy the editorial,  translation, and production teams for their economy and re-usability but are so dry and product-centered that they fail to connect with the most important audience - actual human beings. 
+<p>We pay lip service to "the user" but then subordinate that to concerns of structure, consistency, and stylistic conventions. The result is often docs that are internally consistent and satisfy the editorial,  translation, and production teams for their economy and re-usability but are so dry and product-centered that they fail to connect with the most important audience - actual human beings.
 </p>
-In this presentation, I'll talk about ways to overcome burdensome organizational processes and our own timidity to create room for the inspiration and creativity needed to bring the docs' subject alive. 
+In this presentation, I'll talk about ways to overcome burdensome organizational processes and our own timidity to create room for the inspiration and creativity needed to bring the docs' subject alive.
     </p>
   </div>
 </div>
@@ -383,7 +363,7 @@ Presenting a business case for quality documentation can sometimes be a difficul
 
 Why is this? The first, shorter part of this talk will cover some research and insights into why we, as documentarians, may be especially susceptible to imposter syndrome.
 
-But the field of tech writing is experiencing a swerve: a tipping point - a sea change in direction.  There will always be a demand for ""old"" tech writing, but many of us will have to adapt to this new environment. 
+But the field of tech writing is experiencing a swerve: a tipping point - a sea change in direction.  There will always be a demand for ""old"" tech writing, but many of us will have to adapt to this new environment.
 
 In the second, forward-looking part of this talk, I’ll argue that being an “imposter” has its advantages during such a time of change. The very factors that contribute to our self-doubt are actually the qualities that will enable us to thrive as our role inexorably evolves to take on new, unsolved challenges in engineering information. The keys to our success: apophenia (the ability to see connections between seemingly random collections of information), empathy, and adaptability.
 
@@ -420,7 +400,7 @@ Primarily, the objective of reading and writing the docs serves the purpose to c
 
 
 
-<!-- TEMPLATE FOR FUTURE SPEAKERS 
+<!-- TEMPLATE FOR FUTURE SPEAKERS
 
 <a name="speaker-[FIRSTINITIALLASTNAME]"></a>
 <div class="row row-speaker">
