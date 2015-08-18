@@ -43,7 +43,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   </tr>
   <tr>
     <td class="schedule-time">10:00 AM</td>
-    <td><a href="/conf/eu/2015/speakers/#speaker-pkeegan">Free Your Mind and Your Docs Will Follow</a>
+    <td><a href="/conf/eu/2015/speakers/#speaker-rmacnamara">IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty, and Surf the Upcoming Swerve in Technical Documentation</a></td>
 </td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   </tr>
   <tr>
     <td class="schedule-time">12:10 AM</td>
-    <td><a href="/conf/eu/2015/speakers/#speaker-cward">Documenting your Story - Crafting a good presentation</a>
+    <td><a href="/conf/eu/2015/speakers/#speaker-adangoor">Tested and Correct, How to Make Sure Your Documentation Keeps Working</a></td>
 </td>
   </tr>
   <tr>
@@ -101,7 +101,11 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   </tr>
   <tr>
     <td class="schedule-time">3:50 PM</td>
-    <td><a href="/conf/eu/2015/speakers/#speaker-adangoor">Tested and Correct, How to Make Sure Your Documentation Keeps Working</a></td>
+    <td><a href="/conf/eu/2015/speakers/#speaker-cward">Documenting your Story - Crafting a good presentation</a>
+  </tr>
+  <tr>
+    <td class="schedule-time">4:05 PM</td>
+    <td><a href="/conf/eu/2015/speakers/#speaker-pkeegan">Free Your Mind and Your Docs Will Follow</a>
   </tr>
   <tr>
     <td class="schedule-time">4:20 PM</td>
@@ -113,14 +117,6 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   </tr>
   <tr>
     <td class="schedule-time">5:00 PM</td>
-    <td><em>Switch Speakers</em></td>
-  </tr>
-  <tr>
-    <td class="schedule-time">5:10 PM</td>
-    <td><a href="/conf/eu/2015/speakers/#speaker-padams">Judas Priest Ate My Scrum Master</a> </td>
-  </tr>
-  <tr>
-    <td class="schedule-time">5:40 PM</td>
     <td>Wrap-up announcements</td>
   </tr>
 </table>
@@ -154,7 +150,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   </tr>
   <tr>
     <td class="schedule-time">10:00 AM</td>
-    <td><a href="/conf/eu/2015/speakers/#speaker-proeland">MacGyvering your docs</a></td>
+    <td><a href="/conf/eu/2015/speakers/#speaker-padams">Judas Priest Ate My Scrum Master</a> </td>
   </tr>
   <tr>
     <td class="schedule-time">10:30 AM</td>
@@ -170,7 +166,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   </tr>
   <tr>
     <td class="schedule-time">11:30 AM</td>
-    <td><a href="/conf/eu/2015/speakers/#speaker-dpotter">Screencasting 101</a> </td>
+    <td><a href="/conf/eu/2015/speakers/#speaker-ecaine">How to Write an Email</a></td>
   </tr>
   <tr>
     <td class="schedule-time">12:00 AM</td>
@@ -194,7 +190,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   </tr>
   <tr>
     <td class="schedule-time">2:20 PM</td>
-    <td><a href="/conf/eu/2015/speakers/#speaker-rmacnamara">IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty, and Surf the Upcoming Swerve in Technical Documentation</a></td>
+    <td><a href="/conf/eu/2015/speakers/#speaker-proeland">MacGyvering your docs</a></td>
   </tr>
   <tr>
     <td class="schedule-time">2:50 PM</td>
@@ -213,8 +209,8 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
     <td><em>Group photo</em></td>
   </tr>
   <tr>
-    <td class="schedule-time">4:00 PM</td>
-    <td><a href="/conf/eu/2015/speakers/#speaker-celmore">All roads might not lead to docs</a></td>
+    <td class="schedule-time">4:15 PM</td>
+    <td><a href="/conf/eu/2015/speakers/#speaker-dpotter">Screencasting 101</a> </td>
   </tr>
   <tr>
     <td class="schedule-time">4:30 PM</td>
@@ -222,7 +218,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   </tr>
   <tr>
     <td class="schedule-time">4:40 PM</td>
-    <td><a href="/conf/eu/2015/speakers/#speaker-ecaine">How to Write an Email</a></td>
+    <td><a href="/conf/eu/2015/speakers/#speaker-celmore">All roads might not lead to docs</a></td>
   </tr>
   <tr>
     <td class="schedule-time">5:10 PM</td>
