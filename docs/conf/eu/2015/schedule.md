@@ -14,12 +14,12 @@ Prague all around!
 <table>
   <tr>
     <td class="schedule-time">12 NOON</td>
-    <td>Walking tour of historical Prague <a href="https://goo.gl/maps/XKiSv">Meeting point in front of Club Lavka</a> (Novotného lávka 1, Praha 1)</td>
+    <td>Walking tour of historical Prague, <a href="https://goo.gl/maps/XKiSv">Meeting point in front of Club Lavka</a> (Novotného lávka 1, Praha 1)</td>
   </tr>
-<!--  <tr>
+  <tr>
     <td class="schedule-time">6 PM</td>
-    <td>Conference reception <a href="https://goo.gl/maps/XKiSv">Apiary office</a> (Pernerova 49, Praha 8)</td>
-  </tr> -->
+    <td>Conference reception at <a href="https://goo.gl/maps/XKiSv">Apiary office</a> (Pernerova 49, Praha 8)</td>
+  </tr>
 </table>
 
 
@@ -207,6 +207,10 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">3:50 PM</td>
     <td><em>Group photo</em></td>
+  </tr>
+  <tr>
+    <td class="schedule-time">4:00 PM</td>
+    <td><a href="/conf/eu/2015/speakers/#speaker-dpotter">Writing for what matters. Writing for thinking. (Apiary sponsored talk)</a> - Zdeněk Němec</td>
   </tr>
   <tr>
     <td class="schedule-time">4:15 PM</td>
