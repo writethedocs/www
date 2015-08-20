@@ -1,9 +1,15 @@
 template: 2015/eu/blog.html
 
-# Announcing Pre-Registration Reception, Weather, Ticket Updates
+# Announcing Talk Schedule, Reception, Weather, Ticket Updates
 
 Our conference is less than ten days away, and we're happy to share some more information
 for you to prepare for the big day.
+
+### Talk Schedule is Published
+
+The [final talk schedule](http://www.writethedocs.org/conf/eu/2015/schedule/) for the
+conference is now live on our website. We are excited to see and hear our wonderful
+speakers talk about all things docs!
 
 ### Conference Reception - Sunday Evening (Aug 30)
 
