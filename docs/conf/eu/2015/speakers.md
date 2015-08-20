@@ -268,11 +268,11 @@ This talk shows how documentarians can find inspiration in the past, build on it
     </h3>
     <h4>Writing for what matters. Writing for thinking.</h4>
     <p>
-    Most of the documentation we read today puts a lot of burden on us before we have the chance to get to the gist. Abstract and clear concepts are replaced by concrete and comprehensive ones. The real values are hindered by opaque clouds of facts about tools of trade. As a result, thinking and imagination are suppressed.
+Most of the documentation we read today puts a lot of burden on us before we have the chance to get to the gist. Abstract and clear concepts are replaced by concrete and comprehensive ones. The real values are hindered by opaque clouds of facts about tools of trade. As a result, thinking and imagination are suppressed.
 
-    But what if we can write documentation that encourages thinking?
+But what if we can write documentation that encourages thinking?
 
-    Let's look together on what really matters when documenting computer systems. We will discuss how a documentation and system design can walk hand in hand and to improve the communication between both humans and machines.
+Let's look together on what really matters when documenting computer systems. We will discuss how a documentation and system design can walk hand in hand and to improve the communication between both humans and machines.
 
 </p>
   </div>
