@@ -254,30 +254,6 @@ This talk shows how documentarians can find inspiration in the past, build on it
   </div>
 </div>
 
-<a name="speaker-znemec"></a>
-<div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/znemec.png" />
-  </div>
-  <div class="col-md-8 col-sm-8">
-    <h3>
-      Zdeněk Němec
-      <span class="speaker-details">
-      Apiary (sponsored talk)&nbsp;&mdash;&nbsp;<a href="https://twitter.com/zdne">@zdne</a>
-      </span>
-    </h3>
-    <h4>Writing for what matters. Writing for thinking.</h4>
-    <p>
-Most of the documentation we read today puts a lot of burden on us before we have the chance to get to the gist. Abstract and clear concepts are replaced by concrete and comprehensive ones. The real values are hindered by opaque clouds of facts about tools of trade. As a result, thinking and imagination are suppressed.
-
-But what if we can write documentation that encourages thinking?
-
-Let's look together on what really matters when documenting computer systems. We will discuss how a documentation and system design can walk hand in hand and to improve the communication between both humans and machines.
-
-</p>
-  </div>
-</div>
-
 <a name="speaker-pkeegan"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
@@ -422,6 +398,30 @@ Primarily, the objective of reading and writing the docs serves the purpose to c
   </div>
 </div>
 
+
+<a name="speaker-znemec"></a>
+<div class="row row-speaker">
+  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/znemec.jpg" />
+  </div>
+  <div class="col-md-8 col-sm-8">
+    <h3>
+      Zdeněk Němec
+      <span class="speaker-details">
+      Apiary (sponsored talk)&nbsp;&mdash;&nbsp;<a href="https://twitter.com/zdne">@zdne</a>
+      </span>
+    </h3>
+    <h4>Writing for what matters. Writing for thinking.</h4>
+    <p>
+Most of the documentation we read today puts a lot of burden on us before we have the chance to get to the gist. Abstract and clear concepts are replaced by concrete and comprehensive ones. The real values are hindered by opaque clouds of facts about tools of trade. As a result, thinking and imagination are suppressed.
+
+But what if we can write documentation that encourages thinking?
+
+Let's look together on what really matters when documenting computer systems. We will discuss how a documentation and system design can walk hand in hand and to improve the communication between both humans and machines.
+
+</p>
+  </div>
+</div>
 
 
 <!-- TEMPLATE FOR FUTURE SPEAKERS

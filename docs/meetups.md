@@ -16,7 +16,7 @@ We invite you to join a meetup in your local community. If your local
 community isn't listed here, feel free to start one and let us know.
 We'd be happy to promote it and list it here.
 
-### Current Meetups
+### Current Meetups: North America
 
 -   [Seattle, WA, USA](http://www.meetup.com/Write-The-Docs-Seattle/)
 -   [San Francisco, CA, USA](http://www.meetup.com/Write-the-Docs/)
@@ -26,3 +26,6 @@ We'd be happy to promote it and list it here.
 -   [Dallas, TX, USA](http://www.meetup.com/Write-the-Docs-Dallas/)
 -   [Boulder/Denver, CO, USA](http://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/)
 
+### Current Meetups: Europe
+
+-   [London, UK](http://www.meetup.com/Write-The-Docs-London/)
