@@ -35,7 +35,7 @@ than **August 23rd**.
 
 Our official ticket sale ended, thank you to everyone who registered! Friends-and-Family
 tickets are still be available until 3 days before the conference starts, and we opened a
-[waiting list](tickets) for conference tickets that you can register to be informed in case of
+[waiting list][tickets] for conference tickets that you can register to be informed in case of
 cancellations.
 
 [tickets]: https://ti.to/writethedocs/write-the-docs-eu-2015
