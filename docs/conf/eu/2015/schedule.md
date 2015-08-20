@@ -210,7 +210,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   </tr>
   <tr>
     <td class="schedule-time">4:00 PM</td>
-    <td><a href="/conf/eu/2015/speakers/#speaker-dpotter">Writing for what matters. Writing for thinking. (Apiary sponsored talk)</a> - Zdeněk Němec</td>
+    <td><a href="/conf/eu/2015/speakers/#speaker-znemec">Writing for what matters. Writing for thinking. (Apiary sponsored talk)</a> - Zdeněk Němec</td>
   </tr>
   <tr>
     <td class="schedule-time">4:15 PM</td>

@@ -272,7 +272,8 @@ This talk shows how documentarians can find inspiration in the past, build on it
 
     But what if we can write documentation that encourages thinking?
 
-    Let's look together on what really matters when documenting computer systems. We will discuss how a documentation and sytem design can walk hand in hand and to improve the communication between both humans and machines.
+    Let's look together on what really matters when documenting computer systems. We will discuss how a documentation and system design can walk hand in hand and to improve the communication between both humans and machines.
+
 </p>
   </div>
 </div>
