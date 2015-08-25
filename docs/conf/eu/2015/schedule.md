@@ -234,7 +234,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
 
 If you're still in town after the conference, join us for a closing meetup to unwind
 and wrap up the conference. The meetup is hosted by our friends from [Elastic][elastic],
-and will include drinks, snacks, and an introduction to Elastic by [Karel Minařík](https://twitter.com/karmiq).
+and will include drinks, snacks, and an informal introduction to Elastic by [Karel Minařík](https://twitter.com/karmiq).
 
 <table>
   <tr>
