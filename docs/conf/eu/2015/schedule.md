@@ -233,6 +233,16 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
 ### Tuesday Night - Closing Meetup
 
 If you're still in town after the conference, join us for a closing meetup to unwind
-and wrap up the conference. The meetup is hosted by our friends from [Elastic][elastic].
+and wrap up the conference. The meetup is hosted by our friends from [Elastic][elastic],
+and will include drinks, snacks, and an informal introduction to Elastic by [Karel Minařík](https://twitter.com/karmiq).
+
+<table>
+  <tr>
+    <td class="schedule-time">7 PM</td>
+    <td>Closing meetup by Elastic at <a href="https://goo.gl/maps/tDCsV">JazzDock</a> (Janáčkovo nábřeží 2, Praha 5)</td>
+  </tr>
+</table>
+
+
 
 [elastic]: http://elastic.co/

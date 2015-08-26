@@ -83,6 +83,10 @@ social events.
 * troy@writethedocs.org
 * +1 (503) 544-1104
 
+**Mikey Ariel (EU)**
+
+* europe@writethedocs.org
+* +420 603 261 361
 
 ### License
 
@@ -91,4 +95,3 @@ Feminism wiki, created by the Ada Initiative and other
 volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy),
 which is under a [Creative Commons
 Zero](http://creativecommons.org/choose/zero/) license.
-
