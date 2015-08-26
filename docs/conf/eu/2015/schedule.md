@@ -18,7 +18,7 @@ Prague all around!
   </tr>
   <tr>
     <td class="schedule-time">6 PM</td>
-    <td>Conference reception at <a href="https://goo.gl/maps/XKiSv">Apiary office</a> (Pernerova 49, Praha 8)</td>
+    <td>Conference reception at <a href="https://goo.gl/maps/qmJUv">Apiary office</a> (Pernerova 49, Praha 8)</td>
   </tr>
 </table>
 
