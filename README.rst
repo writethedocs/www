@@ -18,7 +18,7 @@ Resources
 Building these docs
 -------------------
 
-**This required virtualenv**. If you don't have it installed, first run ``pip install virtualenv``.
+**This requires virtualenv**. If you don't have it installed, first run ``pip install virtualenv``.
 
 To build this repo locally, run::
 
