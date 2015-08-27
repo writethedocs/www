@@ -26,7 +26,7 @@ Forum
 
 Check out our new [Forum](http://forum.writethedocs.org/) to keep in touch with your fellow documentarians.
 
-Upcoming Events
+2015 Conferences
 ---------------
 
 * * * * *
