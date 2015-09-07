@@ -28,5 +28,6 @@ We'd be happy to promote it and list it here.
 
 ### Current Meetups: Europe
 
+-   [Prague, CZ](http://www.meetup.com/Write-The-Docs-Prague/)
 -   [London, UK](http://www.meetup.com/Write-The-Docs-London/)
 -   [Berlin, DE](http://www.meetup.com/Write-The-Docs-Berlin/)
