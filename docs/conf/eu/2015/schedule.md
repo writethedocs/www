@@ -61,8 +61,8 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">10:40 AM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-eboillat">Whatchamacallit: Controlled Vocabularies for Technical Writers</a> - Emilie Boillat</td>
-  	<td>&nbsp;</td>
-	<td>&nbsp;</td>
+  	<td><a href="http://www.slideshare.net/EmilieBoillat/whatchamacallit-controlled-vocabularies-for-technical-writers">Slides</a><td>
+	<td>Video</td>
   </tr>
   <tr>
     <td class="schedule-time">11:10 AM</td>
@@ -86,8 +86,8 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
     <td class="schedule-time">12:10 AM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-adangoor">Tested and Correct, How to Make Sure Your Documentation Keeps Working</a> - Adam Dangoor</td>
 </td>
-  	<td>&nbsp;</td>
-	<td>&nbsp;</td>
+  	<td><a href="http://stuffadammakes.com/2015/09/02/tested-and-correct-how-to-make-sure-your-documentation-keeps-working/">Slides</a><td>
+	<td>Video</td>
   </tr>
   <tr>
     <td class="schedule-time">12:40 PM</td>
@@ -209,8 +209,8 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">10:40 AM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-baitman">Before the docs: writing for user interfaces </a> - Beth Aitman</td>
-  	<td>&nbsp;</td>
-	<td>&nbsp;</td>
+   	<td><a href="http://www.slideshare.net/BethAitman/before-the-docs-writing-for-user-interfaces">Slides</a><td>
+	<td>Video</td>
   </tr>
   <tr>
     <td class="schedule-time">11:10 AM</td>
@@ -257,8 +257,8 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">2:20 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-proeland">MacGyvering your docs</a> - Paul Roeland</td>
-  	<td>&nbsp;</td>
-	<td>&nbsp;</td>
+  	<td><a href="http://polyester.github.io/writethedocs-15">Slides</a><td>
+	<td>Video</td>
   </tr>
   <tr>
     <td class="schedule-time">2:50 PM</td>
@@ -269,7 +269,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">3:00 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-ajaruga">The quest for scientific credit for software documentation</a> - Anna Jaruga</td>
-  	<td>Slides<td>
+  	<td><a href="http://www.igf.fuw.edu.pl/~ajaruga/talks/Jaruga_WTD_2015.pdf">Slides</a><td>
 	<td>Video</td>
   </tr>
   <tr>
