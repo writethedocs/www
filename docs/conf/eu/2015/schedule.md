@@ -36,88 +36,130 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">9:00 AM</td>
     <td>Doors Open, Breakfast Served</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">9:45 AM</td>
     <td>Introduction</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">10:00 AM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-rmacnamara">IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty, and Surf the Upcoming Swerve in Technical Documentation</a> - Riona MacNamara</td>
 </td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">10:30 AM</td>
     <td><em>Switch Speakers</em></td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">10:40 AM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-eboillat">Whatchamacallit: Controlled Vocabularies for Technical Writers</a> - Emilie Boillat</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">11:10 AM</td>
     <td><em>Coffee break</em></td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">11:30 AM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-sheinen">Visual Documentation Language</a> - Sonja Heinen</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">12:00 AM</td>
     <td><em>Switch Speakers</em></td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">12:10 AM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-adangoor">Tested and Correct, How to Make Sure Your Documentation Keeps Working</a> - Adam Dangoor</td>
 </td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">12:40 PM</td>
     <td>Lunch</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">1:40 PM</td>
     <td><a href="/conf/eu/2015/lightning-talks/">Lightning Talks</a></td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">2:10 PM</td>
     <td><em>Switch Speakers</em></td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">2:20 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-jhannaford">Generating docs from APIs</a> - Jamie Hannaford</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">2:50 PM</td>
     <td><em>Switch Speakers</em></td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">3:00 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-rmatic">Inclusive Tech Docs - TechComm Meets Accessibility</a> - Radina Matic</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">3:30 PM</td>
     <td><em>Coffee break</em></td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">3:50 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-cward">Documenting your Story - Crafting a good presentation</a> - Chris Ward</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">4:05 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-pkeegan">Free Your Mind and Your Docs Will Follow</a> - Patrick Keegan</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">4:20 PM</td>
     <td><em>Switch Speakers</em></td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">4:30 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-fscholz">Gardening Open Docs</a> - Florian Scholz & Jean-Yves Perrier</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">5:00 PM</td>
     <td>Wrap-up announcements</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
 </table>
 
@@ -143,90 +185,134 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">9:00 AM</td>
     <td>Doors Open, Breakfast Served</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">9:45 AM</td>
     <td>Announcements</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">10:00 AM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-padams">Judas Priest Ate My Scrum Master</a> - Paul Adams</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">10:30 AM</td>
     <td><em>Switch Speakers</em></td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">10:40 AM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-baitman">Before the docs: writing for user interfaces </a> - Beth Aitman</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">11:10 AM</td>
     <td><em>Coffee break</em></td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">11:30 AM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-ecaine">How to Write an Email</a> - Elijah Caine</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">12:00 AM</td>
     <td><em>Switch Speakers</em></td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">12:10 AM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-jrondeau">Back to the Future: What Can Documentarians Learn From The Past?</a> - Jennifer Rondeau</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">12:40 PM</td>
     <td>Lunch</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">1:40 PM</td>
     <td><a href="/conf/eu/2015/lightning-talks/">Lightning Talks</a></td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">2:10 PM</td>
     <td><em>Switch Speakers</em></td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">2:20 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-proeland">MacGyvering your docs</a> - Paul Roeland</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">2:50 PM</td>
     <td><em>Switch Speakers</em></td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">3:00 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-ajaruga">The quest for scientific credit for software documentation</a> - Anna Jaruga</td>
+  	<td>Slides<td>
+	<td>Video</td>
   </tr>
   <tr>
     <td class="schedule-time">3:30 PM</td>
     <td><em>Coffee break</em></td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">3:50 PM</td>
     <td><em>Group photo</em></td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">4:00 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-znemec">Writing for what matters. Writing for thinking. (Apiary sponsored talk)</a> - Zdeněk Němec</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">4:15 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-dpotter">Screencasting 101</a> - Diana Potter</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">4:30 PM</td>
     <td><em>Switch Speakers</em></td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">4:40 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-celmore">All roads might not lead to docs</a> - Christina Elmore</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">5:10 PM</td>
     <td>Wrap-up announcements</td>
+  	<td>&nbsp;</td>
+	<td>&nbsp;</td>
   </tr>
 </table>
 
