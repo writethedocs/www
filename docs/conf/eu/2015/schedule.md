@@ -287,8 +287,8 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">4:00 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-znemec">Writing for what matters. Writing for thinking. (Apiary sponsored talk)</a> - Zdeněk Němec</td>
-  	<td>&nbsp;</td>
-	<td>&nbsp;</td>
+  	<td>< a href="https://t.co/qIe1KTlKzG">Slides</a></td>
+	<td>Video</td>
   </tr>
   <tr>
     <td class="schedule-time">4:15 PM</td>
@@ -305,8 +305,8 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">4:40 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-celmore">All roads might not lead to docs</a> - Christina Elmore</td>
-  	<td>&nbsp;</td>
-	<td>&nbsp;</td>
+  	<td><a href="https://docs.google.com/document/d/1j5B7PxxYKpKiEP9Vir_5Y5eEiLdCnQhvJQmv7BJBKtI/edit">Slides<a/></td>
+	<td>Video</td>
   </tr>
   <tr>
     <td class="schedule-time">5:10 PM</td>
