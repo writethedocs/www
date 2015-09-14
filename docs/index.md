@@ -21,15 +21,10 @@ Our conferences create a time and a place for the global community of
 *documentarians* to share information, discuss ideas, and work together
 to improve the **art and science of documentation**.
 
-Forum
------
-
-Check out our new [Forum](http://forum.writethedocs.org/) to keep in touch with your fellow documentarians.
+* * * * *
 
 2015 Conferences
 ---------------
-
-* * * * *
 
 #### North America
 
@@ -39,15 +34,22 @@ Check out our new [Forum](http://forum.writethedocs.org/) to keep in touch with 
 
 - [Write The Docs, August 31-September 1, 2015](conf/eu/2015.md), in **Prague, Czech Republic**
 
-Meetups
--------
+<br>
+
+Stay Connected
+--------------
+
+#### Meetups
 
 We have meetups in multiple cities every month. The [Meetups page](meetups.md) has more information.
 
-Contact
--------
+#### Forum
 
-* * * * *
+Check out our new [Forum](http://forum.writethedocs.org/) to keep in touch with your fellow documentarians.
+
+
+Contact Us
+----------
 
 Have any questions, concerns, or comments about our work? Feel free to
 reach out at [hello@writethedocs.org](mailto:hello@writethedocs.org).
