@@ -16,7 +16,6 @@ pages:
   - ['conf/na/2015/hike.md', 'Conferences', 'Hike - North America 2015']
   - ['conf/na/2015/writing-day.md', 'Conferences', 'Writing Day - North America 2015']
   - ['conf/na/2015/unconference.md', 'Conferences', 'Unconference - North America 2015']
-  - ['conf/na/2015/speaking.md', 'Conferences', 'Speakers Guide - North America 2015']
   - ['conf/na/2015/schedule.md', 'Conferences', 'Schedule - North America 2015']
   - ['conf/na/2015/lightning-talks.md', 'Conferences', 'Lightning Talks - North America 2015']
   - ['conf/na/2015/news/more-conference-details.md', 'Conferences', 'More Conference Details - North America 2015']
@@ -43,3 +42,4 @@ pages:
   - ['meetups.md', 'Meetups']
   - ['videos.md', 'Videos']
   - ['guide/documentarian.md', 'Documentarian']
+  - ['guide/speaking.md', 'Speakers Guide - Write the Docs']
