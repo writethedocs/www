@@ -50,8 +50,8 @@ It should take about 5 seconds to get a basic outline of the documentation for a
 Also have a standard hierarchy for the docs, so that people know where to look for things in any project.
 
 
-Have regular meeting throughout the process
--------------------------------------------
+Have regular meetings throughout the process
+--------------------------------------------
 
 Having a weekly standing meeting where you keep track of the progress along all the stages is important. This gives people a known place to go and discuss issues or ideas. It also provides a sense that the project is moving forward. At the beginning these meetings will be used to plan and track implementation. After implementation, it will be a place to drive adoption and gather feedback.
 
