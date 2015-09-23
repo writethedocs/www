@@ -62,7 +62,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
     <td class="schedule-time">10:40 AM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-eboillat">Whatchamacallit: Controlled Vocabularies for Technical Writers</a> - Emilie Boillat</td>
   	<td><a href="http://www.slideshare.net/EmilieBoillat/whatchamacallit-controlled-vocabularies-for-technical-writers">Slides</a><td>
-	<td>Video</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">11:10 AM</td>
@@ -87,7 +87,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
     <td><a href="/conf/eu/2015/speakers/#speaker-adangoor">Tested and Correct, How to Make Sure Your Documentation Keeps Working</a> - Adam Dangoor</td>
 </td>
   	<td><a href="http://stuffadammakes.com/2015/09/02/tested-and-correct-how-to-make-sure-your-documentation-keeps-working/">Slides</a><td>
-	<td>Video</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">12:40 PM</td>
@@ -134,7 +134,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">3:50 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-cward">Documenting your Story - Crafting a good presentation</a> - Chris Ward</td>
-  	<td>&nbsp;</td>
+  	<td><a href="http://gregariousmammal.com:8000/good_presentations/#/">Slides</a></td>
 	<td>&nbsp;</td>
   </tr>
   <tr>
@@ -210,7 +210,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
     <td class="schedule-time">10:40 AM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-baitman">Before the docs: writing for user interfaces </a> - Beth Aitman</td>
    	<td><a href="http://www.slideshare.net/BethAitman/before-the-docs-writing-for-user-interfaces">Slides</a><td>
-	<td>Video</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">11:10 AM</td>
@@ -221,7 +221,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">11:30 AM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-ecaine">How to Write an Email</a> - Elijah Caine</td>
-  	<td>&nbsp;</td>
+  	<td><a href="http://slides.elijahcaine.me/write-the-docs-eu-2015_how-to-write-an-email/">Slides</a></td>
 	<td>&nbsp;</td>
   </tr>
   <tr>
@@ -258,7 +258,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
     <td class="schedule-time">2:20 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-proeland">MacGyvering your docs</a> - Paul Roeland</td>
   	<td><a href="http://polyester.github.io/writethedocs-15">Slides</a><td>
-	<td>Video</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">2:50 PM</td>
@@ -270,7 +270,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
     <td class="schedule-time">3:00 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-ajaruga">The quest for scientific credit for software documentation</a> - Anna Jaruga</td>
   	<td><a href="http://www.igf.fuw.edu.pl/~ajaruga/talks/Jaruga_WTD_2015.pdf">Slides</a><td>
-	<td>Video</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">3:30 PM</td>
@@ -287,8 +287,8 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">4:00 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-znemec">Writing for what matters. Writing for thinking. (Apiary sponsored talk)</a> - Zdeněk Němec</td>
-  	<td>< a href="https://t.co/qIe1KTlKzG">Slides</a></td>
-	<td>Video</td>
+  	<td><a href="https://t.co/qIe1KTlKzG">Slides</a></td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">4:15 PM</td>
@@ -306,7 +306,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
     <td class="schedule-time">4:40 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-celmore">All roads might not lead to docs</a> - Christina Elmore</td>
   	<td><a href="https://docs.google.com/document/d/1j5B7PxxYKpKiEP9Vir_5Y5eEiLdCnQhvJQmv7BJBKtI/edit">Slides<a/></td>
-	<td>Video</td>
+	<td>&nbsp;</td>
   </tr>
   <tr>
     <td class="schedule-time">5:10 PM</td>
