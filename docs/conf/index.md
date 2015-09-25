@@ -37,4 +37,4 @@ More information coming soon.
 
 - [Write The Docs Unconference, July 19-20 2014, Berlin, Germany](http://conf.writethedocs.org/eu/2014/unconf-berlin.html)
 - [Write The Docs, Mar 31-Apr 1, 2014, Budapest, Hungary](http://conf.writethedocs.org/eu/2014/)
-- [Write The Docs, August 31-September 1, Prague, Czech Republic, 2015](eu/2015.md)
+- [Write The Docs, August 31-September 1, 2015, Prague, Czech Republic](eu/2015.md)
