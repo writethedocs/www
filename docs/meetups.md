@@ -18,16 +18,18 @@ We'd be happy to promote it and list it here.
 
 ### Current Meetups: North America
 
--   [Seattle, WA, USA](http://www.meetup.com/Write-The-Docs-Seattle/)
--   [San Francisco, CA, USA](http://www.meetup.com/Write-the-Docs/)
--   [San Diego, CA, USA](http://www.meetup.com/Write-the-Docs-San-Diego-CA/)
--   [Portland, OR, USA](http://www.meetup.com/Write-The-Docs-PDX)
--   [New York, NY, USA](http://www.meetup.com/Write-The-Docs-NY/)
--   [Dallas, TX, USA](http://www.meetup.com/Write-the-Docs-Dallas/)
+-   [Austin, TX, USA](http://www.meetup.com/WriteTheDocs-ATX-Meetup/)
 -   [Boulder/Denver, CO, USA](http://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/)
+-   [Dallas, TX, USA](http://www.meetup.com/Write-the-Docs-Dallas/)
+-   [New York, NY, USA](http://www.meetup.com/Write-The-Docs-NY/)
+-   [Portland, OR, USA](http://www.meetup.com/Write-The-Docs-PDX)
+-   [San Diego, CA, USA](http://www.meetup.com/Write-the-Docs-San-Diego-CA/)
+-   [San Francisco, CA, USA](http://www.meetup.com/Write-the-Docs/)
+-   [Seattle, WA, USA](http://www.meetup.com/Write-The-Docs-Seattle/)
 
 ### Current Meetups: Europe
 
--   [Prague, CZ](http://www.meetup.com/Write-The-Docs-Prague/)
--   [London, UK](http://www.meetup.com/Write-The-Docs-London/)
 -   [Berlin, DE](http://www.meetup.com/Write-The-Docs-Berlin/)
+-   [London, UK](http://www.meetup.com/Write-The-Docs-London/)
+-   [Prague, CZ](http://www.meetup.com/Write-The-Docs-Prague/)
+
