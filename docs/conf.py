@@ -123,6 +123,16 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 html_theme_options = {
     'navbar_class': "navbar",
     'navbar_fixed_top': "false",
+    'navbar_pagenav': False,
+    'navbar_sidebarrel': False,
+    'globaltoc_depth': 1,
+    'globaltoc_includehidden': "false",
+    'source_link_position': "footer",
+    'navbar_links': [
+        ("Conferences", "conf/index"),
+        ("Meetups", "meetups"),
+        ("Forum", "http://forum.writethedocs.org/", True),
+    ],
 }
 
 # The name for this set of Sphinx documents.  If None, it defaults to
@@ -289,3 +299,6 @@ texinfo_documents = [
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
+
+def setup(app):
+    app.add_stylesheet('wtd.css')

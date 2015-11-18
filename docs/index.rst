@@ -1,3 +1,8 @@
+.. meta::
+   :description: A series of events for technical writers, 
+   				 documentarians, and all those who write the docs.
+   :author: Write The Docs
+   :geo.placename: Portland, Oregon
 
 **Write the Docs** is a series of conferences and local meetups focused
 on documentation systems, tech writing theory, and information delivery.
@@ -15,10 +20,25 @@ to improve the **art and science of documentation**.
 
 .. toctree::
    :glob:
+   :hidden:
 
    conf/na/*
    conf/eu/*
    *
+
+
+2016 Conferences
+----------------
+
+North America
+~~~~~~~~~~~~~
+
+- Write The Docs, May 22-24, 2016, in **Portland, Oregon**
+
+Europe
+~~~~~~
+
+- Still in planning
 
 2015 Conferences
 ----------------
