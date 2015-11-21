@@ -26,6 +26,7 @@ This year, our auxiliary events will include:
 - **Writing Day** (Sunday Daytime) --- Kicking things off the day before the conference, our Writing Day is all about, y’know, writing the docs! Meet up with your fellow documentarians either to collaborate on your own projects or contribute to open source projects like [Wordpress](http://writethedocs.us6.list-manage1.com/track/click?u=94377ea46d8b176a11a325d03&id=6355548576&e=83378cbc40) or the [Mozilla Developer Network](http://writethedocs.us6.list-manage.com/track/click?u=94377ea46d8b176a11a325d03&id=8b0eab8076&e=83378cbc40). This is an awesome opportunity to share your knowledge and learn from your peers. 
 - **Conference Reception** (Sunday Night) --- Come early, pick up your badge, and get to know other attendees.
 - **Official Party** (Monday Night) --- Wind down and discuss the first day's talks in a relaxed and friendly environment.
+- **Something new and exciting** --- We have a couple more tricks up our sleeves for this year. Stay tuned :)
 
 ## While you’re waiting…
 We will be announcing more information soon, including our call for proposals and pricing. To make sure you get all the latest news, sign up for [our mailing list](http://writethedocs.us6.list-manage2.com/track/click?u=94377ea46d8b176a11a325d03&id=505adeb6c0&e=83378cbc40) and follow us on Twitter, [@writethedocs](http://writethedocs.us6.list-manage.com/track/click?u=94377ea46d8b176a11a325d03&id=233967525c&e=83378cbc40).
