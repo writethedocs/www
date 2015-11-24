@@ -11,7 +11,7 @@ If you’ve been to Write The Docs before, you know that you’re in for three o
 
 Every year we assemble a group of exceptional speakers to discuss the art and science of documentation. You’ll learn about the latest in documentation tools, tech writing theory, content delivery, and more. In the past, we’ve had talks on topics ranging from poetry to continuous deployment, from typography to API reviews. 
 
-After an opening reception on Sunday, May 22, the main event will take place May 23 & 24 (Monday and Tuesday) from 9am to 6pm. We will return to the historic [Crystal Ballroom](http://writethedocs.us6.list-manage.com/track/click?u=94377ea46d8b176a11a325d03&id=225681cc09&e=83378cbc40), [centrally located](http://writethedocs.us6.list-manage2.com/track/click?u=94377ea46d8b176a11a325d03&id=a6f70a1d2f&e=83378cbc40) in the heart of Portland. 
+After an opening reception on Sunday, May 22, the main event will take place May 23 & 24 (Monday and Tuesday) from 9am to 6pm. We will return to the historic [Crystal Ballroom](http://www.mcmenamins.com/CrystalBallroom), [centrally located](https://www.google.com/maps/place/McMenamins+Crystal+Ballroom,+1332+W+Burnside+St,+Portland,+OR+97209,+United+States/@45.5227324,-122.6847879,16z/data=!4m2!3m1!1s0x54950a02e43decb9:0xe289ad93ad758c66) in the heart of Portland. 
 
 In addition to the conference itself, we have a host of auxiliary events to round out your Write The Docs experience. 
 
@@ -23,13 +23,13 @@ All of these events are optional, but we’d strongly recommend you come into to
 This year, our auxiliary events will include:
 
 - **Hike** (Saturday Afternoon) --- Join us for what’s become a Write The Docs institution: A trek along the verdant trails of Portland’s stunning Forest Park.
-- **Writing Day** (Sunday Daytime) --- Kicking things off the day before the conference, our Writing Day is all about, y’know, writing the docs! Meet up with your fellow documentarians either to collaborate on your own projects or contribute to open source projects like [Wordpress](http://writethedocs.us6.list-manage1.com/track/click?u=94377ea46d8b176a11a325d03&id=6355548576&e=83378cbc40) or the [Mozilla Developer Network](http://writethedocs.us6.list-manage.com/track/click?u=94377ea46d8b176a11a325d03&id=8b0eab8076&e=83378cbc40). This is an awesome opportunity to share your knowledge and learn from your peers. 
+- **Writing Day** (Sunday Daytime) --- Kicking things off the day before the conference, our Writing Day is all about, y’know, writing the docs! Meet up with your fellow documentarians either to collaborate on your own projects or contribute to open source projects like [Wordpress](http://codex.wordpress.org/) or the [Mozilla Developer Network](https://developer.mozilla.org/en-US/). This is an awesome opportunity to share your knowledge and learn from your peers. 
 - **Conference Reception** (Sunday Night) --- Come early, pick up your badge, and get to know other attendees.
 - **Official Party** (Monday Night) --- Wind down and discuss the first day's talks in a relaxed and friendly environment.
 - **Something new and exciting** --- We have a couple more tricks up our sleeves for this year. Stay tuned :)
 
 ## While you’re waiting…
-We will be announcing more information soon, including our call for proposals and pricing. To make sure you get all the latest news, sign up for [our mailing list](http://writethedocs.us6.list-manage2.com/track/click?u=94377ea46d8b176a11a325d03&id=505adeb6c0&e=83378cbc40) and follow us on Twitter, [@writethedocs](http://writethedocs.us6.list-manage.com/track/click?u=94377ea46d8b176a11a325d03&id=233967525c&e=83378cbc40).
+We will be announcing more information soon, including our call for proposals and pricing. To make sure you get all the latest news, sign up for [our mailing list](http://writethedocs.us6.list-manage.com/subscribe?u=94377ea46d8b176a11a325d03&id=dcf0ed349b) and follow us on Twitter, [@writethedocs](https://twitter.com/writethedocs).
 
 Also, if you or your company might be interested in becoming a sponsor, please [send us an email](mailto:sponsorship@writethedocs.org).
 
