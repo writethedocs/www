@@ -11,7 +11,7 @@ If you’ve been to Write The Docs before, you know that you’re in for three o
 
 Every year we assemble a group of exceptional speakers to discuss the art and science of documentation. You’ll learn about the latest in documentation tools, tech writing theory, content delivery, and more. In the past, we’ve had talks on topics ranging from poetry to continuous deployment, from typography to API reviews. 
 
-After an opening reception on Sunday, May 22, the main event will take place May 23 & 24 (Monday and Tuesday) from 9am to 6pm. We will return to the historic [Crystal Ballroom](http://www.mcmenamins.com/CrystalBallroom), [centrally located](https://www.google.com/maps/place/McMenamins+Crystal+Ballroom,+1332+W+Burnside+St,+Portland,+OR+97209,+United+States/@45.5227324,-122.6847879,16z/data=!4m2!3m1!1s0x54950a02e43decb9:0xe289ad93ad758c66) in the heart of Portland. 
+The conference will take place May 23 & 24 (Monday and Tuesday) from 9am to 6pm. We will return to the historic [Crystal Ballroom](http://www.mcmenamins.com/CrystalBallroom), [centrally located](https://www.google.com/maps/place/McMenamins+Crystal+Ballroom,+1332+W+Burnside+St,+Portland,+OR+97209,+United+States/@45.5227324,-122.6847879,16z/data=!4m2!3m1!1s0x54950a02e43decb9:0xe289ad93ad758c66) in the heart of Portland. 
 
 In addition to the conference itself, we have a host of auxiliary events to round out your Write The Docs experience. 
 
