@@ -17,7 +17,7 @@ improve the art and science of documentation.
 
 #### North America
 
-More information coming soon.
+- Write The Docs, May 22-24, 2016, in **Portland, Oregon**
 
 #### Europe
 
