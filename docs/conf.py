@@ -123,7 +123,7 @@ html_sidebars = {
 html_style = "writethedocs.css"
 
 html_theme_options = {
-   'logo': 'logo.png',
+   'logo': 'sticker-wtd-colors.png',
    'github_user': 'writethedocs',
    'github_repo': 'docs',
 }
