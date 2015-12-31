@@ -80,4 +80,4 @@ References
 
 .. _`scrum development method`:
    https://en.wikipedia.org/wiki/Scrum_%28development%29
-.. _`Sphinx`: http://sphinx.pocoo.org
+.. _`Sphinx`: http://sphinx-doc.org/
