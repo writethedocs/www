@@ -1,8 +1,12 @@
 .. meta::
    :description: A series of events for technical writers, 
-   				 documentarians, and all those who write the docs.
+                 documentarians, 
+                 and all those who write the docs.
    :author: Write The Docs
    :geo.placename: Portland, Oregon
+
+Write the Docs Community
+========================
 
 **Write the Docs** is a series of conferences and local meetups focused
 on documentation systems, tech writing theory, and information delivery.
@@ -19,56 +23,36 @@ to improve the **art and science of documentation**.
 --------------
 
 .. toctree::
-   :glob:
    :hidden:
+   :glob:
+   :maxdepth: 1
 
-   conf/na/*
-   conf/eu/*
-   *
+   conf/index
+   meetups
 
 
-2016 Conferences
-----------------
+.. include:: /include/conf/current.rst
 
-North America
-~~~~~~~~~~~~~
-
-- Write The Docs, May 22-24, 2016, in **Portland, Oregon**
-
-Europe
-~~~~~~
-
-- Still in planning
-
-2015 Conferences
-----------------
-
-North America
-^^^^^^^^^^^^^
-
--  `Write The Docs, May 17-19, 2015 <conf/na/2015.md>`__, in **Portland,
-   Oregon**
-
-Europe
-^^^^^^
-
--  `Write The Docs, August 31-September 1, 2015 <conf/eu/2015.md>`__, in
-   **Prague, Czech Republic**
 
 Stay Connected
 --------------
 
 Meetups
-^^^^^^^
+~~~~~~~
 
 We have meetups in multiple cities every month. The `Meetups
 page <meetups.md>`__ has more information.
 
 Forum
-^^^^^
+~~~~~
 
 Check out our new `Forum <http://forum.writethedocs.org/>`__ to keep in
 touch with your fellow documentarians.
+
+Slack
+~~~~~
+
+You can join us on `Slack <http://slack.writethedocs.org>`_ to have real-time discussion and keep in touch with folks.
 
 Contact Us
 ----------

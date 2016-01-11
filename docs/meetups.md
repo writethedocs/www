@@ -1,4 +1,3 @@
-
 Write the Docs Meetups
 ======================
 
