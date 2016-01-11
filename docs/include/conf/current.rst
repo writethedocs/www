@@ -9,4 +9,4 @@ North America
 Europe
 ~~~~~~
 
-- Write the Docs Europe, Early Fall, 2016, **Location to be determined**
+- Write the Docs Europe, September 2016, **Prague, Czech Republic**
