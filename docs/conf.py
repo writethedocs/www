@@ -67,7 +67,7 @@ def on_source_read(app, docname, source):
 
 
 def setup(app):
-    app.connect("source-read", on_source_read)
+    # app.connect("source-read", on_source_read)
     app.add_stylesheet('writethedocs.css')
     app.connect('html-page-context', on_page_context)
 
