@@ -1,5 +1,5 @@
-Write the Docs Videos
-======================
+Conference Videos
+=================
 
 Every year at Write the Docs we film the talks,
 and release them for free on the internet.

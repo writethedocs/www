@@ -8,8 +8,7 @@
 Welcome to the Write the Docs Community
 =======================================
 
-**Write the Docs** is a series of conferences and local meetups focused
-on documentation systems, tech writing theory, and information delivery.
+**Write the Docs** is a series of conferences and local meetups focused on all things related to software documentation.
 
 We consider everyone who cares about communication, documentation, and
 their users to be a member of our community. This can be programmers,
@@ -17,7 +16,7 @@ tech writers, customer support, marketers, and anyone else who wants
 people to have great experiences with software.
 
 Our conferences create a time and a place for the global community of
-*documentarians* to share information, discuss ideas, and work together
+:doc:`documentarians` to share information, discuss ideas, and work together
 to improve the **art and science of documentation**.
 
 --------------
@@ -29,12 +28,12 @@ to improve the **art and science of documentation**.
 
    conf/index
    meetups
+   videos
 
 
 .. include:: /include/conf/current.rst
 
 
---------------
 
 Stay Connected
 --------------
@@ -46,13 +45,11 @@ We have mailing lists for our North American and European Conferences.
 They are low traffic,
 and only send information about the conferences and Write the Docs events in those areas.
 
-North America
-^^^^^^^^^^^^^
+*North America*
 
 .. include:: /include/na-mailchimp.rst
 
-Europe
-^^^^^^
+*Europe*
 
 .. include:: /include/na-mailchimp.rst
 
