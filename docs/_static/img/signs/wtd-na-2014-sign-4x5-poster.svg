@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4320"
+   height="5400"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="wtd-na-2014-sign-4x5-poster.svg">
+  <defs
+     id="defs4">
+    <marker
+       viewBox="0 0 10 10"
+       refY="5"
+       refX="10"
+       orient="auto"
+       markerWidth="4"
+       markerUnits="strokeWidth"
+       markerHeight="3"
+       id="ArrowStart">
+      <path
+         id="path1403"
+         d="M 10,0 0,5 10,10 z"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       viewBox="0 0 10 10"
+       refY="5"
+       refX="0"
+       orient="auto"
+       markerWidth="4"
+       markerUnits="strokeWidth"
+       markerHeight="3"
+       id="ArrowEnd">
+      <path
+         id="path1400"
+         d="M 0,0 10,5 0,10 z"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.04"
+     inkscape:cx="659.59424"
+     inkscape:cy="2525.6542"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="ft"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="704"
+     inkscape:window-x="21"
+     inkscape:window-y="43"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="1,0"
+       position="18.130345,246.73035"
+       id="guide3765" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="245.94208,232.54139"
+       id="guide3767" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="279.61797,56.70031"
+       id="guide3834" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,4347.638)">
+    <rect
+       style="fill:#fdedcc;fill-opacity:1"
+       y="-1525.1919"
+       x="0"
+       height="2577.554"
+       width="4320"
+       id="rect3787" />
+    <rect
+       id="rect2993"
+       width="4320"
+       height="2700"
+       x="0"
+       y="1647.6379"
+       style="fill:#363948;fill-opacity:1"
+       transform="scale(1,-1)" />
+    <g
+       id="g4113"
+       transform="matrix(1.025641,0,0,1.025641,-55.384615,80.347701)">
+      <text
+         transform="scale(0.99544416,1.0045767)"
+         sodipodi:linespacing="125%"
+         id="text2985"
+         y="-2971.5483"
+         x="358.23654"
+         style="font-size:1083.73498535px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2b33f;fill-opacity:1;stroke:none;font-family:Aleo;-inkscape-font-specification:Aleo Bold"
+         xml:space="preserve"><tspan
+           y="-2971.5483"
+           x="358.23654"
+           id="tspan2987"
+           sodipodi:role="line"><tspan
+             id="tspan3869"
+             style="fill:#ee6f44;fill-opacity:1">W</tspan><tspan
+             id="tspan3763"
+             style="font-size:1083.73498535px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#fdedcc;fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo Bold">RITE</tspan></tspan></text>
+      <text
+         transform="scale(0.99544416,1.0045767)"
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/Users/thoward/github/writethedocs/writethedocs.github.com/img/badges/wtd-eu-2014-badge-front-blank.png"
+         sodipodi:linespacing="125%"
+         id="text2989"
+         y="-2094.4326"
+         x="353.87317"
+         style="font-size:722.84265137px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aleo;-inkscape-font-specification:Aleo"
+         xml:space="preserve"><tspan
+           y="-2094.4326"
+           x="353.87317"
+           id="tspan2991"
+           sodipodi:role="line"><tspan
+             id="tspan3769"
+             style="font-size:722.84265137px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f1f1f1;fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo Light"><tspan
+               id="tspan4383"
+               style="fill:#fdedcc;fill-opacity:1">THE </tspan></tspan><tspan
+             id="tspan3785"
+             style="font-weight:bold;fill:#ee6f44;fill-opacity:1;-inkscape-font-specification:Aleo Bold">DOCS </tspan></tspan></text>
+    </g>
+    <rect
+       style="fill:#ee6f44;fill-opacity:1"
+       id="rect3789"
+       width="4320"
+       height="145.32114"
+       x="0"
+       y="-1657.9591" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="347.96902"
+       y="79.22509"
+       id="text3839"
+       sodipodi:linespacing="125%"
+       transform="translate(0,680.31495)"><tspan
+         sodipodi:role="line"
+         id="tspan3841"
+         x="347.96902"
+         y="79.22509" /></text>
+    <g
+       id="g4124"
+       transform="matrix(1.025641,0,0,1.025641,-55.384615,92.385751)">
+      <text
+         transform="scale(0.99544416,1.0045767)"
+         sodipodi:linespacing="125%"
+         id="text3775"
+         y="-870.7558"
+         x="359.12198"
+         style="font-size:494.07131958px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aleo;-inkscape-font-specification:Aleo"
+         xml:space="preserve"><tspan
+           y="-870.7558"
+           x="359.12198"
+           id="tspan3777"
+           sodipodi:role="line"><tspan
+             id="tspan3794"
+             style="fill:#363948;fill-opacity:1">PORTLAND</tspan><tspan
+             id="tspan3790"
+             style="fill:#ee6f44;fill-opacity:1"> 503</tspan></tspan></text>
+      <text
+         transform="scale(0.99544416,1.0045767)"
+         sodipodi:linespacing="125%"
+         id="text3779"
+         y="-49.501141"
+         x="356.73456"
+         style="font-size:852.7052002px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aleo;-inkscape-font-specification:Aleo"
+         xml:space="preserve"><tspan
+           y="-49.501141"
+           x="356.73456"
+           id="tspan3781"
+           sodipodi:role="line"><tspan
+             id="tspan3788"
+             style="fill:#ee6f44;fill-opacity:1">OR</tspan><tspan
+             id="tspan3796"
+             style="fill:#363948;fill-opacity:1">EGON</tspan></tspan></text>
+      <text
+         transform="scale(0.99544416,1.0045767)"
+         sodipodi:linespacing="125%"
+         id="text3783"
+         y="585.59747"
+         x="356.14343"
+         style="font-size:573.24621582px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aleo;-inkscape-font-specification:Aleo"
+         xml:space="preserve"><tspan
+           y="585.59747"
+           x="356.14343"
+           id="tspan3786"
+           sodipodi:role="line"><tspan
+             id="tspan3798"
+             style="fill:#363948;fill-opacity:1">MAY 5-6</tspan><tspan
+             id="tspan3792"
+             style="fill:#ee6f44;fill-opacity:1"> 2014</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

@@ -22,12 +22,14 @@ pygments_style = 'sphinx'
 
 html_theme = 'alabaster'
 html_theme_options = {
-     'show_related': True,
      'logo': 'sticker-wtd-colors.png',
-     'github_user': 'writethedocs',
-     'github_repo': 'www',
+     'github_button': False,
+     # 'show_related': True,
+     # 'github_user': 'writethedocs',
+     # 'github_repo': 'www',
 }
-html_title = 'Write the Docs Community'
+
+html_title = 'Write the Docs'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32

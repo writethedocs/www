@@ -5,8 +5,8 @@
    :author: Write The Docs
    :geo.placename: Portland, Oregon
 
-Write the Docs Community
-========================
+Welcome to the Write the Docs Community
+=======================================
 
 **Write the Docs** is a series of conferences and local meetups focused
 on documentation systems, tech writing theory, and information delivery.
@@ -33,6 +33,8 @@ to improve the **art and science of documentation**.
 
 .. include:: /include/conf/current.rst
 
+
+--------------
 
 Stay Connected
 --------------

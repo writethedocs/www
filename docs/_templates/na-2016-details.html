@@ -1,0 +1,44 @@
+{% extends "conf-base.html" %}
+
+{% block head_link %}
+  {{ super() }}
+  <link href="{{ pathto('_static/css/2015.main.css', 1) }}" rel="stylesheet" />
+{% endblock %}
+
+{% block container %}
+  <div class="hero hero-blog">
+    <div class="container">
+      <div class="row row-logo">
+        <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12">
+          <a href="/conf/na/2016/">
+            <img src="{{ pathto('_static/img/2015/email-logo.png', 1) }}" />
+          </a>
+        </div>
+      </div>
+      <div class="row row-nav">
+        <div class="hero-nav col-md-8 col-md-offset-2 col-sm-12">
+          <ul class="nav nav-pills nav-center">
+            <li><a href="/conf/na/2016/schedule/">Schedule</a></li>
+            <li><a href="/conf/na/2016/speakers/">Speakers</a></li>
+            <li></li>
+            <li><a href="/conf/na/2016/visiting/">Visiting</a></li>
+            <li><a href="/conf/na/2016/#sponsors">Sponsors</a></li>
+          </ul>
+          <ul class="nav nav-pills nav-center">
+            <li class="highlight"><a href="/conf/na/2016/schedule/">Buy a ticket. Have more fun!</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-content">
+          {% block body %}
+          {{ body }}
+          {% endblock body %}
+      </div>
+    </div>
+  </div>
+{% endblock %}
