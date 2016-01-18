@@ -39,6 +39,23 @@ to improve the **art and science of documentation**.
 Stay Connected
 --------------
 
+Mailing Lists
+~~~~~~~~~~~~~
+
+We have mailing lists for our North American and European Conferences.
+They are low traffic,
+and only send information about the conferences and Write the Docs events in those areas.
+
+North America
+^^^^^^^^^^^^^
+
+.. include:: /include/na-mailchimp.rst
+
+Europe
+^^^^^^
+
+.. include:: /include/na-mailchimp.rst
+
 Meetups
 ~~~~~~~
 

@@ -12,8 +12,8 @@ source_parsers = {
 source_suffix = ['.rst', '.md']
 master_doc = 'index'
 project = u'Write the Docs'
-copyright = u'2016, Eric Holscher & the Write the Docs Community'
-author = u'Eric Holscher & the Write the Docs Community'
+copyright = u'2016, The Write the Docs Community'
+author = u'The Write the Docs Community'
 version = '1.0'
 release = '1.0'
 language = 'en'
@@ -48,7 +48,7 @@ html_sidebars = {
 }
 
 def on_page_context(app, pagename, templatename, context, doctree):
-    if context is not None and 'meta' in context and 'template' in context.get('meta', {}):
+    if context and 'meta' in context and 'template' in context.get('meta', {}):
          return context['meta']['template']
 
 def setup(app):
