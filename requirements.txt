@@ -1,2 +1,1 @@
 sphinx==1.3.4
-sphinx-bootstrap-theme
