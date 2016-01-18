@@ -48,7 +48,7 @@ html_sidebars = {
 }
 
 def on_page_context(app, pagename, templatename, context, doctree):
-    if context and 'meta' in context and 'template' in context.get('meta', {}):
+    if context is not None and 'meta' in context and 'template' in context.get('meta', {}):
          return context['meta']['template']
 
 def setup(app):
