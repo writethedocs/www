@@ -51,7 +51,7 @@ and only send information about the conferences and Write the Docs events in tho
 
 *Europe*
 
-.. include:: /include/na-mailchimp.rst
+.. include:: /include/eu-mailchimp.rst
 
 Meetups
 ~~~~~~~
