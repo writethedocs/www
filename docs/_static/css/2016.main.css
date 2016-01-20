@@ -16,24 +16,47 @@ div.hero div.row.row-logo {
 }
 
 div.hero div.hero-logo {
-    float: left;
-    width: 45%;
-    text-align: right;
     background: #232321;
     color: #f2f0eb;
     vertical-align: center;
+    text-align: center;
 }
 
 div.hero div.hero-nav {
-    float: left;
-    width: 55%;
     text-align: left;
 }
 
 div.hero img {
     padding-top: 50px;
     padding-bottom: 50px;
-    height: 300px;
+    width: 100%;
+}
+
+@media only screen and (min-width : 300px) {
+    div.hero div.hero-logo {
+        text-align: right;
+        padding-right: 10%;
+    }
+
+    div.hero img {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        height: 300px;
+        width: auto;
+    }
+}
+
+@media only screen and (min-width : 768px) {
+    div.hero div.hero-logo {
+        float: left;
+        width: 45%;
+        padding-right: 0em;
+    }
+
+    div.hero div.hero-nav {
+        float: left;
+        width: 55%;
+    }
 }
 
 div.hero-nav {
