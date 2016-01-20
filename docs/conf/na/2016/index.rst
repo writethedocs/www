@@ -37,10 +37,8 @@ Can't wait?
 ^^^^^^^^^^^
 
 Check out the
-`videos <https://www.youtube.com/playlist?list=PLmV2D6sIiX3UkFCMqq5at0xYgsMqAr6Jf>`_,
-`notes <http://andrewspittle.com/tag/write-the-docs/>`_, and
-`photos <https://www.flickr.com/writethedocs>`_ from last year. We also
-have a `guide <http://docs.writethedocs.org/>`_ for getting started
+`videos <https://www.youtube.com/playlist?list=PLmV2D6sIiX3UkFCMqq5at0xYgsMqAr6Jf>`_ from last year to get an idea of what we're up to.
+We also have a `guide <http://docs.writethedocs.org/>`_ for getting started
 writing documentation.
 
 Tickets
