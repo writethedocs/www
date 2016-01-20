@@ -25,28 +25,24 @@
 
 {% block container %}
   <div class="hero hero-conf">
-    <div class="container">
-      <div class="row row-logo">
-        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-12">
-          <a href="/conf/eu/2016/">
-            <img src="{{ pathto('_static/img/2016/site-logo.png', 1) }}" />
-          </a>
-        </div>
-      </div>
-      <div class="row row-nav">
-        <div class="hero-nav col-md-8 col-md-offset-2 col-sm-12">
-          <ul class="nav nav-pills nav-center">
-            <li><a href="/conf/eu/2016/schedule/">Schedule</a></li>
-            <li><a href="/conf/eu/2016/speakers/">Speakers</a></li>
-            <li></li>
-            <li><a href="/conf/eu/2016/visiting/">Visiting</a></li>
-            <li><a href="/conf/eu/2016/#sponsors">Sponsors</a></li>
-          </ul>
-          <ul class="nav nav-pills nav-center">
-            <li class="highlight"><a href="/conf/eu/2016/schedule/">Buy a ticket. Have more fun!</a></li>
-          </ul>
-        </div>
-      </div>
+    <div class="hero-logo">
+      <a href="/conf/eu/2016/">
+        <img src="{{ pathto('_static/img/2016/site-logo.png', 1) }}" />
+      </a>
+    </div>
+    <div class="hero-nav">
+      <ul class="nav">
+        <li><a href="/conf/eu/2016/schedule/">Schedule</a></li>
+        <li><a href="/conf/eu/2016/speakers/">Speakers</a></li>
+        <li><a href="/conf/eu/2016/visiting/">Visiting</a></li>
+        <li><a href="/conf/eu/2016/#sponsors">Sponsors</a></li>
+      </ul>
+      <ul class="nav">
+        <li class="highlight"><a href="/conf/eu/2016/schedule/">Purchase Tickets</a></li>
+      </ul>
+      <p class="info">
+        September 18 - 20 in Prague, Czech Republic
+      </p>
     </div>
   </div>
 
