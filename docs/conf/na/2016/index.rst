@@ -18,7 +18,7 @@ The main presentation track takes place from **May 23-24 (Monday and
 Tuesday) from 9am to 6pm**. We will return to the historic `Crystal
 Ballroom <http://www.mcmenamins.com/CrystalBallroom>`_, `centrally
 located <http://goo.gl/maps/D2WrJ>`_ in the heart of Portland. During
-the main event we also run a :doc:`2016/unconference`,
+the main event we also run a :doc:`/conf/na/2016/unconference`,
 downstairs in Lola's Room.
 
 
