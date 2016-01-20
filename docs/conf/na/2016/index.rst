@@ -168,4 +168,3 @@ up for our mailing list:
 
 .. include:: /include/na-mailchimp.rst
 
-We hope you can join us!
