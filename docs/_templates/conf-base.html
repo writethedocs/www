@@ -77,32 +77,16 @@
   </head>
   <body>
 
-  <div class="navbar navbar-default navbar-static" role="navigation">
-  <div class="container">
-
-    <div class="navbar-header">
-      <a class="navbar-brand" href="../../..">Write the Docs</a>
-    </div>
-
-    <ul class="nav navbar-nav">
-      <li><a href="{{ pathto('conf/index') }}">Conferences</a></li>
-      <li><a href="{{ pathto('/meetups/index') }}">Meetups</a></li>
-      <li><a href="http://forum.writethedocs.org/">Forum</a></li>
-      <li><a href="http://slack.writethedocs.org/">Slack</a></li>
-      <li><a href="http://docs.writethedocs.org/">Guide</a></li>
-    </ul>
-
-    <ul class="nav navbar-nav navbar-right">
-    </ul>
-
-  </div>
-</div>
-<br>
+  {% include "conf-nav.html" %}
 
     {% block container %}
     {% endblock %}
 
     {% if include_search %}{% include "search.html" %}{% endif %}
+
+  {% include "footer.html" %}
+
   </body>
+
 </html>
 
