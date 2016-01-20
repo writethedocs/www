@@ -1,4 +1,4 @@
-:template: na-2016.html
+:template: 2016/na.html
 
 About
 =====
