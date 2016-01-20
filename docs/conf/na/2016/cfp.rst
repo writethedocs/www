@@ -1,4 +1,4 @@
-:template: na-2016-details.html
+:template: 2016/na-details.html
 
 CALL FOR PROPOSALS
 ------------------

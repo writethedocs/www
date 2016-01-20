@@ -1,4 +1,4 @@
-:template: eu-2015.html
+:template: 2015/eu.html
 
 Thanks
 ======

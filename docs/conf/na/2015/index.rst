@@ -1,4 +1,4 @@
-:template: na-2015.html
+:template: 2015/na.html
 
 Write the Docs NA 2015
 ======================
