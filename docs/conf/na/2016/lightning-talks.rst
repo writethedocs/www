@@ -1,4 +1,4 @@
-:template: 2016/na-details.html
+:template: 2016/na.html
 
 Lightning Talks
 ~~~~~~~~~~~~~~~
