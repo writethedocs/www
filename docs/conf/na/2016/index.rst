@@ -51,11 +51,13 @@ wait to purchase.
 
 .. raw:: html
 
+   <br>
    <form method="GET" action="https://ti.to/writethedocs/write-the-docs-na-2016">
    <button name="_" id="button-tito-writethedocs-write-the-docs-na-2016-1">
    Buy Tickets
    </button>
    </form>
+   <br>
 
 
 Ticket includes:
