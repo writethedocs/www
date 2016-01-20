@@ -4,10 +4,10 @@ About
 =====
 
 Join 400 people for a three-day event to explore the art and science of
-documentation. You can look forward to learning more about documentation
-systems, tech writing theory, information delivery, and more. Past talks
-have also covered such diverse topics as typography, empathy, and
-`Wabi-sabi <http://en.wikipedia.org/wiki/Wabi-sabi>`_.
+documentation. The conference covers any topic related to documentation
+in the software industry. Past talks
+have also covered such diverse topics as empathy, the history of math symbols,
+and using emoji to keep your users attention.
 
 Write the Docs brings *everyone* who writes the docs together in the
 same room: Writers, Developers, Support Folks. We all have things to
