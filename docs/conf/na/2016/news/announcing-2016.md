@@ -1,3 +1,5 @@
+:template: 2016/na.html
+
 # Date Announcement for NA 2016
 
 Hello, good people of the Write The Docs community! We are delighted to announce that we’ve locked in dates for our next conference. 

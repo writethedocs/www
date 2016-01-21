@@ -53,6 +53,14 @@ html_sidebars = {
 
 
 def on_page_context(app, pagename, templatename, context, doctree):
+    # Markdown
+    if 'page_source_suffix' in context and context['page_source_suffix'] == '.md':
+        txt = doctree[0].astext()
+        if txt.startswith(':template:'):
+            import ipdb; ipdb.set_trace()
+            context['body'] = context['body'].replace(txt, '')
+            return txt.split(':')[2].strip()
+    # Sphinx
     if context and 'meta' in context and 'template' in context.get('meta', {}):
         return context['meta']['template']
 
