@@ -1,4 +1,4 @@
-template: 2015/eu/details.html
+:template: 2015/eu.html
 
 # Speakers
 

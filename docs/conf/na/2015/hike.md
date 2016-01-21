@@ -1,4 +1,4 @@
-template: 2015/na/details.html
+:template: 2015/na.html
 
 
 Write the Docs Hike

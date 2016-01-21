@@ -1,4 +1,5 @@
-template: 2015/na/blog.html
+:template: 2015/na.html
+
 
 Conference sells out, Schedule Details, and Party Venue
 =======================================================

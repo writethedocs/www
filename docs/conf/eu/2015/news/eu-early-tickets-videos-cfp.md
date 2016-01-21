@@ -1,4 +1,4 @@
-template: 2015/eu/blog.html
+:template: 2015/eu.html
 
 # Early-Bird Tickets Sell Out, Videos, and Proposal Reminder
 

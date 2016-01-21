@@ -1,4 +1,4 @@
-template: 2015/eu/blog.html
+:template: 2015/eu.html
 
 # Announcing Presentations, Speakers, and Schedule
 

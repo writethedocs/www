@@ -1,4 +1,5 @@
-template: 2015/na/blog.html
+:template: 2015/na.html
+
 
 # Check out the Videos, Forum, Local Meetups, and European Call for Proposals
 

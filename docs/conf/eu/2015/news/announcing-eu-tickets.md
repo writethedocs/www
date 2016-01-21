@@ -1,4 +1,4 @@
-template: 2015/eu/blog.html
+:template: 2015/eu.html
 
 # Announcing Ticket Sales and Extended Call for Proposals
 

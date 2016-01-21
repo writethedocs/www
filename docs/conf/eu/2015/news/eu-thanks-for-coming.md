@@ -1,4 +1,4 @@
-template: 2015/eu/blog.html
+:template: 2015/eu.html
 
 Thanks for coming to Write the Docs Europe 2015
 ===============================================

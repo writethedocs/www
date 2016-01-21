@@ -1,4 +1,5 @@
-template: 2015/na/blog.html
+:template: 2015/na.html
+
 
 Welcome to Write the Docs
 =========================
