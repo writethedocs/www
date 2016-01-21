@@ -57,7 +57,7 @@ Meetups
 ~~~~~~~
 
 We have meetups in multiple cities every month. The `Meetups
-page <meetups.md>`__ has more information.
+page :doc:`meetups/index` has more information.
 
 Forum
 ~~~~~
