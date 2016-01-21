@@ -56,8 +56,8 @@ and only send information about the conferences and Write the Docs events in tho
 Meetups
 ~~~~~~~
 
-We have meetups in multiple cities every month. The `Meetups
-page :doc:`meetups/index` has more information.
+We have meetups in multiple cities every month. 
+The :doc:`/meetups/index` page has more information.
 
 Forum
 ~~~~~
