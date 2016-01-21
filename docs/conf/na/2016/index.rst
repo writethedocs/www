@@ -154,7 +154,7 @@ companies:
       <!-- Patron -->
       <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
         <a href="http://google.com/">
-        <img src="/_static/img/2016/sponsors/google.svg" width=400/></a>
+        <img src="/_static/img/2016/sponsors/google.png" width=400/></a>
       </div>
 
       <!-- Editor -->
