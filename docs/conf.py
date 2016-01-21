@@ -62,7 +62,7 @@ def on_page_context(app, pagename, templatename, context, doctree):
             context['body'] = context['body'].replace(txt, '')
             return txt.split(':')[2].strip()
     # Sphinx
-    try:
+    try:  # Sphinx was throwing a weird error here, and this is a workaround
         if (context and
                 'meta' in context and
                 'template' in context.get('meta', {})):
