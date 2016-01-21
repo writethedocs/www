@@ -17,12 +17,6 @@ and talking.
 The main presentation track takes place from **September 19-20 (Monday and
 Tuesday) from 9am to 6pm**. 
 
-.. image:: https://farm8.staticflickr.com/7443/14198154853_0cddd983b6_c.jpg
-   :width: 49%
-
-.. image:: https://farm8.staticflickr.com/7369/13991334230_27e72622c2_c.jpg
-   :width: 49%
-
 News
 ^^^^
 
