@@ -122,17 +122,15 @@ bunch of events so that people can join together, collaborate, and learn
 from each other.
 
 This year, we have events planned all day on Sunday, the day before the
-conference, and our annual `hike </conf/na/2016/hike/>`__ will take
-place on Saturday afternoon. Our Sunday events include our `Writing
-Day </conf/na/2016/writing-day/>`__ documentation sprints during the
+conference, and our annual hike will take
+place on Saturday afternoon. Our Sunday events include our Writing
+Day documentation sprints during the
 day, and our conference reception in the evening.
 
 The main conference event will be held May 18-19th, during the day. We
-will be holding `unconference </conf/na/2016/unconference/>`__ sessions
+will be holding unconference sessions
 after lunch both days of the events, downstairs from the main stage, in
-Lola's Room. Everyone is welcome to join in on the unconference, `learn
-more about the unconference </conf/na/2016/unconference/>`__ if you
-would like to lead a session.
+Lola's Room. Everyone is welcome and encouraged to join in on the unconference.
 
 .. image:: https://farm8.staticflickr.com/7405/14151984286_d33a8a8d3d_c.jpg
    :width: 49%
@@ -150,7 +148,21 @@ information on sponsoring Write the Docs.
 This year's conference is graciously brought to you by the following
 companies:
 
-* Google
+.. raw:: html
+
+    <div class="row row-sponsors">
+      <!-- Patron -->
+      <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+        <a href="http://google.com/">
+        <img src="/_static/img/2016/sponsors/google.svg" width=400/></a>
+      </div>
+
+      <!-- Editor -->
+      <div class="col-md-6 col-sm-6">
+        <a href="https://github.com">
+        <img src="/_static/img/2016/sponsors/github.png" width=200/></a>
+      </div>
+   </div>
 
 Organizers
 ----------
