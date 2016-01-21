@@ -22,11 +22,13 @@ the main event we also run a :doc:`/conf/na/2016/unconference`,
 downstairs in Lola's Room.
 
 
-.. image:: https://farm8.staticflickr.com/7443/14198154853_0cddd983b6_c.jpg
+.. image:: https://farm6.staticflickr.com/5514/14151785456_4d42119c9f_c.jpg
    :width: 49%
+   :height: 200px
 
 .. image:: https://farm8.staticflickr.com/7369/13991334230_27e72622c2_c.jpg
    :width: 49%
+   :height: 200px
 
 News
 ^^^^
@@ -132,10 +134,10 @@ Lola's Room. Everyone is welcome to join in on the unconference, `learn
 more about the unconference </conf/na/2016/unconference/>`__ if you
 would like to lead a session.
 
-.. image:: https://farm8.staticflickr.com/7359/14171848131_734e95d87d_c.jpg
+.. image:: https://farm8.staticflickr.com/7405/14151984286_d33a8a8d3d_c.jpg
    :width: 49%
 
-.. image:: https://farm8.staticflickr.com/7437/14175146165_f6d22c5c3b_c.jpg
+.. image:: https://farm8.staticflickr.com/7344/14174678071_7d0841e8a3_c.jpg
    :width: 49%
 
 Sponsors
