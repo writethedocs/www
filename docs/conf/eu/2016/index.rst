@@ -26,7 +26,7 @@ Tuesday) from 9am to 6pm**.
 News
 ^^^^
 
-- :doc:`/conf/eu/2016/news/announcing-2016`
+No news yet. We'll have something for ya soon :)
 
 Can't wait?
 ^^^^^^^^^^^
