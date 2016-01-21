@@ -32,15 +32,9 @@ html_theme_options = {
     # 'github_repo': 'www',
 }
 
+html_favicon = '_static/img/favicon.ico'
 html_title = 'Write the Docs'
-
-# The name of an image file (within the static path) to use as favicon of the
-# docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
-# pixels large.
-# html_favicon = None
-
 html_static_path = ['_static']
-
 html_sidebars = {
     '**': [
         'about.html',
