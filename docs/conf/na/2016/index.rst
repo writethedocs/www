@@ -1,9 +1,9 @@
 :template: 2016/na.html
 
-About
-=====
+About the conference
+====================
 
-We invite you to join 400 people for a three-day event to explore the art and science of
+We invite you to join 400 other folks for a three-day event to explore the art and science of
 documentation. The conference covers any topic related to documentation
 in the software industry. Past talks
 have also covered such diverse topics as empathy, the history of math symbols,
