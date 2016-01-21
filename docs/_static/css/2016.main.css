@@ -194,6 +194,12 @@ div.footer span {
     padding: 0em .4em;
 }
 
+/* Header */
+
+div.header {
+    background: #fff;
+}
+
 /* Common elements and boostrap classes */
 #button-tito-writethedocs-write-the-docs-na-2015-1 {
     margin: 0em 0em 1em 0em;

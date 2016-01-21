@@ -271,3 +271,15 @@ div.row-sponsors > div {
 div.injected {
     display: none;
 }
+
+
+a.headerlink {
+    text-decoration: none;
+    font-size: .75em;
+    line-height: 1.5em;
+}
+
+a.headerlink:link,
+a.headerlink:visited,
+a.headerlink:active { display: none; }
+a.headerlink:hover { color: #bbc; }

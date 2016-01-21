@@ -27,7 +27,7 @@ to improve the **art and science of documentation**.
    :maxdepth: 1
 
    conf/index
-   meetups
+   meetups/index
    videos
 
 
