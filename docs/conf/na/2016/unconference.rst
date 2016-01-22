@@ -51,11 +51,7 @@ unconference track each day, simply post your talk topic on the board if
 you would like to speak.
 
 The first chance you will get to post your presentation is on Sunday, at
-our Writing Day event and preregistration party. Come down to our base
-of operations on Sunday, `Centrl Office <https://goo.gl/maps/xljmU>`__,
-at any time during the day to get your badge, meet with fellow community
-members, and discuss topics for unconference sessions.
-
+our Writing Day event and preregistration party. 
 If you don't make it to the Writing Day event or preregistration party,
 be sure to head to Lola's Room when you first arrive at the conference
 to post your topic.
@@ -69,16 +65,3 @@ Sessions
 Unconference sessions will begin after lunch both days, running until
 the end of the day. We will start the unconference sessions off each day
 with some time for focus on one of several topics:
-
--  **Documentation and Open Source Software** - Writing documentation
-   for open source projects, or using open source tools for your
-   documentation
--  **User Experience** - Making your documentation more usable, or
-   exploring how readers use your documentation
--  **Tools** - API reference generation tools, authoring tools, or tools
-   for using documentation
--  **Journalism** - We have the delightful people from OpenNews with us.
-   Let's talk about this other delightful form of written communication.
-
-Following these topics, we will open up the floor to topics, and will
-continue with unstructured content until the end of the day.
