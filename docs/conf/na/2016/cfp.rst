@@ -72,7 +72,9 @@ spirit of Write the Docs:
 -  Heidi Waterhouse --- The New Sheriff in Town: Bringing documentation
    out of chaos
    (`abstract <http://docs.writethedocs.org/2014/na/talks/#heidi-waterhouse-the-new-sheriff-in-town-bringing-documentation-out-of-chaos>`__)
-   ## PRESENTATION FORMAT
+
+PRESENTATION FORMAT
+-------------------
 
 Presentations will be 30 minutes long. If you have specific length needs
 for your presentation, let us know and we can work with it.
