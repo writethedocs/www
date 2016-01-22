@@ -86,8 +86,8 @@ travel or lodging for speakers at this time. By not covering travel
 costs for our speakers, we are able to keep ticket prices low and to
 make the conference accessible to the largest number of participants
 possible. If your proposal is accepted but you are unable to attend due
-to travel costs, however, please let us know and we will do what we can
-to help out.
+to travel costs, however, please let us know and we will make sure you 
+can make it.
 
 Speaking at Write the Docs is a fantastic way to participate in the
 conference. Additionally, all those who submit a proposal but are not
