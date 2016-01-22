@@ -10,6 +10,12 @@ nav.navbar {
     margin-bottom: 0px;
 }
 
+div.navbar > div.container {
+    width: 700px ;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* Hero */
 div.hero div.row.row-logo {
     padding: 0em;
