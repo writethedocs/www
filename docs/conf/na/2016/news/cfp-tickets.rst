@@ -3,7 +3,8 @@
 Announcing Ticket Sales and Call for Proposals
 ==============================================
 
-The conference is four months away and we hope you're getting excited!
+`Write the Docs NA 2016 <http://www.writethedocs.org/conf/na/2016/>`_ 
+is four months away and we hope you're getting excited!
 It will be another wonderful year full of great conversation and
 wonderful talks.
 
