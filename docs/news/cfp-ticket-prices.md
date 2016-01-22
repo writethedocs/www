@@ -1,4 +1,4 @@
-template: 2015/na/blog.html
+:template: 2015/na.html
 
 # Announcing Call for Proposals and Ticket Sales
 

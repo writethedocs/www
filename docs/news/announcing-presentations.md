@@ -1,4 +1,4 @@
-template: 2015/na/blog.html
+:template: 2015/na.html
 
 # Announcing Presentations and Speakers
 
