@@ -40,7 +40,7 @@ Can't wait?
 ^^^^^^^^^^^
 
 Check out the
-`videos <https://www.youtube.com/playlist?list=PLmV2D6sIiX3UkFCMqq5at0xYgsMqAr6Jf>`_ from last year to get an idea of what we're up to.
+`videos <https://www.youtube.com/playlist?list=PLmV2D6sIiX3UW1kPWlhzyo4lr6e3US6re>`_ from last year to get an idea of what we're up to.
 We also have a `guide <http://docs.writethedocs.org/>`_ for getting started
 writing documentation.
 
@@ -128,7 +128,7 @@ place on Saturday afternoon. Our Sunday events include our Writing
 Day documentation sprints during the
 day, and our conference reception in the evening.
 
-The main conference event will be held May 18-19th, during the day. We
+The main conference event will be held May 23-24th, during the day. We
 will be holding unconference sessions
 after lunch both days of the events, downstairs from the main stage, in
 Lola's Room. Everyone is welcome and encouraged to join in on the unconference.
@@ -143,7 +143,7 @@ Sponsors
 --------
 
 We are seeking corporate partners to help us create the best conference
-possible. Contact us at sponsorships@writethedocs.org for more
+possible. Contact us at sponsorship@writethedocs.org for more
 information on sponsoring Write the Docs.
 
 This year's conference is graciously brought to you by the following
