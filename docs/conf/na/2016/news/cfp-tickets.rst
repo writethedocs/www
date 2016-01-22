@@ -67,8 +67,6 @@ don't currently have a source of income.
 Call for Proposals
 ------------------
 
-The Call for Proposals will be open until **Febuary 29** this year.
-
 Although the general focus of Write the Docs is on documentation,
 there's a strong emphasis on the software industry. Within that thematic
 scope, we love having wide-ranging content that will stretch people in
@@ -91,6 +89,7 @@ an organizational priority.
 
 You can read our full `Call for
 Proposals <http://www.writethedocs.org/conf/na/2016/cfp/>`__ on the website.
+The Call for Proposals will be open until **Febuary 29** this year.
 
 Sponsors
 --------
