@@ -75,7 +75,7 @@ Documenting a new project?
 Check out our `beginners
 guide <http://docs.writethedocs.org/writing/beginners-guide-to-docs/>`__
 to writing documentation. This should help you get started, and give you
-some ideas for how you can contribute to a projet that you love.
+some ideas for how you can contribute to a project that you love.
 
 Projects
 ^^^^^^^^

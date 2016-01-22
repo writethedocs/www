@@ -17,7 +17,7 @@ Let us know how we can improve for future conferences and gatherings. We really 
 
 ## Speak or Sponsor in Europe
 
-Don't forget we have our European conference this year in Prague! The Call for Proposals is still open, and has been extended until June 15. We heard a lot of people excited about submitting, and worried about the dealdine, so we've pushed it back to give you a bit more time. 
+Don't forget we have our European conference this year in Prague! The Call for Proposals is still open, and has been extended until June 15. We heard a lot of people excited about submitting, and worried about the deadline, so we've pushed it back to give you a bit more time. 
 
 We're also looking for more sponsors to make the event just as magical as this year's Portland event. If you are curious about sponsoring EU or NA again next year,
 please contact us at [sponsorships@writethedocs.org](mailto:sponsorships@writethedocs.org).

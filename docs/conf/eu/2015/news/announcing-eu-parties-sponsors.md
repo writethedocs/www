@@ -6,7 +6,7 @@ We're nearly one month away from our Prague conference, and we're happy to share
 
 ### Main Conference Party - Monday Night (Aug 31)
 
-Our main conference party is confirmed to be held at [The PUB Praha 1][the-pub], located 400m from the main conference venue. Join us from 7pm to relax and chat with fellow attendees about the conference day. Free drinks of all variaties (soft, still, alcoholic) as well as snacks and sweets will be provided. 
+Our main conference party is confirmed to be held at [The PUB Praha 1][the-pub], located 400m from the main conference venue. Join us from 7pm to relax and chat with fellow attendees about the conference day. Free drinks of all varieties (soft, still, alcoholic) as well as snacks and sweets will be provided.
 
 [the-pub]: http://www.thepub.cz/praha-1/?lng=en
 

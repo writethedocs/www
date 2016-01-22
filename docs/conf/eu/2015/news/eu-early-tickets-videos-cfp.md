@@ -19,7 +19,7 @@ share your experiences with us. We will be announcing the conference program on 
 
 ## Early-Bird Tickets Sold Out
 
-Both corporate and independent early-birt tickets have sold out. 
+Both corporate and independent early-bird tickets have sold out. 
 Thanks to everyone who has already purchased a ticket. Regular independent
 and corporate tickets are now available. 
 

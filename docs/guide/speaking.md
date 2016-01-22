@@ -44,7 +44,7 @@ ready for your presentation. Be familiar with setting up an external display on
 your machine, each presenter will have several minutes for set up before the
 talk starts.
 
-In case you missed it last year, Christina Elmore gave a great talk that is relevent to many of us.
+In case you missed it last year, Christina Elmore gave a great talk that is relevant to many of us.
 Resist your urge to document with your presentation,
 you are here for the room.
 We highly recommend watching the full talk:

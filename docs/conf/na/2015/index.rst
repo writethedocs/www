@@ -219,7 +219,7 @@ Speakers
         <h3>
           Garen Torikian
           <span class="speaker-details">
-            Github&nbsp;&mdash;&nbsp;
+            GitHub&nbsp;&mdash;&nbsp;
             <a href="https://twitter.com/gjtorikian">@gjtorikian</a>
           </span>
         </h3>

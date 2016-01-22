@@ -289,7 +289,7 @@ template: 2015/na/details.html
     <h3>
       Garen Torikian
       <span class="speaker-details">
-        Github&nbsp;&mdash;&nbsp;
+        GitHub&nbsp;&mdash;&nbsp;
         <a href="https://twitter.com/gjtorikian">@gjtorikian</a>
       </span>
     </h3>
@@ -552,8 +552,8 @@ template: 2015/na/details.html
       representation and improvements in structure. This discussion is partly
       inspired by Bret Victor’s observation that the most influential
       breakthroughs in the history of mathematics were actually breakthroughs
-      in “UI design”, for example the invention of arabic numerals (0, 1, 2,
-      3,...) as a replacement for clunky roman numerals (I, II, III, IV…).
+      in “UI design”, for example the invention of Arabic numerals (0, 1, 2,
+      3,...) as a replacement for clunky Roman numerals (I, II, III, IV…).
     </p>
     <p>
       Proofs and rigorous documentation empower their readers to greater
