@@ -44,13 +44,9 @@ written words.
 We'll be creating and editing content, so make sure that you have the
 tools you need to contribute.
 
--  Date & Time: **Sunday, May 17th, 9am-6pm**, with the conference
+-  Date & Time: **Sunday, May 22th, 9am-6pm**, with the conference
    opening reception in the same space until 9, so feel free to keep
    working longer!
--  Venue: CENTRL Office - 1355 NW Everett St.
-   `Map <https://goo.gl/maps/xljmU>`__
--  Sustenance: Mozilla will provide food and drinks throughout the day
-   so that you can focus on *Getting Stuff Done*.
 
 Schedule
 ^^^^^^^^
@@ -83,31 +79,7 @@ Projects
 We have some suggestions for projects that you can work on during the
 Writing Day. If you'd like to add your own project to the list, you can
 `email us <mailto:conf@writethedocs.org>`__. Better yet, `submit a pull
-request <https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/writing-day.md>`__.
-
-`Open News <http://opennews.org/blog/code-convening-wtd/>`__
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
-The Open News team has multiple open source journalism projects whose
-documentation could use some expert love. Help improve the docs on some
-amazing code that helps people understand the news everyday.
-
-Check out the `full
-list <https://docs.google.com/document/d/1S8D_757jFZEE0GLc-1eXUyqbuQ7Km5GkKMHIjK6NxoI/edit?usp=sharing>`__
-of Open News projects that will be worked on.
-
-`Mozilla Developer Network <https://developer.mozilla.org/en-US/>`__
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
-Help document the internet. Mozilla always needs more people to create,
-edit, and translate content, so we can do more to help make the internet
-more approachable.
-
-`WordPress <https://wordpress.org/>`__
-''''''''''''''''''''''''''''''''''''''
-
-WordPress powers a large portion of the internet. Help write the docs
-that help people set it up and use it.
+request <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/writing-day.rst>`__.
 
 `Write the Docs Website <http://www.writethedocs.org>`__
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''
@@ -121,35 +93,6 @@ it more friendly in general. Remember, you *are* the community.
 
 A guide to writing documentation. Help us make this guide great for
 people who want to write docs, but don't know where to start.
-
-RAML-based API generator
-''''''''''''''''''''''''
-
-I’m working on the API Reference for a new web service. I have all of
-the APIs defined in a RAML file, which also allows me to use the same
-source to generate the documentation. Ideally, I’d also like to make the
-API reference interactive. As examples, see
-http://developer.wordnik.com/docs.html#!/account,
-https://support.3scale.net/reference/active-docs or
-http://developer.marvel.com/docs.
-
-Let's work together to make this happen at the Writing Day!
-
-NodeSchool Workshops/Events Docs
-''''''''''''''''''''''''''''''''
-
-There are around 30 `NodeSchool <http://nodeschool.io/>`__ tutorials,
-and each one is it's own special snowflake. They are also viewed in the
-terminal, which isn't the most user friendly way to read docs. We want
-to figure some nice ways to write docs that can work in both the CLI as
-well as on the web. One example of a workshop that has done this is
-``git-it`` which generates `this HTML
-guide <http://jlord.us/git-it/>`__.
-
-Also there is a `NodeSchool International
-Day <http://nodeschool.io/international-day/>`__ event coming up with
-events in 30+ cities and we wanna write a Guide for Organizers and a
-Guide for Attendees so they can get the most out of their events.
 
 Your Project Here
 '''''''''''''''''
