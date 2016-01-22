@@ -9,9 +9,10 @@ wonderful talks.
 
 Today we are announcing our Call for Proposals and ticket sales.
 Speaking at Write the Docs is a fantastic way to share your ideas with
-our wonderful community of documentarians. If there is something you'd
-really like to see a talk on this year, perhaps you should suggest it
-yourself.
+our wonderful community of documentarians. 
+If there is something you'd really like to see a talk on this year,
+submit a talk on it,
+or refer someone else who would be good!
 
 Tickets
 -------
@@ -35,7 +36,7 @@ As with the previous years, we have tiered pricing to make it fair for
 everyone. Please buy the ticket that best fits your situation.
 
 Tickets are **on sale now**. `Buy them
-now <http://www.writethedocs.org/conf/na/2016/#tickets>`__.
+now <http://www.writethedocs.org/conf/na/2016/#tickets>`_.
 
 Corporate Tickets
 ^^^^^^^^^^^^^^^^^
