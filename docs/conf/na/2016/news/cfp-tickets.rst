@@ -67,29 +67,13 @@ don't currently have a source of income.
 Call for Proposals
 ------------------
 
-Although the general focus of Write the Docs is on documentation,
-there's a strong emphasis on the software industry. Within that thematic
-scope, we love having wide-ranging content that will stretch people in
-new directions.
-
-Some of our favorite talks are ones that make people see the world in a
-new way. Teaching entirely new ideas to others can be magical, and we
-are always delighted with the breadth of knowledge that our community
-brings together.
-
-We love talks that deliver hard-earned knowledge based on real-world
-experience and research. Whether it's a story about spreading the
-documentarian gospel in your company or tips and tricks for writing that
-you've learned, come share it with people who are eager to know.
-
-We believe that tech writing and documentation don't always get the
-respect and consideration they deserve. Come share the problems with
-documentation your company overcame, or how you ensure documentation is
-an organizational priority.
+Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you’ve been writing documentation for decades or you’ve just started this year, we want to hear from you!
 
 You can read our full `Call for
 Proposals <http://www.writethedocs.org/conf/na/2016/cfp/>`__ on the website.
 The Call for Proposals will be open until **Febuary 29** this year.
+Since Febuary has 29 days this year,
+you get an extra day to submit your proposals :)
 
 Sponsors
 --------
