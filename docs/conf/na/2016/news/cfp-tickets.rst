@@ -1,6 +1,6 @@
 :template: 2016/na.html
 
-Announcing Call for Proposals and Ticket Sales
+Announcing Ticket Sales and Call for Proposals
 ==============================================
 
 The conference is four months away and we hope you're getting excited!
@@ -87,7 +87,7 @@ documentation your company overcame, or how you ensure documentation is
 an organizational priority.
 
 You can read our full `Call for
-Proposals <http://www.writethedocs.org/conf/na/cfp/>`__ on the website.
+Proposals <http://www.writethedocs.org/conf/na/2016/cfp/>`__ on the website.
 
 Sponsors
 --------
