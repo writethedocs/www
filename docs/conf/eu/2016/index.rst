@@ -15,7 +15,7 @@ learn from each other, and there's no better way than sitting together
 and talking.
 
 The main presentation track takes place from **September 19-20 (Monday and
-Tuesday) from 9am to 6pm**. 
+Tuesday) from 9am to 6pm**.
 
 .. image:: https://farm8.staticflickr.com/7443/14198154853_0cddd983b6_c.jpg
    :width: 49%
@@ -26,7 +26,9 @@ Tuesday) from 9am to 6pm**.
 News
 ^^^^
 
-- :doc:`/conf/eu/2016/news/announcing-2016`
+There will be news SOON. 
+
+.. - :doc:`/conf/eu/2016/news/announcing-2016`
 
 Can't wait?
 ^^^^^^^^^^^
@@ -114,7 +116,7 @@ information on sponsoring Write the Docs.
 Organizers
 ----------
 
-Write the Docs is put on by the following lovely group of folks:
+Write the Docs EU is put on by the following lovely group of folks:
 
 -  `Mikey Ariel <https://twitter.com/thatdocslady>`__
 -  `Samuel Wright <https://twitter.com/plaindocs>`__
@@ -142,4 +144,3 @@ up for our mailing list:
    </div>
    </form>
    </div>
-
