@@ -170,10 +170,11 @@ Organizers
 
 Write the Docs is put on by the following lovely group of folks:
 
--  `Kelly O'Brien <https://twitter.com/OBrienEditorial>`__
--  `Jennifer Rondeau <https://twitter.com/bradamante>`__
--  `Eric Holscher <https://twitter.com/ericholscher>`__
--  `Troy Howard <https://twitter.com/thoward37>`__
+-  `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
+-  `Jennifer Rondeau <https://twitter.com/bradamante>`_
+-  `Eric Holscher <https://twitter.com/ericholscher>`_
+-  `Adrienne Lowe <https://twitter.com/adriennefriend>`_
+-  `Troy Howard <https://twitter.com/thoward37>`_
 
 Contact Us
 ----------
