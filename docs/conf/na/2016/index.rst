@@ -168,7 +168,7 @@ companies:
 Organizers
 ----------
 
-Write the Docs is put on by the following lovely group of folks:
+Write the Docs NA is put on by the following lovely group of folks:
 
 -  `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
 -  `Jennifer Rondeau <https://twitter.com/bradamante>`_
