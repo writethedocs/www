@@ -15,12 +15,14 @@ learn from each other, and there's no better way than sitting together
 and talking.
 
 The main presentation track takes place from **September 19-20 (Monday and
-Tuesday) from 9am to 6pm**. 
+Tuesday) from 9am to 6pm**.
 
 News
 ^^^^
 
-No news yet. We'll have something for ya soon :)
+There will be news SOON. 
+
+.. - :doc:`/conf/eu/2016/news/announcing-2016`
 
 Can't wait?
 ^^^^^^^^^^^
@@ -108,7 +110,7 @@ information on sponsoring Write the Docs.
 Organizers
 ----------
 
-Write the Docs is put on by the following lovely group of folks:
+Write the Docs EU is put on by the following lovely group of folks:
 
 -  `Mikey Ariel <https://twitter.com/thatdocslady>`__
 -  `Samuel Wright <https://twitter.com/plaindocs>`__
