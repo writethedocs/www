@@ -15,9 +15,10 @@ improve the art and science of documentation.
 .. toctree::
    :hidden:
 
-   na/2016
-   na/2015
-   eu/2015
+   na/2016/index
+   eu/2015/index
+   na/2015/index
+   eu/2015/index
 
 .. include:: /include/conf/current.rst
 

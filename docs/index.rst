@@ -22,13 +22,25 @@ to improve the **art and science of documentation**.
 --------------
 
 .. toctree::
-   :hidden:
    :glob:
    :maxdepth: 1
 
    conf/index
    meetups/index
    videos
+
+.. toctree::
+   :hidden:
+   :glob:
+   :maxdepth: 1
+
+   *
+   conf/*
+   news/*
+   conf/na/*/*
+   conf/na/*/*/*
+   conf/eu/*/*
+   conf/eu/*/*/*
 
 
 .. include:: /include/conf/current.rst
