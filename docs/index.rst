@@ -21,28 +21,6 @@ to improve the **art and science of documentation**.
 
 --------------
 
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   conf/index
-   meetups/index
-   videos
-
-.. toctree::
-   :hidden:
-   :glob:
-   :maxdepth: 1
-
-   *
-   conf/*
-   news/*
-   conf/na/*/*
-   conf/na/*/*/*
-   conf/eu/*/*
-   conf/eu/*/*/*
-
-
 .. include:: /include/conf/current.rst
 
 
@@ -87,3 +65,29 @@ Contact Us
 
 Have any questions, concerns, or comments about our work? Feel free to
 reach out at hello@writethedocs.org.
+
+Site Contents
+-------------
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+
+   conf/index
+   meetups/index
+   videos
+
+.. toctree::
+   :hidden:
+   :glob:
+   :maxdepth: 1
+
+   *
+   conf/*
+   news/*
+   conf/na/*/*
+   conf/na/*/*/*
+   conf/eu/*/*
+   conf/eu/*/*/*
+
+
