@@ -27,6 +27,7 @@ html_theme = 'alabaster'
 html_theme_options = {
     'logo': 'sticker-wtd-colors.png',
     'github_button': False,
+    'sidebar_includehidden': False,
     # 'show_related': True,
     # 'github_user': 'writethedocs',
     # 'github_repo': 'www',

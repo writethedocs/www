@@ -1,14 +1,9 @@
 Code of Conduct
 ===============
 
-------------------------------------------------------------------------
-
- 
-
 Short Version
 -------------
 
-------------------------------------------------------------------------
 
 **Write the Docs** is dedicated to providing a harassment-free
 experience for everyone, regardless of gender, sexual orientation,
@@ -24,7 +19,6 @@ organizers.
 Long Version
 ------------
 
-------------------------------------------------------------------------
 
 ### Harassment
 
