@@ -7,11 +7,20 @@ Write the Docs is more than a conference. Each year we organize a wide
 range of events so that people can come together, collaborate, and learn
 from each other in different ways.
 
+Saturday, September 17th
+------------------------
+
+If you're in town early, we'll organize some sight-seeing activities to introduce you to this lovely city and to meet other documentarians who will be around.
+
 Sunday, September 18th
 ----------------------
 
-Local social event in the daytime, conference reception in the evening,
-and a fun welcome to Prague all around!
+During the day, we’ll hold our :doc:`Writing Day documentation
+sprints </conf/eu/2016/writing-day>`, followed by the conference reception in the evening.
+We encourage everyone to drop by on Sunday evening for the conference reception. 
+
+You’ll have a chance to get acquainted with each other over some drinks and snacks. We’ll also help groups organize dinner plans, so you can continue your conversations over more substantial food as well.
+
 
 Monday, September 19th - Day 1
 ------------------------------
@@ -31,7 +40,6 @@ Tuesday, September 20th - Day 2
 -------------------------------
 
 More interesting folks, more things documentation.
-
 
 Tuesday Night - Closing Meetup
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
