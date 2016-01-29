@@ -42,9 +42,10 @@ Tickets
 Ticket includes:
 
 * Breakfast, Snacks, and Lunch on both Conference Days
-* Reception and Party that will have light snacks, and free drinks.
+* Reception and Party that will have light snacks, and free drinks
+* Writing day and sight-seeing activities in Prague
 * Wifi throughout the event
-* Meeting lots of fantastic people in a spacious, inviting venue.
+* Meeting lots of fantastic people in a spacious, inviting venue
 
 ..      # Comment out tickets for now
 
