@@ -1,2 +1,2 @@
-sphinx==1.3.4
+git+https://github.com/sphinx-doc/sphinx@5c363a683e61f471c8b6c3311a9ce42aeec09ca5#egg=sphinx
 recommonmark==0.1.1
