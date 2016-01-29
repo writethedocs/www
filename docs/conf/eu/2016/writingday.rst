@@ -44,14 +44,10 @@ written words.
 We'll be creating and editing content, so make sure that you have the
 tools you need to contribute.
 
--  Date & Time: **Sunday, May 22th, 9am-6pm**, with the conference
-   opening reception in the same space until 9, so feel free to keep
-   working longer!
-
 Schedule
 ^^^^^^^^
 
-Full schedule and venue informatio will be published soon!
+Full schedule and venue information will be published soon!
 
 Documenting a new project?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
