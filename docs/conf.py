@@ -22,6 +22,7 @@ release = '1.0'
 language = 'en'
 html_search_language = 'en'
 pygments_style = 'sphinx'
+primary_domain = None
 
 html_theme = 'alabaster'
 html_theme_options = {
