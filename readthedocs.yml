@@ -2,3 +2,5 @@ type: sphinx
 python:
     verison: 2
     requirements_file: requirements.txt
+formats: 
+    - none
