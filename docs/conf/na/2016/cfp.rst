@@ -79,6 +79,9 @@ PRESENTATION FORMAT
 Presentations will be 30 minutes long. If you have specific length needs
 for your presentation, let us know and we can work with it.
 
+**There will be no questions at the end of talks.**
+We ask that speakers be available at the front of the stage for a few minutes after their talk to answer questions.
+
 SPEAKER BENEFITS & LOGISTICS
 ----------------------------
 
