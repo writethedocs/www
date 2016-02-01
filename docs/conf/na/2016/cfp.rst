@@ -87,11 +87,11 @@ SPEAKER BENEFITS & LOGISTICS
 
 If you are selected to speak at Write the Docs, we will waive your
 attendance fee. We regret that we are not able to cover the cost of
-travel or lodging for speakers at this time. By not covering travel
+travel or lodging for all speakers at this time. By not covering travel
 costs for our speakers, we are able to keep ticket prices low and to
 make the conference accessible to the largest number of participants
 possible. If your proposal is accepted but you are unable to attend due
-to travel costs, however, please let us know and we will make sure you 
+to travel costs, please let us know and we will make sure you 
 can make it.
 
 Speaking at Write the Docs is a fantastic way to participate in the
@@ -99,8 +99,7 @@ conference. Additionally, all those who submit a proposal but are not
 selected to speak will be able to register at the early bird
 registration price.
 
-Finally, you’ll hear from us with our proposal decisions by the middle
-of March.
+Finally, you’ll hear from us with our proposal decisions by **March 18th**
 
 QUESTIONS?
 ----------
