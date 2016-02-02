@@ -4,7 +4,7 @@
 
 <div class="row row-speaker row-speaker-keynote">
   <div class="col-md-4 col-sm-4">
-    <img class="speaker-image" src="/img/2015/speakers/mjohnston.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/mjohnston.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>Marcia Riefer Johnston
@@ -24,7 +24,7 @@
 
 <div class="row row-speaker row-speaker-keynote">
   <div class="col-md-4 col-sm-4">
-    <img class="speaker-image" src="/img/2015/speakers/wcunningham.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/wcunningham.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>Ward Cunningham
@@ -45,7 +45,7 @@
 <a name="speaker-kburke"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/kburke.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/kburke.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -86,7 +86,7 @@
 <a name="speaker-rmacnamara"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/rmacnamara.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/rmacnamara.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -122,7 +122,7 @@
 <a name="speaker-tfranko"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/tfranko.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/tfranko.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -158,7 +158,7 @@
 <a name="speaker-jswisher"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/jswisher.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/jswisher.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -214,7 +214,7 @@
 <a name="speaker-hwaterhouse"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/hwaterhouse.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/hwaterhouse.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>Heidi Waterhouse</h3>
@@ -250,7 +250,7 @@
 <a name="speaker-gkoberger"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/gkoberger.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/gkoberger.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -283,7 +283,7 @@
 <a name="speaker-gtorikian"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/gtorikian.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/gtorikian.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -321,7 +321,7 @@
 <a name="speaker-mnishiyama"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/mnishiyama.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/mnishiyama.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -367,8 +367,8 @@
 <a name="speaker-jbleyle-alouie"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/jbleyle.jpg" />
-    <img class="speaker-image" src="/img/2015/speakers/alouie.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/jbleyle.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/alouie.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -411,7 +411,7 @@
 <a name="speaker-tpodmajersky"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/tpodmajersky.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/tpodmajersky.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -435,7 +435,7 @@
 <a name="speaker-mness"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/mness.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/mness.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -487,7 +487,7 @@
 <a name="speaker-mdevoto"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/mdevoto.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/mdevoto.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>Marya DeVoto</h3>
@@ -519,8 +519,8 @@
 <a name="speaker-ehoffmann-aroman"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/ehoffmann.jpg" />
-    <img class="speaker-image" src="/img/2015/speakers/aroman.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/ehoffmann.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/aroman.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -575,7 +575,7 @@
 <a name="speaker-cburwinkle"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/cburwinkle.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/cburwinkle.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -611,7 +611,7 @@
 <a name="speaker-mjang"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/mjang.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/mjang.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -655,7 +655,7 @@
 <a name="speaker-jfernandes"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/jfernandes.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/jfernandes.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -723,7 +723,7 @@
 <a name="speaker-gwalli"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/gwalli.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/gwalli.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
@@ -759,7 +759,7 @@
 <a name="speaker-kronninghall"></a>
 <div class="row row-speaker">
   <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/img/2015/speakers/kronninghall.jpg" />
+    <img class="speaker-image" src="/_static/img/2015/speakers/kronninghall.jpg" />
   </div>
   <div class="col-md-8 col-sm-8">
     <h3>
