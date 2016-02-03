@@ -37,7 +37,7 @@ within the software industry, we aim for a wide range of talks that will
 stretch people in new directions. We’re after talks that deliver a fresh
 perspective on or a demonstrate creative approach to writing the docs.
 
-We encourage people all levels to submit talks. First-time speakers are
+**We encourage people all levels to submit talks.** First-time speakers are
 great. Experienced speakers are great. Hearing the perspective of a
 novice documentarian can be just as valuable as a deep-dive into a
 specific topic.
