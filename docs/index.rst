@@ -64,7 +64,7 @@ Contact Us
 ----------
 
 Have any questions, concerns, or comments about our work? Feel free to
-reach out at hello@writethedocs.org.
+reach out at conf@writethedocs.org.
 
 Useful Pages
 ------------
