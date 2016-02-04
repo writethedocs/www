@@ -179,10 +179,10 @@ Write the Docs NA is put on by the following lovely group of folks:
 Contact Us
 ----------
 
-If you wish to receive more information as it becomes available, follow
-us on Twitter at
-`@writethedocs <https://twitter.com/writethedocs>`_ or sign
-up for our mailing list:
+If you wish to receive more information as it becomes available,
+follow us on Twitter at `@writethedocs <https://twitter.com/writethedocs>`_,
+email us at conf@writethedocs.org,
+or sign up for our mailing list:
 
 .. include:: /include/na-mailchimp.rst
 
