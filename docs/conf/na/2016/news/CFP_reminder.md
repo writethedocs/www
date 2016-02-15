@@ -1,67 +1,43 @@
-## Announcing Keynotes, Initial Sponsors, and a Proposal Reminder
+## Call for Proposals Reminder, Initial Sponsors Announced
 
-The conference is now less than three months away, so I hope you're getting ready
-for what will be another great Write the Docs in lovely Portland,
-Oregon!
+The conference is now just a little more than three months away, so we 
+hope you're getting ready for the latest installment of the amazing 
+Write the Docs in lovely Portland, Oregon!
 
-The Early Bird tickets have sold out. Thanks to everyone who has already
+Early Bird tickets are sold out. Thanks to everyone who has already
 purchased a ticket. We do expect the conference to sell out fully, so
-[buy your tickets](https://ti.to/writethedocs/write-the-docs-na-2015/)
-today.
+[get your tickets now](https://ti.to/writethedocs/write-the-docs-na-2015/).
 
-## Keynote Speakers
-
-In previous years, we've opted not to include keynote talks. As the
-community and conference have developed, however, we've noticed
-something: we have programmers who care about docs and writers who care
-about tech. We collectively call these folks _documentarians_. We
-thought we'd change things up this year by offering one keynote talk
-from each of these camps.
-
-#### Ward Cunningham
-
-Our first keynote speaker is [Ward
-Cunningham](http://en.wikipedia.org/wiki/Ward_Cunningham). Ward is the
-creator of the wiki and has one of the longest views on how the web is
-used of anyone in the world. He will be speaking about his view of
-content on the web and how it's shaping his latest project, the
-Federated Wiki.
-
-#### Marcia Johnston
-
-Our second keynote speaker is [Marcia
-Johnston](http://howtowriteeverything.com/marcia-riefer-johnston-bio/).
-Marcia is the author of multiple books on writing well and speaks on
-the topic at conferences around the country. She will be speaking about
-how to make sure the words you write are actually understood by your
-readers. A member of our community since the first conference, Marcia
-will help us all become better writers once again.
-
-More information about these talks can be found on the
-[website](http://www.writethedocs.org/conf/na/2015/#speakers).
-
-## Call for Proposals Reminder
+## Call for Proposals
 
 There is still time to submit your talk to Write the Docs!  The [Call
-for Proposals](http://www.writethedocs.org/conf/na/cfp/) ends on
-**February 28th at Midnight PST**, so make sure to get your talk in this
-month.
+for Proposals](http://www.writethedocs.org/conf/na/cfp/) is open until 
+**February 29th at Midnight PST** -- remember? You've got a whole extra day 
+this year! So make sure to get your talk in this month.
 
-Our community is full of amazing people,
-and we'd love to have you come and share your experiences with us.
+Remember, too -- on the [Call for Proposals page]
+(http://www.writethedocs.org/conf/na/2016/cfp/), we've got some tips and examples 
+to help inspire you. And if you're got an idea, but you're not sure what to do with 
+it, ask on the Slack channel. Your fellow documentarians will be happy to help!
 
-We will be announcing the conference program on **March 15th**.
+Our inimitable meetup leader, Mike Jang, is also hosting a local and remote
+meetup on February 25 for anyone who'd like to get feedback, attempt a dry run, 
+or check out what your fellow documentarians are thinking about presenting.
+
+(thought: add more references? this page is kinda nice:
+http://weareallaweso.me/for_speakers/how-to-write-a-compelling-proposal.html
+not least because it's got a nice-looking list of links to related resources)
+
+We will be announcing the conference program on **March 18th**.
 
 ## Initial Sponsors
 
-The conference wouldn't be nearly as amazing without our sponsors.
-They help us provide all the extras that make the event delightful.
+As always, we are deeply grateful to our sponsors, who help us provide all the 
+delightful extras.
 Thanks to our initial sponsors:
 
-* [Wordpress.com](https://wordpress.com/)
-* [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+* [Google](https://www.google.com/)
 * [GitHub](https://github.com/)
-* [BaseCamp](http://basecamp.com/)
 
 If you're interested in sponsoring, [send us an email][email-us].
 
@@ -71,6 +47,6 @@ If you're interested in sponsoring, [send us an email][email-us].
 
 We are putting the finishing touches on all the other aspects of the
 event. Expect to hear more about the hike, writing day, party,
-reception, and more in the next few weeks.  This year is going to be the
-best yet, so [don't miss
+reception, and more in the next few weeks.  Every year gets exponentially 
+better, so [don't miss
 it](https://ti.to/writethedocs/write-the-docs-na-2015/).
