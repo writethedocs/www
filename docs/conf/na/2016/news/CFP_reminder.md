@@ -1,3 +1,5 @@
+:template: 2016/na.html
+
 ## Call for Proposals Reminder, Initial Sponsors Announced
 
 The conference is now just a little more than three months away, so we 
