@@ -1,5 +1,9 @@
+:orphan: 
+
 Write the Docs: The Book
 ========================
+
+.. warning:: This is just a basic outline which doesn't exist yet.
 
 This page will organize the content of our repository into the format of a
 book.

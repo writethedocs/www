@@ -80,6 +80,8 @@ release = '1.0'
 # directories to ignore when looking for source files.
 exclude_patterns = [
   '_build', 
+  'conference',
+  '2014',
 ]
 
 # The reST default role (used for this markup: `text`) to use for all documents.
@@ -120,7 +122,7 @@ html_sidebars = {
    ]
 }
 
-html_style = "writethedocs.css"
+#html_style = "writethedocs.css"
 
 html_theme_options = {
    'logo': 'sticker-wtd-colors.png',

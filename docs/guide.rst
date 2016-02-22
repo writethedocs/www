@@ -1,12 +1,18 @@
-===================================
-Welcome to the Write the Docs Guide
-===================================
+:orphan:
+
+=========================================
+The Write the Docs Guide to Documentation
+=========================================
+
+Welcome!
+We are excited that you are going down the path of creating excellent documentation for your project.
+This guide exists to provide both novice and expert writers a best practice handbook for building,
+structing, 
+and writing software documentation.
 
 **This is a living, breathing guide.**  If you'd like to contribute,
 `fork us on GitHub <https://github.com/writethedocs/docs>`_!
-
-This guide exists to provide both novice and expert writers
- a best practice handbook to thinking about, structing, and writing documentation.
+Also feel free to send us any additions in any format to guide@writethedocs.org.
 
 This guide is **opinionated**.
 You won't find a large list of tools here,
@@ -21,8 +27,7 @@ Getting Started with Documentation
    :maxdepth: 2
 
    starting
-   writing/beginners-guide-to-docs
-   writing/mindshare
+   writing/index
 
 Writing Great Documentation
 ---------------------------

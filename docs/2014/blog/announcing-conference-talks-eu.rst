@@ -1,5 +1,5 @@
 Announcing Conference Talks and a Party for Write the Docs EU
-===========================================================
+=============================================================
 
 Things are coming along nicely for our `EU conference`_.
 The conference is 45 days away,

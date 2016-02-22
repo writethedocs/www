@@ -10,16 +10,5 @@ Articles:
 
    beginners-guide-to-docs
    mindshare
+   oss
 
-Musings:
-
-.. toctree::
-   
-
-   documentation-usage
-   documentation-is-part-of-the-product
-   kiss
-   be-directive
-   what-not/index
-   doctests
-   conventions/index
