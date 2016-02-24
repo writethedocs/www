@@ -174,7 +174,7 @@ Write the Docs NA is put on by the following lovely group of folks:
 -  `Jennifer Rondeau <https://twitter.com/bradamante>`_
 -  `Eric Holscher <https://twitter.com/ericholscher>`_
 -  `Adrienne Lowe <https://twitter.com/adriennefriend>`_
--  `Troy Howard <https://twitter.com/thoward37>`_
+-  `Becky Yoose <https://twitter.com/yo_bj>`_
 
 Contact Us
 ----------
