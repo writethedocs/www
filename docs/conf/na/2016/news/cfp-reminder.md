@@ -1,7 +1,5 @@
 :template: 2016/na.html
 
-:date: Febuary 26, 2016
-
 # Tickets are going fast and talk proposals are due soon
 
 Greetings fellow documentarians! 
@@ -34,3 +32,5 @@ Thanks so much for making Write the Docs possible!
 # We'll have more to share soon  
 
 We are putting the finishing touches on all the other aspects of the event. Expect to hear more about the hike, writing day, party, reception, and more in the next few weeks. Every year gets exponentially better, and this year won't be an exception.
+
+Published Feb 26, 2016
