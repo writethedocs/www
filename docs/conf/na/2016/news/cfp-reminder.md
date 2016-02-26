@@ -2,7 +2,7 @@
 
 :date: Febuary 26, 2016
 
-# TICKETS ARE GOING FAST AND TALK PROPOSALS ARE DUE SOON
+# Tickets are going fast and talk proposals are due soon
 
 Greetings fellow documentarians! 
 
@@ -10,7 +10,7 @@ The conference is now just a little more than three months away, so we hope you�
 
 Early Bird tickets are now sold out. Thanks to everyone who has already purchased a ticket. We do expect the conference to sell out fully, so get [your tickets now](https://ti.to/writethedocs/write-the-docs-na-2016/). 
 
-# SUBMIT YOUR TALK BY THE END OF THE MONTH
+# Submit your talk by the end of the month
 
 There is still time to submit your talk to Write the Docs! Remember, the [Call for Proposals](http://www.writethedocs.org/conf/na/cfp/) is open until **February 29th at Midnight PST**. You’ve got a whole extra day this year! So make sure to get your talk in this month.
 
@@ -18,6 +18,6 @@ Remember, too – on the [Call for Proposals page](http://www.writethedocs.org/c
 
 We will be announcing the conference program by **March 25th**.
 
-# WE'LL HAVE MORE TO SHARE SOON  
+# We'll have more to share soon  
 
 We are putting the finishing touches on all the other aspects of the event. Expect to hear more about the hike, writing day, party, reception, and more in the next few weeks. Every year gets exponentially better, and this year won't be an exception.
