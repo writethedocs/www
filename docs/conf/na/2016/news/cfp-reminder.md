@@ -1,5 +1,7 @@
 :template: 2016/na.html
 
+:date: Febuary 26, 2016
+
 # TICKETS ARE GOING FAST AND TALK PROPOSALS ARE DUE SOON
 
 Greetings fellow documentarians! 
