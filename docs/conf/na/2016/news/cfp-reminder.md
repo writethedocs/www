@@ -20,7 +20,7 @@ We will be announcing the conference program by **March 25th**.
 
 Our conference wouldn't be possible without our amazing sponsors. If you
 would like more information on sponsorship, please email us at
-sponsorship@writethedocs.org.
+<sponsorship@writethedocs.org>.
 
 Our current sponsors are:
 
