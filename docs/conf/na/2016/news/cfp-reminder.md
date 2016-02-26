@@ -18,6 +18,19 @@ Remember, too – on the [Call for Proposals page](http://www.writethedocs.org/c
 
 We will be announcing the conference program by **March 25th**.
 
+# Sponsors
+
+Our conference wouldn't be possible without our amazing sponsors. If you
+would like more information on sponsorship, please email us at
+sponsorship@writethedocs.org.
+
+Our current list of sponsors is:
+
+- `Google <http://google.com/>`_
+- `GitHub <http://github.com/>`_
+
+Thanks so much for making Write the Docs possible!
+
 # We'll have more to share soon  
 
 We are putting the finishing touches on all the other aspects of the event. Expect to hear more about the hike, writing day, party, reception, and more in the next few weeks. Every year gets exponentially better, and this year won't be an exception.
