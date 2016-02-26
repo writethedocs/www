@@ -1,6 +1,6 @@
 :template: 2016/na.html
 
-# Tickets are going fast and talk proposals are due soon
+# Tickets are going fast and Talk Proposals are due soon
 
 Greetings fellow documentarians! 
 
