@@ -22,10 +22,10 @@ Our conference wouldn't be possible without our amazing sponsors. If you
 would like more information on sponsorship, please email us at
 sponsorship@writethedocs.org.
 
-Our current list of sponsors is:
+Our current sponsors are:
 
-- `Google <http://google.com/>`_
-- `GitHub <http://github.com/>`_
+- [Google](http://google.com) 
+- [GitHub](http://github.com)
 
 Thanks so much for making Write the Docs possible!
 
