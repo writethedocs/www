@@ -99,7 +99,7 @@ conference. Additionally, all those who submit a proposal but are not
 selected to speak will be able to register at the early bird
 registration price.
 
-Finally, you’ll hear from us with our proposal decisions by **March 18th**
+Finally, you’ll hear from us with our proposal decisions by **March 25th**
 
 QUESTIONS?
 ----------
