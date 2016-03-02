@@ -21,6 +21,8 @@ located <http://goo.gl/maps/D2WrJ>`_ in the heart of Portland. During
 the main event we also run a :doc:`/conf/na/2016/unconference`,
 downstairs in Lola's Room.
 
+You can find out more information about the venue and its accessibility on our :doc:`/conf/na/2016/venue` page.
+
 
 .. image:: https://farm6.staticflickr.com/5514/14151785456_4d42119c9f_c.jpg
    :width: 49%
