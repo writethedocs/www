@@ -15,9 +15,8 @@ and we expect this to be another wonderful year.
 Accessibility
 ~~~~~~~~~~~~~
 
-The conference venue, the Crystal Ballroom, is wheelchair accessible to all conference spaces except the balcony.
-No events happen on the balcony,
-it is merely used for additional seating.
+All conference spaces at the Crystal Ballroom are wheelchair accessible,
+except for the balcony where there are no events.
 
 The venue has:
 
