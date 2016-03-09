@@ -94,6 +94,15 @@ it more friendly in general. Remember, you *are* the community.
 A guide to writing documentation. Help us make this guide great for
 people who want to write docs, but don't know where to start.
 
+Mozilla Developer Network
+'''''''''''''''''''''''''
+
+Mozilla Developer Network (MDN) provides browser-neutral docs on client-side
+Web technologies: HTML, CSS, JavaScript, and the Web APIs.
+
+You can contribute by writing technical articles, copy-editing,
+writing code samples, or translating pages. MDN staff will be there to help out.
+
 Your Project Here
 '''''''''''''''''
 
