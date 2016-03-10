@@ -23,14 +23,13 @@ The venue has:
 * step-free access to all parts of the conference
 * elevators that are open and unlocked during all conference events
 * accessible, clearly labeled restrooms
-* service animals welcome, with grassy areas near the hotel to walk them
 
 Low Vision or Hard of Hearing
 *****************************
 
 Preferred seating will be provided for attendees who request it. Please contact us about any lighting requirements you may have, and we will do our best to meet them.
 
-All buses in Austin announce stops verbally in English and Spanish. Most buses have a visual display of upcoming stops.
+All transit in Portland announce stops verbally in English. Most buses have a visual display of upcoming stops.
 
 Dietary requirements
 ********************
@@ -59,6 +58,12 @@ Did we miss something?
 
 Have we neglected something you need, or is there something not mentioned that would make your attendance possible or improve your experience? Please `email us`_, and we'll do what we can to provide it.
 
+Thanks
+******
+
+Thank you to `Djangocon US`_ for inspiration on this page.
+
 .. _Crystal Ballroom: http://www.mcmenamins.com/CrystalBallroom
 .. _middle of downtown: http://goo.gl/maps/D2WrJ
 .. _email us: conf@writethedocs.org
+.. _Djangocon US: http://djangocon.us/
