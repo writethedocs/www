@@ -60,7 +60,110 @@ Burnside St**.
 Main Stage
 ~~~~~~~~~~
 
-Talks from 9am-5pm
+.. raw:: html
+
+    <table>
+      <tr>
+        <td class="schedule-time">8 AM</td>
+        <td>Doors Open, Breakfast Served</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">9 AM</td>
+        <td>Introduction & State of the Docs</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">9:30 AM</td>
+        <td><em>Switch Speakers</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">9:40 AM</td>
+        <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">10:10 AM</td>
+        <td><em>Switch Speakers</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">10:20 AM</td>
+        <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">10:50 AM</td>
+        <td><em>Snack break</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">11:10 AM</td>
+        <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">11:40 AM</td>
+        <td><em>Switch Speakers</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">11:50 AM</td>
+        <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">12:20 PM</td>
+        <td>Lunch</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">1:10 PM</td>
+        <td><a href="/conf/na/2016/lightning-talks/">Lightning Talks</a></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">1:40 PM</td>
+        <td><em>Switch Speakers</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">1:50 PM</td>
+        <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">2:20 PM</td>
+        <td><em>Switch Speakers</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">2:30 PM</td>
+        <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">3 PM</td>
+        <td><em>Snack break</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">3:30 PM</td>
+        <td>ThunderStorm Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">3:45 PM</td>
+        <td>ThunderStorm Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">4 PM</td>
+        <td><em>Switch Speakers</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">4:10 PM</td>
+        <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">4:40 PM</td>
+        <td><em>Switch Speakers</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">4:50 PM</td>
+        <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">5:20 PM</td>
+        <td>Closing & Party announcement</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">5:30 PM</td>
+        <td>Day 1 wraps up</td>
+      </tr>
+    </table>
 
 Lola's Room
 -----------
@@ -83,7 +186,103 @@ Burnside St**.
 Main Stage
 ~~~~~~~~~~
 
-Talks from 9am-5pm
+.. raw:: html
+
+    <table>
+      <tr>
+        <td class="schedule-time">8 AM</td>
+        <td>Doors Open, Breakfast Served</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">9 AM</td>
+        <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">9:30 AM</td>
+        <td><em>Switch Speakers</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">9:40 AM</td>
+        <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">10:10 AM</td>
+        <td><em>Switch Speakers</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">10:20 AM</td>
+        <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">10:50 AM</td>
+        <td><em>Snack break</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">11:10 AM</td>
+        <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">11:40 AM</td>
+        <td><em>Switch Speakers</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">11:50 AM</td>
+        <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">12:20 PM</td>
+        <td>Lunch</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">1:10 PM</td>
+        <td><a href="/conf/na/2016/lightning-talks/">Lightning Talks</a></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">1:40 PM</td>
+        <td><em>Switch Speakers</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">1:50 PM</td>
+        <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">2:20 PM</td>
+        <td><em>Switch Speakers</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">2:30 PM</td>
+        <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">3 PM</td>
+        <td><em>Snack break</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">3:30 PM</td>
+        <td>ThunderStorm Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">3:45 PM</td>
+        <td>ThunderStorm Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">4 PM</td>
+        <td><em>Switch Speakers</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">4:10 PM</td>
+        <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">4:40 PM</td>
+        <td>Closing & Group Photo</td>
+      </tr>
+ 
+      <tr>
+        <td class="schedule-time">5:00 PM</td>
+        <td>Day 2 wraps up</td>
+      </tr>
+    </table>
 
 Lola's Room
 -----------
