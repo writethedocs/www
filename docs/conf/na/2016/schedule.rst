@@ -72,39 +72,39 @@ Main Stage
         <td>Introduction & State of the Docs</td>
       </tr>
       <tr>
-        <td class="schedule-time">9:30 AM</td>
+        <td class="schedule-time">9:20 AM</td>
         <td><em>Switch Speakers</em></td>
       </tr>
       <tr>
-        <td class="schedule-time">9:40 AM</td>
+        <td class="schedule-time">9:30 AM</td>
         <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">10:00 AM</td>
+        <td><em>Switch Speakers</em></td>
       </tr>
       <tr>
         <td class="schedule-time">10:10 AM</td>
-        <td><em>Switch Speakers</em></td>
-      </tr>
-      <tr>
-        <td class="schedule-time">10:20 AM</td>
         <td>Talk</td>
       </tr>
       <tr>
-        <td class="schedule-time">10:50 AM</td>
+        <td class="schedule-time">10:40 AM</td>
         <td><em>Snack break</em></td>
       </tr>
       <tr>
-        <td class="schedule-time">11:10 AM</td>
+        <td class="schedule-time">11:00 AM</td>
         <td>Talk</td>
       </tr>
       <tr>
-        <td class="schedule-time">11:40 AM</td>
+        <td class="schedule-time">11:30 AM</td>
         <td><em>Switch Speakers</em></td>
       </tr>
       <tr>
-        <td class="schedule-time">11:50 AM</td>
+        <td class="schedule-time">11:40 AM</td>
         <td>Talk</td>
       </tr>
       <tr>
-        <td class="schedule-time">12:20 PM</td>
+        <td class="schedule-time">12:10 PM</td>
         <td>Lunch</td>
       </tr>
       <tr>
@@ -132,35 +132,31 @@ Main Stage
         <td><em>Snack break</em></td>
       </tr>
       <tr>
-        <td class="schedule-time">3:30 PM</td>
+        <td class="schedule-time">3:20 PM</td>
         <td>ThunderStorm Talk</td>
       </tr>
       <tr>
-        <td class="schedule-time">3:45 PM</td>
+        <td class="schedule-time">3:35 PM</td>
         <td>ThunderStorm Talk</td>
       </tr>
       <tr>
-        <td class="schedule-time">4 PM</td>
+        <td class="schedule-time">3:50 PM</td>
         <td><em>Switch Speakers</em></td>
       </tr>
       <tr>
-        <td class="schedule-time">4:10 PM</td>
+        <td class="schedule-time">4:00 PM</td>
         <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">4:30 PM</td>
+        <td><em>Switch Speakers</em></td>
       </tr>
       <tr>
         <td class="schedule-time">4:40 PM</td>
-        <td><em>Switch Speakers</em></td>
+        <td>Panel</td>
       </tr>
       <tr>
-        <td class="schedule-time">4:50 PM</td>
-        <td>Talk</td>
-      </tr>
-      <tr>
-        <td class="schedule-time">5:20 PM</td>
-        <td>Closing & Party announcement</td>
-      </tr>
-      <tr>
-        <td class="schedule-time">5:30 PM</td>
+        <td class="schedule-time">5:40 PM</td>
         <td>Day 1 wraps up</td>
       </tr>
     </table>
@@ -219,8 +215,12 @@ Main Stage
       </tr>
       <tr>
         <td class="schedule-time">11:10 AM</td>
-        <td>Talk</td>
+        <td>ThunderStorm Talk</td>
       </tr>
+      <tr>
+        <td class="schedule-time">11:25 AM</td>
+        <td>ThunderStorm Talk</td>
+      </tr>      
       <tr>
         <td class="schedule-time">11:40 AM</td>
         <td><em>Switch Speakers</em></td>
@@ -258,8 +258,12 @@ Main Stage
         <td><em>Snack break</em></td>
       </tr>
       <tr>
-        <td class="schedule-time">3:30 PM</td>
+        <td class="schedule-time">3:25 PM</td>
         <td>ThunderStorm Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">3:40 PM</td>
+        <td><em>Switch Speakers (5 min)</em></td>
       </tr>
       <tr>
         <td class="schedule-time">3:45 PM</td>
@@ -275,11 +279,19 @@ Main Stage
       </tr>
       <tr>
         <td class="schedule-time">4:40 PM</td>
+        <td><em>Switch Speakers</em></td>
+      </tr>
+      <tr>
+        <td class="schedule-time">4:50 PM</td>
+        <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">5:20 PM</td>
         <td>Closing & Group Photo</td>
       </tr>
  
       <tr>
-        <td class="schedule-time">5:00 PM</td>
+        <td class="schedule-time">5:30 PM</td>
         <td>Day 2 wraps up</td>
       </tr>
     </table>
