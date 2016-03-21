@@ -258,40 +258,36 @@ Main Stage
         <td><em>Snack break</em></td>
       </tr>
       <tr>
-        <td class="schedule-time">3:25 PM</td>
+        <td class="schedule-time">3:20 PM</td>
         <td>ThunderStorm Talk</td>
       </tr>
       <tr>
-        <td class="schedule-time">3:40 PM</td>
-        <td><em>Switch Speakers (5 min)</em></td>
-      </tr>
-      <tr>
-        <td class="schedule-time">3:45 PM</td>
+        <td class="schedule-time">3:35 PM</td>
         <td>ThunderStorm Talk</td>
       </tr>
       <tr>
-        <td class="schedule-time">4 PM</td>
+        <td class="schedule-time">3:50 PM</td>
         <td><em>Switch Speakers</em></td>
       </tr>
       <tr>
-        <td class="schedule-time">4:10 PM</td>
+        <td class="schedule-time">4:00 PM</td>
         <td>Talk</td>
+      </tr>
+      <tr>
+        <td class="schedule-time">4:30 PM</td>
+        <td><em>Switch Speakers</em></td>
       </tr>
       <tr>
         <td class="schedule-time">4:40 PM</td>
-        <td><em>Switch Speakers</em></td>
-      </tr>
-      <tr>
-        <td class="schedule-time">4:50 PM</td>
         <td>Talk</td>
       </tr>
       <tr>
-        <td class="schedule-time">5:20 PM</td>
+        <td class="schedule-time">5:10 PM</td>
         <td>Closing & Group Photo</td>
       </tr>
  
       <tr>
-        <td class="schedule-time">5:30 PM</td>
+        <td class="schedule-time">5:20 PM</td>
         <td>Day 2 wraps up</td>
       </tr>
     </table>
