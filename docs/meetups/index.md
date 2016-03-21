@@ -25,6 +25,7 @@ We'd be happy to promote it and list it here.
 -   [San Diego, CA, USA](http://www.meetup.com/Write-the-Docs-San-Diego-CA/)
 -   [San Francisco, CA, USA](http://www.meetup.com/Write-the-Docs/)
 -   [Seattle, WA, USA](http://www.meetup.com/Write-The-Docs-Seattle/)
+-   [Boise, ID, USA](http://www.meetup.com/Write-the-Docs-Boise/)
 
 ### Current Meetups: Latin America
 
