@@ -52,6 +52,13 @@ We've got a documentarian questionnaire for you! (Moar text about folks who actu
 
 [Poll the Docs](http://goo.gl/forms/E12jOHaR9x)
 
+## Stay In Touch
+
+Y'all are invited to join your fellow documentarians year round on 
+[the Write The Docs Slack channel](https://writethedocs.slack.com/) and 
+[the Write The Docs forum](http://forum.writethedocs.org/). Sign up, catch up 
+on threads that interest you, and join a conversation or start a new one!
+
 ## Write The Docs EU 2016
 
 Our European conference dates have been finalized for this year. Come talk docs with
