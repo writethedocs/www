@@ -43,12 +43,14 @@ Sponsorship is one of the reasons we are able to have such a wonderful
 conference each year. We're happy to have the following additional sponsors join us
 in supporting the Write the Docs community:
 
- * 
- * 
+ * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+ * [Twilio](https://www.twilio.com/)
 
 ## Poll the Docs
 
-(TK)
+We've got a documentarian questionnaire for you! (Moar text about folks who actually worked on it)
+
+[Poll the Docs](http://goo.gl/forms/E12jOHaR9x)
 
 ## Write The Docs EU 2016
 
