@@ -14,8 +14,12 @@ working alone or on big teams, on open source projects
 or on proprietary enterprise software. 
 We’re all the people who care about making better docs.
 
-So here’s the list of talks. We’ll be finalizing the schedule soon, and we’ll let you
-know when it's published.
+So here it is, the [list of talks][talks]. We’ll be finalizing the schedule soon, 
+and we’ll let you know when it's published.
+
+[talks]: 
+
+## Reminders and Resources
 
 In the next few weeks, we'll also be announcing more details of the
 conference events: the annual hike on Saturday, the writing 
@@ -31,15 +35,9 @@ on where to stay and how to get around][visiting].
 [visiting]: http://writethedocs.org/conf/na/2015/visiting/
 [tickets]: http://writethedocs.org/conf/na/2015/#tickets
 
-## Presentations
-
-Here is the full list of presentations for Write the Docs North America 2016:
-
-We also have the [full talk abstracts][speakers] available on our website.
-
 ## Sponsors
 
-Sponsorship is one of the reasons we are able to have such a wonderful
+Sponsorship is one of the reasons we can create such a great 
 conference each year. We're happy to have the following additional sponsors join us
 in supporting the Write the Docs community:
 
@@ -48,21 +46,28 @@ in supporting the Write the Docs community:
 
 ## Poll the Docs
 
-We've got a documentarian questionnaire for you! (Moar text about folks who actually worked on it)
+We've got a documentarian questionnaire for you! Kata and the folks at Provonix have been 
+working to put together a survey that can help our growing community understand better all the 
+different ways we do our work, where the current challenges lie, and what the future holds.
+
+We'll be sharing the results with everyone, so your contributions will help you and all of us.
 
 [Poll the Docs](http://goo.gl/forms/E12jOHaR9x)
 
-## Stay In Touch
+## Stay in Touch
 
 Y'all are invited to join your fellow documentarians year round on 
-[the Write The Docs Slack channel](https://writethedocs.slack.com/) and 
-[the Write The Docs forum](http://forum.writethedocs.org/). Sign up, catch up 
+[the Write The Docs Slack channel][channel] and 
+[the Write The Docs forum][forum]. Sign up, catch up 
 on threads that interest you, and join a conversation or start a new one!
+
+[channel]: https://writethedocs.slack.com/
+[forum]: http://forum.writethedocs.org/
 
 ## Write The Docs EU 2016
 
 Our European conference dates have been finalized for this year. Come talk docs with
-us again in <appropriate_adjective> Prague September 18-20.
+us again in Prague, Czech Republic, September 18-20.
 
 ----
 
