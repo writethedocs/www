@@ -4,7 +4,9 @@ import sys
 import os
 import shlex
 import shutil
+import json
 from recommonmark.parser import CommonMarkParser
+
 
 exclude_patterns = ['_build', 'include']
 extensions = []
@@ -47,6 +49,18 @@ html_sidebars = {
     ]
 }
 
+speakers = json.load(file('data/2016.speakers.json'))
+
+for speaker in speakers:
+    if os.path.exists('_static/img/speakers/%s.jpg' % speaker['slug']):
+        speaker['img_file'] = '%s.jpg' % speaker['slug']
+    else:
+        speaker['img_file'] = 'missing.jpg'
+
+html_context = {
+    'speakers2016': speakers
+}
+
 
 def on_page_context(app, pagename, templatename, context, doctree):
     # Markdown
@@ -69,19 +83,20 @@ def on_page_context(app, pagename, templatename, context, doctree):
         pass
 
 
-def on_source_read(app, docname, source):
-    src = source[0]
-    if hasattr(app.builder, 'globalcontext'):
-        app.info('Using global context')
-        source[0] = app.builder.templates.render_string(src, app.builder.globalcontext)
-    else:
-        source[0] = app.builder.templates.render_string(src, {})
+def rstjinja(app, docname, source):
+    """
+    Render the speaker page as a template.
+    """
+    if docname == 'conf/na/2016/speakers':
+        src = source[0]
+        rendered = app.builder.templates.render_string(src, app.config.html_context)
+        source[0] = rendered
 
 
 def setup(app):
-    # app.connect("source-read", on_source_read)
     app.add_stylesheet('writethedocs.css')
     app.connect('html-page-context', on_page_context)
+    app.connect("source-read", rstjinja)
 
 # Output formats
 

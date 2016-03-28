@@ -1,2 +1,2 @@
-git+https://github.com/sphinx-doc/sphinx@5c363a683e61f471c8b6c3311a9ce42aeec09ca5
+Sphinx==1.3.6
 recommonmark==0.1.1
