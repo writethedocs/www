@@ -84,6 +84,13 @@
         "slug": "sarah-day"
     },
     {
+        "abstract": "<p>Open source projects have documentation communities made up of volunteer enthusiasts and people from different companies. Good open source documentation is essential to the success of a project, and working within an open source community is entirely unlike working inside a single company.</p>\n<p>At Red Hat, our products are based on dozens of open source projects and built on the hard work of hundreds more. Our documentation has to serve the needs of our customers and add value to our products. At the same time, we need our upstream projects to be healthy and vibrant, and that includes having excellent documentation and documentation communities.</p>\n<p>Shaun McCance will talk about how to balance upstream and downstream documentation and how multiple teams can work together to create better documentation for everyone. He'll show examples from inside Red Hat, as well as from over a decade in working with open source documentation communities.</p>",
+        "details": "",
+        "title": "Crossing the Streams: Enabling Collaboration Between Products and Upstreams ",
+        "name": "Shaun McCance",
+        "slug": "shaun-mccance"
+    },
+    {
         "abstract": "<p>Writing fiction and writing documentation have much more in common that typing out large blocks of text. This talk will talk about elements of fiction writing that improve the process of writing docs:\n<em> Understanding audience: the tools fiction writers use to understand their audience (as well as to communicate with them) offer deeper looks at who reads what. The process of connecting with an audience is integral to fiction, but often overlooked in documentation \u2014 resulting in hard-to-use docs that don\u2019t help users.\n</em> Building story arcs: arguably, all fiction boils down to about seven different plots, retold in millions of different ways. Understanding underlying story structure makes the process of writing new tales much easier. Those story structures and plot elements can map directly to parts of documentation, as well as show options for creating standing elements for documentation.\n* Writing prose worth reading: documentation can be enjoyable to read, provided a writer is willing to invest time in crafting good reading material.</p>\n<p>This talk will draw on examples from both popular fiction and documentation out in the world today.</p>",
         "details": "",
         "title": "What Writing Fiction Teaches You About Writing Documentation",
