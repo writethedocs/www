@@ -16,21 +16,21 @@ We’re all the people who care about making better docs.
 ## Presentations (and a Panel!)
 
 **So here it is, the [list of talks][talks]!**
-We hope there is something in there for everyone to enjoy,
+We hope there's something there for everyone to enjoy,
 and also to stretch your views a little bit, as well :)
-We're trying a couple new things this year,
+We're trying a couple of new things this year,
 including a *Panel* and *Thunderstorm Talks*.
 
 We had a number of interesting presentations about companies transforming their documentation process.
 Instead of choosing just one,
 we asked the speakers to join us on a panel,
-so that folks can compare and contrast the different approaches.
+so that folks can compare the different approaches.
 
-We are also sad every year that we only have 18 speaking slots at the event.
-This year we have added Thunderstorm Talks to address this.
-It allows us to break a few of the 30 minute slots into two 15-minute talks.
-It breaks up the pace of the day,
-and will enable people to get some new and interesting ideas across in an action packed format.
+We are also sad every year that we have only 18 speaking slots at the event.
+This year we added Thunderstorm Talks to give us a few more opportunities.
+These talks break a few of the 30 minute slots into two 15-minute talks.
+They'll break up the pace of the day,
+and will let people get some new ideas across in an action packed format.
 
 [talks]: http://www.writethedocs.org/conf/na/2016/speakers/
 
@@ -75,7 +75,7 @@ The event last year in Prague so much fun,
 we've decided to hold our European conference there again this year.
 Come talk docs with us again in **Prague, Czech Republic, September 18-20**.
 
-It will be another great event in a wonderful European city.
+It will be another great event in a magnificent European city.
 We'll be announcing more details in the coming months,
 but you can put it in your calendar now.
 
