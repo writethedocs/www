@@ -53,15 +53,6 @@ We have published some [resources on where to stay and how to get around][visiti
 [visiting]: http://writethedocs.org/conf/na/2015/visiting/
 [tickets]: http://writethedocs.org/conf/na/2015/#tickets
 
-## Sponsors
-
-Sponsorship is one of the reasons we can create such a great 
-conference each year. We're happy to have the following additional sponsors join us
-in supporting the Write the Docs community:
-
- * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
- * [Twilio](https://www.twilio.com/)
-
 ## Poll the Docs
 
 We've also got a documentarian questionnaire for you! Kata and the folks at [Provonix][provonix] have been 
@@ -78,16 +69,6 @@ and the uncanny feeling that maybe we aren't alone in this crazy universe of our
 [Poll the Docs](http://goo.gl/forms/E12jOHaR9x)
 [provonix](http://pronovix.com/)
 
-## Stay in Touch
-
-Y'all are invited to join your fellow documentarians year round on 
-[the Write The Docs Slack channel][channel] and 
-[the Write The Docs forum][forum]. Sign up, catch up 
-on threads that interest you, and join a conversation or start a new one!
-
-[channel]: https://writethedocs.slack.com/
-[forum]: http://forum.writethedocs.org/
-
 ## Write The Docs EU 2016
 
 The event last year in Prague so much fun,
@@ -97,6 +78,27 @@ Come talk docs with us again in **Prague, Czech Republic, September 18-20**.
 It will be another great event in a wonderful European city.
 We'll be announcing more details in the coming months,
 but you can put it in your calendar now.
+
+
+## Sponsors
+
+Sponsorship is one of the reasons we can create such a great 
+conference each year. We're happy to have the following additional sponsors join us
+in supporting the Write the Docs community:
+
+ * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+ * [Twilio](https://www.twilio.com/)
+
+
+## Stay in Touch
+
+Y'all are invited to join your fellow documentarians year round on 
+[the Write The Docs Slack channel][channel] and 
+[the Write The Docs forum][forum]. Sign up, catch up 
+on threads that interest you, and join a conversation or start a new one!
+
+[channel]: https://writethedocs.slack.com/
+[forum]: http://forum.writethedocs.org/
 
 ----
 
