@@ -55,19 +55,19 @@ We have published some [resources on where to stay and how to get around][visiti
 
 ## Poll the Docs
 
-We've also got a documentarian questionnaire for you! Kata and the folks at [Provonix][provonix] have been 
+We've also got a documentarian [questionnaire][survey] for you! Kata and the folks at [Provonix][provonix] have been 
 working to put together a survey that can help our growing community understand better all the 
 different ways we do our work, where the current challenges lie, and what the future holds.
 
-It would be great if you could set aside 10 minutes from your busy days to fill it out.
+It would be great if you could set aside 10 minutes from your busy days to [fill it out][survey].
 We'll be sharing the results with everyone, so your contributions will help the community as a whole understand itself better.
 Think of it like therapy,
 except at the end we get a better conference,
 better tools,
 and the uncanny feeling that maybe we aren't alone in this crazy universe of ours.
 
-[Poll the Docs](http://goo.gl/forms/E12jOHaR9x)
-[provonix](http://pronovix.com/)
+[survey]: http://goo.gl/forms/E12jOHaR9x
+[provonix]: http://pronovix.com/
 
 ## Write The Docs EU 2016
 
