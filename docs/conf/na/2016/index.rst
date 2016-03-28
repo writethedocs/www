@@ -162,11 +162,36 @@ companies:
       </div>
 
       <!-- Editor -->
-      <div class="col-md-6 col-sm-6">
+      <div class="col-md-8 col-sm-4">
         <a href="https://github.com">
         <img src="/_static/img/2016/sponsors/github.png" width=200/></a>
       </div>
+      <div class="col-md-8 col-sm-4">
+        <a href="https://developer.mozilla.org/">
+        <img src="/_static/img/2016/sponsors/mdn.png" width=200/></a>
+      </div>
+      <div class="col-md-8 col-sm-4">
+        <a href="https://twilio.com">
+        <img src="/_static/img/2016/sponsors/twilio.png" width=200/></a>
+      </div>
    </div>
+   <br>
+   <br>
+   <br>
+
+Write the Docs is also helped out by companies that give their employees time to work on the conference.
+Write the Docs is produced by:
+
+.. raw:: html
+
+    <div class="row row-sponsors">
+      <!-- Patron -->
+      <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+        <a href="https://readthedocs.com">
+        <img src="/_static/img/2016/sponsors/read-the-docs.png" width=400/></a>
+      </div>
+   </div>
+
 
 Organizers
 ----------
