@@ -10,7 +10,7 @@ Speakers
     <a name="speaker-{{ speaker.slug }}"></a>
     <div class="row row-speaker">
       <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-        {# <img class="speaker-image" src="/_static/img/speakers/missing.jpg" /> #}
+        <img class="speaker-image" src="/_static/img/speakers/{{ speaker.img_file }}" />
       </div>
       <div class="col-md-8 col-sm-8">
         <h3>
@@ -20,9 +20,7 @@ Speakers
           </span>
         </h3>
         <h4>{{ speaker.title }}</h4>
-        Abstract currently being edited.
-        Will be released soon.
-        {# {{ speaker.abstract|indent(10) }} #}
+        {{ speaker.abstract|indent(10) }}
       </div>
     </div>
 
