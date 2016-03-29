@@ -125,7 +125,7 @@ Y'all are invited to join your fellow documentarians year round on
 [the Write The Docs forum][forum]. Sign up, catch up 
 on threads that interest you, and join a conversation or start a new one!
 
-[channel]: https://writethedocs.slack.com/
+[channel]: http://slack.writethedocs.org/
 [forum]: http://forum.writethedocs.org/
 
 ----
