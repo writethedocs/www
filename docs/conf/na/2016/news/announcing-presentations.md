@@ -36,7 +36,7 @@ So here it is, the full list of presentations:
 * Tim Arnold - [Accessible Math on the Web: A Server/Client Solution](/conf/na/2016/speakers/#speaker-tim-arnold)
 * Sharon Campbell - [How to Publish Wild-Caught Articles](/conf/na/2016/speakers/#speaker-sharon-campbell)
 * Daniel Beck - [Write the Readable README](/conf/na/2016/speakers/#speaker-daniel-beck)
-* Tim Nugent - [Code the Docs: Interactive Document Environments](/conf/na/2016/speakers/#speaker-tim-nugent)
+* Tim Nugent & Paris Buttfield-Addison - [Code the Docs: Interactive Document Environments](/conf/na/2016/speakers/#speaker-tim-nugent)
 * Tracy Osborn - [Writing So Your Words Are Read](/conf/na/2016/speakers/#speaker-tracy-osborn)
 * Sarah Day - [Copy that: Helping your users succeed with effective product copy](/conf/na/2016/speakers/#speaker-sarah-day)
 * Shaun McCance - [Crossing the Streams: Enabling Collaboration Between Products and Upstreams ](/conf/na/2016/speakers/#speaker-shaun-mccance)

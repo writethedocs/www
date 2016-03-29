@@ -51,11 +51,12 @@ html_sidebars = {
 
 speakers = json.load(file('data/2016.speakers.json'))
 
-for speaker in speakers:
-    if os.path.exists('_static/img/speakers/%s.jpg' % speaker['slug']):
-        speaker['img_file'] = '%s.jpg' % speaker['slug']
-    else:
-        speaker['img_file'] = 'missing.jpg'
+for talk in speakers:
+    for speaker in talk['speakers']:
+        if os.path.exists('_static/img/speakers/%s.jpg' % speaker['slug']):
+            speaker['img_file'] = '%s.jpg' % speaker['slug']
+        else:
+            speaker['img_file'] = 'missing.jpg'
 
 html_context = {
     'speakers2016': speakers

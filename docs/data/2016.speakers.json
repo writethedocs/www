@@ -1,149 +1,238 @@
 [
     {
-        "abstract": "Still waiting to be confirmed.",
-        "details": "",
+        "abstract": "Waiting to be confirmed",
         "title": "A lot of regulations and a big pile of open source repositories? Why technical writing for the government is fun!",
-        "name": "Britta Gustafson",
-        "slug": "britta-gustafson"
+        "speakers": [
+            {
+                "name": "Britta Gustafson",
+                "slug": "britta-gustafson",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>Come with me on a journey and learn how Atlassian went from the traditional \"Technical Writing\" team, to the Information Experience team. What began as a simple challenge to the Atlassian Technical Writing team, to make quality and success measurable and repeatable, grew into a journey to create a \"cradle to grave\" Information Experience. And we're just getting started. During the last two Write the Docs I've given a lightning talk, Write Measure Repeat, which covers one very small part of the change we've undergone. This year I'd like to tell the rest of a story, which is some of the most exciting work I've done in my career. I'll talk about the process of creating and growing a writing culture which is technically accurate, writes with a human voice, and connects to every other part of the information experience. While talking everyone through the journey I'll be sure to cover specific examples of using content strategy, user research, data analytics and a touch of team process. All this with a bit of humor and a passion which is obvious to anyone who's ever met me.</p>\n<p>Main points I'll touch on:</p>\n<ul>\n<li>How we worked through resistance to change.</li>\n<li>What Information Experience means to us and why it's not just a fancy title.</li>\n<li>Moving from the Quality Assistance team to the Design team win's, frustrations, hopes.</li>\n<li>Building a better site with Confluence and considering/using other tools.  Light on the tools part here, just covering the visual change and referencing how we did the actual tooling changes.</li>\n<li>What this means to me and what I hope we're beginning to see in the tech comm world.</li>\n</ul>",
-        "details": "",
         "title": "Atlassian: My Information Experience Adventure",
-        "name": "Daniel Stevens",
-        "slug": "daniel-stevens"
+        "speakers": [
+            {
+                "name": "Daniel Stevens",
+                "slug": "daniel-stevens",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>User assistance (documentation) is basically self-service customer support. Both documentation and customer support are critical to the success of any company, and they work better when they assist and improve each other. How can tap the knowledge of our support agents to improve the documentation, and how can we make the lives of support agents easier in return? </p>\n<p>I\u2019ve worked very closely with customer support and customer success teams for years, and I\u2019ve gone from thinking of them as \u201cthe RTFM, turn if off an on again folks\u201d to being their biggest advocate and fan.</p>\n<p>Let me tell you how documentarians can work with customer support to turn the F in RTFM from F*** to FANTASTIC!</p>\n<p>How does a documentarian work with customer support? </p>\n<ul>\n<li>Review support tickets manually</li>\n<li>Set up automated notifications</li>\n<li>Review difficult cases and solutions with customer support agents</li>\n<li>Learn about your customers</li>\n<li>Review ticket metrics, and measure how they change as you add more documentation</li>\n<li>Have them write!</li>\n</ul>",
-        "details": "",
         "title": "Two great teams that work better together: Bridging the gap between Documentation and Customer Support",
-        "name": "Neal Kaplan",
-        "slug": "neal-kaplan"
+        "speakers": [
+            {
+                "name": "Neal Kaplan",
+                "slug": "neal-kaplan",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>As technical writers, it\u2019s easy to sacrifice human connection in the strenuous effort to present technically accurate information. Maybe you feel the human connection is marketing\u2019s job, or if you\u2019re in a highly technical field, maybe you think your users are smart enough to make the connections themselves.  Maybe you have so much work, it\u2019s all you can do to write something technically accurate before moving on to the next update.  The result can be documentation that is airless, academic, and overly technical. In other words, not something that users would want to read! If the success of your company depends on your users actually using your documentation, you have to engage them and build understanding. </p>\n<p>This presentation will discuss how to create documentation that engages readers and focuses them on what matters. Using the writing process developed by Peter Elbow, author of \u201cWriting without Teachers,\u201d I\u2019ll show how to conduct peer reviews that elicit the reader\u2019s subjective experience -- what Peter Elbow called \u201cmovies of the reader\u2019s mind\u201d -- to reveal the ambiguities that can plague our writing. We\u2019ll look at how to use the \"summary and sayback\" and \u201ccenter of gravity\u201d techniques to help writers distill a technical passage down to its core.  We\u2019ll also look at how giving your documentation a more human voice can improve not only the reader\u2019s experience, but your own experience as a writer as well!  </p>",
-        "details": "",
         "title": "Documentation with Human Connection",
-        "name": "Hannah Gilberg",
-        "slug": "hannah-gilberg"
+        "speakers": [
+            {
+                "name": "Hannah Gilberg",
+                "slug": "hannah-gilberg",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>Your new engineer started on Tuesday; your internal docs should ramp them up. Your founding engineer's last day was yesterday; your internal docs keep their projects from falling through the cracks. Tomorrow you'll switch to a project that's already in progress; internal docs should help you catch up.</p>\n<p>Too bad your internal docs are haphazard, out of date, and mostly nonexistent. Welcome to startup life, where speed is prized above almost all.</p>\n<p>At startups and other fast-moving organizations, the imperative to ship provides a convenient excuse to skip writing the README.md. But should we accept this as the cost of moving fast? Or can we reframe how we communicate the value of documentation so that the message resonates in startupland? Can we adapt how we practice the art of documentation so that it happens even when nobody has time?</p>\n<p>I'd like to share my successes, failures, and hard-won lessons as an engineering lead and manager who has pushed to bring writing documentation into the internal culture and practices of a startup's engineering organization.</p>",
-        "details": "",
         "title": "Move Fast And Document Things: Hard-won lessons in building documentation culture in startups.",
-        "name": "Ruthie BenDor",
-        "slug": "ruthie-bendor"
+        "speakers": [
+            {
+                "name": "Ruthie BenDor",
+                "slug": "ruthie-bendor",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>In 2014, as the new documentation coordinator my challenges were:\n    1.  Create a living knowledge base that people want to use\n    2.  Switch from just-in-case documentation to just-in-time documentation</p>\n<p>In order to start churning out content, I designed a workflow process called Just-\u00adIn-\u00adTime (JIT) documentation. Just In Time is actually a production strategy that is used primarily in manufacturing, to cost-\u00adeffectively manage inventory supply. Some say that the approach originated in Japan, others credit Henry Ford. \nAs we applied it to documentation, just-\u00adin-\u00adtime means that we create the just enough documentation, just in time. This presentation covers how we created this process, how we\u2019ve refined it and its success.</p>",
-        "details": "",
         "title": "Just-In-Time Documentation: Employing Agile Methodology To Create Living Documentation",
-        "name": "Brianne Hillmer",
-        "slug": "brianne-hillmer"
+        "speakers": [
+            {
+                "name": "Brianne Hillmer",
+                "slug": "brianne-hillmer",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>Not so long ago, designers were not part of the product development cycle. They were only called at the last minute, with the hopes they could help salvage the project. But by then they couldn't do much, since it's hard to backtrack from bad design decisions made early on.</p>\n<p>Fortunately this has changed. Both management and developers now see the value of including designers as part of the development cycle.</p>\n<p>The same has to happen with tech writers!</p>\n<p>In this talk I'll share with you the 7 core values my tech writing team used at OutSystems, where we changed the company culture and won our place in the development cycle.</p>\n<p>These values are also being useful to me at Docker, where I'm still learning about the product, the users, and the best way to ship documentation.</p>",
-        "details": "",
         "title": "7 values of effective tech writing teams",
-        "name": "Joao Fernandes",
-        "slug": "joao-fernandes"
+        "speakers": [
+            {
+                "name": "Joao Fernandes",
+                "slug": "joao-fernandes",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>I'm Sharon, Editorial Manager at DigitalOcean. I'd like to talk about what my team does every day: publish technical content from the wild. We publish content from subject matter experts who not only aren't professional documentarians, but who don't even work for the company.</p>\n<p>I'll go over how we solicit submissions, how we select content and authors, how we reject unsuitable applications, how we test and edit the work, and how we build relationships with community writers.</p>\n<p>I'll also contextualize how this works well in the realm of open-source software, and what to consider if you adapt this model for your community.</p>",
-        "details": "",
         "title": "How to Publish Wild-Caught Articles",
-        "name": "Sharon Campbell",
-        "slug": "sharon-campbell"
+        "speakers": [
+            {
+                "name": "Sharon Campbell",
+                "slug": "sharon-campbell",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>A README file often makes your software\u2019s first impression. In this talk, you\u2019ll learn to put together a README that makes a great impression, even if you have little time or writing skills.</p>\n<p>At the top of your directory tree, your README is your software\u2019s resume: it\u2019s often the first and\u2014if you\u2019re not careful\u2014the last thing anyone sees of your software. But you may not have time to craft a bespoke README. That\u2019s OK! In this talk, you\u2019ll learn:</p>\n<ul>\n<li>why it\u2019s important to have a great README, whether you\u2019re working on a closed- or open-source project</li>\n<li>how to choose what to write first to get the best README in the shortest time</li>\n<li>how to use templates and Mad Libs to avoid common README pitfalls</li>\n</ul>\n<p>From your project\u2019s name to what\u2019s in that LICENSE file, you\u2019ll learn what to write first and what mistakes to avoid, so that your README wows new users, helps colleagues or contributors, and maybe even does your future self a favor.</p>\n<p>Like Mike Jang\u2019s Ignite OSCON 2015 talk \u201cTen Steps to a Better README\u201d<a href=\"https://www.youtube.com/watch?v=PC05prd2usY\">1</a>, this talk will recommend style and content, but with a greater focus on the process of writing a README. While inspired by open-source approaches to READMEs\u2014including readings of style guides such as 18F\u2019s \u201cMaking READMEs Readable\u201d<a href=\"https://pages.18f.gov/open-source-guide/making-readmes-readable/\">2</a> and the READMEs of all projects that have 10,000 or more stars on GitHub\u2014this talk will not be limited to the context of open source.</p>\n<p>Whether you're new to the genre or a README connoisseur, you'll learn a process to write a README that works for you and your audience.</p>",
-        "details": "",
         "title": "Write the Readable README",
-        "name": "Daniel Beck",
-        "slug": "daniel-beck"
+        "speakers": [
+            {
+                "name": "Daniel Beck",
+                "slug": "daniel-beck",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>Distributing example code and applications with documentation is now easy. There are a million different ways to get code to people: from zips, to GitHub, to gists, and beyond. Code is easy to distribute. But how do we create a better link between example code, and written documentation?</p>\n<p>Luckily, clever boffins have come up with some solutions: interactive document environments.\nThese let the live code and the documentation sit side-by-side with one another, the distributed example code is the documentation.</p>\n<p>This talk will take a brief look at some of the different interactive document environments out there \u2013 mainly IPython Notebooks and Swift Playgrounds \u2013 and the various strengths, weaknesses, and caveats of these tools. We\u2019ll also explore the future, and discuss where these tools are going, as well as the implications for technical documentation.</p>",
-        "details": "",
         "title": "Code the Docs: Interactive Document Environments",
-        "name": "Tim Nugent",
-        "slug": "tim-nugent"
+        "speakers": [
+            {
+                "name": "Tim Nugent",
+                "slug": "tim-nugent",
+                "details": ""
+            },
+            {
+                "slug": "paris-buttfield-addison",
+                "name": "Paris Buttfield-Addison",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>You\u2019re smart, educated, and you\u2019ve been working in this industry for years. You\u2019ve created amazing open-source packages and great documentation. But all that flies out the window if what you write about your project isn\u2019t being read.</p>\n<p>\u201cBut it\u2019s comprehensive! It has all the info that I would need!\u201d you may reply.</p>\n<p>The problem is not writing for people like you; it\u2019s writing and creating documentation that anyone can read, understand, and get excited about. This is true for projects aimed at beginners, but it goes double for projects and writing aimed at intermediate/expert programmers. Your projects will benefit when you write something that everyone can understand and would want to read. More readers = more users = perhaps more contributors!</p>",
-        "details": "",
         "title": "Writing So Your Words Are Read",
-        "name": "Tracy Osborn",
-        "slug": "tracy-osborn"
+        "speakers": [
+            {
+                "name": "Tracy Osborn",
+                "slug": "tracy-osborn",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>In this talk, I\u2019ll discuss my adventures learning to write effective product copy for web and mobile apps. I\u2019m a passionate believer that app copy is a magical panacea for bad user experience. When presented effectively, good copy decreases nearly every problem your users face, including frustration, ignorance, and workflow obstruction. </p>\n<p>I\u2019ll cover the following points in more detail:</p>\n<ul>\n<li>How unified naming conventions can decrease user stress and make engineers\u2019 jobs easier.</li>\n<li>How effective in-app help guides users through complex workflows. </li>\n<li>How to present context-based education, rather than comprehensive education. * One tricky field needs a sensible name, or even one good tooltip, not a link to a help center article that only has two lines about that one tricky field.</li>\n<li>How effective app copy is a free way to introduce and reaffirm your product\u2019s brand and voice.</li>\n<li>How effective app copy increases user retention in your app, and decreases frustration and fear.</li>\n</ul>\n<p>App copy is documentation for people who don\u2019t know your knowledge base exists.</p>",
-        "details": "",
         "title": "Copy that: Helping your users succeed with effective product copy",
-        "name": "Sarah Day",
-        "slug": "sarah-day"
+        "speakers": [
+            {
+                "name": "Sarah Day",
+                "slug": "sarah-day",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>Open source projects have documentation communities made up of volunteer enthusiasts and people from different companies. Good open source documentation is essential to the success of a project, and working within an open source community is entirely unlike working inside a single company.</p>\n<p>At Red Hat, our products are based on dozens of open source projects and built on the hard work of hundreds more. Our documentation has to serve the needs of our customers and add value to our products. At the same time, we need our upstream projects to be healthy and vibrant, and that includes having excellent documentation and documentation communities.</p>\n<p>Shaun McCance will talk about how to balance upstream and downstream documentation and how multiple teams can work together to create better documentation for everyone. He'll show examples from inside Red Hat, as well as from over a decade in working with open source documentation communities.</p>",
-        "details": "",
         "title": "Crossing the Streams: Enabling Collaboration Between Products and Upstreams ",
-        "name": "Shaun McCance",
-        "slug": "shaun-mccance"
+        "speakers": [
+            {
+                "name": "Shaun McCance",
+                "slug": "shaun-mccance",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>Writing fiction and writing documentation have much more in common that typing out large blocks of text. This talk will talk about elements of fiction writing that improve the process of writing docs:\n<em> Understanding audience: the tools fiction writers use to understand their audience (as well as to communicate with them) offer deeper looks at who reads what. The process of connecting with an audience is integral to fiction, but often overlooked in documentation \u2014 resulting in hard-to-use docs that don\u2019t help users.\n</em> Building story arcs: arguably, all fiction boils down to about seven different plots, retold in millions of different ways. Understanding underlying story structure makes the process of writing new tales much easier. Those story structures and plot elements can map directly to parts of documentation, as well as show options for creating standing elements for documentation.\n* Writing prose worth reading: documentation can be enjoyable to read, provided a writer is willing to invest time in crafting good reading material.</p>\n<p>This talk will draw on examples from both popular fiction and documentation out in the world today.</p>",
-        "details": "",
         "title": "What Writing Fiction Teaches You About Writing Documentation",
-        "name": "Thursday Bram",
-        "slug": "thursday-bram"
+        "speakers": [
+            {
+                "name": "Thursday Bram",
+                "slug": "thursday-bram",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>As a tech writer, you care about two things: knowing your audience and delivering the most concise information possible to that audience. But how do you do that when your audience is incredibly specialized? What if the information you\u2019re presenting is rapidly changing? How can you be certain that your documentation is always relevant for that audience?</p>\n<p>To answer all those questions, at New Relic we use CSAT (Customer Satisfaction) data. Our Docs team monitors CSAT comments and data for every single public-facing doc we own. We use that data to make dynamic decisions that affect our site and our docs work, influencing everything from quick doc fixes, giant rewrites, and our own site\u2019s functionality.</p>\n<p>Every pertinent comment receives attention from at least one tech writer. Part of our code example is out of date? Fixed. There\u2019s a glitch on our site? We\u2019ll look into it. We list a version of Mongo that\u2019s outdated? Updated. By focusing on these comments, your audience is working with you to keep your documentation updated. </p>\n<p>What happens when a customer doesn\u2019t leave a comment, and just says the document wasn\u2019t helpful? We track that too. When docs have consistently negative feedback without constructive comments, we know that at least something in that doc needs work. When that happens, we work with SMEs to rewrite those docs and give them a little love. We polish \u2018em up and publish them again, tracking their data afterwards to make sure that they\u2019re indeed improved.  </p>\n<p>And this doesn\u2019t just benefit the Docs team. We\u2019ve forwarded UI complaints to design, and disgruntled customer comments to Support. That\u2019s part of the beauty of CSAT: it\u2019s a direct line to all the customers looking for help with our products. With CSAT, our audience is helping us to curate the best possible information for all their needs.</p>\n<p>But we\u2019re not stopping there. Soon, we\u2019ll be implementing OAuth for our CSAT data. Once that\u2019s enabled, we\u2019ll be able to see what specific products customers are using, what region they\u2019re in, what type of user permissions they have, and a ton of other stuff. We\u2019ll be positively swimming in audience connectedness from our CSAT, and with it, we\u2019ll know that our audience is understanding our concise information in the best way possible. </p>",
-        "details": "",
         "title": "CSAT- what's that?",
-        "name": "Betsy Roseberg",
-        "slug": "betsy-roseberg"
+        "speakers": [
+            {
+                "name": "Betsy Roseberg",
+                "slug": "betsy-roseberg",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>Documenting an API can be an intimidating process: How should you organize the documentation? How should you present the endpoint reference? What sorts of conceptual information are developers be looking for? Where to start?</p>\n<p>This talk provides the answers to these questions! We\u2019ll go through organizational strategies for API docs and discuss ways to handle the reference, tutorial, and conceptual material you might need to produce. Throughout, we\u2019ll focus on thinking about what the end users need and building the docs to support those goals. We\u2019ll also look at modern tools that can make your API documentation useful, usable, and snazzy-looking, and talk about strategies for documenting APIs when you\u2019re stuck with a publishing tool that might not be ideal for the task (Madcap Flare, for example).</p>",
-        "details": "",
         "title": "so you need to document an API",
-        "name": "Allison Reinheimer Moore",
-        "slug": "allison-reinheimer-moore"
+        "speakers": [
+            {
+                "name": "Allison Reinheimer Moore",
+                "slug": "allison-reinheimer-moore",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>In order to be an effective technical writer, you must carry an entire cast of characters in your head. So many, in fact, that you might feel like you need help from a great and powerful wizard just to keep up. You already have a Brain, full of technical knowledge and communication skills. You already have a Heart, open to forging alliances with your co-workers, teammates, and SMEs. If you only had the Nerve, so that you could carve out just the right place for you and your documentation and become the king of the how-to jungle.</p>\n<p>From a new(er) writer to new (and experienced) writers, this presentation offers strategies for fostering courage in technical documentation. I will share the methods that fortified me while working on my first tech docs, some game plans for staying bold that I used as I gained more experience, and the secret I discovered about cultivating courage no matter where you are in your tech writing career.</p>",
-        "details": "",
         "title": "We\u2019re not in Kansas anymore: How to find courage while following the Technical Doc Road",
-        "name": "Christy Lutz",
-        "slug": "christy-lutz"
+        "speakers": [
+            {
+                "name": "Christy Lutz",
+                "slug": "christy-lutz",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>The hectic pace of documentarian tasks is only accelerating these days, spurred on by things like continuous deployment and tools that enable a new, higher level of collaboration. These changes bring not only unprecedented opportunities but also unprecedented challenges.</p>\n<p>Today's technical communicators need to adapt to cope with this change. In this talk, Tina the Tech Writer is back, now leading a team of writers. The team has been almost <em>too</em> successful at proving the value of documentation. Facing a mountain of urgent requests for documentation coverage, potential writer burnout, and attrition, she puts her hedgehog brain skills to practical application on a plan to bring the team to new levels of engagement, happiness, and value -- all while learning to say no when appropriate. It's all about balance. Tina will share results from her team's experiment, while outlining a way you can design your own plan to balance any set of challenges and opportunities you're facing. </p>",
-        "details": "",
         "title": "Continuous Annoyment: Bringing More Zen to a Hectic Writing Environment",
-        "name": "Tana Franko",
-        "slug": "tana-franko"
+        "speakers": [
+            {
+                "name": "Tana Franko",
+                "slug": "tana-franko",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>Documentation for most web applications today still follows the cognitive model of the good old fashioned documentation manual: While there might be some help content in the UI, the actual documentation manual in most cases lives as a separate object that is except for a few deep links on particularly troublesome areas, only accessible through a top domain.</p>\n<p>But it doesn\u2019t have to be this way, we should be perfectly able to predict what help resources a particular type of user might need on a given page, or functional state of a web application. Why do we force our users to leave our application, so that they can loose their context while searching for answers on Google?</p>\n<p>In this talk I want to talk about a paradigm for embedded help that makes documentation content available right in the application, no matter if it\u2019s a video tutorial, Walkthrough, or page in the manual. I will also introduce EmbedHelp, an open source embeddable widget that makes it easy for non-technical authors to implement this paradigm.</p>",
-        "details": "",
         "title": "Embed the docs!  ",
-        "name": "Kristof Van Tomme",
-        "slug": "kristof-van-tomme"
+        "speakers": [
+            {
+                "name": "Kristof Van Tomme",
+                "slug": "kristof-van-tomme",
+                "details": ""
+            }
+        ]
     },
     {
         "abstract": "<p>From English professor and assistant dean to software engineer. How the heck did that happen? How hard was the transition? That seems\u2026different. And what the heck are developers thinking when they say the code explains itself? These are some of the comments and questions folks ask me when they learn my background.</p>\n<p>Included will be some commentary on learning to code, job prospects, and ways in which engineering is like grad school (for English). Also covered will be why development is an awesome career for folks who love words, grammar, and writing. Find out what\u2019s up with developers, documentation, and denying the need for it (DID YOU SEE THAT ALLITERATION? My gawd, I\u2019ve still got it). </p>\n<p>Whether you\u2019ve thought about moving into software engineering yourself, or maybe you want to hear how one can go about learning hard, new stuff, this may be the 15 minutes during which you\u2019ll want to skip the hallway track.</p>",
-        "details": "",
         "title": "Oops, I Became an Engineer",
-        "name": "Tara Scherner de la Fuente",
-        "slug": "tara-scherner-de-la-fuente"
+        "speakers": [
+            {
+                "name": "Tara Scherner de la Fuente",
+                "slug": "tara-scherner-de-la-fuente",
+                "details": ""
+            }
+        ]
     },
     {
-        "abstract": "Waiting on confirmation of abstract.",
-        "details": "",
+        "abstract": "Waiting to be confirmed",
         "title": "Accessible Math on the Web: A Server/Client Solution",
-        "name": "Tim Arnold",
-        "slug": "tim-arnold"
+        "speakers": [
+            {
+                "name": "Tim Arnold",
+                "slug": "tim-arnold",
+                "details": ""
+            }
+        ]
     }
 ]
