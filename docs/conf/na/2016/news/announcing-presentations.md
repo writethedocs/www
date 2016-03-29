@@ -52,10 +52,10 @@ including a *Panel* and *Thunderstorm Talks*.
 We had a number of interesting presentations about companies transforming their documentation process.
 Instead of choosing just one,
 we asked the speakers to join us on a panel,
-so that folks can compare the different approaches.
+so that we can compare and contrast the different approaches.
 
 We are also sad every year that we have only 18 speaking slots at the event.
-This year we added Thunderstorm Talks to give us a few more opportunities.
+This year we added Thunderstorm Talks to give us a few more chances to hear folks.
 These talks break a few of the 30 minute slots into two 15-minute talks.
 They'll break up the pace of the day,
 and will let people get some new ideas across in an action packed format.
