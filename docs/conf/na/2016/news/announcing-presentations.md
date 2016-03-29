@@ -70,7 +70,7 @@ day and reception on Sunday, and the official party on
 Monday evening. 
 
 If you haven't purchased your ticket yet, time hasn't quite run out. 
-You can pick up your tickets [here][tickets]. 
+You can [pick up your tickets][tickets] now. 
 **We are already 75% sold out**,
 and expect to sell out before the end of April,
 so don't wait to get your tickets!
