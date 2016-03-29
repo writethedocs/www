@@ -38,6 +38,7 @@ News
 - :doc:`/conf/na/2016/news/announcing-2016`
 - :doc:`/conf/na/2016/news/cfp-tickets`
 - :doc:`/conf/na/2016/news/cfp-reminder`
+- :doc:`/conf/na/2016/news/announcing-presentations`
 
 Can't wait?
 ^^^^^^^^^^^

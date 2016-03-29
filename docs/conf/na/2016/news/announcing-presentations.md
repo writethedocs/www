@@ -25,13 +25,6 @@ So here it is, the full list of presentations:
 * Ruthie BenDor - [Move Fast And Document Things: Hard-won lessons in building documentation culture in startups.](/conf/na/2016/speakers/#speaker-ruthie-bendor)
 * Brianne Hillmer - [Just-In-Time Documentation: Employing Agile Methodology To Create Living Documentation](/conf/na/2016/speakers/#speaker-brianne-hillmer)
 * Joao Fernandes - [7 values of effective tech writing teams](/conf/na/2016/speakers/#speaker-joao-fernandes)
-* Sharon Campbell - [How to Publish Wild-Caught Articles](/conf/na/2016/speakers/#speaker-sharon-campbell)
-* Daniel Beck - [Write the Readable README](/conf/na/2016/speakers/#speaker-daniel-beck)
-* Tim Nugent - [Code the Docs: Interactive Document Environments](/conf/na/2016/speakers/#speaker-tim-nugent)
-* Tracy Osborn - [Writing So Your Words Are Read](/conf/na/2016/speakers/#speaker-tracy-osborn)
-* Sarah Day - [Copy that: Helping your users succeed with effective product copy](/conf/na/2016/speakers/#speaker-sarah-day)
-* Shaun McCance - [Crossing the Streams: Enabling Collaboration Between Products and Upstreams ](/conf/na/2016/speakers/#speaker-shaun-mccance)
-* Thursday Bram - [What Writing Fiction Teaches You About Writing Documentation](/conf/na/2016/speakers/#speaker-thursday-bram)
 * Betsy Roseberg - [CSAT- what's that?](/conf/na/2016/speakers/#speaker-betsy-roseberg)
 * Allison Reinheimer Moore - [So you need to document an API](/conf/na/2016/speakers/#speaker-allison-reinheimer-moore)
 * Christy Lutz - [We’re not in Kansas anymore: How to find courage while following the Technical Doc Road](/conf/na/2016/speakers/#speaker-christy-lutz)
@@ -39,6 +32,13 @@ So here it is, the full list of presentations:
 * Kristof Van Tomme - [Embed the docs!  ](/conf/na/2016/speakers/#speaker-kristof-van-tomme)
 * Tara Scherner de la Fuente - [Oops, I Became an Engineer](/conf/na/2016/speakers/#speaker-tara-scherner-de-la-fuente)
 * Tim Arnold - [Accessible Math on the Web: A Server/Client Solution](/conf/na/2016/speakers/#speaker-tim-arnold)
+* Sharon Campbell - [How to Publish Wild-Caught Articles](/conf/na/2016/speakers/#speaker-sharon-campbell)
+* Daniel Beck - [Write the Readable README](/conf/na/2016/speakers/#speaker-daniel-beck)
+* Tim Nugent - [Code the Docs: Interactive Document Environments](/conf/na/2016/speakers/#speaker-tim-nugent)
+* Tracy Osborn - [Writing So Your Words Are Read](/conf/na/2016/speakers/#speaker-tracy-osborn)
+* Sarah Day - [Copy that: Helping your users succeed with effective product copy](/conf/na/2016/speakers/#speaker-sarah-day)
+* Shaun McCance - [Crossing the Streams: Enabling Collaboration Between Products and Upstreams ](/conf/na/2016/speakers/#speaker-shaun-mccance)
+* Thursday Bram - [What Writing Fiction Teaches You About Writing Documentation](/conf/na/2016/speakers/#speaker-thursday-bram)
 
 You can also view the [full talk abstracts][talks] available on our website.
 
