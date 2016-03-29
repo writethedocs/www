@@ -78,8 +78,8 @@ so don't wait to get your tickets!
 Coming to Portland, but need help planning your stay? 
 We have published some [resources on where to stay and how to get around][visiting].
 
-[visiting]: http://writethedocs.org/conf/na/2015/visiting/
-[tickets]: http://writethedocs.org/conf/na/2015/#tickets
+[visiting]: http://writethedocs.org/conf/na/2016/visiting/
+[tickets]: http://writethedocs.org/conf/na/2016/#tickets
 
 ## Poll the Docs
 
