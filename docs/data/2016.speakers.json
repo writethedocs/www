@@ -140,7 +140,7 @@
         "slug": "tara-scherner-de-la-fuente"
     },
     {
-        "abstract": "<p>Math is a universal language but it is also primarily a visual language.\nPeople who are visually impaired or blind face far more challenges with\nmathematical communication than do sighted users.</p>\n<p>This talk presents a method of creating documentation that helps to ameliorate\nsome of those difficulties, offering readers a choice of renderings of the math\nin SVG, raw MathML, or MathML rendered by the MathJax Javascript Library.</p>\n<p>If you create mathematical documentation and your math is in LaTeX or MathML form, you can use the same technologies described here. By leveraging today's\ntechnologies on the server-side (NodeJS, MathJax, MongoDB) as well as client side (MathJax), you can provide your all of your users, sighted as well as blind, with accessible mathematics.</p>\n<p>Your readers will have the power to choose the format that works best for them.\nFor visually impaired readers, that might be the ability to scale and\nzoom; for blind users it may be using a screen reader to speak math.</p>\n<p>An overview of the problem is presented, a few of the challenges we found\nare discussed, and the final technical solution is described.</p>",
+        "abstract": "Waiting on confirmation of abstract.",
         "details": "",
         "title": "Accessible Math on the Web: A Server/Client Solution",
         "name": "Tim Arnold",
