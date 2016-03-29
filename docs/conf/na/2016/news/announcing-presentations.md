@@ -6,7 +6,9 @@ It’s here! We have chosen the line up for Write the Docs NA 2016
 and we’re tremendously excited to share it with you. 
 It was harder than ever to decide on the final talks this year, 
 and we thank everyone who took the time and thought to submit a proposal. 
-We couldn’t do it without you -- all of you! The definition of “documentarian” 
+We couldn’t do it without you -- all of you! 
+
+The definition of “documentarian” 
 just keeps expanding. We’re now not only developers and tech writers, 
 we’re customer support staff, product managers, testers, and designers, 
 working alone or on big teams, on open source projects 
