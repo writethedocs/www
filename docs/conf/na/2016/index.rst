@@ -7,7 +7,7 @@ We invite you to join 400 other folks for a three-day event to explore the art a
 documentation. The conference covers any topic related to documentation
 in the software industry. Past talks
 have also covered such diverse topics as empathy, the history of math symbols,
-and using emoji to keep your users attention.
+and using emoji to keep your users' attention.
 
 Write the Docs brings *everyone* who writes the docs together in the
 same room: Writers, Developers, Support Folks. We all have things to
