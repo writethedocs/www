@@ -1,5 +1,31 @@
 [
     {
+        "title": "Panel: Transforming your Documentation Process",
+        "speakers": [
+            {
+                "slug": "leon-barnard",
+                "name": "Leon Barnard",
+                "details": ""
+            },
+            {
+                "name": "Zach Corleissen",
+                "slug": "zach-corleissen",
+                "details": ""
+            },
+            {
+                "name": "Ted Hudek",
+                "slug": "ted-hudek",
+                "details": ""
+            },
+            {
+                "name": "Unconfirmed Speaker",
+                "slug": "unconfirmed-speaker",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>We had a number of interesting presentations about companies transforming their documentation process. Instead of choosing just one, we asked the speakers to join us on a panel, so that folks can compare and contrast the different approaches.</p>"
+    },
+    {
         "title": "Technical writing as public service: working on open source in government",
         "speakers": [
             {
