@@ -74,7 +74,7 @@ Presentations
           {% endfor %}
         </h3>
         <h4>
-        <a href="/conf/na/2016/speakers/#{{ talk.speakers.0.slug}}">
+        <a href="/conf/na/2016/speakers/#speaker-{{ talk.speakers.0.slug}}">
         {{ talk.title }}
         </a>
         </h4>
