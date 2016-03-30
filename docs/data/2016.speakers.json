@@ -1,6 +1,6 @@
 [
     {
-        "title": "A lot of regulations and a big pile of open source repositories? Why technical writing for the government is fun!",
+        "title": "Technical writing as public service: working on open source in government",
         "speakers": [
             {
                 "slug": "britta-gustafson",
@@ -8,7 +8,7 @@
                 "details": ""
             }
         ],
-        "abstract": "Waiting to be confirmed"
+        "abstract": "<p>What if U.S. federal agencies decided to reuse and contribute to open source software projects built by other agencies, since agencies often have similar technology problems to solve? And what if they hired technical writers with open source community experience to write documentation for these projects? That would be pretty cool. Also, that\u2019s my work. I'm part of 18F, a digital services consulting team within and for the federal government, and all of our work is open source.</p>\n<p>I\u2019ll explain surprising and rewarding aspects of working on documentation in government, through the lens of the cross-agency <a href=\"https://eregs.github.io/\">eRegulations</a> project I\u2019ve been working on. The Consumer Financial Protection Bureau started it, our 18F team (in the General Services Administration) adapted it for the Bureau of Alcohol, Tobacco, Firearms, and Explosives, and we\u2019re adapting it for use by two more agencies.</p>\n<p>I believe open source software development with good documentation aligns with core values of our government: work by the government belongs to the people, so it should be as transparent as possible, open to input from the people, and reusable by the people. The implementation of those values is the complicated part, of course! I\u2019ll explain how we get stuff done at both the big-picture level (how laws and government economics shape our work) and the day-to-day details (how we work across teams to get useful information online).</p>"
     },
     {
         "title": "Atlassian: My Information Experience Adventure",

@@ -48,6 +48,41 @@ Check out the
 We also have a `guide <http://docs.writethedocs.org/>`_ for getting started
 writing documentation.
 
+Presentations
+-------------
+
+{% for talk in speakers2016 %}
+
+.. raw:: html
+
+    {% for speaker in talk.speakers %}
+    <a name="speaker-{{ speaker.slug }}"></a>
+    {% endfor %}
+    <div class="row row-speaker">
+      <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
+        {% for speaker in talk.speakers %}
+        <img class="speaker-image" src="/_static/img/speakers/{{ speaker.img_file }}" />
+        {% endfor %}
+      </div>
+      <div class="col-md-8 col-sm-8">
+        <h3>
+          {% for speaker in talk.speakers %}
+          {{ speaker.name|indent(10) }}
+          <span class="speaker-details">
+          {{ speaker.details|indent(10) }}
+          </span>
+          {% endfor %}
+        </h3>
+        <h4>
+        <a href="/conf/na/2016/speakers/#{{ talk.speakers.0.slug}}">
+        {{ talk.title }}
+        </a>
+        </h4>
+      </div>
+    </div>
+
+{% endfor %}
+
 Tickets
 -------
 
