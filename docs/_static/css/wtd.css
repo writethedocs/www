@@ -63,3 +63,6 @@ div.footer span {
     padding: 0em .4em;
 }
 
+.strike {
+  text-decoration: line-through;
+}
