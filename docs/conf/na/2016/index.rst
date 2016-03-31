@@ -175,6 +175,8 @@ will be holding unconference sessions
 after lunch both days of the events, downstairs from the main stage, in
 Lola's Room. Everyone is welcome and encouraged to join in on the unconference.
 
+You can see the full schedule on the :doc:`conf/na/2016/schedule` page.
+
 .. image:: https://farm8.staticflickr.com/7405/14151984286_d33a8a8d3d_c.jpg
    :width: 49%
 
