@@ -6,9 +6,9 @@ The story of how Write the Docs came to be has been told, but it's time to put i
 .. image:: _static/img/origin-tweet.png
    :width: 75%
 
-What happened next is best told in the words of one of the founders, Troy Howard (taken with permission from his blog, at http://blog.thoward37.me/articles/developer-to-documentarian/, with the very lightest of edits because, well, another writer is getting it up on the site and editing is what we do, yes?) He wrote it in early 2014, before the second conference. So read it, and ponder just how far we've come since then, too!
+What happened next is best told in the words of one of the founders, Troy Howard (taken with permission from his blog, with the very lightest of edits because, well, another writer is getting it up on the site and editing is what we do, yes?) He wrote it in early 2014, before the second conference. So read it, and ponder just how far we've come since then, too!
 
-We'll let `Troy <https://twitter.com/thoward37>`_ tell the story from here:
+We'll let `Troy <https://twitter.com/thoward37>`_ tell the `story <http://blog.thoward37.me/articles/developer-to-documentarian/>`_ from here.
 
 History by Troy Howard
 ----------------------
