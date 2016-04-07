@@ -1,5 +1,5 @@
-The Write the Docs Origin Story
-===============================
+Origin Story
+============
 
 The story of how Write the Docs came to be has been told, but it's time to put it up on our own site. The first documentation of the emerging documentarian community comes appropriately enough in the form of a tweet from early 2013:
 
