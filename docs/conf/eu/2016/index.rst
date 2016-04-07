@@ -37,6 +37,19 @@ writing documentation.
 Tickets
 -------
 
+Tickets are on sale now! We do expect the event to sell out, so don't
+wait to purchase.
+
+.. raw:: html
+
+   <br>
+   <form method="GET" action="https://ti.to/writethedocs/write-the-docs-eu-2016">
+   <button name="_" id="button-tito-writethedocs-write-the-docs-eu-2016-1">
+   Buy Tickets
+   </button>
+   </form>
+   <br>
+
 Ticket includes:
 
 * Breakfast, Snacks, and Lunch on both Conference Days
