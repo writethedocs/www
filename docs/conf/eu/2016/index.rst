@@ -20,9 +20,7 @@ Tuesday) from 9am to 6pm**.
 News
 ^^^^
 
-There will be news SOON. 
-
-.. - :doc:`/conf/eu/2016/news/announcing-2016`
+- :doc:`/conf/eu/2016/news/cfp-tickets`
 
 Can't wait?
 ^^^^^^^^^^^
