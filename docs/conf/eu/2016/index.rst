@@ -96,9 +96,8 @@ getting around.
 Schedule
 --------
 
-Write the Docs is more than a conference. Each year we organize a wide
-bunch of events so that people can join together, collaborate, and learn
-from each other.
+We'll post the schedule here once we have it firmed up.
+You can see the outline of our schedule on the :doc:`/conf/eu/2016/schedule` page.
 
 Sponsors
 --------
@@ -106,6 +105,11 @@ Sponsors
 We are seeking corporate partners to help us create the best conference
 possible. Contact us at sponsorship@writethedocs.org for more
 information on sponsoring Write the Docs.
+
+Our current sponsors this year are:
+
+- `GitHub <http://github.com/>`_
+- `Red Hat <https://www.redhat.com/en>`_
 
 Organizers
 ----------
