@@ -1,7 +1,7 @@
 Origin Story
 ============
 
-The story of how Write the Docs came to be has been told, but it's time to put it up on our own site. The first documentation of the emerging documentarian community comes appropriately enough in the form of a tweet from early 2013:
+The story of how Write the Docs came to be has been told, but it's time to put it up on our own site. The first documentation of the emerging documentarian community comes appropriately enough in the form of a `tweet`_ from early 2013:
 
 .. image:: /_static/img/origin-tweet.png
    :width: 75%
@@ -9,6 +9,8 @@ The story of how Write the Docs came to be has been told, but it's time to put i
 What happened next is best told in the words of one of the founders, Troy Howard (taken with permission from his blog, with the very lightest of edits because, well, another writer is getting it up on the site and editing is what we do, yes?) He wrote it in early 2014, before the second conference. So read it, and ponder just how far we've come since then, too!
 
 We'll let `Troy <https://twitter.com/thoward37>`_ tell the `story <http://blog.thoward37.me/articles/developer-to-documentarian/>`_ from here.
+
+.. _tweet: https://twitter.com/ericholscher/status/287998770011074560
 
 History by Troy Howard
 ----------------------
