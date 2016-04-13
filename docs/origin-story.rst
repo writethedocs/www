@@ -104,14 +104,14 @@ day. Over the next couple months we were contacted by people from a
 variety of disciplines; technical writing industry groups, designers,
 typographers, literate programmers, API driven startups, and more. We
 quickly `found a new
-venue <http://docs.writethedocs.org/en/2013/conference/venue.html>`__,
+venue <http://docs.writethedocs.org/conference/venue/>`__,
 and sold out a 250 person conference. The
 `experience <http://adaptgather.com/2013/04/11/write-the-docs-2013/>`__
 was amazing. We'd found our tribe, and they'd found us.
 
 Now, we're ramping up for year two, with conferences both `in
-Portland <http://conf.writethedocs.org/na/2014/index.html>`__ and `in
-Budapest <http://conf.writethedocs.org/eu/2014/index.html>`__ this
+Portland <http://conf.writethedocs.org/na/2014/>`__ and `in
+Budapest <http://conf.writethedocs.org/eu/2014/>`__ this
 spring. We've seen local meetups spring up in `San
 Francisco <http://www.meetup.com/Write-the-Docs/>`__,
 `Boston <http://www.meetup.com/Write-The-Docs-Boston/>`__, and `New
