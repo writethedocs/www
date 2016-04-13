@@ -122,8 +122,8 @@ Where we are now
 ----------------
 
 That was written in 2014.
-Now there are over 600 attendees at Write the Docs conferences every year,
-over 1,500 meetup members that have joined Meetup groups in over 15 cities.
+Now there are over 600 attendees at Write the Docs :doc:`conferences </conf/index>` every year,
+over 1,500 :doc:`meetup </meetups/index>` members that have joined Meetup groups in over 15 cities.
 
 The community keeps growing larger and larger,
 and we're happy to welcome everyone into this wonderful group of documentarians.
