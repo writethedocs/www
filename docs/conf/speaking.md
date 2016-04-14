@@ -28,21 +28,31 @@ a bit shorter on stage than when you are practicing. Matt Haughey
 wrote a [guide on giving a presentation][introverts-guide] that might be a
 tremendous help to you if you are new to presenting in front of audiences.
 
+There are a lot of different ways of thinking through making your slides.
+Idan Gazit,
+a previous speaker,
+has written up a [great post](http://gazit.me/2012/12/05/designing-presentations.html) on how his process works.
+Yours might not be the same,
+but it might be useful to think through.
+
 [introverts-guide]: https://medium.com/@mathowie/an-introverts-guide-to-better-presentations-be7e772b2cb5
 
 ### Slides
 
-Slides should be in 16:9 resolution, though we can support 4:3 as well.  As a
-back up plan, have a PDF version of your slides. This will allow us to
-have everyone's talks ready to display if there are any technical issues the
-day of the conference.
 
 You'll be responsible for making sure your laptop, or other display device, is
 ready for your presentation. Be familiar with setting up an external display on
 your machine, each presenter will have several minutes for set up before the
-talk starts.
+talk starts. We will provide connectors for Mac & HDMI.
 
-In case you missed it last year, Christina Elmore gave a great talk that is relevant to many of us.
+Here are a few other tidbits to remember:
+
+* Make sure that your slides are **high contrast**. It will make them easier for everyone to read in the room.
+* Include your Twitter handle on your slides, so people can quote you properly :)
+* Slides should be 16:9 resolution
+* Have a PDF backup of your slides, just in case :)
+
+Christina Elmore gave a great talk that is relevant to many of us at our 2014 conference.
 Resist your urge to document with your presentation,
 you are here for the room.
 We highly recommend watching the full talk:
@@ -53,3 +63,10 @@ We highly recommend watching the full talk:
   src="https://www.youtube.com/embed/7tncfRqKnXU?list=PLmV2D6sIiX3UkFCMqq5at0xYgsMqAr6Jf"
   frameborder="0"
   allowfullscreen></iframe>
+
+
+### Questions
+
+Please let us know if you have any more questions.
+Your questions will just lead to making this document better,
+so please [email us](mailto:conf@writethedocs.org) any questions.
