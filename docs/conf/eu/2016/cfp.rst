@@ -5,7 +5,7 @@ CALL FOR PROPOSALS
 
 Good day, documentarians! We’re excited to announce that we’re
 officially accepting talk proposals for our 2016 conference, coming up
-on **September 18-20, 2016** in Portland, Oregon.
+on **September 18-20, 2016** in Prague, Czech Republic.
 
 Every year, Write the Docs invites people from all across our community
 to come up on stage to share their insights and experience. Whether
@@ -61,17 +61,17 @@ sure documentation is an organizational priority.
 Below are some talks from past events that we feel really captured the
 spirit of Write the Docs:
 
--  Daniya Kamran --- Translating Science into Poetry
-   (`abstract <http://docs.writethedocs.org/conference/talks/#daniya-kamran-translating-science-into-poetry>`__)
--  Kevin Hale --- Getting Developers and Engineers to Write the Docs
-   (`abstract <http://docs.writethedocs.org/conference/talks/#kevin-hale-getting-developers-and-engineers-to-write-the-docs>`__)
--  Matthew Butterick --- Typography for Docs
-   (`abstract <http://docs.writethedocs.org/conference/talks/#matthew-butterick-typography-for-docs>`__)
--  Kenneth Reitz --- Documentation at Scale
-   (`abstract <http://docs.writethedocs.org/2014/na/talks/#kenneth-reitz-documentation-at-scale>`__)
--  Heidi Waterhouse --- The New Sheriff in Town: Bringing documentation
-   out of chaos
-   (`abstract <http://docs.writethedocs.org/2014/na/talks/#heidi-waterhouse-the-new-sheriff-in-town-bringing-documentation-out-of-chaos>`__)
+- Riona MacNamara --- IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty, and Surf the Upcoming Swerve in Technical Documentation
+  (`abstract <http://www.writethedocs.org/conf/eu/2015/speakers/#speaker-rmacnamara>`__)
+- Emilie Boillat --- Whatchamacallit: Controlled Vocabularies for Technical Writers
+  (`abstract <http://www.writethedocs.org/conf/eu/2015/speakers/#speaker-eboillat>`__)
+- Jamie Hannaford --- Generating docs from APIs
+  (`abstract <http://www.writethedocs.org/conf/eu/2015/speakers/#speaker-jhannaford>`__)
+- Beth Aitman  Before the docs: writing for user interfaces
+  (`abstract <http://www.writethedocs.org/conf/eu/2015/speakers/#speaker-baitman>`__)
+- Diana Potter --- Screencasting 101
+  (`abstract <http://www.writethedocs.org/conf/eu/2015/speakers/#speaker-dpotter>`__)
+
 
 PRESENTATION FORMAT
 -------------------
@@ -91,7 +91,7 @@ travel or lodging for all speakers at this time. By not covering travel
 costs for our speakers, we are able to keep ticket prices low and to
 make the conference accessible to the largest number of participants
 possible. If your proposal is accepted but you are unable to attend due
-to travel costs, please let us know and we will make sure you 
+to travel costs, please let us know and we will make sure you
 can make it.
 
 Speaking at Write the Docs is a fantastic way to participate in the

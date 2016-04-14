@@ -3,14 +3,14 @@
 Announcing Ticket Sales and Call for Proposals
 ==============================================
 
-`Write the Docs Europe 2016 <http://www.writethedocs.org/conf/eu/2016/>`_ 
-is four months away and we hope you're getting excited!
+`Write the Docs Europe 2016 <http://www.writethedocs.org/conf/eu/2016/>`_
+is five months away and we hope you're getting excited!
 It will be another wonderful year full of great conversation and
 interesting talks.
 
 Today we are announcing our Call for Proposals and ticket sales.
 Speaking at Write the Docs is a fantastic way to share your ideas with
-our inspiring community of documentarians. 
+our inspiring community of documentarians.
 If there is something you'd really like to see a talk on this year,
 submit a talk on it,
 or refer someone else who would be good!
@@ -61,13 +61,15 @@ non-profit, or at a company with less than 10 employees.
 Call for Proposals
 ------------------
 
-Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you’ve been writing documentation for decades or you’ve just started this year, we want to hear from you!
+Every year, Write the Docs invites people from all across our community to come
+up on stage to share their insights and experience. Whether you’ve been writing
+documentation for decades or you’ve just started this year, we want to hear from
+ you!
 
 You can read our full `Call for
 Proposals <http://www.writethedocs.org/conf/eu/2016/cfp/>`__ on the website.
-The Call for Proposals will be open until **Febuary 29** this year.
-Since Febuary has 29 days this year,
-you get an extra day to submit your proposals :)
+The Call for Proposals will be open until **June 3** this year.
+
 
 Sponsors
 --------
@@ -78,8 +80,8 @@ sponsorship@writethedocs.org.
 
 Our first round of sponsors this year are:
 
-- `GitHub <http://github.com/>`_
-- Red Hat
+- `GitHub <https://github.com/>`_
+- `Red Hat <https://www.redhat.com/en>`_
 
 Thanks so much for making Write the Docs possible!
 
