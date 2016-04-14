@@ -4,9 +4,7 @@
 
 <a name="speaker-adangoor"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/AdamDangoor.png" />
-  </div>
+
   <div class="col-md-8 col-sm-8">
     <h3>
       Adam Dangoor
@@ -22,9 +20,7 @@
 
 <a name="speaker-ajaruga"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/anna_jaruga_small.jpg" />
-  </div>
+
   <div class="col-md-8 col-sm-8">
     <h3>
       Anna Jaruga
@@ -46,9 +42,7 @@
 
 <a name="speaker-baitman"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/bethaitman.jpg" />
-  </div>
+
   <div class="col-md-8 col-sm-8">
     <h3>
       Beth Aitman
@@ -77,9 +71,7 @@ In this talk, I'll discuss:
 
 <a name="speaker-cward"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/chris-ward.jpg" />
-  </div>
+
   <div class="col-md-8 col-sm-8">
     <h3>
       Chris Ward
@@ -101,9 +93,7 @@ In this talk, I'll discuss:
 
 <a name="speaker-celmore"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/elmore_headshot.jpg" />
-  </div>
+
   <div class="col-md-8 col-sm-8">
     <h3>
       Christina Elmore
@@ -123,9 +113,7 @@ This talk starts with framing the common types of needs that docs can meet: info
 
 <a name="speaker-dpotter"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/Diana-P-cd4503c7.jpg" />
-  </div>
+
   <div class="col-md-8 col-sm-8">
     <h3>
       Diana Potter
@@ -143,9 +131,7 @@ This talk starts with framing the common types of needs that docs can meet: info
 
 <a name="speaker-ecaine"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/elicropped2-19.jpg" />
-  </div>
+
   <div class="col-md-8 col-sm-8">
     <h3>
       Elijah Caine
@@ -165,9 +151,7 @@ This talk starts with framing the common types of needs that docs can meet: info
 
 <a name="speaker-eboillat"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/EmilieBoillat300x300.png" />
-  </div>
+
   <div class="col-md-8 col-sm-8">
     <h3>
      Emilie Boillat
@@ -186,10 +170,7 @@ In this talk, I will share ways to create and maintain various types of vocabula
 
 <a name="speaker-fscholz"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/fschultz.jpg" />
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/jean-yves.jpg" />
-  </div>
+
   <div class="col-md-8 col-sm-8">
     <h3>
       Florian Scholz&nbsp;& Jean&mdash;Yves&nbsp;Perrier
@@ -210,9 +191,7 @@ This is about improving quality, working with diverse communities, fostering inn
 
 <a name="speaker-jhannaford"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/jamie-hannaford.jpg" />
-  </div>
+
   <div class="col-md-8 col-sm-8">
     <h3>
       Jamie Hannaford
@@ -231,9 +210,7 @@ But what about our documentation? If API contracts can be assimilated into softw
 
 <a name="speaker-jrondeau"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/jrondeau.png" />
-  </div>
+
   <div class="col-md-8 col-sm-8">
     <h3>
       Jennifer Rondeau
@@ -256,9 +233,7 @@ This talk shows how documentarians can find inspiration in the past, build on it
 
 <a name="speaker-pkeegan"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/patrick_keegan.jpg" />
-  </div>
+
   <div class="col-md-8 col-sm-8">
     <h3>
       Patrick Keegan
@@ -278,9 +253,7 @@ In this presentation, I'll talk about ways to overcome burdensome organizational
 
 <a name="speaker-padams"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/padams.png" />
-  </div>
+
   <div class="col-md-8 col-sm-8">
     <h3>
       Paul Adams
@@ -301,9 +274,7 @@ In this talk Paul walks us through a selection of his favourite laws of software
 
 <a name="speaker-proeland"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/paul_roeland-300px.jpg" />
-  </div>
+
   <div class="col-md-8 col-sm-8">
     <h3>
       Paul Roeland
@@ -331,9 +302,7 @@ Not to mention being fun...
 
 <a name="speaker-rmatic"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/RadinaMatic_headshot.jpg" />
-  </div>
+
   <div class="col-md-8 col-sm-8">
     <h3>
       Radina Matic
@@ -348,9 +317,7 @@ Presenting a business case for quality documentation can sometimes be a difficul
 
 <a name="speaker-rmacnamara"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/rionam.jpg" />
-  </div>
+
   <div class="col-md-8 col-sm-8">
     <h3>
       Riona MacNamara
@@ -374,9 +341,7 @@ Our future is bright if we pay attention to our new opportunities instead of tha
 
 <a name="speaker-sheinen"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/SHeinen_300x300.jpg" />
-  </div>
+
   <div class="col-md-8 col-sm-8">
     <h3>
      Sonja Heinen
@@ -401,9 +366,7 @@ Primarily, the objective of reading and writing the docs serves the purpose to c
 
 <a name="speaker-znemec"></a>
 <div class="row row-speaker">
-  <div class="col-md-2 col-md-offset-1 col-sm-2 col-sm-offset-1">
-    <img class="speaker-image" src="/conf/eu/2015/pics/speakers/znemec.jpg" />
-  </div>
+  
   <div class="col-md-8 col-sm-8">
     <h3>
       Zdeněk Němec
