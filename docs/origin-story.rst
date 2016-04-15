@@ -1,14 +1,22 @@
-The Write the Docs Origin Story
-===============================
+Origin Story
+============
 
-The story of how Write the Docs came to be has been told, but it's time to put it up on our own site. The first documentation of the emerging documentarian community comes appropriately enough in the form of a tweet from early 2013:
+The story of how Write the Docs came to be has been told, but it's time to put it up on our own site. 
+The first documentation of the emerging documentarian community comes appropriately enough in the form of a `tweet`_ from early 2013:
 
 .. image:: /_static/img/origin-tweet.png
    :width: 75%
 
-What happened next is best told in the words of one of the founders, Troy Howard (taken with permission from his blog, with the very lightest of edits because, well, another writer is getting it up on the site and editing is what we do, yes?) He wrote it in early 2014, before the second conference. So read it, and ponder just how far we've come since then, too!
+What happened next is best told in the words of one of the founders,
+Troy Howard. 
+He wrote it in early 2014, 
+before the second conference. 
+So read it, 
+and ponder just how far we've come since then.
 
 We'll let `Troy <https://twitter.com/thoward37>`_ tell the `story <http://blog.thoward37.me/articles/developer-to-documentarian/>`_ from here.
+
+.. _tweet: https://twitter.com/ericholscher/status/287998770011074560
 
 History by Troy Howard
 ----------------------
@@ -96,17 +104,27 @@ day. Over the next couple months we were contacted by people from a
 variety of disciplines; technical writing industry groups, designers,
 typographers, literate programmers, API driven startups, and more. We
 quickly `found a new
-venue <http://docs.writethedocs.org/en/2013/conference/venue.html>`__,
+venue <http://docs.writethedocs.org/conference/venue/>`__,
 and sold out a 250 person conference. The
 `experience <http://adaptgather.com/2013/04/11/write-the-docs-2013/>`__
 was amazing. We'd found our tribe, and they'd found us.
 
 Now, we're ramping up for year two, with conferences both `in
-Portland <http://conf.writethedocs.org/na/2014/index.html>`__ and `in
-Budapest <http://conf.writethedocs.org/eu/2014/index.html>`__ this
+Portland <http://conf.writethedocs.org/na/2014/>`__ and `in
+Budapest <http://conf.writethedocs.org/eu/2014/>`__ this
 spring. We've seen local meetups spring up in `San
 Francisco <http://www.meetup.com/Write-the-Docs/>`__,
 `Boston <http://www.meetup.com/Write-The-Docs-Boston/>`__, and `New
 York <http://www.meetup.com/Write-The-Docs-NY/>`__. We're working on
 building more.
+
+Where we are now
+----------------
+
+That was written in 2014.
+Now there are over 600 attendees at Write the Docs :doc:`conferences </conf/index>` every year,
+over 1,500 :doc:`meetup </meetups/index>` members that have joined meetup groups in over 15 cities.
+
+The community keeps growing larger and larger,
+and we're happy to welcome everyone into this wonderful group of documentarians.
 
