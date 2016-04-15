@@ -64,7 +64,7 @@ Call for Proposals
 Every year, Write the Docs invites people from all across our community to come
 up on stage to share their insights and experience. Whether you’ve been writing
 documentation for decades or you’ve just started this year, we want to hear from
- you!
+you!
 
 You can read our full `Call for
 Proposals <http://www.writethedocs.org/conf/eu/2016/cfp/>`__ on the website.
