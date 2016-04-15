@@ -1,24 +1,42 @@
 # -*- coding: utf-8 -*-
 #
-import sys
 import os
-import shlex
-import shutil
 import json
+
 from recommonmark.parser import CommonMarkParser
+import ablog
 
 
 exclude_patterns = ['_build', 'include']
-extensions = []
+extensions = [
+    'ablog',
+]
+blog_baseurl = 'http://www.writethedocs.org/blog/'
+blog_path = 'blog/archive'
+blog_authors = {
+    'Eric': ('Eric Holscher', 'http://ericholscher.com'),
+    'Anthony': ('Anthony Johnson', 'http://ohess.org'),
+}
+blog_default_author = 'Eric'
+
+blog_locations = {
+    'PDX': ('Portland, Oregon', 'http://www.portlandhikersfieldguide.org/'),
+}
+blog_default_location = 'PDX'
+
 templates_path = ['_templates']
+templates_path.append(ablog.get_html_templates_path())
+
 source_parsers = {
     '.md': CommonMarkParser,
 }
 source_suffix = ['.rst', '.md']
+
 master_doc = 'index'
 project = u'Write the Docs'
 copyright = u'2016, The Write the Docs Community'
 author = u'The Write the Docs Community'
+
 version = '1.0'
 release = '1.0'
 language = 'en'
