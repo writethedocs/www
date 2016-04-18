@@ -76,6 +76,10 @@ Distribution
 ------------
 
 * Common Output formats
+* Documentation Themes
+    - Slate
+    - Read the Docs Theme
+    - Alabaster
 
 Writing Environments
 --------------------
