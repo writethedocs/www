@@ -1,5 +1,5 @@
 .. post:: Apr 15, 2016
-   :tags: welcome
+   :tags: welcome, intro
    :author: eric
    :location: PDX
    :language: en
