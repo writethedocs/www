@@ -12,19 +12,8 @@ We're your Welcome Wagon, and we're glad you're coming to the
 and Leona at the conference to say hello! In the meantime, you can email
 `Christy <mailto:christy.lutz@jivesoftware.com>`__ or
 `Leona <mailto:leona.campbell@jivesoftware.com>`__ if we can help make
-your first time at the conference easier.
-
-.. container:: crew-images
-
-   .. figure:: /_static/img/crew/leona.jpg
-      :height: 250px
-
-      Leona
-
-   .. figure:: /_static/img/crew/christy.jpg
-      :height: 250px
-
-      Christy
+your first time at the conference easier. Come :ref:`say hello <say-hello>`
+to us at the conference.
 
 We've gathered important stuff here that will help you navigate the
 conference like a pro, make you feel more at home, and help you to
@@ -267,3 +256,25 @@ are some tips:
    Lola's Room to check out the unconference schedule. Make note of any
    unconference talks you want to attend.
 -  Sign up for a lightning talk or lead an unconference session.
+
+.. _say-hello:
+
+Say hello
+---------
+
+We'd love to say hi when you're at the conference.
+Come find us and ask any questions,
+or just chat about the conference!
+
+.. container:: crew-images
+
+   .. figure:: /_static/img/crew/leona.jpg
+      :height: 250px
+
+      Leona
+
+   .. figure:: /_static/img/crew/christy.jpg
+      :height: 250px
+
+      Christy
+
