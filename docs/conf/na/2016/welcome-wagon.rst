@@ -1,3 +1,6 @@
+Welcome Wagon
+=============
+
 Hello! 
 
 We're your Welcome Wagon, and we're glad you're coming to the
@@ -29,7 +32,7 @@ Welcome Wagon events
    where.
 
 Pro Tips
-========
+--------
 
 -  You don't need to go to every talk. Look through the schedule of
    events before you arrive or while you are eating or taking a break.
@@ -245,5 +248,3 @@ are some tips:
    Lola's Room to check out the unconference schedule. Make note of any
    unconference talks you want to attend.
 -  Sign up for a lightning talk or lead an unconference session.
-
-
