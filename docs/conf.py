@@ -113,7 +113,6 @@ def rstjinja(app, docname, source):
 
 
 def setup(app):
-    app.add_stylesheet('writethedocs.css')
     app.connect('html-page-context', on_page_context)
     app.connect("source-read", rstjinja)
 

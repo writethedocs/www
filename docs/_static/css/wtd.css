@@ -66,3 +66,14 @@ div.footer span {
 .strike {
   text-decoration: line-through;
 }
+
+/* Welcome Wagon */
+
+.crew-images {
+  margin: 15px;
+}
+
+.crew-images a {
+  margin: 15px;
+}
+

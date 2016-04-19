@@ -14,6 +14,14 @@ and Leona at the conference to say hello! In the meantime, you can email
 `Leona <mailto:leona.campbell@jivesoftware.com>`__ if we can help make
 your first time at the conference easier.
 
+.. container:: crew-images
+
+   .. image:: /_static/img/crew/leona.jpg
+      :height: 250px
+
+   .. image:: /_static/img/crew/christy.jpg
+      :height: 250px
+
 We've gathered important stuff here that will help you navigate the
 conference like a pro, make you feel more at home, and help you to
 manage the constant flow of information. The Welcome Wagon events warm
