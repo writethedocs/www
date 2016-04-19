@@ -1,3 +1,5 @@
+:template: 2016/na.html
+
 Welcome Wagon
 =============
 
