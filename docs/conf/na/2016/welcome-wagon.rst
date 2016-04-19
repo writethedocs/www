@@ -16,11 +16,15 @@ your first time at the conference easier.
 
 .. container:: crew-images
 
-   .. image:: /_static/img/crew/leona.jpg
+   .. figure:: /_static/img/crew/leona.jpg
       :height: 250px
 
-   .. image:: /_static/img/crew/christy.jpg
+      Leona
+
+   .. figure:: /_static/img/crew/christy.jpg
       :height: 250px
+
+      Christy
 
 We've gathered important stuff here that will help you navigate the
 conference like a pro, make you feel more at home, and help you to

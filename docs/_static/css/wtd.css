@@ -73,7 +73,10 @@ div.footer span {
   margin: 15px;
 }
 
-.crew-images a {
+.crew-images a, .crew-images p {
   margin: 15px;
 }
 
+.crew-images div {
+  float: left;
+}
