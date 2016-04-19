@@ -20,9 +20,7 @@ Tuesday) from 9am to 6pm**.
 News
 ^^^^
 
-There will be news SOON. 
-
-.. - :doc:`/conf/eu/2016/news/announcing-2016`
+- :doc:`/conf/eu/2016/news/cfp-tickets`
 
 Can't wait?
 ^^^^^^^^^^^
@@ -37,7 +35,18 @@ writing documentation.
 Tickets
 -------
 
-**Tickets will go on sale soon.**
+Tickets are on sale now! We do expect the event to sell out, so don't
+wait to purchase.
+
+.. raw:: html
+
+   <br>
+   <form method="GET" action="https://ti.to/writethedocs/write-the-docs-eu-2016">
+   <button name="_" id="button-tito-writethedocs-write-the-docs-eu-2016-1">
+   Buy Tickets
+   </button>
+   </form>
+   <br>
 
 Ticket includes:
 
@@ -47,59 +56,48 @@ Ticket includes:
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
 
-..      # Comment out tickets for now
+Corporate Tickets
+-----------------
 
-	Corporate Tickets
-	-----------------
+Purchase this ticket if a company is paying for your attendance.
+Companies interested in sponsorship can also receive tickets to the
+conference with a sponsorship package.
 
-	Purchase this ticket if a company is paying for your attendance.
-	Companies interested in sponsorship can also receive tickets to the
-	conference with a sponsorship package.
+* €150 Corporate Early Bird (Limit 25)
+* €200 Corporate
 
-	* $300 Corporate Early Bird (Limit 25)
-	* $350 Corporate
+Independent Tickets
+-------------------
 
-	Independent Tickets
-	-------------------
+Purchase this ticket if you are paying for yourself, work at a
+non-profit, or at a company with less than 10 employees.
 
-	Purchase this ticket if you are paying for yourself, work at a
-	non-profit, or at a company with less than 10 employees.
+* €75 Independent Early Bird (Limit 25)
+* €100 Independent
 
-	* $150 Independent Early Bird (Limit 25)
-	* $200 Independent
+Financial Assistance
+----------------------
 
-	Student or Unemployed
-	----------------------
+If you can't afford these prices and still wish to attend, please email
+us at europe@writethedocs.org and we can work something out so you can come.
 
-	Purchase this ticket if you are currently enrolled as a student, or
-	don't currently have a source of income.
+Lodging and Travel
+------------------
 
-	* $75 Student or Unemployed Tickets
+We don't have an official conference hotel, but there are many options
+for staying in Prague, and the city offers many methods of
+getting around.
 
-	Financial Assistance
-	----------------------
-
-	If you can't afford these prices and still wish to attend, please email
-	us at conf@writethedocs.org and we can work something out so you can come.
-
-	Lodging and Travel
-	------------------
-
-	We don't have an official conference hotel, but there are many options
-	for staying in downtown Portland, and the city offers many methods of
-	getting around.
-
-	-  `Hotels near the conference
-	   venue </conf/na/2016/visiting/#where-to-stay>`__
-	-  `Transportation options around the
-	   city </conf/na/2016/visiting/#how-to-get-around>`__
+-  `Hotels near the conference
+   venue </conf/eu/2016/visiting/#where-to-stay>`__
+-  `Transportation options around the
+   city </conf/eu/2016/visiting/#how-to-get-around>`__
 
 Schedule
 --------
 
-Write the Docs is more than a conference. Each year we organize a wide
-bunch of events so that people can join together, collaborate, and learn
-from each other.
+We'll post the schedule here once we have it firmed up.
+You can see the outline of our schedule on the :doc:`/conf/eu/2016/schedule` page.
 
 Sponsors
 --------
@@ -107,6 +105,11 @@ Sponsors
 We are seeking corporate partners to help us create the best conference
 possible. Contact us at sponsorship@writethedocs.org for more
 information on sponsoring Write the Docs.
+
+Our current sponsors this year are:
+
+- `GitHub <http://github.com/>`_
+- `Red Hat <https://www.redhat.com/en>`_
 
 Organizers
 ----------
