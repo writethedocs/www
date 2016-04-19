@@ -244,7 +244,7 @@ are some tips:
    conference to set up a meeting onsite or find them at the conference.
 -  Attend the Welcome Wagon events.
 -  Join in the Saturday hike.
--  Attend the Sunday writing day and volunteer to help.
+-  Attend the Sunday writing day and volunteer to help on one of the projects being worked on.
 -  Check out the talk schedule in advance and make note of the talks you
    don't want to miss.
 -  In the morning, or when you need a break during the day, head down to
