@@ -17,6 +17,37 @@ first-timers. Strategies and pro tips provide ways you can make the most
 of the conference. The FAQs strive to answer questions before you even
 have them.
 
+Welcome Wagon events
+--------------------
+
+-  **Sunday reception:** Get a jump start on the conference and connect
+   with other new colleagues during the reception. The Welcome Wagon
+   will meet up at the beginning of the reception, so you have a chance
+   to make some connections before mingling.
+-  **Monday pre-conference hall walk-through:** Join us on a quick
+   walk-through of the conference hall so you'll know what happens
+   where.
+
+Pro Tips
+========
+
+-  You don't need to go to every talk. Look through the schedule of
+   events before you arrive or while you are eating or taking a break.
+   Figure out which talks you want to see the most. Spread out your time
+   between talks, unconference sessions, networking, and breaks.
+-  Speaking of breaks--conferences are exhilarating, but can also be
+   exhausting. Give your brain a break! Grab a quiet spot in Lola's Room
+   or take a quick walk. Play a board game on your lunch break. Come
+   back invigorated.
+-  Starting Monday morning, check the unconference schedule in Lola's
+   Room to see if there are any sessions you are interested in
+   attending. New sessions are added all the time, so check back
+   periodically.
+-  Eat! You can use the energy.
+-  Are you looking for a job or is there an opening at your company?
+   Check out the job board in Lola's Room.
+
+
 FAQs
 ----
 
@@ -98,8 +129,8 @@ public transportation or a taxi there.
 **What should I do during the talks?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**`Conference talks in the Crystal
-Ballroom <http://www.writethedocs.org/conf/na/2016/speakers/>`__**
+`Conference talks in the Crystal
+Ballroom <http://www.writethedocs.org/conf/na/2016/speakers/>`__
 
 -  The time between talks is for meeting your colleagues or taking a
    break. During the talks, listen and take in as much as you can.
@@ -215,33 +246,4 @@ are some tips:
    unconference talks you want to attend.
 -  Sign up for a lightning talk or lead an unconference session.
 
-Welcome Wagon events
---------------------
-
--  **Sunday reception:** Get a jump start on the conference and connect
-   with other new colleagues during the reception. The Welcome Wagon
-   will meet up at the beginning of the reception, so you have a chance
-   to make some connections before mingling.
--  **Monday pre-conference hall walk-through:** Join us on a quick
-   walk-through of the conference hall so you'll know what happens
-   where.
-
-Pro Tips
-========
-
--  You don't need to go to every talk. Look through the schedule of
-   events before you arrive or while you are eating or taking a break.
-   Figure out which talks you want to see the most. Spread out your time
-   between talks, unconference sessions, networking, and breaks.
--  Speaking of breaks--conferences are exhilarating, but can also be
-   exhausting. Give your brain a break! Grab a quiet spot in Lola's Room
-   or take a quick walk. Play a board game on your lunch break. Come
-   back invigorated.
--  Starting Monday morning, check the unconference schedule in Lola's
-   Room to see if there are any sessions you are interested in
-   attending. New sessions are added all the time, so check back
-   periodically.
--  Eat! You can use the energy.
--  Are you looking for a job or is there an opening at your company?
-   Check out the job board in Lola's Room.
 
