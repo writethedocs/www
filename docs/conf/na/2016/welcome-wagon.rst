@@ -34,6 +34,7 @@ first-timers. Strategies and pro tips provide ways you can make the most
 of the conference. The FAQs strive to answer questions before you even
 have them.
 
+
 Welcome Wagon events
 --------------------
 
@@ -68,6 +69,9 @@ Pro Tips
 
 FAQs
 ----
+
+.. contents::
+   :local:
 
 **Where is everything?**
 ~~~~~~~~~~~~~~~~~~~~~~~~
