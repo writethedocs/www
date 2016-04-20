@@ -3,11 +3,11 @@
 Announcing Ticket Sales and Call for Proposals
 ==============================================
 
-`Write the Docs Europe 2016 <http://www.writethedocs.org/conf/eu/2016/>`_
+`Write The Docs Europe 2016 <http://www.writethedocs.org/conf/eu/2016/>`_
 is five months away and we're excited to open `ticket sales <http://www.writethedocs.org/conf/eu/2016/news/cfp-tickets#tickets>`__ and put out
 the call for `talk proposals <http://www.writethedocs.org/conf/eu/2016/cfp/>`_!
 
-Write the Docs Europe will be happening in **Prague, Czech Republic**, from **September
+Write The Docs Europe will be happening in **Prague, Czech Republic**, from **September
 18-20, 2016**.
 
 We’ve got a brand new venue, `Auto Klub <http://www.ganimed.cz/>`_, and are preparing an awesome lineup of documentation talks. Read on for more details on the conference, as well as the exciting auxiliary activities leading up to the main event.
@@ -19,7 +19,7 @@ If you’ve been to Write The Docs before, you know that you’re in for some of
 
 Every year we assemble a group of exceptional speakers to discuss the art and science of documentation. You’ll learn about the latest in documentation tools, tech writing theory, content delivery, and more. In the past, we’ve had talks on topics ranging from poetry to continuous deployment, from typography to API reviews.
 
-Write the Docs Europe will be happening in **Prague, Czech Republic**, from **September
+Write The Docs Europe will be happening in **Prague, Czech Republic**, from **September
 18-20, 2016**.
 
 In addition to the conference itself, we have a host of auxiliary events to round out your Write The Docs experience.
@@ -27,7 +27,7 @@ In addition to the conference itself, we have a host of auxiliary events to roun
 Auxiliary events
 ^^^^^^^^^^^^^^^^^^^
 
-Write the Docs is so much more than a conference—it’s a rare and golden opportunity for documentarians to interact with our community in-person. Every year we organize a handful of side events to augment the main conference, making it easier for attendees to get to know each other.
+Write The Docs is so much more than a conference—it’s a rare and golden opportunity for documentarians to interact with our community in-person. Every year we organize a handful of side events to augment the main conference, making it easier for attendees to get to know each other.
 
 All of these events are optional, but we’d strongly recommend you come into town Saturday or early Sunday so you can participate.
 
@@ -84,7 +84,7 @@ non-profit, or at a company with less than 10 employees.
 Call for Proposals
 ------------------
 
-Every year, Write the Docs invites people from all across our community to come
+Every year, Write The Docs invites people from all across our community to come
 up on stage to share their insights and experience. Whether you’ve been writing
 documentation for decades or you’ve just started this year, we want to hear from
 you!
@@ -106,7 +106,7 @@ Our first round of sponsors this year are:
 - `GitHub <https://github.com/>`_
 - `Red Hat <https://www.redhat.com/en>`_
 
-Thanks so much for making Write the Docs possible!
+Thanks so much for making Write The Docs possible!
 
 Get excited!
 -------------
@@ -114,4 +114,4 @@ Get excited!
 We’ve been so thrilled to see how much this community of documentarians has grown over the last few years. This year is shaping up to be another fantastic experience for writers, programmers, designers, and all those out there who write the docs.
 
 Cheers,
-Write the Docs Team
+Write The Docs Team
