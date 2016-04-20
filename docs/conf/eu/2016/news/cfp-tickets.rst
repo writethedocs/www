@@ -7,7 +7,7 @@ Announcing Ticket Sales and Call for Proposals
 is five months away and we're excited to open `ticket sales <http://www.writethedocs.org/conf/eu/2016/news/cfp-tickets#tickets>`__ and put out
 the call for `talk proposals <http://www.writethedocs.org/conf/eu/2016/cfp/>`_!
 
-Write the Docs Europe will be happening in **Prague, Europe**, from **September
+Write the Docs Europe will be happening in **Prague, Czech Republic**, from **September
 18-20, 2016**.
 
 We’ve got a brand new venue, `Auto Klub <http://www.ganimed.cz/>`_, and are preparing an awesome lineup of documentation talks. Read on for more details on the conference, as well as the exciting auxiliary activities leading up to the main event.
@@ -19,7 +19,7 @@ If you’ve been to Write The Docs before, you know that you’re in for some of
 
 Every year we assemble a group of exceptional speakers to discuss the art and science of documentation. You’ll learn about the latest in documentation tools, tech writing theory, content delivery, and more. In the past, we’ve had talks on topics ranging from poetry to continuous deployment, from typography to API reviews.
 
-Write the Docs Europe will be happening in **Prague, Europe**, from **September
+Write the Docs Europe will be happening in **Prague, Czech Republic**, from **September
 18-20, 2016**.
 
 In addition to the conference itself, we have a host of auxiliary events to round out your Write The Docs experience.
