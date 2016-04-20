@@ -1,13 +1,14 @@
 ## Giving a Presentation at Write the Docs
 
-Are you planning to speak at Write the Docs? Great! Here's a few things that may
-help you plan your presentation and the slides for your presentation.
+Are you giving a talk at this year's Write the Docs? Great! Here are a few things that may
+help you plan your talk and your slides.
 
 ### Facts
 
-* Your talk will be 30 minutes
-* There will be no time for questions
-* Practice your talk, hopefully in front of at least 1 other person
+* Your talk will be either 15 minutes or 30 minutes. You should know which by now; if you're 
+not sure, let us know right away. (ADD EMAIL)
+* There will be no time for questions immediately following your talk.
+* We strongly recommend that you practice your talk, ideally in front of at least one other person.
 
 ### Presentation
 

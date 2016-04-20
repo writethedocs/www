@@ -17,17 +17,18 @@ our [European conference][eu-conf], taking place this year in Prague September 1
 [eu-announce]: http://www.writethedocs.org/conf/eu/2015/news/announcing-eu-2015/
 [eu-conf]: http://www.writethedocs.org/conf/eu/2016/
 
-We're putting the finishing touches on the conference,
-and have more information for you about this year's conference events.
-We hope you can join us for most of them,
-because they are some of our favorite parts of the conference.
+We're putting the finishing touches on the Portland conference, so this email
+contains more information for you about this year's conference events. We've added some cool
+resources, and we hope you'll take advantage of them. We also hope you'll be able to join most 
+if not all of the events outside the main conference talks, because they're some of our 
+favorite things.
 
 Saturday - Annual Hike
 ----------------------
 
-If you are in town Saturday afternoon, please join us for 
-our [annual hike to Pittock Mansion][hike]. We've had rain every year, but
-we're optimistic that we'll see some sun this year!
+If you're in town Saturday afternoon, please join us for 
+our [annual hike to Pittock Mansion][hike]. We've had rain every year, but that 
+doesn't stop us from hoping for sun every year, too!
 
 (QUESTION: no tickets required this year?)
 
@@ -55,6 +56,11 @@ bring open source to journalism. You are welcome to bring your own project
 to work on. Let us know and we will add it to the list on our website, 
 so people will know it's an option.
 
+New this year, the combined efforts of a couple of meetup organizers have produced an 
+API docs workshop on Sunday as well. Depending on attendance, this event will be held at 
+CENTRL, as part of the Writing Day, or if it grows larger, in Lola's Room at the main 
+conference venue (not far away).
+
 We encourage everyone to drop by on Sunday evening for our conference reception.
 You'll have a chance to get acquainted with each other over some drinks and
 snacks. We'll also help groups organize dinner plans so that you can continue
@@ -68,6 +74,12 @@ your conversations over more substantial food.
 [wordpress]: http://wordpress.org
 [wtd-resources]: http://docs.writethedocs.org/
 [opennews]: http://opennews.org/
+
+Monday and Tuesday - Welcome Wagon. New this Year!
+--------------------------------------------------
+
+Making their debut at this year's conference, Christy and Leona of Jive Software are 
+pleased to present for your attending pleasure the services of their Welcome Wagon.
 
 Monday and Tuesday - Conference
 -------------------------------
