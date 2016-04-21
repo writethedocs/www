@@ -1,4 +1,4 @@
-:template: 2015/na.html
+:template: 2016/na.html
 
 More Conference Details
 =======================
@@ -9,10 +9,10 @@ are for the conference.
 Tickets are almost sold out, so make sure to [purchase a ticket][ticket] now, if you
 haven't already. **We expect them to sell out by next week!**
 
-[ticket]: https://ti.to/writethedocs/write-the-docs-na-2015/
+[ticket]: https://ti.to/writethedocs/write-the-docs-na-2016/
 
-If you miss this year's conference in Portland, don't fret. We've just [announced][eu-announce]
-our [European conference][eu-conf], taking place this year in Prague September 18-20! 
+If you can't make it to this year's conference in Portland, don't fret. We've just [announced][eu-announce]
+our [European conference][eu-conf], taking place this year again in glorious Prague September 18-20! 
 
 [eu-announce]: http://www.writethedocs.org/conf/eu/2015/news/announcing-eu-2015/
 [eu-conf]: http://www.writethedocs.org/conf/eu/2016/
@@ -57,7 +57,7 @@ to work on. Let us know and we will add it to the list on our website,
 so people will know it's an option.
 
 New this year, the combined efforts of a couple of meetup organizers have produced an 
-API docs workshop on Sunday as well. Depending on attendance, this event will be held at 
+[API docs workshop][APIdocs] on Sunday as well. Depending on attendance, this event will be held at 
 CENTRL, as part of the Writing Day, or if it grows larger, in Lola's Room at the main 
 conference venue (not far away).
 
@@ -74,20 +74,26 @@ your conversations over more substantial food.
 [wordpress]: http://wordpress.org
 [wtd-resources]: http://docs.writethedocs.org/
 [opennews]: http://opennews.org/
+[APIdocs]: http://www.meetup.com/Write-The-Docs-PDX/events/230291799/
 
 Monday and Tuesday - Welcome Wagon. New this Year!
 --------------------------------------------------
 
 Making their debut at this year's conference, Christy and Leona of Jive Software are 
-pleased to present for your attending pleasure the services of their Welcome Wagon.
+pleased to present for your attending pleasure the services of their [Welcome Wagon][wagon]. Check out 
+their page of tips, and consider joining one of their pre-conference hall walk-throughs if you've 
+never attended before, or if you just can't quite remember where everything is at the Crystal. Or just 
+to meet some fellow attendees!
+
+[wagon]: /conf/na/2016/welcome-wagon/
 
 Monday and Tuesday - Conference
 -------------------------------
 
 We've released the breakdown of [our daily schedule][schedule], and will
 release the full talk schedule soon. The doors
-open at 8am on both days, so that you can get there early, get yourself settled,
-and grab some breakfast. The introduction begins at 9:00am. Talks
+open at 8am on both days, so that you can arrive early, get yourself settled, grab some breakfast, 
+and take advantage of the Welcome Wagon. The introduction begins at 9:00am. Talks
 run all day, until shortly after 5pm. 
 
 We'll hold an unconference downstairs in Lola's Room again this year, again on
@@ -96,8 +102,8 @@ and will continue until the end of the day. Sessions begin with a
 couple of topics to get you started, followed by time for unstructured topics.
 If you are interested in leading a session, [read more about our unconference][unconference] .
 
-[schedule]: /conf/na/2015/schedule/
-[unconference]: /conf/na/2015/unconference/
+[schedule]: /conf/na/2016/schedule/
+[unconference]: /conf/na/2016/unconference/
 
 Sponsors
 --------
@@ -112,5 +118,6 @@ year.
 ----
 
 This year will be the best Write the Docs yet!
-We have taken everyone's feedback and tweaked things to make them even better than before.
+We have taken everyone's feedback and continued to tweak things to make them even better than 
+before.
 As always, let us know if there is anything else we can improve.
