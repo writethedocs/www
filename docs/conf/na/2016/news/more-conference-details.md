@@ -11,10 +11,9 @@ haven't already. **We expect them to sell out by next week!**
 
 [ticket]: https://ti.to/writethedocs/write-the-docs-na-2016/
 
-If you can't make it to this year's conference in Portland, don't fret. We've just [announced][eu-announce]
+If you can't make it to this year's conference in Portland, don't fret. We've just announced 
 our [European conference][eu-conf], taking place this year again in glorious Prague September 18-20! 
 
-[eu-announce]: http://www.writethedocs.org/conf/eu/2015/news/announcing-eu-2015/
 [eu-conf]: http://www.writethedocs.org/conf/eu/2016/
 
 We're putting the finishing touches on the Portland conference, so this email
