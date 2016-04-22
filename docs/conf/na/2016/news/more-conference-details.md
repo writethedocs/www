@@ -13,6 +13,7 @@ haven't already. **We expect them to sell out by next week!**
 
 If you can't make it to this year's conference in Portland, don't fret. We've just announced 
 our [European conference][eu-conf], taking place this year again in glorious Prague September 18-20! 
+Tickets are now on sale, and the call for papers is open
 
 [eu-conf]: http://www.writethedocs.org/conf/eu/2016/
 
@@ -31,7 +32,7 @@ doesn't stop us from hoping for sun every year, too!
 
 (QUESTION: no tickets required this year?)
 
-[hike]: http://writethedocs.org/conf/na/2015/hike/
+[hike]: http://www.writethedocs.org/conf/na/2016/hike/
 
 Sunday - Writing Day and Conference Reception
 ---------------------------------------------
@@ -56,16 +57,14 @@ to work on. Let us know and we will add it to the list on our website,
 so people will know it's an option.
 
 New this year, the combined efforts of a couple of meetup organizers have produced an 
-[API docs workshop][APIdocs] on Sunday as well. Depending on attendance, this event will be held at 
-CENTRL, as part of the Writing Day, or if it grows larger, in Lola's Room at the main 
-conference venue (not far away).
+[API docs workshop][APIdocs] on Sunday as well.
 
 We encourage everyone to drop by on Sunday evening for our conference reception.
 You'll have a chance to get acquainted with each other over some drinks and
 snacks. We'll also help groups organize dinner plans so that you can continue
 your conversations over more substantial food.
 
-[writing-day]: http://writethedocs.org/conf/na/2015/writing-day/
+[writing-day]: http://www.writethedocs.org/conf/na/2016/writing-day/
 [centrl-map]: https://goo.gl/maps/xljmU
 [sprints]: http://en.wikipedia.org/wiki/Sprint_%28software_development%29
 
@@ -75,14 +74,15 @@ your conversations over more substantial food.
 [opennews]: http://opennews.org/
 [APIdocs]: http://www.meetup.com/Write-The-Docs-PDX/events/230291799/
 
-Monday and Tuesday - Welcome Wagon. New this Year!
+Welcome Wagon. New this Year!
 --------------------------------------------------
 
 Making their debut at this year's conference, Christy and Leona of Jive Software are 
-pleased to present for your attending pleasure the services of their [Welcome Wagon][wagon]. Check out 
-their page of tips, and consider joining one of their pre-conference hall walk-throughs if you've 
-never attended before, or if you just can't quite remember where everything is at the Crystal. Or just 
-to meet some fellow attendees!
+pleased to present their Welcome Wagon. Check out their [page of tips][wagon] to learn more about 
+what to expect, and how to prepare for optimal conference enjoyment. You might also consider 
+joining one of their pre-conference hall walk-throughs if you've never attended before, 
+or if you just can't quite remember where everything is at the Crystal. 
+Or just to meet some fellow attendees!
 
 [wagon]: /conf/na/2016/welcome-wagon/
 
