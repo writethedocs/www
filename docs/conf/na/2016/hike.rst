@@ -17,6 +17,9 @@ beautiful this year! We shall see Mount Hood at the top :)
 Logistics
 ---------
 
+You need a free `ticket <https://ti.to/writethedocs/write-the-docs-2016-hike>`_ for this event.
+Space is limited, so that we don't overrun the trails!
+
 -  Date & Time: Leaves promptly at **Saturday, May 21, 2 PM**. Meet at
    **1:45**.
 -  Start: **Lower Macleay Park** or `Macleay Park
@@ -78,9 +81,9 @@ Mansion. Pittock affords one of the best views of the city, and
 hopefully Mt. Hood & Mt. St. Helens if it's clear!
 
 .. figure:: /_static/img/2015/hike/pittock.jpg
-   :alt: Pittock
+   :alt: The view from Pittock Mansion
 
-   Pittock
+   The view from Pittock Mansion
 
 Admire
 ~~~~~~
