@@ -85,7 +85,7 @@ so you can add your event that way, too.
 
 New this year, the combined efforts of a couple of meetup organizers have produced an 
 [API docs workshop][APIdocs] on Sunday.
-If you're interested in API's and documentation,
+If you're interested in APIs and documentation,
 this is a great option for your Sunday, as well.
 
 We encourage everyone to drop by on Sunday evening for our conference reception.
