@@ -12,7 +12,7 @@ haven't already. **We expect them to sell out by early May.**
 [ticket]: https://ti.to/writethedocs/write-the-docs-na-2016/
 
 If you can't make it to this year's conference in Portland, don't fret. We've just announced 
-our [European conference][eu-conf], taking place this year again in glorious Prague September 18-20. 
+our [European conference][eu-conf], taking place this year again in Prague, September 18-20. 
 Tickets are now on sale, and the call for papers is open.
 
 [eu-conf]: http://www.writethedocs.org/conf/eu/2016/
