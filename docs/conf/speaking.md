@@ -6,7 +6,7 @@ help you plan your talk and your slides.
 ### Facts
 
 * Your talk will be either 15 minutes or 30 minutes. You should know which by now; if you're 
-not sure, let us know right away. (ADD EMAIL)
+not sure, let us know right away at conf@writethedocs.org.
 * There will be no time for questions immediately following your talk.
 * We strongly recommend that you practice your talk, ideally in front of at least one other person.
 
@@ -32,14 +32,14 @@ tremendous help to you if you are new to presenting in front of audiences.
 There are a lot of different ways of thinking through making your slides.
 Idan Gazit,
 a previous speaker,
-has written up a [great post](http://gazit.me/2012/12/05/designing-presentations.html) on how his process works.
+has written up a [great post][idans-post] on how his process works.
 Yours might not be the same,
-but it might be useful to think through.
+but it might be useful to think through the process.
 
 [introverts-guide]: https://medium.com/@mathowie/an-introverts-guide-to-better-presentations-be7e772b2cb5
+[idans-post]: http://gazit.me/2012/12/05/designing-presentations.html
 
 ### Slides
-
 
 You'll be responsible for making sure your laptop, or other display device, is
 ready for your presentation. Be familiar with setting up an external display on
@@ -64,7 +64,6 @@ We highly recommend watching the full talk:
   src="https://www.youtube.com/embed/7tncfRqKnXU?list=PLmV2D6sIiX3UkFCMqq5at0xYgsMqAr6Jf"
   frameborder="0"
   allowfullscreen></iframe>
-
 
 ### Questions
 
