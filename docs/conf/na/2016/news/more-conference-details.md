@@ -34,8 +34,9 @@ and some pro tips to help you get the most out of the event.
 Whether it's your [first time][first-time] or if you've [joined us before][old-timer],
 there's something for everyone in our Welcome Wagon guide.
 
-We are also doing two Welcome Wagon events this year.
-A quick meet up on Sunday before the Reception to answer any last minute questions you might have,
+We have two Welcome Wagon events this year:
+first, there'll be a quick meet up on Sunday before the reception to answer any last minute 
+questions you might have,
 and to get to know Leona and Christy before the conference starts.
 Then, before the conference starts on Monday we'll be running short tours of the venue.
 They will start at **8:20** on Monday morning,
@@ -85,13 +86,13 @@ so you can add your event that way, too.
 
 New this year, the combined efforts of a couple of meetup organizers have produced an 
 [API docs workshop][APIdocs] on Sunday.
-If you're interested in API's and documentation,
-this is a great option for your Sunday, as well.
+If you're interested in APIs and documentation,
+this is a great option for your Sunday as well.
 
 We encourage everyone to drop by on Sunday evening for our conference reception.
 You'll have a chance to get acquainted with each other over some drinks and
-snacks. It's a great place to find some folks to grab dinner with,
-and continue your conversations over more substantial food.
+snacks, plus it's a great place to find some folks to grab dinner with,
+so you can continue your conversations over more substantial food.
 
 [writing-day]: http://www.writethedocs.org/conf/na/2016/writing-day/
 [centrl-map]: https://goo.gl/maps/xljmU
