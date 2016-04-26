@@ -91,7 +91,7 @@ this is a great option for your Sunday as well.
 
 We encourage everyone to drop by on Sunday evening for our conference reception.
 You'll have a chance to get acquainted with each other over some drinks and
-snacks, plus i's a great place to find some folks to grab dinner with,
+snacks, plus it's a great place to find some folks to grab dinner with,
 so you can continue your conversations over more substantial food.
 
 [writing-day]: http://www.writethedocs.org/conf/na/2016/writing-day/
