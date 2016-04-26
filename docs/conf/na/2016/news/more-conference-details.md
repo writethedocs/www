@@ -34,7 +34,7 @@ and some pro tips to help you get the most out of the event.
 Whether it's your [first time][first-time] or if you've [joined us before][old-timer],
 there's something for everyone in our Welcome Wagon guide.
 
-We have two Welcome Wagon events this yeear:
+We have two Welcome Wagon events this year:
 first, there'll be a quick meet up on Sunday before the Reception to answer any last minute 
 questions you might have,
 and to get to know Leona and Christy before the conference starts.
