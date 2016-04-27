@@ -132,13 +132,12 @@ def rstjinja(app, docname, source):
     """
     Render the speaker page as a template.
     """
+    if getattr(app.builder, 'implementation', None) or app.builder.format != 'html':
+        return
     if docname.startswith('conf/na/2016/'):
         src = source[0]
-        try:
-            rendered = app.builder.templates.render_string(src, app.config.html_context)
-            source[0] = rendered
-        except:
-            pass
+        rendered = app.builder.templates.render_string(src, app.config.html_context)
+        source[0] = rendered
 
 
 def setup(app):
