@@ -8,6 +8,10 @@ Presentations
 
 {% for talk in speakers2016 %}
 
+{% for speaker in talk.speakers %}
+.. _speaker-{{ speaker.slug }}:
+{% endfor %}
+
 .. raw:: html
 
     {% for speaker in talk.speakers %}

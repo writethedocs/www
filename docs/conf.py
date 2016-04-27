@@ -2,6 +2,7 @@
 #
 import os
 import json
+import re
 
 from recommonmark.parser import CommonMarkParser
 import ablog
@@ -67,7 +68,18 @@ html_sidebars = {
     ]
 }
 
+# Crazy rst stuff :)
+
+
+def slugify(slug):
+    slug = slug.encode('ascii', 'ignore').lower()
+    slug = re.sub(r'[^a-z0-9]+', '-', slug).strip('-')
+    slug = re.sub(r'[-]+', '-', slug)
+    return slug
+
 speakers = json.load(file('data/2016.speakers.json'))
+day1 = json.load(file('data/na-2016-day-1.json'))
+day2 = json.load(file('data/na-2016-day-2.json'))
 
 for talk in speakers:
     for speaker in talk['speakers']:
@@ -76,8 +88,16 @@ for talk in speakers:
         else:
             speaker['img_file'] = 'missing.jpg'
 
+for talk in day1:
+    speaker = talk['Session'].split('-')[-1]
+    speaker = speaker.split(',')[0]
+    slug = slugify(speaker)
+    talk['slug'] = slug
+
 html_context = {
-    'speakers2016': speakers
+    'speakers2016': speakers,
+    'na_2016_day1': day1,
+    'na_2016_day2': day2
 }
 
 
