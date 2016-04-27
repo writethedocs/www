@@ -1,5 +1,7 @@
 :template: 2016/na.html
 
+.. _speaker-lightning-talks: 
+
 Lightning Talks
 ~~~~~~~~~~~~~~~
 

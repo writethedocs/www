@@ -66,7 +66,13 @@ Main Stage
     {% for talk in na_2016_day1 %}
       <tr>
         <td class=" schedule-time">{{ talk.Time }}</td>
-        <td>{{ talk.Session }}</td>
+        <td>
+
+:ref:`{{ talk.Session }} <speaker-{{ talk.slug }}>`
+
+.. raw:: html
+
+        </td>
       </tr>
 
     {% endfor %}
@@ -99,7 +105,13 @@ Main Stage
     {% for talk in na_2016_day2 %}
       <tr>
         <td class=" schedule-time">{{ talk.Time }}</td>
-        <td>{{ talk.Session }}</td>
+        <td>
+
+:ref:`{{ talk.Session }} <speaker-{{ talk.slug }}>`
+
+.. raw:: html
+
+        </td>
       </tr>
 
     {% endfor %}

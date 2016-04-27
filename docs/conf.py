@@ -88,11 +88,17 @@ for talk in speakers:
         else:
             speaker['img_file'] = 'missing.jpg'
 
-for talk in day1:
-    speaker = talk['Session'].split('-')[-1]
-    speaker = speaker.split(',')[0]
-    slug = slugify(speaker)
-    talk['slug'] = slug
+for talk in day1 + day2:
+    if 'Tim Nugent' in talk['Session']:
+        talk['speaker'] = 'Tim Nugent'
+        talk['slug'] = 'tim-nugent'
+    else:
+        speaker = talk['Session'].split('-')[-1]
+        speaker = speaker.split(',')[0]
+        speaker = speaker.split('&')[0]
+        talk['speaker'] = speaker.strip()
+        slug = slugify(speaker)
+        talk['slug'] = slug.strip()
 
 html_context = {
     'speakers2016': speakers,
