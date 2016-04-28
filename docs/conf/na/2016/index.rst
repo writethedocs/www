@@ -39,7 +39,7 @@ News
 - :doc:`/conf/na/2016/news/cfp-tickets`
 - :doc:`/conf/na/2016/news/cfp-reminder`
 - :doc:`/conf/na/2016/news/announcing-presentations`
-- :doc:`/conf/na/2016/news/more-conference-details`
+- :doc:`/conf/na/2016/news/schedule-welcome-wagon-events`
 
 Can't wait?
 ^^^^^^^^^^^
