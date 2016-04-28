@@ -144,7 +144,7 @@ so we hope you'll join us!
 Monday and Tuesday - Conference
 -------------------------------
 
-We've released the breakdown of [our daily schedule][schedule].
+We've released the breakdown of [our daily schedule][daily-schedule].
 The doors open at 8am on both days, 
 so that you can arrive early, get yourself settled, grab some breakfast,
 and take advantage of the Welcome Wagon. The conference begins at 9:00am. Talks
@@ -156,7 +156,7 @@ and will continue until the end of the day. Sessions begin with a
 couple of topics to get you started, followed by time for unstructured topics.
 If you are interested in leading a session, [read more about our unconference][unconference] .
 
-[schedule]: http://www.writethedocs.org/conf/na/2016/schedule/
+[daily-schedule]: http://www.writethedocs.org/conf/na/2016/schedule/#monday-may-23rd-day-1
 [unconference]: http://www.writethedocs.org/conf/na/2016/unconference/
 
 ----
