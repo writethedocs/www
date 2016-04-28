@@ -1,7 +1,7 @@
 :template: 2016/na.html
 
-More Conference Details
-=======================
+Announcing the conference schedule, Welcome Wagon, and more info on our other events
+=====================================================================================
 
 Write the Docs just about four weeks away now! We hope you are all as excited as we
 are for the conference.
@@ -23,32 +23,50 @@ resources, and we hope you'll take advantage of them. We also hope you'll be abl
 if not all of the events outside the main conference talks, because they're some of our 
 favorite parts of the event.
 
+Conference Schedule
+-------------------
+
+The [schedule][schedule] for the conference is now fully filled out.
+We're excited about the talks,
+Writing Day,
+and all the other wonderful festivities we have every year.
+
+[schedule]: http://www.writethedocs.org/conf/na/2016/schedule/
+
 Introducing the Welcome Wagon
 -----------------------------
 
-We are trying something new this year to help everyone get the most out of the conference.
-We've put together a comprehensive [page of tips][wagon] that we're dubbing the Welcome Wagon.
+We are trying something new this year to help everyone get the most out of the conference,
+which we're dubbing the Welcome Wagon.
+It has two parts:
+
+* A comprehensive [guide][wagon] to help you get the most out of the event
+* A couple [events][events] to help you get started and break the ice a bit.
+
+We've put a ton of work into our guide.
 It's got a ton of good information,
 answers to your questions,
 and some pro tips to help you get the most out of the event.
 Whether it's your [first time][first-time] or if you've [joined us before][old-timer],
 there's something for everyone in our Welcome Wagon guide.
 
-We have two Welcome Wagon events this year:
-first, there'll be a quick meet up on Sunday before the reception to answer any last minute 
-questions you might have,
-and to get to know Leona and Christy before the conference starts.
-Then, before the conference starts on Monday we'll be running short tours of the venue.
-They will start at **8:20** on Monday morning,
-and last about 15 minutes.
+Our events are also going to be great.
+They are:
+
+* a quick meet up on Sunday before the reception
+* Quick 15 minute venue tours on Monday before the conference starts
+
+Both events will help to answer any last minute questions you might have,
+and to get to know Leona and Christy,
+who are our official Welcome Wagon liasons.
 
 These resources are here so you make the most of the conference.
-Please [let us know][email] if there is anything else we can do to make you feel welcome!
+Please [let us know][email] if there is anything else we can do to make you feel more welcome!
 
+[events]: http://www.writethedocs.org/conf/na/2016/welcome-wagon/#welcome-wagon-events
 [wagon]: http://www.writethedocs.org/conf/na/2016/welcome-wagon/
 [first-time]: http://www.writethedocs.org/conf/na/2016/welcome-wagon/#sample-strategy-for-my-first-write-the-docs-conference
 [old-timer]: http://www.writethedocs.org/conf/na/2016/welcome-wagon/#sample-strategy-for-a-second-or-higher-write-the-docs-conference
-
 
 Saturday - Annual Hike
 ----------------------
@@ -65,8 +83,8 @@ Please [get a free ticket](https://ti.to/writethedocs/write-the-docs-2016-hike/)
 Sunday - Writing Day and Conference Reception
 ---------------------------------------------
 
-During the day on Sunday, we'll have our [Writing Day][writing-day]
-, followed by the reception in the evening.
+During the day on Sunday, we'll have our [Writing Day][writing-day],
+followed by the reception in the evening.
 
 Both of these events on Sunday are at CENTRL Office, located
 at 1355 NW Everett St ([map][centrl-map]). Head there at any point during the
@@ -88,6 +106,8 @@ New this year, the combined efforts of a couple of meetup organizers have produc
 [API docs workshop][APIdocs] on Sunday.
 If you're interested in APIs and documentation,
 this is a great option for your Sunday as well.
+Space is limited for that event as well,
+so please RSVP if you are interested in attending.
 
 We encourage everyone to drop by on Sunday evening for our conference reception.
 You'll have a chance to get acquainted with each other over some drinks and
@@ -103,12 +123,30 @@ so you can continue your conversations over more substantial food.
 [wtd-resources]: http://docs.writethedocs.org/
 [APIdocs]: http://www.meetup.com/Write-The-Docs-PDX/events/230291799/
 
+Conference Party 
+----------------
+
+This year we'll be holding the conference party at the [Jack Knife][jk].
+It will begin at **7 pm**.
+It's only a [few blocks][jk-map] from the conference venue.
+We'll be providing finger food and drinks,
+with both alcoholic and non-alcoholic options.
+
+The party is a great chance to chat about the first day of the event,
+and forge connections with other documentarians.
+It's a private event only for conference attendees,
+so we hope you'll join us!
+
+
+[jk]: http://www.jackknifepdx.com/
+[jk-map]: https://www.google.com/maps/place/Jackknife,+614+SW+11th+Ave,+Portland,+OR+97205/@45.5205771,-122.6827547,17z/data=!4m2!3m1!1s0x54950a035f7576e3:0x1f37e53eb881856a
+
 Monday and Tuesday - Conference
 -------------------------------
 
-We've released the breakdown of [our daily schedule][schedule], and will
-release the full talk schedule soon. The doors
-open at 8am on both days, so that you can arrive early, get yourself settled, grab some breakfast, 
+We've released the breakdown of [our daily schedule][schedule].
+The doors open at 8am on both days, 
+so that you can arrive early, get yourself settled, grab some breakfast,
 and take advantage of the Welcome Wagon. The conference begins at 9:00am. Talks
 run all day, until shortly after 5pm. 
 
