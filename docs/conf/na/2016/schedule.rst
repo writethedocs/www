@@ -53,11 +53,12 @@ you can continue your conversations over more substantial food as well.
 Monday, May 23rd - Day 1
 ------------------------
 
+The main conference will take place at the **Crystal Ballroom located at 1332 W
+Burnside St**.
+
 This is the main event! Hear from lots of interesting folks about all
 things documentation. 
 
-The talks will take place at the **Crystal Ballroom located at 1332 W
-Burnside St**.
 
 Main Stage
 ~~~~~~~~~~
