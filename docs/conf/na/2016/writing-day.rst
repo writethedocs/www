@@ -56,8 +56,6 @@ Schedule
    introductions
 -  10:00 Team up and start writing
 -  ~12:30 Lunch Break
--  ~1:30 Afternoon introduction - For those arriving late, another
-   introduction to the day
 -  6:00 Official end of the Sprints, but we have the space til 9, so
    keep on working!
 -  6:00 Official start of the Reception -- In the same venue as the
