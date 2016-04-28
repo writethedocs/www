@@ -50,11 +50,11 @@ and some pro tips to help you get the most out of the event.
 Whether it's your [first time][first-time] or if you've [joined us before][old-timer],
 there's something for everyone in our Welcome Wagon guide.
 
-Our events are also going to be great.
+Our [events][events] are also going to be great.
 They are:
 
-* a quick meet up on Sunday before the reception
-* Quick 15 minute venue tours on Monday before the conference starts
+* A meet up on Sunday before the reception
+* 15 minute venue tours on Monday before the conference starts
 
 Both events will help to answer any last minute questions you might have,
 and to get to know Leona and Christy,
