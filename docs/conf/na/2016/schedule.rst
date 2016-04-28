@@ -18,6 +18,8 @@ the hike and take the chance to explore Portland in all of its glory.
 Sunday, May 22nd
 ----------------
 
+Writing Day & Reception will be held at **CENTRL Office, 1355 NW Everett St.**
+
 During the day, we'll hold our :doc:`Writing Day documentation
 sprints </conf/na/2016/writing-day>`, followed by the conference
 reception in the evening.
@@ -81,10 +83,11 @@ Main Stage
 Lola's Room
 -----------
 
-Unconference from 1pm-5pm
+:doc:`/conf/na/2016/unconference` from 1pm-5pm
 
 Monday Night - Party
 ~~~~~~~~~~~~~~~~~~~~
+The confernce party will be at the **Jack Knife, 614 SW 11th Ave**
 
 Wind down and talk about the day's talks in a relaxed and friendly
 environment.
@@ -120,8 +123,7 @@ Main Stage
 Lola's Room
 -----------
 
-Unconference from 1pm-5pm
-
+:doc:`/conf/na/2016/unconference` from 1pm-5pm
 
 Say Goodbye
 -----------
