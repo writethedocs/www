@@ -37,6 +37,13 @@ Writing Great Documentation
 * Common Examples/Cookbook
 * 
 
+Documentation Culture at your Company
+-------------------------------------
+
+* Engineering Organizations <writing/mindshare>
+* Integrating Tech Writers into the product process
+* Producing documentation inside a Support team
+
 Markup Languages
 ----------------
 
@@ -69,14 +76,14 @@ you need to be documenting your code.
 * REST API Tools
     - Swagger
 * API Documentation
-	- Sphinx
-	- Automated reference docs
+  - Sphinx
+  - Automated reference docs
 
 Distribution
 ------------
 
 * Common Output formats
-* Documentation Themes
+* Documentation Styles
     - Slate
     - Read the Docs Theme
     - Alabaster
