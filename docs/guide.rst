@@ -27,7 +27,7 @@ Getting Started with Documentation
    :maxdepth: 2
 
    starting
-   writing/index
+   writing/beginners-guide-to-docs
 
 Writing Great Documentation
 ---------------------------
@@ -35,7 +35,6 @@ Writing Great Documentation
 * Structuring your Documentation
 * Style Guides
 * Common Examples/Cookbook
-* 
 
 Documentation Culture at your Company
 -------------------------------------
@@ -48,8 +47,14 @@ Markup Languages
 ----------------
 
 * Markdown
+  * Cheatsheet
+  * Tutorial
 * Asciidoc
+  * Cheatsheet
+  * Tutorial
 * reStructuredText
+  * Cheatsheet
+  * Tutorial
 
 Tools of the Trade
 ------------------
@@ -94,6 +99,15 @@ Writing Environments
 * Text Editors
 * IDE's
 * Live Previews
+
+Talks & slide decks
+-------------------
+
+.. toctree::
+   :maxdepth: 2
+
+   presentations/index
+
 
 Additional Notes
 ----------------
