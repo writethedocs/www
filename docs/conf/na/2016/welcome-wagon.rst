@@ -278,3 +278,13 @@ or just chat about the conference!
 
       Christy
 
+
+Thanks
+------
+
+This document was inspired by other conferences doing great work in this area.
+In particular,
+these two documents were heavily used as a reference:
+
+* http://doubleyouraudience.com/microconf-guide/
+* http://www.pydanny.com/beginners-guide-pycon-2014.html

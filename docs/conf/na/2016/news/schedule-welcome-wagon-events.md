@@ -58,7 +58,7 @@ They are:
 
 Both events will help to answer any last minute questions you might have,
 and to get to know Leona and Christy,
-who are our official Welcome Wagon liasons.
+who are our official Welcome Wagon liaisons.
 
 These resources are here so you make the most of the conference.
 Please [let us know][email] if there is anything else we can do to make you feel more welcome!
@@ -103,7 +103,7 @@ The site is also on [GitHub](https://github.com/writethedocs/www/blob/master/doc
 so you can add your event that way, too.
 
 New this year, the combined efforts of a couple of meetup organizers have produced an 
-[API docs workshop][APIdocs] on Sunday.
+[API docs session][APIdocs] on Sunday.
 If you're interested in APIs and documentation,
 this is a great option for your Sunday as well.
 Space is limited for that event as well,
