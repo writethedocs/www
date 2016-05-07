@@ -295,3 +295,9 @@ feed_base_url = "http://docs.writethedocs.org/en/latest/2014/"
 feed_description = "Write the Docs Announcements"
 feed_filename = 'rss.xml'
 feed_title = 'Write the Docs'
+
+
+rst_epilog = """
+.. |wtd| replace:: Write the Docs
+
+"""

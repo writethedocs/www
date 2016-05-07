@@ -1,3 +1,5 @@
+:orphan:
+
 This document has moved
 =======================
 
