@@ -10,4 +10,3 @@ Here are information about the |wtd| project itself.
    license
    community
    authors
-   history

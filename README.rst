@@ -7,21 +7,17 @@ Write the Docs is a place where the art and science of documentation can be prac
 Resources
 ---------
 
-* Online documentation: http://docs.writethedocs.org/
-* Conference: http://conf.writethedocs.org/
-* IRC: `#writethedocs on freenode <http://webchat.freenode.net/?channels=writethedocs>`_
-* Twitter: http://twitter.com/writethedocs
-* Mailing List: https://groups.google.com/forum/?fromgroups=#!forum/write-the-docs
-* Issues & feature requests: https://github.com/writethedocs/docs/issues
-* Source repository: https://github.com/writethedocs/docs
+.. include:: docs/includes/resources.rst
 
 Building these docs
 -------------------
 
-**This requires virtualenv**. If you don't have it installed, first run ``pip install virtualenv``.
+You need to install Sphinx to build these docs.
+You can do that with::
 
-To build this repo locally, run::
+    pip install -r requirements.txt
 
-    make develop
-    make documentation
+Then you can build the docs locally::
 
+    cd docs
+    make html

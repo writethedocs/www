@@ -1,13 +1,7 @@
-Alternatives and related projects
-=================================
-
-This document presents other projects that provide similar or complementary
-functionalities.
-
 .. _interesting-approaches:
 
 Interesting approaches to documentation
----------------------------------------
+=======================================
 
 * Riak does a side by side comparison of the Dynamo paper and their
   implementation: http://docs.basho.com/riak/1.2.0/references/dynamo/

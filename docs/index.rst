@@ -34,7 +34,7 @@ Writing Great Documentation
 
 * Structuring your Documentation
 * Style Guides
-* Common Examples/Cookbook
+* :ref:`interesting-approaches`
 
 Documentation Culture at your Company
 -------------------------------------
@@ -124,12 +124,5 @@ Additional Notes
 Write the Docs Resources
 ------------------------
 
-* Online documentation: http://docs.writethedocs.org/
-* Conference: http://www.writethedocs.org/
-* Twitter: http://twitter.com/writethedocs
-* Forum: http://forum.writethedocs.org
-* Slack: http://slack.writethedocs.org
-* Mailing List: https://groups.google.com/forum/?fromgroups=#!forum/write-the-docs
-* Issues & feature requests: https://github.com/writethedocs/docs/issues
-* Source repository: https://github.com/writethedocs/docs
+.. include:: /includes/resources.rst
 

@@ -27,6 +27,7 @@ exclude_patterns = [
   '_build', 
   'conference',
   '2014',
+  'includes',
 ]
 pygments_style = 'sphinx'
 
