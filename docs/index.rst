@@ -5,7 +5,7 @@ The Write the Docs Guide to Documentation
 =========================================
 
 Welcome!
-We are excited that you are going down the path of creating excellent documentation for your project.
+We are excited that you are going down the path of creating more wonderful documentation in the world.
 This guide exists to provide both novice and expert writers a best practice handbook for building,
 structing, 
 and writing software documentation.
