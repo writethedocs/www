@@ -1,47 +1,130 @@
-=======
-Welcome
-=======
+:orphan:
 
-Write the Docs is a place where the art and science of documentation can be
-practiced and appreciated.
-There are a lot of people out there who write docs,
-but there isn't a good place to go to find information,
-ask questions, and generally be a member of a community of documentarians.
+=========================================
+The Write the Docs Guide to Documentation
+=========================================
 
-We are solving this problem by building a place with high quality
-information about the art of writing documentation.
-Along with that, we hope to open communication between all the awesome
-people out there writing documentation.
+Welcome!
+We are excited that you are going down the path of creating excellent documentation for your project.
+This guide exists to provide both novice and expert writers a best practice handbook for building,
+structing, 
+and writing software documentation.
 
-.. note:: The website for Write the Docs Conference and Meetups is located
-    at http://www.writethedocs.org/
+**This is a living, breathing guide.**  If you'd like to contribute,
+`fork us on GitHub <https://github.com/writethedocs/docs>`_!
+Also feel free to send us any additions in any format to guide@writethedocs.org.
 
-Contents
---------
+This guide is **opinionated**.
+You won't find a large list of tools here,
+but you'll find the ones that we recommend and think are worthwhile.
+
+Now, let's get started.
+
+Getting Started with Documentation
+----------------------------------
 
 .. toctree::
    :maxdepth: 2
 
    starting
    writing/beginners-guide-to-docs
-   writing/mindshare
+
+Writing Great Documentation
+---------------------------
+
+* Structuring your Documentation
+* Style Guides
+* Common Examples/Cookbook
+
+Documentation Culture at your Company
+-------------------------------------
+
+* Engineering Organizations <writing/mindshare>
+* Integrating Tech Writers into the product process
+* Producing documentation inside a Support team
+
+Markup Languages
+----------------
+
+* Markdown
+  * Cheatsheet
+  * Tutorial
+* Asciidoc
+  * Cheatsheet
+  * Tutorial
+* reStructuredText
+  * Cheatsheet
+  * Tutorial
+
+Tools of the Trade
+------------------
+
+.. toctree::
+   :maxdepth: 2
+
    tools/index
+
+* Keeping your documentation up to date
+* Automated testing
+    - Link checking
+    - Code Testing
+* Sphinx
+* Jekyll
+
+API Documentation
+-----------------
+
+A section dedicated to all things API.
+Whether it's a Python or a REST API,
+you need to be documenting your code.
+
+* REST API Tools
+    - Swagger
+* API Documentation
+  - Sphinx
+  - Automated reference docs
+
+Distribution
+------------
+
+* Common Output formats
+* Documentation Styles
+    - Slate
+    - Read the Docs Theme
+    - Alabaster
+
+Writing Environments
+--------------------
+
+* Text Editors
+* IDE's
+* Live Previews
+
+Talks & slide decks
+-------------------
+
+.. toctree::
+   :maxdepth: 2
+
    presentations/index
+
+
+Additional Notes
+----------------
+
+.. toctree::
+   :maxdepth: 2
+
    about/index
 
-.. note:: This repository is open source and is available on `GitHub`_. 
-    We would love contributions.
-
-.. _GitHub: https://github.com/writethedocs/docs
-
-
-Resources
----------
+Write the Docs Resources
+------------------------
 
 * Online documentation: http://docs.writethedocs.org/
 * Conference: http://www.writethedocs.org/
-* IRC: `#writethedocs on freenode <http://webchat.freenode.net/?channels=writethedocs>`_
 * Twitter: http://twitter.com/writethedocs
+* Forum: http://forum.writethedocs.org
+* Slack: http://slack.writethedocs.org
 * Mailing List: https://groups.google.com/forum/?fromgroups=#!forum/write-the-docs
 * Issues & feature requests: https://github.com/writethedocs/docs/issues
 * Source repository: https://github.com/writethedocs/docs
