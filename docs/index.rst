@@ -39,7 +39,11 @@ Writing Great Documentation
 Documentation Culture at your Company
 -------------------------------------
 
-* Engineering Organizations <writing/mindshare>
+.. toctree::
+   :maxdepth: 2
+
+   Engineering Organizations </writing/mindshare>
+
 * Integrating Tech Writers into the product process
 * Producing documentation inside a Support team
 
@@ -47,14 +51,14 @@ Markup Languages
 ----------------
 
 * Markdown
-  * Cheatsheet
-  * Tutorial
+    * Cheatsheet
+    * Tutorial
 * Asciidoc
-  * Cheatsheet
-  * Tutorial
+    * Cheatsheet
+    * Tutorial
 * reStructuredText
-  * Cheatsheet
-  * Tutorial
+    * Cheatsheet
+    * Tutorial
 
 Tools of the Trade
 ------------------
@@ -81,8 +85,8 @@ you need to be documenting your code.
 * REST API Tools
     - Swagger
 * API Documentation
-  - Sphinx
-  - Automated reference docs
+    - Sphinx
+    - Automated reference docs
 
 Distribution
 ------------
