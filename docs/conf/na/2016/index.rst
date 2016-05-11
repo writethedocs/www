@@ -216,6 +216,10 @@ companies:
         <a href="https://twilio.com">
         <img src="/_static/img/2016/sponsors/twilio.png" width=200/></a>
       </div>
+      <div class="col-md-8 col-sm-4">
+        <a href="https://opennews.org">
+        <img src="/_static/img/2016/sponsors/opennews.png" width=200/></a>
+      </div>
    </div>
    <br>
    <br>
