@@ -23,8 +23,6 @@ to improve the **art and science of documentation**.
 
 .. include:: /include/conf/current.rst
 
-
-
 Stay Connected
 --------------
 
@@ -75,6 +73,8 @@ Useful Pages
 
    conf/index
    meetups/index
+   guide/index
+   blog/index
    videos
    origin-story
 
@@ -83,6 +83,7 @@ Useful Pages
    :glob:
    :maxdepth: 1
 
+   meetups/starting
    *
    conf/*
    news/*
