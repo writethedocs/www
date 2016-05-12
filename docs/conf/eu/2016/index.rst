@@ -106,10 +106,39 @@ We are seeking corporate partners to help us create the best conference
 possible. Contact us at sponsorship@writethedocs.org for more
 information on sponsoring Write the Docs.
 
-Our current sponsors this year are:
+.. raw:: html
 
-- `GitHub <http://github.com/>`_
-- `Red Hat <https://www.redhat.com/en>`_
+    <div class="row row-sponsors">
+
+      <!-- Editor -->
+      <div class="col-md-8 col-sm-4">
+        <a href="https://github.com">
+        <img src="/_static/img/2016/sponsors/github.png" width=200/></a>
+      </div>
+      <div class="col-md-8 col-sm-4">
+        <a href="http://redhat.com">
+        <img src="/_static/img/2016/sponsors/redhat.png" width=200/></a>
+      </div>
+
+   </div>
+
+Media Sponsors
+--------------
+
+These folks will be helping cover the conference so people who can't attend still get all the good information that is being presented!
+
+.. raw:: html
+
+    <div class="row row-sponsors">
+      <div class="col-md-8 col-sm-4">
+        <a href="http://techwriter.pl/">
+        <img src="/_static/img/2016/sponsors/techwriter-pl.png" width=200/></a>
+      </div>
+    </div>
+   <br>
+   <br>
+   <br>
+
 
 Organizers
 ----------
