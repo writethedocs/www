@@ -53,7 +53,7 @@ It's always good to see the amazing things other folks have done.
 This gets us fired up.
 Check out these resources that we get inspired by:
 
-* https://github.com/RichardLitt/awesome-docs
+* https://github.com/PharkMillups/beautiful-docs
 * Your link here
 
 Markup Languages
