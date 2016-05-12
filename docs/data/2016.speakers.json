@@ -5,21 +5,31 @@
             {
                 "slug": "leon-barnard",
                 "name": "Leon Barnard",
+                "twitter": "leonbarnard",
                 "details": ""
             },
             {
                 "name": "Zach Corleissen",
                 "slug": "zach-corleissen",
+                "twitter": "zachorsarah",
                 "details": ""
             },
             {
                 "name": "Ted Hudek",
                 "slug": "ted-hudek",
+                "twitter": "tedhudek",
                 "details": ""
             },
             {
                 "name": "Jon Bulava",
                 "slug": "jon-bulava",
+                "twitter": "jbulava",
+                "details": ""
+            },
+            {
+                "name": "Riona MacNamara",
+                "slug": "riona-macnamara",
+                "twitter": "rionam",
                 "details": ""
             }
         ],
@@ -31,6 +41,7 @@
             {
                 "slug": "britta-gustafson",
                 "name": "Britta Gustafson",
+                "twitter": "brittagus",
                 "details": ""
             }
         ],
@@ -42,6 +53,7 @@
             {
                 "slug": "daniel-stevens",
                 "name": "Daniel Stevens",
+                "twitter": "dan_stevens9190",
                 "details": ""
             }
         ],
@@ -53,6 +65,7 @@
             {
                 "slug": "neal-kaplan",
                 "name": "Neal Kaplan",
+                "twitter": "NealKaplan",
                 "details": ""
             }
         ],
@@ -64,6 +77,7 @@
             {
                 "slug": "hannah-gilberg",
                 "name": "Hannah Gilberg",
+                "twitter": "",
                 "details": ""
             }
         ],
@@ -75,6 +89,7 @@
             {
                 "slug": "ruthie-bendor",
                 "name": "Ruthie BenDor",
+                "twitter": "unruthless",
                 "details": ""
             }
         ],
@@ -86,6 +101,7 @@
             {
                 "slug": "brianne-hillmer",
                 "name": "Brianne Hillmer",
+                "twitter": "writebriwrite",
                 "details": ""
             }
         ],
@@ -97,6 +113,7 @@
             {
                 "slug": "joao-fernandes",
                 "name": "Joao Fernandes",
+                "twitter": "joaofnfernandes",
                 "details": ""
             }
         ],
@@ -108,6 +125,7 @@
             {
                 "slug": "sharon-campbell",
                 "name": "Sharon Campbell",
+                "twitter": "captainshar",
                 "details": ""
             }
         ],
@@ -119,6 +137,7 @@
             {
                 "slug": "daniel-beck",
                 "name": "Daniel Beck",
+                "twitter": "ddbeck",
                 "details": ""
             }
         ],
@@ -130,11 +149,13 @@
             {
                 "slug": "tim-nugent",
                 "name": "Tim Nugent",
+                "twitter": "the_mcjones",
                 "details": ""
             },
             {
                 "name": "Paris Buttfield-Addison",
                 "slug": "paris-buttfield-addison",
+                "twitter": "parisba",
                 "details": ""
             }
         ],
@@ -146,6 +167,7 @@
             {
                 "slug": "tracy-osborn",
                 "name": "Tracy Osborn",
+                "twitter": "limedaring",
                 "details": ""
             }
         ],
@@ -157,6 +179,7 @@
             {
                 "slug": "sarah-day",
                 "name": "Sarah Day",
+                "twitter": "scribblingfox",
                 "details": ""
             }
         ],
@@ -168,6 +191,7 @@
             {
                 "slug": "shaun-mccance",
                 "name": "Shaun McCance",
+                "twitter": "shaunm",
                 "details": ""
             }
         ],
@@ -179,6 +203,7 @@
             {
                 "slug": "thursday-bram",
                 "name": "Thursday Bram",
+                "twitter": "thursdayb",
                 "details": ""
             }
         ],
@@ -190,6 +215,7 @@
             {
                 "slug": "betsy-roseberg",
                 "name": "Betsy Roseberg",
+                "twitter": "",
                 "details": ""
             }
         ],
@@ -201,6 +227,7 @@
             {
                 "slug": "allison-reinheimer-moore",
                 "name": "Allison Reinheimer Moore",
+                "twitter": "schmalliso",
                 "details": ""
             }
         ],
@@ -212,6 +239,7 @@
             {
                 "slug": "christy-lutz",
                 "name": "Christy Lutz",
+                "twitter": "",
                 "details": ""
             }
         ],
@@ -223,6 +251,7 @@
             {
                 "slug": "tana-franko",
                 "name": "Tana Franko",
+                "twitter": "tanafranko",
                 "details": ""
             }
         ],
@@ -234,6 +263,7 @@
             {
                 "slug": "kristof-van-tomme",
                 "name": "Kristof Van Tomme",
+                "twitter": "kvantomme",
                 "details": ""
             }
         ],
@@ -245,6 +275,7 @@
             {
                 "slug": "tara-scherner-de-la-fuente",
                 "name": "Tara Scherner de la Fuente",
+                "twitter": "MediaRemedial",
                 "details": ""
             }
         ],

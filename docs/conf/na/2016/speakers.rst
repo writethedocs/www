@@ -28,7 +28,9 @@ Presentations
           {% for speaker in talk.speakers %}
           {{ speaker.name|indent(10) }}
           <span class="speaker-details">
-          {{ speaker.details|indent(10) }}
+          {% if speaker.twitter %}
+          <a href="https://twitter.com/{{ speaker.twitter }}">@{{ speaker.twitter }}</a>
+          {% endif %}
           </span>
           {% endfor %}
         </h3>
