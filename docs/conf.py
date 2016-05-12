@@ -8,7 +8,10 @@ from recommonmark.parser import CommonMarkParser
 import ablog
 
 
-exclude_patterns = ['_build', 'include']
+exclude_patterns = [
+    '_build', 
+    'include',
+]
 extensions = [
     'ablog',
 ]
@@ -163,3 +166,10 @@ texinfo_documents = [
      author, 'WritetheDocs', 'One line description of project.',
      'Miscellaneous'),
 ]
+
+suppress_warnings = ['image.nonlocal_uri']
+
+rst_epilog = """
+.. |wtd| replace:: Write the Docs
+
+"""
