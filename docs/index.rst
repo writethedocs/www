@@ -14,10 +14,6 @@ and writing software documentation.
 `fork us on GitHub <https://github.com/writethedocs/docs>`_!
 Also feel free to send us any additions in any format to guide@writethedocs.org.
 
-This guide is **opinionated**.
-You won't find a large list of tools here,
-but you'll find the ones that we recommend and think are worthwhile.
-
 Now, let's get started.
 
 Getting Started with Documentation
