@@ -43,6 +43,16 @@ Documentation Culture at your Company
 * Integrating Tech Writers into the product process
 * Producing documentation inside a Support team
 
+Inspiration
+-----------
+
+It's always good to see the amazing things other folks have done.
+This gets us fired up.
+Check out these resources that we get inspired by:
+
+* https://github.com/RichardLitt/awesome-docs
+* Your link here
+
 Markup Languages
 ----------------
 
