@@ -121,4 +121,3 @@ Write the Docs Resources
 ------------------------
 
 .. include:: /includes/resources.rst
-
