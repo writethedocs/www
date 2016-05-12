@@ -1,8 +1,6 @@
-:orphan:
-
-=========================================
-The Write the Docs Guide to Documentation
-=========================================
+===================
+Documentation Guide
+===================
 
 Welcome!
 We are excited that you are going down the path of creating more wonderful documentation in the world.
@@ -13,6 +11,11 @@ and writing software documentation.
 **This is a living, breathing guide.**  If you'd like to contribute,
 `fork us on GitHub <https://github.com/writethedocs/docs>`_!
 Also feel free to send us any additions in any format to guide@writethedocs.org.
+
+.. note:: There are a number of topics that aren't written yet.
+          That means that you can write them!
+          Please submit your thoughts and ideas,
+          and you can contribute to making this guide better.
 
 Now, let's get started.
 
