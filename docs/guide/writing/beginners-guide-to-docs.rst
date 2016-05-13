@@ -1,5 +1,5 @@
-A beginners guide to writing documentation
-==========================================
+A beginner's guide to writing documentation
+===========================================
 
 .. note:: This is a write up of a :ref:`Presentation <beginner-presentation>`.
           Please provide feedback to `@ericholscher`_.
