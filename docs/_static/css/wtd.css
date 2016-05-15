@@ -1,0 +1,82 @@
+/*
+Write the Docs - main css for common elements
+
+This includes the top nav bar and non-conference pages
+
+*/
+
+body {
+    font-weight: normal;
+    font-family: Aleo;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Aleo;
+    font-weight: bold;
+}
+
+p {
+    font-family: Aleo;
+    font-size: 1.1em;
+    font-weight: normal;
+}
+
+/* Navbar */
+div.navbar {
+    background: #F2F0EB;
+    color: #334;
+    font-weight: normal;
+}
+
+div.navbar ul.nav li a:link,
+div.navbar ul.nav li a:visited {
+    color: #334;
+    font-size: 1.3em;
+}
+
+div.navbar ul.nav li a:hover,
+div.navbar ul.nav li a:active,
+div.navbar ul.nav li.active a:link {
+    background: #E2E0DB;
+    color: #334;
+    font-size: 1.3em;
+}
+
+div.navbar div.container a.navbar-brand {
+    color: #334;
+    font-size: 1.3em;
+    font-family: Aleo;
+    font-weight: bold;
+}
+
+/* Footer */
+div.footer {
+    margin-top: 2em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    font-size: 1.1em;
+    line-height: 32px;
+    background: #fff;
+}
+
+div.footer span {
+    padding: 0em .4em;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+/* Welcome Wagon */
+
+.crew-images {
+  margin: 15px;
+}
+
+.crew-images a, .crew-images p {
+  margin: 15px;
+}
+
+.crew-images div {
+  float: left;
+}

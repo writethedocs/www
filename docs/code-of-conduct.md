@@ -1,14 +1,9 @@
 Code of Conduct
 ===============
 
-------------------------------------------------------------------------
-
- 
-
 Short Version
 -------------
 
-------------------------------------------------------------------------
 
 **Write the Docs** is dedicated to providing a harassment-free
 experience for everyone, regardless of gender, sexual orientation,
@@ -24,7 +19,6 @@ organizers.
 Long Version
 ------------
 
-------------------------------------------------------------------------
 
 ### Harassment
 
@@ -68,25 +62,25 @@ social events.
 
 ### Staff Contact Information
 
-**Troy Howard**
-
-* troy@writethedocs.org
-* +1 (503) 544-1104
-
 **Eric Holscher**
 
 * eric@writethedocs.org
 * +1 (757) 705-0532
 
-**Ruth Buchanan**
-
-* ruth@writethedocs.org
-* +1 (503) 951-8667
-
 **Anthony Johnson**
 
 * anthony@writethedocs.org
 * +1 (413) 376-8649
+
+**Troy Howard**
+
+* troy@writethedocs.org
+* +1 (503) 544-1104
+
+**Mikey Ariel (EU)**
+
+* europe@writethedocs.org
+* +420 603 261 361
 
 ### License
 
@@ -95,4 +89,3 @@ Feminism wiki, created by the Ada Initiative and other
 volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy),
 which is under a [Creative Commons
 Zero](http://creativecommons.org/choose/zero/) license.
-

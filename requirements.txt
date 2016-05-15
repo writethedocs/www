@@ -1,0 +1,3 @@
+Sphinx==1.3.6
+recommonmark==0.1.1
+ablog==0.8.2

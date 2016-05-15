@@ -1,0 +1,4 @@
+Posts
+-----
+
+.. postlist:: 10

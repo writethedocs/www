@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="description" content="A series of events for technical writers, documentarians, and all those who write the docs.">
+
+    <meta name="author" content="Write The Docs">
+    <meta name="ROBOTS" content="ALL">
+
+    <meta name="geo.country" content="US">
+    <meta name="dc.language" content="en">
+    <meta name="geo.placename" content="Portland, Oregon">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Open Graph protocol -->
+    <meta property="og:image" content="http://www.writethedocs.org/img/stickers/sticker-wtd-colors.png">
+    <meta property="og:title" content="A series of events for technical writers, documentarians, and all those who write the docs.">
+    <meta property="og:type" content="conference">
+    <meta property="og:url" content="http://www.writethedocs.org">
+    <meta property="og:site_name" content="Write The Docs">
+    <!-- /Open Graph protocol -->
+
+    <!-- Google Plus1 -->
+    <meta itemprop="name" content="Write The Docs">
+    <meta itemprop="description" content="A series of events for technical writers, documentarians, and all those who write the docs.">
+    <meta itemprop="image" content="http://conf.writethedocs.org/img/logo.png">
+    <!-- /Google Plus1 -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% if page_description %}<meta name="description" content="{{ page_description }}">{% endif %}
+    {% if site_author %}<meta name="author" content="{{ site_author }}">{% endif %}
+    {% if canonical_url %}<link rel="canonical" href="{{ canonical_url }}">{% endif %}
+
+    <link href="{{ pathto('_static/css/vendor/bootstrap/bootstrap.min.css', 1) }}" rel="stylesheet" />
+    <link href="{{ pathto('_static/css/font-awesome-4.0.3.css', 1) }}" rel="stylesheet" />
+    <link href="{{ pathto('_static/css/prettify-1.0.css', 1) }}" rel="stylesheet" />
+    <link href="{{ pathto('_static/css/font/aleo.css', 1) }}" rel="stylesheet" />
+    <link href="{{ pathto('_static/css/font/fontello.css', 1) }}" rel="stylesheet" />
+    <link href="{{ pathto('_static/css/wtd.css', 1) }}" rel="stylesheet" />
+
+    {% block head_link %}
+      {%- for path in extra_css %}
+        <link href="{{ path }}" rel="stylesheet" />
+      {%- endfor %}
+    {% endblock %}
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="{{ pathto('_static/js/bootstrap-3.0.3.min.js', 1) }}"></script>
+    <script src="{{ pathto('_static/js/prettify-1.0.min.js', 1) }}"></script>
+    <script src="{{ pathto('_static/js/base.js', 1) }}"></script>
+
+    {% block head_script %}
+      {%- for path in extra_javascript %}
+        <script src="{{ path }}" defer></script>
+      {%- endfor %}
+    {% endblock %}
+      <script src="http://www.google-analytics.com/ga.js"></script>
+      <script type="text/javascript">
+      // google analytics
+      // note: this will create a JS console error when viewing local via file:// uris
+      var _gaq=[['_setAccount','UA-37795838-1'],['_trackPageview']];
+      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+        g.src=('https:'==location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g,s)}(document,'script'));
+      </script>
+      </script>
+  </head>
+  <body>
+
+  {% include "conf-nav.html" %}
+
+    {% block container %}
+    {% endblock %}
+
+  {% include "footer.html" %}
+
+  </body>
+
+</html>
+
