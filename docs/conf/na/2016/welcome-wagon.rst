@@ -125,7 +125,7 @@ public transportation or a taxi there.
    yes! Making connections over dinner is a great way to get to know
    more people.
 -  If you need grocery items, there is a Whole Foods just down the
-   street from the conference venue at 2825 East Burnside street.
+   street from the conference venue at 1210 NW Couch St, Portland, OR 97209.
 
 **Where should I sit?**
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -133,7 +133,7 @@ public transportation or a taxi there.
 -  The Crystal Ballroom will have round tables next to the main stage
    and rows of seats behind them.
 -  There are no reserved seats; feel free to sit anywhere.
--  If you can, show up early to the confrence each morning to grab a
+-  If you can, show up early to the conference each morning to grab a
    seat at one of the round tables. Introducing yourself to your
    neighbors is one of the easiest way to meet people.
 
