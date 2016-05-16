@@ -10,7 +10,7 @@ We're your Welcome Wagon, and we're glad you're coming to the
 `@canncrochet <https://twitter.com/canncrochet>`__ and
 `@runleonarun <https://twitter.com/runleonarun>`__ and look for Christy
 and Leona at the conference to say hello! In the meantime, you can email
-`Christy <mailto:christy.lutz@jivesoftware.com>`__ or
+`Christy <mailto:canncrochet@gmail.com>`__ or
 `Leona <mailto:leona.campbell@jivesoftware.com>`__ if we can help make
 your first time at the conference easier. Come :ref:`say hello <say-hello>`
 to us at the conference.
