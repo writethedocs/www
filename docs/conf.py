@@ -168,8 +168,3 @@ texinfo_documents = [
 ]
 
 suppress_warnings = ['image.nonlocal_uri']
-
-rst_epilog = """
-.. |wtd| replace:: Write the Docs
-
-"""
