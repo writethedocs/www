@@ -48,6 +48,8 @@ tools you need to contribute.
    opening reception in the same space until 9, so feel free to keep
    working longer!
 
+- Location: For the second year, `CENTRL Office <http://centrloffice.com/>`__ coworking space is hosting our write day. They are located at 1355 NW Everett St, Portland, OR 97209.
+
 Schedule
 ^^^^^^^^
 
