@@ -44,6 +44,10 @@
         "Session": "Lunch"
     }, 
     {
+        "Time": "1:00 PM", 
+        "Session": "Sponsored Talk"
+    }, 
+    {
         "Time": "1:10 PM", 
         "Session": "Lightning Talks"
     }, 
