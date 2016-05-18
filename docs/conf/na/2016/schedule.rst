@@ -88,7 +88,8 @@ Lola's Room
 
 Monday Night - Party
 ~~~~~~~~~~~~~~~~~~~~
-The confernce party will be at the **Jack Knife, 614 SW 11th Ave**
+The conference party will be at the **Jack Knife, 614 SW 11th Ave**.
+It will start at **7pm**.
 
 Wind down and talk about the day's talks in a relaxed and friendly
 environment.
