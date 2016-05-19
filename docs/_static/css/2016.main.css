@@ -323,3 +323,8 @@ div.row-sponsors > div {
 div.injected {
     display: none;
 }
+
+
+blockquote > div > p {
+    font-size: 1em;
+}
