@@ -19,23 +19,9 @@ The guide has its origins in the efforts of developers to understand and explain
 
 ## What to leave out
 
-The guide is not a place to plug your favorite toolchain, even if it's open source. If you want to include a page that describes a documentation problem you solved using a particular toolchain, great, but make sure that it's of interest to a general audience. If folks want to spin off a Sphinx sub-domain, for example, that's an option, but the guide in its current iteration focuses on general principles and best practices, and we'd like to keep it that way.
+The guide is not a place to plug your favorite toolchain, even if it's open source. If you want to include a page that describes a documentation problem you solved using a particular toolchain, great, but make sure that it's of interest to a general audience. If you want to add a new set of topics, consider where they would fit best into the rest of the guide. 
 
-Also, please avoid what's sometimes called preferential editing, or in the case of content for the guide, rules or discussion about what you personally prefer to write in a given situation. If you recommend a particular word choice, for example, explain why it matters to the larger world of the audience you want to address. 
-
-## For anyone new to GitHub and Git
-
-If you've never worked with Git and GitHub before, here's a good place to get started:
-
-[How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github) is a great resource to help you get started.
-
-For small changes, you can submit issues, which you can do just in the GitHub interface, but for anything larger you'll probably want to learn how to fork and branch, how to work locally (although you can do most things in the GitHub interface in your branch), and how to keep your fork in sync with the main repository.
-
-If you really don't want to deal with GitHub at all, we'll take attachments or inline text emailed to guide@writethedocs.org. But we'd like to encourage you to learn some of the basic tools that we use.
-
-### Markup
-
-Some of the current files in the guide are written in Markdown, and some are written in reStructured Text (rST). Either one is acceptable.
+The main focus is general principles and best practices, and we'd like to keep it that way. This means no bikeshedding -- arguing over minor points at the expense of major principles of clarity and commmunication. And do avoid preferential editing -- offering only your personal preferences for dealing with a particular writing situation. If you recommend a particular word choice, for example, explain why it matters to the larger world of the audience you want to address. 
 
 ## What we expect from you, and what you can expect from us
 
