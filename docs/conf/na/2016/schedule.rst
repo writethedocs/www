@@ -37,6 +37,10 @@ you can continue your conversations over more substantial food as well.
     <td><a href="/conf/na/2016/writing-day/">Writing Day</a> documentation sprints begin 
    </tr>
    <tr>
+    <td class="schedule-time">9:30 AM</td>
+    <td>Introduction to the Writing Day</td>
+   </tr>
+   <tr>
     <td class="schedule-time">12:00 PM</td>
     <td>Break for lunch</td>
    </tr>
