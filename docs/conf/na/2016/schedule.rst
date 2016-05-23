@@ -96,7 +96,7 @@ The conference party will be at the **Jack Knife, 614 SW 11th Ave**.
 It will start at **7pm**.
 
 The party is for **conference attendees only**.
-Plase bring your badge,
+Please bring your badge,
 as it is an official conference event.
 
 There will be light dinner and drinks available on the conference while our tab lasts.
