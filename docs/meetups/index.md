@@ -18,6 +18,8 @@ We'd be happy to promote it and list it here.
 ### Current Meetups: North America
 
 -   [Austin, TX, USA](http://www.meetup.com/WriteTheDocs-ATX-Meetup/)
+-   [Boise, ID, USA](http://www.meetup.com/Write-the-Docs-Boise/)
+-   [Boston, MA, USA](http://www.meetup.com/Write-the-Docs-BOS/)
 -   [Boulder/Denver, CO, USA](http://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/)
 -   [Dallas, TX, USA](http://www.meetup.com/Write-the-Docs-Dallas/)
 -   [New York, NY, USA](http://www.meetup.com/Write-The-Docs-NY/)
@@ -25,7 +27,6 @@ We'd be happy to promote it and list it here.
 -   [San Diego, CA, USA](http://www.meetup.com/Write-the-Docs-San-Diego-CA/)
 -   [San Francisco, CA, USA](http://www.meetup.com/Write-the-Docs/)
 -   [Seattle, WA, USA](http://www.meetup.com/Write-The-Docs-Seattle/)
--   [Boise, ID, USA](http://www.meetup.com/Write-the-Docs-Boise/)
 
 ### Current Meetups: Latin America
 
@@ -33,6 +34,7 @@ We'd be happy to promote it and list it here.
 
 ### Current Meetups: Europe
 
+-   [Barcelona, ES](http://www.meetup.com/Write-the-Docs-Barcelona/)     
 -   [Berlin, DE](http://www.meetup.com/Write-The-Docs-Berlin/)     
 -   [Galway, IE](http://www.meetup.com/Write-The-Docs-Ireland/)
 -   [London, UK](http://www.meetup.com/Write-The-Docs-London/)
