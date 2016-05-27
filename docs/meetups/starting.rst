@@ -34,55 +34,58 @@ If you need more help, you can check `Meetup's documentation <http://www.meetup.
 
 When you're done, `contact us <mailto:writethedocs@gmail.com>`_: we will add your group to the :doc:`/meetups/index` list on our website.
 
+..  Comment this out for now
 
-How to find a place to meet and sponsors?
------------------------------------------
+    How to find a place to meet and sponsors?
+    -----------------------------------------
 
-How to find sponsors?
-~~~~~~~~~~~~~~~~~~~~~
+    How to find sponsors?
+    ~~~~~~~~~~~~~~~~~~~~~
 
-your company, email other company, other meetups or events, friends who work elsewhere, etc.
+    Try these places at the beginning to find sponsors:
 
-Sale pitch: new knowledge for them and their employees, can advertise about job offer, etc.
+    * Your company, 
+    * Software companies in your town
+    * Look who sponsors other meetups or events, 
 
-What can/can't you offer to sponsor?
+    A basic sales pitch: new knowledge for them and their employees, can advertise about job offer, etc.
 
-Got a place: what now?
-~~~~~~~~~~~~~~~~~~~~~~
+    Got a place: what now?
+    ~~~~~~~~~~~~~~~~~~~~~~
 
-Logistic (wifi, power outlet, projector and mac adaptors, arrive early).
+    Logistic (wifi, power outlet, projector and mac adaptors, arrive early).
 
-If food: always offer vegetarian option. If beverages: always offer non alcoholic choice.
+    If food: always offer vegetarian option. If beverages: always offer non alcoholic choice.
 
-Accessibility
+    Accessibility
 
-Can't find a free place to meet?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Can't find a free place to meet?
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-go to a park, restaurant, etc: adapt your event accordingly.
+    go to a park, restaurant, etc: adapt your event accordingly.
 
 
-How to reach new members?
--------------------------
+    How to reach new members?
+    -------------------------
 
-Create social media accounts. Advertise your next meetup on WTD slack, forum or mailing list.
-Go to other meetups to present yours.
+    Create social media accounts. Advertise your next meetup on WTD slack, forum or mailing list.
+    Go to other meetups to present yours.
 
-Go to company booth during events to tell them about your meetup.
+    Go to company booth during events to tell them about your meetup.
 
-Don't forget to ask if people want to help you: organizing alone can be really hard and time-consuming.
+    Don't forget to ask if people want to help you: organizing alone can be really hard and time-consuming.
 
-What to do during a meetup?
----------------------------
+    What to do during a meetup?
+    ---------------------------
 
-Talks. Multiple formats: 20 minutes, 40 minutes, lightning talks, etc.
-Talk proposal preparation.
-Networking.
-Learning new skills/tools.
-If you want to find a list of topics: check other `WTD meetups <http://meetup.com/pro/writethedocs>`_.
+    Talks. Multiple formats: 20 minutes, 40 minutes, lightning talks, etc.
+    Talk proposal preparation.
+    Networking.
+    Learning new skills/tools.
+    If you want to find a list of topics: check other `WTD meetups <http://meetup.com/pro/writethedocs>`_.
 
-How to find speakers?
-~~~~~~~~~~~~~~~~~~~~~
+    How to find speakers?
+    ~~~~~~~~~~~~~~~~~~~~~
 
-Look at previous conferences, meetup around you.
-CFP: invite your members to talk!
+    Look at previous conferences, meetup around you.
+    CFP: invite your members to talk!
