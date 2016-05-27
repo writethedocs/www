@@ -1,6 +1,6 @@
 :template: 2016/eu.html
 
-CALL FOR PROPOSALS
+Call for Proposals
 ------------------
 
 Good day, documentarians! We’re excited to announce that we’re
@@ -16,7 +16,7 @@ goals of the conference and what we look for in talk proposals.
 In the meantime, mark your calendars: The deadline for submitting
 proposals is **Midnight UTC on June 3rd, 2016**.
 
-CONFERENCE GOALS
+Conference Goals
 ----------------
 
 The purpose of Write the Docs is to bring together people who are
@@ -29,7 +29,7 @@ entirely, we want to hear from you. Bring us your tips, tricks,
 experiences, ideas, frustrations, hopes, or anything else that your
 passion for documentation inspires you to share.
 
-WHAT WE’RE LOOKING FOR
+What We're Looking For
 ----------------------
 
 Although the focus of Write the Docs is on documentation, particularly
@@ -73,7 +73,7 @@ spirit of Write the Docs:
   (`abstract <http://www.writethedocs.org/conf/eu/2015/speakers/#speaker-dpotter>`__)
 
 
-PRESENTATION FORMAT
+Presentation Format
 -------------------
 
 Presentations will be 30 minutes long. If you have specific length needs
@@ -82,7 +82,7 @@ for your presentation, let us know and we can work with it.
 **There will be no questions at the end of talks.**
 We ask that speakers be available at the front of the stage for a few minutes after their talk to answer questions.
 
-SPEAKER BENEFITS & LOGISTICS
+Speaker Benefits & Logistics
 ----------------------------
 
 If you are selected to speak at Write the Docs, we will waive your
@@ -101,13 +101,13 @@ registration price.
 
 Finally, you’ll hear from us with our proposal decisions by **June 24th**
 
-QUESTIONS?
+Questions?
 ----------
 
 If you have any questions, please email us at europe@writethedocs.org and
 let us know.
 
-FORM
+Form
 ----
 
 .. raw:: html
