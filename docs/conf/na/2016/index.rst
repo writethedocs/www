@@ -41,6 +41,7 @@ News
 - :doc:`/conf/na/2016/news/announcing-presentations`
 - :doc:`/conf/na/2016/news/schedule-welcome-wagon-events`
 - :doc:`/conf/na/2016/news/welcome`
+- :doc:`/conf/na/2016/news/thanks-for-coming`
 
 Can't wait?
 ^^^^^^^^^^^
