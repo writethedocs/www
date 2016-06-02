@@ -21,6 +21,7 @@ News
 ^^^^
 
 - :doc:`/conf/eu/2016/news/cfp-tickets`
+- :doc:`/conf/eu/2016/news/cfp-new-deadline`
 
 Can't wait?
 ^^^^^^^^^^^
