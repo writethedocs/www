@@ -1,5 +1,19 @@
 :template: 2016/na.html
 
+
+Thanks!
+=======
+
+Thanks to everyone who made this year another wonderful event.
+We're so grateful to our sponsors, speakers, volunteers, and attendees for making the conference possible. 
+
+We have posted the `videos <https://www.youtube.com/playlist?list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv>`_ from the conference for those who couldn't attend. 
+We will post official photos from the conference soon,
+as well.
+
+We hope you'll join us in `Prague <http://www.writethedocs.org/conf/eu/2016/>`_ in September,
+or again in Portland next year!
+
 About the conference
 ====================
 
@@ -42,14 +56,6 @@ News
 - :doc:`/conf/na/2016/news/schedule-welcome-wagon-events`
 - :doc:`/conf/na/2016/news/welcome`
 - :doc:`/conf/na/2016/news/thanks-for-coming`
-
-Can't wait?
-^^^^^^^^^^^
-
-Check out the
-`videos <https://www.youtube.com/playlist?list=PLmV2D6sIiX3UW1kPWlhzyo4lr6e3US6re>`_ from last year to get an idea of what we're up to.
-We also have a `guide <http://docs.writethedocs.org/>`_ for getting started
-writing documentation.
 
 Presentations
 -------------
