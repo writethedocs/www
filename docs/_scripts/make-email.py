@@ -1,9 +1,16 @@
 """
-Use like:
+Use like::
 
 python make-email.py http://www.writethedocs.org/conf/na/2016/news/thanks-for-coming/
 
 Requires a `pip install pyquery`
+
+On OS X you can do::
+
+python make-email.py http://www.writethedocs.org/conf/na/2016/news/thanks-for-coming/ |pbcopy
+
+To copy things into the clip board
+
 """
 import re
 import sys
