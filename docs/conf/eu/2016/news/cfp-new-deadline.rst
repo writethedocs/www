@@ -13,7 +13,7 @@ Early Bird tickets are now sold out. Thanks to everyone who has already purchase
 Submit your talk by June 10th
 ===================================
 
-There is still time to submit your talk to Write the Docs! The `Call for Proposals <http://www.writethedocs.org/conf/eu/2016/cfp/>`_ is open until **June 10th at Midnight PST** – we've added an extra week to the deadline because so much has been going at WTD NA and Pycon! So make sure to get your talk in.
+There is still time to submit your talk to Write the Docs! The `Call for Proposals <http://www.writethedocs.org/conf/eu/2016/cfp/>`_ is open until **June 10th at Midnight PST** – we've added an extra week to the deadline because so much has been going at Write the Docs Portland and Pycon! So make sure to get your talk in.
 
 Remember, too – on the `Call for Proposals <http://www.writethedocs.org/conf/eu/2016/cfp/>`_ page, we’ve got some tips and examples to help inspire you. And if you’ve got an idea, but you’re not sure what to do with it, ask for feedback on `Slack <http://slack.writethedocs.org/>`_. Your fellow documentarians will be happy to help!
 
