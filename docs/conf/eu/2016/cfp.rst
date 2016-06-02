@@ -14,7 +14,7 @@ this year, we want to hear from you! Read on to learn more about the
 goals of the conference and what we look for in talk proposals.
 
 In the meantime, mark your calendars: The deadline for submitting
-proposals is **Midnight UTC on June 3rd, 2016**.
+proposals is **Midnight UTC on June 10th, 2016**.
 
 Conference Goals
 ----------------
