@@ -17,7 +17,7 @@ Let us know how we can improve for future conferences and gatherings. We really 
 
 ## Speak or Sponsor in Europe
 
-Don't forget we have our European conference this year in Prague! The [Call for Proposals](http://www.writethedocs.org/conf/eu/2016/cfp/) is open until June 3.
+Don't forget we have our European conference this year in Prague! The [Call for Proposals](http://www.writethedocs.org/conf/eu/2016/cfp/) is open until **June 10**.
 
 We're also looking for more sponsors to make the Prague event just as magical as this year's Portland event. If you are curious about sponsoring EU or NA again next year,
 please contact us at [sponsorship@writethedocs.org](mailto:sponsorship@writethedocs.org).
@@ -31,12 +31,6 @@ All the videos for the conference are now posted. You can see all the videos fro
 ## Write the Docs Slack
 
 The Write the Docs Slack has really taken off this year! Our general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y'all continue the conversations throughout the year. If you haven't joined, head on over and join us! We're at [Write the Docs Slack](https://writethedocs.slack.com/).
-
-## The Forum
-
-Thanks to our awesome community member [Sharon Campbell](https://twitter.com/captainshar), we've had a [Write the Docs Forum](http://forum.writethedocs.org/) for a year now.
-
-So if you haven't already, check out the Write the Docs Slack and the forum, and feel free to start a topic or chime in on an existing thread.
 
 ## Meetups
 
