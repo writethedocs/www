@@ -34,6 +34,9 @@ and
 have a `guide <http://docs.writethedocs.org/>`_ for getting started
 writing documentation.
 
+.. role:: strike
+    :class: strike
+
 Tickets
 -------
 
