@@ -112,6 +112,11 @@ information on sponsoring Write the Docs.
 
     <div class="row row-sponsors">
 
+      <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+        <a href="https://developer.mozilla.org/">
+        <img src="/_static/img/2016/sponsors/mdn.png" width=200/></a>
+      </div>
+
       <!-- Editor -->
       <div class="col-md-8 col-sm-4">
         <a href="https://github.com">
