@@ -27,9 +27,9 @@ content = d('.col-content').html()
 content = re.sub(r'<a class="headerlink" .+</a>', '', content)
 
 # Remove page title
-d = pq(content)
-d.find('span').remove()
-d.find('h1').remove()
-content = d.html()
+# d = pq(content)
+# d.find('span').remove()
+# d.find('h1').remove()
+# content = d.html()
 
 print content
