@@ -77,7 +77,7 @@ Independent Tickets
 Purchase this ticket if you are paying for yourself, work at a
 non-profit, or at a company with less than 10 employees.
 
-* :strike:`75 Independent Early Bird` - **Sold Out**
+* :strike:`€75 Independent Early Bird` - **Sold Out**
 * €100 Independent
 
 Financial Assistance
