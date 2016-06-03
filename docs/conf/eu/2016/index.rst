@@ -65,7 +65,7 @@ Purchase this ticket if a company is paying for your attendance.
 Companies interested in sponsorship can also receive tickets to the
 conference with a sponsorship package.
 
-* €150 Corporate Early Bird (Limit 25)
+* :strike:`€150 Corporate Early Bird` - **Sold Out**
 * €200 Corporate
 
 Independent Tickets
@@ -74,7 +74,7 @@ Independent Tickets
 Purchase this ticket if you are paying for yourself, work at a
 non-profit, or at a company with less than 10 employees.
 
-* €75 Independent Early Bird (Limit 25)
+* :strike:`75 Independent Early Bird` - **Sold Out**
 * €100 Independent
 
 Financial Assistance
