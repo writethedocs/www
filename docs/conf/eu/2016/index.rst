@@ -16,6 +16,7 @@ and talking.
 
 The main presentation track takes place from **September 19-20 (Monday and
 Tuesday) from 9am to 6pm**.
+Our venue will be the `Auto Klub <http://www.ganimed.cz/>`_ right next to the train station in the Prague city center.
 
 News
 ^^^^
