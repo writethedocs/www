@@ -100,19 +100,8 @@ Presentations
 Tickets
 -------
 
-Tickets are on sale now! We do expect the event to sell out, so don't
-wait to purchase.
-
-.. raw:: html
-
-   <br>
-   <form method="GET" action="https://ti.to/writethedocs/write-the-docs-na-2016">
-   <button name="_" id="button-tito-writethedocs-write-the-docs-na-2016-1">
-   Buy Tickets
-   </button>
-   </form>
-   <br>
-
+Tickets are sold out.
+Thanks to everyone who bought them!
 
 Ticket includes:
 
