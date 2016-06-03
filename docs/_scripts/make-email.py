@@ -21,7 +21,7 @@ url = sys.argv[1]
 
 
 d = pq(url=url)
-content = d('.section').html()
+content = d('.col-content').html()
 
 # Remove header links
 content = re.sub(r'<a class="headerlink" .+</a>', '', content)
