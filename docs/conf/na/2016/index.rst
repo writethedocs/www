@@ -7,9 +7,8 @@ Thanks!
 Thanks to everyone who made this year another wonderful event.
 We're so grateful to our sponsors, speakers, volunteers, and attendees for making the conference possible. 
 
-We have posted the `videos <https://www.youtube.com/playlist?list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv>`_ from the conference for those who couldn't attend. 
-We will post official photos from the conference soon,
-as well.
+We have posted the `videos <https://www.youtube.com/playlist?list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv>`_ and `photos <https://www.flickr.com/photos/writethedocs/albums/72157669467964085>`_ from the conference for those who couldn't attend. 
+Hopefully they allow you to bask in the beauty of the event from the comfort of your own chair.
 
 We hope you'll join us in `Prague <http://www.writethedocs.org/conf/eu/2016/>`_ in September,
 or again in Portland next year!
