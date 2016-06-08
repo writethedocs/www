@@ -74,7 +74,6 @@ Useful Pages
    conf/index
    meetups/index
    guide/index
-   blog/index
    videos
    origin-story
 
