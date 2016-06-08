@@ -19,6 +19,8 @@ but we'll also be doing a European event too that we'll need to coordinate.
 We don't see much attendee cross-over between the EU and NA events though,
 so we could hold them close to each other without too much worry.
 
+### Proposal Information
+
 We need some information about your city, about the venue, and travel. Your proposal doesn’t have to be super-fancy, just informative. The proposal should include the following:
 
 1. Names of organizer staff in the host city. While Write the Docs, LLC will handle the business aspects of the conference, we need the help of a team of local volunteers to manage preparation and the onsite coordination of the event. We realize you won't have an entire team assembled, but let us know who the core organizers in your city will be.
@@ -101,5 +103,15 @@ Since we are considering a number of proposals, **no one from your group** shoul
 If Write the Docs chooses your group's proposal, your group is responsible for putting Write the Docs in contact with the venue management to finalize the event agreement.
 
 **Please submit your proposal no later than July 30, 2016.**
+
+### Examples
+
+This is our first year trying to do conference propsoals,
+so we don't have a history of Write the Docs proposals.
+However,
+here are a couple other interesting proposals that you can look at for inspiration:
+
+* [Plone Conference Proposal](https://old.plone.org/events/conferences/plone-conference-2016/boston-proposal-2016/view)
+* [Perl Conference Proposal](http://news.perlfoundation.org/2007/08/yapcna2008-chicagopm-bid.html)
 
 Thanks so much! We look forward to hearing about all the fantastic places we can go next year!
