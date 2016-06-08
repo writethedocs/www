@@ -83,6 +83,7 @@ Useful Pages
    :maxdepth: 1
 
    meetups/starting
+   blog/index
    *
    conf/*
    news/*
