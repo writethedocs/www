@@ -1,8 +1,13 @@
 # Write the Docs East: Call for Venue Proposal 2017
 
 It’s time to think about Write the Docs 2017! 
-We are hoping to split the conference into an East and West coast event,
+We are hoping to split the North American conference into an East and West coast event,
 and we're looking for proposals for the East coast host city.
+This will bring us to 3 total conferences:
+
+* Write the Docs West (Portland) - May 13-16, 2017 (tentative dates)
+* Write the Docs East (Unknown) - Unknown
+* Write the Docs Europe (Unknown) - Fall 2017
 
 So you want your city to host Write the Docs East? Hurrah! We’re delighted by your interest. Here’s what you need to know, and what we need to know, to consider your proposal.
 
@@ -11,6 +16,8 @@ The West event will be in May 2017,
 so take this into account in your planning.
 It likely makes sense to do the event in the Fall,
 but we'll also be doing a European event too that we'll need to coordinate.
+We don't see much attendee cross-over between the EU and NA events though,
+so we could hold them close to each other without too much worry.
 
 We need some information about your city, about the venue, and travel. Your proposal doesn’t have to be super-fancy, just informative. The proposal should include the following:
 
