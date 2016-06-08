@@ -19,6 +19,13 @@ but we'll also be doing a European event too that we'll need to coordinate.
 We don't see much attendee cross-over between the EU and NA events though,
 so we could hold them close to each other without too much worry.
 
+**We are open to alternative event ideas**.
+We are imagining a three day conference similar to our West event,
+but that might be overly ambitious for the first East event.
+So feel free to suggest a smaller,
+one-day or two-day event,
+if that seems more manageable.
+
 ### Proposal Information
 
 We need some information about your city, about the venue, and travel. Your proposal doesn’t have to be super-fancy, just informative. The proposal should include the following:
