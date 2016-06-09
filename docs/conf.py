@@ -5,11 +5,12 @@ import json
 import re
 
 from recommonmark.parser import CommonMarkParser
+from recommonmark.transform import AutoStructify
 import ablog
 
 
 exclude_patterns = [
-    '_build', 
+    '_build',
     'include',
 ]
 extensions = [
@@ -146,6 +147,11 @@ def rstjinja(app, docname, source):
 def setup(app):
     app.connect('html-page-context', on_page_context)
     app.connect("source-read", rstjinja)
+    app.add_config_value('recommonmark_config', {
+        'auto_toc_tree_section': 'Contents',
+        'enable_auto_doc_ref': True,
+    }, True)
+    app.add_transform(AutoStructify)
 
 # Output formats
 
