@@ -11,6 +11,22 @@ It contains a lot of the knowledge that we have put here:
 
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/ZwQ8Kd48d0w" frameborder="0" allowfullscreen></iframe>
 
+Write the Docs Worldview
+------------------------
+
+Our worldview is important for starting a meetup.
+We aren't just another tech writing meetup,
+but hope to be welcoming to the vast parts of the tech industry that care about documentation.
+
+Eric Holscher's Introduction to the conference and community from the Write the Docs 2016 event in Portland is a good place to start.
+We highly recommend watching this before starting a meetup!
+
+.. note:: You can skip ahead to 1:30, since the beginning is mostly conference logistics.
+
+.. raw:: html
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/Fmfs-iYqx5Q?list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv" frameborder="0" allowfullscreen></iframe>
+
 Done? Let's go into details.
 
 Launch your meetup page
