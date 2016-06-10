@@ -74,6 +74,7 @@ Useful Pages
    conf/index
    meetups/index
    guide/index
+   organizer-guide/index
    videos
    origin-story
 
@@ -82,7 +83,6 @@ Useful Pages
    :glob:
    :maxdepth: 1
 
-   meetups/starting
    blog/index
    *
    conf/*
