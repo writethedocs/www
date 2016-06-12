@@ -15,4 +15,10 @@ Also feel free to send us any additions in any format to guide@writethedocs.org.
           Please submit your thoughts and ideas,
           and you can contribute to making this guide better.
 
-Now, let's get started.
+Meetups
+-------
+
+.. toctree::
+   :maxdepth: 2
+
+   meetups/starting
