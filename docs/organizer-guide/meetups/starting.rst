@@ -32,7 +32,7 @@ Done? Let's go into details.
 Launch your Meetup Page
 -----------------------
 
-Write the Docs meetups are organized though `Meetup <http://www.meetup.com/>`_. Using this service, you'll be able to create events with registration, easily contact people in you group, promote your sponsors, etc. It costs money but the good news is that we can help you: `contact us <mailto:conf@writethedocs.org>`_ when you've launched your Meetup page to be reimburse.
+Write the Docs meetups are organized using `Meetup <http://www.meetup.com/>`_. Through Meetup, you can create events, contact Meetup members, promote your sponsors, and more. If you need help with Meetup fees, `contact us <mailto:conf@writethedocs.org>`_. We may be able to help.
 
 How to Start your Group?
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -48,7 +48,7 @@ a few tips:
 
 If you need more help, you can check `Meetup's documentation <http://www.meetup.com/help/topics/10/article/464982/>`_.
 
-When you're done, `contact us <mailto:conf@writethedocs.org>`_: we will add your group to the :doc:`/meetups/index` list on our website.
+When you're done, `contact us <mailto:conf@writethedocs.org>`_ or on `Slack <https://writethedocs.slack.com/>`_: we will add your group to the :doc:`/meetups/index` list on our website.
 
 How to Find a Place to Meet (Sponsors)?
 ---------------------------------------
@@ -56,11 +56,11 @@ How to Find a Place to Meet (Sponsors)?
 Who and Where to ask?
 ~~~~~~~~~~~~~~~~~~~~~
 
-You can start to ask companies you're close to: it could be your company, your friends companies, etc.
+Start to ask companies you're close to: it could be your company, your friends companies, etc.
 
-If it's not working, you can contact other tech companies in your town. Job boards, Tech conferences websites, and other tech meetups are a good way to start.
+If it's not working, contact other tech companies in your town. Job boards, Tech conferences websites, and other tech meetups are also a good way to start.
 
-It's always easier to know someone inside the company you want to contact. If you don't have one, you can use this email template:
+It's easier to know someone inside the company you want to contact. If you don't know anyone, you can use this email template:
 
 .. code-block:: jinja
 
@@ -84,23 +84,32 @@ It's always easier to know someone inside the company you want to contact. If yo
 Logistic
 ~~~~~~~~
 
-Depending on what you're planing, you may need:
+Checklist:
+^^^^^^^^^^
 
-* Electricity and enough outlets or cords for everyone.
-* A good Internet connection: print small posters with wifi's name and password or write it somewhere visible.
-* A projector: always bring Mac adapters with you in case the speakers forget it.
-* Food and/or beverages: always have non-alcoholic beverages and vegetarian options.
+Depending on your meetup, here's a list of what you may need:
 
-To help people find your meetup place, prepare a small poster to hang on the front door with the name of your meetup and basic info ("2nd floor on the right", entry code, etc).
+* Electricity and enough power outlets for everyone.
+* A good Internet connection: make the network name and password available. If possible, write it somewhere visible so you don't have to repeat it all the time.
+* A projector: have adapters available for speakers or ask them to bring one.
+* Food and/or beverages: include non-alcoholic and vegetarian options.
+
+Venue:
+^^^^^^
+
+To help people find your meetup venue:
+
+* Include directions in the event description.
+* Ask your host to add direction signs with your meetup name in appropriate locations.
 
 Try to have a venue accessible to people with disabilities: point out in your event description if it's the case or not.
 
 Can't find a place to meet?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-It can be difficult to find a place for your first meetup. If it's the case, don't worry, and try something else: you can meet in a cafe, organize a picnic, do an "after-work" in a bar.
+If you can't find a company to host your meetup, don't worry: you can meet in a cafe, organize a picnic, do an "after-work" in a bar.
 
-You can also ask around on social media or `WTD Slack <http://slack.writethedocs.org>`_: one person there may be able to help you find a place for your next meetup.
+ If you're having difficulty finding a location, ask on the `Slack <http://slack.writethedocs.org>`_: you have an international community ready to help.
 
 
 .. TODO:
