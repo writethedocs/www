@@ -56,7 +56,7 @@ How to Find a Place to Meet (Sponsors)?
 Who and Where to ask?
 ~~~~~~~~~~~~~~~~~~~~~
 
-Start to ask companies you're close to: it could be your company, your friends companies, etc.
+Start to ask companies you're close to: it could be your company, your friends' companies, etc.
 
 If it's not working, contact other tech companies in your town. Job boards, Tech conferences websites, and other tech meetups are also a good way to start.
 
@@ -109,7 +109,7 @@ Can't find a place to meet?
 
 If you can't find a company to host your meetup, don't worry: you can meet in a cafe, organize a picnic, do an "after-work" in a bar.
 
- If you're having difficulty finding a location, ask on the `Slack <http://slack.writethedocs.org>`_: you have an international community ready to help.
+If you're having difficulty finding a location, ask on the `Slack <http://slack.writethedocs.org>`_: you have an international community ready to help.
 
 
 .. TODO:
