@@ -24,6 +24,7 @@ We'd be happy to promote it and list it here.
 -   [Dallas, TX, USA](http://www.meetup.com/Write-the-Docs-Dallas/)
 -   [New York, NY, USA](http://www.meetup.com/Write-The-Docs-NY/)
 -   [Ottawa, ON, CA](http://www.meetup.com/Write-The-Docs-YOW-Ottawa/)
+-   [Philadelphia, PA, USA](http://www.meetup.com/Write-The-Docs-Philly/)
 -   [Portland, OR, USA](http://www.meetup.com/Write-The-Docs-PDX/)
 -   [San Diego, CA, USA](http://www.meetup.com/Write-the-Docs-San-Diego-CA/)
 -   [San Francisco, CA, USA](http://www.meetup.com/Write-the-Docs/)

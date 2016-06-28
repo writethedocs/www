@@ -7,10 +7,12 @@ North America
 -  `Write The Docs, Apr 8-9 2013, Portland, Oregon`_
 -  `Write The Docs North America, May 5-6 2014, Portland, Oregon`_
 -  `Write The Docs North America, May 17-19 2015, Portland, Oregon`_
+-  `Write The Docs North America, May 22-24 2016, Portland, Oregon`_
 
 .. _Write The Docs, Apr 8-9 2013, Portland, Oregon: http://conf.writethedocs.org/na/2013/
 .. _Write The Docs North America, May 5-6 2014, Portland, Oregon: http://conf.writethedocs.org/na/2014/
 .. _Write The Docs North America, May 17-19 2015, Portland, Oregon: http://www.writethedocs.org/conf/na/2015/
+.. _Write The Docs North America, May 22-24 2016, Portland, Oregon: http://www.writethedocs.org/conf/na/2016/
 
 Europe
 ~~~~~~
