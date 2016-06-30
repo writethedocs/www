@@ -158,6 +158,7 @@ Write the Docs EU is put on by the following lovely group of folks:
 -  `Mikey Ariel <https://twitter.com/thatdocslady>`__
 -  `Samuel Wright <https://twitter.com/plaindocs>`__
 -  `Eric Holscher <https://twitter.com/ericholscher>`__
+-  `Adrienne Lowe <https://twitter.com/adriennefriend>`__
 
 Contact Us
 ----------
