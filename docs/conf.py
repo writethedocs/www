@@ -72,8 +72,30 @@ html_sidebars = {
     ]
 }
 
-# Crazy rst stuff :)
+# Output formats
 
+htmlhelp_basename = 'WritetheDocsdoc'
+
+latex_documents = [
+    (master_doc, 'WritetheDocs.tex', u'Write the Docs Documentation',
+     u'Eric Holscher \\& the Write the Docs Community', 'manual'),
+]
+
+man_pages = [
+    (master_doc, 'writethedocs', u'Write the Docs Documentation',
+     [author], 1)
+]
+
+texinfo_documents = [
+    (master_doc, 'WritetheDocs', u'Write the Docs Documentation',
+     author, 'WritetheDocs', 'One line description of project.',
+     'Miscellaneous'),
+]
+
+suppress_warnings = ['image.nonlocal_uri']
+
+
+## Our fancy additions
 
 def slugify(slug):
     slug = slug.encode('ascii', 'ignore').lower()
@@ -81,17 +103,26 @@ def slugify(slug):
     slug = re.sub(r'[-]+', '-', slug)
     return slug
 
+
+def transform_speakers(speakers):
+    for talk in speakers:
+        for speaker in talk['speakers']:
+            if os.path.exists('_static/img/speakers/%s.jpg' % speaker['slug']):
+                speaker['img_file'] = '%s.jpg' % speaker['slug']
+            else:
+                speaker['img_file'] = 'missing.jpg'
+
 speakers = json.load(file('data/2016.speakers.json'))
 day1 = json.load(file('data/na-2016-day-1.json'))
 day2 = json.load(file('data/na-2016-day-2.json'))
 
-for talk in speakers:
-    for speaker in talk['speakers']:
-        if os.path.exists('_static/img/speakers/%s.jpg' % speaker['slug']):
-            speaker['img_file'] = '%s.jpg' % speaker['slug']
-        else:
-            speaker['img_file'] = 'missing.jpg'
+eu_speakers = json.load(file('data/2016.eu.speakers.json'))
 
+
+for list_o_speakers in [speakers, eu_speakers]:
+    transform_speakers(list_o_speakers)
+
+# Old NA hacks
 for talk in day1 + day2:
     if 'Tim Nugent' in talk['Session']:
         talk['speaker'] = 'Tim Nugent'
@@ -105,9 +136,11 @@ for talk in day1 + day2:
         talk['slug'] = slug.strip()
 
 html_context = {
+    'eu_2016_speakers': eu_speakers,
     'speakers2016': speakers,
     'na_2016_day1': day1,
-    'na_2016_day2': day2
+    'na_2016_day2': day2,
+    'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
 }
 
 
@@ -134,11 +167,11 @@ def on_page_context(app, pagename, templatename, context, doctree):
 
 def rstjinja(app, docname, source):
     """
-    Render the speaker page as a template.
+    Render our conf pages as a jinja template for more goodness.
     """
     if getattr(app.builder, 'implementation', None) or app.builder.format != 'html':
         return
-    if docname.startswith('conf/na/2016/'):
+    if docname.startswith('conf/'):
         src = source[0]
         rendered = app.builder.templates.render_string(src, app.config.html_context)
         source[0] = rendered
@@ -153,24 +186,3 @@ def setup(app):
     }, True)
     app.add_transform(AutoStructify)
 
-# Output formats
-
-htmlhelp_basename = 'WritetheDocsdoc'
-
-latex_documents = [
-    (master_doc, 'WritetheDocs.tex', u'Write the Docs Documentation',
-     u'Eric Holscher \\& the Write the Docs Community', 'manual'),
-]
-
-man_pages = [
-    (master_doc, 'writethedocs', u'Write the Docs Documentation',
-     [author], 1)
-]
-
-texinfo_documents = [
-    (master_doc, 'WritetheDocs', u'Write the Docs Documentation',
-     author, 'WritetheDocs', 'One line description of project.',
-     'Miscellaneous'),
-]
-
-suppress_warnings = ['image.nonlocal_uri']
