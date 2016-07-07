@@ -4,12 +4,12 @@
             {
                 "slug": "chris-mills",
                 "details": "",
-                "twitter": "",
+                "twitter": "@chrisdavidmills",
                 "name": "Chris Mills"
             }
         ],
         "title": "Feedback handling, community wrangling, panhandling",
-        "abstract": "<p>Feedback is a big deal. As tech writers we want to receive adultation when the docs rock, or constructive criticism when there is cleanup required. Or EVEN BETTER, we want the engineers/community members/reddit readers/clowns giving the feedback to come on board and help fix the problems.</p>\n<p>But. Actually tweaking the signal to noise ratio to something useful is really difficult. Especially when you are curating a site as enormous as MDN, the content of which is open licensed, multilingual, and open for public editing.</p>\n<p>In this talk, MDN editor Chris Mills discusses topics such as how to choose the right feedback mechanism(s) for your situation, how to stem the torrent and get the right kind of feedback and contributions (actually useful), effective begging, stealing and borrowing, and how to balance being firm and keeping control of your product with being diplomatic and being able to sleep at night.</p>"
+        "abstract": "<p>Feedback is a big deal. As tech writers we want to receive adultation when the docs rock, or constructive criticism when there is cleanup required. Or EVEN BETTER, we want the engineers/community members/reddit readers/clowns giving the feedback to come on board and help fix the problems.</p>\n<p>But. Actually tweaking the signal to noise ratio to something useful is really difficult. Especially when you are curating a site as enormous as MDN, the content of which is open licensed, multilingual, and open for public editing.</p>\n<p>In this talk, MDN writer Chris Mills discusses topics such as how to choose the right feedback mechanism(s) for your situation, how to stem the torrent and get the right kind of feedback and contributions (actually useful), effective begging, stealing and borrowing, and how to balance being firm and keeping control of your product with being diplomatic and being able to sleep at night.</p>"
     },
     {
         "speakers": [
@@ -88,7 +88,7 @@
             {
                 "slug": "istvan-zoltan-szabo",
                 "details": "",
-                "twitter": "",
+                "twitter": "@szabosteve",
                 "name": "Istv\u00e1n Zolt\u00e1n Szab\u00f3"
             }
         ],
@@ -112,7 +112,7 @@
             {
                 "slug": "daniel-beck",
                 "details": "",
-                "twitter": "",
+                "twitter": "@ddbeck",
                 "name": "Daniel Beck"
             }
         ],
@@ -148,7 +148,7 @@
             {
                 "slug": "sarah-chambers",
                 "details": "",
-                "twitter": "",
+                "twitter": "@sarahleeyoga",
                 "name": "Sarah Chambers"
             }
         ],
@@ -160,11 +160,11 @@
             {
                 "slug": "riona-macnamara",
                 "details": "",
-                "twitter": "",
+                "twitter": "@rionam",
                 "name": "Riona MacNamara"
             }
         ],
-        "title": "As Good As It Gets: Why Better Trumps Best",
+        "title": "Pretty hurts: Why better trumps best",
         "abstract": "<p>What are the characteristics of a great documentation set? Completeness? Accuracy? Style? Format? No! A great documentation set is one that meets its objectives, and sometimes the barrier to greatness is not dedication, skill, or passion, but a reluctance to let things go. Every document we publish should reach a certain quality threshold - but that threshold varies depending on its audience, the maturity of the project, and the overall project goals. What matters is not that docs are perfect, but that they are <em>good enough</em>. </p>\n<p>But how to determine if a doc is \"good enough\"? This talk will cover how to:</p>\n<ul>\n<li>Define document quality</li>\n<li>Establish an appropriate quality bar for a document or doc set</li>\n<li>Determine if a document meets that bar.</li>\n</ul>\n<p>We're all overloaded. We're all stretched for time. Every hour we spend making a doc better than it needs to be is an hour stolen from other projects where we could have more impact. Choosing \"good enough\" doesn't mean we're lowering our standards; it means we're choosing <em>appropriate</em> standards and prioritizing correctly. Don't let the perfect be the enemy of the good.</p>"
     },
     {
@@ -184,7 +184,7 @@
             {
                 "slug": "rory-tanner",
                 "details": "",
-                "twitter": "",
+                "twitter": "@roringtonj",
                 "name": "Rory Tanner"
             }
         ],
@@ -208,7 +208,7 @@
             {
                 "slug": "sarah-karp",
                 "details": "",
-                "twitter": "",
+                "twitter": "@skarpediem",
                 "name": "Sarah Karp"
             }
         ],
@@ -220,7 +220,7 @@
             {
                 "slug": "rachel-whitton",
                 "details": "",
-                "twitter": "",
+                "twitter": "@rachwhitton",
                 "name": "Rachel Whitton"
             }
         ],
