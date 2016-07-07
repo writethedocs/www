@@ -37,13 +37,21 @@ downstairs in Lola's Room.
 You can find out more information about the venue and its accessibility on our :doc:`/conf/na/2016/venue` page.
 
 
-.. image:: https://farm6.staticflickr.com/5514/14151785456_4d42119c9f_c.jpg
-   :width: 49%
-   :height: 200px
+.. raw:: html
 
-.. image:: https://farm8.staticflickr.com/7369/13991334230_27e72622c2_c.jpg
-   :width: 49%
-   :height: 200px
+    <div class="row row-images">
+      <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+        <a href="https://www.flickr.com/photos/writethedocs/14151785456/in/album-72157644692192083/">
+    <img src="/_static/img/2016/na/attendees.jpg" alt="Attendees waving to the camera">
+        </a>
+      </div>
+      <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+        <a href="https://www.flickr.com/photos/writethedocs/13991334230/in/album-72157644692192083/">
+    <img src="/_static/img/2016/na/group.jpg" alt="A group of people talking together">
+        </a>
+      </div>
+    </div>
+
 
 News
 ^^^^
@@ -129,7 +137,7 @@ non-profit, or at a company with less than 10 employees.
 * $200 Independent
 
 Student or Unemployed
-----------------------
+---------------------
 
 Purchase this ticket if you are currently enrolled as a student, or
 don't currently have a source of income.
@@ -137,7 +145,7 @@ don't currently have a source of income.
 * $75 Student or Unemployed Tickets
 
 Financial Assistance
-----------------------
+--------------------
 
 If you can't afford these prices and still wish to attend, please email
 us at conf@writethedocs.org. Being a community event that keeps prices low,
@@ -176,11 +184,20 @@ Lola's Room. Everyone is welcome and encouraged to join in on the unconference.
 
 You can see the full schedule on the :doc:`/conf/na/2016/schedule` page.
 
-.. image:: https://farm8.staticflickr.com/7405/14151984286_d33a8a8d3d_c.jpg
-   :width: 49%
+.. raw:: html
 
-.. image:: https://farm8.staticflickr.com/7344/14174678071_7d0841e8a3_c.jpg
-   :width: 49%
+    <div class="row row-images">
+      <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+        <a href="https://www.flickr.com/photos/writethedocs/14151984286/in/album-72157644692192083/">
+    <img src="/_static/img/2016/na/tshirt.jpg" alt="Attendees grabbing conference's t-shirts">
+        </a>
+      </div>
+      <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+        <a href="https://www.flickr.com/photos/writethedocs/14174678071/in/album-72157644692192083/">
+    <img src="/_static/img/2016/na/laptop.jpg" alt="A group of people talking together">
+        </a>
+      </div>
+    </div>
 
 Sponsors
 --------
