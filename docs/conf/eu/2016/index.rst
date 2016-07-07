@@ -18,6 +18,21 @@ The main presentation track takes place from **September 19-20 (Monday and
 Tuesday) from 9am to 6pm**.
 Our venue will be the `Auto Klub <http://www.ganimed.cz/>`_ right next to the train station in the Prague city center.
 
+.. raw:: html
+
+    <div class="row row-images">
+      <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+        <a href="https://www.flickr.com/photos/writethedocs/21610522161/in/album-72157658925901175/">
+            <img src="/_static/img/2016/eu/talk.jpg" alt="Conference's attendees listening to a speaker">
+        </a>
+      </div>
+      <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+        <a href="https://www.flickr.com/photos/writethedocs/21413806368/in/album-72157658925901175/">
+          <img src="/_static/img/2016/eu/outside.jpg" alt="Conference's attendees hanging out outside">
+        </a>
+      </div>
+    </div>
+
 News
 ^^^^
 
@@ -28,7 +43,7 @@ Can't wait?
 ^^^^^^^^^^^
 
 Check out the
-videos
+`videos <https://www.youtube.com/playlist?list=PLZAeFn6dfHplFNTsVdBuHk6vPZbsvHtDw>`_
 and
 `photos <https://www.flickr.com/writethedocs>`_ from last year. We also
 have a `guide <http://docs.writethedocs.org/>`_ for getting started
@@ -81,7 +96,7 @@ non-profit, or at a company with less than 10 employees.
 * €100 Independent
 
 Financial Assistance
-----------------------
+--------------------
 
 If you can't afford these prices and still wish to attend, please email
 us at europe@writethedocs.org and we can work something out so you can come.
@@ -103,6 +118,21 @@ Schedule
 
 We'll post the schedule here once we have it firmed up.
 You can see the outline of our schedule on the :doc:`/conf/eu/2016/schedule` page.
+
+.. raw:: html
+
+    <div class="row row-images">
+      <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+        <a href="https://www.flickr.com/photos/writethedocs/21413810428/in/album-72157658925901175/">
+    <img src="/_static/img/2016/eu/eric.jpg" alt="Eric Holscher using a laptop">
+        </a>
+      </div>
+      <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+        <a href="https://www.flickr.com/photos/writethedocs/21601719245/in/album-72157658925901175/">
+    <img src="/_static/img/2016/eu/bridge.jpg" alt="Charles Bridge and Vltava River">
+        </a>
+      </div>
+    </div>
 
 Sponsors
 --------
