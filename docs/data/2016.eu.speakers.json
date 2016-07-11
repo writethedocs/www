@@ -14,18 +14,6 @@
     {
         "speakers": [
             {
-                "slug": "mark-howson",
-                "details": "",
-                "twitter": "",
-                "name": "Mark Howson"
-            }
-        ],
-        "title": "The fifteen minute support video",
-        "abstract": "<p>TalkTalk is the UK's value ISP, so we're always working to drive down the cost to serve our customers. Much like a startup, we don\u2019t have tens of thousands of pounds and masses of resources to dedicate to shiny video production agencies - so we need to create great support video quickly and cheaply.</p>\n<p>With ambitious goals to deliver dozens of videos a month, but very little budget to do so, speed and cost effectiveness is essential. In this talk, I\u2019ll explain:</p>\n<pre><code>How to create a studio on a budget\nThe tools and resources to use to create a great screencast\nHow to measure return on investment from video content\n</code></pre>\n<p>Then, in fifteen minutes, I\u2019ll create a real support video for TalkTalk from start to finish, to show how quickly and easily people can create video for technical support.</p>"
-    },
-    {
-        "speakers": [
-            {
                 "slug": "david-oliver",
                 "details": "",
                 "twitter": "",
@@ -64,7 +52,7 @@
             {
                 "slug": "chris-ward",
                 "details": "",
-                "twitter": "",
+                "twitter": "@chrischinch",
                 "name": "Chris Ward"
             }
         ],
@@ -100,7 +88,7 @@
             {
                 "slug": "kata-nagygyorgy",
                 "details": "",
-                "twitter": "",
+                "twitter": "@NagygyorgyKata",
                 "name": "Kata Nagygy\u00f6rgy"
             }
         ],
@@ -124,7 +112,7 @@
             {
                 "slug": "thursday-bram",
                 "details": "",
-                "twitter": "",
+                "twitter": "@thursdayb",
                 "name": "Thursday Bram"
             }
         ],
@@ -136,7 +124,7 @@
             {
                 "slug": "jan-christian-krause",
                 "details": "",
-                "twitter": "",
+                "twitter": "@idocit",
                 "name": "Jan Christian Krause"
             }
         ],
@@ -172,7 +160,7 @@
             {
                 "slug": "paul-adams",
                 "details": "",
-                "twitter": "",
+                "twitter": "@therealpadams",
                 "name": "Paul Adams"
             }
         ],

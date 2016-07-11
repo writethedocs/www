@@ -159,6 +159,14 @@ information on sponsoring Write the Docs.
         <a href="http://redhat.com">
         <img src="/_static/img/2016/sponsors/redhat.png" width=200/></a>
       </div>
+      <div class="col-md-8 col-sm-4">
+        <a href="https://travis-ci.com/">
+        <img src="/_static/img/2016/sponsors/travisci.png" width=200/></a>
+      </div>
+      <div class="col-md-8 col-sm-4">
+        <a href="https://www.netconomy.net/">
+        <img src="/_static/img/2016/sponsors/netconomy.png" width=200/></a>
+      </div>
 
    </div>
 
