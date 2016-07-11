@@ -42,10 +42,13 @@ Tickets are going fast and we expect the conference to sell out again, so get `y
 Sponsors
 ---------
 
+Thanks to our latest sponsors:
+
+* `Travis CI <https://travis-ci.com/>`_
+* `Netconomy <https://www.netconomy.net>`_
+
 Our conference wouldn't be possible without our amazing sponsors. If you
 would like more information on sponsorship, please email us at
 <sponsorship@writethedocs.org>.
-
-Q: New sponsors to announce?
 
 Published July 12, 2016
