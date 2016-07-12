@@ -3,18 +3,12 @@
 Announcing Presentations and Speakers
 =====================================
 
-We’re tremendously excited to share the lineup for Write the Docs Europe 2016 with you. 
-It was harder than ever to decide on the final talks this year, and we thank everyone who put 
+We’re tremendously excited to share the lineup for Write the Docs Europe 2016 with you.
+It was harder than ever to decide on the final talks this year, and we thank everyone who put
 in the time and effort to submit a proposal. We couldn’t do it without you -- all of you!
 
-In the next few weeks, we'll also be announcing more details of the conference events, including the city 
-tour on Saturday, the writing day and welcome reception on Sunday, and the official party on Monday evening. 
-
-
-Presentations
--------------
-
 * Chris Mills - `Feedback handling, community wrangling, panhandling <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-chris-mills>`_
+* Erik Romijn - `Healthy Minds in a Healthy Community <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-erik-romijn>`_
 * David Oliver - `Documentoring: Growing a "Love The Docs" community <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-david-oliver>`_
 * Swapnil Ogale - `When bad screenshots happen to good writers <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-swapnil-ogale>`_
 * Idan Gazit - `Self-documenting APIs with GraphQL <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-idan-gazit>`_
@@ -29,10 +23,13 @@ Presentations
 * Riona MacNamara - `As Good As It Gets: Why Better Trumps Best <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-riona-macnamara>`_
 * Paul Adams - `Postulating The Backlog Laxative <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-paul-adams>`_
 * Rory Tanner - `Information micro-architecture: grammar, syntax, and cognitive rhetoric <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-rory-tanner>`_
-* joan wendt - `Operations Technical Writing for Data Centers <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-joan-wendt>`_
+* Joan Wendt - `Operations Technical Writing for Data Centers <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-joan-wendt>`_
 * Sarah Karp - `Watch that tone! Creating an information experience in the Atlassian voice <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-sarah-karp>`_
 * Rachel Whitton - `Delivering High-Velocity Docs that Keep Pace with Rapid Release Cycles <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-rachel-whitton>`_
 * Margaret Eker, Jennifer Rondeau - `Docs as Code: The Missing Manual <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-margaret-eker>`_
+
+In the next few weeks, we'll also be announcing more details of the conference events, including the city
+tour on Saturday, the writing day and welcome reception on Sunday, and the official party on Monday evening.
 
 Tickets
 -------
