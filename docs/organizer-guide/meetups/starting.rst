@@ -51,11 +51,11 @@ If you need more help, you can check `Meetup's documentation <http://www.meetup.
 When you're done, `contact us <mailto:conf@writethedocs.org>`_ or on `Slack <https://writethedocs.slack.com/>`_: we will add your group to the :doc:`/meetups/index` list on our website.
 
 Find a Place to Meet (Sponsors)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------
 
 Start to ask companies you're close to: it could be your company, your friends' companies, etc.
 
-If it's not working, contact other tech companies in your town. Job boards, Tech conferences websites, and other tech meetups are also a good way to start.
+If it's not working, contact other tech companies in your town. Job boards, tech conferences websites, and other tech meetups are also a good way to start. If you're going to tech conferences, go to sponsors booth and ask them if they would be interested in sponsoring your meetup.
 
 It's easier to know someone inside the company you want to contact. If you don't know anyone, you can use this email template:
 
@@ -79,23 +79,46 @@ It's easier to know someone inside the company you want to contact. If you don't
     {{ name }}
 
 Can't Find a Place to Meet?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If you can't find a company to host your meetup, try something different: `meet in a cafe <http://www.meetup.com/Write-The-Docs-Seattle/events/231890982/>`_ to work on a common project, organize a picnic or do an "after-work" in a bar. Networking is an important part of meetups and it's better to meet every month than to skip one because you didn't find a sponsor.
 
 If you're having difficulty finding a location, ask on the `Slack <http://slack.writethedocs.org>`_: you have an international community ready to help.
 
-Find attendees and speakers:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Find attendees and speakers
+---------------------------
 
 Attendees:
-^^^^^^^^^^
+~~~~~~~~~~
+
+Once your meetup page is up, start promoting it. To do that:
+
+* Announce your meetup on `Write the Docs Slack <https://writethedocs.slack.com>`_ and join meetup-organizers and meetup-general channels. You can also create a dedicated channel to your meetup.
+* Announce your meetup on `Write the Docs Forum <http://forum.writethedocs.org/c/meetups>`_.
+* Create a Twitter account and connect it to your meetup's page (`example <https://twitter.com/WriteTheDocsPDX/>`_). Use it to announce your next events, live tweet your meetup, post pictures, reach new people, retweet other Write the Docs meetups, etc.
+* Use your network: ask your colleagues, friends and contacts to promote your meetup.
+* Reach new people: find other community leaders and ask them to spread the word.
+* Attend other meetups in your area and network.
+* Add your meetup to local tech events calendars (`example <http://calagator.org/events/1250470345>`_).
+
+Be active, friendly and people will want to attend your meetup.
+
+No-show:
+^^^^^^^^
+
+A lot of people RSVPed but didn't show? Don't worry, that's one of the downsides of free meetups. Do a head-count at each events to know how many people usually attend your meetup.
+
+If something went wrong, listen to feedback and make changes. Try to have a different topic and speakers for each meetup: if you don't do that, people will get bored and won't come anymore.
 
 Speakers:
-^^^^^^^^^
+~~~~~~~~~
 
 What to Do During a Meetup:
 ---------------------------
+
+Topic outside writing
+
+Joint meetup
 
 Logistic
 --------
@@ -103,10 +126,10 @@ Logistic
 Meetup's Event Page:
 ~~~~~~~~~~~~~~~~~~~~
 
-Provide a `description <http://www.meetup.com/Write-The-Docs-PDX/events/231735823/>`_ of your event's topic, a `schedule <http://www.meetup.com/Write-the-Docs-SF/events/232289251/>`_, info on where to meet and, if relevant, a short `speakers' bio <http://www.meetup.com/Write-The-Docs-London/events/231780773/>`_.
+Provide a `description <http://www.meetup.com/Write-The-Docs-PDX/events/231735823/>`_ of your event's topic, a `schedule <http://www.meetup.com/Write-the-Docs-SF/events/232289251/>`_, precise info on where to meet and, if relevant, short `speakers' bio <http://www.meetup.com/Write-The-Docs-London/events/231780773/>`_.
 
-Checklist:
-~~~~~~~~~~
+Venue:
+~~~~~~
 
 Depending on your meetup, here's a list of what you may need:
 
@@ -115,15 +138,18 @@ Depending on your meetup, here's a list of what you may need:
 * A projector: have adapters available for speakers or ask them to bring one.
 * Food and/or beverages: include non-alcoholic and vegetarian options.
 
-Venue:
-~~~~~~
-
-To help people find your meetup venue:
-
-* Include directions in the event description.
-* Ask your host to add direction signs with your meetup name in appropriate locations.
-
 Try to have a venue accessible to people with disabilities: point out in your event description if it's the case or not.
+
+Day of your Meetup Checklist:
+-----------------------------
+
+* If you have a Twitter account, tweet about your meetup again and get people excited.
+* Arrive early to your meetup venue.
+* Ask your host to add direction signs with your meetup name in appropriate locations.
+* Greet everyone and make them feel welcome.
+* Help your speakers get set up. Put them at ease.
+* If you need help, ask around.
+* Check your event page comments regularly: people having problems can try to contact you there.
 
 When your Meetup is Over
 ------------------------
@@ -132,6 +158,7 @@ When your Meetup is Over
 * Send a thank you email to the company who hosted you.
 * If you took pictures, post them on your meetup page. If you plan to do that, always ask people if they're okay with being on a picture that will be published online.
 * If you have a Twitter account: do a tweet to thank everyone who came, your speakers and your sponsor. If your speakers posted their slides online, retweet them.
+* Do a small report to share on meetup-organizers Slack channel.
 
 
 .. TODO:
