@@ -53,7 +53,7 @@ When you're done, `contact us <mailto:conf@writethedocs.org>`_ or on `Slack <htt
 Find a Place to Meet (Sponsors)
 -------------------------------
 
-Start to ask companies you're close to: it could be your company, your friends' companies, etc.
+Start by asking companies you're close to: it could be your company, your friends' companies, etc.
 
 If it's not working, contact other tech companies in your town. Job boards, tech conferences websites, and other tech meetups are also a good way to start. If you're going to tech conferences, go to sponsor booths and ask them if they would be interested in sponsoring your meetup.
 
@@ -96,7 +96,7 @@ Once your meetup page is up, start promoting it. To do that:
 * Announce your meetup on `Write the Docs Slack <https://writethedocs.slack.com>`_ and join meetup-organizers and meetup-general channels. You can also create a dedicated channel to your meetup.
 * Announce your meetup on `Write the Docs Forum <http://forum.writethedocs.org/c/meetups>`_.
 * Create a Twitter account and connect it to your meetup's page (`example <https://twitter.com/WriteTheDocsPDX/>`_). Use it to announce your next events, live tweet your meetup, post pictures, reach new people, retweet other Write the Docs meetups, etc.
-* Use your network: ask your colleagues, friends and contacts to promote your meetup.
+* Use your network: ask your colleagues, friends, and contacts to promote your meetup.
 * Reach new people: find other community leaders and ask them to spread the word.
 * Attend other meetups in your area and network.
 * Add your meetup to local tech events calendars.
@@ -104,7 +104,7 @@ Once your meetup page is up, start promoting it. To do that:
 No-show:
 ^^^^^^^^
 
-A lot of people RSVPed but didn't show? Don't worry, that's one of the downsides of free meetups. Do a head-count at each events to know how many people usually attend your meetup.
+A lot of people RSVPed but didn't show? Don't worry, that's one of the downsides of free meetups. Do a head-count at each event to know how many people usually attend your meetup.
 
 If something went wrong, listen to feedback and make changes. Try to have a different topic and speakers for each meetup: if you don't do that, people will get bored and won't come anymore.
 
@@ -119,14 +119,32 @@ To find speakers:
 * Invite your meetup's members to do a talk: you can do a CFP by email or ask people during your event.
 * Ask on Twitter.
 
-What to Do During a Meetup:
+What to Do During a Meetup?
 ---------------------------
 
-Topic outside writing
+To help you get a better idea of what you could do, links in this section lead to different Write the Docs meetups that already took place.
+
+Presentations
+~~~~~~~~~~~~~
+
+Depending on your meetup duration, you can plan `one or more talks <http://www.meetup.com/Write-The-Docs-PDX/events/222151324/>`_ . Invite speakers from different backgrounds and don't limit talks to writing. Change your presentations formats from time to time: do panels, `round-tables <http://www.meetup.com/Write-The-Docs-London/events/231780773/>`_, etc.
+
+If you don't know where to start, check other `Write the Docs meetups <http://www.writethedocs.org/meetups/>`_ or `Mike Jang's topics list <https://github.com/mjang/startingAMeetupGroup_WTD#previous-topics-ideas-for-future-topics>`_.
+
+Lightning talks
+^^^^^^^^^^^^^^^
+
+`Lightning talks <http://www.meetup.com/Write-the-Docs-SF/events/228358497/>`_ are a series of short talks (5 minutes): it's a great way to cover multiple topics during one meetup. If you're not familiar with this format, watch `those lightning talks <https://www.youtube.com/watch?v=W7H3njxsodM&index=15&list=PLkQw3GZ0bq1JvhaLqfBqRFuaY108QmJDK>`_ from Write the Docs NA 2015.
 
 Joint meetup
+~~~~~~~~~~~~
 
-Lightning => put link to one of previous WTD.
+Contact other meetups of your area and invite them to do a `joint meetup <http://www.meetup.com/Write-The-Docs-Seattle/events/230724486/>`_. It's a great way to network outside your group and to get more people interested in documentation.
+
+Workshop
+~~~~~~~~
+
+`Meet and work <http://www.meetup.com/Write-The-Docs-PDX/events/226047581/>`_ on a common project, `solve problems together <http://www.meetup.com/Write-the-Docs-SF/events/231272920/>`_, etc. You can also do a `"talk proposals" meetup <http://www.meetup.com/Write-The-Docs-PDX/events/228639697/>`_ where people can work on their draft or do the first version of their talk.
 
 Logistic
 --------
@@ -169,15 +187,3 @@ When your Meetup is Over
 * If you took pictures, post them on your meetup page. If you plan to do that, always ask people if they're okay with being on a picture that will be published online.
 * If you have a Twitter account: do a tweet to thank everyone who came, your speakers and your sponsor. If your speakers posted their slides online, retweet them.
 * Do a small report to share on meetup-organizers Slack channel.
-
-
-.. TODO:
-
-    What to do during a meetup?
-    ---------------------------
-
-    Talks. Multiple formats: 20 minutes, 40 minutes, lightning talks, etc.
-    Talk proposal preparation.
-    Networking.
-    Learning new skills/tools.
-    If you want to find a list of topics: check other `WTD meetups <http://meetup.com/pro/writethedocs>`_.
