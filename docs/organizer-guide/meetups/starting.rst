@@ -55,7 +55,7 @@ Find a Place to Meet (Sponsors)
 
 Start to ask companies you're close to: it could be your company, your friends' companies, etc.
 
-If it's not working, contact other tech companies in your town. Job boards, tech conferences websites, and other tech meetups are also a good way to start. If you're going to tech conferences, go to sponsors booth and ask them if they would be interested in sponsoring your meetup.
+If it's not working, contact other tech companies in your town. Job boards, tech conferences websites, and other tech meetups are also a good way to start. If you're going to tech conferences, go to sponsor booths and ask them if they would be interested in sponsoring your meetup.
 
 It's easier to know someone inside the company you want to contact. If you don't know anyone, you can use this email template:
 
@@ -99,9 +99,7 @@ Once your meetup page is up, start promoting it. To do that:
 * Use your network: ask your colleagues, friends and contacts to promote your meetup.
 * Reach new people: find other community leaders and ask them to spread the word.
 * Attend other meetups in your area and network.
-* Add your meetup to local tech events calendars (`example <http://calagator.org/events/1250470345>`_).
-
-Be active, friendly and people will want to attend your meetup.
+* Add your meetup to local tech events calendars.
 
 No-show:
 ^^^^^^^^
@@ -113,12 +111,22 @@ If something went wrong, listen to feedback and make changes. Try to have a diff
 Speakers:
 ~~~~~~~~~
 
+To find speakers:
+
+* Look at previous `Write the Docs conferences <http://www.writethedocs.org/conf/>`_ and other `Write the Docs meetups <http://www.writethedocs.org/meetups/>`_.
+* Look at other tech meetups and conferences in your area. Don't limit yourself to writers.
+* Ask around on `Write the Docs Slack <https://writethedocs.slack.com>`_. Don't forget to check local channels.
+* Invite your meetup's members to do a talk: you can do a CFP by email or ask people during your event.
+* Ask on Twitter.
+
 What to Do During a Meetup:
 ---------------------------
 
 Topic outside writing
 
 Joint meetup
+
+Lightning => put link to one of previous WTD.
 
 Logistic
 --------
@@ -130,6 +138,8 @@ Provide a `description <http://www.meetup.com/Write-The-Docs-PDX/events/23173582
 
 Venue:
 ~~~~~~
+
+Try to find a place that's relatively central or well connected to public transportation.
 
 Depending on your meetup, here's a list of what you may need:
 
@@ -163,17 +173,6 @@ When your Meetup is Over
 
 .. TODO:
 
-    How to reach new members?
-    -------------------------
-
-    Create social media accounts. Advertise your next meetup on WTD slack, forum or mailing list.
-    Go to other meetups to present yours.
-
-    Go to company booth during events to tell them about your meetup.
-
-    Don't forget to ask if people want to help you: organizing alone can be really hard and time-consuming.
-
-
     What to do during a meetup?
     ---------------------------
 
@@ -182,9 +181,3 @@ When your Meetup is Over
     Networking.
     Learning new skills/tools.
     If you want to find a list of topics: check other `WTD meetups <http://meetup.com/pro/writethedocs>`_.
-
-    How to find speakers?
-    ~~~~~~~~~~~~~~~~~~~~~
-
-    Look at previous conferences, meetup around you.
-    CFP: invite your members to talk!
