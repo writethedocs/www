@@ -1,6 +1,18 @@
 [
     {
         "speakers": [
+          {
+              "slug": "erik-romijn",
+              "details": "",
+              "twitter": "@erikpub",
+              "name": "Erik Romijn"
+          }
+        ],
+        "title": "Healthy Minds in a Healthy Community",
+        "abstract": "Open source communities attract and boast passionate, idealistic people, and many of us invest copious amounts of time and effort to contribute to our projects and support our communities. This underlying emotional attachment can make us more vulnerable to elevated stress, burnout and conflicts. And then there are those of us who also manage mental illness.\nMore often than not, we suffer these struggles in silence, feeling (and fearing) that we’re alone in our trouble. Here, our communities can make a huge difference, by building a positive and safe environment where we can blossom and support ourselves and our peers, and feel included.\nThis talk will take a look at open-source communities through the eyes of various mental well-being issues and struggles, show various things that some communities already do. We will also cover several new initiatives from the community around Django, a common open-source web framework for Python, to further promote the well-being of our community members. This will hopefully inspire more communities to help foster healthy minds in a healthy environment."
+    },
+    {
+        "speakers": [
             {
                 "slug": "chris-mills",
                 "details": "",
@@ -185,7 +197,7 @@
                 "slug": "joan-wendt",
                 "details": "",
                 "twitter": "",
-                "name": "joan wendt"
+                "name": "Joan Wendt"
             }
         ],
         "title": "Operations Technical Writing for Data Centers",
@@ -227,7 +239,7 @@
                 "slug": "jennifer-rondeau",
                 "details": "",
                 "twitter": "",
-                "name": " Jennifer Rondeau"
+                "name": "Jennifer Rondeau"
             }
         ],
         "title": "Docs as Code: The Missing Manual",
