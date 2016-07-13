@@ -109,6 +109,8 @@ def transform_speakers(speakers):
         for speaker in talk['speakers']:
             if os.path.exists('_static/img/speakers/%s.jpg' % speaker['slug']):
                 speaker['img_file'] = '%s.jpg' % speaker['slug']
+            elif os.path.exists('_static/img/speakers/%s.png' % speaker['slug']):
+                speaker['img_file'] = '%s.png' % speaker['slug']
             else:
                 speaker['img_file'] = 'missing.jpg'
 
