@@ -46,6 +46,6 @@ Thanks to our latest sponsors:
 
 Our conference wouldn't be possible without our amazing sponsors. If you
 would like more information on sponsorship, please email us at
-<sponsorship@writethedocs.org>.
+sponsorship@writethedocs.org.
 
 Published July 12, 2016
