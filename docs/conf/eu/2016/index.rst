@@ -36,8 +36,9 @@ Our venue will be the `Auto Klub <http://www.ganimed.cz/>`_ right next to the tr
 News
 ^^^^
 
-- :doc:`/conf/eu/2016/news/cfp-tickets`
+- :doc:`/conf/eu/2016/news/announce-presentations`
 - :doc:`/conf/eu/2016/news/cfp-new-deadline`
+- :doc:`/conf/eu/2016/news/cfp-tickets`
 
 Can't wait?
 ^^^^^^^^^^^
