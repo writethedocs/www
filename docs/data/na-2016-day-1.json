@@ -44,6 +44,10 @@
         "Session": "Lunch"
     }, 
     {
+        "Time": "1:00 PM", 
+        "Session": "Sponsored Talk"
+    }, 
+    {
         "Time": "1:10 PM", 
         "Session": "Lightning Talks"
     }, 
@@ -94,5 +98,13 @@
     {
         "Time": "5:40 PM", 
         "Session": "Day 1 wraps up"
+    },
+    {
+        "Time": "7:00 PM", 
+        "Session": "Party Begins"
+    },
+    {
+        "Time": "10:00 PM", 
+        "Session": "Party Ends"
     }
 ]

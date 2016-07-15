@@ -67,20 +67,10 @@ social events.
 * eric@writethedocs.org
 * +1 (757) 705-0532
 
-**Anthony Johnson**
+**Becky Yoose**
 
-* anthony@writethedocs.org
-* +1 (413) 376-8649
-
-**Troy Howard**
-
-* troy@writethedocs.org
-* +1 (503) 544-1104
-
-**Mikey Ariel (EU)**
-
-* europe@writethedocs.org
-* +420 603 261 361
+* b.yoose@gmail.com
+* +1 (513) 273-1182
 
 ### License
 

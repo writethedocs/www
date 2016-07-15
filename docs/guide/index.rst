@@ -5,7 +5,7 @@ Documentation Guide
 Welcome!
 We are excited that you are going down the path of creating more wonderful documentation in the world.
 This guide exists to provide both novice and expert writers a best practice handbook for building,
-structuring, 
+structuring,
 and writing software documentation.
 
 **This is a living, breathing guide.**  If you'd like to contribute,
@@ -87,15 +87,13 @@ Tools of the Trade
 API Documentation
 -----------------
 
-A section dedicated to all things API.
-Whether it's a Python or a REST API,
-you need to be documenting your code.
+.. toctree::
+   :maxdepth: 2
 
-* REST API Tools
-    - Swagger
-* API Documentation
-    - Sphinx
-    - Automated reference docs
+   api/about-api-documentation
+   api/languages
+   api/generating-documents
+   api/testing
 
 Distribution
 ------------

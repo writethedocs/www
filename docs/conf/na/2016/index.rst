@@ -1,5 +1,18 @@
 :template: 2016/na.html
 
+
+Thanks!
+=======
+
+Thanks to everyone who made this year another wonderful event.
+We're so grateful to our sponsors, speakers, volunteers, and attendees for making the conference possible. 
+
+We have posted the `videos <https://www.youtube.com/playlist?list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv>`_ and `photos <https://www.flickr.com/photos/writethedocs/albums/72157669467964085>`_ from the conference for those who couldn't attend. 
+Hopefully they allow you to bask in the beauty of the event from the comfort of your own chair.
+
+We hope you'll join us in `Prague <http://www.writethedocs.org/conf/eu/2016/>`_ in September,
+or again in Portland next year!
+
 About the conference
 ====================
 
@@ -24,13 +37,21 @@ downstairs in Lola's Room.
 You can find out more information about the venue and its accessibility on our :doc:`/conf/na/2016/venue` page.
 
 
-.. image:: https://farm6.staticflickr.com/5514/14151785456_4d42119c9f_c.jpg
-   :width: 49%
-   :height: 200px
+.. raw:: html
 
-.. image:: https://farm8.staticflickr.com/7369/13991334230_27e72622c2_c.jpg
-   :width: 49%
-   :height: 200px
+    <div class="row row-images">
+      <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+        <a href="https://www.flickr.com/photos/writethedocs/14151785456/in/album-72157644692192083/">
+    <img src="/_static/img/2016/na/attendees.jpg" alt="Attendees waving to the camera">
+        </a>
+      </div>
+      <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+        <a href="https://www.flickr.com/photos/writethedocs/13991334230/in/album-72157644692192083/">
+    <img src="/_static/img/2016/na/group.jpg" alt="A group of people talking together">
+        </a>
+      </div>
+    </div>
+
 
 News
 ^^^^
@@ -40,14 +61,8 @@ News
 - :doc:`/conf/na/2016/news/cfp-reminder`
 - :doc:`/conf/na/2016/news/announcing-presentations`
 - :doc:`/conf/na/2016/news/schedule-welcome-wagon-events`
-
-Can't wait?
-^^^^^^^^^^^
-
-Check out the
-`videos <https://www.youtube.com/playlist?list=PLmV2D6sIiX3UW1kPWlhzyo4lr6e3US6re>`_ from last year to get an idea of what we're up to.
-We also have a `guide <http://docs.writethedocs.org/>`_ for getting started
-writing documentation.
+- :doc:`/conf/na/2016/news/welcome`
+- :doc:`/conf/na/2016/news/thanks-for-coming`
 
 Presentations
 -------------
@@ -92,19 +107,8 @@ Presentations
 Tickets
 -------
 
-Tickets are on sale now! We do expect the event to sell out, so don't
-wait to purchase.
-
-.. raw:: html
-
-   <br>
-   <form method="GET" action="https://ti.to/writethedocs/write-the-docs-na-2016">
-   <button name="_" id="button-tito-writethedocs-write-the-docs-na-2016-1">
-   Buy Tickets
-   </button>
-   </form>
-   <br>
-
+Tickets are sold out.
+Thanks to everyone who bought them!
 
 Ticket includes:
 
@@ -133,7 +137,7 @@ non-profit, or at a company with less than 10 employees.
 * $200 Independent
 
 Student or Unemployed
-----------------------
+---------------------
 
 Purchase this ticket if you are currently enrolled as a student, or
 don't currently have a source of income.
@@ -141,7 +145,7 @@ don't currently have a source of income.
 * $75 Student or Unemployed Tickets
 
 Financial Assistance
-----------------------
+--------------------
 
 If you can't afford these prices and still wish to attend, please email
 us at conf@writethedocs.org. Being a community event that keeps prices low,
@@ -180,11 +184,20 @@ Lola's Room. Everyone is welcome and encouraged to join in on the unconference.
 
 You can see the full schedule on the :doc:`/conf/na/2016/schedule` page.
 
-.. image:: https://farm8.staticflickr.com/7405/14151984286_d33a8a8d3d_c.jpg
-   :width: 49%
+.. raw:: html
 
-.. image:: https://farm8.staticflickr.com/7344/14174678071_7d0841e8a3_c.jpg
-   :width: 49%
+    <div class="row row-images">
+      <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+        <a href="https://www.flickr.com/photos/writethedocs/14151984286/in/album-72157644692192083/">
+    <img src="/_static/img/2016/na/tshirt.jpg" alt="Attendees grabbing conference's t-shirts">
+        </a>
+      </div>
+      <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+        <a href="https://www.flickr.com/photos/writethedocs/14174678071/in/album-72157644692192083/">
+    <img src="/_static/img/2016/na/laptop.jpg" alt="A group of people talking together">
+        </a>
+      </div>
+    </div>
 
 Sponsors
 --------
