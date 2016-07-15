@@ -48,6 +48,10 @@ operate direct lines to many European cities.
 Where to stay
 -------------
 
+Our venue Auto Klub is located across the road from the main train station,
+at the edge of the old town district (Prague 1). We recommend booking accommodation
+in Prague 1 or Prague 2 area, on the west side of the railway station.
+
 We are not working with any of the hotels for attendee accommodations,
 but there are countless hotels and Airbnb apartments available within
 walking distance of the venue. Just head over to your favorite booking
@@ -92,8 +96,13 @@ transfers. <http://www.dpp.cz/en/public-transit-to-prague-airport/>`__
 Taxi companies
 ~~~~~~~~~~~~~~
 
-Prague does have Uber but it's still pretty young and rides are not
-easily located. However, there are several reliable local taxi
+Prague is serviced by Uber, and it's the most reliable and cheapest way to secure
+direct transportation. You can use your Uber app as you would in any other city
+where Uber is available, and you can choose UberPop (private cars) or Uber Black
+(fancy private cars).
+
+Note: Uber in Czech Republic does not provide tax invoice, only e-receipts. If you
+need a tax invoice or prefer to pay in cash, there are several reliable local taxi
 companies:
 
 -  `AAA Taxi <http://www.aaataxi.cz/en/>`__
