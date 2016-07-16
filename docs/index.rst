@@ -50,13 +50,20 @@ The :doc:`/meetups/index` page has more information.
 Forum
 ~~~~~
 
-Check out our new `Forum <http://forum.writethedocs.org/>`__ to keep in
+Check out our `Forum <http://forum.writethedocs.org/>`__ to keep in
 touch with your fellow documentarians.
+
+The forum is the place to start discussions that we should keep around for a while. If a Slack conversation 
+starts to get a lot of attention and seems like something of permanent interest, we suggest that you move it 
+over to the forum.
 
 Slack
 ~~~~~
 
 You can join us on `Slack <http://slack.writethedocs.org>`_ to have real-time discussion and keep in touch with folks.
+
+Slack conversations aren't archived, so we recommend either putting substantial items of interest on the forum, 
+or moving them there if they develop into something bigger.
 
 Contact Us
 ----------
