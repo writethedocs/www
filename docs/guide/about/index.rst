@@ -1,7 +1,7 @@
-About |wtd|
-===========
+About Write the Docs
+====================
 
-Here are information about the |wtd| project itself.
+Here is information about the Write the Docs project itself.
 
 .. toctree::
 
