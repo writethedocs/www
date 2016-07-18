@@ -15,10 +15,30 @@ learn from each other, and there's no better way than sitting together
 and talking.
 
 The main presentation track takes place from **September 19-20 (Monday and
-Tuesday) from 9am to 6pm**.
-Our venue will be the `Auto Klub <http://www.ganimed.cz/>`_ right next to the train station in the Prague city center.
+Tuesday) from 9am to 6pm**. Each afternoon we will also host an unconference
+room in parallel to the main presentations, where you can break away to open-space
+sessions, workshops, hackfests, or smaller discussions.
+
+Our venue will be the `Auto Klub <http://www.ganimed.cz/>`_ right next to the train
+station in the Prague city center. Inspired by the Crystal Ballroom, the main presentations
+will be held in (you guessed it) a ballroom, and the unconference sessions will be held in
+adjoining rooms.
+
+The venue has a long history and beautiful architecture, as well as a few surprises!
+Auto Klub is accessible with an internal lift and ramps from the street level. 
 
 .. raw:: html
+
+    <div class="row row-images">
+      <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+            <img src="/_static/img/2016/eu/autoklub-mainhall.jpg" alt="Main hall at Auto Klub">
+        </a>
+      </div>
+      <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
+          <img src="/_static/img/2016/eu/autoklub-foyer.jpg" alt="Foyer at Auto Klub">
+        </a>
+      </div>
+    </div>
 
     <div class="row row-images">
       <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
