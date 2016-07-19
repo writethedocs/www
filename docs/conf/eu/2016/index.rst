@@ -25,30 +25,28 @@ will be held in (you guessed it) a ballroom, and the unconference sessions will 
 adjoining rooms.
 
 The venue has a long history and beautiful architecture, as well as a few surprises!
-Auto Klub is accessible with an internal lift and ramps from the street level. 
+Auto Klub is accessible with an internal lift and ramps from the street level.
 
 .. raw:: html
 
     <div class="row row-images">
       <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
-            <img src="/_static/img/2016/eu/autoklub-mainhall.jpg" alt="Main hall at Auto Klub">
-        </a>
+            <img src="/_static/img/2016/eu/autoklub-mainhall.jpg" alt="Main hall at Auto Klub" />
       </div>
       <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
-          <img src="/_static/img/2016/eu/autoklub-foyer.jpg" alt="Foyer at Auto Klub">
-        </a>
+          <img src="/_static/img/2016/eu/autoklub-foyer.jpg" alt="Foyer at Auto Klub" />
       </div>
     </div>
 
     <div class="row row-images">
       <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
         <a href="https://www.flickr.com/photos/writethedocs/21610522161/in/album-72157658925901175/">
-            <img src="/_static/img/2016/eu/talk.jpg" alt="Conference's attendees listening to a speaker">
+            <img src="/_static/img/2016/eu/talk.jpg" alt="Conference's attendees listening to a speaker" />
         </a>
       </div>
       <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
         <a href="https://www.flickr.com/photos/writethedocs/21413806368/in/album-72157658925901175/">
-          <img src="/_static/img/2016/eu/outside.jpg" alt="Conference's attendees hanging out outside">
+          <img src="/_static/img/2016/eu/outside.jpg" alt="Conference's attendees hanging out outside" />
         </a>
       </div>
     </div>
