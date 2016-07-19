@@ -11,5 +11,3 @@ Run `make html` in the `docs` directory to generate a local version of the site 
 `docs/_build/html/`.
 
 The Write the Docs website is hosted on [Read the Docs](https://readthedocs.org/projects/writethedocs-www).
-
-We develop documentation on a `dev` branch, which is rendered at http://writethedocs-www.readthedocs.org/en/dev/.
