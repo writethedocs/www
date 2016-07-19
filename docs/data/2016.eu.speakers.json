@@ -225,7 +225,7 @@
             }
         ],
         "title": "Delivering High-Velocity Docs that Keep Pace with Rapid Release Cycles",
-        "abstract": "<p>To prevent stale content and achieve a high standard of alignment with products, documentation must be a required component of the release cycle. At Pantheon, this means delivering each component with similar precision and trust. Documentation workflows must evolve to stay instep with agile and automated product pipelines. </p>\n<p>In addition to sharing lessons learned, this talk will explore Pantheon\u2019s strategy for delivering high-velocity docs:<br />\n- Increase project visibility \n- Simplify peer reviews \n- Make bots do the scutwork\n- Write more docs</p>"
+        "abstract": "<p>To prevent stale content and achieve a high standard of alignment with products, documentation must be a required component of the release cycle. At Pantheon, this means delivering each component with similar precision and trust. Documentation workflows must evolve to stay instep with agile and automated product pipelines. </p>\n<p>In addition to sharing lessons learned, this talk will explore Pantheon\u2019s strategy for delivering high-velocity docs: </p>\n<ul>\n<li>Increase project visibility </li>\n<li>Simplify peer reviews </li>\n<li>Make bots do the scutwork </li>\n<li>Write more docs </li>\n</ul>"
     },
     {
         "speakers": [
