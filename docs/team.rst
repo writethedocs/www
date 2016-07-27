@@ -37,7 +37,6 @@ Members
 ```````
 
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_
-* `Mike Jang <https://twitter.com/TheMikeJang>`_, Senior Staff Technical Writer, ForgeRock 
 * `Neal Kaplan <https://twitter.com/NealKaplan>`_
 * `Samuel Wright <https://twitter.com/plaindocs>`_
 * `Eric Holscher <https://twitter.com/ericholscher>`_
