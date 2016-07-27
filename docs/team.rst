@@ -32,7 +32,6 @@ Members
 * `Mikey Ariel <https://twitter.com/thatdocslady>`_
 * `Neal Kaplan <https://twitter.com/NealKaplan>`_
 * `Samuel Wright <https://twitter.com/plaindocs>`_
-* `Lucie Daeye <https://twitter.com/Patjouk>`_
 
 Meetup Coordinator Team
 -----------------------
@@ -46,7 +45,6 @@ Members
 ```````
 
 * `Mike Jang <https://twitter.com/TheMikeJang>`_
-* `Lucie Daeye <https://twitter.com/Patjouk>`_
 * You?
 
 Guide Coordinator
