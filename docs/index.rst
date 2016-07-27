@@ -75,6 +75,7 @@ Useful Pages
    meetups/index
    guide/index
    videos
+   team
    origin-story
 
 .. toctree::
