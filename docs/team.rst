@@ -19,19 +19,17 @@ Moderation Team
 
 * Moderate the Forum and Slack
 * Serve as points of contact for any issues or questions
-* Remove content that goes against the :doc:`/code-of-conduct`
+* Enforce the :doc:`/code-of-conduct`
 
 Members
 ```````
 
-* `Becky Yoose <https://twitter.com/yo_bj>`_
-* `Eric Holscher <https://twitter.com/ericholscher>`_
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_
-* `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
 * `Mike Jang <https://twitter.com/TheMikeJang>`_
-* `Mikey Ariel <https://twitter.com/thatdocslady>`_
+* `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
 * `Neal Kaplan <https://twitter.com/NealKaplan>`_
 * `Samuel Wright <https://twitter.com/plaindocs>`_
+* `Eric Holscher <https://twitter.com/ericholscher>`_
 
 Meetup Coordinator Team
 -----------------------
