@@ -43,7 +43,7 @@ Members
 
 
 Meetup Coordination Team
------------------------
+------------------------
 
 These are the folks you can talk to about anything :doc:`/meetups/index` related.
 Want to attend your first one?
@@ -65,26 +65,6 @@ Members
 * `Mike Jang <https://twitter.com/TheMikeJang>`_, Senior Staff Technical Writer, ForgeRock 
 * You?
 
-
-Website Team
-------------
-
-These are the folks who maintain http://www.writethedocs.org and keep it up to date.
-The site is built with Sphinx and hosted on Read the Docs,
-so familiarity with these tools is a plus.
-It's also a great way to learn them,
-if you want!
-
-* Update website including Conference sites, Video archives, and other non-meetup and guide aspects.
-* Keep up with Pull Requests on https://github.com/writethedocs/www
-
-Members
-```````
-
-* `Eric Holscher <https://twitter.com/ericholscher>`_
-* `Samuel Wright <https://twitter.com/plaindocs>`_
-* `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
-* You?
 
 
 Guide Coordination Team
@@ -141,8 +121,29 @@ Members
 * Volunteers Needed!
 
 
-Council of Elders
------------------
+Website Team
+------------
+
+These are the folks who maintain http://www.writethedocs.org and keep it up to date.
+The site is built with Sphinx and hosted on Read the Docs,
+so familiarity with these tools is a plus.
+It's also a great way to learn them,
+if you want!
+
+* Update website including Conference sites, Video archives, and other non-meetup and guide aspects.
+* Keep up with Pull Requests on https://github.com/writethedocs/www
+
+Members
+```````
+
+* `Eric Holscher <https://twitter.com/ericholscher>`_
+* `Samuel Wright <https://twitter.com/plaindocs>`_
+* `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
+* You?
+
+
+(Proposed) Council of Elders
+----------------------------
 
 Think about the council like you would the board of a non-profit.
 They are the folks who are the current leadership of the organization,
@@ -152,7 +153,14 @@ and are generally responsible for the community.
 Generally these folks have done one or more of the following:
 
 * :doc:`Founded </origin-story>` the organization
-* Chaired a major Write the Docs conference
+* Chaired a major Write the Docs :doc:`conference </conf/index>`
+
+Roles
+`````
+
+* Enforce the :doc:`/code-of-conduct`
+* Create and dissolve teams
+* Set the general direction for the community and long term goals and business models
 
 Members
 ```````
