@@ -110,7 +110,7 @@ Members
 Communication Team
 ------------------
 
-These folks are in charge of communicating with the greater Write the Docs audience.
+These folks are in charge of communicating with the greater Write the Docs community.
 This is mainly done through our newsletter,
 as well as content updates that we put out on our site.
 
