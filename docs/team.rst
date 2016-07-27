@@ -12,7 +12,7 @@ If you're interested in helping out,
 get in touch with someone on the team you're curious about.
 Messaging folks on the Write the Docs `Slack <http://slack.writethedocs.com/>`_ is probably the best way to get in touch with folks.
 
-.. contents::
+.. contents:: Teams
    :local:
    :backlinks: none
    :depth: 1
@@ -109,7 +109,8 @@ Social Media Team
 -----------------
 
 * Manage the `@writethedocs <https://twitter.com/writethedocs>`_ twitter account
-* Reply to folks who have questions
+* Write mailing list messages
+* Reply to folks who have questions on Twitter
 * Track, post, and retweet relevant content
 
 Members
