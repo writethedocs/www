@@ -8,11 +8,9 @@ or just take a leadership role in the community.
 This page documents the status of different members of the community,
 and also explains some of the roles that people are filling.
 
-These roles help folks join and contribute to the Write the Docs community. 
-Some of them are already filled,
-but if you're interested in helping out with any of them,
-just drop us a line at conf@writethedocs.org,
-or send one of us a DM on Slack.
+If you're interested in helping out,
+get in touch with someone on the team you're curious about.
+Messaging folks on the Write the Docs `Slack <http://slack.writethedocs.com/>`_ is probably the best way to get in touch with folks.
 
 .. contents::
    :local:
@@ -48,7 +46,7 @@ Members
 Meetup Coordination Team
 -----------------------
 
-These are the folks you can talk to about anything meetup related.
+These are the folks you can talk to about anything :doc:`/meetups/index` related.
 Want to attend your first one?
 Start your own?
 Have any other questions or concerns?
@@ -71,7 +69,7 @@ Members
 Website Team
 ------------
 
-These are the folks who maintain www.writethedocs.org and keep it up to date.
+These are the folks who maintain http://www.writethedocs.org and keep it up to date.
 The site is built with Sphinx and hosted on Read the Docs,
 so familiarity with these tools is a plus.
 It's also a great way to learn them,
@@ -91,7 +89,7 @@ Members
 Guide Coordination Team
 -----------------------
 
-These are the folks who maintain www.writethedocs.org/guide/ and make sure it stays high quality.
+These are the folks who maintain http://www.writethedocs.org/guide/ and make sure it stays high quality.
 The site is built with Sphinx and hosted on Read the Docs,
 but
 
