@@ -39,7 +39,7 @@ Members
 ```````
 
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_
-* `Mike Jang <https://twitter.com/TheMikeJang>`_
+* `Mike Jang <https://twitter.com/TheMikeJang>`_, Senior Staff Technical Writer, ForgeRock 
 * `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
 * `Neal Kaplan <https://twitter.com/NealKaplan>`_
 * `Samuel Wright <https://twitter.com/plaindocs>`_
@@ -65,7 +65,7 @@ Roles
 Members
 ```````
 
-* `Mike Jang <https://twitter.com/TheMikeJang>`_
+* `Mike Jang <https://twitter.com/TheMikeJang>`_, Senior Staff Technical Writer, ForgeRock 
 * You?
 
 Website Team
