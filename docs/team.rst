@@ -42,6 +42,7 @@ Members
 * `Samuel Wright <https://twitter.com/plaindocs>`_
 * `Eric Holscher <https://twitter.com/ericholscher>`_
 
+
 Meetup Coordination Team
 -----------------------
 
@@ -65,6 +66,7 @@ Members
 * `Mike Jang <https://twitter.com/TheMikeJang>`_, Senior Staff Technical Writer, ForgeRock 
 * You?
 
+
 Website Team
 ------------
 
@@ -85,6 +87,7 @@ Members
 * `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
 * You?
 
+
 Guide Coordination Team
 -----------------------
 
@@ -104,6 +107,7 @@ Members
 * `Eric Holscher <https://twitter.com/ericholscher>`_
 * You?
 
+
 Communication Team
 ------------------
 
@@ -114,6 +118,7 @@ as well as content updates that we put out on our site.
 Roles
 `````
 
+* Maintain the website section about our newsletter
 * Curate the Slack & Forum chatter into a monthly email newsletter update
 * Write and send mail to our mailing list for community updates and events
 
@@ -135,6 +140,7 @@ Members
 ```````
 
 * Volunteers Needed!
+
 
 Council of Elders
 -----------------
