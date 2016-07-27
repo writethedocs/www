@@ -38,7 +38,6 @@ Members
 
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_
 * `Mike Jang <https://twitter.com/TheMikeJang>`_, Senior Staff Technical Writer, ForgeRock 
-* `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
 * `Neal Kaplan <https://twitter.com/NealKaplan>`_
 * `Samuel Wright <https://twitter.com/plaindocs>`_
 * `Eric Holscher <https://twitter.com/ericholscher>`_
@@ -105,11 +104,30 @@ Members
 * `Eric Holscher <https://twitter.com/ericholscher>`_
 * You?
 
+Communication Team
+------------------
+
+These folks are in charge of communicating with the greater Write the Docs audience.
+This is mainly done through our newsletter,
+as well as content updates that we put out on our site.
+
+Roles
+`````
+
+* Curate the Slack & Forum chatter into a monthly email newsletter update
+* Write and send mail to our mailing list for community updates and events
+
+Members
+```````
+
+* `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
+* Volunteers Needed!
+
+
 Social Media Team
 -----------------
 
 * Manage the `@writethedocs <https://twitter.com/writethedocs>`_ twitter account
-* Write mailing list messages
 * Reply to folks who have questions on Twitter
 * Track, post, and retweet relevant content
 
@@ -128,7 +146,7 @@ and are generally responsible for the community.
 
 Generally these folks have done one or more of the following:
 
-* Founded the organization
+* :doc:`Founded </origin-story>` the organization
 * Chaired a major Write the Docs conference
 
 Members
