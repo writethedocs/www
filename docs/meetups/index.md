@@ -22,6 +22,7 @@ We'd be happy to promote it and list it here.
 -   [Boston, MA, USA](http://www.meetup.com/Write-the-Docs-BOS/)
 -   [Boulder/Denver, CO, USA](http://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/)
 -   [Dallas, TX, USA](http://www.meetup.com/Write-the-Docs-Dallas/)
+-   [Houston, TX, USA](https://www.meetup.com/Write-the-Docs-Houston/)
 -   [New York, NY, USA](http://www.meetup.com/Write-The-Docs-NY/)
 -   [Ottawa, ON, CA](http://www.meetup.com/Write-The-Docs-YOW-Ottawa/)
 -   [Philadelphia, PA, USA](http://www.meetup.com/Write-The-Docs-Philly/)
