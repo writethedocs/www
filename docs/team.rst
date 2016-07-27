@@ -2,7 +2,7 @@ Team
 ====
 
 Write the Docs is a community effort that is enabled by a wonderful team of folks.
-We are always looking for more people to help organize events,
+We are always looking for more people to help organize conferences,
 meetups,
 or just take a leadership role in the community.
 This page documents the status of different members of the community,
@@ -96,7 +96,7 @@ The site is built with Sphinx and hosted on Read the Docs,
 but
 
 * Serve as point of contact for issues or questions about contributing to the :doc:`/guide/index`
-* Update overview and TOC to for discoverability, clarity of contribution guidelines
+* Update overview and TOC for ease of use
 * Curate and write new sections and topics
 * Identify new contributors and help them get started (like you!)
 
@@ -117,8 +117,6 @@ Social Media Team
 Members
 ```````
 
-* `Eric Holscher <https://twitter.com/ericholscher>`_
-* `Mikey Ariel <https://twitter.com/thatdocslady>`_
 * Volunteers Needed!
 
 Council of Elders
@@ -141,3 +139,12 @@ Members
 * `Eric Holscher <https://twitter.com/ericholscher>`_
 * `Mikey Ariel <https://twitter.com/thatdocslady>`_
 * `Anthony Johnson <https://twitter.com/agjhnsn>`_
+
+
+Join a team!
+------------
+
+Our community is all volunteers who care about advancing the state of documentation in the world.
+If this is an interest of yours,
+we are always happy to have help.
+Feel free to contact anyone on this page about working together to make our community better!
