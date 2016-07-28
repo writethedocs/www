@@ -43,3 +43,6 @@ We'd be happy to promote it and list it here.
 -   [London, UK](http://www.meetup.com/Write-The-Docs-London/)
 -   [Prague, CZ](http://www.meetup.com/Write-The-Docs-Prague/)
 
+### Current Meetups: Australia
+
+-   [Melbourne, VIC](http://www.meetup.com/Write-the-Docs-Melbourne/)
