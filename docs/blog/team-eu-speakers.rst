@@ -17,7 +17,7 @@ we haven't been doing this nearly as well as we should in our online channels.
 We are hoping to change that going forward,
 so that we can make sure that all parts of the Write the Docs community are inclusive and welcoming places.
 
-Documnting our Team
+Documenting our Team
 -------------------
 
 We have built out a `team`_ page that lists all of the roles that people currently play in our community.
