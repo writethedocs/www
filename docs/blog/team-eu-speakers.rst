@@ -1,3 +1,8 @@
+.. post:: Jul 29, 2016
+   :tags: team, europe, speakers
+   :author: eric
+   :location: PDX
+
 Documenting the Write the Docs Team & European Conference Reminder
 ==================================================================
 
