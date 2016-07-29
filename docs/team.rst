@@ -12,7 +12,7 @@ If you're interested in helping out,
 get in touch with someone on the team you're curious about.
 Messaging folks on the Write the Docs `Slack <http://slack.writethedocs.com/>`_ is probably the best way to get in touch with folks.
 
-.. note:: The folks with an asterik (*) next to their names are the team leads.
+.. note:: The folks with an asterisk (*) next to their names are the team leads.
           They get to choose who is in each team,
           so they are the best folks to talk to about how to join their team.
 
