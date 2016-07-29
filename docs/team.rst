@@ -12,6 +12,10 @@ If you're interested in helping out,
 get in touch with someone on the team you're curious about.
 Messaging folks on the Write the Docs `Slack <http://slack.writethedocs.com/>`_ is probably the best way to get in touch with folks.
 
+.. note:: The folks with an asterik (*) next to their names are the team leads.
+          They get to choose who is in each team,
+          so they are the best folks to talk to about how to join their team.
+
 .. contents:: Teams
    :local:
    :backlinks: none
@@ -36,9 +40,7 @@ Roles
 Members
 ```````
 
-* `Jennifer Rondeau <https://twitter.com/bradamante>`_
-* `Neal Kaplan <https://twitter.com/NealKaplan>`_
-* `Samuel Wright <https://twitter.com/plaindocs>`_
+* `Jennifer Rondeau <https://twitter.com/bradamante>`_ *
 * `Eric Holscher <https://twitter.com/ericholscher>`_
 
 
@@ -62,7 +64,7 @@ Roles
 Members
 ```````
 
-* `Mike Jang <https://twitter.com/TheMikeJang>`_, Senior Staff Technical Writer, ForgeRock 
+* `Mike Jang <https://twitter.com/TheMikeJang>`_, Senior Staff Technical Writer, ForgeRock *
 * You?
 
 
@@ -82,8 +84,8 @@ but
 Members
 ```````
 
+* `Eric Holscher <https://twitter.com/ericholscher>`_ * 
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_
-* `Eric Holscher <https://twitter.com/ericholscher>`_
 * You?
 
 
@@ -104,7 +106,7 @@ Roles
 Members
 ```````
 
-* `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
+* `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_ *
 * Volunteers Needed!
 
 
@@ -136,9 +138,8 @@ if you want!
 Members
 ```````
 
+* `Samuel Wright <https://twitter.com/plaindocs>`_ *
 * `Eric Holscher <https://twitter.com/ericholscher>`_
-* `Samuel Wright <https://twitter.com/plaindocs>`_
-* `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
 * You?
 
 
@@ -165,8 +166,8 @@ Roles
 Members
 ```````
 
+* `Eric Holscher <https://twitter.com/ericholscher>`_ *
 * `Troy Howard <https://twitter.com/thoward37>`_
-* `Eric Holscher <https://twitter.com/ericholscher>`_
 * `Mikey Ariel <https://twitter.com/thatdocslady>`_
 * `Anthony Johnson <https://twitter.com/agjhnsn>`_
 
