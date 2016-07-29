@@ -83,6 +83,7 @@ Useful Pages
    guide/index
    organizer-guide/index
    videos
+   team
    origin-story
 
 .. toctree::
