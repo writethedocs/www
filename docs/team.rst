@@ -113,6 +113,9 @@ Members
 Social Media Team
 -----------------
 
+Roles
+`````
+
 * Manage the `@writethedocs <https://twitter.com/writethedocs>`_ twitter account
 * Reply to folks who have questions on Twitter
 * Track, post, and retweet relevant content
@@ -131,6 +134,9 @@ The site is built with Sphinx and hosted on Read the Docs,
 so familiarity with these tools is a plus.
 It's also a great way to learn them,
 if you want!
+
+Roles
+`````
 
 * Update website including Conference sites, Video archives, and other non-meetup and guide aspects.
 * Keep up with Pull Requests on https://github.com/writethedocs/www
