@@ -23,6 +23,14 @@ to improve the **art and science of documentation**.
 
 .. include:: /include/conf/current.rst
 
+Team
+----
+
+Write the Docs wouldn't be possible without our wonderful :doc:`/team` of volunteers.
+We are always looking for folks who want to take a stronger leadership role in our community.
+Feel free to reach out if you're interested in helping on a conference,
+or in our community in general.
+
 Stay Connected
 --------------
 
