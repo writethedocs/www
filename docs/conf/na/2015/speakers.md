@@ -620,19 +620,19 @@
         ForgeRock&nbsp;&mdash;&nbsp;<a href="https://twitter.com/WriteTheDocsPDX">@WriteTheDocsPDX</a>
       </span>
     </h3>
-    <h4>Start Your Own Write The Docs Meetup Group</h4>
+    <h4>Start Your Own Write the Docs Meetup Group</h4>
     <p>
-      With just a little work, you can feel the joy of Write The Docs all year!
+      With just a little work, you can feel the joy of Write the Docs all year!
     </p>
     <p>
-      I started the Write The Docs PDX Meetup Group back in May of 2014, just
+      I started the Write the Docs PDX Meetup Group back in May of 2014, just
       after last year’s conference. As the only writer in my office, I often
-      feel alone. At Write The Docs NA 2014 conference, I felt the joy of
+      feel alone. At Write the Docs NA 2014 conference, I felt the joy of
       interacting with documentarians like myself, people who were facing
       similar challenges. I wanted to continue feeling that joy.
     </p>
     <p>
-      I’ll describe my experiences creating a Write The Docs Meetup group in
+      I’ll describe my experiences creating a Write the Docs Meetup group in
       Portland. I’ll show you how easy<b>&#42;</b> it is to create a Meetup group, attract
       members, get sponsors, find speakers, and make sure all members of your
       group feel welcome. I’ll tell you about the Meetups we’ve had, and what we
