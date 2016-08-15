@@ -2,7 +2,7 @@
    :description: A series of events for technical writers, 
                  documentarians, 
                  and all those who write the docs.
-   :author: Write The Docs
+   :author: Write the Docs
    :geo.placename: Portland, Oregon
 
 Welcome to the Write the Docs Community

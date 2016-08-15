@@ -44,7 +44,7 @@ Here is the full list of presentations for Write the Docs North America 2015:
  * Emily Hoffmann & Alfonso Roman - [A brief history of math writing: symbol,
    structure, and proof][speaker-ehoffmann-aroman]
  * Christine Burwinkle - [Tech writing in a continuous deployment world][speaker-cburwinkle]
- * Mike Jang - [Start Your Own Write The Docs Meetup Group][speaker-mjang]
+ * Mike Jang - [Start Your Own Write the Docs Meetup Group][speaker-mjang]
  * Joao Fernandes - [User-Story Driven Docs][speaker-jfernandes]
  * Gaylin Walli - [The Making of Writing Black Belts: How Martial Arts
    Philosophy Forged an Ad-Hoc Writing Team that Writes Great
