@@ -154,8 +154,7 @@ Make sure your location includes:
 
 * Wireless Internet Access: announce the network name and password at the start of the meetup.
 * Display equipment such as HDMI access to a monitor, or a projector.
-* Food and/or beverages: if possible, include vegan/vegetarian options, as well as
-non-alcoholic beverages.
+* Food and/or beverages: if possible, include vegan/vegetarian options, as well as non-alcoholic beverages.
 * Access for anyone who is disabled.
 
 
@@ -182,7 +181,7 @@ What happens when your speaker cancels
 When a speaker cancels, think of it as an opportunity! While it's not convenient,
 it's your chance to get others to participate. Here's one approach:
 
-Go around the "table". Ask every attendee to:
+Go around the "table". Ask each attendee to:
 
 1) Introduce themselves
 
