@@ -87,7 +87,6 @@ Once you've set up your Meetup, promote it!
 * Attend other meetups. Tell them about Write The Docs.
 * Add your meetup to local tech event calendars.
 * Use social media. Several Write The Docs meetups publicize through Twitter (`example <https://twitter.com/WriteTheDocsPDX/>`_).
-** Live tweet your meetups.
 * Help your fellow Meetup leaders. Retweet their announcements.
 * Announce your meetup on `Write the Docs Slack <https://writethedocs.slack.com>`_.
 
@@ -103,11 +102,12 @@ Speakers:
 * Ask people at your meetups to do a talk.
 * Invite different speakers to each Meetup. Repeat speakers are OK if it's been over a year.
 * Invite speakers from different backgrounds and don't limit talks to writing.
-* Try different formats. Alternatives:
-** Panels,
-** `round-tables <http://www.meetup.com/Write-The-Docs-London/events/231780773/>`_,
-** Lightning talks
-** Workshops
+
+Try different formats. Alternatives:
+* Panels,
+* `round-tables <http://www.meetup.com/Write-The-Docs-London/events/231780773/>`_,
+* Lightning talks
+* Workshops
 
 
 Starting the Meetup:
@@ -121,6 +121,7 @@ Joint meetup
 ~~~~~~~~~~~~
 
 Write the Docs shares interests with other meetups, such as
+
 * APIs
 * Agile
 * Programming languages
@@ -162,10 +163,11 @@ Meetup Day Checklist:
 ---------------------
 
 * Arrive early.
-* Set up directions to your meetup if/as needed.
+* Provide directions to your Meetup if/as needed.
 * Greet everyone and make them feel welcome.
 * Help your speakers get set up. Put them at ease.
 * Monitor the comments on your Meetup page.
+* Live tweet your µeetup.
 
 
 Troubleshooting
