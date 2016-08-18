@@ -97,7 +97,7 @@ and the uncanny feeling that maybe we aren't alone in this crazy universe of our
 [survey]: http://goo.gl/forms/E12jOHaR9x
 [provonix]: http://pronovix.com/
 
-## Write The Docs EU 2016
+## Write the Docs EU 2016
 
 The event last year in Prague so much fun,
 we've decided to hold our European conference there again this year.
@@ -121,8 +121,8 @@ in supporting the Write the Docs community:
 ## Stay in Touch
 
 Y'all are invited to join your fellow documentarians year round on 
-[the Write The Docs Slack channel][channel] and 
-[the Write The Docs forum][forum]. Sign up, catch up 
+[the Write the Docs Slack channel][channel] and 
+[the Write the Docs forum][forum]. Sign up, catch up 
 on threads that interest you, and join a conversation or start a new one!
 
 [channel]: http://slack.writethedocs.org/

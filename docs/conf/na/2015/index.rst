@@ -341,7 +341,7 @@ Speakers
             ForgeRock&nbsp;&mdash;&nbsp;<a href="https://twitter.com/WriteTheDocsPDX">@WriteTheDocsPDX</a>
           </span>
         </h3>
-        <h4><a href="/conf/na/2015/speakers/#speaker-mjang">Start Your Own Write The Docs Meetup Group</a></h4>
+        <h4><a href="/conf/na/2015/speakers/#speaker-mjang">Start Your Own Write the Docs Meetup Group</a></h4>
       </div>
     </div>
 

@@ -4,7 +4,7 @@ Team
 Write the Docs is a community effort that is enabled by a wonderful team of folks.
 We are always looking for more people to help organize conferences,
 meetups,
-or just take a leadership role in the community.
+or take a leadership role in the community.
 This page documents the status of different members of the community,
 and also explains some of the roles that people are filling.
 
@@ -65,6 +65,7 @@ Members
 ```````
 
 * `Mike Jang <https://twitter.com/TheMikeJang>`_, Senior Staff Technical Writer, ForgeRock *
+* `Margaret Eker <https://twitter.com/meker>`_
 * You?
 
 

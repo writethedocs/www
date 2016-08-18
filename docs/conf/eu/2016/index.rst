@@ -17,12 +17,13 @@ and talking.
 The main presentation track takes place from **September 19-20 (Monday and
 Tuesday) from 9am to 6pm**. Each afternoon we will also host an unconference
 room in parallel to the main presentations, where you can break away to open-space
-sessions, workshops, hackfests, or smaller discussions.
+sessions, workshops, hackfests, or smaller discussions. On Sunday before the main
+conference we will hold a writing day and welcome reception.
 
-Our venue will be the `Auto Klub <http://www.ganimed.cz/>`_ right next to the train
-station in the Prague city center. Inspired by the Crystal Ballroom, the main presentations
-will be held in (you guessed it) a ballroom, and the unconference sessions will be held in
-adjoining rooms.
+Our venue for the conference and writing day is the `Auto Klub <http://www.ganimed.cz/>`_ right
+next to the train station in the Prague city center. Inspired by the Crystal Ballroom, the
+main presentations will be held in (you guessed it) a ballroom, and the unconference sessions
+will be held in adjoining rooms.
 
 The venue has a long history and beautiful architecture, as well as a few surprises!
 Auto Klub is accessible with an internal lift and ramps from the street level.

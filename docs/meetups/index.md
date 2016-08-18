@@ -46,3 +46,7 @@ We'd be happy to promote it and list it here.
 ### Current Meetups: Australia
 
 -   [Melbourne, VIC](http://www.meetup.com/Write-the-Docs-Melbourne/)
+
+### Current Meetups: Asia
+
+-   [Seoul, KR](http://www.meetup.com/write-the-docs-seoul/)

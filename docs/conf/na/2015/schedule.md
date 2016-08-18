@@ -294,7 +294,7 @@ The talks will take place at the **Crystal Ballroom located at 1332 W Burnside S
   </tr>
   <tr>
     <td class="schedule-time">3:45 PM</td>
-    <td>Mike Jang - Start Your Own Write The Docs Meetup Group</td>
+    <td>Mike Jang - Start Your Own Write the Docs Meetup Group</td>
   </tr>
   <tr>
     <td class="schedule-time">4 PM</td>
