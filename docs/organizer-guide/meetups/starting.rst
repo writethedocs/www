@@ -1,7 +1,11 @@
 Starting a Meetup
 =================
 
-If you've been to a Write The Docs conference, you may have the need to "continue the conversation".
+Write the Docs `Meetups <http://www.writethedocs.org/meetups/>`_. provide
+a great way to connect and continue the conversations sparked by our
+`conferences <http://www.writethedocs.org/conf/>`_. `Slack channel
+<http://slack.writethedocs.org/>`_ and `forum <http://forum.writethedocs.org/>`_ .
+If you don't have a Write the Docs Meetup nearby, we can help you get one started.
 With a little help, you can make it happen with a Meetup in your area!
 
 Start by watching this video:
@@ -13,12 +17,11 @@ Start by watching this video:
 Write the Docs Worldview
 ------------------------
 
-Yes, Write the Docs has a worldview.
-We include everyone who is interested in excellent documentation: tech writers, developers, engineers, QA, product managers, support engineers and more.
+Yes, Write the Docs has a worldview. It's inclusive and @expansive. We welcome everyone who is interested in creating great documentation that helps people develop, use, and maintain products and services. Our community includes technical writers, developers of all flavors, QA, product managers, support engineers, designers, librarians, scientists, community managers, and more.
 
-For more information on the Write the Docs worldview, see Eric Holscher's Introduction to the conference and community from Write the Docs NA 2016:
+For more information about the Write the Docs worldview, see Eric Holscher's Introduction to the conference and community from Write the Docs NA 2016:
 
-.. note:: The "meat" of the worldview starts at 1:30.
+.. note:: For the tl:dr, start watching at the 1:30 mark.
 
 .. raw:: html
 
@@ -29,7 +32,7 @@ Now for some details
 Launch your Group
 -----------------
 
-You can start a Write the Docs Meetup via `Meetup <http://www.meetup.com/>`_. Through Meetup.com, you can create events, contact Meetup members, promote your sponsors, and more. If you need help with Meetup fees, `contact us <mailto:conf@writethedocs.org>`_. We may be able to help.
+You can start a Write the Docs Meetup by using the `Meetup.com <http://www.meetup.com/>`_ service. You can use the website or the mobile app to create events, contact Meetup members, promote your sponsors, and more. If you need help with Meetup fees, `contact us <mailto:conf@writethedocs.org>`_. We may be able to help.
 
 Create a Meetup Page:
 ~~~~~~~~~~~~~~~~~~~~~
@@ -38,19 +41,27 @@ Go to the `Meetup website <https://secure.meetup.com/create/>`_ and follow the i
 
 Tips:
 
-* **Topics**: Choose your topics with an eye to the Write The Docs worldview. We want to include everyoen interested in software documentation, so include topics that help publicize your meetups to the developers and engineers in your area, such as Python, JavaScript, APIs, Perl, Ruby, UX, User Experience, as well as standard topics associated with techincal writing.
-* **Name**: Our meetup include the following standard name: "Write the Docs" <city name>, such as "Write The Docs PDX".
-* **Members' name**: Our standard name is "Documentarian".
-* **Code of Conduct**: Do include a code of conduct. For options, see the stadnard Write the Docs' :doc:`/code-of-conduct` or the abbreviated version used by `Write the Docs PDX <https://www.meetup.com/Write-The-Docs-PDX/pages/19618086/Code_of_Conduct/>`_
+* **Topics**: We want to include everyone interested in software documentation. Include topics that help publicize your meetups to the developers and engineers in your area, such as Python, JavaScript, APIs, Perl, Ruby, UX, User Experience, as well as standard topics associated with technical writing.
+* **Name**: Our Meetup names follow a naming convention: such as "Write the Docs", for example, "Write the Docs PDX".
+* **Members' name**: Our standard name for members is "Documentarian".
+* **Code of Conduct**: Do include a code of conduct. For options, see the standard Write the Docs' :doc:`/code-of-conduct` or the abbreviated version used by `Write the Docs PDX <https://www.meetup.com/Write-The-Docs-PDX/pages/19618086/Code_of_Conduct/>`_
 
-Once you've started your Meetup, `contact us by email <mailto:conf@writethedocs.org>`_ or on `Slack <https://writethedocs.slack.com/>`_: we will add your group to the :doc:`/meetups/index` list on our website.
+After you've started your Meetup, `send us a note <mailto:conf@writethedocs.org>`_ or send us a message via `Slack <https://writethedocs.slack.com/>`_, so we can add your Meetup information to the :doc:`/meetups/index` list.
 
 Find a Place to Meet
 --------------------
 
-Ideally, you can start by setting up a Meetup at your corporate facility. If your facilities aren't convenient to your potential community of documentarians, find "documentarians" or "community managers" for centrally located companies in your area. You can typically find these people at other technical meetups/conferences in your area.
+Ideally, you can start by setting up a Meetup at your corporate facility.
+If your own workplace isn't a good option for a meetup location, ask other local
+documentarians or community managers for ideas. Where are other meetups held?
+Conferences? Do you know someone who works for a likely sponsor or whose company
+might be willing to host your meetup?
 
-Alternatively, the electronic version of "cold-calling" can work. We provide this email template for your reference:
+Ideally, you already know a sponsoring manager in a target company. It's easier
+if you know a manager responsible for community relations.
+
+Alternatively, the electronic version of cold-calling can help you find a
+location. Try sending out an email like the example provided in the following template:
 
 .. code-block:: jinja
 
@@ -67,12 +78,20 @@ Alternatively, the electronic version of "cold-calling" can work. We provide thi
     Regards,
     {{ name }}
 
+If your first attempts don't work, contact other tech companies in your town.
+Post messages on job boards, tech conference websites, or on other tech Meetup
+channels. If you attend a tech conference, visit sponsor booths to see whether
+they are interested in sponsoring your meetup.
+
 Alternative Meetup Locations
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Don't limit your search to corporate locations. Several Write The Docs Meetups
-have successfully met in cafes, libraries, and restaurants. Some may want to
-help in exchange for the food that your members will purchase.
+have successfully met in cafes, libraries, and restaurants. Some businesses might
+want to help in exchange for the revenue generated by members during your events.
+
+Sometimes, alternative locations are better for smaller groups. For example, one
+of our groups has a regular `coffee klatch <http://www.meetup.com/Write-The-Docs-Seattle/events/231890982/>`_.
 
 
 Find attendees and speakers
@@ -81,7 +100,7 @@ Find attendees and speakers
 Attendees:
 ~~~~~~~~~~
 
-Once you've set up your Meetup, promote it!
+After you publish your meetup page, promote it! Here's a few suggestions to get started:
 
 * Use your network: ask colleagues, friends, and contacts to promote the meetup.
 * Attend other meetups. Tell them about Write The Docs.
@@ -102,6 +121,7 @@ Speakers:
 * Ask people at your meetups to do a talk.
 * Invite different speakers to each Meetup. Repeat speakers are OK if it's been over a year.
 * Invite speakers from different backgrounds and don't limit talks to writing.
+* For example, you might want to invite someone who codes or leads a community in Python, Javascript, or Ruby, and ask them to share a project or approach to documentation specific to their domain. Or, invite an architect, editor, designer, user experience professional, or support representative to talk about their approach to documentation projects and problems.
 
 Try different formats. Alternatives:
 * Panels,
@@ -138,7 +158,7 @@ Event Page:
 ~~~~~~~~~~~
 
 Include a `description <http://www.meetup.com/Write-The-Docs-PDX/events/231735823/>`_ of your topic, a speaker bio (if available), a
-`schedule <http://www.meetup.com/Write-the-Docs-SF/events/232289251/>`_, and details on your meeting location.
+`schedule <http://www.meetup.com/Write-the-Docs-SF/events/232289251/>`_, and details about your meeting location.
 
 
 Venue:
@@ -162,18 +182,20 @@ Meetup Day Checklist:
 ---------------------
 
 * Arrive early.
-* Provide directions to your Meetup if/as needed.
+* Provide directions to your Meetup.
 * Greet everyone and make them feel welcome.
 * Help your speakers get set up. Put them at ease.
+* Do a head-count at to help you know how many people to expect at future Meetups.
 * Monitor the comments on your Meetup page.
-* Live tweet your µeetup.
+* Live tweet your Meetup.
 
 
 Troubleshooting
 ---------------
 
-Meetups don't always happen in the way you planned. The following list include
-problems that you may encounter:
+Meetups don't always go according to plan. The following list summarizes some
+of the problems that you might encounter with potential solutions:
+
 
 What happens when your speaker cancels
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -193,6 +215,6 @@ After Your Meetup
 -----------------
 
 * Send a thank you note to your speakers. Ask them to post their slides.
-* Send a thank you note to your hostyou.
+* Send a thank you note to your host.
 * Post pictures on your meetup page. Be sure to get permission.
-* Use Twitter account to thank your attendees, speakers and sponsor.
+* Use Twitter to thank your attendees, speakers and sponsor.
