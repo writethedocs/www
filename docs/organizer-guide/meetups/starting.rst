@@ -1,7 +1,7 @@
 Starting a Meetup
 =================
 
-Write the Docs `Meetups <http://www.writethedocs.org/meetups/>`_. provide
+Write the Docs `Meetups <http://www.writethedocs.org/meetups/>`_ provide
 a great way to connect and continue the conversations sparked by our
 `conferences <http://www.writethedocs.org/conf/>`_. `Slack channel
 <http://slack.writethedocs.org/>`_ and `forum <http://forum.writethedocs.org/>`_ .
@@ -124,6 +124,7 @@ Speakers:
 * For example, you might want to invite someone who codes or leads a community in Python, Javascript, or Ruby, and ask them to share a project or approach to documentation specific to their domain. Or, invite an architect, editor, designer, user experience professional, or support representative to talk about their approach to documentation projects and problems.
 
 Try different formats. Alternatives:
+
 * Panels,
 * `round-tables <http://www.meetup.com/Write-The-Docs-London/events/231780773/>`_,
 * Lightning talks
