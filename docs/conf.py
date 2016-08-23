@@ -95,10 +95,10 @@ texinfo_documents = [
 suppress_warnings = ['image.nonlocal_uri']
 
 
-## Our fancy additions
+# Our fancy additions
 
 def slugify(slug):
-    slug = slug.encode('ascii', 'ignore').lower()
+    slug = slug.encode('utf-8', 'ignore').lower()
     slug = re.sub(r'[^a-z0-9]+', '-', slug).strip('-')
     slug = re.sub(r'[-]+', '-', slug)
     return slug
@@ -114,18 +114,20 @@ def transform_speakers(speakers):
             else:
                 speaker['img_file'] = 'missing.jpg'
 
-speakers = json.load(file('data/2016.speakers.json'))
-day1 = json.load(file('data/na-2016-day-1.json'))
-day2 = json.load(file('data/na-2016-day-2.json'))
+na_speakers = json.load(file('data/2016.speakers.json'))
+na_day1 = json.load(file('data/na-2016-day-1.json'))
+na_day2 = json.load(file('data/na-2016-day-2.json'))
 
 eu_speakers = json.load(file('data/2016.eu.speakers.json'))
+eu_day1 = json.load(file('data/eu-2016-day-1.json'))
+eu_day2 = json.load(file('data/eu-2016-day-2.json'))
 
 
-for list_o_speakers in [speakers, eu_speakers]:
+for list_o_speakers in [na_speakers, eu_speakers]:
     transform_speakers(list_o_speakers)
 
-# Old NA hacks
-for talk in day1 + day2:
+for talk in na_day1 + na_day2:
+    # Old NA hacks
     if 'Tim Nugent' in talk['Session']:
         talk['speaker'] = 'Tim Nugent'
         talk['slug'] = 'tim-nugent'
@@ -137,11 +139,21 @@ for talk in day1 + day2:
         slug = slugify(speaker)
         talk['slug'] = slug.strip()
 
+for talk in eu_day1 + eu_day2:
+    speaker = talk['Session'].split('-')[0]
+    speaker = speaker.split(',')[0]
+    speaker = speaker.split('&')[0]
+    talk['speaker'] = speaker.strip()
+    slug = slugify(speaker)
+    talk['slug'] = slug.strip()
+
 html_context = {
     'eu_2016_speakers': eu_speakers,
-    'speakers2016': speakers,
-    'na_2016_day1': day1,
-    'na_2016_day2': day2,
+    'speakers2016': na_speakers,
+    'na_2016_day1': na_day1,
+    'na_2016_day2': na_day2,
+    'eu_2016_day1': eu_day1,
+    'eu_2016_day2': eu_day2,
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
 }
 
@@ -187,4 +199,3 @@ def setup(app):
         'enable_auto_doc_ref': True,
     }, True)
     app.add_transform(AutoStructify)
-

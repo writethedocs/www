@@ -9,7 +9,6 @@ from each other in different ways.
 
 Saturday, September 17th
 ------------------------
-
 If you're in town early, we'll organize some sight-seeing activities to introduce
 you to this lovely city and to meet other documentarians who will be around.
 
@@ -34,6 +33,27 @@ Parallel to the main presentations, we will also provide an unconference space
 each afternoon as well as lightning talks. Sign up for these on the morning of
 the event.
 
+Main Stage
+~~~~~~~~~~
+
+.. raw:: html
+
+    <table>
+    {% for talk in eu_2016_day1 %}
+      <tr>
+        <td class=" schedule-time">{{ talk.Time }}</td>
+        <td>
+
+:ref:`{{ talk.Session }} <speaker-eu-2016-{{ talk.slug }}>`
+
+.. raw:: html
+
+        </td>
+      </tr>
+
+    {% endfor %}
+    </table>
+
 Monday Night - Party
 ~~~~~~~~~~~~~~~~~~~~
 
@@ -46,3 +66,24 @@ Tuesday, September 20th - Day 2
 
 More interesting folks, more things documentation. Unconference space and
 lightning talks too!
+
+Main Stage
+~~~~~~~~~~
+
+.. raw:: html
+
+    <table>
+    {% for talk in eu_2016_day2 %}
+      <tr>
+        <td class=" schedule-time">{{ talk.Time }}</td>
+        <td>
+
+:ref:`{{ talk.Session }} <speaker-eu-2016-{{ talk.slug }}>`
+
+.. raw:: html
+
+        </td>
+      </tr>
+
+    {% endfor %}
+    </table>
