@@ -3,7 +3,8 @@ python:
  - 2.7
 sudo: false
 env:
- - TOX_ENV=py27
+ - TOX_ENV=docs
+ - TOX_ENV=branding
 install:
  - pip install tox
 script:
