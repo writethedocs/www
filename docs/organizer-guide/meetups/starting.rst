@@ -17,7 +17,7 @@ Start by watching this video:
 Write the Docs Worldview
 ------------------------
 
-Yes, Write the Docs has a worldview. It's inclusive and @expansive. We welcome everyone who is interested in creating great documentation that helps people develop, use, and maintain products and services. Our community includes technical writers, developers of all flavors, QA, product managers, support engineers, designers, librarians, scientists, community managers, and more.
+Yes, Write the Docs has a worldview. It's inclusive and expansive. We welcome everyone who is interested in creating great documentation that helps people develop, use, and maintain products and services. Our community includes technical writers, developers of all flavors, QA, product managers, support engineers, designers, librarians, scientists, community managers, and more.
 
 For more information about the Write the Docs worldview, see Eric Holscher's Introduction to the conference and community from Write the Docs NA 2016:
 
@@ -27,7 +27,7 @@ For more information about the Write the Docs worldview, see Eric Holscher's Int
 
     <iframe width="640" height="360" src="https://www.youtube.com/embed/Fmfs-iYqx5Q?list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv" frameborder="0" allowfullscreen></iframe>
 
-Now for some details
+Now for some details:
 
 Launch your Group
 -----------------
@@ -126,7 +126,7 @@ Speakers:
 Try different formats. Alternatives:
 
 * Panels,
-* `round-tables <http://www.meetup.com/Write-The-Docs-London/events/231780773/>`_,
+* `Round-tables <http://www.meetup.com/Write-The-Docs-London/events/231780773/>`_,
 * Lightning talks
 * Workshops
 
@@ -150,7 +150,7 @@ Write the Docs shares interests with other meetups, such as
 * Content Strategy
 * QA
 
-You can set up topics of interest to multiple meetups
+You can set up topics of interest to multiple meetups.
 
 Meetup Logistics
 ----------------
