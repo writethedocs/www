@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-! grep -R 'Write The Docs' ../
+SCRIPT=$(readlink -f $0)
+SCRIPTPATH=`dirname $SCRIPT`
+! grep -R 'Write The Docs' $SCRIPTPATH
