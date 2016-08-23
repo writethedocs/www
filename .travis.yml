@@ -4,7 +4,7 @@ python:
 sudo: false
 env:
  - TOX_ENV=docs
- - TOX_ENV=test-the
+ - TOX_ENV=branding
 install:
  - pip install tox
 script:
