@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-SCRIPT=$(readlink -f $0)
-SCRIPTPATH=`dirname $SCRIPT`
-! grep -R 'Write The Docs' $SCRIPTPATH
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+DOCSDIR="$(dirname "$DIR")"
+echo "Checking doc path: $DOCSDIR"
+! grep -R 'Write The Docs' $DOCSDIR
