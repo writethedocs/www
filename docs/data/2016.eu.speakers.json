@@ -50,18 +50,6 @@
     {
         "speakers": [
             {
-                "slug": "idan-gazit",
-                "details": "",
-                "twitter": "",
-                "name": "Idan Gazit"
-            }
-        ],
-        "title": "Self-documenting APIs with GraphQL",
-        "abstract": "<p>APIs have grown into a major surface area of many products, with attendant complexity and documentation needs. The dominant model of today's APIs is the RESTful model, with neatly orthogonal resources, each occupying its own endpoint, and thoughtful use of the HTTP verbs to perform actions with or on resources.</p>\n<p>Much like the third normal form of database schema design, this conceptual purity is rarely found in the wild, as technical and practical constraints force us to a less-pure architecture for our information. Documenting \"perfect\" APIs is already a gargantuan task, documenting the mutations foisted upon your API by deadlines, performance constraints, and legacy support can be a nightmare.</p>\n<p>Enter GraphQL, a conceptually different approach to APIs. An open-source specification from Facebook, GraphQL permits clients to ask for the data that they want in the shape which they want it. This shift makes it far simpler to support clients over time, without versioned API endpoints. It makes it easier for developers consuming the API to change directions without requiring work from backend developers to alter the API responses.</p>\n<p>It's a fundamentally new way to do APIs, and it is rapidly growing in popularity. GraphQL implementations already exist for every language under the sun. GraphQL's reference implementation comes with tooling for building queries interactively in a browser, including autocompletion and INLINE DOCS (!!!111!one).</p>\n<p>How do we think about documenting APIs when the underlying model we've been using for the past decade is no longer? What cool stuff can we do that we couldn't do before?</p>\n<p>This talk is part API history lesson, part introduction to GraphQL, and part a tour of the documentation affordances provided by GraphQL.</p>"
-    },
-    {
-        "speakers": [
-            {
                 "slug": "chris-ward",
                 "details": "",
                 "twitter": "chrischinch",
