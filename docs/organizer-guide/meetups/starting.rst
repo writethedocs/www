@@ -135,7 +135,7 @@ If you can't find a local speaker, find a video of a talk from a previous
 if they're willing to field questions. Share the video with the group during the
 meetup. Set up questions and answers with the speaker during the Meetup. For
 one successful example, see the following Meetup: `So you need to document an
- API <http://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/events/232962552/>`
+ API <http://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/events/232962552/>`_
 
 Starting the Meetup:
 --------------------
