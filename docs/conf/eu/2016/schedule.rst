@@ -35,10 +35,6 @@ over more substantial food as well.
     <td>Introduction to the Writing Day</td>
    </tr>
    <tr>
-    <td class="schedule-time">12:00</td>
-    <td>Break for lunch</td>
-   </tr>
-   <tr>
     <td class="schedule-time">18:00</td>
     <td>Writing Day ends. Reception begins. Stop working and start chatting!</td>
    </tr>
