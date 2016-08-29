@@ -54,9 +54,9 @@ so you can continue your conversations over more substantial food.
 Conference Party
 ----------------
 
-This year we'll be holding the conference party at last years conference venue, the awesome [Klub Lavka][lavka-map]! Wind down and talk about the day’s talks in a relaxed and friendly environment. Free drinks of all varieties, snacks, and sweets will be provided.
+This year we'll be holding another conference party at a location TBC! Wind down and talk about the day’s talks in a relaxed and friendly environment. Free drinks of all varieties, snacks, and sweets will be provided.
 
-[lavka-map]: https://goo.gl/maps/TgWcR2DAwWt
+From 19:00 till a sensibly late time.
 
 Monday and Tuesday - Conference
 -------------------------------
@@ -86,4 +86,3 @@ Thanks to our latest sponsors:
 
 * [Travis CI](https://travis-ci.com/)
 * [Netconomy](https://www.netconomy.net)
-
