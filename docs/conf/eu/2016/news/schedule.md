@@ -73,10 +73,10 @@ run all day, until shortly after 17:00.
 This year will be the best Write the Docs yet!
 We have taken everyone's feedback and continued to tweak things to make them even better than
 before.
-As always, let us know if there is anything else we can improve.
+As always, [let us know][email] if there is anything else we can improve.
 
 
-[email]: mailto:conf@writethedocs.org
+[email]: mailto:europe@writethedocs.org
 
 Sponsors
 ---------
