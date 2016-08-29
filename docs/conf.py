@@ -147,6 +147,13 @@ for talk in eu_day1 + eu_day2:
     slug = slugify(speaker)
     talk['slug'] = slug.strip()
 
+    # slug hacks
+    if 'Kata' in talk['Session']:
+        talk['slug'] = 'kata-nagygyorgy'
+    if 'native speaker' in talk['Session']:
+        talk['slug'] = 'istvan-zoltan-szabo'
+
+
 html_context = {
     'eu_2016_speakers': eu_speakers,
     'speakers2016': na_speakers,
