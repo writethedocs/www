@@ -1,16 +1,19 @@
 :template: 2016/eu.html
 
 Announcing the conference schedule
-=====================================================================================
+====================================
 
 Write the Docs is just over three weeks away now! We hope you are all as excited as we are for the conference.
 
-Tickets are **almost sold out**, so make sure to [purchase a ticket][ticket] now, if you haven't already. We'll be closing ticket sales on the *5th September* to leave us enough time to print shirts and badges -- don't miss out!
+Tickets are **almost sold out**, so make sure to [purchase a ticket][ticket] now, if you haven't already. You need to get a ticket by the *5th September* to leave us enough time to print shirts and badges -- don't miss out!
 
 [ticket]: https://ti.to/writethedocs/write-the-docs-eu-2016/
 
-We're putting the finishing touches on the conference, so this email
-contains more information for you about this year's events. We also hope you'll be able to join most if not all of the events outside the main conference talks, because they're some of our favorite parts of the event.
+We're putting the finishing touches on the conference.
+Write the Docs is all about community,
+so we make sure you have a lot of time to connect with other documentarians.
+We hope you'll be able to join most if not all of the events outside the main conference talks,
+because they're some of our favorite parts of the event.
 
 Conference Schedule
 -------------------
@@ -20,7 +23,6 @@ We're excited about the talks, Writing Day,
 and all the other wonderful festivities we have every year.
 
 [schedule]: http://www.writethedocs.org/conf/eu/2016/schedule/
-
 
 Saturday - Boat Trip
 ----------------------
@@ -60,7 +62,7 @@ Monday and Tuesday - Conference
 -------------------------------
 
 We've released the breakdown of [our daily schedule][daily-schedule].
-The doors open at 10:00 on both days,
+The doors open at 9:00 on both days,
 so that you can arrive early, get yourself settled and grab some breakfast. The conference begins at 10:00. Talks
 run all day, until shortly after 17:00.
 
@@ -79,7 +81,9 @@ As always, let us know if there is anything else we can improve.
 Sponsors
 ---------
 
+Without sponsorship we wouldn't be able to do the event each year and keep the ticket prices so low.
 Thanks to our latest sponsors:
 
 * [Travis CI](https://travis-ci.com/)
 * [Netconomy](https://www.netconomy.net)
+
