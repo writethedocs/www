@@ -76,6 +76,11 @@ Main Stage
     {% endfor %}
     </table>
 
+Unconference
+~~~~~~~~~~~~
+
+:doc:`/conf/eu/2016/unconference` from 13:00-17:00
+
 Monday Night - Party
 ~~~~~~~~~~~~~~~~~~~~
 
@@ -109,3 +114,9 @@ Main Stage
 
     {% endfor %}
     </table>
+
+Unconference
+~~~~~~~~~~~~
+
+:doc:`/conf/eu/2016/unconference` from 13:00-17:00
+

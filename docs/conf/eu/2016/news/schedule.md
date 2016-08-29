@@ -1,6 +1,6 @@
 :template: 2016/eu.html
 
-Announcing the conference schedule
+Announcing the Conference Schedule
 ====================================
 
 Write the Docs is just over three weeks away now! We hope you are all as excited as we are for the conference.
