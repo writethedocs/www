@@ -53,6 +53,15 @@ run all day, until shortly after 17:00.
 
 [daily-schedule]: http://www.writethedocs.org/conf/eu/2016/schedule/#monday-september-19th-day-1
 
+Sponsors
+---------
+
+Without sponsorship we wouldn't be able to do the event each year and keep the ticket prices so low.
+Thanks to our latest sponsors:
+
+* [Travis CI](https://travis-ci.com/)
+* [Netconomy](https://www.netconomy.net)
+
 ----
 
 This year will be the best Write the Docs yet!
@@ -63,11 +72,3 @@ As always, [let us know][email] if there is anything else we can improve.
 
 [email]: mailto:europe@writethedocs.org
 
-Sponsors
----------
-
-Without sponsorship we wouldn't be able to do the event each year and keep the ticket prices so low.
-Thanks to our latest sponsors:
-
-* [Travis CI](https://travis-ci.com/)
-* [Netconomy](https://www.netconomy.net)
