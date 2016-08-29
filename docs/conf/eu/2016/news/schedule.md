@@ -24,12 +24,6 @@ and all the other wonderful festivities we have every year.
 
 [schedule]: http://www.writethedocs.org/conf/eu/2016/schedule/
 
-Saturday - Boat Trip
-----------------------
-
-We're planning a scenic boat tour on Saturday afternoon. Attendance is included with your conference ticket, but please do confirm that you have lets us know that you're coming, so we can book enough boats!
-
-
 Sunday - Writing Day and Conference Reception
 ---------------------------------------------
 
@@ -48,15 +42,6 @@ so you can continue your conversations over more substantial food.
 [writing-day]: http://www.writethedocs.org/conf/eu/2016/writingday/
 [autoklub-map]: https://goo.gl/maps/w3gGKECb3HQ2
 [sprints]: http://en.wikipedia.org/wiki/Sprint_%28software_development%29
-
-
-
-Conference Party
-----------------
-
-This year we'll be holding another conference party at a location TBC! Wind down and talk about the day’s talks in a relaxed and friendly environment. Free drinks of all varieties, snacks, and sweets will be provided.
-
-From 19:00 till a sensibly late time.
 
 Monday and Tuesday - Conference
 -------------------------------
