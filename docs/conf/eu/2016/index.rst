@@ -137,7 +137,6 @@ getting around.
 Schedule
 --------
 
-We'll post the schedule here once we have it firmed up.
 You can see the outline of our schedule on the :doc:`/conf/eu/2016/schedule` page.
 
 .. raw:: html
