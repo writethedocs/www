@@ -273,5 +273,5 @@ follow us on Twitter at `@writethedocs <https://twitter.com/writethedocs>`_,
 email us at conf@writethedocs.org,
 or sign up for our mailing list:
 
-.. include:: /include/na-mailchimp.rst
+.. include:: /include/mailchimp.rst
 

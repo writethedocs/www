@@ -34,20 +34,14 @@ or in our community in general.
 Stay Connected
 --------------
 
-Mailing Lists
-~~~~~~~~~~~~~
+Mailing List
+~~~~~~~~~~~~
 
-We have mailing lists for our North American and European Conferences.
+We have mailings for our Monthly Newsletter, North American Conferences, and European Conferences
 They are low traffic,
-and only send information about the conferences and Write the Docs events in those areas.
+and only send occasional community and event updates.
 
-*North America*
-
-.. include:: /include/na-mailchimp.rst
-
-*Europe*
-
-.. include:: /include/eu-mailchimp.rst
+You can sign up in our sidebar.
 
 Meetups
 ~~~~~~~
