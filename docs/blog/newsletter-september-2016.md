@@ -13,21 +13,17 @@ Hello Write the Docs! If you're getting this email, you've probably attended (or
 
 As part of that effort, we're sending you this, our inaugural edition of the new Write the Docs monthly newsletter! Our goal is to make it easier for folks to keep current with what the community's talking about each month. The bulk of the newsletter content will be distilled from interesting conversations that crop up on the #general channel of the [Write the Docs Slack ](http://slack.writethedocs.org/). We'll be highlighting topics that are recurring themes or simply seem to resonate with a lot of folks. 
 
-```eval_rst
+Note: We know the #general channel is just one arena for docs talk. If  you see a conversation elsewhere on Slack (or Twitter or wherever) that would make good newsletter fodder, ping our editor, [Kelly O'Brien](http://www.writethedocs.org/team/#communication-team).
 
-.. note:: We know the #general channel is just one arena for docs talk. If  you see a conversation elsewhere on Slack (or Twitter or wherever) that would make good newsletter fodder, ping our editor, :ref:`Kelly O'Brien <communication-team>`.
-```
+If this sounds like fun, awesome! Consider yourself subscribed! If you'd rather keep our emails limited to just conference-related notices, that's fine too. Just [click here to unsubscribe](*|UNSUB|*) from the newsletter list. 
 
-If this sounds like fun, awesome! Consider yourself subscribed! If you'd rather keep our emails limited to just conference-related notices, that's fine too. Just [click here to unsubscribe](.) from the newsletter list. 
-
-And without further ado, here's a few topics of conversation from this month that tickled our fancy: 
-
+And without further ado, here's a few topics of conversation from this past month that tickled our fancy: 
 
 ## What to include in your UI copy
 
 Deciding what to include in your UI copy — and what not to — always takes some careful thought. When do you try include full definitions or descriptions right on the screen, and when is it better to simply add a link off to more comprehensive documentation? 
 
-When it came up this month, the general consensus was that the comfort level of your audience has a big impact on how much explanation to put in UI. If you're writing for an audience that's easily daunted or confused, include as much explanation as possible. On the other hand, if your audience includes experienced users who may need only reminders, the UI text could be reminders only, with a link to the extended documentation.
+The general consensus was that the comfort level of your audience has a big impact on how much explanation to put in UI. If you're writing for an audience that's easily daunted or confused, include as much explanation as possible. On the other hand, if your audience includes experienced users who may need only reminders, the UI text could be reminders only, with a link to the extended documentation.
 
 There were also a handful of great suggestions for UI copy best practices:
 
@@ -41,13 +37,13 @@ If you're looking for more info about UI help text, check out Beth Aitman's talk
 
 ## Metrics case study: Total Time Reading (TTR)
 
-Who doesn't love talking about documentation metrics? (No one, that's who.) One of the Write the Docs co-founders, Troy Howard, has a new blog post out this month, in which he takes a close look at Total Time Reading (TTR) as a way of judging the success of a page or article. If documentation metrics is your thing, it's definitely worth a read: 
+Who doesn't love talking about documentation metrics? (No one, that's who.) One of the Write the Docs co-founders, Troy Howard, has a new blog post out, in which he takes a close look at Total Time Reading (TTR) as a way of judging the success of a page or article. If documentation metrics is your thing, it's definitely worth a read: 
 [TechDocs Metrics Case Study: Total Time Reading (TTR)](http://blog.thoward37.me/articles/techdocs-metrics-total-time-reading-(ttr))
 
 
 ## Code review versus copy review
 
-Another blog post that spurred conversation this month was this one from the Atlassian blog, [The (written) unwritten guide to pull requests](http://blogs.atlassian.com/2016/07/written-unwritten-guide-pull-requests/). In addition to having lots of good pointers for, y'know, doing code reviews, it also sparked a conversation about some of those same techniques can be used to conduct copy reviews on your docs. 
+Another blog post that spurred conversation was this one from the Atlassian blog, [The (written) unwritten guide to pull requests](http://blogs.atlassian.com/2016/07/written-unwritten-guide-pull-requests/). In addition to having lots of good pointers for, y'know, doing code reviews, it also sparked a conversation about some of those same techniques can be used to conduct copy reviews on your docs. 
 
 This especially struck a chord with folks who work with a team of content contributors. Having a set editorial review process is really helpful for building up a reliable and transparent workflow. The general feeling was that stealing some code review techniques and adapting them to an editorial review process could save you from having to reinvent the wheel. 
 
@@ -78,4 +74,3 @@ We hope you enjoyed our first installment of Write the Docs hot topics! Keep an 
 * We feel ya. 
 * Scope out [our upcoming conferences](http://www.writethedocs.org/conf/)! ([The next one](http://www.writethedocs.org/conf/eu/2016/), in Prague, is coming up in a few weeks!)
 * See if there's a Write the Docs [meetup](http://www.writethedocs.org/meetups/) near you! (And if there's not, [think about starting one up](http://www.writethedocs.org/organizer-guide/meetups/starting/)!
-
