@@ -109,6 +109,8 @@ Members
 ```````
 
 * `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_ *
+* `Hillary Fraley <https://github.com/hillaryfraley>`_ *
+
 * Volunteers Needed!
 
 
