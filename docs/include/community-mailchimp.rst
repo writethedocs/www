@@ -17,7 +17,7 @@
     </div>
     <div class="mc-field-group input-group">
         <strong>What types of updates would you like? </strong>
-        <ul><li><input type="checkbox" value="1" name="group[14633][1]" id="mce-group[14633]-14633-0"><label for="mce-group[14633]-14633-0">Monthly Community Newsletter</label></li>
+    <ul><li><input type="checkbox" value="1" name="group[14633][1]" id="mce-group[14633]-14633-0" checked><label for="mce-group[14633]-14633-0">Monthly Community Newsletter</label></li>
     <li><input type="checkbox" value="2" name="group[14633][2]" id="mce-group[14633]-14633-1"><label for="mce-group[14633]-14633-1">North American Conference Announcements</label></li>
     <li><input type="checkbox" value="4" name="group[14633][4]" id="mce-group[14633]-14633-2"><label for="mce-group[14633]-14633-2">European Conference Announcements</label></li>
     </ul>
