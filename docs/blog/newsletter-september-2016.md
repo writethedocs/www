@@ -15,7 +15,9 @@ As part of that effort, we're sending you this, our inaugural edition of the new
 
 Note: We know the #general channel is just one arena for docs talk. If  you see a conversation elsewhere on Slack (or Twitter or wherever) that would make good newsletter fodder, ping our editor, [Kelly O'Brien](http://www.writethedocs.org/team/#communication-team).
 
-If this sounds like fun, awesome! Consider yourself subscribed! If you'd rather keep our emails limited to just conference-related notices, that's fine too. Just [click here to unsubscribe](*|UNSUB|*) from the newsletter list. 
+.. only:: email
+
+    If this sounds like fun, awesome! Consider yourself subscribed! If you'd rather keep our emails limited to just conference-related notices, that's fine too. Just [click here to select which emails you get](*|UPDATE_PROFILE|*) from the newsletter list. 
 
 And without further ado, here's a few topics of conversation from this past month that tickled our fancy: 
 
