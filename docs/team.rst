@@ -41,6 +41,7 @@ Members
 ```````
 
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_ *
+* `Neal Kaplan <https://twitter.com/nealkaplan>`_
 * `Eric Holscher <https://twitter.com/ericholscher>`_
 
 
@@ -89,7 +90,6 @@ Members
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_
 * You?
 
-
 Communication Team
 ------------------
 
@@ -108,6 +108,8 @@ Members
 ```````
 
 * `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_ *
+* `Hillary Fraley <https://github.com/hillaryfraley>`_
+
 * Volunteers Needed!
 
 
