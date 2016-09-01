@@ -204,5 +204,6 @@ def setup(app):
     app.add_config_value('recommonmark_config', {
         'auto_toc_tree_section': 'Contents',
         'enable_auto_doc_ref': True,
+        'enable_eval_rst': True,
     }, True)
     app.add_transform(AutoStructify)

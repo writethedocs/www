@@ -89,6 +89,7 @@ Members
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_
 * You?
 
+.. _communication-team:
 
 Communication Team
 ------------------
