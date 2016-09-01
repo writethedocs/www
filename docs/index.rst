@@ -37,7 +37,9 @@ Stay Connected
 Mailing List
 ~~~~~~~~~~~~
 
-We have mailings for our Monthly Newsletter, North American Conferences, and European Conferences
+We have mailing lists for our Monthly Newsletter,
+North American Conferences,
+and European Conferences.
 They are low traffic,
 and only send occasional community and event updates.
 
