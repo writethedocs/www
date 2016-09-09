@@ -23,20 +23,29 @@ You’ll have a chance to get acquainted with each other over some drinks and sn
 We’ll also help groups organize dinner plans, so you can continue your conversations
 over more substantial food as well.
 
+
 .. raw:: html
 
    <table class="schedule">
    <tr>
+    <td class="schedule-time">09:00</td>
+    <td>Breakfast
+   </tr>
+   <tr>
     <td class="schedule-time">10:00</td>
-    <td><a href="/conf/eu/2016/writingday/">Writing Day</a> documentation sprints begin 
+    <td><a href="/conf/eu/2016/writingday/">Writing Day</a> documentation sprints begin</td>
    </tr>
    <tr>
     <td class="schedule-time">10:30</td>
     <td>Introduction to the Writing Day</td>
    </tr>
    <tr>
-    <td class="schedule-time">18:00</td>
-    <td>Writing Day ends. Reception begins. Stop working and start chatting!</td>
+    <td class="schedule-time">13:00</td>
+    <td>Lunch
+   </tr>
+   <tr>
+    <td class="schedule-time">17:00</td>
+    <td>Writing Day ends. Reception begins. Stop working and start chatting! Snacks and drinks provided.</td>
    </tr>
    <tr>
     <td class="schedule-time">20:00</td>
@@ -119,4 +128,3 @@ Unconference
 ~~~~~~~~~~~~
 
 :doc:`/conf/eu/2016/unconference` from 13:00-17:00
-
