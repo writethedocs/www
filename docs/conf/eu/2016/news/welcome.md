@@ -24,13 +24,13 @@ We hope you're getting excited!
 
 ## Sponsors
 
-[MDN](https://developer.mozilla.org/)
-[GitHub](https://github.com/)
-[Algolia](https://www.algolia.com/)
-[Redhat](http://redhat.com/)
-[Travis CI](https://travis-ci.com/)
-[Netconomy](https://www.netconomy.net/)
+* [MDN](https://developer.mozilla.org/)
+* [GitHub](https://github.com/)
+* [Algolia](https://www.algolia.com/)
+* [Redhat](http://redhat.com/)
+* [Travis CI](https://travis-ci.com/)
+* [Netconomy](https://www.netconomy.net/)
 
-This is the fourth year of Write the Docs, and our community is growing. We have a fantastic venue in a beautiful city, and lots of interesting talks. Come ready to meet other people in the community, and have a great time.
+This is the fourth year of Write the Docs, our third conference in Europe and our community is growing. We have a fantastic venue in a beautiful city, and lots of interesting talks. Come ready to meet other people in the community, and have a great time.
 
 See you soon!
