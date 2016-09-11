@@ -16,7 +16,7 @@ Sunday, September 18th
 ----------------------
 
 During the day, we’ll hold our :doc:`Writing Day documentation
-sprints </conf/eu/2016/writingday>`, followed by the conference reception in the evening.
+sprints </conf/eu/2016/writingday>` at the same venue as the rest of the conference, followed by the conference reception in the evening.
 We encourage everyone to drop by on Sunday evening for the conference reception.
 
 You’ll have a chance to get acquainted with each other over some drinks and snacks.
