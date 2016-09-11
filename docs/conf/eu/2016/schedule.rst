@@ -23,22 +23,6 @@ you to this lovely city and to meet other documentarians who will be around.
     <td class="schedule-time">16:00</td>
     <td>Return to the docs</td>
    </tr>
-   <tr>
-    <td class="schedule-time">10:30</td>
-    <td>Introduction to the Writing Day</td>
-   </tr>
-   <tr>
-    <td class="schedule-time">13:00</td>
-    <td>Lunch
-   </tr>
-   <tr>
-    <td class="schedule-time">17:00</td>
-    <td>Writing Day ends. Reception begins. Stop working and start chatting! Snacks and drinks provided.</td>
-   </tr>
-   <tr>
-    <td class="schedule-time">20:00</td>
-    <td>Reception ends</td>
-   </tr>
    </table>
 
 
