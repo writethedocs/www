@@ -12,11 +12,25 @@ Saturday, September 17th
 If you're in town early, we'll organize some sight-seeing activities to introduce
 you to this lovely city and to meet other documentarians who will be around.
 
+.. raw:: html
+
+   <table class="schedule">
+   <tr>
+    <td class="schedule-time">13:45</td>
+    <td>Boarding at <a href="https://goo.gl/maps/bqLP3VaytVo">Prague Boats, pier no. 5 of Dvořákovo nábřeží<a/></td>
+   </tr>
+   <tr>
+    <td class="schedule-time">16:00</td>
+    <td>Return to the docs</td>
+   </tr>
+   </table>
+
+
 Sunday, September 18th
 ----------------------
 
 During the day, we’ll hold our :doc:`Writing Day documentation
-sprints </conf/eu/2016/writingday>`, followed by the conference reception in the evening.
+sprints </conf/eu/2016/writingday>` at the same venue as the rest of the conference, followed by the conference reception in the evening.
 We encourage everyone to drop by on Sunday evening for the conference reception.
 
 You’ll have a chance to get acquainted with each other over some drinks and snacks.
