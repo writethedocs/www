@@ -212,11 +212,11 @@ These folks will be helping cover the conference so people who can't attend stil
 .. raw:: html
 
     <div class="row row-sponsors">
-      <div class="col-md-4">
+      <div class="col-md-10">
         <a href="http://techwriter.pl/">
         <img src="/_static/img/2016/sponsors/techwriter-pl.png" width=150/></a>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-10">
         <a href="http://itcqf.org/announcement-lets-meet-in-prague-at-write-the-docs-conference/">
         <img src="/_static/img/2016/sponsors/itcqf.png" width=150/></a>
       </div>
