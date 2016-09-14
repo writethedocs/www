@@ -172,50 +172,70 @@ information on sponsoring Write the Docs.
       </div>
 
       <!-- Editor -->
-      <div class="col-md-8 col-sm-4">
+      <div class="col-md-10">
         <a href="https://github.com">
-        <img src="/_static/img/2016/sponsors/github.png" width=200/></a>
+        <img src="/_static/img/2016/sponsors/github.png" width=300/></a>
       </div>
-      <div class="col-md-8 col-sm-4">
+      <div class="col-md-10">
         <a href="https://www.algolia.com">
-        <img src="/_static/img/2016/sponsors/algolia.png" width=200/></a>
+        <img src="/_static/img/2016/sponsors/algolia.png" width=300/></a>
       </div>
       <!-- First Draft -->
-      <div class="col-md-8 col-sm-4">
+      <div class="col-md-6">
         <a href="http://redhat.com">
-        <img src="/_static/img/2016/sponsors/redhat.png" width=150/></a>
+        <img src="/_static/img/2016/sponsors/redhat.png" width=200/></a>
       </div>
-      <div class="col-md-8 col-sm-4">
+      <div class="col-md-6">
         <a href="https://travis-ci.com/">
-        <img src="/_static/img/2016/sponsors/travisci.png" width=150/></a>
+        <img src="/_static/img/2016/sponsors/travisci.png" width=200/></a>
       </div>
-      <div class="col-md-8 col-sm-4">
+
+      <div class="col-md-4">
         <a href="https://www.netconomy.net/">
-        <img src="/_static/img/2016/sponsors/netconomy.png" width=150/></a>
+        <img src="/_static/img/2016/sponsors/netconomy.png" width=125/></a>
+      </div>
+      <div class="col-md-4">
+        <a href="http://corilla.com/">
+        <img src="/_static/img/2016/sponsors/corilla.jpg" width=125/></a>
       </div>
 
    </div>
 
-Media Sponsors
+Other Sponsors
 --------------
+
+Media
+~~~~~
 
 These folks will be helping cover the conference so people who can't attend still get all the good information that is being presented!
 
 .. raw:: html
 
     <div class="row row-sponsors">
-      <div class="col-md-8 col-sm-4">
+      <div class="col-md-4">
         <a href="http://techwriter.pl/">
         <img src="/_static/img/2016/sponsors/techwriter-pl.png" width=150/></a>
       </div>
-      <div class="col-md-8 col-sm-4">
+      <div class="col-md-4">
         <a href="http://itcqf.org/announcement-lets-meet-in-prague-at-write-the-docs-conference/">
         <img src="/_static/img/2016/sponsors/itcqf.png" width=150/></a>
       </div>
     </div>
-   <br>
-   <br>
-   <br>
+    
+Production
+~~~~~~~~~~
+
+Write the Docs is also helped out by companies that give their employees time to work on the conference.
+Write the Docs is produced by:
+
+.. raw:: html
+
+    <div class="row row-sponsors">
+      <div class="col-md-4">
+        <a href="https://readthedocs.com">
+        <img src="/_static/img/2016/sponsors/read-the-docs.png" width=200/></a>
+      </div>
+   </div>
 
 
 Organizers
