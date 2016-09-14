@@ -181,20 +181,20 @@ information on sponsoring Write the Docs.
         <img src="/_static/img/2016/sponsors/algolia.png" width=300/></a>
       </div>
       <!-- First Draft -->
-      <div class="col-md-6">
+      <div class="col-md-10">
         <a href="http://redhat.com">
         <img src="/_static/img/2016/sponsors/redhat.png" width=200/></a>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-10">
         <a href="https://travis-ci.com/">
         <img src="/_static/img/2016/sponsors/travisci.png" width=200/></a>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-md-10">
         <a href="https://www.netconomy.net/">
         <img src="/_static/img/2016/sponsors/netconomy.png" width=125/></a>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-10">
         <a href="http://corilla.com/">
         <img src="/_static/img/2016/sponsors/corilla.jpg" width=125/></a>
       </div>
