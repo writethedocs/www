@@ -107,9 +107,12 @@ Unconference
 Monday Night - Party
 ~~~~~~~~~~~~~~~~~~~~
 
+The party will be at `Klub Lavka, Novotného lávka 201/1 <https://goo.gl/maps/3k5XZQvkHZr>`_ from **19:00-23:00**.
+
 Wind down and talk about the day's talks in a relaxed and friendly
 environment. Free drinks of all varieties, snacks, and sweets will be
 provided.
+
 
 Tuesday, September 20th - Day 2
 -------------------------------
