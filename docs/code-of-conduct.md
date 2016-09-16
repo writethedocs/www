@@ -62,14 +62,20 @@ social events.
 
 ### Staff Contact Information
 
-**Eric Holscher**
+**Samuel Wright**
 
-* eric@writethedocs.org
+* europe@writethedocs.org
+* +420 775-240-730
 
 **Mikey Ariel**
 
 * europe@writethedocs.org
 * +420 603-261-361
+
+**Eric Holscher**
+
+* eric@writethedocs.org
+* +1 757 705 0532
 
 ### License
 
