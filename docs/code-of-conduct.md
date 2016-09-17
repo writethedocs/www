@@ -75,7 +75,7 @@ social events.
 **Eric Holscher**
 
 * eric@writethedocs.org
-* +1 757 705 0532
+* +420 776-512-459
 
 ### License
 
