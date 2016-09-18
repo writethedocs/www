@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 #
+import io
 import os
 import json
 import re
@@ -98,7 +99,7 @@ suppress_warnings = ['image.nonlocal_uri']
 # Our fancy additions
 
 def slugify(slug):
-    slug = slug.encode('utf-8', 'ignore').lower()
+    slug = slug.encode('utf-8', 'ignore').lower().decode('utf-8')
     slug = re.sub(r'[^a-z0-9]+', '-', slug).strip('-')
     slug = re.sub(r'[-]+', '-', slug)
     return slug
@@ -114,13 +115,19 @@ def transform_speakers(speakers):
             else:
                 speaker['img_file'] = 'missing.jpg'
 
-na_speakers = json.load(file('data/2016.speakers.json'))
-na_day1 = json.load(file('data/na-2016-day-1.json'))
-na_day2 = json.load(file('data/na-2016-day-2.json'))
 
-eu_speakers = json.load(file('data/2016.eu.speakers.json'))
-eu_day1 = json.load(file('data/eu-2016-day-1.json'))
-eu_day2 = json.load(file('data/eu-2016-day-2.json'))
+def load_json(path):
+    with io.open(path, encoding='utf-8') as fp:
+        return json.load(fp)
+
+
+na_speakers = load_json('data/2016.speakers.json')
+na_day1 = load_json('data/na-2016-day-1.json')
+na_day2 = load_json('data/na-2016-day-2.json')
+
+eu_speakers = load_json('data/2016.eu.speakers.json')
+eu_day1 = load_json('data/eu-2016-day-1.json')
+eu_day2 = load_json('data/eu-2016-day-2.json')
 
 
 for list_o_speakers in [na_speakers, eu_speakers]:
