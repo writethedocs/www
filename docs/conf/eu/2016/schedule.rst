@@ -62,7 +62,7 @@ over more substantial food as well.
     <td>Writing Day ends. Reception begins. Stop working and start chatting! Snacks and drinks provided.</td>
    </tr>
    <tr>
-    <td class="schedule-time">20:00</td>
+    <td class="schedule-time">19:00</td>
     <td>Reception ends</td>
    </tr>
    </table>
