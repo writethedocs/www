@@ -120,6 +120,7 @@ def load_json(path):
     with io.open(path, encoding='utf-8') as fp:
         return json.load(fp)
 
+na_2015_speakers = load_json('data/2015.na.speakers.json')
 
 na_speakers = load_json('data/2016.speakers.json')
 na_day1 = load_json('data/na-2016-day-1.json')
@@ -162,8 +163,9 @@ for talk in eu_day1 + eu_day2:
 
 
 html_context = {
+    'na_2015_speakers': na_2015_speakers,
     'eu_2016_speakers': eu_speakers,
-    'speakers2016': na_speakers,
+    'na_2016_speakers': na_speakers,
     'na_2016_day1': na_day1,
     'na_2016_day2': na_day2,
     'eu_2016_day1': eu_day1,
