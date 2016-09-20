@@ -1,4 +1,5 @@
-2016 Conferences
+2017 Conferences
 ----------------
 
-- :doc:`Write the Docs Europe </conf/eu/2016/index>`, September 18-20, **Prague, Czech Republic**
+- Write the Docs Portland, May 14-16, **Portland, Oregon**
+- Write the Docs Europe, **Fall 2017**
