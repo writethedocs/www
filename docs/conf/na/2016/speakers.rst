@@ -6,7 +6,7 @@ Write the Docs NA 2016 Speakers
 Presentations
 -------------
 
-{% for talk in speakers2016 %}
+{% for talk in na_2016_speakers %}
 
 {% for speaker in talk.speakers %}
 .. _speaker-{{ speaker.slug }}:
