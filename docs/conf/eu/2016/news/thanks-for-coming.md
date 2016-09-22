@@ -15,7 +15,7 @@ Let us know how we can improve for future conferences and gatherings. We really 
 
 **Our three question survey is quick and easy, so [go fill it out](TODO).**
 
-## Speak, Sponsor, or help organize next year
+## Speak, Sponsor, or Organize next year
 
 This is the end of our 2016 round of conferences,
 but that doesn't mean things are over.
@@ -26,7 +26,7 @@ We have worked to document the [roles](TODO) that need to happen to put the conf
 We could use a few folks who are interested in lending a hand to make the event happen,
 so please let us know if that's you!
 
-We depend on sponsors to make our events as magical as they are,
+We also depend on sponsors to make our events as magical as they are,
 while keeping ticket prices low.
 If you are curious about sponsoring Europe or North America next year,
 please contact us at [sponsorship@writethedocs.org](mailto:sponsorship@writethedocs.org).
