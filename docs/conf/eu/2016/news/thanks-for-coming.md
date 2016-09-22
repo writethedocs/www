@@ -13,7 +13,7 @@ We hope you had a wonderful time, and that you are as excited as we are about th
 
 Let us know how we can improve for future conferences and gatherings. We really appreciate your candid feedback!
 
-**Our three question survey is quick and easy, so [go fill it out](TODO).**
+**Our three question survey is quick and easy, so [go fill it out](https://goo.gl/forms/RQE7qyaFvaMNP2Zo2).**
 
 ## Speak, Sponsor, or Organize next year
 
@@ -22,7 +22,7 @@ but that doesn't mean things are over.
 We'll be having another North American and European conference next year.
 
 We're always looking for folks who want help us organize the events.
-We have worked to document the [roles](TODO) that need to happen to put the conference together.
+We have worked to document the [roles](http://www.writethedocs.org/organizer-guide/confs/event-roles/) that need to happen to put the conference together.
 We could use a few folks who are interested in lending a hand to make the event happen,
 so please let us know if that's you!
 
@@ -37,8 +37,8 @@ and Europe will be open in April next year.
 
 ## Photos and Videos
 
-The [official photos](TODO) from the conference are now available.
-Thanks to [TODO](TODO) for putting them together so quickly.
+The [official photos](https://www.flickr.com/photos/writethedocs/sets/72157674031974295) from the conference are now available.
+Thanks to [Kay Smoljak](https://twitter.com/goatlady) for putting them together so quickly.
 They are licensed for non-commercial use with attribution,
 so feel free to use them in write-ups about the event.
 
