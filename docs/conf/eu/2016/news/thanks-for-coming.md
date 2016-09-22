@@ -18,7 +18,7 @@ Let us know how we can improve for future conferences and gatherings. We really 
 ## Speak, Sponsor, or Organize next year
 
 This is the end of our 2016 round of conferences,
-but that doesn't mean things are over.
+but that doesn't mean things are over!
 We'll be having another North American and European conference next year.
 
 We're always looking for folks who want help us organize the events.
