@@ -4,17 +4,55 @@ Organizer Guide
 
 Welcome! This guide aims to help anyone who wants to start a local Write the Docs meetup or a regional conference. Our community is growing quickly and we want to provide resources, guidelines, and tips on how to build and maintain events no matter where you are in the world.
 
-All the content in this guide and in the `resources repository <https://github.com/writethedocs/resources>`_ is open source, and we welcome contributions and suggestions! Feel free to communicate and share ideas with your fellow documentarians on `Slack <https://writethedocs.slack.com/>`_, on the `Forum <http://forum.writethedocs.org/>`_, or by creating `issues <https://github.com/writethedocs/www>`_ and `pull requests <https://github.com/writethedocs/www/pulls>`_ in the `GitHub repository <https://github.com/writethedocs/www>`_. You can also send us any additions in any format to guide@writethedocs.org.
+All the content in this guide and in the `resources repository <https://github.com/writethedocs/resources>`_ is open source, and we welcome contributions and suggestions! Feel free to communicate and share ideas with your fellow documentarians on `Slack <https://writethedocs.slack.com/>`_ or by creating `issues <https://github.com/writethedocs/www>`_ and `pull requests <https://github.com/writethedocs/www/pulls>`_ in the `GitHub repository <https://github.com/writethedocs/www>`_. 
 
 .. note:: There are a number of topics that aren't written yet.
           That means that you can write them!
           Please submit your thoughts and ideas,
           and you can contribute to making this guide better.
 
+You should also look at the :doc:`/team` page to see more information about who is currently filling these roles.
+
 Meetups
 -------
+
+Information about the global Write the Docs meetups.
 
 .. toctree::
    :maxdepth: 2
 
    meetups/starting
+
+Conferences
+-----------
+
+Information about our regional Write the Docs conferences.
+
+.. toctree::
+   :maxdepth: 2
+   
+   confs/checklist
+   confs/event-roles
+   confs/cfp
+   confs/communication
+   confs/volunteers
+
+.. TODO
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+
+   confs/budget
+   confs/venues-logistics
+   confs/sponsorship
+   confs/tickets
+   confs/web-resources
+   confs/print-resources
+
+Credits
+-------
+
+This guide draws much inspiration from the `Django Girls Organizer's Guide <http://organize.djangogirls.org/>`__.
+
+If you're interested in helping start or organize a Write the Docs conference, send us email at conf@writethedocs.org.
