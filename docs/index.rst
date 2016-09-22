@@ -84,10 +84,11 @@ Useful Pages
 
    conf/index
    meetups/index
-   guide/index
-   organizer-guide/index
    videos
    team
+   blog/index
+   guide/index
+   organizer-guide/index
    origin-story
 
 .. toctree::
