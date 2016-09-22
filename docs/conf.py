@@ -120,15 +120,15 @@ def load_json(path):
     with io.open(path, encoding='utf-8') as fp:
         return json.load(fp)
 
-na_2015_speakers = load_json('data/2015.na.speakers.json')
 
-na_speakers = load_json('data/2016.speakers.json')
-na_day1 = load_json('data/na-2016-day-1.json')
-na_day2 = load_json('data/na-2016-day-2.json')
+na_2015_speakers = load_json('_data/2015.na.speakers.json')
+na_speakers = load_json('_data/2016.speakers.json')
+na_day1 = load_json('_data/na-2016-day-1.json')
+na_day2 = load_json('_data/na-2016-day-2.json')
 
-eu_speakers = load_json('data/2016.eu.speakers.json')
-eu_day1 = load_json('data/eu-2016-day-1.json')
-eu_day2 = load_json('data/eu-2016-day-2.json')
+eu_speakers = load_json('_data/2016.eu.speakers.json')
+eu_day1 = load_json('_data/eu-2016-day-1.json')
+eu_day2 = load_json('_data/eu-2016-day-2.json')
 
 
 for list_o_speakers in [na_speakers, eu_speakers]:
