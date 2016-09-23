@@ -9,7 +9,7 @@ We're so grateful to our sponsors, speakers, volunteers, and attendees for makin
 
 We have posted the `photos <https://www.flickr.com/photos/writethedocs/sets/72157674031974295>`_ from the conference for those who couldn't attend.
 Hopefully they allow you to bask in the beauty of the event from the comfort of your own chair.
-The videos will be uploaded soon!
+**The videos will be uploaded soon!**
 
 We hope you'll join us again next year.
 We'll be announcing details about our 2017 conference soon.
