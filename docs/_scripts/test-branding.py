@@ -3,7 +3,10 @@
 import os
 import sys
 from os.path import dirname, abspath
-d = dirname(dirname(abspath(__file__)))
+
+parent_dir = dirname(dirname(abspath(__file__)))
+eu_conf_dir = os.path.join(parent_dir, 'conf', 'eu')
+na_conf_dir = os.path.join(parent_dir, 'conf', 'na')
 
 
 def searchthis(location, searchterm):
@@ -14,16 +17,27 @@ def searchthis(location, searchterm):
             for line in file(fullpath):
                 if searchterm in line:
                     print "[{file}:{num}] {line}".format(
-                        file=file_name,
+                        file=fullpath,
                         num='?',
                         line=line,
                     )
                     invalid = True
     return invalid
 
-wrong_branding = searchthis(d, "Write " + "The Docs")
 
-if wrong_branding:
+wrong_branding = searchthis(parent_dir, "Write " + "The Docs")
+eu_wrong_branding_1 = searchthis(eu_conf_dir, 'na-2016')
+eu_wrong_branding_2 = searchthis(eu_conf_dir, '2016/na')
+na_wrong_branding_1 = searchthis(na_conf_dir, 'eu-2016')
+na_wrong_branding_2 = searchthis(na_conf_dir, '2016/eu')
+
+if any([
+    wrong_branding,
+    eu_wrong_branding_1,
+    eu_wrong_branding_2,
+    na_wrong_branding_1,
+    na_wrong_branding_2,
+]):
     print "Branding is broken!"
     sys.exit(1)
 else:
