@@ -5,7 +5,7 @@ Thanks for coming to Write the Docs Europe 2016
 
 Hi everyone,
 
-Thanks for attending our third European Write the Docs conference in Prague! We're so grateful to our attendees, speakers, volunteers and sponsors for making the conference possible. 
+Thanks for attending our third European Write the Docs conference in Prague! We're so grateful to our attendees, speakers, volunteers and sponsors for making the conference possible.
 
 We hope you had a wonderful time, and that you are as excited as we are about the beautiful community that is forming. Below we've included all of the resources you might need for staying in touch. We also have a short anonymous survey for you to fill out, so we can keep improving the conference.
 
@@ -45,16 +45,18 @@ so feel free to use them in write-ups about the event.
 All the videos for the conference will be posted soon.
 We'll send another update once they're available!
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/writethedocs/29807686535/in/album-72157674031974295/" title="Family Photo"><img src="https://c8.staticflickr.com/9/8327/29807686535_62caa954c3_z.jpg" width="640" height="427" alt="Family Photo"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## Write the Docs Slack
 
-The Write the Docs Slack has really taken off this year! Our general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y'all continue the conversations throughout the year. 
+The Write the Docs Slack has really taken off this year! Our general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y'all continue the conversations throughout the year.
 
 [Join](http://slack.writethedocs.org/) our slack channel, or [sign back in](https://writethedocs.slack.com/messages) if you're already a member!
 
 
 ## Meetups
 
-We hope you continue to [build the community](http://www.writethedocs.org/meetups/) and keep in touch with other documentarians in your hometown. In this spirit, we have a number of meetups in cities across the world. If you don't see your city [listed](http://www.writethedocs.org/meetups/), consider [starting](http://www.writethedocs.org/meetups/starting/) a meetup! 
+We hope you continue to [build the community](http://www.writethedocs.org/meetups/) and keep in touch with other documentarians in your hometown. In this spirit, we have a number of meetups in cities across the world. If you don't see your city [listed](http://www.writethedocs.org/meetups/), consider [starting](http://www.writethedocs.org/meetups/starting/) a meetup!
 
 Keep us posted if you start one (or encounter a new one) so that we can spread the word.
 
