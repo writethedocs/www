@@ -1,5 +1,19 @@
 :template: 2016/eu.html
 
+
+Thanks!
+=======
+
+Thanks to everyone who made this year another wonderful event.
+We're so grateful to our sponsors, speakers, volunteers, and attendees for making the conference possible.
+
+We have posted the `photos <https://www.flickr.com/photos/writethedocs/sets/72157674031974295>`_ from the conference for those who couldn't attend.
+Hopefully they allow you to bask in the beauty of the event from the comfort of your own chair.
+The videos will be uploaded soon!
+
+We hope you'll join us again next year.
+We'll be announcing details about our 2017 conference soon.
+
 About
 =====
 
@@ -78,18 +92,7 @@ writing documentation.
 Tickets
 -------
 
-Tickets are on sale now! We do expect the event to sell out, so don't
-wait to purchase.
-
-.. raw:: html
-
-   <br>
-   <form method="GET" action="https://ti.to/writethedocs/write-the-docs-eu-2016">
-   <button name="_" id="button-tito-writethedocs-write-the-docs-eu-2016-1">
-   Buy Tickets
-   </button>
-   </form>
-   <br>
+**Tickets have sold out**
 
 Ticket includes:
 
@@ -107,7 +110,7 @@ Companies interested in sponsorship can also receive tickets to the
 conference with a sponsorship package.
 
 * :strike:`€150 Corporate Early Bird` - **Sold Out**
-* €200 Corporate
+* :strike:`€200 Corporate` - **Sold Out**
 
 Independent Tickets
 -------------------
@@ -116,7 +119,7 @@ Purchase this ticket if you are paying for yourself, work at a
 non-profit, or at a company with less than 10 employees.
 
 * :strike:`€75 Independent Early Bird` - **Sold Out**
-* €100 Independent
+* :strike:`€100 Independent` - **Sold Out**
 
 Financial Assistance
 --------------------
