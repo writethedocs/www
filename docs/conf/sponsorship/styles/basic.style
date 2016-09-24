@@ -1,0 +1,61 @@
+fontsAlias:
+  stdFont: Droid Serif
+  stdBold: Droid Serif-Bold
+  stdItalic: Droid Serif-Italic
+
+styles:
+  normal:
+    fontSize: 11
+    fontName: stdFont
+  title:
+    alignment: left
+    fontName: stdFont
+    fontSize: 24pt
+    textColor: #242418
+  subtitle:
+    alignment: left
+    fontName: stdItalic
+    fontSize: 14pt
+    textColor: #646454
+    spaceBefore: 0
+  heading:
+    fontName: stdFont
+    alignment: TA_LEFT
+    textColor: #242418
+    spaceBefore: 14
+    spaceAfter: 7
+  heading1:
+    fontName: stdFont
+  heading2:
+    fontName: stdFont
+  heading3:
+    fontName: stdItalic
+  heading4:
+    fontName: stdFont
+  heading5:
+    fontName: stdFont
+  heading6:
+    fontName: stdFont
+  table:
+    spaceBefore: 7
+    spaceAfter: 7
+    commands: []
+      [BOX, [0, 0], [-1, -1], 0.25, #d0d0c0]
+      [INNERGRID, [0, 0], [-1, -1], 0.25, #d0d0c0]
+      [LEFTPADDING, [0, 0], [-1, -1], 10]
+      [RIGHTPADDING, [0, 0], [-1, -1], 10]
+      [TOPPADDING, [0, 0], [-1, -1], 7]
+      [BOTTOMPADDING, [0, 0], [-1, -1], 7]
+      [VALIGN, [0, 0], [-1, -1], TOP]
+  table-title:
+    parent: heading3
+    alignment: left
+  table-heading:
+    backColor: #f3f3f3
+    parent: heading
+    alignment: TA_LEFT
+    valign: BOTTOM
+    borderPadding: 0
+
+  footer:
+    alignment: TA_RIGHT
