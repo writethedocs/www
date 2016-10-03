@@ -73,4 +73,4 @@ Thanks for joining us for our second edition! Just in case this wasn't enough of
 * [Conference Session Notes](http://www.winglemeyer.org/technology/2016/09/20/wtd.html/) — by Brian Exelbierd (@bexelbie)
 * [Overall Conference Write-up](http://meetups.pixelastic.com/2016/09/19/writethedocs-europe-2016/) — by Tim Carry (@pixelastic)
 
-p.s. And remember, even though our next conference isn't til the spring, you can always check to see if there's a [Write the Docs meetup](http://www.writethedocs.org/meetups/) near you! (And if there's not, [think about starting one up](https://www.youtube.com/watch?v=ZwQ8Kd48d0w)!)
+p.s. And remember, even though our next conference isn't til the spring, you can always check to see if there's a [Write the Docs meetup](http://www.writethedocs.org/meetups/) near you! (And if there's not, [think about starting one up](http://www.writethedocs.org/organizer-guide/meetups/starting/)!)
