@@ -13,6 +13,8 @@ All the content in this guide and in the `resources repository <https://github.c
 
 You should also look at the :doc:`/team` page to see more information about who is currently filling these roles.
 
+If you're interested in helping start or organize a Write the Docs conference, send us email at conf@writethedocs.org.
+
 Meetups
 -------
 
@@ -55,4 +57,3 @@ Credits
 
 This guide draws much inspiration from the `Django Girls Organizer's Guide <http://organize.djangogirls.org/>`__.
 
-If you're interested in helping start or organize a Write the Docs conference, send us email at conf@writethedocs.org.
