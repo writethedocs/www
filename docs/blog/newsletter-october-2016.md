@@ -9,13 +9,13 @@
 
 ## Happy October!
 
-Hello Write the Docs!  Nice to see you again in this, our second issue of the community newsletter. In case you missed us last time, we've started up a monthly newsletter to highlight interesting conversations that have been happening in the community over the last few weeks. 
+Hello Write the Docs! Nice to see you again in this, our second issue of the community newsletter. In case you missed us last time, we've started up a monthly newsletter to highlight interesting conversations that have been happening in the community over the last few weeks. 
 
 This month, there was tons of good material to choose from on the Write the Docs Slack. (Between us, I suspect this is going to be a recurring problem. 😉 ) On top of that, out in the real world, we successfully carried off our third EU conference! We'll include some links to write-ups and multimedia coverage from Prague at the bottom of the newsletter, if you're looking to relive (or vicariously experience) the fun! 
 
 In the meantime, we hope you find these tidbits useful, insightful, or at the very least a reasonably interesting way to pass a few minutes of your day. 
 
-_NOTE: As reminder, we'll be keeping an eye on the #general channel for newsletter content, but if you see a conversation elsewhere on Slack (or Twitter or wherever) that would make good newsletter fodder, ping our editor, Kelly O'Brien (@kobrien042)._
+_NOTE: As a reminder, we'll be keeping an eye on the #general channel for newsletter content, but if you see a conversation elsewhere on Slack (or Twitter or wherever) that would make good newsletter fodder, ping our editor, Kelly O'Brien (@kobrien042)._
 
 ## Improving diversity in our docs
 
@@ -24,7 +24,7 @@ Often when we're writing docs, we'll lean on a few fictional users we can refer 
 It was interesting to hear how people have approached the task of bringing a broader range of users into their docs:  
 
 * **Pop culture references** — Using familiar characters from popular culture (Star Trek was the example that came up) was one example. It has the advantage of having a set established characters to choose from, and a narrative you can borrow against to boot. It also, though, runs the risk of not translating across cultural boundaries, as well as requiring some research into fair use and copyright laws, to be on the safe side.
-* **Wikipedia common names** — Wikipedia has a [list of common placeholder names in lots of different languages](https://en.wikipedia.org/wiki/List_of_placeholder_names_by_language), that could be a good resource. That said, the consensus was that it'd be best to check any name found there with a native speaker to make sure it's on the up-and-up. (It was also suggested that vetting and rounding out this list might make an interesting project for a future Write the Docs writing day. Something to think on.)
+* **Wikipedia common names** — Wikipedia has a [list of common placeholder names in lots of different languages](https://en.wikipedia.org/wiki/List_of_placeholder_names_by_language), that could be a good resource. That said, the consensus was that it'd be best to check any name found there with a native speaker to make sure it's on the up-and-up. (It was also suggested that vetting and rounding out this list might make an interesting project for a future Write The Docs writing day. Something to think on.)
 * **Random name generators** — There's also a few [random name generators](http://www.behindthename.com/random/) out there that would make for good resources. 
 
 None of these are a perfect solution, perhaps, but they all give us somewhere to start from, when thinking about broader representation in our docs. 
@@ -58,13 +58,13 @@ For more help with preparing technical writing portfolios, there are some guidel
 
 ## Tooling highlight: Bending the Atom editor to your will
 
-Another of our past speakers, Chris Ward (@chrisward), published a new blog post this month — _Making Atom (even more) awesome_ —  about how he uses GitHub's extensible, open source editor for writing documentation. The post garnered quite a bit of buzz, and goes into an awesome degree of detail on his setup and all of the different customizations he's tried out with the editor. Definitely worth a read, if you're interested in other documentarian's toolkits. 
+Another of our past speakers, Chris Ward (@chrisward), published a new blog post this month — 'Making Atom (even more) awesome' —  about how he uses GitHub's extensible, open source editor for writing documentation. The post garnered quite a bit of buzz and goes into an awesome degree of detail on his setup and all of the different customizations he's tried out with the editor. Definitely worth a read, if you're interested in other documentarians' tool setups. 
 
 Read the post here: [https://hackernoon.com/making-atom-even-more-awesome-my-setup-e7a89969a876](https://hackernoon.com/making-atom-even-more-awesome-my-setup-e7a89969a876)
 
 ## Looking for more Write the Docs?
 
-Thanks for joining us for our second edition! Just in case this wasn't enough of a docs fix for you, here's a sampling of the awesome community coverage of the Prague conference to tide you over til next month: 
+Thanks for joining us for our second edition! Just in case this wasn't enough of a docs fix for you, here's a sampling of the awesome community coverage for the Prague conference to tide you over til next month: 
 
 * [Speaker Videos](https://www.youtube.com/playlist?list=PLZAeFn6dfHpnN8fXXHwPtPY33aLGGhYLJ) — by all of our wonderful speakers! ❤️
 * [Official Write the Docs Flickr Stream](https://www.flickr.com/photos/writethedocs/) — photos by Kay Smoljak (@goatlady)
