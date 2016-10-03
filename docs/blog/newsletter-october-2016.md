@@ -5,7 +5,7 @@
 
 ```
 
-# Write the Docs Newsletter - October
+# Write the Docs Newsletter - October 2016
 
 ## Happy October!
 
