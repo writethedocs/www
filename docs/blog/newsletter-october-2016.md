@@ -11,7 +11,7 @@
 
 Hello Write the Docs!  Nice to see you again in this, our second issue of the community newsletter. In case you missed us last time, we've started up a monthly newsletter to highlight interesting conversations that have been happening in the community over the last few weeks. 
 
-This month, there was tons of good material to choose from on the Write the Docs Slack. (Between us, I suspect this is going to be a recurring problem. 😉) On top of that, out in the real world, we successfully carried off our third EU conference! We'll include some links to write-ups and multimedia coverage from Prague at the bottom of the newsletter, if you're looking to relive (or vicariously experience) the fun! 
+This month, there was tons of good material to choose from on the Write the Docs Slack. (Between us, I suspect this is going to be a recurring problem. 😉 ) On top of that, out in the real world, we successfully carried off our third EU conference! We'll include some links to write-ups and multimedia coverage from Prague at the bottom of the newsletter, if you're looking to relive (or vicariously experience) the fun! 
 
 In the meantime, we hope you find these tidbits useful, insightful, or at the very least a reasonably interesting way to pass a few minutes of your day. 
 
