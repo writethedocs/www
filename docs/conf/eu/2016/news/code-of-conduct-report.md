@@ -1,7 +1,6 @@
 :template: 2016/eu.html
 
-Code of Conduct Transparency Report
-===================================
+## Code of Conduct Transparency Report
 
 As you know, Write the Docs is an inclusive, friendly, and welcoming community to
 all documentarians. As a part of our ongoing efforts to promote safe spaces in the
@@ -20,7 +19,9 @@ in the venues.
 to report anything that might occur to us, whether it is via Slack, email, phone, or
 in person.
 
-Following the conference, here is an anonemysed list of CoC-related incidents that occured
+## Incidents
+
+Following the conference, here is an anonymized list of CoC-related incidents that occurred
 during the conference:
 
 * During the Writing Day pitch round, an attendee used a generalization term when
@@ -31,11 +32,14 @@ who made the statement and a private apology was relayed back to the reporters.
 * One of the talks contained a slide that included an inappropriate joke towards
 a certain user group. The speaker was asked to remove the slide from the published deck.
 
-As we already mentioned, this report is anonymised and published for the sake of
+As we already mentioned, this report is anonymized and published for the sake of
 maintaining transparency, and to encourage folks our community to report incidents
 that might disrupt the atmosphere we are passionate about.
+
+## Credits
 
 We'd like to thank the Django community, who has been pioneering such efforts, for
 example in the last [DjangoCon Europe](https://2016.djangocon.eu/blog/article/2016-04-11-coc-transparency-report/),
 their dedication to inclusive, safe spaces in tech communities and events is an
 inspiration to us, and we hope to see similar efforts in other communities.
+
