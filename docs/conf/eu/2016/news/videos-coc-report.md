@@ -43,11 +43,11 @@ that might disrupt the atmosphere we are passionate about.
 We'd like to thank the Django community, who has been pioneering such efforts, for
 example in the last [DjangoCon Europe](https://2016.djangocon.eu/blog/article/2016-04-11-coc-transparency-report/),
 their dedication to inclusive, safe spaces in tech communities and events is an
-inspiration to use, and we hope to see similar efforts in other communities.
+inspiration to us, and we hope to see similar efforts in other communities.
 
 ## Videos are available!
 
-In case you missed our [October Newsletter](http://us6.campaign-archive2.com/?u=94377ea46d8b176a11a325d03&id=4590c219d2&e=3ba9122f21),
+In case you missed our [October Newsletter](http://www.writethedocs.org/blog/newsletter-october-2016/),
 we're happy to present to you all the conference videos from this year, uploaded to
 our YouTube channel and organized into a [happy playlist](https://www.youtube.com/playlist?list=PLZAeFn6dfHpnN8fXXHwPtPY33aLGGhYLJ)!
 
