@@ -18,6 +18,11 @@ and to encourage folks in our community to report incidents
 that might disrupt the atmosphere we are passionate about.
 Thank you to everyone who reported issues.
 
+We'd like to thank the Django community, who has been pioneering such efforts, for
+example in the last [DjangoCon Europe](https://2016.djangocon.eu/blog/article/2016-04-11-coc-transparency-report/),
+their dedication to inclusive, safe spaces in tech communities and events is an
+inspiration to us, and we hope to see similar efforts in other communities.
+
 ## Videos are available!
 
 In case you missed our [October Newsletter](http://www.writethedocs.org/blog/newsletter-october-2016/),
