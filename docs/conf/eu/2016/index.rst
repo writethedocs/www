@@ -69,7 +69,7 @@ Auto Klub is accessible with an internal lift and ramps from the street level.
 News
 ^^^^
 
-- :doc:`/conf/eu/2016/news/code-of-conduct-report`
+- :doc:`/conf/eu/2016/news/videos-coc-report`
 - :doc:`/conf/eu/2016/news/thanks-for-coming`
 - :doc:`/conf/eu/2016/news/welcome`
 - :doc:`/conf/eu/2016/news/schedule`

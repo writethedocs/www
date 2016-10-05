@@ -33,7 +33,7 @@ who made the statement and a private apology was relayed back to the reporters.
 a certain user group. The speaker was asked to remove the slide from the published deck.
 
 As we already mentioned, this report is anonymized and published for the sake of
-maintaining transparency, and to encourage folks our community to report incidents
+maintaining transparency, and to encourage folks in our community to report incidents
 that might disrupt the atmosphere we are passionate about.
 
 ## Credits

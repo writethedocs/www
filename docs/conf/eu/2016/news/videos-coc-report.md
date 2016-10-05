@@ -10,8 +10,13 @@ update before we start working on next year's events.
 
 As you know, Write the Docs is an inclusive, friendly, and welcoming community to
 all documentarians.
-We have published a [report](http://www.writethedocs.org/conf/eu/2016/news/code-of-conduct-report/) that covers the steps that we take to provide a welcoming conference.
-It also includes an anonymized list of the reports that we recieved.
+We have published a [report](http://www.writethedocs.org/conf/eu/2016/news/code-of-conduct-report/) that includes an anonymized list of the violations that we received at this year's event.
+
+This report is anonymized and published for the sake of
+maintaining transparency,
+and to encourage folks in our community to report incidents
+that might disrupt the atmosphere we are passionate about.
+Thank you to everyone who reported issues.
 
 ## Videos are available!
 
