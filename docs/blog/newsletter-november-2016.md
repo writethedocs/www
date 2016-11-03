@@ -21,9 +21,9 @@ _NOTE: Remember,  we'll be keeping an eye on the #general channel for newsletter
 
 ## A quick guide to style guides
 
-One of the perks of the Write the Docs community is having a group of people available to help figure out tricky style questions, when we run into them. This month, one such query led to a big discussion about what style and usage resources people use when they run into questions.
+One of the perks of the Write the Docs community is having a group of people available to help figure out tricky style questions, when we run into them. This month, one such query led to a big discussion about what style and usage resources people use when they have questions.
 
-Although lots of folks default to a simple Google search and gone with the most common usage, there were some other suggestions for good places to start:
+Although lots of folks default to a simple Google search and go with the most common usage, there were some other suggestions for good places to start:
 * [Merriam-Webster Dictionary](http://www.merriam-webster.com/), always a good start
 * [18F's in-house Content Guide](https://pages.18f.gov/content-guide/)
 * [MailChimp's Style Guide](http://styleguide.mailchimp.com/)
@@ -32,7 +32,7 @@ Although lots of folks default to a simple Google search and gone with the most 
 In general, the recommendation was to pick one authoritative style guide and stick to it. This can be a little tricky since there's a scarcity of up-to-date TechComm style guides to work with. (The [Microsoft Manual of Style](https://www.amazon.com/Microsoft-Manual-Style-4th-Corporation/dp/0735648719) got honorable mention, but the most recent edition is still 4 years old.) Non-technical style guides like the Associated Press or Chicago Manual of Style are even more fraught, since they tend to lag seriously behind on the current technical lexicon.
 
 If you're looking for more style guide resources:
-* Thursday Bram (@thursday) made her style guide template available on her blog:  [http://www.thursdaybram.com/download-my-in-house-style-guide-template-to-use-however-you-want]( http://www.thursdaybram.com/download-my-in-house-style-guide-template-to-use-however-you-want) It makes an _excellent_ starting point, if you're developing your own style guide.
+* Thursday Bram (@thursday) made her style guide template available on her blog:  [http://www.thursdaybram.com/download-my-in-house-style-guide-template-to-use-however-you-want]( http://www.thursdaybram.com/download-my-in-house-style-guide-template-to-use-however-you-want) It makes an _excellent_ starting point if you're developing your own style guide.
 * This forum post from last year also has some style guide suggestions for documentarians: [http://forum.writethedocs.org/t/style-guides-for-documentarians/112](http://forum.writethedocs.org/t/style-guides-for-documentarians/112)
 
 ## How do documentation and content strategy intersect?
@@ -47,15 +47,15 @@ The high-level takeaway was that the definition of 'Content Strategy' as a pract
 * Sales copy
 * Virtually any customer-facing content, in any context
 
-There was also a huge range in the types of job positions that were considered the responsible party, when it came to content strategy. Everything from the very on-the-nose 'Chief Content Officer' role, to it being something that sneaks onto a Product Manager's plate (sometimes while they're not looking). But one way or another, content strategy did seem to play a role in most people's documentation work, whether they are overtly responsible for it or not.
+There was also a huge range in the types of job positions that were considered the responsible party when it came to content strategy. Everything from the very on-the-nose 'Chief Content Officer' role to something that sneaks onto a Product Manager's plate (sometimes while they're not looking). But one way or another, content strategy did seem to play a role in most people's documentation work, whether they are overtly responsible for it or not.
 
 ## Doc-friendly toolchains and CMSs
 
 As we're all aware, tooling is a big deal. We all have specific needs to get our optimal workflows humming along, and those needs shift and evolve. Finding the ideal setup for getting your docs written and published takes time and effort (and funds). So, it was no surprise to see a discussion spark up around what kinds of doc tools are out there, and what you can (and can't) expect from them.
 
-The general consensus is that it's still quite a challenge to find a solution (or combination of solutions) that suits your requirements, workflow, and budget, out of the box. As a result, a lot of companies opt to build their own tools, in-house, instead of investing the time or money into bending one or more of the available tools to their will.
+The general consensus is that it's still quite a challenge to find a solution (or combination of solutions) that suits your requirements, workflow, and budget, out of the box. As a result, many companies opt to build their own tools, in-house, instead of investing the time or money into bending one or more of the available tools to their will.
 
-All of that said, there were a handful of solutions and platforms that were mentioned in the conversation, if you're looking to check out some of the options:
+All of that said, a handful of solutions and platforms were mentioned in the conversation, if you're looking to check out some of the options:
 * [Read the Docs](https://readthedocs.org/) – open source documentation hosting platform based on Sphinx
 * [Deconst](https://github.com/deconst/) – open source tool from Rackspace, based on RTD + support for Sphinx and Jekyll
 * [Contentful](https://www.contentful.com/) — developer-friendly, API-forward content management platform
@@ -65,7 +65,7 @@ All of that said, there were a handful of solutions and platforms that were ment
 
 ## Using abbreviations and acronyms in documentation
 
-What started out as a quick poll about how to abbreviate "input/output" – 'I/O' won handily over 'IO', 18:3 — quickly turned into a broader discussion about abbreviations in documentation on the whole. Here were some of the key questions and takeaways that emerged:
+What started as a quick poll about how to abbreviate "input/output" – 'I/O' won handily over 'IO', 18:3 — quickly turned into a broader discussion about abbreviations in documentation on the whole. Here were some of the key questions and takeaways that emerged:
 
 * **For common abbreviations and acronyms, are definitions necessary?** The consensus on this point seemed to be yes, a definition is needed, even for common abbreviations and acronyms. Folks leaned away from assuming that your readers are familiar with terminology and abbreviations. ("Assumption is the mother of all feckups," as one participant put it!) Basically, you never know who is reading your docs, so it's dangerous to assume that every reader will understand undefined abbreviations and acronyms.
 * **Does the intended audience affect whether you define abbreviations and acronyms?** Maybe you've heard something like "anyone ready to look at [X] documentation would already know what [Y] means." The general feeling on this point was that even if you think the audience knows what you do and understands the terminology, it's a mistake to disregard the readers who are new to the field or aren't as familiar.
@@ -76,7 +76,7 @@ There was also an entertaining discussion of how the "everyone knows THAT" persp
 
 ## Need more documentation goodness?
 
-For any of you who might have your eyes set on this year's [Linux.Conf.Au](https://linux.conf.au), there will be a one-day miniconf called 'Doc Down Under' the day before LCA kicks off. Their call for proposals is open right now, and is very relevant to Write the Docs' interests. So if you've been looking for an excuse to visit Hobart, Tasmania, in January, go [check out their CFP](https://linux.conf.au/schedule/presentation/3/)!
+For any of you who might have your eyes set on this year's [Linux.Conf.Au](https://linux.conf.au), there will be a one-day miniconf called 'Doc Down Under' the day before LCA kicks off. Their call for proposals is open right now and is very relevant to Write the Docs' interests. So if you've been looking for an excuse to visit Hobart, Tasmania in January, go [check out their CFP](https://linux.conf.au/schedule/presentation/3/)!
 
-Although our next Write the Docs conference doesn't come around til the spring, you can always check to see if there's a [Write the Docs meetup](http://www.writethedocs.org/meetups/) near you! (And if there's not, [think about starting one up](https://www.youtube.com/watch?v=ZwQ8Kd48d0w)!)
+Although our next Write the Docs conference doesn't come around 'til the spring, you can always check to see if there's a [Write the Docs meetup](http://www.writethedocs.org/meetups/) near you! (And if there's not, [think about starting one up](https://www.youtube.com/watch?v=ZwQ8Kd48d0w)!)
 
