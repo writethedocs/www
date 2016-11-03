@@ -6,7 +6,7 @@ A beginner's guide to writing documentation
           You can view the source on `GitHub`_.
 
 .. _@ericholscher: http://twitter.com/ericholscher
-.. _GitHub: https://github.com/writethedocs/docs/blob/master/docs/writing/beginners-guide-to-docs.rst
+.. _GitHub: https://github.com/writethedocs/www/blob/master/docs/guide/writing/beginners-guide-to-docs.rst
 		
 .. 
 
