@@ -11,7 +11,7 @@
 
 Hello, Write the Docs! Let me tell ya, it's been a jam-packed month for interesting conversations in the community. It's been really exciting to see so much activity and engagement on the Slack channel. It's even got us thinking about bumping the frequency of these dispatches up to twice a month, just so we can include more good stuff.
 
-But that's a decision for the future. For right now, we have an exciting milestone to celebrate: **The Write The Docs Slack community officially cleared 1000 members last week!!** Considering it's only been around since the 2014 North American conference, that's not too shabby! Thanks to all of you for making the Write the Docs Slack such an inquisitive, creative, supportive place to hang out.
+But that's a decision for the future. For right now, we have an exciting milestone to celebrate: **The Write the Docs Slack community officially cleared 1000 members last week!!** Considering it's only been around since the 2014 North American conference, that's not too shabby! Thanks to all of you for making the Write the Docs Slack such an inquisitive, creative, supportive place to hang out.
 
 (If you haven't joined us on Slack yet, we'd love to have you. [Just click here.](http://slack.writethedocs.org/))
 
@@ -21,7 +21,7 @@ _NOTE: Remember,  we'll be keeping an eye on the #general channel for newsletter
 
 ## A quick guide to style guides
 
-One of the perks of the Write The Docs community is having a group of people available to help figure out tricky style questions, when we run into them. This month, one such query led to a big discussion about what style and usage resources people use when they run into questions.
+One of the perks of the Write the Docs community is having a group of people available to help figure out tricky style questions, when we run into them. This month, one such query led to a big discussion about what style and usage resources people use when they run into questions.
 
 Although lots of folks default to a simple Google search and gone with the most common usage, there were some other suggestions for good places to start:
 * [Merriam-Webster Dictionary](http://www.merriam-webster.com/), always a good start
@@ -76,7 +76,7 @@ There was also an entertaining discussion of how the "everyone knows THAT" persp
 
 ## Need more documentation goodness?
 
-For any of you who might have your eyes set on this year's [Linux.Conf.Au](https://linux.conf.au), there will be a one-day miniconf called 'Doc Down Under' the day before LCA kicks off. Their call for proposals is open right now, and is very relevant to Write The Docs' interests. So if you've been looking for an excuse to visit Hobart, Tasmania, in January, go [check out their CFP](https://linux.conf.au/schedule/presentation/3/)!
+For any of you who might have your eyes set on this year's [Linux.Conf.Au](https://linux.conf.au), there will be a one-day miniconf called 'Doc Down Under' the day before LCA kicks off. Their call for proposals is open right now, and is very relevant to Write the Docs' interests. So if you've been looking for an excuse to visit Hobart, Tasmania, in January, go [check out their CFP](https://linux.conf.au/schedule/presentation/3/)!
 
-Although our next Write The Docs conference doesn't come around til the spring, you can always check to see if there's a [Write the Docs meetup](http://www.writethedocs.org/meetups/) near you! (And if there's not, [think about starting one up](https://www.youtube.com/watch?v=ZwQ8Kd48d0w)!)
+Although our next Write the Docs conference doesn't come around til the spring, you can always check to see if there's a [Write the Docs meetup](http://www.writethedocs.org/meetups/) near you! (And if there's not, [think about starting one up](https://www.youtube.com/watch?v=ZwQ8Kd48d0w)!)
 
