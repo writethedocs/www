@@ -56,7 +56,7 @@ As we're all aware, tooling is a big deal. We all have specific needs to get our
 The general consensus is that it's still quite a challenge to find a solution (or combination of solutions) that suits your requirements, workflow, and budget, out of the box. As a result, a lot of companies opt to build their own tools, in-house, instead of investing the time or money into bending one or more of the available tools to their will.
 
 All of that said, there were a handful of solutions and platforms that were mentioned in the conversation, if you're looking to check out some of the options:
-* [Read the Docs](https://readthedocs.org/) – open source documentation hosting platform
+* [Read the Docs](https://readthedocs.org/) – open source documentation hosting platform based on Sphinx
 * [Deconst](https://github.com/deconst/) – open source tool from Rackspace, based on RTD + support for Sphinx and Jekyll
 * [Contentful](https://www.contentful.com/) — developer-friendly, API-forward content management platform
 * [Forestry](https://forestry.io/) – builds a CMS from a repo of your Jekyll or Hugo project
