@@ -3,7 +3,7 @@ Write the Docs NYC
 
 ## About Us
 
-<img src="../_images/writethedocsnyc-logo.png" style="margin:0 0 20px 20px;width:200px;max-width:100%;float:right;" alt="Write the Docs NYC Logo" />
+<img src="/_static/_images/writethedocsnyc-logo.png" style="margin:0 0 20px 20px;width:200px;max-width:100%;float:right;" alt="Write the Docs NYC Logo" />
 
 We are people who care about making the reader experience awesome by delivering excellent documentation. We're writers, developers, designers, learning professionals, and documentation enthusiasts. Come to our meetup and strategize how to make documentation great, enjoy a beverage and refreshments, and meet fellow people who care about documentation in and around NYC.
 
