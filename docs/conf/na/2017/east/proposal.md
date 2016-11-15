@@ -113,7 +113,7 @@ If Write the Docs chooses your group's proposal, your group is responsible for p
 
 ### Examples
 
-This is our first year trying to do conference propsoals,
+This is our first year trying to do conference proposals,
 so we don't have a history of Write the Docs proposals.
 However,
 here are a couple other interesting proposals that you can look at for inspiration:
