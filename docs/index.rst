@@ -51,6 +51,16 @@ Meetups
 We have meetups in multiple cities every month. 
 The :doc:`/meetups/index` page has more information.
 
+Slack
+~~~~~
+
+You can join us on the :doc:`/slack` for real-time discussion and to keep in touch with folks from the community.
+
+Slack conversations aren't archived, so we recommend either putting substantial items of interest on the forum, 
+or moving them there if they develop into something bigger.
+
+Learn more about our :doc:`/slack`.
+
 Forum
 ~~~~~
 
@@ -61,19 +71,11 @@ The forum is the place to start discussions that we should keep around for a whi
 starts to get a lot of attention and seems like something of permanent interest, we suggest that you move it 
 over to the forum.
 
-Slack
-~~~~~
-
-You can join us on `Slack <http://slack.writethedocs.org>`_ to have real-time discussion and keep in touch with folks.
-
-Slack conversations aren't archived, so we recommend either putting substantial items of interest on the forum, 
-or moving them there if they develop into something bigger.
-
 Contact Us
 ----------
 
-Have any questions, concerns, or comments about our work? Feel free to
-reach out at conf@writethedocs.org.
+Have any questions, concerns, or comments about our work?
+Feel free to reach out at conf@writethedocs.org.
 
 Useful Pages
 ------------
@@ -84,6 +86,7 @@ Useful Pages
 
    conf/index
    meetups/index
+   slack
    videos
    team
    blog/index
