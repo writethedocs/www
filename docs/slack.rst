@@ -16,7 +16,7 @@ Default channels
 
 * #general - The main channel for random conversation
 * #jobs - Posting or asking for jobs
-* #conferences - Questions and other thoughts around the :doc:`/conf`
+* #conferences - Questions and other thoughts around the :doc:`/conf/index`
 * #meetups - Questions and other thoughts about our :doc:`/meetups/index`
 * #watercooler - For anything that you randomly want to talk about. Feel free to express yourself :)
 
