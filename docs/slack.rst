@@ -16,8 +16,8 @@ Default channels
 
 * #general - The main channel for random conversation
 * #jobs - Posting or asking for jobs
-* #conferences - Questions and other thoughts around the :doc:`Write the Docs Conferences </conferences/>`
-* #meetups - Questions and other thoughts about :doc:`Write the Docs Meetups </meetups>`
+* #conferences - Questions and other thoughts around the :doc:`Write the Docs Conferences </conf>`
+* #meetups - Questions and other thoughts about :doc:`Write the Docs Meetups </meetups/index>`
 * #watercooler - For anything that you randomly want to talk about. Feel free to express yourself :)
 
 Other useful topical channels
