@@ -14,18 +14,21 @@ You can `join our Slack <http://slack.writethedocs.org/>`_ if you aren't already
 Default channels
 ----------------
 
-* #general - The main channel for random conversation
-* #jobs - Posting or asking for jobs
-* #conferences - Questions and other thoughts around the :doc:`/conf/index`
-* #meetups - Questions and other thoughts about our :doc:`/meetups/index`
-* #watercooler - For anything that you randomly want to talk about. Feel free to express yourself :)
+* **#general** - The main channel for random conversation
+* **#jobs** - Posting or asking for jobs
+* **#conferences** - Questions and other thoughts around the :doc:`/conf/index`
+* **#meetups** - Questions and other thoughts about our :doc:`/meetups/index`
+* **#watercooler** - For talking about things that are off-topic. Get to know folks other interests that aren't around documentation :)
+
 
 Other useful topical channels
 -----------------------------
 
-* #markup-the-docs - Talk about markup languages. Markdown, rST, Asciidoc, etc.
-* #documenting-apis - Talk about REST API's. Swagger, GET, POST, etc.
-* #sphinx - Talk about the Sphinx documentation generation tool
+* **#markup-the-docs** - Talk about markup languages. Markdown, rST, Asciidoc, etc.
+* **#documenting-apis** - Talk about REST API's. Swagger, GET, POST, etc.
+* **#sphinx** - Talk about the Sphinx documentation generation tool
+* **#flare** - Talk about the Flare documentation toolkit
+* **#confluence** - Talk about everyone's favorite Wiki 
 
 Lots of location-based channels
 -------------------------------
