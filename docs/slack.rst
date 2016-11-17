@@ -31,7 +31,7 @@ Other useful topical channels
 -----------------------------
 
 * **#markup-the-docs** - Talk about markup languages. Markdown, rST, Asciidoc, etc.
-* **#documenting-apis** - Talk about REST API's. Swagger, GET, POST, etc.
+* **#documenting-apis** - Talk about REST API's. Swagger, Apiary, API Blueprint, and other API doc tools.
 * **#sphinx** - Talk about the Sphinx documentation generation tool
 * **#flare** - Talk about the Flare documentation toolkit
 * **#confluence** - Talk about everyone's favorite Wiki 
