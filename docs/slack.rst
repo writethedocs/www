@@ -20,7 +20,7 @@ Default channels
 
 Everyone who joins the Slack will be added to these channels
 
-* **#general** - The main channel for random conversation
+* **#general** - The main channel for documentation related conversation and questions
 * **#watercooler** - For talking about things that are off-topic. Get to know folks other interests that aren't around documentation :)
 * **#jobs** - Posting or asking for jobs
 * **#conferences** - Questions and other thoughts around the :doc:`/conf/index`
