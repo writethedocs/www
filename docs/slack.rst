@@ -1,7 +1,7 @@
 Write the Docs Slack
 ====================
 
-Our Slack channel has a bunch of interesting folks hanging out and chatting about documentation.
+Our Slack network has a bunch of interesting folks hanging out and chatting about documentation.
 It's the best way to connect with our community,
 and to stay in touch with folks you've met at our conferences and meetups.
 

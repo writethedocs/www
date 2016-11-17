@@ -54,7 +54,7 @@ The :doc:`/meetups/index` page has more information.
 Slack
 ~~~~~
 
-You can join us on `Slack <http://slack.writethedocs.org>`_ to have real-time discussion and keep in touch with folks.
+You can join us on the :doc:`/slack` for real-time discussion and to keep in touch with folks from the community.
 
 Slack conversations aren't archived, so we recommend either putting substantial items of interest on the forum, 
 or moving them there if they develop into something bigger.
