@@ -1,5 +1,5 @@
-Write the Docs Slack
-====================
+Slack
+=====
 
 Our Slack network has a bunch of interesting folks hanging out and chatting about documentation.
 It's the best way to connect with our community,
