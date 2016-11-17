@@ -15,10 +15,10 @@ Default channels
 ----------------
 
 * **#general** - The main channel for random conversation
+* **#watercooler** - For talking about things that are off-topic. Get to know folks other interests that aren't around documentation :)
 * **#jobs** - Posting or asking for jobs
 * **#conferences** - Questions and other thoughts around the :doc:`/conf/index`
 * **#meetups** - Questions and other thoughts about our :doc:`/meetups/index`
-* **#watercooler** - For talking about things that are off-topic. Get to know folks other interests that aren't around documentation :)
 
 
 Other useful topical channels
