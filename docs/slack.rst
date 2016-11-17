@@ -11,8 +11,14 @@ and get you connected with folks who have similar interests.
 
 You can `join our Slack <http://slack.writethedocs.org/>`_ if you aren't already a member.
 
+.. note:: Feel free to send a Pull Request to update `this page`_, if you want to include more other channels.
+
+.. _this page: https://github.com/writethedocs/www/blob/master/docs/slack.rst
+
 Default channels
 ----------------
+
+Everyone who joins the Slack will be added to these channels
 
 * **#general** - The main channel for random conversation
 * **#watercooler** - For talking about things that are off-topic. Get to know folks other interests that aren't around documentation :)
@@ -30,10 +36,11 @@ Other useful topical channels
 * **#flare** - Talk about the Flare documentation toolkit
 * **#confluence** - Talk about everyone's favorite Wiki 
 
-Lots of location-based channels
--------------------------------
+Location-based channels
+-----------------------
 
 We have too many location-based channels to list.
 Chances are we have a large group of folks in your neck of the woods,
 so join up and chat with them.
 They're a great way to get in touch with your local meetup organizer and community.
+
