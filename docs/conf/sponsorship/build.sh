@@ -1,1 +1,1 @@
-rst2pdf prospectus.rst > prospectus.pdf
+rst2pdf -s a4,serif prospectus.rst > prospectus.pdf

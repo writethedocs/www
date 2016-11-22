@@ -1,36 +1,20 @@
-Write the Docs Europe 2016
-##########################
+Write the Docs 2017
+####################
 
-Prague, Czech Republic
-######################
-
-September 18-20, 2016
-#####################
+Sponsorship
+###########
 
 .. raw:: pdf
 
    PageBreak
 
-Write the Docs Sponsorship
+Concept
 ==========================
 
 Write the Docs
 (`*http://www.writethedocs.org/* <http://www.writethedocs.org/>`__) is a
 **two day conference** focusing on documentation systems, tech writing
-theory, and information delivery. Our second yearly event was held last
-year in Prague, Czech Republic and it was met with rave reviews. We are
-excited to hold our **third annual conference** this year!
-
-There will be **250 attendees** from across Europe and overseas.
-
-**Sponsorships are limited**. Since this is a community event, the only
-purpose of the sponsorship funds is to fund travel expenses for the
-speakers, fund financial aid, and to provide an amazing educational and
-fun experience for the attendees. As soon as these needs are met, we
-will not accept any more sponsorship proposals.
-
-Concept 
---------
+theory, and information delivery.
 
 Writing and maintaining documentation involves a multidisciplinary
 community of technical writers, designers, typesetters, developers,
@@ -51,17 +35,23 @@ experience again this year, and make it better than ever.
 Demographics
 ------------
 
+We hold two conferences yearly, one in Portland, USA in the spring, and one in
+Europe, currently Prague, in autumn. Attendence is approximately 400 in the USA
+and 300 in Europe, and we expect both conferences to sell out.
+
 Our audience is made up of:
 
--  Technical Writers (40% in 2015)
+-  Technical Writers (40%)
 
--  Developers (22% in 2015)
+-  Developers (22%)
 
--  Support Staff (15% in 2015)
+-  Support Staff (15%)
 
--  Managers (12% in 2015)
+-  Managers (12%)
 
--  Community Contributors, Enthusiasts & Other Folks (11% in 2015)
+-  Community Contributors, Enthusiasts & Other Folks (11%)
+
+Attendence for
 
 .. raw:: pdf
 
@@ -71,21 +61,10 @@ Sponsorship Packages
 ====================
 
 The following options are meant to serve as recommended sponsorship
-packages. We can be flexible to work around any budget or preference,
-just let us know what would work for you. We’re a small conference and
-are happy to be flexible.
+packages. We are happy to discuss adjustments and custom packages.
 
-Community Member (€500)
------------------------
 
-The **Community Member** package is affordable enough for any
-organization to show your support of Write the Docs:
-
--  One (1) ticket
-
--  Small logo & link on the Write the Docs website
-
-First Draft (€1,500)
+First Draft (TODO)
 --------------------
 
 The **First Draft** package is great for sending a few members of your
@@ -100,32 +79,11 @@ team:
 -  Display 1 promotional (“Swag”) item at the conference (provided by
        sponsor)
 
--  Mention & logo of company on slide deck during conference as a
-       sponsor
 
-Editor (€2,500)
----------------
-
-The **Editor** package is great for companies looking to hire or promote
-a product:
-
--  Three (3) tickets
-
--  Medium logo & link on the Write the Docs website
-
--  Name included in press release and event mailings
-
--  Display 2 promotional (“Swag”) items at the conference (provided by
-       sponsor)
-
--  Address audience during a break (30 seconds)
-
--  Printed job ad on conference job board
-
-Publisher (€5,000) (Limit 2)
+Second Draft (TODO)
 ----------------------------
 
-The **Publisher** package is great for sending a large team and letting
+The **Second Draft** package is great for sending a large team and letting
 the community get to know more about your company and products:
 
 -  Five (5) tickets
@@ -134,27 +92,13 @@ the community get to know more about your company and products:
 
 -  Name included in press release and event mailings
 
--  Display 3 promotional (“Swag”) items at the conference (provided by
+-  Display 1 promotional (“Swag”) items at the conference (provided by
        sponsor)
 
--  Banner in main conference room (12x2 max size, provided by sponsor)
-
--  Address audience during a break (60 seconds)
-
--  Printed job ad on conference job board, and inclusion of job in an
-       email to attendees
-
--  Sponsor space in the main conference venue. Think of something
-       interactive and fun, not just a booth.
-
--  Small logo on every conference video
-
--  Host a sponsored workshop or Writing Day session
-
-Patron (€8,000) (Limit 1)
+Publisher (TODO) (Limit 1)
 -------------------------
 
-The **Patron** package will highlight you as a force in the industry and
+The **Publisher** package highlights your company as a force in the industry and
 community:
 
 -  Eight (8) tickets
@@ -163,23 +107,8 @@ community:
 
 -  Name included in press release and event mailings
 
--  Display unlimited promotional (“Swag”) items
-
--  Address audience during a sponsorship lightning talk (5 minutes)
-
--  Printed job ads on conference job board, and inclusion of job in an
-       email to attendees
-
--  Get a sponsored installation in the main conference venue. Think of
-       something interactive and fun, not just a booth.
-
--  Large logo on every conference video
-
--  Host a sponsored workshop or Writing Day session
-
--  Logo included on main conference stage
-
--  Space for copy in welcome/goodbye emails to attendees
+-  Display 1 promotional (“Swag”) items at the conference (provided by
+       sponsor)
 
 .. raw:: pdf
 
@@ -198,25 +127,20 @@ Write the Docs is always trying to make our community bigger and more
 inclusive. Talk to us about sponsoring travel and/or registration
 expenses for an attendee who wouldn’t otherwise be able to attend.
 
-
-Lanyard (€2,500)
+Lanyard
 ----------------
 
-Have your branded lanyard at the conference. Sponsor must provide
-lanyards with company logo.
+Provide your branded lanyard for our name tags.
 
-Writing Day (€3,000)
+Writing Day
 --------------------
 
 Sponsor the Writing Day on Sunday, where we get together to help improve
-documentation of lots of projects. This includes:
+documentation of lots of projects.
 
--  Signage around the Writing Day venue thanking you for the food &
-       venue
+-  Host a sponsored workshop or Writing Day session
 
--  Special mentions by conference organizers throughout the conference
-
-Party (€3,500)
+Party
 --------------
 
 Sponsoring the party will bring joy to all the attendees, and provide a
@@ -252,7 +176,7 @@ something new!
 
    PageBreak
 
-Inquiries 
+Inquiries
 ----------
 
 Please direct all inquiries to **Adrienne Lowe**:
