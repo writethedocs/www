@@ -28,7 +28,7 @@ and science of documentation.
 For too long, people who care about documentation have felt alone in the
 world, not able to connect with their community. Write the Docs is a
 magical experience for many of our attendees, allowing them to feel like
-they have found their place in the world. We believe this is the most
+they have found their place. We believe this is the most
 important thing that our event can do, and we aim to provide that
 experience again this year, and make it better than ever.
 
@@ -51,8 +51,6 @@ Our audience is made up of:
 
 -  Community Contributors, Enthusiasts & Other Folks (11%)
 
-Attendence for
-
 .. raw:: pdf
 
    PageBreak
@@ -60,9 +58,11 @@ Attendence for
 Sponsorship Packages
 ====================
 
-The following options are meant to serve as recommended sponsorship
-packages. We are happy to discuss adjustments and custom packages.
+The following options are suggested sponsorship levels. We are happy to discuss
+adjustments and custom packages.
 
+Each of these packages applies to *one* conference, either USA or Europe. Ask us
+about discounts packages for sponsoring both conferences.
 
 First Draft (TODO)
 --------------------
@@ -103,7 +103,7 @@ community:
 
 -  Eight (8) tickets
 
--  Full Width logo & link on the Write the Docs website
+-  Full size logo & link on the Write the Docs website
 
 -  Name included in press release and event mailings
 
@@ -118,7 +118,7 @@ Other Sponsorship Opportunities
 ===============================
 
 The following à la carte offerings are available to increase visibility
-onsite.
+at the event.
 
 Financial Aid Sponsorships
 --------------------------
@@ -135,17 +135,16 @@ Provide your branded lanyard for our name tags.
 Writing Day
 --------------------
 
-Sponsor the Writing Day on Sunday, where we get together to help improve
-documentation of lots of projects.
+Sponsor the Writing Day on Sunday, where we get together to help improve the
+documentation of many projects.
 
 -  Host a sponsored workshop or Writing Day session
 
 Party
 --------------
 
-Sponsoring the party will bring joy to all the attendees, and provide a
-great venue for folks to get to know each other. This sponsorship
-includes:
+We all know that some of the most valuable networking takes place after hours.
+Sponsorship of the official party includes:
 
 -  Mention of company on schedule for the party, and an in-person thanks
 
@@ -193,7 +192,5 @@ of each package.
 Payment
 -------
 
-We expect all invoices to be paid **within 21 days of receipt**. We are
-a conference, and many of our expenses must be paid up front. We will
-not provide any benefits until the invoice is paid, including
-announcement of the sponsorship, or a logo on the event website.
+We expect all invoices to be paid **within 21 days of receipt**, as many of our
+expenses must be paid up front.
