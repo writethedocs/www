@@ -1,98 +1,98 @@
 [
     {
-        "Time": "9:00",
+        "Time": "9:00", 
         "Session": "Doors Open, Breakfast Served"
-    },
+    }, 
     {
-        "Time": "10:00",
+        "Time": "10:00", 
         "Session": "Intro"
-    },
+    }, 
     {
-        "Time": "10:20",
+        "Time": "10:20", 
         "Session": "Switch Speakers"
-    },
+    }, 
     {
-        "Time": "10:30",
+        "Time": "10:30", 
         "Session": "Paul Adams - Postulating The Backlog Laxative"
-    },
+    }, 
     {
-        "Time": "11:00",
+        "Time": "11:00", 
         "Session": "Switch Speakers"
-    },
+    }, 
     {
-        "Time": "11:10",
+        "Time": "11:10", 
         "Session": "István Zoltán Szabó - Writing as a non-native speaker"
-    },
+    }, 
     {
-        "Time": "11:40",
+        "Time": "11:40", 
         "Session": "Snack break"
-    },
+    }, 
     {
-        "Time": "12:00",
+        "Time": "12:00", 
         "Session": "Erik Romijn - Healthy Minds in a Healthy Community"
-    },
+    }, 
     {
-        "Time": "12:45",
+        "Time": "12:45", 
         "Session": "Lunch"
-    },
+    }, 
     {
-        "Time": "13:45",
+        "Time": "13:45", 
         "Session": "Lightning Talks"
-    },
+    }, 
     {
-        "Time": "14:15",
+        "Time": "14:15", 
         "Session": "Switch Speakers"
-    },
+    }, 
     {
-        "Time": "14:25",
-        "Session": "joan wendt - Operations Technical Writing for Data Centers"
-    },
+        "Time": "14:25", 
+        "Session": "Riona MacNamara - As Good As It Gets: Why Better Trumps Best"
+    }, 
     {
-        "Time": "14:55",
+        "Time": "14:55", 
         "Session": "Switch Speakers"
-    },
+    }, 
     {
-        "Time": "15:05",
+        "Time": "15:05", 
         "Session": "Sarah Karp - Watch that tone! Creating an information experience in the Atlassian voice"
-    },
+    }, 
     {
-        "Time": "15:35",
+        "Time": "15:35", 
         "Session": "Snack break"
-    },
+    }, 
     {
-        "Time": "15:55",
+        "Time": "15:55", 
         "Session": "Swapnil Ogale - When bad screenshots happen to good writers"
-    },
+    }, 
     {
-        "Time": "16:10",
+        "Time": "16:10", 
         "Session": "Switch Speakers"
-    },
+    }, 
     {
-        "Time": "16:15",
+        "Time": "16:15", 
         "Session": "Rory Tanner - Information micro-architecture: grammar, syntax, and cognitive rhetoric"
-    },
+    }, 
     {
-        "Time": "16:30",
+        "Time": "16:30", 
         "Session": "Switch Speakers"
-    },
+    }, 
     {
-        "Time": "16:35",
+        "Time": "16:35", 
         "Session": "Chris Ward - Beyond Software - Learning from Other Technical Writers"
-    },
+    }, 
     {
-        "Time": "16:50",
+        "Time": "16:50", 
         "Session": "Switch Speakers"
-    },
+    }, 
     {
-        "Time": "17:00",
+        "Time": "17:00", 
         "Session": "David Oliver - Documentoring: Growing a \"Love The Docs\" community"
-    },
+    }, 
     {
-        "Time": "17:30",
+        "Time": "17:30", 
         "Session": "Group Photo"
-    },
+    }, 
     {
-        "Time": "17:40",
+        "Time": "17:40", 
         "Session": "Day 1 wraps up"
     }
 ]

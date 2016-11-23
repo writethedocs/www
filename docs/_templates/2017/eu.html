@@ -1,0 +1,59 @@
+{% extends "conf-base.html" %}
+
+
+{% block head_link %}
+    <!-- Open Graph protocol -->
+    <meta property="og:image" content="http://www.writethedocs.org/img/2016/site-logo.png">
+    <meta property="og:title" content="A two day conference for technical writers, documentarians, and all those who write the docs.">
+    <meta property="og:type" content="conference">
+    <meta property="og:url" content="http://www.writethedocs.org/conf/eu/2016/">
+    <meta property="og:site_name" content="Write the Docs">
+    <!-- /Open Graph protocol -->
+
+    <!-- Google Plus1 -->
+    <meta itemprop="name" content="Write the Docs">
+    <meta itemprop="description" content="A two day conference for technical writers, documentarians, and all those who write the docs.">
+    <meta itemprop="image" content="http://www.writethedocs.org/img/2016/site-logo.png">
+    <!-- /Google Plus1 -->
+
+  <title>{% if title %}{{ title }} - {% endif %}Write the Docs Europe 2016</title>
+
+  {{ super() }}
+  <link href="{{ pathto('_static/css/2016.main.css', 1) }}" rel="stylesheet" />
+  <script src='https://js.tito.io/v1' async></script>
+{% endblock %}
+
+{% block container %}
+  <div class="hero hero-conf">
+    <div class="hero-logo">
+      <a href="/conf/eu/2016/">
+        <img src="{{ pathto('_static/img/2016/site-logo.png', 1) }}" />
+      </a>
+    </div>
+    <div class="hero-nav">
+      <ul class="nav">
+        <li><a href="{{ pathto('conf/eu/2016/visiting') }}">Visiting</a></li>
+        <li><a href="{{ pathto('conf/eu/2016/speakers') }}">Speakers</a></li>
+        <li><a href="{{ pathto('conf/eu/2016/schedule') }}">Schedule</a></li>
+        <li><a href="{{ pathto('conf/eu/2016/index').replace('#', '') }}#contact-us">Contact</a></li>
+        <li><a href="{{ pathto('conf/eu/2016/index').replace('#', '') }}#sponsors">Sponsors</a></li>
+      </ul>
+      <ul class="nav">
+        <!-- <li class="highlight"><a href="{{ pathto('conf/eu/2016/index').replace('#', '') }}#tickets">Purchase Tickets</a></li> -->
+      </ul>
+      <p class="info">
+        September 18 - 20 in Prague, Czech Republic
+      </p>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-content">
+        {% block body %}
+          {{ body }}
+        {% endblock body %}
+      </div>
+    </div>
+  </div>
+{% endblock %}
