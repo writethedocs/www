@@ -51,3 +51,9 @@ travel costs,
 etc.
 If you want an event like `Write the Docs <http://www.writethedocs.org>`_,
 send us an email and/or meet us at one of the events. 
+
+
+Credits
+-------
+
+This document was heavily inspired by the `JSConf <http://jsconf.com/i-want-to-run-a-jsconf.html>`_ version of the same.
