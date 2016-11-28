@@ -3,46 +3,30 @@
 
 {% block head_link %}
     <!-- Open Graph protocol -->
-    <meta property="og:image" content="http://www.writethedocs.org/img/2016/site-logo.png">
-    <meta property="og:title" content="A two day conference for technical writers, documentarians, and all those who write the docs.">
+    <meta property="og:image" content="http://www.writethedocs.org/img/2017/site-logo.png">
+    <meta property="og:title" content="A three day conference for technical writers, documentarians, and all those who write the docs.">
     <meta property="og:type" content="conference">
-    <meta property="og:url" content="http://www.writethedocs.org/conf/na/2016/">
+    <meta property="og:url" content="http://www.writethedocs.org/conf/na/2017/">
     <meta property="og:site_name" content="Write the Docs">
     <!-- /Open Graph protocol -->
 
-    <!-- Google Plus1 -->
-    <meta itemprop="name" content="Write the Docs">
-    <meta itemprop="description" content="A two day conference for technical writers, documentarians, and all those who write the docs.">
-    <meta itemprop="image" content="http://www.writethedocs.org/img/2016/site-logo.png">
-    <!-- /Google Plus1 -->
-
-  <title>{% if title %}{{ title }} - {% endif %}Write the Docs North America 2016</title>
+  <title>{% if title %}{{ title }} - {% endif %}Write the Docs Portland 2017</title>
 
   {{ super() }}
-  <link href="{{ pathto('_static/css/2016.main.css', 1) }}" rel="stylesheet" />
+  <link href="{{ pathto('_static/css/2017.main.css', 1) }}" rel="stylesheet" />
   <script src='https://js.tito.io/v1' async></script>
 {% endblock %}
 
 {% block container %}
   <div class="hero hero-conf">
     <div class="hero-logo">
-      <a href="/conf/na/2016/">
-        <img src="{{ pathto('_static/img/2016/site-logo.png', 1) }}" />
+      <a href="/conf/na/2017/">
+        <img src="{{ pathto('_static/img/2017/site-logo.png', 1) }}" />
       </a>
     </div>
     <div class="hero-nav">
-      <ul class="nav">
-        <!-- <li><a href="{{ pathto('conf/na/2016/index') }}#tickets">Tickets</a></li> -->
-        <li><a href="{{ pathto('conf/na/2016/schedule') }}">Schedule</a></li>
-        <li><a href="{{ pathto('conf/na/2016/speakers') }}">Speakers</a></li>
-        <li><a href="{{ pathto('conf/na/2016/visiting') }}">Visiting</a></li>
-        <!-- <li><a href="{{ pathto('conf/na/2016/index').replace('#', '') }}#contact-us">Contact</a></li> -->
-        <li><a href="{{ pathto('conf/na/2016/index').replace('#', '') }}#sponsors">Sponsors</a></li>
-      </ul>
-      <ul class="nav">
-      </ul>
       <p class="info">
-        May 22 - 24, 2016 in Portland, Oregon
+        May 14 - 16, 2017 in Portland, Oregon
       </p>
     </div>
   </div>

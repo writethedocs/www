@@ -1,0 +1,127 @@
+/* Write the Docs - 2016 */
+
+body {
+    background-color: #f2f0eb;
+}
+
+/* Nav */
+div.navbar,
+nav.navbar {
+    margin-bottom: 0px;
+}
+
+div.navbar > div.container {
+    width: 700px ;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Hero */
+div.hero div.row.row-logo {
+    padding: 0em;
+}
+
+div.hero div.hero-logo {
+    /*background: #232321;*/
+    /*color: #f2f0eb;*/
+    vertical-align: center;
+    text-align: center;
+}
+
+div.hero div.hero-nav {
+    text-align: left;
+}
+
+div.hero img {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 100%;
+}
+
+@media only screen and (min-width : 300px) {
+    div.hero div.hero-logo {
+        text-align: right;
+        padding-right: 10%;
+    }
+
+    div.hero img {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        height: 300px;
+        width: auto;
+    }
+}
+
+@media only screen and (min-width : 768px) {
+    div.hero div.hero-logo {
+        float: left;
+        width: 45%;
+        padding-right: 0em;
+    }
+
+    div.hero div.hero-nav {
+        float: left;
+        width: 55%;
+    }
+}
+
+div.hero-nav {
+    padding: 50px 40px 20px 40px;
+    font-size: 1.3em;
+    font-weight: 100;
+    text-transform: uppercase;
+    color: #232321;
+}
+
+div.hero-nav a {
+    padding: 0em .5em;
+    display: inline-block;
+}
+
+div.hero-nav a:link,
+div.hero-nav a:visited {
+    color: #232321;
+}
+
+div.hero-nav a:hover,
+div.hero-nav a:active {
+    color: #ae5739;
+}
+
+div.hero-nav ul {
+    margin-top: .3em;
+}
+
+div.hero-nav li.highlight a {
+    margin: .2em 0em;
+    font-weight: bold;
+    border-radius: .2em;
+}
+
+div.hero-nav li.highlight a:link,
+div.hero-nav li.highlight a:visited {
+    background-color: #ae5739;
+    color: #ffffef;
+}
+
+div.hero-nav li.highlight a:hover,
+div.hero-nav li.highlight a:active {
+    background-color: #be6749;
+    color: #ffffef;
+}
+
+div.hero-nav p.info {
+    padding-top: 1em;
+    font-size: 1em;
+}
+
+/* Sponsors */
+div.col-sponsors {
+    padding-top: 0em;
+}
+
+@media (min-width: 768px) {
+    div.col-sponsors {
+        padding-top: 2em;
+    }
+}
