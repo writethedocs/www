@@ -35,7 +35,7 @@ endobj
   /Type /Page >>
 endobj
 11 0 obj
-<< /A << /S /URI /Type /Action /URI (mailto:sponsorship@writethedocs.org) >> /Border [ 0 0 0 ] /Rect [ 85.69291 711.7736 209.6129 723.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (mailto:sponsorship@writethedocs.org) >> /Border [ 0 0 0 ] /Rect [ 85.69291 708.7736 209.6129 720.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 12 0 obj
 << /Annots [ 11 0 R ] /Contents 39 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 34 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
@@ -45,7 +45,7 @@ endobj
 << /Outlines 15 0 R /PageLabels 40 0 R /PageMode /UseNone /Pages 34 0 R /Type /Catalog >>
 endobj
 14 0 obj
-<< /Author () /CreationDate (D:20161129215838-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161129215838-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20161129220343-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161129220343-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title () /Trapped /False >>
 endobj
 15 0 obj
@@ -55,7 +55,7 @@ endobj
 << /Dest [ 4 0 R /XYZ 62.69291 765.0236 0 ] /Next 17 0 R /Parent 15 0 R /Title (Write the Docs 2017) >>
 endobj
 17 0 obj
-<< /Count 16 /Dest [ 4 0 R /XYZ 62.69291 732.0236 0 ] /First 18 0 R /Last 25 0 R /Parent 15 0 R /Prev 16 0 R 
+<< /Count 16 /Dest [ 4 0 R /XYZ 62.69291 732.0236 0 ] /First 18 0 R /Last 33 0 R /Parent 15 0 R /Prev 16 0 R 
   /Title (Sponsorship) >>
 endobj
 18 0 obj
@@ -65,24 +65,24 @@ endobj
 << /Dest [ 6 0 R /XYZ 62.69291 579.0236 0 ] /Next 20 0 R /Parent 17 0 R /Prev 18 0 R /Title (Demographics) >>
 endobj
 20 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 765.0236 0 ] /Next 21 0 R /Parent 17 0 R /Prev 19 0 R /Title (Why Sponsor) >>
+<< /Dest [ 6 0 R /XYZ 62.69291 411.0236 0 ] /Next 21 0 R /Parent 17 0 R /Prev 19 0 R /Title (Why Sponsor) >>
 endobj
 21 0 obj
-<< /Count 3 /Dest [ 9 0 R /XYZ 62.69291 639.0236 0 ] /First 22 0 R /Last 24 0 R /Next 25 0 R /Parent 17 0 R 
+<< /Count 3 /Dest [ 9 0 R /XYZ 62.69291 765.0236 0 ] /First 22 0 R /Last 24 0 R /Next 25 0 R /Parent 17 0 R 
   /Prev 20 0 R /Title (Sponsorship Packages) >>
 endobj
 22 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 561.0236 0 ] /Next 23 0 R /Parent 21 0 R /Title (First Draft) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 687.0236 0 ] /Next 23 0 R /Parent 21 0 R /Title (First Draft) >>
 endobj
 23 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 411.0236 0 ] /Next 24 0 R /Parent 21 0 R /Prev 22 0 R /Title (Second Draft) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 537.0236 0 ] /Next 24 0 R /Parent 21 0 R /Prev 22 0 R /Title (Second Draft) >>
 endobj
 24 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 261.0236 0 ] /Parent 21 0 R /Prev 23 0 R /Title (Publisher \(TODO\) \(Limit 1\)) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 387.0236 0 ] /Parent 21 0 R /Prev 23 0 R /Title (Publisher \(TODO\) \(Limit 1\)) >>
 endobj
 25 0 obj
-<< /Count 8 /Dest [ 10 0 R /XYZ 62.69291 765.0236 0 ] /First 26 0 R /Last 33 0 R /Parent 17 0 R /Prev 21 0 R 
-  /Title (Other Sponsorship Opportunities) >>
+<< /Count 5 /Dest [ 10 0 R /XYZ 62.69291 765.0236 0 ] /First 26 0 R /Last 30 0 R /Next 31 0 R /Parent 17 0 R 
+  /Prev 21 0 R /Title (Other Sponsorship Opportunities) >>
 endobj
 26 0 obj
 << /Dest [ 10 0 R /XYZ 62.69291 717.0236 0 ] /Next 27 0 R /Parent 25 0 R /Title (Financial Aid Sponsorships) >>
@@ -97,16 +97,16 @@ endobj
 << /Dest [ 10 0 R /XYZ 62.69291 552.0236 0 ] /Next 30 0 R /Parent 25 0 R /Prev 28 0 R /Title (Party) >>
 endobj
 30 0 obj
-<< /Dest [ 10 0 R /XYZ 62.69291 441.0236 0 ] /Next 31 0 R /Parent 25 0 R /Prev 29 0 R /Title (Choose Your Own Sponsorship Adventure) >>
+<< /Dest [ 10 0 R /XYZ 62.69291 441.0236 0 ] /Parent 25 0 R /Prev 29 0 R /Title (Choose Your Own Sponsorship Adventure) >>
 endobj
 31 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 765.0236 0 ] /Next 32 0 R /Parent 25 0 R /Prev 30 0 R /Title (Inquiries) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 765.0236 0 ] /Next 32 0 R /Parent 17 0 R /Prev 25 0 R /Title (Inquiries) >>
 endobj
 32 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 702.0236 0 ] /Next 33 0 R /Parent 25 0 R /Prev 31 0 R /Title (Discount) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 699.0236 0 ] /Next 33 0 R /Parent 17 0 R /Prev 31 0 R /Title (Discount) >>
 endobj
 33 0 obj
-<< /Dest [ 12 0 R /XYZ 62.69291 645.0236 0 ] /Parent 25 0 R /Prev 32 0 R /Title (Payment) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 639.0236 0 ] /Parent 17 0 R /Prev 32 0 R /Title (Payment) >>
 endobj
 34 0 obj
 << /Count 5 /Kids [ 4 0 R 6 0 R 9 0 R 10 0 R 12 0 R ] /Type /Pages >>
@@ -134,7 +134,7 @@ Q
 endstream
 endobj
 36 0 obj
-<< /Length 4137 >>
+<< /Length 5321 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -315,74 +315,74 @@ q
 1 0 0 1 62.69291 423.0236 cm
 Q
 q
-1 0 0 1 62.69291 423.0236 cm
-Q
- 
-endstream
-endobj
-37 0 obj
-<< /Length 8258 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 747.0236 cm
+1 0 0 1 62.69291 393.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Why Sponsor) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 705.0236 cm
+1 0 0 1 62.69291 351.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .97528 Tw (By supporting a Write the Docs event, your company will gain not only visibility and creditability with front-line) Tj T* 0 Tw .615868 Tw (technical communicators, but also valuable insights that will help you get the most out of your own documentation) Tj T* 0 Tw (efforts. If you're hiring for docs positions, Write the Docs is also an excellent opportunity to meet top-notch talent.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 651.0236 cm
+1 0 0 1 62.69291 297.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .488488 Tw (Our conferences are run by team of volunteers, and we work hard to keep ticket prices affordable for a broad range) Tj T* 0 Tw .137045 Tw (of attendees. Your sponsorship makes it possible for all sorts of documentarians to attend our events, whether they're) Tj T* 0 Tw .095988 Tw (a solo freelancer or they run a docs team for a tech giant. Becoming a sponsor demonstrates your commitment to and) Tj T* 0 Tw (support of good documentation, and the people who build it.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 621.0236 cm
+1 0 0 1 62.69291 297.0236 cm
+Q
+ 
+endstream
+endobj
+37 0 obj
+<< /Length 7074 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Sponsorship Packages) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 603.0236 cm
+1 0 0 1 62.69291 729.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The following options are suggested sponsorship levels. We are happy to discuss adjustments and custom packages.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 573.0236 cm
+1 0 0 1 62.69291 699.0236 cm
 q
 BT 1 0 0 1 0 14 Tm 1.715868 Tw 12 TL /F1 10 Tf 0 0 0 rg (Each of these packages applies to ) Tj /F3 10 Tf (one ) Tj /F1 10 Tf (conference, either USA or Europe. Ask us about discounts packages for) Tj T* 0 Tw (sponsoring both conferences.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 546.0236 cm
+1 0 0 1 62.69291 672.0236 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (First Draft) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 528.0236 cm
+1 0 0 1 62.69291 654.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (First Draft ) Tj /F1 10 Tf (package is aimed at startups, non-profits and open source companies:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 522.0236 cm
+1 0 0 1 62.69291 648.0236 cm
 Q
 q
-1 0 0 1 62.69291 522.0236 cm
+1 0 0 1 62.69291 648.0236 cm
 Q
 q
-1 0 0 1 62.69291 510.0236 cm
+1 0 0 1 62.69291 636.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -403,10 +403,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 504.0236 cm
+1 0 0 1 62.69291 630.0236 cm
 Q
 q
-1 0 0 1 62.69291 492.0236 cm
+1 0 0 1 62.69291 618.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -426,10 +426,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 486.0236 cm
+1 0 0 1 62.69291 612.0236 cm
 Q
 q
-1 0 0 1 62.69291 474.0236 cm
+1 0 0 1 62.69291 600.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -450,10 +450,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 468.0236 cm
+1 0 0 1 62.69291 594.0236 cm
 Q
 q
-1 0 0 1 62.69291 441.0236 cm
+1 0 0 1 62.69291 567.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -489,34 +489,34 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 441.0236 cm
+1 0 0 1 62.69291 567.0236 cm
 Q
 q
-1 0 0 1 62.69291 423.0236 cm
+1 0 0 1 62.69291 549.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (First Draft ) Tj /F1 10 Tf (package costs ) Tj /F2 10 Tf (US$1000) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 396.0236 cm
+1 0 0 1 62.69291 522.0236 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Second Draft) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 378.0236 cm
+1 0 0 1 62.69291 504.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (Second Draft ) Tj /F1 10 Tf (package for when you are no longer a startup:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 372.0236 cm
+1 0 0 1 62.69291 498.0236 cm
 Q
 q
-1 0 0 1 62.69291 372.0236 cm
+1 0 0 1 62.69291 498.0236 cm
 Q
 q
-1 0 0 1 62.69291 360.0236 cm
+1 0 0 1 62.69291 486.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -537,10 +537,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 354.0236 cm
+1 0 0 1 62.69291 480.0236 cm
 Q
 q
-1 0 0 1 62.69291 342.0236 cm
+1 0 0 1 62.69291 468.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -560,10 +560,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 336.0236 cm
+1 0 0 1 62.69291 462.0236 cm
 Q
 q
-1 0 0 1 62.69291 324.0236 cm
+1 0 0 1 62.69291 450.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -584,10 +584,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 318.0236 cm
+1 0 0 1 62.69291 444.0236 cm
 Q
 q
-1 0 0 1 62.69291 291.0236 cm
+1 0 0 1 62.69291 417.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -623,34 +623,34 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 291.0236 cm
+1 0 0 1 62.69291 417.0236 cm
 Q
 q
-1 0 0 1 62.69291 273.0236 cm
+1 0 0 1 62.69291 399.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (Second Draft ) Tj /F1 10 Tf (package costs **) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 246.0236 cm
+1 0 0 1 62.69291 372.0236 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Publisher \(TODO\) \(Limit 1\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 228.0236 cm
+1 0 0 1 62.69291 354.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (Publisher ) Tj /F1 10 Tf (package highlights your company as a force in the industry and community:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 222.0236 cm
+1 0 0 1 62.69291 348.0236 cm
 Q
 q
-1 0 0 1 62.69291 222.0236 cm
+1 0 0 1 62.69291 348.0236 cm
 Q
 q
-1 0 0 1 62.69291 210.0236 cm
+1 0 0 1 62.69291 336.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -671,10 +671,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 204.0236 cm
+1 0 0 1 62.69291 330.0236 cm
 Q
 q
-1 0 0 1 62.69291 192.0236 cm
+1 0 0 1 62.69291 318.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -694,10 +694,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 186.0236 cm
+1 0 0 1 62.69291 312.0236 cm
 Q
 q
-1 0 0 1 62.69291 174.0236 cm
+1 0 0 1 62.69291 300.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -718,10 +718,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 168.0236 cm
+1 0 0 1 62.69291 294.0236 cm
 Q
 q
-1 0 0 1 62.69291 141.0236 cm
+1 0 0 1 62.69291 267.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -757,10 +757,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 141.0236 cm
+1 0 0 1 62.69291 267.0236 cm
 Q
 q
-1 0 0 1 62.69291 141.0236 cm
+1 0 0 1 62.69291 267.0236 cm
 Q
  
 endstream
@@ -1112,29 +1112,29 @@ Q
 endstream
 endobj
 39 0 obj
-<< /Length 1525 >>
+<< /Length 1513 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 750.0236 cm
+1 0 0 1 62.69291 747.0236 cm
 q
-BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Inquiries) Tj T* ET
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Inquiries) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 732.0236 cm
+1 0 0 1 62.69291 729.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Please direct all inquiries to ) Tj /F2 10 Tf (Adrienne Lowe) Tj /F1 10 Tf (:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 726.0236 cm
+1 0 0 1 62.69291 723.0236 cm
 Q
 q
-1 0 0 1 62.69291 726.0236 cm
+1 0 0 1 62.69291 723.0236 cm
 Q
 q
-1 0 0 1 62.69291 714.0236 cm
+1 0 0 1 62.69291 711.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1156,28 +1156,28 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 714.0236 cm
+1 0 0 1 62.69291 711.0236 cm
 Q
 q
-1 0 0 1 62.69291 687.0236 cm
+1 0 0 1 62.69291 681.0236 cm
 q
-BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Discount) Tj T* ET
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Discount) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 657.0236 cm
+1 0 0 1 62.69291 651.0236 cm
 q
 BT 1 0 0 1 0 14 Tm .232209 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you are interested in sponsoring both the 2016 North American and European conferences, we are offering a ) Tj /F2 10 Tf (10%) Tj T* 0 Tw (discount ) Tj /F1 10 Tf (from the price of each package.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 630.0236 cm
+1 0 0 1 62.69291 621.0236 cm
 q
-BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Payment) Tj T* ET
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Payment) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 612.0236 cm
+1 0 0 1 62.69291 603.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (We expect all invoices to be paid ) Tj /F2 10 Tf (within 21 days of receipt) Tj /F1 10 Tf (, as many of our expenses must be paid up front.) Tj T* ET
 Q
@@ -1231,31 +1231,31 @@ xref
 0000003438 00000 n
 0000003567 00000 n
 0000003701 00000 n
-0000003877 00000 n
-0000004008 00000 n
-0000004133 00000 n
-0000004262 00000 n
-0000004385 00000 n
+0000003890 00000 n
+0000004021 00000 n
+0000004146 00000 n
+0000004275 00000 n
+0000004398 00000 n
 0000004540 00000 n
 0000004667 00000 n
 0000004793 00000 n
 0000004905 00000 n
 0000004994 00000 n
 0000005364 00000 n
-0000009558 00000 n
+0000010742 00000 n
 0000017873 00000 n
 0000023736 00000 n
-0000025318 00000 n
-0000025398 00000 n
-0000025435 00000 n
-0000025472 00000 n
-0000025509 00000 n
-0000025546 00000 n
+0000025306 00000 n
+0000025386 00000 n
+0000025423 00000 n
+0000025460 00000 n
+0000025497 00000 n
+0000025534 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(`\210\355\003,0\361\273\033\217\264\337hy\266\313) (`\210\355\003,0\361\273\033\217\264\337hy\266\313)]
+ [(H\203\352,\016 \002\345\344\362\315@E\300\325\314) (H\203\352,\016 \002\345\344\362\315@E\300\325\314)]
  /Info 14 0 R /Root 13 0 R /Size 46 >>
 startxref
-25583
+25571
 %%EOF

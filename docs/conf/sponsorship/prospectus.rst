@@ -52,10 +52,6 @@ Our audience is made up of:
 
 -  Community Contributors, Enthusiasts & Other Folks (11%)
 
-.. raw:: pdf
-
-   PageBreak
-
 Why Sponsor
 =============
 
@@ -70,7 +66,11 @@ prices affordable for a broad range of attendees. Your sponsorship makes it
 possible for all sorts of documentarians to attend our events, whether they're a
 solo freelancer or they run a docs team for a tech giant. Becoming a sponsor
 demonstrates your commitment to and support of good documentation, and the
-people who build it.    
+people who build it.
+
+.. raw:: pdf
+
+   PageBreak
 
 Sponsorship Packages
 ====================
@@ -196,21 +196,21 @@ something new!
    PageBreak
 
 Inquiries
-----------
+==========
 
-Please direct all inquiries to **Adrienne Lowe**:
+Please direct all inquiries to our sponsorship team at:
 
 -  sponsorship@writethedocs.org
 
 Discount
---------
+=========
 
 If you are interested in sponsoring both the 2016 North American and
 European conferences, we are offering a **10% discount** from the price
 of each package.
 
 Payment
--------
+=======
 
 We expect all invoices to be paid **within 21 days of receipt**, as many of our
 expenses must be paid up front.
