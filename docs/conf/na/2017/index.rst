@@ -48,13 +48,7 @@ You can find out more information about the venue and its accessibility on our :
 News
 ^^^^
 
-- :doc:`/conf/na/2017/news/announcing-2017`
-- :doc:`/conf/na/2017/news/cfp-tickets`
-- :doc:`/conf/na/2017/news/cfp-reminder`
-- :doc:`/conf/na/2017/news/announcing-presentations`
-- :doc:`/conf/na/2017/news/schedule-welcome-wagon-events`
-- :doc:`/conf/na/2017/news/welcome`
-- :doc:`/conf/na/2017/news/thanks-for-coming`
+As we announce things, they will be added here.
 
 Presentations
 -------------
@@ -99,8 +93,9 @@ Presentations
 Tickets
 -------
 
-Tickets are sold out.
-Thanks to everyone who bought them!
+Tickets are on sale now.
+We do expect the event to sell out,
+so don't wait to purchase!
 
 Ticket includes:
 
@@ -116,8 +111,7 @@ Purchase this ticket if a company is paying for your attendance.
 Companies interested in sponsorship can also receive tickets to the
 conference with a sponsorship package.
 
-* :strike:`$300 Corporate Early Bird` - **Sold Out**
-* $350 Corporate
+* $450 Corporate
 
 Independent Tickets
 -------------------
@@ -125,8 +119,7 @@ Independent Tickets
 Purchase this ticket if you are paying for yourself, work at a
 non-profit, or at a company with less than 10 employees.
 
-* :strike:`$150 Independent Early Bird` - **Sold Out**
-* $200 Independent
+* $250 Independent
 
 Student or Unemployed
 ---------------------
@@ -134,7 +127,7 @@ Student or Unemployed
 Purchase this ticket if you are currently enrolled as a student, or
 don't currently have a source of income.
 
-* $75 Student or Unemployed Tickets
+* $100 Student or Unemployed Tickets
 
 Financial Assistance
 --------------------
@@ -181,12 +174,12 @@ You can see the full schedule on the :doc:`/conf/na/2017/schedule` page.
     <div class="row row-images">
       <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
         <a href="https://www.flickr.com/photos/writethedocs/14151984286/in/album-72157644692192083/">
-    <img src="/_static/img/2017/na/tshirt.jpg" alt="Attendees grabbing conference's t-shirts">
+    <img src="/_static/img/2016/na/tshirt.jpg" alt="Attendees grabbing conference's t-shirts">
         </a>
       </div>
       <div class="col-md-6 col-sm-6 col-sm-offset-0 col-xs-8 col-xs-offset-2">
         <a href="https://www.flickr.com/photos/writethedocs/14174678071/in/album-72157644692192083/">
-    <img src="/_static/img/2017/na/laptop.jpg" alt="A group of people talking together">
+    <img src="/_static/img/2016/na/laptop.jpg" alt="A group of people talking together">
         </a>
       </div>
     </div>
@@ -201,50 +194,6 @@ information on sponsoring Write the Docs.
 This year's conference is graciously brought to you by the following
 companies:
 
-.. raw:: html
-
-    <div class="row row-sponsors">
-      <!-- Patron -->
-      <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-        <a href="http://google.com/">
-        <img src="/_static/img/2017/sponsors/google.png" width=400/></a>
-      </div>
-
-      <!-- Editor -->
-      <div class="col-md-8 col-sm-4">
-        <a href="https://github.com">
-        <img src="/_static/img/2017/sponsors/github.png" width=200/></a>
-      </div>
-      <div class="col-md-8 col-sm-4">
-        <a href="https://developer.mozilla.org/">
-        <img src="/_static/img/2017/sponsors/mdn.png" width=200/></a>
-      </div>
-      <div class="col-md-8 col-sm-4">
-        <a href="https://twilio.com">
-        <img src="/_static/img/2017/sponsors/twilio.png" width=200/></a>
-      </div>
-      <div class="col-md-8 col-sm-4">
-        <a href="https://opennews.org">
-        <img src="/_static/img/2017/sponsors/opennews.png" width=200/></a>
-      </div>
-   </div>
-   <br>
-   <br>
-   <br>
-
-Write the Docs is also helped out by companies that give their employees time to work on the conference.
-Write the Docs is produced by:
-
-.. raw:: html
-
-    <div class="row row-sponsors">
-      <!-- Patron -->
-      <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-        <a href="https://readthedocs.com">
-        <img src="/_static/img/2017/sponsors/read-the-docs.png" width=400/></a>
-      </div>
-   </div>
-
 
 Organizers
 ----------
@@ -252,10 +201,7 @@ Organizers
 Write the Docs NA is put on by the following lovely group of folks:
 
 -  `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
--  `Jennifer Rondeau <https://twitter.com/bradamante>`_
 -  `Eric Holscher <https://twitter.com/ericholscher>`_
--  `Adrienne Lowe <https://twitter.com/adriennefriend>`_
--  `Becky Yoose <https://twitter.com/yo_bj>`_
 
 Contact Us
 ----------

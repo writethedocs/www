@@ -16,10 +16,18 @@ Eric Holscher
 
 .. include:: /include/bios/eric.rst
 
-Kelly O'Brian
+Kelly O'Brien
 ~~~~~~~~~~~~~
 
 .. include:: /include/bios/kelly.rst
+
+Mikey Ariel
+~~~~~~~~~~~
+
+.. include:: /include/bios/mikey.rst
+
+Samuel Wright
+~~~~~~~~~~~~~
 
 
 Primary Roles
@@ -28,19 +36,19 @@ Primary Roles
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
 
 * **Conference chair** - Eric Holscher
-* **Swag Coordinator** - TBD
+* **Swag coordinator** - TBD
 * **Speaker wrangler** - Kelly O'Brien
 * **Infrastructure chair** - TBD
-* **Local chair** - TBD
+* **Local city chair** - TBD
 * **Writing Day coordinator** - TBD
 * **Unconference coordinator** - TBD
-* **Lightning Talk Coordinator** - TBD
+* **Lightning Talk coordinator** - TBD
 * **Communication chair** - TBD
 * **Volunteer coordinator** - TBD
 * **Sponsorship lead** - TBD
 * **Explore <City> coordinator** - TBD
-* **Welcome Wagon Coordinators** - TBD
+* **Welcome Wagon coordinators** - TBD
 * **Social media chair** - TBD
-* **Saturday Event Coordinator** - TBD
+* **Saturday Event coordinator** - TBD
 * **Proposal reviewers** - TBD
 * **Emcee** - TBD
