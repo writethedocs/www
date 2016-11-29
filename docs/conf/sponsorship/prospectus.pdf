@@ -45,7 +45,7 @@ endobj
 << /Outlines 15 0 R /PageLabels 40 0 R /PageMode /UseNone /Pages 34 0 R /Type /Catalog >>
 endobj
 14 0 obj
-<< /Author () /CreationDate (D:20161129220343-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161129220343-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20161129221326-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161129221326-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title () /Trapped /False >>
 endobj
 15 0 obj
@@ -134,7 +134,7 @@ Q
 endstream
 endobj
 36 0 obj
-<< /Length 5321 >>
+<< /Length 5334 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -153,7 +153,7 @@ q
 1 0 0 1 62.69291 675.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.03816 Tw (Writing and maintaining documentation involves a multidisciplinary community of technical writers, designers,) Tj T* 0 Tw .314651 Tw (typesetters, developers, support teams, marketers and many others. This group of people can be collectively referred) Tj T* 0 Tw (to as \223documentarians\224.) Tj T* ET
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.03816 Tw (Writing and maintaining documentation involves a multidisciplinary community of technical writers, designers,) Tj T* 0 Tw 3.232126 Tw (librarians, typesetters, developers, support teams, marketers and many others. This group of people can be) Tj T* 0 Tw (collectively referred to as \223documentarians\224.) Tj T* ET
 Q
 Q
 q
@@ -324,7 +324,7 @@ q
 1 0 0 1 62.69291 351.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .97528 Tw (By supporting a Write the Docs event, your company will gain not only visibility and creditability with front-line) Tj T* 0 Tw .615868 Tw (technical communicators, but also valuable insights that will help you get the most out of your own documentation) Tj T* 0 Tw (efforts. If you're hiring for docs positions, Write the Docs is also an excellent opportunity to meet top-notch talent.) Tj T* ET
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.399986 Tw (By supporting a Write the Docs event, your company will gain not only visibility and credibility with front-line) Tj T* 0 Tw .615868 Tw (technical communicators, but also valuable insights that will help you get the most out of your own documentation) Tj T* 0 Tw (efforts. If you're hiring for docs positions, Write the Docs is also an excellent opportunity to meet top-notch talent.) Tj T* ET
 Q
 Q
 q
@@ -766,7 +766,7 @@ Q
 endstream
 endobj
 38 0 obj
-<< /Length 5806 >>
+<< /Length 5149 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -933,7 +933,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Logo at the party venue) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Logo at the party venue \(provided by sponsor\)) Tj T* ET
 Q
 Q
 q
@@ -1055,64 +1055,16 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 318.0236 cm
+1 0 0 1 62.69291 324.0236 cm
 Q
 q
-1 0 0 1 62.69291 306.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Fun stickers for attendees to put on their badges) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 300.0236 cm
-Q
-q
-1 0 0 1 62.69291 288.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Anything else!) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 288.0236 cm
-Q
-q
-1 0 0 1 62.69291 288.0236 cm
+1 0 0 1 62.69291 324.0236 cm
 Q
  
 endstream
 endobj
 39 0 obj
-<< /Length 1513 >>
+<< /Length 1492 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1124,7 +1076,8 @@ Q
 q
 1 0 0 1 62.69291 729.0236 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Please direct all inquiries to ) Tj /F2 10 Tf (Adrienne Lowe) Tj /F1 10 Tf (:) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Please direct all inquiries to our sponsorship team at:) Tj T* ET
 Q
 Q
 q
@@ -1242,20 +1195,20 @@ xref
 0000004905 00000 n
 0000004994 00000 n
 0000005364 00000 n
-0000010742 00000 n
-0000017873 00000 n
-0000023736 00000 n
-0000025306 00000 n
-0000025386 00000 n
-0000025423 00000 n
-0000025460 00000 n
-0000025497 00000 n
-0000025534 00000 n
+0000010755 00000 n
+0000017886 00000 n
+0000023092 00000 n
+0000024641 00000 n
+0000024721 00000 n
+0000024758 00000 n
+0000024795 00000 n
+0000024832 00000 n
+0000024869 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(H\203\352,\016 \002\345\344\362\315@E\300\325\314) (H\203\352,\016 \002\345\344\362\315@E\300\325\314)]
+ [(\327I\200f\207kd\223pS/=\210\004J\315) (\327I\200f\207kd\223pS/=\210\004J\315)]
  /Info 14 0 R /Root 13 0 R /Size 46 >>
 startxref
-25571
+24906
 %%EOF

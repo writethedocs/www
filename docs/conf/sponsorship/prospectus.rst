@@ -17,7 +17,7 @@ Write the Docs
 theory, and information delivery.
 
 Writing and maintaining documentation involves a multidisciplinary
-community of technical writers, designers, typesetters, developers,
+community of technical writers, designers, librarians, typesetters, developers,
 support teams, marketers and many others. This group of people can be
 collectively referred to as “documentarians”.
 
@@ -31,7 +31,6 @@ magical experience for many of our attendees, allowing them to feel like
 they have found their place. We believe this is the most
 important thing that our event can do, and we aim to provide that
 experience again this year, and make it better than ever.
-
 
 Demographics
 =============
@@ -56,7 +55,7 @@ Why Sponsor
 =============
 
 By supporting a Write the Docs event, your company will gain not only visibility
-and creditability with front-line technical communicators, but also valuable
+and credibility with front-line technical communicators, but also valuable
 insights that will help you get the most out of your own documentation efforts.
 If you're hiring for docs positions, Write the Docs is also an excellent
 opportunity to meet top-notch talent.
@@ -170,7 +169,7 @@ Sponsorship of the official party includes:
 
 -  Food, Non-alcoholic and Alcoholic drink options
 
--  Logo at the party venue
+-  Logo at the party venue (provided by sponsor)
 
 Choose Your Own Sponsorship Adventure
 -------------------------------------
@@ -186,10 +185,6 @@ something new!
 -  Unconference
 
 -  Reception
-
--  Fun stickers for attendees to put on their badges
-
--  Anything else!
 
 .. raw:: pdf
 
