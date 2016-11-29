@@ -1,7 +1,7 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
-<< /F1 2 0 R /F2 3 0 R /F3 6 0 R >>
+<< /F1 2 0 R /F2 3 0 R /F3 7 0 R /F4 8 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
@@ -10,103 +10,108 @@ endobj
 << /BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
 endobj
 4 0 obj
-<< /Contents 33 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 32 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 35 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 34 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 5 0 obj
 << /A << /S /URI /Type /Action /URI (http://www.writethedocs.org/) >> /Border [ 0 0 0 ] /Rect [ 130.0782 729.0236 257.8482 741.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 6 0 obj
-<< /BaseFont /Times-BoldItalic /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
-endobj
-7 0 obj
-<< /Annots [ 5 0 R ] /Contents 34 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 32 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 5 0 R ] /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 34 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
+7 0 obj
+<< /BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
 8 0 obj
-<< /Contents 35 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 32 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
-  /Type /Page >>
+<< /BaseFont /Times-BoldItalic /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
 endobj
 9 0 obj
-<< /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 32 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+<< /Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 34 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
   /Type /Page >>
 endobj
 10 0 obj
-<< /A << /S /URI /Type /Action /URI (mailto:sponsorship@writethedocs.org) >> /Border [ 0 0 0 ] /Rect [ 85.69291 711.7736 209.6129 723.7736 ] /Subtype /Link /Type /Annot >>
+<< /Contents 38 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 34 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
 endobj
 11 0 obj
-<< /Annots [ 10 0 R ] /Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 32 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
-  /Trans <<  >> /Type /Page >>
+<< /A << /S /URI /Type /Action /URI (mailto:sponsorship@writethedocs.org) >> /Border [ 0 0 0 ] /Rect [ 85.69291 711.7736 209.6129 723.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 12 0 obj
-<< /Outlines 14 0 R /PageLabels 38 0 R /PageMode /UseNone /Pages 32 0 R /Type /Catalog >>
+<< /Annots [ 11 0 R ] /Contents 39 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 34 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 13 0 obj
-<< /Author () /CreationDate (D:20161122124014-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161122124014-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title () /Trapped /False >>
+<< /Outlines 15 0 R /PageLabels 40 0 R /PageMode /UseNone /Pages 34 0 R /Type /Catalog >>
 endobj
 14 0 obj
-<< /Count 21 /First 15 0 R /Last 16 0 R /Type /Outlines >>
+<< /Author () /CreationDate (D:20161129215838-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161129215838-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title () /Trapped /False >>
 endobj
 15 0 obj
-<< /Dest [ 4 0 R /XYZ 62.69291 765.0236 0 ] /Next 16 0 R /Parent 14 0 R /Title (Write the Docs 2017) >>
+<< /Count 21 /First 16 0 R /Last 17 0 R /Type /Outlines >>
 endobj
 16 0 obj
-<< /Count 15 /Dest [ 4 0 R /XYZ 62.69291 732.0236 0 ] /First 17 0 R /Last 23 0 R /Parent 14 0 R /Prev 15 0 R 
-  /Title (Sponsorship) >>
+<< /Dest [ 4 0 R /XYZ 62.69291 765.0236 0 ] /Next 17 0 R /Parent 15 0 R /Title (Write the Docs 2017) >>
 endobj
 17 0 obj
-<< /Count 1 /Dest [ 7 0 R /XYZ 62.69291 765.0236 0 ] /First 18 0 R /Last 18 0 R /Next 19 0 R /Parent 16 0 R 
-  /Title (Concept) >>
+<< /Count 16 /Dest [ 4 0 R /XYZ 62.69291 732.0236 0 ] /First 18 0 R /Last 25 0 R /Parent 15 0 R /Prev 16 0 R 
+  /Title (Sponsorship) >>
 endobj
 18 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 579.0236 0 ] /Parent 17 0 R /Title (Demographics) >>
+<< /Dest [ 6 0 R /XYZ 62.69291 765.0236 0 ] /Next 19 0 R /Parent 17 0 R /Title (Concept) >>
 endobj
 19 0 obj
-<< /Count 3 /Dest [ 8 0 R /XYZ 62.69291 765.0236 0 ] /First 20 0 R /Last 22 0 R /Next 23 0 R /Parent 16 0 R 
-  /Prev 17 0 R /Title (Sponsorship Packages) >>
+<< /Dest [ 6 0 R /XYZ 62.69291 579.0236 0 ] /Next 20 0 R /Parent 17 0 R /Prev 18 0 R /Title (Demographics) >>
 endobj
 20 0 obj
-<< /Dest [ 8 0 R /XYZ 62.69291 705.0236 0 ] /Next 21 0 R /Parent 19 0 R /Title (First Draft \(\2401,500\)) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 765.0236 0 ] /Next 21 0 R /Parent 17 0 R /Prev 19 0 R /Title (Why Sponsor) >>
 endobj
 21 0 obj
-<< /Dest [ 8 0 R /XYZ 62.69291 573.0236 0 ] /Next 22 0 R /Parent 19 0 R /Prev 20 0 R /Title (Publisher \(\2405,000\) \(Limit 2\)) >>
+<< /Count 3 /Dest [ 9 0 R /XYZ 62.69291 639.0236 0 ] /First 22 0 R /Last 24 0 R /Next 25 0 R /Parent 17 0 R 
+  /Prev 20 0 R /Title (Sponsorship Packages) >>
 endobj
 22 0 obj
-<< /Dest [ 8 0 R /XYZ 62.69291 429.0236 0 ] /Parent 19 0 R /Prev 21 0 R /Title (Patron \(\2408,000\) \(Limit 1\)) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 561.0236 0 ] /Next 23 0 R /Parent 21 0 R /Title (First Draft) >>
 endobj
 23 0 obj
-<< /Count 8 /Dest [ 9 0 R /XYZ 62.69291 765.0236 0 ] /First 24 0 R /Last 31 0 R /Parent 16 0 R /Prev 19 0 R 
-  /Title (Other Sponsorship Opportunities) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 411.0236 0 ] /Next 24 0 R /Parent 21 0 R /Prev 22 0 R /Title (Second Draft) >>
 endobj
 24 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 717.0236 0 ] /Next 25 0 R /Parent 23 0 R /Title (Financial Aid Sponsorships) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 261.0236 0 ] /Parent 21 0 R /Prev 23 0 R /Title (Publisher \(TODO\) \(Limit 1\)) >>
 endobj
 25 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 660.0236 0 ] /Next 26 0 R /Parent 23 0 R /Prev 24 0 R /Title (Lanyard) >>
+<< /Count 8 /Dest [ 10 0 R /XYZ 62.69291 765.0236 0 ] /First 26 0 R /Last 33 0 R /Parent 17 0 R /Prev 21 0 R 
+  /Title (Other Sponsorship Opportunities) >>
 endobj
 26 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 615.0236 0 ] /Next 27 0 R /Parent 23 0 R /Prev 25 0 R /Title (Writing Day) >>
+<< /Dest [ 10 0 R /XYZ 62.69291 717.0236 0 ] /Next 27 0 R /Parent 25 0 R /Title (Financial Aid Sponsorships) >>
 endobj
 27 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 525.0236 0 ] /Next 28 0 R /Parent 23 0 R /Prev 26 0 R /Title (Party) >>
+<< /Dest [ 10 0 R /XYZ 62.69291 660.0236 0 ] /Next 28 0 R /Parent 25 0 R /Prev 26 0 R /Title (Lanyard) >>
 endobj
 28 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 414.0236 0 ] /Next 29 0 R /Parent 23 0 R /Prev 27 0 R /Title (Choose Your Own Sponsorship Adventure) >>
+<< /Dest [ 10 0 R /XYZ 62.69291 615.0236 0 ] /Next 29 0 R /Parent 25 0 R /Prev 27 0 R /Title (Writing Day) >>
 endobj
 29 0 obj
-<< /Dest [ 11 0 R /XYZ 62.69291 765.0236 0 ] /Next 30 0 R /Parent 23 0 R /Prev 28 0 R /Title (Inquiries) >>
+<< /Dest [ 10 0 R /XYZ 62.69291 552.0236 0 ] /Next 30 0 R /Parent 25 0 R /Prev 28 0 R /Title (Party) >>
 endobj
 30 0 obj
-<< /Dest [ 11 0 R /XYZ 62.69291 702.0236 0 ] /Next 31 0 R /Parent 23 0 R /Prev 29 0 R /Title (Discount) >>
+<< /Dest [ 10 0 R /XYZ 62.69291 441.0236 0 ] /Next 31 0 R /Parent 25 0 R /Prev 29 0 R /Title (Choose Your Own Sponsorship Adventure) >>
 endobj
 31 0 obj
-<< /Dest [ 11 0 R /XYZ 62.69291 645.0236 0 ] /Parent 23 0 R /Prev 30 0 R /Title (Payment) >>
+<< /Dest [ 12 0 R /XYZ 62.69291 765.0236 0 ] /Next 32 0 R /Parent 25 0 R /Prev 30 0 R /Title (Inquiries) >>
 endobj
 32 0 obj
-<< /Count 5 /Kids [ 4 0 R 7 0 R 8 0 R 9 0 R 11 0 R ] /Type /Pages >>
+<< /Dest [ 12 0 R /XYZ 62.69291 702.0236 0 ] /Next 33 0 R /Parent 25 0 R /Prev 31 0 R /Title (Discount) >>
 endobj
 33 0 obj
+<< /Dest [ 12 0 R /XYZ 62.69291 645.0236 0 ] /Parent 25 0 R /Prev 32 0 R /Title (Payment) >>
+endobj
+34 0 obj
+<< /Count 5 /Kids [ 4 0 R 6 0 R 9 0 R 10 0 R 12 0 R ] /Type /Pages >>
+endobj
+35 0 obj
 << /Length 314 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -128,8 +133,8 @@ Q
  
 endstream
 endobj
-34 0 obj
-<< /Length 4271 >>
+36 0 obj
+<< /Length 4137 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -161,37 +166,37 @@ q
 1 0 0 1 62.69291 591.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.532619 Tw (For too long, people who care about documentation have felt alone in the world, not able to connect with their) Tj T* 0 Tw .452093 Tw (community. Write the Docs is a magical experience for many of our attendees, allowing them to feel like they have) Tj T* 0 Tw 1.18408 Tw (found their place in the world. We believe this is the most important thing that our event can do, and we aim to) Tj T* 0 Tw (provide that experience again this year, and make it better than ever.) Tj T* ET
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.532619 Tw (For too long, people who care about documentation have felt alone in the world, not able to connect with their) Tj T* 0 Tw .452093 Tw (community. Write the Docs is a magical experience for many of our attendees, allowing them to feel like they have) Tj T* 0 Tw 1.253798 Tw (found their place. We believe this is the most important thing that our event can do, and we aim to provide that) Tj T* 0 Tw (experience again this year, and make it better than ever.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 564.0236 cm
+1 0 0 1 62.69291 561.0236 cm
 q
-BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Demographics) Tj T* ET
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Demographics) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 534.0236 cm
+1 0 0 1 62.69291 531.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.927209 Tw (We hold two conferences yearly, one in Portland, USA in the spring, and one in Europe, currently Prague, in) Tj T* 0 Tw (autumn. Attendence is approximately 400 in the USA and 300 in Europe, and we expect both conferences to sell out.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .461654 Tw (We hold two conferences yearly, one in Portland, USA in May, and one in Europe, currently Prague, in September.) Tj T* 0 Tw (Attendence is approximately 400 in the USA and 300 in Europe, and we expect both conferences to sell out.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 516.0236 cm
+1 0 0 1 62.69291 513.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Our audience is made up of:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 510.0236 cm
+1 0 0 1 62.69291 507.0236 cm
 Q
 q
-1 0 0 1 62.69291 510.0236 cm
+1 0 0 1 62.69291 507.0236 cm
 Q
 q
-1 0 0 1 62.69291 498.0236 cm
+1 0 0 1 62.69291 495.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -212,10 +217,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 492.0236 cm
+1 0 0 1 62.69291 489.0236 cm
 Q
 q
-1 0 0 1 62.69291 480.0236 cm
+1 0 0 1 62.69291 477.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -236,10 +241,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 474.0236 cm
+1 0 0 1 62.69291 471.0236 cm
 Q
 q
-1 0 0 1 62.69291 462.0236 cm
+1 0 0 1 62.69291 459.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -260,10 +265,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 456.0236 cm
+1 0 0 1 62.69291 453.0236 cm
 Q
 q
-1 0 0 1 62.69291 444.0236 cm
+1 0 0 1 62.69291 441.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -284,10 +289,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 438.0236 cm
+1 0 0 1 62.69291 435.0236 cm
 Q
 q
-1 0 0 1 62.69291 426.0236 cm
+1 0 0 1 62.69291 423.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -307,176 +312,67 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 426.0236 cm
+1 0 0 1 62.69291 423.0236 cm
 Q
 q
-1 0 0 1 62.69291 408.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Attendence for) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 408.0236 cm
+1 0 0 1 62.69291 423.0236 cm
 Q
  
 endstream
 endobj
-35 0 obj
-<< /Length 6598 >>
+37 0 obj
+<< /Length 8258 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 747.0236 cm
 q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Why Sponsor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 705.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .97528 Tw (By supporting a Write the Docs event, your company will gain not only visibility and creditability with front-line) Tj T* 0 Tw .615868 Tw (technical communicators, but also valuable insights that will help you get the most out of your own documentation) Tj T* 0 Tw (efforts. If you're hiring for docs positions, Write the Docs is also an excellent opportunity to meet top-notch talent.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .488488 Tw (Our conferences are run by team of volunteers, and we work hard to keep ticket prices affordable for a broad range) Tj T* 0 Tw .137045 Tw (of attendees. Your sponsorship makes it possible for all sorts of documentarians to attend our events, whether they're) Tj T* 0 Tw .095988 Tw (a solo freelancer or they run a docs team for a tech giant. Becoming a sponsor demonstrates your commitment to and) Tj T* 0 Tw (support of good documentation, and the people who build it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Sponsorship Packages) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 717.0236 cm
+1 0 0 1 62.69291 603.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.923984 Tw (The following options are meant to serve as recommended sponsorship packages. We are happy to discuss) Tj T* 0 Tw (adjustments and custom packages.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The following options are suggested sponsorship levels. We are happy to discuss adjustments and custom packages.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 690.0236 cm
+1 0 0 1 62.69291 573.0236 cm
 q
-BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (First Draft \(\2001,500\)) Tj T* ET
+BT 1 0 0 1 0 14 Tm 1.715868 Tw 12 TL /F1 10 Tf 0 0 0 rg (Each of these packages applies to ) Tj /F3 10 Tf (one ) Tj /F1 10 Tf (conference, either USA or Europe. Ask us about discounts packages for) Tj T* 0 Tw (sponsoring both conferences.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 672.0236 cm
+1 0 0 1 62.69291 546.0236 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (First Draft ) Tj /F1 10 Tf (package is great for sending a few members of your team:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 666.0236 cm
-Q
-q
-1 0 0 1 62.69291 666.0236 cm
-Q
-q
-1 0 0 1 62.69291 654.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Two \(2\) tickets) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 648.0236 cm
-Q
-q
-1 0 0 1 62.69291 636.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Small logo & link on the Write the Docs website) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 630.0236 cm
-Q
-q
-1 0 0 1 62.69291 618.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Name included in press release and event mailings) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 612.0236 cm
-Q
-q
-1 0 0 1 62.69291 585.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 12 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 12 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Display 1 promotional \(\223Swag\224\) item at the conference \(provided by) Tj T* ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sponsor\)) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 585.0236 cm
-Q
-q
-1 0 0 1 62.69291 558.0236 cm
-q
-BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Publisher \(\2005,000\) \(Limit 2\)) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (First Draft) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 528.0236 cm
 q
-BT 1 0 0 1 0 14 Tm .97683 Tw 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (Publisher ) Tj /F1 10 Tf (package is great for sending a large team and letting the community get to know more about your) Tj T* 0 Tw (company and products:) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (First Draft ) Tj /F1 10 Tf (package is aimed at startups, non-profits and open source companies:) Tj T* ET
 Q
 Q
 q
@@ -500,7 +396,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Five \(5\) tickets) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (One \(1\) tickets) Tj T* ET
 Q
 Q
 q
@@ -523,7 +419,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Large logo & link on the Write the Docs website) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Small logo & link on the Write the Docs website) Tj T* ET
 Q
 Q
 q
@@ -571,7 +467,7 @@ q
 1 0 0 1 23 12 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Display 1 promotional \(\223Swag\224\) items at the conference \(provided by) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Display 1 promotional \(\223Swag\224\) item at the conference \(provided by) Tj T* ET
 Q
 Q
 q
@@ -596,43 +492,25 @@ q
 1 0 0 1 62.69291 441.0236 cm
 Q
 q
-1 0 0 1 62.69291 414.0236 cm
+1 0 0 1 62.69291 423.0236 cm
 q
-BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Patron \(\2008,000\) \(Limit 1\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (First Draft ) Tj /F1 10 Tf (package costs ) Tj /F2 10 Tf (US$1000) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 396.0236 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (Patron ) Tj /F1 10 Tf (package will highlight you as a force in the industry and community:) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Second Draft) Tj T* ET
 Q
-Q
-q
-1 0 0 1 62.69291 390.0236 cm
-Q
-q
-1 0 0 1 62.69291 390.0236 cm
 Q
 q
 1 0 0 1 62.69291 378.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (Second Draft ) Tj /F1 10 Tf (package for when you are no longer a startup:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Eight \(8\) tickets) Tj T* ET
-Q
-Q
-q
-Q
+1 0 0 1 62.69291 372.0236 cm
 Q
 q
 1 0 0 1 62.69291 372.0236 cm
@@ -651,7 +529,8 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Full Width logo & link on the Write the Docs website) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Two \(2\) tickets) Tj T* ET
 Q
 Q
 q
@@ -674,8 +553,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Name included in press release and event mailings) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Large logo & link on the Write the Docs website) Tj T* ET
 Q
 Q
 q
@@ -685,7 +563,31 @@ q
 1 0 0 1 62.69291 336.0236 cm
 Q
 q
-1 0 0 1 62.69291 309.0236 cm
+1 0 0 1 62.69291 324.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Name included in press release and event mailings) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 318.0236 cm
+Q
+q
+1 0 0 1 62.69291 291.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -721,78 +623,105 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 309.0236 cm
+1 0 0 1 62.69291 291.0236 cm
 Q
 q
-1 0 0 1 62.69291 309.0236 cm
-Q
- 
-endstream
-endobj
-36 0 obj
-<< /Length 6058 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+1 0 0 1 62.69291 273.0236 cm
 q
-1 0 0 1 62.69291 747.0236 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Other Sponsorship Opportunities) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (Second Draft ) Tj /F1 10 Tf (package costs **) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 729.0236 cm
+1 0 0 1 62.69291 246.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Publisher \(TODO\) \(Limit 1\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 228.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (Publisher ) Tj /F1 10 Tf (package highlights your company as a force in the industry and community:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+Q
+q
+1 0 0 1 62.69291 210.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The following \340 la carte offerings are available to increase visibility onsite.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 62.69291 702.0236 cm
-q
-BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Financial Aid Sponsorships) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 672.0236 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.246098 Tw (Write the Docs is always trying to make our community bigger and more inclusive. Talk to us about sponsoring) Tj T* 0 Tw (travel and/or registration expenses for an attendee who wouldn\222t otherwise be able to attend.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Eight \(8\) tickets) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 645.0236 cm
-q
-BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Lanyard) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 627.0236 cm
+1 0 0 1 62.69291 204.0236 cm
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provide your branded lanyard for our name tags.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 62.69291 600.0236 cm
+1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Writing Day) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Full size logo & link on the Write the Docs website) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 570.0236 cm
+Q
+Q
+q
+1 0 0 1 62.69291 186.0236 cm
+Q
+q
+1 0 0 1 62.69291 174.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .428876 Tw (Sponsor the Writing Day on Sunday, where we get together to help improve documentation of lots of projects. This) Tj T* 0 Tw (includes:) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 62.69291 564.0236 cm
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Name included in press release and event mailings) Tj T* ET
+Q
 Q
 q
-1 0 0 1 62.69291 564.0236 cm
+Q
 Q
 q
-1 0 0 1 62.69291 537.0236 cm
+1 0 0 1 62.69291 168.0236 cm
+Q
+q
+1 0 0 1 62.69291 141.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -805,7 +734,8 @@ Q
 q
 1 0 0 1 23 12 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Signage around the Writing Day venue thanking you for the food &) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Display 1 promotional \(\223Swag\224\) items at the conference \(provided by) Tj T* ET
 Q
 Q
 q
@@ -817,7 +747,7 @@ q
 1 0 0 1 20 0 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (venue) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (sponsor\)) Tj T* ET
 Q
 Q
 q
@@ -825,31 +755,123 @@ Q
 Q
 q
 Q
+Q
+q
+1 0 0 1 62.69291 141.0236 cm
+Q
+q
+1 0 0 1 62.69291 141.0236 cm
+Q
+ 
+endstream
+endobj
+38 0 obj
+<< /Length 5806 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Other Sponsorship Opportunities) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The following \340 la carte offerings are available to increase visibility at the event.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Financial Aid Sponsorships) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.246098 Tw (Write the Docs is always trying to make our community bigger and more inclusive. Talk to us about sponsoring) Tj T* 0 Tw (travel and/or registration expenses for an attendee who wouldn\222t otherwise be able to attend.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Lanyard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 627.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provide your branded lanyard for our name tags.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 600.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Writing Day) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sponsor the Writing Day on Sunday, where we get together to help improve the documentation of many projects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Host a sponsored workshop or Writing Day session) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
 Q
 q
 1 0 0 1 62.69291 537.0236 cm
-Q
 q
-1 0 0 1 62.69291 510.0236 cm
-q
-BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Party) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Party) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 480.0236 cm
+1 0 0 1 62.69291 507.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .048626 Tw (Sponsoring the party will bring joy to all the attendees, and provide a great venue for folks to get to know each other.) Tj T* 0 Tw (This sponsorship includes:) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.062765 Tw (We all know that some of the most valuable networking takes place after hours. Sponsorship of the official party) Tj T* 0 Tw (includes:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 474.0236 cm
+1 0 0 1 62.69291 501.0236 cm
 Q
 q
-1 0 0 1 62.69291 474.0236 cm
+1 0 0 1 62.69291 501.0236 cm
 Q
 q
-1 0 0 1 62.69291 462.0236 cm
+1 0 0 1 62.69291 489.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -870,10 +892,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 456.0236 cm
+1 0 0 1 62.69291 483.0236 cm
 Q
 q
-1 0 0 1 62.69291 444.0236 cm
+1 0 0 1 62.69291 471.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -894,10 +916,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 438.0236 cm
+1 0 0 1 62.69291 465.0236 cm
 Q
 q
-1 0 0 1 62.69291 426.0236 cm
+1 0 0 1 62.69291 453.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -918,29 +940,29 @@ q
 Q
 Q
 q
+1 0 0 1 62.69291 453.0236 cm
+Q
+q
 1 0 0 1 62.69291 426.0236 cm
-Q
 q
-1 0 0 1 62.69291 399.0236 cm
-q
-BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Choose Your Own Sponsorship Adventure) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Choose Your Own Sponsorship Adventure) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 369.0236 cm
+1 0 0 1 62.69291 396.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .373988 Tw (Interested in another sponsorship opportunity? Get in touch and we\222ll do our best to make it happen. Here are a few) Tj T* 0 Tw (ideas, or you can pitch us something new!) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 363.0236 cm
+1 0 0 1 62.69291 390.0236 cm
 Q
 q
-1 0 0 1 62.69291 363.0236 cm
+1 0 0 1 62.69291 390.0236 cm
 Q
 q
-1 0 0 1 62.69291 351.0236 cm
+1 0 0 1 62.69291 378.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -961,10 +983,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 345.0236 cm
+1 0 0 1 62.69291 372.0236 cm
 Q
 q
-1 0 0 1 62.69291 333.0236 cm
+1 0 0 1 62.69291 360.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -985,10 +1007,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 327.0236 cm
+1 0 0 1 62.69291 354.0236 cm
 Q
 q
-1 0 0 1 62.69291 315.0236 cm
+1 0 0 1 62.69291 342.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1009,10 +1031,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 309.0236 cm
+1 0 0 1 62.69291 336.0236 cm
 Q
 q
-1 0 0 1 62.69291 297.0236 cm
+1 0 0 1 62.69291 324.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1033,10 +1055,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 291.0236 cm
+1 0 0 1 62.69291 318.0236 cm
 Q
 q
-1 0 0 1 62.69291 279.0236 cm
+1 0 0 1 62.69291 306.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1057,10 +1079,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 273.0236 cm
+1 0 0 1 62.69291 300.0236 cm
 Q
 q
-1 0 0 1 62.69291 261.0236 cm
+1 0 0 1 62.69291 288.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1081,22 +1103,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 261.0236 cm
+1 0 0 1 62.69291 288.0236 cm
 Q
 q
-1 0 0 1 62.69291 261.0236 cm
+1 0 0 1 62.69291 288.0236 cm
 Q
  
 endstream
 endobj
-37 0 obj
-<< /Length 1731 >>
+39 0 obj
+<< /Length 1525 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 750.0236 cm
 q
-BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Inquiries) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Inquiries) Tj T* ET
 Q
 Q
 q
@@ -1139,7 +1161,7 @@ Q
 q
 1 0 0 1 62.69291 687.0236 cm
 q
-BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Discount) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Discount) Tj T* ET
 Q
 Q
 q
@@ -1151,87 +1173,89 @@ Q
 q
 1 0 0 1 62.69291 630.0236 cm
 q
-BT 1 0 0 1 0 2.5 Tm 15 TL /F3 12.5 Tf 0 0 0 rg (Payment) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Payment) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 588.0236 cm
+1 0 0 1 62.69291 612.0236 cm
 q
-BT 1 0 0 1 0 26 Tm .56856 Tw 12 TL /F1 10 Tf 0 0 0 rg (We expect all invoices to be paid ) Tj /F2 10 Tf (within 21 days of receipt) Tj /F1 10 Tf (. We are a conference, and many of our expenses must) Tj T* 0 Tw 2.465542 Tw (be paid up front. We will not provide any benefits until the invoice is paid, including announcement of the) Tj T* 0 Tw (sponsorship, or a logo on the event website.) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (We expect all invoices to be paid ) Tj /F2 10 Tf (within 21 days of receipt) Tj /F1 10 Tf (, as many of our expenses must be paid up front.) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-38 0 obj
-<< /Nums [ 0 39 0 R 1 40 0 R 2 41 0 R 3 42 0 R 4 43 0 R ] >>
-endobj
-39 0 obj
-<< /S /D /St 1 >>
-endobj
 40 0 obj
-<< /S /D /St 2 >>
+<< /Nums [ 0 41 0 R 1 42 0 R 2 43 0 R 3 44 0 R 4 45 0 R ] >>
 endobj
 41 0 obj
-<< /S /D /St 3 >>
+<< /S /D /St 1 >>
 endobj
 42 0 obj
-<< /S /D /St 4 >>
+<< /S /D /St 2 >>
 endobj
 43 0 obj
+<< /S /D /St 3 >>
+endobj
+44 0 obj
+<< /S /D /St 4 >>
+endobj
+45 0 obj
 << /S /D /St 5 >>
 endobj
 xref
-0 44
+0 46
 0000000000 65535 f
 0000000075 00000 n
-0000000129 00000 n
-0000000241 00000 n
-0000000352 00000 n
-0000000561 00000 n
-0000000744 00000 n
-0000000861 00000 n
-0000001088 00000 n
-0000001297 00000 n
-0000001506 00000 n
-0000001697 00000 n
-0000001926 00000 n
-0000002035 00000 n
-0000002297 00000 n
-0000002375 00000 n
-0000002498 00000 n
-0000002654 00000 n
-0000002805 00000 n
-0000002908 00000 n
-0000003085 00000 n
-0000003214 00000 n
-0000003366 00000 n
-0000003502 00000 n
-0000003677 00000 n
-0000003807 00000 n
-0000003931 00000 n
-0000004059 00000 n
-0000004181 00000 n
-0000004335 00000 n
-0000004462 00000 n
-0000004588 00000 n
-0000004700 00000 n
-0000004788 00000 n
-0000005158 00000 n
-0000009486 00000 n
-0000016141 00000 n
-0000022256 00000 n
-0000024044 00000 n
-0000024124 00000 n
-0000024161 00000 n
-0000024198 00000 n
-0000024235 00000 n
-0000024272 00000 n
+0000000139 00000 n
+0000000251 00000 n
+0000000362 00000 n
+0000000571 00000 n
+0000000754 00000 n
+0000000981 00000 n
+0000001094 00000 n
+0000001211 00000 n
+0000001420 00000 n
+0000001630 00000 n
+0000001821 00000 n
+0000002050 00000 n
+0000002159 00000 n
+0000002421 00000 n
+0000002499 00000 n
+0000002622 00000 n
+0000002778 00000 n
+0000002889 00000 n
+0000003018 00000 n
+0000003146 00000 n
+0000003323 00000 n
+0000003438 00000 n
+0000003567 00000 n
+0000003701 00000 n
+0000003877 00000 n
+0000004008 00000 n
+0000004133 00000 n
+0000004262 00000 n
+0000004385 00000 n
+0000004540 00000 n
+0000004667 00000 n
+0000004793 00000 n
+0000004905 00000 n
+0000004994 00000 n
+0000005364 00000 n
+0000009558 00000 n
+0000017873 00000 n
+0000023736 00000 n
+0000025318 00000 n
+0000025398 00000 n
+0000025435 00000 n
+0000025472 00000 n
+0000025509 00000 n
+0000025546 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\232\346Bt@\015V\307\254\302\304\023/\241t\254) (\232\346Bt@\015V\307\254\302\304\023/\241t\254)]
- /Info 13 0 R /Root 12 0 R /Size 44 >>
+ [(`\210\355\003,0\361\273\033\217\264\337hy\266\313) (`\210\355\003,0\361\273\033\217\264\337hy\266\313)]
+ /Info 14 0 R /Root 13 0 R /Size 46 >>
 startxref
-24309
+25583
 %%EOF

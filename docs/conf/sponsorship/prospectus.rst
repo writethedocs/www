@@ -9,7 +9,7 @@ Sponsorship
    PageBreak
 
 Concept
-==========================
+=============
 
 Write the Docs
 (`*http://www.writethedocs.org/* <http://www.writethedocs.org/>`__) is a
@@ -32,12 +32,13 @@ they have found their place. We believe this is the most
 important thing that our event can do, and we aim to provide that
 experience again this year, and make it better than ever.
 
-Demographics
-------------
 
-We hold two conferences yearly, one in Portland, USA in the spring, and one in
-Europe, currently Prague, in autumn. Attendence is approximately 400 in the USA
-and 300 in Europe, and we expect both conferences to sell out.
+Demographics
+=============
+
+We hold two conferences yearly, one in Portland, USA in May, and one in
+Europe, currently Prague, in September. Attendence is approximately 400 in the
+USA and 300 in Europe, and we expect both conferences to sell out.
 
 Our audience is made up of:
 
@@ -55,6 +56,22 @@ Our audience is made up of:
 
    PageBreak
 
+Why Sponsor
+=============
+
+By supporting a Write the Docs event, your company will gain not only visibility
+and creditability with front-line technical communicators, but also valuable
+insights that will help you get the most out of your own documentation efforts.
+If you're hiring for docs positions, Write the Docs is also an excellent
+opportunity to meet top-notch talent.
+
+Our conferences are run by team of volunteers, and we work hard to keep ticket
+prices affordable for a broad range of attendees. Your sponsorship makes it
+possible for all sorts of documentarians to attend our events, whether they're a
+solo freelancer or they run a docs team for a tech giant. Becoming a sponsor
+demonstrates your commitment to and support of good documentation, and the
+people who build it.    
+
 Sponsorship Packages
 ====================
 
@@ -64,13 +81,13 @@ adjustments and custom packages.
 Each of these packages applies to *one* conference, either USA or Europe. Ask us
 about discounts packages for sponsoring both conferences.
 
-First Draft (TODO)
+First Draft
 --------------------
 
-The **First Draft** package is great for sending a few members of your
-team:
+The **First Draft** package is aimed at startups, non-profits and open source
+companies:
 
--  Two (2) tickets
+-  One (1) tickets
 
 -  Small logo & link on the Write the Docs website
 
@@ -79,14 +96,15 @@ team:
 -  Display 1 promotional (“Swag”) item at the conference (provided by
        sponsor)
 
+The **First Draft** package costs **US$1000**
 
-Second Draft (TODO)
-----------------------------
 
-The **Second Draft** package is great for sending a large team and letting
-the community get to know more about your company and products:
+Second Draft
+----------------
 
--  Five (5) tickets
+The **Second Draft** package for when you are no longer a startup:
+
+-  Two (2) tickets
 
 -  Large logo & link on the Write the Docs website
 
@@ -95,8 +113,10 @@ the community get to know more about your company and products:
 -  Display 1 promotional (“Swag”) items at the conference (provided by
        sponsor)
 
+The **Second Draft** package costs **
+
 Publisher (TODO) (Limit 1)
--------------------------
+---------------------------
 
 The **Publisher** package highlights your company as a force in the industry and
 community:
