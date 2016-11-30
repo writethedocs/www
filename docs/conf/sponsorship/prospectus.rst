@@ -95,7 +95,7 @@ companies:
 -  Display 1 promotional (“Swag”) item at the conference (provided by
        sponsor)
 
-The **First Draft** package costs **US$1000**
+The **First Draft** package costs **US$750**
 
 
 Second Draft
@@ -112,15 +112,15 @@ The **Second Draft** package for when you are no longer a startup:
 -  Display 1 promotional (“Swag”) items at the conference (provided by
        sponsor)
 
-The **Second Draft** package costs **
+The **Second Draft** package costs **US $1500**
 
-Publisher (TODO) (Limit 1)
+Publisher
 ---------------------------
 
 The **Publisher** package highlights your company as a force in the industry and
 community:
 
--  Eight (8) tickets
+-  Five (5) tickets
 
 -  Full size logo & link on the Write the Docs website
 
@@ -128,6 +128,9 @@ community:
 
 -  Display 1 promotional (“Swag”) items at the conference (provided by
        sponsor)
+
+The **Publisher** package costs **US $5000**
+
 
 .. raw:: pdf
 

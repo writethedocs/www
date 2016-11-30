@@ -45,7 +45,7 @@ endobj
 << /Outlines 15 0 R /PageLabels 40 0 R /PageMode /UseNone /Pages 34 0 R /Type /Catalog >>
 endobj
 14 0 obj
-<< /Author () /CreationDate (D:20161129221326-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161129221326-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20161130170927-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20161130170927-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title () /Trapped /False >>
 endobj
 15 0 obj
@@ -78,7 +78,7 @@ endobj
 << /Dest [ 9 0 R /XYZ 62.69291 537.0236 0 ] /Next 24 0 R /Parent 21 0 R /Prev 22 0 R /Title (Second Draft) >>
 endobj
 24 0 obj
-<< /Dest [ 9 0 R /XYZ 62.69291 387.0236 0 ] /Parent 21 0 R /Prev 23 0 R /Title (Publisher \(TODO\) \(Limit 1\)) >>
+<< /Dest [ 9 0 R /XYZ 62.69291 387.0236 0 ] /Parent 21 0 R /Prev 23 0 R /Title (Publisher) >>
 endobj
 25 0 obj
 << /Count 5 /Dest [ 10 0 R /XYZ 62.69291 765.0236 0 ] /First 26 0 R /Last 30 0 R /Next 31 0 R /Parent 17 0 R 
@@ -341,7 +341,7 @@ Q
 endstream
 endobj
 37 0 obj
-<< /Length 7074 >>
+<< /Length 7255 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -494,7 +494,7 @@ Q
 q
 1 0 0 1 62.69291 549.0236 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (First Draft ) Tj /F1 10 Tf (package costs ) Tj /F2 10 Tf (US$1000) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (First Draft ) Tj /F1 10 Tf (package costs ) Tj /F2 10 Tf (US$750) Tj T* ET
 Q
 Q
 q
@@ -628,13 +628,13 @@ Q
 q
 1 0 0 1 62.69291 399.0236 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (Second Draft ) Tj /F1 10 Tf (package costs **) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (Second Draft ) Tj /F1 10 Tf (package costs ) Tj /F2 10 Tf (US $1500) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 372.0236 cm
 q
-BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Publisher \(TODO\) \(Limit 1\)) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 15 TL /F4 12.5 Tf 0 0 0 rg (Publisher) Tj T* ET
 Q
 Q
 q
@@ -664,7 +664,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Eight \(8\) tickets) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Five \(5\) tickets) Tj T* ET
 Q
 Q
 q
@@ -760,7 +760,13 @@ q
 1 0 0 1 62.69291 267.0236 cm
 Q
 q
-1 0 0 1 62.69291 267.0236 cm
+1 0 0 1 62.69291 249.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (The ) Tj /F2 10 Tf (Publisher ) Tj /F1 10 Tf (package costs ) Tj /F2 10 Tf (US $5000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 249.0236 cm
 Q
  
 endstream
@@ -1183,32 +1189,32 @@ xref
 0000003323 00000 n
 0000003438 00000 n
 0000003567 00000 n
-0000003701 00000 n
-0000003890 00000 n
-0000004021 00000 n
-0000004146 00000 n
-0000004275 00000 n
-0000004398 00000 n
-0000004540 00000 n
-0000004667 00000 n
-0000004793 00000 n
-0000004905 00000 n
-0000004994 00000 n
-0000005364 00000 n
-0000010755 00000 n
-0000017886 00000 n
-0000023092 00000 n
-0000024641 00000 n
-0000024721 00000 n
-0000024758 00000 n
-0000024795 00000 n
-0000024832 00000 n
-0000024869 00000 n
+0000003680 00000 n
+0000003869 00000 n
+0000004000 00000 n
+0000004125 00000 n
+0000004254 00000 n
+0000004377 00000 n
+0000004519 00000 n
+0000004646 00000 n
+0000004772 00000 n
+0000004884 00000 n
+0000004973 00000 n
+0000005343 00000 n
+0000010734 00000 n
+0000018046 00000 n
+0000023252 00000 n
+0000024801 00000 n
+0000024881 00000 n
+0000024918 00000 n
+0000024955 00000 n
+0000024992 00000 n
+0000025029 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\327I\200f\207kd\223pS/=\210\004J\315) (\327I\200f\207kd\223pS/=\210\004J\315)]
+ [(\334\2223}\005\317\373\027\215q\214\0155\003' ) (\334\2223}\005\317\373\027\215q\214\0155\003' )]
  /Info 14 0 R /Root 13 0 R /Size 46 >>
 startxref
-24906
+25066
 %%EOF
