@@ -20,10 +20,11 @@ extensions = [
 blog_baseurl = 'http://www.writethedocs.org/blog/'
 blog_path = 'blog/archive'
 blog_authors = {
+    'Team': ('Write the Docs Team', 'http://www.writethedocs.org/team/'),
     'Eric': ('Eric Holscher', 'http://ericholscher.com'),
     'Anthony': ('Anthony Johnson', 'http://ohess.org'),
 }
-blog_default_author = 'Eric'
+blog_default_author = 'Team'
 
 blog_locations = {
     'PDX': ('Portland, Oregon', 'http://www.portlandhikersfieldguide.org/'),
