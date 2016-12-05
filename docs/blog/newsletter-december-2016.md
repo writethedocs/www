@@ -7,8 +7,6 @@
 
 # Write the Docs Newsletter - December 2016
 
-# Write the Docs Newsletter - December
-
 ## Seasons greetings and see you next year!
 
 Hello, Write the Docs! As I'm writing this, there are gentle little fairy-snowflakes drifting past my window, and it's triggering my instinct to hibernate something fierce. On that subject, this newsletter is going to take a brief hibernation period of its own over the holiday season. But never fear! We'll be back in your inboxes in mid-January, once we've settled into 2017 a bit. 
