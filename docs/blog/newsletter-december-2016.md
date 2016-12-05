@@ -9,7 +9,7 @@
 
 ## Seasons greetings and see you next year!
 
-Hello, Write the Docs! As I'm writing this, there are gentle little fairy-snowflakes drifting past my window, and it's triggering my instinct to hibernate something fierce. On that subject, this newsletter is going to take a brief hibernation period of its own over the holiday season. But never fear! We'll be back in your inboxes in mid-January, once we've settled into 2017 a bit. 
+Hello, Write the Docs! As I'm writing this, there are gentle little fairy-snowflakes drifting past my window, and it's triggering my instinct to hibernate something fierce. On that subject, this newsletter is going to take a brief hibernation period of its own over the holiday season. But never fear! We'll be back in your inboxes once we've settled into 2017 a bit. 
 
 To tide y'all over, we have a nice hefty issue for you this month. From hiring practices to API resources, readability guidelines to UX testing, the community was — per usual — engaged on a broad range of topics. We hope you find something below to intrigue or inform. Have a great end of the year, and we'll see you in the next!
 
