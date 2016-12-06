@@ -114,7 +114,7 @@ Portland <http://conf.writethedocs.org/na/2014/>`__ and `in
 Budapest <http://conf.writethedocs.org/eu/2014/>`__ this
 spring. We've seen local meetups spring up in `San
 Francisco <http://www.meetup.com/Write-the-Docs/>`__,
-`Boston <http://www.meetup.com/Write-The-Docs-Boston/>`__, and `New
+`Boston <https://www.meetup.com/write-the-docs-bos/>`__, and `New
 York <http://www.meetup.com/Write-The-Docs-NY/>`__. We're working on
 building more.
 
