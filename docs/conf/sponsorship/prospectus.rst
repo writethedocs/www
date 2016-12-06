@@ -36,7 +36,7 @@ Demographics
 =============
 
 We hold two conferences yearly, one in Portland, USA in May, and one in
-Europe, currently Prague, in September. Attendence is approximately 400 in the
+Prague, Europe in September. Attendence is approximately 400 in the
 USA and 300 in Europe, and we expect both conferences to sell out.
 
 Our audience is made up of:
@@ -55,17 +55,16 @@ Why Sponsor
 =============
 
 By supporting a Write the Docs event, your company will gain not only visibility
-and credibility with front-line technical communicators, but also valuable
+and credibility with front-line documentarians, but also valuable
 insights that will help you get the most out of your own documentation efforts.
 If you're hiring for docs positions, Write the Docs is also an excellent
 opportunity to meet top-notch talent.
 
-Our conferences are run by team of volunteers, and we work hard to keep ticket
+Our conferences are run by teams of volunteers, and we work hard to keep ticket
 prices affordable for a broad range of attendees. Your sponsorship makes it
 possible for all sorts of documentarians to attend our events, whether they're a
-solo freelancer or they run a docs team for a tech giant. Becoming a sponsor
-demonstrates your commitment to and support of good documentation, and the
-people who build it.
+freelancer, a student or out of work. Becoming a sponsor demonstrates your
+commitment to and support of good documentation, and the people who build it.
 
 .. raw:: pdf
 
@@ -78,21 +77,21 @@ The following options are suggested sponsorship levels. We are happy to discuss
 adjustments and custom packages.
 
 Each of these packages applies to *one* conference, either USA or Europe. Ask us
-about discounts packages for sponsoring both conferences.
+about discounted packages for sponsoring both conferences.
 
 First Draft
 --------------------
 
 The **First Draft** package is aimed at startups, non-profits and open source
-companies:
+communities and organizations:
 
--  One (1) tickets
+-  One (1) `tickets <https://ti.to/writethedocs/write-the-docs-eu-2017>`_
 
 -  Small logo & link on the Write the Docs website
 
--  Name included in press release and event mailings
+-  Name included in welcome announcement in email newsletters and social media
 
--  Display 1 promotional (“Swag”) item at the conference (provided by
+-  Display 1 promotional (“Swag”) item on the conference swag table (provided by
        sponsor)
 
 The **First Draft** package costs **US$750**
@@ -101,15 +100,15 @@ The **First Draft** package costs **US$750**
 Second Draft
 ----------------
 
-The **Second Draft** package for when you are no longer a startup:
+The **Second Draft** package for larger companies and organizations:
 
--  Two (2) tickets
+-  Two (2) `tickets <https://ti.to/writethedocs/write-the-docs-eu-2017>`_
 
--  Large logo & link on the Write the Docs website
+-  Medium logo & link on the Write the Docs website
 
--  Name included in press release and event mailings
+-  Name included in welcome announcement in email newsletters and social media
 
--  Display 1 promotional (“Swag”) items at the conference (provided by
+-  Display 1 promotional (“Swag”) item on the conference swag table (provided by
        sponsor)
 
 The **Second Draft** package costs **US $1500**
@@ -120,13 +119,13 @@ Publisher
 The **Publisher** package highlights your company as a force in the industry and
 community:
 
--  Five (5) tickets
+-  Five (5) `tickets <https://ti.to/writethedocs/write-the-docs-eu-2017>`_
 
--  Full size logo & link on the Write the Docs website
+-  Large logo & link on the Write the Docs website
 
--  Name included in press release and event mailings
+-  Name included in welcome announcement in email newsletters and social media
 
--  Display 1 promotional (“Swag”) items at the conference (provided by
+-  Display 1 promotional (“Swag”) item on the conference swag table (provided by
        sponsor)
 
 The **Publisher** package costs **US $5000**
@@ -136,23 +135,23 @@ The **Publisher** package costs **US $5000**
 
    PageBreak
 
-Other Sponsorship Opportunities
+Other sponsorship opportunities
 ===============================
 
-The following à la carte offerings are available to increase visibility
-at the event.
+The following à la carte offerings are available either independently or
+combined with one of the previous packages to increase visibility at the event.
 
-Financial Aid Sponsorships
+Financial Assistance
 --------------------------
 
-Write the Docs is always trying to make our community bigger and more
-inclusive. Talk to us about sponsoring travel and/or registration
-expenses for an attendee who wouldn’t otherwise be able to attend.
+Write the Docs is always trying to make our community more diverse and
+inclusive. Talk to us about sponsoring travel and/or registration expenses for
+an attendee who wouldn’t otherwise be able to attend.
 
 Lanyard
 ----------------
 
-Provide your branded lanyard for our name tags.
+Provide your branded lanyards for our name tags.
 
 Writing Day
 --------------------
@@ -160,26 +159,21 @@ Writing Day
 Sponsor the Writing Day on Sunday, where we get together to help improve the
 documentation of many projects.
 
--  Host a sponsored workshop or Writing Day session
-
 Party
 --------------
 
 We all know that some of the most valuable networking takes place after hours.
 Sponsorship of the official party includes:
 
--  Mention of company on schedule for the party, and an in-person thanks
+-  Mention of company on schedule for the party, and an on-stage thanks
 
--  Food, Non-alcoholic and Alcoholic drink options
+-  Your logo on a banner or roll up at the party venue (provided by sponsor)
 
--  Logo at the party venue (provided by sponsor)
-
-Choose Your Own Sponsorship Adventure
+Choose your own sponsorship adventure
 -------------------------------------
 
-Interested in another sponsorship opportunity? Get in touch and we’ll do
-our best to make it happen. Here are a few ideas, or you can pitch us
-something new!
+Interested in another sponsorship opportunity? Get in touch and we’ll do our
+best to make it happen. Here are a few ideas, or suggest something new!
 
 -  Breakfast
 
@@ -187,7 +181,7 @@ something new!
 
 -  Unconference
 
--  Reception
+-  Welcome reception
 
 .. raw:: pdf
 
@@ -200,15 +194,14 @@ Please direct all inquiries to our sponsorship team at:
 
 -  sponsorship@writethedocs.org
 
-Discount
-=========
+Sponsor multiple conferences
+=============================
 
-If you are interested in sponsoring both the 2016 North American and
-European conferences, we are offering a **10% discount** from the price
-of each package.
+If you are interested in sponsoring both the North American and European
+conferences, we are offering a **10% discount** from the price of each package.
 
 Payment
 =======
 
-We expect all invoices to be paid **within 21 days of receipt**, as many of our
-expenses must be paid up front.
+We expect all invoices to be paid **within 21 days of invoice receipt**, as many
+of our expenses must be paid up front.
