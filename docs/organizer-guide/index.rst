@@ -33,6 +33,7 @@ Information about our regional Write the Docs conferences.
 .. toctree::
    :maxdepth: 2
    
+   confs/start
    confs/checklist
    confs/event-roles
    confs/cfp
