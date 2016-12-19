@@ -49,29 +49,34 @@ and research. We also get really excited about talks that make people look at
 their craft in a different light. We are always delighted with the breadth of
 knowledge that our community brings together.
 
+We tend to avoid talks about specific tools, no matter how awesome they are.
+
 If you already have an idea for what you'd like to speak about, awesome! Pitch
 it to us!
 
 If you need some inspiration, below is a handful of example topics we'd love to
-hear about. (Don't feel limited to these topics *at all*. They're just here to
-get your synapses firing.)
+hear about. Don't feel limited to these topics *at all*. They're just here to
+get your synapses firing.
 
--  Managing your documentation contributors and/or publishing workflows
--  Standardizing on existing toolsets versus rolling your own Thinking about
--  information architecture in your docs, be they modest or vast Contributing
--  effectively to the open source ecosystems where your tools come from
--  Improving your writing, whether you're talking mechanics or philosophical
--  approach Any other aspect of documentation that gets you really fired up!
+- Managing your documentation contributors and/or publishing workflows
+- Standardizing on existing toolsets versus rolling your own
+- Thinking about information architecture in your docs, be they modest or vast
+- Contributing back to the open source tools ecosystem
+- Improving your writing, whether you're talking mechanics or philosophical
+  approach
+- Moving beyond gramatically-correct as a baseline
+- Measuring, analysying, reporting and optimizing documentation sets
+- Creating video, in-app, wearable or other types documentation
 
 *Need some more examples? `Our previous conference websites
-*<http://www.writethedocs.org/conf/#past-conferences>`__ include the abstracts
-*and videos for our speakers' presentations.*
+<http://www.writethedocs.org/conf/#past-conferences>`__ include the abstracts
+and videos for our speakers' presentations.*
 
 PRESENTATION FORMAT
 ===================
 
 Presentations will be scheduled in 30 minute blocks. We won't be doing Q&A after
-the talks, but we'll ask that speakers be available at the front of the stage
+the talks, but we ask that speakers be available at the front of the stage
 for a few minutes of the break after their talk to answer questions.
 
 **NEW THIS YEAR**: We're also looking for a few speakers who'd be interested in
