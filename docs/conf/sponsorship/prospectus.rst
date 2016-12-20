@@ -81,7 +81,7 @@ First Draft
 
 The **First Draft** package is only available to startups,
 non-profits,
-and open source organizations:
+and open source organizations.
 
 - One (1) ticket_
 - Small logo & link on the Write the Docs website
@@ -89,6 +89,7 @@ and open source organizations:
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
 The **First Draft** package costs **$750**.
+You can buy it directly on our `ticket website <https://ti.to/writethedocs/write-the-docs-na-2017/with/80et9e6qdes>`_
 
 Second Draft
 ------------
