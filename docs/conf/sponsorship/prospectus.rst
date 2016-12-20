@@ -1,12 +1,14 @@
-Write the Docs 2017
-####################
-
-Sponsorship
-###########
+Write the Docs 2017 Sponsorship
+###############################
 
 .. raw:: pdf
 
    PageBreak
+
+.. contents::
+   :local:
+   :depth: 1
+   :backlinks: none
 
 Concept
 =======
@@ -112,6 +114,10 @@ The **Publisher** package is great for sending a team and getting to know the co
 
 The **Publisher** package costs **$4,000**.
 
+.. raw:: pdf
+
+   PageBreak
+
 Patron (Limit 2)
 ----------------
 
@@ -143,9 +149,9 @@ The **Keystone** package costs **$14,000**.
 
 .. raw:: pdf
 
-  PageBreak
+   PageBreak
 
-Other sponsorship opportunities
+Other Sponsorship Opportunities
 ===============================
 
 The following à la carte offerings are available either independently or
@@ -164,13 +170,13 @@ Lanyard
 Provide your branded lanyards for our name tags.
 
 Writing Day
---------------------
+-----------
 
 Sponsor the Writing Day on Sunday, where we get together to help improve the
 documentation of many projects.
 
 Party
---------------
+-----
 
 We all know that some of the most valuable networking takes place after hours.
 Sponsorship of the official party includes:
@@ -178,7 +184,7 @@ Sponsorship of the official party includes:
 - Mention of company on schedule for the party, and an on-stage thanks
 - Your logo on a banner or roll up at the party venue (provided by sponsor)
 
-Choose your own sponsorship adventure
+Choose Your Own Sponsorship Adventure
 -------------------------------------
 
 Interested in another sponsorship opportunity? Get in touch and we’ll do our
@@ -194,14 +200,14 @@ best to make it happen. Here are a few ideas, or suggest something new!
   PageBreak
 
 Inquiries
-==========
+=========
 
 Please direct all inquiries to our sponsorship team at:
 
 - sponsorship@writethedocs.org
 
-Sponsor multiple conferences
-=============================
+Sponsor Multiple Conferences
+============================
 
 If you are interested in sponsoring both the North American and European
 conferences, we are offering a **10% discount** from the price of each package.
