@@ -41,7 +41,6 @@ We'd be happy to promote it and list it here.
 -   [Berlin, DE](http://www.meetup.com/Write-The-Docs-Berlin/)     
 -   [Galway, IE](http://www.meetup.com/Write-The-Docs-Ireland/)
 -   [London, UK](http://www.meetup.com/Write-The-Docs-London/)
--   [Prague, CZ](http://www.meetup.com/Write-The-Docs-Prague/)
 
 ### Current Meetups: Oceania
 
