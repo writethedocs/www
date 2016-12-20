@@ -40,11 +40,11 @@ USA and 300 in Europe, and we expect both conferences to sell out.
 
 Our audience is made up of:
 
--  Technical Writers (40%)
--  Developers (22%)
--  Support Staff (15%)
--  Managers (12%)
--  Community Contributors, Enthusiasts & Other Folks (11%)
+- Technical Writers (40%)
+- Developers (22%)
+- Support Staff (15%)
+- Managers (12%)
+- Community Contributors, Enthusiasts & Other Folks (11%)
 
 Why Sponsor
 ===========
@@ -81,10 +81,10 @@ The **First Draft** package is only available to startups,
 non-profits,
 and open source organizations:
 
--  One (1) ticket_
--  Small logo & link on the Write the Docs website
--  Name included in welcome announcement in email newsletters and social media
--  Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
+- One (1) ticket_
+- Small logo & link on the Write the Docs website
+- Name included in welcome announcement in email newsletters and social media
+- Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
 The **First Draft** package costs **$750**.
 
@@ -93,10 +93,10 @@ Second Draft
 
 The **Second Draft** package is great for companies looking to hire or promote a product.
 
--  Two (2) tickets_
--  Medium logo & link on the Write the Docs website
--  Name included in welcome announcement in email newsletters and social media
--  Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
+- Two (2) tickets_
+- Medium logo & link on the Write the Docs website
+- Name included in welcome announcement in email newsletters and social media
+- Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
 The **Second Draft** package costs **$1,500**.
 
@@ -105,10 +105,10 @@ Publisher
 
 The **Publisher** package is great for sending a team and getting to know the community.
 
--  Five (5) tickets_
--  Large logo & link on the Write the Docs website
--  Name included in welcome announcement in email newsletters and social media
--  Display 2 promotional (“Swag”) item on the conference swag table (provided by sponsor)
+- Five (5) tickets_
+- Large logo & link on the Write the Docs website
+- Name included in welcome announcement in email newsletters and social media
+- Display 2 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
 The **Publisher** package costs **$5,000**.
 
@@ -143,7 +143,7 @@ The **Keystone** package costs **$18,000**.
 
 .. raw:: pdf
 
-   PageBreak
+  PageBreak
 
 Other sponsorship opportunities
 ===============================
@@ -175,9 +175,8 @@ Party
 We all know that some of the most valuable networking takes place after hours.
 Sponsorship of the official party includes:
 
--  Mention of company on schedule for the party, and an on-stage thanks
-
--  Your logo on a banner or roll up at the party venue (provided by sponsor)
+- Mention of company on schedule for the party, and an on-stage thanks
+- Your logo on a banner or roll up at the party venue (provided by sponsor)
 
 Choose your own sponsorship adventure
 -------------------------------------
@@ -185,24 +184,21 @@ Choose your own sponsorship adventure
 Interested in another sponsorship opportunity? Get in touch and we’ll do our
 best to make it happen. Here are a few ideas, or suggest something new!
 
--  Breakfast
-
--  Evening events
-
--  Unconference
-
--  Welcome reception
+- Breakfast
+- Evening events
+- Unconference
+- Welcome reception
 
 .. raw:: pdf
 
-   PageBreak
+  PageBreak
 
 Inquiries
 ==========
 
 Please direct all inquiries to our sponsorship team at:
 
--  sponsorship@writethedocs.org
+- sponsorship@writethedocs.org
 
 Sponsor multiple conferences
 =============================
