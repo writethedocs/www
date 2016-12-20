@@ -9,11 +9,10 @@ Sponsorship
    PageBreak
 
 Concept
-=============
+=======
 
-Write the Docs
-(`*http://www.writethedocs.org/* <http://www.writethedocs.org/>`__) is a
-**two day conference** focusing on documentation systems, tech writing
+Write the Docs (http://www.writethedocs.org/) is a
+**three day conference** focusing on documentation systems, tech writing
 theory, and information delivery.
 
 Writing and maintaining documentation involves a multidisciplinary
@@ -33,7 +32,7 @@ important thing that our event can do, and we aim to provide that
 experience again this year, and make it better than ever.
 
 Demographics
-=============
+============
 
 We hold two conferences yearly, one in Portland, USA in May, and one in
 Prague, Europe in September. Attendence is approximately 400 in the
@@ -42,17 +41,13 @@ USA and 300 in Europe, and we expect both conferences to sell out.
 Our audience is made up of:
 
 -  Technical Writers (40%)
-
 -  Developers (22%)
-
 -  Support Staff (15%)
-
 -  Managers (12%)
-
 -  Community Contributors, Enthusiasts & Other Folks (11%)
 
 Why Sponsor
-=============
+===========
 
 By supporting a Write the Docs event, your company will gain not only visibility
 and credibility with front-line documentarians, but also valuable
@@ -80,56 +75,71 @@ Each of these packages applies to *one* conference, either USA or Europe. Ask us
 about discounted packages for sponsoring both conferences.
 
 First Draft
---------------------
+-----------
 
-The **First Draft** package is aimed at startups, non-profits and open source
-communities and organizations:
+The **First Draft** package is only available to startups,
+non-profits,
+and open source organizations:
 
--  One (1) `tickets <https://ti.to/writethedocs/write-the-docs-eu-2017>`_
-
+-  One (1) ticket_
 -  Small logo & link on the Write the Docs website
-
 -  Name included in welcome announcement in email newsletters and social media
+-  Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
--  Display 1 promotional (“Swag”) item on the conference swag table (provided by
-       sponsor)
-
-The **First Draft** package costs **US$750**
-
+The **First Draft** package costs **$750**.
 
 Second Draft
-----------------
+------------
 
-The **Second Draft** package for larger companies and organizations:
+The **Second Draft** package is great for companies looking to hire or promote a product.
 
--  Two (2) `tickets <https://ti.to/writethedocs/write-the-docs-eu-2017>`_
-
+-  Two (2) tickets_
 -  Medium logo & link on the Write the Docs website
-
 -  Name included in welcome announcement in email newsletters and social media
+-  Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
--  Display 1 promotional (“Swag”) item on the conference swag table (provided by
-       sponsor)
-
-The **Second Draft** package costs **US $1500**
+The **Second Draft** package costs **$1,500**.
 
 Publisher
----------------------------
+---------
 
-The **Publisher** package highlights your company as a force in the industry and
-community:
+The **Publisher** package is great for sending a team and getting to know the community.
 
--  Five (5) `tickets <https://ti.to/writethedocs/write-the-docs-eu-2017>`_
-
+-  Five (5) tickets_
 -  Large logo & link on the Write the Docs website
-
 -  Name included in welcome announcement in email newsletters and social media
+-  Display 2 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
--  Display 1 promotional (“Swag”) item on the conference swag table (provided by
-       sponsor)
+The **Publisher** package costs **$5,000**.
 
-The **Publisher** package costs **US $5000**
+Patron (Limit 2)
+----------------
 
+The **Patron** package highlights your company as a force in the industry and community:
+
+- Ten (10) tickets_
+- Small booth at the event
+- Small logo included on videos
+- Full size logo & link on the Write the Docs website
+- Name included in welcome announcement in email newsletters and social media
+- Display 3 promotional (“Swag”) item on the conference swag table (provided by sponsor)
+
+The **Patron** package costs **$12,000**.
+
+Keystone (Limit 1)
+------------------
+
+The **Keystone** package is highlighted as a community partner and 
+
+- Fifteen (15) tickets_
+- Large booth at the event
+- Dedicated table for staff
+- Large logo included on videos
+- Full size logo & link on the Write the Docs website
+- Name included in welcome announcement in email newsletters and social media
+- Display unlimited promotional (“Swag”) item on the conference swag table (provided by sponsor)
+
+The **Keystone** package costs **$18,000**.
 
 .. raw:: pdf
 
@@ -142,14 +152,14 @@ The following à la carte offerings are available either independently or
 combined with one of the previous packages to increase visibility at the event.
 
 Financial Assistance
---------------------------
+--------------------
 
 Write the Docs is always trying to make our community more diverse and
 inclusive. Talk to us about sponsoring travel and/or registration expenses for
 an attendee who wouldn’t otherwise be able to attend.
 
 Lanyard
-----------------
+-------
 
 Provide your branded lanyards for our name tags.
 
@@ -205,3 +215,6 @@ Payment
 
 We expect all invoices to be paid **within 21 days of invoice receipt**, as many
 of our expenses must be paid up front.
+
+.. _ticket: https://ti.to/writethedocs/write-the-docs-na-2017/
+.. _tickets: https://ti.to/writethedocs/write-the-docs-na-2017/
