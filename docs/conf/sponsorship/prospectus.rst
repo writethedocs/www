@@ -110,7 +110,7 @@ The **Publisher** package is great for sending a team and getting to know the co
 - Name included in welcome announcement in email newsletters and social media
 - Display 2 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
-The **Publisher** package costs **$5,000**.
+The **Publisher** package costs **$4,000**.
 
 Patron (Limit 2)
 ----------------
@@ -124,7 +124,7 @@ The **Patron** package highlights your company as a force in the industry and co
 - Name included in welcome announcement in email newsletters and social media
 - Display 3 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
-The **Patron** package costs **$12,000**.
+The **Patron** package costs **$8,000**.
 
 Keystone (Limit 1)
 ------------------
@@ -139,7 +139,7 @@ The **Keystone** package is highlighted as a community partner and
 - Name included in welcome announcement in email newsletters and social media
 - Display unlimited promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
-The **Keystone** package costs **$18,000**.
+The **Keystone** package costs **$14,000**.
 
 .. raw:: pdf
 
