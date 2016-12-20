@@ -2,7 +2,7 @@ Sphinx Themes
 =============
 
 These are the Sphinx themes that we recommend.
-If there are any others you like, 
+If there are any others you like,
 feel free to open a pull request to add them.
 
 Requirements to be included on this list:
@@ -51,3 +51,13 @@ or just wants a simple good looking theme.
 .. image:: /_static/img/bootstrap.png
    :width: 80%
 
+Guzzle Theme
+------------
+
+Originally build for Guzzle (PHP HTTP client), this theme is another
+mobile friendly alternative with nice colors.
+
+* https://github.com/guzzle/guzzle_sphinx_theme
+
+.. image:: /_static/img/guzzle.png
+  :width: 80%
