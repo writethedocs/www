@@ -101,9 +101,6 @@ are unable to attend due to travel costs, please let us know and we will do our
 best to help make it happen.
 
 Speaking at Write the Docs is a fantastic way to participate in the community.
-Additionally, all those who submit a proposal but are not selected to speak will
-be able to register at the early bird registration price, even if the cut-off
-has passed.
 
 Finally, you’ll hear from us with our proposal decisions by March 1st.
 
