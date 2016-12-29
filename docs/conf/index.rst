@@ -5,7 +5,7 @@ Conferences
 tech writing theory, and information delivery. We consider everyone
 who cares about communication and documentation and their users to be a
 member of our community. This can be programmers, tech writers, customer
-support, marketers, and anyone else who wants people to have great
+support, developer advocates, marketers, and anyone else who wants people to have great
 experiences with software.
 
 Our conferences create a time and a place for the global community of
