@@ -1,6 +1,6 @@
 .. meta::
-   :description: A series of events for technical writers, 
-                 documentarians, 
+   :description: A series of events for technical writers,
+                 documentarians,
                  and all those who write the docs.
    :author: Write the Docs
    :geo.placename: Portland, Oregon
@@ -12,7 +12,7 @@ Welcome to the Write the Docs Community
 
 We consider everyone who cares about communication, documentation, and
 their users to be a member of our community. This can be programmers,
-tech writers, customer support, marketers, and anyone else who wants
+tech writers, developer advocates, customer support, marketers, and anyone else who wants
 people to have great experiences with software.
 
 Our conferences create a time and a place for the global community of
@@ -48,7 +48,7 @@ You can sign up in our sidebar.
 Meetups
 ~~~~~~~
 
-We have meetups in multiple cities every month. 
+We have meetups in multiple cities every month.
 The :doc:`/meetups/index` page has more information.
 
 Slack
@@ -56,7 +56,7 @@ Slack
 
 You can join us on the :doc:`/slack` for real-time discussion and to keep in touch with folks from the community.
 
-Slack conversations aren't archived, so we recommend either putting substantial items of interest on the forum, 
+Slack conversations aren't archived, so we recommend either putting substantial items of interest on the forum,
 or moving them there if they develop into something bigger.
 
 Learn more about our :doc:`/slack`.
@@ -67,8 +67,8 @@ Forum
 Check out our `Forum <http://forum.writethedocs.org/>`__ to keep in
 touch with your fellow documentarians.
 
-The forum is the place to start discussions that we should keep around for a while. If a Slack conversation 
-starts to get a lot of attention and seems like something of permanent interest, we suggest that you move it 
+The forum is the place to start discussions that we should keep around for a while. If a Slack conversation
+starts to get a lot of attention and seems like something of permanent interest, we suggest that you move it
 over to the forum.
 
 Contact Us
@@ -107,5 +107,3 @@ Useful Pages
    conf/na/*/*/*
    conf/eu/*/*
    conf/eu/*/*/*
-
-

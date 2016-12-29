@@ -39,7 +39,7 @@ Date Announcement
 * **"The Conference":** Make a short description of the conference. Describe the spirit of the event and mention topics from previous WTD conferences. Use the end of this section to give more details about your venue (link to website and location on a map) and schedule.
 * **"Auxiliary Events":** List auxiliary activities (hike, city tours, social events, etc) that will be held during the conference. Give a short description for each entry.
 * **"While you're Waiting":** People should now be excited and will want to know more info that what you've provided. Give info on how to reach you and how to get future news (mailing list, Twitter, etc). Don't forget to ask for sponsors!
-* **"Get Excited!":** Write a small conclusion: make everyone (programmers, writers, designers, etc) feel welcomed. Don't forget to mention the CFP: if you have a date already, perfect, if not, "soon" and an invitation to start gathering ideas will do.
+* **"Get Excited!":** Write a small conclusion: make everyone (programmers, writers, designers, developer advocates, etc) feel welcomed. Don't forget to mention the CFP: if you have a date already, perfect, if not, "soon" and an invitation to start gathering ideas will do.
 
 `Date announcement` emails from previous WTD conferences:
 
