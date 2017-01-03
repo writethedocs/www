@@ -1,4 +1,4 @@
-:template: 2016/na.html
+:template: 2017/na-content.html
 
 Venue
 -----

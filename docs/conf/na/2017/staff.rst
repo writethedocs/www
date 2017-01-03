@@ -1,3 +1,5 @@
+:template: 2017/na-content.html
+
 Staff
 ===========
 
