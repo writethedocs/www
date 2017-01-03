@@ -57,16 +57,38 @@
         <div class="row">
           <div class="col-xs-12 text-center">
             <h4 class="join__heading">Join us now!</h4>
-            <a href="#" class="join__talk btn btn-primary button">Submit a talk!</a>
+            <a href="{{ pathto('conf/na/2017/cfp') }}" class="join__talk btn btn-primary button">Submit a talk!</a>
             <p class="join__paragraph">or</p>
-            <a href="#" class="join__ticket btn btn-primary button">Buy a ticket!</a>
+            <a href="{{ pathto('conf/na/2017/tickets') }}" class="join__ticket btn btn-primary button">Buy a ticket!</a>
           </div>
         </div>
       </div>
     </section>
     
     <section class="instagram">
-      Owl
+      <div class="owl-carousel" id="owl-instagram">
+        <a href="#" class="instagram__tile">
+          <img src="/_static/img/2016/na/attendees.jpg" alt="">
+        </a>
+        <a href="#" class="instagram__tile">
+          <img src="/_static/img/2016/na/group.jpg" alt="">
+        </a>
+        <a href="#" class="instagram__tile">
+          <img src="/_static/img/2016/na/tshirt.jpg" alt="">
+        </a>
+        <a href="#" class="instagram__tile">
+          <img src="/_static/img/2016/na/laptop.jpg" alt="">
+        </a>
+        <a href="#" class="instagram__tile">
+          <img src="/_static/img/2016/eu/autoklub-mainhall.jpg" alt="">
+        </a>
+        <a href="#" class="instagram__tile">
+          <img src="/_static/img/2016/eu/autoklub-foyer.jpg" alt="">
+        </a>
+        <a href="#" class="instagram__tile">
+          <img src="/_static/img/2016/eu/outside.jpg" alt="">
+        </a>
+      </div>
     </section>
 
     <footer class="footer">
@@ -75,16 +97,15 @@
           <div class="col-xs-12 col-md-9 text-xs-center text-md-left">
             <ul class="list-unstyled footer__copy copy">
               <li><p class="copy__item copy__item--first">© 2017 Write the Docs</p></li>
-              <li><a href="#" class="copy__item">Code of Conduct</a></li>
-              <li><a href="#" class="copy__item">Write the Docs</a></li>
+              <li><a href="{{ pathto('code-of-conduct') }}" class="copy__item">Code of Conduct</a></li>
+              <li><a href="{{ pathto('index') }}" class="copy__item">Write the Docs</a></li>
             </ul>
           </div>
           <div class="col-xs-12 col-md-3 text-xs-center text-md-right"> 
             <ul class="socials list-inline">
-              <li><a href="#" class="socials__item">&#xe906;</a></li>
-              <li><a href="#" class="socials__item socials__item--flickr">&#xe905;</a></li>
-              <li><a href="#" class="socials__item">&#xe904;</a></li>
-              <li><a href="#" class="socials__item">&#xe903;</a></li>
+              <li><a href="https://twitter.com/writethedocs" class="socials__item">&#xe906;</a></li>
+              <li><a href="https://www.flickr.com/photos/writethedocs/" class="socials__item socials__item--flickr">&#xe905;</a></li>
+              <li><a href="https://github.com/writethedocs" class="socials__item">&#xe903;</a></li>
             </ul>
           </div>
         </div>

@@ -73,12 +73,12 @@
     <nav>
       <ul class="list-inline menu__list">
         <li class="menu__list-item menu__list-item--first">
-          <a href="index.html" class="menu__item menu__item--active menu__item btn btn-link menu__item--home">
+          <a href="{{ pathto('conf/na/2017/index') }}" class="menu__item menu__item--active menu__item btn btn-link menu__item--home">
             &#xe907;
           </a>
         </li>
         <li class="menu__list-item">
-          <a href="news.html" class="menu__item btn btn-link">
+          <a href="{{ pathto('conf/na/2017/news/index') }}" class="menu__item btn btn-link">
             News
           </a>
         </li>
@@ -96,7 +96,7 @@
         </li>
         <li class="menu__list-item">
           <a href="{{ pathto('conf/na/2017/tickets') }}" class="menu__item btn btn-link">
-            Register
+            Tickets
           </a>
         </li>
         <li class="menu__list-item">
@@ -105,12 +105,12 @@
           </a>
         </li>
         <li class="menu__list-item">
-          <a href="{{ pathto('conf/sponsorship/prospectus') }}" class="menu__item btn btn-link">
+          <a href="{{ pathto('conf/na/2017/sponsor') }}" class="menu__item btn btn-link">
             Sponsor
           </a>
         </li>
         <li class="menu__list-item" data-dropdown>
-          <a href="#" class="menu__item btn btn-link">
+          <a href="{{ pathto('conf/na/2017/visiting') }}" class="menu__item btn btn-link">
             Visit
           </a>
           <ul class="menu__dropdown">
