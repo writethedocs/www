@@ -1,0 +1,134 @@
+  <div class="offcanvas--bg" data-offcanvas-bg></div>
+  <div class="offcanvas" data-offcanvas>
+    <button class="offcanvas__close btn-link" data-offcanvas-close>&#xe901;</button>
+    <ul class="offcanvas__menu menu-mobile">
+      <li class="menu-mobile__item">
+        <a href="">News</a>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <a href="">Program</a>
+        <ul class="menu-mobile__dropdown">
+          <li><a href="">Overview</a></li>
+          <li><a href="">Hike</a></li>
+          <li><a href="">Writing day</a></li>
+          <li><a href="">Tutorials</a></li>
+          <li><a href="">Welcome reception</a></li>
+          <li><a href="">Presentations</a></li>
+          <li><a href="">Lightning talks</a></li>
+          <li><a href="">Unconference</a></li>
+        </ul>
+      </li>
+      <li class="menu-mobile__item">
+        <a href="">Register</a>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <a href="">Speak</a>
+        <ul class="menu-mobile__dropdown">
+          <li><a href="">Submit a Talk</a></li>
+          <li><a href="">Presentation Guidelines</a></li>
+        </ul>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <a href="">Sponsor</a>
+        <ul class="menu-mobile__dropdown">
+          <li><a href="">Meet our sponsors</a></li>
+          <li><a href="">Why sponsor</a></li>
+          <li><a href="">Sponsorship levels</a></li>
+          <li><a href="">Contact form</a></li>
+        </ul>
+      </li>
+      <li class="menu-mobile__item">
+        <a href="">Visit</a>
+        <ul class="menu-mobile__dropdown">
+          <li><a href="">Venue Information</a></li>
+          <li><a href="">Travel</a></li>
+          <li><a href="">Things to Do</a></li>
+        </ul>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <a href="">About</a>
+        <ul class="menu-mobile__dropdown">
+          <li><a href="">Welcome Wagon</a></li>
+          <li><a href="">Meet the Team</a></li>
+          <li><a href="">Past Events</a></li>
+          <li><a href="">Code of Conduct</a></li>
+        </ul>
+      </li>
+      <li class="menu-mobile__item">
+        <a href="">Contact Us</a>
+      </li>
+    </ul>
+  </div>
+  <div class="mobile-bar">
+    <div class="mobile-bar__col mobile-bar__col--hamburger">
+      <button class="mobile-bar__hamburger btn-link" data-offcanvas-icon>&#xe900;</button>
+    </div>
+    <div class="mobile-bar__col mobile-bar__col--logo">
+      <a href="index.html">
+        <img src="{{ pathto('_static/images/logo-mobile.svg', 1) }}" alt="Write The Docs" class="mobile-bar__logo">
+      </a>
+    </div>
+  </div>
+  <div class="menu">
+    <nav>
+      <ul class="list-inline menu__list">
+        <li class="menu__list-item menu__list-item--first">
+          <a href="index.html" class="menu__item menu__item--active menu__item btn btn-link menu__item--home">
+            &#xe907;
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="news.html" class="menu__item btn btn-link">
+            News
+          </a>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="{{ pathto('conf/na/2017/schedule') }}" class="menu__item btn btn-link">
+            Program
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="{{ pathto('conf/na/2017/schedule') }}">Full Schedule</a></li>
+            <li><a href="{{ pathto('conf/na/2017/hike') }}">Hike</a></li>
+            <li><a href="{{ pathto('conf/na/2017/writing-day') }}">Writing Day</a></li>
+            <li><a href="{{ pathto('conf/na/2017/lightning-talks') }}">Lightning Talks</a></li>
+            <li><a href="{{ pathto('conf/na/2017/unconference') }}">Unconference</a></li>
+          </ul>
+        </li>
+        <li class="menu__list-item">
+          <a href="{{ pathto('conf/na/2017/tickets') }}" class="menu__item btn btn-link">
+            Register
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="{{ pathto('conf/na/2017/cfp') }}" class="menu__item btn btn-link">
+            Speak
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="{{ pathto('conf/sponsorship/prospectus') }}" class="menu__item btn btn-link">
+            Sponsor
+          </a>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="#" class="menu__item btn btn-link">
+            Visit
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="{{ pathto('conf/na/2017/venue') }}">Venue Information</a></li>
+            <li><a href="{{ pathto('conf/na/2017/visiting') }}">Visiting Portland</a></li>
+          </ul>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="#" class="menu__item btn btn-link">
+            About
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="{{ pathto('conf/na/2017/welcome-wagon') }}">Welcome Wagon</a></li>
+            <li><a href="{{ pathto('conf/na/2017/staff') }}">Meet the Team</a></li>
+            <li><a href="{{ pathto('conf/index') }}">Past Events</a></li>
+            <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>

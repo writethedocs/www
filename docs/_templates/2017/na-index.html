@@ -1,0 +1,298 @@
+{% extends "2017/base.html" %}
+
+{% block head_link %}
+  <title>{% if title %}{{ title }} - {% endif %}Write the Docs Portland 2017</title>
+  {{ super() }}
+{% endblock %}
+
+{% block container %}
+    {% block body %}
+    <header class="header">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-md-4 text-center">
+            <a href="index.html" class="header__logo">
+              <img src="{{ pathto('_static/dist/images/logo.svg', 1) }}" alt="Write The Docs">
+            </a>
+          </div>
+          <div class="col-xs-12 col-md-8 text-xs-right">
+            <div class="header__desc home-about">
+              <h2 class="home-about__heading">Conference focused on documentation systems, tech writing theory and information delivery</h2>
+              <p class="home-about__paragraph">Write the Docs brings everyone who writes the docs together in the same room: Writers, Developers, Support Folks. We all have things to learn from each other, and there’s no better way than sitting together and talking.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    
+    <main>
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+
+            <div class="main-container main-container--home">
+
+              <section class="buy-ticket">
+                <div class="row">
+                  <div class="col-xs-12 col-md-5 text-center">
+                    <p class="buy-ticket__p buy-ticket__p--first">
+                      Portland, Oregon 
+                      <span>|</span>
+                      May 14-16, 2016
+                    </p>
+                  </div>
+                  <div class="col-xs-12 col-md-7 text-xs-center text-md-right">
+                    <div class="buy-ticket__2nd-col">
+                      <a href="#" class="btn btn-primary button button--narrow buy-ticket__talk">Submit a talk!</a>
+                      <p class="buy-ticket__p">or</p>
+                      <a href="#" class="btn btn-primary button button--narrow buy-ticket__ticket">Buy a ticket!</a>
+                    </div>
+                  </div>
+                </div>
+              </section>
+              
+              <section class="section">
+                <div class="row">
+                  <div class="col-xs-12">
+                    <div class="section__header subheader">
+                      <span class="subheader__yellow"></span>
+                      <h2 class="subheader__header">Latest News</h2>
+                      <a href="news.html" class="subheader__more">Read all news</a>
+                    </div>
+                  </div>
+                </div>  
+                <div class="row">
+                  <div class="col-xs-12 col-md-4">
+                    <a href="news-post.html" class="well news__tile">
+                      <h3 class="well__title">
+                        Announcing Ticket Sales and Call for Proposals
+                      </h3>
+                      <p class="well__paragraph">
+                        Write the Docs NA 2016 is four months away and we hope you’re getting excited! It will be another wonderful year full of great conversation and…
+                      </p>
+                      <div class="well__time">
+                        <span>12:30 AM</span>|<span>12.04.2016</span>
+                      </div>
+                    </a>
+                  </div>
+                  <div class="col-xs-12 col-md-4">
+                    <a href="news-post.html" class="well news__tile">
+                      <h3 class="well__title">
+                        Announcing Ticket Sales and Call for Proposals
+                      </h3>
+                      <p class="well__paragraph">
+                        Write the Docs NA 2016 is four months away and we hope you’re getting excited! It will be another wonderful year full of great conversation and…
+                      </p>
+                      <div class="well__time">
+                        <span>12:30 AM</span>|<span>12.04.2016</span>
+                      </div>
+                    </a>
+                  </div>
+                  <div class="col-xs-12 col-md-4">
+                    <a href="news-post.html" class="well news__tile">
+                      <h3 class="well__title">
+                        Announcing Ticket Sales and Call for Proposals
+                      </h3>
+                      <p class="well__paragraph">
+                        Write the Docs NA 2016 is four months away and we hope you’re getting excited! It will be another wonderful year full of great conversation and…
+                      </p>
+                      <div class="well__time">
+                        <span>12:30 AM</span>|<span>12.04.2016</span>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </section>
+              
+              <!-- Schedule -->
+              <section class="section">
+                <div class="row">
+                  <div class="col-xs-12">
+                    <div class="section__header subheader">
+                      <span class="subheader__yellow"></span>
+                      <h2 class="subheader__header">Schedule overview</h2>
+                      <a href="schedule.html" class="subheader__more">See full schedule</a>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="schedule-home">
+                    <div class="schedule-home__line"></div>
+                    <div class="col-xs-12 col-sm-4 text-center">
+                      <div class="schedule-home__tile">
+                        <div class="schedule-home__date">
+                          May 14
+                        </div>
+                        <p class="schedule-home__day">
+                          Sunday
+                        </p>
+                        <p class="schedule-home__desc">
+                          Proin aliquam nunc at facilisis aliquet. Phasellus ligula risus, maximus a mollis vitae, bibendum vitae sem. Maecenas iaculis dolor in eros molestie vehicula.
+                        </p>
+                        <a href="#" class="schedule-home__more">
+                          Read more
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 text-center">
+                      <div class="schedule-home__tile">
+                        <div class="schedule-home__date">
+                          May 15
+                        </div>
+                        <p class="schedule-home__day">
+                          Monday
+                        </p>
+                        <p class="schedule-home__desc">
+                          Proin aliquam nunc at facilisis aliquet. Phasellus ligula risus, maximus a mollis vitae, bibendum vitae sem. Maecenas iaculis dolor in eros molestie vehicula.
+                        </p>
+                        <a href="#" class="schedule-home__more">
+                          Read more
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 text-center">
+                      <div class="schedule-home__tile schedule-home__tile--last">
+                        <div class="schedule-home__date">
+                          May 16
+                        </div>
+                        <p class="schedule-home__day">
+                          Tuesday
+                        </p>
+                        <p class="schedule-home__desc">
+                          Proin aliquam nunc at facilisis aliquet. Phasellus ligula risus, maximus a mollis vitae, bibendum vitae sem. Maecenas iaculis dolor in eros molestie vehicula.
+                        </p>
+                        <a href="#" class="schedule-home__more">
+                          Read more
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+              
+              <!-- Speakers -->
+              <section class="section section--last">
+                <div class="row">
+                  <div class="col-xs-12">
+                    <div class="section__header subheader">
+                      <span class="subheader__yellow"></span>
+                      <h2 class="subheader__header">Speakers</h2>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-6 col-md-1-5 text-center">
+                    <div class="person">
+                      <img {{ pathto('_static/dist/images/ted-hudek.jpg', 1) }} alt="Ted Hudek" class="person__img">
+                      <p class="person__name">Ted Hudek</p>
+                      <div class="person__socials">
+                        <a href="#">&#xe906;</a>
+                        <a href="#">&#xe902;</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-6 col-md-1-5 text-center">
+                    <div class="person">
+                      <img src="{{ pathto('_static/dist/images/riona-macnamara.jpg', 1) }}" alt="Riona Macnamara" class="person__img">
+                      <p class="person__name">Riona Macnamara</p>
+                      <div class="person__socials">
+                        <a href="#">&#xe906;</a>
+                        <a href="#">&#xe902;</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-6 col-md-1-5 text-center">
+                    <div class="person">
+                      <img src="{{ pathto('_static/dist/images/britta-gustafson.jpg', 1) }}" alt="Britta Gustafson" class="person__img">
+                      <p class="person__name">Britta Gustafson</p>
+                      <div class="person__socials">
+                        <a href="#">&#xe906;</a>
+                        <a href="#">&#xe902;</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-6 col-md-1-5 text-center">
+                    <div class="person">
+                      <img src="{{ pathto('_static/dist/images/brianne-hillmer.jpg', 1) }}" alt="Brianne Hillmer" class="person__img">
+                      <p class="person__name">Brianne Hillmer</p>
+                      <div class="person__socials">
+                        <a href="#">&#xe906;</a>
+                        <a href="#">&#xe902;</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-6 col-md-1-5 text-center">
+                    <div class="person">
+                      <img src="{{ pathto('_static/dist/images/sharon-campbell.jpg', 1) }}" alt="Sharon Campbell" class="person__img">
+                      <p class="person__name">Sharon Campbell</p>
+                      <div class="person__socials">
+                        <a href="#">&#xe906;</a>
+                        <a href="#">&#xe902;</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-6 col-md-1-5 text-center">
+                    <div class="person">
+                      <img src="{{ pathto('_static/dist/images/sharon-campbell.jpg', 1) }}" alt="Sharon Campbell" class="person__img">
+                      <p class="person__name">Sharon Campbell</p>
+                      <div class="person__socials">
+                        <a href="#">&#xe906;</a>
+                        <a href="#">&#xe902;</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-6 col-md-1-5 text-center">
+                    <div class="person">
+                      <img src="{{ pathto('_static/dist/images/britta-gustafson.jpg', 1) }}" alt="Britta Gustafson" class="person__img">
+                      <p class="person__name">Britta Gustafson</p>
+                      <div class="person__socials">
+                        <a href="#">&#xe906;</a>
+                        <a href="#">&#xe902;</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-6 col-md-1-5 text-center">
+                    <div class="person">
+                      <img src="{{ pathto('_static/dist/images/brianne-hillmer.jpg', 1) }}" alt="Brianne Hillmer" class="person__img">
+                      <p class="person__name">Brianne Hillmer</p>
+                      <div class="person__socials">
+                        <a href="#">&#xe906;</a>
+                        <a href="#">&#xe902;</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-6 col-md-1-5 text-center">
+                    <div class="person">
+                      <img src="{{ pathto('_static/dist/images/riona-macnamara.jpg', 1) }}" alt="Riona Macnamara" class="person__img">
+                      <p class="person__name">Riona Macnamara</p>
+                      <div class="person__socials">
+                        <a href="#">&#xe906;</a>
+                        <a href="#">&#xe902;</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-6 col-md-1-5 text-center">
+                    <div class="person">
+                      <img src="{{ pathto('_static/dist/images/ted-hudek.jpg', 1) }}" alt="Ted Hudek" class="person__img">
+                      <p class="person__name">Ted Hudek</p>
+                      <div class="person__socials">
+                        <a href="#">&#xe906;</a>
+                        <a href="#">&#xe902;</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12 text-center">
+                    <p class="section__more">More speakers will be announced soon!</p>
+                  </div>
+                </div>
+              </section>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+  {% endblock body %}
+{% endblock %}
