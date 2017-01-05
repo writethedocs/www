@@ -1,0 +1,68 @@
+:template: 2017/na-content.html
+
+Announcing Call for Proposals, Ticket Sales and Website
+=======================================================
+
+`Write the Docs Portland 2017 <http://www.writethedocs.org/conf/na/2017/>`_ 
+is a bit over four months away and we hope you're getting excited!
+It will be another wonderful year full of great conversation and
+interesting talks.
+
+Today we are announcing our `Call for Proposals <http://www.writethedocs.org/conf/na/2017/cfp/>`_,
+`ticket sales <http://www.writethedocs.org/conf/na/2017/tickets/>`_,
+ and `website <http://www.writethedocs.org/conf/na/2017/>`_.
+Speaking at Write the Docs is a fantastic way to share your ideas with
+our inspiring community of documentarians. 
+If there is something you'd really like to see a talk on this year,
+submit a talk on it,
+or refer someone else who would be good!
+
+Call for Proposals
+------------------
+
+Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you’ve been writing documentation for decades or you’ve just started this year, we want to hear from you!
+
+You can read our full `Call for
+Proposals <http://www.writethedocs.org/conf/na/2017/cfp/>`__ on the website.
+The Call for Proposals will be open until **Midnight PST Febuary 10** this year.
+
+Tickets
+-------
+
+You can see our 2017 ticket prices on our `Tickets <http://www.writethedocs.org/conf/na/2017/tickets/>`_ page.
+This is the first year that we aren't expanding the size of the event,
+and it's capped at 400 people.
+We sold out at this size last year,
+so we expect to sell out even sooner this year.
+
+We believe that everyone who cares about this topic has a place at our
+event. We keep ticket prices low so that it is accessible to the widest
+range of people possible. We have slowly raised prices over time to make
+the event more sustainable to run, but we still feel they are quite reasonable and below the market rate for the experience we provide.
+
+If you can't afford these prices and still wish to attend, please email
+us at conf@writethedocs.org, and we can work on getting you reduced
+price tickets.
+
+As with the previous years, we have tiered pricing to make it fair for
+everyone.
+Please buy the ticket that best fits your situation.
+Tickets are **on sale now**. 
+`Buy them now <http://www.writethedocs.org/conf/na/2017/tickets/>`_.
+
+Website
+-------
+
+We have a new `conference website <http://www.writethedocs.org/conf/na/2017/>`_ design this year.
+We think it's quite a usable design and will be a suitable online home for our event.
+
+As with all things on the web,
+there are likely to be a few lingering bugs with the design.
+Feel free to reach out to us by replying to the email,
+or emailing us at conf@writethedocs.org if you see any issues!
+
+Conclusion
+----------
+
+We hope you will join us at Write the Docs again this year. Whether as a
+speaker or attendee, you can bet it will be another delightful year.
