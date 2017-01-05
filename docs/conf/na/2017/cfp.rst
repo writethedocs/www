@@ -51,22 +51,7 @@ knowledge that our community brings together.
 
 We tend to avoid talks about specific tools, no matter how awesome they are.
 
-If you already have an idea for what you'd like to speak about, awesome! Pitch
-it to us!
-
-If you need some inspiration, below is a handful of example topics we'd love to
-hear about. Don't feel limited to these topics *at all*. They're just here to
-get your synapses firing.
-
-- Managing your documentation contributors and/or publishing workflows
-- Standardizing on existing toolsets versus rolling your own
-- Thinking about information architecture in your docs, be they modest or vast
-- Contributing back to the open source tools ecosystem
-- Improving your writing, whether you're talking mechanics or philosophical
-  approach
-- Moving beyond gramatically-correct as a baseline
-- Measuring, analysying, reporting and optimizing documentation sets
-- Creating video, in-app, wearable or other types documentation
+If you already have an idea for what you'd like to speak about, awesome! Pitch it to us!
 
 Need some more examples? 
 Check out our previous abstracts for some ideas:
