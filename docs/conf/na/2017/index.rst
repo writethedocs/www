@@ -21,12 +21,12 @@
                     <div class="buy-ticket__2nd-col">
                       <a href="cfp/" class="btn btn-primary button button--narrow buy-ticket__talk">Submit a talk!</a>
                       <p class="buy-ticket__p">or</p>
-                      <a href="tickets/" class="btn btn-primary button button--narrow buy-ticket__ticket">Buy a ticket!</a>
+                      <a href="https://ti.to/writethedocs/write-the-docs-na-2017/" class="btn btn-primary button button--narrow buy-ticket__ticket">Buy a ticket!</a>
                     </div>
                   </div>
                 </div>
               </section>
-              
+
               <!-- Schedule -->
               <section class="section">
                 <div class="row">
