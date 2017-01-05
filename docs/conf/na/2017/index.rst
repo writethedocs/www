@@ -67,7 +67,7 @@
                     <div class="section__header subheader">
                       <span class="subheader__yellow"></span>
                       <h2 class="subheader__header">Schedule overview</h2>
-                      <a href="schedule.html" class="subheader__more">See full schedule</a>
+                      <a href="/conf/na/2017/schedule/" class="subheader__more">See full schedule</a>
                     </div>
                   </div>
                 </div>
