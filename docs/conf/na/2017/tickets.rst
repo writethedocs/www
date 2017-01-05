@@ -8,7 +8,7 @@ Tickets
 
 .. raw:: html
 
-You can buy a ticket on our `ticket website <https://ti.to/writethedocs/write-the-docs-na-2017/>`_
+You can buy a ticket on our `ticket website <https://ti.to/writethedocs/write-the-docs-na-2017/>`_.
 
 Ticket includes:
 
