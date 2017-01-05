@@ -44,14 +44,15 @@
                   <div class="col-xs-12 col-md-4">
                     <a href="news-post.html" class="well news__tile">
                       <h3 class="well__title">
-                        Announcing Ticket Sales, CFP, and Website
+                        Announcing Call for Proposals, Ticket Sales and Website
                       </h3>
                       <p class="well__paragraph">
-                        Write the Docs Portland 2017 is a bit more than four months away and we hope you’re getting excited! 
-
+                      Write the Docs Portland 2017 is a bit over four months away and we hope you're getting excited!
+                      It will be another wonderful year full of great conversation and
+                      interesting talks...
                       </p>
                       <div class="well__time">
-                        <span>12:30 AM</span>|<span>12.04.2016</span>
+                        <span>3 PM</span>|<span>01.05.2017</span>
                       </div>
                     </a>
                   </div>
