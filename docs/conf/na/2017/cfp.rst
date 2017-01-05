@@ -1,11 +1,11 @@
 :template: 2017/na-content.html
 
-CALL FOR PROPOSALS
+Call for proposals
 ==================
 
 Hello hello, fellow documentarians! It's that time of year again: We’re very
 excited to announce that we are now accepting talk proposals for our next North
-American conference, coming up on May 14-16, 2017, in Portland, Oregon.
+American conference, coming up on **May 14-16, 2017, in Portland, Oregon**.
 
 Every year, Write the Docs invites people from all across our community to come
 up on stage to share their insights and experience. Whether you’ve been writing
@@ -17,8 +17,8 @@ In the meantime, mark your calendars: **The deadline for submitting proposals is
 Midnight PST on February 10, 2017.** We aim to let you know if your proposal is
 accepted by 1st March.
 
-CONFERENCE GOALS
-================
+Conference goals
+----------------
 
 The purpose of Write the Docs is to bring together people who are passionate
 about documentation and give them an opportunity to interact with and learn from
@@ -32,8 +32,8 @@ hear from you. Bring us your tips, tricks, experiences, ideas, frustrations,
 hopes, or anything else that your passion for documentation inspires you to
 share!
 
-WHAT WE’RE LOOKING FOR
-======================
+What we’re looking for
+----------------------
 
 Although the focus of Write the Docs is on documentation, particularly within
 the software industry, we aim for a wide range of talks that will lead people
@@ -50,6 +50,8 @@ their craft in a different light. We are always delighted with the breadth of
 knowledge that our community brings together.
 
 We tend to avoid talks about specific tools, no matter how awesome they are.
+We much prefer talks about process and culture shifts,
+and the tools can play a supporting role.
 
 If you already have an idea for what you'd like to speak about, awesome! Pitch it to us!
 
@@ -62,8 +64,8 @@ Check out our previous abstracts for some ideas:
 * `Prague 2015 <http://www.writethedocs.org/conf/eu/2015/speakers/>`_
 
 
-PRESENTATION FORMAT
-===================
+Presentation format
+-------------------
 
 Presentations will be scheduled in 30 minute blocks. We won't be doing Q&A after
 the talks, but we ask that speakers be available at the front of the stage
@@ -77,8 +79,8 @@ we're looking to get a handful of pre-planned anchor sessions (also 30 minutes) 
 Let us know, in the submission form, whether you'd prefer to give a talk or lead
 an anchor session.
 
-SPEAKER BENEFITS & LOGISTICS
-============================
+Speaker benefits & logistics
+----------------------------
 
 If you are selected to speak at Write the Docs, we will waive your attendance
 fee. We regret that we are not able to cover the cost of travel or lodging for
@@ -92,14 +94,14 @@ Speaking at Write the Docs is a fantastic way to participate in the community.
 
 Finally, you’ll hear from us with our proposal decisions by March 1st.
 
-QUESTIONS?
-==========
+Questions?
+----------
 
 If you have any questions, please email us at conf@writethedocs.org and
 let us know.
 
-FORM
-====
+Form
+----
 
 You can also view `our CFP <https://docs.google.com/forms/d/e/1FAIpQLSceKzQwM2UaU-KXBcImc2Gl3qaz11NV3fg8s3iYUOOFoDcAkw/viewform>`_ in it's own page.
 
