@@ -209,8 +209,9 @@ def rstjinja(app, docname, source):
 
 
 def add_jinja_filters(app):
+    if getattr(app.builder, 'implementation', None) or app.builder.format != 'html':
+        return
     app.builder.templates.environment.filters['slugify'] = slugify
-
 
 def setup(app):
     app.connect('html-page-context', on_page_context)
