@@ -27,39 +27,6 @@
                 </div>
               </section>
               
-              <section class="section">
-                <div class="row">
-                  <div class="col-xs-12">
-                    <div class="section__header subheader">
-                      <span class="subheader__yellow"></span>
-                      <h2 class="subheader__header">Latest News</h2>
-                      <!-- Kill this for now
-                      <a href="news.html" class="subheader__more">Read all news</a>
-                      -->
-                    </div>
-                  </div>
-                </div>  
-
-                <div class="row">
-                  <div class="col-xs-12 col-md-4">
-                    <a href="news/announcing-tickets-cfp-website/" class="well news__tile">
-                      <h3 class="well__title">
-                        Announcing Call for Proposals, Ticket Sales and Website
-                      </h3>
-                      <p class="well__paragraph">
-                      Write the Docs Portland 2017 is a bit over four months away and we hope you're getting excited!
-                      It will be another wonderful year full of great conversation and
-                      interesting talks...
-                      </p>
-                      <div class="well__time">
-                        <span>3 PM</span>|<span>01.05.2017</span>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-
-              </section>
-              
               <!-- Schedule -->
               <section class="section">
                 <div class="row">
@@ -121,6 +88,40 @@
                   </div>
                 </div>
               </section>
+              
+              <section class="section">
+                <div class="row">
+                  <div class="col-xs-12">
+                    <div class="section__header subheader">
+                      <span class="subheader__yellow"></span>
+                      <h2 class="subheader__header">Latest News</h2>
+                      <!-- Kill this for now
+                      <a href="news.html" class="subheader__more">Read all news</a>
+                      -->
+                    </div>
+                  </div>
+                </div>  
+
+                <div class="row">
+                  <div class="col-xs-12 col-md-4">
+                    <a href="news/announcing-tickets-cfp-website/" class="well news__tile">
+                      <h3 class="well__title">
+                        Announcing Call for Proposals, Ticket Sales and Website
+                      </h3>
+                      <p class="well__paragraph">
+                      Write the Docs Portland 2017 is a bit over four months away and we hope you're getting excited!
+                      It will be another wonderful year full of great conversation and
+                      interesting talks...
+                      </p>
+                      <div class="well__time">
+                        <span>3 PM</span>|<span>01.05.2017</span>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+
+              </section>
+              
 
             </div>
           </div>
