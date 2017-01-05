@@ -4,7 +4,7 @@ Event Roles
 ===========
 
 These roles describe the work that needs to be done to organize a Write the Docs conference according 
-to the model that's in place for NA (Portland) amd EU. Depending on the amount of work required, one person
+to the model that's in place for NA (Portland) and EU. Depending on the amount of work required, one person
 can hold multiple roles.
 
 Primary Roles

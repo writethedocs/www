@@ -16,6 +16,7 @@ exclude_patterns = [
 ]
 extensions = [
     'ablog',
+    'sphinxcontrib.datatemplates',
 ]
 blog_baseurl = 'http://www.writethedocs.org/blog/'
 blog_path = 'blog/archive'
@@ -130,6 +131,7 @@ eu_speakers = load_json('_data/2016.eu.speakers.json')
 eu_day1 = load_json('_data/eu-2016-day-1.json')
 eu_day2 = load_json('_data/eu-2016-day-2.json')
 
+
 for list_o_speakers in [na_speakers, eu_speakers]:
     transform_speakers(list_o_speakers)
 
@@ -206,9 +208,15 @@ def rstjinja(app, docname, source):
         source[0] = rendered
 
 
+def add_jinja_filters(app):
+    if getattr(app.builder, 'implementation', None) or app.builder.format != 'html':
+        return
+    app.builder.templates.environment.filters['slugify'] = slugify
+
 def setup(app):
     app.connect('html-page-context', on_page_context)
     app.connect("source-read", rstjinja)
+    app.connect("builder-inited", add_jinja_filters)
     app.add_config_value('recommonmark_config', {
         'auto_toc_tree_section': 'Contents',
         'enable_auto_doc_ref': True,
