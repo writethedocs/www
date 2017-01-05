@@ -7,17 +7,6 @@
             News
           </a>
       </li>
-
-      <li class="menu-mobile__item" data-dropdown-mobile>
-        <span>Program</span>
-        <ul class="menu-mobile__dropdown">
-            <li><a href="{{ pathto('conf/na/2017/schedule') }}">Full Schedule</a></li>
-            <li><a href="{{ pathto('conf/na/2017/hike') }}">Hike</a></li>
-            <li><a href="{{ pathto('conf/na/2017/writing-day') }}">Writing Day</a></li>
-            <li><a href="{{ pathto('conf/na/2017/lightning-talks') }}">Lightning Talks</a></li>
-            <li><a href="{{ pathto('conf/na/2017/unconference') }}">Unconference</a></li>
-        </ul>
-      </li>
       <li class="menu-mobile__item">
         <a href="{{ pathto('conf/na/2017/tickets') }}">Tickets</a>
       </li>
@@ -31,6 +20,15 @@
             Sponsor
           </a>
       </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <span>Program</span>
+        <ul class="menu-mobile__dropdown">
+            <li><a href="{{ pathto('conf/na/2017/schedule') }}">Full Schedule</a></li>
+            <li><a href="{{ pathto('conf/na/2017/hike') }}">Hike</a></li>
+            <li><a href="{{ pathto('conf/na/2017/writing-day') }}">Writing Day</a></li>
+            <li><a href="{{ pathto('conf/na/2017/lightning-talks') }}">Lightning Talks</a></li>
+            <li><a href="{{ pathto('conf/na/2017/unconference') }}">Unconference</a></li>
+        </ul>
       </li>
       <li class="menu-mobile__item">
         <span>Visit</span>
@@ -74,18 +72,6 @@
             News
           </a>
         </li>
-        <li class="menu__list-item" data-dropdown>
-          <a href="{{ pathto('conf/na/2017/schedule') }}" class="menu__item btn btn-link">
-            Program
-          </a>
-          <ul class="menu__dropdown">
-            <li><a href="{{ pathto('conf/na/2017/schedule') }}">Full Schedule</a></li>
-            <li><a href="{{ pathto('conf/na/2017/hike') }}">Hike</a></li>
-            <li><a href="{{ pathto('conf/na/2017/writing-day') }}">Writing Day</a></li>
-            <li><a href="{{ pathto('conf/na/2017/lightning-talks') }}">Lightning Talks</a></li>
-            <li><a href="{{ pathto('conf/na/2017/unconference') }}">Unconference</a></li>
-          </ul>
-        </li>
         <li class="menu__list-item">
           <a href="{{ pathto('conf/na/2017/tickets') }}" class="menu__item btn btn-link">
             Tickets
@@ -100,6 +86,18 @@
           <a href="{{ pathto('conf/na/2017/sponsor') }}" class="menu__item btn btn-link">
             Sponsor
           </a>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="{{ pathto('conf/na/2017/schedule') }}" class="menu__item btn btn-link">
+            Program
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="{{ pathto('conf/na/2017/schedule') }}">Full Schedule</a></li>
+            <li><a href="{{ pathto('conf/na/2017/hike') }}">Hike</a></li>
+            <li><a href="{{ pathto('conf/na/2017/writing-day') }}">Writing Day</a></li>
+            <li><a href="{{ pathto('conf/na/2017/lightning-talks') }}">Lightning Talks</a></li>
+            <li><a href="{{ pathto('conf/na/2017/unconference') }}">Unconference</a></li>
+          </ul>
         </li>
         <li class="menu__list-item" data-dropdown>
           <a href="{{ pathto('conf/na/2017/visiting') }}" class="menu__item btn btn-link">
