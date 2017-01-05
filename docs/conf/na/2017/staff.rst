@@ -7,9 +7,6 @@ Our conference is run by a dedicated team consisting mostly of volunteers.
 This page outlines the folks who are helping get things done,
 and what their roles are.
 
-Roles
-------
-
 Folks
 -----
 
@@ -31,6 +28,7 @@ Mikey Ariel
 Samuel Wright
 ~~~~~~~~~~~~~
 
+.. include:: /include/bios/sam.rst
 
 Primary Roles
 -------------
