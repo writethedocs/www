@@ -11994,18 +11994,19 @@ $(document).ready(function() {
   $('[data-offcanvas-icon]').click(toggleMenu);
   $('[data-offcanvas-bg]').click(toggleMenu);
   $('[data-offcanvas-close]').click(toggleMenu);
+  $('.offcanvas').find('a[href^="#"]').click(toggleMenu);
   
   // dropdown mobile
   function toggleDropDownMobile (e) {
     e.preventDefault();
-    $(this).toggleClass('show');
-    if ($(this).hasClass('show')) {
-      $(this).children('.menu-mobile__dropdown').show(200);
+    $(this).parent().toggleClass('show');
+    if ($(this).parent().hasClass('show')) {
+      $(this).siblings('.menu-mobile__dropdown').show(200);
     }
     else {
-      $(this).children('.menu-mobile__dropdown').hide(200);
+      $(this).siblings('.menu-mobile__dropdown').hide(200);
     } 
   }
-  $('[data-dropdown-mobile]').click(toggleDropDownMobile);
+  $('[data-dropdown-mobile]').children('span').click(toggleDropDownMobile);
   
 });

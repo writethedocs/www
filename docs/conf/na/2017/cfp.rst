@@ -68,9 +68,14 @@ get your synapses firing.
 - Measuring, analysying, reporting and optimizing documentation sets
 - Creating video, in-app, wearable or other types documentation
 
-*Need some more examples? `Our previous conference websites
-<http://www.writethedocs.org/conf/#past-conferences>`__ include the abstracts
-and videos for our speakers' presentations.*
+Need some more examples? 
+Check out our previous abstracts for some ideas:
+
+* `Portland 2016 <http://www.writethedocs.org/conf/na/2016/speakers/>`_
+* `Portland 2015 <http://www.writethedocs.org/conf/na/2015/speakers/>`_
+* `Prague 2016 <http://www.writethedocs.org/conf/eu/2016/speakers/>`_
+* `Prague 2015 <http://www.writethedocs.org/conf/eu/2015/speakers/>`_
+
 
 PRESENTATION FORMAT
 ===================

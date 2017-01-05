@@ -105,6 +105,7 @@
                         </p>
                         <p class="schedule-home__desc">
                           Join us for the Writing day and Welcome Reception.
+                          The first official day of the conference is full of chances to interact with other documentarians.
                         </p>
                       </div>
                     </div>
