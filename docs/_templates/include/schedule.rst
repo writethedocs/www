@@ -1,17 +1,20 @@
 .. raw:: html
 
-    <table>
-    {% for talk in data %}
-      <tr>
-        <td class=" schedule-time">{{ talk.Time }}</td>
-        <td>
+{% for talk in data %}
+
+      <div class="row">
+        <div class="col-xs-2">
+          <p>{{ talk.Time }}</p>
+        </div>
+        <div class="col-xs-10>
+          <p class=">
 
 :ref:`{{ talk.Session }} <{{ talk.Session|slugify }}>`
 
 .. raw:: html
 
-        </td>
-      </tr>
+          </p>
+        </div>
+      </div>
 
-    {% endfor %}
-    </table>
+{% endfor %}

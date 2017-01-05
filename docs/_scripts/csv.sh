@@ -11,4 +11,6 @@ cat ~/Downloads/Final\ Talks\ EU\ 2016\ -\ Schedule.csv | csvcut -x -c 1,2 | tai
 
 # NA Writing Day 2017
 
+cat ~/Downloads/Write\ the\ Docs\ Portland\ 2017\ Schedules\ -\ Main\ Conference.csv |csvcut -x -c 1,2 | head -n 25 |csvjson -i 4 > ../_data/na-2017-day-1.json
+cat ~/Downloads/Write\ the\ Docs\ Portland\ 2017\ Schedules\ -\ Main\ Conference.csv |csvcut -x -c 1,2 | tail -n 18 |csvjson -i 4 > ../_data/na-2017-day-2.json
 cat ~/Downloads/Write\ the\ Docs\ Portland\ 2017\ Schedules\ -\ Writing\ Day.csv | csvcut -x -c 1,2 | head -n 25 | csvjson -i 4 > ../_data/na-2017-writing-day.json

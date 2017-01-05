@@ -1,0 +1,70 @@
+[
+    {
+        "Time": "8:00", 
+        "Session": "Doors Open, Breakfast Served"
+    }, 
+    {
+        "Time": "9:00", 
+        "Session": "30 Minute Talk"
+    }, 
+    {
+        "Time": "9:30", 
+        "Session": "Switch Speakers"
+    }, 
+    {
+        "Time": "9:40", 
+        "Session": "30 Minute Talk"
+    }, 
+    {
+        "Time": "10:10", 
+        "Session": "Switch Speakers"
+    }, 
+    {
+        "Time": "10:20", 
+        "Session": "30 Minute Talk"
+    }, 
+    {
+        "Time": "10:50", 
+        "Session": "Snack break"
+    }, 
+    {
+        "Time": "11:10", 
+        "Session": "30 Minute Talk"
+    }, 
+    {
+        "Time": "11:40", 
+        "Session": "Switch Speakers"
+    }, 
+    {
+        "Time": "11:50", 
+        "Session": "30 Minute Talk"
+    }, 
+    {
+        "Time": "12:20", 
+        "Session": "Lunch"
+    }, 
+    {
+        "Time": "13:50", 
+        "Session": "Lightning Talks"
+    }, 
+    {
+        "Time": "14:20", 
+        "Session": "Switch Speakers"
+    }, 
+    {
+        "Time": "14:30", 
+        "Session": "30 Minute Talk"
+    }, 
+    {
+        "Time": "15:00", 
+        "Session": "Switch Speakers"
+    }, 
+    {
+        "Time": "15:10", 
+        "Session": "30 Minute Talk"
+    }, 
+    {
+        "Time": "15:40", 
+        "Session": "Snack break"
+    }
+]

@@ -8,20 +8,21 @@ Write the Docs is more than a conference. Each year we organize a wide
 range of events so that people can come together, collaborate, and learn
 from each other in different ways.
 
-Saturday, May 21st
-------------------
-
-The only event scheduled on Saturday is the :doc:`annual hike to Pittock
-Mansion </conf/na/2016/hike>`. If you get into town early, join us on
-the hike and take the chance to explore Portland in all of its glory.
-
-Sunday, May 22nd
+Saturday, May 13
 ----------------
 
-Writing Day & Reception will be held at **CENTRL Office, 1355 NW Everett St.**
+The only event scheduled on Saturday is the :doc:`annual hike to Pittock
+Mansion </conf/na/2017/hike>`. If you get into town early, join us on
+the hike and take the chance to explore Portland in all of its glory.
+
+Sunday, May 14
+--------------
+
+Writing Day & Reception will be held at **Crystal Ballroom located at 1332 W
+Burnside St**.
 
 During the day, we'll hold our :doc:`Writing Day documentation
-sprints </conf/na/2016/writing-day>`, followed by the conference
+sprints </conf/na/2017/writing-day>`, followed by the conference
 reception in the evening.
 
 We encourage everyone to drop by on Sunday evening for the conference
@@ -29,33 +30,12 @@ reception. You'll have a chance to get acquainted with each other over
 some drinks and snacks. We'll also help groups organize dinner plans, so
 you can continue your conversations over more substantial food as well.
 
-.. raw:: html
+.. datatemplate::
+   :source: /_data/na-2017-writing-day.json
+   :template: include/schedule.rst
 
-   <table class="schedule">
-   <tr>
-    <td class="schedule-time">9 AM</td>
-    <td><a href="/conf/na/2016/writing-day/">Writing Day</a> documentation sprints begin 
-   </tr>
-   <tr>
-    <td class="schedule-time">9:30 AM</td>
-    <td>Introduction to the Writing Day</td>
-   </tr>
-   <tr>
-    <td class="schedule-time">12:00 PM</td>
-    <td>Break for lunch</td>
-   </tr>
-   <tr>
-    <td class="schedule-time">6 PM</td>
-    <td>Sprints end, Reception begins. Keep working, or start chatting!</td>
-   </tr>
-   <tr>
-    <td class="schedule-time">9 PM</td>
-    <td>Reception ends</td>
-   </tr>
-   </table>
-
-Monday, May 23rd - Day 1
-------------------------
+Monday, May 15
+--------------
 
 The main conference will take place at the **Crystal Ballroom located at 1332 W
 Burnside St**.
@@ -63,27 +43,12 @@ Burnside St**.
 This is the main event! Hear from lots of interesting folks about all
 things documentation. 
 
-
 Main Stage
 ~~~~~~~~~~
 
-.. raw:: html
-
-    <table>
-    {% for talk in na_2016_day1 %}
-      <tr>
-        <td class=" schedule-time">{{ talk.Time }}</td>
-        <td>
-
-:ref:`{{ talk.Session }} <speaker-{{ talk.slug }}>`
-
-.. raw:: html
-
-        </td>
-      </tr>
-
-    {% endfor %}
-    </table>
+.. datatemplate::
+   :source: /_data/na-2017-day-1.json
+   :template: include/schedule.rst
 
 Lola's Room
 -----------
@@ -92,8 +57,8 @@ Lola's Room
 
 Monday Night - Party
 ~~~~~~~~~~~~~~~~~~~~
-The conference party will be at the **Jack Knife, 614 SW 11th Ave**.
-It will start at **7pm**.
+
+The party will start at **7pm**.
 
 The party is for **conference attendees only**.
 Please bring your badge,
@@ -101,8 +66,8 @@ as it is an official conference event.
 
 There will be light dinner and drinks available on the conference while our tab lasts.
 
-Tuesday, May 24th - Day 2
--------------------------
+Tuesday, May 16
+---------------
 
 The talks will take place at the **Crystal Ballroom located at 1332 W
 Burnside St**.
@@ -110,23 +75,9 @@ Burnside St**.
 Main Stage
 ~~~~~~~~~~
 
-.. raw:: html
-
-    <table>
-    {% for talk in na_2016_day2 %}
-      <tr>
-        <td class=" schedule-time">{{ talk.Time }}</td>
-        <td>
-
-:ref:`{{ talk.Session }} <speaker-{{ talk.slug }}>`
-
-.. raw:: html
-
-        </td>
-      </tr>
-
-    {% endfor %}
-    </table>
+.. datatemplate::
+   :source: /_data/na-2017-day-2.json
+   :template: include/schedule.rst
 
 Lola's Room
 -----------
