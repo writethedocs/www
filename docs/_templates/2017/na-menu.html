@@ -3,59 +3,50 @@
     <button class="offcanvas__close btn-link" data-offcanvas-close>&#xe901;</button>
     <ul class="offcanvas__menu menu-mobile">
       <li class="menu-mobile__item">
-        <a href="">News</a>
+          <a href="{{ pathto('conf/na/2017/news/index') }}">
+            News
+          </a>
       </li>
+
       <li class="menu-mobile__item" data-dropdown-mobile>
-        <a href="">Program</a>
+        <span>Program</span>
         <ul class="menu-mobile__dropdown">
-          <li><a href="">Overview</a></li>
-          <li><a href="">Hike</a></li>
-          <li><a href="">Writing day</a></li>
-          <li><a href="">Tutorials</a></li>
-          <li><a href="">Welcome reception</a></li>
-          <li><a href="">Presentations</a></li>
-          <li><a href="">Lightning talks</a></li>
-          <li><a href="">Unconference</a></li>
+            <li><a href="{{ pathto('conf/na/2017/schedule') }}">Full Schedule</a></li>
+            <li><a href="{{ pathto('conf/na/2017/hike') }}">Hike</a></li>
+            <li><a href="{{ pathto('conf/na/2017/writing-day') }}">Writing Day</a></li>
+            <li><a href="{{ pathto('conf/na/2017/lightning-talks') }}">Lightning Talks</a></li>
+            <li><a href="{{ pathto('conf/na/2017/unconference') }}">Unconference</a></li>
         </ul>
       </li>
       <li class="menu-mobile__item">
-        <a href="">Register</a>
-      </li>
-      <li class="menu-mobile__item" data-dropdown-mobile>
-        <a href="">Speak</a>
-        <ul class="menu-mobile__dropdown">
-          <li><a href="">Submit a Talk</a></li>
-          <li><a href="">Presentation Guidelines</a></li>
-        </ul>
-      </li>
-      <li class="menu-mobile__item" data-dropdown-mobile>
-        <a href="">Sponsor</a>
-        <ul class="menu-mobile__dropdown">
-          <li><a href="">Meet our sponsors</a></li>
-          <li><a href="">Why sponsor</a></li>
-          <li><a href="">Sponsorship levels</a></li>
-          <li><a href="">Contact form</a></li>
-        </ul>
+        <a href="{{ pathto('conf/na/2017/tickets') }}">Tickets</a>
       </li>
       <li class="menu-mobile__item">
-        <a href="">Visit</a>
+          <a href="{{ pathto('conf/na/2017/cfp') }}">
+            Speak
+          </a>
+      </li>
+      <li class="menu-mobile__item">
+          <a href="{{ pathto('conf/na/2017/sponsor') }}">
+            Sponsor
+          </a>
+      </li>
+      </li>
+      <li class="menu-mobile__item">
+        <span>Visit</span>
         <ul class="menu-mobile__dropdown">
-          <li><a href="">Venue Information</a></li>
-          <li><a href="">Travel</a></li>
-          <li><a href="">Things to Do</a></li>
+            <li><a href="{{ pathto('conf/na/2017/venue') }}">Venue Information</a></li>
+            <li><a href="{{ pathto('conf/na/2017/visiting') }}">Visiting Portland</a></li>
         </ul>
       </li>
       <li class="menu-mobile__item" data-dropdown-mobile>
-        <a href="">About</a>
+        <span>About</span>
         <ul class="menu-mobile__dropdown">
-          <li><a href="">Welcome Wagon</a></li>
-          <li><a href="">Meet the Team</a></li>
-          <li><a href="">Past Events</a></li>
-          <li><a href="">Code of Conduct</a></li>
+            <li><a href="{{ pathto('conf/na/2017/welcome-wagon') }}">Welcome Wagon</a></li>
+            <li><a href="{{ pathto('conf/na/2017/staff') }}">Meet the Team</a></li>
+            <li><a href="{{ pathto('conf/index') }}">Past Events</a></li>
+            <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
         </ul>
-      </li>
-      <li class="menu-mobile__item">
-        <a href="">Contact Us</a>
       </li>
     </ul>
   </div>
@@ -68,6 +59,7 @@
         <img src="{{ pathto('_static/dist/images/logo-mobile.svg', 1) }}" alt="Write The Docs" class="mobile-bar__logo">
       </a>
     </div>
+  </div>
   </div>
   <div class="menu">
     <nav>

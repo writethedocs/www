@@ -1,5 +1,4 @@
 :template: 2017/na-index.html
-:title: Hi
 
 .. raw:: html
 
@@ -34,44 +33,39 @@
                     <div class="section__header subheader">
                       <span class="subheader__yellow"></span>
                       <h2 class="subheader__header">Latest News</h2>
+                      <!-- Kill this for now
                       <a href="news.html" class="subheader__more">Read all news</a>
+                      -->
                     </div>
                   </div>
                 </div>  
+
                 <div class="row">
                   <div class="col-xs-12 col-md-4">
                     <a href="news-post.html" class="well news__tile">
                       <h3 class="well__title">
-                        Announcing Ticket Sales and Call for Proposals
+                        Announcing Ticket Sales, CFP, and Website
                       </h3>
                       <p class="well__paragraph">
-                        Write the Docs NA 2016 is four months away and we hope you’re getting excited! It will be another wonderful year full of great conversation and…
+                        Write the Docs Portland 2017 is a bit more than four months away and we hope you’re getting excited! 
+
                       </p>
                       <div class="well__time">
                         <span>12:30 AM</span>|<span>12.04.2016</span>
                       </div>
                     </a>
                   </div>
+                </div>
+
+                <div class="row">
                   <div class="col-xs-12 col-md-4">
                     <a href="news-post.html" class="well news__tile">
                       <h3 class="well__title">
-                        Announcing Ticket Sales and Call for Proposals
+                        Announcing Ticket Sales, CFP, and Website
                       </h3>
                       <p class="well__paragraph">
-                        Write the Docs NA 2016 is four months away and we hope you’re getting excited! It will be another wonderful year full of great conversation and…
-                      </p>
-                      <div class="well__time">
-                        <span>12:30 AM</span>|<span>12.04.2016</span>
-                      </div>
-                    </a>
-                  </div>
-                  <div class="col-xs-12 col-md-4">
-                    <a href="news-post.html" class="well news__tile">
-                      <h3 class="well__title">
-                        Announcing Ticket Sales and Call for Proposals
-                      </h3>
-                      <p class="well__paragraph">
-                        Write the Docs NA 2016 is four months away and we hope you’re getting excited! It will be another wonderful year full of great conversation and…
+                        Write the Docs Portland 2017 is a bit more than four months away and we hope you’re getting excited! 
+
                       </p>
                       <div class="well__time">
                         <span>12:30 AM</span>|<span>12.04.2016</span>
@@ -104,7 +98,7 @@
                           Sunday
                         </p>
                         <p class="schedule-home__desc">
-                          Join us for the Writing day and Welcome Reception.
+                          Join us for the <a href="/conf/na/2017/writing-day/">Writing Day</a> and Welcome Reception.
                           The first official day of the conference is full of chances to interact with other documentarians.
                         </p>
                       </div>
@@ -120,7 +114,7 @@
                         <p class="schedule-home__desc">
                         The first day of talks and the conference party.
                         We will be running the main track of content in the Ballroom,
-                        and discussions downstairs in Lola's Room.
+                        and the <a href="/conf/na/2017/unconference/">Unconference</a> downstairs in Lola's Room.
                         </p>
                       </div>
                     </div>
@@ -135,7 +129,7 @@
                         <p class="schedule-home__desc">
                           The last day of the conference, and we all have to say goodbye :(
                           We will be running the main track of content in the Ballroom,
-                          and discussions downstairs in Lola's Room all day.
+                          and <a href="/conf/na/2017/unconference/">Unconference</a>  downstairs in Lola's Room all day.
                         </p>
                       </div>
                     </div>
