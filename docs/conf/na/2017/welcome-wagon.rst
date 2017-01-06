@@ -5,15 +5,13 @@ Welcome Wagon
 
 Hello! 
 
-We're your Welcome Wagon, and we're glad you're coming to the
-2017 Write the Docs conference! Feel free to tweet us
-`@canncrochet <https://twitter.com/canncrochet>`__ and
-`@runleonarun <https://twitter.com/runleonarun>`__ and look for Christy
-and Leona at the conference to say hello! In the meantime, you can email
+We're your Welcome Wagon, and we're glad you're coming to the 2017 Write the Docs conference!
+Feel free to tweet us at `@canncrochet <https://twitter.com/canncrochet>`__ or `@runleonarun <https://twitter.com/runleonarun>`__.
+You can also email
 `Christy <mailto:canncrochet@gmail.com>`__ or
 `Leona <mailto:leona.campbell@jivesoftware.com>`__ if we can help make
-your first time at the conference easier. Come :ref:`say hello <say-hello>`
-to us at the conference.
+your first time at the conference easier.
+When you get to the conference, Come :ref:`say hello <say-hello>`.
 
 We've gathered important stuff here that will help you navigate the
 conference like a pro, make you feel more at home, and help you to
@@ -22,7 +20,6 @@ up new attendees and connect them with people, both veterans and other
 first-timers. Strategies and pro tips provide ways you can make the most
 of the conference. The FAQs strive to answer questions before you even
 have them.
-
 
 Welcome Wagon events
 --------------------
@@ -63,13 +60,6 @@ at 1332 West Burnside Street.
 
 The unconference takes place directly below the Crystal Ballroom, in
 Lola's Room.
-
-Most of the other events take place within a few blocks of the Crystal
-Ballroom:
-
--  Writing Day documentation sprints happen at the CENTRL office at 1335
-   NW Everett Street, which is 4 blocks from the conference venue.
--  Write the Docs party is at the Jack Knife, 614 SW 11th Ave.
 
 If you are joining in the hike on Saturday, you'll meet the other hikers
 at the Macleay Park Entrance at 2960 NW Upshur Street. You can take
@@ -263,11 +253,13 @@ or just chat about the conference!
 
    .. figure:: /_static/img/crew/leona.jpg
       :height: 250px
+      :width: 250px
 
       Leona
 
    .. figure:: /_static/img/crew/christy.jpg
       :height: 250px
+      :width: 250px
 
       Christy
 
