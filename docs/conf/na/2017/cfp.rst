@@ -108,7 +108,7 @@ let us know.
 Form
 ----
 
-You can also view `our CFP <https://docs.google.com/forms/d/e/1FAIpQLSceKzQwM2UaU-KXBcImc2Gl3qaz11NV3fg8s3iYUOOFoDcAkw/viewform>`_ in it's own page.
+You can also view `our CFP <https://docs.google.com/forms/d/e/1FAIpQLSceKzQwM2UaU-KXBcImc2Gl3qaz11NV3fg8s3iYUOOFoDcAkw/viewform>`_ in its own page.
 
 .. raw:: html
 
