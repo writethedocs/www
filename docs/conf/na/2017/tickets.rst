@@ -30,8 +30,8 @@ conference with a sponsorship package.
 Independent Tickets
 -------------------
 
-Purchase this ticket if you are paying for yourself, work at a
-non-profit, or at a company with less than 10 employees.
+Purchase this ticket if you are paying for yourself, or if you work at a
+non-profit, a government, or a company with less than 10 employees.
 
 * $250 Independent
 
