@@ -92,7 +92,12 @@ best to help make it happen.
 
 Speaking at Write the Docs is a fantastic way to participate in the community.
 
-Finally, you’ll hear from us with our proposal decisions by March 1st.
+Finally, you’ll hear from us with our proposal decisions by **March 1st**.
+
+If your Unconference session is selected,
+we won't be offering a free ticket.
+We hope to have many good conversations,
+but can't afford to offer each Unconference session leader a free ticket.
 
 Questions?
 ----------

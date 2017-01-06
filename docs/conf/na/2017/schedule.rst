@@ -82,7 +82,7 @@ Main Stage
 Lola's Room
 -----------
 
-:doc:`/conf/na/2016/unconference` from 1pm-5pm
+:doc:`/conf/na/2016/unconference` from 9am-3pm
 
 Say Goodbye
 -----------

@@ -29,6 +29,13 @@ You can read our full `Call for
 Proposals <http://www.writethedocs.org/conf/na/2017/cfp/>`__ on the website.
 The Call for Proposals will be open until **Midnight PST Febuary 10** this year.
 
+We are trying something new this year,
+which is allowing folks to submit Unconference discussions on the CFP.
+Our goal is to seed a couple slots for each Unconference session,
+so that people will know at least part of the content before attending.
+This is an experiment,
+but we hope that you'll try it out with us.
+
 Tickets
 -------
 
