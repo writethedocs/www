@@ -27,14 +27,7 @@ have them.
 Welcome Wagon events
 --------------------
 
--  **Sunday reception:** Get a jump start on the conference and connect
-   with other new colleagues during the reception. The Welcome Wagon
-   will meet up at the beginning of the reception, so you have a chance
-   to make some connections before mingling. We'll meet at **6:00** near
-   the registration table.
--  **Monday pre-conference hall walk-through:** Join us on a quick
-   walk-through of the conference hall so you'll know what happens
-   where. Tours will start at **8:20** and leave every 10 minutes :)
+We are still in the process of planning our Welcome Wagon events for this year.
 
 Pro Tips
 --------
