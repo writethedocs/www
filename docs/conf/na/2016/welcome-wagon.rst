@@ -1,4 +1,4 @@
-:template: 2016/na.html
+:template: 2017/na.html
 
 Welcome Wagon
 =============
@@ -6,7 +6,7 @@ Welcome Wagon
 Hello! 
 
 We're your Welcome Wagon, and we're glad you're coming to the
-2016 Write the Docs conference! Feel free to tweet us
+2017 Write the Docs conference! Feel free to tweet us
 `@canncrochet <https://twitter.com/canncrochet>`__ and
 `@runleonarun <https://twitter.com/runleonarun>`__ and look for Christy
 and Leona at the conference to say hello! In the meantime, you can email
@@ -67,10 +67,6 @@ Lola's Room.
 Most of the other events take place within a few blocks of the Crystal
 Ballroom:
 
--  Writing Day documentation sprints happen at the CENTRL office at 1335
-   NW Everett Street, which is 4 blocks from the conference venue.
--  Write the Docs party is at the Jack Knife, 614 SW 11th Ave.
-
 If you are joining in the hike on Saturday, you'll meet the other hikers
 at the Macleay Park Entrance at 2960 NW Upshur Street. You can take
 public transportation or a taxi there.
@@ -80,12 +76,12 @@ public transportation or a taxi there.
 
 -  Portland is a very walk-able town. Most of the events and `the
    suggested
-   hotels <http://www.writethedocs.org/conf/na/2016/visiting/>`__ are
+   hotels <http://www.writethedocs.org/conf/na/2017/visiting/>`__ are
    within walking distance of the conference venue, the Crystal
    Ballroom.
 -  There are good public transportation options and taxi services. Check
    out the `Visiting Portland section of the Write the Docs
-   website <http://www.writethedocs.org/conf/na/2016/visiting/>`__ for
+   website <http://www.writethedocs.org/conf/na/2017/visiting/>`__ for
    more info.
 
 **How should I dress?**
@@ -95,7 +91,7 @@ public transportation or a taxi there.
    conference. You'll be meeting business colleagues at this conference,
    though, so neat and comfortable are good dress guidelines.
 -  If you are going on the `Write the Docs hike on
-   Saturday <http://www.writethedocs.org/conf/na/2016/hike/>`__, be sure
+   Saturday <http://www.writethedocs.org/conf/na/2017/hike/>`__, be sure
    to bring appropriate hiking clothes and shoes. This time of year, the
    Pacific Northwest tends to be muddy or raining with occasional swaths
    of blue skies. Layering is usually the way to go.
@@ -113,7 +109,7 @@ public transportation or a taxi there.
    day.
 -  On Saturday, Sunday, and in the evening on Monday and Tuesday,
    `explore Portland's amazing food
-   scene <http://www.writethedocs.org/conf/na/2016/visiting/>`__. Invite
+   scene <http://www.writethedocs.org/conf/na/2017/visiting/>`__. Invite
    someone you just met to join you! If you are invited to dinner, say
    yes! Making connections over dinner is a great way to get to know
    more people.
@@ -134,7 +130,7 @@ public transportation or a taxi there.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `Conference talks in the Crystal
-Ballroom <http://www.writethedocs.org/conf/na/2016/speakers/>`__
+Ballroom <http://www.writethedocs.org/conf/na/2017/speakers/>`__
 
 -  The time between talks is for meeting your colleagues or taking a
    break. During the talks, listen and take in as much as you can.
@@ -163,7 +159,7 @@ Ballroom <http://www.writethedocs.org/conf/na/2016/speakers/>`__
 -  The unconference is a set of informal sessions that take place below
    the Crystal Ballroom in Lola's Room on Monday and Tuesday afternoons.
    `Unconference talks focus on exchanges of ideas between
-   participants. <http://www.writethedocs.org/conf/na/2016/unconference/>`__
+   participants. <http://www.writethedocs.org/conf/na/2017/unconference/>`__
 -  You can attend unconference sessions, or, if you have an idea for a
    session, you can lead one.
 -  To lead an unconference session, post a summary of your topic on a
@@ -185,7 +181,7 @@ Ballroom <http://www.writethedocs.org/conf/na/2016/speakers/>`__
    will be a sign-up sheet at registration.
 -  If you are interested in giving a lightning talk, be prepared! There
    is a great guide
-   `here <http://www.writethedocs.org/conf/na/2016/lightning-talks/?highlight=re>`__.
+   `here <http://www.writethedocs.org/conf/na/2017/lightning-talks/?highlight=re>`__.
 
 **How do I make the most out of this conference?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -201,7 +197,7 @@ are some tips:
    the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow
    the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
    and review the `list of
-   speakers <http://http//www.writethedocs.org/conf/na/2016/speakers/>`__.
+   speakers <http://http//www.writethedocs.org/conf/na/2017/speakers/>`__.
 -  Figure out which companies will be represented at the conference. If
    you see a job post you're interested in, you might want to ask them a
    few questions. This might be a great time to better understand what

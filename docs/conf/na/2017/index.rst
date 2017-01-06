@@ -14,7 +14,7 @@
                     <p class="buy-ticket__p buy-ticket__p--first">
                       Portland, Oregon 
                       <span>|</span>
-                      May 14-16, 2016
+                      May 14-16, 2017
                     </p>
                   </div>
                   <div class="col-xs-12 col-md-7 text-xs-center text-md-right">
@@ -44,44 +44,45 @@
                     <div class="col-xs-12 col-sm-4 text-center">
                       <div class="schedule-home__tile">
                         <div class="schedule-home__date">
-                          May 14
+                          May 13
                         </div>
                         <p class="schedule-home__day">
-                          Sunday
+                          Saturday
                         </p>
                         <p class="schedule-home__desc">
-                          Join us for the <a href="/conf/na/2017/writing-day/">Writing Day</a> and Welcome Reception.
-                          The first official day of the conference is full of chances to interact with other documentarians.
+                          If you're in town early,
+                          join us for the <a href="/conf/na/2017/hike/">Hike</a>.
+                          Portland has excellent access to the woods right in the city,
+                          and we'll be exploring Forest Park and the Hoyt Arboretum.
                         </p>
                       </div>
                     </div>
                     <div class="col-xs-12 col-sm-4 text-center">
                       <div class="schedule-home__tile">
                         <div class="schedule-home__date">
-                          May 15
+                          May 14
                         </div>
                         <p class="schedule-home__day">
-                          Monday
+                          Sunday
                         </p>
                         <p class="schedule-home__desc">
-                        The first day of talks and the conference party.
-                        We will be running the main track of content in the Ballroom,
-                        and the <a href="/conf/na/2017/unconference/">Unconference</a> downstairs in Lola's Room.
+                        Join us for the <a href="/conf/na/2017/writing-day/">Writing Day</a> and Welcome Reception.
+                        The first official day of the conference is full of chances to interact with other documentarians.
                         </p>
                       </div>
                     </div>
                     <div class="col-xs-12 col-sm-4 text-center">
                       <div class="schedule-home__tile schedule-home__tile--last">
                         <div class="schedule-home__date">
-                          May 16
+                          May 15-16
                         </div>
                         <p class="schedule-home__day">
                           Tuesday
                         </p>
                         <p class="schedule-home__desc">
-                          The last day of the conference, and we all have to say goodbye :(
-                          We will be running the main track of content in the Ballroom,
-                          and <a href="/conf/na/2017/unconference/">Unconference</a>  downstairs in Lola's Room all day.
+                          The main days of the conference.
+                          We will be running our main track in the Ballroom,
+                          and the <a href="/conf/na/2017/unconference/">Unconference</a> downstairs in Lola's Room.
                         </p>
                       </div>
                     </div>

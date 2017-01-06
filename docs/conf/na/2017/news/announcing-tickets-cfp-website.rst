@@ -3,7 +3,7 @@
 .. post:: Jan 5, 2017
    :tags: 2017, portland, website, cfp, tickets
 
-Announcing Call for Proposals, Ticket Sales and Website
+Announcing our Call for Proposals, Ticket Sales and Website
 =======================================================
 
 `Write the Docs Portland 2017 <http://www.writethedocs.org/conf/na/2017/>`_ 
