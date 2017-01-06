@@ -7,18 +7,14 @@ Announcing our Call for Proposals, Ticket Sales and Website
 =======================================================
 
 `Write the Docs Portland 2017 <http://www.writethedocs.org/conf/na/2017/>`_ 
-is a bit over four months away and we hope you're getting excited!
-It will be another wonderful year full of great conversation and
-interesting talks.
+is a little over four months away! We hope you’re getting excited – we certainly are! It’s shaping up to be another wonderful year full of great conversations and interesting talks.
 
 Today we are announcing our `Call for Proposals <http://www.writethedocs.org/conf/na/2017/cfp/>`_,
 `ticket sales <http://www.writethedocs.org/conf/na/2017/tickets/>`_,
 and `website <http://www.writethedocs.org/conf/na/2017/>`_.
 Speaking at Write the Docs is a fantastic way to share your ideas with
 our inspiring community of documentarians. 
-If there is something you'd really like to see a talk on this year,
-submit a talk on it,
-or refer someone else who would be good!
+If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!
 
 Call for Proposals
 ------------------
@@ -57,14 +53,13 @@ price tickets.
 As with the previous years, we have tiered pricing to make it fair for
 everyone.
 Please buy the ticket that best fits your situation.
-Tickets are **on sale now**. 
-`Buy them now <http://www.writethedocs.org/conf/na/2017/tickets/>`_.
+Tickets are `on sale now <http://www.writethedocs.org/conf/na/2017/tickets/>`_.
 
 Website
 -------
 
+We’re excited to introduce this friendlier, more navigable online home for our event.
 We have a new `conference website <http://www.writethedocs.org/conf/na/2017/>`_ design this year.
-We think it's quite a usable design and will be a suitable online home for our event.
 
 As with all things on the web,
 there are likely to be a few lingering bugs with the design.
@@ -74,5 +69,5 @@ or emailing us at conf@writethedocs.org if you see any issues!
 Conclusion
 ----------
 
-We hope you will join us at Write the Docs again this year. Whether as a
-speaker or attendee, you can bet it will be another delightful year.
+We hope you will join us in Portland for the fourth annual Write the Docs North America.
+Whether as a speaker or attendee, you can bet it will be another delightful year.
