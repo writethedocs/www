@@ -79,7 +79,7 @@ about discounted packages for sponsoring both conferences.
 First Draft
 -----------
 
-The **First Draft** package is only available to startups,
+The **First Draft** package is only available to startups (under 15 employees),
 non-profits,
 and open source organizations.
 
