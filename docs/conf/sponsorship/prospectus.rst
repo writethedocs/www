@@ -1,5 +1,5 @@
-Write the Docs 2017 Sponsorship
-###############################
+Write the Docs Portland 2017 Sponsorship
+########################################
 
 .. raw:: pdf
 
