@@ -41,19 +41,18 @@ Primary Roles
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
 
 * **Conference chair** - Eric Holscher
-* **Swag coordinator** - TBD
+* **Swag coordinator** - Mikey Ariel
 * **Speaker wrangler** - Kelly O'Brien
-* **Infrastructure chair** - TBD
+* **Infrastructure chair** - Samuel Wright
 * **Local city chair** - TBD
 * **Writing Day coordinator** - TBD
 * **Unconference coordinator** - Rose Williams
 * **Lightning Talk coordinator** - Rose Williams
-* **Communication chair** - TBD
-* **Volunteer coordinator** - TBD
-* **Sponsorship lead** - TBD
+* **Communication chair** - Mikey Ariel
+* **Volunteer coordinator** - Becky 
+* **Sponsorship lead** - Eric Holscher
 * **Explore Portland coordinator** - TBD
-* **Welcome Wagon coordinators** - TBD
-* **Social media chair** - TBD
-* **Saturday Event coordinator** - TBD
-* **Proposal reviewers** - TBD
+* **Welcome Wagon coordinators** - Christy Lutz & Leona
+* **Social media chair** - Mikey Ariel
+* **Hike coordinator** - Eric Holscher
 * **Emcee** - TBD
