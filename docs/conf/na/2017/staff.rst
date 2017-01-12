@@ -49,7 +49,6 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 * **Swag coordinator** - Mikey Ariel
 * **Speaker wrangler** - Kelly O'Brien
 * **Infrastructure chair** - Samuel Wright
-* **Local city chair** - TBD
 * **Writing Day coordinator** - TBD
 * **Unconference coordinator** - Rose Williams
 * **Lightning Talk coordinator** - Rose Williams
