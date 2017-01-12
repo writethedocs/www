@@ -30,6 +30,11 @@ Samuel Wright
 
 .. include:: /include/bios/sam.rst
 
+Becky Yoose
+~~~~~~~~~~~
+
+.. include:: /include/bios/becky.rst
+
 Rose Williams
 ~~~~~~~~~~~~~
 
@@ -49,7 +54,7 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 * **Unconference coordinator** - Rose Williams
 * **Lightning Talk coordinator** - Rose Williams
 * **Communication chair** - Mikey Ariel
-* **Volunteer coordinator** - Becky 
+* **Volunteer coordinator** - Becky Yoose
 * **Sponsorship lead** - Eric Holscher
 * **Explore Portland coordinator** - TBD
 * **Welcome Wagon coordinators** - Christy Lutz & Leona
