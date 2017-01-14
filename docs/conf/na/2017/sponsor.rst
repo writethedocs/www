@@ -16,7 +16,7 @@ Thanks to these folks for supporting the community.
 .. raw:: html
 
     <div class="row">
-      <div class="col-md-8 col-md-offset-2">
+      <div class="col-sm-8 col-sm-offset-2">
         <a href="http://google.com/">
         <img src="/_static/img/sponsors/google.png" />
         </a>
