@@ -1,12 +1,35 @@
 :template: 2017/na-content.html
 
 Sponsor
--------
+=======
 
 We are seeking corporate partners to help us create the best conference
 possible. Contact us at sponsorship@writethedocs.org for more
 information on sponsoring Write the Docs.
 
+Sponsors
+--------
+
+The conference wouldn't be nearly as great as it is without our wonderful corporate sponsors.
+Thanks to these folks for supporting the community.
+
+.. raw:: html
+
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+        <a href="http://google.com/">
+        <img src="/_static/img/sponsors/google.png" />
+        </a>
+      </div>
+      <div class="col-sm-4 col-sm-offset-2" style="width: 80px;">
+        <a href="https://www.stickermule.com/">
+        <img src="/_static/img/sponsors/stickermule.png" /> 
+        </a>
+      </div>
+    </div>
+
+In Kind Sponsors
+----------------
 
 Write the Docs is also helped out by companies that give their employees time to work on the conference.
 Write the Docs is produced by:
