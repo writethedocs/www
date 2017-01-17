@@ -1,14 +1,13 @@
 .. post:: Jan 16, 2016
    :tags: stats, year in review
 
-Write the Docs 2016 year in review
+Write the Docs 2016 Year in Review
 ==================================
 
-2016 was a wonderful year for Write the Docs.
-This is our fourth year of existence,
-and this is the first year it feels that we have coalesced into a more cohesive community.
-This post will cover a few stats and other tidbits that we feel mark our progress,
-and we hope to continue to report these each year moving forward.
+2016 was a wonderful year for Write the Docs, it marks our fourth year of existence,
+and was the year that we coalesced into a more cohesive community.
+This post covers a few stats and tidbits of information that we feel mark our progress.
+We plan to report these each year from here on in.
 
 Conferences
 ===========
@@ -27,8 +26,8 @@ and help people who may not be able to attend the events.
 Write the Docs always strives to be as inclusive as possible,
 and continuing to publish these videos is part of our commitment to openness.
 
-Slack
-=====
+Slack Network
+=============
 
 * 1,200 members
 
@@ -36,7 +35,7 @@ This is the part of the community that I've been most happy with this year.
 Our :doc:`Slack network </slack>` has really caught on,
 and folks are discussing a wide range of topics every day.
 It really feels like this is where the community is thriving,
-and it becoming the default way of contacting folks inside the Write the Docs community.
+and it is becoming the default way of contacting folks inside the Write the Docs community.
 
 Newsletter
 ==========
@@ -47,7 +46,7 @@ The :doc:`newsletter </newsletter>` has been the second initiative that has real
 We had a few conversations about how to archive Slack in a good way,
 and the idea of sending summary updates each month was an inventive way to handle this.
 I think it has been full of value each month,
-and a wonderful way to keep tabs on the the community if you can't keep up with Slack.
+and is a wonderful way to keep tabs on the the community if you can't keep up with Slack.
 
 Meetups
 =======
@@ -71,7 +70,7 @@ A few different folks have talked about doing a :doc:`podcast </podcast>`,
 and this year we finally got the initiative off the ground.
 This is a fully community run podcast,
 and was organized by members in the community.
-The first two episodes are off the ground,
+The first two episodes are out,
 and we're quite excited to see how it goes in 2017!
 
 Sustainability
