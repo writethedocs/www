@@ -1,4 +1,4 @@
-Write the Docs Portland 2017 Sponsorship
+Write the Docs Europe 2017 Sponsorship
 ########################################
 
 .. raw:: pdf
@@ -88,8 +88,9 @@ and open source organizations.
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
-The **First Draft** package costs **$750**.
-You can buy it directly on our `ticket website <https://ti.to/writethedocs/write-the-docs-na-2017/with/80et9e6qdes>`_
+The **First Draft** package costs **€500**.
+
+.. TODO: You can buy it directly on our `ticket website <https://ti.to/writethedocs/write-the-docs-na-2017/with/80et9e6qdes>`_
 
 Second Draft
 ------------
@@ -101,7 +102,7 @@ The **Second Draft** package is great for companies looking to hire or promote a
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
-The **Second Draft** package costs **$1,500**.
+The **Second Draft** package costs **€1,000**.
 
 Publisher
 ---------
@@ -113,7 +114,7 @@ The **Publisher** package is great for sending a team and getting to know the co
 - Name included in welcome announcement in email newsletters and social media
 - Display 2 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
-The **Publisher** package costs **$4,000**.
+The **Publisher** package costs **€3,000**.
 
 .. raw:: pdf
 
@@ -131,12 +132,12 @@ The **Patron** package highlights your company as a force in the industry and co
 - Name included in welcome announcement in email newsletters and social media
 - Display 3 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
-The **Patron** package costs **$8,000**.
+The **Patron** package costs **€6,000**.
 
 Keystone (Limit 1)
 ------------------
 
-The **Keystone** package is highlighted as a community partner and 
+The **Keystone** package is highlighted as a community partner and
 
 - Fifteen (15) tickets_
 - Large booth at the event
@@ -146,7 +147,7 @@ The **Keystone** package is highlighted as a community partner and
 - Name included in welcome announcement in email newsletters and social media
 - Display unlimited promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
-The **Keystone** package costs **$14,000**.
+The **Keystone** package costs **€12,000**.
 
 .. raw:: pdf
 
@@ -219,5 +220,7 @@ Payment
 We expect all invoices to be paid **within 21 days of invoice receipt**, as many
 of our expenses must be paid up front.
 
-.. _ticket: https://ti.to/writethedocs/write-the-docs-na-2017/
-.. _tickets: https://ti.to/writethedocs/write-the-docs-na-2017/
+.. TODO: Links
+
+.. _ticket: https://ti.to/writethedocs/write-the-docs-eu-2017/
+.. _tickets: https://ti.to/writethedocs/write-the-docs-eu-2017/
