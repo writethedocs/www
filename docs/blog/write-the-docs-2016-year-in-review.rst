@@ -94,9 +94,9 @@ and hope you will support us on our path to making sure the events and community
 Thanks
 ======
 
-At every conference I make it a point to thank the audience,
-for people who believe in us are the ones who make it happen.
-So thank you to everyone who has been a part of making this wild ride something that keeps growing.
+At every conference I make it a point to thank the audience.
+People who believe in our community are the ones who make it happen.
+So thank you to everyone who has been a part of making this community something that keeps growing and evolving.
 I've been humbled by the empathy and wonderfulness of this community,
 and all I can hope is that we continue to strive to be as helpful and welcoming as possible.
 
