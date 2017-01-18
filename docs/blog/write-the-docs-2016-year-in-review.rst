@@ -1,4 +1,4 @@
-.. post:: Jan 16, 2016
+.. post:: Jan 18, 2017
    :tags: stats, year in review
 
 Write the Docs 2016 Year in Review
@@ -76,7 +76,7 @@ and we're quite excited to see how it goes in 2017!
 Sustainability
 ==============
 
-Write the Docs has long been a :doc:`volunteer effort </staff>`.
+Write the Docs has long been a :doc:`volunteer effort </team>`.
 This year we are experimenting for the first time with having a small staff be paid for their work.
 This is limited mainly to our conferences,
 as they are an incredible amount of work to put on,
