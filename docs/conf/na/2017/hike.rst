@@ -19,7 +19,7 @@ Logistics
 
 This event will be ticketed seperately. 
 
--  Date & Time: Leaves promptly at **Saturday, May 14, 2 PM**. Meet at
+-  Date & Time: Leaves promptly at **Saturday, May 13, 2 PM**. Meet at
    **1:45**.
 -  Start: **Lower Macleay Park** or `Macleay Park
    Entrance <https://maps.google.com/maps?q=Macleay+Park+Entrance&fb=1&gl=us&hq=Macleay+Park+Entrance&hnear=0x54950b0b7da97427:0x1c36b9e6f6d18591,Portland,+OR&cid=0,0,16280654545704357032&t=m&z=16&iwloc=A>`__.
