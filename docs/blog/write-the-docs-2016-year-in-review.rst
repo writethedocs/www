@@ -1,5 +1,6 @@
 .. post:: Jan 18, 2017
    :tags: stats, year in review
+   :author: Eric
 
 Write the Docs 2016 Year in Review
 ==================================
