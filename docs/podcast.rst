@@ -1,5 +1,5 @@
-Write the Docs Podcast
-======================
+Podcast
+=======
 
 .. note:: You can see more about our `podcast`_ on it's own dedicated site: http://podcast.writethedocs.org/
 
