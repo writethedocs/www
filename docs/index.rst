@@ -87,8 +87,9 @@ Useful Pages
    conf/index
    meetups/index
    slack
-   videos
    newsletter
+   podcast
+   videos
    team
    blog/index
    guide/index
