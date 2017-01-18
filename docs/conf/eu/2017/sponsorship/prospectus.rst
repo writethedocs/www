@@ -73,8 +73,9 @@ Sponsorship Packages
 The following options are suggested sponsorship levels. We are happy to discuss
 adjustments and custom packages.
 
-Each of these packages applies to *one* conference, either USA or Europe. Ask us
-about discounted packages for sponsoring both conferences.
+These package prices apply to the European conference only. Look here for
+:doc:`prices </conf/na/2017/sponsorship/prospectus/>` for the USA conference.
+Ask us about discounted packages for sponsoring both conferences.
 
 First Draft
 -----------

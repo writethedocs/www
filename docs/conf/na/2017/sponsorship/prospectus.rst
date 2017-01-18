@@ -73,8 +73,9 @@ Sponsorship Packages
 The following options are suggested sponsorship levels. We are happy to discuss
 adjustments and custom packages.
 
-Each of these packages applies to *one* conference, either USA or Europe. Ask us
-about discounted packages for sponsoring both conferences.
+These package prices apply to the Portland conference only. Look here for
+:doc:`prices </conf/eu/2017/sponsorship/prospectus/>` for the European
+conference. Ask us about discounted packages for sponsoring both conferences.
 
 First Draft
 -----------
@@ -136,7 +137,7 @@ The **Patron** package costs **$8,000**.
 Keystone (Limit 1)
 ------------------
 
-The **Keystone** package is highlighted as a community partner and 
+The **Keystone** package is highlighted as a community partner and
 
 - Fifteen (15) tickets_
 - Large booth at the event
