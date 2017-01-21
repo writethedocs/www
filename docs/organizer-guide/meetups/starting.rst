@@ -248,15 +248,3 @@ After Your Meetup
 * Post pictures on your meetup page. Be sure to get permission.
 * Use Twitter to thank your attendees, speakers and sponsor.
 
-
-If You Can't Find a Speaker
----------------------------
-
-It is not always easy to find a speaker. Other meetups have done well with
-alternatives:
-
-* Coffee Klatches; suitable for meetups with a few people.
-* View a Write the Docs Conference Talk, available from our video library.
-Some meetups have combined this with live Q&A with the speaker
-* Pure networking meetup; you can "roundtable" a specific topic; give each
-attendee a chance to talk about what they do
