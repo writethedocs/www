@@ -247,4 +247,3 @@ After Your Meetup
 * Send a thank you note to your host.
 * Post pictures on your meetup page. Be sure to get permission.
 * Use Twitter to thank your attendees, speakers and sponsor.
-
