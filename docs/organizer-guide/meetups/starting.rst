@@ -140,7 +140,7 @@ a live Q & A session. Both the Boulder and Austin meetups have done well with th
 
  * `So you need to document an API <https://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/events/232962552/>`_
 
- * `Living documentation <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/231859187/>_`
+ * `Living documentation <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/231859187/>`_
 
 If you choose this format (or have a remote speaker), make sure your meeting venue supports high quality video
 presentation and audio conferencing.
