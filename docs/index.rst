@@ -109,3 +109,5 @@ Useful Pages
    conf/na/*/*/*
    conf/eu/*/*
    conf/eu/*/*/*
+
+.. include:: include/conf/2017-na-sponsors.rst
