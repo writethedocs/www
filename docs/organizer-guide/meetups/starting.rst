@@ -126,15 +126,38 @@ Speakers:
 Try different formats. Alternatives:
 
 * Panels,
-* `Round-tables <http://www.meetup.com/Write-The-Docs-London/events/231780773/>`_,
+* `Round-tables <https://www.meetup.com/Write-The-Docs-London/events/231780773/>`_
 * Lightning talks
 * Workshops
 
-If you can't find a local speaker, find a video of a talk from a previous
-`Write the Docs conference <http://www.writethedocs.org/conf/>`. Ask the speaker(s)
-if they're willing to field questions. Share the video with the group during the
-meetup. Set up questions and answers with the speaker during the Meetup. For
-one successful example, see the following Meetup: `So you need to document an API <http://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/events/232962552/>`_
+
+If You Can't Find a Local Speaker
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If you can't find a local speaker, consider screening a popular talk from one of the
+Write the Docs conferences <http://www.writethedocs.org/videos/>_ and inviting the conference presenter to call in for
+a live Q & A session. Both the Boulder and Austin meetups have done well with this format.
+
+ * `So you need to document an API <https://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/events/232962552/>`_
+
+ * `Living documentation <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/231859187/>`_
+
+If you choose this format (or have a remote speaker), make sure your meeting venue supports high quality video
+presentation and audio conferencing.
+
+
+You Don't Always Need a Speaker
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It is not always easy to find a speaker. Other meetups have done well with
+alternatives:
+
+* Coffee Klatches; suitable for meetups with a few people. The Seattle
+meetup has done well with this format.
+* Pure networking meetup; you can "roundtable" a specific topic; give each
+attendee a chance to talk about what they do
+
+
 
 Starting the Meetup:
 --------------------
