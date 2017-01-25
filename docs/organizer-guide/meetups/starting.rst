@@ -70,8 +70,8 @@ location. Try sending out an email like the example provided in the following te
     I am the organizer of Write the Docs {{ city name }} meetup {{ link to meetup page }}. Write the Docs
     {{ writethedocs.org }} is a global community of people interested in excellent documentation.
 
-    We'd like your help! If you're interested in improving your documentation, help us. We'll provide a resource with different experiences, and potentially
-    writers who can help with your documentation.
+    We'd like your help! If you're interested in improving your documentation, help us. We'll provide
+    a resource with different experiences, and potentially writers who can help with your documentation.
 
     If you have any questions, please do not hesitate to contact us.
 
@@ -121,7 +121,11 @@ Speakers:
 * Ask people at your meetups to do a talk.
 * Invite different speakers to each Meetup. Repeat speakers are OK if it's been over a year.
 * Invite speakers from different backgrounds and don't limit talks to writing.
-* For example, you might want to invite someone who codes or leads a community in Python, Javascript, or Ruby, and ask them to share a project or approach to documentation specific to their domain. Or, invite an architect, editor, designer, user experience professional, or support representative to talk about their approach to documentation projects and problems.
+
+  For example, you might want to invite someone who codes or leads a community in Python, Javascript, or
+  Ruby, and ask them to share a project or approach to documentation specific to their domain. Or, invite an architect,
+  editor, designer, user experience professional, or support representative to talk about their approach to documentation
+  projects and problems.
 
 Try different formats. Alternatives:
 
@@ -135,7 +139,7 @@ If You Can't Find a Local Speaker
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If you can't find a local speaker, consider screening a popular talk from one of the
-Write the Docs conferences <http://www.writethedocs.org/videos/>_ and inviting the conference presenter to call in for
+`Write the Docs conferences <http://www.writethedocs.org/videos/>`_ and inviting the conference presenter to call in for
 a live Q & A session. Both the Boulder and Austin meetups have done well with this format.
 
  * `So you need to document an API <https://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/events/232962552/>`_
