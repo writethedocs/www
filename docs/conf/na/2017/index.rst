@@ -136,7 +136,7 @@
                 <div class="row">
                   <div class="col-xs-12">
 
-.. include::   ../../../include/conf/2017-na-sponsors.rst
+.. include:: /include/conf/2017-na-sponsors.rst
 
 .. raw:: html
 
