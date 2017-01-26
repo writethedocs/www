@@ -56,7 +56,7 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 * **Volunteer coordinator** - Becky Yoose
 * **Sponsorship lead** - Eric Holscher
 * **Explore Portland coordinator** - TBD
-* **Welcome Wagon coordinators** - Christy Lutz & Leona
+* **Welcome Wagon coordinators** - Christy Lutz & Leona Campbell
 * **Social media chair** - Mikey Ariel
 * **Hike coordinator** - Eric Holscher
 * **Emcee** - TBD
