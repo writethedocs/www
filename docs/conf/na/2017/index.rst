@@ -12,7 +12,7 @@
                 <div class="row">
                   <div class="col-xs-12 col-md-5 text-center">
                     <p class="buy-ticket__p buy-ticket__p--first">
-                      Portland, Oregon 
+                      Portland, Oregon
                       <span>|</span>
                       May 14-16, 2017
                     </p>
@@ -89,7 +89,7 @@
                   </div>
                 </div>
               </section>
-              
+
               <section class="section">
                 <div class="row">
                   <div class="col-xs-12">
@@ -101,7 +101,7 @@
                       -->
                     </div>
                   </div>
-                </div>  
+                </div>
 
                 <div class="row">
                   <div class="col-xs-12 col-md-4">
@@ -122,10 +122,32 @@
                 </div>
 
               </section>
-              
+
+              <section class="section">
+                <div class="row">
+                  <div class="col-xs-12">
+                    <div class="section__header subheader">
+                      <span class="subheader__yellow"></span>
+                      <h2 class="subheader__header">Sponsors</h2>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-12">
+
+.. include:: /include/conf/2017-na-sponsors.rst
+
+.. raw:: html
+
+                    </a>
+                  </div>
+                </div>
+
+
+              </section>
 
             </div>
           </div>
         </div>
       </div>
-
