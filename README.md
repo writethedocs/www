@@ -13,6 +13,6 @@ To generate the docs locally:
 
 3. Run `pip install -r requirements.txt` to install sphinx and other requirements.
 
-4. In the `docs` directory, run `make html` to generate a local version of the site in `docs/_build/html/`.
+4. In the `docs` directory, run `make livehtml` to view the docs on [http://127.0.0.1:8888/](http://127.0.0.1:8888/).
 
 The Write the Docs website is hosted on [Read the Docs](https://readthedocs.org/projects/writethedocs-www).
