@@ -123,30 +123,6 @@
 
               </section>
 
-              <section class="section">
-                <div class="row">
-                  <div class="col-xs-12">
-                    <div class="section__header subheader">
-                      <span class="subheader__yellow"></span>
-                      <h2 class="subheader__header">Sponsors</h2>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="row">
-                  <div class="col-xs-12">
-
-.. include:: /include/conf/2017-na-sponsors.rst
-
-.. raw:: html
-
-                    </a>
-                  </div>
-                </div>
-
-
-              </section>
-
             </div>
           </div>
         </div>
