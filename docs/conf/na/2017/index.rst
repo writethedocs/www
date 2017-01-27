@@ -77,7 +77,7 @@
                           May 15-16
                         </div>
                         <p class="schedule-home__day">
-                          Tuesday
+                          Monday & Tuesday
                         </p>
                         <p class="schedule-home__desc">
                           The main days of the conference.
