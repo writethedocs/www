@@ -115,7 +115,7 @@
                       interesting talks...
                       </p>
                       <div class="well__time">
-                        <span>3 PM</span>|<span>01.05.2017</span>
+                        <span>3 PM</span>|<span>Jan 5, 2017</span>
                       </div>
                     </a>
                   </div>
