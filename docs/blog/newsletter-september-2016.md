@@ -1,6 +1,6 @@
 ```eval_rst
 
-.. post:: Sept 1, 2016
+.. post:: Sep 1, 2016
    :tags: newsletter
 
 ```
