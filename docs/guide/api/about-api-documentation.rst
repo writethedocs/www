@@ -20,6 +20,8 @@ While these tools help you with the technical details, they don't create good de
 
   The best API docs are written by hand - Peter Hilton
 
+.. _documentation-driven-design:
+
 Documentation Driven Design
 ---------------------------
 
