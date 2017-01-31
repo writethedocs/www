@@ -11,7 +11,7 @@ To generate the docs locally:
 
 2. If your version of Python as shown by `python -V` is <= 2.7.9, download and install  [pip](https://pip.pypa.io/en/stable/installing/) .
 
-3. Navigate to the root www directory, and as the root user run `pip install -r requirements.txt` to install sphinx and other requirements.
+3. In the repository root directory (`www` by default), as the root user, run `pip install -r requirements.txt` to install sphinx and other requirements.
 
 4. In the `docs` directory, run `make livehtml` to view the docs on [http://127.0.0.1:8888/](http://127.0.0.1:8888/).
 
