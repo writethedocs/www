@@ -121,12 +121,13 @@ Roles
 
 * Manage the `@writethedocs <https://twitter.com/writethedocs>`_ twitter account
 * Reply to folks who have questions on Twitter
-* Track, post, and retweet relevant content
+* Track, post, and retweet relevant content (2-3 times a day, max)
 
 Members
 ```````
 
-* Volunteers Needed!
+* `Rose Williams <https://twitter.com/Zelwms>`_
+* You?
 
 
 Website Team

@@ -184,8 +184,6 @@ def on_page_context(app, pagename, templatename, context, doctree):
         if txt.startswith(':template:'):
             context['body'] = context['body'].replace(txt, '')
             return txt.split(':')[2].strip()
-        else:
-            print("Unknown context %s" % pagename)
     # rst
     try:  # Sphinx was throwing a weird error here, and this is a workaround
         if (context and

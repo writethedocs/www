@@ -30,16 +30,13 @@ We'd be happy to promote it and list it here.
 -   [San Francisco, CA, USA](http://www.meetup.com/Write-the-Docs/)
 -   [Seattle, WA, USA](http://www.meetup.com/Write-The-Docs-Seattle/)
 
-### Current Meetups: Latin America
-
--   [Managua, NI](http://www.linuxtour.org/eventos/write-the-docs-managua/)
-
 ### Current Meetups: Europe
 
 -   [Barcelona, ES](http://www.meetup.com/Write-the-Docs-Barcelona/)     
 -   [Berlin, DE](http://www.meetup.com/Write-The-Docs-Berlin/)     
 -   [Galway, IE](http://www.meetup.com/Write-The-Docs-Ireland/)
 -   [London, UK](http://www.meetup.com/Write-The-Docs-London/)
+-   [Munich, DE](https://www.meetup.com/Write-the-Docs-Munich/)
 
 ### Current Meetups: Oceania
 

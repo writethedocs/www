@@ -12,7 +12,7 @@
                 <div class="row">
                   <div class="col-xs-12 col-md-5 text-center">
                     <p class="buy-ticket__p buy-ticket__p--first">
-                      Portland, Oregon 
+                      Portland, Oregon
                       <span>|</span>
                       May 14-16, 2017
                     </p>
@@ -77,7 +77,7 @@
                           May 15-16
                         </div>
                         <p class="schedule-home__day">
-                          Tuesday
+                          Monday & Tuesday
                         </p>
                         <p class="schedule-home__desc">
                           The main days of the conference.
@@ -89,7 +89,7 @@
                   </div>
                 </div>
               </section>
-              
+
               <section class="section">
                 <div class="row">
                   <div class="col-xs-12">
@@ -101,7 +101,7 @@
                       -->
                     </div>
                   </div>
-                </div>  
+                </div>
 
                 <div class="row">
                   <div class="col-xs-12 col-md-4">
@@ -115,17 +115,15 @@
                       interesting talks...
                       </p>
                       <div class="well__time">
-                        <span>3 PM</span>|<span>01.05.2017</span>
+                        <span>3 PM</span>|<span>Jan 5, 2017</span>
                       </div>
                     </a>
                   </div>
                 </div>
 
               </section>
-              
 
             </div>
           </div>
         </div>
       </div>
-

@@ -30,25 +30,33 @@ Samuel Wright
 
 .. include:: /include/bios/sam.rst
 
+Becky Yoose
+~~~~~~~~~~~
+
+.. include:: /include/bios/becky.rst
+
+Rose Williams
+~~~~~~~~~~~~~
+
+.. include:: /include/bios/rose.rst
+
 Primary Roles
 -------------
 
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
 
 * **Conference chair** - Eric Holscher
-* **Swag coordinator** - TBD
+* **Swag coordinator** - Mikey Ariel
 * **Speaker wrangler** - Kelly O'Brien
-* **Infrastructure chair** - TBD
-* **Local city chair** - TBD
+* **Infrastructure chair** - Samuel Wright
 * **Writing Day coordinator** - TBD
-* **Unconference coordinator** - TBD
-* **Lightning Talk coordinator** - TBD
-* **Communication chair** - TBD
-* **Volunteer coordinator** - TBD
-* **Sponsorship lead** - TBD
-* **Explore <City> coordinator** - TBD
-* **Welcome Wagon coordinators** - TBD
-* **Social media chair** - TBD
-* **Saturday Event coordinator** - TBD
-* **Proposal reviewers** - TBD
+* **Unconference coordinator** - Rose Williams
+* **Lightning Talk coordinator** - Rose Williams
+* **Communication chair** - Mikey Ariel
+* **Volunteer coordinator** - Becky Yoose
+* **Sponsorship lead** - Eric Holscher
+* **Explore Portland coordinator** - TBD
+* **Welcome Wagon coordinators** - Christy Lutz & Leona Campbell
+* **Social media chair** - Mikey Ariel
+* **Hike coordinator** - Eric Holscher
 * **Emcee** - TBD
