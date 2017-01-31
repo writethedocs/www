@@ -3,7 +3,7 @@ Code of Conduct
 
 Write the Docs is a global community of documentarians who share information, discuss ideas, and work together to improve the art and science of documentation.
 
-We have a few ground rules that we ask people to adhere to when they're participating within this community and its projects. These rules apply equally to founders, mentors, admins, and those seeking conversation, discussion, help, and guidance -- in short, to all participants.
+Diversity is one of our huge strengths. To support a welcoming environment for all, regardless of individual differences, we have a few ground rules that we ask people to adhere to when they're participating within this community and its projects. These rules apply equally to founders, mentors, admins, and those seeking conversation, discussion, help, and guidance -- in short, to all participants.
 
 This isn't an exhaustive list of things that you must do, or can't do. Rather, take it in the spirit in which it's intended.It's a guide to make it easier to enrich all of us -- the technical community and the conferences, meetups, and other forums we hope to guide new participants to.
 
