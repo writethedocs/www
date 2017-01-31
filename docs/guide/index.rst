@@ -31,6 +31,7 @@ Getting Started with Documentation
 Writing Great Documentation
 ---------------------------
 
+* :doc:`writing/docs-principles`
 * Structuring your Documentation
 * Style Guides
 * :ref:`interesting-approaches`
