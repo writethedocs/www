@@ -1,0 +1,1 @@
+Christy Lutz writes tech docs for Wacom, crochets to relax, loves to dance, and adores making connections through the Write the Docs Welcome Wagon.
