@@ -6,7 +6,7 @@ Write the Docs is a global community of documentarians who share information, di
 
 Diversity is one of our huge strengths. To support a welcoming environment for all, regardless of individual differences, we have a few ground rules that we ask people to adhere to when they're participating within this community and its projects. These rules apply equally to founders, mentors, admins, and those seeking conversation, discussion, help, and guidance -- in short, to all participants.
 
-This isn't an exhaustive list of things that you must do, or can't do. Rather, take it in the spirit in which it's intended.It's a guide to make it easier to enrich all of us -- the technical community and the conferences, meetups, and other forums we hope to guide new participants to.
+This isn't an exhaustive list of things that you must do, or can't do. Rather, take it in the spirit in which it's intended. It's a guide to make it easier to enrich all of us -- the technical community and the conferences, meetups, and other forums we hope to guide new participants to.
 
 This code of conduct applies to all spaces associated with the Write the Docs community, whether virtual or face-to-face. This includes Slack, the discussion forum, social media, conferences, meetups, and anywhere else Write the Docs might show up. In addition, violations of this code outside these spaces may affect a person's ability to participate within them. 
 
