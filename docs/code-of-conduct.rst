@@ -3,7 +3,7 @@ Code of Conduct
 
 Write the Docs is a global community of documentarians who share information, discuss ideas, and work together to improve the art and science of documentation.
 
-Diversity is one of our huge strengths. To support a welcoming environment for all, regardless of individual differences, we have a few ground rules that we ask people to adhere to when they're participating within this community and its projects. These rules apply equally to founders, mentors, admins, and those seeking conversation, discussion, help, and guidance -- in short, to all participants.
+While diversity is one of our strengths, it can also lead to communication issues. To that end, we have a few ground rules that we ask people to adhere to when they're participating within this community and its projects. These rules apply equally to founders, mentors, admins, and those seeking conversation, discussion, help, and guidance -- in short, to all participants.
 
 This isn't an exhaustive list of things that you must do, or can't do. Rather, take it in the spirit in which it's intended.It's a guide to make it easier to enrich all of us -- the technical community and the conferences, meetups, and other forums we hope to guide new participants to.
 
@@ -15,7 +15,7 @@ This code of conduct applies to all spaces associated with the Write the Docs co
 
 * **Be considerate.** Your words and your work will be used by other people, and you in turn will depend on the words and the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
 
-+* **Be respectful.** Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of the Write the Docs community should be respectful when dealing with others inside and outside the Write the Docs community.
+* **Be respectful.** Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of the Write the Docs community should be respectful when dealing with others inside and outside the Write the Docs community.
 
 * **Be careful in the words that you choose.** We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants, individually or as a group. Harassment and other exclusionary behavior aren't acceptable. This includes, but is not limited to:
 
