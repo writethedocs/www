@@ -123,6 +123,50 @@
 
               </section>
 
+              <!-- Sponsors --->
+							<section class="section section--last">
+
+								<div class="row">
+                  <div class="col-xs-12">
+                    <div class="section__header subheader">
+                      <span class="subheader__yellow"></span>
+											<h2 class="subheader__header">Sponsors</h2>
+                    </div>
+                  </div>
+                </div>
+
+								<div class="row">
+									<div class="col-sm-8 col-sm-offset-2">
+										<p>The conference wouldn't be nearly as great as it is without our wonderful corporate sponsors.
+										Thanks to these folks for supporting the community.</p>
+									</div>
+								</div>
+
+.. include:: /include/conf/2017-na-sponsors.rst
+
+.. raw:: html
+
+              <div class="row">
+                <div class="col-sm-8 col-sm-offset-2">
+                <br />
+                <h3>
+                  In kind sponsors
+                </h3>
+                </div>
+              </div>
+
+                <div class="row">
+                  <div class="col-sm-8 col-sm-offset-2">
+                    <p>Write the Docs is also helped out by companies that give their employees time to work on the conference.</p>
+                  </div>
+                </div>
+
+.. include:: /include/conf/2017-na-sponsors-in-kind.rst
+
+.. raw:: html
+
+							</section>
+
             </div>
           </div>
         </div>
