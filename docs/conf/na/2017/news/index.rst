@@ -10,4 +10,5 @@ More here as it happens!
 .. toctree::
    :glob:
 
-   *
+   announcing-tickets-cfp-website
+   cfp-reminder
