@@ -20,7 +20,7 @@ We can't wait to see your submissions! We'll be reviewing all the talk proposals
 
 This conference wouldn't happen without the help of our amazing sponsors. So far we're very grateful to have [Google](https://www.google.com/about/) and [Sticker Mule](https://www.stickermule.com/) join us as sponsors for this year's conference.
 
-We still have lots of exciting opportunities for sponsorship, if your company is looking for ways to support good documentation. Drop us an email at at [sponsorship@writethedocs.org](mailto:sponsorship@writethedocs.org) with any questions.
+We still have lots of exciting opportunities for sponsorship, if your company is looking for ways to support good documentation. Drop us an email at at sponsorship@writethedocs.org with any questions.
 
 Thanks so much for your help in making Write the Docs possible!
 
