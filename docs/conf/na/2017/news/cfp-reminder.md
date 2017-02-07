@@ -6,7 +6,7 @@ Good day to you, fellow documentarians!
 
 The conference is now a little over three months away, so we hope you’re getting geared up for another inimitable Write the Docs experience in lovely Portland, Oregon!
 
-Tickets are selling out quickly – thanks to everyone who has already purchased theirs! We do expect the conference to sell out fully again this year, so don't drag your heels!
+[Tickets](http://www.writethedocs.org/conf/na/2017/tickets/) are selling out quickly – thanks to everyone who has already purchased theirs! We do expect the conference to sell out fully again this year, so don't drag your heels!
 
 ## Submit your talk by Friday
 
