@@ -7,7 +7,7 @@ Write the Docs Newsletter - February 2017
 Welcome back / Are we there yet?
 --------------------------------
 
-Hi everybody! We're so happy to find ourselves back in your inbox with this, the first newsletter of 2017! Although we all took some kind of break over the holiday season, we did our best to keep an eye on Slack for good newsletter nuggests – and we definitely were not disappointed! Below are some highlights from the last couple of months, and we'll be getting back into the regular swing of things going forward. :)
+Hi everybody! We're so happy to find ourselves back in your inbox with this, the first newsletter of 2017! Although we all took some kind of break over the holiday season, we did our best to keep an eye on Slack for good newsletter nuggets – and we definitely were not disappointed! Below are some highlights from the last couple of months, and we'll be getting back into the regular swing of things going forward. :)
 
 The other thing that's looming large in docsland is the North America conference, coming up in just over three months! The details are all starting to fall into place, and now's a great time `to get your tickets <https://ti.to/writethedocs/write-the-docs-na-2017/>`_ or `submit a talk <http://www.writethedocs.org/conf/na/2017/cfp/>`_. While you've still got some time for ticket-buying (we don't expect to sell out until mid-March), you definitely don't want to dawdle on that second one – **deadline for proposals is this Friday at midnight PST**.
 
@@ -16,13 +16,13 @@ So now, without further ado, let's look in on what the community has been discus
 Best practices for changing your docs workflow
 ----------------------------------------------
 
-A question arose, back in Decemeber, that many of us have been faced with (or perhaps daydreamed about) at some point in our careers: If you had the chance to implement a brand new documentation workflow, how would you go about it?
+A question arose, back in December, that many of us have been faced with (or perhaps daydreamed about) at some point in our careers: If you had the chance to implement a brand new documentation workflow, how would you go about it?
 
 It's often easy to go down the rabbit hole with a question like this, comparing the virtues of specific toolchains and markup languages. But in this case, a lot of the conversation instead revolved around some deeper, more fundamental points. Namely, how to make sure that a) the new system will be an improvement over the old system and b) that you're making the change for the right reasons.
 
-The genral consensus was that decisions like these are fraught. It's easy to fall into the trap of thinking that the workflow that suits you and your needs best is the best workflow for your entire team. Also, be on guard against the thought that once you switch to a new system, everything will be *perfect*. (This is especially true for shiny new tools that you've just met – the honeymoon period is real.)
+The general consensus was that decisions like these are fraught. It's easy to fall into the trap of thinking that the workflow that suits you and your needs best is the best workflow for your entire team. Also, be on guard against the thought that once you switch to a new system, everything will be *perfect*. (This is especially true for shiny new tools that you've just met – the honeymoon period is real.)
 
-So what's the best way to approach a big process change? Per usualy, there was lots of excellent advice to be had. First and foremost, make sure you know a) what problems the new system is going to solve and b) what problems it's going to introduce (remember – no system is perfect). When you know those things, **talk to the people who will be using the new system every day.** Ask them what they like about their current process. Ask them where they feel pain. Then get them involve in - and ideally, give them ownership over – the transition. Anything you can do to avoid surprises will make for a much more successful roll out, in the long run.
+So what's the best way to approach a big process change? Per usual, there was lots of excellent advice to be had. First and foremost, make sure you know a) what problems the new system is going to solve and b) what problems it's going to introduce (remember – no system is perfect). When you know those things, **talk to the people who will be using the new system every day.** Ask them what they like about their current process. Ask them where they feel pain. Then get them involved in - and ideally, give them ownership over – the transition. Anything you can do to avoid surprises will make for a much more successful roll out, in the long run.
 
 Getting started with API Docs
 -----------------------------
@@ -42,12 +42,15 @@ Pros and cons of using tabbed content for multiple audiences
 ------------------------------------------------------------
 
 Writing for multiple audiences is definitely a common predicament we find ourselves in, and one writer came to the general channel with a question about using navigation tabs (navtabs) to organize their content. It sparked a lively discussion, which we've distilled into a quick round-up of the pros and cons of the navtab experience:
+
 **Pros**
+
 * Allows content reuse.
 * Lets users "choose their own adventure" to get content that's specific to their skill level, role, or need.
 * Helps users find the right information more quickly--for example, platform-, language-, or device-specific information.
 
 **Cons**
+
 * Users who choose the wrong tab for their needs will see unhelpful or confusing information.
 * Can induce fear of missing out because users are aware that they're only seeing one information pathway.
 * Defeats browser 'search on this page' functions because navtabs "hide" search terms if they appear inside a tabbed section.
@@ -73,7 +76,7 @@ We're so lucky to have such rich conversations in our community – and that's t
 
 There were a good number of folks who suggested that product management is a career path commonly tread by technical writers. Others recommended looking at training or community management as roles that with significant overlap. Marketing, developer evangelism, and doc management also came up as possibilities to explore. As far as how to start moving in any of these directions, a strong first step would be to attend or start a meetup (or otherwise get involved in the community) for the type of work you're interested in.
 
-UI and UX also came up as good possibilties if you have a tech writing background – but that making that jump can sometime be particularly difficult to navigate. The general sentiment was that writers, who often serve as a primary advocate for software users, can contribute substantially to UX design and UI development. But some writers expressed their frustration with feeling excluded from the design process. One helpful suggestion for how to bridge that gap more smoothlywas to start small, focusing on text-related questions or contributions, and then work gradually to gain trust and a more full-fledged role in the design process.
+UI and UX also came up as good possibilities if you have a tech writing background – but that making that jump can sometime be particularly difficult to navigate. The general sentiment was that writers, who often serve as a primary advocate for software users, can contribute substantially to UX design and UI development. But some writers expressed their frustration with feeling excluded from the design process. One helpful suggestion for how to bridge that gap more smoothly was to start small, focusing on text-related questions or contributions, and then work gradually to gain trust and a more full-fledged role in the design process.
 
 
 Looking ahead to Write the Docs North America
