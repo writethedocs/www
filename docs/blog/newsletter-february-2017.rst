@@ -1,5 +1,8 @@
-# Write the Docs Newsletter - February
-######################################
+.. post:: Feb 9, 2017
+   :tags: newsletter, workflow, api, career, ui text
+
+Write the Docs Newsletter - February
+####################################
 
 Welcome back / Are we there yet?
 --------------------------------
@@ -37,7 +40,6 @@ Pros and cons of using tabbed content for multiple audiences
 ------------------------------------------------------------
 
 Writing for multiple audiences is definitely a common predicament we find ourselves in, and one writer came to the general channel with a question about using navigation tabs (navtabs) to organize their content. It sparked a lively discussion, which we've distilled into a quick round-up of the pros and cons of the navtab experience:
-
 **Pros**
 * Allows content reuse.
 * Lets users "choose their own adventure" to get content that's specific to their skill level, role, or need.
