@@ -1,14 +1,18 @@
 Docs like Code
 ============
 
+:author: `Eric Holscher <https://ericholscher.com>`_
+
 *Docs like Code* refers to a philosophy that you should be writing documentation with the same tools you use to write code.
 This means following the same workflows and integrating into development teams.
+It enables a culture where writers and developers both feel ownership of documentation,
+and work together to make it as good as possible.
 
-Generally a *Docs like Code* approach gives you the following benefits:
+Generally a *docs like Code* approach gives you the following benefits:
 
 * Writers integrate better with development teams
-* Developers will write a first draft of documentation
-* You can block merging of new features if they don't include documentation
+* Developers will often write a first draft of documentation
+* You can block merging of new features if they don't include documentation, which incentivizes developers to 
     
 Videos
 ------
