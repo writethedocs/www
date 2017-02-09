@@ -33,8 +33,8 @@ Writing Great Documentation
 
 * :doc:`writing/docs-principles`
 * Structuring your Documentation
+* :doc:`docs-like-code`
 * Style Guides
-* :ref:`interesting-approaches`
 
 Documentation Culture at your Company
 -------------------------------------
