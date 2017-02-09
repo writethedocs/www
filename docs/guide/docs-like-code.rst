@@ -13,20 +13,28 @@ Generally a *docs like Code* approach gives you the following benefits:
 * Writers integrate better with development teams
 * Developers will often write a first draft of documentation
 * You can block merging of new features if they don't include documentation, which incentivizes developers to 
+
+There is a lot more to building a proper *Docs like Code* workflow.
+There are a couple books we recommend that you check out:
+
+* Docs like Code - Anne Gentle
+* Modern Technical Writing - Andrew Etter
     
-Videos
-------
+*Docs like Code* at Write the Docs
+----------------------------------
 
 Write the Docs has had a number of talks that touch on this topic over the years.
-In Portland 2015,
+At our 2015 NA conference,
 `Riona MacNamara`_ talked about how adopting *Docs like Code* has completely transformed how Google does documentation.
-At our 2016 US conference,
+At our 2016 NA conference,
 we had a `panel`_ with folks from Rackspace,
 Microsoft,
 Balsamiq,
 and Twitter,
 all talking about how they are adopting these practices.
-Our 2016 EU conference had talks from `Margaret Eker and Jennifer Roundeau`_ and `Rachel Whitten`_ give talks as well.
+Our 2016 EU conference had a talk from `Margaret Eker and Jennifer Roundeau`_ from Rackspace & Capital One,
+it was a great overview of *Docs as Code*.
+We also had `Rachel Whitten`_ from Pantheon give a talk on their implementation of these approaches.
 
 The *Docs like Code* concepts are widely practiced in the software industry,
 and are gaining adoption in the writing community.
