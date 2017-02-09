@@ -1,8 +1,8 @@
 .. post:: Feb 9, 2017
    :tags: newsletter, workflow, api, career, ui text
 
-Write the Docs Newsletter - February
-####################################
+Write the Docs Newsletter - February 2017
+=========================================
 
 Welcome back / Are we there yet?
 --------------------------------
@@ -15,6 +15,7 @@ So now, without further ado, let's look in on what the community has been discus
 
 Best practices for changing your docs workflow
 ----------------------------------------------
+
 A question arose, back in Decemeber, that many of us have been faced with (or perhaps daydreamed about) at some point in our careers: If you had the chance to implement a brand new documentation workflow, how would you go about it?
 
 It's often easy to go down the rabbit hole with a question like this, comparing the virtues of specific toolchains and markup languages. But in this case, a lot of the conversation instead revolved around some deeper, more fundamental points. Namely, how to make sure that a) the new system will be an improvement over the old system and b) that you're making the change for the right reasons.
@@ -25,6 +26,7 @@ So what's the best way to approach a big process change? Per usualy, there was l
 
 Getting started with API Docs
 -----------------------------
+
 "How do I get started with API documentation?" is a question we've overheard on Slack and IRL, on an increasingly regular basis. When it resurfaced a few weeks ago, in our #documenting-apis channel, we thought we'd take the opportunity to pull together a little collection of resources to help folks get started on their API docs journey:
 
 * `Writing great documentation <https://byrslf.co/writing-great-documentation-44d90367115a#.4hvf5lx5o>`_
@@ -76,4 +78,5 @@ UI and UX also came up as good possibilties if you have a tech writing backgroun
 
 Looking ahead to Write the Docs North America
 ---------------------------------------------
+
 One last reminder that we're in the home stretch of the call for proposals – if you've been thinking about pitching a talk for May's conference, make sure you get it in before midnight (PST) on Friday. You can read all about what we're looking for, and submit your proposal, on the `CFP page <http://www.writethedocs.org/conf/na/2017/cfp/>`_. We can't wait to see what you come up with!
