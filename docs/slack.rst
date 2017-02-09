@@ -66,7 +66,6 @@ We have a few guidelines that we hope people will follow when interacting inside
 * **When people say hi, say hi back** - The world is a better place with a flood of hello's instead of a dearth.
 * **Don't be snarky** - We are all trying the best we can
 * **Be careful with jokes** - You know that you're joking, but some people might take you seriously.
-* **No Black Sheep** - There may be tools that you don't like. There is a good chance there is someone in the room who either helped create or likes to use that tool. Don't make them feel bad, they are likely just in a different context.
 
 Programmer Community Issues
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -78,6 +77,7 @@ and I'd like to make sure we don't fall into these same traps.
 In particular,
 please avoid these behaviors:
 
+* **No Black Sheep** - There may be tools that you don't like. There is a good chance there is someone in the room who either helped create or likes to use that tool. Don't make them feel bad, they are likely just in a different context.
 * **Let Me Google That For You (LMGTFY)** - If people ask questions that are simple to answer on google, still answer them nicely.
 * **Question Policing** - Some people might ask incomplete questions that are hard to answer. Ask follow up questions and act in good faith to help them solve their issues.
 * **Technology Pissing Contests** - We don't care if your tool is faster, better, bigger, stronger. We care about creating great documentation for our users.
