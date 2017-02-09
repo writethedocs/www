@@ -24,17 +24,19 @@ There are a couple books we recommend that you check out:
 ----------------------------------
 
 Write the Docs has had a number of talks that touch on this topic over the years.
-At our 2015 NA conference,
-`Riona MacNamara`_ talked about how adopting *Docs like Code* has completely transformed how Google does documentation.
-At our 2016 NA conference,
-we had a `panel`_ with folks from Rackspace,
-Microsoft,
-Balsamiq,
-and Twitter,
-all talking about how they are adopting these practices.
-Our 2016 EU conference had a talk from `Margaret Eker and Jennifer Roundeau`_ from Rackspace & Capital One,
-it was a great overview of *Docs as Code*.
-We also had `Rachel Whitten`_ from Pantheon give a talk on their implementation of these approaches.
+
+**2015 North America**
+
+* `Riona MacNamara`_ talked about how adopting *Docs like Code* has completely transformed how Google does documentation.
+
+**2016 North America**
+
+* We had a `panel`_ with folks from Rackspace, Microsoft, Balsamiq, and Twitter, all talking about how they are adopting these practices.
+
+**2016 Europe**
+
+* `Margaret Eker and Jennifer Roundeau`_ from Rackspace & Capital One, it was a great overview of *Docs as Code*.
+* `Rachel Whitten`_ from Pantheon give a talk on their implementation of these approaches.
 
 The *Docs like Code* concepts are widely practiced in the software industry,
 and are gaining adoption in the writing community.
