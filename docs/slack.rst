@@ -17,6 +17,8 @@ You can `join our Slack <http://slack.writethedocs.org/>`_ if you aren't already
 
 .. _this page: https://github.com/writethedocs/www/blob/master/docs/slack.rst
 
+
+
 Default channels
 ----------------
 
@@ -46,3 +48,45 @@ Chances are we have a large group of folks in your neck of the woods,
 so join up and chat with them.
 They're a great way to get in touch with your local meetup organizer and community.
 
+
+Social Rules
+------------
+
+Our goal with Write the Docs is to be **the most welcoming community on the internet**.
+Documentarians tend to be empathetic people,
+this means that we should be good at communicating well.
+People who are new to our community in particular should be assisted and welcoming.
+
+This concept is inspired by the `Recurse Center's Social Rules <https://www.recurse.com/manual#social-rules>`_ -- which you should also follow.
+
+We have a few guidelines that we hope people will follow when interacting inside out Slack network:
+
+* **You don't have to be in every conversation** - Just because you can make a comment, doesn't mean you should. Try and be constructive in all that you do.
+* **If you don't have anything nice to say, don't say anything at all** - Once again our parents were quite sage
+* **When people say hi, say hi back** - The world is a better place with a flood of hello's instead of a dearth
+* **Don't be snarky** - We are all trying the best we can
+* **Be careful with jokes** - You know that you're joking, but some people might take you seriously
+* **No Black Sheep** - There may be tools that you don't like. There is a good chance there is someone in the room who either helped create or likes to use that tool. Don't make them feel bad, they are likely just in a different context.
+
+Programmer Community Issues
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There is a specific set of behavior that is prevalent in developer communities that I'd like to address.
+There is a lot of cross-over,
+and I'd like to make sure we don't fall into these same traps.
+
+In particular,
+please avoid these behaviors:
+
+* **Let Me Google That For You (LMGTFY)** - If people ask questions that are simple to answer on google, still answer them nicely
+* **Question Policing** - Some people might ask incomplete questions that are hard to answer. Ask follow up questions and act in good faith to help them solve their issues
+* **Technology Pissing Contests** - We don't care if your tool is faster, better, bigger, stronger. We care about creating great documentation for our users.
+
+Reporting Issues
+~~~~~~~~~~~~~~~~
+
+If you see people not following our etiquette guidelines,
+you have two options:
+
+* Message them privately, and explain why what they said might have been hurtful to someone
+* Ask a :ref:`moderation-team` member privately to talk to the user, include a link to the conversation if possible.
