@@ -31,7 +31,7 @@ Getting started with API Docs
 * `Documenting REST APIs <http://idratherbewriting.com/docapis_course_overview/>`_
 * `The Best API Documentation <https://bradfults.com/the-best-api-documentation-b9e46400379a#.fp8k1rlh4>`_
 * `So you want to learn about API documentation <http://www.yourmom.io/2016/05/apis_new_writers/>`_
-* `Write The Docs Guide: API Docs <http://www.writethedocs.org/guide/#api-documentation>`_
+* `Write the Docs Guide: API Docs <http://www.writethedocs.org/guide/#api-documentation>`_
 * `8 Great Examples of Developer Documentation <https://zapier.com/engineering/great-documentation-examples/>`_
 
 If API docs are already your jam, head over to the API channel – we'd love to hear about your favorite resources!
@@ -74,6 +74,6 @@ There were a good number of folks who suggested that product management is a car
 UI and UX also came up as good possibilties if you have a tech writing background – but that making that jump can sometime be particularly difficult to navigate. The general sentiment was that writers, who often serve as a primary advocate for software users, can contribute substantially to UX design and UI development. But some writers expressed their frustration with feeling excluded from the design process. One helpful suggestion for how to bridge that gap more smoothlywas to start small, focusing on text-related questions or contributions, and then work gradually to gain trust and a more full-fledged role in the design process.
 
 
-Looking ahead to Write The Docs North America
+Looking ahead to Write the Docs North America
 ---------------------------------------------
 One last reminder that we're in the home stretch of the call for proposals – if you've been thinking about pitching a talk for May's conference, make sure you get it in before midnight (PST) on Friday. You can read all about what we're looking for, and submit your proposal, on the `CFP page <http://www.writethedocs.org/conf/na/2017/cfp/>`_. We can't wait to see what you come up with!
