@@ -47,7 +47,7 @@ Writing for multiple audiences is definitely a common predicament we find oursel
 
 * Allows content reuse.
 * Lets users "choose their own adventure" to get content that's specific to their skill level, role, or need.
-* Helps users find the right information more quickly--for example, platform-, language-, or device-specific information.
+* Helps users find the right information more quickly -- for example, platform-, language-, or device-specific information.
 
 **Cons**
 
