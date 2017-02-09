@@ -21,6 +21,8 @@ Messaging folks on the Write the Docs `Slack <http://slack.writethedocs.com/>`_ 
    :backlinks: none
    :depth: 1
 
+.. _moderation-team:
+
 Moderation Team
 ---------------
 
