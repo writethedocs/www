@@ -200,7 +200,7 @@ def rstjinja(app, docname, source):
     """
     if getattr(app.builder, 'implementation', None) or app.builder.format != 'html':
         return
-    if docname.startswith('conf/'):
+    if docname.startswith('conf/') or docname.startswith('guide/'):
         src = source[0]
         rendered = app.builder.templates.render_string(src, app.config.html_context)
         source[0] = rendered
@@ -210,6 +210,7 @@ def add_jinja_filters(app):
     if getattr(app.builder, 'implementation', None) or app.builder.format != 'html':
         return
     app.builder.templates.environment.filters['slugify'] = slugify
+
 
 def setup(app):
     app.connect('html-page-context', on_page_context)
