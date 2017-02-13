@@ -46,7 +46,7 @@ Schedule a Session
 ------------------
 
 Attendees that wish to lead an unconference session have several options
-for signing up. We will have a board with all of the sessions for the
+for signing up. We will have a 'board <https://docs.google.com/spreadsheets/d/1Im3Ce1-JubF33Ydg4XPCnafZbkVMKXDtWE9uoa_SskI/edit?usp=sharing>`__ with all of the sessions for the
 unconference track each day, simply post your talk topic on the board if
 you would like to speak.
 
@@ -66,4 +66,4 @@ Unconference sessions will begin after lunch both days, running until
 the end of the day. We will start the unconference sessions off each day
 with some time for focus on one of several topics:
 
-Check out the `schedule <https://docs.google.com/spreadsheets/d/1LZ2MrNrQ4AWX6pwtrj08qr6dmNl9O0-kkuHxDNN3zzU/edit?usp=sharing>`__ or come down to Lola's room to propose a topic.
+Check out last years `schedule <https://docs.google.com/spreadsheets/d/1LZ2MrNrQ4AWX6pwtrj08qr6dmNl9O0-kkuHxDNN3zzU/edit?usp=sharing>`__.
