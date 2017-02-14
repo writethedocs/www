@@ -50,7 +50,7 @@ Main Stage
    :template: include/schedule.rst
 
 Unconference Room
------------------
+~~~~~~~~~~~~~~~~~
 
 :doc:`/conf/eu/2017/unconference` from 13:00-17:00
 
@@ -77,7 +77,7 @@ Main Stage
    :template: include/schedule.rst
 
 Unconference Room
------------------
+~~~~~~~~~~~~~~~~~
 
 :doc:`/conf/eu/2017/unconference` from 10:00-15:00
 
