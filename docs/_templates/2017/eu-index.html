@@ -1,7 +1,7 @@
-{% extends "2017/base.html" %}
+{% extends "2017/base_eu.html" %}
 
 {% block head_link %}
-  <title>Home - Write the Docs Portland 2017</title>
+  <title>Home - Write the Docs Prague 2017</title>
   {{ super() }}
 {% endblock %}
 
@@ -10,7 +10,7 @@
       <div class="container">
         <div class="row">
           <div class="col-xs-12 col-md-4 text-center">
-            <a href="/conf/na/2017/" class="header__logo">
+            <a href="/conf/eu/2017/" class="header__logo">
               <img src="{{ pathto('_static/img/2017/web-logo-eu-dark.png', 1) }}" alt="Write the Docs">
             </a>
           </div>
@@ -22,14 +22,14 @@
               Write the Docs brings everyone who writes the docs together in the same room: Programmers, Tech Writers, Support, and Developer Advocates. We all have things to learn from each other, and there’s no better way than sitting together and talking.
               </p>
               <p>
-              We invite you to join 400 other folks for a three-day event to explore the art and science of documentation.
+              We invite you to join 300 other folks for a three-day event to explore the art and science of documentation.
               </p>
             </div>
           </div>
         </div>
       </div>
     </header>
-    
+
     <main>
     {% block body %}
     {{ body }}
