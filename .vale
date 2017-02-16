@@ -1,0 +1,6 @@
+StylesPath = style-guide
+
+[*.{md,rst,txt}]
+BasedOnStyles = WTD
+vale.Wordiness = YES
+vale.ComplexWords = YES
