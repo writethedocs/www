@@ -1,43 +1,64 @@
 
-Write the Docs Code of Conduct - Reporting Guide
-================================================
+Code of Conduct Response Playbook
+=================================
 
-.. _report: conduct@writethedocs.org
+This document aims to help organizers and moderators of Write the Docs spaces to handle reports of :doc:`code-of-conduct` violations.
 
-In general, in any Write the Docs space (conferences, meetup, Slack, forum), if you believe someone is violating the code of conduct we ask that you report it to the staff by emailing report_. All reports will be kept confidential. In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
+CoC violations at conferences
+-----------------------------
 
-If you believe anyone is in physical danger, please notify appropriate law enforcement first. If you are unsure what law enforcement agency is appropriate, please include this in your report and we will attempt to notify them.
+Presentations
+~~~~~~~~~~~~~
+Presentations or similar events should not be stopped for one-time gaffes or minor problems, although a member of conference staff should speak to the presenter afterward. However, staff should take immediate action to politely and calmly stop any presentation or event that repeatedly or seriously violates the anti-harassment policy. For example, simply say "I'm sorry, this presentation cannot be continued at the present time" with no further explanation.
 
-If the violation occurs at an event (conference, meetup), get in touch with one of the event staff right away, in any of the following ways:
+In-person reports
+~~~~~~~~~~~~~~~~~
 
-* In person
-* By phone
-* By email
+When taking a report from someone experiencing harassment you should record what they say and reassure them they are being taken seriously, but avoid making specific promises about what actions the organizers will take.
 
-In your report please include:
+Ask for any other information if the reporter has not volunteered it (such as time, place) but do not pressure them provide it if they are reluctant. Even if the report lacks important details such as the identity of the person taking the harassing actions, it should still be recorded and passed along to the appropriate staff member(s).
 
-* Your contact information (so we can get in touch with you if we need to follow up)
-* Names of any individuals involved (real names, nicknames, or pseudonyms). If there were other witnesses besides you, please try to include them as well.
-* When and where the incident occurred. Please be as specific as possible.
-* Your account of what occurred. If there is a publicly available record (e.g. a mailing list archive or a public chat logger) please include a link.
-* Any extra context you believe existed for the incident.
-* Whether you believe this incident is ongoing.
-* Any other information you believe we should have.
+If the reporter desires it, arrange for an escort by conference staff or a trusted person, contact a friend, and contact local law enforcement. Do not pressure the reporter to take any action if they do not want to do it. Respect the reporter's privacy by not sharing unnecessary details with others, especially individuals who were not involved with the situation or non-staff members.
 
-What happens after you file a report
-------------------------------------
+After resolving the issue, a CoC report should be written and submitted to conduct@writethedocs.org as soon as possible, so that the information can be logged and included in transparency reports. The report should be written according to the :doc:`/code-of-conduct-reporting`.
 
-You will receive an email from the WTD staff acknowledging receipt. We promise to acknowledge receipt within 24 hours, and will aim for much quicker than that.
+Warnings
+~~~~~~~~
 
-The staff will meet immediately to review the incident and determine the following:
+Any member of conference staff can issue a verbal warning to a participant that their behavior violates the conference Code of Conduct.
+
+Expulsion
+~~~~~~~~~
+
+A participant may be expelled by the decision of conference staff and at their discretion. Here are some general guidelines for when a participant should be expelled:
+
+* A third offense that resulted in a warning from staff
+* Continuing to harass after any "No" or "Stop" instruction
+* A pattern of harassing behavior, with or without warnings
+* A single serious offense (e.g., punching or groping someone)
+* A single obviously intentional offense (e.g., taking up-skirt photos)
+
+In addition, hotel/venue security and local authorities should be contacted when appropriate. Please contact one of the representatives listed in the conference brochure or posted on signs in the conference venues.
+
+CoC violations in community spaces
+----------------------------------
+
+In case someone reports a code of conduct violation outside conferences or meetups, in one of the Write the Docs online spaces, or otherwise by email,
+
+Initial receipt
+~~~~~~~~~~~~~~~
+
+Reports must be acknowledged as received within 24 hours or sooner.
+
+The staff must to review the incident and determine the following:
 
 * What happened.
 * Whether this event constitutes a code of conduct violation.
 * Who the bad actor was.
-* Whether this is an ongoing situation, or if there is a threat to anyone's physical safety.
-* If this is determined to be an ongoing incident or a threat to physical safety, the staff's immediate priority will be to protect everyone involved. This means we may delay an "official" response until we believe that the situation has ended and that everyone is physically safe.
+* Whether this is an ongoing situation
+* If there is a threat to anyone's physical safety.
 
-After the staff has a complete account of the events they will make a decision as to how to response. Responses may include:
+After the staff has a complete account of the events they need to make a decision as to how to resolve the case. Resolutions might include:
 
 * Nothing (if we determine no violation occurred).
 * A private reprimand from the staff to the individual(s) involved.
@@ -46,13 +67,10 @@ After the staff has a complete account of the events they will make a decision a
 * A permanent or temporary ban from some or all WTD spaces (Slack, the forum, meetups).
 * A request for a public or private apology.
 
-We'll respond within one week to the person who filed the report with either a resolution or an explanation of why the situation is not yet resolved.
+A response must be sent within one week to the person who filed the report with either a resolution or an explanation of why the situation is not yet resolved.
 
-Once we've determined our final action, we'll contact the original reporter to let them know what action we'll be taking, if any. We'll take into account feedback from the reporter on the appropriateness of our response, but we don't guarantee we'll act on it.
+Public statements
+~~~~~~~~~~~~~~~~~
+As a general rule, conference staff should not make any public statements about the behavior of individual people during or after the conference. After each conference, a CoC transparency report will be published with anonymized information about any violations that might have occured.
 
-Finally, the staff may choose to make a public report of the incident.
-
-Appealing
----------
-
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision, contact the WTD staff at report_ with your appeal and they will review the case.
+This report should be handled with care not to divulge personally identifying information about victims, reporters, and violators, and should serve as a means to ensure that attendees will be comfortable reporting harrasment and that our community will be kept accountable for supporting and encouraging safe spaces.
