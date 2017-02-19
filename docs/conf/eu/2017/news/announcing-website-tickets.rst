@@ -54,5 +54,5 @@ Tickets are `on sale now <http://www.writethedocs.org/conf/eu/2017/tickets/>`_.
 Conclusion
 ----------
 
-We hope you will join us in Prage for the fourth annual Write the Docs Europe.
+We hope you will join us in Prague for the fourth annual Write the Docs Europe.
 Whether as a speaker or attendee, you can bet it will be another delightful year.
