@@ -1,6 +1,6 @@
 :template: 2017/eu-content.html
 
-.. post:: Feb 20, 2017
+.. post:: Mar 1, 2017
    :tags: 2017, prague, website, tickets
 
 Announcing our Website and Ticket Sales
