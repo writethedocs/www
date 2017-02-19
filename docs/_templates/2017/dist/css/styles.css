@@ -2540,7 +2540,7 @@ input:focus, input:active:focus, input.active:focus {
       float: left;
       width: 20%; } }
 
-/* 
+/*
  * 	Core Owl Carousel CSS File
  *	v1.3.3
  */
@@ -2736,10 +2736,10 @@ input:focus, input:active:focus, input.active:focus {
     @media (min-width: 992px) {
       .header__logo {
         display: block;
-        border-left: 1px solid #D9DDE0;
-        border-right: 1px solid #D9DDE0; } }
+        border-left: 0px solid #D9DDE0;
+        border-right: 0px solid #D9DDE0; } }
     .header__logo img {
-      width: 150px; }
+      width: 250px; }
 
 .menu {
   display: none;
