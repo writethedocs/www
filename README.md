@@ -16,3 +16,11 @@ To generate the docs locally:
 4. In the `docs` directory, run `make livehtml` to view the docs on [http://127.0.0.1:8888/](http://127.0.0.1:8888/).
 
 The Write the Docs website is hosted on [Read the Docs](https://readthedocs.org/projects/writethedocs-www).
+
+## Updating the theme or css
+
+If you need to update the theme, the original source is in
+
+https://github.com/writethedocs/website-theme/
+
+and instructions on how to update it are in the [`README.md`](https://github.com/writethedocs/website-theme/pull/3)
