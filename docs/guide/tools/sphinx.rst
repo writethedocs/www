@@ -39,12 +39,11 @@ Sphinx is a python project, so it can be installed like any other python library
 Several Operating Systems (Mac OS X, Major Versions of Linux/BSD) have Python pre-installed,
 so you should just have to run::
 
-    sudo easy_install Sphinx
+    sudo pip install Sphinx
 
 Instructions for installing Python and Sphinx on Windows can be found at the `Sphinx install page`_.
 
 .. note:: Advanced users can install this in a virtualenv if they wish.
-    Also, ``pip install Sphinx`` works fine if you have Pip.
 
 
 Getting Started
