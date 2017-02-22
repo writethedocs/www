@@ -24,7 +24,25 @@ have them.
 Welcome Wagon events
 --------------------
 
-We are still in the process of planning our Welcome Wagon events for this year.
+
+**Write the Docs Welcome Wagon Introduction**
+
+*Sunday, May 14th at 18:00 in Lola’s Room*
+
+Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We’ll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new, before we join the opening reception.
+
+
+**Welcome Wagon Tours**
+
+*Sunday, May 14th throughout the day and Monday, May 15th at 8:00 starting in the Crystal Ballroom*
+
+Come on a short tour of the venue with a veteran Write the Docs attendee so you’ll know where everything is and everything you can take part in.
+
+**Welcome Wagon Check-In**
+
+*Tuesday, May 16th at 8:00 in Lola’s Room*
+
+Meet back up with the Welcome Wagon and fellow first-timers to check-in about how the conference is going for you. Ask any questions you have, pass on stories from your first day, and let the Welcome Wagon know if there is anything you need to make your second day as successful as your first one.
 
 Pro Tips
 --------
