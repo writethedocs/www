@@ -4,7 +4,7 @@ Organizer Guide
 
 Welcome! This guide aims to help anyone who wants to start a local Write the Docs meetup or a regional conference. Our community is growing quickly and we want to provide resources, guidelines, and tips on how to build and maintain events no matter where you are in the world.
 
-All the content in this guide and in the `resources repository <https://github.com/writethedocs/resources>`_ is open source, and we welcome contributions and suggestions! Feel free to communicate and share ideas with your fellow documentarians on `Slack <https://writethedocs.slack.com/>`_ or by creating `issues <https://github.com/writethedocs/www>`_ and `pull requests <https://github.com/writethedocs/www/pulls>`_ in the `GitHub repository <https://github.com/writethedocs/www>`_. 
+All the content in this guide and in the `resources repository <https://github.com/writethedocs/resources>`_ is open source, and we welcome contributions and suggestions! Feel free to communicate and share ideas with your fellow documentarians on `Slack <https://writethedocs.slack.com/>`_ or by creating `issues <https://github.com/writethedocs/www>`_ and `pull requests <https://github.com/writethedocs/www/pulls>`_ in the `GitHub repository <https://github.com/writethedocs/www>`_.
 
 .. note:: There are a number of topics that aren't written yet.
           That means that you can write them!
@@ -24,6 +24,7 @@ Information about the global Write the Docs meetups.
    :maxdepth: 2
 
    meetups/starting
+   meetups/faq-meetups
 
 Conferences
 -----------
@@ -32,7 +33,7 @@ Information about our regional Write the Docs conferences.
 
 .. toctree::
    :maxdepth: 2
-   
+
    confs/start
    confs/checklist
    confs/event-roles
@@ -57,4 +58,3 @@ Credits
 -------
 
 This guide draws much inspiration from the `Django Girls Organizer's Guide <http://organize.djangogirls.org/>`__.
-
