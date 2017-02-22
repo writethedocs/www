@@ -55,8 +55,8 @@ All exhibitors in the expo hall, sponsor or vendor booths, or similar activities
 
 In addition, sponsors and affiliates of conference, meetups, and online activities should not employ aggressive recruiting techniques, invasive marketing behavior, or similar actions towards community members. In case of violations, sponsors might be sanctioned and expelled from the event or activity with no return of the sponsorship contribution.
 
-What to in case of violations
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+What to do in case of violations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If you believe that someone is violating the code of conduct during one of our events, please contact a member of the event staff immediately. Event staff can be identified by t-shirts/special badges.
 
