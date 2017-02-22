@@ -9,16 +9,20 @@ Can Write the Docs cover the Meetup.com fees?
 
 Yes! We can cover the website fees for active meetups, or for new meetups on a trial-period basis.
 
-**New meetup groups:** If you want to start a new meetup group but need assistance with the fees,
-please `contact us <mailto:conf@writethedocs.org>`_ **before** you create the meetup group, so that
-we can create the group directly from the Write the Docs organization account. The trial period lasts
-for 3 months, which should give you enough time to establish a local presence and hopefully run a few meetups.
+New meetup groups
+~~~~~~~~~~~~~~~~~
 
-**Existing meetup groups:** If you already started a meetup group yourself and successfully ran several well-attended
-meetups, you can `contact us <mailto:conf@writethedocs.org>`_ and we will take over the meetup fees. To transfer ownership
-of the meetup group, you use the `Step down as organizer <https://www.meetup.com/help/topics/19/article/465025/>`_ process
-and nominate the Write the Docs account as new organizer. After the transfer, we will assign you the co-organizer role,
-which lets you have full control over the specific meetup group without handling finances or global operations.
+If you want to start a new meetup group but need assistance with the fees, please `contact us <mailto:conf@writethedocs.org>`_ **before** you create the meetup group, so that we can create the group directly from the Write the Docs organization account. The trial period lasts for 3 months, which should give you enough time to establish a local presence and hopefully run your first meetup.
+
+After 3 months we will examine the state of the new meetup group to determine the following criteria:
+
+* Whether the first meetup was well-attended and generated a potential for future meetups. As a rule of thumb, an "active" meetup group runs at least 1 meeup per quarter (or 4 meetups per year).
+* How many members are in the meetup group. The minimum number might change depending on which city/country the meetup is located, but generally between 20-50 members in most major cities can be expected after the first 3 months.
+
+Existing meetup groups
+~~~~~~~~~~~~~~~~~~~~~~
+
+If you already started a meetup group yourself and successfully ran several well-attended meetups, you can `contact us <mailto:conf@writethedocs.org>`_ and we will take over the meetup fees. To transfer ownership of the meetup group, you use the `Step down as organizer <https://www.meetup.com/help/topics/19/article/465025/>`_ process and nominate the Write the Docs account as new organizer. After the transfer, we will assign you the co-organizer role, which lets you have full control over the specific meetup group without handling finances or global operations.
 
 Can <company> sponsor a local meetup?
 -------------------------------------
