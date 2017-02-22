@@ -6,12 +6,12 @@ Write the Docs is a global community of documentarians who share information, di
 
 Diversity is one of our huge strengths, but it can also lead to communication issues. To support a welcoming environment for all, regardless of individual differences, we have a few ground rules that we ask people to adhere to when they participate in this community activities. These rules apply equally to founders, organizers, moderators, sponsors, and affiliates -- in short, to all participants.
 
-This isn't an exhaustive list of things that you must do, or can't do. Rather, take it in the spirit in which it's intended. It's a guide to make it easier to enrich all of us and the technical communities in which we participat, and which we represent.
+This isn't an exhaustive list of things that you must do, or can't do. Rather, take it in the spirit in which it's intended. It's a guide to make it easier to enrich all of us and the technical communities in which we participate, and which we represent.
 
 The principles
 ~~~~~~~~~~~~~~
 
-* **Be friendly and welcoming.** We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
+* **Be friendly and welcoming.** We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to, members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
 
 * **Be respectful.** Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of the Write the Docs community should be respectful when dealing with other members as well as with people outside the community.
 
