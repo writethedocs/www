@@ -1,6 +1,6 @@
 # Write the Docs East: Call for Venue Proposal 2017
 
-It’s time to think about Write the Docs 2017! 
+It’s time to think about Write the Docs 2017!
 We are hoping to split the North American conference into an East and West coast event,
 and we're looking for proposals for the East coast host city.
 This will bring us to 3 total conferences:
@@ -11,7 +11,7 @@ This will bring us to 3 total conferences:
 
 So you want your city to host Write the Docs East? Hurrah! We’re delighted by your interest. Here’s what you need to know, and what we need to know, to consider your proposal.
 
-For 2017, we don't have a set date in mind. 
+For 2017, we don't have a set date in mind.
 The West event will be in May 2017,
 so take this into account in your planning.
 It likely makes sense to do the event in the Fall,
@@ -43,7 +43,7 @@ We need some information about your city, about the venue, and travel. Your prop
         - (Optional, but recommended) Room for an unconference session that can sit up to 50-75 people
         - Green room for speakers to prepare (generally a room that will seat 25 for a workshop is the right size)
         - Location of registration tables
-        - Location of meals and breaks with sufficient seating and tables. 
+        - Location of meals and breaks with sufficient seating and tables.
         - Location of supplemental beverage stations for daylong service.
         - Secure overnight storage for vendor booth supplies and conference registration desk items.
 
@@ -67,10 +67,10 @@ We need some information about your city, about the venue, and travel. Your prop
     - Adjoins or within walking distance to a suitable hotel which can accommodate 250 attendees
     - Excellent Internet connectivity   
     - [Accessible](https://modelviewculture.com/pieces/organizing-more-accessible-tech-events) to as many attendees as possible
-    - Reasonable access to transit for sightseeing 
+    - Reasonable access to transit for sightseeing
 
     We recommend looking at concert venues and other non-traditional event spaces.
-    They tend to have a more interesting vibe, 
+    They tend to have a more interesting vibe,
     and also be cheaper to rent.
     Other options might be universities,
     software company corporate campuses,
@@ -80,7 +80,7 @@ We need some information about your city, about the venue, and travel. Your prop
 
     - Name
     - Location
-    - Transportation options 
+    - Transportation options
     - Attendance capacity
     - Cost of function space, catering, and audio-visual services. Sprints are often hosted by local companies as sponsorship of the event, which is preferable, as it saves the cost of renting a venue.
 
@@ -91,14 +91,14 @@ We need some information about your city, about the venue, and travel. Your prop
     - See catering requirements above.  Eating tables should be separate from work tables if at all possible.
     - Excellent Internet connectivity
 
-4. Hotels. Ideal hotels are a very short walk away. For the hotel, we need at least one option that is affordable (eg. not 4-star), and needs the following info:
+4. Hotels. Ideal hotels are a very short walk away. For the hotel, we need at least one option that is affordable (that is, less than 4-star), and needs the following info:
 
     - Name
     - Location
     - Transportation options (how do people get there from the airport?)
     - Cost of room per night (Generally we don't get a block of rooms because of the liability, we mainly just want to know a general cost)
 
- 
+
 5.  Provide estimates on costs associated with flights, accommodation, meals, ground transportation, etc. for an overview of total cost for attendees.
 
 6. Information about what makes the city a good choice for Write the Docs East and an attractive destination for attendees.

@@ -49,7 +49,7 @@ You should have:
 
 How it works:
 
-* We allocate 2 points for every talk at the conference (eg. 30 points for 15 talks).
+* We allocate 2 points for every talk at the conference (e.g., 30 points for 15 talks).
 * You use those points to vote for which talks you want to see.
 * We add up all the points and sort them by highest. This is the initial talk selection.
 * We then argue for & against talks that we *really* want to change positions. This can either be because you know the speaker/topic will be good, two talks cover similar topics and we can only have one, or other reasons.

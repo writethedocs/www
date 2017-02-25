@@ -63,7 +63,7 @@ Publications
 *A "publication" refers to a single, cohesive tool that readers use to consume
 documentation.
 It may be static or interactive — digital or paper. Multiple
-publications may be created from a single source (e.g. web and PDF
+publications may be created from a single source (such as web and PDF
 versions of the same manual). Although rarer, multiple sources may
 be used to create a single publication. More examples of
 publications include: API reference, man page, command line
@@ -119,10 +119,10 @@ the software's contributors. Developers and engineers are the people
 with the best access to in-demand information, and getting them to
 document it will help foster a *culture* of documentation.
 
-As well, documentation *readers* (i.e. users) should have clear avenues
+As well, documentation *readers* (i.e., users) should have clear avenues
 towards involvement in documentation. A good first step is to give
 readers the ability to offer feedback in the form of comments or
-suggestions. Allowing readers to edit documentation directly (e.g. in a
+suggestions. Allowing readers to edit documentation directly (e.g., in a
 wiki) can also be effective but must be weighed against the need and
 capacity for editorial oversight.
 
