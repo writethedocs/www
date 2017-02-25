@@ -79,10 +79,6 @@ Tools of the Trade
    tools/index
 
 * Keeping your documentation up to date
-* Automated testing
-    - Link checking
-    - Code Testing
-* Sphinx
 * Jekyll
 
 API Documentation
