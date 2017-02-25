@@ -1,17 +1,17 @@
 Origin Story
 ============
 
-The story of how Write the Docs came to be has been told, but it's time to put it up on our own site. 
+The story of how Write the Docs came to be has been told, but it's time to put it up on our own site.
 The first documentation of the emerging documentarian community comes appropriately enough in the form of a `tweet`_ from early 2013:
 
 .. image:: /_static/img/origin-tweet.png
    :width: 75%
 
 What happened next is best told in the words of one of the founders,
-Troy Howard. 
-He wrote it in early 2014, 
-before the second conference. 
-So read it, 
+Troy Howard.
+He wrote it in early 2014,
+before the second conference.
+So read it,
 and ponder just how far we've come since then.
 
 We'll let `Troy <https://twitter.com/thoward37>`_ tell the `story <http://blog.thoward37.me/articles/developer-to-documentarian/>`_ from here.
@@ -45,9 +45,9 @@ has been a vital resource to the Python open source community.
 As a developer, I have always cared about documentation, but I'm not
 sure I ever thought about it *deeply* until I got to know Eric Holscher
 better. Sometime in early 2013, I ran into Eric at a local eatery, and
-we started discussing Read The Docs. He had recently `left his job at
+we started discussing Read the Docs. He had recently `left his job at
 Urban Airship <http://ericholscher.com/blog/2013/jan/10/walk-woods/>`__
-and was able to work on Read The Docs full time. This was going well,
+and was able to work on Read the Docs full time. This was going well,
 but he was concerned about the future of the project. There didn't seem
 to be a sense of community around documentation. Was documentation ever
 going to be given the focus it needed?
@@ -127,4 +127,3 @@ over 1,500 :doc:`meetup </meetups/index>` members that have joined meetup groups
 
 The community keeps growing larger and larger,
 and we're happy to welcome everyone into this wonderful group of documentarians.
-
