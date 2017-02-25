@@ -23,13 +23,20 @@ We recommend checking out the following tools to get started:
 Build Errors
 ------------
 
-The easiest automated check to do is to make sure your documentation builds properly.
-This requires simply running your documentation tool,
-and checking that it has properly built your documentation.
+The easiest automated check to do is to make sure your documentation builds
+properly. This requires simply running your documentation tool, and checking
+that it has properly built your documentation.
 
-Most tools will return an *error code* of 0 if the process is successful.
-This means you should just be able to do a normal build of your tool,
-and your testing tool will know if it is successful or not.
+Most tools will return an *error code* of 0 if the process is successful. This
+means you should just be able to do a normal build of your tool, and your
+testing tool will know if it is successful or not.
+
+If your build tool has a *picky* mode that flags warnings that *might* be
+problematic as well as errors, it might make sense to switch it on, but you'll
+want to make sure that your documentation is in good shape before you do.
+
+* Sphinx has `nitpicky mode <http://www.sphinx-doc.org/en/stable/config.html#confval-nitpicky>`_.
+* Jekyll has `strict mode <https://jekyllrb.com/docs/configuration/#liquid-options>`_.
 
 Link Testing
 ------------
