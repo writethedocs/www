@@ -17,6 +17,26 @@ To generate the docs locally:
 
 The Write the Docs website is hosted on [Read the Docs](https://readthedocs.org/projects/writethedocs-www).
 
+## Viewing changes on staging
+
+If you you can't run `make livehtml` locally, or don't want to, you can preview
+changes by merging them into the `staging` branch and pushing that to GitHub.
+
+If your feature branch is `changes-to-test` you would do something like:
+
+```
+git checkout staging
+git pull
+git merge changes-to-test
+git push
+```
+
+Unless there are merge conflicts you need to resolve, when you push those
+changes a build is triggered on Read the Docs and when it is finished you can
+preview your changes on:
+
+http://writethedocs-staging.readthedocs.io/en/staging/
+
 ## Updating the theme or css
 
 If you need to update the theme, the original source is in
