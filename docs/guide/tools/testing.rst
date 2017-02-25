@@ -17,9 +17,8 @@ and is a common practice in the software development world.
 
 We recommend checking out the following tools to get started:
 
-* Travis CI (GitHub only, free for open source)
-* AppVeyor (Windows support, free for open source)
-* Jenkins (Install yourself)
+* `Travis CI <http://travis-ci.org>`_ (GitHub only, free for open source)
+* `AppVeyor <https://www.appveyor.com/>`_ (Windows support, free for open source)
 
 Build Errors
 ------------
@@ -66,12 +65,38 @@ Jekyll has a few plugins that support link checking:
 * https://github.com/endymion/link-checker
 * https://github.com/fastly/jekyll-sanity-checker
 
-Style Guide Checking
---------------------
+HTMLProofer
+~~~~~~~~~~~
 
-Another common thing is to use testing to enforce your style guide.
+`HTMLProofer <https://github.com/gjtorikian/html-proofer>`_ checks links in
+HTML, as well as images, titles and tag validity.
+
+Style Guide Checking and Linting
+----------------------------------
+
+Linters are tools that automatically verify specific rules against your code or
+documentation. This is useful for enforcing a style guide,or for catching
+commonly mitaken branding issues.
+
 Here are a few links that might be interesting:
 
 * https://www.mapbox.com/blog/retext-mapbox-standard/
 * https://krausefx.com/blog/writing-automated-tests-for-your-documentation
 
+
+Write Good
+----------
+
+"Naive linter for English prose for developers who can't write good and wanna
+learn to do other stuff good too."
+
+https://github.com/btford/write-good
+
+This linter is a prose linter for English.
+It has a number of checks for things like:
+
+* Passive voice
+* Lexical illusions
+* Weasel words
+
+It works as a command line interface or a JavaScript library.
