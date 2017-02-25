@@ -32,7 +32,7 @@ Now for some details:
 Launch your Group
 -----------------
 
-Before you get started, check out our `Meetup FAQ <http://www.writethedocs.org/organizer-guide/meetups/faq/>`_. 
+Before you get started, check out our `Meetup FAQ <http://www.writethedocs.org/organizer-guide/meetups/faq-meetups/>`_. 
 
 You can start a Write the Docs Meetup by using the `Meetup.com <http://www.meetup.com/>`_ service. You can use the website or the mobile app to create events, contact Meetup members, promote your sponsors, and more. If you need help with Meetup fees, `contact us <mailto:conf@writethedocs.org>`_. We may be able to help.
 
