@@ -17,7 +17,7 @@ What to include in the report
 * Your contact information (so we can get in touch with you if we need to follow up)
 * Names of any individuals involved (real names, nicknames, or pseudonyms). If there were other witnesses besides you, please try to include them as well.
 * When and where the incident occurred. Please be as specific as possible.
-* Your account of what occurred. If there is a publicly available record (e.g. a mailing list archive or a public chat logger) please include a link.
+* Your account of what occurred. If there is a publicly available record (e.g., a mailing list archive or a public chat logger) please include a link.
 * Any extra context you believe existed for the incident.
 * Whether you believe this incident is ongoing.
 * Any other information you believe we should have.
