@@ -24,11 +24,11 @@ There is no stage in an unconference, talks instead focus on community
 interaction. While standard presentations can work, the format lends
 better to discussions within your group.
 
-Whether you have a topic in mind, or maybe just a problem you would like
-to pose to the rest of the community, there is no wrong way to lead an
-unconference session. Here are a few ideas of how to structure your
-session, borrowed from `Scott Berkun's post on unconference
-sessions <http://scottberkun.com/2006/how-to-run-a-great-unconference-session/>`__:
+Whether you have a topic in mind, or maybe just a problem you would like to pose
+to the rest of the community, there is no wrong way to lead an unconference
+session. Here are a few ideas of how to structure your session, borrowed from
+`Scott Berkun's post on unconference sessions
+<http://scottberkun.com/2006/how-to-run-a-great-unconference-session/>`__:
 
 -  **Group discussion** - Pick a topic and facilitate a group discussion
 -  **The semi-talk** - Use a short presentation to lead into a group
@@ -45,13 +45,14 @@ sessions <http://scottberkun.com/2006/how-to-run-a-great-unconference-session/>`
 Schedule a Session
 ------------------
 
-Attendees that wish to lead an unconference session have several options
-for signing up. We will have a 'board <https://docs.google.com/spreadsheets/d/1Im3Ce1-JubF33Ydg4XPCnafZbkVMKXDtWE9uoa_SskI/edit?usp=sharing>`__ with all of the sessions for the
-unconference track each day, simply post your talk topic on the board if
-you would like to speak.
+Attendees that wish to lead an unconference session have several options for
+signing up. We will have a `board
+<https://docs.google.com/spreadsheets/d/1Im3Ce1-JubF33Ydg4XPCnafZbkVMKXDtWE9uoa_SskI/edit?usp=sharing>`_
+with all of the sessions for the unconference track each day, simply post your
+talk topic on the board if you would like to speak.
 
 The first chance you will get to post your presentation is on Sunday, at
-our Writing Day event and preregistration party. 
+our Writing Day event and preregistration party.
 If you don't make it to the Writing Day event or preregistration party,
 be sure to head to Lola's Room when you first arrive at the conference
 to post your topic.
@@ -66,4 +67,5 @@ Unconference sessions will begin after lunch both days, running until
 the end of the day. We will start the unconference sessions off each day
 with some time for focus on one of several topics:
 
-Check out last years `schedule <https://docs.google.com/spreadsheets/d/1LZ2MrNrQ4AWX6pwtrj08qr6dmNl9O0-kkuHxDNN3zzU/edit?usp=sharing>`__.
+Check out last year's `schedule
+<https://docs.google.com/spreadsheets/d/1LZ2MrNrQ4AWX6pwtrj08qr6dmNl9O0-kkuHxDNN3zzU/edit?usp=sharing>`_.
