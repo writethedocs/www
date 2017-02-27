@@ -12,12 +12,12 @@ Generally a *docs as Code* approach gives you the following benefits:
 
 * Writers integrate better with development teams
 * Developers will often write a first draft of documentation
-* You can block merging of new features if they don't include documentation, which incentivizes developers to 
+* You can block merging of new features if they don't include documentation, which incentivizes developers to write about features while they are fresh
 
 There is a lot more to building a proper *Docs as Code* workflow.
 There are a couple books we recommend that you check out:
 
-* Docs as Code - Anne Gentle
+* Docs Like Code - Anne Gentle
 * Modern Technical Writing - Andrew Etter
     
 *Docs as Code* at Write the Docs
