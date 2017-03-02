@@ -11,9 +11,9 @@ their own town. They vary in style as much as the individual cities
 themselves vary. The main thread that brings people together is caring
 about great communication and users of their product.
 
-We invite you to join a meetup in your local community. If your local
-community isn't listed here, feel free to [start one](../organizer-guide/meetups/starting.rst) and let us know.
-We'd be happy to promote it and list it here.
+We invite you to join a meetup in your local community. If your local community
+isn't listed here, feel free to [start one](../organizer-guide/meetups/starting.rst)
+and let us know. We'd be happy to promote it and list it here.
 
 ### Current Meetups: North America
 
@@ -32,7 +32,7 @@ We'd be happy to promote it and list it here.
 ### Current Meetups: Europe
 
 -   [Barcelona, ES](http://www.meetup.com/Write-the-Docs-Barcelona/)     
--   [Berlin, DE](http://www.meetup.com/Write-The-Docs-Berlin/)     
+-   [Berlin, DE](http://www.meetup.com/Write-The-Docs-Berlin/). Organised by [plaindocs](https://twitter.com/plaindocs), [chrischinch](https://twitter.com/chrischinch).
 -   [Galway, IE](http://www.meetup.com/Write-The-Docs-Ireland/)
 -   [London, UK](http://www.meetup.com/Write-The-Docs-London/)
 -   [Munich, DE](https://www.meetup.com/Write-the-Docs-Munich/)
@@ -44,3 +44,6 @@ We'd be happy to promote it and list it here.
 ### Current Meetups: Asia
 
 -   [Seoul, KR](http://www.meetup.com/write-the-docs-seoul/)
+-   [Kobe, JP](https://www.meetup.com/Write-the-Docs-Kobe/)
+
+Know of a meetup not shown here? [Add it](https://github.com/writethedocs/www/blob/master/docs/meetups/index.md) to the list.
