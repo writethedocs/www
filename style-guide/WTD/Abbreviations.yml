@@ -2,7 +2,7 @@ type: substitution
 message: Use '%s'
 ignorecase: false
 level: error
-map:
+swap:
   '(?:eg)': e.g.,
   '(?:ie)': i.e.,
   '(?:e\.g\.)\s*': e.g.,
