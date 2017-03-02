@@ -43,9 +43,8 @@ You can start a Write the Docs Meetup by using the `Meetup.com
 <http://www.meetup.com/>`_ service. You can use the website or the mobile app to
 create events, contact Meetup members, promote your sponsors, and more.
 
-
-- If you if you need advice on running meetups, or have a question not covered here or in the :doc:`/organizer-guide/meetups/faq-meetups/`, contact Mike Jang.
-- If you need help with Meetup fees ot technical issues, `email us <mailto:conf@writethedocs.org>`_. We may be able to help.
+- For advice on running meetups, or questions not covered here or in the :doc:`/organizer-guide/meetups/faq-meetups/`, drop us a line in `#meetup-organisers <https://writethedocs.slack.com/messages/meetup-organisers/>`_ on Slack.
+- For help with Meetup fees or technical issues, `email us <mailto:conf@writethedocs.org>`_.
 
 Create a Meetup Page:
 ~~~~~~~~~~~~~~~~~~~~~
