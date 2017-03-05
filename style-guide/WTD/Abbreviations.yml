@@ -1,7 +1,7 @@
 type: substitution
 message: Use '%s'
 ignorecase: false
-level: error
+level: warning
 swap:
   '(?:eg)': e.g.,
   '(?:ie)': i.e.,
