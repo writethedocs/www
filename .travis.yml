@@ -4,8 +4,13 @@ python:
 sudo: false
 env:
  - TOX_ENV=docs
- - TOX_ENV=branding
+before_install:
+  - export GOPATH=$HOME/golang
+  - export PATH=$PATH:$GOPATH/bin
 install:
  - pip install tox
+ - eval "$(gimme 1.7)"
+ - go get github.com/ValeLint/vale
 script:
+ - vale docs/
  - tox -e $TOX_ENV
