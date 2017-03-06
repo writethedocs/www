@@ -8,6 +8,8 @@ Testing your documentation allows you to make sure it is in a consistent state.
 Doing this gives your users a better experience,
 and reduces stress around common issues as a writer.
 
+This `article <https://opensource.com/business/15/7/continuous-integration-and-continuous-delivery-documentation>`_ by Anne Gentle is a good place to start to understand this concept.
+
 Continuous Integration
 ----------------------
 
