@@ -3,8 +3,6 @@
 Speakers
 ========
 
-Presentations
--------------
-
-To be determined.
-
+.. datatemplate::
+   :source: /_data/2017-na-speakers.json
+   :template: include/2017.speakers.rst

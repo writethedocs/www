@@ -1,0 +1,272 @@
+[
+    {
+        "speakers": [
+            {
+                "name": "Lynnae Griffiths",
+                "slug": "lynnae-griffiths",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>With millions of students enrolling in online college courses every year across the US, new and veteran instructors alike face a rapidly changing teaching environment. From my experience working at Portland State University, I\u2019ll present data and case studies showing how technical writers can make a difference in promoting the health and accessibility of our increasingly digitized public institutions.</p>\n<p>In order to meet the growing interest in flexible education, PSU  has increased the number of online courses by 72% in the last 5 years. Over 1000 classes at PSU were taught online in 2016, with more than 33,000 students enrolled. For many instructors, the transition to teaching online is a challenging process, totally outside their field of expertise. PSU\u2019s first full-service faculty software support desk was established a little over two years ago, and I\u2019ve been there since day one, providing both written documentation and direct support.</p>\n<p>In my presentation, I talk about what it\u2019s like to be pretty much the only technical writer working for faculty at PSU, some lessons learned, and some faculty case studies that illustrate what it\u2019s like to interact with online teaching tools and support materials that I administer. I argue the importance of quality documentation as a way to promote digital literacy, and talk about what this means in the context of access and equity in 21st century higher education.</p>",
+        "title": "Writing the Docs, University Edition"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Jigyasa Grover",
+                "slug": "jigyasa-grover",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>The world of open-source is surely attracting budding developers to contribute, but unfortunately there seems to be a highly skewed sex ratio. According to a survey, only 11% of open-source participants are women. This disconcerting number can and should definitely be improved. </p>\n<p>People, especially women find it intimidating to get started with contributing to open source. Why ? I wish to back them up by answering questions, throwing light on the issues that they usually have. It aims at introducing the audience to the world of FOSS and elaborate the vast range of opportunities ranging from coding to documentation, design, outreach and research.</p>\n<p>I shall  converse my involvements and experiences in FOSS and its impact on my tech crusade. A special emphasis shall be on the dearth of women in technology. It aspires to inspire budding girl developers and showcase women who\u2019ve made significant contributions to technology.</p>\n<p>The main agenda of the lightning talk is to view the open source world beyond the perspective of coding. It also aims to encourage fellow female to dive into developing and discuss the vast range of opportunities available.</p>\n<p>Being an ardent open-source developer and a female stepping into the male-dominated sphere of technology, I shall definitely add a personal touch to this talk and the audience shall be able to connect well with the session presenter :)</p>",
+        "title": "FOSS it up, with women !"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Kenzie Woodbridge",
+                "slug": "kenzie-woodbridge",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<blockquote>\n<p>N</p>\n</blockquote>\n<p>You have found a secret room in the castle! You gain 26 xp.</p>\n<p>You enter a large interior space with stone walls and a high stone ceiling. Torches flicker in wall brackets. A large self-referential tapestry hanging on the north wall shows a guild workshop full of happy weavers busily weaving the very tapestry in which they are depicted. There are exits to the east, west, and south.</p>\n<p>Linden, another player, is here.\nGwyrian, another player, is here.</p>\n<blockquote>\n<p>say Hi</p>\n</blockquote>\n<p>You say \u201cHi\u201d</p>\n<p>Gwyrian says \u201cHey! Do you want to explore this area together?\u201d</p>\n<p>Linden attacks you with a critical hit from their sword!</p>\n<p>You are dead!</p>\n<p>Other people: sometimes difficult to work with and often impossible to predict. In your technical or documentation project, how can you get the right people interested and involved? How can you keep those people happily engaged until the work is done? Is there anything you can do to prevent griefing\u2026 err, \u201cinterpersonal difficulties\u201d from causing delays? And why do some people seem to thrive in an environment with poor documentation and how can you encourage them to participate in effectively documenting everything anyway?</p>\n<p>In this talk, I\u2019ll explore ways to accomplish these aims, using strategies drawn from \u201cPlayer Type Theory\u201d. For 20 years, this theory has been employed by game designers to encourage stable long-term play communities in online multiplayer games. These are strategies that I have used successfully in my workplace and they can work for you too.</p>",
+        "title": "Everyone's a player (in a mid-90s MUD)"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Lyzi Diamond",
+                "slug": "lyzi-diamond",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>We call ourselves technical writers, but many of us spend more time editing the work of others than writing ourselves. When you have a large team or a large product (or both!), the cooks in the documentation kitchen come from all parts of the company: marketing, product, engineering, sales, and more. This adds a significant burden on you and your team to make sure the content they produce is accurate, fits within your style guide, uses the correct tone, and doesn't add additional confusion.</p>\n<p>At Mapbox, we have both a large team and a complex product, which means many different writers with individual writing styles and varying depth of knowledge of the product. To keep our work accurate and unified under a common voice while avoiding breaking our necks with editing, we implemented an automated content testing system (fully open source!) to do some of the work for us. Automated tests have helped us embed quality writing and editing into the development process as much as code testing does. \"It's not finished until it's documented\" is more than just a happy thought -- it's now an immovable part of our workflow.</p>\n<p>In this talk, I will discuss the reasons you might want to implement an automated testing system in your organization, examples of how it's been beneficial, the story of how we set up our system, and a brief overview of the tools that exist for doing this work. I'll also cover the ways that automated tests can sometimes make funny mistakes and how we found the balance between making tests too precise and not precise enough. For those who are interested in implementing right away, I will also provide a comprehensive list of resources for getting started.</p>",
+        "title": "Testing: it's not just for code anymore"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Mike Jang",
+                "slug": "mike-jang",
+                "twitter": "",
+                "details": ""
+            },
+            {
+                "name": " Margaret Eker",
+                "slug": "margaret-eker",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>Write the Docs is filled with great conversations about documentation. If you want to continue the conversation, we have Meetups on four continents.</p>\n<p>If you\u2019re a Meetup leader, or want to start your own Write the Docs Meetup, come to our unconference session. We\u2019ll facilitate while current and future Meetup leaders discuss strategies and tips for better Write the Docs Meetups.</p>\n<p>Potential topics:</p>\n<p>Building a community\nGetting speakers\nFinding sponsors\nAttracting members\nDiversifying beyond technical writers\nSharing the organizer role</p>\n<p>(After a round-table of introductions, Mike might start the discussion with a one minute talk on \u201crole diversity\u201d, how WTD PDX includes a large number of non-writers.)</p>",
+        "title": "Write the Docs Meetup Groups"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Tom Johnson",
+                "slug": "tom-johnson",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>Although users typically arrive at doc websites in a confused and impatient state, not sure of where to find what they're looking for, good navigation can swiftly guide them to the right answer. Good navigation anticipates users' needs, provides links in commonly viewed places, and brings the right topic into the foreground amid hundreds of other topics. </p>\n<p>Basing your navigation strategy on user-centered documentation principles can help you achieve the best UX for your doc site. As you build out the navigation for your doc site, follow these 10 best practices:</p>\n<ol>\n<li>\n<p>Use the doc homepage as a routing portal to let users choose the right doc set. Think of the home page as a train station with various terminals for departure.</p>\n</li>\n<li>\n<p>Look at metrics to identify your most popular pages (aka the \"desire lines\"), and then make these pages more visually prominent by putting them front and center.</p>\n</li>\n<li>\n<p>Include a navigation sidebar that contains a hierarchical representation of your topics. The hierarchy you choose should communicate meaning about the relationships among your topics.</p>\n</li>\n<li>\n<p>Right-size your navigation sidebar so that it's not too massive, nor too small, but rather provides meaningful at-a-glance context of your docs at a defined scope.</p>\n</li>\n<li>\n<p>Group content by likeness of topic or task, not by location (avoid the screen-by-screen walkthroughs). Tags can always provide secondary navigation controls for alternative groupings.</p>\n</li>\n<li>\n<p>In your navigation sidebar, use shortened navigation titles that facilitate scanning, with tasks written in simple present tense.</p>\n</li>\n<li>\n<p>Provide breadcrumbs above your topic titles that show the path to the topics. Assume that users may not arrive at the topic in the way you expected, and they will appreciate the context that the displayed path provides.</p>\n</li>\n<li>\n<p>At the beginning of topics, add contextual links to orient the user. At the end, add next-steps links to guide the user's next decision.</p>\n</li>\n<li>\n<p>For sequences or tutorials that span multiple pages, add workflow maps to make the user's progress in the sequence clear.</p>\n</li>\n<li>\n<p>Provide abundant inline links in your sentences that help users navigate directly within the field of their vision. Freely infuse links into phrases, words, or other parts of the sentence without always listing out the full title of the cross-reference.</p>\n</li>\n</ol>",
+        "title": "Building navigation for your doc site: 10 best practices"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Christy Lutz",
+                "slug": "christy-lutz",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>Getting feedback on your work is a necessary part of any project, and it makes your output stronger and more diverse. But it can be hard when your work is being evaluated. Sometimes, it feels like your reviewers have a deep and abiding interest in pain. You\u2019ll never succeed! You may as well die here! Well, you have already succeeded just by asking for feedback.  Together, we\u2019ll discuss how to build up your tolerance for taking that feedback.</p>\n<p>Feedback became so much easier for me when I learned design critique guidelines from a co-worker and UX Designer. Design critique guidelines are a set of rules and practices that can make getting and giving feedback easier. This presentation passes along the strategies I learned so you can implement design critique guidelines into your review process and make feedback painless.</p>",
+        "title": "We may as well die here: Design critique guidelines make feedback easier"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Matthew Buttler",
+                "slug": "matthew-buttler",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>In this talk I'll discuss the partnership between documentarians and support and how that relationship can embolden your customers.</p>\n<p>Documentation can make or break a support interaction. Your average customer or client isn't interested in a lot of work to use your product. They need to know how to make your product do \"the thing\" without, say, opening a Rails console, or doing some other godforsaken programming trick that you know.</p>\n<p>You might not know this but your support team has a life of its own that you haven't seen. Having been a documentarian in the context of a support team, I have some pretty interesting things to talk about how you can weave relationships to make everyone's life better, all the way up the food chain.</p>\n<p>I'll talk about how working in partnership with your support team can not only focus\nyour docs to the points that matter, but let you see how operating as connective tissue between departments makes everyone's life easier.</p>",
+        "title": "The pointy end of the stick: The symbiotic relationship between docs and support"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Ashleigh Rentz",
+                "slug": "ashleigh-rentz",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>QWERTY: Queer Writers Enjoying Relaxing Tea Yearly! Join us for a cup and friendly chat with fellow LGBT+ documentarians. You aren't here alone. Dvorak typists welcome too, but you'll have to create your own puns.</p>",
+        "title": "QueerTea"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Kate Voss",
+                "slug": "kate-voss",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>Writers often forget that users are more likely to see error messages, tooltips, and helper text than to search for documentation. But these bits of microcopy are actually an opportunity to communicate and connect with users when they most need it. Most errors say that something went wrong, but the user doesn't know if it's their fault or what to do about it. As writers, designers, and developers, we need to help them fix the problem and teach them what to do next time.</p>\n<p>Microcopy is also a chance to create a friendly relationship and establish your brand with your audience. Users are less likely to get frustrated if the error message has a personal and human sentiment than if it merely says \"ACCESS DENIED\", or \"FORBIDDEN ACTION\". </p>\n<p>In this talk I show how making error message Humble, Human, and Helpful is critical to making your users Happy. We'll laugh at a few bad errors, and learn from the good error messages and microcopy. </p>",
+        "title": "Error Messages: Being Humble, Human, and Helpful will make users Happy"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Sam Faktorovich",
+                "slug": "sam-faktorovich",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>My name is Sam and I am the head of technical documentation department at Zodiac Interactive.</p>\n<p>At Zodiac we create low-level software (we call it 'middleware') that runs inside cable TV set-top boxes. Most cable companies in North America use our products; most probably, your set-top box runs at least some code written by Zodiac.</p>\n<p>Zodiac has R&amp;D departments all over the world; my office is located in Novosibirsk, Russia \u2013 right in the center of Siberia (so yes, there is a big probability that your set-top box runs some code that was written in the midst of Siberian taiga)</p>\n<p>Documentation department at our R&amp;D center concentrates only on architectural documentation: our docs explain the design and architectural decisions of our software components to other teams and R&amp;D centers all over the world . We don't document user interface, write client knowledge bases, or do UI copy. Our technical writers must be tech-savvy enough to understand the architectural peculiarities of complex multithreaded applications, must be able to read code in C++ and, above all, must have perfect written English \u2013 Zodiac is an American company, and we write all our docs in English, not Russian.</p>\n<p>During the last 5 years our R&amp;D center went from not having any documentarians at all to a team of 4 excellent and capable technical writers. We were able to set up effective processes of integrating documentation in overall development activities and find out good metrics for quality of architectural docs.</p>\n<p>Documentation processes and documentation quality are frequent topics at Write The Docs, so I want to talk about more generic things: interviewing, assessing and hiring technical writers.</p>\n<p>My talk will tackle the following questions:</p>\n<ul>\n<li>\n<p>How hard is it to find a \"highly technical\" technical writer? (remember that our documentarians must read and understand C++ code)</p>\n</li>\n<li>\n<p>Is it possible to switch your non-documentarian team members to writing documentation full-time? Do developers make good technical writers? What about QA engineers? (our answer was no: it's better to hire new documentarians than to evolve existing team members into technical writers)</p>\n</li>\n<li>\n<p>Which one is easier: hiring a technically capable person and teaching them to write well, or hiring a person with good writing skills but no technical knowledge whatsoever and then training them on technical stuff? (we went with the second option)</p>\n</li>\n<li>\n<p>Assessing the candidates: what is the perfect pre-interview assignment test and is it OK if the typical candidate spends 10-14 days to complete it? Should your candidates write something that resembles your working docs, or some generic texts on complex topics are enough? (for example, we ask our candidates to explain SSL certificates to their math-savvy, but not-cryptographically-inclined uncle: private/public keys, digital signatures, chains of trust and so on)</p>\n</li>\n<li>\n<p>Interviewing candidates for a technical writer position: are interviews necessary at all? Can a good interview outweigh a bad assignment test? Can a bad interview spoil the impression after a good assignment test? What things should be asked during an interview?</p>\n</li>\n</ul>",
+        "title": "Interviewing and hiring technical writers: the Siberian way"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Jodie Putrino",
+                "slug": "jodie-putrino",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>Overview:\nI'm a technical writer embedded in a team of developers. Prior to working at F5, I was in academic publishing; when I began my journey here, my knowledge of software development tools and processes was slim to none. When I was hired, I was provided a long list of 'awesome-future' ideas for documentation that would be developed, tested, and built just like code. At the forefront of this grand vision was the idea that docs would live in the same repositories as the code, follow the same development and code review processes, and follow a continuous delivery model. It then fell to me to figure out how to get us from 'wouldn't it be great if...?' to 'here's how we do it'.</p>\n<p>The single most frustrating thing on this path was the lack of publicly-available information about how to actually accomplish the goal of developing docs like code. I found many valuable resources online (including past WTD presentations!) that dealt with the theory of, or argued in favor of or against, the idea, but none that actually outlined the steps involved. I spent a great deal of time searching repos on GitHub, figuring out the tools they used and essentially reverse-engineering their docs websites. Now, over a year later, we've established what tools to use to write and publish the docs; what the responsibilities of the software engineers and technical writer are in terms of creating and maintaining content; how to organize the content in a way that both makes sense internally and provides a good user experience; how to incorporate syntax and grammar checks into code testing; and how to build and deploy documentation automatically.</p>\n<p>My intention for this presentation is to describe our experience and provide the solution we developed to test, build, and publish our documentation, so others starting down the same road have a basic example to follow.</p>\n<p>Lessons learned:\n- learn the development tools and use them (i.e., using git isn't hard once you know what you're doing)\n- let the project language guide your selection of the markup language and build tool\n- choose the markup language that's right for you and stick to it\n- choose the build tool that's right for you and stick to it\n<strong>have a clear picture of what you want to accomplish at the beginning</strong> -- what the requirements are, what the SOPs are for the language/community you're developing in, what your publishing requirements are, etc.. \n- dealing with versioning for many independent products that require cross-product user guides is a SOB\n- have realistic expectations of what the developers can (and will be willing to) contribute\n- developing documentation alongside the code lessens the likelihood that docs requirements are only considered after the code for a release is complete</p>\n<p>Our tools and methods:\n- version control with git using a basic fork and pull-request workflow\n- write the docs in rST\n- follow the Every Page is Page One approach to information architecture and content organization\n- test and build the docs using a docker image that has all required dependencies built-in, so it's easy for developers (they all already use docker)<br />\n- build the docs with sphinx; \n- test with a script that runs sphinx's <code>make html</code> and <code>make linkcheck</code>, and checks grammar with <code>write-good</code>\n- deploy the HTML files to the publication platform automatically via travis-ci/gitlab-ci</p>",
+        "title": "Treating documentation like code: a practical account"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Ryan Pitts & Lindsay Muscato",
+                "slug": "ryan-pitts-lindsay-muscato",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>For developers in newsrooms, whose work supports great writing and journalism all day long, writing their own docs often falls by the wayside. News deadlines can edge out time for cleanup and documentation (much less the planning and architecture that lead to reusable code). At OpenNews, these developers, designers, and data analysts are our community, and we designed a series of events to address that time crunch, bringing people together for a few days at a time, a few times a year, to refine, document, and release their projects. Last year, we took that model even further. Instead of focusing on individual work, we invited participants to tackle a mutual challenge: how to produce open-source projects. We saw a common set of cultural and technical questions coming up before, during, and after projects--but our community didn't have a common pool of answers. Yet open-source newsroom projects couldn't be more important right now. A common set of tools means more time helping journalists speak truth to power, less time on recreating code.</p>\n<p>So, inspired by other collaborative book-writing projects, we put together a community documentation sprint in late 2016. The goal: to draft a guidebook for releasing newsroom code. Over two intensive days, eleven contributors gathered with us in Washington, D.C., and another dozen signed on as remote editors. Together, participants captured both the bigger picture and the details of best practices for open-sourcing software, specifically in the context of newsrooms and journalism. They worked in pairs or small groups, clustered around laptops, collaborating for long stretches of writing on both days. We fed them many snacks. Their draft covers everything from pitching projects to editors, to getting to the first release, to handoffs and sunsets. It's published through GitHub now, a living resource that our community can build on.</p>\n<p>We did a bunch of research into collaborative writing projects like this, we drew on everything we knew about running in-person events, and we learned a LOT as we planned and ran the initial sprint. At Write The Docs, we want to share:</p>\n<p>How we ran the leadup to the event\n* We relied on our thoughtful and time-tested approach to human-friendly logistics:\n    * We searched for the right kind of workspace (room to move around, places for Post-It notes, natural light!)\n    * We gave everyone several weeks of lead time, with prompt to help them start thinking about the topic\n    * We designed a helpful, informative pattern of communication with participants (regular updates that always point back to a shared doc with all project information)\n    * We offered funds to help participants attend (we ask organizations to donate their people's time and effort, and we cover all the financial costs)</p>\n<ul>\n<li>\n<p>We made sure that group decision-making, framing, and writing didn't start from scratch:</p>\n<ul>\n<li>We interviewed a number of experienced developers to help us craft this outline and think about framing the topic</li>\n<li>We developed a draft guidebook outline that was opinionated but not definitive</li>\n<li>We planned exercises that would turn these initial ideas into group consensus</li>\n<li>We settled in advance on the tools we'd use for writing together</li>\n<li>We thought hard about our audience, although we made time for our writers to think about this, too</li>\n<li>We wanted this resource to answer the needs of the FULL community, not just developers at high-profile organizations</li>\n</ul>\n</li>\n<li>\n<p>We designed a process to recruit a diverse, expert team of people who'd be excited to join us:</p>\n<ul>\n<li>We decided we needed A) writers with real-world experience and stories to tell about open sourcing code, B) people who were excited to lock themselves in a room for two days and write with strangers, and C) a group that represented our full community</li>\n<li>We knew we wanted to experiment with hybrid participation, with in-person writers and remote editors</li>\n<li>We began with initial, one-on-one outreach, to help gauge whether there was enough of a participant base (available the week of our event!) to help us pull this off</li>\n<li>An open call for proposals brought in a mix of people we'd reached out to, people we didn't know would be interested, and people we didn't know or hadn't worked with before</li>\n</ul>\n</li>\n<li>\n<p>We chose participants who'd bring a mix of talents, experience levels and backgrounds:</p>\n<ul>\n<li>We settled on 8-10 in-person writers: enough to cover a lot of information from a variety of perspectives, but not so many that facilitation would get unwieldy. Counting 3 staff members, this worked with our budget and helped us target the right workspace</li>\n<li>We expanded how we thought about inclusivity, which is a part of every event we run, to include organization size and audience role</li>\n<li>We opened participation by remote editors to the widest group possible</li>\n<li>We invited some extremely experienced developers to participate remotely, and some less-experienced people to join as writers - this was not at all \"the A Team works in-person, the B Team is remote\"</li>\n</ul>\n</li>\n</ul>\n<p>How we ran the event\n* We brought all our in-person writers together, in one room, for two days.\n    * We opened by collaboratively refining the outline and chapter structure for the guidebook on large chart paper, using (so many) Post-Its\n    * Everyone worked together to define the guidebook's audience, and carefully considered who might read this\u2014from the beginning news dev to the executives needed for sign-offs\n    * We helped writers pair up into groups of two or three, leading them into their first collaborative drafting sessions on a chapter of their choice</p>\n<ul>\n<li>\n<p>We supported the pair writing process with a defined yet flexible structure:</p>\n<ul>\n<li>We set up writers with a common set of Google Docs, a tool chosen because it allowed for simultaneous writing and robust inline commenting</li>\n<li>We demonstrated how a pair-writing process might work, but also encouraged everyone to find their own collaborative chemistry and try various methods of writing together</li>\n<li>We set aside 45 minutes to an hour for each block of writing time, gently enforcing breaks and regularly encouraging writers to hand off their work to others and take on something new</li>\n<li>We revised our agenda on the fly to reflect participants' progress and changing needs, documenting our <em>own</em> learning as we went</li>\n<li>We sent the first day's work out overnight to our remote editing team, asking for some quick, initial feedback that gave us a nice frame for kicking off the second day</li>\n<li>We intentionally saved some key moments for the second day:<ul>\n<li>A morning conversation about key points for our introduction chapter, after everyone had a full day of thinking about the topic</li>\n<li>The addition of a couple in-person participants, who could work as readers and feedback partners for anything that was feeling sticky</li>\n<li>A closing, collaborative attack on a README, describing the project, its plans, and how to contribute for future readers</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p>We balanced writing time, collaboration time, and snack time</p>\n<ul>\n<li>At OpenNews, we believe firmly that community builds organically when people take good care of each other and feel taken care of.</li>\n<li>We gave everyone plenty of break time, made sure not to over-tax any particular form of brainpower (writing vs. ideation)</li>\n<li>We mixed in different types of activities throughout each day, getting people out of their chairs and guiding more relaxed conversations during lunch</li>\n<li>We brought in lunch both days, stocked our snack shelf generously, and offered frequent coffee/tea</li>\n<li>We offered optional evening group outings to local watering holes and restaurants for those who wanted to gather more</li>\n</ul>\n</li>\n</ul>\n<p>How we ran things once the event was done\n* We gave ourselves plenty of time for important work on the guidebook after the in-person event\n    * We were careful not to set the expectation that we'd close our two-day event with a published, public guidebook. That reduced stress for the writers, as well as for us\n    * We gave the writers continued access to the documents, so they could revisit and revise\n    * We gave our remote editors two weeks with the draft chapters, to think deeply, make additions, and ask questions</p>\n<ul>\n<li>\n<p>We set aside resources for followup and followthrough</p>\n<ul>\n<li>We hired an editor to lead up the cleanup, guiding the remote editing team, working with writers, and unifying the work of many people into a single voice</li>\n<li>We continued to communicate with participants, letting them know where we were in the process and flagging opportunities to keep contributing</li>\n<li>We worked with a developer to create a companion tool that can lint projects according to the principles of the guidebook</li>\n<li>We published the guidebook as a repository on GitHub, opening up community participation through pull requests as well as feeding a reader-friendly version on GitBook</li>\n</ul>\n</li>\n<li>\n<p>We made a plan for outreach and adoption</p>\n<ul>\n<li>We launched version 1.0 of the guidebook with an announcement on our website, Source, a high-profile community hub where we could celebrate everyone who worked on the project</li>\n<li>We seeded the guidebook repository with dozens of open issues, giving potential contributors guidance on where to jump in</li>\n<li>We created an email address and a channel in a popular community Slack, and referenced them in the guidebook to provide help and feedback for readers</li>\n<li>We've continued to talk with our community, both formally and informally, asking what could make this resource more useful, and encouraging even more people to take ownership</li>\n</ul>\n</li>\n</ul>\n<p>We'd be delighted to share our collaborative writing process at Write the Docs, and of course, what we learned along the way.</p>",
+        "title": "No Community Members Were Harmed in the Making of This Doc Sprint: How we ran a 48-hour event to collect community wisdom into a guidebook for newsroom developers"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Ingrid Towey",
+                "slug": "ingrid-towey",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>The Wisdom of Crowds:\nCrowdsourcing Minimalism in an Open Organization \nby Ingrid Towey, Brice Fallon-Freeman, and Aneta Petrov\u00e1</p>\n<p>What does choosing flavors of LaCroix sparkling water for the Red Hat breakroom have to do with improving technical documentation? At Red Hat, everything. </p>\n<p>You see, when we wanted to make a culture shift in our approach to documentation, we couldn\u2019t legislate the change from the top down. Managers and experts just don\u2019t have that kind of authority at Red Hat. Changing the way we write has had to be a grassroots, bottom-up effort. Just like we all get to vote on which flavors of sparkling water and other beverages are stocked in our fridge, writers, editors, content strategists, and managers ALL have a say in our latest writing trends. At Red Hat, we have an open culture where people expect to have a voice in decisions and aren\u2019t afraid to speak their minds. This open culture affects every aspect of our working lives.</p>\n<p>What Did We Want to Change?\nWe wanted to introduce our teams to minimalist writing. But first we had to convince people that minimalism isn\u2019t just about shorter sentences and less fluffy documentation. Minimalist writing means that you focus like a laser on just what your customers need at the moment. It\u2019s harder than it sounds. </p>\n<p>How Did We Do It?\nFirst, we formed an international team that could influence writers across all our geographical regions (geos). Brice Fallon-Freeman (from Australia), Aneta Petrov\u00e1 (from the Czech Republic), and I (from the US) became this team and brainstormed ways to introduce these concepts to our departments. </p>\n<p>Aneta and Brice came up with the idea of crowdsourcing minimalist writing critiques, and all three of us tried the concept in our different geos. We got volunteers to join our groups, and then we got more volunteers who were willing to have their content critiqued. This \u201ccrowd\u201d of writers and editors then worked together to give meaningful feedback to the people who had been brave enough to volunteer their content. </p>\n<p>The beauty of this model is that it gives experienced writers a way to teach more junior writers without the process being apparent. No one has to admit to being ignorant. Inexperienced writers get to learn about minimalism by watching other people apply it to real content and not in some kind of fake training situation. </p>\n<p>This talk will discuss our strategies and methods in more detail and show examples of content before and after crowdsourced minimalism.</p>",
+        "title": "The Wisdom of Crowds: Crowdsourcing Minimalism in an Open Organization "
+    },
+    {
+        "speakers": [
+            {
+                "name": "Amelia Abreu",
+                "slug": "amelia-abreu",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>All humans require care. Writing and maintaining documentation is a form of care: good documentation can make us feel cared-for, and we, as writers, can take satisfaction from empathizing with the end users of our work, and performing the caring work of documentation. By exploring and acknowledging the relationship between care, documentation, and technology, I argue, we can better understand and advocate for the value of our work. More so, understanding the importance of care allows us to work better.</p>\n<p>This talk illustrates how the work of documentation is care work, and explores the ethical, philosophical and economic dimensions of care in relationship to technical writing and documentation. I\u2019ll share findings and case studies from my own consulting practice, and explore patterns (and anti-patterns) I\u2019ve observed around documentation and care. Finally, I share actionable recommendations for applying these ideas in order to improve outcomes and impact of documentation. </p>",
+        "title": "Caring Systems: Documentation as care"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Jesse Seldess",
+                "slug": "jesse-seldess",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>How do you \u201cbootstrap docs\u201d? In this talk, I will walk through how to build essential docs for an early stage startup that lays a strong foundation for continuous improvement and expansion. The story will be told through my experiences building docs from scratch for CockroachDB (https://www.cockroachlabs.com), a next-generation open source database.</p>\n<p>When I joined Cockroach Labs as its first technical writer, CockroachDB had been in development for nearly two years and had 15 engineers and 60+ open source developers contributing to it. I needed to build a documentation structure and process that would be lightweight enough for developers to contribute to and flexible enough to apply to the product (and team) years down the road. </p>\n<p>This talk will walk the audience through the process of learning a new product and development team, and allowing that information to guide the information architecture and tool selection process. </p>\n<p>Topics will include: \n- How do you learn a new product, and why is it essential to understand its market fit? \n- How do you learn about your users - who are they, what are their primary pain points, and what do they need most from docs? \n- How do you choose tools and workflows for building your initial docs architecture? \n- How do you iterate on, improve, and expand your docs, and harness contributors to do the same? </p>",
+        "title": "Bootstrapping Docs at a Startup"
+    },
+    {
+        "speakers": [
+            {
+                "name": "David Bastedo/Leona Campbell",
+                "slug": "david-bastedoleona-campbell",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>We\u2019re interested in revolutionizing release notes. Now with cloud services and their continual and more frequent releases, we need to find a balance between comprehensive, helpful, and accessible release notes. We want to take this opportunity to brainstorm and discuss what\u2019s working and what\u2019s not. </p>\n<p>In our unconference, we want to use the following questions to guide this discussion:</p>\n<p>Who in your organization owns the release notes process?\nWho builds, reviews, approves, and publishes your release notes?\n    Who sanitizes / scrubs your issue titles?\nAre your release notes integrated into your bug tracking system?\nHow often are you release notes updated?\n    How far in advance are your release notes published?\nDo you allow your community users to collaborate on your release notes?\nHow much information is exposed in your release notes? (e.g. bug ids, issue severity, links to your bug tracking system, expected fix dates)\nHow do you determine what issues to publish? (e.g. by severity, customer reported, customer impact, manual approval, non-security related) \n    How comprehensive is your published list?\nDo you track metrics around your release notes?\n    Can you track how much help or case deflection the release notes are generating?\nIs your list used by internal teams (e.g. Support)\nWhere are your release notes published? (main website? Support community? PDFs?)</p>",
+        "title": "Release Notes: What's Working (and Not Working) for You?"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Melissa Chavez",
+                "slug": "melissa-chavez",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>The last thing you want to think about is work when you or someone you love gets a life-threatening illness or has an accident. We will cover tips, precautions, and stopgap measures to take when you're the linchpin (because you hold Institutional Knowledge or have been tasked to gather it) to your team/company, but suddenly have to prepare to permanently leave or take medical leave from a position. </p>",
+        "title": "Worst-case Scenario Planning"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Ruthie BenDor",
+                "slug": "ruthie-bendor",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>Writers of software and writers of documentation practice a shared art: we bestow abstractions with names. We know we've succeeded when our names illuminate concepts, elicit a-ha moments, and empower users to put our product to work. We know we've failed when the names we've chosen confuse, frustrate, misguide, or offend.</p>\n<p>Naming things well matters. Too often, though, good names are hard to come by, and bad names are hard to change.</p>\n<p>Using a lengthy and ever-growing list of Terrible, Horrible, No Good, Very Bad names encountered during my career as an engineer, this talk will address:\n- Why is it so hard to name things well in software?\n- Why do bad names persist?\n- What are some heuristics for assessing how good or bad a name is?\n- How has technology hampered efforts to name things well?\n- How can technology help our efforts to name things well?\n- How can documentarians and developers work together to name things better?</p>",
+        "title": "Even Naming This Talk Is Hard"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Sarah Hersh",
+                "slug": "sarah-hersh",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>Last spring, as I approached reworking the information architecture of the NPR One Developer Center, I began by doing a series of interviews with partner developers to find out what pain points they encountered when developing on our platform.</p>\n<p>Overwhelmingly, the responses included complaints about confusing site navigation and frustration around having to search multiple pages to string together the necessary information to implement features. After considering this feedback, we redesigned the documentation site to focus on information needed to complete a desired task, and while we still provide endpoint reference documentation, my focus now is to start from thinking about what a developer is trying to accomplish, rather than what data an endpoint is capable of providing. Essentially, the focus of the docs shifted away from what the API can do, towards what \u201cI\u201d, as the developer, can do with this API. </p>\n<p>Many user actions in NPR One require multiple HTTP requests to different services, so centralizing this information under task headers, rather than by endpoint or by service, reduced redundancy across our site and made the docs more discoverable and readable. For those who work on documenting hypermedia APIs, this is a useful approach, since these services tend to have fewer specific endpoints, and the documentation needs to focus much more on how the client can successfully navigate links to accomplish the desired task. </p>\n<p>Taking a task-oriented approach to our documentation, and avoiding an endpoint- or service-centric perspective allowed us to reorganize and revise our content in a way that has significantly shortened our onboarding process for partner developers (therefore shortening the app verification process and time-to-market), and most importantly has allowed us to better collaborate with partners developing exciting new experiences for NPR listeners. </p>\n<p>In this 30-minute talk, I\u2019ll discuss how you can successfully integrate this approach to your workflow when considering everything from the overall information architecture of your documentation, to deciding which content assets to prioritize, to refining the tone used throughout your developer communications. </p>",
+        "title": "Start with the tasks, not the endpoints"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Carl Parker",
+                "slug": "carl-parker",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>This talk is about the verifiability crisis in science, politics, and\ntechnology, and how methods developed to address verifiablity in\nstatistical publishing can be adapted to other areas such as technical\nwriting.</p>\n<ul>\n<li>\n<p>In 2015, a group of researchers set out to replicate the results\n  obtained in a set of 100 published psychology research papers. It\n  turned out that only 29 out of the 100 could be replicated. </p>\n</li>\n<li>\n<p>In the 2016 elections, so-called \"fake news\"--fabricated news\n  published on venues such as Facebook--influenced many voters in their\n  choice of candidates.</p>\n</li>\n<li>\n<p>In the field of technical writing, it is not uncommon to discover that\n  technical documentation is inaccurate. Although the docs might have\n  been accurate when first published, the underlying technology evolved\n  rendering the docs obsolete. </p>\n</li>\n</ul>\n<p>Academic, public-policy, and business decisions are sometimes made after\naccepting published (mis)information at face value. The costs can be\nconsiderable.</p>\n<p>The information often arrives in the form of an electronic document, such as\na web page or PDF file. To verify the information, someone has to\n\"fact check\" it.  But what if the document could, in some sense, \"speak\nfor itself\" and demonstrate the veracity of what it is saying?</p>\n<p>In response to the verifiability crisis in science, statisticians have\ndeveloped technology to create \"intelligent documents\" that not only\nreport the results of a statistical analysis, but can also re-create the\nanalysis itself.</p>\n<p>This talk is about how the principles, methods, and technology behind\nintelligent documents can be adapted to the technical-writing discipline\nto create software documentation that is self-verifying--and in some\ncases, self-correcting.</p>\n<ul>\n<li>Note *\nI will discuss tools and technology in this talk. I will talk about\nextensions to Markdown that enable embedded code, Jupyter Notebooks \nfor interactive documents, and the role of GitHub to ensure technical and\nfactual integrity. However, the talk is primarily about the emergence of\nintelligent documents more broadly, the problems they solve, and what\nthey could mean for the technical-writing discipline.</li>\n</ul>",
+        "title": "Intelligent Documents and the Verifiability Crisis in Science, Tech Writing, and Life"
+    },
+    {
+        "speakers": [
+            {
+                "name": "Andrea Longo",
+                "slug": "andrea-longo",
+                "twitter": "",
+                "details": ""
+            }
+        ],
+        "abstract": "<p>Come along on a tour of common types of documentation system administrators use to get their jobs done.</p>\n<p>As an enterprise software developer, system administrators are my customers and colleagues. In this session, learn not just what gets used, but also what internal and informal sources to look for to create better docs. I'll share what I've learned sysadmins want from the written information they rely on daily. I'll also talk about what ops teams write for themselves that can add important details to your documents.</p>\n<p>We\u2019ll go beyond glossy presentation slides of instructor-led training to delve into what\u2019s meaningful for day-to-day tasks. For example, integration and migration: to accomplish this smoothly, sysadmins need references and examples to install, configure, and customize new tools to work with existing systems. Tutorials can show how, real-world configuration examples show what, and cookbooks provide ready-made examples to customize as needed. Deployment checklists ensure the rollout goes smoothly.</p>\n<p>Emergencies can happen at any hour\u2014which is why runbooks can be so valuable. With step-by-step details so staff can respond without making mistakes. A junior engineer can resolve an issue without calling a developer for help. Manifests, dependency lists, and logs become necessary adjuncts to documentation, providing critical data for root cause analysis.</p>\n<p>Learn about these sources, not just how others use them, but where you can find valuable detail to enhance the documents you write for operations. </p>",
+        "title": "Do you know a runbook from a flip book? How sysadmins use documentation"
+    }
+]

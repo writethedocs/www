@@ -131,7 +131,6 @@ eu_speakers = load_json('_data/2016.eu.speakers.json')
 eu_day1 = load_json('_data/eu-2016-day-1.json')
 eu_day2 = load_json('_data/eu-2016-day-2.json')
 
-
 for list_o_speakers in [na_speakers, eu_speakers]:
     transform_speakers(list_o_speakers)
 
