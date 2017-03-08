@@ -16,7 +16,7 @@ luggage during the main conference days.
 Accessibility
 ~~~~~~~~~~~~~
 
-All conference spaces at Auto Klun are wheelchair accessible.
+All conference spaces at Auto Klub are wheelchair accessible.
 
 The venue has:
 
