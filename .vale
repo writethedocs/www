@@ -1,6 +1,12 @@
 StylesPath = style-guide
+MinAlertLevel = error
 
 [*.{md,rst,txt}]
 BasedOnStyles = WTD
-vale.Wordiness = YES
-vale.ComplexWords = YES
+
+vale.Redundancy = YES
+vale.Repetition = YES
+vale.GenderBias = YES
+
+TheEconomist.UnnecessaryWords = YES
+TheEconomist.Hectoring = YES

@@ -13,4 +13,3 @@ install:
  - go get github.com/ValeLint/vale
 script:
  - tox -e $TOX_ENV
- - vale docs/
