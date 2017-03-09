@@ -28,7 +28,7 @@
             {
                 "name": "Kenzie Woodbridge",
                 "slug": "kenzie-woodbridge",
-                "twitter": "",
+                "twitter": "rainbowkenz",
                 "details": ""
             }
         ],
@@ -40,7 +40,7 @@
             {
                 "name": "Lyzi Diamond",
                 "slug": "lyzi-diamond",
-                "twitter": "",
+                "twitter": "lyzidiamon",
                 "details": ""
             }
         ],
@@ -70,7 +70,7 @@
             {
                 "name": "Tom Johnson",
                 "slug": "tom-johnson",
-                "twitter": "",
+                "twitter": "tomjohnson",
                 "details": ""
             }
         ],
@@ -82,7 +82,7 @@
             {
                 "name": "Christy Lutz",
                 "slug": "christy-lutz",
-                "twitter": "",
+                "twitter": "canncrochet",
                 "details": ""
             }
         ],
@@ -94,7 +94,7 @@
             {
                 "name": "Matthew Buttler",
                 "slug": "matthew-buttler",
-                "twitter": "",
+                "twitter": "diversecauses",
                 "details": ""
             }
         ],
@@ -130,7 +130,7 @@
             {
                 "name": "Sam Faktorovich",
                 "slug": "sam-faktorovich",
-                "twitter": "",
+                "twitter": "lazeez",
                 "details": ""
             }
         ],
@@ -142,7 +142,7 @@
             {
                 "name": "Jodie Putrino",
                 "slug": "jodie-putrino",
-                "twitter": "",
+                "twitter": "j_putrino",
                 "details": ""
             }
         ],
@@ -152,9 +152,15 @@
     {
         "speakers": [
             {
-                "name": "Ryan Pitts & Lindsay Muscato",
-                "slug": "ryan-pitts-lindsay-muscato",
-                "twitter": "",
+                "name": "Ryan Pitts",
+                "slug": "ryan-pitts",
+                "twitter": "ryanpitts",
+                "details": ""
+            },
+            {
+                "name": "Lindsay Muscato",
+                "slug": "lindsay-muscato",
+                "twitter": "lmuscato",
                 "details": ""
             }
         ],
@@ -178,7 +184,7 @@
             {
                 "name": "Amelia Abreu",
                 "slug": "amelia-abreu",
-                "twitter": "",
+                "twitter": "ameliaabreu",
                 "details": ""
             }
         ],
@@ -226,7 +232,7 @@
             {
                 "name": "Ruthie BenDor",
                 "slug": "ruthie-bendor",
-                "twitter": "",
+                "twitter": "unruthless",
                 "details": ""
             }
         ],
@@ -262,7 +268,7 @@
             {
                 "name": "Andrea Longo",
                 "slug": "andrea-longo",
-                "twitter": "",
+                "twitter": "feorlen",
                 "details": ""
             }
         ],
