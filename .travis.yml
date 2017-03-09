@@ -12,5 +12,5 @@ install:
  - eval "$(gimme 1.7)"
  - go get github.com/ValeLint/vale
 script:
- - vale docs/
  - tox -e $TOX_ENV
+ - vale docs/
