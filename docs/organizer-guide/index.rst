@@ -23,8 +23,7 @@ Information about the global Write the Docs meetups.
 .. toctree::
    :maxdepth: 2
 
-   meetups/starting
-   meetups/faq-meetups
+   meetups/index
 
 Conferences
 -----------
