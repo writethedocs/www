@@ -1,4 +1,4 @@
-StylesPath = style-guide
+StylesPath = vale
 MinAlertLevel = warning
 
 [*.{md,rst,txt}]
