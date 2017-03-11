@@ -3,7 +3,7 @@
 Welcome Wagon
 =============
 
-Hello! 
+Hello!
 
 We're your Welcome Wagon, and we're glad you're coming to the
 2016 Write the Docs conference! Feel free to tweet us

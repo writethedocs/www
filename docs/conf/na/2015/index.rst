@@ -430,7 +430,7 @@ Schedule
 --------
 
 Write the Docs is more than a conference. Each year we organize a wide
-bunch of events so that people can join together, collaborate, and learn
+bunch of events so that people can meet, collaborate, and learn
 from each other.
 
 This year, we have events planned all day on Sunday, the day before the
