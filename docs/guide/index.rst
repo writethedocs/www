@@ -31,9 +31,13 @@ Getting Started with Documentation
 Writing Great Documentation
 ---------------------------
 
-* :doc:`writing/docs-principles`
+.. toctree::
+   :maxdepth: 2
+
+   writing/docs-principles
+   docs-as-code
+
 * Structuring your Documentation
-* :doc:`docs-as-code`
 * Style Guides
 
 Documentation Culture at your Company
