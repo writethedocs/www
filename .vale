@@ -1,7 +1,5 @@
 StylesPath = style-guide
-MinAlertLevel = error
-
-MinAlertLevel = error
+MinAlertLevel = warning
 
 [*.{md,rst,txt}]
 BasedOnStyles = WTD
