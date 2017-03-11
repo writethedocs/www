@@ -1,4 +1,5 @@
 StylesPath = style-guide
+MinAlertLevel = error
 
 MinAlertLevel = error
 
