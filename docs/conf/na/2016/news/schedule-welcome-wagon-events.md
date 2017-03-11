@@ -11,16 +11,16 @@ haven't already. **We expect them to sell out by early May.**
 
 [ticket]: https://ti.to/writethedocs/write-the-docs-na-2016/
 
-If you can't make it to this year's conference in Portland, don't fret. We've just announced 
-our [European conference][eu-conf], taking place this year again in Prague, September 18-20. 
+If you can't make it to this year's conference in Portland, don't fret. We've just announced
+our [European conference][eu-conf], taking place this year again in Prague, September 18-20.
 Tickets are now on sale, and the call for papers is open.
 
 [eu-conf]: http://www.writethedocs.org/conf/eu/2016/
 
 We're putting the finishing touches on the Portland conference, so this email
-contains more information for you about this year's conference events. We've added some new 
-resources, and we hope you'll take advantage of them. We also hope you'll be able to join most 
-if not all of the events outside the main conference talks, because they're some of our 
+contains more information for you about this year's conference events. We've added some new
+resources, and we hope you'll take advantage of them. We also hope you'll be able to join most
+if not all of the events outside the main conference talks, because they're some of our
 favorite parts of the event.
 
 Conference Schedule
@@ -71,8 +71,8 @@ Please [let us know][email] if there is anything else we can do to make you feel
 Saturday - Annual Hike
 ----------------------
 
-If you're in town Saturday afternoon, please join us for 
-our [annual hike to Pittock Mansion][hike]. We've had rain every year, 
+If you're in town Saturday afternoon, please join us for
+our [annual hike to Pittock Mansion][hike]. We've had rain every year,
 so that means it should be sunny this year, right?!
 
 Space is limited, so that we don't overwhelm the trail.
@@ -97,17 +97,17 @@ goals.
 
 Sprint projects include
 Mozilla's [MDN][mdn] and Write the Docs's [resources for documentarians][wtd-resources]. You are welcome to bring your own project
-to work on. [Let us know][email] if you want help, and we will add it to the list on our website, 
-so people will know it's an option. 
+to work on. [Let us know][email] if you want help, and we will add it to the list on our website,
+so people will know it's an option.
 The site is also on [GitHub](https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/writing-day.rst),
 so you can add your event that way, too.
 
-New this year, the combined efforts of a couple of meetup organizers have produced an 
+New this year, the combined efforts of a couple of meetup organizers have produced an
 [API docs session][APIdocs] on Sunday.
 If you're interested in APIs and documentation,
 this is a great option for your Sunday as well.
 Space is limited for that event as well,
-so please RSVP if you are interested in attending.
+so RSVP if you are interested in attending.
 
 We encourage everyone to drop by on Sunday evening for our conference reception.
 You'll have a chance to get acquainted with each other over some drinks and
@@ -123,7 +123,7 @@ so you can continue your conversations over more substantial food.
 [wtd-resources]: http://docs.writethedocs.org/
 [APIdocs]: http://www.meetup.com/Write-The-Docs-PDX/events/230291799/
 
-Conference Party 
+Conference Party
 ----------------
 
 This year we'll be holding the conference party at the [Jack Knife][jk].
@@ -145,10 +145,10 @@ Monday and Tuesday - Conference
 -------------------------------
 
 We've released the breakdown of [our daily schedule][daily-schedule].
-The doors open at 8am on both days, 
+The doors open at 8am on both days,
 so that you can arrive early, get yourself settled, grab some breakfast,
 and take advantage of the Welcome Wagon. The conference begins at 9:00am. Talks
-run all day, until shortly after 5pm. 
+run all day, until shortly after 5pm.
 
 We'll hold an unconference downstairs in Lola's Room again this year, again on
 both days. The unconference begins shortly after lunch,
@@ -162,7 +162,7 @@ If you are interested in leading a session, [read more about our unconference][u
 ----
 
 This year will be the best Write the Docs yet!
-We have taken everyone's feedback and continued to tweak things to make them even better than 
+We have taken everyone's feedback and continued to tweak things to make them even better than
 before.
 As always, let us know if there is anything else we can improve.
 

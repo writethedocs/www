@@ -2,7 +2,7 @@ Conference Videos
 =================
 
 Every year at Write the Docs we film the talks,
-and release them for free on the internet.
+and release them on the internet.
 We believe that the information shared at our conference should be heard by anyone who wants to hear it.
 
 Here are the links to videos from all of our events:
