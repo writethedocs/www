@@ -18,7 +18,7 @@ We are hoping to change that going forward,
 so that we can make sure that all parts of the Write the Docs community are inclusive and welcoming places.
 
 Documenting our Team
--------------------
+---------------------
 
 We have built out a `team`_ page that lists all of the roles that people currently play in our community.
 This doesn't include the wonderful meetup organizers or conference organizers currently,

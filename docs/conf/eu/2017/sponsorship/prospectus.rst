@@ -1,3 +1,5 @@
+:orphan:
+
 Write the Docs Europe 2017 Sponsorship
 ########################################
 

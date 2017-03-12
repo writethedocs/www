@@ -13,6 +13,7 @@ import ablog
 exclude_patterns = [
     '_build',
     'include',
+    '_data',
 ]
 extensions = [
     'ablog',
