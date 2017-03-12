@@ -216,7 +216,7 @@
                 "slug": "david-bastedo",
                 "twitter": "",
                 "details": ""
-            },
+            }
         ],
         "abstract": "<p>We\u2019re interested in revolutionizing release notes. Now with cloud services and their continual and more frequent releases, we need to find a balance between comprehensive, helpful, and accessible release notes. We want to take this opportunity to brainstorm and discuss what\u2019s working and what\u2019s not. </p>\n<p>In our unconference, we want to use the following questions to guide this discussion:</p>\n<p>Who in your organization owns the release notes process?\nWho builds, reviews, approves, and publishes your release notes?\n    Who sanitizes / scrubs your issue titles?\nAre your release notes integrated into your bug tracking system?\nHow often are you release notes updated?\n    How far in advance are your release notes published?\nDo you allow your community users to collaborate on your release notes?\nHow much information is exposed in your release notes? (e.g. bug ids, issue severity, links to your bug tracking system, expected fix dates)\nHow do you determine what issues to publish? (e.g. by severity, customer reported, customer impact, manual approval, non-security related) \n    How comprehensive is your published list?\nDo you track metrics around your release notes?\n    Can you track how much help or case deflection the release notes are generating?\nIs your list used by internal teams (e.g. Support)\nWhere are your release notes published? (main website? Support community? PDFs?)</p>",
         "title": "Release Notes: What's Working (and Not Working) for You?"
