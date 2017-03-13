@@ -102,10 +102,6 @@
                 </div>
 
                 <div class="row">
-
-                </div>
-
-                <div class="row">
                   <div class="col-xs-12 col-md-4">
                     <a href="news/announcing-tickets-cfp-website/" class="well news__tile">
                       <h3 class="well__title">
