@@ -53,6 +53,11 @@ If you haven't purchased your ticket yet, time hasn't quite run out. Check out t
 Prague Conference Update
 ------------------------
 
-In case your proposal wasn't selected for our Portland conference, or if you (like some of our friends) were waiting for this announcement, we are happy to also launch our `website and ticket sales http://www.writethedocs.org/conf/eu/2017/news/announcing-website-tickets/`_ for the conference that will be held on **September 10-12** in Prague, Czech Republic.
+In case your proposal wasn't selected for our Portland conference, or if you
+(like some of our friends) were waiting for this announcement, we are happy to
+also launch our `website and ticket sales
+<http://www.writethedocs.org/conf/eu/2017/news/announcing-website-tickets/>`_ for
+the conference that will be held on **September 10-12** in Prague, Czech
+Republic.
 
 The call for proposals will open soon, sign up for our mailing list and stay tuned!

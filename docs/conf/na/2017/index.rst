@@ -102,20 +102,7 @@
                 </div>
 
                 <div class="row">
-                  <div class="col-xs-12 col-md-4">
-                    <a href="news/announcing-presentations/" class="well news__tile">
-                      <h3 class="well__title">
-                        Announcing Presentations and Speakers
-                      </h3>
-                      <p class="well__paragraph">
-                      We're excited to share with you the lineup for the 2017 Portland conference.
-                      This year we received over 100 proposals...
-                      </p>
-                      <div class="well__time">
-                        <span>3 PM</span>|<span>Mar 13, 2017</span>
-                      </div>
-                    </a>
-                  </div>
+
                 </div>
 
                 <div class="row">
@@ -134,7 +121,20 @@
                       </div>
                     </a>
                   </div>
-
+                  <div class="col-xs-12 col-md-4">
+                    <a href="news/announcing-presentations/" class="well news__tile">
+                      <h3 class="well__title">
+                        Announcing Presentations and Speakers
+                      </h3>
+                      <p class="well__paragraph">
+                      We're excited to share with you the lineup for the 2017 Portland conference.
+                      This year we received over 100 proposals...
+                      </p>
+                      <div class="well__time">
+                        <span>3 PM</span>|<span>Mar 13, 2017</span>
+                      </div>
+                    </a>
+                  </div>
                 </div>
 
               </section>
