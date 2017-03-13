@@ -8,25 +8,29 @@ Announcing Presentations and Speakers
 
 We're excited to share with you the lineup for the 2017 Portland conference. This year we received **over 100 proposals**. Needless to say, the selection process was intense, as we had fewer than 20 slots for talks.
 
-The topics this year have a vast range of subjects, points of view, and real-world case-studies, and we hope that whatever your role may be, you can find something to relate to.
+The topics this year cover a vast range of subjects, points of view, and real-world case studies. We hope that whatever your role may be, you can find something to relate to.
 
-This year we are also trying something new, and we had a CFP for unconference sessions, so this list includes both main track talks and unconference sessions.
+This year we are also trying a couple of new things! 
 
-Of course you can still sign up to run an unconference session during the conference, but we hope that having a few scheduled sessions will help you with your personal schedule planning.
+First, we had a CFP for unconference sessions, so we could have a handful of committed "anchor sessions' to help kick off the unconf. Of course you can still sign up to run an unconference session during the conference, but we hope that having a few scheduled sessions will help you with your personal schedule planning.
+
+Second, this year's pre-conference Writing Day is going to include a couple of workshops, in addition to the traditional freeform doc sprints. We're starting out with two introductory workshops this year – one focused on writing fundamentals and one geared toward getting comfortable with Git. 
+
+You'll find more info and links to the full talk abstracts down below. 
 
 Presentations
 -------------
 
 * Amelia Abreu - `Caring Systems: Documentation as care </conf/na/2017/speakers/#speaker-amelia-abreu>`_
 * Ruthie BenDor - `Even Naming This Talk Is Hard </conf/na/2017/speakers/#speaker-ruthie-bendor>`_
-* Matthew Buttler - `The pointy end of the stick: The symbiotic relationship between docs and support </conf/na/2017/speakers/#speaker-matthew-buttler>`_
+* Matthew Buttler - `Only Interesting Conversations: The symbiotic relationship between docs and support </conf/na/2017/speakers/#speaker-matthew-buttler>`_
 * Lyzi Diamond - `Testing: it's not just for code anymore </conf/na/2017/speakers/#speaker-lyzi-diamond>`_
 * Sam Faktorovich - `Interviewing and hiring technical writers: the Siberian way </conf/na/2017/speakers/#speaker-sam-faktorovich>`_
 * Lynnae Griffiths - `Writing the Docs, University Edition </conf/na/2017/speakers/#speaker-lynnae-griffiths>`_
 * Sarah Hersh - `Start with the tasks, not the endpoints </conf/na/2017/speakers/#speaker-sarah-hersh>`_
-* Tom Johnson - `Building navigation for your doc site: 10 best practices </conf/na/2017/speakers/#speaker-tom-johnson>`_
+* Tom Johnson - `Building navigation for your doc site: 5 best practices </conf/na/2017/speakers/#speaker-tom-johnson>`_
 * Andrea Longo - `Do you know a runbook from a flip book? How sysadmins use documentation </conf/na/2017/speakers/#speaker-andrea-longo>`_
-* Christy Lutz - `We may as well die here: Design critique guidelines make feedback easier </conf/na/2017/speakers/#speaker-christy-lutz>`_
+* Christy Lutz - `You have already succeeded: Design critique guidelines make feedback easier </conf/na/2017/speakers/#speaker-christy-lutz>`_
 * Ryan Pitts & Lindsay Muscato - `No Community Members Were Harmed in the Making of This Doc Sprint </conf/na/2017/speakers/#speaker-ryan-pitts-lindsay-muscato>`_
 * Jodie Putrino - `Treating documentation like code: a practical account </conf/na/2017/speakers/#speaker-jodie-putrino>`_
 * Jesse Seldess - `Bootstrapping Docs at a Startup </conf/na/2017/speakers/#speaker-jesse-seldess>`_
@@ -42,6 +46,13 @@ Unconference Sessions
 * Jigyasa Grover - `FOSS it up, with women! </conf/na/2017/speakers/#speaker-jigyasa-grover>`_
 * Mike Jang, Margaret Eker - `Write the Docs Meetup Groups (Unconference) </conf/na/2017/speakers/#speaker-mike-jang>`_
 * Ashleigh Rentz - `QueerTea </conf/na/2017/speakers/#speaker-ashleigh-rentz>`_
+
+
+Writing Day Workshops
+---------------------
+
+* Matthew Desmond - `Learn how to Git </conf/na/2017/speakers/#speaker-matthew-desmond>`_
+* Heidi Waterhouse - `Structuring and writing documentation </conf/na/2017/speakers/#speaker-heidi-waterhouse>`_
 
 Ticket Reminder
 ---------------
@@ -59,4 +70,4 @@ also launch our `website and ticket sales
 the conference that will be held on **September 10-12** in Prague, Czech
 Republic.
 
-The call for proposals for the Prague conference will open soon, sign up for our mailing list and stay tuned!
+The call for proposals for the Prague conference will open soon, so sign up for our mailing list and stay tuned!
