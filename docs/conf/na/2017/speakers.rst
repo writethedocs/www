@@ -3,9 +3,6 @@
 Conference Speakers
 ===================
 
-.. raw:: html
-
-
 {% set conf = "na-2017" %}
 {% set speakers = na_2017_speakers %}
 
