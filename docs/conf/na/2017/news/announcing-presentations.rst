@@ -59,4 +59,4 @@ also launch our `website and ticket sales
 the conference that will be held on **September 10-12** in Prague, Czech
 Republic.
 
-The call for proposals will open soon, sign up for our mailing list and stay tuned!
+The call for proposals for the Prague conference will open soon, sign up for our mailing list and stay tuned!
