@@ -1,10 +1,9 @@
-:template: 2017/na-content.html
+:template: 2017/na-speakers.html
 
-Speakers
-========
+Conference Speakers
+===================
 
-Presentations
--------------
+{% set conf = "na-2017" %}
+{% set speakers = na_2017_speakers %}
 
-To be determined.
-
+{% include conf_py_root + "/include/conf/2017-na-speakers.jinja" %}
