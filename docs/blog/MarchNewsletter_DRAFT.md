@@ -27,7 +27,7 @@ We're really excited about the lineup we'll be bringing to the Crystal Ballroom 
 
 ## <a id="procedures"></a>Know the rules for formatting procedures – and when to break them
 
-An interesting question came up this month about how to introduce a procedure, i.e., a list of numbered steps. Some style guides [ahem, _IBM_] require writers to use a lead-in sentence, a heading that includes the word "Procedure," or some combination of the two. The question was: Are there good reasons to disobey this rule? The community's answer: Yes!
+An interesting question came up this month about how to introduce a procedure, i.e., a list of numbered steps. Some style guides (ahem, _IBM_) require writers to use a lead-in sentence, a heading that includes the word "Procedure," or some combination of the two. The question was: Are there good reasons to disobey this rule? The community's answer: Yes!
 
 One person mentioned that adding "Procedure for" to the beginning of every heading makes documents harder for readers to scan. Another pointed out that headings and lead-in sentences are often redundant and said they've successfully used brief, descriptive headings with no lead-in when formatting procedures.
 
