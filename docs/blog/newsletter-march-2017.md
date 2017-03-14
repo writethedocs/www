@@ -1,3 +1,10 @@
+```eval_rst
+
+.. post:: Mar 14, 2017
+   :tags: newsletter, march, formatting, bylines, alt text, job titles, community
+
+```
+
 # Write the Docs Newsletter - March
 
 ## Winter is coming – to an end!
