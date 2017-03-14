@@ -5,7 +5,7 @@
 
 ```
 
-# Write the Docs Newsletter - March
+# Write the Docs Newsletter - March 2017
 
 ## Winter is coming – to an end!
 
