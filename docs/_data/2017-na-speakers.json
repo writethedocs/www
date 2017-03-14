@@ -21,7 +21,7 @@
             }
         ],
         "abstract": "<p>What is a documentation structure, and why does it matter to developers?</p> <p>Lots of developers get asked to write their own documentation, especially internal documentation and onboarding. In theory, this is good because they know the problems they are writing about and don't need to spend time explaining them. In practice, developers avoid this work because they don't have a good idea of how to start and can't evaluate whether they have succeeded.</p> <p>This workshop is designed to teach you a few basic theories of technical documentation, such as task-based topics, reusable content, and writing for an audience. After the overview, you'll learn techniques for writing bug reports, error messages, and onboarding instructions in a tool-agnostic, repeatable way. You'll leave this workshop with a handful of techniques, templates, and tests that will improve your team’s communication and your life as a developer.</p> <ul> <li><p>What is structure?</p></li> <li><p>What do I really need to know?</p></li> <li><p>How to write an error message</p></li> <li><p>How to write a bug report</p></li> <li><p>What is transparent to writers?</p></li> <li><p>How do you interact with the team around building stuff.</p></li> </ul> <p>The structure will be 60-90 minutes for basics, and then the rest for workshops.</p>",
-        "title": "Workshop: Structing and writing documentation"
+        "title": "Workshop: Structuring and writing documentation"
     },
     {
         "speakers": [
@@ -40,7 +40,7 @@
             {
                 "name": "Jigyasa Grover",
                 "slug": "jigyasa-grover",
-                "twitter": "",
+                "twitter": "jigyasa_grover",
                 "details": ""
             }
         ],
@@ -76,13 +76,13 @@
             {
                 "name": "Mike Jang",
                 "slug": "mike-jang",
-                "twitter": "",
+                "twitter": "TheMikeJang ",
                 "details": ""
             },
             {
                 "name": " Margaret Eker",
                 "slug": "margaret-eker",
-                "twitter": "",
+                "twitter": "meker",
                 "details": ""
             }
         ],
@@ -130,7 +130,7 @@
             {
                 "name": "Ashleigh Rentz",
                 "slug": "ashleigh-rentz",
-                "twitter": "",
+                "twitter": "technicalleigh",
                 "details": ""
             }
         ],
@@ -142,7 +142,7 @@
             {
                 "name": "Kate Voss",
                 "slug": "kate-voss",
-                "twitter": "",
+                "twitter": "katewanders",
                 "details": ""
             }
         ],
@@ -196,7 +196,7 @@
             {
                 "name": "Ingrid Towey",
                 "slug": "ingrid-towey",
-                "twitter": "",
+                "twitter": "IngridTowey",
                 "details": ""
             }
         ],
@@ -232,13 +232,13 @@
             {
                 "name": "Leona Campbell",
                 "slug": "leona-campbell",
-                "twitter": "",
+                "twitter": "runleonarun",
                 "details": ""
             },
             {
                 "name": "David Bastedo",
                 "slug": "david-bastedo",
-                "twitter": "",
+                "twitter": "dbastedo",
                 "details": ""
             }
         ],
@@ -250,7 +250,7 @@
             {
                 "name": "Melissa Chavez",
                 "slug": "melissa-chavez",
-                "twitter": "",
+                "twitter": "capnleela",
                 "details": ""
             }
         ],
@@ -286,11 +286,11 @@
             {
                 "name": "Carl Parker",
                 "slug": "carl-parker",
-                "twitter": "",
+                "twitter": "carljparker",
                 "details": ""
             }
         ],
-        "abstract": "<p>This talk is about the verifiability crisis in science, politics, and\ntechnology, and how methods developed to address verifiablity in\nstatistical publishing can be adapted to other areas such as technical\nwriting.</p>\n<ul>\n<li><p>In 2015, a group of researchers set out to replicate the results\n  obtained in a set of 100 published psychology research papers. It\n  turned out that only 29 out of the 100 could be replicated. </p></li>\n<li><p>In the 2016 elections, so-called \"fake news\"--fabricated news\n  published on venues such as Facebook--influenced many voters in their\n  choice of candidates.</p></li>\n<li><p>In the field of technical writing, it is not uncommon to discover that\n  technical documentation is inaccurate. Although the docs might have\n  been accurate when first published, the underlying technology evolved\n  rendering the docs obsolete. </p></li>\n</ul>\n<p>Academic, public-policy, and business decisions are sometimes made after\naccepting published (mis)information at face value. The costs can be\nconsiderable.</p>\n<p>The information often arrives in the form of an electronic document, such as\na web page or PDF file. To verify the information, someone has to\n\"fact check\" it.  But what if the document could, in some sense, \"speak\nfor itself\" and demonstrate the veracity of what it is saying?</p>\n<p>In response to the verifiability crisis in science, statisticians have\ndeveloped technology to create \"intelligent documents\" that not only\nreport the results of a statistical analysis, but can also re-create the\nanalysis itself.</p>\n<p>This talk is about how the principles, methods, and technology behind\nintelligent documents can be adapted to the technical-writing discipline\nto create software documentation that is self-verifying--and in some\ncases, self-correcting.</p>\n<ul>\n<li>",
+        "abstract": "<p>This talk is about the verifiability crisis in science, politics, and technology, and how methods developed to address verifiablity in statistical publishing can be adapted to other areas such as technical writing.</p>\n<ul>\n<li><p>In 2015, a group of researchers set out to replicate the results\n  obtained in a set of 100 published psychology research papers. It\n  turned out that only 29 out of the 100 could be replicated. </p></li>\n<li><p>In the 2016 elections, so-called \"fake news\"--fabricated news\n  published on venues such as Facebook--influenced many voters in their\n  choice of candidates.</p></li>\n<li><p>In the field of technical writing, it is not uncommon to discover that\n  technical documentation is inaccurate. Although the docs might have\n  been accurate when first published, the underlying technology evolved\n  rendering the docs obsolete. </p></li>\n</ul>\n<p>Academic, public-policy, and business decisions are sometimes made after\naccepting published (mis)information at face value. The costs can be\nconsiderable.</p>\n<p>The information often arrives in the form of an electronic document, such as\na web page or PDF file. To verify the information, someone has to\n\"fact check\" it.  But what if the document could, in some sense, \"speak\nfor itself\" and demonstrate the veracity of what it is saying?</p>\n<p>In response to the verifiability crisis in science, statisticians have\ndeveloped technology to create \"intelligent documents\" that not only\nreport the results of a statistical analysis, but can also re-create the\nanalysis itself.</p>",
         "title": "Intelligent Documents and the Verifiability Crisis in Science, Tech Writing, and Life"
     },
     {
