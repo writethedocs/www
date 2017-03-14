@@ -1,7 +1,7 @@
 StylesPath = vale
 MinAlertLevel = warning
 
-[*.{md,rst,txt}]
+[*.{md,rst,txt,json}]
 BasedOnStyles = WTD
 
 vale.Redundancy = YES
