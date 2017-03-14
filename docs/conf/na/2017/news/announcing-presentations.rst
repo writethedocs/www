@@ -10,11 +10,13 @@ We're excited to share with you the lineup for the 2017 Portland conference. Thi
 
 The topics this year cover a vast range of subjects, points of view, and real-world case studies. We hope that whatever your role may be, you can find something to relate to.
 
-This year we are also trying a couple of new things!
+This year we are also trying a few new things!
 
 First, we had a CFP for unconference sessions, so we could have a handful of committed "anchor sessions' to help kick off the unconf. Of course you can still sign up to run an unconference session during the conference, but we hope that having a few scheduled sessions will help you with your personal schedule planning.
 
-Second, this year's pre-conference Writing Day is going to include a couple of workshops, in addition to the traditional freeform doc sprints. We're starting out with two introductory workshops this year – one focused on writing fundamentals and one geared toward getting comfortable with Git.
+Second, we're testing a new talk format this year: a 20-minute talk, followed by 10 minutes of small group discussion. The goal is to spark discussion among attendees and help break the ice a little. We'll be running these talks during the morning of Day 1 of the conference, so that folks have the chance to get a taste for discussion, and hopefully join us in the unconference later in the day.
+
+Third, this year's pre-conference Writing Day is going to include a couple of paid workshops, in addition to the traditional freeform doc sprints. We're starting out with two introductory workshops this year – one focused on writing fundamentals and one geared toward getting comfortable with Git. The cost of these workshops will be kept low ($100) to keep them accessible, and attendance will be limited to ensure we provide a good experience.
 
 You'll find more info and links to the full talk abstracts down below.
 
