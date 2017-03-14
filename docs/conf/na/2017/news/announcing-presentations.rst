@@ -47,7 +47,7 @@ Unconference Sessions
 * David Bastedo/Leona Campbell - `Release Notes: What's Working (and Not Working) for You? </conf/na/2017/speakers/#speaker-david-bastedoleona-campbell>`_
 * Melissa Chavez - `Worst-case Scenario Planning </conf/na/2017/speakers/#speaker-melissa-chavez>`_
 * Jigyasa Grover - `FOSS it up, with women! </conf/na/2017/speakers/#speaker-jigyasa-grover>`_
-* Mike Jang, Margaret Eker - `Write the Docs Meetup Groups (Unconference) </conf/na/2017/speakers/#speaker-mike-jang>`_
+* Mike Jang, Margaret Eker - `Write the Docs Meetup Groups </conf/na/2017/speakers/#speaker-mike-jang>`_
 * Ashleigh Rentz - `QueerTea </conf/na/2017/speakers/#speaker-ashleigh-rentz>`_
 
 

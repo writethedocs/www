@@ -122,8 +122,6 @@
                       </h3>
                       <p class="well__paragraph">
                       Write the Docs Portland 2017 is a bit over four months away and we hope you're getting excited!
-                      It will be another wonderful year full of great conversation and
-                      interesting talks...
                       </p>
                       <div class="well__time">
                         <span>3 PM</span>|<span>Jan 5, 2017</span>
