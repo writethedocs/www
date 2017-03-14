@@ -34,7 +34,7 @@ Presentations
 * Andrea Longo - `Do you know a runbook from a flip book? How sysadmins use documentation </conf/na/2017/speakers/#speaker-andrea-longo>`_
 * Christy Lutz - `We may as well die here: Design critique guidelines make feedback easier </conf/na/2017/speakers/#speaker-christy-lutz>`_
 * Carl Parker - `Intelligent Documents and the Verifiability Crisis in Science, Tech Writing, and Life </conf/na/2017/speakers/#speaker-carl-parker>`_
-* Ryan Pitts & Lindsay Muscato - `No Community Members Were Harmed in the Making of This Doc Sprint: How we ran a 48-hour event to collect community wisdom into a guidebook for newsroom developers </conf/na/2017/speakers/#speaker-ryan-pitts-lindsay-muscato>`_
+* Ryan Pitts & Lindsay Muscato - `No Community Members Were Harmed in the Making of This Doc Sprint: How we ran a 48-hour event to collect community wisdom into a guidebook for newsroom developers </conf/na/2017/speakers/#speaker-ryan-pitts>`_
 * Jodie Putrino - `Treating documentation like code: a practical account </conf/na/2017/speakers/#speaker-jodie-putrino>`_
 * Jesse Seldess - `Bootstrapping Docs at a Startup </conf/na/2017/speakers/#speaker-jesse-seldess>`_
 * Ingrid Towey - `The Wisdom of Crowds: Crowdsourcing Minimalism in an Open Organization  </conf/na/2017/speakers/#speaker-ingrid-towey>`_
