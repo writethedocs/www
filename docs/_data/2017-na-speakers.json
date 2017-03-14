@@ -21,7 +21,7 @@
             }
         ],
         "abstract": "<p>What is a documentation structure, and why does it matter to developers?</p> <p>Lots of developers get asked to write their own documentation, especially internal documentation and onboarding. In theory, this is good because they know the problems they are writing about and don't need to spend time explaining them. In practice, developers avoid this work because they don't have a good idea of how to start and can't evaluate whether they have succeeded.</p> <p>This workshop is designed to teach you a few basic theories of technical documentation, such as task-based topics, reusable content, and writing for an audience. After the overview, you'll learn techniques for writing bug reports, error messages, and onboarding instructions in a tool-agnostic, repeatable way. You'll leave this workshop with a handful of techniques, templates, and tests that will improve your team’s communication and your life as a developer.</p> <ul> <li><p>What is structure?</p></li> <li><p>What do I really need to know?</p></li> <li><p>How to write an error message</p></li> <li><p>How to write a bug report</p></li> <li><p>What is transparent to writers?</p></li> <li><p>How do you interact with the team around building stuff.</p></li> </ul> <p>The structure will be 60-90 minutes for basics, and then the rest for workshops.</p>",
-        "title": "Workshop: Structing and writing documentation"
+        "title": "Workshop: Structuring and writing documentation"
     },
     {
         "speakers": [
