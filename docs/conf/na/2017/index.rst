@@ -64,7 +64,7 @@
                           Sunday
                         </p>
                         <p class="schedule-home__desc">
-                        Join us for the <a href="/conf/na/2017/writing-day/">Writing Day</a> and Welcome Reception.
+                        Join us for the <a href="/conf/na/2017/writing-day/">Writing Day</a>, Workshops, and Welcome Reception.
                         The first official day of the conference is full of chances to interact with other documentarians.
                         </p>
                       </div>
