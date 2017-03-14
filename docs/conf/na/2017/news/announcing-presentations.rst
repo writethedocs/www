@@ -54,8 +54,11 @@ Unconference Sessions
 Writing Day Workshops
 ---------------------
 
+
 * Matthew Desmond - `Learn how to Git </conf/na/2017/speakers/#speaker-matthew-desmond>`_
 * Heidi Waterhouse - `Structuring and writing documentation </conf/na/2017/speakers/#speaker-heidi-waterhouse>`_
+
+These workshops will be ticketed separately. You can buy them at our normal ticket site: https://ti.to/writethedocs/write-the-docs-na-2017
 
 Ticket Reminder
 ---------------
