@@ -1,10 +1,15 @@
 import json
+import pypandoc
 
 workshops = []
 unconfs = []
 talks = []
 
 data = json.load(file('2017-na-speakers.json'))
+
+for talk in data:
+    new_abstract = pypandoc.convert_text(talk['abstract'], 'md', format='html')
+    talk['abstract'] = new_abstract
 
 for talk in data:
     if 'Workshop' in talk['title']:
