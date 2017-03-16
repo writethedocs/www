@@ -5,7 +5,7 @@ Venue
 
 This year's Portland conference will be held at the `Crystal Ballroom`_.
 It is a beautiful concert venue located in the `middle of downtown`_ Portland.
-It has been a wonderful venue for us the past 2 years,
+It has been a wonderful venue for us the past few years,
 and we expect this to be another wonderful year.
 
 .. image:: http://c308991.r91.cf1.rackcdn.com/SiteFiles/Venues/4784/048MG0488978.jpg

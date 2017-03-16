@@ -10,7 +10,7 @@ You can buy a ticket on our `ticket website <https://ti.to/writethedocs/write-th
 
 Ticket includes:
 
-* Entry to all conference events
+* Entry to all conference events (except paid workshops)
 * Breakfast, snacks, and lunch on both Conference days
 * Reception and Party that will have light snacks, and free drinks.
 * Wifi throughout the event

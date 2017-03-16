@@ -64,7 +64,7 @@
                           Sunday
                         </p>
                         <p class="schedule-home__desc">
-                        Join us for the <a href="/conf/na/2017/writing-day/">Writing Day</a> and Welcome Reception.
+                        Join us for the <a href="/conf/na/2017/writing-day/">Writing Day</a>, Workshops, and Welcome Reception.
                         The first official day of the conference is full of chances to interact with other documentarians.
                         </p>
                       </div>
@@ -122,8 +122,6 @@
                       </h3>
                       <p class="well__paragraph">
                       Write the Docs Portland 2017 is a bit over four months away and we hope you're getting excited!
-                      It will be another wonderful year full of great conversation and
-                      interesting talks...
                       </p>
                       <div class="well__time">
                         <span>3 PM</span>|<span>Jan 5, 2017</span>

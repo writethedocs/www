@@ -23,7 +23,7 @@ Burnside St**.
 
 During the day, we'll hold our :doc:`Writing Day documentation
 sprints </conf/na/2017/writing-day>`, followed by the conference
-reception in the evening.
+reception in the evening. It also includes two half-day Workshops.
 
 We encourage everyone to drop by on Sunday evening for the conference
 reception. You'll have a chance to get acquainted with each other over
