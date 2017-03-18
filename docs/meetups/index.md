@@ -43,8 +43,8 @@ and let us know. We'd be happy to promote it and list it here.
 
 ### Current Meetups: Asia
 
--   [Seoul, KR](http://www.meetup.com/write-the-docs-seoul/)
 -   [Kobe, JP](https://www.meetup.com/Write-the-Docs-Kobe/)
+-   [Seoul, KR](http://www.meetup.com/write-the-docs-seoul/)
 
 Know of a meetup not shown here? [Add it](https://github.com/writethedocs/www/blob/master/docs/meetups/index.md) to the list.
 
