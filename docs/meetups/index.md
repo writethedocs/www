@@ -55,5 +55,6 @@ Know of a meetup not shown here? [Add it](https://github.com/writethedocs/www/bl
    :hidden:
 
    nyc
+   philly
 
 ```

@@ -128,6 +128,7 @@ Additional Notes
    :maxdepth: 2
 
    about/index
+   contributing
 
 Write the Docs Resources
 ------------------------

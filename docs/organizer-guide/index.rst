@@ -18,12 +18,13 @@ If you're interested in helping start or organize a Write the Docs conference, s
 Meetups
 -------
 
-Information about the global Write the Docs meetups.
+Information about the global Write the Docs :doc:`/meetups/index`.
 
 .. toctree::
    :maxdepth: 2
 
-   meetups/index
+   meetups/starting
+   meetups/faq-meetups
 
 Conferences
 -----------
