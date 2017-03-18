@@ -1,9 +1,9 @@
 Starting a Meetup
 =================
 
-Write the Docs `Meetups <http://www.writethedocs.org/meetups/>`_ provide
+Write the Docs :doc:`/meetups/index` provide
 a great way to connect and continue the conversations sparked by our
-`conferences <http://www.writethedocs.org/conf/>`_, `slack channel
+:doc:`/conf/index`, `slack channel
 <http://slack.writethedocs.org/>`_ and `forum <http://forum.writethedocs.org/>`_ .
 If you don't have a Write the Docs Meetup nearby, we can help you get one started.
 With a little help, you can make it happen with a Meetup in your area!
@@ -17,9 +17,14 @@ Start by watching this video:
 Write the Docs Worldview
 ------------------------
 
-Yes, Write the Docs has a worldview. It's inclusive and expansive. We welcome everyone who is interested in creating great documentation that helps people develop, use, and maintain products and services. Our community includes technical writers, developers of all flavors, QA, product managers, support engineers, designers, librarians, scientists, community managers, and more.
+Yes, Write the Docs has a worldview. It's inclusive and expansive. We welcome
+everyone who is interested in creating great documentation that helps people
+develop, use, and maintain products and services. Our community includes
+technical writers, developers of all flavors, QA, product managers, support
+engineers, designers, librarians, scientists, community managers, and more.
 
-For more information about the Write the Docs worldview, see Eric Holscher's Introduction to the conference and community from Write the Docs NA 2016:
+For more information about the Write the Docs worldview, see Eric Holscher's
+Introduction to the conference and community from Write the Docs NA 2016:
 
 .. note:: For the tl:dr, start watching at the 1:30 mark.
 
@@ -32,9 +37,15 @@ Now for some details:
 Launch your Group
 -----------------
 
-Before you get started, check out our `Meetup FAQ <http://www.writethedocs.org/organizer-guide/meetups/faq-meetups/>`_.
 
-You can start a Write the Docs Meetup by using the `Meetup.com <http://www.meetup.com/>`_ service. You can use the website or the mobile app to create events, contact Meetup members, promote your sponsors, and more. If you need help with Meetup fees, `contact us <mailto:conf@writethedocs.org>`_. We may be able to help.
+Before you get started, check out our :doc:`/organizer-guide/meetups/faq-meetups/`.
+
+You can start a Write the Docs Meetup by using the `Meetup.com
+<http://www.meetup.com/>`_ service. You can use the website or the mobile app to
+create events, contact Meetup members, promote your sponsors, and more.
+
+- For advice on running meetups, or questions not covered here or in the :doc:`/organizer-guide/meetups/faq-meetups/`, drop us a line in `#meetup-organisers <https://writethedocs.slack.com/messages/meetup-organisers/>`_ on Slack.
+- For help with Meetup fees or technical issues, `email us <mailto:conf@writethedocs.org>`_.
 
 Create a Meetup Page:
 ~~~~~~~~~~~~~~~~~~~~~
@@ -48,7 +59,10 @@ Tips:
 * **Members' name**: Our standard name for members is "Documentarian".
 * **Code of Conduct**: Do include a code of conduct. For options, see the standard Write the Docs' :doc:`/code-of-conduct` or the abbreviated version used by `Write the Docs PDX <https://www.meetup.com/Write-The-Docs-PDX/pages/19618086/Code_of_Conduct/>`_
 
-After you've started your Meetup, `send us a note <mailto:conf@writethedocs.org>`_ or send us a message via `Slack <https://writethedocs.slack.com/>`_, so we can add your Meetup information to the :doc:`/meetups/index` list.
+After you've started your Meetup, `Add
+<https://github.com/writethedocs/www/blob/master/docs/meetups/index.md>`_ your
+meetup  to the list or send us `an email <mailto:conf@writethedocs.org>`_ so we
+can add your Meetup information to the :doc:`/meetups/index` list.
 
 Find a Place to Meet
 --------------------
