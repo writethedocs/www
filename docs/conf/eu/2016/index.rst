@@ -80,9 +80,9 @@ Can't wait?
 ^^^^^^^^^^^
 
 Check out the
-`videos <https://www.youtube.com/playlist?list=PLZAeFn6dfHplFNTsVdBuHk6vPZbsvHtDw>`_
+`videos on youtube <https://www.youtube.com/playlist?list=PLZAeFn6dfHplFNTsVdBuHk6vPZbsvHtDw>`_
 and
-`photos <https://www.flickr.com/writethedocs>`_ from last year. We also
+`photos on Flickr <https://www.flickr.com/writethedocs>`_ from last year. We also
 have a `guide <http://docs.writethedocs.org/>`_ for getting started
 writing documentation.
 
@@ -225,7 +225,7 @@ These folks will be helping cover the conference so people who can't attend stil
         <img src="/_static/img/2016/sponsors/itcqf.png" width=150/></a>
       </div>
     </div>
-    
+
 Production
 ~~~~~~~~~~
 

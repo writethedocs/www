@@ -51,7 +51,7 @@ speak.
 The first chance you will get to post your presentation is on Sunday, at our
 Writing Day event and preregistration party. Come down to our base of operations
 on Sunday, [Centrl Office][centrl], at any time during the day to get your
-badge, meet with fellow community members, and discuss topics for unconference
+badge, meet fellow community members, and discuss topics for unconference
 sessions.
 
 If you don't make it to the Writing Day event or preregistration party, be sure

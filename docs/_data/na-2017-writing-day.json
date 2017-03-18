@@ -1,11 +1,15 @@
 [
     {
-        "Time": "9:00", 
+        "Time": "8:30", 
         "Session": "Doors Open, Breakfast Served"
     }, 
     {
+        "Time": "9:00", 
+        "Session": "Morning Workshop Begins"
+    }, 
+    {
         "Time": "9:30", 
-        "Session": "Morning introduction - Introduction to Sprints & Project Introductions"
+        "Session": "Writing Day Introduction - Introduction to Sprints & Project Introductions"
     }, 
     {
         "Time": "10:00", 
@@ -13,7 +17,15 @@
     }, 
     {
         "Time": "12:30", 
-        "Session": "Lunch Break"
+        "Session": "Workshop 1 ends, Lunch Break"
+    }, 
+    {
+        "Time": "13:30", 
+        "Session": "Workshop 2 begins"
+    }, 
+    {
+        "Time": "17:00", 
+        "Session": "Workshop 2 end"
     }, 
     {
         "Time": "18:00", 

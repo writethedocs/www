@@ -37,6 +37,7 @@ Now for some details:
 Launch your Group
 -----------------
 
+
 Before you get started, check out our :doc:`/organizer-guide/meetups/faq-meetups/`.
 
 You can start a Write the Docs Meetup by using the `Meetup.com
@@ -171,12 +172,8 @@ You Don't Always Need a Speaker
 It is not always easy to find a speaker. Other meetups have done well with
 alternatives:
 
-* Coffee Klatches; suitable for meetups with a few people. The Seattle
-meetup has done well with this format.
-* Pure networking meetup; you can "roundtable" a specific topic; give each
-attendee a chance to talk about what they do
-
-
+* Coffee Klatches; suitable for meetups with a few people. The Seattle meetup has done well with this format.
+* Pure networking meetup; you can "roundtable" a specific topic; give each attendee a chance to talk about what they do.
 
 Starting the Meetup:
 --------------------
