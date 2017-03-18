@@ -22,17 +22,17 @@ and let us know. We'd be happy to promote it and list it here.
 -   [Boston, MA, USA](http://www.meetup.com/Write-the-Docs-BOS/)
 -   [Boulder/Denver, CO, USA](http://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/)
 -   [Houston, TX, USA](https://www.meetup.com/Write-the-Docs-Houston/)
--   [New York City, NY, USA](nyc.md) ([meetup.com](https://www.meetup.com/WriteTheDocsNYC/))
+-   [New York City, NY, USA](nyc.md) ([meetup.com](https://www.meetup.com/WriteTheDocsNYC/)) - Organised by [@WriteTheDocsNYC](https://twitter.com/WriteTheDocsNYC)
 -   [Ottawa, ON, CA](http://www.meetup.com/Write-The-Docs-YOW-Ottawa/)
 -   [Philadelphia, PA, USA](http://www.meetup.com/Write-The-Docs-Philly/)
--   [Portland, OR, USA](http://www.meetup.com/Write-The-Docs-PDX/)
+-   [Portland, OR, USA](http://www.meetup.com/Write-The-Docs-PDX/) - Organised by [@WriteTheDocsPDX](https://twitter.com/WriteTheDocsPDX)
 -   [San Francisco, CA, USA](http://www.meetup.com/Write-the-Docs/)
 -   [Seattle, WA, USA](http://www.meetup.com/Write-The-Docs-Seattle/)
 
 ### Current Meetups: Europe
 
 -   [Barcelona, ES](http://www.meetup.com/Write-the-Docs-Barcelona/)     
--   [Berlin, DE](http://www.meetup.com/Write-The-Docs-Berlin/). Organised by [plaindocs](https://twitter.com/plaindocs), [chrischinch](https://twitter.com/chrischinch).
+-   [Berlin, DE](http://www.meetup.com/Write-The-Docs-Berlin/). Organised by [@plaindocs](https://twitter.com/plaindocs), [@chrischinch](https://twitter.com/chrischinch).
 -   [Galway, IE](http://www.meetup.com/Write-The-Docs-Ireland/)
 -   [London, UK](http://www.meetup.com/Write-The-Docs-London/)
 -   [Munich, DE](https://www.meetup.com/Write-the-Docs-Munich/)
@@ -47,3 +47,13 @@ and let us know. We'd be happy to promote it and list it here.
 -   [Kobe, JP](https://www.meetup.com/Write-the-Docs-Kobe/)
 
 Know of a meetup not shown here? [Add it](https://github.com/writethedocs/www/blob/master/docs/meetups/index.md) to the list.
+
+```eval_rst
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+
+   nyc
+
+```
