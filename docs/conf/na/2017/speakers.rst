@@ -5,6 +5,9 @@ Conference Speakers
 
 {% set conf = "na-2017" %}
 
+.. contents::    :local:
+
+
 Workshops
 ----------
 
