@@ -123,9 +123,10 @@ def load_json(path):
         return json.load(fp)
 
 
+
 na_2015_speakers = load_json('_data/2015.na.speakers.json')
+
 na_speakers = load_json('_data/2016.speakers.json')
-na_2017_speakers = load_json('_data/2017-na-speakers.json')
 na_day1 = load_json('_data/na-2016-day-1.json')
 na_day2 = load_json('_data/na-2016-day-2.json')
 
@@ -133,7 +134,13 @@ eu_speakers = load_json('_data/2016.eu.speakers.json')
 eu_day1 = load_json('_data/eu-2016-day-1.json')
 eu_day2 = load_json('_data/eu-2016-day-2.json')
 
-for list_o_speakers in [na_speakers, eu_speakers, na_2017_speakers]:
+na_2017_speakers = load_json('_data/2017-na-speakers.json')
+
+na_2017_speakers_unconf = load_json('_data/2017/na-unconfs.json')
+na_2017_speakers_workshop = load_json('_data/2017/na-workshops.json')
+na_2017_speakers_talk = load_json('_data/2017/na-talks.json')
+
+for list_o_speakers in [na_speakers, eu_speakers, na_2017_speakers, na_2017_speakers_unconf, na_2017_speakers_workshop, na_2017_speakers_talk]:
     transform_speakers(list_o_speakers)
 
 for talk in na_day1 + na_day2:
@@ -169,6 +176,9 @@ html_context = {
     'eu_2016_speakers': eu_speakers,
     'na_2016_speakers': na_speakers,
     'na_2017_speakers': na_2017_speakers,
+    'na_2017_speakers_unconf': na_2017_speakers_unconf,
+    'na_2017_speakers_workshop': na_2017_speakers_workshop,
+    'na_2017_speakers_talk': na_2017_speakers_talk,
     'na_2016_day1': na_day1,
     'na_2016_day2': na_day2,
     'eu_2016_day1': eu_day1,
