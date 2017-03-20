@@ -4,7 +4,15 @@ ignorecase: true
 scope: text
 level: warning
 tokens:
-  - just
+  - clearly
+  - easily
   - easy
-  - simple
+  - essentially
+  - generally
+  - in order to
+  - just
+  - obvious
   - obviously
+  - of course
+  - simple
+  - utilize
