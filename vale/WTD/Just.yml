@@ -4,6 +4,7 @@ ignorecase: true
 scope: text
 level: warning
 tokens:
+  - awesome
   - clearly
   - easily
   - easy
