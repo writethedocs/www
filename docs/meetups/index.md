@@ -34,6 +34,7 @@ and let us know. We'd be happy to promote it and list it here.
 -   [Barcelona, ES](http://www.meetup.com/Write-the-Docs-Barcelona/)     
 -   [Berlin, DE](http://www.meetup.com/Write-The-Docs-Berlin/). Organised by [@plaindocs](https://twitter.com/plaindocs), [@chrischinch](https://twitter.com/chrischinch).
 -   [Galway, IE](http://www.meetup.com/Write-The-Docs-Ireland/)
+-   [Hamburg, DE](https://www.meetup.com/Write-the-Docs-Hamburg/)
 -   [London, UK](http://www.meetup.com/Write-The-Docs-London/)
 -   [Munich, DE](https://www.meetup.com/Write-the-Docs-Munich/)
 
