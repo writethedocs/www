@@ -1,38 +1,38 @@
 [
     {
-        "Time": "8:30", 
+        "Time": "8:30",
         "Session": "Doors Open, Breakfast Served"
-    }, 
+    },
     {
-        "Time": "9:00", 
-        "Session": "Morning Workshop Begins"
-    }, 
+        "Time": "9:00",
+        "Session": "Workshop begins: Structuring and writing documentation"
+    },
     {
-        "Time": "9:30", 
+        "Time": "9:30",
         "Session": "Writing Day Introduction - Introduction to Sprints & Project Introductions"
-    }, 
+    },
     {
-        "Time": "10:00", 
+        "Time": "10:00",
         "Session": "Team up and start working"
-    }, 
+    },
     {
-        "Time": "12:30", 
-        "Session": "Workshop 1 ends, Lunch Break"
-    }, 
+        "Time": "12:30",
+        "Session": "Workshop ends: Structuring and writing documentation. Lunch Break"
+    },
     {
-        "Time": "13:30", 
-        "Session": "Workshop 2 begins"
-    }, 
+        "Time": "13:30",
+        "Session": "Workshop begins: Learn how to Git"
+    },
     {
-        "Time": "17:00", 
-        "Session": "Workshop 2 end"
-    }, 
+        "Time": "17:00",
+        "Session": "Workshop ends: Learn how to Git"
+    },
     {
-        "Time": "18:00", 
+        "Time": "18:00",
         "Session": "End of Writing Day, Beginning of Reception"
-    }, 
+    },
     {
-        "Time": "21:00", 
+        "Time": "21:00",
         "Session": "End of Reception"
     }
 ]
