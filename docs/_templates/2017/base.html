@@ -37,17 +37,17 @@
     display: none;
   }
   </style>
-    
+
 </head>
 <body>
   {% include "2017/na-menu.html" %}
 
   <div class="container-fluid">
-    
+
     <!-- MAIN SECTION -->
     {% block container %}
     {% endblock %}
-    
+
     <!-- FOOTER BLOCK -->
     <section class="join">
       <div class="container">
@@ -59,7 +59,7 @@
         </div>
       </div>
     </section>
-    
+
     <section class="instagram">
       <div class="owl-carousel" id="owl-instagram">
         <a href="https://www.flickr.com/photos/writethedocs/14151785456/in/album-72157644692192083/" class="instagram__tile">
@@ -91,12 +91,14 @@
         <div class="row">
           <div class="col-xs-12 col-md-9 text-xs-center text-md-left">
             <ul class="list-unstyled footer__copy copy">
-              <li><p class="copy__item copy__item--first">© 2017 Write the Docs</p></li>
+              <li><p class="copy__item copy__item--first">© 2017 Write the Docs</p> </li>
+              <li><a class="copy__item" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a></li>
               <li><a href="{{ pathto('code-of-conduct') }}" class="copy__item">Code of Conduct</a></li>
               <li><a href="{{ pathto('index') }}" class="copy__item">Write the Docs</a></li>
+
             </ul>
           </div>
-          <div class="col-xs-12 col-md-3 text-xs-center text-md-right"> 
+          <div class="col-xs-12 col-md-3 text-xs-center text-md-right">
             <ul class="socials list-inline">
               <li><a href="https://twitter.com/writethedocs" class="socials__item">&#xe906;</a></li>
               <li><a href="https://www.flickr.com/photos/writethedocs/" class="socials__item socials__item--flickr">&#xe905;</a></li>
