@@ -9,7 +9,7 @@
         <div class="col-xs-10>
           <p class=">
 
-:ref:`{{ talk.Session }} <{{ talk.Session|slugify }}>`
+`{{ talk.Session }} <../speakers#{{ talk.Session|slugify }}>`_
 
 .. raw:: html
 
