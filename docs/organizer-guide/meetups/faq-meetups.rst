@@ -46,5 +46,5 @@ feel free to raffle it off to your meetup group.
 
 We give North American meetups a ticket to the NA conference,
 and European meetups a ticket to the EU conference.
-If you're in another locale,
+If you're on another continent,
 you can have one for which ever makes more sense for your group!
