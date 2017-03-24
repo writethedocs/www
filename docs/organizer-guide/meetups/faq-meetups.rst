@@ -36,3 +36,13 @@ Yes, as long as the sponsoring company or organization adheres to the following 
 * Sponsorship contributions should be directly proportionate to the needs of the meetup. Our meetups are not-for-profit and also reflect the `Write the Docs worldview <http://www.writethedocs.org/organizer-guide/meetups/starting/#write-the-docs-worldview>`_. This means that aggressive recruitement techniques and other marketing-heavy actions during the meetup will be considered a violation of our `Code of Conduct <http://www.writethedocs.org/code-of-conduct/>`_.
 
 * If you have any questions regarding a specific sponsorship offer or request, please do not hesitate to `email us <mailto:support@writethedocs.org>`_ or ask a question in the #meetup-organisers channel on our Slack.
+
+Anything else I get for organizing a meetup?
+--------------------------------------------
+
+We give each meetup a ticket to a Write the Docs conference for one of the organizers as a way to say thanks.
+If you don't need it,
+feel free to raffle it off to your meetup group.
+
+We give North American meetups a ticket to the NA conference,
+and European meetups a ticket to the EU conference.
