@@ -84,6 +84,12 @@
                 "slug": "margaret-eker",
                 "twitter": "meker",
                 "details": ""
+            },
+            {
+                "name": "Laura Stewart",
+                "slug": "laura-stewart",
+                "twitter": "",
+                "details": ""
             }
         ],
         "abstract": "<p>Writers often forget that users are more likely to see error messages, tooltips, and helper text than to search for documentation. But these bits of microcopy are actually an opportunity to communicate and connect with users when they most need it. Most errors say that something went wrong, but the user doesn't know if it's their fault or what to do about it. As writers, designers, and developers, we need to help them fix the problem and teach them what to do next time.</p><p>Microcopy is also a chance to create friendly relationships and establish your brand with your audience. Users are less likely to get frustrated if the error message has a personal and human sentiment than if it merely says &quot;ACCESS DENIED&quot;, or &quot;FORBIDDEN ACTION&quot;. In this talk I show how making error messages Humble, Human, and Helpful is critical to making your users Happy. We'll laugh at a few bad errors, and learn from the good error messages and microcopy.</p>",
