@@ -15,6 +15,8 @@ To generate the docs locally:
 
 4. In the `docs` directory, run `make livehtml` to view the docs on [http://127.0.0.1:8888/](http://127.0.0.1:8888/).
 
+If you're not seeing new content in the local preview, run `make clean` to delete the generated files, then `make livehtml` to regenerate them.
+
 The Write the Docs website is hosted on [Read the Docs](https://readthedocs.org/projects/writethedocs-www).
 
 ## Viewing changes on staging
