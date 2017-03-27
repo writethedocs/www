@@ -22,6 +22,13 @@ While these tools help you with the technical details, they don't create good de
 
 .. _documentation-driven-design:
 
+Test-Driven Documentation
+-------------------------
+
+Test-driven documentation aims to improve upon the typical approaches to automated documentation. It allows you to write the bulk of the documentation by hand while also ensuring its accuracy by using your API's tests to generate some of the content.
+
+Projects such as `Spring REST Docs <https://spring.io/projects/spring-restdocs>`_ use your API's tests to generate small snippets of documentation that can be included in hand-written API documentation. The accuracy of the documentation is ensured by the tests – if the API's documentation becomes inconsistent with its implementation the tests that generate the snippets will fail.
+
 Documentation Driven Design
 ---------------------------
 
