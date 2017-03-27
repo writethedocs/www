@@ -89,7 +89,7 @@ Main Stage
         <td class=" schedule-time">{{ talk.Time }}</td>
         <td>
 
-:ref:`{{ talk.Session }} <speaker-eu-2016-{{ talk.slug }}>`
+`{{ talk.Session }} <../speakers#speaker-eu-2016-{{ talk.slug }}>`_
 
 .. raw:: html
 
@@ -131,7 +131,7 @@ Main Stage
         <td class=" schedule-time">{{ talk.Time }}</td>
         <td>
 
-:ref:`{{ talk.Session }} <speaker-eu-2016-{{ talk.slug }}>`
+`{{ talk.Session }} <../speakers#speaker-eu-2016-{{ talk.slug }}>`_
 
 .. raw:: html
 

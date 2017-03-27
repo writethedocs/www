@@ -34,7 +34,7 @@ you can continue your conversations over more substantial food as well.
    <table class="schedule">
    <tr>
     <td class="schedule-time">9 AM</td>
-    <td><a href="/conf/na/2016/writing-day/">Writing Day</a> documentation sprints begin 
+    <td><a href="/conf/na/2016/writing-day/">Writing Day</a> documentation sprints begin
    </tr>
    <tr>
     <td class="schedule-time">9:30 AM</td>
@@ -61,7 +61,7 @@ The main conference will take place at the **Crystal Ballroom located at 1332 W
 Burnside St**.
 
 This is the main event! Hear from lots of interesting folks about all
-things documentation. 
+things documentation.
 
 
 Main Stage
@@ -75,7 +75,7 @@ Main Stage
         <td class=" schedule-time">{{ talk.Time }}</td>
         <td>
 
-:ref:`{{ talk.Session }} <speaker-{{ talk.slug }}>`
+`{{ talk.Session }} <speaker-{{ talk.slug }}>`_
 
 .. raw:: html
 
@@ -118,7 +118,7 @@ Main Stage
         <td class=" schedule-time">{{ talk.Time }}</td>
         <td>
 
-:ref:`{{ talk.Session }} <speaker-{{ talk.slug }}>`
+`{{ talk.Session }} <speaker-{{ talk.slug }}>`_
 
 .. raw:: html
 
