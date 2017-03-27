@@ -1,7 +1,7 @@
 Slack
 =====
 
-To join our Slack network, you can `request an invite <http://slack.writethedocs.org/>`_.
+To join our Slack network, you can `get an invite <http://slack.writethedocs.org/>`_ automatically.
 
 Our Slack network has a bunch of interesting folks hanging out and chatting about documentation.
 It's the best way to connect with our community,
