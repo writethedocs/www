@@ -75,7 +75,7 @@ Main Stage
         <td class=" schedule-time">{{ talk.Time }}</td>
         <td>
 
-`{{ talk.Session }} <speaker-{{ talk.slug }}>`_
+`{{ talk.Session }} <#speaker-{{ talk.slug }}>`_
 
 .. raw:: html
 
@@ -118,7 +118,7 @@ Main Stage
         <td class=" schedule-time">{{ talk.Time }}</td>
         <td>
 
-`{{ talk.Session }} <speaker-{{ talk.slug }}>`_
+`{{ talk.Session }} <#speaker-{{ talk.slug }}>`_
 
 .. raw:: html
 
