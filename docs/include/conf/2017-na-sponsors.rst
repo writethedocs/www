@@ -26,6 +26,9 @@
         <a href="https://www.redhat.com/">
         <img src="/_static/img/sponsors/redhat.png" class="sponsor-image" style="width:100px;padding:40px 0 0 0" />
         </a>
+        <a href="https://www.marketo.com/">
+        <img src="/_static/img/sponsors/marketo.png" class="sponsor-image" style="width:100px;padding:40px 0 0 0" />
+        </a>
       </div>
       <div class="row">
 
