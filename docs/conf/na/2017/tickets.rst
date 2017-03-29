@@ -44,7 +44,7 @@ don't currently have a source of income.
 Workshop Tickets
 ----------------
 
-We offer 2 `workshops <http://www.writethedocs.org/conf/na/2017/workshops/`_ during the writing day.
+We offer 2 `workshops <http://www.writethedocs.org/conf/na/2017/workshops/>`_ during the writing day.
 These workshops are not included in the conference ticket and require separate registration.
 
 * $100 for each workshop

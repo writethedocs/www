@@ -10,7 +10,7 @@ The main goal of the workshops is to bring together folks who are interested to 
 What can I learn in the workshops?
 ----------------------------------
 
-This year we have 2 workshops that cover one writing-related topic and one development-related topic. This is a part of our efforts to cross-train the different roles that our community members encompass.
+This year we have two workshops, one that covers writing related topics and one that covers development related topics.
 
 For specific information about this year's topics, see the `Sessions page <http://www.writethedocs.org/conf/na/2017/speakers/>`_. The workshop sessions are labeled with a "Workshop" prefix.
 
@@ -23,11 +23,11 @@ In short, no. Due to the amount of work required by the instructors to prepare t
 
 We created individual tickets on our `registration website <https://ti.to/writethedocs/write-the-docs-na-2017/>`_ so that you can register to whichever workshop you choose separately.
 
-The workshops have a limited capacity to support an effective and comfortable learning experience.
+The workshops have a limited capacity of **30 people**, so we can provide an effective and comfortable learning experience.
 
 What should I do to prepare for the workshop?
 ---------------------------------------------
 
 Get excited about learning a new thing! Of course, bringing a laptop or writing tools to take notes is usually recommended.
 
-Some workshops might require a laptop with some software prerequisites; those will be communicated to the workshop participants by email closer to the workshop date.
+Workshops require a laptop with some software prerequisites; participants will receive an email listing any (software) requirements well in advance.
