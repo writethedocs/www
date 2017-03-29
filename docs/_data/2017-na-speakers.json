@@ -84,6 +84,12 @@
                 "slug": "margaret-eker",
                 "twitter": "meker",
                 "details": ""
+            },
+            {
+                "name": "Laura Stewart",
+                "slug": "laura-stewart",
+                "twitter": "",
+                "details": ""
             }
         ],
         "abstract": "<p>Write the Docs is filled with great conversations about documentation. If you want to continue the conversation, we have Meetups on four continents.</p><p>If you’re a Meetup leader, or want to start your own Write the Docs Meetup, come to our unconference session. We’ll facilitate while current and future Meetup leaders discuss strategies and tips for better Write the Docs Meetups.</p><p>Potential topics:</p><ul><li><p>Building a community</p></li><li><p>Getting speakers</p></li><li><p>Finding sponsors</p></li><li><p>Attracting members</p></li><li><p>Diversifying beyond technical writers</p></li><li><p>Sharing the organizer role</p></li><li><p>Evangelizing WTD to development and other groups</p></li>",
