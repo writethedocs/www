@@ -64,7 +64,7 @@
                           Sunday
                         </p>
                         <p class="schedule-home__desc">
-                        Join us for the <a href="/conf/na/2017/writing-day/">Writing Day</a>, Workshops, and Welcome Reception.
+                        Join us for the <a href="/conf/na/2017/writing-day/">Writing Day</a>, <a href="/conf/na/2017/workshops/">Workshops</a>, and Welcome Reception.
                         The first official day of the conference is full of chances to interact with other documentarians.
                         </p>
                       </div>
@@ -79,7 +79,7 @@
                         </p>
                         <p class="schedule-home__desc">
                           The main days of the conference.
-                          We will be running our main track in the Ballroom,
+                          We will be running our <a href="/conf/na/2017/speakers/">main track</a> in the Ballroom,
                           and the <a href="/conf/na/2017/unconference/">Unconference</a> downstairs in Lola's Room.
                         </p>
                       </div>
