@@ -20,6 +20,8 @@
                   <div class="col-xs-12 col-md-7 text-xs-center text-md-right">
                     <div class="buy-ticket__2nd-col">
                       <a href="https://ti.to/writethedocs/write-the-docs-na-2017/" class="btn btn-primary button button--narrow buy-ticket__ticket">Buy a ticket!</a>
+                      <p class="buy-ticket__p">then</p>
+                      <a href="/conf/na/2017/welcome-wagon/" class="btn btn-primary button button--narrow buy-ticket__talk">Jump on the Welcome Wagon!</a>
                     </div>
                   </div>
                 </div>
@@ -64,7 +66,7 @@
                           Sunday
                         </p>
                         <p class="schedule-home__desc">
-                        Join us for the <a href="/conf/na/2017/writing-day/">Writing Day</a>, Workshops, and Welcome Reception.
+                        Join us for the <a href="/conf/na/2017/writing-day/">Writing Day</a>, <a href="/conf/na/2017/workshops/">Workshops</a>, and Welcome Reception.
                         The first official day of the conference is full of chances to interact with other documentarians.
                         </p>
                       </div>
@@ -79,7 +81,7 @@
                         </p>
                         <p class="schedule-home__desc">
                           The main days of the conference.
-                          We will be running our main track in the Ballroom,
+                          We will be running our <a href="/conf/na/2017/speakers/">main track</a> in the Ballroom,
                           and the <a href="/conf/na/2017/unconference/">Unconference</a> downstairs in Lola's Room.
                         </p>
                       </div>

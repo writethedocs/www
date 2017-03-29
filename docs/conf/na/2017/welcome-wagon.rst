@@ -11,7 +11,8 @@ You can also email
 `Christy <mailto:canncrochet@gmail.com>`__ or
 `Leona <mailto:leona.campbell@jivesoftware.com>`__ if we can help make
 your first time at the conference easier.
-When you get to the conference, Come :ref:`say hello <say-hello>`.
+When you get to the conference,
+come :ref:`say hello <say-hello>`.
 
 We've gathered important stuff here that will help you navigate the
 conference like a pro, make you feel more at home, and help you to
