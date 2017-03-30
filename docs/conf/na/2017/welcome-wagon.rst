@@ -143,7 +143,7 @@ public transportation or a taxi there.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `Conference talks in the Crystal
-Ballroom <http://www.writethedocs.org/conf/na/2017/speakers/>`__
+Ballroom <http://www.writethedocs.org/conf/na/2017/speakers/>`__ <--Link broken
 
 -  The time between talks is for meeting your colleagues or taking a
    break. During the talks, listen and take in as much as you can.
@@ -290,5 +290,5 @@ This document was inspired by other conferences doing great work in this area.
 In particular,
 these two documents were heavily used as a reference:
 
-* http://doubleyouraudience.com/microconf-guide/
+* Double your Audience Microconference Guide
 * http://www.pydanny.com/beginners-guide-pycon-2014.html
