@@ -101,6 +101,22 @@
 
                 <div class="row">
                   <div class="col-xs-12 col-md-4">
+                    <a href="news/announcing-workshops/" class="well news__tile">
+                      <h3 class="well__title">
+                        Announcing Workshops
+                      </h3>
+                      <p class="well__paragraph">
+                      ... we feel that since the workshops are a new type of activity,
+                      they deserve their own announcement!
+                      </p>
+                      <div class="well__time">
+                        <span>3 PM</span>|<span>Apr 1, 2017</span>
+                      </div>
+                    </a>
+                  </div>
+
+                <div class="row">
+                  <div class="col-xs-12 col-md-4">
                     <a href="news/announcing-presentations/" class="well news__tile">
                       <h3 class="well__title">
                         Announcing Presentations and Speakers
