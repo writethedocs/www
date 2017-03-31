@@ -1,5 +1,14 @@
 :template: 2016/na.html
 
+{% set dont_link = ['Lunch',
+                    'Snack break',
+                    'Switch Speakers',
+                    'Doors Open, Breakfast Served',
+                    'Introduction & State of the Docs',
+                    'Lightning Talks',
+                    'Day 1 wraps up',
+                    'Closing & Group Photo',
+                    'Day 2 wraps up'] %}
 
 Schedule
 ========
@@ -75,10 +84,17 @@ Main Stage
         <td class=" schedule-time">{{ talk.Time }}</td>
         <td>
 
+        {% if talk.Session in dont_link %}
+
+        {{ talk.Session}}
+
+        {% else %}
+
 `{{ talk.Session }} </conf/na/2016/speakers/#speaker-{{ talk.slug }}>`_
 
 .. raw:: html
 
+        {% endif %}
         </td>
       </tr>
 
@@ -118,9 +134,17 @@ Main Stage
         <td class=" schedule-time">{{ talk.Time }}</td>
         <td>
 
+        {% if talk.Session in dont_link %}
+
+        {{ talk.Session}}
+
+        {% else %}
+
 `{{ talk.Session }} </conf/na/2016/speakers/#speaker-{{ talk.slug }}>`_
 
 .. raw:: html
+
+        {% endif %}
 
         </td>
       </tr>
