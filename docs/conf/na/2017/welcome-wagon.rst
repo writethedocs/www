@@ -3,7 +3,7 @@
 Welcome Wagon
 =============
 
-Hello! 
+Hello!
 
 We're your Welcome Wagon, and we're glad you're coming to the 2017 Write the Docs conference!
 Feel free to tweet us at `@canncrochet <https://twitter.com/canncrochet>`__ or `@runleonarun <https://twitter.com/runleonarun>`__.
@@ -142,8 +142,7 @@ public transportation or a taxi there.
 **What should I do during the talks?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Conference talks in the Crystal
-Ballroom <http://www.writethedocs.org/conf/na/2017/speakers/>`__ <--Link broken
+:doc:`/conf/na/2017/speakers/`
 
 -  The time between talks is for meeting your colleagues or taking a
    break. During the talks, listen and take in as much as you can.
