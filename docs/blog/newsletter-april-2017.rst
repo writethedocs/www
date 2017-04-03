@@ -21,7 +21,7 @@ The Art of the Bug Report
 First up this month, someone asked the channel for a good example of how to document a bug. The community came through with suggestions for a template that includes:
 
 * Environment: affected software and versions
-* Summary in narrative form, such as "While testing feature x, I encountered z."
+* Summary in narrative form, such as "While testing feature *x*, I encountered *z*."
 * Steps to reproduce the bug
 * Results and impacts, including severity level
 * Workarounds
