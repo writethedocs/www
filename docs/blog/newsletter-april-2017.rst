@@ -71,7 +71,7 @@ The advice for those who want to feel more at home using command-line Git? Pract
 2017 Stack Overflow Developer Survey
 ####################################
 
-The annual Stack Overflow Developer survey was released this month! https://stackoverflow.com/insights/survey/2017/. Among 2017's tidbits – which include findings on the most dreaded coding language and the feasibility of sharing an office with a noisy-keyboard-user – **more than 80% of respondents said that they use official documentation to learn**.
+The annual Stack Overflow Developer survey was released this month! https://stackoverflow.com/insights/survey/2017/. Among 2017's tidbits – which include findings on the most dreaded coding language and the feasibility of sharing an office with a noisy-keyboard-user – **more than 80% of respondents said that they use official documentation to learn**. That was even higher than the number who used Stack Overflow, who did the survey!
 
 ------------------------------------------
 
