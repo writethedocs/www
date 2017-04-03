@@ -1,6 +1,9 @@
-*********************************
-Write the Docs Newsletter - April
-*********************************
+.. post:: April 3, 2017
+   :tags: newsletter, bug report, metrics, git, cli, survey, stackoverflow
+
+**************************************
+Write the Docs Newsletter - April 2017
+**************************************
 
 Spring has Sprung!
 ##################
@@ -34,14 +37,6 @@ But how to get that info into release notes? One participant reported his team's
 
 ------------------------------------------
 
-2017 Stack Overflow Developer Survey
-####################################
-
-The annual Stack Overflow Developer survey was released this month! https://stackoverflow.com/insights/survey/2017/. Among 2017's tidbits – which include findings on the most dreaded coding language and the feasibility of sharing an office with a noisy-keyboard-user – **more than 80% of respondents said that they use official documentation to learn**.
-
-------------------------------------------
-
-
 Documentation Metrics: What to Track and How
 ############################################
 
@@ -73,9 +68,14 @@ The advice for those who want to feel more at home using command-line Git? Pract
 
 ------------------------------------------
 
+2017 Stack Overflow Developer Survey
+####################################
+
+The annual Stack Overflow Developer survey was released this month! https://stackoverflow.com/insights/survey/2017/. Among 2017's tidbits – which include findings on the most dreaded coding language and the feasibility of sharing an office with a noisy-keyboard-user – **more than 80% of respondents said that they use official documentation to learn**.
+
+------------------------------------------
 
 Looking Ahead
 ###############
 
-Write the Docs North America is right on the horizon, and Write the Docs EU isn't going to be far behind! We'll be opening the CFP up shortly after the Portland conference, so now is a great time to be thinking about a talk you might want to submit! In the meantime, if May (or September) are just too far away to bear, remember you can always check out `your nearest meetup <http://www.writethedocs.org/meetups/>`_, or `start one yourself <https://www.youtube.com/watch?v=ZwQ8Kd48d0w&t=7s>`_!
-
+Write the Docs Portland is right on the horizon, and Write the Docs Prague isn't going to be far behind! We'll be opening the CFP up shortly, so now is a great time to be thinking about a talk you might want to submit! In the meantime, if May (or September) are just too far away to bear, remember you can always check out `your nearest meetup <http://www.writethedocs.org/meetups/>`_, or `start one yourself <http://www.writethedocs.org/organizer-guide/meetups/starting/>`_!
