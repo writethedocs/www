@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Use like::
 
@@ -33,4 +34,4 @@ if not content:
 content = re.sub(r'<a class="headerlink" .+</a>', '', content)
 
 
-print content
+print(content)
