@@ -152,10 +152,12 @@
 
                       {% for speaker in talk.speakers %}
                       <div class="col-xs-6 col-md-1-5 text-center">
+                        <a href="speakers/#speaker-{{ speaker.slug }}">
                         <div class="person">
                           <img src="/_static/img/speakers/{{ speaker.img_file }}" alt="{{speaker.name}}" class="person__img" style="border-radius: 50%"/>
                           <p class="person__name">{{speaker.name}}</p>
                         </div>
+                        </a>
                       </div>
 
                       {% endfor %}
