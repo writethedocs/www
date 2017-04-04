@@ -57,7 +57,7 @@ html:
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 
 livehtml:
-	sphinx-autobuild -p 8888 -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/html
+	sphinx-autobuild -p 8888  -z _data -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/html
 
 oldhtml:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
