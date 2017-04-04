@@ -64,7 +64,7 @@ Toward the end of the month, a request for an expert to help with learning comma
 
 Also noted: there's nothing wrong with using Git in a desktop app or on the web! Folks mentioned `SourceTree <https://www.sourcetreeapp.com/>`_ and `Bitbucket <https://bitbucket.org/>`_ as GitHub alternatives.
 
-The advice for those who want to feel more at home using command-line Git? Practice, practice, practice--repetition makes perfect.
+The advice for those who want to feel more at home using command line Git? Practice, practice, practice--repetition makes perfect.
 
 ------------------------------------------
 
