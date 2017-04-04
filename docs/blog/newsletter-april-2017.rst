@@ -60,7 +60,7 @@ Toward the end of the month, a request for an expert to help with learning comma
 * `tryGit <https://try.github.io>`_
 * `The SilverLogic Git Fire Drill <https://tsl.io/git-fire-drill/>`_
 * `Pro Git by by Scott Chacon and Ben Straub <https://www.git-scm.com/book/en/v2>`_
-* `Learn Git Branching <learngitbranching.js.org>`_
+* `Learn Git Branching <http://learngitbranching.js.org>`_
 
 Also noted: there's nothing wrong with using Git in a desktop app or on the web! Folks mentioned `SourceTree <https://www.sourcetreeapp.com/>`_ and `Bitbucket <https://bitbucket.org/>`_ as GitHub alternatives.
 
