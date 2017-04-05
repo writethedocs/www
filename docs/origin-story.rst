@@ -6,6 +6,7 @@ The first documentation of the emerging documentarian community comes appropriat
 
 .. image:: /_static/img/origin-tweet.png
    :width: 75%
+   :target: https://twitter.com/ericholscher/status/287998770011074560
 
 What happened next is best told in the words of one of the founders,
 Troy Howard.
@@ -14,12 +15,14 @@ before the second conference.
 So read it,
 and ponder just how far we've come since then.
 
-We'll let `Troy <https://twitter.com/thoward37>`_ tell the `story <http://blog.thoward37.me/articles/developer-to-documentarian/>`_ from here.
-
 .. _tweet: https://twitter.com/ericholscher/status/287998770011074560
 
-History by Troy Howard
-----------------------
+History 
+-------
+
+We'll let `Troy <https://twitter.com/thoward37>`_ tell the `story <http://blog.thoward37.me/articles/developer-to-documentarian/>`_ from here:
+
+----------
 
 Background
 ~~~~~~~~~~
@@ -117,6 +120,8 @@ Francisco <http://www.meetup.com/Write-the-Docs/>`__,
 `Boston <https://www.meetup.com/write-the-docs-bos/>`__, and `New
 York <http://www.meetup.com/Write-The-Docs-NY/>`__. We're working on
 building more.
+
+----------
 
 Where we are now
 ----------------
