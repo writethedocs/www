@@ -1,12 +1,26 @@
 Origin Story
 ============
 
-The story of how Write the Docs came to be has been told, but it's time to put it up on our own site.
-The first documentation of the emerging documentarian community comes appropriately enough in the form of a `tweet`_ from early 2013:
+Write the Docs was founded by Troy Howard, Eric Redmond, and Eric Holscher in 2013.
+This page tells some of the story,
+so that you can see our origins,
+and understand where we're coming from.
+
+The community has :doc:`grown </blog/write-the-docs-2016-year-in-review>`_ a lot from this point,
+and we're glad you're with us for the ride.
+
+History 
+-------
+
+The story of how Write the Docs came to be has been told before,
+but it's time to put it up on our own site.
+The first sign of the emerging documentarian community comes in the form of a `tweet`_ from early 2013:
 
 .. image:: /_static/img/origin-tweet.png
    :width: 75%
    :target: https://twitter.com/ericholscher/status/287998770011074560
+
+.. _tweet: https://twitter.com/ericholscher/status/287998770011074560
 
 What happened next is best told in the words of one of the founders,
 Troy Howard.
@@ -14,11 +28,6 @@ He wrote it in early 2014,
 before the second conference.
 So read it,
 and ponder just how far we've come since then.
-
-.. _tweet: https://twitter.com/ericholscher/status/287998770011074560
-
-History 
--------
 
 We'll let `Troy <https://twitter.com/thoward37>`_ tell the `story <http://blog.thoward37.me/articles/developer-to-documentarian/>`_ from here:
 
