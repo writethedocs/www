@@ -132,12 +132,28 @@
                     <div class="section__header subheader">
                       <span class="subheader__yellow"></span>
                       <h2 class="subheader__header">Latest News</h2>
-                      <a href="news.html" class="subheader__more">Read all news</a>
+                      <a href="news/" class="subheader__more">Read all news</a>
                     </div>
                   </div>
                 </div>
 
                 <div class="row">
+                  <div class="col-xs-12 col-md-4">
+                    <a href="news/announcing-workshops/" class="well news__tile">
+                      <h3 class="well__title">
+                        Announcing Workshops
+                      </h3>
+                      <p class="well__paragraph">
+                      ... we feel that since the workshops are a new type of activity,
+                      they deserve their own announcement!
+                      </p>
+                      <div class="well__time">
+                        <span>3 PM</span>|<span>Apr 1, 2017</span>
+                      </div>
+                    </a>
+                  </div>
+
+
                   <div class="col-xs-12 col-md-4">
                     <a href="news/announcing-presentations/" class="well news__tile">
                       <h3 class="well__title">
@@ -153,7 +169,7 @@
                     </a>
                   </div>
 
-                <div class="col-xs-12 col-md-4">
+                  <div class="col-xs-12 col-md-4">
                     <a href="news/announcing-tickets-cfp-website/" class="well news__tile">
                       <h3 class="well__title">
                         Announcing Call for Proposals, Ticket Sales and Website
@@ -166,6 +182,7 @@
                       </div>
                     </a>
                   </div>
+
                 </div>
               </section>
 
