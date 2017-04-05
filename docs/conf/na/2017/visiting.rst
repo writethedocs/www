@@ -53,15 +53,33 @@ such as Gresham, Beaverton, Clackamas, and Hillsboro.
 If you're flying into Portland Airport (PDX), we recommend taking the
 MAX into downtown Portland. There is a MAX station for the `red
 line <http://trimet.org/schedules/maxredline.htm>`__ in the airport
-itself. The closest red line stop to the Crystal Ballroom is the
-Galleria SW 10th stop.
+itself.
 
-The Streetcar and Buses
-~~~~~~~~~~~~~~~~~~~~~~~
+The venue is along Burnside Street at 14th Ave, just east of the I-405 underpass. Normally the closest Red Line stop to the Crystal Ballroom would be at Galleria SW 10th. However...
 
-For getting around within and around downtown Portland, the
-`Streetcar <http://www.portlandstreetcar.org/>`__ can be a good option.
-Portland also has an extensive `bus network <http://trimet.org/bus/>`__.
+Transit Construction during the Conference
+------------------------------------------
+During the entire conference, the Red Line will run its normal route from the airport but only as far as the Rose Quarter Transit Center. This is about two-thirds of the way to the closest stop to the venue. Service will also be less frequent.
+
+There will be two options beyond the Rose Quarter:
+
+- Stay on the Red Line as it detours along the Yellow Line (south along 5th Ave) toward PSU (Portland State University).
+
+  The closest stop to 5th & Burnside is at NW Couch St. Walk a block south, then turn right onto Burnside.
+
+- Take the shuttle bus from Rose Quarter to Providence Park. There will be a good few stops along the way. The route will not be direct, as there is also sewer construction.
+
+The TriMet web site has `all the details <http://news.trimet.org/2017/04/morrison-yamhill-max-improvements-project-to-require-max-and-portland-streetcar-disruptions/>`__. However their embedded maps do not zoom very well. Here is `The MAX detour map <http://news.trimet.org/wordpress/wp-content/uploads/2017/04/Morrision-Yamhill-MAX-Improvements-Map-968x1024.png>`__, along with the `regular rail transit map <https://trimet.org/maps/img/railsystem.png>`__ for both the MAX and Portland Streetcar lines (see below).
+
+This means you cannot get as close to the venue as normal without a walk or a transfer. However these are not epic distances.
+
+Streetcars and Buses
+--------------------
+Meanwhile there is good news. Portland has a `separate streetcar network <http://www.portlandstreetcar.org/>`__ which criss-crosses the MAX lines. These, along with Portland's extensive `bus network <http://trimet.org/bus/>`__, ought to suffice.
+
+The streetcar loop lines are also under construction, but only through Saturday 14 May. This means their detours will only matter during the day of the hike. They may be your lifeline during the rest of the conference.
+
+The streetcars run along 10th and 11th Avenues. The closest stops to the venue are also on Couch Street. There is also a Whole Foods Market at NW Couch & 12th Ave. See the `Streetcar Loop detour map <http://news.trimet.org/wordpress/wp-content/uploads/2017/04/Morrison-Yamhill-MAX-Improvements-Streetcar-Service-Map.png>`__ for details.
 
 Taxi Companies
 ~~~~~~~~~~~~~~
