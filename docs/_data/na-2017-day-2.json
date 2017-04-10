@@ -65,6 +65,14 @@
     }, 
     {
         "Time": "15:40", 
-        "Session": "Snack break"
+        "Session": "Closing Announcements"
+    },
+    {
+        "Time": "16:00", 
+        "Session": "Snacks & milling about and chatting with other attendees"
+    },
+    {
+        "Time": "19:00", 
+        "Session": "Write the Docs meetup social and conference after-party"
     }
 ]
