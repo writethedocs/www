@@ -20,7 +20,7 @@ The hike starts at **2pm** on Saturday.
 Sunday, May 14
 --------------
 
-Writing Day & Reception will be held at **Crystal Ballroom located at 1332 W
+The Writing Day, Workshops, & Reception will be held at **Crystal Ballroom located at 1332 W
 Burnside St**.
 
 During the day, we'll hold our :doc:`Writing Day documentation
