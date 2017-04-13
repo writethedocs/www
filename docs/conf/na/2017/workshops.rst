@@ -7,6 +7,9 @@ This year we are launching workshops, a new activity type inspired once again by
 
 The main goal of the workshops is to bring together folks who are interested to learn from different experts in relevant fields in a focused environment.
 
+- Date & Time: **Sunday, May 14th, 9am-5pm**
+- Location: **Crystal Ballroom, 1332 W Burnside St**. We will be in Lola's Room (on the second floor).
+
 Workshop Schedule
 -----------------
 
