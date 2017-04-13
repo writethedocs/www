@@ -17,7 +17,9 @@ beautiful this year! We shall see Mount Hood at the top :)
 Logistics
 ---------
 
-This event will be ticketed seperately. 
+.. note:: This event is ticketed seperately. Get your `free ticket`_ now.
+
+.. _free ticket: https://ti.to/writethedocs/write-the-docs-na-2017/with/lq5znqaxpni
 
 -  Date & Time: Leaves promptly at **Saturday, May 13, 2 PM**. Meet at
    **1:45**.
