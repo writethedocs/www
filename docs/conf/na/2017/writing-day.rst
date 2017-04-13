@@ -22,13 +22,6 @@ Writing Day Schedule (Free for attendees)
    :source: /_data/na-2017-writing-day.json
    :template: include/schedule.rst
 
-Workshop Schedule (Paid tickets)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. datatemplate::
-   :source: /_data/na-2017-workshops.json
-   :template: include/schedule.rst
-
 Documenting a new project?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
