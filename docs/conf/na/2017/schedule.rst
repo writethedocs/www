@@ -30,8 +30,18 @@ reception. You'll have a chance to get acquainted with each other over
 some drinks and snacks. We'll also help groups organize dinner plans, so
 you can continue your conversations over more substantial food as well.
 
+Writing Day Schedule
+^^^^^^^^^^^^^^^^^^^^
+
 .. datatemplate::
    :source: /_data/na-2017-writing-day.json
+   :template: include/schedule.rst
+
+Workshop Schedule
+^^^^^^^^^^^^^^^^^
+
+.. datatemplate::
+   :source: /_data/na-2017-workshops.json
    :template: include/schedule.rst
 
 Monday, May 15

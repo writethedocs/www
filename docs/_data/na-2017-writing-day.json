@@ -4,10 +4,6 @@
         "Session": "Doors Open, Breakfast Served"
     },
     {
-        "Time": "9:00",
-        "Session": "Workshop begins: Learn how to Git"
-    },
-    {
         "Time": "9:30",
         "Session": "Writing Day Introduction - Introduction to Sprints & Project Introductions"
     },
@@ -17,22 +13,14 @@
     },
     {
         "Time": "12:30",
-        "Session": "Workshop ends: Learn how to Git. Lunch Break"
-    },
-    {
-        "Time": "13:30",
-        "Session": "Workshop begins: Structuring and writing documentation"
-    },
-    {
-        "Time": "17:00",
-        "Session": "Workshop ends: Structuring and writing documentation"
+        "Session": "Lunch Break"
     },
     {
         "Time": "18:00",
         "Session": "End of Writing Day, Beginning of Reception"
     },
     {
-        "Time": "21:00",
+        "Time": "20:30",
         "Session": "End of Reception"
     }
 ]

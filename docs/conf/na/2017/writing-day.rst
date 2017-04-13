@@ -16,11 +16,18 @@ so make sure that you have the tools you need to contribute.
 - Location: **Crystal Ballroom, 1332 W Burnside St**. We will be in the main ballroom.
 
 
-Schedule
-^^^^^^^^
+Writing Day Schedule
+^^^^^^^^^^^^^^^^^^^^
 
 .. datatemplate::
    :source: /_data/na-2017-writing-day.json
+   :template: include/schedule.rst
+
+Workshop Schedule
+^^^^^^^^^^^^^^^^^
+
+.. datatemplate::
+   :source: /_data/na-2017-workshops.json
    :template: include/schedule.rst
 
 
