@@ -11,27 +11,43 @@ from each other in different ways.
 Saturday, May 13
 ----------------
 
-The only event scheduled on Saturday is the :doc:`annual hike to Pittock
-Mansion </conf/na/2017/hike>`. If you get into town early, join us on
-the hike and take the chance to explore Portland in all of its glory.
+The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion </conf/na/2017/hike>`.
+If you get into town early,
+join us on the hike and take the chance to explore Portland in all of its glory.
+
+The hike starts at **2pm** on Saturday.
 
 Sunday, May 14
 --------------
 
-Writing Day & Reception will be held at **Crystal Ballroom located at 1332 W
+The Writing Day, Workshops, & Reception will be held at **Crystal Ballroom located at 1332 W
 Burnside St**.
 
 During the day, we'll hold our :doc:`Writing Day documentation
 sprints </conf/na/2017/writing-day>`, followed by the conference
-reception in the evening. It also includes two half-day Workshops.
+reception in the evening. It also includes two half-day :doc:`workshops </conf/na/2017/workshops>`.
 
 We encourage everyone to drop by on Sunday evening for the conference
 reception. You'll have a chance to get acquainted with each other over
 some drinks and snacks. We'll also help groups organize dinner plans, so
 you can continue your conversations over more substantial food as well.
 
+Writing Day Schedule (Free for attendees)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+:doc:`Learn more</conf/na/2017/writing-day>` about Writing Day.
+
 .. datatemplate::
    :source: /_data/na-2017-writing-day.json
+   :template: include/schedule.rst
+
+Workshop Schedule (Paid tickets)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+:doc:`Learn more</conf/na/2017/workshops>` about the workshops.
+
+.. datatemplate::
+   :source: /_data/na-2017-workshops.json
    :template: include/schedule.rst
 
 Monday, May 15

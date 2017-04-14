@@ -15,14 +15,12 @@ so make sure that you have the tools you need to contribute.
   with the conference opening reception in the same space until 9.
 - Location: **Crystal Ballroom, 1332 W Burnside St**. We will be in the main ballroom.
 
-
-Schedule
-^^^^^^^^
+Writing Day Schedule
+^^^^^^^^^^^^^^^^^^^^
 
 .. datatemplate::
    :source: /_data/na-2017-writing-day.json
    :template: include/schedule.rst
-
 
 Documenting a new project?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
