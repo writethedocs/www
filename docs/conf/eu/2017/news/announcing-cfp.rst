@@ -26,5 +26,5 @@ to see a talk on this year, submit a proposal on it, or refer someone else who
 would be good!
 
 You can read our full `Call for
-Proposals <http://www.writethedocs.org/conf/na/2017/cfp/>`__ on the website.
+Proposals <http://www.writethedocs.org/conf/eu/2017/cfp/>`__ on the website.
 The Call for Proposals will be open until **Midnight PST 31st May** this year.
