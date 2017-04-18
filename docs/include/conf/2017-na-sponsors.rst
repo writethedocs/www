@@ -63,5 +63,10 @@
         </a>
       </div>
 
+      <div class="col-sm-3 col-sm-offset-3">
+        <a href="http://corilla.com/">
+        <img src="/_static/img/sponsors/corilla.jpg" class="sponsor-image" style="width:75px;padding:40px 0 0 0" />
+        </a>
+      </div>
 
     </div>
