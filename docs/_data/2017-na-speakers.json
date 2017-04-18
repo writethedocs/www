@@ -38,18 +38,6 @@
     {
         "speakers": [
             {
-                "name": "Jigyasa Grover",
-                "slug": "jigyasa-grover",
-                "twitter": "jigyasa_grover",
-                "details": ""
-            }
-        ],
-        "abstract": "<p>The world of open-source is surely attracting budding developers to contribute, but unfortunately there seems to be a highly skewed sex ratio. According to a survey, only 11% of open-source participants are women. This disconcerting number can and should definitely be improved. </p>\n<p>People, especially women find it intimidating to get started with contributing to open source. Why ? I wish to back them up by answering questions, throwing light on the issues that they usually have. It aims at introducing the audience to the world of FOSS and elaborate the vast range of opportunities ranging from coding to documentation, design, outreach and research.</p>\n<p>I shall  converse my involvements and experiences in FOSS and its impact on my tech crusade. A special emphasis shall be on the dearth of women in technology. It aspires to inspire budding girl developers and showcase women who\u2019ve made significant contributions to technology.</p>\n<p>The main agenda of the lightning talk is to view the open source world beyond the perspective of coding. It also aims to encourage fellow female to dive into developing and discuss the vast range of opportunities available.</p>\n<p>Being an ardent open-source developer and a female stepping into the male-dominated sphere of technology, I shall definitely add a personal touch to this talk and the audience shall be able to connect well with the session presenter :)</p>",
-        "title": "Unconference Session: FOSS it up, with women !"
-    },
-    {
-        "speakers": [
-            {
                 "name": "Kenzie Woodbridge",
                 "slug": "kenzie-woodbridge",
                 "twitter": "rainbowkenz",
