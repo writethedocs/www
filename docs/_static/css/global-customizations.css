@@ -1,0 +1,9 @@
+.good {
+    border: 2px dotted;
+    border-color: green;
+}
+
+.bad {
+    border: 2px dotted;
+    border-color: red;
+}
