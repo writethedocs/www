@@ -4,8 +4,9 @@ Call for proposals
 ==================
 
 Hello hello, fellow documentarians! It's that time of year again: We’re very
-excited to announce that we are now accepting talk proposals for our next North
-American conference, coming up on **September 10-12, 2017, in Prague, Czech Republic**.
+excited to announce that we are now accepting talk proposals for our next
+European conference, coming up on **September 10-12, 2017, in Prague, Czech
+Republic**.
 
 Every year, Write the Docs invites people from all across our community to come
 up on stage to share their insights and experience. Whether you’ve been writing
