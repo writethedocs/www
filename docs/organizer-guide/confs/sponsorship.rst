@@ -11,7 +11,6 @@ and that sponsors are accomodated after that.
 Keeping this philsophy in mind will make the rest of this document make sense,
 as it's the root belief that everything stems from.
 
-
 Hard Rules
 ----------
 
