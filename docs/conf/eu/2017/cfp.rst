@@ -15,7 +15,7 @@ you! Read on to learn more about the goals of the conference and what we look
 for in talk proposals.
 
 In the meantime, mark your calendars: **The deadline for submitting proposals is
-Midnight PST on May 31st, 2017.** We aim to let you know if your proposal is
+Midnight CET on May 31st, 2017.** We aim to let you know if your proposal is
 accepted by 15th June.
 
 Conference goals
