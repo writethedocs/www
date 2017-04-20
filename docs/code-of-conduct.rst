@@ -46,6 +46,8 @@ This code of conduct applies to all spaces managed by Write the Docs. This inclu
 
 In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
+.. _coc-sponsors:
+
 Sponsors, affiliates, and exhibitors
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
