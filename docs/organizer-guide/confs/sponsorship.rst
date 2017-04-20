@@ -3,19 +3,19 @@
 Sponsorships
 ============
 
-This section describes how to:
+Write the Docs has a specific view around sponsorship.
+More concretely,
+we believe that the community comes first,
+and that sponsors are accomodated after that.
 
-* Compile a list of potential sponsors
-* Create and send sponsorship materials
-* Process incoming sponsorship funds
+Keeping this philsophy in mind will make the rest of this document make sense,
+as it's the root belief that everything stems from.
 
-Industries
+
+Hard Rules
 ----------
 
-Our sponsors tend to be in a specific subset of industries:
+We have these rules around sponsorship:
 
-* General Software Companies
-* OSS Companies 
-* Online learning companies
-
-
+* Sponsors can't buy talk slots at our conferences. Any time sponsors will be on stage will be labeled as a sponsorship time.
+* We don't sell personal information about our attendees to sponsors (eg. to add to their mailing list).
