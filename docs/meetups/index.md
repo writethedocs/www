@@ -38,6 +38,7 @@ and let us know. We'd be happy to promote it and list it here.
 -   [Hamburg, DE](https://www.meetup.com/Write-the-Docs-Hamburg/)
 -   [London, UK](http://www.meetup.com/Write-The-Docs-London/)
 -   [Munich, DE](https://www.meetup.com/Write-the-Docs-Munich/)
+-   [St. Petersberg, RU](https://www.meetup.com/Write-the-Docs-Russia/)
 
 ### Current Meetups: Oceania
 
