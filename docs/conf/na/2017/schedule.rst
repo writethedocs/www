@@ -66,7 +66,7 @@ Main Stage
 
 .. datatemplate::
    :source: /_data/na-2017-day-1.json
-   :template: include/schedule.rst
+   :template: include/schedule2017.rst
 
 Lola's Room
 ^^^^^^^^^^^^^
@@ -96,7 +96,7 @@ Main Stage
 
 .. datatemplate::
    :source: /_data/na-2017-day-2.json
-   :template: include/schedule.rst
+   :template: include/schedule2017.rst
 
 Lola's Room
 ^^^^^^^^^^^
