@@ -76,4 +76,10 @@
         </a>
       </div>
 
+      <div class="col-sm-3">
+        <a href="https://www.elastic.co/">
+        <img src="/_static/img/sponsors/elastic.png" class="sponsor-image" style="width:75px;padding:40px 0 0 0" />
+        </a>
+      </div>
+
     </div>
