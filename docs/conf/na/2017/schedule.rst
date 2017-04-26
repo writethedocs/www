@@ -40,7 +40,7 @@ Writing Day Schedule (Free for attendees)
 
 .. datatemplate::
    :source: /_data/na-2017-writing-day.json
-   :template: include/schedule.rst
+   :template: include/schedule2017.rst
 
 Workshop Schedule (Paid tickets)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -49,7 +49,7 @@ Workshop Schedule (Paid tickets)
 
 .. datatemplate::
    :source: /_data/na-2017-workshops.json
-   :template: include/schedule.rst
+   :template: include/schedule2017.rst
 
 Monday, May 15
 --------------
