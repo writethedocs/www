@@ -1,0 +1,111 @@
+.. post:: May 1, 2017
+   :tags: newsletter, 
+
+**************************************
+Write the Docs Newsletter - May 2017
+**************************************
+
+Write the Docs Portland in Less than 2 Weeks!
+#############################################
+
+`Write the Docs Portland <http://www.writethedocs.org/conf/na/2017/>`_ is almost here! If you're coming, we're looking forward to welcoming you. If you can't make it, maybe `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ in September? Just a thought...
+
+The Portland conference is sold out again this year, but if you want to be on the waiting list in case of cancellations, please [**need to add this info**]
+
+Now, on to this month's newsletter, packed with gems we collected from the WtD Slack channel throughout the last 30-ish days.
+
+
+------------------------------------------
+
+Replaceable Content in Code Snippets
+####################################
+
+This month in WtD Slack, the question arose of how best to handle replaceable content in code snippets – in other words, any situation where we're prompting users to replace 'username' and 'password' with, y'know, their username and password. As usual, the community had a plethora of creative solutions to suggest.
+
+Some approaches were pretty lightweight and focused on adding clarity without introducing any coding behind the scenes:
+
+* Choose a formatting convention for any example data, so the replaceable parts of the snippet are easy to pick out visually.
+* Build up a small cast of fictional characters that you can write about throughout your docs. This lets you use a realistic name and password combo that your readers will have some context for.
+* Expand on the basic 'username' and 'password' with more expressive strings like, 'example_username', 'your_username', 'replace_with_username', and so on
+
+If you're looking for more dynamic solutions to the same problem, we've got some good options for you on that front as well:
+
+* Automate the formatting for replaceable content by defining your own classes. DocBook, for example, will let you do this with the <replaceable> tag, and for Markdown, the same effect can be achieved with some help from `hercule <https://github.com/jamesramsay/hercule>`_ and bash scripts.
+* If you're using fictional characters, you can take it a step further and create actual accounts for them in your system. Then, whenever your real-life users try to execute something with a fictional account's data, you can throw an error message to prompt them to swap in their actual details.
+* For maximum coolness, you could build in a prompt at the top of your docs asking for the relevant details, then use that info to generate personalized code samples that are ready to go, right out of the gate. With this option, there are some authentication and security concerns to address, but `Stripe's API docs <https://stripe.com/docs>`_ are a great example of how this might look.
+
+------------------------------------------
+
+The Challenges of Documentation in an Agile Environment
+#######################################################
+
+How can writers work with Agile dev teams? It's a perennial question that arose again this month and produced some excellent discussion. TL;DR: there are many models, and writers have to figure out what works best for their particular teams, processes, and products. Here's a round-up of the approaches that the WtD community came up with:
+
+* With teams that perform regression testing and user acceptance testing (UAT) after a scheduled sprint, docs are sometimes developed during these post-sprint cycles. In this kind of workflow, docs and testing are often closely allied.
+
+* Some writers are embedded on Agile dev teams, attend standups, and work on the regular sprint cycle, with stories assigned for doc; others work with parallel sprints, and devs/PMs serve as stakeholders.
+
+* Some of the "embedded" writers document features at the start of development, but doc is not released until feature complete. Other writers find that features change too much during dev cycles for this approach to be worthwhile.
+
+* Several folks who serve as lone writers wrestle with documenting multiple products or conditional doc sets addressed to different audiences. Some manage by getting developers more involved with helping produce doc content.
+
+-----------------------------
+
+Screen Readers and Accessibility
+################################
+
+A question about dividing a complicated data model into clickable sub-parts brought up an interesting secondary question: can screen readers parse .svg flowcharts?
+
+According to one Slack member, probably not. She explained, screen readers tend to go top-to-bottom, left-to-right, reading all the words and links. They can also read alphabetically by first letter and hierarchical by H1, H2, H3. But more complex stuff (like reading SVG flowcharts) is probably beyond the capability of common screen readers. For complex flowcharts, consider offering a text explanation along with the image.
+
+If you're interested in improving doc accessibility, check out @susanf's `list of accessibility resources <https://docs.google.com/document/d/19crjGz7lryYlvaIEzK8KTX_oMLAxzxx1AwGsjlsymgs/edit#heading=h.c5b1b4c0b5i6>`_. For an alt-text-centered guide, try Allen Flavell's article, `Use of ALT texts in IMGs <http://www.alanflavell.org.uk/alt/alt-text.html>`_.
+
+To address the original question about dividing a large data model into clickable sub-parts, commenters mentioned quite a few SVG tools:
+
+* `SVGOMG <https://jakearchibald.github.io/svgomg>`_
+* `Snapsvg <http://snapsvg.io/>`_
+* `Animatron <https://www.animatron.com/>`_
+* `Inkscape <https://inkscape.org/>`_
+* `Tom Sawyer <https://www.tomsawyer.com>`_
+* `Linkurious <https://linkurio.us>`_
+* `Neo4j <https://neo4j.com/>`_
+* ...and good old `Visio <https://products.office.com/en-us/visio/flowchart-software>`_
+
+------------------------------------------
+
+Peer-to-Peer Teaching
+#####################
+
+When you're tasked with leading a workshop that will help your non-tech-writing colleagues write in clear, plain English, how can you help without embarrassing or alienating anyone? The discussion produced many thoughtful suggestions, including having the group dissect your own writing, but one idea stood out: peer-to-peer teaching using a whiteboard carousel. Here's how it works:
+
+1. Place whiteboards or large flipcharts throughout the room.
+2. Write a complex or unclear sentence at the top of each whiteboard.
+3. Assign one group of participants per whiteboard.
+4. Give the groups 5 minutes to write a simpler, easier-to-understand version of the sentence on the whiteboard.
+5. After 5 minutes, rotate the groups and have them try the next sentence.
+
+The groups will learn from reading each other's revisions as they rotate around to each whiteboard. Then, when all groups have tried every sentence, you can sit down together and talk about how each revision improves the complex sentence.
+
+------------------------------------------
+
+Last, but not Least
+###################
+
+Finally, you might be interested in this great series of tips and tricks for static sites by WtD Slack channel participant (and designer and writer at Balsamiq), @leonbarnard (with help from @annegentle):
+
+`Part 1: Multiple product versions <http://docslikecode.com/articles/balsamiq-case-study-part-1/>`_
+
+`Part 2: Animated GIFs Pause and Play <http://docslikecode.com/articles/balsamiq-case-study-part-2/>`_
+
+`Part 3: Lists Get a Makeover <http://docslikecode.com/articles/balsamiq-case-study-part-3/>`_
+
+------------------------------------------
+
+Looking Ahead
+#############
+
+Did we mention that `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ is coming down the pike? We just announced the `call for proposals <http://www.writethedocs.org/conf/eu/2017/news/announcing-cfp>`_. There are a few changes this year, so check it out and submit your proposal! You have until midnight CET on May 31. 
+
+If you see a discussion that you'd like to see highlighted here in the WtD newsletter, [**add info about how to send it to the newsletter team**].
+
+
