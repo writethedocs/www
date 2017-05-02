@@ -26,18 +26,13 @@ a community built specifically around making customer support the best it can be
 They have a Slack channel,
 newsletter,
 `SUPCONF <http://supconf.supportdriven.com/>`_,
-and now they're launching a new event workshop-focused event called SDX.
+and now they're launching a new event workshop-focused event called `SDX <https://www.kickstarter.com/projects/supportdriven/sdx-take-your-support-skills-to-the-next-level/?utm_source=readthedocs>`_.
 
 Here is a bit of info from them:
 
-    .. image:: sdx.png
-        :width: 128px
-        :align: left
-        :height: 128px
-        :target: https://www.kickstarter.com/projects/supportdriven/sdx-take-your-support-skills-to-the-next-level/?utm_source=writethedocs
-
     Support lives and dies by it’s documentation. That’s why we’ll have several workshops on documentation at SDX - a new event in Portland that’s focused on learning and applying skills to advance your career. Check SDX out on `Kickstarter <https://www.kickstarter.com/projects/supportdriven/sdx-take-your-support-skills-to-the-next-level/?utm_source=writethedocs>`_.
 
+------------------------------------------
 
 Replaceable Content in Code Snippets
 ####################################
