@@ -5,8 +5,8 @@
 Write the Docs Newsletter - May 2017
 **************************************
 
-Write the Docs Portland in Less than 2 Weeks!
-#############################################
+Write the Docs Portland is in Less than 2 Weeks!
+################################################
 
 `Write the Docs Portland <http://www.writethedocs.org/conf/na/2017/>`_ is almost here! If you're coming, we're looking forward to welcoming you. If you can't make it, maybe `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ in September? Just a thought...
 
@@ -45,7 +45,7 @@ How can writers work with Agile dev teams? It's a perennial question that arose 
 
 * Some writers are embedded on Agile dev teams, attend standups, and work on the regular sprint cycle, with stories assigned for doc; others work with parallel sprints, and devs/PMs serve as stakeholders.
 
-* Some of the "embedded" writers document features at the start of development, but doc is not released until feature complete. Other writers find that features change too much during dev cycles for this approach to be worthwhile.
+* Some of the "embedded" writers document features at the start of development, but doc is not released until the feature is complete. Other writers find that features change too much during dev cycles for this approach to be worthwhile.
 
 * Several folks who serve as lone writers wrestle with documenting multiple products or conditional doc sets addressed to different audiences. Some manage by getting developers more involved with helping produce doc content.
 
@@ -76,7 +76,7 @@ To address the original question about dividing a large data model into clickabl
 Peer-to-Peer Teaching
 #####################
 
-When you're tasked with leading a workshop that will help your non-tech-writing colleagues write in clear, plain English, how can you help without embarrassing or alienating anyone? The discussion produced many thoughtful suggestions, including having the group dissect your own writing, but one idea stood out: peer-to-peer teaching using a whiteboard carousel. Here's how it works:
+When you're tasked with leading a workshop that will help your non-tech-writing colleagues write in clear, plain English, how can you help without embarrassing or alienating anyone? The discussion produced many thoughtful suggestions, including offering up some of your own writing for the group to dissect, but one idea stood out: peer-to-peer teaching using a whiteboard carousel. Here's how it works:
 
 1. Place whiteboards or large flipcharts throughout the room.
 2. Write a complex or unclear sentence at the top of each whiteboard.
@@ -106,6 +106,13 @@ Looking Ahead
 
 Did we mention that `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ is coming down the pike? We just announced the `call for proposals <http://www.writethedocs.org/conf/eu/2017/news/announcing-cfp>`_. There are a few changes this year, so check it out and submit your proposal! You have until midnight CET on May 31. 
 
-If you see a discussion that you'd like to see highlighted here in the WtD newsletter, [**add info about how to send it to the newsletter team**].
+If you see a discussion in the WtD Slack channels that you'd like to see highlighted here in the WtD newsletter, there's a new tool for that! We're now using the `Reacji Channeler <https://reacji-channeler.builtbyslack.com>`_. If you see a helpful or enjoyable discussion and think it would make a good item in the newsletter, just tag one of the messages with this emoji:
 
+.. image:: news.png
+    :width: 128px
+    :align: left
+    :height: 128px
+    :alt: emoji for tagging newsletter suggestions
+
+And with Slack magic, the message will be copied into a special channel of suggestions. We look forward to reading your suggestions!
 
