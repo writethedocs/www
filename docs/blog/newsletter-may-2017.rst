@@ -19,16 +19,24 @@ Now, on to this month's newsletter, packed with gems we collected from the WTD S
 Partner Highlight: Support Driven
 #################################
 
-We are always happy to highlight other communities and conferences out there who are doing good work.
-This month,
-we're happy to help promote `Support Driven <https://supportdriven.com/>`_,
+We're trying something new this month,
+where we're highlighting another community and conference that is doing great work.
+We're happy to help promote `Support Driven <https://supportdriven.com/>`_,
 a community built specifically around making customer support the best it can be.
-They do `SUPCONF <http://supconf.supportdriven.com/>`_,
-and they're launching a new event workshop-focused event called SDX.
+They have a Slack channel,
+newsletter,
+`SUPCONF <http://supconf.supportdriven.com/>`_,
+and now they're launching a new event workshop-focused event called SDX.
 
 Here is a bit of info from them:
 
-    Support lives and dies by it’s documentation. That’s why we’ll have several workshops on documentation at SDX - a new event in Portland that’s focused on learning and applying skills to advance your career. Check SDX out on Kickstarter - https://www.kickstarter.com/projects/supportdriven/sdx-take-your-support-skills-to-the-next-level
+    .. image:: sdx.png
+        :width: 128px
+        :align: left
+        :height: 128px
+        :target: https://www.kickstarter.com/projects/supportdriven/sdx-take-your-support-skills-to-the-next-level/?utm_source=writethedocs
+
+    Support lives and dies by it’s documentation. That’s why we’ll have several workshops on documentation at SDX - a new event in Portland that’s focused on learning and applying skills to advance your career. Check SDX out on `Kickstarter <https://www.kickstarter.com/projects/supportdriven/sdx-take-your-support-skills-to-the-next-level/?utm_source=writethedocs>`_.
 
 
 Replaceable Content in Code Snippets
