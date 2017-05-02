@@ -1,9 +1,9 @@
 .. post:: May 2, 2017
    :tags: newsletter, snippets, agile, accessibility, teaching
 
-**************************************
+************************************
 Write the Docs Newsletter - May 2017
-**************************************
+************************************
 
 Write the Docs Portland is in Less than 2 Weeks!
 ################################################
