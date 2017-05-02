@@ -10,9 +10,9 @@ Write the Docs Portland is in Less than 2 Weeks!
 
 `Write the Docs Portland <http://www.writethedocs.org/conf/na/2017/>`_ is almost here! If you're coming, we're looking forward to welcoming you. If you can't make it, maybe `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ in September? Just a thought...
 
-The Portland conference is sold out again this year, but if you want to be on the waiting list in case of cancellations, please [**need to add this info**]
+The Portland conference is sold out again this year, but you can `join the waiting list <https://ti.to/writethedocs/write-the-docs-na-2017/>`_ in case of cancellations.
 
-Now, on to this month's newsletter, packed with gems we collected from the WtD Slack channel throughout the last 30-ish days.
+Now, on to this month's newsletter, packed with gems we collected from the WTD Slack channel throughout the last 30-ish days.
 
 
 ------------------------------------------
@@ -20,7 +20,7 @@ Now, on to this month's newsletter, packed with gems we collected from the WtD S
 Replaceable Content in Code Snippets
 ####################################
 
-This month in WtD Slack, the question arose of how best to handle replaceable content in code snippets – in other words, any situation where we're prompting users to replace 'username' and 'password' with, y'know, their username and password. As usual, the community had a plethora of creative solutions to suggest.
+This month in WTD Slack, the question arose of how best to handle replaceable content in code snippets – in other words, any situation where we're prompting users to replace 'username' and 'password' with, y'know, their username and password. As usual, the discussion resulted in many creative solutions.
 
 Some approaches were pretty lightweight and focused on adding clarity without introducing any coding behind the scenes:
 
@@ -32,14 +32,14 @@ If you're looking for more dynamic solutions to the same problem, we've got some
 
 * Automate the formatting for replaceable content by defining your own classes. DocBook, for example, will let you do this with the <replaceable> tag, and for Markdown, the same effect can be achieved with some help from `hercule <https://github.com/jamesramsay/hercule>`_ and bash scripts.
 * If you're using fictional characters, you can take it a step further and create actual accounts for them in your system. Then, whenever your real-life users try to execute something with a fictional account's data, you can throw an error message to prompt them to swap in their actual details.
-* For maximum coolness, you could build in a prompt at the top of your docs asking for the relevant details, then use that info to generate personalized code samples that are ready to go, right out of the gate. With this option, there are some authentication and security concerns to address, but `Stripe's API docs <https://stripe.com/docs>`_ are a great example of how this might look.
+* You could also build in a prompt at the top of your docs asking for the relevant details, then use that info to generate personalized code samples that are ready to go, right out of the gate. With this option, there are some authentication and security concerns to address, but `Stripe's API docs <https://stripe.com/docs>`_ are a great example of how this might look.
 
 ------------------------------------------
 
 The Challenges of Documentation in an Agile Environment
 #######################################################
 
-How can writers work with Agile dev teams? It's a perennial question that arose again this month and produced some excellent discussion. TL;DR: there are many models, and writers have to figure out what works best for their particular teams, processes, and products. Here's a round-up of the approaches that the WtD community came up with:
+How can writers work with Agile dev teams? It's a perennial question that arose again this month and produced some excellent discussion. TL;DR: there are many models, and writers have to figure out what works best for their particular teams, processes, and products. Here's a round-up of the approaches that the WTD community came up with:
 
 * With teams that perform regression testing and user acceptance testing (UAT) after a scheduled sprint, docs are sometimes developed during these post-sprint cycles. In this kind of workflow, docs and testing are often closely allied.
 
@@ -91,7 +91,7 @@ The groups will learn from reading each other's revisions as they rotate around 
 Last, but not Least
 ###################
 
-Finally, you might be interested in this great series of tips and tricks for static sites by WtD Slack channel participant (and designer and writer at Balsamiq), @leonbarnard (with help from @annegentle):
+Finally, you might be interested in this great series of tips and tricks for static sites by WTD Slack channel participant (and designer and writer at Balsamiq), @leonbarnard (with help from @annegentle):
 
 `Part 1: Multiple product versions <http://docslikecode.com/articles/balsamiq-case-study-part-1/>`_
 
@@ -106,7 +106,7 @@ Looking Ahead
 
 Did we mention that `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ is coming down the pike? We just announced the `call for proposals <http://www.writethedocs.org/conf/eu/2017/news/announcing-cfp>`_. There are a few changes this year, so check it out and submit your proposal! You have until midnight CET on May 31. 
 
-If you see a discussion in the WtD Slack channels that you'd like to see highlighted here in the WtD newsletter, there's a new tool for that! We're now using the `Reacji Channeler <https://reacji-channeler.builtbyslack.com>`_. If you see a helpful or enjoyable discussion and think it would make a good item in the newsletter, just tag one of the messages with this emoji:
+If you see a discussion in the WTD Slack channels that you'd like to see highlighted here in the WTD newsletter, there's a new tool for that! We're now using the `Reacji Channeler <https://reacji-channeler.builtbyslack.com>`_. If you see a helpful or enjoyable discussion and think it would make a good item in the newsletter, just tag one of the messages with this emoji:
 
 .. image:: news.png
     :width: 128px
