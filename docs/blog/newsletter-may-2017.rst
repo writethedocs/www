@@ -10,7 +10,7 @@ Write the Docs Portland is in Less than 2 Weeks!
 
 `Write the Docs Portland <http://www.writethedocs.org/conf/na/2017/>`_ is almost here! If you're coming, we're looking forward to welcoming you. If you can't make it, maybe `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ in September? Just a thought...
 
-The Portland conference is sold out again this year, but you can `join the waiting list <https://ti.to/writethedocs/write-the-docs-na-2017/>`_ in case of cancellations. We will email you if you get selected from the waiting list.
+The Portland conference is now **sold out**. Thanks to everyone who has registered, and we look forward to seeing you in Portland in a couple weeks!
 
 Now, on to this month's newsletter, packed with gems we collected from the WTD Slack channel throughout the last 30-ish days.
 
