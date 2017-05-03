@@ -1,4 +1,3 @@
-:template: 2017/na-content.html
 
 .. post:: May 1, 2017
    :tags: 2017, portland, schedule, social
@@ -10,14 +9,16 @@ Our Portland conference is just two weeks away and we hope you're getting excite
 
 The conference is officially **sold-out**, thank you to everyone who registered and we look forward to see you soon.
 
+We always try over-document helpful tips for the conference with our `Welcome Wagon <http://www.writethedocs.org/conf/na/2017/welcome-wagon/>`_ guide. It's full of information around the conference, and we recommend that you check it out!
+
 Full Presentation Schedule
 --------------------------
 
 Our website is now updated with the `final schedule <http://www.writethedocs.org/conf/na/2017/schedule/>`_ for the presentations, so you can start planning your time at the conference.
 
-Next week we will publish the timeslots for the unconference sessions as well as a preliminary list of Writing Day projects that you can hack on.
+Next week we will publish the timeslots for the unconference sessions as well as a preliminary list of Writing Day projects that you can hack on. If you have a project you'd like to promote, feel free to reply to this email and we'll get it added.
 
-Of course you can still sign up for unconference sessions and lightning talks during the conference, or bring your own Writing Day project.
+You can still sign up for unconference sessions and lightning talks during the conference, or bring your own Writing Day project. We're just hoping to give folks an idea in advance of a few of the things that will be happening.
 
 Workshops Almost Full
 ---------------------
@@ -31,7 +32,7 @@ Social Events
 
 This year our main social event will be held again at the `Jackknife <https://goo.gl/maps/hvYkv6RU4qD2>`_ at 614 SW 11th Ave, on **Monday evening from 7pm**. Drinks and light snacks will be provided.
 
-We're also happy to invite you to an after-conference social sponsored by our friends at New Relic. The social will be at `New Relic <https://www.meetup.com/Write-The-Docs-PDX/events/239146623/>`_ at 111 SW 5th Ave, #2700, 27th floor, from 6:30pm. Drinks and light snacks will be provided. It will be done in conjuction with the Portland meetup, and open to the public.
+We're also happy to invite you to an after-conference social sponsored by our friends at New Relic. The social will be at `New Relic <https://www.meetup.com/Write-The-Docs-PDX/events/239146623/>`_ at 111 SW 5th Ave, #2700, 27th floor, from 6:30pm. Drinks and light snacks will be provided. It will be done in conjunction with the Portland meetup, and open to the public.
 
 And lastly, the Saturday hike is now full. We are likely to split the hike up into multiple groups in order to preserve the logistics on the trail, but they will leave within 30 minutes of each other, so it shouldn't impact planning. 
 
@@ -55,6 +56,7 @@ We'd like to take this opportunity to thank the `sponsors <http://www.writethedo
 * `Pronovix <https://pronovix.com/>`_
 * `Corilla <https://corilla.com/>`_
 * `Elastic <https://www.elastic.co/>`_
+* `Algolia <https://www.algolia.com/>`_
 
 See you all soon in Portland!
 

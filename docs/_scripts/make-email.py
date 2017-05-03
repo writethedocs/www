@@ -39,7 +39,10 @@ if not content:
 
     content = d.html()
 # Remove header links
-content = re.sub(r'<a class="headerlink" .+</a>', '', content)
+try:
+    content = re.sub(r'<a class="headerlink" .+</a>', '', content)
+except:
+    pass
 
 
 print(content)
