@@ -151,6 +151,21 @@
                     </a>
                   </div>
 
+                  <div class="row">
+                    <div class="col-xs-12 col-md-4">
+                      <a href="news/schedule-social/" class="well news__tile">
+                        <h3 class="well__title">
+                          Announcing Full Schedule and Social Events
+                        </h3>
+                        <p class="well__paragraph">
+                        Our Portland conference is just two weeks away and we
+                        hope you're getting excited!
+                        </p>
+                        <div class="well__time">
+                          <span>3 PM</span>|<span>May 3, 2017</span>
+                        </div>
+                      </a>
+                    </div>
 
                   <div class="col-xs-12 col-md-4">
                     <a href="news/announcing-presentations/" class="well news__tile">
