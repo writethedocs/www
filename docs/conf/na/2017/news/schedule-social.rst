@@ -58,4 +58,4 @@ We'd like to take this opportunity to thank the `sponsors <http://www.writethedo
 
 See you all soon in Portland!
 
-- The Write the Docs team
+| The Write the Docs team
