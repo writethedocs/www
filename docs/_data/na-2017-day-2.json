@@ -5,7 +5,7 @@
     }, 
     {
         "Time": "9:00", 
-        "Session": "30 Minute Talk"
+        "Session": "Kenzie Woodbridge - Everyone's a player (in a mid-90s MUD)"
     }, 
     {
         "Time": "9:30", 
@@ -13,7 +13,7 @@
     }, 
     {
         "Time": "9:40", 
-        "Session": "30 Minute Talk"
+        "Session": "Jodie Putrino - Treating documentation like code: a practical account"
     }, 
     {
         "Time": "10:10", 
@@ -21,7 +21,7 @@
     }, 
     {
         "Time": "10:20", 
-        "Session": "30 Minute Talk"
+        "Session": "Sam Faktorovich - Interviewing and hiring technical writers: the Siberian way"
     }, 
     {
         "Time": "10:50", 
@@ -29,7 +29,7 @@
     }, 
     {
         "Time": "11:10", 
-        "Session": "30 Minute Talk"
+        "Session": "Ingrid Towey - The Wisdom of Crowds: Crowdsourcing Minimalism in an Open Organization"
     }, 
     {
         "Time": "11:40", 
@@ -37,42 +37,54 @@
     }, 
     {
         "Time": "11:50", 
-        "Session": "30 Minute Talk"
+        "Session": "Sarah Hersh - Start with the tasks, not the endpoints"
     }, 
     {
         "Time": "12:20", 
         "Session": "Lunch"
     }, 
     {
-        "Time": "13:50", 
+        "Time": "13:20", 
         "Session": "Lightning Talks"
     }, 
     {
-        "Time": "14:20", 
+        "Time": "13:50", 
         "Session": "Switch Speakers"
+    }, 
+    {
+        "Time": "14:00", 
+        "Session": "Jesse Seldess - Bootstrapping Docs at a Startup"
     }, 
     {
         "Time": "14:30", 
-        "Session": "30 Minute Talk"
-    }, 
-    {
-        "Time": "15:00", 
         "Session": "Switch Speakers"
     }, 
     {
-        "Time": "15:10", 
-        "Session": "30 Minute Talk"
+        "Time": "14:40", 
+        "Session": "Carl Parker - Intelligent Documents and the Verifiability Crisis in Science, Tech Writing, and Life"
     }, 
     {
-        "Time": "15:40", 
-        "Session": "Closing Announcements"
-    },
+        "Time": "15:10", 
+        "Session": "Switch Speakers"
+    }, 
+    {
+        "Time": "15:20", 
+        "Session": "Lynnae Griffiths - Writing the Docs, University Edition"
+    }, 
+    {
+        "Time": "15:50", 
+        "Session": "Closing Announements"
+    }, 
     {
         "Time": "16:00", 
-        "Session": "Snacks & milling about and chatting with other attendees"
-    },
+        "Session": "Day 2 close. Feel free to hang out and enjoy some snacks. "
+    }, 
     {
-        "Time": "19:00", 
-        "Session": "Write the Docs meetup social and conference after-party"
+        "Time": "18:30", 
+        "Session": "Write the Docs meetup social and conference after-party @ New Relic"
+    }, 
+    {
+        "Time": "21:00", 
+        "Session": "End of meetup social"
     }
 ]
