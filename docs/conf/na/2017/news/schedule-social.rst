@@ -8,9 +8,9 @@ Announcing Full Schedule and Social Events
 
 Our Portland conference is just two weeks away and we hope you're getting excited!
 
-The conference is officially **sold-out**, thank you to everyone who registered and we look forward to see you soon.
+The conference is officially **sold out**, thank you to everyone who registered and we look forward to see you soon.
 
-We always try over-document helpful tips for the conference with our `Welcome Wagon <http://www.writethedocs.org/conf/na/2017/welcome-wagon/>`_ guide. It's full of information around the conference, and we recommend that you check it out!
+We always try to over-document the conference for our attendees. Our `Welcome Wagon <http://www.writethedocs.org/conf/na/2017/welcome-wagon/>`_ guide is full of information about the conference, and we recommend that you check it out!
 
 Full Presentation Schedule
 --------------------------
