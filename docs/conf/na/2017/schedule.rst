@@ -78,6 +78,7 @@ Monday Night - Party
 ^^^^^^^^^^^^^^^^^^^^^^
 
 The party will start at **7pm**.
+It will be at the `Jackknife <https://goo.gl/maps/hvYkv6RU4qD2>`_ at **614 SW 11th Ave**.
 
 The party is for **conference attendees only**.
 Please bring your badge,
@@ -104,9 +105,11 @@ Lola's Room
 :doc:`/conf/na/2017/unconference` from 9am-3pm,  these run in parallel to the main talks.
 
 Tuesday Night - Social
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
 
-The after conference social will start at **6:30pm**.
+The after-conference social will start at **6:30pm**.
+It will be hosted at New Relic's office,
+**111 SW 5th Ave, #2700 (on the 27th floor)**.
 
 This event is **open to the public**.
 There will be light snacks and drinks available.

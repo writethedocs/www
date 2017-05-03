@@ -31,7 +31,7 @@ Social Events
 
 This year our main social event will be held again at the `Jackknife <https://goo.gl/maps/hvYkv6RU4qD2>`_ at 614 SW 11th Ave, on **Monday evening from 7pm**. Drinks and light snacks will be provided.
 
-We're also happy to invite you to an after-conference hangout sponsored by our friends at New Relic. The hangout will be at `New Relic <https://www.meetup.com/Write-The-Docs-PDX/events/239146623/>`_ at 111 SW 5th Ave, #2700, 27th floor, from 6:30pm. Drinks and light snacks will be provided.
+We're also happy to invite you to an after-conference social sponsored by our friends at New Relic. The social will be at `New Relic <https://www.meetup.com/Write-The-Docs-PDX/events/239146623/>`_ at 111 SW 5th Ave, #2700, 27th floor, from 6:30pm. Drinks and light snacks will be provided. It will be done in conjuction with the Portland meetup, and open to the public.
 
 And lastly, the Saturday hike is now full. We are likely to split the hike up into multiple groups in order to preserve the logistics on the trail, but they will leave within 30 minutes of each other, so it shouldn't impact planning. 
 
