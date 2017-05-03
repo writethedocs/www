@@ -103,6 +103,14 @@ Lola's Room
 
 :doc:`/conf/na/2017/unconference` from 9am-3pm,  these run in parallel to the main talks.
 
+Tuesday Night - Social
+^^^^^^^^^^^^^^^^^^^^^
+
+The after conference social will start at **6:30pm**.
+
+This event is **open to the public**.
+There will be light snacks and drinks available.
+
 Say Goodbye
 ^^^^^^^^^^^
 

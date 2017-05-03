@@ -33,7 +33,7 @@ This year our main social event will be held again at the `Jackknife <https://go
 
 We're also happy to invite you to an after-conference hangout sponsored by our friends at New Relic. The hangout will be at `New Relic <https://www.meetup.com/Write-The-Docs-PDX/events/239146623/>`_ at 111 SW 5th Ave, #2700, 27th floor, from 6:30pm. Drinks and light snacks will be provided.
 
-And lastly, the Saturday hike is nearly full but if you cannot secure a spot we will maintain a waiting list. Visit our `ticket website <https://ti.to/writethedocs/write-the-docs-na-2017>`_ to find out if there are still spots available.
+And lastly, the Saturday hike is now full. We are likely to split the hike up into multiple groups in order to preserve the logistics on the trail, but they will leave within 30 minutes of each other, so it shouldn't impact planning. 
 
 Thanks to Our Sponsors
 ----------------------
