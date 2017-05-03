@@ -19,8 +19,6 @@
                   </div>
                   <div class="col-xs-12 col-md-7 text-xs-center text-md-right">
                     <div class="buy-ticket__2nd-col">
-                      <a href="https://ti.to/writethedocs/write-the-docs-na-2017/" class="btn btn-primary button button--narrow buy-ticket__ticket">Buy a ticket!</a>
-                      <p class="buy-ticket__p">then</p>
                       <a href="/conf/na/2017/welcome-wagon/" class="btn btn-primary button button--narrow buy-ticket__talk">Jump on the Welcome Wagon!</a>
                     </div>
                   </div>
