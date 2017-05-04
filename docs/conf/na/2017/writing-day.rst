@@ -32,16 +32,18 @@ and give you some ideas for how you can contribute to a project that you love.
 Write Write the Docs on Writing Day
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This year we're also running a session where you can help improve your favourite website. Yup, you can brainstorm improvements, write helpful content and posts or just magically improve `Write the Docs <http://www.writethedocs.org>`_.
+This year we're also running a session where you can help improve your favourite website. Yup, you can brainstorm improvements, write helpful content and posts, or just magically improve `Write the Docs <http://www.writethedocs.org>`_.
 
-Ideally you'll already be familiar with GitHub and writing in plain text (markdown or restructured text), but we'll be there to help out if you're not. And if you'd rather write in Google Docs or program in python or jinja we've got you covered.
+If you're writing text to add to the website, ideally you'll already be familiar with GitHub and writing in plain text (markdown or restructured text), but we'll be there to help out if you're not.
+
+If you'd rather brainstorm a content reorganization in Google Docs, improve our python scripts or our jinja templates we've got plenty to do there as well.
 
 Here are a few things we'll be working on on writing day, reach out to `@plaindocs <https://twitter.com/plaindocs>`_ or `@meker <https://twitter.com/meker>`_ if you have any questions or more suggestions.
 
-Brainstorm User Oriented Architechture
+Brainstorm user oriented architecture
 =======================================
 
-Site is very content type based – find ways to introduce user-oriented labels considering audience. Who is coming to the site, why? What are the goals of the site?
+The website is currently organised around meetups, conferences, guides, etc – find ways to introduce user-oriented labels considering audience. Who is coming to the site, why? What are the goals of the site?
 
 - Learn about docs
 - Get involved with the community
@@ -49,26 +51,22 @@ Site is very content type based – find ways to introduce user-oriented labels 
 - Submit a conference proposal
 - Find a video of a talk that I saw
 
-Improve Navigation
+Improve navigation
 ===================
 
-We don't expect you to rewrite the entire site, but maybe you can suggest a new navigation system.
+Let's discuss information architecture -- can we organize the content better? Provide better navigation?
 
-Write articles for the Newsletter
+Write articles for the newsletter
 ====================================
 
-Summarise content from the slack channel for the newsletter.
+Summarize content from the Slack channel for the `newsletter </blog/newsletter-may-2017/#looking-ahead>`_.
 
-* TODO list of topics
-
-Write articles for the Documentation Guide
+Help develop the Documentation Guide
 ===========================================
 
-Expand a section, a page or more, from the :doc:`/guide/index/`. Or find some images that improve clarity and break up the walls of text.
+Help reorganize the guide content, or write and edit topics. Check out :doc:`/guide/index/` ahead of time and bring your ideas to the table!"
 
-* TODO list of topics
-
-Fix Website Issues
+Fix website issues
 ===================
 
 We have a list of `issues on GitHub <https://github.com/writethedocs/www/issues?q=is%3Aissue+is%3Aopen+label%3Awritingday>`_ tagged as `writingday` that includes things like
