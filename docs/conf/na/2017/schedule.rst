@@ -25,7 +25,8 @@ Burnside St**.
 
 During the day, we'll hold our :doc:`Writing Day documentation
 sprints </conf/na/2017/writing-day>`, followed by the conference
-reception in the evening. It also includes two half-day :doc:`workshops </conf/na/2017/workshops>`.
+reception in the evening. We also have two half-day :doc:`workshops </conf/na/2017/workshops>`
+running in parallel with the writing day.
 
 We encourage everyone to drop by on Sunday evening for the conference
 reception. You'll have a chance to get acquainted with each other over
@@ -39,7 +40,7 @@ Writing Day Schedule (Free for attendees)
 
 .. datatemplate::
    :source: /_data/na-2017-writing-day.json
-   :template: include/schedule.rst
+   :template: include/schedule2017.rst
 
 Workshop Schedule (Paid tickets)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -48,7 +49,7 @@ Workshop Schedule (Paid tickets)
 
 .. datatemplate::
    :source: /_data/na-2017-workshops.json
-   :template: include/schedule.rst
+   :template: include/schedule2017.rst
 
 Monday, May 15
 --------------
@@ -57,22 +58,24 @@ The main conference will take place at the **Crystal Ballroom located at 1332 W
 Burnside St**.
 
 This is the main event! Hear from lots of interesting folks about all
-things documentation. 
+things documentation.
 
 Main Stage
-~~~~~~~~~~
+^^^^^^^^^^^
+
 
 .. datatemplate::
    :source: /_data/na-2017-day-1.json
-   :template: include/schedule.rst
+   :template: include/schedule2017.rst
 
 Lola's Room
------------
+^^^^^^^^^^^^^
 
-:doc:`/conf/na/2017/unconference` from 1pm-5pm
+
+:doc:`/conf/na/2017/unconference` from 1pm-5pm, these run in parallel to the main talks.
 
 Monday Night - Party
-~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^
 
 The party will start at **7pm**.
 
@@ -89,19 +92,19 @@ The talks will take place at the **Crystal Ballroom located at 1332 W
 Burnside St**.
 
 Main Stage
-~~~~~~~~~~
+^^^^^^^^^^^
 
 .. datatemplate::
    :source: /_data/na-2017-day-2.json
-   :template: include/schedule.rst
+   :template: include/schedule2017.rst
 
 Lola's Room
------------
+^^^^^^^^^^^
 
-:doc:`/conf/na/2017/unconference` from 9am-3pm
+:doc:`/conf/na/2017/unconference` from 9am-3pm,  these run in parallel to the main talks.
 
 Say Goodbye
------------
+^^^^^^^^^^^
 
 Say goodbye to all your new and amazing friends.
 We'll see you in Prague in September,

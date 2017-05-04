@@ -9,7 +9,6 @@ It has been a wonderful venue for us the past few years,
 and we expect this to be another wonderful year.
 
 .. image:: http://c308991.r91.cf1.rackcdn.com/SiteFiles/Venues/4784/048MG0488978.jpg
-   :width: 80%
 
 
 Accessibility

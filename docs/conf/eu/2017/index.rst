@@ -105,6 +105,19 @@
                 </div>
 
                 <div class="row">
+                <div class="col-xs-12 col-md-4">
+                  <a href="news/announcing-cfp/" class="well news__tile">
+                    <h3 class="well__title">
+                      Announcing Call for Proposals
+                    </h3>
+                    <p class="well__paragraph">
+                    We're happy to officially announce the Call for Proposals for Write the Docs Prague 2017!
+                    </p>
+                    <div class="well__time">
+                      <span>11:14</span>|<span>Apr 17, 2017</span>
+                    </div>
+                  </a>
+                </div>
                   <div class="col-xs-12 col-md-4">
                     <a href="news/announcing-website-tickets/" class="well news__tile">
                       <h3 class="well__title">
@@ -123,7 +136,49 @@
                 </div>
 
               </section>
+              <!-- Sponsors -->
+              <section class="section section--last">
 
+                <div class="row">
+                  <div class="col-xs-12">
+                    <div class="section__header subheader">
+                      <span class="subheader__yellow"></span>
+                      <h2 class="subheader__header">Sponsors</h2>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-sm-8 col-sm-offset-2">
+                    <p>The conference wouldn't be nearly as great as it is without our wonderful corporate sponsors.
+                    Thanks to these folks for supporting the community.</p>
+                  </div>
+                </div>
+
+.. include:: /include/conf/2017-eu-sponsors.rst
+
+.. raw:: html
+
+              <div class="row">
+                <div class="col-sm-8 col-sm-offset-2">
+                <br />
+                <h3>
+                  In kind sponsors
+                </h3>
+                </div>
+              </div>
+
+                <div class="row">
+                  <div class="col-sm-8 col-sm-offset-2">
+                    <p>Write the Docs is also helped out by companies that give their employees time to work on the conference.</p>
+                  </div>
+                </div>
+
+.. include:: /include/conf/2017-eu-sponsors-in-kind.rst
+
+.. raw:: html
+
+              </section>
 
             </div>
           </div>

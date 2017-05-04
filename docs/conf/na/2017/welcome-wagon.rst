@@ -269,17 +269,19 @@ or just chat about the conference!
 
 .. container:: crew-images
 
-   .. figure:: /_static/img/crew/leona.jpg
-      :height: 250px
-      :width: 250px
+   .. container:: col-sm-offset-2
 
-      Leona
+      .. figure:: /_static/img/crew/leona.jpg
+         :height: 250px
+         :width: 250px
 
-   .. figure:: /_static/img/crew/christy.jpg
-      :height: 250px
-      :width: 250px
+         Leona
 
-      Christy
+      .. figure:: /_static/img/crew/christy.jpg
+         :height: 250px
+         :width: 250px
+
+         Christy
 
 
 Thanks

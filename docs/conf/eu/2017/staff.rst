@@ -33,16 +33,16 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 
 * **Conference chair** - Mikey Ariel
 * **Swag coordinator** - Mikey Ariel
-* **Speaker wrangler** - TBD
+* **Speaker wrangler** - Samuel Wright
 * **Infrastructure chair** - Samuel Wright
 * **Writing Day coordinator** - TBD
-* **Unconference coordinator** - TBD
-* **Lightning Talk coordinator** - TBD
+* **Unconference coordinator** - Paul Adams
+* **Lightning Talk coordinator** - Paul Adams
 * **Communication chair** - Mikey Ariel
 * **Volunteer coordinator** - TBD
 * **Sponsorship lead** - Eric Holscher
 * **Explore Prage coordinator** - TBD
-* **Welcome Wagon coordinators** - TBD
+* **Welcome Wagon coordinators** - Kendall Pakula, Louise Monsour
 * **Social media chair** - TBD
 * **Boat tour coordinator** - Mikey Ariel
 * **Emcee** - TBD

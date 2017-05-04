@@ -41,7 +41,7 @@
 
           {% else %}
 
-`{{ talk.Session }} </conf/na/2016/speakers/#speaker-{{ talk.slug }}>`_
+`{{ talk.Session }} </conf/na/2017/speakers/#speaker-{{ talk.slug }}>`_
 
 .. raw:: html
 
