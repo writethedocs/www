@@ -19,9 +19,7 @@
                   </div>
                   <div class="col-xs-12 col-md-7 text-xs-center text-md-right">
                     <div class="buy-ticket__2nd-col">
-                      <a href="https://ti.to/writethedocs/write-the-docs-na-2017/" class="btn btn-primary button button--narrow buy-ticket__ticket">Buy a ticket!</a>
-                      <p class="buy-ticket__p">then</p>
-                      <a href="/conf/na/2017/welcome-wagon/" class="btn btn-primary button button--narrow buy-ticket__talk">Jump on the Welcome Wagon!</a>
+                      <a href="/conf/na/2017/welcome-wagon/" class="btn btn-primary button button--narrow buy-ticket__talk">Get ready for the conference with our Welcome Wagon</a>
                     </div>
                   </div>
                 </div>
@@ -153,6 +151,21 @@
                     </a>
                   </div>
 
+                  <div class="row">
+                    <div class="col-xs-12 col-md-4">
+                      <a href="news/schedule-social/" class="well news__tile">
+                        <h3 class="well__title">
+                          Announcing Full Schedule and Social Events
+                        </h3>
+                        <p class="well__paragraph">
+                        Our Portland conference is just two weeks away and we
+                        hope you're getting excited!
+                        </p>
+                        <div class="well__time">
+                          <span>3 PM</span>|<span>May 3, 2017</span>
+                        </div>
+                      </a>
+                    </div>
 
                   <div class="col-xs-12 col-md-4">
                     <a href="news/announcing-presentations/" class="well news__tile">

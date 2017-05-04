@@ -6,7 +6,10 @@
 Tickets
 =======
 
-You can buy a ticket on our `ticket website <https://ti.to/writethedocs/write-the-docs-na-2017/>`_.
+**TICKETS ARE SOLD OUT!**
+
+Thanks to everyone who is coming,
+and we'll see you in Portland soon!
 
 Ticket includes:
 
