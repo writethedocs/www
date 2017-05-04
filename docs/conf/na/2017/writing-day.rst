@@ -32,7 +32,7 @@ and give you some ideas for how you can contribute to a project that you love.
 Write Write the Docs on Writing Day
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This year we're also running a session where you can help improve your favourite website. Yup, you can brainstorm improvements, write helpful content and posts, or just magically improve `Write the Docs <http://www.writethedocs.org>`_.
+This year we're also running a session where you can help improve your favorite website. Yup, you can brainstorm improvements, write helpful content and posts, or just magically improve `Write the Docs <http://www.writethedocs.org>`_.
 
 If you're writing text to add to the website, ideally you'll already be familiar with GitHub and writing in plain text (markdown or restructured text), but we'll be there to help out if you're not.
 
