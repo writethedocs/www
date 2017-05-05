@@ -25,11 +25,11 @@ You'll probably need `root` privileges to install the prerequisites.
 
 ### Previewing the docs locally
 
+> Remember to activate the virtual environment using `source venv/bin/activate` before running the following commands.
+
 1. In the `docs` directory, run `make livehtml` to view the docs on [http://127.0.0.1:8888/](http://127.0.0.1:8888/).
 
 If you're not seeing new content in the local preview, run `make clean` to delete the generated files, then `make livehtml` to regenerate them.
-
-> Remember to active the virtual environment using `source venv/bin/activate` before running any `sphinx` commands.
 
 The Write the Docs website is hosted on [Read the Docs](https://readthedocs.org/projects/writethedocs-www).
 
