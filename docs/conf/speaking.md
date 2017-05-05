@@ -7,8 +7,10 @@ help you plan your talk and your slides.
 
 * Your talk will be either 20 minutes or 30 minutes. You should know which by now; if you're 
 not sure, let us know right away at conf@writethedocs.org.
-* There will be no time for questions immediately following your talk.
+* There will be no time for questions immediately following your talk, plan to use the entire slot.
 * We strongly recommend that you practice your talk, ideally in front of at least one other person.
+* We will have a lapel mic for you, so you don't need to hold one.
+* We will provide adapters for Mac & HDMI computers.
 
 ### Presentation
 
