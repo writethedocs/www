@@ -12,8 +12,8 @@ You'll probably need `root` privileges to install the prerequisites.
 1. Install `python 2.7.x` using your package manager.
 
 2. If your version of Python as shown by `python -V` is <= `2.7.9`:
-   * download and install [pip](https://pip.pypa.io/en/stable/installing/).
-   * install `virtualenv` using your package manager
+   1. download and install [pip](https://pip.pypa.io/en/stable/installing/).
+   2. install `virtualenv` using your package manager.
 
 ### Installing the project requirements
 
@@ -29,9 +29,7 @@ You'll probably need `root` privileges to install the prerequisites.
 
 If you're not seeing new content in the local preview, run `make clean` to delete the generated files, then `make livehtml` to regenerate them.
 
-.. note::
-
-   Remember to active the virtual environment using `source venv/bin/activate` before running any `sphinx` commands.
+> Remember to active the virtual environment using `source venv/bin/activate` before running any `sphinx` commands.
 
 The Write the Docs website is hosted on [Read the Docs](https://readthedocs.org/projects/writethedocs-www).
 
