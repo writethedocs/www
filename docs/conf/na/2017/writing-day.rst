@@ -14,6 +14,11 @@ so make sure that you have the tools you need to contribute.
 - Date & Time: **Sunday, May 14th, 9am-6pm**,
   with the conference opening reception in the same space until 9.
 - Location: **Crystal Ballroom, 1332 W Burnside St**. We will be in the main ballroom.
+- Projects:
+
+  + :ref:`writewrite`
+  + :ref:`kubernetes`
+  + anything else you fancy
 
 Writing Day Schedule
 ^^^^^^^^^^^^^^^^^^^^
@@ -28,6 +33,8 @@ Documenting a new project?
 Check out our `beginners guide <http://docs.writethedocs.org/writing/beginners-guide-to-docs/>`_ to writing documentation.
 This should help you get started,
 and give you some ideas for how you can contribute to a project that you love.
+
+.. _writewrite:
 
 Write Write the Docs on Writing Day
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -75,3 +82,20 @@ We have a list of `issues on GitHub <https://github.com/writethedocs/www/issues?
 - improve the meetup pages
 - make a better video archive
 - add list of conference write ups for past conferences
+
+.. _kubernetes:
+
+Kubernetes
+^^^^^^^^^^^^
+
+If you're looking to contribute to open source documentation on Github during
+Writing Day, you'll have the opportunity to edit content for Kubernetes.
+Kubernetes is an open source system that manages containerized applications
+across different infrastructures.
+
+The Kubernetes doc folks are looking for help to edit content, get it into
+templates, and verify that it conforms to their new site architecture. No
+previous product experience is necessary to help out, and they pay in swag,
+gracious thanks, and enthusiastic high-fives. Docs are located at `Kubernetes.io
+<https://kubernetes.io/docs/home/>`_ and they're pulled directly from `Github
+<https://github.com/kubernetes/kubernetes.github.io>`_.
