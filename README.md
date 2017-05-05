@@ -5,9 +5,9 @@ about the Write the Docs group, as well as information about writing documentati
 
 The repo is still in its early stages; feel free to contribute information that you might want to share with the community. To contribute to the Write the Docs website, famililarize yourself with the [Sphinx site generator](http://sphinx.pocoo.org/index.html).
 
-### Prerequisites for generating the docs locally
+### Prerequisites for previewing the docs locally
 
-You might need `root` privileges to install the prerequisites
+You'll probably need `root` privileges to install the prerequisites.
 
 1. Install `python 2.7.x` using your package manager.
 
@@ -15,13 +15,17 @@ You might need `root` privileges to install the prerequisites
    * download and install [pip](https://pip.pypa.io/en/stable/installing/).
    * install `virtualenv` using your package manager
 
-### To generate the docs locally
+### Installing the project requirements
 
-2. In the repository root directory (`www` by default), create a virtual environment for the project requirements `virtualenv venv` and activate it `source venv/bin/activate`.
+1. In the repository root directory (`www` by default), create a virtual environment for the project requirements by running `virtualenv venv`. More info on [virtualenv](https://virtualenv.pypa.io/en/stable/).
 
-3. In the repository root directory (`www` by default), run `pip install -r requirements.txt` to install sphinx and other requirements.
+2. Activate the virtual environment by running `source venv/bin/activate` (you'll need to do this every time you come back to the project).
 
-4. In the `docs` directory, run `make livehtml` to view the docs on [http://127.0.0.1:8888/](http://127.0.0.1:8888/).
+2. In the repository root directory (`www` by default), run `pip install -r requirements.txt` to install sphinx and other requirements.
+
+### Previewing the docs locally
+
+1. In the `docs` directory, run `make livehtml` to view the docs on [http://127.0.0.1:8888/](http://127.0.0.1:8888/).
 
 If you're not seeing new content in the local preview, run `make clean` to delete the generated files, then `make livehtml` to regenerate them.
 
