@@ -33,7 +33,7 @@ If you're not seeing new content in the local preview, run `make clean` to delet
 
 The Write the Docs website is hosted on [Read the Docs](https://readthedocs.org/projects/writethedocs-www).
 
-## Viewing changes on staging
+### Viewing changes on staging
 
 If you you can't run `make livehtml` locally, or don't want to, you can preview
 changes by merging them into the `staging` branch and pushing that to GitHub.
@@ -53,7 +53,7 @@ preview your changes on:
 
 http://writethedocs-staging.readthedocs.io/en/staging/
 
-## Updating the theme or css
+### Updating the theme or css
 
 If you need to update the theme, the original source is in
 
