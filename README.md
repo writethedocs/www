@@ -5,17 +5,29 @@ about the Write the Docs group, as well as information about writing documentati
 
 The repo is still in its early stages; feel free to contribute information that you might want to share with the community. To contribute to the Write the Docs website, famililarize yourself with the [Sphinx site generator](http://sphinx.pocoo.org/index.html).
 
-To generate the docs locally:
+### Prerequisites for generating the docs locally
+
+You might need `root` privileges to install the prerequisites
 
 1. Install `python 2.7.x` using your package manager.
 
-2. If your version of Python as shown by `python -V` is <= 2.7.9, download and install  [pip](https://pip.pypa.io/en/stable/installing/) .
+2. If your version of Python as shown by `python -V` is <= `2.7.9`:
+   * download and install [pip](https://pip.pypa.io/en/stable/installing/).
+   * install `virtualenv` using your package manager
 
-3. In the repository root directory (`www` by default), as the root user, run `pip install -r requirements.txt` to install sphinx and other requirements.
+### To generate the docs locally
+
+2. In the repository root directory (`www` by default), create a virtual environment for the project requirements `virtualenv venv` and activate it `source venv/bin/activate`.
+
+3. In the repository root directory (`www` by default), run `pip install -r requirements.txt` to install sphinx and other requirements.
 
 4. In the `docs` directory, run `make livehtml` to view the docs on [http://127.0.0.1:8888/](http://127.0.0.1:8888/).
 
 If you're not seeing new content in the local preview, run `make clean` to delete the generated files, then `make livehtml` to regenerate them.
+
+.. note::
+
+   Remember to active the virtual environment using `source venv/bin/activate` before running any `sphinx` commands.
 
 The Write the Docs website is hosted on [Read the Docs](https://readthedocs.org/projects/writethedocs-www).
 
