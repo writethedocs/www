@@ -33,7 +33,101 @@ All transit in Portland announce stops verbally in English. Most buses have a vi
 Dietary requirements
 ********************
 
-We aim to meet all dietary requirements. You will be able to specify these when purchasing your ticket.
+We aim to meet all dietary requirements. Our menu and ingredients are described
+below, although one or two items are still subject to change.
+
+Sunday
+===========
+
+Wrap buffet
+++++++++++++++
+
+- Fruit Salad:  Vegan/GF
+- Tortillas:  Vegan
+- Veggie Sausage: Vegetarian, may not be vegan, not housemade
+- Potatoes:  Vegan/GF, contains onions, garlic, thyme, paprika
+- Beans:  Vegan/GF, contains onions, garlic, chilies
+- Veggie/kale mix:  Vegan/GF, contains olive oil, kale, squash, garlic
+
+Honor roll
++++++++++++
+
+- Granola Bars:  vegetarian, contains butter, honey, brown sugar, oats, pecans, cinnamon, raisins, mango, apricots, pumpkin seeds, almond meal, sesame seeds,
+
+Sandwich buffet
+++++++++++++++++++
+
+- Bread:  Vegetarian
+- Pasta Salad:  vegetarian, contains feta, artichoke hearts, olives, vinaigrette, bell peppers, basil, onions, black pepper
+
+Vintner Picnic
++++++++++++++++
+
+- Gruyere/Hazelnut Straws:  Vegetarian, contains cheese, egg, nuts
+- Rosemary Nuts:  Vegetarian/GF, contains butter, pepper, sugar, rosemary
+
+Far East
+++++++++++
+
+- Satay:  GF
+- Salad Rolls:  Vegan/GF, contains peppers, cabbage, bean sprouts, lettuce, rice noodles
+- Peanut Sauce:  Vegan/GF, contains nuts
+- Curried Crab Salad:  GF, contains mayo, onions, cilantro, basil, crab meat, curry
+
+Mediterranean
+++++++++++++++++
+
+Hummus:  GF/Vegan, contain garlic, tahini
+Pita:  Vegetarian
+Spanikopita:  Vegetarian
+Meatballs:  contains eggs, onion, garlic, bread crumbs, beef, pork
+
+
+Monday
+===========
+
+Breakfast breads:  Vegetarian, contains dairy
+
+Health Nut
++++++++++++++
+
+- Cinnamon-Honey Granola:  Vegetarian, contains honey, oats, nuts, nutmeg, clove, brown sugar
+
+Pasta Buffet
++++++++++++++++
+
+- Caesar dressing:  contains anchovy, garlic, cheese, mayo
+- Spaghetti Squash:  Vegan/GF, contains olive oil, onions, garlic, white wine, bail, tomatoes, oregano
+- High Pasta:  Vegetarian, contains tomatoes, spinach, cheese, parsley, garlic, butter, hazelnuts
+
+Straight A Student
++++++++++++++++++++++
+
+- Graham Cracker:  Vegetarian, contains wheat, butter, honey
+- Caram-Ale Sauce:  Vegetarian, contains ale, cream, sugar
+
+
+Tuesday
+=============
+
+Santa Fe Buffet
+++++++++++++++++++
+
+- Chix Fajitas:  GF, contains onions, peppers, garlic, salt, cilantro, lime juice
+- Tofu Fajita: Vegan/GF, contains same as above
+- Black Beans:  Vegan/GF, contains onions, garlic, chilies
+- Rice:  Vegan/GF, contains onions, garlic, peppers, tomatoes, chilies
+
+Chocolate Buzz
++++++++++++++++++
+
+- Brownies:  Vegetarian, contains butter, eggs, vanilla, flour
+- Eclairs:  Vegetarian, contains dairy
+
+
+
+
+
 
 Restrooms
 *********
