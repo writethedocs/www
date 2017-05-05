@@ -39,8 +39,8 @@ below, although one or two items are still subject to change.
 Sunday
 ===========
 
-Wrap buffet
-++++++++++++++
+08:00 - 10:00 Wrap buffet
+++++++++++++++++++++++++++
 
 - Fruit Salad:  Vegan/GF
 - Tortillas:  Vegan
@@ -49,59 +49,78 @@ Wrap buffet
 - Beans:  Vegan/GF, contains onions, garlic, chilies
 - Veggie/kale mix:  Vegan/GF, contains olive oil, kale, squash, garlic
 
-Honor roll
-+++++++++++
+10:40 - 12:00 Honor roll
++++++++++++++++++++++++++++
 
 - Granola Bars:  vegetarian, contains butter, honey, brown sugar, oats, pecans, cinnamon, raisins, mango, apricots, pumpkin seeds, almond meal, sesame seeds,
 
-Sandwich buffet
-++++++++++++++++++
+10:40 - 12:00 Health Nut
++++++++++++++++++++++++++++
+
+- Cinnamon-Honey Granola:  Vegetarian, contains honey, oats, nuts, nutmeg, clove, brown sugar
+
+12:30 - 02:00 Sandwich buffet
+++++++++++++++++++++++++++++++
 
 - Bread:  Vegetarian
 - Pasta Salad:  vegetarian, contains feta, artichoke hearts, olives, vinaigrette, bell peppers, basil, onions, black pepper
 
-Vintner Picnic
-+++++++++++++++
+03:00 PM - 04:00 PM Vintner Picnic
++++++++++++++++++++++++++++++++++++++++
 
 - Gruyere/Hazelnut Straws:  Vegetarian, contains cheese, egg, nuts
 - Rosemary Nuts:  Vegetarian/GF, contains butter, pepper, sugar, rosemary
 
-Far East
-++++++++++
+03:00 PM - 05:00 PM Straight A Student
+++++++++++++++++++++++++++++++++++++++++++++
+
+- Graham Cracker:  Vegetarian, contains wheat, butter, honey
+- Caram-Ale Sauce:  Vegetarian, contains ale, cream, sugar
+
+06:00 PM - 09:00 PM Far East
+++++++++++++++++++++++++++++
 
 - Satay:  GF
 - Salad Rolls:  Vegan/GF, contains peppers, cabbage, bean sprouts, lettuce, rice noodles
 - Peanut Sauce:  Vegan/GF, contains nuts
 - Curried Crab Salad:  GF, contains mayo, onions, cilantro, basil, crab meat, curry
 
-Mediterranean
-++++++++++++++++
+06:00 PM - 09:00 PM Mediterranean
++++++++++++++++++++++++++++++++++++++
 
-Hummus:  GF/Vegan, contain garlic, tahini
-Pita:  Vegetarian
-Spanikopita:  Vegetarian
-Meatballs:  contains eggs, onion, garlic, bread crumbs, beef, pork
+- Hummus:  GF/Vegan, contain garlic, tahini
+- Pita:  Vegetarian
+- Spanikopita:  Vegetarian
+- Meatballs:  contains eggs, onion, garlic, bread crumbs, beef, pork
 
 
 Monday
 ===========
 
-Breakfast breads:  Vegetarian, contains dairy
+08:00 AM - 10:00 AM Breakfast
+++++++++++++++++++++++++++++++
 
-Health Nut
-+++++++++++++
+- Breakfast breads:  Vegetarian, contains dairy
+
+10:40 - 12:00 Honor roll
++++++++++++++++++++++++++++
+
+- Granola Bars:  vegetarian, contains butter, honey, brown sugar, oats, pecans, cinnamon, raisins, mango, apricots, pumpkin seeds, almond meal, sesame seeds,
+
+10:40 - 08:00 PM Health Nut
++++++++++++++++++++++++++++
 
 - Cinnamon-Honey Granola:  Vegetarian, contains honey, oats, nuts, nutmeg, clove, brown sugar
 
-Pasta Buffet
-+++++++++++++++
+12:10 - 02:00 PM Pasta Buffet
+++++++++++++++++++++++++++++++++++
 
 - Caesar dressing:  contains anchovy, garlic, cheese, mayo
 - Spaghetti Squash:  Vegan/GF, contains olive oil, onions, garlic, white wine, bail, tomatoes, oregano
 - High Pasta:  Vegetarian, contains tomatoes, spinach, cheese, parsley, garlic, butter, hazelnuts
 
-Straight A Student
-+++++++++++++++++++++
+03:00 PM - 05:00 PM Straight A Student
++++++++++++++++++++++++++++++++++++++++++
 
 - Graham Cracker:  Vegetarian, contains wheat, butter, honey
 - Caram-Ale Sauce:  Vegetarian, contains ale, cream, sugar
@@ -110,24 +129,42 @@ Straight A Student
 Tuesday
 =============
 
-Santa Fe Buffet
-++++++++++++++++++
+
+08:00 AM - 10:00 AM Breakfast
+++++++++++++++++++++++++++++++
+
+- Breakfast breads:  Vegetarian, contains dairy
+
+10:40 - 12:00 Honor roll
++++++++++++++++++++++++++++
+
+- Granola Bars:  vegetarian, contains butter, honey, brown sugar, oats, pecans, cinnamon, raisins, mango, apricots, pumpkin seeds, almond meal, sesame seeds,
+
+10:40 - 08:00 PM Health Nut
++++++++++++++++++++++++++++
+
+- Cinnamon-Honey Granola:  Vegetarian, contains honey, oats, nuts, nutmeg, clove, brown sugar
+
+12:20 - 02:00 PM Santa Fe Buffet
++++++++++++++++++++++++++++++++++++
 
 - Chix Fajitas:  GF, contains onions, peppers, garlic, salt, cilantro, lime juice
 - Tofu Fajita: Vegan/GF, contains same as above
 - Black Beans:  Vegan/GF, contains onions, garlic, chilies
 - Rice:  Vegan/GF, contains onions, garlic, peppers, tomatoes, chilies
 
-Chocolate Buzz
-+++++++++++++++++
+03:00 PM - 05:00 PM Vintner Picnic
++++++++++++++++++++++++++++++++++++++++
+
+- Gruyere/Hazelnut Straws:  Vegetarian, contains cheese, egg, nuts
+- Rosemary Nuts:  Vegetarian/GF, contains butter, pepper, sugar, rosemary
+
+
+03:00 PM - 05:00 PM  Chocolate Buzz
++++++++++++++++++++++++++++++++++++++
 
 - Brownies:  Vegetarian, contains butter, eggs, vanilla, flour
 - Eclairs:  Vegetarian, contains dairy
-
-
-
-
-
 
 Restrooms
 *********
