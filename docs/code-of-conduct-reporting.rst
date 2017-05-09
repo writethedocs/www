@@ -11,6 +11,17 @@ If the violation occurs at an event (such as conference, meetup), get in touch w
 * By phone
 * By email
 
+Staff Contact Information
+-------------------------
+
+If for any reason you need to report an issue,
+please contact us!
+You can email us at conduct@writethedocs.org,
+or report something to one of the following people:
+
+.. include:: /include/conf/na-coc.rst
+
+
 What to include in the report
 -----------------------------
 
