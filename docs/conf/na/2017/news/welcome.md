@@ -16,9 +16,14 @@ The conference is just a few days away.
 We have some reminders, late-breaking information, and a few thanks are in order.
 
 A quick summary is: Come to the Crystal Ballroom whenever you get in Sunday,
-we'll be there doing different events,
-and it will be fun.
+we'll be there doing a few different events.
+You can get your badge early,
+learn from other documentarians,
+and get into the swing of the event.
 Then join us again at the Crystal Ballroom Monday morning for the main conference.
+The [Schedule](http://www.writethedocs.org/conf/na/2017/schedule/) has all the details of dates and times.
+
+Here is a full list of information that is useful for your planning:
 
 Info
 ----
