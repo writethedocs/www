@@ -19,6 +19,7 @@ Be Prepared
 
 Get Involved
 ------------
+
 * **Plan a project for Writing Day.** The `Writing Day <http://www.writethedocs.org/conf/na/2017/writing-day/>`_ will be held on Sunday from *9am-6pm*, and you can drop in at any time during the day. If you have a project you want to propose to others, you can pitch your topic during the welcome announcement that will be held at *9:30am*. Check out the `Writing Day <http://www.writethedocs.org/conf/na/2016/writing-day/>`_ page for a few suggested projects!
 * **Plan a lightning talk.** We'll have `lightning talks <http://www.writethedocs.org/conf/na/2017/lightning-talks/>`_ each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want. This is your chance to share something you are passionate about with the audience. Slides are not required.
 * **Plan a discussion.** We'll be running the `Unconference <http://www.writethedocs.org/conf/na/2017/unconference/>`_ in the afternoon on Monday and all day on Tuesday. Want to chat with like-minded folks about a very specific thing? This is the place. We'll have a sign-up board so you know what's happening, and supplies to help you brainstorm.
@@ -27,8 +28,8 @@ Get Involved
 Find Your Way Around
 --------------------
 
-**Riding the trains.** Be aware that TriMet, Portland's public transit system, will be working on the light rail lines. This means that you can't easily get from the Airport to downtown without a transfer. Public transit is generally excellent in Portland, but trains might be crowded, and schedules will be limited. For more information, see our `visiting page <http://www.writethedocs.org/conf/na/2017/visiting/#the-max>`_ and the `TriMet website <https://trimet.org/alerts/morrisonyamhill/>`_.
-**Riding a bike.** Portland has a fancy new `bike share program <https://www.biketownpdx.com/>`_, and they've given us a discount code for you! You can use **WRITE17** for 50% off your first day pass.
+* **Riding the trains.** Be aware that TriMet, Portland's public transit system, will be working on the light rail lines. This means that you can't easily get from the Airport to downtown without a transfer. Public transit is generally excellent in Portland, but trains might be crowded, and schedules will be limited. For more information, see our `visiting page <http://www.writethedocs.org/conf/na/2017/visiting/#the-max>`_ and the `TriMet website <https://trimet.org/alerts/morrisonyamhill/>`_.
+* **Riding a bike.** Portland has a fancy new `bike share program <https://www.biketownpdx.com/>`_, and they've given us a discount code for you! You can use **WRITE17** for 50% off your first day pass.
 
 Have Fun
 --------
