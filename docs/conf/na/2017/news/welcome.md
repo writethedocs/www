@@ -15,7 +15,10 @@ Hello Documentarians,
 The conference is just a few days away. 
 We have some reminders, late-breaking information, and a few thanks are in order.
 
-We hope you're getting excited!
+A quick summary is: Come to the Crystal Ballroom whenever you get in Sunday,
+we'll be there doing different events,
+and it will be fun.
+Then join us again at the Crystal Ballroom Monday morning for the main conference.
 
 Info
 ----
