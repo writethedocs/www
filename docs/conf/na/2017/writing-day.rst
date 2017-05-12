@@ -99,3 +99,22 @@ previous product experience is necessary to help out, and they pay in swag,
 gracious thanks, and enthusiastic high-fives. Docs are located at `Kubernetes.io
 <https://kubernetes.io/docs/home/>`_ and they're pulled directly from `Github
 <https://github.com/kubernetes/kubernetes.github.io>`_.
+
+
+Mozilla Developer Network
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Mozilla Developer Network (MDN) provides browser-neutral docs on client-side
+Web technologies: HTML, CSS, JavaScript, and the Web APIs.
+
+You can contribute by writing technical articles, copy-editing,
+writing code samples, or translating pages. MDN staff will be there to help out.
+
+
+Your Project Here
+^^^^^^^^^^^^^^^^^
+
+Yup. We know you need better docs. We do too. Make it happen.
+
+Send us an email or pull request with your project and a short paragraph
+about what you need help with, and we'll include it here.
