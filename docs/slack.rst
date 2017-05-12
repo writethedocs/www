@@ -13,7 +13,7 @@ and get you connected with folks who have similar interests.
 
 You can `join our Slack <http://slack.writethedocs.org/>`_ if you aren't already a member.
 
-.. note:: Feel free to send a Pull Request to update `this page`_, if you want to include more other channels.
+.. note:: Feel free to send a Pull Request to update `this page`_, if you want to include other channels.
 
 .. _this page: https://github.com/writethedocs/www/blob/master/docs/slack.rst
 
