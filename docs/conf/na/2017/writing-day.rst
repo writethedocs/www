@@ -19,6 +19,7 @@ so make sure that you have the tools you need to contribute.
   + :ref:`writewrite`
   + :ref:`kubernetes`
   + :ref:`openstack`
+  + :ref:`media`
   + anything else you fancy
 
 Writing Day Schedule
@@ -147,3 +148,19 @@ learn about collaborating on a large set of open source cloud projects.
 .. _translation tools: https://wiki.openstack.org/wiki/I18n/Tools
 .. _bug tracker: https://bugs.launchpad.net/openstack-manuals/+bugs
 .. _REST API docs: https://docs.openstack.org/contributor-guide/api-guides.html
+
+.. _media:
+
+MediaWiki
+^^^^^^^^^^^
+
+Team up with other volunteer tech writers and contribute to the documentation
+for `MediaWiki <http://mediawiki.org/>`_, the open source software powering
+Wikipedia . We are looking for help with various types of tasks such as
+improving the technical documentation of articles, re-organizing content,
+verifying documentation, and writing tutorials on how to use or install a
+service. If you're interested, you can prepare ahead of the writing day:
+
+- Create a MediaWiki account.
+- Read this `list of available tasks <https://www.mediawiki.org/wiki/Write_the_Docs_San_Francisco_Meetup_May_2017>`_ we're planning to showcase at the writing day.
+- Watch this presentation from `Write the Docs SF <https://youtu.be/ixU_3Gjkya4?t=3m21s>`_ [3:15 - 34:17]
