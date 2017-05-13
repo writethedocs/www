@@ -18,6 +18,7 @@ so make sure that you have the tools you need to contribute.
 
   + :ref:`writewrite`
   + :ref:`kubernetes`
+  + :ref:`openstack`
   + anything else you fancy
 
 Writing Day Schedule
@@ -99,3 +100,50 @@ previous product experience is necessary to help out, and they pay in swag,
 gracious thanks, and enthusiastic high-fives. Docs are located at `Kubernetes.io
 <https://kubernetes.io/docs/home/>`_ and they're pulled directly from `Github
 <https://github.com/kubernetes/kubernetes.github.io>`_.
+
+.. _openstack:
+
+OpenStack
+^^^^^^^^^
+
+It's great to learn about open source contribution in a friendly, welcoming
+environment like OpenStack. OpenStack offers a collection of projects for
+cloud services such as compute, storage, and networks. Yes, it's large, but we
+have some maps for contributors who like to work with and build clouds.
+
+OpenStack documentation tools, tests, and processes are the same as the Python code processes for all projects. The source is in `RST`_ and the docs build
+with Sphinx using scripts run in a virtual environment with the
+`tox command line tool`_. The source control system is git, and the review
+system is `gerrit`_. The source files are in the project repos and a docs-only
+repo, `openstack-manuals`_. The documentation sites are:
+
+- `docs.openstack.org <https://docs.openstack.org>`_
+- `developer.openstack.org <https://developer.openstack.org>`_
+
+You can find all the instructions for contributing to documentation in the
+`OpenStack Docs Contributor Guide`_, including a comprehensive `style guide`_
+and a quick start guide for `first timers`_. Recently the team members added a
+section about contributors who speak `English as a second language`_. There's
+also a comprehensive, collaborative set of `translation tools`_.
+
+The bug tracking system is in Launchpad. For example, go to the `bug tracker`_
+for the openstack-manuals project, and search for doc bugs that are tagged with
+`low-hanging-fruit` and also unassigned.
+
+There are `REST API docs`_ with specific contributor information, administrator
+docs, user docs, a variety of developer docs, and tools upon which to work.
+With a Facebook login (sorry, yes, we want to improve that gated access), you
+can try using an OpenStack cloud at https://trystack.org. Go see what you can
+learn about collaborating on a large set of open source cloud projects.
+
+.. _RST: http://www.sphinx-doc.org/en/stable/rest.html
+.. _tox command line tool: https://tox.readthedocs.io/en/latest/
+.. _gerrit: https://review.openstack.org
+.. _openstack-manuals : https://github.com/openstack/openstack-manuals
+.. _OpenStack Docs Contributor Guide: https://docs.openstack.org/contributor-guide/
+.. _style guide: https://docs.openstack.org/contributor-guide/writing-style.html
+.. _First timers: https://docs.openstack.org/contributor-guide/quickstart/first-timers.html#setting-up-for-contribution
+.. _English as a second language: https://docs.openstack.org/contributor-guide/non-native-english-speakers.html
+.. _translation tools: https://wiki.openstack.org/wiki/I18n/Tools
+.. _bug tracker: https://bugs.launchpad.net/openstack-manuals/+bugs
+.. _REST API docs: https://docs.openstack.org/contributor-guide/api-guides.html
