@@ -9,11 +9,11 @@
 
 ## Happy October!
 
-Hello Write the Docs! Nice to see you again in this, our second issue of the community newsletter. In case you missed us last time, we've started up a monthly newsletter to highlight interesting conversations that have been happening in the community over the last few weeks. 
+Hello Write the Docs! Nice to see you again in this, our second issue of the community newsletter. In case you missed us last time, we've started up a monthly newsletter to highlight interesting conversations that have been happening in the community over the last few weeks.
 
-This month, there was tons of good material to choose from on the Write the Docs Slack. (Between us, I suspect this is going to be a recurring problem. 😉 ) On top of that, out in the real world, we successfully carried off our third EU conference! We'll include some links to write-ups and multimedia coverage from Prague at the bottom of the newsletter, if you're looking to relive (or vicariously experience) the fun! 
+This month, there was tons of good material to choose from on the Write the Docs Slack. (Between us, I suspect this is going to be a recurring problem. 😉 ) On top of that, out in the real world, we successfully carried off our third EU conference! We'll include some links to write-ups and multimedia coverage from Prague at the bottom of the newsletter, if you're looking to relive (or vicariously experience) the fun!
 
-In the meantime, we hope you find these tidbits useful, insightful, or at the very least a reasonably interesting way to pass a few minutes of your day. 
+In the meantime, we hope you find these tidbits useful, insightful, or at the very least a reasonably interesting way to pass a few minutes of your day.
 
 _NOTE: As a reminder, we'll be keeping an eye on the #general channel for newsletter content, but if you see a conversation elsewhere on Slack (or Twitter or wherever) that would make good newsletter fodder, ping our editor, Kelly O'Brien (@kobrien042)._
 
@@ -25,13 +25,13 @@ It was interesting to hear how people have approached the task of bringing a bro
 
 * **Pop culture references** — Using familiar characters from popular culture (Star Trek was the example that came up) was one example. It has the advantage of having a set established characters to choose from, and a narrative you can borrow against to boot. It also, though, runs the risk of not translating across cultural boundaries, as well as requiring some research into fair use and copyright laws, to be on the safe side.
 * **Wikipedia common names** — Wikipedia has a [list of common placeholder names in lots of different languages](https://en.wikipedia.org/wiki/List_of_placeholder_names_by_language), that could be a good resource. That said, the consensus was that it'd be best to check any name found there with a native speaker to make sure it's on the up-and-up. (It was also suggested that vetting and rounding out this list might make an interesting project for a future Write the Docs writing day. Something to think on.)
-* **Random name generators** — There's also a few [random name generators](http://www.behindthename.com/random/) out there that would make for good resources. 
+* **Random name generators** — There's also a few [random name generators](http://www.behindthename.com/random/) out there that would make for good resources.
 
-None of these are a perfect solution, perhaps, but they all give us somewhere to start from, when thinking about broader representation in our docs. 
+None of these are a perfect solution, perhaps, but they all give us somewhere to start from, when thinking about broader representation in our docs.
 
 ## Coming soon: The Responsible Communication Guide
 
-To help us with questions like the one above, Thursday Bram (@thursday) (one of our illustrious WtD speakers) and Audrey Eschright (founder and publisher of _[The Recompiler](https://recompilermag.com/)_) just successfully funded their Kickstarter campaign to publish the [Responsible Communication Guide](https://www.kickstarter.com/projects/961164339/the-responsible-communication-style-guide). The project will produce a cross-functional style guide to help people write about technology in way that is more sensitive and inclusive around questions of race, gender, sexuality, religion, and health. Definitely a project to keep an eye on—congratulations to everyone who worked so hard to get it funded! 
+To help us with questions like the one above, Thursday Bram (@thursday) (one of our illustrious WtD speakers) and Audrey Eschright (founder and publisher of _[The Recompiler](https://recompilermag.com/)_) just successfully funded their Kickstarter campaign to publish the [Responsible Communication Guide](https://www.kickstarter.com/projects/961164339/the-responsible-communication-style-guide). The project will produce a cross-functional style guide to help people write about technology in way that is more sensitive and inclusive around questions of race, gender, sexuality, religion, and health. Definitely a project to keep an eye on—congratulations to everyone who worked so hard to get it funded!
 
 
 ## Writing and maintaining command reference pages
@@ -42,11 +42,11 @@ One of the suggested approaches was to extract command messages in JSON format, 
 
 There are also tools that will let you autogenerate help output, based on the source code. While this approach certainly makes the reference pages easier to maintain, its success is entirely dependent on making sure that your help text strings in the code clearly and adequately explain what the command does. If those strings are unclear, the autogenerated output won't be helpful.
 
-Whether you generate them manually or automatically, though, the consensus was that having a good process for reviewing your command messages/help text is important. Introducing some kind of help text review step into your regular code review process can be a good way to get your reference copy in front of your docs team, as well as giving your dev team a good example of the impact the help text strings have on your end users. 
+Whether you generate them manually or automatically, though, the consensus was that having a good process for reviewing your command messages/help text is important. Introducing some kind of help text review step into your regular code review process can be a good way to get your reference copy in front of your docs team, as well as giving your dev team a good example of the impact the help text strings have on your end users.
 
 ## Putting together a technical writing portfolio
 
-When getting started as a documentarian, your portfolio of writing samples is often your best shot at getting your foot in the door with your first job or client. The question of what goes into a good portfolio came up this month, and people had lots of great advice to share: 
+When getting started as a documentarian, your portfolio of writing samples is often your best shot at getting your foot in the door with your first job or client. The question of what goes into a good portfolio came up this month, and people had lots of great advice to share:
 
 * **Keep samples short** — Busy hiring managers aren't likely to read a whole user manual, and in long samples, it's not always obvious which parts you actually wrote. One suggestion was 3 to 5 pages of varied documentation types (reference, narrative, procedural, etc.).
 * **Choose relevant samples** — Try to include samples that are related to the kind of tech writing you'd be doing, if the company were to hire you.
@@ -58,13 +58,13 @@ For more help with preparing technical writing portfolios, there are some guidel
 
 ## Tooling highlight: Bending the Atom editor to your will
 
-Another of our past speakers, Chris Ward (@chrisward), published a new blog post this month — 'Making Atom (even more) awesome' —  about how he uses GitHub's extensible, open source editor for writing documentation. The post garnered quite a bit of buzz and goes into an awesome degree of detail on his setup and all of the different customizations he's tried out with the editor. Definitely worth a read, if you're interested in other documentarians' tool setups. 
+Another of our past speakers, Chris Ward (@chrisward), published a new blog post this month — 'Making Atom (even more) awesome' —  about how he uses GitHub's extensible, open source editor for writing documentation. The post garnered quite a bit of buzz and goes into an awesome degree of detail on his setup and all of the different customizations he's tried out with the editor. Definitely worth a read, if you're interested in other documentarians' tool setups.
 
 Read the post here: [https://hackernoon.com/making-atom-even-more-awesome-my-setup-e7a89969a876](https://hackernoon.com/making-atom-even-more-awesome-my-setup-e7a89969a876)
 
 ## Looking for more Write the Docs?
 
-Thanks for joining us for our second edition! Just in case this wasn't enough of a docs fix for you, here's a sampling of the awesome community coverage for the Prague conference to tide you over til next month: 
+Thanks for joining us for our second edition! Just in case this wasn't enough of a docs fix for you, here's a sampling of the awesome community coverage for the Prague conference to tide you over til next month:
 
 * [Speaker Videos](https://www.youtube.com/playlist?list=PLZAeFn6dfHpnN8fXXHwPtPY33aLGGhYLJ) — by all of our wonderful speakers! ❤️
 * [Official Write the Docs Flickr Stream](https://www.flickr.com/photos/writethedocs/) — photos by Kay Smoljak (@goatlady)

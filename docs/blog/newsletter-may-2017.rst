@@ -75,7 +75,7 @@ A question about dividing a complicated data model into clickable sub-parts brou
 
 According to one Slack member, probably not. She explained, screen readers tend to go top-to-bottom, left-to-right, reading all the words and links. They can also read alphabetically by first letter and hierarchical by H1, H2, H3. But more complex stuff (like reading SVG flowcharts) is probably beyond the capability of common screen readers. For complex flowcharts, consider offering a text explanation along with the image.
 
-If you're interested in improving doc accessibility, check out @susanf's `list of accessibility resources <https://docs.google.com/document/d/19crjGz7lryYlvaIEzK8KTX_oMLAxzxx1AwGsjlsymgs/edit#heading=h.c5b1b4c0b5i6>`_. For an alt-text-centered guide, try Allen Flavell's article, `Use of ALT texts in IMGs <http://www.alanflavell.org.uk/alt/alt-text.html>`_.
+If you're interested in improving doc accessibility, check out @susanf's `list of accessibility resources <https://docs.google.com/document/d/19crjGz7lryYlvaIEzK8KTX_oMLAxzxx1AwGsjlsymgs/edit>`_. For an alt-text-centered guide, try Allen Flavell's article, `Use of ALT texts in IMGs <http://www.alanflavell.org.uk/alt/alt-text.html>`_.
 
 To address the original question about dividing a large data model into clickable sub-parts, commenters mentioned quite a few SVG tools:
 
@@ -121,7 +121,7 @@ Finally, you might be interested in this great series of tips and tricks for sta
 Looking Ahead
 #############
 
-Did we mention that `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ is coming down the pike? We just announced the `call for proposals <http://www.writethedocs.org/conf/eu/2017/news/announcing-cfp>`_. There are a few changes this year, so check it out and submit your proposal! You have until midnight CET on May 31. 
+Did we mention that `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ is coming down the pike? We just announced the `call for proposals <http://www.writethedocs.org/conf/eu/2017/news/announcing-cfp>`_. There are a few changes this year, so check it out and submit your proposal! You have until midnight CET on May 31.
 
 If you see a discussion in the WTD Slack channels that you'd like to see highlighted here in the WTD newsletter, there's a new tool for that! We're now using the `Reacji Channeler <https://reacji-channeler.builtbyslack.com>`_. If you see a helpful or enjoyable discussion and think it would make a good item in the newsletter, just tag one of the messages with the `newsletter` emoji:
 
@@ -132,4 +132,3 @@ If you see a discussion in the WTD Slack channels that you'd like to see highlig
     :alt: emoji for tagging newsletter suggestions
 
 And with Slack magic, the message will be copied into a special channel of suggestions. We look forward to reading your suggestions!
-
