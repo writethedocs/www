@@ -37,9 +37,7 @@ Why write docs
 
 You will be using your code in 6 months
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- 
-I find it best to start off with a selfish appeal.
-The best reason to write docs is because you will be using your code in 6 months.
+
 Code that you wrote 6 months ago is often indistinguishable from code that someone else has written.
 You will look upon a file with a fond sense of remembrance.
 Then a sneaking feeling of foreboding,
@@ -127,12 +125,11 @@ and documentation changes are a lot less scary than code changes.
 If you don't have documentation,
 you will miss out on a whole class of contributors.
 
-It makes your code better
+You want your code to be improved
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-There is an old truth that writing things down helps you think.
 It's really easy to have an idea in your head that sounds perfect,
-but the act of putting words to paper requires a distillation of thought.
+but the act of putting words to paper requires a distillation of thought that may not be so easy.
 
 Writing documentation improves the design of your code.
 Talking through your API and design decisions on paper allows you to think about them in a more formalized way.
@@ -150,11 +147,6 @@ Writing also becomes easier over time.
 If you don't write for many months,
 it is a lot harder to start writing again.
 Keeping your projects documented will keep you writing at a reasonable cadence.
-
-.. _tech:
-
-What technology
----------------
 
 Starting simple is the best way to achieve actual results.
 I will present a well-paved path to walk down,
