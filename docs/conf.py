@@ -124,8 +124,8 @@ def load_json(path):
 
 
 na_2015_speakers = load_json('_data/2015.na.speakers.json')
-na_speakers = load_json('_data/2016.speakers.json')
-na_2017_speakers = load_json('_data/2017-na-speakers.json')
+na_speakers = load_json('_data/2016.na.speakers.json')
+na_2017_speakers = load_json('_data/2017.na.speakers.json')
 na_day1 = load_json('_data/na-2016-day-1.json')
 na_day2 = load_json('_data/na-2016-day-2.json')
 
