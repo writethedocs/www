@@ -1,0 +1,26 @@
+[
+    {
+        "speakers": [
+            {
+                "details": "", 
+                "twitter": "", 
+                "name": "Matthew Desmond", 
+                "slug": "matthew-desmond"
+            }
+        ], 
+        "abstract": "Git is becoming the defacto place to store source code. If you want to\nintegrate and stay up to date with code, you should also be keeping your\ndocumentation there. This tutorial will take you from feeling uneasy\nabout interacting with git to making it feel like something you can\n'git' the hang of.\n\n*Learn how to Git* with Matt Desmond, who is a technical\nwriter-turned-trainer for GitHub. Take part in hands-on keyboard\nexercises that will removes the guesswork out of managing your\ndevelopment process using Git.\n\nAfter attending this session, students will:\n\n-   Conquer the different Git commands\n\n-   Actually understand what that StackOverflow answer means\n\n-   Be able to have a conversation about branching strategies (and\n    understand what a branch even is)\n\n-   Become a collaboration machine!\n\nTickets to this workshop are sold seperately. You can [buy your ticket\nhere](https://ti.to/writethedocs/write-the-docs-na-2017/with/yzgjvsp7zcw).\n\n", 
+        "title": "Workshop: Learn how to Git"
+    }, 
+    {
+        "speakers": [
+            {
+                "details": "", 
+                "twitter": "", 
+                "name": "Heidi Waterhouse", 
+                "slug": "heidi-waterhouse"
+            }
+        ], 
+        "abstract": "What is a documentation structure, and why does it matter to developers?\n\nLots of developers get asked to write their own documentation,\nespecially internal documentation and onboarding. In theory, this is\ngood because they know the problems they are writing about and don't\nneed to spend time explaining them. In practice, developers avoid this\nwork because they don't have a good idea of how to start and can't\nevaluate whether they have succeeded.\n\nThis workshop is designed to teach you a few basic theories of technical\ndocumentation, such as task-based topics, reusable content, and writing\nfor an audience. After the overview, you'll learn techniques for writing\nbug reports, error messages, and onboarding instructions in a\ntool-agnostic, repeatable way. You'll leave this workshop with a handful\nof techniques, templates, and tests that will improve your team\u2019s\ncommunication and your life as a developer.\n\n-   What is structure?\n\n-   What do I really need to know?\n\n-   How to write an error message\n\n-   How to write a bug report\n\n-   What is transparent to writers?\n\n-   How do you interact with the team around building stuff.\n\nThe structure will be 60-90 minutes for basics, and then the rest for\nworkshops.\n\nTickets to this workshop are sold seperately. You can [buy your ticket\nhere](https://ti.to/writethedocs/write-the-docs-na-2017/with/uhk2elxibho).\n\n", 
+        "title": "Workshop: Structuring and writing documentation"
+    }
+]

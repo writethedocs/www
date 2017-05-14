@@ -1,0 +1,74 @@
+[
+    {
+        "speakers": [
+            {
+                "details": "", 
+                "twitter": "jigyasa_grover", 
+                "name": "Jigyasa Grover", 
+                "slug": "jigyasa-grover"
+            }
+        ], 
+        "abstract": "The world of open-source is surely attracting budding developers to\ncontribute, but unfortunately there seems to be a highly skewed sex\nratio. According to a survey, only 11% of open-source participants are\nwomen. This disconcerting number can and should definitely be improved.\n\nPeople, especially women find it intimidating to get started with\ncontributing to open source. Why ? I wish to back them up by answering\nquestions, throwing light on the issues that they usually have. It aims\nat introducing the audience to the world of FOSS and elaborate the vast\nrange of opportunities ranging from coding to documentation, design,\noutreach and research.\n\nI shall converse my involvements and experiences in FOSS and its impact\non my tech crusade. A special emphasis shall be on the dearth of women\nin technology. It aspires to inspire budding girl developers and\nshowcase women who\u2019ve made significant contributions to technology.\n\nThe main agenda of the lightning talk is to view the open source world\nbeyond the perspective of coding. It also aims to encourage fellow\nfemale to dive into developing and discuss the vast range of\nopportunities available.\n\nBeing an ardent open-source developer and a female stepping into the\nmale-dominated sphere of technology, I shall definitely add a personal\ntouch to this talk and the audience shall be able to connect well with\nthe session presenter :)\n\n", 
+        "title": "Unconference Session: FOSS it up, with women !"
+    }, 
+    {
+        "speakers": [
+            {
+                "details": "", 
+                "twitter": "TheMikeJang ", 
+                "name": "Mike Jang", 
+                "slug": "mike-jang"
+            }, 
+            {
+                "details": "", 
+                "twitter": "meker", 
+                "name": " Margaret Eker", 
+                "slug": "margaret-eker"
+            }
+        ], 
+        "abstract": "Write the Docs is filled with great conversations about documentation.\nIf you want to continue the conversation, we have Meetups on four\ncontinents.\n\nIf you\u2019re a Meetup leader, or want to start your own Write the Docs\nMeetup, come to our unconference session. We\u2019ll facilitate while current\nand future Meetup leaders discuss strategies and tips for better Write\nthe Docs Meetups.\n\nPotential topics:\n\nBuilding a community Getting speakers Finding sponsors Attracting\nmembers Diversifying beyond technical writers Sharing the organizer role\n\n(After a round-table of introductions, Mike might start the discussion\nwith a one minute talk on \u201crole diversity\u201d, how WTD PDX includes a large\nnumber of non-writers.)\n\n", 
+        "title": "Unconference Session: Write the Docs Meetup Groups"
+    }, 
+    {
+        "speakers": [
+            {
+                "details": "", 
+                "twitter": "technicalleigh", 
+                "name": "Ashleigh Rentz", 
+                "slug": "ashleigh-rentz"
+            }
+        ], 
+        "abstract": "QWERTY: Queer Writers Enjoying Relaxing Tea Yearly! Join us for a cup\nand friendly chat with fellow LGBT+ documentarians. You aren't here\nalone. Dvorak typists welcome too, but you'll have to create your own\npuns.\n\n", 
+        "title": "Unconference Session: QueerTea"
+    }, 
+    {
+        "speakers": [
+            {
+                "details": "", 
+                "twitter": "runleonarun", 
+                "name": "Leona Campbell", 
+                "slug": "leona-campbell"
+            }, 
+            {
+                "details": "", 
+                "twitter": "dbastedo", 
+                "name": "David Bastedo", 
+                "slug": "david-bastedo"
+            }
+        ], 
+        "abstract": "We\u2019re interested in revolutionizing release notes. Now with cloud\nservices and their continual and more frequent releases, we need to find\na balance between comprehensive, helpful, and accessible release notes.\nWe want to take this opportunity to brainstorm and discuss what\u2019s\nworking and what\u2019s not.\n\n", 
+        "title": "Unconference Session: Release Notes: What's Working (and Not Working) for You?"
+    }, 
+    {
+        "speakers": [
+            {
+                "details": "", 
+                "twitter": "capnleela", 
+                "name": "Melissa Chavez", 
+                "slug": "melissa-chavez"
+            }
+        ], 
+        "abstract": "The last thing you want to think about is work when you or someone you\nlove gets a life-threatening illness or has an accident. We will cover\ntips, precautions, and stopgap measures to take when you're the linchpin\n(because you hold Institutional Knowledge or have been tasked to gather\nit) to your team/company, but suddenly have to prepare to permanently\nleave or take medical leave from a position.\n\n", 
+        "title": "Unconference Session: Worst-case Scenario Planning"
+    }
+]

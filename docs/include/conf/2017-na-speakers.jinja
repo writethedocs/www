@@ -2,10 +2,6 @@
 
 {% for talk in speakers %}
 
-{% for speaker in talk.speakers %}
-.. _speaker-{{ conf }}-{{ speaker.slug }}:
-{% endfor %}
-
 .. Comment to break up reference issues
 
 .. raw:: html
@@ -24,7 +20,7 @@
                           <h5>{{ speaker.name }}</h5>
                         </figcaption>
                       </figure>
-                      
+
                       {% if speaker.twitter %}
                       <div class="speakers__socials">
                         <a href="https://twitter.com/{{ speaker.twitter }}">@{{ speaker.twitter }}</a>
@@ -34,7 +30,7 @@
                     <div class="speakers__clear"></div>
 
                   {% endfor %}
-                      
+
                     <div class="speakers__clear"></div>
                     <div class="speakers__date">
                     </div>
@@ -45,6 +41,3 @@
                   </div>
 
 {% endfor %}
-
-
-
