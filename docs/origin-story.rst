@@ -6,10 +6,10 @@ This page tells some of the story,
 so that you can see our origins,
 and understand where we're coming from.
 
-The community has :doc:`grown </blog/write-the-docs-2016-year-in-review>`_ a lot from this point,
+The community has :doc:`grown </blog/write-the-docs-2016-year-in-review>` a lot from this point,
 and we're glad you're with us for the ride.
 
-History 
+History
 -------
 
 The story of how Write the Docs came to be has been told before,
