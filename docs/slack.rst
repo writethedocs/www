@@ -88,6 +88,6 @@ you have two options:
 Credit
 ~~~~~~
 
-This concept is inspired by the `Recurse Center's Social Rules <https://www.recurse.com/manual#social-rules>`_.
+This concept is inspired by the `Recurse Center's Social Rules <https://www.recurse.com/manual#sub-sec-social-rules>`_.
 Thanks for the inspiration!
 
