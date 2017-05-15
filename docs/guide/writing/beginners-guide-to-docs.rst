@@ -126,7 +126,7 @@ If you don't have documentation,
 you will miss out on a whole class of contributors.
 
 You want your code to be improved
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 It's really easy to have an idea in your head that sounds perfect,
 but the act of putting words to paper requires a distillation of thought that may not be so easy.
