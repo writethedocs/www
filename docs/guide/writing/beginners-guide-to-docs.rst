@@ -125,7 +125,7 @@ and documentation changes are a lot less scary than code changes.
 If you don't have documentation,
 you will miss out on a whole class of contributors.
 
-You want your code to be improved
+You want your code to be better
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 It's really easy to have an idea in your head that sounds perfect,
