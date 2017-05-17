@@ -13,7 +13,7 @@ so grateful to our sponsors, speakers, volunteers, and attendees for
 making the conference possible.
 
 We hope you had a wonderful time, and that you are as excited as we are
-about the beautiful community that comes to live under our roof. Below
+about the beautiful community that gathers under our roof. Below
 we've included all of the resources you might need for staying in touch
 on the Write the Docs Slack. We also have a short anonymous survey for
 you to fill out, so we can make the conference even better next year.
@@ -24,7 +24,7 @@ Tell us how we did
 Let us know how we can improve for future conferences and gatherings. We
 really appreciate your candid feedback!
 
-**Our three question survey is quick and easy**, so `go fill it
+**Our two question survey is quick and easy**, so `go fill it
 out <https://docs.google.com/forms/d/e/1FAIpQLSelyB5VilarOBMw53yYiElV40h6PfryJpInvgPU6Ub3TfsOZQ/viewform?usp=sf_link>`__.
 
 Speak or Sponsor in Europe
