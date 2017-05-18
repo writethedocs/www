@@ -49,14 +49,14 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 * **Swag coordinator** - Mikey Ariel
 * **Speaker wrangler** - Kelly O'Brien
 * **Infrastructure chair** - Samuel Wright
-* **Writing Day coordinator** - TBD
+* **Writing Day coordinator** - Samuel Wright
 * **Unconference coordinator** - Rose Williams
 * **Lightning Talk coordinator** - Rose Williams
 * **Communication chair** - Mikey Ariel
 * **Volunteer coordinator** - Becky Yoose
 * **Sponsorship lead** - Eric Holscher
-* **Explore Portland coordinator** - TBD
+* **Explore Portland coordinator** - None
 * **Welcome Wagon coordinators** - Christy Lutz & Leona Campbell
 * **Social media chair** - Mikey Ariel
 * **Hike coordinator** - Eric Holscher
-* **Emcee** - TBD
+* **Emcee** - Nik Blanchet
