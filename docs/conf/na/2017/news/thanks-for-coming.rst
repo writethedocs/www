@@ -27,20 +27,20 @@ really appreciate your candid feedback!
 **Our two question survey is quick and easy**, so `go fill it
 out <https://docs.google.com/forms/d/e/1FAIpQLSelyB5VilarOBMw53yYiElV40h6PfryJpInvgPU6Ub3TfsOZQ/viewform?usp=sf_link>`__.
 
-Speak or Sponsor in Europe
+Speak or Sponsor in Prague
 --------------------------
 
-Don't forget we have our European conference this year in Prague! The
+Don't forget we have our Prague conference this year! The
 `Call for Proposals <http://www.writethedocs.org/conf/eu/2017/cfp/>`__
 is open until **May 31**.
 
 We're also looking for more sponsors to make the Prague event just as
 magical as this year's Portland event. If you are curious about
-sponsoring EU or NA again next year, please contact us at
+sponsoring any Write the Docs event, please contact us at
 sponsorship@writethedocs.org.
 
 You can find information about the conference and Call for Proposals on
-our `European Conference
+our `Prague Conference
 website <http://www.writethedocs.org/conf/eu/2017/>`__.
 
 Videos
