@@ -131,7 +131,7 @@ Speakers:
 ~~~~~~~~~
 
 
-* Look for previous and future speakers at `Write the Docs conferences <http://www.writethedocs.org/conf/>`_ .
+* Look for previous and future speakers at `Write the Docs conferences <http://www.writethedocs.org/conf/>`__.
 * Scan other conferences local speakers.
 * Review other meetups and conferences for speakers of interest, in areas such as APIs, Agile, software languages, and more.
 * Ask people at your meetups to do a talk.

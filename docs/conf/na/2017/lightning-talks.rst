@@ -1,6 +1,6 @@
 :template: 2017/na-content.html
 
-.. _speaker-lightning-talks: 
+.. _speaker-lightning-talks-na2017:
 
 Lightning Talks
 ~~~~~~~~~~~~~~~

@@ -1,6 +1,6 @@
 :template: 2017/eu-content.html
 
-.. _speaker-lightning-talks:
+.. _speaker-lightning-talks-eu2017:
 
 Lightning Talks
 ~~~~~~~~~~~~~~~
