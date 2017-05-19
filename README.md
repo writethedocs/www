@@ -19,13 +19,13 @@ You'll probably need `root` privileges to install the prerequisites.
 
 1. In the repository root directory (`www` by default), create a virtual environment for the project requirements by running `virtualenv venv`. More info on [virtualenv](https://virtualenv.pypa.io/en/stable/).
 
-2. Activate the virtual environment by running `source venv/bin/activate` (you'll need to do this every time you come back to the project).
+2. On Linux-based systems, activate the virtual environment by running `source venv/bin/activate`. On Windows using the Command Prompt, run `venv\Scripts\activate.bat`. On Windows using PowerShell, run `. venv\Scripts\activate.ps1`. On Windows using Git Bash, run `source venv\Scripts\activate`. You'll need to do this every time you come back to the project.
 
 2. In the repository root directory (`www` by default), run `pip install -r requirements.txt` to install sphinx and other requirements.
 
 ### Previewing the docs locally
 
-> Remember to activate the virtual environment using `source venv/bin/activate` before running the following commands.
+> Remember to activate the virtual environment using the appropriate command for your OS and Shell before running the following commands.
 
 1. In the `docs` directory, run `make livehtml` to view the docs on [http://127.0.0.1:8888/](http://127.0.0.1:8888/).
 
