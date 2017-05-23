@@ -69,6 +69,7 @@ Members
 
 * `Mike Jang <https://twitter.com/TheMikeJang>`_, Senior Staff Technical Writer, ForgeRock *
 * `Margaret Eker <https://twitter.com/meker>`_
+* `Rose Williams <https://twitter.com/ZelWms>`_
 * You?
 
 
@@ -88,7 +89,7 @@ but
 Members
 ```````
 
-* `Eric Holscher <https://twitter.com/ericholscher>`_ * 
+* `Eric Holscher <https://twitter.com/ericholscher>`_ *
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_
 * You?
 
@@ -128,7 +129,7 @@ Roles
 Members
 ```````
 
-* `Rose Williams <https://twitter.com/Zelwms>`_
+* `Rose Williams <https://twitter.com/ZelWms>`_
 * You?
 
 

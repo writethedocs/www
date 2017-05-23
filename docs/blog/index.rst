@@ -1,4 +1,4 @@
 Blog Posts
 ----------
 
-.. postlist:: 10
+.. postlist:: 100

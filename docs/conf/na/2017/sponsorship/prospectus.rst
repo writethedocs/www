@@ -188,6 +188,12 @@ Sponsorship of the official party includes:
 - Mention of company on schedule for the party, and an on-stage thanks
 - Your logo on a banner or roll up at the party venue (provided by sponsor)
 
+Child Care
+-----------
+
+Many of our attendees have children, sponsoring day care makes it  easier for
+them to attend.
+
 Choose Your Own Sponsorship Adventure
 -------------------------------------
 

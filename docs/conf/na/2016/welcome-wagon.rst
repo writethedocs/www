@@ -12,8 +12,8 @@ We're your Welcome Wagon, and we're glad you're coming to the
 and Leona at the conference to say hello! In the meantime, you can email
 `Christy <mailto:canncrochet@gmail.com>`__ or
 `Leona <mailto:leona.campbell@jivesoftware.com>`__ if we can help make
-your first time at the conference easier. Come :ref:`say hello <say-hello>`
-to us at the conference.
+your first time at the conference easier.
+Come :ref:`say hello <say-hello-na2016>` to us at the conference.
 
 We've gathered important stuff here that will help you navigate the
 conference like a pro, make you feel more at home, and help you to
@@ -250,7 +250,7 @@ are some tips:
    unconference talks you want to attend.
 -  Sign up for a lightning talk or lead an unconference session.
 
-.. _say-hello:
+.. _say-hello-na2016:
 
 Say hello
 ---------

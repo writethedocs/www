@@ -12,7 +12,7 @@ You can also email
 `Leona <mailto:leona.campbell@jivesoftware.com>`__ if we can help make
 your first time at the conference easier.
 When you get to the conference,
-come :ref:`say hello <say-hello>`.
+come :ref:`say hello <say-hello-na2017>`.
 
 We've gathered important stuff here that will help you navigate the
 conference like a pro, make you feel more at home, and help you to
@@ -258,7 +258,7 @@ are some tips:
    unconference talks you want to attend.
 -  Sign up for a lightning talk or lead an unconference session.
 
-.. _say-hello:
+.. _say-hello-na2017:
 
 Say hello
 ---------
@@ -269,17 +269,19 @@ or just chat about the conference!
 
 .. container:: crew-images
 
-   .. figure:: /_static/img/crew/leona.jpg
-      :height: 250px
-      :width: 250px
+   .. container:: col-sm-offset-2
 
-      Leona
+      .. figure:: /_static/img/crew/leona.jpg
+         :height: 250px
+         :width: 250px
 
-   .. figure:: /_static/img/crew/christy.jpg
-      :height: 250px
-      :width: 250px
+         Leona
 
-      Christy
+      .. figure:: /_static/img/crew/christy.jpg
+         :height: 250px
+         :width: 250px
+
+         Christy
 
 
 Thanks

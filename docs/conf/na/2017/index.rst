@@ -19,9 +19,7 @@
                   </div>
                   <div class="col-xs-12 col-md-7 text-xs-center text-md-right">
                     <div class="buy-ticket__2nd-col">
-                      <a href="https://ti.to/writethedocs/write-the-docs-na-2017/" class="btn btn-primary button button--narrow buy-ticket__ticket">Buy a ticket!</a>
-                      <p class="buy-ticket__p">then</p>
-                      <a href="/conf/na/2017/welcome-wagon/" class="btn btn-primary button button--narrow buy-ticket__talk">Jump on the Welcome Wagon!</a>
+                      <a href="/conf/na/2017/welcome-wagon/" class="btn btn-primary button button--narrow buy-ticket__talk">Get ready for the conference with our Welcome Wagon</a>
                     </div>
                   </div>
                 </div>
@@ -90,49 +88,6 @@
                 </div>
               </section>
 
-              <section class="section">
-                <div class="row">
-                  <div class="col-xs-12">
-                    <div class="section__header subheader">
-                      <span class="subheader__yellow"></span>
-                      <h2 class="subheader__header">Latest News</h2>
-                      <a href="news.html" class="subheader__more">Read all news</a>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="row">
-                  <div class="col-xs-12 col-md-4">
-                    <a href="news/announcing-presentations/" class="well news__tile">
-                      <h3 class="well__title">
-                        Announcing Presentations and Speakers
-                      </h3>
-                      <p class="well__paragraph">
-                      We're excited to share with you the lineup for the 2017 Portland conference.
-                      This year we received over 100 proposals...
-                      </p>
-                      <div class="well__time">
-                        <span>3 PM</span>|<span>Mar 13, 2017</span>
-                      </div>
-                    </a>
-                  </div>
-
-                <div class="col-xs-12 col-md-4">
-                    <a href="news/announcing-tickets-cfp-website/" class="well news__tile">
-                      <h3 class="well__title">
-                        Announcing Call for Proposals, Ticket Sales and Website
-                      </h3>
-                      <p class="well__paragraph">
-                      Write the Docs Portland 2017 is a bit over four months away and we hope you're getting excited!
-                      </p>
-                      <div class="well__time">
-                        <span>3 PM</span>|<span>Jan 5, 2017</span>
-                      </div>
-                    </a>
-                  </div>
-                </div>
-              </section>
-
               <!-- Speakers -->
               {% set conf = "na-2017" %}
               {% set speakers = na_2017_speakers %}
@@ -152,10 +107,12 @@
 
                       {% for speaker in talk.speakers %}
                       <div class="col-xs-6 col-md-1-5 text-center">
+                        <a href="speakers/#speaker-{{ speaker.slug }}">
                         <div class="person">
                           <img src="/_static/img/speakers/{{ speaker.img_file }}" alt="{{speaker.name}}" class="person__img" style="border-radius: 50%"/>
                           <p class="person__name">{{speaker.name}}</p>
                         </div>
+                        </a>
                       </div>
 
                       {% endfor %}
@@ -163,6 +120,101 @@
                    {% endfor %}
                  </div>
               </section>
+
+
+
+              <!-- News -->
+              <section class="section">
+                <div class="row">
+                  <div class="col-xs-12">
+                    <div class="section__header subheader">
+                      <span class="subheader__yellow"></span>
+                      <h2 class="subheader__header">Latest News</h2>
+                      <a href="news/" class="subheader__more">Read all news</a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-12 col-md-4">
+                    <a href="news/welcome/" class="well news__tile">
+                      <h3 class="well__title">
+                        Welcome to Write the Docs Portland 2017!
+                      </h3>
+                      <p class="well__paragraph">
+                      The conference is finally here, so here is what we hope is all the practical
+                      information that you might need to navigate the event and activities...
+                      </p>
+                      <div class="well__time">
+                        <span>3 PM</span>|<span>May 12, 2017</span>
+                      </div>
+                    </a>
+                  </div>
+
+                  <div class="row">
+                    <div class="col-xs-12 col-md-4">
+                      <a href="news/schedule-social/" class="well news__tile">
+                        <h3 class="well__title">
+                          Announcing Full Schedule and Social Events
+                        </h3>
+                        <p class="well__paragraph">
+                        Our Portland conference is just two weeks away and we
+                        hope you're getting excited!
+                        </p>
+                        <div class="well__time">
+                          <span>3 PM</span>|<span>May 3, 2017</span>
+                        </div>
+                      </a>
+                    </div>
+
+                    <div class="row">
+                      <div class="col-xs-12 col-md-4">
+                        <a href="news/announcing-workshops/" class="well news__tile">
+                          <h3 class="well__title">
+                            Announcing Workshops
+                          </h3>
+                          <p class="well__paragraph">
+                          ... we feel that since the workshops are a new type of activity,
+                          they deserve their own announcement!
+                          </p>
+                          <div class="well__time">
+                            <span>3 PM</span>|<span>Apr 1, 2017</span>
+                          </div>
+                        </a>
+                      </div>
+
+                  <div class="col-xs-12 col-md-4">
+                    <a href="news/announcing-presentations/" class="well news__tile">
+                      <h3 class="well__title">
+                        Announcing Presentations and Speakers
+                      </h3>
+                      <p class="well__paragraph">
+                      We're excited to share with you the lineup for the 2017 Portland conference.
+                      This year we received over 100 proposals...
+                      </p>
+                      <div class="well__time">
+                        <span>3 PM</span>|<span>Mar 13, 2017</span>
+                      </div>
+                    </a>
+                  </div>
+
+                  <div class="col-xs-12 col-md-4">
+                    <a href="news/announcing-tickets-cfp-website/" class="well news__tile">
+                      <h3 class="well__title">
+                        Announcing Call for Proposals, Ticket Sales and Website
+                      </h3>
+                      <p class="well__paragraph">
+                      Write the Docs Portland 2017 is a bit over four months away and we hope you're getting excited!
+                      </p>
+                      <div class="well__time">
+                        <span>3 PM</span>|<span>Jan 5, 2017</span>
+                      </div>
+                    </a>
+                  </div>
+
+                </div>
+              </section>
+
 
 
 

@@ -68,3 +68,13 @@ Thanks
 ~~~~~~
 
 This code of conduct is largely based on the `Django Project Code of Conduct <https://www.djangoproject.com/conduct/>`_, which in turn credits the original text of the Speak Up! project, inspired in its turn by the Fedora Project, as well as the Python Mentorship Project and many others.
+
+Staff Contact Information
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If for any reason you need to report an issue,
+please contact us!
+You can email us at conduct@writethedocs.org,
+or report something to one of the following people:
+
+.. include:: /include/conf/na-coc.rst

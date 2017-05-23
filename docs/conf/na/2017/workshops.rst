@@ -7,6 +7,17 @@ This year we are launching workshops, a new activity type inspired once again by
 
 The main goal of the workshops is to bring together folks who are interested to learn from different experts in relevant fields in a focused environment.
 
+- Date & Time: **Sunday, May 14th, 9am-5pm**
+- Location: **Crystal Ballroom, 1332 W Burnside St**. We will be in Lola's Room (on the second floor).
+
+Workshop Schedule
+-----------------
+
+.. datatemplate::
+   :source: /_data/na-2017-workshops.yaml
+   :template: include/schedule.rst
+
+
 What can I learn in the workshops?
 ----------------------------------
 
@@ -31,3 +42,5 @@ What should I do to prepare for the workshop?
 Get excited about learning a new thing! Of course, bringing a laptop or writing tools to take notes is usually recommended.
 
 Workshops require a laptop with some software prerequisites; participants will receive an email listing any (software) requirements well in advance.
+
+

@@ -1,11 +1,26 @@
 Origin Story
 ============
 
-The story of how Write the Docs came to be has been told, but it's time to put it up on our own site.
-The first documentation of the emerging documentarian community comes appropriately enough in the form of a `tweet`_ from early 2013:
+Write the Docs was founded by Troy Howard, Eric Redmond, and Eric Holscher in 2013.
+This page tells some of the story,
+so that you can see our origins,
+and understand where we're coming from.
+
+The community has :doc:`grown </blog/write-the-docs-2016-year-in-review>` a lot from this point,
+and we're glad you're with us for the ride.
+
+History
+-------
+
+The story of how Write the Docs came to be has been told before,
+but it's time to put it up on our own site.
+The first sign of the emerging documentarian community comes in the form of a `tweet`_ from early 2013:
 
 .. image:: /_static/img/origin-tweet.png
    :width: 75%
+   :target: https://twitter.com/ericholscher/status/287998770011074560
+
+.. _tweet: https://twitter.com/ericholscher/status/287998770011074560
 
 What happened next is best told in the words of one of the founders,
 Troy Howard.
@@ -14,12 +29,9 @@ before the second conference.
 So read it,
 and ponder just how far we've come since then.
 
-We'll let `Troy <https://twitter.com/thoward37>`_ tell the `story <http://blog.thoward37.me/articles/developer-to-documentarian/>`_ from here.
+We'll let `Troy <https://twitter.com/thoward37>`_ tell the `story <http://blog.thoward37.me/articles/developer-to-documentarian/>`_ from here:
 
-.. _tweet: https://twitter.com/ericholscher/status/287998770011074560
-
-History by Troy Howard
-----------------------
+----------
 
 Background
 ~~~~~~~~~~
@@ -103,9 +115,7 @@ Instead, we had hundreds of signups for the mailing list in the first
 day. Over the next couple months we were contacted by people from a
 variety of disciplines; technical writing industry groups, designers,
 typographers, literate programmers, API driven startups, and more. We
-quickly `found a new
-venue <http://docs.writethedocs.org/conference/venue/>`__,
-and sold out a 250 person conference. The
+quickly found a new venue, and sold out a 250 person conference. The
 `experience <http://adaptgather.com/2013/04/11/write-the-docs-2013/>`__
 was amazing. We'd found our tribe, and they'd found us.
 
@@ -117,6 +127,8 @@ Francisco <http://www.meetup.com/Write-the-Docs/>`__,
 `Boston <https://www.meetup.com/write-the-docs-bos/>`__, and `New
 York <http://www.meetup.com/Write-The-Docs-NY/>`__. We're working on
 building more.
+
+----------
 
 Where we are now
 ----------------
