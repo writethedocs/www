@@ -1,0 +1,461 @@
+- title: 'Keynote: We Are All Abbott and Costello'
+  abstract: "<p>Documentarians and technical writers have seen many changes in our
+    professions in recent years, and there\u2019s no sign of change slowing down.
+    One thing endures: the writer's goal of communicating to understanding. It\u2019
+    s not as easy as it sounds. Because we are all Abbott and Costello.</p>"
+  speakers:
+  - image: /_static/img/2015/speakers/mjohnston.jpg
+    name: Marcia Riefer Johnston
+    slug: maria-riefer-johnston
+    twitter: MarciaRJohnston
+    website: http://writing.rocks/
+    websiteLabel: Writing Rocks
+  youtubeId: 1yhyxuu_oWw
+- title: 'Keynote: The Federated Wiki'
+  abstract: <p>Just as the first wiki changed how people write, our new wiki will
+    change how people work. By pushing steadily on two fundamental ideas, refactoring
+    to ease improvement and federation to ease sharing, we have once again uncovered
+    a simpler and more powerful internet.</p>
+  speakers:
+  - company: New Relic
+    image: /_static/img/2015/speakers/wcunningham.jpg
+    name: Ward Cunningham
+    slug: ward-cunningham
+    twitter: WardCunningham
+  youtubeId: 3nB8ml6UowE
+- title: How to Write Documentation for People that Don't Read
+  abstract: <p>It's 3AM, do you know where your users are? If people want to learn
+    how to use your product, where are they looking for help? Are they on your site,
+    and if they're on your site, are they finding the right page?</p><p>Usability
+    researchers have known for decades that users don't read word by word - they *scan*
+    for the content they want.</p><p>If users can't make heads or tails of your documentation,
+    they'll give up (a loss of revenue), remain ignorant of product features (another
+    loss of revenue) or ask needless support questions (an increased cost).</p><p>In
+    this talk we'll examine the *findability* of your documentation, and the text
+    on the pages in your documentation. We'll examine usability research into how
+    users read, look at several ways your documentation is failing busy users, and
+    the lessons I learned conducting user tests at Twilio. We'll learn more about
+    how users find the answers they are looking for, and the importance of spreading
+    clear writing across not just your documentation, but your headlines and error
+    messages in your API.</p>
+  speakers:
+  - image: /_static/img/2015/speakers/kburke.jpg
+    name: Kevin Burke
+    slug: kburke
+    twitter: ekrubnivek
+  youtubeId: sQP_hUNCrcE
+- title: Documentation, Disrupted How Two Technical Writers Changed Google Engineering
+    Culture, Built a Team, Made Powerful Friends, And Got Their Mojo Back
+  abstract: "<p> Last year, we were inspired to action by a presentation at Write
+    the Docs. This talk will tell the story of what happened next: how, in two quarters,
+    we worked with a small self-forming team of amazing writers and engineers to
+    build a platform in six months is well on the way to becoming a part of the
+    standard Google engineering workflow. We\u2019ll share how that platform transformed
+    our role as technical writers and our relationship with engineering. We\u2019
+    ll cover design and implementation details, but we\u2019ll also talk about our
+    experience - how we learned that being audacious (but not reckless), focused
+    (but open and generous), and unafraid could revitalize our whole approach to
+    work and save us from burnout.</p><p> We'll talk about our ever-growing appetite
+    for disruption: How it changed beyond recognition our relationships with engineers,
+    fellow writers, and senior leadership, making us fall in love again with our
+    roles as documentarians.</p>"
+  speakers:
+  - company: Google
+    image: /_static/img/2015/speakers/rmacnamara.jpg
+    name: Riona MacNamara
+    slug: rmacnamara
+  youtubeId: EnB8GtPuauw
+- title: 'Elevating the Hedgehog: Creativity in Tech Writing'
+  abstract: '<p>"People who hope to thrive in the Conceptual Age must understand the
+    connections between diverse, and seemingly separate, disciplines." So says Daniel
+    Pink in his book, A Whole New Mind: Why Right-Brainers Will Rule the Future. In
+    this talk, I assert that tech writers are a natural fit to help their organizations
+    transition from the Information Age to the Conceptual Age.  I''ll also give and
+    seek ideas on how we as writers can apply Pink''s six aptitudes -- storytelling,
+    empathy, design, humor, games, and finding meaning -- to make our work more fulfilling,
+    if not more competitive.</p><p> The key underlying message for those who attend
+    this talk is: YOU are a designer. Even if you haven''t traditionally seen yourself
+    in this role, writers are information designers who serve a unique, user-focused
+    and holistic function on development teams. By recognizing that fact, and opening
+    up space in your work life for creativity, you can have an even bigger impact
+    and a more fulfilling career.</p>'
+  speakers:
+  - company: Cisco
+    image: /_static/img/2015/speakers/tfranko.jpg
+    name: Tana Franko
+    slug: tfranko
+    twitter: tanafranko
+  youtubeId: jwN2aAq4wGw
+- title: 'Entry points and guide posts: Helping new contributors find their way'
+  abstract: "<p> How did Mozilla Developer Network (MDN) achieve a 46% increase in
+    active editors and a 90% increase in translation contributions in 2014? Many
+    factors helped, but a major element was the support we added for new contributors.</p><p>
+    \u201CScratch your own itch\u201D is the proverbial invitation to contribute
+    to open source projects. How well this works for contributing to code is open
+    to debate, but it rarely makes sense for open source documentation, especially
+    for well-established projects. Not only is it unhelpful for the project, which
+    typically has plans (or at least wishlists) for improving the docs, but it provides
+    very little guidance to the contributor as to what they might do, what they
+    personally are able to do, and what would be most helpful to do.</p><p> In the
+    10 years that MDN has been a wiki (some of the content pre-dates the wiki),
+    the community has always welcomed constructive contributions by anyone who bothers
+    to create a user account. Over the years, we\u2019ve created meta-documentation
+    about contributing to the site, including wishlists of things we\u2019d like
+    to see documented. However, these didn\u2019t necessarily help newcomers gain
+    traction.</p><p> Only in the last year or so have we created documentation to
+    help new contributors specifically. Our aim is to help newcomers find the right
+    match among:</p><ul><li>Topics and tasks the person is interested in (what they
+    like)</li> <li>Tasks the person has the skills and time to do (what they can
+    do)</li> <li>Tasks that help MDN meet the goals that Mozilla has set (what we
+    need/want)</li></ul><p> I\u2019ll describe the features we\u2019ve put in place
+    to achieve this, as well as things we\u2019re still working on. I\u2019ll leave
+    space for discussion so we can all share ideas and successes.</p>"
+  speakers:
+  - company: Mozilla Foundation
+    image: /_static/img/2015/speakers/jswisher.jpg
+    name: Janet Swisher
+    slug: jswisher
+    twitter: jmswisher
+  youtubeId: VG-uvJDBTdM
+- title: Success is More Than Not Failing
+  abstract: "<p> We talk a lot about minimum viable products, and building our products
+    up from small features. We talk a lot about failure, and how to learn from it
+    and not replicate failures over and over again. But what I haven\u2019t heard
+    a lot of discussion about is how we know we\u2019ve succeeded. Is it market
+    share? Usable product? Could understanding and setting a measurable, achievable
+    goals help us overcome imposter syndrome, second sock syndrome, and feature
+    creep?</p><p> This talk provides some metrics on identifying success, documenting
+    what it will look like when you get there, preserving the idea, and dealing
+    with the inevitable distractions and changes in direction that may prevent you
+    from ending up where you expect.</p><p> I plan to speak on how documentation
+    can serve a crucial function at both defining and driving success. We need to
+    stop believing that agile is the end of the answer and embrace it as part of
+    building what we want to have in the end.</p><p> Continuous improvement can
+    have a victory condition, if we build it.</p>"
+  speakers:
+  - name: Heidi Waterhouse
+    slug: hwaterhouse
+  youtubeId: mkyeF2YSRl8
+- title: 'A Developers Approach to Documentation: From Passive to Dynamic'
+  abstract: "<p> The era of O\u2019Reilly books is done, finito, kaput. With so much
+    of the developer experience online, we know a great deal about each individual
+    user and about the code we document. Why, then, do we documentarians persist
+    in providing the same walls of text to each of our readers, especially when
+    there are so many more personalized ways of describing technical tools and code?</p><p>
+    This talk addresses the move from passive to dynamic documentation. As code
+    goes mainstream, more and more consumers of APIs and technical writing will
+    be non-technical. Technical writing bears a responsibility to reduce the learning
+    curve as much as possible for these readers, and it can do that by being much
+    more intimate about its relationship with them.</p>"
+  speakers:
+  - company: ReadMe.io
+    image: /_static/img/2015/speakers/gkoberger.jpg
+    name: Gregory Koberger
+    slug: gkoberger
+    twitter: gkoberger
+  youtubeId: 5lw8RFy3YNA
+- title: How GitHub uses GitHub to document GitHub
+  abstract: <p> Everyone knows that GitHub is the place to host your project's code.
+    What you may not know is that the same workflow developers use to create, update,
+    and manage their software is also used to create, update, and manage GitHub's
+    documentation.</p><p> https://help.github.com is GitHub's second-most viewed site--after
+    the main website itself. I'd like to provide a somewhat opinionated look on how
+    our valiant Documentation team writes and releases content for features on GitHub.com
+    and GitHub Enterprise. I'll go over:</p><ul> <li>How our teams (Development, Security,
+    Docs, etc) coordinate before launching a feature</li> <li>The importance of opening
+    pull requests early</li> <li>The review/edit cycle with peers</li> <li>How we
+    incorporate DITA best practices into our Markdown documentation</li> <li>Validating
+    content through CI and automated tests</li> <li>How we incorporate feedback from
+    our users</li></ul>
+  speakers:
+  - company: GitHub
+    image: /_static/img/2015/speakers/gtorikian.jpg
+    name: Garen Torikian
+    slug: gtorikian
+    twitter: gjtorikian
+  youtubeId: s46m8H4BrrE
+- title: What Can Brownfield Do For You?
+  abstract: "<p> As documentarians, we are rarely afforded an opportunity to thrive
+    in a pristine greenfield environment. Sometimes we are asked to resurrect an
+    existing documentation system which had fallen into a derelict state over many
+    years. To turn this ship around, we must shepherd contents, customer base, and
+    internal Subject Matter Experts into a future state where outdated, neglected,
+    and ambiguous support documents are transformed into timely, relevant, and pleasing
+    works of art.</p><p> The role of the documentarian is to help execute this transformation.
+    However, we are often asked (or voluntold) by our organizations to wear other
+    hats beyond our primary writing duties: repair and build relationships, analyze
+    business processes, learn about how others react to change, discover unknown
+    troves of documentation, train and encourage the next generation of writers,
+    gather and crunch data, tell stories, design workflows, and perform \u201Cother
+    duties as needed.\u201D Some may respond with an exasperated \u201CI wasn\u2019
+    t trained on this!!!\u201D or \u201CThat\u2019s not part of my job!\u201D But
+    those of us who embrace the opportunity to stretch beyond our areas of expertise
+    and learn new peripheral skills may realize that working on a documentation
+    equivalent of a cleaning up Superfund site can turn into super fun.</p><p> In
+    this talk, I will share my experiences and lessons learned as a technical writer
+    who is witnessing this documentation culture change, one conversation at a time.
+    Wearing many hats can be exhilarating and rewarding.</p>"
+  speakers:
+  - image: /_static/img/2015/speakers/mnishiyama.jpg
+    name: Mo Nishiyama
+    slug: mnishiyama
+    twitter: synthcat
+  youtubeId: 3X8xyfkRmO4
+- title: Writer, Meet Tester
+  abstract: "<p> A software tester can be a tech writer\u2019s best friend, and vice
+    versa. Jody (writer) and Arthur (tester) work together on APIs at Salesforce.com,
+    and we\u2019ll talk about the tools and techniques we use to improve the quality
+    of both our software and our documentation at the same time.</p><p> While our
+    APIs are still in development, we gather feedback internally. We established
+    an API design review board to approve every API change -- this made a huge difference
+    in ensuring that we offer a consistent, easy-to-consume programmatic interface
+    to our users. We also conduct regular \u201Cdogfooding\u201D sessions in which
+    users are provided with draft documentation and asked to find both doc and product
+    bugs.</p><p> Our testers created an automated mechanism to alert us of any API
+    changes in case anything slipped past the review board. It\u2019s proven to
+    be invaluable for both doc and testing to keep up with the various teams who
+    are building functionality into the API.</p><p> Once our APIs are publicly available,
+    we take pride in listening to our users in help forums, on Twitter, and through
+    pilot programs. We\u2019ve clarified our documentation and added test cases
+    numerous times based on customer pain points.</p>"
+  speakers:
+  - company: Salesforce
+    image: /_static/img/2015/speakers/jbleyle.jpg
+    name: Jody Bleyle
+    slug: jbleyle-alouie
+  - company: Salesforce
+    image: /_static/img/2015/speakers/alouie.jpg
+    name: Arthur Louie
+  youtubeId: W5Un3r-vG_I
+- title: Keep 'em playing
+  abstract: "<p> When people have to stop to understand labels and instructions, they
+    can't stay engaged in their experiences. My job shipping Xbox One was to use
+    words so well, people wouldn't notice them at all. In this talk, I'll show the
+    only 3 reasons I use words in user interfaces, how I find the right words, and
+    how I increase engagement by respecting people\u2019 intent.</p>"
+  speakers:
+  - company: Microsoft
+    image: /_static/img/2015/speakers/tpodmajersky.jpg
+    name: Torrey Podmajersky
+    slug: tpodmajersky
+    twitter: torreybird
+  youtubeId: AMRfkcmyc40
+- title: "Let\u2019s Tell a Story: Scenario-Based Documentation"
+  abstract: "<p> To new users, complex software products can seem like dark woods
+    on a stormy day. As tech writers, we often spend a lot of time talking about
+    the overall shape of the forest and the variety of paths within it (conceptual
+    docs), creating detailed catalogs of local tree species (reference docs), and
+    providing step-by-step guides to things like \u201Chow to cross a river\u201D
+    or \u201Chow to knock on a door\u201D (task-based docs).</p><p> But none of
+    that helps your customers when they just want to know how to get to Grandmother\u2019
+    s house, without getting lost in the forest, falling into the river, and accidentally
+    going to the other cabin in the woods, where the lycanthropic senior citizens
+    live.</p><p> In other words, your customers need a narrative. And maybe they
+    need lots of them. When you\u2019re dealing with products that can be run and
+    configured in a bewildering variety of ways, a single getting started manual
+    might not do the trick. It\u2019s like giving people a Choose Your Own Adventure
+    book and only allowing them to choose one path through to the end.</p><p> For
+    my talk I\u2019ll explain how we became aware of the need for better scenario-based
+    documentation, and how we ended up building a prototype during a hack week project.
+    Now we\u2019re on our way to creating a collection of short stories that show
+    users how to string sets of features and procedures together to solve complex
+    problems. We\u2019ll cover some of the things we\u2019ve learned along the way
+    and offer best practices for those who want to tell a few stories of their own.</p><p>
+    Matt Ness is a technical writer with over twenty years of experience at places
+    like PeopleSoft, Oracle, and Intuit. He's currently a writer for Splunk, a leader
+    in the machine data analytics sector.</p>"
+  speakers:
+  - company: Splunk
+    image: /_static/img/2015/speakers/mness.jpg
+    name: Matt Ness
+    slug: mness
+    twitter: moerex
+  youtubeId: 3hneCmLYWjc
+- title: Designing Information for Growth
+  abstract: <p> Every tech company or organization organically produces docs in some
+    form, but as scale increases, the information design decisions you started with
+    will almost certainly serve some information consumers better than others. Depending
+    on who's creating information and who's using it, the approach to designing and
+    delivering information can be dramatically different, with very different outcomes
+    that probably won't work across an entire larger organization. Be aware of the
+    information design decisions you're making so you can plan for growth. Design
+    by default is not a good strategy!</p><p> This talk discusses how:</p><ul> <li>Information
+    inherently includes design, whether or not you meant to do it. Information also
+    requires design, no matter how simple and straightforward it may seem.</li> <li>Technical
+    information can be roughly sorted into modes such as descriptive, defensive, procedural,
+    and tutorial. (These are *different* from concept-task-reference.)</li> <li>Each
+    of these modes has different design implications that address different audiences
+    and needs.</li> <li>Being aware of your design priorities can help you understand
+    how to make your stakeholders happier as your documentation base grows with the
+    organization.</li></ul>
+  speakers:
+  - image: /_static/img/2015/speakers/mdevoto.jpg
+    name: Marya DeVoto
+    slug: mdevoto
+  youtubeId: -y4itLMwX8g
+- title: 'A brief history of math writing: symbol, structure, and proof'
+  abstract: "<p> A mathematical proof is a logically rigorous way of showing that
+    something is true. It begins with a statement of the desired result and any
+    assumptions that must be made. It guides the reader through a set of logical
+    sequential steps, supported by figures to aid intuition or cross-references
+    for prerequisite knowledge. It ends by declaring that the desired result has
+    been achieved. At risk of insulting every mathematician who ever lived, in many
+    ways a proof is not so different from a grand, abstract how-to document.</p><p>
+    Perhaps surprisingly, for most of human history mathematical proofs and mathematics
+    itself have been written in prose. Even those of us who cringe at the memory
+    of high school algebra can agree that \u201C10x + y^2 = 3\u201D is more user-friendly
+    than \u201Cthe sum of an unknown quality multiplied by ten and another unknown
+    quantity multiplied by itself is equal to three\u201D. The first part of this
+    talk explores the development of mathematical writing, which can be divided
+    into improvements in symbolic representation and improvements in structure.
+    This discussion is partly inspired by Bret Victor\u2019s observation that the
+    most influential breakthroughs in the history of mathematics were actually breakthroughs
+    in \u201CUI design\u201D, for example the invention of Arabic numerals (0, 1,
+    2, 3,...) as a replacement for clunky Roman numerals (I, II, III, IV\u2026).</p><p>
+    Proofs and rigorous documentation empower their readers to greater understanding
+    by never relying on authority or persuasion. A mathematical proof, unlike a
+    scientific experiment or a souffle recipe, must show that the desired result
+    is *always* achieved when the right steps are executed under the right conditions.
+    Users of computer applications certainly expect documentation to live up to
+    the same standards. The second part of this talk explores the concept of mathematical
+    proof in more depth. We will look at how proofs are structured and use logic
+    in a particular way to minimize ambiguity and maximize credibility, and how
+    the writing process is itself a powerful tool to root out hidden assumptions
+    and errors in thinking.</p>"
+  speakers:
+  - image: /_static/img/2015/speakers/ehoffmann.jpg
+    name: Emily Hoffmann
+    slug: ehoffmann-aroman
+    twitter: embalita
+  - image: /_static/img/2015/speakers/aroman.jpg
+    name: Alfonso Roman
+    twitter: alromanb
+  youtubeId: 3PbkglMkzS0
+- title: Tech writing in a continuous deployment world
+  abstract: "<p> Here at Atlassian, we\u2019ve been moving ever closer to a world
+    of continuous deployment for our software products. Five years ago, releases
+    took months. Now, many products are releasing every two weeks at a minimum.
+    In addition, the past year has seen features being deployed as soon as they
+    pass testing. What\u2019s a tech writer to do!?</p><p> In true agile fashion,
+    the response to these challenges varies across products and writers within Atlassian.
+    This gives us a breadth of stories and examples I can share about our experiences
+    in this world. Here\u2019s a high-level look at what I\u2019ll share:</p><ul>
+    <li>A brief discussion of continuous deployment: what does it mean, especially
+    for tech writers and others involved in the process?</li> <li>A look at some
+    things that have worked for us. Making the mental shift from releases to features
+    has been an absolute necessity. We\u2019ve also had to change the tooling we
+    use, the processes we follow, and the way we communicate. This journey has also
+    forced us to consider what the documentation equivalent of an MVP (minimal viable
+    product in Agile development) looks like.</li> <li>There are a few things that
+    haven\u2019t worked out very well! Resource-heavy deliverables (like videos
+    and tutorials) are really difficult to maintain. Communication also  increases
+    in importance in a rapidly-paced cycle. These and other areas provide us with
+    some good lessons learned.</li> <li>The jury is still out on a few experiments!
+    Things like investing more heavily in in-app help and automating doc publication
+    in tandem with code deployment are among the experiments we\u2019re attempting
+    to get better at this new world.</li></ul>"
+  speakers:
+  - company: Atlassian
+    image: /_static/img/2015/speakers/cburwinkle.jpg
+    name: Christine Burwinkle
+    slug: cburwinkle
+  youtubeId: Bsod_z9OKQY
+- title: Start Your Own Write the Docs Meetup Group
+  abstract: "<p>With just a little work, you can feel the joy of Write the Docs all
+    year!</p><p> I started the Write the Docs PDX Meetup Group back in May of 2014,
+    just after last year\u2019s conference. As the only writer in my office, I often
+    feel alone. At Write the Docs NA 2014 conference, I felt the joy of interacting
+    with documentarians like myself, people who were facing similar challenges.
+    I wanted to continue feeling that joy.</p><p> I\u2019ll describe my experiences
+    creating a Write the Docs Meetup group in Portland. I\u2019ll show you how easy<b>&#42;</b>
+    it is to create a Meetup group, attract members, get sponsors, find speakers,
+    and make sure all members of your group feel welcome. I\u2019ll tell you about
+    the Meetups we\u2019ve had, and what we learned from each other.</p><p> More
+    importantly, I\u2019ll lay out the ways you can continue the conversation we've
+    had during WTD 2015. I'll share my best practices for excellent Meetups for
+    Documentarians.</p><p> <b>&#42;</b><i>Yes, \u201Ceasy\u201D is a euphemism for
+    a lot of hard work. But the people you'll meet and the contacts that you'll
+    make can reward you and your company in other ways.</i></p>"
+  speakers:
+  - company: ForgeRock
+    image: /_static/img/2015/speakers/mjang.jpg
+    name: Mike Jang
+    slug: mjang
+    twitter: WriteTheDocsPDX
+  youtubeId: ZwQ8Kd48d0w
+- title: User-Story Driven Docs
+  abstract: '<p>At OutSystems we make an awesome development platform, but our documentation
+    wasn''t that awesome. We focused on describing each button available on the user
+    interface, and not the user intentions and goals.</p><p> A clear example of this,
+    was that we had a full documentation page for the find text feature (CTRL+F).
+    It described in excruciating detail every option available on the UI, but didn''t
+    told our users how they could actually find what they needed!</p><p> For us it
+    was a nightmare to maintain the docs. Our development environment was constantly
+    changing and we couldn''t keep up with the changes.</p><p> More importantly, we
+    weren''t meeting the user needs. And that was clear from pages with a single-digit
+    page view, and from the feedback we got from our customers.</p><p> Due to this
+    approach, we also ended up having page titles that were feature-oriented, which
+    is not the best for SEO.  For instance, the doc page for the find text feature
+    was called "Find Tool".  Who in their right mind would search for that on Google?</p><p>
+    In this talk I''ll tell you the story of how we stopped trying to document the
+    UI, and started creating user-story driven docs.  We now focus on what the user
+    wants to achieve and how to achieve it, independently of how many windows or buttons
+    they need to go through.</p><p> I''ll cover:</p><ul><li>How you can check if you''re
+    documenting the UI, and why you should avoid doing it</li><li>Why users stories
+    work better for our users</li><li>How focusing on user stories changed the culture
+    of our team and allowed us to work on what really matters.</li><li>I''ll also
+    share some unexpected outcomes, like how this lead us to work closer than ever
+    with the development teams. Now our users get twice the cake: better features
+    and better docs!</li></ul>'
+  speakers:
+  - company: OutSystems
+    image: /_static/img/2015/speakers/jfernandes.jpg
+    name: Joao Fernandes
+    slug: jfernandes
+    twitter: joaofnfernandes
+  youtubeId: MRnZFVCirQM
+- title: 'The Making of Writing Black Belts: How Martial Arts Philosophy Forged an
+    Ad-Hoc Writing Team that Writes Great Docs'
+  abstract: "<p> At Fastly, a San Francisco-based content delivery network startup
+    company, I\u2019ve learned that almost every one of my co-workers, regardless
+    of their job function, is willing to write our company\u2019s documentation.
+    Whether they realize it or not, each one of them has ventured onto the path
+    of becoming a \u201Cwriting team black belt.\u201D</p><p> In this talk I\u2019
+    ll discuss how my company has unwittingly followed the seven (and a half) rules
+    I normally associate with becoming a great martial artist. I\u2019ll discuss
+    how we\u2019ve been using these rules to forge an amazing ad-hoc documentation
+    team with no formal department and no squad of strategically placed technical
+    writers. I\u2019ll talk about how my company has managed it despite the obstacles
+    of startup life, including moving seven times and growing from less than 30
+    employees when I first joined to a throng of more than 150 a mere year and a
+    half later. Finally, I\u2019ll point out some of our successes, a few of our
+    failures, and how each of the seven (and a half) rules has taught us what it
+    means to write Fastly.</p>"
+  speakers:
+  - company: Fastly
+    image: /_static/img/2015/speakers/gwalli.jpg
+    name: Gaylin Walli
+    slug: gwalli
+    twitter: gwalli
+  youtubeId: 4PP2xBsMWKw
+- title: The Science of Creating Unforgettable Content
+  abstract: "<p> Companies spend big bucks developing content to attract and retain
+    customers\u2014most of it, forgettable. In fact, according to some cognitive
+    scientists, people remember only 10 percent of what you say. The other 90 percent
+    is forgotten. To make matters worse, the 10 percent that people remember differs
+    between members of your audience.</p><p> Imagine the time and money we could
+    all save if we knew how to control what our audiences remember about our content,
+    if we could break through all of the distractions with content so compelling
+    that our audiences couldn\u2019t ignore our message.</p><p> In a blog that I
+    wrote, I had the opportunity to interview Dr. Carmen Simon. A co-founder of
+    Rexi Media, Dr. Simon holds doctorates in instructional technology and cognitive
+    psychology.  We explored how science could help us design memorable content.</p><p>
+    In my Write the Docs presentation, I\u2019ll share five scientifically-based
+    techniques that the audience can apply to their own content and presentations
+    to make them more memorable and influential. This presentation will be based
+    on information from my interview with Dr. Simon and other sources.</p>"
+  speakers:
+  - image: /_static/img/2015/speakers/kronninghall.jpg
+    name: Karen Ronning-Hall
+    slug: kronninghall
+    twitter: karenronning
