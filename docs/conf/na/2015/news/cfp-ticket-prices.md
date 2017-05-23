@@ -26,7 +26,7 @@ We believe that tech writing and documentation don't always get the respect and
 consideration they deserve. Come share the problems with documentation your
 company overcame, or how you ensure documentation is an organizational priority.
 
-You can read our full [Call for Proposals](http://www.writethedocs.org/conf/na/cfp/)
+You can read our full [Call for Proposals](/conf/na/2015/cfp)
 on the website.
 
 ## Tickets
@@ -49,7 +49,7 @@ work something out.
 As with the previous years, we have tiered pricing to make it fair for
 everyone. Please buy the ticket that best fits your situation.
 
-Tickets are **on sale now**. [Buy them now](http://www.writethedocs.org/conf/na/2015/#tickets).
+Tickets are **on sale now**. [Buy them now](/conf/na/2015/#tickets).
 
 #### Corporate Tickets
 
