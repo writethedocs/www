@@ -1,13 +1,20 @@
 # -*- coding: utf-8 -*-
 #
+import CommonMark
+import collections
+import glob
 import io
 import os
 import json
 import re
 import yaml
 
+from docutils.parsers import rst
+from docutils import nodes
+from docutils.statemachine import ViewList
 from recommonmark.parser import CommonMarkParser
 from recommonmark.transform import AutoStructify
+from sphinx.util.nodes import nested_parse_with_titles
 import ablog
 
 
@@ -123,6 +130,15 @@ def load_yaml(path):
     with io.open(path, encoding='utf-8') as fp:
         return yaml.safe_load(fp)
 
+def load_meetups_by_region():
+    result = collections.defaultdict(list)
+    for yaml_file in glob.glob('_data/meetups/*.yaml'):
+        meetup = load_yaml(yaml_file)
+        result[meetup['region']].append(meetup)
+    for _, meetups in result.items():
+        meetups.sort(key=lambda m : m.get('city', m['country']))
+    return result
+
 
 na_2015_speakers = load_yaml('_data/2015.na.speakers.yaml')
 na_speakers = load_yaml('_data/2016.na.speakers.yaml')
@@ -133,6 +149,8 @@ na_day2 = load_yaml('_data/na-2016-day-2.yaml')
 eu_speakers = load_yaml('_data/2016.eu.speakers.yaml')
 eu_day1 = load_yaml('_data/eu-2016-day-1.yaml')
 eu_day2 = load_yaml('_data/eu-2016-day-2.yaml')
+
+meetups_by_region = load_meetups_by_region()
 
 for list_o_speakers in [na_speakers, eu_speakers, na_2017_speakers]:
     transform_speakers(list_o_speakers)
@@ -175,6 +193,24 @@ html_context = {
     'eu_2016_day1': eu_day1,
     'eu_2016_day2': eu_day2,
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
+    'meetups_by_region': meetups_by_region,
+}
+
+state_abbreviations = {
+    'Canada': {
+        'Ontario': 'ON',
+    },
+    'USA': {
+        'California': 'CA',
+        'Colorado': 'CO',
+        'Idaho': 'ID',
+        'Massachusetts': 'MA',
+        'New York': 'NY',
+        'Oregon': 'OR',
+        'Pennsylvania': 'PA',
+        'Texas': 'TX',
+        'Washington': 'WA',
+    }
 }
 
 
@@ -212,13 +248,54 @@ def rstjinja(app, docname, source):
 def add_jinja_filters(app):
     if getattr(app.builder, 'implementation', None) or app.builder.format != 'html':
         return
+    def markdown_filter(data):
+        parser = CommonMark.DocParser()
+        renderer = CommonMark.HTMLRenderer()
+        return renderer.render(parser.parse(data))
+    def state_abbr(meetup):
+        states = state_abbreviations.get(meetup['country'])
+        if not states:
+            return meetup['state']
+        return states.get(meetup['state'], meetup['state'])
+    app.builder.templates.environment.filters['markdown'] = markdown_filter
+    app.builder.templates.environment.filters['state_abbr'] = state_abbr
     app.builder.templates.environment.filters['slugify'] = slugify
+
+
+class MeetupListing(rst.Directive):
+    option_spec = {
+        'region': rst.directives.unchanged,
+    }
+    has_content = False
+
+    def run(self):
+        env = self.state.document.settings.env
+        app = env.app
+        builder = app.builder
+
+        templates = getattr(builder, 'templates', None)
+        if not templates:
+            return
+        
+        region_name = self.options['region']
+        output = ViewList()
+        template_name = 'include/meetups/listing.jinja'
+        rendered = builder.templates.render(template_name, {
+            'meetups': meetups_by_region[region_name],
+        })
+        for line in rendered.splitlines():
+            output.append(line, 'meetup-data')
+        node = nodes.section()
+        node.document = self.state.document
+        nested_parse_with_titles(self.state, output, node)
+        return node.children
 
 
 def setup(app):
     app.connect('html-page-context', on_page_context)
     app.connect("source-read", rstjinja)
     app.connect("builder-inited", add_jinja_filters)
+    app.add_directive('meetup-listing', MeetupListing)
     app.add_config_value('recommonmark_config', {
         'auto_toc_tree_section': 'Contents',
         'enable_auto_doc_ref': True,
