@@ -1,0 +1,8 @@
+region: North America
+country: USA
+state: New York
+city: New York City
+page: ./nyc/
+website: https://www.meetup.com/WriteTheDocsNYC/
+notes: |
+  Organised by [@WriteTheDocsNYC](https://twitter.com/WriteTheDocsNYC)

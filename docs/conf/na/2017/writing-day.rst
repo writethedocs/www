@@ -26,7 +26,7 @@ Writing Day Schedule
 ^^^^^^^^^^^^^^^^^^^^
 
 .. datatemplate::
-   :source: /_data/na-2017-writing-day.json
+   :source: /_data/na-2017-writing-day.yaml
    :template: include/schedule.rst
 
 Documenting a new project?

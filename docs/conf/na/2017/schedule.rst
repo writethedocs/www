@@ -39,7 +39,7 @@ Writing Day Schedule (Free for attendees)
 :doc:`Learn more</conf/na/2017/writing-day>` about Writing Day.
 
 .. datatemplate::
-   :source: /_data/na-2017-writing-day.json
+   :source: /_data/na-2017-writing-day.yaml
    :template: include/schedule2017.rst
 
 Workshop Schedule (Paid tickets)
@@ -48,7 +48,7 @@ Workshop Schedule (Paid tickets)
 :doc:`Learn more</conf/na/2017/workshops>` about the workshops.
 
 .. datatemplate::
-   :source: /_data/na-2017-workshops.json
+   :source: /_data/na-2017-workshops.yaml
    :template: include/schedule2017.rst
 
 Monday, May 15
@@ -65,7 +65,7 @@ Main Stage
 
 
 .. datatemplate::
-   :source: /_data/na-2017-day-1.json
+   :source: /_data/na-2017-day-1.yaml
    :template: include/schedule2017.rst
 
 Lola's Room
@@ -96,7 +96,7 @@ Main Stage
 ^^^^^^^^^^^
 
 .. datatemplate::
-   :source: /_data/na-2017-day-2.json
+   :source: /_data/na-2017-day-2.yaml
    :template: include/schedule2017.rst
 
 Lola's Room
