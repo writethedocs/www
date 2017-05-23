@@ -115,9 +115,7 @@ Instead, we had hundreds of signups for the mailing list in the first
 day. Over the next couple months we were contacted by people from a
 variety of disciplines; technical writing industry groups, designers,
 typographers, literate programmers, API driven startups, and more. We
-quickly `found a new
-venue <http://docs.writethedocs.org/conference/venue/>`__,
-and sold out a 250 person conference. The
+quickly found a new venue, and sold out a 250 person conference. The
 `experience <http://adaptgather.com/2013/04/11/write-the-docs-2013/>`__
 was amazing. We'd found our tribe, and they'd found us.
 
