@@ -1,0 +1,98 @@
+{%- extends "layout.html" %}
+
+{% block head_link %}
+
+{% endblock %}
+
+{% block body %}
+<style type="text/css">
+  @import url('http://fontawesome.io/assets/font-awesome/css/font-awesome.css');
+</style>
+
+<div class="meetup-detail">
+  <ul class="breadcrumps">
+    <li><a href="#">Videos</a></li>
+    <li>/</li>
+    <li><a href="#">Meetups</a></li>
+  </ul>
+
+  <h1 class="bold">Write the Docs New York</h1>
+
+<div class="about-container">
+  <div class="about-title about-element">
+    <h1>About Us</h1>
+  </div>
+  <div class="about-element">
+    <ul class="social-media">
+      <li><a href="#"><i class="fa fa-meetup social-media-icon" aria-hidden="true"></i></a></li>
+      <li><a href="#"><i class="fa fa-twitter social-media-icon" aria-hidden="true"></i></a></li>
+      <li><a href="#"><i class="fa fa-slack social-media-icon" aria-hidden="true"></i>
+  </a></li>
+      <li><a href="#"><i class="fa fa-comment-o social-media-icon" aria-hidden="true"></i></a></li>
+    </ul>
+  </div>
+</div>
+<p>We are people who care about making the reader experience awesome by delivering excellent documentation.</p>
+<p>We’re writers, developers, designers, learning professionals, and documentation enthusiasts. Come to our meetup and strategize how to make documentation great, enjoy a beverage and refreshments, and meet fellow people who care about documentation in and around NYC.</p>
+
+  <div class="meetup-video-container">
+    <article class="video">
+      <a href="#">
+        <div class="image image-grid-element" style="background-image: url('{{ pathto('_static/img/videos/meetups/ny.jpg', 1) }}');"></div>
+      </a>
+      <a href="#">
+        <p><i>Andrew Etter</i> Modern Technical Writing</p>
+      </a>
+    </article>
+    <article class="video">
+      <a href="#">
+        <div class="image image-grid-element" style="background-image: url('{{ pathto('_static/img/videos/meetups/philly.jpg', 1) }}');"></div>
+      </a>
+      <a href="#">
+        <p><i>Rhonda Glennon</i> GitHub for Documentation</p>
+      </a>
+    </article>
+    <article class="video">
+      <a href="#">
+        <div class="image image-grid-element" style="background-image: url('{{ pathto('_static/img/videos/meetups/portland.jpg', 1) }}');"></div>
+      </a>
+      <a href="#">
+        <p><i>Ruthie BenDor</i> Move fast and document things</p>
+      </a>
+    </article>
+    <article class="video">
+      <a href="#">
+        <div class="image image-grid-element" style="background-image: url('{{ pathto('_static/img/videos/meetups/berlin.jpg', 1) }}');"></div>
+      </a>
+      <a href="#">
+        <p><i>Alicia Avrach</i> Video Documentation</p>
+      </a>
+    </article>
+    <article class="video">
+      <a href="#">
+        <div class="image image-grid-element" style="background-image: url('{{ pathto('_static/img/videos/meetups/london.jpg', 1) }}');"></div>
+      </a>
+      <a href="#">
+        <p><i>Laura Stewart</i> Writing globally for locals</p>
+      </a>
+    </article>
+    <article class="video">
+      <a href="#">
+        <div class="image image-grid-element" style="background-image: url('{{ pathto('_static/img/videos/meetups/ny.jpg', 1) }}');"></div>
+      </a>
+      <a href="#">
+        <p><i>Rhonda Glennon</i> Contributing to open-source</p>
+      </a>
+    </article>
+    <article class="video">
+      <a href="#">
+        <div class="image image-grid-element" style="background-image: url('{{ pathto('_static/img/videos/meetups/philly.jpg', 1) }}');"></div>
+      </a>
+      <a href="#">
+        <p><i>Sarah Day</i> Writing effective app copy</p>
+      </a>
+    </article>
+  </div>
+</div>
+
+{% endblock %}
