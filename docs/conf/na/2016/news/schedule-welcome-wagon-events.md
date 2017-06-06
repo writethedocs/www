@@ -53,7 +53,7 @@ there's something for everyone in our Welcome Wagon guide.
 Our [events][events] are also going to be great.
 They are:
 
-* A meet up on Sunday before the reception
+* A meetup on Sunday before the reception
 * 15 minute venue tours on Monday before the conference starts
 
 Both events will help to answer any last minute questions you might have,
