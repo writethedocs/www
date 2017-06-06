@@ -12,7 +12,7 @@ Write the Docs Portland 2017 Is History
 
 Now, it's time to gear up for `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ in September!
 
-This month's newsletter is the first one that relies on your `Reacji Channeler <https://reacji-channeler.builtbyslack.com>`_suggestions! As a reminder, you can tag messages as suggestions for the newsletter with this emoji:
+This month's newsletter is the first one that relies on your `Reacji Channeler <https://reacji-channeler.builtbyslack.com>`_suggestions! If you missed it last month, here's the gist: you can tag messages as suggestions for the newsletter with this emoji:
 
 .. image:: news.png
     :width: 128px
@@ -44,9 +44,9 @@ Getting a Grip on Static Site Generators
 Static site generators have been a popular topic for some time, but there are a lot of moving parts that can be intimidating for new users. One Slack participant wondered how static site tools like Sphinx, Asciidoctor, restructured text (rST), Jekyll, and Markdown fit together--or don't. Here's the insight from our community:
 
 * Sphinx, Jekyll, and Asciidoctor are parsing engines; rST, Markdown, and AsciiDoc are source file formats; and Python and Ruby are programming languages. So you can write in rST to publish with Sphinx, which is written in Python. Or, you can write in Markdown to publish in Jekyll, which is written in Ruby.
-* In general, Sphinx parses rST, and Jekyll parses Markdown. However, some flavors of Sphinx parse Markdown too, like `Read the Docs <https://docs.readthedocs.io/en/latest/>`_.
-* There are also plugins out there to translate Markdown to rST, and to make rST work with Jekyll. An example is `recommonmark <http://recommonmark.readthedocs.io/en/latest/>`_.
-* You write in Markdown to publish with Jekyll, but Jekyll actually publishes the static site in HTML.
+* In general, Sphinx parses rST, and Jekyll parses Markdown.
+* There are also plugins out there to make Markdown work with Sphinx (like `recommonmark <http://recommonmark.readthedocs.io/en/latest/>`_), or to make rST work with Jekyll.
+* All static site generators generate output in HTML.
 
 `This blog <https://davidwalsh.name/introduction-static-site-generators>`_ by David Walsh is a great primer on static site generators, especially if you're interested in the plusses and minuses.
 
@@ -55,7 +55,7 @@ Static site generators have been a popular topic for some time, but there are a 
 Podcast Alert
 #############
 
-Hey, `the latest Write the Docs podcast <http://podcast.writethedocs.org/2017/04/30/episode-5-where-do-we-belong>`_ is available! It's all about where technical writers fit in different organizations. Check it out!
+The latest `Write the Docs podcast <http://podcast.writethedocs.org/2017/04/30/episode-5-where-do-we-belong>`_ is available! It's all about where technical writers fit in different organizations. Check it out!
 
 ------------------------------------------
 
@@ -79,7 +79,7 @@ If you do end up cropping or resizing, here are a few more tips people mentioned
 WTD Meetup Framework
 ####################
 
-When the Portland meetup leader attended the Austin meetup, he walked away with ideas for how to hold a successful WTD meetup. Fortunately for us, he shared them in Slack! Here's what the Austin meetup leader did to leave a great impression:
+The Portland WTD meetup leader, @mikejang, attended the WTD meetup in Austin and walked away with ideas for how to hold a successful WTD meetup. Fortunately for us, Mike shared them in Slack! Here's what the Austin meetup leader, @meker, did to leave a great impression:
 
 1) Greeted everyone who came
 2) Introduced the meetup with slides
@@ -103,8 +103,24 @@ Finally this month, a member of our community asked for advice for enforcing the
 
 ------------------------------------------
 
-Looking Ahead
-#############
+Onward
+######
 
 Proposals are in for `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_, and we expect to announce the schedule by mid-June. Stay tuned! 
+
+The `WTD meetup groups <http://www.writethedocs.org/meetups/>`_ are planning some interesting events--maybe there's one near you. If not...consider `starting a WTD meetup <http://www.writethedocs.org/organizer-guide/meetups/starting/>`_ in your area!
+
+**US**
+
+* Portland, June 13: `The story of the Internet Archive or Wayback Machine <https://www.meetup.com/Write-The-Docs-PDX/events/239993859/>`_
+
+**Europe**
+
+* Berlin, June 14: `What your user guide can learn from a chocolate cake <https://www.meetup.com/Write-The-Docs-Berlin/events/240361283/>`_
+
+**Australia**
+
+* Brisbane, June 7: `Writing for localisation and From Word to Markdown <https://www.meetup.com/Write-the-Docs-Australia/events/239682736/>`_
+* Sydney, June 22: `Interviewing techniques, Making docs more visual, and WTD Portland Wrap-up <https://www.meetup.com/Write-the-Docs-Australia/events/239444710/>`_
+* Melbourne, June 29: `Experimental documentation and Storyboarding <https://www.meetup.com/Write-the-Docs-Australia/events/239719358/>`_
 
