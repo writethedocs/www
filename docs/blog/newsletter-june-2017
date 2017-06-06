@@ -62,8 +62,6 @@ The latest `Write the Docs podcast <http://podcast.writethedocs.org/2017/04/30/e
 How Do YOU Crop Your Screenshots?
 #################################
 
-How do YOU Crop Your Screenshots?
-
 This month, a documentarian asked the group about the rules they follow for cropping and resizing large screenshots in documentation. Several people agreed that when you have multiple screenshots in a single document, they should be as close to the same size as possible. For example, reduce all screenshots by the same percentage, or apply a single fixed width (with the height set to "auto") to all screenshots. Another suggestion was using cropped versions of large screenshots that readers can click to open the original full-size image, perhaps in a pop-up window. Others resize to standardized sizes based on the image content, such as resizing all full-screen captures to 800px width.
 
 Others suggested avoiding cropping altogether and using shading to highlight specific areas on screenshots. 
