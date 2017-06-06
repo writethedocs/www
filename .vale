@@ -5,7 +5,6 @@ MinAlertLevel = warning
 BasedOnStyles = WTD
 
 vale.Redundancy = YES
-#vale.Repetition = YES
 vale.GenderBias = YES
 
 TheEconomist.UnnecessaryWords = YES
