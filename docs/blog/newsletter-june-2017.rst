@@ -12,7 +12,7 @@ Write the Docs Portland 2017 Is History
 
 Now, it's time to gear up for `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ in September!
 
-This month's newsletter is the first one that relies on your `Reacji Channeler <https://reacji-channeler.builtbyslack.com>`_ suggestions! If you missed it last month, here's the gist: you can tag messages as suggestions for the newsletter with the ``newsletter`` emoji.
+This month's newsletter is the first one that relies on your `Reacji Channeler <https://reacji-channeler.builtbyslack.com>`_ suggestions! If you missed it last month, here's the gist: you can tag messages as suggestions for the newsletter with the ``newsletter`` emoji:
 
 .. image:: news.png
     :alt: emoji for tagging newsletter suggestions
