@@ -8,17 +8,15 @@ Write the Docs Newsletter - June 2017
 Write the Docs Portland 2017 Is History
 #######################################
 
-`Write the Docs Portland <http://www.writethedocs.org/conf/na/2017/>`_ was another sold-out success! Many thanks to everyone who attended, presented, hiked, shared, discussed, and made it another great event. Videos of the presentations are on the way--watch your email and the WTD Slack channels for an announcement when they're posted to YouTube.
+`Write the Docs Portland <http://www.writethedocs.org/conf/na/2017/>`_ was another sold-out success! Many thanks to everyone who attended, presented, hiked, shared, discussed, and made it another great event. `Videos <https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBld-70TsOoYToM3CaTxRC>`_ of the presentations are now available! 
 
 Now, it's time to gear up for `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ in September!
 
-This month's newsletter is the first one that relies on your `Reacji Channeler <https://reacji-channeler.builtbyslack.com>`_suggestions! If you missed it last month, here's the gist: you can tag messages as suggestions for the newsletter with this emoji:
+This month's newsletter is the first one that relies on your `Reacji Channeler <https://reacji-channeler.builtbyslack.com>`_ suggestions! If you missed it last month, here's the gist: you can tag messages as suggestions for the newsletter with the ``newsletter`` emoji.
 
 .. image:: news.png
-    :width: 128px
-    :align: left
-    :height: 128px
     :alt: emoji for tagging newsletter suggestions
+
 
 And thank you for all of your suggestions!
 
@@ -27,14 +25,14 @@ And thank you for all of your suggestions!
 Writing for Write the Docs on Writing Day
 #########################################
 
-In Portland this year, for the first time ever, we ran a WTD session on writing day! In addition to learning a *lot* about how to run writing day sessions :smiling_imp:, we worked with around a dozen helpful attendees to improve the WTD website in `various ways <https://github.com/writethedocs/www/issues?utf8=%E2%9C%93&q=label%3Awritingday%20>`_:
+In Portland this year, for the first time ever, we ran a WTD session on writing day! In addition to learning a *lot* about how to run writing day sessions :), we worked with around a dozen helpful attendees to improve the WTD website in `various ways <https://github.com/writethedocs/www/issues?utf8=%E2%9C%93&q=label%3Awritingday%20>`_:
 
 * Lots of progress toward a unified talk video archive
 * Cleaned up many broken links and build warnings
 * Improved the information on how to build the site on Windows
 * Added links to write-ups of the 2016 Portland conference
 
-Thanks to everyone who helped out--see you at the write table in Prague or back in Portland next year!
+Thanks to everyone who helped out--see you at the WTD table in Prague or back in Portland next year!
 
 ------------------------------------------
 
@@ -45,10 +43,10 @@ Static site generators have been a popular topic for some time, but there are a 
 
 * Sphinx, Jekyll, and Asciidoctor are parsing engines; rST, Markdown, and AsciiDoc are source file formats; and Python and Ruby are programming languages. So you can write in rST to publish with Sphinx, which is written in Python. Or, you can write in Markdown to publish in Jekyll, which is written in Ruby.
 * In general, Sphinx parses rST, and Jekyll parses Markdown.
-* There are also plugins out there to make Markdown work with Sphinx (like `recommonmark <http://recommonmark.readthedocs.io/en/latest/>`_), or to make rST work with Jekyll.
-* All static site generators generate output in HTML.
+* There are also plugins out there to make Markdown work with Sphinx (like `recommonmark <http://recommonmark.readthedocs.io/en/latest/>`_), or to make rST work with GitBook.
+* All static site generators generate output in HTML, along with some that generate PDF, ePub, HTML inside JSON, and other formats.
 
-`This blog <https://davidwalsh.name/introduction-static-site-generators>`_ by David Walsh is a great primer on static site generators, especially if you're interested in the plusses and minuses.
+`This blog <https://davidwalsh.name/introduction-static-site-generators>`_ by David Walsh is a great primer on static site generators, especially if you're interested in the plusses and minuses. The `Docs as Code <http://docsascode.com/>`_ book and articles have a lot of great content around this as well.
 
 ------------------------------------------
 
