@@ -18,6 +18,7 @@ and let us know. We'd be happy to promote it and list it here.
 ### Current Meetups: North America
 
 -   [Austin, TX, USA](http://www.meetup.com/WriteTheDocs-ATX-Meetup/)
+-   [Ann Arbor, MI, USA](https://www.meetup.com/Write-the-Docs-A2)
 -   [Boise, ID, USA](http://www.meetup.com/Write-the-Docs-Boise/)
 -   [Boston, MA, USA](http://www.meetup.com/Write-the-Docs-BOS/)
 -   [Boulder/Denver, CO, USA](http://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/)
