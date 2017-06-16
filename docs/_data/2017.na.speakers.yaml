@@ -4,14 +4,14 @@
     to integrate and stay up to date with code, you should also be keeping your documentation
     there. This tutorial will take you from feeling uneasy about interacting with
     git to making it feel like something you can 'git' the hang of.</p>
-    
+
     <p><em>Learn how to Git</em> with Matt Desmond, who is a technical writer-turned-trainer for
     GitHub. Take part in hands-on keyboard exercises that will removes the guesswork
     out of managing your development process using Git.</p>
-    
+
     <p>After attending this
     session, students will:</p>
-    
+
     <ul>
     <li><p>Conquer the different Git commands</p></li>
     <li><p>Actually understand what that StackOverflow answer means</p></li>
@@ -19,7 +19,7 @@
     branch even is)</p></li>
     <li><p>Become a collaboration machine!</p></li>
     </ul>
-    
+
     <p>Tickets to this workshop are sold seperately. You can
     <a href='https://ti.to/writethedocs/write-the-docs-na-2017/with/yzgjvsp7zcw'>buy
     your ticket here</a>.</p>
@@ -54,53 +54,30 @@
     name: Heidi Waterhouse
     slug: heidi-waterhouse
     twitter: ''
-- title: Writing the Docs, University Edition
-  abstract: |
-    <p>With millions of students enrolling in online college courses every
-    year across the US, new and veteran instructors alike face a rapidly changing
-    teaching environment. From my experience working at Portland State University
-    as a writer and support technician, I'll present data and case studies
-    showing how technical writers can make a difference in promoting the health
-    and accessibility of our increasingly digitized public institutions.</p><p>In
-    order to meet the growing interest in flexible education, PSU has increased
-    the number of online courses by 72% in the last 5 years. For many instructors,
-    the transition to teaching online is a challenging process, totally outside
-    their field of expertise.</p><p>In my presentation, I talk about what it'
-    s like to be pretty much the only technical writer working for faculty at PSU,
-    some lessons learned, and some faculty case studies that illustrate what it'
-    s like to interact with online teaching tools and support materials that I administer.
-    I argue the importance of quality documentation as a way to promote digital
-    literacy, and talk about what this means in the context of access and equity
-    in 21st century higher education.</p>
-  speakers:
-  - details: ''
-    name: Lynnae Griffiths
-    slug: lynnae-griffiths
-    twitter: ''
 - title: Everyone's a player (in a mid-90s MUD)
   abstract: |
     <p><em>&gt; N</em></p><p>You have found a secret room in the castle!
     You gain 26 xp.</p>
-    
+
     <p>You enter a large interior space with stone walls and
     a high stone ceiling. Torches flicker in wall brackets. A large self-referential
     tapestry hanging on the north wall shows a guild workshop full of happy weavers
     busily weaving the very tapestry in which they are depicted. There are exits
     to the east, west, and south.</p>
-    
+
     <p><strong>Linden</strong>, another player,
     is here. <strong>Gwyrian</strong>, another player, is here.</p>
-    
+
     <p><em>&gt; say "Hi"</em></p>
-    
+
     <p>You say "Hi"</p>
-    
+
     <p>Gwyrian says "Hey! Do you want to explore this area together?"</p>
-    
+
     <p>Linden attacks you with a critical hit from their sword!</p>
-    
+
     <p>You are dead!</p>
-    
+
     <p>Other people: sometimes difficult
     to work with and often impossible to predict. In your technical or documentation
     project, how can you get the right people interested and involved? How can you
@@ -109,7 +86,7 @@
     from causing delays? And why do some people seem to thrive in an environment
     with poor documentation and how can you encourage them to participate in effectively
     documenting everything anyway?</p>
-    
+
     <p>In this talk, I'll explore ways to
     accomplish these aims, using strategies drawn from “Player Type Theory”
     . For 20 years, this theory has been employed by game designers to encourage stable
@@ -156,9 +133,9 @@
     you're a Meetup leader, or want to start your own Write the Docs Meetup,
     come to our unconference session. We'll facilitate while current and future
     Meetup leaders discuss strategies and tips for better Write the Docs Meetups.</p>
-    
+
     <p>Potential topics:</p>
-    
+
     <ul>
     <li><p>Building a community</p></li>
     <li><p>Getting speakers</p></li>
@@ -559,7 +536,7 @@
     useful approach, since these services tend to have fewer specific endpoints,
     and the documentation needs to focus much more on how the client can successfully
     navigate links to accomplish the desired task. In this 30-minute talk, I'
-    ll discuss how you can successfully integrate this approach to your workflow 
+    ll discuss how you can successfully integrate this approach to your workflow
     when considering everything from overall information architecture, to deciding
     which content assets to prioritize, to refining the tone used throughout your
     developer communications.</p>
