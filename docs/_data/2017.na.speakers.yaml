@@ -92,6 +92,7 @@
     . For 20 years, this theory has been employed by game designers to encourage stable
     long-term play communities in online multiplayer games. These are strategies
     that I have used successfully in my workplace and they can work for you too.</p>
+  video: https://www.youtube.com/watch?v=BiYSJ5dkoM0
   speakers:
   - details: ''
     name: Kenzie Woodbridge
@@ -121,6 +122,7 @@
     the balance between making tests too precise and not precise enough. For those
     who are interested in implementing right away, I will also provide a comprehensive
     list of resources for getting started.</p>
+  video: https://www.youtube.com/watch?v=e1_MMEr4kNU
   speakers:
   - details: ''
     name: Lyzi Diamond
@@ -177,6 +179,7 @@
     Provide navigational signposts \u2014 such as breadcrumbs and workflow maps
     \u2014 to help orient users as to where they are in a larger system.</p></li>
     </ul>
+  video: https://www.youtube.com/watch?v=w-kEmsLwPDE
   speakers:
   - details: ''
     name: Tom Johnson
@@ -195,6 +198,7 @@
     practices that can make getting and giving feedback easier. This presentation
     passes along the strategies I learned so you can implement design critique guidelines
     into your review process and make feedback painless.</p>
+  video: https://www.youtube.com/watch?v=E_GyqG3Gd38
   speakers:
   - details: ''
     name: Christy Lutz
@@ -216,6 +220,7 @@
     in partnership with your support team can not only focus your docs to the points
     that matter, but let you see how operating as connective tissue between departments
     makes everyone's life easier.</p>
+  video: https://www.youtube.com/watch?v=qXrX6hZO6V0
   speakers:
   - details: ''
     name: Matthew Buttler
@@ -248,6 +253,7 @@
     <p>In this talk I show how making error message Humble, Human, and Helpful is
     critical to making your users Happy. We''ll laugh at a few bad errors, and learn
     from the good error messages and microcopy. </p>
+  video: https://www.youtube.com/watch?v=gBBZUATL7Qo
   speakers:
   - details: ''
     name: Kate Voss
@@ -297,6 +303,7 @@
     Can a good interview outweigh a bad assignment test? Can a bad interview spoil
     the impression after a good assignment test? What things should be asked during
     an interview?</p></li></ul>
+  video: https://www.youtube.com/watch?v=tcjLbCLcPTo
   speakers:
   - details: ''
     name: Sam Faktorovich
@@ -326,6 +333,7 @@
     the docs information architecture we developed; how we incorporated syntax and
     grammar checks into code testing; and how we build and deploy our documentation
     automatically.</p>
+  video: https://www.youtube.com/watch?v=Mzu-c-FoOdw
   speakers:
   - details: ''
     name: Jodie Putrino
@@ -359,6 +367,7 @@
     documentation sprint, with a flexible, supportive structure</p></li><li><p>How
     we built in time for followthrough after the event, with plans for outreach, adoption
     and onboarding</p></li><li><p>And how we made the whole thing human-friendly</p></li></ul></p>
+  video: https://www.youtube.com/watch?v=08l9FGJOz5E
   speakers:
   - details: ''
     name: Ryan Pitts
@@ -403,6 +412,7 @@
     by watching other people apply it to real content and not in some kind of fake
     training situation. </p><p>This talk will discuss our strategies and methods
     in more detail and show examples of content before and after crowdsourced minimalism.</p>
+  video: https://www.youtube.com/watch?v=s3Em8QSXyn8
   speakers:
   - details: ''
     name: Ingrid Towey
@@ -423,6 +433,7 @@
     patterns (and anti-patterns) I've observed around documentation and care.
     Then, to spur small group discussions, I'll share design principles for
     documentation as care.</p>
+  video: https://www.youtube.com/watch?v=quC7mJn8B_U
   speakers:
   - details: ''
     name: Amelia Abreu
@@ -448,6 +459,7 @@
     from docs? - How do you choose tools and workflows for building your initial
     docs architecture? - How do you iterate on, improve, and expand your docs,
     and harness contributors to do the same? </p>
+  video: https://www.youtube.com/watch?v=YLXNJXQyYoE
   speakers:
   - details: ''
     name: Jesse Seldess
@@ -509,6 +521,7 @@
     - How can technology help our efforts to name things well?
 
     - How can documentarians and developers work together to name things better?</p>
+  video: https://www.youtube.com/watch?v=RFfpkrbkvxc
   speakers:
   - details: ''
     name: Ruthie BenDor
@@ -540,6 +553,7 @@
     when considering everything from overall information architecture, to deciding
     which content assets to prioritize, to refining the tone used throughout your
     developer communications.</p>
+  video: https://www.youtube.com/watch?v=R8yjmtIWEKQ
   speakers:
   - details: ''
     name: Sarah Hersh
@@ -595,6 +609,7 @@
     adjuncts to documentation, providing critical data for root cause analysis.</p><p>Learn
     about these sources, not just how others use them, but where you can find valuable
     detail to enhance the documents you write for operations.</p>
+  video: https://www.youtube.com/watch?v=QDxoqWpyzo8
   speakers:
   - details: ''
     name: Andrea Longo
