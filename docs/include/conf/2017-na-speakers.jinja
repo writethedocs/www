@@ -41,10 +41,10 @@
                     <div class="speakers__content">
                       <h3>{{ talk.title }}</h3>
                       {% if talk.video%}
-                      <p><strong><a href="{{ talk.video }}">Watch the VIDEO</a></strong>.</p>
+                      <p><strong><a href="{{ talk.video }}">Watch the video</a></strong>.</p>
                       {% endif%}
                       {% if talk.slides %}
-                      <p><strong><a href="{{ talk.slides }}">Read the slides</a></strong>.</p>
+                      <p><strong><a href="{{ talk.slides }}">View the slides</a></strong>.</p>
                       {% endif%}
                       {{ talk.abstract|indent(10) }}
                     </div>
