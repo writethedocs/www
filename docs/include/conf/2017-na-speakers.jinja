@@ -24,7 +24,7 @@
                           <h5>{{ speaker.name }}</h5>
                         </figcaption>
                       </figure>
-                      
+
                       {% if speaker.twitter %}
                       <div class="speakers__socials">
                         <a href="https://twitter.com/{{ speaker.twitter }}">@{{ speaker.twitter }}</a>
@@ -34,17 +34,17 @@
                     <div class="speakers__clear"></div>
 
                   {% endfor %}
-                      
+
                     <div class="speakers__clear"></div>
                     <div class="speakers__date">
                     </div>
                     <div class="speakers__content">
                       <h3>{{ talk.title }}</h3>
+                      {% if talk.video %}
+                      <p><strong><a href="{{ talk.video }}">Watch the VIDEO</a></strong>.</p>
+                      {% endif%}
                       {{ talk.abstract|indent(10) }}
                     </div>
                   </div>
 
 {% endfor %}
-
-
-
