@@ -93,6 +93,7 @@
     long-term play communities in online multiplayer games. These are strategies
     that I have used successfully in my workplace and they can work for you too.</p>
   video: https://www.youtube.com/watch?v=BiYSJ5dkoM0
+  slides: https://docs.google.com/presentation/d/16lt-az4HyfWOg4k-HxbH2rhfmC5q6dC9Nuy0Exb3VYU
   speakers:
   - details: ''
     name: Kenzie Woodbridge
@@ -180,6 +181,7 @@
     \u2014 to help orient users as to where they are in a larger system.</p></li>
     </ul>
   video: https://www.youtube.com/watch?v=w-kEmsLwPDE
+  slides: http://idratherbewriting.com/files/doc-navigation-wtd/index.html
   speakers:
   - details: ''
     name: Tom Johnson
@@ -199,6 +201,7 @@
     passes along the strategies I learned so you can implement design critique guidelines
     into your review process and make feedback painless.</p>
   video: https://www.youtube.com/watch?v=E_GyqG3Gd38
+  slides: http://canncrochet.com/Presentations-1
   speakers:
   - details: ''
     name: Christy Lutz
@@ -221,6 +224,7 @@
     that matter, but let you see how operating as connective tissue between departments
     makes everyone's life easier.</p>
   video: https://www.youtube.com/watch?v=qXrX6hZO6V0
+  slides: https://docs.google.com/presentation/d/1JpyWi6uN-3zhM77ApzVz15jUw_8dckEh1Hs6dhsac2o/edit?usp=sharing
   speakers:
   - details: ''
     name: Matthew Buttler
@@ -254,6 +258,7 @@
     critical to making your users Happy. We''ll laugh at a few bad errors, and learn
     from the good error messages and microcopy. </p>
   video: https://www.youtube.com/watch?v=gBBZUATL7Qo
+  slides: https://docs.google.com/presentation/d/1gCgkaaXIFSLf3afRxEGNFwm0bPTcURcVQNuQj0QZDqQ/edit
   speakers:
   - details: ''
     name: Kate Voss
@@ -304,6 +309,7 @@
     the impression after a good assignment test? What things should be asked during
     an interview?</p></li></ul>
   video: https://www.youtube.com/watch?v=tcjLbCLcPTo
+  slides: https://speakerdeck.com/factorized/hiring-technical-writers-the-siberian-way
   speakers:
   - details: ''
     name: Sam Faktorovich
@@ -334,6 +340,7 @@
     grammar checks into code testing; and how we build and deploy our documentation
     automatically.</p>
   video: https://www.youtube.com/watch?v=Mzu-c-FoOdw
+  slides: http://preview.tinyurl.com/k4fqkzo
   speakers:
   - details: ''
     name: Jodie Putrino
@@ -413,6 +420,7 @@
     training situation. </p><p>This talk will discuss our strategies and methods
     in more detail and show examples of content before and after crowdsourced minimalism.</p>
   video: https://www.youtube.com/watch?v=s3Em8QSXyn8
+  slides: https://docs.google.com/presentation/d/1Yeql9FrRBgKU-QlRU-nblPJ9pfZKgoKcU8SW6SQ_UqI/edit?usp=sharing
   speakers:
   - details: ''
     name: Ingrid Towey
@@ -460,6 +468,7 @@
     docs architecture? - How do you iterate on, improve, and expand your docs,
     and harness contributors to do the same? </p>
   video: https://www.youtube.com/watch?v=YLXNJXQyYoE
+  slides: https://docs.google.com/presentation/d/1Sce3OtXMF2mUV11taCqNzXERdsFBtfdxBXYqs7EBI_k/edit?usp=sharing
   speakers:
   - details: ''
     name: Jesse Seldess
@@ -522,6 +531,7 @@
 
     - How can documentarians and developers work together to name things better?</p>
   video: https://www.youtube.com/watch?v=RFfpkrbkvxc
+  slides: https://www.slideshare.net/unruthless/even-naming-this-talk-is-hard
   speakers:
   - details: ''
     name: Ruthie BenDor
@@ -554,6 +564,7 @@
     which content assets to prioritize, to refining the tone used throughout your
     developer communications.</p>
   video: https://www.youtube.com/watch?v=R8yjmtIWEKQ
+  slides: https://docs.google.com/presentation/d/1I9FwgeRD0JvkikuQqf64fncvlK_YwxOpmDdoS1oSTQQ/pub?start=true&loop=false&delayms=60000#slide=id.p
   speakers:
   - details: ''
     name: Sarah Hersh
@@ -582,6 +593,7 @@
     crisis in science, statisticians havedeveloped technology to create "intelligent
     documents" that not onlyreport the results of a statistical analysis, but
     can also re-create theanalysis itself.</p>
+  slides: https://github.com/carljparker/wtd-2017-verifiable-crisis
   speakers:
   - details: ''
     name: Carl Parker
@@ -610,6 +622,7 @@
     about these sources, not just how others use them, but where you can find valuable
     detail to enhance the documents you write for operations.</p>
   video: https://www.youtube.com/watch?v=QDxoqWpyzo8
+  slides: http://feorlen.org/wtd/index.html
   speakers:
   - details: ''
     name: Andrea Longo
