@@ -24,8 +24,8 @@ Generally a *Docs as Code* approach gives you the following benefits:
 There is a lot more to building a proper *Docs as Code* workflow.
 There are a couple books we recommend that you check out:
 
-* Docs Like Code - Anne Gentle
-* Modern Technical Writing - Andrew Etter
+* `Docs Like Code <https://www.amazon.com/Docs-Like-Code-Anne-Gentle-ebook/dp/B06XHC1TGM>`_ - Anne Gentle
+* `Modern Technical Writing <https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS>`_ - Andrew Etter
     
 *Docs as Code* at Write the Docs
 ----------------------------------
