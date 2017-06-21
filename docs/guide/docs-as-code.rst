@@ -3,12 +3,19 @@ Docs as Code
 
 :author: `Eric Holscher <https://ericholscher.com>`_
 
-*Docs as Code* refers to a philosophy that you should be writing documentation with the same tools you use to write code.
-This means following the same workflows and integrating into development teams.
+*Docs as Code* refers to a philosophy that you should be writing documentation with the toolings as writing code:
+
+* Issue Trackers
+* Version Control
+* Code Reviews
+* Automated Tests
+
+This means following the same workflows as development teams,
+and being integrated in the product team.
 It enables a culture where writers and developers both feel ownership of documentation,
 and work together to make it as good as possible.
 
-Generally a *docs as Code* approach gives you the following benefits:
+Generally a *Docs as Code* approach gives you the following benefits:
 
 * Writers integrate better with development teams
 * Developers will often write a first draft of documentation
