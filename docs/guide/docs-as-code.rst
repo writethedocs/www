@@ -3,10 +3,11 @@ Docs as Code
 
 :author: `Eric Holscher <https://ericholscher.com>`_ & the Write the Docs community
 
-Documentation as Code (*Docs as Code*) refers to a philosophy that you should be writing documentation with the toolings as writing code:
+Documentation as Code (*Docs as Code*) refers to a philosophy that you should be writing documentation with the same tools as code:
 
 * Issue Trackers
-* Version Control
+* Version Control (Git)
+* Plain Text Markup (Markdown, reStructuredText, Asciidoc)
 * Code Reviews
 * Automated Tests
 
