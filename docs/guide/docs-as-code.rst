@@ -1,9 +1,9 @@
 Docs as Code
 ============
 
-:author: `Eric Holscher <https://ericholscher.com>`_
+:author: `Eric Holscher <https://ericholscher.com>`_ & the Write the Docs community
 
-*Docs as Code* refers to a philosophy that you should be writing documentation with the toolings as writing code:
+Documentation as Code (*Docs as Code*) refers to a philosophy that you should be writing documentation with the toolings as writing code:
 
 * Issue Trackers
 * Version Control
