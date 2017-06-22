@@ -80,15 +80,9 @@
     twitter: ''
     website: ''
     slug: kathleen-de-roo
-  abstract: "<p>Note: this talk could be a 30 minute presentation or an unconference
-    discussion.</p>\n<p>Also having problems finding your (google) docs? Keeping the
-    whole picture in mind?\nThe first step is to give docs consistent names, but we
-    also need to check our database regularly, and decide what to keep or destroy.
-    What should we base those decisions on? \nIn this talk I’ll give an overview of
-    how you can efficiently handle your docs through the lifecycle model (planning
-    - creating - keeping/destroying) used by archivists/records managers. What is
-    important to keep in mind? How can you organise your own database or that of a
-    company? As a conclusion, I will help you to create a “manage the docs” checklist.</p>"
+  abstract: "<p>How can you easily retrieve your (google) docs? How can you keep the whole picture in mind?</p>
+    <p>The first step is to give docs consistent names, but we also need to check our database regularly, and decide what to keep or destroy. What should we base those decisions on?
+    In this talk I’ll give an overview of how you can efficiently handle your docs through the lifecycle model (planning - creating - keeping/destroying) used by archivists/records managers. What is important to keep in mind? How can you organise your own database or that of a company? As a conclusion, I will help you to create a \"manage the docs\" checklist.</p>"
   title: Manage your docs like an archivist
 - speakers:
   - details: ''
@@ -263,15 +257,15 @@
     website: ''
     slug: becky-todd
   abstract: |-
-    <p>Crowdsourcing is an increasingly attractive practice that is being used to develop documentation. When well designed, this approach increases documentation velocity and reduces bottlenecks. However,  there are (at least) two huge challenges:</p>
+    <p>Crowdsourcing is an increasingly attractive practice that is being used to develop documentation. When well designed, this approach increases documentation velocity and reduces bottlenecks. However, there are (at least) two huge challenges:</p>
     <ul>
-    <li>Keeping documentation quality high.</li>
-    <li>Ensuring that content gets developed in line with the products and services it supports.</li>
+    <li>Keeping documentation quality high</li>
+    <li>Ensuring that content gets developed in line with the products and services it supports</li>
     </ul>
     <p>While no doc set will ever be perfect, there is hope for overcoming these challenges. In this talk, I'll share lessons learned from working through these challenges at companies of various sizes. We'll walk through content management best practices, including: </p>
     <ul>
-    <li>Building an effective writing toolkit </li>
     <li>Setting occasional authors up for success</li>
+    <li>Building an effective writing toolkit</li>
     <li>Defining content management strategies for globally distributed teams</li>
     </ul>
   title: A content manager's guide to crowdsourcing the docs
@@ -282,7 +276,6 @@
     website: ''
     slug: christy-lutz
   abstract: |-
-    <p>Getting feedback on your work is a necessary part of any project, and it makes your output stronger and more diverse. But it can be hard when your work is being evaluated. Sometimes, it feels like your reviewers have a deep and abiding interest in pain. You’ll never succeed! Well, you have already succeeded just by asking for feedback.  Together, we’ll discuss how to build up your tolerance for taking that feedback.</p>
-    <p>Feedback became so much easier for me when I learned design critique guidelines from a co-worker and UX Designer. Design critique guidelines are a set of rules and practices that can make getting and giving feedback easier. This presentation passes along the strategies I learned so you can implement design critique guidelines into your review process and make feedback painless.</p>
-  title: 'You have already succeeded: Design critique guidelines make feedback easier'
-
+    <p>Getting feedback on your work is a necessary part of any project, and it makes your output stronger and more diverse. But it can be hard when your work is being evaluated. Sometimes, it feels like your reviewers have a deep and abiding interest in pain. You’ll never succeed! Well, you have already succeeded just by asking for feedback. Together, we’ll discuss how to build up your tolerance for taking that feedback.</p>
+    <p>Feedback became so much easier for me when I learned design critique guidelines from a co-worker and UX Designer. Design critique guidelines are a set of rules and practices that can make getting and giving feedback easier. After presenting this speech at the Write the Docs Portland 2017 conference, I received a ton of great feedback on it. Now, I have even more strategies to share so that you can implement design critique guidelines into your own review process to make feedback painless.</p>
+  title: 'You have already succeeded: Design critique guidelines make feedback easier 2.0'
