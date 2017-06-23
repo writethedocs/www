@@ -1,3 +1,25 @@
+- title: Even Naming This Talk Is Hard
+  abstract: |
+    <p>Writers of software and writers of documentation practice a shared
+    art: we bestow abstractions with names. We know we''ve succeeded when our names
+    illuminate concepts, elicit a-ha moments, and empower users to put our product
+    to work. We know we''ve failed when the names we''ve chosen confuse, frustrate,
+    misguide, or offend.</p>
+    <p>Naming things well matters. Too often, though, good names are hard to come
+    by, and bad names are hard to change.</p>
+    <p>Using a lengthy and ever-growing list of Terrible, Horrible, No Good, Very
+    Bad names encountered during my career as an engineer, this talk will address:</p>
+    <li><p>Why is it so hard to name things well in software?</li></p>
+    <li><p>Why do bad names persist?</li></p>
+    <li><p>What are some heuristics for assessing how good or bad a name is?</li></p>
+    <li><p>How has technology hampered efforts to name things well?</li></p>
+    <li><p>How can technology help our efforts to name things well?</li></p>
+    <li><p>How can documentarians and developers work together to name things better?</p></li>
+  speakers:
+  - details: ''
+    name: Ruthie BenDor
+    slug: ruthie-bendor
+    twitter: unruthless
 - speakers:
   - details: ''
     name: Tim Rogers
