@@ -147,22 +147,6 @@
                     </div>
                   </a>
                 </div>
-                  <div class="col-xs-12 col-md-4">
-                    <a href="news/announcing-website-tickets/" class="well news__tile">
-                      <h3 class="well__title">
-                        Announcing Website and Ticket Sales
-                      </h3>
-                      <p class="well__paragraph">
-                      We're happy to officially announce Write the Docs Prague 2017!
-                      It’s shaping up to be another wonderful year full of great conversations
-                      and interesting talks...
-                      </p>
-                      <div class="well__time">
-                        <span>12:00</span>|<span>Mar 1, 2017</span>
-                      </div>
-                    </a>
-                  </div>
-                </div>
 
               </section>
               <!-- Sponsors -->
