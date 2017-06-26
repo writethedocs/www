@@ -39,9 +39,9 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 * **Unconference coordinator** - Paul Adams
 * **Lightning Talk coordinator** - Paul Adams
 * **Communication chair** - Mikey Ariel
-* **Volunteer coordinator** - TBD
+* **Volunteer coordinator** - Erik Romijn
 * **Sponsorship lead** - Eric Holscher
-* **Explore Prage coordinator** - TBD
+* **Explore Prague coordinator** - TBD
 * **Welcome Wagon coordinators** - Kendall Pakula, Louise Monsour
 * **Social media chair** - TBD
 * **Boat tour coordinator** - Mikey Ariel
