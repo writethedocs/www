@@ -23,7 +23,7 @@ Purchase this ticket if a company is paying for your attendance.
 Companies interested in sponsorship can also receive tickets to the
 conference with a sponsorship package.
 
-* 300EUR Corporate
+* **250 EUR Corporate**
 
 Independent Tickets
 -------------------
@@ -31,7 +31,7 @@ Independent Tickets
 Purchase this ticket if you are paying for yourself, or if you work at a
 non-profit, a government, or a company with fewer than 10 employees.
 
-* 200EUR Independent
+* **150 EUR Independent**
 
 Student or Unemployed
 ---------------------
@@ -39,7 +39,7 @@ Student or Unemployed
 Purchase this ticket if you are currently enrolled as a student, or
 don't currently have a source of income.
 
-* 100EUR Student or Unemployed Tickets
+* **75 EUR Student or Unemployed Tickets**
 
 Financial Assistance
 --------------------
