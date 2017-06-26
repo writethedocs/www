@@ -6,7 +6,7 @@
 Announcing Presentations and Important Ticket Pricing Update
 ============================================================
 
-We're excited to share with you the lineup for the 2017 Prague conference. Needless to say, the selection process was intense, as we had fewer than 20 slots for talks.
+We're excited to share with you the lineup for the 2017 Prague conference. Needless to say, the selection process was intense, as we had fewer than 20 slots for talks and many more awesome proposals than we can fit into the program.
 
 The topics this year cover a vast range of subjects, points of view, and real-world case studies. We hope that whatever your role may be, you can find something to relate to.
 
@@ -59,12 +59,10 @@ You can check out the detailed ticket pricing on our `Tickets <http://www.writet
 
 In particular, we have changed how we budget our conferences to allow for paying some of our production staff and keeping a small sum to reinvest in operations outside of the conference, such as meetups and infrastructure. All this has added some overhead to the actual cost of the conference, but in hindsight, we should have maintained a more gradual increase in our ticket prices.
 
-After we received some candid feedback from the community, we re-examined the pricing structure and realized that we simply raised the prices too drastically this year. For example, the 2017 price for Independent tickets was twice as much as 2016. This is something we didn't catch at first, and doesn't reflect our values of accessibility and inclusion.
+After we received some candid feedback from the community, we re-examined the pricing structure and realized that we raised the prices too drastically this year. For example, the 2017 price for Independent tickets was twice as much as 2016. This is something we didn't catch at first, and doesn't reflect our values of accessibility and inclusion.
 
 Our events are not-for-profit, and it's the engagement of the documentarians in our community is what keeps the family growing. We are extremely grateful to our fellow documentarians who stepped up and communicated this feedback gracefully and who helped us through this process.
 
-We made a mistake, and we are fixing it. Standing by a mistake can be more damaging than owning up to it and fixing it. So we are fixing this mistake and lowering our prices.
+We made a mistake, and we are fixing it. We hope that the new pricing structure better reflects our core values of accessibility and inclusivity. We already processed refunds for the price difference for those who already registered, but it might take a few days for the bank or credit card transactions.
 
-We hope that the new pricing structure better reflects our core values of accessibility and inclusivity. We already processed partial refunds for the price difference for those who already registered, but it might take a few days for the bank or credit card transactions.
-
-See you all in Prague!
+Looking forward to see you all in Prague!
