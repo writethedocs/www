@@ -1,6 +1,6 @@
 :template: 2017/eu-content.html
 
-.. post:: April 17, 2017
+.. post:: June 26, 2017
    :tags: 2017, prague, cfp, tickets
 
 Announcing Presentations and Important Ticket Pricing Update
