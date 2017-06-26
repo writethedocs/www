@@ -31,8 +31,8 @@ We'll also help groups organize dinner plans, so you can continue your
 conversations over more substantial food as well.
 
 .. datatemplate::
-   :source: /_data/eu-2017-writing-day.json
-   :template: include/schedule.rst
+   :source: /_data/eu-2017-writing-day.yaml
+   :template: include/schedule2017.rst
 
 Monday, September 11
 --------------------
@@ -46,8 +46,8 @@ Main Stage
 ~~~~~~~~~~
 
 .. datatemplate::
-   :source: /_data/eu-2017-day-1.json
-   :template: include/schedule.rst
+   :source: /_data/eu-2017-day-1.yaml
+   :template: include/schedule2017.rst
 
 Unconference Room
 ~~~~~~~~~~~~~~~~~
@@ -73,8 +73,8 @@ Main Stage
 ~~~~~~~~~~
 
 .. datatemplate::
-   :source: /_data/eu-2017-day-2.json
-   :template: include/schedule.rst
+   :source: /_data/eu-2017-day-2.yaml
+   :template: include/schedule2017.rst
 
 Unconference Room
 ~~~~~~~~~~~~~~~~~

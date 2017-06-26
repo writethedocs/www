@@ -14,7 +14,7 @@ Workshop Schedule
 -----------------
 
 .. datatemplate::
-   :source: /_data/na-2017-workshops.json
+   :source: /_data/na-2017-workshops.yaml
    :template: include/schedule.rst
 
 
