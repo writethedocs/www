@@ -152,7 +152,7 @@
     over the past decade, and where is it headed?\n•   What are the minimum daily
     requirements for language in this brave new world: Correct grammar, complete sentences,
     parallel construction, proper word choice, clarity, brevity?\n•   What is the
-    role of humor in tech docs?\n•   Is OK to for tech docs to use colloquialisms,
+    role of humor in tech docs?\n•   Is it OK for tech docs to use colloquialisms,
     idioms, contractions, and even emojis? \n•   What are the implications of this
     evolution on localization? </p>"
   title: Aw Snap!  The Docs, They Are A-Changin’ (with apologies to Bob Dylan)
@@ -174,18 +174,9 @@
     twitter: ''
     website: ''
     slug: lesia-zasadna
-  abstract: "<p>Any doc - every doc - that you deliver, it's only as useful as the
-    requirements it satisfies. Typical requirements revolve around target audience,
-    method of delivery, technical limitations. But after the doc is done, then come
-    unexpected expectations. John - your key stakeholder - dislikes chiches like corporate
-    templates and wants to stand out with neat Apple-styled docs. Also, it was a mistake
-    to tell him about similar 'really cool docs' you already did for his colleague
-    Jane because apparently they don't get along well, and now he proudly decided
-    that his product is so much better that hers that it doesn't need docs at all...
-    Suddenly, your docs should not only make users happy, but also help your stakeholders
-    achieve their aims - move up a career ladder, impress the boss, get a bigger paycheck.
-    The success of your docs depends on things you are never told. This talk is about
-    reading your stakeholders and deducing the ultimate requirements.</p>"
+  abstract: "<p>Any doc - every doc - that you deliver, it's only as useful as the requirements it satisfies. Typical requirements revolve around target audience, method of delivery, technical     limitations. But after the doc is done, then come unexpected expectations.</p>
+    <p>Suddenly, your docs should not only make users happy, but also help your stakeholders achieve their aims - move up a career ladder, impress the boss, get a bigger paycheck.</p>
+    <p>The success of your docs depends on things you are never told. This talk is about reading your stakeholders and deducing the ultimate requirements.</p>"
   title: Requirements that you didn't know were there
 - speakers:
   - details: ''
