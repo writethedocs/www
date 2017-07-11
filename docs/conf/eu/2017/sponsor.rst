@@ -22,3 +22,10 @@ In Kind Sponsors
 Write the Docs is also helped out by companies that give their employees time to work on the conference.
 
 .. include:: /include/conf/2017-eu-sponsors-in-kind.rst
+
+Media Sponsors
+----------------
+
+These folks will be helping cover the conference so people who can't attend still get all the good information that is being presented!
+
+.. include:: /include/conf/2017-eu-sponsors-media.rst

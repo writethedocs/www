@@ -192,6 +192,25 @@
 
 .. raw:: html
 
+              <div class="row">
+                <div class="col-sm-8 col-sm-offset-2">
+                <br />
+                <h3>
+                  Media Sponsors
+                </h3>
+                </div>
+              </div>
+
+                <div class="row">
+                  <div class="col-sm-8 col-sm-offset-2">
+                    <p>These folks will be helping cover the conference so people who can't attend still get all the good information that is being presented!</p>
+                  </div>
+                </div>
+
+.. include:: /include/conf/2017-eu-sponsors-media.rst
+
+.. raw:: html
+
               </section>
 
             </div>
