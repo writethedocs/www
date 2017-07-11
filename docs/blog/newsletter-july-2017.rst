@@ -22,6 +22,7 @@ Keep your jokes out of my documentation!
 This month, we discussed a fresh angle on the perennial question of tone in technical documentation: Does humor ever belong in docs? What if a project stakeholder is pressuring you to add it? What if it's *really* funny? Can **anyone** report a good experience with humor in tech docs? Survey says, no.
 
 Contributors to the conversation noted the following problems with humor:
+
 * Variable sense of humor among readers; what one reader finds funny, another reader finds annoying
 * Risk of unintended offense
 * Humor doesn't translate or localize well
