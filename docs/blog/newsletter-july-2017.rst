@@ -74,7 +74,7 @@ Upcoming community events
 In this last section of the newsletter, we try to call out community goings-on out in the real world. We've got three local meetups happening this week alone! Mark your calendars!
 
 **EU CONFERENCE COUNTDOWN: Two Months Left!**
-Make sure you `get your tickets soon <http://www.writethedocs.org/conf/eu>`_, so you can join us in Prague, Sept 10-12!
+Make sure you `get your tickets soon <http://www.writethedocs.org/conf/eu/2017/tickets/>`_, so you can join us in Prague, Sept 10-12!
 
 Upcoming Meetups
 ----------------
