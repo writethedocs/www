@@ -80,7 +80,7 @@ Upcoming Meetups
 
 * **Today!** July 11 – Portland, OR, USA – `History of the New Relic Documentation Site, Part One <https://www.meetup.com/Write-The-Docs-PDX/events/240771894/>`_
 * July 12 – Cambridge, UK – `Finding the right work to do: Lessons learnt from a year at a startup <https://www.meetup.com/Write-The-Docs-Cambridge/events/240634929/>`_
-* July 13 – Montreal, CA – `First Write The Docs Montreal Meetup! <https://www.meetup.com/WriteTheDocsMTL/events/240350356/>`_
+* July 13 – Montreal, CA – `First Write the Docs Montreal Meetup! <https://www.meetup.com/WriteTheDocsMTL/events/240350356/>`_
 * July 19 – Broomfield, CO – `Building navigation for your doc site: 5 best practices <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/241431528/>`_
 
 Thanks to all our wonderful organizers who are putting these events together!
