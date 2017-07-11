@@ -37,8 +37,8 @@ Documenting unlabeled buttons
 Many of us work in interfaces that are riddled with unlabeled buttons, putting us in the unenviable position of figuring out how to refer to them in text. Describing them is risky. Statements like "click the button that looks like a stack of books with a lightning bolt" wear thin pretty quickly. But including inline button images comes with its own set of pitfalls. Thanks to the Slack hivemind, we arrived at some best practices to keep in mind.
 
 The overall feeling was that including images was better than relying on (often questionable) descriptions, but with a couple of important caveats:
-* Make sure you get your font and icon sizes working together so the inline images don't disrupt your line height. If you need to get some dev help to work a little stylesheet magic, do it. It's worth it.
-*NOTE: It was this common problem that initially sparked the unlabeled button discussion.*
+
+* Make sure you get your font and icon sizes working together so the inline images don't disrupt your line height. If you need to get some dev help to work a little stylesheet magic, do it. It's worth it. *NOTE: It was this common problem that initially sparked the unlabeled button discussion.*
 * Be aware that the downside to including icon images is maintainablity – one change to the UI usually means dozens+ changes to the docs, which can be hard to sort out.
 * Alt text for your icon images is not optional. Not only is it critical for keeping your docs accessible, but it also helps with the maintenance problem. If your icons have consistent alt text, you at least have a search term to use when updates need to be made.
 
@@ -75,9 +75,12 @@ In this last section of the newsletter, we try to call out community goings-on o
 **EU CONFERENCE COUNTDOWN: Two Months Left!**
 Make sure you `get your tickets soon <http://www.writethedocs.org/conf/eu>`_, so you can join us in Prague, Sept 10-12!
 
-**Upcoming Meetups**
+Upcoming Meetups
+----------------
 
-**Today!** July 11 – Portland, OR, USA – `History of the New Relic Documentation Site, Part One <https://www.meetup.com/Write-The-Docs-PDX/events/240771894/>`_
-July 12 – Cambridge, UK – `Finding the right work to do: Lessons learnt from a year at a startup <https://www.meetup.com/Write-The-Docs-Cambridge/events/240634929/>`_
-July 13 – Montreal, CA – `First Write The Docs Montreal Meetup! <https://www.meetup.com/WriteTheDocsMTL/events/240350356/>`_
-July 19 – Broomfield, CO – `Building navigation for your doc site: 5 best practices <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/241431528/>`_
+* **Today!** July 11 – Portland, OR, USA – `History of the New Relic Documentation Site, Part One <https://www.meetup.com/Write-The-Docs-PDX/events/240771894/>`_
+* July 12 – Cambridge, UK – `Finding the right work to do: Lessons learnt from a year at a startup <https://www.meetup.com/Write-The-Docs-Cambridge/events/240634929/>`_
+* July 13 – Montreal, CA – `First Write The Docs Montreal Meetup! <https://www.meetup.com/WriteTheDocsMTL/events/240350356/>`_
+* July 19 – Broomfield, CO – `Building navigation for your doc site: 5 best practices <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/241431528/>`_
+
+Thanks to all our wonderful organizers who are putting these events together!
