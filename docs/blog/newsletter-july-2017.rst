@@ -11,7 +11,7 @@ Hope summer (or winter, for those of you south of the equator) is treating you w
 
 Also, speaking of amazing volunteers, we're looking to expand our little newsletter editorial team. If you already spend a lot of time on the Write the Docs Slack, and you want to help us tag insightful Slack conversations and turn them into mini-features, we'd be very interested in hearing from you! Drop me a message on Slack @kobrien042!
 
-One last note before we dive in. As I've been slowly tuning back into Slack this month, and starting to look ahead to Write the Docs EU, I've been reminded of how lucky we are to have such a lively, knowledgeable, collaborative community. So many of the conversations that go on every day resonate with or bring new perspective to my own work and experience, and I just wanted to take a minute to recognize how cool and valuable it is.
+One last note before we dive in. As I've been slowly tuning back into Slack this month, and starting to look ahead to Write the Docs Prague, I've been reminded of how lucky we are to have such a lively, knowledgeable, collaborative community. So many of the conversations that go on every day resonate with or bring new perspective to my own work and experience, and I just wanted to take a minute to recognize how cool and valuable it is.
 
 And what better way to recognize it than to hit some of the highlights from this past month of discussions? Let's do it!
 
