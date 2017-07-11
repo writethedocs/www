@@ -7,7 +7,7 @@ Write the Docs Newsletter – July 2017
 
 Hi everybody!
 
-Hope summer (or winter, for those of you south of the equator) is treating you well. It's Kelly O. here, back behind the editorial helm after taking a few months off (to move to London 👋🇬🇧👋). If you, like me, have been enjoying the newsletter these last few months, please direct your thanks and props to Hillary Fraley (@hillaryfraley on Slack). She was kind enough to look after the newsletter while I was caught up in the move, and she did an *awesome* job of it.
+Hope summer (or winter, for those of you south of the equator) is treating you well. It's Kelly O. here, back behind the editorial helm after taking a few months off (to move to London!). If you, like me, have been enjoying the newsletter these last few months, please direct your thanks and props to Hillary Fraley (@hillaryfraley on Slack). She was kind enough to look after the newsletter while I was caught up in the move, and she did an *awesome* job of it.
 
 Also, speaking of amazing volunteers, we're looking to expand our little newsletter editorial team. If you already spend a lot of time on the Write the Docs Slack, and you want to help us tag insightful Slack conversations and turn them into mini-features, we'd be very interested in hearing from you! Drop me a message on Slack @kobrien042!
 

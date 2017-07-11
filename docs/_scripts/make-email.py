@@ -23,6 +23,7 @@ url = sys.argv[1]
 
 d = pq(url=url)
 content = d('.col-content').html()
+# import ipdb; ipdb.set_trace();
 if not content:
     content = d('.body').html()
     # Remove page title
