@@ -19,6 +19,8 @@
                   </div>
                   <div class="col-xs-12 col-md-7 text-xs-center text-md-right">
                     <div class="buy-ticket__2nd-col">
+                      <a href="#news" class="btn btn-primary button button--narrow buy-ticket__talk">What's new?</a>
+                      <p class="buy-ticket__p">|</p>
                       <a href="https://ti.to/writethedocs/write-the-docs-eu-2017/" class="btn btn-primary button button--narrow buy-ticket__ticket">Buy a ticket!</a>
                     </div>
                   </div>
@@ -89,15 +91,14 @@
                 </div>
               </section>
 
-              <section class="section">
+              <section class="section" id="news">
                 <div class="row">
                   <div class="col-xs-12">
                     <div class="section__header subheader">
+
                       <span class="subheader__yellow"></span>
                       <h2 class="subheader__header">Latest News</h2>
-                      <!-- Kill this for now
-                      <a href="news.html" class="subheader__more">Read all news</a>
-                      -->
+                      <a href="news/" class="subheader__more">Read all news</a>
                     </div>
                   </div>
                 </div>
@@ -109,7 +110,7 @@
                       Announcing Presentations and Important Ticket Pricing Update
                     </h3>
                     <p class="well__paragraph">
-                     We're excited to share with you the lineup for the 2017 Prague conference. 
+                     We're excited to share with you the lineup for the 2017 Prague conference.
                      Needless to say, the selection process...
                     </p>
                     <div class="well__time">
@@ -117,7 +118,7 @@
                     </div>
                   </a>
                 </div>
-                
+
               <div class="row">
                 <div class="col-xs-12 col-md-4">
                   <a href="news/cfp-reminder/" class="well news__tile">
@@ -133,7 +134,7 @@
                     </div>
                   </a>
                 </div>
-                
+
                 <div class="row">
                 <div class="col-xs-12 col-md-4">
                   <a href="news/announcing-cfp/" class="well news__tile">
