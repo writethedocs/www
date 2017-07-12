@@ -10,8 +10,6 @@ The venue will provide a supervised cloak room free of charge so you can store y
 luggage during the main conference days.
 
 .. image:: https://c1.staticflickr.com/9/8498/29753955646_dd18376345.jpg
-   :width: 80%
-   :align: center
 
 Accessibility
 ~~~~~~~~~~~~~

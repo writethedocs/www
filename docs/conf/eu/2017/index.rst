@@ -91,6 +91,41 @@
                 </div>
               </section>
 
+              <!-- Speakers -->
+              {% set conf = "eu-2017" %}
+              {% set speakers = eu_2017_speakers %}
+
+              <section class="section">
+                <div class="row">
+                   <div class="col-xs-12">
+                    <div class="section__header subheader">
+                      <span class="subheader__yellow"></span>
+                       <h2 class="subheader__header">Speakers</h2>
+                     </div>
+                   </div>
+                 </div>
+                 <div class="row">
+
+                   {% for talk in speakers %}
+
+                      {% for speaker in talk.speakers %}
+                      <div class="col-xs-6 col-md-1-5 text-center">
+                        <a href="speakers/#speaker-{{ speaker.slug }}">
+                        <div class="person">
+                          <img src="/_static/img/speakers/{{ speaker.img_file }}" alt="{{speaker.name}}" class="person__img" style="border-radius: 50%"/>
+                          <p class="person__name">{{speaker.name}}</p>
+                        </div>
+                        </a>
+                      </div>
+
+                      {% endfor %}
+
+                   {% endfor %}
+                 </div>
+              </section>
+
+
+
               <section class="section" id="news">
                 <div class="row">
                   <div class="col-xs-12">
