@@ -6,6 +6,10 @@ Venue
 Our venue for the conference and writing day is the `Auto Klub`_ right
 next to the train station in the `Prague city center`_.
 
+.. raw:: html
+
+   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10240.552019306!2d14.43236!3d50.083703!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd7a71edc6a153d41!2sAutoclub+of+the+Czech+Republic!5e0!3m2!1sen!2sde!4v1499878457697" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 The venue will provide a supervised cloak room free of charge so you can store you coats, bags, or
 luggage during the main conference days.
 
