@@ -10,9 +10,9 @@ What is the Welcome Wagon?
 
 The Welcome Wagon (WW) is an initiative to help make first-time attendees feel, well... welcome!
 
-The Welcome Wagon includes published pre-conference tips and tricks that attendees can read to prepare, as well as on-site orientation and activities that introduce attendees to the venue, city, and each other.
+The Welcome Wagon includes published pre-conference tips and tricks that attendees can read to prepare, as well as on-site orientation and activities that introduce attendees to the venue, city, and each other. You can see an example here: http://www.writethedocs.org/conf/na/2017/welcome-wagon/
 
-This document outlines the key elements of the WW and aims to help volunteers run it smoothly and effectively. You can see an example here: http://www.writethedocs.org/conf/na/2017/welcome-wagon/
+This document outlines the key elements of the WW and aims to help volunteers run it smoothly and effectively. 
 
 Who Runs the Welcome Wagon?
 ---------------------------
