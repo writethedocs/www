@@ -40,6 +40,7 @@ Information about our regional Write the Docs conferences.
    confs/cfp
    confs/communication
    confs/volunteers
+   confs/welcome-wagon
 
 .. TODO
 
