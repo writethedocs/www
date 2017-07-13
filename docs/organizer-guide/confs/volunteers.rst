@@ -26,6 +26,35 @@ Volunteer Regular Duties
 Emails to send
 --------------
 
-* Confirmation of volunteer/attendance (Around two months before the conference)
-* Volunteer duties, expectations, and scheduling (One month before the conference)
-* Code of Conduct - response and information (One month before the conference)
+Welcome and Confirmation
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Send this email to yourself with BCC to all potential volunteers, around 2 months before the conference.
+
+.. literalinclude:: emails/volunteer-welcome.jinja
+   :language: jinja
+
+Roles, Draft Schedule, and Registration
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Send this email to all volunteers (To field OK), around 1 month before the conference.
+
+.. literalinclude:: emails/volunteer-firstinfo.jinja
+   :language: jinja
+
+Final Schedule and Code of Conduct
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Send this email to all volunteers, around 1-2 weeks before the conference.
+
+.. literalinclude:: emails/volunteer-finalprep.jinja
+   :language: jinja
+
+
+Thank You and Feedback
+~~~~~~~~~~~~~~~~~~~~~~
+
+Send this email to all volunteers, no later than 1 week after the conference.
+
+.. literalinclude:: emails/volunteer-thanks.jinja
+   :language: jinja
