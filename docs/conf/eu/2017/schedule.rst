@@ -54,12 +54,14 @@ Unconference Room
 
 :doc:`/conf/eu/2017/unconference` from 13:00-17:00
 
-Monday Night - Party
-~~~~~~~~~~~~~~~~~~~~
+Monday Night - Social Event
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The party will start at **19:00**.
+Location: `Hangar Bar, Dušní 9/9, Praha 1 <https://goo.gl/maps/qDfi6bqyn212>`_
 
-The party is for **conference attendees only**.
+The social event will start at **20:00**.
+
+Entrance to this event is for **conference attendees only**.
 Please bring your badge, as it is an official conference event.
 
 Drinks and light snacks will be provided while our tab lasts.

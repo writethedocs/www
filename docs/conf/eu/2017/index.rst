@@ -140,6 +140,22 @@
 
                 <div class="row">
                 <div class="col-xs-12 col-md-4">
+                  <a href="news/announcing-events-volunteers/" class="well news__tile">
+                    <h3 class="well__title">
+                      Announcing Events and Call for Volunteers
+                    </h3>
+                    <p class="well__paragraph">
+                    The conference is now just under two months away, and we hope
+                    you’re getting geared up...
+                    </p>
+                    <div class="well__time">
+                      <span>12:00</span>|<span>July 19, 2017</span>
+                    </div>
+                  </a>
+                </div>
+
+                <div class="row">
+                <div class="col-xs-12 col-md-4">
                   <a href="news/announcing-presentations-ticket-update/" class="well news__tile">
                     <h3 class="well__title">
                       Announcing Presentations and Important Ticket Pricing Update
@@ -166,21 +182,6 @@
                     </p>
                     <div class="well__time">
                       <span>12:00</span>|<span>May 23, 2017</span>
-                    </div>
-                  </a>
-                </div>
-
-                <div class="row">
-                <div class="col-xs-12 col-md-4">
-                  <a href="news/announcing-cfp/" class="well news__tile">
-                    <h3 class="well__title">
-                      Announcing Call for Proposals
-                    </h3>
-                    <p class="well__paragraph">
-                    We're happy to officially announce the Call for Proposals for Write the Docs Prague 2017!
-                    </p>
-                    <div class="well__time">
-                      <span>12:00</span>|<span>Apr 17, 2017</span>
                     </div>
                   </a>
                 </div>

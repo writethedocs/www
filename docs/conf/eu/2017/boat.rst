@@ -26,3 +26,5 @@ to purchase a ticket for this boat tour, so friends and family are welcome!
 
 Boat description and details will be announced when we have a more accurate estimate of
 the number of registrations, as this will affect which boat we will hire.
+
+**This activity is priced separately and is not included in your conference ticket.** Please `register here <https://ti.to/writethedocs/write-the-docs-eu-2017>`_.
