@@ -5,22 +5,39 @@ Welcome Wagon
 
 Hello!
 
-We're your Welcome Wagon, and we're glad you're coming to the 2017 Write the Docs conference!
+We're Kendall and Lou, your Welcome Wagon! We're glad you're coming to the 2017 Write the Docs conference!
 
-We've gathered important stuff here that will help you navigate the
-conference like a pro, make you feel more at home, and help you to
-manage the constant flow of information.
+.. raw:: html
 
-The Welcome Wagon events warm up new attendees and connect them with people,
-both veterans and other first-timers. Strategies and pro tips provide ways you
-can make the most of the conference.
+   <img src="/_static/img/2017/eu/welcome-wagon.jpg" />
 
-The FAQ strive to answer questions before you even have them.
+
+Feel free to email us or send us a message on Google Hangouts if there's anything we can do to make your Write the Docs experience easier. You can reach us at praguewelcomewagon@gmail.com.
+
+We've gathered important stuff here that will help you navigate the conference like a pro, make you feel more at home, and help you to manage the constant flow of information.
+
+The Welcome Wagon events warm up new attendees and connect them with people, both veterans
+and other first-timers. Strategies and pro tips provide ways you can make the most of the conference.
+
+The `FAQs <#faq>`_ should have answers to most of your questions, let us know if there is anything you'd like to know that isn't there.
 
 Welcome Wagon events
 --------------------
 
-We are still in the process of planning our Welcome Wagon events for this year.
+**Write the Docs Welcome Wagon Introduction**
+*Sunday, September 10th at 17:00 in the quiet room (downstairs, across from the cloak room) at Auto-Klub*
+
+Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new before we join the opening reception.
+
+**Welcome Wagon Tours**
+*Sunday, September 10th at 17:30, and Monday, September 11th at 8:00 starting in the quiet room (downstairs, across from the cloak room) at Auto-Klub*
+
+Come on a short tour of the venue with a veteran Write the Docs attendee so you'll know where everything is and everything you can take part in.
+
+**Welcome Wagon Check-In**
+*Tuesday, September 12th at 8:00 in the quiet room (downstairs, across from the cloak room) at Auto-Klub*
+
+Meet back up with the Welcome Wagon and fellow first-timers to check-in about how the conference is going for you. Ask any questions you have, pass on stories from your first day, and let the Welcome Wagon know if there is anything you need to make your second day as successful as your first one.
 
 Pro Tips
 --------
