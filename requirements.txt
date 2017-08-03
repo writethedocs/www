@@ -5,3 +5,4 @@ tox==2.3.1
 sphinxcontrib.datatemplates
 sphinx_autobuild
 PyYAML==3.12
+docutils<0.13.1
