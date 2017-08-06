@@ -91,6 +91,7 @@
                 </div>
               </section>
 
+              <!--
               <!-- Speakers -->
               {% set conf = "eu-2017" %}
               {% set speakers = eu_2017_speakers %}
@@ -123,6 +124,7 @@
                    {% endfor %}
                  </div>
               </section>
+              -->
 
 
 
@@ -206,7 +208,7 @@
                   </div>
                 </div>
 
-.. include:: /include/conf/2017-eu-sponsors.rst
+.. include:: /include/conf/2017-au-sponsors.rst
 
 .. raw:: html
 
@@ -225,7 +227,7 @@
                   </div>
                 </div>
 
-.. include:: /include/conf/2017-eu-sponsors-in-kind.rst
+.. include:: /include/conf/2017-au-sponsors-in-kind.rst
 
 .. raw:: html
 
@@ -244,7 +246,7 @@
                   </div>
                 </div>
 
-.. include:: /include/conf/2017-eu-sponsors-media.rst
+.. include:: /include/conf/2017-au-sponsors-media.rst
 
 .. raw:: html
 
