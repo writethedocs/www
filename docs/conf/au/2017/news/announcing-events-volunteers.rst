@@ -1,4 +1,4 @@
-:template: 2017/eu-content.html
+:template: 2017/au-content.html
 
 .. post:: July 19, 2017
    :tags: 2017, prague, events, volunteers

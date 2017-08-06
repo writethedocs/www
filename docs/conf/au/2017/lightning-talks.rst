@@ -1,4 +1,4 @@
-:template: 2017/eu-content.html
+:template: 2017/au-content.html
 
 .. _speaker-lightning-talks-eu2017:
 

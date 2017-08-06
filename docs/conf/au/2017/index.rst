@@ -1,4 +1,4 @@
-:template: 2017/eu-index.html
+:template: 2017/au-index.html
 
 .. raw:: html
 

@@ -1,4 +1,4 @@
-:template: 2017/eu-content.html
+:template: 2017/au-content.html
 
 .. post:: Mar 1, 2017
    :tags: 2017, prague, website, tickets

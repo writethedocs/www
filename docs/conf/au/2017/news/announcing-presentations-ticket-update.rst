@@ -1,4 +1,4 @@
-:template: 2017/eu-content.html
+:template: 2017/au-content.html
 
 .. post:: June 26, 2017
    :tags: 2017, prague, cfp, tickets

@@ -1,0 +1,117 @@
+  <div class="offcanvas--bg" data-offcanvas-bg></div>
+  <div class="offcanvas" data-offcanvas>
+    <button class="offcanvas__close btn-link" data-offcanvas-close>&#xe901;</button>
+    <ul class="offcanvas__menu menu-mobile">
+      <li class="menu-mobile__item">
+          <a href="{{ pathto('conf/au/2017/news/index') }}">
+            News
+          </a>
+      </li>
+      <li class="menu-mobile__item">
+        <a href="{{ pathto('conf/au/2017/tickets') }}">Tickets</a>
+      </li>
+      <li class="menu-mobile__item">
+          <a href="{{ pathto('conf/au/2017/sponsor') }}">
+            Sponsor
+          </a>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <span>Program</span>
+        <ul class="menu-mobile__dropdown">
+            <li><a href="{{ pathto('conf/au/2017/schedule') }}">Full Schedule</a></li>
+            <li><a href="{{ pathto('conf/au/2017/speakers') }}">Sessions</a></li>
+            <li><a href="{{ pathto('conf/au/2017/boat') }}">Boat Tour</a></li>
+            <li><a href="{{ pathto('conf/au/2017/writing-day') }}">Writing Day</a></li>
+            <li><a href="{{ pathto('conf/au/2017/lightning-talks') }}">Lightning Talks</a></li>
+            <li><a href="{{ pathto('conf/au/2017/unconference') }}">Unconference</a></li>
+        </ul>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <span>Visit</span>
+        <ul class="menu-mobile__dropdown">
+            <li><a href="{{ pathto('conf/au/2017/venue') }}">Venue Information</a></li>
+            <li><a href="{{ pathto('conf/au/2017/visiting') }}">Visiting Melbourne</a></li>
+        </ul>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <span>About</span>
+        <ul class="menu-mobile__dropdown">
+            <li><a href="{{ pathto('conf/au/2017/welcome-wagon') }}">Welcome Wagon</a></li>
+            <li><a href="{{ pathto('conf/au/2017/staff') }}">Meet the Team</a></li>
+            <li><a href="{{ pathto('conf/index') }}">Past Events</a></li>
+            <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div class="mobile-bar">
+    <div class="mobile-bar__col mobile-bar__col--hamburger">
+      <button class="mobile-bar__hamburger btn-link" data-offcanvas-icon>&#xe900;</button>
+    </div>
+    <div class="mobile-bar__col mobile-bar__col--logo">
+      <a href="/conf/au/2017/">
+        <img src="{{ pathto('_static/dist/images/logo-au-mobile.svg', 1) }}" alt="Write the Docs" class="mobile-bar__logo">
+      </a>
+    </div>
+  </div>
+  </div>
+
+  <div class="menu">
+    <nav class="menu__wrapper">
+      <ul class="menu__list list-unstyled">
+        <li class="menu__list-item menu__list-item--first menu__list-item--active">
+          <a href="{{ pathto('conf/au/2017/index') }}" class="menu__item btn btn-link menu__item--home">
+            &#xe907;
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="{{ pathto('conf/au/2017/news/index') }}" class="menu__item btn btn-link">
+            News
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="{{ pathto('conf/au/2017/tickets') }}" class="menu__item btn btn-link">
+            Tickets
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="{{ pathto('conf/au/2017/sponsor') }}" class="menu__item btn btn-link">
+            Sponsor
+          </a>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="{{ pathto('conf/au/2017/schedule') }}" class="menu__item btn btn-link">
+            Program
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="{{ pathto('conf/au/2017/schedule') }}">Full Schedule</a></li>
+            <li><a href="{{ pathto('conf/au/2017/speakers') }}">Sessions</a></li>
+            <li><a href="{{ pathto('conf/au/2017/boat') }}">Boat Tour</a></li>
+            <li><a href="{{ pathto('conf/au/2017/writing-day') }}">Writing Day</a></li>
+            <li><a href="{{ pathto('conf/au/2017/lightning-talks') }}">Lightning Talks</a></li>
+            <li><a href="{{ pathto('conf/au/2017/unconference') }}">Unconference</a></li>
+          </ul>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="{{ pathto('conf/au/2017/visiting') }}" class="menu__item btn btn-link">
+            Visit
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="{{ pathto('conf/au/2017/venue') }}">Venue Information</a></li>
+            <li><a href="{{ pathto('conf/au/2017/visiting') }}">Visiting Melbourne</a></li>
+          </ul>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="#" class="menu__item btn btn-link">
+            About
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="{{ pathto('conf/au/2017/welcome-wagon') }}">Welcome Wagon</a></li>
+            <li><a href="{{ pathto('conf/au/2017/staff') }}">Meet the Team</a></li>
+            <li><a href="{{ pathto('conf/index') }}">Past Events</a></li>
+            <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>
