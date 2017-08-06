@@ -12,7 +12,7 @@
                 <div class="row">
                   <div class="col-xs-12 col-md-5 text-center">
                     <p class="buy-ticket__p buy-ticket__p--first">
-                      Prague, Czech Republic
+                      Melbourne, Australia
                       <span>|</span>
                       September 10-12, 2017
                     </p>
