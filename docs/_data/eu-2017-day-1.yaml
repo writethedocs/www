@@ -10,6 +10,7 @@
 - Duration: '30'
   Session: Daniele Procida  - The four kinds of documentation, and why you need to
     understand what they are
+  Slug: daniele-procida
   Time: '10:40'
 - Duration: '10'
   Session: Switch Speakers
@@ -17,6 +18,7 @@
 - Duration: '30'
   Session: "Kate Wilcox - Aw Snap! The Docs, They Are A-Changin\u2019 (with apologies\
     \ to Bob Dylan)"
+  Slug: kate-wilcox
   Time: '11:20'
 - Duration: '20'
   Session: Snack break
@@ -24,6 +26,7 @@
 - Duration: '30'
   Session: 'Meike Chabowski - An Alien Looking From the Outside In: Main Takeaways
     After One Year in Documentation'
+  Slug: meike-chabowski
   Time: '12:10'
 - Duration: '10'
   Session: Switch Speakers
@@ -31,6 +34,7 @@
 - Duration: '30'
   Session: "Daniel D. Beck - Deprecate and destroy: documenting your software\u2019\
     s last days"
+  Slug: daniel-d-beck
   Time: '12:50'
 - Duration: '60'
   Session: Lunch
@@ -44,6 +48,7 @@
 - Duration: '30'
   Session: 'Christy Lutz - You have already succeeded: Design critique guidelines
     make feedback easier'
+  Slug: christy-lutz
   Time: '15:00'
 - Duration: '10'
   Session: Switch Speakers
@@ -51,6 +56,7 @@
 - Duration: '30'
   Session: Cory Williamson-Cardneau - Sticks & Stones... Microaggressions & Inclusive
     Language at Work
+  Slug: cory-williamson-cardneau
   Time: '15:40'
 - Duration: '20'
   Session: Snack break
@@ -58,12 +64,14 @@
 - Duration: '30'
   Session: Becky Todd - A content manager's guide to crowdsourcing the docs
   Time: '16:30'
+  Slug: becky-todd
 - Duration: '10'
   Session: Switch Speakers
   Time: '17:00'
 - Duration: '30'
   Session: Ruthie Ben Dor - Even Naming This Talk Is Hard
   Time: '17:10'
+  Slug: ruthie-bendor
 - Duration: '10'
   Session: Group Photo
   Time: '17:40'

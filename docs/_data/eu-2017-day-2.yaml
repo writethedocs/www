@@ -3,24 +3,28 @@
   Time: '9:00'
 - Duration: '30'
   Session: Lauri Apple - Telling a Great Story on GitHub
+  Slug: lauri-apple
   Time: '10:00'
 - Duration: '10'
   Session: Switch Speakers
   Time: '10:30'
 - Duration: '30'
   Session: Chris Ward - Documentation beyond words
+  Slug: chris-ward
   Time: '10:40'
 - Duration: '10'
   Session: Switch Speakers
   Time: '11:10'
 - Duration: '30'
   Session: Lesia Zasadna - Requirements that you didn't know were there
+  Slug: lesia-zasadna
   Time: '11:20'
 - Duration: '20'
   Session: Snack break
   Time: '11:50'
 - Duration: '30'
   Session: Thomas Parisot - Writing a book in 2017
+  Slug: thomas-parisot
   Time: '12:10'
 - Duration: '10'
   Session: Switch Speakers
@@ -28,6 +32,7 @@
 - Duration: '30'
   Session: Garen Torikian - Finally! Trustworthy and Sensible API Documentation with
     GraphQL
+  Slug: lesia-zasadna
   Time: '12:50'
 - Duration: '60'
   Session: Lunch
@@ -40,6 +45,7 @@
   Time: '14:50'
 - Duration: '30'
   Session: Raphael Pierzina - Hi, my name is README!
+  Slug: raphael-pierzina
   Time: '15:00'
 - Duration: '10'
   Session: Switch Speakers
@@ -47,6 +53,7 @@
 - Duration: '30'
   Session: 'Tim Rogers - "You never get a second chance to make a first impression":
     writing great "getting started" documentation'
+  Slug: tim-rogers
   Time: '15:40'
 - Duration: '10'
   Session: Switch Speakers
@@ -54,6 +61,7 @@
 - Duration: '30'
   Session: 'Stuart Culshaw - Tech Writers Without Borders: Making the world a better
     place, one (numbered) step at a time'
+  Slug: stuart-culshaw
   Time: '16:20'
 - Duration: '10'
   Session: Conference end and closing announcements
