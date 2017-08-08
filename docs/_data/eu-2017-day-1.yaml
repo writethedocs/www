@@ -1,6 +1,3 @@
-- Duration: null
-  Session: null
-  Time: null
 - Duration: '60'
   Session: Doors Open, Breakfast Served
   Time: '9:00'
@@ -70,3 +67,6 @@
 - Duration: '10'
   Session: Group Photo
   Time: '17:40'
+- Duration: null
+  Session: Day 1 wraps up
+  Time: '17:50'
