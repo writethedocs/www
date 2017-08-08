@@ -1,38 +1,68 @@
-- Session: Doors Open, Breakfast Served
+- Duration: '60'
+  Session: Doors Open, Breakfast Served
   Time: '9:00'
-- Session: 30 Minute Talk
+- Duration: '30'
+  Session: Lauri Apple - Telling a Great Story on GitHub
+  Slug: lauri-apple
   Time: '10:00'
-- Session: Switch Speakers
+- Duration: '10'
+  Session: Switch Speakers
   Time: '10:30'
-- Session: 30 Minute Talk
+- Duration: '30'
+  Session: Chris Ward - Documentation beyond words
+  Slug: chris-ward
   Time: '10:40'
-- Session: Switch Speakers
+- Duration: '10'
+  Session: Switch Speakers
   Time: '11:10'
-- Session: 30 Minute Talk
+- Duration: '30'
+  Session: Lesia Zasadna - Requirements that you didn't know were there
+  Slug: lesia-zasadna
   Time: '11:20'
-- Session: Snack break
+- Duration: '20'
+  Session: Snack break
   Time: '11:50'
-- Session: 30 Minute Talk
+- Duration: '30'
+  Session: Thomas Parisot - Writing a book in 2017
+  Slug: thomas-parisot
   Time: '12:10'
-- Session: Switch Speakers
+- Duration: '10'
+  Session: Switch Speakers
   Time: '12:40'
-- Session: 30 Minute Talk
+- Duration: '30'
+  Session: Garen Torikian - Finally! Trustworthy and Sensible API Documentation with
+    GraphQL
+  Slug: lesia-zasadna
   Time: '12:50'
-- Session: Lunch
+- Duration: '60'
+  Session: Lunch
   Time: '13:20'
-- Session: Lightning Talks
+- Duration: '30'
+  Session: Lightning Talks
   Time: '14:20'
-- Session: Switch Speakers
+- Duration: '10'
+  Session: Switch Speakers
   Time: '14:50'
-- Session: 30 minute Talk
+- Duration: '30'
+  Session: Raphael Pierzina - Hi, my name is README!
+  Slug: raphael-pierzina
   Time: '15:00'
-- Session: Switch Speakers
+- Duration: '10'
+  Session: Switch Speakers
   Time: '15:30'
-- Session: 30 Minute Talk
+- Duration: '30'
+  Session: 'Tim Rogers - "You never get a second chance to make a first impression":
+    writing great "getting started" documentation'
+  Slug: tim-rogers
   Time: '15:40'
-- Session: Switch Speakers
+- Duration: '10'
+  Session: Switch Speakers
   Time: '16:10'
-- Session: 30 Minute Talk
+- Duration: '30'
+  Session: 'Stuart Culshaw - Tech Writers Without Borders: Making the world a better
+    place, one (numbered) step at a time'
+  Slug: stuart-culshaw
   Time: '16:20'
-- Session: Conference wraps with snacks
+- Duration: '10'
+  Session: Conference end and closing announcements
   Time: '16:50'
