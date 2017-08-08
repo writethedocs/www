@@ -186,7 +186,8 @@
                   </a>
                 </div>
 
-</section>
+
+              </section>
               <!-- Sponsors -->
               <section class="section section--last">
 
