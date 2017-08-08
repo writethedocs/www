@@ -140,6 +140,22 @@
 
                 <div class="row">
                 <div class="col-xs-12 col-md-4">
+                  <a href="news/announcing-schedule/" class="well news__tile">
+                    <h3 class="well__title">
+                      Announcing talk Schedule
+                    </h3>
+                    <p class="well__paragraph">
+                    Our website is now updated with the final schedule for
+                    the talks...
+                    </p>
+                    <div class="well__time">
+                      <span>12:00</span>|<span>August 8, 2017</span>
+                    </div>
+                  </a>
+                </div>
+
+                <div class="row">
+                <div class="col-xs-12 col-md-4">
                   <a href="news/announcing-events-volunteers/" class="well news__tile">
                     <h3 class="well__title">
                       Announcing Events and Call for Volunteers
