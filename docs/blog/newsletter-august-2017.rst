@@ -1,14 +1,14 @@
-##################################
-Write the Docs Newsletter – August
-##################################
+#######################################
+Write the Docs Newsletter – August 2017
+#######################################
 
 Hi folks!
 
-This month's issue is coming at you from the sunny Bohemian countryside. I'm in the Czech Republic this week visiting family, but next month, I – and several hundred of you – will back for Write the Docs Prague 2017! Things are getting very real, in conference-planning land, and you can check out what's on the docket for the main stage in `our newly published talk schedule <http://www.writethedocs.org/conf/eu/2017/news/announcing-schedule/>`_!
+This month's issue is coming at you from the sunny Bohemian countryside. I'm in the Czech Republic this week visiting family, but next month, I – and several hundred of you – will be back for Write the Docs Prague 2017! Things are getting very real, in conference-planning land, and you can check out what's on the docket for the main stage in `our newly published talk schedule <http://www.writethedocs.org/conf/eu/2017/news/announcing-schedule/>`_!
 
 In other news, Slack's been humming away as usual this month, with so many excellent conversations that it's getting harder and harder to choose just a few to cover here. We've also got nine different local meetups happening around the world this month. So even if you can't join us for the conferences, don't miss out on your other opportunities to interact with the community!
 
-Oh, and also, as I mentioned last month, we're looking to expand our little editorial team for the newsletter. Special thanks to Claire Lundeby (@claire.lundeby), who'll be joining the crew this month! We're still looking for one or two more folks who already spend a lot of time on the Write the Docs Slack, and want to help us turn insightful Slack conversations into mini-features. Drop me a message on Slack @kobrien042, if that sounds like you!
+Oh, and also, as I mentioned last month, we're looking to expand our little editorial team for the newsletter. Special thanks to Claire Lundeby (@claire.lundeby), who'll be joining the crew this month! We're still looking for one or two more folks who already hang out on the Write the Docs Slack, and want to help us turn insightful conversations into mini-features. Drop me a message on Slack @kobrien042, if that sounds like you!
 
 In the meantime, let's see what people were talking about this month!
 
@@ -31,9 +31,9 @@ READMEs and doc-driven development
 **********************************
 Poorly written documentation is pervasive among GitHub repos. Past and upcoming WTD conference talks and earlier Slack threads bear witness to our community's recognition of the problem and our efforts to address it. But it continues to be difficult for developers to jump over to the documentarian role, especially after development gets rolling.
 
-One particpant suggested this `README maturity model<https://github.com/LappleApple/feedmereadmes/blob/master/README-maturity-model.md>`_ to help guide documentation efforts. Others mentioned side-stepping the problem altogether with `documentation-driven developement.<http://blog.izs.me/post/161633971373/documentation-driven-development>`_. Even if you've never heard of it, you can probably guess what it means: you write the documentation before you write the code. Writing comments and the README in advance forces you think through what the code should do and helps you see your product from the user's perspective. It's like test-driven development, but with docs!
+One particpant suggested this `README maturity model <https://github.com/LappleApple/feedmereadmes/blob/master/README-maturity-model.md>`_ to help guide documentation efforts. Others mentioned side-stepping the problem altogether with `documentation-driven developement. <http://blog.izs.me/post/161633971373/documentation-driven-development>`_. Even if you've never heard of it, you can probably guess what it means: you write the documentation before you write the code. Writing comments and the README in advance forces you think through what the code should do and helps you see your product from the user's perspective. It's like test-driven development, but with docs!
 
-See `The Art of Documentation and Readme.md<https://pronovix.com/api-docs-london-2017#ben>`_ from API the Docs London for more. Or, if you're heading to `Write the Docs Prague<http://www.writethedocs.org/conf/eu/2017/>`_, check out one of the README-related sessions!
+See `The Art of Documentation and Readme.md <https://pronovix.com/api-docs-london-2017#ben>`_ from API the Docs London for more. Or, if you're heading to `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_, check out one of the README-related sessions!
 
 ****************************************
 Accessible docs, colorblindness edition!
@@ -68,7 +68,7 @@ Upcoming community events
 *************************
 
 **PRAGUE CONFERENCE COUNTDOWN: One Month Left!**
-We're likely to sell out in the next few weeks so `get your tickets ASAP <http://www.writethedocs.org/conf/eu>`_! And if you already have yours, don't forget to go `check out the full talk schedule <http://www.writethedocs.org/conf/eu/2017/news/announcing-schedule/>`_!
+We're likely to sell out in the next few weeks so `get your tickets ASAP <http://www.writethedocs.org/conf/eu/2017/>`_! And if you already have yours, don't forget to go `check out the full talk schedule <http://www.writethedocs.org/conf/eu/2017/news/announcing-schedule/>`_!
 
 **Upcoming Meetups**
 
