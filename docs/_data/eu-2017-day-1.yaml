@@ -32,9 +32,8 @@
   Session: Switch Speakers
   Time: '12:40'
 - Duration: '30'
-  Session: "Daniel D. Beck - Deprecate and destroy: documenting your software\u2019\
-    s last days"
-  Slug: daniel-d-beck
+  Session: 'Tim Rogers - "You never get a second chance to make a   first impression": writing great "getting started" documentation'
+  Slug: tim-rogers
   Time: '12:50'
 - Duration: '60'
   Session: Lunch
