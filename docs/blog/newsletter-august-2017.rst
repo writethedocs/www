@@ -1,3 +1,6 @@
+.. post:: August 9, 2017
+   :tags: newsletter
+
 #######################################
 Write the Docs Newsletter – August 2017
 #######################################
