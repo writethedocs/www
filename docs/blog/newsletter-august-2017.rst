@@ -4,7 +4,7 @@ Write the Docs Newsletter – August
 
 Hi folks!
 
-This month's issue is coming at you from the sunny Bohemian countryside. I'm in the Czech Republic this week visiting family, but next month, I – and several hundred of you – will back for Write the Docs EU 2017! Things are getting very real, in conference-planning land, and you can check out what's on the docket for the main stage in `our newly published talk schedule <http://www.writethedocs.org/conf/eu/2017/news/announcing-schedule/>`_!
+This month's issue is coming at you from the sunny Bohemian countryside. I'm in the Czech Republic this week visiting family, but next month, I – and several hundred of you – will back for Write the Docs Prague 2017! Things are getting very real, in conference-planning land, and you can check out what's on the docket for the main stage in `our newly published talk schedule <http://www.writethedocs.org/conf/eu/2017/news/announcing-schedule/>`_!
 
 In other news, Slack's been humming away as usual this month, with so many excellent conversations that it's getting harder and harder to choose just a few to cover here. We've also got nine different local meetups happening around the world this month. So even if you can't join us for the conferences, don't miss out on your other opportunities to interact with the community!
 
@@ -22,14 +22,14 @@ For anyone currently job-hunting, this story will probably be pretty resonant. T
 * Treat your resume like any other kind of documentation – start by asking who your reader is, and what they need from your resume. Align your content to the themes and priorities present in their job listing/any other company materials you can get your hands on. Try a `keyword density tool <http://tools.seobook.com/general/keyword-density/)>`_ for help identifying those themes.
 * Don't limit your resume to your paying work. Include personal and community projects – stuff you work on in your free time or as a side hustle. Just because you're not getting paid, doesn't mean you're not gaining experience. (XP > GP)
 * Make sure you've got your supporting materials in hand. Craft a tailored cover letter for every job. (No form letters!) Get your LinkedIn profile in shape. Spruce up your portfolio; even if you're just starting out, write up some samples for your favorite tool or process.
-* Apply to the right jobs. Job hunting takes a HUGE amount of effort. Better to invest that time into perfecting a few really exciting applications, than putting minimum effort into dozens of applications you don't really care about.
+* Apply for the right jobs. Job hunting takes a HUGE amount of effort. Better to invest that time into perfecting a few really exciting applications, than putting minimum effort into dozens of applications you don't really care about.
 
-Jobs and careers are a pretty common theme on the WtD Slack, so we've set up a new channel – #career-advice – to better fill that need. Come hit us up with all your job-hunting, or general career advancement questions!
+Jobs and careers are a pretty common theme on the WTD Slack, so we've set up a new channel – #career-advice – to better fill that need. Come hit us up with all your job-hunting, or general career advancement questions!
 
 **********************************
-READMEs and Doc-Driven Development
+READMEs and doc-driven development
 **********************************
-Poorly written documentation is pervasive among GitHub repos. Past and upcoming WtD conference talks and earlier Slack threads bear witness to our community's recognition of the problem and our efforts to address it. But it continues to be difficult for developers to jump over to the documentarian role, especially after development gets rolling.
+Poorly written documentation is pervasive among GitHub repos. Past and upcoming WTD conference talks and earlier Slack threads bear witness to our community's recognition of the problem and our efforts to address it. But it continues to be difficult for developers to jump over to the documentarian role, especially after development gets rolling.
 
 One particpant suggested this `README maturity model<https://github.com/LappleApple/feedmereadmes/blob/master/README-maturity-model.md>`_ to help guide documentation efforts. Others mentioned side-stepping the problem altogether with `documentation-driven developement.<http://blog.izs.me/post/161633971373/documentation-driven-development>`_. Even if you've never heard of it, you can probably guess what it means: you write the documentation before you write the code. Writing comments and the README in advance forces you think through what the code should do and helps you see your product from the user's perspective. It's like test-driven development, but with docs!
 
@@ -49,9 +49,9 @@ For that last point, it can be hard to imagine what colors might look like to th
 ************************
 Making docs maintainable
 ************************
-This month the WtD hivemind tackled one of the holy grail questions: how do we establish a truly maintainable docs system? No surprise that we couldn't come up with a definitive set of practices, but folks contributed a wealth of great practical tips:
+This month the WTD hivemind tackled one of the holy grail questions: how do we establish a truly maintainable docs system? No surprise that we couldn't come up with a definitive set of practices, but folks contributed a wealth of great practical tips:
 * Implement well-structured information architecture
-* Automate as much as possible, especially in areas of rapid change, and make sure that automation scripts are easy to maintain.
+* Automate as much as possible, especially in areas of rapid change, and make sure that automation scripts are easy to maintain
 *Examples: code includes, API reference docs, screenshots*
 * Make it easy to find and update groups of related topics
 * Create and promote a lightweight style guide
@@ -67,7 +67,7 @@ As with all our stories, this conversation will continue to evolve on Slack, so 
 Upcoming community events
 *************************
 
-**EU CONFERENCE COUNTDOWN: One Month Left!**
+**PRAGUE CONFERENCE COUNTDOWN: One Month Left!**
 We're likely to sell out in the next few weeks so `get your tickets ASAP <http://www.writethedocs.org/conf/eu>`_! And if you already have yours, don't forget to go `check out the full talk schedule <http://www.writethedocs.org/conf/eu/2017/news/announcing-schedule/>`_!
 
 **Upcoming Meetups**
@@ -75,7 +75,7 @@ We're likely to sell out in the next few weeks so `get your tickets ASAP <http:/
 August 10 – Denver, CO, USA – `Embracing Change: Staying sane in docs and support <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/241726433/>`_
 August 14 – Austin, TX, USA – `Git the Docs: Learning Git in a safe space <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/240828011/>`_
 August 17 – Montreal, QC, Canada – `Social Meetup <https://www.meetup.com/WriteTheDocsMTL/events/241919925/>`_
-August 21 – Houston, TX, USA – `WtD video: Even naming this talk was hard <https://www.meetup.com/Write-the-Docs-Houston/events/242361975/>`_
+August 21 – Houston, TX, USA – `WTD video: Even naming this talk was hard <https://www.meetup.com/Write-the-Docs-Houston/events/242361975/>`_
 August 23 – Fredericton, NB, Canada – `Documententarian Meetup at Trailway Brewery Co <https://www.meetup.com/Write-The-Docs-YFC-Fredericton/>`_
 August 28 – Boise, ID, USA – `Networking Night! <https://www.meetup.com/Write-the-Docs-Boise/events/242002310/>`_
 August 29 – Brisbane, QLD, Australia – `Content 101 + How Tech Writers Can Help Make Designs Safe <https://www.meetup.com/Write-the-Docs-Australia/events/241104250/>`_
