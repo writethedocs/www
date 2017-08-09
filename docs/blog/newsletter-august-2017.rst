@@ -58,7 +58,7 @@ This month the WTD hivemind tackled one of the holy grail questions: how do we e
 * Stick to an `"Every page is page one" <http://everypageispageone.com/>`_ approach
 * Use templates to make writing new content easier for new and returning contributors
 * Set up doc sprints (onsite or remote) to help focus groups on a predefined set of docs issues
-* Set up continuous integration/continuous deployment on doc builds to promote an agile attitude toward doc contributions, fixes
+* Set up continuous integration/continuous deployment on doc builds to promote an agile attitude toward doc contributions and fixes
 * Make the process for contributing as simple as possible
 
 As with all our stories, this conversation will continue to evolve on Slack, so if you have a favorite tip for or example of a maintainable docs system, definitely hop on Slack and share it!
