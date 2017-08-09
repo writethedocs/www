@@ -55,8 +55,7 @@ Making docs maintainable
 This month the WTD hivemind tackled one of the holy grail questions: how do we establish a truly maintainable docs system? No surprise that we couldn't come up with a definitive set of practices, but folks contributed a wealth of great practical tips:
 
 * Implement well-structured information architecture
-* Automate as much as possible, especially in areas of rapid change, and make sure that automation scripts are easy to maintain
-*Examples: code includes, API reference docs, screenshots*
+* Automate as much as possible, especially in areas of rapid change, and make sure that automation scripts are easy to maintain <br> *Examples: code includes, API reference docs, screenshots*
 * Make it easy to find and update groups of related topics
 * Create and promote a lightweight style guide
 * Stick to an `"Every page is page one" <http://everypageispageone.com/>`_ approach
