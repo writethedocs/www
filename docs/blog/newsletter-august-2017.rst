@@ -22,7 +22,7 @@ What resume advice is the *right* resume advice?
 For anyone currently job-hunting, this story will probably be pretty resonant. The question arose, this month, of how to navigate the virtual *ocean* of resume guidance, tips, and templates out there, and decide which advice is the best advice. Since most of us have been in this position before, there were lots of helpful suggestions:
 
 * There is no 'right way' to write a resume. All of the mechanical and organization rules are dependant on you, your background, the job listing, the target company, etc.
-* Treat your resume like any other kind of documentation – start by asking who your reader is, and what they need from your resume. Align your content to the themes and priorities present in their job listing/any other company materials you can get your hands on. Try a `keyword density tool <http://tools.seobook.com/general/keyword-density/)>`_ for help identifying those themes.
+* Treat your resume like any other kind of documentation – start by asking who your reader is, and what they need from your resume. Align your content to the themes and priorities present in their job listing/any other company materials you can get your hands on. Try a `keyword density tool <http://tools.seobook.com/general/keyword-density/>`_ for help identifying those themes.
 * Don't limit your resume to your paying work. Include personal and community projects – stuff you work on in your free time or as a side hustle. Just because you're not getting paid, doesn't mean you're not gaining experience. (XP > GP)
 * Make sure you've got your supporting materials in hand. Craft a tailored cover letter for every job. (No form letters!) Get your LinkedIn profile in shape. Spruce up your portfolio; even if you're just starting out, write up some samples for your favorite tool or process.
 * Apply for the right jobs. Job hunting takes a HUGE amount of effort. Better to invest that time into perfecting a few really exciting applications, than putting minimum effort into dozens of applications you don't really care about.
@@ -53,6 +53,7 @@ For that last point, it can be hard to imagine what colors might look like to th
 Making docs maintainable
 ************************
 This month the WTD hivemind tackled one of the holy grail questions: how do we establish a truly maintainable docs system? No surprise that we couldn't come up with a definitive set of practices, but folks contributed a wealth of great practical tips:
+
 * Implement well-structured information architecture
 * Automate as much as possible, especially in areas of rapid change, and make sure that automation scripts are easy to maintain
 *Examples: code includes, API reference docs, screenshots*
@@ -71,17 +72,26 @@ Upcoming community events
 *************************
 
 **PRAGUE CONFERENCE COUNTDOWN: One Month Left!**
+
 We're likely to sell out in the next few weeks so `get your tickets ASAP <http://www.writethedocs.org/conf/eu/2017/>`_! And if you already have yours, don't forget to go `check out the full talk schedule <http://www.writethedocs.org/conf/eu/2017/news/announcing-schedule/>`_!
 
 **Upcoming Meetups**
 
 August 10 – Denver, CO, USA – `Embracing Change: Staying sane in docs and support <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/241726433/>`_
+
 August 14 – Austin, TX, USA – `Git the Docs: Learning Git in a safe space <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/240828011/>`_
+
 August 17 – Montreal, QC, Canada – `Social Meetup <https://www.meetup.com/WriteTheDocsMTL/events/241919925/>`_
+
 August 21 – Houston, TX, USA – `WTD video: Even naming this talk was hard <https://www.meetup.com/Write-the-Docs-Houston/events/242361975/>`_
+
 August 23 – Fredericton, NB, Canada – `Documententarian Meetup at Trailway Brewery Co <https://www.meetup.com/Write-The-Docs-YFC-Fredericton/>`_
+
 August 28 – Boise, ID, USA – `Networking Night! <https://www.meetup.com/Write-the-Docs-Boise/events/242002310/>`_
+
 August 29 – Brisbane, QLD, Australia – `Content 101 + How Tech Writers Can Help Make Designs Safe <https://www.meetup.com/Write-the-Docs-Australia/events/241104250/>`_
+
 August 29 – Hamburg, Germany – `Let's talk about translations <https://www.meetup.com/Write-the-Docs-Hamburg/events/241950745/>`_
+
 September 7 – Salt Lake City, UT, USA `Coffee Klatch
 <https://www.meetup.com/Write-the-Docs-SLC/events/242232142/>`_
