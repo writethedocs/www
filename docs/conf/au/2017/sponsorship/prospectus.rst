@@ -1,6 +1,6 @@
 :orphan:
 
-Write the Docs Europe 2017 Sponsorship
+Write the Docs Day Australia 2017 Sponsorship
 ########################################
 
 .. raw:: pdf
@@ -15,8 +15,8 @@ Write the Docs Europe 2017 Sponsorship
 Concept
 =======
 
-Write the Docs (http://www.writethedocs.org/) is a
-**three day conference** focusing on documentation systems, tech writing
+Write the Docs Day Australia (http://www.writethedocs.org/) is a
+**one day mini-conference** focusing on documentation systems, tech writing
 theory, and information delivery.
 
 Writing and maintaining documentation involves a multidisciplinary
@@ -41,7 +41,6 @@ Demographics
 We hold two conferences yearly, one in Portland, USA in May, and one in
 Prague, Europe in September. Attendence is approximately 400 in the
 USA and 300 in Europe, and we expect both conferences to sell out.
-
 Our audience is made up of:
 
 - Technical Writers (40%)
@@ -49,6 +48,8 @@ Our audience is made up of:
 - Support Staff (15%)
 - Managers (12%)
 - Community Contributors, Enthusiasts & Other Folks (11%)
+
+This is the first of it's kind mini-conference to be organised in Australia.
 
 Why Sponsor
 ===========

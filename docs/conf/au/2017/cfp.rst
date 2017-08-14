@@ -3,22 +3,21 @@
 Call for proposals
 ==================
 
-Hello hello, fellow documentarians! It's that time of year again: We’re very
-excited to announce that we are now accepting talk proposals for our next
-European conference, coming up on **September 10-12, 2017, in Prague, Czech
-Republic**.
+G'day, fellow documentarians! It's time: We’re very
+excited to announce that we are now accepting talk proposals for our first ever
+Australian mini-conference, coming up on **November 24, 2017, in Melbourne, Victoria**.
 
 Every year, Write the Docs invites people from all across our community to come
-up on stage to share their insights and experience. Whether you’ve been writing
-documentation for decades or you’ve just started this year, we want to hear from
+up on stage to share their insights and experience at their annual conferences in US and Europe.
+Whether you’ve been writing documentation for decades or you’ve just started this year, we want to hear from
 you! Read on to learn more about the goals of the conference and what we look
 for in talk proposals.
 
 In the meantime, mark your calendars: **The deadline for submitting proposals is
-Midnight CET on May 31st, 2017.** We aim to let you know if your proposal is
-accepted by 15th June.
+Midnight AEST on Sept 15th, 2017.** We aim to let you know if your proposal is
+accepted by 30th September.
 
-Conference goals
+Mini-conference goals
 ----------------
 
 The purpose of Write the Docs is to bring together people who are passionate
@@ -26,7 +25,7 @@ about documentation and give them an opportunity to interact with and learn from
 their peers.
 
 One of the defining characteristics of our community is the broad range of
-professional backgrounds we hail from—and our conference seeks to celebrate
+professional backgrounds we hail from—and our mini-conference seeks to celebrate
 that. Whether your job title is technical writer, programmer, product manager,
 developer evangelist, support advocate, or something else entirely, we want to
 hear from you. Bring us your tips, tricks, experiences, ideas, frustrations,
@@ -68,18 +67,9 @@ Check out our previous abstracts for some ideas:
 Presentation format
 -------------------
 
-Presentations will be scheduled in 30 minute blocks. We won't be doing Q&A after
+Presentations will be scheduled in 20 minute blocks. We won't be doing Q&A after
 the talks, but we ask that speakers be available at the front of the stage
 for a few minutes of the break after their talk to answer questions.
-
-**NEW THIS YEAR**: We're also looking for a few speakers who'd be interested in facilitating an open discussion session,
-rather than giving a formal talk, as part of this year's Unconference.
-
-For the past few years, we've held unconf sessions downstairs from the main hall. To increase folks' awareness of and interest in the unconf,
-we're looking to get a handful of pre-planned anchor sessions (also 30 minutes) to get the ball rolling.
-
-Let us know, in the submission form, whether you'd prefer to give a talk or lead
-an anchor session.
 
 Speaker benefits & logistics
 ----------------------------
@@ -91,15 +81,12 @@ fee. We regret that we are not able to cover the cost of travel or lodging for
 all speakers at this time.
 
 By not covering travel costs for our speakers, we are able to keep ticket prices
-low and to make the conference accessible to the largest number of participants possible.
+low and to make the mini-conference accessible to the largest number of participants possible.
 
 If your proposal is accepted but you are unable to attend due to travel costs, please
 let us know and we will do our best to help make it happen.
 
-*Please note that for unconference sessions we will not be able to waive your attendance fee*.
-We hope to have many good conversations, but can't afford to offer each Unconference session leader a free ticket.
-
-You’ll hear from us with our proposal decisions by **15th June**.
+You’ll hear from us with our proposal decisions by **30th September**.
 
 Questions?
 ----------

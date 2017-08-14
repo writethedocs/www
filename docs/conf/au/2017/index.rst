@@ -14,7 +14,7 @@
                     <p class="buy-ticket__p buy-ticket__p--first">
                       Melbourne, Australia
                       <span>|</span>
-                      September 10-12, 2017
+                      November 24, 2017
                     </p>
                   </div>
                   <div class="col-xs-12 col-md-7 text-xs-center text-md-right">
@@ -42,48 +42,16 @@
                   <div class="schedule-home">
                     <div class="schedule-home__line"></div>
                     <div class="col-xs-12 col-sm-4 text-center">
-                      <div class="schedule-home__tile">
-                        <div class="schedule-home__date">
-                          September 9
-                        </div>
-                        <p class="schedule-home__day">
-                          Saturday
-                        </p>
-                        <p class="schedule-home__desc">
-                          If you're in town early,
-                          join us for the <a href="/conf/eu/2017/boat/">Boat Tour</a>.
-                          Prague features some of the most beautiful architectural and
-                          historical monuments along the river, and water-touring is an
-                          excellent way to sample the highlights.
-                        </p>
-                      </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-4 text-center">
-                      <div class="schedule-home__tile">
-                        <div class="schedule-home__date">
-                          September 10
-                        </div>
-                        <p class="schedule-home__day">
-                          Sunday
-                        </p>
-                        <p class="schedule-home__desc">
-                        Join us for the <a href="/conf/eu/2017/writing-day/">Writing Day</a> and Welcome Reception.
-                        The first official day of the conference is full of chances to interact with other documentarians.
-                        </p>
-                      </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-4 text-center">
                       <div class="schedule-home__tile schedule-home__tile--last">
                         <div class="schedule-home__date">
-                          September 11-12
+                          November 24
                         </div>
                         <p class="schedule-home__day">
-                          Tuesday
+                          Friday
                         </p>
                         <p class="schedule-home__desc">
-                          The main days of the conference.
-                          We will be running our main track in the ballroom,
-                          and the <a href="/conf/eu/2017/unconference/">Unconference</a> in adjoining rooms.
+                          The main day of the mini-conference.
+                          We will be running our main track in the Meeting Room at the Meat Market.
                         </p>
                       </div>
                     </div>
