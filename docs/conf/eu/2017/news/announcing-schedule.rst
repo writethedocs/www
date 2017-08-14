@@ -6,7 +6,7 @@
 Announcing Talks Schedule
 =========================
 
-Our website is now updated with the `final schedule <http://www.writethedocs.org/conf/eu/2017/schedule/>`_ for the talks, so you can start planning your time at the conference. You can also check out the `Sessions <http://www.writethedocs.org/conf/eu/2017/speakers/>`_ page for full descriptions of the talks.
+Our website is now updated with the `final schedule <http://www.writethedocs.org/conf/eu/2017/schedule/>`_ for the talks, so you can start planning your time at the conference. Check out the `Sessions <http://www.writethedocs.org/conf/eu/2017/speakers/>`_ page for full descriptions of the talks.
 
 You can also sign up for unconference sessions during the conference, as well as bring your own Writing Day project or lightning talk. We will be posting the pre-selected unconference sessions on the board at the entrance to the unconference room.
 
