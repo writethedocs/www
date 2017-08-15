@@ -109,3 +109,5 @@ Useful Pages
    conf/na/*/*/*
    conf/eu/*/*
    conf/eu/*/*/*
+   conf/au/*/*
+   conf/au/*/*/*

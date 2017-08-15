@@ -1,3 +1,5 @@
 .. raw:: html
 
-    <p>TBD</p>
+    <div class="row row-sponsors">
+    <p>TDB</p>
+    </div>

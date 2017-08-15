@@ -3,6 +3,7 @@
 
 - :doc:`Write the Docs Portland </conf/na/2017/index>`, May 14-16, **Portland, Oregon**
 - :doc:`Write the Docs Prague </conf/eu/2017/index>`, September 10-12, **Prague, Czech Republic**
+- :doc:`Write the Docs Day Australia </conf/au/2017/index>`, November 24, **Melbourne, Australia**
 
 Look at all of these happy people at our Portland conference in 2016!
 

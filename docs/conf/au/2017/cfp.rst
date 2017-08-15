@@ -18,7 +18,7 @@ Midnight AEST on Sept 15th, 2017.** We aim to let you know if your proposal is
 accepted by 30th September.
 
 Mini-conference goals
-----------------
+----------------------
 
 The purpose of Write the Docs is to bring together people who are passionate
 about documentation and give them an opportunity to interact with and learn from
