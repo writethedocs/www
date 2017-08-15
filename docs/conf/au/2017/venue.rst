@@ -3,7 +3,7 @@
 Venue
 -----
 
-Our venue for the mini-conference is the `Meat Market`_ 2 tram stops from the Melbourne CBD, and walking distance from a number of local attractions`_.
+Our venue for the mini-conference is the Meat Market 2 tram stops from the Melbourne CBD, and walking distance from a number of local attractions.
 
 .. raw:: html
 
@@ -32,7 +32,7 @@ Preferred seating will be provided for attendees who request it. Please contact 
 lighting requirements you may have, and we will do our best to meet them.
 
 Bring your own (BYO) food
-********************
+***************************
 
 Instead of having a lunch at the venue, we will head to the closest cafe's, pub or half a dozen places (including a few that cater to various dietary requirements).
 Melbourne has a great coffee culture and there are at least 2-3 really good cafe's within a 10 min walk that can cater to your caffeine needs.

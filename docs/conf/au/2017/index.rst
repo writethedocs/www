@@ -21,7 +21,7 @@
                     <div class="buy-ticket__2nd-col">
                       <a href="#news" class="btn btn-primary button button--narrow buy-ticket__talk">What's new?</a>
                       <p class="buy-ticket__p">|</p>
-                      <a href="https://ti.to/writethedocs/write-the-docs-eu-2017/" class="btn btn-primary button button--narrow buy-ticket__ticket">Buy a ticket!</a>
+                      <a href="https://ti.to/writethedocs/write-the-docs-au-2017/" class="btn btn-primary button button--narrow buy-ticket__ticket">Buy a ticket!</a>
                     </div>
                   </div>
                 </div>
@@ -34,7 +34,7 @@
                     <div class="section__header subheader">
                       <span class="subheader__yellow"></span>
                       <h2 class="subheader__header">Schedule Overview</h2>
-                      <a href="/conf/eu/2017/schedule/" class="subheader__more">See full schedule</a>
+                      <a href="/conf/au/2017/schedule/" class="subheader__more">See full schedule</a>
                     </div>
                   </div>
                 </div>
@@ -50,8 +50,7 @@
                           Friday
                         </p>
                         <p class="schedule-home__desc">
-                          The main day of the mini-conference.
-                          We will be running our main track in the Meeting Room at the Meat Market.
+                          This is a one day conference held in the Meeting Room at the Meat Market.
                         </p>
                       </div>
                     </div>
@@ -59,8 +58,9 @@
                 </div>
               </section>
 
-              <!--
+
               <!-- Speakers -->
+              <!--
               {% set conf = "eu-2017" %}
               {% set speakers = eu_2017_speakers %}
 
@@ -95,7 +95,7 @@
               -->
 
 
-
+              <!--
               <section class="section" id="news">
                 <div class="row">
                   <div class="col-xs-12">
@@ -155,6 +155,7 @@
                     </div>
                   </a>
                 </div>
+                -->
 
               </section>
               <!-- Sponsors -->
@@ -176,7 +177,7 @@
                   </div>
                 </div>
 
-.. include:: /include/conf/2017-au-sponsors.rst
+.. .. include:: /include/conf/2017-au-sponsors.rst
 
 .. raw:: html
 
@@ -214,7 +215,7 @@
                   </div>
                 </div>
 
-.. include:: /include/conf/2017-au-sponsors-media.rst
+.. .. include:: /include/conf/2017-au-sponsors-media.rst
 
 .. raw:: html
 
