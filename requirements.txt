@@ -6,3 +6,4 @@ sphinxcontrib.datatemplates
 sphinx_autobuild
 PyYAML==3.12
 docutils<0.13.1
+csvkit==1.0.2
