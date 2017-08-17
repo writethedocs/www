@@ -8,6 +8,12 @@
       </div>
 
       <div class="col-sm-offset-3">
+        <a href="https://developer.mozilla.org/en-US/">
+        <img src="/_static/img/sponsors/mozilla-new.png" class="sponsor-image" style="width:300px;padding:40px 0 0 0" />
+        </a>
+      </div>
+
+      <div class="col-sm-offset-3">
         <a href="https://www.redhat.com/">
         <img src="/_static/img/sponsors/redhat.png" class="sponsor-image" style="width:200px;padding:40px 0 0 0" />
         </a>

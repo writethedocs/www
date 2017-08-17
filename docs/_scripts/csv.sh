@@ -17,10 +17,17 @@
 
 # EU 2017
 
+
+# plaindocs commented these out
 #cat ~/Downloads/Write\ the\ Docs\ Prague\ 2017\ Schedules\ -\ Main\ Conference.csv |csvcut -x -c 1,2 | head -n 22 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/eu-2017-day-1.yaml
 #cat ~/Downloads/Write\ the\ Docs\ Prague\ 2017\ Schedules\ -\ Main\ Conference.csv |csvcut -x -c 1,2 | tail -n 20 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/eu-2017-day-2.yaml
+
+# Ericholscher added / edited these 
+cat ~/Downloads/Write\ the\ Docs\ Prague\ 2017\ Schedules\ -\ Main\ Filled.csv | head -n 23 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/eu-2017-day-1.yaml
+cat ~/Downloads/Write\ the\ Docs\ Prague\ 2017\ Schedules\ -\ Main\ Filled.csv | tail -n 20 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/eu-2017-day-2.yaml
 
 # AU 2017
 
 cat ~/Downloads/Write\ the\ Docs\ Day\ Australia\ 2017\ -\ Main\ Conference.csv |csvcut -x -c 1,2 | head -n 7 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/au-2017-AM.yaml
 cat ~/Downloads/Write\ the\ Docs\ Day\ Australia\ 2017\ -\ Main\ Conference.csv |csvcut -x -c 1,2 | tail -n 12 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/au-2017-PM.yaml
+

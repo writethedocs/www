@@ -12,7 +12,7 @@ We're Kendall and Lou, your Welcome Wagon! We're glad you're coming to the 2017 
    <img src="/_static/img/2017/eu/welcome-wagon.jpg" />
 
 
-Feel free to email us or send us a message on Google Hangouts if there's anything we can do to make your Write the Docs experience easier. You can reach us at praguewelcomewagon@gmail.com.
+Feel free to email us or send us a message on Slack or Google Hangouts if there's anything we can do to make your Write the Docs experience easier. You can reach us at @praguewelcomewagon on Slack and praguewelcomewagon@gmail.com on Hangouts.
 
 We've gathered important stuff here that will help you navigate the conference like a pro, make you feel more at home, and help you to manage the constant flow of information.
 
@@ -30,7 +30,7 @@ Welcome Wagon events
 Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new before we join the opening reception.
 
 **Welcome Wagon Tours**
-*Sunday, September 10th at 17:30, and Monday, September 11th at 8:00 starting in the quiet room (downstairs, across from the cloak room) at Auto-Klub*
+*Sunday, September 10th at 17:30, and Monday, September 11th at 9:15 starting in the quiet room (downstairs, across from the cloak room) at Auto-Klub*
 
 Come on a short tour of the venue with a veteran Write the Docs attendee so you'll know where everything is and everything you can take part in.
 
@@ -71,7 +71,7 @@ FAQ
 The conference main stage is in the Auto Klub on the second floor. The unconference
 takes place directly across the foyer in the adjoining room.
 
-If you are joining in the boat tour on Saturday, you'll meet the other hikers
+If you are joining in the boat tour on Saturday, you'll meet the other folks
 at the Prague Boats pier no. 5.
 
 **How should I get around?**
