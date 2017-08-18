@@ -35,7 +35,7 @@ Financial Assistance
 --------------------
 
 If you can't afford these prices and still wish to attend, please email
-us at europe@writethedocs.org. Being a community event that keeps prices low,
+us at australia@writethedocs.org. Being a community event that keeps prices low,
 we can only offer discounted ticket prices, and not travel or hotel assistance.
 
 Lodging and Travel
@@ -44,4 +44,4 @@ Lodging and Travel
 We don't have an official conference hotel, but Melbourne is extremely affordable to
 stay in, and there are plenty of hotels and alternative accommodation places around.
 
-Check out our :doc:`/conf/eu/2017/visiting` page for more information.
+Check out our :doc:`/conf/au/2017/visiting` page for more information.

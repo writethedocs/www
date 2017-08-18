@@ -52,7 +52,7 @@ Main Stage
 Unconference Room
 ~~~~~~~~~~~~~~~~~
 
-:doc:`/conf/eu/2017/unconference` from 13:00-17:00
+:doc:`/conf/eu/2017/unconference` from 14:50-17:40
 
 Monday Night - Social Event
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -81,7 +81,7 @@ Main Stage
 Unconference Room
 ~~~~~~~~~~~~~~~~~
 
-:doc:`/conf/eu/2017/unconference` from 10:00-15:00
+:doc:`/conf/eu/2017/unconference` from 10:00-16:50
 
 Say Goodbye
 -----------

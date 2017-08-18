@@ -35,11 +35,11 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 * **Swag coordinator** - Mikey Ariel
 * **Speaker wrangler** - Samuel Wright
 * **Infrastructure chair** - Samuel Wright
-* **Writing Day coordinator** - TBD
+* **Writing Day coordinator** - Kelly O'Brien
 * **Unconference coordinator** - Paul Adams
 * **Lightning Talk coordinator** - Paul Adams
 * **Communication chair** - Mikey Ariel
-* **Volunteer coordinator** - Erik Romijn
+* **Volunteer coordinator** - Sasha Romijn
 * **Sponsorship lead** - Eric Holscher
 * **Explore Prague coordinator** - TBD
 * **Welcome Wagon coordinators** - Kendall Pakula, Louise Monsour

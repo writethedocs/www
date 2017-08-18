@@ -140,6 +140,22 @@
 
                 <div class="row">
                 <div class="col-xs-12 col-md-4">
+                  <a href="news/announcing-schedule/" class="well news__tile">
+                    <h3 class="well__title">
+                      Announcing talk Schedule
+                    </h3>
+                    <p class="well__paragraph">
+                    Our website is now updated with the final schedule for
+                    the talks...
+                    </p>
+                    <div class="well__time">
+                      <span>12:00</span>|<span>August 8, 2017</span>
+                    </div>
+                  </a>
+                </div>
+
+                <div class="row">
+                <div class="col-xs-12 col-md-4">
                   <a href="news/announcing-events-volunteers/" class="well news__tile">
                     <h3 class="well__title">
                       Announcing Events and Call for Volunteers
@@ -170,21 +186,6 @@
                   </a>
                 </div>
 
-              <div class="row">
-                <div class="col-xs-12 col-md-4">
-                  <a href="news/cfp-reminder/" class="well news__tile">
-                    <h3 class="well__title">
-                      Call for Proposals Reminder
-                    </h3>
-                    <p class="well__paragraph">
-                    The conference is now a little over three months away, and we hope
-                    you’re getting geared up for another unforgettable...
-                    </p>
-                    <div class="well__time">
-                      <span>12:00</span>|<span>May 23, 2017</span>
-                    </div>
-                  </a>
-                </div>
 
               </section>
               <!-- Sponsors -->

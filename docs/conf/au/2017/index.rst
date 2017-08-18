@@ -42,15 +42,45 @@
                   <div class="schedule-home">
                     <div class="schedule-home__line"></div>
                     <div class="col-xs-12 col-sm-4 text-center">
+                      <div class="schedule-home__tile">
+                        <div class="schedule-home__date">
+                          November 24
+                        </div>
+                        <p class="schedule-home__day">
+                          Morning
+                        </p>
+                        <p class="schedule-home__desc">
+                          Join us for a <a href="/conf/au/2017/schedule/#morning">writing sprint</a>, either on an open source project or bring your own!
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 text-center">
+                      <div class="schedule-home__tile">
+                        <div class="schedule-home__date">
+                          November 24
+                        </div>
+                        <p class="schedule-home__day">
+                          Afternoon
+                        </p>
+                        <p class="schedule-home__desc">
+                         The main <a href="/conf/au/2017/schedule/#afternoon">talk track</a>: five short talks about documentation.
+                        </p>
+                      </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 text-center">
                       <div class="schedule-home__tile schedule-home__tile--last">
                         <div class="schedule-home__date">
                           November 24
                         </div>
                         <p class="schedule-home__day">
-                          Friday
+                          Evening
                         </p>
                         <p class="schedule-home__desc">
+<<<<<<< HEAD
                           This is a one day conference held in the Meeting Room at the Meat Market.
+=======
+                          Join other documentarians for a chat about the weather.
+>>>>>>> 6e8ac2a365755be024996410cc53487dd2472bf1
                         </p>
                       </div>
                     </div>
