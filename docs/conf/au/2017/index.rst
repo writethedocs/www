@@ -76,11 +76,7 @@
                           Evening
                         </p>
                         <p class="schedule-home__desc">
-<<<<<<< HEAD
-                          This is a one day conference held in the Meeting Room at the Meat Market.
-=======
                           Join other documentarians for a chat about the weather.
->>>>>>> 6e8ac2a365755be024996410cc53487dd2472bf1
                         </p>
                       </div>
                     </div>
