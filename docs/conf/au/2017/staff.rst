@@ -31,18 +31,13 @@ Primary Roles
 
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
 
-* **Conference chair** - Mikey Ariel
-* **Swag coordinator** - Mikey Ariel
-* **Speaker wrangler** - Samuel Wright
-* **Infrastructure chair** - Samuel Wright
-* **Writing Day coordinator** - TBD
-* **Unconference coordinator** - Paul Adams
-* **Lightning Talk coordinator** - Paul Adams
-* **Communication chair** - Mikey Ariel
-* **Volunteer coordinator** - Erik Romijn
-* **Sponsorship lead** - Eric Holscher
-* **Explore Prague coordinator** - TBD
-* **Welcome Wagon coordinators** - Kendall Pakula, Louise Monsour
+* **Conference chair** - Swapnil Ogale
+* **Swag coordinator** - Swapnil Ogale
+* **Speaker wrangler** - TBD
+* **Infrastructure chair** - TBD
+* **Writing Day coordinator** - Sarah Maddox
+* **Communication chair** - TBD
+* **Volunteer coordinator** - TBC
+* **Sponsorship lead** - TBD
 * **Social media chair** - TBD
-* **Boat tour coordinator** - Mikey Ariel
 * **Emcee** - TBD

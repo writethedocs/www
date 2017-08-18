@@ -7,10 +7,7 @@ Our venue for the mini-conference is the Meat Market 2 tram stops from the Melbo
 
 .. raw:: html
 
-   <iframe src="https://www.google.com.au/maps/place/Meat+Market/@-37.801441,144.9519933,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad65d31959627bb:0x8b61205468637770!8m2!3d-37.801441!4d144.954182" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-The venue will provide a supervised cloak room free of charge so you can store you coats, bags, or
-luggage during the main conference days.
+   <iframe src="https://www.google.com.au/maps/place/Meat+Market/@-37.8014367,144.9519933,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad65d31959627bb:0x8b61205468637770!8m2!3d-37.801441!4d144.954182" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 .. image:: https://c1.staticflickr.com/9/8498/29753955646_dd18376345.jpg
 
@@ -22,7 +19,7 @@ All conference spaces at Meat Market are wheelchair accessible.
 The venue has:
 
 * step-free access to all parts of the conference
-* elevators that are open and unlocked during all conference events
+* private entrance and space for all activities during all conference events
 * accessible, clearly labeled restrooms on the ground floor
 
 Low Vision or Hard of Hearing
@@ -34,7 +31,7 @@ lighting requirements you may have, and we will do our best to meet them.
 Bring your own (BYO) food
 ***************************
 
-Instead of having a lunch at the venue, we will head to the closest cafe's, pub or half a dozen places (including a few that cater to various dietary requirements).
+Instead of having a lunch at the venue, we will head to the closest cafe/s, pub or half a dozen places (including a few that cater to various dietary requirements).
 Melbourne has a great coffee culture and there are at least 2-3 really good cafe's within a 10 min walk that can cater to your caffeine needs.
 
 Restrooms
