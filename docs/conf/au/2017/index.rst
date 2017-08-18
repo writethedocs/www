@@ -19,8 +19,7 @@
                   </div>
                   <div class="col-xs-12 col-md-7 text-xs-center text-md-right">
                     <div class="buy-ticket__2nd-col">
-                      <!-- <a href="#news" class="btn btn-primary button button--narrow buy-ticket__talk">What's new?</a> -->
-                      <a href="{{ pathto('conf/au/2017/cfp') }}" class="join__talk btn btn-primary button">Submit a talk!</a>
+                      <a href="/conf/au/2017/cfp/" class="btn btn-primary button button--narrow buy-ticket__talk">Submit a talk!</a>
                       <p class="buy-ticket__p">|</p>
                       <a href="https://ti.to/writethedocs/write-the-docs-au-2017/" class="btn btn-primary button button--narrow buy-ticket__ticket">Buy a ticket!</a>
                     </div>
