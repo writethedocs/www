@@ -7,9 +7,7 @@ Our venue for the mini-conference is the Meat Market 2 tram stops from the Melbo
 
 .. raw:: html
 
-   <iframe src="https://www.google.com.au/maps/place/Meat+Market/@-37.8014367,144.9519933,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad65d31959627bb:0x8b61205468637770!8m2!3d-37.801441!4d144.954182" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-.. image:: https://c1.staticflickr.com/9/8498/29753955646_dd18376345.jpg
+   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.5134421759217!2d144.95199331531845!3d-37.80144097975461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d31959627bb%3A0x8b61205468637770!2sMeat+Market!5e0!3m2!1sen!2sau!4v1503063128562" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 Accessibility
 ~~~~~~~~~~~~~
