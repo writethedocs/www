@@ -3,7 +3,7 @@
 Call for proposals
 ==================
 
-G'day, fellow documentarians! It's time: We’re very
+G'day, fellow documentarians! It's time. We’re very
 excited to announce that we are now accepting talk proposals for our first ever
 Australian mini-conference, coming up on **November 24, 2017, in Melbourne, Victoria**.
 

@@ -49,7 +49,7 @@ Our audience is made up of:
 - Managers (12%)
 - Community Contributors, Enthusiasts & Other Folks (11%)
 
-This is the first of it's kind mini-conference to be organised in Australia.
+This is the first of it's kind Write the Docs mini-conference to be organised in Australia.
 
 Why Sponsor
 ===========
