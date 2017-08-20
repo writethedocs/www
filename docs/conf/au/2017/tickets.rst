@@ -21,7 +21,7 @@ Independent Tickets
 Purchase this ticket if you are paying for yourself, or if you work at a
 non-profit, a government, or a company with fewer than 10 employees.
 
-* **35 AUD Independent** TBD
+* **40 AUD Independent** TBD
 
 Student or Unemployed
 ---------------------
