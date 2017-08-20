@@ -76,7 +76,7 @@
                           Evening
                         </p>
                         <p class="schedule-home__desc">
-                          Join other documentarians for a chat about the weather.
+                          Join other documentarians for a chat about the weather over dinner. Partners welcome. Details coming soon.
                         </p>
                       </div>
                     </div>
