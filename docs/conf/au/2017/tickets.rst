@@ -15,13 +15,12 @@ Ticket includes:
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
 
-Independent Tickets
+Standard Tickets
 -------------------
 
-Purchase this ticket if you are paying for yourself, work at a
-non-profit or a start-up, for the government, or if your company is paying for your attendance.
+Purchase this ticket unless you qualify for the Student ticket.
 
-* **40 AUD Independent**
+* **40 AUD Standard Ticket**
 
 Student or Unemployed
 ---------------------
