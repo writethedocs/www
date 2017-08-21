@@ -19,7 +19,7 @@ Independent Tickets
 -------------------
 
 Purchase this ticket if you are paying for yourself, work at a
-non-profit, a government, or if your company is paying for your attendance.
+non-profit or a start-up, for the government, or if your company is paying for your attendance.
 
 * **40 AUD Independent**
 
