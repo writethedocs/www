@@ -30,6 +30,11 @@ Swapnil Ogale
 
 .. include:: /include/bios/swapnil.rst
 
+Sarah Maddox
+~~~~~~~~~~~~
+
+.. include:: /include/bios/sarah.rst
+
 Primary Roles
 -------------
 
