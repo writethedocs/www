@@ -97,8 +97,8 @@ let us know.
 Form
 ----
 
-You can also view `our CFP <https://docs.google.com/forms/d/e/1FAIpQLSdphOZ5udg0LtuP-HVyJ2oybynNA_1eB_QRvVWMv45o5l5RZA/viewform>`_ in its own page.
+You can also view `our CFP <https://docs.google.com/forms/d/e/1FAIpQLScUfpk12tVz1WSjdVsEuAeiJhpPtLuWZ8g_Q_H7HZwe4zkzEA/viewform>`_ in its own page.
 
 .. raw:: html
 
-	 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdphOZ5udg0LtuP-HVyJ2oybynNA_1eB_QRvVWMv45o5l5RZA/viewform?embedded=true" width="600" height="800" frameborder="0" marginheight="0"  marginwidth="0">Loading...</iframe>
+	 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScUfpk12tVz1WSjdVsEuAeiJhpPtLuWZ8g_Q_H7HZwe4zkzEA/viewform?embedded=true" width="600" height="800" frameborder="0" marginheight="0"  marginwidth="0">Loading...</iframe>
