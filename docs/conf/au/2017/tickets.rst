@@ -18,10 +18,10 @@ Ticket includes:
 Independent Tickets
 -------------------
 
-Purchase this ticket if you are paying for yourself, or if you work at a
-non-profit, a government, or a company with fewer than 10 employees.
+Purchase this ticket if you are paying for yourself, work at a
+non-profit, a government, or if your company is paying for your attendance.
 
-* **40 AUD Independent** TBD
+* **40 AUD Independent**
 
 Student or Unemployed
 ---------------------
@@ -29,7 +29,7 @@ Student or Unemployed
 Purchase this ticket if you are currently enrolled as a student, or
 don't currently have a source of income.
 
-* **20 AUD Student or Unemployed Tickets** TBD
+* **20 AUD Student or Unemployed Tickets**
 
 Financial Assistance
 --------------------
