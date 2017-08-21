@@ -21,8 +21,7 @@ need to contribute.
 Afternoon
 ----------
 
-This is the main event! Hear from lots of interesting folks about all
-things documentation.
+Hear from lots of interesting folks about all things documentation.
 
 .. datatemplate::
    :source: /_data/au-2017-PM.yaml
