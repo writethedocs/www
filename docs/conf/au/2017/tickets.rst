@@ -6,7 +6,7 @@
 Tickets
 =======
 
-You can buy a ticket on our `ticket website <https://ti.to/writethedocs/write-the-docs-au-2017/>`_.
+You can buy a ticket on our `ticket website <https://ti.to/writethedocs/write-the-docs-day-australia-2017>`_.
 
 Ticket includes:
 
