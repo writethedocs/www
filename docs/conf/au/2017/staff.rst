@@ -25,6 +25,10 @@ Eric Holscher
 
 .. include:: /include/bios/eric.rst
 
+Swapnil Ogale
+~~~~~~~~~~~~~
+
+.. include:: /include/bios/swapnil.rst
 
 Primary Roles
 -------------
