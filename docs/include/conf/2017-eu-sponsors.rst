@@ -36,3 +36,10 @@
         <img src="/_static/img/sponsors/knowledgeowl.png" class="sponsor-image" style="width:100px;padding:40px 0 0 0" />
         </a>
       </div>
+
+      <div class="col-sm-offset-3">
+        <a href="https://pronovix.com/">
+        <img src="/_static/img/sponsors/provonix.png" class="sponsor-image" style="width:75px;padding:40px 0 0 0" />
+        </a>
+      </div>
+    </div>
