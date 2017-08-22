@@ -1,7 +1,9 @@
 - Duration: '60'
   Session: Doors Open, Breakfast Served
   Time: '9:00'
-- Duration: '30'
+- Time: '09:15'
+  Session: Welcome Wagon <a href="/conf/eu/2017/welcome-wagon/#welcome-wagon-events">Check-In</a>
+- Duration: null
   Session: Lauri Apple - Telling a Great Story on GitHub
   Slug: lauri-apple
   Time: '10:00'
