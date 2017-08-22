@@ -8,8 +8,8 @@ Write the Docs Day is more than a conference. Each year we organize a wide
 range of events so that people can come together, collaborate, and learn
 from each other in different ways.
 
-Morning
-----------
+Morning - Writing (Half) Day
+----------------------------
 
 We'll be creating and editing content, so bring along your laptop and any other
 tools you need to write and to connect to the internet via WiFi.
@@ -29,8 +29,8 @@ Preparation for contributing to open source projects:
    :source: /_data/au-2017-AM.yaml
    :template: include/schedule2017.rst
 
-Afternoon
-----------
+Afternoon - Talks
+-----------------
 
 Hear from lots of interesting folks about all things documentation.
 

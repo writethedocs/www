@@ -10,7 +10,7 @@ You can buy a ticket on our `ticket website <https://ti.to/writethedocs/write-th
 
 Ticket includes:
 
-* Entry to all events at the mini-conference
+* Entry to all activities at the event
 * Tea, coffee and snacks
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
@@ -28,7 +28,7 @@ Student or Unemployed
 Purchase this ticket if you are currently enrolled as a student, or
 don't currently have a source of income.
 
-* **20 AUD Student or Unemployed Tickets**
+* **20 AUD Student or Unemployed Ticket**
 
 Financial Assistance
 --------------------
