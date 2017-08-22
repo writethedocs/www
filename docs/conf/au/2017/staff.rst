@@ -43,7 +43,7 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 * **Conference chair** - Swapnil Ogale
 * **Swag coordinator** - Swapnil Ogale
 * **Speaker wrangler** - TBD
-* **Infrastructure chair** - TBD
+* **Infrastructure chair** - Samuel Wright
 * **Writing Day coordinator** - Sarah Maddox
 * **Communication chair** - TBD
 * **Volunteer coordinator** - TBC
