@@ -16,7 +16,7 @@ Concept
 =======
 
 Write the Docs Day Australia (http://www.writethedocs.org/) is a
-**one day mini-conference** focusing on documentation systems, tech writing
+**one-day event** focusing on documentation systems, tech writing
 theory, and information delivery.
 
 Writing and maintaining documentation involves a multidisciplinary
@@ -49,7 +49,7 @@ Our audience is made up of:
 - Managers (12%)
 - Community Contributors, Enthusiasts & Other Folks (11%)
 
-This is the first of it's kind Write the Docs mini-conference to be organised in Australia.
+This is the first of its kind Write the Docs event to be organised in Australia.
 
 Why Sponsor
 ===========

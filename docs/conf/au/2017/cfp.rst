@@ -5,7 +5,7 @@ Call for proposals
 
 G'day, fellow documentarians! It's time. We’re very
 excited to announce that we are now accepting talk proposals for our first ever
-Australian mini-conference, coming up on **November 24, 2017, in Melbourne, Victoria**.
+Australian Write the Docs Day, coming up on **November 24, 2017, in Melbourne, Victoria**.
 
 Every year, Write the Docs invites people from all across our community to come
 up on stage to share their insights and experience at their annual conferences in US and Europe.
@@ -17,15 +17,15 @@ In the meantime, mark your calendars: **The deadline for submitting proposals is
 Midnight AEST on Sept 15th, 2017.** We aim to let you know if your proposal is
 accepted by 30th September.
 
-Mini-conference goals
-----------------------
+Event goals
+-----------
 
 The purpose of Write the Docs is to bring together people who are passionate
 about documentation and give them an opportunity to interact with and learn from
 their peers.
 
 One of the defining characteristics of our community is the broad range of
-professional backgrounds we hail from—and our mini-conference seeks to celebrate
+professional backgrounds we hail from—and our event seeks to celebrate
 that. Whether your job title is technical writer, programmer, product manager,
 developer evangelist, support advocate, or something else entirely, we want to
 hear from you. Bring us your tips, tricks, experiences, ideas, frustrations,
@@ -58,6 +58,7 @@ If you already have an idea for what you'd like to speak about, awesome! Pitch i
 Need some more examples?
 Check out our previous abstracts for some ideas:
 
+* `Prague 2017 <http://www.writethedocs.org/conf/eu/2017/speakers/>`_
 * `Portland 2017 <http://www.writethedocs.org/conf/na/2017/speakers/>`_
 * `Prague 2016 <http://www.writethedocs.org/conf/eu/2016/speakers/>`_
 * `Portland 2016 <http://www.writethedocs.org/conf/na/2016/speakers/>`_
@@ -81,7 +82,7 @@ fee. We regret that we are not able to cover the cost of travel or lodging for
 all speakers at this time.
 
 By not covering travel costs for our speakers, we are able to keep ticket prices
-low and to make the mini-conference accessible to the largest number of participants possible.
+low and to make the event accessible to the largest number of participants possible.
 
 If your proposal is accepted but you are unable to attend due to travel costs, please
 let us know and we will do our best to help make it happen.

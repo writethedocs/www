@@ -3,7 +3,7 @@
 Venue
 -----
 
-Our venue for the mini-conference is the Meat Market, 2 tram stops from the Melbourne CBD, and walking distance from a number of local attractions.
+Our venue for the day is the Meat Market, 2 tram stops from the Melbourne CBD, and walking distance from a number of local attractions.
 
 .. raw:: html
 
