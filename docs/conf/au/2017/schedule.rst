@@ -22,6 +22,7 @@ Preparation for contributing to open source projects:
   not to be fun, don't worry. We'll have people at the Write the Docs Day to
   help everyone get started and learn how to make open source contributions on
   GitHub.
+* Gain a basic understanding of Markdown_, the markup language used on much of GitHub.
 
 
 
@@ -40,3 +41,4 @@ Hear from lots of interesting folks about all things documentation.
 
 .. _GitHub: https://github.com/
 .. _GitHub Hello World tutorial: https://guides.github.com/activities/hello-world/
+.. _Markdown: https://guides.github.com/features/mastering-markdown/
