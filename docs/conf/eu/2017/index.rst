@@ -142,6 +142,23 @@
                 <div class="col-xs-12 col-md-4">
                   <a href="news/announcing-schedule/" class="well news__tile">
                     <h3 class="well__title">
+                      Get Ready for Write the Docs Prague 2017!
+                    </h3>
+                    <p class="well__paragraph">
+                    Our website is up-to-date with the latest details about sessions,
+                    activities, and locations. However, we are also happy to share with
+                    you a quick summary right here...
+                    </p>
+                    <div class="well__time">
+                      <span>12:00</span>|<span>August 28, 2017</span>
+                    </div>
+                  </a>
+                </div>
+
+                <div class="row">
+                <div class="col-xs-12 col-md-4">
+                  <a href="news/announcing-schedule/" class="well news__tile">
+                    <h3 class="well__title">
                       Announcing talk Schedule
                     </h3>
                     <p class="well__paragraph">
@@ -169,23 +186,6 @@
                     </div>
                   </a>
                 </div>
-
-                <div class="row">
-                <div class="col-xs-12 col-md-4">
-                  <a href="news/announcing-presentations-ticket-update/" class="well news__tile">
-                    <h3 class="well__title">
-                      Announcing Presentations and Important Ticket Pricing Update
-                    </h3>
-                    <p class="well__paragraph">
-                     We're excited to share with you the lineup for the 2017 Prague conference.
-                     Needless to say, the selection process...
-                    </p>
-                    <div class="well__time">
-                      <span>12:00</span>|<span>June 26, 2017</span>
-                    </div>
-                  </a>
-                </div>
-
 
               </section>
               <!-- Sponsors -->
