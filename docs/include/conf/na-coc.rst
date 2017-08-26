@@ -9,3 +9,9 @@
 * europe@writethedocs.org
 * +420 603-261-361
 * slack: thatdocslady
+
+**Erik Sasha Romijn**
+
+* wtd@sashark.eu
+* +31 85 303 1055
+* slack: sasha
