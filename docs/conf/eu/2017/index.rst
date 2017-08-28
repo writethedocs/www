@@ -140,7 +140,7 @@
 
                 <div class="row">
                 <div class="col-xs-12 col-md-4">
-                  <a href="news/announcing-schedule/" class="well news__tile">
+                  <a href="news/2week-info/" class="well news__tile">
                     <h3 class="well__title">
                       Get Ready for Write the Docs Prague 2017!
                     </h3>
