@@ -25,7 +25,7 @@ Our website is up-to-date with the latest details about sessions, activities, an
 
 For the full schedule overview including start/end times for all activities, take a look at our `Schedule <http://www.writethedocs.org/conf/eu/2017/schedule/>`_ page.
 
-For practical information about Prague, check out the `Visiting Prague <http://www.writethedocs.org/conf/eu/2017/visiting/>`_
+For practical information about Prague, check out the `Visiting Prague <http://www.writethedocs.org/conf/eu/2017/visiting/>`_ page.
 
 And if you still have questions, perhaps you'll find the answers in our `Welcome Wagon <http://www.writethedocs.org/conf/eu/2017/welcome-wagon/>`_ guide. You're also welcome to reach out to @praguewelcomewagon on Slack or send us an email at europe@writethedocs.org.
 
