@@ -21,7 +21,7 @@ Schedule
 
 .. datatemplate::
    :source: /_data/eu-2017-writing-day.yaml
-   :template: include/schedule.rst
+   :template: include/schedule2017.rst
 
 
 Documenting a new project?
