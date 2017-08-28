@@ -10,6 +10,7 @@ More here as it happens!
 .. toctree::
    :glob:
 
+   2week-info
    announcing-schedule
    announcing-events-volunteers
    announcing-presentations-ticket-update

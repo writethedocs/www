@@ -17,7 +17,7 @@ If you get into town early, join us and experience Prague from the water.
 Sunday, September 10
 --------------------
 
-Writing Day & Reception will be held at **Auto Klub, Opletalova 1337/29, Praha 1**.
+Writing Day & Reception will be held at `Auto Klub, Opletalova 1337/29, Praha 1 <https://goo.gl/maps/dcbYPV5x5DN2>`_.
 
 During the day, we'll hold our :doc:`Writing Day documentation
 sprints </conf/eu/2017/writing-day>`, followed by the conference
