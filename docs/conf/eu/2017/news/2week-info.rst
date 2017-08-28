@@ -13,7 +13,7 @@ Schedule and Activities Summary
 
 Our website is up-to-date with the latest details about sessions, activities, and locations. However, we are also happy to share with you a quick summary right here:
 
-- **Saturday September 9th - Boat Tour of Prague**. We will meet at `Prague Boats, pier no. 5 <https://goo.gl/maps/bqLP3VaytVo>`_ on **Saturday, September 9 at 13:45** to board the boat. We must leave the pier at **14:00** sharp (captain's rules) so unfortunately we cannot wait for late arrivals. All the details are in our `Boat Tour <http://www.writethedocs.org/conf/eu/2017/boat/>`_ page.
+- **Saturday September 9th - Boat Tour of Prague**. We will meet at `Prague Boats, pier no. 5 <https://goo.gl/maps/bqLP3VaytVo>`_ on **Saturday, September 9 at 13:45** to board the boat. We must leave the pier at **14:00** sharp (captain's rules) so unfortunately we cannot wait for late arrivals. All the details are in our `Boat Tour <http://www.writethedocs.org/conf/eu/2017/boat/>`_ page. Remember that this activity requires a separate ticket, more info below!
 
 - **Sunday September 10th - Writing Day and Welcome Reception**. Both the `Writing Day <http://www.writethedocs.org/conf/eu/2017/writing-day/>`_ and the Welcome Reception will be held at the main conference venue, `Auto Klub, Opletalova 1337/29, Praha 1 <https://goo.gl/maps/dcbYPV5x5DN2`_. We will also hold a `Welcome Wagon <http://www.writethedocs.org/conf/eu/2017/welcome-wagon/>`_ orientation during the receiption to help ease your way into the conference.
 
@@ -33,7 +33,7 @@ Badges and Shirts Registration Ends August 31st
 -----------------------------------------------
 
 Even though we still have a few `tickets <http://www.writethedocs.org/conf/eu/2017/tickets>`_ left, we are getting closer to the cut-off time for badges and shirts.
-Please note that if you purchase tickets after **August 31st, 2017**, we will not be able to guarantee a badge or a shirt.
+Please note that if you purchase tickets after **August 31st, 2017**, we will not be able to guarantee a badge with your name on it, or a shirt. 
 
 Boat Tour Registration Ends September 4th
 -----------------------------------------
