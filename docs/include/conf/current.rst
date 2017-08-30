@@ -12,7 +12,7 @@
 2017 Community Conferences
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Think your conference should go here? Email us europe@writethedocs.org.
+Think your conference should go here? Email us conf@writethedocs.org.
 
 Look at all of these happy people at our Portland conference in 2016!
 
