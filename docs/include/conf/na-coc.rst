@@ -15,3 +15,9 @@
 * wtd@sashark.eu
 * +31 85 303 1055
 * slack: sasha
+
+**Samuel Wright**
+
+* samuel@plaindocs.com
+* +49 15146749752
+* slack: plaindocs
