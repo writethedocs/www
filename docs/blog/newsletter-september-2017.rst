@@ -1,3 +1,6 @@
+.. post:: September 6, 2017
+   :tags: newsletter
+
 #####################################
 Write the Docs Newsletter – September
 #####################################
