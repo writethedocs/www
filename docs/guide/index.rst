@@ -36,9 +36,9 @@ Writing Great Documentation
 
    writing/docs-principles
    docs-as-code
+   writing/style-guides
 
 * Structuring your Documentation
-* Style Guides
 
 Documentation Culture at your Company
 -------------------------------------
