@@ -52,11 +52,12 @@ If you're job hunting, you've probably spent some time sprucing up your writing 
 The pitfalls of assembling and submitting a docs portfolio are varied. Content can be out of date or apply to outdated technologies. Depending on where the content was published and who by, it might no longer be available online. And if your work was done for internal audiences, it may well be that sharing it would be a breach of your contract. But even with all that, portfolios are often a mandatory part of the interview process.
 
 But just as the community was able to identify the problems with portfolio submissions, they were also able to brainstorm some solutions:
+
 * Ask your previous employers if they'd be comfortable with you sharing a small snippet of your work.
 * Edit all proprietary names and information out of your content before including it in your portfolio.
 * Consider contributing to an open source project and including those contributions in your portfolio.
 * If you're struggling to find online samples to link to, ask if the organization will accept a file submission instead of an online portfolio.
-* If you're having a hard time finding work that used to be published, use the `Wayback Machine<https://archive.org/web/>`_, or a similar tool.
+* If you're having a hard time finding work that used to be published, use the `Wayback Machine <https://archive.org/web/>`_, or a similar tool.
 
 ***********************************
 Resources for Documentation Metrics
@@ -66,21 +67,21 @@ If you haven't explored any of the topic-specific channels on Slack, you definit
 
 In the last few weeks, folks have shared some valuable resources to help us think about how we track and measure the success of our documentation efforts:
 
-* Looking for a place to start with Google Analytics? One of our members - @wouter – shared a dashboard for measuring user docs engagement in Google Analytics. You can import it into the property for your docs on Google Analytics and start poking around. It's not a finished product, for sure, but if you're looking for a place to start, this would be a good one. `Download the dashboard here.<https://analytics.google.com/analytics/gallery/#posts/search/%3F_.term%3Duser%20documentation%26_.start%3D0%26_.viewId%3Dja0-XZQsSB-GH7K3Hw3BWw/>`_
-* Another member – @docsbydesign – has been sharing a series of blog posts on measuring technical content. Also in-depth, and platform agnostic, they're a great way to get yourself oriented in metrics-land. Here are `part 1<http://docsbydesign.com/2017/08/24/measuring-your-technical-content-part-1/>`_, `part 2<http://docsbydesign.com/2017/08/27/measuring-your-technical-content-part-2/>`_, and `part 3<http://docsbydesign.com/2017/08/29/measuring-your-technical-content-part-3/>`_
-* If you're looking for a deep dive, @tfranko came across  `Improving the User Experience through Practical Data Analytics<https://www.safaribooksonline.com/library/view/improving-the-user/9780128006351/>`_, which looks like an interesting, in-depth read on digging into your user data.
+* Looking for a place to start with Google Analytics? One of our members - @wouter – shared a dashboard for measuring user docs engagement in Google Analytics. You can import it into the property for your docs on Google Analytics and start poking around. It's not a finished product, for sure, but if you're looking for a place to start, this would be a good one. `Download the dashboard here.  <https://analytics.google.com/analytics/gallery/#posts/search/%3F_.term%3Duser%20documentation%26_.start%3D0%26_.viewId%3Dja0-XZQsSB-GH7K3Hw3BWw/>`_
+* Another member – @docsbydesign – has been sharing a series of blog posts on measuring technical content. Also in-depth, and platform agnostic, they're a great way to get yourself oriented in metrics-land. Here are `part 1 <http://docsbydesign.com/2017/08/24/measuring-your-technical-content-part-1/>`_, `part 2 <http://docsbydesign.com/2017/08/27/measuring-your-technical-content-part-2/>`_, and `part 3 <http://docsbydesign.com/2017/08/29/measuring-your-technical-content-part-3/>`_
+* If you're looking for a deep dive, @tfranko came across  `Improving the User Experience through Practical Data Analytics  <https://www.safaribooksonline.com/library/view/improving-the-user/9780128006351/>`_, which looks like an interesting, in-depth read on digging into your user data.
 
 *************************
 Upcoming community events
 *************************
 
 **EU CONFERENCE COUNTDOWN: Just a few days left!**
-We're so excited that the conference is almost here! If you'll be joining us (or even if you just want to conf vicariously), have a look at `our most recent pre-conference update <http://www.writethedocs.org/conf/eu/2017/news/2week-info/>`_!
+We're so excited that the conference is almost here! If you'll be joining us (or even if you just want to conf vicariously), have a look at `our most recent pre-conference update  <http://www.writethedocs.org/conf/eu/2017/news/2week-info/>`_!
 
 **Upcoming Events**
 
-September 10-12 – Prague, Czech Republic – `Write the Docs Conference Prague<http://www.writethedocs.org/conf/eu/2017/>`_
-September 19 – Cambridge, UK – `Prague Conference Share & Tell (Cambridge) <https://www.meetup.com/Write-The-Docs-Cambridge/events/240634962/>`_
-September 19 – London, UK – `Prague Conference Share & Tell (London)<https://www.meetup.com/Write-The-Docs-London/events/243010607/>`_
+September 10-12 – Prague, Czech Republic – `Write the Docs Conference Prague <http://www.writethedocs.org/conf/eu/2017/>`_
+September 19 – Cambridge, UK – `Prague Conference Share & Tell (Cambridge)  <https://www.meetup.com/Write-The-Docs-Cambridge/events/240634962/>`_
+September 19 – London, UK – `Prague Conference Share & Tell (London) <https://www.meetup.com/Write-The-Docs-London/events/243010607/>`_
 
-*Rather a light month for meetups this month, huh? Want to see one in your neighborhood? Reach out to `your local group on meetup.com<https://www.meetup.com/>`_ or `start one of your own<https://www.youtube.com/watch?v=ZwQ8Kd48d0w&>`_!*
+Rather a light month for meetups this month, huh? Want to see one in your neighborhood? Reach out to `your local group on meetup.com <https://www.meetup.com/>`_ or `start one of your own <https://www.youtube.com/watch?v=ZwQ8Kd48d0w&>`_!
