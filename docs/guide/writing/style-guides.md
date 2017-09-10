@@ -39,7 +39,10 @@ If are employed by a for-profit company, there may already be a style guide at u
 It is a good idea to ask your colleagues about this before you consider picking a particular style guide for your project.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> origin/master
 =======
 >>>>>>> origin/master
 A  
@@ -51,6 +54,9 @@ A
 Most of the companies use style guides of their choice and writers are obligated to follow those standards. For large companies style guide ensures  consistent documentation across the globe. It hepls you to focus on content while providing means to create a good structure. 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 =======
 >>>>>>> origin/master
@@ -63,10 +69,14 @@ What kind of company / organisation?
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ### Who are you writing to
 
 ### What are you writing about
+=======
+### Purpose - What do you write? Manuals, APIs
+>>>>>>> origin/master
 =======
 ### Purpose - What do you write? Manuals, APIs
 >>>>>>> origin/master
@@ -92,6 +102,11 @@ https://developers.google.com/style/api-reference-comments
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+## Specific Topics
+
+>>>>>>> origin/master
 =======
 ## Specific Topics
 
@@ -140,6 +155,11 @@ http://help.apple.com/applestyleguide/#/
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+- UI / UX
+
+>>>>>>> origin/master
 =======
 - UI / UX
 
@@ -154,9 +174,19 @@ https://git-scm.com/book/en/v2
     
     
 ### Content Management
+<<<<<<< HEAD
  https://pronovix.com/blog/what-difference-between-api-documentation-and-developer-portal
 https://docs.microsoft.com/en-us/
 https://www.twilio.com/docs/ (***example of good content management)
+
+=======
+https://pronovix.com/blog/what-difference-between-api-documentation-and-developer-portal
+https://docs.microsoft.com/en-us/
+https://www.twilio.com/docs/ (***example of good content management)
+
+- Static Site Generators
+https://www.staticgen.com/ (example https://jekyllrb.com/docs/home/)
+>>>>>>> origin/master
     
 ## Other Resources
 ### Lists
