@@ -18,11 +18,11 @@ There's actual science behind this. Our brains appear to be hardwired to identif
 ## Different styles for different folk
 
 Choosing the right style guide for your project depends on your particular context:
-    - Who you are
-    - Who you are writing for
-    - What you are writing about
+  - Who you are
+  - Who you are writing for
+  - What you are writing about
     
 Good writing takes its audience into consideration and adjusts to the needs and expectations of that audience.
 We have selected a number of style guides resources for a variety of context -- hopefully you'll find something that suits you and your project.
 
-> If you really need to pick a style guide *right now*, we recommend you take a look at the [Google Developer Documentation Style Guide](https://developers.google.com/style/)
+> If you really need to pick a style guide ***right now***, we recommend you take a look at the [Google Developer Documentation Style Guide](https://developers.google.com/style/)
