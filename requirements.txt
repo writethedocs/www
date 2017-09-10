@@ -1,5 +1,4 @@
 Sphinx<1.5
-docutils==0.12
 recommonmark==0.4.0
 ablog==0.8.4
 tox==2.3.1
