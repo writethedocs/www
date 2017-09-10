@@ -42,7 +42,7 @@ People also had some interesting perspectives on why the Stack Overflow (SO) eff
 * SO wasn't seen as the "right" place to go for docs (even if a company's official docs aren't well done)
 * No easy or effective way to address gaps in official docs in the SO environment (which is problem:solution-based)
 
-If you're interested in a lengthier dicsussion about the SO Documentation beta sunsetting and crowdsourced docs in general, check out last month's episode of the `Write The Docs podcast <http://podcast.writethedocs.org/2017/08/22/stack-overflow-failure-open-source-challenges/>`_!
+If you're interested in a lengthier dicsussion about the SO Documentation beta sunsetting and crowdsourced docs in general, check out last month's episode of the `Write the Docs podcast <http://podcast.writethedocs.org/2017/08/22/stack-overflow-failure-open-source-challenges/>`_!
 
 *************************************
 Doc Portfolios: A Perpetual Conundrum
