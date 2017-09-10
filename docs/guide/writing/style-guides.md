@@ -118,9 +118,12 @@ https://git-scm.com/book/en/v2
     
     
 ### Content Management
- https://pronovix.com/blog/what-difference-between-api-documentation-and-developer-portal
+https://pronovix.com/blog/what-difference-between-api-documentation-and-developer-portal
 https://docs.microsoft.com/en-us/
 https://www.twilio.com/docs/ (***example of good content management)
+
+- Static Site Generators
+https://www.staticgen.com/ (example https://jekyllrb.com/docs/home/)
     
 ## Other Resources
 ### Lists
