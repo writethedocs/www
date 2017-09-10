@@ -1,0 +1,59 @@
+{%- extends "layout.html" %}
+
+{% block body %}
+
+<h1>Meetup Videos</h1>
+
+<div class="regions">
+  <div class="meetup-list">
+    <h2>North America</h2>
+    <div class="meetup-container">
+      <article class="meetup">
+        <a href="#">
+          <div class="image image-grid-element" style="background-image: url('{{ pathto('_static/img/videos/meetups/ny.jpg', 1) }}');"></div>
+        </a>
+        <a href="#">
+          <p>New York City, NY, USA</p>
+        </a>
+      </article>
+      <article class="meetup">
+        <a href="#">
+          <div class="image image-grid-element" style="background-image: url('{{ pathto('_static/img/videos/meetups/philly.jpg', 1) }}');"></div>
+        </a>
+        <a href="#">
+          <p>Philadelphia, PA, USA</p>
+        </a>
+      </article>
+      <article class="meetup">
+        <a href="#">
+          <div class="image image-grid-element" style="background-image: url('{{ pathto('_static/img/videos/meetups/portland.jpg', 1) }}');"></div>
+        </a>
+        <a href="#">
+          <p>Portland, OR, USA</p>
+        </a>
+      </article>
+    </div>
+  </div>
+  <div class="meetup-list">
+    <h2>Europe</h2>
+    <div class="meetup-container">
+      <article class="meetup">
+        <a href="#">
+          <div class="image image-grid-element" style="background-image: url('{{ pathto('_static/img/videos/meetups/berlin.jpg', 1) }}');"></div>
+        </a>
+        <a href="#">
+          <p>Berlin, DE</p>
+        </a>
+      </article>
+      <article class="meetup">
+        <a href="#">
+          <div class="image image-grid-element" style="background-image: url('{{ pathto('_static/img/videos/meetups/london.jpg', 1) }}');"></div>
+        </a>
+        <a href="#">
+          <p>London, UK</p>
+        </a>
+      </article>
+    </div>
+  </div>
+</div>
+{% endblock %}
