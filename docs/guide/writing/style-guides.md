@@ -7,14 +7,14 @@ If you happen to have a background in academia or journalism, you will probably 
 ### Technical Document
 Style guides help you write a variety of content, such as documenting the methods of an API, or presenting a overview of complex technical concepts, or focusing on how to write particular content like user manuals, release notes, or tutorials.
 
-Style guides often focus on the reader, helping you communicate to developers, product managers, the general public, and so forth. Others focus on the language itself (tone, style, grammar). Others provide best practices on how to manage your content, version control, or publication and delivery strategies.
+Style guides often focus on the reader, helping you communicate to developers, product managers, the general public, and others. They can also focus on the language itself (tone, style, grammar). Others provide best practices on how to manage your content, version control, or publication and delivery strategies.
 
 ## Why do I need a style guide?
 A practical reason to use a style guide is that they help you write content. Human languages are extremely flexible, and there are many ways in which a particular message can be communicated. By following a style guide you limit the variation, making it easier for you to focus on getting your message across. This makes style guides extremely useful for people joining projects.
 
-Style guides also increase consistency in your content. There are good reasons why you want to keep a consistent tone, voice and style in your documentation. Marketing-oriented folks understand the importance of voice and tone in building a brand identity, but consistency also has a big impact on how effectively you communicate -- that is, on how well you manage to transfer a particular information to your audience.
+Style guides also increase consistency in your content. There are good reasons why you want to keep a consistent tone, voice and style in your documentation. Marketing-oriented folks understand the importance of voice and tone in building a brand identity, a strategy we can extend into technical writing. Consistency also has a big impact on how effectively you communicate -- that is, on how well you manage to transfer a particular information to your audience.
 
-There's an actual science behind this. Our brains appear to be hardwired to identify differences -- anything that stands out from its context will catch our attention. A lot of variation will drain our cognitive resources, making it more difficult for us to assimilate information. The degree to which cognitive resources are drained varies between people, but in general it is a good idea to minimize the [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) of your communications.
+There's actually a science behind this. Our brains appear to be hardwired to identify differences -- anything that stands out from its context will catch our attention. A lot of variation will drain our cognitive resources, making it more difficult for us to assimilate information. The degree to which cognitive resources are drained varies between people, but in general it is a good idea to minimize the [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) of your communications.
 
 ## Different styles for different folk
 
@@ -28,15 +28,12 @@ We have selected a number of style guides resources for a variety of context -- 
 
 > If you really need to pick a style guide ***right now***, we recommend you take a look at the [Google Developer Documentation Style Guide](https://developers.google.com/style/)
 
-
 ### Other great resources
 https://doc.opensuse.org/products/opensuse/Styleguide/opensuse_documentation_styleguide_sd/
 https://alistapart.com/about/style-guide
 http://www.techprose.com/assets/techwriting_guidelines.pdf
 https://ptgmedia.pearsoncmg.com/images/9780735648715/samplepages/9780735648715.pdf
 https://www.redbooks.ibm.com/Redbooks.nsf/ibmpressisbn/9780132101301?Open
-
-
 
 ### Who are you
 
@@ -56,10 +53,11 @@ It is a good idea to ask your colleagues about this before you consider picking 
 Many companies use style guides of their own choice and writers are obligated to follow those standards. For large companies a style guide ensures consistent documentation across the globe. It helps you to focus on content while providing the means to create a good structure. 
 
 What kind of company / organisation?
-- big companies
-- startups
-- web companies
-- You are a part of a community
+- Laerge companies
+- Startups
+- Web-based companies
+- Software companies
+- Communities
 
 ### Purpose - What do you write? Manuals, APIs
 
@@ -73,6 +71,8 @@ Technical documentation takes many forms, each one targeting a certain need. Her
 
 - Code Snippets
 https://developers.google.com/style/code-in-text
+http://guides.rubyonrails.org/api_documentation_guidelines.html
+https://bocoup.com/blog/documenting-your-api
 
 - Release Notes
 
@@ -111,7 +111,6 @@ https://ditastyle.com
 
 - CMS
 
-
 ###  Formatting, Content Management, Design Gui
 
 - Markdown / reStructuredText, etc.
@@ -137,10 +136,10 @@ https://www.staticgen.com/ (example https://jekyllrb.com/docs/home/)
 ## Other Resources
 ### Lists
 http://www.ihearttechnicalwriting.com/style-guide-technical-writing/
+https://github.com/PharkMillups/beautiful-docs
 
 ### Discussions / Blogs
 https://www.redbooks.ibm.com/Redbooks.nsf/ibmpressisbn/9780132101301?Open
-
 
 ### Physical resources
 http://everypageispageone.com
