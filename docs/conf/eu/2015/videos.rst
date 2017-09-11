@@ -1,11 +1,11 @@
 :template: 2017/conference-videos-archive.html
 
-Write the Docs 2017 NA Videos
+Write the Docs 2015 EU Videos
 =============================
 
 {% set output %}
 {% set path_to_root = "../../../.." %}
-{% set talks = conferences[2017]['na']['speakers'] %}
+{% set talks = conferences[2015]['eu']['speakers'] %}
 {% include conf_py_root + "/_templates/video-listing.html" %}
 {% endset %}
 

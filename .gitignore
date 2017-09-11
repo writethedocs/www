@@ -4,4 +4,11 @@
 _build
 .env
 .tox
-venv
+venv*
+/docs/conf/eu/2015/videos/
+/docs/conf/eu/2016/videos/
+/docs/conf/eu/2017/videos/
+/docs/conf/na/2015/videos/
+/docs/conf/na/2016/videos/
+/docs/conf/na/2017/videos/
+/docs/videos/

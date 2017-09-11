@@ -1,0 +1,43 @@
+<div class="talk">
+  {% if talk.youtubeId %}
+  <div class="embed-container">
+    <iframe src="https://www.youtube.com/embed/{{ talk.youtubeId }}" frameborder="0" allowfullscreen></iframe>
+  </div>
+  {% endif %}
+
+
+  <h2>Description</h2>
+
+  {{ talk.abstract|safe }}
+
+  <ul class="video-info">
+    <li>Conference <a href="../../../../../videos/by-series/{{ talk.series_slug }}">{{ talk.series }}</a></li>
+    <li>Year <a href="../../../../../videos/by-year/{{ talk.year }}">{{ talk.year }}</a></li>
+  </ul>
+
+  <h2>About the speaker</h2>
+
+  {% for speaker in talk.speakers %}
+
+  <section class="speaker-section">
+    <div class="speaker-sidebar">
+      <img class="speaker-pic" src="/_static/img/speakers/eric-holsher.jpg" alt="">
+      <ul class="social-media flex-center">
+        {% if speaker.twitter %}
+        <li><a href="https://twitter.com/{{ speaker.twitter }}" rel="external"><i class="fa fa-twitter social-media-icon" aria-hidden="true"></i></a></li>
+        {% endif %}
+        {% if speaker.website %}
+        <li><a href="{{ speaker.website }}" rel="external"><i class="fa fa-globe social-media-icon" aria-hidden="true"></i></a></li>
+        {% endif %}
+      </ul>
+    </div>
+    <div class="speaker-info">
+      <h3 class="speaker-name">{{ speaker.name }}</h3>
+      {% if speaker.details %}
+      <div class="speaker-details">{{ speaker.details|safe }}</div>
+      {% endif %}
+    </div>
+  </section>
+
+  {% endfor %}
+</div>
