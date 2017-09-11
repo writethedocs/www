@@ -47,25 +47,25 @@ If you belong to an open-source community or NGO, you can consider the following
 
 Technical documentation takes many forms, each one targeting a certain need. Here, we can think of examples like tutorials, API documentation, and user manuals. So while many style guides adequately cover the main concerns of all technical documentation, sometimes a more specialized guide is needed.
 
-- User Guide / Manuals
+#### User Guide / Manuals
 
-- Tutorials / How-To / FAQ
+#### Tutorials / How-To / FAQ
 
-- Concepts, Overview
+#### Concepts, Overview
 
-- Code Snippets
+#### Code Snippets
 
--- [google snippets](https://developers.google.com/style/code-in-text)
--- [Ruby / other languages](http://guides.rubyonrails.org/api_documentation_guidelines.html)
--- [Al language snippets](https://bocoup.com/blog/documenting-your-api)
+- [google snippets](https://developers.google.com/style/code-in-text)
+- [Ruby / other languages](http://guides.rubyonrails.org/api_documentation_guidelines.html)
+- [Al language snippets](https://bocoup.com/blog/documenting-your-api)
 
-- Release Notes
+#### Release Notes
 
-- API documentation
+#### API documentation
 
-https://developers.google.com/style/api-reference-comments
+- https://developers.google.com/style/api-reference-comments
 
-### Writing Style
+## Writing Style
 The style guides below focus on the actual writing craft itself. They consider how to make technical content readable, clear, succinct, and engaging. 
 
 - [The Sense of Style](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century)
@@ -73,18 +73,19 @@ The style guides below focus on the actual writing craft itself. They consider h
 - [Voice and Tone](https://styleguide.mailchimp.com/)
 - [Writing Style](https://developers.google.com/style/)
 
+## Other resources
 If you don't think that any of these resources meet your needs, maybe you should consider creating your [own style guide document](http://www.writethedocs.org/style-guide/). 
 
 Rather than reinvent the wheel, here are some resources curated by [Ivan Walsh](http://www.ihearttechnicalwriting.com/style-guide-technical-writing/) (Kudos!):
 
-[Brain Traffic — Web Content style guides that Don’t Suck](http://blog.braintraffic.com/2009/02/web-content-style-guides-that-dont-suck/)
-[Creative Blog — Create a website style guide](http://www.creativebloq.com/design/create-website-style-guide-6123030)
-[Gather Content — Developing a Content style guide](https://blog.gathercontent.com/tone-of-voice-guide)
-[HubSpot — How to Create a Writing style guide Built for the Web](http://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx)
-[Meet Content — Editorial Style for the Web](http://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
-[Pebble Road — Creating and maintaining a web style guide](http://www.pebbleroad.com/articles/Creating-Maintaining-a-Web-Style-Guide)
-[Pressly — 5 style guides for better content](http://blog.pressly.com/2013/09/24/5-style-guides-craft-content/)
-[Stanford — Creating a web style guide](https://swsblog.stanford.edu/blog/creating-web-style-guide-cardinal-work)
-[Techwhirl – Developing a Style Guide for Technical Publications](http://techwhirl.com/developing-a-departmental-style-guide/)
-[UCR — Writing for the Web, Content Guidelines](http://cms.ucr.edu/writing_web_content.html)
-[Unbound — 7 things to put into a web style guide](http://unboundmedia.com/going-digital-5-key-things-to-put-into-a-style-guide-for-web-content)
+- [Brain Traffic — Web Content style guides that Don’t Suck](http://blog.braintraffic.com/2009/02/web-content-style-guides-that-dont-suck/)
+- [Creative Blog — Create a website style guide](http://www.creativebloq.com/design/create-website-style-guide-6123030)
+- [Gather Content — Developing a Content style guide](https://blog.gathercontent.com/tone-of-voice-guide)
+- [HubSpot — How to Create a Writing style guide Built for the Web](http://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx)
+- [Meet Content — Editorial Style for the Web](http://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
+- [Pebble Road — Creating and maintaining a web style guide](http://www.pebbleroad.com/articles/Creating-Maintaining-a-Web-Style-Guide)
+- [Pressly — 5 style guides for better content](http://blog.pressly.com/2013/09/24/5-style-guides-craft-content/)
+- [Stanford — Creating a web style guide](https://swsblog.stanford.edu/blog/creating-web-style-guide-cardinal-work)
+- [Techwhirl – Developing a Style Guide for Technical Publications](http://techwhirl.com/developing-a-departmental-style-guide/)
+- [UCR — Writing for the Web, Content Guidelines](http://cms.ucr.edu/writing_web_content.html)
+- [Unbound — 7 things to put into a web style guide](http://unboundmedia.com/going-digital-5-key-things-to-put-into-a-style-guide-for-web-content)
