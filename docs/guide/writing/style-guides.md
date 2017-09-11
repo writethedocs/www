@@ -73,7 +73,7 @@ The style guides below focus on the actual writing craft itself. They consider h
 - [Voice and Tone](https://styleguide.mailchimp.com/)
 - [Writing Style](https://developers.google.com/style/)
 
-If you think that none of these resources met your needs, maybe you should consider creating your [own style guide document](http://www.writethedocs.org/style-guide/). 
+If you don't think that any of these resources meet your needs, maybe you should consider creating your [own style guide document](http://www.writethedocs.org/style-guide/). 
 
 Rather than reinvent the wheel, here are some resources curated by [Ivan Walsh](http://www.ihearttechnicalwriting.com/style-guide-technical-writing/) (Kudos!):
 
