@@ -55,9 +55,9 @@ Technical documentation takes many forms, each one targeting a certain need. Her
 
 - Code Snippets
 
-https://developers.google.com/style/code-in-text
-http://guides.rubyonrails.org/api_documentation_guidelines.html
-https://bocoup.com/blog/documenting-your-api
+-- [google snippets](https://developers.google.com/style/code-in-text)
+-- [Ruby / other languages](http://guides.rubyonrails.org/api_documentation_guidelines.html)
+-- [Al language snippets](https://bocoup.com/blog/documenting-your-api)
 
 - Release Notes
 
