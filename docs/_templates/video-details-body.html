@@ -1,3 +1,6 @@
+<style type="text/css">
+@import url('http://fontawesome.io/assets/font-awesome/css/font-awesome.css');
+</style>
 <div class="talk">
   {% if talk.youtubeId %}
   <div class="embed-container">
@@ -21,7 +24,11 @@
 
   <section class="speaker-section">
     <div class="speaker-sidebar">
-      <img class="speaker-pic" src="/_static/img/speakers/eric-holsher.jpg" alt="">
+      {% if speaker.picture -%}
+      <img class="speaker-pic" src="../../../../../_static/img/speakers/{{ speaker.picture }}" alt="">
+      {% elif speaker.image %}
+      <img class="speaker-pic" src="../../../../..{{ speaker.image }}" alt="">
+      {%- endif %}
       <ul class="social-media flex-center">
         {% if speaker.twitter %}
         <li><a href="https://twitter.com/{{ speaker.twitter }}" rel="external"><i class="fa fa-twitter social-media-icon" aria-hidden="true"></i></a></li>

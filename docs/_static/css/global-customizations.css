@@ -104,8 +104,16 @@ ul.video-info li {
   list-style-type: none;
 }
 
-ul.social-media li, ul.video-info li {
+ul.video-info li {
     padding-right: 16px;
+}
+
+ul.social-media {
+    padding: 0;
+}
+
+ul.social-media li {
+    padding: 0 8px;
 }
 
 ul.video-info {

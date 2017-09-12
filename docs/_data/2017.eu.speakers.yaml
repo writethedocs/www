@@ -20,12 +20,14 @@
     name: Ruthie BenDor
     slug: ruthie-bendor
     twitter: unruthless
+    picture: ruthie-bendor.png
 - speakers:
   - details: ''
     name: Tim Rogers
     twitter: timrogers
     website: https://timrogers.co.uk
     slug: tim-rogers
+    picture: tim-rogers.jpg
   abstract: |-
     <p>As the old saying goes, “you never get a second chance to make a first impression”. When you first meet someone new (not least at a conference for documentarians!), those first few moments set the tone. In exactly the same way, the experience your user has when they first “meet” your product and get to grips with it will set the tone for your entire relationship with them.</p>
     <p>As documentarians, we so often focus on building detailed and exhaustive “reference” documentation, but in doing that, we forget to provide the right kind of “getting started” experience for a user brand new to our product. </p>
@@ -46,6 +48,7 @@
     twitter: gjtorikian
     website: ''
     slug: garen-torikian
+    picture: garen-torikian.png
   abstract: "<p>GitHub is migrating its public API system from REST to GraphQL. \nIn
     this talk, I'd like to go over my personal experiences writing API documentation
     for ten years, and why GraphQL's \"everything needs documentation\" approach is
@@ -59,6 +62,7 @@
     twitter: "lauritaapplez"
     website: https://github.com/LappleApple/feedmereadmes
     slug: lauri-apple
+    picture: lauri-apple.jpg
   abstract: |-
     <p>As a former journalist, I tend to think in terms of storytelling. As an open source evangelist, I invite you to do the same. What you share on GitHub tells a story about you, your development practices, and your openness to others in the open source community. If you're motivated to gain users, contributors, and positive feedback about your projects, then building a compelling, coherent narrative is essential. </p>
     <p>In this presentation, I'll share insights gained from curating Zalando's GitHub repository so we can tell a better story. I'll describe how we've used GitHub and other tools to create guidelines and processes that bring sanity to our storytelling. And I'll talk about how focusing on higher-quality docs has helped us to instill a stronger product mindset in our development teams. Writing a README, for example, offers an opportunity to tell the world why a project exists, how it works (and why), what makes it unique, and how it might evolve over time. I'll discuss how this process not only empowers developers, but also those of us who are technical writers and storytellers—offering several real-life examples to (hopefully) inspire you.</p>
@@ -70,6 +74,7 @@
     twitter: EvilDMP
     website: ''
     slug: daniele-procida
+    picture: daniele-procida.jpg
   abstract: |-
     <p>Nearly everyone agrees that good documentation is important to the success of software projects, and yet very few projects actually have good documentation. Even successful projects often have barely adequate documentation.</p>
     <p>Often, it’s not for want of effort - the project’s developers have worked hard on it - nor for lack of documentation - the authors have produced a lot of it.</p>
@@ -92,6 +97,7 @@
     twitter: "cory_will"
     website: http://cory.williamson-cardneau.com/
     slug: cory-williamson-cardneau
+    picture: cory-williamson-cardneau.png
   abstract: |-
     <p>You've heard about diversity problems in tech, right? We know the problem exists at every point in the process: education, internship opportunities, hiring. We don't talk much about what happens to the people we <em>do</em> work with. </p>
     <p>As documentarians, we spend a lot of time thinking about the best words to use for our products, tutorials, manuals. We know that words matter. "Microaggressions" are the small indignities that people of color, non-cis-gendered folks, women, and others experience on a daily basis. Microaggressions at work tell us, over and over, that we don't really belong in that workplace. So let's talk about the words we use with our coworkers. Let's talk about how we can all make diversity a daily practice at work, not just a hiring problem.</p>
@@ -102,6 +108,7 @@
     twitter: ''
     website: ''
     slug: kathleen-de-roo
+    picture: kathleen-de-roo.jpg
   abstract: "<p>How can you easily retrieve your (google) docs? How can you keep the whole picture in mind?</p>
     <p>The first step is to give docs consistent names, but we also need to check our database regularly, and decide what to keep or destroy. What should we base those decisions on?
     In this talk I’ll give an overview of how you can efficiently handle your docs through the lifecycle model (planning - creating - keeping/destroying) used by archivists/records managers. What is important to keep in mind? How can you organise your own database or that of a company? As a conclusion, I will help you to create a \"manage the docs\" checklist.</p>"
@@ -112,6 +119,7 @@
     twitter: "reginazabo"
     website: https://www.accessnow.org/help
     slug: floriana-pagano
+    picture: floriana-pagano.jpg
   abstract: |-
     <p>Free software projects, community-oriented online services and grassroots technological organizations often rely on volunteer-based documentation, both as regards writing end-user guides and localization. This can produce inconsistencies in style and approaches and, in the end, compromise the usability of the tools or services described in the documentation. There are solutions, like publishing guidelines, enabling volunteer contributions only through git pull requests, or hiring coordinators and reviewers.</p>
     <p>During this discussion, we will exchange reflections and tips on the best practices for volunteer-based documentation, so as to start a conversation on how to improve this process in free software projects and in efforts that rely on limited funds but on a strong community of eager volunteers.</p>
@@ -124,6 +132,7 @@
     twitter: ''
     website: http://gallery.yulefrog.com/
     slug: kate-wilcox
+    picture: kate-wilcox.jpg
   abstract: "<p>This presentation explores the evolution of language in technical
     documentation. </p>\n<p>The reign of the long-form narrative in tech docs is long
     gone. Nobody wants to read a 600 page user manual cover to cover before using
@@ -162,6 +171,7 @@
     twitter: oncletom
     website: https://oncletom.io/
     slug: thomas-parisot
+    picture: thomas-parisot.jpg
   abstract: |-
     <p>The usual way of writing a technical book is to open the Word or LibreOffice application, to write some content, to make a backup, to send it by email to the publisher and to deal with the feedbacks. And repeat.</p>
     <p>However in 2017 we can do differently by using open formats like Asciidoc, by using version control to propagate changes, by using collaborative platforms like GitHub or GitLab to collate feedbacks in any form as well as transforming text and code into readable and interactive artefacts.</p>
@@ -174,6 +184,7 @@
     twitter: ''
     website: ''
     slug: lesia-zasadna
+    picture: lesia-zasadna.jpg
   abstract: "<p>Any doc - every doc - that you deliver, it's only as useful as the requirements it satisfies. Typical requirements revolve around target audience, method of delivery, technical     limitations. But after the doc is done, then come unexpected expectations.</p>
     <p>Suddenly, your docs should not only make users happy, but also help your stakeholders achieve their aims - move up a career ladder, impress the boss, get a bigger paycheck.</p>
     <p>The success of your docs depends on things you are never told. This talk is about reading your stakeholders and deducing the ultimate requirements.</p>"
@@ -184,6 +195,7 @@
     twitter: "chrischinch"
     website: gregariousmammal.com
     slug: chris-ward
+    picture: chris-ward.png
   abstract: |-
     <p>In this presentation I will explore other ways to communicate concepts beyond words to show that documentation needn't just be about technical writing.</p>
     <p>In the first part of the presentation I will briefly cover theories and principles behind forms of communication and what documentarians can learn from them. Topics such as:</p>
@@ -204,6 +216,7 @@
     twitter: "MChabowski"
     website: ''
     slug: meike-chabowski
+    picture: meike-chabowski.png
   abstract: |-
     <p>For 22+ years, I am working in IT – most of this time in the “business-related” part of the game. Roughly a year ago, I decided to change something. Well – still working in IT, and still working in the same company …  But I moved from a Product Marketing role (which I hold for about 17 years) to R&amp;D, because the documentation team “made me an offer I couldn’t refuse”. </p>
     <p>Of course I interacted with many of our engineers before, and of course I also knew most of the documentation team members before. But in retrospective, I can say that I somehow lived on “another planet” before, and that my first year as documentarian in an open source software company was definitely deeply eye-opening for me. </p>
@@ -215,6 +228,7 @@
     twitter: ddbeck
     website: https://ddbeck.com
     slug: daniel-d-beck
+    picture: daniel-d-beck.jpg
   abstract: |-
     <p>It could happen to you: your project is canceled, your team is “reorganized”, or your company is closing its doors. Some or all of your software, service, or API may not be long for this world. What will you say to the people using your software? In this talk, you’ll learn how to avoid a communications disaster when it’s time to break bad news to your users.</p>
     <p>Whether you’re deprecating significant features or shutting down entirely, you still have a chance to make life better—or at least a little less worse—for the people who have come to rely on your work. In this talk, you’ll learn how to:</p>
@@ -231,6 +245,7 @@
     twitter: "ouebguy"
     website: ''
     slug: stuart-culshaw
+    picture: stuart-culshaw.jpg
   abstract: |-
     <p>Created in 2016, Tech Writers Without Borders aims to connect technical communicators with nonprofits seeking help with their documentation and training materials.</p>
     <p>Using examples from our work with iNERDE, a social enterprise seeking to empower West African youth with Science, Technology, Engineering and Math education, I will describe the many ways in which technical communicators can make a real difference to the operational effectiveness of nonprofits and the lives of those they serve.</p>
@@ -243,6 +258,7 @@
     twitter: "edstenson"
     website: ''
     slug: ed-stenson
+    picture: ed-stenson.jpg
   abstract: |-
     <p>In the workplace we experience team-building exercises. The focus there is on many-to-many relationships to help people work well in groups. At the other end of the spectrum we have opportunities for personal development where the focus is on just one individual. </p>
     <p>Documentarians inhabit our own special place on this spectrum. It’s clearly defined and, in the world of software development, it’s unusual. We typically work one-on-one with subject-matter experts. Who ever has training for that?</p>
@@ -256,6 +272,7 @@
     twitter: "hackebrot"
     website: https://raphael.codes/
     slug: raphael-pierzina
+    picture: raphael-pierzina.jpg
   abstract: |-
     <p>When starting a new project, developers, myself included, usually get right into hacking things, like tinkering with libraries, that we would like to learn or solving a particular problem as quickly a possible. Occasionally we also decide to publish the resulting project to a software repository such as PyPI for Python or NPM for Node.js etc., so that others can use our nifty code, submit a pull request and maybe even form a community around the project.</p>
     <p>As the creator, you might be lucky and someone will find your project on the front-page of GitHub or maybe eben Hacker News or Reddit. What happens next is on you really. But what does that mean?</p>
@@ -269,6 +286,7 @@
     twitter: "beckatodd"
     website: ''
     slug: becky-todd
+    picture: becky-todd.jpg
   abstract: |-
     <p>Crowdsourcing is an increasingly attractive practice that is being used to develop documentation. When well designed, this approach increases documentation velocity and reduces bottlenecks. However, there are (at least) two huge challenges:</p>
     <ul>
@@ -288,6 +306,7 @@
     twitter: "canncrochet"
     website: ''
     slug: christy-lutz
+    picture: christy-lutz.jpg
   abstract: |-
     <p>Getting feedback on your work is a necessary part of any project, and it makes your output stronger and more diverse. But it can be hard when your work is being evaluated. Sometimes, it feels like your reviewers have a deep and abiding interest in pain. You’ll never succeed! Well, you have already succeeded just by asking for feedback. Together, we’ll discuss how to build up your tolerance for taking that feedback.</p>
     <p>Feedback became so much easier for me when I learned design critique guidelines from a co-worker and UX Designer. Design critique guidelines are a set of rules and practices that can make getting and giving feedback easier. After presenting this speech at the Write the Docs Portland 2017 conference, I received a ton of great feedback on it. Now, I have even more strategies to share so that you can implement design critique guidelines into your own review process to make feedback painless.</p>

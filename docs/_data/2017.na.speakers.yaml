@@ -28,6 +28,7 @@
     name: Matthew Desmond
     slug: matthew-desmond
     twitter: ''
+    picture: matthew-desmond.jpg
 - title: 'Workshop: Structuring and writing documentation'
   abstract: |
     <p>What is a documentation structure, and why does it matter to developers?</p>
@@ -54,6 +55,7 @@
     name: Heidi Waterhouse
     slug: heidi-waterhouse
     twitter: ''
+    picture: heidi-waterhouse.jpg
 - title: Everyone's a player (in a mid-90s MUD)
   abstract: |
     <p><em>&gt; N</em></p><p>You have found a secret room in the castle!
@@ -99,6 +101,7 @@
     name: Kenzie Woodbridge
     slug: kenzie-woodbridge
     twitter: rainbowkenz
+    picture: kenzie-woodbridge.jpg
 - title: 'Testing: it''s not just for code anymore'
   abstract: |
     <p>We call ourselves technical writers, but many of us spend more time
@@ -129,6 +132,7 @@
     name: Lyzi Diamond
     slug: lyzi-diamond
     twitter: lyzidiamond
+    picture: lyzi-diamond.jpg
 - title: 'Unconference Session: Write the Docs Meetup Groups'
   abstract: |
     <p>Write the Docs is filled with great conversations about documentation.
@@ -152,15 +156,18 @@
   - details: ''
     name: Mike Jang
     slug: mike-jang
-    twitter: 'TheMikeJang '
+    twitter: 'TheMikeJang'
+    picture: mike-jang.jpg
   - details: ''
-    name: ' Margaret Eker'
+    name: 'Margaret Eker'
     slug: margaret-eker
     twitter: meker
+    picture: margaret-eker.jpg
   - details: ''
     name: Laura Stewart
     slug: laura-stewart
     twitter: ''
+    picture: laura-stewart.jpg
 - title: 'Building navigation for your doc site: 5 best practices'
   abstract: |
     <p>Although users typically arrive at doc websites in a confused and
@@ -187,6 +194,7 @@
     name: Tom Johnson
     slug: tom-johnson
     twitter: tomjohnson
+    picture: tom-johnson.jpg
 - title: 'You have already succeeded: Design critique guidelines make feedback easier.'
   abstract: |
     <p>Getting feedback on your work is a necessary part of any project,
@@ -207,6 +215,7 @@
     name: Christy Lutz
     slug: christy-lutz
     twitter: canncrochet
+    picture: christy-lutz.jpg
 - title: 'Only Interesting Conversations: The symbiotic relationship between docs
     and support'
   abstract: |
@@ -230,6 +239,7 @@
     name: Matthew Buttler
     slug: matthew-buttler
     twitter: diversecauses
+    picture: matthew-buttler.jpg
 - title: 'Unconference Session: QueerTea'
   abstract: |
     <p>QWERTY: Queer Writers Enjoying Relaxing Tea Yearly! Join us for a
@@ -240,6 +250,7 @@
     name: Ashleigh Rentz
     slug: ashleigh-rentz
     twitter: technicalleigh
+    picture: ashleigh-rentz.jpg
 - title: 'Error Messages: Being Humble, Human, and Helpful will make users Happy'
   abstract: |
     <p>Writers often forget that users are more likely to see error messages,
@@ -264,6 +275,7 @@
     name: Kate Voss
     slug: kate-voss
     twitter: katewanders
+    picture: kate-voss.jpg
 - title: 'Interviewing and hiring technical writers: the Siberian way'
   abstract: |
     <p>My name is Sam and I am the head of technical documentation department
@@ -315,6 +327,7 @@
     name: Sam Faktorovich
     slug: sam-faktorovich
     twitter: lazeez
+    picture: sam-faktorovich.png
 - title: 'Treating documentation like code: a practical account'
   abstract: |
     <p>Are you interested in developing docs like code? Are you frustrated
@@ -346,6 +359,7 @@
     name: Jodie Putrino
     slug: jodie-putrino
     twitter: j_putrino
+    picture: jodie-putrino.jpg
 - title: 'No Community Members Were Harmed in the Making of This Doc Sprint: How we
     ran a 48-hour event to collect community wisdom into a guidebook for newsroom
     developers'
@@ -380,10 +394,12 @@
     name: Ryan Pitts
     slug: ryan-pitts
     twitter: ryanpitts
+    picture: ryan-pitts.jpg
   - details: ''
     name: Lindsay Muscato
     slug: lindsay-muscato
     twitter: lmuscato
+    picture: lindsay-muscato.jpg
 - title: 'The Wisdom of Crowds: Crowdsourcing Minimalism in an Open Organization'
   abstract: |
     <p>The Wisdom of Crowds:Crowdsourcing Minimalism in an Open Organization
@@ -426,6 +442,7 @@
     name: Ingrid Towey
     slug: ingrid-towey
     twitter: IngridTowey
+    picture: ingrid-towey.png
 - title: 'Caring Systems: Documentation as care'
   abstract: |
     <p>All humans require care. Writing and maintaining documentation is
@@ -447,6 +464,7 @@
     name: Amelia Abreu
     slug: amelia-abreu
     twitter: ameliaabreu
+    picture: amelia-abreu.jpg
 - title: Bootstrapping Docs at a Startup
   abstract: |
     <p>How do you “bootstrap docs”? In this talk, I will walk through
@@ -474,6 +492,7 @@
     name: Jesse Seldess
     slug: jesse-seldess
     twitter: ''
+    picture: jesse-seldess.jpg
 - title: 'Unconference Session: Release Notes: What''s Working (and Not Working) for
     You?'
   abstract: |
@@ -488,10 +507,12 @@
     name: Leona Campbell
     slug: leona-campbell
     twitter: runleonarun
+    picture: leona-campbell.png
   - details: ''
     name: David Bastedo
     slug: david-bastedo
     twitter: dbastedo
+    picture: david-bastedo.png
 - title: 'Unconference Session: Worst-case Scenario Planning'
   abstract: |
     <p>The last thing you want to think about is work when you or someone
@@ -505,6 +526,7 @@
     name: Melissa Chavez
     slug: melissa-chavez
     twitter: capnleela
+    picture: melissa-chavez.jpg
 - title: Even Naming This Talk Is Hard
   abstract: |
     <p>Writers of software and writers of documentation practice a shared
@@ -537,6 +559,7 @@
     name: Ruthie BenDor
     slug: ruthie-bendor
     twitter: unruthless
+    picture: ruthie-bendor.png
 - title: Start with the tasks, not the endpoints
   abstract: |
     <p>Last spring, as I approached reworking the information architecture
@@ -570,6 +593,7 @@
     name: Sarah Hersh
     slug: sarah-hersh
     twitter: ''
+    picture: sarah-hersh.jpg
 - title: Intelligent Documents and the Verifiability Crisis in Science, Tech Writing,
     and Life
   abstract: |
@@ -599,6 +623,7 @@
     name: Carl Parker
     slug: carl-parker
     twitter: carljparker
+    picture: carl-parker.png
 - title: Do you know a runbook from a flip book? How sysadmins use documentation
   abstract: |
     <p>Come along on a tour of common types of documentation system administrators
@@ -628,3 +653,4 @@
     name: Andrea Longo
     slug: andrea-longo
     twitter: feorlen
+    picture: andrea-longo.jpg
