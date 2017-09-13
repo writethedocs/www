@@ -29,7 +29,7 @@ Can a company sponsor a local meetup?
 
 Yes, as long as the sponsoring company or organization adheres to the following guidelines:
 
-* If a company wishes to host a meetup at their offices, the meetup must is open to all documentarians, regardless of whether they are employed at the host company.
+* If a company wishes to host a meetup at their offices, the meetup must be open to all documentarians, regardless of whether they are employed at the host company.
 
 * We recommend that companies handle their sponsorship contributions directly. For example, if a company wishes to sponsor equipment for streaming or recording talks, we advise that the company maintain the equipment and operate it during each meetup.
 
