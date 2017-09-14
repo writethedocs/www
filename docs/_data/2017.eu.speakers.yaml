@@ -231,14 +231,14 @@
   - details: ''
     name: Stuart Culshaw
     twitter: "ouebguy"
-    website: ''
+    website: 'https://twwb.org/'
     slug: stuart-culshaw
   abstract: |-
     <p>Created in 2016, Tech Writers Without Borders aims to connect technical communicators with nonprofits seeking help with their documentation and training materials.</p>
     <p>Using examples from our work with iNERDE, a social enterprise seeking to empower West African youth with Science, Technology, Engineering and Math education, I will describe the many ways in which technical communicators can make a real difference to the operational effectiveness of nonprofits and the lives of those they serve.</p>
     <p>If you, too, are interested in volunteering your skills for social impact, this session will hopefully inspire you to action, or, at the very least encourage you to view the value of your craft in a new light.</p>
-  title: 'Tech Writers Without Borders: Making the world a better place, one (numbered)
-    step at a time'
+    title: 'Tech Writers Without Borders: Making the world a better place, one (numbered) step at a time'
+    slides: https://speakerdeck.com/sculshaw/making-the-world-a-better-place-one-numbered-step-at-a-time
 - speakers:
   - details: ''
     name: Ed Stenson
