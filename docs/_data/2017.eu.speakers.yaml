@@ -263,6 +263,7 @@
     <p>A good README briefly and concisely explains what your software does, how it can be installed and what API it exposes. You also want to provide information on the requirements, the license it uses and how the project is managed. Who are you? How to get in touch to report problems and give feedback? Where can potential users find the Code of Conduct for your project?</p>
     <p>This talk is for everyone who is interested in working on open source projects and wants to know how documentation can help newcomers and more experienced users use your code and to encourage them to engage in the community.</p>
   title: Hi, my name is README!
+  slides: https://speakerdeck.com/hackebrot/hi-my-name-is-readme-writethedocs-2017
 - speakers:
   - details: ''
     name: Becky Todd
