@@ -44,8 +44,9 @@
   - details: ''
     name: Garen Torikian
     twitter: gjtorikian
-    website: ''
+    website: 'https://www.gjtorikian.com'
     slug: garen-torikian
+    slides: https://speakerdeck.com/gjtorikian/finally-trustworthy-and-sensible-api-documentation-with-graphql
   abstract: "<p>GitHub is migrating its public API system from REST to GraphQL. \nIn
     this talk, I'd like to go over my personal experiences writing API documentation
     for ten years, and why GraphQL's \"everything needs documentation\" approach is
