@@ -193,6 +193,8 @@ def load_conference_data():
     return result
 
 def generate_video_slug(session):
+    if 'title' not in session:
+        return u''
     title = session['title']
     for speaker in session.get('speakers', []):
         title += '-{}'.format(speaker.get('slug', speaker['name']))
@@ -200,6 +202,8 @@ def generate_video_slug(session):
 
 def generate_video_content(session, year, region, session_idx):
     data = session.copy()
+    if 'title' not in session:
+        return u''
     data['title_marker'] = u'=' * len(data['title'])
     data['year'] = year
     data['region'] = region
