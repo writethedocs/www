@@ -1,0 +1,41 @@
+{%- extends "layout.html" %}
+
+{% block body %}
+<style type="text/css">
+  @import url('http://fontawesome.io/assets/font-awesome/css/font-awesome.css');
+</style>
+
+<div class="talk">
+  <h1 class="bold">Introduction & State of the Docs</h1>
+
+  <div class='embed-container'>
+    <iframe src='https://www.youtube.com/embed/Fmfs-iYqx5Q' frameborder='0' allowfullscreen></iframe>
+  </div>
+
+  <h2>Description</h2>
+  <p>Write the Docs is more than a conference. Each year we organize a wide bunch of events so that people can meet, collaborate, and learn from each other.</p>
+  <p>This year, we have events planned all day on Sunday, the day before the conference, and our annual hike will take place on Saturday afternoon. Our Sunday events include our Writing Day documentation sprints during the day, and our conference reception in the evening.</p>
+
+  <ul class="video-info">
+    <li>Conference <a href="#">Write The Docs NA 2016</a></li>
+    <li>Year <a href="#">2016</a></li>
+  </ul>
+
+  <h2>About the speaker</h2>
+
+  <section class="speaker-section">
+    <div class="speaker-sidebar">
+      <img class="speaker-pic" src="/_static/img/speakers/eric-holsher.jpg" alt="">
+      <ul class="social-media flex-center">
+        <li><a href="#"><i class="fa fa-twitter social-media-icon" aria-hidden="true"></i></a></li>
+        <li><a href="#"><i class="fa fa-globe social-media-icon" aria-hidden="true"></i></a></li>
+      </ul>
+    </div>
+    <div class="speaker-info">
+      <h3 class="speaker-name">Eric Holsher</h3>
+      <p>Eric is the co-founder of Read the Docs and Write the Docs, where he works to elevate the status of documentation in the software industry.</p>
+      <p>He currently lives in Portland, Oregon, and loves to explore the outdoors. Whether on bike or foot, he spends as much time as possible out and about, checking out the various beauty that the world holds.</p>
+    </div>
+  </section>
+</div>
+{% endblock %}

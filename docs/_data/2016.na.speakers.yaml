@@ -7,22 +7,27 @@
     name: Leon Barnard
     slug: leon-barnard
     twitter: leonbarnard
+    picture: leon-barnard.jpg
   - details: ''
     name: Zach Corleissen
     slug: zach-corleissen
     twitter: zachorsarah
+    picture: zach-corleissen.jpg
   - details: ''
     name: Ted Hudek
     slug: ted-hudek
     twitter: tedhudek
+    picture: ted-hudek.jpg
   - details: ''
     name: Jon Bulava
     slug: jon-bulava
     twitter: jbulava
+    picture: jon-bulava.jpg
   - details: ''
     name: Riona MacNamara
     slug: riona-macnamara
     twitter: rionam
+    picture: riona-macnamara.jpg
 - title: 'Technical writing as public service: working on open source in government'
   abstract: "<p>What if U.S. federal agencies decided to reuse and contribute to open
     source software projects built by other agencies, since agencies often have
@@ -49,6 +54,7 @@
     name: Britta Gustafson
     slug: britta-gustafson
     twitter: brittagus
+    picture: britta-gustafson.jpg
   youtubeId: Y2TGwUPb8R4
 - title: 'Atlassian: My Information Experience Adventure'
   abstract: '<p>Come with me on a journey and learn how Atlassian went from the traditional
@@ -90,6 +96,7 @@
     name: Daniel Stevens
     slug: daniel-stevens
     twitter: dan_stevens9190
+    picture: daniel-stevens.jpg
   youtubeId: kMSGYbWXxgE
 - title: 'Two great teams that work better together: Bridging the gap between Documentation
     and Customer Support'
@@ -113,6 +120,7 @@
     name: Neal Kaplan
     slug: neal-kaplan
     twitter: NealKaplan
+    picture: neal-kaplan.jpg
   youtubeId: HIvehEUKDfk
 - title: Documentation with Human Connection
   abstract: "<p>As technical writers, it\u2019s easy to sacrifice human connection
@@ -140,6 +148,7 @@
     name: Hannah Gilberg
     slug: hannah-gilberg
     twitter: ''
+    picture: hannah-gilberg.jpg
   youtubeId: K5eqNcjNvgU
 - title: 'Move Fast And Document Things: Hard-won lessons in building documentation
     culture in startups.'
@@ -165,6 +174,7 @@
     name: Ruthie BenDor
     slug: ruthie-bendor
     twitter: unruthless
+    picture: ruthie-bendor.png
   youtubeId: INpqcITkXcI
 - title: 'Just-In-Time Documentation: Employing Agile Methodology To Create Living
     Documentation'
@@ -183,6 +193,7 @@
     name: Brianne Hillmer
     slug: brianne-hillmer
     twitter: writebriwrite
+    picture: brianne-hillmer.jpg
   youtubeId: FYNAqlQB9U4
 - title: 7 values of effective tech writing teams
   abstract: '<p>Not so long ago, designers were not part of the product development
@@ -206,6 +217,7 @@
     name: Joao Fernandes
     slug: joao-fernandes
     twitter: joaofnfernandes
+    picture: joao-fernandes.jpg
   youtubeId: ra8nHK5wDXM
 - title: How to Publish Wild-Caught Articles
   abstract: '<p>I''m Sharon, Editorial Manager at DigitalOcean. I''d like to talk
@@ -224,6 +236,7 @@
     name: Sharon Campbell
     slug: sharon-campbell
     twitter: captainshar
+    picture: sharon-campbell.jpg
   youtubeId: rCIdatJX7J0
 - title: Write the Readable README
   abstract: "<p>A README file often makes your software\u2019s first impression. In
@@ -254,6 +267,7 @@
     name: Daniel Beck
     slug: daniel-beck
     twitter: ddbeck
+    picture: daniel-d-beck.jpg
   youtubeId: 2dAK42B7qtw
 - title: 'Code the Docs: Interactive Document Environments'
   abstract: "<p>Distributing example code and applications with documentation is now
@@ -273,10 +287,12 @@
     name: Tim Nugent
     slug: tim-nugent
     twitter: the_mcjones
+    picture: tim-nugent.jpg
   - details: ''
     name: Paris Buttfield-Addison
     slug: paris-buttfield-addison
     twitter: parisba
+    picture: paris-buttfield-addison.jpg
   youtubeId: kfqlRzDq4MA
 - title: Writing So Your Words Are Read
   abstract: "<p>You\u2019re smart, educated, and you\u2019ve been working in this
@@ -295,6 +311,7 @@
     name: Tracy Osborn
     slug: tracy-osborn
     twitter: limedaring
+    picture: tracy-osborn.jpg
   youtubeId: 8LiV759Bje0
 - title: 'Copy that: Helping your users succeed with effective product copy'
   abstract: "<p>In this talk, I\u2019ll discuss my adventures learning to write effective
@@ -317,6 +334,7 @@
     name: Sarah Day
     slug: sarah-day
     twitter: scribblingfox
+    picture: sarah-day.jpg
   youtubeId: M_Q1RO0ky2c
 - title: 'Crossing the Streams: Enabling Collaboration Between Products and Upstreams '
   abstract: '<p>Open source projects have documentation communities made up of volunteer
@@ -339,6 +357,7 @@
     name: Shaun McCance
     slug: shaun-mccance
     twitter: shaunm
+    picture: shaun-mccance.jpg
   youtubeId: YlWD6YcUyXs
 - title: What Writing Fiction Teaches You About Writing Documentation
   abstract: "<p>Writing fiction and writing documentation have much more in common
@@ -361,6 +380,7 @@
     name: Thursday Bram
     slug: thursday-bram
     twitter: thursdayb
+    picture: thursday-bram.jpg
   youtubeId: UI9yD3_wgho
 - title: CSAT- what's that?
   abstract: "<p>As a tech writer, you care about two things: knowing your audience
@@ -399,6 +419,7 @@
     name: Betsy Roseberg
     slug: betsy-roseberg
     twitter: ''
+    picture: betsy-roseberg.jpg
   youtubeId: Nmx9_GZNZF8
 - title: so you need to document an API
   abstract: "<p>Documenting an API can be an intimidating process: How should you
@@ -417,6 +438,7 @@
     name: Allison Reinheimer Moore
     slug: allison-reinheimer-moore
     twitter: schmalliso
+    picture: allison-reinheimer-moore.jpg
   youtubeId: KSXL-BDoGOw
 - title: "We\u2019re not in Kansas anymore: How to find courage while following the
     Technical Doc Road"
@@ -438,6 +460,7 @@
     name: Christy Lutz
     slug: christy-lutz
     twitter: canncrochet
+    picture: christy-lutz.jpg
   youtubeId: C8pvvgwboJc
 - title: 'Continuous Annoyment: Bringing More Zen to a Hectic Writing Environment'
   abstract: '<p>The hectic pace of documentarian tasks is only accelerating these
@@ -460,6 +483,7 @@
     name: Tana Franko
     slug: tana-franko
     twitter: tanafranko
+    picture: tana-franko.jpg
   youtubeId: y8yhjVYXa20
 - title: 'Embed the docs!  '
   abstract: "<p>Documentation for most web applications today still follows the cognitive
@@ -481,6 +505,7 @@
     name: Kristof Van Tomme
     slug: kristof-van-tomme
     twitter: kvantomme
+    picture: kristof-van-tomme.jpg
   youtubeId: bKdGDbROgoA
 - title: Oops, I Became an Engineer
   abstract: "<p>From English professor and assistant dean to software engineer. How
@@ -501,6 +526,7 @@
     name: Tara Scherner de la Fuente
     slug: tara-scherner-de-la-fuente
     twitter: MediaRemedial
+    picture: tara-scherner-de-la-fuente.jpg
   youtubeId: b_Bo0sHEc7A
 - title: 'Accessible Math on the Web: A Server/Client Solution'
   abstract: '<p>Math is a universal language but it is also primarily a visual language.
@@ -535,4 +561,5 @@
   - details: ''
     name: Tim Arnold
     slug: tim-arnold
+    picture: tim-arnold.jpg
   youtubeId: _tYVqcdqcBM

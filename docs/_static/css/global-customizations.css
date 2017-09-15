@@ -7,3 +7,231 @@
     border: 2px dotted;
     border-color: red;
 }
+
+div.conferences-videos-list {
+    margin-top: 42px;
+}
+
+div.conferences-videos-list h2 {
+  margin-bottom: 40px;
+  margin-top: 12px;
+}
+
+div.conferences-videos-list a, div.conferences-videos-list a:active,
+div.conferences-videos-list a:hover, div.conferences-videos-list a:link,
+div.conferences-videos-list a:visited {
+    color: #3E4349;
+    text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  div.conferences-videos-list {
+    margin-top: 14px;
+  }
+
+  div.conferences-videos-list h2 {
+    font-size: 140%;
+    margin-bottom: 28px;
+  }
+}
+
+
+.meetup-detail .meetup-video-container {
+  margin-top: 56px;
+}
+
+.meetup-list h2 {
+  font-family: 'goudy old style', 'minion pro', 'bell mt', Georgia, 'Hiragino Mincho Pro', serif;
+}
+
+.meetup-container, .meetup-video-container {
+  max-width: 660px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.meetup-container .meetup, .meetup-video-container .video {
+  flex: 0 0 100%;
+}
+
+@media (min-width: 420px) and (max-width: 768px){
+  .meetup-container, .meetup-video-container {
+    margin: -1em 0 1em -1em;
+
+  }
+
+  .meetup-container .meetup, .meetup-video-container .video {
+    padding: 1em 0 0 1em;
+    flex: 0 0 calc((100% - 20px * 2) / 2);
+
+  }
+}
+
+@media (min-width: 768px) {
+
+  .meetup-container, .meetup-video-container {
+    margin: -1em 0 1em -1em;
+
+  }
+
+  .meetup-container .meetup, .meetup-video-container .video {
+    padding: 1em 0 0 1em;
+    flex: 0 0 calc((100% - 20px * 3) / 3);
+
+  }
+}
+
+.meetup-container a, .meetup-container a:active,
+.meetup-container a:hover, .meetup-container a:link,
+.meetup-container a:visited, .video a, .video a:active,
+.video a:hover, .video a:link, .video a:visited {
+  color: #3E4349;
+  text-decoration: none;
+}
+
+
+.meetup-detail .breadcrumps, ul.social-media, ul.video-info {
+  display: flex;
+  margin-left: 0;
+
+}
+
+.meetup-detail .breadcrumps li , ul.social-media li,
+ul.video-info li {
+  padding-right: 6px;
+  list-style-type: none;
+}
+
+ul.video-info li {
+    padding-right: 16px;
+}
+
+ul.social-media {
+    padding: 0;
+}
+
+ul.social-media li {
+    padding: 0 8px;
+}
+
+ul.video-info {
+  flex-wrap: wrap;
+}
+
+.meetup-detail .breadcrumps li a {
+  color: #3E4349;
+  padding-right: 8px;
+  font-family: Garamond, Georgia, serif;
+}
+
+.meetup-detail  H1 {
+  font-family: Garamond, Georgia, serif;
+}
+
+.meetup-detail .video i {
+  font-style: normal;
+  font-weight: bold;
+}
+
+
+div.about-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 22px;
+}
+
+.meetup-detail .about-container h1{
+  margin-bottom: 0px;
+}
+
+.social-media-icon {
+  font-size: 24px;
+}
+
+.social-media {
+  padding-right: 20px;
+}
+
+/** Embeded Responsive youtube video **/
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe, .embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/** Utility color: #000;lasses **/
+
+.flex-center {
+  align-items: center;
+  justify-content: center;
+}
+
+.bold {
+  font-weight: 800;
+}
+
+.image {
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #d7d7d7;
+}
+
+.image-category {
+  /** max-width: 538px;
+  min-width: 240px;**/
+  height: 175.047px;
+  width: 340px;
+}
+
+.image-grid-element {
+  height: 133.328px;
+  width: 200px;
+}
+
+/** Speaker Section **/
+div.talk section {
+  display: flex;
+}
+
+div.speaker-sidebar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-right: 20px;
+}
+
+img.speaker-pic {
+  max-width: 90px;
+  height: auto;
+}
+
+@media (max-width: 420px) {
+  div.talk section {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  div.speaker-sidebar {
+    padding-top: 20px;
+  }
+
+  div.talk h3.speaker-name {
+    margin-top: 0;
+  }
+}

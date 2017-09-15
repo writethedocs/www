@@ -17,6 +17,7 @@
   - details: ''
     name: Erik Romijn
     slug: erik-romijn
+    picture: erik-romijn.png
     twitter: erikpub
   youtubeId: A6oQKrdtr0c
 - title: Feedback handling, community wrangling, panhandling
@@ -39,6 +40,7 @@
     name: Chris Mills
     slug: chris-mills
     twitter: chrisdavidmills
+    picture: chris-mills.jpg
   youtubeId: VabBD1MWdE8
 - title: 'Documentoring: Growing a "Love The Docs" community'
   abstract: '<p>As documentarians, our primary goal is delivering the content that
@@ -71,6 +73,7 @@
     name: David Oliver
     slug: david-oliver
     twitter: DaveOliver79
+    picture: chris-ward.png
   youtubeId: 5LRagMvlEuk
 - title: When bad screenshots happen to good writers
   abstract: '<p>You have your content moving at a swift pace, your documents are getting
@@ -104,6 +107,7 @@
     name: Swapnil Ogale
     slug: swapnil-ogale
     twitter: swapnilogale
+    picture: swapnil-ogale.jpg
   youtubeId: SU2mRSaa1yQ
 - title: Beyond Software - Learning from Other Technical Writers
   abstract: '<p>Outside of my technical writing work for software projects I have
@@ -150,6 +154,7 @@
     name: Chris Ward
     slug: chris-ward
     twitter: chrischinch
+    picture: chris-ward.png
   youtubeId: pfLw8WmQ3nM
 - title: 'API documentation: Exploring the information needs of software developers'
   abstract: "<p>The success of an API crucially depends on how well its documentation
@@ -176,6 +181,7 @@
     name: Michael Meng
     slug: michael-meng
     twitter: ''
+    picture: michael-meng.jpg
   youtubeId: soQSOBwiXdA
 - title: Writing as a non-native speaker
   abstract: '<p>Writing professionally in English as a non-native speaker is a terrifying
@@ -201,6 +207,7 @@
     name: "Istv\xE1n Zolt\xE1n Szab\xF3"
     slug: istvan-zoltan-szabo
     twitter: szabosteve
+    picture: istvan-zoltan-szabo.jpg
   youtubeId: KWqhW4Guo5k
 - title: Poll the Docs
   abstract: '<p>The Write the Docs community has been growing over the past few years,
@@ -219,6 +226,7 @@
     name: "Kata Nagygy\xF6rgy"
     slug: kata-nagygyorgy
     twitter: NagygyorgyKata
+    picture: kata-nagygyorgy.jpg
   youtubeId: nXEpyO6tNX8
 - title: Checklist the Docs
   abstract: "<p>The aviation industry has made flying long distances at high speeds
@@ -246,6 +254,7 @@
     name: Daniel Beck
     slug: daniel-beck
     twitter: ddbeck
+    picture: daniel-d-beck.jpg
   youtubeId: mltBPPGsuTg
 - title: What Writing Fiction Teaches You About Writing Documentation
   abstract: "<p>Writing fiction and writing documentation have much more in common
@@ -268,6 +277,7 @@
     name: Thursday Bram
     slug: thursday-bram
     twitter: thursdayb
+    picture: thursday-bram.jpg
   youtubeId: HaWWcJp2yo4
 - title: Using meaningful names to improve API-documentation
   abstract: "<p>Interaction between incorporated software-systems is often realized
@@ -286,6 +296,7 @@
     name: Jan Christian Krause
     slug: jan-christian-krause
     twitter: idocit
+    picture: jan-christian-krause.jpg
   youtubeId: YOBVWfmRHzc
 - title: 'Documentarians and Support: Work Better Together'
   abstract: "<p>Do you know what the support agents are doing over in their corner?
@@ -309,6 +320,7 @@
     name: Sarah Chambers
     slug: sarah-chambers
     twitter: sarahleeyoga
+    picture: sarah-chambers.jpg
   youtubeId: qBpwoQftxcA
 - title: 'Pretty hurts: Why better trumps best'
   abstract: '<p>What are the characteristics of a great documentation set? Completeness?
@@ -341,6 +353,7 @@
     name: Riona MacNamara
     slug: riona-macnamara
     twitter: rionam
+    picture: riona-macnamara.jpg
   youtubeId: NyFNrInlADs
 - title: Postulating The Backlog Laxative
   abstract: '<p>So you had an idea for an awesome software product and started to
@@ -370,6 +383,7 @@
     name: Paul Adams
     slug: paul-adams
     twitter: therealpadams
+    picture: paul-adams.jpg
   youtubeId: MD-RwSw-NGA
 - title: 'Information micro-architecture: grammar, syntax, and cognitive rhetoric'
   abstract: "<p>Most discussions of information architecture (IA) treat it as a high-level
@@ -392,6 +406,7 @@
     name: Rory Tanner
     slug: rory-tanner
     twitter: roringtonj
+    picture: rory-tanner.jpg
   youtubeId: GuAECnt4eJI
 - title: Operations Technical Writing for Data Centers
   abstract: '<p>Operations tech writing encompasses both hardware and software, and
@@ -415,6 +430,7 @@
     name: Joan Wendt
     slug: joan-wendt
     twitter: ''
+    picture: joan-wendt.jpg
   youtubeId: 4AwmQmWK7Ys
 - title: Watch that tone! Creating an information experience in the Atlassian voice
   abstract: '<p>Two years ago, Atlassian had no consistent voice guidelines across
@@ -450,6 +466,7 @@
     name: Sarah Karp
     slug: sarah-karp
     twitter: skarpediem
+    picture: sarah-karp.png
   youtubeId: MeyKS4LwTds
 - title: Delivering High-Velocity Docs that Keep Pace with Rapid Release Cycles
   abstract: "<p>To prevent stale content and achieve a high standard of alignment
@@ -465,6 +482,7 @@
     name: Rachel Whitton
     slug: rachel-whitton
     twitter: rachwhitton
+    picture: rachel-whitton.png
   youtubeId: dHdBsNxtKeI
 - title: 'Docs as Code: The Missing Manual'
   abstract: '<p>Treating docs as code, an approach that more and more teams and companies
@@ -507,8 +525,10 @@
     name: Margaret Eker
     slug: margaret-eker
     twitter: ''
+    picture: margaret-eker.jpg
   - details: ''
     name: Jennifer Rondeau
     slug: jennifer-rondeau
     twitter: ''
+    picture: jennifer-rondeau.jpg
   youtubeId: JvRd7MmAxPw
