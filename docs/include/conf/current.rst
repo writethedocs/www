@@ -1,3 +1,8 @@
+2018 Conferences
+----------------
+
+- :doc:`Write the Docs Portland </conf/portland/2018/index>`, May 6-8, **Portland, Oregon**
+
 2017 Conferences
 ----------------
 
@@ -14,8 +19,7 @@
 
 Think your conference should go here? Email us conf@writethedocs.org.
 
-Look at all of these happy people at our Portland conference in 2016!
+Past Conferences
+----------------
 
-.. raw:: html
-
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/writethedocs/27252578210/in/album-72157669467964085/" title="20160524171117"><img src="https://c3.staticflickr.com/8/7409/27252578210_271a1886ef_z.jpg" width="640" height="400" alt="20160524171117"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+You can view a :doc:`full list </conf/index>` of our past conferences as well.
