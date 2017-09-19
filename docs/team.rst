@@ -127,6 +127,8 @@ Members
 Support Team
 ------------
 
+Friendly folk on the other end of the email addresses who answer miscellaneous questions about all and sundry. Anything from requests for information, to billing and technical issues.
+
 Roles
 `````
 
