@@ -3,7 +3,7 @@
                  documentarians,
                  and all those who write the docs.
    :author: Write the Docs
-   :geo.placename: Portland, Oregon
+   :geo.placename: Worldwide
 
 Welcome to the Write the Docs Community
 =======================================
