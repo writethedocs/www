@@ -23,59 +23,10 @@ to improve the **art and science of documentation**.
 
 .. include:: /include/conf/current.rst
 
-Team
-----
+Join the Community
+------------------
 
-Write the Docs wouldn't be possible without our wonderful :doc:`/team` of volunteers.
-We are always looking for folks who want to take a stronger leadership role in our community.
-Feel free to reach out if you're interested in helping on a conference,
-or in our community in general.
-
-Stay Connected
---------------
-
-Mailing List
-~~~~~~~~~~~~
-
-We have mailing lists for our Monthly Newsletter,
-North American Conferences,
-and European Conferences.
-They are low traffic,
-and only send occasional community and event updates.
-
-You can sign up in our sidebar.
-
-Meetups
-~~~~~~~
-
-We have meetups in multiple cities every month.
-The :doc:`/meetups/index` page has more information.
-
-Slack
-~~~~~
-
-You can join us on the :doc:`/slack` for real-time discussion and to keep in touch with folks from the community.
-
-Slack conversations aren't archived, so we recommend either putting substantial items of interest on the forum,
-or moving them there if they develop into something bigger.
-
-Learn more about our :doc:`/slack`.
-
-Forum
-~~~~~
-
-Check out our `Forum <http://forum.writethedocs.org/>`__ to keep in
-touch with your fellow documentarians.
-
-The forum is the place to start discussions that we should keep around for a while. If a Slack conversation
-starts to get a lot of attention and seems like something of permanent interest, we suggest that you move it
-over to the forum.
-
-Contact Us
-----------
-
-Have any questions, concerns, or comments about our work?
-Feel free to reach out at conf@writethedocs.org.
+Check out the :doc:`about/index` page for information on how to meet the community, learn new things, get involved, and stay in touch.
 
 Useful Pages
 ------------
