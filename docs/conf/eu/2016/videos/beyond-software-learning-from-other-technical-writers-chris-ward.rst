@@ -1,7 +1,7 @@
 :template: 2017/video-details.html
 
-The four kinds of documentation, and why you need to understand what they are
-=============================================================================
+Beyond Software - Learning from Other Technical Writers
+=======================================================
 
 {% set talk = conferences[2016]['eu']['speakers'][4] %}
 {% set output %}

@@ -1,7 +1,7 @@
 :template: 2017/video-details.html
 
-A content manager's guide to crowdsourcing the docs
-===================================================
+Delivering High-Velocity Docs that Keep Pace with Rapid Release Cycles
+======================================================================
 
 {% set talk = conferences[2016]['eu']['speakers'][17] %}
 {% set output %}

@@ -1,9 +1,9 @@
 :template: 2017/video-details.html
 
-Documentation beyond words
-==========================
+Operations Technical Writing for Data Centers
+=============================================
 
-{% set talk = conferences[2016]['eu']['speakers'][11] %}
+{% set talk = conferences[2016]['eu']['speakers'][15] %}
 {% set output %}
 {% include conf_py_root + '/_templates/video-details-body.html' %}
 {% endset %}

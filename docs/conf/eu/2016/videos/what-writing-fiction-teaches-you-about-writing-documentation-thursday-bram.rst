@@ -1,9 +1,9 @@
 :template: 2017/video-details.html
 
-Deprecate and destroy: documenting your software’s last days
+What Writing Fiction Teaches You About Writing Documentation
 ============================================================
 
-{% set talk = conferences[2016]['eu']['speakers'][13] %}
+{% set talk = conferences[2016]['eu']['speakers'][9] %}
 {% set output %}
 {% include conf_py_root + '/_templates/video-details-body.html' %}
 {% endset %}

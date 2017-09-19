@@ -1,9 +1,9 @@
 :template: 2017/video-details.html
 
-Writing a book in 2017 
-=======================
+Writing as a non-native speaker
+===============================
 
-{% set talk = conferences[2016]['eu']['speakers'][9] %}
+{% set talk = conferences[2016]['eu']['speakers'][6] %}
 {% set output %}
 {% include conf_py_root + '/_templates/video-details-body.html' %}
 {% endset %}

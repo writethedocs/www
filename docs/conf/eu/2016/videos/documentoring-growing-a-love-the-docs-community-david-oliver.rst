@@ -1,7 +1,7 @@
 :template: 2017/video-details.html
 
-Finally! Trustworthy and Sensible API Documentation with GraphQL 
-=================================================================
+Documentoring: Growing a "Love The Docs" community
+==================================================
 
 {% set talk = conferences[2016]['eu']['speakers'][2] %}
 {% set output %}

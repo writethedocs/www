@@ -1,9 +1,9 @@
 :template: 2017/video-details.html
 
-Requirements that you didn't know were there
-============================================
+Docs as Code: The Missing Manual
+================================
 
-{% set talk = conferences[2016]['eu']['speakers'][10] %}
+{% set talk = conferences[2016]['eu']['speakers'][18] %}
 {% set output %}
 {% include conf_py_root + '/_templates/video-details-body.html' %}
 {% endset %}
