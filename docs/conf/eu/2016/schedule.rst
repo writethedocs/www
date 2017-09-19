@@ -1,17 +1,5 @@
 :template: 2016/eu.html
 
-{% set dont_link = ['Lunch',
-                    'Intro',
-                    'Group Photo',
-                    'Snack break',
-                    'Switch Speakers',
-                    'Doors Open, Breakfast Served',
-                    'Introduction & State of the Docs',
-                    'Lightning Talks',
-                    'Day 1 wraps up',
-                    'Closing & Group Photo',
-                    'Day 2 wraps up'] %}
-
 Schedule
 ========
 
@@ -93,32 +81,9 @@ the event.
 Main Stage
 ~~~~~~~~~~
 
-.. raw:: html
-
-    <table>
-    {% for talk in eu_2016_day1 %}
-      <tr>
-        <td class=" schedule-time">{{ talk.Time }}</td>
-        <td>
-
-        {% if talk.Session in dont_link %}
-
-        {{ talk.Session}}
-
-        {% else %}
-
-`{{ talk.Session }} </conf/na/2016/speakers/#speaker-{{ talk.slug }}>`_
-
-.. raw:: html
-
-        {% endif %}
-
-
-        </td>
-      </tr>
-
-    {% endfor %}
-    </table>
+.. datatemplate::
+   :source: /_data/eu-2016-day-1.yaml
+   :template: include/schedule.rst
 
 Unconference
 ~~~~~~~~~~~~
@@ -144,32 +109,10 @@ lightning talks too!
 Main Stage
 ~~~~~~~~~~
 
-.. raw:: html
+.. datatemplate::
+   :source: /_data/eu-2016-day-2.yaml
+   :template: include/schedule.rst
 
-    <table>
-    {% for talk in eu_2016_day2 %}
-      <tr>
-        <td class=" schedule-time">{{ talk.Time }}</td>
-        <td>
-
-        {% if talk.Session in dont_link %}
-
-        {{ talk.Session}}
-
-        {% else %}
-
-`{{ talk.Session }} </conf/na/2016/speakers/#speaker-{{ talk.slug }}>`_
-
-.. raw:: html
-
-        {% endif %}
-
-
-        </td>
-      </tr>
-
-    {% endfor %}
-    </table>
 
 Unconference
 ~~~~~~~~~~~~
