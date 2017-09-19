@@ -93,7 +93,7 @@ and open source organizations.
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
 The **First Draft** package costs **$750**.
-You can buy it directly on our `ticket website <https://ti.to/writethedocs/write-the-docs-na-2017/with/80et9e6qdes>`_
+You can buy it directly on our ticket website.
 
 Second Draft
 ------------
