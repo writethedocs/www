@@ -1,43 +1,54 @@
 Team
 ====
 
-Write the Docs is a community effort that is enabled by a wonderful team of folks.
-We are always looking for more people to help organize conferences,
-meetups,
-or take a leadership role in the community.
-This page documents the status of different members of the community,
-and also explains some of the roles that people are filling.
+The different facets of the Write the Docs community is kept running smoothly by
+a wonderful team of folks. We are always looking for more people to help
+organize conferences and meetups, help out with websites and guides, or take
+leadership roles in the community. This page documents the roles that people are
+currently in charge.
 
-If you're interested in helping out,
-get in touch with someone on the team you're curious about.
-Messaging folks on the Write the Docs `Slack <http://slack.writethedocs.com/>`_ is probably the best way to get in touch with folks.
+If you're interested in helping out, get in touch with someone on the team
+you're curious about. Messaging folks on the Write the Docs :doc:`slack`
+is probably the best way to get in touch with
+folks.
 
 .. note:: The folks with an asterisk (*) next to their names are the team leads.
-          They get to choose who is in each team,
-          so they are the best folks to talk to about how to join their team.
+          They get to choose who is in each team, so they are the best folks to
+          talk to about how to join their team.
 
 .. contents:: Teams
    :local:
    :backlinks: none
    :depth: 1
 
+.. _conference-teams:
+
+Conference Teams
+----------------
+
+Each conference has a specific team that helps run that event.
+For this year,
+you can see who is helping out:
+
+* :doc:`Portland 2017 Team </conf/na/2017/team>`
+* :doc:`Prague 2017 Team </conf/eu/2017/staff>`
+
 .. _moderation-team:
 
 Moderation Team
 ---------------
 
-These are the folks you can depend on to enforce our :doc:`/code-of-conduct`.
-They are also charged with keeping our various communication channels on topic and friendly.
-As a reminder,
-we expect exemplary behavior from our community,
-and won't tolerate any kind of harassment or prolonged negativity.
+These are the folks who handle any :doc:`/code-of-conduct` incidents. They are
+also charged with keeping our various communication channels on topic and
+friendly. As a reminder, we expect exemplary behavior from our community, and
+won't tolerate any kind of harassment or prolonged negativity.
 
 Roles
 `````
 
 * Moderate the Forum and Slack
 * Serve as points of contact for any issues or questions
-* Enforce the :doc:`/code-of-conduct`
+* Handle :doc:`/code-of-conduct` incidents on Slack & Forum
 
 Members
 ```````
@@ -51,10 +62,10 @@ Meetup Coordination Team
 ------------------------
 
 These are the folks you can talk to about anything :doc:`/meetups/index` related.
-Want to attend your first one?
-Start your own?
-Have any other questions or concerns?
-These are the folks to talk to.
+
+* Want to attend your first meetup?
+* Start your own meetup?
+* Have any other questions or concerns?
 
 Roles
 `````
@@ -71,8 +82,6 @@ Members
 * `Margaret Eker <https://twitter.com/meker>`_
 * `Rose Williams <https://twitter.com/ZelWms>`_
 * You?
-
-
 
 Guide Coordination Team
 -----------------------
@@ -96,9 +105,9 @@ Members
 Newsletter Team
 ---------------
 
-These folks are in charge of communicating with the greater Write the Docs community.
-This is mainly done through our newsletter,
-as well as content updates that we put out on our site.
+These folks are in charge of communicating with the greater Write the Docs
+community. This is mainly done through our newsletter, as well as content
+updates that we put out on our site.
 
 Roles
 `````
@@ -127,7 +136,7 @@ Roles
 Members
 ```````
 
-* `Rose Williams <https://twitter.com/ZelWms>`_
+* `Samuel Wright <https://twitter.com/plaindocs>`_ *
 * You?
 
 
@@ -151,11 +160,9 @@ Members
 Website Team
 ------------
 
-These are the folks who maintain http://www.writethedocs.org and keep it up to date.
-The site is built with Sphinx and hosted on Read the Docs,
-so familiarity with these tools is a plus.
-It's also a great way to learn them,
-if you want!
+These are the folks who maintain http://www.writethedocs.org and keep it up to
+date. The site is built with Sphinx and hosted on Read the Docs, so familiarity
+with these tools is a plus. It's also a great way to learn them, if you want!
 
 Roles
 `````
@@ -174,9 +181,8 @@ Members
 Core Team
 ---------
 
-Think about the core team like you would the board of a non-profit.
-They are the folks who are the current leadership of the organization,
-who create new teams,
+Think about the core team like you would the board of a non-profit. They are the
+folks who are the current leadership of the organization, who create new teams,
 and are generally responsible for the community.
 
 Generally these folks have done one or more of the following:
@@ -187,7 +193,7 @@ Generally these folks have done one or more of the following:
 Roles
 `````
 
-* Enforce the :doc:`/code-of-conduct`
+* Handle :doc:`/code-of-conduct` incidents anywhere
 * Create and dissolve teams
 * Set the general direction for the community and long term goals and business models
 
@@ -203,15 +209,11 @@ Members
 Write the Docs Alumni
 ---------------------
 
+These are folks who have helped a lot in the past,
+but have moved on to other projects.
+We wouldn't be where we are without them,
+and want to make sure they aren't forgotten.
 
+* `Eric Redmond <https://twitter.com/coderoshi>`_
 * `Troy Howard <https://twitter.com/thoward37>`_
 * `Anthony Johnson <https://twitter.com/agjhnsn>`_
-
-
-Join a team!
-------------
-
-Our community is all volunteers who care about advancing the state of documentation in the world.
-If this is an interest of yours,
-we are always happy to have help.
-Feel free to contact anyone on this page about working together to make our community better!
