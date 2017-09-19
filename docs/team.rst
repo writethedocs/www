@@ -5,11 +5,11 @@ The different facets of the Write the Docs community is kept running smoothly by
 a wonderful team of folks. We are always looking for more people to help
 organize conferences and meetups, help out with websites and guides, or take
 leadership roles in the community. This page documents the roles that people are
-currently in.
+currently in charge.
 
 If you're interested in helping out, get in touch with someone on the team
-you're curious about. Messaging folks on the Write the Docs `Slack
-<http://slack.writethedocs.com/>`_ is probably the best way to get in touch with
+you're curious about. Messaging folks on the Write the Docs :doc:`slack`
+is probably the best way to get in touch with
 folks.
 
 .. note:: The folks with an asterisk (*) next to their names are the team leads.
@@ -20,6 +20,18 @@ folks.
    :local:
    :backlinks: none
    :depth: 1
+
+.. _conference-teams:
+
+Conference Teams
+----------------
+
+Each conference has a specific team that helps run that event.
+For this year,
+you can see who is helping out:
+
+* :doc:`Portland 2017 Team </conf/na/2017/team>`
+* :doc:`Prague 2017 Team </conf/eu/2017/staff>`
 
 .. _moderation-team:
 
@@ -36,7 +48,7 @@ Roles
 
 * Moderate the Forum and Slack
 * Serve as points of contact for any issues or questions
-* Enforce the :doc:`/code-of-conduct`
+* Handle :doc:`/code-of-conduct` incidents on Slack & Forum
 
 Members
 ```````
@@ -70,7 +82,6 @@ Members
 * `Margaret Eker <https://twitter.com/meker>`_
 * `Rose Williams <https://twitter.com/ZelWms>`_
 * You?
-
 
 Guide Coordination Team
 -----------------------
@@ -182,7 +193,7 @@ Generally these folks have done one or more of the following:
 Roles
 `````
 
-* Enforce the :doc:`/code-of-conduct`
+* Handle :doc:`/code-of-conduct` incidents anywhere
 * Create and dissolve teams
 * Set the general direction for the community and long term goals and business models
 
@@ -198,6 +209,11 @@ Members
 Write the Docs Alumni
 ---------------------
 
+These are folks who have helped a lot in the past,
+but have moved on to other projects.
+We wouldn't be where we are without them,
+and want to make sure they aren't forgotten.
 
+* `Eric Redmond <https://twitter.com/coderoshi>`_
 * `Troy Howard <https://twitter.com/thoward37>`_
 * `Anthony Johnson <https://twitter.com/agjhnsn>`_
