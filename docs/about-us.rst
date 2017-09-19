@@ -21,7 +21,7 @@ We want to:
 
 We don't want to:
 
-* Rely on corporations to support the community. While we welcome sponsorship and corporate contributions to our events, we prioritize tickets over sponsorship, in order to help foster an open and welcoming environment to our community. To that effect, for example, we limit the number of sponsored tables at our conferences. We also have a :doc:`code-of-conduct` section specifically for sponsors and affiliates, where we explicitly communicate that our corporate supporters must also operate in service to the community as a whole.
+* Rely on corporations to support the community. While we welcome sponsorship and corporate contributions to our events, we prioritize tickets over sponsorship, in order to help foster an open and welcoming environment to our community. To that effect, for example, we limit the number of sponsored tables at our conferences. We also have a :doc:`code-of-conduct` section specifically for sponsors and affiliates, where we explicitly set expectations of how they can engage with our community.
 
 Sustainability
 ~~~~~~~~~~~~~~
@@ -30,7 +30,7 @@ We want to:
 
 * Build a sustainable organization with paid staff to run the community operations instead of relying on volunteers for ongoing global maintenance and support. Our network of volunteers is invaluable, but we cannot expect people to "do it for free" in the long term.
 
-* Create stable infrastructure for the community to grow on top of so that we are not relying on specific individuals to manage ongoing operations. This allows for people to step up or down from teams and roles without damaging the framework of the community.
+* Create stable infrastructure for the community to grow on top of so that we are not relying on specific individuals to manage ongoing operations. This allows people to step up or down from teams and roles without damaging the framework of the community.
 
 We don't want to:
 
@@ -87,7 +87,7 @@ FAQ
 Why aren't you a non-profit?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* In order to even achieve an official non-profit tax status, one must venture on a long and arduous journey with a high legal, bureaucratic, and financial investment. When we researched this we realized that frankly, whatever benefits we might get simply don't justify the costs.
+* In order to achieve an official non-profit tax status, one must venture on a long and arduous journey with a high legal, bureaucratic, and financial investment. When we researched this we realized that frankly, whatever benefits we might get simply don't justify the costs.
 
 * The running costs of maintaining a non-profit status would require us to redirect money from the community to various accountants, lawyers, and administrative entities, rather than reinvest said money in operations that directly benefit the community. We do work with a bookkeeper to help us keep our taxes in order, but as an LLC, compliance is more simple and allows us to focus on what we can do directly for the community.
 

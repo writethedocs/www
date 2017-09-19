@@ -1,7 +1,7 @@
 Team
 ====
 
-The different facets of the Write the Docs community is kept running smoothly by
+The different facets of the Write the Docs community are kept running smoothly by
 a wonderful team of folks. We are always looking for more people to help
 organize conferences and meetups, help out with websites and guides, or take
 leadership roles in the community. This page documents the roles that people are
