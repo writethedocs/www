@@ -1,0 +1,11 @@
+{
+  "continent": ["na", "eu", "au"],
+  "year": "2018",
+  "city": "Portland",
+  "dateplace": "May 05-06, 2018, in Portland, Oregon",
+  "cfpdeadline": "The deadline",
+  "cfpnotification": "The deadline",
+  "ticketscorporate": "$450",
+  "ticketsindpendent": "$250",
+  "ticketsstudent": "$150"
+}
