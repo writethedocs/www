@@ -20,7 +20,7 @@ from sphinx.util.nodes import nested_parse_with_titles
 import ablog
 
 try:
-    # Python 2.6-2.7 
+    # Python 2.6-2.7
     from HTMLParser import HTMLParser
 except ImportError:
     # Python 3
@@ -31,6 +31,7 @@ exclude_patterns = [
     '_build',
     'include',
     '_data',
+    'conf/_cookiecutter',
 ]
 extensions = [
     'ablog',
@@ -236,7 +237,7 @@ Videos of {year}
 {{% endset %}}
 
 .. raw:: html
-   
+
    {{{{ output|indent(3) }}}}
 
 '''.format(year=year)
@@ -254,7 +255,7 @@ Videos from Write the Docs {series_title}
 {{% endset %}}
 
 .. raw:: html
-   
+
    {{{{ output|indent(3) }}}}
 
 '''.format(series=series, series_title=series.upper())
