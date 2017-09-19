@@ -93,8 +93,8 @@ Members
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_
 * You?
 
-Communication Team
-------------------
+Newsletter Team
+---------------
 
 These folks are in charge of communicating with the greater Write the Docs community.
 This is mainly done through our newsletter,
@@ -112,8 +112,23 @@ Members
 
 * `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_ *
 * `Hillary Fraley <https://github.com/hillaryfraley>`_
-
 * Volunteers Needed!
+
+
+Support Team
+------------
+
+Roles
+`````
+
+* Respond to emails from the community
+* Help folks with anything they need :)
+
+Members
+```````
+
+* `Rose Williams <https://twitter.com/ZelWms>`_
+* You?
 
 
 Social Media Team
@@ -156,18 +171,18 @@ Members
 * You?
 
 
-(Proposed) Council of Elders
-----------------------------
+Core Team
+---------
 
-Think about the council like you would the board of a non-profit.
+Think about the core team like you would the board of a non-profit.
 They are the folks who are the current leadership of the organization,
 who create new teams,
 and are generally responsible for the community.
 
 Generally these folks have done one or more of the following:
 
-* :doc:`Founded </origin-story>` the organization
 * Chaired a major Write the Docs :doc:`conference </conf/index>`
+* Done more than a year of volunteering to help make Write the Docs a lovely place to be
 
 Roles
 `````
@@ -180,8 +195,15 @@ Members
 ```````
 
 * `Eric Holscher <https://twitter.com/ericholscher>`_ *
-* `Troy Howard <https://twitter.com/thoward37>`_
 * `Mikey Ariel <https://twitter.com/thatdocslady>`_
+* `Mikey Ariel <https://twitter.com/thatdocslady>`_
+
+
+Write the Docs Alumni
+---------------------
+
+
+* `Troy Howard <https://twitter.com/thoward37>`_
 * `Anthony Johnson <https://twitter.com/agjhnsn>`_
 
 
