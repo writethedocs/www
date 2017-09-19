@@ -103,7 +103,7 @@ suppress_warnings = ['image.nonlocal_uri']
 # Our additions
 
 html_context = {
-    'conf_py_root': os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+    'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
     'conferences': load_conference_data(),
 }
 
