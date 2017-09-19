@@ -20,7 +20,7 @@ Schedule
 ^^^^^^^^
 
 .. datatemplate::
-   :source: /_data/au-2017-AM.yaml
+   :source: /_data/au-2017-am.yaml
    :template: include/schedule2017.rst
 
 
