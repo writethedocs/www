@@ -40,7 +40,7 @@ Student or Unemployed
 Purchase this ticket if you are currently enrolled as a student, or
 don't currently have a source of income.
 
-* {{cookiecutter.ticketstudent}} Student or Unemployed Tickets
+* {{cookiecutter.ticketsstudent}} Student or Unemployed Tickets
 
 Financial Assistance
 --------------------
