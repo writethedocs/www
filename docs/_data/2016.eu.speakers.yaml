@@ -1,534 +1,654 @@
-- title: Healthy Minds in a Healthy Community
-  abstract: "<p>Open source communities attract and boast passionate, idealistic people,
-    and many of us invest copious amounts of time and effort to contribute to our
-    projects and support our communities. This underlying emotional attachment can
-    make us more vulnerable to elevated stress, burnout and conflicts. And then
-    there are those of us who also manage mental illness.\nMore often than not,
-    we suffer these struggles in silence, feeling (and fearing) that we\u2019re
-    alone in our trouble. Here, our communities can make a huge difference, by building
-    a positive and safe environment where we can blossom and support ourselves and
-    our peers, and feel included.\nThis talk will take a look at open-source communities
-    through the eyes of various mental well-being issues and struggles, show various
-    things that some communities already do. We will also cover several new initiatives
-    from the community around Django, a common open-source web framework for Python,
-    to further promote the well-being of our community members. This will hopefully
-    inspire more communities to help foster healthy minds in a healthy environment.</p>"
-  speakers:
-  - details: ''
-    name: Erik Romijn
-    slug: erik-romijn
-    picture: erik-romijn.png
-    twitter: erikpub
-  youtubeId: A6oQKrdtr0c
-- title: Feedback handling, community wrangling, panhandling
-  abstract: '<p>Feedback is a big deal. As tech writers we want to receive adultation
-    when the docs rock, or constructive criticism when there is cleanup required.
-    Or EVEN BETTER, we want the engineers/community members/reddit readers/clowns
-    giving the feedback to come on board and help fix the problems.</p>
+-   abstract: '<p>Writers of software and writers of documentation practice a shared
 
-    <p>But. Actually tweaking the signal to noise ratio to something useful is really
-    difficult. Especially when you are curating a site as enormous as MDN, the content
-    of which is open licensed, multilingual, and open for public editing.</p>
+        art: we bestow abstractions with names. We know we''''ve succeeded when our
+        names
 
-    <p>In this talk, MDN writer Chris Mills discusses topics such as how to choose
-    the right feedback mechanism(s) for your situation, how to stem the torrent and
-    get the right kind of feedback and contributions (actually useful), effective
-    begging, stealing and borrowing, and how to balance being firm and keeping control
-    of your product with being diplomatic and being able to sleep at night.</p>'
-  speakers:
-  - details: ''
-    name: Chris Mills
-    slug: chris-mills
-    twitter: chrisdavidmills
-    picture: chris-mills.jpg
-  youtubeId: VabBD1MWdE8
-- title: 'Documentoring: Growing a "Love The Docs" community'
-  abstract: '<p>As documentarians, our primary goal is delivering the content that
-    users need in order to use our products. This might sound simple, but we are often
-    writing about complex systems, which will be used by people of varying skill levels.
-    Our final publications may have all the words in the right order, but sometimes
-    our biggest challenge is getting access to the right content in the first place.</p>
+        illuminate concepts, elicit a-ha moments, and empower users to put our product
 
-    <p>Deciding on what is the right content can often be hard, and extracting it
-    from the development team can be even harder. Some of us might be able to read
-    the codebase to decipher what information a user will need. Some of us might get
-    to sit in planning and strategy meetings to gain a thorough understanding of our
-    user and their documentation requirements. Most of us though will find something
-    in the middle - we sit with developers and engineers, build relationships, and
-    elbow our way into their process. </p>
+        to work. We know we''''ve failed when the names we''''ve chosen confuse, frustrate,
 
-    <p>This talk will look at several ways in which to mentor your engineering and
-    marketing specialists so that everyone in your team can contribute to the documentation
-    process. I call this "Documentoring" - its about training the people around you
-    to understand the requirements of a documentarian, and to truly value the docs
-    as part of the product lifecycle.</p>
+        misguide, or offend.</p>
 
-    <p>Through my experience at IBM, and then at a small startup in Bristol, I''ve
-    seen (and tried) various techniques at getting everyone in your team invested
-    in quality documentation. I''ll share stories of my successes and failures, and
-    show you how documentation really can be a team effort, even if you stand alone
-    in your company as the sole owner of the docs.</p>'
-  speakers:
-  - details: ''
-    name: David Oliver
-    slug: david-oliver
-    twitter: DaveOliver79
-    picture: chris-ward.png
-  youtubeId: 5LRagMvlEuk
-- title: When bad screenshots happen to good writers
-  abstract: '<p>You have your content moving at a swift pace, your documents are getting
-    reviewed in a timely fashion (surprise!) and you are nicely heading towards your
-    release milestone. The only thing missing are some key screenshots that you need
-    to put in before you publish your documentation. What you get instead are some
-    hideous images posing as screenshots, that were captured randomly, bears no resemblance
-    to your instructions and would make no sense whatsoever to the end user.</p>
+        <p>Naming things well matters. Too often, though, good names are hard to come
 
-    <p>We (documentarians) know how this usually pans out.</p>
+        by, and bad names are hard to change.</p>
 
-    <p>This talk is about when bad screenshots happen to good writers.</p>
+        <p>Using a lengthy and ever-growing list of Terrible, Horrible, No Good, Very
 
-    <p>In my presentation, I will talk about:</p>
+        Bad names encountered during my career as an engineer, this talk will address:</p>
 
-    <ol>
+        <li><p>Why is it so hard to name things well in software?</li></p>
 
-    <li>Why do we need screenshots and who provides these screenshots?</li>
+        <li><p>Why do bad names persist?</li></p>
 
-    <li>What is the outcome of bad screenshots?</li>
+        <li><p>What are some heuristics for assessing how good or bad a name is?</li></p>
 
-    <li>Can we do something about acquiring screenshots in a standard manner?</li>
+        <li><p>How has technology hampered efforts to name things well?</li></p>
 
-    <li>What are some best practices everyone can use for screenshots?</li>
+        <li><p>How can technology help our efforts to name things well?</li></p>
 
-    <li>Some examples of really useless screenshots.</li>
+        <li><p>How can documentarians and developers work together to name things
+        better?</p></li>
 
-    </ol>'
-  speakers:
-  - details: ''
-    name: Swapnil Ogale
-    slug: swapnil-ogale
-    twitter: swapnilogale
-    picture: swapnil-ogale.jpg
-  youtubeId: SU2mRSaa1yQ
-- title: Beyond Software - Learning from Other Technical Writers
-  abstract: '<p>Outside of my technical writing work for software projects I have
-    been creating a board game. A board game also requires mechanics to function and
-    players to clearly understand how these mechanics work to use and appreciate fully.</p>
+        '
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/even-naming-this-talk-is-hard-ruthie-bendor
+    series: Write the Docs EU
+    series_slug: eu
+    slug: even-naming-this-talk-is-hard-ruthie-bendor
+    speakers:
+    -   details: ''
+        img_file: ruthie-bendor.png
+        name: Ruthie BenDor
+        picture: ruthie-bendor.png
+        slug: ruthie-bendor
+        twitter: unruthless
+    title: Even Naming This Talk Is Hard
+    year: 2017
+-   abstract: "<p>As the old saying goes, \u201Cyou never get a second chance to make\
+        \ a first impression\u201D. When you first meet someone new (not least at\
+        \ a conference for documentarians!), those first few moments set the tone.\
+        \ In exactly the same way, the experience your user has when they first \u201C\
+        meet\u201D your product and get to grips with it will set the tone for your\
+        \ entire relationship with them.</p>\n<p>As documentarians, we so often focus\
+        \ on building detailed and exhaustive \u201Creference\u201D documentation,\
+        \ but in doing that, we forget to provide the right kind of \u201Cgetting\
+        \ started\u201D experience for a user brand new to our product. </p>\n<p>At\
+        \ GoCardless, we spent the first years of the life of our platform focused\
+        \ on building high-quality reference documentation. But in Summer 2016, we\
+        \ kicked off a big piece of work on a new set of resources: a \u201Cgetting\
+        \ started\u201D guide for our API, getting the user from nought-to-sixty on\
+        \ our developer platform.</p>\n<p>To make the right first impression, we had\
+        \ to turn things on their head and think from the reader\u2019s perspective.\
+        \ From this perspective, what we\u2019ll write and build looks very different\
+        \ to our \u201Creference\u201D documentation, seeking not only to teach the\
+        \ user how to use our product, but also to explain the fundamental concepts\
+        \ behind it and to bring the user to the all-important \u201Caha!\u201D moment\
+        \ where they see the value in what we\u2019re offering.</p>\n<p>In this talk,\
+        \ I\u2019ll go through:</p>\n<ul>\n<li><p>the fundamental differences between\
+        \ \u201Creference\u201D and \u201Cgetting started\u201D documentation</p></li>\n\
+        <li><p>the lessons we learnt on the way as we experimented and spent extensive\
+        \ time with end users</p></li>\n<li><p>what we built</p></li>\n<li><p>the\
+        \ results \u2014 from our users\u2019 perspective, and in terms of how we\
+        \ build demand within the company for further \u201Cgetting started\u201D\
+        \ content</p></li>\n</ul>"
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/you-never-get-a-second-chance-to-make-a-first-impression-writing-great-getting-started-documentation-tim-rogers
+    series: Write the Docs EU
+    series_slug: eu
+    slug: you-never-get-a-second-chance-to-make-a-first-impression-writing-great-getting-started-documentation-tim-rogers
+    speakers:
+    -   details: ''
+        img_file: tim-rogers.jpg
+        name: Tim Rogers
+        picture: tim-rogers.jpg
+        slug: tim-rogers
+        twitter: timrogers
+        website: https://timrogers.co.uk
+    title: '"You never get a second chance to make a first impression": writing great
+        "getting started" documentation'
+    year: 2017
+-   abstract: "<p>GitHub is migrating its public API system from REST to GraphQL.\
+        \ \nIn this talk, I'd like to go over my personal experiences writing API\
+        \ documentation for ten years, and why GraphQL's \"everything needs documentation\"\
+        \ approach is a much needed improvement. I'd go over past API tooling and\
+        \ methodologies, current best practices to make \"sane\" autogenerated API\
+        \ documentation, and why I think that GraphQL is a boon for technical writers,\
+        \ developers, and end users.</p>"
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/finally-trustworthy-and-sensible-api-documentation-with-graphql-garen-torikian
+    series: Write the Docs EU
+    series_slug: eu
+    slug: finally-trustworthy-and-sensible-api-documentation-with-graphql-garen-torikian
+    speakers:
+    -   details: ''
+        img_file: garen-torikian.png
+        name: Garen Torikian
+        picture: garen-torikian.png
+        slides: https://speakerdeck.com/gjtorikian/finally-trustworthy-and-sensible-api-documentation-with-graphql
+        slug: garen-torikian
+        twitter: gjtorikian
+        website: https://www.gjtorikian.com
+    title: 'Finally! Trustworthy and Sensible API Documentation with GraphQL '
+    year: 2017
+-   abstract: "<p>As a former journalist, I tend to think in terms of storytelling.\
+        \ As an open source evangelist, I invite you to do the same. What you share\
+        \ on GitHub tells a story about you, your development practices, and your\
+        \ openness to others in the open source community. If you're motivated to\
+        \ gain users, contributors, and positive feedback about your projects, then\
+        \ building a compelling, coherent narrative is essential. </p>\n<p>In this\
+        \ presentation, I'll share insights gained from curating Zalando's GitHub\
+        \ repository so we can tell a better story. I'll describe how we've used GitHub\
+        \ and other tools to create guidelines and processes that bring sanity to\
+        \ our storytelling. And I'll talk about how focusing on higher-quality docs\
+        \ has helped us to instill a stronger product mindset in our development teams.\
+        \ Writing a README, for example, offers an opportunity to tell the world why\
+        \ a project exists, how it works (and why), what makes it unique, and how\
+        \ it might evolve over time. I'll discuss how this process not only empowers\
+        \ developers, but also those of us who are technical writers and storytellers\u2014\
+        offering several real-life examples to (hopefully) inspire you.</p>\n<p>From\
+        \ 400+ projects of widely differing quality, reliability and maintenance levels,\
+        \ we've winnowed our OSS offerings at Zalando to make our highest-quality\
+        \ work more discoverable and user-friendly. If your organization is facing\
+        \ GitHub-bloat challenges, looking for ways to manage your repos more effectively,\
+        \ or wondering how better docs can help your OSS efforts succeed, you might\
+        \ find some help here.</p>"
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/telling-a-great-story-on-github-lauri-apple
+    series: Write the Docs EU
+    series_slug: eu
+    slug: telling-a-great-story-on-github-lauri-apple
+    speakers:
+    -   details: ''
+        img_file: lauri-apple.jpg
+        name: Lauri Apple
+        picture: lauri-apple.jpg
+        slug: lauri-apple
+        twitter: lauritaapplez
+        website: https://github.com/LappleApple/feedmereadmes
+    title: Telling a Great Story on GitHub
+    year: 2017
+-   abstract: "<p>Nearly everyone agrees that good documentation is important to the\
+        \ success of software projects, and yet very few projects actually have good\
+        \ documentation. Even successful projects often have barely adequate documentation.</p>\n\
+        <p>Often, it\u2019s not for want of effort - the project\u2019s developers\
+        \ have worked hard on it - nor for lack of documentation - the authors have\
+        \ produced a lot of it.</p>\n<p>It simply turns out to be not very good -\
+        \ not helpful enough for the users who should be able to rely on it, and a\
+        \ depressing chore for the authors who have to maintain it.</p>\n<p>The good\
+        \ news is that both these problems can be solved by understanding how documentation\
+        \ works, and that there are four distinct kinds of documentation - with four\
+        \ distinct functions. The four kinds of documentation are:</p>\n<ul>\n<li><p>learning-oriented\
+        \ tutorials</p></li>\n<li><p>goal-oriented how-to guides</p></li>\n<li><p>understanding-oriented\
+        \ discussions</p></li>\n<li><p>information-oriented reference material</p></li>\n\
+        </ul>\n<p>Structuring documentation according to its four distinct functions\
+        \ helps ensure that each of them is adequately served. It also makes it far\
+        \ easier to write and maintain.</p>\n<p>Using real-life examples I\u2019ll\
+        \ draw out the key functions of documentation, and how they map onto different\
+        \ ways of writing it. Putting this into practice is simple when armed with\
+        \ some basic guidelines. The benefits are huge, and available with a minimum\
+        \ of effort.</p>\n<p>I won\u2019t be discussing documentation tools or software\
+        \ or other topics that have been covered amply elsewhere, but some neglected\
+        \ and poorly-understood aspects of documentation that will make your software\
+        \ projects and teams more successful.</p>"
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida
+    series: Write the Docs EU
+    series_slug: eu
+    slug: the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida
+    speakers:
+    -   details: ''
+        img_file: daniele-procida.jpg
+        name: Daniele Procida
+        picture: daniele-procida.jpg
+        slug: daniele-procida
+        twitter: EvilDMP
+        website: ''
+    title: The four kinds of documentation, and why you need to understand what they
+        are
+    year: 2017
+-   abstract: '<p>You''ve heard about diversity problems in tech, right? We know the
+        problem exists at every point in the process: education, internship opportunities,
+        hiring. We don''t talk much about what happens to the people we <em>do</em>
+        work with. </p>
 
-    <p>As part of my research for writing game manuals I looked at manuals for furniture,
-    electronics, and cars to see how they explain to users how to setup and use their
-    products.</p>
+        <p>As documentarians, we spend a lot of time thinking about the best words
+        to use for our products, tutorials, manuals. We know that words matter. "Microaggressions"
+        are the small indignities that people of color, non-cis-gendered folks, women,
+        and others experience on a daily basis. Microaggressions at work tell us,
+        over and over, that we don''t really belong in that workplace. So let''s talk
+        about the words we use with our coworkers. Let''s talk about how we can all
+        make diversity a daily practice at work, not just a hiring problem.</p>'
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/sticks-stones-microaggressions-inclusive-language-at-work-cory-williamson-cardneau
+    series: Write the Docs EU
+    series_slug: eu
+    slug: sticks-stones-microaggressions-inclusive-language-at-work-cory-williamson-cardneau
+    speakers:
+    -   details: ''
+        img_file: cory-williamson-cardneau.png
+        name: Cory Williamson-Cardneau
+        picture: cory-williamson-cardneau.png
+        slides: http://cory.williamson-cardneau.com/blog/inclusion-resources
+        slug: cory-williamson-cardneau
+        twitter: cory_will
+        website: http://cory.williamson-cardneau.com/
+    title: Sticks & Stones... Microaggressions & Inclusive Language at Work
+    year: 2017
+-   abstract: "<p>How can you easily retrieve your (google) docs? How can you keep\
+        \ the whole picture in mind?</p> <p>The first step is to give docs consistent\
+        \ names, but we also need to check our database regularly, and decide what\
+        \ to keep or destroy. What should we base those decisions on? In this talk\
+        \ I\u2019ll give an overview of how you can efficiently handle your docs through\
+        \ the lifecycle model (planning - creating - keeping/destroying) used by archivists/records\
+        \ managers. What is important to keep in mind? How can you organise your own\
+        \ database or that of a company? As a conclusion, I will help you to create\
+        \ a \"manage the docs\" checklist.</p>"
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/manage-your-docs-like-an-archivist-kathleen-de-roo
+    series: Write the Docs EU
+    series_slug: eu
+    slug: manage-your-docs-like-an-archivist-kathleen-de-roo
+    speakers:
+    -   details: ''
+        img_file: kathleen-de-roo.jpg
+        name: Kathleen De Roo
+        picture: kathleen-de-roo.jpg
+        slug: kathleen-de-roo
+        twitter: ''
+        website: ''
+    title: Manage your docs like an archivist
+    year: 2017
+-   abstract: '<p>Free software projects, community-oriented online services and grassroots
+        technological organizations often rely on volunteer-based documentation, both
+        as regards writing end-user guides and localization. This can produce inconsistencies
+        in style and approaches and, in the end, compromise the usability of the tools
+        or services described in the documentation. There are solutions, like publishing
+        guidelines, enabling volunteer contributions only through git pull requests,
+        or hiring coordinators and reviewers.</p>
 
-    <p>In this presentation I will look at how the technical writing skills of different
-    industries can learn from each other.</p>
+        <p>During this discussion, we will exchange reflections and tips on the best
+        practices for volunteer-based documentation, so as to start a conversation
+        on how to improve this process in free software projects and in efforts that
+        rely on limited funds but on a strong community of eager volunteers.</p>
 
-    <p>This will include:</p>
+        <p>Depending on the number of participants, the discussion can take place
+        in one group or be split in smaller groups that will refer to the other participants
+        during the last 10 minutes of the discussion.</p>'
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/managing-community-driven-documentation-how-to-herd-doc-writing-cats-through-motivation-and-a-pinch-of-automation-floriana-pagano
+    series: Write the Docs EU
+    series_slug: eu
+    slug: managing-community-driven-documentation-how-to-herd-doc-writing-cats-through-motivation-and-a-pinch-of-automation-floriana-pagano
+    speakers:
+    -   details: ''
+        img_file: floriana-pagano.jpg
+        name: Floriana Pagano
+        picture: floriana-pagano.jpg
+        slug: floriana-pagano
+        twitter: reginazabo
+        website: https://www.accessnow.org/help
+    title: Managing community-driven documentation - how to herd doc-writing cats
+        through motivation and a pinch of automation
+    year: 2017
+-   abstract: "<p>This presentation explores the evolution of language in technical\
+        \ documentation. </p>\n<p>The reign of the long-form narrative in tech docs\
+        \ is long gone. Nobody wants to read a 600 page user manual cover to cover\
+        \ before using an application or API. Users crave bite-size chunks of information,\
+        \ and they want them exactly at the point of need. They want just enough information\
+        \ to complete their task and not one conjunction more. In other words, users\
+        \ want high-calorie nutrient-dense documentation, and they want it fast.</p>\n\
+        <p>To satisfy users, we documentarians embrace minimalism and topic-based\
+        \ architectures such as DITA. We organize content by type: task, concept,\
+        \ reference, etc. We use active voice. We keep sentences short. And consciously\
+        \ or not, we\u2019ve begun to challenge time-honored tech writing traditions,\
+        \ such as prohibitions on future tense, contractions, idioms, and colloquialisms\
+        \ \u2013 at least in American English documentation. </p>\n<p>What\u2019s\
+        \ more, it\u2019s no longer enough for docs to be technically accurate. They\
+        \ must also use contemporary themes familiar to users and, whenever possible,\
+        \ humor. Exhibit one is this Google Chrome error:</p>\n<p>\u201CAw Snap! Something\
+        \ went wrong while displaying this webpage.\u201D</p>\n<p>And the folks at\
+        \ ReadMe.io used this line to describe a Delete button in their interface\
+        \ (from the 2007 film, Juno):</p>\n<p>\u201CThis is one doodle that can\u2019\
+        t be undid, homeskillet.\u201D</p>\n<p>Without question, the language we use\
+        \ in technical documentation is changing. Contractions, idioms, and colloquialisms,\
+        \ which were once banned as potentially confusing to translators, are now\
+        \ commonplace, and we use them to make our docs sound friendlier. Jargon abounds,\
+        \ the word \u201Cplease\u201D is no longer taboo, and exclamation points are\
+        \ not only allowed, they\u2019re encouraged! They show enthusiasm for the\
+        \ subject!!</p>\n<p>In this presentation, we\u2019ll mine the docosphere for\
+        \ current trends, innovations, and answers to these questions: \n\u2022  \
+        \ How has the language in tech docs evolved over the past decade, and where\
+        \ is it headed?\n\u2022   What are the minimum daily requirements for language\
+        \ in this brave new world: Correct grammar, complete sentences, parallel construction,\
+        \ proper word choice, clarity, brevity?\n\u2022   What is the role of humor\
+        \ in tech docs?\n\u2022   Is it OK for tech docs to use colloquialisms, idioms,\
+        \ contractions, and even emojis? \n\u2022   What are the implications of this\
+        \ evolution on localization? </p>"
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/aw-snap-the-docs-they-are-a-changin-with-apologies-to-bob-dylan-kate-wilcox
+    series: Write the Docs EU
+    series_slug: eu
+    slug: aw-snap-the-docs-they-are-a-changin-with-apologies-to-bob-dylan-kate-wilcox
+    speakers:
+    -   details: ''
+        img_file: kate-wilcox.jpg
+        name: Kate Wilcox
+        picture: kate-wilcox.jpg
+        slug: kate-wilcox
+        twitter: ''
+        website: http://gallery.yulefrog.com/
+    title: "Aw Snap!  The Docs, They Are A-Changin\u2019 (with apologies to Bob Dylan)"
+    year: 2017
+-   abstract: "<p>The usual way of writing a technical book is to open the Word or\
+        \ LibreOffice application, to write some content, to make a backup, to send\
+        \ it by email to the publisher and to deal with the feedbacks. And repeat.</p>\n\
+        <p>However in 2017 we can do differently by using open formats like Asciidoc,\
+        \ by using version control to propagate changes, by using collaborative platforms\
+        \ like GitHub or GitLab to collate feedbacks in any form as well as transforming\
+        \ text and code into readable and interactive artefacts.</p>\n<p>It gives\
+        \ us a unique opportunity to approach the whole process of writing in term\
+        \ of \"content experience\", of \"toolchain\" and of \"distribution\".</p>\n\
+        <p>In the end, a \"book\" becomes a \"writing format\" as we can reuse the\
+        \ same pattern to manage any kind of \"content\" \u2014 articles, publications,\
+        \ essays, documentation \u2014 that we can transform in physical books, e-books,\
+        \ interactive web pages etc.</p>"
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/writing-a-book-in-2017-thomas-parisot
+    series: Write the Docs EU
+    series_slug: eu
+    slides: https://oncletom.io/talks/2017/writethedocs/
+    slug: writing-a-book-in-2017-thomas-parisot
+    speakers:
+    -   details: ''
+        img_file: thomas-parisot.jpg
+        name: Thomas Parisot
+        picture: thomas-parisot.jpg
+        slug: thomas-parisot
+        twitter: oncletom
+        website: https://oncletom.io/
+    title: 'Writing a book in 2017 '
+    year: 2017
+-   abstract: <p>Any doc - every doc - that you deliver, it's only as useful as the
+        requirements it satisfies. Typical requirements revolve around target audience,
+        method of delivery, technical     limitations. But after the doc is done,
+        then come unexpected expectations.</p> <p>Suddenly, your docs should not only
+        make users happy, but also help your stakeholders achieve their aims - move
+        up a career ladder, impress the boss, get a bigger paycheck.</p> <p>The success
+        of your docs depends on things you are never told. This talk is about reading
+        your stakeholders and deducing the ultimate requirements.</p>
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/requirements-that-you-didn-t-know-were-there-lesia-zasadna
+    series: Write the Docs EU
+    series_slug: eu
+    slug: requirements-that-you-didn-t-know-were-there-lesia-zasadna
+    speakers:
+    -   details: ''
+        img_file: lesia-zasadna.jpg
+        name: Lesia Zasadna
+        picture: lesia-zasadna.jpg
+        slug: lesia-zasadna
+        twitter: ''
+        website: ''
+    title: Requirements that you didn't know were there
+    year: 2017
+-   abstract: '<p>In this presentation I will explore other ways to communicate concepts
+        beyond words to show that documentation needn''t just be about technical writing.</p>
 
-    <ul>
+        <p>In the first part of the presentation I will briefly cover theories and
+        principles behind forms of communication and what documentarians can learn
+        from them. Topics such as:</p>
 
-    <li>Game Manuals and tutorials</li>
+        <ul>
 
-    <li>Assembly instructions (e.g. those wonderful Ikea inserts)</li>
+        <li><p>Portraying meaning in images: Iconography, maps, manuals</p></li>
 
-    <li>Service Manuals for electronics</li>
+        <li><p>Non-verbal conversation: Body language, ways of speaking</p></li>
 
-    </ul>
+        <li><p>Fidelity: Sketch notes, simplicity, style</p></li>
 
-    <p>And as part of looking at these case studies, the presentation will cover:</p>
+        </ul>
 
-    <ul>
+        <p>During each of these topics I will present in the style of the topic, so
+        expect something a little different.</p>
 
-    <li>Iconography vs Text</li>
+        <p>In the second practical part of the presentation I will take elements of
+        the theory and applying them practically. I will start by looking at screenshots
+        and diagrams. When and how to use them, what they should show, and how to
+        manage them.</p>
 
-    <li>The limitations of updating print manuals</li>
+        <p>Then I''ll cover taking screenshots to the next level with animated gifs
+        and screen recordings that show clear user flows and expected results.</p>
 
-    <li>Reducing language and cultural colloquialisms</li>
+        <p>Finally in this part of the presentation I will cover interactive documentation,
+        and the options for allowing readers to directly manipulate and experiment
+        with documentation and directly see inputs and outputs.</p>
 
-    <li>Identifying what needs to be said and what doesn''t</li>
+        <p>In summary, our work typically appears on one of the most dynamic platforms
+        (the web) that has ever existed, let''s all do more with it!</p>'
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/documentation-beyond-words-chris-ward
+    series: Write the Docs EU
+    series_slug: eu
+    slug: documentation-beyond-words-chris-ward
+    speakers:
+    -   details: ''
+        img_file: chris-ward.png
+        name: Chris Ward
+        picture: chris-ward.png
+        slug: chris-ward
+        twitter: chrischinch
+        website: gregariousmammal.com
+    title: Documentation beyond words
+    year: 2017
+-   abstract: "<p>For 22+ years, I am working in IT \u2013 most of this time in the\
+        \ \u201Cbusiness-related\u201D part of the game. Roughly a year ago, I decided\
+        \ to change something. Well \u2013 still working in IT, and still working\
+        \ in the same company \u2026  But I moved from a Product Marketing role (which\
+        \ I hold for about 17 years) to R&amp;D, because the documentation team \u201C\
+        made me an offer I couldn\u2019t refuse\u201D. </p>\n<p>Of course I interacted\
+        \ with many of our engineers before, and of course I also knew most of the\
+        \ documentation team members before. But in retrospective, I can say that\
+        \ I somehow lived on \u201Canother planet\u201D before, and that my first\
+        \ year as documentarian in an open source software company was definitely\
+        \ deeply eye-opening for me. </p>\n<p>If you are curious now, join the talk\
+        \ and hear more about my main takeaways regarding documentation in general\
+        \ and the experiences with my team in particular. </p>"
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/an-alien-looking-from-the-outside-in-main-takeaways-after-one-year-in-documentation-meike-chabowski
+    series: Write the Docs EU
+    series_slug: eu
+    slug: an-alien-looking-from-the-outside-in-main-takeaways-after-one-year-in-documentation-meike-chabowski
+    speakers:
+    -   details: ''
+        img_file: meike-chabowski.png
+        name: Meike Chabowski
+        picture: meike-chabowski.png
+        slug: meike-chabowski
+        twitter: MChabowski
+        website: ''
+    title: 'An Alien Looking From the Outside In: Main Takeaways After One Year in
+        Documentation'
+    year: 2017
+-   abstract: "<p>It could happen to you: your project is canceled, your team is \u201C\
+        reorganized\u201D, or your company is closing its doors. Some or all of your\
+        \ software, service, or API may not be long for this world. What will you\
+        \ say to the people using your software? In this talk, you\u2019ll learn how\
+        \ to avoid a communications disaster when it\u2019s time to break bad news\
+        \ to your users.</p>\n<p>Whether you\u2019re deprecating significant features\
+        \ or shutting down entirely, you still have a chance to make life better\u2014\
+        or at least a little less worse\u2014for the people who have come to rely\
+        \ on your work. In this talk, you\u2019ll learn how to:</p>\n<ul>\n<li><p>plan\
+        \ your shutdown communications to make sure no users get left behind</p></li>\n\
+        <li><p>let your users down easy with the appropriate voice, tone, and content</p></li>\n\
+        <li><p>cope with a stressful situation</p></li>\n</ul>\n<p>From your initial\
+        \ announcement to your service\u2019s last day, you\u2019ll learn how to say\
+        \ goodbye in a way that\u2019s good for you and your soon-to-be-former users.</p>"
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/deprecate-and-destroy-documenting-your-software-s-last-days-daniel-d-beck
+    series: Write the Docs EU
+    series_slug: eu
+    slug: deprecate-and-destroy-documenting-your-software-s-last-days-daniel-d-beck
+    speakers:
+    -   details: ''
+        img_file: daniel-d-beck.jpg
+        name: Daniel D. Beck
+        picture: daniel-d-beck.jpg
+        slug: daniel-d-beck
+        twitter: ddbeck
+        website: https://ddbeck.com
+    title: "Deprecate and destroy: documenting your software\u2019s last days"
+    year: 2017
+-   abstract: '<p>Created in 2016, Tech Writers Without Borders aims to connect technical
+        communicators with nonprofits seeking help with their documentation and training
+        materials.</p>
 
-    </ul>
+        <p>Using examples from our work with iNERDE, a social enterprise seeking to
+        empower West African youth with Science, Technology, Engineering and Math
+        education, I will describe the many ways in which technical communicators
+        can make a real difference to the operational effectiveness of nonprofits
+        and the lives of those they serve.</p>
 
-    <p>And by the end of the presentation I hope that everyone will have learnt a
-    lot from each other and realize that we''re all trying to achieve the same thing(s).</p>'
-  speakers:
-  - details: ''
-    name: Chris Ward
-    slug: chris-ward
-    twitter: chrischinch
-    picture: chris-ward.png
-  youtubeId: pfLw8WmQ3nM
-- title: 'API documentation: Exploring the information needs of software developers'
-  abstract: "<p>The success of an API crucially depends on how well its documentation
-    meets the information needs of software developers. But what information do
-    developers need? What information do they want, and what information are they
-    actually using when starting to learn a new API and solve programming tasks
-    with it?\nIn this talk, I will present the results of some empirical studies
-    I conducted with my team to better understand the information needs of software
-    developers. One the one hand, we ran more than 20 semi-structured interviews
-    with junior and senior developers and asked them \u2013 among other things \u2013
-    to tell us about the questions they raise first when approaching a new API,
-    the type of documentation they look for, and general expectations and experiences
-    regarding API documentation. Key findings derived from the interviews were then
-    followed up on by a standardized survey in which more than 110 developers participated.
-    Our second study took a different approach. Instead of asking developers what
-    they find important about API documentation, we asked them to solve a few tasks
-    on a simple (REST)-API that was unfamiliar to them. The goal of this study was
-    to observe how the developers approach the tasks and which pieces of the documentation
-    provided with the test API they actually use. Besides presenting the design
-    and main findings of our studies, I will also discuss implications the results
-    may have regarding the contents, structure and design of API documentation.</p>"
-  speakers:
-  - details: ''
-    name: Michael Meng
-    slug: michael-meng
-    twitter: ''
-    picture: michael-meng.jpg
-  youtubeId: soQSOBwiXdA
-- title: Writing as a non-native speaker
-  abstract: '<p>Writing professionally in English as a non-native speaker is a terrifying
-    task sometimes. "The limits of my language mean the limits of my world." You have
-    less limit when writing in your mother tongue. And you may experience hard boundaries
-    when you have to deal with other languages on a professional level.</p>
+        <p>If you, too, are interested in volunteering your skills for social impact,
+        this session will hopefully inspire you to action, or, at the very least encourage
+        you to view the value of your craft in a new light.</p>
 
-    <p>As a beginner (non-native English) content creator, I had hard times during
-    my work. Most of the problems came from me because the lack of confidence and
-    the lack of practice. To grow faster, I had to build a process (rather a routine)
-    that I can follow during my work on a daily basis. I had to find the most effective
-    supporting tools. And maybe the most important: I had to figure out how can I
-    keep myself motivated in spite of every failure.</p>
+        title: ''Tech Writers Without Borders: Making the world a better place, one
+        (numbered) step at a time''
 
-    <p>How can a junior writer overcome the initial difficulties? My presentation
-    tries to answer this question through real life examples to help other juniors
-    in their struggles. And offers some writing tools, habits, and methods that may
-    be worth to take a chance.</p>
+        slides: https://speakerdeck.com/sculshaw/making-the-world-a-better-place-one-numbered-step-at-a-time'
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/
+    series: Write the Docs EU
+    series_slug: eu
+    slug: ''
+    speakers:
+    -   details: ''
+        img_file: stuart-culshaw.jpg
+        name: Stuart Culshaw
+        picture: stuart-culshaw.jpg
+        slug: stuart-culshaw
+        twitter: ouebguy
+        website: https://twwb.org/
+    year: 2017
+-   abstract: "<p>In the workplace we experience team-building exercises. The focus\
+        \ there is on many-to-many relationships to help people work well in groups.\
+        \ At the other end of the spectrum we have opportunities for personal development\
+        \ where the focus is on just one individual. </p>\n<p>Documentarians inhabit\
+        \ our own special place on this spectrum. It\u2019s clearly defined and, in\
+        \ the world of software development, it\u2019s unusual. We typically work\
+        \ one-on-one with subject-matter experts. Who ever has training for that?</p>\n\
+        <p>The surprising answer is: \u201Clots of people\u201D. Doctors, for example.\
+        \ Teachers, despite the fact that they normally work with groups. The amazing\
+        \ stewards at my local beer festival. They walk cheerfully into tense situations\
+        \ and leave guests smiling.</p>\n<p>We've been left to follow our instincts\
+        \ for too long. It's time to acknowledge this and to discuss strategies for\
+        \ change.</p>\n<p>There are valuable things we can learn from other fields.</p>"
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/one-on-one-101-ed-stenson
+    series: Write the Docs EU
+    series_slug: eu
+    slug: one-on-one-101-ed-stenson
+    speakers:
+    -   details: ''
+        img_file: ed-stenson.jpg
+        name: Ed Stenson
+        picture: ed-stenson.jpg
+        slug: ed-stenson
+        twitter: edstenson
+        website: ''
+    title: One-on-One 101
+    year: 2017
+-   abstract: '<p>When starting a new project, developers, myself included, usually
+        get right into hacking things, like tinkering with libraries, that we would
+        like to learn or solving a particular problem as quickly a possible. Occasionally
+        we also decide to publish the resulting project to a software repository such
+        as PyPI for Python or NPM for Node.js etc., so that others can use our nifty
+        code, submit a pull request and maybe even form a community around the project.</p>
 
-    <p>I would like to present what I''ve learned during my journey so far.</p>'
-  speakers:
-  - details: ''
-    name: "Istv\xE1n Zolt\xE1n Szab\xF3"
-    slug: istvan-zoltan-szabo
-    twitter: szabosteve
-    picture: istvan-zoltan-szabo.jpg
-  youtubeId: KWqhW4Guo5k
-- title: Poll the Docs
-  abstract: '<p>The Write the Docs community has been growing over the past few years,
-    and we''re incredibly happy to see the wide diversity that it contains. In the
-    beginning of 2016 we put together a survey to investigate how people are doing
-    their jobs, what the current status is of  documentation, and what the future
-    will bring. We''re calling this effort "Poll the Docs".</p>
+        <p>As the creator, you might be lucky and someone will find your project on
+        the front-page of GitHub or maybe eben Hacker News or Reddit. What happens
+        next is on you really. But what does that mean?</p>
 
-    <p>Thanks to the 100+ participants who already filled it out and shared their
-    experiences and thoughts about documentation. We will be able to share insights
-    about the demographic background of the community, how documentarians usually
-    start working in this field and give an overview of the most supported practises,
-    tools, languages and skills. </p>'
-  speakers:
-  - details: ''
-    name: "Kata Nagygy\xF6rgy"
-    slug: kata-nagygyorgy
-    twitter: NagygyorgyKata
-    picture: kata-nagygyorgy.jpg
-  youtubeId: nXEpyO6tNX8
-- title: Checklist the Docs
-  abstract: "<p>The aviation industry has made flying long distances at high speeds
-    one of the safest ways to travel. How did they do it? In part with the help
-    of the humble but effective checklist! In this talk, you\u2019ll learn to adapt
-    the checklist practices of high-risk environments, like flight decks and operating
-    rooms, to avoid mistakes and improve your documentation process.</p>\n<p>Have
-    you ever missed an important step that you\u2019ve done a hundred times before,
-    or are you worried that you might someday? Or have you ever repeatedly made
-    the same, avoidable mistake? A well-designed checklist might help you avoid
-    errors large and small and increase confidence in your workflow. In this talk,
-    you\u2019ll learn:</p>\n<ul>\n<li>How to write a checklist that you\u2019ll
-    actually want to use</li>\n<li>How to choose the right time and place to follow
-    your checklist</li>\n<li>How to extend your checklists with automation or teamwork</li>\n
-    </ul>\n<p>Inspired by research and practices in aerospace safety (such as \u201C
-    Human Factors of Flight Deck Checklists: The Normal Checklist\u201D by Degani
-    &amp; Wiener), medical safety (such as \u201CThe Checklist Manifesto\u201D by
-    Atul Gawande), and cognitive psychology (such as \u201CHuman Error\u201D by
-    James Reason), this talk will guide you through the process of making and using
-    checklists in the day-to-day work of creating documentation.</p>\n<p>From what
-    distinguishes a checklist from a to-do list to developing checklist habits,
-    you\u2019ll learn how to use checklists to help you write the docs.</p>"
-  speakers:
-  - details: ''
-    name: Daniel Beck
-    slug: daniel-beck
-    twitter: ddbeck
-    picture: daniel-d-beck.jpg
-  youtubeId: mltBPPGsuTg
-- title: What Writing Fiction Teaches You About Writing Documentation
-  abstract: "<p>Writing fiction and writing documentation have much more in common
-    that typing out large blocks of text. This talk will talk about elements of
-    fiction writing that improve the process of writing docs: Understanding audience:
-    the tools fiction writers use to understand their audience (as well as to communicate
-    with them) offer deeper looks at who reads what. The process of connecting with
-    an audience is integral to fiction, but often overlooked in documentation \u2014
-    resulting in hard-to-use docs that don\u2019t help users. Building story arcs:
-    arguably, all fiction boils down to about seven different plots, retold in millions
-    of different ways. Understanding underlying story structure makes the process
-    of writing new tales much easier. Those story structures and plot elements can
-    map directly to parts of documentation, as well as show options for creating
-    standing elements for documentation. * Writing prose worth reading: documentation
-    can be enjoyable to read, provided a writer is willing to invest time in crafting
-    good reading material.\nThis talk will draw on examples from both popular fiction
-    and documentation out in the world today.</p>"
-  speakers:
-  - details: ''
-    name: Thursday Bram
-    slug: thursday-bram
-    twitter: thursdayb
-    picture: thursday-bram.jpg
-  youtubeId: HaWWcJp2yo4
-- title: Using meaningful names to improve API-documentation
-  abstract: "<p>Interaction between incorporated software-systems is often realized
-    via application programming interfaces (APIs). The API-documentation explains
-    how to use the API. If it misses important information, serious misunderstandings
-    between the API\u2019s consumer and provider can be the consequence.</p>\n<p>I
-    my talk I will show how meaningful names in the source-code can help finding
-    gaps in the API-documentation. My findings base on my project-experiences and
-    a cross-sectional study of a corpus of more than 186.000 web service-operations.
-    I would like to share the 20 description-patterns for API-documentation I found
-    so far. They provide detailed recommendations description of specific operations.
-    The talk closes with a comparison of classical \u201Eswagger-like\u201C API-documentation
-    with the presented approach.</p>"
-  speakers:
-  - details: ''
-    name: Jan Christian Krause
-    slug: jan-christian-krause
-    twitter: idocit
-    picture: jan-christian-krause.jpg
-  youtubeId: YOBVWfmRHzc
-- title: 'Documentarians and Support: Work Better Together'
-  abstract: "<p>Do you know what the support agents are doing over in their corner?
-    It\u2019s not all cat gifs and angry users. There\u2019s real value to be found
-    in working together with your support team. They are a direct line to your users!</p>\n
-    <p>It can definitely be difficult to bridge this gap between disciplines, but
-    your goals are 100% the same: help the customer do The Thing. Because support
-    literally spends all day talking to customers, they have a ton of amazing data
-    about the effectiveness of documentation, and the tasks customers are trying
-    to accomplish.</p>\n<p>Building a better relationship with your support team
-    will help you build a better relationship with your users. I\u2019ve seen first
-    hand how coordination drives a well executed user experience all the way from
-    self service to hands-on support. Work together better and see tangible results
-    in your user happiness!</p>\n<p>In this talk, I\u2019ll show you:\n\xB7    
-        the value of having support and technical writing aligned\n\xB7        
-    how to break down the silos between teams and work effectively together\n\xB7
-            how to access and use the glorious data that support is already collecting\n
-    \xB7         the metrics that matter for support-led user assistance</p>"
-  speakers:
-  - details: ''
-    name: Sarah Chambers
-    slug: sarah-chambers
-    twitter: sarahleeyoga
-    picture: sarah-chambers.jpg
-  youtubeId: qBpwoQftxcA
-- title: 'Pretty hurts: Why better trumps best'
-  abstract: '<p>What are the characteristics of a great documentation set? Completeness?
-    Accuracy? Style? Format? No! A great documentation set is one that meets its objectives,
-    and sometimes the barrier to greatness is not dedication, skill, or passion, but
-    a reluctance to let things go. Every document we publish should reach a certain
-    quality threshold - but that threshold varies depending on its audience, the maturity
-    of the project, and the overall project goals. What matters is not that docs are
-    perfect, but that they are <em>good enough</em>. </p>
+        <p>Before jumping right to the command line and installing your package, those
+        who are interested usually try to find out what problems the project is solving
+        and how it can help them with their own. That''s what your README file is
+        for - it''s most likely the first thing potential users read, that you control.</p>
 
-    <p>But how to determine if a doc is "good enough"? This talk will cover how to:</p>
+        <p>A good README briefly and concisely explains what your software does, how
+        it can be installed and what API it exposes. You also want to provide information
+        on the requirements, the license it uses and how the project is managed. Who
+        are you? How to get in touch to report problems and give feedback? Where can
+        potential users find the Code of Conduct for your project?</p>
 
-    <ul>
+        <p>This talk is for everyone who is interested in working on open source projects
+        and wants to know how documentation can help newcomers and more experienced
+        users use your code and to encourage them to engage in the community.</p>'
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/hi-my-name-is-readme-raphael-pierzina
+    series: Write the Docs EU
+    series_slug: eu
+    slides: https://speakerdeck.com/hackebrot/hi-my-name-is-readme-writethedocs-2017
+    slug: hi-my-name-is-readme-raphael-pierzina
+    speakers:
+    -   details: ''
+        img_file: raphael-pierzina.jpg
+        name: Raphael Pierzina
+        picture: raphael-pierzina.jpg
+        slug: raphael-pierzina
+        twitter: hackebrot
+        website: https://raphael.codes/
+    title: Hi, my name is README!
+    year: 2017
+-   abstract: '<p>Crowdsourcing is an increasingly attractive practice that is being
+        used to develop documentation. When well designed, this approach increases
+        documentation velocity and reduces bottlenecks. However, there are (at least)
+        two huge challenges:</p>
 
-    <li>Define document quality</li>
+        <ul>
 
-    <li>Establish an appropriate quality bar for a document or doc set</li>
+        <li><p>Keeping documentation quality high</p></li>
 
-    <li>Determine if a document meets that bar.</li>
+        <li><p>Ensuring that content gets developed in line with the products and
+        services it supports</p></li>
 
-    </ul>
+        </ul>
 
-    <p>We''re all overloaded. We''re all stretched for time. Every hour we spend making
-    a doc better than it needs to be is an hour stolen from other projects where we
-    could have more impact. Choosing "good enough" doesn''t mean we''re lowering our
-    standards; it means we''re choosing <em>appropriate</em> standards and prioritizing
-    correctly. Don''t let the perfect be the enemy of the good.</p>'
-  speakers:
-  - details: ''
-    name: Riona MacNamara
-    slug: riona-macnamara
-    twitter: rionam
-    picture: riona-macnamara.jpg
-  youtubeId: NyFNrInlADs
-- title: Postulating The Backlog Laxative
-  abstract: '<p>So you had an idea for an awesome software product and started to
-    build up your team of engineers around it. Two things are almost inevitable: you
-    chose some super cool programming language like Clojure and you''re doing Scrum
-    for the process. Good for you.</p>
+        <p>While no doc set will ever be perfect, there is hope for overcoming these
+        challenges. In this talk, I''ll share lessons learned from working through
+        these challenges at companies of various sizes. We''ll walk through content
+        management best practices, including: </p>
 
-    <p>When your company grows, you end up with multiple Scrum teams. But you also
-    end up with new activities: documentation, blogging, demos, submissions to conferences
-    to show-off your awesome heap of Clojure. How are you going to get all of /that/
-    done?</p>
+        <ul>
 
-    <p>"The book" tells you to mix all these activities in with your Scrum engineering
-    teams. "The Book" was also probably written by someone who has never had to do
-    devrel in their lives (or, who hates devrel engineers). Numerous problems exist
-    at the interface between product engineering and devrel and the result is your
-    devrel backlog can get backed-up.</p>
+        <li><p>Setting occasional authors up for success</p></li>
 
-    <p>Dr. Paul (not a real doctor) has the laxative you need! In this talk he presents
-    his experience of structuring multiple Scrum teams at Crate.IO in order to loosen-up
-    the devrel backlog: ensuring highly quality feature documentation, getting out
-    those blog posts and showing-off our lovely heap of Clojure*.</p>
+        <li><p>Building an effective writing toolkit</p></li>
 
-    <p>*Crate is written in Java.</p>'
-  speakers:
-  - details: ''
-    name: Paul Adams
-    slug: paul-adams
-    twitter: therealpadams
-    picture: paul-adams.jpg
-  youtubeId: MD-RwSw-NGA
-- title: 'Information micro-architecture: grammar, syntax, and cognitive rhetoric'
-  abstract: "<p>Most discussions of information architecture (IA) treat it as a high-level
-    discipline: it\u2019s that thing we do site-wide, obsessing happily about taxonomies,
-    hierarchies, and metadata, so that our content is more maintainable, navigable,
-    and searchable. But what do your readers do when they actually find the information
-    that they\u2019re looking for? They read it. They read the words. Where\u2019
-    s your information architecture now?</p>\n<p>In this talk I\u2019ll identify a
-    few different ways that we can apply IA principles productively also at the
-    micro levels of paragraph, sentence, and phrase.  We\u2019ll focus on a series
-    of syntactic structures that prove their special architectural significance,
-    based on the results of ongoing content testing at docs.shopify.com and on recent
-    work in the field of psycholinguistics. These key examples show how far we can
-    improve sentence processing speed, and thereby reader engagement, when we use
-    grammar deliberately as information micro-architecture. The composition and
-    revision strategies that this approach suggests are especially useful for anyone
-    who\u2019s writing, editing, or optimizing content for use at scale.</p>"
-  speakers:
-  - details: ''
-    name: Rory Tanner
-    slug: rory-tanner
-    twitter: roringtonj
-    picture: rory-tanner.jpg
-  youtubeId: GuAECnt4eJI
-- title: Operations Technical Writing for Data Centers
-  abstract: '<p>Operations tech writing encompasses both hardware and software, and
-    the challenge is coming up to speed on the intersecting parts of these 2 disciplines.
-    More than any other type of tech writing, operations TW is the art of supporting
-    highly technical, cross-functional teams. Most companies create super secret,
-    bleeding edge technologies to make their data centers efficient, powerful, reliable,
-    economical, and, hopefully, green. There are few opportunities to gain background
-    info to bring yourself up to speed and feel confident about your technical prowess.
-    </p>
+        <li><p>Defining content management strategies for globally distributed teams</p></li>
 
-    <p>This is a little talked about area of TW that''s growing in importance and
-    demand. At Google, it''s been difficult to find writers qualified to handle the
-    cross-functional complexities/hit the ground running, and the ramp up is steep.
-    I''ll address the demands of working in this challenging but fascinating field,
-    as well as some cultural perks such as working with physical engineers (mechanical,
-    electrical, manufacturing), travel, and developing one''s photography skills --
-    and saying goodbye to capturing screenshots. </p>'
-  speakers:
-  - details: ''
-    name: Joan Wendt
-    slug: joan-wendt
-    twitter: ''
-    picture: joan-wendt.jpg
-  youtubeId: 4AwmQmWK7Ys
-- title: Watch that tone! Creating an information experience in the Atlassian voice
-  abstract: '<p>Two years ago, Atlassian had no consistent voice guidelines across
-    its content channels and product suite, creating a disjointed brand experience.
-    Today, our Information Experience writers now own the Atlassian voice and tone,
-    and are teaching everyone from developers, product managers, designers, and marketers
-    how to voicify their content. </p>
-
-    <p>In this talk, Sarah Karp (Information Experience Team Lead) will answer the
-    following questions: </p>
-
-    <ul>
-
-    <li>What is the Atlassian voice? </li>
-
-    <li>Why is a consistent voice important?</li>
-
-    <li>How can you apply voice and tone to a piece of UI copy? </li>
-
-    </ul>
-
-    <p>Along the way, Sarah will share ways in which the Information Experience writers
-    have applied voicify guidelines across the entire organization. She''ll also share
-    a couple of lessons on voice and tone gone wrong and how to learn from those mistakes.
-    </p>
-
-    <p>At the end of the talk, you''ll come away with an understanding of why successful
-    products have a distinctive voice and tone. You''ll also come away with great
-    examples of voice and tone wins (and fails), and practical tips about how to create
-    voicify guidelines for writers and non-writers alike. </p>'
-  speakers:
-  - details: ''
-    name: Sarah Karp
-    slug: sarah-karp
-    twitter: skarpediem
-    picture: sarah-karp.png
-  youtubeId: MeyKS4LwTds
-- title: Delivering High-Velocity Docs that Keep Pace with Rapid Release Cycles
-  abstract: "<p>To prevent stale content and achieve a high standard of alignment
-    with products, documentation must be a required component of the release cycle.
-    At Pantheon, this means delivering each component with similar precision and
-    trust. Documentation workflows must evolve to stay instep with agile and automated
-    product pipelines. </p>\n<p>In addition to sharing lessons learned, this talk
-    will explore Pantheon\u2019s strategy for delivering high-velocity docs: </p>\n
-    <ul>\n<li>Increase project visibility </li>\n<li>Simplify peer reviews </li>\n
-    <li>Make bots do the scutwork </li>\n<li>Write more docs </li>\n</ul>"
-  speakers:
-  - details: ''
-    name: Rachel Whitton
-    slug: rachel-whitton
-    twitter: rachwhitton
-    picture: rachel-whitton.png
-  youtubeId: dHdBsNxtKeI
-- title: 'Docs as Code: The Missing Manual'
-  abstract: '<p>Treating docs as code, an approach that more and more teams and companies
-    are moving toward, involves more than putting the two together in a repo. We discuss
-    some of the details that often get lost in as dev and docs learn to work together
-    in new ways. Because if all we do is put doc files next to code files in source
-    control, or use parts of the same workflow for code and docs, we''re still isolating
-    docs as a separate sort of responsibility, free from the obligations of systematic
-    review and testing without which code would never be accepted into production.</p>
-
-    <p>Some missing parts of this newer approach to documentation workflow that we''ll
-    discuss include:</p>
-
-    <ul>
-
-    <li>Outlining a documentation lifecycle that describes how material moves from
-    initial draft to final production, to help people unfamiliar with documentation
-    development understand better how to efficiently manage documentation review and
-    testing.</li>
-
-    <li>Mapping GitHub workflow clearly to documentation workflow. This can help writers
-    and editors understand better just how to use GitHub effectively, and equally
-    important how it can help other contributors (notably programmers) understand
-    the parts of the writer workflow that can be lost when docs move next to code.</li>
-
-    <li>Creating an information architecture. Words need structure to provide meaning,
-    usability, and discoverability. A strong content architecture provides logical
-    places for adding new content, especially for doc projects at scale.</li>
-
-    <Li>Developing and enforcing a style guide: terminology, voice, tone. These things
-    make the difference between words that users might understand, and documentation
-    that can truly assist.</li>
-
-    <li>Reviewing and line/copy editing. Because you wouldn''t do any less for code,
-    right?</li>
-
-    </ul>'
-  speakers:
-  - details: ''
-    name: Margaret Eker
-    slug: margaret-eker
-    twitter: ''
-    picture: margaret-eker.jpg
-  - details: ''
-    name: Jennifer Rondeau
-    slug: jennifer-rondeau
-    twitter: ''
-    picture: jennifer-rondeau.jpg
-  youtubeId: JvRd7MmAxPw
+        </ul>'
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/a-content-manager-s-guide-to-crowdsourcing-the-docs-becky-todd
+    series: Write the Docs EU
+    series_slug: eu
+    slug: a-content-manager-s-guide-to-crowdsourcing-the-docs-becky-todd
+    speakers:
+    -   details: ''
+        img_file: becky-todd.jpg
+        name: Becky Todd
+        picture: becky-todd.jpg
+        slug: becky-todd
+        twitter: beckatodd
+        website: ''
+    title: A content manager's guide to crowdsourcing the docs
+    year: 2017
+-   abstract: "<p>Getting feedback on your work is a necessary part of any project,\
+        \ and it makes your output stronger and more diverse. But it can be hard when\
+        \ your work is being evaluated. Sometimes, it feels like your reviewers have\
+        \ a deep and abiding interest in pain. You\u2019ll never succeed! Well, you\
+        \ have already succeeded just by asking for feedback. Together, we\u2019ll\
+        \ discuss how to build up your tolerance for taking that feedback.</p>\n<p>Feedback\
+        \ became so much easier for me when I learned design critique guidelines from\
+        \ a co-worker and UX Designer. Design critique guidelines are a set of rules\
+        \ and practices that can make getting and giving feedback easier. After presenting\
+        \ this speech at the Write the Docs Portland 2017 conference, I received a\
+        \ ton of great feedback on it. Now, I have even more strategies to share so\
+        \ that you can implement design critique guidelines into your own review process\
+        \ to make feedback painless.</p>"
+    event: Write the Docs EU 2017
+    path: conf/eu/2017/videos/you-have-already-succeeded-design-critique-guidelines-make-feedback-easier-2-0-christy-lutz
+    series: Write the Docs EU
+    series_slug: eu
+    slug: you-have-already-succeeded-design-critique-guidelines-make-feedback-easier-2-0-christy-lutz
+    speakers:
+    -   details: ''
+        img_file: christy-lutz.jpg
+        name: Christy Lutz
+        picture: christy-lutz.jpg
+        slug: christy-lutz
+        twitter: canncrochet
+        website: ''
+    title: 'You have already succeeded: Design critique guidelines make feedback easier
+        2.0'
+    year: 2017
