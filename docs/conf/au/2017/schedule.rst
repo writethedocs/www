@@ -27,7 +27,7 @@ Preparation for contributing to open source projects:
 
 
 .. datatemplate::
-   :source: /_data/au-2017-AM.yaml
+   :source: /_data/au-2017-am.yaml
    :template: include/schedule2017.rst
 
 Afternoon - Talks
@@ -36,7 +36,7 @@ Afternoon - Talks
 Hear from lots of interesting folks about all things documentation.
 
 .. datatemplate::
-   :source: /_data/au-2017-PM.yaml
+   :source: /_data/au-2017-pm.yaml
    :template: include/schedule2017.rst
 
 .. _GitHub: https://github.com/
