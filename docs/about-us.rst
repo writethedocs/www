@@ -2,10 +2,14 @@ About the Write the Docs organization
 =====================================
 
 Write the Docs is a global community of people who care about documentation.
-However, there is also a legal entity that exists to build and support the global community of :doc:`documentarians` and manage the community's legal and business assets.
+There is also a legal entity that exists to build and support the global community of :doc:`documentarians <documentarians>` and manage the community's legal and business assets.
 
 This document describes the guiding principles that drive us as an organization, our governance model, and what all this means for our community members.
 
+.. contents:: Contents
+   :local: 
+   :backlinks: none
+   :depth: 1
 
 Guiding Principals
 ------------------
@@ -15,13 +19,13 @@ Community-first
 
 We want to:
 
-* Do things in direct service to our community members. Whenever we examine a new type of event or activity we always ask "What's in it for the community?", rather than "What's in it for the organization?". The Write the Docs organization grew from the community and we exist for the community.
+* Do things in direct service to our community members. Whenever we examine a new type of event or activity we always ask "What's in it for the community?", rather than "What's in it for the organization?". The Write the Docs organization grew from the community and we exist for the community. To put it simply, **Write the Docs doesn't exist without our community, so our operations are naturally aligned with the interest of the community.**
 
-* Optimize our revenue streams to derive direct benefit to the community. While we are not a non-profit and we have a business entity and a small paid core team, our primary goal is to translate revenue from our conferences and activities to more and better conferences and activities.
+* Optimize our revenue streams to derive direct benefit to the community. While we are not a non-profit and we have a business entity and a small paid core team, our primary goal is to translate revenue from our conferences and activities to more and better events and services for community members.
 
 We don't want to:
 
-* Rely on corporations to support the community. While we welcome sponsorship and corporate contributions to our events, we prioritize tickets over sponsorship, in order to help foster an open and welcoming environment to our community. To that effect, for example, we limit the number of sponsored tables at our conferences. We also have a :doc:`code-of-conduct` section specifically for sponsors and affiliates, where we explicitly set expectations of how they can engage with our community.
+* Rely on corporations to support the community. While we welcome sponsorship and corporate contributions to our events, we prioritize tickets over sponsorship, in order to ensure the independence of our operations. To that effect, for example, we limit the number of sponsored tables at our conferences. We also have a :doc:`code-of-conduct` section specifically for sponsors and affiliates, where we explicitly set expectations of how they can engage with our community.
 
 Sustainability
 ~~~~~~~~~~~~~~
@@ -71,7 +75,7 @@ We don't want to:
 Legal Entity
 ------------
 
-Write the Docs is an Oregon Limited Liability Company (LLC), which is one of the standard USA corporate classifications.
+Write the Docs is an Oregon Limited Liability Company (LLC), which is one of the standard USA corporate classifications. The LLC is wholly owned by Eric Holscher, one of the founders of Write the Docs.
 
 This organization controls and handles:
 
