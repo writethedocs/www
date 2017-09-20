@@ -6,4 +6,3 @@ _build
 .tox
 venv*
 *.pyc
-docs/videos/
