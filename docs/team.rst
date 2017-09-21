@@ -219,3 +219,10 @@ and want to make sure they aren't forgotten.
 * `Eric Redmond <https://twitter.com/coderoshi>`_
 * `Troy Howard <https://twitter.com/thoward37>`_
 * `Anthony Johnson <https://twitter.com/agjhnsn>`_
+
+Bios
+----
+
+.. datatemplate::
+   :source: /_data/team.yaml
+   :template: team.rst
