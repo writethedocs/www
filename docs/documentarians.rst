@@ -7,7 +7,7 @@ It shouldn't be a job title,
 but an independent identity.
 We started using the word *documentarian* to describe this type of person:
 
-**A documentarian is someone who cares about the value of documentation and communication in the software industry, regardless of job title.**
+**A documentarian is someone who cares about documentation and communication in the software industry, regardless of job title.**
 
 Expanding the meaning of documentarian to include folks of any job title is important.
 Historically you could be a "tech writer" or a "programmer",
