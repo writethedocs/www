@@ -25,7 +25,7 @@ We want to:
 
 We don't want to:
 
-* Rely on corporations to support the community. While we welcome sponsorship and corporate contributions to our events, we prioritize tickets over sponsorship, in order to ensure the independence of our operations. To that effect, for example, we limit the number of sponsored tables at our conferences. We also have a :doc:`code-of-conduct` section specifically for sponsors and affiliates, where we explicitly set expectations of how they can engage with our community.
+* Rely on corporations to support the community. While we welcome sponsorship and corporate contributions to our events, we prioritize tickets over sponsorship, in order to ensure the independence of our operations. For example, we limit the number of sponsored tables at our conferences. We also have a :doc:`code-of-conduct` section specifically for sponsors and affiliates, where we explicitly set expectations of how they can engage with our community.
 
 Sustainability
 ~~~~~~~~~~~~~~
