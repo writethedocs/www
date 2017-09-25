@@ -17,19 +17,10 @@ We ship a theme that allows your presentation to have the Write the Docs theme. 
 
 .. _beginner-presentation:
 
-Beginner Presentations
-~~~~~~~~~~~~~~~~~~~~~~
+Beginner Presentation
+~~~~~~~~~~~~~~~~~~~~~
 
 * Writing Docs: A beginners guide to writing documentation 
    * :download:`Keynote </guide/files/presentations/docs_talk.key>`
    * :download:`PDF </guide/files/presentations/docs_talk.pdf>`
    * :download:`Zipped HTML </guide/files/presentations/docs_talk_html.zip>`
-
-Intermediate Presentations
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. note:: Coming soon
-
-Outline:
-    * IA/Structure
-    * Things to include
