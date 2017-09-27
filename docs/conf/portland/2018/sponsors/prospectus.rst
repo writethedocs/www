@@ -1,4 +1,4 @@
-:template: 2018/base.html
+:template: 2018/na.html
 :orphan:
 
 Write the Docs Portland 2018 Sponsorship
