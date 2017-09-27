@@ -1,4 +1,4 @@
-:template: 2018/base.html
+:template: 2018/na.html
 
 Write the Docs Portland 2018
 ============================
