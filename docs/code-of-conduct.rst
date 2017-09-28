@@ -1,6 +1,10 @@
-
 Code of Conduct
 ===============
+
+.. contents::
+   :local:
+   :depth: 1
+   :backlinks: none
 
 Write the Docs is a global community of documentarians who share information, discuss ideas, and work together to improve the art and science of documentation.
 
