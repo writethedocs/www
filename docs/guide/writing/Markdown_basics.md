@@ -60,8 +60,10 @@ If you need to add an ordered (that is, numbered) list of items, here is the syn
 2. If you want to add a second item, just type in another number followed by a dot.
 1. If you make a mistake when typing numbers, fear not, Markdown will correct it for you.
   1. If you press a tab key or type four spaces, you will get an indented list and the numbering will start from scratch.
-    1. If you want to insert an indented numbered list within an existing indented numbered one, just press the tab key again.
-      - If need be, you can also add an indented unordered list within an indented numbered one, an vice versa, by pressing a tab key and typing a dash.
+    1. If you want to insert an indented numbered list within an existing indented numbered one, 
+    just press the tab key again.
+      - If need be, you can also add an indented unordered list within an indented numbered one, an vice versa, 
+      by pressing a tab key and typing a dash.
 ```
 
 This will render like this:
@@ -70,8 +72,10 @@ This will render like this:
 2. If you want to add a second item, just type in another number followed by a dot.
 1. If you make a mistake when typing numbers, fear not, Markdown will correct it for you.
   1. If you press a tab key or type four spaces, you will get an indented list and the numbering will start from scratch.
-    1. If you want to insert an indented numbered list within an existing indented numbered one, just press the tab key again.
-      - If need be, you can also add an indented unordered list within an indented numbered one, an vice versa, by pressing a tab key and typing a dash.
+    1. If you want to insert an indented numbered list within an existing indented numbered one, 
+    just press the tab key again.
+      - If need be, you can also add an indented unordered list within an indented numbered one, an vice versa, 
+      by pressing a tab key and typing a dash.
 
 ### Headers
 
