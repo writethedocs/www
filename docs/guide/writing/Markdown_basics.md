@@ -2,14 +2,11 @@
 
 ## What is Markdown?
 
-Markdown is a simple formatting syntax. You can use it for creating
-webpages, documents or any text that needs to be transformed into other formats
-like HTML.
+Markdown is a simple formatting syntax. You can use it for creating webpages, documents or any text that needs to be transformed into other formats like HTML.
 
 ## Why to use Markdown?
 
-It makes it easier for non-tech writers to produce documentation that can be
-collaborative and flexible at the same time.
+It makes it easier for non-tech writers to produce documentation that can be collaborative and flexible at the same time.
 
 ## How to use Markdown?
 
@@ -40,15 +37,13 @@ This will render an image like this:
 
 ### How to produce lists of items?
 
-If you need to add an unordered (that is, bulleted) list of items, here is how
-to go about it.
+If you need to add an unordered (that is, bulleted) list of items, here is how to go about it.
 
 ```
 - Just add a dash first and then write a text.
 - If you add another dash in the following line, you will have another item in the list.
   - If you add four spaces or use a tab key, you will create an indented list.
-    - If you need to insert an indented list within an intended one, just press
-    a tab key again.
+    - If you need to insert an indented list within an intended one, just press a tab key again.
 ```
 
 This will render like this:
@@ -56,8 +51,7 @@ This will render like this:
 - Just add a dash first and then write a text.
 - If you add another dash in the following line, you will have another item in the list.
   - If you add four spaces or use a tab key, you will create an indented list.
-    - If you need to insert an indented list within an intended one, just press
-    a tab key again.
+    - If you need to insert an indented list within an intended one, just press a tab key again.
 
 If you need to add an ordered (that is, numbered) list of items, here is the syntax:
 
@@ -65,13 +59,9 @@ If you need to add an ordered (that is, numbered) list of items, here is the syn
 1. Just type a number followed by a dot.
 2. If you want to add a second item, just type in another number followed by a dot.
 1. If you make a mistake when typing numbers, fear not, Markdown will correct it for you.
-  1. If you press a tab key or type four spaces, you will get an indented list
-  and the numbering will start from scratch.
-    1. If you want to insert an indented numbered list within an existing indented
-    numbered one, just press the tab key again.
-      - If need be, you can also add an indented unordered list within an
-      indented numbered one, an vice versa, by pressing a tab key and typing a
-      dash.
+  1. If you press a tab key or type four spaces, you will get an indented list and the numbering will start from scratch.
+    1. If you want to insert an indented numbered list within an existing indented numbered one, just press the tab key again.
+      - If need be, you can also add an indented unordered list within an indented numbered one, an vice versa, by pressing a tab key and typing a dash.
 ```
 
 This will render like this:
@@ -79,13 +69,9 @@ This will render like this:
 1. Just type a number followed by a dot.
 2. If you want to add a second item, just type in another number followed by a dot.
 1. If you make a mistake when typing numbers, fear not, Markdown will correct it for you.
-  1. If you press a tab key or type four spaces, you will get an indented list
-  and the numbering will start from scratch.
-    1. If you want to insert an indented numbered list within an existing indented
-    numbered one, just press the tab key again.
-      - If need be, you can also add an indented unordered list within an
-      indented numbered one, an vice versa, by pressing a tab key and typing a
-      dash.
+  1. If you press a tab key or type four spaces, you will get an indented list and the numbering will start from scratch.
+    1. If you want to insert an indented numbered list within an existing indented numbered one, just press the tab key again.
+      - If need be, you can also add an indented unordered list within an indented numbered one, an vice versa, by pressing a tab key and typing a dash.
 
 ### Headers
 
