@@ -65,9 +65,11 @@ Check out these resources that we get inspired by:
 Markup Languages
 ----------------
 
-* Markdown
-    * Cheatsheet
-    * Tutorial
+.. toctree::
+   :maxdepth: 2
+
+    writing/Markdown_basics
+
 * Asciidoc
     * Cheatsheet
     * Tutorial
