@@ -47,9 +47,9 @@ Documentation Culture at your Company
    :maxdepth: 2
 
    Engineering Organizations <writing/mindshare>
+   Producing documentation inside a Support team <writing/support-team>
 
 * Integrating Tech Writers into the product process
-* Producing documentation inside a Support team
 
 Inspiration
 -----------
