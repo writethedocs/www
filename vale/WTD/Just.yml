@@ -1,0 +1,19 @@
+extends: existence
+message: "Consider removing '%s'"
+ignorecase: true
+scope: text
+level: warning
+tokens:
+  - awesome
+  - clearly
+  - easily
+  - easy
+  - essentially
+  - generally
+  - in order to
+  - just
+  - obvious
+  - obviously
+  - of course
+  - simple
+  - utilize
