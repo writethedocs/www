@@ -1,4 +1,4 @@
-:template: 2017/au-content.html
+:template: 2017/au-speakers.html
 
 Speakers
 ========
