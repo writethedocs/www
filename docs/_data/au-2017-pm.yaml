@@ -1,20 +1,30 @@
-- Session: 20 min talk
+- Duration: 20 min talk
+  Session: Russell Dickenson - 10 Ways Technical Writers Can Help Open Source Projects
+  Slug: russell-dickenson
   Time: '14:05'
-- Session: Switch Speakers
+  Session: Switch Speakers
   Time: '14:25'
-- Session: 20 Minute Talk
+- Duration: 20 min talk
+  Session: Chris Ward - Conversational UI for Writers
+  Slug: chris-ward
   Time: '14:30'
-- Session: Switch Speakers
+  Session: Switch Speakers
   Time: '14:50'
-- Session: 20 minute Talk
+- Duration: 20 min talk
+  Session: Laura Bailey - How I decided to do this talk
+  Slug: laura-bailey
   Time: '14:55'
-- Session: Break
+  Session: Break
   Time: '15:15'
-- Session: 20 Minute Talk
+- Duration: 20 min talk
+  Session: Nicola Nye - Writing extensions in Sphinx: supercharge your docs
+  Slug: nicola-nye
   Time: '15:50'
-- Session: Switch Speakers
+  Session: Switch Speakers
   Time: '16:10'
-- Session: 20 Minute Talk
+- Duration: 20 min talk
+  Session: Brice Fallon - Peanuts and Minimalism and Technical Writing
+  Slug: brice-falon
   Time: '16:15'
 - Session: Switch Speakers
   Time: '16:35'
