@@ -489,12 +489,9 @@
 
         <p>If you, too, are interested in volunteering your skills for social impact,
         this session will hopefully inspire you to action, or, at the very least encourage
-        you to view the value of your craft in a new light.</p>
-
-        title: ''Tech Writers Without Borders: Making the world a better place, one
-        (numbered) step at a time''
-
-        slides: https://speakerdeck.com/sculshaw/making-the-world-a-better-place-one-numbered-step-at-a-time'
+        you to view the value of your craft in a new light.</p>'
+    title: 'Tech Writers Without Borders: Making the world a better place, one (numbered) step at a time'
+    slides: https://speakerdeck.com/sculshaw/making-the-world-a-better-place-one-numbered-step-at-a-time'
     event: Write the Docs EU 2017
     path: conf/eu/2017/videos/
     series: Write the Docs EU
@@ -610,6 +607,7 @@
     path: conf/eu/2017/videos/a-content-manager-s-guide-to-crowdsourcing-the-docs-becky-todd
     series: Write the Docs EU
     series_slug: eu
+    slides: https://www.slideshare.net/BeckyTodd3/content-managers-guide-to-crowdsourcing-the-docs
     slug: a-content-manager-s-guide-to-crowdsourcing-the-docs-becky-todd
     speakers:
     -   details: ''
@@ -638,6 +636,7 @@
     path: conf/eu/2017/videos/you-have-already-succeeded-design-critique-guidelines-make-feedback-easier-2-0-christy-lutz
     series: Write the Docs EU
     series_slug: eu
+    slides: http://canncrochet.com/filter/articles/Presentations-1
     slug: you-have-already-succeeded-design-critique-guidelines-make-feedback-easier-2-0-christy-lutz
     speakers:
     -   details: ''
