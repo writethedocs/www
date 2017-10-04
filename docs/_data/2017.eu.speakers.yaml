@@ -1,11 +1,11 @@
--   abstract: '<p>Writers of software and writers of documentation practice a shared
+-   abstract: "<p>Writers of software and writers of documentation practice a shared
 
-        art: we bestow abstractions with names. We know we''''ve succeeded when our
+        art: we bestow abstractions with names. We know weve succeeded when our
         names
 
         illuminate concepts, elicit a-ha moments, and empower users to put our product
 
-        to work. We know we''''ve failed when the names we''''ve chosen confuse, frustrate,
+        to work. We know we've failed when the names we've chosen confuse, frustrate,
 
         misguide, or offend.</p>
 
@@ -28,9 +28,7 @@
         <li><p>How can technology help our efforts to name things well?</li></p>
 
         <li><p>How can documentarians and developers work together to name things
-        better?</p></li>
-
-        '
+        better?</p></li>"
     event: Write the Docs EU 2017
     path: conf/eu/2017/videos/even-naming-this-talk-is-hard-ruthie-bendor
     series: Write the Docs EU
