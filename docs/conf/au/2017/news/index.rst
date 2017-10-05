@@ -9,3 +9,7 @@ More here as it happens!
 
 .. toctree::
    :glob:
+
+   announcing-schedule
+   announcing-events-volunteers
+   announcing-presentations-ticket-update
