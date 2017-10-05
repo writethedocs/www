@@ -3,8 +3,8 @@
 .. post:: October 5, 2017
    :tags: 2017, australia, tickets
 
-Announcing Presentations and Important Ticket Pricing Update
-============================================================
+Announcing Presentations
+=========================
 
 We're excited to share with you the lineup for the 2017 Australian day event. Needless to say, the selection process was intense, as we had fewer than 6 slots for talks and many more awesome proposals than we can fit into the program.
 
