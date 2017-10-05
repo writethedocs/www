@@ -1,6 +1,8 @@
-:template: 2017/au-content.html
+:template: 2017/au-speakers.html
 
-Conference Speakers
-===================
+Speakers
+========
 
-TBD
+.. datatemplate::
+   :source: /_data/2017.au.speakers.yaml
+   :template: 2017/speaker.rst

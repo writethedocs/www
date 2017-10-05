@@ -36,7 +36,7 @@
           <p>
 
           {% if talk.Slug %}
-             <a href="../speakers/#speaker-eu-2017-{{ talk.Slug }}">{{ talk.Session }}</a>
+             <a href="../speakers/#speaker-{{ talk.Slug }}">{{ talk.Session }}</a>
           {% else %}
             {{ talk.Session }}
           {% endif %}

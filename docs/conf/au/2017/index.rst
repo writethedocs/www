@@ -19,7 +19,7 @@
                   </div>
                   <div class="col-xs-12 col-md-7 text-xs-center text-md-right">
                     <div class="buy-ticket__2nd-col">
-                      <a href="/conf/au/2017/cfp/" class="btn btn-primary button button--narrow buy-ticket__talk">Submit a talk!</a>
+                      <a href="#news" class="btn btn-primary button button--narrow buy-ticket__talk">What's new?</a>
                       <p class="buy-ticket__p">|</p>
                       <a href="https://ti.to/writethedocs/write-the-docs-day-australia-2017" class="btn btn-primary button button--narrow buy-ticket__ticket">Buy a ticket!</a>
                     </div>
@@ -84,11 +84,11 @@
                 </div>
               </section>
 
-
               <!-- Speakers -->
               <!--
-              {% set conf = "eu-2017" %}
-              {% set speakers = eu_2017_speakers %}
+              {% set conf = "au-2017" %}
+              {% set speakers = au_2017_speakers %}
+
 
               <section class="section">
                 <div class="row">
@@ -120,8 +120,6 @@
               </section>
               -->
 
-
-              <!--
               <section class="section" id="news">
                 <div class="row">
                   <div class="col-xs-12">
@@ -136,54 +134,55 @@
 
                 <div class="row">
                 <div class="col-xs-12 col-md-4">
-                  <a href="news/announcing-events-volunteers/" class="well news__tile">
+                  <a href="news/announcing-presentations-ticket-update/" class="well news__tile">
                     <h3 class="well__title">
-                      Announcing Events and Call for Volunteers
+                      Announcing presentations!
                     </h3>
                     <p class="well__paragraph">
-                    The conference is now just under two months away, and we hope
-                    you’re getting geared up...
+                    We are excited to announce presentations for our first ever Australian day event...
                     </p>
                     <div class="well__time">
-                      <span>12:00</span>|<span>July 19, 2017</span>
+                      <span>12:00</span>|<span>October 5, 2017</span>
                     </div>
                   </a>
                 </div>
 
                 <div class="row">
                 <div class="col-xs-12 col-md-4">
-                  <a href="news/announcing-presentations-ticket-update/" class="well news__tile">
+                  <a href="news/announcing-schedule/" class="well news__tile">
                     <h3 class="well__title">
-                      Announcing Presentations and Important Ticket Pricing Update
+                      Announcing talk Schedule
                     </h3>
                     <p class="well__paragraph">
-                     We're excited to share with you the lineup for the 2017 Prague conference.
-                     Needless to say, the selection process...
+                    Our website is now updated with the final schedule for
+                    the talks...
                     </p>
                     <div class="well__time">
-                      <span>12:00</span>|<span>June 26, 2017</span>
+                      <span>12:00</span>|<span>October 5, 2017</span>
                     </div>
                   </a>
                 </div>
 
-              <div class="row">
+                <div class="row">
                 <div class="col-xs-12 col-md-4">
-                  <a href="news/cfp-reminder/" class="well news__tile">
+                  <a href="news/announcing-events-volunteers/" class="well news__tile">
                     <h3 class="well__title">
-                      Call for Proposals Reminder
+                      Announcing Events and Call for Volunteers
                     </h3>
                     <p class="well__paragraph">
-                    The conference is now a little over three months away, and we hope
-                    you’re getting geared up for another unforgettable...
+                    The day event is now just under two months away, and we hope
+                    you’re getting geared up...
                     </p>
                     <div class="well__time">
-                      <span>12:00</span>|<span>May 23, 2017</span>
+                      <span>12:00</span>|<span>October 1, 2017</span>
                     </div>
                   </a>
                 </div>
-                -->
 
               </section>
+
+              </section>
+
               <!-- Sponsors -->
               <section class="section section--last">
 
