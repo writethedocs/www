@@ -19,9 +19,9 @@
                   </div>
                   <div class="col-xs-12 col-md-7 text-xs-center text-md-right">
                     <div class="buy-ticket__2nd-col">
-                    <a href="#news" class="btn btn-primary button button--narrow buy-ticket__talk">What's new?</a>
-                    <p class="buy-ticket__p">|</p>
-                    <a href="https://ti.to/writethedocs/write-the-docs-day-australia-2017" class="btn btn-primary button button--narrow buy-ticket__ticket">Buy a ticket!</a>
+                      <a href="#news" class="btn btn-primary button button--narrow buy-ticket__talk">What's new?</a>
+                      <p class="buy-ticket__p">|</p>
+                      <a href="https://ti.to/writethedocs/write-the-docs-day-australia-2017" class="btn btn-primary button button--narrow buy-ticket__ticket">Buy a ticket!</a>
                     </div>
                   </div>
                 </div>
@@ -84,9 +84,7 @@
                 </div>
               </section>
 
-
               <!-- Speakers -->
-              <!--
               {% set conf = "eu-2017" %}
               {% set speakers = eu_2017_speakers %}
 
@@ -118,10 +116,7 @@
                    {% endfor %}
                  </div>
               </section>
-              -->
 
-
-              <!--
               <section class="section" id="news">
                 <div class="row">
                   <div class="col-xs-12">
@@ -184,6 +179,7 @@
               </section>
 
               </section>
+              
               <!-- Sponsors -->
               <section class="section section--last">
 
