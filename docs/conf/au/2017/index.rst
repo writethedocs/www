@@ -88,7 +88,7 @@
               <!--
               {% set conf = "au-2017" %}
               {% set speakers = au_2017_speakers %}
-              -->
+
 
               <section class="section">
                 <div class="row">
@@ -118,6 +118,7 @@
                    {% endfor %}
                  </div>
               </section>
+              -->
 
               <section class="section" id="news">
                 <div class="row">
