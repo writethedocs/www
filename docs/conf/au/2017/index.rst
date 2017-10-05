@@ -85,8 +85,10 @@
               </section>
 
               <!-- Speakers -->
-              {% set conf = "eu-2017" %}
-              {% set speakers = eu_2017_speakers %}
+              <!--
+              {% set conf = "au-2017" %}
+              {% set speakers = au_2017_speakers %}
+              -->
 
               <section class="section">
                 <div class="row">
@@ -179,7 +181,7 @@
               </section>
 
               </section>
-              
+
               <!-- Sponsors -->
               <section class="section section--last">
 
