@@ -1,5 +1,5 @@
-- abstract: <p>Developers of voice and chat assistants are crying out for good writers to help them create the conversational interfaces of the present and future. In this talk, I will introduce  what constitutes a 'good' conversational experience and how we, as writers, can benefit from this trend.
-      This will include advice on tone, variety of language, setting and checking user context, testing interfaces, presenting choice and much more.</p>
+- abstract: <p>Developers of voice and chat assistants are crying out for good writers to help them create the conversational interfaces of the present and future. In this talk, I will introduce  what constitutes a 'good' conversational experience and how we, as writers, can benefit from this trend.</p>
+      <p>This will include advice on tone, variety of language, setting and checking user context, testing interfaces, presenting choice and much more.</p>
   event: Write the Docs Day AU 2017
   series: Write the Docs AU
   series_slug: au
@@ -31,10 +31,10 @@
     title: 'How I decided to do this talk (Gap analysis and pull-apart documentation planning)'
     year: 2017
 
-- abstract: <p>Sphinx is an open source documentation platform. It provides an easy way to generate documentation to multiple formats (html, manpage, text, pdf, ...) out of a single set of reStructuredText sources. It has great inbuilt support for documenting software projects, but can be used for anything.
-      One of its strengths is its capacity for custom extensions, allowing you to add functionality to meet the particular needs of your project.
-      Come for a tutorial of the extensions mechanism in Sphinx. Learn how to generate a Google sitemap dynamically; and how to embed a "last updated" timestamp in your documentation, based on the time it was modified in version control.
-      Basic familiarity with programming is helpful, but you do not need to be a programming wizard to understand this talk.</p>
+- abstract: <p>Sphinx is an open source documentation platform. It provides an easy way to generate documentation to multiple formats (html, manpage, text, pdf, ...) out of a single set of reStructuredText sources. It has great inbuilt support for documenting software projects, but can be used for anything.</p>
+      <p>One of its strengths is its capacity for custom extensions, allowing you to add functionality to meet the particular needs of your project.</p>
+      <p>Come for a tutorial of the extensions mechanism in Sphinx. Learn how to generate a Google sitemap dynamically; and how to embed a "last updated" timestamp in your documentation, based on the time it was modified in version control.</p>
+      <p>Basic familiarity with programming is helpful, but you do not need to be a programming wizard to understand this talk.</p>
   event: Write the Docs Day AU 2017
   series: Write the Docs AU
   series_slug: au
@@ -50,9 +50,9 @@
   title: "Writing extensions in Sphinx: supercharge your docs"
   year: 2017
 
--   abstract: "<p>Well-written documentation is what we should all be striving for. Recently, Red Hat has focused specifically on quality. I took the job of constructing a team to learn about minimalism and how it can help us in technical communication.
-    Throughout this, I found the key to understanding minimalism to be comic strips. Learning to properly document a procedure is similar to telling a story in four panels and the tenets of minimalism are similar to those of a Peanuts strip.
-    These findings have helped create a standard that the technical writers at Red Hat can now easily follow, using learning modules, crowdsourced review seminars, and even stickers and posters</p>"
+-   abstract: "<p>Well-written documentation is what we should all be striving for. Recently, Red Hat has focused specifically on quality. I took the job of constructing a team to learn about minimalism and how it can help us in technical communication.</p>
+    <p>Throughout this, I found the key to understanding minimalism to be comic strips. Learning to properly document a procedure is similar to telling a story in four panels and the tenets of minimalism are similar to those of a Peanuts strip.</p>
+    <p>These findings have helped create a standard that the technical writers at Red Hat can now easily follow, using learning modules, crowdsourced review seminars, and even stickers and posters</p>"
     event: Write the Docs Day AU 2017
     series: Write the Docs AU
     series_slug: au
