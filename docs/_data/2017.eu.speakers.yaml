@@ -466,6 +466,7 @@
     path: conf/eu/2017/videos/deprecate-and-destroy-documenting-your-software-s-last-days-daniel-d-beck
     series: Write the Docs EU
     series_slug: eu
+    slides: https://ddbeck.com/wtdeu2017/
     slug: deprecate-and-destroy-documenting-your-software-s-last-days-daniel-d-beck
     speakers:
     -   details: ''
