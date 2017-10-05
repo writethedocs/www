@@ -1,28 +1,22 @@
--   abstract: <p>Open source projects are generally started by talented coders.
-        Generally, though, their skills don't stretch to writing good documentation.
-        Users depend on good documentation, from the project's README to the Getting Started Guide, through to API documentation.
-        A small portion of those users may become contributors, and they need more advanced documentation and guidance.
-        Without good documentation, even the greatest project will struggle.</p>
-
-        <p>Technical writers can play a key role in the success of open source projects. It's good for the projects, but it's also good for the writers themselves.</p>
-        <p>Benefits to writers include:</p>
-        <li><p>Getting exposure to techniques and technology they may not do in their day jobs.</p></li>
-        <li><p>Those looking to break into technical writing can get a start, and build up a public portfolio.</p></li>
-        <li><p>Being part of a global community provides public exposure not otherwise possible.</p></li>
-        <li><p>An opportunity to be part of a team.</p></li>
+-   abstract: <p>Users end up with documentation for three different reasons.
+    Some users are new to the product and want to read everything so they can develop a comprehensive knowledge of your software.
+    Some users know how to use the product. They want to brush up on a task they only need occasionally or to learn a new part of the product.
+    Most users come with a specific goal in mind and want to move on with their day having read as little of your documentation as possible.
+    Each type of user needs different modes of interaction, but you likely have to serve them all with one.
+    This talk addresses the different needs of each user archetype and how to meet them all in every document.</p>
 
     event: Write the Docs Day AU 2017
     series: Write the Docs AU
     series_slug: au
-    slug: 10-ways-technical-writers-can-help-open-source-projects-russell-dickenson
+    slug: delivering-documents-for-all-three-use-cases-margaret-fero
     speakers:
     -   details: ''
-        img_file: russell-dickenson.png
-        name: Russell Dickenson
-        picture: russell-dickenson.png
-        slug: russell-dickenson
-        twitter: rjdickenson
-    title: 10 Ways Technical Writers Can Help Open Source Projects
+        img_file: margaret-fero.png
+        name: Margaret Fero
+        picture: margaret-fero.png
+        slug: margaret-fero
+        twitter:
+    title: Delivering Documents For All Three Use Cases
     year: 2017
 
 -   abstract: <p>Developers of voice and chat assistants are crying out for good writers to help them create the conversational interfaces of the present and future. In this talk, I will introduce  what constitutes a 'good' conversational experience and how we, as writers, can benefit from this trend.
