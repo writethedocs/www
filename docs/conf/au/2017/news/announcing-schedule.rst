@@ -1,4 +1,4 @@
-:template: 2017/eu-content.html
+:template: 2017/au-content.html
 
 .. post:: October 5, 2017
    :tags: 2017, australia, schedule, doc sprint
