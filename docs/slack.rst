@@ -20,13 +20,13 @@ You can `join our Slack <http://slack.writethedocs.org/>`_ if you aren't already
 Default channels
 ----------------
 
-Everyone who joins the Slack will be added to these channels
+Everyone who joins the Slack will be added to these channels:
 
-* **#general** - The main channel for documentation related conversation and questions
+* **#general** - The main channel for documentation related conversation and questions.
 * **#watercooler** - For talking about things that are off-topic. Get to know folks other interests that aren't around documentation :)
-* **#jobs** - Posting or asking for jobs
-* **#wtd-conferences** - Questions and other thoughts around the :doc:`/conf/index`
-* **#meetups** - Questions and other thoughts about our :doc:`/meetups/index`
+* **#jobs** - Posting or asking for jobs.
+* **#wtd-conferences** - Questions and other thoughts around the :doc:`/conf/index`.
+* **#meetups** - Questions and other thoughts about our :doc:`/meetups/index`.
 * **#intros** - Introduce yourself! Let people know you're here, and why you care about docs :)
 
 Other useful topical channels
@@ -35,9 +35,9 @@ Other useful topical channels
 * **#career-advice** - Should you take that job? Am I being paid enough? Ask here!
 * **#markup-the-docs** - Talk about markup languages. Markdown, rST, Asciidoc, etc.
 * **#documenting-apis** - Talk about REST API's. Swagger, Apiary, API Blueprint, and other API doc tools.
-* **#sphinx** - Talk about the Sphinx documentation generation tool
-* **#flare** - Talk about the Flare documentation toolkit
-* **#confluence** - Talk about everyone's favorite Wiki 
+* **#sphinx** - Talk about the Sphinx documentation generation tool.
+* **#flare** - Talk about the Flare documentation toolkit.
+* **#confluence** - Talk about everyone's favorite Wiki.
 
 Location-based channels
 -----------------------
@@ -59,7 +59,7 @@ We have a few guidelines that we hope people will follow when interacting inside
 
 - **Only participate when you can be constructive** - Just because you can make a comment, doesn't mean you should. Try and be constructive in all that you do.
 - **Say hi** - The world is a better place with a flood of hello's instead of a dearth of greetings.
-- **Don't be snarky** - We are all trying the best we can
+- **Don't be snarky** - We are all trying the best we can.
 - **Be careful with jokes** - You know that you're joking, but some people might take you seriously.
 - **If you don't have anything nice to say, don't say anything at all** - Once again our parents were quite sage.
 
