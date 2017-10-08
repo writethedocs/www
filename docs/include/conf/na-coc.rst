@@ -10,9 +10,9 @@
 * +420 603-261-361
 * slack: thatdocslady
 
-**Erik Sasha Romijn**
+**Sasha Romijn**
 
-* wtd@sashark.eu
+* wtd@mxsasha.eu
 * +31 85 303 1055
 * slack: sasha
 
