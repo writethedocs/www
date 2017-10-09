@@ -52,7 +52,7 @@ If you're a lone writer, you've probably been the unenviable position of not hav
 ************************************************
 Defining developer relations/evangelism/advocacy
 ************************************************
-This month, someone asked a question which many of us have wondered about, at one point or another: "What does a developer advocate or evangelist actually do?" (You may have even wondered this _as_ a devleoper advocate/evangelist...)
+This month, someone asked a question which many of us have wondered about, at one point or another: "What does a developer advocate or evangelist actually do?" (You may have even wondered this _as_ a developer advocate/evangelist...)
 
 The ensuing conversation made it clear that whether you call it developer relations (DevRel), developer evangelism, or developer advocacy, it can mean a lot of different things. But some common themes emerged:
 
