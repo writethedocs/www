@@ -39,7 +39,7 @@ In the meantime, check out #documenting-apis or #apithedocs for more conversatio
 ******************************************
 Proofreading and copyediting your own work
 ******************************************
-If you're a lone writer, you've probably been the unenviable position of not having an editor around to proofread, copyedit, or otherwise sanity-check your writing. It's a perennial dilemma, and one that surfaces regularly on Slack. This month produced a particularly good batch of suggestions and resources. To help you clean up your copy when your only editor is you, here's some tips and tricks from the Write the Docs hivemind:
+If you're a lone writer, you've probably been in the unenviable position of not having an editor around to proofread, copyedit, or otherwise sanity-check your writing. It's a perennial dilemma, and one that surfaces regularly on Slack. This month produced a particularly good batch of suggestions and resources. To help you clean up your copy when your only editor is you, here's some tips and tricks from the Write the Docs hivemind:
 
 * Put your writing away and review it at least a day later.
 * Print it out on paper and read/edit in the new format.
@@ -58,7 +58,7 @@ The ensuing conversation made it clear that whether you call it developer relati
 
 * Folks in these roles are generally expected to be the "face" of their developer community. Their work involves making their product/language/framework/etc. more visible and more approachable.
 * Often they sit at an overlap point between engineering – since they're (ideally) experts in the tool they're representing – and sales, marketing, documentation, etc.
-* The line between "evangelist" and "advocate" gets blurry. Often, though, the evangelist side is about bringing the product out to the community, while the advocate side focuses on bring the community's voice back to the product team.
+* The line between "evangelist" and "advocate" gets blurry. Often, though, the evangelist side is about bringing the product out to the community, while the advocate side focuses on bringing the community's voice back to the product team.
 * Although these roles may have gotten their start in the open source community, they're becoming increasingly common across the industry.
 
 For further reading on the topic, this Medium post has lots of good thoghts: `https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b <https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b>`_
