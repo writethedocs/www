@@ -41,6 +41,7 @@ Information about our regional Write the Docs conferences.
    confs/communication
    confs/volunteers
    confs/welcome-wagon
+   confs/community-events
 
 .. TODO
 

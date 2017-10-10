@@ -17,7 +17,7 @@
 2017 Community Conferences
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Think your conference should go here? Email us conf@writethedocs.org.
+Think your conference should go here? Email us conf@writethedocs.org. Make sure you read our :doc:`/organizer-guide/confs/community-events` page and meet all the requirements.
 
 Past Conferences
 ----------------
