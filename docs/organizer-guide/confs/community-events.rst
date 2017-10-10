@@ -17,4 +17,4 @@ Community events:
 
 * Must have a Code of Conduct
 * Must specify they **are not** official Write the Docs events, but must link back to Write the Docs as a refenence to the community
-* Must list organizers, and they must be from multiple companies
+* Must list the organizers, and they must be from multiple companies
