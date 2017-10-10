@@ -31,7 +31,8 @@ blog_authors = {
     'kelly': ("Kelly O'Brien", 'https://twitter.com/OBrienEditorial'),
 }
 blog_default_author = 'Team'
-
+blog_feed_fulltext = True
+blog_feed_length = 10
 blog_locations = {
     'PDX': ('Portland, Oregon', 'http://www.portlandhikersfieldguide.org/'),
 }
