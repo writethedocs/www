@@ -45,11 +45,11 @@ USA and 250 in Europe, and we expect both conferences to sell out.
 
 Our audience is made up of:
 
-- Technical Writers (40%)
+- Technical Writers (50%)
 - Developers (15%)
 - Support Staff (15%)
 - Managers (10%)
-- Community Contributors, Enthusiasts & Other Folks (13%)
+- Community Contributors, Enthusiasts & Other Folks (10%)
 
 Why Sponsor
 ===========
