@@ -4,10 +4,14 @@ A style guide is a set of standards for the writing and design of content, defin
 
 If you happen to have a background in academia or journalism, you will probably be familiar the [AP stylebook](https://en.wikipedia.org/wiki/AP_Stylebook) or the [Chicago manual of style](http://www.chicagomanualofstyle.org/book/ed17/frontmatter/toc.html). Those are great resources for writing in general, particularly for grammar and syntax, but if you're reading this page chances are you are considering style in the context of technical documentation.
 
-### Technical Document
+### Technical Documentation
 Style guides help you write a variety of content, such as documenting the methods of an API, or presenting a overview of complex technical concepts, or focusing on how to write particular content like user manuals, release notes, or tutorials.
 
-Other style guides often focus on the reader, helping you communicate to developers, product managers, the general public, and others. They can also focus on the language itself (tone, style, grammar). Others provide best practices on how to manage your content, version control, or publication and delivery strategies.
+Guides often help writers focus on the different readers of technical documentation, describing how to adapt content to different reader profiles, like developers, product managers, the general public, and others. 
+
+Many focus on the language itself (tone, style, grammar).
+
+Others go beyond the content and discuss the organisation of the documentation, providing best practices on how to manage your content, version control, or publication and delivery strategies. While this is not what we focus on in our style guuide, how your documentaion is organized, and how easy it is for your readers to find what they are looking for, can be as imporant as the content itself.
 
 ## Why do I need a style guide?
 A practical reason to use a style guide is that they help you write content. Human languages are extremely flexible, and there are many ways in which a particular message can be communicated. By following a style guide you limit the variation, making it easier for you to focus on getting your message across. This makes style guides extremely useful for people joining projects.
@@ -22,8 +26,6 @@ Choosing the right style guide for your project depends on your particular conte
   - Who you are
   - Who you are writing for
   - What you are writing about
-
-> If you really need to pick a style guide ***right now***, we recommend you take a look at the [Google Developer Documentation Style Guide](https://developers.google.com/style/)
 
 ### Selecting a good style guide for you
 
@@ -47,6 +49,8 @@ If you belong to an open-source community or NGO, you can consider the following
 
 Technical documentation takes many forms, each one targeting a certain need. Here, we can think of examples like tutorials, API documentation, and user manuals. So while many style guides adequately cover the main concerns of all technical documentation, sometimes a more specialized guide is needed.
 
+### More info is needed for the following
+
 #### User Guide / Manuals
 
 #### Tutorials / How-To / FAQ
@@ -63,8 +67,6 @@ Technical documentation takes many forms, each one targeting a certain need. Her
 
 #### API documentation
 
-- https://developers.google.com/style/api-reference-comments
-
 ## Writing Style
 The style guides below focus on the actual writing craft itself. They consider how to make technical content readable, clear, succinct, and engaging. 
 
@@ -74,7 +76,6 @@ The style guides below focus on the actual writing craft itself. They consider h
 - [Writing Style](https://developers.google.com/style/)
 
 ## Other resources
-If you don't think that any of these resources meet your needs, maybe you should consider creating your [own style guide document](http://www.writethedocs.org/style-guide/). 
 
 Rather than reinvent the wheel, here are some resources curated by [Ivan Walsh](http://www.ihearttechnicalwriting.com/style-guide-technical-writing/) (Kudos!):
 
