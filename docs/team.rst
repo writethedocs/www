@@ -105,23 +105,24 @@ Members
 Newsletter Team
 ---------------
 
-These folks are in charge of communicating with the greater Write the Docs
-community. This is mainly done through our newsletter, as well as content
-updates that we put out on our site.
+These folks are in charge of putting out our monthly documentation newsletter to the wider Write the Docs community. The stories in each issue are distilled from conversations that happen across the WTD Slack, which are curated and written by a team of volunteers.
 
-Roles
-`````
+Responsibilities
+````````````````
 
-* Maintain the website section about our newsletter
-* Curate the Slack & Forum chatter into a monthly email newsletter update
-* Write and send mail to our mailing list for community updates and events
+* Curate Slack conversations and distill them into brief newsletter stories
+* Write a monthly update on general goings-on in the community
+* Round up any Write the Docs events or meetups for the upcoming month
+* Assemble and publish the monthly newsletter to the mailing list and `the website <http://www.writethedocs.org/blog/archive/tag/newsletter/>`_
 
 Members
 ```````
 
 * `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_ *
 * `Hillary Fraley <https://github.com/hillaryfraley>`_
-* Volunteers Needed!
+* `Jennifer Rondeau <https://twitter.com/bradamante>`_
+* `Claire Lundeby <https://twitter.com/clairelundeby>`_
+* Volunteers welcome!
 
 
 Support Team
