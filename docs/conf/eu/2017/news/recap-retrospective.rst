@@ -57,9 +57,7 @@ License <https://creativecommons.org/licenses/by-nc-sa/2.0/>`_.
 Write the Docs Slack
 --------------------
 
-The Write the Docs Slack has really grown this last year. Our Slack channels have been extra busy in the days and weeks leading up to the conference, and we hope that y'all continue the conversations throughout the year. If you haven't joined, head on over and join us!
-
-We're at `Write the Docs Slack <http://slack.writethedocs.com/>`_.
+The `Write the Docs Slack <http://slack.writethedocs.com/>`_ has really grown this last year. Our Slack channels have been extra busy in the days and weeks leading up to the conference, and we hope that y'all continue the conversations throughout the year. If you haven't joined, head on over and join us!
 
 Meetups
 -------
