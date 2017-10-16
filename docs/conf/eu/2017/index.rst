@@ -113,6 +113,22 @@
                 <div class="col-xs-12 col-md-4">
                   <a href="news/2week-info/" class="well news__tile">
                     <h3 class="well__title">
+                      Recap and Retrospective
+                    </h3>
+                    <p class="well__paragraph">
+                    Thanks for attending the 2017 edition of Write the Docs Prague!
+                    We're so grateful to our speakers, sponsors, volunteers...
+                    </p>
+                    <div class="well__time">
+                      <span>12:00</span>|<span>October 16, 2017</span>
+                    </div>
+                  </a>
+                </div>
+
+                <div class="row">
+                <div class="col-xs-12 col-md-4">
+                  <a href="news/2week-info/" class="well news__tile">
+                    <h3 class="well__title">
                       Get Ready for Write the Docs Prague 2017!
                     </h3>
                     <p class="well__paragraph">
@@ -138,22 +154,6 @@
                     </p>
                     <div class="well__time">
                       <span>12:00</span>|<span>August 8, 2017</span>
-                    </div>
-                  </a>
-                </div>
-
-                <div class="row">
-                <div class="col-xs-12 col-md-4">
-                  <a href="news/announcing-events-volunteers/" class="well news__tile">
-                    <h3 class="well__title">
-                      Announcing Events and Call for Volunteers
-                    </h3>
-                    <p class="well__paragraph">
-                    The conference is now just under two months away, and we hope
-                    you’re getting geared up...
-                    </p>
-                    <div class="well__time">
-                      <span>12:00</span>|<span>July 19, 2017</span>
                     </div>
                   </a>
                 </div>
