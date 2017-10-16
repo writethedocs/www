@@ -8,11 +8,9 @@ Write the Docs Prague 2017 - Recap and Retrospective
 
 Hi everyone,
 
-Thanks for attending the 2017 edition of Write the Docs Prague! We're so grateful to our speakers, sponsors, volunteers, and attendees for making the conference possible.
+Thanks for attending the 2017 edition of Write the Docs Prague! We're so grateful to our speakers, sponsors, volunteers, and attendees for making the conference possible. We hope you had a wonderful time, and that you are as excited as we are about the beautiful community that gathers under our roof.
 
-We hope you had a wonderful time, and that you are as excited as we are about the beautiful community that gathers under our roof. Below we've included all of the resources you might need for staying in touch and continue to build and grow the community.
-
-We also have a Code of Conduct transparency report and information about feedback to help make the conference even better next year.
+In this post we've included some feedback information to help make the conference even better next year, and a Code of Conduct transparency report. You'll also find links to the talk videos, photos, and resources you might need for staying in touch and continue to build and grow the community.
 
 Feedback and retrospective
 --------------------------
@@ -45,7 +43,7 @@ As mentioned, this report is anonymized and published for the sake of maintainin
 Videos
 ------
 
-All talk videos are now availble on our `playlist on our YouTube channel <https://www.youtube.com/playlist?list=PLZAeFn6dfHplBYPCwJt6ItkMDt7JSgUiL>`_.
+All talk videos are now availble `in a playlist on our YouTube channel <https://www.youtube.com/playlist?list=PLZAeFn6dfHplBYPCwJt6ItkMDt7JSgUiL>`_.
 
 We'd like to thank again all our speakers and lightning talk presenters for investing time, effort, and love into their presentations. Each year we see growth in both the diversity of topics and the spectrum of the roles that are represented in our
 conferences, and we hope to keep seeing this in years to come!
@@ -55,6 +53,21 @@ Photos
 
 We have photos from the event available on `Flickr <https://flic.kr/s/aHsm3Mcv9p>`_. We really love the photos each year, and you're welcome to use them for non-commercial purposes, as per our `Creative Commons
 License <https://creativecommons.org/licenses/by-nc-sa/2.0/>`_.
+
+Write the Docs Slack
+--------------------
+
+The Write the Docs Slack has really grown this last year. Our Slack channels have been extra busy in the days and weeks leading up to the conference, and we hope that y'all continue the conversations throughout the year. If you haven't joined, head on over and join us!
+
+We're at `Write the Docs Slack <http://slack.writethedocs.com/>`_.
+
+Meetups
+-------
+
+We hope you continue to `build the community <http://www.writethedocs.org/meetups/>`_ and keep in touch with other documentarians in your hometown. In this spirit, we have a number of meetups in cities around the world. If you don't see your
+city `listed <http://www.writethedocs.org/meetups/>`__, consider `starting <http://www.writethedocs.org/organizer-guide/meetups/starting/>`_ a meetup!
+
+Keep us posted if you start one (or encounter a new one) so that we can spread the word.
 
 2018 conferences
 ----------------
@@ -69,22 +82,8 @@ In the meantime, save the dates for next year:
 We're currently looking for launch sponsors to make our events just as magical as this year's events. If you are curious about
 sponsoring any Write the Docs event, please contact us at sponsorship@writethedocs.org.
 
-Write the Docs Slack
---------------------
-
-The Write the Docs Slack has really grown more this last year. Our general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y'all continue the conversations throughout the year. If you haven't joined, head on over and join us!
-
-We're at `Write the Docs Slack <http://slack.writethedocs.com/>`_.
-
-Meetups
--------
-
-We hope you continue to `build the community <http://www.writethedocs.org/meetups/>`_ and keep in touch with other documentarians in your hometown. In this spirit, we have a number of meetups in cities across the country. If you don't see your
-city `listed <http://www.writethedocs.org/meetups/>`__, consider `starting <http://www.writethedocs.org/organizer-guide/meetups/starting/>`_ a meetup!
-
-Keep us posted if you start one (or encounter a new one) so that we can spread the word.
 
 Thanks again
 ------------
 
-The conference is possible only because folks like you make it a great experience. Thanks for making it another wonderful year. We hope to see you back again next year, or even sooner at one of our other events that happen throughout the year.
+Our conferences are only possible because folks like you make it a great experience. Thanks for making this another wonderful event! We hope to see you back again next year, or even sooner at one of our other conferences or community events.
