@@ -34,7 +34,7 @@ Following the conference, here is an anonymized list of CoC-related incidents th
 
 - During the conference, an attendee tweeted a joke about inappropriate alcohol use with the #writethedocs hashtag. We asked the attendee to delete the tweet, which was done immediately.
 
-- One of the presenters made a joke during their talk that was considered discriminatory towards elderly people, parents, and/or women. We removed the mention from the presentation video before publishing it, and asked that the presenter refrain from these jokes in future Write the Docs events.
+- One of the presenters made a joke during their talk that was considered discriminatory. We removed the mention from the presentation video before publishing it, and asked that the presenter refrain from these jokes in future Write the Docs events.
 
 - We received several reports of over-use of the word "guys" to refer to people in general. This was not confined to a single incident, and repeated among presenters and attendees. Barring specific people to address, we'd like to remind everyone to carefully consider which pronouns and other classifications to use when addressing a diverse group.
 
