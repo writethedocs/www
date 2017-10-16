@@ -23,7 +23,7 @@ For too long, people who care about documentation have felt alone in the world, 
 Demographics
 ============
 
-We hold two conferences yearly, one in Portland, USA in May, and one in Prague, Europe in September. Attendence is approximately 400 in the USA and 300 in Europe, and we expect both conferences to sell out.
+We hold two conferences yearly, one in Portland, USA in May, and one in Prague, Europe in September. Attendance is approximately 400 in the USA and 300 in Europe, and we expect both conferences to sell out.
 Our audience is made up of:
 - Technical Writers (40%)
 - Developers (22%)
@@ -123,12 +123,6 @@ Sponsorship of the official party includes:
 
 - Mention of company on schedule for the party, and an on-stage thanks
 - Your logo on a banner or roll up at the party venue (provided by sponsor)
-
-Child Care
------------
-
-Many of our attendees have children, sponsoring day care makes it  easier for
-them to attend.
 
 Choose Your Own Sponsorship Adventure
 -------------------------------------
