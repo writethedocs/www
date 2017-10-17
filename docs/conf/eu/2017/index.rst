@@ -111,7 +111,7 @@
 
                 <div class="row">
                 <div class="col-xs-12 col-md-4">
-                  <a href="news/2week-info/" class="well news__tile">
+                  <a href="news/recap-retrospective/" class="well news__tile">
                     <h3 class="well__title">
                       Recap and Retrospective
                     </h3>
