@@ -103,10 +103,10 @@
         img_file: garen-torikian.png
         name: Garen Torikian
         picture: garen-torikian.png
-        slides: https://speakerdeck.com/gjtorikian/finally-trustworthy-and-sensible-api-documentation-with-graphql
         slug: garen-torikian
         twitter: gjtorikian
         website: https://www.gjtorikian.com
+    slides: https://speakerdeck.com/gjtorikian/finally-trustworthy-and-sensible-api-documentation-with-graphql
     title: 'Finally! Trustworthy and Sensible API Documentation with GraphQL '
     year: 2017
 -   abstract: "<p>As a former journalist, I tend to think in terms of storytelling.\
@@ -184,6 +184,7 @@
         website: ''
     title: The four kinds of documentation, and why you need to understand what they
         are
+    youtubeId: p0PPtdRHG6M
     year: 2017
 -   abstract: '<p>You''ve heard about diversity problems in tech, right? We know the
         problem exists at every point in the process: education, internship opportunities,
@@ -207,11 +208,13 @@
         img_file: cory-williamson-cardneau.png
         name: Cory Williamson-Cardneau
         picture: cory-williamson-cardneau.png
-        slides: http://cory.williamson-cardneau.com/blog/inclusion-resources
+
         slug: cory-williamson-cardneau
         twitter: cory_will
         website: http://cory.williamson-cardneau.com/
     title: Sticks & Stones... Microaggressions & Inclusive Language at Work
+    slides: http://cory.williamson-cardneau.com/blog/inclusion-resources
+    youtubeId: lXXuQQ9xtPc
     year: 2017
 -   abstract: "<p>How can you easily retrieve your (google) docs? How can you keep\
         \ the whole picture in mind?</p> <p>The first step is to give docs consistent\
