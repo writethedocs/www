@@ -2,6 +2,7 @@
 ----------------
 
 - :doc:`Write the Docs Portland </conf/portland/2018/index>`, May 6-8, **Portland, Oregon**
+- Write the Docs Prague, September 9-11, **Prague, Czech Republic**
 
 2017 Conferences
 ----------------
