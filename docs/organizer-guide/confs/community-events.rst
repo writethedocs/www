@@ -1,20 +1,30 @@
-Community Events
-================
+Community-Run Events
+====================
 
-We are happy to promote events that are created by our community.
+We are happy to promote events that are independently organized by members of our community.
 They are **not** officially organized by Write the Docs organizers,
-but they are sister events that share a similar goal.
+but they related events with similar goals and values.
+
+Types of Events
+---------------
+
+In general we have a few different type of events:
+
+* Official Conferences, which are organized by our :doc:`team </team>`
+* Meetups, which are organized by local members of the community
+* Community-Run Conferences, which are organized by members of our community, but for more specific topics or regions
 
 Requirements
 ------------
 
-In order to be listed as a community event,
+In order to be listed as a community-run event,
 we require a few things.
 This is primarily to make sure people understand who is organizing the event,
 and to make sure companies can't run events inside our community for their own profit.
 
 Community events:
 
-* Must have a Code of Conduct
+* Must target our specific community
 * Must specify they **are not** official Write the Docs events, but must link back to Write the Docs as a refenence to the community
-* Must list the organizers, and they must be from multiple companies
+* Must have a Code of Conduct
+* Must have multiple organizers from more than one company, and organizers must be listed on the website
