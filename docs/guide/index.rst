@@ -59,7 +59,6 @@ This gets us fired up.
 Check out these resources that we get inspired by:
 
 * https://github.com/PharkMillups/beautiful-docs
-* https://github.com/showcases/projects-with-great-wikis
 * Your link here
 
 Markup Languages
