@@ -1,3 +1,19 @@
+- abstract: <p>Users end up with documentation for three different reasons. Some users are new to the product and want to read everything so they can develop a comprehensive knowledge of your software. Some users know how to use the product. They want to brush up on a task they only need occasionally or to learn a new part of the product. Most users come with a specific goal in mind and want to move on with their day having read as little of your documentation as possible.</p>
+      <p>Each type of user needs different modes of interaction, but you often have to serve them all with one. This talk addresses the different needs of each user archetype and how to meet the relevant needs in every document.</p>
+  event: Write the Docs Day AU 2017
+  series: Write the Docs AU
+  series_slug: au
+  slug: documenting-documents-for-all-three-use-cases-margaret-fero
+  speakers:
+  -   details: ''
+      img_file: maggie-fero.png
+      name: Margaret Fero
+      picture: maggie-fero.png
+      slug: margaret-fero
+      twitter: MaggieFero
+  title: Delivering Documents For All Three Use Cases
+  year: 2017
+  
 - abstract: <p>Developers of voice and chat assistants are crying out for good writers to help them create the conversational interfaces of the present and future. In this talk, I will introduce  what constitutes a 'good' conversational experience and how we, as writers, can benefit from this trend.</p>
       <p>This will include advice on tone, variety of language, setting and checking user context, testing interfaces, presenting choice and much more.</p>
   event: Write the Docs Day AU 2017
