@@ -51,11 +51,10 @@ Social Rules
 ------------
 
 Our goal with Write the Docs is to be **the most welcoming community on the internet**.
-Documentarians tend to be empathetic people,
-this means that we should be good at communicating well.
-People who are new to our community in particular should be assisted and welcoming.
+Documentarians tend to be empathetic people, which means that we should be good at communicating well.
+People who are new to our community in particular should be assisted and welcomed.
 
-We have a few guidelines that we hope people will follow when interacting inside out Slack network:
+We have a few guidelines that we hope people will follow when interacting inside our Slack network:
 
 - **Only participate when you can be constructive** - Just because you can make a comment, doesn't mean you should. Try and be constructive in all that you do.
 - **Say hi** - The world is a better place with a flood of hello's instead of a dearth of greetings.
