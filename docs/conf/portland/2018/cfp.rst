@@ -1,4 +1,4 @@
-:template: 2018/na-content.html
+:template: 2018/base.html
 
 Call for proposals
 ==================
