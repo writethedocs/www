@@ -116,7 +116,7 @@ day. Over the next couple months we were contacted by people from a
 variety of disciplines; technical writing industry groups, designers,
 typographers, literate programmers, API driven startups, and more. We
 quickly found a new venue, and sold out a 250 person conference. The
-`experience <http://adaptgather.com/2013/04/11/write-the-docs-2013/>`__
+`experience <https://thoughtfuldrift.info/2013/04/11/write-the-docs-2013.html>`__
 was amazing. We'd found our tribe, and they'd found us.
 
 Now, we're ramping up for year two, with conferences both `in
