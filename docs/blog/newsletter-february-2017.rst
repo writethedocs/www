@@ -30,7 +30,7 @@ Getting started with API Docs
 "How do I get started with API documentation?" is a question we've overheard on Slack and IRL, on an increasingly regular basis. When it resurfaced a few weeks ago, in our #documenting-apis channel, we thought we'd take the opportunity to pull together a little collection of resources to help folks get started on their API docs journey:
 
 * `Writing great documentation <https://byrslf.co/writing-great-documentation-44d90367115a>`_
-* `Documenting REST APIs <http://idratherbewriting.com/docapis_course_overview/>`_
+* `Documenting REST APIs <http://idratherbewriting.com/learnapidoc/>`_
 * `The Best API Documentation <https://bradfults.com/the-best-api-documentation-b9e46400379a>`_
 * `So you want to learn about API documentation <http://www.yourmom.io/2016/05/apis_new_writers/>`_
 * `Write the Docs Guide: API Docs <http://www.writethedocs.org/guide/#api-documentation>`_
