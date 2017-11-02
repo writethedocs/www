@@ -31,23 +31,28 @@ Our goal is to give documentarians a chance to connect and learn from each other
 What we’re looking for
 ----------------------
 
+**Mix of topics and perspectives** 
 The focus of Write the Docs is software documentation, but we actively seek
 talks that address a wide range of related subjects,
 at various levels of expertise. Documentation perspectives from other fields are welcome! Talks from the scientific community, fiction writers, system administrators, and support staff – in addition to technical writers and software developers – are all valuable to our attendees.
 
+**Diverse group of speakers** 
 We welcome talks from first-time speakers, from industry experts, and from
 everyone in between. Whatever your background and experience, we prefer hearing about new
 approaches than about tried-and-tested technology. We especially welcome talks
 from underrepresented groups within the tech community.
 
+**Practicality and positivity**  
 We prefer talks backed by experience and experimentation to talks about theory,
 and we definitely don't like talks that bad-mouth technologies or approaches.
 Don't tell us why you hate something – tell us how you overcame the problems it was causing.
 
+**Process over tooling** 
 We tend to avoid talks about specific tools, which often turn into marketing
 pitches or tutorials. We would much rather hear about process, culture, data,
 people, or the metaphysical side effects of spending your life thinking about docs.
 
+**Audience awareness** 
 When crafting talk proposals, remember that you're going to be talking to a mix
 of levels of expertise, skill sets, and professions. Your talk doesn't have to be
 relevant to everyone, but it should be relevant to most people and shouldn't
