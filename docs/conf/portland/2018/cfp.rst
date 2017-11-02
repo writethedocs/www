@@ -68,7 +68,7 @@ If you need a hand preparing your talk proposal, there are lots of good places t
 
 * **Community mentorship** – We have an ever-growing pool of previous Write the Docs speakers, many of whom are happy to be a second pair of eyes on talk proposals. If you're interested in working with a past speaker, let us know!
 * **Meetup brainstorming** – For some in-person workshopping, check in on your `local meetup group <http://www.writethedocs.org/meetups/>`_ and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
-* **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `http://slack.writethedocs.org/<http://slack.writethedocs.org/>`_.)
+* **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `http://slack.writethedocs.org/ <http://slack.writethedocs.org/>`_.)
 
 Presentation format
 -------------------
@@ -101,6 +101,6 @@ Submit your proposal
 
 .. raw:: html
 
-	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdb-MNRT3TdDTuVIcf-3lZRWDOgguZfjatLr-HLN5ngx5t04w/viewform?embedded=true" width="760" height="250" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdb-MNRT3TdDTuVIcf-3lZRWDOgguZfjatLr-HLN5ngx5t04w/viewform?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 You can also view `our CFP <https://docs.google.com/forms/d/e/1FAIpQLSdb-MNRT3TdDTuVIcf-3lZRWDOgguZfjatLr-HLN5ngx5t04w/viewform>`_ in its own page.
