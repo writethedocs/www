@@ -8,7 +8,7 @@ excited to announce that we are now accepting talk proposals for our next North
 American conference, coming up on **May 6-8, 2018, in Portland, Oregon**.
 
 Every year, Write the Docs invites people from all across our community to come
-up on stage to share their insights and experience. Whether you’ve been writing
+up on stage to share their insights and experience. Whether you’ve worked on
 documentation for decades or you’ve just started this year, we want to hear from
 you! Read on to learn more about the goals of the conference and what we look
 for in talk proposals.
