@@ -17,7 +17,7 @@ In the meantime, mark your calendars:
 
 **The deadline for submitting proposals is Midnight PST on January 08, 2018.**
 
-We'll let you know if your proposal has been accepted by late January.
+We'll let you know if your proposal has been accepted by the end of January.
 
 Conference goals
 ----------------
@@ -67,7 +67,7 @@ Need help?
 If you need a hand preparing your talk proposal, there are lots of good places to start:
 
 * **Community mentorship** – We have an ever-growing pool of previous Write the Docs speakers, many of whom are happy to be a second pair of eyes on talk proposals. If you're interested in working with a past speaker, let us know!
-* **Meetup brainstorming** – For some in-person workshopping, check in on your `local meetup group<http://www.writethedocs.org/meetups/>`_ and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
+* **Meetup brainstorming** – For some in-person workshopping, check in on your `local meetup group <http://www.writethedocs.org/meetups/>`_ and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
 * **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `http://slack.writethedocs.org/<http://slack.writethedocs.org/>`_.)
 
 Presentation format
@@ -89,7 +89,7 @@ largest number of participants possible.
 If your proposal is accepted but you are unable to attend due to travel costs,
 please let us know and we will do our best to help make it happen.
 
-**You’ll hear from us with our proposal decisions by late January.**
+**You’ll hear from us with our proposal decisions by the end of January.**
 
 Questions?
 ----------
