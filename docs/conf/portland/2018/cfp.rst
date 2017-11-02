@@ -88,8 +88,6 @@ largest number of participants possible. If your proposal is accepted but you
 are unable to attend due to travel costs, please let us know and we will do our
 best to help make it happen.
 
-Speaking at Write the Docs is a fantastic way to contribute to the community.
-
 Finally, you’ll hear from us with our proposal decisions by late January.
 
 Questions?
