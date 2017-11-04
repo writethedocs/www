@@ -4,7 +4,7 @@
    :tags: 2017, australia, events, volunteers
 
 Welcome to Our Newest Sponsors
------r-------------------------
+------------------------------
 
 This conference wouldn't happen without the help of our amazing sponsors. Please join us in giving a warm welcome to `Ara Institute of Canterbury <http://www.ara.ac.nz/>`_, our latest supporting organisation.
 
