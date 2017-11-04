@@ -109,7 +109,7 @@
                       Welcome newest sponsor and updated visitor info
                     </h3>
                     <p class="well__paragraph">
-                    Please join us in giving a warm welcome to `Ara Institute of Canterbury <http://www.ara.ac.nz/>`_, our latest supporting organisation...
+                    Please join us in giving a warm welcome to Ara Institute of Canterbury, our latest supporting organisation...
                     </p>
                     <div class="well__time">
                       <span>12:00</span>|<span>November 4, 2017</span>
@@ -171,7 +171,7 @@
                   </div>
                 </div>
 
-.. .. include:: /include/conf/2017-au-sponsors.rst
+.. include:: /include/conf/2017-au-sponsors.rst
 
 .. raw:: html
 
