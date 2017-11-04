@@ -15,6 +15,7 @@ You'll find more info and links to the full talk abstracts down below. You can a
 Presentations
 -------------
 
+* Margaret Fero - `Delivering Documents For All Three Use Cases </conf/au/2017/speakers/#speaker-margaret-fero>`_
 * Chris Ward - `Conversational UIs for Writers </conf/au/2017/speakers/#speaker-chris-ward>`_
 * Nicola Nye - `Writing extensions in Sphinx: supercharge your docs </conf/eu/2017/speakers/#speaker-nicola-nye>`_
 * Laura Bailey - `How I decided to do this talk </conf/eu/2017/speakers/#speaker-laura-bailey>`_
