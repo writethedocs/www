@@ -8,7 +8,7 @@ Write the Docs Newsletter – November 2017
 
 Happy November everybody! Kelly O. here, reporting live from the coffee shop that is about to cut me off because I've had three flat whites in a row. But I'm considering them celebratory beverages, because we have a jam-packed month of documentation goodness to talk about.
 
-In the next few weeks, the orangization team will be
+In the next few weeks, the orangization team will be:
 
 - Announcing the call for proposals (and looking for volunteers) for next year's Portland conference! (If you're not signed up to the conference mailing list, you can do so in `the sidebar of the WTD homepage <http://www.writethedocs.org/>`_.)
 - Wishing we were all going to be in Australia for their `Write the Docs Day mini-conference <http://www.writethedocs.org/conf/au/2017/>`_.
