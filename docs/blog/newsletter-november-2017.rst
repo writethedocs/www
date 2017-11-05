@@ -43,7 +43,7 @@ Just in our own Slack community, people said they refer to ``{}`` as squiggly br
 
 As for their use in prose, as opposed to code, someone shared `a Grammar Girl article <http://www.quickanddirtytips.com/education/grammar/parentheses-brackets-and-braces>`_, which digs into the various proper usages for ``()`` and ``[]``. (Curly wurly woos don't come up much in prose, so the post doesn't touch on them much.)
 
-So remember, for the Write the Docs hivemind, there is no question too big, and no question to small.
+So remember, for the Write the Docs hivemind, there is no question too big, and no question too small.
 
 ***********************************
 It's your turn to ask the questions
