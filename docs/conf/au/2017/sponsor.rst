@@ -13,7 +13,7 @@ Sponsors
 The conference wouldn't be nearly as great as it is without our wonderful corporate sponsors.
 Thanks to these folks for supporting the community.
 
-.. .. include:: /include/conf/2017-au-sponsors.rst
+.. include:: /include/conf/2017-au-sponsors.rst
 
 
 In Kind Sponsors

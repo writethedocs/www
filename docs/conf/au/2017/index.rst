@@ -104,6 +104,21 @@
 
                 <div class="row">
                 <div class="col-xs-12 col-md-4">
+                  <a href="news/welcome-new-sponsor/" class="well news__tile">
+                    <h3 class="well__title">
+                      Welcome newest sponsor and updated visitor info
+                    </h3>
+                    <p class="well__paragraph">
+                    Please join us in giving a warm welcome to Ara Institute of Canterbury, our latest supporting organisation...
+                    </p>
+                    <div class="well__time">
+                      <span>12:00</span>|<span>November 4, 2017</span>
+                    </div>
+                  </a>
+                </div>
+
+                <div class="row">
+                <div class="col-xs-12 col-md-4">
                   <a href="news/announcing-presentations-ticket-update/" class="well news__tile">
                     <h3 class="well__title">
                       Announcing presentations!
@@ -133,22 +148,6 @@
                   </a>
                 </div>
 
-                <div class="row">
-                <div class="col-xs-12 col-md-4">
-                  <a href="news/announcing-events-volunteers/" class="well news__tile">
-                    <h3 class="well__title">
-                      Announcing Events and Call for Volunteers
-                    </h3>
-                    <p class="well__paragraph">
-                    The day event is now just under two months away, and we hope
-                    you’re getting geared up...
-                    </p>
-                    <div class="well__time">
-                      <span>12:00</span>|<span>October 1, 2017</span>
-                    </div>
-                  </a>
-                </div>
-
               </section>
 
               </section>
@@ -172,7 +171,7 @@
                   </div>
                 </div>
 
-.. .. include:: /include/conf/2017-au-sponsors.rst
+.. include:: /include/conf/2017-au-sponsors.rst
 
 .. raw:: html
 
