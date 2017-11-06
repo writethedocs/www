@@ -8,12 +8,12 @@ Write the Docs Newsletter – November 2017
 
 Happy November everybody! Kelly O. here, reporting live from the coffee shop that is about to cut me off because I've had three flat whites in a row. But I'm considering them celebratory beverages, because we have a jam-packed month of documentation goodness to talk about.
 
-In the next few weeks, the orangization team will be:
+In the next few weeks, the organization team will be:
 
-- Announcing the call for proposals (and looking for volunteers) for next year's Portland conference! (If you're not signed up to the conference mailing list, you can do so in `the sidebar of the WTD homepage <http://www.writethedocs.org/>`_.)
+- Announcing the call for proposals (and looking for volunteers) for next year's Portland conference! (If you're not signed up to the conference mailing list, you can do so  `here <http://www.writethedocs.org/newsletter/>`_.)
 - Wishing we were all going to be in Australia for their `Write the Docs Day mini-conference <http://www.writethedocs.org/conf/au/2017/>`_.
 - Looking on excitedly as API the Docs holds `their second one-day event in Amsterdam <http://apithedocs.org/>`_.
-- Musing on how we got so lucky as to have almost a dozen meetups this month in a cities across the western hemisphere. Scroll down for details!
+- Musing on how we got so lucky as to have `almost a dozen meetups this month <#upcoming-community-events>`_ in a cities across the western hemisphere.
 
 Of course, in the meantime, we also have an array of documentation stories below, for your reading pleasure. Enjoy!
 
@@ -24,7 +24,7 @@ This month, we had a couple of conversations about images and screenshots that r
 
 Of course, our community of documentarians had a variety of good answers to share. For starters, there was a consensus that screenshots are inherently challenging. They take a significant time commitment to maintain, especially for a product with frequent UI changes. It was also pointed out that they are often overused and may not even be that useful to our readers. Diagrams, on the other hand, can be incredibly useful when designed well. Overall, the feeling was that using some screenshots and other images in your documentation is usually worth it, especially if you can commit some bandwidth to maintaining them.
 
-Some of the other image tips that came up included:
+Some other image tips that came up included:
 
 * Crop your screenshots to highlight only the specific area of interface you're documenting.
 * Keep all of your image files in a single, separate location. If possible, use version control.
@@ -37,7 +37,7 @@ A ``{}`` by any other name
 
 Sometimes, when scanning Slack, it's easy to spot which comments are going turn into newsletter fodder. Other times, a trivial comment will unexpectedly blow up. This month, what started as a quick 'hey, what's the name for this punctuation mark?' turned into a surprisingly in-depth and entertaining discourse.
 
-For many of us, our primary use of ``{}``, ``[]``, and ``()`` is in code. But what you might not know is that a) there are a *dizzying* array of names for these marks and b) when using them in prose, they have some interesting uses you might not be familiar with.
+For many of us, our primary use of ``{}``, ``[]``, and ``()`` is in code. But what you might not know is that a) there is a *dizzying* array of names for these marks and b) when using them in prose, they have some interesting uses you might not be familiar with.
 
 Just in our own Slack community, people said they refer to ``{}`` as squiggly brackets, braces, curly brackets, curly braces, and (totally seriously, I'm sure) curly wurly woos. If that's not enough, `the wikipedia article on brackets <https://en.wikipedia.org/wiki/Bracket>`_ is not only a hilariously deep rabbit hole, but also provides us with more names including: French brackets, definite brackets, swirly brackets, birdie brackets, Scottish brackets, squirrelly brackets, gullwings, seagulls, twirly brackets, Tuborg brackets (DK), accolades (NL), pointy brackets, third brackets, fancy brackets, and m braces.
 
@@ -83,7 +83,7 @@ Upcoming community events
 
 November is a big-ticket month for the events! Not only do we have a cavalcade of meetups to share, but we also have two community events on the books.
 
-**Write the Docs Day Australia** is happening in Melbourne on the 24th, and you can still snag a ticket here: `http://apithedocs.org/ <http://apithedocs.org/>`_
+**Write the Docs Day Australia** is happening in Melbourne on the 24th, and you can still snag a ticket here: `http://www.writethedocs.org/conf/au/2017/ <http://www.writethedocs.org/conf/au/2017/>`_
 
 **API The Docs** is holding their second event in Amsterdam on December 4th, and their sign up is still open here: `http://apithedocs.org/ <http://apithedocs.org/>`_
 
