@@ -1,10 +1,13 @@
-Newsletter
-==========
+Newsletter & Mailing lists
+==========================
 
 Write the Docs publishes a regular newsletter. Each month we pack a bunch of
 interesting information that has been shared in our Slack network into the
 newsletter. You can see previous versions in our `newsletter archives
 </blog/archive/tag/newsletter/>`_.
+
+You can also subscribe to our North American and European Conference mailing
+to stay up-to-date on upcoming conferences. 
 
 .. raw :: html
 
