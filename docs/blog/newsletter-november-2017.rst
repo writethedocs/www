@@ -107,10 +107,10 @@ November 15 - Los Angeles, CA, USA – `Happy Hour/Social Meetup <https://www.me
 
 November 16 – Boston, MA, USA – `Challenges in Large Doc Sets <https://www.meetup.com/Write-the-Docs-BOS/events/244174338/>`_
 
-**November 24 – Melbourne, Australia – `Write the Docs Day Australia: One-day mini-conference <http://www.writethedocs.org/conf/au/2017/>`_**
+November 24 – Melbourne, Australia – `Write the Docs Day Australia: One-day mini-conference <http://www.writethedocs.org/conf/au/2017/>`_
 
 November 27 – Berlin, Germany – `November Hackup <https://www.meetup.com/Write-The-Docs-Berlin/events/244348754/>`_
 
 November 29 – Leeds-Bradford, UK – `Social meetup: Burgers & Chat <https://www.meetup.com/Write-the-Docs-Leeds-Bradford/events/244243638/>`_
 
-**December 4 – Amsterdam, Netherlands – `API The Docs mini-conference <http://apithedocs.org/>`_**
+December 4 – Amsterdam, Netherlands – `API The Docs mini-conference <http://apithedocs.org/>`_
