@@ -22,7 +22,7 @@ Worth it: images & screenshots
 ******************************
 This month, we had a couple of conversations about images and screenshots that raised some interesting questions. When do we need to include images in our documentation? How many images is enough? How many is too many? Given how difficult they can be to maintain, are they even worth it?
 
-Of course, our community of documentarians had a variety of good answers to share. For starters, one general sentiment was that screenshots are inherently challenging. They take a significant time commitment to maintain, especially for a product with frequent UI changes. It was also pointed out that they are often overused and may not even be that useful to our readers. Diagrams, on the other hand, can be incredibly useful when designed well. Overall, the feeling was that using some screenshots and other images in your documentation is usually worth it, especially if you can commit some bandwidth to maintaining them.
+Of course, our community of documentarians had a variety of good answers to share. For starters, there was a consensus that screenshots are inherently challenging. They take a significant time commitment to maintain, especially for a product with frequent UI changes. It was also pointed out that they are often overused and may not even be that useful to our readers. Diagrams, on the other hand, can be incredibly useful when designed well. Overall, the feeling was that using some screenshots and other images in your documentation is usually worth it, especially if you can commit some bandwidth to maintaining them.
 
 Some of the other image tips that came up included:
 
