@@ -44,7 +44,7 @@ body p {
   text-align: center;
   width: 100%; }
 
-body .uk-button-ghost {
+body .uk-button.uk-button-ghost {
   background: transparent;
   border: 1px solid #FFF;
   border-radius: 6px;
@@ -54,13 +54,14 @@ body .uk-button-ghost {
   padding-bottom: 0px;
   padding-top: 0px; }
 
-body .header-logo {
+body .header-logo, body .header-logo:hover, body .header-logo:visited, body .header-logo:active {
   font-family: bree serif;
   text-transform: uppercase;
   text-align: right;
+  text-decoration: none;
   font-size: 24px;
   line-height: 1; }
-  body .header-logo em {
+  body .header-logo em, body .header-logo:hover em, body .header-logo:visited em, body .header-logo:active em {
     color: #f6b709;
     font-style: normal;
     font-size: 20px; }
@@ -151,17 +152,18 @@ body .page-content {
       color: #000;
       margin-top: 16px;
       margin-bottom: 16px; }
-  .hero .hero-logo {
+  .hero .hero-logo, .hero .hero-logo:hover, .hero .hero-logo:visited, .hero .hero-logo:active {
     padding-top: 36px;
     color: #000;
     font-size: 46px;
     font-family: "Bree Serif", serif;
     text-transform: uppercase;
     line-height: 40px;
-    text-align: right; }
-    .hero .hero-logo em {
+    text-align: right;
+    text-decoration: none; }
+    .hero .hero-logo em, .hero .hero-logo:hover em, .hero .hero-logo:visited em, .hero .hero-logo:active em {
       color: #FFF;
-      font-size: 35px;
+      font-size: 28px;
       font-style: normal;
       line-height: 18px;
       position: relative;
@@ -210,7 +212,8 @@ body .page-content {
       border: 1px solid #f1f1f1; }
 
 .about h2 {
-  color: #F6B709; }
+  color: #F6B709;
+  text-align: left; }
 
 .schedule-overview {
   background-color: #f7f7f7;
@@ -418,7 +421,7 @@ footer {
       footer .uk-container .footer-logo em {
         color: #f6b709;
         font-style: normal;
-        font-size: 48px;
+        font-size: 40px;
         position: relative;
         top: -8px; }
     footer .uk-container .footer-pics {
@@ -742,17 +745,19 @@ footer {
     max-width: 780px; }
   body .page-banner {
     height: 336px; }
+    body .page-banner .uk-container {
+      max-width: 620px !important; }
   body .page-content .uk-container {
     max-width: 620px !important; }
   .hero {
     height: 500px; }
     .hero nav {
       max-width: 708px; }
-    .hero .hero-logo {
+    .hero .hero-logo, .hero .hero-logo:hover, .hero .hero-logo:visited, .hero .hero-logo:active {
       font-size: 64px;
       line-height: 56px; }
-      .hero .hero-logo em {
-        font-size: 48px; }
+      .hero .hero-logo em, .hero .hero-logo:hover em, .hero .hero-logo:visited em, .hero .hero-logo:active em {
+        font-size: 40px; }
     .hero .hero-text p:first-child {
       margin-bottom: 40px; }
     .hero .hero-text p:not(:first-child) {

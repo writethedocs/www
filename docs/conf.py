@@ -18,6 +18,7 @@ exclude_patterns = [
     'include',
     '_data',
     'conf/_cookiecutter',
+    'node_modules',
 ]
 extensions = [
     'ablog',

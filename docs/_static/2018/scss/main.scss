@@ -90,7 +90,7 @@ body p {
 	}
 }
 
-body .uk-button-ghost {
+body .uk-button.uk-button-ghost {
 	background: transparent;
 	border: 1px solid $white;
 	border-radius: 6px;
@@ -101,10 +101,11 @@ body .uk-button-ghost {
 	padding-top: 0px;
 }
 
-body .header-logo {
+body .header-logo, body .header-logo:hover, body .header-logo:visited, body .header-logo:active {
 	font-family: bree serif;
 	text-transform: uppercase;
 	text-align: right;
+	text-decoration: none;
 	font-size: 24px;
 	line-height: 1;
 
@@ -229,7 +230,7 @@ body .page-content {
 		}
 	}
 
-	.hero-logo {
+	.hero-logo, .hero-logo:hover, .hero-logo:visited, .hero-logo:active {
 		padding-top: 36px;
 		color: $black;
 		font-size: 46px;
@@ -237,10 +238,11 @@ body .page-content {
 		text-transform: uppercase;
 		line-height: 40px;
 		text-align: right;
+		text-decoration: none;
 
 		em {
 			color: $white;
-			font-size: 35px;
+			font-size: 28px;
 			font-style: normal;
 			line-height: 18px;
 			position: relative;
@@ -303,6 +305,7 @@ body .page-content {
 
 	h2 {
 		color: $main-color;
+		text-align: left;
 	}
 
 }
@@ -546,7 +549,7 @@ footer {
 			em {
 				color: #f6b709;
 				font-style: normal;
-				font-size: 48px;
+				font-size: 40px;
 				position: relative;
 				top: -8px;
 			}
@@ -953,6 +956,10 @@ footer {
 
 	body .page-banner {
 		height: 336px;
+
+		.uk-container {
+			max-width: 620px !important;
+		}
 	}
 
 	body .page-content {
@@ -968,12 +975,12 @@ footer {
 			max-width: 708px;
 		}
 
-		.hero-logo {
+		.hero-logo,  .hero-logo:hover, .hero-logo:visited, .hero-logo:active {
 			font-size: 64px;
 			line-height: 56px;
 
 			em {
-				font-size: 48px;
+				font-size: 40px;
 			}
 		}
 		.hero-text p:first-child {
