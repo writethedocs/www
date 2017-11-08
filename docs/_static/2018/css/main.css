@@ -79,9 +79,17 @@ body div.mobile-post-header {
 .header {
   background-color: #F6B709; }
 
+body a.headerlink {
+  color: #fff; }
+
+body a.headerlink:hover {
+  color: #444444;
+  background: #eaeaea; }
+
 body .page-banner {
   height: 184px;
-  width: 100%; }
+  width: 100%;
+  background-size: cover; }
   body .page-banner .uk-container {
     position: relative; }
     body .page-banner .uk-container h1 {
