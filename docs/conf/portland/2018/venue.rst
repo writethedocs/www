@@ -1,4 +1,4 @@
-:template: 2018/na.html
+:template: 2018/venue.html
 
 
 

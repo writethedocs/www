@@ -36,54 +36,54 @@
 		<link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet">
 		<link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css" rel="stylesheet">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.css" />
-		<link rel="stylesheet" href="{{ pathto('_templates/2018/dist/css/main.min.css', 1) }}" type="text/css">
-        <link rel="shortcut icon" href="{{ pathto('_templates/2018/dist/icons/favicon.png', 1) }}">
+		<link rel="stylesheet" href="{{ pathto('_static/2018/css/main.min.css', 1) }}" type="text/css">
+        <link rel="shortcut icon" href="{{ pathto('_static/2018/icons/favicon.png', 1) }}">
         {% block head_link %}
         {% endblock %}
 	</head>
 	<body>
 
-            {% block body %}
+            {% block container %}
             {% endblock %}
 
-            <div class="sponsors">
+            <!--<div class="sponsors">
                     <div class="uk-container">
                         <h2>Gold Sponsors</h2>
         
-                        <img src="static/assets/sponsors/google.png">
-                        <img src="static/assets/sponsors/amazon.png">
+                        <img src="gt/assets/sponsors/google.png', 1) }}">
+                        <img src="{{ pathto('_static/2018/assets/sponsors/amazon.png', 1) }}">
                         <h2>Silver Sponsors</h2>
         
                         <div class="silver-sponsors">
         
                             <div class="uk-width-1-2@s">
-                                <img src="static/assets/sponsors/microsoft.png">
+                                <img src="{{ pathto('_static/2018/assets/sponsors/microsoft.png', 1) }}">
                             </div>
         
                             <div class="uk-width-1-2@s">
-                                <img src="static/assets/sponsors/paypal.png">
+                                <img src="{{ pathto('_static/2018/assets/sponsors/paypal.png', 1) }}">
                             </div>
                         </div>
         
                         <h2>Bronze Sponsors</h2>
                         <div class="bronze-sponsors">
                             <div class="uk-width-1-2@s uk-width-1-3@m">
-                                <img src="static/assets/sponsors/wordpress.png">
+                                <img src="{{ pathto('_static/2018/assets/sponsors/wordpress.png', 1) }}">
                             </div>
                             <div class="uk-width-1-2@s uk-width-1-3@m">
-                                <img src="static/assets/sponsors/redhat.png">
+                                <img src="{{ pathto('_static/2018/assets/sponsors/redhat.png', 1) }}">
                             </div>
                             <div class="uk-width-1-2@s uk-width-1-3@m">
-                                <img src="static/assets/sponsors/netconomy.png">
+                                <img src="{{ pathto('_static/2018/assets/sponsors/netconomy.png', 1) }}">
                             </div>
                             <div class="uk-width-1-2@s uk-width-1-3@m">
-                                <img src="static/assets/sponsors/knowledge-owl.png">
+                                <img src="{{ pathto('_static/2018/assets/sponsors/knowledge-owl.png', 1) }}">
                             </div>
                             <div class="uk-width-1-2@s uk-width-1-3@m">
-                                <img src="static/assets/sponsors/travisci.png">
+                                <img src="{{ pathto('_static/2018/assets/sponsors/travisci.png', 1) }}">
                             </div>
                             <div class="uk-width-1-2@s uk-width-1-3@m">
-                                <img src="static/assets/sponsors/read-the-docs.png">
+                                <img src="{{ pathto('_static/2018/assets/sponsors/read-the-docs.png', 1) }}">
                             </div>
                         </div>
                     </div>
@@ -93,8 +93,8 @@
                 <div class="footer-head">
                     <div class="uk-container">
                         <h3>Join us now!</h3>
-                        <a class="uk-button uk-button-secondary uk-text-center">Buy a Ticket!</a>
-                        <a class="uk-button uk-button-default uk-text-center">Apply as Speakers</a>
+                        <a href="#" class="uk-button uk-button-secondary uk-text-center">Buy a Ticket!</a>
+                        <a href="#" class="uk-button uk-button-default uk-text-center">Apply as Speakers</a>
                     </div>
                 </div>
         
@@ -112,16 +112,16 @@
         
                                 <div class="footer-icon-list">
                                     <a href="">
-                                        <img src="/static/assets/icons/github-footer.svg">
+                                        <img src="{{ pathto('_static/2018/assets/icons/github-footer.svg', 1) }}">
                                     </a>
                                     <a href="">
-                                        <img src="/static/assets/icons/twitter-footer.svg">
+                                        <img src="{{ pathto('_static/2018/assets/icons/twitter-footer.svg', 1) }}">
                                     </a>
                                     <a href="">
-                                        <img src="/static/assets/icons/flicker.svg">
+                                        <img src="{{ pathto('_static/2018/assets/icons/flicker.svg', 1) }}">
                                     </a>
                                     <a href="">
-                                        <img src="/static/assets/icons/slack.svg">
+                                        <img src="{{ pathto('_static/2018/assets/icons/slack.svg', 1) }}">
                                     </a>
                                 </div><!-- end footer icons list of  links -->
                             </div> <!-- end of footer social section -->
@@ -137,16 +137,16 @@
                         </div><!-- end of footer content  -->
                         <div class="footer-pics">
                             <div>
-                                <img src="static/assets/images/pics/ft-image-01.jpg">
+                                <img src="{{ pathto('_static/2018/assets/images/pics/ft-image-01.jpg', 1) }}">
                             </div>
                             <div>
-                                <img src="static/assets/images/pics/ft-image-02.jpg">
+                                <img src="{{ pathto('_static/2018/assets/images/pics/ft-image-02.jpg', 1) }}">
                             </div>
                             <div>
-                                <img src="static/assets/images/pics/ft-image-04.jpg">
+                                <img src="{{ pathto('_static/2018/assets/images/pics/ft-image-04.jpg', 1) }}">
                             </div>
                             <div>
-                                <img src="static/assets/images/pics/ft-image-03.jpg">
+                                <img src="{{ pathto('_static/2018/assets/images/pics/ft-image-03.jpg', 1) }}">
                             </div>
                         </div>
                     </div>
@@ -165,11 +165,10 @@
                     AOS.init({
                         duration: 1200
                     });
-                </script>w
+                </script>
         
                 <!-- UIkit JS -->
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.25/js/uikit.min.js"></script>
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.25/js/uikit-icons.min.js"></script>
             </body>
         </html>
-        
