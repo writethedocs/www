@@ -22,7 +22,7 @@ Participate
 Leading up to the conference,
 the following will happen:
 
-* November 8: Open the Call for Proposals
+* November 13: Open the Call for Proposals
 * January 8: Close the Call for Proposals
 * January 22: Contact people with results of CFP submission
 * Febuary 8: Announce the conference talks
