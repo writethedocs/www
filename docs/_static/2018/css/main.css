@@ -83,13 +83,6 @@ body div.mobile-post-header {
 .header {
   background-color: #2ECC71; }
 
-body a.headerlink {
-  color: #fff; }
-
-body a.headerlink:hover {
-  color: #444444;
-  background: #eaeaea; }
-
 body .page-banner {
   height: 184px;
   width: 100%;
@@ -108,6 +101,18 @@ body .page-banner {
 
 body .page-content {
   padding-top: 36px; }
+  body .page-content a:not(.headerlink), body .page-content a:active:not(.headerlink), body .page-content a:visited:not(.headerlink), body .page-content a:link:not(.headerlink) {
+    border-bottom: 1px dashed #2ECC71;
+    color: #2ECC71;
+    text-decoration: none; }
+  body .page-content a:hover:not(.headerlink) {
+    border-bottom: 1px solid #2ECC71;
+    text-decoration: none; }
+  body .page-content a.headerlink {
+    color: #fff; }
+  body .page-content a.headerlink:hover {
+    color: #444444;
+    background: #eaeaea; }
   body .page-content h1, body .page-content h2, body .page-content h3, body .page-content h4, body .page-content h5, body .page-content h6 {
     text-align: left; }
   body .page-content .ticket {

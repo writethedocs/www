@@ -133,15 +133,6 @@ body div.mobile-post-header {
 	background-color: $main-color;
 }
 
-body a.headerlink {
-    color: #fff;
-}
-
-body a.headerlink:hover {
-    color: rgb(68, 68, 68);
-    background: rgb(234, 234, 234);
-}
-
 body .page-banner {
 	height: 184px;
 	width: 100%;
@@ -164,6 +155,27 @@ body .page-banner {
 
 body .page-content {
 	padding-top: 36px;
+
+	a:not(.headerlink), a:active:not(.headerlink), a:visited:not(.headerlink), a:link:not(.headerlink) {
+		border-bottom: 1px dashed $main-color;
+		color: $main-color;
+		text-decoration: none;
+	}
+
+	a:hover:not(.headerlink) {
+		border-bottom: 1px solid $main-color;
+		text-decoration: none;
+	}
+
+	a.headerlink {
+		color: #fff;
+	}
+	
+	a.headerlink:hover {
+		color: rgb(68, 68, 68);
+		background: rgb(234, 234, 234);
+	}
+	
 
 	h1, h2, h3, h4, h5, h6 {
 		text-align: left;
