@@ -103,18 +103,22 @@ body .uk-button.uk-button-ghost {
 	padding-top: 0px;
 }
 
-body .header-logo, body .header-logo:hover, body .header-logo:visited, body .header-logo:active {
+body .header-logo, body .header-logo a:hover, body .header-logo a:visited, body .header-logo a:active {
 	font-family: bree serif;
 	text-transform: uppercase;
 	text-align: right;
 	text-decoration: none;
 	font-size: 24px;
 	line-height: 1;
+	color: $black;
+	text-decoration: none;
 
 	em {
 		color: $main-color;
 		font-style: normal;
-		font-size: 20px;
+		font-size: 16px;
+		position: relative;
+		top: -8px;
 	}
 }
 
@@ -232,11 +236,30 @@ body .page-content {
 		border: #CEBEA9 1px solid;
 		border-radius: 4px;
 		margin: 20px auto;
-		& > img {
-			width: 40px;
-			height: 40px;
-			border-radius: 20px;
-			padding-right: 10px;
+
+		.speaker-info {
+			display: flex;
+			border-bottom: 2px solid #C4B098;
+	
+			& > img {
+				width: 40px;
+				height: 40px;
+				border-radius: 20px;
+				margin-right: 10px;
+			}
+	
+			.speaker-contact-info {
+	
+				ul {
+					li {
+						display: inline-block;
+
+						&:before {
+							content: "";
+						}
+					}
+				}
+			}
 		}
 	}
 }
@@ -461,6 +484,7 @@ body .page-content {
 	}
 
 }
+
 
 
 .news-block {

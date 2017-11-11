@@ -54,17 +54,21 @@ body .uk-button.uk-button-ghost {
   padding-bottom: 0px;
   padding-top: 0px; }
 
-body .header-logo, body .header-logo:hover, body .header-logo:visited, body .header-logo:active {
+body .header-logo, body .header-logo a:hover, body .header-logo a:visited, body .header-logo a:active {
   font-family: bree serif;
   text-transform: uppercase;
   text-align: right;
   text-decoration: none;
   font-size: 24px;
-  line-height: 1; }
-  body .header-logo em, body .header-logo:hover em, body .header-logo:visited em, body .header-logo:active em {
+  line-height: 1;
+  color: #000;
+  text-decoration: none; }
+  body .header-logo em, body .header-logo a:hover em, body .header-logo a:visited em, body .header-logo a:active em {
     color: #2ECC71;
     font-style: normal;
-    font-size: 20px; }
+    font-size: 16px;
+    position: relative;
+    top: -8px; }
 
 body div.mobile-post-header {
   display: -webkit-box;
@@ -155,11 +159,20 @@ body .page-content {
     border: #CEBEA9 1px solid;
     border-radius: 4px;
     margin: 20px auto; }
-    body .page-content .talk > img {
-      width: 40px;
-      height: 40px;
-      border-radius: 20px;
-      padding-right: 10px; }
+    body .page-content .talk .speaker-info {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      border-bottom: 2px solid #C4B098; }
+      body .page-content .talk .speaker-info > img {
+        width: 40px;
+        height: 40px;
+        border-radius: 20px;
+        margin-right: 10px; }
+      body .page-content .talk .speaker-info .speaker-contact-info ul li {
+        display: inline-block; }
+        body .page-content .talk .speaker-info .speaker-contact-info ul li:before {
+          content: ""; }
 
 .hero {
   background-color: #2ECC71;
