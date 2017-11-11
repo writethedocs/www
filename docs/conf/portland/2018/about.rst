@@ -23,4 +23,4 @@ getting to know each other.
    also run a :doc:`/conf/na/2018/unconference`, downstairs in Lola's Room.
 
 You can find out more information about the venue and its accessibility on our
-:doc:`/conf/na/2018/venue` page.
+:doc:`/conf/portland/2018/venue` page.

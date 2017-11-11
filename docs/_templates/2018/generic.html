@@ -1,7 +1,7 @@
 {% extends "2018/base_na.html" %}
 
 {% block head_link %}
-<title>{% if title %}{{ title }} - {% endif %}</title>
+<title>{% if title %}{{ title }}{% endif %} - Write the Docs Portland 2018</title>
 {{ super() }}
 {% endblock %}
 
@@ -9,13 +9,15 @@
 <div class="header">
         <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar>
             <div class="uk-navbar-left">
-                <a class="uk-button uk-button-ghost uk-text-uppercase uk-hidden@s"> Tickets</a>
-                <div class="header-logo uk-visible@s">
-                    write<br/> the<br/> docs<br/> <em>portland</em>
-                </div>
+                <a href="{{ pathto('conf/portland/2018/tickets') }}" class="uk-button uk-button-ghost uk-text-uppercase uk-hidden@s"> Tickets</a>
+                <a href="{{ pathto('conf/portland/2018') }}">
+                    <div style="color: #666;" class="header-logo uk-visible@s">
+                        write<br/> the<br/> docs<br/> <em>portland</em>
+                    </div>
+                </a>
             </div>
             <div class="uk-navbar-right">
-                <a class="uk-navbar-toggle uk-hidden@s" uk-navbar-toggle-icon href=""></a>
+                <a class="uk-navbar-toggle uk-hidden@s" uk-navbar-toggle-icon></a>
                 <ul class="uk-nav uk-visible@s">
                     <li><a href="{{ pathto('conf/portland/2018/news') }}">News</a></li>
                     <li><a href="{{ pathto('conf/portland/2018/schedule') }}">Schedule</a></li>
@@ -29,7 +31,11 @@
     </div><!-- end header -->
     <div class="mobile-post-header uk-hidden@s">
         <div class="header-logo">
-            write<br/> the<br/> docs<br/> <em>portland</em>
+                <a href="{{ pathto('conf/portland/2018') }}">
+                    <span style="color: #666;">
+                        write<br/> the<br/> docs<br/> <em>portland</em>
+                    </span>
+                </a>
         </div>
     </div><!-- end post header -->
 
