@@ -1,27 +1,24 @@
 {% extends "2018/base_na.html" %}
 
-{% block head_link %}
-<title>{% if title %}{{ title }} - {% endif %}</title>
-{{ super() }}
-{% endblock %}
-
 {% block container %}
 <div class="header">
         <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar>
             <div class="uk-navbar-left">
-                <a class="uk-button uk-button-ghost uk-text-uppercase uk-hidden@s"> Tickets</a>
+                <a href="{{ pathto('conf/portland/2018/tickets') }}" class="uk-button uk-button-ghost uk-text-uppercase uk-hidden@s"> Tickets</a>
                 <div class="header-logo uk-visible@s">
                     <a href="{{ pathto('conf/portland/2018') }}">write<br/> the<br/> docs<br/> <em>portland</em></a>
                 </div>
             </div>
             <div class="uk-navbar-right">
-                <a class="uk-navbar-toggle uk-hidden@s" uk-navbar-toggle-icon href=""></a>
+                <a class="uk-navbar-toggle uk-hidden@s" uk-navbar-toggle-icon></a>
                 <ul class="uk-nav uk-visible@s">
-                    <li><a href="{{ pathto('conf/portland/2018/news') }}">News</a></li>
-                    <li><a href="{{ pathto('conf/portland/2018/schedule') }}">Schedule</a></li>
-                    <li><a href="{{ pathto('conf/portland/2018/visiting') }}">Visit</a></li>
-                    <li><a href="{{ pathto('conf/portland/2018/about') }}">About</a></li>
-                    <li><a href="{{ pathto('conf/portland/2018/tickets') }}" class="uk-button uk-button-ghost uk-text-uppercase"> Tickets</a></li>
+                      <!-- <li><a href="{{ pathto('conf/portland/2018/news') }}">News</a></li> -->
+                      <!-- <li><a href="{{ pathto('conf/portland/2018/about') }}">About</a></li> -->
+                      <li><a href="{{ pathto('conf/portland/2018/schedule') }}">Schedule</a></li>
+                      <li><a href="{{ pathto('conf/portland/2018/sponsors') }}">Sponsors</a></li>
+                      <li><a href="{{ pathto('conf/portland/2018/visiting') }}">Portland</a></li>
+                      <li><a href="{{ pathto('conf/portland/2018/tickets') }}">Tickets</a></li>
+                      <li><a href="{{ pathto('conf/portland/2018/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
                 </ul>
             </div>
         </nav>
@@ -37,7 +34,7 @@
 
     <div class="page-banner" style="background-image: {% block bannerurl %}url({{ pathto('_static/2018/assets/headers/tickets.jpg', 1) }});{% endblock %}">
         <div class="uk-container">
-            <h1>{% block pagename %}Tickets{% endblock %}</h1>
+            <h1>{% block pagename %}{% endblock %}</h1>
         </div>
     </div>
     <!-- end page-banner -->
@@ -52,4 +49,4 @@
     </div>
 
 
-{% endblock %}
+{% endblock container %}

@@ -1,25 +1,19 @@
 {% extends "2018/base_na.html" %}
 
-
-{% block head_link %}
-  <title>{% if title %}{{ title }} - {% endif %}</title>
-  {{ super() }}
-{% endblock %}
-
 {% block container %}
 <div class="hero">
     <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar>
       <div class="uk-navbar-left uk-hidden@s">
-        <a class="uk-button uk-button-ghost uk-text-uppercase"> Tickets</a>
+        <a href="{{ pathto('conf/portland/2018/tickets') }}" class="uk-button uk-button-ghost uk-text-uppercase"> Tickets</a>
       </div>
       <div class="uk-navbar-right">
         <button class="uk-navbar-toggle uk-hidden@s"  type="button" uk-navbar-toggle-icon uk-toggle="target: #offcanvas-nav-primary"></button>
         <ul class="uk-nav uk-visible@s">
-          <li class="uk-active"><a href="{{ pathto('conf/portland/2018/news') }}">News</a></li>
-          <li><a href="{{ pathto('conf/portland/2018/schedule') }}">Schedule</a></li>
-          <li><a href="{{ pathto('conf/portland/2018/visiting') }}">Visit</a></li>
-          <li><a href="{{ pathto('conf/portland/2018/about') }}">About</a></li>
-          <li><a href="{{ pathto('conf/portland/2018/tickets') }}" class="uk-button uk-button-ghost uk-text-uppercase"> Tickets</a></li>
+              <li><a href="{{ pathto('conf/portland/2018/schedule') }}">Schedule</a></li>
+              <li><a href="{{ pathto('conf/portland/2018/sponsors') }}">Sponsors</a></li>
+              <li><a href="{{ pathto('conf/portland/2018/visiting') }}">Portland</a></li>
+              <li><a href="{{ pathto('conf/portland/2018/tickets') }}">Tickets</a></li>
+              <li><a href="{{ pathto('conf/portland/2018/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
         </ul>
       </div>
     </nav>
@@ -35,7 +29,7 @@
         <p>
           <b>
             Portland, Oregon <br>
-            May 13-15, 2018
+            May 6-8, 2018
           </b>
         </p>
 
@@ -81,23 +75,23 @@
       <div class="schedule-item uk-width-1-3@s">
         <img src="{{ pathto('_static/2018/assets/icons/hike-green.svg', 1) }}">
         <h3>Hiking</h3>
-        <em>May 13</em>
+        <em>May 5</em>
         <p>If you're in town early, join us for the Boat Tour. Portland features some of the most beautiful architectural and historical monuments along the river, and water-touring is an excellent way to sample the highlights.</p>
       </div>
       <div class="schedule-item uk-width-1-3@s">
         <img src="{{ pathto('_static/2018/assets/icons/writing-green.svg', 1) }}">
         <h3>Writing Day</h3>
-        <em>september 10</em>
+        <em>May 6</em>
         <p>Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.</p>
       </div>
       <div class="schedule-item uk-width-1-3@s">
         <img src="{{ pathto('_static/2018/assets/icons/conference-green.svg', 1) }}">
         <h3>Main Conference</h3>
-        <em>september 11 - 12</em>
+        <em>May 7-8</em>
         <p>The main days of the conference. We will be running our main track in the ballroom, and the Unconference in adjoining rooms.</p>
       </div>
       <div class="learn-more">
-        <a class="uk-align-right" href="#">Read More</a>
+        <a class="uk-align-right" href="{{ pathto('conf/portland/2018/schedule') }}">Read More</a>
       </div>
     </div>
 
@@ -336,33 +330,10 @@
       </section>
 
       <div class="learn-more">
-        <a class="uk-align-right" href="#">Read More</a>
+        <a class="uk-align-right" href="{{ pathto('conf/portland/2018/news') }}">Read More</a>
       </div>
 
     </div>
   </div><!--- end news block -->
 
-
-  <!-- <div class="hero hero-conf">
-    <div class="hero-logo">
-      <a href="/conf/portland/2018/">
-        <img src="{{ pathto('_static/img/2016/site-logo.png', 1) }}" />
-      </a>
-    </div>
-    <div class="hero-nav">
-      <ul class="nav">
-      </ul>
-    </div>
-  </div>
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-content">
-        {% block body %}
-          {{ body }}
-        {% endblock body %}
-      </div>
-    </div>
-  </div> -->
-  
-{% endblock %}
+{% endblock container %}

@@ -6,8 +6,7 @@ News
 Updates from the team.
 More here as it happens!
 
-.. TODO: cookie cutter post processing
-  .. toctree::
-     :glob:
+.. toctree::
+ :glob:
 
-     announcing-workshops
+ welcome
