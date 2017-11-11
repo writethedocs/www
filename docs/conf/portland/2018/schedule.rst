@@ -11,6 +11,53 @@ from each other in different ways.
 TODO:  Date, Day
 ----------------
 
+.. raw:: html
+
+    <article class="schedule">
+        <h2 class="schedule-header">Writing Day Schedule</h2>
+        <div class="schedule-item">
+            <div class="item-starting-time">09:00</div>
+            <div class="item-content">
+                <div class="item-description">Doors Open, Breakfast Served</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">09:30</div>
+            <div class="item-content">
+                <div class="item-description">Morning introduction - Introduction to Sprints & Project Introductions</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">10:00</div>
+            <div class="item-content">
+                <div class="item-description">Team up and start working</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">12:30</div>
+            <div class="item-content">
+                <div class="item-description">Lunch Break</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">17:00</div>
+            <div class="item-content">
+                <div class="item-description">End of Writing Day, Beginning of Reception</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">20:00</div>
+            <div class="item-content">
+                <div class="item-description">End of Reception</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+    </article>
 
 
 The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion </conf/na/2018/hike>`.
@@ -45,6 +92,176 @@ Writing Day Schedule (Free for attendees)
     .. datatemplate::
        :source: /_data/na-2018-writing-day.yaml
        :template: include/schedule2018.rst
+
+
+.. raw:: html
+
+    <article class="schedule">
+        <h2 class="schedule-header">Main Stage Schedule</h2>
+        <div class="schedule-item">
+            <div class="item-starting-time">09:00</div>
+            <div class="item-content">
+                <div class="item-description">Doors Open, Breakfast Served</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">10:00</div>
+            <div class="item-content">
+                <div class="item-description">Introduction to Write the Docs</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">10:30</div>
+            <div class="item-content">
+                <div class="item-description">Switch Speakers</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">10:40</div>
+            <div class="item-content">
+                <div class="item-description">The four kinds of documentation, and why you need to understand what they are</div>
+                <div class="item-speaker">by Daniel Procida</div>
+            </div>
+            <img src="http://www.writethedocs.org/_static/img/speakers/daniele-procida.jpg" class="item-speaker-picture">
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">11:10</div>
+            <div class="item-content">
+                <div class="item-description">Switch Speakers</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">11:20</div>
+            <div class="item-content">
+                <div class="item-description">Aw Snap! The Docs, They Are A-Changin’ (with apologies to Bob Dylan)</div>
+                <div class="item-speaker">by Katie Wilcox</div>
+            </div>
+            <img src="http://www.writethedocs.org/_static/img/speakers/kate-wilcox.jpg" class="item-speaker-picture">
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">11:50</div>
+            <div class="item-content">
+                <div class="item-description">Snack Break</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">12:10</div>
+            <div class="item-content">
+                <div class="item-description">An Alien Looking From the Outside In: Main Takeaways After One Year </div>
+                <div class="item-speaker">by Meike Chabowski</div>
+            </div>
+            <img src="http://www.writethedocs.org/_static/img/speakers/meike-chabowski.png" class="item-speaker-picture">
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">12:40</div>
+            <div class="item-content">
+                <div class="item-description">Switch Speakers</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">12:50</div>
+            <div class="item-content">
+                <div class="item-description">"You never get a second chance to make a first impression": writing great "getting started" documentation</div>
+                <div class="item-speaker">by Tim Rogers</div>
+            </div>
+            <img src="http://www.writethedocs.org/_static/img/speakers/tim-rogers.jpg" class="item-speaker-picture">
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">13:20</div>
+            <div class="item-content">
+                <div class="item-description">Lunch</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">14:20</div>
+            <div class="item-content">
+                <div class="item-description">Lightning Talks</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">14:50</div>
+            <div class="item-content">
+                <div class="item-description">Switch Speakers</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">15:00</div>
+            <div class="item-content">
+                <div class="item-description">You have already succeeded: Design critique guidelines make feedback easier 2.0</div>
+                <div class="item-speaker">by Christy Lutz</div>
+            </div>
+            <img src="http://www.writethedocs.org/_static/img/speakers/christy-lutz.jpg" class="item-speaker-picture">
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">15:30</div>
+            <div class="item-content">
+                <div class="item-description">Switch Speakers</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">15:40</div>
+            <div class="item-content">
+                <div class="item-description">Sticks & Stones... Microaggressions & Inclusive Language at Work</div>
+                <div class="item-speaker">by Cory Williamson-Cardneau</div>
+            </div>
+            <img src="http://www.writethedocs.org/_static/img/speakers/cory-williamson-cardneau.png" class="item-speaker-picture">
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">16:10</div>
+            <div class="item-content">
+                <div class="item-description">Switch Speakers</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">16:30</div>
+            <div class="item-content">
+                <div class="item-description">A content manager's guide to crowdsourcing the docs</div>
+                <div class="item-speaker">by Becky Todd</div>
+            </div>
+            <img src="http://www.writethedocs.org/_static/img/speakers/becky-todd.jpg" class="item-speaker-picture">
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">17:00</div>
+            <div class="item-content">
+                <div class="item-description">Switch Speakers</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">17:10</div>
+            <div class="item-content">
+                <div class="item-description">Even Naming This Talk Is Hard</div>
+                <div class="item-speaker">by Ruthie BenDor</div>
+            </div>
+            <img src="http://www.writethedocs.org/_static/img/speakers/ruthie-bendor.png" class="item-speaker-picture">
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">16:40</div>
+            <div class="item-content">
+                <div class="item-description">Group Photo</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+        <div class="schedule-item">
+            <div class="item-starting-time">16:10</div>
+            <div class="item-content">
+                <div class="item-description">Day 1 wraps up</div>
+                <div class="item-speaker"></div>
+            </div>
+        </div>
+    </article>
+
 
 Monday, TODO: Dat
 ----------------

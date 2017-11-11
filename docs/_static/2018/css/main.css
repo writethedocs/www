@@ -17,7 +17,7 @@ body .page-content ul {
     text-indent: -.7em; }
     body .page-content ul li:before {
       content: "•  ";
-      color: #F6B709;
+      color: #2ECC71;
       padding-right: 10px; }
 
 body h2, body .page-content h2 {
@@ -40,7 +40,7 @@ body p {
   max-width: 780px !important; }
 
 .uk-container h2 {
-  color: #F6B709;
+  color: #2ECC71;
   text-align: center;
   width: 100%; }
 
@@ -62,7 +62,7 @@ body .header-logo, body .header-logo:hover, body .header-logo:visited, body .hea
   font-size: 24px;
   line-height: 1; }
   body .header-logo em, body .header-logo:hover em, body .header-logo:visited em, body .header-logo:active em {
-    color: #f6b709;
+    color: #2ECC71;
     font-style: normal;
     font-size: 20px; }
 
@@ -77,7 +77,7 @@ body div.mobile-post-header {
   padding-bottom: 20px; }
 
 .header {
-  background-color: #F6B709; }
+  background-color: #2ECC71; }
 
 body a.headerlink {
   color: #fff; }
@@ -89,7 +89,9 @@ body a.headerlink:hover {
 body .page-banner {
   height: 184px;
   width: 100%;
-  background-size: cover; }
+  background-size: cover;
+  -webkit-box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5);
+          box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5); }
   body .page-banner .uk-container {
     position: relative; }
     body .page-banner .uk-container h1 {
@@ -120,10 +122,48 @@ body .page-content {
       text-align: left; }
     body .page-content .ticket p {
       font-weight: 400; }
+  body .page-content .schedule {
+    background-color: #E8DDCF;
+    padding: 24px;
+    border: #CEBEA9 1px solid;
+    border-radius: 4px;
+    margin: 20px auto; }
+    body .page-content .schedule-header {
+      font-family: "Bree Serif", serif;
+      font-size: 20px;
+      padding-bottom: 20px;
+      margin-bottom: 20px;
+      border-bottom: #BEB2A0 2px solid; }
+    body .page-content .schedule-item {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      border-bottom: 1px solid #BEB2A0;
+      padding-bottom: 10px;
+      margin-bottom: 10px; }
+      body .page-content .schedule-item .item-starting-time {
+        width: 44px;
+        padding-right: 16px;
+        font-weight: 600; }
+      body .page-content .schedule-item .item-speaker {
+        font-weight: 200; }
+      body .page-content .schedule-item .item-speaker-picture {
+        display: none; }
+  body .page-content .talk {
+    background-color: #E8DDCF;
+    padding: 24px;
+    border: #CEBEA9 1px solid;
+    border-radius: 4px;
+    margin: 20px auto; }
+    body .page-content .talk > img {
+      width: 40px;
+      height: 40px;
+      border-radius: 20px;
+      padding-right: 10px; }
 
 .hero {
-  background-color: #F6B709;
-  background-image: url("../assets/images/backgrounds/yellow.jpg");
+  background-color: #2ECC71;
+  background-image: url("../assets/images/backgrounds/green.jpg");
   background-size: cover; }
   .hero nav {
     border-bottom: 1px solid #FFF; }
@@ -200,7 +240,7 @@ body .page-content {
     font-size: 20px;
     text-align: center; }
   .announcement a.uk-button-announcement {
-    background-color: #F6B709;
+    background-color: #2ECC71;
     color: #000;
     margin-left: auto;
     margin-right: auto;
@@ -220,7 +260,7 @@ body .page-content {
       border: 1px solid #f1f1f1; }
 
 .about h2 {
-  color: #F6B709;
+  color: #2ECC71;
   text-align: left; }
 
 .schedule-overview {
@@ -246,7 +286,7 @@ body .page-content {
       text-transform: uppercase;
       font-style: normal; }
   .schedule-overview h2 {
-    color: #F6B709;
+    color: #2ECC71;
     text-align: center;
     width: 100%; }
 
@@ -254,7 +294,7 @@ body .page-content {
   padding-top: 40px;
   padding-bottom: 40px; }
   .speakers h2 {
-    color: #F6B709;
+    color: #2ECC71;
     text-align: center;
     width: 100%; }
   .speakers .speaker {
@@ -305,7 +345,7 @@ body .page-content {
         box-shadow: 0px 0px 31px 0px rgba(186, 186, 186, 0.35); }
       .news-block .uk-container .news .date > * {
         display: inline;
-        color: #F6B709;
+        color: #2ECC71;
         font-weight: 600; }
       .news-block .uk-container .news .content h4 {
         font-weight: 600; }
@@ -349,7 +389,7 @@ body .page-content {
               justify-content: center; }
 
 .footer-head {
-  background-color: #F6B709; }
+  background-color: #2ECC71; }
   .footer-head .uk-container {
     padding: 48px 24px;
     display: -webkit-box;
@@ -415,7 +455,7 @@ footer {
         color: #FFF;
         text-decoration: none; }
       footer .uk-container ul a:active, footer .uk-container ul a:hover {
-        color: #F6B709; }
+        color: #2ECC71; }
     footer .uk-container .footer-logo {
       font-size: 64px;
       font-family: bree serif;
@@ -427,7 +467,7 @@ footer {
       line-height: 54px;
       text-transform: uppercase; }
       footer .uk-container .footer-logo em {
-        color: #f6b709;
+        color: #2ECC71;
         font-style: normal;
         font-size: 40px;
         position: relative;
@@ -495,8 +535,8 @@ footer {
     line-height: 17px;
     border-bottom: 1px solid black; }
   .learn-more a:hover, .learn-more a:active {
-    color: #F6B709;
-    border-bottom: 1px solid #F6B709;
+    color: #2ECC71;
+    border-bottom: 1px solid #2ECC71;
     text-decoration: none; }
 
 @media (min-width: 640px) {
@@ -516,7 +556,7 @@ footer {
         height: 38px;
         color: #FFF;
         width: 116px;
-        background-color: #F6B709;
+        background-color: #2ECC71;
         border-radius: 6px;
         display: -webkit-box;
         display: -ms-flexbox;
@@ -699,7 +739,7 @@ footer {
       position: relative;
       top: 20px; }
   footer .footer-padding {
-    background-color: #F6B709;
+    background-color: #2ECC71;
     height: 40px; }
   footer {
     position: relative;
@@ -746,7 +786,16 @@ footer {
               transform: rotate(21deg) translate(-31px, -136px); }
     footer .uk-container .footer-pics div:last-child {
       -webkit-transform: rotate(-18deg) translate(189px, -284px);
-              transform: rotate(-18deg) translate(189px, -284px); } }
+              transform: rotate(-18deg) translate(189px, -284px); }
+  body .page-content .schedule-item .item-starting-time {
+    padding-right: 100px; }
+  body .page-content .schedule-item .item-speaker-picture {
+    display: inherit;
+    width: 40px;
+    height: 40px;
+    margin-top: auto;
+    margin-left: auto;
+    border-radius: 20px; } }
 
 @media (min-width: 1024px) {
   .uk-container {
