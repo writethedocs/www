@@ -1,11 +1,5 @@
 {% extends "2018/base_na.html" %}
 
-
-{% block head_link %}
-  <title>{% if title %}{{ title }} - {% endif %}</title>
-  {{ super() }}
-{% endblock %}
-
 {% block container %}
 <div class="hero">
     <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar>
@@ -17,9 +11,10 @@
         <ul class="uk-nav uk-visible@s">
           <li class="uk-active"><a href="{{ pathto('conf/portland/2018/news') }}">News</a></li>
           <li><a href="{{ pathto('conf/portland/2018/schedule') }}">Schedule</a></li>
-          <li><a href="{{ pathto('conf/portland/2018/visiting') }}">Visit</a></li>
-          <li><a href="{{ pathto('conf/portland/2018/about') }}">About</a></li>
-          <li><a href="{{ pathto('conf/portland/2018/tickets') }}" class="uk-button uk-button-ghost uk-text-uppercase"> Tickets</a></li>
+          <li><a href="{{ pathto('conf/portland/2018/visiting') }}">Portland</a></li>
+          <!-- <li><a href="{{ pathto('conf/portland/2018/about') }}">About</a></li> -->
+          <li><a href="{{ pathto('conf/portland/2018/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">CFP</a></li>
+          <li><a href="{{ pathto('conf/portland/2018/tickets') }}" class="uk-button uk-button-ghost uk-text-uppercase">Tickets</a></li>
         </ul>
       </div>
     </nav>
@@ -342,27 +337,4 @@
     </div>
   </div><!--- end news block -->
 
-
-  <!-- <div class="hero hero-conf">
-    <div class="hero-logo">
-      <a href="/conf/portland/2018/">
-        <img src="{{ pathto('_static/img/2016/site-logo.png', 1) }}" />
-      </a>
-    </div>
-    <div class="hero-nav">
-      <ul class="nav">
-      </ul>
-    </div>
-  </div>
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-content">
-        {% block body %}
-          {{ body }}
-        {% endblock body %}
-      </div>
-    </div>
-  </div> -->
-  
-{% endblock %}
+{% endblock container %}
