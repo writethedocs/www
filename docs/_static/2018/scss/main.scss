@@ -239,7 +239,11 @@ body .page-content {
 
 		.speaker-info {
 			display: flex;
-			border-bottom: 2px solid #C4B098;
+			border-bottom: 2px solid #beb2a0;
+			margin-bottom: 20px;
+			padding-bottom: 20px;
+
+			
 	
 			& > img {
 				width: 40px;
@@ -249,17 +253,47 @@ body .page-content {
 			}
 	
 			.speaker-contact-info {
-	
+				position: relative;
+				top: -6px;
+
+				.speaker-name {
+					font-family: $secondary-font-family;
+					font-size: 20px;
+					margin-bottom: 0px;
+				}
+
 				ul {
 					li {
 						display: inline-block;
+						padding-left: 0;
+						padding-right: 8px;
+						line-height: 0.1;
 
 						&:before {
 							content: "";
 						}
+
+						.twitter {
+							width: 24px;
+						}
+
+						.webpage {
+							height: 22px;
+						}
+
+						.github {
+							height: 22px;
+						}
 					}
 				}
 			}
+		}
+
+		.talk-content .talk-title {
+			margin-bottom: 4px;
+		}
+		.talk-content .talk-description ul li:before {
+			color: #4a4a4a;
 		}
 	}
 }

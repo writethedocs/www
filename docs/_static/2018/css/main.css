@@ -163,16 +163,38 @@ body .page-content {
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex;
-      border-bottom: 2px solid #C4B098; }
+      border-bottom: 2px solid #beb2a0;
+      margin-bottom: 20px;
+      padding-bottom: 20px; }
       body .page-content .talk .speaker-info > img {
         width: 40px;
         height: 40px;
         border-radius: 20px;
         margin-right: 10px; }
-      body .page-content .talk .speaker-info .speaker-contact-info ul li {
-        display: inline-block; }
-        body .page-content .talk .speaker-info .speaker-contact-info ul li:before {
-          content: ""; }
+      body .page-content .talk .speaker-info .speaker-contact-info {
+        position: relative;
+        top: -6px; }
+        body .page-content .talk .speaker-info .speaker-contact-info .speaker-name {
+          font-family: "Bree Serif", serif;
+          font-size: 20px;
+          margin-bottom: 0px; }
+        body .page-content .talk .speaker-info .speaker-contact-info ul li {
+          display: inline-block;
+          padding-left: 0;
+          padding-right: 8px;
+          line-height: 0.1; }
+          body .page-content .talk .speaker-info .speaker-contact-info ul li:before {
+            content: ""; }
+          body .page-content .talk .speaker-info .speaker-contact-info ul li .twitter {
+            width: 24px; }
+          body .page-content .talk .speaker-info .speaker-contact-info ul li .webpage {
+            height: 22px; }
+          body .page-content .talk .speaker-info .speaker-contact-info ul li .github {
+            height: 22px; }
+    body .page-content .talk .talk-content .talk-title {
+      margin-bottom: 4px; }
+    body .page-content .talk .talk-content .talk-description ul li:before {
+      color: #4a4a4a; }
 
 .hero {
   background-color: #2ECC71;
