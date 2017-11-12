@@ -363,7 +363,7 @@ body .page-content {
 		}
 	}
 
-	.hero-logo, .hero-logo:hover, .hero-logo:visited, .hero-logo:active {
+	a.hero-logo, a.hero-logo:hover, a.hero-logo:visited, a.hero-logo:active {
 		padding-top: 36px;
 		color: $black;
 		font-size: 46px;
@@ -531,6 +531,38 @@ body .page-content {
 
 }
 
+body .uk-offcanvas-slide .menu-logo {
+	font-size: 64px;
+	font-family: bree serif;
+	color: white;
+	margin-bottom: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: right;
+	line-height: 54px;
+	text-transform: uppercase;
+
+	em {
+		color: $main-color;
+		font-style: normal;
+		font-size: 40px;
+		position: relative;
+		top: -8px;
+	}
+}
+
+body .uk-offcanvas-slide ul li a {
+	text-transform: uppercase;
+}
+
+body .uk-offcanvas-slide a.uk-button-ghost {
+	color: $white !important;
+    background-color: $main-color;
+    border: 0px;
+    width: 160px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 
 .news-block {

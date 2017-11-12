@@ -10,7 +10,32 @@
                 </div>
             </div>
             <div class="uk-navbar-right">
-                <a class="uk-navbar-toggle uk-hidden@s" uk-navbar-toggle-icon></a>
+                <button class="uk-navbar-toggle uk-hidden@s"  type="button" uk-navbar-toggle-icon uk-toggle="target: #offcanvas-nav"></button>
+                <div id="offcanvas-nav" uk-offcanvas="overlay: true">
+                    <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+                            <div class="menu-logo">
+                                    Write<br>
+                                    the<br>
+                                    Docs<br>
+                                    <em>Portland</em>
+                                </div>
+                        <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+                            <li><a href="#">Home</a></li>
+                            <li class="uk-parent">
+                                <a href="{{ pathto('conf/portland/2018/schedule') }}">Schedule</a>
+                                <ul class="uk-nav-sub">
+                                    <li><a href="{{ pathto('conf/portland/2018/writingday') }}">Writing Day</a></li>
+                                    <li><a href="{{ pathto('conf/portland/2018/saturday') }}">Saturday</li>
+                                </ul>
+                            </li>
+                            <li><a href="{{ pathto('conf/portland/2018/sponsors') }}">Sponsors</a></li>
+                            <li><a href="{{ pathto('conf/portland/2018/visiting') }}">Portland</a></li>
+                            <li><a href="{{ pathto('conf/portland/2018/tickets') }}">Tickets</a></li>
+                            <li><a href="{{ pathto('conf/portland/2018/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
+                        </ul>
+                    </div>
+                </div>
+            
                 <ul class="uk-nav uk-visible@s">
                       <!-- <li><a href="{{ pathto('conf/portland/2018/news') }}">News</a></li> -->
                       <!-- <li><a href="{{ pathto('conf/portland/2018/about') }}">About</a></li> -->
