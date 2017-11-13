@@ -6,7 +6,14 @@ News
 Updates from the team.
 More here as it happens!
 
+.. postlist:: 3
+   :date: %A, %B %d, %Y
+   :format: {title} by {author} on {date}
+   :list-style: circle
+   :excerpts:
+
 .. toctree::
- :glob:
+   :glob:
+   :hidden:
 
  welcome
