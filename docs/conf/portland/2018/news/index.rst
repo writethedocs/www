@@ -13,8 +13,3 @@ More here as it happens!
    :tags: portland-2018
    :excerpts:
  
-.. toctree::
-   :glob:
-   :hidden:
-
- welcome
