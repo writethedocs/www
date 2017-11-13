@@ -13,7 +13,7 @@ $footer-color: #132530;
 /// 12 columns grid
 
 // Main color can be #F6B709 (Yellow), #2ECC71 (Green) and #3498DB (Blue)
-$main-color: #2ECC71;
+$main-color: #3DD94A;
 $header-color: #4d5a71;
 $copy-color: #9B9B9B;
 
@@ -110,7 +110,7 @@ body .header-logo, body .header-logo a:hover, body .header-logo a:visited, body 
 	text-decoration: none;
 	font-size: 24px;
 	line-height: 1;
-	color: $black;
+	color: $font-black;
 	text-decoration: none;
 
 	em {
@@ -319,6 +319,22 @@ body .page-content {
 		border-bottom: 1px solid $white;
 	}
 
+	.uk-navbar-dropdown {
+		width: 160px;
+		top: 112px;
+		border-radius: 4px;
+	}
+
+	.uk-navbar-nav ul.uk-navbar-dropdown-nav {
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-start;
+
+		 li:first-child~li {
+			padding-left: 0px;
+		}
+	}
+
 	.uk-navbar-left {
 		padding-left: 15px;
 	}
@@ -333,12 +349,12 @@ body .page-content {
 		}
 
 		a {
-			color: $black;
+			color: $font-black;
 		}
 	}
 
 	.uk-navbar-toggle {
-		color: $black;
+		color: $font-black;
 	}
 
 	.logo-container, .hero-text {
@@ -357,7 +373,7 @@ body .page-content {
 		}
 
 		p {
-			color: $black;
+			color: $font-black;
 			margin-top: 16px;
 			margin-bottom: 16px;
 		}
@@ -365,7 +381,7 @@ body .page-content {
 
 	a.hero-logo, a.hero-logo:hover, a.hero-logo:visited, a.hero-logo:active {
 		padding-top: 36px;
-		color: $black;
+		color: $font-black;
 		font-size: 46px;
 		font-family: $secondary-font-family;
 		text-transform: uppercase;
@@ -411,7 +427,7 @@ body .page-content {
 
 	a.uk-button-announcement {
 		background-color: $main-color;
-		color: $black;
+		color: $font-black;
 		margin-left: auto;
 		margin-right: auto;
 		min-width: 240px;
@@ -463,7 +479,7 @@ body .page-content {
 		}
 
 		em {
-			color: $black;
+			color: $font-black;
 			text-transform: uppercase;
 			font-style: normal;
 		}
@@ -790,9 +806,9 @@ footer {
 	padding-right: 20px;
 
 	a, a:visited {
-		color: black;
+		color: $font-black;
 		line-height: 17px;
-		border-bottom: 1px solid black;
+		border-bottom: 1px solid $black;
 	}
 
 	a:hover, a:active {
@@ -818,7 +834,7 @@ footer {
 			padding-left: 30px;
 
 			& > a {
-				color: $black;
+				color: $font-black;
 				text-transform: uppercase;
 			}
 
@@ -1007,7 +1023,7 @@ footer {
 			}
 
 			.month, .year {
-				color: $black;
+				color: $font-black;
 				font-size: 20px;
 			}
 		}
@@ -1188,6 +1204,30 @@ footer {
 	footer .uk-container .footer-content {
 		padding-left: 128px;
 	}
+
+	footer .uk-container .footer-pics div {
+
+		&:first-child {
+			transform:  rotate(15deg) translate(33px,12px);
+		}
+  
+		&:nth-child(2) {
+			transform: rotate(23deg) translate(85px,-244px);
+		}
+  
+		&:nth-child(3) {
+			transform: rotate(21deg) translate(-44px,-184px);
+		}
+  
+		&:last-child {
+			transform: rotate(-18deg) translate(246px,-354px);
+		}
+
+		img {
+			width: 180px;
+			height: 180px;
+		}
+	}
 }
 
 .uk-button {
@@ -1197,7 +1237,7 @@ footer {
 }
 
 body .uk-button-default:hover, body .uk-button-secondary {
-	color: $black;
+	color: $font-black;
 	background-color: $white;
 	border-color: $white;
 }
