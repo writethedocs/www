@@ -10,8 +10,9 @@ More here as it happens!
    :date: %A, %B %d, %Y
    :format: {title} by {author} on {date}
    :list-style: circle
+   :tags: portland-2018
    :excerpts:
-
+ 
 .. toctree::
    :glob:
    :hidden:
