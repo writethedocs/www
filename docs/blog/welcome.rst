@@ -1,6 +1,6 @@
 :template: 2017/na-content.html
 
-.. post:: Jan 5, 2017
+.. post:: Nov 15, 2017
    :tags: portland-2018, website, cfp, tickets
 
 Announcing our Call for Proposals, Ticket Sales and Website
