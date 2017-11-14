@@ -6,7 +6,7 @@
 Announcing Write the Docs Portland Call for Proposals and Website
 =================================================================
 
-`Write the Docs Portland 2018 <http://www.writethedocs.org/conf/portland/2018/>`_ is just about ready for the full launch, and we hope you’re getting excited – we certainly are! It’s shaping up to be another wonderful year full of great conversations and interesting talks.
+Welcome to the official launch of `Write the Docs Portland 2018 <http://www.writethedocs.org/conf/portland/2018/>`_. We hope you're getting excited – we certainly are! It’s shaping up to be another wonderful year full of great conversations and interesting talks.
 
 Today we are announcing our `Call for Proposals <http://www.writethedocs.org/conf/portland/2018/cfp/>`_
 and `new Website <http://www.writethedocs.org/conf/portland/2018/>`_.

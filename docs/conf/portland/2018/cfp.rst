@@ -3,15 +3,10 @@
 Call for proposals
 ==================
 
-Hello hello, fellow documentarians! It's that time of year again: We’re very
-excited to announce that we are now accepting talk proposals for our next North
-American conference, coming up on **May 6-8, 2018, in Portland, Oregon**.
+Hello hello, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next North American conference, coming up on **May 6-8, 2018, in Portland, Oregon**.
 
-Every year, Write the Docs invites people from all across our community to come
-up on stage to share their insights and experience. Whether you’ve worked on
-documentation for decades or you’ve just started this year, we want to hear from
-you! Read on to learn more about the goals of the conference and what we look
-for in talk proposals.
+Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you’ve worked on documentation for decades or you’ve just started this year, we want to hear from
+you! Read on to learn more about the goals of the conference and what we look for in talk proposals.
 
 In the meantime, mark your calendars:
 
@@ -33,38 +28,27 @@ What we’re looking for
 
 **Mix of topics and perspectives**
 
-The focus of Write the Docs is software documentation, but we actively seek
-talks that address a wide range of related subjects,
+The focus of Write the Docs is software documentation, but we actively seek talks that address a wide range of related subjects,
 at various levels of expertise. Documentation perspectives from other fields are welcome! Talks from the scientific community, fiction writers, system administrators, and support staff – in addition to technical writers and software developers – are all valuable to our attendees.
 
 **Diverse group of speakers**
 
-We welcome talks from first-time speakers, from industry experts, and from
-everyone in between. Whatever your background and experience, we prefer hearing about new
-approaches than about tried-and-tested technology. We especially welcome talks
-from underrepresented groups within the tech community.
+We welcome talks from first-time speakers, from industry experts, and from everyone in between. Whatever your background and experience, we prefer hearing about new approaches than about tried-and-tested technology. We especially welcome talks from underrepresented groups within the tech community.
 
 **Practicality and positivity**
 
-We prefer talks backed by experience and experimentation to talks about theory,
-and we definitely don't like talks that bad-mouth technologies or approaches.
-Don't tell us why you hate something – tell us how you overcame the problems it was causing.
+We prefer talks backed by experience and experimentation to talks about theory, and we definitely don't like talks that bad-mouth technologies or approaches. Don't tell us why you hate something – tell us how you overcame the problems it was causing.
 
 **Process over tooling**
 
-We tend to avoid talks about specific tools, which often turn into marketing
-pitches or tutorials. We would much rather hear about process, culture, data,
-people, or the metaphysical side effects of spending your life thinking about docs.
+We tend to avoid talks about specific tools, which often turn into marketing pitches or tutorials. We would much rather hear about process, culture, data, people, or the metaphysical side effects of spending your life thinking about docs.
 
 **Audience awareness**
 
-When crafting talk proposals, remember that you're going to be talking to a mix
-of levels of expertise, skill sets, and professions. Your talk doesn't have to be
-relevant to everyone, but it should be relevant to most people and shouldn't
+When crafting talk proposals, remember that you're going to be talking to a mix of levels of expertise, skill sets, and professions. Your talk doesn't have to be relevant to everyone, but it should be relevant to most people and shouldn't
 make too many assumptions about what people already know.
 
-Take a look at the abstracts for accepted talks from the last couple of
-conferences for some ideas:
+Take a look at the abstracts for accepted talks from the last couple of conferences for some ideas:
 
 * `Portland 2017 <http://www.writethedocs.org/conf/na/2017/speakers/>`_
 * `Prague 2017 <http://www.writethedocs.org/conf/eu/2017/speakers/>`_
@@ -83,23 +67,16 @@ If you need a hand preparing your talk proposal, there are lots of good places t
 Presentation format
 -------------------
 
-Presentations will be scheduled in 30-minute blocks. We won't be doing Q&A after
-the talks, but we ask that speakers be available at the front of the stage
-for a few minutes of the break after their talk to answer questions.
+Presentations will be scheduled in 30-minute blocks. We won't be doing Q&A after the talks, but we ask that speakers be available at the front of the stage for a few minutes of the break after their talk to answer questions.
 
 Speaker benefits & logistics
 ----------------------------
 
-If you are selected to speak at Write the Docs, we will waive your attendance
-fee. We regret that we are not able to cover the cost of travel or lodging for
-all speakers at this time. By not covering travel costs for our speakers, we are
-able to keep ticket prices low and to make the conference accessible to the
-largest number of participants possible.
+If you are selected to speak at Write the Docs, we will waive your attendance fee. We regret that we are not able to cover the cost of travel or lodging for all speakers at this time. By not covering travel costs for our speakers, we are able to keep ticket prices low and to make the conference accessible to the largest number of participants possible.
 
-If your proposal is accepted but you are unable to attend due to travel costs,
-please let us know and we will do our best to help make it happen.
+If your proposal is accepted but you are unable to attend due to travel costs, please let us know and we will do our best to help make it happen.
 
-**You’ll hear from us with our proposal decisions by the end of January.**
+**You’ll hear from us with our proposal decisions by the end of January 2018.**
 
 Questions?
 ----------

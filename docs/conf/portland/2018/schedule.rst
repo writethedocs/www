@@ -7,16 +7,16 @@ Schedule
 Write the Docs is more than a conference.
 Each year we organize a wide range of events so that people can come together, collaborate, and learn from each other in different ways.
 
-Saturday, May 5th
------------------
+Saturday, May 5
+---------------
 
 The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion </conf/portland/2018/hike>`.
 If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
 
 The hike starts at **2pm** on Saturday.
 
-Sunday, May 6th
----------------
+Sunday, May 6
+-------------
 
 The Writing Day and Welcome Reception will be held at the **Crystal Ballroom located at 1332 W Burnside St**.
 
@@ -40,8 +40,8 @@ The Writing Day will be held from 9am-5pm on Sunday. More detailed scheduled wil
        :template: include/schedule2018.rst
 
 
-Monday, May 7th
----------------
+Monday, May 7
+-------------
 
 The main conference will take place at the **Crystal Ballroom located at 1332 W Burnside St**.
 
@@ -72,8 +72,8 @@ This event is for **conference attendees only**. Please bring your badge to be l
 
 There will be light snacks and drinks available on the conference while our tab lasts.
 
-Tuesday, May 8th
-----------------
+Tuesday, May 8
+--------------
 
 The talks will take place at the **Crystal Ballroom located at 1332 W Burnside St**.
 
