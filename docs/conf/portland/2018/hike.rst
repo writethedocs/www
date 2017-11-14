@@ -1,4 +1,4 @@
-:template: 2018/saturday.html
+:template: 2018/hike.html
 
 
 
@@ -105,5 +105,3 @@ On the other side of Hoyt is the `Oregon
 Zoo <http://www.oregonzoo.org/>`__, where we can take the MAX back to
 downtown. People who wish to stay around in the park or zoo are more
 than welcome.
-
-
