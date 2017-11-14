@@ -1,10 +1,15 @@
 .. raw:: html
 
-    <div class="row">
-      <div class="col-sm-offset-3">
-        <a href="https://www.kayako.com">
-        <img src="/_static/img/sponsors/kayako.svg" class="sponsor-image" style="width:300px;padding:40px 0 0 0" />
-        </a>
-      </div>
+    <div class="sponsors">
+      <div class="uk-container">
 
+        <div class="silver-sponsors">
+
+            <div class="uk-width-1-2@s">
+                <img src="/_static/img/sponsors/kayako.svg">
+            </div>
+
+        </div>
+
+      </div>
     </div>
