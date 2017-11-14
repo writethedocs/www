@@ -28,7 +28,7 @@ You'll have a chance to get acquainted with each other over some drinks and snac
 We'll also help groups organize dinner plans, so you can continue your conversations over more substantial food as well.
 
 Writing Day Schedule (free for attendees)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The Writing Day will be held from 9am-5pm on Sunday. More detailed scheduled will be posted soon!
 
@@ -47,8 +47,9 @@ The main conference will take place at the **Crystal Ballroom located at 1332 W 
 
 This is the main event! Hear from lots of interesting folks about all things documentation.
 We will have talks all day on the main stage, and a unconference session running in parallel in the afternoon at Lola's Room.
+
 Main Stage
-^^^^^^^^^^
+~~~~~~~~~~
 
 The talks will be held from 9am-5pm on the main stage. Detailed schedule will be posted soon!
 
@@ -58,12 +59,12 @@ The talks will be held from 9am-5pm on the main stage. Detailed schedule will be
        :template: include/schedule2018.rst
 
 Lola's Room
-^^^^^^^^^^^
+~~~~~~~~~~~
 
 The :doc:`/conf/portland/2018/unconference` will be held from 1pm-5pm. The sessions will run in parallel to the main talks.
 
 Monday Night - Social Event
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The official Write the Docs social event will start at **7pm**.
 Location and directions will be posted soon!
@@ -78,7 +79,7 @@ Tuesday, May 8
 The talks will take place at the **Crystal Ballroom located at 1332 W Burnside St**.
 
 Main Stage
-^^^^^^^^^^^
+~~~~~~~~~~
 
 The talks will be held from 9am-5pm on the main stage. Detailed schedule will be posted soon!
 
@@ -88,6 +89,6 @@ The talks will be held from 9am-5pm on the main stage. Detailed schedule will be
        :template: include/schedule2018.rst
 
 Lola's Room
-^^^^^^^^^^^
+~~~~~~~~~~~
 
 The :doc:`/conf/portland/2018/unconference` will be held from 9am-3pm. The sessions will run in parallel to the main talks.

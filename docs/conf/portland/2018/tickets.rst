@@ -6,14 +6,13 @@
 Tickets
 =======
 
-Thanks to everyone who is coming,
-and we'll see you soon!
+Tickets will officially go on sale in **January 2018**.
 
-Ticket includes:
+Each ticket includes:
 
-* Entry to all conference events (except paid workshops)
-* Breakfast, snacks, and lunch on both Conference days
-* Reception and Party that will have light snacks, and free drinks.
+* Entry to all conference events and activities
+* Breakfast, snacks, and lunch on all conference days
+* Welcome Reception and Social Event that will have light snacks and free drinks.
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue.
 
