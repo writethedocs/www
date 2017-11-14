@@ -20,7 +20,7 @@ getting to know each other.
    from 9am to 6pm**. We will return to the historic `Crystal Ballroom
    <http://www.mcmenamins.com/CrystalBallroom>`_,  `centrally located
    <http://goo.gl/maps/D2WrJ>`_ in the heart of Portland. During the main event we
-   also run a :doc:`/conf/na/2018/unconference`, downstairs in Lola's Room.
+   also run a :doc:`/conf/portland/2018/unconference`, downstairs in Lola's Room.
 
 You can find out more information about the venue and its accessibility on our
 :doc:`/conf/portland/2018/venue` page.
