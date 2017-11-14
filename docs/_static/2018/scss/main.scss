@@ -7,7 +7,7 @@ $secondary-font-family: 'Bree Serif', serif;
 
 $light: 200;
 $semi-bold: 400;
-$bold: 600;
+$bold: 700;
 $footer-color: #132530;
 
 /// 12 columns grid
@@ -15,11 +15,11 @@ $footer-color: #132530;
 // Main color can be #F6B709 (Yellow), #2ECC71 (Green) and #3498DB (Blue)
 $main-color: #3DD94A;
 $header-color: #4d5a71;
-$copy-color: #9B9B9B;
+$copy-color: #4a4a4a;
 
 $white: #FFF;
 $black: #000;
-$font-black: #4A4A4A;
+$font-black: #000;
 
 
 /** Picture Mixins ***/
@@ -45,7 +45,7 @@ body h1 {
 
 body .page-content ul {
 	list-style: none;
-	padding: 0;
+	padding: 0 0 20px 0;
 	margin: 0;
 
 	li {
@@ -74,8 +74,13 @@ body h3 {
 }
 
 body p {
-	color: $font-black;
+	color: $copy-color;
 	font-size: 16px;
+}
+
+body em {
+	color: $font-black;
+	font-weight: $bold;
 }
 
 .uk-container, .schedule-overview .uk-container,
@@ -587,16 +592,24 @@ body .uk-offcanvas-slide a.uk-button-ghost {
 	.uk-container {
 		padding: 48px 24px;
 
-		.news {
+		a:hover {
+			text-decoration: none;	
+		}
+
+		.news:hover {
+			-webkit-box-shadow: 0px 0px 31px 0px rgba(0,0,0,0.35);
+			-moz-box-shadow: 0px 0px 31px 0px rgba(0,0,0,0.35);
+			box-shadow: 0px 0px 31px 0px rgba(186,186,186,0.35);
+			text-decoration: none;
+		}
+
+		.news, .news:visited {
 			background-color: $white;
 			padding: 28px;
 			margin-bottom: 24px;
+			text-decoration: none;
 
-			&:hover {
-				-webkit-box-shadow: 0px 0px 31px 0px rgba(0,0,0,0.35);
-				-moz-box-shadow: 0px 0px 31px 0px rgba(0,0,0,0.35);
-				box-shadow: 0px 0px 31px 0px rgba(186,186,186,0.35);
-			}
+			
 
 			.date > * {
 				display: inline;

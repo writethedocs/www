@@ -26,6 +26,7 @@ you find something good to eat:
    Portland <http://www.urbanspoon.com/c/24/Portland-restaurants.html>`__
 -  `Food Carts Portland <http://www.foodcartsportland.com/>`__
 
+
 Where to stay
 -------------
 
