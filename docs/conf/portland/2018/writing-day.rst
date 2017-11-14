@@ -10,22 +10,18 @@ Please bring a computer or some other mechanism with which to create written wor
 We'll be creating and editing content,
 so make sure that you have the tools you need to contribute.
 
-.. TODO: cookiecutter post processing
-  - Date & Time: **Sunday, May 14th, 9am-6pm**,
-    with the conference opening reception in the same space until 9.
-  - Location: **Crystal Ballroom, 1332 W Burnside St**. We will be in the main ballroom.
-  - Projects:
+- Date & Time: **Sunday, May 6th, 9am-6pm**,
+  with the conference opening reception in the same space until 9.
+- Location: **Crystal Ballroom, 1332 W Burnside St**. We will be in the main ballroom.
+- Projects:
 
-    + :ref:`writewrite`
-    + :ref:`kubernetes`
-    + :ref:`openstack`
-    + :ref:`media`
-    + anything else you fancy
+  + :ref:`writewrite`
+  + anything else you fancy
 
 Writing Day Schedule
 ^^^^^^^^^^^^^^^^^^^^
 
-.. 
+..
   .. datatemplate::
      :source: /_data/na-2018-writing-day.yaml
      :template: include/schedule.rst
