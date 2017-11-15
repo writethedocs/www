@@ -39,6 +39,14 @@ We keep ticket prices low so that it is accessible to the widest range of people
 
 We will also open a call for volunteers and organizers soon, both of which are great opportunities to get involved with the community and also receive a free ticket.
 
+Stay Updated
+------------
+
+Want to find out what's happening with the conference, or enjoy our monthly global community newsletter?
+Sign up to one or more of our `mailing lists <http://eepurl.com/cdWqc5>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
+
+Want to connect with other documentarians in real-time? Join our `Slack <http://eepurl.com/I369L>`_.
+
 Conclusion
 ----------
 
