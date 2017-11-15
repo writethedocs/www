@@ -42,5 +42,5 @@ We will also open a call for volunteers and organizers soon, both of which are g
 Conclusion
 ----------
 
-We hope you will join us in Portland for the fifth annual Write the Docs North America.
+We hope you will join us in Portland for the sixth annual Write the Docs Portland.
 Whether as a speaker or attendee, you can bet it will be another delightful year.
