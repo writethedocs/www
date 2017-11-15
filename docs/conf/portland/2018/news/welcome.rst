@@ -31,7 +31,7 @@ As with all things on the web, there are likely to be a few lingering bugs with 
 Tickets
 -------
 
-Ticket will officially go on sale in **January 2018**.
+Tickets will officially go on sale in **January 2018**.
 
 In the meantime, you can see our 2018 ticket prices on our `Tickets <http://www.writethedocs.org/conf/portland/2018/tickets/>`_ page. As with the previous years, we have tiered pricing to make it fair for everyone. Please buy the ticket that best fits your situation.
 
@@ -45,7 +45,7 @@ Stay Updated
 Want to find out what's happening with the conference, or enjoy our monthly global community newsletter?
 Sign up to one or more of our `mailing lists <http://eepurl.com/cdWqc5>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
 
-Want to connect with other documentarians in real-time? Join our `Slack <http://eepurl.com/I369L>`_.
+Want to connect with other documentarians in real-time? Join our `Slack <http://slack.writethedocs.org/>`_.
 
 Conclusion
 ----------
