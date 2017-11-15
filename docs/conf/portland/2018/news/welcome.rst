@@ -50,5 +50,5 @@ Want to connect with other documentarians in real-time? Join our `Slack <http://
 Conclusion
 ----------
 
-We hope you will join us in Portland for the sixth annual Write the Docs Portland.
+We hope you will join us in Portland for the sixth annual Write the Docs conference.
 Whether as a speaker or attendee, you can bet it will be another delightful year.
