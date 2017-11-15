@@ -3,8 +3,8 @@
 .. post:: Nov 15, 2017
    :tags: portland-2018, website, cfp, tickets
 
-Announcing Write the Docs Portland Call for Proposals and Website
-=================================================================
+Announcing Write the Docs Portland CFP & Website
+================================================
 
 Welcome to the official launch of `Write the Docs Portland 2018 <http://www.writethedocs.org/conf/portland/2018/>`_. We hope you're getting excited – we certainly are! It’s shaping up to be another wonderful year full of great conversations and interesting talks.
 
