@@ -41,7 +41,7 @@ The conference wouldn't be nearly as amazing without our sponsors. They help us 
 
 If you're interested in sponsoring, [send us an email][email-us].
 
-[email-us]: mailto:europe@writethedocs.org
+[email-us]: mailto:prague@writethedocs.org
 
 ----
 

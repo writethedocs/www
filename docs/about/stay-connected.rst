@@ -33,4 +33,4 @@ Write to Us
 ~~~~~~~~~~~
 
 Have any questions, concerns, or comments about our work?
-Feel free to reach out at conf@writethedocs.org.
+Feel free to reach out at support@writethedocs.org.

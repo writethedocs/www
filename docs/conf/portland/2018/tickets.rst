@@ -45,5 +45,5 @@ Each ticket includes:
             <h2 class="ticket-type">Financial Assistance</h2>
             <h2 class="ticket-price"></h2>
         </div>
-        <p class="ticket-description">If you can't afford these prices and still wish to attend, please email us at conf@writethedocs.org. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance.</p>
+        <p class="ticket-description">If you can't afford these prices and still wish to attend, please email us at portland@writethedocs.org. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance.</p>
     </article>

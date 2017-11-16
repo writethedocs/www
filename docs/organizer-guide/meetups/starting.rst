@@ -45,7 +45,7 @@ You can start a Write the Docs Meetup by using the `Meetup.com
 create events, contact Meetup members, promote your sponsors, and more.
 
 - For advice on running meetups, or questions not covered here or in the :doc:`/organizer-guide/meetups/faq-meetups/`, drop us a line in `#meetup-organisers <https://writethedocs.slack.com/messages/meetup-organisers/>`_ on Slack.
-- For help with Meetup fees or technical issues, `email us <mailto:conf@writethedocs.org>`_.
+- For help with Meetup fees or technical issues, `email us <mailto:support@writethedocs.org>`_.
 
 Create a Meetup Page:
 ~~~~~~~~~~~~~~~~~~~~~
@@ -61,7 +61,7 @@ Tips:
 
 After you've started your Meetup, `Add
 <https://github.com/writethedocs/www/blob/master/docs/meetups/index.rst>`_ your
-meetup  to the list or send us `an email <mailto:conf@writethedocs.org>`_ so we
+meetup  to the list or send us `an email <mailto:support@writethedocs.org>`_ so we
 can add your Meetup information to the :doc:`/meetups/index` list.
 
 Find a Place to Meet
