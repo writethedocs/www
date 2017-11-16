@@ -9,7 +9,7 @@ body h1 {
 
 body .page-content ul {
   list-style: none;
-  padding: 0;
+  padding: 0 0 20px 0;
   margin: 0; }
   body .page-content ul li {
     color: #000;
@@ -105,8 +105,6 @@ body .page-banner {
 
 body .page-content {
   padding-top: 36px; }
-  body .page-content .section h2 {
-    margin-top: 20px; }
   body .page-content a:not(.headerlink), body .page-content a:active:not(.headerlink), body .page-content a:visited:not(.headerlink), body .page-content a:link:not(.headerlink) {
     border-bottom: 1px dashed #3DD94A;
     color: #3DD94A;
@@ -902,7 +900,8 @@ footer {
   body .page-content .uk-container {
     max-width: 620px !important; }
   .hero {
-    height: 500px; }
+    height: 500px;
+    background-position: bottom; }
     .hero nav {
       max-width: 708px; }
     .hero .hero-logo, .hero .hero-logo:hover, .hero .hero-logo:visited, .hero .hero-logo:active {
