@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "*",
+    "del": "*",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "*",
+    "gulp-changed": "*",
+    "gulp-cssnano": "*",
+    "gulp-notify": "*",
+    "gulp-plumber": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*"
+  }
+}
