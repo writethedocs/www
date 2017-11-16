@@ -10,7 +10,7 @@ you! Read on to learn more about the goals of the conference and what we look fo
 
 In the meantime, mark your calendars:
 
-**The deadline for submitting proposals is Midnight PST on January 08, 2018.**
+**The deadline for submitting proposals is Midnight PST on January 10, 2018.**
 
 We'll let you know if your proposal has been accepted by the end of January.
 
