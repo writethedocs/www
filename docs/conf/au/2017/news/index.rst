@@ -10,6 +10,7 @@ More here as it happens!
 .. toctree::
    :glob:
 
+   welcome-new-sponsor
    announcing-schedule
    announcing-events-volunteers
    announcing-presentations-ticket-update
