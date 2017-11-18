@@ -43,7 +43,6 @@ body em {
   max-width: 780px !important; }
 
 .uk-container h2 {
-  color: #3DD94A;
   text-align: center;
   width: 100%; }
 
@@ -129,7 +128,6 @@ body .page-content {
       margin-bottom: 10px;
       margin-top: 10px; }
     body .page-content .ticket h2, body .page-content .ticket p {
-      color: #514026;
       text-align: left; }
     body .page-content .ticket p {
       font-weight: 400; }
@@ -345,7 +343,6 @@ body .page-content {
       text-transform: uppercase;
       font-style: normal; }
   .schedule-overview h2 {
-    color: #3DD94A;
     text-align: center;
     width: 100%; }
 
@@ -353,7 +350,6 @@ body .page-content {
   padding-top: 40px;
   padding-bottom: 40px; }
   .speakers h2 {
-    color: #3DD94A;
     text-align: center;
     width: 100%; }
   .speakers .speaker {
