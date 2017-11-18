@@ -67,7 +67,7 @@ html_theme_options = {
     'sidebar_includehidden': False,
 }
 
-html_favicon = '_static/img/favicon.ico'
+html_favicon = '_static/favicon/favicon-96x96.png'
 html_title = 'Write the Docs'
 html_static_path = ['_static']
 html_sidebars = {
