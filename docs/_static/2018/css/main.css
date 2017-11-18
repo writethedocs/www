@@ -105,7 +105,7 @@ body .page-content {
   padding-top: 36px; }
   body .page-content a:not(.headerlink), body .page-content a:active:not(.headerlink), body .page-content a:visited:not(.headerlink), body .page-content a:link:not(.headerlink) {
     border-bottom: 1px dashed #3DD94A;
-    color: #3DD94A;
+    color: #289d32;
     text-decoration: none; }
   body .page-content a:hover:not(.headerlink) {
     border-bottom: 1px solid #3DD94A;
