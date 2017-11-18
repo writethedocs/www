@@ -2,12 +2,12 @@
 
     <div class="sponsors">
       <div class="uk-container">
-
-        <div class="silver-sponsors">
-            <div class="uk-width-1-2@s">
-                <img src="/_static/img/sponsors/kayako.svg">
-            </div>
-        </div>
+      
+                <div class="uk-width-1-2@s">
+                    <a href="https://www.kayako.com/">
+                        <img src="/_static/img/sponsors/kayako.svg">
+                    </a>
+                </div>
 
       </div>
     </div>

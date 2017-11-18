@@ -63,7 +63,6 @@ body .page-content ul {
 
 body h2, body .page-content h2 {
 	color: $black;
-	font-size: 24px;
 	font-weight: $bold;
 	font-family: $base-body-font-family;
 }
@@ -152,7 +151,6 @@ body .page-banner {
 			font-family: $secondary-font-family;
 			position: absolute;
 			top: 108px;
-			border-bottom: 5px solid white;
 			font-size: 26px;
 		}
 	}
@@ -398,6 +396,7 @@ body .page-content {
 			color: $white;
 			font-size: 28px;
 			font-style: normal;
+			font-weight: normal;
 			line-height: 18px;
 			position: relative;
 			top: -10px;
@@ -649,6 +648,10 @@ body .uk-offcanvas-slide a.uk-button-ghost {
 			padding-bottom: 20px;
 		}
 
+		a {
+			border: none !important;
+		}
+
 		.silver-sponsors, .bronze-sponsors {
 			display: flex;
 			flex-direction: column;
@@ -868,7 +871,7 @@ footer {
 		height: 320px;
 
 		.uk-container {
-			max-width: 480px !important;
+			max-width: 560px !important;
 			h1 {
 				top: 208px;
 				font-size: 36px;
@@ -881,7 +884,7 @@ footer {
 		padding-bottom: 44px;
 
 		.uk-container {
-			max-width: 480px !important;
+			max-width: 560px !important;
 		}
 
 		.ticket .ticket-header {

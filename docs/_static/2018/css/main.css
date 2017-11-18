@@ -22,7 +22,6 @@ body .page-content ul {
 
 body h2, body .page-content h2 {
   color: #000;
-  font-size: 24px;
   font-weight: 700;
   font-family: "Nunito Sans", sans-serif; }
 
@@ -100,7 +99,6 @@ body .page-banner {
       font-family: "Bree Serif", serif;
       position: absolute;
       top: 108px;
-      border-bottom: 5px solid white;
       font-size: 26px; }
 
 body .page-content {
@@ -274,6 +272,7 @@ body .page-content {
       color: #FFF;
       font-size: 28px;
       font-style: normal;
+      font-weight: normal;
       line-height: 18px;
       position: relative;
       top: -10px; }
@@ -465,6 +464,8 @@ body .uk-offcanvas-slide a.uk-button-ghost {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 20px; }
+  .sponsors .uk-container a {
+    border: none !important; }
   .sponsors .uk-container .silver-sponsors, .sponsors .uk-container .bronze-sponsors {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -663,7 +664,7 @@ footer {
   body .page-banner {
     height: 320px; }
     body .page-banner .uk-container {
-      max-width: 480px !important; }
+      max-width: 560px !important; }
       body .page-banner .uk-container h1 {
         top: 208px;
         font-size: 36px; }
@@ -671,7 +672,7 @@ footer {
     padding-top: 54px;
     padding-bottom: 44px; }
     body .page-content .uk-container {
-      max-width: 480px !important; }
+      max-width: 560px !important; }
     body .page-content .ticket .ticket-header {
       display: -webkit-box;
       display: -ms-flexbox;
