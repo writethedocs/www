@@ -148,7 +148,7 @@ Financial Assistance
 --------------------
 
 If you can't afford these prices and still wish to attend, please email
-us at conf@writethedocs.org. Being a community event that keeps prices low,
+us at portland@writethedocs.org. Being a community event that keeps prices low,
 we can only offer discounted ticket prices,
 and not travel or hotel assistance.
 
@@ -281,7 +281,7 @@ Contact Us
 
 If you wish to receive more information as it becomes available,
 follow us on Twitter at `@writethedocs <https://twitter.com/writethedocs>`_,
-email us at conf@writethedocs.org,
+email us at portland@writethedocs.org,
 or sign up for our mailing list:
 
 .. include:: /include/na-mailchimp.rst

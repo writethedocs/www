@@ -41,7 +41,7 @@ conference is covered, with revenue from sponsorships used to extend the
 conference and make it substantially more awesome.
 
 If you can't afford these prices and still wish to attend, please email
-us at [conf@writethedocs.org](mailto:conf@writethedocs.org) and we can
+us at [portland@writethedocs.org](mailto:portland@writethedocs.org) and we can
 work something out.
 
 #### Ticket Sales

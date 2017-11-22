@@ -40,7 +40,7 @@ We hope that this forum will serve as the easiest way to share information with 
 
 We hope you continue to build the community and keep in touch with other documentarians in your hometown. In this spirit, a few of our amazing community members are starting meetups in various cities around Europe. If you don't see your city listed, consider starting a meetup!
 
-If you want to start a meetup in your city, [send us an email](mailto:europe@writethedocs.org) and we'll help you get started and spread the word.
+If you want to start a meetup in your city, [send us an email](mailto:prague@writethedocs.org) and we'll help you get started and spread the word.
 
 * London: <http://www.meetup.com/Write-The-Docs-London>
 * Berlin: <http://www.meetup.com/Write-The-Docs-Berlin>

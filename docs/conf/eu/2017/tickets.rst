@@ -45,7 +45,7 @@ Financial Assistance
 --------------------
 
 If you can't afford these prices and still wish to attend, please email
-us at europe@writethedocs.org. Being a community event that keeps prices low,
+us at prague@writethedocs.org. Being a community event that keeps prices low,
 we can only offer discounted ticket prices, and not travel or hotel assistance.
 
 Lodging and Travel
