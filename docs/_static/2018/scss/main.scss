@@ -49,7 +49,7 @@ body .page-content ul {
 	margin: 0;
 
 	li {
-		color: $font-black;
+		color: copy-color;
 		padding-left: 1em; 
 		text-indent: -.7em;
 
@@ -77,6 +77,11 @@ body p {
 	font-size: 16px;
 }
 
+body li {
+	color: $copy-color;
+	font-size: 16px;
+}
+
 body em {
 	color: $font-black;
 	font-weight: $bold;
@@ -99,7 +104,6 @@ body .uk-button.uk-button-ghost {
 	background: transparent;
 	border: 1px solid $white;
 	border-radius: 6px;
-	color: $white;
 	padding-left: 30px;
 	padding-right: 30px;
 	padding-bottom: 0px;
@@ -745,6 +749,7 @@ footer {
 				font-size: 40px;
 				position: relative;
 				top: -8px;
+				font-weight: normal;
 			}
 		}
 

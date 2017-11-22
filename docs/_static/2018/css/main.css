@@ -12,7 +12,7 @@ body .page-content ul {
   padding: 0 0 20px 0;
   margin: 0; }
   body .page-content ul li {
-    color: #000;
+    color: copy-color;
     padding-left: 1em;
     text-indent: -.7em; }
     body .page-content ul li:before {
@@ -33,6 +33,10 @@ body p {
   color: #4a4a4a;
   font-size: 16px; }
 
+body li {
+  color: #4a4a4a;
+  font-size: 16px; }
+
 body em {
   color: #000;
   font-weight: 700; }
@@ -50,7 +54,6 @@ body .uk-button.uk-button-ghost {
   background: transparent;
   border: 1px solid #FFF;
   border-radius: 6px;
-  color: #FFF;
   padding-left: 30px;
   padding-right: 30px;
   padding-bottom: 0px;
@@ -560,7 +563,8 @@ footer {
         font-style: normal;
         font-size: 40px;
         position: relative;
-        top: -8px; }
+        top: -8px;
+        font-weight: normal; }
     footer .uk-container .footer-pics {
       height: 140px; }
       footer .uk-container .footer-pics div:first-child {
