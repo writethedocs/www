@@ -4,7 +4,11 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="A series of events for technical writers, documentarians, and all those who write the docs.">
+        {% if page_description %}
+        <meta name="description" content="{{ page_description }}">
+        {% else %}
+        <meta name="description" content="A conference for tech writers, documentarians, and all those who write the docs.">
+        {% endif %}
 
         <meta name="author" content="Write the Docs">
         <meta name="ROBOTS" content="ALL">
@@ -16,29 +20,39 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <!-- Open Graph protocol -->
-        <meta property="og:image" content="http://www.writethedocs.org/img/stickers/sticker-wtd-colors.png">
         <meta property="og:title" content="A series of events for technical writers, documentarians, and all those who write the docs.">
         <meta property="og:type" content="conference">
         <meta property="og:url" content="http://www.writethedocs.org">
         <meta property="og:site_name" content="Write the Docs">
+        <meta property="og:image" content="http://www.writethedocs.org/_static/img/stickers/sticker-wtd-colors.png">
         <!-- /Open Graph protocol -->
 
-        <!-- Google Plus1 -->
-        <meta itemprop="name" content="Write the Docs">
-        <meta itemprop="description" content="A series of events for technical writers, documentarians, and all those who write the docs.">
-        <meta itemprop="image" content="http://conf.writethedocs.org/img/logo.png">
-        <!-- /Google Plus1 -->
+        <link rel="apple-touch-icon" sizes="57x57" href="{{ pathto('_static/favicon/apple-icon-57x57.png', 1) }}">
+        <link rel="apple-touch-icon" sizes="60x60" href="{{ pathto('_static/favicon/apple-icon-60x60.png', 1) }}">
+        <link rel="apple-touch-icon" sizes="72x72" href="{{ pathto('_static/favicon/apple-icon-72x72.png', 1) }}">
+        <link rel="apple-touch-icon" sizes="76x76" href="{{ pathto('_static/favicon/apple-icon-76x76.png', 1) }}">
+        <link rel="apple-touch-icon" sizes="114x114" href="{{ pathto('_static/favicon/apple-icon-114x114.png', 1) }}">
+        <link rel="apple-touch-icon" sizes="120x120" href="{{ pathto('_static/favicon/apple-icon-120x120.png', 1) }}">
+        <link rel="apple-touch-icon" sizes="144x144" href="{{ pathto('_static/favicon/apple-icon-144x144.png', 1) }}">
+        <link rel="apple-touch-icon" sizes="152x152" href="{{ pathto('_static/favicon/apple-icon-152x152.png', 1) }}">
+        <link rel="apple-touch-icon" sizes="180x180" href="{{ pathto('_static/favicon/apple-icon-180x180.png', 1) }}">
+        <link rel="icon" type="image/png" sizes="192x192"  href="{{ pathto('_static/favicon/android-icon-192x192.png', 1) }}">
+        <link rel="icon" type="image/png" sizes="32x32" href="{{ pathto('_static/favicon/favicon-32x32.png', 1) }}">
+        <link rel="icon" type="image/png" sizes="96x96" href="{{ pathto('_static/favicon/favicon-96x96.png', 1) }}">
+        <link rel="icon" type="image/png" sizes="16x16" href="{{ pathto('_static/favicon/favicon-16x16.png', 1) }}">
+        <link rel="manifest" href="{{ pathto('_static/favicon/manifest.json', 1) }}">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        {% if page_description %}<meta name="description" content="{{ page_description }}">{% endif %}
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,400,700" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
 		<link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet">
 		<link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css" rel="stylesheet">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.css" />
 		<link rel="stylesheet" href="{{ pathto('_static/2018/css/main.min.css', 1) }}" type="text/css">
-        <link rel="shortcut icon" href="{{ pathto('_static/2018/icons/favicon.png', 1) }}">
+
+        <title>{% if title %}{{ title }}{% endif %} - Write the Docs Portland 2018</title>
         {% block head_link %}
         {% endblock %}
 	</head>
