@@ -24,7 +24,7 @@ extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
 ]
-blog_baseurl = 'http://www.writethedocs.org/blog/'
+blog_baseurl = 'http://www.writethedocs.org/'
 blog_path = 'blog/archive'
 blog_authors = {
     'Team': ('Write the Docs Team', 'http://www.writethedocs.org/team/'),
