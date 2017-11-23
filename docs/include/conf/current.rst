@@ -15,7 +15,7 @@
 
 - :doc:`Write the Docs Day Australia </conf/au/2017/index>`, November 24, **Melbourne, Australia**
 
-Want to run your own one-day Write the Docs event? Check our :doc:`guide for starting an event </organizer-guide/confs/start/>` and `email us <mailto:conf@writethedocs.org>`_ if you have any questions! 
+Want to run your own one-day Write the Docs event? Check our :doc:`guide for starting an event </organizer-guide/confs/start/>` and `email us <mailto:support@writethedocs.org>`_ if you have any questions! 
 
 2017 Community Conferences
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
