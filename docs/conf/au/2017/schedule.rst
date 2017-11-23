@@ -25,7 +25,6 @@ Preparation for contributing to open source projects:
 * Gain a basic understanding of Markdown_, the markup language used on much of GitHub.
 
 
-
 .. datatemplate::
    :source: /_data/au-2017-am.yaml
    :template: include/schedule2017.rst
@@ -42,3 +41,12 @@ Hear from lots of interesting folks about all things documentation.
 .. _GitHub: https://github.com/
 .. _GitHub Hello World tutorial: https://guides.github.com/activities/hello-world/
 .. _Markdown: https://guides.github.com/features/mastering-markdown/
+
+Evening - Drinks and Dinner
+-----------------
+
+Location: `The Boatbuilders Yard, 23 South Wharf Promenade, South Wharf <https://goo.gl/gwkqg1>`_
+
+Drinks and dinner will start at **18:00**. BYO drinks and dinner.
+
+Entrance to this event is for **event attendees and their partners/family only**.

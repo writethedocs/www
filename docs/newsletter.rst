@@ -7,7 +7,10 @@ newsletter. You can see previous versions in our `newsletter archives
 </blog/archive/tag/newsletter/>`_.
 
 You can also subscribe to our North American and European Conference mailing
-to stay up-to-date on upcoming conferences. 
+to stay up-to-date on upcoming conferences.
+
+If you have any questions or want to contribute to the newsletter, go ahead and email us at `newsletter@writethedocs.org
+<mailto:newsletter@writethedocs.org>`_.
 
 .. raw :: html
 

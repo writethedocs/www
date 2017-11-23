@@ -91,7 +91,7 @@ travel or lodging for all speakers at this time. By not covering travel
 costs for our speakers, we are able to keep ticket prices low and to
 make the conference accessible to the largest number of participants
 possible. If your proposal is accepted but you are unable to attend due
-to travel costs, please let us know and we will make sure you 
+to travel costs, please let us know and we will make sure you
 can make it.
 
 Speaking at Write the Docs is a fantastic way to participate in the
@@ -104,7 +104,7 @@ Finally, you’ll hear from us with our proposal decisions by **March 25th**
 QUESTIONS?
 ----------
 
-If you have any questions, please email us at conf@writethedocs.org and
+If you have any questions, please email us at portland@writethedocs.org and
 let us know.
 
 FORM

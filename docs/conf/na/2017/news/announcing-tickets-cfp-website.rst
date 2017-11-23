@@ -47,7 +47,7 @@ range of people possible. We have slowly raised prices over time to make
 the event more sustainable to run, but we still feel they are quite reasonable and below the market rate for the experience we provide.
 
 If you can't afford these prices and still wish to attend, please email
-us at conf@writethedocs.org, and we can work on getting you reduced
+us at portland@writethedocs.org, and we can work on getting you reduced
 price tickets.
 
 As with the previous years, we have tiered pricing to make it fair for
@@ -64,7 +64,7 @@ We have a new `conference website <http://www.writethedocs.org/conf/na/2017/>`_ 
 As with all things on the web,
 there are likely to be a few lingering bugs with the design.
 Feel free to reach out to us by replying to the email,
-or emailing us at conf@writethedocs.org if you see any issues!
+or emailing us at portland@writethedocs.org if you see any issues!
 
 Conclusion
 ----------

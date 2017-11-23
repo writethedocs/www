@@ -3,14 +3,14 @@
 Announcing Ticket Sales and Call for Proposals
 ==============================================
 
-`Write the Docs NA 2016 <http://www.writethedocs.org/conf/na/2016/>`_ 
+`Write the Docs NA 2016 <http://www.writethedocs.org/conf/na/2016/>`_
 is four months away and we hope you're getting excited!
 It will be another wonderful year full of great conversation and
 interesting talks.
 
 Today we are announcing our Call for Proposals and ticket sales.
 Speaking at Write the Docs is a fantastic way to share your ideas with
-our inspiring community of documentarians. 
+our inspiring community of documentarians.
 If there is something you'd really like to see a talk on this year,
 submit a talk on it,
 or refer someone else who would be good!
@@ -27,7 +27,7 @@ conference is covered, with revenue from sponsorships used to extend the
 conference and make it substantially more awesome.
 
 If you can't afford these prices and still wish to attend, please email
-us at conf@writethedocs.org, and we can work on getting you reduced
+us at portland@writethedocs.org, and we can work on getting you reduced
 price tickets.
 
 Ticket Sales

@@ -3,12 +3,19 @@
         <div class="sponsors">
           <div class="uk-container">
             <div class="bronze-sponsors">
-                <div class="uk-width-1-1@s">
+
+            <div class="uk-width-1-2@s">
+                <a href="https://readthedocs.org">
                     <img src="/_static/img/2016/sponsors/read-the-docs.png">
-                </div>
-                <div class="uk-width-1-1@s">
+                </a>
+            </div>
+
+            <div class="uk-width-1-2@s">
+                <a href="https://www.plaindocs.com/">
                     <img src="/_static/img/sponsors/plaindocs.png">
-                </div>
+                </a>
+            </div>
+
             </div>
           </div>
         </div>

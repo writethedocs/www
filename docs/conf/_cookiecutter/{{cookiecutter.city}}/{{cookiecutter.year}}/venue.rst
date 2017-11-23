@@ -194,7 +194,7 @@ Thank you to `Djangocon US`_ for inspiration on this page.
 
 .. _Crystal Ballroom: http://www.mcmenamins.com/CrystalBallroom
 .. _middle of downtown: http://goo.gl/maps/D2WrJ
-.. _email us: conf@writethedocs.org
+.. _email us: portland@writethedocs.org
 .. _Djangocon US: https://2015.djangocon.us/
 
 {% elif cookiecutter.continent == "eu" %}
@@ -271,7 +271,7 @@ Thank you to `Djangocon US`_ for inspiration on this page.
 
 .. _Auto Klub: https://goo.gl/maps/dcbYPV5x5DN2
 .. _Prague city center: https://goo.gl/maps/2pdRtnmrJrv
-.. _email us: europe@writethedocs.org
+.. _email us: prague@writethedocs.org
 .. _Djangocon US: https://2015.djangocon.us/
 
 {% endif %}

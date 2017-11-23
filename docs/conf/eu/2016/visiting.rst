@@ -62,7 +62,7 @@ site or use one of these sites to research accommodation:
 -  `Hotels.com <http://www.hotels.com/>`__
 
 If you need help or advice when considering a specific hotel or
-apartment, send us an email at europe@writethedocs.org and we'll be
+apartment, send us an email at prague@writethedocs.org and we'll be
 happy to help you out.
 
 How to get around

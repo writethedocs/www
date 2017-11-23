@@ -31,7 +31,7 @@ Conferences
 
 At the beginning, there was but one *Write the Docs*.
 After that, we branched out to a *North American* and *European* set of conferences.
-Now, we see that there may one day be more than one conference per contintent, so we started naming the events after the city.
+Now, we see that there may one day be more than one conference per continent, so we started naming the events after the city.
 
 So our 2017 conferences are officially called:
 

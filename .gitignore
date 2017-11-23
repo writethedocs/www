@@ -6,3 +6,5 @@ _build
 .tox
 venv*
 *.pyc
+node_modules
+.sass-cache

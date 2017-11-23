@@ -60,3 +60,25 @@ If you need to update the theme, the original source is in
 https://github.com/writethedocs/website-theme/
 
 and instructions on how to update it are in the [`README.md`](https://github.com/writethedocs/website-theme/pull/3)
+
+### Updating CSS for the 2018 Theme
+
+The website for 2018 uses sass to compile all the assets it has, in
+order to modify the theme first you must install the dependencies of
+gulp, you can do that by running in the main directory:
+
+```
+npm install
+```
+
+With that you will install all the requirements to minify your css,
+after that you only need to run:
+
+```
+gulp
+```
+
+This has to be used alongside the sphinx server and it will
+automatically minify all the content in your `.scss` files to the
+`main.min.css` file. Also gulp will be running  browserify allowing you
+to see the css changes inmediatelly in the browser. 

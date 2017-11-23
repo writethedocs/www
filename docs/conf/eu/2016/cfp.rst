@@ -104,7 +104,7 @@ Finally, you’ll hear from us with our proposal decisions by **July 1st**
 Questions?
 ----------
 
-If you have any questions, please email us at europe@writethedocs.org and
+If you have any questions, please email us at prague@writethedocs.org and
 let us know.
 
 Form
