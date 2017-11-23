@@ -125,7 +125,7 @@ Financial Assistance
 --------------------
 
 If you can't afford these prices and still wish to attend, please email
-us at europe@writethedocs.org and we can work something out so you can come.
+us at prague@writethedocs.org and we can work something out so you can come.
 
 Lodging and Travel
 ------------------

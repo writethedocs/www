@@ -11,9 +11,9 @@ Here are some examples of projects that you might want to work on:
 * Open source software documentation
 * General documentation writing
 * Best practices manual (For your company, or the world)
-* Blog posts 
-* Tips and tricks 
-* Great works of fiction 
+* Blog posts
+* Tips and tricks
+* Great works of fiction
 * Love letters
 * The Documentarian Manifesto
 
@@ -54,20 +54,20 @@ This should help you get started, and give you some ideas for how you can contri
 #### Projects
 
 We have some suggestions for projects that you can work on during the Writing Day.
-If you'd like to add your own project to the list, you can [email us](mailto:conf@writethedocs.org). Better yet, [submit a pull request](https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/writing-day.md).
+If you'd like to add your own project to the list, you can [email us](mailto:portland@writethedocs.org). Better yet, [submit a pull request](https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/writing-day.md).
 
-##### [Open News](http://opennews.org/blog/code-convening-wtd/) 
+##### [Open News](http://opennews.org/blog/code-convening-wtd/)
 
 The Open News team has multiple open source journalism projects whose documentation could use some expert love.
 Help improve the docs on some amazing code that helps people understand the news everyday.
 
 Check out the [full list](https://docs.google.com/document/d/1S8D_757jFZEE0GLc-1eXUyqbuQ7Km5GkKMHIjK6NxoI/edit?usp=sharing) of Open News projects that will be worked on.
 
-##### [Mozilla Developer Network](https://developer.mozilla.org/en-US/) 
+##### [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
 Help document the internet. Mozilla always needs more people to create, edit, and translate content, so we can do more to help make the internet more approachable.
 
-##### [WordPress](https://wordpress.org/) 
+##### [WordPress](https://wordpress.org/)
 
 WordPress powers a large portion of the internet. Help write the docs that help people set it up and use it.
 
@@ -75,11 +75,11 @@ WordPress powers a large portion of the internet. Help write the docs that help 
 
 We have a website for our community, but it kinda sucks. Help us make it better by adding content, archiving old talks and notes, or just making it more friendly in general. Remember, you *are* the community.
 
-##### [Write the Docs Guide](http://docs.writethedocs.org/) 
+##### [Write the Docs Guide](http://docs.writethedocs.org/)
 
 A guide to writing documentation. Help us make this guide great for people who want to write docs, but don't know where to start.
 
-##### RAML-based API generator 
+##### RAML-based API generator
 
 I’m working on the API Reference for a new web service. I have all of the APIs defined in a RAML file, which also allows me to use the same source to generate the documentation. Ideally, I’d also like to make the API reference interactive.  As examples, see <http://developer.wordnik.com/docs.html#!/account>, <https://support.3scale.net/reference/active-docs> or <http://developer.marvel.com/docs>.
 
@@ -93,6 +93,6 @@ Also there is a [NodeSchool International Day](http://nodeschool.io/internationa
 
 ##### Your Project Here
 
-Yup. We know you need better docs. We do too. Make it happen. 
+Yup. We know you need better docs. We do too. Make it happen.
 
 Send us an email or pull request with your project and a short paragraph about what you need help with, and we'll include it here.

@@ -6,7 +6,7 @@
 
 **Mikey Ariel**
 
-* europe@writethedocs.org
+* prague@writethedocs.org
 * +420 603-261-361
 * slack: thatdocslady
 

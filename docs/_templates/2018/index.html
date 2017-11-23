@@ -1,0 +1,355 @@
+{% extends "2018/base_na.html" %}
+
+{% block container %}
+<div class="hero">
+    <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar>
+      <div class="uk-navbar-left uk-hidden@s">
+        <a href="{{ pathto('conf/portland/2018/tickets') }}" class="uk-button uk-button-ghost uk-text-uppercase"> Tickets</a>
+      </div>
+      <div class="uk-navbar-right">
+        <button class="uk-navbar-toggle uk-hidden@s"  type="button" uk-navbar-toggle-icon uk-toggle="target: #offcanvas-nav"></button>
+        <div id="offcanvas-nav" uk-offcanvas="overlay: true">
+            <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+                    <div class="menu-logo">
+                            Write<br>
+                            the<br>
+                            Docs<br>
+                            <em>Portland</em>
+                        </div>
+                <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+                    <li><a href="#">Home</a></li>
+                    <li class="uk-parent">
+                        <a href="{{ pathto('conf/portland/2018/schedule') }}">Schedule</a>
+                        <ul class="uk-nav-sub">
+                            <li><a href="{{ pathto('conf/portland/2018/hike') }}">Hike</a></li>
+                            <li><a href="{{ pathto('conf/portland/2018/writing-day') }}">Writing Day</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="{{ pathto('conf/portland/2018/sponsors') }}">Sponsors</a></li>
+                    <li><a href="{{ pathto('conf/portland/2018/visiting') }}">Visiting</a></li>
+                    <li><a href="{{ pathto('conf/portland/2018/tickets') }}">Tickets</a></li>
+                    <li><a href="{{ pathto('conf/portland/2018/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <ul class="uk-nav uk-visible@s">
+              <li><a href="{{ pathto('conf/portland/2018/schedule') }}">Schedule</a></li>
+              <li><a href="{{ pathto('conf/portland/2018/sponsors') }}">Sponsors</a></li>
+              <!---<li>
+                <ul class="uk-navbar-nav">
+                    <li>
+                        <a href="#">Parent</a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li><a href="#">Item 1</a></li>
+                                <li><a href="#">Item 2</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+              </li><!--- Parent element with it's children -->
+              <li><a href="{{ pathto('conf/portland/2018/visiting') }}">Visiting</a></li>
+              <li><a href="{{ pathto('conf/portland/2018/tickets') }}">Tickets</a></li>
+              <li><a href="{{ pathto('conf/portland/2018/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="hero-content uk-container">
+      <div class="logo-container">
+        <a class="hero-logo">
+          write<br/> the<br/> docs<br/> <em>portland</em>
+        </a>
+      </div>
+      <div class="hero-text">
+        <p>The conference focused on all things related to software documentation.</p>
+        <p>
+          <b>
+            Portland, Oregon <br>
+            May 6-8, 2018
+          </b>
+        </p>
+
+        <div class="ctas-block">
+          <!-- <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/portland/2018/tickets') }}">Buy a Ticket!</a> -->
+          <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/portland/2018/cfp') }}">Submit a Talk</a>
+        </div>
+      </div>
+    </div>
+  </div><!-- end hero -->
+
+  <div class="announcement">
+    <div class="uk-container">
+      <p style="vertical-align: middle;">Can't wait for the conference? Join our Slack!</p>
+      <a class="uk-button uk-button-announcement" href="http://slack.writethedocs.org/"><img src="{{ pathto('_static/2018/assets/icons/slack-black-and-white.svg', 1) }}">  Join our Slack</a>
+    </div>
+  </div><!--- end announcement -->
+
+  <div class="about">
+    <div class="uk-container">
+      <div class="about-content">
+        <h2>What is Write the Docs about?</h2>
+        <p>Write the Docs brings everyone who writes the docs together in the same room: Programmers, Tech Writers, Support, Designers, Developer Advocates, and more. We all have things to learn from each other, and there’s no better way than sitting together and talking.</p>
+        <p>We invite you to join 400 other folks in a three-day event to explore the art and science of documentation.</p>
+      </div>
+      <div class="picture-set">
+        <div data-aos="pictrue-03" data-aos-once="true">
+        <img src="{{ pathto('_static/2018/assets/images/pics/pictrue-03.jpg', 1) }}">
+        </div>
+        <div data-aos="pictrue-02" data-aos-once="true">
+        <img src="{{ pathto('_static/2018/assets/images/pics/pictrue-02.jpg', 1) }}">
+        </div>
+        <div data-aos="pictrue-01" data-aos-once="true">
+        <img src="{{ pathto('_static/2018/assets/images/pics/pictrue-01.jpg', 1) }}">
+        </div>
+      </div>
+    </div>
+  </div><!-- end about -->
+
+  <div class="schedule-overview">
+    <div class="uk-container" uk-grid>
+      <h2>Schedule Overview</h2>
+      <div class="schedule-item uk-width-1-3@s">
+        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/hike-green.svg', 1) }}">
+        <h3>Hike</h3>
+        <em>May 5</em>
+        <p>If you're in town early, join us for the <a href="{{ pathto('/conf/portland/2018/hike') }}">Hike</a>. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.</p>
+      </div>
+      <div class="schedule-item uk-width-1-3@s">
+        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/writing-green.svg', 1) }}">
+        <h3>Writing Day</h3>
+        <em>May 6</em>
+        <p>Join us for the <a href="{{ pathto('/conf/portland/2018/writing-day') }}">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.</p>
+      </div>
+      <div class="schedule-item uk-width-1-3@s">
+        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/conference-green.svg', 1) }}">
+        <h3>Main Conference</h3>
+        <em>May 7-8</em>
+        <p>The main days of the conference. We will be running our main track in the ballroom, and the <a href="{{ pathto('/conf/portland/2018/unconference') }}">Unconference</a> in Lola's Room.</p>
+      </div>
+      <div class="learn-more">
+        <a class="uk-align-right" href="{{ pathto('conf/portland/2018/schedule') }}">See the Full Schedule</a>
+      </div>
+    </div>
+
+
+  </div><!-- end schedule overview -->
+
+  <!-- <div class="speakers">
+    <div class="uk-container">
+      <h2>Speakers</h2>
+      <div class="speakers-carousel">
+
+        <div class="speaker">
+          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/garen-torikian.png', 1) }}">
+          <h3>Garen Torikian</h3>
+          <h4>Platform Engineer</h4>
+          <div class="contact-icon-list">
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
+          </div>
+        </div>
+
+        <div class="speaker">
+          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/daniele-procida.jpg', 1) }}">
+          <h3>Daniel Procida</h3>
+          <h4>Marketing Manager</h4>
+          <div class="contact-icon-list">
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
+          </div>
+        </div>
+
+        <div class="speaker">
+          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/kathleen-de-roo.jpg', 1) }}">
+          <h3>Kathleen De Roo</h3>
+          <h4>Content Writer</h4>
+          <div class="contact-icon-list">
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
+          </div>
+        </div>
+
+
+        <div class="speaker">
+          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/stuart-culshaw.jpg', 1) }}">
+          <h3>Stuart Culshaw</h3>
+          <h4>Content Writer</h4>
+          <div class="contact-icon-list">
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
+          </div>
+        </div>
+
+        <div class="speaker">
+          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/daniel-d-beck.jpg', 1) }}">
+          <h3>Daniel D. Beck</h3>
+          <h4>Content Writer</h4>
+          <div class="contact-icon-list">
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
+          </div>
+        </div>
+
+        <div class="speaker">
+          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/lesia-zasadna.jpg', 1) }}">
+          <h3>Lesia Zasadna</h3>
+          <h4>Information Developer</h4>
+          <div class="contact-icon-list">
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
+          </div>
+        </div>
+
+        <div class="speaker">
+          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/tim-rogers.jpg', 1) }}">
+          <h3>Tim Rogers</h3>
+          <h4>Engineer @gocarless</h4>
+          <div class="contact-icon-list">
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
+          </div>
+        </div>
+
+        <div class="speaker">
+          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/lauri-apple.jpg', 1) }}">
+          <h3>Lauri Apple</h3>
+          <h4>OSS Evangelist</h4>
+          <div class="contact-icon-list">
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
+          </div>
+        </div>
+
+        <div class="speaker">
+          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/ed-stenson.jpg', 1) }}">
+          <h3>Ed Stenson</h3>
+          <h4>OSS Evangelist</h4>
+          <div class="contact-icon-list">
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
+          </div>
+        </div>
+
+        <div class="speaker">
+          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/meike-chabowski.png', 1) }}">
+          <h3>Meike Chabowski</h3>
+          <h4>OSS Evangelist</h4>
+          <div class="contact-icon-list">
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
+          </div>
+        </div>
+
+        <div class="speaker">
+          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/floriana-pagano.jpg', 1) }}">
+          <h3>Floriana Pagano</h3>
+          <h4>Content Writing</h4>
+          <div class="contact-icon-list">
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
+          </div>
+        </div>
+
+        <div class="speaker">
+          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/thomas-parisot.jpg', 1) }}">
+          <h3>Thomas Parisot</h3>
+          <h4>Software Designer</h4>
+          <div class="contact-icon-list">
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
+          </div>
+        </div>
+
+        <div class="speaker">
+          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/cory-williamson-cardneau.png', 1) }}">
+          <h3>Cory Williamson</h3>
+          <h4>UX Consultant</h4>
+          <div class="contact-icon-list">
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
+          </div>
+        </div>
+
+        <div class="speaker">
+          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/ruthie-bendor.png', 1) }}">
+          <h3>Ruthie BenDor</h3>
+          <h4>Engineer Manager</h4>
+          <div class="contact-icon-list">
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
+          </div>
+        </div>
+
+        <div class="speaker">
+          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/becky-todd.jpg', 1) }}">
+          <h3>Becky Todd</h3>
+          <h4>Engineer Manager</h4>
+          <div class="contact-icon-list">
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
+          </div>
+        </div>
+
+        <div class="speaker">
+          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/christy-lutz.jpg', 1) }}">
+          <h3>Christy Lutz</h3>
+          <h4>Content Writing</h4>
+          <div class="contact-icon-list">
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
+            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </div><!--- end speakers carousel -->
+
+  <div class="news-block">
+    <div class="uk-container">
+
+      <h2>News</h2>
+
+      <a href="/conf/portland/2018/news/welcome">
+        <section class="news">
+          <div class="date">
+            <p class="month">November</p>
+            <p class="day">15</p>
+            <p class="year">2017</p>
+          </div>
+          <div class="content">
+            <h4>Announcing Call for Proposals and Website</h4>
+
+            <p>Welcome to the official launch of Write the Docs Portland 2018. We hope you're getting excited – we certainly are! It’s shaping up to be another wonderful year full of great conversations and interesting talks.</p>
+          </div>
+        </section>
+      </a>
+
+      <div class="learn-more">
+        <a class="uk-align-right" href="{{ pathto('conf/portland/2018/news') }}">Read More News</a>
+      </div>
+
+    </div>
+  </div><!--- end news block -->
+  
+  {% include "include/2018/sponsors.html" %}
+
+{% endblock container %}

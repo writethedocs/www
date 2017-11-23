@@ -55,7 +55,7 @@ and the tools can play a supporting role.
 
 If you already have an idea for what you'd like to speak about, awesome! Pitch it to us!
 
-Need some more examples? 
+Need some more examples?
 Check out our previous abstracts for some ideas:
 
 * `Portland 2016 <http://www.writethedocs.org/conf/na/2016/speakers/>`_
@@ -102,7 +102,7 @@ but can't afford to offer each Unconference session leader a free ticket.
 Questions?
 ----------
 
-If you have any questions, please email us at conf@writethedocs.org and
+If you have any questions, please email us at portland@writethedocs.org and
 let us know.
 
 Form

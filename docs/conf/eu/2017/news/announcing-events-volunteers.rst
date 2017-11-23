@@ -38,7 +38,7 @@ Each year we are blessed with an amazing team of volunteers who help with the va
 
 Volunteering at our events only requires a few hours (2-3 shifts of 2 hours, distributed over 3 days), and is a great way to meet the community, learn about how to run an event, and of course you also get a free ticket to the conference!
 
-If you're interested, send us an email at europe@writethedocs.org and tell us a little bit about yourself so that we can try and find a good spot for you on the team. We will be accepting volunteer applications until August 1st, and you should hear back by August 10th.
+If you're interested, send us an email at prague@writethedocs.org and tell us a little bit about yourself so that we can try and find a good spot for you on the team. We will be accepting volunteer applications until August 1st, and you should hear back by August 10th.
 
 We only have a few openings for volunteers, and we will prioritize folks who will be attending for the first time, as well as folks who might not be able to attend otherwise. Unfortunately we cannot help with travel costs for volunteers, so please make sure that you are able to travel to the conference before you write to us.
 

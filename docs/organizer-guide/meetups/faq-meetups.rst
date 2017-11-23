@@ -12,7 +12,7 @@ Yes! We can cover the website fees for active meetups, or for new meetups on a t
 New meetup groups
 ~~~~~~~~~~~~~~~~~
 
-If you want to start a new meetup group but need assistance with the fees, please `contact us <mailto:conf@writethedocs.org>`_ **before** you create the meetup group, so that we can create the group directly from the Write the Docs organization account. The trial period lasts for 3 months, which should give you enough time to establish a local presence and hopefully run your first meetup.
+If you want to start a new meetup group but need assistance with the fees, please `contact us <mailto:support@writethedocs.org>`_ **before** you create the meetup group, so that we can create the group directly from the Write the Docs organization account. The trial period lasts for 3 months, which should give you enough time to establish a local presence and hopefully run your first meetup.
 
 After 3 months we will examine the state of the new meetup group to determine the following criteria:
 
@@ -22,7 +22,7 @@ After 3 months we will examine the state of the new meetup group to determine th
 Existing meetup groups
 ~~~~~~~~~~~~~~~~~~~~~~
 
-If you already started a meetup group yourself and successfully ran several well-attended meetups, you can `contact us <mailto:conf@writethedocs.org>`_ and we will take over the meetup fees. To transfer ownership of the meetup group, you use the `Step down as organizer <https://www.meetup.com/help/topics/19/article/465025/>`_ process and nominate the Write the Docs account as new organizer. After the transfer, we will assign you the co-organizer role, which lets you have full control over the specific meetup group without handling finances or global operations.
+If you already started a meetup group yourself and successfully ran several well-attended meetups, you can `contact us <mailto:support@writethedocs.org>`_ and we will take over the meetup fees. To transfer ownership of the meetup group, you use the `Step down as organizer <https://www.meetup.com/help/topics/19/article/465025/>`_ process and nominate the Write the Docs account as new organizer. After the transfer, we will assign you the co-organizer role, which lets you have full control over the specific meetup group without handling finances or global operations.
 
 Can a company sponsor a local meetup?
 -------------------------------------

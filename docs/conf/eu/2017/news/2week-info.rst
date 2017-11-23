@@ -27,7 +27,7 @@ For the full schedule overview including start/end times for all activities, tak
 
 For practical information about Prague, check out the `Visiting Prague <http://www.writethedocs.org/conf/eu/2017/visiting/>`_ page.
 
-And if you still have questions, perhaps you'll find the answers in our `Welcome Wagon <http://www.writethedocs.org/conf/eu/2017/welcome-wagon/>`_ guide. You're also welcome to reach out to @praguewelcomewagon on Slack or send us an email at europe@writethedocs.org.
+And if you still have questions, perhaps you'll find the answers in our `Welcome Wagon <http://www.writethedocs.org/conf/eu/2017/welcome-wagon/>`_ guide. You're also welcome to reach out to @praguewelcomewagon on Slack or send us an email at prague@writethedocs.org.
 
 Badges and Shirts Registration Ends August 31st
 -----------------------------------------------

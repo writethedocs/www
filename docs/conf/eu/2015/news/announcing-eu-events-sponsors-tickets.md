@@ -65,7 +65,7 @@ We're happy to welcome our latest sponsors:
 
 If you're interested in sponsoring, [send us an email][email-us].
 
-[email-us]: mailto:europe@writethedocs.org
+[email-us]: mailto:prague@writethedocs.org
 
 ----
 
