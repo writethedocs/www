@@ -59,9 +59,9 @@ Tips:
 * **Members' name**: Our standard name for members is "Documentarian".
 * **Code of Conduct**: Do include a code of conduct. For options, see the standard Write the Docs' :doc:`/code-of-conduct` or the abbreviated version used by `Write the Docs PDX <https://www.meetup.com/Write-The-Docs-PDX/pages/19618086/Code_of_Conduct/>`_
 
-After you've started your Meetup, `Add
-<https://github.com/writethedocs/www/blob/master/docs/meetups/index.rst>`_ your
-meetup  to the list or send us `an email <mailto:support@writethedocs.org>`_ so we
+After you've started your Meetup, `add
+it to the list <https://github.com/writethedocs/www/tree/master/docs/_data/meetups>`_
+or `send us an email <mailto:support@writethedocs.org>`_ so we
 can add your Meetup information to the :doc:`/meetups/index` list.
 
 Find a Place to Meet

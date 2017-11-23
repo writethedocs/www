@@ -44,7 +44,7 @@ Current Meetups: Asia
     :region: Asia
 
 
-Know of a meetup not shown here? `Add it <https://github.com/writethedocs/www/blob/master/docs/meetups/index.rst>`_ to the list.
+Know of a meetup not shown here? `Add it to the list <https://github.com/writethedocs/www/tree/master/docs/_data/meetups>`_.
 
 .. toctree::
    :maxdepth: 2
