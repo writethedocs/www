@@ -16,34 +16,30 @@ Each ticket includes:
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue.
 
+.. class:: ticket
 
-.. raw:: html
+Corporate Tickets - $450
+-------------------------
 
-    <article class="ticket">
-        <div class="ticket-header">
-            <h2 class="ticket-type">Corporate Tickets</h2>
-            <h2 class="ticket-price">$450</h2>
-        </div>
-        <p class="ticket-description">Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.</p>
-    </article>
-    <article class="ticket">
-        <div class="ticket-header">
-            <h2 class="ticket-type">Independent Tickets</h2>
-            <h2 class="ticket-price">$250</h2>
-        </div>
-        <p class="ticket-description">Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with less than 10 employees.</p>
-    </article>
-    <article class="ticket">
-        <div class="ticket-header">
-            <h2 class="ticket-type">Student or Unemployed</h2>
-            <h2 class="ticket-price">$150</h2>
-        </div>
-        <p class="ticket-description">Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.</p>
-    </article>
-    <article class="ticket">
-        <div class="ticket-header">
-            <h2 class="ticket-type">Financial Assistance</h2>
-            <h2 class="ticket-price"></h2>
-        </div>
-        <p class="ticket-description">If you can't afford these prices and still wish to attend, please email us at portland@writethedocs.org. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance.</p>
-    </article>
+Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
+
+.. class:: ticket
+
+Independent Tickets - $250
+---------------------------
+
+Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with less than 10 employees.
+
+.. class:: ticket
+
+Student or Unemployed - $150
+-------------------------------
+
+Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
+
+.. class:: ticket
+
+None of the above
+-------------------------------
+
+If you can't afford these prices and still wish to attend, please email us at portland@writethedocs.org. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance.
