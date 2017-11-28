@@ -335,7 +335,7 @@ body .page-content {
 		flex-direction: column;
 		justify-content: flex-start;
 
-		 li:first-child~li {
+		 li:first-child ~ li {
 			padding-left: 0px;
 		}
 	}
@@ -350,7 +350,7 @@ body .page-content {
 		text-transform: uppercase;
 
 		&:first-child ~ li {
-			padding-left: 24px;
+			padding-left: 4px;
 		}
 
 		a {
@@ -844,7 +844,7 @@ footer {
 
 		nav .uk-nav li {
 			display: inline-block;
-			padding-left: 30px;
+			padding-left: 0;
 
 			& > a {
 				color: $font-black;
@@ -1269,6 +1269,10 @@ body .uk-button-default, body .uk-button-secondary:hover {
 	flex-direction: column;
 	margin-left: auto;
     margin-right: auto;
+}
+
+body .uk-navbar-dropdown-nav>li>a:focus, body .uk-navbar-dropdown-nav>li>a:hover {
+	color: $main-color !important;
 }
 
 // 2. Import default variables and available mixins.

@@ -235,7 +235,7 @@ body .page-content {
     display: inline-block;
     text-transform: uppercase; }
     .hero ul li:first-child ~ li {
-      padding-left: 24px; }
+      padding-left: 4px; }
     .hero ul li a {
       color: #000; }
   .hero .uk-navbar-toggle {
@@ -641,7 +641,7 @@ footer {
     margin-bottom: 36px; }
     body div.header nav .uk-nav li {
       display: inline-block;
-      padding-left: 30px; }
+      padding-left: 0; }
       body div.header nav .uk-nav li > a {
         color: #000;
         text-transform: uppercase; }
@@ -967,6 +967,9 @@ body .uk-button-default, body .uk-button-secondary:hover {
           flex-direction: column;
   margin-left: auto;
   margin-right: auto; }
+
+body .uk-navbar-dropdown-nav > li > a:focus, body .uk-navbar-dropdown-nav > li > a:hover {
+  color: #3DD94A !important; }
 
 /* ========================================================================
    Component: Base
