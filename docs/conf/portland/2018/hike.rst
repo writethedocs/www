@@ -1,6 +1,4 @@
-:template: 2018/saturday.html
-
-
+:template: 2018/hike.html
 
 Write the Docs Hike
 ===================
@@ -19,11 +17,7 @@ beautiful this year! We shall see Mount Hood at the top :)
 Logistics
 ---------
 
-.. note:: This event is ticketed seperately. Get your `free ticket`_ now.
-
-.. _free ticket: https://ti.to/writethedocs/write-the-docs-na-2018/with/lq5znqaxpni
-
--  Date & Time: Leaves promptly at **Saturday, May 13, 2 PM**. Meet at
+-  Date & Time: Leaves promptly at **Saturday, May 5, 2 PM**. Meet at
    **1:45**.
 -  Start: **Lower Macleay Park** or `Macleay Park
    Entrance <https://maps.google.com/maps?q=Macleay+Park+Entrance&fb=1&gl=us&hq=Macleay+Park+Entrance&hnear=0x54950b0b7da97427:0x1c36b9e6f6d18591,Portland,+OR&cid=0,0,16280654545704357032&t=m&z=16&iwloc=A>`__.
@@ -105,5 +99,3 @@ On the other side of Hoyt is the `Oregon
 Zoo <http://www.oregonzoo.org/>`__, where we can take the MAX back to
 downtown. People who wish to stay around in the park or zoo are more
 than welcome.
-
-

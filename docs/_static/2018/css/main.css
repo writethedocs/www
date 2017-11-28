@@ -12,7 +12,7 @@ body .page-content ul {
   padding: 0 0 20px 0;
   margin: 0; }
   body .page-content ul li {
-    color: #000;
+    color: copy-color;
     padding-left: 1em;
     text-indent: -.7em; }
     body .page-content ul li:before {
@@ -22,7 +22,6 @@ body .page-content ul {
 
 body h2, body .page-content h2 {
   color: #000;
-  font-size: 24px;
   font-weight: 700;
   font-family: "Nunito Sans", sans-serif; }
 
@@ -31,6 +30,10 @@ body h3 {
   font-family: "Nunito Sans", sans-serif; }
 
 body p {
+  color: #4a4a4a;
+  font-size: 16px; }
+
+body li {
   color: #4a4a4a;
   font-size: 16px; }
 
@@ -44,7 +47,6 @@ body em {
   max-width: 780px !important; }
 
 .uk-container h2 {
-  color: #3DD94A;
   text-align: center;
   width: 100%; }
 
@@ -52,7 +54,6 @@ body .uk-button.uk-button-ghost {
   background: transparent;
   border: 1px solid #FFF;
   border-radius: 6px;
-  color: #FFF;
   padding-left: 30px;
   padding-right: 30px;
   padding-bottom: 0px;
@@ -100,14 +101,13 @@ body .page-banner {
       font-family: "Bree Serif", serif;
       position: absolute;
       top: 108px;
-      border-bottom: 5px solid white;
       font-size: 26px; }
 
 body .page-content {
   padding-top: 36px; }
   body .page-content a:not(.headerlink), body .page-content a:active:not(.headerlink), body .page-content a:visited:not(.headerlink), body .page-content a:link:not(.headerlink) {
     border-bottom: 1px dashed #3DD94A;
-    color: #3DD94A;
+    color: #289d32;
     text-decoration: none; }
   body .page-content a:hover:not(.headerlink) {
     border-bottom: 1px solid #3DD94A;
@@ -131,7 +131,6 @@ body .page-content {
       margin-bottom: 10px;
       margin-top: 10px; }
     body .page-content .ticket h2, body .page-content .ticket p {
-      color: #514026;
       text-align: left; }
     body .page-content .ticket p {
       font-weight: 400; }
@@ -274,6 +273,7 @@ body .page-content {
       color: #FFF;
       font-size: 28px;
       font-style: normal;
+      font-weight: normal;
       line-height: 18px;
       position: relative;
       top: -10px; }
@@ -321,7 +321,6 @@ body .page-content {
       border: 1px solid #f1f1f1; }
 
 .about h2 {
-  color: #3DD94A;
   text-align: left; }
 
 .schedule-overview {
@@ -347,7 +346,6 @@ body .page-content {
       text-transform: uppercase;
       font-style: normal; }
   .schedule-overview h2 {
-    color: #3DD94A;
     text-align: center;
     width: 100%; }
 
@@ -355,7 +353,6 @@ body .page-content {
   padding-top: 40px;
   padding-bottom: 40px; }
   .speakers h2 {
-    color: #3DD94A;
     text-align: center;
     width: 100%; }
   .speakers .speaker {
@@ -473,6 +470,8 @@ body .uk-offcanvas-slide a.uk-button-ghost {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column; }
+    .sponsors .uk-container .silver-sponsors a, .sponsors .uk-container .bronze-sponsors a, .sponsors .uk-container .sponsor a {
+      border: none !important; }
     .sponsors .uk-container .silver-sponsors > *, .sponsors .uk-container .bronze-sponsors > *, .sponsors .uk-container .sponsor > * {
       display: -webkit-box;
       display: -ms-flexbox;
@@ -564,7 +563,8 @@ footer {
         font-style: normal;
         font-size: 40px;
         position: relative;
-        top: -8px; }
+        top: -8px;
+        font-weight: normal; }
     footer .uk-container .footer-pics {
       height: 140px; }
       footer .uk-container .footer-pics div:first-child {
@@ -670,7 +670,7 @@ footer {
   body .page-banner {
     height: 320px; }
     body .page-banner .uk-container {
-      max-width: 480px !important; }
+      max-width: 560px !important; }
       body .page-banner .uk-container h1 {
         top: 208px;
         font-size: 40px; }
@@ -678,7 +678,7 @@ footer {
     padding-top: 54px;
     padding-bottom: 44px; }
     body .page-content .uk-container {
-      max-width: 480px !important; }
+      max-width: 560px !important; }
     body .page-content .ticket .ticket-header {
       display: -webkit-box;
       display: -ms-flexbox;
@@ -908,9 +908,9 @@ footer {
   body .page-banner {
     height: 336px; }
     body .page-banner .uk-container {
-      max-width: 620px !important; }
+      max-width: 720px !important; }
   body .page-content .uk-container {
-    max-width: 620px !important; }
+    max-width: 720px !important; }
   .hero {
     height: 500px;
     background-position: bottom; }

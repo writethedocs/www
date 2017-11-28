@@ -104,7 +104,7 @@ You’ll hear from us with our proposal decisions by **15th June**.
 Questions?
 ----------
 
-If you have any questions, please email us at conf@writethedocs.org and
+If you have any questions, please email us at prague@writethedocs.org and
 let us know.
 
 Form

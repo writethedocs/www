@@ -24,7 +24,7 @@ extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
 ]
-blog_baseurl = 'http://www.writethedocs.org/blog/'
+blog_baseurl = 'http://www.writethedocs.org/'
 blog_path = 'blog/archive'
 blog_authors = {
     'Team': ('Write the Docs Team', 'http://www.writethedocs.org/team/'),
@@ -67,7 +67,7 @@ html_theme_options = {
     'sidebar_includehidden': False,
 }
 
-html_favicon = '_static/img/favicon.ico'
+html_favicon = '_static/favicon/favicon-96x96.png'
 html_title = 'Write the Docs'
 html_static_path = ['_static']
 html_sidebars = {

@@ -15,12 +15,11 @@ Writers, Developers, Developer Relations, and Support Staff. We all have things
 to learn, and there's no better way than coming together in the same room and
 getting to know each other.
 
-.. TODO: cookiecutter post processing
-   The main presentation track takes place from **May 15-16 (Monday and Tuesday)
-   from 9am to 6pm**. We will return to the historic `Crystal Ballroom
-   <http://www.mcmenamins.com/CrystalBallroom>`_,  `centrally located
-   <http://goo.gl/maps/D2WrJ>`_ in the heart of Portland. During the main event we
-   also run a :doc:`/conf/na/2018/unconference`, downstairs in Lola's Room.
+ The main presentation track takes place from **May 7-8 (Monday and Tuesday)
+ from 9am to 6pm**. We will return to the historic `Crystal Ballroom
+ <http://www.mcmenamins.com/CrystalBallroom>`_,  `centrally located
+ <http://goo.gl/maps/D2WrJ>`_ in the heart of Portland. During the main event we
+ also run a :doc:`/conf/portland/2018/unconference`, downstairs in Lola's Room.
 
 You can find out more information about the venue and its accessibility on our
 :doc:`/conf/portland/2018/venue` page.

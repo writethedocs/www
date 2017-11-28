@@ -72,5 +72,5 @@ Thank you to `Djangocon US`_ for inspiration on this page.
 
 .. _Auto Klub: https://goo.gl/maps/dcbYPV5x5DN2
 .. _Prague city center: https://goo.gl/maps/2pdRtnmrJrv
-.. _email us: europe@writethedocs.org
+.. _email us: prague@writethedocs.org
 .. _Djangocon US: https://2015.djangocon.us/

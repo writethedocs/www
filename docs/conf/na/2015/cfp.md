@@ -18,7 +18,7 @@ hopes, and anything else that your passion for documentation inspires
 you to bring to the table.
 
 Come be a part of this fantastic multi-disciplinary gathering of
-documentation artisans. 
+documentation artisans.
 
 ## Topic Ideas
 
@@ -85,7 +85,7 @@ Proposal decisions will be sent by the middle of March.
 ## Questions?
 
 If you have any questions, please email us at
-[conf@writethedocs.org](mailto:conf@writethedocs.org) and let us know.
+[portland@writethedocs.org](mailto:portland@writethedocs.org) and let us know.
 
 # Submit a Proposal
 

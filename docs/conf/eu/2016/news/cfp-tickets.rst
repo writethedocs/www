@@ -50,7 +50,7 @@ conference is covered, with revenue from sponsorships used to extend the
 conference and make it substantially more awesome.
 
 If you can't afford these prices and still wish to attend, please email
-us at conf@writethedocs.org, and we can work on getting you reduced
+us at prague@writethedocs.org, and we can work on getting you reduced
 price tickets.
 
 Ticket Sales

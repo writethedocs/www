@@ -76,7 +76,7 @@
                           Evening
                         </p>
                         <p class="schedule-home__desc">
-                          Join other documentarians for a chat about the weather over dinner. Partners welcome. Details coming soon.
+                          Join other documentarians for a chat about the weather over drinks and dinner at The Boatbuilders Yard. Partners welcome. Details <a href="/conf/au/2017/schedule/#evening">here</a>.
                         </p>
                       </div>
                     </div>

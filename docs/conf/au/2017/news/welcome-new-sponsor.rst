@@ -13,4 +13,4 @@ We still have lots of exciting opportunities for sponsorship, if your company is
 Visiting Melbourne?
 ------------
 
-If you're planning your Melbourne travel and need some orientation help, go ahead and visit out `Visiting Melbourne <http://www.writethedocs.org/conf/au/2017/visiting/>`_ page.
+If you're planning your Melbourne travel and need some orientation help, go ahead and visit our `Visiting Melbourne <http://www.writethedocs.org/conf/au/2017/visiting/>`_ page.

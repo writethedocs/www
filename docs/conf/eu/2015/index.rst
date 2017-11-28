@@ -142,7 +142,7 @@ Financial Assistance
 ^^^^^^^^^^^^^^^^^^^^
 
 If you can't afford these prices and still wish to attend, please email
-us at europe@writethedocs.org. We can offer discounted tickets, but
+us at prague@writethedocs.org. We can offer discounted tickets, but
 aren't able to provide travel or lodging support.
 
 Lodging and Travel
@@ -295,4 +295,4 @@ up for our mailing list:
 
 .. include:: /include/eu-mailchimp.rst
 
-You can also send us mail at europe@writethedocs.org.
+You can also send us mail at prague@writethedocs.org.

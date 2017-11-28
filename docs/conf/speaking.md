@@ -5,8 +5,7 @@ help you plan your talk and your slides.
 
 ### Facts
 
-* Your talk will be either 20 minutes or 30 minutes. You should know which by now; if you're 
-not sure, let us know right away at conf@writethedocs.org.
+* Your talk will be 30 minutes.
 * There will be no time for questions immediately following your talk, plan to use the entire slot.
 * We strongly recommend that you practice your talk, ideally in front of at least one other person.
 * We will have a lapel mic for you, so you don't need to hold one.
@@ -74,5 +73,4 @@ We highly recommend watching the full talk:
 
 Please let us know if you have any more questions.
 Your questions will just lead to making this document better,
-so please [email us](mailto:conf@writethedocs.org) any questions.
-
+so please [email us](mailto:support@writethedocs.org) any questions.

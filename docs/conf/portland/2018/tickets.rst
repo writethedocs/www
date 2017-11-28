@@ -6,14 +6,13 @@
 Tickets
 =======
 
-Thanks to everyone who is coming,
-and we'll see you soon!
+Tickets will officially go on sale in **January 2018**.
 
-Ticket includes:
+Each ticket includes:
 
-* Entry to all conference events (except paid workshops)
-* Breakfast, snacks, and lunch on both Conference days
-* Reception and Party that will have light snacks, and free drinks.
+* Entry to all conference events and activities
+* Breakfast, snacks, and lunch on all conference days
+* Welcome Reception and Social Event that will have light snacks and free drinks.
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue.
 
@@ -46,5 +45,5 @@ Ticket includes:
             <h2 class="ticket-type">Financial Assistance</h2>
             <h2 class="ticket-price"></h2>
         </div>
-        <p class="ticket-description">If you can't afford these prices and still wish to attend, please email us at conf@writethedocs.org. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance.</p>
+        <p class="ticket-description">If you can't afford these prices and still wish to attend, please email us at portland@writethedocs.org. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance.</p>
     </article>

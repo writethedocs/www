@@ -27,7 +27,7 @@ including venue location, schedule overview, and information about the different
 
 As with all things on the web, there are likely to be a few lingering bugs with the design.
 Feel free to reach out to us by replying to the email,
-or emailing us at europe@writethedocs.org if you see any issues!
+or emailing us at prague@writethedocs.org if you see any issues!
 
 Tickets
 -------
@@ -43,7 +43,7 @@ the event more sustainable to run, but we still feel they are quite reasonable a
 below the market rate for the experience we provide.
 
 If you can't afford these prices and still wish to attend, please email
-us at europe@writethedocs.org, and we can work on getting you reduced
+us at prague@writethedocs.org, and we can work on getting you reduced
 price tickets or volunteer options.
 
 As with the previous years, we have tiered pricing to make it fair for

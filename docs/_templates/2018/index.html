@@ -17,18 +17,43 @@
                             <em>Portland</em>
                         </div>
                 <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
-                    <li><a href="#">Home</a></li>
-                    <li class="uk-parent">
-                        <a href="{{ pathto('conf/portland/2018/schedule') }}">Schedule</a>
-                        <ul class="uk-nav-sub">
-                            <li><a href="{{ pathto('conf/portland/2018/writingday') }}">Writing Day</a></li>
-                            <li><a href="{{ pathto('conf/portland/2018/saturday') }}">Saturday</li>
-                        </ul>
-                    </li>
-                    <li><a href="{{ pathto('conf/portland/2018/sponsors') }}">Sponsors</a></li>
-                    <li><a href="{{ pathto('conf/portland/2018/visiting') }}">Portland</a></li>
-                    <li><a href="{{ pathto('conf/portland/2018/tickets') }}">Tickets</a></li>
-                    <li><a href="{{ pathto('conf/portland/2018/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
+                  <li><a href="{{ pathto('conf/portland/2018') }}">Home</a></li>
+                  <li><a href="{{ pathto('conf/portland/2018/news') }}">News</a></li>
+                  <li class="uk-parent">
+                      <a href="{{ pathto('conf/portland/2018/schedule') }}">Program</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="{{ pathto('conf/portland/2018/schedule') }}">Schedule</a></li>
+                          <li><a href="{{ pathto('conf/portland/2018/speakers') }}">Talks</a></li>
+                          <li><a href="{{ pathto('conf/portland/2018/lightning-talks') }}">Lightning Talks</a></li>
+                          <li><a href="{{ pathto('conf/portland/2018/unconference') }}">Unconference</a></li>
+                          <li><a href="{{ pathto('conf/portland/2018/writing-day') }}">Writing Day</a></li>
+                          <li><a href="{{ pathto('conf/portland/2018/hike') }}">Hike</a></li>
+                      </ul>
+                  </li>
+                  <li class="uk-parent">
+                      <a href="{{ pathto('conf/portland/2018/visiting') }}">Visit</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="{{ pathto('conf/portland/2018/venue') }}">Venue</a></li>
+                          <li><a href="{{ pathto('conf/portland/2018/portland') }}">Portland</a></li>
+                      </ul>
+                  </li>
+                  <li class="uk-parent">
+                      <a href="{{ pathto('conf/portland/2018/about') }}">About</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="{{ pathto('conf/portland/2018/welcome-wagon') }}">Welcome Wagon</a></li>
+                          <li><a href="{{ pathto('conf/portland/2018/team') }}">Meet the Team</a></li>
+                          <li><a href="{{ pathto('conf') }}">Past Events</a></li>
+                          <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
+                      </ul>
+                  </li>
+                  <li><a href="{{ pathto('conf/portland/2018/tickets') }}">Tickets</a></li>
+                  <li class="uk-parent">
+                      <a href="{{ pathto('conf/portland/2018/sponsors') }}">Sponsors</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="{{ pathto('conf/portland/2018/prospectus') }}">Prospectus</a></li>
+                      </ul>
+                  </li>
+                  <li><a href="{{ pathto('conf/portland/2018/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
                 </ul>
             </div>
         </div>
@@ -114,8 +139,8 @@
         </p>
 
         <div class="ctas-block">
-          <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/portland/2018/tickets') }}">Buy a Ticket!</a>
-          <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/portland/2018/cfp') }}">Apply as Speaker</a>
+          <!-- <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/portland/2018/tickets') }}">Buy a Ticket!</a> -->
+          <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/portland/2018/cfp') }}">Submit a Talk</a>
         </div>
       </div>
     </div>
@@ -123,17 +148,17 @@
 
   <div class="announcement">
     <div class="uk-container">
-      <p>Can't wait for for the conference? Join our slack channel</p>
-      <a class="uk-button uk-button-announcement" href="http://slack.writethedocs.org/"><img src="{{ pathto('_static/2018/assets/icons/slack-black-and-white.svg', 1) }}"> Join our Channel</a>
+      <p style="vertical-align: middle;">Can't wait for the conference? Join our Slack!</p>
+      <a class="uk-button uk-button-announcement" href="http://slack.writethedocs.org/"><img src="{{ pathto('_static/2018/assets/icons/slack-black-and-white.svg', 1) }}">  Join our Slack</a>
     </div>
   </div><!--- end announcement -->
 
   <div class="about">
     <div class="uk-container">
       <div class="about-content">
-        <h2>What is Write the Docs About?</h2>
-        <p>Write the Docs brings everyone who writes the docs together in the same room: Programmers, Tech Writers, Support, and Developer Advocates. We all have things to learn from each other, and there’s no better way than sitting together and talking.</p>
-        <p>We invite you to join 300 other folks for a three-day event to explore the art and science of documentation.</p>
+        <h2>What is Write the Docs about?</h2>
+        <p>Write the Docs brings everyone who writes the docs together in the same room: Programmers, Tech Writers, Support, Designers, Developer Advocates, and more. We all have things to learn from each other, and there’s no better way than sitting together and talking.</p>
+        <p>We invite you to join 400 other folks in a three-day event to explore the art and science of documentation.</p>
       </div>
       <div class="picture-set">
         <div data-aos="pictrue-03" data-aos-once="true">
@@ -153,25 +178,25 @@
     <div class="uk-container" uk-grid>
       <h2>Schedule Overview</h2>
       <div class="schedule-item uk-width-1-3@s">
-        <img src="{{ pathto('_static/2018/assets/icons/hike-green.svg', 1) }}">
-        <h3>Hiking</h3>
+        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/hike-green.svg', 1) }}">
+        <h3>Hike</h3>
         <em>May 5</em>
-        <p>If you're in town early, join us for the Boat Tour. Portland features some of the most beautiful architectural and historical monuments along the river, and water-touring is an excellent way to sample the highlights.</p>
+        <p>If you're in town early, join us for the <a href="{{ pathto('/conf/portland/2018/hike') }}">Hike</a>. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.</p>
       </div>
       <div class="schedule-item uk-width-1-3@s">
-        <img src="{{ pathto('_static/2018/assets/icons/writing-green.svg', 1) }}">
+        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/writing-green.svg', 1) }}">
         <h3>Writing Day</h3>
         <em>May 6</em>
-        <p>Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.</p>
+        <p>Join us for the <a href="{{ pathto('/conf/portland/2018/writing-day') }}">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.</p>
       </div>
       <div class="schedule-item uk-width-1-3@s">
-        <img src="{{ pathto('_static/2018/assets/icons/conference-green.svg', 1) }}">
+        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/conference-green.svg', 1) }}">
         <h3>Main Conference</h3>
         <em>May 7-8</em>
-        <p>The main days of the conference. We will be running our main track in the ballroom, and the Unconference in adjoining rooms.</p>
+        <p>The main days of the conference. We will be running our main track in the ballroom, and the <a href="{{ pathto('/conf/portland/2018/unconference') }}">Unconference</a> in Lola's Room.</p>
       </div>
       <div class="learn-more">
-        <a class="uk-align-right" href="{{ pathto('conf/portland/2018/schedule') }}">Read More</a>
+        <a class="uk-align-right" href="{{ pathto('conf/portland/2018/schedule') }}">See the Full Schedule</a>
       </div>
     </div>
 
@@ -370,56 +395,28 @@
 
       <h2>News</h2>
 
-      <a href="#">
+      <a href="/conf/portland/2018/news/welcome">
         <section class="news">
           <div class="date">
-            <p class="month">july</p>
-            <p class="day">19</p>
+            <p class="month">November</p>
+            <p class="day">15</p>
             <p class="year">2017</p>
           </div>
           <div class="content">
-            <h4>Announcing Events and Call for Volunteers</h4>
+            <h4>Announcing Call for Proposals and Website</h4>
 
-            <p>The conference is now just under two months away, and we hope  you’re getting geared up...</p>
+            <p>Welcome to the official launch of Write the Docs Portland 2018. We hope you're getting excited – we certainly are! It’s shaping up to be another wonderful year full of great conversations and interesting talks.</p>
           </div>
         </section>
       </a>
 
-      <a href="#">
-        <section class="news">
-          <div class="date">
-            <p class="month">july</p>
-            <p class="day">19</p>
-            <p class="year">2017</p>
-          </div>
-          <div class="content">
-            <h4>Announcing Events and Call for Volunteers</h4>
-
-            <p>The conference is now just under two months away, and we hope  you’re getting geared up...</p>
-          </div>
-        </section>
-      </a>
-
-      <a href="#">
-        <section class="news">
-          <div class="date">
-            <p class="month">july</p>
-            <p class="day">19</p>
-            <p class="year">2017</p>
-          </div>
-          <div class="content">
-            <h4>Announcing Events and Call for Volunteers</h4>
-
-            <p>The conference is now just under two months away, and we hope  you’re getting geared up...</p>
-          </div>
-        </section>
-      </a>
-      
       <div class="learn-more">
-        <a class="uk-align-right" href="{{ pathto('conf/portland/2018/news') }}">Read More</a>
+        <a class="uk-align-right" href="{{ pathto('conf/portland/2018/news') }}">Read More News</a>
       </div>
 
     </div>
   </div><!--- end news block -->
+  
+  {% include "include/2018/sponsors.html" %}
 
 {% endblock container %}

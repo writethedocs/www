@@ -17,7 +17,7 @@ hopes, and anything else that your passion for documentation inspires
 you to bring to the table.
 
 Come be a part of this fantastic multi-disciplinary gathering of
-documentation artisans. 
+documentation artisans.
 
 ## Topic Ideas
 
@@ -28,7 +28,7 @@ new directions.
 
 We encourage all levels to submit a talk.
 We welcome first-time speakers as well as experienced.
-Talking about how things affect beginners or from a beginner point of view 
+Talking about how things affect beginners or from a beginner point of view
 is just as important as a deep dive into a specific topic.
 
 Some of our favorite talks are ones that make people see the world in a new way.
@@ -69,7 +69,7 @@ for your presentation, let us know and we can work with it.
 Speaking at Write the Docs is a fantastic way to participate in the
 conference. If you are selected to speak at Write the Docs, we will waive your
 attendance fee. We regret that we are not able to cover the cost of
-travel or lodging for speakers at this time. 
+travel or lodging for speakers at this time.
 
 By not covering travel costs for our speakers, we are able to keep ticket prices low and to
 make the conference accessible to the largest number of participants
@@ -82,7 +82,7 @@ Proposal decisions will be sent by the end of June.
 ## Questions?
 
 If you have any questions, please email us at
-[conf@writethedocs.org](mailto:europe@writethedocs.org) and let us know.
+[prague@writethedocs.org](mailto:prague@writethedocs.org) and let us know.
 
 # Submit a Proposal
 

@@ -15,10 +15,14 @@
 
 - :doc:`Write the Docs Day Australia </conf/au/2017/index>`, November 24, **Melbourne, Australia**
 
+Want to run your own one-day Write the Docs event? Check our :doc:`guide for starting an event </organizer-guide/confs/start/>` and `email us <mailto:support@writethedocs.org>`_ if you have any questions! 
+
 2017 Community Conferences
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Think your conference should go here? Make sure you read our :doc:`/organizer-guide/confs/community-events` page and meet all the requirements, and then email us conf@writethedocs.org. 
+- `API The Docs Amsterdam <http://apithedocs.org/amsterdam/>`_, December 4, **Amsterdam, Netherlands**
+
+Think your conference should go here? Make sure you meet the requirements listed in the :doc:`/organizer-guide/confs/community-events` page, then `email us <mailto:support@writethedocs.org>`_.
 
 Past Conferences
 ----------------
