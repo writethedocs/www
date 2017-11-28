@@ -465,7 +465,7 @@ body .uk-offcanvas-slide a.uk-button-ghost {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 20px; }
-  .sponsors .uk-container .silver-sponsors, .sponsors .uk-container .bronze-sponsors {
+  .sponsors .uk-container .silver-sponsors, .sponsors .uk-container .bronze-sponsors, .sponsors .uk-container .sponsor {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -473,7 +473,7 @@ body .uk-offcanvas-slide a.uk-button-ghost {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column; }
-    .sponsors .uk-container .silver-sponsors > *, .sponsors .uk-container .bronze-sponsors > * {
+    .sponsors .uk-container .silver-sponsors > *, .sponsors .uk-container .bronze-sponsors > *, .sponsors .uk-container .sponsor > * {
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex;
@@ -642,14 +642,16 @@ footer {
     body div.header nav .uk-nav li {
       display: inline-block;
       padding-left: 0; }
+      body div.header nav .uk-nav li ul.uk-navbar-nav li a {
+        font-size: 16px; }
       body div.header nav .uk-nav li > a {
         color: #000;
         text-transform: uppercase; }
       body div.header nav .uk-nav li > a.uk-button-ghost {
         height: 38px;
-        color: #FFF;
+        color: #3DD94A;
         width: 116px;
-        background-color: #3DD94A;
+        border: 2px solid #3DD94A;
         border-radius: 6px;
         display: -webkit-box;
         display: -ms-flexbox;
@@ -660,13 +662,18 @@ footer {
         -webkit-box-align: center;
             -ms-flex-align: center;
                 align-items: center; }
+        body div.header nav .uk-nav li > a.uk-button-ghost:hover {
+          color: #FFF;
+          background-color: #3DD94A; }
+      body div.header nav .uk-nav li .uk-nav.uk-navbar-dropdown-nav li {
+        display: block; }
   body .page-banner {
     height: 320px; }
     body .page-banner .uk-container {
       max-width: 480px !important; }
       body .page-banner .uk-container h1 {
         top: 208px;
-        font-size: 36px; }
+        font-size: 40px; }
   body .page-content {
     padding-top: 54px;
     padding-bottom: 44px; }
@@ -745,6 +752,8 @@ footer {
             justify-content: flex-start;
     max-width: 640px; }
     .announcement .uk-container p {
+      padding-top: 8px;
+      font-size: 16px;
       margin-bottom: 0px;
       margin-right: 88px;
       text-align: left; }
@@ -801,20 +810,23 @@ footer {
         font-size: 20px; }
     .news-block .uk-container .news .content {
       padding: 28px; }
-  .sponsors .uk-container .silver-sponsors, .sponsors .uk-container .bronze-sponsors {
+  .sponsors .uk-container .silver-sponsors, .sponsors .uk-container .bronze-sponsors, .sponsors .uk-container .sponsor {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
         -ms-flex-direction: row;
             flex-direction: row;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap; }
-    .sponsors .uk-container .silver-sponsors > *, .sponsors .uk-container .bronze-sponsors > * {
+    .sponsors .uk-container .silver-sponsors > *, .sponsors .uk-container .bronze-sponsors > *, .sponsors .uk-container .sponsor > * {
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex;
       -webkit-box-pack: center;
           -ms-flex-pack: center;
               justify-content: center; }
+  .sponsors .uk-container .sponsor div img {
+    width: 80%;
+    height: auto; }
   .footer-head .uk-container {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -905,10 +917,10 @@ footer {
     .hero nav {
       max-width: 708px; }
     .hero .hero-logo, .hero .hero-logo:hover, .hero .hero-logo:visited, .hero .hero-logo:active {
-      font-size: 64px;
-      line-height: 56px; }
+      font-size: 64px !important;
+      line-height: 56px !important; }
       .hero .hero-logo em, .hero .hero-logo:hover em, .hero .hero-logo:visited em, .hero .hero-logo:active em {
-        font-size: 40px; }
+        font-size: 40px !important; }
     .hero .hero-text p:first-child {
       margin-bottom: 40px; }
     .hero .hero-text p:not(:first-child) {

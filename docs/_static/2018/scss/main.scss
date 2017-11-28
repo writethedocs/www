@@ -649,7 +649,7 @@ body .uk-offcanvas-slide a.uk-button-ghost {
 			padding-bottom: 20px;
 		}
 
-		.silver-sponsors, .bronze-sponsors {
+		.silver-sponsors, .bronze-sponsors, .sponsor {
 			display: flex;
 			flex-direction: column;
 
@@ -842,9 +842,14 @@ footer {
 		margin-top: 40px;
 		margin-bottom: 36px;
 
+		
 		nav .uk-nav li {
 			display: inline-block;
 			padding-left: 0;
+
+			ul.uk-navbar-nav li a {
+				font-size: 16px;
+			}
 
 			& > a {
 				color: $font-black;
@@ -853,13 +858,22 @@ footer {
 
 			& > a.uk-button-ghost {
 				height: 38px;
-				color: $white;
+				color: $main-color;
 				width: 116px;
-				background-color: $main-color;
+				border: 2px solid $main-color;
 				border-radius: 6px;
 				display: flex;
 				justify-content: center;
 				align-items: center;
+
+				&:hover {
+					color: $white;
+					background-color: $main-color;
+				}
+			}
+
+			.uk-nav.uk-navbar-dropdown-nav li {
+				display: block;
 			}
 		}
 	}
@@ -871,7 +885,7 @@ footer {
 			max-width: 480px !important;
 			h1 {
 				top: 208px;
-				font-size: 36px;
+				font-size: 40px;
 			}
 		}
 	}
@@ -966,6 +980,8 @@ footer {
 		max-width: 640px;
 
 		p {
+			padding-top: 8px;
+			font-size: 16px;
 			margin-bottom: 0px;
 			margin-right: 88px;
 			text-align: left;
@@ -1048,15 +1064,19 @@ footer {
 	}
 
 	.sponsors .uk-container {
-		.silver-sponsors, .bronze-sponsors {
+		.silver-sponsors, .bronze-sponsors, .sponsor {
 			flex-direction: row;
 			flex-wrap: wrap;
 
 			&> * {
 				display: flex;
 				justify-content: center;
-			}
+			}		
+		}
 
+		.sponsor div img {
+			width: 80%;
+			height: auto;
 		}
 	}
 
@@ -1179,18 +1199,18 @@ footer {
 	}
 	.hero {
 		height: 500px;
-    background-position: bottom;
+        background-position: bottom;
 
 		nav {
 			max-width: 708px;
 		}
 
 		.hero-logo,  .hero-logo:hover, .hero-logo:visited, .hero-logo:active {
-			font-size: 64px;
-			line-height: 56px;
+			font-size: 64px !important;
+			line-height: 56px !important;
 
 			em {
-				font-size: 40px;
+				font-size: 40px !important;
 			}
 		}
 		.hero-text p:first-child {
