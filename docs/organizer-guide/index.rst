@@ -26,6 +26,17 @@ Information about the global Write the Docs :doc:`/meetups/index`.
    meetups/starting
    meetups/faq-meetups
 
+Newsletter
+------------
+
+The nitty-gritty about creating our hand-crafted newsletter.
+
+.. toctree::
+   :maxdepth: 2
+
+   newsletter/editorial-guidelines
+   newsletter/newsletter-process
+
 Conferences
 -----------
 
