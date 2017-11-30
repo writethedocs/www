@@ -18,5 +18,4 @@ Some notes on the mechanics:
 * The proper, branded capitalization for WTD is 'Write the Docs', with a lowercase ``the``. (This note is mostly here for Kelly O'Brien's benefit, because she can't remember to save her life.)
 * Linking to outside resources is great (blog posts, podcasts, online guides, etc.)
 * Avoid direct quotes from participants
-
-.. note:: If there is something you feel strongly we should quote, we'll need to check with the person first, and then attribute it.*
+*NOTE: If there is something you feel strongly we should quote, we'll need to check with the person first, and then attribute it.*
