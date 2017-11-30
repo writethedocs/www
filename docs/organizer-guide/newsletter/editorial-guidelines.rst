@@ -2,7 +2,7 @@
 Editorial Guidelines
 ********************
 
-*NOTE: These are a work in progress, but will serve as a starting point for now.*
+.. note:: These are a work in progress, but will serve as a starting point for now.
 
 Working from Slack conversations is a little tricky, but our goal is to distill the discussion into a few key takeaways that are useful to our readers. It's more important that our stories are clear and practical, than that we've recounted the conversation in its entirety.
 
@@ -18,4 +18,5 @@ Some notes on the mechanics:
 * The proper, branded capitalization for WTD is 'Write the Docs', with a lowercase ``the``. (This note is mostly here for Kelly O'Brien's benefit, because she can't remember to save her life.)
 * Linking to outside resources is great (blog posts, podcasts, online guides, etc.)
 * Avoid direct quotes from participants
-*NOTE: If there is something you feel strongly we should quote, we'll need to check with the person first, and then attribute it.*
+  
+  *NOTE: If there is something you feel strongly we should quote, we'll need to check with the person first, and then attribute it.*
