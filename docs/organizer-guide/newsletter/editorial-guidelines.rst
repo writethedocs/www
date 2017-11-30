@@ -2,7 +2,7 @@
 Editorial Guidelines
 ********************
 
-.. note:: NOTE: These are a work in progress, but will serve as a starting point for now.
+.. note:: These are a work in progress, but will serve as a starting point for now.
 
 Working from Slack conversations is a little tricky, but our goal is to distill the discussion into a few key takeaways that are useful to our readers. It's more important that our stories are clear and practical, than that we've recounted the conversation in its entirety.
 
