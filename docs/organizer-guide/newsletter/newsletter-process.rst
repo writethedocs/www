@@ -33,7 +33,7 @@ A week before the planned ship date, the editor will go through the conversation
 From there, in the #newsletter channel on Slack, they'll @mention their writers and ask them to pick a story for the month. They'll point them to the slushpile folder so they can have a look, and set a deadline to have drafts back, 2-3 days before shipping.
 
 ****************************************************************
-Assembling & reviewing the newsletter (2-3 days before shipping)
+Assemble & review the newsletter (2-3 days before shipping)
 ****************************************************************
 
 Once all the story drafts have come in, it's time to assemble. They'll start with the ``newsletter-TEMPLATE-2017.rst`` document, and start to fill it in.
@@ -54,7 +54,7 @@ Resolve all comments, and then when you're ready to send it, merge your Pull Req
 
 
 ****************************************************
-Shipping the newsletter (no days before shipping :p)
+Ship the newsletter (no days before shipping)
 ****************************************************
 
 Once you've finalized the newsletter in GitHub, you'll use MailChimp to send it out. You'll need the a MailChimp login, and to be added to the Write the Docs organization.
