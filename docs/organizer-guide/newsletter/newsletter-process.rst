@@ -2,7 +2,7 @@
 Write the Docs Newsletter
 #########################
 
-At the beginning of every month, we put out an email newsletter to the community. It's built around a handful of stories that we capture and write-up from the Slack team, and also includes an overview of what the org team is workingon and a calendar listing of upcoming events.
+At the beginning of every month, we put out an email newsletter to the community. It's built around a handful of stories that we capture and write-up from the Slack team, and also includes an overview of what the org team is working on and a calendar listing of upcoming events.
 
 In this doc, we'll cover all of the pieces that go into putting the newsletter out each month.
 
