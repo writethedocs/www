@@ -46,7 +46,7 @@ Documentation Culture at your Company
 .. toctree::
    :maxdepth: 2
 
-   Engineering Organizations <writing/mindshare>
+   writing/mindshare
    Producing documentation inside a Support team <writing/support-team>
 
 * Integrating Tech Writers into the product process
