@@ -39,8 +39,10 @@
         </p>
 
         <div class="ctas-block">
-          <!-- <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/prague/2018/tickets') }}">Buy a Ticket!</a> -->
+          <!--
+          <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/prague/2018/tickets') }}">Buy a Ticket!</a>
           <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/prague/2018/cfp') }}">Submit a Talk</a>
+          -->
         </div>
       </div>
     </div>
@@ -78,26 +80,28 @@
     <div class="uk-container" uk-grid>
       <h2>Schedule Overview</h2>
       <div class="schedule-item uk-width-1-3@s">
-        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/hike-green.svg', 1) }}">
-        <h3>Hike</h3>
-        <em>May 5</em>
+        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/boat-green.svg', 1) }}">
+        <h3>Boat Ride</h3>
+        <em>September 8</em>
         <p>If you're in town early, join us for the <a href="{{ pathto('/conf/prague/2018/hike') }}">Hike</a>. Prague has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.</p>
       </div>
       <div class="schedule-item uk-width-1-3@s">
         <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/writing-green.svg', 1) }}">
         <h3>Writing Day</h3>
-        <em>May 6</em>
-        <p>Join us for the <a href="{{ pathto('/conf/prague/2018/writing-day') }}">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.</p>
+        <em>September 9</em>
+        <p>Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.</p>
       </div>
       <div class="schedule-item uk-width-1-3@s">
         <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/conference-green.svg', 1) }}">
         <h3>Main Conference</h3>
-        <em>May 7-8</em>
-        <p>The main days of the conference. We will be running our main track in the ballroom, and the <a href="{{ pathto('/conf/prague/2018/unconference') }}">Unconference</a> in Lola's Room.</p>
+        <em>September 10-11</em>
+        <p>The main days of the conference. We will be running our main track in the ballroom, and the Unconference.</p>
       </div>
+      <!--
       <div class="learn-more">
         <a class="uk-align-right" href="{{ pathto('conf/prague/2018/schedule') }}">See the Full Schedule</a>
       </div>
+      -->
     </div>
 
 
@@ -290,6 +294,7 @@
     </div>
   </div><!--- end speakers carousel -->
 
+  <!--
   <div class="news-block">
     <div class="uk-container">
 
@@ -317,6 +322,6 @@
     </div>
   </div><!--- end news block -->
   
-  {% include "include/2018/sponsors.html" %}
+  {# include "include/2018/sponsors.html" #}
 
 {% endblock container %}
