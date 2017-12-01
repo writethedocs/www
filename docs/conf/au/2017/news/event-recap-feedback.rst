@@ -7,7 +7,7 @@ Write the Docs Day Australia 2017 - Recap
 =================================================
 
 A big thank you to all attending the 2017 and our first Australian Write the
-Docs Day  in Melbourne. We are extremely grateful to our sponsors, volunteers,
+Docs Day in Melbourne. We are extremely grateful to our sponsors, volunteers,
 speakers and attendees. We loved the time, effort and passion put in by
 everyone for this event.
 
