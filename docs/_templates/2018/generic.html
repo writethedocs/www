@@ -29,72 +29,10 @@
                                     Docs<br>
                                     <em>Portland</em>
                                 </div>
-                             {% include "2018/menu-include.html" %}
+                             {% include "2018/menu-mobile.html" %}
                     </div>
                 </div>
-
-                <ul class="uk-nav uk-visible@s">
-                        <li><a href="{{ pathto('conf/portland/2018/news') }}">News</a></li>
-                        <li>
-                          <ul class="uk-navbar-nav">
-                              <li>
-                                  <a href="{{ pathto('conf/portland/2018/schedule') }}">Program</a>
-                                  <div class="uk-navbar-dropdown">
-                                      <ul class="uk-nav uk-navbar-dropdown-nav">
-                                          <li><a href="{{ pathto('conf/portland/2018/schedule') }}">Schedule</a></li>
-                                          <li><a href="{{ pathto('conf/portland/2018/speakers') }}">Talks</a></li>
-                                          <li><a href="{{ pathto('conf/portland/2018/lightning-talks') }}">Lightning Talks</a></li>
-                                          <li><a href="{{ pathto('conf/portland/2018/unconference') }}">Unconference</a></li>
-                                          <li><a href="{{ pathto('conf/portland/2018/writing-day') }}">Writing Day</a></li>
-                                          <li><a href="{{ pathto('conf/portland/2018/hike') }}">Hike</a></li>
-                                      </ul>
-                                  </div>
-                              </li>
-                          </ul>
-                        </li><!--- Parent element with it's children -->
-                        <li>
-                          <ul class="uk-navbar-nav">
-                              <li>
-                                  <a href="{{ pathto('conf/portland/2018/visiting') }}">Visit</a>
-                                  <div class="uk-navbar-dropdown">
-                                      <ul class="uk-nav uk-navbar-dropdown-nav">
-                                          <li><a href="{{ pathto('conf/portland/2018/venue') }}">Venue</a></li>
-                                          <li><a href="{{ pathto('conf/portland/2018/portland') }}">Portland</a></li>
-                                      </ul>
-                                  </div>
-                              </li>
-                          </ul>
-                        </li><!--- Parent element with it's children -->
-                        <li>
-                          <ul class="uk-navbar-nav">
-                              <li>
-                                  <a href="{{ pathto('conf/portland/2018/about') }}">About</a>
-                                  <div class="uk-navbar-dropdown">
-                                      <ul class="uk-nav uk-navbar-dropdown-nav">
-                                          <li><a href="{{ pathto('conf/portland/2018/welcome-wagon') }}">Welcome Wagon</a></li>
-                                          <li><a href="{{ pathto('conf/portland/2018/team') }}">Meet the Team</a></li>
-                                          <li><a href="{{ pathto('conf') }}">Past Events</a></li>
-                                          <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
-                                      </ul>
-                                  </div>
-                              </li>
-                          </ul>
-                        </li><!--- Parent element with it's children -->
-                        <li><a href="{{ pathto('conf/portland/2018/tickets') }}">Tickets</a></li>
-                        <li>
-                            <ul class="uk-navbar-nav">
-                                <li>
-                                    <a href="{{ pathto('conf/portland/2018/sponsors') }}">Sponsors</a>
-                                    <div class="uk-navbar-dropdown">
-                                        <ul class="uk-nav uk-navbar-dropdown-nav">
-                                            <li><a href="{{ pathto('conf/portland/2018/prospectus') }}">Prospectus</a></li>
-                                        </ul>
-                                    </div>
-                                </li>
-                            </ul>
-                          </li><!--- Parent element with it's children -->
-                        <li><a href="{{ pathto('conf/portland/2018/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
-                </ul>
+             {% include "2018/menu-desktop.html" %}
             </div>
         </nav>
 
