@@ -1,4 +1,4 @@
-:template: 2018/writing-day.html
+:template: 2018/generic.html
 
 .. include:: /include/conf/events/writing-day.rst
 

@@ -1,4 +1,4 @@
-:template: 2018/team.html
+:template: 2018/generic.html
 
 Staff
 ===========

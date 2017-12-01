@@ -1,4 +1,4 @@
-:template: 2018/cfp.html
+:template: 2018/generic.html
 
 Call for proposals
 ==================

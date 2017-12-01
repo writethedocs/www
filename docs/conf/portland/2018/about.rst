@@ -1,4 +1,4 @@
-:template: 2018/about.html
+:template: 2018/generic.html
 
 
 About the conference

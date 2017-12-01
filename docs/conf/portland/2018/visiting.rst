@@ -1,4 +1,4 @@
-:template: 2018/visiting.html
+:template: 2018/generic.html
 
 
 

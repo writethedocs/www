@@ -1,4 +1,4 @@
-:template: 2018/hike.html
+:template: 2018/generic.html
 
 Write the Docs Hike
 ===================

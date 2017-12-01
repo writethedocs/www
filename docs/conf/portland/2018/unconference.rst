@@ -1,4 +1,4 @@
-:template: 2018/unconference.html
+:template: 2018/generic.html
 
 Unconference
 ============

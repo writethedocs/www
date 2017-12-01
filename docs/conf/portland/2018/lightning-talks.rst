@@ -1,4 +1,4 @@
-:template: 2018/lightning-talks.html
+:template: 2018/generic.html
 
 .. _speaker-lightning-talks-2018/na:
 

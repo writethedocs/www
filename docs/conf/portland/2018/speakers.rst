@@ -1,4 +1,5 @@
-:template: 2018/speakers.html
+:template: 2018/generic.html
+:banner: _static/2018/assets/headers/speakers.jpg
 
 Conference Speakers
 ===================

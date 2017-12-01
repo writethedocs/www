@@ -1,4 +1,4 @@
-:template: 2018/sponsors.html
+:template: 2018/generic.html
 
 Sponsor
 =======

@@ -1,6 +1,4 @@
-:template: 2018/venue.html
-
-
+:template: 2018/generic.html
 
 Venue
 -----
