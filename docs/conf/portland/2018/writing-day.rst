@@ -1,4 +1,5 @@
 :template: 2018/generic.html
+:banner: _static/2018/assets/headers/writing-day.png
 
 .. include:: /include/conf/events/writing-day.rst
 

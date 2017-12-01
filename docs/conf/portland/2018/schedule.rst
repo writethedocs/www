@@ -1,6 +1,5 @@
 :template: 2018/generic.html
-:banner: _static/2018/assets/headers/schedule.jpg
-
+:banner: _static/2018/assets/headers/venue.png
 
 Schedule
 ========
