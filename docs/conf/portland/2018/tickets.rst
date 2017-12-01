@@ -1,7 +1,5 @@
-:template: 2018/tickets.html
-
-.. role:: strike
-    :class: strike
+:template: 2018/generic.html
+:banner: _static/2018/assets/headers/venue.png
 
 Tickets
 =======

@@ -1,4 +1,4 @@
-:template: 2018/news.html
+:template: 2018/generic.html
 
 News
 ====

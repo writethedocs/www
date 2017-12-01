@@ -1,6 +1,5 @@
-:template: 2018/welcome-wagon.html
-
-
+:template: 2018/generic.html
+:banner: _static/2018/assets/headers/group.png
 
 Welcome Wagon
 =============

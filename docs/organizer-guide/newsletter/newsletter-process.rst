@@ -1,4 +1,3 @@
-#########################
 Write the Docs Newsletter
 #########################
 
@@ -6,9 +5,8 @@ At the beginning of every month, we put out an email newsletter to the community
 
 In this doc, we'll cover all of the pieces that go into putting the newsletter out each month.
 
-*******************************************
 Tag stories in Slack (throughout the month)
-*******************************************
+********************************************
 
 The newsletter team keeps an eye on the WTD Slack and flags conversations they think might be a good fit by tagging them with the :newsletter: emoji. We've added the 'Reacji Channeler' plug-in to automatically send the tagged post to the #newsletter-slushpile channel.
 
@@ -21,9 +19,8 @@ Some of the things we look for are:
 * conversations that clearly strike a chord with the audience
 * conversations that highlight two sides of a docs problem/topic
 
-*****************************************
 Assign stories (7-10 days before shipping)
-*****************************************
+*******************************************
 
 A week before the planned ship date, the editor will go through the conversations they've captured, and do two things:
 
@@ -32,7 +29,6 @@ A week before the planned ship date, the editor will go through the conversation
 
 From there, in the #newsletter channel on Slack, they'll @mention their writers and ask them to pick a story for the month. They'll point them to the slushpile folder so they can have a look, and set a deadline to have drafts back, 2-3 days before shipping.
 
-****************************************************************
 Assemble & review the newsletter (2-3 days before shipping)
 ****************************************************************
 

@@ -92,8 +92,7 @@ non-profits, and open source organizations.
 - One (1) ticket_
 - Small logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
-- Display 1 promotional (“Swag”) item on the conference swag table
-(provided by sponsor)
+- Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
 The **First Draft** package costs **$300**.
 
@@ -146,12 +145,12 @@ Lanyard
 Provide your branded lanyards for our name tags.
 
 Writing (Half) Day
------------
+----------------------
 
 Sponsor the Writing Half Day, where we get together to help improve the documentation of many projects.
 
 Party
------
+------
 
 We all know that some of the most valuable networking takes place after hours.
 Sponsorship of the official party includes:

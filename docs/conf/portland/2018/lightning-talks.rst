@@ -1,4 +1,5 @@
-:template: 2018/lightning-talks.html
+:template: 2018/generic.html
+:banner: _static/2018/assets/headers/venue.png
 
 .. _speaker-lightning-talks-2018/na:
 
