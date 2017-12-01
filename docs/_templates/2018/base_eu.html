@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         {% if page_description %}
         <meta name="description" content="{{ page_description }}">
@@ -12,7 +12,6 @@
 
         <meta name="author" content="Write the Docs">
         <meta name="ROBOTS" content="ALL">
-
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -42,35 +41,37 @@
 
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,400,700" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
-		<link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet">
-		<link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css" rel="stylesheet">
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.css" />
-		<link rel="stylesheet" href="{{ pathto('_static/2018/css/main.min.css', 1) }}" type="text/css">
-        
-        <!-- things that change -->
-        <meta property="og:title" content="Write the Docs Portland 2018 - May 6-8">
-        <meta property="og:site_name" content="Write the Docs Portland 2018">
-        <meta name="geo.country" content="US">
-        <meta name="dc.language" content="en">
-        <meta name="geo.placename" content="Portland, Oregon">
+        <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet">
+        <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.css" />
+        <link rel="stylesheet" href="{{ pathto('_static/2018/css/main.min.css', 1) }}" type="text/css">
 
-        <title>{% if title %}{{ title }}{% endif %} - Write the Docs Portland 2018</title>
+        <!-- things that change -->
+        <meta property="og:title" content="Write the Docs Prague 2018 - Sept 9-11">
+        <meta property="og:site_name" content="Write the Docs Prague 2018">
+        <meta name="geo.country" content="CZ">
+        <meta name="dc.language" content="en">
+        <meta name="geo.placename" content="Prague, Czech Republic">
+
+        <title>{% if title %}{{ title }}{% endif %} - Write the Docs Prague 2018</title>
         {% block head_link %}
         {% endblock %}
-	</head>
-	<body>
+    </head>
+    <body>
 
 
             {% block container %}
             {% endblock %}
         
+                <!-- 
                 <div class="footer-head">
                     <div class="uk-container">
                         <h3>Join us now!</h3>
-                        <!-- <a href="{{ pathto('conf/portland/2018/tickets') }}" class="uk-button uk-button-secondary uk-text-center">Buy a Ticket!</a> -->
-                        <a href="{{ pathto('conf/portland/2018/cfp') }}" class="uk-button uk-button-default uk-text-center">Submit a Talk</a>
+                        <a href="{{ pathto('conf/prague/2018/tickets') }}" class="uk-button uk-button-secondary uk-text-center">Buy a Ticket!</a> 
+                        <a href="{{ pathto('conf/prague/2018/cfp') }}" class="uk-button uk-button-default uk-text-center">Submit a Talk</a>
                     </div>
                 </div>
+                -->
 
                 {# include "include/2018/sponsors.html" #}
 
@@ -83,7 +84,7 @@
                                     Write<br>
                                     the<br>
                                     Docs<br>
-                                    <em>Portland</em>
+                                    <em>Prague</em>
                                 </div>
 
                                 <div class="footer-icon-list">

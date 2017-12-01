@@ -1,7 +1,8 @@
-:template: 2018/na/generic.html
-:banner: _static/2018/assets/headers/group.png
+:template: 2018/eu/generic.html
+:banner: _static/2018/assets/headers/prague-group.png
 
-Write the Docs Portland 2018 Sponsorship
+
+Write the Docs Prague 2018 Sponsorship
 ########################################
 
 .. raw:: pdf
@@ -39,17 +40,17 @@ experience again this year, and make it better than ever.
 Demographics
 ============
 
-We hold two conferences yearly, one in Portland, USA in May, and one in
-Prague, Europe in September. Attendence is approximately 400 in the
-USA and 250 in Europe, and we expect both conferences to sell out.
+We hold two conferences yearly, one in Portland, Oregon in May, and one in
+Prague, Czech Republic in September. Attendence is approximately 400 in the
+USA and 300 in Europe, and we expect both conferences to sell out.
 
 Our audience is made up of:
 
-- Technical Writers (50%)
-- Developers (15%)
+- Technical Writers (40%)
+- Developers (22%)
 - Support Staff (15%)
-- Managers (10%)
-- Community Contributors, Enthusiasts & Other Folks (10%)
+- Managers (12%)
+- Community Contributors, Enthusiasts & Other Folks (11%)
 
 Why Sponsor
 ===========
@@ -76,9 +77,9 @@ Sponsorship Packages
 The following options are suggested sponsorship levels. We are happy to discuss
 adjustments and custom packages.
 
-These package prices apply to the Portland conference only. Look here for
-:doc:`prices </conf/prague/2018/sponsorship/prospectus/>` for the European
-conference. Ask us about discounted packages for sponsoring both conferences.
+These package prices apply to the European conference only. Look here for
+:doc:`prices </conf/portland/2018/sponsorship/prospectus/>` for the USA conference.
+Ask us about discounted packages for sponsoring both conferences.
 
 First Draft
 -----------
@@ -87,39 +88,38 @@ The **First Draft** package is only available to startups (under 15 employees),
 non-profits,
 and open source organizations.
 
-- One (1) ticket_
+- One (1) ticket
 - Small logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
-The **First Draft** package costs **$750**.
-You can buy it directly on our ticket website.
+The **First Draft** package costs **€500**.
+
+.. TODO: You can buy it directly on our `ticket website <https://ti.to/writethedocs/write-the-docs-na-2017/with/80et9e6qdes>`_
 
 Second Draft
 ------------
 
 The **Second Draft** package is great for companies looking to hire or promote a product.
 
-- Two (2) tickets_
+- Two (2) tickets
 - Medium logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- One featured job posting in our Newsletter (2,500 subscribers)
 
-The **Second Draft** package costs **$1,500**.
+The **Second Draft** package costs **€1,000**.
 
 Publisher
 ---------
 
 The **Publisher** package is great for sending a team and getting to know the community.
 
-- Five (5) tickets_
+- Five (5) tickets
 - Large logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 2 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Two featured job postings in our Newsletter (2,500 subscribers)
 
-The **Publisher** package costs **$4,000**.
+The **Publisher** package costs **€3,000**.
 
 .. raw:: pdf
 
@@ -130,31 +130,29 @@ Patron (Limit 2)
 
 The **Patron** package highlights your company as a force in the industry and community:
 
-- Ten (10) tickets_
+- Ten (10) tickets
 - Small booth at the event
 - Small logo included on videos
 - Full size logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 3 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Three featured job postings in our Newsletter (2,500 subscribers)
 
-The **Patron** package costs **$8,000**.
+The **Patron** package costs **€6,000**.
 
 Keystone (Limit 1)
 ------------------
 
 The **Keystone** package is highlighted as a community partner and
 
-- Fifteen (15) tickets_
+- Fifteen (15) tickets
 - Large booth at the event
 - Dedicated table for staff
 - Large logo included on videos
 - Full size logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display unlimited promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Five featured job postings in our Newsletter (2,500 subscribers)
 
-The **Keystone** package costs **$14,000**.
+The **Keystone** package costs **€12,000**.
 
 .. raw:: pdf
 
@@ -221,11 +219,15 @@ Please direct all inquiries to our sponsorship team at:
 
 - sponsorship@writethedocs.org
 
+Sponsor Multiple Conferences
+============================
+
+If you are interested in sponsoring both the North American and European
+conferences, we are offering a **10% discount** from the price of each package.
+
 Payment
 =======
 
 We expect all invoices to be paid **within 21 days of invoice receipt**, as many
 of our expenses must be paid up front.
 
-.. _ticket: https://ti.to/writethedocs/write-the-docs-portland-2018/
-.. _tickets: https://ti.to/writethedocs/write-the-docs-portland-2018/
