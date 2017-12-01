@@ -1,7 +1,7 @@
 :template: 2018/na/generic.html
 :banner: _static/2018/assets/headers/speakers.jpg
 
-Call for proposals
+Call for Proposals
 ==================
 
 Hello hello, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next North American conference, coming up on **May 6-8, 2018, in Portland, Oregon**.
