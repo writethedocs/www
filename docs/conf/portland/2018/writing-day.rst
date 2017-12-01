@@ -16,7 +16,7 @@ so make sure that you have the tools you need to contribute.
 - Location: **Crystal Ballroom, 1332 W Burnside St**. We will be in the main ballroom.
 - Projects:
 
-  + :ref:`writewrite`
+  + :ref:`writewrite2018`
   + anything else you fancy
 
 Writing Day Schedule
@@ -35,7 +35,7 @@ Check out our `beginners guide
 documentation. This should help you get started,
 and give you some ideas for how you can contribute to a project that you love.
 
-.. _writewrite:
+.. _writewrite2018:
 
 Write Write the Docs on Writing Day
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

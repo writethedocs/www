@@ -46,6 +46,7 @@ Useful Pages
    guide/index
    organizer-guide/index
    origin-story
+   about/index
 
 .. toctree::
    :hidden:

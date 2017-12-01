@@ -15,6 +15,7 @@ improve the art and science of documentation.
 .. toctree::
    :hidden:
 
+   portland/2018/index
    na/2017/index
    eu/2017/index
    au/2017/index
