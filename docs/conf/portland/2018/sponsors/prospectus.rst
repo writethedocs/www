@@ -1,5 +1,4 @@
 :template: 2018/na/generic.html
-:orphan:
 
 Write the Docs Portland 2018 Sponsorship
 ########################################
