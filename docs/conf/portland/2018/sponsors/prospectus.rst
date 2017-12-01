@@ -1,4 +1,5 @@
 :template: 2018/na/generic.html
+:banner: _static/2018/assets/headers/group.png
 
 Write the Docs Portland 2018 Sponsorship
 ########################################
