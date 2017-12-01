@@ -8,7 +8,9 @@ This page outlines the folks who are helping get things done,
 and what their roles are.
 
 Folks
------Eric Holscher
+-----
+
+Eric Holscher
 ~~~~~~~~~~~~~
 
 .. include:: /include/bios/eric.rst
@@ -47,14 +49,16 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 * **Swag coordinator** - Mikey Ariel
 * **Speaker wrangler** - Kelly O'Brien
 * **Infrastructure chair** - Samuel Wright
-* **Writing Day coordinator** - Samuel Wright
-* **Unconference coordinator** - Rose Williams
-* **Lightning Talk coordinator** - Rose Williams
-* **Communication chair** - Mikey Ariel
-* **Volunteer coordinator** - Becky Yoose
+* **Writing Day coordinator** - TBA
+* **Unconference coordinator** - TBA
+* **Lightning Talk coordinator** - TBA
+* **Workshop coordinator** - TBA
+* **Communication chair** - TBA
+* **Volunteer coordinator** - TBA
 * **Sponsorship lead** - Eric Holscher
-* **Explore Portland coordinator** - None
-* **Welcome Wagon coordinators** - Christy Lutz & Leona Campbell
-* **Social media chair** - Mikey Ariel
+* **Job Fair coordinator** - TBA
+* **Explore Portland coordinator** - TBA
+* **Welcome Wagon coordinators** - TBA
+* **Social media chair** - TBA
 * **Hike coordinator** - Eric Holscher
-* **Emcee** - Nik Blanchet
+* **Emcee** - TBA
