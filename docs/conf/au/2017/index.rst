@@ -104,7 +104,7 @@
 
                 <div class="row">
                 <div class="col-xs-12 col-md-4">
-                  <a href="news/event-recap-feedback/"  class="well news__tile">
+                  <a href="news/event-recap-feedback/" class="well news__tile">
                     <h3 class="well__title">
                       Write the Docs Day Australia - Recap
                     </h3>
