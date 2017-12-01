@@ -77,13 +77,13 @@ the event.
 
 A few suggestions, in no particular order:
 
-a. Schedule the doc sprint after the presentations.
-b. Include more presentations if possible.
-c. Increase the duration of the doc sprint so that the attendees can get more time
- to familiarise themselves with the project/product.
-d. Pitch the documentation sprint projects in advance (before the actual
+* Schedule the doc sprint after the presentations.
+* Include more presentations if possible.
+* Increase the duration of the doc sprint so that the attendees can get more time
+   to familiarise themselves with the project/product.
+* Pitch the documentation sprint projects in advance (before the actual
    documentation sprint) to allow attendees to prepare
-e. Organise the social event closer to the conference venue.
+* Organise the social event closer to the conference venue.
 
 We appreciate all your feedback, and strive to take this on board and evolve
 our events to make everyone’s experience a happier one.
