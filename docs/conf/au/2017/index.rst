@@ -104,6 +104,21 @@
 
                 <div class="row">
                 <div class="col-xs-12 col-md-4">
+                  <a href="news/event-recap-feedback/"  class="well news__tile">
+                    <h3 class="well__title">
+                      Write the Docs Day Australia - Recap
+                    </h3>
+                    <p class="well__paragraph">
+                    A recap of Write the Docs Day Australia 2017...
+                    </p>
+                    <div class="well__time">
+                      <span>12:00</span>|<span>December 1, 2017</span>
+                    </div>
+                  </a>
+                </div>
+
+                <div class="row">
+                <div class="col-xs-12 col-md-4">
                   <a href="news/welcome-new-sponsor/" class="well news__tile">
                     <h3 class="well__title">
                       Welcome newest sponsor and updated visitor info
@@ -125,22 +140,6 @@
                     </h3>
                     <p class="well__paragraph">
                     We are excited to announce presentations for our first ever Australian day event...
-                    </p>
-                    <div class="well__time">
-                      <span>12:00</span>|<span>October 5, 2017</span>
-                    </div>
-                  </a>
-                </div>
-
-                <div class="row">
-                <div class="col-xs-12 col-md-4">
-                  <a href="news/announcing-schedule/" class="well news__tile">
-                    <h3 class="well__title">
-                      Announcing talk Schedule
-                    </h3>
-                    <p class="well__paragraph">
-                    Our website is now updated with the final schedule for
-                    the talks...
                     </p>
                     <div class="well__time">
                       <span>12:00</span>|<span>October 5, 2017</span>
