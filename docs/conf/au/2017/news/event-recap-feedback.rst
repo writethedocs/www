@@ -141,8 +141,8 @@ In the meantime, save the dates for our US and EU next year:
 * Portland conference, 6-8 May 2018
 * Prague conference, 9-11 September 2018
 
-If you are curious about sponsoring any Write the Docs event, please
-contact us at sponsorship@writethedocs.org
+If you are curious about sponsoring any Write the Docs event,
+please contact us at sponsorship@writethedocs.org.
 
 A final thank you
 -----------------
