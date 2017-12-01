@@ -6,8 +6,8 @@
 Visiting Portland
 =================
 
-Wondering where to stay and how to get around once you get into Portland? The conference will be held at the `Crystal
-Ballroom <http://www.mcmenamins.com/CrystalBallroom>`__, in downtown Portland, and most conference events will be held within just a few blocks of the Crystal Ballroom.
+Wondering where to stay and how to get around once you get into Portland?
+The conference will be held at the `Crystal Ballroom <http://www.mcmenamins.com/CrystalBallroom>`__, in downtown Portland, and most conference events will be held within just a few blocks of the Crystal Ballroom.
 
 Eating
 ------
@@ -47,11 +47,8 @@ The venue is along Burnside Street at 14th Ave, just east of the I-405 underpass
 
 Streetcars and Buses
 --------------------
+
 Portland has a `separate streetcar network <http://www.portlandstreetcar.org/>`__ which criss-crosses the MAX lines. These, along with Portland's extensive `bus network <http://trimet.org/bus/>`__, ought to suffice.
-
-The streetcar loop lines are also under construction, but only through Saturday 14 May. This means their detours will only matter during the day of the hike. They may be your lifeline during the rest of the conference.
-
-The streetcars run along 10th and 11th Avenues. The closest stops to the venue are also on Couch Street. There is also a Whole Foods Market at NW Couch & 12th Ave. See the `Streetcar Loop detour map <http://news.trimet.org/wordpress/wp-content/uploads/2018/04/Morrison-Yamhill-MAX-Improvements-Streetcar-Service-Map.png>`__ for details.
 
 Taxi Companies
 ~~~~~~~~~~~~~~

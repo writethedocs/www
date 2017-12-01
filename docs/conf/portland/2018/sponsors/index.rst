@@ -1,11 +1,10 @@
 :template: 2018/na/generic.html
 
-Sponsor
-=======
+Sponsors
+========
 
-We are seeking corporate partners to help us create the best conference
-possible. Contact us at sponsorship@writethedocs.org for more
-information on sponsoring Write the Docs.
+We are seeking corporate partners to help us create the best conference possible.
+Contact us at sponsorship@writethedocs.org for more information on sponsoring Write the Docs.
 
 Sponsors
 --------

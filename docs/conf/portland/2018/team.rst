@@ -1,12 +1,11 @@
 :template: 2018/na/generic.html
 :banner: _static/2018/assets/headers/team.png
 
-Staff
-===========
+Meet the Team
+=============
 
 Our conference is run by a dedicated team consisting mostly of volunteers.
-This page outlines the folks who are helping get things done,
-and what their roles are.
+This page outlines the folks who are helping get things done, and what their roles are.
 
 Folks
 -----
@@ -50,16 +49,15 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 * **Swag coordinator** - Mikey Ariel
 * **Speaker wrangler** - Kelly O'Brien
 * **Infrastructure chair** - Samuel Wright
-* **Writing Day coordinator** - TBA
+* **Writing Day coordinator** - Shaun McCance
 * **Unconference coordinator** - TBA
 * **Lightning Talk coordinator** - TBA
-* **Workshop coordinator** - TBA
-* **Communication chair** - TBA
+* **Communication chair** - Mikey Ariel
 * **Volunteer coordinator** - TBA
 * **Sponsorship lead** - Eric Holscher
 * **Job Fair coordinator** - TBA
 * **Explore Portland coordinator** - TBA
 * **Welcome Wagon coordinators** - TBA
-* **Social media chair** - TBA
+* **Social media chair** - Mikey Ariel
 * **Hike coordinator** - Eric Holscher
 * **Emcee** - TBA
