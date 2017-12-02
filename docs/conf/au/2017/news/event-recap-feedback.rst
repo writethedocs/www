@@ -6,13 +6,13 @@
 Write the Docs Day Australia 2017 - Recap
 =================================================
 
-A big thank you to all attending the 2017 and our first Australian Write the
+A big thank you to all attending our first Australian Write the
 Docs Day in Melbourne. We are extremely grateful to our sponsors, volunteers,
 speakers and attendees. We loved the time, effort and passion put in by
 everyone for this event.
 
 Hopefully, this event met people’s expectations and provided an opportunity to
-learn, meet and  interact with other documentarians from a growing community.
+learn, meet and  interact with other documentarians in a growing community.
 
 Here is a quick recap of the event, along with the feedback received from
 attendees and speakers. Links to photos and videos will be made available soon.
@@ -59,7 +59,7 @@ Australia Youtube channel shortly.
 Social event (6pm onwards)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Social event was pay-your-own drinks and dinner at a popular cafe along
+The social event was pay-your-own drinks and dinner at a popular cafe at
 South Wharf alongside Melbourne CBD.
 
 Feedback
