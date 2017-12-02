@@ -38,19 +38,19 @@ https://ffeathers.wordpress.com/2017/11/25/doc-sprint-at-write-the-docs-day-aust
 The afternoon schedule consisted of 5 awesome presentations from local,
 interstate and international speakers.
 
-Margaret Fero gave us a very succinct talk on things to consider while
+*Margaret Fero* gave us a very succinct talk on things to consider while
 creating and delivering documentation for a variety of use cases.
 
-Chris Ward spoke about the increasing popularity of bots and what this
+*Chris Ward* spoke about the increasing popularity of bots and what this
 could mean for writers, especially working with conversational interfaces.
 
-Laura Bailey demonstrated the process she adopts before writing anything, be it
+*Laura Bailey* demonstrated the process she adopts before writing anything, be it
 technical documentation or presentations.
 
-Nicola Nye’s technical talk focused around Sphinx to generate docs across
+*Nicola Nye’s* technical talk focused around Sphinx to generate docs across
 multiple formats.
 
-Lastly, Brice Fallon spoke about how documentarians can practice minimalism
+Lastly, *Brice Fallon* spoke about how documentarians can practice minimalism
 in their content.
 
 *Note*: All the videos for these talks will be available on the Write the Docs
@@ -69,6 +69,7 @@ During the event, we received a number of comments on the organisation of the
 event, including the quality of presentations, networking opportunities and
 affordable cost of attending the event. The inclusion of tea/coffee and swag
 (t-shirts and stickers) was appreciated.
+
 The choice of venue and selecting a professional videographer to record
 presentations were some other things people appreciated.
 
@@ -79,10 +80,8 @@ A few suggestions, in no particular order:
 
 * Schedule the doc sprint after the presentations.
 * Include more presentations if possible.
-* Increase the duration of the doc sprint so that the attendees can get more time
-   to familiarise themselves with the project/product.
-* Pitch the documentation sprint projects in advance (before the actual
-   documentation sprint) to allow attendees to prepare
+* Increase the duration of the doc sprint so that the attendees can get more time to familiarise themselves with the project/product.
+* Pitch the documentation sprint projects in advance (before the actual documentation sprint) to allow attendees to prepare
 * Organise the social event closer to the conference venue.
 
 We appreciate all your feedback, and strive to take this on board and evolve
@@ -99,6 +98,7 @@ What worked
 
 The venue - It was not centrally located, but wasn’t that difficult to get to
 either. The meeting hall was adequate for our attendee numbers.
+
 Tea/coffee arrangements - The walk to the nearest coffee shop was an
 interesting concept as it allowed to break the pace and opportunities to
 chat with other attendees.
@@ -108,14 +108,17 @@ Improvements
 
 Event website: A few people commented that the website content wasn’t
 clear and needed more information.
-there was some confusion on usage of terms around lunch and dinner arrangements.
+
+Lunch and dinner arrangements: There was some confusion on usage of terms around lunch and dinner arrangements.
 
 Write the Docs Australia
 ------------------------
 
 Write the Docs Australia meetups have been successfully running since July
 2016 and we have had 13 meetup events so far across Melbourne, Sydney, Brisbane
-and Adelaide. We will continue to organise events across Australia and will
+and Adelaide.
+
+We will continue to organise events across Australia and will
 love to get you involved, attending, speaking or volunteering at future events.
 
 You can get in touch with us via australia@writethedocs.org or subscribe for
@@ -124,7 +127,7 @@ future events at: https://www.meetup.com/Write-The-Docs-Australia
 Slack
 -----
 
-The `Write the Docs Slack <http://writethedocs.org/slack/>`_ has really grown this last year. 
+The `Write the Docs Slack <http://writethedocs.org/slack/>`_ has really grown this last year.
 Our Slack channels have been extra busy in the days and weeks leading up to the conference,
 and we hope that y’all continue the conversations throughout the year.
 If you haven’t joined, head on over and join us.
