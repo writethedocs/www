@@ -40,19 +40,28 @@ interstate and international speakers.
 
 *Margaret Fero* gave us a very succinct talk on things to consider while
 creating and delivering documentation for a variety of use cases.
+
 Video: `Delivering Documents For All Three Use Cases <https://www.youtube.com/watch?v=uU0NwlMG6bs/>`_
 
 *Chris Ward* spoke about the increasing popularity of bots and what this
 could mean for writers, especially working with conversational interfaces.
 
+Video: `Conversational UI for Writers <https://www.youtube.com/watch?v=0JLzDoPfYyU&t=1028s/>`_
+
 *Laura Bailey* demonstrated the process she adopts before writing anything, be it
 technical documentation or presentations.
+
+Video: `How I decided to do this talk <https://www.youtube.com/watch?v=iWvAXHCfF1A&t=2s/>`_
 
 *Nicola Nye’s* technical talk focused around Sphinx to generate docs across
 multiple formats.
 
+Video: `Writing extensions in Sphinx: supercharge your docs <https://www.youtube.com/watch?v=qkTjmsufhFM&t=1s/>`_
+
 Lastly, *Brice Fallon* spoke about how documentarians can practice minimalism
 in their content.
+
+Video: `Peanuts and Minimalism and Technical Writing <https://www.youtube.com/watch?v=QSFkHJK-Nh0&t=6s/>`_
 
 Social event (6pm onwards)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
