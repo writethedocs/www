@@ -40,6 +40,7 @@ interstate and international speakers.
 
 *Margaret Fero* gave us a very succinct talk on things to consider while
 creating and delivering documentation for a variety of use cases.
+Video: `Delivering Documents For All Three Use Cases <https://www.youtube.com/watch?v=uU0NwlMG6bs/>`_
 
 *Chris Ward* spoke about the increasing popularity of bots and what this
 could mean for writers, especially working with conversational interfaces.
@@ -52,9 +53,6 @@ multiple formats.
 
 Lastly, *Brice Fallon* spoke about how documentarians can practice minimalism
 in their content.
-
-*Note*: All the videos for these talks will be available on the Write the Docs
-Australia Youtube channel shortly.
 
 Social event (6pm onwards)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
