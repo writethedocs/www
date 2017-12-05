@@ -15,24 +15,25 @@ Hopefully, this event met people’s expectations and provided an opportunity to
 learn, meet and  interact with other documentarians in a growing community.
 
 Here is a quick recap of the event, along with the feedback received from
-attendees and speakers. Links to photos and videos will be made available soon.
-We encourage you to keep in touch and continue support and build this
+attendees and speakers. We encourage you to keep in touch and continue support and build this
 community.
+
+Photos available here: `Write the Docs Day Australia <https://photos.app.goo.gl/hVgfJdj7kYLIXiY93>`_
 
 Summary of events
 ------------------
 
-9.00 am - 1.00 pm Writing (Half) Day
+Writing (Half) Day
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The first half of the day was dedicated to a documentation sprint, with
 attendees contributing to one of the 5 open source projects that were pitched
-on the day. Attendees could choose from Dart, Kubernetes, ReactiveUI, Webpact
+on the day. Attendees could choose from Dart, Kubernetes, ReactiveUI, WebPact
 or Cyrus mail.
 Sarah Maddox had blogged about the Doc sprint experience here:
 https://ffeathers.wordpress.com/2017/11/25/doc-sprint-at-write-the-docs-day-australia/
 
-2.00 pm - 4.30 pm Presentations
+Presentations
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The afternoon schedule consisted of 5 awesome presentations from local,
@@ -63,7 +64,7 @@ in their content.
 
 Video: `Peanuts and Minimalism and Technical Writing <https://www.youtube.com/watch?v=QSFkHJK-Nh0&t=6s/>`_
 
-Social event (6pm onwards)
+Social event
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The social event was pay-your-own drinks and dinner at a popular cafe at
