@@ -274,6 +274,7 @@ Write-Ups From the Community
 -  `Write the Docs 2016 <https://www.davidbaumgold.com/blog/2016/05/wtd-na-2016/>`_ by David Baumgold
 -  `Write the Docs 2016 Recap <https://circleci.com/blog/write-the-docs-2016-recap/>`_ by Ricardo N Feliciano
 -  `Write the Docs NA 2016 wrapup <https://ffeathers.wordpress.com/2016/05/25/write-the-docs-na-2016-wrapup/>`_ by Sarah Maddox
+-  `Write the Docs EU 2017 writeup <https://www.knowledgeowl.com/home/write-the-docs-prague-conference-2017>`_ by Catherine Heath
 
 
 Contact Us
