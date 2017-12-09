@@ -121,17 +121,28 @@ body .page-content {
     text-align: left; }
   body .page-content .ticket {
     padding: 24px 36px;
-    background-color: #E3D6C5;
-    border: 1px solid #C4B098;
+    background-color: #EFEFED;
+    border: 2px solid #AEBFB0;
     margin-top: 36px;
     border-radius: 3px;
     margin-top: 20px; }
+    body .page-content .ticket a.headerlink, body .page-content .ticket a.headerlink:visited {
+      padding-left: 10px;
+      color: #00D25D; }
     body .page-content .ticket h2 {
       font-family: "Bree Serif", serif;
       margin-bottom: 10px;
-      margin-top: 10px; }
+      margin-top: 10px;
+      color: #333333; }
+      body .page-content .ticket h2 strong {
+        font-weight: regular;
+        color: #333333; }
+      body .page-content .ticket h2 em {
+        font-style: normal;
+        color: #333333; }
     body .page-content .ticket h2, body .page-content .ticket p {
-      text-align: left; }
+      text-align: left;
+      color: #333333; }
     body .page-content .ticket p {
       font-weight: 400; }
   body .page-content .schedule {
@@ -632,6 +643,27 @@ footer {
     text-decoration: none; }
 
 @media (min-width: 640px) {
+  #tickets .ticket h2 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    border-bottom: 2px #61604B solid;
+    padding-bottom: 8px;
+    font-size: 24px; }
+    #tickets .ticket h2 .em {
+      text-align: left;
+      font-style: normal; }
+    #tickets .ticket h2 a.headerlink {
+      display: none; } }
+
+@media (min-width: 640px) {
   .uk-container, .schedule-overview .uk-container {
     max-width: 640px; }
   body div.header {
@@ -672,28 +704,12 @@ footer {
       max-width: 560px !important; }
       body .page-banner .uk-container h1 {
         top: 208px;
-        font-size: 40px; }
+        font-size: 52px; }
   body .page-content {
     padding-top: 54px;
     padding-bottom: 44px; }
     body .page-content .uk-container {
       max-width: 560px !important; }
-    body .page-content .ticket .ticket-header {
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-pack: justify;
-          -ms-flex-pack: justify;
-              justify-content: space-between;
-      -webkit-box-orient: horizontal;
-      -webkit-box-direction: normal;
-          -ms-flex-direction: row;
-              flex-direction: row;
-      border-bottom: 1px solid; }
-      body .page-content .ticket .ticket-header .ticket-price {
-        text-align: left; }
-      body .page-content .ticket .ticket-header h2 {
-        width: auto; }
   .hero .hero-content {
     display: -webkit-box;
     display: -ms-flexbox;
