@@ -4,9 +4,9 @@
 Conference Speakers
 ===================
 
-{{ confname }}
+{{ name }}
 
-{% if confflagshowspeakers %}
+{% if flagshowspeakers %}
 
 .. raw:: html
 
