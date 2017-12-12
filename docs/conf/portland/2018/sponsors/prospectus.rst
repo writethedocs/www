@@ -143,7 +143,7 @@ The **Patron** package costs **$8,000**.
 Keystone (Limit 1)
 ------------------
 
-The **Keystone** package is highlighted as a community partner and
+The **Keystone** package highlights you as our main community partner:
 
 - Fifteen (15) tickets_
 - Large booth at the event
