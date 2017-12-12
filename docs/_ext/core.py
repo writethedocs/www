@@ -52,7 +52,17 @@ def rstjinja(app, docname, source):
     """
     if getattr(app.builder, 'implementation', None) or app.builder.format != 'html':
         return
-    if docname.startswith(('conf/', 'guide/', 'videos/by-year', 'videos/by-series')):
+
+    if docname.startswith('conf/portland/2018'):
+        configs=load_yaml('_data/config-portland-2018.yaml')
+
+        MOAR = dict( app.config.html_context, **configs)
+
+        src = source[0]
+        rendered = app.builder.templates.render_string(src,MOAR)
+        source[0] = rendered
+
+    elif docname.startswith(('conf/', 'guide/', 'videos/by-year', 'videos/by-series')):
         src = source[0]
         rendered = app.builder.templates.render_string(src, app.config.html_context)
         source[0] = rendered

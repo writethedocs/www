@@ -1,0 +1,14 @@
+name: Portland
+
+shortcode: portland # prague australia?
+year: 2018
+city: Portland
+
+date: how do we handle these? human readable would be nice. 
+
+
+flagspeakersannounced: True
+flagcfp: True
+lagticketsonsale: False
+flaghashike: True
+flaghasboat: False

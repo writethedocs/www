@@ -4,6 +4,10 @@
 Conference Speakers
 ===================
 
+{{ confname }}
+
+{% if confflagshowspeakers %}
+
 .. raw:: html
 
     <article class="talk">
@@ -48,7 +52,6 @@ Conference Speakers
       </div>
     </article>
 
-..
-    .. datatemplate::
-       :source: /_data/2018.na.speakers.yaml
-       :template: 2018/na/speakers.rst
+{% else %}
+  Nothing to see yet.
+{% endif %}
