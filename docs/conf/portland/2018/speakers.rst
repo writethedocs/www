@@ -6,7 +6,7 @@ Conference Speakers
 
 {{ name }}
 
-{% if flagshowspeakers %}
+{% if flagspeakersannounced %}
 
 .. raw:: html
 
