@@ -59,16 +59,16 @@ body .uk-button.uk-button-ghost {
   padding-bottom: 0px;
   padding-top: 0px; }
 
-body .header-logo, body .header-logo a:hover, body .header-logo a:visited, body .header-logo a:active {
+body .header-logo, body .header-logo a:hover, body .header-logo a:visited, body .header-logo a:active, body .header-logo a {
   font-family: bree serif;
   text-transform: uppercase;
   text-align: right;
   text-decoration: none;
   font-size: 24px;
   line-height: 1;
-  color: #000;
+  color: #000 !important;
   text-decoration: none; }
-  body .header-logo em, body .header-logo a:hover em, body .header-logo a:visited em, body .header-logo a:active em {
+  body .header-logo em, body .header-logo a:hover em, body .header-logo a:visited em, body .header-logo a:active em, body .header-logo a em {
     color: #3DD94A;
     font-style: normal;
     font-size: 16px;
