@@ -77,7 +77,7 @@ The following options are suggested sponsorship levels. We are happy to discuss
 adjustments and custom packages.
 
 These package prices apply to the Portland conference only. Look here for
-:doc:`prices </conf/prague/2018/sponsorship/prospectus/>` for the European
+:doc:`prices </conf/prague/2018/sponsors/prospectus/>` for the European
 conference. Ask us about discounted packages for sponsoring both conferences.
 
 First Draft

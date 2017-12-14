@@ -17,21 +17,21 @@ Each ticket includes:
 .. class:: ticket
 
 **Corporate Tickets** *$450*
--------------------------
+------------------------------
 
 Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
 
 .. class:: ticket
 
 **Independent Tickets** *$250*
----------------------------
+--------------------------------
 
 Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with less than 10 employees.
 
 .. class:: ticket
 
 **Student or Unemployed** *$150*
--------------------------------
+---------------------------------
 
 Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
 
