@@ -83,7 +83,7 @@ The deadline for proposals to speak at Write the Docs Portland closes on **Janua
 
 Our monthly meetups have mostly wound down for the year, but there's a few on the books already for 2018. Since the newsletter won't be back til early February, make sure you keep an eye on your local meetup's calendar for other January events that get scheduled in the interim!
 
-January 9 – Portland, OR, USA – `Networking with a side of Write The Docs proposals <https://www.meetup.com/Write-The-Docs-PDX/events/243555894/>`_
+January 9 – Portland, OR, USA – `Networking with a side of Write the Docs proposals <https://www.meetup.com/Write-The-Docs-PDX/events/243555894/>`_
 
 January 10 – Austin, TX, USA – `Monthly meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/244942450/>`_
 
