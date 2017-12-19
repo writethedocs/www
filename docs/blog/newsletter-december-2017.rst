@@ -46,7 +46,7 @@ An interesting discussion cropped up on `Hacker News <https://news.ycombinator.c
 
 In the original HN conversation, diverse opinions were expressed on a range of subjects. For example, should man pages include tutorial-type information? Is the traditional structure of Synopsis, Description, Options, and Examples at all useful? Should command-line parameters be sorted or grouped? Do you need to be able to jump to a particular command-line option without resorting to wildcard search?
 
-There was plenty of `bike-shedding <https://en.wiktionary.org/wiki/bikeshedding>`_ along the way, including statements that what really mattered was the particular \*Nix variant the man page was in, that "info pages" are really where it's at, that `roff <https://en.wikipedia.org/wiki/Roff_(computer_program>`_ was the "way forward," and even that really, the man pages were fine but the _real_ problem is that people don't know how to use them...
+There was plenty of `bike-shedding <https://en.wiktionary.org/wiki/bikeshedding>`_ along the way, including statements that what really mattered was the particular \*Nix variant the man page was in, that "info pages" are really where it's at, that `roff <https://en.wikipedia.org/wiki/Roff_(computer_program>`_ was the "way forward," and even that really, the man pages were fine but the *real* problem is that people don't know how to use them...
 
 Inevitably, some people suggested that crowd-sourcing would be the solution, while others maintained that man pages already were crowd-sourced, along with the rest of the \*Nix variant.
 
