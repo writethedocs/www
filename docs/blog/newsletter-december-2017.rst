@@ -42,7 +42,7 @@ If you're looking for inspiration, this `explanation of Node.js's contribution p
 It's just documentation, man
 ****************************
 
-An interesting discussion cropped up on `Hacker News <https://news.ycombinator.com/item?id=15779382>`_ this month, about "man pages" (short for command line user **man**uals). The story made the rounds in a couple of Write the Docs spaces and sparked some lively conversations.
+An interesting discussion cropped up on `Hacker News <https://news.ycombinator.com/item?id=15779382>`_ this month, about "man pages" (short for command line user **man**-uals). The story made the rounds in a couple of Write the Docs spaces and sparked some lively conversations.
 
 In the original HN conversation, diverse opinions were expressed on a range of subjects. For example, should man pages include tutorial-type information? Is the traditional structure of Synopsis, Description, Options, and Examples at all useful? Should command-line parameters be sorted or grouped? Do you need to be able to jump to a particular command-line option without resorting to wildcard search?
 
