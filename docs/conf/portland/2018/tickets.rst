@@ -4,7 +4,11 @@
 Tickets
 =======
 
+{% if not flagticketsonsale %}
+
 Tickets will officially go on sale in **January 2018**.
+
+{% endif %}
 
 Each ticket includes:
 
@@ -16,24 +20,42 @@ Each ticket includes:
 
 .. class:: ticket
 
-**Corporate Tickets** *$450*
+**Corporate Tickets** *${{ tickets.corporate.price }}*
 ------------------------------
 
 Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
 
+{% if flagticketsonsale %}
+
+`Buy ticket <{{tickets.corporate.url}}>`__
+
+{% endif %}
+
 .. class:: ticket
 
-**Independent Tickets** *$250*
+**Independent Tickets** *${{ tickets.independent.price }}*
 --------------------------------
 
 Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with less than 10 employees.
 
+{% if flagticketsonsale %}
+
+`Buy ticket <{{tickets.independent.url}}>`__
+
+{% endif %}
+
 .. class:: ticket
 
-**Student or Unemployed** *$150*
+**Student or Unemployed** *${{ tickets.student.price }}*
 ---------------------------------
 
 Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
+
+{% if flagticketsonsale %}
+
+`Buy ticket <{{tickets.student.url}}>`__
+
+{% endif %}
 
 .. class:: ticket
 

@@ -39,7 +39,13 @@
         </p>
 
         <div class="ctas-block">
-          <!-- <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/portland/2018/tickets') }}">Buy a Ticket!</a> -->
+
+          {% if flagticketsonsale %}
+
+          <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/portland/2018/tickets') }}">Buy a Ticket!</a>
+
+          {% endif %}
+
           <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/portland/2018/cfp') }}">Submit a Talk</a>
         </div>
       </div>
@@ -316,7 +322,7 @@
 
     </div>
   </div><!--- end news block -->
-  
+
   {% include "include/2018/sponsors.html" %}
 
 {% endblock container %}

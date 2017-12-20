@@ -4,11 +4,22 @@ shortcode: portland # prague australia?
 year: 2018
 city: Portland
 
-date: how do we handle these? human readable would be nice. 
+tickets:
+  corporate:
+    price: 450
+    url: https://ti.to/writethedocs/write-the-docs-portland-2018/with/wsueeqqxqj4
+  independent:
+    price: 250
+    url: https://ti.to/writethedocs/write-the-docs-portland-2018/with/35geyrs9lhy
+  student:
+    price: 250
+    url: https://ti.to/writethedocs/write-the-docs-portland-2018/with/9fbv2axnyuk
+
+date: how do we handle these? human readable would be nice.
 
 
-flagspeakersannounced: True
+flagspeakersannounced: False
 flagcfp: True
-lagticketsonsale: False
+flagticketsonsale: True
 flaghashike: True
 flaghasboat: False
