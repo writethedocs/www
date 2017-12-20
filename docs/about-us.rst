@@ -8,7 +8,7 @@ The company's primary role is to manage the community's legal and business asset
 This document describes the guiding principles that drive us as an organization, our governance model, and what all this means for our community members.
 
 .. contents:: Contents
-   :local: 
+   :local:
    :backlinks: none
    :depth: 1
 
@@ -50,7 +50,7 @@ We want to:
 
 * Deliver all our content for free to everyone. All our documentation, videos, talk abstracts, session notes, and resources are available online. We do not hide anything behind a paywall, and our Slack is open to anyone who wants to join and network with other documentarians.
 
-* Create an open platform for community members to consume and contribute to our content. Our website infrastructure as well as our brand resources are open to everyone to use to spread the word, as long as you follow our :doc`brand-guidelines`. Anyone can start :doc:`meetups`, and we provide support for local communities.
+* Create an open platform for community members to consume and contribute to our content. Our website infrastructure as well as our brand resources are open to everyone to use to spread the word, as long as you follow our :doc`brand-guidelines`. Anyone can start :doc:`meetups/index`, and we provide support for local communities.
 
 * Maintain an open and flexible organization. Our :doc:`team` structure is transparent and aims to clearly define the various roles and responsibilities that we fulfill for the community, and anyone is welcome to join any of our teams to help out. We actively seek to improve our communication methods so that the community stays up-to-date with what we're working on.
 

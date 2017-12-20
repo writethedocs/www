@@ -2,7 +2,7 @@
 ----------------
 
 - :doc:`Write the Docs Portland </conf/portland/2018/index>`, May 6-8, **Portland, Oregon**
-- :doc:`Write the Docs Prague <conf/prague/2018/index>`, September 9-11, **Prague, Czech Republic**
+- :doc:`Write the Docs Prague </conf/prague/2018/index>`, September 9-11, **Prague, Czech Republic**
 
 2017 Conferences
 ----------------
@@ -15,7 +15,7 @@
 
 - :doc:`Write the Docs Day Australia </conf/au/2017/index>`, November 24, **Melbourne, Australia**
 
-Want to run your own one-day Write the Docs event? Check our :doc:`guide for starting an event </organizer-guide/confs/start/>` and `email us <mailto:support@writethedocs.org>`_ if you have any questions! 
+Want to run your own one-day Write the Docs event? Check our :doc:`guide for starting an event </organizer-guide/confs/start/>` and `email us <mailto:support@writethedocs.org>`_ if you have any questions!
 
 2017 Community Conferences
 ~~~~~~~~~~~~~~~~~~~~~~~~~~

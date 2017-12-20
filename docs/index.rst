@@ -63,3 +63,7 @@ Useful Pages
    conf/eu/*/*/*
    conf/au/*/*
    conf/au/*/*/*
+   conf/portland/*/*
+   conf/portland/*/*/*
+   conf/prague/*/*
+   conf/prague/*/*/*
