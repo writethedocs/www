@@ -8,11 +8,11 @@
 Welcome to the Write the Docs Community
 =======================================
 
-**Write the Docs** is a global community of people who care about documentation. We have:
-* A :doc:`slack network </slack>`
-* :doc:`conferences </conf/index>` on 3 continents
-* :doc:`local meetups </meetups/index>`
-* :doc:`a whole lot more </about/index>`!
+**Write the Docs** is a global community of people who care about documentation. Our primary gathering places are:
+
+* :doc:`Our slack network </slack>`
+* :doc:`Conferences </conf/index>` on 3 continents
+* :doc:`Local meetups </meetups/index>`
 
 We consider everyone who cares about communication, documentation, and
 their users to be a member of our community. This can be programmers,
