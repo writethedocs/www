@@ -111,7 +111,7 @@ Speaker Rejection Template
 Speaker Waitlist Template
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. literalinclude:: ../emails/cfp-waitlist.jinja
+.. literalinclude:: emails/cfp-waitlist.jinja
    :language: jinja
 
 
