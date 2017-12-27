@@ -5,8 +5,8 @@
    :author: Write the Docs
    :geo.placename: Worldwide
 
-Welcome to the Write the Docs Community
-=======================================
+Welcome to our community!
+=========================
 
 **Write the Docs** is a global community of people who care about documentation. Our primary gathering places are:
 
