@@ -33,19 +33,8 @@ Useful Pages
 
 .. toctree::
    :glob:
-   :maxdepth: 1
+   :maxdepth: 2
 
-   conf/index
-   meetups/index
-   slack
-   newsletter
-   podcast
-   videos
-   team
-   blog/index
-   guide/index
-   organizer-guide/index
-   origin-story
    about/index
 
 .. toctree::
@@ -53,7 +42,6 @@ Useful Pages
    :glob:
    :maxdepth: 1
 
-   blog/index
    *
    conf/*
    news/*
@@ -63,3 +51,7 @@ Useful Pages
    conf/eu/*/*/*
    conf/au/*/*
    conf/au/*/*/*
+   conf/portland/*/*
+   conf/portland/*/*/*
+   conf/prague/*/*
+   conf/prague/*/*/*

@@ -1,6 +1,12 @@
 Events and Activities
 =====================
 
+.. toctree::
+   :hidden:
+
+   /conf/index
+   /meetups/index
+
 Conferences
 ~~~~~~~~~~~
 

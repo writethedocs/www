@@ -58,7 +58,7 @@ We encourage our reviewers to avail themselves of both, since it makes for a muc
 For the review itself, these are the guidelines we use. 
 
 The practical stuff
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 **Entering your scores in Grorg.** To score proposals, just click the 'View Applicants' button and then hit 'Score' next to the applicant's name. (You can use the 'Score Random Applicant' button too, for giggles.) 
 
@@ -75,7 +75,7 @@ The practical stuff
 Dealing with conflicts of interest. Basically, if you have a conflict of interest with a particular proposal, don't vote on it. This includes your own proposals.
 
 The intellectual stuff
-^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~
 
 It's really useful, when you're doing these reviews, to think not just about the things that you, personally, are most interested in, but also what talks are a good fit for the spirit of a Write the Docs conference. You've been before. You know the vibe. Try to keep that energy in mind when reading proposals and think about whether they would be at home in lineup of fun, educational, and often out-of-the-box speakers.
 
@@ -109,7 +109,7 @@ Speaker Rejection Template
 
 
 Speaker Waitlist Template
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. literalinclude:: emails/cfp-waitlist.jinja
    :language: jinja
