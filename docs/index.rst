@@ -34,6 +34,10 @@ Get more information on how to meet the community, learn new things, get involve
 
    about/index
 
+The largest thing we do is also our conferences.
+Here are our latest events,
+and we hope to see you online or in person soon!
+
 -----
 
 .. include:: /include/conf/current.rst
