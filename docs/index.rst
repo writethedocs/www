@@ -10,9 +10,9 @@ Welcome to the Write the Docs Community
 
 **Write the Docs** is a global community of people who care about documentation. Our primary gathering places are:
 
-* :doc:`Our slack network </slack>`
+* :doc:`Our slack network </slack>` with thousands of members
 * :doc:`Conferences </conf/index>` on 3 continents
-* :doc:`Local meetups </meetups/index>`
+* :doc:`Local meetups </meetups/index>` in over 30 cities
 
 We consider everyone who cares about communication, documentation, and
 their users to be a member of our community. This can be programmers,
