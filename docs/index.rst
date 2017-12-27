@@ -38,10 +38,7 @@ Get more information on how to meet the community, learn new things, get involve
 
 .. include:: /include/conf/current.rst
 
------
-
-Navigation
-----------
+.. So that Sphinx doesn't yell as us :)
 
 .. toctree::
    :hidden:
