@@ -95,14 +95,14 @@ They either get an acceptance, rejection, or waitlist email.
 The templates for all of these are linked below.
 
 Speaker Acceptance Template
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. literalinclude:: emails/cfp-acceptance.jinja
    :language: jinja
 
 
 Speaker Rejection Template
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. literalinclude:: emails/cfp-rejection.jinja
    :language: jinja

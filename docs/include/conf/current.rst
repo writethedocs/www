@@ -23,8 +23,3 @@ Want to run your own one-day Write the Docs event? Check our :doc:`guide for sta
 - `API The Docs Amsterdam <http://apithedocs.org/amsterdam/>`_, December 4, **Amsterdam, Netherlands**
 
 Think your conference should go here? Make sure you meet the requirements listed in the :doc:`/organizer-guide/confs/community-events` page, then `email us <mailto:support@writethedocs.org>`_.
-
-Past Conferences
-----------------
-
-You can view a :doc:`full list </conf/index>` of our past conferences as well.
