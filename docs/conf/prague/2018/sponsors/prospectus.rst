@@ -78,7 +78,7 @@ The following options are suggested sponsorship levels. We are happy to discuss
 adjustments and custom packages.
 
 These package prices apply to the European conference only. Look here for
-:doc:`prices </conf/portland/2018/sponsorship/prospectus/>` for the USA conference.
+:doc:`prices </conf/portland/2018/sponsors/prospectus/>` for the USA conference.
 Ask us about discounted packages for sponsoring both conferences.
 
 First Draft
@@ -230,4 +230,3 @@ Payment
 
 We expect all invoices to be paid **within 21 days of invoice receipt**, as many
 of our expenses must be paid up front.
-
