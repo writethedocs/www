@@ -116,7 +116,7 @@ html_context = {
 }
 
 
-html_context.update(main())
+# html_context.update(main())
 
 def setup(app):
     app.connect('html-page-context', override_page_template)
