@@ -2,6 +2,16 @@
 Learning Resources
 ==================
 
+.. toctree::
+   :hidden:
+
+   /newsletter
+   /videos/index
+   /podcast
+   /organizer-guide/index
+   /guide/index
+   
+
 Newsletter
 ~~~~~~~~~~
 
@@ -10,7 +20,7 @@ Our monthly :doc:`/newsletter` aggregates the latest discussions about topics th
 Videos
 ~~~~~~
 
-All the presentation :doc:`/videos` are available on YouTube so that you can catch up on the content even if you can't attend the conferences.
+All the presentation :doc:`/videos/index` are available on YouTube so that you can catch up on the content even if you can't attend the conferences.
 
 Podcast
 ~~~~~~~
@@ -22,4 +32,11 @@ Documentation Guide
 
 This guide exists to provide both novice and expert writers a best practice handbook for building, structuring, and writing software documentation.
 
-**This is a living, breathing guide.**  If you'd like to contribute, `fork us on GitHub <https://github.com/writethedocs/docs>`_! Also feel free to send us any additions in any format to guide@writethedocs.org.
+You can check it out :doc:`/guide/index` here.
+
+Organizer Guide
+~~~~~~~~~~~~~~~
+
+A set of resources for folks who want to organize a Write the Docs Meetup, Conference, or Event.
+
+You can check it out :doc:`/organizer-guide/index` here.
