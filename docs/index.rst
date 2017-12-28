@@ -40,7 +40,7 @@ Useful Pages
    slack
    newsletter
    podcast
-   videos
+   videos/index
    team
    blog/index
    guide/index
