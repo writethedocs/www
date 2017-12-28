@@ -26,6 +26,11 @@ or moving them there if they develop into something bigger.
 
 Learn more about our :doc:`/slack`.
 
+Twitter
+~~~~~~~
+
+We're pretty active on `Twitter <https://twitter.com/hashtag/writethedocs?f=tweets&vertical=default&lang=en>`__ as well, mostly on **#writethedocs**.
+
 Forum
 ~~~~~
 
