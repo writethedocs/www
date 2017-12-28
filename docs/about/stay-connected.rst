@@ -1,6 +1,13 @@
 Stay Connected
 ==============
 
+.. toctree::
+   :hidden:
+
+   /newsletter
+   /slack
+   /blog/index
+
 Mailing List
 ~~~~~~~~~~~~
 
@@ -19,6 +26,11 @@ or moving them there if they develop into something bigger.
 
 Learn more about our :doc:`/slack`.
 
+Twitter
+~~~~~~~
+
+We're pretty active on `Twitter <https://twitter.com/hashtag/writethedocs?f=tweets&vertical=default&lang=en>`__ as well, mostly on **#writethedocs**.
+
 Forum
 ~~~~~
 
@@ -28,6 +40,11 @@ touch with your fellow documentarians.
 The forum is the place to start discussions that we should keep around for a while. If a Slack conversation
 starts to get a lot of attention and seems like something of permanent interest, we suggest that you move it
 over to the forum.
+
+Blog
+~~~~~
+
+Check out our :doc:`/blog/index` to see updates from the Community. These will also be sent to the :doc:`/newsletter`.
 
 Write to Us
 ~~~~~~~~~~~

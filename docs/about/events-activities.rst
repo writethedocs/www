@@ -1,12 +1,18 @@
 Events and Activities
 =====================
 
+.. toctree::
+   :hidden:
+
+   /conf/index
+   /meetups/index
+
 Conferences
 ~~~~~~~~~~~
 
 Our conferences create a time and a place for the global community of documentarians to share information, discuss ideas, and work together to improve the art and science of documentation.
 
-Check out the :doc:`/conf/index` page for upcoming conferences around the world.
+.. include:: /include/conf/current.rst
 
 Meetups
 ~~~~~~~
