@@ -21,6 +21,8 @@ Each ticket includes:
 
 Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
 
+* `Buy Corporate Ticket <https://ti.to/writethedocs/write-the-docs-portland-2018/with/wsueeqqxqj4>`__
+
 .. class:: ticket
 
 **Independent Tickets** *$250*
@@ -28,12 +30,16 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 
 Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with less than 10 employees.
 
+* `Buy Independent Ticket <https://ti.to/writethedocs/write-the-docs-portland-2018/with/35geyrs9lhy>`__
+
 .. class:: ticket
 
 **Student or Unemployed** *$150*
 --------------------------------
 
 Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
+
+* `Buy Student or Unemployed Ticket <https://ti.to/writethedocs/write-the-docs-portland-2018/with/9fbv2axnyuk>`__
 
 .. class:: ticket
 
