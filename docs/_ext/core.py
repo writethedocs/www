@@ -6,6 +6,9 @@ import glob
 
 import CommonMark
 
+from pathlib import PurePath
+
+
 
 try:
     # Python 2.6-2.7
@@ -53,16 +56,21 @@ def rstjinja(app, docname, source):
     if getattr(app.builder, 'implementation', None) or app.builder.format != 'html':
         return
 
-    if docname.startswith('conf/portland/2018'):
-        configs=load_yaml('_data/config-portland-2018.yaml')
+    """
+    Only load yaml config for 2018 and onwards
+    """
+    p = PurePath(docname)
+    if docname.startswith(('conf/portland/', 'conf/prague', 'conf/australia')) and p.parts[2] >= 2018:
 
-        MOAR = dict( app.config.html_context, **configs)
+        yaml_config=load_yaml('_data/config-'+p.parts[1]+'-'+p.parts[2]+'.yaml')
+
+        data_and_context = dict( app.config.html_context, **yaml_config)
 
         src = source[0]
-        rendered = app.builder.templates.render_string(src,MOAR)
+        rendered = app.builder.templates.render_string(src,data_and_context)
         source[0] = rendered
 
-    elif docname.startswith(('conf/', 'guide/', 'videos/by-year', 'videos/by-series')):
+    elif docname.startswith(('guide/', 'videos/by-year', 'videos/by-series')):
         src = source[0]
         rendered = app.builder.templates.render_string(src, app.config.html_context)
         source[0] = rendered
