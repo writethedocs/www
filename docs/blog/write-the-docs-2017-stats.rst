@@ -10,6 +10,8 @@ and the community is growing into a truly global community.
 This post covers a few stats and tidbits of information that we feel mark our progress,
 and we'll also have a companion post that gives a bit more commentary!
 
+.. note:: You can also read our post from :doc:`2016 <blog/write-the-docs-2017-year-in-review>`
+
 Conferences
 ===========
 
