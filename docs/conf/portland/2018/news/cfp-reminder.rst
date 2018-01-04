@@ -28,6 +28,8 @@ Get your ticket for the conference
 
 If you're excited too, it might interest you to know that `ticket sales are now live <http://www.writethedocs.org/conf/portland/2018/>`_! For the last several years the conference has sold out, so it doesn't hurt to buy early.
 
+We'd like to thank Google for coming on board as our first big sponsor for the conference. If your company would be interested in sponsoring, drop us a line at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org>`_
+
 One small change to make note of – we're switching up conference swag this year! Instead of our traditional t-shirts, your ticket will include a fresh new rendition of branded WTD swag. Stay tuned for more details!
 
 Looking forward to seeing y'all in Portland!
