@@ -35,10 +35,14 @@ Slack Network
 
 * 3,000 (was 1,200 members in 2016)
 
+Slack has been quite active this past year. We've had an amazing amount of good conversations within the global community here!
+
 Newsletter
 ==========
 
 * 3,406 subscribers (was 2,485 in 2016)
+
+Our :doc:`newsletter </newsletter>` continues to keep people informed each month!
 
 Meetups
 =======
