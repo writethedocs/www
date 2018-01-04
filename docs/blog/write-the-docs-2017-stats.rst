@@ -59,12 +59,12 @@ The podcast has been doing consistent work again this year!
 Website
 =======
 
-* 450,000 page views
-* 225,000 sessions
+* 450,000 page views (was 320,000 in 2016)
+* 225,000 sessions (was 180,000 in 2016)
 * Guide: 210,000 views
 * Conference Sites: 175,000 views
 
-This is a new stat for this year.
+This is a new stat for this year, but we have historical data in Google Analytics to compare against.
 
 Thanks
 ======
