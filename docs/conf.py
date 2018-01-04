@@ -63,8 +63,11 @@ primary_domain = None
 html_theme = 'alabaster'
 html_theme_options = {
     'logo': 'sticker-wtd-colors.png',
-    'github_button': False,
     'sidebar_includehidden': False,
+    'github_user': 'writethedocs',
+    'github_repo': 'www',
+    'github_banner': True,
+    'github_button': False,
 }
 
 html_favicon = '_static/favicon/favicon-96x96.png'

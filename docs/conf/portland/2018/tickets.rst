@@ -27,7 +27,7 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 
 {% if flagticketsonsale %}
 
-`Buy ticket <{{tickets.corporate.url}}>`__
+* `Buy Corporate ticket <{{tickets.corporate.url}}>`__
 
 {% endif %}
 
@@ -40,7 +40,7 @@ Purchase this ticket if you are paying for yourself, or if you work at a non-pro
 
 {% if flagticketsonsale %}
 
-`Buy ticket <{{tickets.independent.url}}>`__
+* `Buy Independent ticket <{{tickets.independent.url}}>`__
 
 {% endif %}
 
@@ -53,13 +53,13 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 
 {% if flagticketsonsale %}
 
-`Buy ticket <{{tickets.student.url}}>`__
+* `Buy Student or Unemployed ticket <{{tickets.student.url}}>`__
 
 {% endif %}
 
 .. class:: ticket
 
 **None of the above**
--------------------------------
+---------------------
 
 If you can't afford these prices and still wish to attend, please email us at portland@writethedocs.org. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance.

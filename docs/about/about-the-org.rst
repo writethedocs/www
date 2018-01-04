@@ -1,6 +1,14 @@
 About Our Organization
 ======================
 
+.. toctree::
+   :hidden:
+
+   /about-us
+   /team
+   /origin-story
+   /documentarians
+
 Guiding Principles and Governance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
