@@ -14,11 +14,11 @@ Stepping across the threshold into 2018, the Portland Write the Docs conference 
 Submit your talk by Wednesday
 ------------------------------------------------------------
 
-With the deadline for submissions coming up on **Wednesday, January 10th at midnight PST**, there's just a few days left to propose a talk for Write the Docs Portland!
+With the deadline for submissions coming up on **Wednesday, January 10th at midnight PST**, there's just a few days left to `propose a talk <http://www.writethedocs.org/conf/portland/2018/cfp/#submit-your-proposal>`_ for Write the Docs Portland!
 
 If you're interested or already working on pitching a talk, make sure you review the full `call for proposals <http://www.writethedocs.org/conf/portland/2018/cfp/>`_. And if you've already got an idea, but you’re having a hard time getting your proposal to come together, you can always ask for feedback on the `WTD Slack <http://www.writethedocs.org/slack/>`_. The community is there to help!
 
-As always, we're eagerly looking forward to your submissions! We’ll be reviewing all the talk proposals later this month, and announcing the full conference schedule in February.
+As always, we're eagerly looking forward to `your submissions <http://www.writethedocs.org/conf/portland/2018/cfp/#submit-your-proposal>`_! We’ll be reviewing all the talk proposals later this month, and announcing the full conference schedule in February.
 
 
 Get your ticket for the conference
