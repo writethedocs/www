@@ -4,8 +4,8 @@
    :tags: portland-2018, website, cfp, tickets
 
 
-Write the Docs Portland: CFP Reminder & Ticket Sales Open
-#########################################################
+CFP Reminder & Ticket Sales Open
+################################
 
 Happy New Year, fellow documentarians!
 
