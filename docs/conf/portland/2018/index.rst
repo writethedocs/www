@@ -12,7 +12,7 @@
       <a href="/conf/portland/2018/news/cfp-reminder/">
         <section class="news">
           <div class="date">
-            <p class="month">January</p>
+            <p class="month" style="width: 120px;">January</p>
             <p class="day">4</p>
             <p class="year">2018</p>
           </div>
@@ -27,7 +27,7 @@
       <a href="/conf/portland/2018/news/welcome/">
         <section class="news">
           <div class="date">
-            <p class="month">November</p>
+            <p class="month" style="width: 120px;">November</p>
             <p class="day">15</p>
             <p class="year">2017</p>
           </div>
