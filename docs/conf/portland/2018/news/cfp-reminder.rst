@@ -9,7 +9,7 @@ Write the Docs Portland: CFP Reminder & Ticket Sales Open
 
 Happy New Year, fellow documentarians!
 
-Stepping across the threshold into 2018, the Portland Write the Docs conference is suddenly feeling *much* closer! Our `call for proposals closes next Wednesday <http://www.writethedocs.org/conf/portland/2018/cfp/>`_, and `tickets for the conference are officially on sale <http://www.writethedocs.org/conf/portland/2018/tickets/>`_. Read on for more details on both!
+Now that we've crossed the threshold into 2018, the Portland Write the Docs conference is suddenly feeling *much* closer! Our `call for proposals closes next Wednesday <http://www.writethedocs.org/conf/portland/2018/cfp/>`_, and `tickets for the conference are officially on sale <http://www.writethedocs.org/conf/portland/2018/tickets/>`_. Read on for more details on both!
 
 Submit your talk by Wednesday
 ------------------------------------------------------------
