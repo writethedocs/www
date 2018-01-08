@@ -36,7 +36,7 @@ Slack Network
 
 * 3,000 (up from 1,200 members in 2016)
 
-Slack has been quite active this past year. We've had an amazing amount of good conversations within the global community here!
+:doc:`Slack </slack>` has been quite active this past year. We've had an amazing amount of good conversations within the global community here!
 
 Newsletter
 ==========
@@ -59,7 +59,7 @@ Podcast
 
 * 12 episodes (up from 2 episodes in 2016)
 
-The podcast has been doing work again this year!
+The `podcast <http://podcast.writethedocs.org/>`_ has been doing work again this year!
 
 Website
 =======
