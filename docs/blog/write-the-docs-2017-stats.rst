@@ -10,7 +10,7 @@ and the community is growing into a truly global community.
 This post contains stats that we feel mark our progress at each year's end,
 so that we can look back and see how we've changed as a community.
 
-.. note:: You can also read our post from :doc:`2016 <blog/write-the-docs-2017-year-in-review>`
+.. note:: You can also read our post from `2016 <http://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/>`_.
 
 Conferences
 ===========
