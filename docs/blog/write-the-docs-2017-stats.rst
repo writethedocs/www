@@ -1,22 +1,22 @@
-.. post:: Jan 5, 2017
+.. post:: Jan 8, 2018
    :tags: stats, year in review
    :author: Eric Holscher
 
 Write the Docs 2017 Stats
 =========================
 
-2016 was a wonderful year for Write the Docs, it marks our 5th year of existence,
+2017 was a wonderful year for Write the Docs, it marks our 5th year of existence,
 and the community is growing into a truly global community.
-This post covers a few stats and tidbits of information that we feel mark our progress,
-and we'll also have a companion post that gives a bit more commentary!
+This post contains stats that we feel mark our progress at each year's end,
+so that we can look back and see how we've changed as a community.
 
 .. note:: You can also read our post from :doc:`2016 <blog/write-the-docs-2017-year-in-review>`
 
 Conferences
 ===========
 
-* 400 attendees in Portland (Same in 2016)
-* 250 attendees in Prague (Same in 2016)
+* 400 attendees in Portland (same as in 2016)
+* 250 attendees in Prague (same as in 2016)
 * 50 attendees in Australia (New)
 
 The :doc:`conferences </conf/index>` continue to be the yearly physical manifestation of our community.
@@ -24,51 +24,51 @@ They are the time each year where hundreds of wonderful folks gather and have a 
 while learning so much from each other.
 Proving each year that work can be both fun and informative is one of my greatest pleasures.
 
-We continue to publish :doc:`videos </videos>` freely to the public.
-This is done so that the information can be most widely shared,
-and help people who may not be able to attend the events.
-Write the Docs always strives to be as inclusive as possible,
-and continuing to publish these videos is part of our commitment to openness.
+We continue to publish :doc:`videos </videos>` freely to the public. 
+Doing this is more inclusive to people who cannot attend the conferences, promotes learning, and is part of our :doc:`commitment to openness </about/about-the-org>`.
 
 Slack Network
 =============
 
-* 3,000 (was 1,200 members in 2016)
+* 3,000 (up from 1,200 members in 2016)
 
 Slack has been quite active this past year. We've had an amazing amount of good conversations within the global community here!
 
 Newsletter
 ==========
 
-* 3,406 subscribers (was 2,485 in 2016)
+* 3,406 subscribers (up from 2,485 in 2016)
 
-Our :doc:`newsletter </newsletter>` continues to keep people informed each month!
+Our :doc:`newsletter </newsletter>` contains curated distillations from the slack conversations that you have every day.
 
 Meetups
 =======
 
 * 3108 Members
-* 30 Meetups (was 18 Meetups in 2016)
-* 4 Continents (same in 2016)
+* 30 Meetups (up from 18 Meetups in 2016)
+* 4 Continents (same as in 2016)
 
 Our :doc:`meetup community </meetups/index>` has continued to grow across the globe.
 
 Podcast
 =======
 
-* 12 episodes (was 2 episodes in 2016)
+* 12 episodes (up from 2 episodes in 2016)
 
-The podcast has been doing consistent work again this year!
+The podcast has been doing work again this year!
 
 Website
 =======
 
-* 450,000 page views (was 320,000 in 2016)
-* 225,000 sessions (was 180,000 in 2016)
+* 450,000 page views (up from 320,000 in 2016)
+* 225,000 sessions (up from 180,000 in 2016)
 * Guide: 210,000 views
-* Conference Sites: 175,000 views
+* Conference Site: 175,000 views
+
+The two primary parts of the site that get users are our :doc:`/guide/` and :doc:`various conference sites </conf/index>`.
 
 This is a new stat for this year, but we have historical data in Google Analytics to compare against.
+This allows us to give the comparison from last year.
 
 Thanks
 ======
