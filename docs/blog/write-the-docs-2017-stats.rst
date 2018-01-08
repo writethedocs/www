@@ -65,7 +65,7 @@ Website
 * Guide: 210,000 views
 * Conference Site: 175,000 views
 
-The two primary parts of the site that get users are our :doc:`/guide/` and :doc:`various conference sites </conf/index>`.
+The two primary parts of the site that get users are our :doc:`/guide/index` and :doc:`various conference sites </conf/index>`.
 
 This is a new stat for this year, but we have historical data in Google Analytics to compare against.
 This allows us to give the comparison from last year.
