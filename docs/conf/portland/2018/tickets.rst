@@ -23,7 +23,7 @@ Community Sponsorship Tickets *$750*
 Support the growing community! Get a logo on our website, as well as a ticket.
 This option is great for startups, open-source projects, and small non-profit organizations.
 Limit 1 per organization.
-If you are a larger company or organization, please contact us at sponsorships@writethedocs.org to arrange for sponsorship.
+If you are a larger company or organization, please contact us at sponsorship@writethedocs.org to arrange for sponsorship.
 
 * `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-portland-2018>`__
 
