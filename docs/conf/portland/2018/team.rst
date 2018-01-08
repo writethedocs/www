@@ -45,7 +45,7 @@ Primary Roles
 
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
 
-Staffed Roled
+Filled Roles
 ~~~~~~~~~~~~~
 
 * **Conference chair** - Eric Holscher
