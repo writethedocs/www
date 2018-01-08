@@ -4,7 +4,7 @@
 Tickets
 =======
 
-**Tickets on sale now!** Follow the links below for each ticket type. 
+**Tickets on sale now!**
 
 Each ticket includes:
 
@@ -14,6 +14,19 @@ Each ticket includes:
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue.
 
+
+.. class:: ticket
+
+Community Sponsorship Tickets *$750*
+------------------------------------
+
+Support the growing community! Get a logo on our website, as well as a ticket.
+This option is great for startups, open-source projects, and small non-profit organizations.
+Limit 1 per organization.
+If you are a larger company or organization, please contact us at sponsorships@writethedocs.org to arrange for sponsorship.
+
+* `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-portland-2018>`__
+
 .. class:: ticket
 
 **Corporate Tickets** *$450*
@@ -21,7 +34,7 @@ Each ticket includes:
 
 Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
 
-* `Buy Corporate Ticket <https://ti.to/writethedocs/write-the-docs-portland-2018/with/wsueeqqxqj4>`__
+* `Buy Corporate Ticket <https://ti.to/writethedocs/write-the-docs-portland-2018>`__
 
 .. class:: ticket
 
@@ -30,7 +43,7 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 
 Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with less than 10 employees.
 
-* `Buy Independent Ticket <https://ti.to/writethedocs/write-the-docs-portland-2018/with/35geyrs9lhy>`__
+* `Buy Independent Ticket <https://ti.to/writethedocs/write-the-docs-portland-2018>`__
 
 .. class:: ticket
 
@@ -39,7 +52,7 @@ Purchase this ticket if you are paying for yourself, or if you work at a non-pro
 
 Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
 
-* `Buy Student or Unemployed Ticket <https://ti.to/writethedocs/write-the-docs-portland-2018/with/9fbv2axnyuk>`__
+* `Buy Student or Unemployed Ticket <https://ti.to/writethedocs/write-the-docs-portland-2018>`__
 
 .. class:: ticket
 
