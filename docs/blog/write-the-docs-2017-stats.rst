@@ -44,6 +44,7 @@ Our :doc:`newsletter </newsletter>` contains curated distillations from the slac
 Meetups
 =======
 
+* 5589 Members (up from 3109 in 2016)
 * 30 Meetups (up from 18 Meetups in 2016)
 * 4 Continents (same as in 2016)
 
