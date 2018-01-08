@@ -5,10 +5,14 @@
 Write the Docs 2017 Stats
 =========================
 
-2017 was a wonderful year for Write the Docs, it marks our 5th year of existence,
-and the community is growing into a truly global community.
-This post contains stats that we feel mark our progress at each year's end,
+2017 was a wonderful year for Write the Docs, it marks our 5th year of existence.
+The community is growing into a truly global community,
+with events around the world.
+
+This post contains stats that mark our progress,
 so that we can look back and see how we've changed as a community.
+We continue to grow and expand,
+and we're glad to have you along with us!
 
 .. note:: You can also read our post from `2016 <http://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/>`_.
 
