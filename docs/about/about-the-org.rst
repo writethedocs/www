@@ -1,6 +1,15 @@
 About Our Organization
 ======================
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+
+   /about-us
+   /team
+   /origin-story
+   /documentarians
+
 Guiding Principles and Governance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -17,13 +26,3 @@ Origin Story
 ~~~~~~~~~~~~
 
 If you're new to the community and have interest in our history, check out the :doc:`/origin-story`. You can also read about how we came to call ourselves :doc:`/documentarians`.
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-
-   /about-us
-   /team
-   /origin-story
-   /documentarians
-
