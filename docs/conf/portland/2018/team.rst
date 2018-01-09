@@ -40,6 +40,16 @@ Rose Williams
 
 .. include:: /include/bios/rose.rst
 
+Christy Lutz
+~~~~~~~~~~~~~
+
+.. include:: /include/bios/christy.rst
+
+Mo Nishiyama
+~~~~~~~~~~~~~
+
+.. include:: /include/bios/mo.rst
+
 Primary Roles
 -------------
 
@@ -59,6 +69,7 @@ Filled Roles
 * **Sponsorship lead** - Eric Holscher
 * **Welcome Wagon coordinators** - Christy Lutz
 * **Hike coordinator** - Eric Holscher
+* **Explore Portland coordinator** - Mo Nishiyama
 
 Organizers Needed
 ~~~~~~~~~~~~~~~~~
@@ -66,6 +77,5 @@ Organizers Needed
 * **Unconference coordinator** - TBA
 * **Workshop coordinator** - TBA
 * **Job Fair coordinator** - TBA
-* **Explore Portland coordinator** - TBA
 * **Social media chair** - TBA
 * **Emcee** - TBA
