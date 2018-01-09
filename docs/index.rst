@@ -30,7 +30,9 @@ Get more information on how to meet the community, learn new things, get involve
 
 .. toctree::
    :glob:
-   :maxdepth: 2
+   :maxdepth: 3
+   :titlesonly:
+   :includehidden:
 
    about/index
 

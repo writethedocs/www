@@ -2,16 +2,6 @@
 Learning Resources
 ==================
 
-.. toctree::
-   :hidden:
-
-   /newsletter
-   /videos
-   /podcast
-   /organizer-guide/index
-   /guide/index
-   
-
 Newsletter
 ~~~~~~~~~~
 
@@ -40,3 +30,16 @@ Organizer Guide
 A set of resources for folks who want to organize a Write the Docs Meetup, Conference, or Event.
 
 You can check it out :doc:`/organizer-guide/index` here.
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+
+   /newsletter
+   /videos
+   /podcast
+   /organizer-guide/index
+   /guide/index
+   
+

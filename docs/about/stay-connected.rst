@@ -1,12 +1,6 @@
 Stay Connected
 ==============
 
-.. toctree::
-   :hidden:
-
-   /newsletter
-   /slack
-   /blog/index
 
 Mailing List
 ~~~~~~~~~~~~
@@ -51,3 +45,11 @@ Write to Us
 
 Have any questions, concerns, or comments about our work?
 Feel free to reach out at support@writethedocs.org.
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+
+   /newsletter
+   /slack
+   /blog/index
