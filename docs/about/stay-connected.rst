@@ -32,16 +32,6 @@ Twitter
 
 We're pretty active on `Twitter <https://twitter.com/hashtag/writethedocs?f=tweets&vertical=default&lang=en>`__ as well, mostly on **#writethedocs**.
 
-Forum
-~~~~~
-
-Check out our `Forum <http://forum.writethedocs.org/>`__ to keep in
-touch with your fellow documentarians.
-
-The forum is the place to start discussions that we should keep around for a while. If a Slack conversation
-starts to get a lot of attention and seems like something of permanent interest, we suggest that you move it
-over to the forum.
-
 Blog
 ~~~~~
 
