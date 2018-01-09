@@ -23,10 +23,9 @@ Conferences
 * 250 attendees in Prague (same as in 2016)
 * 50 attendees in Australia (New)
 
-The :doc:`conferences </conf/index>` continue to be the yearly physical manifestation of our community.
-They are the time each year where hundreds of wonderful folks gather and have a great time,
-while learning so much from each other.
-Proving each year that work can be both fun and informative is one of my greatest pleasures.
+We have sold out both the Portland & Prague :doc:`conferences </conf/index>` the last couple years.
+We've intentionally kept them smaller to maintain the intimate feel of the events,
+but might grow them slowly over time in order to accommodate more people.
 
 We continue to publish :doc:`videos </videos>` freely to the public. 
 Doing this is more inclusive to people who cannot attend the conferences, promotes learning, and is part of our :doc:`commitment to openness </about/about-the-org>`.
