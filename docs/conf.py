@@ -38,7 +38,7 @@ blog_locations = {
     'PDX': ('Portland, Oregon', 'http://www.portlandhikersfieldguide.org/'),
 }
 blog_default_location = 'PDX'
-fontawesome_link_cdn = 'http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
+fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 
 templates_path = ['_templates']
 templates_path.append(ablog.get_html_templates_path())
