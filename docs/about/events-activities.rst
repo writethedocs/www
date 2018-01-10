@@ -2,6 +2,7 @@ Events and Activities
 =====================
 
 .. toctree::
+   :maxdepth: 1
    :hidden:
 
    /conf/index

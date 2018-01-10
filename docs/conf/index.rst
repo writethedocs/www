@@ -14,15 +14,16 @@ improve the art and science of documentation.
 
 .. toctree::
    :hidden:
+   :maxdepth: 1
 
-   portland/2018/index
-   na/2017/index
-   eu/2017/index
-   au/2017/index
-   na/2016/index
-   eu/2015/index
-   na/2015/index
-   eu/2015/index
+   Portland 2018 <portland/2018/index>
+   Portland 2017 <na/2017/index>
+   Prague 2017 <eu/2017/index>
+   Australia 2017 <au/2017/index>
+   Portland 2016 <na/2016/index>
+   Prague 2016 <eu/2015/index>
+   Portland 2015 <na/2015/index>
+   Prague 2015 <eu/2015/index>
 
 
 .. include:: /include/conf/current.rst
