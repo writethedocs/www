@@ -1,4 +1,5 @@
-:template: 2018/speakers.html
+:template: 2018/na/generic.html
+:banner: _static/2018/assets/headers/speakers.jpg
 
 Conference Speakers
 ===================
@@ -50,4 +51,4 @@ Conference Speakers
 ..
     .. datatemplate::
        :source: /_data/2018.na.speakers.yaml
-       :template: 2018/speakers.rst
+       :template: 2018/na/speakers.rst

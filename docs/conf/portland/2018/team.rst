@@ -1,14 +1,16 @@
-:template: 2018/team.html
+:template: 2018/na/generic.html
+:banner: _static/2018/assets/headers/team.png
 
-Staff
-===========
+Meet the Team
+=============
 
 Our conference is run by a dedicated team consisting mostly of volunteers.
-This page outlines the folks who are helping get things done,
-and what their roles are.
+This page outlines the folks who are helping get things done, and what their roles are.
 
 Folks
------Eric Holscher
+-----
+
+Eric Holscher
 ~~~~~~~~~~~~~
 
 .. include:: /include/bios/eric.rst
@@ -38,23 +40,42 @@ Rose Williams
 
 .. include:: /include/bios/rose.rst
 
+Christy Lutz
+~~~~~~~~~~~~~
+
+.. include:: /include/bios/christy.rst
+
+Mo Nishiyama
+~~~~~~~~~~~~~
+
+.. include:: /include/bios/mo.rst
+
 Primary Roles
 -------------
 
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
 
+Filled Roles
+~~~~~~~~~~~~~
+
 * **Conference chair** - Eric Holscher
 * **Swag coordinator** - Mikey Ariel
 * **Speaker wrangler** - Kelly O'Brien
 * **Infrastructure chair** - Samuel Wright
-* **Writing Day coordinator** - Samuel Wright
-* **Unconference coordinator** - Rose Williams
+* **Writing Day coordinator** - Shaun McCance
 * **Lightning Talk coordinator** - Rose Williams
 * **Communication chair** - Mikey Ariel
 * **Volunteer coordinator** - Becky Yoose
 * **Sponsorship lead** - Eric Holscher
-* **Explore Portland coordinator** - None
-* **Welcome Wagon coordinators** - Christy Lutz & Leona Campbell
-* **Social media chair** - Mikey Ariel
+* **Welcome Wagon coordinators** - Christy Lutz
 * **Hike coordinator** - Eric Holscher
-* **Emcee** - Nik Blanchet
+* **Explore Portland coordinator** - Mo Nishiyama
+
+Organizers Needed
+~~~~~~~~~~~~~~~~~
+
+* **Unconference coordinator** - TBA
+* **Workshop coordinator** - TBA
+* **Job Fair coordinator** - TBA
+* **Social media chair** - TBA
+* **Emcee** - TBA

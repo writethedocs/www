@@ -9,7 +9,7 @@ range of events so that people can come together, collaborate, and learn
 from each other in different ways.
 
 Morning - Writing (Half) Day
-----------------------------
+------------------------------
 
 We'll be creating and editing content, so bring along your laptop and any other
 tools you need to write and to connect to the internet via WiFi.
@@ -43,7 +43,7 @@ Hear from lots of interesting folks about all things documentation.
 .. _Markdown: https://guides.github.com/features/mastering-markdown/
 
 Evening - Drinks and Dinner
------------------
+------------------------------
 
 Location: `The Boatbuilders Yard, 23 South Wharf Promenade, South Wharf <https://goo.gl/gwkqg1>`_
 

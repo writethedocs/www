@@ -59,16 +59,16 @@ body .uk-button.uk-button-ghost {
   padding-bottom: 0px;
   padding-top: 0px; }
 
-body .header-logo, body .header-logo a:hover, body .header-logo a:visited, body .header-logo a:active {
+body .header-logo, body .header-logo a:hover, body .header-logo a:visited, body .header-logo a:active, body .header-logo a {
   font-family: bree serif;
   text-transform: uppercase;
   text-align: right;
   text-decoration: none;
   font-size: 24px;
   line-height: 1;
-  color: #000;
+  color: #000 !important;
   text-decoration: none; }
-  body .header-logo em, body .header-logo a:hover em, body .header-logo a:visited em, body .header-logo a:active em {
+  body .header-logo em, body .header-logo a:hover em, body .header-logo a:visited em, body .header-logo a:active em, body .header-logo a em {
     color: #3DD94A;
     font-style: normal;
     font-size: 16px;
@@ -121,17 +121,28 @@ body .page-content {
     text-align: left; }
   body .page-content .ticket {
     padding: 24px 36px;
-    background-color: #E3D6C5;
-    border: 1px solid #C4B098;
+    background-color: #EFEFED;
+    border: 2px solid #AEBFB0;
     margin-top: 36px;
     border-radius: 3px;
     margin-top: 20px; }
+    body .page-content .ticket a.headerlink, body .page-content .ticket a.headerlink:visited {
+      padding-left: 10px;
+      color: #00D25D; }
     body .page-content .ticket h2 {
       font-family: "Bree Serif", serif;
       margin-bottom: 10px;
-      margin-top: 10px; }
+      margin-top: 10px;
+      color: #333333; }
+      body .page-content .ticket h2 strong {
+        font-weight: regular;
+        color: #333333; }
+      body .page-content .ticket h2 em {
+        font-style: normal;
+        color: #333333; }
     body .page-content .ticket h2, body .page-content .ticket p {
-      text-align: left; }
+      text-align: left;
+      color: #333333; }
     body .page-content .ticket p {
       font-weight: 400; }
   body .page-content .schedule {
@@ -206,7 +217,6 @@ body .page-content {
 
 .hero {
   background-color: #3DD94A;
-  background-image: url("../assets/images/backgrounds/portland-green.jpg");
   background-size: cover; }
   .hero nav {
     border-bottom: 1px solid #FFF; }
@@ -234,7 +244,7 @@ body .page-content {
     display: inline-block;
     text-transform: uppercase; }
     .hero ul li:first-child ~ li {
-      padding-left: 24px; }
+      padding-left: 4px; }
     .hero ul li a {
       color: #000; }
   .hero .uk-navbar-toggle {
@@ -462,9 +472,7 @@ body .uk-offcanvas-slide a.uk-button-ghost {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 20px; }
-  .sponsors .uk-container a {
-    border: none !important; }
-  .sponsors .uk-container .silver-sponsors, .sponsors .uk-container .bronze-sponsors {
+  .sponsors .uk-container .silver-sponsors, .sponsors .uk-container .bronze-sponsors, .sponsors .uk-container .sponsor {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -472,7 +480,9 @@ body .uk-offcanvas-slide a.uk-button-ghost {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column; }
-    .sponsors .uk-container .silver-sponsors > *, .sponsors .uk-container .bronze-sponsors > * {
+    .sponsors .uk-container .silver-sponsors a, .sponsors .uk-container .bronze-sponsors a, .sponsors .uk-container .sponsor a {
+      border: none !important; }
+    .sponsors .uk-container .silver-sponsors > *, .sponsors .uk-container .bronze-sponsors > *, .sponsors .uk-container .sponsor > * {
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex;
@@ -633,6 +643,27 @@ footer {
     text-decoration: none; }
 
 @media (min-width: 640px) {
+  #tickets .ticket h2 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    border-bottom: 2px #61604B solid;
+    padding-bottom: 8px;
+    font-size: 24px; }
+    #tickets .ticket h2 .em {
+      text-align: left;
+      font-style: normal; }
+    #tickets .ticket h2 a.headerlink {
+      display: none; } }
+
+@media (min-width: 640px) {
   .uk-container, .schedule-overview .uk-container {
     max-width: 640px; }
   body div.header {
@@ -641,15 +672,17 @@ footer {
     margin-bottom: 36px; }
     body div.header nav .uk-nav li {
       display: inline-block;
-      padding-left: 30px; }
+      padding-left: 0; }
+      body div.header nav .uk-nav li ul.uk-navbar-nav li a {
+        font-size: 16px; }
       body div.header nav .uk-nav li > a {
         color: #000;
         text-transform: uppercase; }
       body div.header nav .uk-nav li > a.uk-button-ghost {
         height: 38px;
-        color: #FFF;
+        color: #3DD94A;
         width: 116px;
-        background-color: #3DD94A;
+        border: 2px solid #3DD94A;
         border-radius: 6px;
         display: -webkit-box;
         display: -ms-flexbox;
@@ -660,34 +693,23 @@ footer {
         -webkit-box-align: center;
             -ms-flex-align: center;
                 align-items: center; }
+        body div.header nav .uk-nav li > a.uk-button-ghost:hover {
+          color: #FFF;
+          background-color: #3DD94A; }
+      body div.header nav .uk-nav li .uk-nav.uk-navbar-dropdown-nav li {
+        display: block; }
   body .page-banner {
     height: 320px; }
     body .page-banner .uk-container {
       max-width: 560px !important; }
       body .page-banner .uk-container h1 {
         top: 208px;
-        font-size: 36px; }
+        font-size: 52px; }
   body .page-content {
     padding-top: 54px;
     padding-bottom: 44px; }
     body .page-content .uk-container {
       max-width: 560px !important; }
-    body .page-content .ticket .ticket-header {
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-box-pack: justify;
-          -ms-flex-pack: justify;
-              justify-content: space-between;
-      -webkit-box-orient: horizontal;
-      -webkit-box-direction: normal;
-          -ms-flex-direction: row;
-              flex-direction: row;
-      border-bottom: 1px solid; }
-      body .page-content .ticket .ticket-header .ticket-price {
-        text-align: left; }
-      body .page-content .ticket .ticket-header h2 {
-        width: auto; }
   .hero .hero-content {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -745,6 +767,8 @@ footer {
             justify-content: flex-start;
     max-width: 640px; }
     .announcement .uk-container p {
+      padding-top: 8px;
+      font-size: 16px;
       margin-bottom: 0px;
       margin-right: 88px;
       text-align: left; }
@@ -801,20 +825,23 @@ footer {
         font-size: 20px; }
     .news-block .uk-container .news .content {
       padding: 28px; }
-  .sponsors .uk-container .silver-sponsors, .sponsors .uk-container .bronze-sponsors {
+  .sponsors .uk-container .silver-sponsors, .sponsors .uk-container .bronze-sponsors, .sponsors .uk-container .sponsor {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
         -ms-flex-direction: row;
             flex-direction: row;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap; }
-    .sponsors .uk-container .silver-sponsors > *, .sponsors .uk-container .bronze-sponsors > * {
+    .sponsors .uk-container .silver-sponsors > *, .sponsors .uk-container .bronze-sponsors > *, .sponsors .uk-container .sponsor > * {
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex;
       -webkit-box-pack: center;
           -ms-flex-pack: center;
               justify-content: center; }
+  .sponsors .uk-container .sponsor div img {
+    width: 80%;
+    height: auto; }
   .footer-head .uk-container {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -905,10 +932,10 @@ footer {
     .hero nav {
       max-width: 708px; }
     .hero .hero-logo, .hero .hero-logo:hover, .hero .hero-logo:visited, .hero .hero-logo:active {
-      font-size: 64px;
-      line-height: 56px; }
+      font-size: 64px !important;
+      line-height: 56px !important; }
       .hero .hero-logo em, .hero .hero-logo:hover em, .hero .hero-logo:visited em, .hero .hero-logo:active em {
-        font-size: 40px; }
+        font-size: 40px !important; }
     .hero .hero-text p:first-child {
       margin-bottom: 40px; }
     .hero .hero-text p:not(:first-child) {
@@ -967,6 +994,9 @@ body .uk-button-default, body .uk-button-secondary:hover {
           flex-direction: column;
   margin-left: auto;
   margin-right: auto; }
+
+body .uk-navbar-dropdown-nav > li > a:focus, body .uk-navbar-dropdown-nav > li > a:hover {
+  color: #3DD94A !important; }
 
 /* ========================================================================
    Component: Base

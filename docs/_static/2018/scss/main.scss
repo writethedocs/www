@@ -110,14 +110,14 @@ body .uk-button.uk-button-ghost {
 	padding-top: 0px;
 }
 
-body .header-logo, body .header-logo a:hover, body .header-logo a:visited, body .header-logo a:active {
+body .header-logo, body .header-logo a:hover, body .header-logo a:visited, body .header-logo a:active, body .header-logo a {
 	font-family: bree serif;
 	text-transform: uppercase;
 	text-align: right;
 	text-decoration: none;
 	font-size: 24px;
 	line-height: 1;
-	color: $font-black;
+	color: $font-black !important;
 	text-decoration: none;
 
 	em {
@@ -189,24 +189,43 @@ body .page-content {
 
 	.ticket {
 		padding: 24px 36px;
-		background-color: #E3D6C5;
-		border: 1px solid #C4B098;
+		background-color: #EFEFED;
+		border: 2px solid #AEBFB0;
 		margin-top: 36px;
 		border-radius: 3px;
 		margin-top: 20px;
+
+		a.headerlink, a.headerlink:visited {
+			padding-left: 10px;
+			color: #00D25D;
+		}
 
 		h2 {
 			font-family: $secondary-font-family;
 			margin-bottom: 10px;
 			margin-top: 10px;
+			color: #333333;
+
+			strong {
+				font-weight: regular;
+				color: #333333;
+			}
+
+			em {
+				font-style: normal;
+				color: #333333;
+			}
+
+			a.headerlink {}
 		 }
 
 		 h2, p {
-		 	text-align: left;
+			 text-align: left;
+			 color: #333333;
 		 }
 
 		 p {
-		 	font-weight: $semi-bold;
+			 font-weight: $semi-bold
 		 }
 	}
 
@@ -317,7 +336,6 @@ body .page-content {
 
 .hero {
 	background-color: $main-color;
-	background-image: url("../assets/images/backgrounds/portland-green.jpg");
 	background-size: cover;
 
 	nav {
@@ -335,7 +353,7 @@ body .page-content {
 		flex-direction: column;
 		justify-content: flex-start;
 
-		 li:first-child~li {
+		 li:first-child ~ li {
 			padding-left: 0px;
 		}
 	}
@@ -350,7 +368,7 @@ body .page-content {
 		text-transform: uppercase;
 
 		&:first-child ~ li {
-			padding-left: 24px;
+			padding-left: 4px;
 		}
 
 		a {
@@ -647,11 +665,11 @@ body .uk-offcanvas-slide a.uk-button-ghost {
 			padding-bottom: 20px;
 		}
 
-		a {
-			border: none !important;
-		}
+		.silver-sponsors, .bronze-sponsors, .sponsor {
+   	   		a {
+   				border: none !important;
+   			}
 
-		.silver-sponsors, .bronze-sponsors {
 			display: flex;
 			flex-direction: column;
 
@@ -834,6 +852,26 @@ footer {
 	}
 }
 
+
+@media  (min-width: 640px) {
+	#tickets .ticket h2 {
+		display: flex;
+		justify-content: space-between;
+		flex-direction: row;
+		border-bottom: 2px #61604B solid;
+		padding-bottom: 8px;
+		font-size: 24px;
+
+		.em {
+			text-align: left;
+			font-style: normal;
+		}
+		
+		a.headerlink {
+			display: none;
+		}
+	}
+}
 @media (min-width: 640px) {
 
 	.uk-container, .schedule-overview .uk-container {
@@ -845,9 +883,14 @@ footer {
 		margin-top: 40px;
 		margin-bottom: 36px;
 
+		
 		nav .uk-nav li {
 			display: inline-block;
-			padding-left: 30px;
+			padding-left: 0;
+
+			ul.uk-navbar-nav li a {
+				font-size: 16px;
+			}
 
 			& > a {
 				color: $font-black;
@@ -856,13 +899,22 @@ footer {
 
 			& > a.uk-button-ghost {
 				height: 38px;
-				color: $white;
+				color: $main-color;
 				width: 116px;
-				background-color: $main-color;
+				border: 2px solid $main-color;
 				border-radius: 6px;
 				display: flex;
 				justify-content: center;
 				align-items: center;
+
+				&:hover {
+					color: $white;
+					background-color: $main-color;
+				}
+			}
+
+			.uk-nav.uk-navbar-dropdown-nav li {
+				display: block;
 			}
 		}
 	}
@@ -874,7 +926,7 @@ footer {
 			max-width: 560px !important;
 			h1 {
 				top: 208px;
-				font-size: 36px;
+				font-size: 52px;
 			}
 		}
 	}
@@ -887,19 +939,6 @@ footer {
 			max-width: 560px !important;
 		}
 
-		.ticket .ticket-header {
-			display: flex;
-			justify-content: space-between;
-			flex-direction: row;
-			border-bottom: 1px solid;
-
-			.ticket-price {
-				text-align: left;
-			}
-			h2 {
-				width: auto;
-			}
-		}
 
 	}
 
@@ -969,6 +1008,8 @@ footer {
 		max-width: 640px;
 
 		p {
+			padding-top: 8px;
+			font-size: 16px;
 			margin-bottom: 0px;
 			margin-right: 88px;
 			text-align: left;
@@ -1051,15 +1092,19 @@ footer {
 	}
 
 	.sponsors .uk-container {
-		.silver-sponsors, .bronze-sponsors {
+		.silver-sponsors, .bronze-sponsors, .sponsor {
 			flex-direction: row;
 			flex-wrap: wrap;
 
 			&> * {
 				display: flex;
 				justify-content: center;
-			}
+			}		
+		}
 
+		.sponsor div img {
+			width: 80%;
+			height: auto;
 		}
 	}
 
@@ -1182,18 +1227,18 @@ footer {
 	}
 	.hero {
 		height: 500px;
-    background-position: bottom;
+        background-position: bottom;
 
 		nav {
 			max-width: 708px;
 		}
 
 		.hero-logo,  .hero-logo:hover, .hero-logo:visited, .hero-logo:active {
-			font-size: 64px;
-			line-height: 56px;
+			font-size: 64px !important;
+			line-height: 56px !important;
 
 			em {
-				font-size: 40px;
+				font-size: 40px !important;
 			}
 		}
 		.hero-text p:first-child {
@@ -1272,6 +1317,10 @@ body .uk-button-default, body .uk-button-secondary:hover {
 	flex-direction: column;
 	margin-left: auto;
     margin-right: auto;
+}
+
+body .uk-navbar-dropdown-nav>li>a:focus, body .uk-navbar-dropdown-nav>li>a:hover {
+	color: $main-color !important;
 }
 
 // 2. Import default variables and available mixins.

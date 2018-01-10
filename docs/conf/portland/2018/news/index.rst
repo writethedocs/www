@@ -1,4 +1,4 @@
-:template: 2018/news.html
+:template: 2018/na/generic.html
 
 News
 ====
@@ -6,15 +6,9 @@ News
 Updates from the team.
 More here as it happens!
 
-.. toctree::
-   
-   welcome
-
-..
-    .. postlist:: 3
-       :date: %A, %B %d, %Y
-       :format: {title} by {author} on {date}
-       :list-style: circle
-       :tags: portland-2018
-       :excerpts:
+.. postlist:: 3
+   :date: %A, %B %d, %Y
+   :format: {title} - {date}
+   :list-style: none
+   :tags: portland-2018
      

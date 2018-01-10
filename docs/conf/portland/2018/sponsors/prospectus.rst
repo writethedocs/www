@@ -1,5 +1,5 @@
-:template: 2018/generic.html
-:orphan:
+:template: 2018/na/generic.html
+:banner: _static/2018/assets/headers/group.png
 
 Write the Docs Portland 2018 Sponsorship
 ########################################
@@ -77,7 +77,7 @@ The following options are suggested sponsorship levels. We are happy to discuss
 adjustments and custom packages.
 
 These package prices apply to the Portland conference only. Look here for
-:doc:`prices </conf/prague/2018/sponsorship/prospectus/>` for the European
+:doc:`prices </conf/prague/2018/sponsors/prospectus/>` for the European
 conference. Ask us about discounted packages for sponsoring both conferences.
 
 First Draft
@@ -104,7 +104,7 @@ The **Second Draft** package is great for companies looking to hire or promote a
 - Medium logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- One featured job posting in our Newsletter (2,500 subscibers)
+- One featured job posting in our Newsletter (2,500 subscribers)
 
 The **Second Draft** package costs **$1,500**.
 
@@ -117,7 +117,7 @@ The **Publisher** package is great for sending a team and getting to know the co
 - Large logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 2 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Two featured job postings in our Newsletter (2,500 subscibers)
+- Two featured job postings in our Newsletter (2,500 subscribers)
 
 The **Publisher** package costs **$4,000**.
 
@@ -136,14 +136,14 @@ The **Patron** package highlights your company as a force in the industry and co
 - Full size logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 3 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Three featured job postings in our Newsletter (2,500 subscibers)
+- Three featured job postings in our Newsletter (2,500 subscribers)
 
 The **Patron** package costs **$8,000**.
 
 Keystone (Limit 1)
 ------------------
 
-The **Keystone** package is highlighted as a community partner and
+The **Keystone** package highlights you as our main community partner:
 
 - Fifteen (15) tickets_
 - Large booth at the event
@@ -152,7 +152,7 @@ The **Keystone** package is highlighted as a community partner and
 - Full size logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display unlimited promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Five featured job postings in our Newsletter (2,500 subscibers)
+- Five featured job postings in our Newsletter (2,500 subscribers)
 
 The **Keystone** package costs **$14,000**.
 

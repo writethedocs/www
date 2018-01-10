@@ -1,20 +1,15 @@
-:template: 2018/venue.html
+:template: 2018/na/generic.html
+:banner: _static/2018/assets/headers/venue.png
 
+About the Venue
+---------------
 
-
-Venue
------
-
-This year's Portland conference will be held at the `Crystal Ballroom`_.
-It is a beautiful concert venue located in the `middle of downtown`_ Portland.
-It has been a wonderful venue for us the past few years,
-and we expect this to be another wonderful year.
+This year's Portland conference will be held at the `Crystal Ballroom`_. It is a beautiful concert venue located in the `middle of downtown`_ Portland. It has been a wonderful venue for us the past few years, and we expect this to be another wonderful year.
 
 Accessibility
 ~~~~~~~~~~~~~
 
-All conference spaces at the Crystal Ballroom are wheelchair accessible,
-except for the balcony where there are no events.
+All conference spaces at the Crystal Ballroom are wheelchair-accessible, except for the balcony where there are no events.
 
 The venue has:
 
@@ -22,7 +17,7 @@ The venue has:
 * elevators that are open and unlocked during all conference events
 * accessible, clearly labeled restrooms
 
-Low Vision or Hard of Hearing
+Low vision or hard of hearing
 *****************************
 
 Preferred seating will be provided for attendees who request it. Please contact us about any lighting requirements you may have, and we will do our best to meet them.
@@ -32,8 +27,7 @@ All transit in Portland announce stops verbally in English. Most buses have a vi
 Dietary requirements
 ********************
 
-We aim to meet all dietary requirements. Our menu and ingredients are described
-below, although one or two items are still subject to change.
+We aim to meet all dietary requirements. Our menu and ingredients will be posted closer to the conference dates.
 
 Restrooms
 *********
@@ -47,7 +41,7 @@ Quiet room
 
 We will have a clearly marked quiet/lactation room available. This room is intended to be a calm and quiet place for anyone who needs to have a break from the bustle of the conference, and will not be used for socializing.
 
-Other Venues
+Other venues
 ************
 
 We are still working on confirming accessibility at our other conference venues.

@@ -57,10 +57,10 @@ People who are new to our community in particular should be assisted and welcome
 We have a few guidelines that we hope people will follow when interacting inside our Slack network:
 
 - **Only participate when you can be constructive** - Just because you can make a comment, doesn't mean you should. Try and be constructive in all that you do.
-- **Say hi** - The world is a better place with a flood of hello's instead of a dearth of greetings.
+- **Say hi** - The world is a better place with a flood of hello's.
 - **Don't be snarky** - We are all trying the best we can.
 - **Be careful with jokes** - You know that you're joking, but some people might take you seriously.
-- **If you don't have anything nice to say, don't say anything at all** - Once again our parents were quite sage.
+- **If you don't have anything nice to say, don't say anything at all** - Once again our parents were quite wise.
 
 Programmer Community Issues
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
