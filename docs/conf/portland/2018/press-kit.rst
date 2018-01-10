@@ -3,11 +3,20 @@
 Press Kit
 =========
 
-We love that you're supporting Write the Docs by writing about the conference, sharing news about it on social media, or asking your manager if you can attend. We're trying to make it as easy as possible for you to do any of the above, so here are some sample tweets, emails and images you can use.
+We love that you're supporting Write the Docs by writing about the conference, sharing news about it on social media, or asking your manager if you can attend. We're trying to make it as easy as possible for you to do any of the above, so here are some sample tweets, emails, and images you can use.
 
-.. Sample Tweets
-.. --------------
-.. TODO
+Sample Tweets
+-------------
+
+Use these unedited, or tweak them as needed!
+
+
+.. raw:: html
+
+  <ul>
+    <li>I&#39;m attending writethedocs in Portland, 6-8 May 2018 to discuss all things documentation. <br><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="I&#39;m attending writethedocs in Portland, 6-8 May 2018 to discuss all things documentation." data-url="http://www.writethedocs.org/conf/portland/2018/" data-hashtags="writethedocs" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
+    <li>Join writers, programmers, librarians, scientists, developer advocates. and support humans at #writethedocs in Portland, 6-8 May 2018 to discuss all things documentation. <br><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Join writers, programmers, librarians, scientists, developer advocates. and support humans at #writethedocs in Portland, 6-8 May 2018 to discuss all things documentation." data-url="http://www.writethedocs.org/conf/portland/2018/" data-hashtags="writethedocs" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
+  </ul>
 
 Sample Emails
 --------------
@@ -23,7 +32,7 @@ Do you need help justifying why your employer should send you to the Write the D
 
   I'd like to attend Write the Docs in Portland, 6-8 May 2018. A three-day event that explores the art and science of documentation. The conference covers topics related to documentation in the software industry.
 
-  Write the Docs brings everyone who writes the docs together in the same room: Writers, Developers, Developer Relations, and Support Staff, which makes it an ideal networking opportunity.
+  Write the Docs brings everyone who writes the docs together in the same room: Writers, Developers, Developer Relations, and Support Staff, which makes it an ideal networking opportunity .
 
   There is a single talk track, a parallel unconference event and a writing day. The `sessions from 2017 <http://www.writethedocs.org/conf/na/2017/speakers/>`_ provide a reasonable idea of what to expect.
 
@@ -35,7 +44,10 @@ Do you need help justifying why your employer should send you to the Write the D
 
   Benefits:
 
-  TODO
+  * networking with other documentarians
+  * exposure to new or state of the art ideas/techniques/products
+  * a chance to contribute to discussions and working groups
+  * find solutions to problems you're facing at work
 
   Sincerely,
   [your name]
@@ -57,7 +69,7 @@ Good Things People Have Said About Us
 Useful Numbers
 ---------------
 
-We have some stats about attendees, membership and website hits over on the following blog posts:
+We have some stats about attendees, membership, and website hits over on the following blog posts:
 
 - :doc:`/blog/write-the-docs-2017-stats/`
 - :doc:`/blog/write-the-docs-2016-year-in-review/`
