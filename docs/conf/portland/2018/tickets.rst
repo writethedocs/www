@@ -47,7 +47,7 @@ Purchase this ticket if you are paying for yourself, or if you work at a non-pro
 
 .. class:: ticket
 
-**Student or Unemployed** *$150*
+**Student or Unemployed** *$100*
 --------------------------------
 
 Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
