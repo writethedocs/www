@@ -17,7 +17,6 @@ exclude_patterns = [
     '_build',
     'include',
     '_data',
-    'conf/_cookiecutter',
     'node_modules',
 ]
 extensions = [
