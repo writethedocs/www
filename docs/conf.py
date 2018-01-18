@@ -103,7 +103,7 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-suppress_warnings = ['image.nonlocal_uri', 'ref.ref', 'ref.doc']
+suppress_warnings = ['image.nonlocal_uri']
 
 # Our additions
 
