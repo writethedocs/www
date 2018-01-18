@@ -73,11 +73,7 @@ Community-run events
 In addition to the official conferences that are organized by our team and carry the formal Write the Docs brand, we have seen a growing number of events that are organized by our community members.
 We are thrilled that our community is excited to share knowledge and network with like-minded folks, and happy to support and cross-promote these events in our community.
 
-<<<<<<< HEAD
-To clarify the difference between a core Write the Docs event and a community-run event, and to answer questions for those who wish to start a community event, we created :doc:`Community-Run Events </organizer-guide/confs/community-events>`.
-=======
 We're still trying to find our way in clarifying the difference between a core Write the Docs event and a community-run event, and it's a work in progress because we want to empower our community to run events, but at the same time we want to avoid confusing folks about which event is run by whom.
->>>>>>> 615e770b045f15acf8ff716383dcef90bde949a8
 
 To that affect, we now have the :doc:`Community-Run Events </organizer-guide/confs/community-events>` section on our website, which aims to list basic guidelines on running these events, and some answers to questions you might have if you want to start your own event.
 This is a living document and we welcome suggestions and contributions!
