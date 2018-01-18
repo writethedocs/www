@@ -65,7 +65,7 @@ In addition to the official conferences that are organized by our team and carry
 
 We are thrilled that our community is excited to share knowledge and network with like-minded folks, and happy to support and cross-promote these events in our community.
 
-To clarify the difference between a core Write the Docs event and a community-run event, and to answer questions for those who wish to start a community event, we created :doc:`Community-Run Events </organizer-guide/community-events>`.
+To clarify the difference between a core Write the Docs event and a community-run event, and to answer questions for those who wish to start a community event, we created :doc:`Community-Run Events </organizer-guide/confs/community-events>`.
 
 Hopefully this information is helpful, but feel free to write to use at support@writethedocs.org if you have any questions.
 
