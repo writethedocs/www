@@ -1,5 +1,9 @@
 :template: 2017/au-index.html
 
+Home - Write the Docs Australia 2017
+====================================
+
+
 .. raw:: html
 
       <div class="container">

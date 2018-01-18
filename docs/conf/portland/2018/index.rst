@@ -1,6 +1,7 @@
 :template: 2018/na/index.html
 
-.. title:: Home - Write the Docs Portland 2018
+Home - Write the Docs Portland 2018
+===================================
 
 .. Left blank as all content is in the index.html file
 

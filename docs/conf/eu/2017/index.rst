@@ -1,5 +1,9 @@
 :template: 2017/eu-index.html
 
+Home - Write the Docs Europe 2017
+===================================
+
+
 .. raw:: html
 
       <div class="container">
