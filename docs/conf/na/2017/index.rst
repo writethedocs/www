@@ -1,7 +1,5 @@
 :template: 2017/na-index.html
-
-Home - Write the Docs Portland 2017
-===================================
+:orphan:
 
 
 

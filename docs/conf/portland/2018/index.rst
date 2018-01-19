@@ -1,7 +1,5 @@
 :template: 2018/na/index.html
-
-Home - Write the Docs Portland 2018
-===================================
+:orphan:
 
 .. Left blank as all content is in the index.html file
 
