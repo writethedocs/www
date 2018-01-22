@@ -97,8 +97,7 @@ as "the Erics").
     coalesce into a community. We are providing the space to allow this
     to happen, both in person and online.
 
-The headline quote above is from a doc, then titled "`Write the Docs:
-Manifesto <http://docs.writethedocs.org/about/vision/>`__\ ", written
+The headline quote above is from a doc, then titled :doc:`/guide/about/vision/`, written
 that night. The Erics almost laughed the idea off at first; no one would
 come, no one would sponsor it. I said "no really, it's not that hard,
 let's see what could happen" and bought another round of beer. So, we
