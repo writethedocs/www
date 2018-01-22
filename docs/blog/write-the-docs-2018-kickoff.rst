@@ -10,9 +10,10 @@ Greetings, global documentarians!
 Mikey here, writing from the deep, dark cold European winter, but looking forward to spring and summer, full of sunshine and docs!
 Following Eric's winter-warming `2017 Stats <http://www.writethedocs.org/blog/write-the-docs-2017-stats/>`_ post, I'd like to highlight some of the activities, changes, and experiments that you can expect in 2018.
 
-These efforts are a part of optimizing our work in supporting and growing the community, and the also aim to keep things fresh and exciting for our documentarians.
+These efforts are part of our work to support and grow the community, and to keep things fresh and exciting for documentarians.
+We hope you'll enjoy the new things we're trying.
 
-We hope you'll enjoy the new things we're trying. If you'd like to contribute, please write to us at support@writethedocs.org and let us know!
+If you'd like to contribute to any of these initiatives or propose new experiments, please write to us at support@writethedocs.org and let us know!
 
 So, new year - new...
 
@@ -35,7 +36,7 @@ These focus areas are on an including-but-not-limited-to basis, since there are 
 Job opportunities
 -----------------
 
-In recent years we noticed that an increasing number of documentarians in our communities are looking to evolve their careers, and that many employers are seeking documentation-friendly folks to add to their organizations.
+In recent years we noticed that an increasing number of documentarians in our communities are looking for work, and that many employers are seeking documentation-friendly folks to add to their organizations.
 Aside from the traditional sponsorship options for the conferences, we have started two very exciting experiments:
 
 Job board
@@ -73,9 +74,9 @@ Community-run events
 In addition to the official conferences that are organized by our team and carry the formal Write the Docs brand, we have seen a growing number of events that are organized by our community members.
 We are thrilled that our community is excited to share knowledge and network with like-minded folks, and happy to support and cross-promote these events in our community.
 
-We're still trying to find our way in clarifying the difference between a core Write the Docs event and a community-run event, and it's a work in progress because we want to empower our community to run events, but at the same time we want to avoid confusing folks about which event is run by whom.
+We're still trying to find the best way to clarify the difference between a core Write the Docs event and a community-run event. This is a work in progress because we want to empower our community to run events, but at the same time we want to avoid confusing folks about which event is run by whom.
 
-To that affect, we now have the :doc:`Community-Run Events </organizer-guide/confs/community-events>` section on our website, which aims to list basic guidelines on running these events, and some answers to questions you might have if you want to start your own event.
+To that affect, we now have the :doc:`Community-Run Events </organizer-guide/confs/community-events>` section on our website, which lists basic guidelines on running these events and provides some answers to questions you might have if you want to start your own event.
 This is a living document and we welcome suggestions and contributions!
 
 Happy New Year
