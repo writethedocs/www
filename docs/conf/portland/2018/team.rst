@@ -50,6 +50,11 @@ Mo Nishiyama
 
 .. include:: /include/bios/mo.rst
 
+Shaun McCance
+~~~~~~~~~~~~~
+
+.. include:: /include/bios/shaun.rst
+
 Primary Roles
 -------------
 
