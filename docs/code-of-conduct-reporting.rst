@@ -19,7 +19,7 @@ please contact us!
 You can email us at conduct@writethedocs.org,
 or report something to one of the following people:
 
-.. include:: /include/conf/na-coc.rst
+.. include:: include/conf/na-coc.rst
 
 
 What to include in the report
