@@ -93,7 +93,7 @@ and open source organizations.
 - Small logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- **NOTE**: This sponsorship does not include a job fair booth. You can purchase one for an additional $500 (50% off)
+- **NOTE**: This sponsorship does not include a job fair table. You can purchase one for an additional $500 (50% off)
 
 The **First Draft** package costs **$750**.
 You can buy it directly on our ticket website.
@@ -108,7 +108,7 @@ The **Second Draft** package is great for companies looking to hire or promote a
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 - One featured job posting in our Newsletter (2,500 subscribers)
-- **NOTE**: This sponsorship does not include a job fair booth. You can purchase one for an additional $500 (50% off)
+- **NOTE**: This sponsorship does not include a job fair table. You can purchase one for an additional $500 (50% off)
 
 The **Second Draft** package costs **$1,500**.
 
@@ -122,7 +122,7 @@ The **Publisher** package is great for sending a team and getting to know the co
 - Name included in welcome announcement in email newsletters and social media
 - Display 2 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 - Two featured job postings in our Newsletter (2,500 subscribers)
-- A booth at the job fair
+- A table at the job fair
 
 The **Publisher** package costs **$4,000**.
 
@@ -138,13 +138,13 @@ Limit 2 (**One remaining**)
 The **Patron** package highlights your company as a force in the industry and community:
 
 - Ten (10) tickets_
-- Small booth at the event
+- Small table in the main conference hall
 - Small logo included on videos
 - Full size logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 3 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 - Three featured job postings in our Newsletter (2,500 subscribers)
-- A featured booth at the job fair
+- A featured table at the job fair
 
 The **Patron** package costs **$8,000**.
 
@@ -156,14 +156,14 @@ Limit 1 (**Sold Out**)
 The **Keystone** package highlights you as our main community partner:
 
 - Fifteen (15) tickets_
-- Large booth at the event
+- Large table in the main conference hall
 - Dedicated table for staff
 - Large logo included on videos
 - Full size logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display unlimited promotional (“Swag”) item on the conference swag table (provided by sponsor)
 - Five featured job postings in our Newsletter (2,500 subscribers)
-- A featured booth at the job fair
+- A featured table at the job fair
 
 The **Keystone** package costs **$14,000**.
 
@@ -182,22 +182,24 @@ Job Fair
 
 Our job fair is a wonderful place to connect with the talented Write the Docs attendees.
 We'll have over 400 people in attendance for our conference,
-and many of those people will come to our job fair to look at possible new directions in the industry.
+and many of those people will come to our job fair to look for new roles and positions.
 
 **$1,000** (a la carte price, also included or discounted with other sponsorship packages)
 
-- **Logistics**: The Job Fair will be Tuesday morning in Lola's Room. It will run from 9am-11:30pm. Setup at 8am.
-- **Layout**: Every participant will have a six-foot table and 2 chairs set reserved for them. We do not use booths during the Job Fair. You are welcome to have a standing banner or customized tablecloth. Giveaways/flyers are welcome.
+- **Logistics**: The Job Fair will be Tuesday morning in Lola's Room. It will run from 9am-11:30pm. You can set up from 8am.
 
+- **Layout**: Every participant will have a six-foot table and two chairs reserved for them. We do not use booths during the Job Fair. You are welcome to have a standing banner or customized tablecloth. Giveaways/flyers are welcome.
+
+Note that the :ref:`coc` and :ref:`coc-sponsors` apply to the Job Fair as well as to the rest of the conference.
 
 Lanyard
 -------
 
-Provide your branded lanyards for our badges. This makes your company name visible to each and every attendee at the conference! 
+Provide your branded lanyards for our badges. This makes your company name visible to each and every attendee at the conference!
 
 **$2,000**
 
-- **Logistics**: Sponsor is responsible for shipping badges to organizers at least two weeks before the event starts.
+- **Logistics**: Sponsor is responsible for shipping lanyards to organizers at least two weeks before the event starts.
 
 Writing Day
 -----------
@@ -205,9 +207,9 @@ Writing Day
 Sponsor the Writing Day on Sunday, where we get together to help improve the documentation of many projects.
 This is great for any company that is looking for contributors to their open source projects.
 
-**$2,000** (Sponsor also responsible for shipping badges)
+**$2,000**
 
-- **Logistics**: The Writing Day runs 9-5 on Sunday. 
+- **Logistics**: The Writing Day runs 9-5 on Sunday.
 
 
 .. raw:: pdf
@@ -233,10 +235,10 @@ of our expenses must be paid up front.
 Frequently Asked Questions
 ==========================
 
-What are the booth sizes? What is included?
+What are the table sizes? What is included?
 -------------------------------------------
 
-The small sponsorship booth is a 6' table, and the large is two 6' tables. These are not standard conference expo halls, but in the main conference venue, so please don't bring anything that will need to be hung or expand more than 2 feet beyond the edge of your area. Wifi & Power will be provided.
+The small sponsorship table is a 6' table, and the large is two 6' tables. These are not standard conference expo halls, but in the main conference venue, so please don't bring anything that will need to be hung or expand more than 2 feet beyond the edge of your area. Wifi & Power will be provided.
 
 What are the dates that sponsors need to know about?
 ----------------------------------------------------
@@ -245,6 +247,6 @@ What are the dates that sponsors need to know about?
 
 * SUNDAY: Sponsor setup will be available on Sunday from 10am-4pm. Please contact us to coordinate a time to make sure that we're available to assist you when you arrive.
 
-* MONDAY: Doors will open at 8am, so we recommend arriving at this time to get the most visibility with attendees. This is the official start of the conference, where sponsors booths will need to be staffed. The conference will run until around 5pm
+* MONDAY: Doors will open at 8am, so we recommend arriving at this time to get the most visibility with attendees. This is the official start of the conference, when sponsors tables will need to be staffed. The conference will run until around 5pm
 
 * TUESDAY: Tear down will be 3pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening. We'll also be having a local meetup social and conference after party at New Relic that evening, which you're also welcome to come to.
