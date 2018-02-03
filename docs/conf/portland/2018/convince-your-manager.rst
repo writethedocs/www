@@ -50,3 +50,10 @@ When discussing how to pitch the conference, a few generally helpful tips emerge
 
 In addition, it can be useful to share some info about previous conferences. You can find the websites for previous events on `the Conferences page <http://www.writethedocs.org/conf/>`_.
 But perhaps more useful might be some of the info in our `press kit <http://www.writethedocs.org/conf/portland/2018/press-kit.rst>`_, which includes community testimonials, photos, and more. 
+
+List of talks from 2017
+~~~~~~~~~~~~~~~~~~~~~~~
+
+.. datatemplate::
+   :source: /_data/2017.na.speakers.yaml
+   :template: 2017/simple-talk-list.rst
