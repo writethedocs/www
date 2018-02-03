@@ -5,7 +5,7 @@ Press Kit
 
 We love that you're supporting Write the Docs by writing about the conference, sharing news about it on social media, or asking your manager if you can attend. We're trying to make it as easy as possible for you to do any of the above, so here are some sample tweets, emails, and images you can use.
 
-Sample Tweets
+Sample tweets
 -------------
 
 Use these unedited, or tweak them as needed!
@@ -18,41 +18,41 @@ Use these unedited, or tweak them as needed!
     <li>Join writers, programmers, librarians, scientists, developer advocates. and support humans at #writethedocs in Portland, 6-8 May 2018 to discuss all things documentation. <br><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Join writers, programmers, librarians, scientists, developer advocates. and support humans at #writethedocs in Portland, 6-8 May 2018 to discuss all things documentation." data-url="http://www.writethedocs.org/conf/portland/2018/" data-hashtags="writethedocs" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
   </ul>
 
-Sample Emails
+Sample emails
 --------------
 
-Convince Your Employer
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Convince your employer
+~~~~~~~~~~~~~~~~~~~~~~
 
-Do you need help justifying why your employer should send you to the Write the Docs? Take a look at the letter below and tweak it as required.
+Do you need help justifying why your employer should send you to Write the Docs? Take a look at the letter below and tweak it as required.
 
   FROM: [your name]
   TO: [your employer or manager's name]
   RE: Continuous Improvement and Education
 
-  I'd like to attend Write the Docs in Portland, 6-8 May 2018. A three-day event that explores the art and science of documentation. The conference covers topics related to documentation in the software industry.
+  I'd like to attend Write the Docs in Portland, 6-8 May 2018. This three-day event explores the art and science of documentation. The conference covers topics related to documentation in the software industry.
 
   Write the Docs brings everyone who writes the docs together in the same room: Writers, Developers, Developer Relations, and Support Staff, which makes it an ideal networking opportunity .
 
-  There is a single talk track, a parallel unconference event and a writing day. The `sessions from 2017 <http://www.writethedocs.org/conf/na/2017/speakers/>`_ provide a reasonable idea of what to expect.
+  There is a single track of talks, a parallel unconference event, and a writing day. The `sessions from 2017 <http://www.writethedocs.org/conf/na/2017/speakers/>`_ will give you a good idea of the diverse range of topics covered, many of which are relevant to my work.
 
-  Cost:
+  Costs:
 
-  * ticket $450
-  * travel
-  * accomodation
+  * Conference ticket (includes breakfast and lunch) - $450
+  * Travel – [fill in with estimate]
+  * Accomodation – – [fill in with estimate]
 
   Benefits:
 
-  * networking with other documentarians
-  * exposure to new or state of the art ideas/techniques/products
-  * a chance to contribute to discussions and working groups
-  * find solutions to problems you're facing at work
+  * Networking with other documentarians
+  * Exposure to new or state-of-the-art ideas/techniques/products
+  * Opportunity to contribute to discussions and working groups
+  * Discovering solutions to problems I'm facing at work
 
-  Sincerely,
+  Thanks in advance,
   [your name]
 
-Good Things People Have Said About Us
+Good things people have said about us
 -------------------------------------
 
 .. raw:: html
@@ -66,7 +66,7 @@ Good Things People Have Said About Us
   <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">On my way home from another great <a href="https://twitter.com/hashtag/writethedocs?src=hash&amp;ref_src=twsrc%5Etfw">#writethedocs</a>. Already working on ways to apply what I learned. If you care about docs, be here next time!</p>&mdash; Daniel D. Beck (@ddbeck) <a href="https://twitter.com/ddbeck/status/601042665744957440?ref_src=twsrc%5Etfw">May 20, 2015</a></blockquote>
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Useful Numbers
+Useful numbers
 ---------------
 
 We have some stats about attendees, membership, and website hits over on the following blog posts:
@@ -75,7 +75,7 @@ We have some stats about attendees, membership, and website hits over on the fol
 - :doc:`/blog/write-the-docs-2016-year-in-review/`
 
 
-Images and Logos
+Images and logos
 -------------------
 
 We're working on getting our new logos and images up here, in the meantime you can use any of the Creative Commons licensed images from our `Flickr gallery <https://www.flickr.com/photos/writethedocs/>`_ or take a look at the `logo and other assets stylesheet <https://github.com/writethedocs/resources/blob/master/conf/2018/STYLE-SHEET-2018.pdf>`_.
