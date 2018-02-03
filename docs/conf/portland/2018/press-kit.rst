@@ -3,7 +3,8 @@
 Press Kit
 =========
 
-We love that you're supporting Write the Docs by writing about the conference, sharing news about it on social media, or asking your manager if you can attend. We're trying to make it as easy as possible for you to do any of the above, so here are some sample tweets, emails, and images you can use.
+We love that you're supporting Write the Docs by writing about the conference, sharing news about it on social media, telling people you're planning to attend.
+We're trying to make it as easy as possible for you to do any of the above, so here are some sample tweets, useful information, and handy images you can use.
 
 Sample tweets
 -------------
