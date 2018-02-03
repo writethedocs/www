@@ -33,3 +33,10 @@ Do you need help justifying why your employer should send you to Write the Docs?
 
   Thanks in advance,
   [your name]
+
+List of talks from 2017
+~~~~~~~~~~~~~~~~~~~~~~~
+
+.. datatemplate::
+   :source: /_data/2017.na.speakers.yaml
+   :template: 2017/simple-talk-list.rst
