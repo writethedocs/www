@@ -10,10 +10,12 @@ Feel free to adapt and share with your manager to show them the many benefits of
 Sample email
 -------------
 
-::
+----
 
   FROM: [your name]
+
   TO: [your employer or manager's name]
+
   SUBJECT: Professional Development: Documentation Community Conference
 
   I'd like to attend Write the Docs in Portland, 6-8 May 2018. This three-day event explores the art and science of documentation, and covers a diverse range of topics related to documentation in the software industry.
@@ -39,6 +41,8 @@ Sample email
   Thanks in advance,
   [your name]
 
+----
+
 Resources
 ---------
 
@@ -48,8 +52,8 @@ When discussing how to pitch the conference, a few generally helpful tips emerge
 * If your company is looking to hire another documentarian, the job fair and networking at the event are an excellent resource.
 * Don't forget that one of the benefits to your attendance is that it raises the visibility of your company in the community. If your team wants a reputation for caring about their docs, having people at Write the Docs is a great way to do that.
 
-In addition, it can be useful to share some info about previous conferences. You can find the websites for previous events on `the Conferences page <http://www.writethedocs.org/conf/>`_.
-But perhaps more useful might be some of the info in our `press kit <http://www.writethedocs.org/conf/portland/2018/press-kit.rst>`_, which includes community testimonials, photos, and more.
+In addition, it can be useful to share some info about previous conferences. You can find the websites for previous events on :doc:`/conf/index/`.
+But perhaps more useful might be some of the info in our :doc:`press-kit/`, which includes community testimonials, photos, and more.
 
 List of talks from 2017
 -----------------------
