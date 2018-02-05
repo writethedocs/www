@@ -117,3 +117,5 @@ February 22 – Cambridge, UK – `Markup languages: a brief history <https://ww
 March 1 – Los Angeles, CA, USA – `First Pasadena Meetup <https://www.meetup.com/Write-the-Docs-Los-Angeles/events/247164479/>`_
 
 March 6 – Portland, OR, USA – `Monthly Meetup <https://www.meetup.com/Write-The-Docs-PDX/>`_
+
+*NOTE: If you run a meetup group and you're not seeing your events show up here in this calendar, drop me a DM (@kobrien042) on Slack to let me know. The Meetup site search is not, like, the best.*
