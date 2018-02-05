@@ -21,7 +21,7 @@ Sample email
   I'd like to attend Write the Docs in Portland, 6-8 May 2018. This three-day event explores the art and science of documentation, and covers a diverse range of topics related to documentation in the software industry.
 
   Write the Docs conferences bring together everyone who writes the docs – Tech Writers, Developers, Developer Relations, Customer Support – making the events an ideal networking opportunity.
-  Each conference successfully combines a number of differnt event formats to deliver engaging, practical, and timely content.
+  Each conference successfully combines a number of different event formats to deliver engaging, practical, and timely content.
 
   There is a single track of talks, a parallel unconference event, and a community writing day. The `sessions from 2017 <http://www.writethedocs.org/conf/na/2017/speakers/>`_ will give you a good idea of the kinds of topics covered, many of which are relevant to my work.
 
