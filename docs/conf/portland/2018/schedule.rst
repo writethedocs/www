@@ -20,12 +20,9 @@ Hike
 The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion </conf/portland/2018/hike>`.
 If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
 
-Where:
-  Lower Macleay Park or Macleay Park Entrance.
-When:
-  **13:45**
-Details:
-  :doc:`Annual hike to Pittock Mansion </conf/portland/2018/hike>`
+* **Where**: Lower Macleay Park or Macleay Park Entrance.
+* **When**: 13:45
+* **Details**: :doc:`Annual hike to Pittock Mansion </conf/portland/2018/hike>`
 
 Sunday, May 6
 -------------
@@ -38,12 +35,9 @@ The Writing Day and Welcome Reception will be held at the **Crystal Ballroom loc
 Writing Day
 ~~~~~~~~~~~
 
-Where:
-  Main stage, Crystal Ballroom
-When:
-  **9am-5pm**
-Details:
-  :doc:`Writing Day documentation sprints </conf/portland/2018/writing-day>`
+* **Where**: Main stage, Crystal Ballroom
+* **When**: **9am-5pm**
+* **Details**: :doc:`Writing Day documentation sprints </conf/portland/2018/writing-day>`
 
 Reception
 ~~~~~~~~~
@@ -52,12 +46,9 @@ We encourage everyone to drop by on Sunday evening for the conference reception.
 You'll have a chance to get acquainted with each other over some drinks and snacks.
 We'll also help groups organize dinner plans, so you can continue your conversations over more substantial food as well.
 
-Where:
-  Main stage, Crystal Ballroom
-When:
-  **5pm-8pm**
-Details:
-  TBA
+* **Where**: Main stage, Crystal Ballroom
+* **When**: **5pm-8pm**
+* **Details**: TBA
 
 Monday, May 7
 -------------
@@ -71,12 +62,9 @@ We will have talks all day on the main stage, and a unconference session running
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
-Where:
-  Main stage, Crystal Ballroom
-When:
-  **9am-5pm**
-Details:
-  Exact schedule TBA
+* **Where**:   Main stage, Crystal Ballroom
+* **When**: **9am-5pm**
+* **Details**: Exact schedule TBA
 
 ..
     .. datatemplate::
@@ -88,12 +76,9 @@ Unconference
 
 The unconference sessions run in parallel to the main conference talks.
 
-Where:
-  Lola's room, Crystal Ballroom
-When:
-  **1pm-5pm**
-Details:
-  :doc:`/conf/portland/2018/unconference`
+* **Where**: Lola's room, Crystal Ballroom
+* **When**: **1pm-5pm**
+* **Details**: :doc:`/conf/portland/2018/unconference`
 
 Monday Night Social
 ~~~~~~~~~~~~~~~~~~~
@@ -105,12 +90,9 @@ This event is for **conference attendees only**. Please bring your badge to be l
 
 There will be light snacks and drinks available on the conference while our tab lasts.
 
-Where:
-  TBA
-When:
-  **7pm-23pm**
-Details:
-  TBA
+* **Where**: TBA
+* **When**: **7pm-23pm**
+* **Details**: TBA
 
 Tuesday, May 8
 --------------
@@ -123,12 +105,9 @@ And the conference goes on!
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
-Where:
-  Main stage, Crystal Ballroom
-When:
-  **9am-4pm**
-Details:
-  Exact schedule TBA
+* **Where**: Main stage, Crystal Ballroom
+* **When**: **9am-4pm**
+* **Details**: Exact schedule TBA
 
 ..
     .. datatemplate::
@@ -140,21 +119,15 @@ Job Fair
 
 New in 2018! We'll be holding a job fair on Tuesday morning!
 
-Where:
-  Lola's room, Crystal Ballroom
-When:
-  **9am-11:30am**
-Details:
-  TBA
+* **Where**: Lola's room, Crystal Ballroom
+* **When**: **9am-11:30am**
+* **Details**: TBA
 
 Unconference
 ~~~~~~~~~~~~
 
 The unconference sessions run in parallel to the main conference talks.
 
-Where:
-  Lola's room, Crystal Ballroom
-When:
-  **12:30am-5pm**
-Details:
-  :doc:`/conf/portland/2018/unconference`
+* **Where**: Lola's room, Crystal Ballroom
+* **When**: **12:30am-5pm**
+* **Details**: :doc:`/conf/portland/2018/unconference`
