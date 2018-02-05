@@ -110,7 +110,7 @@ February 21 – New York City, NY, USA – `Discussion: Managing Technical Write
 
 February 22 – Boise, ID, USA – `First meetup of 2018 <https://www.meetup.com/Write-the-Docs-Boise/events/246900941/>`_
 
-February 22 – Sydney, Australia – `Sydney: How to build an IA | Q&A: All things tech documentation <https://www.meetup.com/Write-the-Docs-Australia/events/245510988/>`_
+February 22 – Sydney, Australia – `How to build an IA | Q&A: All things tech documentation <https://www.meetup.com/Write-the-Docs-Australia/events/245510988/>`_
 
 February 22 – Cambridge, UK – `Markup languages: a brief history <https://www.meetup.com/Write-The-Docs-Cambridge/events/246750191/>`_
 
