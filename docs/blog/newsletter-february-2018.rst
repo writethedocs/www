@@ -39,17 +39,10 @@ How do you manage that conversation without being discouraging or unkind?
 Many in the community have been in this position and this month, WTD documentarians had great tips 
 for sharing feedback effectively and constructively:
 
-* **Follow the Toastmasters' PIPS method: praise, improvement, praise, summary.** 
-Start with something they did well, explain what they can do to improve, move on to more praise, and then summarize. 
-Including the praise helps your feedback land without damaging their confidence.
-* **Keep your feedback specific and results-oriented, and don't forget the 'why'.** 
-It's helpful to couch your feedback in terms of the reader's experience. 
-Try something like, "I think users could misinterpret this to mean X instead of Y. 
-Revising to Z would help prevent confusion."
-* **Follow company culture.** Depending on your team's culture, folks might be fine with receiving a marked-up file of revisions,
-or they might expect to receive feedback during a collaborative discussion. Do your best to stick to established channels.
-* **Refer to outside sources.** Use tools like style guides or checklists of common problems to 
-handle proofreading and standardization issues objectively.
+* **Follow the Toastmasters' PIPS method: praise, improvement, praise, summary.** Start with something they did well, explain what they can do to improve, move on to more praise, and then summarize. Including the praise helps your feedback land without damaging their confidence.
+* **Keep your feedback specific and results-oriented, and don't forget the 'why'.** It's helpful to couch your feedback in terms of the reader's experience. Try something like, "I think users could misinterpret this to mean X instead of Y. Revising to Z would help prevent confusion."
+* **Follow company culture.** Depending on your team's culture, folks might be fine with receiving a marked-up file of revisions, or they might expect to receive feedback during a collaborative discussion. Do your best to stick to established channels.
+* **Refer to outside sources.** Use tools like style guides or checklists of common problems to handle proofreading and standardization issues objectively.
 
 *Want to chat more about constructive criticism? Head to* `#general <https://writethedocs.slack.com/messages/general>`_ *on Slack.*
 
@@ -62,12 +55,9 @@ But that responsibility falls not only to the interview*er*, but also to the int
 Last month, WTDers had some excellent suggestions for how to ask intelligent, engaged questions at the end of a job interview:
 
 * **In general, be genuine and show curiosity.** Don't worry about demonstrating expertise – that'll come later.
-* **Ask about processes and workflows:** How do you release updates to the docs? Who decides deadlines? 
-Who is considered the owner of the docs during the development cycle? 
-Do developers write the first drafts or do writers? Etc.
+* **Ask about processes and workflows:** How do you release updates to the docs? Who decides deadlines? Who is considered the owner of the docs during the development cycle? Do developers write the first drafts or do writers? Etc.
 * **Ask about company culture:** What is the day-to-day work like? When and how would you work with other teams?
-* **Ask how they define success:** What's required to be successful in this role? 
-What would you expect from me three months after hire? Six months? A year?
+* **Ask how they define success:** What's required to be successful in this role? What would you expect from me three months after hire? Six months? A year?
 * **Ask how the interviewer feels about the company:** What's your favorite thing about working there? What the most frustrating?
 
 As the interviewer responds, listen carefully to their answers. Do they sound informed and realistic? 
