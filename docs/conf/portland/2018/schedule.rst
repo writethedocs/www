@@ -32,6 +32,8 @@ Sunday, May 6
 
 The Writing Day and Welcome Reception will be held at the **Crystal Ballroom located at 1332 W Burnside St**.
 
+.. contents::
+    :local:
 
 Writing Day
 ~~~~~~~~~~~
