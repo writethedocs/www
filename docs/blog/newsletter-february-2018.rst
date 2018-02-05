@@ -28,10 +28,10 @@ who understand the value of good docs. The job board will be a destination for m
 Keep an eye on Slack, Twitter, the forum, your email, etc. – we'll let you know as soon as it goes live.
 
 Whew! Told you there's a lot going on! But now, let's have a look at a few of the conversations that have been happening
-in `Slackland <http://www.writethedocs.org/slack/>`_, over the new year.
+in `Slackland <http://www.writethedocs.org/slack/>`_ over the new year.
 
 ********************************
-It's Not Personal, It's Feedback
+It's not personal, it's feedback
 ********************************
 
 Have you ever needed to tell someone that their writing is... bad? 
