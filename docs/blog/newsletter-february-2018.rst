@@ -15,11 +15,11 @@ May 6-8 is starting to feel *awfully* close, and we couldn't be more excited.
 We're working on confirming our last few speakers. 
 You'll hear from us with the full speaker line-up in the next week or so.
 
-*NOTE: If you're not subscribed to the North American conference mailing list,* 
-`you can sign up here <http://www.writethedocs.org/newsletter/>`_.
+*NOTE: If you're not subscribed to the North American conference mailing list, you can* 
+`sign up here <http://www.writethedocs.org/newsletter/>`_.
 
-If you're planning on coming to the conference, but you're worried about persuading your company to cover the costs, 
-you might be interested in `our new Convince Your Manager page <http://www.writethedocs.org/conf/portland/2018/convince-your-manager/>`_. 
+If you're planning on coming to the conference, but you're not sure how to persuade your company to cover the costs, 
+you might be interested in our new `Convince Your Manager <http://www.writethedocs.org/conf/portland/2018/convince-your-manager/>`_ page. 
 We've knocked together an example email and some resources that you can use to make your case.
 
 And finally, in non-conference news, we're thrilled to announce that the **Write the Docs Job Board** will be launching next week. 
@@ -36,7 +36,7 @@ It's not personal, it's feedback
 
 Have you ever needed to tell someone that their writing is... bad? 
 How do you manage that conversation without being discouraging or unkind? 
-Many in the community have been in this position and this month, WTD documentarians had great tips 
+Many in the community have been in this position before, and this month, the WTD hivemind had great tips 
 for sharing feedback effectively and constructively:
 
 * **Follow the Toastmasters' PIPS method: praise, improvement, praise, summary.** Start with something they did well, explain what they can do to improve, move on to more praise, and then summarize. Including the praise helps your feedback land without damaging their confidence.
@@ -52,7 +52,7 @@ Questions to ask during a job interview
 
 A good job interview always comes down to the questions asked. 
 But that responsibility falls not only to the interview*er*, but also to the interview*ee*. 
-Last month, WTDers had some excellent suggestions for how to ask intelligent, engaged questions at the end of a job interview:
+Last month, we had some excellent suggestions for how to ask intelligent, engaged questions at the end of a job interview:
 
 * **In general, be genuine and show curiosity.** Don't worry about demonstrating expertise – that'll come later.
 * **Ask about processes and workflows:** How do you release updates to the docs? Who decides deadlines? Who is considered the owner of the docs during the development cycle? Do developers write the first drafts or do writers? Etc.
@@ -118,4 +118,4 @@ March 1 – Los Angeles, CA, USA – `First Pasadena Meetup <https://www.meetup.
 
 March 6 – Portland, OR, USA – `Monthly Meetup <https://www.meetup.com/Write-The-Docs-PDX/>`_
 
-*NOTE: If you run a meetup group and you're not seeing your events show up here in this calendar, drop me a DM (@kobrien042) on Slack to let me know. The Meetup site search is not, like, the best.*
+*NOTE: If you run a meetup group and you're not seeing your events show up here in this calendar, drop me a DM (@kobrien042) on Slack to let me know.*
