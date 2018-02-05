@@ -14,8 +14,9 @@ First things first, the march toward our Portland conference continues at a stea
 May 6-8 is starting to feel *awfully* close, and we couldn't be more excited. 
 We're working on confirming our last few speakers. 
 You'll hear from us with the full speaker line-up in the next week or so.
-*NOTE: If you're not subscribed to the North American conference mailing list, 
-`you can sign up here <http://www.writethedocs.org/newsletter/>`_.*
+
+*NOTE: If you're not subscribed to the North American conference mailing list,* 
+`you can sign up here <http://www.writethedocs.org/newsletter/>`_.
 
 If you're planning on coming to the conference, but you're worried about persuading your company to cover the costs, 
 you might be interested in `our new Convince Your Manager page <http://www.writethedocs.org/conf/portland/2018/convince-your-manager/>`_. 
