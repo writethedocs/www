@@ -5,8 +5,16 @@
 
         <div class="silver-sponsors">
           <div class="uk-width-1-1@s">
+            <a href="https://cloud.oracle.com/iaas">
+            <img src="/_static/img/sponsors/oracle-cloud.png" style="max-width:95%">
+            </a>
+          </div>
+        </div>
+
+        <div class="silver-sponsors">
+          <div class="uk-width-1-1@s">
             <a href="https://www.google.com/">
-            <img src="/_static/img/sponsors/google.png" style="max-width:90%">
+            <img src="/_static/img/sponsors/google.png" style="max-width:80%">
             </a>
           </div>
         </div>
