@@ -3,7 +3,7 @@
 This is the code that powers [www.writethedocs.org](http://www.writethedocs.org). It contains information
 about the Write the Docs group, as well as information about writing documentation.
 
-The repo is still in its early stages; feel free to contribute information that you might want to share with the community. To contribute to the Write the Docs website, famililarize yourself with the [Sphinx site generator](http://sphinx.pocoo.org/index.html).
+The repo is still in its early stages; feel free to contribute information that you might want to share with the community. To contribute to the Write the Docs website, it's helpful to familiarize yourself with the [Sphinx site generator](http://sphinx.pocoo.org/index.html), as well as [reStructuredText markup syntax](http://www.sphinx-doc.org/en/stable/rest.html).
 
 ### Prerequisites for previewing the docs locally
 
@@ -15,9 +15,11 @@ You'll probably need `root` privileges to install the prerequisites.
    1. download and install [pip](https://pip.pypa.io/en/stable/installing/).
    2. install `virtualenv` using your package manager.
 
+3. By default, `virtualenv` uses the Python interpreter that it was installed with. If necessary, run `virtualenv --python=/usr/bin/python2.7 <path/to/new/virtualenv>` to have `virtualenv` use the 2.7 interpreter.
+
 ### Installing the project requirements
 
-1. In the repository root directory (`www` by default), create a virtual environment for the project requirements by running `virtualenv venv`. More info on [virtualenv](https://virtualenv.pypa.io/en/stable/).
+1. In the repository root directory (`www` by default), create a virtual environment for the project requirements by running `virtualenv venv`. More info on `virtualenv` can be found [here](https://virtualenv.pypa.io/en/stable/).
 
 2. On Linux-based systems, activate the virtual environment by running `source venv/bin/activate`. On Windows using the Command Prompt, run `venv\Scripts\activate.bat`. On Windows using PowerShell, run `. venv\Scripts\activate.ps1`. On Windows using Git Bash, run `source venv\Scripts\activate`. You'll need to do this every time you come back to the project.
 
@@ -63,15 +65,15 @@ and instructions on how to update it are in the [`README.md`](https://github.com
 
 ### Updating CSS for the 2018 Theme
 
-The website for 2018 uses sass to compile all the assets it has, in
-order to modify the theme first you must install the dependencies of
-gulp, you can do that by running in the main directory:
+The website for 2018 uses SASS to compile all the assets it has. In
+order to modify the theme, you must first install the dependencies of
+`gulp`. In the main directory, run:
 
 ```
 npm install
 ```
 
-With that you will install all the requirements to minify your css,
+With that you will install all the requirements to minify your CSS;
 after that you only need to run:
 
 ```
@@ -80,5 +82,5 @@ gulp
 
 This has to be used alongside the sphinx server and it will
 automatically minify all the content in your `.scss` files to the
-`main.min.css` file. Also gulp will be running  browserify allowing you
-to see the css changes inmediatelly in the browser. 
+`main.min.css` file. Also, `gulp` will be running browserify, allowing you
+to see the CSS changes immediately in the browser.
