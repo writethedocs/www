@@ -85,15 +85,18 @@ to see the css changes inmediatelly in the browser.
 
 ### Generating new conf pages
 
-#### Copy
+#### Copy and Create
 
-#### Config YAML
+1. Copy the most recent conference directory. For example `portland/2018` to `prague/2018`
+2. Make sure you've got relevant files in `_templates`, `includes` and `_static`. Copy if necessary.
+3. Copy the the relevant config file. For `_data/config-portland-2018.yaml` to `_data/config-prague-2018.yaml`
+4. Edit the config file as needed.
+
 
 #### Search and replace
 
 Search and replace any year specific stuff (CAREFUL)
 ```
-:template: 2018/na/
 portland/2018
 ```
 
