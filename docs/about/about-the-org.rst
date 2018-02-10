@@ -2,6 +2,7 @@ About Our Organization
 ======================
 
 .. toctree::
+   :maxdepth: 2
    :hidden:
 
    /about-us

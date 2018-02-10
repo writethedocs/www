@@ -41,6 +41,6 @@ cfp:
 
 flagspeakersannounced: False
 flagcfp: True
-flagticketsonsale: False
+flagticketsonsale: True
 flaghashike: True
 flaghasboat: False

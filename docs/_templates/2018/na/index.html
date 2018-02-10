@@ -1,5 +1,9 @@
 {% extends "2018/base_na.html" %}
 
+{% block full_title %}
+Home - Write the Docs Portland 2018
+{% endblock %}
+
 {% block container %}
 <div class="hero" style="background-image: url({{ pathto('_static/2018/assets/images/backgrounds/portland-green.jpg', 1) }});">
     <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18">
@@ -39,14 +43,20 @@
         </p>
 
         <div class="ctas-block">
-
+           <!-- TODO: More calls to action and conditions -->
           {% if flagticketsonsale %}
 
-          <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/portland/2018/tickets') }}">Buy a Ticket!</a>
+          <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/{{shortcode}}/{{year}}/tickets') }}">Buy a Ticket!</a>
 
           {% endif %}
 
-          <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/portland/2018/cfp') }}">Submit a Talk</a>
+          {% if flagcfp %}
+
+          <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/{{shortcode}}/{{year}}/cfp') }}">Submit a
+          Talk</a>
+
+          {% endif %}
+
         </div>
       </div>
     </div>
@@ -296,32 +306,10 @@
     </div>
   </div><!--- end speakers carousel -->
 
-  <div class="news-block">
-    <div class="uk-container">
 
-      <h2>News</h2>
-
-      <a href="/conf/portland/2018/news/welcome">
-        <section class="news">
-          <div class="date">
-            <p class="month">November</p>
-            <p class="day">15</p>
-            <p class="year">2017</p>
-          </div>
-          <div class="content">
-            <h4>Announcing Call for Proposals and Website</h4>
-
-            <p>Welcome to the official launch of Write the Docs Portland 2018. We hope you're getting excited – we certainly are! It’s shaping up to be another wonderful year full of great conversations and interesting talks.</p>
-          </div>
-        </section>
-      </a>
-
-      <div class="learn-more">
-        <a class="uk-align-right" href="{{ pathto('conf/portland/2018/news') }}">Read More News</a>
-      </div>
-
-    </div>
-  </div><!--- end news block -->
+  {% block body %}
+    {{ body }}
+  {% endblock body %}
 
   {% include "include/2018/sponsors.html" %}
 

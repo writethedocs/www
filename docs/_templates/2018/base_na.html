@@ -54,97 +54,96 @@
         <meta name="dc.language" content="en">
         <meta name="geo.placename" content="Portland, Oregon">
 
-        <title>{% if title %}{{ title }}{% endif %} - Write the Docs Portland 2018</title>
+        <title>
+        {% block full_title %}
+        {% if title %}{{ title }}{% endif %} - Write the Docs Portland 2018
+        {% endblock full_title %}
+        </title>
         {% block head_link %}
         {% endblock %}
 	</head>
 	<body>
+        {% block container %}
+        {% endblock %}
 
+        <div class="footer-head">
+            <div class="uk-container">
+                <h3>Join us now!</h3>
+                <a href="{{ pathto('conf/portland/2018/tickets') }}" class="uk-button uk-button-secondary uk-text-center">Buy a Ticket!</a>
+            </div>
+        </div>
 
-            {% block container %}
-            {% endblock %}
-
-                <div class="footer-head">
-                    <div class="uk-container">
-                        <h3>Join us now!</h3>
-                        <a href="{{ pathto('conf/portland/2018/tickets') }}" class="uk-button uk-button-secondary uk-text-center">Buy a Ticket!</a>
-                        <a href="{{ pathto('conf/portland/2018/cfp') }}" class="uk-button uk-button-default uk-text-center">Submit a Talk</a>
-                    </div>
-                </div>
-
-                {# include "include/2018/sponsors.html" #}
-
-                <footer>
-              <div class="footer-padding"></div>
-                    <div class="uk-container">
-                        <div class="footer-content">
-                            <div class="footer-social-section">
-                                <div class="footer-logo">
-                                    Write<br>
-                                    the<br>
-                                    Docs<br>
-                                    <em>Portland</em>
-                                </div>
-
-                                <div class="footer-icon-list">
-                                    <a href="https://github.com/writethedocs">
-                                        <img src="{{ pathto('_static/2018/assets/icons/github-footer-green.svg', 1) }}">
-                                    </a>
-                                    <a href="https://twitter.com/writethedocs">
-                                        <img src="{{ pathto('_static/2018/assets/icons/twitter-footer-green.svg', 1) }}">
-                                    </a>
-                                    <a href="https://www.flickr.com/photos/writethedocs/">
-                                        <img src="{{ pathto('_static/2018/assets/icons/flickr-green.svg', 1) }}">
-                                    </a>
-                                    <a href="https://writethedocs.slack.com">
-                                        <img src="{{ pathto('_static/2018/assets/icons/slack-green.svg', 1) }}">
-                                    </a>
-                                </div><!-- end footer icons list of  links -->
-                            </div> <!-- end of footer social section -->
-
-                            <ul>
-                                <li>© 2018 Write the Docs</li>
-                                <li>|</li>
-                                <li><a href="{{ pathto('/code-of-conduct') }}">Code of Conduct</a></li>
-                                <li>|</li>
-                                <li><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a></li>
-                            </ul>
-
-                        </div><!-- end of footer content  -->
-                        <div class="footer-pics">
-                            <div>
-                                <img src="{{ pathto('_static/2018/assets/images/pics/ft-image-01.jpg', 1) }}">
+        <footer>
+          <div class="footer-padding"></div>
+                <div class="uk-container">
+                    <div class="footer-content">
+                        <div class="footer-social-section">
+                            <div class="footer-logo">
+                                Write<br>
+                                the<br>
+                                Docs<br>
+                                <em>Portland</em>
                             </div>
-                            <div>
-                                <img src="{{ pathto('_static/2018/assets/images/pics/ft-image-02.jpg', 1) }}">
-                            </div>
-                            <div>
-                                <img src="{{ pathto('_static/2018/assets/images/pics/ft-image-04.jpg', 1) }}">
-                            </div>
-                            <div>
-                                <img src="{{ pathto('_static/2018/assets/images/pics/ft-image-03.jpg', 1) }}">
-                            </div>
+
+                            <div class="footer-icon-list">
+                                <a href="https://github.com/writethedocs">
+                                    <img src="{{ pathto('_static/2018/assets/icons/github-footer-green.svg', 1) }}">
+                                </a>
+                                <a href="https://twitter.com/writethedocs">
+                                    <img src="{{ pathto('_static/2018/assets/icons/twitter-footer-green.svg', 1) }}">
+                                </a>
+                                <a href="https://www.flickr.com/photos/writethedocs/">
+                                    <img src="{{ pathto('_static/2018/assets/icons/flickr-green.svg', 1) }}">
+                                </a>
+                                <a href="https://writethedocs.slack.com">
+                                    <img src="{{ pathto('_static/2018/assets/icons/slack-green.svg', 1) }}">
+                                </a>
+                            </div><!-- end footer icons list of  links -->
+                        </div> <!-- end of footer social section -->
+
+                        <ul>
+                            <li>© 2018 Write the Docs</li>
+                            <li>|</li>
+                            <li><a href="{{ pathto('/code-of-conduct') }}">Code of Conduct</a></li>
+                            <li>|</li>
+                            <li><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a></li>
+                        </ul>
+
+                    </div><!-- end of footer content  -->
+                    <div class="footer-pics">
+                        <div>
+                            <img src="{{ pathto('_static/2018/assets/images/pics/ft-image-01.jpg', 1) }}">
+                        </div>
+                        <div>
+                            <img src="{{ pathto('_static/2018/assets/images/pics/ft-image-02.jpg', 1) }}">
+                        </div>
+                        <div>
+                            <img src="{{ pathto('_static/2018/assets/images/pics/ft-image-04.jpg', 1) }}">
+                        </div>
+                        <div>
+                            <img src="{{ pathto('_static/2018/assets/images/pics/ft-image-03.jpg', 1) }}">
                         </div>
                     </div>
-                </footer><!-- end footer -->
+                </div>
+        </footer><!-- end footer -->
 
-                <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
-                <!-- Animate on scroll library -->
-                <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.js"></script>
+        <!-- Animate on scroll library -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.js"></script>
 
-                <!--- Slick Carousel -->
+        <!--- Slick Carousel -->
 
-                <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+        <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
 
-                <script type="text/javascript">
-                    AOS.init({
-                        duration: 1200
-                    });
-                </script>
+        <script type="text/javascript">
+            AOS.init({
+                duration: 1200
+            });
+        </script>
 
-                <!-- UIkit JS -->
-                <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.25/js/uikit.min.js"></script>
-                <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.25/js/uikit-icons.min.js"></script>
-            </body>
-        </html>
+        <!-- UIkit JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.25/js/uikit.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.25/js/uikit-icons.min.js"></script>
+    </body>
+</html>

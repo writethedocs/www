@@ -40,24 +40,47 @@ Rose Williams
 
 .. include:: /include/bios/rose.rst
 
+Christy Lutz
+~~~~~~~~~~~~~
+
+.. include:: /include/bios/christy.rst
+
+Mo Nishiyama
+~~~~~~~~~~~~~
+
+.. include:: /include/bios/mo.rst
+
+Shaun McCance
+~~~~~~~~~~~~~
+
+.. include:: /include/bios/shaun.rst
+
 Primary Roles
 -------------
 
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
+
+Filled Roles
+~~~~~~~~~~~~~
 
 * **Conference chair** - Eric Holscher
 * **Swag coordinator** - Mikey Ariel
 * **Speaker wrangler** - Kelly O'Brien
 * **Infrastructure chair** - Samuel Wright
 * **Writing Day coordinator** - Shaun McCance
-* **Unconference coordinator** - TBA
-* **Lightning Talk coordinator** - TBA
+* **Lightning Talk coordinator** - Rose Williams
 * **Communication chair** - Mikey Ariel
-* **Volunteer coordinator** - TBA
+* **Volunteer coordinator** - Becky Yoose
 * **Sponsorship lead** - Eric Holscher
-* **Job Fair coordinator** - TBA
-* **Explore Portland coordinator** - TBA
-* **Welcome Wagon coordinators** - TBA
-* **Social media chair** - Mikey Ariel
+* **Welcome Wagon coordinators** - Christy Lutz
 * **Hike coordinator** - Eric Holscher
+* **Explore Portland coordinator** - Mo Nishiyama
+
+Organizers Needed
+~~~~~~~~~~~~~~~~~
+
+* **Unconference coordinator** - TBA
+* **Workshop coordinator** - TBA
+* **Job Fair coordinator** - TBA
+* **Social media chair** - TBA
 * **Emcee** - TBA

@@ -7,7 +7,7 @@ If you happen to have a background in academia or journalism, you will probably 
 ### Technical Documentation
 Style guides help you write a variety of content, such as documenting the methods of an API, or presenting a overview of complex technical concepts, or focusing on how to write particular content like user manuals, release notes, or tutorials.
 
-Guides often help writers focus on the different readers of technical documentation, describing how to adapt content to different reader profiles, like developers, product managers, the general public, and others. 
+Guides often help writers focus on the different readers of technical documentation, describing how to adapt content to different reader profiles, like developers, product managers, the general public, and others.
 
 Many focus on the language itself (tone, style, grammar).
 
@@ -59,7 +59,7 @@ Technical documentation takes many forms, each one targeting a certain need. Her
 
 #### Code Snippets
 
-- [google snippets](https://developers.google.com/style/code-in-text)
+- [Google code samples](https://developers.google.com/style/code-samples)
 - [Ruby / other languages](http://guides.rubyonrails.org/api_documentation_guidelines.html)
 - [Al language snippets](https://bocoup.com/blog/documenting-your-api)
 
@@ -68,12 +68,12 @@ Technical documentation takes many forms, each one targeting a certain need. Her
 #### API documentation
 
 ## Writing Style
-The style guides below focus on the actual writing craft itself. They consider how to make technical content readable, clear, succinct, and engaging. 
+The style guides below focus on the actual writing craft itself. They consider how to make technical content readable, clear, succinct, and engaging.
 
 - [The Sense of Style](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century)
 - [Stylish Academic Writing](http://www.hup.harvard.edu/catalog.php?isbn=9780674064485)
 - [Voice and Tone](https://styleguide.mailchimp.com/)
-- [Writing Style](https://developers.google.com/style/)
+- [Google developer documentation style guide](https://developers.google.com/style/)
 
 ## Other resources
 

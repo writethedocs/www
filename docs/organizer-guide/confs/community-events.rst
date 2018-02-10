@@ -24,7 +24,7 @@ and to make sure companies can't run events inside our community for their own p
 
 Community events:
 
-* Must target Write the Docs community members, not be an event that has it's own community around it
-* Must specify they **are not** official Write the Docs events, but must link back to Write the Docs as a refenence to the community
+* Must target Write the Docs community members, not be an event that has its own community around it
+* Must specify they **are not** official Write the Docs events, but must link back to Write the Docs as a reference to the community
 * Must have a Code of Conduct
 * Must have multiple organizers from more than one company, and organizers must be listed on the website

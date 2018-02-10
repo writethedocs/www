@@ -12,19 +12,6 @@ Our conferences create a time and a place for the global community of
 documentarians to share information, discuss ideas, and work together to
 improve the art and science of documentation.
 
-.. toctree::
-   :hidden:
-
-   portland/2018/index
-   na/2017/index
-   eu/2017/index
-   au/2017/index
-   na/2016/index
-   eu/2015/index
-   na/2015/index
-   eu/2015/index
-
-
 .. include:: /include/conf/current.rst
 
 .. include:: /include/conf/past.rst
