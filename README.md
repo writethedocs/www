@@ -94,12 +94,15 @@ to see the css changes inmediatelly in the browser.
 Search and replace any year specific stuff (CAREFUL)
 ```
 :template: 2018/na/
+portland/2018
 ```
 
 Manually update any FIXME comments
 ```
 .. FIXME
 ```
+
+For this whole thing to work we still need to implement these
 
 ```
 .. TODO
