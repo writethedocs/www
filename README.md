@@ -87,11 +87,13 @@ to see the css changes inmediatelly in the browser.
 
 #### Copy and Create
 
-1. Copy the most recent conference directory. For example `portland/2018` to `prague/2018`
-2. Make sure you've got relevant files in `_templates`, `includes` and `_static`. Copy if necessary.
-3. Copy the the relevant config file. For `_data/config-portland-2018.yaml` to `_data/config-prague-2018.yaml`
-4. Edit the config file as needed.
+There are a few places you need to copy files from when spinning up a new conference site:
 
+1. The *YAML config file*. For example, copy `docs/_data/config-portland-2018.yaml` to `docs/_data/config-prague-2018.yaml`.
+   Edit the file as necessary.
+2. The *conference directory*. For example `docs/conf/portland/2018` to `docs/conf/prague/2018`.
+3. The *templates*. For example `docs/_templates/2018/base_na.html` **and** `docs/_templates/2018/na` to `docs/_templates/2018/base_eu.html` **and** `docs/_templates/2018/eu`.
+4. You might need some local content in `docs/includes/conf` and `_static`. Sphinx will probably warn you if you do.
 
 #### Search and replace
 
