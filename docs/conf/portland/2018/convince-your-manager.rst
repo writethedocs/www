@@ -10,6 +10,8 @@ Feel free to adapt and share with your manager to show them the many benefits of
 Sample email
 -------------
 
+Remember to change the things in `[brackets]`!
+
 ----
 
   FROM: [your name]
