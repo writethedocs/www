@@ -1,47 +1,46 @@
 name: Portland
 
-shortcode: portland # prague australia?
+shortcode: prague # prague australia?
+templatecode: eu # HACK
 year: 2018
-city: Portland
-area: North American
-tz: PST
+city: Prague
+area: European
+tz: CEST
+email: prague@writethedocs.org
 
 tickets:
+  community:
+    price: FIXME
   corporate:
-    price: 450
-    url: https://ti.to/writethedocs/write-the-docs-portland-2018/with/wsueeqqxqj4
+    price: FIXME
   independent:
-    price: 250
-    url: https://ti.to/writethedocs/write-the-docs-portland-2018/with/35geyrs9lhy
+    price: FIXME
   student:
-    price: 250
-    url: https://ti.to/writethedocs/write-the-docs-portland-2018/with/9fbv2axnyuk
+    price: FIXME
 
 date: # how do we handle these? human readable would be nice.
-  main: "**May 6-8, 2018, in Portland, Oregon**"
+  main: "**September 9-11, 2018, in Prague, Czechia**"
   tickets_live: "January 2018"
   month: May
   sat: 5
 
-
 about:
   summary:
-    "The main presentation track takes place from **May 7-8 (Monday and Tuesday) from 9am to 6pm**.
-    We will return to the historic `Crystal Ballroom <http://www.mcmenamins.com/CrystalBallroom>`_, `centrally located <http://goo.gl/maps/D2WrJ>`_ in the heart of Portland.
-    During the main event we also run an :doc:`/conf/portland/2018/unconference` downstairs in Lola's Room.
+    "The main presentation track takes place from **September 9-11 (Monday and Tuesday) from 10:00 to 18:00**.
+    During the main event we also run an :doc:`/conf/portland/2018/unconference`.
 
-    You can find out more information about the venue and its accessibility on our :doc:`/conf/portland/2018/venue` page."
+    You can find out more information about the venue and its accessibility on our :doc:`/conf/prague/2018/venue` page."
   location:
-    "Crystal Ballroom located at 1332 W Burnside St"
+    "TBA"
 
 cfp:
-  url: https://docs.google.com/forms/d/e/1FAIpQLSdb-MNRT3TdDTuVIcf-3lZRWDOgguZfjatLr-HLN5ngx5t04w/viewform
-  ends: "January 10, 2018"
-  notification: "end of January"
+  url: FIXME
+  ends: FIXME
+  notification: FIXME
 
 
 flagspeakersannounced: False
-flagcfp: True
-flagticketsonsale: True
-flaghashike: True
-flaghasboat: False
+flagcfp: False
+flagticketsonsale: False
+flaghashike: False
+flaghasboat: True
