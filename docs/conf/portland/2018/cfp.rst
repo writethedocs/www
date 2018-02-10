@@ -4,16 +4,16 @@
 Call for Proposals
 ==================
 
-Hello hello, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next North American conference, coming up on **May 6-8, 2018, in Portland, Oregon**.
+Hello hello, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{area}} conference, coming up on {{date.main}}.
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you’ve worked on documentation for decades or you’ve just started this year, we want to hear from
 you! Read on to learn more about the goals of the conference and what we look for in talk proposals.
 
 In the meantime, mark your calendars:
 
-**The deadline for submitting proposals is Midnight PST on January 10, 2018.**
+**The deadline for submitting proposals is Midnight {{TZ}} on {{cfp.ends}}.**
 
-We'll let you know if your proposal has been accepted by the end of January.
+We'll let you know if your proposal has been accepted by the {{cfp.notification}}.
 
 Conference goals
 ----------------
@@ -77,18 +77,18 @@ If you are selected to speak at Write the Docs, we will waive your attendance fe
 
 If your proposal is accepted but you are unable to attend due to travel costs, please let us know and we will do our best to help make it happen.
 
-**You’ll hear from us with our proposal decisions by the end of January 2018.**
+**You’ll hear from us with our proposal decisions by the end of {{cfp.notification}}.**
 
 Questions?
 ----------
 
-If you have any questions, please email us at `portland@writethedocs.org <mailto:portland@writethedocs.org>`_ and let us know.
+If you have any questions, please email us at `{{email}} <mailto:{{email}}>`_ and let us know.
 
 Submit your proposal
 --------------------------
 
 .. raw:: html
 
-	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdb-MNRT3TdDTuVIcf-3lZRWDOgguZfjatLr-HLN5ngx5t04w/viewform?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+	<iframe src="{{cfp.url}}?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-You can also view `our CFP <https://docs.google.com/forms/d/e/1FAIpQLSdb-MNRT3TdDTuVIcf-3lZRWDOgguZfjatLr-HLN5ngx5t04w/viewform>`_ in its own page.
+You can also view `our CFP <{{cfp.url}}>`_ in its own page.

@@ -81,4 +81,26 @@ gulp
 This has to be used alongside the sphinx server and it will
 automatically minify all the content in your `.scss` files to the
 `main.min.css` file. Also gulp will be running  browserify allowing you
-to see the css changes inmediatelly in the browser. 
+to see the css changes inmediatelly in the browser.
+
+### Generating new conf pages
+
+#### Copy
+
+#### Config YAML
+
+#### Search and replace
+
+Search and replace any year specific stuff (CAREFUL)
+```
+:template: 2018/na/
+```
+
+Manually update any FIXME comments
+```
+.. FIXME
+```
+
+```
+.. TODO
+```
