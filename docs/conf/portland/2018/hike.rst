@@ -1,4 +1,4 @@
-:template: 2018/na/generic.html
+:template: {{year}}/{{templatecode}}/generic.html
 :banner: _static/2018/assets/headers/hike.png
 
 Write the Docs Hike

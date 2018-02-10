@@ -1,4 +1,4 @@
-:template: 2018/na/generic.html
+:template: {{year}}/{{templatecode}}/generic.html
 
 Join our mailing list
 =====================

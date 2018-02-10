@@ -1,5 +1,5 @@
-:template: 2018/na/generic.html
-:banner: _static/2018/assets/headers/team.png
+:template: {{year}}/{{templatecode}}/generic.html
+:banner: _static/{{year}}/assets/headers/team.png
 
 About the Conference
 ====================

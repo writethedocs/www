@@ -1,6 +1,7 @@
 name: Portland
 
 shortcode: portland # prague australia?
+templatecode: na # HACK
 year: 2018
 city: Portland
 area: North American # European Australian
