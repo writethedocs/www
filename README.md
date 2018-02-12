@@ -15,7 +15,7 @@ You'll probably need `root` privileges to install the prerequisites.
    1. download and install [pip](https://pip.pypa.io/en/stable/installing/).
    2. install `virtualenv` using your package manager.
 
-3. By default, `virtualenv` uses the Python interpreter that it was installed with. If necessary, run `virtualenv --python=/usr/bin/python2.7 <path/to/new/virtualenv>` to have `virtualenv` use the 2.7 interpreter.
+3. If you have already been using `virtualenv` with a different version of Python, you may need to run `virtualenv --python=/usr/bin/python2.7 <path/to/new/virtualenv>` to have `virtualenv` use the 2.7 interpreter.
 
 ### Installing the project requirements
 
@@ -65,8 +65,7 @@ and instructions on how to update it are in the [`README.md`](https://github.com
 
 ### Updating CSS for the 2018 Theme
 
-The website for 2018 uses SASS to compile all the assets it has. In
-order to modify the theme, you must first install the dependencies of
+The website for 2018 uses SASS to compile all the assets it has. To modify the theme, you must first install the dependencies of
 `gulp`. In the main directory, run:
 
 ```
