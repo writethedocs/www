@@ -373,34 +373,6 @@
     website: thursdaybram.com
   title: What They Don't Tell You About Creating New Style Guides
   year: 2018
-- abstract: "<p>We all want to create docs that help our users. We know good research\
-    \ helps us to give our readers what they need and poor research can weaken our\
-    \ docs so it\u2019s time to step up our research game. </p>\n<p>Grounded in the\
-    \ things I\u2019ve learnt (read: mistakes I\u2019ve made) from my time writing\
-    \ open source documentation for the UK government at Government Digital Service\
-    \ (GDS), this talk will look at: </p>\n<ul>\n<li>deciding what - and how - to\
-    \ research</li>\n<li>interviewing, simulation and content evaluation techniques</li>\n\
-    <li>distinguishing user \u2018needs\u2019 from \u2018wants\u2019</li>\n<li>how\
-    \ the Hawthorne effect can influence research</li>\n<li>how to feed findings into\
-    \ product and content development </li>\n</ul>\n<p>Throughout it all, we\u2019\
-    ll cover strategies to avoid common pitfalls, how to avoid users telling you what\
-    \ you want to hear, how to manage research with no extra budget and, when it\u2019\
-    s all done, how to turn all that qualitative data into tangible content changes\
-    \ that have a genuine impact for users. </p>"
-  event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/research-like-you-re-wrong-lessons-from-user-research-gone-rogue-jen-lambourne
-  series: Write the Docs PORTLAND
-  series_slug: portland
-  slug: research-like-you-re-wrong-lessons-from-user-research-gone-rogue-jen-lambourne
-  speakers:
-  - details: ''
-    img_file: missing.jpg
-    name: Jen Lambourne
-    slug: jen-lambourne
-    twitter: Jenny__Anne
-    website: ''
-  title: "Research like you\u2019re wrong: Lessons from user research gone rogue "
-  year: 2018
 - abstract: <p>There are multiple reasons to use screenshots, from introducing new
     features and helping confirm the context of content to simply breaking up walls
     of text. However, screenshots can carry a lot of overhead, including localization
