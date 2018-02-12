@@ -113,6 +113,18 @@ html_context = {
 }
 
 
+def trans():
+    from .ext.speakers import *
+    from .ext.core import *
+    import yaml
+
+    conference_data = load_conference_data()
+    dat = conference_data[2018]['portland']['speakers']
+    transform_speakers(dat)
+    yaml.safe_dump(dat, open('_data/2018.portland.speakers.yaml'), default_flow_style=False)
+
+trans()
+
 def setup(app):
     app.connect('html-page-context', override_page_template)
     app.connect("source-read", rstjinja)
