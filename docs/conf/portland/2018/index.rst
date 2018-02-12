@@ -1,7 +1,7 @@
 :template: 2018/na/index.html
 :orphan:
 
-.. Left blank as all content is in the index.html file
+.. Left blank as all content is in the index.html file apart from news and speaker datatemplates
 
 .. raw:: html
 
@@ -46,7 +46,6 @@
 
     </div>
   </div><!--- end news block -->
-
 
 .. datatemplate::
    :source: /_data/2018.portland.speakers.yaml
