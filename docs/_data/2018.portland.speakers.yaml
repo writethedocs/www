@@ -29,10 +29,7 @@
     \ with a list of stakeholders to meet, a list of issues to learn about from those\
     \ stakeholders, a list of questions to start your conversations with, and a list\
     \ of general guidelines to apply in the event you can\u2019t get everything you\
-    \ need in time.</p>\n<p>(The talk is an updated and edited version of a Webinar\
-    \ I gave for the STC in 2016. The slides for that 60-min webinar are at http://docsbydesign.com/wp-content/uploads/2017/07/Audience-Market-Product_stc.pptx\
-    \ and can give you a more detailed view of the topic. For Write-the-docs, the\
-    \ presentation will be edited down to fit the 30-minute time-slot)</p>"
+    \ need in time.</p>"
   event: Write the Docs PORTLAND 2018
   path: conf/portland/2018/videos/audience-market-product-tips-for-strategic-api-documentation-planning-bob-watson
   series: Write the Docs PORTLAND
@@ -117,9 +114,9 @@
     \ this presentation, I\u2019ll explain the processes we\u2019re using, the hurdles\
     \ we\u2019re facing, and the solutions we\u2019ve devised thus far to make and\
     \ maintain code examples that really shine.</p>\n<p>Specific concepts covered\
-    \ include:\n- Defining a style guide for your code\n- Generating code examples\
-    \ programmatically \n- Testing examples to ensure they work\n- Using common snippets\
-    \ to save time\n- Enhancing examples for a better user experience</p>\n<p>Although\
+    \ include:\n<p><ul><li>Defining a style guide for your code</li>\n<li>Generating code examples\
+    \ programmatically \n<li>Testing examples to ensure they work</li>\n<li>Using common snippets\
+    \ to save time</li>\n<li>Enhancing examples for a better user experience</li></ul></p>\n<p>Although\
     \ we haven\u2019t solved all our problems in this area, we\u2019ve made great\
     \ progress with great results, and I look forward to sharing our best policies\
     \ and practices. </p>"
@@ -186,8 +183,7 @@
     \ working together. And I\u2019ll share the ways I\u2019ve found that people with\
     \ specialist writer skills (whether they\u2019re developers, tech writers, or\
     \ other roles) can make the biggest difference to user experience, and through\
-    \ that to their organisations.</p>\n<p>(I also have an outline of the full talk\
-    \ here, if that's helpful https://docs.google.com/document/d/1oB-onpmV4Nv4cfSdSU5x5Ol-4Z7_wjcAwxzD3IPkjH4/edit?usp=sharing)</p>"
+    \ that to their organisations.</p>"
   event: Write the Docs PORTLAND 2018
   path: conf/portland/2018/videos/who-writes-the-docs-beth-aitman
   series: Write the Docs PORTLAND
@@ -209,11 +205,11 @@
     \ in documenting yourself: your writing, your skill, your journey as a professional.\
     \ Like any other kind of documentation, it isn't easy or intuitive to create something\
     \ great. And like any other kind of documentation, it's worth doing the hard work\
-    \ to get it right.</p>\n<p>In this talk, I cover:\n\u2022   Why you need a portfolio\
-    \ even if you have a stable job \n\u2022   How to create a well-rounded portfolio\
-    \ and decide what\u2019s your best work\n\u2022   Strategies for adding proprietary\
-    \ work (legally!)\n\u2022   Options to present it that aren't just a series of\
-    \ email attachments</p>"
+    \ to get it right.</p>\n<p>In this talk, I cover:\n<ul><li>Why you need a portfolio\
+    \ even if you have a stable job</li>\n<li>How to create a well-rounded portfolio\
+    \ and decide what's your best work</li>\n<li>Strategies for adding proprietary\
+    \ work (legally!)</li>\n<li>Options to present it that aren't just a series of\
+    \ email attachments</li></ul></p>"
   event: Write the Docs PORTLAND 2018
   path: conf/portland/2018/videos/document-yourself-practical-tips-for-a-low-er-stress-portfolio-erin-grace
   series: Write the Docs PORTLAND
@@ -316,20 +312,7 @@
     \ of the docs you provide, you can learn how your users work with (and wish they\
     \ could work with) your docs.</p>\n<p>Along the way I\u2019ll share a few tips\
     \ about what worked well for us, what ideas didn\u2019t pan out, and some of the\
-    \ documentation principles we\u2019re now sold on.</p>\n<p>Broad outline:\n<em>\
-    \ Intro (2 mins)\n</em> We didn\u2019t know if our docs were actually serving\
-    \ our developers well (5 mins)\n<strong> Measurement of documentation is hard\n\
-    * Empathy-driven development: changing how we work (10 mins)\n</strong> Adding\
-    \ in-depth user experience research to the mix\n<strong> Iterative development:\
-    \ questioning assumptions\n</strong> Continuing to collect and examine feedback\
-    \ directly from developers on the docs\n<em> What we learned (12 mins)\n<strong>\
-    \ Continually validating the assumption that good code samples are the #1 thing\
-    \ that makes or breaks documentation for developers\n</strong> Developers are\
-    \ task-oriented\n<strong> Build docs for information foraging (aka \u201Cwe, as\
-    \ developers, don\u2019t like reading\u201D)\n</strong> A developer doesn\u2019\
-    t care if it\u2019s called a tutorial or a recipe: but the content type matters\n\
-    </em><em> If we care, first and foremost, about our developers\u2019 experience,\
-    \ business metrics will follow.\n</em>Conclusion (1 min)</p>"
+    \ documentation principles we\u2019re now sold on.</p>\n"
   event: Write the Docs PORTLAND 2018
   path: conf/portland/2018/videos/building-empathy-driven-developer-documentation-kat-king
   series: Write the Docs PORTLAND
@@ -372,10 +355,10 @@
     \ consistency, streamline onboarding, and even improve the documentation non-technical\
     \ writers create.</p>\n<p>Whether you're creating an internal style guide or a\
     \ commercially available reference, though, there are plenty of pitfalls. In this\
-    \ talk, we'll cover:\n<em> style guide assumptions (and how to avoid them)\n</em>\
-    \ jargon, slang, idioms, and other words with multiple meanings\n<em> inclusion,\
+    \ talk, we'll cover:\n<ul><li>style guide assumptions (and how to avoid them)</li>\n\
+    \ <li>jargon, slang, idioms, and other words with multiple meanings</li>\n<li>inclusion,\
     \ sensitivity readings, and generally making sure you know how other people hear\
-    \ terms\n</em> teaching style across a team</p>"
+    \ terms\n</li><li>teaching style across a team</li></ul></p>"
   event: Write the Docs PORTLAND 2018
   path: conf/portland/2018/videos/what-they-don-t-tell-you-about-creating-new-style-guides-thursday-bram
   series: Write the Docs PORTLAND
