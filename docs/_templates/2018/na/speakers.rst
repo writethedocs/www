@@ -1,10 +1,7 @@
-{# Set the `speakers` and `conf` variables before including this template #}
-
 {% for talk in data %}
 
 {% for speaker in talk.speakers %}
-.. _speaker-{{ conf }}-{{ speaker.slug }}:
-{{ conf }} {{ speaker.slug }}
+.. _speaker-portland-2018-{{ speaker.slug }}:
 {% endfor %}
 
 .. Comment to break up reference issues
