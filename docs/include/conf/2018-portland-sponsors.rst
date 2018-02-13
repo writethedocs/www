@@ -25,16 +25,31 @@
               <img src="/_static/img/sponsors/mozilla-new.png">
             </a>
           </div>
+
+          <div class="uk-width-1-2@s">
+            <a href="https://www.redhat.com/en">
+              <img src="/_static/img/sponsors/redhat.png">
+            </a>
+          </div>
+
           <div class="uk-width-1-2@s">
             <a href="https://www.kayako.com/">
                 <img src="/_static/img/sponsors/kayako.svg">
             </a>
           </div>
+
           <div class="uk-width-1-2@s">
               <a href="https://www.travis-ci.com/">
                   <img src="/_static/img/sponsors/travisci.png">
               </a>
           </div>
+
+          <div class="uk-width-1-2@s">
+              <a href="https://www.cisco.com/">
+                  <img src="/_static/img/sponsors/cisco.png">
+              </a>
+          </div>
+
           <div class="uk-width-1-2@s">
               <a href="https://www.stickermule.com/supports/opensource">
                   <img src="/_static/img/sponsors/stickermule.png">
