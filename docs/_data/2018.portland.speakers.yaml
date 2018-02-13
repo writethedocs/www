@@ -1,3 +1,27 @@
+- abstract: '<p>Before becoming a full-time software developer, I spent more than
+    twenty years working on dictionaries and other reference books. Reference books
+    and dictionaries have a lot of similarities with documentation: they''re both
+    genres of writing that aim to explain and educate, and are aimed at an audience
+    that is largely goal-oriented and impatient. In this talk, I''ll give a little
+    bit of background on how reference books (particularly dictionaries and thesauruses)
+    are made, talk about my experience in publishing has informed writing documentation
+    and tutorials (and working with Swagger/OpenAPI), and give some examples of habits
+    I had to un-learn, too! </p>'
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/what-writing-dictionaries-taught-me-about-writing-documentation-and-what-i-had-to-unlearn-erin-mckean
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: what-writing-dictionaries-taught-me-about-writing-documentation-and-what-i-had-to-unlearn-erin-mckean
+  speakers:
+  - details: ''
+    img_file: erin-mckean.jpg
+    name: Erin McKean
+    slug: erin-mckean
+    twitter: emckean
+    website: erinmckean.com
+  title: What Writing Dictionaries Taught Me About Writing Documentation (And What
+    I Had to Unlearn)
+  year: 2018
 - abstract: "<p>Ah, good old FAQs: the internet\u2019s native documentation format.\
     \ In this talk, we\u2019ll explore various questions we might frequently ask ourselves\
     \ about FAQs, such as:</p>\n<ul>\n<li>Why do readers always seem to want them\
@@ -292,30 +316,6 @@
     website: ''
   title: Building Empathy-Driven Developer Documentation
   year: 2018
-- abstract: '<p>Before becoming a full-time software developer, I spent more than
-    twenty years working on dictionaries and other reference books. Reference books
-    and dictionaries have a lot of similarities with documentation: they''re both
-    genres of writing that aim to explain and educate, and are aimed at an audience
-    that is largely goal-oriented and impatient. In this talk, I''ll give a little
-    bit of background on how reference books (particularly dictionaries and thesauruses)
-    are made, talk about my experience in publishing has informed writing documentation
-    and tutorials (and working with Swagger/OpenAPI), and give some examples of habits
-    I had to un-learn, too! </p>'
-  event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/what-writing-dictionaries-taught-me-about-writing-documentation-and-what-i-had-to-unlearn-erin-mckean
-  series: Write the Docs PORTLAND
-  series_slug: portland
-  slug: what-writing-dictionaries-taught-me-about-writing-documentation-and-what-i-had-to-unlearn-erin-mckean
-  speakers:
-  - details: ''
-    img_file: erin-mckean.jpg
-    name: Erin McKean
-    slug: erin-mckean
-    twitter: emckean
-    website: erinmckean.com
-  title: What Writing Dictionaries Taught Me About Writing Documentation (And What
-    I Had to Unlearn)
-  year: 2018
 - abstract: "<p>Style guides are a key tool for many documentarians \u2014 they guarantee\
     \ consistency, streamline onboarding, and even improve the documentation non-technical\
     \ writers create.</p>\n<p>Whether you're creating an internal style guide or a\
@@ -355,7 +355,7 @@
   slug: graphic-content-warning-the-pros-cons-and-alternatives-to-screenshots-steve-stegelin
   speakers:
   - details: ''
-    img_file: steve-stegelin.jpg
+    img_file: steve-stegelin.png
     name: Steve Stegelin
     slug: steve-stegelin
     twitter: Stegelin
