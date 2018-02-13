@@ -9,12 +9,14 @@
 
         {% for speaker in talk.speakers %}
         <div class="speaker">
-          <img class="uk-border-circle" src="/_static/img/speakers/{{ speaker.img_file }}">
+          <!-- <img class="uk-border-circle" src="/_static/img/speakers/{{ speaker.img_file }}"> -->
 
           <h3>{{ speaker.name }}</h3>
+          <h4>
           <a href="speakers#speaker-portland-2018-{{ speaker.slug }}">
-            <p>{{ talk.title }}</p>
+            {{ talk.title }}
           </a>
+          </h4>
           <!--
           <div class="contact-icon-list">
             <a href=""><img src="/_static/2018/assets/icons/twitter.svg"></a>

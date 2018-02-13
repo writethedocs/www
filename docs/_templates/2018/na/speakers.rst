@@ -12,7 +12,6 @@
     <article class="talk">
       {% for speaker in talk.speakers %}
       <div class="speaker-info">
-        <img src="/_static/img/speakers/{{ speaker.img_file }}" class="speaker-picture">
         <div class="speaker-contact-info">
             <h2 class="speaker-name">{{ speaker.name }}</h2>
             <!--

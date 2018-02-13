@@ -47,6 +47,7 @@
     </div>
   </div><!--- end news block -->
 
-.. datatemplate::
-   :source: /_data/2018.portland.speakers.yaml
-   :template: 2018/na/speakers-index.rst
+.. 
+  .. datatemplate::
+     :source: /_data/2018.portland.speakers.yaml
+     :template: 2018/na/speakers-index.rst
