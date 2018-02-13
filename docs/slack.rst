@@ -62,12 +62,11 @@ We have a few guidelines that we hope people will follow when interacting inside
 - **Be careful with jokes** - You know that you're joking, but some people might take you seriously.
 - **If you don't have anything nice to say, don't say anything at all** - Once again our parents were quite wise.
 
-Programmer Community Issues
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Online Community Issues
+~~~~~~~~~~~~~~~~~~~~~~~
 
-There is a specific set of behavior that is prevalent in developer communities that I'd like to address.
-There is a lot of cross-over,
-and I'd like to make sure we don't fall into these same traps.
+There is a specific set of behavior that is prevalent in online communities that I'd like to address.
+I'd like to make sure we don't fall into these same traps.
 
 In particular,
 please avoid these behaviors:
@@ -75,7 +74,7 @@ please avoid these behaviors:
 - **No Black Sheep** - There may be tools that you don't like. There is a good chance there is someone in the room who either helped create or likes to use that tool. Don't make them feel bad, they are likely just in a different context.
 - **Let Me Google That For You (LMGTFY)** - If people ask questions that are simple to answer on Google, still answer them nicely.
 - **Question Policing** - Some people might ask incomplete questions that are hard to answer. Ask follow up questions and act in good faith to help them solve their issues.
-- **Technology Pissing Contests** - We don't care if your tool is faster or better in some metric. We care about creating great documentation for our users.
+- **Technology Competitions** - We don't care if your tool is faster or better in some metric. We care about creating great documentation for our users.
 
 Reporting Issues
 ~~~~~~~~~~~~~~~~
