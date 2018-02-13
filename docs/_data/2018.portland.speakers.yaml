@@ -1,3 +1,50 @@
+- abstract: "<p>Ah, good old FAQs: the internet\u2019s native documentation format.\
+    \ In this talk, we\u2019ll explore various questions we might frequently ask ourselves\
+    \ about FAQs, such as:</p>\n<ul>\n<li>Why do readers always seem to want them\
+    \ even though they\u2019re routinely out of date?</li>\n<li>Why do some readers\
+    \ ignore our carefully crafted pages and use these giant walls of text as a starting\
+    \ point instead?</li>\n<li>What are some strategies for keeping FAQs up to date?</li>\n\
+    <li>What\u2019s the #1 thing FAQs do RIGHT?</li>\n<li>How can we make FAQs more\
+    \ user-friendly?</li>\n<li>Do we even actually need FAQs?</li>\n</ul>\n<p>(Caution:\
+    \ May contain opinions.)</p>"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/the-facts-about-faqs-ashleigh-rentz
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: the-facts-about-faqs-ashleigh-rentz
+  speakers:
+  - details: ''
+    img_file: ashleigh-rentz.jpg
+    name: Ashleigh Rentz
+    slug: ashleigh-rentz
+    twitter: technicalleigh
+    website: ''
+  title: The Facts About FAQs
+  year: 2018
+- abstract: "<p>Our team has the classic documentation problem--a huge backlog of\
+    \ work and not enough writers. Enter the documentation internship program, which\
+    \ connected us with junior and aspiring technical writers and got us headcount\
+    \ fast.</p>\n<p>This talk will teach you how we recruited, interviewed, and hired\
+    \ inexperienced writers, and taught them the basics of technical writing\u2026\
+    \ all without damaging our velocity. </p>\n<p>I\u2019ll focus specifically on\
+    \ how our job pitch got us applicants from a wide array of backgrounds, from screenwriters\
+    \ to college students, how we made sense of the answers we got through an unpredictable\
+    \ set of interviews, and how we onboarded writers with strong skills and aptitude,\
+    \ but no real-world experience.</p>"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/starting-from-scratch-finding-and-hiring-junior-writers-sarah-day
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: starting-from-scratch-finding-and-hiring-junior-writers-sarah-day
+  speakers:
+  - details: ''
+    img_file: sarah-day.jpg
+    name: Sarah Day
+    slug: sarah-day
+    twitter: scribblingfox
+    website: ''
+  title: 'Starting from Scratch: Finding and Hiring Junior Writers'
+  year: 2018
 - abstract: "<p>API documentation can been grouped into four classes\u2014Overviews,\
     \ Tutorials, How-to topics, and References. Each addresses a different customer\
     \ need and each requires different amounts of time and types of resources to produce.\
@@ -7,29 +54,7 @@
     \ written and which topics to write first?</p>\n<p>This talk provides guidance\
     \ and encouragement to technical writers to help them get the information they\
     \ need to strategically get the right docs to the right people at the right time\u2014\
-    and learn a little bit more about their stakeholders along the way.</p>\n<p>\u201C\
-    Understanding the audience\u201D is rule number one in technical writing, yet\
-    \ the methods for how to gain that understanding are often left to chance or gained\
-    \ only through experience. In addition to understanding the audience, however,\
-    \ certain elements of the audience\u2019s context must also be considered by technical\
-    \ writers.</p>\n<p>The Audience-Market-Product framework helps jump-start the\
-    \ process of understanding the audience and their context by identifying the key\
-    \ concepts you need to know as a technical writer and the questions you should\
-    \ ask to understand how those concepts will influence your API documentation.\
-    \ Knowing the right questions to ask helps you quickly obtain the context and\
-    \ understanding necessary to make informed, strategic decisions about API documentation\
-    \ content priorities and explain those decisions to your stakeholders. In this\
-    \ talk, I discuss how the Audience, Market, and Product influence API documentation\
-    \ development priorities. I also provide some of the questions to ask so you can\
-    \ understand those influences without the need to spend years learning them through\
-    \ experience.</p>\n<p>Understanding that in the real world, you can\u2019t always\
-    \ get all the information you need when you need it, I provide some general guidelines\
-    \ for each aspect to use as a backup when all else fails and you need to make\
-    \ a decision with incomplete information. </p>\n<p>You will leave the presentation\
-    \ with a list of stakeholders to meet, a list of issues to learn about from those\
-    \ stakeholders, a list of questions to start your conversations with, and a list\
-    \ of general guidelines to apply in the event you can\u2019t get everything you\
-    \ need in time.</p>"
+    and learn a little bit more about their stakeholders along the way.</p>\n"
   event: Write the Docs PORTLAND 2018
   path: conf/portland/2018/videos/audience-market-product-tips-for-strategic-api-documentation-planning-bob-watson
   series: Write the Docs PORTLAND
@@ -53,33 +78,20 @@
 
     <li>Just ask. The idea for this talk started during the WTD hike in 2016, when
     Jacob Moses started asking about my work. Later he asked me to be a guest on his
-    podcast to discuss how to future proof yourself as a tech writer.  The idea of
-    being bold and just asking people, as Jacob did, is one of the most important
-    things you can do.  I''ll share a few of my favorite questions.</li>
+    podcast to discuss how to future proof yourself as a tech writer.</li>
 
-    <li>Then, listen with an open heart and mind. Give your full attention. It''s
-    hard but it gets easier the more you practice.</li>
+    <li>Then, listen with an open heart and mind. Give your full attention.</li>
 
     <li>Tell stories.  This applies to everything you do.  Even your automatic email
-    reply.  Pay attention to how you start. Newspaper articles frequently start with
-    an anecdote. When you tell a story, adjust how you begin for the audience, providing
-    a high level clue-in as needed.  Storytelling is one of the most important skills
-    you can learn. I''ll include resources at the end.</li>
+    reply.</li>
 
     <li>Own your stuff. One of my former colleagues always had an excuse why he couldn''t
-    do something because someone else hadn''t come through. As tech writers, sometimes
-    we feel like we are at the end of the chain. A key realization is that you own
-    your docs like a developer owns their code. You make the final decisions.  A writer
-    asking "should the docs say x or y" is like a reporter asking "should the story
-    say x or y" Instead, ask for input, own the output.</li>
+    do something because someone else hadn''t come through.</li>
 
-    <li>Find go-to people. There is a doc-friendly person in every group. If they''re
-    willing, have them review your doc first.</li>
+    <li>Find go-to people. There is a doc-friendly person in every group.</li>
 
     <li>Minimum viable is your friend.  Use the "just send me something" gambit, with
-    the caveat that it doesn''t have to be perfect. When emailing on a tech review,
-    instead of asking questions about the doc, put the actual text in the mail and
-    iterate on that.   Include your default course of action in the event of no reply.
+    the caveat that it doesn''t have to be perfect.
     </li>
 
     <li>Always keep learning. Have a preferred super tool for automating stuff.  Learn
@@ -223,53 +235,6 @@
     twitter: erin_rtfm
     website: https://www.readthefriendlymanual.com/
   title: 'Document Yourself: Practical Tips for a Low(er)-Stress Portfolio'
-  year: 2018
-- abstract: "<p>Our team has the classic documentation problem--a huge backlog of\
-    \ work and not enough writers. Enter the documentation internship program, which\
-    \ connected us with junior and aspiring technical writers and got us headcount\
-    \ fast.</p>\n<p>This talk will teach you how we recruited, interviewed, and hired\
-    \ inexperienced writers, and taught them the basics of technical writing\u2026\
-    \ all without damaging our velocity. </p>\n<p>I\u2019ll focus specifically on\
-    \ how our job pitch got us applicants from a wide array of backgrounds, from screenwriters\
-    \ to college students, how we made sense of the answers we got through an unpredictable\
-    \ set of interviews, and how we onboarded writers with strong skills and aptitude,\
-    \ but no real-world experience.</p>"
-  event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/starting-from-scratch-finding-and-hiring-junior-writers-sarah-day
-  series: Write the Docs PORTLAND
-  series_slug: portland
-  slug: starting-from-scratch-finding-and-hiring-junior-writers-sarah-day
-  speakers:
-  - details: ''
-    img_file: sarah-day.jpg
-    name: Sarah Day
-    slug: sarah-day
-    twitter: scribblingfox
-    website: ''
-  title: 'Starting from Scratch: Finding and Hiring Junior Writers'
-  year: 2018
-- abstract: "<p>Ah, good old FAQs: the internet\u2019s native documentation format.\
-    \ In this talk, we\u2019ll explore various questions we might frequently ask ourselves\
-    \ about FAQs, such as:</p>\n<ul>\n<li>Why do readers always seem to want them\
-    \ even though they\u2019re routinely out of date?</li>\n<li>Why do some readers\
-    \ ignore our carefully crafted pages and use these giant walls of text as a starting\
-    \ point instead?</li>\n<li>What are some strategies for keeping FAQs up to date?</li>\n\
-    <li>What\u2019s the #1 thing FAQs do RIGHT?</li>\n<li>How can we make FAQs more\
-    \ user-friendly?</li>\n<li>Do we even actually need FAQs?</li>\n</ul>\n<p>(Caution:\
-    \ May contain opinions.)</p>"
-  event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/the-facts-about-faqs-ashleigh-rentz
-  series: Write the Docs PORTLAND
-  series_slug: portland
-  slug: the-facts-about-faqs-ashleigh-rentz
-  speakers:
-  - details: ''
-    img_file: ashleigh-rentz.jpg
-    name: Ashleigh Rentz
-    slug: ashleigh-rentz
-    twitter: technicalleigh
-    website: ''
-  title: The Facts About FAQs
   year: 2018
 - abstract: "<p>Congratulations! Someone realizes your awesome product needs equally\
     \ awesome documentation, and you\u2019ve earned the job! It\u2019s an exciting\
