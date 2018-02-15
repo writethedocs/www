@@ -11,7 +11,7 @@ Guides often help writers focus on the different readers of technical documentat
 
 Many focus on the language itself (tone, style, grammar).
 
-Others go beyond the content and discuss the organisation of the documentation, providing best practices on how to manage your content, version control, or publication and delivery strategies. While this is not what we focus on in our style guuide, how your documentaion is organized, and how easy it is for your readers to find what they are looking for, can be as imporant as the content itself.
+Others go beyond the content and discuss the organisation of the documentation, providing best practices on how to manage your content, version control, or publication and delivery strategies. While this is not what we focus on in our style guide, how your documentaion is organized, and how easy it is for your readers to find what they are looking for, can be as imporant as the content itself.
 
 ## Why do I need a style guide?
 A practical reason to use a style guide is that they help you write content. Human languages are extremely flexible, and there are many ways in which a particular message can be communicated. By following a style guide you limit the variation, making it easier for you to focus on getting your message across. This makes style guides extremely useful for people joining projects.
