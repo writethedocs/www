@@ -53,7 +53,7 @@ We are so grateful to have our sponsors help in bringing these events to life ev
 `Cisco DevNet <https://www.cisco.com/>`_
 `StickerMule <https://www.stickermule.com/supports/opensource>`_
 
-Want to lend a hand? Head over to our `sponsorship prospectus <http://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/>`_ for details on how your company can get involved! We have several types of sponsorship available, including the option to participate in a new job fair that we'll be hosting on Sunday. 
+Want to lend a hand? Head over to our `sponsorship prospectus <http://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/>`_ for details on how your company can get involved! We have several types of sponsorship available, including the option to participate in a new job fair that we'll be hosting on Tuesday. 
 
 And that's the latest on the Portland conference. We hope you're all getting as excited as we are! Stay tuned for more details.
 
