@@ -371,3 +371,18 @@
     website: https://camilleacey.com
   title: 'Rewrite the Docs!: Field Notes from the Radical IT department'
   year: 2018
+- abstract: "<p>You have an idea for the next great technical book. Maybe you're excited about a new technology that nobody's written about yet. Maybe you're unimpressed with the books that are out there on your favorite topic. Maybe writing a book is on your bucket list. This session will help your idea reach its potential as a published book. Technical publishing is an opaque process with a lot of moving parts, which can be confusing for outsiders to navigate. This session will guide you through the steps you should take to turn an idea into a proposal that a publisher will accept, and what to expect from the publishing experience.</p>
+<p>Creating a great technical book takes more than a good idea. It also requires a knowledge of the market, to determine whether there's an audience willing to buy, or whether the space is too crowded to accept new entries. Publishers vary in their approach and target markets, so you need to determine which one will provide the best chance of success. Self-publishing is an option, but carries its own risks and benefits. Doing the setup work that you may not have thought about yet will help you create a proposal that will appeal to publishers, and will also make the writing process easier.</p>
+<p>Once you have a contract with a publisher, or have decided to self-publish, it's more than just a matter of putting the words in order. Finding the right environment, setting a schedule, and communicating with your editor are all critical to success. This session will explain how the process works, highlight the parts you may not know, and give you advice on how not to get overwhelmed by your project.</p>"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/writing-the-next-great-tech-book-brian-macdonald
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: writing-the-next-great-tech-book-brian-macdonald
+  speakers:
+  - details: ''
+    img_file: brian-macdonald
+    name: Brian MacDonald
+    slug: brian-macdonald
+  title: 'Writing the Next Great Tech Book '
+  year: 2018
