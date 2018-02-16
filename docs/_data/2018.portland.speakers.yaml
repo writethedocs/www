@@ -93,41 +93,17 @@
     website: http://docsbydesign.com/
   title: 'Audience, Market, Product: Tips for strategic API documentation planning'
   year: 2018
-- abstract: '<p>In this talk, I''ll provide eight essential tips that will help you
-    become a more effective tech writer. These are core principles that have guided
-    me during almost two decades in the business. Here they are, distilled down into
-    a half hour of concentrated fun:</p>
-
-    <ol>
-
-    <li>Just ask. The idea for this talk started during the WTD hike in 2016, when
-    Jacob Moses started asking about my work. Later he asked me to be a guest on his
-    podcast to discuss how to future proof yourself as a tech writer.</li>
-
-    <li>Then, listen with an open heart and mind. Give your full attention.</li>
-
-    <li>Tell stories.  This applies to everything you do.  Even your automatic email
-    reply.</li>
-
-    <li>Own your stuff. One of my former colleagues always had an excuse why he couldn''t
-    do something because someone else hadn''t come through.</li>
-
-    <li>Find go-to people. There is a doc-friendly person in every group.</li>
-
-    <li>Minimum viable is your friend.  Use the "just send me something" gambit, with
-    the caveat that it doesn''t have to be perfect.
-    </li>
-
-    <li>Always keep learning. Have a preferred super tool for automating stuff.  Learn
-    by incremental doing.</li>
-
-    <li>Say yes. Seize the moment when your manager says who wants to do the new task.  Cultivate
-    an up for anything mindset.  Help others learn and succeed.</li>
-
-    </ol>
-
-    <p>A tiny but mighty bonus tip: Give praise.  Highest benefit to cost ratio you''ll
-    ever see.</p>'
+- abstract: "<p>These core principles have guided me during my (almost) two decades in the business. I'll share some real-world stories to show what kind of results you can expect.</p>
+<p>The tips:<ul>
+<li>Just ask.</li>
+<li>Listen fully.</li>
+<li>Tell stories.</li>
+<li>Own your stuff.</li>
+<li>Find go-to people.</li>
+<li>inimum viable is your friend.</li>
+<li>Always keep learning.</li>
+<li>Say yes.</li></ul></p>
+<p>There might even be a surprise bonus tip. This talk is for all documentarians, with a slight skew to those newer to the discipline.</p>"
   event: Write the Docs PORTLAND 2018
   path: conf/portland/2018/videos/eight-essential-tips-for-the-enlightened-tech-writer-ted-hudek
   series: Write the Docs PORTLAND
