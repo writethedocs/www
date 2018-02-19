@@ -35,13 +35,24 @@ sponsorship:
   lanyard:
     price: TBD
   writing_day:
-    price: TBD  
+    price: TBD
 
 date: # how do we handle these? human readable would be nice.
   main: "**September 9-11, 2018, in Prague, Czechia**"
   tickets_live: "January 2018"
-  month: May
-  sat: 5
+  month: September
+  day_one:
+    date: 8
+    dotw: Saturday
+  day_two:
+    date: 9
+    dotw: Sunday
+  day_three:
+    date: 10
+    dotw: Monday
+  day_four:
+    date: 11
+    dotw: Tuesday
 
 about:
   summary:

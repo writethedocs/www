@@ -12,8 +12,10 @@ Each year we organize a wide range of events so that people can come together, c
     :depth: 1
     :backlinks: none
 
-Saturday, May 5
+{{date.day_one.dotw}}, {{date.month}} {{date.day_one.date}}
 ---------------
+
+{% if flaghashike %}
 
 Hike
 ~~~~
@@ -25,10 +27,23 @@ If you get into town early, join us on the hike and take the chance to explore P
 * **When**: 13:45
 * **Details**: :doc:`Annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/hike>`
 
-Sunday, May 6
+{% endif %}
+
+{% if flaghasboat %}
+
+Boat tour
+~~~~~~~~~
+
+The only event scheduled on Saturday is the :doc:`Boat Tour of Prague </conf/eu/2017/boat>`.
+If you get into town early, join us and experience Prague from the water.
+
+{% endif %}
+
+
+{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}}
 -------------
 
-The Writing Day and Welcome Reception will be held at the **Crystal Ballroom located at 1332 W Burnside St**.
+The Writing Day and Welcome Reception will be held at the **{{location}}**.
 
 .. contents::
     :local:
@@ -52,7 +67,7 @@ We'll also help groups organize dinner plans, so you can continue your conversat
 * **When**: **5pm-8pm**
 * **Details**: TBA
 
-Monday, May 7
+{{date.day_three.dotw}}, {{date.month}} {{date.day_three.date}}
 -------------
 
 .. contents::
@@ -97,7 +112,7 @@ There will be light snacks and drinks available on the conference while our tab 
 * **When**: **7pm-23pm**
 * **Details**: TBA
 
-Tuesday, May 8
+{{date.day_four.dotw}}, {{date.month}} {{date.day_four.date}}
 --------------
 
 .. contents::

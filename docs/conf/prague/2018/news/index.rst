@@ -10,5 +10,4 @@ More here as it happens!
    :date: %A, %B %d, %Y
    :format: {title} - {date}
    :list-style: none
-   :tags: portland-2018
-     
+   :tags: prague-2018
