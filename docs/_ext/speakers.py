@@ -7,6 +7,7 @@ since this was before the time of data tempaltes
 """
 
 import os
+import yaml
 
 from .core import slugify, load_yaml, load_conference_data
 
@@ -82,3 +83,14 @@ def transform_speakers(speakers):
                 speaker['img_file'] = '%s.png' % speaker['slug']
             else:
                 speaker['img_file'] = 'missing.jpg'
+
+
+def trans():
+    """ 
+    Optionally transform speaker data for new confs
+    """
+
+    conference_data = load_conference_data()
+    dat = conference_data[2018]['portland']['speakers']
+    transform_speakers(dat)
+    yaml.safe_dump(dat, open('_data/2018.portland.speakers.yaml', 'w+'), default_flow_style=False)

@@ -6,7 +6,9 @@ Conference Speakers
 
 {% if flagspeakersannounced %}
 
-.. TODO template code here
+.. datatemplate::
+   :source: /_data/{{year}.{{city}.speakers.yaml
+   :template: {{year}/{{templatecode}}/speakers.rst
 
 {% else %}
   Nothing to see yet.
