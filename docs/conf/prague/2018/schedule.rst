@@ -10,6 +10,7 @@ Each year we organize a wide range of events so that people can come together, c
 .. contents::
     :local:
     :depth: 1
+    :backlinks: none
 
 Saturday, May 5
 ---------------
@@ -31,6 +32,7 @@ The Writing Day and Welcome Reception will be held at the **Crystal Ballroom loc
 
 .. contents::
     :local:
+    :backlinks: none
 
 Writing Day
 ~~~~~~~~~~~
@@ -55,6 +57,7 @@ Monday, May 7
 
 .. contents::
     :local:
+    :backlinks: none
 
 This is the main event! Hear from lots of interesting folks about all things documentation.
 We will have talks all day on the main stage, and a unconference session running in parallel in the afternoon at Lola's Room.
@@ -99,6 +102,7 @@ Tuesday, May 8
 
 .. contents::
     :local:
+    :backlinks: none
 
 And the conference goes on!
 

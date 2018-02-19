@@ -10,13 +10,32 @@ email: prague@writethedocs.org
 
 tickets:
   community:
-    price: FIXME
+    price: €500
   corporate:
-    price: FIXME
+    price: €250
   independent:
-    price: FIXME
+    price: €150
   student:
-    price: FIXME
+    price: €100
+
+sponsorship:
+  first_draft:
+    price: €500
+  second_draft:
+    prices: €1000
+  publisher:
+    price: €3000
+  patron:
+    price: €6000
+  keystone:
+    price: €12000
+  job_fair:
+    price: €800
+    half: €400
+  lanyard:
+    price: TBD
+  writing_day:
+    price: TBD  
 
 date: # how do we handle these? human readable would be nice.
   main: "**September 9-11, 2018, in Prague, Czechia**"
