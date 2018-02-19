@@ -66,16 +66,16 @@ If you are joining in the hike on Saturday, you'll meet the other hikers at the 
 How should I get around?
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Portland is a very walk-able town. Most of the events and `the suggested hotels <http://www.writethedocs.org/conf/portland/2018/visiting/>`__ are within walking distance of the conference venue, the Crystal Ballroom.
+-  Portland is a very walk-able town. Most of the events and `the suggested hotels <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`__ are within walking distance of the conference venue, the Crystal Ballroom.
 
--  There are good public transportation options and taxi services. Check out the `Visiting Portland section of the Write the Docs website <http://www.writethedocs.org/conf/portland/2018/visiting/>`__ for more info.
+-  There are good public transportation options and taxi services. Check out the `Visiting Portland section of the Write the Docs website <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`__ for more info.
 
 How should I dress?
 ~~~~~~~~~~~~~~~~~~~
 
 -  Portland is a casual-dress town and so is the Write the Docs conference. You'll be meeting business colleagues at this conference, though, so neat and comfortable are good dress guidelines.
 
--  If you are going on the `Write the Docs hike on Saturday <http://www.writethedocs.org/conf/portland/2018/hike/>`__, be sure
+-  If you are going on the `Write the Docs hike on Saturday <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/hike/>`__, be sure
    to bring appropriate hiking clothes and shoes. This time of year, the Pacific Northwest tends to be muddy or raining with occasional swaths of blue skies. Layering is usually the way to go.
 
 What will I eat?
@@ -84,7 +84,7 @@ What will I eat?
 -  Drinks and food are provided for you on conference days, so you can focus on the talks and meeting people and don't have to worry about where to get your morning coffee.
 -  Coffee, tea, and water are always available in the Crystal Ballroom. Bring a water bottle to make it easier for you to stay hydrated.
 -  Food is provided on Monday and Tuesday in the Crystal Ballroom. There is a light breakfast, a solid lunch, and snacks on each conference day.
--  On Saturday, Sunday, and in the evening on Monday and Tuesday, `explore Portland's amazing food scene <http://www.writethedocs.org/conf/portland/2018/visiting/>`__. Invite someone you just met to join you! If you are invited to dinner, say yes! Making connections over dinner is a great way to get to know more people.
+-  On Saturday, Sunday, and in the evening on Monday and Tuesday, `explore Portland's amazing food scene <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`__. Invite someone you just met to join you! If you are invited to dinner, say yes! Making connections over dinner is a great way to get to know more people.
 -  If you need grocery items, there is a Whole Foods just down the street from the conference venue at 1210 NW Couch St, Portland, OR 97209.
 
 Where should I sit?
@@ -97,7 +97,7 @@ Where should I sit?
 What should I do during the talks?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:doc:`/conf/portland/2018/speakers/`
+:doc:`/conf/{{shortcode}}/{{year}}/speakers/`
 
 -  The time between talks is for meeting your colleagues or taking a break. During the talks, listen and take in as much as you can.
 -  There is a lot of great information at this conference, but don't worry if you miss something! All talks are recorded and videos will be published shortly after the conference, so you can review them later.
@@ -110,7 +110,7 @@ How do I take part in the unconference?
 -  Check the schedule posted in Lola's Room for the table number of the unconference talk you are interested in. Head to that table and have a seat.
 -  The session leader will begin when the group has gathered.
 -  Feel free to just listen or add your voice to the discussion. Unconference talks are designed to get everyone involved.
--  The unconference is a set of informal sessions that take place below the Crystal Ballroom in Lola's Room on Monday and Tuesday afternoons. `Unconference talks focus on exchanges of ideas between participants. <http://www.writethedocs.org/conf/portland/2018/unconference/>`__
+-  The unconference is a set of informal sessions that take place below the Crystal Ballroom in Lola's Room on Monday and Tuesday afternoons. `Unconference talks focus on exchanges of ideas between participants. <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/unconference/>`__
 -  You can attend unconference sessions, or, if you have an idea for a session, you can lead one.
 -  To lead an unconference session, post a summary of your topic on a post-it note in an empty spot on the unconference schedule. Make your way down to Lola's Room a few minutes early to introduce yourself to anyone who is attending your session. Once the group has gathered, introduce your topic and get the discussion going.
 
@@ -120,7 +120,7 @@ What are lightning talks, and should I give one?
 -  A lightning talk is a five-minute talk where you quickly share a concept or bit of info you find interesting.
 -  Lightning talks are a great way to practice public speaking, get people excited about your unconference session, and test interest in a conference proposal idea.
 -  Do you have an idea, want to talk about a new tool you are learning, or review a process? Then, yes! Sign up for a lightning talk. There will be a sign-up sheet at registration.
--  If you are interested in giving a lightning talk, be prepared! There is a great guide `here <http://www.writethedocs.org/conf/portland/2018/lightning-talks/?highlight=re>`__.
+-  If you are interested in giving a lightning talk, be prepared! There is a great guide `here <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/?highlight=re>`__.
 
 How do I make the most out of this conference?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -130,7 +130,7 @@ Attend the Welcome Wagon events. Make connections with other first-time attendee
 The most important part of this conference (and any conference) is the people you meet. Set a goal for yourself to meet a few, new people. Here are some tips:
 
 -  Find out who is attending the conference before you get there. Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
-   and review the `list of speakers <http://www.writethedocs.org/conf/portland/2018/speakers/>`__.
+   and review the `list of speakers <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`__.
 -  Figure out which companies will be represented at the conference. If you see a job post you're interested in, you might want to ask them a few questions. This might be a great time to better understand what it's like to work at certain companies.
 -  Make a list of a few people you would like to meet, and write down some questions for them. If you can find contact information, email them before the conference and let them know you are looking forward to chatting.
 -  Most importantly, remember that you don't have to meet everyone. In fact, you shouldn't. You should plan to make a few, meaningful connections. That is what the Write the Docs conference is about, so go for it! Introduce yourself.

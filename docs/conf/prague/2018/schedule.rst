@@ -18,12 +18,12 @@ Saturday, May 5
 Hike
 ~~~~
 
-The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion </conf/portland/2018/hike>`.
+The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/hike>`.
 If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
 
 * **Where**: Lower Macleay Park or Macleay Park Entrance.
 * **When**: 13:45
-* **Details**: :doc:`Annual hike to Pittock Mansion </conf/portland/2018/hike>`
+* **Details**: :doc:`Annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/hike>`
 
 Sunday, May 6
 -------------
@@ -39,7 +39,7 @@ Writing Day
 
 * **Where**: Main stage, Crystal Ballroom
 * **When**: **9am-5pm**
-* **Details**: :doc:`Writing Day documentation sprints </conf/portland/2018/writing-day>`
+* **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
 Reception
 ~~~~~~~~~
@@ -81,7 +81,7 @@ The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: Lola's room, Crystal Ballroom
 * **When**: **1pm-5pm**
-* **Details**: :doc:`/conf/portland/2018/unconference`
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Monday Night Social
 ~~~~~~~~~~~~~~~~~~~
@@ -134,4 +134,4 @@ The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: Lola's room, Crystal Ballroom
 * **When**: **12:30am-5pm**
-* **Details**: :doc:`/conf/portland/2018/unconference`
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
