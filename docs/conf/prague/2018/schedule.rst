@@ -13,7 +13,7 @@ Each year we organize a wide range of events so that people can come together, c
     :backlinks: none
 
 {{date.day_one.dotw}}, {{date.month}} {{date.day_one.date}}
----------------
+--------------------------------------------------
 
 {% if flaghashike %}
 
@@ -41,9 +41,9 @@ If you get into town early, join us and experience Prague from the water.
 
 
 {{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}}
--------------
+----------------------------------------
 
-The Writing Day and Welcome Reception will be held at the **{{location}}**.
+The Writing Day and Welcome Reception will be held at the **{{about.venue}}**.
 
 .. contents::
     :local:
@@ -68,7 +68,7 @@ We'll also help groups organize dinner plans, so you can continue your conversat
 * **Details**: TBA
 
 {{date.day_three.dotw}}, {{date.month}} {{date.day_three.date}}
--------------
+--------------------------------------------
 
 .. contents::
     :local:
@@ -113,7 +113,7 @@ There will be light snacks and drinks available on the conference while our tab 
 * **Details**: TBA
 
 {{date.day_four.dotw}}, {{date.month}} {{date.day_four.date}}
---------------
+--------------------------------------------------
 
 .. contents::
     :local:
