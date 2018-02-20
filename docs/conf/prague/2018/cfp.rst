@@ -4,7 +4,9 @@
 Call for Proposals
 ==================
 
-Hello hello, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{area}} conference, coming up on {{date.main}}.
+Hello hello, fellow documentarians! 
+
+It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{area}} conference, coming up on {{date.main}}.
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you’ve worked on documentation for decades or you’ve just started this year, we want to hear from
 you! Read on to learn more about the goals of the conference and what we look for in talk proposals.
@@ -13,7 +15,7 @@ In the meantime, mark your calendars:
 
 **The deadline for submitting proposals is Midnight {{TZ}} on {{cfp.ends}}.**
 
-We'll let you know if your proposal has been accepted by the {{cfp.notification}}.
+We'll let you know if your proposal has been accepted by {{cfp.notification}}.
 
 Conference goals
 ----------------
@@ -77,7 +79,7 @@ If you are selected to speak at Write the Docs, we will waive your attendance fe
 
 If your proposal is accepted but you are unable to attend due to travel costs, please let us know and we will do our best to help make it happen.
 
-**You’ll hear from us with our proposal decisions by the end of {{cfp.notification}}.**
+**You’ll hear from us with our proposal decisions by {{cfp.notification}}.**
 
 Questions?
 ----------
