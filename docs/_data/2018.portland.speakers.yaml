@@ -312,6 +312,34 @@
     website: thursdaybram.com
   title: What They Don't Tell You About Creating New Style Guides
   year: 2018
+- abstract: "<p>We all want to create docs that help our users. We know good research\
+    \ helps us to give our readers what they need and poor research can weaken our\
+    \ docs so it\u2019s time to step up our research game. </p>\n<p>Grounded in the\
+    \ things I\u2019ve learnt (read: mistakes I\u2019ve made) from my time writing\
+    \ open source documentation for the UK government at Government Digital Service\
+    \ (GDS), this talk will look at: </p>\n<ul>\n<li>deciding what - and how - to\
+    \ research</li>\n<li>interviewing, simulation and content evaluation techniques</li>\n\
+    <li>distinguishing user \u2018needs\u2019 from \u2018wants\u2019</li>\n<li>how\
+    \ the Hawthorne effect can influence research</li>\n<li>how to feed findings into\
+    \ product and content development </li>\n</ul>\n<p>Throughout it all, we\u2019\
+    ll cover strategies to avoid common pitfalls, how to avoid users telling you what\
+    \ you want to hear, how to manage research with no extra budget and, when it\u2019\
+    s all done, how to turn all that qualitative data into tangible content changes\
+    \ that have a genuine impact for users. </p>"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/research-like-you-re-wrong-lessons-from-user-research-gone-rogue-jen-lambourne
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: research-like-you-re-wrong-lessons-from-user-research-gone-rogue-jen-lambourne
+  speakers:
+  - details: ''
+    img_file: missing.jpg
+    name: Jen Lambourne
+    slug: jen-lambourne
+    twitter: Jenny__Anne
+    website: ''
+  title: "Research like you\u2019re wrong: Lessons from user research gone rogue "
+  year: 2018
 - abstract: <p>There are multiple reasons to use screenshots, from introducing new
     features and helping confirm the context of content to simply breaking up walls
     of text. However, screenshots can carry a lot of overhead, including localization
@@ -368,4 +396,20 @@
     twitter: kavbojka
     website: https://camilleacey.com
   title: 'Rewrite the Docs!: Field Notes from the Radical IT department'
+  year: 2018
+- abstract: "<p>You have an idea for the next great technical book. Maybe you're excited about a new technology that nobody's written about yet. Maybe you're unimpressed with the books that are out there on your favorite topic. Maybe writing a book is on your bucket list. This session will help your idea reach its potential as a published book. Technical publishing is an opaque process with a lot of moving parts, which can be confusing for outsiders to navigate. This session will guide you through the steps you should take to turn an idea into a proposal that a publisher will accept, and what to expect from the publishing experience.</p>
+<p>Creating a great technical book takes more than a good idea. It also requires a knowledge of the market, to determine whether there's an audience willing to buy, or whether the space is too crowded to accept new entries. Publishers vary in their approach and target markets, so you need to determine which one will provide the best chance of success. Self-publishing is an option, but carries its own risks and benefits. Doing the setup work that you may not have thought about yet will help you create a proposal that will appeal to publishers, and will also make the writing process easier.</p>
+<p>Once you have a contract with a publisher, or have decided to self-publish, it's more than just a matter of putting the words in order. Finding the right environment, setting a schedule, and communicating with your editor are all critical to success. This session will explain how the process works, highlight the parts you may not know, and give you advice on how not to get overwhelmed by your project.</p>"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/writing-the-next-great-tech-book-brian-macdonald
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: writing-the-next-great-tech-book-brian-macdonald
+  speakers:
+  - details: ''
+    img_file: brian-macdonald.jpg
+    name: Brian MacDonald
+    slug: brian-macdonald
+    twitter: bmac_editor
+  title: 'Writing the Next Great Tech Book '
   year: 2018
