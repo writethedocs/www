@@ -1,4 +1,9 @@
-Happy Friday everybody! 
+:template: 2018/na/generic.html
+
+.. post:: February 20, 2018
+   :tags: portland-2018, speakers, tickets, visiting, sponsors
+
+Happy Tuesday everybody! 
 
 We're writing today with an update on the fast-approaching Portland conference! 
 
