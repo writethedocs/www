@@ -43,8 +43,26 @@ Home - Write the Docs Portland 2018
         </p>
 
         <div class="ctas-block">
-          <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/portland/2018/tickets') }}">Buy a Ticket!</a>
-          <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/portland/2018/speakers') }}">See the talks!</a>
+           <!-- TODO: More calls to action and conditions -->
+          {% if flagticketsonsale %}
+
+          <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/{{shortcode}}/{{year}}/tickets') }}">Buy a Ticket!</a>
+
+          {% endif %}
+
+          {% if flagcfp %}
+
+          <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/{{shortcode}}/{{year}}/cfp') }}">Submit a
+          Talk</a>
+
+          {% endif %}
+
+          {% if flagspeakersannounced %}
+
+          <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/{{shortcode}}/{{year}}/speakers') }}">See the talks!</a>
+
+          {% endif %}
+
         </div>
       </div>
     </div>
