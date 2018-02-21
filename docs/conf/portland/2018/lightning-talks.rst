@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: 2018/na/generic.html
 :banner: _static/2018/assets/headers/venue.png
 
 Lightning Talks

@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: 2018/na/generic.html
 
 Sponsors
 ========

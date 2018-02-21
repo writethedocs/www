@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/index.html
+:template: 2018/na/index.html
 :orphan:
 
 .. Left blank as all content is in the index.html file apart from news and speaker datatemplates

@@ -1,15 +1,9 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: 2018/na/generic.html
 :banner: _static/2018/assets/headers/speakers.jpg
 
 Conference Speakers
 ===================
 
-{% if flagspeakersannounced %}
-
 .. datatemplate::
-   :source: /_data/{{year}}.{{city}}.speakers.yaml
-   :template: {{year}}/{{templatecode}}/speakers.rst
-
-{% else %}
-  Nothing to see yet.
-{% endif %}
+   :source: /_data/2018.portland.speakers.yaml
+   :template: 2018/na/speakers.rst

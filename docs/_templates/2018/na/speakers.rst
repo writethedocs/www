@@ -8,6 +8,7 @@
 
 .. raw:: html
 
+
     <article class="talk">
       {% for speaker in talk.speakers %}
       <div class="speaker-info">

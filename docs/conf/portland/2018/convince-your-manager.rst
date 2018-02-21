@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: 2018/na/generic.html
 
 Convince Your Manager
 =====================
@@ -9,8 +9,6 @@ Feel free to adapt and share with your manager to show them the many benefits of
 
 Sample email
 -------------
-
-Remember to change the things in `[brackets]`!
 
 ----
 
