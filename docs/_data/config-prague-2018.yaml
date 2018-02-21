@@ -65,9 +65,8 @@ about:
 
 cfp:
   url: FIXME
-  ends: FIXME
-  notification: FIXME
-
+  ends: 23:59 Sunday, May 13th CEST
+  notification: 23:59 Suday, June 10th CEST
 
 flagspeakersannounced: False
 flagcfp: False
