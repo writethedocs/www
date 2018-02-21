@@ -20,12 +20,12 @@ Each year we organize a wide range of events so that people can come together, c
 Hike
 ~~~~
 
-The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/hike>`.
+The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/outing>`.
 If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
 
 * **Where**: Lower Macleay Park or Macleay Park Entrance.
 * **When**: 13:45
-* **Details**: :doc:`Annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/hike>`
+* **Details**: :doc:`Annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/outing>`
 
 {% endif %}
 
@@ -34,7 +34,7 @@ If you get into town early, join us on the hike and take the chance to explore P
 Boat tour
 ~~~~~~~~~
 
-The only event scheduled on Saturday is the :doc:`Boat Tour of Prague </conf/eu/2017/boat>`.
+The only event scheduled on Saturday is the :doc:`Boat Tour of Prague </conf/{{shortcode}}/{{year}}/outing>`.
 If you get into town early, join us and experience Prague from the water.
 
 {% endif %}
