@@ -63,5 +63,9 @@
                                 </li>
                             </ul>
                           </li>
-                        <li><a href="{{ pathto('conf/prague/2018/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
+
+                         {% if flagcfp %}
+                         <li><a href="{{ pathto('conf/prague/2018/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
+                         {% endif %}
+
                 </ul>
