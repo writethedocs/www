@@ -40,8 +40,8 @@ cfp:
   notification: "end of January"
 
 
-flagspeakersannounced: False
-flagcfp: True
+flagspeakersannounced: True
+flagcfp: False
 flagticketsonsale: True
 flaghashike: True
 flaghasboat: False
