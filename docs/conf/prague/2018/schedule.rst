@@ -52,7 +52,7 @@ The Writing Day and Welcome Reception will be held at the **{{about.venue}}**.
 Writing Day
 ~~~~~~~~~~~
 
-* **Where**: Main stage, Crystal Ballroom
+* **Where**: TBA
 * **When**: **9am-5pm**
 * **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
@@ -63,7 +63,7 @@ We encourage everyone to drop by on Sunday evening for the conference reception.
 You'll have a chance to get acquainted with each other over some drinks and snacks.
 We'll also help groups organize dinner plans, so you can continue your conversations over more substantial food as well.
 
-* **Where**: Main stage, Crystal Ballroom
+* **Where**: TBA
 * **When**: **5pm-8pm**
 * **Details**: TBA
 
@@ -75,14 +75,14 @@ We'll also help groups organize dinner plans, so you can continue your conversat
     :backlinks: none
 
 This is the main event! Hear from lots of interesting folks about all things documentation.
-We will have talks all day on the main stage, and a unconference session running in parallel in the afternoon at Lola's Room.
+We will have talks all day on the main stage, and a unconference session running in parallel in the afternoon.
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
-* **Where**:   Main stage, Crystal Ballroom
+* **Where**:   TBA
 * **When**: **9am-5pm**
-* **Details**: Exact schedule TBA
+* **Details**: TBA
 
 ..
     .. datatemplate::
@@ -94,7 +94,7 @@ Unconference
 
 The unconference sessions run in parallel to the main conference talks.
 
-* **Where**: Lola's room, Crystal Ballroom
+* **Where**: TBA
 * **When**: **1pm-5pm**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
@@ -124,9 +124,9 @@ And the conference goes on!
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
-* **Where**: Main stage, Crystal Ballroom
+* **Where**: TBA
 * **When**: **9am-4pm**
-* **Details**: Exact schedule TBA
+* **Details**: TBA
 
 ..
     .. datatemplate::
@@ -138,7 +138,7 @@ Job Fair
 
 New in 2018! We'll be holding a job fair on Tuesday morning!
 
-* **Where**: Lola's room, Crystal Ballroom
+* **Where**: TBA
 * **When**: **9am-11:30am**
 * **Details**: TBA
 
@@ -147,6 +147,6 @@ Unconference
 
 The unconference sessions run in parallel to the main conference talks.
 
-* **Where**: Lola's room, Crystal Ballroom
+* **Where**: TBA
 * **When**: **12:30am-5pm**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
