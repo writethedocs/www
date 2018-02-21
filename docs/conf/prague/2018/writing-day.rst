@@ -9,9 +9,10 @@ Writing Day
 Schedule
 --------
 
-- Date & Time: **Sunday, May 6th, 9am-6pm**,
+
+- Date & Time: **{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}}, 9am-6pm**,
   with the conference opening reception in the same space until 9.
-- Location: **Crystal Ballroom, 1332 W Burnside St**. We will be in the main ballroom.
+- Location: **{{venue}}**. We will be in the main ballroom.
 
 ..
   .. datatemplate::
