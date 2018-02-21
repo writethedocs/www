@@ -44,6 +44,10 @@
 
          <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/{{shortcode}}/{{year}}/tickets') }}">Buy a Ticket!</a>
 
+         {% else %}
+
+         <a class="uk-button uk-button-announcement" href="{{ pathto('/newsletter') }}">Join our Mailing List</a>
+
          {% endif %}
 
          {% if flagcfp %}
@@ -58,6 +62,7 @@
          <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/{{shortcode}}/{{year}}/speakers') }}">See the talks!</a>
 
          {% endif %}
+
         </div>
       </div>
     </div>
@@ -119,8 +124,6 @@
       </div>
       -->
     </div>
-
-
   </div><!-- end schedule overview -->
 
   {# include "include/2018/sponsors.html" #}

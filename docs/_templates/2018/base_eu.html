@@ -67,11 +67,33 @@
                 <div class="footer-head">
                     <div class="uk-container">
                         <h3>Join us now!</h3>
-                        <a href="{{ pathto('conf/prague/2018/tickets') }}" class="uk-button uk-button-secondary uk-text-center">Buy a Ticket!</a>
-                        <a href="{{ pathto('conf/prague/2018/cfp') }}" class="uk-button uk-button-default uk-text-center">Submit a Talk</a>
+
+                        {% if flagticketsonsale %}
+
+                        <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/{{shortcode}}/{{year}}/tickets') }}">Buy a Ticket!</a>
+
+                        {% else %}
+
+                        <a class="uk-button uk-button-secondary uk-text-centert" href="{{ pathto('/newsletter') }}">Join our Mailing List</a>
+
+                        {% endif %}
+
+                        {% if flagcfp %}
+
+                        <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/{{shortcode}}/{{year}}/cfp') }}">Submit a
+                        Talk</a>
+
+                        {% endif %}
+
+                        {% if flagspeakersannounced %}
+
+                        <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/{{shortcode}}/{{year}}/speakers') }}">See the talks!</a>
+
+                        {% endif %}
+
                     </div>
                 </div>
-                
+
 
                 {# include "include/2018/sponsors.html" #}
 
