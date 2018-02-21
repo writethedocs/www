@@ -179,12 +179,12 @@ Job Fair
 --------
 
 Our job fair is a wonderful place to connect with the talented Write the Docs attendees.
-We'll have over 400 people in attendance for our conference,
+We'll have over {{about.attendees}} people in attendance for our conference,
 and many of those people will come to our job fair to look for new roles and positions.
 
 **{{sponsorship.job_fair.price}}** (a la carte price, also included or discounted with other sponsorship packages)
 
-- **Logistics**: The Job Fair will be Tuesday morning in Lola's Room. It will run from 9am-11:30pm. You can set up from 8am.
+- **Logistics**: The Job Fair will be Tuesday morning in {{job_fair.location}}. It will run from 9am-11:30pm. You can set up from 8am.
 
 - **Layout**: Every participant will have a six-foot table and two chairs reserved for them. We do not use booths during the Job Fair. You are welcome to have a standing banner or customized tablecloth. Giveaways/flyers are welcome, please make sure everthing fits on your alloted table.
 

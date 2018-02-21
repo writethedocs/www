@@ -62,11 +62,15 @@ about:
     You can find out more information about the venue and its accessibility on our :doc:`/conf/prague/2018/venue` page."
   venue:
     ":doc:`Auto Klub </conf/prague/2018/venue>`"
+  attendees: 300
 
 cfp:
   url: FIXME
-  ends: 23:59 Sunday, May 13th CEST
-  notification: 23:59 Suday, June 10th CEST
+  ends: Sunday, May 13th
+  notification: Sunday, June 10th
+
+job_fair:
+  location: TBA
 
 flagspeakersannounced: False
 flagcfp: False
