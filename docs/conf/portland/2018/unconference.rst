@@ -11,4 +11,4 @@ Schedule
 
 .. FIXME Check unconference schedule
 
-Unconference sessions will begin after lunch on Monday, and run throughout Monday afternoon and all day Tuesday. We will start the unconference sessions off each day with some time for focus on one of several topics.
+Unconference sessions will be all day Monday, and Tuesday afternoon. 
