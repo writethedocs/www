@@ -1,4 +1,4 @@
-<!--
+
                 <ul class="uk-nav uk-visible@s">
                         <li><a href="{{ pathto('conf/prague/2018/news') }}">News</a></li>
                         <li>
@@ -12,8 +12,13 @@
                                           <li><a href="{{ pathto('conf/prague/2018/lightning-talks') }}">Lightning Talks</a></li>
                                           <li><a href="{{ pathto('conf/prague/2018/unconference') }}">Unconference</a></li>
                                           <li><a href="{{ pathto('conf/prague/2018/writing-day') }}">Writing Day</a></li>
-                                          <li><a href="{{ pathto('conf/prague/2018/hike') }}">Hike</a></li>
-                                      </ul>
+                                          {% if flaghashike %}
+                                          <li><a href="{{ pathto('conf/portland/2018/outing') }}">Hike</a></li>
+                                          {% endif %}
+                                          {% if flaghasboat %}
+                                          <li><a href="{{ pathto('conf/prague/2018/outing') }}">Boat Tour</a></li>
+                                          {% endif %}
+                                        </ul>
                                   </div>
                               </li>
                           </ul>
@@ -25,7 +30,7 @@
                                   <div class="uk-navbar-dropdown">
                                       <ul class="uk-nav uk-navbar-dropdown-nav">
                                           <li><a href="{{ pathto('conf/prague/2018/venue') }}">Venue</a></li>
-                                          <li><a href="{{ pathto('conf/prague/2018/prague') }}">Prague</a></li>
+                                          <li><a href="{{ pathto('conf/prague/2018/visiting') }}">Prague</a></li>
                                       </ul>
                                   </div>
                               </li>
@@ -37,6 +42,9 @@
                                   <a href="{{ pathto('conf/prague/2018/about') }}">About</a>
                                   <div class="uk-navbar-dropdown">
                                       <ul class="uk-nav uk-navbar-dropdown-nav">
+                                          <li><a href="{{ pathto('conf/prague/2018/about') }}">Overview</a></li>
+                                          <li><a href="{{ pathto('conf/prague/2018/press-kit') }}">Press Kit</a></li>
+                                          <li><a href="{{ pathto('conf/prague/2018/convince-your-manager') }}">Convince Your Manager</a></li>
                                           <li><a href="{{ pathto('conf/prague/2018/welcome-wagon') }}">Welcome Wagon</a></li>
                                           <li><a href="{{ pathto('conf/prague/2018/team') }}">Meet the Team</a></li>
                                           <li><a href="{{ pathto('conf') }}">Past Events</a></li>
@@ -59,7 +67,9 @@
                                 </li>
                             </ul>
                           </li>
-                        <li><a href="{{ pathto('conf/prague/2018/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
-                </ul>
 
--->
+                         {% if flagcfp %}
+                         <li><a href="{{ pathto('conf/prague/2018/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
+                         {% endif %}
+
+                </ul>

@@ -1,9 +1,3 @@
-:template: {{year}}/{{templatecode}}/generic.html
-:banner: _static/2018/assets/headers/hike.png
-
-Write the Docs Hike
-===================
-
 Every year we have a conference hike, and at this point it's a fantastic tradition.
 We'll be doing the same hike again this year, because it's the best one easily accessible from downtown Portland.
 

@@ -12,7 +12,12 @@
                                           <li><a href="{{ pathto('conf/portland/2018/lightning-talks') }}">Lightning Talks</a></li>
                                           <li><a href="{{ pathto('conf/portland/2018/unconference') }}">Unconference</a></li>
                                           <li><a href="{{ pathto('conf/portland/2018/writing-day') }}">Writing Day</a></li>
+                                          {% if flaghashike %}
                                           <li><a href="{{ pathto('conf/portland/2018/hike') }}">Hike</a></li>
+                                          {% endif %}
+                                          {% if flaghasboat %}
+                                          <li><a href="{{ pathto('conf/prague/2018/boat') }}">Hike</a></li>
+                                          {% endif %}
                                       </ul>
                                   </div>
                               </li>

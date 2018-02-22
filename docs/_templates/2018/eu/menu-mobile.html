@@ -1,4 +1,4 @@
-<!--
+
 
                 <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
                   <li><a href="{{ pathto('conf/prague/2018') }}">Home</a></li>
@@ -11,14 +11,19 @@
                           <li><a href="{{ pathto('conf/prague/2018/lightning-talks') }}">Lightning Talks</a></li>
                           <li><a href="{{ pathto('conf/prague/2018/unconference') }}">Unconference</a></li>
                           <li><a href="{{ pathto('conf/prague/2018/writing-day') }}">Writing Day</a></li>
-                          <li><a href="{{ pathto('conf/prague/2018/hike') }}">Hike</a></li>
+                          {% if flaghashike %}
+                          <li><a href="{{ pathto('conf/portland/2018/outing') }}">Hike</a></li>
+                          {% endif %}
+                          {% if flaghasboat %}
+                          <li><a href="{{ pathto('conf/prague/2018/outing') }}">Boat Tour</a></li>
+                          {% endif %}
                       </ul>
                   </li>
                   <li class="uk-parent">
                       <a href="{{ pathto('conf/prague/2018/visiting') }}">Visit</a>
                       <ul class="uk-nav-sub">
                           <li><a href="{{ pathto('conf/prague/2018/venue') }}">Venue</a></li>
-                          <li><a href="{{ pathto('conf/prague/2018/prague') }}">Prague</a></li>
+                          <li><a href="{{ pathto('conf/prague/2018/visiting') }}">Prague</a></li>
                       </ul>
                   </li>
                   <li class="uk-parent">
@@ -37,7 +42,7 @@
                           <li><a href="{{ pathto('conf/prague/2018/prospectus') }}">Prospectus</a></li>
                       </ul>
                   </li>
+                  {% if flagcfp %}
                   <li><a href="{{ pathto('conf/prague/2018/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
-                </ul>
-
--->
+                  {% endif %}
+            </ul>

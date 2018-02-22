@@ -63,18 +63,20 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 Filled Roles
 ~~~~~~~~~~~~~
 
-* **Conference chair** - Eric Holscher
-* **Swag coordinator** - Mikey Ariel
-* **Speaker wrangler** - Kelly O'Brien
-* **Infrastructure chair** - Samuel Wright
-* **Writing Day coordinator** - Shaun McCance
-* **Lightning Talk coordinator** - Rose Williams
-* **Communication chair** - Mikey Ariel
-* **Volunteer coordinator** - Becky Yoose
-* **Sponsorship lead** - Eric Holscher
-* **Welcome Wagon coordinators** - Christy Lutz
-* **Hike coordinator** - Eric Holscher
-* **Explore Portland coordinator** - Mo Nishiyama
+* **Conference chair** -
+* **Swag coordinator** -
+* **Speaker wrangler** -
+* **Infrastructure chair** -
+* **Writing Day coordinator** -
+* **Lightning Talk coordinator** -
+* **Communication chair** -
+* **Volunteer coordinator** -
+* **Sponsorship lead** -
+
+* **Welcome Wagon coordinators** -
+* **Hike coordinator** -
+
+* **Explore Portland coordinator** -
 
 Organizers Needed
 ~~~~~~~~~~~~~~~~~

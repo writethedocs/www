@@ -6,6 +6,10 @@ import glob
 
 import CommonMark
 
+try:
+    from pathlib import PurePath
+except ImportError:
+    from pathlib2 import PurePath
 
 try:
     # Python 2.6-2.7
@@ -18,6 +22,15 @@ except ImportError:
 def load_yaml(path):
     with io.open(path, encoding='utf-8') as fp:
         return yaml.safe_load(fp)
+
+
+def load_page_yaml_data(app, page):
+    p = PurePath(page)
+    data = app.config.html_context
+    if page.startswith(('conf/portland/', 'conf/prague', 'conf/australia')) and p.parts[2] >= 2018:
+        yaml_config = load_yaml('_data/config-' + p.parts[1] + '-' + p.parts[2] + '.yaml')
+        data.update(yaml_config)
+    return data
 
 
 def slugify(slug):
@@ -52,9 +65,14 @@ def rstjinja(app, docname, source):
     """
     if getattr(app.builder, 'implementation', None) or app.builder.format != 'html':
         return
+
+    """
+    Only load yaml config for 2018 and onwards
+    """
+    context = load_page_yaml_data(app, docname)
     if docname.startswith(('conf/', 'guide/', 'videos/by-year', 'videos/by-series')):
         src = source[0]
-        rendered = app.builder.templates.render_string(src, app.config.html_context)
+        rendered = app.builder.templates.render_string(src, context)
         source[0] = rendered
 
 
@@ -94,6 +112,8 @@ def override_page_template(app, pagename, templatename, context, doctree):
 
         Content
     """
+    page_context = load_page_yaml_data(app, pagename)
+    context.update(page_context)
 
     # Markdown
     if (context and
@@ -111,6 +131,7 @@ def override_page_template(app, pagename, templatename, context, doctree):
             return context['meta']['template']
     except TypeError:
         pass
+
 
 
 def load_conference_data():

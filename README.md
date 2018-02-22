@@ -83,3 +83,33 @@ This has to be used alongside the sphinx server and it will
 automatically minify all the content in your `.scss` files to the
 `main.min.css` file. Also, `gulp` will be running browserify, allowing you
 to see the CSS changes immediately in the browser.
+
+### Generating new conf pages
+
+#### Copy and Create
+
+There are a few places you need to copy files from when spinning up a new conference site:
+
+1. The *YAML config file*. For example, copy `docs/_data/config-portland-2018.yaml` to `docs/_data/config-prague-2018.yaml`.
+   Edit the file as necessary.
+2. The *conference directory*. For example `docs/conf/portland/2018` to `docs/conf/prague/2018`.
+3. The *templates*. For example `docs/_templates/2018/base_na.html` **and** `docs/_templates/2018/na` to `docs/_templates/2018/base_eu.html` **and** `docs/_templates/2018/eu`.
+4. You might need some local content in `docs/includes/conf` and `_static`. Sphinx will probably warn you if you do.
+
+#### Search and replace
+
+Search and replace any year specific stuff (CAREFUL)
+```
+portland/2018
+```
+
+Manually update any FIXME comments
+```
+.. FIXME
+```
+
+For this whole thing to work we still need to implement these
+
+```
+.. TODO
+```
