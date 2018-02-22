@@ -31,7 +31,7 @@ Remember to change the things in `[brackets]`!
 
   * Conference ticket (includes breakfast and lunch) - $450
   * Travel – [fill in with estimate]
-  * Accomodation – – [fill in with estimate]
+  * Accommodation – – [fill in with estimate]
 
   Benefits:
 
