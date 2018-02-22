@@ -7,7 +7,7 @@ Conference Speakers
 {% if flagspeakersannounced %}
 
 .. datatemplate::
-   :source: /_data/{{year}}.{{city}}.speakers.yaml
+   :source: /_data/{{year}}.{{shortcode}}.speakers.yaml
    :template: {{year}}/{{templatecode}}/speakers.rst
 
 {% else %}
