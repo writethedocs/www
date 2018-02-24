@@ -1,4 +1,4 @@
-:template: 2018/na/generic.html
+:template: {{year}}/{{templatecode}}/generic.html
 
 .. post:: Nov 15, 2017
    :tags: portland-2018, website, cfp, tickets

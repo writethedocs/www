@@ -12,7 +12,7 @@ This document describes the guiding principles that drive us as an organization,
    :backlinks: none
    :depth: 1
 
-Guiding Principals
+Guiding Principles
 ------------------
 
 Community-first

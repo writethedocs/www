@@ -8,4 +8,4 @@ csvkit==1.0.2
 yamllint
 git+https://github.com/tadeboro/ablog#egg=ablog-dev
 git+https://github.com/ericholscher/datatemplates@add-key-and-context#egg=sphinxcontrib.datatemplates-dev
-    
+pathlib

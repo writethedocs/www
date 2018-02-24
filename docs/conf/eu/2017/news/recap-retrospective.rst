@@ -43,7 +43,7 @@ As mentioned, this report is anonymized and published for the sake of maintainin
 Videos
 ------
 
-All talk videos are now availble `in a playlist on our YouTube channel <https://www.youtube.com/playlist?list=PLZAeFn6dfHplBYPCwJt6ItkMDt7JSgUiL>`_.
+All talk videos are now available `in a playlist on our YouTube channel <https://www.youtube.com/playlist?list=PLZAeFn6dfHplBYPCwJt6ItkMDt7JSgUiL>`_.
 
 We'd like to thank again all our speakers and lightning talk presenters for investing time, effort, and love into their presentations. Each year we see growth in both the diversity of topics and the spectrum of the roles that are represented in our
 conferences, and we hope to keep seeing this in years to come!

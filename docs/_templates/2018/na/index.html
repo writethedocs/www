@@ -1,5 +1,9 @@
 {% extends "2018/base_na.html" %}
 
+{% block full_title %}
+Home - Write the Docs Portland 2018
+{% endblock %}
+
 {% block container %}
 <div class="hero" style="background-image: url({{ pathto('_static/2018/assets/images/backgrounds/portland-green.jpg', 1) }});">
     <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18">
@@ -39,8 +43,26 @@
         </p>
 
         <div class="ctas-block">
-          <!-- <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/portland/2018/tickets') }}">Buy a Ticket!</a> -->
-          <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/portland/2018/cfp') }}">Submit a Talk</a>
+           <!-- TODO: More calls to action and conditions -->
+          {% if flagticketsonsale %}
+
+          <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/portland/2018/tickets') }}">Buy a Ticket!</a>
+
+          {% endif %}
+
+          {% if flagcfp %}
+
+          <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/portland/2018/cfp') }}">Submit a
+          Talk</a>
+
+          {% endif %}
+
+          {% if flagspeakersannounced %}
+
+          <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/portland/2018/speakers') }}">See the talks!</a>
+
+          {% endif %}
+
         </div>
       </div>
     </div>
@@ -103,219 +125,9 @@
 
   </div><!-- end schedule overview -->
 
-  <!-- <div class="speakers">
-    <div class="uk-container">
-      <h2>Speakers</h2>
-      <div class="speakers-carousel">
-
-        <div class="speaker">
-          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/garen-torikian.png', 1) }}">
-          <h3>Garen Torikian</h3>
-          <h4>Platform Engineer</h4>
-          <div class="contact-icon-list">
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
-          </div>
-        </div>
-
-        <div class="speaker">
-          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/daniele-procida.jpg', 1) }}">
-          <h3>Daniel Procida</h3>
-          <h4>Marketing Manager</h4>
-          <div class="contact-icon-list">
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
-          </div>
-        </div>
-
-        <div class="speaker">
-          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/kathleen-de-roo.jpg', 1) }}">
-          <h3>Kathleen De Roo</h3>
-          <h4>Content Writer</h4>
-          <div class="contact-icon-list">
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
-          </div>
-        </div>
-
-
-        <div class="speaker">
-          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/stuart-culshaw.jpg', 1) }}">
-          <h3>Stuart Culshaw</h3>
-          <h4>Content Writer</h4>
-          <div class="contact-icon-list">
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
-          </div>
-        </div>
-
-        <div class="speaker">
-          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/daniel-d-beck.jpg', 1) }}">
-          <h3>Daniel D. Beck</h3>
-          <h4>Content Writer</h4>
-          <div class="contact-icon-list">
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
-          </div>
-        </div>
-
-        <div class="speaker">
-          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/lesia-zasadna.jpg', 1) }}">
-          <h3>Lesia Zasadna</h3>
-          <h4>Information Developer</h4>
-          <div class="contact-icon-list">
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
-          </div>
-        </div>
-
-        <div class="speaker">
-          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/tim-rogers.jpg', 1) }}">
-          <h3>Tim Rogers</h3>
-          <h4>Engineer @gocarless</h4>
-          <div class="contact-icon-list">
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
-          </div>
-        </div>
-
-        <div class="speaker">
-          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/lauri-apple.jpg', 1) }}">
-          <h3>Lauri Apple</h3>
-          <h4>OSS Evangelist</h4>
-          <div class="contact-icon-list">
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
-          </div>
-        </div>
-
-        <div class="speaker">
-          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/ed-stenson.jpg', 1) }}">
-          <h3>Ed Stenson</h3>
-          <h4>OSS Evangelist</h4>
-          <div class="contact-icon-list">
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
-          </div>
-        </div>
-
-        <div class="speaker">
-          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/meike-chabowski.png', 1) }}">
-          <h3>Meike Chabowski</h3>
-          <h4>OSS Evangelist</h4>
-          <div class="contact-icon-list">
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
-          </div>
-        </div>
-
-        <div class="speaker">
-          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/floriana-pagano.jpg', 1) }}">
-          <h3>Floriana Pagano</h3>
-          <h4>Content Writing</h4>
-          <div class="contact-icon-list">
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
-          </div>
-        </div>
-
-        <div class="speaker">
-          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/thomas-parisot.jpg', 1) }}">
-          <h3>Thomas Parisot</h3>
-          <h4>Software Designer</h4>
-          <div class="contact-icon-list">
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
-          </div>
-        </div>
-
-        <div class="speaker">
-          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/cory-williamson-cardneau.png', 1) }}">
-          <h3>Cory Williamson</h3>
-          <h4>UX Consultant</h4>
-          <div class="contact-icon-list">
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
-          </div>
-        </div>
-
-        <div class="speaker">
-          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/ruthie-bendor.png', 1) }}">
-          <h3>Ruthie BenDor</h3>
-          <h4>Engineer Manager</h4>
-          <div class="contact-icon-list">
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
-          </div>
-        </div>
-
-        <div class="speaker">
-          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/becky-todd.jpg', 1) }}">
-          <h3>Becky Todd</h3>
-          <h4>Engineer Manager</h4>
-          <div class="contact-icon-list">
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
-          </div>
-        </div>
-
-        <div class="speaker">
-          <img class="uk-border-circle" src="{{ pathto('_static/2018/assets/images/speakers/christy-lutz.jpg', 1) }}">
-          <h3>Christy Lutz</h3>
-          <h4>Content Writing</h4>
-          <div class="contact-icon-list">
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/twitter.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/github.svg', 1) }}"></a>
-            <a href=""><img src="{{ pathto('_static/2018/assets/icons/worldwideweb.svg', 1) }}"></a>
-          </div>
-        </div>
-
-      </div>
-
-    </div>
-  </div><!--- end speakers carousel -->
-
-  <div class="news-block">
-    <div class="uk-container">
-
-      <h2>News</h2>
-
-      <a href="/conf/portland/2018/news/welcome">
-        <section class="news">
-          <div class="date">
-            <p class="month">November</p>
-            <p class="day">15</p>
-            <p class="year">2017</p>
-          </div>
-          <div class="content">
-            <h4>Announcing Call for Proposals and Website</h4>
-
-            <p>Welcome to the official launch of Write the Docs Portland 2018. We hope you're getting excited – we certainly are! It’s shaping up to be another wonderful year full of great conversations and interesting talks.</p>
-          </div>
-        </section>
-      </a>
-
-      <div class="learn-more">
-        <a class="uk-align-right" href="{{ pathto('conf/portland/2018/news') }}">Read More News</a>
-      </div>
-
-    </div>
-  </div><!--- end news block -->
+  {% block body %}
+    {{ body }}
+  {% endblock body %}
 
   {% include "include/2018/sponsors.html" %}
 

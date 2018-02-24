@@ -31,13 +31,19 @@ Get more information on how to meet the community, learn new things, get involve
 .. toctree::
    :glob:
    :maxdepth: 2
+   :titlesonly:
+   :includehidden:
 
-   about/index
+   about/events-activities
+   about/learning-resources
+   about/stay-connected
+   about/about-the-org
+
 
 Our focus is on community, and putting on our conferences is where we spend much of our time and effort
 Here are our latest events, and we hope to see you online or in person soon!
 
-.. include:: /include/conf/current.rst
+.. include:: include/conf/current.rst
 
 .. So that Sphinx doesn't yell as us :)
 

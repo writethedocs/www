@@ -1,4 +1,4 @@
-:template: 2018/na/generic.html
+:template: {{year}}/{{templatecode}}/generic.html
 :banner: _static/2018/assets/headers/group.png
 
 Welcome Wagon
@@ -7,8 +7,8 @@ Welcome Wagon
 Hello!
 
 We're your Welcome Wagon, and we're glad you're coming to Write the Docs!
-Feel free to tweet us at `@canncrochet <https://twitter.com/canncrochet>`__ or `@runleonarun <https://twitter.com/runleonarun>`__.
-You can also email `Christy <mailto:canncrochet@gmail.com>`__ or `Leona <mailto:leona.campbell@jivesoftware.com>`__ if we can help make your first time at the conference easier. When you get to the conference, come :ref:`say hello <say-hello>`.
+Feel free to `tweet <https://twitter.com/canncrochet>`_ or `email <mailto:canncrochet@gmail.com>`_ us if we can help make your first time at the conference easier. 
+When you get to the conference, come :ref:`say hello <say-hello>`.
 
 We've gathered important stuff here that will help you navigate the conference like a pro, make you feel more at home, and help you to manage the constant flow of information.
 The Welcome Wagon events warm up new attendees and connect them with people, both veterans and other first-timers.
@@ -19,19 +19,19 @@ Welcome Wagon events
 
 **Write the Docs Welcome Wagon Introduction**
 
-*Sunday, May 6th at 18:00 in Lola’s Room*
+*Sunday, May 6th at 5:00pm in Lola’s Room*
 
 Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We’ll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new, before we join the opening reception.
 
 **Welcome Wagon Tours**
 
-*Sunday, May 6th throughout the day and Monday, May 7th at 8:15 starting in the Crystal Ballroom*
+*Sunday, May 6th during the Welcome Wagon introduction and Monday, May 7th at 8:15am starting in the Crystal Ballroom*
 
 Come on a short tour of the venue with a veteran Write the Docs attendee so you’ll know where everything is and everything you can take part in.
 
 **Welcome Wagon Check-In**
 
-*Tuesday, May 8th at 8:15 in Lola’s Room*
+*Tuesday, May 8th at 8:15am in Lola’s Room*
 
 Meet back up with the Welcome Wagon and fellow first-timers to check-in about how the conference is going for you. Ask any questions you have, pass on stories from your first day, and let the Welcome Wagon know if there is anything you need to make your second day as successful as your first one.
 
@@ -46,7 +46,7 @@ Pro Tips
 
 -  Eat! You can use the energy.
 
--  Are you looking for a job or is there an opening at your company? Check out the job board in Lola's Room.
+-  Are you looking for a job or is there an opening at your company? Check out the job board and the job fair in Lola's Room.
 
 FAQs
 ----
@@ -168,12 +168,6 @@ Come find us and ask any questions, or just chat about the conference!
 .. container:: crew-images
 
    .. container:: col-sm-offset-2
-
-      .. figure:: /_static/img/crew/leona.jpg
-         :height: 250px
-         :width: 250px
-
-         Leona
 
       .. figure:: /_static/img/crew/christy.jpg
          :height: 250px

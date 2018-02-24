@@ -1,4 +1,6 @@
 :template: 2017/eu-index.html
+:orphan:
+
 
 .. raw:: html
 

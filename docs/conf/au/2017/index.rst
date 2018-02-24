@@ -1,4 +1,5 @@
 :template: 2017/au-index.html
+:orphan:
 
 .. raw:: html
 
