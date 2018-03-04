@@ -1,0 +1,1 @@
+Paul is a long-term friend of Write the Docs even though he works as an Engineering Lead at Zalando, but we won't hold it against him. Originally from Scotland, Paul is based in Berlin and hops around the Europes, dropping wisdom at various open-source technology conferences about team building, community culture, and fishes-riding-bicycles.
