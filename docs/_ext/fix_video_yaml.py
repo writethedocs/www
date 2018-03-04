@@ -1,23 +1,32 @@
 import os
-import yaml
+from ruamel import yaml
 
+from sys import stdout
 from core import slugify, load_yaml, load_conference_data, generate_video_slug
 
-def main():
+def fix_the_yaml(year, series, slug, yaml_file):
 
-    talks = load_yaml('../_data/2015.eu.speakers.yaml')
+    # 2015
+    # Write the Docs EU
+    # eu
+    # '../_data/2015.eu.speakers.yaml'
+
+    talks = load_yaml(yaml_file)
 
     for index, talk in enumerate(talks):
         #print index
-        print generate_video_slug(talk)
-        talks[index]['year'] = '2015'
-        talks[index]['event'] = 'Write the Docs EU 2015'
-        talks[index]['series'] = 'Write the Docs EU'
-        talks[index]['series_slug'] = 'eu'
+        #print '['+ str(index) + ']' + generate_video_slug(talk)
+        talks[index]['year'] = year
+        talks[index]['series'] = series
+        talks[index]['event'] = series + ' ' + year
+        talks[index]['series_slug'] = slug
         talks[index]['path'] = 'conf/' + talk['series_slug']+'/'+talk['year']+'/'+ 'videos'+'/'+ generate_video_slug(talk)
         talks[index]['slug'] = generate_video_slug(talk)
 
-    yaml.safe_dump(talks, open('test.yaml', 'w+'), default_flow_style=False)
+    yaml.safe_dump(talks, open(yaml_file, 'w+'), default_flow_style = False)
 
 if __name__ == '__main__':
-    main()
+    fix_the_yaml('2015', 'Write the Docs EU', 'eu', '../_data/2015.eu.speakers.yaml')
+    fix_the_yaml('2016', 'Write the Docs EU', 'eu', '../_data/2016.eu.speakers.yaml')
+    fix_the_yaml('2015', 'Write the Docs NA', 'na', '../_data/2015.na.speakers.yaml')
+    fix_the_yaml('2016', 'Write the Docs NA', 'na', '../_data/2016.na.speakers.yaml')
