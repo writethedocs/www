@@ -188,7 +188,7 @@ and many of those people will come to our job fair to look for new roles and pos
 
 - **Logistics**: The Job Fair will be Tuesday morning in Lola's Room. It will run from 9am-11:30pm. You can set up from 8:30am.
 
-- **Layout**: Every participant will have a six-foot table and two chairs reserved for them. We do not use booths during the Job Fair. Giveaways/flyers are welcome, but please make sure everthing fits on your alloted table.
+- **Layout**: Every company participating in the Job Fair will have a six-foot table and two chairs reserved for them. We do not use booths during the Job Fair. Giveaways/flyers are welcome, but please make sure everthing fits on your alloted table.
 
 Note that the :ref:`coc` and :ref:`coc-sponsors` apply to the Job Fair as well as to the rest of the conference.
 
@@ -229,14 +229,16 @@ Please direct all inquiries to our sponsorship team at:
 Run of Show
 ===========
 
-Here is the Run of Show for the Portland Conference: 
+A quick overview of the spaces:
 
-A quick overview of the spaces and times:
+* The *main ballroom* is where talks and most sponsorship activity happens. We will have booths & swag tables set up at the back of the main ballroom. Here is a `picture from last year <https://www.flickr.com/photos/writethedocs/34495135662>`_
+* *Lola's Room* is downstairs from the main ballroom. This is where the Unconference & Job Fair will happen. Another `picture from last year   <https://www.flickr.com/photos/writethedocs/34536045142/in/album-72157683817839465/>`_.
 
-* The main ballroom is where talks and most sponsorship activity happens. We will have booths & swag tables set up at the back of the main ballroom. Here is a picture to understand better: https://www.flickr.com/photos/writethedocs/34495135662
-* Lola's Room is our second room, downstairs from the main ballroom. This is where the Unconference & Job Fair will happen. Here is a picture from last year: https://www.flickr.com/photos/writethedocs/34536045142/in/album-72157683817839465/
-* Writing Day will be on Sunday
-* The main conference & sponsorship days at Monday & Tuesday.
+An overview of the conference schedule:
+
+* The Writing Day is on Sunday, in the main ballroom. You are welcome to run a documentation sprint here if your documentation is open source.
+* The main conference & sponsorship days are on Monday & Tuesday in the main ballroom.
+* The Job Fair happens Tuesday morning, in Lola's Room.
 
 How do I get the most out of my sponsorship?
 --------------------------------------------
@@ -246,16 +248,16 @@ Come prepared to engage with our community, and to learn just as much as you tea
 Who is my primary contact?
 --------------------------
 
-Eric Holscher will be your primary contact, but our team is available at sponsorship@writethedocs.org. I will be your primary point of contact for sponsorship questions, but if you have a time sensitive inquiry, please email the entire team to ensure a timely response. 
+Eric Holscher will be your primary contact, but our team is available at sponsorship@writethedocs.org. If you have a time sensitive inquiry, please email the entire team to ensure a timely response.
 
-What are the dates that sponsors need to know about?
-----------------------------------------------------
+What are the dates that sponsors need to know about in advance?
+------------------------------------------------------------------
 
-* SUNDAY: The swag tables will be set up & Writing Day will happen. You are free to start putting out swag. Sponsor booth setup will be available on Sunday from 10am-4pm.
+* **SUNDAY**: The swag tables are available during the Writing Day. Sponsor booths are available on Sunday from 10am-4pm.
 
-* MONDAY: Doors will open at 8am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the conference, when sponsors tables will need to be staffed. The conference will run until around 5pm.
+* **MONDAY**: Doors open at 8am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the conference, when sponsors tables will need to be staffed. The conference will run until around 5pm.
 
-* TUESDAY: The Job Fair will be from 9-11:30am, set up will be at 8:30am. Sponsor tear down in the main hall will be 4pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening. 
+* **TUESDAY**: The Job Fair will be from 9-11:30am, set up will be at 8:30am. Sponsor tear down in the main hall will be 4pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening.
 
 How do I use get my free tickets?
 ---------------------------------
@@ -265,7 +267,7 @@ You should have recieved a unique URL with a discount code for your free sponsor
 What do I need for the job fair?
 --------------------------------
 
-The job fair will be a low key event. Every participant will have a six-foot table and two chairs, in a seperate room from the primary conference. Giveaways/flyers are welcome, but please keep your setup requirements simple. 
+The job fair will be a low key event. Every participant will have a six-foot table and two chairs, in a seperate room from the primary conference. Giveaways/flyers are welcome, but please keep your setup requirements simple.
 
 What happens with my swag items?
 -------------------------------
@@ -280,4 +282,4 @@ The small sponsorship table is a 6' table, and the large is two 6' tables. These
 How do I ship items?
 --------------------
 
-Prior to the event, if you'd like to ship swag, we will send you the mailing address **3 weeks** prior to the event. We can't recieve packages before that. Anything sent to us will be available at the venue on the day of the event. 
+Prior to the event, if you'd like to ship swag, we will send you the mailing address **3 weeks** prior to the event. We can't recieve packages before that. Anything sent to us will be available at the venue on the day of the event.
