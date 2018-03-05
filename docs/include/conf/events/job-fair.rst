@@ -1,8 +1,4 @@
-Our job fair is the dedicated space for folks looking to hire or be hired.
-It will be structured in the same way as our unconference,
-with tables around the room representing a specific company.
+Connecting people with potential employers has always been a core benefit of attending Write the Docs, so we're excited to introduce some more structure to that connection.
+The job fair will replace the Unconference for a few hours on Tuesday morning, documentarians looking for jobs will be able to visit employers at their table to learn about the company culture, ask about specific job openings and talk to current employees.
 
-This to be a place where you can talk in more depth to folks who are looking to hire.
-You can learn more about the culture at their company,
-the specific openings and requirements for those jobs,
-and all the other information that is much easier to get from talking to people!
+If you're an employer looking to fill a roll, you can find information about :doc:`reserving a table <sponsors/prospectus/>` in the sponsorship prospectus.
