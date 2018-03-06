@@ -16,7 +16,7 @@ tickets:
   independent:
     price: €150
   student:
-    price: €100
+    price: €75
 
 sponsorship:
   first_draft:
