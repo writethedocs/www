@@ -15,13 +15,19 @@ from _ext.meetups import MeetupListing
 from ._ext.videos import main
 
 
-
 exclude_patterns = [
     '_build',
     'include',
     '_data',
     'node_modules',
 ]
+
+# Only build the videos on production, to speed up dev
+import os
+on_rtd = os.environ.get('READTHEDOCS') == 'True'
+if not on_rtd:
+   exclude_patterns.append('videos')
+
 extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
