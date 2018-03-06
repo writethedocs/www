@@ -12,7 +12,6 @@ sys.path.append(os.getcwd())  # noqa
 
 from _ext.core import add_jinja_filters, rstjinja, override_page_template, load_conference_data
 from _ext.meetups import MeetupListing
-from ._ext.videos import main
 
 
 exclude_patterns = [
@@ -21,13 +20,6 @@ exclude_patterns = [
     '_data',
     'node_modules',
 ]
-
-# Only build the videos on production, to speed up dev
-import os
-on_rtd = os.environ.get('READTHEDOCS') == 'True'
-if not on_rtd:
-   exclude_patterns.append('videos')
-
 extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
@@ -121,8 +113,6 @@ html_context = {
     'conferences': load_conference_data(),
 }
 
-
-# html_context.update(main())
 
 def setup(app):
     app.connect('html-page-context', override_page_template)

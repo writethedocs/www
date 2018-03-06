@@ -153,6 +153,7 @@
         slug: kenzie-woodbridge
         twitter: rainbowkenz
     title: Everyone's a player (in a mid-90s MUD)
+    video: https://www.youtube.com/watch?v=BiYSJ5dkoM0
     year: 2017
     youtubeId: BiYSJ5dkoM0
 -   abstract: '<p>We call ourselves technical writers, but many of us spend more time
@@ -222,7 +223,7 @@
         slug: lyzi-diamond
         twitter: lyzidiamond
     title: 'Testing: it''s not just for code anymore'
-
+    video: https://www.youtube.com/watch?v=e1_MMEr4kNU
     year: 2017
     youtubeId: e1_MMEr4kNU
 -   abstract: '<p>Write the Docs is filled with great conversations about documentation.
@@ -337,7 +338,7 @@
         slug: tom-johnson
         twitter: tomjohnson
     title: 'Building navigation for your doc site: 5 best practices'
-
+    video: https://www.youtube.com/watch?v=w-kEmsLwPDE
     year: 2017
     youtubeId: w-kEmsLwPDE
 -   abstract: '<p>Getting feedback on your work is a necessary part of any project,
@@ -380,7 +381,7 @@
         slug: christy-lutz
         twitter: canncrochet
     title: 'You have already succeeded: Design critique guidelines make feedback easier.'
-
+    video: https://www.youtube.com/watch?v=E_GyqG3Gd38
     year: 2017
     youtubeId: E_GyqG3Gd38
 -   abstract: '<p>In this talk I''ll discuss the partnership between documentarians
@@ -431,7 +432,7 @@
         twitter: diversecauses
     title: 'Only Interesting Conversations: The symbiotic relationship between docs
         and support'
-
+    video: https://www.youtube.com/watch?v=qXrX6hZO6V0
     year: 2017
     youtubeId: qXrX6hZO6V0
 -   abstract: '<p>QWERTY: Queer Writers Enjoying Relaxing Tea Yearly! Join us for
@@ -507,7 +508,7 @@
         slug: kate-voss
         twitter: katewanders
     title: 'Error Messages: Being Humble, Human, and Helpful will make users Happy'
-
+    video: https://www.youtube.com/watch?v=gBBZUATL7Qo
     year: 2017
     youtubeId: gBBZUATL7Qo
 -   abstract: "<p>My name is Sam and I am the head of technical documentation department\n\
@@ -568,7 +569,7 @@
         slug: sam-faktorovich
         twitter: lazeez
     title: 'Interviewing and hiring technical writers: the Siberian way'
-
+    video: https://www.youtube.com/watch?v=tcjLbCLcPTo
     year: 2017
     youtubeId: tcjLbCLcPTo
 -   abstract: '<p>Are you interested in developing docs like code? Are you frustrated
@@ -642,7 +643,7 @@
         slug: jodie-putrino
         twitter: j_putrino
     title: 'Treating documentation like code: a practical account'
-
+    video: https://www.youtube.com/watch?v=Mzu-c-FoOdw
     year: 2017
     youtubeId: Mzu-c-FoOdw
 -   abstract: '<p>For developers in newsrooms, whose work supports great writing and
@@ -730,7 +731,7 @@
     title: 'No Community Members Were Harmed in the Making of This Doc Sprint: How
         we ran a 48-hour event to collect community wisdom into a guidebook for newsroom
         developers'
-
+    video: https://www.youtube.com/watch?v=08l9FGJOz5E
     year: 2017
     youtubeId: 08l9FGJOz5E
 -   abstract: "<p>The Wisdom of Crowds:Crowdsourcing Minimalism in an Open Organization\n\
@@ -781,7 +782,7 @@
         slug: ingrid-towey
         twitter: IngridTowey
     title: 'The Wisdom of Crowds: Crowdsourcing Minimalism in an Open Organization'
-
+    video: https://www.youtube.com/watch?v=s3Em8QSXyn8
     year: 2017
     youtubeId: s3Em8QSXyn8
 -   abstract: '<p>All humans require care. Writing and maintaining documentation is
@@ -828,7 +829,7 @@
         slug: amelia-abreu
         twitter: ameliaabreu
     title: 'Caring Systems: Documentation as care'
-
+    video: https://www.youtube.com/watch?v=quC7mJn8B_U
     year: 2017
     youtubeId: quC7mJn8B_U
 -   abstract: "<p>How do you \u201Cbootstrap docs\u201D? In this talk, I will walk\
@@ -864,7 +865,7 @@
         slug: jesse-seldess
         twitter: ''
     title: Bootstrapping Docs at a Startup
-
+    video: https://www.youtube.com/watch?v=YLXNJXQyYoE
     year: 2017
     youtubeId: YLXNJXQyYoE
 -   abstract: '<p>We''re interested in revolutionizing release notes. Now with cloud
@@ -986,7 +987,7 @@
         slug: ruthie-bendor
         twitter: unruthless
     title: Even Naming This Talk Is Hard
-
+    video: https://www.youtube.com/watch?v=RFfpkrbkvxc
     year: 2017
     youtubeId: RFfpkrbkvxc
 -   abstract: "<p>Last spring, as I approached reworking the information architecture\n\
@@ -1028,7 +1029,7 @@
         slug: sarah-hersh
         twitter: ''
     title: Start with the tasks, not the endpoints
-
+    video: https://www.youtube.com/watch?v=R8yjmtIWEKQ
     year: 2017
     youtubeId: R8yjmtIWEKQ
 -   abstract: '<p>This talk is about the verifiability crisis in science, politics,
@@ -1150,6 +1151,6 @@
         slug: andrea-longo
         twitter: feorlen
     title: Do you know a runbook from a flip book? How sysadmins use documentation
-    
+    video: https://www.youtube.com/watch?v=QDxoqWpyzo8
     year: 2017
     youtubeId: QDxoqWpyzo8
