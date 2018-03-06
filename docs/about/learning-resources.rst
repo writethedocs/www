@@ -7,7 +7,7 @@ Learning Resources
    :hidden:
 
    /newsletter
-   /videos
+   /videos/index
    /podcast
    /organizer-guide/index
    /guide/index
@@ -20,7 +20,7 @@ Our monthly :doc:`/newsletter` aggregates the latest discussions about topics th
 Videos
 ~~~~~~
 
-All the presentation :doc:`/videos` are available on YouTube so that you can catch up on the content even if you can't attend the conferences.
+All the presentation :doc:`/videos/index` are available on YouTube so that you can catch up on the content even if you can't attend the conferences.
 
 Podcast
 ~~~~~~~
