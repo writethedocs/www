@@ -17,43 +17,57 @@ Each ticket includes:
 
 .. class:: ticket
 
-**Community Sponsorship Ticket** *€500*
-------------------------------------
+Community Sponsorship Tickets *{{tickets.community.price}}*
 
 Support the growing community! Get a logo on our website, as well as a ticket.
 This option is great for startups, open-source projects, and small non-profit organizations.
 Limit 1 per organization.
 If you are a larger company or organization, please contact us at sponsorship@writethedocs.org to arrange for sponsorship.
 
-* `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-prague-2018>`__
+{% if flagticketsonsale %}
+
+* `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+
+{% endif %}
 
 .. class:: ticket
 
-**Corporate Ticket** *€250*
-----------------------------
+**Corporate Tickets** *{{tickets.corporate.price}}*
+------------------------------------
 
 Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
 
-* `Buy Corporate Ticket <https://ti.to/writethedocs/write-the-docs-prague-2018>`__
+{% if flagticketsonsale %}
+
+* `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+
+{% endif %}
 
 .. class:: ticket
 
-**Independent Ticket** *€150*
-------------------------------
+**Independent Tickets** *{{tickets.independent.price}}*
+------------------------------------
 
 Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with less than 10 employees.
 
-* `Buy Independent Ticket <https://ti.to/writethedocs/write-the-docs-prague-2018>`__
+{% if flagticketsonsale %}
+
+* `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+
+{% endif %}
 
 .. class:: ticket
 
-**Student or Unemployed** *€75*
---------------------------------
+**Student or Unemployed** *{{tickets.independent.price}}*
+------------------------------------
 
 Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
 
-* `Buy Student or Unemployed Ticket <https://ti.to/writethedocs/write-the-docs-prague-2018>`__
+{% if flagticketsonsale %}
 
+* `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+
+{% endif %}
 .. class:: ticket
 
 **None of the above**
