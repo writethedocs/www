@@ -7,7 +7,7 @@
         {% if talk.youtubeId %}
         <article class="video">
             <a href="/videos/{{ talk.series_slug }}/{{ talk.year }}/{{ talk.slug }}/">
-                <div class="image image-grid-element"><img class="video-listing__item__preview" alt="" src="https://i.ytimg.com/vi/{{ talk.youtubeId }}/maxresdefault.jpg" /></div>
+                <div class="image image-grid-element"><img class="video-listing__item__preview" alt="" src="https://i.ytimg.com/vi/{{ talk.youtubeId }}/hqdefault.jpg" /></div>
             </a>
             <a href="/videos/{{ talk.series_slug }}/{{ talk.year }}/{{ talk.slug }}/">
                 <p><i>{% for speaker in talk.speakers -%}
