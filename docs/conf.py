@@ -28,6 +28,8 @@ on_rtd = os.environ.get('READTHEDOCS') == 'True'
 if not on_rtd:
    exclude_patterns.append('videos')
 
+needs_sphinx = '1.5.6'
+
 extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
