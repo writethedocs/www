@@ -4,7 +4,11 @@
 Tickets
 =======
 
+{% if flagticketsonsale %}
+
 **Tickets on sale now!**
+
+{% endif %}
 
 Each ticket includes:
 
@@ -72,4 +76,4 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 **None of the above**
 ---------------------
 
-If you can't afford these prices and still wish to attend, please email us at `portland@writethedocs.org <mailto:portland@writethedocs.org>`_. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance.
+If you can't afford these prices and still wish to attend, please email us at `{{shortcode}}@writethedocs.org <mailto:{{shortcode}}@writethedocs.org>`_. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance.
