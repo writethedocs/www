@@ -43,6 +43,7 @@
         twitter: unruthless
     title: Even Naming This Talk Is Hard
     year: 2017
+    youtubeId: JuI6NUbEzDw
 -   abstract: "<p>As the old saying goes, \u201Cyou never get a second chance to make\
         \ a first impression\u201D. When you first meet someone new (not least at\
         \ a conference for documentarians!), those first few moments set the tone.\
@@ -86,6 +87,7 @@
     title: '"You never get a second chance to make a first impression": writing great
         "getting started" documentation'
     year: 2017
+    youtubeId: wqC88GNujWQ
 -   abstract: "<p>GitHub is migrating its public API system from REST to GraphQL.\
         \ \nIn this talk, I'd like to go over my personal experiences writing API\
         \ documentation for ten years, and why GraphQL's \"everything needs documentation\"\
@@ -109,6 +111,7 @@
     slides: https://speakerdeck.com/gjtorikian/finally-trustworthy-and-sensible-api-documentation-with-graphql
     title: 'Finally! Trustworthy and Sensible API Documentation with GraphQL '
     year: 2017
+    youtubeId: aJk99MSVj0Y
 -   abstract: "<p>As a former journalist, I tend to think in terms of storytelling.\
         \ As an open source evangelist, I invite you to do the same. What you share\
         \ on GitHub tells a story about you, your development practices, and your\
@@ -146,6 +149,7 @@
         website: https://github.com/LappleApple/feedmereadmes
     title: Telling a Great Story on GitHub
     year: 2017
+    youtubeId: 9fq3-U9PKAA
 -   abstract: "<p>Nearly everyone agrees that good documentation is important to the\
         \ success of software projects, and yet very few projects actually have good\
         \ documentation. Even successful projects often have barely adequate documentation.</p>\n\
@@ -322,6 +326,7 @@
         website: http://gallery.yulefrog.com/
     title: "Aw Snap!  The Docs, They Are A-Changin\u2019 (with apologies to Bob Dylan)"
     year: 2017
+    youtubeId: DYgw6xcpDmE
 -   abstract: "<p>The usual way of writing a technical book is to open the Word or\
         \ LibreOffice application, to write some content, to make a backup, to send\
         \ it by email to the publisher and to deal with the feedbacks. And repeat.</p>\n\
@@ -350,6 +355,7 @@
         twitter: oncletom
         website: https://oncletom.io/
     title: 'Writing a book in 2017 '
+    youtubeId: p2eAXLR3OOk
     year: 2017
 -   abstract: <p>Any doc - every doc - that you deliver, it's only as useful as the
         requirements it satisfies. Typical requirements revolve around target audience,
@@ -375,6 +381,7 @@
         website: ''
     title: Requirements that you didn't know were there
     year: 2017
+    youtubeId: 3oklMXaGA3Y
 -   abstract: '<p>In this presentation I will explore other ways to communicate concepts
         beyond words to show that documentation needn''t just be about technical writing.</p>
 
@@ -424,6 +431,7 @@
         website: gregariousmammal.com
     title: Documentation beyond words
     year: 2017
+    youtubeId: 3oklMXaGA3Y
 -   abstract: "<p>For 22+ years, I am working in IT \u2013 most of this time in the\
         \ \u201Cbusiness-related\u201D part of the game. Roughly a year ago, I decided\
         \ to change something. Well \u2013 still working in IT, and still working\
@@ -453,6 +461,7 @@
     title: 'An Alien Looking From the Outside In: Main Takeaways After One Year in
         Documentation'
     year: 2017
+    youtubeId: y4UyU4XIn5c
 -   abstract: "<p>It could happen to you: your project is canceled, your team is \u201C\
         reorganized\u201D, or your company is closing its doors. Some or all of your\
         \ software, service, or API may not be long for this world. What will you\
@@ -483,6 +492,7 @@
         website: https://ddbeck.com
     title: "Deprecate and destroy: documenting your software\u2019s last days"
     year: 2017
+    youtubeId: XWNw3TgbGLg
 -   abstract: '<p>Created in 2016, Tech Writers Without Borders aims to connect technical
         communicators with nonprofits seeking help with their documentation and training
         materials.</p>
@@ -512,6 +522,7 @@
         twitter: ouebguy
         website: https://twwb.org/
     year: 2017
+    youtubeId: MgS1WuOcK4o
 -   abstract: "<p>In the workplace we experience team-building exercises. The focus\
         \ there is on many-to-many relationships to help people work well in groups.\
         \ At the other end of the spectrum we have opportunities for personal development\
@@ -581,6 +592,7 @@
         website: https://raphael.codes/
     title: Hi, my name is README!
     year: 2017
+    youtubeId: 0z0jquYos90
 -   abstract: '<p>Crowdsourcing is an increasingly attractive practice that is being
         used to develop documentation. When well designed, this approach increases
         documentation velocity and reduces bottlenecks. However, there are (at least)
@@ -625,6 +637,7 @@
         website: ''
     title: A content manager's guide to crowdsourcing the docs
     year: 2017
+    youtubeId: BnWmPulCNhA
 -   abstract: "<p>Getting feedback on your work is a necessary part of any project,\
         \ and it makes your output stronger and more diverse. But it can be hard when\
         \ your work is being evaluated. Sometimes, it feels like your reviewers have\
@@ -655,3 +668,4 @@
     title: 'You have already succeeded: Design critique guidelines make feedback easier
         2.0'
     year: 2017
+    youtubeId: DOuRgFP4NMQ
