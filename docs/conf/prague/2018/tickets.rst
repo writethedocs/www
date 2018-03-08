@@ -23,6 +23,7 @@ Each ticket includes:
 .. class:: ticket
 
 Community Sponsorship Tickets *{{tickets.community.price}}*
+------------------------------------------
 
 Support the growing community! Get a logo on our website, as well as a ticket.
 This option is great for startups, open-source projects, and small non-profit organizations.
