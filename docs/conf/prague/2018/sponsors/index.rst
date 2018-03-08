@@ -14,7 +14,6 @@ Thanks to these folks for supporting the community.
 
 .. include:: /include/conf/2018-prague-sponsors.rst
 
-
 In Kind Sponsors
 ----------------
 
