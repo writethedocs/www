@@ -19,11 +19,11 @@ In Kind Sponsors
 
 Write the Docs is also helped out by companies that give their employees time to work on the conference.
 
-.. include:: /include/conf/2018-prague-sponsor-in-kind.rst
+.. include:: /include/conf/2018-prague-sponsors-in-kind.rst
 
 Media Sponsors
 --------------
 
 These amazing media professionals have teamed up with us to capture the Write the Docs experience.
 
-.. include:: /include/conf/2018-prague-sponsor-media.rst
+.. include:: /include/conf/2018-prague-sponsors-media.rst

@@ -72,8 +72,8 @@ We'll also help groups organize dinner plans, so you can continue your conversat
 --------------------------------------------
 
 .. contents::
-    :local:
-    :backlinks: none
+   :local:
+   :backlinks: none
 
 This is the main event! Hear from lots of interesting folks about all things documentation.
 We will have talks all day on the main stage, and a unconference session running in parallel in the afternoon.
@@ -118,8 +118,8 @@ There will be light snacks and drinks available on the conference while our tab 
 --------------------------------------------------
 
 .. contents::
-    :local:
-    :backlinks: none
+   :local:
+   :backlinks: none
 
 And the conference goes on!
 

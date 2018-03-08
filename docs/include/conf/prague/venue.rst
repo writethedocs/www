@@ -1,4 +1,4 @@
-Our venue for the conference and writing day is the `Auto Klub, Opletalova 29, Prague 1`_ right next to the train station in the `Prague city center`_.
+Our venue for the conference and writing day is the `Auto Klub`_ , Opletalova 29, Prague 1 right next to the train station in the `Prague city center`_.
 
 .. raw:: html
 
