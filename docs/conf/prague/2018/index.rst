@@ -1,23 +1,35 @@
-:template: 2018/eu/index.html
-:banner: _static/2018/assets/headers/prague-group.png
+:template: {{year}}/{{templatecode}}/index.html
+:orphan:
 
-Write the Docs Prague 2018
-==========================
+.. Left blank as all content is in the index.html file apart from news and speaker datatemplates
 
-Write the Docs Prague 2018 will be **September 9-11, 2018**.
-The schedule will be:
+.. raw:: html
 
-* September 8: Boat Ride
-* September 9: Writing Day & Reception
-* September 10: Day 1 & Party
-* September 11: Day 2 & goodbyes :(
+  <!--
+  <div class="news-block">
+    <div class="uk-container">
 
-Leading up to the conference,
-the following will happen:
+      <h2>News</h2>
 
-* March 9: Open the Call for Proposals
-* May 9: Close the Call for Proposals
-* May 23: Contact people with results of CFP submission
-* June 9: Announce the conference talks
+      <a href="/conf/prague/2018/news/welcome/">
+        <section class="news">
+          <div class="date">
+            <p class="month" style="width: 120px;">November</p>
+            <p class="day">15</p>
+            <p class="year">2017</p>
+          </div>
+          <div class="content">
+            <h4>Announcing Call for Proposals and Website</h4>
 
-We look forward to having another wonderful conference in 2018!
+            <p>Welcome to the official launch of Write the Docs Portland 2018. We hope you're getting excited – we certainly are! It’s shaping up to be another wonderful year full of great conversations and interesting talks.</p>
+          </div>
+        </section>
+      </a>
+
+      <div class="learn-more">
+        <a class="uk-align-right" href="/conf/portland/2018/news/">Read More News</a>
+      </div>
+
+    </div>
+  </div> -->
+  <!--- end news block -->

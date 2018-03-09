@@ -4,6 +4,7 @@
 Tickets
 =======
 
+
 {% if flagticketsonsale %}
 
 **Tickets on sale now!**
@@ -14,15 +15,15 @@ Each ticket includes:
 
 * Entry to all conference events and activities
 * Breakfast, snacks, and lunch on all conference days
-* Welcome Reception and Social Event that will have light snacks and free drinks.
+* Welcome Reception and Social Event with light snacks and free drinks
 * Wifi throughout the event
-* Meeting lots of fantastic people in a spacious, inviting venue.
+* Meeting lots of fantastic people in a spacious, inviting venue
 
 
 .. class:: ticket
 
 Community Sponsorship Tickets *{{tickets.community.price}}*
-------------------------------------
+------------------------------------------
 
 Support the growing community! Get a logo on our website, as well as a ticket.
 This option is great for startups, open-source projects, and small non-profit organizations.
@@ -38,7 +39,7 @@ If you are a larger company or organization, please contact us at sponsorship@wr
 .. class:: ticket
 
 **Corporate Tickets** *{{tickets.corporate.price}}*
-----------------------------
+------------------------------------
 
 Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
 
@@ -47,10 +48,11 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 * `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
 
 {% endif %}
+
 .. class:: ticket
 
 **Independent Tickets** *{{tickets.independent.price}}*
-------------------------------
+------------------------------------
 
 Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with less than 10 employees.
 
@@ -59,10 +61,11 @@ Purchase this ticket if you are paying for yourself, or if you work at a non-pro
 * `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
 
 {% endif %}
+
 .. class:: ticket
 
 **Student or Unemployed** *{{tickets.independent.price}}*
---------------------------------
+------------------------------------
 
 Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
 

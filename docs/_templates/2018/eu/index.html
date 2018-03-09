@@ -1,5 +1,9 @@
 {% extends "2018/base_eu.html" %}
 
+{% block full_title %}
+Home - Write the Docs Prague 2018
+{% endblock %}
+
 {% block container %}
 <div class="hero" style="background-image: url({{ pathto('_static/2018/assets/images/backgrounds/prague-green.jpg', 1) }});">
     <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18">
@@ -77,7 +81,6 @@
         <h2>What is Write the Docs about?</h2>
         <p>Write the Docs brings everyone who writes the docs together in the same room: Programmers, Tech Writers, Support, Designers, Developer Advocates, and more. We all have things to learn from each other, and there’s no better way than sitting together and talking.</p>
         <p>We invite you to join 300 other folks in a three-day event to explore the art and science of documentation.</p>
-        <p><strong>Detailed information about the schedule, locations, and call for proposals will be published soon. In the meantime, save the dates and sign up for our mailing list to stay updated.</strong></p>
       </div>
       <div class="picture-set">
         <div data-aos="pictrue-03" data-aos-once="true">
@@ -114,13 +117,41 @@
         <em>September 10-11</em>
         <p>The main days of the conference. We will be running our main track in the ballroom, and the Unconference.</p>
       </div>
-      <!--
+
+      {% if flagspeakersannounced %}
+
       <div class="learn-more">
         <a class="uk-align-right" href="{{ pathto('conf/prague/2018/schedule') }}">See the Full Schedule</a>
       </div>
-      -->
+
+      {% endif %}
+
     </div>
   </div><!-- end schedule overview -->
+
+  <div class="about">
+    <div class="uk-container">
+      <div class="about-content">
+        <h2>Write the Docs Prague 2018</h2>
+        <p>Write the Docs Prague 2018 will be held on <strong>September 9-11, 2018</strong>. The schedule will be:</p>
+        <ul>
+        <li>September 8: Boat Ride</li>
+        <li>September 9: Writing Day &amp; Reception</li>
+        <li>September 10: Day 1 &amp; Party</li>
+        <li>September 11: Day 2 &amp; goodbyes :(</li>
+        </ul>
+        <p>Leading up to the conference, the following will happen:</p>
+        <ul>
+        <li>March 15: Open the Call for Proposals</li>
+        <li>May 15: Close the Call for Proposals</li>
+        <li>May 31: Contact people with results of CFP submission</li>
+        <li>June 11: Announce the conference talks</li>
+        </ul>
+        <p>We look forward to having another wonderful conference in 2018!</p>
+
+        </div>
+      </div>
+    </div>
 
   {# include "include/2018/sponsors.html" #}
 
