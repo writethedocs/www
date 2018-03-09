@@ -53,9 +53,12 @@
         <meta name="dc.language" content="en">
         <meta name="geo.placename" content="Prague, Czech Republic">
 
-        <title>{% if title %}{{ title }}{% endif %} - Write the Docs Prague 2018</title>
-        {% block head_link %}
-        {% endblock %}
+        <title>
+        {% block full_title %}
+        {% if title %}{{ title }}{% endif %} - Write the Docs Prague 2018
+        {% endblock full_title %}
+        </title>
+
     </head>
     <body>
 
