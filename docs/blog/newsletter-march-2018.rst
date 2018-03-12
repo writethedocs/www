@@ -51,6 +51,15 @@ Suggestions for other solutions included:
 * `Antora <https://antora.org/>`_ (an Asciidoctor toolchain)
 * `MadCap Flare <https://www.madcapsoftware.com/products/flare/>`_
 
+
+---------------------------------------
+The whys and wherefores of tagging docs
+---------------------------------------
+
+A question this month about developing a meaningful tagging strategy produced both some useful ideas for strategy and the inevitable reminder that maintaining doc sets over time is challenging. Some folks wanted to provide tags to integrate with search, to provide more sophisticated results than exact string matching. Others saw tagging as little more than help for SEO. The original poster was looking for a system to check for consistency across doc sets. In other words, a way to correlate tags in metadata both within a single doc set and across multiple doc sets. Topics with shared tags could then be checked to make sure that information complements and doesn't compete or conflict across topics.
+
+Most people who had tried tagging, though, agreed that it was difficult to maintain consistent tagging over time, even with small content sets. Automated tagging tends to produce too many tags. Controlled terminology seems like part of the answer, but it's also a huge project to maintain. Conclusion: you need a big compelling reason to undertake the long-term maintenance that a really useful tagging strategy requires. But in the right circumstances, it could help maintain clarity and consistency across multiple large doc sets.
+
 ---------------------
 Featured job postings
 ---------------------
