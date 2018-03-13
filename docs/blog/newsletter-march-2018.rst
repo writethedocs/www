@@ -8,7 +8,7 @@ Write the Docs Newsletter – March 2018
 
 Hi y'all,
 
-Kelly O. here, wishing you a very happy weekend! We had the (hopefully) last throes of London winter last week, and I'm starting to get stoked for proper springtime. Not just because it means warmer temperatures for me, but also because it means Write the Docs Portland is getting closer and closer!
+Kelly O. here, wishing you a very happy weekend! We had what I hope were the last throes of London winter last week, and I'm starting to get stoked for proper springtime. Not just because it means warmer temperatures for me, but also because it means Write the Docs Portland is getting closer and closer!
 
 Look out for the full conference schedule to go live here soon, and make sure you pop over and `get your tickets <http://www.writethedocs.org/conf/portland/2018/tickets/>`_, as we'll likely sell out a few weeks before the event.
 
@@ -64,10 +64,10 @@ Most people who had tried tagging, though, agreed that it was difficult to maint
 Featured job postings
 ---------------------
 
-*To post or apply for a job, visit the `Write the Docs job board <https://jobs.writethedocs.org/>`_.*
+*To post or apply for a job*, visit the `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
-`Looking for a Documentarian in Berlin <https://jobs.writethedocs.org/job/50/looking-for-a-documentarian-in-berlin/>`_
- NetworkedAssets GmbH, Full-time
+* `Looking for a Documentarian in Berlin <https://jobs.writethedocs.org/job/50/looking-for-a-documentarian-in-berlin/>`_
+   NetworkedAssets GmbH, Full-time
 
 -------------------------
 Upcoming community events
@@ -93,7 +93,7 @@ March 21 – Perth, Western Australia – `Moving from Word to the Web | Contrib
 
 March 22 – Boise, Idaho, USA – `First meetup of 2018 <https://www.meetup.com/Write-the-Docs-Boise/events/246900941/>`_
 
-March 27 – Boston, Massachusetts, USA – `Moving Docs to Sphinx <https://www.meetup.com/Write-the-Docs-BOS/events/247849315/>`_
+March 27 – Boston, Massachusetts, USA – `Moving Docs to Sphinx <https://www.meetup.com/Write-the-Docs-BOS/events/247849315/>`_
 
 March 29 – San Francisco, CA, USA – `Hack-A-Thon! Swimming in the deep water: a lone writer’s survival guide <https://www.meetup.com/Write-the-Docs-SF/events/248343809/>`_
 
