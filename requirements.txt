@@ -10,4 +10,7 @@ csvkit==1.0.2
 yamllint
 pathlib
 #https://urllib3.readthedocs.io/en/latest/user-guide.html#ssl-py2
-urllib3[secure]
+pyOpenSSL
+cryptography
+idna
+certifi
