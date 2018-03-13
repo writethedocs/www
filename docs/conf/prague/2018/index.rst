@@ -11,17 +11,17 @@
 
       <h2>News</h2>
 
-      <a href="/conf/prague/2018/news/welcome/">
+      <a href="/conf/prague/2018/news/prague-18-welcome/">
         <section class="news">
           <div class="date">
-            <p class="month" style="width: 120px;">November</p>
+            <p class="month" style="width: 120px;">March</p>
             <p class="day">15</p>
-            <p class="year">2017</p>
+            <p class="year">2018</p>
           </div>
           <div class="content">
-            <h4>Announcing Call for Proposals and Website</h4>
+            <h4>Announcing Prague Website, CFP, and Ticket Sales</h4>
 
-            <p>Welcome to the official launch of Write the Docs Portland 2018. We hope you're getting excited – we certainly are! It’s shaping up to be another wonderful year full of great conversations and interesting talks.</p>
+            <p>Welcome to the official kick-off of Write the Docs Prague 2018! It’s shaping up to be another wonderful year full of great conversations and interesting talks...</p>
           </div>
         </section>
       </a>
