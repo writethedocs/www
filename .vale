@@ -10,3 +10,7 @@ vale.GenderBias = YES
 
 TheEconomist.UnnecessaryWords = YES
 TheEconomist.Hectoring = YES
+
+[_build/html/conf/prague/2018/**/*.html]
+BasedOnStyles = WTD
+WTD.EU = YES
