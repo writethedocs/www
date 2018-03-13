@@ -9,3 +9,8 @@ docutils<0.13.1
 csvkit==1.0.2
 yamllint
 pathlib
+#https://urllib3.readthedocs.io/en/latest/user-guide.html#ssl-py2
+pyOpenSSL
+cryptography
+idna
+certifi
