@@ -1,5 +1,7 @@
 extends: existence
-message: Use EUR symbol instead of USD symbol
+message: Prague pages should not include Portland-ish terms
+level: error
 scope: text
 tokens:
   - $
+  - Portland

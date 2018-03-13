@@ -3,6 +3,7 @@ MinAlertLevel = warning
 
 [*.{md,rst,txt,json}]
 BasedOnStyles = WTD
+WTD.EU = NO
 
 vale.Redundancy = YES
 #vale.Repetition = YES
@@ -11,6 +12,6 @@ vale.GenderBias = YES
 TheEconomist.UnnecessaryWords = YES
 TheEconomist.Hectoring = YES
 
-[_build/html/conf/prague/2018/**/*.html]
+[**/prague/2018/**/*.html]
 BasedOnStyles = WTD
 WTD.EU = YES
