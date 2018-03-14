@@ -12,7 +12,7 @@ sys.path.append(os.getcwd())  # noqa
 
 from _ext.core import add_jinja_filters, rstjinja, override_page_template, load_conference_data
 from _ext.meetups import MeetupListing
-from ._ext.videos import main
+from _ext.videos import main
 
 
 exclude_patterns = [
