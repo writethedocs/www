@@ -1,3 +1,6 @@
+from __future__ import print_function
+from future import standard_library
+standard_library.install_aliases()
 import os
 import io
 import re
@@ -13,7 +16,7 @@ except ImportError:
 
 try:
     # Python 2.6-2.7
-    from HTMLParser import HTMLParser
+    from html.parser import HTMLParser
 except ImportError:
     # Python 3
     from html.parser import HTMLParser

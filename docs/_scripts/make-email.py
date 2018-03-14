@@ -13,6 +13,7 @@ python make-email.py http://www.writethedocs.org/conf/na/2016/news/thanks-for-co
 To copy things into the clip board
 
 """
+from __future__ import print_function
 import re
 import sys
 from pyquery import PyQuery as pq

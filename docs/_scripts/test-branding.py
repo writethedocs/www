@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+from __future__ import print_function
 import os
 import sys
 from os.path import dirname, abspath
@@ -16,11 +17,11 @@ def searchthis(location, searchterm):
             fullpath = os.path.join(dir_path, file_name)
             for line in file(fullpath):
                 if searchterm in line:
-                    print "[{file}:{num}] {line}".format(
+                    print("[{file}:{num}] {line}".format(
                         file=fullpath,
                         num='?',
                         line=line,
-                    )
+                    ))
                     invalid = True
     return invalid
 
@@ -38,8 +39,8 @@ if any([
     na_wrong_branding_1,
     na_wrong_branding_2,
 ]):
-    print "Branding is broken!"
+    print("Branding is broken!")
     sys.exit(1)
 else:
-    print "Branding looks good!"
+    print("Branding looks good!")
     sys.exit(0)

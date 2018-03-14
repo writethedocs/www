@@ -42,7 +42,7 @@ def load_meetups_by_region():
         if 'website' not in meetup:
             raise ExtensionError('Meetup needs a website')
         result[meetup['region']].append(meetup)
-    for _, meetups in result.items():
+    for _, meetups in list(result.items()):
         meetups.sort(key=lambda m: m.get('city', m['country']))
     return result
 
