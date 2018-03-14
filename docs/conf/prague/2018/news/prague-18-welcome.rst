@@ -30,7 +30,7 @@ However, if you can't afford these prices and still wish to attend, please email
 
 As with the previous years, we have tiered pricing to make it fair for everyone.
 Please buy the ticket that best fits your situation.
-Tickets are `on sale now <http://www.writethedocs.org/conf/eu/2017/tickets/>`_.
+Tickets are `on sale now <http://www.writethedocs.org/conf/eu/2018/tickets/>`_.
 
 **Please note that this year we will be selling shirts separately**, and we are looking into alternative swag options.
 Stay tuned for details!
