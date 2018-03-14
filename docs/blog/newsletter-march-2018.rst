@@ -1,4 +1,4 @@
-.. post:: March 12, 2018
+.. post:: March 14, 2018
    :tags: newsletter
 
 
@@ -8,7 +8,7 @@ Write the Docs Newsletter – March 2018
 
 Hi y'all,
 
-Kelly O. here, wishing you a very happy weekend! We had what I hope were the last throes of London winter last week, and I'm starting to get stoked for proper springtime. Not just because it means warmer temperatures for me, but also because it means Write the Docs Portland is getting closer and closer!
+Kelly O. here, wishing you a very happy middle of the week! We had what I hope were the last throes of London winter last week, and I'm starting to get stoked for proper springtime. Not just because it means warmer temperatures for me, but also because it means Write the Docs Portland is getting closer and closer!
 
 Look out for the full conference schedule to go live here soon, and make sure you pop over and `get your tickets <http://www.writethedocs.org/conf/portland/2018/tickets/>`_, as we'll likely sell out a few weeks before the event.
 
