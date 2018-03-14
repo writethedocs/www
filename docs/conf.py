@@ -25,7 +25,7 @@ exclude_patterns = [
 # Only build the videos on production, to speed up dev
 import os
 on_rtd = os.environ.get('READTHEDOCS') == 'True'
-on_netlify = os.environ.get('MAKE_VIDEOS') == 'True'
+on_netlify = os.environ.get('BUILD_VIDEOS') == 'True'
 if not on_rtd and not on_netlify:
    exclude_patterns.append('videos')
 
