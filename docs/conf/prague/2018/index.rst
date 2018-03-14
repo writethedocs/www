@@ -5,7 +5,6 @@
 
 .. raw:: html
 
-  <!--
   <div class="news-block">
     <div class="uk-container">
 
@@ -31,5 +30,5 @@
       </div>
 
     </div>
-  </div> -->
+  </div>
   <!--- end news block -->
