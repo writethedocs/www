@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "eb2206101fbebc46ee85d09fb14c62036e602c841ffdffb602825d629e43f812"
+            "sha256": "e43f4e8d5657317d54401eb670d6694d1717d2a6446dfa2d543947a06d37d8f4"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -21,6 +21,9 @@
                 "sha256:abb943a93078f5a060cee8f5dbfc44bd65bd1bef448c099e072265fab9ee57a9"
             ],
             "version": "==0.8.4"
+        },
+        "ablog-dev": {
+            "git": "https://github.com/tadeboro/ablog"
         },
         "agate": {
             "hashes": [
@@ -68,6 +71,13 @@
                 "sha256:ad209a68d7162c4cff4b29cdebe3dec4cef75492df501b0049a9433c96ce6f80"
             ],
             "version": "==2.5.3"
+        },
+        "certifi": {
+            "hashes": [
+                "sha256:14131608ad2fd56836d33a71ee60fa1c82bc9d2c8d98b7bdbc631fe1b3cd1296",
+                "sha256:edbc3f203427eef571f79a7692bb160a2b0f7ccaa31953e99bd17e307cf63f7d"
+            ],
+            "version": "==2018.1.18"
         },
         "commonmark": {
             "hashes": [
@@ -303,6 +313,10 @@
             ],
             "version": "==0.1.0"
         },
+        "sphinxcontrib.datatemplates-dev": {
+            "git": "https://github.com/ericholscher/datatemplates",
+            "ref": "add-key-and-context"
+        },
         "sqlalchemy": {
             "hashes": [
                 "sha256:249000654107a420a40200f1e0b555a79dfd4eff235b2ff60bc77714bd045f2d"
@@ -332,6 +346,13 @@
                 "sha256:8c33dd588e0c9bc22a76eaa0c715a5434851f726131bd44a6c26471746efabf5"
             ],
             "version": "==1.0.22"
+        },
+        "urllib3": {
+            "hashes": [
+                "sha256:06330f386d6e4b195fbfc736b297f58c5a892e4440e54d294d7004e3a9bbea1b",
+                "sha256:cc44da8e1145637334317feebd728bd869a35285b93cbb4cca2577da7e62db4f"
+            ],
+            "version": "==1.22"
         },
         "virtualenv": {
             "hashes": [

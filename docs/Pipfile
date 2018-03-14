@@ -18,7 +18,9 @@ docutils = "<0.13.1"
 csvkit = "==1.0.2"
 yamllint = "*"
 pathlib = "*"
-future = "*"
+ablog-dev = {git = "https://github.com/tadeboro/ablog"}
+"sphinxcontrib.datatemplates-dev" = {git = "https://github.com/ericholscher/datatemplates", ref = "add-key-and-context"}
+"urllib3" = {extras = ["secure"]}
 
 
 [dev-packages]
