@@ -1,7 +1,7 @@
 Visiting Portland
 =================
 
-Wondering where to stay and how to get around once you get into {{city}} CITY?
+Wondering where to stay and how to get around once you get into Portland?
 The conference will be held at the `Crystal Ballroom <http://www.mcmenamins.com/CrystalBallroom>`__, in downtown Portland, and most conference events will be held within just a few blocks of the Crystal Ballroom.
 
 Eating
