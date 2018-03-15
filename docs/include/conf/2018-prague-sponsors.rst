@@ -18,12 +18,6 @@
           </div>
 
           <div class="uk-width-1-2@s">
-            <a href="https://www.redhat.com/en">
-              <img src="/_static/img/sponsors/redhat.png">
-            </a>
-          </div>
-
-          <div class="uk-width-1-2@s">
             <a href="https://www.people-text.de/en/">
               <img src="/_static/img/sponsors/people-text.png">
             </a>
