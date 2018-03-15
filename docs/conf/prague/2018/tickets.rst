@@ -22,7 +22,7 @@ Each ticket includes:
 
 .. class:: ticket
 
-Community Sponsorship Tickets *{{tickets.community.price}}*
+**Community Sponsorship Tickets** *{{tickets.community.price}}*
 ------------------------------------------
 
 Support the growing community! Get a logo on our website, as well as a ticket.
@@ -45,7 +45,7 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 
 {% if flagticketsonsale %}
 
-* `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+* `Buy Corporate Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
 
 {% endif %}
 
@@ -58,20 +58,20 @@ Purchase this ticket if you are paying for yourself, or if you work at a non-pro
 
 {% if flagticketsonsale %}
 
-* `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+* `Buy Independent Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
 
 {% endif %}
 
 .. class:: ticket
 
-**Student or Unemployed** *{{tickets.student.price}}*
+**Student or Unemployed Tickets** *{{tickets.student.price}}*
 ------------------------------------
 
 Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
 
 {% if flagticketsonsale %}
 
-* `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+* `Buy Student or Unemployed Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
 
 {% endif %}
 .. class:: ticket
