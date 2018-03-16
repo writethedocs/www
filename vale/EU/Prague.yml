@@ -1,0 +1,6 @@
+extends: existence
+message: "Prague pages should not include NA-specific terms like '%s'"
+level: error
+nonword: true
+tokens:
+  - '(?:\$[,\d]+|Portland)\b'
