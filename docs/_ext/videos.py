@@ -64,6 +64,7 @@ def main():
                 os.makedirs(index_path)
             with io.open(os.path.join(index_path, 'index.rst'), 'w+') as fp:
                 fp.write(generate_video_listing(year, region))
+
             for idx, speaker in enumerate(data['speakers']):
                 video_slug = generate_video_slug(speaker)
                 video_path = os.path.join(index_path, video_slug)

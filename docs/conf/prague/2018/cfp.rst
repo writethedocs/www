@@ -4,7 +4,7 @@
 Call for Proposals
 ==================
 
-Hello hello, fellow documentarians! 
+Hello hello, fellow documentarians!
 
 It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{area}} conference, coming up on {{date.main}}.
 
@@ -53,6 +53,7 @@ make too many assumptions about what people already know.
 
 Take a look at the abstracts for accepted talks from the last couple of conferences for some ideas:
 
+* `Portland 2018 <http://www.writethedocs.org/conf/portland/2018/speakers/>`_
 * `Portland 2017 <http://www.writethedocs.org/conf/na/2017/speakers/>`_
 * `Prague 2017 <http://www.writethedocs.org/conf/eu/2017/speakers/>`_
 * `Portland 2016 <http://www.writethedocs.org/conf/na/2016/speakers/>`_
