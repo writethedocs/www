@@ -5,6 +5,7 @@ Uses a speakers.json Google contacts export run through jsoncsv::
 
 Then the 2016.json is Lanyrd data.
 """
+from __future__ import print_function
 import json
 
 data = json.load(open('2016.json'))
@@ -17,9 +18,9 @@ for s in speaker_data:
         firstname = s['Name'].split(' ')[0].lower()
         speakers[firstname] = s['E-mail 1 - Value']
     except:
-        print "FAIL"
+        print("FAIL")
 
-print speakers
+print(speakers)
 
 for day in data['sessions']:
     for talk in day['sessions']:
@@ -30,5 +31,5 @@ for day in data['sessions']:
                 speaker['email'] = speakers[firstname]
                 talk['email'] = speakers[firstname]
             except:
-                print "FAIL"
-                print firstname
+                print("FAIL")
+                print(firstname)
