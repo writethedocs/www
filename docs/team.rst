@@ -209,8 +209,12 @@ Members
 * `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
 
 
+.. vale off
+
 Write the Docs Alumni
 ---------------------
+
+.. vale on
 
 These are folks who have helped a lot in the past,
 but have moved on to other projects.
