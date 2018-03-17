@@ -1,3 +1,5 @@
+from __future__ import print_function
+from builtins import str
 from users.models import *
 from grants.models import *
 from django.utils.text import slugify
@@ -28,13 +30,13 @@ if use_json:
             'slug': slugify(app.name),
             'name': app.name,
             'title': app.answers.get(question__question='Talk Title').answer.encode('utf-8'),
-            'abstract': markdown.markdown(unicode(
+            'abstract': markdown.markdown(str(
                 app.answers.get(question__question='Talk Abstract').answer.encode('utf-8'), 'utf-8'
             )),
             'details': '',
         })
 
-    print json.dumps(to_json, indent=4)
+    print(json.dumps(to_json, indent=4))
 
 # Speaker List in email
 
@@ -42,8 +44,8 @@ if use_email:
 
     for source in all_talks:
         app = source.applicant
-        print "* {name} - [{title}](/conf/na/2016/speakers/#speaker-{slug})".format(**{
+        print("* {name} - [{title}](/conf/na/2016/speakers/#speaker-{slug})".format(**{
             'slug': slugify(app.name),
             'name': app.name,
             'title': app.answers.get(question__question='Talk Title').answer.encode('utf-8'),
-        })
+        }))

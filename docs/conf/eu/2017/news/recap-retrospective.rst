@@ -36,7 +36,11 @@ Following the conference, here is an anonymized list of CoC-related incidents th
 
 - One of the presenters made a joke during their talk that was considered discriminatory. We removed the mention from the presentation video before publishing it, and asked that the presenter refrain from these jokes in future Write the Docs events.
 
+.. vale off
+
 - We received several reports of over-use of the word "guys" to refer to people in general. This was not confined to a single incident, and repeated among presenters and attendees. Barring specific people to address, we'd like to remind everyone to carefully consider which pronouns and other classifications to use when addressing a diverse group.
+
+.. vale on
 
 As mentioned, this report is anonymized and published for the sake of maintaining transparency, and to encourage folks in our community to report incidents that might disrupt the atmosphere we are passionate about.
 

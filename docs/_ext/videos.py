@@ -7,7 +7,9 @@ Create new videos by adding the following to ``conf.py``::
 
     html_context.update(main())
 """
+from __future__ import print_function
 
+from builtins import str
 import io
 import os
 import os.path
@@ -86,16 +88,16 @@ def main():
     os.makedirs(os.path.join('videos', 'by-year'))
     os.makedirs(os.path.join('videos', 'by-series'))
 
-    for year, regions in conference_data.items():
-        year_path = os.path.join('videos', 'by-year', unicode(year))
+    for year, regions in list(conference_data.items()):
+        year_path = os.path.join('videos', 'by-year', str(year))
         sessions_by_year[year] = []
         with io.open(year_path + '.rst', 'w') as fp:
             print('Generated {}.rst'.format(year_path + '.rst'))
             fp.write(generate_videolisting_by_year(year))
-        for region, data in regions.items():
+        for region, data in list(regions.items()):
             if region not in sessions_by_series:
                 sessions_by_series[region] = []
-            index_path = os.path.join('conf', region, unicode(year), 'videos')
+            index_path = os.path.join('conf', region, str(year), 'videos')
             shutil.rmtree(index_path, ignore_errors=True)
             os.makedirs(index_path)
             for idx, speaker in enumerate(data['speakers']):
@@ -107,7 +109,7 @@ def main():
                 sessions_by_year[year].append(speaker)
                 sessions_by_series[region].append(speaker)
                 print('Generated {}.rst'.format(video_path))
-    for series in sessions_by_series.keys():
+    for series in list(sessions_by_series.keys()):
         series_file = os.path.join('videos', 'by-series', '{}.rst'.format(series))
         with io.open(series_file, 'w+') as fp:
             fp.write(generate_videolisting_by_series(series))

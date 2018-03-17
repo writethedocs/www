@@ -33,7 +33,11 @@ Sustainability
 
 We want to:
 
+.. vale off
+
 * Build a sustainable organization with paid staff to run the community operations instead of relying on volunteers for ongoing global maintenance and support. Our network of volunteers is invaluable, but we cannot expect people to "do it for free" in the long term.
+
+.. vale on
 
 * Create stable infrastructure for the community to grow on top of so that we are not relying on specific individuals to manage ongoing operations. This allows people to step up or down from teams and roles without damaging the framework of the community.
 
@@ -48,7 +52,11 @@ Openness
 
 We want to:
 
+.. vale off
+
 * Deliver all our content for free to everyone. All our documentation, videos, talk abstracts, session notes, and resources are available online. We do not hide anything behind a paywall, and our Slack is open to anyone who wants to join and network with other documentarians.
+
+.. vale on
 
 * Create an open platform for community members to consume and contribute to our content. Our website infrastructure as well as our brand resources are open to everyone to use to spread the word, as long as you follow our :doc`brand-guidelines`. Anyone can start :doc:`meetups/index`, and we provide support for local communities.
 

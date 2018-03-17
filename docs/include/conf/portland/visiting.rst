@@ -3,7 +3,8 @@ Visiting Portland
 
 *The 2018 conference planning group includes an Explore Portland committee. Proud locals Mo Nishiyama and Alicia Duncan will be answering questions and providing tips and information on the #wtd-conferences Slack channel as the event draws near. Feel free to ping us directly as well!*
 
-Wondering where to stay and how to get around once you get into {{city}} CITY?
+Wondering where to stay and how to get around once you get into Portland?
+
 The conference will be held at the `Crystal Ballroom <http://www.mcmenamins.com/CrystalBallroom>`__, in downtown Portland, and most conference events will be held within just a few blocks of the Crystal Ballroom.
 
 Eating
