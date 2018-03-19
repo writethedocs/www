@@ -28,7 +28,7 @@ There is plenty to do during the conference and volunteers are essential to the 
 
 We are looking for folks to help out in these roles:
 
-- Ballroom setup - Prepping the main conference hall for the main conference, including laying out cables/power strips, arranging tables/chairs, and other physical labor
+- Ballroom setup - Prepping the main conference hall for the main conference, including laying out cables/power strips, arranging tables/chairs, and other light physical labor
 - Writing day - Registering people and general information inquiries, most likely directions to various rooms and schedule questions, assist with other duties as assigned
 - Registration/Info - Registering people in the main conference hall and answering any questions
 - Speakers - Finding speakers and making sure that they're where they need to be when it comes time to speak
