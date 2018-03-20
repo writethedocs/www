@@ -6,7 +6,15 @@
 Call for Volunteers, Shirts on Sale, Tickets Update
 ===================================================
 
-Greetings, fellow documentarians! The Portland conference is just short of two months away, and we can't wait to see you all soon! Here are the latest updates from the conference team to help you prepare.
+Greetings, fellow documentarians! The Portland conference is less than two months away, and we can't wait to see you all soon! Here are the latest updates from the conference team to help you prepare.
+
+Tickets are selling out
+-----------------------
+
+Each year we are amazed at the growing support of our community, and tickets have been selling out earlier each conference.
+We are now about **85%** sold out, and judging from past events we do expect to be sold out within the next few weeks.
+
+If you're still on the fence, now is the time to decide and `get your tickets <https://ti.to/writethedocs/write-the-docs-portland-2018/>`_.
 
 Shirts on sale
 --------------
@@ -14,12 +22,11 @@ Shirts on sale
 As you probably noticed, we are not including shirts with your conference ticket this year.
 This is due partially to the logistics of sizing, ordering, and managing stock, but also because of the inevitable leftovers that we find ourselves with every year.
 
-Inspired by our friends at DjangoCon US, we decided to shake things up and launch a separate sales channel for shirts, if you have your heart set out on them.
+Inspired by our friends at DjangoCon US, we decided to shake things up and sell shirts separately, so you can buy exactly the fit and size that you want!
 You can now visit our `Write the Docs Portland 2018 Pop-Up Shop <https://teespring.com/wtd-portland-2018-shirts>`_ and order this year's branded shirt.
 The campaign will run until **April 15th** to allow for timely delivery of your shirts ahead of the conference.
 
 And don't worry, you'll still have a Write the Docs Portland 2018 souvenier from the conference even if you decide not to order a shirt.
-We'll send another update once we finalized the design and product.
 
 Call for volunteers
 -------------------
@@ -43,20 +50,11 @@ If you are interested in volunteering for the conference, please read and fill o
 
 Please feel free to email b.yoose@gmail.com if you have any questions about volunteering for the conference.
 
-Tickets are selling out
------------------------
-
-Each year we are amazed at the growing support of our community, and tickets have been selling out earlier each conference.
-We are now about **85%** sold out, and judging from past events we do expect to be sold out within the next few weeks.
-
-If you're still on the fence, now is the time to decide and `get your tickets <https://ti.to/writethedocs/write-the-docs-portland-2018/>`_.
-
 Welcome to our newest sponsors
 ------------------------------
 
 We are so grateful to have our sponsors help in bringing these events to life every year. Thanks sincerely to the following companies for joining our sponsor lineup and supporting the Write the Docs community:
 
--
 
 If you want to sponsor our Portland or Prague conference (or both!), send us an email at sponsorship@writethedocs.org.
 
