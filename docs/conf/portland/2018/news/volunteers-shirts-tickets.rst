@@ -61,11 +61,9 @@ Thanks sincerely to the following companies for joining our sponsor lineup and s
 - `Twilio <https://www.twilio.com/>`_
 - `Cloud Native Computing Foundation <https://www.cncf.io/>`_
 
-We're excited about the new Job Fair this year,
-along with the other normal sponsorship activies that we have had in past years.
+We're excited about the new Job Fair this year, along with the other normal sponsorship activies that we have had in past years.
 
-If you're company is hiring or looking to learn more from our community,
-you can find for information for `Portland`_ & `Prague`_ sponsorships.
+If your company is hiring or looking to learn more from our community, you can find for information for `Portland`_ and `Prague`_ sponsorships.
 
 .. _Portland: http://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/
 .. _Prague: http://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/
