@@ -41,7 +41,7 @@ We are looking for folks to help out in these roles:
 
 If you are interested in volunteering for the conference, please read and fill out the `Call for Volunteers form <https://goo.gl/forms/MprOM1PfOAdD6TKG3>`_. You will receive additional information in early April regarding shifts, detailed duties, and other updates to the volunteer duties and schedules.
 
-Please feel free to email b.yoose@gmail.com if you have any questions about volunteering for the conference.
+Please email Becky at b.yoose@gmail.com if you have any questions about volunteering for the conference.
 
 Tickets are selling out
 -----------------------
@@ -54,11 +54,22 @@ If you're still on the fence, now is the time to decide and `get your tickets <h
 Welcome to our newest sponsors
 ------------------------------
 
-We are so grateful to have our sponsors help in bringing these events to life every year. Thanks sincerely to the following companies for joining our sponsor lineup and supporting the Write the Docs community:
+We're glad to welcome another round of sponsors to the conference this year.
+Thanks sincerely to the following companies for joining our sponsor lineup and supporting the Write the Docs community:
 
--
+- `Netlify <https://www.netlify.com/>`_
+- `Braintree <https://www.braintreepayments.com/>`_
+- `Twilio <https://www.twilio.com/>`_
+- `Cloud Native Computing Foundation <https://www.cncf.io/>`_
 
-If you want to sponsor our Portland or Prague conference (or both!), send us an email at sponsorship@writethedocs.org.
+We're excited about the new Job Fair this year,
+along with the other normal sponsorship activies that we have had in past years.
+
+If you're company is hiring or looking to learn more from our community,
+you can find for information for `Portland`_ & `Prague`_ sponsorships.
+
+.. _Portland: http://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/
+.. _Prague: http://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/
 
 Prague conference launch
 ------------------------
