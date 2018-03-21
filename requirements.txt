@@ -12,3 +12,4 @@ pathlib
 git+https://github.com/tadeboro/ablog#egg=ablog-dev
 git+https://github.com/ericholscher/datatemplates@add-key-and-context#egg=sphinxcontrib.datatemplates-dev
 urllib3[secure]
+meetup-api
