@@ -7,6 +7,7 @@ Stay Connected
 
    /newsletter
    /slack
+   /job-board
    /blog/index
 
 Mailing List
@@ -27,15 +28,24 @@ or moving them there if they develop into something bigger.
 
 Learn more about our :doc:`/slack`.
 
-Twitter
-~~~~~~~
+Job Board
+~~~~~~~~~
 
-We're pretty active on `Twitter <https://twitter.com/hashtag/writethedocs?f=tweets&vertical=default&lang=en>`__ as well, mostly on **#writethedocs**.
+Write the Docs now has a :doc:`/job-board`.
+This is the place to go if you want to hire or be hired by companies in the Write the Docs community.
+
+Promoted postings will also show up in our newsletter,
+so you can also keep track of jobs by subscribing there!
 
 Blog
 ~~~~~
 
 Check out our :doc:`/blog/index` to see updates from the Community. These will also be sent to the :doc:`/newsletter`.
+
+Twitter
+~~~~~~~
+
+We're pretty active on `Twitter <https://twitter.com/hashtag/writethedocs?f=tweets&vertical=default&lang=en>`_. You can follow the **#writethedocs** hashtag to see community tweets.
 
 Write to Us
 ~~~~~~~~~~~
