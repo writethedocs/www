@@ -481,7 +481,8 @@ body .uk-offcanvas-slide a.uk-button-ghost {
         -ms-flex-direction: column;
             flex-direction: column; }
     .sponsors .uk-container .silver-sponsors a, .sponsors .uk-container .bronze-sponsors a, .sponsors .uk-container .sponsor a {
-      border: none !important; }
+      border: none !important;
+      border-bottom: none !important; }
     .sponsors .uk-container .silver-sponsors > *, .sponsors .uk-container .bronze-sponsors > *, .sponsors .uk-container .sponsor > * {
       display: -webkit-box;
       display: -ms-flexbox;
