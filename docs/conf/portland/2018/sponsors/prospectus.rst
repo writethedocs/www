@@ -133,7 +133,7 @@ The **Publisher** package costs **$4,000**.
 Patron
 ------
 
-Limit 2 (**One remaining**)
+Limit 2 (**Sold out**)
 
 The **Patron** package highlights your company as a force in the industry and community:
 
@@ -151,7 +151,7 @@ The **Patron** package costs **$8,000**.
 Keystone
 --------
 
-Limit 1 (**Sold Out**)
+Limit 1 (**Sold out**)
 
 The **Keystone** package highlights you as our main community partner:
 
@@ -253,11 +253,11 @@ Eric Holscher will be your primary contact, but our team is available at sponsor
 What are the dates that sponsors need to know about in advance?
 ------------------------------------------------------------------
 
-* **SUNDAY**: The swag tables are available during the Writing Day. Sponsor booths are available on Sunday from 10am-4pm.
+* **SUNDAY**: The swag tables are available during the Writing Day, if you want to put out swag items early. Sponsor booths are available for setup on Sunday from 10am-4pm, but don't need people in them yet.
 
 * **MONDAY**: Doors open at 8am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the conference, when sponsors tables will need to be staffed. The conference will run until around 5pm.
 
-* **TUESDAY**: The Job Fair will be from 9-11:30am, set up will be at 8:30am. Sponsor tear down in the main hall will be 4pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening.
+* **TUESDAY**: The Job Fair will be from 9:30-11:30am, set up will be at 8:30am. Sponsor tear down in the main hall will be 4pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening.
 
 How do I use get my free tickets?
 ---------------------------------
