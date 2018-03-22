@@ -7,6 +7,7 @@ Stay Connected
 
    /newsletter
    /slack
+   /job-board
    /blog/index
 
 Mailing List
@@ -15,7 +16,7 @@ Mailing List
 We have mailing lists for our Monthly Newsletter, North American Conferences, and European Conferences.
 They are low traffic, and only send occasional community and event updates.
 
-You can sign up in our sidebar.
+You can sign up on our :doc:`/newsletter` page.
 
 Slack
 ~~~~~
@@ -27,15 +28,25 @@ or moving them there if they develop into something bigger.
 
 Learn more about our :doc:`/slack`.
 
-Twitter
-~~~~~~~
+Job Board
+~~~~~~~~~
 
-We're pretty active on `Twitter <https://twitter.com/hashtag/writethedocs?f=tweets&vertical=default&lang=en>`__ as well, mostly on **#writethedocs**.
+Write the Docs now has a :doc:`/job-board`.
+This is the place to go if you want to find a documentarian job!
+
+We also publicise job posts in our newsletter,
+which goes out to over 3,000 recipients.
+So you can also stay in the loop that way!
 
 Blog
 ~~~~~
 
 Check out our :doc:`/blog/index` to see updates from the Community. These will also be sent to the :doc:`/newsletter`.
+
+Twitter
+~~~~~~~
+
+We're pretty active on `Twitter <https://twitter.com/hashtag/writethedocs?f=tweets&vertical=default&lang=en>`_. You can follow the **#writethedocs** hashtag to see community tweets.
 
 Write to Us
 ~~~~~~~~~~~
