@@ -16,7 +16,7 @@ Mailing List
 We have mailing lists for our Monthly Newsletter, North American Conferences, and European Conferences.
 They are low traffic, and only send occasional community and event updates.
 
-You can sign up in our sidebar.
+You can sign up on our :doc:`/newsletter` page.
 
 Slack
 ~~~~~
@@ -32,10 +32,11 @@ Job Board
 ~~~~~~~~~
 
 Write the Docs now has a :doc:`/job-board`.
-This is the place to go if you want to hire or be hired by companies in the Write the Docs community.
+This is the place to go if you want to find a documentarian job!
 
-Promoted postings will also show up in our newsletter,
-so you can also keep track of jobs by subscribing there!
+We also publicise job posts in our newsletter,
+which goes out to over 3,000 recipients.
+So you can also stay in the loop that way!
 
 Blog
 ~~~~~

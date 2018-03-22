@@ -25,6 +25,6 @@ Sign up as an employer,
 add your job listing,
 and start talking to the documentarians who can help.
 
-Check it our over a https://jobs.writethedocs.org/.
+Check it out over at https://jobs.writethedocs.org/.
 
 .. _job board: https://jobs.writethedocs.org/
