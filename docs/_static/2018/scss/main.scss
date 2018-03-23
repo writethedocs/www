@@ -665,9 +665,10 @@ body .uk-offcanvas-slide a.uk-button-ghost {
 			padding-bottom: 20px;
 		}
 
-		.silver-sponsors, .bronze-sponsors, .sponsor {
+		.gold-sponsors, .silver-sponsors, .bronze-sponsors, .sponsor {
    	   		a {
    				border: none !important;
+   				border-bottom: none !important;
    			}
 
 			display: flex;
@@ -1092,7 +1093,7 @@ footer {
 	}
 
 	.sponsors .uk-container {
-		.silver-sponsors, .bronze-sponsors, .sponsor {
+		.gold-sponsors, .silver-sponsors, .bronze-sponsors, .sponsor {
 			flex-direction: row;
 			flex-wrap: wrap;
 

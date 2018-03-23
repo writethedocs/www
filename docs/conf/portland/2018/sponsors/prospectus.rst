@@ -231,8 +231,8 @@ Run of Show
 
 A quick overview of the spaces:
 
-* The *main ballroom* is where talks and most sponsorship activity happens. We will have booths & swag tables set up at the back of the main ballroom. Here is a `picture from last year <https://www.flickr.com/photos/writethedocs/34495135662>`_
-* *Lola's Room* is downstairs from the main ballroom. This is where the Unconference & Job Fair will happen. Another `picture from last year   <https://www.flickr.com/photos/writethedocs/34536045142/in/album-72157683817839465/>`_.
+* The *main ballroom* is where talks and most sponsorship activity happens. We will have booths & swag tables set up at the back of the main ballroom. Here is a `picture from last year <https://www.flickr.com/photos/writethedocs/34495135662>`_ before the attendees showed up.
+* *Lola's Room* is downstairs from the main ballroom. This is where the Unconference & Job Fair will happen. Another `picture <https://www.flickr.com/photos/writethedocs/34536045142/in/album-72157683817839465/>`_ shows the idea.
 
 An overview of the conference schedule:
 
@@ -270,7 +270,7 @@ What do I need for the job fair?
 The job fair will be a low key event. Every participant will have a six-foot table and two chairs, in a seperate room from the primary conference. Giveaways/flyers are welcome, but please keep your setup requirements simple.
 
 What happens with my swag items?
--------------------------------
+--------------------------------
 
 We will have a few "swag tables" that are placed around the back of the main ballroom. This will be where sponsor and community stickers & swag will be located, so that attendees are free to pick it up. If you have a booth, you are also welcome to place swag on the booth.
 
