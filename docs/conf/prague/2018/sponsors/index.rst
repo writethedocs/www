@@ -40,6 +40,6 @@ These amazing media professionals have teamed up with us to capture the Write th
 .. raw:: html
 
     {% macro sponsors() %}
-    {% include "include/2018/portland-sponsors-media.html" %}
+    {% include "include/2018/prague-sponsors-media.html" %}
     {% endmacro %}
     {{ sponsors()|indent(4) }}
