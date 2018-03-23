@@ -94,9 +94,20 @@
                 </div>
 
 
-                {# include "include/2018/sponsors.html" #}
+            {# Show sponsors in footer of non-sponsor pages #}
+            {% if "sponsors/index" not in pagename %}
+            <div class="sponsors">
+                <div class="uk-container">
+                <h2 class="uk-first-column">Sponsors</h2>
+                    {% include "include/2018/prague-sponsors.html" %}
+                    <div class="learn-more">
+                        <a class="uk-align-right" href="/conf/prague/2018/sponsors/prospectus/">Become a sponsor</a>
+                    </div>
+                    </div>
+            </div>
+            {% endif %}
 
-                <footer>
+            <footer>
               <div class="footer-padding"></div>
                     <div class="uk-container">
                         <div class="footer-content">
