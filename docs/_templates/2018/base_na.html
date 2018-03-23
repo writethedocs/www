@@ -66,17 +66,31 @@
         {% block container %}
         {% endblock %}
 
-        <div class="footer-head">
-            <div class="uk-container">
-                <h3>Join us now!</h3>
-                <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/portland/2018/tickets') }}">
-                    Buy a Ticket!
-                </a>
-                <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/portland/2018/speakers') }}">
-                    See the talks!
-                </a>
+            <div class="footer-head">
+                <div class="uk-container">
+                    <h3>Join us now!</h3>
+
+                    {% if flagticketsonsale %}
+
+                    <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/portland/2018/tickets') }}">Buy a Ticket!</a>
+
+                    {% endif %}
+
+                    {% if flagcfp %}
+
+                    <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/portland/2018/cfp') }}">Submit a
+                    Talk</a>
+
+                    {% endif %}
+
+                    {% if flagspeakersannounced %}
+
+                    <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/portland/2018/speakers') }}">See the talks!</a>
+
+                    {% endif %}
+
+                </div>
             </div>
-        </div>
 
         {# Show sponsors in footer of non-sponsor pages #}
         {% if "sponsors/index" not in pagename %}
