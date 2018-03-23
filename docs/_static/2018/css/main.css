@@ -472,7 +472,7 @@ body .uk-offcanvas-slide a.uk-button-ghost {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 20px; }
-  .sponsors .uk-container .silver-sponsors, .sponsors .uk-container .bronze-sponsors, .sponsors .uk-container .sponsor {
+  .sponsors .uk-container .gold-sponsors, .sponsors .uk-container .silver-sponsors, .sponsors .uk-container .bronze-sponsors, .sponsors .uk-container .sponsor {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -480,10 +480,10 @@ body .uk-offcanvas-slide a.uk-button-ghost {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column; }
-    .sponsors .uk-container .silver-sponsors a, .sponsors .uk-container .bronze-sponsors a, .sponsors .uk-container .sponsor a {
+    .sponsors .uk-container .gold-sponsors a, .sponsors .uk-container .silver-sponsors a, .sponsors .uk-container .bronze-sponsors a, .sponsors .uk-container .sponsor a {
       border: none !important;
       border-bottom: none !important; }
-    .sponsors .uk-container .silver-sponsors > *, .sponsors .uk-container .bronze-sponsors > *, .sponsors .uk-container .sponsor > * {
+    .sponsors .uk-container .gold-sponsors > *, .sponsors .uk-container .silver-sponsors > *, .sponsors .uk-container .bronze-sponsors > *, .sponsors .uk-container .sponsor > * {
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex;
@@ -826,14 +826,14 @@ footer {
         font-size: 20px; }
     .news-block .uk-container .news .content {
       padding: 28px; }
-  .sponsors .uk-container .silver-sponsors, .sponsors .uk-container .bronze-sponsors, .sponsors .uk-container .sponsor {
+  .sponsors .uk-container .gold-sponsors, .sponsors .uk-container .silver-sponsors, .sponsors .uk-container .bronze-sponsors, .sponsors .uk-container .sponsor {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
         -ms-flex-direction: row;
             flex-direction: row;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap; }
-    .sponsors .uk-container .silver-sponsors > *, .sponsors .uk-container .bronze-sponsors > *, .sponsors .uk-container .sponsor > * {
+    .sponsors .uk-container .gold-sponsors > *, .sponsors .uk-container .silver-sponsors > *, .sponsors .uk-container .bronze-sponsors > *, .sponsors .uk-container .sponsor > * {
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex;
