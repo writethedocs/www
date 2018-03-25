@@ -55,6 +55,11 @@ Shaun McCance
 
 .. include:: /include/bios/shaun.rst
 
+Alicia Duncan
+~~~~~~~~~~~~~
+
+.. include:: /include/bios/alicia.rst
+
 Primary Roles
 -------------
 
@@ -74,7 +79,7 @@ Filled Roles
 * **Sponsorship lead** - Eric Holscher
 * **Welcome Wagon coordinators** - Christy Lutz
 * **Hike coordinator** - Eric Holscher
-* **Explore Portland coordinator** - Mo Nishiyama
+* **Explore Portland coordinators** - Mo Nishiyama and Alicia Duncan
 
 Organizers Needed
 ~~~~~~~~~~~~~~~~~
