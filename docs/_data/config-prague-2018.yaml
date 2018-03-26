@@ -69,15 +69,15 @@ about:
     Unconference Room, downstairs
 
 cfp:
-  url: FIXME
-  ends: Sunday, May 13th
-  notification: Sunday, June 10th
+  url: https://goo.gl/forms/M6YjhBgmCEwOwrzP2
+  ends: Tuesday, May 15th
+  notification: Thursday, May 31st
 
 job_fair:
   location: Unconference Room, downstairs
 
 flagspeakersannounced: False
-flagcfp: False
-flagticketsonsale: False
+flagcfp: True
+flagticketsonsale: True
 flaghashike: False
 flaghasboat: True

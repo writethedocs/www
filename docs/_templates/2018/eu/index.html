@@ -52,7 +52,7 @@ Home - Write the Docs Prague 2018
 
          {% if flagcfp %}
 
-         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/prague/2018/cfp') }}">Submit a
+         <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/prague/2018/cfp') }}">Submit a
          Talk</a>
 
          {% endif %}
@@ -129,29 +129,10 @@ Home - Write the Docs Prague 2018
     </div>
   </div><!-- end schedule overview -->
 
-  <div class="about">
-    <div class="uk-container">
-      <div class="about-content">
-        <h2>Write the Docs Prague 2018</h2>
-        <p>Write the Docs Prague 2018 will be held on <strong>September 9-11, 2018</strong>. The schedule will be:</p>
-        <ul>
-        <li>September 8: Boat Ride</li>
-        <li>September 9: Writing Day &amp; Reception</li>
-        <li>September 10: Day 1 &amp; Party</li>
-        <li>September 11: Day 2 &amp; goodbyes :(</li>
-        </ul>
-        <p>Leading up to the conference, the following will happen:</p>
-        <ul>
-        <li>March 15: Open the Call for Proposals</li>
-        <li>May 15: Close the Call for Proposals</li>
-        <li>May 31: Contact people with results of CFP submission</li>
-        <li>June 11: Announce the conference talks</li>
-        </ul>
-        <p>We look forward to having another wonderful conference in 2018!</p>
 
-        </div>
-      </div>
-    </div>
+    {% block body %}
+      {{ body }}
+    {% endblock body %}
 
   {# include "include/2018/sponsors.html" #}
 

@@ -45,7 +45,7 @@ If you get into town early, join us and experience Prague from the water.
 
 The Writing Day and Welcome Reception will be held at the **{{about.venue}}**.
 
-*Breakfast and lunch will be provided, as well as snacks and drinks throughtout the day.*
+*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
 
 .. contents::
     :local:
@@ -78,7 +78,7 @@ We'll also help groups organize dinner plans, so you can continue your conversat
 This is the main event! Hear from lots of interesting folks about all things documentation.
 We will have talks all day on the main stage, and a unconference session running in parallel in the afternoon.
 
-*Breakfast and lunch will be provided, as well as snacks and drinks throughtout the day.*
+*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
@@ -123,7 +123,7 @@ There will be light snacks and drinks available on the conference while our tab 
 
 And the conference goes on!
 
-*Breakfast and lunch will be provided, as well as snacks and drinks throughtout the day.*
+*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
 
 Conference Talks
 ~~~~~~~~~~~~~~~~

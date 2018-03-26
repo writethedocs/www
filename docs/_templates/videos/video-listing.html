@@ -1,0 +1,20 @@
+{%- set talks = data -%}
+
+.. raw:: html
+
+    <div class="meetup-video-container">
+    {% for talk in talks %}
+        {% if talk.youtubeId %}
+        <article class="video">
+            <a href="/videos/{{ talk.series_slug }}/{{ talk.year }}/{{ talk.slug }}/">
+                <div class="image image-grid-element"><img class="video-listing__item__preview" alt="" src="https://i.ytimg.com/vi/{{ talk.youtubeId }}/hqdefault.jpg" /></div>
+            </a>
+            <a href="/videos/{{ talk.series_slug }}/{{ talk.year }}/{{ talk.slug }}/">
+                <p><i>{% for speaker in talk.speakers -%}
+                {{ speaker.name }}
+                {%- endfor %}:</i> {{ talk.title }}</p>
+            </a>
+        </a></article>
+        {% endif %}
+    {% endfor %}
+    </div>

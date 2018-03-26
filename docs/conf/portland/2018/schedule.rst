@@ -124,7 +124,7 @@ Job Fair
 New in 2018! We'll be holding a job fair on Tuesday morning!
 
 * **Where**: Lola's room, Crystal Ballroom
-* **When**: **9am-11:30am**
+* **When**: **9:30am-11:30am**
 * **Details**: TBA
 
 Unconference

@@ -1,3 +1,6 @@
+from __future__ import print_function
+from future import standard_library
+standard_library.install_aliases()
 import os
 import io
 import re
@@ -13,7 +16,7 @@ except ImportError:
 
 try:
     # Python 2.6-2.7
-    from HTMLParser import HTMLParser
+    from html.parser import HTMLParser
 except ImportError:
     # Python 3
     from html.parser import HTMLParser
@@ -27,7 +30,7 @@ def load_yaml(path):
 def load_page_yaml_data(app, page):
     p = PurePath(page)
     data = app.config.html_context
-    if page.startswith(('conf/portland/', 'conf/prague', 'conf/australia')) and p.parts[2] >= 2018:
+    if page.startswith(('conf/portland/', 'conf/prague', 'conf/australia')) and int(p.parts[2]) >= 2018:
         yaml_config = load_yaml('_data/config-' + p.parts[1] + '-' + p.parts[2] + '.yaml')
         data.update(yaml_config)
     return data

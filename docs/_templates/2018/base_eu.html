@@ -67,36 +67,47 @@
             {% endblock %}
 
 
-                <div class="footer-head">
-                    <div class="uk-container">
-                        <h3>Join us now!</h3>
+            <div class="footer-head">
+                <div class="uk-container">
+                    <h3>Join us now!</h3>
 
-                        {% if flagticketsonsale %}
+                    {% if flagticketsonsale %}
 
-                        <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/{{shortcode}}/{{year}}/tickets') }}">Buy a Ticket!</a>
+                    <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/prague/2018/tickets') }}">Buy a Ticket!</a>
 
-                        {% endif %}
+                    {% endif %}
 
-                        {% if flagcfp %}
+                    {% if flagcfp %}
 
-                        <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/{{shortcode}}/{{year}}/cfp') }}">Submit a
-                        Talk</a>
+                    <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/prague/2018/cfp') }}">Submit a
+                    Talk</a>
 
-                        {% endif %}
+                    {% endif %}
 
-                        {% if flagspeakersannounced %}
+                    {% if flagspeakersannounced %}
 
-                        <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/{{shortcode}}/{{year}}/speakers') }}">See the talks!</a>
+                    <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/prague/2018/speakers') }}">See the talks!</a>
 
-                        {% endif %}
+                    {% endif %}
 
-                    </div>
                 </div>
+            </div>
 
 
-                {# include "include/2018/sponsors.html" #}
+            {# Show sponsors in footer of non-sponsor pages #}
+            {% if "sponsors/index" not in pagename %}
+            <div class="sponsors">
+                <div class="uk-container">
+                <h2 class="uk-first-column">Sponsors</h2>
+                    {% include "include/2018/prague-sponsors.html" %}
+                    <div class="learn-more">
+                        <a class="uk-align-right" href="/conf/prague/2018/sponsors/prospectus/">Become a sponsor</a>
+                    </div>
+                    </div>
+            </div>
+            {% endif %}
 
-                <footer>
+            <footer>
               <div class="footer-padding"></div>
                     <div class="uk-container">
                         <div class="footer-content">
