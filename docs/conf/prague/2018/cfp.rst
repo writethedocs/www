@@ -53,11 +53,15 @@ make too many assumptions about what people already know.
 
 Take a look at the abstracts for accepted talks from the last couple of conferences for some ideas:
 
+.. vale off
+
 * `Portland 2018 <http://www.writethedocs.org/conf/portland/2018/speakers/>`_
 * `Portland 2017 <http://www.writethedocs.org/conf/na/2017/speakers/>`_
 * `Prague 2017 <http://www.writethedocs.org/conf/eu/2017/speakers/>`_
 * `Portland 2016 <http://www.writethedocs.org/conf/na/2016/speakers/>`_
 * `Prague 2016 <http://www.writethedocs.org/conf/eu/2016/speakers/>`_
+
+.. vale on
 
 Need help?
 -----------
