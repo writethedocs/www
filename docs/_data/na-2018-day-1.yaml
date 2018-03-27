@@ -1,0 +1,77 @@
+- Duration: '60'
+  Session: Doors Open, Breakfast Served
+  Time: '8:00'
+- Duration: '30'
+  Session: Introduction to Write the Docs
+  Time: '9:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '9:30'
+- Duration: '30'
+  Session: "Building Empathy-Driven Developer Documentation \u2013 Kat King"
+  Time: '9:40'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '10:10'
+- Duration: '30'
+  Session: "Research like you\u2019re wrong: Lessons from user research gone rogue\
+    \  \u2013 Jen Lambourne"
+  Time: '10:20'
+- Duration: '20'
+  Session: Snack break
+  Time: '10:50'
+- Duration: '30'
+  Session: "Not the docs: Shepherding a developer blog of many voices across many\
+    \ timezones \u2013 Havi Hoffman"
+  Time: '11:10'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '11:40'
+- Duration: '30'
+  Session: "Audience, Market, Product: Tips for strategic API documentation planning\
+    \ \u2013 Bob Watson"
+  Time: '11:50'
+- Duration: '60'
+  Session: Lunch
+  Time: '12:20'
+- Duration: '30'
+  Session: Lightning Talks
+  Time: '13:20'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '13:50'
+- Duration: '30'
+  Session: "Rewrite the Docs!: Field Notes from the Radical IT department \u2013 Camille\
+    \ Acey"
+  Time: '14:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '14:30'
+- Duration: '30'
+  Session: "Who Writes the Docs? \u2013 Beth Aitman"
+  Time: '14:40'
+- Duration: '20'
+  Session: Snack break
+  Time: '15:10'
+- Duration: '30'
+  Session: "Writing the Next Great Tech Book \u2013 Brian MacDonald"
+  Time: '15:30'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '16:00'
+- Duration: '30'
+  Session: "The Facts About FAQs \u2013 Ashleigh Rentz"
+  Time: '16:10'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '16:40'
+- Duration: '30'
+  Session: "Graphic Content Warning: The Pros, Cons, and Alternatives to Screenshots\
+    \ \u2013 Steve Stegelin"
+  Time: '16:50'
+- Duration: '10'
+  Session: Group Photo
+  Time: '17:20'
+- Duration: null
+  Session: Day 1 wraps up
+  Time: '17:30'
