@@ -69,10 +69,17 @@ Conference Talks
 * **When**: **9am-5pm**
 * **Details**: Exact schedule TBA
 
-..
-    .. datatemplate::
-       :source: /_data/na-2018-day-1.yaml
-       :template: include/schedule2018.rst
+{% if flaghasschedule %}
+
+.. datatemplate::
+   :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
+   :template: include/schedule2018.rst
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
+
+
 
 Unconference
 ~~~~~~~~~~~~
@@ -113,10 +120,15 @@ Conference Talks
 * **When**: **9am-4pm**
 * **Details**: Exact schedule TBA
 
-..
-    .. datatemplate::
-       :source: /_data/na-2018-day-1.yaml
-       :template: include/schedule2018.rst
+{% if flaghasschedule %}
+
+.. datatemplate::
+   :source: /_data/{{templatecode}}-{{year}}-day-2.yaml
+   :template: include/schedule2018.rst
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
 
 Job Fair
 ~~~~~~~~
