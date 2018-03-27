@@ -36,7 +36,7 @@ Here are some good general resources -- perhaps someone in your company is alrea
 - [Techprose techwriting guidelines (PDF)](http://www.techprose.com/assets/techwriting_guidelines.pdf)
 - [Microsoft manual of style](https://ptgmedia.pearsoncmg.com/images/9780735648715/samplepages/9780735648715.pdf)
 - [Oxford manual of style](https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf)
-- [IBM style guide](https://www.redbooks.ibm.com/Redbooks.nsf/ibmpressisbn/9780132101301?Open)
+- [IBM style guide](https://www.ibm.com/developerworks/library/styleguidelines/)
 - [Handbook of Technical Writing](http://www.macmillanlearning.com/Catalog/product/handbookoftechnicalwriting-eleventhedition-alred)
 
 If you belong to an open-source community or NGO, you can consider the following resources:
