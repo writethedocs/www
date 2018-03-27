@@ -1,7 +1,7 @@
 StylesPath = vale
 MinAlertLevel = warning
 
-[docs/conf/prague/**/*.{rst}]
+[docs/conf/prague/**/*.rst]
 BasedOnStyles = EU
 
 [docs/_data/config-prague-2018.yaml]

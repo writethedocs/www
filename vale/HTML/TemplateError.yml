@@ -1,0 +1,6 @@
+extends: existence
+message: "Curly braces for template variables should not show up in HTML output"
+level: error
+nonword: true
+tokens:
+  - '(?:\$[,\d]+|Portland)\b'
