@@ -1,13 +1,22 @@
 StylesPath = vale
-MinAlertLevel = warning
+MinAlertLevel = error
 
-[docs/conf/prague/**/*.{rst}]
+# Note that bcause we're calling vale from tox, we need to remove the starting  /docs dir...
+
+
+# Check EU stuff for irrelevant words and symbols
+
+[conf/prague/**/*.{rst}]
 BasedOnStyles = EU
 
-[docs/_data/config-prague-2018.yaml]
+[_data/config-prague-2018.yaml]
 BasedOnStyles = EU
 
-[*.{md,rst,txt,json}]
+# We'll want to add AU and Portland here
+
+# WTD checks on the input
+
+[*.{md,rst}]
 BasedOnStyles = WTD
 
 vale.Redundancy = YES
@@ -15,3 +24,6 @@ vale.GenderBias = YES
 
 TheEconomist.UnnecessaryWords = YES
 TheEconomist.Hectoring = YES
+
+# Add checks on the output
+# {{}}

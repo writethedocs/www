@@ -1,6 +1,8 @@
 extends: existence
 message: "Prague pages should not include NA-specific terms like '%s'"
+scope: text
 level: error
-nonword: true
+ignorecase: false
 tokens:
-  - '(?:\$[,\d]+|Portland)\b'
+  - Portland
+  - Crystal

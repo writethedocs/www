@@ -1,0 +1,5 @@
+extends: existence
+message: "Prague pages should not include '%s'"
+level: error
+raw:
+  - '\$'
