@@ -1,14 +1,12 @@
 StylesPath = vale
 MinAlertLevel = error
 
-# Note that bcause we're calling vale from tox, we need to remove the starting  /docs dir...
-
 # Check EU stuff for irrelevant words and symbols
 
-[conf/prague/**/*.{rst}]
+[docs/conf/prague/**/*.{rst}]
 BasedOnStyles = EU
 
-[_data/config-prague-2018.yaml]
+[docs/_data/config-prague-2018.yaml]
 BasedOnStyles = EU
 
 # We'll want to add AU and Portland here
