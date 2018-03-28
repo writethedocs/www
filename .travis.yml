@@ -9,7 +9,7 @@ install:
   - eval "$(gimme 1.7)"
   - go get github.com/ValeLint/vale
 script:
-  - cd docs
-  - rst2html.py
+  #- cd docs
+  - which rst2html
   #- make html
   #- vale .
