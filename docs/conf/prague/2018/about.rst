@@ -4,6 +4,9 @@
 About the Conference
 ====================
 
+$100!!
+$200!!
+
 We invite you to join hundreds of other folks for a three-day event to explore the art and science of documentation.
 The Write the Docs conference covers any topic related to documentation in the software industry.
 Past talks have also covered such diverse topics as empathy, the history of math symbols, and using emoji to keep your users' attention.

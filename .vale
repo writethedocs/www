@@ -3,7 +3,6 @@ MinAlertLevel = error
 
 # Note that bcause we're calling vale from tox, we need to remove the starting  /docs dir...
 
-
 # Check EU stuff for irrelevant words and symbols
 
 [conf/prague/**/*.{rst}]
