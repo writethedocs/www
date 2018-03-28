@@ -10,5 +10,6 @@ install:
   - go get github.com/ValeLint/vale
 script:
   - cd docs
-  - make html
-  - vale .
+  - rst2html.py
+  #- make html
+  #- vale .
