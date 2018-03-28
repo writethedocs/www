@@ -3,10 +3,10 @@ MinAlertLevel = error
 
 # Check EU stuff for irrelevant words and symbols
 
-[docs/conf/prague/**/*.{rst}]
+[conf/prague/**/*.{rst}]
 BasedOnStyles = EU
 
-[docs/_data/config-prague-2018.yaml]
+[_data/config-prague-2018.yaml]
 BasedOnStyles = EU
 
 # We'll want to add AU and Portland here
