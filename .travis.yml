@@ -10,7 +10,6 @@ install:
   - go get github.com/ValeLint/vale
   - pip install -r requirements.txt
 script:
-  #- cd docs
-  - which rst2html
-  #- make html
-  #- vale .
+  - cd docs
+  - make html
+  - vale .
