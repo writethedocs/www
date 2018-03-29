@@ -16,6 +16,7 @@ Each year we organize a wide range of events so that people can come together, c
 --------------------------------------------------
 
 {% if flaghashike %}
+.. vale off
 
 Hike
 ~~~~
@@ -27,9 +28,11 @@ If you get into town early, join us on the hike and take the chance to explore P
 * **When**: 13:45
 * **Details**: :doc:`Annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/outing>`
 
+.. vale on
 {% endif %}
 
 {% if flaghasboat %}
+.. vale off
 
 Boat Ride
 ~~~~~~~~~
@@ -37,6 +40,7 @@ Boat Ride
 The only event scheduled on Saturday is the :doc:`Prague Boat Ride </conf/{{shortcode}}/{{year}}/outing>`.
 If you get into town early, join us and experience Prague from the water.
 
+.. vale on
 {% endif %}
 
 
