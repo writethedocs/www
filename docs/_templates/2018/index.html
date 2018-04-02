@@ -4,6 +4,14 @@
 Home - Write the Docs {{ name }} {{ year }}
 {% endblock %}
 
+{% block head_link %}
+<style>
+.page-content h1 {
+    display: none;
+}
+</style>
+{% endblock %}
+
 {% block container %}
 <div class="hero" style="background-image: url({{ pathto('_static/2018/assets/images/backgrounds/prague-green.jpg', 1) }});">
     <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18">
@@ -130,8 +138,12 @@ Home - Write the Docs {{ name }} {{ year }}
   </div><!-- end schedule overview -->
 
 
-    {% block body %}
-      {{ body }}
-    {% endblock body %}
+    <div class="page-content">
+        <div class="uk-container">
+                {% block body %}
+                {{ body }}
+              {% endblock body %}
+        </div>
+    </div>
 
 {% endblock container %}

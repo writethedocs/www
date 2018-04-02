@@ -58,6 +58,9 @@
         {% endblock full_title %}
         </title>
 
+        {% block head_link %}
+        {% endblock %}
+
     </head>
     <body>
 
@@ -93,6 +96,20 @@
         </div>
     </div>
 
+    {# Show sponsors in footer of non-sponsor pages #}
+    {# 
+    {% if "sponsors/index" not in pagename %}
+    <div class="sponsors">
+        <div class="uk-container">
+        <h2 class="uk-first-column">Sponsors</h2>
+            {% include "2018/" + templatecode + "/sponsors.html" %}
+            <div class="learn-more">
+                <a class="uk-align-right" href="/conf/portland/2018/sponsors/prospectus/">Become a sponsor</a>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+    #}
 
     <footer>
         <div class="footer-padding"></div>
