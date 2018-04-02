@@ -1,0 +1,8 @@
+extends: existence
+message: "Portland pages should not include EU-specific terms like '%s'"
+scope: text
+level: error
+ignorecase: false
+tokens:
+  - Prague
+  - Autoklub
