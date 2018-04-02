@@ -53,7 +53,7 @@
     </div>
     <!-- end page-banner -->
 
-
+  {% if body %}
     <div class="page-content">
         <div class="uk-container">
                 {% block body %}
@@ -61,6 +61,6 @@
               {% endblock body %}
         </div>
     </div>
-
+  {% endif %}
 
 {% endblock container %}
