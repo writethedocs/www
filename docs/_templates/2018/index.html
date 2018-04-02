@@ -137,7 +137,7 @@ Home - Write the Docs {{ name }} {{ year }}
     </div>
   </div><!-- end schedule overview -->
 
-
+  {% if body %}
     <div class="page-content">
         <div class="uk-container">
                 {% block body %}
@@ -145,5 +145,6 @@ Home - Write the Docs {{ name }} {{ year }}
               {% endblock body %}
         </div>
     </div>
+  {% endif %}
 
 {% endblock container %}
