@@ -43,14 +43,17 @@ date: # how do we handle these? human readable would be nice.
     event: Talks
     date: X
     summary: The primary conference day, with talks.
+    icon: conference
   day_two:
     event: Discussions
     date: X
     summary: Talk with other documentarians to learn more about everything and anything.
+    icon: conference
   day_three:
     event: Sprints
     date: X
     summary: Get some work done and learn by doing from the others in the room
+    icon: writing
 
 about:
   summary:

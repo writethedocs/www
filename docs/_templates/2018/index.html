@@ -100,19 +100,19 @@ Home - Write the Docs {{ name }} {{ year }}
     <div class="uk-container" uk-grid>
       <h2>Schedule Overview</h2>
       <div class="schedule-item uk-width-1-3@s">
-        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/boat-green.svg', 1) }}">
+        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/' + date.day_one.icon + '-green.svg', 1) }}">
         <h3>{{ date.day_one.event }} </h3>
         <em>{{ date.day_one.date }} </em>
         <p>{{ date.day_one.summary }} </p>
       </div>
       <div class="schedule-item uk-width-1-3@s">
-        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/writing-green.svg', 1) }}">
+        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/' + date.day_two.icon + '-green.svg', 1) }}">
         <h3>{{ date.day_two.event }} </h3>
         <em>{{ date.day_two.date }} </em>
         <p>{{ date.day_two.summary }} </p>
       </div>
       <div class="schedule-item uk-width-1-3@s">
-        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/conference-green.svg', 1) }}">
+        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/' + date.day_three.icon + '-green.svg', 1) }}">
         <h3>{{ date.day_three.event }} </h3>
         <em>{{ date.day_three.date }} </em>
         <p>{{ date.day_three.summary }} </p>
