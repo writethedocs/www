@@ -36,7 +36,7 @@ Here are some good general resources -- perhaps someone in your company is alrea
 - [Techprose techwriting guidelines (PDF)](http://www.techprose.com/assets/techwriting_guidelines.pdf)
 - [Microsoft manual of style](https://ptgmedia.pearsoncmg.com/images/9780735648715/samplepages/9780735648715.pdf)
 - [Oxford manual of style](https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf)
-- [IBM style guide](https://www.redbooks.ibm.com/Redbooks.nsf/ibmpressisbn/9780132101301?Open)
+- [IBM style guide](https://www.ibm.com/developerworks/library/styleguidelines/)
 - [Handbook of Technical Writing](http://www.macmillanlearning.com/Catalog/product/handbookoftechnicalwriting-eleventhedition-alred)
 
 If you belong to an open-source community or NGO, you can consider the following resources:
@@ -84,8 +84,6 @@ Rather than reinvent the wheel, here are some resources curated by [Ivan Walsh](
 - [Gather Content — Developing a Content style guide](https://blog.gathercontent.com/tone-of-voice-guide)
 - [HubSpot — How to Create a Writing style guide Built for the Web](http://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx)
 - [Meet Content — Editorial Style for the Web](http://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
-- [Pebble Road — Creating and maintaining a web style guide](http://www.pebbleroad.com/articles/Creating-Maintaining-a-Web-Style-Guide)
-- [Pressly — 5 style guides for better content](http://blog.pressly.com/2013/09/24/5-style-guides-craft-content/)
 - [Stanford — Creating a web style guide](https://swsblog.stanford.edu/blog/creating-web-style-guide-cardinal-work)
 - [Techwhirl – Developing a Style Guide for Technical Publications](http://techwhirl.com/developing-a-departmental-style-guide/)
 - [UCR — Writing for the Web, Content Guidelines](http://cms.ucr.edu/writing_web_content.html)
