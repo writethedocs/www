@@ -88,7 +88,7 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: Lola's room, Crystal Ballroom
-* **When**: **1pm-5pm**
+* **When**: **9:30am-5pm**
 * **Details**: :doc:`/conf/portland/2018/unconference`
 
 Monday Night Social
@@ -102,7 +102,7 @@ This event is for **conference attendees only**. Please bring your badge to be l
 There will be light snacks and drinks available on the conference while our tab lasts.
 
 * **Where**: TBA
-* **When**: **7pm-23pm**
+* **When**: **7pm-11pm**
 * **Details**: TBA
 
 Tuesday, May 8
@@ -147,5 +147,5 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: Lola's room, Crystal Ballroom
-* **When**: **12:30am-5pm**
+* **When**: **12:30pm-5pm**
 * **Details**: :doc:`/conf/portland/2018/unconference`
