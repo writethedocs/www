@@ -31,7 +31,7 @@ def load_yaml(path):
 def load_page_yaml_data(app, page):
     p = PurePath(page)
     data = app.config.html_context
-    if page.startswith(('conf/portland/', 'conf/prague', 'conf/australia', 'conf/cincinatti')) and int(p.parts[2]) >= 2018:
+    if page.startswith('conf') and int(p.parts[2]) >= 2018:
         yaml_config = load_yaml('_data/config-' + p.parts[1] + '-' + p.parts[2] + '.yaml')
         data.update(yaml_config)
     return data

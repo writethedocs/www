@@ -1,12 +1,12 @@
-name: Cincinatti
-shortcode: cincinatti # prague australia?
+name: Cincinnati
+shortcode: cincinnati # prague australia?
 templatecode: cin # HACK
 year: 2018
-city: Cincinatti
+city: Cincinnati
 area: Ohio
 tz: EST
 email: support@writethedocs.org
-short_dates: "Aug X-Y, 2018"
+short_dates: "Aug 18-22, 2018"
 
 tickets:
   community:
@@ -36,36 +36,36 @@ sponsorship:
     price: TBD
 
 date: # how do we handle these? human readable would be nice.
-  main: "**August X-Y, 2018, in Cincinatti, Ohio**"
+  main: "**August 18-22, 2018, in Cincinnati, Ohio**"
   tickets_live: "May 2018"
   month: August
   day_one:
     event: Talks
-    date: X
+    date: Aug 18
     summary: The primary conference day, with talks.
     icon: conference
   day_two:
     event: Discussions
-    date: X
+    date: Aug 19
     summary: Talk with other documentarians to learn more about everything and anything.
     icon: conference
   day_three:
     event: Sprints
-    date: X
+    date: Aug 20-22
     summary: Get some work done and learn by doing from the others in the room
     icon: writing
 
 about:
   summary:
-    "The main presentation track takes place from **September 9-11 (Monday and Tuesday) from 10:00 to 18:00**.
-    During the main event we also run an :doc:`/conf/prague/2018/unconference`.
+    "The main presentation track takes place on August 18 from 9:00 to 5:00**.
+    During the main event we also run an :doc:`/conf/cincinnati/2018/unconference`.
 
     You can find out more information about the venue and its accessibility on our :doc:`/conf/prague/2018/venue` page."
   venue:
-    "Beer Place"
+    Union Hall
   attendees: 100
   mainroom:
-    Main Ballroom
+    Main Room
   unconfroom:
     Unconference Room
 
@@ -75,7 +75,7 @@ cfp:
   notification: Thursday, May 31st
 
 job_fair:
-  location: Unconference Room, downstairs
+  location: Unconference Room
 
 flaglanding: True
 flagspeakersannounced: False
