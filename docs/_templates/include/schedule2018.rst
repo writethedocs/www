@@ -26,23 +26,20 @@
                     'Write the Docs meetup social and conference after-party',
                     ] %}
 
-{% for talk in data %}
-
-      <div class="row">
-        <div class="col-xs-2">
-          <p>{{ talk.Time }}</p>
-        </div>
-        <div style="color: black;" class="col-xs-10">
-          <p>
-
-          {% if talk.Slug %}
-             <a href="../speakers/#speaker-{{ talk.Slug }}">{{ talk.Session }}</a>
-          {% else %}
-            {{ talk.Session }}
-          {% endif %}
-
-          </p>
-        </div>
-      </div>
-
-{% endfor %}
+    <article class="schedule">
+    {% for talk in data %}
+          <div class="schedule-item">
+              <div class="item-starting-time">{{ talk.Time }}</div>
+              <div class="item-content">
+                  <div class="item-description">
+                  {% if talk.Slug %}
+                     <a href="../speakers/#speaker-{{ talk.Slug }}">{{ talk.Session }}</a>
+                  {% else %}
+                    {{ talk.Session }}
+                  {% endif %}
+                  </div>
+                  <!-- <div class="item-speaker"></div> -->
+              </div>
+          </div>
+    {% endfor %}
+    </article>
