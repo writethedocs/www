@@ -1,5 +1,8 @@
 .. raw:: html
 
+{% set shortcode = env.app.config.html_context.shortcode %}
+{% set year = env.app.config.html_context.year %}
+
 {% set dont_link = ['Lunch',
                     'Snack break',
                     'Switch Speakers',
@@ -33,7 +36,7 @@
               <div class="item-content">
                   <div class="item-description">
                   {% if talk.Slug %}
-                     <a href="../speakers/#speaker-portland-2018-{{ talk.Slug }}">{{ talk.Session }}</a>
+                     <a href="../speakers/#speaker-{{ shortcode }}-{{ year }}-{{ talk.Slug }}">{{ talk.Session }}</a>
                   {% else %}
                     {{ talk.Session }}
                   {% endif %}

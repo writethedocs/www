@@ -74,6 +74,7 @@ Conference Talks
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
    :template: include/schedule2018.rst
+   :include_env:
 
 {% else %}
   A detailed schedule will be announced soon.
@@ -125,6 +126,7 @@ Conference Talks
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-2.yaml
    :template: include/schedule2018.rst
+   :include_env:
 
 {% else %}
   A detailed schedule will be announced soon.
