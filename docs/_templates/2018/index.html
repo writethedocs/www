@@ -39,7 +39,14 @@ Home - Write the Docs {{ name }} {{ year }}
     <div class="hero-content uk-container">
       <div class="logo-container">
         <a class="hero-logo">
-          write<br/> the<br/> docs<br/> <em>{{ shortcode }}</em>
+          write<br/>
+          the<br/>
+          docs<br/>
+          <em>{{ shortcode }}</em>
+          {% if cobrand.logo %}
+          <em>+</em>
+          <img style="height: 120px;" src="{{ pathto('_static/img/' + cobrand['logo'],  1) }}">
+          {% endif %}
         </a>
       </div>
       <div class="hero-text">

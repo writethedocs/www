@@ -8,6 +8,10 @@ tz: EST
 email: support@writethedocs.org
 short_dates: "Aug 18-22, 2018"
 
+cobrand:
+  brand: Open Help
+  logo: openhelp.svg
+
 tickets:
   community:
     price: $250
