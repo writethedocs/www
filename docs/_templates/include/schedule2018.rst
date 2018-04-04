@@ -33,7 +33,7 @@
               <div class="item-content">
                   <div class="item-description">
                   {% if talk.Slug %}
-                     <a href="../speakers/#speaker-{{ talk.Slug }}">{{ talk.Session }}</a>
+                     <a href="../speakers/#speaker-2018-portland-{{ talk.Slug }}">{{ talk.Session }}</a>
                   {% else %}
                     {{ talk.Session }}
                   {% endif %}
