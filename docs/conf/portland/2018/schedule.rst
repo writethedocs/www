@@ -67,7 +67,7 @@ Conference Talks
 
 * **Where**:   Main stage, Crystal Ballroom
 * **When**: **9am-5pm**
-* **Details**: Exact schedule TBA
+* **Details**: Full main stage schedule below!
 
 ..
     .. datatemplate::
@@ -111,7 +111,7 @@ Conference Talks
 
 * **Where**: Main stage, Crystal Ballroom
 * **When**: **9am-4pm**
-* **Details**: Exact schedule TBA
+* **Details**: Full main stage schedule below!
 
 ..
     .. datatemplate::
