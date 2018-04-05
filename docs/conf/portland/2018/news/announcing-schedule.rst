@@ -1,7 +1,7 @@
 
 
 .. post:: April 5, 2018
-   :tags: 2018, portland, schedule
+   :tags: 2018, portland-2018, schedule
 
 Announcing Full Schedule and Last Chance for Tickets
 ====================================================
