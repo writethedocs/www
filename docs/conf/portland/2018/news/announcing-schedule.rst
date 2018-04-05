@@ -20,9 +20,10 @@ Later this month we'll be sending another update that will cover the full detail
 Full Presentation Schedule
 --------------------------
 
-The conference website is now updated with the `talk schedule <http://www.writethedocs.org/conf/na/2017/schedule/>`_ for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.
+The conference website is now updated with the `talk schedule <http://www.writethedocs.org/conf/portland/2018/schedule/>`_ for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.
 
 Per usual, we'll be running the unconference downstairs in Lola's room.
+
 This year, it'll be going all-day Monday, starting after the intro talk, and then picking up again Tuesday afternoon, after the job fair.
 We'll also have rounds of lightning talks after lunch on both days.
 You'll be able to sign up for unconference sessions and lightning talks during the conference
