@@ -3,7 +3,7 @@
 .. post:: April 5, 2018
    :tags: 2018, portland-2018, schedule
 
-Announcing Full Schedule and Last Chance for Tickets
+Announcing Full Schedule & Last Chance For Tickets
 ====================================================
 
 Hello everyone!
@@ -47,7 +47,7 @@ If you have a project or are part of a community that you think would benefit fr
 If you'd like us to include your project on the Writing Day page, drop us an email at `portland@writethedocs.org <mailto:portland@writethedocs.org>`_.
 Or just show up on Sunday ready to introduce your project!
 
-Thank You to our Latest Sponsors
+Thank You To Our Latest Sponsors
 --------------------------------
 
 We're so fortunate to have the support of so many docs-friendly communities and companies!
