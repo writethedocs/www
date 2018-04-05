@@ -61,9 +61,7 @@ Huge thanks to our latest sponsors to come aboard:
 * `Stoplight <http://stoplight.io/>`_
 * `Microsoft Cloud Developer Advocates <https://developer.microsoft.com/en-us/advocates/index.html>`_
 
-*Interested in sponsoring `Write the Docs Portland <http://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/>`_ or `Write the Docs Prague <http://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/>`_?
-< those links will take you to our sponsorship prospectuses... prospecti?
-Anyway, have a look.*
+*Interested in sponsoring `Write the Docs Portland <http://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/>`_ or `Write the Docs Prague <http://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/>`_?< those links will take you to our sponsorship prospectuses... prospecti? Anyway, have a look.*
 
 Thanks so much for all your support and enthusiasm so far – we're so excited to see you all next month!
 
