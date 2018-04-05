@@ -1,0 +1,63 @@
+- Duration: '60'
+  Session: Doors Open, Breakfast Served
+  Time: '8:00'
+- Duration: '30'
+  Session: "Where do I start? The art and practice of documentation triage \u2013\
+    \ Neal Kaplan"
+  Slug: neal-kaplan
+  Time: '9:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '9:30'
+- Duration: '30'
+  Session: "Starting from Scratch: Finding and Hiring Junior Writers \u2013 Sarah\
+    \ Day"
+  Slug: sarah-day
+  Time: '9:40'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '10:10'
+- Duration: '30'
+  Session: "Making Your Code Examples Shine \u2013 Larry Ullman"
+  Slug: larry-ullman
+  Time: '10:20'
+- Duration: '20'
+  Session: Snack break
+  Time: '10:50'
+- Duration: '30'
+  Session: "Eight Essential Tips for the Enlightened Tech Writer \u2013 Ted Hudek"
+  Slug: ted-hudek
+  Time: '11:10'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '11:40'
+- Duration: '30'
+  Session: "What They Don't Tell You About Creating New Style Guides \u2013 Thursday\
+    \ Bram"
+  Slug: thursday-bram
+  Time: '11:50'
+- Duration: '60'
+  Session: Lunch
+  Time: '12:20'
+- Duration: '50'
+  Session: Lightning Talks
+  Time: '13:20'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '14:10'
+- Duration: '30'
+  Session: "What Writing Dictionaries Taught Me About Writing Documentation (And What\
+    \ I Had to Unlearn) \u2013 Erin McKean"
+  Slug: erin-mckean
+  Time: '14:20'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '14:50'
+- Duration: '30'
+  Session: "Audience, Market, Product: Tips for strategic API documentation planning\
+    \ \u2013 Bob Watson"
+  Slug: bob-watson
+  Time: '15:00'
+- Duration: '20'
+  Session: Conference wraps with snacks
+  Time: '15:30'
