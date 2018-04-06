@@ -7,6 +7,8 @@ Schedule
 Write the Docs is more than a conference.
 Each year we organize a wide range of events so that people can come together, collaborate, and learn from each other in different ways.
 
+All conference events (except the hike & social event) will be held at **Crystal Ballroom located at 1332 W Burnside St**.
+
 .. contents::
     :local:
     :depth: 1
@@ -18,26 +20,22 @@ Saturday, May 5
 Hike
 ~~~~
 
-The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion </conf/portland/2018/hike>`.
+The only event scheduled on Saturday is the :doc:`annual hike </conf/portland/2018/hike>`.
 If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
 
 * **Where**: Lower Macleay Park or Macleay Park Entrance.
-* **When**: 13:45
-* **Details**: :doc:`Annual hike to Pittock Mansion </conf/portland/2018/hike>`
+* **When**: 1:45pm
+* **Details**: :doc:`Annual hike </conf/portland/2018/hike>` page
 
 Sunday, May 6
 -------------
 
-The Writing Day and Welcome Reception will be held at the **Crystal Ballroom located at 1332 W Burnside St**.
-
-.. contents::
-    :local:
-    :backlinks: none
-
 Writing Day
 ~~~~~~~~~~~
 
-* **Where**: Main stage, Crystal Ballroom
+Get together with other documentarians and work on an open source project and learn some new skills.
+
+* **Where**: Crystal Ballroom
 * **When**: **9am-5pm**
 * **Details**: :doc:`Writing Day documentation sprints </conf/portland/2018/writing-day>`
 
@@ -45,27 +43,32 @@ Reception
 ~~~~~~~~~
 
 We encourage everyone to drop by on Sunday evening for the conference reception.
-You'll have a chance to get acquainted with each other over some drinks and snacks.
-We'll also help groups organize dinner plans, so you can continue your conversations over more substantial food as well.
+You'll have a chance to get acquainted with each other over some drinks and snacks,
+and pick up your badge so you can skip the line in the morning.
 
-* **Where**: Main stage, Crystal Ballroom
+* **Where**: Crystal Ballroom
 * **When**: **5pm-8pm**
-* **Details**: TBA
 
 Monday, May 7
 -------------
 
-.. contents::
-    :local:
-    :backlinks: none
+Unconference
+~~~~~~~~~~~~
 
-This is the main event! Hear from lots of interesting folks about all things documentation.
-We will have talks all day on the main stage, and a unconference session running in parallel in the afternoon at Lola's Room.
+Have in depth discussions about a large number of topics.
+This is scheduled in real time, so feel free to suggest your own session!
+
+* **Where**: Lola's room, Crystal Ballroom
+* **When**: **9:40am-5:20pm**
+* **Details**: :doc:`/conf/portland/2018/unconference`
+
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
-* **Where**:   Main stage, Crystal Ballroom
+The "main event" -- we'll have a variety of speakers on the stage sharing their experience and knowledge.
+
+* **Where**:  Main stage, Crystal Ballroom
 * **When**: **9am-5pm**
 * **Details**: Full main stage schedule below!
 
@@ -80,39 +83,37 @@ Conference Talks
   A detailed schedule will be announced soon.
 {% endif %}
 
+Monday Night Social
+~~~~~~~~~~~~~~~~~~~
 
+The official Write the Docs social!
+This event is for **conference attendees only**, so please bring your badge to be let into the venue. 
+There will be light snacks and drinks available on the conference while our tab lasts.
+
+* **Where**: TBA
+* **When**: **7pm-10pm**
+* **Details**: TBA
+
+Tuesday, May 8
+--------------
+
+Job Fair
+~~~~~~~~
+
+New in 2018! We'll be holding a job fair on Tuesday morning!
+
+* **Where**: Lola's room (downstairs at the Crystal Ballroom)
+* **When**: **9:30am-11:40am**
+* **Details**: :doc:`/conf/portland/2018/job-fair`
 
 Unconference
 ~~~~~~~~~~~~
 
 The unconference sessions run in parallel to the main conference talks.
 
-* **Where**: Lola's room, Crystal Ballroom
-* **When**: **9:30am-5pm**
+* **Where**: Lola's room (downstairs at the Crystal Ballroom)
+* **When**: **2:20-3:30pm**
 * **Details**: :doc:`/conf/portland/2018/unconference`
-
-Monday Night Social
-~~~~~~~~~~~~~~~~~~~
-
-The official Write the Docs social!
-Location and directions will be posted soon!
-
-This event is for **conference attendees only**. Please bring your badge to be let into the venue.
-
-There will be light snacks and drinks available on the conference while our tab lasts.
-
-* **Where**: TBA
-* **When**: **7pm-11pm**
-* **Details**: TBA
-
-Tuesday, May 8
---------------
-
-.. contents::
-    :local:
-    :backlinks: none
-
-And the conference goes on!
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
@@ -132,20 +133,3 @@ Conference Talks
   A detailed schedule will be announced soon.
 {% endif %}
 
-Job Fair
-~~~~~~~~
-
-New in 2018! We'll be holding a job fair on Tuesday morning!
-
-* **Where**: Lola's room, Crystal Ballroom
-* **When**: **9:30am-11:30am**
-* **Details**: TBA
-
-Unconference
-~~~~~~~~~~~~
-
-The unconference sessions run in parallel to the main conference talks.
-
-* **Where**: Lola's room, Crystal Ballroom
-* **When**: **12:30pm-5pm**
-* **Details**: :doc:`/conf/portland/2018/unconference`
