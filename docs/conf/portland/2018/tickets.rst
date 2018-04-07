@@ -15,7 +15,7 @@ Each ticket includes:
 * Meeting lots of fantastic people in a spacious, inviting venue.
 
 
-{% if flaghastickets %}
+{% if flaghasshirts %}
 
 **Conference shirts**
 ------------------------------------
