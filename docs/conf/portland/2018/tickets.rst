@@ -19,12 +19,12 @@ Each ticket includes:
 
 .. class:: ticket
 
-**Conference shirts**
+**Official Conference Shirts**
 ------------------------------------
 
-Inspired by our friends at DjangoCon US, we decided to shake things up and sell shirts separately, so you can buy exactly the fit and size that you want! You can now visit our Write the Docs Portland 2018 Pop-Up Shop and order this year’s branded shirt. The campaign will run until **April 15th** to allow for timely delivery of your shirts ahead of the conference.
+Inspired by our friends at DjangoCon US, we decided to shake things up and sell shirts separately, so you can buy exactly the fit and size that you want! You can now visit our `Write the Docs Portland 2018 Pop-Up Shop <https://teespring.com/wtd-portland-2018-shirts>`_ and order this year’s branded shirt. The campaign will run until **April 15th** to allow for timely delivery of your shirts ahead of the conference.
 
-* `Buy Shirt <https://teespring.com/wtd-portland-2018-shirts>`__
+* `Buy Portland 2018 Shirt <https://teespring.com/wtd-portland-2018-shirts>`__
 
 {% endif %}
 
