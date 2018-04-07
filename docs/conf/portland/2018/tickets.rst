@@ -17,6 +17,8 @@ Each ticket includes:
 
 {% if flaghasshirts %}
 
+.. class:: ticket
+
 **Conference shirts**
 ------------------------------------
 
