@@ -42,13 +42,22 @@ date: # how do we handle these? human readable would be nice.
   tickets_live: "March 2018"
   month: September
   day_one:
-    date: 8
+    event: Boat Ride
+    date: September 8
+    summary: If you're in town early, join us for the Boat Ride. Prague features beautiful architectural and historical monuments along the river, and being on the water is an excellent way to sample the highlights.
+    icon: boat
     dotw: Saturday
   day_two:
-    date: 9
+    event: Writing Day
+    date: September 9
+    summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    icon: writing
     dotw: Sunday
   day_three:
-    date: 10
+    event: Main Conference
+    date: September 10-11
+    summary: The main days of the conference. We will be running our main track in the ballroom, and the Unconference.
+    icon: conference
     dotw: Monday
   day_four:
     date: 11
