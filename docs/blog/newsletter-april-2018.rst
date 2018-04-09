@@ -15,7 +15,7 @@ Tickets are fully sold out, but if you're itching for a conference fix, now's a 
 The Prague call for proposals is open until **midnight, Tuesday May 15th**, and you can read more and submit your talk idea `here on our CFP page <http://www.writethedocs.org/conf/prague/2018/cfp/>`_.
 
 We also have a new virtual resource to announce – the `Write the Docs Video Archive <http://www.writethedocs.org/videos/>`_! 
-You can now easily browse all of the videos from every North American and European conference, going all the way back to the beginning. 
+You can now easily browse all of the videos from every North American and European conference, going back over the last three years. 
 There are hours of excellent talks in there, on almost any docs-topic you can think of. 
 Dive in!
 
