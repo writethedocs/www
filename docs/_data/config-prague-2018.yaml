@@ -92,3 +92,4 @@ flagcfp: True
 flagticketsonsale: True
 flaghashike: False
 flaghasboat: True
+flaglanding: False

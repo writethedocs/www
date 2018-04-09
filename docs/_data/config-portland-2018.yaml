@@ -64,3 +64,4 @@ flagticketsonsale: False
 flaghashike: True
 flaghasboat: False
 flaghasshirts: True
+flaglanding: False
