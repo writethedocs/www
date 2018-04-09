@@ -67,12 +67,20 @@ Conference Talks
 
 * **Where**:   Main stage, Crystal Ballroom
 * **When**: **9am-5pm**
-* **Details**: Exact schedule TBA
+* **Details**: Full main stage schedule below!
 
-..
-    .. datatemplate::
-       :source: /_data/na-2018-day-1.yaml
-       :template: include/schedule2018.rst
+{% if flaghasschedule %}
+
+.. datatemplate::
+   :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
+   :template: include/schedule2018.rst
+   :include_env:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
+
+
 
 Unconference
 ~~~~~~~~~~~~
@@ -80,7 +88,7 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: Lola's room, Crystal Ballroom
-* **When**: **1pm-5pm**
+* **When**: **9:30am-5pm**
 * **Details**: :doc:`/conf/portland/2018/unconference`
 
 Monday Night Social
@@ -94,7 +102,7 @@ This event is for **conference attendees only**. Please bring your badge to be l
 There will be light snacks and drinks available on the conference while our tab lasts.
 
 * **Where**: TBA
-* **When**: **7pm-23pm**
+* **When**: **7pm-11pm**
 * **Details**: TBA
 
 Tuesday, May 8
@@ -111,12 +119,18 @@ Conference Talks
 
 * **Where**: Main stage, Crystal Ballroom
 * **When**: **9am-4pm**
-* **Details**: Exact schedule TBA
+* **Details**: Full main stage schedule below!
 
-..
-    .. datatemplate::
-       :source: /_data/na-2018-day-1.yaml
-       :template: include/schedule2018.rst
+{% if flaghasschedule %}
+
+.. datatemplate::
+   :source: /_data/{{templatecode}}-{{year}}-day-2.yaml
+   :template: include/schedule2018.rst
+   :include_env:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
 
 Job Fair
 ~~~~~~~~
@@ -133,5 +147,5 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: Lola's room, Crystal Ballroom
-* **When**: **12:30am-5pm**
+* **When**: **12:30pm-5pm**
 * **Details**: :doc:`/conf/portland/2018/unconference`
