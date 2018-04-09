@@ -22,7 +22,7 @@ Dive in!
 In case you missed it, there's a new episode of the Write the Docs Podcast up: `Episode 14 – Humanizing you documentation <http://bit.ly/wtdpodcast_episode_14_humanizing_docs>`_. 
 Hosts Tom Johnson and Chris Ward talk to Carolyn Stransky, a journalist and JavaScript developer living in Berlin, about how to write with transparency, empathy, sensitivity, clarity, and more, to make your docs as human as possible.
 
-In addition all that, we had a handful of intriguing discussions crop up across Slack this month. 
+In addition to all that, we had a handful of intriguing discussions crop up across Slack this month. 
 Read on for those, as well as some featured listings from the `Job Board <http://jobs.writethedocs.org/>`_, news about upcoming community meetups, and a `discount link <https://ti.to/supportdriven/sd-expo-2018/discount/wtd>`_ for anyone interested in attending the `Support Driven Expo <https://www.supportdriven.com/expo/>`_ this June!
 
 Whew! 
@@ -34,17 +34,17 @@ Evolving your developer docs as your product matures
 
 A question came up this month about the best approach for hosting the different parts – docs, examples, reference apps, and more – of a public SDK. 
 The heart of the original poster's question had to do with evolving their documentation approach as the product matured. 
-Developers began to contribute samples and reference apps, and it started to become apparent that the developer resources would need their own home and processes, separate from the user and admin content.
+Developers began to contribute samples and reference apps, and it started to become apparent that the developer resources would need their own home and processes separate from the user and admin content.
 
 The community came up with a handful of points that a good solution would need to address:
 
 * A plan for how developers will be able to update and maintain their samples from release to release.
 * Options for auto-generating reference documentation for the APIs, if possible.
-* And if auto-generation isn't an option, how will you communicate changes in the APIs to me so I can document them?
+* And if auto-generation isn't an option, a way to communicate changes in the APIs to developers so they can document them.
 
 Turns out this is a situation that lots of others had dealt with, and the consensus was strong: testing is key. 
-If you want to maintain up-to-date samples, it's well worth putting in the time to build some kind of testing that runs the latest version of the product and the relevant areas of code to the samples in your documentation. 
-Granted, these test can difficult to implement, especially if you're working with pre-existing, manually generated content, but even small steps are steps in the right direction.
+If you want to maintain up-to-date samples, it's well worth putting in the time to build some kind of testing that runs the latest version of the product and compares the relevant areas of code to the samples in your documentation. 
+Granted, these tests can be difficult to implement, especially if you're working with pre-existing, manually generated content, but even small steps are steps in the right direction.
 
 *Want to dig deeper into docs testing? We've got just the channel for you:* `#doc-testing <https://writethedocs.slack.com/messages/doc-testing>`_
 
@@ -64,8 +64,9 @@ The group also had some good examples of formatting options for no-value indicat
 
 - ``N/A``
 - ``$0.00``
-- Centered em dash
-- Or a dash length of your choice! ;)
+- ``null``
+- a centered em dash
+- or a dash length of your choice ;)
 
 As always, context is key. 
 Consider your audience and publishing format when determining the formatting fate of your empty cells.
@@ -108,7 +109,7 @@ Featured job postings
 
 `Technical Writer <https://jobs.writethedocs.org/job/56/technical-writer/>`_ – Full-time – Elastic – Remote
 
-*To apply for these jobs or to post a listing, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
+*To apply for these jobs or to post a listing, visit the* `Write the Docs Job Board <https://jobs.writethedocs.org/>`_.
 
 -------------------------
 Upcoming community events
