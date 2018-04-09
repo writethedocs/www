@@ -32,9 +32,9 @@ Big month!
 Evolving your developer docs as your product matures
 ----------------------------------------------------
 
-A question came up this month about the best approach for hosting the different parts – docs, examples, reference apps, and more – of a public SDK. 
+A question came up this month about the best approach for hosting the different parts of a public SDK – docs, examples, reference apps, and more.
 The heart of the original poster's question had to do with evolving their documentation approach as the product matured. 
-Developers began to contribute samples and reference apps, and it started to become apparent that the developer resources would need their own home and processes separate from the user and admin content.
+Developers began to contribute samples and reference apps, and it started to become apparent that the developer resources might need their own home and processes separate from the user and admin content.
 
 The community came up with a handful of points that a good solution would need to address:
 
