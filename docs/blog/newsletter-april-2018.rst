@@ -11,7 +11,7 @@ Kelly O. here, with a ton of exciting community stuff to share with you this mon
 There's a lot to cover, so I'll cut right to the chase!
 
 First, we're coming up on the Portland conference here in just four weeks (!?), and we're starting to get pretty stoked. 
-Tickets are now fully sold out, but if you're itching for a conference fix, now's a great time to look ahead to Prague in September... especially if you'd like to speak! 
+Tickets are fully sold out, but if you're itching for a conference fix, now's a great time to look ahead to Prague in September... especially if you'd like to speak! 
 The Prague call for proposals is open until **midnight, Tuesday May 15th**, and you can read more and submit your talk idea `here on our CFP page <http://www.writethedocs.org/conf/prague/2018/cfp/>`_.
 
 We also have a new virtual resource to announce – the `Write the Docs Video Archive <http://www.writethedocs.org/videos/>`_! 
@@ -39,7 +39,7 @@ Developers began to contribute samples and reference apps, and it started to bec
 The community came up with a handful of points that a good solution would need to address:
 
 * A plan for how developers will be able to update and maintain their samples from release to release.
-* Options for auto-generating reference documentation for the APIs, if possible
+* Options for auto-generating reference documentation for the APIs, if possible.
 * And if auto-generation isn't an option, how will you communicate changes in the APIs to me so I can document them?
 
 Turns out this is a situation that lots of others had dealt with, and the consensus was strong: testing is key. 
@@ -79,7 +79,7 @@ New tool to try out: automated screenshots
 Although we don't often feature conversations about specific tools, there was one that popped up this month that we thought was worth a quick mention. 
 On what feels like a weekly basis, someone brings up the difficulty of keeping screenshots up to date. 
 So when someone pointed to `CronShot <https://www.npmjs.com/package/cronshot>`_, a Node module for programmatically scheduling and saving screenshots of web pages, we thought we'd share it around. 
-In addition, if you're so inclined (and comfortable with JavaScript), you can add the `Nick.js <https://www.npmjs.com/package/nickjs>`_ scraping library (oh my!) in order to automate browser navigation altogether.
+In addition, if you're so inclined (and comfortable with JavaScript), you can add the `Nick.js <https://www.npmjs.com/package/nickjs>`_ library in order to automate browser navigation altogether.
 
 *Have another docs tool to share or chat about?* `#doctools <https://writethedocs.slack.com/messages/doctools>`_ *is the place for you.*
 
