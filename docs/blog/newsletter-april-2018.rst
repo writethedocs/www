@@ -6,7 +6,7 @@
 Write the Docs Newsletter – April 2018
 ########################################
 
-Happy Monday! 
+Hello hello! 
 Kelly O. here, with a ton of exciting community stuff to share with you this month! 
 There's a lot to cover, so I'll cut right to the chase!
 
