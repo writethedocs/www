@@ -43,7 +43,7 @@ cfp:
 flagspeakersannounced: True
 flagcfp: False
 flaghasschedule: True
-flagticketsonsale: True
+flagticketsonsale: False
 flaghashike: True
 flaghasboat: False
 flaghasshirts: True
