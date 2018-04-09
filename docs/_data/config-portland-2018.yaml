@@ -23,6 +23,21 @@ date: # how do we handle these? human readable would be nice.
   tickets_live: "January 2018"
   month: May
   sat: 5
+  day_one:
+    event: Hike
+    date: May 5
+    summary: If you're in town early, join us for the `Hike </conf/portland/2018/hike/>`__. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    icon: hike
+  day_two:
+    event: Writing Day
+    date: May 6
+    summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    icon: writing
+  day_three:
+    event: Main Conference
+    date: May 7-8
+    summary: The main days of the conference. We will be running our main track in the ballroom, and the Unconference in Lola's Room.
+    icon: conference
 
 about:
   summary:
