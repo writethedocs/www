@@ -30,7 +30,7 @@ def load_yaml(path):
 
 def load_page_yaml_data(app, page):
     p = PurePath(page)
-    data = app.config.html_context
+    data = app.config.html_context.copy()
     if page.startswith('conf'):
         try:
             year = int(p.parts[2])
