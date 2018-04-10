@@ -12,13 +12,13 @@ email: portland@writethedocs.org
 
 tickets:
   community:
-    price: 750
+    price: $750
   corporate:
-    price: 450
+    price: $450
   independent:
-    price: 250
+    price: $250
   student:
-    price: 250
+    price: $100
 
 cobrand: False
 

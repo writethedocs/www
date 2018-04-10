@@ -125,6 +125,8 @@ html_context = {
 
 # html_context.update(main())
 
+# html_experimental_html5_writer = True
+
 def setup(app):
     app.connect('html-page-context', override_page_template)
     app.connect("source-read", rstjinja)

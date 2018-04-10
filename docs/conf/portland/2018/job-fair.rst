@@ -9,4 +9,4 @@ Job Fair
 Schedule
 --------
 
-The Job Fair will happen Tuesday from 9:30-11:30am downstairs in Lola's Room.
+Scheduling information is available on our :doc:`conf/{{shortcode}}/{{year}}/schedule` page.
