@@ -8,7 +8,8 @@ Conference Speakers
 
 .. datatemplate::
    :source: /_data/{{year}}.{{shortcode}}.speakers.yaml
-   :template: {{year}}/{{templatecode}}/speakers.rst
+   :template: {{year}}/speakers.rst
+   :include_context:
 
 {% else %}
   Nothing to see yet.
