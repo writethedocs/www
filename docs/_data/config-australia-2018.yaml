@@ -19,6 +19,7 @@ tickets:
 
 date: # how do we handle these? human readable would be nice.
   main: "**May 6-8, 2018, in Portland, Oregon**"
+  short:
   tickets_live: "January 2018"
   month: May
   sat: 5
