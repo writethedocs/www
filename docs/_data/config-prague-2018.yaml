@@ -4,7 +4,8 @@ shortcode: prague # prague australia?
 templatecode: eu # HACK
 year: 2018
 city: Prague
-area: European
+area: Europea
+area_adj: European
 tz: CEST
 email: prague@writethedocs.org
 

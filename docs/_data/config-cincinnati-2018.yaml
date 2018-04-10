@@ -4,6 +4,8 @@ templatecode: cin # HACK
 year: 2018
 city: Cincinnati
 area: Ohio
+area_adj: #TODO FIXME
+
 tz: EST
 email: support@writethedocs.org
 

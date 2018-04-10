@@ -3,7 +3,8 @@ name: Portland
 shortcode: portland # prague australia?
 year: 2018
 city: Portland
-area: North American
+area: North America
+area_adj: North American
 tz: PST
 
 tickets:
