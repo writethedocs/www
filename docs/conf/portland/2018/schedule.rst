@@ -12,11 +12,8 @@ Each year we organize a wide range of events so that people can come together, c
     :depth: 1
     :backlinks: none
 
-Saturday, May 5
----------------
-
-Hike
-~~~~
+Saturday, May 5 - Hike
+-----------------------
 
 The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion </conf/portland/2018/hike>`.
 If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
@@ -25,14 +22,10 @@ If you get into town early, join us on the hike and take the chance to explore P
 * **When**: 13:45
 * **Details**: :doc:`Annual hike to Pittock Mansion </conf/portland/2018/hike>`
 
-Sunday, May 6
--------------
+Sunday, May 6 - Writing Day and Reception
+---------------------------------------------
 
 The Writing Day and Welcome Reception will be held at the **Crystal Ballroom located at 1332 W Burnside St**.
-
-.. contents::
-    :local:
-    :backlinks: none
 
 Writing Day
 ~~~~~~~~~~~
@@ -52,8 +45,8 @@ We'll also help groups organize dinner plans, so you can continue your conversat
 * **When**: **5pm-8pm**
 * **Details**: TBA
 
-Monday, May 7
--------------
+Monday, May 7 - Conference and social
+---------------------------------------
 
 .. contents::
     :local:
@@ -80,16 +73,22 @@ Conference Talks
   A detailed schedule will be announced soon.
 {% endif %}
 
+Second Stage
+~~~~~~~~~~~~~
 
+The :doc:`/conf/portland/2018/unconference` sessions run in parallel to the main conference talks in Lola's room, Crystal Ballroom.
 
-Unconference
-~~~~~~~~~~~~
+{% if flaghasschedule %}
 
-The unconference sessions run in parallel to the main conference talks.
+.. datatemplate::
+   :source: /_data/{{year}}.{{shortcode}}.second-schedule-day-1.yaml
+   :template: include/schedule2018.rst
+   :include_env:
 
-* **Where**: Lola's room, Crystal Ballroom
-* **When**: **9:30am-5pm**
-* **Details**: :doc:`/conf/portland/2018/unconference`
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
+
 
 Monday Night Social
 ~~~~~~~~~~~~~~~~~~~
@@ -105,8 +104,8 @@ There will be light snacks and drinks available on the conference while our tab 
 * **When**: **7pm-11pm**
 * **Details**: TBA
 
-Tuesday, May 8
---------------
+Tuesday, May 8 - Conference
+-----------------------------
 
 .. contents::
     :local:
@@ -132,20 +131,20 @@ Conference Talks
   A detailed schedule will be announced soon.
 {% endif %}
 
-Job Fair
-~~~~~~~~
+Second Stage
+~~~~~~~~~~~~~~
 
-New in 2018! We'll be holding a job fair on Tuesday morning!
+**New in 2018! We'll be holding a job fair on Tuesday morning!**
 
-* **Where**: Lola's room, Crystal Ballroom
-* **When**: **9:30am-11:30am**
-* **Details**: TBA
+The :doc:`/conf/portland/2018/job-fair` and  :doc:`/conf/portland/2018/unconference` sessions run in parallel to the main conference talks in Lola's room, Crystal Ballroom.
 
-Unconference
-~~~~~~~~~~~~
+{% if flaghasschedule %}
 
-The unconference sessions run in parallel to the main conference talks.
+.. datatemplate::
+   :source: /_data/{{year}}.{{shortcode}}.second-schedule-day-2.yaml
+   :template: include/schedule2018.rst
+   :include_env:
 
-* **Where**: Lola's room, Crystal Ballroom
-* **When**: **12:30pm-5pm**
-* **Details**: :doc:`/conf/portland/2018/unconference`
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
