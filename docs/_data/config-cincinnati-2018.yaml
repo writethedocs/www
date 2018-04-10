@@ -3,8 +3,9 @@ shortcode: cincinnati # prague australia?
 templatecode: cin # HACK
 year: 2018
 city: Cincinnati
-area: Ohio
-area_adj: #TODO FIXME
+local_area: Ohio
+area: North America # European Australian
+area_adj: North American
 
 tz: EST
 email: support@writethedocs.org

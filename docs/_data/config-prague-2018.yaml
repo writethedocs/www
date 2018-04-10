@@ -4,6 +4,7 @@ shortcode: prague # prague australia?
 templatecode: eu # HACK
 year: 2018
 city: Prague
+local_area: Czech Republic
 area: Europe
 area_adj: European
 tz: CEST
