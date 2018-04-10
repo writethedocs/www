@@ -1,4 +1,4 @@
-
+:template: {{year}}/generic.html
 
 .. post:: April 5, 2018
    :tags: 2018, portland-2018, schedule
