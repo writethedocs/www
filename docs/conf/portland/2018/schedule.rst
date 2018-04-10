@@ -56,7 +56,7 @@ Unconference
 ~~~~~~~~~~~~
 
 Have in depth discussions about a large number of topics.
-This is scheduled in real time, so feel free to suggest your own session!
+This is scheduled on the day of, so feel free to suggest your own session!
 
 * **Where**: Lola's room, Crystal Ballroom
 * **When**: **9:40am-5:20pm**
