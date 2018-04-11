@@ -4,7 +4,11 @@
 Job Fair
 ========
 
-.. include:: /include/conf/events/job-fair.rst
+{% include "conf/events/job-fair.rst" %}
+
+.. datatemplate::
+   :template: conf/events/job-fair.rst
+   :include_context:
 
 Schedule
 --------
