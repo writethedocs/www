@@ -8,7 +8,6 @@ before_install:
 install:
   - eval "$(gimme 1.7)"
   - go get github.com/ValeLint/vale
-  - pip install -r requirements.txt
 script:
   - tox -e $TOX_ENV
 cache:
