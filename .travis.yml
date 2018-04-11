@@ -10,7 +10,7 @@ install:
   - go get github.com/ValeLint/vale
   - pip install -r requirements.txt
 script:
-  - cd docs
-  - yamllint -c ../.yamllint.yaml _data
-  - make html
-  - vale .
+  - tox -e $TOX_ENV
+cache:
+  directories:
+    - $HOME/www/.tox

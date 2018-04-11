@@ -22,7 +22,7 @@ vale.GenderBias = YES
 TheEconomist.UnnecessaryWords = YES
 TheEconomist.Hectoring = YES
 
-# Add checks on the output#
-
-[_build/html/**/*.html]
-BasedOnStyles = HTML
+# Add checks on the output
+# This just does not work
+#[../.tox/docs/tmp/html/**/*.html]
+#BasedOnStyles = HTML
