@@ -177,7 +177,7 @@ def load_conference_data():
         mo = sessions_file_pattern.match(base)
         if mo:
             continue
-        print("%s doesn't follow the conference data file conventions" % (base,))
+        #print("%s doesn't follow the conference data file conventions" % (base,))
     return result
 
 
