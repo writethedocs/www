@@ -42,7 +42,13 @@ For a ton of useful info and links about every step of this process, this `packe
 Diversity and Inclusivity
 ---------------------------
 
-TODO
+We strongly encourage all speakers to check and double-check their talks for any language that might be discriminatory or offensive.
+
+Good resources on this matter include
+
+- `The 18F Guide to Inclusive Language <https://content-guide.18f.gov/inclusive-language/>`__
+- `The Responsible Communication Style Guide <https://rcstyleguide.com/>`__
+
 
 Slides
 ------
