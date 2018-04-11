@@ -1,11 +1,14 @@
 name: Australia
 
 shortcode: australia # prague australia?
+templatecode: au # HACK
 year: 2018
 city: Melbourne
+local_area: Australia
 area: Australia
 area_adj: Australian
 tz: AEST
+email: australia@writethedocs.org
 
 tickets:
   corporate:
@@ -20,11 +23,20 @@ tickets:
 
 date: # how do we handle these? human readable would be nice.
   main: "**November 15-16, 2018, in Melbourne, Australia**"
-  short:
+  short: Nov 15-16, 2018
   tickets_live: "July 2018"
   month: November
   sat: 
-
+  day_one:
+    event: Talks
+    date: Nov 15
+    summary: The primary conference day, with talks.
+    icon: conference
+  day_two:
+    event: Discussions
+    date: Nov 16
+    summary: Talk with other documentarians to learn more about everything and anything.
+    icon: conference
 
 about:
   summary:
@@ -35,6 +47,7 @@ cfp:
   ends: 
   notification: 
 
+flaglanding: True
 flagspeakersannounced: False
 flagcfp: False
 flagticketsonsale: False
