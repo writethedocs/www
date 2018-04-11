@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: {{year}}/generic.html
 :banner: _static/2018/assets/headers/speakers.jpg
 
 Conference Speakers
@@ -8,7 +8,8 @@ Conference Speakers
 
 .. datatemplate::
    :source: /_data/{{year}}.{{shortcode}}.speakers.yaml
-   :template: {{year}}/{{templatecode}}/speakers.rst
+   :template: {{year}}/speakers.rst
+   :include_context:
 
 {% else %}
   Nothing to see yet.

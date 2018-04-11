@@ -651,32 +651,31 @@ body .uk-offcanvas-slide a.uk-button-ghost {
 }
 
 .sponsors {
-	.uk-container {
-		padding: 48px 24px;
+	padding: 48px 24px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+	img {
+		max-width: 264px;
+		height: auto;
+		margin-left: auto;
+		margin-right: auto;
+		padding-bottom: 20px;
+	}
+
+	.gold-sponsors, .silver-sponsors, .bronze-sponsors, .sponsor {
+	   		a {
+				border: none !important;
+				border-bottom: none !important;
+			}
+
 		display: flex;
 		flex-direction: column;
-		justify-content: center;
 
-		img {
-			max-width: 264px;
-			height: auto;
-			margin-left: auto;
-			margin-right: auto;
-			padding-bottom: 20px;
-		}
-
-		.silver-sponsors, .bronze-sponsors, .sponsor {
-   	   		a {
-   				border: none !important;
-   			}
-
+		& > * {
 			display: flex;
-			flex-direction: column;
-
-			& > * {
-				display: flex;
-				justify-content: center;
-			}
+			justify-content: center;
 		}
 	}
 
@@ -872,6 +871,7 @@ footer {
 		}
 	}
 }
+
 @media (min-width: 640px) {
 
 	.uk-container, .schedule-overview .uk-container {
@@ -1091,8 +1091,8 @@ footer {
 
 	}
 
-	.sponsors .uk-container {
-		.silver-sponsors, .bronze-sponsors, .sponsor {
+	.sponsors {
+		.gold-sponsors, .silver-sponsors, .bronze-sponsors, .sponsor {
 			flex-direction: row;
 			flex-wrap: wrap;
 

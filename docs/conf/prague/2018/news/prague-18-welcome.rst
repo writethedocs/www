@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: {{year}}/generic.html
 
 .. post:: Mar 15, 2018
    :tags: prague-2018, website, tickets, cfp

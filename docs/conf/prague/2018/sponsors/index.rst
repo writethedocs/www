@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: {{year}}/generic.html
 
 Sponsors
 ========
@@ -12,18 +12,34 @@ Sponsors
 The conference wouldn't be nearly as great as it is without our wonderful corporate sponsors.
 Thanks to these folks for supporting the community.
 
-.. include:: /include/conf/2018-prague-sponsors.rst
+.. raw:: html
+
+    {% macro sponsors() %}
+    {% include "include/2018/prague-sponsors.html" %}
+    {% endmacro %}
+    {{ sponsors()|indent(4) }}
 
 In Kind Sponsors
 ----------------
 
 Write the Docs is also helped out by companies that give their employees time to work on the conference.
 
-.. include:: /include/conf/2018-prague-sponsors-in-kind.rst
+.. raw:: html
+
+    {% macro sponsors() %}
+    {% include "include/2018/prague-sponsors-in-kind.html" %}
+    {% endmacro %}
+    {{ sponsors()|indent(4) }}
+
 
 Media Sponsors
 --------------
 
 These amazing media professionals have teamed up with us to capture the Write the Docs experience.
 
-.. include:: /include/conf/2018-prague-sponsors-media.rst
+.. raw:: html
+
+    {% macro sponsors() %}
+    {% include "include/2018/prague-sponsors-media.html" %}
+    {% endmacro %}
+    {{ sponsors()|indent(4) }}

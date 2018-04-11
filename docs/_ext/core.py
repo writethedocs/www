@@ -1,6 +1,7 @@
 from __future__ import print_function
 from future import standard_library
 standard_library.install_aliases()
+
 import os
 import io
 import re
@@ -28,11 +29,21 @@ def load_yaml(path):
 
 
 def load_page_yaml_data(app, page):
-    p = PurePath(page)
-    data = app.config.html_context
-    if page.startswith(('conf/portland/', 'conf/prague', 'conf/australia')) and int(p.parts[2]) >= 2018:
-        yaml_config = load_yaml('_data/config-' + p.parts[1] + '-' + p.parts[2] + '.yaml')
-        data.update(yaml_config)
+    """
+    Get conference specific YAML data.
+
+    Returns an empty dict if it isn't run on a proper conference page.
+    """
+    data = {}
+    if page.startswith('conf'):
+        p = PurePath(page)
+        try:
+            year = int(p.parts[2])
+        except (ValueError, IndexError):
+            return data
+        if year >= 2018:
+            yaml_config = load_yaml('_data/config-' + p.parts[1] + '-' + p.parts[2] + '.yaml')
+            data.update(yaml_config)
     return data
 
 
@@ -73,6 +84,7 @@ def rstjinja(app, docname, source):
     Only load yaml config for 2018 and onwards
     """
     context = load_page_yaml_data(app, docname)
+    context.update(app.config.html_context)
     if docname.startswith(('conf/', 'guide/', 'videos/by-year', 'videos/by-series')):
         src = source[0]
         rendered = app.builder.templates.render_string(src, context)
@@ -136,7 +148,6 @@ def override_page_template(app, pagename, templatename, context, doctree):
         pass
 
 
-
 def load_conference_data():
     speakers_file_pattern = re.compile(r'(\d{4}).(\w+).speakers')
     sessions_file_pattern = re.compile(r'(\w+)-(\d{4})-day-(\d+)')
@@ -168,3 +179,17 @@ def load_conference_data():
             continue
         print("%s doesn't follow the conference data file conventions" % (base,))
     return result
+
+
+def set_html_context(app, docname, source):
+    # Store old context
+    page_context = load_page_yaml_data(app, docname)
+    if page_context:
+        app.config.old_html_context = app.config.html_context.copy()
+        app.config.html_context.update(page_context)
+
+
+def unset_html_context(app, doctree):
+    if hasattr(app.config, 'old_html_context'):
+        app.config.html_context = app.config.old_html_context.copy()
+        del app.config.old_html_context
