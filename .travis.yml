@@ -2,6 +2,8 @@ language: python
 python:
  - 3.6
 sudo: false
+env:
+  - TOX_ENV=docs
 before_install:
   - export GOPATH=$HOME/golang
   - export PATH=$PATH:$GOPATH/bin
