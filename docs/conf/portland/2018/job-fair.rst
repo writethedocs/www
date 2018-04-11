@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: {{year}}/generic.html
 :banner: _static/2018/assets/headers/writing-day.png
 
 Job Fair
@@ -9,4 +9,4 @@ Job Fair
 Schedule
 --------
 
-The Job Fair will happen Tuesday from 9:30-11:30am downstairs in Lola's Room.
+Scheduling information is available on our :doc:`conf/{{shortcode}}/{{year}}/schedule` page.

@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: {{year}}/generic.html
 
 .. post:: March 19, 2018
    :tags: portland-2018, volunteers, shirts, tickets

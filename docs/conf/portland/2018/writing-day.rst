@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: {{year}}/generic.html
 :banner: _static/2018/assets/headers/writing-day.png
 
 Writing Day
@@ -21,10 +21,10 @@ Schedule
 Projects
 --------
 
-  + :ref:`writewrite2018`
+  + :ref:`writewrite2018portland`
   + anything else you fancy
 
-.. _writewrite2018:
+.. _writewrite2018portland:
 
 Write Write the Docs on Writing Day
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: {{year}}/generic.html
 :banner: _static/2018/assets/headers/group.png
 
 Sponsorship Prospectus
@@ -133,7 +133,7 @@ The **Publisher** package costs **$4,000**.
 Patron
 ------
 
-Limit 2 (**One remaining**)
+Limit 2 (**Sold out**)
 
 The **Patron** package highlights your company as a force in the industry and community:
 
@@ -151,7 +151,7 @@ The **Patron** package costs **$8,000**.
 Keystone
 --------
 
-Limit 1 (**Sold Out**)
+Limit 1 (**Sold out**)
 
 The **Keystone** package highlights you as our main community partner:
 
@@ -231,8 +231,8 @@ Run of Show
 
 A quick overview of the spaces:
 
-* The *main ballroom* is where talks and most sponsorship activity happens. We will have booths & swag tables set up at the back of the main ballroom. Here is a `picture from last year <https://www.flickr.com/photos/writethedocs/34495135662>`_
-* *Lola's Room* is downstairs from the main ballroom. This is where the Unconference & Job Fair will happen. Another `picture from last year   <https://www.flickr.com/photos/writethedocs/34536045142/in/album-72157683817839465/>`_.
+* The *main ballroom* is where talks and most sponsorship activity happens. We will have booths & swag tables set up at the back of the main ballroom. Here is a `picture from last year <https://www.flickr.com/photos/writethedocs/34495135662>`_ before the attendees showed up.
+* *Lola's Room* is downstairs from the main ballroom. This is where the Unconference & Job Fair will happen. Another `picture <https://www.flickr.com/photos/writethedocs/34536045142/in/album-72157683817839465/>`_ shows the idea.
 
 An overview of the conference schedule:
 
@@ -253,11 +253,11 @@ Eric Holscher will be your primary contact, but our team is available at sponsor
 What are the dates that sponsors need to know about in advance?
 ------------------------------------------------------------------
 
-* **SUNDAY**: The swag tables are available during the Writing Day. Sponsor booths are available on Sunday from 10am-4pm.
+* **SUNDAY**: The swag tables are available during the Writing Day, if you want to put out swag items early. Sponsor booths are available for setup on Sunday from 10am-4pm, but don't need people in them yet.
 
 * **MONDAY**: Doors open at 8am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the conference, when sponsors tables will need to be staffed. The conference will run until around 5pm.
 
-* **TUESDAY**: The Job Fair will be from 9-11:30am, set up will be at 8:30am. Sponsor tear down in the main hall will be 4pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening.
+* **TUESDAY**: The Job Fair will be from 9:30-11:30am, set up will be at 8:30am. Sponsor tear down in the main hall will be 4pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening.
 
 How do I use get my free tickets?
 ---------------------------------
@@ -270,7 +270,7 @@ What do I need for the job fair?
 The job fair will be a low key event. Every participant will have a six-foot table and two chairs, in a seperate room from the primary conference. Giveaways/flyers are welcome, but please keep your setup requirements simple.
 
 What happens with my swag items?
--------------------------------
+--------------------------------
 
 We will have a few "swag tables" that are placed around the back of the main ballroom. This will be where sponsor and community stickers & swag will be located, so that attendees are free to pick it up. If you have a booth, you are also welcome to place swag on the booth.
 

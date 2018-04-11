@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: {{year}}/generic.html
 
 News
 ====

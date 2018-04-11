@@ -1,7 +1,7 @@
 {% for talk in data %}
 
 {% for speaker in talk.speakers %}
-.. _speaker-portland-2018-{{ speaker.slug }}:
+.. _speaker-{{ shortcode }}-{{ year }}-{{ speaker.slug }}:
 {% endfor %}
 
 .. Comment to break up reference issues

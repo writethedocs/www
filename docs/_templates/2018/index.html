@@ -1,15 +1,20 @@
-{% extends "2018/base_eu.html" %}
+{% extends "2018/base.html" %}
 
 {% block full_title %}
-Home - Write the Docs Prague 2018
+Home - Write the Docs {{ name }} {{ year }}
+{% endblock %}
+
+{% block head_link %}
+<style>
+.page-content h1 {
+    display: none;
+}
+</style>
 {% endblock %}
 
 {% block container %}
 <div class="hero" style="background-image: url({{ pathto('_static/2018/assets/images/backgrounds/prague-green.jpg', 1) }});">
     <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18">
-      <div class="uk-navbar-left uk-hidden@s">
-        <a href="{{ pathto('conf/prague/2018/tickets') }}" class="uk-button uk-button-ghost uk-text-uppercase"> Tickets</a>
-      </div>
       <div class="uk-navbar-right">
         <button class="uk-navbar-toggle uk-hidden@s"  type="button" uk-navbar-toggle-icon uk-toggle="target: #offcanvas-nav"></button>
         <div id="offcanvas-nav" uk-offcanvas="overlay: true">
@@ -18,48 +23,57 @@ Home - Write the Docs Prague 2018
                             Write<br>
                             the<br>
                             Docs<br>
-                            <em>Prague</em>
+                            <em>{{ name }}</em>
                         </div>
-                     {% include "2018/eu/menu-mobile.html" %}
+                      {% if not flaglanding %}
+                     {% include "2018/" + templatecode + "/menu-mobile.html" %}
+                     {% endif %}
             </div>
         </div>
-       {% include "2018/eu/menu-desktop.html" %}
+       {% if not flaglanding %}
+       {% include "2018/" + templatecode + "/menu-desktop.html" %}
+       {% endif %}
       </div>
     </nav>
 
     <div class="hero-content uk-container">
       <div class="logo-container">
         <a class="hero-logo">
-          write<br/> the<br/> docs<br/> <em>prague</em>
+          write<br/>
+          the<br/>
+          docs<br/>
+          <em>{{ shortcode }}</em>
+          {% if cobrand.logo %}
+          <em>+</em>
+          <img style="height: 120px;" src="{{ pathto('_static/img/' + cobrand['logo'],  1) }}">
+          {% endif %}
         </a>
       </div>
       <div class="hero-text">
         <p>The conference focused on all things related to software documentation.</p>
         <p>
           <b>
-            Prague, Czech Republic <br>
-            Sept 9-11, 2018
+            {{ city }}, {{ local_area }}<br>
+            {{ date.short }}
           </b>
         </p>
 
         <div class="ctas-block">
-          <!-- TODO: More calls to action and conditions -->
          {% if flagticketsonsale %}
 
-         <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/prague/2018/tickets') }}">Buy a Ticket!</a>
+         <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/tickets') }}">Buy a Ticket!</a>
 
          {% endif %}
 
          {% if flagcfp %}
 
-         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/prague/2018/cfp') }}">Submit a
-         Talk</a>
+         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/cfp') }}">Submit a Talk</a>
 
          {% endif %}
 
          {% if flagspeakersannounced %}
 
-         <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/prague/2018/speakers') }}">See the talks!</a>
+         <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/speakers') }}">See the talks!</a>
 
          {% endif %}
 
@@ -80,7 +94,7 @@ Home - Write the Docs Prague 2018
       <div class="about-content">
         <h2>What is Write the Docs about?</h2>
         <p>Write the Docs brings everyone who writes the docs together in the same room: Programmers, Tech Writers, Support, Designers, Developer Advocates, and more. We all have things to learn from each other, and there’s no better way than sitting together and talking.</p>
-        <p>We invite you to join 300 other folks in a three-day event to explore the art and science of documentation.</p>
+        <p>We invite you to join {{ about.attendees }} other folks in our event to explore the art and science of documentation.</p>
       </div>
       <div class="picture-set">
         <div data-aos="pictrue-03" data-aos-once="true">
@@ -100,22 +114,22 @@ Home - Write the Docs Prague 2018
     <div class="uk-container" uk-grid>
       <h2>Schedule Overview</h2>
       <div class="schedule-item uk-width-1-3@s">
-        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/boat-green.svg', 1) }}">
-        <h3>Boat Ride</h3>
-        <em>September 8</em>
-        <p>If you're in town early, join us for the Boat Ride. Prague features beautiful architectural and historical monuments along the river, and being on the water is an excellent way to sample the highlights.</p>
+        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/' + date.day_one.icon + '-green.svg', 1) }}">
+        <h3>{{ date.day_one.event }} </h3>
+        <em>{{ date.day_one.date }} </em>
+        <p>{{ date.day_one.summary }} </p>
       </div>
       <div class="schedule-item uk-width-1-3@s">
-        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/writing-green.svg', 1) }}">
-        <h3>Writing Day</h3>
-        <em>September 9</em>
-        <p>Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.</p>
+        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/' + date.day_two.icon + '-green.svg', 1) }}">
+        <h3>{{ date.day_two.event }} </h3>
+        <em>{{ date.day_two.date }} </em>
+        <p>{{ date.day_two.summary }} </p>
       </div>
       <div class="schedule-item uk-width-1-3@s">
-        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/conference-green.svg', 1) }}">
-        <h3>Main Conference</h3>
-        <em>September 10-11</em>
-        <p>The main days of the conference. We will be running our main track in the ballroom, and the Unconference.</p>
+        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/' + date.day_three.icon + '-green.svg', 1) }}">
+        <h3>{{ date.day_three.event }} </h3>
+        <em>{{ date.day_three.date }} </em>
+        <p>{{ date.day_three.summary }} </p>
       </div>
 
       {% if flagspeakersannounced %}
@@ -129,11 +143,10 @@ Home - Write the Docs Prague 2018
     </div>
   </div><!-- end schedule overview -->
 
-
+  {% if body %}
     {% block body %}
       {{ body }}
     {% endblock body %}
-
-  {# include "include/2018/sponsors.html" #}
+  {% endif %}
 
 {% endblock container %}

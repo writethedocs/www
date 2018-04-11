@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: {{year}}/generic.html
 
 {% if shortcode == 'prague'%}
 :banner: _static/2018/assets/headers/group.png
