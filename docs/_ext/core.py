@@ -1,6 +1,7 @@
 from __future__ import print_function
 from future import standard_library
 standard_library.install_aliases()
+
 import os
 import io
 import re
@@ -29,10 +30,15 @@ def load_yaml(path):
 
 def load_page_yaml_data(app, page):
     p = PurePath(page)
-    data = app.config.html_context
-    if page.startswith(('conf/portland/', 'conf/prague', 'conf/australia')) and int(p.parts[2]) >= 2018:
-        yaml_config = load_yaml('_data/config-' + p.parts[1] + '-' + p.parts[2] + '.yaml')
-        data.update(yaml_config)
+    data = app.config.html_context.copy()
+    if page.startswith('conf'):
+        try:
+            year = int(p.parts[2])
+        except (ValueError, IndexError):
+            return data
+        if year >= 2018:
+            yaml_config = load_yaml('_data/config-' + p.parts[1] + '-' + p.parts[2] + '.yaml')
+            data.update(yaml_config)
     return data
 
 
@@ -134,7 +140,6 @@ def override_page_template(app, pagename, templatename, context, doctree):
             return context['meta']['template']
     except TypeError:
         pass
-
 
 
 def load_conference_data():

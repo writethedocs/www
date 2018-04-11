@@ -1,0 +1,92 @@
+name: Cincinnati
+shortcode: cincinnati # prague australia?
+templatecode: cin # HACK
+year: 2018
+city: Cincinnati
+local_area: Ohio
+area: North America # European Australian
+area_adj: North American
+
+tz: EST
+email: support@writethedocs.org
+
+cobrand:
+  brand: Open Help
+  logo: openhelp.svg
+
+tickets:
+  community:
+    price: $250
+  corporate:
+    price: $100
+  independent:
+    price: $50
+  student:
+    price: $25
+
+sponsorship:
+  first_draft:
+    price: $250
+  second_draft:
+    price: $500
+  publisher:
+    price: $1000
+  patron:
+    price: $2000
+  job_fair:
+    price: $500
+    half: $250
+  lanyard:
+    price: TBD
+  writing_day:
+    price: TBD
+
+date: # how do we handle these? human readable would be nice.
+  main: "**August 18-22, 2018, in Cincinnati, Ohio**"
+  short: Aug 18-22, 2018
+  tickets_live: "May 2018"
+  month: August
+  day_one:
+    event: Talks
+    date: Aug 18
+    summary: The primary conference day, with talks.
+    icon: conference
+  day_two:
+    event: Discussions
+    date: Aug 19
+    summary: Talk with other documentarians to learn more about everything and anything.
+    icon: conference
+  day_three:
+    event: Sprints
+    date: Aug 20-22
+    summary: Get some work done and learn by doing from the others in the room
+    icon: writing
+
+about:
+  summary:
+    "The main presentation track takes place on August 18 from 9:00 to 5:00**.
+    During the main event we also run an :doc:`/conf/cincinnati/2018/unconference`.
+
+    You can find out more information about the venue and its accessibility on our :doc:`/conf/prague/2018/venue` page."
+  venue:
+    Union Hall
+  attendees: 100
+  mainroom:
+    Main Room
+  unconfroom:
+    Unconference Room
+
+cfp:
+  url: https://goo.gl/forms/M6YjhBgmCEwOwrzP2
+  ends: Tuesday, May 15th
+  notification: Thursday, May 31st
+
+job_fair:
+  location: Unconference Room
+
+flaglanding: True
+flagspeakersannounced: False
+flagcfp: False
+flagticketsonsale: False
+flaghashike: False
+flaghasboat: False

@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: {{year}}/generic.html
 :banner: _static/2018/assets/headers/venue.png
 
 Schedule
@@ -12,7 +12,7 @@ Each year we organize a wide range of events so that people can come together, c
     :depth: 1
     :backlinks: none
 
-{{date.day_one.dotw}}, {{date.month}} {{date.day_one.date}}
+{{date.day_one.dotw}}, {{date.day_one.date}}
 --------------------------------------------------
 
 {% if flaghashike %}
@@ -40,7 +40,7 @@ If you get into town early, join us and experience Prague from the water.
 {% endif %}
 
 
-{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}}
+{{date.day_two.dotw}}, {{date.day_two.date}}
 ----------------------------------------
 
 The Writing Day and Welcome Reception will be held at the **{{about.venue}}**.
@@ -68,7 +68,7 @@ We'll also help groups organize dinner plans, so you can continue your conversat
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **17:00-20:00**
 
-{{date.day_three.dotw}}, {{date.month}} {{date.day_three.date}}
+{{date.day_three.dotw}}, {{date.day_three.date}}
 --------------------------------------------
 
 .. contents::
@@ -114,7 +114,7 @@ There will be light snacks and drinks available on the conference while our tab 
 * **When**: **20:00-23:00**
 * **Details**: TBA
 
-{{date.day_four.dotw}}, {{date.month}} {{date.day_four.date}}
+{{date.day_four.dotw}}, {{date.day_four.date}}
 --------------------------------------------------
 
 .. contents::

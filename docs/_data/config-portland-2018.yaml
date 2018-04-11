@@ -4,25 +4,45 @@ shortcode: portland # prague australia?
 templatecode: na # HACK
 year: 2018
 city: Portland
-area: North American # European Australian
+local_area: Oregon
+area: North America # European Australian
+area_adj: North American
 tz: PST
 email: portland@writethedocs.org
 
 tickets:
   community:
-    price: 750
+    price: $750
   corporate:
-    price: 450
+    price: $450
   independent:
-    price: 250
+    price: $250
   student:
-    price: 250
+    price: $100
+
+cobrand: False
 
 date: # how do we handle these? human readable would be nice.
   main: "**May 6-8, 2018, in Portland, Oregon**"
+  short: May 6-8, 2018
   tickets_live: "January 2018"
   month: May
   sat: 5
+  day_one:
+    event: Hike
+    date: May 5
+    summary: If you're in town early, join us for the <a href="/conf/portland/2018/hike/">Hike</a>. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    icon: hike
+  day_two:
+    event: Writing Day
+    date: May 6
+    summary: Join us for the <a href="/conf/portland/2018/writing-day/">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    icon: writing
+  day_three:
+    event: Main Conference
+    date: May 7-8
+    summary: The main days of the conference. We will be running our main track in the ballroom, and the <a href="/conf/portland/2018/unconference/">Unconference</a> in Lola's Room.
+    icon: conference
 
 about:
   summary:
@@ -47,3 +67,5 @@ flagticketsonsale: False
 flaghashike: True
 flaghasboat: False
 flaghasshirts: True
+flaglanding: False
+flaghassponsors: True

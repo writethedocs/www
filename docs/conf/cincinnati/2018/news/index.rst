@@ -6,8 +6,9 @@ News
 Updates from the team.
 More here as it happens!
 
- .. postlist:: 3
+.. postlist:: 10
    :date: %A, %B %d, %Y
    :format: {title} - {date}
    :list-style: none
-   :tags: prague-2018
+   :tags: cincinnati-2018
+     

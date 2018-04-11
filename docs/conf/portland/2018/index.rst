@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/index.html
+:template: {{year}}/index.html
 :orphan:
 
 .. Left blank as all content is in the index.html file apart from news and speaker datatemplates
@@ -19,7 +19,7 @@
    :format: {title} - {date}
    :list-style: none
    :tags: portland-2018
-     
+
 
 .. raw:: html
 
@@ -28,7 +28,7 @@
     </div>
   </div><!--- end news block -->
 
-.. 
+..
   .. datatemplate::
      :source: /_data/2018.portland.speakers.yaml
      :template: 2018/na/speakers-index.rst
