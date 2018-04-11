@@ -65,7 +65,7 @@ Purchase this ticket if you are paying for yourself, or if you work at a non-pro
 .. class:: ticket
 
 **Student or Unemployed Tickets** *{{tickets.student.price}}*
-------------------------------------
+----------------------------------------
 
 Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
 

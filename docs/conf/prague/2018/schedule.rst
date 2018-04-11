@@ -86,6 +86,7 @@ Conference Talks
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **10:00-18:00**
 * **Details**: TBA
+
 ..
     .. datatemplate::
        :source: /_data/na-2018-day-1.yaml

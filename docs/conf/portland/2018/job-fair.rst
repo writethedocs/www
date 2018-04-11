@@ -9,4 +9,4 @@ Job Fair
 Schedule
 --------
 
-Scheduling information is available on our :doc:`conf/{{shortcode}}/{{year}}/schedule` page.
+Scheduling information is available on our :doc:`/conf/{{shortcode}}/{{year}}/schedule` page.
