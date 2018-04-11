@@ -1,8 +1,5 @@
 .. raw:: html
 
-{% set shortcode = env.app.config.html_context.shortcode %}
-{% set year = env.app.config.html_context.year %}
-
     <article class="schedule">
     {% for talk in data %}
           <div class="schedule-item">

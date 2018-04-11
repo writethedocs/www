@@ -173,3 +173,17 @@ def load_conference_data():
             continue
         print("%s doesn't follow the conference data file conventions" % (base,))
     return result
+
+
+def set_html_context(app, docname, source):
+    # Store old context
+    app.config.old_html_context = app.config.html_context.copy()
+
+    page_context = load_page_yaml_data(app, docname)
+    app.config.html_context = page_context
+
+
+def unset_html_context(app, doctree):
+    if hasattr(app.config, 'old_html_context'):
+        app.config.html_context = app.config.old_html_context.copy()
+        del app.config.old_html_context

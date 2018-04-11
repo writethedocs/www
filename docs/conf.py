@@ -10,7 +10,10 @@ import os
 
 sys.path.append(os.getcwd())  # noqa
 
-from _ext.core import add_jinja_filters, rstjinja, override_page_template, load_conference_data
+from _ext.core import (
+    add_jinja_filters, rstjinja, override_page_template, load_conference_data,
+    set_html_context, unset_html_context
+)
 from _ext.meetups import MeetupListing
 from _ext.videos import main
 
@@ -27,7 +30,7 @@ import os
 on_rtd = os.environ.get('READTHEDOCS') == 'True'
 on_netlify = os.environ.get('BUILD_VIDEOS') == 'True'
 if not on_rtd and not on_netlify:
-   exclude_patterns.append('videos')
+    exclude_patterns.append('videos')
 
 extensions = [
     'ablog',
@@ -124,13 +127,22 @@ html_context = {
 
 
 # html_context.update(main())
-
 # html_experimental_html5_writer = True
 
 def setup(app):
-    app.connect('html-page-context', override_page_template)
-    app.connect("source-read", rstjinja)
+    # Set up our custom jinja filters
     app.connect("builder-inited", add_jinja_filters)
+
+    # Transform RST with Jinja, using proper context
+    app.connect("source-read", rstjinja)
+
+    # Adjust html_context properly for datatemplate processing
+    app.connect("source-read", set_html_context)
+    app.connect("doctree-read", unset_html_context)
+
+    # Render HTML templates with proper HTML context
+    app.connect('html-page-context', override_page_template)
+
     app.add_directive('meetup-listing', MeetupListing)
     app.add_config_value('recommonmark_config', {
         'auto_toc_tree_section': 'Contents',
