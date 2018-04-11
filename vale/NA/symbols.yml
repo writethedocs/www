@@ -1,5 +1,5 @@
 extends: existence
-messages: "Portland pages should not include '%s'"
+message: "Portland pages should not include '%s'"
 level: error
 raw:
-  - '\€'
+  - '€'

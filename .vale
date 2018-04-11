@@ -3,13 +3,13 @@ MinAlertLevel = error
 
 # Check EU stuff for irrelevant words and symbols
 
-[conf/prague/**/*.{rst}]
+[conf/prague/**/*.rst,_data/config-prague-2018.yaml]
 BasedOnStyles = EU
 
-[_data/config-prague-2018.yaml]
-BasedOnStyles = EU
+# Check NA stuff for irrelevant words and symbols
 
-# We'll want to add AU and Portland here
+[conf/portland/**/*.rst,_data/config-portland-2018.yaml]
+BasedOnStyles = NA
 
 # WTD checks on the input
 
@@ -22,5 +22,7 @@ vale.GenderBias = YES
 TheEconomist.UnnecessaryWords = YES
 TheEconomist.Hectoring = YES
 
-# Add checks on the output
-# {{}}
+# Add checks on the output#
+
+[_build/html/**/*.html]
+BasedOnStyles = HTML
