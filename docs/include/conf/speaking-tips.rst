@@ -37,6 +37,8 @@ There are a lot of different ways of thinking through making your slides.
 Idan Gazit, a previous speaker, has written up a `great post <http://gazit.me/2012/12/05/designing-presentations.html>`__ on how his process works.
 Yours might not be the same, but it might be useful to think through the process.
 
+For a ton of useful info and links about every step of this process, this `packed article <http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/>`__ from the one and only Lena Reinhart might be useful.
+
 Diversity and Inclusivity
 ---------------------------
 
