@@ -6,8 +6,9 @@ Over time,
 we have brought together people from myriad companies and job titles to share in their passion for communication and helping users.
 Our in person and online spaces provide a wonderful place to learn best practices around documentation.
 Because of this,
-we have attracted a large number of people are the forefront in thinking around documentation.
-This allows us to continue to push the industry forward with our conferences and online resources.
+we have attracted a large number of people at the forefront in thinking around documentation.
+These best practices continue to push the industry forward,
+shared through our conferences and online spaces.
 
 Along with pushing the industry forward,
 we know that each person in our community is also trying to push their career forward.
