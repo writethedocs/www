@@ -19,9 +19,9 @@ Facts
 Presentation
 ------------
 
-**We do not be allow time after the presentations for questions**, we
-feel posing questions for the speaker is best done in small groups.
-We do encourage the speaker to be available for questions offstage after their talk.
+**We do not allow time after the presentations for questions**.
+We believe that posing questions for the speaker is best done in small groups.
+We do encourage you to be available for questions offstage after your talk.
 
 Make sure when you practice your presentation, you are not counting on
 extra time at the end for questions. You should plan on speaking for the
@@ -48,12 +48,12 @@ Good resources on this matter include
 
 - `The 18F Guide to Inclusive Language <https://content-guide.18f.gov/inclusive-language/>`__
 - `The Responsible Communication Style Guide <https://rcstyleguide.com/>`__
-
+- `GDS design principles <https://www.gov.uk/guidance/government-design-principles#this-is-for-everyone>`__
 
 Slides
 ------
 
-You’ll be responsible for making sure your laptop, or other display
+You're responsible for making sure your laptop, or other display
 device, is ready for your presentation. Be familiar with setting up an
 external display on your machine, each presenter will have several
 minutes for set up before the talk starts.
@@ -63,7 +63,7 @@ If you are not around on Sunday but would still like to test the video setup, ju
 
 Here are a few other tidbits to remember:
 
--  Make sure that your slides are **high contrast**. It will make them
+-  Make sure that your slides are **high contrast**. This makes them
    easier for everyone to read in the room.
 -  Try not to use the bottom ~10% of your slides, as they might not be
    visible to everyone.
@@ -84,6 +84,4 @@ you are here for the room. We highly recommend watching the full talk:
 Questions
 ---------
 
-Please let us know if you have any more questions. Your questions will
-just lead to making this document better, so please `email
-us <mailto:support@writethedocs.org>`__ any questions.
+Please `let us know <mailto:support@writethedocs.org>`__ if you have any more questions. Your questions can help make this document better.
