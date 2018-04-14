@@ -16,7 +16,7 @@ People in our community want to work with forward thinking companies.
 They want coworkers who *get it*,
 who care about their customers as much as they do.
 We have been seeing this happen organically in our *#jobs* channel in Slack for years now,
-and now we're launching an effort for enhance our ability to connect great folks with great companies.
+and now we're launching two efforts to connect great folks with great companies.
 
 The Job Board
 -------------
