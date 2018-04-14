@@ -55,11 +55,11 @@ Slides
 
 You're responsible for making sure your laptop, or other display
 device, is ready for your presentation. Be familiar with setting up an
-external display on your machine, each presenter will have several
-minutes for set up before the talk starts.
+external display on your machine.
 
-We also provide an opportunity to test the video connection after the Writing Day.
-If you are not around on Sunday but would still like to test the video setup, just let us know.
+Your will have several minutes for set up before your talk starts.
+We also provide an opportunity to test the video connection after the Writing Day, on Sunday afternoon.
+If you are not around on Sunday but would still like to test the video setup in advance, just let us know.
 
 Here are a few other tidbits to remember:
 
