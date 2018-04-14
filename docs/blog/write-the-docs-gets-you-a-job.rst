@@ -1,5 +1,5 @@
-Write the Docs helps you get a job
-==================================
+Write the Docs gets you a job
+=============================
 
 Write the Docs is a community for everyone who cares about documentation.
 Over time,
@@ -74,7 +74,6 @@ Improvements
 ------------
 
 Both of these initiatives are new this year.
-We're still experimenting with how to make them valuable for everyone involved,
-so if you have any feedback we'd love to hear it!
-
-You 
+We're still experimenting with how to make them valuable for everyone involved.
+If you have any specific changes that we could make,
+you can email us at jobs@writethedocs.org with suggestions.
