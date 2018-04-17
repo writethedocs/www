@@ -40,7 +40,7 @@ Yours might not be the same, but it might be useful to think through the process
 
 For a ton of useful info and links about every step of this process, `this article <http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/>`__ from the one and only Lena Reinhart, is jam-packed with of good advice.
 
-Diversity and Inclusivity
+Diversity and inclusivity
 ---------------------------
 
 We strongly encourage all speakers to check and double-check their talks for any language that might be discriminatory or offensive.
