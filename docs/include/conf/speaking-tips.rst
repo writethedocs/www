@@ -16,6 +16,8 @@ Facts
 -  The more you practice your talk, the more comfortable you'll be. 
    In addition to practicing by yourself, we strongly reccomend you
    run through it in front of at least one other human.
+-  If you want to get some of that sweet internet buzz for your talk, 
+   we use the #writethedocs hashtag throughout the event. 
 
 Presentation format
 -------------------
