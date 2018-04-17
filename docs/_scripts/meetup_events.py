@@ -13,17 +13,20 @@ def load_yaml(path):
         return yaml.safe_load(filepath)
 
 def load_meetups():
-    result = []
+    meetup_urls = []
     for yaml_file in glob.glob('../_data/meetups/*.yaml'):
         meetup = load_yaml(yaml_file)
         if not 'website' in meetup:
             raise SphinxError('Meetup needs a website')
-        result.append(meetup['website'])
-    return result
+        meetup_urls.append(meetup['website'])
+    return meetup_urls
 
 
-# meetups = load_meetups()
-meetups = ["https://www.meetup.com/WriteTheDocs-ATX-Meetup/", "https://www.meetup.com/Write-The-Docs-PDX/"]
+meetups = load_meetups()
+
+# if we want to test output for only the ATX & Berlin meetups:
+# meetups = ["https://www.meetup.com/WriteTheDocs-ATX-Meetup/",
+    # "https://www.meetup.com/Write-The-Docs-Berlin/"]
 
 client = meetup.api.Client()
 
@@ -36,8 +39,7 @@ for meetup in meetups:
     t = client.GetEvents(group_urlname=meetup[23:-1])
 
     for event in t.results:
-
-        event_name = event['group']['name']
+        event_name = event['name']
         event_time = event['time']
         event_url = event['event_url']
 
@@ -46,13 +48,22 @@ for meetup in meetups:
         else:
             event_venue = event['group']['name'][15:]
 
-        event_json = json.JSONEncoder().encode({event_name:
-            {'time': event_time, 'url': event_url, 'venue': event_venue}
+        event_id = event_name + ' - ' + event_venue + ' - ' + str(event_time)
+
+        event_json = json.JSONEncoder().encode(
+            {
+                event_id:
+                    {
+                        'name': event_name,
+                        'time': event_time,
+                        'url': event_url,
+                        'venue': event_venue
+                    }
             })
 
         relevant_results.append(event_json)
 
-    pprint(relevant_results)
+pprint(relevant_results)
 
         ##################################################
         # pprint('##'+event['group']['name'])
