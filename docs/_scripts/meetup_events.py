@@ -2,6 +2,7 @@ import yaml
 import glob
 import io
 import meetup.api
+import json
 
 from time import strftime, gmtime
 
@@ -21,9 +22,12 @@ def load_meetups():
     return result
 
 
-meetups = load_meetups()
+# meetups = load_meetups()
+meetups = ["https://www.meetup.com/WriteTheDocs-ATX-Meetup/", "https://www.meetup.com/Write-The-Docs-PDX/"]
 
 client = meetup.api.Client()
+
+relevant_results = []
 
 for meetup in meetups:
     # Substring the meetup.com and trailing slash. EWWW
@@ -32,25 +36,39 @@ for meetup in meetups:
     t = client.GetEvents(group_urlname=meetup[23:-1])
 
     for event in t.results:
+
+        event_name = event['group']['name']
+        event_time = event['time']
+        event_url = event['event_url']
+
+        if 'venue' in event:
+            event_venue = event['venue']['city']
+        else:
+            event_venue = event['group']['name'][15:]
+
+        event_json = json.JSONEncoder().encode({event_name:
+            {'time': event_time, 'url': event_url, 'venue': event_venue}
+            })
+
+        relevant_results.append(event_json)
+
+    pprint(relevant_results)
+
+        ##################################################
         # pprint('##'+event['group']['name'])
         # pprint(event['name'])
         # pprint(event['event_url'])
 
         ##################################################
-        ms_since_the_epoch = event['time']
-        month = strftime("%B", gmtime(ms_since_the_epoch))
-        day = strftime("%d", gmtime(ms_since_the_epoch))
-        date = month + ' ' + day
+        # ms_since_the_epoch = event['time']
+        # date = strftime("%B %d", gmtime(event['time']))
 
-        if 'venue' in event:
-            venue = event['venue']
-            pprint(date + ' - ' + venue['city'])
-        else:
-            pprint("LOOOOOOOOOK!!!!!!!")
-
-            # this prints "March 10 - Australi" ... why???
-            venue = event['group']['name'][15:-1]
-            pprint(date + ' - ' + venue)
+        # if 'venue' in event:
+        #     venue = event['venue']
+        #     pprint(date + ' - ' + venue['city'])
+        # else:
+        #     venue = event['group']['name']
+        #     pprint(date + ' - ' + venue)
         ##################################################
 
         #
@@ -59,6 +77,6 @@ for meetup in meetups:
         #  'utc_offset': -25200000,
         #
 
-# we haven't passed any date restrictions in our request to the Meetup API,
-# yet it only returns events that are (more or less) within 1 year from today
-# (seems like no date restrictions) ... hm ...
+# TODO:
+# - sort by time
+# - filter out events later than 2 months from now
