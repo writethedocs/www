@@ -18,6 +18,11 @@ Preferred seating will be provided for attendees who request it. Please contact 
 
 All transit in Portland announce stops verbally in English. Most buses have a visual display of upcoming stops.
 
+Service Animals
+***************
+
+Service Animals are welcomed at our conference venue.
+
 Dietary requirements
 ********************
 
