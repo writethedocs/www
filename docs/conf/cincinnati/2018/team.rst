@@ -7,40 +7,6 @@ Meet the Team
 Our conference is run by a dedicated team consisting mostly of volunteers.
 This page outlines the folks who are helping get things done, and what their roles are.
 
-Folks
------
-
-Mikey Ariel
-~~~~~~~~~~~
-
-.. include:: /include/bios/mikey.rst
-
-Samuel Wright
-~~~~~~~~~~~~~
-
-.. include:: /include/bios/sam.rst
-
-Eric Holscher
-~~~~~~~~~~~~~
-
-.. include:: /include/bios/eric.rst
-
-Kelly O'Brien
-~~~~~~~~~~~~~
-
-.. include:: /include/bios/kelly.rst
-
-Sasha Romijn
-~~~~~~~~~~~~
-
-.. include:: /include/bios/sasha.rst
-
-Paul Adams
-~~~~~~~~~~
-
-.. include:: /include/bios/paul.rst
-
-
 Primary Roles
 -------------
 
@@ -49,23 +15,18 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 Filled Roles
 ~~~~~~~~~~~~~
 
-* **Conference chair** - Mikey Ariel
+* **Conference co-chair's** - Shaun McCance & Hillary Fraley
 * **Swag coordinator** - Mikey Ariel
-* **Speaker wrangler** - Sam Wright
+* **Speaker wrangler** - Hillary Fraley
 * **Infrastructure chair** - Sam Wright
-* **Writing Day coordinator** - Kelly O'Brien
-* **Lightning Talk coordinator** - Paul Adams
+* **Sprints coordinator** - Shaun McCance
 * **Communication chair** - Mikey Ariel
-* **Volunteer coordinator** - Sasha Romijn
-* **Sponsorship lead** - Eric Holscher
-* **Job Fair coordinator** - Eric Holscher
-* **Boat ride coordinator** - Mikey Ariel
-* **Unconference coordinator** - Paul Adams
+* **Sponsorship lead** - Eric Holscher & Shaun McCance
+* **Unconference coordinator** - Shaun McCance
+* **Venue coordinator** - Shaun McCance
 
 Organizers Needed
 ~~~~~~~~~~~~~~~~~
 
-* **Welcome Wagon coordinators** - TBA
-* **Explore Prague coordinator** - TBA
-* **Social media chair** - TBA
 * **Emcee** - TBA
+* **Lightning Talk coordinator** - TBA

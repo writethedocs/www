@@ -4,7 +4,6 @@
 Tickets
 =======
 
-
 {% if flagticketsonsale %}
 
 **Tickets are on sale now!**
@@ -19,8 +18,9 @@ Each ticket includes:
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
 
-
 .. class:: ticket
+
+{% if tickets.community is defined %}
 
 **Community Sponsorship Tickets** *{{tickets.community.price}}*
 ------------------------------------------
@@ -33,6 +33,8 @@ If you are a larger company or organization, please contact us at sponsorship@wr
 {% if flagticketsonsale %}
 
 * `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+
+{% endif %}
 
 {% endif %}
 
