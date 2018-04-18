@@ -61,6 +61,11 @@ date: # how do we handle these? human readable would be nice.
     date: Aug 20-22
     summary: Get some work done and learn by doing from the others in the room
     icon: writing
+  day_four:
+    event: Sprints
+    date: Aug 20-22
+    summary: Get some work done and learn by doing from the others in the room
+    icon: writing
 
 about:
   summary:
@@ -84,9 +89,9 @@ cfp:
 job_fair:
   location: Unconference Room
 
-flaglanding: True
+flaglanding: False
+flagcfp: True
+flagticketsonsale: True
 flagspeakersannounced: False
-flagcfp: False
-flagticketsonsale: False
 flaghashike: False
 flaghasboat: False
