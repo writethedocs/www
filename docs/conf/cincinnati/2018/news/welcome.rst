@@ -8,7 +8,7 @@ Announcing Write the Docs Cincinnati + Open Help Website, Call for Organizers, a
 
 Welcome to the official launch of `Write the Docs Cincinnati + Open Help 2018 <http://www.writethedocs.org/conf/cincinnati/2018/>`_! We are excited to announce the first-ever collaboration between `Write the Docs <http://www.writethedocs.org/>`_ and `Open Help <https://conf.openhelp.cc/index.html>`_, coming August 18-22, 2018.
 
-Since 2011, the Open Help Conference in Cincinnati featured attendee-led discussions and sprints for a wide range of people working on open-source and community-based projects. This year, Write the Docs and Open Help are coming together to bring 5 days of talks, conversations, and doc sprints a little closer to home for our East Coast and Midwestern documentarians!
+Since 2011, the Open Help Conference in Cincinnati featured attendee-led discussions and sprints for a wide range of people working on open-source and community-based projects. This year, Write the Docs and Open Help are coming together to bring 5 days of talks, conversations, and doc sprints a little closer to home for our East Coast and Midwestern documentarians! Write the Docs Cincinnati + Open Help 2018 creates a time and place for the community of documentarians to learn, discuss, and do, working together to improve the art and science of documentation.
 
 Here's a quick overview of the schedule:
 
