@@ -1,14 +1,16 @@
-Write the Docs gets you a job
-=============================
+Find your dream job with Write the Docs
+=======================================
 
-Write the Docs is a community for everyone who cares about documentation.
+Since the very first Write the Docs conference,
+we have been connecting documentarians with companies that need people to solve documentation-related problems.
 Over time,
 we have brought together people from myriad companies and job titles to share in their passion for communication and helping users.
 Our in person and online spaces provide a wonderful place to learn best practices around documentation.
 Because of this,
-we have attracted a large number of people at the forefront in thinking around documentation.
-These best practices continue to push the industry forward,
-shared through our conferences and online spaces.
+we have attracted a group of folks who are doing some of the most interesting and innovative work around software documentation.
+Everywhere the community interacts, 
+whether at our offline events or in our online spaces,
+it's easy to see the profession's best practices evolve and improve. 
 
 Along with pushing the industry forward,
 we know that each person in our community is also trying to push their career forward.
@@ -16,31 +18,32 @@ People in our community want to work with forward thinking companies.
 They want coworkers who *get it*,
 who care about their customers as much as they do.
 We have been seeing this happen organically in our *#jobs* channel in Slack for years now,
-and now we're launching two efforts to connect great folks with great companies.
+and now we're launching two efforts – 
+an online job board and an in-person job fair – 
+to connect great folks with great companies.
 
 The Job Board
 -------------
 
 We are launching a new Job Board: http://jobs.writethedocs.org.
-It fulfills two primary roles:
+It has two simple functions:
 
-* Allows employers to post jobs
-* Allows employees to get alerted when jobs are posted
+* Employers can post job openings
+* Candidates search for and be notified about available positions 
 
 In order to get jobs out to our full community,
 we'll also be highlighting some of the jobs in our Newsletter and in the *#jobs* channel in Slack.
 
-Job postings are currently priced:
+Job postings are currently priced as follows:
 
 * $50 for a basic job posting (posted to the Web, Slack, and Email)
 * $150 for a promoted job posting (also included in our Newsletter)
 
-We're excited to have this ability to conenct our community with jobs.
-We truly believe that the folks in our community are pushign the industry forward,
-and helping to facilitate this activity will make only make documentaiton in the software industry get better even quicker!
+We're excited to have more and better ways to connect people, 
+and we're confident that this will move us towards our goal to improve documentation in the software industry.
 
 We're also formalizing the hiring processes at our conference this year,
-but doing a job fair.
+by doing a job fair.
 
 The Job Fair at Conferences
 ---------------------------
