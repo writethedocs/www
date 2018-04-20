@@ -18,18 +18,17 @@ They want coworkers who *get it*,
 who share their passion for good communication,
 who care about helping users as much as they do.
 In pursuit of that goal,
-the community has worked organically for years know,
+the community has worked organically for years now,
 helping people find the perfect job or the perfect candidate
 via our *#jobs* channel in Slack.
 
-These connections are so important to health and success of our community.
+These connections are important to health and success of our community.
 In an effort to foster more of them,
 we're excited to announce the launch of two new Write the Docs resources this year.
 The first is an `online job board <http://jobs.writethedocs.org>`_,
 where employers can post jobs and candidates can peruse them.
 The second is an in-person job fair,
 which will be held at both the Portland and Prague conferences this year.
-
 
 Read on for more details on how we're working to connect great documentarians with great companies.
 
@@ -105,3 +104,4 @@ If you have any specific suggestions,
 requests,
 or changes you'd like to see us make,
 drop us an email at `jobs@writethedocs.org <mailto:jobs@writethedocs.org>`_.
+
