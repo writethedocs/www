@@ -2,7 +2,7 @@ import yaml
 import glob
 import io
 import meetup.api
-import json
+import collections
 
 from time import strftime, gmtime
 
@@ -21,16 +21,19 @@ def load_meetups():
         meetup_urls.append(meetup['website'])
     return meetup_urls
 
-
+##############################################################
 meetups = load_meetups()
 
 # if we want to test output for only the ATX & Berlin meetups:
 # meetups = ["https://www.meetup.com/WriteTheDocs-ATX-Meetup/",
-    # "https://www.meetup.com/Write-The-Docs-Berlin/"]
+#     "https://www.meetup.com/Write-The-Docs-Berlin/"]
 
 client = meetup.api.Client()
+##############################################################
 
-relevant_results = []
+# get relevant data for meetups: name, time, url, venue
+
+relevant_results = {}
 
 for meetup in meetups:
     # Substring the meetup.com and trailing slash. EWWW
@@ -39,55 +42,42 @@ for meetup in meetups:
     t = client.GetEvents(group_urlname=meetup[23:-1])
 
     for event in t.results:
+
+        # convert UTC time to human-readable dates
+        # FIX: getting incorrect dates; possible time zone problem
+        event_date = strftime("%B %d", gmtime(event['time']))
         event_name = event['name']
-        event_time = event['time']
         event_url = event['event_url']
 
         if 'venue' in event:
+            # city = event['venue']['city']
+            # country = event['localized_country_name']
+            # event_venue = city + ', ' + country
             event_venue = event['venue']['city']
         else:
             event_venue = event['group']['name'][15:]
 
-        event_id = event_name + ' - ' + event_venue + ' - ' + str(event_time)
+        relevant_results[event_date] = {
+            'name': event_name,
+            'url': event_url,
+            'venue': event_venue
+        }
 
-        event_json = json.JSONEncoder().encode(
-            {
-                event_id:
-                    {
-                        'name': event_name,
-                        'time': event_time,
-                        'url': event_url,
-                        'venue': event_venue
-                    }
-            })
+# FIX: sorting by alphabetical order, i.e., "April" -> "August"
+ordered_results = collections.OrderedDict(sorted(relevant_results.items()))
 
-        relevant_results.append(event_json)
+pprint(ordered_results)
 
-pprint(relevant_results)
+##################################################
+# pprint('##'+event['group']['name'])
+# pprint(event['name'])
+# pprint(event['event_url'])
 
-        ##################################################
-        # pprint('##'+event['group']['name'])
-        # pprint(event['name'])
-        # pprint(event['event_url'])
-
-        ##################################################
-        # ms_since_the_epoch = event['time']
-        # date = strftime("%B %d", gmtime(event['time']))
-
-        # if 'venue' in event:
-        #     venue = event['venue']
-        #     pprint(date + ' - ' + venue['city'])
-        # else:
-        #     venue = event['group']['name']
-        #     pprint(date + ' - ' + venue)
-        ##################################################
-
-        #
-        #  'time': 1522803600000,
-        #  'updated': 1521572914000,
-        #  'utc_offset': -25200000,
-        #
+#  'time': 1522803600000,
+#  'updated': 1521572914000,
+#  'utc_offset': -25200000,
 
 # TODO:
-# - sort by time
+# x sort by time
+
 # - filter out events later than 2 months from now
