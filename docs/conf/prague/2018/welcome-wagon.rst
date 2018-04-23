@@ -27,14 +27,14 @@ Welcome Wagon events
 
 **Write the Docs Welcome Wagon Introduction**
 
-*{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}} at 17:00 in the quiet room (downstairs, across from the cloak room) at Auto-Klub*
+*{{date.day_two.dotw}}, {{date.day_two.date}} at 17:00 in the quiet room (downstairs, across from the cloak room) at Auto-Klub*
 
 Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new before we join the opening reception.
 
 **Welcome Wagon Tours**
 
-* *{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}} at 17:30 starting near the registration desk at Auto-Klub*
-* *{{date.day_three.dotw}}, {{date.month}} {{date.day_three.date}} at 9:15 starting near the registration desk at Auto-Klub*
+* *{{date.day_two.dotw}}, {{date.day_two.date}} at 17:30 starting near the registration desk at Auto-Klub*
+* *{{date.day_three.dotw}}, {{date.day_three.date}} at 9:15 starting near the registration desk at Auto-Klub*
 
 Come on a short tour of the venue with a veteran Write the Docs attendee so you'll know where everything is and everything you can take part in.
 
@@ -136,7 +136,7 @@ at the Prague Boats pier no. 5.
 
 `Conference talks at Auto Klub <http://www.writethedocs.org/conf/eu/2017/speakers/>`__
 
--  The time between talks is for meeting your colleagues or taking a
+-  The time between talks is for meeting other attendees or taking a
    break. During the talks, listen and take in as much as you can.
 -  There is a lot of great information at this conference, but don't
    worry if you miss something! All talks are videotaped, so you can

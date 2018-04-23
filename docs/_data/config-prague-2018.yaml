@@ -60,13 +60,19 @@ date: # how do we handle these? human readable would be nice.
     dotw: Sunday
   day_three:
     event: Main Conference
-    date: September 10-11
-    summary: The main days of the conference. We will be running our main track in the ballroom, and the Unconference.
+    date: September 10
     icon: conference
     dotw: Monday
   day_four:
-    date: 11
+    event: Main Conference
+    date: September 11
+    icon: conference
     dotw: Tuesday
+  main_conference:
+    event: Main Conference
+    date: September 10-11
+    icon: conference
+    summary: The main days of the conference. We will be running our main track in the ballroom, and the Unconference.
 
 about:
   summary:
