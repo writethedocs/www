@@ -21,7 +21,7 @@ All transit in Portland announce stops verbally in English. Most buses have a vi
 Service Animals
 ***************
 
-Service Animals are welcomed at our conference venue.
+Service Animals are welcome at our conference venue.
 
 Dietary requirements
 ********************
