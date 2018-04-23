@@ -43,7 +43,8 @@ The `MAX <http://trimet.org/max>`__ is Portland's major light-rail system. The M
 
 If you're flying into Portland Airport (PDX), we recommend taking the MAX into downtown Portland (service to downtown Portland runs between 5 am and midnight). There is a MAX station for the `Red Line <http://trimet.org/schedules/maxredline.htm>`__ in the airport itself. You may purchase MAX tickets from a ticket machine at the airport. Be sure to buy a ticket before boarding the train.
 
-The venue is along Burnside Street at 14th Ave, just east of the I-405 underpass. Normally the closest Red Line stop to the Crystal Ballroom would be at Galleria SW 10th.
+The venue is along Burnside Street at 14th Ave, just east of the I-405 underpass. The closest stop to the Crystal Ballroom is Galleria SW 10th.
+
 
 Streetcars and Buses
 ~~~~~~~~~~~~~~~~~~~~
@@ -52,7 +53,7 @@ Portland has a `separate streetcar network <http://www.portlandstreetcar.org/>`_
 
 If you are planning on using MAX, Portland Streetcar and/or city buses frequently during your stay, it may be worth investing in the `Hop Fastpass <https://myhopcard.com/>`__ fare card system.
 
-.. Note:: We recommend you use the `TriMet Trip Planner <https://trimet.org/#/planner>`__.
+We recommend you use the `TriMet Trip Planner <https://trimet.org/#/planner>`__.
 
 Taxi Companies
 ~~~~~~~~~~~~~~
