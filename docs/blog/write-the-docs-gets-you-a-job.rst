@@ -1,3 +1,8 @@
+.. post:: April 23, 2018
+   :tags: community updates, jobs
+   :author: Kelly O'Brien
+
+
 Finding your Dream Job with Write the Docs
 ==========================================
 
