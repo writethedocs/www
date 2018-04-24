@@ -6,28 +6,20 @@
                       <ul class="uk-nav-sub">
                           <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/schedule') }}">Schedule</a></li>
                           <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/speakers') }}">Talks</a></li>
-                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/lightning-talks') }}">Lightning Talks</a></li>
                           <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/unconference') }}">Unconference</a></li>
                           <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/writing-day') }}">Writing Day</a></li>
-                          {% if flaghashike %}
-                          <li><a href="{{ pathto('conf/portland/2018/outing') }}">Hike</a></li>
-                          {% endif %}
-                          {% if flaghasboat %}
-                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/outing') }}">Boat Ride</a></li>
-                          {% endif %}
                       </ul>
                   </li>
                   <li class="uk-parent">
                       <a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/visiting') }}">Visit</a>
                       <ul class="uk-nav-sub">
                           <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/venue') }}">Venue</a></li>
-                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/visiting') }}">Prague</a></li>
+                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/visiting') }}">{{ name }}</a></li>
                       </ul>
                   </li>
                   <li class="uk-parent">
                       <a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/about') }}">About</a>
                       <ul class="uk-nav-sub">
-                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/welcome-wagon') }}">Welcome Wagon</a></li>
                           <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/team') }}">Meet the Team</a></li>
                           <li><a href="{{ pathto('conf') }}">Past Events</a></li>
                           <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
