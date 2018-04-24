@@ -1,3 +1,5 @@
+:template: {{year}}/generic.html
+
 About
 =====
 
