@@ -101,6 +101,8 @@ You can buy it directly on our ticket website.
 Second Draft
 ------------
 
+**One left**
+
 The **Second Draft** package is great for companies looking to hire or promote a product.
 
 - Two (2) tickets_
@@ -114,6 +116,8 @@ The **Second Draft** package costs **$1,500**.
 
 Publisher
 ---------
+
+**Sold out**
 
 The **Publisher** package is great for sending a team and getting to know the community.
 
