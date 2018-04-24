@@ -3,8 +3,8 @@
 .. post:: Apr 26, 2018
    :tags: cincinnati-2018, website, cfp, tickets, open-help
 
-Announcing Write the Docs Cincinnati + Open Help Website, Call for Organizers, and CFP
-======================================================================================
+Announcing Write the Docs + Open Help Cincinnati
+================================================
 
 Welcome to the official launch of `Write the Docs Cincinnati + Open Help 2018 <http://www.writethedocs.org/conf/cincinnati/2018/>`_! We are excited to announce the first-ever collaboration between `Write the Docs <http://www.writethedocs.org/>`_ and `Open Help <https://conf.openhelp.cc/index.html>`_, coming August 18-22, 2018.
 
