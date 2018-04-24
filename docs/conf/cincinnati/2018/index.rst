@@ -14,7 +14,7 @@
    :date: %B %d, %Y
    :format: {title} - {date}
    :list-style: none
-   :tags: cincinnati-2018
+   :tags: {{ shortcode }}-{{ year }}
 
 .. raw:: html
 
