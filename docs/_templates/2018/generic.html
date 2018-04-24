@@ -13,7 +13,16 @@
         <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18px">
             <div class="uk-navbar-left">
                 <div class="header-logo uk-visible@s">
-                    <a href="{{ pathto('conf/' + shortcode + '/2018') }}">write<br/> the<br/> docs<br/> <em>{{ shortcode }}</em></a>
+                    <a href="{{ pathto('conf/' + shortcode + '/2018') }}">
+                        Write<br>
+                        the<br>
+                        Docs<br>
+                        {% if cobrand is defined and cobrand %}
+                        <em>+</em>
+                        {{ cobrand.brand_html }}
+                        {% endif %}
+                        <em>{{ name }}</em>
+                    </a>
                 </div>
             </div>
             <div class="uk-navbar-right">
