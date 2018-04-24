@@ -10,6 +10,9 @@ area_adj: North American
 tz: PST
 email: portland@writethedocs.org
 
+photos:
+  default: _static/2018/assets/images/backgrounds/group.jpg
+
 tickets:
   community:
     price: $750

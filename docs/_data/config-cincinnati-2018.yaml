@@ -15,6 +15,9 @@ cobrand:
   brand_html: Open<br>Help
   logo: openhelp.svg
 
+photos:
+  default: _static/2018/assets/images/backgrounds/writing-day.png
+
 tickets:
   community:
     price: $250

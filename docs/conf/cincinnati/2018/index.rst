@@ -1,4 +1,5 @@
 :template: {{year}}/index.html
+:banner: _static/2018/assets/images/backgrounds/{{ shortcode }}-green.jpg
 :orphan:
 
 .. raw:: html
@@ -22,4 +23,3 @@
       </section>
     </div>
   </div><!--- end news block -->
-
