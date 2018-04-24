@@ -90,9 +90,11 @@ cfp:
 job_fair:
   location: Unconference Room, downstairs
 
-flagspeakersannounced: False
+flaghassponsors: True
 flagcfp: True
 flagticketsonsale: True
+flagspeakersannounced: False
+
 flaghashike: False
 flaghasboat: True
 flaglanding: False
