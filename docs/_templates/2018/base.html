@@ -47,14 +47,14 @@
 
         <!-- things that change -->
         {% block meta %}
-        <meta property="og:site_name" content="Write the Docs {{ name }} {{ year }}">
+        <meta property="og:site_name" content="Write the Docs {% if cobrand is defined and cobrand %} + {{ cobrand.brand }} {% endif %} {{ name }} {{ year }}">
         <meta name="dc.language" content="en">
         <meta name="geo.placename" content="{{ city }}, {{ area }}">
         {% endblock %}
 
         <title>
         {% block full_title %}
-        {% if title %}{{ title }}{% endif %} - Write the Docs {{ name }} {{ year }}
+        {% if title %}{{ title }}{% endif %} - Write the Docs {% if cobrand is defined and cobrand %} + {{ cobrand.brand }} {% endif %}  {{ name }} {{ year }}
         {% endblock full_title %}
         </title>
 
@@ -109,7 +109,7 @@
     </div>
     {% endif %}
 
-    <footer>
+    <footer {% if cobrand is defined%}style="height: 500px;"{% endif %}>
         <div class="footer-padding"></div>
         <div class="uk-container">
             <div class="footer-content">
@@ -119,6 +119,10 @@
                             Write<br>
                             the<br>
                             Docs<br>
+                            {% if cobrand is defined and cobrand %}
+                            <em>+</em>
+                            {{ cobrand.brand_html }}
+                            {% endif %}
                             <em>{{ name }}</em>
                     {% endblock %}
                     </div>

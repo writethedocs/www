@@ -12,7 +12,11 @@ email: support@writethedocs.org
 
 cobrand:
   brand: Open Help
+  brand_html: Open<br>Help
   logo: openhelp.svg
+
+photos:
+  default: _static/2018/assets/images/backgrounds/writing-day.png
 
 tickets:
   community:
@@ -25,21 +29,10 @@ tickets:
     price: $25
 
 sponsorship:
-  first_draft:
-    price: $250
   second_draft:
     price: $500
   publisher:
-    price: $1000
-  patron:
-    price: $2000
-  job_fair:
-    price: $500
-    half: $250
-  lanyard:
-    price: TBD
-  writing_day:
-    price: TBD
+    price: $1500
 
 date: # how do we handle these? human readable would be nice.
   main: "**August 18-22, 2018, in Cincinnati, Ohio**"
@@ -57,6 +50,11 @@ date: # how do we handle these? human readable would be nice.
     summary: Talk with other documentarians to learn more about everything and anything.
     icon: conference
   day_three:
+    event: Sprints
+    date: Aug 20-22
+    summary: Get some work done and learn by doing from the others in the room
+    icon: writing
+  day_four:
     event: Sprints
     date: Aug 20-22
     summary: Get some work done and learn by doing from the others in the room
@@ -84,9 +82,9 @@ cfp:
 job_fair:
   location: Unconference Room
 
-flaglanding: True
+flaglanding: False
+flagcfp: True
+flagticketsonsale: True
 flagspeakersannounced: False
-flagcfp: False
-flagticketsonsale: False
 flaghashike: False
 flaghasboat: False
