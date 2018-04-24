@@ -8,13 +8,15 @@ Announcing Write the Docs Cincinnati + Open Help Website, Call for Organizers, a
 
 Welcome to the official launch of `Write the Docs Cincinnati + Open Help 2018 <http://www.writethedocs.org/conf/cincinnati/2018/>`_! We are excited to announce the first-ever collaboration between `Write the Docs <http://www.writethedocs.org/>`_ and `Open Help <https://conf.openhelp.cc/index.html>`_, coming August 18-22, 2018.
 
-Since 2011, the Open Help Conference in Cincinnati featured attendee-led discussions and sprints for a wide range of people working on open-source and community-based projects. This year, Write the Docs and Open Help are coming together to bring 5 days of talks, conversations, and doc sprints a little closer to home for our East Coast and Midwestern documentarians! Write the Docs Cincinnati + Open Help 2018 creates a time and place for the community of documentarians to learn, discuss, and do, working together to improve the art and science of documentation.
+Since 2011, the Open Help Conference in Cincinnati featured attendee-led discussions and sprints for a wide range of people working on open-source and community-based projects. This year, Write the Docs and Open Help are coming together to bring 5 days of talks, conversations, and doc sprints a little closer to home for our East Coast and Midwestern documentarians!
+
+Write the Docs Cincinnati + Open Help 2018 creates a time and place for the community of documentarians to learn, discuss, and do, working together to improve the art and science of documentation.
 
 Here's a quick overview of the schedule:
 
 * **Day 1: Talks on all things technical documentation.** We’ll have a variety of speakers on the stage sharing their experience and knowledge.
 * **Day 2: Unconference discussion and open space.** Share ideas and discuss problems with others from the documentation community. Anyone can suggest and lead a session on any topic.
-* **Days 3-5: Documentation sprints and writing days.** Get together with other documentarians to work on your docs and learn some new skills. Don't have a team to bring to the spring? Join us anyway--get involved with an open source project and learn from the people who are pioneering documentation sprints.
+* **Days 3-5: Documentation sprints and writing days.** Get together with other documentarians to work on your docs and learn some new skills. Don't have a team to bring to the sprints? Join us anyway--get involved with an open source project and learn from the people who are pioneering documentation sprints.
 
 Write the Docs Cincinnati + Open Help is scheduled for August 18-22, 2018 at `Union Hall <http://unionhallcincy.com/>`_ in the historic Over the Rhine neighborhood in `Cincinnati, Ohio <https://www.google.com/maps/place/Union+Hall/@39.109885,-84.515631,15z/data=!4m5!3m4!1s0x0:0x3caee5bfc65866b3!8m2!3d39.109885!4d-84.515631>`_.
 
