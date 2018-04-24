@@ -69,7 +69,7 @@ Second Draft
 The **Second Draft** package is great for companies looking to hire or promote a product.
 
 - Two (2) tickets
-- Medium logo & link on the Write the Docs website
+- Small logo & link on the conference website
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 - One featured job posting in our Newsletter (2,500 subscribers)
@@ -81,12 +81,11 @@ Publisher
 
 The **Publisher** package is great for sending a team and getting to know the community.
 
-- Five (5) tickets
-- Large logo & link on the Write the Docs website
+- Four (4) tickets
+- Large logo & link on the conference website
 - Name included in welcome announcement in email newsletters and social media
 - Display 2 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Two featured job postings in our Newsletter (2,500 subscribers)
-- A table at the job fair
+- Address the audience for 60 seconds
 
 The **Publisher** package costs **{{sponsorship.publisher.price}}**.
 
