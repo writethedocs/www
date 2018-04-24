@@ -12,6 +12,7 @@ email: support@writethedocs.org
 
 cobrand:
   brand: Open Help
+  brand_html: Open<br>Help
   logo: openhelp.svg
 
 tickets:

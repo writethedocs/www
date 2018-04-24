@@ -24,6 +24,10 @@
                                     Write<br>
                                     the<br>
                                     Docs<br>
+                                    {% if cobrand is defined and cobrand %}
+                                    <em>+</em>
+                                    {{ cobrand.brand_html }}
+                                    {% endif %}
                                     <em>{{ name }}</em>
                                 </div>
                              {% include "2018/" + templatecode + "/menu-mobile.html" %}
@@ -37,7 +41,14 @@
     <div class="mobile-post-header uk-hidden@s">
         <div class="header-logo">
                 <a href="{{ pathto('conf/' + shortcode + '/2018') }}">
-                    write<br/> the<br/> docs<br/> <em>{{ shortcode }}</em>
+                    Write<br>
+                    the<br>
+                    Docs<br>
+                    {% if cobrand is defined and cobrand %}
+                    <em>+</em>
+                    {{ cobrand.brand_html }}
+                    {% endif %}
+                    <em>{{ name }}</em>
                 </a>
         </div>
     </div><!-- end post header -->

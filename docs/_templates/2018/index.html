@@ -1,7 +1,7 @@
 {% extends "2018/base.html" %}
 
 {% block full_title %}
-Home - Write the Docs {{ name }} {{ year }}
+Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ cobrand.brand }} {% endif %} {{ year }}
 {% endblock %}
 
 {% block head_link %}
@@ -13,7 +13,7 @@ Home - Write the Docs {{ name }} {{ year }}
 {% endblock %}
 
 {% block container %}
-<div class="hero" style="background-image: url({{ pathto('_static/2018/assets/images/backgrounds/prague-green.jpg', 1) }});">
+<div class="hero" style="background-image: url({{ pathto('_static/2018/assets/images/backgrounds/prague-green.jpg', 1) }}); {%- if cobrand is defined %} height: 600px; {% endif %}">
     <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18">
       <div class="uk-navbar-right">
         <button class="uk-navbar-toggle uk-hidden@s"  type="button" uk-navbar-toggle-icon uk-toggle="target: #offcanvas-nav"></button>
@@ -23,6 +23,10 @@ Home - Write the Docs {{ name }} {{ year }}
                             Write<br>
                             the<br>
                             Docs<br>
+                            {% if cobrand is defined and cobrand %}
+                            <em>+</em>
+                            {{ cobrand.brand_html }}
+                            {% endif %}
                             <em>{{ name }}</em>
                         </div>
                       {% if not flaglanding %}
@@ -39,14 +43,14 @@ Home - Write the Docs {{ name }} {{ year }}
     <div class="hero-content uk-container">
       <div class="logo-container">
         <a class="hero-logo">
-          write<br/>
+          Write<br/>
           the<br/>
-          docs<br/>
-          <em>{{ shortcode }}</em>
+          Docs<br/>
           {% if cobrand is defined and cobrand %}
           <em>+</em>
-          <img style="height: 120px;" src="{{ pathto('_static/img/' + cobrand['logo'],  1) }}">
+          {{ cobrand.brand_html }}
           {% endif %}
+          <em>{{ name }}</em>
         </a>
       </div>
       <div class="hero-text">
@@ -93,16 +97,16 @@ Home - Write the Docs {{ name }} {{ year }}
     <div class="uk-container">
 
       <div class="about-content">
-        <h2>What is Write the Docs about?</h2>
+        <h2>What is Write the Docs?</h2>
         <p>Write the Docs brings everyone who writes the docs together in the same room: Programmers, Tech Writers, Support, Designers, Developer Advocates, and more. We all have things to learn from each other, and there’s no better way than sitting together and talking.</p>
         <p>We invite you to join {{ about.attendees }} other folks in our event to explore the art and science of documentation.</p>
 
-        {% if cobrand.logo %}
-        <h2>What is Open Help about?</h2>
+        {% if cobrand is defined %}
+        <h2>What is Open Help?</h2>
         <p>The Open Help Conference features two days of presentations and open discussions. In true open source spirit, our discussions and agenda are led by our attendees, allowing you to learn and share what matters to you most. With some of the most interesting people in the industry, the Open Help Conference showcases the ideas that are shaping the future of help.</p>
 
         <h2>What is this event?</h2>
-        <p>This event is a combination of the two communities and conferences. We will have a one day Write the Docs style talk track, followed by a combination day of discussions. Then we'll do an Open Help style 3-day sprint.</p>
+        <p>This event is a combination of the two communities and conferences. We will have a one day Write the Docs conference of talks, a crossover day of discussions, and an Open Help style 3-day sprint.</p>
         {% endif %}
 
       </div>

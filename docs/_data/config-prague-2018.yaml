@@ -10,8 +10,6 @@ area_adj: European
 tz: CEST
 email: prague@writethedocs.org
 
-cobrand: False
-
 tickets:
   community:
     price: €500
