@@ -26,21 +26,10 @@ tickets:
     price: $25
 
 sponsorship:
-  first_draft:
-    price: $250
   second_draft:
     price: $500
   publisher:
-    price: $1000
-  patron:
-    price: $2000
-  job_fair:
-    price: $500
-    half: $250
-  lanyard:
-    price: TBD
-  writing_day:
-    price: TBD
+    price: $1500
 
 date: # how do we handle these? human readable would be nice.
   main: "**August 18-22, 2018, in Cincinnati, Ohio**"
