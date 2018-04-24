@@ -10,6 +10,9 @@ area_adj: Australian
 tz: AEST
 email: australia@writethedocs.org
 
+photos:
+  default: _static/2018/assets/images/backgrounds/writing-day.png
+
 tickets:
   corporate:
     price: 100
