@@ -19,8 +19,6 @@ photos:
   default: _static/2018/assets/images/backgrounds/writing-day.png
 
 tickets:
-  community:
-    price: $250
   corporate:
     price: $100
   independent:
