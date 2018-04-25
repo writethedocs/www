@@ -20,11 +20,11 @@ photos:
 
 tickets:
   corporate:
-    price: $100
+    price: $140
   independent:
-    price: $50
+    price: $80
   student:
-    price: $25
+    price: $50
 
 sponsorship:
   second_draft:
