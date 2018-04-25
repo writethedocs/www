@@ -47,7 +47,7 @@ date: # how do we handle these? human readable would be nice.
     event: Discussions
     date: Aug 19
     summary: Talk with other documentarians to learn more about everything and anything.
-    icon: conference
+    icon: conversation
     dotw: Sunday
   day_three:
     event: Sprints
