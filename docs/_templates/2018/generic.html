@@ -40,10 +40,14 @@
                                     {% endif %}
                                     <em>{{ name }}</em>
                                 </div>
+                              {% if not flaglanding %}
                              {% include "2018/" + templatecode + "/menu-mobile.html" %}
+                             {% endif %}
                     </div>
                 </div>
+             {% if not flaglanding %}
              {% include "2018/" + templatecode + "/menu-desktop.html" %}
+             {% endif %}
             </div>
         </nav>
 

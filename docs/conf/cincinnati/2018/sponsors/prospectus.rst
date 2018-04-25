@@ -12,8 +12,6 @@ Sponsorship Prospectus
    :depth: 1
    :backlinks: none
 
-**New this year**: our `Job Fair`_.
-
 Concept
 =======
 

@@ -44,21 +44,19 @@ date: # how do we handle these? human readable would be nice.
     date: Aug 18
     summary: The primary conference day, with talks.
     icon: conference
+    dotw: Saturday
   day_two:
     event: Discussions
     date: Aug 19
     summary: Talk with other documentarians to learn more about everything and anything.
     icon: conference
+    dotw: Sunday
   day_three:
     event: Sprints
     date: Aug 20-22
     summary: Get some work done and learn by doing from the others in the room
     icon: writing
-  day_four:
-    event: Sprints
-    date: Aug 20-22
-    summary: Get some work done and learn by doing from the others in the room
-    icon: writing
+    dotw: Monday - Wednesday
 
 about:
   summary:
