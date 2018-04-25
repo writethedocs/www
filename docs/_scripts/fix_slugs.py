@@ -1,3 +1,9 @@
+from os.path import dirname, abspath
+import sys
+
+d = dirname(dirname(abspath(__file__)))
+sys.path.append(d)
+
 import yaml
 from _ext.core import slugify
 

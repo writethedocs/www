@@ -39,25 +39,25 @@
 - Duration: '60'
   Session: Lunch
   Time: '12:20'
-- Duration: '50'
+- Duration: '40'
   Session: Lightning Talks
   Time: '13:20'
 - Duration: '10'
   Session: Switch Speakers
-  Time: '14:10'
+  Time: '14:00'
 - Duration: '30'
   Session: "What Writing Dictionaries Taught Me About Writing Documentation (And What\
     \ I Had to Unlearn) \u2013 Erin McKean"
   Slug: erin-mckean
-  Time: '14:20'
+  Time: '14:10'
 - Duration: '10'
   Session: Switch Speakers
-  Time: '14:50'
+  Time: '14:40'
 - Duration: '30'
   Session: "Audience, Market, Product: Tips for strategic API documentation planning\
     \ \u2013 Bob Watson"
   Slug: bob-watson
-  Time: '15:00'
+  Time: '14:50'
 - Duration: '20'
   Session: Conference wraps with snacks
-  Time: '15:30'
+  Time: '15:20'

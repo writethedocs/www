@@ -90,9 +90,8 @@ The official Write the Docs social!
 This event is for **conference attendees only**, so please bring your badge to be let into the venue. 
 There will be light snacks and drinks available on the conference while our tab lasts.
 
-* **Where**: TBA
+* **Where**: Jack Knife, `614 SW 11th Ave <https://www.google.com/maps/place/Jackknife/@45.5205808,-122.6849434,17z/data=!3m1!4b1!4m5!3m4!1s0x54950a035f7576e3:0x1f37e53eb881856a!8m2!3d45.5205771!4d-122.6827547>`_
 * **When**: **7pm-10pm**
-* **Details**: TBA
 
 Tuesday, May 8
 --------------
@@ -112,7 +111,7 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: Lola's room (downstairs at the Crystal Ballroom)
-* **When**: **2:20-3:30pm**
+* **When**: **1:20-3:30pm**
 * **Details**: :doc:`/conf/portland/2018/unconference`
 
 Conference Talks
