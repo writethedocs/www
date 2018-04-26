@@ -62,4 +62,4 @@ Want to connect with other documentarians in real-time? Join our `Slack <http://
 Conclusion
 ----------
 
-We hope you will join us in Cincinnati for the first Write the Docs Cincinnati + Open Help conference. Be a part of the exciting first year of what we hope will become an annual event!
+We hope you will join us in Cincinnati for the first `Write the Docs Cincinnati + Open Help conference <http://www.writethedocs.org/conf/cincinnati/2018/>`_. Be a part of the exciting first year of what we hope will become an annual event!
