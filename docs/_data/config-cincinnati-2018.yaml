@@ -16,7 +16,7 @@ cobrand:
   logo: openhelp.svg
 
 photos:
-  default: _static/2018/assets/images/backgrounds/writing-day.png
+  default: _static/2018/assets/headers/union-hall.png
 
 tickets:
   corporate:
