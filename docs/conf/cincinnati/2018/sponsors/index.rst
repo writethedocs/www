@@ -15,6 +15,6 @@ Thanks to these folks for supporting the community.
 .. raw:: html
 
     {% macro sponsors() %}
-    {% include "include/2018/cincinnati-sponsors.html" %}
+    {% include "include/" + year|string + "/" + shortcode + "-sponsors.html" %}
     {% endmacro %}
     {{ sponsors()|indent(4) }}
