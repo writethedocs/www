@@ -45,9 +45,9 @@ As with all things on the web, there may be a few lingering bugs with the design
 Tickets
 -------
 
-Tickets will officially go on sale in **May 2018**.
+`Tickets <http://www.writethedocs.org/conf/cincinnati/2018/tickets/>`_ are **on sale now**!
 
-In the meantime, you can see our 2018 ticket prices on our `Tickets <http://www.writethedocs.org/conf/cincinnati/2018/tickets/>`_ page. As with our other conferences, we have tiered pricing to make it fair for everyone. Please buy the ticket that best fits your situation.
+As with our other conferences, we have tiered pricing to make it fair for everyone. Please buy the ticket that best fits your situation.
 
 We keep ticket prices low so that it is accessible to the widest range of people possible. However, if you can't afford these prices and still wish to attend, please email us at cincinnati@writethedocs.org, and we can see how we can help.
 
@@ -62,4 +62,4 @@ Want to connect with other documentarians in real-time? Join our `Slack <http://
 Conclusion
 ----------
 
-We hope you will join us in Cincinnati for the first Write the Docs Cincinnati + Open Help conference. Be a part of the exciting first year of what we hope will become an annual event!
+We hope you will join us in Cincinnati for the first `Write the Docs Cincinnati + Open Help conference <http://www.writethedocs.org/conf/cincinnati/2018/>`_. Be a part of the exciting first year of what we hope will become an annual event!
