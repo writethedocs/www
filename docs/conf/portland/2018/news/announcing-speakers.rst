@@ -23,7 +23,7 @@ Every year, we look to bring a wide range of voices to the Write the Docs stage.
 * Camille Acey – `Rewrite the Docs!: Field Notes from the Radical IT department <http://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-camille-acey>`_
 * Erin Grace – `Document Yourself: Practical Tips for a Low(er)-Stress Portfolio <http://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-erin-grace>`_
 * Erin McKean – `What Writing Dictionaries Taught Me About Writing Documentation (And What I Had to Unlearn) <http://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-erin-mckean>`_
-* Havi Hoffman – `Not the docs: Shepherding a developer blog of many voices across many timezones <http://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-havi-hoffman>`_
+* Havi Hoffman – `Not the Docs: content and voice on a developer blog <http://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-havi-hoffman>`_
 * Jen Lambourne – `Research like you’re wrong: Lessons from user research gone rogue <http://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-jen-lambourne>`_
 * Kat King – `Building Empathy-Driven Developer Documentation <http://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-kat-king>`_
 * Larry Ullman – `Making Your Code Examples Shine <http://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-larry-ullman>`_
