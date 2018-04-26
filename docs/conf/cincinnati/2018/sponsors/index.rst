@@ -15,31 +15,6 @@ Thanks to these folks for supporting the community.
 .. raw:: html
 
     {% macro sponsors() %}
-    {% include "include/2018/prague-sponsors.html" %}
-    {% endmacro %}
-    {{ sponsors()|indent(4) }}
-
-In Kind Sponsors
-----------------
-
-Write the Docs is also helped out by companies that give their employees time to work on the conference.
-
-.. raw:: html
-
-    {% macro sponsors() %}
-    {% include "include/2018/prague-sponsors-in-kind.html" %}
-    {% endmacro %}
-    {{ sponsors()|indent(4) }}
-
-
-Media Sponsors
---------------
-
-These amazing media professionals have teamed up with us to capture the Write the Docs experience.
-
-.. raw:: html
-
-    {% macro sponsors() %}
-    {% include "include/2018/prague-sponsors-media.html" %}
+    {% include "include/2018/cincinnati-sponsors.html" %}
     {% endmacro %}
     {{ sponsors()|indent(4) }}
