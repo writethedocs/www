@@ -1,7 +1,7 @@
 Visiting Cincinnati
 ===================
 
-Wondering where to stay and how to get around once you get into Cincinnati?
+Wondering where to stay and how to get around once you get into Cincinnati? We hope this mini-guide is helpful!
 
 The conference will be held at `Union Hall <http://unionhallcincy.com>`_ in the heart of Cincinnati's historic `Over-the-Rhine <https://en.wikipedia.org/wiki/Over-the-Rhine>`_ neighborhood.
 
@@ -18,13 +18,14 @@ Where to stay
 
 We are not working with any of the hotels for attendee accommodations, but there are many hotels available within walking distance of the venue:
 
+- `Holiday Inn and Suites Cincinnati Downtown <https://www.ihg.com/holidayinn/hotels/us/en/cincinnati/cvghs/hoteldetail>`_
+- `Millennium Cincinnati <https://www.millenniumhotels.com/en/cincinnati/millennium-hotel-cincinnati/>`_
+- `21c Museum Hotel <https://www.21cmuseumhotels.com/cincinnati/>`_
+- `Hilton Cincinnati Netherland Plaza <http://www3.hilton.com/en/hotels/ohio/hilton-cincinnati-netherland-plaza-CVGNPHF/index.html>`_
 - `Symphony Hotel <http://www.symphonyhotel.com>`_
 - `The Cincinnatian Hotel <http://www.cincinnatianhotel.com>`_
-- `21c Museum Hotel <https://www.21cmuseumhotels.com/cincinnati/>`_
-- `Millennium Cincinnati <https://www.millenniumhotels.com/en/cincinnati/millennium-hotel-cincinnati/>`_
-- `Hilton Cincinnati Netherland Plaza <http://www3.hilton.com/en/hotels/ohio/hilton-cincinnati-netherland-plaza-CVGNPHF/index.html>`_
 
-Check TripAdvisor to find other hotels and accommodations in the Cincinnati area.
+Check TripAdvisor to find other hotels and accommodations in the Cincinnati area. Hotels in Newport, Kentucky (just across the Ohio River) may be good options if they are near the `Southbank Shuttle <https://www.tankbus.org/routes/ss>`_ route, which will take you to Cincinnati.
 
 How to get around
 -----------------
@@ -36,6 +37,11 @@ Streetcars and Buses
 
 Cincinnati has a `streetcar <http://www.cincinnatibellconnector.com>`_ that makes a loop from `Findlay Market <http://findlaymarket.org>`_ (north of Over-the-Rhine) to the `Great American Ball Park <https://www.mlb.com/reds/ballpark>`_ (downtown, on the Ohio River). You can also use Cincinnati's `bus network <http://www.go-metro.com/index.php>`_, which also connects to routes in northern Kentucky, just across the Ohio River.
 
+The closest stops to the conference venue (Union Hall) are:
+
+- 12th and Vine (if you're coming from downtown)
+- Washington Park (if coming from the north)
+
 Taxi Companies
 ~~~~~~~~~~~~~~
 
@@ -43,9 +49,10 @@ Cincinnati has both Lyft and Uber. If you prefer local taxi companies, here is a
 
 Please note that it is *not* common to hail taxis in Cincinnati. Your best bet is to call in advance.
 
-Driving to Union Hall
-~~~~~~~~~~~~~~~~~~~~~
-If you drive to the conference, parking in downtown Cincinnati is plentiful and inexpensive on the weekends. Use the `Over-the-Rhine Chamber of Commerce <http://otrchamber.com/pages/WheretoPark>`_ or `3CDC Parking <https://www.3cdc.org/where-to-park/>`_ sites to find parking facilities.
+Driving to Union Hall and Parking
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If you drive to the conference, parking in downtown Cincinnati is plentiful and inexpensive on the weekends. Use the `Over-the-Rhine Chamber of Commerce <http://otrchamber.com/pages/WheretoPark>`_ or `3CDC Parking <https://www.3cdc.org/where-to-park/>`_ sites to find parking facilities. The `Mercer Garage <https://www.google.com/maps/place/Mercer+Garage/@39.1101775,-84.5145948,15z/data=!4m2!3m1!1s0x0:0x1d29ea14b2b6e3d3?sa=X&ved=0ahUKEwie5fHAwtjaAhWF7IMKHSC-BWYQ_BIIngEwCg>`_ is nearest to the venue: it's located directly across Vine Street.
 
 Bike Rentals
 ~~~~~~~~~~~~
