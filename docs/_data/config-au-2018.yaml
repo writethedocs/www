@@ -36,10 +36,10 @@ date: # how do we handle these? human readable would be nice.
     summary: The primary conference day, with talks.
     icon: conference
   day_two:
-    event: Discussions
+    event: Talks & Workshops
     date: Nov 16
-    summary: Talk with other documentarians to learn more about everything and anything.
-    icon: conference
+    summary: Another day of talks, but with an included workshop and discussion time as well.
+    icon: conversation
 
 about:
   summary:
