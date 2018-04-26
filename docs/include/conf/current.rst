@@ -4,7 +4,7 @@
 - :doc:`Write the Docs Portland </conf/portland/2018/index>`, May 6-8, **Portland, Oregon**
 - :doc:`Write the Docs + Open Help Cincinnati </conf/cincinnati/2018/index>`, August 18-22, **Cincinnati, Ohio**
 - :doc:`Write the Docs Prague </conf/prague/2018/index>`, September 9-11, **Prague, Czech Republic**
-- :doc: `Write the Docs Australia </conf/australia/2018/index>`, November 15-16, **Melbourne, Australia**
+- :doc:`Write the Docs Australia </conf/australia/2018/index>`, November 15-16, **Melbourne, Australia**
 
 2018 One-Day Events
 ~~~~~~~~~~~~~~~~~~~
