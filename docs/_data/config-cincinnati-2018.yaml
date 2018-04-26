@@ -8,7 +8,7 @@ area: North America # European Australian
 area_adj: North American
 
 tz: EST
-email: support@writethedocs.org
+email: cincinnati@writethedocs.org
 
 cobrand:
   brand: Open Help
@@ -40,7 +40,7 @@ date: # how do we handle these? human readable would be nice.
   day_one:
     event: Talks
     date: Aug 18
-    summary: Talks on all things documentation. We’ll have a variety of speakers on the stage sharing their experience and knowledge.
+    summary: Talks on all things documentation. We’ll have a variety of speakers on the stage sharing their experience and knowledge. <a href="/conf/cincinnati/2018/cfp/">Submit a talk today!</a>.
     icon: conference
     dotw: Saturday
   day_two:
@@ -52,7 +52,7 @@ date: # how do we handle these? human readable would be nice.
   day_three:
     event: Sprints
     date: Aug 20-22
-    summary: Documentation sprints and writing days. Get together with other documentarians to work on your docs and learn some new skills. Don't have a team to bring to the sprints? Join us anyway--get involved with an open source project and learn from the people who are pioneering documentation sprints.
+    summary: <a href="/conf/cincinnati/2018/sprints/">Documentation sprints</a> and writing days. Get together with other documentarians to work on your docs and learn some new skills. Don't have a team to bring to the sprints? Join us anyway--get involved with an open source project and learn from the people who are pioneering documentation sprints.
     icon: writing
     dotw: Monday - Wednesday
 
