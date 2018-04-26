@@ -9,4 +9,4 @@
 2018 One-Day Events
 ~~~~~~~~~~~~~~~~~~~
 
-- `Building a Career in Documentation: All-Day Event, in partnership with GDS <https://www.meetup.com/Write-The-Docs-London/events/248304896/>`__
+- `Building a Career in Documentation: All-Day Event, in partnership with GDS <https://www.meetup.com/Write-The-Docs-London/events/248304896/>`__, June 5, **London, UK**
