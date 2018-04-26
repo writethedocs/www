@@ -40,28 +40,29 @@ date: # how do we handle these? human readable would be nice.
   day_one:
     event: Talks
     date: Aug 18
-    summary: The primary conference day, with talks.
+    summary: Talks on all things documentation. We’ll have a variety of speakers on the stage sharing their experience and knowledge.
     icon: conference
     dotw: Saturday
   day_two:
     event: Discussions
     date: Aug 19
-    summary: Talk with other documentarians to learn more about everything and anything.
+    summary: <a href="/conf/cincinnati/2018/unconference/">Unconference</a> discussion and open space. Share ideas and discuss problems with others from the documentation community. Anyone can suggest and lead a session on any topic.
     icon: conversation
     dotw: Sunday
   day_three:
     event: Sprints
     date: Aug 20-22
-    summary: Get some work done and learn by doing from the others in the room
+    summary: Documentation sprints and writing days. Get together with other documentarians to work on your docs and learn some new skills. Don't have a team to bring to the sprints? Join us anyway--get involved with an open source project and learn from the people who are pioneering documentation sprints.
     icon: writing
     dotw: Monday - Wednesday
 
 about:
   summary:
     "The main presentation track takes place on August 18 from 9:00 to 5:00**.
-    During the main event we also run an :doc:`/conf/cincinnati/2018/unconference`.
+    Sunday will be an :doc:`/conf/cincinnati/2018/unconference`.
+    Monday-Wednesday will be Sprints.
 
-    You can find out more information about the venue and its accessibility on our :doc:`/conf/prague/2018/venue` page."
+    You can find out more information about the venue and its accessibility on our :doc:`/conf/cincinnati/2018/venue` page."
   venue:
     Union Hall
   attendees: 100
