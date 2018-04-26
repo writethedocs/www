@@ -1,0 +1,38 @@
+                <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+                  <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '') }}">Home</a></li>
+                  <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/news') }}">News</a></li>
+                  <li class="uk-parent">
+                      <a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/schedule') }}">Program</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/schedule') }}">Schedule</a></li>
+                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/speakers') }}">Talks</a></li>
+                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/unconference') }}">Unconference</a></li>
+                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/sprints') }}">Sprints</a></li>
+                      </ul>
+                  </li>
+                  <li class="uk-parent">
+                      <a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/visiting') }}">Visit</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/venue') }}">Venue</a></li>
+                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/visiting') }}">{{ name }}</a></li>
+                      </ul>
+                  </li>
+                  <li class="uk-parent">
+                      <a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/about') }}">About</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/team') }}">Meet the Team</a></li>
+                          <li><a href="{{ pathto('conf') }}">Past Events</a></li>
+                          <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
+                      </ul>
+                  </li>
+                  <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/tickets') }}">Tickets</a></li>
+                  <li class="uk-parent">
+                      <a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/sponsors') }}">Sponsors</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/prospectus') }}">Prospectus</a></li>
+                      </ul>
+                  </li>
+                  {% if flagcfp %}
+                  <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
+                  {% endif %}
+            </ul>
