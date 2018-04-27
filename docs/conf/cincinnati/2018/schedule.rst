@@ -17,7 +17,9 @@ Each year we organize a wide range of events so that people can come together, c
 {{ date.day_one.event }}
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-{{ date.day_one.summary }}
+.. raw:: html
+
+    {{ date.day_one.summary }}
 
 {% if date.day_two is defined %}
 
@@ -27,7 +29,9 @@ Each year we organize a wide range of events so that people can come together, c
 {{ date.day_two.event }}
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-{{ date.day_two.summary }}
+.. raw:: html
+
+    {{ date.day_two.summary }}
 
 {% endif %}
 
@@ -39,7 +43,9 @@ Each year we organize a wide range of events so that people can come together, c
 {{ date.day_three.event }}
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-{{ date.day_three.summary }}
+.. raw:: html
+
+    {{ date.day_three.summary }}
 
 {% endif %}
 
@@ -49,6 +55,8 @@ Each year we organize a wide range of events so that people can come together, c
 {{date.day_four.dotw}}, {{date.day_four.date}}
 --------------------------------------------------
 
-{{ date.day_four.summary }}
+.. raw:: html
+
+    {{ date.day_four.summary }}
 
 {% endif %}
