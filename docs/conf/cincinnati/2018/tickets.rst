@@ -31,7 +31,7 @@ If you are a larger company or organization, please contact us at sponsorship@wr
 
 {% if flagticketsonsale %}
 
-* `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+* `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-{{titocode}}-{{year}}>`__
 
 {% endif %}
 
@@ -46,7 +46,7 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 
 {% if flagticketsonsale %}
 
-* `Buy Corporate Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+* `Buy Corporate Ticket <https://ti.to/writethedocs/write-the-docs-{{titocode}}-{{year}}>`__
 
 {% endif %}
 
@@ -59,7 +59,7 @@ Purchase this ticket if you are paying for yourself, or if you work at a non-pro
 
 {% if flagticketsonsale %}
 
-* `Buy Independent Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+* `Buy Independent Ticket <https://ti.to/writethedocs/write-the-docs-{{titocode}}-{{year}}>`__
 
 {% endif %}
 
@@ -72,7 +72,7 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 
 {% if flagticketsonsale %}
 
-* `Buy Student or Unemployed Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+* `Buy Student or Unemployed Ticket <https://ti.to/writethedocs/write-the-docs-{{titocode}}-{{year}}>`__
 
 {% endif %}
 .. class:: ticket

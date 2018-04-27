@@ -1,6 +1,7 @@
 name: Cincinnati
 shortcode: cincinnati # prague australia?
 templatecode: cin # HACK
+titocode: cincinnati-openhelp # We used a different code on Tito
 year: 2018
 city: Cincinnati
 local_area: Ohio

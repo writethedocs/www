@@ -99,5 +99,5 @@ Payment
 We expect all invoices to be paid **within 21 days of invoice receipt**, as many
 of our expenses must be paid up front.
 
-.. _ticket: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
-.. _tickets: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
+.. _ticket: https://ti.to/writethedocs/write-the-docs-{{titocode}}-{{year}}/
+.. _tickets: https://ti.to/writethedocs/write-the-docs-{{titocode}}-{{year}}/
