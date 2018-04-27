@@ -95,7 +95,7 @@ Please direct all inquiries to our sponsorship team at:
 Payment
 =======
 
-We expect all invoices to be paid **within 21 days of invoice receipt**, as many
+We expect all invoices to be paid **within 30 days of invoice receipt**, as many
 of our expenses must be paid up front.
 
 .. _ticket: https://ti.to/writethedocs/write-the-docs-{{titocode}}-{{year}}/
