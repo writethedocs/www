@@ -69,7 +69,6 @@ The **Second Draft** package is great for companies looking to hire or promote a
 - Small logo & link on the conference website
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- One featured job posting in our Newsletter (2,500 subscribers)
 
 The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
 
