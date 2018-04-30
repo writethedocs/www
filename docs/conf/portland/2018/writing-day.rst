@@ -75,3 +75,8 @@ tagged as `writingday` that includes things like:
 - improve the meetup pages
 - make a better video archive
 - add list of conference write ups for past conferences
+
+Your project here
+-----------------
+
+Send us a pull request or an email talking about what you want to work on!
