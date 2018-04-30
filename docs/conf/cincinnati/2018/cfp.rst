@@ -5,7 +5,8 @@ Call for Proposals
 
 Hello hello, fellow documentarians!
 
-It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{ area_adj }} conference, coming up on {{date.main}}.
+It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{ area_adj }} conference, coming up on {{date.main}}. The conference talk portion of the event will be **August 18**,
+so this is the date you would need to be in attendance. 
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you’ve worked on documentation for decades or you’ve just started this year, we want to hear from
 you! Read on to learn more about the goals of the conference and what we look for in talk proposals.
