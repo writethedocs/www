@@ -108,7 +108,7 @@ Help us improve our processes
 
 Feel free to go through the full list of GitHub issues labeled `wtd-writing-day <https://github.com/cockroachdb/docs/labels/wtd-writing-day>`_ and claim the ones you want to work on.
 
-And of course, we (`@jseldess` and `@amruta` on the Write The Docs Slack channel) will be available throughout the day to help out. Also feel free to reach out to us if you have questions or suggestions in the interim. See you on Writing Day!
+And of course, we (`@jseldess` and `@amruta` on the Write the Docs Slack channel) will be available throughout the day to help out. Also feel free to reach out to us if you have questions or suggestions in the interim. See you on Writing Day!
 
 
 Your project here
