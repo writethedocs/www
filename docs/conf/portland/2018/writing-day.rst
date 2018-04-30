@@ -90,9 +90,12 @@ Following are a few ways you can contribute to the CockroachDB docs:
 
 Improve our current docs
 ^^^^^^^^^^^^^^^^^^^^^^^^
-If you love fiddling around with a new product, you can user-test our `Getting Started docs <https://github.com/cockroachdb/docs/issues/3028>`_  or `Production docs <https://github.com/cockroachdb/docs/issues/3027>`_ and give us feedback about clarity, correctness, and ease-of-use.
 
-You can also improve documented features by `adding <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aincorrect-info>`_ or `correcting <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aincorrect-info>`_ details. 
+If you love fiddling around with a new product, you can: 
+
+- User-test our `Getting Started docs <https://github.com/cockroachdb/docs/issues/3028>`_ or `Production docs <https://github.com/cockroachdb/docs/issues/3027>`_ and give us feedback about clarity, correctness, and ease-of-use
+- Improve existing docs by `adding missing details <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aincorrect-info>`_ or `correcting errors <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aincorrect-info>`_
+- Make our code samples more user-friendly by `adding copy-to-clipboard functionality <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aenhancement>`_
 
 Fill gaps in our docs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
