@@ -22,6 +22,7 @@ Projects
 --------
 
   + :ref:`writewrite2018portland`
+  + :ref:`cockroachdbdocs`
   + anything else you fancy
 
 .. _writewrite2018portland:
@@ -75,6 +76,40 @@ tagged as `writingday` that includes things like:
 - improve the meetup pages
 - make a better video archive
 - add list of conference write ups for past conferences
+
+.. _cockroachdbdocs:
+
+Write CockroachDB Docs on Writing Day
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`CockroachDB <https://www.cockroachlabs.com>`_ is a distributed SQL database built on a transactional and strongly-consistent key-value store. Here’s a quick overview video:
+
+https://www.youtube.com/watch?v=VgXiMcbGwzQ
+
+Following are a few ways you can contribute to the CockroachDB docs:
+
+Improve our current docs
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+If you love fiddling around with a new product, you can: 
+
+- User-test our `Getting Started docs <https://github.com/cockroachdb/docs/issues/3028>`_ or `Production docs <https://github.com/cockroachdb/docs/issues/3027>`_ and give us feedback about clarity, correctness, and ease-of-use
+- Improve existing docs by `adding missing details <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aincorrect-info>`_ or `correcting errors <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aincorrect-info>`_
+- Make our code samples more user-friendly by `adding copy-to-clipboard functionality <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aenhancement>`_
+
+Fill gaps in our docs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+If you’d like to dig in deeper, we’re missing docs on a handful of important features. `You can help us fill these gaps! <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aproduct>`__ 
+
+Help us improve our processes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- `Test and provide feedback on our Docs contribution process <https://github.com/cockroachdb/docs/issues/3029>`_
+- `Share best practices for using tables in Markdown <https://github.com/cockroachdb/docs/issues/3030>`_
+
+Feel free to go through the full list of GitHub issues labeled `wtd-writing-day <https://github.com/cockroachdb/docs/labels/wtd-writing-day>`_ and claim the ones you want to work on.
+
+And of course, we (`@jseldess` and `@amruta` on the Write the Docs Slack channel) will be available throughout the day to help out. Also feel free to reach out to us if you have questions or suggestions in the interim. See you on Writing Day!
+
 
 Your project here
 -----------------
