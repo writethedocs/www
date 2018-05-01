@@ -1,0 +1,76 @@
+:template: {{year}}/generic.html
+
+.. post:: May 5, 2018
+   :tags: portland-2018, practical info
+
+Welcome to Write the Docs Portland 2018!
+========================================
+
+Yet another edition of Write the Docs is here! We're excited to see you all soon.
+
+Here is the practical information that you're gonna need to navigate the event and activities.
+
+Be Prepared
+-----------
+
+* **Read the Welcome Wagon Guide.** Our `Welcome Wagon Guide <http://www.writethedocs.org/conf/portland/2018/welcome-wagon/>`_ is packed full of information on how to get the most out of the conference.
+* **Review the Code of Conduct.** We have a wonderful community full of diverse and amazing people. We expect everyone to behave in a respectful manner at all conference events and online channels. Our `Code of Conduct <http://www.writethedocs.org/code-of-conduct/>`_ boils down to "Be excellent to each other", but the `full text <http://www.writethedocs.org/code-of-conduct>`_ is also available. Our cellphone numbers and email addresses are on that page if you ever need to contact us.
+* **Review the schedule.** The `Schedule page <http://www.writethedocs.org/conf/portland/2018/schedule/>`_ has the latest and most complete information about the presentation. This is where we will also update any changes/cancellations if they should occur.
+
+Get Involved
+------------
+
+* **Plan a project for Writing Day.** The `Writing Day <http://www.writethedocs.org/conf/portland/2018/writing-day/>`_ will be held on Sunday from *9am-6pm*, and you can drop in at any time during the day. If you have a project you want to propose to others, you can pitch your topic during the welcome announcement that will be held at *9:30am*. Check out the `Writing Day <http://www.writethedocs.org/conf/portland/2018/writing-day/>`_ page for a few suggested projects!
+* **Plan a lightning talk.** We'll have `lightning talks <http://www.writethedocs.org/conf/portland/2018/lightning-talks/>`_ each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want. This is your chance to share something you are passionate about with the audience. Slides are not required.
+* **Job Fair**. New this year, on Tuesday morning we'll have a `job fair <http://www.writethedocs.org/conf/portland/2018/job-fair>`_ where you can find your next documentarian friendly job.
+* **Plan a discussion.** We'll be running the `Unconference <http://www.writethedocs.org/conf/portland/2018/unconference/>`_ all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a very specific thing? This is the place. We'll have a sign-up board so you know what's happening, and supplies to help you brainstorm.
+* **Coffee, breakfast, and lunch are provided on all three days!** Don't worry about coffee before you come to the conference on Sunday, Monday, or Tuesday. Coffee and breakfast are served at 8:15, and the conference starts at 9. As a part of our ongoing effort to make every aspect of the event friendly and inclusive (that includes the food too!), the full catering menu with allergen indications will be available on our `Venue page <http://www.writethedocs.org/conf/portland/2018/venue/#dietary-requirements>`_.
+
+Find Your Way Around
+--------------------
+
+* **Riding the trains.** Be aware that TriMet, Portland's public transit system, will be working on the light rail lines. This means that you can't easily get from the Airport to downtown without a transfer. Public transit is generally excellent in Portland, but trains might be crowded, and schedules will be limited. For more information, see our `visiting page <http://www.writethedocs.org/conf/portland/2018/visiting/#the-max>`_ and the `TriMet website <https://trimet.org/alerts/morrisonyamhill/>`_.
+* **Riding a bike.** Portland has a `bike share program <https://www.biketownpdx.com/>`_.
+
+Have Fun
+--------
+
+* **Pre-register at the welcome reception.** The meet-and-greet event will be held on Sunday from *6pm-9pm*. You can pick up your badge and enjoy a couple of drinks on us. This is a great chance to meet your fellow documentarians before the conference starts.
+* **Come to the party on Monday night.** This is a private party just for conference attendees. Plan to attend so you can get to know folks in the community. Once again we'll be at `Jackknife <https://goo.gl/maps/hvYkv6RU4qD2>`_ at 614 SW 11th Ave, on *Monday evening from 7pm*, with a bunch of free food and drinks.
+* **Unwind after the conference with New Relic.** The after-conference social is sponsored by our friends at New Relic, and will be at `New Relic <https://www.meetup.com/Write-The-Docs-PDX/events/239146623/>`__ at 111 SW 5th Ave, #2700, 27th floor, on *Tuesday evening from 6:30pm*. Drinks and light snacks will be provided. It will be done in conjunction with the Portland meetup, and open to the public.
+* **Walking a trail**. If you're planning to join us for the `hike <http://www.writethedocs.org/conf/portland/2018/hike/>`_ on Saturday at *1:45pm*, make sure that you reserved a spot in advance, since the hike is full. It looks like it will probably rain a little, so make sure you have a rain jacket!
+
+Share the Love
+--------------
+
+* **Slack with your fellow documentarians.** Feel free to use our `Slack <https://slack.writethedocs.org/>`_ to coordinate dinners, ask questions, or share notes with fellow conference attendees.
+* **Use the hash tag #writethedocs.** Twitter is a great way to communicate at events. If you arrive into Portland early and want to find others, use the hash tag `#writethedocs <https://twitter.com/search?q=%23writethedocs&src=tyah>`_ . We can point you to something good.
+
+Thanks again to Our Sponsors
+----------------------------
+
+Once again, we're grateful to the companies and organizations that `sponsor <http://www.writethedocs.org/conf/portland/2018/sponsor/>`_ our events, some of them year after year:
+
+*`Oracle <https://cloud.oracle.com/iaas>`_
+*`Google <https://www.google.com/>`_
+*`Miscrosoft <https://developer.microsoft.com/en-us/advocates/index.html>`_
+*`Mozilla <https://developer.mozilla.org/en-US/>`_
+*`Redhat <https://www.redhat.com/en>`_
+*`New Relic <https://newrelic.com/>`_
+*`Twilio <https://www.twilio.com/>`_
+*`Kayako <https://www.kayako.com/>`_
+*`Travis CI <https://www.travis-ci.com/>`_
+*`Cisco <https://www.cisco.com/>`_
+*`Netlify <https://www.netlify.com>`_
+*`Braintree <https://www.braintreepayments.com/>`_
+*`CNCF <https://www.cncf.io/>`_
+*`Elastic <https://www.elastic.co/>`_
+*`Document 360 <https://document360.io/>`_
+*`Next Capital <https://nextcapital.com/>`_
+*`Dropbox <https://www.dropbox.com>`_
+*`Stoplight <http://stoplight.io/>`_
+*`Stickermule <https://www.stickermule.com/supports/opensource>`_
+
+We're happy to welcome you all to Portland!
+
+| The Write the Docs team
