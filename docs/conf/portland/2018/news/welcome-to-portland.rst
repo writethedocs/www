@@ -50,25 +50,25 @@ Thanks again to Our Sponsors
 
 Once again, we're grateful to the companies and organizations that `sponsor <http://www.writethedocs.org/conf/portland/2018/sponsor/>`_ our events, some of them year after year:
 
-*`Oracle <https://cloud.oracle.com/iaas>`_
-*`Google <https://www.google.com/>`_
-*`Miscrosoft <https://developer.microsoft.com/en-us/advocates/index.html>`_
-*`Mozilla <https://developer.mozilla.org/en-US/>`_
-*`Redhat <https://www.redhat.com/en>`_
-*`New Relic <https://newrelic.com/>`_
-*`Twilio <https://www.twilio.com/>`_
-*`Kayako <https://www.kayako.com/>`_
-*`Travis CI <https://www.travis-ci.com/>`_
-*`Cisco <https://www.cisco.com/>`_
-*`Netlify <https://www.netlify.com>`_
-*`Braintree <https://www.braintreepayments.com/>`_
-*`CNCF <https://www.cncf.io/>`_
-*`Elastic <https://www.elastic.co/>`_
-*`Document 360 <https://document360.io/>`_
-*`Next Capital <https://nextcapital.com/>`_
-*`Dropbox <https://www.dropbox.com>`_
-*`Stoplight <http://stoplight.io/>`_
-*`Stickermule <https://www.stickermule.com/supports/opensource>`_
+* `Oracle <https://cloud.oracle.com/iaas>`_
+* `Google <https://www.google.com/>`_
+* `Miscrosoft <https://developer.microsoft.com/en-us/advocates/index.html>`_
+* `Mozilla <https://developer.mozilla.org/en-US/>`_
+* `Redhat <https://www.redhat.com/en>`_
+* `New Relic <https://newrelic.com/>`_
+* `Twilio <https://www.twilio.com/>`_
+* `Kayako <https://www.kayako.com/>`_
+* `Travis CI <https://www.travis-ci.com/>`_
+* `Cisco <https://www.cisco.com/>`_
+* `Netlify <https://www.netlify.com>`_
+* `Braintree <https://www.braintreepayments.com/>`_
+* `CNCF <https://www.cncf.io/>`_
+* `Elastic <https://www.elastic.co/>`_
+* `Document 360 <https://document360.io/>`_
+* `Next Capital <https://nextcapital.com/>`_
+* `Dropbox <https://www.dropbox.com>`_
+* `Stoplight <http://stoplight.io/>`_
+* `Stickermule <https://www.stickermule.com/supports/opensource>`_
 
 We're happy to welcome you all to Portland!
 
