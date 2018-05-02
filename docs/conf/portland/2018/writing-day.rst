@@ -22,6 +22,7 @@ Projects
 --------
 
   + :ref:`writewrite2018portland`
+  + :ref:`kubernetes2018portland`
   + anything else you fancy
 
 .. _writewrite2018portland:
@@ -76,7 +77,21 @@ tagged as `writingday` that includes things like:
 - make a better video archive
 - add list of conference write ups for past conferences
 
+.. _kubernetes2018portland:
+
+Kubernetes Documentation
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+If you’re looking to contribute to open source documentation on GitHub, consider helping improve the Kubernetes docs. Issues and projects this year include improving the user journeys that provide the landing page for the docs, helping develop a custom Kubernetes dictionary for common spellcheckers, and more.
+
+Kubernetes is an open source system that manages containerized applications across different infrastructures. No previous product experience is needed to help with the docs. Docs are published at `kubernetes.io <https://kubernetes.io/docs/home/>`_ and they're pulled directly from `Github
+<https://github.com/kubernetes/website>`_. So you’ll need a GitHub account, and some familiarity with Markdown. You can also take a look at our contributor guidelines, and if you haven’t contributed before, it’ll save time if you sign the contributor license agreement before you arrive at Writing Day.
+
+`Detailed information, including how to sign the CLA <https://docs.google.com/document/d/1-mlmb9yHgdLsTqR8t52MegAWlUgXsZeko247hUMJaVU/edit?usp=sharing>`_ 
+
+And if you have questions before Writing Day, feel free to ask in the #kubernetes channel in the Write the Docs Slack.   
+
 Your project here
------------------
+~~~~~~~~~~~~~~~~~
 
 Send us a pull request or an email talking about what you want to work on!
