@@ -11,7 +11,7 @@ tz: PST
 email: portland@writethedocs.org
 
 photos:
-  default: _static/2018/assets/images/headers/group.jpg
+  default: _static/2018/assets/headers/group.jpg
 
 tickets:
   community:
