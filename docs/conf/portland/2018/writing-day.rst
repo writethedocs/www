@@ -19,6 +19,8 @@ Projects
 .. contents::
    :local:
    :depth: 1
+   :backlinks: none
+
 
 Kubernetes Documentation
 ~~~~~~~~~~~~~~~~~~~~~~~~
