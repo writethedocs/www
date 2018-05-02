@@ -7,9 +7,9 @@
 Welcome to Write the Docs Portland 2018!
 ========================================
 
-Yet another edition of Write the Docs is here! We're excited to see you all soon.
+Yet another edition of Write the Docs is very nearly upon us! We're excited to see you all soon.
 
-Here is the practical information that you're gonna need to navigate the event and activities.
+Below you'll find all the practical information that you'll need to plan for and navigate the event and activities.
 
 Be Prepared
 -----------
@@ -36,7 +36,7 @@ Find Your Way Around
 Have Fun
 --------
 
-* **Walking a trail**. If you're planning to join us for the `hike <http://www.writethedocs.org/conf/portland/2018/hike/>`_ on Saturday at *1:45pm*, make sure you `reserve your spot <https://ti.to/writethedocs/write-the-docs-portland-2018/>`_ . We're hoping for less hail than last year, but bringing a rain jacket would be wise.
+* **Join us for a walk in the woods**. If you're planning to come out for the `hike <http://www.writethedocs.org/conf/portland/2018/hike/>`_ on Saturday at *1:45pm*, make sure you `reserve your spot <https://ti.to/writethedocs/write-the-docs-portland-2018/>`_ . We're hoping for less hail than last year, but bringing a rain jacket would be wise.
 * **Pre-register at the welcome reception.** The meet-and-greet event will be held on Sunday from *6pm-9pm*. You can pick up your badge and enjoy a couple of drinks on us. This is a great chance to meet your fellow documentarians before the conference starts.
 * **Come to the party on Monday night.** This is a private party just for conference attendees. Plan to attend so you can get to know folks in the community. Once again we'll be at `Jackknife <https://goo.gl/maps/hvYkv6RU4qD2>`_ at 614 SW 11th Ave, on *Monday evening from 7pm*, with a bunch of free food and drinks.
 
@@ -46,7 +46,7 @@ Share the Love
 * **Slack with your fellow documentarians.** Feel free to use our `Slack <https://slack.writethedocs.org/>`_ to coordinate dinners, ask questions, or share notes with fellow conference attendees.
 * **Use the hash tag #writethedocs.** Twitter is a great way to communicate at events. If you arrive into Portland early and want to find others, use the hash tag `#writethedocs <https://twitter.com/search?q=%23writethedocs&src=tyah>`_ . We can point you to something good.
 
-Thanks again to Our Sponsors
+Thanks Again to Our Sponsors
 ----------------------------
 
 Once again, we're grateful to the companies and organizations that `sponsor <http://www.writethedocs.org/conf/portland/2018/sponsor/>`_ our events, some of them year after year:
@@ -71,6 +71,6 @@ Once again, we're grateful to the companies and organizations that `sponsor <htt
 * `Stoplight <http://stoplight.io/>`_
 * `Stickermule <https://www.stickermule.com/supports/opensource>`_
 
-We're happy to welcome you all to Portland!
+We're so excited to welcome you all to Portland in just a few days – see you there!
 
 | The Write the Docs team
