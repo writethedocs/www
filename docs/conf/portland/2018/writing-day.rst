@@ -92,6 +92,6 @@ Kubernetes is an open source system that manages containerized applications acro
 And if you have questions before Writing Day, feel free to ask in the #kubernetes channel in the Write the Docs Slack.   
 
 Your project here
-~~~~~~~~~~~~~~~~~
+-----------------
 
 Send us a pull request or an email talking about what you want to work on!
