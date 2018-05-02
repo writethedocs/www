@@ -37,7 +37,7 @@ Have Fun
 
 * **Pre-register at the welcome reception.** The meet-and-greet event will be held on Sunday from *6pm-9pm*. You can pick up your badge and enjoy a couple of drinks on us. This is a great chance to meet your fellow documentarians before the conference starts.
 * **Come to the party on Monday night.** This is a private party just for conference attendees. Plan to attend so you can get to know folks in the community. Once again we'll be at `Jackknife <https://goo.gl/maps/hvYkv6RU4qD2>`_ at 614 SW 11th Ave, on *Monday evening from 7pm*, with a bunch of free food and drinks.
-* **Walking a trail**. If you're planning to join us for the `hike <http://www.writethedocs.org/conf/portland/2018/hike/>`_ on Saturday at *1:45pm*, make sure that you reserved a spot in advance, since the hike is full. It looks like it will probably rain a little, so make sure you have a rain jacket!
+* **Walking a trail**. If you're planning to join us for the `hike <http://www.writethedocs.org/conf/portland/2018/hike/>`_ on Saturday at *1:45pm*, make sure you `reserve your spot <https://ti.to/writethedocs/write-the-docs-portland-2018/>`_ . We're hoping for less hail than last year, but bringing a rain jacket would be wise.
 
 Share the Love
 --------------
