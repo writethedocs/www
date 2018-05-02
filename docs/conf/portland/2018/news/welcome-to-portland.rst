@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: May 5, 2018
+.. post:: May 1, 2018
    :tags: practical info, portland-2018
 
 Welcome to Write the Docs Portland 2018!
