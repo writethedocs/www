@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 :banner: _static/{{year}}/assets/headers/venue.png
 
-.. post:: May 1, 2018
+.. post:: May 2, 2018
    :tags: practical info, portland-2018
 
 Welcome to Write the Docs Portland 2018!
@@ -14,31 +14,31 @@ Here is the practical information that you're gonna need to navigate the event a
 Be Prepared
 -----------
 
-* **Read the Welcome Wagon Guide.** Our `Welcome Wagon Guide <http://www.writethedocs.org/conf/portland/2018/welcome-wagon/>`_ is packed full of information on how to get the most out of the conference.
-* **Review the Code of Conduct.** We have a wonderful community full of diverse and amazing people. We expect everyone to behave in a respectful manner at all conference events and online channels. Our `Code of Conduct <http://www.writethedocs.org/code-of-conduct/>`_ boils down to "Be excellent to each other", but the `full text <http://www.writethedocs.org/code-of-conduct>`_ is also available. Our cellphone numbers and email addresses are on that page if you ever need to contact us.
+* **Read the Welcome Wagon Guide.** Our `Welcome Wagon Guide <http://www.writethedocs.org/conf/portland/2018/welcome-wagon/>`_ is packed full of information on how to get the most out of the conference. There will also be a couple events that will help you learn more about the conference.
 * **Review the schedule.** The `Schedule page <http://www.writethedocs.org/conf/portland/2018/schedule/>`_ has the latest and most complete information about the presentation. This is where we will also update any changes/cancellations if they should occur.
+* **Review the Code of Conduct.** We have a wonderful community full of diverse and amazing people. We expect everyone to behave in a respectful manner at all conference events and online channels. Our `Code of Conduct <http://www.writethedocs.org/code-of-conduct/>`_ boils down to "Be excellent to each other", but the `full text <http://www.writethedocs.org/code-of-conduct>`_ is also available. Our cellphone numbers and email addresses are on that page if you ever need to contact us.
 
 Get Involved
 ------------
 
 * **Plan a project for Writing Day.** The `Writing Day <http://www.writethedocs.org/conf/portland/2018/writing-day/>`_ will be held on Sunday from *9am-6pm*, and you can drop in at any time during the day. If you have a project you want to propose to others, you can pitch your topic during the welcome announcement that will be held at *9:30am*. Check out the `Writing Day <http://www.writethedocs.org/conf/portland/2018/writing-day/>`_ page for a few suggested projects and the `blog post <http://www.writethedocs.org/conf/portland/2018/news/writing-day/>`_ for more info on how to get your project listed!
 * **Plan a lightning talk.** We'll have `lightning talks <http://www.writethedocs.org/conf/portland/2018/lightning-talks/>`_ each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want. This is your chance to share something you are passionate about with the audience. Slides are not required.
-* **Job Fair**. New this year, on Tuesday morning we'll have a `job fair <http://www.writethedocs.org/conf/portland/2018/job-fair>`_ where you can find your next documentarian friendly job.
+* **Get ready for the Job Fair**. New this year, on Tuesday morning we'll have a `job fair <http://www.writethedocs.org/conf/portland/2018/job-fair>`_ where you can find your next documentarian friendly job.
 * **Plan a discussion.** We'll be running the `Unconference <http://www.writethedocs.org/conf/portland/2018/unconference/>`_ all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a very specific thing? This is the place. We'll have a sign-up board so you know what's happening, and supplies to help you brainstorm.
-* **Coffee, breakfast, and lunch are provided on all three days!** Don't worry about coffee before you come to the conference on Sunday, Monday, or Tuesday. Coffee and breakfast are served at 8:15, and the conference starts at 9. As a part of our ongoing effort to make every aspect of the event friendly and inclusive (that includes the food too!), the full catering menu with allergen indications will be available on our `Venue page <http://www.writethedocs.org/conf/portland/2018/venue/#dietary-requirements>`_.
+* **Coffee, breakfast, and lunch are provided on all three days!** Don't worry about coffee before you come to the conference on Sunday, Monday, or Tuesday. Coffee and breakfast are served at 8:15, and the conference starts at 9.
 
 Find Your Way Around
 --------------------
 
-* **Riding the trains.** Be aware that TriMet, Portland's public transit system, will be working on the light rail lines. This means that you can't easily get from the Airport to downtown without a transfer. Public transit is generally excellent in Portland, but trains might be crowded, and schedules will be limited. For more information, see our `visiting page <http://www.writethedocs.org/conf/portland/2018/visiting/#the-max>`_ and the `TriMet website <https://trimet.org/alerts/morrisonyamhill/>`_.
-* **Riding a bike.** Portland has a `bike share program <https://www.biketownpdx.com/>`_.
+* **Riding the trains.** Public transit is generally excellent in Portland, you can get from the airport downtown on the MAX red line. For more information, see our `visiting page <http://www.writethedocs.org/conf/portland/2018/visiting/>`_ which has all the details you need to get around.
+* **Riding a bike.** Portland has a `bike share program <https://www.biketownpdx.com/>`_ that is having a promotion in May that includes free riding! Check it out while you're in town.
 
 Have Fun
 --------
 
+* **Walking a trail**. If you're planning to join us for the `hike <http://www.writethedocs.org/conf/portland/2018/hike/>`_ on Saturday at *1:45pm*, make sure you `reserve your spot <https://ti.to/writethedocs/write-the-docs-portland-2018/>`_ . We're hoping for less hail than last year, but bringing a rain jacket would be wise.
 * **Pre-register at the welcome reception.** The meet-and-greet event will be held on Sunday from *6pm-9pm*. You can pick up your badge and enjoy a couple of drinks on us. This is a great chance to meet your fellow documentarians before the conference starts.
 * **Come to the party on Monday night.** This is a private party just for conference attendees. Plan to attend so you can get to know folks in the community. Once again we'll be at `Jackknife <https://goo.gl/maps/hvYkv6RU4qD2>`_ at 614 SW 11th Ave, on *Monday evening from 7pm*, with a bunch of free food and drinks.
-* **Walking a trail**. If you're planning to join us for the `hike <http://www.writethedocs.org/conf/portland/2018/hike/>`_ on Saturday at *1:45pm*, make sure you `reserve your spot <https://ti.to/writethedocs/write-the-docs-portland-2018/>`_ . We're hoping for less hail than last year, but bringing a rain jacket would be wise.
 
 Share the Love
 --------------
