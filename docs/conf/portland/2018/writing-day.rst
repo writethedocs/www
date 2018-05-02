@@ -90,7 +90,8 @@ Kubernetes is an open source system that manages containerized applications acro
 
 `Detailed information, including how to sign the CLA <https://docs.google.com/document/d/1-mlmb9yHgdLsTqR8t52MegAWlUgXsZeko247hUMJaVU/edit?usp=sharing>`_ 
 
-And if you have questions before Writing Day, feel free to ask in the #kubernetes channel in the Write the Docs Slack.   
+And if you have questions before Writing Day, feel free to ask in the #kubernetes channel in the Write the Docs Slack.
+   
 .. _cockroachdbdocs:
 
 Write CockroachDB Docs on Writing Day
