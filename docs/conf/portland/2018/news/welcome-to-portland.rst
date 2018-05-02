@@ -1,4 +1,5 @@
 :template: {{year}}/generic.html
+:banner: _static/{{year}}/assets/headers/venue.png
 
 .. post:: May 1, 2018
    :tags: practical info, portland-2018
