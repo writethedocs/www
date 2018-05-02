@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 
 .. post:: May 5, 2018
-   :tags: portland-2018, practical info
+   :tags: practical info, portland-2018
 
 Welcome to Write the Docs Portland 2018!
 ========================================
@@ -37,7 +37,6 @@ Have Fun
 
 * **Pre-register at the welcome reception.** The meet-and-greet event will be held on Sunday from *6pm-9pm*. You can pick up your badge and enjoy a couple of drinks on us. This is a great chance to meet your fellow documentarians before the conference starts.
 * **Come to the party on Monday night.** This is a private party just for conference attendees. Plan to attend so you can get to know folks in the community. Once again we'll be at `Jackknife <https://goo.gl/maps/hvYkv6RU4qD2>`_ at 614 SW 11th Ave, on *Monday evening from 7pm*, with a bunch of free food and drinks.
-* **Unwind after the conference with New Relic.** The after-conference social is sponsored by our friends at New Relic, and will be at `New Relic <https://www.meetup.com/Write-The-Docs-PDX/events/239146623/>`__ at 111 SW 5th Ave, #2700, 27th floor, on *Tuesday evening from 6:30pm*. Drinks and light snacks will be provided. It will be done in conjunction with the Portland meetup, and open to the public.
 * **Walking a trail**. If you're planning to join us for the `hike <http://www.writethedocs.org/conf/portland/2018/hike/>`_ on Saturday at *1:45pm*, make sure that you reserved a spot in advance, since the hike is full. It looks like it will probably rain a little, so make sure you have a rain jacket!
 
 Share the Love
