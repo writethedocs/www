@@ -23,26 +23,26 @@ While we cannot guarantee that future conference dates will never have any confl
 The long version
 ----------------
 
-The global Write the Docs team team supports both major conference in Portland and Prague, as well as mentor smaller events throughout the year and maintain the community infrastructure.
+The global Write the Docs team supports major conferences in both Portland and Prague, as well as mentoring smaller events throughout the year and maintaining the community infrastructure.
 
-Since we started organizinge the Prague conference in 2015, September has been the month of choice, specifically around the middle of the month.
+Since we started organizing the Prague conference in 2015, September has been the month of choice, specifically around the middle of the month.
 
 When we scheduled the conference dates for Prague we considered the following key factors:
 
-- September is far enough from the Portland conference (which is held in May each year), which helps the team to load-balance preparation activities for both conference.
+- September is far enough from the Portland conference (which is held in May each year), which helps the team to load-balance preparation activities for both conferences.
 - August (and the first week of September) conflicts with the school summer holidays, which would exclude attendees who have school-aged children.
-- The only bank holiday in Czech Republic that month is on September 28, and there are no other public holidays in neighboring European countries.
-- No regular conflicts with major European conferences in the region (primarily PyCons and open-source conferences).
-- The weather from the end of September takes a turn for the worse in Prague (and in most of Europe), and we want attendees to experience the city and not just the conference venue.
+- The only bank holiday in the Czech Republic that month is on September 28, and there are no other public holidays in neighboring European countries.
+- Mid-September doesn't conflict with any major European conferences in the region (primarily PyCons and open-source conferences).
+- The weather from the end of September takes a turn for the worse in Prague (and in most of Europe), and we want attendees to have a good experience of the city and not just the conference venue.
 - The global core team's yearly offsite and retrospective happens immediately after the Prague conference, and we need to allow for enough time before the end of the calendar year to wrap-up and start planning for the following year.
 
 What happened this year
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-When we looked at the calendar to choose the dates for the 2018 conference, we saw that the Jewish New Year holidays span most of of September.
+When we looked at the calendar to choose the dates for the 2018 conference, we saw that the Jewish New Year holidays span most  of September.
 This does not occur every year, but this year it was extremely difficult to decide on dates in September, since no matter which date we chose, it would conflict with one of the holidays.
 
-When we weighed this problem against the key factors that we use to determine the dates each year, we knew that had to make a decision that is going to exclude some people from being able to attend.
+When we weighed this problem against the key factors that we use to determine the dates each year, we knew that we had to make a decision that would exclude some people from being able to attend.
 We weren't happy about this decision, but if we moved the conference to any other month, or even to the first weekend of September, we would run the risk of excluding different groups of people, or not being able to run the conference at all this year due to organizational meltdowns.
 
 What could we have done better
@@ -53,7 +53,7 @@ What we realized following the feedback from the community, was that we failed t
 
 Simply put - this blog post should have been published months ago.
 
-After we announced the dates, we received and handled several inquires by email or Slack messages from community members who questioned the dates selection and asked to reschedule, but by the time we announced the dates we already had the venue contracts signed so it wasn't possible to make a change.
+After we announced the dates, we received and handled several inquires by email or Slack messages from community members who questioned the date selection and asked to reschedule, but by the time we announced the dates we already had the venue contracts signed so it wasn't possible to make a change.
 
 Regardless of the actual scheduling problem, the fact that we received inquiries should have been a warning bell for us, as we saw in the past that for every person who writes to us with a question, there must be dozens more who wouldn't feel comfortable writing to us.
 We shouldn't have kept our responses to private channels, and we should have made a public accountability statement to address this much sooner.
