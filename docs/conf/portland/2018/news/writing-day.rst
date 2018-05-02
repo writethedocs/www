@@ -28,4 +28,8 @@ Here are some helpful tips for getting others involved:
 
 * Similarly, think about ways people can contribute besides writing. The Write the Docs community has more than writers. There are designers, developers, and lots of other people that care about documentation.
 
+* Check out the `list of projects`_ to see who needs help.
+
 We look forward to writing with you.
+
+.. _list of projects: http://www.writethedocs.org/conf/portland/2018/writing-day/#projects
