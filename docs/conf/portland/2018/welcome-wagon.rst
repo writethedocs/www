@@ -53,6 +53,7 @@ FAQs
 
 .. contents::
    :local:
+   :backlinks: none
 
 Where is everything?
 ~~~~~~~~~~~~~~~~~~~~
