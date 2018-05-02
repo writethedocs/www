@@ -21,15 +21,65 @@ Schedule
 Projects
 --------
 
-  + :ref:`writewrite2018portland`
-  + :ref:`kubernetes2018portland`
-  + :ref:`cockroachdbdocs`
-  + anything else you fancy
+.. contents::
+   :local:
+   :depth: 1
 
-.. _writewrite2018portland:
+Kubernetes Documentation
+~~~~~~~~~~~~~~~~~~~~~~~~
 
-Write Write the Docs on Writing Day
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+If you’re looking to contribute to open source documentation on GitHub, consider helping improve the Kubernetes docs. Issues and projects this year include improving the user journeys that provide the landing page for the docs, helping develop a custom Kubernetes dictionary for common spellcheckers, and more.
+
+Kubernetes is an open source system that manages containerized applications across different infrastructures. No previous product experience is needed to help with the docs. Docs are published at `kubernetes.io <https://kubernetes.io/docs/home/>`_ and they're pulled directly from `Github
+<https://github.com/kubernetes/website>`_. So you’ll need a GitHub account, and some familiarity with Markdown. You can also take a look at our contributor guidelines, and if you haven’t contributed before, it’ll save time if you sign the contributor license agreement before you arrive at Writing Day.
+
+`Detailed information, including how to sign the CLA <https://docs.google.com/document/d/1-mlmb9yHgdLsTqR8t52MegAWlUgXsZeko247hUMJaVU/edit?usp=sharing>`_ 
+
+And if you have questions before Writing Day, feel free to ask in the #kubernetes channel in the Write the Docs Slack.
+   
+
+CockroachDB Docs
+~~~~~~~~~~~~~~~~
+
+`CockroachDB <https://www.cockroachlabs.com>`_ is a distributed SQL database built on a transactional and strongly-consistent key-value store. Here’s a quick overview video:
+
+https://www.youtube.com/watch?v=VgXiMcbGwzQ
+
+Following are a few ways you can contribute to the CockroachDB docs:
+
+Improve our current docs
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+If you love fiddling around with a new product, you can: 
+
+- User-test our `Getting Started docs <https://github.com/cockroachdb/docs/issues/3028>`_ or `Production docs <https://github.com/cockroachdb/docs/issues/3027>`_ and give us feedback about clarity, correctness, and ease-of-use
+- Improve existing docs by `adding missing details <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aincorrect-info>`_ or `correcting errors <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aincorrect-info>`_
+- Make our code samples more user-friendly by `adding copy-to-clipboard functionality <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aenhancement>`_
+
+Fill gaps in our docs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+If you’d like to dig in deeper, we’re missing docs on a handful of important features. `You can help us fill these gaps! <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aproduct>`__ 
+
+Help us improve our processes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- `Test and provide feedback on our Docs contribution process <https://github.com/cockroachdb/docs/issues/3029>`_
+- `Share best practices for using tables in Markdown <https://github.com/cockroachdb/docs/issues/3030>`_
+
+Feel free to go through the full list of GitHub issues labeled `wtd-writing-day <https://github.com/cockroachdb/docs/labels/wtd-writing-day>`_ and claim the ones you want to work on.
+
+And of course, we (`@jseldess` and `@amruta` on the Write the Docs Slack channel) will be available throughout the day to help out. Also feel free to reach out to us if you have questions or suggestions in the interim. See you on Writing Day!
+
+
+Netlify
+~~~~~~~
+
+The team from `Netlify <https://www.netlify.com/>`_ will be working on their open source tooling:
+
+* Netlify CMS
+* A full list of projects can be found here: https://www.netlify.com/open-source/
+
+Write the Docs
+~~~~~~~~~~~~~~
 
 This year we're also running a session where you can help improve your favorite website.
 Yup, you can brainstorm on improvements, write helpful content and posts, or just magically improve `Write the Docs <http://www.writethedocs.org>`_.
@@ -78,55 +128,9 @@ tagged as `writingday` that includes things like:
 - make a better video archive
 - add list of conference write ups for past conferences
 
-.. _kubernetes2018portland:
-
-Kubernetes Documentation
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-If you’re looking to contribute to open source documentation on GitHub, consider helping improve the Kubernetes docs. Issues and projects this year include improving the user journeys that provide the landing page for the docs, helping develop a custom Kubernetes dictionary for common spellcheckers, and more.
-
-Kubernetes is an open source system that manages containerized applications across different infrastructures. No previous product experience is needed to help with the docs. Docs are published at `kubernetes.io <https://kubernetes.io/docs/home/>`_ and they're pulled directly from `Github
-<https://github.com/kubernetes/website>`_. So you’ll need a GitHub account, and some familiarity with Markdown. You can also take a look at our contributor guidelines, and if you haven’t contributed before, it’ll save time if you sign the contributor license agreement before you arrive at Writing Day.
-
-`Detailed information, including how to sign the CLA <https://docs.google.com/document/d/1-mlmb9yHgdLsTqR8t52MegAWlUgXsZeko247hUMJaVU/edit?usp=sharing>`_ 
-
-And if you have questions before Writing Day, feel free to ask in the #kubernetes channel in the Write the Docs Slack.
-   
-.. _cockroachdbdocs:
-
-Write CockroachDB Docs on Writing Day
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-`CockroachDB <https://www.cockroachlabs.com>`_ is a distributed SQL database built on a transactional and strongly-consistent key-value store. Here’s a quick overview video:
-
-https://www.youtube.com/watch?v=VgXiMcbGwzQ
-
-Following are a few ways you can contribute to the CockroachDB docs:
-
-Improve our current docs
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-If you love fiddling around with a new product, you can: 
-
-- User-test our `Getting Started docs <https://github.com/cockroachdb/docs/issues/3028>`_ or `Production docs <https://github.com/cockroachdb/docs/issues/3027>`_ and give us feedback about clarity, correctness, and ease-of-use
-- Improve existing docs by `adding missing details <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aincorrect-info>`_ or `correcting errors <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aincorrect-info>`_
-- Make our code samples more user-friendly by `adding copy-to-clipboard functionality <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aenhancement>`_
-
-Fill gaps in our docs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-If you’d like to dig in deeper, we’re missing docs on a handful of important features. `You can help us fill these gaps! <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aproduct>`__ 
-
-Help us improve our processes
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- `Test and provide feedback on our Docs contribution process <https://github.com/cockroachdb/docs/issues/3029>`_
-- `Share best practices for using tables in Markdown <https://github.com/cockroachdb/docs/issues/3030>`_
-
-Feel free to go through the full list of GitHub issues labeled `wtd-writing-day <https://github.com/cockroachdb/docs/labels/wtd-writing-day>`_ and claim the ones you want to work on.
-
-And of course, we (`@jseldess` and `@amruta` on the Write the Docs Slack channel) will be available throughout the day to help out. Also feel free to reach out to us if you have questions or suggestions in the interim. See you on Writing Day!
-
-
 Your project here
------------------
+~~~~~~~~~~~~~~~~~
 
 Send us a pull request or an email talking about what you want to work on!
+
+
