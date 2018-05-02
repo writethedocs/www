@@ -1,7 +1,7 @@
 A beginner's guide to writing documentation
 ===========================================
 
-.. note:: This is a write up of a :`Presentation <https://speakerdeck.com/ericholscher/writing-docs-a-beginners-guide-to-writing-documentation>`_ .
+.. note:: This is a write up of a `Presentation <https://speakerdeck.com/ericholscher/writing-docs-a-beginners-guide-to-writing-documentation>`_ .
           Please provide feedback to `@ericholscher`_.
           You can view the source on `GitHub`_.
 
