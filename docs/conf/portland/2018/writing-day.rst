@@ -125,6 +125,19 @@ tagged as `writingday` that includes things like:
 - make a better video archive
 - add list of conference write ups for past conferences
 
+The Lone Writers Guide
+~~~~~~~~~~~~~~~~~
+
+If you're the new sole writer at a company and you've inherited a mess, what should you do first? What decisions (and trade offs) are the most important to address right away? What are the milestones you would try to hit in the first 30, 60, and 90 days?
+
+We started a guide for people who are thrown into the deep end, to give them a plan for the first 90 days. It already includes pages about things like identifying your stakeholders, choosing the right tools, and getting everyone to write. You can expand on these topics, or create a new one. 
+
+Get started at our GitHub repo:
+https://github.com/San-Francisco-Write-The-Docs/lone-writers-guide
+
+The Lone Writers Guide was started by Write the Docs San Francisco Bay Area; when complete, it will be available on the web.
+
+
 Your project here
 ~~~~~~~~~~~~~~~~~
 
