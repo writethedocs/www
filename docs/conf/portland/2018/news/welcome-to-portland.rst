@@ -51,9 +51,9 @@ Thanks Again to Our Sponsors
 
 Once again, we're grateful to the companies and organizations that `sponsor <http://www.writethedocs.org/conf/portland/2018/sponsor/>`_ our events, some of them year after year:
 
-* `Oracle <https://cloud.oracle.com/iaas>`_
+* `Oracle Cloud <https://cloud.oracle.com/iaas>`_
 * `Google <https://www.google.com/>`_
-* `Miscrosoft <https://developer.microsoft.com/en-us/advocates/index.html>`_
+* `Microsoft Azure Advocates <https://developer.microsoft.com/en-us/advocates/index.html>`_
 * `Mozilla <https://developer.mozilla.org/en-US/>`_
 * `Redhat <https://www.redhat.com/en>`_
 * `New Relic <https://newrelic.com/>`_
@@ -69,6 +69,7 @@ Once again, we're grateful to the companies and organizations that `sponsor <htt
 * `Next Capital <https://nextcapital.com/>`_
 * `Dropbox <https://www.dropbox.com>`_
 * `Stoplight <http://stoplight.io/>`_
+* `KnowledgeOwl <https://www.knowledgeowl.com/home>`_
 * `Stickermule <https://www.stickermule.com/supports/opensource>`_
 
 We're so excited to welcome you all to Portland in just a few days – see you there!
