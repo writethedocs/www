@@ -10,14 +10,14 @@ Hello everyone!
 
 Kelly O. here, hoping it's been a good week for you all. We're just a few short days out from our first conference of the year. The Portland event marks the beginning of the community's busiest year yet!
 
-The Prague conference may seem a long way off, in September, but the CFP is only open for a few more weeks. If you're interested in speaking, `have a look at the guidelines and submit your proposal <>`_ by **midnight CET on May 15th**. As usual, we're interested in speakers of any experience level on any topic relevant to software documentation. Hit us with your best ideas!
+The Prague conference may seem a long way off, in September, but the CFP is only open for a few more weeks. If you're interested in speaking, `have a look at the guidelines and submit your proposal <http://www.writethedocs.org/conf/prague/2018/cfp/>`_ by **midnight CET on May 15th**. As usual, we're interested in speakers of any experience level on any topic relevant to software documentation. Hit us with your best ideas!
 
 We also have two other Write the Docs events to look forward to in 2018!
 
-* On DATE TK, Write the Docs is teaming up with OpenHelp, an annual SPRINT EVENT DETAILS TK to put on a DAYS TK event in Cincinnati. MORE DETAILS TK
-* Then from OTHER DATES TK, Write the Docs Australia will be returning for a second year as a full two-day event MORE DETAILS TK
+* On Aug 18-22, Write the Docs is teaming up with `OpenHelp <http://openhelp.cc/>`_ to put on 5-day event in Cincinnati that combines 2 days of talks and discussion with 3 days documentation sprints. `Learn more on the event website! <http://www.writethedocs.org/conf/cincinnati/2018/>`_
+* Then from November 15-16, Write the Docs Australia will be returning for a second year as a full two-day conference. `Learn more on the event website! <http://www.writethedocs.org/conf/australia/2018/>`_
 
-In addition, our network of meetups is alive and busy! For example, the `London group <>`_ is partnering with the `UK Government Digital Service <>`_ to put on a full-day meetup on June 5th about building a career in documentation. One of the organizers is running a short survey about documentation roles, in order to present his findings at the event. If you have a few minutes and want to participate, you'll find it here: `LINK TK <>`_
+In addition, our network of meetups is alive and busy! For example, the London group is partnering with the UK Government Digital Service to put on a `full-day meetup <https://www.meetup.com/Write-The-Docs-London/events/248304896/>`_ on June 5th about building a career in documentation. One of the organizers is running a short survey about documentation roles, in order to present his findings at the event. If you have a few minutes and want to participate, you'll find it here: `http://www.smartsurvey.co.uk/s/ZXSGG/ <http://www.smartsurvey.co.uk/s/ZXSGG/>`_
 
 *Full disclosure: I am one of the co-organizers of the London meetup group. If you run a meetup and ever need community-wide exposure for a project or a community event, feel free to drop me an email at: `newsletter@writethedocs.org <mailto:newsletter@writethedocs.org>`_ I'm happy to help boost the signal.*
 
@@ -31,7 +31,7 @@ Measuring doc success is an evergreen topic on Slack. This month's installment s
 
 * One contributor described a small-scale, hands-on approach that provides an old doc to a small sample set and asks the sample members to perform a specified task according to the doc. Measure how long it took them to complete the task, then run the same study again with the new doc and a different sample set of readers/testers. Reduced "time to competency" = increased doc efficacy.
 
-* If you'd rathe run full on A/B testing out in the wild (as opposed to a controlled test environment), you might want to look into marketing tools like `Optimizely <>`_. Caution, though – you need upwards of 50 users to get anything like a valid indication, and much higher is better.
+* If you'd rathe run full on A/B testing out in the wild (as opposed to a controlled test environment), you might want to look into marketing tools like `Optimizely <https://www.optimizely.com/>`_. Caution, though – you need upwards of 50 users to get anything like a valid indication, and much higher is better.
 
 * A modicum of statistical savvy is useful when designing your A/B tests. If you're measuring a big difference between docsets, a smaller test population can give you useful insights. If you've trying to assess the effect of smaller changes, you need a larger test population. And it's important to know just what it is you expect to change – time to complete a task, improved expressions of customer satisfaction, something else.
 
@@ -39,7 +39,7 @@ Measuring doc success is an evergreen topic on Slack. This month's installment s
 
 TL;DR: It's hard to provide reliable testing of docs effectiveness – but that won't stop us from trying!
 
-*Teaser line that draws folks into the channel where they might find related conversations:* `#CHANNEL-NAME <https://writethedocs.slack.com/messages/CHANNEL-NAME>`_
+*For more conversations about measuring the success of your docs, pop into* `#analytics <https://writethedocs.slack.com/messages/analytics>`_
 
 ----------------------------------
 Using imperatives in documentation
@@ -77,7 +77,7 @@ Featured job postings
 **Hiring? Want to get your job posting in front of real, live, in-person documentarians?**
 Any jobs posted on the `Write the Docs job board <https://jobs.writethedocs.org/>`_ by noon PST on Monday, May 7th, will be printed out and displayed at the inaugural Write the Docs job fair at the Portland conference.
 
-If you're currently job hunting and will be joining us in Portland, here's a taste of what to expect at the `job fair <>`_ on Tuesday morning. The jobs below are from Oracle, our headline sponsor for the event.
+If you're currently job hunting and will be joining us in Portland, here's a taste of what to expect at the `job fair <http://www.writethedocs.org/conf/portland/2018/job-fair/>`_ on Tuesday morning. The jobs below are from Oracle, our headline sponsor for the event.
 
 `JOB POSTING TITLE <JOB BOARD LINK>`_
  [company name], [full-time, part-time, etc.]
@@ -86,4 +86,20 @@ If you're currently job hunting and will be joining us in Portland, here's a tas
 Upcoming community events
 -------------------------
 
-MMMMMM DD – LOCATION – `EVENT NAME <EVENT URL>`_
+May 8 – Tel Aviv, Israel – `Kick-off meetup <https://www.meetup.com/Write-The-Docs-Herzliya/events/250109002/>`_
+
+May 12 – Salt Lake City, UT, USA – `May Mixer Meetup <https://www.meetup.com/Write-the-Docs-SLC/events/249982393/>`_
+
+May 17 – Berkeley, CA, USA – `Hack-a-thon: Working with Managers When You're a Lone Writer <https://www.meetup.com/Write-the-Docs-SF/events/250413818/>`_
+
+May 21 – Leeds, UK – `Social and discussion meetup <https://www.meetup.com/Write-the-Docs-Yorkshire/events/249578837/>`_
+
+May 22 – Budapest, Hungary – `Github: Why it will change the world of technical communication <https://www.meetup.com/Budapest-Technical-content-creators/events/249115186/>`_
+
+May 24 – Los Angeles, CA, USA – `Documenting APIs, the Symantec way! <https://www.meetup.com/Write-the-Docs-LA/events/249946913/>`_
+
+May 28 – Amsterdam, Netherlands – `May meetup <https://www.meetup.com/Write-The-Docs-Amsterdam/events/249028095/>`_
+
+May 31 – Brussels, Belgium – `Process first! <https://www.meetup.com/Write-The-Docs-Brussels/events/250299512/>`_
+
+June 5 – London, UK – `Build your Docs career: All-Day Event, in partnership with GDSm <https://www.meetup.com/Write-The-Docs-London/events/248304896/>`_
