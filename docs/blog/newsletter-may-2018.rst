@@ -8,16 +8,16 @@ Write the Docs Newsletter – May 2018
 
 Hello everyone!
 
-Kelly O. here, hoping it's been a good week for you all. We're just hours away, now, from our first conference of the year. The Portland event marks the beginning of the community's busiest year yet!
+Kelly O. here, hoping it's been a good week for you all. We're just hours away from our first conference of the year. The Portland event marks the beginning of the community's busiest year yet!
 
 The Prague conference may seem a long way off, in September, but the CFP is open for only a few more weeks. If you're interested in speaking, `have a look at the guidelines and submit your proposal <http://www.writethedocs.org/conf/prague/2018/cfp/>`_ by **midnight CET on May 15th**. As usual, we're interested in speakers of any experience level on any topic relevant to software documentation. Hit us with your best ideas!
 
 We also have two other Write the Docs events to look forward to in 2018!
 
-* On Aug 18-22, Write the Docs is teaming up with `Open Help <http://openhelp.cc/>`_ to put on 5-day event in Cincinnati that combines 2 days of talks and discussion with 3 days documentation sprints. `Learn more on the event website! <http://www.writethedocs.org/conf/cincinnati/2018/>`_
-* Then from November 15-16, Write the Docs Australia will be returning for a second year as a full two-day conference. `Learn more on the event website! <http://www.writethedocs.org/conf/australia/2018/>`_
+* On Aug 18-22, Write the Docs is teaming up with `Open Help <http://openhelp.cc/>`_ to put on 5-day event in Cincinnati that combines 2 days of talks and discussion with 3 days documentation sprints. We're really excited to try out this new format – `have a look at the website! <http://www.writethedocs.org/conf/cincinnati/2018/>`_
+* Then from November 15-16, Write the Docs Australia will be returning for a second year as a full two-day conference. Check out what they're doing for year two on `the conference page! <http://www.writethedocs.org/conf/australia/2018/>`_
 
-In addition, our network of meetups is alive and busy! For example, the London group is partnering with the UK Government Digital Service to put on a `full-day meetup <https://www.meetup.com/Write-The-Docs-London/events/248304896/>`_ on June 5th about building a career in documentation. One of the organizers is running a short survey about documentation roles, in order to present his findings at the event. If you have a few minutes and want to participate, you'll find it here: `http://www.smartsurvey.co.uk/s/ZXSGG/ <http://www.smartsurvey.co.uk/s/ZXSGG/>`_
+In addition, our network of meetups is alive and busy! The London group, for example, is partnering with the UK Government Digital Service to put on a `full-day meetup <https://www.meetup.com/Write-The-Docs-London/events/248304896/>`_ on June 5th about building a career in documentation. One of the organizers is running a short survey about documentation roles, in order to present his findings at the event. If you have a few minutes and want to participate, you'll find it here: `http://www.smartsurvey.co.uk/s/ZXSGG/ <http://www.smartsurvey.co.uk/s/ZXSGG/>`_
 
 *Full disclosure: I am one of the co-organizers of the London meetup group. If you run a meetup and ever need community-wide exposure for a project or a community event, feel free to drop me an email at: `newsletter@writethedocs.org <mailto:newsletter@writethedocs.org>`_ I'm happy to help boost the signal.*
 
@@ -33,7 +33,7 @@ Measuring doc success is an evergreen topic on Slack. This month's installment s
 
 * If you'd rather run full on A/B testing out in the wild (as opposed to a controlled test environment), you might want to look into marketing tools like `Optimizely <https://www.optimizely.com/>`_. Caution, though – you need upwards of 50 users to get anything like a valid indication, and much higher is better.
 
-* A modicum of statistical savvy is useful when designing your A/B tests. If you're measuring a big difference between docsets, a smaller test population can give you useful insights. If you've trying to assess the effect of smaller changes, you need a larger test population. And it's important to know just what it is you expect to change – time to complete a task, improved expressions of customer satisfaction, something else.
+* A modicum of statistical savvy is useful when designing your A/B tests. If you're measuring a big difference between docsets, a smaller test population can give you useful insights. If you're trying to assess the effect of smaller changes, you need a larger test population. And it's important to know just what it is you expect to change – time to complete a task, improved expressions of customer satisfaction, something else.
 
 * When trying to ascertain results, beware of relying on traditional web analytics. Bounce rate and time on page, for example, require too much extrapolation. In other words, you can't assume that a short visit means the docs are no good, and you can't assume a longer visit means they work well. You could associate such data with other measures, but by themselves they don't tell us much.
 
@@ -53,9 +53,9 @@ But how does that play out in the docs? A lot of it has to do with the different
 
 *If you find yourself with other grammar or usage questions,* `#general <https://writethedocs.slack.com/messages/general>`_ *has many word-folks waiting to help you out.*
 
------------------------------------------------
-Telling the difference between one API and many
------------------------------------------------
+--------------------------------
+Distinguishing one API from many
+--------------------------------
 
 When writing about APIs, it's not always clear where one API stops and another begins. Some teams treat their API as singular entity that covers everything, but others treat it as a collection of APIs instead, separated by product area, function, user segment, etc. So when the question arose – How do you decide whether you're writing about one API with broad functionality or multiple individual, more targeted APIs? – the community attempted to achieve some clarity.
 
