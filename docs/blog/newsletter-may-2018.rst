@@ -111,4 +111,4 @@ May 28 – Amsterdam, Netherlands – `May meetup <https://www.meetup.com/Write
 
 May 31 – Brussels, Belgium – `Process first! <https://www.meetup.com/Write-The-Docs-Brussels/events/250299512/>`_
 
-June 5 – London, UK – `Build your Docs career: All-Day Event, in partnership with GDSm <https://www.meetup.com/Write-The-Docs-London/events/248304896/>`_
+June 5 – London, UK – `Build your Docs career: All-Day Event, in partnership with GDS <https://www.meetup.com/Write-The-Docs-London/events/248304896/>`_
