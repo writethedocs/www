@@ -1,4 +1,4 @@
-.. post:: May 3, 2018
+.. post:: May 4, 2018
    :tags: newsletter, AB testing, imperatives, API definitions
 
 
@@ -8,7 +8,7 @@ Write the Docs Newsletter – May 2018
 
 Hello everyone!
 
-Kelly O. here, hoping it's been a good week for you all. We're just a few short days out from our first conference of the year. The Portland event marks the beginning of the community's busiest year yet!
+Kelly O. here, hoping it's been a good week for you all. We're just hours away, now, from our first conference of the year. The Portland event marks the beginning of the community's busiest year yet!
 
 The Prague conference may seem a long way off, in September, but the CFP is open for only a few more weeks. If you're interested in speaking, `have a look at the guidelines and submit your proposal <http://www.writethedocs.org/conf/prague/2018/cfp/>`_ by **midnight CET on May 15th**. As usual, we're interested in speakers of any experience level on any topic relevant to software documentation. Hit us with your best ideas!
 
