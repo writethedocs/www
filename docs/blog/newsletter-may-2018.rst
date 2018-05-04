@@ -51,7 +51,7 @@ There is a canonical rule for their distinct usages. While both convey an obliga
 
 But how does that play out in the docs? A lot of it has to do with the different tone that each verb carries. 'Must' is more formal, more inescapable. It's usually a good fit for procedural content when talking about necessary actions the reader must take. 'Have to' is better for guiding your readers towards best practices or broader expectations they should be keeping in mind.
 
-*If you find yourself with other grammar or usage questions, `#general <https://writethedocs.slack.com/messages/general>`_ has many word-folks waiting to help you out.*
+*If you find yourself with other grammar or usage questions,* `#general <https://writethedocs.slack.com/messages/general>`_ *has many word-folks waiting to help you out.*
 
 -----------------------------------------------
 Telling the difference between one API and many
