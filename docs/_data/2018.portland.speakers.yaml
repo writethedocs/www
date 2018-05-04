@@ -96,17 +96,18 @@
 - abstract: "<p>These core principles have guided me during my (almost) two decades in the business. I'll share some real-world stories to show what kind of results you can expect.</p>
 <p>The tips:<ul>
 <li>Just ask.</li>
-<li>Listen.</li>
-<li>Tell stories.</li>
-<li>Own your stuff.</li>
-<li>Minimum content.</li>
+<li>Listen for intent.</li>
+<li>Create the minimum thing.</li>
+<li>Cultivate ownership, individual and product.</li>
 <li>Be a lifelong learner.</li>
+<li>Opt in.</li>
+<li>Use the power of storytelling.</li>
 <p>There might even be a surprise bonus tip.</p>"
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/eight-essential-tips-for-the-enlightened-tech-writer-ted-hudek
+  path: conf/portland/2018/videos/7-essential-tips-for-the-enlightened-tech-writer-ted-hudek
   series: Write the Docs PORTLAND
   series_slug: portland
-  slug: eight-essential-tips-for-the-enlightened-tech-writer-ted-hudek
+  slug: 7-essential-tips-for-the-enlightened-tech-writer-ted-hudek
   speakers:
   - details: ''
     img_file: ted-hudek.jpg
@@ -114,7 +115,7 @@
     slug: ted-hudek
     twitter: tedhudek
     website: https://threemilesup.wordpress.com/
-  title: Six Essential Tips for the Enlightened Tech Writer
+  title: 7 Essential Tips for the Enlightened Tech Writer
   year: 2018
 - abstract: "<p>Thorough and optimal technical documentation often requires not just\
     \ an API reference of endpoints and parameters, or long contextual instructions,\

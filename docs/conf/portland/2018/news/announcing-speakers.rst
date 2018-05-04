@@ -30,7 +30,7 @@ Every year, we look to bring a wide range of voices to the Write the Docs stage.
 * Neal Kaplan – `Where do I start? The art and practice of documentation triage <http://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-neal-kaplan>`_
 * Sarah Day – `Starting from Scratch: Finding and Hiring Junior Writers <http://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-sarah-day>`_
 * Steve Stegelin – `Graphic Content Warning: The Pros, Cons, and Alternatives to Screenshots <http://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-steve-stegelin>`_
-* Ted Hudek – `Six Essential Tips for the Enlightened Tech Writer <http://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-ted-hudek>`_
+* Ted Hudek – `7 Essential Tips for the Enlightened Tech Writer <http://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-ted-hudek>`_
 * Thursday Bram – `What They Don't Tell You About Creating New Style Guides <http://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-thursday-bram>`_
 
 You can head over to the `Speakers page <http://www.writethedocs.org/conf/portland/2018/speakers/>`_ to see the full abstracts. We hope there’s something there for everyone to enjoy, and also something that will stretch your horizons a bit.
