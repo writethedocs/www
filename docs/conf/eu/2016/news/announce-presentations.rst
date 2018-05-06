@@ -11,7 +11,6 @@ in the time and effort to submit a proposal. We couldn’t do it without you -- 
 * Erik Romijn - `Healthy Minds in a Healthy Community <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-erik-romijn>`_
 * David Oliver - `Documentoring: Growing a "Love The Docs" community <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-david-oliver>`_
 * Swapnil Ogale - `When bad screenshots happen to good writers <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-swapnil-ogale>`_
-* Idan Gazit - `Self-documenting APIs with GraphQL <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-idan-gazit>`_
 * Chris Ward - `Beyond Software - Learning from Other Technical Writers <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-chris-ward>`_
 * Michael Meng - `API documentation: Exploring the information needs of software developers <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-michael-meng>`_
 * István Zoltán Szabó - `Writing as a non-native speaker <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-istvan-zoltan-szabo>`_
