@@ -43,7 +43,7 @@ Have Fun
 Share the Love
 --------------
 
-* **Slack with your fellow documentarians.** Feel free to use our `Slack <https://slack.writethedocs.org/>`_ to coordinate dinners, ask questions, or share notes with fellow conference attendees.
+* **Slack with your fellow documentarians.** Feel free to use our `Slack <https://writethedocs.slack.com>`_ to coordinate dinners, ask questions, or share notes with fellow conference attendees.
 * **Use the hash tag #writethedocs.** Twitter is a great way to communicate at events. If you arrive into Portland early and want to find others, use the hash tag `#writethedocs <https://twitter.com/search?q=%23writethedocs&src=tyah>`_ or tweet at @writethedocs. We can point you to something good.
 
 Thanks again to Our Sponsors
