@@ -1,5 +1,5 @@
 A lightning talk is a very short talk where you share an idea, concept, or a bit of information you find interesting.
-They’re quick, easy, and a great way to practice. (Lovely example `*here* <https://www.youtube.com/watch?feature=player_embedded&v=6wcP1aMl7wQ#t=942>`__!)
+They’re quick, easy, and a great way to practice. (Lovely example `*here* <https://www.youtube.com/watch?feature=player_embedded&v=6wcP1aMl7wQ#t>`__ beginning at 15:42!)
 
 Planning: What goes into a lightning talk?
 ------------------------------------------
