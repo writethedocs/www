@@ -3,3 +3,8 @@ country: USA
 state: California
 city: Los Angeles
 website: https://www.meetup.com/Write-the-Docs-Los-Angeles/
+meetup: Write-the-Docs-Los-Angeles
+organizers:
+  - name: Andrea Kao
+  - name: Marcy Harbut
+  - name: Frank Solomon

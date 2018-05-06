@@ -2,3 +2,6 @@ region: Europe
 country: Russian Federation
 city: St. Petersburg
 website: https://www.meetup.com/Write-the-Docs-SPb/
+meetup: Write-the-Docs-SPb
+organizers:
+  - name: Nick Volynkin

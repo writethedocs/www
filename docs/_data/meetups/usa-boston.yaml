@@ -3,3 +3,6 @@ country: USA
 state: Massachusetts
 city: Boston
 website: http://www.meetup.com/Write-the-Docs-BOS/
+meetup: Write-the-Docs-BOS
+organizers:
+  - name: Phillip Borenstein

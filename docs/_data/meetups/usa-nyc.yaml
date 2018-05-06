@@ -4,5 +4,7 @@ state: New York
 city: New York City
 page: ./nyc/
 website: https://www.meetup.com/WriteTheDocsNYC/
-notes: |
-  Organised by [@WriteTheDocsNYC](https://twitter.com/WriteTheDocsNYC)
+meetup: WriteTheDocsNYC
+twitter: WriteTheDocsNYC
+organizers:
+  - name: Ricardo Feliciano

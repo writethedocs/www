@@ -3,3 +3,6 @@ country: USA
 state: Texas
 city: Houston
 website: https://www.meetup.com/Write-the-Docs-Houston/
+meetup: Write-the-Docs-Houston
+organizers:
+  - name: Michaele Cerf

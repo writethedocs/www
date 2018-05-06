@@ -3,3 +3,7 @@ country: USA
 state: Utah
 city: Salt Lake City
 website: https://www.meetup.com/Write-the-Docs-SLC/
+meetup: Write-the-Docs-SLC
+organizers:
+  - name: Ashley Newton
+  - name: Kyle Rollins

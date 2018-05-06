@@ -3,3 +3,8 @@ country: USA
 state: California
 city: San Francisco
 website: http://www.meetup.com/Write-the-Docs/
+meetup: Write-the-Docs
+organizers:
+  - name: Laura Stewart
+  - name: Juan Lara
+  - name: Liz Harris
