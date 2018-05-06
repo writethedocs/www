@@ -1,14 +1,14 @@
 A beginner's guide to writing documentation
 ===========================================
 
-.. note:: This is a write up of a :ref:`Presentation <beginner-presentation>`.
+.. note:: This is a write up of a `Presentation <https://speakerdeck.com/ericholscher/writing-docs-a-beginners-guide-to-writing-documentation>`_ .
           Please provide feedback to `@ericholscher`_.
           You can view the source on `GitHub`_.
 
 .. _@ericholscher: http://twitter.com/ericholscher
 .. _GitHub: https://github.com/writethedocs/www/blob/master/docs/guide/writing/beginners-guide-to-docs.rst
-		
-.. 
+
+..
 
 	| Camera pans from stage left.
 	| It shows a text editor, open to a blank page.
@@ -43,7 +43,7 @@ You will look upon a file with a fond sense of remembrance.
 Then a sneaking feeling of foreboding,
 knowing that someone less experienced, less wise, had written it.
 
-As you go through this selfless act of untangling things that were obvious or clever months ago, 
+As you go through this selfless act of untangling things that were obvious or clever months ago,
 you will start to empathize with your users.
 If only I had written down why I had done this.
 Life would be so much simpler.
@@ -100,7 +100,7 @@ If you really love your project,
 document it,
 and let other people use it.
 
-	
+
 You want people to help out
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -112,7 +112,7 @@ Not quite.
 
 There are lots of ways that open source is amazing,
 but it doesn't exist outside the laws of physics.
-You have to put work in, 
+You have to put work in,
 to get work out.
 
 	| You only get contributions after you have put in a lot of work.
@@ -150,7 +150,7 @@ Keeping your projects documented will keep you writing at a reasonable cadence.
 
 Starting simple is the best way to achieve actual results.
 I will present a well-paved path to walk down,
-and after you have the basic idea, 
+and after you have the basic idea,
 you can expand your scope.
 The tools should be powerful and easy to use.
 This removes obstacles to actually putting words on the page.
@@ -200,12 +200,12 @@ and renders nicely into HTML.
 README
 ~~~~~~
 
-Your first steps in documentation should go into your README. 
+Your first steps in documentation should go into your README.
 Code hosting services will render your README into HTML automatically if you provide the proper extension.
 It is also the first interaction that most users will have with your project.
 So having a solid README will serve your project well.
 
-Some people even go as far as to `start your project with a README`_ 
+Some people even go as far as to `start your project with a README`_
 
 .. _start your project with a README: http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
 
@@ -219,7 +219,7 @@ Making sure that you give your users all the information that they need,
 but not too much.
 
 First, you need to ask yourself who you're writing for.
-At first, 
+At first,
 you generally just need to appeal to two audiences:
 
 * Users
@@ -303,7 +303,7 @@ check out this post on `how to maintain an open source project`_.
 Template
 --------
 
-A simple template for you to start with, 
+A simple template for you to start with,
 for your ``README``.
 Name the file ``README.md`` if you want to use markdown,
 or ``README.rst`` if you want to use reStructuredText.
@@ -345,11 +345,10 @@ More information about these can be found in the :ref:`sidebar on markup <markup
 	Support
 	-------
 
-	If you are having issues, please let us know. 
+	If you are having issues, please let us know.
 	We have a mailing list located at: project@google-groups.com
 
 	License
 	-------
 
 	The project is licensed under the BSD license.
-

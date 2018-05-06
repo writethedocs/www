@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: {{year}}/generic.html
 :banner: _static/2018/assets/headers/team.png
 
 Meet the Team
@@ -10,16 +10,6 @@ This page outlines the folks who are helping get things done, and what their rol
 Folks
 -----
 
-Eric Holscher
-~~~~~~~~~~~~~
-
-.. include:: /include/bios/eric.rst
-
-Kelly O'Brien
-~~~~~~~~~~~~~
-
-.. include:: /include/bios/kelly.rst
-
 Mikey Ariel
 ~~~~~~~~~~~
 
@@ -30,30 +20,26 @@ Samuel Wright
 
 .. include:: /include/bios/sam.rst
 
-Becky Yoose
-~~~~~~~~~~~
-
-.. include:: /include/bios/becky.rst
-
-Rose Williams
+Eric Holscher
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/rose.rst
+.. include:: /include/bios/eric.rst
 
-Christy Lutz
+Kelly O'Brien
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/christy.rst
+.. include:: /include/bios/kelly.rst
 
-Mo Nishiyama
-~~~~~~~~~~~~~
+Sasha Romijn
+~~~~~~~~~~~~
 
-.. include:: /include/bios/mo.rst
+.. include:: /include/bios/sasha.rst
 
-Shaun McCance
-~~~~~~~~~~~~~
+Paul Adams
+~~~~~~~~~~
 
-.. include:: /include/bios/shaun.rst
+.. include:: /include/bios/paul.rst
+
 
 Primary Roles
 -------------
@@ -63,26 +49,23 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 Filled Roles
 ~~~~~~~~~~~~~
 
-* **Conference chair** -
-* **Swag coordinator** -
-* **Speaker wrangler** -
-* **Infrastructure chair** -
-* **Writing Day coordinator** -
-* **Lightning Talk coordinator** -
-* **Communication chair** -
-* **Volunteer coordinator** -
-* **Sponsorship lead** -
-
-* **Welcome Wagon coordinators** -
-* **Hike coordinator** -
-
-* **Explore Portland coordinator** -
+* **Conference chair** - Mikey Ariel
+* **Swag coordinator** - Mikey Ariel
+* **Speaker wrangler** - Sam Wright
+* **Infrastructure chair** - Sam Wright
+* **Writing Day coordinator** - Kelly O'Brien
+* **Lightning Talk coordinator** - Paul Adams
+* **Communication chair** - Mikey Ariel
+* **Volunteer coordinator** - Sasha Romijn
+* **Sponsorship lead** - Eric Holscher
+* **Job Fair coordinator** - Eric Holscher
+* **Boat ride coordinator** - Mikey Ariel
+* **Unconference coordinator** - Paul Adams
 
 Organizers Needed
 ~~~~~~~~~~~~~~~~~
 
-* **Unconference coordinator** - TBA
-* **Workshop coordinator** - TBA
-* **Job Fair coordinator** - TBA
+* **Welcome Wagon coordinators** - TBA
+* **Explore Prague coordinator** - TBA
 * **Social media chair** - TBA
 * **Emcee** - TBA

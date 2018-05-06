@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: {{year}}/generic.html
 :banner: _static/2018/assets/headers/group.png
 
 Welcome Wagon
@@ -53,6 +53,7 @@ FAQs
 
 .. contents::
    :local:
+   :backlinks: none
 
 Where is everything?
 ~~~~~~~~~~~~~~~~~~~~

@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: {{year}}/generic.html
 :banner: _static/2018/assets/headers/venue.png
 
 Schedule
@@ -12,7 +12,7 @@ Each year we organize a wide range of events so that people can come together, c
     :depth: 1
     :backlinks: none
 
-{{date.day_one.dotw}}, {{date.month}} {{date.day_one.date}}
+{{date.day_one.dotw}}, {{date.day_one.date}}
 --------------------------------------------------
 
 {% if flaghashike %}
@@ -31,19 +31,21 @@ If you get into town early, join us on the hike and take the chance to explore P
 
 {% if flaghasboat %}
 
-Boat tour
+Boat Ride
 ~~~~~~~~~
 
-The only event scheduled on Saturday is the :doc:`Boat Tour of Prague </conf/{{shortcode}}/{{year}}/outing>`.
+The only event scheduled on Saturday is the :doc:`Prague Boat Ride </conf/{{shortcode}}/{{year}}/outing>`.
 If you get into town early, join us and experience Prague from the water.
 
 {% endif %}
 
 
-{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}}
+{{date.day_two.dotw}}, {{date.day_two.date}}
 ----------------------------------------
 
 The Writing Day and Welcome Reception will be held at the **{{about.venue}}**.
+
+*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
 
 .. contents::
     :local:
@@ -52,8 +54,8 @@ The Writing Day and Welcome Reception will be held at the **{{about.venue}}**.
 Writing Day
 ~~~~~~~~~~~
 
-* **Where**: TBA
-* **When**: **9am-5pm**
+* **Where**: {{about.venue}}, {{about.mainroom}}
+* **When**: **9:00-17:00**
 * **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
 Reception
@@ -63,25 +65,26 @@ We encourage everyone to drop by on Sunday evening for the conference reception.
 You'll have a chance to get acquainted with each other over some drinks and snacks.
 We'll also help groups organize dinner plans, so you can continue your conversations over more substantial food as well.
 
-* **Where**: TBA
-* **When**: **5pm-8pm**
-* **Details**: TBA
+* **Where**: {{about.venue}}, {{about.mainroom}}
+* **When**: **17:00-20:00**
 
-{{date.day_three.dotw}}, {{date.month}} {{date.day_three.date}}
+{{date.day_three.dotw}}, {{date.day_three.date}}
 --------------------------------------------
 
 .. contents::
-    :local:
-    :backlinks: none
+   :local:
+   :backlinks: none
 
 This is the main event! Hear from lots of interesting folks about all things documentation.
 We will have talks all day on the main stage, and a unconference session running in parallel in the afternoon.
 
+*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
-* **Where**:   TBA
-* **When**: **9am-5pm**
+* **Where**: {{about.venue}}, {{about.mainroom}}
+* **When**: **10:00-18:00**
 * **Details**: TBA
 
 ..
@@ -94,8 +97,8 @@ Unconference
 
 The unconference sessions run in parallel to the main conference talks.
 
-* **Where**: TBA
-* **When**: **1pm-5pm**
+* **Where**: {{about.venue}}, {{about.unconfroom}}
+* **When**: **13:30-18:00**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Monday Night Social
@@ -109,23 +112,25 @@ This event is for **conference attendees only**. Please bring your badge to be l
 There will be light snacks and drinks available on the conference while our tab lasts.
 
 * **Where**: TBA
-* **When**: **7pm-23pm**
+* **When**: **20:00-23:00**
 * **Details**: TBA
 
-{{date.day_four.dotw}}, {{date.month}} {{date.day_four.date}}
+{{date.day_four.dotw}}, {{date.day_four.date}}
 --------------------------------------------------
 
 .. contents::
-    :local:
-    :backlinks: none
+   :local:
+   :backlinks: none
 
 And the conference goes on!
+
+*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
-* **Where**: TBA
-* **When**: **9am-4pm**
+* **Where**: {{about.venue}}, {{about.mainroom}}
+* **When**: **10:00-17:00**
 * **Details**: TBA
 
 ..
@@ -138,8 +143,8 @@ Job Fair
 
 New in 2018! We'll be holding a job fair on Tuesday morning!
 
-* **Where**: TBA
-* **When**: **9am-11:30am**
+* **Where**: {{about.venue}}, {{about.unconfroom}}
+* **When**: **9:00-12:00**
 * **Details**: TBA
 
 Unconference
@@ -147,6 +152,6 @@ Unconference
 
 The unconference sessions run in parallel to the main conference talks.
 
-* **Where**: TBA
-* **When**: **12:30am-5pm**
+* **Where**: {{about.venue}}, {{about.unconfroom}}
+* **When**: **12:00-17:00**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`

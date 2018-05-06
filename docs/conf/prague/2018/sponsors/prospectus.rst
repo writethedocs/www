@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: {{year}}/generic.html
 :banner: _static/2018/assets/headers/group.png
 
 Sponsorship Prospectus
@@ -188,7 +188,7 @@ and many of those people will come to our job fair to look for new roles and pos
 
 - **Layout**: Every participant will have a six-foot table and two chairs reserved for them. We do not use booths during the Job Fair. You are welcome to have a standing banner or customized tablecloth. Giveaways/flyers are welcome, please make sure everthing fits on your alloted table.
 
-Note that the :ref:`coc` and :ref:`coc-sponsors` apply to the Job Fair as well as to the rest of the conference.
+Note that the `Code of Conduct </code-of-conduct/>`_ and :ref:`coc-sponsors` apply to the Job Fair as well as to the rest of the conference.
 
 Lanyard
 -------
@@ -227,8 +227,8 @@ Payment
 We expect all invoices to be paid **within 21 days of invoice receipt**, as many
 of our expenses must be paid up front.
 
-.. _ticket: https://ti.to/writethedocs/write-the-docs-portland-2018/
-.. _tickets: https://ti.to/writethedocs/write-the-docs-portland-2018/
+.. _ticket: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
+.. _tickets: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
 
 Frequently Asked Questions
 ==========================

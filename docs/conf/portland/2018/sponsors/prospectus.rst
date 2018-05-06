@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: {{year}}/generic.html
 :banner: _static/2018/assets/headers/group.png
 
 Sponsorship Prospectus
@@ -101,6 +101,8 @@ You can buy it directly on our ticket website.
 Second Draft
 ------------
 
+**One left**
+
 The **Second Draft** package is great for companies looking to hire or promote a product.
 
 - Two (2) tickets_
@@ -114,6 +116,8 @@ The **Second Draft** package costs **$1,500**.
 
 Publisher
 ---------
+
+**Sold out**
 
 The **Publisher** package is great for sending a team and getting to know the community.
 
@@ -133,7 +137,7 @@ The **Publisher** package costs **$4,000**.
 Patron
 ------
 
-Limit 2 (**One remaining**)
+Limit 2 (**Sold out**)
 
 The **Patron** package highlights your company as a force in the industry and community:
 
@@ -151,7 +155,7 @@ The **Patron** package costs **$8,000**.
 Keystone
 --------
 
-Limit 1 (**Sold Out**)
+Limit 1 (**Sold out**)
 
 The **Keystone** package highlights you as our main community partner:
 
@@ -186,11 +190,11 @@ and many of those people will come to our job fair to look for new roles and pos
 
 **$1,000** (a la carte price, also included or discounted with other sponsorship packages)
 
-- **Logistics**: The Job Fair will be Tuesday morning in Lola's Room. It will run from 9am-11:30pm. You can set up from 8am.
+- **Logistics**: The Job Fair will be Tuesday morning in Lola's Room. It will run from 9:30am-11:30pm. You can set up from 8:30am.
 
-- **Layout**: Every participant will have a six-foot table and two chairs reserved for them. We do not use booths during the Job Fair. You are welcome to have a standing banner or customized tablecloth. Giveaways/flyers are welcome, please make sure everthing fits on your alloted table.
+- **Layout**: Every company participating in the Job Fair will have a six-foot table and two chairs reserved for them. We do not use booths during the Job Fair. Giveaways/flyers are welcome, but please make sure everthing fits on your alloted table.
 
-Note that the :ref:`coc` and :ref:`coc-sponsors` apply to the Job Fair as well as to the rest of the conference.
+Note that the `Code of Conduct </code-of-conduct/>`_ and :ref:`coc-sponsors` apply to the Job Fair as well as to the rest of the conference.
 
 Lanyard
 -------
@@ -223,30 +227,63 @@ Please direct all inquiries to our sponsorship team at:
 
 - sponsorship@writethedocs.org
 
-Payment
-=======
-
-We expect all invoices to be paid **within 21 days of invoice receipt**, as many
-of our expenses must be paid up front.
-
 .. _ticket: https://ti.to/writethedocs/write-the-docs-portland-2018/
 .. _tickets: https://ti.to/writethedocs/write-the-docs-portland-2018/
 
-Frequently Asked Questions
-==========================
+Run of Show
+===========
+
+A quick overview of the spaces:
+
+* The *main ballroom* is where talks and most sponsorship activity happens. We will have booths & swag tables set up at the back of the main ballroom. Here is a `picture from last year <https://www.flickr.com/photos/writethedocs/34495135662>`_ before the attendees showed up.
+* *Lola's Room* is downstairs from the main ballroom. This is where the Unconference & Job Fair will happen. Another `picture <https://www.flickr.com/photos/writethedocs/34536045142/in/album-72157683817839465/>`_ shows the idea.
+
+An overview of the conference schedule:
+
+* The Writing Day is on Sunday, in the main ballroom. You are welcome to run a documentation sprint here if your documentation is open source.
+* The main conference & sponsorship days are on Monday & Tuesday in the main ballroom.
+* The Job Fair happens Tuesday morning, in Lola's Room.
+
+How do I get the most out of my sponsorship?
+--------------------------------------------
+
+Come prepared to engage with our community, and to learn just as much as you teach. Engage with our event as attendees as well as sponsors. Send technical staff who can chat with people on the interesting things your company is doing, and get value from the vast amount of insight in the room. We do have some decision makers in the room, but soft sells will work better than hard sales in the environment we strive for.
+
+Who is my primary contact?
+--------------------------
+
+Eric Holscher will be your primary contact, but our team is available at sponsorship@writethedocs.org. If you have a time sensitive inquiry, please email the entire team to ensure a timely response.
+
+What are the dates that sponsors need to know about in advance?
+------------------------------------------------------------------
+
+* **SUNDAY**: The swag tables are available during the Writing Day, if you want to put out swag items early. Sponsor booths are available for setup on Sunday from 10am-4pm, but don't need people in them yet.
+
+* **MONDAY**: Doors open at 8am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the conference, when sponsors tables will need to be staffed. The conference will run until around 5pm.
+
+* **TUESDAY**: The Job Fair will be from 9:30-11:30am, set up will be at 8:30am. Sponsor tear down in the main hall will be 4pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening.
+
+How do I use get my free tickets?
+---------------------------------
+
+You should have recieved a unique URL with a discount code for your free sponsorship tickets. We are happy to send it over again, just ask!
+
+What do I need for the job fair?
+--------------------------------
+
+The job fair will be a low key event. Every participant will have a six-foot table and two chairs, in a seperate room from the primary conference. Giveaways/flyers are welcome, but please keep your setup requirements simple.
+
+What happens with my swag items?
+--------------------------------
+
+We will have a few "swag tables" that are placed around the back of the main ballroom. This will be where sponsor and community stickers & swag will be located, so that attendees are free to pick it up. If you have a booth, you are also welcome to place swag on the booth.
 
 What are the table sizes? What is included?
 -------------------------------------------
 
 The small sponsorship table is a 6' table, and the large is two 6' tables. These are not standard conference expo halls, but in the main conference venue, so please don't bring anything that will need to be hung or expand more than 2 feet beyond the edge of your area. Wifi & Power will be provided.
 
-What are the dates that sponsors need to know about?
-----------------------------------------------------
+How do I ship items?
+--------------------
 
-* PRIOR: Two weeks prior to the event, you are able to start shipping items for the conference. Please inquire about the address to ship things to.
-
-* SUNDAY: Sponsor setup will be available on Sunday from 10am-4pm. Please contact us to coordinate a time to make sure that we're available to assist you when you arrive.
-
-* MONDAY: Doors will open at 8am, so we recommend arriving at this time to get the most visibility with attendees. This is the official start of the conference, when sponsors tables will need to be staffed. The conference will run until around 5pm
-
-* TUESDAY: Tear down will be 3pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening. We'll also be having a local meetup social and conference after party at New Relic that evening, which you're also welcome to come to.
+Prior to the event, if you'd like to ship swag, we will send you the mailing address **3 weeks** prior to the event. We can't recieve packages before that. Anything sent to us will be available at the venue on the day of the event.

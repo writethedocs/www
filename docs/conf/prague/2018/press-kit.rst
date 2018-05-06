@@ -1,4 +1,4 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: {{year}}/generic.html
 
 Press Kit
 =========
@@ -15,8 +15,8 @@ Use these unedited, or tweak them as needed!
 .. raw:: html
 
   <ul>
-    <li>I&#39;m attending writethedocs in Portland, 6-8 May 2018 to discuss all things documentation. <br><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="I&#39;m attending writethedocs in Portland, 6-8 May 2018 to discuss all things documentation." data-url="http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/" data-hashtags="writethedocs" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
-    <li>Join writers, programmers, librarians, scientists, developer advocates. and support humans at #writethedocs in Portland, 6-8 May 2018 to discuss all things documentation. <br><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Join writers, programmers, librarians, scientists, developer advocates. and support humans at #writethedocs in Portland, 6-8 May 2018 to discuss all things documentation." data-url="http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/" data-hashtags="writethedocs" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
+    <li>I&#39;m attending Write the Docs {{date.main }} to discuss all things documentation. <br><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="I&#39;m attending Write the Docs {{date.main }} to discuss all things documentation." data-url="http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/" data-hashtags="writethedocs" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
+    <li>Join writers, programmers, librarians, scientists, developer advocates. and support humans at #writethedocs in {{ date.main }} to discuss all things documentation. <br><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Join writers, programmers, librarians, scientists, developer advocates. and support humans at #writethedocs in {{ date.main }} to discuss all things documentation." data-url="http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/" data-hashtags="writethedocs" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
   </ul>
 
 Good things people have said about us

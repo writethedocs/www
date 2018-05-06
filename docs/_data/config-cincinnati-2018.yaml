@@ -1,0 +1,88 @@
+name: Cincinnati
+shortcode: cincinnati # prague australia?
+templatecode: cin # HACK
+titocode: cincinnati-openhelp # We used a different code on Tito
+year: 2018
+city: Cincinnati
+local_area: Ohio
+area: North America # European Australian
+area_adj: North American
+
+tz: EST
+email: cincinnati@writethedocs.org
+
+cobrand:
+  brand: Open Help
+  brand_html: Open<br>Help
+  logo: openhelp.svg
+
+photos:
+  default: _static/2018/assets/headers/union-hall.png
+
+tickets:
+  corporate:
+    price: $140
+  independent:
+    price: $80
+  student:
+    price: $50
+
+sponsorship:
+  second_draft:
+    price: $500
+  publisher:
+    price: $1500
+
+date: # how do we handle these? human readable would be nice.
+  main: "**August 18-22, 2018, in Cincinnati, Ohio**"
+  short: Aug 18-22, 2018
+  tickets_live: "May 2018"
+  month: August
+  day_one:
+    event: Talks
+    date: Aug 18
+    summary: Talks on all things documentation. We’ll have a variety of speakers on the stage sharing their experience and knowledge. <a href="/conf/cincinnati/2018/cfp/">Submit a talk today!</a>
+    icon: conference
+    dotw: Saturday
+  day_two:
+    event: Discussions
+    date: Aug 19
+    summary: <a href="/conf/cincinnati/2018/unconference/">Unconference</a> discussion and open space. Share ideas and discuss problems with others from the documentation community. Anyone can suggest and lead a session on any topic.
+    icon: conversation
+    dotw: Sunday
+  day_three:
+    event: Sprints
+    date: Aug 20-22
+    summary: <a href="/conf/cincinnati/2018/sprints/">Documentation sprints</a> and writing days. Get together with other documentarians to work on your docs and learn some new skills. Don't have a team to bring to the sprints? Join us anyway--get involved with an open source project and learn from the people who are pioneering documentation sprints.
+    icon: writing
+    dotw: Monday - Wednesday
+
+about:
+  summary:
+    "The main presentation track takes place on August 18 from 9:00 to 5:00**.
+    Sunday will be an :doc:`/conf/cincinnati/2018/unconference`.
+    Monday-Wednesday will be Sprints.
+
+    You can find out more information about the venue and its accessibility on our :doc:`/conf/cincinnati/2018/venue` page."
+  venue:
+    Union Hall
+  attendees: 75-100
+  mainroom:
+    Main Room
+  unconfroom:
+    Unconference Room
+
+cfp:
+  url: https://goo.gl/forms/YWiReuKvVEa86oON2
+  ends: June 18, 2018
+  notification: June 31, 2018
+
+job_fair:
+  location: Unconference Room
+
+flaglanding: False
+flagcfp: True
+flagticketsonsale: True
+flagspeakersannounced: False
+flaghashike: False
+flaghasboat: False

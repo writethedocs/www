@@ -1,9 +1,9 @@
-:template: {{year}}/{{templatecode}}/generic.html
+:template: {{year}}/generic.html
 
 {% if shortcode == 'prague'%}
 :banner: _static/2018/assets/headers/group.png
 
-Write the Docs Boat Tour
+Write the Docs Boat Ride
 ========================
 
 .. include:: /include/conf/prague/boat.rst

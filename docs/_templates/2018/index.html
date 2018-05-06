@@ -1,0 +1,181 @@
+{% extends "2018/base.html" %}
+
+{% block full_title %}
+Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ cobrand.brand }} {% endif %} {{ year }}
+{% endblock %}
+
+{% block head_link %}
+<style>
+.page-content h1 {
+    display: none;
+}
+</style>
+{% endblock %}
+
+{% block container %}
+<div class="hero" style="background-image: url({{ pathto(meta['banner'], 1) }}); {%- if cobrand is defined %} height: 600px; {% endif %}">
+    <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18">
+      <div class="uk-navbar-right">
+        <button class="uk-navbar-toggle uk-hidden@s"  type="button" uk-navbar-toggle-icon uk-toggle="target: #offcanvas-nav"></button>
+        <div id="offcanvas-nav" uk-offcanvas="overlay: true">
+            <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+                    <div class="menu-logo">
+                            Write<br>
+                            the<br>
+                            Docs<br>
+                            {% if cobrand is defined and cobrand %}
+                            <em>+</em>
+                            {{ cobrand.brand_html }}
+                            {% endif %}
+                            <em>{{ name }}</em>
+                        </div>
+                      {% if not flaglanding %}
+                     {% include "2018/" + templatecode + "/menu-mobile.html" %}
+                     {% endif %}
+            </div>
+        </div>
+       {% if not flaglanding %}
+       {% include "2018/" + templatecode + "/menu-desktop.html" %}
+       {% endif %}
+      </div>
+    </nav>
+
+    <div class="hero-content uk-container">
+      <div class="logo-container">
+        <a class="hero-logo">
+          Write<br/>
+          the<br/>
+          Docs<br/>
+          {% if cobrand is defined and cobrand %}
+          <em>+</em>
+          {{ cobrand.brand_html }}
+          {% endif %}
+          <em>{{ name }}</em>
+        </a>
+      </div>
+      <div class="hero-text">
+        <p>The conference focused on all things related to software documentation.</p>
+        <p>
+          <b>
+            {{ city }}, {{ local_area }}<br>
+            {{ date.short }}
+          </b>
+        </p>
+
+        <div class="ctas-block">
+         {% if flagticketsonsale %}
+
+         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/tickets') }}">Buy a Ticket!</a>
+
+         {% endif %}
+
+         {% if flagcfp %}
+
+         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/cfp') }}">Submit a Talk</a>
+
+         {% endif %}
+
+         {% if flagspeakersannounced %}
+
+         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/speakers') }}">See the talks!</a>
+
+         {% endif %}
+
+        </div>
+      </div>
+    </div>
+  </div><!-- end hero -->
+
+  <div class="announcement">
+    <div class="uk-container">
+      <p style="vertical-align: middle;">Want to receive conference and community updates?</p>
+      <a class="uk-button uk-button-announcement" href="{{ pathto('/newsletter') }}">Join our Mailing List</a>
+    </div>
+  </div><!--- end announcement -->
+
+  <div class="about">
+    <div class="uk-container">
+
+      <div class="about-content">
+        <h2>What is Write the Docs?</h2>
+        <p>
+          Write the Docs brings everyone who writes the docs together in the same room: Programmers, Tech Writers, Support, Designers, Developer Advocates, and more. We all have things to learn from each other, and there’s no better way than sitting together and talking.
+        </p>
+        <p>
+          We invite you to join {{ about.attendees }} other folks in our event to explore the art and science of documentation.
+        </p>
+
+        {% if cobrand is defined %}
+        <h2>What is Open Help?</h2>
+        <p>
+          The Open Help Conference features two days of presentations and open discussions. In true open source spirit, our discussions and agenda are led by our attendees, allowing you to learn and share what matters to you most. With some of the most interesting people in the industry, the Open Help Conference showcases the ideas that are shaping the future of help.
+      </p>
+
+        <h2>What is this event?</h2>
+        <p>
+          This event combines the two communities and conferences. We will have one day of Write the Docs-style talks, followed by one day of combined Write the Docs and Open Help discussions. Then we'll have an Open Help-style three-day documentation sprint.
+        </p>
+        {% endif %}
+
+      </div>
+
+      <div class="picture-set">
+        <div data-aos="pictrue-03" data-aos-once="true">
+        <img src="{{ pathto('_static/2018/assets/images/pics/pictrue-03.jpg', 1) }}">
+        </div>
+        <div data-aos="pictrue-02" data-aos-once="true">
+        <img src="{{ pathto('_static/2018/assets/images/pics/pictrue-02.jpg', 1) }}">
+        </div>
+        <div data-aos="pictrue-01" data-aos-once="true">
+        <img src="{{ pathto('_static/2018/assets/images/pics/pictrue-01.jpg', 1) }}">
+        </div>
+      </div>
+    </div>
+  </div><!-- end about -->
+
+  <div class="schedule-overview">
+    <div class="uk-container" uk-grid>
+      <h2>Schedule Overview</h2>
+      <div class="schedule-item uk-width-1-3@s">
+        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/' + date.day_one.icon + '-green.svg', 1) }}">
+        <h3>{{ date.day_one.event }} </h3>
+        <em>{{ date.day_one.date }} </em>
+        <p>{{ date.day_one.summary }} </p>
+      </div>
+
+      {% if date.day_two is defined %}
+      <div class="schedule-item uk-width-1-3@s">
+        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/' + date.day_two.icon + '-green.svg', 1) }}">
+        <h3>{{ date.day_two.event }} </h3>
+        <em>{{ date.day_two.date }} </em>
+        <p>{{ date.day_two.summary }} </p>
+      </div>
+      {% endif %}
+
+      {% if date.day_three is defined %}
+      <div class="schedule-item uk-width-1-3@s">
+        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/' + date.day_three.icon + '-green.svg', 1) }}">
+        <h3>{{ date.day_three.event }} </h3>
+        <em>{{ date.day_three.date }} </em>
+        <p>{{ date.day_three.summary }} </p>
+      </div>
+      {% endif %}
+
+      {% if flagspeakersannounced %}
+
+      <div class="learn-more">
+        <a class="uk-align-right" href="{{ pathto('conf/' + shortcode + '/2018/schedule') }}">See the Full Schedule</a>
+      </div>
+
+      {% endif %}
+
+    </div>
+  </div><!-- end schedule overview -->
+
+  {% if body %}
+    {% block body %}
+      {{ body }}
+    {% endblock body %}
+  {% endif %}
+
+{% endblock container %}

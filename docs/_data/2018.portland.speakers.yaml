@@ -96,17 +96,18 @@
 - abstract: "<p>These core principles have guided me during my (almost) two decades in the business. I'll share some real-world stories to show what kind of results you can expect.</p>
 <p>The tips:<ul>
 <li>Just ask.</li>
-<li>Listen.</li>
-<li>Tell stories.</li>
-<li>Own your stuff.</li>
-<li>Minimum content.</li>
+<li>Listen for intent.</li>
+<li>Create the minimum thing.</li>
+<li>Cultivate ownership, individual and product.</li>
 <li>Be a lifelong learner.</li>
+<li>Opt in.</li>
+<li>Use the power of storytelling.</li>
 <p>There might even be a surprise bonus tip.</p>"
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/eight-essential-tips-for-the-enlightened-tech-writer-ted-hudek
+  path: conf/portland/2018/videos/7-essential-tips-for-the-enlightened-tech-writer-ted-hudek
   series: Write the Docs PORTLAND
   series_slug: portland
-  slug: eight-essential-tips-for-the-enlightened-tech-writer-ted-hudek
+  slug: 7-essential-tips-for-the-enlightened-tech-writer-ted-hudek
   speakers:
   - details: ''
     img_file: ted-hudek.jpg
@@ -114,7 +115,7 @@
     slug: ted-hudek
     twitter: tedhudek
     website: https://threemilesup.wordpress.com/
-  title: Six Essential Tips for the Enlightened Tech Writer
+  title: 7 Essential Tips for the Enlightened Tech Writer
   year: 2018
 - abstract: "<p>Thorough and optimal technical documentation often requires not just\
     \ an API reference of endpoints and parameters, or long contextual instructions,\
@@ -144,26 +145,9 @@
     website: larryullman.com
   title: Making Your Code Examples Shine
   year: 2018
-- abstract: "<p>I\u2019d like to talk about the role of an editor and the art of enabling\
-    \ humans to create, publish and present technical content in a variety of media.\
-    \ Primarily blog content. Mostly text. Not documentation. Sometimes it\u2019s\
-    \ a mighty fine line, but I think we can and should differentiate.</p>\n<p>I manage\
-    \ the editorial workflow of Mozilla Hacks, a blog with tens of thousands of weekly\
-    \ readers, that aims for a cadence of 1-3 posts per week and aspires to grow the\
-    \ reach and influence of Mozilla and Firefox. We cover web development for an\
-    \ audience of designers, developers and people who make websites. Our focus is\
-    \ pragmatic. Sometimes our goal is to announce, inform, explain - here are some\
-    \ of our fave new features, here\u2019s how to use them in your work, here's why\
-    \ you should care. Sometimes we really want the reader to take a specific action,\
-    \ or try something and share feedback.</p>\n<p>This talk will explore the principles\
-    \ of kind, effective editorial practice, and the nuances and attributes of voice,\
-    \ civility, and clear communication, as they play out when working with a diverse\
-    \ distributed base of writers, many of whom are non-native English speakers and\
-    \ inexperienced writers or storytellers. </p>\n<p>I believe there's as much need\
-    \ for diversity of voice and point of view in blogging about software development\
-    \ as there is in speaking about it at developer conferences. And I've got some\
-    \ observations to share about how we can cultivate many voices to amplify the\
-    \ value and effectiveness of all our technical communications. </p>"
+- abstract: "<p>I’d like to talk about the role of an editor and the art of enabling humans to create, publish and present technical content in a variety of media. Primarily in text, in the context of a blog or other ‘managed’ calendar-driven web publications. Not technical documentation. Sometimes it’s a mighty fine line between docs and blogs, but I think we can and should differentiate.</p>
+<p>This talk will explore principles and patterns of kind, effective editorial practice, and nuances of voice, civility, and clear communication, as they play out when working with a diverse distributed roster of authors, many of whom are non-native English speakers or first-time storytellers.</p>
+<p>I believe there’s as much appetite for diversity of voice and point of view in blogging about software development as there is in speaking about it at developer conferences. And I’ve got some observations to share about how we can cultivate that.</p>"
   event: Write the Docs PORTLAND 2018
   path: conf/portland/2018/videos/not-the-docs-shepherding-a-developer-blog-of-many-voices-across-many-timezones-havi-hoffman
   series: Write the Docs PORTLAND
@@ -171,12 +155,12 @@
   slug: not-the-docs-shepherding-a-developer-blog-of-many-voices-across-many-timezones-havi-hoffman
   speakers:
   - details: ''
-    img_file: missing.jpg
+    img_file: havi-hoffman.jpg
     name: Havi Hoffman
     slug: havi-hoffman
     twitter: freshelectrons
     website: https://medium.com/@freshelectrons
-  title: 'Not the docs: Shepherding a developer blog of many voices across many timezones'
+  title: 'Not the Docs: content and voice on a developer blog'
   year: 2018
 - abstract: "<p>In the wider tech writer world, it\u2019s still common to hear tech\
     \ writers be certain that developers can\u2019t write good help: the prevailing\

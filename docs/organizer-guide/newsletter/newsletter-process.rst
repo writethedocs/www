@@ -48,8 +48,6 @@ Allow 1-2 days for folks to review and leave comments. (Not *everyone* has to re
 
 Resolve all comments, and then when you're ready to send it, merge your Pull Request (which will take it live on the WTD site).
 
-
-****************************************************
 Ship the newsletter (no days before shipping)
 ****************************************************
 
@@ -62,14 +60,12 @@ Once you've finalized the newsletter in GitHub, you'll use MailChimp to send it 
 #. On the 'Recipient' screen, select **Saved or pre-built segment**, and then **Newletter folks**.
 #. Click **Next**.
 #. On the next screen fill the form out as follows:
-
-  * **Email Subject**: Write the Docs Newsletter - [MONTH - YEAR]
-  * **Preview  Text**: First two sentences of the newsletter (ish – whatever makes a nice intro).
-  * **From name**: Write the Docs
-  * **From email**: newsletter@writethedocs.org
-  * **Campaign URL**: edit the end of the URL to reflect the current month and year
-  * Leave **Track Opens** and **Track Clicks** checked.
-
+   * **Email Subject**: Write the Docs Newsletter - [MONTH - YEAR]
+   * **Preview  Text**: First two sentences of the newsletter (ish – whatever makes a nice intro).
+   * **From name**: Write the Docs
+   * **From email**: newsletter@writethedocs.org
+   * **Campaign URL**: edit the end of the URL to reflect the current month and year
+   * Leave **Track Opens** and **Track Clicks** checked.
 #. Click **Next** button.
 #. Select the 'WTD Newsletter 2017' template.
 #. Click the **Next** button.
