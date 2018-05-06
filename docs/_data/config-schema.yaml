@@ -1,0 +1,92 @@
+name: str()
+
+shortcode: str()
+templatecode: str()
+year: int()
+city: str()
+local_area: str() 
+area: str()
+area_adj: str()
+tz: str()
+email: str()
+
+photos: include ('photo-default')
+
+tickets: include('ticket-details')
+
+sponsorship: include('sponsorship-details')
+
+date: include('date-details')
+
+about: include('about-details')
+
+cfp: include('cfp-details')
+
+job_fair: include('job-fair-details')
+
+flaghassponsors: bool()
+flagcfp: bool()
+flagticketsonsale: bool()
+flagspeakersannounced: bool()
+
+flaghashike: bool()
+flaghasboat: bool()
+flaglanding: bool()
+
+---
+photo-default:
+  default: str()
+---
+ticket-details:
+  community: include('price')
+  corporate: include('price')
+  independent: include('price')
+  student: include('price')
+---
+price: str()
+---
+job-fair-price:
+    price: str()
+    half: str()
+---
+date-details:
+  main: str()
+  short: str()
+  tickets_live: str()
+  month: str()
+  day_one: include('day-details', required=False)
+  day_two: include('day-details', required=False)
+  day_three: include('day-details', required=False)
+  day_four: include('day-details', required=False)
+--- 
+day-details:
+    event: str()
+    date: str()
+    summary: str()
+    icon: str()
+    dotw: str()
+---
+  sponsorship-details:
+    first_draft: include('price')
+    second_draft: include('price')
+    publisher: include('price')
+    patron: include('price')
+    keystone: include('price')
+    job_fair: include('job-fair-price')
+    lanyard: include('price')
+    writing_day: include('price')
+---
+about-details:
+  summary: str()
+  venue: str()
+  attendees: int()
+  mainroom: str()
+  unconfroom: str()
+---
+cfp-details:
+  url: str()
+  ends: str()
+  notification: str()
+---
+job-fair-details: 
+  location: str()
