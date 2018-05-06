@@ -228,3 +228,22 @@
           </div>
         </div>
       </div>
+      
+     <!-- Write-ups from the Community -->
+              <section class="section">
+              <div class="row">
+                  <div class="col-xs-12">
+                    <div class="section__header subheader">
+                      <span class="subheader__yellow"></span>
+                      <h2 class="subheader__header">Write-Ups from the Community</h2>
+          <br />
+                <ul>
+                  <li><a href="https://www.k15t.com/blog/2017/09/4-insights-gained-at-write-the-docs-prague-2017">Four Insights Gained at Write the Docs Prague, 2017</a></li>
+                  <li><a href="https://zerokspot.com/weblog/2017/09/27/write-the-docs-prague/">Zerokspot: Write the Docs Prague, 2017</a></li>
+      <li><a href="https://www.knowledgeowl.com/home/write-the-docs-prague-conference-2017">Knowledgeowl: Write the Docs Prague, 2017</a></li>
+      <li><a href="https://informaze.wordpress.com/2017/11/08/write-the-docs-2017-highlights/"</a>Informaze: Write the Docs 2017 Highlights</li>
+                </ul>
+              </div>
+             </div>
+            </div>
+          </section>
