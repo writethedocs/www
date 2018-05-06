@@ -60,6 +60,12 @@ Alicia Duncan
 
 .. include:: /include/bios/alicia.rst
 
+Nikolas Blanchet
+~~~~~~~~~~~~~~~~
+
+..include:: /include/bios/nikolas.rst
+
+
 Primary Roles
 -------------
 
@@ -80,6 +86,7 @@ Filled Roles
 * **Welcome Wagon coordinators** - Christy Lutz
 * **Hike coordinator** - Eric Holscher
 * **Explore Portland coordinators** - Mo Nishiyama and Alicia Duncan
+* **Emcee** - Nikolas Blanchet
 
 Organizers Needed
 ~~~~~~~~~~~~~~~~~
@@ -88,4 +95,4 @@ Organizers Needed
 * **Workshop coordinator** - TBA
 * **Job Fair coordinator** - TBA
 * **Social media chair** - TBA
-* **Emcee** - TBA
+
