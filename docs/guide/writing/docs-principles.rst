@@ -201,9 +201,9 @@ Consistent
 
 The more content editors you have, the more important a `style guide`_
 becomes in facilitating consistency. Consistency also helps make documentation
-`skimmable <#skimmable>`__ and `beautiful <#beautiful>`__
+`skimmable <#skimmable>`__ and `beautiful <#beautiful>`__.
 
-.. _style guide: https://en.wikipedia.org/wiki/Style_guide
+.. _style guide: http://www.writethedocs.org/guide/writing/style-guides/
 
 Current
 ~~~~~~~

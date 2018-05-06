@@ -36,9 +36,9 @@ Writing Great Documentation
 
    writing/docs-principles
    docs-as-code
+   writing/style-guides
 
 * Structuring your Documentation
-* Style Guides
 
 Documentation Culture at your Company
 -------------------------------------
@@ -46,10 +46,10 @@ Documentation Culture at your Company
 .. toctree::
    :maxdepth: 2
 
-   Engineering Organizations <writing/mindshare>
+   writing/mindshare
+   Producing documentation inside a Support team <writing/support-team>
 
 * Integrating Tech Writers into the product process
-* Producing documentation inside a Support team
 
 Inspiration
 -----------
@@ -59,15 +59,16 @@ This gets us fired up.
 Check out these resources that we get inspired by:
 
 * https://github.com/PharkMillups/beautiful-docs
-* https://github.com/showcases/projects-with-great-wikis
 * Your link here
 
 Markup Languages
 ----------------
 
-* Markdown
-    * Cheatsheet
-    * Tutorial
+.. toctree::
+   :maxdepth: 2
+
+   writing/Markdown_basics
+
 * Asciidoc
     * Cheatsheet
     * Tutorial

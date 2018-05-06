@@ -1,0 +1,10 @@
+- Time: '8:30'
+  Session: Doors Open, Breakfast Served
+- Time: '9:00'
+  Session: 'Workshop begins: Learn how to Git'
+- Time: '12:30'
+  Session: 'Workshop ends: Learn how to Git. Lunch Break'
+- Time: '13:30'
+  Session: 'Workshop begins: Structuring and writing documentation'
+- Time: '17:00'
+  Session: 'Workshop ends: Structuring and writing documentation'

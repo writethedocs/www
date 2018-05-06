@@ -20,22 +20,24 @@ You can `join our Slack <http://slack.writethedocs.org/>`_ if you aren't already
 Default channels
 ----------------
 
-Everyone who joins the Slack will be added to these channels
+Everyone who joins the Slack will be added to these channels:
 
-* **#general** - The main channel for documentation related conversation and questions
+* **#general** - The main channel for documentation related conversation and questions.
 * **#watercooler** - For talking about things that are off-topic. Get to know folks other interests that aren't around documentation :)
-* **#jobs** - Posting or asking for jobs
-* **#conferences** - Questions and other thoughts around the :doc:`/conf/index`
-* **#meetups** - Questions and other thoughts about our :doc:`/meetups/index`
+* **#jobs** - Posting or asking for jobs.
+* **#wtd-conferences** - Questions and other thoughts around the :doc:`/conf/index`.
+* **#meetups** - Questions and other thoughts about our :doc:`/meetups/index`.
+* **#intros** - Introduce yourself! Let people know you're here, and why you care about docs :)
 
 Other useful topical channels
 -----------------------------
 
+* **#career-advice** - Should you take that job? Am I being paid enough? Ask here!
 * **#markup-the-docs** - Talk about markup languages. Markdown, rST, Asciidoc, etc.
 * **#documenting-apis** - Talk about REST API's. Swagger, Apiary, API Blueprint, and other API doc tools.
-* **#sphinx** - Talk about the Sphinx documentation generation tool
-* **#flare** - Talk about the Flare documentation toolkit
-* **#confluence** - Talk about everyone's favorite Wiki 
+* **#sphinx** - Talk about the Sphinx documentation generation tool.
+* **#flare** - Talk about the Flare documentation toolkit.
+* **#confluence** - Talk about everyone's favorite Wiki.
 
 Location-based channels
 -----------------------
@@ -49,24 +51,22 @@ Social Rules
 ------------
 
 Our goal with Write the Docs is to be **the most welcoming community on the internet**.
-Documentarians tend to be empathetic people,
-this means that we should be good at communicating well.
-People who are new to our community in particular should be assisted and welcoming.
+Documentarians tend to be empathetic people, which means that we should be good at communicating well.
+People who are new to our community in particular should be assisted and welcomed.
 
-We have a few guidelines that we hope people will follow when interacting inside out Slack network:
+We have a few guidelines that we hope people will follow when interacting inside our Slack network:
 
 - **Only participate when you can be constructive** - Just because you can make a comment, doesn't mean you should. Try and be constructive in all that you do.
-- **Say hi** - The world is a better place with a flood of hello's instead of a dearth of greetings.
-- **Don't be snarky** - We are all trying the best we can
+- **Say hi** - The world is a better place with a flood of hello's.
+- **Don't be snarky** - We are all trying the best we can.
 - **Be careful with jokes** - You know that you're joking, but some people might take you seriously.
-- **If you don't have anything nice to say, don't say anything at all** - Once again our parents were quite sage.
+- **If you don't have anything nice to say, don't say anything at all** - Once again our parents were quite wise.
 
-Programmer Community Issues
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Online Community Issues
+~~~~~~~~~~~~~~~~~~~~~~~
 
-There is a specific set of behavior that is prevalent in developer communities that I'd like to address.
-There is a lot of cross-over,
-and I'd like to make sure we don't fall into these same traps.
+There is a specific set of behavior that is prevalent in online communities that I'd like to address.
+I'd like to make sure we don't fall into these same traps.
 
 In particular,
 please avoid these behaviors:
@@ -74,7 +74,7 @@ please avoid these behaviors:
 - **No Black Sheep** - There may be tools that you don't like. There is a good chance there is someone in the room who either helped create or likes to use that tool. Don't make them feel bad, they are likely just in a different context.
 - **Let Me Google That For You (LMGTFY)** - If people ask questions that are simple to answer on Google, still answer them nicely.
 - **Question Policing** - Some people might ask incomplete questions that are hard to answer. Ask follow up questions and act in good faith to help them solve their issues.
-- **Technology Pissing Contests** - We don't care if your tool is faster or better in some metric. We care about creating great documentation for our users.
+- **Technology Competitions** - We don't care if your tool is faster or better in some metric. We care about creating great documentation for our users.
 
 Reporting Issues
 ~~~~~~~~~~~~~~~~
@@ -88,6 +88,6 @@ you have two options:
 Credit
 ~~~~~~
 
-This concept is inspired by the `Recurse Center's Social Rules <https://www.recurse.com/manual#social-rules>`_.
+This concept is inspired by the `Recurse Center's Social Rules <https://www.recurse.com/manual#sub-sec-social-rules>`_.
 Thanks for the inspiration!
 

@@ -59,11 +59,11 @@ If you already have an idea for what you'd like to speak about, awesome! Pitch i
 Need some more examples?
 Check out our previous abstracts for some ideas:
 
-* `Portland 2016 <http://www.writethedocs.org/conf/na/2016/speakers/>`_
-* `Portland 2015 <http://www.writethedocs.org/conf/na/2015/speakers/>`_
+* `Portland 2017 <http://www.writethedocs.org/conf/na/2017/speakers/>`_
 * `Prague 2016 <http://www.writethedocs.org/conf/eu/2016/speakers/>`_
+* `Portland 2016 <http://www.writethedocs.org/conf/na/2016/speakers/>`_
 * `Prague 2015 <http://www.writethedocs.org/conf/eu/2015/speakers/>`_
-
+* `Portland 2015 <http://www.writethedocs.org/conf/na/2015/speakers/>`_
 
 Presentation format
 -------------------
@@ -72,8 +72,9 @@ Presentations will be scheduled in 30 minute blocks. We won't be doing Q&A after
 the talks, but we ask that speakers be available at the front of the stage
 for a few minutes of the break after their talk to answer questions.
 
-**NEW THIS YEAR**: We're also looking for a few speakers who'd be interested in facilitating a group discussion,
+**NEW THIS YEAR**: We're also looking for a few speakers who'd be interested in facilitating an open discussion session,
 rather than giving a formal talk, as part of this year's Unconference.
+
 For the past few years, we've held unconf sessions downstairs from the main hall. To increase folks' awareness of and interest in the unconf,
 we're looking to get a handful of pre-planned anchor sessions (also 30 minutes) to get the ball rolling.
 
@@ -83,27 +84,27 @@ an anchor session.
 Speaker benefits & logistics
 ----------------------------
 
-If you are selected to speak at Write the Docs, we will waive your attendance
-fee. We regret that we are not able to cover the cost of travel or lodging for
-all speakers at this time. By not covering travel costs for our speakers, we are
-able to keep ticket prices low and to make the conference accessible to the
-largest number of participants possible. If your proposal is accepted but you
-are unable to attend due to travel costs, please let us know and we will do our
-best to help make it happen.
-
 Speaking at Write the Docs is a fantastic way to participate in the community.
 
-Finally, you’ll hear from us with our proposal decisions by **15th June**.
+If you are selected to speak at Write the Docs, we will waive your attendance
+fee. We regret that we are not able to cover the cost of travel or lodging for
+all speakers at this time.
 
-If your Unconference session is selected,
-we won't be offering a free ticket.
-We hope to have many good conversations,
-but can't afford to offer each Unconference session leader a free ticket.
+By not covering travel costs for our speakers, we are able to keep ticket prices
+low and to make the conference accessible to the largest number of participants possible.
+
+If your proposal is accepted but you are unable to attend due to travel costs, please
+let us know and we will do our best to help make it happen.
+
+*Please note that for unconference sessions we will not be able to waive your attendance fee*.
+We hope to have many good conversations, but can't afford to offer each Unconference session leader a free ticket.
+
+You’ll hear from us with our proposal decisions by **15th June**.
 
 Questions?
 ----------
 
-If you have any questions, please email us at conf@writethedocs.org and
+If you have any questions, please email us at prague@writethedocs.org and
 let us know.
 
 Form

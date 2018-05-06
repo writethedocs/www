@@ -20,8 +20,8 @@ Schedule
 ^^^^^^^^
 
 .. datatemplate::
-   :source: /_data/eu-2017-writing-day.json
-   :template: include/schedule.rst
+   :source: /_data/eu-2017-writing-day.yaml
+   :template: include/schedule2017.rst
 
 
 Documenting a new project?

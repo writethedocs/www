@@ -1,0 +1,58 @@
+name: Australia
+
+shortcode: australia # prague australia?
+templatecode: au # HACK
+year: 2018
+city: Melbourne
+local_area: Australia
+area: Australia
+area_adj: Australian
+tz: AEST
+email: australia@writethedocs.org
+
+photos:
+  default: _static/2018/assets/images/backgrounds/writing-day.png
+
+tickets:
+  corporate:
+    price: 100
+    url: 
+  independent:
+    price: 75
+    url:
+  student:
+    price: 50
+    url:
+
+date: # how do we handle these? human readable would be nice.
+  main: "**November 15-16, 2018, in Melbourne, Australia**"
+  short: Nov 15-16, 2018
+  tickets_live: "July 2018"
+  month: November
+  sat: 
+  day_one:
+    event: Talks
+    date: Nov 15
+    summary: The primary conference day, with talks.
+    icon: conference
+  day_two:
+    event: Talks & Workshops
+    date: Nov 16
+    summary: Another day of talks, but with an included workshop and discussion time as well.
+    icon: conversation
+
+about:
+  summary:
+  location:
+
+cfp:
+  url: 
+  ends: 
+  notification: 
+
+flaglanding: True
+flagspeakersannounced: False
+flagcfp: False
+flagticketsonsale: False
+flaghashike: False
+flaghasboat: False

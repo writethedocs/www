@@ -13,7 +13,7 @@ All the content in this guide and in the `resources repository <https://github.c
 
 You should also look at the :doc:`/team` page to see more information about who is currently filling these roles.
 
-If you're interested in helping start or organize a Write the Docs conference, send us email at conf@writethedocs.org.
+If you're interested in helping start or organize a Write the Docs conference, send us email at support@writethedocs.org.
 
 Meetups
 -------
@@ -25,6 +25,17 @@ Information about the global Write the Docs :doc:`/meetups/index`.
 
    meetups/starting
    meetups/faq-meetups
+
+Newsletter
+------------
+
+The nitty-gritty about creating our hand-crafted newsletter.
+
+.. toctree::
+   :maxdepth: 2
+
+   newsletter/editorial-guidelines
+   newsletter/newsletter-process
 
 Conferences
 -----------
@@ -40,6 +51,8 @@ Information about our regional Write the Docs conferences.
    confs/cfp
    confs/communication
    confs/volunteers
+   confs/welcome-wagon
+   confs/community-events
 
 .. TODO
 

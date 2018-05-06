@@ -79,7 +79,7 @@ Projects
 
 We have some suggestions for projects that you can work on during the
 Writing Day. If you'd like to add your own project to the list, you can
-`email us <mailto:conf@writethedocs.org>`__. Better yet, `submit a pull
+`email us <mailto:portland@writethedocs.org>`__. Better yet, `submit a pull
 request <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/writing-day.rst>`__.
 
 `Write the Docs Website <http://www.writethedocs.org>`__

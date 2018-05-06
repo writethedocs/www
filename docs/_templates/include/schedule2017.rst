@@ -35,7 +35,11 @@
         <div style="color: black;" class="col-xs-10">
           <p>
 
-          {{ talk.Session }}
+          {% if talk.Slug %}
+             <a href="../speakers/#speaker-{{ talk.Slug }}">{{ talk.Session }}</a>
+          {% else %}
+            {{ talk.Session }}
+          {% endif %}
 
           </p>
         </div>

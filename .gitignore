@@ -4,4 +4,7 @@
 _build
 .env
 .tox
-venv
+venv*
+*.pyc
+node_modules
+.sass-cache

@@ -1,0 +1,16 @@
+.. raw:: html
+    <ul>
+        {% for meetup in meetups %}
+        <li>
+            <a href="{% if meetup['page'] %}{{ meetup['page'] }}{% else %}{{ meetup['website'] }}{% endif %}">
+                {% if meetup['city'] %}{{ meetup['city'] }},{% endif %}
+                {% if meetup['state'] %}{{ meetup|state_abbr }},{% endif %}
+                {{ meetup['country'] }}
+            </a>
+            {% if meetup['page'] and meetup['website'] %}(<a href="{{ meetup['website'] }}">meetup.com</a>){% endif %}
+            {% if meetup['notes'] %}
+            - {{ meetup['notes']|markdown|replace('<p>', '')|replace('</p>', '') }}
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>

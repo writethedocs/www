@@ -64,6 +64,3 @@ Sessions
 Unconference sessions will begin after lunch on the first day, and on the morning
 of the second day. We will start the unconference sessions off each day
 with some time for focus on one of several topics.
-
-Check out the `schedule <https://docs.google.com/spreadsheets/d/1LZ2MrNrQ4AWX6pwtrj08qr6dmNl9O0-kkuHxDNN3zzU/edit?usp=sharing>`__ or head
-to the unconference room to propose a topic.

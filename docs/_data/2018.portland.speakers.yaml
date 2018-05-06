@@ -1,0 +1,399 @@
+- abstract: '<p>Before becoming a full-time software developer, I spent more than
+    twenty years working on dictionaries and other reference books. Reference books
+    and dictionaries have a lot of similarities with documentation: they''re both
+    genres of writing that aim to explain and educate, and are aimed at an audience
+    that is largely goal-oriented and impatient. In this talk, I''ll give a little
+    bit of background on how reference books (particularly dictionaries and thesauruses)
+    are made, talk about my experience in publishing has informed writing documentation
+    and tutorials (and working with Swagger/OpenAPI), and give some examples of habits
+    I had to un-learn, too! </p>'
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/what-writing-dictionaries-taught-me-about-writing-documentation-and-what-i-had-to-unlearn-erin-mckean
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: what-writing-dictionaries-taught-me-about-writing-documentation-and-what-i-had-to-unlearn-erin-mckean
+  speakers:
+  - details: ''
+    img_file: erin-mckean.jpg
+    name: Erin McKean
+    slug: erin-mckean
+    twitter: emckean
+    website: erinmckean.com
+  title: What Writing Dictionaries Taught Me About Writing Documentation (And What
+    I Had to Unlearn)
+  year: 2018
+- abstract: "<p>Ah, good old FAQs: the internet\u2019s native documentation format.\
+    \ In this talk, we\u2019ll explore various questions we might frequently ask ourselves\
+    \ about FAQs, such as:</p>\n<ul>\n<li>Why do readers always seem to want them\
+    \ even though they\u2019re routinely out of date?</li>\n<li>Why do some readers\
+    \ ignore our carefully crafted pages and use these giant walls of text as a starting\
+    \ point instead?</li>\n<li>What are some strategies for keeping FAQs up to date?</li>\n\
+    <li>What\u2019s the #1 thing FAQs do RIGHT?</li>\n<li>How can we make FAQs more\
+    \ user-friendly?</li>\n<li>Do we even actually need FAQs?</li>\n</ul>\n<p>(Caution:\
+    \ May contain opinions.)</p>"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/the-facts-about-faqs-ashleigh-rentz
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: the-facts-about-faqs-ashleigh-rentz
+  speakers:
+  - details: ''
+    img_file: ashleigh-rentz.jpg
+    name: Ashleigh Rentz
+    slug: ashleigh-rentz
+    twitter: technicalleigh
+    website: ''
+  title: The Facts About FAQs
+  year: 2018
+- abstract: "<p>Our team has the classic documentation problem--a huge backlog of\
+    \ work and not enough writers. Enter the documentation internship program, which\
+    \ connected us with junior and aspiring technical writers and got us headcount\
+    \ fast.</p>\n<p>This talk will teach you how we recruited, interviewed, and hired\
+    \ inexperienced writers, and taught them the basics of technical writing\u2026\
+    \ all without damaging our velocity. </p>\n<p>I\u2019ll focus specifically on\
+    \ how our job pitch got us applicants from a wide array of backgrounds, from screenwriters\
+    \ to college students, how we made sense of the answers we got through an unpredictable\
+    \ set of interviews, and how we onboarded writers with strong skills and aptitude,\
+    \ but no real-world experience.</p>"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/starting-from-scratch-finding-and-hiring-junior-writers-sarah-day
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: starting-from-scratch-finding-and-hiring-junior-writers-sarah-day
+  speakers:
+  - details: ''
+    img_file: sarah-day.jpg
+    name: Sarah Day
+    slug: sarah-day
+    twitter: scribblingfox
+    website: ''
+  title: 'Starting from Scratch: Finding and Hiring Junior Writers'
+  year: 2018
+- abstract: "<p>API documentation can been grouped into four classes\u2014Overviews,\
+    \ Tutorials, How-to topics, and References. Each addresses a different customer\
+    \ need and each requires different amounts of time and types of resources to produce.\
+    \ However, what happens on that fateful day you find that you have more documentation\
+    \ to write than time will allow? (As a technical writer, I call those weekdays).\
+    \ How can you prioritize which documentation type and how much of it should be\
+    \ written and which topics to write first?</p>\n<p>This talk provides guidance\
+    \ and encouragement to technical writers to help them get the information they\
+    \ need to strategically get the right docs to the right people at the right time\u2014\
+    and learn a little bit more about their stakeholders along the way.</p>\n"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/audience-market-product-tips-for-strategic-api-documentation-planning-bob-watson
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: audience-market-product-tips-for-strategic-api-documentation-planning-bob-watson
+  speakers:
+  - details: ''
+    img_file: bob-watson.jpg
+    name: Bob Watson
+    slug: bob-watson
+    twitter: bobwatsonphd
+    website: http://docsbydesign.com/
+  title: 'Audience, Market, Product: Tips for strategic API documentation planning'
+  year: 2018
+- abstract: "<p>These core principles have guided me during my (almost) two decades in the business. I'll share some real-world stories to show what kind of results you can expect.</p>
+<p>The tips:<ul>
+<li>Just ask.</li>
+<li>Listen for intent.</li>
+<li>Create the minimum thing.</li>
+<li>Cultivate ownership, individual and product.</li>
+<li>Be a lifelong learner.</li>
+<li>Opt in.</li>
+<li>Use the power of storytelling.</li>
+<p>There might even be a surprise bonus tip.</p>"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/7-essential-tips-for-the-enlightened-tech-writer-ted-hudek
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: 7-essential-tips-for-the-enlightened-tech-writer-ted-hudek
+  speakers:
+  - details: ''
+    img_file: ted-hudek.jpg
+    name: Ted Hudek
+    slug: ted-hudek
+    twitter: tedhudek
+    website: https://threemilesup.wordpress.com/
+  title: 7 Essential Tips for the Enlightened Tech Writer
+  year: 2018
+- abstract: "<p>Thorough and optimal technical documentation often requires not just\
+    \ an API reference of endpoints and parameters, or long contextual instructions,\
+    \ but also code examples that users can cut and paste into their applications.\
+    \ As a technical writer at Stripe, I\u2019m partially responsible for maintaining\
+    \ 150 code examples, each of which needs to be in 8 programming languages. In\
+    \ this presentation, I\u2019ll explain the processes we\u2019re using, the hurdles\
+    \ we\u2019re facing, and the solutions we\u2019ve devised thus far to make and\
+    \ maintain code examples that really shine.</p>\n<p>Specific concepts covered\
+    \ include:\n<p><ul><li>Defining a style guide for your code</li>\n<li>Generating code examples\
+    \ programmatically \n<li>Testing examples to ensure they work</li>\n<li>Using common snippets\
+    \ to save time</li>\n<li>Enhancing examples for a better user experience</li></ul></p>\n<p>Although\
+    \ we haven\u2019t solved all our problems in this area, we\u2019ve made great\
+    \ progress with great results, and I look forward to sharing our best policies\
+    \ and practices. </p>"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/making-your-code-examples-shine-larry-ullman
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: making-your-code-examples-shine-larry-ullman
+  speakers:
+  - details: ''
+    img_file: missing.jpg
+    name: Larry Ullman
+    slug: larry-ullman
+    twitter: larryullman
+    website: larryullman.com
+  title: Making Your Code Examples Shine
+  year: 2018
+- abstract: "<p>I’d like to talk about the role of an editor and the art of enabling humans to create, publish and present technical content in a variety of media. Primarily in text, in the context of a blog or other ‘managed’ calendar-driven web publications. Not technical documentation. Sometimes it’s a mighty fine line between docs and blogs, but I think we can and should differentiate.</p>
+<p>This talk will explore principles and patterns of kind, effective editorial practice, and nuances of voice, civility, and clear communication, as they play out when working with a diverse distributed roster of authors, many of whom are non-native English speakers or first-time storytellers.</p>
+<p>I believe there’s as much appetite for diversity of voice and point of view in blogging about software development as there is in speaking about it at developer conferences. And I’ve got some observations to share about how we can cultivate that.</p>"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/not-the-docs-shepherding-a-developer-blog-of-many-voices-across-many-timezones-havi-hoffman
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: not-the-docs-shepherding-a-developer-blog-of-many-voices-across-many-timezones-havi-hoffman
+  speakers:
+  - details: ''
+    img_file: havi-hoffman.jpg
+    name: Havi Hoffman
+    slug: havi-hoffman
+    twitter: freshelectrons
+    website: https://medium.com/@freshelectrons
+  title: 'Not the Docs: content and voice on a developer blog'
+  year: 2018
+- abstract: "<p>In the wider tech writer world, it\u2019s still common to hear tech\
+    \ writers be certain that developers can\u2019t write good help: the prevailing\
+    \ sense is \u201COnly we can do this.\u201D But those same tech writers often\
+    \ feel under threat in their jobs - feeling like their organisation doesn\u2019\
+    t see their value, doesn\u2019t understand what they do.</p>\n<p>Who <em>should</em>\
+    \ write the docs? Should all developers write docs as a matter of course? Is it\
+    \ even worthwhile having specialist writers?</p>\n<p>In this talk I\u2019ll try\
+    \ to find some answers to these questions, based on my experience working in many\
+    \ teams - both in teams that have valued tech writing and in teams that haven\u2019\
+    t. I\u2019ll talk about the \u2018documentarian\u2019 mindset and how that contributes\
+    \ to better software, no matter what your job title is. </p>\n<p>I\u2019ll also\
+    \ explore the benefits that come from specialist writers and generalist developers\
+    \ working together. And I\u2019ll share the ways I\u2019ve found that people with\
+    \ specialist writer skills (whether they\u2019re developers, tech writers, or\
+    \ other roles) can make the biggest difference to user experience, and through\
+    \ that to their organisations.</p>"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/who-writes-the-docs-beth-aitman
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: who-writes-the-docs-beth-aitman
+  speakers:
+  - details: ''
+    img_file: beth-aitman.jpg
+    name: Beth Aitman
+    slug: beth-aitman
+    twitter: baitman
+    website: ''
+  title: Who Writes the Docs?
+  year: 2018
+- abstract: "<p>In a tech writer\u2019s career, creating and maintaining a great portfolio\
+    \ is as important as it is stressful. What belongs in there? What constitutes\
+    \ your \"best work\"? What if all your work is proprietary? Do you really need\
+    \ a portfolio if you have a great job?</p>\n<p>Building a portfolio is an exercise\
+    \ in documenting yourself: your writing, your skill, your journey as a professional.\
+    \ Like any other kind of documentation, it isn't easy or intuitive to create something\
+    \ great. And like any other kind of documentation, it's worth doing the hard work\
+    \ to get it right.</p>\n<p>In this talk, I cover:\n<ul><li>Why you need a portfolio\
+    \ even if you have a stable job</li>\n<li>How to create a well-rounded portfolio\
+    \ and decide what's your best work</li>\n<li>Strategies for adding proprietary\
+    \ work (legally!)</li>\n<li>Options to present it that aren't just a series of\
+    \ email attachments</li></ul></p>"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/document-yourself-practical-tips-for-a-low-er-stress-portfolio-erin-grace
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: document-yourself-practical-tips-for-a-low-er-stress-portfolio-erin-grace
+  speakers:
+  - details: ''
+    img_file: erin-grace.jpg
+    name: Erin Grace
+    slug: erin-grace
+    twitter: erin_rtfm
+    website: https://www.readthefriendlymanual.com/
+  title: 'Document Yourself: Practical Tips for a Low(er)-Stress Portfolio'
+  year: 2018
+- abstract: "<p>Congratulations! Someone realizes your awesome product needs equally\
+    \ awesome documentation, and you\u2019ve earned the job! It\u2019s an exciting\
+    \ new role, with new goals and challenges.</p>\n<p>Cue the panic: There are too\
+    \ many things to do! Where do I start? How can I succeed in this role?</p>\n<p>I\u2019\
+    ve been there before. In fact, I\u2019ve done it multiple times. Like medical\
+    \ triage, you won\u2019t have a lot of time to think before you dive in and get\
+    \ to work. It\u2019s stressful, even if there are no lives at stake!</p>\n<p>But\
+    \ you can be fast and smart. I\u2019ll tell you how to get started (audit the\
+    \ existing content, create a list of requirements for documentation tools, ruthlessly\
+    \ prioritize a huge list of tasks) and how to keep going (build relationships\
+    \ with coworkers in customer-facing roles to learn what your customers really\
+    \ need from docs, take a moment to pat yourself on the back every now and then).\
+    \ I\u2019ll also admit to mistakes I\u2019ve made, and how I\u2019ve learned to\
+    \ avoid them (like trying to do everything myself, or thinking that time spent\
+    \ planning is taking away from \u201Creal work\u201D). </p>\n<p>Your new role\
+    \ will require hard work, but a bit of advice can help you get started, stay motivated,\
+    \ and avoid pitfalls along the way.</p>"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan
+  speakers:
+  - details: ''
+    img_file: neal-kaplan.jpg
+    name: Neal Kaplan
+    slug: neal-kaplan
+    twitter: NealKaplan
+    website: customersandcontent.com
+  title: Where do I start? The art and practice of documentation triage
+  year: 2018
+- abstract: "<p>Ever lie awake at night wondering, How do we know if our documentation\
+    \ is any good? What does \u201Cgood\u201D mean, anyway? Well, you\u2019re not\
+    \ alone - but the good news is, there\u2019s a way to find out! The secret lies\
+    \ in caring about your developers and actively working to learn how your docs\
+    \ serve them (or don\u2019t!)</p>\n<p>In this talk, I\u2019ll share the story\
+    \ of Twilio\u2019s journey toward empathy-driven documentation. By leveraging\
+    \ direct user feedback, user experience research, and constantly testing the effectiveness\
+    \ of the docs you provide, you can learn how your users work with (and wish they\
+    \ could work with) your docs.</p>\n<p>Along the way I\u2019ll share a few tips\
+    \ about what worked well for us, what ideas didn\u2019t pan out, and some of the\
+    \ documentation principles we\u2019re now sold on.</p>\n"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/building-empathy-driven-developer-documentation-kat-king
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: building-empathy-driven-developer-documentation-kat-king
+  speakers:
+  - details: ''
+    img_file: missing.jpg
+    name: Kat King
+    slug: kat-king
+    twitter: satchkat
+    website: ''
+  title: Building Empathy-Driven Developer Documentation
+  year: 2018
+- abstract: "<p>Style guides are a key tool for many documentarians \u2014 they guarantee\
+    \ consistency, streamline onboarding, and even improve the documentation non-technical\
+    \ writers create.</p>\n<p>Whether you're creating an internal style guide or a\
+    \ commercially available reference, though, there are plenty of pitfalls. In this\
+    \ talk, we'll cover:\n<ul><li>style guide assumptions (and how to avoid them)</li>\n\
+    \ <li>jargon, slang, idioms, and other words with multiple meanings</li>\n<li>inclusion,\
+    \ sensitivity readings, and generally making sure you know how other people hear\
+    \ terms\n</li><li>teaching style across a team</li></ul></p>"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/what-they-don-t-tell-you-about-creating-new-style-guides-thursday-bram
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: what-they-don-t-tell-you-about-creating-new-style-guides-thursday-bram
+  speakers:
+  - details: ''
+    img_file: thursday-bram.jpg
+    name: Thursday Bram
+    slug: thursday-bram
+    twitter: thursdayb
+    website: thursdaybram.com
+  title: What They Don't Tell You About Creating New Style Guides
+  year: 2018
+- abstract: "<p>We all want to create docs that help our users. We know good research\
+    \ helps us to give our readers what they need and poor research can weaken our\
+    \ docs so it\u2019s time to step up our research game. </p>\n<p>Grounded in the\
+    \ things I\u2019ve learnt (read: mistakes I\u2019ve made) from my time writing\
+    \ open source documentation for the UK government at Government Digital Service\
+    \ (GDS), this talk will look at: </p>\n<ul>\n<li>deciding what - and how - to\
+    \ research</li>\n<li>interviewing, simulation and content evaluation techniques</li>\n\
+    <li>distinguishing user \u2018needs\u2019 from \u2018wants\u2019</li>\n<li>how\
+    \ the Hawthorne effect can influence research</li>\n<li>how to feed findings into\
+    \ product and content development </li>\n</ul>\n<p>Throughout it all, we\u2019\
+    ll cover strategies to avoid common pitfalls, how to avoid users telling you what\
+    \ you want to hear, how to manage research with no extra budget and, when it\u2019\
+    s all done, how to turn all that qualitative data into tangible content changes\
+    \ that have a genuine impact for users. </p>"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/research-like-you-re-wrong-lessons-from-user-research-gone-rogue-jen-lambourne
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: research-like-you-re-wrong-lessons-from-user-research-gone-rogue-jen-lambourne
+  speakers:
+  - details: ''
+    img_file: missing.jpg
+    name: Jen Lambourne
+    slug: jen-lambourne
+    twitter: Jenny__Anne
+    website: ''
+  title: "Research like you\u2019re wrong: Lessons from user research gone rogue "
+  year: 2018
+- abstract: <p>There are multiple reasons to use screenshots, from introducing new
+    features and helping confirm the context of content to simply breaking up walls
+    of text. However, screenshots can carry a lot of overhead, including localization
+    considerations and short shelf-lives due to continuous deployment, which may make
+    them more effort than their worth. For content that appears in context of the
+    UI, screenshots can also be redundant and unnecessary. As alternatives to screenshots,
+    there are several visual content strategies to consider to engage audiences and
+    convey and complement concepts and UIisms, including infographics, illustrations,
+    and abstract "simplified UI (SUI)" representations. Which you use depends on your
+    intent and message.</p>
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/graphic-content-warning-the-pros-cons-and-alternatives-to-screenshots-steve-stegelin
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: graphic-content-warning-the-pros-cons-and-alternatives-to-screenshots-steve-stegelin
+  speakers:
+  - details: ''
+    img_file: steve-stegelin.png
+    name: Steve Stegelin
+    slug: steve-stegelin
+    twitter: Stegelin
+    website: ''
+  title: 'Graphic Content Warning: The Pros, Cons, and Alternatives to Screenshots'
+  year: 2018
+- abstract: '<p>Years of being one of the "technical people" in activist circles resulted
+    in my being continually called on to help community groups and fellow organizers
+    understand and more correctly wield technology in service of their mission. Using
+    my blogpost "Three Tips for Providing Tech Help to Non-Profits and Other Such
+    Organizations" as a point of departure, I will share my experience and derived
+    best practices.  </p>
+
+    <p>From "basics", like how to use documents and spreadsheets, to working with
+    databases and understanding security, I have given assistance to a great many
+    groups and the most important part is always the documentation that I leave behind.
+    I can rarely ever just point people to the official software or open source project
+    documentation, I almost always have to rewrite the docs for them in simple language
+    that references their specific use case. </p>
+
+    <p>I wish to help community and activist groups make better technical choices
+    so that they feel more in control of the technologies they use. My hope is that
+    in sharing my experiences, I can engage in a deeper dialogue with the technical
+    documentation community about how we can make technical documentation more accessible,
+    easier to re-use, and empowering.</p>'
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/rewrite-the-docs-field-notes-from-the-radical-it-department-camille-acey
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: rewrite-the-docs-field-notes-from-the-radical-it-department-camille-acey
+  speakers:
+  - details: ''
+    img_file: camille-acey.png
+    name: Camille Acey
+    slug: camille-acey
+    twitter: kavbojka
+    website: https://camilleacey.com
+  title: 'Rewrite the Docs!: Field Notes from the Radical IT department'
+  year: 2018
+- abstract: "<p>You have an idea for the next great technical book. Maybe you're excited about a new technology that nobody's written about yet. Maybe you're unimpressed with the books that are out there on your favorite topic. Maybe writing a book is on your bucket list. This session will help your idea reach its potential as a published book. Technical publishing is an opaque process with a lot of moving parts, which can be confusing for outsiders to navigate. This session will guide you through the steps you should take to turn an idea into a proposal that a publisher will accept, and what to expect from the publishing experience.</p>
+<p>Creating a great technical book takes more than a good idea. It also requires a knowledge of the market, to determine whether there's an audience willing to buy, or whether the space is too crowded to accept new entries. Publishers vary in their approach and target markets, so you need to determine which one will provide the best chance of success. Self-publishing is an option, but carries its own risks and benefits. Doing the setup work that you may not have thought about yet will help you create a proposal that will appeal to publishers, and will also make the writing process easier.</p>
+<p>Once you have a contract with a publisher, or have decided to self-publish, it's more than just a matter of putting the words in order. Finding the right environment, setting a schedule, and communicating with your editor are all critical to success. This session will explain how the process works, highlight the parts you may not know, and give you advice on how not to get overwhelmed by your project.</p>"
+  event: Write the Docs PORTLAND 2018
+  path: conf/portland/2018/videos/writing-the-next-great-tech-book-brian-macdonald
+  series: Write the Docs PORTLAND
+  series_slug: portland
+  slug: writing-the-next-great-tech-book-brian-macdonald
+  speakers:
+  - details: ''
+    img_file: brian-macdonald.jpg
+    name: Brian MacDonald
+    slug: brian-macdonald
+    twitter: bmac_editor
+  title: 'Writing the Next Great Tech Book '
+  year: 2018

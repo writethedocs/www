@@ -17,7 +17,7 @@ If you get into town early, join us and experience Prague from the water.
 Sunday, September 10
 --------------------
 
-Writing Day & Reception will be held at **Auto Klub, Opletalova 1337/29, Praha 1**.
+Writing Day & Reception will be held at `Auto Klub, Opletalova 1337/29, Praha 1 <https://goo.gl/maps/dcbYPV5x5DN2>`_.
 
 During the day, we'll hold our :doc:`Writing Day documentation
 sprints </conf/eu/2017/writing-day>`, followed by the conference
@@ -31,8 +31,8 @@ We'll also help groups organize dinner plans, so you can continue your
 conversations over more substantial food as well.
 
 .. datatemplate::
-   :source: /_data/eu-2017-writing-day.json
-   :template: include/schedule.rst
+   :source: /_data/eu-2017-writing-day.yaml
+   :template: include/schedule2017.rst
 
 Monday, September 11
 --------------------
@@ -46,20 +46,22 @@ Main Stage
 ~~~~~~~~~~
 
 .. datatemplate::
-   :source: /_data/eu-2017-day-1.json
-   :template: include/schedule.rst
+   :source: /_data/eu-2017-day-1.yaml
+   :template: include/schedule2017.rst
 
 Unconference Room
 ~~~~~~~~~~~~~~~~~
 
-:doc:`/conf/eu/2017/unconference` from 13:00-17:00
+:doc:`/conf/eu/2017/unconference` from 14:50-17:40
 
-Monday Night - Party
-~~~~~~~~~~~~~~~~~~~~
+Monday Night - Social Event
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The party will start at **19:00**.
+Location: `Hangar Bar, Dušní 9/9, Praha 1 <https://goo.gl/maps/qDfi6bqyn212>`_
 
-The party is for **conference attendees only**.
+The social event will start at **20:00**.
+
+Entrance to this event is for **conference attendees only**.
 Please bring your badge, as it is an official conference event.
 
 Drinks and light snacks will be provided while our tab lasts.
@@ -73,13 +75,13 @@ Main Stage
 ~~~~~~~~~~
 
 .. datatemplate::
-   :source: /_data/eu-2017-day-2.json
-   :template: include/schedule.rst
+   :source: /_data/eu-2017-day-2.yaml
+   :template: include/schedule2017.rst
 
 Unconference Room
 ~~~~~~~~~~~~~~~~~
 
-:doc:`/conf/eu/2017/unconference` from 10:00-15:00
+:doc:`/conf/eu/2017/unconference` from 10:00-16:50
 
 Say Goodbye
 -----------

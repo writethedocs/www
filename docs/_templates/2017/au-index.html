@@ -1,0 +1,36 @@
+{% extends "2017/base_au.html" %}
+
+{% block head_link %}
+  <title>Home - Write the Docs Day Australia 2017</title>
+  {{ super() }}
+{% endblock %}
+
+{% block container %}
+    <header class="header">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-md-4 text-center">
+            <a href="/conf/au/2017/" class="header__logo">
+              <img height="250px" src="{{ pathto('_static/dist/images/logo-au.svg', 1) }}" alt="Write the Docs Day Australia">
+            </a>
+          </div>
+          <div class="col-xs-12 col-md-8 text-xs-right">
+            <div class="header__desc home-about">
+              <h2 class="home-about__heading">Write the Docs is a conference focused on all things related to software documentation.</h2>
+              <p class="home-about__paragraph">
+
+              Write the Docs brings everyone who writes the docs together in the same room: Programmers, Tech Writers, Support, and Developer Advocates. We all have things to learn from each other, and there’s no better way than sitting together and talking.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+    {% block body %}
+    {{ body }}
+    {% endblock body %}
+    </main>
+
+{% endblock %}

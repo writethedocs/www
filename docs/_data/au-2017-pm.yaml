@@ -1,0 +1,37 @@
+- Duration: '20'
+  Session: Margaret Fero - Delivering Documents For All Three Use Cases
+  Slug: margaret-fero
+  Time: '14:05'
+- Duration: '5'
+  Session: Switch Speakers
+  Time: '14:25'
+- Duration: '20'
+  Session: Chris Ward - Conversational UI for Writers
+  Slug: chris-ward
+  Time: '14:30'
+- Duration: '5'
+  Session: Switch Speakers
+  Time: '14:50'
+- Duration: '20'
+  Session: Laura Bailey - How I decided to do this talk
+  Slug: laura-bailey
+  Time: '14:55'
+- Duration: '20'
+  Session: Break
+  Time: '15:15'
+- Duration: '20'
+  Session: "Nicola Nye - Writing extensions in Sphinx: supercharge your docs"
+  Slug: nicola-nye
+  Time: '15:50'
+- Duration: '5'
+  Session: Switch Speakers
+  Time: '16:10'
+- Duration: '20'
+  Session: Brice Fallon - Peanuts and Minimalism and Technical Writing
+  Slug: brice-fallon
+  Time: '16:15'
+- Duration: '5'
+  Session: Switch Speakers
+  Time: '16:35'
+- Session: Closing comments
+  Time: '16:45'

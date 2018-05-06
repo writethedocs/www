@@ -1,9 +1,8 @@
-:template: 2017/eu-content.html
+:template: 2017/eu-speakers.html
 
 Speakers
 ========
 
-Presentations
--------------
-
-Coming soon!
+.. datatemplate::
+   :source: /_data/2017.eu.speakers.yaml
+   :template: 2017/speaker.rst

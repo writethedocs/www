@@ -5,11 +5,17 @@
             &nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
           </span>
           <span id="social-footer" class="pull-right">
-            <span><a href="mailto:conf@writethedocs.org"><i class="iconf-email"></i>conf@writethedocs.org</a></span> |
+            <span><a href="mailto:support@writethedocs.org"><i class="iconf-email"></i>support@writethedocs.org</a></span> |
             <span><a href="https://github.com/writethedocs"><i class="iconf-github-circled-alt2"></i>GitHub</a></span> |
             <span><a href="https://twitter.com/writethedocs"><i class="iconf-twitter-circled"></i>Twitter</a></span> |
             <span><a href="{{ pathto('code-of-conduct') }}">Code&nbsp;of&nbsp;Conduct</a></span>
           </span>
       </div>
+
+    {% if theme_github_banner|lower != 'false' %}
+    <a href="https://github.com/{{ theme_github_user }}/{{ theme_github_repo }}" class="github">
+        <img style="position: absolute; top: 0; right: 0; border: 0;" src="{{ pathto('_static/' ~ theme_github_banner, 1) if theme_github_banner|lower != 'true' else 'https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png' }}" alt="Fork me on GitHub"  class="github"/>
+    </a>
+    {% endif %}
 
 </div>

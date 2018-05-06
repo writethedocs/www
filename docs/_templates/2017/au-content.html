@@ -1,0 +1,41 @@
+{% extends "2017/au.html" %}
+
+{% block head_script %}
+    {{ super() }}
+    <script src='https://js.tito.io/v1' async></script>
+{% endblock %}
+
+
+{% block container %}
+<main>
+
+    {% if title %}
+    <header class="header">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 text-center">
+            <a href="/conf/au/2017/" class="header__logo">
+              <img height="250px" src="{{ pathto('_static/dist/images/logo-au-mobile.svg', 1) }}" alt="Write the Docs Day Australia">
+            </a>
+            <h1 class="header__title">{{ title }}</h1>
+          </div>
+        </div>
+      </div>
+    </header>
+    {% endif %}
+
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 text-left">
+          <div class="main-container main">
+            {% block body %}
+              {{ body }}
+            {% endblock body %}
+          </div>
+        </div>
+      </div>
+    </div>
+
+</main>
+
+{% endblock %}

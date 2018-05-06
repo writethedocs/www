@@ -48,23 +48,23 @@ downstairs in Lola's Room.
 News
 ~~~~
 
--  `Announcing Write the Docs NA 2015 </news/announcing-2015>`__
+-  `Announcing Write the Docs NA 2015 <news/announcing-2015>`__
 -  `Announcing Call for Proposals and Ticket
-   Prices </news/cfp-ticket-prices>`__
+   Prices <news/cfp-ticket-prices>`__
 -  `Announcing Keynotes, Initial Sponsors, and a
-   Reminder </news/announcing-keynotes-sponsors-reminder>`__
+   Reminder <news/announcing-keynotes-sponsors-reminder>`__
 -  `Announcing Presentations and
-   Speakers </news/announcing-presentations>`__
+   Speakers <news/announcing-presentations>`__
 -  `More Conference
-   Details </conf/na/2015/news/more-conference-details/>`__
+   Details <news/more-conference-details/>`__
 -  `Conference sells out, Schedule Details, and Party
-   Venue </conf/na/2015/news/conference-sold-out-schedule-party/>`__
+   Venue <news/conference-sold-out-schedule-party/>`__
 -  `Welcome to Write the
-   Docs </conf/na/2015/news/welcome-to-write-the-docs/>`__
+   Docs <news/welcome-to-write-the-docs/>`__
 -  `Thanks for coming to Write the
-   Docs </conf/na/2015/news/thanks-for-coming/>`__
+   Docs <news/thanks-for-coming/>`__
 -  `Check out the Videos, Forum, and European Call for
-   Proposals </conf/na/2015/news/videos-forum-eu-cfp/>`__
+   Proposals <news/videos-forum-eu-cfp/>`__
 
 Can't wait?
 -----------

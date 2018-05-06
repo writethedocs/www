@@ -1,11 +1,12 @@
-2017 Conferences
+2018 Conferences
 ----------------
 
-- :doc:`Write the Docs Portland </conf/na/2017/index>`, May 14-16, **Portland, Oregon**
-- :doc:`Write the Docs Prague </conf/eu/2017/index>`, September 10-12, **Prague, Czech Republic**
+- :doc:`Write the Docs Portland </conf/portland/2018/index>`, May 6-8, **Portland, Oregon**
+- :doc:`Write the Docs + Open Help Cincinnati </conf/cincinnati/2018/index>`, August 18-22, **Cincinnati, Ohio**
+- :doc:`Write the Docs Prague </conf/prague/2018/index>`, September 9-11, **Prague, Czech Republic**
+- :doc:`Write the Docs Australia </conf/australia/2018/index>`, November 15-16, **Melbourne, Australia**
 
-Look at all of these happy people at our Portland conference in 2016!
+2018 One-Day Events
+~~~~~~~~~~~~~~~~~~~
 
-.. raw:: html
-
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/writethedocs/27252578210/in/album-72157669467964085/" title="20160524171117"><img src="https://c3.staticflickr.com/8/7409/27252578210_271a1886ef_z.jpg" width="640" height="400" alt="20160524171117"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+- `Building a Career in Documentation: All-Day Event, in partnership with GDS <https://www.meetup.com/Write-The-Docs-London/events/248304896/>`__, June 5, **London, UK**

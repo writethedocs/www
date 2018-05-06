@@ -26,7 +26,7 @@ Writing Day Schedule
 ^^^^^^^^^^^^^^^^^^^^
 
 .. datatemplate::
-   :source: /_data/na-2017-writing-day.json
+   :source: /_data/na-2017-writing-day.yaml
    :template: include/schedule.rst
 
 Documenting a new project?
@@ -143,13 +143,13 @@ learn about collaborating on a large set of open source cloud projects.
 .. _tox command line tool: https://tox.readthedocs.io/en/latest/
 .. _gerrit: https://review.openstack.org
 .. _openstack-manuals : https://github.com/openstack/openstack-manuals
-.. _OpenStack Docs Contributor Guide: https://docs.openstack.org/contributor-guide/
-.. _style guide: https://docs.openstack.org/contributor-guide/writing-style.html
-.. _First timers: https://docs.openstack.org/contributor-guide/quickstart/first-timers.html#setting-up-for-contribution
-.. _English as a second language: https://docs.openstack.org/contributor-guide/non-native-english-speakers.html
+.. _OpenStack Docs Contributor Guide: https://docs.openstack.org/doc-contrib-guide/
+.. _style guide: https://docs.openstack.org/doc-contrib-guide/writing-style.html
+.. _First timers: https://docs.openstack.org/doc-contrib-guide/quickstart/first-timers.html#setting-up-for-contribution
+.. _English as a second language: https://docs.openstack.org/doc-contrib-guide/non-native-english-speakers.html
 .. _translation tools: https://wiki.openstack.org/wiki/I18n/Tools
 .. _bug tracker: https://bugs.launchpad.net/openstack-manuals/+bugs
-.. _REST API docs: https://docs.openstack.org/contributor-guide/api-guides.html
+.. _REST API docs: https://docs.openstack.org/doc-contrib-guide/api-guides.html
 
 .. _media:
 

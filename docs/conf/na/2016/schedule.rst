@@ -76,30 +76,9 @@ things documentation.
 Main Stage
 ~~~~~~~~~~
 
-.. raw:: html
-
-    <table>
-    {% for talk in na_2016_day1 %}
-      <tr>
-        <td class=" schedule-time">{{ talk.Time }}</td>
-        <td>
-
-        {% if talk.Session in dont_link %}
-
-        {{ talk.Session}}
-
-        {% else %}
-
-`{{ talk.Session }} </conf/na/2016/speakers/#speaker-{{ talk.slug }}>`_
-
-.. raw:: html
-
-        {% endif %}
-        </td>
-      </tr>
-
-    {% endfor %}
-    </table>
+.. datatemplate::
+   :source: /_data/na-2016-day-1.yaml
+   :template: include/schedule.rst
 
 Lola's Room
 -----------
@@ -126,31 +105,9 @@ Burnside St**.
 Main Stage
 ~~~~~~~~~~
 
-.. raw:: html
-
-    <table>
-    {% for talk in na_2016_day2 %}
-      <tr>
-        <td class=" schedule-time">{{ talk.Time }}</td>
-        <td>
-
-        {% if talk.Session in dont_link %}
-
-        {{ talk.Session}}
-
-        {% else %}
-
-`{{ talk.Session }} </conf/na/2016/speakers/#speaker-{{ talk.slug }}>`_
-
-.. raw:: html
-
-        {% endif %}
-
-        </td>
-      </tr>
-
-    {% endfor %}
-    </table>
+.. datatemplate::
+   :source: /_data/na-2016-day-2.yaml
+   :template: include/schedule.rst
 
 Lola's Room
 -----------

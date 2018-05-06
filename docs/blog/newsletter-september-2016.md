@@ -41,7 +41,7 @@ There were also a handful of great suggestions for UI copy best practices:
 * Keep in mind that too much in-UI help and information can overload users and reduce readability.
 * User feedback through support requests and user testing can help writers find the balance of detail and explanation that is "just right" for most users.
 
-If you're looking for more info about UI help text, check out Beth Aitman's talk on the subject from Write the Docs EU 2015. For more on progressive disclosure, try this blog post: [Masking Complexity through Progressive Disclosure](blog.recurly.com/2013/04/masking-complexity-through-progressive-disclosure),
+If you're looking for more info about UI help text, check out Beth Aitman's talk on the subject from Write the Docs EU 2015. For more on progressive disclosure, try this blog post: [Masking Complexity through Progressive Disclosure](https://blog.recurly.com/2013/04/masking-complexity-through-progressive-disclosure),
 
 
 ## Metrics case study: Total Time Reading (TTR)

@@ -1,0 +1,467 @@
+- abstract: "<p>When you are writing documentation for software, a top priority is\
+    \ surely\nthat what you write is correct. That is, the examples you provide give\
+    \ the\noutput you say they will. Or perhaps it is that the links in your\ndocumentation\
+    \ link to an expected page. Usually this is done with manual\ntesting at the time\
+    \ of writing. Your organisation may have practices in\nplace to make sure that\
+    \ these examples don't get too out of date - maybe\nsomeone checks them periodically,\
+    \ maybe code review comes with comments like\n\"I remember that this part of the\
+    \ code is used in an example on Page 37 of\nour docs, change it\". But these methods\
+    \ are tedious and flawed.  This talk\nwill give examples from my work as a software\
+    \ engineer in creating tested\nsnippets for documentation which are linked to\
+    \ the code they represent. It\nwill show how using techniques traditionally reserved\
+    \ for software testing\ncan ease the burden of keeping documentation up to date.\
+    \  </p>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/tested-and-correct-how-to-make-sure-your-documentation-keeps-working-adangoor
+  series: Write the Docs EU
+  series_slug: eu
+  slug: tested-and-correct-how-to-make-sure-your-documentation-keeps-working-adangoor
+  speakers:
+  - name: Adam Dangoor
+    slug: adangoor
+    twitter: AdamDangoor
+  title: Tested and Correct, How to Make Sure Your Documentation Keeps Working
+  year: '2015'
+  youtubeId: PoVwyPipHzc
+- abstract: "<p>Modern geoscientific research relies heavily on numerical computations\n\
+    involving complex software developed by physicists or chemists. It would\nseem\
+    \ that scientists should be well versed in ways of documenting and\nexplaining\
+    \ their research. Yet, when it comes to the documentation of\nscientific software\
+    \ projects, one soon realises that scientific wisdom is\nspread mostly by LaTeX\
+    \ and that the word 'documentation' starts to mean\nsomething completely different.\
+    \  </p> <p>Writing a documentation for a\nscientific project can be quite challenging.\
+    \ There are not that many\nexamples of well-documented open-source geoscientific\
+    \ numerical modelling\nsoftware projects to drew the inspiration from. Even though\
+    \ the scientific\nresults should be reproducible, mechanisms that reward those\
+    \ who deliver\nwell documented software are still to become widespread. The scientists\
+    \ are\njudged basing on the number of peer-reviewed papers they publish, therefore\n\
+    investing the time solely to offer the documentation is difficult. The\ndocumentation\
+    \ should include the actual mathematical equations and theory\nbehind the software,\
+    \ figures documenting the scientific results as well as\ncode listings and usage\
+    \ examples. The target audience may have a strong\nbackground in science, computer\
+    \ science, both or neither.  </p>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/the-quest-for-scientific-credit-for-software-documentation-ajaruga
+  series: Write the Docs EU
+  series_slug: eu
+  slug: the-quest-for-scientific-credit-for-software-documentation-ajaruga
+  speakers:
+  - details: "<p>I'm a PhD student at the Faculty of Physics working in a research\
+      \ group\ndeveloping two C++ libraries aimed at the atmospheric community.  In\
+      \ this\npresentation I'd like to talk about our quest to link the scientific\n\
+      credit with the software documentation. I'd like to talk about how we\ntried\
+      \ to combine explaining scientific ideas in LaTeX with explaining API\nalong\
+      \ with automatic code listings in one journal-structured documentation\nand\
+      \ how we managed to publish both the code and the documentation in\npublic,\
+      \ peer-reviewed Geoscientific Model Development journal.  </p>\n"
+    name: Anna Jaruga
+    slug: ajaruga
+  title: The quest for scientific credit for software documentation
+  year: '2015'
+  youtubeId: Qg7lOWyT2mo
+- abstract: "<p>Good documentation is important, but it should be your last resort.\
+    \ You\nneed to help users before they reach the docs - in the user interface\n\
+    itself.</p>\n<p>In this talk, I'll discuss:</p>\n<ul>\n<li>strategies for writing\
+    \ microcopy when you\u2019re short on space</li>\n<li>what to explain in the UI,\
+    \ and what to save for the documentation</li>\n<li>how to pick the right style\
+    \ of embedded help</li>\n<li>what makes a great error message (and a terrible\
+    \ one)</li>\n</ul>\n<p>... with plenty of real-world examples of doing it right\
+    \ and wrong.</p>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/before-the-docs-writing-for-user-interfaces-baitman
+  series: Write the Docs EU
+  series_slug: eu
+  slug: before-the-docs-writing-for-user-interfaces-baitman
+  speakers:
+  - name: Beth Aitman
+    slug: baitman
+    twitter: baitman
+  title: 'Before the docs: writing for user interfaces'
+  year: '2015'
+  youtubeId: LemM9PHDX6w
+- abstract: "<p>Whilst not a part of the core documentation of projects, presentations\n\
+    and delivering them to the public are an essential part of spreading the\nword\
+    \ about what you do.</p>\n\n<p>They need to be as equally consistent with your\
+    \ messaging and style\nguides, get to a key point effectively and also allow the\
+    \ presenter to\ninject some personality.</p>\n\n<p>This is especially hard with\
+    \ technical projects where the 'story' is\neither hard to explain or can't just\
+    \ end up sounding like a sales pitch.</p>\n\n<p>In this presentation I will explore\
+    \ and explain my experiences as an\nadvocate for several open source projects,\
+    \ audience reactions to those\npresentations and how I have iterated my presentations\
+    \ in sync with changes\nto product and branding.</p>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/documenting-your-story-crafting-a-good-presentation-cward
+  series: Write the Docs EU
+  series_slug: eu
+  slug: documenting-your-story-crafting-a-good-presentation-cward
+  speakers:
+  - name: Chris Ward
+    slug: cward
+    twitter: chrischinch
+  title: Documenting your Story - Crafting a good presentation
+  year: '2015'
+  youtubeId: 2JacBpYizRw
+- abstract: "<p>Whilst not a part of the core documentation of projects, presentations\n\
+    and delivering them to the public are an essential part of spreading the\nword\
+    \ about what you do.</p>\n\n<p>They need to be as equally consistent with your\
+    \ messaging and style\nguides, get to a key point effectively and also allow the\
+    \ presenter to\ninject some personality.</p>\n\n<p>This is especially hard with\
+    \ technical projects where the 'story' is\neither hard to explain or can't just\
+    \ end up sounding like a sales pitch.</p>\n\n<p>In this presentation I will explore\
+    \ and explain my experiences as an\nadvocate for several open source projects,\
+    \ audience reactions to those\npresentations and how I have iterated my presentations\
+    \ in sync with changes\nto product and branding.</p>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/all-roads-might-not-lead-to-docs-celmore
+  series: Write the Docs EU
+  series_slug: eu
+  slug: all-roads-might-not-lead-to-docs-celmore
+  speakers:
+  - name: Christina Elmore
+    slug: celmore
+    twitter: elchristina
+  title: All roads might not lead to docs
+  year: '2015'
+  youtubeId: NKYSdEasJ-8
+- abstract: "<p>As a writer, it's been tough for me to admit that not everyone wants\
+    \ to\nread my carefully written documentation. While people will read, not\neveryone\
+    \ learns by reading the docs. Since my goal is to make sure my\ndocumentation\
+    \ can meet as many learning styles as possible, that has meant\nspreading my documentarian\
+    \ wings and bridging out from only writing the docs\ninto recording them as well.</p>\n\
+    \n<p>Part of my documentation journey has been learning how to create\nscreencasts\
+    \ and I want to share that knowledge with everyone. From picking\nthe right topics,\
+    \ to outlining, to writing a script (yes I promise, there is\nstill writing involved),\
+    \ to how to record your audio and video, I'll cover\nit all. You don't need to\
+    \ be a professional voice actor or videographer to\ncreate a screencast, even\
+    \ a writer can create something wonderful.</p>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/screencasting-101-dpotter
+  series: Write the Docs EU
+  series_slug: eu
+  slug: screencasting-101-dpotter
+  speakers:
+  - name: Diana Potter
+    slug: dpotter
+    twitter: drpotter
+  title: Screencasting 101
+  year: '2015'
+  youtubeId: vz5HYGqFIOM
+- abstract: "<p>Nobody loves email. Nobody really even likes email. In fact email\
+    \ can\ntotally suck and it is here to stay. Despite how we feel about it, we have\n\
+    to deal with email almost every single day. Fortunately we can improve email\n\
+    as a whole by learning how to write email that sucks just a little bit less\n\
+    -- not that you write bad emails.. this talk is for your... friend. Yeah,\nthis\
+    \ talk is for your friends that really need to setup up their email\ngame.</p>\n\
+    \n<p>In addition to email this talk will explore some fundamental\nmisunderstandings\
+    \ that people have with modes of online communication and\nhow to correct these\
+    \ misunderstandings. Like how to craft a good Tweet,\nFacebook Post, and Instant\
+    \ Messaging interaction.</p>\n\n<p>This is not meant to be a tutorial but rather\
+    \ a conceptual guide for how\nto think about on-line communication and how to\
+    \ correct some common faults\nwe share as members of the on-line community. The\
+    \ Internet isn't going away\nanytime soon, and the amount we communicate over\
+    \ it is not going to diminish\nanytime soon either. This talk attempts to teach\
+    \ one how to make digital\ncommunication as painless as possible.</p>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/how-to-write-an-email-ecaine
+  series: Write the Docs EU
+  series_slug: eu
+  slug: how-to-write-an-email-ecaine
+  speakers:
+  - name: Elijah Caine
+    slug: ecaine
+    twitter: ElijahCaineMV
+  title: How to Write an Email
+  year: '2015'
+  youtubeId: Ja-4t8Ufv6Y
+- abstract: "<p>An everyday dilemma in technical communication: What do you call that\n\
+    \u201Cthing\u201D? Whether you ask developers, marketing folks or users, you often\
+    \ get\nvery different views.</p>\n\n<p>Along with user interfaces, documentation\
+    \ helps all stakeholders align\ntheir mental model of a product. Terminology plays\
+    \ a key role, and a\ncontrolled vocabulary is an ace up the technical writer's\
+    \ sleeve.</p>\n\n<p>Controlled vocabularies are basically lists of concepts and\
+    \ the\nrelationships between them. Beyond consistent naming, they are about\n\
+    structuring, categorizing and retrieving content. For example, you can use a\n\
+    vocabulary as a basis for documentation plans, tables of content, a help\nsite's\
+    \ navigation, search filters, or even to organize test cases.</p>\n\n<p>In this\
+    \ talk, I will share ways to create and maintain various types of\nvocabularies,\
+    \ and explain what each type is useful for. You can start with a\nflat list of\
+    \ terms and expand it into a glossary, a thesaurus, a taxonomy,\nor even a full-fledge\
+    \ ontology.</p>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/whatchamacallit-controlled-vocabularies-for-technical-writers-eboillat
+  series: Write the Docs EU
+  series_slug: eu
+  slug: whatchamacallit-controlled-vocabularies-for-technical-writers-eboillat
+  speakers:
+  - name: Emilie Boillat
+    slug: eboillat
+  title: 'Whatchamacallit: Controlled Vocabularies for Technical Writers'
+  year: '2015'
+  youtubeId: 0kg-6YCDg64
+- abstract: "<p>With about 1000 different editors each month, the Mozilla Developer\n\
+    Network (MDN) documentation Web site for Open Web technologies is a\ntrafficked\
+    \ wiki with edits of all kind of quality: perfect text from\nseasoned professional\
+    \ writers to rough notes by teen-aged technology\nlearners.</p>\n\n<p>In this\
+    \ talk, we are going to explore how to keep this doc garden clean,\nhow the diversity\
+    \ of editors influence its evolution, and how we find our\nway through treacherous\
+    \ jungles to well-maintained royal gardens.</p>\n\n<p>This is about improving\
+    \ quality, working with diverse communities,\nfostering innovation, and carnivorous\
+    \ plants.</p>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/gardening-open-docs-florian-scholz-jean-yves-perrier
+  series: Write the Docs EU
+  series_slug: eu
+  slug: gardening-open-docs-florian-scholz-jean-yves-perrier
+  speakers:
+  - name: Florian Scholz
+    twitter: floscholz
+  - name: Jean-Yves Perrier
+    twitter: Teoli2003
+  title: Gardening Open Docs
+  year: '2015'
+  youtubeId: q9_hG-Uu80I
+- abstract: "<p>APIs define contracts between a service and a client, and with the\
+    \ rise\nof representation languages like Swagger, Apiary, and RAML, these contracts\n\
+    can be consumed programmatically and adapted easily into our\ncodebases. Other\
+    \ tools like JSON Schema also contribute to this idea of\nintegration between\
+    \ service and client.</p>\n\n<p>But what about our documentation? If API contracts\
+    \ can be assimilated\ninto software, surely it can drive our documentation too?\
+    \ In this talk, I\nwant to introduce some of the techniques I've used on past\
+    \ projects that\nallow exactly that. By using remote schemas to generate software,\
+    \ it also\nallows us to generate working documentation that is always relevant\
+    \ and\nnever out of date. Apart from accuracy, we also get the added benefits\
+    \ of\nreduced development time, reduced effort, and reduced duplication. We can\n\
+    all of this by documenting once, and re-using across multiple projects!</p>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/generating-docs-from-apis-jhannaford
+  series: Write the Docs EU
+  series_slug: eu
+  slug: generating-docs-from-apis-jhannaford
+  speakers:
+  - name: Jamie Hannaford
+    slug: jhannaford
+    twitter: jamiehannaford
+  title: Generating docs from APIs
+  year: '2015'
+  youtubeId: iCQkhSXGfOU
+- abstract: "<p>The world of software development rightly demands an emphasis on the\
+    \ new\nand the innovative -- on doing things differently from how they\u2019ve\
+    \ been\ndone. The assumption is that newer is (almost) always better. But if we\
+    \ look\nonly to the present and the future, we risk reinventing the wheel, failing\n\
+    to understand that we are all built on tradition, failing to learn\neverything\
+    \ that we could from the past.</p>\n\n<p>This talk shows how documentarians can\
+    \ find inspiration in the past,\nbuild on it, and move forward. It tells some\
+    \ of these stories, and shows\nwhat they meant in historical context:</p>\n\n\
+    <ul>\n\n<li>The pre-history and dawn of software documentation -- how technical\n\
+    writers were hired, how they worked, what they made, the challenges they\nfaced,\
+    \ and how their solutions continue to inform the work we do today</li>\n\n<li>The\
+    \ much longer history of teaching engineers to write documentation</li>\n\n<li>Efforts\
+    \ to make technical writing into an independent profession</li>\n\n</ul>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/back-to-the-future-what-can-documentarians-learn-from-the-past-jrondeau
+  series: Write the Docs EU
+  series_slug: eu
+  slug: back-to-the-future-what-can-documentarians-learn-from-the-past-jrondeau
+  speakers:
+  - name: Jennifer Rondeau
+    slug: jrondeau
+    twitter: bradamante
+  title: 'Back to the Future: What Can Documentarians Learn From The Past?'
+  year: '2015'
+  youtubeId: _SW84nNlgmo
+- abstract: "<p>As documentarians, we face plenty of hurdles to delivering what we\
+    \ are\nassigned (harried and inaccessible subject matter experts, barely\nfunctioning\
+    \ builds, sketchy doc infrastructure, etc.). But there are also\nthe obstacles\
+    \ that keep us from writing the docs we *want*, and those are\nlargely ingrained\
+    \ in our companies' processes and our own heads.</p>\n\n<p>We pay lip service\
+    \ to \"the user\" but then subordinate that to concerns of\nstructure, consistency,\
+    \ and stylistic conventions. The result is often docs\nthat are internally consistent\
+    \ and satisfy the editorial, translation, and\nproduction teams for their economy\
+    \ and re-usability but are so dry and\nproduct-centered that they fail to connect\
+    \ with the most important audience\n- actual human beings.</p>\n\n<p>In this presentation,\
+    \ I'll talk about ways to overcome burdensome\norganizational processes and our\
+    \ own timidity to create room for the\ninspiration and creativity needed to bring\
+    \ the docs' subject alive.</p>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/free-your-mind-and-your-docs-will-follow-pkeegan
+  series: Write the Docs EU
+  series_slug: eu
+  slug: free-your-mind-and-your-docs-will-follow-pkeegan
+  speakers:
+  - name: null
+    slug: pkeegan
+  title: Free Your Mind and Your Docs Will Follow
+  year: '2015'
+  youtubeId: H_kC8_hfpe8
+- abstract: "<p>Community Management in Free Software communities is still an emerging\n\
+    field and has produced a spectrum of practitioners: from master-manipulators\n\
+    of social media, to those more focused on metrics and data as a means to\ndriving\
+    \ process. Either way, the state of the art is still largely driven by\nthe needs\
+    \ of technical contributors to projects.</p>\n\n<p>Good documentation is a crucial\
+    \ component in a software product and yet\noften technical writers are overlooked\
+    \ as important stakeholders of the\nprocess. Within the community, there are undoubtedly\
+    \ common problems between\nengineers and technical writers. Software Engineering\
+    \ is full of laws; can\nwe show that these laws apply to technical writers as\
+    \ a means to help bridge\nthe chasm between developers and technical writers??</p>\n\
+    \n<p>In this talk Paul walks us through a selection of his favourite laws of\n\
+    software engineering and explores how developers measure them and if\ntechnical\
+    \ writers must also obey them. Or not. And what that means for the\nsuccess of\
+    \ documentation in a Free Software project.</p>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/judas-priest-ate-my-scrum-master-padams
+  series: Write the Docs EU
+  series_slug: eu
+  slug: judas-priest-ate-my-scrum-master-padams
+  speakers:
+  - name: Paul Adams
+    slug: padams
+    twitter: therealpadams
+  title: Judas Priest Ate My Scrum Master
+  year: '2015'
+  youtubeId: 35AzPlwAhNg
+- abstract: "<p>\"So, your project needs better docs. For that, you'd need lots of\n\
+    people. Professionalism. A well-thought out plan. All the tools. And a\nwhopping\
+    \ budget in both time and money.</p>\n\n<p>Instead, you're sitting there, with\
+    \ just a few paperclips, seven moldy\nMentos mints, a strip of Duct tape, a pencil\
+    \ and some nail polish\nremover...</p>\n\n<p>Oh, hang on! There's also the combined\
+    \ experiences of generations of\npeople fighting seemingly insurmountable odds.\
+    \ From environmental activists\nto LGBTQ people taking to the streets, we can\
+    \ draw on a rich history of\ninspired individuals taking whatever is at hand,\
+    \ mixed with some clever\nzaniness to quite fabulous effect.</p>\n\n<p>So, what\
+    \ if we apply an activist mindset and some DIY hacking into our\nprocess? What\
+    \ lessons can we learn from a world where TOC means Theory Of\nChange, where working\
+    \ on a shoestring budget is the norm and where\nempowering people to go beyond\
+    \ what they think they can do is considered\nmission-critical?</p>\n\n<p>To be\
+    \ clear: the aim here is not to knock professionalism in docs, quite\nthe contrary!\
+    \ Yet, faced with a lack of resources, 'bend the rules and get\ngoing' sure beats\
+    \ lethargy. Not to mention being fun...</p>\n\n<p>(And before you think I'll be\
+    \ bringing back the dreaded mullet: the next\nMacGyver will be a woman, according\
+    \ to <a\nhref=\"http://thenextmacgyver.com\">http://thenextmacgyver.com</a>)\"\
+    </p>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/macgyvering-your-docs-proeland
+  series: Write the Docs EU
+  series_slug: eu
+  slug: macgyvering-your-docs-proeland
+  speakers:
+  - name: Paul Roeland
+    slug: proeland
+    twitter: polyester
+  title: MacGyvering your docs
+  year: '2015'
+  youtubeId: Y2QxSTJ1jVs
+- abstract: "<p>Presenting a business case for quality documentation can sometimes\
+    \ be a\ndifficult enough task. Adding to that the accessibility requirements,\
+    \ and\nthe whole idea may resemble a mission impossible. The fact that official\n\
+    standards (WCAG and WAI-ARIA) themselves seem to require user manuals in\norder\
+    \ to be properly implemented, is not helping developers, technical\ncommunicators\
+    \ and content managers achieve the desired results. This talk\nwill present the\
+    \ main points and a selection of tools to get through the\nlabyrinth of WCAG techniques\
+    \ and guidelines, and help you make your techcomm\nproject accessibility-ready.\
+    \ Welcome to A11y for Tech Docs!</p>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/inclusive-tech-docs-techcomm-meets-accessibility-rmatic
+  series: Write the Docs EU
+  series_slug: eu
+  slug: inclusive-tech-docs-techcomm-meets-accessibility-rmatic
+  speakers:
+  - name: Radina Matic
+    slug: rmatic
+    twitter: RadinaMatic
+  title: Inclusive Tech Docs - TechComm Meets Accessibility
+  year: '2015'
+  youtubeId: RcjpBNIKlf8
+- abstract: "<p>Do you feel like a fraud? Do you have that sneaking fear of being\
+    \ \u201Cfound\nout\u201D and exposed? Imposter syndrome is corrosive. It holds\
+    \ us back at work -\nespecially in an industry where we can feel constantly under\
+    \ review by\ntalented peers - and erodes our happiness. And the subject always\
+    \ comes up\nwhenever technical writers gather; sometimes it feels like the very\n\
+    definition of a technical writer is \u201COne who experiences imposter\nsyndrome.\u201D\
+    </p>\n\n<p>Why is this? The first, shorter part of this talk will cover some\n\
+    research and insights into why we, as documentarians, may be especially\nsusceptible\
+    \ to imposter syndrome.</p>\n\n<p>But the field of tech writing is experiencing\
+    \ a swerve: a tipping point -\na sea change in direction.  There will always be\
+    \ a demand for \"\"old\"\" tech\nwriting, but many of us will have to adapt to\
+    \ this new environment.</p>\n\n<p>In the second, forward-looking part of this\
+    \ talk, I\u2019ll argue that being\nan \u201Cimposter\u201D has its advantages\
+    \ during such a time of change. The very\nfactors that contribute to our self-doubt\
+    \ are actually the qualities that\nwill enable us to thrive as our role inexorably\
+    \ evolves to take on new,\nunsolved challenges in engineering information. The\
+    \ keys to our success:\napophenia (the ability to see connections between seemingly\
+    \ random\ncollections of information), empathy, and adaptability.</p>\n\n<p>Our\
+    \ future is bright if we pay attention to our new opportunities instead\nof that\
+    \ nagging voice in our heads.</p>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/imposter-no-more-how-tech-writers-can-shed-self-doubt-embrace-uncertainty-and-surf-the-upcoming-swerve-in-technical-documentation-rmacnamara
+  series: Write the Docs EU
+  series_slug: eu
+  slug: imposter-no-more-how-tech-writers-can-shed-self-doubt-embrace-uncertainty-and-surf-the-upcoming-swerve-in-technical-documentation-rmacnamara
+  speakers:
+  - name: Riona MacNamara
+    slug: rmacnamara
+    twitter: rionam
+  title: 'IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty,
+    and Surf the Upcoming Swerve in Technical Documentation'
+  year: '2015'
+  youtubeId: pg_Y9hUt2dg
+- abstract: "<p>A picture says more than \u2026how many lines of code?</p>\n\n<p>Firstly\
+    \ this talk offers an introduction to a variety of established as\nwell as experimental\
+    \ visual documentation methods. Subsequently, it explores\nthe question whether\
+    \ or not these approaches can be applied to software\ndocumentation in a reasonable\
+    \ way.</p>\n\n<p>In this regard it takes a closer look at individual methods and\
+    \ estimates\ntheir corresponding affordances in terms of time, skill, resources\
+    \ and\npotential automatization.</p>\n\n<p>Eventually, this talk presents an initial\
+    \ attempt to translate existing\ndocs into visual languages and discusses the\
+    \ according outcomes.</p>\n\n<p>Primarily, the objective of reading and writing\
+    \ the docs serves the\npurpose to convey clear, unambiguous information, at the\
+    \ same time, the\nexperience should be as engaging and pleasant as possible. Building\
+    \ a Visual\nDocumentation Language serves to reach this goal.</p>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/visual-documentation-language-sheinen
+  series: Write the Docs EU
+  series_slug: eu
+  slug: visual-documentation-language-sheinen
+  speakers:
+  - name: Sonja Heinen
+    slug: sheinen
+    twitter: sonjaheinen
+  title: Visual Documentation Language
+  year: '2015'
+  youtubeId: njXdQmcSX-k
+- abstract: "<p>Most of the documentation we read today puts a lot of burden on us\
+    \ before\nwe have the chance to get to the gist. Abstract and clear concepts are\n\
+    replaced by concrete and comprehensive ones. The real values are hindered by\n\
+    opaque clouds of facts about tools of trade. As a result, thinking and\nimagination\
+    \ are suppressed.</p>\n\n<p>But what if we can write documentation that encourages\
+    \ thinking?</p>\n\n<p>Let's look together on what really matters when documenting\
+    \ computer\nsystems. We will discuss how a documentation and system design can\
+    \ walk hand\nin hand and to improve the communication between both humans and\n\
+    machines.</p>\n"
+  event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/writing-for-what-matters-writing-for-thinking-znemec
+  series: Write the Docs EU
+  series_slug: eu
+  slug: writing-for-what-matters-writing-for-thinking-znemec
+  speakers:
+  - name: "Zden\u011Bk N\u011Bmec"
+    slug: znemec
+    twitter: zdne
+  title: Writing for what matters. Writing for thinking.
+  year: '2015'
+  youtubeId: bKOnRVb_0TE
+- event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/lightning-talks-day-one
+  series: Write the Docs EU
+  series_slug: eu
+  slug: lightning-talks-day-one
+  title: Lightning Talks - Day One
+  year: '2015'
+  youtubeId: RGl6bu0_NFc
+- event: Write the Docs EU 2015
+  path: conf/eu/2015/videos/lightning-talks-day-two
+  series: Write the Docs EU
+  series_slug: eu
+  slug: lightning-talks-day-two
+  title: Lightning Talks - Day Two
+  year: '2015'
+  youtubeId: g6hQdc9GOlQ

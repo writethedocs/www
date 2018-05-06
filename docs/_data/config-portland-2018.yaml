@@ -1,0 +1,72 @@
+name: Portland
+
+shortcode: portland # prague australia?
+templatecode: na # HACK
+year: 2018
+city: Portland
+local_area: Oregon
+area: North America # European Australian
+area_adj: North American
+tz: PST
+email: portland@writethedocs.org
+
+photos:
+  default: _static/2018/assets/headers/group.png
+
+tickets:
+  community:
+    price: $750
+  corporate:
+    price: $450
+  independent:
+    price: $250
+  student:
+    price: $100
+
+date: # how do we handle these? human readable would be nice.
+  main: "**May 6-8, 2018, in Portland, Oregon**"
+  short: May 6-8, 2018
+  tickets_live: "January 2018"
+  month: May
+  sat: 5
+  day_one:
+    event: Hike
+    date: May 5
+    summary: If you're in town early, join us for the <a href="/conf/portland/2018/hike/">Hike</a>. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    icon: hike
+  day_two:
+    event: Writing Day
+    date: May 6
+    summary: Join us for the <a href="/conf/portland/2018/writing-day/">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    icon: writing
+  day_three:
+    event: Main Conference
+    date: May 7-8
+    summary: The main days of the conference. We will be running our main track in the ballroom, and the <a href="/conf/portland/2018/unconference/">Unconference</a> in Lola's Room.
+    icon: conference
+
+about:
+  summary:
+    "The main presentation track takes place from **May 7-8 (Monday and Tuesday) from 9am to 6pm**.
+    We will return to the historic `Crystal Ballroom <http://www.mcmenamins.com/CrystalBallroom>`_, `centrally located <http://goo.gl/maps/D2WrJ>`_ in the heart of Portland.
+    During the main event we also run an :doc:`/conf/portland/2018/unconference` downstairs in Lola's Room.
+
+    You can find out more information about the venue and its accessibility on our :doc:`/conf/portland/2018/venue` page."
+  location:
+    "Crystal Ballroom located at 1332 W Burnside St"
+
+cfp:
+  url: https://docs.google.com/forms/d/e/1FAIpQLSdb-MNRT3TdDTuVIcf-3lZRWDOgguZfjatLr-HLN5ngx5t04w/viewform
+  ends: "January 10, 2018"
+  notification: "end of January"
+
+
+flagspeakersannounced: True
+flagcfp: False
+flaghasschedule: True
+flagticketsonsale: False
+flaghashike: True
+flaghasboat: False
+flaghasshirts: True
+flaglanding: False
+flaghassponsors: True

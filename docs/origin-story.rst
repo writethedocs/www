@@ -97,8 +97,7 @@ as "the Erics").
     coalesce into a community. We are providing the space to allow this
     to happen, both in person and online.
 
-The headline quote above is from a doc, then titled "`Write the Docs:
-Manifesto <http://docs.writethedocs.org/about/vision/>`__\ ", written
+The headline quote above is from a doc, then titled :doc:`/guide/about/vision/`, written
 that night. The Erics almost laughed the idea off at first; no one would
 come, no one would sponsor it. I said "no really, it's not that hard,
 let's see what could happen" and bought another round of beer. So, we
@@ -115,10 +114,8 @@ Instead, we had hundreds of signups for the mailing list in the first
 day. Over the next couple months we were contacted by people from a
 variety of disciplines; technical writing industry groups, designers,
 typographers, literate programmers, API driven startups, and more. We
-quickly `found a new
-venue <http://docs.writethedocs.org/conference/venue/>`__,
-and sold out a 250 person conference. The
-`experience <http://adaptgather.com/2013/04/11/write-the-docs-2013/>`__
+quickly found a new venue, and sold out a 250 person conference. The
+`experience <https://thoughtfuldrift.info/2013/04/11/write-the-docs-2013.html>`__
 was amazing. We'd found our tribe, and they'd found us.
 
 Now, we're ramping up for year two, with conferences both `in

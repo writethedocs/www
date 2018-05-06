@@ -1,4 +1,6 @@
 :template: 2017/eu-index.html
+:orphan:
+
 
 .. raw:: html
 
@@ -19,8 +21,8 @@
                   </div>
                   <div class="col-xs-12 col-md-7 text-xs-center text-md-right">
                     <div class="buy-ticket__2nd-col">
-                      <a href="cfp/" class="btn btn-primary button button--narrow buy-ticket__talk">Submit a talk!</a>
-                      <p class="buy-ticket__p">or</p>
+                      <a href="#news" class="btn btn-primary button button--narrow buy-ticket__talk">What's new?</a>
+                      <p class="buy-ticket__p">|</p>
                       <a href="https://ti.to/writethedocs/write-the-docs-eu-2017/" class="btn btn-primary button button--narrow buy-ticket__ticket">Buy a ticket!</a>
                     </div>
                   </div>
@@ -91,48 +93,71 @@
                 </div>
               </section>
 
-              <section class="section">
+.. datatemplate::
+   :source: /_data/2017.eu.speakers.yaml
+   :template: 2017/speaker-list.html
+
+.. raw:: html
+
+              <section class="section" id="news">
                 <div class="row">
                   <div class="col-xs-12">
                     <div class="section__header subheader">
+
                       <span class="subheader__yellow"></span>
                       <h2 class="subheader__header">Latest News</h2>
-                      <!-- Kill this for now
-                      <a href="news.html" class="subheader__more">Read all news</a>
-                      -->
+                      <a href="news/" class="subheader__more">Read all news</a>
                     </div>
                   </div>
                 </div>
 
                 <div class="row">
                 <div class="col-xs-12 col-md-4">
-                  <a href="news/announcing-cfp/" class="well news__tile">
+                  <a href="news/recap-retrospective/" class="well news__tile">
                     <h3 class="well__title">
-                      Announcing Call for Proposals
+                      Recap and Retrospective
                     </h3>
                     <p class="well__paragraph">
-                    We're happy to officially announce the Call for Proposals for Write the Docs Prague 2017!
+                    Thanks for attending the 2017 edition of Write the Docs Prague!
+                    We're so grateful to our speakers, sponsors, volunteers...
                     </p>
                     <div class="well__time">
-                      <span>11:14</span>|<span>Apr 17, 2017</span>
+                      <span>12:00</span>|<span>October 16, 2017</span>
                     </div>
                   </a>
                 </div>
-                  <div class="col-xs-12 col-md-4">
-                    <a href="news/announcing-website-tickets/" class="well news__tile">
-                      <h3 class="well__title">
-                        Announcing Website and Ticket Sales
-                      </h3>
-                      <p class="well__paragraph">
-                      We're happy to officially announce Write the Docs Prague 2017!
-                      It’s shaping up to be another wonderful year full of great conversations
-                      and interesting talks...
-                      </p>
-                      <div class="well__time">
-                        <span>12:00</span>|<span>Mar 1, 2017</span>
-                      </div>
-                    </a>
-                  </div>
+
+                <div class="row">
+                <div class="col-xs-12 col-md-4">
+                  <a href="news/2week-info/" class="well news__tile">
+                    <h3 class="well__title">
+                      Get Ready for Write the Docs Prague 2017!
+                    </h3>
+                    <p class="well__paragraph">
+                    Our website is up-to-date with the latest details about sessions,
+                    activities, and locations. However, we are also happy to share with
+                    you a quick summary right here...
+                    </p>
+                    <div class="well__time">
+                      <span>12:00</span>|<span>August 28, 2017</span>
+                    </div>
+                  </a>
+                </div>
+
+                <div class="row">
+                <div class="col-xs-12 col-md-4">
+                  <a href="news/announcing-schedule/" class="well news__tile">
+                    <h3 class="well__title">
+                      Announcing talk Schedule
+                    </h3>
+                    <p class="well__paragraph">
+                    Our website is now updated with the final schedule for
+                    the talks...
+                    </p>
+                    <div class="well__time">
+                      <span>12:00</span>|<span>August 8, 2017</span>
+                    </div>
+                  </a>
                 </div>
 
               </section>
@@ -175,6 +200,25 @@
                 </div>
 
 .. include:: /include/conf/2017-eu-sponsors-in-kind.rst
+
+.. raw:: html
+
+              <div class="row">
+                <div class="col-sm-8 col-sm-offset-2">
+                <br />
+                <h3>
+                  Media Sponsors
+                </h3>
+                </div>
+              </div>
+
+                <div class="row">
+                  <div class="col-sm-8 col-sm-offset-2">
+                    <p>These folks will be helping cover the conference so people who can't attend still get all the good information that is being presented!</p>
+                  </div>
+                </div>
+
+.. include:: /include/conf/2017-eu-sponsors-media.rst
 
 .. raw:: html
 
