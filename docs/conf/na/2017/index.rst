@@ -246,7 +246,7 @@
                       <h2 class="subheader__header">Write-Ups from the Community</h2>
 		      <br />
                 <ul>
-                  <li><a href="https://twitter.com/tomjohnson/status/870988282225508353">API Documentation at WTD NA 2017 | Pronovix #writethedocs </a></li>
+                  <li><a href="https://pronovix.com/blog/api-documentation-wtd-na-2017">API Documentation at WTD NA 2017 | Pronovix #writethedocs </a></li>
                   <li><a href="https://twitter.com/rainbowkenz/status/841744552503345152">Hey @DiverseCauses, congrats on the talk at #writethedocs NA 2017!</a></li>
                 </ul>
               </div>
