@@ -48,7 +48,7 @@ We'll be creating and editing content, so make sure that you have the tools you 
 
 #### Documenting a new project?
 
-Check out our [beginners guide](http://docs.writethedocs.org/writing/beginners-guide-to-docs/) to writing documentation.
+Check out our [beginners guide](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) to writing documentation.
 This should help you get started, and give you some ideas for how you can contribute to a project that you love.
 
 #### Projects
@@ -81,7 +81,7 @@ A guide to writing documentation. Help us make this guide great for people who w
 
 ##### RAML-based API generator
 
-I’m working on the API Reference for a new web service. I have all of the APIs defined in a RAML file, which also allows me to use the same source to generate the documentation. Ideally, I’d also like to make the API reference interactive.  As examples, see <http://developer.wordnik.com/docs.html#!/account>, <https://support.3scale.net/reference/active-docs> or <http://developer.marvel.com/docs>.
+I’m working on the API Reference for a new web service. I have all of the APIs defined in a RAML file, which also allows me to use the same source to generate the documentation. Ideally, I’d also like to make the API reference interactive.  As examples, see <http://developer.wordnik.com/docs.html#!/account> or <http://developer.marvel.com/docs>.
 
 Let's work together to make this happen at the Writing Day!
 
