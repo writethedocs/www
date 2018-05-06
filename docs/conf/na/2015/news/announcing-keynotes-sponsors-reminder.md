@@ -32,7 +32,7 @@ Federated Wiki.
 #### Marcia Johnston
 
 Our second keynote speaker is [Marcia
-Johnston](http://howtowriteeverything.com/marcia-riefer-johnston-bio/).
+Johnston](http://writing.rocks/marcia-riefer-johnston-bio/).
 Marcia is the author of multiple books on writing well and speaks on
 the topic at conferences around the country. She will be speaking about
 how to make sure the words you write are actually understood by your
