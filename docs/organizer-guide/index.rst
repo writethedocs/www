@@ -25,6 +25,7 @@ Information about the global Write the Docs :doc:`/meetups/index`.
 
    meetups/starting
    meetups/faq-meetups
+   meetups/sustainable-meetups
 
 Newsletter
 ------------
