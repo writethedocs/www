@@ -15,13 +15,13 @@ photos:
 
 tickets:
   corporate:
-    price: 100
-    url: 
+    price: $150
+    url:
   independent:
-    price: 75
+    price: $100
     url:
   student:
-    price: 50
+    price: $50
     url:
 
 date: # how do we handle these? human readable would be nice.
@@ -29,7 +29,7 @@ date: # how do we handle these? human readable would be nice.
   short: Nov 15-16, 2018
   tickets_live: "July 2018"
   month: November
-  sat: 
+  sat:
   day_one:
     event: Talks
     date: Nov 15
@@ -46,9 +46,9 @@ about:
   location:
 
 cfp:
-  url: 
-  ends: 
-  notification: 
+  url:
+  ends:
+  notification:
 
 flaglanding: True
 flagspeakersannounced: False
