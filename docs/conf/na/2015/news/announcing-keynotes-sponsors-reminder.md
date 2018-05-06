@@ -44,10 +44,7 @@ More information about these talks can be found on the
 
 ## Call for Proposals Reminder
 
-There is still time to submit your talk to Write the Docs!  The [Call
-for Proposals](http://www.writethedocs.org/conf/na/cfp/) ends on
-**February 28th at Midnight PST**, so make sure to get your talk in this
-month.
+There is still time to submit your talk to Write the Docs!
 
 Our community is full of amazing people,
 and we'd love to have you come and share your experiences with us.
