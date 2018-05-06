@@ -36,7 +36,7 @@ Writing Day
 Get together with other documentarians and work on an open source project and learn some new skills.
 
 * **Where**: Crystal Ballroom
-* **When**: **9am-5pm**
+* **When**: **9am-5pm**, Doors at 8am.
 * **Details**: :doc:`Writing Day documentation sprints </conf/portland/2018/writing-day>`
 
 Reception
