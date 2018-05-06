@@ -10,7 +10,7 @@ area_adj: str()
 tz: str()
 email: str()
 
-photos: include ('photo-default')
+photos: include('photo-default')
 
 tickets: include('ticket-details')
 
@@ -36,19 +36,19 @@ flaglanding: bool()
 ---
 photo-default:
   default: str()
----
+
 ticket-details:
   community: include('price')
   corporate: include('price')
   independent: include('price')
   student: include('price')
----
+
 price: str()
----
+
 job-fair-price:
     price: str()
     half: str()
----
+
 date-details:
   main: str()
   short: str()
@@ -58,14 +58,14 @@ date-details:
   day_two: include('day-details', required=False)
   day_three: include('day-details', required=False)
   day_four: include('day-details', required=False)
---- 
+
 day-details:
     event: str()
     date: str()
     summary: str()
     icon: str()
     dotw: str()
----
+
   sponsorship-details:
     first_draft: include('price')
     second_draft: include('price')
@@ -75,18 +75,18 @@ day-details:
     job_fair: include('job-fair-price')
     lanyard: include('price')
     writing_day: include('price')
----
+
 about-details:
   summary: str()
   venue: str()
   attendees: int()
   mainroom: str()
   unconfroom: str()
----
+
 cfp-details:
   url: str()
   ends: str()
   notification: str()
----
+
 job-fair-details: 
   location: str()
