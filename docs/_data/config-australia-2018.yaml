@@ -16,7 +16,7 @@ photos:
 tickets:
   corporate:
     price: 100
-    url: 
+    url:
   independent:
     price: 75
     url:
@@ -29,7 +29,7 @@ date: # how do we handle these? human readable would be nice.
   short: Nov 15-16, 2018
   tickets_live: "July 2018"
   month: November
-  sat: 
+  sat:
   day_one:
     event: Talks
     date: Nov 15
@@ -46,9 +46,9 @@ about:
   location:
 
 cfp:
-  url: 
-  ends: 
-  notification: 
+  url:
+  ends:
+  notification:
 
 flaglanding: True
 flagspeakersannounced: False
@@ -56,3 +56,4 @@ flagcfp: False
 flagticketsonsale: False
 flaghashike: False
 flaghasboat: False
+flaghassponsors: False

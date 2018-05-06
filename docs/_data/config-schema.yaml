@@ -4,7 +4,7 @@ shortcode: str()
 templatecode: str()
 year: int()
 city: str()
-local_area: str() 
+local_area: str()
 area: str()
 area_adj: str()
 tz: str()
@@ -22,7 +22,7 @@ about: include('about-details')
 
 cfp: include('cfp-details')
 
-job_fair: include('job-fair-details')
+job_fair: include('job-fair-details', required=False)
 
 flaghassponsors: bool()
 flagcfp: bool()
@@ -44,7 +44,7 @@ ticket-details:
   student: include('price-type')
 
 price-type:
-  price: str()
+  price: int()
   url: str(required=False)
 
 price2:
@@ -93,5 +93,5 @@ cfp-details:
   ends: str(required=False)
   notification: str(required=False)
 
-job-fair-details: 
+job-fair-details:
   location: str(required=False)
