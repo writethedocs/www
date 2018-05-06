@@ -2,7 +2,8 @@
     <dl class="meetup-listing">
         {% for meetup in meetups %}
         <dt class="meetup-listing-detail">
-            <a href="{% if meetup['page'] %}{{ meetup['page'] }}{% else %}{{ meetup['website'] }}{% endif %}">
+
+            <a href="{% if meetup['page'] %}{{ meetup['page'] }}{% else %}http://www.meetup.com/{{ meetup['meetup'] }}/{% endif %}">
                 {% if meetup['city'] %}{{ meetup['city'] }}, {% endif -%}
                 {% if meetup['state'] %}{{ meetup|state_abbr }}, {% endif -%}
                 {{ meetup['country'] -}}
@@ -11,10 +12,10 @@
         {% if meetup.has_meta %}
         <dd>
           <dl class="meetup-listing-meta">
-            {# Alternative meetup link #}
-            {% if meetup['page'] and meetup['website'] %}
+            {# Alternative meetup link, we are already using the page as the site link #}
+            {% if meetup['page'] %}
               <div>
-                More information on <a href="{{ meetup['website'] }}">Meetup</a>
+                More information on <a href="http://meetup.com/{{ meetup['meetup'] }}/">Meetup</a>
               </div>
             {% endif %}
 
