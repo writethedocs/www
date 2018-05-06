@@ -19,7 +19,7 @@ As always, Write the Docs events are more than just talks. Every year we offer a
 
 Check out what we have in store for you this year in Melbourne:
 
-- **Writing Sprint.** Before the main talks, we'll be hosting a `Doc Sprint <http://www.writethedocs.org/conf/au/2017/schedule/#morning>`_ before we dive into the main sessions. This is an excellent opportunity to register early, meet your fellow documentarians, learn about and work on interesting documentation projects, and make yourself at home!
+- **Writing Sprint.** Before the main talks, we'll be hosting a `Doc Sprint <http://www.writethedocs.org/conf/au/2017/schedule/>`_ before we dive into the main sessions. This is an excellent opportunity to register early, meet your fellow documentarians, learn about and work on interesting documentation projects, and make yourself at home!
 
 - **Social Event.** TBA.
 
