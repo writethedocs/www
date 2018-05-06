@@ -250,7 +250,7 @@
                   <li><a href="https://twitter.com/rainbowkenz/status/841744552503345152">Hey @DiverseCauses, congrats on the talk at #writethedocs NA 2017!</a></li>
 		  <li><a href="https://opensource.com/article/17/7/write-the-docs-portland-2017
 https://feorlen.org/2017/05/26/write-the-docs-portland-conference/">Tips and top presentations from Write the Docs Portland 2017</a></li>
-		  <li><a href="https://feorlen.org/2017/05/26/write-the-docs-portland-conference/">Feorlen's Other Blog – Write the Docs Portland Conference </a></li>
+		  <li><a href="https://feorlen.org/2017/05/26/write-the-docs-portland-conference/">Feorlen's Other Blog: Write the Docs Portland Conference </a></li>
                 </ul>
               </div>
              </div>
