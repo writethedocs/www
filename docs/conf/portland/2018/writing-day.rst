@@ -67,13 +67,23 @@ Feel free to go through the full list of GitHub issues labeled `wtd-writing-day 
 And of course, we (`@jseldess` and `@amruta` on the Write the Docs Slack channel) will be available throughout the day to help out. Also feel free to reach out to us if you have questions or suggestions in the interim. See you on Writing Day!
 
 
-Netlify
-~~~~~~~
+Netlify CMS
+~~~~~~~~~~~
 
-The team from `Netlify <https://www.netlify.com/>`_ will be working on their open source tooling:
+`Netlify CMS <https://www.netlifycms.org/>`_ is an open source CMS for static site generators, created by the folks at `Netlify <https://www.netlify.com/>`_. You can add it to your site's Git repository to enable rich-text content editing in a `neat UI <https://cms-demo.netlify.com/>`_ with side-by-side realtime preview. Git functions like pull requests and commits are abstracted away behind UI buttons for publishing and creating drafts.
 
-* Netlify CMS
-* A full list of projects can be found here: https://www.netlify.com/open-source/
+We're a really friendly and active community, happy to answer questions in `Gitter chat <https://gitter.im/netlify/netlifyCMS>`_ or even Write the Docs Slack. (Try #static-site-generator or ping @verythorough!) We uphold the Contributor Covenant `Code of Conduct <https://github.com/netlify/netlify-cms/blob/master/CODE_OF_CONDUCT.md>`_, and we work hard to make sure all contributors feel welcome, supported, and `recognized <https://github.com/netlify/netlify-cms#contributors>`_.
+
+Documentation plays a key role in Netlify CMS—check out our first major foray into **documentation-driven development** with PR `#1311 <https://github.com/netlify/netlify-cms/pull/1311>`_, and feel free to add your thoughts!
+
+If contributing to Netlify CMS interests you, here are some possible paths to getting started:
+
+* Use a `starter template <https://www.netlifycms.org/docs/start-with-a-template/>`_ to get a site up in minutes, then take what you learn as you try the UI, and consider helping write a `user guide for content editors <https://github.com/netlify/netlify-cms/issues/1340/>`_.
+* Try the `tutorial <https://www.netlifycms.org/docs/add-to-your-site/>`_ for adding Netlify CMS to your existing static site, then help improve the experience for others by filing an issue or suggest a change directly by clicking **Edit this page**.
+* Check the issues labeled  `Area: docs <https://github.com/netlify/netlify-cms/issues?q=is%3Aissue+is%3Aopen+label%3A%22area%3A+docs%22>`_ to find out where we're looking for docs-related help. Some issues involve coding as well as writing, if that strikes your fancy.
+
+Jessica (@verythorough in Slack) and Irene will be arriving for Writing Day after lunch, and will be happy to answer questions and collaborate. If you want to get started in the morning but find yourself stuck, feel free to ask in `Gitter chat <https://gitter.im/netlify/netlifyCMS>`_. We look forward to meeting you!
+
 
 Write the Docs
 ~~~~~~~~~~~~~~
