@@ -53,7 +53,7 @@ Once again, we're grateful to the companies and organizations that `sponsor <htt
 
 * `Oracle Cloud <https://cloud.oracle.com/iaas>`_
 * `Google <https://www.google.com/>`_
-* `Microsoft Azure Advocates <https://developer.microsoft.com/en-us/advocates/index.html>`_
+* `Microsoft Cloud Developer Advocates <https://developer.microsoft.com/en-us/advocates/index.html>`_
 * `Mozilla <https://developer.mozilla.org/en-US/>`_
 * `Redhat <https://www.redhat.com/en>`_
 * `New Relic <https://newrelic.com/>`_
