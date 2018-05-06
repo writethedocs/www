@@ -23,7 +23,7 @@ This will render like this:
 - For italics, you need to wrap the item with one star on each side, like this: *one star on each side*.
 - For bold letters, you need to wrap the item with two stars on each side, like this: **two stars on each side**.
 - If you are using GitHub, you also have a possibility of using a strikethrough formatting, like this: ~~strikethrough~~.
-- You can also add links like this: [This text links to WritetheDocs](https://www.writethedocs.org).
+- You can also add links like this: [This text links to WritetheDocs](http://www.writethedocs.org/).
 
 ### How to add images?
 

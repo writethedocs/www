@@ -9,7 +9,7 @@ We are people who care about making the reader experience awesome by delivering 
 
 ## Where to Find Us
 
-- **meetups** - Currently handled on [Meetup.com](https://www.meetup.com/WriteTheDocsPHL/).
+- **meetups** - Currently handled on [Meetup.com](http://www.writethedocs.org/meetups/).
 - **chat** - Chat with meetup members via the official [Write the Docs Slack team](http://slack.writethedocs.org/). Introduce yourself in the `#philly` channel.
 - **Twitter** - [Twitter.com/WriteTheDocsPHL](https://twitter.com/WriteTheDocsPHL)
 - **Forum** - Long form discussion can be had in the [Write the Docs forum](http://forum.writethedocs.org/c/meetups).

@@ -41,16 +41,8 @@ We hope you continue to build the community and keep in touch with other documen
 
 Keep us posted if you start one (or encounter a new one) so that we can spread the word.
 
-* Seattle: <http://www.meetup.com/Write-The-Docs-Seattle/>
-* Portland: <http://www.meetup.com/Write-The-Docs-PDX/>
-* San Francisco: <http://www.meetup.com/Write-The-Docs/>
-* San Diego: <http://www.meetup.com/Write-the-Docs-San-Diego-CA/>
-* New York: <http://www.meetup.com/Write-The-Docs-NY/>
+* North America Current [Meetups](http://www.writethedocs.org/meetups/)
 * Your City Here -- [Start a meetup!](https://www.youtube.com/watch?v=ZwQ8Kd48d0w)
-
-## Notes
-
-We have a GitHub repository with notes about the talks and unconference sessions, sourced from all the folks at the conference. If you have notes, feel free to contribute them or read [the existing notes](https://github.com/writethedocs/attendee-notes).
 
 ## Thanks again
 
