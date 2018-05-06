@@ -73,11 +73,6 @@ Shaun McCance
 Primary Roles
 -------------
 
-You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
-
-Filled Roles
-~~~~~~~~~~~~~
-
 * **Conference chair** - Eric Holscher
 * **Code of conduct response** - See `code of conduct <http://www.writethedocs.org/code-of-conduct/#staff-contact-information>`_ page
 * **Communication chair** - Mikey Ariel
@@ -96,3 +91,4 @@ Filled Roles
 * **Welcome Wagon coordinators** - Christy Lutz
 * **Writing Day coordinator** - Shaun McCance
 
+You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
