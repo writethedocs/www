@@ -68,7 +68,7 @@ Please note that it is *not* common to hail taxis in Portland, and that your bes
 
 Driving to Crystal Ballroom
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you drive to the conference, parking in downtown Portland is limited and expensive. You can find parking facilities on `this map <https://ccplots.myparkingworld.com/CCP/en?latlng=45.5230622,-122.67648159999999&_ga=2.213379860.1820592276.1523473263-1319204019.1523473263>`__. The Explore Portland committee recommends parking in the `Brewery Blocks Garage <https://ccplots.myparkingworld.com/CCP/en?latlng=45.5230622,-122.67648159999999&_ga=2.213379860.1820592276.1523473263-1319204019.1523473263#details=61,216>`__ for $13 all day (if you're in bo 10 a.m.). It is clean and well-lit, and you can get back in if you stay out late with your fellow documentarians.
+If you drive to the conference, parking in downtown Portland is limited and expensive. You can find parking facilities on `this map <https://ccplots.myparkingworld.com/CCP/en?latlng=45.5230622,-122.67648159999999&_ga=2.42727333.1433763092.1525640043-1864967114.1525640043>`__. The Explore Portland committee recommends parking in the `Brewery Blocks Garage <http://www.breweryblocks.com/parking/>`__ for $13 all day (if you're in bo 10 a.m.). It is clean and well-lit, and you can get back in if you stay out late with your fellow documentarians.
 
 Bike Rentals
 ~~~~~~~~~~~~
