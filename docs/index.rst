@@ -5,6 +5,8 @@
    :author: Write the Docs
    :geo.placename: Worldwide
 
+**Write the Docs Portland is happening now!** Jump to the :doc:`schedule <conf/portland/2018/schedule>` or join the :doc:`livestream <conf/portland/2018/livestream>`!
+
 Welcome to our community!
 =========================
 
