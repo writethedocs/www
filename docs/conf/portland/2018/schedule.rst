@@ -14,7 +14,7 @@ All conference events (except the hike & social event) will be held at **Crystal
     :depth: 1
     :backlinks: none
 
-New in 2018! We're `live streaming </conf/portland/2018/livestreaming>`_ the talks! 
+New in 2018! We're `live streaming </conf/portland/2018/livestream>`_ the talks! 
 
 Saturday, May 5
 ---------------
