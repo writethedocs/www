@@ -19,7 +19,7 @@ you find something good to eat:
    38 <http://pdx.eater.com/maps/best-portland-restaurants-38>`__ is a
    great resource for delightful food.
 -  Willamette Week's `Restaurant
-   Guide <http://www.wweek.com/portland/restaurantguide>`__
+   Guide <http://www.wweek.com/restaurants/>`__
 -  Urban Spoon's `Best of
    Portland <http://www.urbanspoon.com/c/24/Portland-restaurants.html>`__
 -  `Food Carts Portland <http://www.foodcartsportland.com/>`__

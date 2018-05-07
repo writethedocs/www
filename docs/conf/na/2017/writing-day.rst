@@ -32,7 +32,7 @@ Writing Day Schedule
 Documenting a new project?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Check out our `beginners guide <http://docs.writethedocs.org/writing/beginners-guide-to-docs/>`_ to writing documentation.
+Check out our `beginners guide <http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/>`_ to writing documentation.
 This should help you get started,
 and give you some ideas for how you can contribute to a project that you love.
 
@@ -102,7 +102,7 @@ gracious thanks, and enthusiastic high-fives. Docs are located at `Kubernetes.io
 <https://kubernetes.io/docs/home/>`_ and they're pulled directly from `Github
 <https://github.com/kubernetes/kubernetes.github.io>`_.
 
-`Detailed instructions <https://docs.google.com/document/d/18oSE-QV7viiH75N-0Qb6LuHI-PwgiN-DdihHMeo8sts/edit#heading=h.9y5m5yroljay/>`_
+`Detailed instructions <https://docs.google.com/document/d/18oSE-QV7viiH75N-0Qb6LuHI-PwgiN-DdihHMeo8sts/edit>`_
 
 .. _openstack:
 

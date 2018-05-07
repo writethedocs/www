@@ -198,7 +198,7 @@ people you meet. Set a goal for yourself to meet a few, new people. Here
 are some tips:
 
 -  Find out who is attending the conference before you get there. Join
-   the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow
+   the `Write the Docs Slack <https://writethedocs.slack.com/>`__, follow
    the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
    and review the `list of
    speakers <http://http//www.writethedocs.org/conf/na/2016/speakers/>`__.

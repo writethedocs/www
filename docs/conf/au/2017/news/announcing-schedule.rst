@@ -11,7 +11,7 @@ Our website is now updated with the `final schedule <http://www.writethedocs.org
 Doc sprint
 -------------
 
-We will start off the day event with a half day doc sprint. Check out `Writing Sprint <http://www.writethedocs.org/conf/au/2017/schedule/#morning>`_ for information about the event.
+We will start off the day event with a half day doc sprint. Check out `Writing Sprint <http://www.writethedocs.org/conf/au/2017/schedule/>`_ for information about the event.
 
 Tickets Available
 ----------------------
