@@ -3,3 +3,11 @@ country: USA
 state: Texas
 city: Houston
 website: https://www.meetup.com/Write-the-Docs-Houston/
+meetup: Write-the-Docs-Houston
+organizers:
+  - name: Michaele Cerf
+    link: https://www.meetup.com/Write-the-Docs-Houston/members/12205633/
+  - name: Emily Zinsitz
+    link: http://twitter.com/ezinsitz/
+  - name: Jennifer Platt
+    link: https://www.meetup.com/Write-the-Docs-Houston/members/199395851/

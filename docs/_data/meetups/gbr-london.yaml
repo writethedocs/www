@@ -2,3 +2,9 @@ region: Europe
 country: United Kingdom
 city: London
 website: http://www.meetup.com/Write-The-Docs-London/
+meetup: Write-The-Docs-London
+organizers:
+  - name: Kristof Van Tomme
+    link: http://twitter.com/kvantomme/
+  - name: Kelly O'Brien
+    link: http://twitter.com/OBrienEditorial/

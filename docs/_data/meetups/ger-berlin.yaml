@@ -2,5 +2,9 @@ region: Europe
 country: Germany
 city: Berlin
 website: http://www.meetup.com/Write-The-Docs-Berlin/
-notes: |
-  Organised by [@plaindocs](https://twitter.com/plaindocs), [@chrischinch](https://twitter.com/chrischinch).
+meetup: Write-The-Docs-Berlin
+organizers:
+  - name: Sam Wright
+    link: https://twitter.com/plaindocs
+  - name: '@chrischinch'
+    link: https://twitter.com/chrischinch

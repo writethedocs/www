@@ -39,8 +39,16 @@ def load_meetups_by_region():
     result = collections.defaultdict(list)
     for yaml_file in glob.glob('_data/meetups/*.yaml'):
         meetup = load_yaml(yaml_file)
-        if 'website' not in meetup:
-            raise ExtensionError('Meetup needs a website')
+        # Conditionally show the meetup meta data block
+        meetup['has_meta'] = any([(key in meetup) for key in [
+            'organizers',
+            'website',
+            'twitter',
+        ]])
+        if 'meetup' not in meetup:
+            raise ExtensionError('Meetup missing `meetup` key: file={0}'.format(
+                yaml_file
+            ))
         result[meetup['region']].append(meetup)
     for _, meetups in list(result.items()):
         meetups.sort(key=lambda m: m.get('city', m['country']))

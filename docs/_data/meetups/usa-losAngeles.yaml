@@ -3,3 +3,11 @@ country: USA
 state: California
 city: Los Angeles
 website: https://www.meetup.com/Write-the-Docs-Los-Angeles/
+meetup: Write-the-Docs-Los-Angeles
+organizers:
+  - name: Andrea Kao
+    link: https://www.meetup.com/Write-the-Docs-LA/members/59612492/
+  - name: Marcy Harbut
+    link: https://www.meetup.com/Write-the-Docs-LA/members/3055706://www.meetup.com/Write-the-Docs-LA/members/3055706/
+  - name: Frank Solomon
+    link: https://www.meetup.com/Write-the-Docs-LA/members/13251974/

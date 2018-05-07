@@ -52,4 +52,3 @@ Know of a meetup not shown here? `Add it to the list <https://github.com/writeth
 
    nyc
    philly
-
