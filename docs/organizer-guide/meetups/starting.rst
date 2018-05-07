@@ -175,11 +175,16 @@ alternatives:
 * Coffee Klatches; suitable for meetups with a few people. The Seattle meetup has done well with this format.
 * Pure networking meetup; you can "roundtable" a specific topic; give each attendee a chance to talk about what they do.
 
-Starting the Meetup:
---------------------
+Starting and Running the Meetup
+-------------------------------
 
-Make sure every attendee feels welcome. Spend a bit of time with everyone. Help
-attendees interact and network.
+* Greet everyone and help them feel welcome.
+* Mention code of conduct.
+* Introduce the meetup and the theme.
+* Encourage folks to introduce themselves.
+* Allow time for networking and questions.
+* Help speakers get ready and set up AV resources.
+* Use supportive language.
 
 
 Joint meetup

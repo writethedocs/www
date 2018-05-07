@@ -118,7 +118,7 @@ so we don't have a history of Write the Docs proposals.
 However,
 here are a couple other interesting proposals that you can look at for inspiration:
 
-* [Plone Conference Proposal](https://old.plone.org/events/conferences/plone-conference-2016/boston-proposal-2016/view)
+* [Plone Conference Proposal](https://plone.org/events/conferences/plone-conference-2016/ploneconferenceboston2016proposal-2.pdf)
 * [Perl Conference Proposal](http://news.perlfoundation.org/2007/08/yapcna2008-chicagopm-bid.html)
 
 Thanks so much! We look forward to hearing about all the fantastic places we can go next year!

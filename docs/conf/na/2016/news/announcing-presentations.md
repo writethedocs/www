@@ -19,7 +19,7 @@ We’re all the people who care about making better docs.
 
 So here it is, the full list of presentations:
 
-* Panel: [Transforming your Documentation Process](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-panel)
+* Panel: [Transforming your Documentation Process](http://www.writethedocs.org/conf/na/2016/speakers/)
 * Britta Gustafson - [A lot of regulations and a big pile of open source repositories? Why technical writing for the government is fun!](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-britta-gustafson)
 * Daniel Stevens - [Atlassian: My Information Experience Adventure](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-daniel-stevens)
 * Neal Kaplan - [Two great teams that work better together: Bridging the gap between Documentation and Customer Support](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-neal-kaplan)
