@@ -53,7 +53,7 @@ Portland has a `separate streetcar network <http://www.portlandstreetcar.org/>`_
 
 If you are planning on using MAX, Portland Streetcar and/or city buses frequently during your stay, it may be worth investing in the `Hop Fastpass <https://myhopcard.com/>`__ fare card system.
 
-We recommend you use the `TriMet Trip Planner <https://trimet.org/#/planner>`__.
+We recommend you use the `TriMet Trip Planner <https://trimet.org>`__.
 
 Taxi Companies
 ~~~~~~~~~~~~~~
