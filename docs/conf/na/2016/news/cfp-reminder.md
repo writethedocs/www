@@ -10,7 +10,7 @@ Early Bird tickets are now sold out. Thanks to everyone who has already purchase
 
 # Submit your talk by the end of the month
 
-There is still time to submit your talk to Write the Docs! Remember, the [Call for Proposals](http://www.writethedocs.org/conf/na/cfp/) is open until **February 29th at Midnight PST**. You’ve got a whole extra day this year! So make sure to get your talk in this month.
+There is still time to submit your talk to Write the Docs!
 
 Remember, too – on the [Call for Proposals page](http://www.writethedocs.org/conf/na/2016/cfp/), we’ve got some tips and examples to help inspire you. And if you’ve got an idea, but you’re not sure what to do with it, ask for feedback on [Slack](http://slack.writethedocs.org/). Your fellow documentarians will be happy to help!
 

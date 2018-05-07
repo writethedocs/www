@@ -96,7 +96,7 @@ bunch of interesting people in a room together and have them work towards shared
 goals.
 
 Sprint projects include
-Mozilla's [MDN][mdn] and Write the Docs's [resources for documentarians][wtd-resources]. You are welcome to bring your own project
+Mozilla's [MDN][https://developer.mozilla.org/en-US/] and Write the Docs's [resources for documentarians][wtd-resources]. You are welcome to bring your own project
 to work on. [Let us know][email] if you want help, and we will add it to the list on our website,
 so people will know it's an option.
 The site is also on [GitHub](https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/writing-day.rst),
