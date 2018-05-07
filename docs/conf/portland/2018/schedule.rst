@@ -14,6 +14,8 @@ All conference events (except the hike & social event) will be held at **Crystal
     :depth: 1
     :backlinks: none
 
+New in 2018! We're `live streaming </conf/portland/2018/livestreaming>`_ the talks! 
+
 Saturday, May 5
 ---------------
 
@@ -88,7 +90,7 @@ Monday Night Social
 ~~~~~~~~~~~~~~~~~~~
 
 The official Write the Docs social!
-This event is for **conference attendees only**, so please bring your badge to be let into the venue. 
+This event is for **conference attendees only**, so please bring your badge to be let into the venue.
 There will be light snacks and drinks available on the conference while our tab lasts.
 
 * **Where**: Jack Knife, `614 SW 11th Ave <https://www.google.com/maps/place/Jackknife/@45.5205808,-122.6849434,17z/data=!3m1!4b1!4m5!3m4!1s0x54950a035f7576e3:0x1f37e53eb881856a!8m2!3d45.5205771!4d-122.6827547>`_
@@ -132,4 +134,3 @@ Conference Talks
 {% else %}
   A detailed schedule will be announced soon.
 {% endif %}
-
