@@ -67,7 +67,7 @@ your conversations over more substantial food.
 [centrl-map]: https://goo.gl/maps/xljmU
 [sprints]: http://en.wikipedia.org/wiki/Sprint_%28software_development%29
 
-[mdn]: http://mdn.mozilla.org
+[mdn]: https://developer.mozilla.org/en-US/
 [wordpress]: http://wordpress.org
 [wtd-resources]: http://docs.writethedocs.org/
 [opennews]: http://opennews.org/

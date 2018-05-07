@@ -87,4 +87,3 @@ Rather than reinvent the wheel, here are some resources curated by [Ivan Walsh](
 - [Stanford — Creating a web style guide](https://swsblog.stanford.edu/blog/creating-web-style-guide-cardinal-work)
 - [Techwhirl – Developing a Style Guide for Technical Publications](http://techwhirl.com/developing-a-departmental-style-guide/)
 - [UCR — Writing for the Web, Content Guidelines](http://cms.ucr.edu/writing_web_content.html)
-- [Unbound — 7 things to put into a web style guide](http://unboundmedia.com/going-digital-5-key-things-to-put-into-a-style-guide-for-web-content)
