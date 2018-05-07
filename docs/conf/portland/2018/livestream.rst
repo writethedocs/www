@@ -4,6 +4,10 @@
 Live Stream
 ===============
 
+New this year we are testing a live stream.
+It's a first time production,
+so let us know if it isn't working properly!
+
 
 .. raw:: html
 
