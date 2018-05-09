@@ -5,8 +5,6 @@
    :author: Write the Docs
    :geo.placename: Worldwide
 
-**Write the Docs Portland is happening now!** Go to the :doc:`schedule <conf/portland/2018/schedule>`, `unconference schedule <https://docs.google.com/spreadsheets/d/1Pil6UlHsF8vXFzPZV0cEfqqAT0ns7ZcEKM6iT81ierU/edit?usp=sharing>`_, or the :doc:`livestream <conf/portland/2018/livestream>`!
-
 Welcome to our community!
 =========================
 
