@@ -3,8 +3,8 @@
 .. post:: May 10, 2018
    :tags: prague-2018, dates, news, cfp
 
-Important Message about Scheduling and Inclusivity
-==============================================================
+A Message about Scheduling and Inclusivity
+==========================================
 
 Dear documentarians,
 
@@ -60,7 +60,7 @@ What will we do better in the future
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Firstly, we want to acknowledge that in 2019, the Jewish New Year holidays period begins in October, so there is no expected conflict with any dates we might choose in September.
-That said, we cannot guarantee that any future conference years (Prague, Portland, or elsewhere) will not conflict with anything ever again, as this is a long-term venture there are sure to be more difficult decisions that we might have to make down the line.
+That said, we cannot guarantee that any future conference years (Prague, Portland, or elsewhere) will not conflict with anything ever again, as this is a long-term venture there are sure to be more difficult decisions that we'll have to make down the line.
 
 What we can promise is:
 
