@@ -21,6 +21,7 @@
     website: erinmckean.com
   title: What Writing Dictionaries Taught Me About Writing Documentation (And What
     I Had to Unlearn)
+  youtubeId: O_xaiot6N7U
   year: 2018
 - abstract: "<p>Ah, good old FAQs: the internet\u2019s native documentation format.\
     \ In this talk, we\u2019ll explore various questions we might frequently ask ourselves\
@@ -44,6 +45,7 @@
     twitter: technicalleigh
     website: ''
   title: The Facts About FAQs
+  youtubeId: 8_fHC0OUkmc
   year: 2018
 - abstract: "<p>Our team has the classic documentation problem--a huge backlog of\
     \ work and not enough writers. Enter the documentation internship program, which\
@@ -68,6 +70,7 @@
     twitter: scribblingfox
     website: ''
   title: 'Starting from Scratch: Finding and Hiring Junior Writers'
+  youtubeId: GiHZY8P4kpA
   year: 2018
 - abstract: "<p>API documentation can been grouped into four classes\u2014Overviews,\
     \ Tutorials, How-to topics, and References. Each addresses a different customer\
@@ -92,6 +95,7 @@
     twitter: bobwatsonphd
     website: http://docsbydesign.com/
   title: 'Audience, Market, Product: Tips for strategic API documentation planning'
+  youtubeId: ax_6cS3JHvY
   year: 2018
 - abstract: "<p>These core principles have guided me during my (almost) two decades in the business. I'll share some real-world stories to show what kind of results you can expect.</p>
 <p>The tips:<ul>
@@ -116,6 +120,7 @@
     twitter: tedhudek
     website: https://threemilesup.wordpress.com/
   title: 7 Essential Tips for the Enlightened Tech Writer
+  youtubeId: -lHKnF2EPd8
   year: 2018
 - abstract: "<p>Thorough and optimal technical documentation often requires not just\
     \ an API reference of endpoints and parameters, or long contextual instructions,\
@@ -144,6 +149,7 @@
     twitter: larryullman
     website: larryullman.com
   title: Making Your Code Examples Shine
+  youtubeId: td15D2BLa4c
   year: 2018
 - abstract: "<p>I’d like to talk about the role of an editor and the art of enabling humans to create, publish and present technical content in a variety of media. Primarily in text, in the context of a blog or other ‘managed’ calendar-driven web publications. Not technical documentation. Sometimes it’s a mighty fine line between docs and blogs, but I think we can and should differentiate.</p>
 <p>This talk will explore principles and patterns of kind, effective editorial practice, and nuances of voice, civility, and clear communication, as they play out when working with a diverse distributed roster of authors, many of whom are non-native English speakers or first-time storytellers.</p>
@@ -161,6 +167,7 @@
     twitter: freshelectrons
     website: https://medium.com/@freshelectrons
   title: 'Not the Docs: content and voice on a developer blog'
+  youtubeId: bV2BQT3mTDU
   year: 2018
 - abstract: "<p>In the wider tech writer world, it\u2019s still common to hear tech\
     \ writers be certain that developers can\u2019t write good help: the prevailing\
@@ -191,6 +198,7 @@
     twitter: baitman
     website: ''
   title: Who Writes the Docs?
+  youtubeId: eOC6rsizIvM
   year: 2018
 - abstract: "<p>In a tech writer\u2019s career, creating and maintaining a great portfolio\
     \ is as important as it is stressful. What belongs in there? What constitutes\
@@ -217,6 +225,7 @@
     twitter: erin_rtfm
     website: https://www.readthefriendlymanual.com/
   title: 'Document Yourself: Practical Tips for a Low(er)-Stress Portfolio'
+  youtubeId: 3cXpf0Okmi8
   year: 2018
 - abstract: "<p>Congratulations! Someone realizes your awesome product needs equally\
     \ awesome documentation, and you\u2019ve earned the job! It\u2019s an exciting\
@@ -248,6 +257,7 @@
     twitter: NealKaplan
     website: customersandcontent.com
   title: Where do I start? The art and practice of documentation triage
+  youtubeId: 2EzIe-3LBwQ
   year: 2018
 - abstract: "<p>Ever lie awake at night wondering, How do we know if our documentation\
     \ is any good? What does \u201Cgood\u201D mean, anyway? Well, you\u2019re not\
@@ -273,6 +283,7 @@
     twitter: satchkat
     website: ''
   title: Building Empathy-Driven Developer Documentation
+  youtubeId: _HCmFvxxKaQ
   year: 2018
 - abstract: "<p>Style guides are a key tool for many documentarians \u2014 they guarantee\
     \ consistency, streamline onboarding, and even improve the documentation non-technical\
@@ -295,6 +306,7 @@
     twitter: thursdayb
     website: thursdaybram.com
   title: What They Don't Tell You About Creating New Style Guides
+  youtubeId: O1ZnCA-hZxQ
   year: 2018
 - abstract: "<p>We all want to create docs that help our users. We know good research\
     \ helps us to give our readers what they need and poor research can weaken our\
@@ -322,7 +334,8 @@
     slug: jen-lambourne
     twitter: Jenny__Anne
     website: ''
-  title: "Research like you\u2019re wrong: Lessons from user research gone rogue "
+  title: "Research like you\u2019re wrong: Lessons from user research gone rogue"
+  youtubeId: aCNbVf9Id5Y
   year: 2018
 - abstract: <p>There are multiple reasons to use screenshots, from introducing new
     features and helping confirm the context of content to simply breaking up walls
@@ -347,6 +360,7 @@
     twitter: Stegelin
     website: ''
   title: 'Graphic Content Warning: The Pros, Cons, and Alternatives to Screenshots'
+  youtubeId: a6iAmLul4Gg
   year: 2018
 - abstract: '<p>Years of being one of the "technical people" in activist circles resulted
     in my being continually called on to help community groups and fellow organizers
@@ -380,6 +394,7 @@
     twitter: kavbojka
     website: https://camilleacey.com
   title: 'Rewrite the Docs!: Field Notes from the Radical IT department'
+  youtubeId: 5WOM1ntJPFw
   year: 2018
 - abstract: "<p>You have an idea for the next great technical book. Maybe you're excited about a new technology that nobody's written about yet. Maybe you're unimpressed with the books that are out there on your favorite topic. Maybe writing a book is on your bucket list. This session will help your idea reach its potential as a published book. Technical publishing is an opaque process with a lot of moving parts, which can be confusing for outsiders to navigate. This session will guide you through the steps you should take to turn an idea into a proposal that a publisher will accept, and what to expect from the publishing experience.</p>
 <p>Creating a great technical book takes more than a good idea. It also requires a knowledge of the market, to determine whether there's an audience willing to buy, or whether the space is too crowded to accept new entries. Publishers vary in their approach and target markets, so you need to determine which one will provide the best chance of success. Self-publishing is an option, but carries its own risks and benefits. Doing the setup work that you may not have thought about yet will help you create a proposal that will appeal to publishers, and will also make the writing process easier.</p>
@@ -395,5 +410,6 @@
     name: Brian MacDonald
     slug: brian-macdonald
     twitter: bmac_editor
-  title: 'Writing the Next Great Tech Book '
+  title: 'Writing the Next Great Tech Book'
+  youtubeId: MKSXXKIe05o
   year: 2018
