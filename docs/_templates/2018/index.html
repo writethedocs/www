@@ -80,6 +80,11 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
          <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/speakers') }}">See the talks!</a>
 
          {% endif %}
+         {% if flaglivestreaming %}
+         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/livestream') }}">Live Stream!</a>
+
+         {% endif %}
+
 
          {% if flagvideos %}
 

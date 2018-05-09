@@ -35,6 +35,11 @@ Becky Yoose
 
 .. include:: /include/bios/becky.rst
 
+Jennifer Rondeau
+~~~~~~~~~~~~~~~~
+
+.. include:: /include/bios/jennifer.rst
+
 Rose Williams
 ~~~~~~~~~~~~~
 
@@ -73,6 +78,7 @@ Filled Roles
 * **Speaker wrangler** - Kelly O'Brien
 * **Infrastructure chair** - Samuel Wright
 * **Writing Day coordinator** - Shaun McCance
+* **Unconference coordinator** - Jennifer Rondeau
 * **Lightning Talk coordinator** - Rose Williams
 * **Communication chair** - Mikey Ariel
 * **Volunteer coordinator** - Becky Yoose
@@ -84,7 +90,6 @@ Filled Roles
 Organizers Needed
 ~~~~~~~~~~~~~~~~~
 
-* **Unconference coordinator** - TBA
 * **Workshop coordinator** - TBA
 * **Job Fair coordinator** - TBA
 * **Social media chair** - TBA
