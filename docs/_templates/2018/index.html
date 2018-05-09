@@ -81,10 +81,29 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
 
          {% endif %}
 
+         {% if flagvideos %}
+
+         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('videos/' + shortcode + '/2018') }}">Watch the videos!</a>
+
+         {% endif %}
+
         </div>
       </div>
     </div>
   </div><!-- end hero -->
+
+  {% if flagvideos %}
+
+  <div class="announcement">
+    <div class="uk-container">
+      <p style="vertical-align: middle;">
+        The Portland 2018 conference is now over.
+        Thanks for coming!
+      </p>
+    </div>
+  </div><!--- end announcement -->
+
+  {% else %}
 
   <div class="announcement">
     <div class="uk-container">
@@ -92,6 +111,8 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
       <a class="uk-button uk-button-announcement" href="{{ pathto('/newsletter') }}">Join our Mailing List</a>
     </div>
   </div><!--- end announcement -->
+
+  {% endif %}
 
   <div class="about">
     <div class="uk-container">
