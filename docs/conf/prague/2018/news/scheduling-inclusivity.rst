@@ -1,9 +1,9 @@
 :template: {{year}}/generic.html
 
-.. post:: May 2, 2018
+.. post:: May 10, 2018
    :tags: prague-2018, dates, news, cfp
 
-Important Message about Scheduling Conferences and Inclusivity
+Important Message about Scheduling and Inclusivity
 ==============================================================
 
 Dear documentarians,
