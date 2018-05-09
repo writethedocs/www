@@ -48,33 +48,30 @@ We weren't happy about this decision, but if we moved the conference to any othe
 What could we have done better
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Aside from the risks involved with choosing different dates or canceling the Prague conference altogether, there wasn't much we could have done with regards to the scheduling this year.
-What we realized following the feedback from the community, was that we failed to communicate our decision in a transparent and empathetic way at the time of annoucning the dates.
-
-Simply put - this blog post should have been published months ago.
-
-After we announced the dates, we received and handled several inquires by email or Slack messages from community members who questioned the date selection and asked to reschedule, but by the time we announced the dates we already had the venue contracts signed so it wasn't possible to make a change.
-
-Regardless of the actual scheduling problem, the fact that we received inquiries should have been a warning bell for us, as we saw in the past that for every person who writes to us with a question, there must be dozens more who wouldn't feel comfortable writing to us.
-We shouldn't have kept our responses to private channels, and we should have made a public accountability statement to address this much sooner.
-
-We owe it to our community to adhere to our philosophy of inclusivity in how we run our events, and if we are unable to choose the most inclusive option for our attendees, we should communicate about it promptly and transparently.
-In this case, we didn't do so, which caused portions of our community to feel as if they might have been overlooked, or worse - not welcome at our events.
+Our failure to communicate the scheduling decision and conflict explanation at the time of announcing the conference dates led to multiple inquiries from portions of our community, who felt as if they might have been overlooked, or worse - not welcome at our events.
 
 This was absolutely not our intention, and we are sorry that our actions had this impact on parts of our community.
+
+After we announced the dates, we received and handled several inquiries by email or Slack messages from community members who questioned the date selection and asked to reschedule, but by the time we announced the dates we already had the venue contracts signed so it wasn't possible to make a change.
+
+Regardless of the actual scheduling problem, the fact that we received inquiries should have been a warning bell for us, as we saw in the past that for every person who writes to us with a question, there must be dozens more who wouldn't feel comfortable writing to us.
+
+Rather than keeping our responses in the private channels, we should have made this public accountability statement to address this much sooner.
+
+**We owe it to our community to adhere to our philosophy of inclusivity in how we run our events, and if we are unable to choose the most inclusive option for our attendees, we should communicate about it promptly and transparently.**
 
 What will we do better in the future
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Firstly, we want to acknowledge that in 2019, the Jewish New Year holidays period begins in October, so there is absolutely no expected conflict with any dates we might choose in September.
-That said, we cannot guarantee that any future conference years (Prague, Portland, or otherwise) will not conflict with anything ever again, as this is a long-term venture and cannot predict what the far future will hold.
+That said, we cannot guarantee that any future conference years (Prague, Portland, or elsewhere) will not conflict with anything ever again, as this is a long-term venture there are sure to be more difficult decisions that we might have to make down the line.
 
 What we can promise is to improve our transparency around our scheduling practices, so that in case we must make another difficult decision in the future, we will inform you, the community, our documentarian family, of the process and considerations involved.
 
 Thank you for being you
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-We love Write the Docs because it's where documentarians from all walks of life should feel welcome.
+We love Write the Docs because it's where documentarians from all walks of life feel welcome.
 Sometimes we make mistakes that cause parts of our community to feel excluded, and it's our responsibility to own these mistakes and learn from them.
 
 We want to express our gratitude to the community members who took the time to discuss the impct of our actions (and inaction), and we hope that this blog post will help to shine some light into the how and why we ended up with these dates this year.
