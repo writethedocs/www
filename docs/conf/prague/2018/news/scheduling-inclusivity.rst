@@ -66,7 +66,9 @@ What will we do better in the future
 Firstly, we want to acknowledge that in 2019, the Jewish New Year holidays period begins in October, so there is absolutely no expected conflict with any dates we might choose in September.
 That said, we cannot guarantee that any future conference years (Prague, Portland, or elsewhere) will not conflict with anything ever again, as this is a long-term venture there are sure to be more difficult decisions that we might have to make down the line.
 
-What we can promise is to improve our transparency around our scheduling practices, so that in case we must make another difficult decision in the future, we will inform you, the community, our documentarian family, of the process and considerations involved.
+What we can promise is to:
+- if conflicts arise, take our past conflicts into account so that we can prevent the same group(s) from being excluded during consecutive years
+- improve our transparency around our scheduling practices, so that if we must make another difficult decision in the future, we will inform you, the community, our documentarian family, of the process and considerations involved
 
 Thank you for being you
 ~~~~~~~~~~~~~~~~~~~~~~~
