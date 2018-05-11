@@ -75,5 +75,5 @@ Things to Do in Cincinnati
 - `Music Hall <https://www.cincinnatiarts.org/music-hall>`_ — historic architecture and the home of the symphony orchestra, pops orchestra, ballet, and opera
 - `Cincinnati Musem Center <https://www.cincymuseum.org/>`_ — originally a train station, now a museum and the architectural inspiration for the `Hall of Justice <https://en.wikipedia.org/wiki/Hall_of_Justice_(comics)>`_
 - `Fountain Square <https://myfountainsquare.com/>`_  — the heart of downtown, with free live music every Friday and Saturday evening
-- `The Banks <http://thebankscincy.com>`_ dining and entertainment district on the riverfront
+- `The Banks <http://thebankscincy.com>`_  — dining and entertainment district on the riverfront
 - `Smale Riverfront Park <http://www.cincinnatiparks.com/smale-riverfront-park/>`_, `Sawyer Point <http://www.cincinnatiparks.com/river-parks/sawyer-point-park-yeatmans-cove/>`_, and `Friendship Park <http://www.cincinnatiparks.com/river-parks/theodore-m-berry-international-friendship-park/>`_  — parks and public spaces spanning two miles of the Ohio riverfront
