@@ -1,22 +1,19 @@
 How-to Use Git and Github
 #########################
 
-Written by: `David Smatlak <https://www.linkedin.com/in/davidsmatlak>`_
-
-
 
 Introduction
 ============
 
-Software developers use `Git <https://git-scm.com/>`_ and `GitHub <https://github.com/>`_ for version control of their source code. Documentation should be included with the software so it is necessary for technical writers to have knowledge of these tools. This document is a user guide for common Git commands to manage files stored on GitHub. The document explains how to set up and update a repository, and how to fork a respository so you can participate with open source projects. 
+Software developers use `Git <https://git-scm.com/>`_ and `GitHub <https://github.com/>`_ for version control of their source code. Documentation should be included with the software so it is necessary for technical writers to have knowledge of these tools. This document is a user guide for common Git commands to manage files stored on GitHub. The document explains how to set up and update a repository, and how to fork a repository so you can participate with open source projects. 
 
-If you do not have Git installed or a GitHub account you will need to do that before you begin. It is beneficial to have basic knowledge of `ReStructuredText <http://docutils.sourceforge.net/rst.html>`_ or `Markdown <http://commonmark.org/>`_ becasuse GitHub renders those markup languages. 
+If you do not have Git installed or a GitHub account you will need to do that before you begin. It is beneficial to have basic knowledge of `reStructuredText <http://docutils.sourceforge.net/rst.html>`_ or `Markdown <http://commonmark.org/>`_ because GitHub renders those markup languages. 
 
 * `Install Git <https://git-scm.com/book/en/v2/Getting-Started-Installing-Git>`_. There are versions for MacOS, Linux, and Windows.
 * Go to `GitHub <https://github.com/>`_ and click **Sign Up** to create an account.
  
 .. note::
-   You can manage your respositories via `HTTPS <https://help.github.com/articles/which-remote-url-should-i-use/>`_ or configure `SSH <https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/>`_.
+   You can manage your repositories via `HTTPS <https://help.github.com/articles/which-remote-url-should-i-use/>`_ or configure `SSH <https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/>`_.
 
 
 Terminology
@@ -29,9 +26,9 @@ There are some keywords to understand that will become more familiar as you use 
 * **Branch** - Each repository has a Master branch and can contain multiple development branches.
 * **Remote** - Name that refers to the URL for a repository.  
 * **Origin** - Remote name that references your GitHub repository. There are **fetch** and **push** URLs. 
-* **Fork** - Copy of another person's respository. You can add, change, or delete files with no affect on the upstream repository.  
-* **Upstream** - Remote name that references an upstream respository that you forked. There are **fetch** and **push** URLs.
-* **Pull Request** - After you make changes to a forked repository, submit a **pull request** to merge your changes with the upstream respository.
+* **Fork** - Copy of another person's repository. You can add, change, or delete files with no affect on the upstream repository.  
+* **Upstream** - Remote name that references an upstream repository that you forked. There are **fetch** and **push** URLs.
+* **Pull Request** - After you make changes to a forked repository, submit a **pull request** to merge your changes with the upstream repository.
 
 
 
@@ -66,7 +63,7 @@ You can create a repository on your computer or on GitHub. For this example we w
 Clone a Repository
 ------------------
 
-To download a GitHub respository to your computer use the :command:`git clone` command and the repository's URL. The cloned repository is where your work is performed. When you are satisfied with your changes you :command:`push` the updates to your GitHub repository. 
+To download a GitHub repository to your computer use the :command:`git clone` command and the repository's URL. The cloned repository is where your work is performed. When you are satisfied with your changes you :command:`push` the updates to your GitHub repository. 
 
 #. On your computer, create a root directory where your repositories will reside. 
 #. On GitHub, navigate to your repository and click the button labeled **Clone or download**.
@@ -94,7 +91,7 @@ To download a GitHub respository to your computer use the :command:`git clone` c
         remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
         Receiving objects: 100% (5/5), done.
 
-#. After the repository is cloned, compare the contents of the cloned directory and your GitHub respository. They should be identical. 
+#. After the repository is cloned, compare the contents of the cloned directory and your GitHub repository. They should be identical. 
 
 
 
@@ -178,7 +175,7 @@ Change Repository Content
 
 
 
-#. Perform the :command:`git status` command and read the output. The repository on your computer is now one commit ahead of the GitHub repository. If you list the contents of directory on your computer and compare it with the GitHub respository you will see that your new file does not exist on GitHub. 
+#. Perform the :command:`git status` command and read the output. The repository on your computer is now one commit ahead of the GitHub repository. If you list the contents of directory on your computer and compare it with the GitHub repository you will see that your new file does not exist on GitHub. 
 
    .. code-block:: shell
 
@@ -195,7 +192,7 @@ Change Repository Content
    For more practice, use these suggestions to update other files in your respository:
 
    * Update your **license** file. GitHub explains the `repository licenses <https://help.github.com/articles/licensing-a-repository/>`_ and provides the license text at `choosealicense.com <https://choosealicense.com/>`_. 
-   * Add an exclusion to your **gitignore**. For examples, refer to this `GitHub respository <https://github.com/github/gitignore>`_. 
+   * Add an exclusion to your **gitignore**. For examples, refer to this `GitHub repository <https://github.com/github/gitignore>`_. 
 
 
 .. _push-repo:
@@ -203,7 +200,7 @@ Change Repository Content
 Update a Repository
 -------------------
 
-After files are upated in the cloned repository we need to :command:`push` the updates to the GitHub respository. 
+After files are updated in the cloned repository we need to :command:`push` the updates to the GitHub repository. 
 
 #. To see how this works, use the :command:`git remote` command to display the repository's **fetch** and **push** URLs. 
 
@@ -231,7 +228,7 @@ After files are upated in the cloned repository we need to :command:`push` the u
          20fe071..c3bc10f  master -> master
 
 
-#. Do the :command:`git status` command to confirm there are no discrepancies between the respositories.
+#. Do the :command:`git status` command to confirm there are no discrepancies between the repositories.
 
    .. code-block:: shell
 
@@ -247,7 +244,7 @@ After files are upated in the cloned repository we need to :command:`push` the u
 Collaborate on an Open Source Project
 =====================================
 
-Open source projects are all about community, collaboration, and participation. When we find a project that sparks our creative interest we need to **fork** the repository, make changes that we hope will improve the project, and submit a **pull request** to merge our changes into the project. To emulate the process we will use the GitHub sample respository `octocat/Spoon-Knife <https://github.com/octocat/Spoon-Knife>`_. 
+Open source projects are all about community, collaboration, and participation. When we find a project that sparks our creative interest we need to **fork** the repository, make changes that we hope will improve the project, and submit a **pull request** to merge our changes into the project. To emulate the process we will use the GitHub sample repository `octocat/Spoon-Knife <https://github.com/octocat/Spoon-Knife>`_. 
 
 
 .. _fork-repo:
@@ -255,10 +252,10 @@ Open source projects are all about community, collaboration, and participation. 
 Fork a Repository
 -----------------
 
-The procedure to **fork** someone elses repository into your GitHub profile amounts to a couple of clicks on GitHub. Then, clone the forked repository to your computer. 
+The procedure to **fork** someone's repository into your GitHub profile amounts to a couple of clicks on GitHub. Then, clone the forked repository to your computer. 
 
 #. Login to your GitHub account.
-#. Find the respository for the project. For example, `octocat/Spoon-Knife <https://github.com/octocat/Spoon-Knife>`_.
+#. Find the repository for the project. For example, `octocat/Spoon-Knife <https://github.com/octocat/Spoon-Knife>`_.
 #. On the top, right of the page, click the button labeled **Fork**.
 
    .. figure:: /_static/img/gitbasics/octocat_fork_button.png
@@ -277,9 +274,9 @@ The procedure to **fork** someone elses repository into your GitHub profile amou
 Create a Fork's Upstream Remote
 -------------------------------
 
-When repository's are forked multiple people have copies of the upstream repository. There are continuous adds, changes, and deletes so you need a method to keep your fork up-to-date. The solution is to configure an upstream remote so that you can merge data. 
+When repositories are forked multiple people have copies of the upstream repository. There are continuous adds, changes, and deletes so you need a method to keep your fork up-to-date. The solution is to configure an upstream remote so that you can merge data. 
 
-#. On your computer, from the fork's respository use the command :command:`git remote` to display the current remotes.
+#. On your computer, from the fork's repository use the command :command:`git remote` to display the current remotes.
 
    .. code-block:: shell
 
@@ -312,11 +309,11 @@ When repository's are forked multiple people have copies of the upstream reposit
 Merge Upstream Data Into a Fork
 -------------------------------
 
-Before you begin to work on a forked respository you should merge the upstream respository into the cloned fork respository on your computer. This ensures that you have the most up-to-date files. Then :command:`push` your forked repository to your GitHub respository. 
+Before you begin to work on a forked repository you should merge the upstream repository into the cloned fork repository on your computer. This ensures that you have the most up-to-date files. Then :command:`push` your forked repository to your GitHub respository. 
 
 
 #. Open a terminal session and change to the repository's directory. 
-#. Run the following series of commands to merge changes from the upstream respository to your forked repository. If there are existing changes in your fork, they are not overwritten.  
+#. Run the following series of commands to merge changes from the upstream repository to your forked repository. If there are existing changes in your fork, they are not overwritten.  
 
    #. :command:`git fetch upstream`
    #. :command:`git checkout master`
@@ -355,7 +352,7 @@ Now your forked repository is ready for you to update some code or write a new d
 Submit a Pull Request
 ---------------------
 
-Most of us do not have permission to change the upstream repository, so we submit a :command:`pull request`. The change is reviewed by an owner of the repository and when it is approved your brilliant code or document are merged from your forked respository into the upstream respository. 
+Most of us do not have permission to change the upstream repository, so we submit a :command:`pull request`. The change is reviewed by an owner of the repository and when it is approved your brilliant code or document are merged from your forked repository into the upstream repository. 
 
 #. Login to your GitHub account.
 #. In your profile, navigate to your forked repository.
@@ -388,7 +385,7 @@ Most of us do not have permission to change the upstream repository, so we submi
 Delete a Repository
 ===================
 
-Nothing lasts forever and respositories are no exception. When you are 100% certain you are finished with a repository you can delete it from GitHub and your computer. You cannot undo and there is no recycle bin when you **delete** a GitHub repository. 
+Nothing lasts forever and repositories are no exception. When you are 100% certain you are finished with a repository you can delete it from GitHub and your computer. You cannot undo and there is no recycle bin when you **delete** a GitHub repository. 
 
 
 Delete a GitHub Repository
@@ -415,7 +412,7 @@ On your computer, delete the repository's directory. On Windows or Mac computers
 Conclusion
 ==========
 
-The purpose of this user guide was to show how to use some common Git commands and work with a GitHub respository. My hope is that the information was useful to learn the syntax and concepts needed to manage repositories with Git and GitHub. 
+The purpose of this user guide was to show how to use some common Git commands and work with a GitHub repository. My hope is that the information was useful to learn the syntax and concepts needed to manage repositories with Git and GitHub. 
 
 
 
