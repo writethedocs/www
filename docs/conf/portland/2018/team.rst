@@ -34,6 +34,7 @@ Christy Lutz
 Jennifer Rondeau
 ~~~~~~~~~~~~~~~~
 
+.. include:: /include/bios/jennifer.rst
 
 Kelly O'Brien
 ~~~~~~~~~~~~~
@@ -90,7 +91,7 @@ Primary Roles
 * **Unconference coordinator** - Jennifer Rondeau
 * **Lightning Talk coordinator** - Rose Williams
 * **Social media chair** - Mikey Ariel
-* **Speaker wrangler** - Kelly O'Brien
+* **Speaker coordinator** - Kelly O'Brien
 * **Sponsorship lead** - Eric Holscher
 * **Swag coordinator** - Mikey Ariel
 * **Unconference coordinator** - Jennifer Rondeau
