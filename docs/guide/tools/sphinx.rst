@@ -119,9 +119,9 @@ it works.
 
 .. _Sphinx: http://sphinx-doc.org/
 .. _headings: http://sphinx.pocoo.org/rest.html#sections
-.. _Sphinx Tutorial: http://sphinx-doc.org/tutorial.html#setting-up-the-documentation-sources
+.. _Sphinx Tutorial: http://sphinx-doc.org/tutorial.html
 .. _reStructuredText Primer:  http://sphinx.pocoo.org/rest.html#rst-primer
-.. _Sphinx install page: http://sphinx-doc.org/install.html#windows-install-python-and-sphinx
+.. _Sphinx install page: http://sphinx-doc.org/install.html
 
 
 Building docs

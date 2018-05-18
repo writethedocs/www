@@ -18,8 +18,6 @@ Here is a quick recap of the event, along with the feedback received from
 attendees and speakers. We encourage you to keep in touch and continue support and build this
 community.
 
-Photos available here: `Write the Docs Day Australia <https://photos.app.goo.gl/hVgfJdj7kYLIXiY93>`_
-
 Summary of events
 ------------------
 

@@ -3,3 +3,9 @@ country: USA
 state: Colorado
 city: Boulder/Denver
 website: http://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/
+meetup: Boulder-Denver-WriteTheDocs-Meetup
+organizers:
+  - name: Bri Hillmer
+    link: http://twitter.com/writebriwrite/
+  - name: MaryBeth Alexander
+    link: https://www.meetup.com/Write-the-Docs-Boulder-Denver/members/130670172/

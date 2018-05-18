@@ -49,7 +49,7 @@ Share the Love
 Thanks Again to Our Sponsors
 ----------------------------
 
-Once again, we're grateful to the companies and organizations that `sponsor <http://www.writethedocs.org/conf/portland/2018/sponsor/>`_ our events, some of them year after year:
+Once again, we're grateful to the companies and organizations that `sponsor <http://www.writethedocs.org/conf/portland/2018/sponsors/>`_ our events, some of them year after year:
 
 * `Oracle Cloud <https://cloud.oracle.com/iaas>`_
 * `Google <https://www.google.com/>`_

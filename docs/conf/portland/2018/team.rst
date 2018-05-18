@@ -54,6 +54,11 @@ Nikolas Blanchet
 ~~~~~~~~~~~~~~~~
 
 
+Jennifer Rondeau
+~~~~~~~~~~~~~~~~
+
+.. include:: /include/bios/jennifer.rst
+
 Rose Williams
 ~~~~~~~~~~~~~
 
@@ -81,6 +86,8 @@ Primary Roles
 * **Hike coordinator** - Eric Holscher
 * **Infrastructure chair** - Samuel Wright
 * **Job Fair coordinator** - Eric Holscher
+* **Writing Day coordinator** - Shaun McCance
+* **Unconference coordinator** - Jennifer Rondeau
 * **Lightning Talk coordinator** - Rose Williams
 * **Social media chair** - Mikey Ariel
 * **Speaker wrangler** - Kelly O'Brien

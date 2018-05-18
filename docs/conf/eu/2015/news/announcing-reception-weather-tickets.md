@@ -14,7 +14,7 @@ speakers talk about all things docs!
 ### Conference Reception - Sunday Evening (Aug 30)
 
 Come early, get your badge and get to know other attendees. The reception is hosted by our
-friends at [Apiary](https://apiary.io/company#contact) at their lovely new office
+friends at [Apiary](https://apiary.io/company) at their lovely new office
 in [Praha 8](https://goo.gl/maps/L7wCE).
 
 The reception will start at **6 PM** and will include drinks and light snacks. This event is

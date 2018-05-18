@@ -70,3 +70,5 @@ flaghasboat: False
 flaghasshirts: True
 flaglanding: False
 flaghassponsors: True
+flagvideos: True
+flaglivestreaming: False
