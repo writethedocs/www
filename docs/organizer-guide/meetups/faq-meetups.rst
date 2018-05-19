@@ -63,8 +63,8 @@ Different members of your leadership team can:
 
 * Find speakers
 * Set up meetup locations
-* Handle meetup logistics, as described in
+* Handle meetup logistics, as described in `Starting a Meetup <../organizer-guide/meetups/starting>`_
 
-If you have a Twitter account for your meetup, you can share access through `TweetDeck <https://tweetdeck.twitter.com/>`.
+If you have a Twitter account for your meetup, you can share access through `TweetDeck <https://tweetdeck.twitter.com/>`_.
 
 Log in with your Meetup Twitter account, select the Accounts link (in the left hand navigation bar), and selet Manage Team. You should be able to add the Twitter accounts of other organizers there.

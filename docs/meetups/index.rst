@@ -17,9 +17,9 @@ and let us know. We'd be happy to promote it and list it here.
 
 We have several pages of meetup documentation:
 
-* `Starting a Meetup <../organizer-guide/meetups/starting>`
-* `Meetup FAQs <../organizer-guide/meetups/faq-meetups>`
-* `Make your meetups more sustainable <../organizer-guide/meetups/sustainable-meetups>`
+* `Starting a Meetup <../organizer-guide/meetups/starting>`_
+* `Meetup FAQs <../organizer-guide/meetups/faq-meetups>`_
+* `Making your meetups more sustainable <../organizer-guide/meetups/sustainable-meetups>`_
 
 
 Current Meetups: North America
