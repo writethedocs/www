@@ -15,6 +15,12 @@ We invite you to join a meetup in your local community. If your local community
 isn't listed here, feel free to `start one <../organizer-guide/meetups/starting>`_
 and let us know. We'd be happy to promote it and list it here.
 
+We have several pages of meetup documentation:
+
+* `Starting a Meetup <../organizer-guide/meetups/starting>`
+* `Meetup FAQs <../organizer-guide/meetups/faq-meetups>`
+* `Make your meetups more sustainable <../organizer-guide/meetups/sustainable-meetups>`
+
 
 Current Meetups: North America
 ------------------------------
