@@ -21,11 +21,11 @@ We also had some interesting feedback on some things we might improve
 for next time. The unconf, for example, has really found its feet in the
 last year or two. With more and more folks participating, we're looking
 at providing more in-depth guidance on how to get the most out of the
-unconf. We're also considering bringing back ticketed workshops as a way
+sessions. We're also considering bringing back ticketed workshops as a way
 for attendees to dig a little deeper.
 
 Overall, we were so excited to see another conference come together and
-see our awesome community come together out in the physical world.
+see our awesome community gather out in the physical world.
 
 Videos and photos and write-ups
 ===============================
@@ -45,8 +45,8 @@ We really love the photos each year, and you're welcome to use them for
 non-commercial purposes, as per our `Creative Commons License <https://creativecommons.org/licenses/by-nc-sa/2.0/>`_.
 
 And finally, several community members have been writing up their
-experiences at the conference and sharing them on the `Write the Docs
-Slack <http://www.writethedocs.org/slack/>`__. If you missed the conference (or are just curious
+experiences at the conference and sharing them in the `wtd-conferences channel on the Write the Docs
+Slack <https://writethedocs.slack.com/archives/wtd-conferences>`__. If you missed the conference (or are just curious
 about how your experience compares to others'), pop in and have a read.
 
 Code of Conduct reporting
