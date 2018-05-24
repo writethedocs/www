@@ -20,7 +20,7 @@ Conference recap
 ================
 
 At nearly 450 people, this year's conference was our biggest yet! We had
-the usual mix of main stage and lightning talks, unconf sessions,
+the usual mix of main stage and lightning talks, unconference sessions,
 writing sprints, and social events. We were also pleased with the
 success of a couple of new experiments, including livestreaming the
 talks, running real-time captioning for the main stage, and hosting an
@@ -28,7 +28,7 @@ in-person job fair. We received a lot of positive feedback on all of
 these and are excited to carry them forward to future events.
 
 We also had some interesting feedback on some things we might improve
-for next time. The unconf, for example, has really found its feet in the
+for next time. The unconference, for example, has really found its feet in the
 last year or two. With more and more folks participating, we're looking
 at providing more in-depth guidance on how to get the most out of the
 sessions. We're also considering bringing back ticketed workshops as a way
@@ -59,8 +59,8 @@ experiences at the conference and sharing them in the `wtd-conferences channel o
 Slack <https://writethedocs.slack.com/archives/wtd-conferences>`__. If you missed the conference (or are just curious
 about how your experience compares to others'), pop in and have a read.
 
-Code of Conduct reporting
-=========================
+Code of Conduct transparency report
+===================================
 
 As with any Write the Docs event, this conference was covered by our
 `community Code of Conduct <http://www.writethedocs.org/code-of-conduct/>`__. 
@@ -71,7 +71,7 @@ community that we're so lucky to have.
 
 That said, we're also very conscious of the fact that just because
 nothing was reported doesn't mean nothing happened. Please don't
-hesitate to send us feedback at conduct@writethedocs.org if there was
+hesitate to contact us at `conduct@writethedocs.org <mailto:conduct@writethedocs.org>`_ if there was
 any personal conduct or other aspect of the conference experience that
 did not meet the expectations of behavior set out in the CoC.
 
