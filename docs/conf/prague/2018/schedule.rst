@@ -68,8 +68,8 @@ We'll also help groups organize dinner plans, so you can continue your conversat
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **17:00-20:00**
 
-{{date.day_three.dotw}}, {{date.day_three.date}}
---------------------------------------------
+Monday, September 10
+--------------------
 
 .. contents::
    :local:
@@ -115,7 +115,7 @@ There will be light snacks and drinks available on the conference while our tab 
 * **When**: **20:00-23:00**
 * **Details**: TBA
 
-{{date.day_four.dotw}}, {{date.day_four.date}}
+Tuesday, September 11
 --------------------------------------------------
 
 .. contents::
