@@ -1,3 +1,10 @@
+:template: {{year}}/generic.html
+:banner: _static/{{year}}/assets/headers/venue.png
+
+.. post:: May 24, 2018
+   :tags: recap, thanks, portland-2018
+
+
 Hey everyone,
 
 The Write the Docs team is now emerging from the post-conference
