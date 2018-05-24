@@ -27,7 +27,7 @@ tickets:
 date: # how do we handle these? human readable would be nice.
   main: "**November 15-16, 2018, in Melbourne, Australia**"
   short: Nov 15-16, 2018
-  tickets_live: "July 2018"
+  tickets_live: "June 2018"
   month: November
   sat:
   day_one:
@@ -43,16 +43,26 @@ date: # how do we handle these? human readable would be nice.
 
 about:
   summary:
-  location:
+    "The main presentation track takes place from **November 15-16 (Thursday and Friday) from 9:00 to 17:00**.
+    During the main event we also run an :doc:`/conf/australia/2018/unconference`.
+
+    You can find out more information about the venue and its accessibility on our :doc:`/conf/australia/2018/venue` page."
+  location: "Performance Space, Library at the Dock, Melbourne"
+  attendees: 100
+  mainroom:
+    Performance Space
+  unconfroom:
+    Community Room
 
 cfp:
   url:
-  ends:
-  notification:
+  ends: Friday, July 20th
+  notification: Wednesday, Aug 15th
 
-flaglanding: True
+flaglanding: False
 flagspeakersannounced: False
 flagcfp: False
+
 flagticketsonsale: False
 flaghashike: False
 flaghasboat: False

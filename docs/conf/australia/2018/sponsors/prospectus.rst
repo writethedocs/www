@@ -38,12 +38,13 @@ in Australia this year, and make it better than ever.
 Demographics
 ============
 
-We hold two conferences yearly, one in Portland, USA in May, and one in
-Prague, Europe in September. Attendance is approximately 400 in the USA
-and 300 in Europe, and we expect both conferences to sell out.
-
 Last year, we organised a one day event in Australia, that was attended by
 50 people.
+
+We hold two conferences yearly, one in Portland, USA in May, and one in
+Prague, Europe in September. Attendance is approximately 400 in the USA
+and 300 in Europe, and we expect both conferences to sell out. We are also hosting
+our first WTD conference in association with Open Help at Cincinaati in August 2018.
 
 Our audience is made up of:
 
@@ -148,7 +149,7 @@ Lanyard
 
 Provide your branded lanyards for our name tags.
 
-Workshop
+Workshop/Mini-Workshop
 ----------------------
 
 Sponsor a Workshop, where we get a quality hands-on session for participants.
