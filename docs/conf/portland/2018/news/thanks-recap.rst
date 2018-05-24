@@ -4,6 +4,9 @@
 .. post:: May 24, 2018
    :tags: recap, thanks, portland-2018
 
+--------------------------------------------------
+Conference highlights and thanks to the community!
+--------------------------------------------------
 
 Hey everyone,
 
