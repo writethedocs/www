@@ -70,10 +70,9 @@ We know that this is, in part, a reflection of the thoughtful and inclusive
 community that we're so lucky to have.
 
 That said, we're also very conscious of the fact that just because
-nothing was reported doesn't mean nothing happened. Please don't
-hesitate to contact us at `conduct@writethedocs.org <mailto:conduct@writethedocs.org>`_ if there was
-any personal conduct or other aspect of the conference experience that
-did not meet the expectations of behavior set out in the CoC.
+nothing was reported doesn't mean nothing happened.  If there was any personal 
+conduct or other aspect of the conference experience that did not meet the expectations 
+of behavior set out in the CoC, please email us at `conduct@writethedocs.org <mailto:conduct@writethedocs.org>`_.
 
 Ready for more?
 ===============
