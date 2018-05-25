@@ -1,10 +1,12 @@
 region: Europe
 country: United Kingdom
-city: Leeds-Bradford
-website: https://www.meetup.com/Write-the-Docs-Leeds-Bradford/
-meetup: Write-the-Docs-Leeds-Bradford
+city: North England
+website: https://www.meetup.com/Write-the-Docs-North/
+meetup: Write-the-Docs-North-England
 organizers:
   - name: Deborah Barnard
     link: http://twitter.com/starfallweb/
   - name: Sam Wright
     link: http://twitter.com/plaindocs/
+  - name: Catherine Heath
+    link: https://twitter.com/awaywithwords2
