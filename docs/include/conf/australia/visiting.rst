@@ -94,10 +94,7 @@ Where to eat
 ------------
 
 There is strong reason to believe that Melbourne is indeed the food capital of Australia. Experience the best of Melbourne in it's range of restaurants, cafes, bistros and bars.
-We will be located in North Melbourne for the event and it is within a 5 km radius of tons of good cafes, restaurants and eating places to experience.
-
-You'll find a concentration of options on Queensberry St and Victoria St,
-including `Queen Victoria Market <http://www.qvm.com.au/>`_.
+We will be located at Docklands for the event and it is within a 5 km radius of tons of good cafes, restaurants and eating places to experience.
 
 What else to do
 ---------------
