@@ -15,7 +15,7 @@ Write the Docs Day Australia 2018 Sponsorship
 Concept
 =======
 
-Write the Docs Day Australia (http://www.writethedocs.org/conf/australia/2018/) is a
+Write the Docs Australia (http://www.writethedocs.org/conf/australia/2018/) is a
 two day conference focusing on documentation systems, tech writing theory,
 and information delivery.
 
@@ -41,10 +41,13 @@ Demographics
 Last year, we organised a one day event in Australia, that was attended by
 50 people.
 
+This year we are planning a 2 day conference, full of talks, workshops and unconference
+sessions and are expecting around 100-120 people to attend.
+
 We hold two conferences yearly, one in Portland, USA in May, and one in
 Prague, Europe in September. Attendance is approximately 400 in the USA
-and 300 in Europe, and we expect both conferences to sell out. We are also hosting
-our first WTD conference in association with Open Help at Cincinaati in August 2018.
+and 300 in Europe, and we both conferences have sold out last two years.
+We are also hosting our first WTD conference in association with Open Help at Cincinaati, Ohio in August 2018.
 
 Our audience is made up of:
 

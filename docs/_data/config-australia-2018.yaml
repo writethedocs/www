@@ -31,12 +31,12 @@ date: # how do we handle these? human readable would be nice.
   month: November
   sat:
   day_one:
-    event: Talks
+    event: Talks & Workshop
     date: Nov 15
-    summary: The primary conference day, with talks.
+    summary: The first conference day, with talks with an included workshop and unconference time.
     icon: conference
   day_two:
-    event: Talks & Workshops
+    event: Talks & Workshop
     date: Nov 16
     summary: Another day of talks, but with an included workshop and discussion time as well.
     icon: conversation
@@ -55,14 +55,14 @@ about:
     Community Room
 
 cfp:
-  url:
+  url: https://goo.gl/forms/ONK3MoLwtNQ3LcXv1
   ends: Friday, July 20th
   notification: Wednesday, Aug 15th
 
 flaglanding: False
 flagspeakersannounced: False
-flagcfp: False
+flagcfp: True
 
-flagticketsonsale: False
+flagticketsonsale: True
 flaghashike: False
 flaghasboat: False
