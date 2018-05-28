@@ -48,10 +48,23 @@ Anything else I get for organizing a meetup?
 --------------------------------------------
 
 We give each meetup a ticket to a Write the Docs conference for one of the organizers as a way to say thanks.
-If you don't need it,
-feel free to raffle it off to your meetup group.
 
 We give North American meetups a ticket to the NA conference,
 and European meetups a ticket to the EU conference.
 If you're on another continent,
 you can have one for which ever makes more sense for your group!
+
+Sharing Meetup Duties
+---------------------
+
+The Meetup interface allows you to set up multiple organizers in a `Leadership Team <https://www.meetup.com/help/article/868703/>`_.
+
+Different members of your leadership team can:
+
+* Find speakers
+* Set up meetup locations
+* Handle meetup logistics, as described in `Starting a Meetup <../organizer-guide/meetups/starting>`_
+
+If you have a Twitter account for your meetup, you can share access through `TweetDeck <https://tweetdeck.twitter.com/>`_.
+
+Log in with your Meetup Twitter account, select the Accounts link (in the left hand navigation bar), and selet Manage Team. You should be able to add the Twitter accounts of other organizers there.
