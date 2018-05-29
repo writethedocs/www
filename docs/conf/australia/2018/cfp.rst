@@ -73,7 +73,7 @@ Presentation format
 
 Presentations will be scheduled in 30-minute blocks. We won't be doing Q&A after the talks, but we ask that speakers be available at the front of the stage for a few minutes of the break after their talk to answer questions.
 
-Mini-workshop will be scheduled in 60-minute blocks. This mini-workshop can be around anything to do with documentation.
+Mini-workshop will be scheduled in 2 hour blocks. This mini-workshop can be around anything to do with documentation.
 
 Speaker benefits & logistics
 ----------------------------
