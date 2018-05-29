@@ -12,7 +12,8 @@ Each year we organize a wide range of events so that people can come together, c
     :depth: 1
     :backlinks: none
 
-{{date.day_one.dotw}}, {{date.day_one.date}}
+
+Thursday, 15th November 2018
 --------------------------------------------------
 
 *Tea and coffee will be provided, as well as snacks and drinks all day.*
@@ -55,7 +56,8 @@ We'll also help groups organize dinner plans, so you can continue your conversat
 * **Where**: TBA
 * **When**: **17:30-21:00**
 
-{{date.day_two.dotw}}, {{date.day_two.date}}
+
+Friday, 16th November 2018
 ----------------------------------------
 
 *Tea and coffee will be provided, as well as snacks and drinks all day.*
