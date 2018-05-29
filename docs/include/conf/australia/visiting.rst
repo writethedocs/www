@@ -82,7 +82,7 @@ Where to stay
 -------------
 
 Melbourne offers accommodation options to suit a wide range of budgets and travelling preferences. There are plenty of hotels, airbnb, apartments and other options in the Melbourne CBD.
-Just head over to your favorite booking site or use one of these sites to research accommodation:
+Just head over to your favourite booking site or use one of these sites to research accommodation:
 
 * AirBnB
 * Booking.com

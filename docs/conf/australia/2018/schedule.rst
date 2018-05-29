@@ -15,64 +15,13 @@ Each year we organize a wide range of events so that people can come together, c
 {{date.day_one.dotw}}, {{date.day_one.date}}
 --------------------------------------------------
 
-{% if flaghashike %}
-
-Hike
-~~~~
-
-The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/outing>`.
-If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
-
-* **Where**: Lower Macleay Park or Macleay Park Entrance.
-* **When**: 13:45
-* **Details**: :doc:`Annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/outing>`
-
-{% endif %}
-
-{% if flaghasboat %}
-
-Boat Ride
-~~~~~~~~~
-
-The only event scheduled on Saturday is the :doc:`Prague Boat Ride </conf/{{shortcode}}/{{year}}/outing>`.
-If you get into town early, join us and experience Prague from the water.
-
-{% endif %}
-
-
-{{date.day_two.dotw}}, {{date.day_two.date}}
-----------------------------------------
-
-The Writing Day and Welcome Reception will be held at the **{{about.venue}}**.
-
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
-
-.. contents::
-    :local:
-    :backlinks: none
-
-Writing Day
-~~~~~~~~~~~
-
-* **Where**: {{about.venue}}, {{about.mainroom}}
-* **When**: **9:00-17:00**
-* **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
-
-Reception
-~~~~~~~~~
-
-We encourage everyone to drop by on Sunday evening for the conference reception.
-You'll have a chance to get acquainted with each other over some drinks and snacks.
-We'll also help groups organize dinner plans, so you can continue your conversations over more substantial food as well.
-
-* **Where**: {{about.venue}}, {{about.mainroom}}
-* **When**: **17:00-20:00**
+*Tea and coffee will be provided, as well as snacks and drinks all day.*
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
-* **Where**: {{about.venue}}, {{about.mainroom}}
-* **When**: **10:00-18:00**
+* **Where**: {{about.mainroom}}
+* **When**: **10:00-13:00**
 * **Details**: TBA
 
 ..
@@ -80,20 +29,65 @@ Conference Talks
        :source: /_data/na-2018-day-1.yaml
        :template: include/schedule2018.rst
 
-Unconference
+Mini-workshop
 ~~~~~~~~~~~~
 
-The unconference sessions run in parallel to the main conference talks.
-
-* **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **13:30-18:00**
+* **Where**: {{about.mainroom}}
+* **When**: **14:00-15:00** and **15:30-16:30**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Unconference
 ~~~~~~~~~~~~
 
-The unconference sessions run in parallel to the main conference talks.
+The unconference sessions run in parallel to the mini-workshop.
 
-* **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **12:00-17:00**
+* **Where**: {{about.unconfroom}}
+* **When**: **14:00-16:30**
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
+
+Reception
+~~~~~~~~~
+
+We encourage everyone to drop by on Thursday evening for the conference reception.
+You'll have a chance to get acquainted with each other over some drinks and snacks.
+We'll also help groups organize dinner plans, so you can continue your conversations over more substantial food as well.
+
+* **Where**: TBA
+* **When**: **17:30-21:00**
+
+{{date.day_two.dotw}}, {{date.day_two.date}}
+----------------------------------------
+
+*Tea and coffee will be provided, as well as snacks and drinks all day.*
+
+.. contents::
+    :local:
+    :backlinks: none
+
+Conference Talks
+~~~~~~~~~~~~~~~~
+
+* **Where**: {{about.mainroom}}
+* **When**: **10:00-13:00**
+* **Details**: TBA
+
+..
+    .. datatemplate::
+       :source: /_data/na-2018-day-1.yaml
+       :template: include/schedule2018.rst
+
+Mini-workshop
+~~~~~~~~~~~~
+
+* **Where**: {{about.mainroom}}
+* **When**: **14:00-15:00** and **15:30-16:30**
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
+
+Unconference
+~~~~~~~~~~~~
+
+The unconference sessions run in parallel to the mini-workshop.
+
+* **Where**: {{about.unconfroom}}
+* **When**: **14:00-16:30**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`

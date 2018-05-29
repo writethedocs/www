@@ -1,4 +1,3 @@
-
 Venue
 -----
 
@@ -37,11 +36,6 @@ Restrooms
 
 Accessible restrooms are on the ground floor near the meeting room.
 The venue does not have gender-neutral or family restrooms available. Use the restroom for the gender with which you identify.
-
-Other Venues
-************
-
-We are still working on confirming accessibility at our other conference venues.
 
 Did we miss something?
 **********************

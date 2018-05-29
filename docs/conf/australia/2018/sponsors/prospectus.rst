@@ -181,10 +181,10 @@ best to make it happen. Here are a few ideas, or suggest something new!
 
   PageBreak
 
-Inquiries
+Enquiries
 =========
 
-Please direct all inquiries to our sponsorship team at:
+Please direct all enquiries to our sponsorship team at:
 
 - australia@writethedocs.org
 

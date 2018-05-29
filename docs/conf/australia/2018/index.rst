@@ -1,5 +1,5 @@
 :template: {{year}}/index.html
-:banner: _static/2018/assets/images/backgrounds/Melb-green.jpg
+:banner: _static/2018/assets/images/backgrounds/Melb-sepia.jpg
 :orphan:
 
 .. raw:: html

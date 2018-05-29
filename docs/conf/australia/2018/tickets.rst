@@ -4,7 +4,6 @@
 Tickets
 =======
 
-
 {% if flagticketsonsale %}
 
 **Tickets are on sale now!**
@@ -15,7 +14,7 @@ Each ticket includes:
 
 * Entry to all conference events and activities
 * Tea, coffee and snacks
-* Wifi throughout the event
+* Wi-fi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
 
 .. class:: ticket
@@ -62,9 +61,3 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 ---------------------
 
 If you can't afford these prices and still wish to attend, please email us at `{{shortcode}}@writethedocs.org <mailto:{{shortcode}}@writethedocs.org>`_. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance.
-
-**Lodging and Travel**
-------------------
-
-We don't have an official conference hotel, but Melbourne is extremely affordable to
-stay in, and there are plenty of hotels and alternative accommodation places around.
