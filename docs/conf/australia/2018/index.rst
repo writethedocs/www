@@ -15,7 +15,7 @@
    :date: %B %d, %Y
    :format: {title} - {date}
    :list-style: none
-   :tags: {{ shortcode }}-{{ year }}
+   :tags: australia-2018
 
 .. raw:: html
 

@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 
-.. post:: June 1, 2018
-   :tags: {{shortcode}}-{{year}}
+.. post:: May 29, 2018
+   :tags: australia-2018
 
 Announcing Australia Website, CFP, and Ticket Sales
 ================================================
