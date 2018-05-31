@@ -1,5 +1,5 @@
 :template: {{year}}/index.html
-:banner: _static/2018/assets/images/backgrounds/{{ shortcode }}-green.jpg
+:banner: _static/2018/assets/images/backgrounds/prague-green.jpg
 :orphan:
 
 .. raw:: html
@@ -15,7 +15,7 @@
    :date: %B %d, %Y
    :format: {title} - {date}
    :list-style: none
-   :tags: {{ shortcode }}-{{ year }}
+   :tags: australia-2018
 
 .. raw:: html
 

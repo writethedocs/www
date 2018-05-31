@@ -15,44 +15,54 @@ photos:
 
 tickets:
   corporate:
-    price: 100
-    url: 
+    price: $150
+    url:
   independent:
-    price: 75
+    price: $100
     url:
   student:
-    price: 50
+    price: $50
     url:
 
 date: # how do we handle these? human readable would be nice.
   main: "**November 15-16, 2018, in Melbourne, Australia**"
   short: Nov 15-16, 2018
-  tickets_live: "July 2018"
+  tickets_live: "June 2018"
   month: November
-  sat: 
+  sat:
   day_one:
-    event: Talks
+    event: Talks & Workshop
     date: Nov 15
-    summary: The primary conference day, with talks.
+    summary: The first conference day, with talks with an included workshop and unconference time.
     icon: conference
   day_two:
-    event: Talks & Workshops
+    event: Talks & Workshop
     date: Nov 16
     summary: Another day of talks, but with an included workshop and discussion time as well.
     icon: conversation
 
 about:
   summary:
-  location:
+    "The main presentation track takes place from **November 15-16 (Thursday and Friday) from 9:00 to 17:00**.
+    During the main event we also run an :doc:`/conf/australia/2018/unconference`.
+
+    You can find out more information about the venue and its accessibility on our :doc:`/conf/australia/2018/venue` page."
+  location: "Performance Space, Library at the Dock, Melbourne"
+  attendees: 100
+  mainroom:
+    Performance Space
+  unconfroom:
+    Community Room
 
 cfp:
-  url: 
-  ends: 
-  notification: 
+  url: https://goo.gl/forms/ONK3MoLwtNQ3LcXv1
+  ends: Friday, July 20th
+  notification: Wednesday, Aug 15th
 
-flaglanding: True
+flaglanding: False
 flagspeakersannounced: False
-flagcfp: False
-flagticketsonsale: False
+flagcfp: True
+
+flagticketsonsale: True
 flaghashike: False
 flaghasboat: False
