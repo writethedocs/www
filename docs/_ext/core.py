@@ -77,7 +77,7 @@ def rstjinja(app, docname, source):
     """
     Render our conf pages as a jinja template for more goodness.
     """
-    if getattr(app.builder, 'implementation', None) or app.builder.format != 'html':
+    if app.builder.format != 'html':
         return
 
     """
