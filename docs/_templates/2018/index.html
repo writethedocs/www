@@ -180,10 +180,10 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
 
       {% if date.day_three is defined %}
       <div class="schedule-item uk-width-1-3@s">
-        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/' + date.day_three.icon + '-green.svg', 1) }}">
-        <h3>{{ date.day_three.event }} </h3>
-        <em>{{ date.day_three.date }} </em>
-        <p>{{ date.day_three.summary }} </p>
+        <img style="height: 150px;" src="{{ pathto('_static/2018/assets/icons/' + date.main_conference.icon + '-green.svg', 1) }}">
+        <h3>{{ date.main_conference.event }} </h3>
+        <em>{{ date.main_conference.date }} </em>
+        <p>{{ date.main_conference.summary }} </p>
       </div>
       {% endif %}
 
