@@ -1,6 +1,6 @@
-Sphinx<1.5
+Sphinx==1.6.7
 recommonmark==0.4.0
-ablog==0.8.4
+ablog==0.9.2
 tox==2.3.1
 sphinxcontrib.datatemplates
 sphinx_autobuild
@@ -9,6 +9,5 @@ docutils<0.13.1
 csvkit==1.0.2
 yamllint
 pathlib
-git+https://github.com/tadeboro/ablog#egg=ablog-dev
 git+https://github.com/ericholscher/datatemplates@add-key-and-context#egg=sphinxcontrib.datatemplates-dev
 urllib3[secure]
