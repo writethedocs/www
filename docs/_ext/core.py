@@ -92,7 +92,7 @@ def rstjinja(app, docname, source):
 
 
 def add_jinja_filters(app):
-    if getattr(app.builder, 'implementation', None) or app.builder.format != 'html':
+    if app.builder.format != 'html':
         return
 
     from .meetups import state_abbr
