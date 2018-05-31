@@ -4,7 +4,7 @@
    :tags: australia-2018
 
 Announcing Australia Website, CFP, and Ticket Sales
-================================================
+===================================================
 
 Welcome to the official kick-off of `Write the Docs Australia 2018 <http://www.writethedocs.org/conf/australia/2018/>`_!
 It’s shaping up to be another wonderful year full of great conversations and interesting talks.

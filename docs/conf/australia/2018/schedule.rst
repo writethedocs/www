@@ -14,7 +14,7 @@ Each year we organize a wide range of events so that people can come together, c
 
 
 Thursday, 15th November 2018
---------------------------------------------------
+----------------------------
 
 *Tea and coffee will be provided, as well as snacks and drinks all day.*
 
@@ -31,7 +31,7 @@ Conference Talks
        :template: include/schedule2018.rst
 
 Mini-workshop
-~~~~~~~~~~~~
+~~~~~~~~~~~~~
 
 * **Where**: {{about.mainroom}}
 * **When**: **14:00-15:00** and **15:30-16:30**
@@ -79,7 +79,7 @@ Conference Talks
        :template: include/schedule2018.rst
 
 Mini-workshop
-~~~~~~~~~~~~
+~~~~~~~~~~~~~
 
 * **Where**: {{about.mainroom}}
 * **When**: **14:00-15:00** and **15:30-16:30**
