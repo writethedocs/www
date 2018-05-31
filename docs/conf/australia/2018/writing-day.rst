@@ -22,23 +22,7 @@ Schedule
 Projects
 --------
 
-  + :ref:`writewrite2018`
   + anything else you fancy
-
-.. _writewrite2018:
-
-Write Write the Docs on Writing Day
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-This year we're also running a session where you can help improve your favorite website.
-Yup, you can brainstorm on improvements, write helpful content and posts, or just magically improve `Write the Docs <http://www.writethedocs.org>`_.
-
-If you're writing text to add to the website, ideally you'll already be familiar with GitHub and writing in plain text (markdown or restructured text), but we'll be there to help out if you're not.
-
-If you'd rather brainstorm on content reorganization in Google Docs, improve our Python scripts or our jinja templates, we've got plenty to do there as well.
-
-Here are a few things we'll be working on on writing day, reach out to `@plaindocs <https://twitter.com/plaindocs>`_ if you have any questions or more
-suggestions.
 
 Brainstorm user-oriented architecture
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
