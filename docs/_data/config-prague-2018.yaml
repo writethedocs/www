@@ -92,7 +92,7 @@ job_fair:
   location: Unconference Room, downstairs
 
 flaghassponsors: True
-flagcfp: True
+flagcfp: False
 flagticketsonsale: True
 flagspeakersannounced: False
 
