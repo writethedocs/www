@@ -8,8 +8,6 @@ Hello!
 
 We're Beth and Daniel, your Welcome Wagon! We're glad you're coming to the {{year}} Write the Docs conference!
 
-Feel free to email us or send us a message on Slack or Google Hangouts if there's anything we can do to make your Write the Docs experience easier. You can reach us at @praguewelcomewagon on Slack and praguewelcomewagon@gmail.com on Hangouts.
-
 We've gathered important stuff here that will help you navigate the conference like a pro, make you feel more at home, and help you to manage the constant flow of information.
 
 The Welcome Wagon events warm up new attendees and connect them with people, both veterans
