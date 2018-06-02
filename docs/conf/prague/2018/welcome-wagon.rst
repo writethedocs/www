@@ -6,12 +6,7 @@ Welcome Wagon
 
 Hello!
 
-We're Kendall and Lou, your Welcome Wagon! We're glad you're coming to the {{year}} Write the Docs conference!
-
-.. raw:: html
-
-   <img src="/_static/img/2017/eu/welcome-wagon.jpg" />
-
+We're Beth and Daniel, your Welcome Wagon! We're glad you're coming to the {{year}} Write the Docs conference!
 
 Feel free to email us or send us a message on Slack or Google Hangouts if there's anything we can do to make your Write the Docs experience easier. You can reach us at @praguewelcomewagon on Slack and praguewelcomewagon@gmail.com on Hangouts.
 
