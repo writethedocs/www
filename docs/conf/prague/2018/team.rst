@@ -61,11 +61,11 @@ Filled Roles
 * **Job Fair coordinator** - Eric Holscher
 * **Boat ride coordinator** - Mikey Ariel
 * **Unconference coordinator** - Paul Adams
+* **Welcome Wagon coordinators** - Beth Aitman and Daniel Beck
 
 Organizers Needed
 ~~~~~~~~~~~~~~~~~
 
-* **Welcome Wagon coordinators** - TBA
 * **Explore Prague coordinator** - TBA
 * **Social media chair** - TBA
 * **Emcee** - TBA

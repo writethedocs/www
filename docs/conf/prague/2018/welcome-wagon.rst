@@ -6,14 +6,7 @@ Welcome Wagon
 
 Hello!
 
-We're Kendall and Lou, your Welcome Wagon! We're glad you're coming to the {{year}} Write the Docs conference!
-
-.. raw:: html
-
-   <img src="/_static/img/2017/eu/welcome-wagon.jpg" />
-
-
-Feel free to email us or send us a message on Slack or Google Hangouts if there's anything we can do to make your Write the Docs experience easier. You can reach us at @praguewelcomewagon on Slack and praguewelcomewagon@gmail.com on Hangouts.
+We're Beth and Daniel, your Welcome Wagon! We're glad you're coming to the {{year}} Write the Docs conference!
 
 We've gathered important stuff here that will help you navigate the conference like a pro, make you feel more at home, and help you to manage the constant flow of information.
 
@@ -86,7 +79,7 @@ at the Prague Boats pier no. 5.
    within walking distance of the conference venue.
 -  There are good public transportation options and taxi services. Check
    out the `Visiting Prague section of the Write the Docs
-   website <http://www.writethedocs.org/conf/eu/2017/visiting/>`__ for
+   website <http://www.writethedocs.org/conf/prague/2018/visiting/>`__ for
    more info.
 
 **How should I dress?**
@@ -97,7 +90,7 @@ at the Prague Boats pier no. 5.
    conference. You'll be meeting business colleagues at this conference,
    though, so neat and comfortable are good dress guidelines.
 -  If you are going on the `Write the Docs boat tour on
-   Saturday <http://www.writethedocs.org/conf/eu/2017/boat/>`__, be sure
+   Saturday <http://www.writethedocs.org/conf/prague/2018/outing/>`__, be sure
    to bring appropriate out-of-doors clothes and shoes. Prague, like most of
    Europe, experiences some ups and downs in the autumn. The first year we
    were here we had a heat wave, and last year we got rained on, so you
