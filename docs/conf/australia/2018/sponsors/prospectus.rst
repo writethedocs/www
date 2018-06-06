@@ -1,6 +1,6 @@
 :orphan:
 
-Write the Docs Day Australia 2018 Sponsorship
+Write the Docs Australia 2018 Sponsorship
 ##############################################
 
 .. raw:: pdf
@@ -21,8 +21,8 @@ and information delivery.
 
 Writing and maintaining documentation involves a multidisciplinary community
 of technical writers, designers, librarians, typesetters, developers,
-support teams, marketers and many others. This group of people can be
-collectively referred to as “documentarians”.
+support teams, marketers and many others. We sometimes refer to this group of
+people as “documentarians”.
 
 Write the Docs creates a time and a place for this community to share
 information, discuss ideas, and work together to improve the art and
@@ -41,24 +41,22 @@ Demographics
 Last year, we organised a one day event in Australia, that was attended by
 50 people.
 
-This year we are planning a 2 day conference, full of talks, workshops and unconference
-sessions and are expecting around 100-120 people to attend.
+This year we are planning a 2 day conference, full of talks, workshops, and
+unconference sessions. We expect around 100-120 people to attend.
 
-We hold two conferences yearly, one in Portland, USA in May, and one in
-Prague, Europe in September. Attendance is approximately 400 in the USA
-and 300 in Europe, and we both conferences have sold out last two years.
-We are also hosting our first WTD conference in association with Open Help at Cincinaati, Ohio in August 2018.
+Write the Docs holds other annual conferences, including one in Portland, USA
+in May, and one in Prague, Europe in September. Attendance is approximately 400
+in the USA and 300 in Europe. Both conferences have sold out last two years.
+We are also hosting our first WtD conference in association with Open Help at
+Cincinnati, Ohio in August 2018.
 
 Our audience is made up of:
 
-- Technical Writers (40%)
+- Technical writers (40%)
 - Developers (22%)
-- Support Staff (15%)
+- Support staff (15%)
 - Managers (12%)
-- Community Contributors, Enthusiasts & Other Folks (11%)
-
-This will be first of its kind Write the Docs conference to be organised in
-Australia and we want to make this a regular event on our documentation calendar.
+- Community contributors, enthusiasts & other folks (11%)
 
 Why Sponsor
 ===========
@@ -72,7 +70,7 @@ excellent opportunity to meet top-notch talent.
 Our conferences and events are run by teams of volunteers, and we work hard
 to keep ticket prices affordable for a broad range of attendees. Your
 sponsorship makes it possible for all sorts of documentarians to attend our
-events, whether they're a freelancer, a student or out of work. Becoming a
+events, whether they're a freelancer, a student, or out of work. Becoming a
 sponsor demonstrates your commitment to and support of good documentation,
 and the people who build it.
 
@@ -155,7 +153,7 @@ Provide your branded lanyards for our name tags.
 Workshop/Mini-Workshop
 ----------------------
 
-Sponsor a Workshop, where we get a quality hands-on session for participants.
+Sponsor a workshop, where we get a quality hands-on session for participants.
 
 Party
 ------
@@ -174,7 +172,7 @@ best to make it happen. Here are a few ideas, or suggest something new!
 
 - Tea and coffee
 - Evening events
-- Writing (Half) Day
+- Writing (half) day
 - Welcome reception
 
 .. raw:: pdf
@@ -188,19 +186,11 @@ Please direct all enquiries to our sponsorship team at:
 
 - australia@writethedocs.org
 
-Sponsor Multiple Conferences
-============================
-
-If you are interested in sponsoring both the North American and European
-conferences, we are offering a **10% discount** from the price of each package.
-
 Payment
 =======
 
 We expect all invoices to be paid **within 21 days of invoice receipt**, as many
 of our expenses must be paid up front.
 
-.. TODO: Links
-
-.. _ticket: https://ti.to/writethedocs/write-the-docs-eu-2017/
-.. _tickets: https://ti.to/writethedocs/write-the-docs-eu-2017/
+.. _ticket: https://ti.to/writethedocs/write-the-docs-australia-2018/
+.. _tickets: https://ti.to/writethedocs/write-the-docs-australia-2018/
