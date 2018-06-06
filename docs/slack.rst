@@ -11,6 +11,12 @@ Below we have a bit more information about the useful Slack channels that we hav
 This should start you off on the right foot,
 and get you connected with folks who have similar interests.
 
+We don't pay for our Slack, which means that the community has access to only the most
+recent 10,000 messages. Not only is paid Slack prohibitively expensive for a community
+like ours, but many people seem to feel a freedom in knowing that their words will disappear
+shortly. Folks have also said that if the conversations were archived/published, they’d quit
+participating.
+
 You can `join our Slack <http://slack.writethedocs.org/>`_ if you aren't already a member.
 
 .. note:: Feel free to send a Pull Request to update `this page`_, if you want to include other channels.
@@ -75,6 +81,7 @@ please avoid these behaviors:
 - **Let Me Google That For You (LMGTFY)** - If people ask questions that are simple to answer on Google, still answer them nicely.
 - **Question Policing** - Some people might ask incomplete questions that are hard to answer. Ask follow up questions and act in good faith to help them solve their issues.
 - **Technology Competitions** - We don't care if your tool is faster or better in some metric. We care about creating great documentation for our users.
+- **Spam** - Respect our space. Don't post spam or otherwise vandalize our community.
 
 Reporting Issues
 ~~~~~~~~~~~~~~~~
