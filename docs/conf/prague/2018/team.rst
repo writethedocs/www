@@ -62,10 +62,11 @@ Filled Roles
 * **Boat ride coordinator** - Mikey Ariel
 * **Unconference coordinator** - Paul Adams
 * **Welcome Wagon coordinators** - Beth Aitman and Daniel Beck
+* **Social media chair** - Chris Ward
+
 
 Organizers Needed
 ~~~~~~~~~~~~~~~~~
 
 * **Explore Prague coordinator** - TBA
-* **Social media chair** - TBA
 * **Emcee** - TBA
