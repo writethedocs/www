@@ -8,12 +8,14 @@ Hello!
 
 We're Beth and Daniel, your Welcome Wagon! We're glad you're coming to the {{year}} Write the Docs conference!
 
+.. image:: /_static/2018/assets/images/pics/welcome-wagon.jpg
+
 We've gathered important stuff here that will help you navigate the conference like a pro, make you feel more at home, and help you to manage the constant flow of information.
 
 The Welcome Wagon events warm up new attendees and connect them with people, both veterans
 and other first-timers. Strategies and pro tips provide ways you can make the most of the conference.
 
-The `FAQs <#faq>`_ should have answers to most of your questions, let us know if there is anything you'd like to know that isn't there.
+The `FAQs <#faq>`_ should have answers to most of your questions, but let us know if there is anything you'd like to know that isn't there. You can ask us questions in the :doc:`#wtd-conferences channel on Slack </slack>` or you can send `Daniel <mailto:daniel@ddbeck.com>`__ or `Beth <mailto:beth.s.aitman@gmail.com>`__ an email.
 
 Welcome Wagon events
 --------------------
