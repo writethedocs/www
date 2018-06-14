@@ -29,9 +29,11 @@ We are looking for folks to help out in these roles:
 - **Venue take down** - What’s more fun than setting things up? Taking them down! Helping with taking down the conference set up and leaving the conference hall better than we found it
 - **Prague expert** - New this year! If you are a Prague local and would love to share your tips and recommendations or answer questions about places to eat, sightseeing, services, accommodation, or other events that are happening around the conference, we'd love to have you on board!
 
+If you're not entirely sure how to do any of these tasks, don't worry, the organisers will support you and be available for questions and any problems you may encounter, and we also have a dedicated volunteer coordinator. Experience can still be helpful though.
+
 If you are interested in volunteering for the conference, please read and fill out the `Call for Volunteers form <https://goo.gl/forms/335d8VDgzx2M9ZDm1>`_. You will receive additional information by mid-July regarding shifts, detailed duties, and other updates to the volunteer duties and schedules.
 
-Please email our volunteer coordinator Sasha Romijn at sasha@mxsasha.eu if you have any questions about volunteering for the conference.
+Please email our volunteer coordinator Sasha Romijn at wtd@mxsasha.eu if you have any questions about volunteering for the conference.
 
 Sponsors and job fair
 ---------------------
