@@ -1,7 +1,11 @@
 :template: {{year}}/generic.html
 
-Talk Proposal Reminder
-======================
+.. post:: June 14, 2018
+   :tags: cincinnati-2018, cfp, tickets, open-help
+
+
+Call for Proposals Reminder
+===========================
 
 Hello, fellow documentarians!
 
@@ -22,10 +26,9 @@ A schedule overview
 -------------------
 
 This event is a bit different than the other Write the Docs events we've done in the past.
-It's a smaller and more intimate event,
-which will give folks a chance for more collaboration and connection.
-
-Here's a quick overview of the schedule:
+It has a much longer portion devoted to sprints,
+with one full day devoted to talks and unconferences.
+Here's a quick overview of the `schedule <http://www.writethedocs.org/conf/cincinnati/2018/schedule/>`_:
 
 * **Saturday Aug 18: Talks on all things technical documentation.** We’ll have a variety of speakers on the stage sharing their experience and knowledge.
 * **Sunday Aug 19: Unconference discussion and open space.** Share ideas and discuss problems with others from the documentation community. Anyone can suggest and lead a session on any topic.
@@ -33,7 +36,7 @@ Here's a quick overview of the schedule:
 
 You are welcome to attend for as many days as you wish.
 Don't feel like you must come for everything if you don't have time,
-but do try and come to as much as possible.
+but do try and come for all that you can.
 
 More details coming soon
 ------------------------
