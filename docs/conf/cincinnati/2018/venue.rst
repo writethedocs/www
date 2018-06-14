@@ -14,11 +14,11 @@ Please do not use the conference or huddle rooms without booking them.
 Guests may also use kitchens on the first, second, and fourth floors.
 Please do not use the third-floor kitchen.
 
-Special Needs
+Accessibility
 ~~~~~~~~~~~~~
 
 Write the Docs strives to be inclusive of all people.
-Please let us know if you have any special needs we haven't addressed.
+Please let us know if you have any specific needs we haven't addressed.
 
 Wheelchair and mobility needs
 *****************************
