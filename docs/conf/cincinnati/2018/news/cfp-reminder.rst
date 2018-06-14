@@ -27,7 +27,7 @@ A schedule overview
 
 This event is a bit different than the other Write the Docs events we've done in the past.
 It has a much longer portion devoted to sprints,
-with one full day devoted to talks and unconferences.
+with one full day devoted to both talks and unconferences.
 Here's a quick overview of the `schedule <http://www.writethedocs.org/conf/cincinnati/2018/schedule/>`_:
 
 * **Saturday Aug 18: Talks on all things technical documentation.** We’ll have a variety of speakers on the stage sharing their experience and knowledge.
