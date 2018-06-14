@@ -14,15 +14,21 @@ Please do not use the conference or huddle rooms without booking them.
 Guests may also use kitchens on the first, second, and fourth floors.
 Please do not use the third-floor kitchen.
 
-Accessibility
+Special Needs
 ~~~~~~~~~~~~~
+
+Write the Docs strives to be inclusive of all people.
+Please let us know if you have any special needs we haven't addressed.
+
+Wheelchair and mobility needs
+*****************************
 
 All of Union Hall is wheelchair-accessible, except for a couple of conference rooms that we will not use.
 The main hall is a few steps up from the rest of the second floor and requires the use of a second elevator located right next to the steps.
 The stage does not have a permanently installed ramp.
 Please contact us at cincinnati@writethedocs.org if you are presenting and require accommodations.
 
-Low Vision or Hard of Hearing
+Low vision or hard of hearing
 *****************************
 
 Preferred seating will be provided for attendees who request it.
@@ -42,6 +48,19 @@ Accessible restrooms are clearly marked and easy to find.
 The venue does not have gender-neutral or family restrooms available.
 However, the restrooms on the third and fourth floors are single occupancy.
 Use the restroom for the gender with which you identify.
+
+Nursing
+*******
+
+Union Hall has set aside one of its private phone rooms for nursing.
+The nursing room is on the first floor and is clearly marked.
+
+Quiet space
+***********
+
+There are small booths on the third floor for those who need a break.
+Although not a dedicated quiet room, they are somewhat secluded.
+Please do not socialize on the third floor.
 
 Did we miss something?
 **********************
