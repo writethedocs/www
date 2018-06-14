@@ -1,7 +1,7 @@
-:template: 2017/cincinnati-content.html
+:template: {{year}}/generic.html
 
-Call for Proposals Reminder
-===========================
+Talk Proposal Reminder
+======================
 
 Hello, fellow documentarians!
 
@@ -18,7 +18,24 @@ If you're interested in pitching a talk, but you need some ideas or guidance, ch
 
 We can't wait to see your submissions! We'll be reviewing all the talk proposals later this month, and announcing the full conference schedule in mid-July.
 
+A schedule overview
+-------------------
+
+This event is a bit different than the other Write the Docs events we've done in the past.
+It's a smaller and more intimate event,
+which will give folks a chance for more collaboration and connection.
+
+Here's a quick overview of the schedule:
+
+* **Saturday Aug 18: Talks on all things technical documentation.** We’ll have a variety of speakers on the stage sharing their experience and knowledge.
+* **Sunday Aug 19: Unconference discussion and open space.** Share ideas and discuss problems with others from the documentation community. Anyone can suggest and lead a session on any topic.
+* **Monday-Wednesday Aug 20-22: Documentation sprints and writing days.** Get together with other documentarians to work on your docs and learn some new skills. Don't have a team to bring to the sprints? Join us anyway--get involved with an open source project and learn from the people who are pioneering documentation sprints.
+
+You are welcome to attend for as many days as you wish.
+Don't feel like you must come for everything if you don't have time,
+but do try and come to as much as possible.
+
 More details coming soon
 ------------------------
 
-We are currently hammering out the last details for this inaugural event. Expect to hear more about volunteer opportunities, the social event, the unconf, and more in the next few weeks.
+We are currently hammering out the last details for this inaugural event. Expect to hear about volunteer opportunities, the social event, the unconference, and more in the next few weeks.
