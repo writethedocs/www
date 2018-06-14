@@ -8,6 +8,8 @@ Hello!
 
 We're Beth and Daniel, your Welcome Wagon! We're glad you're coming to the {{year}} Write the Docs conference!
 
+.. image:: /_static/2018/assets/images/pics/welcome-wagon.jpg
+
 We've gathered important stuff here that will help you navigate the conference like a pro, make you feel more at home, and help you to manage the constant flow of information.
 
 The Welcome Wagon events warm up new attendees and connect them with people, both veterans
