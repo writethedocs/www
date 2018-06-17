@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: June 15, 2018
+.. post:: June 18, 2018
    :tags: prague-2018, volunteers, tickets
 
 Ticket Update, Call for Volunteers, Job Fair
@@ -25,13 +25,13 @@ We are looking for folks to help out in these roles:
 - **A/V and tech support** - Assisting presenters at the time of their greatest need while on stage - issues with slides, video, or audio portions of their presentation. Please apply for this role if you have some A/V knowledge; experience troubleshooting different operating systems is a plus!
 - **Floaters** - Other duties as assigned ;) Assisting with odds and ends, requests from other volunteers and organizers, as well as answering questions; overall, being generally helpful
 - **Unconference** - Camping out in the unconference area downstairs, keeping the place in order, updating unconference room schedule, and so on
-- **Job Fair**- Helping vendors set up their tables before the job fair, or helping with setting the room back for the preconferences that follow in the afternoon
+- **Job Fair**- Helping vendors set up their tables before the job fair, or helping with setting the room back for the unconference sessions that follow in the afternoon
 - **Venue take down** - What’s more fun than setting things up? Taking them down! Helping with taking down the conference set up and leaving the conference hall better than we found it
 - **Prague expert** - New this year! If you are a Prague local and would love to share your tips and recommendations or answer questions about places to eat, sightseeing, services, accommodation, or other events that are happening around the conference, we'd love to have you on board!
 
-If you're not entirely sure how to do any of these tasks, don't worry, the organisers will support you and be available for questions and any problems you may encounter, and we also have a dedicated volunteer coordinator. Experience can still be helpful though.
+If you're not entirely sure how to do any of these tasks, don't worry, the organizers will be available for questions and any problems you may encounter. We also have a dedicated volunteer coordinator, and some volunteers from previous years will join us again, so you will have support.
 
-If you are interested in volunteering for the conference, please read and fill out the `Call for Volunteers form <https://goo.gl/forms/335d8VDgzx2M9ZDm1>`_. You will receive additional information by mid-July regarding shifts, detailed duties, and other updates to the volunteer duties and schedules.
+To register as a volunteer for the conference, please read and fill out the `Call for Volunteers form <https://goo.gl/forms/335d8VDgzx2M9ZDm1>`_. You will receive additional information by mid-July regarding shifts, detailed duties, and other updates to the volunteer duties and schedules.
 
 Please email our volunteer coordinator Sasha Romijn at wtd@mxsasha.eu if you have any questions about volunteering for the conference.
 
