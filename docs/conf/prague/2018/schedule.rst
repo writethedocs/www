@@ -37,6 +37,10 @@ Boat Ride
 The only event scheduled on Saturday is the :doc:`Prague Boat Ride </conf/{{shortcode}}/{{year}}/outing>`.
 If you get into town early, join us and experience Prague from the water.
 
+* **Where**: `Prague Boats, pier no. 5 <https://goo.gl/maps/bqLP3VaytVo>`_
+* **When**: 13:45 boarding, boat leaves **promptly** at 14:00
+* **Details**: :doc:`Prague Boat Ride </conf/{{shortcode}}/{{year}}/outing>`
+
 {% endif %}
 
 
@@ -105,18 +109,16 @@ Monday Night Social
 ~~~~~~~~~~~~~~~~~~~
 
 The official Write the Docs social!
-Location and directions will be posted soon!
 
 This event is for **conference attendees only**. Please bring your badge to be let into the venue.
-
 There will be light snacks and drinks available on the conference while our tab lasts.
 
-* **Where**: TBA
+* **Where**: `Hoffa Bar, Senovážné Náměstí 22, Prague 1 <https://goo.gl/maps/b1egvQhoDxt>`_
 * **When**: **20:00-23:00**
-* **Details**: TBA
+* **Details**: Drinks and snacks are included while our tab lasts. If you want a sit-down dinner we recommend to grab it before, as we will only have light snacks and finger food at the event. The bar is located on the ground floor and is accessible to wheelchairs.
 
 Tuesday, September 11
---------------------------------------------------
+---------------------
 
 .. contents::
    :local:
