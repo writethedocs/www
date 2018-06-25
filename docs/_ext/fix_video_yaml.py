@@ -26,7 +26,8 @@ def fix_the_yaml(year, series, slug, yaml_file):
     yaml.safe_dump(talks, open(yaml_file, 'w+'), default_flow_style = False)
 
 if __name__ == '__main__':
-    fix_the_yaml('2015', 'Write the Docs EU', 'eu', '../_data/2015.eu.speakers.yaml')
-    fix_the_yaml('2016', 'Write the Docs EU', 'eu', '../_data/2016.eu.speakers.yaml')
-    fix_the_yaml('2015', 'Write the Docs NA', 'na', '../_data/2015.na.speakers.yaml')
-    fix_the_yaml('2016', 'Write the Docs NA', 'na', '../_data/2016.na.speakers.yaml')
+    #fix_the_yaml('2015', 'Write the Docs EU', 'eu', '../_data/2015.eu.speakers.yaml')
+    #fix_the_yaml('2016', 'Write the Docs EU', 'eu', '../_data/2016.eu.speakers.yaml')
+    #fix_the_yaml('2015', 'Write the Docs NA', 'na', '../_data/2015.na.speakers.yaml')
+    #fix_the_yaml('2016', 'Write the Docs NA', 'na', '../_data/2016.na.speakers.yaml')
+    fix_the_yaml('2018', 'Write the Docs Prague', 'prague', '../_data/2018.prague.speakers.yaml')

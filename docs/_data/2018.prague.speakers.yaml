@@ -1,0 +1,114 @@
+[
+    {
+        "abstract": "<p>Accessibility (a11y) has been finding its stride in the web development community \u2014 and it\u2019s not hard to figure out why. According to the World Health Organization, there are over one billion people globally who need an assistive device. With these statistics, organizations and open source projects alike realize that they could be unintentionally locking these people out of their products. As a result, they adjust their developer workflows. And it often ends there, at the product. Documentation is left out of the conversation. </p>\n<p>If documentation is meant to serve as a tool for learning and comprehension, then it must be included in those conversations. After all, we want to write docs that are truly for everyone \u2014 regardless of the technology they use to read it. </p>\n<p>In this talk, we\u2019ll look at how assistive technology consumes documentation and cover some points to consider when building out your docs. Along the way, we\u2019ll touch on quick regulation wins and inclusive writing practices. </p>",
+        "slug": "carolyn-stransky",
+        "details": "",
+        "title": "A11y-Friendly Documentation",
+        "name": "Carolyn Stransky"
+    },
+    {
+        "abstract": "<p>I\u2019d like to talk about an area of technical writing that\u2019s not particularly glamorous, and tends not to get much love: the humble release note.</p>\n<p>When I joined my current company 8 months ago, I noticed we didn't have a consistent format for our release notes, and they were often clunky and difficult to understand. After doing a bit of research to see if there were any generally accepted formats, I was surprised at how little guidance I found.</p>\n<p>I realised I had plenty of my own ideas about what made a good release note (from reading and writing many over the years), so I gathered them together and gradually formed them into a style guide. Drawing from this, I\u2019ll talk about:</p>\n<ul>\n<li>\n<p>making release notes easier to write - and read - by grouping them into categories and then using templates to write them</p>\n</li>\n<li>\n<p>how you can improve readability with a few simple style tweaks</p>\n</li>\n<li>\n<p>why you should see release notes as a ready-made opportunity to show your users the hard work you\u2019ve put into your product - the bugs you\u2019ve fixed, and the suggestions you\u2019ve listened to</p>\n</li>\n</ul>",
+        "slug": "anne-edwards",
+        "details": "",
+        "title": "Learning to love release notes",
+        "name": "Anne Edwards"
+    },
+    {
+        "abstract": "<p>User interviews are employed at many stages of product development, user experience research, and marketing. They can also be used as a basis for persuasive and technical writing. </p>\n<p>With an interview, you have a chance to draw out stories about user experiences. Sharing their stories of change will put the reader at the centre of their own hero story, where you can show how your tools will empower them. In this talk, I\u2019ll demonstrate practical interview techniques. If you\u2019re not using interviews as part of your practice, you\u2019ll leave this talk inspired to talk with users and prepared to conduct quick interviews that make a big impact. </p>\n<p>In this talk:</p>\n<p>What makes a great interview.\nAsking good questions and why you shouldn\u2019t ask \u201cwhy.\u201d\nDifferent kinds of listening and what works best.\nStorytelling secrets to frame dry ideas with human drama.\nUse empowering language in your technical writing.</p>",
+        "slug": "heather-mcnamee",
+        "details": "",
+        "title": "How to interview users to draw out the stories behind the tools",
+        "name": "Heather McNamee"
+    },
+    {
+        "abstract": "<p>In a world of legacy content, how do we resolve the issue of technical debt in our documentation? </p>\n<p>As technical communicators, it's very easy to get caught up in the cycle of moving from one release to another without taking time to refine what already exists. Trying to keep up with documenting new features means we often find ourselves navigating though out-dated and unused stylesheets/labels/files/content/junk in projects we inherited from technical communicators before us but haven't had the time to clean up. </p>\n<p>If this sounds familiar, then this presentation is for you! </p>\n<p>It aims to help you tackle the daunting task of cleaning up your project and getting rid of technical debt once and for all.  We will cover:\n    \u2022 What is technical debt, how does it accrue and why your organisation should care \n    \u2022 How you can tackle your debt and give your documentation project the spring clean it needs\n    \u2022 Tips for staying debt free</p>",
+        "slug": "louise-fahey",
+        "details": "",
+        "title": "Tackling technical debt in the docs",
+        "name": "Louise Fahey"
+    },
+    {
+        "abstract": "<p>A year ago (or so) BuzzFeed realized we had a documentation problem. Our docs were kept in numerous places, from Google Drive to Wikis to Github folders to...places we may not even have found yet! In response we started a working group called The Better Docs Project, with the mission of organizing, standardizing, and completing our documentation.</p>\n<p>During this talk we'll go on a narrative journey through the first year of Better Docs, talking about what worked for us, what didn't work, what we're excited to try next, and the lessons we've learned (and friends we've made) along the way. I'll share actionable tips for how to steal our experience to get your own projects and work places on the road to Better Docs.</p>",
+        "slug": "rowan-cota",
+        "details": "",
+        "title": "A Year in the Life of The Better Docs Project",
+        "name": "Rowan Cota"
+    },
+    {
+        "abstract": "<p>Imagine for a moment that documentation is the face of your product. How much concealer would you put on it?</p>\n<p>The majority of people would likely agree that no product is ever perfect. When it comes to software, the jokes about bugs are practically writing themselves. Should the product documentation acknowledge this, or should it cover up the imperfections? In some cases, the answer seems obvious, but what about those when there is a major known issue - or five? How should the person in charge of documentation address this? Should they just stick a big warning into the release notes, or point out the problem and offer a quick workaround in the documentation itself?</p>\n<p>This is not only a content issue, but also a question of ethics. It is a challenge that has come up time and again in my personal (albeit short) career as a technical writer, and I suspect many others have faced it, too. </p>\n<p>This talk will look at some strategies that writers can rely on if they decide this is an issue worth considering. Important aspects that will be covered include: </p>\n<ul>\n<li>the tone and language used when addressing product shortcomings; </li>\n<li>communication with stakeholders, product managers and other subject-matter experts; </li>\n<li>dealing with clunky or unintuitive UIs and workflows that are not officially recognized as issues, but are still impeding the user experience and understanding of the product. </li>\n</ul>",
+        "slug": "ivana-devcic",
+        "details": "",
+        "title": "\"It's a Feature\" - Documenting Known Issues and Product Shortcomings",
+        "name": "Ivana Devcic"
+    },
+    {
+        "abstract": "<p>\"To install, simply do [these several steps]!\" If you're like me, you've written lots of documentation like this. We all want our products to be simple. Worse, lots of us believe our products are simple. But trust me, they're not simple! Your installation guide failed on step 2, and I don't know how to fix it! In this talk I highlight some writing styles which seem innocuous when written, but which show a lack of sympathy when read. I suggest some ways to avoid these pitfalls and bridge the gap with your reader.</p>\n<p>For more detail, see my slides: https://docs.google.com/presentation/d/1lbxcHb1PkcPhCXF7x9XhKQC2VHcOvBCBLtOJtbEd91M/edit?usp=sharing</p>",
+        "slug": "jim-fisher",
+        "details": "",
+        "title": "Don't Say Simply",
+        "name": "Jim Fisher"
+    },
+    {
+        "abstract": "<p>How do you prove that docs are key to growing a software business? </p>\n<p>Documentarians have long struggled to get buy-in from stakeholders, and win more budget, because the impact of docs on a company\u2019s bottom line has never been clear.</p>\n<p>Things like traffic analysis at best tell you whether customers are facing a recurring problem, or if they\u2019re finding your docs easily. Article ratings also help you understand if customers find your docs useful. But to prove that docs actually impact your bottom line, you need to dig deeper.</p>\n<p>In this talk, I\u2019ll share new models I\u2019ve designed to help measure if your docs drive customer growth: </p>\n<ul>\n<li>What would your company look like without docs? (A basic control for measuring success)</li>\n<li>Do your docs help win new users? (Acquisition-focused attribution)</li>\n<li>Are users who read docs more likely to take the key steps to become customers? (Activation-focused attribution)</li>\n<li>Can docs help convert new customers into loyal advocates? (Retention-focused attribution)</li>\n</ul>\n<p>I\u2019ll demonstrate how you can apply these models to your business, with both theoretical and practical advice.</p>",
+        "slug": "liam-keegan",
+        "details": "",
+        "title": "Measuring the impact of your documentation",
+        "name": "Liam Keegan"
+    },
+    {
+        "abstract": "<p>THE PROBLEM:</p>\n<p>Many tech startups and young companies suffer from this one illness: inability to provide easy steps of installing their platform to the customers. This is especially the case if their product depends on armada of 3rd party dependencies. Customers expect a one-click install where they are provided with 50+ pages of highly technical documentation. Some customers love the verbosity but others are driven away by it. To satisfy both extremes, we made every example command in docs copy-pastable. If customers just copy and paste every command from documentation they will end up with working single-machine platform. This, however, does not solve the vast effort needed in testing the docs for each release.</p>\n<p>HOW WE SOLVED IT:</p>\n<p>OK, so everything is copy paste-able. Why not automate copy-pasting? And that's basically what we did. In joint tech-writer team and dev team effort, we came up with a process that allows for quick functional testing of the documentation. Furthermore, we developed a general purpose tool that can simply run every command from documentation and also allow input parameters. This is how we've shortened testing time of install docs from 50 man-hours to about 45 minutes, shortened POC time from couple of weeks to a few days and have satisfied wide range of customers by maintaining only a single documentation file - no devops and consultants needed!</p>\n<p>THE TALK:</p>\n<p>In my talk I'd like to present the journey, the process and the benefits of strong dev and tech-writing teams cooperation. I will clearly present our practices and approach to both documenting complex installation paths and automatically testing the same as well as using your existing documentation as source of automation.</p>",
+        "slug": "predrag-mandic",
+        "details": "",
+        "title": "Run your documentation",
+        "name": "Predrag Mandic"
+    },
+    {
+        "abstract": "<p>My team developed software that was used as part of a medical product. We used modern development practices and tools to document the code and the APIs exposed by our microservices, but was that enough?</p>\n<p>This talk introduces the audience to the particularities of developing ,medical device software and the regulatory landscape that you must comply with. I'll focus specifically on the processes and culture that enables the creation of medical software device documentation intended for auditors, without damaging (too much) the team velocity and spirit.</p>",
+        "slug": "vlad-stirbu",
+        "details": "",
+        "title": "What about compliance?",
+        "name": "Vlad Stirbu"
+    },
+    {
+        "abstract": "<p>There's a long history to text markup languages, and I don't think most people know much of it. This talk gives a quick overview of the major formats, including  nroff/troff, SGML, HTML, Docbook, TeX and LaTeX, setext, reStructuredText, markdown and AsciiDoc.</p>\n<p>In passing, I shall complain briefly about the history of wiki markups, and explain my reservations about markdown, and why it's still a good thing.</p>\n<p>The slides, and extended notes, are available at https://github.com/tibs/markup-history.</p>",
+        "slug": "tony-ibbs",
+        "details": "",
+        "title": "A brief history of text markup languages",
+        "name": "Tony Ibbs"
+    },
+    {
+        "abstract": "<p>I have a fun job. My title is \"Information Architect\", but that's mostly because \"She Who Figures Out What We Need To Do About Our Documentation And Does It\" is too wordy for HR. Out of a product unit of about 350 people who produce software for developers, I'm the only one who explicitly focuses on documentation. And to add to the fun, most of my colleagues are not even native speakers of English.</p>\n<p>It's a scaling problem: I can't do all of the technical writing we need to get done. So instead, I've become a contagious documentarian. Over the last year, I've <strike>infected</strike> taught technical writing to more than 200 people. I've created a 3 1/2 hour course that seems to be both popular and effective. There's been a noticeable improvement in the writing we're producing, and (even better) an awareness that good writing is an achievable thing.</p>\n<p>When I describe the course formally, I tend to list student objectives such as:\n<em> Think about the audience and how to write for them. \n</em> Study and practice different writing techniques.\n<em> Learn techniques for improving word choice and sentence structure. \n</em> Study the commonest mistakes that non-native speakers make in English and how to correct them.\n(etc)</p>\n<p>And I do cover all of those topics. But just between us, my real objectives for my students are:\n<em> Stay awake.\n</em> Feel welcome and relaxed enough to participate openly.\n<em> Feel competent and capable about writing.\n</em> Trust the Information Architect enough to come to her with future problems.\n* Want to be part of a community of documentarians.</p>\n<p>I'll be talking about some of the ways I've designed and delivered the course to meet each of those sets of objectives, how the course has grown and changed, and what I've learned while giving it. </p>\n<p>(And I'll try to keep everyone awake.)</p>",
+        "slug": "abigail-sutherland",
+        "details": "",
+        "title": "Teaching geeks to fish: tales of a contagious documentarian.",
+        "name": "Abigail Sutherland"
+    },
+    {
+        "abstract": "<p>When, why and how to use video in your documentation, or as part of your product education strategy. Video is a fantastic format for engaging users, especially less \"tech savvy\" ones.\u2028\u2028How do you ensure you\u2019re making great self-service videos, while juggling an ever changing and evolving product?</p>\n<p>We\u2019ll chat about:</p>\n<ul>\n<li>\n<p>Why you should be making videos</p>\n<ul>\n<li>The myth of a visual learner</li>\n<li>B2C vs B2B considerations</li>\n<li>Accessibility</li>\n</ul>\n</li>\n<li>\n<p>When to use videos</p>\n<ul>\n<li>Product tutorials</li>\n<li>Webinars</li>\n<li>Social media content</li>\n</ul>\n</li>\n<li>\n<p>When you shouldn\u2019t be making videos</p>\n<ul>\n<li>The cons of videos</li>\n<li>In house versus contractors</li>\n<li>Alternatives to video e.g. GIFs or screenshots</li>\n</ul>\n</li>\n<li>\n<p>Making great product tutorials</p>\n<ul>\n<li>Scripting (tone, language, design and layout)</li>\n<li>Voice over + recording</li>\n<li>Production, Editing</li>\n<li>Hosting and sharing</li>\n<li>Managing feedback, auditing and updating videos</li>\n</ul>\n</li>\n</ul>",
+        "slug": "sarah-ley-hamilton",
+        "details": "",
+        "title": "So you want to make videos?",
+        "name": "Sarah Ley-Hamilton"
+    },
+    {
+        "abstract": "<p>As a Lean Trainer and Manager in service industries, I work with all kinds of teams to help them use process mapping to document their processes. Sifting through binders of documentation, pages of screenshots, and step by step explanations can be time consuming and awkward internally and for the customer, and large quantities of documentation are sometimes difficult to keep up to date.  System updates would render screenshots obsolete, and teams were quickly getting overwhelmed, giving up on documentation entirely.  I started to apply my lean expertise to the art of process mapping, putting together a best practice toolkit to maintain a minimalist approach to documenting processes.</p>\n<p>We'll discuss best practice in process mapping for:\n- visual instruction in user guides and 'how to's\n- mapping process at high levels, avoiding getting bogged down in detail\n- assessing possible failure points to anticipate customer pain points (to manage through customer documentation)</p>",
+        "slug": "gillian-von-runte",
+        "details": "",
+        "title": "Docs on a Diet: Lean Best Practice for Process Documentation",
+        "name": "Gillian von Runte"
+    },
+    {
+        "abstract": "<p>This talk focuses on how to define your needs and assess whether your organization is ready for a new documentation tool/approach or not.</p>\n<p>It can be a challenge to choose the appropriate approach and tool to transition your existing documentation to, or to choose for a new project. This decision should be defined by the organization's strategic goals, its operational reality, related processes, and existing systems. </p>\n<p>Problems occur when tool adoption project teams don't consider relevant factors, like difficulty integrating with an organization's existing systems, insufficient headcount to successfully implement a new solution, or lack of supporting processes, for example. Teams may also have a hard time accepting that sometimes it is not the right time to try and make a transition, even if they're currently using a tool or a toolset that isn't fit for use, because there aren't sufficient resources available, key stakeholders aren't on board, or a change in organizational culture is needed, for example. In those cases, incremental change is the best solution. </p>",
+        "slug": "val-grimm",
+        "details": "",
+        "title": "The mathematics of choosing a tool",
+        "name": "Val Grimm"
+    },
+    {
+        "abstract": "<p>We all know what it\u2019s like to look at a series of existing documentation and think, \u201chow did this happen?\u201d Be it a large swath of unorganized content or a lack of a clear strategy, that sort of thought doesn\u2019t just exist for the documentation editors. Our readers see it too, and it leads to confused support requests or a loss of customers.</p>\n<p>While at Joyent, I consistently was made aware of documentation that needed help and at first it was a constant firefight. Over time, I was able to quell the fires, create a content strategy, and completely redefine how documentation works. From this experience, as well as time spent managing a technical blog, I\u2019ve learned it\u2019s all about strategy. </p>\n<p>In this talk, we\u2019ll discuss:</p>\n<ul>\n<li>how to get buy-in for a blow up with a rewrite proposal</li>\n<li>content strategy (and how to write a great one)</li>\n<li>empathy for our readers</li>\n<li>setting easy-to-follow guidelines for non-writers</li>\n</ul>\n<p>We\u2019ll also cover how to think about this work when you don\u2019t have budget support or a team to help execute the changes needed. </p>",
+        "slug": "alexandra-white",
+        "details": "",
+        "title": "How to tear down existing documentation and rewrite docs that actually work",
+        "name": "Alexandra White"
+    }
+]
