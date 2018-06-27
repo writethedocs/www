@@ -1,5 +1,5 @@
 - abstract: "<p>Accessibility (a11y) has been finding its stride in the web development
-    community \u2014 and it’s not hard to figure out why. According to the World Health
+    community \u2014 and it\u2019s not hard to figure out why. According to the World Health
     Organization, there are over one billion people globally who need an assistive
     device. With these statistics, organizations and open source projects alike
     realize that they could be unintentionally locking these people out of their
@@ -11,8 +11,8 @@
     docs that are truly for everyone \u2014 regardless of the technology they use to
     read it.</p>\n
 
-    <p>In this talk, we’ll look at how assistive technology consumes documentation and
-    cover some points to consider when building out your docs. Along the way, we’ll
+    <p>In this talk, we\u2019ll look at how assistive technology consumes documentation and
+    cover some points to consider when building out your docs. Along the way, we\u2019ll
     touch on quick regulation wins and inclusive writing practices.</p>"
   details: ''
   event: Write the Docs Prague 2018
@@ -30,7 +30,7 @@
     website: ''
   title: A11y-Friendly Documentation
   year: '2018'
-- abstract: "<p>I’ll be talking about an area of technical writing that’s not particularly
+- abstract: "<p>I\u2019ll be talking about an area of technical writing that\u2019s not particularly
     glamorous, and tends not to get much love: the humble release note.</p>
 
     When I joined my current company back in September 2017, I noticed we didn\u2019t
@@ -40,14 +40,14 @@
 
     I realised I had plenty of my own ideas about what made a good release note
     (from reading and writing many over the years), so I gathered them together and
-    gradually formed them into a style guide. Drawing from this, I’ll talk about:</p>\n
+    gradually formed them into a style guide. Drawing from this, I\u2019ll talk about:</p>\n
 
     <ul>\n<li>making release notes easier to write \u2014 and read \u2014 by grouping them into
     categories and then using templates to write them</li>\n
     <li>how you can improve readability with a few simple style tweaks</li>\n
     <li>viewing release notes as a ready\u2014made opportunity to show your users the hard
-    work you’ve put into your product \u2014 the bugs you’ve fixed, and the suggestions
-    you’ve listened to</li>\n</ul>"
+    work you\u2019ve put into your product \u2014 the bugs you\u2019ve fixed, and the suggestions
+    you\u2019ve listened to</li>\n</ul>"
   details: ''
   event: Write the Docs Prague 2018
   name: Anne Edwards
@@ -69,9 +69,9 @@
     persuasive and technical writing. With an interview, you have a chance to draw
     out stories about user experiences. Sharing their stories of change will put
     the reader at the centre of their own hero story, where you can show how your
-    tools will empower them. In this talk, I’ll demonstrate practical interview
-    techniques you can use right now. If you’re not using interviews as part of
-    your practice, you’ll leave this talk inspired to talk with users and prepared
+    tools will empower them. In this talk, I\u2019ll demonstrate practical interview
+    techniques you can use right now. If you\u2019re not using interviews as part of
+    your practice, you\u2019ll leave this talk inspired to talk with users and prepared
     to conduct quick interviews that make a big impact.</p>"
   details: ''
   event: Write the Docs Prague 2018
@@ -90,18 +90,18 @@
   title: How to interview users to draw out the stories behind the tools
   year: '2018'
 - abstract: "<p>In a world of legacy content, how do we resolve the issue of technical\
-    \ debt in our documentation? </p>\n<p>As technical communicators, it's very easy\
+    \ debt in our documentation? </p>\n<p>As technical communicators, it\u2019s very easy\
     \ to get caught up in the cycle of moving from one release to another without\
     \ taking time to refine what already exists. Trying to keep up with documenting\
-    \ new features means we often find ourselves navigating though out-dated and unused\
-    \ stylesheets/labels/files/content/junk in projects we inherited from technical\
-    \ communicators before us but haven't had the time to clean up. </p>\n<p>If this\
+    \ new features means we often find ourselves navigating though outdated and disused\
+    \ stylesheets/labels/files/content/junk in projects that we inherited from technical\
+    \ communicators before us and haven\u2019t had the time to clean up. </p>\n<p>If this\
     \ sounds familiar, then this presentation is for you! </p>\n<p>It aims to help\
     \ you tackle the daunting task of cleaning up your project and getting rid of\
-    \ technical debt once and for all.  We will cover:\n    \u2022 What is technical\
-    \ debt, how does it accrue and why your organisation should care \n    \u2022\
-    \ How you can tackle your debt and give your documentation project the spring\
-    \ clean it needs\n    \u2022 Tips for staying debt free</p>"
+    \ technical debt once and for all.  We will cover:</p>\n<ul>\n<li>What is technical\
+    \ debt, how does it accrue, and why should your organisation care</li>\n\
+    \ <li>How you can tackle your debt and give your documentation project the spring\
+    \ clean it needs</li>\n<li>Tips for staying debt\u2014free</li>\n</ul>"
   details: ''
   event: Write the Docs Prague 2018
   name: Louise Fahey
@@ -122,11 +122,11 @@
     \ Our docs were kept in numerous places, from Google Drive to Wikis to Github\
     \ folders to...places we may not even have found yet! In response we started a\
     \ working group called The Better Docs Project, with the mission of organizing,\
-    \ standardizing, and completing our documentation.</p>\n<p>During this talk we'll\
+    \ standardizing, and completing our documentation.</p>\n<p>During this talk we\u2019ll\
     \ go on a narrative journey through the first year of Better Docs, talking about\
-    \ what worked for us, what didn't work, what we're excited to try next, and the\
-    \ lessons we've learned (and friends we've made) along the way. I'll share actionable\
-    \ tips for how to steal our experience to get your own projects and work places\
+    \ what worked for us, what didn\u2019t work, what we\u2019re excited to try next, and the\
+    \ lessons we\u2019ve learned (and friends we\u2019ve made) along the way. I\u2019ll share actionable\
+    \ tips for how to steal our experience to get your own projects and workplaces\
     \ on the road to Better Docs.</p>"
   details: ''
   event: Write the Docs Prague 2018
@@ -147,9 +147,9 @@
 - abstract: "<p>Imagine for a moment that documentation is the face of your product.\
     \ How much concealer would you put on it?</p>\n<p>The majority of people would\
     \ likely agree that no product is ever perfect. When it comes to software, the\
-    \ jokes about bugs are practically writing themselves. Should the product documentation\
+    \ jokes about bugs practically write themselves. Should the product documentation\
     \ acknowledge this, or should it cover up the imperfections? In some cases, the\
-    \ answer seems obvious, but what about those when there is a major known issue\
+    \ answer seems obvious, but what about those situations where there is a major known issue\
     \ - or five? How should the person in charge of documentation address this? Should\
     \ they just stick a big warning into the release notes, or point out the problem\
     \ and offer a quick workaround in the documentation itself?</p>\n<p>This is not\
@@ -158,11 +158,11 @@
     \ writer, and I suspect many others have faced it, too. </p>\n<p>This talk will\
     \ look at some strategies that writers can rely on if they decide this is an issue\
     \ worth considering. Important aspects that will be covered include: </p>\n<ul>\n\
-    <li>the tone and language used when addressing product shortcomings; </li>\n<li>communication\
-    \ with stakeholders, product managers and other subject-matter experts; </li>\n\
+    <li>the tone and language used when addressing product shortcomings </li>\n<li>communication\
+    \ with stakeholders, product managers and other subject-matter experts </li>\n\
     <li>dealing with clunky or unintuitive UIs and workflows that are not officially\
     \ recognized as issues, but are still impeding the user experience and understanding\
-    \ of the product. </li>\n</ul>"
+    \ of the product</li>\n</ul>"
   details: ''
   event: Write the Docs Prague 2018
   name: Ivana Devcic
@@ -203,9 +203,9 @@
   title: Don't Say Simply
   year: '2018'
 - abstract: "<p>How do you prove that docs are key to growing a software business?\
-    \ </p>\n<p>Documentarians have long struggled to get buy-in from stakeholders,\
-    \ and win more budget, because the impact of docs on a company\u2019s bottom line\
-    \ has never been clear.</p>\n<p>Things like traffic analysis at best tell you\
+    \ </p>\n<p>Documentarians have long struggled to get buy-in from stakeholders\
+    \ and win more budget because the impact of docs on a company\u2019s bottom line\
+    \ has never been clear.</p>\n<p>Things like traffic analysis, at best, tell you\
     \ whether customers are facing a recurring problem, or if they\u2019re finding\
     \ your docs easily. Article ratings also help you understand if customers find\
     \ your docs useful. But to prove that docs actually impact your bottom line, you\
@@ -213,7 +213,7 @@
     ve designed to help measure if your docs drive customer growth: </p>\n<ul>\n<li>What\
     \ would your company look like without docs? (A basic control for measuring success)</li>\n\
     <li>Do your docs help win new users? (Acquisition-focused attribution)</li>\n\
-    <li>Are users who read docs more likely to take the key steps to become customers?\
+    <li>Are users who read your docs more likely to take the key steps to become customers?\
     \ (Activation-focused attribution)</li>\n<li>Can docs help convert new customers\
     \ into loyal advocates? (Retention-focused attribution)</li>\n</ul>\n<p>I\u2019\
     ll demonstrate how you can apply these models to your business, with both theoretical\
@@ -234,10 +234,10 @@
     website: ''
   title: Measuring the impact of your documentation
   year: '2018'
-- abstract: "<p>The journey, benefits and shortcomings of writing runnable documentation. A
-    story behind "documentation *is* a code" principle and how it saves money and
+- abstract: "<p>The journey, benefits, and shortcomings of writing runnable documentation. A
+    story behind the "documentation *is* code" principle and how it saves money and
     time, empowers documentarians, simplifies processes around testing
-    documentation and makes diverse customers happy.</p>"
+    documentation, and makes a diverse customer base happy.</p>"
   details: ''
   event: Write the Docs Prague 2018
   name: Predrag Mandic
@@ -257,8 +257,8 @@
 - abstract: "<p>My team developed software that was used as part of a medical product.\
     \ We used modern development practices and tools to document the code and the\
     \ APIs exposed by our microservices, but was that enough?</p>\n<p>This talk introduces\
-    \ the audience to the particularities of developing ,medical device software and\
-    \ the regulatory landscape that you must comply with. I'll focus specifically\
+    \ the audience to the particularities of developing medical device software and\
+    \ the regulatory landscape that you must comply with. I\u2019ll focus specifically\
     \ on the processes and culture that enables the creation of medical software device\
     \ documentation intended for auditors, without damaging (too much) the team velocity\
     \ and spirit.</p>"
@@ -305,12 +305,12 @@
   title: A brief history of text markup languages
   year: '2018'
 - abstract: "<p>I love my job. My title is "Information Architect", but that\u2019s mostly because
-"She Who Figures Out What We Need To Do About Our Documentation And Does It"
-is too wordy for HR. I work in a product unit of about 350 people creating
-software for developers, very few of them skilled writers or native speakers of
-English. My role is to figure out how we can produce good documentation.</p>
+    "She Who Figures Out What We Need To Do About Our Documentation And Does It"
+    is too wordy for HR. I work in a product unit of about 350 people creating
+    software for developers, very few of them skilled writers or native speakers of
+    English. My role is to figure out how we can produce good documentation.</p>
 
-<p>I have a problem of scale: I can\u2019t do all of the technical writing we need. So
+    <p>I have a problem of scale: I can\u2019t do all of the technical writing we need. So
     instead, I\u2019ve become a contagious documentarian. Over the last year, I\u2019ve
     <strike>infected</strike> taught technical writing to over 200 people around my
     company. My 3 1/2 hour course, "Technical Writing for Techies", is popular, and
@@ -335,7 +335,7 @@ English. My role is to figure out how we can produce good documentation.</p>
     <li>Want to be part of a community of documentarians.</li>\n</ul>
 
     <p>I\u2019ll talk about the course structure, some of the ways I\u2019ve designed and
-    delivered it to meet both sets of objectives, how it\u2019s has evolved over time,
+    delivered it to meet both sets of objectives, how it has evolved over time,
     and what I\u2019ve learned while giving it.</p>"
   details: ''
   event: Write the Docs Prague 2018
@@ -353,20 +353,20 @@ English. My role is to figure out how we can produce good documentation.</p>
     website: ''
   title: 'Teaching geeks to fish: tales of a contagious documentarian.'
   year: '2018'
-- abstract: "<p>When, why and how to use video in your documentation, or as part of\
+- abstract: "<p>When, why, and how to use video in your documentation, or as part of\
     \ your product education strategy. Video is a fantastic format for engaging users,\
     \ especially less \"tech savvy\" ones.\L\LHow do you ensure you\u2019re making\
-    \ great self-service videos, while juggling an ever changing and evolving product?</p>\n\
+    \ great self-service videos, while juggling an ever-changing and evolving product?</p>\n\
     <p>We\u2019ll chat about:</p>\n<ul>\n<li>\n<p>Why you should be making videos</p>\n\
     <ul>\n<li>The myth of a visual learner</li>\n<li>B2C vs B2B considerations</li>\n\
     <li>Accessibility</li>\n</ul>\n</li>\n<li>\n<p>When to use videos</p>\n<ul>\n\
     <li>Product tutorials</li>\n<li>Webinars</li>\n<li>Social media content</li>\n\
     </ul>\n</li>\n<li>\n<p>When you shouldn\u2019t be making videos</p>\n<ul>\n<li>The\
-    \ cons of videos</li>\n<li>In house versus contractors</li>\n<li>Alternatives\
+    \ cons of videos</li>\n<li>In-house versus contractors</li>\n<li>Alternatives\
     \ to video e.g. GIFs or screenshots</li>\n</ul>\n</li>\n<li>\n<p>Making great\
-    \ product tutorials</p>\n<ul>\n<li>Scripting (tone, language, design and layout)</li>\n\
-    <li>Voice over + recording</li>\n<li>Production, Editing</li>\n<li>Hosting and\
-    \ sharing</li>\n<li>Managing feedback, auditing and updating videos</li>\n</ul>\n\
+    \ product tutorials</p>\n<ul>\n<li>Scripting (tone, language, design, and layout)</li>\n\
+    <li>Voiceover + recording</li>\n<li>Production, Editing</li>\n<li>Hosting and\
+    \ sharing</li>\n<li>Managing feedback, auditing, and updating videos</li>\n</ul>\n\
     </li>\n</ul>"
   details: ''
   event: Write the Docs Prague 2018
@@ -385,18 +385,18 @@ English. My role is to figure out how we can produce good documentation.</p>
   title: So you want to make videos?
   year: '2018'
 - abstract: "<p>As a Lean Trainer and Manager in service industries, I work with all\
-    \ kinds of teams to help them use process mapping to document their processes.\
+    \ kinds of teams to help them use process\u2014mapping to document their processes.\
     \ Sifting through binders of documentation, pages of screenshots, and step by\
     \ step explanations can be time consuming and awkward internally and for the customer,\
     \ and large quantities of documentation are sometimes difficult to keep up to\
     \ date.  System updates would render screenshots obsolete, and teams were quickly\
     \ getting overwhelmed, giving up on documentation entirely.  I started to apply\
-    \ my lean expertise to the art of process mapping, putting together a best practice\
-    \ toolkit to maintain a minimalist approach to documenting processes.</p>\n<p>We'll\
-    \ discuss best practice in process mapping for:\n- visual instruction in user\
-    \ guides and 'how to's\n- mapping process at high levels, avoiding getting bogged\
-    \ down in detail\n- assessing possible failure points to anticipate customer pain\
-    \ points (to manage through customer documentation)</p>"
+    \ my lean expertise to the art of process-mapping, putting together a best practice\
+    \ toolkit to maintain a minimalist approach to documenting processes.</p>\n<p>We\u2019ll\
+    \ discuss best practice in process mapping for:</p>\n<ul>\n<li>visual instruction in user\
+    \ guides and how\u2014to\u2019s</li>\n<li>mapping process at high levels, avoiding getting bogged\
+    \ down in detail</li>\n <li>assessing possible failure points to anticipate customer pain\
+    \ points (to manage through customer documentation)</li>\n</ul>"
   details: ''
   event: Write the Docs Prague 2018
   name: Gillian von Runte
@@ -417,15 +417,15 @@ English. My role is to figure out how we can produce good documentation.</p>
     \ organization is ready for a new documentation tool/approach or not.</p>\n<p>It\
     \ can be a challenge to choose the appropriate approach and tool to transition\
     \ your existing documentation to, or to choose for a new project. This decision\
-    \ should be defined by the organization's strategic goals, its operational reality,\
+    \ should be defined by the organization\u2019s strategic goals, its operational reality,\
     \ related processes, and existing systems. </p>\n<p>Problems occur when tool adoption\
-    \ project teams don't consider relevant factors, like difficulty integrating with\
-    \ an organization's existing systems, insufficient headcount to successfully implement\
+    \ project teams don\u2019t consider relevant factors, like difficulty integrating with\
+    \ an organization\u2019s existing systems, insufficient headcount to successfully implement\
     \ a new solution, or lack of supporting processes, for example. Teams may also\
     \ have a hard time accepting that sometimes it is not the right time to try and\
-    \ make a transition, even if they're currently using a tool or a toolset that\
-    \ isn't fit for use, because there aren't sufficient resources available, key\
-    \ stakeholders aren't on board, or a change in organizational culture is needed,\
+    \ make a transition, even if they\u2019re currently using a tool or a toolset that\
+    \ isn\u2019t fit for use, because there aren\u2019t sufficient resources available, key\
+    \ stakeholders aren\u2019t on board, or a change in organizational culture is needed,\
     \ for example. In those cases, incremental change is the best solution. </p>"
   details: ''
   event: Write the Docs Prague 2018
@@ -443,21 +443,21 @@ English. My role is to figure out how we can produce good documentation.</p>
     website: ''
   title: The mathematics of choosing a tool
   year: '2018'
-- abstract: "<p>We all know what it’s like to look at a series of existing documentation and
+- abstract: "<p>We all know what it\u2019s like to look at a series of existing documentation and
     think, “how did this happen?” Be it a large swath of unorganized content or a
     lack of a clear strategy, the complications of bad docs aren\u2019t just a curse for
     documentation editors. Our readers see it, too. It leads to confused support
     requests and possibly a loss of customers.</p>
 
     <p>When I started at Joyent, I was continuously made aware of documentation that
-    needed help and it felt like a nonstop firefight. Over time, I was able to
+    needed help, and it felt like a nonstop firefight. Over time, I was able to
     quell the fires, create a content strategy, and completely redefine how our
     documentation works. Then all of my work was blown up a second time \u2014 this
     time, starting from scratch with a not yet existing product. From this
-    experience, I’ve learned it’s all about being organized and having a clear
+    experience, I\u2019ve learned it\u2019s all about being organized and having a clear
     strategy.</p>
 
-    <p>In this talk, we’ll discuss:</p>
+    <p>In this talk, we\u2019ll discuss:</p>
 
     <ul>\n<li>how to get buy\u2014in for a documentation do\u2014over</li>\n
     <li>how to pivot from rewriting docs to starting from scratch</li>\n
@@ -465,7 +465,7 @@ English. My role is to figure out how we can produce good documentation.</p>
     <li>empathy for our readers</li>
     <li>setting easy\u2014to\u2014follow guidelines for non\u2014professional writers</li>\n</ul>
 
-    <p>We’ll also touch on how to prioritize and manage all of this work without
+    <p>We\u2019ll also touch on how to prioritize and manage all of this work without
     additional full\u2014time documentation help.</p>"
   details: ''
   event: Write the Docs Prague 2018
