@@ -356,7 +356,7 @@
 - abstract: "<p>When, why, and how to use video in your documentation, or as part of\
     \ your product education strategy. Video is a fantastic format for engaging users,\
     \ especially less \"tech savvy\" ones.\L\LHow do you ensure you\u2019re making\
-    \ great self-service videos, while juggling an ever-changing and evolving product?We\u2019ll chat about:</p>\n\
+    \ great self-service videos, while juggling an ever-changing and evolving product? We\u2019ll chat about:</p>\n\
     <ul>\n<li>\nWhy you should be making videos\n\
     <ul>\n<li>The myth of a visual learner</li>\n<li>B2C vs B2B considerations</li>\n\
     <li>Accessibility</li>\n</ul>\n</li>\n<li>\nWhen to use videos\n<ul>\n\
@@ -384,26 +384,29 @@
     website: ''
   title: So you want to make videos?
   year: '2018'
-- abstract: "<p>As a Lean Trainer and Manager in service industries, I work with all\
-    \ kinds of teams to help them use process\u2014mapping to document their processes.\
-    \ Sifting through binders of documentation, pages of screenshots, and step by\
-    \ step explanations can be time consuming and awkward internally and for the customer,\
-    \ and large quantities of documentation are sometimes difficult to keep up to\
-    \ date.  System updates would render screenshots obsolete, and teams were quickly\
-    \ getting overwhelmed, giving up on documentation entirely.  I started to apply\
-    \ my lean expertise to the art of process-mapping, putting together a best practice\
-    \ toolkit to maintain a minimalist approach to documenting processes.</p>\n<p>We\u2019ll\
-    \ discuss best practice in process mapping for:</p>\n<ul>\n<li>visual instruction in user\
-    \ guides and how\u2014to\u2019s</li>\n<li>mapping process at high levels, avoiding getting bogged\
-    \ down in detail</li>\n <li>assessing possible failure points to anticipate customer pain\
-    \ points (to manage through customer documentation)</li>\n</ul>"
+- abstract: "<p>As a Lean Trainer and Manager in service industries, I work\ 
+    \ with all kinds of teams to help them use process mapping to\ 
+    \ document their processes. Sifting through binders of\ 
+    \ documentation, pages of screenshots, and step\u2014by\u2014step\ 
+    \ explanations can be time consuming and awkward, and large\ 
+    \ quantities of documentation are time consuming to keep up to\ 
+    \ date.  System updates would quickly render screenshots\ 
+    \ obsolete, and teams were quickly getting overwhelmed, giving up\ 
+    \ on documentation entirely.  I started to apply my lean\ 
+    \ expertise to the art of process mapping, putting together a\ 
+    \ best practice toolkit to maintain a minimalist approach to\
+    \ documenting processes.</p>\n<p>We'll discuss best practice in process mapping for:</p>\n\ 
+    \ <ul>\n<li>visual instruction in user guides and how\u2014to\u2019s</li>\n\ 
+    \ <li>mapping process at high levels, avoiding getting bogged down\ 
+    \ in detail</li>\n<li>assessing possible failure points to anticipate\ 
+    \ customer pain points (to manage through customer documentation)</li>\n</ul>"\ 
   details: ''
   event: Write the Docs Prague 2018
   name: Gillian von Runte
   path: conf/prague/2018/videos/docs-on-a-diet-lean-best-practice-for-process-documentation
   series: Write the Docs Prague
   series_slug: prague
-  slug: docs-on-a-diet-lean-best-practice-for-process-documentation
+  slug: document-what-matters-lean-best-practice-for-process-documentation
   speakers:
   - details: ''
     img_file: gillian-von-runte.jpg
@@ -411,7 +414,7 @@
     slug: gillian-von-runte
     twitter: ''
     website: ''
-  title: 'Docs on a Diet: Lean Best Practice for Process Documentation'
+  title: 'Document What Matters: Lean Best Practice for Process Documentation'
   year: '2018'
 - abstract: "<p>This talk focuses on how to define your needs and assess whether your\
     \ organization is ready for a new documentation tool/approach or not.</p>\n<p>It\
