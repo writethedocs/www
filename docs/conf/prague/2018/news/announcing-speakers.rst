@@ -34,7 +34,7 @@ Planning your trip
 
 In the next few weeks, we’ll be announcing more details about the conference events, including the full schedule, boat trip on Saturday afternoon, writing day and reception on Sunday, and official party on Monday evening.
 
-We've got a couple of new volunteers with familar faces – Beth Aitman and Daniel Beck – who are heading up our Explore Portland committee. They're already hard at work putting together resources to help you plan your visit! Check out the `Visit Portland <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}//visiting/>`_ page on the conference website, or pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack to ask a question.
+We've got a couple of new volunteers with familar faces – Beth Aitman and Daniel Beck – who are heading up our Explore Prague committee. They're already hard at work putting together resources to help you plan your visit! Check out the `Visit Prague <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}//visiting/>`_ page on the conference website, or pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack to ask a question.
 
 Conference shirts
 ---------------------
