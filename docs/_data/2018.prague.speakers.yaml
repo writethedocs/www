@@ -179,13 +179,13 @@
     website: ''
   title: "\"It's a Feature\" - Documenting Known Issues and Product Shortcomings"
   year: '2018'
-- abstract: "<p>"To install, simply do [these several steps]!" If you\u2019re like me, you\u2019ve
-    written lots of documentation like this. We all want our products to be simple.
-    Worse, lots of us believe our products are simple. But trust me, they\u2019re
-    not simple! Your installation guide failed on step 2, and I don\u2019t know how to
-    fix it! In this talk I highlight some writing styles which seem innocuous when
-    written, but which show a lack of sympathy when read. I suggest some ways to
-    avoid these pitfalls and bridge the gap with your reader.</p>"
+- abstract: "<p>To install, simply do [these several steps]! If you\u2019re like me, you\u2019ve\
+    \ written lots of documentation like this. We all want our products to be simple.\
+    \ Worse, lots of us believe our products are simple. But trust me, they\u2019re\
+    \ not simple! Your installation guide failed on step 2, and I don\u2019t know how to\
+    \ fix it! In this talk I highlight some writing styles which seem innocuous when\
+    \ written, but which show a lack of sympathy when read. I suggest some ways to\
+    \ avoid these pitfalls and bridge the gap with your reader.</p>"
   details: ''
   event: Write the Docs Prague 2018
   name: Jim Fisher
@@ -234,10 +234,10 @@
     website: ''
   title: Measuring the impact of your documentation
   year: '2018'
-- abstract: "<p>The journey, benefits, and shortcomings of writing runnable documentation. A
-    story behind the "documentation *is* code" principle and how it saves money and
-    time, empowers documentarians, simplifies processes around testing
-    documentation, and makes a diverse customer base happy.</p>"
+- abstract: "<p>The journey, benefits, and shortcomings of writing runnable documentation. A\
+    \ story behind the \"documentation *is* code\" principle and how it saves money and\
+    \ time, empowers documentarians, simplifies processes around testing\
+    \ documentation, and makes a diverse customer base happy.</p>"
   details: ''
   event: Write the Docs Prague 2018
   name: Predrag Mandic
@@ -304,8 +304,8 @@
     website: ''
   title: A brief history of text markup languages
   year: '2018'
-- abstract: "<p>I love my job. My title is "Information Architect", but that\u2019s mostly because
-    "She Who Figures Out What We Need To Do About Our Documentation And Does It"
+- abstract: "<p>I love my job. My title is \"Information Architect\", but that\u2019s mostly because
+    \"She Who Figures Out What We Need To Do About Our Documentation And Does It\"
     is too wordy for HR. I work in a product unit of about 350 people creating
     software for developers, very few of them skilled writers or native speakers of
     English. My role is to figure out how we can produce good documentation.</p>
@@ -313,7 +313,7 @@
     <p>I have a problem of scale: I can\u2019t do all of the technical writing we need. So
     instead, I\u2019ve become a contagious documentarian. Over the last year, I\u2019ve
     <strike>infected</strike> taught technical writing to over 200 people around my
-    company. My 3 1/2 hour course, "Technical Writing for Techies", is popular, and
+    company. My 3 1/2 hour course, \"Technical Writing for Techies\", is popular, and
     seems to be effective. There\u2019s been a noticeable improvement in the writing
     we\u2019re producing, and (even better) an awareness that good writing is an
     achievable, even enjoyable, thing.</p>
