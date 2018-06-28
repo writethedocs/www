@@ -3,11 +3,11 @@
 .. post:: June 27, 2018
    :tags: prague-2018, speakers, tickets, visiting, sponsors
 
-Lo folks!
+Hello folks!
 
 First off, we're excited to announce that we've finalized our list of speakers for the event! Every year talk selection gets more and more difficult as we get a larger, stronger batch of submissions. Thank you so much to everyone who took the time to send us a pitch – we literally wouldn't have an event without you!
 
-We also have some info about ticket purchasing (now's the time!), trip planning (Prague beckons!), conference shirts (now print on demand) and of course our generous sponsors (want to join them?). Read on for more details!
+We also have some info about ticket purchasing (now's the time!), trip planning (Prague beckons!), conference shirts (now printed on demand) and of course our generous sponsors (want to `join them <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_?). Read on for more details!
 
 Full speaker line-up
 --------------------
@@ -34,7 +34,9 @@ Planning your trip
 
 In the next few weeks, we’ll be announcing more details about the conference events, including the full schedule, boat trip on Saturday afternoon, writing day and reception on Sunday, and official party on Monday evening.
 
-We've got a couple of new volunteers with familar faces – Beth Aitman and Daniel Beck – who are heading up our Explore Prague committee. They're already hard at work putting together resources to help you plan your visit! Check out the `Visit Prague <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}//visiting/>`_ page on the conference website, or pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack to ask a question.
+In the meantime, check out the `Visit Prague <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}//visiting/>`_ page on the conference website for some resources on transport, where to stay, where to eat, etc. You can also pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack to ask questions! 
+
+Beth Aitman and Daniel Beck are volunteering as our Welcome Wagon committee this year. If this is your first time attending the conference – or even if it's not – they'll be hanging out in `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ and on site during the event to help out you get the most out of the experience. 
 
 Conference shirts
 ---------------------
