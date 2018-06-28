@@ -23,7 +23,7 @@
   slug: a11y-friendly-documentation
   speakers:
   - details: ''
-    img_file: carolyn-stransky.png
+    img_file: carolyn-stransky.jpg
     name: Carolyn Stransky
     slug: carolyn-stransky
     twitter: ''
@@ -57,7 +57,7 @@
   slug: learning-to-love-release-notes
   speakers:
   - details: ''
-    img_file: anne-edwards.png
+    img_file: anne-edwards.jpg
     name: Anne Edwards
     slug: anne-edwards
     twitter: ''
@@ -82,7 +82,7 @@
   slug: how-to-interview-users-to-draw-out-the-stories-behind-the-tools
   speakers:
   - details: ''
-    img_file: heather-mcnamee.png
+    img_file: heather-mcnamee.jpg
     name: Heather McNamee
     slug: heather-mcnamee
     twitter: ''
@@ -137,7 +137,7 @@
   slug: a-year-in-the-life-of-the-better-docs-project
   speakers:
   - details: ''
-    img_file: rowan-cota.png
+    img_file: rowan-cota.jpg
     name: Rowan Cota
     slug: rowan-cota
     twitter: ''
@@ -247,7 +247,7 @@
   slug: run-your-docs
   speakers:
   - details: ''
-    img_file: predrag-mandic.png
+    img_file: predrag-mandic.jpg
     name: Predrag Mandic
     slug: predrag-mandic
     twitter: ''
@@ -297,7 +297,7 @@
   slug: a-brief-history-of-text-markup-languages
   speakers:
   - details: ''
-    img_file: tony-ibbs.png
+    img_file: tony-ibbs.jpg
     name: Tony Ibbs
     slug: tony-ibbs
     twitter: ''
@@ -406,7 +406,7 @@
   slug: docs-on-a-diet-lean-best-practice-for-process-documentation
   speakers:
   - details: ''
-    img_file: gillian-von-runte.png
+    img_file: gillian-von-runte.jpg
     name: Gillian von Runte
     slug: gillian-von-runte
     twitter: ''
@@ -476,7 +476,7 @@
   slug: how-to-tear-down-existing-documentation-and-rewrite-docs-that-actually-work
   speakers:
   - details: ''
-    img_file: alexandra-white.png
+    img_file: alexandra-white.jpg
     name: Alexandra White
     slug: alexandra-white
     twitter: ''
