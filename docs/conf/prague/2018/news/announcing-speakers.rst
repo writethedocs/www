@@ -34,7 +34,7 @@ Planning your trip
 
 In the next few weeks, we’ll be announcing more details about the conference events, including the full schedule, boat trip on Saturday afternoon, writing day and reception on Sunday, and official party on Monday evening.
 
-In the meantime, check out the `Visit Prague <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}//visiting/>`_ page on the conference website for some resources on transport, where to stay, where to eat, etc. You can also pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack to ask questions! 
+In the meantime, check out the `Visit Prague <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`_ page on the conference website for some resources on transport, where to stay, where to eat, etc. You can also pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack to ask questions! 
 
 Beth Aitman and Daniel Beck are volunteering as our Welcome Wagon committee this year. If this is your first time attending the conference – or even if it's not – they'll be hanging out in `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ and on site during the event to help out you get the most out of the experience. 
 
