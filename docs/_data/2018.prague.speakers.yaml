@@ -384,21 +384,21 @@
     website: ''
   title: So you want to make videos?
   year: '2018'
-- abstract: "<p>As a Lean Trainer and Manager in service industries, I work\ 
-    \ with all kinds of teams to help them use process mapping to\ 
-    \ document their processes. Sifting through binders of\ 
-    \ documentation, pages of screenshots, and step\u2014by\u2014step\ 
-    \ explanations can be time consuming and awkward, and large\ 
-    \ quantities of documentation are time consuming to keep up to\ 
-    \ date.  System updates would quickly render screenshots\ 
-    \ obsolete, and teams were quickly getting overwhelmed, giving up\ 
-    \ on documentation entirely.  I started to apply my lean\ 
-    \ expertise to the art of process mapping, putting together a\ 
+- abstract: "<p>As a Lean Trainer and Manager in service industries, I work\
+    \ with all kinds of teams to help them use process mapping to\
+    \ document their processes. Sifting through binders of\
+    \ documentation, pages of screenshots, and step\u2014by\u2014step\
+    \ explanations can be time consuming and awkward, and large\
+    \ quantities of documentation are time consuming to keep up to\
+    \ date.  System updates would quickly render screenshots\
+    \ obsolete, and teams were quickly getting overwhelmed, giving up\
+    \ on documentation entirely.  I started to apply my lean\
+    \ expertise to the art of process mapping, putting together a\
     \ best practice toolkit to maintain a minimalist approach to\
-    \ documenting processes.</p>\n<p>We'll discuss best practice in process mapping for:</p>\n\ 
-    \ <ul>\n<li>visual instruction in user guides and how\u2014to\u2019s</li>\n\ 
-    \ <li>mapping process at high levels, avoiding getting bogged down\ 
-    \ in detail</li>\n<li>assessing possible failure points to anticipate\ 
+    \ documenting processes.</p>\n<p>We'll discuss best practice in process mapping for:</p>\n\
+    \ <ul>\n<li>visual instruction in user guides and how\u2014to\u2019s</li>\n\
+    \ <li>mapping process at high levels, avoiding getting bogged down\
+    \ in detail</li>\n<li>assessing possible failure points to anticipate\
     \ customer pain points (to manage through customer documentation)</li>\n</ul>"
   details: ''
   event: Write the Docs Prague 2018
@@ -462,11 +462,11 @@
 
     <p>In this talk, we\u2019ll discuss:</p>
 
-    <ul>\n<li>how to get buy\u2014in for a documentation do\u2014over</li>\n
+    <ul>\n<li>how to get buy\u2010in for a documentation do\u2014over</li>\n
     <li>how to pivot from rewriting docs to starting from scratch</li>\n
     <li>content strategy (and how to write a great one)</li>\n
     <li>empathy for our readers</li>
-    <li>setting easy\u2014to\u2014follow guidelines for non\u2014professional writers</li>\n</ul>
+    <li>setting easy\u2010to\u2010follow guidelines for non\u2010professional writers</li>\n</ul>
 
     <p>We\u2019ll also touch on how to prioritize and manage all of this work without
     additional full\u2014time documentation help.</p>"
