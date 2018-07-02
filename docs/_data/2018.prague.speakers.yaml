@@ -234,10 +234,9 @@
     website: ''
   title: Measuring the impact of your documentation
   year: '2018'
-- abstract: "<p>The journey, benefits, and shortcomings of writing runnable documentation. A\
-    \ story behind the \"documentation *is* code\" principle and how it saves money and\
-    \ time, empowers documentarians, simplifies processes around testing\
-    \ documentation, and makes a diverse customer base happy.</p>"
+- abstract: "<p>The journey, benefits and shortcomings of writing runnable documentation.
+A story behind the \"documentation is code\" principle and how it saves money and time, empowers documentarians, simplifies processes around testing documentation and brings happiness to a diverse customer base.
+I think this pretty much sums up the talk and produces  some anticipation at the same time.</p>"
   details: ''
   event: Write the Docs Prague 2018
   name: Predrag Mandic
@@ -413,20 +412,7 @@
     website: ''
   title: 'Document What Matters: Lean Best Practice for Process Documentation'
   year: '2018'
-- abstract: "<p>This talk focuses on how to define your needs and assess whether your\
-    \ organization is ready for a new documentation tool/approach or not.</p>\n<p>It\
-    \ can be a challenge to choose the appropriate approach and tool to transition\
-    \ your existing documentation to, or to choose for a new project. This decision\
-    \ should be defined by the organization\u2019s strategic goals, its operational reality,\
-    \ related processes, and existing systems. </p>\n<p>Problems occur when tool adoption\
-    \ project teams don\u2019t consider relevant factors, like difficulty integrating with\
-    \ an organization\u2019s existing systems, insufficient headcount to successfully implement\
-    \ a new solution, or lack of supporting processes, for example. Teams may also\
-    \ have a hard time accepting that sometimes it is not the right time to try and\
-    \ make a transition, even if they\u2019re currently using a tool or a toolset that\
-    \ isn\u2019t fit for use, because there aren\u2019t sufficient resources available, key\
-    \ stakeholders aren\u2019t on board, or a change in organizational culture is needed,\
-    \ for example. In those cases, incremental change is the best solution. </p>"
+- abstract: "<p>When you're suffering with an inadequate toolset, especially if you've just come back from a conference, you may feel like \"Now is the time for change!\". However, your first step should be analysis. Before you can decide this is the right moment for a new tool, let alone choose a tool, you need to assess your organization's needs and current status. Your decision should be defined by a triangle of factors:  bigger picture strategic goals, operational reality, related processes, and existing systems. But when it isn't the right time, it is still possible to make progress with continued assessment and incremental change...</p>"
   details: ''
   event: Write the Docs Prague 2018
   name: Val Grimm
@@ -441,7 +427,7 @@
     slug: val-grimm
     twitter: ''
     website: ''
-  title: The mathematics of choosing a tool
+  title: Choosing a tool . . . and choosing your moment
   year: '2018'
 - abstract: "<p>We all know what it\u2019s like to look at a series of existing documentation and
     think, “how did this happen?” Be it a large swath of unorganized content or a
