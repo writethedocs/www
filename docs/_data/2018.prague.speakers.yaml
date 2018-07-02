@@ -42,11 +42,11 @@
     (from reading and writing many over the years), so I gathered them together and
     gradually formed them into a style guide. Drawing from this, I\u2019ll talk about:</p>\n
 
-    <ul>\n<li>making release notes easier to write \u2014 and read \u2014 by grouping them into
+    <ul>\n<li>making release notes easier to write \u2010 and read \u2010 by grouping them into
     categories and then using templates to write them</li>\n
     <li>how you can improve readability with a few simple style tweaks</li>\n
-    <li>viewing release notes as a ready\u2014made opportunity to show your users the hard
-    work you\u2019ve put into your product \u2014 the bugs you\u2019ve fixed, and the suggestions
+    <li>viewing release notes as a ready\u2010made opportunity to show your users the hard
+    work you\u2019ve put into your product \u2010 the bugs you\u2019ve fixed, and the suggestions
     you\u2019ve listened to</li>\n</ul>"
   details: ''
   event: Write the Docs Prague 2018
@@ -101,7 +101,7 @@
     \ technical debt once and for all.  We will cover:</p>\n<ul>\n<li>What is technical\
     \ debt, how does it accrue, and why should your organisation care</li>\n\
     \ <li>How you can tackle your debt and give your documentation project the spring\
-    \ clean it needs</li>\n<li>Tips for staying debt\u2014free</li>\n</ul>"
+    \ clean it needs</li>\n<li>Tips for staying debt\u2010free</li>\n</ul>"
   details: ''
   event: Write the Docs Prague 2018
   name: Louise Fahey
@@ -111,7 +111,7 @@
   slug: tackling-technical-debt-in-the-docs
   speakers:
   - details: ''
-    img_file: missing.jpg
+    img_file: louise-fahey.jpg
     name: Louise Fahey
     slug: louise-fahey
     twitter: ''
@@ -172,7 +172,7 @@
   slug: it-s-a-feature-documenting-known-issues-and-product-shortcomings
   speakers:
   - details: ''
-    img_file: missing.jpg
+    img_file: ivana-devcic.jpg
     name: Ivana Devcic
     slug: ivana-devcic
     twitter: ''
@@ -227,17 +227,16 @@
   slug: measuring-the-impact-of-your-documentation
   speakers:
   - details: ''
-    img_file: missing.jpg
+    img_file: liam-keegan.jpg
     name: Liam Keegan
     slug: liam-keegan
     twitter: ''
     website: ''
   title: Measuring the impact of your documentation
   year: '2018'
-- abstract: "<p>The journey, benefits, and shortcomings of writing runnable documentation. A\
-    \ story behind the \"documentation *is* code\" principle and how it saves money and\
-    \ time, empowers documentarians, simplifies processes around testing\
-    \ documentation, and makes a diverse customer base happy.</p>"
+- abstract: "<p>The journey, benefits and shortcomings of writing runnable documentation.
+A story behind the \"documentation is code\" principle and how it saves money and time, empowers documentarians, simplifies processes around testing documentation and brings happiness to a diverse customer base.
+I think this pretty much sums up the talk and produces  some anticipation at the same time.</p>"
   details: ''
   event: Write the Docs Prague 2018
   name: Predrag Mandic
@@ -271,7 +270,7 @@
   slug: what-about-compliance
   speakers:
   - details: ''
-    img_file: missing.jpg
+    img_file: vlad-stirbu.jpg
     name: Vlad Stirbu
     slug: vlad-stirbu
     twitter: ''
@@ -323,7 +322,7 @@
     <li>Study and practice different writing techniques.</li>\n
     <li>Understand and use a style guide.</li>\n
     <li>Learn ways to improve word choice and sentence structure.</li>\n
-    <li>Study the commonest mistakes that non\u2014native speakers make in English and how
+    <li>Study the commonest mistakes that non\u2010native speakers make in English and how
       to correct them. (etc)</li>\n</ul>
 
     <p>And I do cover all of those topics. But just between us, my real objectives for
@@ -353,21 +352,18 @@
     website: ''
   title: 'Teaching geeks to fish: tales of a contagious documentarian.'
   year: '2018'
-- abstract: "<p>When, why, and how to use video in your documentation, or as part of\
-    \ your product education strategy. Video is a fantastic format for engaging users,\
-    \ especially less \"tech savvy\" ones.\L\LHow do you ensure you\u2019re making\
-    \ great self-service videos, while juggling an ever-changing and evolving product? We\u2019ll chat about:</p>\n\
-    <ul>\n<li>\nWhy you should be making videos\n\
-    <ul>\n<li>The myth of a visual learner</li>\n<li>B2C vs B2B considerations</li>\n\
-    <li>Accessibility</li>\n</ul>\n</li>\n<li>\nWhen to use videos\n<ul>\n\
-    <li>Product tutorials</li>\n<li>Webinars</li>\n<li>Social media content</li>\n\
-    </ul>\n</li>\n<li>\nWhen you shouldn\u2019t be making videos\n<ul>\n<li>The\
-    \ cons of videos</li>\n<li>In-house versus contractors</li>\n<li>Alternatives\
-    \ to video e.g. GIFs or screenshots</li>\n</ul>\n</li>\n<li>\nMaking great\
-    \ product tutorials\n<ul>\n<li>Scripting (tone, language, design, and layout)</li>\n\
-    <li>Voiceover + recording</li>\n<li>Production, Editing</li>\n<li>Hosting and\
-    \ sharing</li>\n<li>Managing feedback, auditing, and updating videos</li>\n</ul>\n\
-    </li>\n</ul>"
+- abstract: "<p>I started my career in technology, working in Customer
+    Support for a small start up in little old New Zealand. To help our Support team scale as the business quickly grew, we needed to invest in a fool-proof self-service strategy.</p>
+    <p>We work in an industry with customers that don't identify themselves as \"tech savvy\", so to help them get up and running with our product quickly we needed friendly, accessible and engaging product education. </p>
+    <p>Video was one of the first things we identified as being a crucial part of our product education strategy. In this talk, I'll share my experience with using, producing and managing videos, as part of documenting an ever-changing and evolving product. We’ll chat about: </p>
+    <ul>
+    <li>Why you should be making videos </li>
+    <li>When to use videos </li>
+    <li>When you shouldn't be making videos </li>
+    <li>How to develop a video strategy </li>
+    <li>How to make great product tutorials </li>
+    </ul>
+    <p>If you're looking to start your adventure in video, this talk will give you insight into how to develop and deliver a video strategy, with some helpful insights and lessons learned along the way.</p>"
   details: ''
   event: Write the Docs Prague 2018
   name: Sarah Ley-Hamilton
@@ -377,28 +373,28 @@
   slug: so-you-want-to-make-videos
   speakers:
   - details: ''
-    img_file: missing.jpg
+    img_file: sarah-ley-hamilton.jpg
     name: Sarah Ley-Hamilton
     slug: sarah-ley-hamilton
     twitter: ''
     website: ''
   title: So you want to make videos?
   year: '2018'
-- abstract: "<p>As a Lean Trainer and Manager in service industries, I work\ 
-    \ with all kinds of teams to help them use process mapping to\ 
-    \ document their processes. Sifting through binders of\ 
-    \ documentation, pages of screenshots, and step\u2014by\u2014step\ 
-    \ explanations can be time consuming and awkward, and large\ 
-    \ quantities of documentation are time consuming to keep up to\ 
-    \ date.  System updates would quickly render screenshots\ 
-    \ obsolete, and teams were quickly getting overwhelmed, giving up\ 
-    \ on documentation entirely.  I started to apply my lean\ 
-    \ expertise to the art of process mapping, putting together a\ 
+- abstract: "<p>As a Lean Trainer and Manager in service industries, I work\
+    \ with all kinds of teams to help them use process mapping to\
+    \ document their processes. Sifting through binders of\
+    \ documentation, pages of screenshots, and step\u2010by\u2010step\
+    \ explanations can be time consuming and awkward, and large\
+    \ quantities of documentation are time consuming to keep up to\
+    \ date.  System updates would quickly render screenshots\
+    \ obsolete, and teams were quickly getting overwhelmed, giving up\
+    \ on documentation entirely.  I started to apply my lean\
+    \ expertise to the art of process mapping, putting together a\
     \ best practice toolkit to maintain a minimalist approach to\
-    \ documenting processes.</p>\n<p>We'll discuss best practice in process mapping for:</p>\n\ 
-    \ <ul>\n<li>visual instruction in user guides and how\u2014to\u2019s</li>\n\ 
-    \ <li>mapping process at high levels, avoiding getting bogged down\ 
-    \ in detail</li>\n<li>assessing possible failure points to anticipate\ 
+    \ documenting processes.</p>\n<p>We'll discuss best practice in process mapping for:</p>\n\
+    \ <ul>\n<li>visual instruction in user guides and how\u2014to\u2019s</li>\n\
+    \ <li>mapping process at high levels, avoiding getting bogged down\
+    \ in detail</li>\n<li>assessing possible failure points to anticipate\
     \ customer pain points (to manage through customer documentation)</li>\n</ul>"
   details: ''
   event: Write the Docs Prague 2018
@@ -416,20 +412,7 @@
     website: ''
   title: 'Document What Matters: Lean Best Practice for Process Documentation'
   year: '2018'
-- abstract: "<p>This talk focuses on how to define your needs and assess whether your\
-    \ organization is ready for a new documentation tool/approach or not.</p>\n<p>It\
-    \ can be a challenge to choose the appropriate approach and tool to transition\
-    \ your existing documentation to, or to choose for a new project. This decision\
-    \ should be defined by the organization\u2019s strategic goals, its operational reality,\
-    \ related processes, and existing systems. </p>\n<p>Problems occur when tool adoption\
-    \ project teams don\u2019t consider relevant factors, like difficulty integrating with\
-    \ an organization\u2019s existing systems, insufficient headcount to successfully implement\
-    \ a new solution, or lack of supporting processes, for example. Teams may also\
-    \ have a hard time accepting that sometimes it is not the right time to try and\
-    \ make a transition, even if they\u2019re currently using a tool or a toolset that\
-    \ isn\u2019t fit for use, because there aren\u2019t sufficient resources available, key\
-    \ stakeholders aren\u2019t on board, or a change in organizational culture is needed,\
-    \ for example. In those cases, incremental change is the best solution. </p>"
+- abstract: "<p>When you're suffering with an inadequate toolset, especially if you've just come back from a conference, you may feel like \"Now is the time for change!\". However, your first step should be analysis. Before you can decide this is the right moment for a new tool, let alone choose a tool, you need to assess your organization's needs and current status. Your decision should be defined by a triangle of factors:  bigger picture strategic goals, operational reality, related processes, and existing systems. But when it isn't the right time, it is still possible to make progress with continued assessment and incremental change...</p>"
   details: ''
   event: Write the Docs Prague 2018
   name: Val Grimm
@@ -439,12 +422,12 @@
   slug: the-mathematics-of-choosing-a-tool
   speakers:
   - details: ''
-    img_file: missing.jpg
+    img_file: val-grimm.png
     name: Val Grimm
     slug: val-grimm
     twitter: ''
     website: ''
-  title: The mathematics of choosing a tool
+  title: Choosing a tool . . . and choosing your moment
   year: '2018'
 - abstract: "<p>We all know what it\u2019s like to look at a series of existing documentation and
     think, “how did this happen?” Be it a large swath of unorganized content or a
@@ -462,14 +445,14 @@
 
     <p>In this talk, we\u2019ll discuss:</p>
 
-    <ul>\n<li>how to get buy\u2014in for a documentation do\u2014over</li>\n
+    <ul>\n<li>how to get buy\u2010in for a documentation do\u2010over</li>\n
     <li>how to pivot from rewriting docs to starting from scratch</li>\n
     <li>content strategy (and how to write a great one)</li>\n
     <li>empathy for our readers</li>
-    <li>setting easy\u2014to\u2014follow guidelines for non\u2014professional writers</li>\n</ul>
+    <li>setting easy\u2010to\u2010follow guidelines for non\u2010professional writers</li>\n</ul>
 
     <p>We\u2019ll also touch on how to prioritize and manage all of this work without
-    additional full\u2014time documentation help.</p>"
+    additional full\u2010time documentation help.</p>"
   details: ''
   event: Write the Docs Prague 2018
   name: Alexandra White
