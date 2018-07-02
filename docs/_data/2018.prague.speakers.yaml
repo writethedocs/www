@@ -111,7 +111,7 @@
   slug: tackling-technical-debt-in-the-docs
   speakers:
   - details: ''
-    img_file: missing.jpg
+    img_file: louise-fahey.jpg
     name: Louise Fahey
     slug: louise-fahey
     twitter: ''
@@ -353,21 +353,18 @@
     website: ''
   title: 'Teaching geeks to fish: tales of a contagious documentarian.'
   year: '2018'
-- abstract: "<p>When, why, and how to use video in your documentation, or as part of\
-    \ your product education strategy. Video is a fantastic format for engaging users,\
-    \ especially less \"tech savvy\" ones.\L\LHow do you ensure you\u2019re making\
-    \ great self-service videos, while juggling an ever-changing and evolving product? We\u2019ll chat about:</p>\n\
-    <ul>\n<li>\nWhy you should be making videos\n\
-    <ul>\n<li>The myth of a visual learner</li>\n<li>B2C vs B2B considerations</li>\n\
-    <li>Accessibility</li>\n</ul>\n</li>\n<li>\nWhen to use videos\n<ul>\n\
-    <li>Product tutorials</li>\n<li>Webinars</li>\n<li>Social media content</li>\n\
-    </ul>\n</li>\n<li>\nWhen you shouldn\u2019t be making videos\n<ul>\n<li>The\
-    \ cons of videos</li>\n<li>In-house versus contractors</li>\n<li>Alternatives\
-    \ to video e.g. GIFs or screenshots</li>\n</ul>\n</li>\n<li>\nMaking great\
-    \ product tutorials\n<ul>\n<li>Scripting (tone, language, design, and layout)</li>\n\
-    <li>Voiceover + recording</li>\n<li>Production, Editing</li>\n<li>Hosting and\
-    \ sharing</li>\n<li>Managing feedback, auditing, and updating videos</li>\n</ul>\n\
-    </li>\n</ul>"
+- abstract: "<p>I started my career in technology, working in Customer
+    Support for a small start up in little old New Zealand. To help our Support team scale as the business quickly grew, we needed to invest in a fool-proof self-service strategy.</p>
+    <p>We work in an industry with customers that don't identify themselves as \"tech savvy\", so to help them get up and running with our product quickly we needed friendly, accessible and engaging product education. </p>
+    <p>Video was one of the first things we identified as being a crucial part of our product education strategy. In this talk, I'll share my experience with using, producing and managing videos, as part of documenting an ever-changing and evolving product. We’ll chat about: </p>
+    <ul>
+    <li>Why you should be making videos </li>
+    <li>When to use videos </li>
+    <li>When you shouldn't be making videos </li>
+    <li>How to develop a video strategy </li>
+    <li>How to make great product tutorials </li>
+    </ul>
+    <p>If you're looking to start your adventure in video, this talk will give you insight into how to develop and deliver a video strategy, with some helpful insights and lessons learned along the way.</p>"
   details: ''
   event: Write the Docs Prague 2018
   name: Sarah Ley-Hamilton
