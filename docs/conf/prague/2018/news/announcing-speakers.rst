@@ -3,14 +3,17 @@
 .. post:: June 27, 2018
    :tags: prague-2018, speakers, tickets, visiting, sponsors
 
+Announcing speakers and talks
+=============================
+
 Hello folks!
 
 First off, we're excited to announce that we've finalized our list of speakers for the event! Every year talk selection gets more and more difficult as we get a larger, stronger batch of submissions. Thank you so much to everyone who took the time to send us a pitch – we literally wouldn't have an event without you!
 
 We also have some info about ticket purchasing (now's the time!), trip planning (Prague beckons!), conference shirts (now printed on demand) and of course our generous sponsors (want to `join them <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_?). Read on for more details!
 
-Full speaker line-up
---------------------
+Speakers and talks
+------------------
 
 Every year, we look to bring a wide range of voices to the Write the Docs stage. Because the role of "documentarian" looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure. We're really excited about the presentations we've got this year – we hope you are too!
 
@@ -39,7 +42,7 @@ In the meantime, check out the `Visit Prague <http://www.writethedocs.org/conf/{
 Beth Aitman and Daniel Beck are volunteering as our Welcome Wagon committee this year. If this is your first time attending the conference – or even if it's not – they'll be hanging out in `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ and on site during the event to help out you get the most out of the experience. 
 
 Conference shirts
----------------------
+-----------------
 
 As you probably noticed, we are not including shirts with your conference ticket this year. This is due partially to the logistics of sizing, ordering, and managing stock, but also because of the inevitable leftovers that we find ourselves with every year.
 
