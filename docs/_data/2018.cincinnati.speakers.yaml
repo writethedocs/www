@@ -1,0 +1,104 @@
+- abstract: "<p>Structured writing has never been more important,
+    or more confusing. We keep trying to do more and more with content
+    and give ourselves less and less time to do it. Structured writing
+    can help keep our rhetoric on track and our processes efficient.
+    But how does it do that and what is the relationship between rhetoric
+    and process?</p>\n
+
+    <p>It is easy to get lost in sea of acronyms and buzzwords: semantics,
+    XML, metadata, DITA, structure, DocBook, hypertext, Markdown, topics,
+    XSLT, reuse, LaTeX, silos, HTML. This talk cuts through the noise,
+    explaining what structured writing is (you have been doing it all
+    along) and how different structures are used to achieve different
+    purposes.</p>\n
+
+    <p>Most canned structured writing systems are all about process and
+    can actively get in the way of good rhetoric. Deliberately avoiding
+    the discussion of any particular structured writing system, this talk
+    focuses on showing how structured writing can be used to improve
+    rhetoric and how a focus on rhetoric can enhance process as well.
+    It shows how the right structured writing techniques can improve the
+    quality of your content and make your content process more efficient
+    at the same time, without having to sacrifice quality for efficiency
+    or vice versa.</p>"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  name: Mark Baker
+  path: conf/cincinnati/2018/videos/structured-writing
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: structured-writing
+  speakers:
+  - details: ''
+    img_file: mark-baker.jpg
+    name: Mark Baker
+    slug: mark-baker
+    twitter: mbakeranalecta
+    website: http://analecta.com/
+  title: Structured Writing: How Rhetoric Supports Process
+  year: '2018'
+- abstract: "<p>Who cares about content? Everyone who touches an open
+    source project! The community can’t contribute to a project they
+    don’t understand. But writing documentation isn’t enough: you need
+    a content strategy that defines how the content will be structured,
+    written, tested, and updated along the way as contributions come in.
+    If there is no proper process in place, you are going to be in one
+    hot mess.</p>\n
+
+    <p>In this session, attendees will learn:</p>\n
+    <ul>\n
+      <li>What’s in store for open source technical documentation</li>\n
+      <li>The people and technology needed to help you create open
+        source documentation</li>\n
+      <li>What matters most: quantity over quality or quality over
+        quantity?</li>\n
+      <li>What it takes to have open source documentation that drives
+        customer satisfaction</li>\n
+      <li>Making the process work for your organization with every
+        contribution</li>\n
+    </ul>\n"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  name: Shavindri Dissanayake
+  path: conf/cincinnati/2018/videos/content-strategy-for-open-source-projects
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: content-strategy-for-open-source-projects
+  speakers:
+  - details: ''
+    img_file: shavindri-dissanayake.jpg
+    name: Shavindri Dissanayake
+    slug: shavindri-dissanayake
+    twitter: ''
+    website: https://medium.com/@shavindridissanayake
+  title: Content Strategy for Open Source Projects
+  year: '2018'
+- abstract: "<p>This talk will best practices on how create documentation
+    that can be within reach to individuals who might not have ever thought
+    they would be writing code before. This talk will be framed around why
+    accessible documentation needs to be a part of the conversation around
+    diversity and inclusion.</p>\n
+
+    <p>We’ll get started by defining what accessible documentation looks like.
+    We’ll also cover what common pitfalls exist and how to prevent falling
+    into these traps such as talking in jargon and assuming a base of
+    experience that isn’t defined.  We’ll also discuss about code examples
+    in documentation and what context is needed to ensure that these are
+    reachable to wide audience.. This talk will conclude with a checklist
+    of what makes documentation accessible to wide audience.</p>\n"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  name: Jessica Garson
+  path: conf/cincinnati/2018/videos/how-to-ensure-your-documentation-is-accessible-for-new-programmers
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: how-to-ensure-your-documentation-is-accessible-for-new-programmers
+  speakers:
+  - details: ''
+    img_file: jessica-garson.jpg
+    name: Jessica Garson
+    slug: jessica-garson
+    twitter: jessicagarson
+    website: http://jessicagarson.com
+  title: How to ensure your documentation is accessible for new programmers
+  year: '2018'
