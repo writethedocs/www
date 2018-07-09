@@ -102,3 +102,41 @@
     website: http://jessicagarson.com
   title: How to ensure your documentation is accessible for new programmers
   year: '2018'
+- abstract: "<p>When we choose to manage docs like code, we gain a variety
+    of options for where to store the “source” files of those docs, and how
+    they interact with the code they document. The question then becomes, how
+    do we choose among these options? Do we store docs in the code, near the
+    code, or in a separate location altogether? What are the implications of
+    these choices, for the docs themselves and for the people who maintain
+    them?</p>\n
+
+    <p>Open source projects provide a great source for guidance on these questions,
+    because their docs, their code, and the evolution of the processes used to
+    create both are open for public viewing. As a documentarian working on a
+    number of open source projects, as well as providing site deployment support
+    to even more, I’ve seen and tried a variety of strategies, and learned from
+    both successes and failures.</p>\n
+
+    <p>I’ll cover the benefits and challenges of different approaches, give
+    examples of specific projects using each approach, and detail the docs
+    evolution of a single open source project, Netlify CMS, as we moved
+    through different strategies to meet changing needs and unexpected
+    challenges. You’ll leave with guidelines for choosing the best “path”
+    for your current and future docs-as-code projects, along with exemplars
+    to consult for guidance when you make your choice.</p>"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  name: Jessica Parsons
+  path: conf/cincinnati/2018/videos/finding-a-home-for-docs
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: finding-a-home-for-docs
+  speakers:
+  - details: ''
+    img_file: jessica-parsons.jpg
+    name: Jessica Parsons
+    slug: jessica-parsons
+    twitter: verythorough
+    website: https://www.verythorough.com
+  title: Finding a Home for Docs
+  year: '2018'
