@@ -140,3 +140,34 @@
     website: https://www.verythorough.com
   title: Finding a Home for Docs
   year: '2018'
+- abstract: "<p>We have never written documentation for just one audience,
+    and we have never been able to count on our product name staying the
+    same. Back when we were in Kansas, we had powerful writing IDEs to
+    manage these problems. But now that we're in Oz, docs are code and
+    code is documentation, and it all seems very different. Follow along
+    with me as we explore some use cases and lesser-used code tools to
+    deliver our users exactly the documentation they need, no more and
+    no less. That's a horse of a different color!</p>\n
+
+    <p>This talk will briefly touch on toolchains and workflows that peaked
+    when we were still delivering help with software, and extrapolate how
+    we can use modern code practices and deployment styles to replicate
+    the best parts. These will include universal variables, tying
+    documentation delivery to the version of the product provided, and
+    allowing users to select what they want help with.</p>"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  name: Heidi Waterhouse
+  path: conf/cincinnati/2018/videos/the-man-behind-the-curtains
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: the-man-behind-the-curtains
+  speakers:
+  - details: ''
+    img_file: heidi-aterhouse.jpg
+    name: Heidi Waterhouse
+    slug: heidi-aterhouse
+    twitter: wiredferret
+    website: http://heidiwaterhouse.com
+  title: The Man Behind the Curtain: White Labeling, Automated Generation, and Customized Documentation
+  year: '2018'
