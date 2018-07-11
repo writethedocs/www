@@ -23,7 +23,6 @@
     or vice versa.</p>"
   details: ''
   event: Write the Docs Cincinnati 2018
-  name: Mark Baker
   path: conf/cincinnati/2018/videos/structured-writing
   series: Write the Docs Cincinnati
   series_slug: cincinnati
@@ -35,7 +34,7 @@
     slug: mark-baker
     twitter: mbakeranalecta
     website: http://analecta.com/
-  title: Structured Writing: How Rhetoric Supports Process
+  title: 'Structured Writing: How Rhetoric Supports Process'
   year: '2018'
 - abstract: "<p>Who cares about content? Everyone who touches an open
     source project! The community can’t contribute to a project they
@@ -59,7 +58,6 @@
     </ul>\n"
   details: ''
   event: Write the Docs Cincinnati 2018
-  name: Shavindri Dissanayake
   path: conf/cincinnati/2018/videos/content-strategy-for-open-source-projects
   series: Write the Docs Cincinnati
   series_slug: cincinnati
@@ -88,7 +86,6 @@
     of what makes documentation accessible to wide audience.</p>\n"
   details: ''
   event: Write the Docs Cincinnati 2018
-  name: Jessica Garson
   path: conf/cincinnati/2018/videos/how-to-ensure-your-documentation-is-accessible-for-new-programmers
   series: Write the Docs Cincinnati
   series_slug: cincinnati
@@ -126,7 +123,6 @@
     to consult for guidance when you make your choice.</p>"
   details: ''
   event: Write the Docs Cincinnati 2018
-  name: Jessica Parsons
   path: conf/cincinnati/2018/videos/finding-a-home-for-docs
   series: Write the Docs Cincinnati
   series_slug: cincinnati
@@ -157,7 +153,6 @@
     allowing users to select what they want help with.</p>"
   details: ''
   event: Write the Docs Cincinnati 2018
-  name: Heidi Waterhouse
   path: conf/cincinnati/2018/videos/the-man-behind-the-curtains
   series: Write the Docs Cincinnati
   series_slug: cincinnati
@@ -169,5 +164,125 @@
     slug: heidi-aterhouse
     twitter: wiredferret
     website: http://heidiwaterhouse.com
-  title: The Man Behind the Curtain: White Labeling, Automated Generation, and Customized Documentation
+  title: 'The Man Behind the Curtain: White Labeling, Automated Generation, and Customized Documentation'
+  year: '2018'
+- abstract: "<p>Free and Open Source projects are notorious for
+    incomplete and poorly written documentation.</p>\n
+
+    <p><a href=\"http://opensourcesurvey.org/2017/\">GitHub's
+    2017 Open Source Survey</a> found that \"documentation is
+    highly valued, but often overlooked\" with 93% of respondents
+    agreeing that \"incomplete or outdated documentation is a
+    pervasive problem.\"</p>\n
+
+    <p>In attempt to solve that problem, many free and open source
+    software projects try to make doc writing easier, quicker, and
+    less formal — using wikis, lightweight site generators, and
+    Markdown. Some people claim that this enables \"non coders\"
+    (that is, people who aren't familiar with command lines and
+    version control systems) to contribute.</p>\n
+
+    <p>This is a mistake.</p>\n
+
+    <p>Any project larger than a small utility library needs <i>real</i>
+    documentation tools. \"Quick\" and \"easy\" tools like wikis and
+    Jekyll blogs contribute to documentation debt as organizing,
+    editing, and adding content slowly become more onerous and
+    disconnected from the developer experience.</p>\n
+
+    <p>The solution is <i>Docs like Code</i> — treating your documentation
+    like a first class product, an engineering product. By not ignoring
+    the lessons we've learned about how communities write, test, and
+    deploy code together, we can get better at writing, testing, and
+    deploying documentation together.</p>\n
+
+    <p>Additionally, far from scaring off \"non-coders\", this approach
+    encourages potential contributors to learn basic open source
+    contribution skills in a less complicated, easier to understand
+    context. Since documentation isn't actually code, a Docs as Code
+    process provides a relatively low barrier for people to learn and
+    practice all the non-coding skills needed for open source
+    participation.</p>\n
+
+    <p>Highlighting the documentation process at
+    <a href=\"http://docs.opendatakit.org\">Open Data Kit</a>, and
+    featuring ideas from several other open source documentation
+    projects, this talk will explore how using the common tools,
+    processes, and platforms of modern open source development —
+    git, GitHub, automated testing, continuous integration —
+    fosters the production of high quality documentation and
+    empowers new open source contributors.</p>"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  path: conf/cincinnati/2018/videos/open-source-docops
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: open-source-docops
+  speakers:
+  - details: ''
+    img_file: adam-michael-wood.jpg
+    name: Adam Michael Wood
+    slug: adam-michael-wood
+    twitter: 
+    website: http://hackwrite.com
+  title: Open Source DocOps
+  year: '2018'
+- abstract: "<p>In May 2018, the Kubernetes special interest group
+    for documentation (SIG Docs) migrated the Kubernetes website's
+    static site generator from Jekyll to Hugo. Three of SIG Docs'
+    fifteen core maintainers made a proposal that affected
+    thousands of contributors to the Kubernetes project.</p>\n
+
+    <p>Starting from an initial conversation in late February,
+    2018, the core group of SIG Docs maintainers debated if
+    migrating was the right move, came to consensus, created
+    a doc assessment for the site, communicated the impact of
+    the migration to other Kubernetes stakeholders, migrated
+    the site to its new infrastructure, and did post-migration
+    cleanup. From proposal to execution, the process took
+    three months.</p>\n
+
+    <p>The focus of this talk is on effective decision making
+    in large scale, open source projects. We’ll discuss:</p>\n
+    <ul>\n
+    <li>Why SIG Docs decided to migrate the site's infrastructure</li>\n
+    <li>How we propose and discuss large-scale projects</li>\n
+    <li>How we communicate as a team</li>\n
+    <li>How we get to consensus as a group, and what consensus means to us</li>\n
+    <li>How we informed the larger organization</li>\n
+    <li>How we decided when to migrate</li>\n
+    <li>How we communicated what we did</li>\n
+    <li>What the migration experience was like</li>\n
+    <li>What went well, and what we wish had gone better</li>\n
+    <li>Where we're headed next</li>\n
+    </ul>\n
+
+    <p>Along the way, we'll discuss some technical specifics of
+    Jekyll and Hugo. We'll also talk about how to get things done
+    when mistakes carry seven-figure price tags.</p>\n
+
+    <p>Kubernetes is an open-source software project for orchestrating
+    container deployment. For more information, visit
+    https://kubernetes.io (which we are pleased to say loads now more
+    quickly and reliably).</p>"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  path: conf/cincinnati/2018/videos/big-decisions-with-open-source-docs
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: big-decisions-with-open-source-docs
+  speakers:
+  - details: ''
+    img_file: zach-corleissen.jpg
+    name: Zach Corleissen
+    slug: zach-corleissen
+    twitter: zachorsarah
+    website: 
+  - details: ''
+    img_file: jared-bhatti.jpg
+    name: Jared Bhatti
+    slug: jared-bhatti
+    twitter: jaredbhatti
+    website: 
+  title: 'Big decisions with open source docs: a Kubernetes case study'
   year: '2018'
