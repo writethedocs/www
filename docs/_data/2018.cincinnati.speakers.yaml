@@ -286,3 +286,73 @@
     website: 
   title: 'Big decisions with open source docs: a Kubernetes case study'
   year: '2018'
+- abstract: "<p>As an engineer dedicated to improving the safety of
+    autonomous vehicles, I am beholden to the automotive industry’s
+    standard used for certifying functional safety for EE systems —
+    ISO 26262. The purpose of this standard is to minimize the risk
+    of harm by enforcing a structured, rigorous product development
+    process. This means that before a component can be integrated
+    into a vehicle, it must be certified as compliant with the
+    aforementioned standard.</p>\n
+
+    <p>Complying with ISO 26262 is a meticulous and arduous process,
+    by design. To satisfy this traditionally bureaucratic behemoth,
+    extensive amounts of very specific documentation must be furnished
+    as evidence that the requirements of the standard were strictly
+    adhered to. The scope and purpose of this evidence vastly exceeds
+    that of the documentation done in a typical software development
+    process. To maintain efficiency and flexibility while developing
+    our software, we knew we’d need to lean into automation to grapple
+    with this beast.. Our goals are specific to automotive, but we
+    predicted the resulting tools and processes would be valuable to
+    providing consistency and verifiability to any project. One facet
+    of facilitating this goal that we’ve pursued---and is covered by
+    this talk---is a specification for constraining Markdown document
+    structure and a tool created for validating it.</p>"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  path: conf/cincinnati/2018/videos/just-what-the-doctor-ordered
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: just-what-the-doctor-ordered
+  speakers:
+  - details: ''
+    img_file: devin-smith.jpg
+    name: Devin Smith
+    slug: devin-smith
+    twitter: 
+    website: 
+  title: 'Just What the Doctor Ordered: Automating Away Drudgery Through Document Conformity'
+  year: '2018'
+- abstract: "<p>With an ever-present need to prove value to the organization,
+    I found myself struggling to get the data I needed to put together an
+    argument based on fact, rather than anecdotes. In this session, I’ll take
+    the anecdote of my situation and show how analytics enabled my team to
+    pull forward, get executive buy-in, enable process change and succeed.
+    Over the course of the session, I’ll delve into three primary questions
+    and propose where you’ll find some answers.</p>\n
+
+    <ul>\n
+    <li>What are some of the metrics you might want to find?</li>\n
+    <li>What are your baselines?</li>\n
+    <li>What happens if the data doesn’t tell you what you expected?</li>\n
+    </ul>\n
+
+    <p>What your users are telling you about how they access your content
+    can tell you volumes about roads to improve all aspects of user
+    assistance.</p>"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  path: conf/cincinnati/2018/videos/analytics-can-change-your-world
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: analytics-can-change-your-world
+  speakers:
+  - details: ''
+    img_file: david-payne.jpg
+    name: David Payne
+    slug: david-payne
+    twitter: 
+    website: 
+  title: 'Analytics Can Change Your World!'
+  year: '2018'
