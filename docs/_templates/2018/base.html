@@ -102,6 +102,7 @@
         <div class="uk-container">
         <h2 class="uk-first-column">Sponsors</h2>
             {% include "include/" + year|string  + "/" + shortcode + "-sponsors.html" %}
+            {% include "include/" + year|string  + "/" + shortcode + "-sponsors-media.html" ignore missing %}
             <div class="learn-more">
                 <a class="uk-align-right" href="/conf/{{ shortcode }}/{{ year }}/sponsors/prospectus/">Become a sponsor</a>
             </div>

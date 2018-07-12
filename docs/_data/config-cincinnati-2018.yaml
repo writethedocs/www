@@ -87,3 +87,4 @@ flagticketsonsale: True
 flagspeakersannounced: True
 flaghashike: False
 flaghasboat: False
+flaghassponsors: True
