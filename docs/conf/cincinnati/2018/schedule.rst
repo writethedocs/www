@@ -37,6 +37,17 @@ Each year we organize a wide range of events so that people can come together, c
     {{ date.day_two.summary }}
     </p>
 
+{% if flaghasschedule %}
+
+.. datatemplate::
+   :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
+   :template: include/schedule2018.rst
+   :include_context:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
+
 {% endif %}
 
 {% if date.day_three is defined %}

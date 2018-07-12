@@ -81,8 +81,9 @@ job_fair:
   location: Unconference Room
 
 flaglanding: False
-flagcfp: True
+flagcfp: False
+flaghasschedule: True
 flagticketsonsale: True
-flagspeakersannounced: False
+flagspeakersannounced: True
 flaghashike: False
 flaghasboat: False
