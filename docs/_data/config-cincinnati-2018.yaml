@@ -41,7 +41,7 @@ date: # how do we handle these? human readable would be nice.
   day_one:
     event: Talks
     date: Aug 18
-    summary: Talks on all things documentation. We’ll have a variety of speakers on the stage sharing their experience and knowledge. <a href="/conf/cincinnati/2018/cfp/">Submit a talk today!</a>
+    summary: Talks on all things documentation. We’ll have a variety of speakers on the stage sharing their experience and knowledge.
     icon: conference
     dotw: Saturday
   day_two:
