@@ -33,7 +33,7 @@ date: # how do we handle these? human readable would be nice.
   day_one:
     event: Talks & Workshop
     date: Nov 15
-    summary: The first conference day, with talks with an included workshop and unconference time.
+    summary: The first conference day, including talks, a workshop, and unconference time.
     icon: conference
   day_two:
     event: Talks & Workshop

@@ -30,9 +30,9 @@ useful skills and cleaner teeth.
 Schedule
 --------
 
-- Date & Time: **{{date.day_one.dotw}}, {{date.month}} {{date.day_one.date}},
-  2.30pm-4.30pm**.
-- Location: **{{about.venue}}**.
+- Date & Time: **Thursday, 15th November 2018, 2.30pm-4.30pm**.
+- Location: **Melbourne, Australia**. Find out more:
+  :doc:`/conf/australia/2018/venue`
 
 Prerequisites
 -------------
