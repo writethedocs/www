@@ -1,0 +1,358 @@
+- abstract: "<p>Structured writing has never been more important,
+    or more confusing. We keep trying to do more and more with content
+    and give ourselves less and less time to do it. Structured writing
+    can help keep our rhetoric on track and our processes efficient.
+    But how does it do that and what is the relationship between rhetoric
+    and process?</p>\n
+
+    <p>It is easy to get lost in sea of acronyms and buzzwords: semantics,
+    XML, metadata, DITA, structure, DocBook, hypertext, Markdown, topics,
+    XSLT, reuse, LaTeX, silos, HTML. This talk cuts through the noise,
+    explaining what structured writing is (you have been doing it all
+    along) and how different structures are used to achieve different
+    purposes.</p>\n
+
+    <p>Most canned structured writing systems are all about process and
+    can actively get in the way of good rhetoric. Deliberately avoiding
+    the discussion of any particular structured writing system, this talk
+    focuses on showing how structured writing can be used to improve
+    rhetoric and how a focus on rhetoric can enhance process as well.
+    It shows how the right structured writing techniques can improve the
+    quality of your content and make your content process more efficient
+    at the same time, without having to sacrifice quality for efficiency
+    or vice versa.</p>"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  path: conf/cincinnati/2018/videos/structured-writing
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: structured-writing
+  speakers:
+  - details: ''
+    img_file: mark-baker.jpg
+    name: Mark Baker
+    slug: mark-baker
+    twitter: mbakeranalecta
+    website: http://analecta.com/
+  title: 'Structured Writing: How Rhetoric Supports Process'
+  year: '2018'
+- abstract: "<p>Who cares about content? Everyone who touches an open
+    source project! The community can’t contribute to a project they
+    don’t understand. But writing documentation isn’t enough: you need
+    a content strategy that defines how the content will be structured,
+    written, tested, and updated along the way as contributions come in.
+    If there is no proper process in place, you are going to be in one
+    hot mess.</p>\n
+
+    <p>In this session, attendees will learn:</p>\n
+    <ul>\n
+      <li>What’s in store for open source technical documentation</li>\n
+      <li>The people and technology needed to help you create open
+        source documentation</li>\n
+      <li>What matters most: quantity over quality or quality over
+        quantity?</li>\n
+      <li>What it takes to have open source documentation that drives
+        customer satisfaction</li>\n
+      <li>Making the process work for your organization with every
+        contribution</li>\n
+    </ul>\n"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  path: conf/cincinnati/2018/videos/content-strategy-for-open-source-projects
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: content-strategy-for-open-source-projects
+  speakers:
+  - details: ''
+    img_file: shavindri-dissanayake.jpg
+    name: Shavindri Dissanayake
+    slug: shavindri-dissanayake
+    twitter: ''
+    website: https://medium.com/@shavindridissanayake
+  title: Content Strategy for Open Source Projects
+  year: '2018'
+- abstract: "<p>This talk will best practices on how create documentation
+    that can be within reach to individuals who might not have ever thought
+    they would be writing code before. This talk will be framed around why
+    accessible documentation needs to be a part of the conversation around
+    diversity and inclusion.</p>\n
+
+    <p>We’ll get started by defining what accessible documentation looks like.
+    We’ll also cover what common pitfalls exist and how to prevent falling
+    into these traps such as talking in jargon and assuming a base of
+    experience that isn’t defined.  We’ll also discuss about code examples
+    in documentation and what context is needed to ensure that these are
+    reachable to wide audience.. This talk will conclude with a checklist
+    of what makes documentation accessible to wide audience.</p>\n"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  path: conf/cincinnati/2018/videos/how-to-ensure-your-documentation-is-accessible-for-new-programmers
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: how-to-ensure-your-documentation-is-accessible-for-new-programmers
+  speakers:
+  - details: ''
+    img_file: jessica-garson.jpg
+    name: Jessica Garson
+    slug: jessica-garson
+    twitter: jessicagarson
+    website: http://jessicagarson.com
+  title: How to ensure your documentation is accessible for new programmers
+  year: '2018'
+- abstract: "<p>When we choose to manage docs like code, we gain a variety
+    of options for where to store the “source” files of those docs, and how
+    they interact with the code they document. The question then becomes, how
+    do we choose among these options? Do we store docs in the code, near the
+    code, or in a separate location altogether? What are the implications of
+    these choices, for the docs themselves and for the people who maintain
+    them?</p>\n
+
+    <p>Open source projects provide a great source for guidance on these questions,
+    because their docs, their code, and the evolution of the processes used to
+    create both are open for public viewing. As a documentarian working on a
+    number of open source projects, as well as providing site deployment support
+    to even more, I’ve seen and tried a variety of strategies, and learned from
+    both successes and failures.</p>\n
+
+    <p>I’ll cover the benefits and challenges of different approaches, give
+    examples of specific projects using each approach, and detail the docs
+    evolution of a single open source project, Netlify CMS, as we moved
+    through different strategies to meet changing needs and unexpected
+    challenges. You’ll leave with guidelines for choosing the best “path”
+    for your current and future docs-as-code projects, along with exemplars
+    to consult for guidance when you make your choice.</p>"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  path: conf/cincinnati/2018/videos/finding-a-home-for-docs
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: finding-a-home-for-docs
+  speakers:
+  - details: ''
+    img_file: jessica-parsons.jpg
+    name: Jessica Parsons
+    slug: jessica-parsons
+    twitter: verythorough
+    website: https://www.verythorough.com
+  title: Finding a Home for Docs
+  year: '2018'
+- abstract: "<p>We have never written documentation for just one audience,
+    and we have never been able to count on our product name staying the
+    same. Back when we were in Kansas, we had powerful writing IDEs to
+    manage these problems. But now that we're in Oz, docs are code and
+    code is documentation, and it all seems very different. Follow along
+    with me as we explore some use cases and lesser-used code tools to
+    deliver our users exactly the documentation they need, no more and
+    no less. That's a horse of a different color!</p>\n
+
+    <p>This talk will briefly touch on toolchains and workflows that peaked
+    when we were still delivering help with software, and extrapolate how
+    we can use modern code practices and deployment styles to replicate
+    the best parts. These will include universal variables, tying
+    documentation delivery to the version of the product provided, and
+    allowing users to select what they want help with.</p>"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  path: conf/cincinnati/2018/videos/the-man-behind-the-curtains
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: the-man-behind-the-curtains
+  speakers:
+  - details: ''
+    img_file: heidi-waterhouse-2.jpg
+    name: Heidi Waterhouse
+    slug: heidi-aterhouse
+    twitter: wiredferret
+    website: http://heidiwaterhouse.com
+  title: 'The Man Behind the Curtain: White Labeling, Automated Generation, and Customized Documentation'
+  year: '2018'
+- abstract: "<p>Free and Open Source projects are notorious for
+    incomplete and poorly written documentation.</p>\n
+
+    <p><a href=\"http://opensourcesurvey.org/2017/\">GitHub's
+    2017 Open Source Survey</a> found that \"documentation is
+    highly valued, but often overlooked\" with 93% of respondents
+    agreeing that \"incomplete or outdated documentation is a
+    pervasive problem.\"</p>\n
+
+    <p>In attempt to solve that problem, many free and open source
+    software projects try to make doc writing easier, quicker, and
+    less formal — using wikis, lightweight site generators, and
+    Markdown. Some people claim that this enables \"non coders\"
+    (that is, people who aren't familiar with command lines and
+    version control systems) to contribute.</p>\n
+
+    <p>This is a mistake.</p>\n
+
+    <p>Any project larger than a small utility library needs <i>real</i>
+    documentation tools. \"Quick\" and \"easy\" tools like wikis and
+    Jekyll blogs contribute to documentation debt as organizing,
+    editing, and adding content slowly become more onerous and
+    disconnected from the developer experience.</p>\n
+
+    <p>The solution is <i>Docs like Code</i> — treating your documentation
+    like a first class product, an engineering product. By not ignoring
+    the lessons we've learned about how communities write, test, and
+    deploy code together, we can get better at writing, testing, and
+    deploying documentation together.</p>\n
+
+    <p>Additionally, far from scaring off \"non-coders\", this approach
+    encourages potential contributors to learn basic open source
+    contribution skills in a less complicated, easier to understand
+    context. Since documentation isn't actually code, a Docs as Code
+    process provides a relatively low barrier for people to learn and
+    practice all the non-coding skills needed for open source
+    participation.</p>\n
+
+    <p>Highlighting the documentation process at
+    <a href=\"http://docs.opendatakit.org\">Open Data Kit</a>, and
+    featuring ideas from several other open source documentation
+    projects, this talk will explore how using the common tools,
+    processes, and platforms of modern open source development —
+    git, GitHub, automated testing, continuous integration —
+    fosters the production of high quality documentation and
+    empowers new open source contributors.</p>"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  path: conf/cincinnati/2018/videos/open-source-docops
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: open-source-docops
+  speakers:
+  - details: ''
+    img_file: adam-michael-wood.jpg
+    name: Adam Michael Wood
+    slug: adam-michael-wood
+    twitter: 
+    website: http://hackwrite.com
+  title: Open Source DocOps
+  year: '2018'
+- abstract: "<p>In May 2018, the Kubernetes special interest group
+    for documentation (SIG Docs) migrated the Kubernetes website's
+    static site generator from Jekyll to Hugo. Three of SIG Docs'
+    fifteen core maintainers made a proposal that affected
+    thousands of contributors to the Kubernetes project.</p>\n
+
+    <p>Starting from an initial conversation in late February,
+    2018, the core group of SIG Docs maintainers debated if
+    migrating was the right move, came to consensus, created
+    a doc assessment for the site, communicated the impact of
+    the migration to other Kubernetes stakeholders, migrated
+    the site to its new infrastructure, and did post-migration
+    cleanup. From proposal to execution, the process took
+    three months.</p>\n
+
+    <p>The focus of this talk is on effective decision making
+    in large scale, open source projects. We’ll discuss:</p>\n
+    <ul>\n
+    <li>Why SIG Docs decided to migrate the site's infrastructure</li>\n
+    <li>How we propose and discuss large-scale projects</li>\n
+    <li>How we communicate as a team</li>\n
+    <li>How we get to consensus as a group, and what consensus means to us</li>\n
+    <li>How we informed the larger organization</li>\n
+    <li>How we decided when to migrate</li>\n
+    <li>How we communicated what we did</li>\n
+    <li>What the migration experience was like</li>\n
+    <li>What went well, and what we wish had gone better</li>\n
+    <li>Where we're headed next</li>\n
+    </ul>\n
+
+    <p>Along the way, we'll discuss some technical specifics of
+    Jekyll and Hugo. We'll also talk about how to get things done
+    when mistakes carry seven-figure price tags.</p>\n
+
+    <p>Kubernetes is an open-source software project for orchestrating
+    container deployment. For more information, visit
+    https://kubernetes.io (which we are pleased to say loads now more
+    quickly and reliably).</p>"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  path: conf/cincinnati/2018/videos/big-decisions-with-open-source-docs
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: big-decisions-with-open-source-docs
+  speakers:
+  - details: ''
+    img_file: zach-corleissen.jpg
+    name: Zach Corleissen
+    slug: zach-corleissen
+    twitter: zachorsarah
+    website: 
+  - details: ''
+    img_file: jared-bhatti.jpg
+    name: Jared Bhatti
+    slug: jared-bhatti
+    twitter: jaredbhatti
+    website: 
+  title: 'Big decisions with open source docs: a Kubernetes case study'
+  year: '2018'
+- abstract: "<p>As an engineer dedicated to improving the safety of
+    autonomous vehicles, I am beholden to the automotive industry’s
+    standard used for certifying functional safety for EE systems —
+    ISO 26262. The purpose of this standard is to minimize the risk
+    of harm by enforcing a structured, rigorous product development
+    process. This means that before a component can be integrated
+    into a vehicle, it must be certified as compliant with the
+    aforementioned standard.</p>\n
+
+    <p>Complying with ISO 26262 is a meticulous and arduous process,
+    by design. To satisfy this traditionally bureaucratic behemoth,
+    extensive amounts of very specific documentation must be furnished
+    as evidence that the requirements of the standard were strictly
+    adhered to. The scope and purpose of this evidence vastly exceeds
+    that of the documentation done in a typical software development
+    process. To maintain efficiency and flexibility while developing
+    our software, we knew we’d need to lean into automation to grapple
+    with this beast.. Our goals are specific to automotive, but we
+    predicted the resulting tools and processes would be valuable to
+    providing consistency and verifiability to any project. One facet
+    of facilitating this goal that we’ve pursued---and is covered by
+    this talk---is a specification for constraining Markdown document
+    structure and a tool created for validating it.</p>"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  path: conf/cincinnati/2018/videos/just-what-the-doctor-ordered
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: just-what-the-doctor-ordered
+  speakers:
+  - details: ''
+    img_file: devin-smith.jpg
+    name: Devin Smith
+    slug: devin-smith
+    twitter: 
+    website: 
+  title: 'Just What the Doctor Ordered: Automating Away Drudgery Through Document Conformity'
+  year: '2018'
+- abstract: "<p>With an ever-present need to prove value to the organization,
+    I found myself struggling to get the data I needed to put together an
+    argument based on fact, rather than anecdotes. In this session, I’ll take
+    the anecdote of my situation and show how analytics enabled my team to
+    pull forward, get executive buy-in, enable process change and succeed.
+    Over the course of the session, I’ll delve into three primary questions
+    and propose where you’ll find some answers.</p>\n
+
+    <ul>\n
+    <li>What are some of the metrics you might want to find?</li>\n
+    <li>What are your baselines?</li>\n
+    <li>What happens if the data doesn’t tell you what you expected?</li>\n
+    </ul>\n
+
+    <p>What your users are telling you about how they access your content
+    can tell you volumes about roads to improve all aspects of user
+    assistance.</p>"
+  details: ''
+  event: Write the Docs Cincinnati 2018
+  path: conf/cincinnati/2018/videos/analytics-can-change-your-world
+  series: Write the Docs Cincinnati
+  series_slug: cincinnati
+  slug: analytics-can-change-your-world
+  speakers:
+  - details: ''
+    img_file: missing.jpg
+    name: David Payne
+    slug: david-payne
+    twitter: 
+    website: 
+  title: 'Analytics Can Change Your World!'
+  year: '2018'
