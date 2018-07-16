@@ -10,7 +10,7 @@ Hello everyone!
 
 We're excited to announce that we've finalized our list of speakers for the Cincinnati event! Thank you to everyone who took the time to send us a proposal – we are grateful for your interest and could not have an event without you.
 
-We also have some info about ticket purchasing (now's the time!), trip planning, and sponsorship (<http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_?). Read on for details!
+We also have some info about ticket purchasing (now's the time!), trip planning, and `sponsorship http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_). Read on for details!
 
 Speakers and talks
 ------------------
@@ -37,7 +37,7 @@ Planning your trip
 
 In the next few weeks, we’ll be announcing more details about the conference events, including the full schedule and social event on Saturday evening.
 
-In the meantime, check out the `Visit Cincinnati <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`_ page on the conference website for information about transportation, where to stay, and where to eat. You can also pop into the `#cincinnati <https://writethedocs.slack.com/messages/cincinnati>`_ channel on Slack to ask questions! 
+In the meantime, check out the `Visit Cincinnati <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`_ page on the conference website for information about transportation, where to stay, and where to eat. You can also pop into the `#cincinnati <https://writethedocs.slack.com/messages/cincinnati>`_ channel on Slack to ask questions!
 
 Thanks to our sponsor
 ---------------------
