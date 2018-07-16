@@ -61,7 +61,7 @@
   path: conf/cincinnati/2018/videos/content-strategy-for-open-source-projects
   series: Write the Docs Cincinnati
   series_slug: cincinnati
-  slug: content-strategy-for-open-source-projects
+  slug: documentation-strategy-for-open-source-projects
   speakers:
   - details: ''
     img_file: shavindri-dissanayake.jpg
@@ -69,21 +69,21 @@
     slug: shavindri-dissanayake
     twitter: ''
     website: https://medium.com/@shavindridissanayake
-  title: Content Strategy for Open Source Projects
+  title: Documentation Strategy for Open Source Projects
   year: '2018'
-- abstract: "<p>This talk will best practices on how create documentation
-    that can be within reach to individuals who might not have ever thought
-    they would be writing code before. This talk will be framed around why
-    accessible documentation needs to be a part of the conversation around
-    diversity and inclusion.</p>\n
+- abstract: "<p>This talk will cover best practices on how to create 
+    documentation that can be within reach to individuals who might not 
+    have ever thought they would be writing code before and why accessible 
+    documentation needs to be a part of the conversation around diversity 
+    and inclusion.</p>\n
 
-    <p>We’ll get started by defining what accessible documentation looks like.
-    We’ll also cover what common pitfalls exist and how to prevent falling
-    into these traps such as talking in jargon and assuming a base of
-    experience that isn’t defined.  We’ll also discuss about code examples
-    in documentation and what context is needed to ensure that these are
-    reachable to wide audience.. This talk will conclude with a checklist
-    of what makes documentation accessible to wide audience.</p>\n"
+    <p>We’ll get started by defining what accessible documentation looks like. 
+    We’ll also cover what common pitfalls exist and how to prevent falling 
+    into these traps such as talking in jargon and assuming a base of experience 
+    that isn’t defined.  We will also dig into code examples in documentation 
+    and discuss what context is needed to ensure that these are reachable to all. 
+    This talk will conclude with a checklist of what you need to make your 
+    documentation accessible to all.</p>\n"
   details: ''
   event: Write the Docs Cincinnati 2018
   path: conf/cincinnati/2018/videos/how-to-ensure-your-documentation-is-accessible-for-new-programmers
