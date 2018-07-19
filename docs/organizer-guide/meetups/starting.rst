@@ -123,13 +123,14 @@ After you publish your meetup page, promote it! Here's a few suggestions to get 
 * Attend other meetups. Tell them about Write the Docs.
 * Add your meetup to local tech event calendars.
 * Some communities look for meetups on Eventbrite.
-* Some communities look for meetups on Linkedin
+* Some communities look for meetups on Linkedin.
 * Use social media. Several Write the Docs meetups publicize through Twitter (`example <https://twitter.com/WriteTheDocsPDX/>`_).
 * Help your fellow Meetup leaders. Retweet their announcements.
 * Announce your meetup on `Write the Docs Slack <https://writethedocs.slack.com>`_.
 * Use the Meetup email list with your members.
 * Blog about upcoming (and recent) meetups.
 
+Figure out your approximate ratio between RSVP / attendees. This might be around 50%.
 
 
 Speakers:
@@ -170,6 +171,11 @@ The following are examples of topics that have worked well for other meetups:
 * Howto Markdown (multiple methods)
 * Best practices
 * Pub socials
+* Communication probs with R&D
+* Visual docs
+* Info architecture
+* Language and cultural differences
+* Docs as code
 
 If You Can't Find a Local Speaker
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
