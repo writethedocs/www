@@ -29,7 +29,7 @@ Basic vs. Unlimited meetup subscriptions
 
 A Basic subscription allows your group a maximum of 50 members and 4 organizers, while Unlimited subscription has no limits for members and organizers. If you anticipate less than 50 members for your meetup group, a Basic subscription may be suitable. If you anticipate over 50 members, an Unlimited subscription may be a better option.
 
-Some Write the Docs meetup groups have started with the Basic subscription plan and have grown quickly. When the meetup exceeds over 50 members, Meetup prompts the organizer to upgrade to the Unlimited plan. If you upgrade right away, you will not be charged at the Unlimited rate until your subscription renewal date. 
+Some Write the Docs meetup groups have started with the Basic subscription plan and have grown quickly. When the meetup exceeds over 50 members, Meetup prompts the organizer to upgrade to the Unlimited plan. If you upgrade right away, you will not be charged at the Unlimited rate until your subscription renewal date.
 
 Can a company sponsor a local meetup?
 -------------------------------------
@@ -65,7 +65,9 @@ Different members of your leadership team can:
 * Set up meetup locations
 * Handle meetup logistics, as described in `Starting a Meetup <../organizer-guide/meetups/starting>`_
 
-If you need to put out a call for help, here's a `generic letter <../generic_meetup_help_letter>`_ that you can use.
+If you need to put out a call for help, here's a generic letter that you can use.
+
+.. literalinclude:: /include/meetups/generic_meetup_help_letter.md
 
 If you have a Twitter account for your meetup, you can share access through `TweetDeck <https://tweetdeck.twitter.com/>`_.
 

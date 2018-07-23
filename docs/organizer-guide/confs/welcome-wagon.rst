@@ -12,7 +12,7 @@ The Welcome Wagon (WW) is an initiative to help make first-time attendees feel, 
 
 The Welcome Wagon includes published pre-conference tips and tricks that attendees can read to prepare, as well as on-site orientation and activities that introduce attendees to the venue, city, and each other. You can see an example here: http://www.writethedocs.org/conf/na/2017/welcome-wagon/
 
-This document outlines the key elements of the WW and aims to help volunteers run it smoothly and effectively. 
+This document outlines the key elements of the WW and aims to help volunteers run it smoothly and effectively.
 
 Who Runs the Welcome Wagon?
 ---------------------------
@@ -48,7 +48,7 @@ These are the Welcome Wagon events that you will coordinate and run at the Write
    * When: The second morning of the conference, about 30 minutes before the first speech.
 
 What do I need to do before the conference?
----------------------
+-------------------------------------------
 
 * Get access to the WTD Trello board, and add cards to track WW tasks.
 * Decide the time and place for all WW events.
@@ -65,7 +65,7 @@ What do I need to do before the conference?
 
 
 What do I need to do during the conference?
----------------------
+-------------------------------------------
 
 Meet and Greet
 ~~~~~~~~~~~~~~
@@ -79,20 +79,20 @@ Meet and Greet
 *	At the Opening Reception, Welcome Wagon volunteers, if they are comfortable with it, can approach attendees who are alone to help make them feel involved at the event. A great icebreaker is, “Is this your first conference?” Even if it isn’t, it is a good way to get a conversation started. If the attendee seems comfortable not talking or being alone at the event, by all means, let them be.
 
 Conference venue tour
-~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
 
 *	Wait at the meeting place for a group to collect.
 *	Give a quick tour of the conference venue and a short review of conference events.
 *	Take any questions.
 
 Welcome Wagon Unconference
-~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *	Schedule an unconference for the first session available on the first day.
 *	Review information from the Meet and Greet and answer any questions.
 
 Welome Wagon recap
-~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 *	Wait in the place you scheduled for the recap.
 *	Ask first-time attendees how their first day went. See if they have any new questions for their second day.

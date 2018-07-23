@@ -1,4 +1,4 @@
-# Generic letter asking for help with Meetup 
+# Generic letter asking for help with Meetup
 
 **Subject:** Help with WriteTheDocs
 
@@ -6,7 +6,7 @@ Greetings!
 
 We'd like invite you to join us more actively this coming year!
 
-By helping out, you'll: 
+By helping out, you'll:
 * learn more about the [Write the Docs](http://www.writethedocs.org/) organization
 * have the opportunity to get more involved in the larger US and international WriteTheDocs community
 * network with other like-minded professionals
@@ -24,6 +24,4 @@ Helping out is a great opportunity for everyone. If you're new to the field, it'
 
 Getting a fresh perspective will help us continue building on an already great group. If you're interested, let us know.
 
-
 Hope to see you soon!
-

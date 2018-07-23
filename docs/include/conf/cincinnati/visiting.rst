@@ -3,15 +3,15 @@ Visiting Cincinnati
 
 Wondering where to stay and how to get around once you get into Cincinnati? We hope this mini-guide is helpful!
 
-The conference will be held at `Union Hall <http://unionhallcincy.com>`_ in the heart of Cincinnati's historic `Over-the-Rhine <https://en.wikipedia.org/wiki/Over-the-Rhine>`_ neighborhood.
+The conference will be held at `Union Hall <http://unionhallcincy.com>`__ in the heart of Cincinnati's historic `Over-the-Rhine <https://en.wikipedia.org/wiki/Over-the-Rhine>`__ neighborhood.
 
 Eating
 ------
 
 Snacks and drinks are provided throughout the conference. For meals during the conference, connect with new friends and explore one of Cincinnati's most diverse neighborhoods. Here are some resources that will help you find something good to eat:
 
-- The `Over-the-Rhine Chamber of Commerce <http://business.otrchamber.com/list/ql/restaurants-food-beverages-22?_ga=2.247727175.1927584494.1524751496-300914214.1524751496>`_ lists a number of restaurants and bars in the neighborhood
-- `Open Table <https://www.opentable.com/n/cincinnati/over-the-rhine-restaurants>`_ also lists great restaurants in Over-the-Rhine
+- The `Over-the-Rhine Chamber of Commerce <http://business.otrchamber.com/list/ql/restaurants-food-beverages-22?_ga=2.247727175.1927584494.1524751496-300914214.1524751496>`__ lists a number of restaurants and bars in the neighborhood
+- `Open Table <https://www.opentable.com/n/cincinnati/over-the-rhine-restaurants>`__ also lists great restaurants in Over-the-Rhine
 
 Where to stay
 -------------
@@ -35,7 +35,7 @@ Cincinnati is a small, walkable city with public transportation options availabl
 Streetcars and Buses
 ~~~~~~~~~~~~~~~~~~~~
 
-Cincinnati has a `streetcar <http://www.cincinnatibellconnector.com>`_ that makes a loop from `Findlay Market <http://findlaymarket.org>`_ (northern Over-the-Rhine) to the `Great American Ball Park <https://www.mlb.com/reds/ballpark>`_ (downtown, on the Ohio River). You can also use Cincinnati's `bus network <http://www.go-metro.com/index.php>`_, which also connects to routes in northern Kentucky, just across the Ohio River.
+Cincinnati has a `streetcar <http://www.cincinnatibellconnector.com>`_ that makes a loop from `Findlay Market <http://findlaymarket.org>`__ (northern Over-the-Rhine) to the `Great American Ball Park <https://www.mlb.com/reds/ballpark>`_ (downtown, on the Ohio River). You can also use Cincinnati's `bus network <http://www.go-metro.com/index.php>`_, which also connects to routes in northern Kentucky, just across the Ohio River.
 
 The closest stops to the conference venue (Union Hall) are:
 
