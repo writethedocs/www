@@ -22,5 +22,6 @@ You can get your tour ticket here: https://ti.to/writethedocs/write-the-docs-cin
 - Date & Time: Leaves shortly after the end of the unconference on Sunday, August 19.
 - Duration: The tour takes between 90 minutes and 2 hours.
 - Start & End: Our private underground tour starts and ends at our venue, Union Hall.
+- The tour happens rain or shine. It will only be canceled for severe weather. If it looks gloomy, dress appropriately.
 - This is a private tour for Write the Docs attendees. However, if you are traveling with a guest, they are welcome to join. Just make sure to buy an extra ticket.
 
