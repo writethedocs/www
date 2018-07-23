@@ -11,6 +11,10 @@
                                           <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/speakers') }}">Talks</a></li>
                                           <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/unconference') }}">Unconference</a></li>
                                           <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/sprints') }}">Sprints</a></li>
+                                          {% if flaghastour %}
+                                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/underground') }}">Underground Tour</a></li>
+                                          {% endif %}
+
                                         </ul>
                                   </div>
                               </li>
