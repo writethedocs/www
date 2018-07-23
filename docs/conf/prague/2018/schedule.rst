@@ -91,10 +91,10 @@ Conference Talks
 * **When**: **10:00-18:00**
 * **Details**: TBA
 
-..
-    .. datatemplate::
-       :source: /_data/na-2018-day-1.yaml
-       :template: include/schedule2018.rst
+
+.. datatemplate::
+   :source: /_data/eu-2018-day-1.yaml
+   :template: include/schedule2018.rst
 
 Unconference
 ~~~~~~~~~~~~
@@ -135,10 +135,9 @@ Conference Talks
 * **When**: **10:00-17:00**
 * **Details**: TBA
 
-..
-    .. datatemplate::
-       :source: /_data/na-2018-day-1.yaml
-       :template: include/schedule2018.rst
+.. datatemplate::
+   :source: /_data/eu-2018-day-2.yaml
+   :template: include/schedule2018.rst
 
 Job Fair
 ~~~~~~~~

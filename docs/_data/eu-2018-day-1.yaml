@@ -1,0 +1,75 @@
+- Duration: '60'
+  Session: Doors Open, Breakfast Served
+  Time: '9:00'
+- Duration: '30'
+  Session: Introduction to Write the Docs
+  Time: '10:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '10:30'
+- Duration: '30'
+  Session: Don't Say Simply - Jim Fisher
+  Time: '10:40'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '11:10'
+- Duration: '30'
+  Session: How to tear down existing documentation and rewrite docs that actually
+    work - Alexandra White
+  Time: '11:20'
+- Duration: '20'
+  Session: Snack break
+  Time: '11:50'
+- Duration: '30'
+  Session: A11y-Friendly Documentation - Carolyn Stransky
+  Time: '12:10'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '12:40'
+- Duration: '30'
+  Session: 'Teaching geeks to fish: tales of a contagious documentarian. - Abigail
+    Sutherland'
+  Time: '12:50'
+- Duration: '60'
+  Session: Lunch
+  Time: '13:20'
+- Duration: '30'
+  Session: Lightning Talks
+  Time: '14:20'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '14:50'
+- Duration: '30'
+  Session: Measuring the impact of your documentation - Liam Keegan
+  Time: '15:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '15:30'
+- Duration: '30'
+  Session: Run your documentation - Predrag Mandic
+  Time: '15:40'
+- Duration: '20'
+  Session: Snack break
+  Time: '16:10'
+- Duration: '30'
+  Session: So you want to make videos? - Sarah Ley-Hamilton
+  Time: '16:30'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '17:00'
+- Duration: '30'
+  Session: What about compliance? - Vlad Stirbu
+  Time: '17:10'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '17:40'
+- Duration: '30'
+  Session: '"It''s a Feature" - Documenting Known Issues and Product Shortcomings
+    - Ivana Devcic'
+  Time: '17:50'
+- Duration: '10'
+  Session: Group Photo
+  Time: '18:20'
+- Duration: null
+  Session: Day 1 wraps up
+  Time: '18:30'
