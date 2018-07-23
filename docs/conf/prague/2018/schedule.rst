@@ -92,9 +92,16 @@ Conference Talks
 * **Details**: TBA
 
 
+{% if flaghasschedule %}
+
 .. datatemplate::
-   :source: /_data/eu-2018-day-1.yaml
+   :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
    :template: include/schedule2018.rst
+   :include_context:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
 
 Unconference
 ~~~~~~~~~~~~
@@ -135,9 +142,16 @@ Conference Talks
 * **When**: **10:00-17:00**
 * **Details**: TBA
 
+{% if flaghasschedule %}
+
 .. datatemplate::
-   :source: /_data/eu-2018-day-2.yaml
+   :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
    :template: include/schedule2018.rst
+   :include_context:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
 
 Job Fair
 ~~~~~~~~

@@ -10,18 +10,21 @@
 - Duration: '30'
   Session: Don't Say Simply - Jim Fisher
   Time: '10:40'
+  Slug: jim-fisher
 - Duration: '10'
   Session: Switch Speakers
   Time: '11:10'
 - Duration: '30'
   Session: How to tear down existing documentation and rewrite docs that actually
     work - Alexandra White
+  Slug: alexandra-white
   Time: '11:20'
 - Duration: '20'
   Session: Snack break
   Time: '11:50'
 - Duration: '30'
   Session: A11y-Friendly Documentation - Carolyn Stransky
+  Slug: carolyn-stransky
   Time: '12:10'
 - Duration: '10'
   Session: Switch Speakers
@@ -29,6 +32,7 @@
 - Duration: '30'
   Session: 'Teaching geeks to fish: tales of a contagious documentarian. - Abigail
     Sutherland'
+  Slug: abigail-sutherland
   Time: '12:50'
 - Duration: '60'
   Session: Lunch
@@ -42,23 +46,27 @@
 - Duration: '30'
   Session: Measuring the impact of your documentation - Liam Keegan
   Time: '15:00'
+  Slug: liam-keegan
 - Duration: '10'
   Session: Switch Speakers
   Time: '15:30'
 - Duration: '30'
   Session: Run your documentation - Predrag Mandic
   Time: '15:40'
+  Slug: predrag-mandic
 - Duration: '20'
   Session: Snack break
   Time: '16:10'
 - Duration: '30'
   Session: So you want to make videos? - Sarah Ley-Hamilton
+  Slug: sarah-ley-hamilton
   Time: '16:30'
 - Duration: '10'
   Session: Switch Speakers
   Time: '17:00'
 - Duration: '30'
   Session: What about compliance? - Vlad Stirbu
+  Slug: vlad-stirbu
   Time: '17:10'
 - Duration: '10'
   Session: Switch Speakers
@@ -66,6 +74,7 @@
 - Duration: '30'
   Session: '"It''s a Feature" - Documenting Known Issues and Product Shortcomings
     - Ivana Devcic'
+  Slug: ivana-devcic
   Time: '17:50'
 - Duration: '10'
   Session: Group Photo
