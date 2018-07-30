@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: July 27, 2018
+.. post:: July 30, 2018
    :tags: cincinnati-2018, volunteers, tickets, underground tour
 
 Announcing Call for Volunteers
