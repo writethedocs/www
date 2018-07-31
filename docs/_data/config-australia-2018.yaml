@@ -63,7 +63,7 @@ cfp:
 
 flaglanding: False
 flagspeakersannounced: False
-flagcfp: True
+flagcfp: False
 flaghassponsors: True
 
 flagticketsonsale: True
