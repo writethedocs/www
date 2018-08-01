@@ -40,9 +40,9 @@ New to Prague or to Write the Docs?
 
 Every year we are thrilled to welcome new documentarians into our community. This is your friendly reminder that we have resources on our website and on Slack to help you prepare for your first trip to Prague, first time at our conference, or both!
 
-- **`Visiting Prague <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`_** Information on transport, where to stay, where to eat, etc. You can also pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack to ask questions!
+- `Visiting Prague <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`_. Information on transport, where to stay, where to eat, etc. You can also pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack to ask questions!
 
-- **`Welcome Wagon <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/welcome-wagon/>`_.** If this is your first time attending the conference – or even if it's not – our Welcome Wagon is here to help you navigate the conference, the community, and answer questions. They'll also be hanging out in `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ and on site during the event to help out you get the most out of the experience.
+- `Welcome Wagon <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/welcome-wagon/>`_. If this is your first time attending the conference – or even if it's not – our Welcome Wagon is here to help you navigate the conference, the community, and answer questions. They'll also be hanging out in `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ and on site during the event to help out you get the most out of the experience.
 
 Conference shirts are still on sale
 -----------------------------------
