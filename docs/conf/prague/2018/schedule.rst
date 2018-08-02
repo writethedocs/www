@@ -146,7 +146,7 @@ Job Fair
 New in 2018! We'll be holding a job fair on Tuesday morning!
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **9:00-12:00**
+* **When**: **10:30-12:10**
 * **Details**: TBA
 
 Unconference
