@@ -11,7 +11,7 @@ tz: CEST
 email: prague@writethedocs.org
 
 photos:
-  default: _static/2018/assets/images/backgrounds/prague-group.jpg
+  default: _static/2018/assets/headers/prague-group.png
 
 tickets:
   community:
