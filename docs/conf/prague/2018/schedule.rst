@@ -140,6 +140,8 @@ Conference Talks
        :source: /_data/na-2018-day-1.yaml
        :template: include/schedule2018.rst
 
+.. _{{shortcode}}-{{year}}-job-fair:
+
 Job Fair
 ~~~~~~~~
 
