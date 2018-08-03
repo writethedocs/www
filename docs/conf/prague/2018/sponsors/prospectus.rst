@@ -186,7 +186,7 @@ It is included in all sponsorship packages this year.
 
 - **Logistics**: The Job Fair will be Tuesday morning in {{job_fair.location}}. You can see the timing details on the :ref:`schedule <{{shortcode}}-{{year}}-job-fair>`.
 
-- **Layout**: Every participant will have a table and two chairs reserved for them. We do not use booths during the Job Fair. Giveaways/flyers are welcome, please make sure everthing fits on your alloted table.
+- **Layout**: Every participant will have a table and two chairs reserved for them. We do not use booths during the Job Fair. Giveaways/flyers are welcome, please make sure everything fits on your table.
 
 Note that the `Code of Conduct </code-of-conduct/>`_ and :ref:`coc-sponsors` apply to the Job Fair as well as to the rest of the conference.
 

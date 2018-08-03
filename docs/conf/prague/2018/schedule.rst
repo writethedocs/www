@@ -148,7 +148,7 @@ New in 2018! We'll be holding a job fair on Tuesday morning!
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
 * **When**: **10:30-12:10**
-* **Details**: TBA
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
 
 Unconference
 ~~~~~~~~~~~~

@@ -81,7 +81,7 @@ about:
   mainroom:
     Main Ballroom
   unconfroom:
-    Unconference Room
+    Unconference Room, across from the Main Ballroom
 
 cfp:
   url: https://goo.gl/forms/M6YjhBgmCEwOwrzP2
@@ -89,7 +89,7 @@ cfp:
   notification: Friday, June 15th
 
 job_fair:
-  location: Unconference Room
+  location: Unconference Room, across from the Main Ballroom
 
 flaghassponsors: True
 flagcfp: False
