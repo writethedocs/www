@@ -89,7 +89,7 @@ and open source organizations.
 - Small logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- **NOTE**: This sponsorship does not include a job fair table. You can purchase one for an additional {{sponsorship.job_fair.half}} (50% off)
+- **NOTE**: A table at the job fair is now included in this sponsorship
 
 
 
@@ -106,7 +106,7 @@ The **Second Draft** package is great for companies looking to hire or promote a
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 - One featured job posting in our Newsletter (2,500 subscribers)
-- **NOTE**: This sponsorship does not include a job fair table. You can purchase one for an additional {{sponsorship.job_fair.half}} (50% off)
+- **NOTE**: A table at the job fair is now included in this sponsorship
 
 The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
 
@@ -182,11 +182,11 @@ Our job fair is a wonderful place to connect with the talented Write the Docs at
 We'll have over {{about.attendees}} people in attendance for our conference,
 and many of those people will come to our job fair to look for new roles and positions.
 
-**{{sponsorship.job_fair.price}}** (a la carte price, also included or discounted with other sponsorship packages)
+It is included in all sponsorship packages this year.
 
-- **Logistics**: The Job Fair will be Tuesday morning in {{job_fair.location}}. It will run from 9am-11:30pm. You can set up from 8am.
+- **Logistics**: The Job Fair will be Tuesday morning in {{job_fair.location}}. You can see the timing details on the :ref:`schedule <{{shortcode}}-{{year}}-job-fair>`.
 
-- **Layout**: Every participant will have a six-foot table and two chairs reserved for them. We do not use booths during the Job Fair. You are welcome to have a standing banner or customized tablecloth. Giveaways/flyers are welcome, please make sure everthing fits on your alloted table.
+- **Layout**: Every participant will have a table and two chairs reserved for them. We do not use booths during the Job Fair. Giveaways/flyers are welcome, please make sure everything fits on your table.
 
 Note that the `Code of Conduct </code-of-conduct/>`_ and :ref:`coc-sponsors` apply to the Job Fair as well as to the rest of the conference.
 
