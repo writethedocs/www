@@ -207,7 +207,7 @@ This is great for any company that is looking for contributors to their open sou
 
 **{{sponsorship.writing_day.price}}**
 
-- **Logistics**: The Writing Day runs 9-5 on Sunday.
+- **Logistics**: The Writing Day runs 10-5 on Sunday.
 
 
 .. raw:: pdf
@@ -230,21 +230,61 @@ of our expenses must be paid up front.
 .. _ticket: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
 .. _tickets: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
 
-Frequently Asked Questions
-==========================
+Run of Show
+===========
+
+A quick overview of the spaces:
+
+* The *Main Ballroom* is where talks and most sponsorship activity happens. 
+* The *Unconference Room* is across from the main ballroom. This is where the Unconference & Job Fair happens.
+
+An overview of the conference schedule:
+
+* The Writing Day is on Sunday, in the main ballroom. You are welcome to run a documentation sprint here if your documentation is open source.
+* The main conference & sponsorship days are on Monday & Tuesday in the main ballroom.
+* The Job Fair happens Tuesday morning.
+
+How do I get the most out of my sponsorship?
+--------------------------------------------
+
+Come prepared to engage with our community, and to learn just as much as you teach. Engage with our event as attendees as well as sponsors. Send technical staff who can chat with people on the interesting things your company is doing, and get value from the vast amount of insight in the room. We do have some decision makers in the room, but soft sells will work better than hard sales in the environment we strive for.
+
+Who is my primary contact?
+--------------------------
+
+Eric Holscher <eric@writethedocs.org> will be your primary contact, but our team is available at <sponsorship@writethedocs.org>. If you have a time sensitive inquiry, please email the entire team to ensure a timely response.
+
+What are the dates that sponsors need to know about in advance?
+------------------------------------------------------------------
+
+* **SUNDAY**: The swag tables are available during the Writing Day, if you want to put out swag items early. 
+
+* **MONDAY**: Doors open at 9am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the conference, when sponsors tables will need to be staffed. The conference will run until around 5pm.
+
+* **TUESDAY**: The Job Fair will be in the morning, setup will start 30 minutes before the job fair is scheduled to start. Sponsor tear down in the main hall will be 4pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening.
+
+How do I use get my free tickets?
+---------------------------------
+
+You should have recieved a unique URL with a discount code for your free sponsorship tickets. We are happy to send it over again, just ask!
+
+What do I need for the job fair?
+--------------------------------
+
+The job fair will be a low key event. Every participant will have a six-foot table and two chairs, in a seperate room from the primary conference. Giveaways/flyers are welcome, but please keep your setup requirements simple.
+
+What happens with my swag items?
+--------------------------------
+
+We will have a few "swag tables" that are placed around the back of the main ballroom. This will be where sponsor and community stickers & swag will be located, so that attendees are free to pick it up. 
 
 What are the table sizes? What is included?
 -------------------------------------------
 
 The small sponsorship table is a 6' table, and the large is two 6' tables. These are not standard conference expo halls, but in the main conference venue, so please don't bring anything that will need to be hung or expand more than 2 feet beyond the edge of your area. Wifi & Power will be provided.
 
-What are the dates that sponsors need to know about?
-----------------------------------------------------
+How do I ship items?
+--------------------
 
-* PRIOR: Two weeks prior to the event, you are able to start shipping items for the conference. Please inquire about the address to ship things to.
+Prior to the event, if you'd like to ship swag, we will send you the mailing address **3 weeks** prior to the event. We can't recieve packages before that. Anything sent to us will be available at the venue on the day of the event.
 
-* SUNDAY: Sponsor setup will be available on Sunday from 10am-4pm. Please contact us to coordinate a time to make sure that we're available to assist you when you arrive.
-
-* MONDAY: Doors will open at 8am, so we recommend arriving at this time to get the most visibility with attendees. This is the official start of the conference, when sponsors tables will need to be staffed. The conference will run until around 5pm
-
-* TUESDAY: Tear down will be 3pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening. We'll also be having a local meetup social and conference after party at New Relic that evening, which you're also welcome to come to.
