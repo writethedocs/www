@@ -236,7 +236,7 @@ Run of Show
 A quick overview of the spaces:
 
 * The *Main Ballroom* is where talks and most sponsorship activity happens. 
-* The *Unconference Room* is across from the main ballroom. This is where the Unconference & Job Fair will happen.
+* The *Unconference Room* is across from the main ballroom. This is where the Unconference & Job Fair happens.
 
 An overview of the conference schedule:
 
@@ -276,7 +276,7 @@ The job fair will be a low key event. Every participant will have a six-foot tab
 What happens with my swag items?
 --------------------------------
 
-We will have a few "swag tables" that are placed around the back of the main ballroom. This will be where sponsor and community stickers & swag will be located, so that attendees are free to pick it up. If you have a booth, you are also welcome to place swag on the booth.
+We will have a few "swag tables" that are placed around the back of the main ballroom. This will be where sponsor and community stickers & swag will be located, so that attendees are free to pick it up. 
 
 What are the table sizes? What is included?
 -------------------------------------------
