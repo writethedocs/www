@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Aug 7, 2018
+.. post:: Aug 6, 2018
    :tags: 2018, australia, events, volunteers
 
 Call for Volunteers
