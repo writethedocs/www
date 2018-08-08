@@ -1,4 +1,5 @@
 :template: {{year}}/generic.html
+:banner: _static/2018/assets/headers/venue.png
 
 Schedule
 ========
@@ -139,16 +140,14 @@ Conference Talks
        :source: /_data/na-2018-day-1.yaml
        :template: include/schedule2018.rst
 
-.. _{{shortcode}}-{{year}}-job-fair:
-
 Job Fair
 ~~~~~~~~
 
 New in 2018! We'll be holding a job fair on Tuesday morning!
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **10:30-12:10**
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
+* **When**: **9:00-12:00**
+* **Details**: TBA
 
 Unconference
 ~~~~~~~~~~~~

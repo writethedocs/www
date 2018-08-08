@@ -11,7 +11,7 @@ tz: CEST
 email: prague@writethedocs.org
 
 photos:
-  default: _static/2018/assets/headers/prague-group.png
+  default: _static/2018/assets/images/backgrounds/prague-group.jpg
 
 tickets:
   community:
@@ -81,7 +81,7 @@ about:
   mainroom:
     Main Ballroom
   unconfroom:
-    Unconference Room, across from the Main Ballroom
+    Unconference Room, downstairs
 
 cfp:
   url: https://goo.gl/forms/M6YjhBgmCEwOwrzP2
@@ -89,7 +89,7 @@ cfp:
   notification: Friday, June 15th
 
 job_fair:
-  location: Unconference Room, across from the Main Ballroom
+  location: Unconference Room, downstairs
 
 flaghassponsors: True
 flagcfp: False
