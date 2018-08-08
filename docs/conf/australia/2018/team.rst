@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: 
+:banner:
 
 Meet the Team
 =============
@@ -46,7 +46,7 @@ Filled Roles
 * **Lightning Talk coordinator** - Jennifer Appleby
 * **Communication chair** - Swapnil Ogale
 * **Volunteer coordinator** - TBA
-* **Sponsorship** - Swapnil Ogale, Sarah Maddox, Nicola Nye, Russell Dickenso
+* **Sponsorship** - Swapnil Ogale, Sarah Maddox, Nicola Nye, Russell Dickenson
 * **Unconference coordinator** - TBA
 * **Emcee** - Jared Morgan
 
