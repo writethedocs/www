@@ -1,4 +1,5 @@
 :template: {{year}}/generic.html
+:banner: _static/2018/assets/headers/team.png
 
 Meet the Team
 =============
@@ -9,25 +10,35 @@ This page outlines the folks who are helping get things done, and what their rol
 Folks
 -----
 
-Swapnil Ogale
+Mikey Ariel
 ~~~~~~~~~~~
 
-.. include:: /include/bios/swapnil.rst
+.. include:: /include/bios/mikey.rst
 
-Sarah Maddox
+Samuel Wright
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/sarah.rst
+.. include:: /include/bios/sam.rst
 
-Nicola Nye
+Eric Holscher
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/nicola.rst
+.. include:: /include/bios/eric.rst
 
-Russell Dickenson
+Kelly O'Brien
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/russell.rst
+.. include:: /include/bios/kelly.rst
+
+Sasha Romijn
+~~~~~~~~~~~~
+
+.. include:: /include/bios/sasha.rst
+
+Paul Adams
+~~~~~~~~~~
+
+.. include:: /include/bios/paul.rst
 
 
 Primary Roles
@@ -38,21 +49,23 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 Filled Roles
 ~~~~~~~~~~~~~
 
-* **Conference chair** - Swapnil Ogale
-* **Swag coordinator** - TBA
-* **Speaker wrangler** - TBA
-* **Infrastructure chair** - TBA
-* **Lightning Talk coordinator** - Jennifer Appleby
+* **Conference chair** - Mikey Ariel
+* **Swag coordinator** - Mikey Ariel
+* **Speaker wrangler** - Sam Wright
+* **Infrastructure chair** - Sam Wright
+* **Writing Day coordinator** - Kelly O'Brien
+* **Lightning Talk coordinator** - Paul Adams
+* **Communication chair** - Mikey Ariel
 * **Volunteer coordinator** - Sasha Romijn
-* **Sponsorships** - Swapnil Ogale, Sarah Maddox, Nicola Nye, Russell Dickenson
-* **Unconference coordinator** - Jennifer Appleby
-* **Website updates** - Sarah Maddox, Nicola Nye, Russell Dickenson
-* **Emcee** - Jared Morgan
+* **Sponsorship lead** - Eric Holscher
+* **Job Fair coordinator** - Eric Holscher
+* **Boat ride coordinator** - Mikey Ariel
+* **Unconference coordinator** - Paul Adams
 
 Organizers Needed
 ~~~~~~~~~~~~~~~~~
 
 * **Welcome Wagon coordinators** - TBA
-* **Explore Melbourne coordinator** - TBA
+* **Explore Prague coordinator** - TBA
 * **Social media chair** - TBA
 * **Emcee** - TBA
