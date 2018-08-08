@@ -25,4 +25,4 @@ For details of what each role requires, look at the `Event Roles <http://www.wri
 
 If you're interested, please complete the `volunteer form  <https://goo.gl/forms/W6dmJFl2IJ4PEeYF2>`_. We will be accepting volunteer applications until 3 - 4 weeks before the conference, if there are still open roles by then. You can expect to hear back from us from September 1st onward.
 
-We only have a few openings for volunteers, and we will prioritize those who will be attending for the first time, also those who might not be able to attend otherwise. Unfortunately we cannot help with travel costs for volunteers, so please make sure that you are able to travel to the conference before you write to us.
+We only have a few openings for volunteers, and we will prioritize those who will be attending for the first time, also those who might not be able to attend otherwise. Unfortunately we cannot help with travel costs for volunteers, so please make sure that you are able to travel to the conference before applying for a role.
