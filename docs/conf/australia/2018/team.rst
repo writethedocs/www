@@ -30,6 +30,11 @@ Russell Dickenson
 
 .. include:: /include/bios/russell.rst
 
+Jared Morgan
+~~~~~~~~~~~~~
+
+.. include:: /include/bios/jared.rst
+
 
 Primary Roles
 -------------
