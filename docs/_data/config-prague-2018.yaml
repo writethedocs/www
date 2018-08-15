@@ -95,6 +95,8 @@ flaghassponsors: True
 flagcfp: False
 flagticketsonsale: True
 flagspeakersannounced: True
+flaghasschedule: True
+
 
 flaghashike: False
 flaghasboat: True

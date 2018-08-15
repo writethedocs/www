@@ -32,5 +32,10 @@
 
 # NA  2018
 
-cat ~/Downloads/Write\ the\ Docs\ Portland\ 2018\ Schedules\ -\ Main\ Filled.csv | head -n 25 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/na-2018-day-1.yaml
-cat ~/Downloads/Write\ the\ Docs\ Portland\ 2018\ Schedules\ -\ Main\ Filled.csv | tail -n 18 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/na-2018-day-2.yaml
+#cat ~/Downloads/Write\ the\ Docs\ Portland\ 2018\ Schedules\ -\ Main\ Filled.csv | head -n 25 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/na-2018-day-1.yaml
+#cat ~/Downloads/Write\ the\ Docs\ Portland\ 2018\ Schedules\ -\ Main\ Filled.csv | tail -n 18 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/na-2018-day-2.yaml
+
+# Prague 2018
+
+cat ~/Downloads/Prague\ Speakers\ \&\ Schedules\ -\ Speaker\ Schedule.csv | head -n 25 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/eu-2018-day-1.yaml
+cat ~/Downloads/Prague\ Speakers\ \&\ Schedules\ -\ Speaker\ Schedule.csv | tail -n 18 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/eu-2018-day-2.yaml
