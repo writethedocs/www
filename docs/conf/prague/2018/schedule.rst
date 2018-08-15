@@ -165,6 +165,8 @@ Conference Talks
 
 _{{shortcode}}-{{year}}-job-fair:
 
+.. _{{shortcode}}-{{year}}-job-fair:
+
 Job Fair
 ~~~~~~~~
 
