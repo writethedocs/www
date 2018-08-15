@@ -10,6 +10,9 @@
 - Duration: '60'
   Session: Lunch
   Time: '13:00'
-- Duration: '24:00'
+- Duration: '180'
   Session: Writing day
   Time: '14:00'
+- Duration: null
+  Session: Writing day ends
+  Time: '17:00'
