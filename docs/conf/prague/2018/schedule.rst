@@ -62,6 +62,17 @@ Writing Day
 * **When**: **9:00-17:00**
 * **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
+{% if flaghasschedule %}
+
+.. datatemplate::
+   :source: /_data/{{templatecode}}-{{year}}-day-0.yaml
+   :template: include/schedule2018.rst
+   :include_context:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
+
 Reception
 ~~~~~~~~~
 
