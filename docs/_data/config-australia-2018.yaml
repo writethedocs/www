@@ -65,6 +65,7 @@ flaglanding: False
 flagspeakersannounced: False
 flagcfp: False
 flaghassponsors: True
+flaghaschedule: True
 
 flagticketsonsale: True
 flaghashike: False
