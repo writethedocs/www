@@ -25,10 +25,16 @@ Conference talks
 * **When**: **9:00-14:30** (including a lunch break)
 * **Details**: Full main stage schedule below!
 
+{% if flaghasschedule %}
+
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
    :template: include/schedule2018.rst
    :include_context:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
 
 Workshop: Tech Writing 101
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -73,10 +79,16 @@ Conference Talks
 * **When**: **9:00-14:00** (including a lunch break)
 * **Details**: Full main stage schedule below!
 
+{% if flaghasschedule %}
+
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-2.yaml
    :template: include/schedule2018.rst
    :include_context:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
 
 Workshop 1: Let's Create a Style Guide
 ~~~~~~~~~~~~~
