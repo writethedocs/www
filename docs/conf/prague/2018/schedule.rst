@@ -1,5 +1,4 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/venue.png
 
 Schedule
 ========
@@ -164,14 +163,16 @@ Conference Talks
   A detailed schedule will be announced soon.
 {% endif %}
 
+_{{shortcode}}-{{year}}-job-fair:
+
 Job Fair
 ~~~~~~~~
 
 New in 2018! We'll be holding a job fair on Tuesday morning!
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **10:00-13:00**
-* **Details**: TBA
+* **When**: **10:30-12:10**
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
 
 Unconference
 ~~~~~~~~~~~~
