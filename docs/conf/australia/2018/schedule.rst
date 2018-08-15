@@ -16,19 +16,25 @@ Each year we organize a wide range of events so that people can come together, c
 Thursday, 15th November 2018
 ----------------------------
 
-*Tea and coffee will be provided, as well as snacks and drinks all day.*
+*Tea, coffee and lunch will be provided, as well as snacks and drinks all day.*
 
 Conference talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.mainroom}}
-* **When**: **9:00-14:00** (including a lunch break)
-* **Details**: TBA
+* **When**: **9:00-14:30** (including a lunch break)
+* **Details**: Full main stage schedule below!
 
-..
-    .. datatemplate::
-       :source: /_data/na-2018-day-1.yaml
-       :template: include/schedule2018.rst
+{% if flaghasschedule %}
+
+.. datatemplate::
+   :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
+   :template: include/schedule2018.rst
+   :include_context:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
 
 Workshop: Tech Writing 101
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,21 +52,21 @@ The unconference sessions run in parallel with the workshop.
 * **When**: **14:30-16:30**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
-Reception
-~~~~~~~~~
+Thursday Night Social
+~~~~~~~~~~~~~~~~~~~
 
-We encourage everyone to drop by on Thursday evening for the conference reception.
-You'll have a chance to get acquainted with each other over some drinks and snacks.
-We'll also help groups organize dinner plans, so you can continue your conversations over more substantial food as well.
+The official Write the Docs Australia social!
+This event is for **conference attendees only**, so please bring your badge to be let into the venue.
+There will be light snacks and drinks available on the conference while our tab lasts.
 
 * **Where**: TBA
-* **When**: **17:30-21:00**
+* **When**: **5.30pm-8pm**
 
 
 Friday, 16th November 2018
 ----------------------------------------
 
-*Tea and coffee will be provided, as well as snacks and drinks all day.*
+*Tea, coffee and lunch will be provided, as well as snacks and drinks all day.*
 
 .. contents::
     :local:
@@ -71,18 +77,31 @@ Conference Talks
 
 * **Where**: {{about.mainroom}}
 * **When**: **9:00-14:00** (including a lunch break)
-* **Details**: TBA
+* **Details**: Full main stage schedule below!
 
-..
-    .. datatemplate::
-       :source: /_data/na-2018-day-1.yaml
-       :template: include/schedule2018.rst
+{% if flaghasschedule %}
 
-Workshop
+.. datatemplate::
+   :source: /_data/{{templatecode}}-{{year}}-day-2.yaml
+   :template: include/schedule2018.rst
+   :include_context:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
+
+Workshop 1: Let's Create a Style Guide
 ~~~~~~~~~~~~~
 
 * **Where**: {{about.mainroom}}
-* **When**: **14:30-16:30**
+* **When**: **14:30-15:30**
+* **Details**: TBA
+
+Workshop 2: Static Site Generators, What, Why and How
+~~~~~~~~~~~~~
+
+* **Where**: {{about.mainroom}}
+* **When**: **15:40-16:40**
 * **Details**: TBA
 
 Unconference
