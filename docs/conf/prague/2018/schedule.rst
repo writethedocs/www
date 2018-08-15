@@ -89,7 +89,7 @@ Conference Talks
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **10:00-18:00**
-* **Details**: TBA
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 
 {% if flaghasschedule %}
@@ -109,7 +109,7 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **13:30-18:00**
+* **When**: **10:40-18:00**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Monday Night Social
@@ -139,8 +139,8 @@ Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
-* **When**: **10:00-17:00**
-* **Details**: TBA
+* **When**: **10:00-16:30**
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 {% if flaghasschedule %}
 
@@ -159,7 +159,7 @@ Job Fair
 New in 2018! We'll be holding a job fair on Tuesday morning!
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **9:00-12:00**
+* **When**: **10:00-13:00**
 * **Details**: TBA
 
 Unconference
@@ -168,5 +168,5 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **12:00-17:00**
+* **When**: **14:50-16:30**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`

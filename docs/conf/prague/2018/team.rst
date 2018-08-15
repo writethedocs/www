@@ -63,10 +63,5 @@ Filled Roles
 * **Unconference coordinator** - Paul Adams
 * **Welcome Wagon coordinators** - Beth Aitman and Daniel Beck
 * **Social media chair** - Chris Ward
-
-
-Organizers Needed
-~~~~~~~~~~~~~~~~~
-
-* **Explore Prague coordinator** - TBA
-* **Emcee** - TBA
+* **Explore Prague coordinator** - Jakub Mikulas
+* **Emcee** - Brian (bex) Exelbierd

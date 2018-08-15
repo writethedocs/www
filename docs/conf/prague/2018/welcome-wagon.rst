@@ -22,7 +22,7 @@ Welcome Wagon events
 
 **Write the Docs Welcome Wagon Introduction**
 
-*{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}} at 17:00 in the quiet room (downstairs, across from the cloak room) at Auto-Klub*
+*{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}} at 17:00 in the downstairs foyer (near the cloakroom) at Auto-Klub*
 
 Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new before we join the opening reception.
 
