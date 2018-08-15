@@ -40,7 +40,7 @@ Museums
 -------
 
 Museum fans can check out
-the `National Underground Railroad Freedom Center <http://www.freedomcenter.org/>`,
+the `National Underground Railroad Freedom Center <http://www.freedomcenter.org/>`_,
 the `Taft Museum of Art <https://www.taftmuseum.org/>`_,
 the `Contemporary Arts Center <https://www.contemporaryartscenter.org/>`_,
 and the `Cincinnati Fire Museum <https://www.cincyfiremuseum.com/>`_.
