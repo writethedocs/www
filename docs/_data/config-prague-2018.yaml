@@ -93,7 +93,7 @@ job_fair:
 
 flaghassponsors: True
 flagcfp: False
-flagticketsonsale: True
+flagticketsonsale: False
 flagspeakersannounced: True
 flaghasschedule: True
 
