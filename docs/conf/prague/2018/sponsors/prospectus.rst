@@ -186,7 +186,7 @@ It is included in all sponsorship packages this year.
 
 - **Logistics**: The Job Fair will be Tuesday morning in {{job_fair.location}}. You can see the timing details on the :ref:`schedule <{{shortcode}}-{{year}}-job-fair>`.
 
-- **Layout**: Every participant will have a table and two chairs reserved for them. We do not use booths during the Job Fair. Giveaways/flyers are welcome, please make sure everything fits on your table.
+- **Layout**: Every participant will have a table and two chairs reserved for them. Giveaways/flyers are welcome, please make sure everything fits on your table.
 
 Note that the `Code of Conduct </code-of-conduct/>`_ and :ref:`coc-sponsors` apply to the Job Fair as well as to the rest of the conference.
 
@@ -261,7 +261,7 @@ What are the dates that sponsors need to know about in advance?
 
 * **SUNDAY**: The swag tables are available during the Writing Day, if you want to put out swag items early. 
 
-* **MONDAY**: Doors open at 9am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the conference, when sponsors tables will need to be staffed. The conference will run until around 5pm.
+* **MONDAY**: Doors open at 9am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the conference. The conference will run until around 5pm.
 
 * **TUESDAY**: The Job Fair will be in the morning, setup will start 30 minutes before the job fair starts. Sponsor tear down in the main hall will be 4pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening.
 
@@ -279,11 +279,6 @@ What happens with my swag items?
 --------------------------------
 
 We will have a few "swag tables" that are placed around the back of the main ballroom. This will be where sponsor and community stickers & swag will be located, so that attendees are free to pick it up. 
-
-What are the table sizes? What is included?
--------------------------------------------
-
-The small sponsorship table is a 6' table, and the large is two 6' tables. These are not standard conference expo halls, but in the main conference venue, so please don't bring anything that will need to be hung or expand more than 2 feet beyond the edge of your area. Wifi & Power will be provided.
 
 How do I ship items?
 --------------------
