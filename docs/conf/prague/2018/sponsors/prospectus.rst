@@ -244,6 +244,8 @@ An overview of the conference schedule:
 * The main conference & sponsorship days are on Monday & Tuesday in the main ballroom.
 * The Job Fair happens Tuesday morning.
 
+The :doc:`/conf/{{ year }}/{{ shortcode }}/schedule` contains the most up to date information about the timing of events.
+
 How do I get the most out of my sponsorship?
 --------------------------------------------
 
@@ -261,7 +263,7 @@ What are the dates that sponsors need to know about in advance?
 
 * **MONDAY**: Doors open at 9am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the conference, when sponsors tables will need to be staffed. The conference will run until around 5pm.
 
-* **TUESDAY**: The Job Fair will be in the morning, setup will start 30 minutes before the job fair is scheduled to start. Sponsor tear down in the main hall will be 4pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening.
+* **TUESDAY**: The Job Fair will be in the morning, setup will start 30 minutes before the job fair starts. Sponsor tear down in the main hall will be 4pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening.
 
 How do I use get my free tickets?
 ---------------------------------
