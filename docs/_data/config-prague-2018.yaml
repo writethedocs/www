@@ -96,6 +96,7 @@ flagcfp: False
 flagticketsonsale: False
 flagspeakersannounced: True
 flaghasschedule: True
+flagwelcomewagon: True
 
 
 flaghashike: False
