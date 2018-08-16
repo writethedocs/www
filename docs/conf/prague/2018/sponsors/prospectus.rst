@@ -244,7 +244,7 @@ An overview of the conference schedule:
 * The main conference & sponsorship days are on Monday & Tuesday in the main ballroom.
 * The Job Fair happens Tuesday morning.
 
-The :doc:`/conf/{{ year }}/{{ shortcode }}/schedule` contains the most up to date information about the timing of events.
+The :doc:`/conf/{{ shortcode }}/{{ year }}/schedule` contains the most up to date information about the timing of events.
 
 How do I get the most out of my sponsorship?
 --------------------------------------------
