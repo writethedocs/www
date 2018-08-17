@@ -58,11 +58,11 @@ about:
 
 cfp:
   url: https://goo.gl/forms/ONK3MoLwtNQ3LcXv1
-  ends: Friday, July 20th
+  ends: Friday, July 27th
   notification: Wednesday, Aug 15th
 
 flaglanding: False
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagcfp: False
 flaghassponsors: True
 flaghasschedule: True
