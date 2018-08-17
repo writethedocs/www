@@ -78,9 +78,15 @@ This code of conduct is largely based on the `Django Project Code of Conduct <ht
 Staff Contact Information
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If for any reason you need to report an issue,
-please contact us!
-You can email us at conduct@writethedocs.org,
-or report something to one of the following people:
+If for any reason you need to report an issue, please contact us!
+You can email us at conduct@writethedocs.org, or report something to one of the following people:
+
+Portland Code-of-Conduct Team
+-----------------------------
 
 .. include:: include/conf/na-coc.rst
+
+Prague Code-of-Conduct Team
+---------------------------
+
+.. include:: include/conf/eu-coc.rst
