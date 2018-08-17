@@ -19,7 +19,7 @@ Thursday, 15th November 2018
 *Tea, coffee and lunch will be provided, as well as snacks and drinks all day.*
 
 Conference talks
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.mainroom}}
 * **When**: **9:00-14:30** (including a lunch break)
@@ -53,7 +53,7 @@ The unconference sessions run in parallel with the workshop.
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Thursday Night Social
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 The official Write the Docs Australia social!
 This event is for **conference attendees only**, so please bring your badge to be let into the venue.
@@ -73,7 +73,7 @@ Friday, 16th November 2018
     :backlinks: none
 
 Conference Talks
-~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.mainroom}}
 * **When**: **9:00-14:00** (including a lunch break)
@@ -91,14 +91,14 @@ Conference Talks
 {% endif %}
 
 Workshop 1: Let's Create a Style Guide
-~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.mainroom}}
 * **When**: **14:30-15:30**
 * **Details**: TBA
 
 Workshop 2: Static Site Generators, What, Why and How
-~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.mainroom}}
 * **When**: **15:40-16:40**
