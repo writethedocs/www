@@ -1,4 +1,4 @@
-- abstract: "<p>Most industries have had what we might call an "oh no" moment.
+ - abstract: "<p>Most industries have had what we might call an oh-no moment.
     It's those moments that encourage industries to become better regulated,
     in order to prevent further disasters. The IT industry has had many moments
     that could be considered consequential enough to encourage better regulation,
@@ -13,10 +13,10 @@
     moments from the IT industry that should have prompted regulation, and
     haven't. Finally, I will discuss ways that documentation professionals
     are uniquely placed to identify, and potentially blow the whistle on,
-    potential disasters before they happen..</p>"
+    potential disasters before they happen.</p>"
   details: ''
   event: Write the Docs Australia 2018
-  path: conf/australia/2018/videos/facebook-dynamite-uber
+  path: conf/australia/2018/videos/facebook-dynamite
   series: Write the Docs Australia
   series_slug: australia
   slug: facebook-dynamite
@@ -27,7 +27,7 @@
     slug: lana-brindley
     twitter: Loquacities
     website: http://lanabrindley.com
-  title: 'Facebook, Dynamite, Uber, Bombs, and You'
+  title: Facebook, Dynamite, Uber, Bombs, and You
   year: '2018'
 - abstract: "<p>Who cares about content? Everyone who touches an open
     source project! The community can’t contribute to a project they
