@@ -16,10 +16,10 @@
     potential disasters before they happen.</p>"
   details: ''
   event: Write the Docs Australia 2018
-  path: conf/australia/2018/videos/facebook-dynamite
+  path: conf/australia/2018/videos/facebook-dynamite-uber-bombs-you
   series: Write the Docs Australia
   series_slug: australia
-  slug: facebook-dynamite
+  slug: facebook-dynamite-uber-bombs-you
   speakers:
   - details: ''
     img_file: lana-brindley.jpg
@@ -29,68 +29,59 @@
     website: http://lanabrindley.com
   title: Facebook, Dynamite, Uber, Bombs, and You
   year: '2018'
-- abstract: "<p>Who cares about content? Everyone who touches an open
-    source project! The community can’t contribute to a project they
-    don’t understand. But writing documentation isn’t enough: you need
-    a content strategy that defines how the content will be structured,
-    written, tested, and updated along the way as contributions come in.
-    If there is no proper process in place, you are going to be in one
-    hot mess.</p>\n
+- abstract: "<p>Creating high quality and engaging content is a challenge, but
+    finding ways to present that content to readers on a vast array of devices and
+    hardware has been even more problematic. This session will explore best
+    practices for enabling your content to automatically adapt to various
+    computers, browsers, devices, and platforms. This is a rapidly changing area.
+    </p>\n
 
-    <p>In this session, attendees will learn:</p>\n
+    <p>In this presentation Mike will cover the most recent developments in the
+    industry that have made responsive content presentation much easier for
+    content authors. Mike will visit the concept of Media Queries and compare
+    that with the newer and easier techniques such as using the FlexBox Model.
+    It has never been easier to ensure that your content is presented to your
+    reader in an optimized manner.</p>\n"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/responsive-content-presenting-your-information-on-any-device
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: responsive-content-presenting-your-information-on-any-device
+  speakers:
+  - details: ''
+    img_file: mike-hamilton.jpg
+    name: Mike Hamilton
+    slug: mike-hamilton
+    twitter: MadCapMike
+    website: ''
+  title: Responsive Content - Presenting Your information On Any Device
+  year: '2018'
+- abstract: "<p>For any business that’s producing a lot of documentation from a
+    lot of hands, a style guide is a necessity. It can provide consistent
+    quality across documents, and over time it can lift the writing standard
+    within your organisation.</p>\n
+
+    <p>This talk will aim to cover:</p>\n
     <ul>\n
-      <li>What’s in store for open source technical documentation</li>\n
-      <li>The people and technology needed to help you create open
-        source documentation</li>\n
-      <li>What matters most: quantity over quality or quality over
-        quantity?</li>\n
-      <li>What it takes to have open source documentation that drives
-        customer satisfaction</li>\n
-      <li>Making the process work for your organization with every
-        contribution</li>\n
+      <li>What does your style guide need to contain?</li>\n
+      <li>What are the pitfalls that you need to consider?</li>\n
+      <li>How do you communicate the style guide across the organisation?</li>\n
     </ul>\n"
   details: ''
-  event: Write the Docs Cincinnati 2018
-  path: conf/cincinnati/2018/videos/content-strategy-for-open-source-projects
-  series: Write the Docs Cincinnati
-  series_slug: cincinnati
-  slug: documentation-strategy-for-open-source-projects
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/the-art-of-consistency-create-inhouse-style-guide
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: the-art-of-consistency-create-inhouse-style-guide
   speakers:
   - details: ''
-    img_file: shavindri-dissanayake.jpg
-    name: Shavindri Dissanayake
-    slug: shavindri-dissanayake
-    twitter: ''
-    website: https://medium.com/@shavindridissanayake
-  title: Documentation Strategy for Open Source Projects
-  year: '2018'
-- abstract: "<p>This talk will cover best practices on how to create
-    documentation that can be within reach to individuals who might not
-    have ever thought they would be writing code before and why accessible
-    documentation needs to be a part of the conversation around diversity
-    and inclusion.</p>\n
-
-    <p>We’ll get started by defining what accessible documentation looks like.
-    We’ll also cover what common pitfalls exist and how to prevent falling
-    into these traps such as talking in jargon and assuming a base of experience
-    that isn’t defined.  We will also dig into code examples in documentation
-    and discuss what context is needed to ensure that these are reachable to all.
-    This talk will conclude with a checklist of what you need to make your
-    documentation accessible to all.</p>\n"
-  details: ''
-  event: Write the Docs Cincinnati 2018
-  path: conf/cincinnati/2018/videos/how-to-ensure-your-documentation-is-accessible-for-new-programmers
-  series: Write the Docs Cincinnati
-  series_slug: cincinnati
-  slug: how-to-ensure-your-documentation-is-accessible-for-new-programmers
-  speakers:
-  - details: ''
-    img_file: jessica-garson.jpg
-    name: Jessica Garson
-    slug: jessica-garson
-    twitter: jessicagarson
-    website: http://jessicagarson.com
-  title: How to ensure your documentation is accessible for new programmers
+    img_file: kristine-sihto.jpg
+    name: Kristine Sihto
+    slug: kristine-sihto
+    twitter: SpliceFixer
+    website: ''
+  title: The Art of Consistency: Creating an inhouse style guide
   year: '2018'
 - abstract: "<p>When we choose to manage docs like code, we gain a variety
     of options for where to store the “source” files of those docs, and how
