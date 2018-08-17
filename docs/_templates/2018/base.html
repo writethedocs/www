@@ -92,6 +92,13 @@
                 <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/speakers') }}">See the talks!</a>
 
                 {% endif %}
+
+                {% if flagwelcomewagon %}
+
+                <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/' + shortcode + '/' + year|string + '/welcome-wagon') }}">Prepare with the Welcome Wagon</a>
+
+                {% endif %}
+
         {% endblock %}
         </div>
     </div>
