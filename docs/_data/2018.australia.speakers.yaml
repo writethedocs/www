@@ -165,6 +165,40 @@
     website: http://ffeathers.wordpress.com
   title: Workshop - Tech Writing 101
   year: '2018'
+- abstract: "<p>Code review is the duty of every developer in a team. We are
+    the guards of the mystical “good” code and defenders against evil technical
+    debt. It’s universally agreed that it’s easy to spot “bad” code and much
+    harder to determine “good” code.</p>\n
+
+    <p>I’m going to share some of my experiences working on a team producing
+    a large amount of code every day, with few reviewers. We’ll dive into
+    looking for smart architectural and design decisions, coherently
+    understanding what problem the author intended to solve and understanding
+    how they implemented a solution.</p>\n
+
+    <p>I’ll touch on automating away the most common issues within Code Review
+    and pulling the technical brains out of your team mates into great
+    documentation. Most importantly we’ll talk about the human side of code
+    review and how to manage code review within large and small teams. Code
+    review helps our teams grow institutional knowledge and shared understanding
+    of the systems we build together. A strong understanding of how to review
+    code will help you to write better code and help you help your teammates
+    to write better code.</p>"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/good-code-bad-code-code-review
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: good-code-bad-code-code-review
+  speakers:
+  - details: ''
+    img_file: missing.jpg
+    name: Matthew Borden
+    slug: matthew-borden
+    twitter: matthewborden
+    website: ''
+  title: Good Code, Bad Code & Code Review
+  year: '2018'
 - abstract: "<p>You have to write some docs. To do this, you need information
     from other people. </p>\n
 
@@ -189,73 +223,134 @@
     website: https://www.fastmail.com
   title: The subtle art of interrogation
   year: '2018'
-- abstract: "<p>As an engineer dedicated to improving the safety of
-    autonomous vehicles, I am beholden to the automotive industry’s
-    standard used for certifying functional safety for EE systems —
-    ISO 26262. The purpose of this standard is to minimize the risk
-    of harm by enforcing a structured, rigorous product development
-    process. This means that before a component can be integrated
-    into a vehicle, it must be certified as compliant with the
-    aforementioned standard.</p>\n
-
-    <p>Complying with ISO 26262 is a meticulous and arduous process,
-    by design. To satisfy this traditionally bureaucratic behemoth,
-    extensive amounts of very specific documentation must be furnished
-    as evidence that the requirements of the standard were strictly
-    adhered to. The scope and purpose of this evidence vastly exceeds
-    that of the documentation done in a typical software development
-    process. To maintain efficiency and flexibility while developing
-    our software, we knew we’d need to lean into automation to grapple
-    with this beast.. Our goals are specific to automotive, but we
-    predicted the resulting tools and processes would be valuable to
-    providing consistency and verifiability to any project. One facet
-    of facilitating this goal that we’ve pursued---and is covered by
-    this talk---is a specification for constraining Markdown document
-    structure and a tool created for validating it.</p>"
-  details: ''
-  event: Write the Docs Australia 2018
-  path: conf/australia/2018/videos/just-what-the-doctor-ordered
-  series: Write the Docs Australia
-  series_slug: australia
-  slug: just-what-the-doctor-ordered
-  speakers:
-  - details: ''
-    img_file: devin-smith.jpg
-    name: Devin Smith
-    slug: devin-smith
-    twitter:
-    website:
-  title: 'Just What the Doctor Ordered: Automating Away Drudgery Through Document Conformity'
-  year: '2018'
-- abstract: "<p>With an ever-present need to prove value to the organization,
-    I found myself struggling to get the data I needed to put together an
-    argument based on fact, rather than anecdotes. In this session, I’ll take
-    the anecdote of my situation and show how analytics enabled my team to
-    pull forward, get executive buy-in, enable process change and succeed.
-    Over the course of the session, I’ll delve into three primary questions
-    and propose where you’ll find some answers.</p>\n
+- abstract: "<p>I’ll walk through how my team and I create an information
+    experience that feels human, helpful, and how we know if it’s successful.
+    Part of that experience bridges the information gap between the messages you
+    receive before you log into an Atlassian product and the messages you receive
+    in the form of:\n
 
     <ul>\n
-    <li>What are some of the metrics you might want to find?</li>\n
-    <li>What are your baselines?</li>\n
-    <li>What happens if the data doesn’t tell you what you expected?</li>\n
+    <li>Introductory states</li>\n
+    <li>Blank states</li>\n
+    <li>Directional and instructive text in the app</li>\n
+    <li>UI copy and it's connection to user expectations and perceptions</li>\n
+    <li>Documentation and how it supports different functional journeys</li>\n
     </ul>\n
 
-    <p>What your users are telling you about how they access your content
-    can tell you volumes about roads to improve all aspects of user
-    assistance.</p>"
+    <p>We’ll cover how working ahead of time with our marketing, content,
+    and brand teams allows us to know and influence user expectations throughout
+    their early journey. We’ll also talk about how far we have yet to go.</p>"
   details: ''
   event: Write the Docs Australia 2018
-  path: conf/australia/2018/videos/analytics-can-change-your-world
+  path: conf/australia/2018/videos/creating-experiences-with-information
   series: Write the Docs Australia
   series_slug: australia
-  slug: analytics-can-change-your-world
+  slug: creating-experiences-with-information
   speakers:
   - details: ''
-    img_file: missing.jpg
-    name: David Payne
-    slug: david-payne
-    twitter:
-    website:
-  title: 'Analytics Can Change Your World!'
+    img_file: daniel-stevens.jpg
+    name: Daniel Stevens
+    slug: daniel-stevens
+    twitter: dan_stevens9190
+    website: https://www.linkedin.com/in/dans9190/
+  title: Creating experiences with information!
+  year: '2018'
+- abstract: "<p>Over the course of 2018 I planned and helped execute a complete,
+    ongoing rewrite of about 1000 pages of documentation - changing the markup
+    language, the focus (feature to user story), and the structure (linear to
+    modular) - without actually being in charge of strategy, scheduling,
+    tooling, or content. \n
+
+    <p>This talk charts the process and provides recommendations for others
+    attempting to instigate massive change on multiple fronts.</p>"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/backseat-content-strategy
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: backseat-content-strategy
+  speakers:
+  - details: ''
+    img_file: laura-baile.jpg
+    name: Laura Bailey
+    slug: laura-bailey
+    twitter: laubaiwri
+    website: ''
+  title: 'Backseat Content Strategy'
+  year: '2018'
+- abstract: "<p>Software support teams are in a tough spot. They know
+    documentation is important, and they love to refer customers to it, but finding
+    time to actually write and maintain those documents is *really* hard.</p>\n
+
+    <p>That endless support queue and its ceaseless demand for attention mean
+    that documentation is too often ignored. Mat shares his hard earned
+    practical advice to help technical writers and support team knowledge base
+    owners create a more effective documentation system.</p>"
+
+    <p>Learn why documentation falls behind, how to reduce support writing
+    friction and how other SaaS teams have made support an engine for great
+    documentation.</p>"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/power-up-your-support-team
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: power-up-your-support-team
+  speakers:
+  - details: ''
+    img_file: matthew-patterson.jpg
+    name: Matthew Patterson
+    slug: matthew-patterson
+    twitter: mrpatto
+    website: http://mrpatto.com
+  title: Power up your support team to create better documentation
+  year: '2018'
+- abstract: "<p>This workshop is for writers who have never used, or don't
+    currently have, a Style Guide in place. We'll briefly cover the purpose and
+    importance of having a Style Guide, and then launch into creating a Style Guide
+    on the spot, through a collaborative workshop.</p>\n
+
+    <p>Participants will walk away with an initial Style Guide that can be
+    implemented and expanded upon, if desired.</p>"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/lets-create-a-style-guide
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: lets-create-a-style-guide
+  speakers:
+  - details: ''
+    img_file: sara-marek.jpg
+    name: Sara Marek
+    slug: sara-marek
+    twitter: ''
+    website: ''
+  title: Workshop - Let's create a Style Guide!
+  year: '2018'
+- abstract: "<p>As many documentation teams move towards a docs-as-code
+    workflow, most are turning to static site generators like Jekyll, Sphynx, Hugo,
+    or GitBook to turn that 'code' into user-facing documentation websites.
+    In this mini-workshop, you'll get an introduction to the static site generator
+    landscape, and apply what you learn by publishing your own site in class.
+    We'll cover:\n
+
+    <ul>\n
+    <li>How static site generators work</li>\n
+    <li>Comparison of popular generators, with guidelines for choosing one for your next project</li>\n
+    <li>Hands-on editing and publishing of your own statically generated portfolio website</li>\n
+    </ul>"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/static-site-generators
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: static-site-generators
+  speakers:
+  - details: ''
+    img_file: jessica-parsons.jpg
+    name: Jessica Parsons
+    slug: jessica-parsons
+    twitter: verythorough
+    website: https://www.verythorough.com
+  title: Workshop - Static Site Generators, What, Why and How
   year: '2018'

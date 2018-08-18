@@ -22,7 +22,7 @@
   Session: Morning Tea and Snack break
   Time: '10:30'
 - Duration: '15'
-  Session: "Lightning Talks"
+  Session: "*Lightning Talks*"
   Time: '11:00'
 - Duration: '10'
   Session: Switch Speakers
