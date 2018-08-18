@@ -83,192 +83,111 @@
     website: ''
   title: The Art of Consistency - Creating an inhouse style guide
   year: '2018'
-- abstract: "<p>When we choose to manage docs like code, we gain a variety
-    of options for where to store the “source” files of those docs, and how
-    they interact with the code they document. The question then becomes, how
-    do we choose among these options? Do we store docs in the code, near the
-    code, or in a separate location altogether? What are the implications of
-    these choices, for the docs themselves and for the people who maintain
-    them?</p>\n
+- abstract: "<p>The most common perception around the term UX writing is that it
+    only includes microcopy for the user interfaces. However, that is not
+    correct. Writing snappy messages on the UI is only a part of it; more
+    important aspect is developing a voice for the product and imbibing that
+    voice in your content (UX, help, knowledge base, etc).</p>\n
 
-    <p>Open source projects provide a great source for guidance on these questions,
-    because their docs, their code, and the evolution of the processes used to
-    create both are open for public viewing. As a documentarian working on a
-    number of open source projects, as well as providing site deployment support
-    to even more, I’ve seen and tried a variety of strategies, and learned from
-    both successes and failures.</p>\n
+    <p>This talk covers some of the necessary skills required for being good at
+    UX writing and how these skills help us in designing a better product
+    experience. Whether be it the decision of keeping the tone professional
+    vs casual or using title case vs sentence case, decisions must be taken
+    based on the audience and should always be in-context.</p>\n
 
-    <p>I’ll cover the benefits and challenges of different approaches, give
-    examples of specific projects using each approach, and detail the docs
-    evolution of a single open source project, Netlify CMS, as we moved
-    through different strategies to meet changing needs and unexpected
-    challenges. You’ll leave with guidelines for choosing the best “path”
-    for your current and future docs-as-code projects, along with exemplars
-    to consult for guidance when you make your choice.</p>"
+    <p>And yea, one last thing, technical writers are/can be great UX writers!</p>"
   details: ''
-  event: Write the Docs Cincinnati 2018
-  path: conf/cincinnati/2018/videos/finding-a-home-for-docs
-  series: Write the Docs Cincinnati
-  series_slug: cincinnati
-  slug: finding-a-home-for-docs
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/ux-writing-let-your-product-speak
+  series: Write the Docs Australia
+  series_slug: Australia
+  slug: ux-writing-let-your-product-speak
   speakers:
   - details: ''
-    img_file: jessica-parsons.jpg
-    name: Jessica Parsons
-    slug: jessica-parsons
-    twitter: verythorough
-    website: https://www.verythorough.com
-  title: Finding a Home for Docs
+    img_file: abhay-chokshi.jpg
+    name: Abhay chokshi
+    slug: abhay-chokshi
+    twitter: abhaychokshi
+    website: ''
+  title: UX writing - Let your product speak
   year: '2018'
-- abstract: "<p>We have never written documentation for just one audience,
-    and we have never been able to count on our product name staying the
-    same. Back when we were in Kansas, we had powerful writing IDEs to
-    manage these problems. But now that we're in Oz, docs are code and
-    code is documentation, and it all seems very different. Follow along
-    with me as we explore some use cases and lesser-used code tools to
-    deliver our users exactly the documentation they need, no more and
-    no less. That's a horse of a different color!</p>\n
+- abstract: "<p>The first few weeks at a new job are hard. There seem to be
+   too many questions and not enough answers, and so much assumed knowledge
+   about the company you joined and the products they make.</p>\n
 
-    <p>This talk will briefly touch on toolchains and workflows that peaked
-    when we were still delivering help with software, and extrapolate how
-    we can use modern code practices and deployment styles to replicate
-    the best parts. These will include universal variables, tying
-    documentation delivery to the version of the product provided, and
-    allowing users to select what they want help with.</p>"
+   <p>I’m going to talk about how you can make those first few weeks your most
+   productive and valuable to your new company. By writing internal
+   documentation that answers all the questions only someone new on the block
+   knows to ask, you can help pave the way for new hires in the future, and
+   even help identify and solve customer pain points.</p>\n
+
+   <p>Drawing from my own experiences working as an intern and support agent
+   among highly technical teams, I will go over deciding what to document
+   based on the level of technical proficiency you would expect the reader to
+   have, how to use tone to convey the company’s spirit and keep a future
+   reader interested, and how to future-proof your internal documentation so
+   it doesn’t stop being updated when you move on.</p>"
   details: ''
-  event: Write the Docs Cincinnati 2018
-  path: conf/cincinnati/2018/videos/the-man-behind-the-curtains
-  series: Write the Docs Cincinnati
-  series_slug: cincinnati
-  slug: the-man-behind-the-curtains
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/making-yourself-redundant-on-day-one
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: making-yourself-redundant-on-day-one
   speakers:
   - details: ''
-    img_file: heidi-waterhouse-2.jpg
-    name: Heidi Waterhouse
-    slug: heidi-aterhouse
-    twitter: wiredferret
-    website: http://heidiwaterhouse.com
+    img_file: alexandra-perkins.jpg
+    name: Alexandra Perkins
+    slug: alexandra-perkins
+    twitter: ''
+    website: ''
   title: 'The Man Behind the Curtain: White Labeling, Automated Generation, and Customized Documentation'
   year: '2018'
-- abstract: "<p>Free and Open Source projects are notorious for
-    incomplete and poorly written documentation.</p>\n
+- abstract: "<p>As part of the Write the Docs Australia 2018 conference,
+    we’re running a two-hour workshop on the principles and techniques of
+    technical writing.</p>\n
 
-    <p><a href=\"http://opensourcesurvey.org/2017/\">GitHub's
-    2017 Open Source Survey</a> found that \"documentation is
-    highly valued, but often overlooked\" with 93% of respondents
-    agreeing that \"incomplete or outdated documentation is a
-    pervasive problem.\"</p>\n
-
-    <p>In attempt to solve that problem, many free and open source
-    software projects try to make doc writing easier, quicker, and
-    less formal — using wikis, lightweight site generators, and
-    Markdown. Some people claim that this enables \"non coders\"
-    (that is, people who aren't familiar with command lines and
-    version control systems) to contribute.</p>\n
-
-    <p>This is a mistake.</p>\n
-
-    <p>Any project larger than a small utility library needs <i>real</i>
-    documentation tools. \"Quick\" and \"easy\" tools like wikis and
-    Jekyll blogs contribute to documentation debt as organizing,
-    editing, and adding content slowly become more onerous and
-    disconnected from the developer experience.</p>\n
-
-    <p>The solution is <i>Docs like Code</i> — treating your documentation
-    like a first class product, an engineering product. By not ignoring
-    the lessons we've learned about how communities write, test, and
-    deploy code together, we can get better at writing, testing, and
-    deploying documentation together.</p>\n
-
-    <p>Additionally, far from scaring off \"non-coders\", this approach
-    encourages potential contributors to learn basic open source
-    contribution skills in a less complicated, easier to understand
-    context. Since documentation isn't actually code, a Docs as Code
-    process provides a relatively low barrier for people to learn and
-    practice all the non-coding skills needed for open source
-    participation.</p>\n
-
-    <p>Highlighting the documentation process at
-    <a href=\"http://docs.opendatakit.org\">Open Data Kit</a>, and
-    featuring ideas from several other open source documentation
-    projects, this talk will explore how using the common tools,
-    processes, and platforms of modern open source development —
-    git, GitHub, automated testing, continuous integration —
-    fosters the production of high quality documentation and
-    empowers new open source contributors.</p>"
+    <p>The workshop leads you through a series of pair-work exercises to
+    improve the clarity, readability, and effectiveness of your writing.
+    You’ll learn from an experienced Google technical writer and from each
+    other.</p>"
   details: ''
-  event: Write the Docs Cincinnati 2018
-  path: conf/cincinnati/2018/videos/open-source-docops
-  series: Write the Docs Cincinnati
-  series_slug: cincinnati
-  slug: open-source-docops
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/tech-writing-101
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: tech-writing-101
   speakers:
   - details: ''
-    img_file: adam-michael-wood.jpg
-    name: Adam Michael Wood
-    slug: adam-michael-wood
-    twitter:
-    website: http://hackwrite.com
-  title: Open Source DocOps
+    img_file: sarah-maddox.jpg
+    name: Sarah Maddox
+    slug: sarah-maddox
+    twitter: sarahmaddox
+    website: http://ffeathers.wordpress.com
+  title: Workshop: Tech Writing 101
   year: '2018'
-- abstract: "<p>In May 2018, the Kubernetes special interest group
-    for documentation (SIG Docs) migrated the Kubernetes website's
-    static site generator from Jekyll to Hugo. Three of SIG Docs'
-    fifteen core maintainers made a proposal that affected
-    thousands of contributors to the Kubernetes project.</p>\n
+- abstract: "<p>You have to write some docs. To do this, you need information
+    from other people. </p>\n
 
-    <p>Starting from an initial conversation in late February,
-    2018, the core group of SIG Docs maintainers debated if
-    migrating was the right move, came to consensus, created
-    a doc assessment for the site, communicated the impact of
-    the migration to other Kubernetes stakeholders, migrated
-    the site to its new infrastructure, and did post-migration
-    cleanup. From proposal to execution, the process took
-    three months.</p>\n
+    <p>Except that they're too busy, or in another office, or another timezone,
+    or they just don't want to help. What do you do?</p>\n
 
-    <p>The focus of this talk is on effective decision making
-    in large scale, open source projects. We’ll discuss:</p>\n
-    <ul>\n
-    <li>Why SIG Docs decided to migrate the site's infrastructure</li>\n
-    <li>How we propose and discuss large-scale projects</li>\n
-    <li>How we communicate as a team</li>\n
-    <li>How we get to consensus as a group, and what consensus means to us</li>\n
-    <li>How we informed the larger organization</li>\n
-    <li>How we decided when to migrate</li>\n
-    <li>How we communicated what we did</li>\n
-    <li>What the migration experience was like</li>\n
-    <li>What went well, and what we wish had gone better</li>\n
-    <li>Where we're headed next</li>\n
-    </ul>\n
-
-    <p>Along the way, we'll discuss some technical specifics of
-    Jekyll and Hugo. We'll also talk about how to get things done
-    when mistakes carry seven-figure price tags.</p>\n
-
-    <p>Kubernetes is an open-source software project for orchestrating
-    container deployment. For more information, visit
-    https://kubernetes.io (which we are pleased to say loads now more
-    quickly and reliably).</p>"
+    <p>This talk will look at the psychology behind why we often don't get the
+    help we ask for, how we can work with what we've got, and ways we can get
+    information out of unwilling participants, in spite of themselves!</p>"
   details: ''
-  event: Write the Docs Cincinnati 2018
-  path: conf/cincinnati/2018/videos/big-decisions-with-open-source-docs
-  series: Write the Docs Cincinnati
-  series_slug: cincinnati
-  slug: big-decisions-with-open-source-docs
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/the-subtle-art-of-interrogation
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: the-subtle-art-of-interrogation
   speakers:
   - details: ''
-    img_file: zach-corleissen.jpg
-    name: Zach Corleissen
-    slug: zach-corleissen
-    twitter: zachorsarah
-    website:
-  - details: ''
-    img_file: jared-bhatti.jpg
-    name: Jared Bhatti
-    slug: jared-bhatti
-    twitter: jaredbhatti
-    website:
-  title: 'Big decisions with open source docs: a Kubernetes case study'
+    img_file: nicola-nye.jpg
+    name: Nicola Nye
+    slug: nicola-nye
+    twitter: impishfae
+    website: https://www.fastmail.com
+  title: The subtle art of interrogation
   year: '2018'
 - abstract: "<p>As an engineer dedicated to improving the safety of
     autonomous vehicles, I am beholden to the automotive industry’s
@@ -294,10 +213,10 @@
     this talk---is a specification for constraining Markdown document
     structure and a tool created for validating it.</p>"
   details: ''
-  event: Write the Docs Cincinnati 2018
-  path: conf/cincinnati/2018/videos/just-what-the-doctor-ordered
-  series: Write the Docs Cincinnati
-  series_slug: cincinnati
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/just-what-the-doctor-ordered
+  series: Write the Docs Australia
+  series_slug: australia
   slug: just-what-the-doctor-ordered
   speakers:
   - details: ''
@@ -326,10 +245,10 @@
     can tell you volumes about roads to improve all aspects of user
     assistance.</p>"
   details: ''
-  event: Write the Docs Cincinnati 2018
-  path: conf/cincinnati/2018/videos/analytics-can-change-your-world
-  series: Write the Docs Cincinnati
-  series_slug: cincinnati
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/analytics-can-change-your-world
+  series: Write the Docs Australia
+  series_slug: australia
   slug: analytics-can-change-your-world
   speakers:
   - details: ''
