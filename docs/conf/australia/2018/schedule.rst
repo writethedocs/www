@@ -68,10 +68,6 @@ Friday, 16th November 2018
 
 *Tea, coffee and lunch will be provided, as well as snacks and drinks all day.*
 
-.. contents::
-    :local:
-    :backlinks: none
-
 Conference Talks
 ~~~~~~~~~~~~~~~~~
 
