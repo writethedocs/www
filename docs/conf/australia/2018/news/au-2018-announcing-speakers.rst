@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Aug 20, 2018
+.. post:: Aug 19, 2018
    :tags: australia-2018, speakers, volunteers, tickets, visiting, sponsors
 
 Announcing speakers and talks
