@@ -58,6 +58,7 @@ We are so grateful to have our sponsors help in bringing these events to life ev
 * `Madcap Software <https://madcapsoftware.com>`__
 * `Buildkite <https://buildkite.com/>`__
 * `Fastmail <https://www.fastmail.com/>`__
+* `Atlassian <https://www.atlassian.com/>`__
 * `Netlify <https://www.netlify.com/>`__
 
 Want to lend a hand? Head over to our `sponsorship prospectus <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ for details on how your company can get involved! We have several types of sponsorship available, and can customise your sponsorship to suit your flexibility.
