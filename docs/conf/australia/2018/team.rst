@@ -11,7 +11,7 @@ Folks
 -----
 
 Swapnil Ogale
-~~~~~~~~~~~
+~~~~~~~~~~~~~~
 
 .. include:: /include/bios/swapnil.rst
 
@@ -26,7 +26,7 @@ Nicola Nye
 .. include:: /include/bios/nicola.rst
 
 Russell Dickenson
-~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 .. include:: /include/bios/russell.rst
 

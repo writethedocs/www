@@ -1,0 +1,356 @@
+- abstract: "<p>Most industries have had what we might call an oh-no moment.
+    It's those moments that encourage industries to become better regulated,
+    in order to prevent further disasters. The IT industry has had many moments
+    that could be considered consequential enough to encourage better regulation,
+    but the changes have never been made. Because the industry has avoided
+    effective regulation for so long, it is possible that we are hurtling
+    towards a disaster of epic proportions, one that we haven't even managed
+    to conceive of yet.</p>\n
+
+    <p>In this talk, I will go through some historical examples of disasters
+    leading to regulation in other industries, and the measures that were put
+    into place to mitigate the problem. I will also address some of the major
+    moments from the IT industry that should have prompted regulation, and
+    haven't. Finally, I will discuss ways that documentation professionals
+    are uniquely placed to identify, and potentially blow the whistle on,
+    potential disasters before they happen.</p>"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/facebook-dynamite-uber-bombs-you
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: facebook-dynamite-uber-bombs-you
+  speakers:
+  - details: ''
+    img_file: lana-brindley.jpg
+    name: Lana Brindley
+    slug: lana-brindley
+    twitter: Loquacities
+    website: http://lanabrindley.com
+  title: Facebook, Dynamite, Uber, Bombs, and You
+  year: '2018'
+- abstract: "<p>Creating high quality and engaging content is a challenge, but
+    finding ways to present that content to readers on a vast array of devices and
+    hardware has been even more problematic. This session will explore best
+    practices for enabling your content to automatically adapt to various
+    computers, browsers, devices, and platforms. This is a rapidly changing area.
+    </p>\n
+
+    <p>In this presentation Mike will cover the most recent developments in the
+    industry that have made responsive content presentation much easier for
+    content authors. Mike will visit the concept of Media Queries and compare
+    that with the newer and easier techniques such as using the FlexBox Model.
+    It has never been easier to ensure that your content is presented to your
+    reader in an optimized manner.</p>\n"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/responsive-content-presenting-your-information-on-any-device
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: responsive-content-presenting-your-information-on-any-device
+  speakers:
+  - details: ''
+    img_file: mike-hamilton.jpg
+    name: Mike Hamilton
+    slug: mike-hamilton
+    twitter: MadCapMike
+    website: ''
+  title: Responsive Content - Presenting Your information On Any Device
+  year: '2018'
+- abstract: "<p>For any business that’s producing a lot of documentation from a
+    lot of hands, a style guide is a necessity. It can provide consistent
+    quality across documents, and over time it can lift the writing standard
+    within your organisation.</p>\n
+
+    <p>This talk will aim to cover:</p>\n
+    <ul>\n
+      <li>What does your style guide need to contain?</li>\n
+      <li>What are the pitfalls that you need to consider?</li>\n
+      <li>How do you communicate the style guide across the organisation?</li>\n
+    </ul>\n"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/the-art-of-consistency-create-inhouse-style-guide
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: the-art-of-consistency-create-inhouse-style-guide
+  speakers:
+  - details: ''
+    img_file: kristine-sihto.jpg
+    name: Kristine Sihto
+    slug: kristine-sihto
+    twitter: SpliceFixer
+    website: ''
+  title: The Art of Consistency - Creating an inhouse style guide
+  year: '2018'
+- abstract: "<p>The most common perception around the term UX writing is that it
+    only includes microcopy for the user interfaces. However, that is not
+    correct. Writing snappy messages on the UI is only a part of it; more
+    important aspect is developing a voice for the product and imbibing that
+    voice in your content (UX, help, knowledge base, etc).</p>\n
+
+    <p>This talk covers some of the necessary skills required for being good at
+    UX writing and how these skills help us in designing a better product
+    experience. Whether be it the decision of keeping the tone professional
+    vs casual or using title case vs sentence case, decisions must be taken
+    based on the audience and should always be in-context.</p>\n
+
+    <p>And yea, one last thing, technical writers are/can be great UX writers!</p>"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/ux-writing-let-your-product-speak
+  series: Write the Docs Australia
+  series_slug: Australia
+  slug: ux-writing-let-your-product-speak
+  speakers:
+  - details: ''
+    img_file: abhay-chokshi.jpg
+    name: Abhay Chokshi
+    slug: abhay-chokshi
+    twitter: abhaychokshi
+    website: ''
+  title: UX writing - Let your product speak
+  year: '2018'
+- abstract: "<p>The first few weeks at a new job are hard. There seem to be
+   too many questions and not enough answers, and so much assumed knowledge
+   about the company you joined and the products they make.</p>\n
+
+   <p>I’m going to talk about how you can make those first few weeks your most
+   productive and valuable to your new company. By writing internal
+   documentation that answers all the questions only someone new on the block
+   knows to ask, you can help pave the way for new hires in the future, and
+   even help identify and solve customer pain points.</p>\n
+
+   <p>Drawing from my own experiences working as an intern and support agent
+   among highly technical teams, I will go over deciding what to document
+   based on the level of technical proficiency you would expect the reader to
+   have, how to use tone to convey the company’s spirit and keep a future
+   reader interested, and how to future-proof your internal documentation so
+   it doesn’t stop being updated when you move on.</p>"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/making-yourself-redundant-on-day-one
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: making-yourself-redundant-on-day-one
+  speakers:
+  - details: ''
+    img_file: alexandra-perkins.jpg
+    name: Alexandra Perkins
+    slug: alexandra-perkins
+    twitter: ''
+    website: ''
+  title: Making Yourself Redundant on Day One - Internal documentation to teach the next hire what you've learned
+  year: '2018'
+- abstract: "<p>As part of the Write the Docs Australia 2018 conference,
+    we’re running a two-hour workshop on the principles and techniques of
+    technical writing.</p>\n
+
+    <p>The workshop leads you through a series of pair-work exercises to
+    improve the clarity, readability, and effectiveness of your writing.
+    You’ll learn from an experienced Google technical writer and from each
+    other.</p>"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/tech-writing-101
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: tech-writing-101
+  speakers:
+  - details: ''
+    img_file: sarah-maddox.jpg
+    name: Sarah Maddox
+    slug: sarah-maddox
+    twitter: sarahmaddox
+    website: http://ffeathers.wordpress.com
+  title: Workshop - Tech Writing 101
+  year: '2018'
+- abstract: "<p>Code review is the duty of every developer in a team. We are
+    the guards of the mystical “good” code and defenders against evil technical
+    debt. It’s universally agreed that it’s easy to spot “bad” code and much
+    harder to determine “good” code.</p>\n
+
+    <p>I’m going to share some of my experiences working on a team producing
+    a large amount of code every day, with few reviewers. We’ll dive into
+    looking for smart architectural and design decisions, coherently
+    understanding what problem the author intended to solve and understanding
+    how they implemented a solution.</p>\n
+
+    <p>I’ll touch on automating away the most common issues within Code Review
+    and pulling the technical brains out of your team mates into great
+    documentation. Most importantly we’ll talk about the human side of code
+    review and how to manage code review within large and small teams. Code
+    review helps our teams grow institutional knowledge and shared understanding
+    of the systems we build together. A strong understanding of how to review
+    code will help you to write better code and help you help your teammates
+    to write better code.</p>"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/good-code-bad-code-code-review
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: good-code-bad-code-code-review
+  speakers:
+  - details: ''
+    img_file: missing.jpg
+    name: Matthew Borden
+    slug: matthew-borden
+    twitter: matthewborden
+    website: ''
+  title: Good Code, Bad Code & Code Review
+  year: '2018'
+- abstract: "<p>You have to write some docs. To do this, you need information
+    from other people. </p>\n
+
+    <p>Except that they're too busy, or in another office, or another timezone,
+    or they just don't want to help. What do you do?</p>\n
+
+    <p>This talk will look at the psychology behind why we often don't get the
+    help we ask for, how we can work with what we've got, and ways we can get
+    information out of unwilling participants, in spite of themselves!</p>"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/the-subtle-art-of-interrogation
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: the-subtle-art-of-interrogation
+  speakers:
+  - details: ''
+    img_file: nicola-nye.jpg
+    name: Nicola Nye
+    slug: nicola-nye
+    twitter: impishfae
+    website: https://www.fastmail.com
+  title: The subtle art of interrogation
+  year: '2018'
+- abstract: "<p>I’ll walk through how my team and I create an information
+    experience that feels human, helpful, and how we know if it’s successful.
+    Part of that experience bridges the information gap between the messages you
+    receive before you log into an Atlassian product and the messages you receive
+    in the form of:\n
+
+    <ul>\n
+    <li>Introductory states</li>\n
+    <li>Blank states</li>\n
+    <li>Directional and instructive text in the app</li>\n
+    <li>UI copy and it's connection to user expectations and perceptions</li>\n
+    <li>Documentation and how it supports different functional journeys</li>\n
+    </ul>\n
+
+    <p>We’ll cover how working ahead of time with our marketing, content,
+    and brand teams allows us to know and influence user expectations throughout
+    their early journey. We’ll also talk about how far we have yet to go.</p>"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/creating-experiences-with-information
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: creating-experiences-with-information
+  speakers:
+  - details: ''
+    img_file: daniel-stevens.jpg
+    name: Daniel Stevens
+    slug: daniel-stevens
+    twitter: dan_stevens9190
+    website: https://www.linkedin.com/in/dans9190/
+  title: Creating experiences with information!
+  year: '2018'
+- abstract: "<p>Over the course of 2018 I planned and helped execute a complete,
+    ongoing rewrite of about 1000 pages of documentation - changing the markup
+    language, the focus (feature to user story), and the structure (linear to
+    modular) - without actually being in charge of strategy, scheduling,
+    tooling, or content. \n
+
+    <p>This talk charts the process and provides recommendations for others
+    attempting to instigate massive change on multiple fronts.</p>"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/backseat-content-strategy
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: backseat-content-strategy
+  speakers:
+  - details: ''
+    img_file: laura-bailey.jpg
+    name: Laura Bailey
+    slug: laura-bailey
+    twitter: laubaiwri
+    website: ''
+  title: 'Backseat Content Strategy'
+  year: '2018'
+- abstract: "<p>Software support teams are in a tough spot. They know
+    documentation is important, and they love to refer customers to it, but finding
+    time to actually write and maintain those documents is *really* hard.</p>\n
+
+    <p>That endless support queue and its ceaseless demand for attention mean
+    that documentation is too often ignored. Mat shares his hard earned
+    practical advice to help technical writers and support team knowledge base
+    owners create a more effective documentation system.</p>\n
+
+    <p>Learn why documentation falls behind, how to reduce support writing
+    friction and how other SaaS teams have made support an engine for great
+    documentation.</p>"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/power-up-your-support-team
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: power-up-your-support-team
+  speakers:
+  - details: ''
+    img_file: matthew-patterson.jpg
+    name: Matthew Patterson
+    slug: matthew-patterson
+    twitter: mrpatto
+    website: http://mrpatto.com
+  title: Power up your support team to create better documentation
+  year: '2018'
+- abstract: "<p>This workshop is for writers who have never used, or don't
+    currently have, a Style Guide in place. We'll briefly cover the purpose and
+    importance of having a Style Guide, and then launch into creating a Style Guide
+    on the spot, through a collaborative workshop.</p>\n
+
+    <p>Participants will walk away with an initial Style Guide that can be
+    implemented and expanded upon, if desired.</p>"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/lets-create-a-style-guide
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: lets-create-a-style-guide
+  speakers:
+  - details: ''
+    img_file: sara-marek.jpg
+    name: Sara Marek
+    slug: sara-marek
+    twitter: ''
+    website: ''
+  title: Workshop - Let's create a Style Guide!
+  year: '2018'
+- abstract: "<p>As many documentation teams move towards a docs-as-code
+    workflow, most are turning to static site generators like Jekyll, Sphynx, Hugo,
+    or GitBook to turn that 'code' into user-facing documentation websites.
+    In this mini-workshop, you'll get an introduction to the static site generator
+    landscape, and apply what you learn by publishing your own site in class.
+    We'll cover:\n
+
+    <ul>\n
+    <li>How static site generators work</li>\n
+    <li>Comparison of popular generators, with guidelines for choosing one for your next project</li>\n
+    <li>Hands-on editing and publishing of your own statically generated portfolio website</li>\n
+    </ul>"
+  details: ''
+  event: Write the Docs Australia 2018
+  path: conf/australia/2018/videos/static-site-generators
+  series: Write the Docs Australia
+  series_slug: australia
+  slug: static-site-generators
+  speakers:
+  - details: ''
+    img_file: jessica-parsons.jpg
+    name: Jessica Parsons
+    slug: jessica-parsons
+    twitter: verythorough
+    website: https://www.verythorough.com
+  title: Workshop - Static Site Generators, What, Why and How
+  year: '2018'

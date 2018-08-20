@@ -1,0 +1,67 @@
+- Duration: '30'
+  Session: Doors Open and Coffee/Tea
+  Time: '8:30'
+- Duration: '10'
+  Session: Welcome to Day 2
+  Time: '9:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '9:10'
+- Duration: '30'
+  Session: "Good Code, Bad Code & Code Review \u2013 Matthew Borden"
+  Slug: matthew-borden
+  Time: '9:20'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '9:50'
+- Duration: '30'
+  Session: "The subtle art of interrogation \u2013 Nicola Nye"
+  Slug: nicola-nye
+  Time: '10:00'
+- Duration: '30'
+  Session: Morning Tea and Snack break
+  Time: '10:30'
+- Duration: '15'
+  Session: "*Lightning Talks*"
+  Time: '11:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '11:15'
+- Duration: '30'
+  Session: "Creating experiences with information \u2013 Daniel Stevens"
+  Slug: daniel-stevens
+  Time: '11:25'
+- Duration: '65'
+  Session: Lunch
+  Time: '11:55'
+- Duration: '30'
+  Session: "Backseat content strategy \u2013 Laura Bailey"
+  Slug: laura-bailey
+  Time: '13:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '13:30'
+- Duration: '30'
+  Session: "Power up your support team to create better documentation \u2013 Matthew Patterson"
+  Slug: matthew-patterson
+  Time: '13:40'
+- Duration: '20'
+  Session: Afternoon Tea and Snack Break
+  Time: '14:10'
+- Duration: '60'
+  Session: "Workshop - Let's create a Style Guide \u2013 Sara Marek"
+  Slug: sara-marek
+  Time: '14:30'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '15:30'
+- Duration: '60'
+  Session: "Workshop - Static Site Generators, What, Why and How \u2013 Jessica Parsons"
+  Slug: jessica-parsons
+  Time: '15:40'
+- Duration: '15'
+  Session: Day 2 Wrap Up
+  Time: '16:45'
+- Duration: '120'
+  Session: After Party
+  Time: '17:30'
