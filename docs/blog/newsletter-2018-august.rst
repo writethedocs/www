@@ -8,7 +8,7 @@ Write the Docs Newsletter – August 2018
 
 Hi everybody!
 
-Kelly O. here with your late summer issue of the Write the Docs newsletter! After a nice leisurely few weeks, mid-summer, things are definitely getting back into the swing of things in here docsland. Team Newsletter's back on the case. The Prague conference is sold out and will be upon us in less than 3 weeks. And happening as we speak is the first ever Cincinnati Write the Docs + Open Help event!
+Kelly O. here with your late summer issue of the Write the Docs newsletter! After a nice leisurely few weeks, mid-summer, we are definitely getting back into the swing of things in here docsland. Team Newsletter's back on the case. The Prague conference is sold out and will be upon us in less than 3 weeks. And happening as we speak is the first-ever Cincinnati Write the Docs + Open Help event!
 
 After nine wonderful talks and a day of animated unconference sessions this weekend, the inaugural event is continuing with three days of documentation sprints. We're so happy to have the opportunity to partner with Open Help and bring the community together for a slightly different style of event. Attendees have had the chance to learn from each other, contribute to some great open source projects, and, of course, enjoy each other's company out in the real world.
 
@@ -24,7 +24,7 @@ In the meantime, let's tune into some highlights from the hiatus!
 Common misconceptions about documentation
 -----------------------------------------
 
-Inspired by `Emily January Petersen's guest post <http://idratherbewriting.com/2018/07/18/stereotypes-about-tech-writers-in-workplace/>`_ on `I'd Rather Be Writing <http://idratherbewriting.com>`_, documentarians discussed some common misconceptions about our profession that they've personally experienced. As one person pointed out, **we** know that it takes more than being able to use a word processor or a text editor to be a documentarian... but what about everyone else?
+Inspired by `Emily January Petersen's guest post <http://idratherbewriting.com/2018/07/18/stereotypes-about-tech-writers-in-workplace/>`_ on `I'd Rather Be Writing <http://idratherbewriting.com>`_, documentarians discussed some common misconceptions about our profession that they've personally experienced. As one person pointed out, **we** know that it takes more than being able to use a word processor or a text editor to be a documentarian...but what about everyone else?
 
 Here are some of the unfortunately common misconceptions mentioned in Slack this month:
 
@@ -35,7 +35,7 @@ Here are some of the unfortunately common misconceptions mentioned in Slack this
 - Tech writers are just there to make docs pretty.
 - It's not a role that earns much respect or recognition.
 
-Having this conversation with a bunch of other documentarians meant there was no shortage of support and commiseration to be found. When it comes to showing other people the error of their ways, one practical suggestion was to lean on whatever analytics or reporting you have – and if you don't have any, start collecting some. Another, perhaps less serious suggestion was to just stop writing the docs for a month and see how things go then. ;)
+Having this conversation with a bunch of other documentarians meant there was no shortage of support and commiseration to be found. When it comes to showing other people the error of their ways, one practical suggestion was to lean on whatever analytics or reporting you have – and if you don't have any, start collecting some. Another perhaps less serious suggestion was to just stop writing the docs for a month and see how things go then. ;)
 
 
 *The* `#career-advice <https://writethedocs.slack.com/messages/career-advice>`_ *channel is always full of sympathetic ears and practical advice for whatever professional frustrations you may encounter.*
@@ -44,7 +44,7 @@ Having this conversation with a bunch of other documentarians meant there was no
 In the time of web-based applications, what is a page and what is a screen?
 ---------------------------------------------------------------------------
 
-An classic question of word choice arose this month: What's the difference between a "page", a "screen" – and which term should be used when?
+A classic question of word choice arose this month: What's the difference between a page and a screen - and which term should be used when?
 
 Initially, a few documentarians seemed agree that a "page" should refer to a webpage and a "screen" should refer to a software interface. However, with so many of us documenting web-based applications, that distinction quickly loses its clarity. The Microsoft Writing Style Guide was consulted, and the following guidance emerged:
 
@@ -67,7 +67,7 @@ Many documentarians wrestle with the trials, tribulations, and occasional joys o
 
 This month's conversation was by no means exhaustive or conclusive. There are so many different approaches to building an SSG publishing workflow, and a lot of enthusiasm and knowledge around the pros and cons of each. You can definitely expect to see more where this conversations came from.
 
-*Experimenting with different SSGs yourself?: Pop over to* `#static-site-generator <https://writethedocs.slack.com/messages/static-site-generator>`_ *or see if there's a dedicated channel for the particular SSG you've got your eye on.*
+*Experimenting with different SSGs yourself? Pop over to* `#static-site-generator <https://writethedocs.slack.com/messages/static-site-generator>`_ *or see if there's a dedicated channel for the particular SSG you've got your eye on.*
 
 ---------------------
 Featured job postings
@@ -81,8 +81,6 @@ Featured job postings
 -------------------------
 Upcoming community events
 -------------------------
-
-**Today, August 21** – Austin, Texas, USA – `All about open source <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/251975150/>`_
 
 August 22 – Boise, Idaho, USA – `Lightning Talks from the Confab Conference <https://www.meetup.com/Write-the-Docs-Boise/events/253170161/>`_
 
