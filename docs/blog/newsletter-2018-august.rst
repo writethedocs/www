@@ -16,7 +16,7 @@ Thanks and congratulations to all the folks who made the Cincinnati event come t
 
 Next month's issue of the newsletter will be my last as editor. Since we started the newsletter just before the 2016 Prague conference, it's been my privilege to work with our dedicated team of volunteers to put together these digests from the documentation community every month. I'm sharing all of this both to thank you all for reading over these last two years, but also to put out the call for a new editor! It's a wonderful way to give back to the Write the Docs community and you couldn't ask for a better group of folks to work alongside.
 
-If you'd be interested in learning more, drop me an email at newsletter@writethedocs.org or ping me on Slack (@kobrien042) and I'll be happy to tell you more!
+If you'd be interested in learning more, drop me an email at newsletter@writethedocs.org or ping me on Slack (@kobrien042) and I'll be happy to chat!
 
 In the meantime, let's tune into some highlights from the hiatus!
 
@@ -26,7 +26,7 @@ Common misconceptions about documentation
 
 Inspired by `Emily January Petersen's guest post <http://idratherbewriting.com/2018/07/18/stereotypes-about-tech-writers-in-workplace/>`_ on `I'd Rather Be Writing <http://idratherbewriting.com>`_, documentarians discussed some common misconceptions about our profession that they've personally experienced. As one person pointed out, **we** know that it takes more than being able to use a word processor or a text editor to be a documentarian...but what about everyone else?
 
-Here are some of the unfortunately common misconceptions mentioned in Slack this month:
+Here are some of the unfortunately common misconceptions mentioned on Slack this month:
 
 - Anyone can write good docs.
 - No one reads the docs.
@@ -51,7 +51,7 @@ Initially, a few documentarians seemed agree that a "page" should refer to a web
 * "Use page or webpage to describe one of a collection of web documents that make up a website. Use page to refer to the page the reader is on or to a specific page, such as the home page or start page." (`source <https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/page>`_)
 * "It’s OK to use screen in instructions to describe what customers see on the screen or how they interact with it." (`source <https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/screen>`_)
 
-So...not totally definitive, and certainly still rooted in the time before applications were the web and the web was applications. Other distinctions that were entertained included "pages" for static content and "screens" for interactive interfaces. Or using "pages" for longer-form layouts that scroll, and "screens" for more compact UI patterns. There are other guidelines out there, to be sure, but ultimately, whatever decision you reach on when to use "page" and when to use "screen", it's most important that you are consistent.
+So...not totally definitive, and certainly still rooted in the time before applications were the web and the web was applications. Other distinctions that were entertained included "pages" for static content and "screens" for interactive interfaces. Or using "pages" for longer-form layouts that scroll, and "screens" for more compact UI patterns. There are other guidelines out there, to be sure, but ultimately, whatever decision you reach on when to use "page" and when to use "screen", what's most important is that you are consistent.
 
 *The Microsoft Writing Style Guide is available for free online! Check it out (`here <https://docs.microsoft.com/en-us/style-guide/welcome/>`_) the next time you have a terminology question... and then ask in* `#general<https://writethedocs.slack.com/messages/C6D77HJ4F/>`_ *for a second, third, and fourth opinion.*
 
@@ -61,7 +61,7 @@ Static and sites and generators, oh my!
 
 Many documentarians wrestle with the trials, tribulations, and occasional joys of producing docs with static site generators (SSGs). For anyone new to SSGs, they're a type of publishing tool that takes documentation source files written using lightweight markup languages and processes them into web-ready HTML. A fairly lengthy conversation produced some excellent points to consider if you are thinking about adopting such a tool – or if you're already wrestling with one. The contenders this time around were Sphinx, Hugo, and Gatsby. Here's a summary of the main points:
 
-* For some folks, Sphinx's dependence on reStructuredText for a full feature suite is a blocker, because developer contributors don't want to move away from Markdown. Some dev teams, however, are willing to make the move -- it depends on your team and on your content management needs.
+* For some folks, Sphinx's dependence on reStructuredText for a full feature suite is a blocker, because developer contributors don't want to move away from Markdown. Some dev teams, however, are willing to make the move - it depends on your team and on your content management needs.
 * Others prefer Hugo to Sphinx because it seems to be more widely adopted, offers a wider range of themes from which to choose, and is more easily extensible. Extending Sphinx or developing a custom theme for Sphinx deliverables relies on in-house Python knowledge.
 * Gatsby offers broader functionality because it is built on top of React/Node and GraphQL. Unlike other SSGs, including Sphinx, it can build content drawn from multiple sources. Setting up a Gatsby pipeline can require more coding than with other SSGs, but can provide more powerful functionality if that's what you need.
 
