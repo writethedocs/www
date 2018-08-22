@@ -53,7 +53,7 @@ Initially, a few documentarians seemed agree that a "page" should refer to a web
 
 So...not totally definitive, and certainly still rooted in the time before applications were the web and the web was applications. Other distinctions that were entertained included "pages" for static content and "screens" for interactive interfaces. Or using "pages" for longer-form layouts that scroll, and "screens" for more compact UI patterns. There are other guidelines out there, to be sure, but ultimately, whatever decision you reach on when to use "page" and when to use "screen", what's most important is that you are consistent.
 
-*The Microsoft Writing Style Guide is available for free online! Check it out (`here <https://docs.microsoft.com/en-us/style-guide/welcome/>`_) the next time you have a terminology question... and then ask in* `#general<https://writethedocs.slack.com/messages/C6D77HJ4F/>`_ *for a second, third, and fourth opinion.*
+*The Microsoft Writing Style Guide is available for free online! Check it out* (`here <https://docs.microsoft.com/en-us/style-guide/welcome/>`_) *the next time you have a terminology question... and then ask in* `#general <https://writethedocs.slack.com/messages/C6D77HJ4F/>`_ *for a second, third, and fourth opinion.*
 
 ---------------------------------------
 Static and sites and generators, oh my!
@@ -76,7 +76,7 @@ Featured job postings
 `Director of Documentation <https://jobs.writethedocs.org/job/73/director-of-documentation/>`_
  MongoDB, Full-time
 
-*To apply for these jobs and more, visit the `Write the Docs job board <https://jobs.writethedocs.org/>`_.*
+*To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_ .
 
 -------------------------
 Upcoming community events
