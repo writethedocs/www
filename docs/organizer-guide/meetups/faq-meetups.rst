@@ -16,7 +16,7 @@ If you want to start a new meetup group but need assistance with the fees, pleas
 
 After 3 months we will examine the state of the new meetup group to determine the following criteria:
 
-* Whether the first meetup was well-attended and generated a potential for future meetups. As a rule of thumb, an "active" meetup group runs at least 1 meeup per quarter (or 4 meetups per year).
+* Whether the first meetup was well-attended and generated a potential for future meetups. As a rule of thumb, an "active" meetup group runs at least 1 meetup per quarter (or 4 meetups per year).
 * How many members are in the meetup group. The minimum number might change depending on which city/country the meetup is located, but generally between 20-50 members in most major cities can be expected after the first 3 months.
 
 Existing meetup groups
@@ -71,4 +71,4 @@ If you need to put out a call for help, here's a generic letter that you can use
 
 If you have a Twitter account for your meetup, you can share access through `TweetDeck <https://tweetdeck.twitter.com/>`_.
 
-Log in with your Meetup Twitter account, select the Accounts link (in the left hand navigation bar), and selet Manage Team. You should be able to add the Twitter accounts of other organizers there.
+Log in with your Meetup Twitter account, select the Accounts link (in the left hand navigation bar), and select Manage Team. You should be able to add the Twitter accounts of other organizers there.
