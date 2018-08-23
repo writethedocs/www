@@ -16,7 +16,7 @@ If you want to start a new meetup group but need assistance with the fees, pleas
 
 After 3 months we will examine the state of the new meetup group to determine the following criteria:
 
-* Whether the first meetup was well-attended and generated a potential for future meetups. As a rule of thumb, an "active" meetup group runs at least 1 meeup per quarter (or 4 meetups per year).
+* Whether the first meetup was well-attended and generated a potential for future meetups. As a rule of thumb, an "active" meetup group runs at least 1 meetup per quarter (or 4 meetups per year).
 * How many members are in the meetup group. The minimum number might change depending on which city/country the meetup is located, but generally between 20-50 members in most major cities can be expected after the first 3 months.
 
 Existing meetup groups
