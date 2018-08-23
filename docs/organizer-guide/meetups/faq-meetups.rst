@@ -71,4 +71,4 @@ If you need to put out a call for help, here's a generic letter that you can use
 
 If you have a Twitter account for your meetup, you can share access through `TweetDeck <https://tweetdeck.twitter.com/>`_.
 
-Log in with your Meetup Twitter account, select the Accounts link (in the left hand navigation bar), and selet Manage Team. You should be able to add the Twitter accounts of other organizers there.
+Log in with your Meetup Twitter account, select the Accounts link (in the left hand navigation bar), and select Manage Team. You should be able to add the Twitter accounts of other organizers there.
