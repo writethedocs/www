@@ -19,8 +19,8 @@ Schedule
 --------
 
 - Date & Time: **Friday, 16th November 2018, 2.30pm-3.30pm**.
-- Location: **Melbourne, Australia**. Find out more:
-  :doc:`/conf/australia/2018/venue`
+- Location: {{about.mainroom}} 
+- Find out more: doc:`/conf/australia/2018/venue`
 
 Prerequisites
 -------------
