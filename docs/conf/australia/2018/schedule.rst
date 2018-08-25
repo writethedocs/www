@@ -91,7 +91,7 @@ Workshop 1: Let's Create a Style Guide
 
 * **Where**: {{about.mainroom}}
 * **When**: **14:30-15:30**
-* **Details**: TBA
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/workshop-style-guide`
 
 Workshop 2: Static Site Generators, What, Why and How
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
