@@ -163,8 +163,6 @@ Conference Talks
   A detailed schedule will be announced soon.
 {% endif %}
 
-_{{shortcode}}-{{year}}-job-fair:
-
 .. _{{shortcode}}-{{year}}-job-fair:
 
 Job Fair

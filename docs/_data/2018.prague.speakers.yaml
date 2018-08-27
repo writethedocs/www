@@ -64,31 +64,6 @@
     website: ''
   title: Learning to love release notes
   year: '2018'
-- abstract: "<p>User interviews are employed at many stages of product development, user
-    experience research, and marketing. They can also be used as a basis for
-    persuasive and technical writing. With an interview, you have a chance to draw
-    out stories about user experiences. Sharing their stories of change will put
-    the reader at the centre of their own hero story, where you can show how your
-    tools will empower them. In this talk, I\u2019ll demonstrate practical interview
-    techniques you can use right now. If you\u2019re not using interviews as part of
-    your practice, you\u2019ll leave this talk inspired to talk with users and prepared
-    to conduct quick interviews that make a big impact.</p>"
-  details: ''
-  event: Write the Docs Prague 2018
-  name: Heather McNamee
-  path: conf/prague/2018/videos/how-to-interview-users-to-draw-out-the-stories-behind-the-tools
-  series: Write the Docs Prague
-  series_slug: prague
-  slug: how-to-interview-users-to-draw-out-the-stories-behind-the-tools
-  speakers:
-  - details: ''
-    img_file: heather-mcnamee.jpg
-    name: Heather McNamee
-    slug: heather-mcnamee
-    twitter: ''
-    website: ''
-  title: How to interview users to draw out the stories behind the tools
-  year: '2018'
 - abstract: "<p>In a world of legacy content, how do we resolve the issue of technical\
     \ debt in our documentation? </p>\n<p>As technical communicators, it\u2019s very easy\
     \ to get caught up in the cycle of moving from one release to another without\
