@@ -1,5 +1,5 @@
-What started as an unofficial, community-organized activity 4 years ago at the first Prague conference, has since become a traditional part of our conferences.
-To participate in the badge flair contest, just decorate your badge and tweet a photo, and you might win a prize!
+What started as an unofficial, community-organized activity 4 years ago at the first Prague conference, the badge flair contest has since become a traditional part of our conferences.
+Just decorate your badge, tweet a photo, and you might win a prize!
 
 How to participate
 ------------------
