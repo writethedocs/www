@@ -58,11 +58,12 @@ and are gaining adoption in the writing community.
 .. _Margaret Eker and Jennifer Roundeau: https://www.youtube.com/watch?v=JvRd7MmAxPw
 .. _Rachel Whitten: https://www.youtube.com/watch?v=dHdBsNxtKeI
 
-*Docs as Code* at other Conferences and Video Casts
+*Docs as Code* at other Conferences, Video Casts and Articles
 ---------------------------------------------------
 
 The approach has been presented at several other conferences or just video casts by different speakers.
 
 * I'd rather be writing: Tom Johnson: https://www.youtube.com/watch?v=Z3e_38WS-2Q
 * Greach, Madrid, Spain: Ralf D. Müller: https://www.youtube.com/watch?v=GkXpe-tZtNg
-
+* JavaMagazin: Gernot Starke, Ralf D. Müller: https://jaxenter.de/tag/hhgdc (German)
+* Software Architecture Summit 2017, Berlin, Germany: Half-Day-Workshop: https://software-architecture-summit.de/softwarearchitektur/hitchhikers-guide-to-architecture-documentation/
