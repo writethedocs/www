@@ -27,6 +27,10 @@ There are a couple books we recommend that you check out:
 
 * `Docs Like Code <https://www.amazon.com/Docs-Like-Code-Anne-Gentle-ebook/dp/B0784ZJWSR/ref=sr_1_1?ie=UTF8&qid=1525644637&sr=8-1&keywords=docs+like+code>`_ - Anne Gentle
 * `Modern Technical Writing <https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS>`_ - Andrew Etter
+
+In addition, there is an open source tool-chain which shows how the docs-as-code approach can be implemented
+
+* `docToolchain <https://doctoolchain.github.io/docToolchain/>`_ 
     
 *Docs as Code* at Write the Docs
 ----------------------------------
@@ -53,3 +57,12 @@ and are gaining adoption in the writing community.
 .. _panel: https://www.youtube.com/watch?v=Y2TGwUPb8R4
 .. _Margaret Eker and Jennifer Roundeau: https://www.youtube.com/watch?v=JvRd7MmAxPw
 .. _Rachel Whitten: https://www.youtube.com/watch?v=dHdBsNxtKeI
+
+*Docs as Code* at other Conferences and Video Casts
+---------------------------------------------------
+
+The approach has been presented at several other conferences or just video casts by different speakers.
+
+* I'd rather be writing: Tom Johnson: https://www.youtube.com/watch?v=Z3e_38WS-2Q
+* Greach, Madrid, Spain: Ralf D. Müller: https://www.youtube.com/watch?v=GkXpe-tZtNg
+
