@@ -63,7 +63,13 @@ and are gaining adoption in the writing community.
 
 The approach has been presented at several other conferences or just video casts by different speakers.
 
+**2017**
+
+* Software Architecture Summit 2017, Berlin, Germany: Gernot Starke, Ralf D. Müller: https://software-architecture-summit.de/softwarearchitektur/hitchhikers-guide-to-architecture-documentation/ (Half-Day-Workshop)
+
+**2018**
+
 * I'd rather be writing: Tom Johnson: https://www.youtube.com/watch?v=Z3e_38WS-2Q
 * Greach, Madrid, Spain: Ralf D. Müller: https://www.youtube.com/watch?v=GkXpe-tZtNg
 * JavaMagazin: Gernot Starke, Ralf D. Müller: https://jaxenter.de/tag/hhgdc (German)
-* Software Architecture Summit 2017, Berlin, Germany: Half-Day-Workshop: https://software-architecture-summit.de/softwarearchitektur/hitchhikers-guide-to-architecture-documentation/
+* FrOSCon, Sankt Augustin, Germany: Christoph Stoettner: https://media.ccc.de/v/froscon2018-2192-documentation_with_any_editor
