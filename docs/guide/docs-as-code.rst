@@ -65,11 +65,11 @@ The approach has been presented at several other conferences or just video casts
 
 **2017**
 
-* Software Architecture Summit 2017, Berlin, Germany: Gernot Starke, Ralf D. Müller: https://software-architecture-summit.de/softwarearchitektur/hitchhikers-guide-to-architecture-documentation/ (Half-Day-Workshop)
+* Software Architecture Summit 2017, Berlin, Germany: Gernot Starke, Ralf D. Müller: `Hitchhiker’s Guide to Architecture Documentation <https://software-architecture-summit.de/softwarearchitektur/hitchhikers-guide-to-architecture-documentation/>`_. (Half-Day-Workshop)
 
 **2018**
 
-* I'd rather be writing: Tom Johnson: https://www.youtube.com/watch?v=Z3e_38WS-2Q
-* Greach, Madrid, Spain: Ralf D. Müller: https://www.youtube.com/watch?v=GkXpe-tZtNg
-* JavaMagazin: Gernot Starke, Ralf D. Müller: https://jaxenter.de/tag/hhgdc (German)
-* FrOSCon, Sankt Augustin, Germany: Christoph Stoettner: https://media.ccc.de/v/froscon2018-2192-documentation_with_any_editor
+* I'd rather be writing: Tom Johnson: `Docs as code tools and workflows presentation <https://www.youtube.com/watch?v=Z3e_38WS-2Q>`_
+* Greach, Madrid, Spain: Ralf D. Müller: `Docs as code: arc42, AsciiDoc, Gradle & Co combined <https://www.youtube.com/watch?v=GkXpe-tZtNg>`_
+* JavaMagazin: Gernot Starke, Ralf D. Müller: `Hitchhiker’s Guide to Docs as Code <https://jaxenter.de/tag/hhgdc>`_ (German)
+* FrOSCon, Sankt Augustin, Germany: Christoph Stoettner: `Documentation with any Editor <https://media.ccc.de/v/froscon2018-2192-documentation_with_any_editor>`_
