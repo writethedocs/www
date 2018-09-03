@@ -55,7 +55,7 @@ Filled Roles
 * **Sponsorship lead** - Eric Holscher
 * **Job Fair coordinator** - Eric Holscher
 * **Boat ride coordinator** - Mikey Ariel
-* **Unconference coordinator** - Keyllo O'Brien
+* **Unconference coordinator** - Kelly O'Brien
 * **Welcome Wagon coordinators** - Beth Aitman and Daniel Beck
 * **Social media chair** - Chris Ward
 * **Explore Prague coordinator** - Jakub Mikulas
