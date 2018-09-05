@@ -98,7 +98,7 @@ Workshop 2: Static Site Generators, What, Why and How
 
 * **Where**: {{about.mainroom}}
 * **When**: **15:40-16:40**
-* **Details**: TBA
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/workshop-ssg`
 
 Unconference
 ~~~~~~~~~~~~
