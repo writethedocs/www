@@ -29,12 +29,9 @@ Schedule
 Prerequisites
 -------------
 
-- Bring a laptop with an internet connection to participate in the hands-on
-portion of the workshop.
+- Bring a laptop with an internet connection to participate in the hands-on portion of the workshop.
 
-- For ease of setup, we'll be using the GitHub web UI to work on the websites
- we'll create in the workshop. You don't need to know anything about Git, but
- you will need to have a GitHub [https://github.com/] account (free).
+- For ease of setup, we'll be using the GitHub web UI to work on the websites we'll create in the workshop. You don't need to know anything about Git, but you will need to have a GitHub [https://github.com/] account (free).
 
 - No programming experience required.
 
