@@ -1,5 +1,4 @@
 :template: {{year}}/generic.html
-:banner: _static/{{year}}/assets/headers/venue.png
 
 .. post:: Sep 4, 2018
    :tags: practical info, prague-2018
