@@ -17,7 +17,7 @@ Be Prepared
 * **Read the Welcome Wagon Guide.** Our `Welcome Wagon Guide <http://www.writethedocs.org/conf/prague/2018/welcome-wagon/>`_ is packed full of information on how to get the most out of the conference. There will also be a few Welcome Wagon events that will help you learn more about the conference.
 * **Review the schedule.** The `Schedule Page <http://www.writethedocs.org/conf/prague/2018/schedule/>`_ has the latest and most complete information about the presentations and activities. This is where we will also update any changes or cancellations if they occur.
 * **Review the Code of Conduct.** We have a wonderful community full of diverse and amazing people. We expect everyone to behave in a respectful manner at all conference events and online channels. Our `Code of Conduct <http://www.writethedocs.org/code-of-conduct/>`_ boils down to "Be excellent to each other", but the `full text <http://www.writethedocs.org/code-of-conduct>`_ is also available. Our mobile numbers and email addresses are on that page if you ever need to contact us.
-* **Review the Venue information.** Our `Venue page <http://www.writethedocs.org/conf/prague/2018/venue/`_ for information about accessibility and orientation. If you have any specific accessibility questions, please email us at prague@writethedocs.org and we will be happy to do our best to make the event as accessible as possible. This year we are launching *live captioning* for all presentations, and priority accessibility seating will be available near the stage.
+* **Review the Venue information.** Our `Venue Page <http://www.writethedocs.org/conf/prague/2018/venue/>`_ for information about accessibility and orientation. If you have any specific accessibility questions, please email us at prague@writethedocs.org and we will be happy to do our best to make the event as accessible as possible. This year we are launching *live captioning* for all presentations, and priority accessibility seating will be available near the stage.
 
 Get Involved
 ------------
@@ -37,10 +37,10 @@ Find Your Way Around
 Have Fun
 --------
 
-* **Join us for the boat ride.** If you're planning to come for the `hike <http://www.writethedocs.org/conf/prague/2018/outing/>`_ on Saturday at *13:45*, make sure you `register in advance <https://ti.to/writethedocs/write-the-docs-prague-2018/>`_ . **We are almost at capacity for the boat**, so if you're on the fence, grab your ticket now! Registrations for the boat ride will close on *Friday, September 7th*.
+* **Join us for the boat ride.** If you're planning to come for the `boat ride <http://www.writethedocs.org/conf/prague/2018/outing/>`_ on Saturday at *13:45*, make sure you `register in advance <https://ti.to/writethedocs/write-the-docs-prague-2018/>`_ . **We are almost at capacity for the boat**, so if you're on the fence, grab your ticket now! Registrations for the boat ride will close on *Friday, September 7th*.
 * **Pre-register at the welcome reception.** The meet-and-greet event will be held on Sunday from *17:00-20:00*. You can pick up your badge and enjoy a drink and a snack on us. This is a great chance to meet your fellow documentarians before the conference starts.
 * **Relax at the social event on Monday night.** This is a private evening event only for conference attendees. Plan to attend so you can get to know folks in the community. We will be at `Hoffa Bar, Senovážné Náměstí 22, Prague 1 <https://goo.gl/maps/b1egvQhoDxt>`_ on *Monday evening from 20:00*, with free snacks and drinks.
-* **Participate in the badge flair contest.** What started as an unofficial activity is now a conference tradition. The `Badge Flair Contest <http://www.writethedocs.org/conf/prague/2018/badge-flair/`_ is a fun way to make the most out of your badge flair. We look forward to seeing your creative decorations!
+* **Participate in the badge flair contest.** What started as an unofficial activity is now a conference tradition. The `Badge Flair Contest <http://www.writethedocs.org/conf/prague/2018/badge-flair/>`_ is a fun way to make the most out of your badge flair. We look forward to seeing your creative decorations!
 
 Share the Love
 --------------
