@@ -5,7 +5,7 @@ Workshop: Static Site Generators, What, Why and How!
 =====================================================
 
 As many documentation teams move towards a docs-as-code workflow, most are
-turning to static site generators like Sphynx, Jekyll, Hugo, or Gatsby to turn
+turning to static site generators like Sphinx, Jekyll, Hugo, or Gatsby to turn
 that "code" into user-facing documentation websites.
 
 In this mini-workshop, you’ll get an introduction to the static site generator
