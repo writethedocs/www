@@ -67,6 +67,7 @@ We have a few guidelines that we hope people will follow when interacting inside
 - **Don't be snarky** - We are all trying the best we can.
 - **Be careful with jokes** - You know that you're joking, but some people might take you seriously.
 - **If you don't have anything nice to say, don't say anything at all** - Once again our parents were quite wise.
+- **Use inclusive language** - Our community is multicultural, multiracial, multigendered, and generally diverse. When posting in channels, avoid using words such as "guys" to address a mixed group. Possible alternatives: "folks", "everyone", "documentarians".
 
 Online Community Issues
 ~~~~~~~~~~~~~~~~~~~~~~~
