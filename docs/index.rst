@@ -5,6 +5,8 @@
    :author: Write the Docs
    :geo.placename: Worldwide
 
+**Write the Docs Prague is happening now!** Go to the :doc:`schedule <conf/prague/2018/schedule>`!
+
 Welcome to our community!
 =========================
 
