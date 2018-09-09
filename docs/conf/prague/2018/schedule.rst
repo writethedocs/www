@@ -180,5 +180,5 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **14:50-16:30**
+* **When**: **12:10-15:30**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
