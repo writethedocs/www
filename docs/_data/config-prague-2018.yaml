@@ -97,7 +97,7 @@ flagticketsonsale: False
 flagspeakersannounced: True
 flaghasschedule: True
 flagwelcomewagon: True
-
+flaglivestreaming: True
 
 flaghashike: False
 flaghasboat: True
