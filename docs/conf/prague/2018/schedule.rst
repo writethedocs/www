@@ -171,7 +171,7 @@ Job Fair
 New in 2018! We'll be holding a job fair on Tuesday morning!
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **10:30-12:10**
+* **When**: **10:30-11:50**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
 
 Unconference
