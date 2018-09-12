@@ -55,6 +55,7 @@ Members
 
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_ *
 * `Neal Kaplan <https://twitter.com/nealkaplan>`_
+* `Mike Jang <https://twitter.com/themikejang>`_
 * `Eric Holscher <https://twitter.com/ericholscher>`_
 
 
