@@ -9,3 +9,4 @@ Video Archive
    eu/*/index
    na/*/index
    portland/*/index
+   prague/*/index
