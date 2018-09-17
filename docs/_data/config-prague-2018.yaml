@@ -82,6 +82,8 @@ about:
     Main Ballroom
   unconfroom:
     Unconference Room, across from the Main Ballroom
+  photos: https://www.flickr.com/photos/writethedocs/sets/72157695294209550
+  videos: https://www.writethedocs.org/videos/prague/2018/
 
 cfp:
   url: https://goo.gl/forms/M6YjhBgmCEwOwrzP2
@@ -97,7 +99,8 @@ flagticketsonsale: False
 flagspeakersannounced: True
 flaghasschedule: True
 flagwelcomewagon: False
-flaglivestreaming: True
+flaglivestreaming: False
+flagvideos: true
 
 flaghashike: False
 flaghasboat: True

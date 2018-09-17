@@ -70,7 +70,7 @@
     <div class="footer-head">
         <div class="uk-container">
         {% block footerhead %}
-                {% if flagticketsonsale or flagcfp or flagspeakersannounced %}
+                {% if flagticketsonsale or flagcfp or flagspeakersannounced and not flagvideos %}
                 <h3>Join us now!</h3>
                 {% endif %}
 
@@ -87,7 +87,7 @@
 
                 {% endif %}
 
-                {% if flagspeakersannounced %}
+                {% if flagspeakersannounced and not flagvideos %}
 
                 <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/speakers') }}">See the talks!</a>
 
@@ -98,6 +98,13 @@
                 <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/' + shortcode + '/' + year|string + '/welcome-wagon') }}">Prepare with the Welcome Wagon</a>
 
                 {% endif %}
+
+                {% if flagvideos %}
+
+                <a class="uk-button uk-button-default uk-text-center" href="https://slack.writethedocs.org">Join the WTD Slack!</a>
+
+                {% endif %}
+
 
         {% endblock %}
         </div>

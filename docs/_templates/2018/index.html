@@ -75,7 +75,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
 
          {% endif %}
 
-         {% if flagspeakersannounced %}
+         {% if flagspeakersannounced and not flagvideos %}
 
          <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/speakers') }}">See the talks!</a>
 
@@ -95,6 +95,8 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
 
          {% if flagvideos %}
 
+         <a class="uk-button uk-button-secondary uk-text-center" href="{{ about.photos }}">Browse the photos!</a>
+
          <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('videos/' + shortcode + '/2018') }}">Watch the videos!</a>
 
          {% endif %}
@@ -109,7 +111,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
   <div class="announcement">
     <div class="uk-container">
       <p style="vertical-align: middle;">
-        The Portland 2018 conference is now over.
+        The {{ city}} {{year}} conference is now over.
         Thanks for coming!
       </p>
     </div>
