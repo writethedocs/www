@@ -26,7 +26,7 @@ The writing day, for example, picked up a lot of interest this year, and we're n
 Overall, we were so excited to see another conference come together and see our awesome community gather under one roof.
 
 Videos and photos
-==============
+=================
 
 Videos of all the talks are now available `in our video archive <http://www.writethedocs.org/videos/prague/2018/>`__.
 Thanks to `Here to Record <https://heretorecord.com/>`__ for doing such a great job with these.
