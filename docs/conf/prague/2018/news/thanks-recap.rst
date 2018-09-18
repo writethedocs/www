@@ -42,8 +42,17 @@ And finally, several community members have been writing up their experiences at
 Code of Conduct transparency report
 ===================================
 
-As with any Write the Docs event, this conference was covered by our `community Code of Conduct <http://www.writethedocs.org/code-of-conduct/>`__. 
+As with any Write the Docs event, this conference was covered by our `community Code of Conduct <http://www.writethedocs.org/code-of-conduct/>`__.
 We aim to be as transparent with CoC incidents and enforcement as we can.
+
+To ensure that our CoC was visible and accessible, we took a number of specific steps:
+
+- Every participant agreed to the Code of Conduct in advance.
+- The CoC, or a summary, was included on the conference website, conference booklet, and in posters around the conference venue.
+- The CoC was repeatedly mentioned in announcements on the stage.
+- We specifically stressed that the CoC applies to all conference spaces including the social event, and therefore attendees should drink responsibly.
+- We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.
+
 None of our organizers were approached about any CoC concerns at this event.
 We know that this is, in part, a reflection of the thoughtful and inclusive community that we're so lucky to have.
 
