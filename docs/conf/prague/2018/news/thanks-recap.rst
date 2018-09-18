@@ -4,8 +4,8 @@
 .. post:: Sept 18, 2018
    :tags: recap, thanks, prague-2018
 
-Prague conference highlights and thanks to the community!
----------------------------------------------------------
+Highlights and thanks from the Prague conference
+------------------------------------------------
 
 Hello everyone,
 
@@ -23,10 +23,10 @@ We received a lot of positive feedback on all of these and are excited to carry 
 We also had some interesting feedback on some things we might improve for next time.
 The writing day, for example, picked up a lot of interest this year, and we're now looking at providing more in-depth guidance on how to get the most out of the sessions.
 
-Overall, we were so excited to see another conference come together and see our awesome community gather out in the physical world.
+Overall, we were so excited to see another conference come together and see our awesome community gather under one roof.
 
-Videos, photos, and write-ups
-=============================
+Videos and photos
+==============
 
 Videos of all the talks are now available `in our video archive <http://www.writethedocs.org/videos/prague/2018/>`__.
 Thanks to `Here to Record <https://heretorecord.com/>`__ for doing such a great job with these.
@@ -36,8 +36,6 @@ so you don't miss any future content!)
 
 We also have photos from the event available on `Flickr <https://www.flickr.com/photos/writethedocs/albums/72157695294209550>`_, thanks to our wonderful photographer `Kay Smoljak <https://twitter.com/goatlady>`_!
 We really love the photos each year, and you're welcome to use them for non-commercial purposes, as per our `Creative Commons License <https://creativecommons.org/licenses/by-nc-sa/2.0/>`_.
-
-And finally, several community members have been writing up their experiences at the conference and sharing them in the `wtd-conferences channel on the Write the Docs Slack <https://writethedocs.slack.com/archives/wtd-conferences>`__. If you missed the conference (or are just curious about how your experience compares to others'), check out the discussions there.
 
 Code of Conduct transparency report
 ===================================
@@ -61,8 +59,8 @@ That being said, we're also very conscious of the fact that just because nothing
 Ready for more?
 ===============
 
-Don't forget we still have our 2nd `Australia conference <http://www.writethedocs.org/conf/australia/2018/>`__ in November.
-Tickets are still available and the list of talks is now published on their website.
+We still have our second `Australia conference <http://www.writethedocs.org/conf/australia/2018/>`__ in November.
+Tickets are still available and the list of talks is now published on the website.
 
 Thanks again
 ============
