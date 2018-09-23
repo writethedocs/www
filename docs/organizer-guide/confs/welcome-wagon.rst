@@ -31,10 +31,10 @@ Events
 These are the Welcome Wagon events that you will coordinate and run at the Write the Docs conference.
 
 * Meet and Greet
-   * What: This is a short event that introduces the WW and reviews how to get the most out of the conference with first-time attendees.
+   * What: A short introduction to the WW and reviews how to get the most out of the conference with first-time attendees.
    * Where: In a space close to the Opening Reception, but not in the same room (so you don’t have to shout over the party). For example, at the Portland WTD, the Meet and Greet happens in the Crystal Ballroom while the Opening Reception happens downstairs in Lola’s room. In Prague, the Meet and Greet happens in the foyer in front of the cloakroom, while the Opening Reception happens upstairs.
-   * When: At the beginning of the Opening Reception.
-* Conference venue tour
+   * When: The beginning of the Opening Reception.
+* Venue tour
    * What: This is a tour of the venue so first-timers can find their way around.
    * Where: Meet in a central place, like near the registration table.
    * When: The first morning of the conference, about 30 minutes before the opening remarks.
@@ -45,21 +45,21 @@ These are the Welcome Wagon events that you will coordinate and run at the Write
 * Check-in
    * What: This event is a short meetup in the morning on the second day of the conference to check in with first-time attendees.
    * Where: Someplace visible to arriving attendees, such as near the registration desk.
-   * When: The second morning of the conference, about 30 minutes before the first speech.
+   * When: The second morning of the conference, about 30 minutes before the first talk.
 
 What do I need to do before the conference?
 -------------------------------------------
 
 * Get access to the WTD Trello board, and add cards to track Welcome Wagon tasks.
 * Decide the time and place for all WW events.
-* Submit PRs to the `WWW GitHub repo <https://github.com/writethedocs/www>`_ to update the conference website information.
+* Submit pull requests to the `writethedocs/www GitHub repo <https://github.com/writethedocs/www>`_ to update the conference website information.
    * Change the locations, dates, and times for WW events in the WW guide.
    * Add WW events to the main conference schedule.
 * Contact the WTD communications team and ask them to include links to the WW info in conference emails.
-   * Something new to try: Ask the WTD team if a checkbox field could be added to WTD registration, which attendees can select if they are first-time attendees. Get the list of first-time attendees, and send them an email about WW events.
+   * Something new to try: ask the WTD team if a checkbox field could be added to WTD registration, which attendees can select if they are first-time attendees. Get the list of first-time attendees, and send them an email about WW events.
    * If the above isn’t an option, ask the WTD team if one of the conference newsletters could be focused on WW events.
 * Maintain a presence in the #wtd-conferences, #welcomewagon, and city-specific Slack channel.
-* Coordinate with the design team to print W W signs that reflect the dates and times of each WW event.
+* Coordinate with the design team to print WW signs that reflect the dates and times of each WW event.
 *	Summarize info from the WW guide and prepare notes to have on hand during the Meet and Greet.
 *	Depending on the size of the conference, arrange for more WW volunteers for the Meet and Greet.
 
@@ -76,7 +76,7 @@ Meet and Greet
 *	When you start the Meet and Greet, introduce yourself and the WW events.
 *	If there are more than about a dozen attendees, split up the attendees into smaller groups and have each WW volunteer lead a group: review all of the information from your notes, take questions, and have first-time attendees introduce themselves to each other.
 *	At the end of the Meet and Greet, each volunteer should walk with their group to the Opening Reception. This is also a good time for a tour of the venue.
-*	At the Opening Reception, Welcome Wagon volunteers, if they are comfortable with it, can approach attendees who are alone to help make them feel involved at the event. A great icebreaker is, “Is this your first Write the Docs?” Even if it isn’t, it is a good way to get a conversation started. If the attendee seems comfortable not talking or being alone at the event, by all means, let them be.
+*	At the Opening Reception, Welcome Wagon volunteers, if they are comfortable with it, can approach attendees who are alone to help make them feel involved at the event. A great icebreaker is, “Is this your first Write the Docs?” Even if it isn’t, it is a good way to get a conversation started. If the attendee seems comfortable not talking or being alone at the event, then let them be.
 
 Conference venue tour
 ~~~~~~~~~~~~~~~~~~~~~
@@ -101,6 +101,6 @@ Ongoing Support
 ~~~~~~~~~~~~~~~
 
 *	For the rest of the conference, be a recognizable face who is always available for questions and to help.
-*	Sometimes, first-time attendees are nervous to start an unconference session or give a lightning talk. Be encouraging ad supportive to first-timers, and volunteer to attend their unconference, if it would help.
+*	Sometimes, first-time attendees are nervous to start an unconference session or give a lightning talk. Be encouraging and supportive to first-timers, and volunteer to attend their unconference, if it would help.
 *	Attend all evening WTD social events so you can help get conversations started for new attendees.
 *	Since you will be meeting many of the attendees, if you meet two people with similar interests, you can make an introduction and facilitate conversation. If there are any other ways you come up with to curate connections, pass on your ideas!
