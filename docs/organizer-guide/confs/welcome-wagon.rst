@@ -38,8 +38,8 @@ These are the Welcome Wagon events that you will coordinate and run at the Write
    * What: This is a tour of the venue so first-timers can find their way around.
    * Where: Meet in a central place, like near the registration table.
    * When: The first morning of the conference, about 30 minutes before the opening remarks.
-* Unconference
-   * What: Schedule an unconference for any first-time attendees who missed the Meet and Greet.
+* Unconference (Optional)
+   * What: Schedule an unconference for any first-time attendees who missed the Meet and Greet. For smaller conferences, consider this event optional; if attendance in venue tours is low, then you may want to skip this and make yourself available for questions in a high-traffic area instead.
    * Where: Any unconference table.
    * When: First unconference session available on the first day of the conference.
 * Recap
@@ -85,8 +85,8 @@ Conference venue tour
 *	Give a quick tour of the conference venue and a short review of conference events.
 *	Take any questions.
 
-Unconference
-~~~~~~~~~~~~
+Unconference (Optional)
+~~~~~~~~~~~~~~~~~~~~~~~
 
 *	Schedule an unconference for the first session available on the first day.
 *	Review information from the Meet and Greet and answer any questions.
