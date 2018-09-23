@@ -32,7 +32,7 @@ These are the Welcome Wagon events that you will coordinate and run at the Write
 
 * Meet and Greet
    * What: This is a short event that introduces the WW and reviews how to get the most out of the conference with first-time attendees.
-   * Where: In a space close to the Opening Reception, but not in the same room (so you don’t have to shout over the party). For example, at the Portland WTD, the Meet and Greet happens in the Crystal Ballroom while the Opening Reception happens downstairs in Lola’s room.
+   * Where: In a space close to the Opening Reception, but not in the same room (so you don’t have to shout over the party). For example, at the Portland WTD, the Meet and Greet happens in the Crystal Ballroom while the Opening Reception happens downstairs in Lola’s room. In Prague, the Meet and Greet happens in the foyer in front of the cloakroom, while the Opening Reception happens upstairs.
    * When: At the beginning of the Opening Reception.
 * Conference venue tour
    * What: This is a tour of the venue so first-timers can find their way around.
