@@ -42,9 +42,9 @@ These are the Welcome Wagon events that you will coordinate and run at the Write
    * What: Schedule an unconference for any first-time attendees who missed the Meet and Greet. For smaller conferences, consider this event optional; if attendance in venue tours is low, then you may want to skip this and make yourself available for questions in a high-traffic area instead.
    * Where: Any unconference table.
    * When: First unconference session available on the first day of the conference.
-* Recap
+* Check-in
    * What: This event is a short meetup in the morning on the second day of the conference to check in with first-time attendees.
-   * Where: In a space where you can talk, like the unconference room.
+   * Where: Someplace visible to arriving attendees, such as near the registration desk.
    * When: The second morning of the conference, about 30 minutes before the first speech.
 
 What do I need to do before the conference?
@@ -91,10 +91,10 @@ Unconference (Optional)
 *	Schedule an unconference for the first session available on the first day.
 *	Review information from the Meet and Greet and answer any questions.
 
-Recap
-~~~~~~~~~~~~~~~~~~
+Check-in
+~~~~~~~~
 
-*	Wait in the place you scheduled for the recap.
+*	Wait in the place you scheduled for the check-in.
 *	Ask first-time attendees how their first day went. See if they have any new questions for their second day.
 
 Ongoing Support
