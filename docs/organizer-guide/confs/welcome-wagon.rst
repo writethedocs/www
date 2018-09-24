@@ -23,7 +23,7 @@ As a WW volunteer, you represent WTD before and during the conference to make th
 
 Your most important function as a WW volunteer is to be available for any questions or any help at any time. You are a recognizable face that can make the conference easy and fun for first-timers.
 
-The WW volunteers have previously attended a Write the Docs conference and, ideally, are  locals to the city where the conference held.
+The WW volunteers have previously attended a Write the Docs conference and, ideally, are locals to the city where the conference is held.
 
 Events
 ------
