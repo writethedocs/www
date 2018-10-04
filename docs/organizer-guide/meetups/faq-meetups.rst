@@ -22,7 +22,7 @@ After 3 months we will examine the state of the new meetup group to determine th
 Existing meetup groups
 ~~~~~~~~~~~~~~~~~~~~~~
 
-If you already started a meetup group yourself and successfully ran several well-attended meetups, you can `contact us <mailto:support@writethedocs.org>`_ and we will take over the meetup fees. To transfer ownership of the meetup group, you use the `Step down as organizer <https://www.meetup.com/help/topics/19/article/465025/>`_ process and nominate the Write the Docs account as new organizer. After the transfer, we will assign you the co-organizer role, which lets you have full control over the specific meetup group without handling finances or global operations.
+If you already started a meetup group yourself and successfully ran several well-attended meetups, you can `contact us <mailto:support@writethedocs.org>`_ and we will take over the meetup fees. To transfer ownership of the meetup group, you use the `Step down as organizer <https://help.meetup.com/hc/en-us/articles/360002882191-How-do-I-step-down-as-organizer->`_ process and nominate the Write the Docs account as new organizer. After the transfer, we will assign you the co-organizer role, which lets you have full control over the specific meetup group without handling finances or global operations.
 
 Basic vs. Unlimited meetup subscriptions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
