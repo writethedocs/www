@@ -33,7 +33,7 @@ The general consensus was to strike a balance by including the prompt character 
 Resources for planning out your information architecture
 --------------------------------------------------------
 
-Oftentimes, when tackling a new docs project, one of the biggest challenges can be figuring out how to approach your information architecture. This month, a user came to the WTD hivemind for help with this very problem. Many of the good documentarians of Slack jumped in to share an excellent array of IA and user testing resources:
+Often, when tackling a new docs project, one of the biggest challenges can be figuring out how to approach your information architecture. This month, a user came to the WTD hivemind for help with this very problem. Many of the good documentarians of Slack jumped in to share an excellent array of IA and user testing resources:
 
 * `Optimal Workshop <https://www.optimalworkshop.com>`_: suite of user research tools and services to help improve UX (folks specifically recommended their OptimalSort card sorting tool)
 * `Complete Beginner’s Guide to Information Architecture <http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/>`_: UX Booth article
@@ -61,9 +61,9 @@ Challenges:
 
 Of course, there are those of us who use non-developer driven task management tools – either instead of or in addition to those tools – such as Trello, Asana, or Flow.
 
-While we may use different tools, all that matters in the end is that you utilize a task management tool (or tool set) that works for you! 
+While we may use different tools, what matters in the end is that you utilize a task management tool (or tool set) that works for you! 
 
-*Have more thoughts and feelings about your toolset? Come share them in* `#doctools <https://writethedocs.slack.com/messages/doctools>`_ *or one of the many tool-specific channels we have on Slack.*
+*Have more thoughts about your toolset? Come share them in* `#doctools <https://writethedocs.slack.com/messages/doctools>`_ *or one of the many tool-specific channels we have on Slack.*
 
 -----------------------
 Show us your workflows!
