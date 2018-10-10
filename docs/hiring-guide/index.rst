@@ -1,6 +1,6 @@
-============
-Hiring Guide
-============
+=================================
+Guide to Hiring and Getting Hired
+=================================
 
 Welcome! This guide aims to help those looking to hire documentarians find the perfect candidate, and to help job-seeking documentarians find the perfect position.
 Its content focuses on tricky points in the process of hiring a documentarian.
