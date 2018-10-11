@@ -10,6 +10,7 @@ Learning Resources
    /videos
    /podcast
    /organizer-guide/index
+   /hiring-guide/index
    /guide/index
 
 Newsletter
@@ -40,3 +41,9 @@ Organizer Guide
 A set of resources for folks who want to organize a Write the Docs Meetup, Conference, or Event.
 
 You can check it out :doc:`/organizer-guide/index` here.
+
+Guide to Hiring and Getting Hired
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This is a growing set of resources for those who want to hire or be hired as a documentarian.
+
+You can check out the :doc:`/hiring-guide/index` here.
