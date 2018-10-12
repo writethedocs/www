@@ -54,28 +54,32 @@ Ship the newsletter (no days before shipping)
 Once you've finalized the newsletter in GitHub, you'll use MailChimp to send it out. You'll need the a MailChimp login, and to be added to the Write the Docs organization.
 
 #. Login to MailChimp
-#. Click the big 'ol **Create Campaign** button.
-#. On the next screen, choose **Create an email**.
+#. Click the **Create** or **Create Campaign** button.
+#. On the next screen, choose **Email**.
 #. Name the campaign 'Write the Docs Newsletter - [MONTH - YEAR]'
-#. On the 'Recipient' screen, select **Saved or pre-built segment**, and then **Newletter folks**.
-#. Click **Next**.
-#. On the next screen fill the form out as follows:
-   * **Email Subject**: Write the Docs Newsletter - [MONTH - YEAR]
-   * **Preview  Text**: First two sentences of the newsletter (ish – whatever makes a nice intro).
-   * **From name**: Write the Docs
-   * **From email**: newsletter@writethedocs.org
-   * **Campaign URL**: edit the end of the URL to reflect the current month and year
-   * Leave **Track Opens** and **Track Clicks** checked.
-#. Click **Next** button.
-#. Select the 'WTD Newsletter 2017' template.
-#. Click the **Next** button.
+#. In the 'To' section, click **Add recipients**.
+#. From the **List** dropdown select 'Write the Docs Community`.
+#. From **Segment or tag** choose 'Newsletter folks'.
+#. Click the **Save** button.
+#. In the 'From' section, click **Edit From**. 
+#. Change the **Name** to 'Write the Docs Newsletter'. 
+#. Change the **Email address** to 'newsletter@writethedocs.org'.
+#. Click the **Save** button.
+#. In the 'Subject' section, click **Add subject**.
+#. In **Email Subject**, add 'Write the Docs Newsletter - [MONTH - YEAR]'
+#. In **Preview  Text** add the first two sentences of the newsletter (ish – whatever makes a nice intro).
+#. Click the **Save** button. 
+#. In the 'Content' section, click **Design Email**. 
+#. On the 'Select a template' screen, switch to the 'Saved themes' tab.
+#. Choose the 'WTD Newsletter 2018' template.
 #. On the next screen, hover over the body of the newsletter and click the **Edit** button.
 #. Switch to Github, and open the newsletter file in 'Preview' mode.
 #. Select the whole newsletter and copy.
 #. Switch back to MailChimp and paste it in body textbox.
-#. Click the **Save & Close** button.
-#. Give it a once-over in the preview – usually the paste introduces a little bit of weirdness – and then click **Next**.
-#. From the **Preview and Test** menu, select **Send a test email**.
+#. Give it a read through in the preview pane. Usually the paste in from GH introduces a little bit of weirdness.
+#. Click the **Save & Close** button in the editor.
+#. Then hit the big **Save & Close** button at the bottom of the page.
+#. Click the **Send a test email** link under the little (pointless?) preview window.
 #. Select a couple of emails from the list and click **Send Test**.
 #. Review the test emails, check all the links, fix any typos, etc.
 #. When you're ready to go, flip back to Mailchimp and click the **Send** button.

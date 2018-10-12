@@ -11,3 +11,5 @@ yamllint
 pathlib
 git+https://github.com/ericholscher/datatemplates@add-key-and-context#egg=sphinxcontrib.datatemplates-dev
 urllib3[secure]
+yamale
+ruamel.yaml

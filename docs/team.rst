@@ -55,7 +55,7 @@ Members
 
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_ *
 * `Neal Kaplan <https://twitter.com/nealkaplan>`_
-* `Mike Jang <https://twitter.com/themikejang>`_
+* `Mike Jang <https://twitter.com/themikejang>`__
 * `Eric Holscher <https://twitter.com/ericholscher>`_
 
 
@@ -79,7 +79,7 @@ Roles
 Members
 ```````
 
-* `Mike Jang <https://twitter.com/TheMikeJang>`_, Senior Staff Technical Writer, ForgeRock *
+* `Mike Jang <https://twitter.com/TheMikeJang>`__, Senior Staff Technical Writer, ForgeRock *
 * `Margaret Eker <https://twitter.com/meker>`_
 * `Rose Williams <https://twitter.com/ZelWms>`_
 * You?
