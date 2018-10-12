@@ -27,6 +27,7 @@ date: # how do we handle these? human readable would be nice.
   main: "**May 19-21, 2019, in Portland, Oregon**"
   short: May 19-21, 2019
   tickets_live: "January 2019"
+  month: May
   day_one:
     event: Hike
     date: May 18 
@@ -44,6 +45,7 @@ date: # how do we handle these? human readable would be nice.
     icon: conference
 
 about:
+  attendees: 500
   summary:
     "The main presentation track takes place from **May 20-21 (Monday and Tuesday) from 9am to 6pm**.
     We will return to the historic `Crystal Ballroom <http://www.mcmenamins.com/CrystalBallroom>`_, `centrally located <http://goo.gl/maps/D2WrJ>`_ in the heart of Portland.
