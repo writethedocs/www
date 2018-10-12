@@ -2,8 +2,6 @@ language: python
 python:
  - 3.6
 sudo: false
-env:
- - TOX_ENV=docs
 before_install:
   - export GOPATH=$HOME/golang
   - export PATH=$PATH:$GOPATH/bin
@@ -12,4 +10,4 @@ install:
  - eval "$(gimme 1.7)"
  - go get github.com/ValeLint/vale
 script:
- - tox -e $TOX_ENV
+ - tox
