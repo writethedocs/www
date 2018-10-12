@@ -70,3 +70,4 @@ flaghasschedule: True
 flagticketsonsale: True
 flaghashike: False
 flaghasboat: False
+flaghassponsors: False
