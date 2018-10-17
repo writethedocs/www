@@ -63,7 +63,7 @@ Different members of your leadership team can:
 
 * Find speakers
 * Set up meetup locations
-* Handle meetup logistics, as described in `Starting a Meetup <../organizer-guide/meetups/starting>`_
+* Handle meetup logistics, as described in `Starting a Meetup <http://www.writethedocs.org/organizer-guide/meetups/starting/>`_
 
 If you need to put out a call for help, here's a generic letter that you can use.
 
