@@ -63,3 +63,9 @@ List of talks from 2017
 .. datatemplate::
    :source: /_data/2017.na.speakers.yaml
    :template: 2017/simple-talk-list.rst
+
+Testimonials
+------------
+
+"Thanks to the extensive knowledge and support of the WTD community, I was able to get to the next level in my career (hello, Senior title!) and make more valuable contributions to my company. The big one was overhauling our documentation process, which is now simple, powerful, and open to anyone. It's greatly increased my productivity and the quality and accuracy of our documentation. I'm excited and proud to be part of such an awesome community." -Erin Cochran, Senior Technical Documentation Manager at Stitch
+
