@@ -2,10 +2,12 @@ region: North America
 country: USA
 state: Colorado
 city: Boulder/Denver
-website: http://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/
-meetup: Boulder-Denver-WriteTheDocs-Meetup
+website: https://www.meetup.com/Write-the-Docs-Boulder-Denver/
+meetup: Write the Docs Boulder/Denver
 organizers:
+  - name: Kaylyn Sigler
+    link: https://www.linkedin.com/in/kaylyn-cheatham-sigler/
   - name: Bri Hillmer
-    link: http://twitter.com/writebriwrite/
-  - name: MaryBeth Alexander
-    link: https://www.meetup.com/Write-the-Docs-Boulder-Denver/members/130670172/
+    link: https://www.linkedin.com/in/briannehillmer/
+  - name: Marybeth Alexander
+    link: https://www.linkedin.com/in/marybethalexander/
