@@ -36,8 +36,7 @@ The main presentation track takes place from **May 18-19 (Monday and
 Tuesday) from 9am to 6pm**. We will return to the historic `Crystal
 Ballroom <http://www.mcmenamins.com/CrystalBallroom>`__, `centrally
 located <http://goo.gl/maps/D2WrJ>`__ in the heart of Portland. During
-the main event we also run a `unconference <2015/unconference>`__,
-downstairs in Lola's Room.
+the main event we also run an unconference downstairs in Lola's Room.
 
 .. image:: https://farm8.staticflickr.com/7443/14198154853_0cddd983b6_c.jpg
    :width: 49%
@@ -73,7 +72,7 @@ Check out the
 `videos <https://www.youtube.com/playlist?list=PLmV2D6sIiX3UkFCMqq5at0xYgsMqAr6Jf>`__,
 `notes <http://andrewspittle.com/tag/write-the-docs/>`__, and
 `photos <https://www.flickr.com/writethedocs>`__ from last year. We also
-have a `guide <http://docs.writethedocs.org/>`__ for getting started
+have a `guide <https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/>`__ for getting started
 writing documentation.
 
 Speakers
@@ -129,7 +128,7 @@ Speakers
         <h3>
           Kevin Burke
           <span class="speaker-details">
-            <a href="https://twitter.com/ekrubnivek">@ekrubnivek</a>
+            <a href="https://twitter.com/derivativeburke">@derivativeburke</a>
           </span>
         </h3>
         <h4><a href="/conf/na/2015/speakers/#speaker-kburke">How to Write Documentation for People that Don't Read</a></h4>
@@ -306,8 +305,7 @@ Speakers
       <div class="col-md-8 col-sm-8">
         <h3>
           Emily Hoffmann & Alfonso Roman
-          <span class="speaker-details">
-            <a href="https://twitter.com/embalita">@embalita</a>
+          <span class="speaker-details">            
             <a href="https://twitter.com/alromanb">@alromanb</a>
           </span>
         </h3>
@@ -497,7 +495,7 @@ companies:
         <a href="https://urbanairship.com"><img src="/_static/img/2015/sponsors/urbanairship.png" width=150/></a>
       </div>
       <div class="col-md-6 col-sm-6">
-        <a href="https://developer.mozilla.org/"><img src="/_static/img/2015/sponsors/mdn.png" width=150/></a>
+        <a href="https://developer.mozilla.org/"><img src="/_static/img/2016/sponsors/mdn.png" width=150/></a>
       </div>
     </div>
 
