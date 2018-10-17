@@ -497,7 +497,7 @@ companies:
         <a href="https://urbanairship.com"><img src="/_static/img/2015/sponsors/urbanairship.png" width=150/></a>
       </div>
       <div class="col-md-6 col-sm-6">
-        <a href="https://developer.mozilla.org/"><img src="/_static/img/2015/sponsors/mdn.png" width=150/></a>
+        <a href="https://developer.mozilla.org/"><img src="/_static/img/2016/sponsors/mdn.png" width=150/></a>
       </div>
     </div>
 
