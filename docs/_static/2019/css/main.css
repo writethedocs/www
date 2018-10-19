@@ -216,7 +216,8 @@ body .page-content {
       color: #4a4a4a; }
 
 .hero {
-  background-color: #ea7852;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ea7852), to(rgba(234, 120, 82, 0.5)));
+  background-image: linear-gradient(#ea7852, rgba(234, 120, 82, 0.5));
   background-size: cover; }
   .hero nav {
     border-bottom: 1px solid #FFF; }
