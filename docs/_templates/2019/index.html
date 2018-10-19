@@ -13,7 +13,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
 {% endblock %}
 
 {% block container %}
-<div class="hero" style="background: linear-gradient(rgba(234,120,82, 1),  rgba(234,120,82, 0.5)), url({{ pathto(meta['banner'], 1) }}); {%- if cobrand is defined %} height: 600px; {% endif %}">
+<div class="hero" style="background: linear-gradient(rgba(234,120,82, 1),  rgba(234,120,82, 0.5)), url({{ pathto(meta['banner'], 1) }}), no-repeat;background-position: bottom;background-size: cover;">
     <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18">
       <div class="uk-navbar-right">
         <button class="uk-navbar-toggle uk-hidden@s"  type="button" uk-navbar-toggle-icon uk-toggle="target: #offcanvas-nav"></button>
