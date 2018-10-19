@@ -1,5 +1,5 @@
 :template: {{year}}/index.html
-:banner: 
+:banner: _static/{{year}}/assets/headers/group.png
 :orphan:
 
 .. raw:: html
