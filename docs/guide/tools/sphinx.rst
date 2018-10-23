@@ -27,7 +27,7 @@ complexity.
 Just know that some of the awkward syntax allows you to do more interesting
 things further down the line.
 In particular, it is extensible: it has a formal way of adding markup
-directives that allow more sophisticated parsing. 
+`directives`_ that allow more sophisticated parsing. 
 For example, Sphinx includes directives to relate documentation of 
 modules, classes and methods to the corresponding code.
 
@@ -35,7 +35,7 @@ Installing Sphinx
 -----------------
 
 The first step to getting going is installing `Sphinx`_.
-Sphinx is a python project, so it can be installed like any other python library.
+Sphinx is a Python project, so it can be installed like any other Python library.
 Several Operating Systems (Mac OS X, Major Versions of Linux/BSD) have Python pre-installed,
 so you should just have to run::
 
@@ -49,10 +49,10 @@ Instructions for installing Python and Sphinx on Windows can be found at the `Sp
 Getting Started
 ---------------
 
-You'll want to read the `Sphinx Tutorial`_,
-as it provides an introduction to a lot of the basic ideas.
-For the most part documentation follows a standard structure for our
-documentation repository::
+You'll want to read the `Sphinx Getting Started guide`_,
+as it provides an introduction to a lot of the basic ideas. If you use
+the ``sphinx-quickstart`` tool described there, it'll create
+a sample project with the following standard structure::
 
     project/
         docs/
@@ -65,8 +65,9 @@ Inside of this is:
 
 ``index.rst``:
     This is the index file for the documentation, or what lives at ``/``.
-    It normally contains a *Table of Contents* that will link to all other
-    pages of the documentation.
+    It can be thought of as a landing page that contains child topics
+    for users to navigate to. It normally contains a `table of
+    contents`_ that will link other topics in the documentation.
 
 ``conf.py``: which allows for customization of the output.
     For the most part this shouldn't need to be changed.
@@ -77,6 +78,39 @@ Inside of this is:
 
 Other ``*.rst`` files for specific subsections of documentation.
 
+Table of Contents Structure
+------------------------------------------
+
+The method for specifying a table of contents (TOC) structure in
+Sphinx is somewhat unusual. Instead of a master file that contains the
+hierarchical structure of the TOC for the whole project, you'll need
+to include `toctree directives`_ in each parent topic that has child
+topics. Sphinx will then infer the overall TOC structure from the ``toctree``
+directives in individual files.
+
+For example, the ``index.rst`` file in your project folder may contain
+the following toctree directive::
+
+   .. toctree::
+
+      TopLevel1
+      TopLevel2
+
+This indicates that there are two top-level topics. If you want the
+``TopLevel1`` topic to  contain child topics, then you'd insert the
+following ``toctree`` directive in TopLevel1::
+
+  .. toctree::
+
+     Child1
+     Child2
+     Child3
+ 
+Different Sphinx themes will have different ways of displaying the TOC
+in the sidebar. You can also configure whether or not to display the
+toctree directive as a mini-toc within the topic itself, by adding a
+``:hidden:`` option to the ``toctree`` directive.
+     
 Writing docs
 ------------
 
@@ -89,8 +123,10 @@ directory.
 When you write a document, figure out if there is already a place for it in
 the project, otherwise feel free to start a new file.
 
-.. warning:: If you make a new file, make sure it is included in the *Table
-    of Contents* in ``index.rst``.
+.. warning:: If you make a new file, make sure it is included in a
+	     ``toctree`` directive in some file which is itself in a
+	     ``toctree`` directive. Otherwise, the new file will not
+	     appear in the table of contents.
 
 reStructuredText
 ~~~~~~~~~~~~~~~~
@@ -119,9 +155,12 @@ it works.
 
 .. _Sphinx: http://sphinx-doc.org/
 .. _headings: http://sphinx.pocoo.org/rest.html#sections
-.. _Sphinx Tutorial: http://sphinx-doc.org/tutorial.html
+.. _Sphinx Getting Started guide: http://www.sphinx-doc.org/en/master/usage/quickstart.html
 .. _reStructuredText Primer:  http://sphinx.pocoo.org/rest.html#rst-primer
 .. _Sphinx install page: http://sphinx-doc.org/install.html
+.. _table of contents: http://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#table-of-contents
+.. _toctree directives: http://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#table-of-contents
+.. _directives: http://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#
 
 
 Building docs
