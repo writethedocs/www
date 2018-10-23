@@ -1,0 +1,53 @@
+
+
+                <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+                  <li><a href="{{ pathto('conf/prague/2019') }}">Home</a></li>
+                  <li><a href="{{ pathto('conf/prague/2019/news') }}">News</a></li>
+                  <li class="uk-parent">
+                      <a href="{{ pathto('conf/prague/2019/schedule') }}">Program</a>
+                      <ul class="uk-nav-sub">
+                          {% if flaglivestreaming %}
+                          <li><a href="{{ pathto('conf/prague/2019/livestream') }}">Live Stream</a></li>
+                          {% endif %}
+                          <li><a href="{{ pathto('conf/prague/2019/schedule') }}">Schedule</a></li>
+                          <li><a href="{{ pathto('conf/prague/2019/speakers') }}">Talks</a></li>
+                          <li><a href="{{ pathto('conf/prague/2019/lightning-talks') }}">Lightning Talks</a></li>
+                          <li><a href="{{ pathto('conf/prague/2019/unconference') }}">Unconference</a></li>
+                          <li><a href="{{ pathto('conf/prague/2019/writing-day') }}">Writing Day</a></li>
+                          <li><a href="{{ pathto('conf/prague/2019/job-fair') }}">Job Fair</a></li>
+                          <li><a href="{{ pathto('conf/prague/2019/badge-flair') }}">Badge Flair Contest</a></li>
+                          {% if flaghashike %}
+                          <li><a href="{{ pathto('conf/portland/2019/outing') }}">Hike</a></li>
+                          {% endif %}
+                          {% if flaghasboat %}
+                          <li><a href="{{ pathto('conf/prague/2019/outing') }}">Boat Ride</a></li>
+                          {% endif %}
+                      </ul>
+                  </li>
+                  <li class="uk-parent">
+                      <a href="{{ pathto('conf/prague/2019/visiting') }}">Visit</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="{{ pathto('conf/prague/2019/venue') }}">Venue</a></li>
+                          <li><a href="{{ pathto('conf/prague/2019/visiting') }}">Prague</a></li>
+                      </ul>
+                  </li>
+                  <li class="uk-parent">
+                      <a href="{{ pathto('conf/prague/2019/about') }}">About</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="{{ pathto('conf/prague/2019/welcome-wagon') }}">Welcome Wagon</a></li>
+                          <li><a href="{{ pathto('conf/prague/2019/team') }}">Meet the Team</a></li>
+                          <li><a href="{{ pathto('conf') }}">Past Events</a></li>
+                          <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
+                      </ul>
+                  </li>
+                  <li><a href="{{ pathto('conf/prague/2019/tickets') }}">Tickets</a></li>
+                  <li class="uk-parent">
+                      <a href="{{ pathto('conf/prague/2019/sponsors') }}">Sponsors</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="{{ pathto('conf/prague/2019/prospectus') }}">Prospectus</a></li>
+                      </ul>
+                  </li>
+                  {% if flagcfp %}
+                  <li><a href="{{ pathto('conf/prague/2019/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
+                  {% endif %}
+            </ul>
