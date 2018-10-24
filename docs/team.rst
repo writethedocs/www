@@ -119,7 +119,7 @@ Responsibilities
 Members
 ```````
 
-* `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_ *
+* `Beth Aitman <https://twitter.com/baitman>`_ *
 * `Hillary Fraley <https://github.com/hillaryfraley>`_
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_
 * `Claire Lundeby <https://twitter.com/clairelundeby>`_
