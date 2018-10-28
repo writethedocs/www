@@ -68,13 +68,12 @@ Markup Languages
    :maxdepth: 2
 
    writing/Markdown_basics
+   writing/reStructuredText
 
 * Asciidoc
     * Cheatsheet
     * Tutorial
-* reStructuredText
-    * Cheatsheet
-    * Tutorial
+
 
 Tools of the Trade
 ------------------
