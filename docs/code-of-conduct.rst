@@ -90,3 +90,8 @@ Prague Code-of-Conduct Team
 ---------------------------
 
 .. include:: include/conf/eu-coc.rst
+
+Australia Code-of-Conduct Team
+------------------------------
+
+.. include:: include/conf/au-coc.rst

@@ -1,5 +1,4 @@
 name: str()
-
 shortcode: str()
 templatecode: str()
 year: int()
@@ -34,6 +33,7 @@ flaghasboat: bool()
 flaglanding: bool()
 
 ---
+
 photo-default:
   default: str()
 
