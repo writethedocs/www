@@ -124,9 +124,10 @@ When you write a document, figure out if there is already a place for it in
 the project, otherwise feel free to start a new file.
 
 .. warning:: If you make a new file, make sure it is included in a
-	     ``toctree`` directive in some file which is itself in a
-	     ``toctree`` directive. Otherwise, the new file will not
-	     appear in the table of contents.
+	     ``toctree`` directive in a file that is in the TOC. When
+	     you build the documentation, Sphinx will display a
+	     warning for each document that isn't in the TOC.
+
 
 reStructuredText
 ~~~~~~~~~~~~~~~~
