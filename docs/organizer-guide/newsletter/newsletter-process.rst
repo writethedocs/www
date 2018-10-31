@@ -37,7 +37,7 @@ Once all the story drafts have come in, it's time to assemble. They'll start wit
 
 The top section is an Editor's letter, which just serves as a quick greeting and introduction, and touches on any big things happening in the community during the month. This usually clocks in at 100-150 words.
 
-Next comes the stories. They should be edited for length and clarity and tone, as well as to make sure they've followed the :doc:`newsletter/editorial-guielines`.
+Next comes the stories. They should be edited for length and clarity and tone, as well as to make sure they've followed the :doc:`newsletter/editorial-guidelines`.
 
 Finally, the upcoming events sections covers any upcmoing community events or conferences, and then lists out any meetups that are scheduled for the next month. It's important to include any meetups that happen in the first week or so of the following month, since the newsletter doesn't usually go out right on the first.
 
