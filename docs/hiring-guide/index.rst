@@ -95,7 +95,7 @@ Questions for curious candidates to ask of interviewers
 * What value do you think (improved) documentation will bring to your company?
   Who will your audience be?
   How will you measure this value?
-* What training would you provide to educate a new employee about the context of the business (deptartments, the product, existing systems)? -> Red flags: they do not know or not going to tell!
+* What training would you provide to educate a new employee about the context of the business (departments, the product, existing systems)? -> Red flags: they do not know or not going to tell!
 * What training would you provide/support for professional development?
 * Where do you see the main focus of this role sitting, seen on a triangle with Users, Business, and Technology as the points?
 * What tech/business resources would you allocate to support the documentation?
