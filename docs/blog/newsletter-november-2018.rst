@@ -6,7 +6,7 @@
 Write the Docs Newsletter – November 2018
 #########################################
 
-Hi everyone! It's Beth Aitman here, taking over from Kelly as your newsletter editor. Hoping to continue her fine work bringing you news and interesting discussions from across the Write the Docs community. So, hi! :wave:
+Hi everyone! It's Beth Aitman here, taking over from Kelly as your newsletter editor. Hoping to continue her fine work bringing you news and interesting discussions from across the Write the Docs community. So, hi! 👋
 
 I'm so pleased to be joining the team - I love the idea of this newsletter. It comes up pretty regularly in Slack that we only have access to only the most recent 10,000 messages, which is because unfortunately it is just too expensive to get paid Slack. (Although some of us also like the feeling of impermanence!) So it's great to have the newsletter to counter the impermanence a little, keeping track of some of the wisdom that gets shared. In case you didn't know, you can browse through `all of the issues of the newsletter <http://www.writethedocs.org/blog/archive/tag/newsletter/>`_ on the Write the Docs website.
 
@@ -38,8 +38,8 @@ If you're looking for a book to curl up with in the November cold (or the lovely
   - The Wisdom of Crowds (James Surowiecki)
 - **Reference and style**
 
-   - Elements of Style (Strunk & White)
-   - Microsoft Manual of Style
+  - Elements of Style (Strunk & White)
+  - Microsoft Manual of Style
 
 ------------------------
 Promoting plain language
@@ -99,13 +99,12 @@ Featured job postings
 `Technical Writer <https://jobs.writethedocs.org/job/83/technical-writer/>`_
  Elastic, full-time
 
-*To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_ .
+*To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
 -------------------------
 Upcoming community events
 -------------------------
 
-- 2 November - Bangalore, India - `Meet and greet <https://www.meetup.com/Write-the-Docs-India/events/fwmjbqyxpbdb/>`_
 - 6 November - Ottawa, Canada - `Tech comm goes back to the future <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyxpbrb/>`_
 - 7 November - Boise, Idaho, USA - `Accessibility stories <https://www.meetup.com/Write-the-Docs-Boise/events/255571539/>`_
 - 7 November - Brisbane, Australia - `Share your writing hints and tips <https://www.meetup.com/Write-the-Docs-Australia/events/255983009/>`_
@@ -116,5 +115,4 @@ Upcoming community events
 - 23 November - Bangalore, India - `Accessible content <https://www.meetup.com/Write-the-Docs-India/events/fwmjbqyxpbdb/>`_
 - 28 November - ATX, USA - `Breakfast meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/255187026/>`_
 - 28 November - Manchester, UK - `Documentation in agile workshop <https://www.meetup.com/Write-the-Docs-North/events/255416890/>`_
-
 - 11 December - Ottawa, Canada - `Monthly meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyxqbpb/>`_
