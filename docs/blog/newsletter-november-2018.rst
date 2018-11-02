@@ -6,21 +6,21 @@
 Write the Docs Newsletter – November 2018
 #########################################
 
-Hi everyone! It's Beth Aitman here, taking over from Kelly as your newsletter editor. Hoping to continue her fine work bringing you news and interesting discussions from across the Write the Docs community. So, hi! 👋
+Hi everyone! It's Beth Aitman here, taking over from Kelly as your newsletter editor. Hoping to continue her fine work bringing you news and interesting discussions from across the Write the Docs community.
 
-I'm so pleased to be joining the team - I love the idea of this newsletter. It comes up pretty regularly in Slack that we only have access to only the most recent 10,000 messages, which is because unfortunately it is just too expensive to get paid Slack. (Although some of us also like the feeling of impermanence!) So it's great to have the newsletter to counter the impermanence a little, keeping track of some of the wisdom that gets shared. In case you didn't know, you can browse through `all of the issues of the newsletter <http://www.writethedocs.org/blog/archive/tag/newsletter/>`_ on the Write the Docs website.
+I'm so pleased to be joining the team - I love the idea of this newsletter. It's sometimes mentioned as a shame in Slack that we only have access to the most recent 10,000 messages (which is because, unfortunately, paid Slack is super expensive). Although some like the impermanence, it's also great to have the newsletter to counter it a little, keeping track of some of the wisdom that gets shared. In case you didn't know, you can browse through `all the issues of the newsletter <http://www.writethedocs.org/blog/archive/tag/newsletter/>`_ on the Write the Docs website.
 
-There's plenty going on in the community at the moment, including gearing up for our second conference down under! `Write the Docs Australia <http://www.writethedocs.org/conf/australia/2018/>`_ starts in Melbourne on November 15th, with a packed two-day `schedule <http://www.writethedocs.org/conf/australia/2018/schedule/>`_ of talks, workshops and unconference sessions.
+There's plenty going on in the community at the moment, including gearing up for our second conference down under! `Write the Docs Australia <http://www.writethedocs.org/conf/australia/2018/>`_ starts in Melbourne on 15th November, with a packed two-day `schedule <http://www.writethedocs.org/conf/australia/2018/schedule/>`_ of talks, workshops and unconference sessions.
 
-And looking a little further ahead, we have confirmed dates for Write the Docs Portland: 19th-21st May 2019. One for your diaries!
+Looking further ahead, we have confirmed dates for Write the Docs Portland: 19th-21st May 2019. One to put in the diary!
 
-So apart from that, what have we all been talking about this month?
+So what have we all been talking about this month?
 
 -----------------
 Recommended reads
 -----------------
 
-If you're looking for a book to curl up with in the November cold (or the lovely spring weather, for those of you in the southern hemisphere), the community has a few recommendations:
+If you're looking to curl up with a book to curl in the November cold (or, if you're in the southern hemisphere, the lovely spring weather), the community has a few recommendations:
 
 - **Technical writing**
 
@@ -45,7 +45,7 @@ If you're looking for a book to curl up with in the November cold (or the lovely
 Promoting plain language
 ------------------------
 
-This month, a new Slack member 🎉 used their first post in ``#general`` to ask about everyone's experiences with encouraging plain language at work.
+Recently, a new Slack member 🎉 used their first post in #general to ask about everyone's experiences with encouraging plain language at work.
 
 First off, most participants agreed that distributing a style guide isn't enough, even with support from management. It can help to include justifications for the rules in your style guide - not only can it win colleagues over, it also helps people remember them. One documentarian suggested pairing every style guide rule with a second line explaining the rationale for it.
 
@@ -66,21 +66,21 @@ No matter what, adopting and implementing plain language seems to be a work in p
 How to hire a documentarian
 ---------------------------
 
-A topic that often comes up, both on Slack and at conferences, is how to screen and interview candidates for documentation-related positions. One contributor ran an unconference session at Write the Docs Prague to collect the questions that people use in interviews. And because sharing is caring, she wrote it all up into a hiring guide on the WTD website.
+How to hire is a topic of perennial interest. So fortunately, there's a great new addition to the Write the Docs website: the `Guide to Hiring and Getting Hired <https://www.writethedocs.org/hiring-guide/>`_.
 
-So we now have the `Guide to Hiring and Getting Hired <https://www.writethedocs.org/hiring-guide/>`_ to help out candidates and hiring managers alike. Thanks to `Kristy James <https://github.com/kristyj>`_ for putting it all together, and to everyone who contributed words and ideas!
+It came from the Writing Day at the Prague conference, when a group of documentarians got together to collect the questions that we like to use in interviews, and the questions we ask when we're *being* interviewed. All of this knowledge is now written up in the guide, aimed at helping out candidates and hiring managers alike.
+
+Thanks to `Kristy James <https://github.com/kristyj>`_ for running the session and putting the guide together, and to everyone who contributed words and ideas!
 
 ---------------------------
 Getting feedback from users
 ---------------------------
 
-A big discussion point this past month has been around gathering feedback from users on your documentation site.
+This month, there's been a lot of discussion around gathering feedback from users on your documentation site. Here's a quick summary of what we learned.
 
-For starters, it's worth remembering that your users' attention is generally on the product they're trying to use. They won't tend to think about your docs as a whole, but rather about the product experience. So be careful asking questions about their experience of the documentation. 
+For starters, it's worth remembering that your users' attention is generally on the product they're trying to use. They won't tend to think about your docs as a whole, but rather about the product experience. So be careful asking questions about their experience of the documentation.
 
-One option is an on-page rating system (a thumbs up or down rating, or a "Was this helpful? Yes/No"). These can tell you about trends, but many who are using this type of system feel they rarely give actionable feedback. A thumbs-down doesn't tell you what the problem with the page was, so it's hard to work out how to fix it.
-
-Some documentarians suggested asking for further information if you get a thumbs down. For example, you can have a text box where users can give you more information about the problem.
+One option is a rating system on each page (a thumbs up or down, or a "Was this helpful? Yes/No"). These can tell you about trends, but many felt they rarely got actionable feedback from these systems. A thumbs-down doesn't tell you what the problem with the page was, so it's hard to work out how to fix it. It can help a bit to ask for further information if you get a thumbs down.
 
 To go further than that, you can ask more specific and relevant questions to prompt for the information you're really looking for. Some options suggested were:
 
