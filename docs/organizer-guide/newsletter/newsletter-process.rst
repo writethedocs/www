@@ -37,7 +37,7 @@ Once all the story drafts have come in, it's time to assemble. They'll start wit
 
 The top section is an Editor's letter, which just serves as a quick greeting and introduction, and touches on any big things happening in the community during the month. This usually clocks in at 100-150 words.
 
-Next comes the stories. They should be edited for length and clarity and tone, as well as to make sure they've followed the :doc:`newsletter/editorial-guidelines`.
+Next comes the stories. They should be edited for length and clarity and tone, as well as to make sure they've followed the :doc:`editorial-guidelines`.
 
 Finally, the upcoming events sections covers any upcmoing community events or conferences, and then lists out any meetups that are scheduled for the next month. It's important to include any meetups that happen in the first week or so of the following month, since the newsletter doesn't usually go out right on the first.
 
@@ -62,15 +62,15 @@ Once you've finalized the newsletter in GitHub, you'll use MailChimp to send it 
 #. From the **List** dropdown select 'Write the Docs Community`.
 #. From **Segment or tag** choose 'Newsletter folks'.
 #. Click the **Save** button.
-#. In the 'From' section, click **Edit From**. 
-#. Change the **Name** to 'Write the Docs Newsletter'. 
+#. In the 'From' section, click **Edit From**.
+#. Change the **Name** to 'Write the Docs Newsletter'.
 #. Change the **Email address** to 'newsletter@writethedocs.org'.
 #. Click the **Save** button.
 #. In the 'Subject' section, click **Add subject**.
 #. In **Email Subject**, add 'Write the Docs Newsletter - [MONTH - YEAR]'
 #. In **Preview  Text** add the first two sentences of the newsletter (ish – whatever makes a nice intro).
-#. Click the **Save** button. 
-#. In the 'Content' section, click **Design Email**. 
+#. Click the **Save** button.
+#. In the 'Content' section, click **Design Email**.
 #. On the 'Select a template' screen, switch to the 'Saved themes' tab.
 #. Choose the 'WTD Newsletter 2018' template.
 #. On the next screen, hover over the body of the newsletter and click the **Edit** button.

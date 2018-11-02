@@ -61,7 +61,7 @@ Challenges:
 
 Of course, there are those of us who use non-developer driven task management tools – either instead of or in addition to those tools – such as Trello, Asana, or Flow.
 
-While we may use different tools, what matters in the end is that you utilize a task management tool (or tool set) that works for you! 
+While we may use different tools, what matters in the end is that you utilize a task management tool (or tool set) that works for you!
 
 *Have more thoughts about your toolset? Come share them in* `#doctools <https://writethedocs.slack.com/messages/doctools>`_ *or one of the many tool-specific channels we have on Slack.*
 
@@ -88,7 +88,7 @@ TL;DR: The closer the docs team gets to dev/code, the easier it seems to be to g
 Featured job postings
 ---------------------
 
-`Technical Writer <https://jobs.writethedocs.org/job/79/technical-writer/>`_
+`Technical Writer <https://jobs.writethedocs.org/job/79/technical-writer/>`__
  Circonus, Inc., Full-time, remote
 
 `Technical Writer – Robotics & Fulfillment Automation <https://jobs.writethedocs.org/job/76/technical-writer-robotics-fulfillment-automation/>`_
@@ -97,7 +97,7 @@ Featured job postings
 `Director of Documentation <https://jobs.writethedocs.org/job/73/director-of-documentation/>`_
  MongoDB, Full-time
 
-`Technical Writer <https://jobs.writethedocs.org/job/75/technical-writer/>`_
+`Technical Writer <https://jobs.writethedocs.org/job/75/technical-writer/>`__
  Adyen, Full-time
 
 *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.

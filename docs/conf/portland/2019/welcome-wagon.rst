@@ -7,7 +7,7 @@ Welcome Wagon
 Hello!
 
 We're your Welcome Wagon, and we're glad you're coming to Write the Docs!
-Feel free to `tweet <https://twitter.com/canncrochet>`_ or `email <mailto:canncrochet@gmail.com>`_ us if we can help make your first time at the conference easier. 
+Feel free to `tweet <https://twitter.com/canncrochet>`_ or `email <mailto:canncrochet@gmail.com>`_ us if we can help make your first time at the conference easier.
 When you get to the conference, come :ref:`say hello <say-hello>`.
 
 We've gathered important stuff here that will help you navigate the conference like a pro, make you feel more at home, and help you to manage the constant flow of information.
@@ -158,7 +158,7 @@ Sample strategy for a second or higher Write the Docs conference
 -  In the morning, or when you need a break during the day, head down to Lola's Room to check out the unconference schedule. Make note of any unconference talks you want to attend.
 -  Sign up for a lightning talk or lead an unconference session.
 
-.. _say-hello:
+.. _say-hello-2019:
 
 Say hello
 ---------
