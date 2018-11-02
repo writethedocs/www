@@ -68,7 +68,7 @@ How to hire a documentarian
 
 How to hire is a topic of perennial interest. So fortunately, there's a great new addition to the Write the Docs website: the `Guide to Hiring and Getting Hired <https://www.writethedocs.org/hiring-guide/>`_.
 
-It came from the Writing Day at the Prague conference, when a group of documentarians got together to collect the questions that we like to use in interviews, and the questions we ask when we're *being* interviewed. All of this knowledge is now written up in the guide, aimed at helping out candidates and hiring managers alike.
+It came from the Writing Day at the Prague conference, when a group of documentarians got together to collect the questions that they use in interviews, and the questions they like to ask when they're *being* interviewed. All of this knowledge is now written up in the guide, aimed at helping out candidates and hiring managers alike.
 
 Thanks to `Kristy James <https://github.com/kristyj>`_ for running the session and putting the guide together, and to everyone who contributed words and ideas!
 
