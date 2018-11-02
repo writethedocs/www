@@ -15,3 +15,5 @@ improve the art and science of documentation.
 .. include:: /include/conf/current.rst
 
 .. include:: /include/conf/past.rst
+
+.. If you're looking for the conf toctree that stops sphinx shouting at us, it is one level up in docs/index.rst
