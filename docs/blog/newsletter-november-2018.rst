@@ -20,7 +20,7 @@ So what have we all been talking about this month?
 Recommended reads
 -----------------
 
-If you're looking to curl up with a book to curl in the November cold (or, if you're in the southern hemisphere, the lovely spring weather), the community has a few recommendations:
+If you're looking to curl up with a book in the November cold (or, if you're in the southern hemisphere, the lovely spring weather), the community has a few recommendations:
 
 - **Technical writing**
 
@@ -68,7 +68,7 @@ How to hire a documentarian
 
 How to hire is a topic of perennial interest. So fortunately, there's a great new addition to the Write the Docs website: the `Guide to Hiring and Getting Hired <https://www.writethedocs.org/hiring-guide/>`_.
 
-It came from the Writing Day at the Prague conference, when a group of documentarians got together to collect the questions that they use in interviews, and the questions they like to ask when they're *being* interviewed. All of this knowledge is now written up in the guide, aimed at helping out candidates and hiring managers alike.
+It came from the Writing Day at the Prague conference, when a group of documentarians got together to collect the questions that they use in interviews and the questions they like to ask when they're *being* interviewed. All of this knowledge is now written up in the guide, aimed at helping out candidates and hiring managers alike.
 
 Thanks to `Kristy James <https://github.com/kristyj>`_ for running the session and putting the guide together, and to everyone who contributed words and ideas!
 
@@ -76,11 +76,11 @@ Thanks to `Kristy James <https://github.com/kristyj>`_ for running the session a
 Getting feedback from users
 ---------------------------
 
-This month, there's been a lot of discussion around gathering feedback from users on your documentation site. Here's a quick summary of what we learned.
+This month, there's been a lot of discussion about gathering feedback from users on your documentation site. Here's a quick summary of what we learned.
 
 For starters, it's worth remembering that your users' attention is generally on the product they're trying to use. They won't tend to think about your docs as a whole, but rather about the product experience. So be careful asking questions about their experience of the documentation.
 
-One option is a rating system on each page (a thumbs up or down, or a "Was this helpful? Yes/No"). These can tell you about trends, but many felt they rarely got actionable feedback from these systems. A thumbs-down doesn't tell you what the problem with the page was, so it's hard to work out how to fix it. It can help a bit to ask for further information if you get a thumbs down.
+One option is a rating system on each page (a thumbs up or down, or a "Was this helpful? Yes/No"). These can tell you about trends, but many felt they rarely got actionable feedback from these systems. A thumbs down doesn't tell you what the problem with the page was, so it's hard to work out how to fix it. It can help a bit to ask for further information if you get a thumbs down.
 
 To go further than that, you can ask more specific and relevant questions to prompt for the information you're really looking for. Some options suggested were:
 
