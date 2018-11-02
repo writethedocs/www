@@ -6,9 +6,9 @@
 Write the Docs Newsletter – November 2018
 #########################################
 
-Hi everyone! It's Beth Aitman here, taking over from Kelly as your newsletter editor. Hoping to continue her fine work bringing you news and interesting discussions from across the Write the Docs community.
+Hi everyone! It's Beth Aitman here, in my first issue as your new newsletter editor. Hoping to continue Kelly O'Brien's fine work bringing you news and interesting discussions from across the Write the Docs community.
 
-I'm so pleased to be joining the team - I love the idea of this newsletter. It's sometimes mentioned as a shame in Slack that we only have access to the most recent 10,000 messages (which is because, unfortunately, paid Slack is super expensive). Although some like the impermanence, it's also great to have the newsletter to counter it a little, keeping track of some of the wisdom that gets shared. In case you didn't know, you can browse through `all the issues of the newsletter <http://www.writethedocs.org/blog/archive/tag/newsletter/>`_ on the Write the Docs website.
+I'm so pleased to be joining the team - I love the idea of this newsletter. It's sometimes mentioned as a shame in Slack that we only have access to the most recent 10,000 messages (which is because, unfortunately, paid Slack is super expensive). Although some like the impermanence, it's great to have the newsletter to counter it a little, keeping track of some of the wisdom that gets shared. In case you didn't know, you can browse through `all the issues of the newsletter <http://www.writethedocs.org/blog/archive/tag/newsletter/>`_ on the Write the Docs website.
 
 There's plenty going on in the community at the moment, including gearing up for our second conference down under! `Write the Docs Australia <http://www.writethedocs.org/conf/australia/2018/>`_ starts in Melbourne on 15th November, with a packed two-day `schedule <http://www.writethedocs.org/conf/australia/2018/schedule/>`_ of talks, workshops and unconference sessions.
 
