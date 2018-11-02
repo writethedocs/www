@@ -113,6 +113,6 @@ Upcoming community events
 - 15 November - Melbourne, Australia - `Write the Docs Australia conference! <http://www.writethedocs.org/conf/australia/2018/>`_
 - 15 November - Los Angeles, USA - `Writing for engineers <https://www.meetup.com/Write-the-Docs-LA/events/255347446/>`_
 - 23 November - Bangalore, India - `Accessible content <https://www.meetup.com/Write-the-Docs-India/events/fwmjbqyxpbdb/>`_
-- 28 November - ATX, USA - `Breakfast meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/255187026/>`_
+- 28 November - Austin, Texas, USA - `Breakfast meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/255187026/>`_
 - 28 November - Manchester, UK - `Documentation in agile workshop <https://www.meetup.com/Write-the-Docs-North/events/255416890/>`_
 - 11 December - Ottawa, Canada - `Monthly meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyxqbpb/>`_
