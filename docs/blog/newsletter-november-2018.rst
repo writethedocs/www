@@ -6,7 +6,7 @@
 Write the Docs Newsletter – November 2018
 #########################################
 
-Hi everyone! It's Beth Aitman here, in my first issue as your new newsletter editor. Hoping to continue Kelly O'Brien's fine work bringing you news and interesting discussions from across the Write the Docs community.
+Hi everyone! It's Beth Aitman here, in my first issue as your newsletter editor. Hoping to continue Kelly O'Brien's fine work bringing you news and interesting discussions from across the Write the Docs community.
 
 I'm so pleased to be joining the team - I love the idea of this newsletter. It's sometimes mentioned as a shame in Slack that we only have access to the most recent 10,000 messages (which is because, unfortunately, paid Slack is super expensive). Although some like the impermanence, it's great to have the newsletter to counter it a little, keeping track of some of the wisdom that gets shared. In case you didn't know, you can browse through `all the issues of the newsletter <http://www.writethedocs.org/blog/archive/tag/newsletter/>`_ on the Write the Docs website.
 
@@ -49,7 +49,7 @@ Recently, a new Slack member 🎉 used their first post in #general to ask about
 
 First off, most participants agreed that distributing a style guide isn't enough, even with support from management. It can help to include justifications for the rules in your style guide - not only can it win colleagues over, it also helps people remember them. One documentarian suggested pairing every style guide rule with a second line explaining the rationale for it.
 
-Another idea was to target a few issues at a time. For example, you might start by getting everyone on board with "using" rather than "utilizing," then move on to eliminating passive voice.
+Another idea was to target a few issues at a time. For example, you might start by getting everyone on board with "using" rather than "utilizing", then move on to eliminating passive voice.
 
 If you're the lone writer, you might have luck with transitioning to plain language without announcing it and addressing concerns as they come up.
 
@@ -86,7 +86,7 @@ To go further than that, you can ask more specific and relevant questions to pro
 
 - "What were you trying to do? Were you successful?" and if not, "Why not?"
 - "Where did you get stuck?"
-- "What did you want to learn? Did we help?" If not, "What could be better?"
+- "What did you want to learn? Did we help?" and if not, "What could be better?"
 - "Did you find what you were looking for? Did you understand it? Did it work?" If no to any, "What were you were trying to do?"
 
 ---------------------
@@ -106,13 +106,13 @@ Upcoming community events
 -------------------------
 
 - 6 November - Ottawa, Canada - `Tech comm goes back to the future <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyxpbrb/>`_
-- 7 November - Boise, Idaho, USA - `Accessibility stories <https://www.meetup.com/Write-the-Docs-Boise/events/255571539/>`_
+- 7 November - Boise, ID, USA - `Accessibility stories <https://www.meetup.com/Write-the-Docs-Boise/events/255571539/>`_
 - 7 November - Brisbane, Australia - `Share your writing hints and tips <https://www.meetup.com/Write-the-Docs-Australia/events/255983009/>`_
-- 13 November - Boulder, Colorado, USA - `GitHub 101 <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/255978323/>`_
-- 14 November - San Diego, California, USA - `Tech comm pub social <https://www.meetup.com/STC-San-Diego/events/255805506/>`_ (joint with STC)
+- 13 November - Boulder, CO, USA - `GitHub 101 <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/255978323/>`_
+- 14 November - San Diego, CA, USA - `Tech comm pub social <https://www.meetup.com/STC-San-Diego/events/255805506/>`_ (joint with STC)
 - 15 November - Melbourne, Australia - `Write the Docs Australia conference! <http://www.writethedocs.org/conf/australia/2018/>`_
-- 15 November - Los Angeles, USA - `Writing for engineers <https://www.meetup.com/Write-the-Docs-LA/events/255347446/>`_
+- 15 November - Los Angeles, CA, USA - `Writing for engineers <https://www.meetup.com/Write-the-Docs-LA/events/255347446/>`_
 - 23 November - Bangalore, India - `Accessible content <https://www.meetup.com/Write-the-Docs-India/events/fwmjbqyxpbdb/>`_
-- 28 November - Austin, Texas, USA - `Breakfast meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/255187026/>`_
+- 28 November - Austin, TX, USA - `Breakfast meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/255187026/>`_
 - 28 November - Manchester, UK - `Documentation in agile workshop <https://www.meetup.com/Write-the-Docs-North/events/255416890/>`_
 - 11 December - Ottawa, Canada - `Monthly meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyxqbpb/>`_
