@@ -106,8 +106,8 @@ body .page-banner {
 body .page-content {
   padding-top: 36px; }
   body .page-content a:not(.headerlink), body .page-content a:active:not(.headerlink), body .page-content a:visited:not(.headerlink), body .page-content a:link:not(.headerlink) {
-    border-bottom: 1px dashed #ea7852;
-    color: #289d32;
+    border-bottom: 1px dashed #4d5a71;
+    color: #4d5a71;
     text-decoration: none; }
   body .page-content a:hover:not(.headerlink) {
     border-bottom: 1px solid #ea7852;
