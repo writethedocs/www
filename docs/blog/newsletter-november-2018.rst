@@ -1,4 +1,4 @@
-.. post:: November 4, 2018
+.. post:: November 5, 2018
    :tags: newsletter
 
 
