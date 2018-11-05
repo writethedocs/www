@@ -63,6 +63,11 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
         </p>
 
         <div class="ctas-block">
+         {% if flaglanding %}
+
+         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/' + year + '/sponsors/prospectus') }}">Sponsor the conference</a>
+
+         {% endif %}
          {% if flagticketsonsale %}
 
          <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2019/tickets') }}">Buy a Ticket!</a>
