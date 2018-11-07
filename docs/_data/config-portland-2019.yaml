@@ -9,6 +9,7 @@ area: North America # European Australian
 area_adj: North American
 tz: PST
 email: portland@writethedocs.org
+color: coral
 
 photos:
   default: _static/2019/assets/headers/group.png
@@ -22,6 +23,18 @@ tickets:
     price: $275
   student:
     price: $100
+
+sponsorship:
+  first_draft:
+    price: $800
+  second_draft:
+    price: $2,000
+  publisher:
+    price: $4,500
+  patron:
+    price: $8,500
+  keystone:
+    price: $15,000
 
 date: # how do we handle these? human readable would be nice.
   main: "**May 19-21, 2019, in Portland, Oregon**"

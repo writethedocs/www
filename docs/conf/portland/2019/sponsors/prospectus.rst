@@ -13,8 +13,6 @@ Sponsorship Prospectus
    :depth: 1
    :backlinks: none
 
-**New this year**: our `Job Fair`_.
-
 Concept
 =======
 
@@ -78,10 +76,6 @@ Sponsorship Packages
 The following options are suggested sponsorship levels. We are happy to discuss
 adjustments and custom packages.
 
-These package prices apply to the Portland conference only. Look here for
-:doc:`prices </conf/prague/2018/sponsors/prospectus/>` for the European
-conference. Ask us about discounted packages for sponsoring both conferences.
-
 First Draft
 -----------
 
@@ -95,13 +89,11 @@ and open source organizations.
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 - **NOTE**: This sponsorship does not include a job fair table. You can purchase one for an additional $500 (50% off)
 
-The **First Draft** package costs **$750**.
+The **First Draft** package costs **{{sponsorship.first_draft.price}}**.
 You can buy it directly on our ticket website.
 
 Second Draft
 ------------
-
-**One left**
 
 The **Second Draft** package is great for companies looking to hire or promote a product.
 
@@ -112,12 +104,10 @@ The **Second Draft** package is great for companies looking to hire or promote a
 - One featured job posting in our Newsletter (2,500 subscribers)
 - **NOTE**: This sponsorship does not include a job fair table. You can purchase one for an additional $500 (50% off)
 
-The **Second Draft** package costs **$1,500**.
+The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
 
 Publisher
 ---------
-
-**Sold out**
 
 The **Publisher** package is great for sending a team and getting to know the community.
 
@@ -128,7 +118,7 @@ The **Publisher** package is great for sending a team and getting to know the co
 - Two featured job postings in our Newsletter (2,500 subscribers)
 - A table at the job fair
 
-The **Publisher** package costs **$4,000**.
+The **Publisher** package costs **{{sponsorship.publisher.price}}**.
 
 .. raw:: pdf
 
@@ -137,7 +127,7 @@ The **Publisher** package costs **$4,000**.
 Patron
 ------
 
-Limit 2 (**Sold out**)
+Limit 3
 
 The **Patron** package highlights your company as a force in the industry and community:
 
@@ -150,12 +140,12 @@ The **Patron** package highlights your company as a force in the industry and co
 - Three featured job postings in our Newsletter (2,500 subscribers)
 - A featured table at the job fair
 
-The **Patron** package costs **$8,000**.
+The **Patron** package costs **{{sponsorship.patron.price}}**.
 
 Keystone
 --------
 
-Limit 1 (**Sold out**)
+Limit 1
 
 The **Keystone** package highlights you as our main community partner:
 
@@ -169,7 +159,7 @@ The **Keystone** package highlights you as our main community partner:
 - Five featured job postings in our Newsletter (2,500 subscribers)
 - A featured table at the job fair
 
-The **Keystone** package costs **$14,000**.
+The **Keystone** package costs **{{sponsorship.keystone.price}}**.
 
 .. raw:: pdf
 
@@ -227,8 +217,8 @@ Please direct all inquiries to our sponsorship team at:
 
 - sponsorship@writethedocs.org
 
-.. _ticket: https://ti.to/writethedocs/write-the-docs-portland-2018/
-.. _tickets: https://ti.to/writethedocs/write-the-docs-portland-2018/
+.. _ticket: https://ti.to/writethedocs/write-the-docs-{{ shortcode }}-{{ year }}/
+.. _tickets: https://ti.to/writethedocs/write-the-docs-{{ shortcode }}-{{ year }}/
 
 Run of Show
 ===========
