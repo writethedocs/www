@@ -26,7 +26,7 @@ tickets:
 
 sponsorship:
   first_draft:
-    price: $750
+    price: $800
   second_draft:
     price: $2,000
   publisher:
@@ -35,7 +35,6 @@ sponsorship:
     price: $8,500
   keystone:
     price: $15,000
-
 
 date: # how do we handle these? human readable would be nice.
   main: "**May 19-21, 2019, in Portland, Oregon**"
