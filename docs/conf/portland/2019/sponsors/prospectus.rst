@@ -87,7 +87,6 @@ and open source organizations.
 - Small logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- **NOTE**: This sponsorship does not include a job fair table. You can purchase one for an additional $500 (50% off)
 
 The **First Draft** package costs **{{sponsorship.first_draft.price}}**.
 You can buy it directly on our ticket website.
@@ -101,8 +100,8 @@ The **Second Draft** package is great for companies looking to hire or promote a
 - Medium logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- One featured job posting in our Newsletter (2,500 subscribers)
-- **NOTE**: This sponsorship does not include a job fair table. You can purchase one for an additional $500 (50% off)
+- One featured job posting in our Newsletter (4,000 subscribers)
+- A table at the job fair
 
 The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
 
@@ -115,7 +114,7 @@ The **Publisher** package is great for sending a team and getting to know the co
 - Large logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 2 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Two featured job postings in our Newsletter (2,500 subscribers)
+- Two featured job postings in our Newsletter (4,000 subscribers)
 - A table at the job fair
 
 The **Publisher** package costs **{{sponsorship.publisher.price}}**.
@@ -137,7 +136,7 @@ The **Patron** package highlights your company as a force in the industry and co
 - Full size logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 3 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Three featured job postings in our Newsletter (2,500 subscribers)
+- Three featured job postings in our Newsletter (4,000 subscribers)
 - A featured table at the job fair
 
 The **Patron** package costs **{{sponsorship.patron.price}}**.
@@ -156,7 +155,7 @@ The **Keystone** package highlights you as our main community partner:
 - Full size logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display unlimited promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Five featured job postings in our Newsletter (2,500 subscribers)
+- Five featured job postings in our Newsletter (4,000 subscribers)
 - A featured table at the job fair
 
 The **Keystone** package costs **{{sponsorship.keystone.price}}**.
