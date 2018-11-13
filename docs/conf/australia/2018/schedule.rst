@@ -57,10 +57,10 @@ Thursday Night Social
 
 The official Write the Docs Australia social!
 This event is for **conference attendees only**, so please bring your badge to be let into the venue.
-There will be light snacks and drinks available on the conference while our tab lasts.
+There will be drinks and nibbles available while our tab lasts.
 
-* **Where**: TBA
-* **When**: **5.30pm-8pm**
+* **Where**: Tap831, 831 Bourke St, Docklands VIC 3008
+* **When**: **6.00pm-8.00pm**
 
 
 Friday, 16th November 2018
