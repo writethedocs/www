@@ -10,9 +10,21 @@ install:
  - go get github.com/ValeLint/vale
  - gem install html-proofer
 script:
+ - htmlproofer -v
  - tox
 env:
  - TEST="lint"
  - TEST="docs"
  - TEST="yaml"
  - TEST="links"
+ - NOKOGIRI_USE_SYSTEM_LIBRARIES="True"
+
+
+ # An attempt to explain my understanding of the rather odd convergence of Travis CI and tox with tox-travis
+# The TEST envvironment variables are way to get Travis CI to run the four tox builds in parallel
+# Then in tox.ini one has to
+# * list the 4 envs so tox knows what it is [envlist]
+# * list them again for building with python 3.6 [travis
+# * list them again against the evnironment variables to trick the matrix into existance [travis:env]
+# Finally, define each env as [envlist]
+# There is probably a simpler way. I hope.
