@@ -16,8 +16,6 @@ Friends-and-Family tickets will still be available until 3 days before the confe
 starts, and we will maintain a waiting list in case of cancellations, but now is the time
 to grab the last tickets before they're gone!
 
-[tickets]: https://ti.to/writethedocs/write-the-docs-eu-2015
-
 ### Walking City Tour - Sunday Morning (Aug 30)
 
 Join us for a walking tour of the old city center around the beautiful and historical
