@@ -8,9 +8,11 @@ install:
  - pip install tox-travis
  - eval "$(gimme 1.7)"
  - go get github.com/ValeLint/vale
+ - gem install html-proofer
 script:
  - tox
 env:
  - TEST="lint"
  - TEST="docs"
  - TEST="yaml"
+ - TEST="links"
