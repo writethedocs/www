@@ -10,3 +10,7 @@ install:
  - go get github.com/ValeLint/vale
 script:
  - tox
+env:
+ - TEST="lint"
+ - TEST="docs"
+ - TEST="yaml"
