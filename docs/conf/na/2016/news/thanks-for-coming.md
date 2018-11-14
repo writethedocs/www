@@ -20,7 +20,7 @@ Let us know how we can improve for future conferences and gatherings. We really 
 Don't forget we have our European conference this year in Prague! The [Call for Proposals](http://www.writethedocs.org/conf/eu/2016/cfp/) is open until **June 10**.
 
 We're also looking for more sponsors to make the Prague event just as magical as this year's Portland event. If you are curious about sponsoring EU or NA again next year,
-please contact us at [sponsorship@writethedocs.org](mailto:sponsorship@writethedocs.org).
+please contact us at <mailto:sponsorship@writethedocs.org>.
 
 You can find information about the conference and Call for Proposals on our [European Conference website](http://www.writethedocs.org/conf/eu/2016/).
 
