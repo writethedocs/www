@@ -4,6 +4,7 @@ python:
 before_install:
   - export GOPATH=$HOME/golang
   - export PATH=$PATH:$GOPATH/bin
+  - rvm default
 install:
  - pip install tox-travis
  - eval "$(gimme 1.7)"
