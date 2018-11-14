@@ -11,12 +11,12 @@ install:
  - go get github.com/ValeLint/vale
  - NOKOGIRI_USE_SYSTEM_LIBRARIES="True" gem install html-proofer
 script:
- - htmlproofer -v
+ - gem
  - tox
 env:
- - TEST="lint"
- - TEST="docs"
- - TEST="yaml"
+ #- TEST="lint"
+ #- TEST="docs"
+ #- TEST="yaml"
  - TEST="links"
 
 
