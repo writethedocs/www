@@ -1,6 +1,8 @@
 language: python
 python:
- - 3.6
+  - 3.6
+rvm:
+  - 4.2  
 before_install:
   - export GOPATH=$HOME/golang
   - export PATH=$PATH:$GOPATH/bin
