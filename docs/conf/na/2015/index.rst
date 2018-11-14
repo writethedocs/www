@@ -438,11 +438,9 @@ Day </conf/na/2015/writing-day/>`__ documentation sprints during the
 day, and our conference reception in the evening.
 
 The main conference event will be held May 18-19th, during the day. We
-will be holding `unconference </conf/na/2015/unconference/>`__ sessions
+will be holding unconference sessions
 after lunch both days of the events, downstairs from the main stage, in
-Lola's Room. Everyone is welcome to join in on the unconference, `learn
-more about the unconference </conf/na/2015/unconference/>`__ if you
-would like to lead a session.
+Lola's Room. Everyone is welcome to join in on the unconference.
 
 `View the full conference schedule </conf/na/2015/schedule/>`__
 
