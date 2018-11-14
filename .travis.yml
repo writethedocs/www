@@ -4,12 +4,12 @@ python:
 before_install:
   - export GOPATH=$HOME/golang
   - export PATH=$PATH:$GOPATH/bin
-  - rvm default
+  - gem update --system
 install:
  - pip install tox-travis
  - eval "$(gimme 1.7)"
  - go get github.com/ValeLint/vale
- - NOKOGIRI_USE_SYSTEM_LIBRARIES="True" gem install html-proofer
+ - gem install html-proofer
 script:
  - gem
  - tox
@@ -20,7 +20,7 @@ env:
  - TEST="links"
 
 
- # An attempt to explain my understanding of the rather odd convergence of Travis CI and tox with tox-travis
+# An attempt to explain my understanding of the rather odd convergence of Travis CI and tox with tox-travis
 # The TEST envvironment variables are way to get Travis CI to run the four tox builds in parallel
 # Then in tox.ini one has to
 # * list the 4 envs so tox knows what it is [envlist]
