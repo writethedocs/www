@@ -8,7 +8,7 @@ install:
  - pip install tox-travis
  - eval "$(gimme 1.7)"
  - go get github.com/ValeLint/vale
- - gem install html-proofer
+ - NOKOGIRI_USE_SYSTEM_LIBRARIES="True" gem install html-proofer
 script:
  - htmlproofer -v
  - tox
@@ -17,7 +17,6 @@ env:
  - TEST="docs"
  - TEST="yaml"
  - TEST="links"
- - NOKOGIRI_USE_SYSTEM_LIBRARIES="True"
 
 
  # An attempt to explain my understanding of the rather odd convergence of Travis CI and tox with tox-travis
