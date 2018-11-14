@@ -1,7 +1,6 @@
 language: python
 python:
  - 3.6
-sudo: false
 before_install:
   - export GOPATH=$HOME/golang
   - export PATH=$PATH:$GOPATH/bin
@@ -11,3 +10,7 @@ install:
  - go get github.com/ValeLint/vale
 script:
  - tox
+env:
+ - TEST="lint"
+ - TEST="docs"
+ - TEST="yaml"
