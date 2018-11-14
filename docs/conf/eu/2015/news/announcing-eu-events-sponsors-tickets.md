@@ -14,7 +14,7 @@ swag and badges, we will **end the ticket sales on August 20th**.
 
 Friends-and-Family tickets will still be available until 3 days before the conference
 starts, and we will maintain a waiting list in case of cancellations, but now is the time
-to grab the [last tickets](tickets) before they're gone!
+to grab the last tickets before they're gone!
 
 [tickets]: https://ti.to/writethedocs/write-the-docs-eu-2015
 
