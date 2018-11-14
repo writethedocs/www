@@ -12,7 +12,3 @@ install:
  - gem install html-proofer
 script:
  - tox
-env:
-  - TEST="lint"
-  - TEST="docs"
-  - TEST="links"
