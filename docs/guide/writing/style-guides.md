@@ -5,7 +5,7 @@ A style guide is a set of standards for the writing and design of content, defin
 If you happen to have a background in academia or journalism, you will probably be familiar the [AP stylebook](https://en.wikipedia.org/wiki/AP_Stylebook) or the [Chicago manual of style](http://www.chicagomanualofstyle.org/book/ed17/frontmatter/toc.html). Those are great resources for writing in general, particularly for grammar and syntax, but if you're reading this page chances are you are considering style in the context of technical documentation.
 
 ### Technical Documentation
-Style guides help you write a variety of content, such as documenting the methods of an API, or presenting a overview of complex technical concepts, or focusing on how to write particular content like user manuals, release notes, or tutorials.
+Style guides help you write a variety of content, such as documenting the methods of an API, or presenting an overview of complex technical concepts, or focusing on how to write particular content like user manuals, release notes, or tutorials.
 
 Guides often help writers focus on the different readers of technical documentation, describing how to adapt content to different reader profiles, like developers, product managers, the general public, and others.
 

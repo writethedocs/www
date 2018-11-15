@@ -8,7 +8,7 @@ Markdown is a free markup language with simple formatting syntax. Use it for cre
 
 It makes it easier for non-tech writers to produce documentation that can be collaborative and flexible at the same time.
 
-## How to use Markdown?
+## How to use Markdown
 
 ### Formatting text in Markdown
 
