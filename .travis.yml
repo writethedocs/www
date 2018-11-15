@@ -11,6 +11,7 @@ install:
  - rvm use 2.4.1
  - gem install html-proofer
 script:
+ - htmlproofer test.html --alt-ignore '/.*/' --file-ignore 2013,204,2015 --allow-hash-href
  - tox
 env:
  #- TEST="lint"
