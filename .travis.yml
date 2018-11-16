@@ -15,6 +15,9 @@ env:
  - TEST="docs"
  - TEST="yaml"
  - TEST="links"
+matrix:
+ allow_failures:
+   - env: TEST="links"   
 
 
 # An attempt to explain my understanding of the rather odd convergence of Travis CI and tox with tox-travis
