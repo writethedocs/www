@@ -29,7 +29,8 @@ exclude_patterns = [
 import os
 on_rtd = os.environ.get('READTHEDOCS') == 'True'
 on_netlify = os.environ.get('BUILD_VIDEOS') == 'True'
-if not on_rtd and not on_netlify:
+on_travis = os.environ.get('TRAVIS') == 'True'
+if not on_rtd and not on_netlify and not on_travis:
     exclude_patterns.append('videos')
 
 extensions = [
