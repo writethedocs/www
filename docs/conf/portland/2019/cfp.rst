@@ -31,7 +31,7 @@ What we’re looking for
 **Mix of topics**
 
 The focus of Write the Docs is software documentation, but we actively seek talks that address a wide range of related subjects, at various levels of expertise.
-Documentation perspectives from other fields are welcome!
+Documentation perspectives from other fields are welcome, as are topics from adjacent fields!
 
 **Practicality and positivity**
 
@@ -47,6 +47,8 @@ We would much rather hear about process, culture, data, people, or the metaphysi
 
 When crafting talk proposals, remember that you're going to be talking to a mix of levels of expertise, skill sets, and professions.
 Your talk doesn't have to be relevant to everyone, but it should be relevant to most people and shouldn't make too many assumptions about what people already know.
+If you are making those assumptions about what your audience knows, it helps everyone if you state them up front explicitly.
+
 It can be  helpful to check out topics that might be related to your talk from previous years as well:
 
 * `Portland 2018 <http://www.writethedocs.org/conf/portland/2018/speakers/>`_
@@ -70,17 +72,20 @@ We especially welcome talks from underrepresented groups within the tech communi
 **Mix of roles and perspectives**
 
 Talks from the scientific community, fiction writers, system administrators, and support staff – in addition to technical writers and software developers – are all valuable to our attendees.
-More specifically, with a target of around 18 talks, we'd love to have eight from writers, six from developers and four from anyone in other roles. 
 
+**Diverse audience**
+
+Likewise, we love the diversity of our community, and we encourage support-folks to attend talks about programming, developers to attend talks about writing, writers to attend talks about data, and so on and so forth.  
 
 Interested in speaking but don't have a topic?
 -----------------------------------------------
 
-If you need a hand preparing your talk proposal, there are lots of good places to start:
+If you need a hand preparing or honing your talk proposal, there are lots of good places to start:
 
 * **Community mentorship** – We have an ever-growing pool of previous Write the Docs speakers, many of whom are happy to be a second pair of eyes on talk proposals. If you're interested in working with a past speaker, let us know!
 * **Meetup brainstorming** – For some in-person workshopping, check in on your `local meetup group <http://www.writethedocs.org/meetups/>`_ and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
 * **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `http://slack.writethedocs.org/ <http://slack.writethedocs.org/>`_.)
+* **Twitter hivemind** – If Twitter is more your speed, `#writethedocs <https://twitter.com/hashtag/writethedocs>`__ will get you there.
 
 
 Selection process
@@ -88,9 +93,8 @@ Selection process
 
 We have a small panel of proposal reviewers, and make sure to have a similar diversity in the panel as we're aiming for in our speakers.
 We rate talks out of five, and then discuss the top rated proposals.
-We actively balance for diversity in as many ways as we can, which means that we do not review talks anonymously.
-Maybe one day the industry will be in a place where can do that, but we're certainly not there yet.
 
+We actively balance for diversity in as many ways as we can, which means that we do not review talks anonymously. Maybe one day the industry will be in a place where can do that, but we're certainly not there yet.
 
 Presentation format
 -------------------

@@ -30,7 +30,7 @@ date: # how do we handle these? human readable would be nice.
   month: May
   day_one:
     event: Hike
-    date: May 18 
+    date: May 18
     summary: If you're in town early, join us for the <a href="/conf/portland/2019/hike/">Hike</a>. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
     icon: hike
   day_two:
@@ -56,15 +56,15 @@ about:
     "Crystal Ballroom located at 1332 W Burnside St"
 
 cfp:
-  url: TODO
-  ends: "TODO"
-  notification: TODO
+  url: https://docs.google.com/forms/d/e/1FAIpQLScCK5qIaRwmn2UouYvtxfrQk56r_X72aliVWLnoGKb69HZuug
+
+  ends: "17 January, 2019"
+  notification: "8 February, 2019"
 
 flaghashike: True
-flaglanding: True
-
+flaglanding: False
 flagspeakersannounced: False
-flagcfp: False
+flagcfp: True
 flaghasschedule: False
 flagticketsonsale: False
 flaghasboat: False
