@@ -8,6 +8,7 @@ install:
  - pip install tox-travis
  - eval "$(gimme 1.7)"
  - go get github.com/ValeLint/vale
+ - sudo apt-get install libcurl3-devp
 script:
  - tox
 env:
