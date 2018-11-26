@@ -25,10 +25,46 @@ Our goal is to give documentarians a chance to connect and learn from each other
 
 This year, as usual, we're trying to iterate on our tried and tested processes, both to improve our program and to give you, the speakers, a better idea of what to expect.
 
+Who we're looking for
+---------------------
+
+The short description here is "if you care about documentation and have something to say about it, we want you to speak"!
+
+That said, there are some more helpful and concrete pointers below.
+
+**Diverse group of speakers**
+
+We welcome talks from first-time speakers, from industry experts, and from everyone in between.
+Whatever your background and experience, we prefer hearing about new approaches than about tried-and-tested technology.
+We especially welcome talks from underrepresented groups within the tech community.
+
+**Mix of roles and perspectives**
+
+Talks from the scientific community, fiction writers, system administrators, and support staff – in addition to technical writers and software developers – are all valuable to our attendees.
+
+**Diverse audience**
+
+Likewise, we love the diversity of our community, and we encourage support-folks to attend talks about programming, developers to attend talks about writing, writers to attend talks about data, and so on and so forth.
+
+**Past speakers**
+
+Past speaker roles include but are not limited to
+
+* Writers
+* Developers
+* Designers
+* Testers
+* Support folks
+* Developer advocates
+* Community managers
+* Scientists
+* Librarians
+* Teachers
+
 What we’re looking for
 ----------------------
 
-**Mix of topics**
+**Diverse topics**
 
 The focus of Write the Docs is software documentation, but we actively seek talks that address a wide range of related subjects, at various levels of expertise.
 Documentation perspectives from other fields are welcome, as are topics from adjacent fields!
@@ -56,26 +92,6 @@ It can be  helpful to check out topics that might be related to your talk from p
 * `Portland 2017 <http://www.writethedocs.org/conf/na/2017/speakers/>`_
 * `Prague 2017 <http://www.writethedocs.org/conf/eu/2017/speakers/>`_
 
-
-Who we're looking for
----------------------
-
-The short description here is "if you care about documentation and have something to say about it, we want you to speak"!
-That said, there are some more helpful and concrete pointers below.
-
-**Diverse group of speakers**
-
-We welcome talks from first-time speakers, from industry experts, and from everyone in between.
-Whatever your background and experience, we prefer hearing about new approaches than about tried-and-tested technology.
-We especially welcome talks from underrepresented groups within the tech community.
-
-**Mix of roles and perspectives**
-
-Talks from the scientific community, fiction writers, system administrators, and support staff – in addition to technical writers and software developers – are all valuable to our attendees.
-
-**Diverse audience**
-
-Likewise, we love the diversity of our community, and we encourage support-folks to attend talks about programming, developers to attend talks about writing, writers to attend talks about data, and so on and so forth.  
 
 Interested in speaking but don't have a topic?
 -----------------------------------------------
