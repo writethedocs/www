@@ -17,7 +17,7 @@ Thanks to these folks for supporting the community.
 .. raw:: html
 
     {% macro sponsors() %}
-    {% include "include/{{year}}/{{shortcode}}-sponsors.html" %}
+    {% include "include/2019/portland-sponsors.html" %}
     {% endmacro %}
     {{ sponsors()|indent(4) }}
 
@@ -31,6 +31,6 @@ Write the Docs is also helped out by companies that give their employees time to
 .. raw:: html
 
     {% macro inkindsponsors() %}
-    {% include "include/{{year}}/{{shortcode}}-sponsors-in-kind.html" %}
+    {% include "include/2019/portland-sponsors-in-kind.html" %}
     {% endmacro %}
     {{ inkindsponsors()|indent(4) }}
