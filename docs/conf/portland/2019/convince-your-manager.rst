@@ -20,16 +20,16 @@ Remember to change the things in `[brackets]`!
 
   SUBJECT: Professional Development: Documentation Community Conference
 
-  I'd like to attend Write the Docs in Portland, 6-8 May 2018. This three-day event explores the art and science of documentation, and covers a diverse range of topics related to documentation in the software industry.
+  I'd like to attend Write the Docs in Portland, 19-21 May 2019. This three-day event explores the art and science of documentation, and covers a diverse range of topics related to documentation in the software industry.
 
   Write the Docs conferences bring together everyone who writes the docs – Tech Writers, Developers, Developer Relations, Customer Support – making the events an ideal networking opportunity.
   Each conference successfully combines a number of different event formats to deliver engaging, practical, and timely content.
 
-  There is a single track of talks, a parallel unconference event, and a community writing day. The `sessions from 2017 <http://www.writethedocs.org/conf/na/2017/speakers/>`_ will give you a good idea of the kinds of topics covered, many of which are relevant to my work.
+  There is a single track of talks, a parallel unconference event, and a community writing day. The `sessions from 2018 <http://www.writethedocs.org/conf/portland/2018/speakers/>`_ will give you a good idea of the kinds of topics covered, many of which are relevant to my work.
 
   Costs:
 
-  * Conference ticket (includes breakfast and lunch) - $450
+  * Conference ticket (includes breakfast and lunch) - $500
   * Travel – [fill in with estimate]
   * Accommodation – – [fill in with estimate]
 
@@ -57,9 +57,9 @@ When discussing how to pitch the conference, a few generally helpful tips emerge
 In addition, it can be useful to share some info about previous conferences. You can find the websites for previous events on :doc:`/conf/index/`, and a quick list of last year's talks down below.
 But perhaps more useful might be some of the info in our :doc:`press-kit/`, which includes community testimonials, photos, and more.
 
-List of talks from 2017
+List of talks from 2018
 -----------------------
 
 .. datatemplate::
-   :source: /_data/2017.na.speakers.yaml
+   :source: /_data/2018.portland.speakers.yaml
    :template: 2017/simple-talk-list.rst
