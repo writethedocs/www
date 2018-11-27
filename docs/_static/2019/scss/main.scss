@@ -163,8 +163,8 @@ body .page-content {
 	padding-top: 36px;
 
 	a:not(.headerlink), a:active:not(.headerlink), a:visited:not(.headerlink), a:link:not(.headerlink) {
-		border-bottom: 1px dashed $main-color;
-		color: #289d32;
+		border-bottom: 1px dashed $header-color;
+		color: $header-color;
 		text-decoration: none;
 	}
 

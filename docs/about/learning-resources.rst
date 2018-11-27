@@ -33,14 +33,14 @@ Documentation Guide
 
 This guide exists to provide both novice and expert writers a best practice handbook for building, structuring, and writing software documentation.
 
-You can check it out :doc:`/guide/index` here.
+You can check out the :doc:`/guide/index` here.
 
 Organizer Guide
 ~~~~~~~~~~~~~~~
 
 A set of resources for folks who want to organize a Write the Docs Meetup, Conference, or Event.
 
-You can check it out :doc:`/organizer-guide/index` here.
+You can check out the :doc:`/organizer-guide/index` here.
 
 Guide to Hiring and Getting Hired
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

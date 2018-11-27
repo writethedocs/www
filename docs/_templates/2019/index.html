@@ -63,6 +63,11 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
         </p>
 
         <div class="ctas-block">
+         {% if flaglanding %}
+
+         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/' + year|string + '/sponsors/prospectus') }}">Sponsor the conference</a>
+
+         {% endif %}
          {% if flagticketsonsale %}
 
          <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2019/tickets') }}">Buy a Ticket!</a>
@@ -172,7 +177,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
     <div class="uk-container" uk-grid>
       <h2>Schedule Overview</h2>
       <div class="schedule-item uk-width-1-3@s">
-        <img style="height: 150px;" src="{{ pathto('_static/2019/assets/icons/' + date.day_one.icon + '-green.svg', 1) }}">
+        <img style="height: 150px;" src="{{ pathto('_static/2019/assets/icons/' + date.day_one.icon + '-' + color +  '.svg', 1) }}">
         <h3>{{ date.day_one.event }} </h3>
         <em>{{ date.day_one.date }} </em>
         <p>{{ date.day_one.summary }} </p>
@@ -180,7 +185,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
 
       {% if date.day_two is defined %}
       <div class="schedule-item uk-width-1-3@s">
-        <img style="height: 150px;" src="{{ pathto('_static/2019/assets/icons/' + date.day_two.icon + '-green.svg', 1) }}">
+        <img style="height: 150px;" src="{{ pathto('_static/2019/assets/icons/' + date.day_two.icon + '-' + color +  '.svg', 1) }}">
         <h3>{{ date.day_two.event }} </h3>
         <em>{{ date.day_two.date }} </em>
         <p>{{ date.day_two.summary }} </p>
@@ -189,7 +194,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
 
       {% if date.day_three is defined %}
       <div class="schedule-item uk-width-1-3@s">
-        <img style="height: 150px;" src="{{ pathto('_static/2019/assets/icons/' + date.day_three.icon + '-green.svg', 1) }}">
+        <img style="height: 150px;" src="{{ pathto('_static/2019/assets/icons/' + date.day_three.icon + '-' + color +  '.svg', 1) }}">
         <h3>{{ date.day_three.event }} </h3>
         <em>{{ date.day_three.date }} </em>
         <p>{{ date.day_three.summary }} </p>

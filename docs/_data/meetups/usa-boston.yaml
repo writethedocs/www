@@ -2,11 +2,12 @@ region: North America
 country: USA
 state: Massachusetts
 city: Boston
-website: http://www.meetup.com/Write-the-Docs-BOS/
+website: https://www.meetup.com/Write-the-Docs-BOS/
 meetup: Write-the-Docs-BOS
 organizers:
+  - name: Philip Borenstein
+    link: https://www.linkedin.com/in/pborenstein/
   - name: Kartik Balasubramanian
-    link:
-
+    link: https://www.linkedin.com/in/kartik-balasubramanian-8525ab5/
   - name: Sharon Robsky
-    link:
+    link: https://www.linkedin.com/in/sharon-robsky/

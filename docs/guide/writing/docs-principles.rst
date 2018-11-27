@@ -291,7 +291,7 @@ start to finish without getting confused? If so, the documentation is
 perfectly "cumulative", which is great, but not always possible. It's
 something to strive for, especially in tutorials and examples. If you
 have separated your tutorials and examples from the reference
-documentation, the put the tutorials and examples first. Then, content
+documentation, then put the tutorials and examples first. Then, content
 within the reference information section may be ordered alphabetically
 or topically without regard to prerequisite needs.
 

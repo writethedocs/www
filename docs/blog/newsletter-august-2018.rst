@@ -48,8 +48,8 @@ A classic question of word choice arose this month: What's the difference betwee
 
 Initially, a few documentarians seemed agree that a "page" should refer to a webpage and a "screen" should refer to a software interface. However, with so many of us documenting web-based applications, that distinction quickly loses its clarity. The Microsoft Writing Style Guide was consulted, and the following guidance emerged:
 
-* "Use page or webpage to describe one of a collection of web documents that make up a website. Use page to refer to the page the reader is on or to a specific page, such as the home page or start page." (`source <https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/page>`_)
-* "It’s OK to use screen in instructions to describe what customers see on the screen or how they interact with it." (`source <https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/screen>`_)
+* "Use page or webpage to describe one of a collection of web documents that make up a website. Use page to refer to the page the reader is on or to a specific page, such as the home page or start page." (`source <https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/page>`__)
+* "It’s OK to use screen in instructions to describe what customers see on the screen or how they interact with it." (`source <https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/s/screen>`__)
 
 So...not totally definitive, and certainly still rooted in the time before applications were the web and the web was applications. Other distinctions that were entertained included "pages" for static content and "screens" for interactive interfaces. Or using "pages" for longer-form layouts that scroll, and "screens" for more compact UI patterns. There are other guidelines out there, to be sure, but ultimately, whatever decision you reach on when to use "page" and when to use "screen", what's most important is that you are consistent.
 
