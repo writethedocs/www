@@ -8,6 +8,9 @@ Hello hello, fellow documentarians! It's that time of year again: We’re very e
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you!
 Read on to learn more about the goals of the conference and what we look for in talk proposals.
 
+.. contents::
+	 :backlinks: none
+
 In the meantime, mark your calendars:
 
 **The deadline for submitting proposals is Midnight {{TZ}} on {{cfp.ends}}.**
@@ -92,9 +95,10 @@ It can be  helpful to check out topics that might be related to your talk from p
 * `Portland 2017 <http://www.writethedocs.org/conf/na/2017/speakers/>`_
 * `Prague 2017 <http://www.writethedocs.org/conf/eu/2017/speakers/>`_
 
+Not sure about speaking?
+------------------------
 
-Interested in speaking but don't have a topic?
------------------------------------------------
+Don't worry too much about whether we will accept your talk proposal, just submit it anyway, and leave the selection up to us. Just because you're not sure whether your topic is a good fit, feel you don't have enough speaking experience for a conference, or you think someone else may be able to give a better talk on your topic does not mean you don't have awesome things to say.
 
 If you need a hand preparing or honing your talk proposal, there are lots of good places to start:
 
@@ -122,9 +126,11 @@ Speaker benefits & logistics
 
 If you are selected to speak at Write the Docs, we will waive your attendance fee. We regret that we are not able to cover the cost of travel or lodging for all speakers at this time. By not covering travel costs for our speakers, we are able to keep ticket prices low and to make the conference accessible to the largest number of participants possible.
 
-If your proposal is accepted but you are unable to attend due to travel costs, please let us know and we will do our best to help make it happen.
+If your proposal is accepted but you would find it difficult to attend due to travel costs, please let us know and we will do our best to help make it happen.
 
 **You’ll hear from us with our proposal decisions by the end of {{cfp.notification}}.**
+
+Note that all Speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides will need to follow our Code of Conduct. If you are unsure about any aspect of this, please feel free to ask us for clarification
 
 Questions?
 ----------
