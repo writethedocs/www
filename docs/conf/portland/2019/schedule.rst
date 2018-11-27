@@ -14,7 +14,7 @@ All conference events (except the hike & social event) will be held at **Crystal
     :depth: 1
     :backlinks: none
 
-{% if flaglivestream %}
+{% if flaglivestreaming %}
 
 We're `live streaming </conf/{{shortcode}}/{{year}}/livestream>`_ the talks!
 
@@ -26,12 +26,12 @@ Saturday, May 5
 Hike
 ~~~~
 
-The only event scheduled on Saturday is the :doc:`annual hike </conf/portland/2018/hike>`.
+The only event scheduled on Saturday is the :doc:`annual hike </conf/{{shortcode}}/{{year}}/hike>`.
 If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
 
 * **Where**: Lower Macleay Park or Macleay Park Entrance.
 * **When**: 1:45pm
-* **Details**: :doc:`Annual hike </conf/portland/2018/hike>` page
+* **Details**: :doc:`Annual hike </conf/{{shortcode}}/{{year}}/hike>` page
 
 Sunday, May 6
 -------------
@@ -43,7 +43,7 @@ Get together with other documentarians and work on an open source project and le
 
 * **Where**: Crystal Ballroom
 * **When**: **9am-5pm**, Doors & Breakfast at 8am.
-* **Details**: :doc:`Writing Day documentation sprints </conf/portland/2018/writing-day>`
+* **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
 Reception
 ~~~~~~~~~
@@ -67,7 +67,7 @@ This is scheduled on the day of, so feel free to suggest your own session!
 
 * **Where**: Lola's room, Crystal Ballroom
 * **When**: **9:40am-5:20pm**
-* **Details**: :doc:`/conf/portland/2018/unconference`
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 
 Conference Talks
@@ -85,7 +85,7 @@ The "main event" -- we'll have a variety of speakers on the stage sharing their 
 
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
-   :template: include/schedule2018.rst
+   :template: include/schedule{{year}}.rst
    :include_context:
 
 {% else %}
@@ -112,7 +112,7 @@ We'll be holding a job fair on Tuesday morning!
 
 * **Where**: Lola's room (downstairs at the Crystal Ballroom)
 * **When**: **9:30am-11:40am**
-* **Details**: :doc:`/conf/portland/2018/job-fair`
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
 
 Unconference
 ~~~~~~~~~~~~
@@ -121,7 +121,7 @@ The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: Lola's room (downstairs at the Crystal Ballroom)
 * **When**: **1:20-3:30pm**
-* **Details**: :doc:`/conf/portland/2018/unconference`
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
@@ -136,7 +136,7 @@ Conference Talks
 
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-2.yaml
-   :template: include/schedule2018.rst
+   :template: include/schedule{{year}}.rst
    :include_context:
 
 {% else %}
