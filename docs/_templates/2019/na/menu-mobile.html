@@ -4,7 +4,9 @@
                   <li class="uk-parent">
                       <a href="{{ pathto('conf/portland/2019/schedule') }}">Program</a>
                       <ul class="uk-nav-sub">
-                          <li><a href="{{ pathto('conf/portland/2019/livestream') }}">Live Stream</a></li>                        
+                          {% if flaglivestreaming %}
+                          <li><a href="{{ pathto('conf/portland/2019/livestream') }}">Live Stream</a></li>
+                          {% endif %}
                           <li><a href="{{ pathto('conf/portland/2019/speakers') }}">Speakers</a></li>
                           <li><a href="{{ pathto('conf/portland/2019/schedule') }}">Schedule</a></li>
                           <li><a href="{{ pathto('conf/portland/2019/lightning-talks') }}">Lightning Talks</a></li>

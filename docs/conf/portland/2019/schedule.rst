@@ -14,7 +14,11 @@ All conference events (except the hike & social event) will be held at **Crystal
     :depth: 1
     :backlinks: none
 
-New in 2018! We're `live streaming </conf/portland/2018/livestream>`_ the talks! 
+{% if flaglivestream %}
+
+We're `live streaming </conf/{{shortcode}}/{{year}}/livestream>`_ the talks!
+
+{% endif %}
 
 Saturday, May 5
 ---------------
@@ -71,11 +75,13 @@ Conference Talks
 
 The "main event" -- we'll have a variety of speakers on the stage sharing their experience and knowledge.
 
-* **Where**:  Main stage, Crystal Ballroom
+* **Where**: Main stage, Crystal Ballroom
 * **When**: **9am-5pm**
-* **Details**: Full main stage schedule below!
+* **Details**: Full main stage schedule below
 
-{% if flaghasschedule %}
+.. separator to fix list formatting
+
+{% if flaglivestreaming %}
 
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
@@ -102,7 +108,7 @@ Tuesday, May 8
 Job Fair
 ~~~~~~~~
 
-New in 2018! We'll be holding a job fair on Tuesday morning!
+We'll be holding a job fair on Tuesday morning!
 
 * **Where**: Lola's room (downstairs at the Crystal Ballroom)
 * **When**: **9:30am-11:40am**
@@ -123,6 +129,8 @@ Conference Talks
 * **Where**: Main stage, Crystal Ballroom
 * **When**: **9am-4pm**
 * **Details**: Full main stage schedule below!
+
+.. separator to fix list formatting
 
 {% if flaghasschedule %}
 
