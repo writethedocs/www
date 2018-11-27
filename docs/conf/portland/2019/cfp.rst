@@ -9,7 +9,9 @@ Every year, Write the Docs invites people from all across our community to come 
 Read on to learn more about the goals of the conference and what we look for in talk proposals.
 
 .. contents::
-	 :backlinks: none
+    :local:
+    :depth: 1
+    :backlinks: none
 
 In the meantime, mark your calendars:
 
