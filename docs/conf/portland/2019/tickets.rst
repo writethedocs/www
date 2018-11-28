@@ -1,6 +1,5 @@
 :template: {{year}}/generic.html
 
-
 Tickets
 =======
 
@@ -96,3 +95,10 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 ---------------------
 
 If you can't afford these prices and still wish to attend, please email us at `{{shortcode}}@writethedocs.org <mailto:{{shortcode}}@writethedocs.org>`_. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance.
+
+Refund Policy
+-------------
+
+Refunds will be offered with a 10% processing fee until 2 weeks before the first scheduled event day.
+We can't do refunds after that date because all of our catering, badge, & swag orders will have been placed.
+
