@@ -4,6 +4,6 @@
 About the Venue
 ---------------
 
-{% include "conf/{{shortcode}}/venue.rst" %}
+{% include "conf/" + shortcode + "/venue.rst" %}
 
 

@@ -21,7 +21,7 @@ We're `live streaming </conf/{{shortcode}}/{{year}}/livestream>`_ the talks!
 {% endif %}
 
 Saturday, May 18
----------------
+----------------
 
 Hike
 ~~~~
@@ -34,7 +34,7 @@ If you get into town early, join us on the hike and take the chance to explore P
 * **Details**: :doc:`Annual hike </conf/{{shortcode}}/{{year}}/hike>` page
 
 Sunday, May 19
--------------
+--------------
 
 Writing Day
 ~~~~~~~~~~~
@@ -57,7 +57,7 @@ able to accomodate additional guests at this event.
 * **When**: **5pm-8pm**
 
 Monday, May 20
--------------
+--------------
 
 Unconference
 ~~~~~~~~~~~~
@@ -103,7 +103,7 @@ There will be light snacks and drinks available on the conference while our tab 
 * **When**: **7pm-10pm**
 
 Tuesday, May 21
---------------
+---------------
 
 Job Fair
 ~~~~~~~~
