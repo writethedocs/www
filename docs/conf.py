@@ -53,7 +53,7 @@ blog_locations = {
 blog_default_location = 'PDX'
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 
-templates_path = ['_templates']
+templates_path = ['_templates', 'include']
 templates_path.append(ablog.get_html_templates_path())
 
 source_parsers = {

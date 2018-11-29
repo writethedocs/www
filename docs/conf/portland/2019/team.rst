@@ -13,22 +13,30 @@ Folks
 Eric Holscher
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/eric.rst
+{% include "bios/eric.rst" %}
+
+
 
 Mikey Ariel
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/mikey.rst
+{% include "bios/mikey.rst" %}
+
+
 
 Samuel Wright
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/sam.rst
+{% include "bios/sam.rst" %}
+
+
 
 Sasha Romijn
 ~~~~~~~~~~~~
 
-.. include:: /include/bios/sasha.rst
+{% include "bios/sasha.rst" %}
+
+
 
 Primary Roles
 -------------
