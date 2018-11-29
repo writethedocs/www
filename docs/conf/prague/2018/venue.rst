@@ -3,4 +3,4 @@
 About the Venue
 ===============
 
-.. include:: /include/conf/{{shortcode}}/venue.rst
+{% include "conf/" + shortcode + "/venue.rst" %}
