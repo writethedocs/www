@@ -9,7 +9,7 @@ Writing Day
 Schedule
 --------
 
-- Date & Time: **Sunday, May 6th, 9am-5pm**,
+- Date & Time: **Sunday, May 19th, 9am-5pm**,
   with the conference opening reception in the same space until 9.
 - Location: **Crystal Ballroom, 1332 W Burnside St**. We will be in the main ballroom.
 
