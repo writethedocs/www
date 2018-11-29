@@ -14,22 +14,26 @@ All conference events (except the hike & social event) will be held at **Crystal
     :depth: 1
     :backlinks: none
 
-New in 2018! We're `live streaming </conf/portland/2018/livestream>`_ the talks! 
+{% if flaglivestreaming %}
 
-Saturday, May 5
+We're `live streaming </conf/{{shortcode}}/{{year}}/livestream>`_ the talks!
+
+{% endif %}
+
+Saturday, May 18
 ---------------
 
 Hike
 ~~~~
 
-The only event scheduled on Saturday is the :doc:`annual hike </conf/portland/2018/hike>`.
+The only event scheduled on Saturday is the :doc:`annual hike </conf/{{shortcode}}/{{year}}/hike>`.
 If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
 
 * **Where**: Lower Macleay Park or Macleay Park Entrance.
 * **When**: 1:45pm
-* **Details**: :doc:`Annual hike </conf/portland/2018/hike>` page
+* **Details**: :doc:`Annual hike </conf/{{shortcode}}/{{year}}/hike>` page
 
-Sunday, May 6
+Sunday, May 19
 -------------
 
 Writing Day
@@ -39,7 +43,7 @@ Get together with other documentarians and work on an open source project and le
 
 * **Where**: Crystal Ballroom
 * **When**: **9am-5pm**, Doors & Breakfast at 8am.
-* **Details**: :doc:`Writing Day documentation sprints </conf/portland/2018/writing-day>`
+* **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
 Reception
 ~~~~~~~~~
@@ -52,7 +56,7 @@ able to accomodate additional guests at this event.
 * **Where**: Crystal Ballroom
 * **When**: **5pm-8pm**
 
-Monday, May 7
+Monday, May 20
 -------------
 
 Unconference
@@ -63,7 +67,7 @@ This is scheduled on the day of, so feel free to suggest your own session!
 
 * **Where**: Lola's room, Crystal Ballroom
 * **When**: **9:40am-5:20pm**
-* **Details**: :doc:`/conf/portland/2018/unconference`
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 
 Conference Talks
@@ -71,15 +75,17 @@ Conference Talks
 
 The "main event" -- we'll have a variety of speakers on the stage sharing their experience and knowledge.
 
-* **Where**:  Main stage, Crystal Ballroom
+* **Where**: Main stage, Crystal Ballroom
 * **When**: **9am-5pm**
-* **Details**: Full main stage schedule below!
+* **Details**: Full main stage schedule below
 
-{% if flaghasschedule %}
+.. separator to fix list formatting
+
+{% if flaglivestreaming %}
 
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
-   :template: include/schedule2018.rst
+   :template: include/schedule{{year}}.rst
    :include_context:
 
 {% else %}
@@ -93,20 +99,20 @@ The official Write the Docs social!
 This event is for **conference attendees only**, so please bring your badge to be let into the venue.
 There will be light snacks and drinks available on the conference while our tab lasts.
 
-* **Where**: Jack Knife, `614 SW 11th Ave <https://www.google.com/maps/place/Jackknife/@45.5205808,-122.6849434,17z/data=!3m1!4b1!4m5!3m4!1s0x54950a035f7576e3:0x1f37e53eb881856a!8m2!3d45.5205771!4d-122.6827547>`_
+* **Where**: TBD
 * **When**: **7pm-10pm**
 
-Tuesday, May 8
+Tuesday, May 21
 --------------
 
 Job Fair
 ~~~~~~~~
 
-New in 2018! We'll be holding a job fair on Tuesday morning!
+We'll be holding a job fair on Tuesday morning!
 
 * **Where**: Lola's room (downstairs at the Crystal Ballroom)
 * **When**: **9:30am-11:40am**
-* **Details**: :doc:`/conf/portland/2018/job-fair`
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
 
 Unconference
 ~~~~~~~~~~~~
@@ -115,7 +121,7 @@ The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: Lola's room (downstairs at the Crystal Ballroom)
 * **When**: **1:20-3:30pm**
-* **Details**: :doc:`/conf/portland/2018/unconference`
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
@@ -124,11 +130,13 @@ Conference Talks
 * **When**: **9am-4pm**
 * **Details**: Full main stage schedule below!
 
+.. separator to fix list formatting
+
 {% if flaghasschedule %}
 
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-2.yaml
-   :template: include/schedule2018.rst
+   :template: include/schedule{{year}}.rst
    :include_context:
 
 {% else %}

@@ -181,7 +181,7 @@ and many of those people will come to our job fair to look for new roles and pos
 
 - **Logistics**: The Job Fair will be Tuesday morning in Lola's Room. It will run from 9:30am-11:30pm. You can set up from 8:30am.
 
-- **Layout**: Every company participating in the Job Fair will have a six-foot table and two chairs reserved for them. We do not use booths during the Job Fair. Giveaways/flyers are welcome, but please make sure everthing fits on your alloted table.
+- **Layout**: Every company participating in the Job Fair will have a six-foot table and two chairs reserved for them. We do not use booths during the Job Fair. Giveaways/flyers are welcome, but please make sure everything fits on your alloted table.
 
 Note that the `Code of Conduct </code-of-conduct/>`_ and :ref:`coc-sponsors` apply to the Job Fair as well as to the rest of the conference.
 
@@ -215,6 +215,7 @@ Inquiries
 Please direct all inquiries to our sponsorship team at:
 
 - sponsorship@writethedocs.org
+
 
 .. _ticket: https://ti.to/writethedocs/write-the-docs-{{ shortcode }}-{{ year }}/
 .. _tickets: https://ti.to/writethedocs/write-the-docs-{{ shortcode }}-{{ year }}/

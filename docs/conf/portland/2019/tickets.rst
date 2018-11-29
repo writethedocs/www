@@ -9,7 +9,7 @@ Tickets
 
 {% else %}
 
-**Tickets are sold out!**
+**Tickets will be available in January.**
 
 {% endif %}
 
