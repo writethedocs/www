@@ -20,7 +20,7 @@ We're `live streaming </conf/{{shortcode}}/{{year}}/livestream>`_ the talks!
 
 {% endif %}
 
-Saturday, May 5
+Saturday, May 18
 ---------------
 
 Hike
@@ -33,7 +33,7 @@ If you get into town early, join us on the hike and take the chance to explore P
 * **When**: 1:45pm
 * **Details**: :doc:`Annual hike </conf/{{shortcode}}/{{year}}/hike>` page
 
-Sunday, May 6
+Sunday, May 19
 -------------
 
 Writing Day
@@ -56,7 +56,7 @@ able to accomodate additional guests at this event.
 * **Where**: Crystal Ballroom
 * **When**: **5pm-8pm**
 
-Monday, May 7
+Monday, May 20
 -------------
 
 Unconference
@@ -99,10 +99,10 @@ The official Write the Docs social!
 This event is for **conference attendees only**, so please bring your badge to be let into the venue.
 There will be light snacks and drinks available on the conference while our tab lasts.
 
-* **Where**: Jack Knife, `614 SW 11th Ave <https://www.google.com/maps/place/Jackknife/@45.5205808,-122.6849434,17z/data=!3m1!4b1!4m5!3m4!1s0x54950a035f7576e3:0x1f37e53eb881856a!8m2!3d45.5205771!4d-122.6827547>`_
+* **Where**: TBD
 * **When**: **7pm-10pm**
 
-Tuesday, May 8
+Tuesday, May 21
 --------------
 
 Job Fair
