@@ -36,22 +36,6 @@ Inspired by our friends at DjangoCon US, we decided to shake things up and sell 
 
 .. class:: ticket
 
-**Community Sponsorship Tickets** *{{tickets.community.price}}*
---------------------------------------------------
-
-Support the growing community! Get a logo on our website, as well as a ticket.
-This option is great for startups, open-source projects, and small non-profit organizations.
-Limit 1 per organization.
-If you are a larger company or organization, please contact us at sponsorship@writethedocs.org to arrange for sponsorship.
-
-{% if flagticketsonsale %}
-
-* `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
-
-{% endif %}
-
-.. class:: ticket
-
 **Corporate Tickets** *{{tickets.corporate.price}}*
 --------------------------------------------
 
@@ -91,10 +75,29 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 
 .. class:: ticket
 
+**Community Sponsorship Tickets** *{{tickets.community.price}}*
+--------------------------------------------------
+
+Support the growing community! Get a logo on our website, as well as a ticket.
+This option is great for startups, open-source projects, and small non-profit organizations.
+Limit 1 per organization.
+If you are a larger company or organization, please contact us at sponsorship@writethedocs.org to arrange for sponsorship.
+
+{% if flagticketsonsale %}
+
+* `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+
+{% endif %}
+
+
+.. class:: ticket
+
 **None of the above**
 ---------------------
 
 If you can't afford these prices and still wish to attend, please email us at `{{shortcode}}@writethedocs.org <mailto:{{shortcode}}@writethedocs.org>`_. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance.
+
+.. class:: ticket
 
 Refund Policy
 -------------
