@@ -1,5 +1,8 @@
 Blog Posts
 ----------
 
-.. postlist:: 100
-   :date: %A, %B %d, %Y
+.. postlist:: 300
+   :date: %B %d, %Y
+   :format: {title} - {date}
+   :list-style: circle
+
