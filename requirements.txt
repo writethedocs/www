@@ -13,3 +13,4 @@ git+https://github.com/ericholscher/datatemplates@add-key-and-context#egg=sphinx
 urllib3[secure]
 yamale
 ruamel.yaml
+delorean
