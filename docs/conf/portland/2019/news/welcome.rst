@@ -17,7 +17,7 @@ Call for Proposals
 ------------------
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
-We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manage, or support professional who cares about content and communication, we want to hear from you!
+We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
 
 You can read our full `Call for Proposals <http://www.writethedocs.org/conf/portland/2019/cfp/>`__ on the website.
 The Call for Proposals will be open until **Midnight PST January 17, 2019**.
