@@ -14,3 +14,4 @@ urllib3[secure]
 yamale
 ruamel.yaml
 delorean
+ics
