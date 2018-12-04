@@ -1,4 +1,4 @@
-.. post:: December 5, 2018
+.. post:: December 4, 2018
    :tags: newsletter
 
 #########################################
