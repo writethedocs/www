@@ -38,10 +38,10 @@ Videos and photos
 =================
 
 Videos of all the talks are now available on our `Youtube channel <https://www.youtube.com/playlist?list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt>`__.
-Thanks to `Darren Chan Photography <https://www.darrenchanphotography.com/>`__ (also one of our regular documentarians) for doing such a great job with these.
+Thanks to `Darren Chan Photography <https://www.darrenchanphotography.com/>`__ (also one of our regular documentarians) for doing such a great job with the videos and photos from the conference.
 You can also subscribe to our `YouTube channel <https://www.youtube.com/channel/UCPhWNEFb53x6PjnpRIYf1yg?>`_ so you don’t miss any future content!
 
-We also have photos from the event available on `Flickr <https://www.flickr.com/photos/writethedocs/albums/72157695294209550>`_, thanks to our wonderful photographer Darren Chan.
+We also have photos from the event available on `Flickr <https://www.flickr.com/photos/writethedocs/albums/72157695294209550>`_
 You are welcome to use them for non-commercial purposes, as per our Creative Commons License.
 
 Audience feedback
