@@ -36,12 +36,12 @@ Primary Roles
 * **Conference chair** - Eric Holscher
 * **Code of conduct response** - See `code of conduct <http://www.writethedocs.org/code-of-conduct/#staff-contact-information>`_ page
 * **Communication chair** - Mikey Ariel
-* **Hike coordinator** - Eric Holscher
 * **Infrastructure chair** - Sasha Romijn
 * **Speaker coordinator** - Samuel Wright
 * **Swag coordinator** - Mikey Ariel
 
 * **Conference co-chair** - TBD
+* **Hike coordinator** - TBD
 * **Emcee** - TBD
 * **Explore Portland coordinators** - TBD
 * **Job Fair coordinator** - TBD
