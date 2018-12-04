@@ -9,13 +9,15 @@ Hi, and welcome to the last newsletter of the year!
 
 What a packed year it's been - with *four* conferences, and more meetups than I'm going to try to count. If you missed our most recent conference, Write the Docs Australia, there are tons of ways to catch up:
 
-- Swapnil's `blog post roundup <TODO>`_ 
+- Swapnil's `blog post recap <http://www.writethedocs.org/conf/australia/2018/news/thanks-recap/>`_ 
 - A lovely `playlist of all the videos <https://www.youtube.com/watch?v=N13_FP2NkSk&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt>`_ 
 - The fabulous `photo album <https://www.flickr.com/photos/writethedocs/albums/72157697741784910>`_
 
 Looking forward to next year: the Call for Proposals for Write the Docs Portland has just gone up! It's open until **midnight PST, 17 January 2019**, so get cracking and send us all your brilliant talk ideas. For full details, here's the `announcement post <http://www.writethedocs.org/conf/portland/2019/news/welcome/>`_. 
 
 The newsletter team is off next month for Christmas (it's snowing here already and I am *super* excited); we'll be back in your inboxes in February. Happy holidays, everyone!
+
+Here's what we've been talking about on Slack this month:
 
 ----------------------
 Discovering user needs
@@ -45,7 +47,7 @@ There was a big discussion this month about how to define career paths for tech 
 
 - Where you personally go in your career.
 
-  This isn't bounded by your organisation's ladder: your path might involve changing company, or role. You might have a five-year plan, or think one step at a time, or no plan at all.
+  This isn't bounded by your organisation's ladder: your path might involve changing company, or role.
 
 Some participants thought the idea of a career path is tied to leadership: you don't have a career path if there's no route to C level. There were two counter-points here: firstly, you can have a path without that as your goal. Secondly, there are many routes to leadership, not necessarily defined by a ladder - for example becoming a product manager, and moving up from there to C suite.
 
@@ -53,15 +55,15 @@ Career ladders vary a lot. Bigger companies may have different "tracks", for tho
 
 It's important that ladders have well-defined levels. For example, if you move up after a fixed number of years, the change isn't so meaningful. For better ideas on progression, take a look at `junior vs senior technical writers <http://www.writethedocs.org/blog/newsletter-june-2018/#junior-vs-senior-technical-writers>`_.
 
-One person pointed out that you can think of your career as a combination of the path you want and the ladder that's there: it's a collaboration between you and your company.
+Ultimately, your career is a combination of the path you want and the ladders available: it's a collaboration between you and your company.
 
 ---------------------------
 Grammar and style questions
 ---------------------------
 
-This month came with a spate of language usage questions. We love getting these, so go ahead and post them in `#general <https://writethedocs.slack.com/messages/general/>`_, but other good places to check came up: 
+This month came with a spate of language usage questions. We love getting these, so go ahead and post them in *#general*, but other good places to check came up: 
 
-- Microsoft Manual of Style/`Microsoft Writing Style Guide <https://docs.microsoft.com/en-us/style-guide/welcome/>`_ (the usual suspect)
+- `Microsoft Writing Style Guide <https://docs.microsoft.com/en-us/style-guide/welcome/>`_ (the usual suspect)
 - `Oxford English Dictionary <http://www.oed.com/>`_
 - `Merriam-Webster Dictionary <https://www.merriam-webster.com/>`_
 - `Google Trends <https://trends.google.com/trends/?geo=US>`_ can give you an idea of common usage
@@ -97,7 +99,7 @@ Some of our tech writing beginners asked for suggestions of where they can learn
 
 There was one book suggestion too: Janet Van Wicklen's The Tech Writer's Survival Guide: A Comprehensive Handbook for Aspiring Technical Writers.
 
-New tech writers and documentarians can also check out the `#learn-tech-writing <https://writethedocs.slack.com/messages/learn-tech-writing/>`_ channel.
+New tech writers and documentarians can also check out the *#learn-tech-writing* channel.
 
 -------------
 Featured jobs
