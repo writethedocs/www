@@ -32,17 +32,17 @@ Conscious consumption (aka Food and Drinks)
 ===========================================
 
 In the spirit of the community sharing nature of Write the Docs events, we decided to use social enterprises for our catering.
-Our food (check out the photos to see the amazing spread!) was catered for by 'Streat <https://www.streat.com.au/>`__, who are tackling youth homelessness and disadvantage their way.
-When it came to beverages, we were ably supported by 'Wheelly Good Coffee <https://wheellygoodcoffee.com.au/>`__, who have programs to improve the social and economic capabilities of some of Australia's most high risk young people.
+Our food (check out the photos to see the amazing spread!) was catered for by `Streat <https://www.streat.com.au/>`__, who are tackling youth homelessness and disadvantage their way.
+When it came to beverages, we were ably supported by `Wheelly Good Coffee <https://wheellygoodcoffee.com.au/>`__, who have programs to improve the social and economic capabilities of some of Australia's most high risk young people.
 
 Videos and photos
 =================
 
-Videos of all the talks are now available on our 'Youtube channel <https://www.youtube.com/playlist?list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt>'__.
-Thanks to 'Darren Chan Photography <https://www.darrenchanphotography.com/>'__ (also one of our regular documentarians) for doing such a great job with these.
+Videos of all the talks are now available on our `Youtube channel <https://www.youtube.com/playlist?list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt>`__.
+Thanks to `Darren Chan Photography <https://www.darrenchanphotography.com/>`__ (also one of our regular documentarians) for doing such a great job with these.
 You can also subscribe to our `YouTube channel <https://www.youtube.com/channel/UCPhWNEFb53x6PjnpRIYf1yg?>`_ so you don’t miss any future content!
 
-We also have photos from the event available on `Flickr <`Flickr <https://www.flickr.com/photos/writethedocs/albums/72157695294209550>`_>`_, thanks to our wonderful photographer Darren Chan.
+We also have photos from the event available on `Flickr <https://www.flickr.com/photos/writethedocs/albums/72157695294209550>`_, thanks to our wonderful photographer Darren Chan.
 You are welcome to use them for non-commercial purposes, as per our Creative Commons License.
 
 Audience feedback
@@ -56,10 +56,15 @@ We sent out a survey to our attendees and these are some of the initial reaction
 A few comments from the conference:
 
 “Being part of the WTD community provides me access to a large, diverse group of very talented people.”
+
 “I loved how diverse they all were. They were all great.”
+
 “They were all great. A high bar set for next year.”
+
 “I enjoyed the unconference sessions a lot as they were a good opportunity to take an active role, rather than a passive role.”
+
 “Excellent event, well organised and structured, and highly enjoyable.”
+
 “Great fun and social. Glad I attended. You created a safe / community space.”
 
 Code of Conduct transparency report
