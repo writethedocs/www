@@ -27,8 +27,8 @@ Conference venue
 
 What better place to hold a documentation conference than a library! We had 2 rooms overlooking the sensational Port Phillip Bay right at the top floor of a public library. When the audience was not soaking in the documentation goodness, they were more than happy to stretch their legs and have a stroll through the library amidst tons of books.
 
-Conscious consumption (aka Food and Drinks)
-===========================================
+Food and Drinks
+===============
 
 In the spirit of the community sharing nature of Write the Docs events, we decided to use social enterprises for our catering.
 Our food (check out the photos to see the amazing spread!) was catered for by `Streat <https://www.streat.com.au/>`__, who are tackling youth homelessness and disadvantage their way.
