@@ -5,7 +5,7 @@
 Write the Docs Newsletter – December 2018
 #########################################
 
-Hi, and welcome to the last newsletter of the year!
+Hi, everyone, and welcome to the last newsletter of the year!
 
 What a packed year it's been - with *four* conferences, and more meetups than I'm going to try to count. If you missed our most recent conference, Write the Docs Australia, there are tons of ways to catch up:
 
