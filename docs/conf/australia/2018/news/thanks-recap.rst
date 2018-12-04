@@ -25,7 +25,7 @@ Overall, we were so excited to see our first conference come together and see ou
 Conference venue
 ================
 
-What better place to hold a documentation conference than a library! We had 2 rooms overlooking the sensational Port Phillip Bay right at the top floor of a public library. While the audience was not soaking in the documentation goodness, they were more than happy to stretch their legs and have a stroll through the library amidst tons of books.
+What better place to hold a documentation conference than a library! We had 2 rooms overlooking the sensational Port Phillip Bay right at the top floor of a public library. When the audience was not soaking in the documentation goodness, they were more than happy to stretch their legs and have a stroll through the library amidst tons of books.
 
 Conscious consumption (aka Food and Drinks)
 ===========================================
