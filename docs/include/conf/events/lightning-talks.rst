@@ -1,4 +1,4 @@
-A lightning talk is a very short talk where you share an idea, concept, or a bit of information you find interesting. They’re quick, easy, and a great way to practice. (Lovely example `*here* <https://www.youtube.com/watch?feature=player_embedded&v=6wcP1aMl7wQ>`__ beginning at 15:42!)
+A lightning talk is a very short talk where you share an idea, concept, or a bit of information you find interesting. They’re quick, easy, and a great way to speak in front of an audience for the first time.
 
 **You will register for lightning talks in person at the conference.**
 At the beginning of each day, we will set a basket that you can put your proposal in.
