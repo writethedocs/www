@@ -9,7 +9,7 @@ To contribute to the Write the Docs website, it's helpful to familiarize yoursel
 
 All of the generated website lives inside the `docs` directory.
 We are trying to move towards a more data driven approach,
-which allows for easier maintanance and reuse of content between events.
+which allows for easier maintenance and reuse of content between events.
 
 #### Conference pages
 
