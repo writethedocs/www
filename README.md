@@ -5,6 +5,27 @@ about the Write the Docs group, as well as information about writing documentati
 
 To contribute to the Write the Docs website, it's helpful to familiarize yourself with the [Sphinx site generator](https://www.sphinx-doc.org/), as well as [reStructuredText markup syntax](https://www.sphinx-doc.org/en/stable/rest.html).
 
+### Code Architecture
+
+All of the generated website lives inside the `docs` directory.
+We are trying to move towards a more data driven approach,
+which allows for easier maintanance and reuse of content between events.
+
+#### Conference pages
+
+We have a few important directories and files:
+
+* `_data/config-portland-2019.yaml` - This file contains the data for rendering a specific conference.
+* `_templates/2019/` - Contains the HTML templates for the website for a conference for that year.
+* `conf/portland/2019/` - Contains the RST files that we use for rendering the conference.
+* `include/conf/` Contains the text snippets which are the same between all conferences, mostly describing what our events are (eg. lightning talks and unconference). They are included via the RST files for each event.
+* `_ext/core.py` Contains the Sphinx extensions that manage injecting custom variables into our RST and Jinja templates. Specifically the `rstjinja` and `load_page_yaml_data` functions do a lot of the work.
+
+All files that live under the `conf` directory are rendered in a special way.
+We automatically inject the data inside the `_data/config-<location>-<year>.yaml` file into the Jinja context for the RST files.
+This allows us to say `{{ year }}` in the RST files,
+and have it be rendered properly at `2019`.
+
 ### Prerequisites for generating the docs locally
 
 You'll probably need `root` privileges to install the prerequisites.
