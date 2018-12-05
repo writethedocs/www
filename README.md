@@ -21,7 +21,7 @@ We have a few important directories and files:
 * `include/conf/` Contains the text snippets which are the same between all conferences, mostly describing what our events are (eg. lightning talks and unconference). They are included via the RST files for each event.
 * `_ext/core.py` Contains the Sphinx extensions that manage injecting custom variables into our RST and Jinja templates. Specifically the `rstjinja` and `load_page_yaml_data` functions do a lot of the work.
 
-All files that live under the `conf` directory are rendered in a special way.
+All files that live under the `conf` directory are rendered so as to have access to
 We automatically inject the data inside the `_data/config-<location>-<year>.yaml` file into the Jinja context for the RST files.
 This allows us to say `{{ year }}` in the RST files,
 and have it be rendered properly at `2019`.
