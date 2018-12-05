@@ -27,6 +27,9 @@ All files that live under the `conf` directory are rendered so as to have access
 This allows us to say `{{ year }}` in the RST files,
 and have it be rendered properly at `2019`.
 
+### Videos
+
+An even more fragile process which needs documenting and fixing.
 ### Prerequisites for generating the docs locally
 
 You'll probably need `root` privileges to install the prerequisites.
