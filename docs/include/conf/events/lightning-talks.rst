@@ -2,8 +2,11 @@ A lightning talk is a very short talk where you share an idea, concept, or a bit
 
 They’re quick, easy, and a great way to practice. (Lovely example `*here* <https://www.youtube.com/watch?feature=player_embedded&v=6wcP1aMl7wQ>`__ beginning at 15:42!)
 
+
 Planning: What goes into a lightning talk?
 ------------------------------------------
+
+.. note:: You don't need to submit these in advance, just throw your proposal into the lightening talk chalice on the day! If your talk isn't selected on the Monday, you're welcome to try again on the Tuesday.
 
 A lightning talk should be about **five minutes long**, just long enough to give an overview and make people curious about your topic. You can talk about anything that’s related to the event’s general theme (in the case of Write the Docs, anything even remotely related to documentation).
 
