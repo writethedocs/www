@@ -4,7 +4,9 @@
 Unconference
 ============
 
-.. include:: /include/conf/events/unconference.rst
+{% include "conf/events/unconference.rst" %}
+
+
 
 Schedule
 --------

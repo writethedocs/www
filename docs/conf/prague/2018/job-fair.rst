@@ -3,7 +3,7 @@
 Job Fair
 ========
 
-.. include:: /include/conf/events/job-fair.rst
+{% include "conf/events/job-fair.rst" %}
 
 Schedule
 --------

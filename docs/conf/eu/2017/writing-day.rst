@@ -1,6 +1,6 @@
 :template: 2017/eu-content.html
 
-.. include:: /include/conf/events/writing-day.rst
+{% include "conf/events/writing-day.rst" %}
 
 
 Logistics

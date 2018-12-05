@@ -13,17 +13,17 @@ Folks
 Mikey Ariel
 ~~~~~~~~~~~
 
-.. include:: /include/bios/mikey.rst
+{% include "bios/mikey.rst" %}
 
 Samuel Wright
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/sam.rst
+{% include "bios/sam.rst" %}
 
 Eric Holscher
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/eric.rst
+{% include "bios/eric.rst" %}
 
 
 Primary Roles

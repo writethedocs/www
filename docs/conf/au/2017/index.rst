@@ -171,7 +171,7 @@
                   </div>
                 </div>
 
-.. include:: /include/conf/2017-au-sponsors.rst
+{% include "conf/2017-au-sponsors.rst" %}
 
 .. raw:: html
 
@@ -190,7 +190,7 @@
                   </div>
                 </div>
 
-.. include:: /include/conf/2017-au-sponsors-in-kind.rst
+{% include "conf/2017-au-sponsors-in-kind.rst" %}
 
 .. raw:: html
 
@@ -209,7 +209,7 @@
                   </div>
                 </div>
 
-.. .. include:: /include/conf/2017-au-sponsors-media.rst
+.. {% include "conf/2017-au-sponsors-media.rst" %}
 
 .. raw:: html
 
