@@ -1,6 +1,11 @@
-A lightning talk is a very short talk where you share an idea, concept, or a bit of information you find interesting.
+A lightning talk is a very short talk where you share an idea, concept, or a bit of information you find interesting. They’re quick, easy, and a great way to practice. (Lovely example `*here* <https://www.youtube.com/watch?feature=player_embedded&v=6wcP1aMl7wQ>`__ beginning at 15:42!)
 
-They’re quick, easy, and a great way to practice. (Lovely example `*here* <https://www.youtube.com/watch?feature=player_embedded&v=6wcP1aMl7wQ>`__ beginning at 15:42!)
+**You will register for lightning talks in person at the conference.**
+At the beginning of each day, we will set a basket that you can put your proposal in.
+We will announce a cut off time,
+and after that we will pick from the submitted talks and announce who will be speaking that afternoon.
+
+Lightning talks are a wonderful way to prompt people to think, collaborate, and talk about documentation in a more unstructured way. It also allowed people to discuss topics that were not covered fully or partially throughout the conference.
 
 Planning: What goes into a lightning talk?
 ------------------------------------------
