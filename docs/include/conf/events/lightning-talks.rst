@@ -15,9 +15,8 @@ We generally have two baskets for people who submit talks:
 * First-time speakers
 * Experienced speakers
 
-We do this so we have a mix of first time speakers and experienced.
-It's often easier for experienced speakers to work up a nerve to submit,
-and we want to give everyone a chance to submit before the deadline.
+We do this so we have a mix of first time and experienced speakers.
+We also want first-time speakers to know that we care about them having a chance to get on stage.
 
 Planning: What goes into a lightning talk?
 ------------------------------------------
