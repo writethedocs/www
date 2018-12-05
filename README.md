@@ -7,7 +7,7 @@ To contribute to the Write the Docs website, it's helpful to familiarize yoursel
 
 ### Code Architecture
 
-All of the generated website lives inside the `docs` directory.
+All of the generated website lives inside the `docs` directory, but many files outside the `conf/` directory are just static RST.
 We are trying to move towards a more data driven approach,
 which allows for easier maintenance and reuse of content between events.
 
