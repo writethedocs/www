@@ -1,76 +1,121 @@
 
-Code of Conduct Response Playbook
-=================================
+Code of Conduct Response Guide
+==============================
 
-This document aims to help organizers and moderators of Write the Docs spaces to handle reports of :doc:`code-of-conduct` violations.
+.. contents::
+   :local:
+   :depth: 2
+   :backlinks: none
 
-CoC violations at conferences
------------------------------
+This document aims to help organizers and moderators of Write the Docs spaces to handle reports of :doc:`code-of-conduct` reports.
+This includes conferences, online spaces and meetups.
 
-Presentations
-~~~~~~~~~~~~~
-Presentations or similar events should not be stopped for one-time gaffes or minor problems, although a member of conference staff should speak to the presenter afterward. However, staff should take immediate action to politely and calmly stop any presentation or event that repeatedly or seriously violates the anti-harassment policy. For example, simply say "I'm sorry, this presentation cannot be continued at the present time" with no further explanation.
+General guidelines for Code of Conduct response
+-----------------------------------------------
 
-In-person reports
-~~~~~~~~~~~~~~~~~
+The role Code of Conduct response teams
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-When taking a report from someone experiencing harassment you should record what they say and reassure them they are being taken seriously, but avoid making specific promises about what actions the organizers will take.
+Different spaces have different response teams to handle Code of Conduct reports:
 
-Ask for any other information if the reporter has not volunteered it (such as time, place) but do not pressure them provide it if they are reluctant. Even if the report lacks important details such as the identity of the person taking the harassing actions, it should still be recorded and passed along to the appropriate staff member(s).
+* Each Write the Docs conference has a Code of Conduct team.
+* For online platforms, reports are made to conduct@writethedocs.org.
+* For meetups, the first point of contact are the local organizers.
 
-If the reporter desires it, arrange for an escort by conference staff or a trusted person, contact a friend, and contact local law enforcement. Do not pressure the reporter to take any action if they do not want to do it. Respect the reporter's privacy by not sharing unnecessary details with others, especially individuals who were not involved with the situation or non-staff members.
+The people involved are listed in detail at the end of the :doc:`code-of-conduct`.
 
-After resolving the issue, a CoC report should be written and submitted to conduct@writethedocs.org as soon as possible, so that the information can be logged and included in transparency reports. The report should be written according to the :doc:`/code-of-conduct-reporting`.
+The Code of Conduct response team of the space is in charge of handling reports until their completion. It is their task to ensure all reports are handled timely and professionally. Although there are some variations in the process, there are general guidelines that apply to all of these spaces. Everyone who is a Code of Conduct contact in any space, should read and follow this guide in handling reports.
 
-Warnings
-~~~~~~~~
+Participants look towards organisers in general, but CoC response team members in particular, to be an example appropriate behaviour. It essential for their behaviour to remain within the Code of Conduct, and to be an example for the community. Violations by team members can severely erode trust in the Code of Conduct process.
 
-Any member of conference staff can issue a verbal warning to a participant that their behavior violates the conference Code of Conduct.
+CoC contacts almost never act on their own, including tasks like replying to Code of Conduct related e-mails. If it’s not possible to meet with the entire team in time, at least one other team member should be consulted.
 
-Expulsion
-~~~~~~~~~
+Receiving a report
+~~~~~~~~~~~~~~~~~~
 
-A participant may be expelled by the decision of conference staff and at their discretion. Here are some general guidelines for when a participant should be expelled:
+Reports are typically received by e-mail, in person, or from another staff member. If the report was received from someone else, it may be best to meet with the original reporter first, depending on how complete the information is. The information the response team aims to collect is listed in the :doc:`code-of-conduct`, but sometimes not all information is available, or the reporter may be reluctant to provide some information. Do not pressure them.
 
-* A third offense that resulted in a warning from staff
+When receiving a report, the response team acknowledges receipt as soon as possible, and aims to be understanding and compassionate. However, no commitment should be made on whether this is a violation or which action will be taken.
+
+If the reporter desires it, arrange for an escort by conference staff or a trusted person, contact a friend, or contact local law enforcement. Do not pressure the reporter to take any action if they do not want to do it. Respect the reporter's privacy by not sharing details with others.
+
+Acting as a team
+~~~~~~~~~~~~~~~~
+
+The response team generally works, decides and communicates as a team. If the report indicates that immediate action is required and other response team members are not available, any response team member may take the action they think is necessary. If possible, it’s still preferred to take action after a brief discussion with at least one other response team member, or even any other organiser, rather than acting entirely unilaterally. Formal processes and guidelines must never get in the way of preventing threats to anyone’s safety.
+
+For example, you may consider unilateral action:
+
+* When any delay of action will likely bring unacceptable further harm to others. Ongoing aggression or serious harassment are examples of this.
+* If you feel people are in immediate physical danger, it can be appropriate to contact local law enforcement.
+* If you witness a presentation which is clearly in violation of the Code of Conduct repeatedly or very seriously. You might simply say “I’m sorry, this presentation cannot be continued at the present time”. Examples of when this is justified could be significant threats of violence, harassment of others, or continuous sexist jokes. Do not end a presentation in cases like a few inappropriate jokes - in that case do report it to the response team.
+
+Reviewing the report
+~~~~~~~~~~~~~~~~~~~~
+
+Based on the report and any other available information, the response team will meet to determine, to the best of their ability:
+
+* What happened
+* Whether this event constitutes a Code of Conduct violation
+* Who, if anyone, was the bad actor(s)
+* What the appropriate resolution is
+
+A written record will be kept of each incident and its review. Although that sometimes seems superflous at the time, hectic environments like conferences can make it easy to forget or confuse details later.
+
+As a result of the meeting, the response team may come to a conclusion about a resolution, or may conclude that additional information should be obtained. In the latter case, this additional information will be collected as soon as possible. Any conversations as part of this should generally be done by two people from the response team.
+
+Conflicts of interest
+~~~~~~~~~~~~~~~~~~~~~
+
+As soon as reasonable, but at the latest at the report review meeting, team members should declare any conflicts of interest. This can mean being friends with one of the involved parties, or anything else that may make it harder to remain neutral.
+
+A conflict of interest does not inherently mean the team member can no longer participate in the process, as that would make it very hard for the team to act on reports involving well-known people in the community. However, if a report concerns someone a team member is very close to, they probably should be not take part in the process. The team will decide together on where to draw this line in individual cases. Where possible, any conversations with offenders should not be done by people who know them, as it can be very unpleasant for everyone involved.
+
+Resolutions
+~~~~~~~~~~~
+
+The most common resolutions the response team can decide on are:
+
+* No action (if the team determines no violation occurred).
+* A private or pubic reprimand.
+* Demanding that a public apology is made.
+* Demanding that a participant stops their behaviour.
+* Demanding that a participant prevents further contact with certain other participants.
+* Not publishing the video of a conference talk.
+* Cancelling a conference talk.
+* Removing a participant from the conference, meetup or online space, without refund.
+
+Resolutions are not restricted to these options. Any conversations with bad actors are done by two people from the response team, and notes from this conversation will be added to the record of the incident. Regarding apologies, do not place a reporter in a situation where they are pressured to accept apologies from the reported person.
+
+When deciding on a resolution, the basic goal is to address the report in an appropriate way, while also looking to prevent or reduce the risk of continuing harm in the future. For example, you may try to distinguish whether a violation occurred intentionally or not, especially in not too severe cases like inappropriate jokes. In intentional cases, or severe behaviour, stronger measures are probably appropriate. The response team can also use behaviour on social media, the conference slack or personal interactions to further build a picture of the person(s) involved.
+
+To provide a number of examples, these are situations where immediate removal from a space is likely appropriate:
+
+* Repeated violations that resulted in a warning from staff
 * Continuing to harass after any "No" or "Stop" instruction
 * A pattern of harassing behavior, with or without warnings
 * A single serious offense (e.g., punching or groping someone)
 * A single obviously intentional offense (e.g., taking up-skirt photos)
 
-In addition, hotel/venue security and local authorities should be contacted when appropriate. Please contact one of the representatives listed in the conference brochure or posted on signs in the conference venues.
+The response team should not involve venue security or law enforcement, unless they have consent from the affected person(s), or if the safety risk is so significant that there is no other reasonable option. Venue security can be involved to ensure a person can not re-enter the building. However, details of the incident or the reporter must not be shared.
 
-CoC violations in community spaces
-----------------------------------
+For online spaces, a response must be sent within one week to the person who filed the report with either a resolution or an explanation of why the situation is not yet resolved. For conferences and meetups, the ideal response time is typically a few hours at most, though the specific circumstances of a report may require faster action or more investigation.
 
-In case someone reports a code of conduct violation outside conferences or meetups, in one of the Write the Docs online spaces, or otherwise by email,
+Informing the reporter
+~~~~~~~~~~~~~~~~~~~~~~
 
-Initial receipt
-~~~~~~~~~~~~~~~
-
-Reports must be acknowledged as received within 24 hours or sooner.
-
-The staff must to review the incident and determine the following:
-
-* What happened.
-* Whether this event constitutes a code of conduct violation.
-* Who the bad actor was.
-* Whether this is an ongoing situation
-* If there is a threat to anyone's physical safety.
-
-After the staff has a complete account of the events they need to make a decision as to how to resolve the case. Resolutions might include:
-
-* Nothing (if we determine no violation occurred).
-* A private reprimand from the staff to the individual(s) involved.
-* A public reprimand.
-* An imposed vacation (for example, asking someone to "take a week off" from Slack or the forum).
-* A permanent or temporary ban from some or all WTD spaces (Slack, the forum, meetups).
-* A request for a public or private apology.
-
-A response must be sent within one week to the person who filed the report with either a resolution or an explanation of why the situation is not yet resolved.
+After the resolution is complete, the reporter should be informed of the action taken by the response team, and the reasoning behind this.
 
 Public statements
 ~~~~~~~~~~~~~~~~~
-As a general rule, conference staff should not make any public statements about the behavior of individual people during or after the conference. After each conference, a CoC transparency report will be published with anonymized information about any violations that might have occured.
 
-This report should be handled with care not to divulge personally identifying information about victims, reporters, and violators, and should serve as a means to ensure that attendees will be comfortable reporting harrasment and that our community will be kept accountable for supporting and encouraging safe spaces.
+As a general rule, conference staff should not make any public statements about the behaviour of individual people during or after the conference. An exception to this are situations that happened in a fairly public context, because attendees may otherwise think no action was taken, eroding trust in the Code of Conduct process. The response team will decide together whether to make a public statement, and if so, in how much detail. This should not be decided unilaterally.
+
+After each conference, a Code of Conduct transparency report will be published by the response team with anonymised information about any violations that might have occurred.
+
+Any public statements should be handled with care not to divulge personally identifying information about anyone affected, and should serve as a means to ensure that attendees will be comfortable reporting suspected CoC violations and that our community will be kept accountable for supporting and encouraging safe spaces.
+
+Reporting by conferences and meetups
+------------------------------------
+
+After the event, the local response team should send the CoC report and submit it to conduct@writethedocs.org as soon as possible, so that the information can be logged and included in transparency reports. The response team can also contact conduct@writethedocs.org to ask for advice in handling a report.
