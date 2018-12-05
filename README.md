@@ -19,7 +19,6 @@ We have a few important directories and files:
 * `_templates/2019/` - Contains the HTML templates for all conferences that year, including common pages and separate navigation menus.
 * `conf/portland/2019/` - Contains the RST files that we use for rendering the conference. Copy these over from the *previous* conference chronologically, not the previous conference in the same location.
 * `include/conf/` Contains the text snippets which are *mostly* the same between all conferences, mostly describing what our events are (eg. lightning talks and unconference). They are included via the RST files for each event. Now we've merged #738 we can add content that is conditional to each conference using Jinja.
-
 * `_ext/core.py` Contains the Sphinx extensions that manage injecting custom variables into our RST and Jinja templates. Specifically the `rstjinja` and `load_page_yaml_data` functions do a lot of the work.
 
 All files that live under the `conf` directory are rendered so as to have access to
