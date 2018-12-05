@@ -16,7 +16,7 @@ which allows for easier maintenance and reuse of content between events.
 We have a few important directories and files:
 
 * `_data/config-portland-2019.yaml` - This file contains the data for rendering a specific conference.
-* `_templates/2019/` - Contains the HTML templates for the website for a conference for that year.
+* `_templates/2019/` - Contains the HTML templates for all conferences that year, including common pages and separate navigation menus.
 * `conf/portland/2019/` - Contains the RST files that we use for rendering the conference.
 * `include/conf/` Contains the text snippets which are the same between all conferences, mostly describing what our events are (eg. lightning talks and unconference). They are included via the RST files for each event.
 * `_ext/core.py` Contains the Sphinx extensions that manage injecting custom variables into our RST and Jinja templates. Specifically the `rstjinja` and `load_page_yaml_data` functions do a lot of the work.
