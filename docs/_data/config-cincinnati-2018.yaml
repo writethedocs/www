@@ -17,7 +17,7 @@ cobrand:
   logo: openhelp.svg
 
 photos:
-  default: _static/2018/assets/headers/cincinncati-portland-venue.png
+  default: _static/2018/assets/headers/cincinncati-venue.png
 
 tickets:
   corporate:

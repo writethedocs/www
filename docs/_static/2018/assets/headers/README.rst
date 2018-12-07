@@ -7,5 +7,4 @@ All conferences should have:
 * `unconf`
 * `group`
 * `speakers`
-* `venue`
 * `stage`
