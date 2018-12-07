@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/group.png
+:banner: _static/2018/assets/headers/portland-group.png
 
 Sponsorship Prospectus
 ######################

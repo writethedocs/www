@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/venue.png
+:banner: _static/2018/assets/headers/portland-venue.png
 
 Tickets
 =======

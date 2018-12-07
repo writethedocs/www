@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/writing-day.png
+:banner: _static/2018/assets/headers/portland-unconf.png
 
 Job Fair
 ========

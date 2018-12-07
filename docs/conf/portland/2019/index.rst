@@ -1,5 +1,5 @@
 :template: {{year}}/index.html
-:banner: _static/{{year}}/assets/headers/group.png
+:banner: _static/{{year}}/assets/headers/portland-group.png
 :orphan:
 
 .. raw:: html

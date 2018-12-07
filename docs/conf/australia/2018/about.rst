@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/{{year}}/assets/headers/team.png
+:banner: _static/{{year}}/assets/headers/portland-team.png
 
 About the Conference
 ====================

@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 
 {% if shortcode == 'prague'%}
-:banner: _static/2018/assets/headers/group.png
+:banner: _static/2018/assets/headers/portland-group.png
 
 Write the Docs Boat Ride
 ========================
@@ -10,7 +10,7 @@ Write the Docs Boat Ride
 
 {% elif shortcode == 'portland'%}
 
-:banner: _static/2018/assets/headers/hike.png
+:banner: _static/2018/assets/headers/portland-hike.png
 
 Write the Docs Hike
 ===================
