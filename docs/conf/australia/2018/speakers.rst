@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/australia-portland-speakers.jpg
+:banner: _static/2018/assets/headers/australia-portland-speakers.png
 
 Conference Speakers
 ===================
