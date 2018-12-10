@@ -1,0 +1,108 @@
+name: Prague
+
+shortcode: prague # prague australia?
+templatecode: eu # HACK
+year: 2019
+city: Prague
+local_area: Czech Republic
+area: Europe
+area_adj: European
+tz: CEST
+email: prague@writethedocs.org
+color: coral
+
+photos:
+  default: _static/2019/assets/headers/prague-group.png
+
+tickets:
+  community:
+    price: €500
+  corporate:
+    price: €250
+  independent:
+    price: €150
+  student:
+    price: €75
+
+sponsorship:
+  first_draft:
+    price: €500
+  second_draft:
+    price: €1000
+  publisher:
+    price: €3000
+  patron:
+    price: €6000
+  keystone:
+    price: €12000
+  job_fair:
+    price: €800
+    half: €400
+  lanyard:
+    price: TBD
+  writing_day:
+    price: TBD
+
+date: # how do we handle these? human readable would be nice.
+  main: "**September 15-17, 2019, in Prague, Czechia**"
+  short: Sep 15-17, 2019
+  tickets_live: "March 2019"
+  month: September
+  day_one:
+    event: Boat Ride
+    date: September 14
+    summary: If you're in town early, join us for the Boat Ride. Prague features beautiful architectural and historical monuments along the river, and being on the water is an excellent way to sample the highlights.
+    icon: boat
+    dotw: Saturday
+  day_two:
+    event: Writing Day
+    date: September 15
+    summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    icon: writing
+    dotw: Sunday
+  day_three:
+    event: Main Conference
+    date: September 16-17
+    summary: The main days of the conference. We will be running our main track in the ballroom, and the Unconference.
+    icon: conference
+    dotw: Monday
+  day_four:
+    date: September 17
+    dotw: Tuesday
+
+about:
+  summary:
+    "The main presentation track takes place from **September 15-17 (Monday and Tuesday) from 10:00 to 18:00**.
+    During the main event we also run an :doc:`/conf/prague/2019/unconference`.
+
+    You can find out more information about the venue and its accessibility on our :doc:`/conf/prague/2019/venue` page."
+  venue:
+    "Auto Klub, Opletalova 29, Prague"
+  attendees: 300
+  mainroom:
+    Main Ballroom
+  unconfroom:
+    Unconference Room, across from the Main Ballroom
+  photos: https://www.flickr.com/photos/writethedocs/sets/72157695294209550
+  videos: https://www.writethedocs.org/videos/prague/2019/
+
+cfp:
+  url: https://goo.gl/forms/M6YjhBgmCEwOwrzP2
+  ends: Thursday, May 31st
+  notification: Friday, June 15th
+
+job_fair:
+  location: Unconference Room, across from the Main Ballroom
+
+flaghassponsors: True
+flagcfp: False
+flagticketsonsale: False
+flagspeakersannounced: False
+flaghasschedule: False
+flagwelcomewagon: False
+flaglivestreaming: False
+flagvideos: false
+
+flaghashike: False
+flaghasboat: True
+flaglanding: True
