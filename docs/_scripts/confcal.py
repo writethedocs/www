@@ -1,43 +1,70 @@
 from delorean import Delorean, parse
 from datetime import timedelta, datetime
 from ics import Calendar, Event
-
-conf = "2019/05/19 00:00:00 -0800"
-
-d = Delorean()
-d = parse(conf)
+import sys
+import argh
+import io
+import yaml
 
 events = {
-  'Announce Conference & CFP': 175,
-  'Instructions for CFP Review': 125,
-  'CFP Reminder': 123,
-  'CFP closes': 120,
-  'Send Accept/Reject Emails': 102,
-  'Finalize headshots, abstracts': 92,
-  'Announce Speakers': 88,
-  'Call for Volunteers': 60,
-  'Promote Events & Activities': 45,
-  'Confirm schedule with speakers': 38,
-  'Announce schedule': 30,
-  'Speaker venue email': 21,
-  'Volunteer email': 7,
-  'Final speaker email': 7,
-  'Get ready': 47,
-  'Welcome': 3,
-  'Conference': 0,
-  'Thanks': -3,
+    'Announce conference & CFP': {'notice': 175, 'audience': 'Conf list'},
+    'Instructions for CFP review': {'notice': 125, 'audience': 'Review panel'},
+    'CFP reminder': {'notice': 123, 'audience': 'Conf list'},
+    'CFP closes': {'notice': 120, 'audience': 'None'},
+    'Send accept/reject emails': {'notice': 102, 'audience': 'CFP applicants'},
+    'Finalize headshots, abstracts': {'notice': 92, 'audience': 'Speakers'},
+    'Announce speakers': {'notice': 88, 'audience': 'Conf list'},
+    'Call for volunteers': {'notice': 60, 'audience': 'Conf list'},
+    'Promote events & activities': {'notice': 45, 'audience': 'Conf list'},
+    'Confirm schedule with speakers': {'notice': 38, 'audience': 'Speakers'},
+    'Announce full schedule': {'notice': 30, 'audience': 'Conf list'},
+    'Speaker venue email': {'notice': 21, 'audience': 'Speakers'},
+    'Volunteer email': {'notice': 7, 'audience': 'Volunteers'},
+    'Final speaker email': {'notice': 7, 'audience': 'Speakers'},
+    'Get ready': {'notice': 47, 'audience': 'Attendees'},
+    'Welcome': {'notice': 3, 'audience': 'Attendees'},
+    'Conference': {'notice': 0, 'audience': 'Attendees'},
+    'Thanks': {'notice': -3, 'audience': 'Conf list'},
 }
 
-c = Calendar()
+def load_yaml(path):
+    with io.open(path, encoding='utf-8') as fp:
+        return yaml.safe_load(fp)
 
-for key, value in events.items():
-  #print(key, 'at conf minus', value, 'days', 'on', (d-timedelta(days=value)).format_datetime('dd MMMM yyyy', locale='en_GB'))
+def dates(date, events=events):
+    "Takes the first day of the conf (dd/mm/yy)"
+    "outputs dates to stdout, and writes dates to confdates.yaml"
+    "Edit that file if you want to tweak the dates before creating the ICS"
 
-  e = Event()
-  start = d-timedelta(days=value)
-  e.name = key
-  e.begin = start.datetime
-  c.events.add(e)
+    d = Delorean()
+    d = parse(date, dayfirst=True)
 
-with open('wtd.ics', 'w') as f:
-   f.writelines(c)
+    test = dict()
+    for name, info in events.items():
+        date=(d-timedelta(days=info['notice'])).format_datetime('dd MMMM yyyy', locale='en_GB')
+        print(name, 'on', date )
+        test.update({name:{'date': date, 'audience': info['audience']}})
+
+    yaml.dump(test, open('confdates.yaml', 'w+'))
+
+def ics():
+    "Writes stored dates to ICS format."
+    data = load_yaml('confdates.yaml')
+    #yaml.dump(data,sys.stdout)
+
+    cal = Calendar()
+
+    for name, info in data.items():
+        event = Event()
+        event.name = name + ' [' + info['audience'] + ']'
+        event.begin = parse(info['date']).datetime
+        cal.events.add(event)
+
+    with open('confdates.ics', 'w') as f:
+       f.writelines(cal)
+
+parser = argh.ArghParser()
+parser.add_commands([dates, ics])
+
+if __name__ == '__main__':
+    parser.dispatch()
