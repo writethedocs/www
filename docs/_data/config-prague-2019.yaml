@@ -65,10 +65,7 @@ date: # how do we handle these? human readable would be nice.
     date: September 16-17
     summary: The main days of the conference. We will be running our main track in the ballroom, and the Unconference.
     icon: conference
-    dotw: Monday
-  day_four:
-    date: September 17
-    dotw: Tuesday
+    dotw: Monday/Tuesday
 
 about:
   summary:

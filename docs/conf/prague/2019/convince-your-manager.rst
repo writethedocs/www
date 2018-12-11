@@ -57,9 +57,9 @@ When discussing how to pitch the conference, a few generally helpful tips emerge
 In addition, it can be useful to share some info about previous conferences. You can find the websites for previous events on :doc:`/conf/index/`, and a quick list of last year's talks down below.
 But perhaps more useful might be some of the info in our :doc:`press-kit/`, which includes community testimonials, photos, and more.
 
-List of talks from 2017
------------------------
+List of talks from {{year-1}}
+-----------------------------
 
 .. datatemplate::
-   :source: /_data/2017.{{templatecode}}.speakers.yaml
-   :template: 2017/simple-talk-list.rst
+   :source: /_data/{{year-1}}.{{shortcode}}.speakers.yaml
+   :template: {{year-1}}/speakers-simple-list.rst
