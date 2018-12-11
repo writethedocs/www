@@ -40,5 +40,5 @@ We’ve been so thrilled to see how much this community of documentarians has gr
 
 Remember, talk proposals will open soon. Start gathering your ideas and getting excited about another year of great talks and conversations!
 
-Cheers,   
-Write the Docs Team   
+Cheers,
+Write the Docs Team
