@@ -16,25 +16,25 @@ photos:
 
 tickets:
   community:
-    price: €500
+    price: €600
   corporate:
-    price: €250
+    price: €300
   independent:
-    price: €150
+    price: €175
   student:
     price: €75
 
 sponsorship:
   first_draft:
-    price: €500
+    price: €750
   second_draft:
-    price: €1000
+    price: €1500
   publisher:
-    price: €3000
+    price: €3500
   patron:
-    price: €6000
+    price: €7500
   keystone:
-    price: €12000
+    price: €13000
   job_fair:
     price: €800
     half: €400
