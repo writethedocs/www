@@ -13,8 +13,6 @@ Sponsorship Prospectus
    :depth: 1
    :backlinks: none
 
-**New this year**: our `Job Fair`_.
-
 Concept
 =======
 
@@ -25,7 +23,7 @@ theory, and information delivery.
 Writing and maintaining documentation involves a multidisciplinary
 community of technical writers, designers, librarians, typesetters, developers,
 support teams, marketers and many others. This group of people can be
-collectively referred to as “documentarians”.
+collectively referred to as "documentarians".
 
 **Write the Docs** creates a time and a place for this community to
 share information, discuss ideas, and work together to improve the art
@@ -235,7 +233,7 @@ Run of Show
 
 A quick overview of the spaces:
 
-* The *Main Ballroom* is where talks and most sponsorship activity happens. 
+* The *Main Ballroom* is where talks and most sponsorship activity happens.
 * The *Unconference Room* is across from the main ballroom. This is where the Unconference & Job Fair happens.
 
 An overview of the conference schedule:
@@ -259,7 +257,7 @@ Eric Holscher <eric@writethedocs.org> will be your primary contact, but our team
 What are the dates that sponsors need to know about in advance?
 ------------------------------------------------------------------
 
-* **SUNDAY**: The swag tables are available during the Writing Day, if you want to put out swag items early. 
+* **SUNDAY**: The swag tables are available during the Writing Day, if you want to put out swag items early.
 
 * **MONDAY**: Doors open at 9am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the conference. The conference will run until around 5pm.
 
@@ -278,10 +276,9 @@ The job fair will be a low key event. Every participant will have a six-foot tab
 What happens with my swag items?
 --------------------------------
 
-We will have a few "swag tables" that are placed around the back of the main ballroom. This will be where sponsor and community stickers & swag will be located, so that attendees are free to pick it up. 
+We will have a few "swag tables" that are placed around the back of the main ballroom. This will be where sponsor and community stickers & swag will be located, so that attendees are free to pick it up.
 
 How do I ship items?
 --------------------
 
 Prior to the event, if you'd like to ship swag, we will send you the mailing address **3 weeks** prior to the event. We can't recieve packages before that. Anything sent to us will be available at the venue on the day of the event.
-
