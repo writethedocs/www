@@ -2,7 +2,7 @@
 ----------------
 
 - :doc:`Write the Docs Portland </conf/portland/2019/index>`, May 19-21, **Portland, Oregon**
-- Write the Docs Vilnius, June
+- :doc:`Write the Docs Vilnius </conf/vilnius/2019/index>`, June 2-3, **Vilnius, Lithuania**
 - Write the Docs Prague, September
 - More details soon for other events
 
