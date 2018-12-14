@@ -95,13 +95,11 @@ and open source organizations.
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 - **NOTE**: This sponsorship does not include a job fair table. You can purchase one for an additional $500 (50% off)
 
-The **First Draft** package costs **$750**.
+The **First Draft** package costs {{ sponsorship.first_draft.price }}.
 You can buy it directly on our ticket website.
 
 Second Draft
 ------------
-
-**One left**
 
 The **Second Draft** package is great for companies looking to hire or promote a product.
 
@@ -112,12 +110,10 @@ The **Second Draft** package is great for companies looking to hire or promote a
 - One featured job posting in our Newsletter (2,500 subscribers)
 - **NOTE**: This sponsorship does not include a job fair table. You can purchase one for an additional $500 (50% off)
 
-The **Second Draft** package costs **$1,500**.
+The **Second Draft** package costs {{ sponsorship.second_draft.price }}.
 
 Publisher
 ---------
-
-**Sold out**
 
 The **Publisher** package is great for sending a team and getting to know the community.
 
@@ -128,48 +124,7 @@ The **Publisher** package is great for sending a team and getting to know the co
 - Two featured job postings in our Newsletter (2,500 subscribers)
 - A table at the job fair
 
-The **Publisher** package costs **$4,000**.
-
-.. raw:: pdf
-
-   PageBreak
-
-Patron
-------
-
-Limit 2 (**Sold out**)
-
-The **Patron** package highlights your company as a force in the industry and community:
-
-- Ten (10) tickets_
-- Small table in the main conference hall
-- Small logo included on videos
-- Full size logo & link on the Write the Docs website
-- Name included in welcome announcement in email newsletters and social media
-- Display 3 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Three featured job postings in our Newsletter (2,500 subscribers)
-- A featured table at the job fair
-
-The **Patron** package costs **$8,000**.
-
-Keystone
---------
-
-Limit 1 (**Sold out**)
-
-The **Keystone** package highlights you as our main community partner:
-
-- Fifteen (15) tickets_
-- Large table in the main conference hall
-- Dedicated table for staff
-- Large logo included on videos
-- Full size logo & link on the Write the Docs website
-- Name included in welcome announcement in email newsletters and social media
-- Display unlimited promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Five featured job postings in our Newsletter (2,500 subscribers)
-- A featured table at the job fair
-
-The **Keystone** package costs **$14,000**.
+The **Publisher** package costs {{ sponsorship.publisher.price }}.
 
 .. raw:: pdf
 
