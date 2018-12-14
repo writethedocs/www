@@ -23,11 +23,19 @@ tickets:
   student:
     price: $100 # TODO
 
-date: # how do we handle these? human readable would be nice.
+sponsorship:
+  first_draft:
+    price: €300
+  second_draft:
+    price: €600
+  publisher:
+    price: €1000
+
+date:
   main: "**June 2-3, 2018, in Vilnius, Lithuania**"
   month: June
   short: June 2-3, 2018
-  tickets_live: "January 2018" # TODO
+  tickets_live: "January 2018"
 
   day_one:
     event: Writing Day
