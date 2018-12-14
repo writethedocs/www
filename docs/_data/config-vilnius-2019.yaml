@@ -9,6 +9,7 @@ area: Europe # Europea Australia
 area_adj: European
 tz: EEST
 email: vilnius@writethedocs.org
+color: coral
 
 photos:
   default: _static/2019/assets/headers/group.png
