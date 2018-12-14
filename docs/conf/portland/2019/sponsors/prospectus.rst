@@ -13,8 +13,6 @@ Sponsorship Prospectus
    :depth: 1
    :backlinks: none
 
-**New this year**: our `Job Fair`_.
-
 Concept
 =======
 
@@ -78,10 +76,6 @@ Sponsorship Packages
 The following options are suggested sponsorship levels. We are happy to discuss
 adjustments and custom packages.
 
-These package prices apply to the Portland conference only. Look here for
-:doc:`prices </conf/prague/2018/sponsors/prospectus/>` for the European
-conference. Ask us about discounted packages for sponsoring both conferences.
-
 First Draft
 -----------
 
@@ -93,15 +87,12 @@ and open source organizations.
 - Small logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- **NOTE**: This sponsorship does not include a job fair table. You can purchase one for an additional $500 (50% off)
 
-The **First Draft** package costs **$750**.
+The **First Draft** package costs **{{sponsorship.first_draft.price}}**.
 You can buy it directly on our ticket website.
 
 Second Draft
 ------------
-
-**One left**
 
 The **Second Draft** package is great for companies looking to hire or promote a product.
 
@@ -109,15 +100,13 @@ The **Second Draft** package is great for companies looking to hire or promote a
 - Medium logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- One featured job posting in our Newsletter (2,500 subscribers)
-- **NOTE**: This sponsorship does not include a job fair table. You can purchase one for an additional $500 (50% off)
+- One featured job posting in our Newsletter (4,000 subscribers)
+- A table at the job fair
 
-The **Second Draft** package costs **$1,500**.
+The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
 
 Publisher
 ---------
-
-**Sold out**
 
 The **Publisher** package is great for sending a team and getting to know the community.
 
@@ -125,10 +114,10 @@ The **Publisher** package is great for sending a team and getting to know the co
 - Large logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 2 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Two featured job postings in our Newsletter (2,500 subscribers)
+- Two featured job postings in our Newsletter (4,000 subscribers)
 - A table at the job fair
 
-The **Publisher** package costs **$4,000**.
+The **Publisher** package costs **{{sponsorship.publisher.price}}**.
 
 .. raw:: pdf
 
@@ -137,7 +126,7 @@ The **Publisher** package costs **$4,000**.
 Patron
 ------
 
-Limit 2 (**Sold out**)
+Limit 3
 
 The **Patron** package highlights your company as a force in the industry and community:
 
@@ -147,15 +136,15 @@ The **Patron** package highlights your company as a force in the industry and co
 - Full size logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 3 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Three featured job postings in our Newsletter (2,500 subscribers)
+- Three featured job postings in our Newsletter (4,000 subscribers)
 - A featured table at the job fair
 
-The **Patron** package costs **$8,000**.
+The **Patron** package costs **{{sponsorship.patron.price}}**.
 
 Keystone
 --------
 
-Limit 1 (**Sold out**)
+Limit 1
 
 The **Keystone** package highlights you as our main community partner:
 
@@ -166,10 +155,10 @@ The **Keystone** package highlights you as our main community partner:
 - Full size logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display unlimited promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Five featured job postings in our Newsletter (2,500 subscribers)
+- Five featured job postings in our Newsletter (4,000 subscribers)
 - A featured table at the job fair
 
-The **Keystone** package costs **$14,000**.
+The **Keystone** package costs **{{sponsorship.keystone.price}}**.
 
 .. raw:: pdf
 
@@ -192,7 +181,7 @@ and many of those people will come to our job fair to look for new roles and pos
 
 - **Logistics**: The Job Fair will be Tuesday morning in Lola's Room. It will run from 9:30am-11:30pm. You can set up from 8:30am.
 
-- **Layout**: Every company participating in the Job Fair will have a six-foot table and two chairs reserved for them. We do not use booths during the Job Fair. Giveaways/flyers are welcome, but please make sure everthing fits on your alloted table.
+- **Layout**: Every company participating in the Job Fair will have a six-foot table and two chairs reserved for them. We do not use booths during the Job Fair. Giveaways/flyers are welcome, but please make sure everything fits on your alloted table.
 
 Note that the `Code of Conduct </code-of-conduct/>`_ and :ref:`coc-sponsors` apply to the Job Fair as well as to the rest of the conference.
 
@@ -227,8 +216,9 @@ Please direct all inquiries to our sponsorship team at:
 
 - sponsorship@writethedocs.org
 
-.. _ticket: https://ti.to/writethedocs/write-the-docs-portland-2018/
-.. _tickets: https://ti.to/writethedocs/write-the-docs-portland-2018/
+
+.. _ticket: https://ti.to/writethedocs/write-the-docs-{{ shortcode }}-{{ year }}/
+.. _tickets: https://ti.to/writethedocs/write-the-docs-{{ shortcode }}-{{ year }}/
 
 Run of Show
 ===========

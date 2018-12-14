@@ -29,7 +29,8 @@ exclude_patterns = [
 import os
 on_rtd = os.environ.get('READTHEDOCS') == 'True'
 on_netlify = os.environ.get('BUILD_VIDEOS') == 'True'
-if not on_rtd and not on_netlify:
+on_travis = os.environ.get('TRAVIS') == 'True'
+if not on_rtd and not on_netlify and not on_travis:
     exclude_patterns.append('videos')
 
 extensions = [
@@ -52,7 +53,7 @@ blog_locations = {
 blog_default_location = 'PDX'
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 
-templates_path = ['_templates']
+templates_path = ['_templates', 'include']
 templates_path.append(ablog.get_html_templates_path())
 
 source_parsers = {

@@ -1,7 +1,7 @@
 Podcast
 =======
 
-.. note:: You can see more about our `podcast`_ on it's own dedicated site: https://podcast.writethedocs.org/
+.. note:: You can see more about our `podcast`_ on its own dedicated site: https://podcast.writethedocs.org/
 
 Write the Docs is a community of people focused on software documentation. We consider everyone who cares about communication, documentation, and their users to be a member of our community. This can be programmers, tech writers, customer support, marketers, and anyone else who wants people to have great experiences with software.
 

@@ -3,8 +3,32 @@
 This is the code that powers [www.writethedocs.org](http://www.writethedocs.org). It contains information
 about the Write the Docs group, as well as information about writing documentation.
 
-To contribute to the Write the Docs website, it's helpful to familiarize yourself with the [Sphinx site generator](http://sphinx.pocoo.org/index.html), as well as [reStructuredText markup syntax](http://www.sphinx-doc.org/en/stable/rest.html).
+To contribute to the Write the Docs website, it's helpful to familiarize yourself with the [Sphinx site generator](https://www.sphinx-doc.org/), as well as [reStructuredText markup syntax](https://www.sphinx-doc.org/en/stable/rest.html).
 
+### Code Architecture
+
+All of the generated website lives inside the `docs` directory, but many files outside the `conf/` directory are just static RST.
+We are trying to move towards a more data driven approach,
+which allows for easier maintenance and reuse of content between events.
+
+#### Conference pages
+
+We have a few important directories and files:
+
+* `_data/config-portland-2019.yaml` - This file contains the data for rendering a specific conference.
+* `_templates/2019/` - Contains the HTML templates for all conferences that year, including common pages and separate navigation menus.
+* `conf/portland/2019/` - Contains the RST files that we use for rendering the conference. Copy these over from the *previous* conference chronologically, not the previous conference in the same location.
+* `include/conf/` Contains the text snippets which are *mostly* the same between all conferences, mostly describing what our events are (eg. lightning talks and unconference). They are included via the RST files for each event. Now we've merged #738 we can add content that is conditional to each conference using Jinja.
+* `_ext/core.py` Contains the Sphinx extensions that manage injecting custom variables into our RST and Jinja templates. Specifically the `rstjinja` and `load_page_yaml_data` functions do a lot of the work.
+
+All files that live under the `conf` directory are rendered so as to have access to
+ the data inside the `_data/config-<location>-<year>.yaml` file in the Jinja context for the RST files.
+This allows us to say `{{ year }}` in the RST files,
+and have it be rendered properly at `2019`.
+
+### Videos
+
+An even more fragile process which needs documenting and fixing.
 ### Prerequisites for generating the docs locally
 
 You'll probably need `root` privileges to install the prerequisites.

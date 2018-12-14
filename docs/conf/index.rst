@@ -12,8 +12,6 @@ Our conferences create a time and a place for the global community of
 documentarians to share information, discuss ideas, and work together to
 improve the art and science of documentation.
 
-.. include:: /include/conf/current.rst
+{% include "conf/current.rst" %}
 
-.. include:: /include/conf/past.rst
-
-.. If you're looking for the conf toctree that stops sphinx shouting at us, it is one level up in docs/index.rst
+{% include "conf/past.rst" %}

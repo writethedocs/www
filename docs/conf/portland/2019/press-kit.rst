@@ -15,8 +15,8 @@ Use these unedited, or tweak them as needed!
 .. raw:: html
 
   <ul>
-    <li>I&#39;m attending writethedocs in Portland, 6-8 May 2018 to discuss all things documentation. <br><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="I&#39;m attending writethedocs in Portland, 6-8 May 2018 to discuss all things documentation." data-url="http://www.writethedocs.org/conf/portland/2018/" data-hashtags="writethedocs" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
-    <li>Join writers, programmers, librarians, scientists, developer advocates. and support humans at #writethedocs in Portland, 6-8 May 2018 to discuss all things documentation. <br><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Join writers, programmers, librarians, scientists, developer advocates. and support humans at #writethedocs in Portland, 6-8 May 2018 to discuss all things documentation." data-url="http://www.writethedocs.org/conf/portland/2018/" data-hashtags="writethedocs" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
+    <li>I&#39;m attending writethedocs in Portland, 19-21 May 2019 to discuss all things documentation. <br><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="I&#39;m attending writethedocs in Portland, 19-21 May 2019 to discuss all things documentation." data-url="http://www.writethedocs.org/conf/portland/2019/" data-hashtags="writethedocs" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
+    <li>Join writers, programmers, librarians, scientists, developer advocates. and support humans at #writethedocs in Portland, 19-21 May 2019 to discuss all things documentation. <br><a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Join writers, programmers, librarians, scientists, developer advocates. and support humans at #writethedocs in Portland, 19-21 May 2019 to discuss all things documentation." data-url="http://www.writethedocs.org/conf/portland/2019/" data-hashtags="writethedocs" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></li>
   </ul>
 
 Good things people have said about us
@@ -45,9 +45,9 @@ We have some stats about attendees, membership, and website hits over on the fol
 Images and logos
 -------------------
 
-We're working on getting our new logos and images up here, in the meantime you can use any of the Creative Commons licensed images from our `Flickr gallery <https://www.flickr.com/photos/writethedocs/>`_ or take a look at the `logo and other assets stylesheet <https://github.com/writethedocs/resources/blob/master/conf/2018/STYLE-SHEET-2018.pdf>`_.
+We're working on getting our new logos and images up here, in the meantime you can use any of the Creative Commons licensed images from our `Flickr gallery <https://www.flickr.com/photos/writethedocs/>`_ or take a look at the `logo and other assets stylesheet <https://github.com/writethedocs/resources/blob/master/conf/2019/STYLE-SHEET-2019.pdf>`_.
 
-In particular, we encourage you to use these three photos in your tweets and blog posts, which we think are expecially representative of Write the Docs Portland.
+In particular, we encourage you to use these three photos in your tweets and blog posts, which we think are especially representative of Write the Docs Portland.
 
 .. raw:: html
 

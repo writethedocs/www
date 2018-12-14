@@ -3,4 +3,4 @@
 Badge Flair Contest
 ===================
 
-.. include:: /include/conf/events/badge-flair.rst
+{% include "conf/events/badge-flair.rst" %}

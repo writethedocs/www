@@ -4,4 +4,4 @@
 Speaking Tips
 =================
 
-.. include:: /include/conf/speaking-tips.rst
+{% include "conf/speaking-tips.rst" %}
