@@ -4,7 +4,7 @@ shortcode: prague # prague australia?
 templatecode: eu # HACK
 year: 2019
 city: Prague
-local_area: Czechia
+local_area: Czech Republic
 area: Europe
 area_adj: European
 tz: CEST
@@ -44,7 +44,7 @@ sponsorship:
     price: TBD
 
 date: # how do we handle these? human readable would be nice.
-  main: "**September 15-17, 2019, in Prague, Czechia**"
+  main: "**September 15-17, 2019, in Prague, Czech Republic**"
   short: Sep 15-17, 2019
   tickets_live: "March 2019"
   month: September
