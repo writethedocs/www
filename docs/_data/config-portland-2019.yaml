@@ -82,6 +82,6 @@ flaghasschedule: False
 flagticketsonsale: False
 flaghasboat: False
 flaghasshirts: False
-flaghassponsors: False
+flaghassponsors: True
 flagvideos: False
 flaglivestreaming: False
