@@ -79,7 +79,7 @@ flaglanding: False
 flagspeakersannounced: False
 flagcfp: True
 flaghasschedule: False
-flagticketsonsale: False
+flagticketsonsale: True
 flaghasboat: False
 flaghasshirts: False
 flaghassponsors: True
