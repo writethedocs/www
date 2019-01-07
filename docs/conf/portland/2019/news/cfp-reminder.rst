@@ -19,7 +19,7 @@ The Call for Proposals will remain open until **Thursday, January 31st at midnig
 
 And if you've already got an idea, but you’re having a hard time getting your proposal to come together, you can always ask for feedback on the `WTD Slack <http://www.writethedocs.org/slack/>`_. The community is there to help!
 
-As always, we're eagerly looking forward to `your submissions <http://www.writethedocs.org/conf/portland/2019/cfp/#submit-your-proposal>`_! We’ll be reviewing all the talk proposals early February, and will be contacting everyone who submitted a proposal mid-February.
+As always, we're eagerly looking forward to `your submissions <http://www.writethedocs.org/conf/portland/2019/cfp/#submit-your-proposal>`_! We’ll be reviewing all the talk proposals early February, and will be contacting everyone who submitted a proposal by {{ cfp.notification }}.
 
 Get your ticket for the conference
 ----------------------------------
