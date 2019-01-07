@@ -7,7 +7,7 @@ Write the Docs 2018 Stats
 
 2018 was another wonderful year for Write the Docs, it marks our 6th year of existence.
 
-This post contains stats that mark our progress,
+This post contains stats that show our progress,
 so that we can look back and see how we've changed as a community.
 
 This year I've removed a lot of the commentary except where it's useful for interpreting the numbers.
