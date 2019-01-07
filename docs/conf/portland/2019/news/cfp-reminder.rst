@@ -9,7 +9,7 @@ CFP Reminder & Tickets on Sale
 
 Happy New Year, fellow documentarians!
 
-As we get ready to start the year, we're happy to share the latest update about the Portlant conference. We are extending our `call for proposals <http://www.writethedocs.org/conf/portland/2019/cfp/>`_ until **January 31st**, and `tickets for the conference are officially on sale <http://www.writethedocs.org/conf/portland/2019/tickets/>`_. Read on for more details on both!
+As we get ready to start the year, we're happy to share the latest update about the Portland conference. We are extending our `call for proposals <http://www.writethedocs.org/conf/portland/2019/cfp/>`_ until **January 31st**, and `tickets for the conference are officially on sale <http://www.writethedocs.org/conf/portland/2019/tickets/>`_. Read on for more details on both!
 
 Submit your talk by January 31st
 --------------------------------
