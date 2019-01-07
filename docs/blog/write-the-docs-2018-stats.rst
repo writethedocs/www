@@ -24,10 +24,10 @@ to facilitate comparison across the years.
 Conferences
 -----------
 
-* 450 attendees in Portland (from 400 in 2017)
-* 275 attendees in Prague (from 250 in 2017)
-* 100 attendees in Australia (from 50 in 2017)
-* 50 attendees in Cincinnati (new in 2018)
+* 450 attendees in Portland (up from 400)
+* 275 attendees in Prague (up from 250)
+* 100 attendees in Australia (up from 50)
+* 50 attendees in Cincinnati (new this year)
 
 Australia went from a one-day to a two-day conference,
 growing from 50 to 100 attendees.
@@ -38,32 +38,32 @@ and had 50 attendees.
 Slack Network
 -------------
 
-* 5,250 :doc:`members </slack>` (up from 3,000 members in 2017)
+* 5,250 :doc:`members </slack>` (up from 3,000)
 
 Newsletter
 ----------
 
-* 4,707 :doc:`subscribers </newsletter>` (up from 3,406 in 2017)
+* 4,707 :doc:`subscribers </newsletter>` (up from 3,406)
 
 Meetups
 -------
 
-* 8642 Members (up from 5589 in 2016)
-* 39 :doc:`Meetups </meetups/index>` (up from 30 Meetups in 2017)
-* 4 Continents (same as in 2016)
+* 8642 Members (up from 5589)
+* 39 :doc:`Meetups </meetups/index>` (up from 30)
+* 4 Continents (same as last year)
 
 Podcast
 -------
 
-* 18 :doc:`episodes </podcast>` total (up from 12 episodes in 2017)
+* 18 :doc:`episodes </podcast>` total (up from 12)
 
 Website
 -------
 
-* 450,000 page views (same as 2017)
-* 250,000 sessions (up from 225,000 in 2017)
-* :doc:`Guide </guide/index>`: 225,000 views
-* :doc:`Conference sites </conf/index>`: 120,000 views
+* 450,000 page views (same as lat year)
+* 250,000 sessions (up from 225,000)
+    * :doc:`Guide </guide/index>`: 225,000 views
+    * :doc:`Conference sites </conf/index>`: 120,000 views
 
 This is one place where we haven't seen a lot of growth.
 We haven't added much new content to the guide this past year,
