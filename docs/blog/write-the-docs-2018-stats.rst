@@ -26,7 +26,7 @@ Conferences
 * 450 attendees in Portland (from 400 in 2017)
 * 275 attendees in Prague (from 250 in 2017)
 * 100 attendees in Australia (from 50 in 2017)
-* 50 attendees in Cincinnati (New in 2018)
+* 50 attendees in Cincinnati (new in 2018)
 
 Australia went from a one-day to a two-day conference,
 growing from 50 to 100 attendees.
