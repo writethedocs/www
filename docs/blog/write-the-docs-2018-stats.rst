@@ -29,7 +29,7 @@ Conferences
 * 50 attendees in Cincinnati (New in 2018)
 
 Australia went from a one-day to a two-day conference,
-growing from 50 to 100.
+growing from 50 to 100 attendees.
 Cincinnati was new this year,
 in collaboration with OpenHelp,
 and got 50 attendees.
