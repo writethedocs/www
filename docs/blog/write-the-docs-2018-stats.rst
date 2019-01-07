@@ -1,4 +1,4 @@
-.. post:: Jan 7, 2018
+.. post:: Jan 7, 2019
    :tags: stats, year in review
    :author: Eric Holscher
 
@@ -10,8 +10,9 @@ Write the Docs 2018 Stats
 This post contains stats that show our progress,
 so that we can look back and see how we've changed as a community.
 
-This year I've removed a lot of the commentary except where it's useful for interpreting the numbers.
-This makes it a simple mark of progress and lets us compare numbers across years in a consistent manner.
+I'm presenting the numbers without commentary,
+except where it's useful for interpreting the numbers,
+to facilitate comparison across the years.
 
 .. note:: 
    
@@ -32,7 +33,7 @@ Australia went from a one-day to a two-day conference,
 growing from 50 to 100 attendees.
 Cincinnati was new this year,
 in collaboration with OpenHelp,
-and got 50 attendees.
+and had 50 attendees.
 
 Slack Network
 =============
