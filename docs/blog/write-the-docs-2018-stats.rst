@@ -22,7 +22,7 @@ to facilitate comparison across the years.
 .. _2016: http://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/
 
 Conferences
-===========
+-----------
 
 * 450 attendees in Portland (from 400 in 2017)
 * 275 attendees in Prague (from 250 in 2017)
@@ -36,29 +36,29 @@ in collaboration with OpenHelp,
 and had 50 attendees.
 
 Slack Network
-=============
+-------------
 
 * 5,250 :doc:`members </slack>` (up from 3,000 members in 2017)
 
 Newsletter
-==========
+----------
 
 * 4,707 :doc:`subscribers </newsletter>` (up from 3,406 in 2017)
 
 Meetups
-=======
+-------
 
 * 8642 Members (up from 5589 in 2016)
 * 39 :doc:`Meetups </meetups/index>` (up from 30 Meetups in 2017)
 * 4 Continents (same as in 2016)
 
 Podcast
-=======
+-------
 
 * 18 episodes (up from 12 episodes in 2017)
 
 Website
-=======
+-------
 
 * 450,000 page views (same as 2017)
 * 250,000 sessions (up from 225,000 in 2017)
@@ -72,8 +72,23 @@ so I think that is the primary reason that traffic hasn't increased.
 This would be a great place to get more contributions from the community,
 if you're looking for a place to put those writing skills to use!
 
+GitHub
+------
+
+* 1250 commits_ to our repository
+* 53 people_ who contributed to our repository
+
+New this year,
+we're keeping track of how many folks are contributing on GitHub.
+Thanks to everyone who has contributed to keeping our website up to date and adding new content.
+
+.. commits: git rev-list --count --all --after="2017-12-31" --before="2019-01-01"
+.. _commits: https://github.com/writethedocs/www/commits/master
+.. _people: https://github.com/writethedocs/www/graphs/contributors?from=2018-01-01&to=2019-01-01&type=c
+
+
 Thanks
-======
+------
 
 Thanks to everyone who makes this community one of the most open and inviting in the software industry.
 Here's to another wonderful year.
