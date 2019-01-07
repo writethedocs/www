@@ -69,6 +69,9 @@ This is one place where we haven't seen a lot of growth.
 We haven't added much new content to the guide this past year,
 so I think that is the primary reason that traffic hasn't increased.
 
+This would be a great place to get more contributions from the community,
+if you're looking for a place to put those writing skills to use!
+
 Thanks
 ======
 
