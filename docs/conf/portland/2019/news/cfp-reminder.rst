@@ -26,7 +26,7 @@ Get your ticket for the conference
 
 **The Portland conference will be returning to the Crystal Ballroom on May 19-21, 2019.** The `full event website <http://www.writethedocs.org/conf/portland/2019/>`_ is live, with some preliminary details, and we'll be filling in more as it gets closer. We're already excited to see what this year has in store!
 
-If you're excited too, go ahead and `register for your ticket now <http://www.writethedocs.org/conf/portland/2019/>`_! For the past several years the conference has sold out, so we highly recommend to buy early and reserve your spot.
+If you're excited too, go ahead and `register for your ticket now <http://www.writethedocs.org/conf/portland/2019/>`_! For the past several years the conference has sold out, so we highly recommend buying early and reserving your spot.
 
 **Please make sure to register for your ticket before you book your travel!** We cannot be responsible for any non-refundable travel costs, and if we reach capacity at the venue before you register, we cannot guarantee a spot for you, even if you booked your travel.
 
