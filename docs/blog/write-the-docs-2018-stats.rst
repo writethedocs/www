@@ -55,7 +55,7 @@ Meetups
 Podcast
 -------
 
-* 18 :doc:`episodes </podcast>` (up from 12 episodes in 2017)
+* 18 :doc:`episodes </podcast>` total (up from 12 episodes in 2017)
 
 Website
 -------
