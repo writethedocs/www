@@ -71,5 +71,5 @@ so I think that is the primary reason that traffic hasn't increased.
 Thanks
 ======
 
-Thanks to everyone who makes the community one of the most open and inviting in the software industry.
+Thanks to everyone who makes this community one of the most open and inviting in the software industry.
 Here's to another wonderful year.
