@@ -37,7 +37,7 @@ Every year we are fortunate to have the support of like-minded organizations and
 
 If your company is interested in sponsoring one or more conferences, check out `our prospectus for details on the different packages <http://www.writethedocs.org/conf/portland/2019/sponsors/prospectus/>`_ and drop us a line at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org>`_
 
-Follwing the successful launch in 2018, this year we will run the `job fair <http://www.writethedocs.org/conf/portland/2019/job-fair/>`_ again, helping documentarians and organizations connect with each other. Check out the sponsorship prospectus for more details.
+Following the successful launch in 2018, this year we will run the `job fair <http://www.writethedocs.org/conf/portland/2019/job-fair/>`_ again, helping documentarians and organizations connect with each other. Check out the sponsorship prospectus for more details.
 
 Looking forward to seeing you all in Portland!
 
