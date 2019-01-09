@@ -24,6 +24,14 @@ to facilitate comparison across the years.
 .. _2017: http://www.writethedocs.org/blog/write-the-docs-2017-stats/
 .. _2016: http://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/
 
+Featured jobs
+-------------
+
+`API Documentation Expert <https://jobs.writethedocs.org/job/89/api-documentation-expert/>`_
+Expert Support, full-time
+
+*To apply for this job, or post your own, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_ .
+
 Conferences
 -----------
 
