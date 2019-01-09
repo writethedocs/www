@@ -16,6 +16,7 @@ filling you in on our progress.
 I'm presenting the numbers without commentary,
 except where it's useful for interpreting the numbers,
 to facilitate comparison across the years.
+I hope it gives you a sense of the state of the community.
 
 .. note:: 
    
@@ -30,7 +31,7 @@ Featured jobs
 `API Documentation Expert <https://jobs.writethedocs.org/job/89/api-documentation-expert/>`_
 Expert Support, full-time
 
-*To apply for this job, or post your own, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_ .
+*To apply for this job, or post your own, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
 Conferences
 -----------
@@ -43,8 +44,11 @@ Conferences
 Australia went from a one-day to a two-day conference,
 growing from 50 to 100 attendees.
 Cincinnati was new this year,
-in collaboration with OpenHelp,
+in collaboration with `OpenHelp <http://openhelp.cc/>`_,
 and had 50 attendees.
+
+We also had a `full day meetup <https://www.meetup.com/Write-The-Docs-London/events/248304896/>`_ in London,
+focused on building a career in documentation.
 
 Slack Network
 -------------
@@ -59,9 +63,9 @@ Newsletter
 Meetups
 -------
 
-* 8642 Members (up from 5589)
-* 39 :doc:`Meetups </meetups/index>` (up from 30)
-* 4 Continents (same as last year)
+* 8642 members (up from 5589)
+* 39 :doc:`meetups </meetups/index>` (up from 30)
+* 4 continents (same as last year)
 
 Podcast
 -------
@@ -73,8 +77,8 @@ Website
 
 * 250,000 sessions (up from 225,000)
 * 450,000 page views (same as last year)
-    * :doc:`Guide </guide/index>`: 225,000 views
-    * :doc:`Conference sites </conf/index>`: 120,000 views
+    * :doc:`guide </guide/index>`: 225,000 views
+    * :doc:`conference sites </conf/index>`: 120,000 views
 
 This is one place where we haven't seen a lot of growth.
 We haven't added much new content to the guide this past year,
