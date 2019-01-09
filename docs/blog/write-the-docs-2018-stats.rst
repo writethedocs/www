@@ -71,8 +71,8 @@ Podcast
 Website
 -------
 
-* 450,000 page views (same as last year)
 * 250,000 sessions (up from 225,000)
+* 450,000 page views (same as last year)
     * :doc:`Guide </guide/index>`: 225,000 views
     * :doc:`Conference sites </conf/index>`: 120,000 views
 
