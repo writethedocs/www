@@ -5,7 +5,8 @@
 Write the Docs 2018 Stats
 =========================
 
-2018 was another wonderful year for Write the Docs, it marks our 6th year of existence.
+2018 was another wonderful year for Write the Docs,
+it marks our 6th year of existence.
 
 Since it's quiet over the holidays,
 we normally don't do a newsletter in January.
@@ -13,10 +14,10 @@ Instead,
 we send out a yearly update for the Write the Docs community,
 filling you in on our progress.
 
-I'm presenting the numbers without commentary,
+We're presenting the numbers here without commentary,
 except where it's useful for interpreting the numbers,
 to facilitate comparison across the years.
-I hope it gives you a sense of the state of the community.
+We hope it gives you a sense of the state of the community.
 
 .. note:: 
    
@@ -74,7 +75,7 @@ Website
 
 This is one place where we haven't seen a lot of growth.
 We haven't added much new content to the guide this past year,
-so I think that is the primary reason that traffic hasn't increased.
+which is the primary reason that traffic hasn't increased.
 
 This would be a great place to get more contributions from the community,
 if you're looking for a place to `put those writing skills to use <https://github.com/writethedocs/www/blob/master/docs/guide/contributing.md>`_!
