@@ -1,5 +1,5 @@
 .. post:: Jan 9, 2019
-   :tags: stats, year in review, newsletter, email
+   :tags: stats, year in review, newsletter
    :author: Eric Holscher
 
 Write the Docs 2018 Stats
