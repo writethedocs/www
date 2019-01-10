@@ -69,8 +69,8 @@ Website
 
 * 250,000 sessions (up from 225,000)
 * 450,000 page views (same as last year)
-    * :doc:`guide </guide/index>`: 225,000 views
-    * :doc:`conference sites </conf/index>`: 120,000 views
+* :doc:`guide </guide/index>`: 225,000 views
+* :doc:`conference sites </conf/index>`: 120,000 views
 
 This is one place where we haven't seen a lot of growth.
 We haven't added much new content to the guide this past year,
