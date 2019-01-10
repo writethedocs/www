@@ -97,7 +97,7 @@ Thanks to everyone who has contributed to keeping our website up to date and add
 Featured jobs
 -------------
 
-`API Documentation Expert <https://jobs.writethedocs.org/job/89/api-documentation-expert/>`_
+* `API Documentation Expert <https://jobs.writethedocs.org/job/89/api-documentation-expert/>`_
 Expert Support, full-time
 
 *To apply for this job, or post your own, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
