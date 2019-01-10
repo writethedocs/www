@@ -1,4 +1,4 @@
-.. post:: Jan 9, 2019
+.. post:: Jan 10, 2019
    :tags: stats, year in review, newsletter
    :author: Eric Holscher
 
