@@ -25,14 +25,6 @@ I hope it gives you a sense of the state of the community.
 .. _2017: http://www.writethedocs.org/blog/write-the-docs-2017-stats/
 .. _2016: http://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/
 
-Featured jobs
--------------
-
-`API Documentation Expert <https://jobs.writethedocs.org/job/89/api-documentation-expert/>`_
-Expert Support, full-time
-
-*To apply for this job, or post your own, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
-
 Conferences
 -----------
 
@@ -101,6 +93,13 @@ Thanks to everyone who has contributed to keeping our website up to date and add
 .. _commits: https://github.com/writethedocs/www/commits/master
 .. _people: https://github.com/writethedocs/www/graphs/contributors?from=2018-01-01&to=2019-01-01&type=c
 
+Featured jobs
+-------------
+
+`API Documentation Expert <https://jobs.writethedocs.org/job/89/api-documentation-expert/>`_
+Expert Support, full-time
+
+*To apply for this job, or post your own, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
 Thanks
 ------
