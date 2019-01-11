@@ -12,3 +12,4 @@ git+https://github.com/ericholscher/datatemplates@add-key-and-context#egg=sphinx
 urllib3[secure]==1.24.1
 yamale==1.8.0
 ruamel.yaml==0.15.86
+lxml==4.3.0

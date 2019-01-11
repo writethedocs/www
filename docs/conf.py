@@ -19,8 +19,7 @@ from _ext.core import (
     set_html_context, unset_html_context
 )
 from _ext.meetups import MeetupListing
-#from _ext.videos import main
-
+from _ext.atom_absolute import rewrite_atom_feed
 
 exclude_patterns = [
     '_build',
@@ -35,6 +34,7 @@ on_netlify = os.environ.get('BUILD_VIDEOS') == 'True'
 on_travis = os.environ.get('TRAVIS') == 'True'
 if not on_rtd and not on_netlify and not on_travis:
     exclude_patterns.append('videos')
+REWRITE_FEED = True
 
 extensions = [
     'ablog',
@@ -129,9 +129,10 @@ html_context = {
 }
 
 # Uncomment this line to generate videos
-#html_context.update(main())
+# html_context.update(main())
 
 # html_experimental_html5_writer = True
+
 
 def setup(app):
     # Set up our custom jinja filters
@@ -146,6 +147,9 @@ def setup(app):
 
     # Render HTML templates with proper HTML context
     app.connect('html-page-context', override_page_template)
+
+    if on_rtd or on_netlify or on_travis or REWRITE_FEED:
+        app.connect('build-finished', rewrite_atom_feed)
 
     app.add_directive('meetup-listing', MeetupListing)
     app.add_config_value('recommonmark_config', {
