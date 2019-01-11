@@ -49,6 +49,14 @@ If you belong to an open-source community or NGO, you can consider the following
 
 Technical documentation takes many forms, each one targeting a certain need. Here, we can think of examples like tutorials, API documentation, and user manuals. So while many style guides adequately cover the main concerns of all technical documentation, sometimes a more specialized guide is needed.
 
+### Thinking about accessibility
+
+It's important to consider accessibility in your style guide, in addition to any content you produce. Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more. Accessibility is important for all types of users.
+
+A few great resources:
+- [MailChimp's style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
+- [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
+
 ### More info is needed for the following
 
 #### User Guide / Manuals
