@@ -51,9 +51,10 @@ Technical documentation takes many forms, each one targeting a certain need. Her
 
 ### Thinking about accessibility
 
-It's important to consider accessibility in your style guide, in addition to any content you produce. Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more. Accessibility is important for all users.
+It's important to consider accessibility in your style guide to ensure the content you produce can be best understood by all readers. Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
 
 A few great resources:
+
 - [MailChimp's style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
 - [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
 
