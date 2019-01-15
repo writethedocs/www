@@ -34,7 +34,7 @@ def rewrite_atom_feed(app, exception):
         root = doc.getroot()
 
         # Rewrite the namespace map to not be Null
-        namespace = root.nsmap.values()[0]
+        namespace = list(root.nsmap.values())[0]
         nsmap = {'atom': namespace}
 
         # Convert the content nodes to use absolute links
@@ -43,7 +43,7 @@ def rewrite_atom_feed(app, exception):
             html_content.make_links_absolute(feed_url)
             content.text = html.tostring(html_content)
 
-        with open(rewritten_feed_path, 'w') as fd:
+        with open(rewritten_feed_path, 'wb') as fd:
             doc.write(fd)
             logger.info('Wrote absolute atom feed to {}'.format(rewritten_feed_path))
 
