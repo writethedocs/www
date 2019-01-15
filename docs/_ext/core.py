@@ -85,7 +85,7 @@ def rstjinja(app, docname, source):
     """
     context = load_page_yaml_data(app, docname)
     context.update(app.config.html_context)
-    if docname.startswith(('conf/', 'guide/', 'videos/by-year', 'videos/by-series')):
+    if docname.startswith(('about/', 'conf/', 'guide/', 'videos/by-year', 'videos/by-series')):
         src = source[0]
         rendered = app.builder.templates.render_string(src, context)
         source[0] = rendered

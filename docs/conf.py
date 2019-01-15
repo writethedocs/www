@@ -13,7 +13,7 @@ from _ext.core import (
     add_jinja_filters, rstjinja, override_page_template, load_conference_data,
     set_html_context, unset_html_context
 )
-from _ext.meetup import MeetupListing
+from _ext.meetups import MeetupListing
 #from _ext.videos import main
 
 
