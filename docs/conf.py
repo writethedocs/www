@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 #
 
-from recommonmark.parser import CommonMarkParser
 from recommonmark.transform import AutoStructify
 import ablog
 import sys
@@ -31,7 +30,6 @@ exclude_patterns = [
 ]
 
 # Only build the videos on production, to speed up dev
-import os
 on_rtd = os.environ.get('READTHEDOCS') == 'True'
 on_netlify = os.environ.get('BUILD_VIDEOS') == 'True'
 on_travis = os.environ.get('TRAVIS') == 'True'
@@ -41,6 +39,7 @@ if not on_rtd and not on_netlify and not on_travis:
 extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
+    'recommonmark',
 ]
 blog_baseurl = 'http://www.writethedocs.org/'
 blog_path = 'blog/archive'
@@ -62,9 +61,6 @@ fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/f
 templates_path = ['_templates', 'include']
 templates_path.append(ablog.get_html_templates_path())
 
-source_parsers = {
-    '.md': CommonMarkParser,
-}
 source_suffix = ['.rst', '.md']
 
 master_doc = 'index'
@@ -154,7 +150,7 @@ def setup(app):
     app.add_directive('meetup-listing', MeetupListing)
     app.add_config_value('recommonmark_config', {
         'auto_toc_tree_section': 'Contents',
-        'enable_auto_doc_ref': True,
+        # 'enable_auto_doc_ref': True,
         'enable_eval_rst': True,
     }, True)
     app.add_transform(AutoStructify)
