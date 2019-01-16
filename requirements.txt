@@ -6,7 +6,7 @@ sphinxcontrib.datatemplates==0.1.0
 sphinx_autobuild==0.7.1
 PyYAML>=4.2b1
 docutils==0.14
-csvkit==1.0.2
+csvkit==1.0.3
 yamllint
 pathlib
 git+https://github.com/ericholscher/datatemplates@add-key-and-context#egg=sphinxcontrib.datatemplates-dev
