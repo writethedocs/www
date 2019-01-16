@@ -17,6 +17,8 @@ In the meantime, mark your calendars:
 
 **The deadline for submitting proposals is Midnight {{TZ}} on {{cfp.ends}}.**
 
+.. note:: The original deadline was 17th January, with notification by 8th Feb. Check the :doc:`extension announcement </conf/portland/2019/news/cfp-reminder>`.
+
 We'll let you know if your proposal has been accepted by the {{cfp.notification}}.
 
 Conference goals

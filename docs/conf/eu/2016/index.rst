@@ -260,4 +260,4 @@ us on Twitter at
 `@writethedocs <https://twitter.com/writethedocs>`_ or sign
 up for our mailing list:
 
-.. include:: /include/eu-mailchimp.rst
+{% include "eu-mailchimp.rst" %}

@@ -126,5 +126,5 @@ Community events coming up
 - 12 December - Berlin, Germany - `A year in review <https://www.meetup.com/Write-The-Docs-Berlin/events/256295654/>`_
 - 13 December - Los Angeles, CA, USA - `Potluck and lightning talks <https://www.meetup.com/Write-the-Docs-LA/events/256523952/>`_
 - 19 December - Austin, TX, USA - `Breakfast meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/255186933/>`_
-- 8 January - Ottawa, Canada - `Shopify meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyzcblb/>`_
+- 8 January - Ottawa, Canada - `Shopify meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyzcblb/>`__
 - 17 January - San Francisco, CA, USA - `Usability testing for docs <https://www.meetup.com/Write-the-Docs-SF/events/256309174/>`_

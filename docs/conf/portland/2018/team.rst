@@ -13,43 +13,43 @@ Folks
 Eric Holscher
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/eric.rst
+{% include "bios/eric.rst" %}
 
 Alicia Duncan
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/alicia.rst
+{% include "bios/alicia.rst" %}
 
 Becky Yoose
 ~~~~~~~~~~~
 
-.. include:: /include/bios/becky.rst
+{% include "bios/becky.rst" %}
 
 
 Christy Lutz
 ~~~~~~~~~~~~
 
-.. include:: /include/bios/christy.rst
+{% include "bios/christy.rst" %}
 
 Jennifer Rondeau
 ~~~~~~~~~~~~~~~~
 
-.. include:: /include/bios/jennifer.rst
+{% include "bios/jennifer.rst" %}
 
 Kelly O'Brien
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/kelly.rst
+{% include "bios/kelly.rst" %}
 
 Mikey Ariel
 ~~~~~~~~~~~
 
-.. include:: /include/bios/mikey.rst
+{% include "bios/mikey.rst" %}
 
 Mo Nishiyama
 ~~~~~~~~~~~~
 
-.. include:: /include/bios/mo.rst
+{% include "bios/mo.rst" %}
 
 Nikolas Blanchet
 ~~~~~~~~~~~~~~~~
@@ -58,22 +58,22 @@ Nikolas Blanchet
 Jennifer Rondeau
 ~~~~~~~~~~~~~~~~
 
-.. include:: /include/bios/jennifer.rst
+{% include "bios/jennifer.rst" %}
 
 Rose Williams
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/rose.rst
+{% include "bios/rose.rst" %}
 
 Samuel Wright
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/sam.rst
+{% include "bios/sam.rst" %}
 
 Shaun McCance
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/shaun.rst
+{% include "bios/shaun.rst" %}
 
 
 Primary Roles

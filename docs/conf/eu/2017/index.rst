@@ -180,7 +180,7 @@
                   </div>
                 </div>
 
-.. include:: /include/conf/2017-eu-sponsors.rst
+{% include "conf/2017-eu-sponsors.rst" %}
 
 .. raw:: html
 
@@ -199,7 +199,7 @@
                   </div>
                 </div>
 
-.. include:: /include/conf/2017-eu-sponsors-in-kind.rst
+{% include "conf/2017-eu-sponsors-in-kind.rst" %}
 
 .. raw:: html
 
@@ -218,7 +218,7 @@
                   </div>
                 </div>
 
-.. include:: /include/conf/2017-eu-sponsors-media.rst
+{% include "conf/2017-eu-sponsors-media.rst" %}
 
 .. raw:: html
 

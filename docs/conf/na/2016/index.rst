@@ -284,4 +284,4 @@ follow us on Twitter at `@writethedocs <https://twitter.com/writethedocs>`_,
 email us at portland@writethedocs.org,
 or sign up for our mailing list:
 
-.. include:: /include/na-mailchimp.rst
+{% include "na-mailchimp.rst" %}
