@@ -3,7 +3,7 @@ recommonmark==0.5.0
 ablog==0.9.3
 tox==3.7.0
 sphinxcontrib.datatemplates==0.1.0
-sphinx_autobuild
+sphinx_autobuild==0.7.1
 PyYAML>=4.2b1
 docutils<0.13.1
 csvkit==1.0.2
