@@ -1,4 +1,5 @@
 from __future__ import print_function
+
 from future import standard_library
 standard_library.install_aliases()
 
@@ -7,8 +8,7 @@ import io
 import re
 import yaml
 import glob
-
-import CommonMark
+import commonmark
 
 try:
     from pathlib import PurePath
@@ -98,8 +98,8 @@ def add_jinja_filters(app):
     from .meetups import state_abbr
 
     def markdown_filter(data):
-        parser = CommonMark.DocParser()
-        renderer = CommonMark.HTMLRenderer()
+        parser = commonmark.Parser()
+        renderer = commonmark.HtmlRenderer()
         return renderer.render(parser.parse(data))
 
     def html_unescape(str):
