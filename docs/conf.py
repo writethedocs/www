@@ -6,6 +6,11 @@ import ablog
 import sys
 import os
 
+# Only for windows compatability - Forces default encoding to UTF8, which it may not be on windows
+if os.name == 'nt':
+    reload(sys)
+    sys.setdefaultencoding('UTF8')
+
 
 sys.path.append(os.getcwd())  # noqa
 
