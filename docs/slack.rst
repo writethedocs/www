@@ -84,6 +84,15 @@ please avoid these behaviors:
 - **Technology Competitions** - We don't care if your tool is faster or better in some metric. We care about creating great documentation for our users.
 - **Spam** - Respect our space. Don't post spam or otherwise vandalize our community.
 
+
+Welcome message
+~~~~~~~~~~~~~~~
+
+We send out the following welcome message on slack monthly:
+
+.. literalinclude:: include/slack.txt
+   :language: text
+
 Reporting Issues
 ~~~~~~~~~~~~~~~~
 
@@ -98,4 +107,3 @@ Credit
 
 This concept is inspired by the `Recurse Center's Social Rules <https://www.recurse.com/manual#sub-sec-social-rules>`_.
 Thanks for the inspiration!
-
