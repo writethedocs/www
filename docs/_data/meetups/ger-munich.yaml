@@ -2,8 +2,11 @@ region: Europe
 country: Germany
 city: Munich
 website: https://www.meetup.com/write-the-docs-muc/
-meetup: Write the Docs Munich
+meetup: write-the-docs-muc
 organizers:
   - name: Ekaterina Ivanova ('@i.kate')
     link: https://writethedocs.slack.com/messages/@UCRH2R4HL
-    
+  - name: Scott Adams
+    link: https://www.meetup.com/write-the-docs-muc/members/224741942/
+  - name: David Elliott
+  link: https://writethedocs.slack.com/messages/DCU8NMGR5
