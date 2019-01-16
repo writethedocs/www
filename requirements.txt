@@ -10,6 +10,6 @@ csvkit==1.0.3
 yamllint==1.14.0
 pathlib==1.0.1
 git+https://github.com/ericholscher/datatemplates@add-key-and-context#egg=sphinxcontrib.datatemplates-dev
-urllib3[secure]
+urllib3[secure]==1.24.1
 yamale
 ruamel.yaml
