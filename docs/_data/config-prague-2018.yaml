@@ -11,7 +11,7 @@ tz: CEST
 email: prague@writethedocs.org
 
 photos:
-  default: _static/2018/assets/images/backgrounds/prague-group.jpg
+  default: _static/2018/assets/headers/prague-group.png
 
 tickets:
   community:
@@ -43,7 +43,7 @@ sponsorship:
     price: TBD
 
 date: # how do we handle these? human readable would be nice.
-  main: "**September 9-11, 2018, in Prague, Czechia**"
+  main: "**September 9-11, 2018, in Prague, Czech Republic**"
   short: Sep 9-11, 2018
   tickets_live: "March 2018"
   month: September
@@ -66,7 +66,7 @@ date: # how do we handle these? human readable would be nice.
     icon: conference
     dotw: Monday
   day_four:
-    date: 11
+    date: September 11
     dotw: Tuesday
 
 about:
@@ -81,20 +81,26 @@ about:
   mainroom:
     Main Ballroom
   unconfroom:
-    Unconference Room, downstairs
+    Unconference Room, across from the Main Ballroom
+  photos: https://www.flickr.com/photos/writethedocs/sets/72157695294209550
+  videos: https://www.writethedocs.org/videos/prague/2018/
 
 cfp:
   url: https://goo.gl/forms/M6YjhBgmCEwOwrzP2
-  ends: Tuesday, May 15th
-  notification: Thursday, May 31st
+  ends: Thursday, May 31st
+  notification: Friday, June 15th
 
 job_fair:
-  location: Unconference Room, downstairs
+  location: Unconference Room, across from the Main Ballroom
 
 flaghassponsors: True
-flagcfp: True
-flagticketsonsale: True
-flagspeakersannounced: False
+flagcfp: False
+flagticketsonsale: False
+flagspeakersannounced: True
+flaghasschedule: True
+flagwelcomewagon: False
+flaglivestreaming: False
+flagvideos: true
 
 flaghashike: False
 flaghasboat: True

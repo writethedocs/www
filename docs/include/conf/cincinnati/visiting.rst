@@ -3,15 +3,15 @@ Visiting Cincinnati
 
 Wondering where to stay and how to get around once you get into Cincinnati? We hope this mini-guide is helpful!
 
-The conference will be held at `Union Hall <http://unionhallcincy.com>`_ in the heart of Cincinnati's historic `Over-the-Rhine <https://en.wikipedia.org/wiki/Over-the-Rhine>`_ neighborhood.
+The conference will be held at `Union Hall <http://unionhallcincy.com>`__ in the heart of Cincinnati's historic `Over-the-Rhine <https://en.wikipedia.org/wiki/Over-the-Rhine>`__ neighborhood.
 
 Eating
 ------
 
 Snacks and drinks are provided throughout the conference. For meals during the conference, connect with new friends and explore one of Cincinnati's most diverse neighborhoods. Here are some resources that will help you find something good to eat:
 
-- The `Over-the-Rhine Chamber of Commerce <http://business.otrchamber.com/list/ql/restaurants-food-beverages-22?_ga=2.247727175.1927584494.1524751496-300914214.1524751496>`_ lists a number of restaurants and bars in the neighborhood
-- `Open Table <https://www.opentable.com/n/cincinnati/over-the-rhine-restaurants>`_ also lists great restaurants in Over-the-Rhine
+- The `Over-the-Rhine Chamber of Commerce <http://business.otrchamber.com/list/ql/restaurants-food-beverages-22?_ga=2.247727175.1927584494.1524751496-300914214.1524751496>`__ lists a number of restaurants and bars in the neighborhood
+- `Open Table <https://www.opentable.com/n/cincinnati/over-the-rhine-restaurants>`__ also lists great restaurants in Over-the-Rhine
 
 Where to stay
 -------------
@@ -35,7 +35,7 @@ Cincinnati is a small, walkable city with public transportation options availabl
 Streetcars and Buses
 ~~~~~~~~~~~~~~~~~~~~
 
-Cincinnati has a `streetcar <http://www.cincinnatibellconnector.com>`_ that makes a loop from `Findlay Market <http://findlaymarket.org>`_ (north of Over-the-Rhine) to the `Great American Ball Park <https://www.mlb.com/reds/ballpark>`_ (downtown, on the Ohio River). You can also use Cincinnati's `bus network <http://www.go-metro.com/index.php>`_, which also connects to routes in northern Kentucky, just across the Ohio River.
+Cincinnati has a `streetcar <http://www.cincinnatibellconnector.com>`_ that makes a loop from `Findlay Market <http://findlaymarket.org>`__ (northern Over-the-Rhine) to the `Great American Ball Park <https://www.mlb.com/reds/ballpark>`_ (downtown, on the Ohio River). You can also use Cincinnati's `bus network <http://www.go-metro.com/index.php>`_, which also connects to routes in northern Kentucky, just across the Ohio River.
 
 The closest stops to the conference venue (Union Hall) are:
 
@@ -57,7 +57,7 @@ If you drive to the conference, parking in downtown Cincinnati is plentiful and 
 Bike Rentals
 ~~~~~~~~~~~~
 
-Cincinnati has `Red Bike <https://www.cincyredbike.org>`_ rental stations throughout downtown and Over-the-Rhine, which may be a good option if you want to experience the city by bike:
+Cincinnati has `Red Bike <https://www.cincyredbike.org>`_ rental stations throughout downtown and Over-the-Rhine, which may be a good option if you want to experience the city by bike.
 
 Sundries
 --------
@@ -67,10 +67,13 @@ Sundries
 Things to Do in Cincinnati
 --------------------------
 - `A Local's Guide to Over-the-Rhine <https://www.urbanadventures.com/blog/neighbourhood-locals-guide-rhine-cincinnati.html>`_
-- `Washington Park <https://washingtonpark.org>`_ and `Ziegler Park <https://zieglerpark.org>`_
-- `Findlay Market <http://www.findlaymarket.org/>`_
-- `Cincinnati Brewing Heritage Trail <http://brewingheritagetrail.org>`_
+- `Washington Park <https://washingtonpark.org>`_ and `Ziegler Park <https://zieglerpark.org>`_ — near the venue in OTR
+- `Findlay Market <http://www.findlaymarket.org/>`_ — the oldest public market in Ohio
+- `Cincinnati Brewing Heritage Trail <http://brewingheritagetrail.org>`_ — self-guided tours showcasing Cincinnati's pre-prohibition brewing history
+- `Queen City Underground Tour <https://www.americanlegacytours.com/queen-city-underground/>`_ — guided tours through 19th-century lagering tunnels and crypts
 - `Cincinnati Reds baseball <https://www.mlb.com/reds/schedule/2018-08>`_ and `Reds Hall of Fame and Museum <http://cincinnati.reds.mlb.com/cin/hof/>`_
-- `Music Hall <https://www.cincinnatiarts.org/music-hall>`_
-- `The Banks <http://thebankscincy.com>`_ dining and entertainment district
-
+- `Music Hall <https://www.cincinnatiarts.org/music-hall>`_ — historic architecture and the home of the symphony orchestra, pops orchestra, ballet, and opera
+- `Cincinnati Musem Center <https://www.cincymuseum.org/>`_ — originally a train station, now a museum and the architectural inspiration for the `Hall of Justice <https://en.wikipedia.org/wiki/Hall_of_Justice_(comics)>`_
+- `Fountain Square <https://myfountainsquare.com/>`_  — the heart of downtown, with free live music every Friday and Saturday evening
+- `The Banks <http://thebankscincy.com>`_  — dining and entertainment district on the riverfront
+- `Smale Riverfront Park <http://www.cincinnatiparks.com/smale-riverfront-park/>`_, `Sawyer Point <http://www.cincinnatiparks.com/river-parks/sawyer-point-park-yeatmans-cove/>`_, and `Friendship Park <http://www.cincinnatiparks.com/river-parks/theodore-m-berry-international-friendship-park/>`_  — parks and public spaces spanning two miles of the Ohio riverfront

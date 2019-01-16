@@ -46,6 +46,7 @@ date: # how do we handle these? human readable would be nice.
     icon: conference
 
 about:
+  attendees: 450
   summary:
     "The main presentation track takes place from **May 7-8 (Monday and Tuesday) from 9am to 6pm**.
     We will return to the historic `Crystal Ballroom <http://www.mcmenamins.com/CrystalBallroom>`_, `centrally located <http://goo.gl/maps/D2WrJ>`_ in the heart of Portland.
@@ -70,3 +71,5 @@ flaghasboat: False
 flaghasshirts: True
 flaglanding: False
 flaghassponsors: True
+flagvideos: True
+flaglivestreaming: False

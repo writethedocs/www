@@ -1,4 +1,7 @@
 region: Europe
 country: Belgium
 city: Brussels
-website: https://www.meetup.com/Write-The-Docs-Brussels
+meetup: Write-The-Docs-Brussels
+organizers:
+  - name: Laura Vass
+    link: https://twitter.com/vass_laura

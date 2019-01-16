@@ -7,6 +7,11 @@ import ablog
 import sys
 import os
 
+# Only for windows compatability - Forces default encoding to UTF8, which it may not be on windows
+if os.name == 'nt':
+    reload(sys)
+    sys.setdefaultencoding('UTF8')
+
 
 sys.path.append(os.getcwd())  # noqa
 
@@ -29,7 +34,8 @@ exclude_patterns = [
 import os
 on_rtd = os.environ.get('READTHEDOCS') == 'True'
 on_netlify = os.environ.get('BUILD_VIDEOS') == 'True'
-if not on_rtd and not on_netlify:
+on_travis = os.environ.get('TRAVIS') == 'True'
+if not on_rtd and not on_netlify and not on_travis:
     exclude_patterns.append('videos')
 
 extensions = [
@@ -44,6 +50,7 @@ blog_authors = {
     'kelly': ("Kelly O'Brien", 'https://twitter.com/OBrienEditorial'),
 }
 blog_default_author = 'Team'
+blog_feed_archives = True
 blog_feed_fulltext = True
 blog_feed_length = 10
 blog_locations = {
@@ -52,7 +59,7 @@ blog_locations = {
 blog_default_location = 'PDX'
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 
-templates_path = ['_templates']
+templates_path = ['_templates', 'include']
 templates_path.append(ablog.get_html_templates_path())
 
 source_parsers = {
@@ -125,8 +132,9 @@ html_context = {
     'conferences': load_conference_data(),
 }
 
+# Uncomment this line to generate videos
+#html_context.update(main())
 
-# html_context.update(main())
 # html_experimental_html5_writer = True
 
 def setup(app):

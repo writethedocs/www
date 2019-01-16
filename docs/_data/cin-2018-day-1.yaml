@@ -1,0 +1,75 @@
+- Duration: '60'
+  Session: Doors Open, Coffee and Pastries
+  Time: '8:00'
+- Duration: '15'
+  Session: Introduction to Write the Docs
+  Time: '9:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '9:15'
+- Duration: '30'
+  Session: "Finding a Home for Docs \u2013 Jessica Parsons"
+  Slug: jessica-parsons
+  Time: '9:25'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '9:55'
+- Duration: '30'
+  Session: "Content Strategy for Open Source Projects \u2013 Shavindri Dissanayake"
+  Slug: shavindri-dissanayake
+  Time: '10:05'
+- Duration: '20'
+  Session: Snack Break
+  Time: '10:35'
+- Duration: '30'
+  Session: "Analytics Can Change Your World! \u2013 David Payne"
+  Slug: david-payne
+  Time: '10:55'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '11:25'
+- Duration: '30'
+  Session: "Structured Writing: How Rhetoric Supports Process \u2013 Mark Baker"
+  Slug: mark-baker
+  Time: '11:35'
+- Duration: '60'
+  Session: Lunch
+  Time: '12:05'
+- Duration: '30'
+  Session: "The Man Behind the Curtain: White Labeling, Automated Generation, and Customized Documentation \u2013 Heidi Waterhouse"
+  Slug: heidi-waterhouse
+  Time: '13:35'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '14:05'
+- Duration: '30'
+  Session: "How to ensure your documentation is accessible for new programmers \u2013 Jessica Garson"
+  Slug: jessica-garson
+  Time: '14:15'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '14:45'
+- Duration: '30'
+  Session: "Just What the Doctor Ordered: Automating Away Drudgery Through Document Conformity \u2013 Devin Smith"
+  Slug: devin-smith
+  Time: '14:55'
+- Duration: '20'
+  Session: Snack Break
+  Time: '15:25'
+- Duration: '30'
+  Session: "Open Source DocOps \u2013 Adam Michael Wood"
+  Slug: adam-michael-wood
+  Time: '15:45'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '16:15'
+- Duration: '30'
+  Session: "Big decisions with open source docs: a Kubernetes case study \u2013 Zach Corleissen & Jared Bhatti"
+  Slug: zach-corleissen
+  Time: '16:25'
+- Duration: '10'
+  Session: Group Photo
+  Time: '16:55'
+- Duration: '90'
+  Session: Write the Docs Social
+  Time: '17:05'

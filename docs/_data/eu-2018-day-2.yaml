@@ -1,0 +1,55 @@
+- Duration: '60'
+  Session: Doors Open, Breakfast Served
+  Time: '9:00'
+- Duration: '30'
+  Session: A Year in the Life of The Better Docs Project - Rowan Cota
+  Slug: rowan-cota
+  Time: '10:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '10:30'
+- Duration: '30'
+  Session: Learning to love release notes - Anne Edwards
+  Time: '10:40'
+  Slug: anne-edwards
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '11:10'
+- Duration: '30'
+  Session: 'Document What Matters: Lean Best Practice for Process Documentation -
+    Gillian von Runte'
+  Slug: gillian-von-runte
+  Time: '11:20'
+- Duration: '20'
+  Session: Snack break
+  Time: '11:50'
+- Duration: '30'
+  Session: Tackling technical debt in the docs - Louise Fahey
+  Time: '12:10'
+  Slug: louise-fahey
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '12:40'
+- Duration: '30'
+  Slug: tony-ibbs
+  Session: A brief history of text markup languages - Tony Ibbs
+  Time: '12:50'
+- Duration: '60'
+  Session: Lunch
+  Time: '13:20'
+- Duration: '30'
+  Session: Lightning Talks
+  Time: '14:20'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '14:50'
+- Duration: '30'
+  Session: Choosing a tool... and choosing your moment - Val Grimm
+  Time: '15:00'
+  Slug: val-grimm
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '15:30'
+- Duration: '10'
+  Session: Conference wraps
+  Time: '15:40'

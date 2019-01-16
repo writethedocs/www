@@ -6,28 +6,23 @@ Welcome Wagon
 
 Hello!
 
-We're Kendall and Lou, your Welcome Wagon! We're glad you're coming to the {{year}} Write the Docs conference!
+We're Beth and Daniel, your Welcome Wagon! We're glad you're coming to the {{year}} Write the Docs conference!
 
-.. raw:: html
-
-   <img src="/_static/img/2017/eu/welcome-wagon.jpg" />
-
-
-Feel free to email us or send us a message on Slack or Google Hangouts if there's anything we can do to make your Write the Docs experience easier. You can reach us at @praguewelcomewagon on Slack and praguewelcomewagon@gmail.com on Hangouts.
+.. image:: /_static/2018/assets/images/pics/welcome-wagon.jpg
 
 We've gathered important stuff here that will help you navigate the conference like a pro, make you feel more at home, and help you to manage the constant flow of information.
 
 The Welcome Wagon events warm up new attendees and connect them with people, both veterans
 and other first-timers. Strategies and pro tips provide ways you can make the most of the conference.
 
-The `FAQs <#faq>`_ should have answers to most of your questions, let us know if there is anything you'd like to know that isn't there.
+The `FAQs <#faq>`_ should have answers to most of your questions, but let us know if there is anything you'd like to know that isn't there. You can ask us questions in the :doc:`#wtd-conferences channel on Slack </slack>` or you can send `Daniel <mailto:daniel@ddbeck.com>`__ or `Beth <mailto:beth.s.aitman@gmail.com>`__ an email.
 
 Welcome Wagon events
 --------------------
 
 **Write the Docs Welcome Wagon Introduction**
 
-*{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}} at 17:00 in the quiet room (downstairs, across from the cloak room) at Auto-Klub*
+*{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}} at 17:00 in the downstairs foyer (near the cloakroom) at Auto-Klub*
 
 Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new before we join the opening reception.
 
@@ -86,7 +81,7 @@ at the Prague Boats pier no. 5.
    within walking distance of the conference venue.
 -  There are good public transportation options and taxi services. Check
    out the `Visiting Prague section of the Write the Docs
-   website <http://www.writethedocs.org/conf/eu/2017/visiting/>`__ for
+   website <http://www.writethedocs.org/conf/prague/2018/visiting/>`__ for
    more info.
 
 **How should I dress?**
@@ -97,7 +92,7 @@ at the Prague Boats pier no. 5.
    conference. You'll be meeting business colleagues at this conference,
    though, so neat and comfortable are good dress guidelines.
 -  If you are going on the `Write the Docs boat tour on
-   Saturday <http://www.writethedocs.org/conf/eu/2017/boat/>`__, be sure
+   Saturday <http://www.writethedocs.org/conf/prague/2018/outing/>`__, be sure
    to bring appropriate out-of-doors clothes and shoes. Prague, like most of
    Europe, experiences some ups and downs in the autumn. The first year we
    were here we had a heat wave, and last year we got rained on, so you
@@ -201,7 +196,7 @@ are some tips:
    the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow
    the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
    and review the `list of
-   speakers <http://http//www.writethedocs.org/conf/eu/2017/speakers/>`__.
+   speakers </conf/{{shortcode}}/{{year}}/speakers/>`__.
 -  Figure out which companies will be represented at the conference. If
    you see a job post you're interested in, you might want to ask them a
    few questions. This might be a great time to better understand what

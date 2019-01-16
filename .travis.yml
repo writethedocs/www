@@ -1,15 +1,31 @@
 language: python
 python:
- - 3.6
-sudo: false
-env:
- - TOX_ENV=docs
+  - 3.6
 before_install:
   - export GOPATH=$HOME/golang
   - export PATH=$PATH:$GOPATH/bin
 install:
- - pip install tox
+ - pip install tox-travis
  - eval "$(gimme 1.7)"
  - go get github.com/ValeLint/vale
+ - sudo apt-get install libcurl3-dev
 script:
- - tox -e $TOX_ENV
+ - tox
+env:
+ - TEST="lint"
+ - TEST="docs"
+ - TEST="yaml"
+ - TEST="links"
+matrix:
+ allow_failures:
+   - env: TEST="links"   
+
+
+# An attempt to explain my understanding of the rather odd convergence of Travis CI and tox with tox-travis
+# The TEST envvironment variables are way to get Travis CI to run the four tox builds in parallel
+# Then in tox.ini one has to
+# * list the 4 envs so tox knows what it is [envlist]
+# * list them again for building with python 3.6 [travis
+# * list them again against the evnironment variables to trick the matrix into existance [travis:env]
+# Finally, define each env as [envlist]
+# There is probably a simpler way. I hope.

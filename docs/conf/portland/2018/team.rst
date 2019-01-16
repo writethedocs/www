@@ -13,79 +13,90 @@ Folks
 Eric Holscher
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/eric.rst
-
-Kelly O'Brien
-~~~~~~~~~~~~~
-
-.. include:: /include/bios/kelly.rst
-
-Mikey Ariel
-~~~~~~~~~~~
-
-.. include:: /include/bios/mikey.rst
-
-Samuel Wright
-~~~~~~~~~~~~~
-
-.. include:: /include/bios/sam.rst
-
-Becky Yoose
-~~~~~~~~~~~
-
-.. include:: /include/bios/becky.rst
-
-Rose Williams
-~~~~~~~~~~~~~
-
-.. include:: /include/bios/rose.rst
-
-Christy Lutz
-~~~~~~~~~~~~~
-
-.. include:: /include/bios/christy.rst
-
-Mo Nishiyama
-~~~~~~~~~~~~~
-
-.. include:: /include/bios/mo.rst
-
-Shaun McCance
-~~~~~~~~~~~~~
-
-.. include:: /include/bios/shaun.rst
+{% include "bios/eric.rst" %}
 
 Alicia Duncan
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/alicia.rst
+{% include "bios/alicia.rst" %}
+
+Becky Yoose
+~~~~~~~~~~~
+
+{% include "bios/becky.rst" %}
+
+
+Christy Lutz
+~~~~~~~~~~~~
+
+{% include "bios/christy.rst" %}
+
+Jennifer Rondeau
+~~~~~~~~~~~~~~~~
+
+{% include "bios/jennifer.rst" %}
+
+Kelly O'Brien
+~~~~~~~~~~~~~
+
+{% include "bios/kelly.rst" %}
+
+Mikey Ariel
+~~~~~~~~~~~
+
+{% include "bios/mikey.rst" %}
+
+Mo Nishiyama
+~~~~~~~~~~~~
+
+{% include "bios/mo.rst" %}
+
+Nikolas Blanchet
+~~~~~~~~~~~~~~~~
+
+
+Jennifer Rondeau
+~~~~~~~~~~~~~~~~
+
+{% include "bios/jennifer.rst" %}
+
+Rose Williams
+~~~~~~~~~~~~~
+
+{% include "bios/rose.rst" %}
+
+Samuel Wright
+~~~~~~~~~~~~~
+
+{% include "bios/sam.rst" %}
+
+Shaun McCance
+~~~~~~~~~~~~~
+
+{% include "bios/shaun.rst" %}
+
 
 Primary Roles
 -------------
 
-You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
-
-Filled Roles
-~~~~~~~~~~~~~
-
 * **Conference chair** - Eric Holscher
-* **Swag coordinator** - Mikey Ariel
-* **Speaker wrangler** - Kelly O'Brien
-* **Infrastructure chair** - Samuel Wright
-* **Writing Day coordinator** - Shaun McCance
-* **Lightning Talk coordinator** - Rose Williams
+* **Code of conduct response** - See `code of conduct <http://www.writethedocs.org/code-of-conduct/#staff-contact-information>`_ page
 * **Communication chair** - Mikey Ariel
-* **Volunteer coordinator** - Becky Yoose
-* **Sponsorship lead** - Eric Holscher
-* **Welcome Wagon coordinators** - Christy Lutz
-* **Hike coordinator** - Eric Holscher
+* **Emcee** - Nikolas Blanchet
 * **Explore Portland coordinators** - Mo Nishiyama and Alicia Duncan
+* **Hike coordinator** - Eric Holscher
+* **Infrastructure chair** - Samuel Wright
+* **Job Fair coordinator** - Eric Holscher
+* **Writing Day coordinator** - Shaun McCance
+* **Unconference coordinator** - Jennifer Rondeau
+* **Lightning Talk coordinator** - Rose Williams
+* **Social media chair** - Mikey Ariel
+* **Speaker coordinator** - Kelly O'Brien
+* **Sponsorship lead** - Eric Holscher
+* **Swag coordinator** - Mikey Ariel
+* **Unconference coordinator** - Jennifer Rondeau
+* **Volunteer coordinator** - Becky Yoose
+* **Welcome Wagon coordinators** - Christy Lutz
+* **Writing Day coordinator** - Shaun McCance
 
-Organizers Needed
-~~~~~~~~~~~~~~~~~
-
-* **Unconference coordinator** - TBA
-* **Workshop coordinator** - TBA
-* **Job Fair coordinator** - TBA
-* **Social media chair** - TBA
-* **Emcee** - TBA
+You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.

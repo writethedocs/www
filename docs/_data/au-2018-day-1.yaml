@@ -1,0 +1,63 @@
+- Duration: '30'
+  Session: Doors Open and Coffee/Tea
+  Time: '8:15'
+- Duration: '20'
+  Session: Introduction to Write the Docs
+  Time: '8:45'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '9:10'
+- Duration: '30'
+  Session: "Facebook, Dynamite, Uber, Bombs, and You \u2013 Lana Brindley"
+  Slug: lana-brindley
+  Time: '9:20'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '9:50'
+- Duration: '30'
+  Session: "Responsive Content - Presenting Your information On Any Device \u2013 Mike Hamilton"
+  Slug: mike-hamilton
+  Time: '10:00'
+- Duration: '30'
+  Session: Morning Tea and Snack break
+  Time: '10:30'
+- Duration: '15'
+  Session: "*Lightning Talks*"
+  Time: '11:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '11:15'
+- Duration: '30'
+  Session: "The Art of Consistency: Creating an inhouse style guide \u2013 Kristine Sihto"
+  Slug: kristine-sihto
+  Time: '11:25'
+- Duration: '65'
+  Session: Lunch
+  Time: '11:55'
+- Duration: '30'
+  Session: "UX writing - Let your product speak \u2013 Abhay Chokshi"
+  Slug: abhay-chokshi
+  Time: '13:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '13:30'
+- Duration: '30'
+  Session: "Making yourself Redundant on Day 1: Internal docs to teach the next hire what you've learned \u2013 Alexandra Perkins"
+  Slug: alexandra-perkins
+  Time: '13:40'
+- Duration: '20'
+  Session: Afternoon Tea and Snack Break
+  Time: '14:10'
+- Duration: '120'
+  Session: "Workshop - Tech Writing 101 \u2013 Sarah Maddox"
+  Slug: sarah-maddox
+  Time: '14:30'
+- Duration: '15'
+  Session: Group Photo
+  Time: '16:30'
+- Duration: '15'
+  Session: Day 1 Wrap Up
+  Time: '16:45'
+- Duration: '120'
+  Session: Write the Docs Social
+  Time: '17:30'

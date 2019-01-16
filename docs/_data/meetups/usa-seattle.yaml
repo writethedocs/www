@@ -3,3 +3,11 @@ country: USA
 state: Washington
 city: Seattle
 website: http://www.meetup.com/Write-The-Docs-Seattle/
+meetup: Write-The-Docs-Seattle
+organizers:
+  - name: Lois Patterson
+    link: https://www.linkedin.com/in/loispatterson
+  - name: Becky Yoose
+    link: http://twitter.com/yo_bj/
+  - name: Rose Williams
+    link: http://twitter.com/zelwms/

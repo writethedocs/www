@@ -13,32 +13,27 @@ Folks
 Mikey Ariel
 ~~~~~~~~~~~
 
-.. include:: /include/bios/mikey.rst
+{% include "bios/mikey.rst" %}
 
 Samuel Wright
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/sam.rst
+{% include "bios/sam.rst" %}
 
 Eric Holscher
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/eric.rst
+{% include "bios/eric.rst" %}
 
 Kelly O'Brien
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/kelly.rst
+{% include "bios/kelly.rst" %}
 
 Sasha Romijn
 ~~~~~~~~~~~~
 
-.. include:: /include/bios/sasha.rst
-
-Paul Adams
-~~~~~~~~~~
-
-.. include:: /include/bios/paul.rst
+{% include "bios/sasha.rst" %}
 
 
 Primary Roles
@@ -54,18 +49,14 @@ Filled Roles
 * **Speaker wrangler** - Sam Wright
 * **Infrastructure chair** - Sam Wright
 * **Writing Day coordinator** - Kelly O'Brien
-* **Lightning Talk coordinator** - Paul Adams
+* **Lightning Talk coordinator** - Nik Blanchet
 * **Communication chair** - Mikey Ariel
 * **Volunteer coordinator** - Sasha Romijn
 * **Sponsorship lead** - Eric Holscher
 * **Job Fair coordinator** - Eric Holscher
 * **Boat ride coordinator** - Mikey Ariel
-* **Unconference coordinator** - Paul Adams
-
-Organizers Needed
-~~~~~~~~~~~~~~~~~
-
-* **Welcome Wagon coordinators** - TBA
-* **Explore Prague coordinator** - TBA
-* **Social media chair** - TBA
-* **Emcee** - TBA
+* **Unconference coordinator** - Kelly O'Brien
+* **Welcome Wagon coordinators** - Beth Aitman and Daniel Beck
+* **Social media chair** - Chris Ward
+* **Explore Prague coordinator** - Jakub Mikulas
+* **Emcee** - Brian (bex) Exelbierd

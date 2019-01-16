@@ -65,3 +65,7 @@ Here are our latest events, and we hope to see you online or in person soon!
    conf/portland/*/*/*
    conf/prague/*/*
    conf/prague/*/*/*
+   conf/cincinnati/*/*
+   conf/cincinnati/*/*/*
+   conf/australia/*/*
+   conf/australia/*/*/*

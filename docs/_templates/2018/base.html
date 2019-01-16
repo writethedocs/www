@@ -70,7 +70,7 @@
     <div class="footer-head">
         <div class="uk-container">
         {% block footerhead %}
-                {% if flagticketsonsale or flagcfp or flagspeakersannounced %}
+                {% if flagticketsonsale or flagcfp or flagspeakersannounced and not flagvideos %}
                 <h3>Join us now!</h3>
                 {% endif %}
 
@@ -87,11 +87,25 @@
 
                 {% endif %}
 
-                {% if flagspeakersannounced %}
+                {% if flagspeakersannounced and not flagvideos %}
 
                 <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/speakers') }}">See the talks!</a>
 
                 {% endif %}
+
+                {% if flagwelcomewagon %}
+
+                <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/' + shortcode + '/' + year|string + '/welcome-wagon') }}">Prepare with the Welcome Wagon</a>
+
+                {% endif %}
+
+                {% if flagvideos %}
+
+                <a class="uk-button uk-button-default uk-text-center" href="https://slack.writethedocs.org">Join the WTD Slack!</a>
+
+                {% endif %}
+
+
         {% endblock %}
         </div>
     </div>
@@ -102,6 +116,7 @@
         <div class="uk-container">
         <h2 class="uk-first-column">Sponsors</h2>
             {% include "include/" + year|string  + "/" + shortcode + "-sponsors.html" %}
+            {% include "include/" + year|string  + "/" + shortcode + "-sponsors-media.html" ignore missing %}
             <div class="learn-more">
                 <a class="uk-align-right" href="/conf/{{ shortcode }}/{{ year }}/sponsors/prospectus/">Become a sponsor</a>
             </div>

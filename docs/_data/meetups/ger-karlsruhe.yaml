@@ -2,3 +2,7 @@ region: Europe
 country: Germany
 city: Karlsruhe
 website: https://www.meetup.com/Write-the-Docs-Karlsruhe/
+meetup: Write-the-Docs-Karlsruhe
+organizers:
+  - name: Björn Wewer
+    link:

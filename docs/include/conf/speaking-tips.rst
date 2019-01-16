@@ -8,16 +8,15 @@ Facts
 -----
 
 -  Your talk will be 30 minutes long.
--  We don't do any group Q&A after the talk (more on that below).  
+-  We don't do any group Q&A after the talk (more on that below).
    Please plan to use the entire slot.
 -  We will have a lapel mic for you, so you don’t need to hold a microphone.
 -  We will provide HDMI, USB-C and MiniDisplay port adapters.
--  The display ratio of the projector is 16:9
--  The more you practice your talk, the more comfortable you'll be. 
+-  The more you practice your talk, the more comfortable you'll be.
    In addition to practicing by yourself, we strongly reccomend you
    run through it in front of at least one other human.
--  If you want to get some of that sweet internet buzz for your talk, 
-   we use the #writethedocs hashtag throughout the event. 
+-  If you want to get some of that sweet internet buzz for your talk,
+   we use the #writethedocs hashtag throughout the event.
 
 Presentation format
 -------------------
@@ -46,8 +45,8 @@ Diversity and inclusivity
 ---------------------------
 
 We strongly encourage all speakers to check and double-check their talks for any language that might be discriminatory or offensive.
-Remember that that includes needlessly gendered language (avoid 'you guys', for example), 
-ageist language (please no 'so easy my grandma could do it!' anecdotes), and any other 
+Remember that that includes needlessly gendered language (avoid 'you guys', for example),
+ageist language (please no 'so easy my grandma could do it!' anecdotes), and any other
 language that's presumptive about or exclusive towards the variety of folks who will be in the audience.
 
 Good resources on this include:
@@ -76,7 +75,7 @@ Here are a few other tidbits to remember:
    easier for everyone to read in the room.
 -  Try not to use the bottom ~10% of your slides, as they might not be
    visible to everyone.
--  Include your Twitter handle on your slides, so people can properly 
+-  Include your Twitter handle on your slides, so people can properly
    attribute your brilliance :)
 -  Slides should be 16:9 resolution
 -  Have an offline PDF backup of your slides, just in case :)

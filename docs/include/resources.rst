@@ -1,4 +1,3 @@
-* Online documentation: http://docs.writethedocs.org/
 * Conference: http://www.writethedocs.org/
 * Slack: `Write the Docs <http://slack.writethedocs.org/>`_
 * Twitter: http://twitter.com/writethedocs

@@ -5,9 +5,10 @@ Documentation Guide
 This guide gathers the collective wisdom of the Write the Docs community around best practices for creating
 software documentation. 
 
-**This is a living, breathing guide.**  If you'd like to contribute,
-`fork us on GitHub <https://github.com/writethedocs/docs>`_!
-Also feel free to send us any additions in any format to guide@writethedocs.org.
+**This is a living, breathing guide.**
+If you'd like to contribute,
+you can read our :doc:`contributing <contributing>` documentation.
+Also feel free to send us any additions in any format to support@writethedocs.org.
 
 Take a look also at the `guidelines for contributing to the guide <contributing>`_. If you have any questions about contributing, 
 you can send them along to guide@writethedocs.org too.
@@ -54,6 +55,7 @@ Markup Languages
    :maxdepth: 2
 
    writing/Markdown_basics
+   writing/reStructuredText
 
 * Asciidoc
     * Cheatsheet

@@ -1,5 +1,4 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/venue.png
 
 Schedule
 ========
@@ -37,6 +36,10 @@ Boat Ride
 The only event scheduled on Saturday is the :doc:`Prague Boat Ride </conf/{{shortcode}}/{{year}}/outing>`.
 If you get into town early, join us and experience Prague from the water.
 
+* **Where**: `Prague Boats, pier no. 5 <https://goo.gl/maps/bqLP3VaytVo>`_
+* **When**: 13:45 boarding, boat leaves **promptly** at 14:00
+* **Details**: :doc:`Prague Boat Ride </conf/{{shortcode}}/{{year}}/outing>`
+
 {% endif %}
 
 
@@ -58,6 +61,17 @@ Writing Day
 * **When**: **9:00-17:00**
 * **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
+{% if flaghasschedule %}
+
+.. datatemplate::
+   :source: /_data/{{templatecode}}-{{year}}-day-0.yaml
+   :template: include/schedule2018.rst
+   :include_context:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
+
 Reception
 ~~~~~~~~~
 
@@ -68,8 +82,8 @@ We'll also help groups organize dinner plans, so you can continue your conversat
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **17:00-20:00**
 
-{{date.day_three.dotw}}, {{date.day_three.date}}
---------------------------------------------
+Monday, September 10
+--------------------
 
 .. contents::
    :local:
@@ -85,12 +99,19 @@ Conference Talks
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **10:00-18:00**
-* **Details**: TBA
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-..
-    .. datatemplate::
-       :source: /_data/na-2018-day-1.yaml
-       :template: include/schedule2018.rst
+
+{% if flaghasschedule %}
+
+.. datatemplate::
+   :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
+   :template: include/schedule2018.rst
+   :include_context:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
 
 Unconference
 ~~~~~~~~~~~~
@@ -98,25 +119,23 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **13:30-18:00**
+* **When**: **10:40-18:00**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Monday Night Social
 ~~~~~~~~~~~~~~~~~~~
 
 The official Write the Docs social!
-Location and directions will be posted soon!
 
 This event is for **conference attendees only**. Please bring your badge to be let into the venue.
-
 There will be light snacks and drinks available on the conference while our tab lasts.
 
-* **Where**: TBA
+* **Where**: `Hoffa Bar, Senovážné Náměstí 22, Prague 1 <https://goo.gl/maps/b1egvQhoDxt>`_
 * **When**: **20:00-23:00**
-* **Details**: TBA
+* **Details**: Drinks and snacks are included while our tab lasts. If you want a sit-down dinner we recommend to grab it before, as we will only have light snacks and finger food at the event. The bar is located on the ground floor and is accessible to wheelchairs.
 
-{{date.day_four.dotw}}, {{date.day_four.date}}
---------------------------------------------------
+Tuesday, September 11
+---------------------
 
 .. contents::
    :local:
@@ -130,13 +149,21 @@ Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
-* **When**: **10:00-17:00**
-* **Details**: TBA
+* **When**: **10:00-16:30**
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-..
-    .. datatemplate::
-       :source: /_data/na-2018-day-1.yaml
-       :template: include/schedule2018.rst
+{% if flaghasschedule %}
+
+.. datatemplate::
+   :source: /_data/{{templatecode}}-{{year}}-day-2.yaml
+   :template: include/schedule2018.rst
+   :include_context:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
+
+.. _{{shortcode}}-{{year}}-job-fair:
 
 Job Fair
 ~~~~~~~~
@@ -144,8 +171,8 @@ Job Fair
 New in 2018! We'll be holding a job fair on Tuesday morning!
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **9:00-12:00**
-* **Details**: TBA
+* **When**: **10:30-11:50**
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
 
 Unconference
 ~~~~~~~~~~~~
@@ -153,5 +180,5 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **12:00-17:00**
+* **When**: **12:10-15:30**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`

@@ -4,7 +4,7 @@
 Writing Day
 ===========
 
-.. include:: /include/conf/events/writing-day.rst
+{% include "conf/events/writing-day.rst" %}
 
 Schedule
 --------
@@ -23,6 +23,7 @@ Projects
 --------
 
   + :ref:`writewrite2018`
+  + :ref:`idea`
   + anything else you fancy
 
 .. _writewrite2018:
@@ -76,3 +77,12 @@ tagged as `writingday` that includes things like:
 - improve the meetup pages
 - make a better video archive
 - add list of conference write ups for past conferences
+
+.. _idea:
+
+Improve IDEA editor 
+~~~~~~~~~~~~~~~~~~~~
+
+"Long story short, we had a huge documentation section that we reworked. This section with lots of topics contained useless information with which users had problems and often complained that they couldn't find the needed info. So, we decided to remove a bunch of subsections, rework texts and include the content into one topic."
+
+https://www.jetbrains.com/help/idea/using-code-editor.html

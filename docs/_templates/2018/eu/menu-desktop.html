@@ -7,11 +7,19 @@
                                   <a href="{{ pathto('conf/prague/2018/schedule') }}">Program</a>
                                   <div class="uk-navbar-dropdown">
                                       <ul class="uk-nav uk-navbar-dropdown-nav">
+
+                                          {% if flaglivestreaming %}
+                                          <li><a href="{{ pathto('conf/prague/2018/livestream') }}">Live Stream</a></li>
+                                          {% endif %}
+
                                           <li><a href="{{ pathto('conf/prague/2018/schedule') }}">Schedule</a></li>
                                           <li><a href="{{ pathto('conf/prague/2018/speakers') }}">Talks</a></li>
                                           <li><a href="{{ pathto('conf/prague/2018/lightning-talks') }}">Lightning Talks</a></li>
                                           <li><a href="{{ pathto('conf/prague/2018/unconference') }}">Unconference</a></li>
                                           <li><a href="{{ pathto('conf/prague/2018/writing-day') }}">Writing Day</a></li>
+                                          <li><a href="{{ pathto('conf/prague/2018/job-fair') }}">Job Fair</a></li>
+                                          <li><a href="{{ pathto('conf/prague/2018/badge-flair') }}">Badge Flair Contest</a></li>
+
                                           {% if flaghashike %}
                                           <li><a href="{{ pathto('conf/portland/2018/outing') }}">Hike</a></li>
                                           {% endif %}

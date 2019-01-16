@@ -4,7 +4,7 @@
 Writing Day
 ===========
 
-.. include:: /include/conf/events/writing-day.rst
+{% include "conf/events/writing-day.rst" %}
 
 Schedule
 --------
@@ -30,10 +30,10 @@ If you’re looking to contribute to open source documentation on GitHub, consid
 Kubernetes is an open source system that manages containerized applications across different infrastructures. No previous product experience is needed to help with the docs. Docs are published at `kubernetes.io <https://kubernetes.io/docs/home/>`_ and they're pulled directly from `Github
 <https://github.com/kubernetes/website>`_. So you’ll need a GitHub account, and some familiarity with Markdown. You can also take a look at our contributor guidelines, and if you haven’t contributed before, it’ll save time if you sign the contributor license agreement before you arrive at Writing Day.
 
-`Detailed information, including how to sign the CLA <https://docs.google.com/document/d/1-mlmb9yHgdLsTqR8t52MegAWlUgXsZeko247hUMJaVU/edit?usp=sharing>`_ 
+`Detailed information, including how to sign the CLA <https://docs.google.com/document/d/1-mlmb9yHgdLsTqR8t52MegAWlUgXsZeko247hUMJaVU/edit?usp=sharing>`_
 
 And if you have questions before Writing Day, feel free to ask in the #kubernetes channel in the Write the Docs Slack.
-   
+
 
 CockroachDB Docs
 ~~~~~~~~~~~~~~~~
@@ -47,7 +47,7 @@ Following are a few ways you can contribute to the CockroachDB docs:
 Improve our current docs
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-If you love fiddling around with a new product, you can: 
+If you love fiddling around with a new product, you can:
 
 - User-test our `Getting Started docs <https://github.com/cockroachdb/docs/issues/3028>`_ or `Production docs <https://github.com/cockroachdb/docs/issues/3027>`_ and give us feedback about clarity, correctness, and ease-of-use
 - Improve existing docs by `adding missing details <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aincorrect-info>`_ or `correcting errors <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aincorrect-info>`_
@@ -55,7 +55,7 @@ If you love fiddling around with a new product, you can:
 
 Fill gaps in our docs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-If you’d like to dig in deeper, we’re missing docs on a handful of important features. `You can help us fill these gaps! <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aproduct>`__ 
+If you’d like to dig in deeper, we’re missing docs on a handful of important features. `You can help us fill these gaps! <https://github.com/cockroachdb/docs/issues?q=is%3Aopen+is%3Aissue+label%3Awtd-writing-day+label%3Aproduct>`__
 
 Help us improve our processes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -136,11 +136,11 @@ tagged as `writingday` that includes things like:
 - add list of conference write ups for past conferences
 
 The Lone Writers Guide
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 If you're the new sole writer at a company and you've inherited a mess, what should you do first? What decisions (and trade offs) are the most important to address right away? What are the milestones you would try to hit in the first 30, 60, and 90 days?
 
-We started a guide for people who are thrown into the deep end, to give them a plan for the first 90 days. It already includes pages about things like identifying your stakeholders, choosing the right tools, and getting everyone to write. You can expand on these topics, or create a new one. 
+We started a guide for people who are thrown into the deep end, to give them a plan for the first 90 days. It already includes pages about things like identifying your stakeholders, choosing the right tools, and getting everyone to write. You can expand on these topics, or create a new one.
 
 Get started at our GitHub repo:
 https://github.com/San-Francisco-Write-The-Docs/lone-writers-guide
@@ -152,5 +152,3 @@ Your project here
 ~~~~~~~~~~~~~~~~~
 
 Send us a pull request or an email talking about what you want to work on!
-
-
