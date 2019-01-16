@@ -1,6 +1,6 @@
 Sphinx==1.8.3
 recommonmark==0.5.0
-ablog==0.9.2
+ablog==0.9.3
 tox==2.3.1
 sphinxcontrib.datatemplates
 sphinx_autobuild
