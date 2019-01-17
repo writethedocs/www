@@ -63,7 +63,7 @@ Some of the current files in the guide are written in Markdown, and some are wri
 
 For help, questions, or discussion, the Write the Docs community is available here:
 
-* [Slack](https://writethedocs.slack.com/)
+- `Slack <http://slack.writethedocs.com/>`_
 
 * [Write the Docs forum](http://forum.writethedocs.org/)
 
