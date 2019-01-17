@@ -10,7 +10,7 @@ If you'd like to contribute,
 you can read our :doc:`contributing <contributing>` documentation.
 Also feel free to send us any additions in any format to support@writethedocs.org.
 
-Take a look also at the `guidelines for contributing to the guide <contributing>`_. If you have any questions about contributing, 
+Take a look also at the :doc:`guidelines for contributing to the guide <contributing>`. If you have any questions about contributing, 
 you can send them along to guide@writethedocs.org too.
 
 
