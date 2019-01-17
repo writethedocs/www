@@ -68,5 +68,5 @@ For help, questions, or discussion, the Write the Docs community is available he
 
 - `Forum <http://forum.writethedocs.org/>`_
 
-You can also check out [the main website](http://www.writethedocs.org/meetups/) for a list of local meetups.
+You can also check out our `local meetups <http://www.writethedocs.org/meetups>`_.
 
