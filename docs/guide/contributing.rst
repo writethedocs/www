@@ -65,7 +65,7 @@ For help, questions, or discussion, the Write the Docs community is available he
 
 - `Slack <http://slack.writethedocs.com/>`_
 
-* [Write the Docs forum](http://forum.writethedocs.org/)
+- `Forum <http://forum.writethedocs.org/>`_
 
 You can also check out [the main website](http://www.writethedocs.org/meetups/) for a list of local meetups.
 
