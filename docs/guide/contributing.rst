@@ -48,7 +48,7 @@ For anyone new to GitHub and Git
 
 If you've never worked with Git and GitHub before, try these resources:
 
-[How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github) is a great resource to help you get started.
+`How to Contribute to an Open Source Project on GitHub <https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github>`_ is a great resource to help you get started.
 
 For small changes, you can submit issues, which you can do in the GitHub interface, but for anything larger you'll probably want to learn how to fork and branch, how to work locally (although you can do most things in the GitHub interface in your branch), and how to keep your fork in sync with the main repository.
 
