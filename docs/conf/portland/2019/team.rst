@@ -15,26 +15,10 @@ Eric Holscher
 
 {% include "bios/eric.rst" %}
 
-
-
-Mikey Ariel
-~~~~~~~~~~~~~
-
-{% include "bios/mikey.rst" %}
-
-
-
 Samuel Wright
 ~~~~~~~~~~~~~
 
 {% include "bios/sam.rst" %}
-
-
-
-Sasha Romijn
-~~~~~~~~~~~~
-
-{% include "bios/sasha.rst" %}
 
 Mo Nishiyama
 ~~~~~~~~~~~~
@@ -61,10 +45,22 @@ Jennifer Rondeau
 
 {% include "bios/jennifer.rst" %}
 
+Sasha Romijn
+~~~~~~~~~~~~
+
+{% include "bios/sasha.rst" %}
+
+Mikey Ariel
+~~~~~~~~~~~~~
+
+{% include "bios/mikey.rst" %}
+
 Hillary Frayley
 ~~~~~~~~~~~~~~~
 
-{% include "bios/hillary.rst" %}
+{# {% include "bios/hillary.rst" %} #}
+
+Bio coming soon
 
 Primary Roles
 -------------
