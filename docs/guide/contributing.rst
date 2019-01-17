@@ -59,7 +59,8 @@ Markup
 
 Some of the current files in the guide are written in Markdown, and some are written in reStructured Text (rST). Either one is acceptable, although we'd prefer rST.
 
-# Community
+Community
+----------------
 
 For help, questions, or discussion, the Write the Docs community is available here:
 
