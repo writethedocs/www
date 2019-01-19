@@ -43,3 +43,13 @@ This section walks you through a timeline of the main tasks of conference-organi
 -------------
 * Send welcome email and last-minute info
 * Get excited!
+
+Calendar Script
+===============
+
+1. From the ``docs/_scripts/`` directory, run the calendar script with the first main day of the conference to generate a list of dates ``python3 confcal.py dates mm/dd/yy``.
+2. Edit the dates if you've a preference for ending things on Fridays, or Sundays or whatever.
+3. Copy ``confdates.yaml`` to ``../_data/dates/<conf>.<year>.yaml``
+4. Run ``python3 confcal.py ics`` to generate the calendar file.
+5. Copy the calendar file to ``../conf/<conf>/<year>/org.ics`` so you can add the URL to your calendar app.
+6. Optionally, set a default reminder for all events in the calendar in your app.
