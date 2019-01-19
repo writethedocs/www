@@ -37,7 +37,7 @@ def dates(date, events=events):
     "Edit that file if you want to tweak the dates before creating the ICS"
 
     d = Delorean()
-    d = parse(date, dayfirst=True)
+    d = parse(date, dayfirst=True, yearfirst=False)
 
     test = dict()
     for name, info in events.items():
