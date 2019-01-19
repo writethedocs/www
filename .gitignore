@@ -8,3 +8,4 @@ venv*
 *.pyc
 node_modules
 .sass-cache
+docs/scripts/confdates.yaml
