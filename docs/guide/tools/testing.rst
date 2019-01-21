@@ -113,8 +113,9 @@ to the /usr/local/bin directory.
 
 After installing Vale, run the following commands to check for proper installation:
 
-$ vale
-$ vale dc
+$ `vale`
+
+$ `vale dc`
 
 If you see empty JSON in the output to the second command, you've successfully
 installed Vale.
@@ -136,7 +137,7 @@ repository path, and then run `vale dc` to confirm your configuration.
 You can then apply Vale as a grammar linter directly to your source files, with
 a command like:
 
-$ vale /path/to/someText.md
+$ `vale /path/to/someText.md`
 
 Hint: Vale even works with XML files, such as those in DocBook and DITA, as long
-as you've included *.xml in the Vale configuration file.
+as you've included `*.xml` in the Vale configuration file.
