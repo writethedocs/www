@@ -19,7 +19,7 @@ from _ext.core import (
     set_html_context, unset_html_context
 )
 from _ext.meetups import MeetupListing
-from _ext.videos import main
+#from _ext.videos import main
 
 
 exclude_patterns = [
@@ -155,3 +155,4 @@ def setup(app):
     }, True)
     app.add_transform(AutoStructify)
     app.add_stylesheet('css/global-customizations.css')
+    app.add_javascript('js/jobs.js')
