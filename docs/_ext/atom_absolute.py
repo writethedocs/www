@@ -34,9 +34,9 @@ def rewrite_atom_feed(app, exception):
 def _rewrite_feed(app, tag):
     feed_url = urljoin(app.config.blog_baseurl, 'archive/atom.xml')
 
-    feed_path = os.path.join(app.outdir, f'blog/archive/tag/{tag}/atom.xml')
+    feed_path = os.path.join(app.outdir, 'blog/archive/tag/{tag}/atom.xml'.format(tag=tag))
     rewritten_feed_path = os.path.join(
-        app.outdir, f'blog/archive/tag/{tag}/atom_absolute.xml'
+        app.outdir, 'blog/archive/tag/{tag}/atom_absolute.xml'.format(tag=tag)
     )
 
     if not os.path.isfile(feed_path):
