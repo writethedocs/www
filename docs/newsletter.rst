@@ -4,7 +4,8 @@ Newsletter & Mailing lists
 Write the Docs publishes a regular newsletter. Each month we pack a bunch of
 interesting information that has been shared in our Slack network into the
 newsletter. You can see previous versions in our `newsletter archives
-</blog/archive/tag/newsletter/>`_, or see the index below.
+</blog/archive/tag/newsletter/>`_, or see the `index <#index-of-newsletter-topics>`_
+below.
 
 You can also subscribe to our North American and European Conference mailing
 to stay up-to-date on upcoming conferences.
@@ -50,7 +51,7 @@ All the topics we've covered in the newsletter. In no particular order,
 and some topics are repeated if they fit into more than one category. Enjoy!
 
 Collaboration
-~~~~~~~~~~~~~
+-------------
 
 - `Helping project managers understand docs </blog/newsletter-june-2018/#helping-your-project-managers-understand-docs>`_
 - `Common misconceptions about docs </blog/newsletter-august-2018/#common-misconceptions-about-documentation>`_
@@ -58,14 +59,14 @@ Collaboration
 - `Writing good bug reports </blog/newsletter-april-2017/#the-art-of-the-bug-report>`_
 
 Helping others to write
-^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~
 
 - `Promoting plain language </blog/newsletter-november-2018/#promoting-plain-language>`_
 - `Teaching peers writing </blog/newsletter-may-2017/#peer-to-peer-teaching>`_
 - `Giving feedback </blog/newsletter-february-2018/#it-s-not-personal-it-s-feedback>`_
 
 Workflows and Agile
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 - `Making docs maintainable </blog/newsletter-august-2017/#making-docs-maintainable>`_
 - `Task management for docs teams </blog/newsletter-october-2018/#task-management-tools-for-docs-teams>`_
@@ -75,14 +76,14 @@ Workflows and Agile
 - `Automating routine tasks </blog/newsletter-november-2017/#to-automate-or-not-to-automate>`_
 
 Style guides
-^^^^^^^^^^^^
+~~~~~~~~~~~~
 
 - `Enforcing UI style guides </blog/newsletter-june-2017/#the-enforcer-ui-style-guides-edition>`_
 - `Style guides we like </blog/newsletter-november-2016/#a-quick-guide-to-style-guides>`_
 - `One style guide for all types of writing? </blog/newsletter-september-2016/#one-style-guide-or-two>`_
 
 Encouraging contributions
-^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 See also: helping others to write
 
@@ -90,7 +91,7 @@ See also: helping others to write
 - `Crowdsourcing docs </blog/newsletter-september-2017/#crowdsourced-documentation-plus-sunsetting-stack-overflow-docs>`_
 
 Specific writing questions
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------
 
 - `Grammar questions: possessives, punctuation in quotes, capitalisation </blog/newsletter-december-2018/#grammar-and-style-questions>`_
 - `Using imperatives </blog/newsletter-may-2018/#using-imperatives-in-documentation>`_
@@ -100,7 +101,7 @@ Specific writing questions
 - `Writing about unlabelled buttons </blog/newsletter-july-2017/#documenting-unlabeled-buttons>`_
 
 More general writing guidance
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------
 
 - `Writing error messages </blog/newsletter-june-2018/#short-advice-for-writing-error-messages>`_
 - `Jokes in documentation </blog/newsletter-july-2017/#keep-your-jokes-out-of-my-documentation>`_
@@ -108,7 +109,7 @@ More general writing guidance
 - `Editing your own work </blog/newsletter-october-2017/#proofreading-and-copyediting-your-own-work>`_
 
 Questions about formatting
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------
 
 - `Number formatting in data tables </blog/newsletter-april-2018/#number-formatting-in-data-tables>`_
 - `Formatting and updating images and screenshots </blog/newsletter-november-2017/#worth-it-images-screenshots>`_
@@ -118,7 +119,7 @@ Questions about formatting
 - `Man pages </blog/newsletter-december-2017/#it-s-just-documentation-man>`_
 
 Docs metadata/other formatting
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - `"Last updated" in docs </blog/newsletter-july-2017/#struggles-with-dates-and-versions>`_
 - `Documentation bylines </blog/newsletter-march-2017/#should-documentation-have-bylines>`_
@@ -126,10 +127,10 @@ Docs metadata/other formatting
 - `API reference docs layout </blog/newsletter-december-2017/#thinking-hard-about-api-reference-docs-layout>`_
 
 Jobs
-~~~~
+----
 
 Applying for jobs
-^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 
 - `Hiring and getting hired guide </blog/newsletter-november-2018/#how-to-hire-a-documentarian>`_
 - `Questions to ask at your job interview </blog/newsletter-february-2018/#questions-to-ask-during-a-job-interview>`_
@@ -139,13 +140,13 @@ Applying for jobs
 - `Putting together a portfolio </blog/newsletter-october-2016/#putting-together-a-technical-writing-portfolio>`_
 
 Hiring documentarians
-^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~
 
 - `Hiring and getting hired guide </blog/newsletter-november-2018/#how-to-hire-a-documentarian>`_
 - `Hiring for technical background </blog/newsletter-december-2016/#hiring-for-technical-background>`_
 
 Career growth
-^^^^^^^^^^^^^
+~~~~~~~~~~~~~
 
 - `Career paths </blog/newsletter-december-2018/#technical-writing-career-paths>`_
 - `Distinguishing between junior vs senior tech writers </blog/newsletter-june-2018/#junior-vs-senior-technical-writers>`_
@@ -155,13 +156,13 @@ Career growth
 - `Exploring other careers </blog/newsletter-february-2017/#exploring-your-technical-writing-career-options>`_
 
 Developer docs
-~~~~~~~~~~~~~~
+--------------
 
 - `READMEs and doc-driven development </blog/newsletter-august-2017/#readmes-and-doc-driven-development>`_
 - `Maintaining command reference pages </blog/newsletter-october-2016/#writing-and-maintaining-command-reference-pages>`_
 
 API documentation
-^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 
 - `When does one API stop and another begin? </blog/newsletter-may-2018/#distinguishing-one-api-from-many>`_
 - `API reference docs layout </blog/newsletter-december-2017/#thinking-hard-about-api-reference-docs-layout>`_
@@ -170,7 +171,7 @@ API documentation
 - `API community resources </blog/newsletter-december-2016/#api-community-resources>`_
 
 Code snippets/samples
-^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~
 
 - `Evolving developer docs, code samples </blog/newsletter-april-2018/#evolving-your-developer-docs-as-your-product-matures>`_
 - `Command prompts in code samples </blog/newsletter-october-2018/#to-prompt-or-not-to-prompt-that-is-the-question>`_
@@ -178,7 +179,7 @@ Code snippets/samples
  - `Replaceable content in code snippets </blog/newsletter-may-2017/#replaceable-content-in-code-snippets>`_
 
 Improving your docs
-~~~~~~~~~~~~~~~~~~~
+-------------------
 
 - `Discovering user needs </blog/newsletter-december-2018/#discovering-user-needs>`_
 - `Gathering user feedback </blog/newsletter-november-2018/#getting-feedback-from-users>`_
@@ -186,14 +187,14 @@ Improving your docs
 - `UX testing documentation </blog/newsletter-december-2016/#running-ux-tests-on-your-documentation>`_
 
 Metrics
-^^^^^^^
+~~~~~~~
 
 - `Documentation metrics </blog/newsletter-september-2017/#resources-for-documentation-metrics>`_
 - `More on metrics </blog/newsletter-april-2017/#documentation-metrics-what-to-track-and-how>`_
 - `Case study: Total Time Reading </blog/newsletter-september-2016/#metrics-case-study-total-time-reading-ttr>`_
 
 Tools
-~~~~~
+-----
 
 - `Comparing static site generators </blog/newsletter-august-2018/#static-and-sites-and-generators-oh-my>`_
 - `Automated screenshot-taking </blog/newsletter-april-2018/#new-tool-to-try-out-automated-screenshots>`_
@@ -204,7 +205,7 @@ Tools
 - `Tricks for static sites </blog/newsletter-may-2017/#last-but-not-least>`_
 
 Learning resources
-~~~~~~~~~~~~~~~~~~
+------------------
 
 - `Learning tech writing </blog/newsletter-november-2018/#recommended-reads>`_
 - `Recommended books </blog/newsletter-november-2018/#recommended-reads>`_
@@ -213,7 +214,7 @@ Learning resources
 - `API community resources </blog/newsletter-december-2016/#api-community-resources>`_
 
 UI writing
-~~~~~~~~~~
+----------
 
 - `UI style guides </blog/newsletter-june-2017/#the-enforcer-ui-style-guides-edition>`_
 - `Auditing UI text </blog/newsletter-february-2017/#running-an-effective-audit-of-your-ui-text>`_
@@ -222,14 +223,14 @@ UI writing
 - `What to include in UI copy </blog/newsletter-september-2016/#what-to-include-in-your-ui-copy>`_
 
 Documentarian-related careers
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------
 
 - `Exploring other careers </blog/newsletter-february-2017/#exploring-your-technical-writing-career-options>`_
 - `Docs and content strategists </blog/newsletter-november-2016/#how-do-documentation-and-content-strategy-intersect>`_
 - `Developer relations/evangelism/advocacy </blog/newsletter-october-2017/#defining-developer-relations-evangelism-advocacy>`_
 
 Docs as code
-~~~~~~~~~~~~
+------------
 
 See also: developer docs.
 
@@ -238,26 +239,26 @@ See also: developer docs.
 - `Automated screenshot-taking </blog/newsletter-april-2018/#new-tool-to-try-out-automated-screenshots>`_
 
 Information architecture
-~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------
 
 - `Information architecture resources </blog/newsletter-october-2018/#resources-for-planning-out-your-information-architecture>`_
 - `Tagging docs </blog/newsletter-march-2018/#the-whys-and-wherefores-of-tagging-docs>`_
 - `Navigation tabs for different audiences </blog/newsletter-february-2017/#pros-and-cons-of-using-tabbed-content-for-multiple-audiences>`_
 
 Accessibility
-~~~~~~~~~~~~~
+-------------
 
 - `Accessibility for colour blindness </blog/newsletter-august-2017/#accessible-docs-colorblindness-edition>`_
 - `Screen readers and svgs </blog/newsletter-may-2017/#screen-readers-and-accessibility>`_
 - `Alt text best practices </blog/newsletter-march-2017/#resources-and-best-practices-for-alt-text>`_
 
 Writing for diverse audiences
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------
 
 - `Improving diversity in docs </blog/newsletter-october-2016/#improving-diversity-in-our-docs>`_
 - `Responsible communication guide </blog/newsletter-october-2016/#coming-soon-the-responsible-communication-guide>`_
 
 Running meetups
-~~~~~~~~~~~~~~~
+---------------
 
 - `Framework for meetups </blog/newsletter-june-2017/#wtd-meetup-framework>`_
