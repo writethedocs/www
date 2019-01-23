@@ -58,7 +58,7 @@ Mikey Ariel
 Hillary Frayley
 ~~~~~~~~~~~~~~~
 
-{# {% include "bios/hillary.rst" %} #}
+{% include "bios/hillary.rst" %}
 
 Bio coming soon
 
