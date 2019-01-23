@@ -56,28 +56,38 @@ Collaboration
 - `Common misconceptions about docs </blog/newsletter-august-2018/#common-misconceptions-about-documentation>`_
 - `Conflicts about what should be in the docs </blog/newsletter-july-2017/#who-s-running-this-content>`_
 - `Writing good bug reports </blog/newsletter-april-2017/#the-art-of-the-bug-report>`_
-- **Helping others to write**
 
-  - `Promoting plain language </blog/newsletter-november-2018/#promoting-plain-language>`_
-  - `Teaching peers writing </blog/newsletter-may-2017/#peer-to-peer-teaching>`_
-  - `Giving feedback </blog/newsletter-february-2018/#it-s-not-personal-it-s-feedback>`_
-- **Workflows and Agile**
+Helping others to write
+^^^^^^^^^^^^^^^^^^^^^^^
 
-  - `Making docs maintainable </blog/newsletter-august-2017/#making-docs-maintainable>`_
-  - `Task management for docs teams </blog/newsletter-october-2018/#task-management-tools-for-docs-teams>`_
-  - `Agile workflows for docs </blog/newsletter-october-2018/#show-us-your-workflows>`_
-  - `Working on Agile teams </blog/newsletter-may-2017/#the-challenges-of-documentation-in-an-agile-environment>`_
-  - `Changing docs workflows </blog/newsletter-february-2017/#best-practices-for-changing-your-docs-workflow>`_
-  - `Automating routine tasks </blog/newsletter-november-2017/#to-automate-or-not-to-automate>`_
-- **Style guides**
+- `Promoting plain language </blog/newsletter-november-2018/#promoting-plain-language>`_
+- `Teaching peers writing </blog/newsletter-may-2017/#peer-to-peer-teaching>`_
+- `Giving feedback </blog/newsletter-february-2018/#it-s-not-personal-it-s-feedback>`_
 
-  - `Enforcing UI style guides </blog/newsletter-june-2017/#the-enforcer-ui-style-guides-edition>`_
-  - `Style guides we like </blog/newsletter-november-2016/#a-quick-guide-to-style-guides>`_
-  - `One style guide for all types of writing? </blog/newsletter-september-2016/#one-style-guide-or-two>`_
-- **Encouraging contributions** (see also: helping others to write)
+Workflows and Agile
+^^^^^^^^^^^^^^^^^^^
 
-  - `Help your contributors help your project </blog/newsletter-december-2017/#help-your-contributors-help-your-project>`_
-  - `Crowdsourcing docs </blog/newsletter-september-2017/#crowdsourced-documentation-plus-sunsetting-stack-overflow-docs>`_
+- `Making docs maintainable </blog/newsletter-august-2017/#making-docs-maintainable>`_
+- `Task management for docs teams </blog/newsletter-october-2018/#task-management-tools-for-docs-teams>`_
+- `Agile workflows for docs </blog/newsletter-october-2018/#show-us-your-workflows>`_
+- `Working on Agile teams </blog/newsletter-may-2017/#the-challenges-of-documentation-in-an-agile-environment>`_
+- `Changing docs workflows </blog/newsletter-february-2017/#best-practices-for-changing-your-docs-workflow>`_
+- `Automating routine tasks </blog/newsletter-november-2017/#to-automate-or-not-to-automate>`_
+
+Style guides
+^^^^^^^^^^^^
+
+- `Enforcing UI style guides </blog/newsletter-june-2017/#the-enforcer-ui-style-guides-edition>`_
+- `Style guides we like </blog/newsletter-november-2016/#a-quick-guide-to-style-guides>`_
+- `One style guide for all types of writing? </blog/newsletter-september-2016/#one-style-guide-or-two>`_
+
+Encouraging contributions
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+See also: helping others to write
+
+- `Help your contributors help your project </blog/newsletter-december-2017/#help-your-contributors-help-your-project>`_
+- `Crowdsourcing docs </blog/newsletter-september-2017/#crowdsourced-documentation-plus-sunsetting-stack-overflow-docs>`_
 
 Specific writing questions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -106,55 +116,66 @@ Questions about formatting
 - `Different types of brackets </blog/newsletter-november-2017/#a-by-any-other-name>`_
 - `Formatting for procedures </blog/newsletter-march-2017/#know-the-rules-for-formatting-procedures-and-when-to-break-them>`_
 - `Man pages </blog/newsletter-december-2017/#it-s-just-documentation-man>`_
-- **Docs metadata/other formatting**
 
-  - `"Last updated" in docs </blog/newsletter-july-2017/#struggles-with-dates-and-versions>`_
-  - `Documentation bylines </blog/newsletter-march-2017/#should-documentation-have-bylines>`_
-  - `Meaningful URLs </blog/newsletter-october-2017/#putting-our-urls-to-work-for-us-and-our-readers>`_
-  - `API reference docs layout </blog/newsletter-december-2017/#thinking-hard-about-api-reference-docs-layout>`_
+Docs metadata/other formatting
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- `"Last updated" in docs </blog/newsletter-july-2017/#struggles-with-dates-and-versions>`_
+- `Documentation bylines </blog/newsletter-march-2017/#should-documentation-have-bylines>`_
+- `Meaningful URLs </blog/newsletter-october-2017/#putting-our-urls-to-work-for-us-and-our-readers>`_
+- `API reference docs layout </blog/newsletter-december-2017/#thinking-hard-about-api-reference-docs-layout>`_
 
 Jobs
 ~~~~
 
-- **Applying for jobs**
+Applying for jobs
+^^^^^^^^^^^^^^^^^
 
-  - `Hiring and getting hired guide </blog/newsletter-november-2018/#how-to-hire-a-documentarian>`_
-  - `Questions to ask at your job interview </blog/newsletter-february-2018/#questions-to-ask-during-a-job-interview>`_
-  - `More questions to ask at your job interview </blog/newsletter-november-2017/#it-s-your-turn-to-ask-the-questions>`_
-  - `Creating a doc portfolio </blog/newsletter-september-2017/#doc-portfolios-a-perpetual-conundrum>`_
-  - `Writing a resume </blog/newsletter-august-2017/#what-resume-advice-is-the-right-resume-advice>`_
-  - `Putting together a portfolio </blog/newsletter-october-2016/#putting-together-a-technical-writing-portfolio>`_
-- **Hiring documentarians**
+- `Hiring and getting hired guide </blog/newsletter-november-2018/#how-to-hire-a-documentarian>`_
+- `Questions to ask at your job interview </blog/newsletter-february-2018/#questions-to-ask-during-a-job-interview>`_
+- `More questions to ask at your job interview </blog/newsletter-november-2017/#it-s-your-turn-to-ask-the-questions>`_
+- `Creating a doc portfolio </blog/newsletter-september-2017/#doc-portfolios-a-perpetual-conundrum>`_
+- `Writing a resume </blog/newsletter-august-2017/#what-resume-advice-is-the-right-resume-advice>`_
+- `Putting together a portfolio </blog/newsletter-october-2016/#putting-together-a-technical-writing-portfolio>`_
 
-  - `Hiring and getting hired guide </blog/newsletter-november-2018/#how-to-hire-a-documentarian>`_
-  - `Hiring for technical background </blog/newsletter-december-2016/#hiring-for-technical-background>`_
-- **Career growth**
+Hiring documentarians
+^^^^^^^^^^^^^^^^^^^^^
 
-  - `Career paths </blog/newsletter-december-2018/#technical-writing-career-paths>`_
-  - `Distinguishing between junior vs senior tech writers </blog/newsletter-june-2018/#junior-vs-senior-technical-writers>`_
-  - `Alternative titles to technical writer </blog/newsletter-april-2018/#rebranding-technical-writer>`_
-  - `Imposter syndrome </blog/newsletter-march-2018/#selling-yourself-short-impostor-syndrome-among-tech-writers>`_
-  - `Job titles (real and imagined) </blog/newsletter-march-2017/#studies-in-comparative-job-titles>`_
-  - `Exploring other careers </blog/newsletter-february-2017/#exploring-your-technical-writing-career-options>`_
+- `Hiring and getting hired guide </blog/newsletter-november-2018/#how-to-hire-a-documentarian>`_
+- `Hiring for technical background </blog/newsletter-december-2016/#hiring-for-technical-background>`_
+
+Career growth
+^^^^^^^^^^^^^
+
+- `Career paths </blog/newsletter-december-2018/#technical-writing-career-paths>`_
+- `Distinguishing between junior vs senior tech writers </blog/newsletter-june-2018/#junior-vs-senior-technical-writers>`_
+- `Alternative titles to technical writer </blog/newsletter-april-2018/#rebranding-technical-writer>`_
+- `Imposter syndrome </blog/newsletter-march-2018/#selling-yourself-short-impostor-syndrome-among-tech-writers>`_
+- `Job titles (real and imagined) </blog/newsletter-march-2017/#studies-in-comparative-job-titles>`_
+- `Exploring other careers </blog/newsletter-february-2017/#exploring-your-technical-writing-career-options>`_
 
 Developer docs
 ~~~~~~~~~~~~~~
 
 - `READMEs and doc-driven development </blog/newsletter-august-2017/#readmes-and-doc-driven-development>`_
 - `Maintaining command reference pages </blog/newsletter-october-2016/#writing-and-maintaining-command-reference-pages>`_
-- **API documentation**
 
-  - `When does one API stop and another begin? </blog/newsletter-may-2018/#distinguishing-one-api-from-many>`_
-  - `API reference docs layout </blog/newsletter-december-2017/#thinking-hard-about-api-reference-docs-layout>`_
-  - `What do we mean by "API" </blog/newsletter-october-2017/#the-true-meaning-of-api>`_
-  - `Get started with API docs </blog/newsletter-february-2017/#getting-started-with-api-docs>`_
-  - `API community resources </blog/newsletter-december-2016/#api-community-resources>`_
-- **Code snippets/samples**
+API documentation
+^^^^^^^^^^^^^^^^^
 
-  - `Evolving developer docs, code samples </blog/newsletter-april-2018/#evolving-your-developer-docs-as-your-product-matures>`_
-  - `Command prompts in code samples </blog/newsletter-october-2018/#to-prompt-or-not-to-prompt-that-is-the-question>`_
-  - `Storing and testing code snippets </blog/newsletter-september-2017/#storing-and-testing-code-snippets>`_
-  - `Replaceable content in code snippets </blog/newsletter-may-2017/#replaceable-content-in-code-snippets>`_
+- `When does one API stop and another begin? </blog/newsletter-may-2018/#distinguishing-one-api-from-many>`_
+- `API reference docs layout </blog/newsletter-december-2017/#thinking-hard-about-api-reference-docs-layout>`_
+- `What do we mean by "API" </blog/newsletter-october-2017/#the-true-meaning-of-api>`_
+- `Get started with API docs </blog/newsletter-february-2017/#getting-started-with-api-docs>`_
+- `API community resources </blog/newsletter-december-2016/#api-community-resources>`_
+
+Code snippets/samples
+^^^^^^^^^^^^^^^^^^^^^
+
+- `Evolving developer docs, code samples </blog/newsletter-april-2018/#evolving-your-developer-docs-as-your-product-matures>`_
+- `Command prompts in code samples </blog/newsletter-october-2018/#to-prompt-or-not-to-prompt-that-is-the-question>`_
+- `Storing and testing code snippets </blog/newsletter-september-2017/#storing-and-testing-code-snippets>`_
+ - `Replaceable content in code snippets </blog/newsletter-may-2017/#replaceable-content-in-code-snippets>`_
 
 Improving your docs
 ~~~~~~~~~~~~~~~~~~~
@@ -163,11 +184,13 @@ Improving your docs
 - `Gathering user feedback </blog/newsletter-november-2018/#getting-feedback-from-users>`_
 - `A/B testing docs </blog/newsletter-may-2018/#a-b-testing-for-stronger-docs>`_
 - `UX testing documentation </blog/newsletter-december-2016/#running-ux-tests-on-your-documentation>`_
-- **Metrics**
 
-  - `Documentation metrics </blog/newsletter-september-2017/#resources-for-documentation-metrics>`_
-  - `More on metrics </blog/newsletter-april-2017/#documentation-metrics-what-to-track-and-how>`_
-  - `Case study: Total Time Reading </blog/newsletter-september-2016/#metrics-case-study-total-time-reading-ttr>`_
+Metrics
+^^^^^^^
+
+- `Documentation metrics </blog/newsletter-september-2017/#resources-for-documentation-metrics>`_
+- `More on metrics </blog/newsletter-april-2017/#documentation-metrics-what-to-track-and-how>`_
+- `Case study: Total Time Reading </blog/newsletter-september-2016/#metrics-case-study-total-time-reading-ttr>`_
 
 Tools
 ~~~~~
