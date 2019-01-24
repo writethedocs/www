@@ -2,6 +2,7 @@ region: North America
 country: USA
 state: California
 city: San Francisco
+page: ./sf-bay.rst/
 website: https://www.meetup.com/Write-the-Docs-SF/
 meetup: Write-the-Docs
 organizers:
@@ -9,5 +10,3 @@ organizers:
     link: https://twitter.com/MoniqueSemp
   - name: Ilona Koren-Deutsch
     link: https://www.instagram.com/instilona/
-  - name: Clarence Cromwell
-    link: https://twitter.com/cwcromwell
