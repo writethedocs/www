@@ -80,7 +80,7 @@ The "main event" -- we'll have a variety of speakers on the stage sharing their 
 {% if flaghasschedule %}
 * **Details**: Full main stage schedule below
 {% else %}
-* **Details**: A detailed schedule will be announced soon.
+* **Details**: A detailed schedule will be announced soon
 {% endif %}
 
 
@@ -136,7 +136,7 @@ Conference Talks
 {% if flaghasschedule %}
 * **Details**: Full main stage schedule below
 {% else %}
-* **Details**: A detailed schedule will be announced soon.
+* **Details**: A detailed schedule will be announced soon
 {% endif %}
 
 .. separator to fix list formatting
