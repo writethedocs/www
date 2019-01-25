@@ -77,11 +77,16 @@ The "main event" -- we'll have a variety of speakers on the stage sharing their 
 
 * **Where**: Main stage, Crystal Ballroom
 * **When**: **9am-5pm**
+{% if flaghasschedule %}
 * **Details**: Full main stage schedule below
+{% else %}
+* **Details**: A detailed schedule will be announced soon.
+{% endif %}
+
 
 .. separator to fix list formatting
 
-{% if flaglivestreaming %}
+{% if flaghasschedule %}
 
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
@@ -128,7 +133,11 @@ Conference Talks
 
 * **Where**: Main stage, Crystal Ballroom
 * **When**: **9am-4pm**
-* **Details**: Full main stage schedule below!
+{% if flaghasschedule %}
+* **Details**: Full main stage schedule below
+{% else %}
+* **Details**: A detailed schedule will be announced soon.
+{% endif %}
 
 .. separator to fix list formatting
 
