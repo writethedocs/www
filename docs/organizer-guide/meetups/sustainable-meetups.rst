@@ -16,7 +16,6 @@ Minimal Viable Meetup checklist
 * Bring in at least two main organizers for your meetup (including yourself). This helps shoulder the burden of organizing and stops you burning out. 
 * Check your scheduling won’t clash with an overlapping meetup that might attract away your attendees. 
 * Even if you haven’t had a meetup in a while, just pick yourself back up and schedule another one when you can.
-* At each meetup, highlight the Write the Docs Code of Conduct. We have a `short form CoC available for meetups <../../../code-of-conduct-shortform-meetups>`_.
 
 Nice-to-haves 
 -------------
