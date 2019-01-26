@@ -38,13 +38,15 @@ The principles
   * Violent threats or language directed against another person.
   * Discriminatory jokes and language.
   * Posting sexually explicit or violent material.
-  * Posting (or threatening to post) other people's personally identifying information ("doxing").
   * Personal insults, especially those using discriminatory terms.
   * Inappropriate physical contact or unwelcome sexual attention.
   * Harassing photography or recording, including taking photos of someone who is wearing a no photo-lanyard.
   * Sustained disruption of talks or other events.
+  * Deliberate misgendering.
+  * Deliberate "outing" of any private aspect of a person's identity without their consent except as necessary to protect vulnerable people from intentional abuse. This includes sharing personally identifying information ("doxing").
+  * Knowingly making harmful false claims about a person.
   * Harassment of others in any form. In general, if someone asks you to stop, then stop.
-  * Advocating for, or encouraging, any of the above behavior.
+  * Advocating for, threatening to, or encouraging, any of the above behavior.
 
 Where does the Code of Conduct apply
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -165,6 +167,5 @@ Australia Code-of-Conduct Team
 Thanks
 ~~~~~~
 
-This Code of Conduct is largely based on the `DjangoCon Europe 2018 Code of Conduct <https://2018.djangocon.eu/conduct/>`_ and the `Django Project Code of Conduct <https://www.djangoproject.com/conduct/>`_, which in turn credits the original text of the Speak Up! project, inspired in its turn by the Fedora Project, as well as the Python Mentorship Project and many others.
-
-
+This Code of Conduct was originally based on the `DjangoCon Europe 2018 Code of Conduct <https://2018.djangocon.eu/conduct/>`_ and the `Django Project Code of Conduct <https://www.djangoproject.com/conduct/>`_, which in turn credits the original text of the Speak Up! project, inspired in its turn by the Fedora Project, as well as the Python Mentorship Project and many others.
+Some inspiration was also taken from the `FreeBSD Code of Conduct <https://www.freebsd.org/internal/code-of-conduct.html>`_
