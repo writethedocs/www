@@ -1,7 +1,7 @@
 {
   "private": true,
   "devDependencies": {
-    "browser-sync": "^2.24.1",
+    "browser-sync": "^2.26.3",
     "debug": "^2.6.9",
     "del": "*",
     "gulp": "^4.0.0",
@@ -12,5 +12,8 @@
     "gulp-plumber": "^1.2.0",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "alex": "^7.1.0"
   }
 }
