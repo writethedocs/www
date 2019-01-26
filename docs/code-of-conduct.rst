@@ -45,8 +45,12 @@ The principles
   * Deliberate misgendering.
   * Deliberate "outing" of any private aspect of a person's identity without their consent except as necessary to protect vulnerable people from intentional abuse. This includes sharing personally identifying information ("doxing").
   * Knowingly making harmful false claims about a person.
+  * Pushing a person to drink alcohol when they don't want to drink, or deceiving someone into drinking alcohol.
   * Harassment of others in any form. In general, if someone asks you to stop, then stop.
   * Advocating for, threatening to, or encouraging, any of the above behavior.
+
+Some events may provide alcoholic drinks. However, participants are expected to drink responsibly.
+Alcohol use or other intoxication are never accepted as an excuse for CoC violations.
 
 Where does the Code of Conduct apply
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -98,6 +98,7 @@ To provide a number of examples, these are situations where immediate removal fr
 * A pattern of harassing behavior, with or without warnings.
 * A single physical assault offense (e.g., punching or groping someone).
 * A single obviously intentional offense (e.g., taking up-skirt photos).
+* Intentionally deceiving someone into drinking alcohol.
 
 The response team should not involve venue security or law enforcement, unless they have consent from the affected person(s), or if the safety risk is so significant that there is no other reasonable option. Venue security can be involved to ensure a person can not re-enter the building. However, details of the incident or the reporter must not be shared.
 
