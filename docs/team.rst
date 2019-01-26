@@ -183,6 +183,8 @@ Members
 * You?
 
 
+.. _core-team:
+
 Core Team
 ---------
 

@@ -13,8 +13,8 @@ This includes conferences, online spaces and meetups.
 General guidelines for Code of Conduct response
 -----------------------------------------------
 
-The role Code of Conduct response teams
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The role of Code of Conduct response teams
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Different spaces have different response teams to handle Code of Conduct reports:
 
@@ -46,7 +46,7 @@ The response team generally works, decides and communicates as a team. If the re
 
 For example, you may consider unilateral action:
 
-* When any delay of action will likely bring unacceptable further harm to others. Ongoing aggression or serious harassment are examples of this.
+* If any delay of action will likely bring unacceptable further harm to others. Ongoing aggression or serious harassment are examples of this.
 * If you feel people are in immediate physical danger, it can be appropriate to contact local law enforcement.
 * If you witness a presentation which is clearly in violation of the Code of Conduct repeatedly or very seriously. You might simply say “I’m sorry, this presentation cannot be continued at the present time”. Examples of when this is justified could be significant threats of violence, harassment of others, or continuous sexist jokes. Do not end a presentation in cases like a few inappropriate jokes - in that case do report it to the response team.
 
@@ -78,9 +78,9 @@ The most common resolutions the response team can decide on are:
 
 * No action (if the team determines no violation occurred).
 * A private or pubic reprimand.
-* Demanding that a public apology is made.
-* Demanding that a participant stops their behaviour.
-* Demanding that a participant prevents further contact with certain other participants.
+* Requiring that a public apology is made.
+* Requiring that a participant stops their behaviour.
+* Requiring that a participant prevents further contact with certain other participants.
 * Not publishing the video of a conference talk.
 * Cancelling a conference talk.
 * Removing a participant from the conference, meetup or online space, without refund.
@@ -91,11 +91,11 @@ When deciding on a resolution, the basic goal is to address the report in an app
 
 To provide a number of examples, these are situations where immediate removal from a space is likely appropriate:
 
-* Repeated violations that resulted in a warning from staff
-* Continuing to harass after any "No" or "Stop" instruction
-* A pattern of harassing behavior, with or without warnings
-* A single serious offense (e.g., punching or groping someone)
-* A single obviously intentional offense (e.g., taking up-skirt photos)
+* Repeated violations that resulted in one or more previous warnings.
+* Continuing to harass after any "No" or "Stop" instruction.
+* A pattern of harassing behavior, with or without warnings.
+* A single physical assault offense (e.g., punching or groping someone).
+* A single obviously intentional offense (e.g., taking up-skirt photos).
 
 The response team should not involve venue security or law enforcement, unless they have consent from the affected person(s), or if the safety risk is so significant that there is no other reasonable option. Venue security can be involved to ensure a person can not re-enter the building. However, details of the incident or the reporter must not be shared.
 

@@ -53,20 +53,19 @@ This Code of Conduct applies to all spaces managed by Write the Docs. This inclu
 
 * Conferences (including social events and peripheral activities)
 * Unconferences and sprints
-* Meetups
+* Meetups, including their discussion boards
 * Workshops
 * Presentation materials used in talks or sessions
 * Slack
 * Mailing lists
 * GitHub
-* Twitter hashtag
+* Twitter hashtag and mentions
 * forum.writethedocs.org
-* meetup.com discussion boards
 * Any other forums created by the which the community uses for communication.
 
 The Code of Conduct does not exclusively apply to events on an official agenda. For example, if after a scheduled social event you go to a bar with a group of fellow participants, and someone harasses you there, we would still treat that as a CoC violation. Similarly, harassment in Twitter direct messages related to Write the Docs can still be covered under this Code of Conduct.
 
-In addition, violations of this code outside our spaces may affect a person's ability to participate within them.
+In addition, violations of this code outside our spaces may affect a person's ability to participate in them.
 
 .. _coc-sponsors:
 
@@ -86,9 +85,9 @@ In case of a Code of Conduct violation, some of the most common actions organise
 
 * No action (if the team determines no violation occurred).
 * A private or pubic reprimand.
-* Demanding that a public apology is made.
-* Demanding that a participant stops their behaviour.
-* Demanding that a participant prevents further contact with certain other participants.
+* Requiring that a public apology is made.
+* Requiring that a participant stops their behaviour.
+* Requiring that a participant prevents further contact with certain other participants.
 * Not publishing the video of a conference talk.
 * Cancelling a conference talk.
 * Removing a participant from the conference, meetup or online space, without refund.
@@ -98,9 +97,7 @@ The action taken is at the discretion of the Code of Conduct team. Participants 
 What to do in case of violations?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If a Code of Conduct incident happens that affects you, or witness it affecting someone else, please contact the appropriate CoC team immediately. See the contact details below for the different teams for different spaces. In all cases, you may email conduct@writethedocs.org, but contacting local organisers may be faster.
-
-*TODO: who is behind conduct@wtd?*
+If a Code of Conduct incident happens that affects you, or witness it affecting someone else, please contact the appropriate CoC team immediately. See the contact details below for the different teams for different spaces. In all cases, you may email conduct@writethedocs.org, but contacting local organisers may be faster. Email to the conduct@writethedocs.org is received by all members of the :ref:`core-team`.
 
 .. _coc-reporting:
 
