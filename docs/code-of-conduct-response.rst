@@ -71,6 +71,8 @@ As soon as reasonable, but at the latest at the report review meeting, team memb
 
 A conflict of interest does not inherently mean the team member can no longer participate in the process, as that would make it very hard for the team to act on reports involving well-known people in the community. However, if a report concerns someone a team member is very close to, they probably should be not take part in the process. The team will decide together on where to draw this line in individual cases. Where possible, any conversations with offenders should not be done by people who know them, as it can be very unpleasant for everyone involved.
 
+If a report is received concerning a member of a Code of Conduct response team, that member must not be involved in any way in the response process. The rest of the team will meet and decide on the report without the reported team member being present, and will not share more information than they would have with a non-member. If a member of the response team is found to have violated the CoC, they may no longer able to keep serving on the response team.
+
 Resolutions
 ~~~~~~~~~~~
 
