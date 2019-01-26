@@ -64,7 +64,8 @@ or `send us an email <mailto:support@writethedocs.org>`_ so we
 can add your Meetup information to the :doc:`/meetups/index` list.
 
 Code of Conduct
-~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+
 All Write the Docs meetups are required to adopt the Write the Docs community :doc:`/code-of-conduct`.
 A :doc:`short form CoC is available for meetups </code-of-conduct-shortform-meetups>`, which needs to be included in your Meetup description in full.
 We also ask that you highlight the Code of Conduct at the start of every meetup.
