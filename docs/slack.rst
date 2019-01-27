@@ -30,7 +30,7 @@ Everyone who joins the Slack will be added to these channels:
 
 * **#general** - The main channel for documentation related conversation and questions.
 * **#watercooler** - For talking about things that are off-topic. Get to know folks other interests that aren't around documentation :)
-* **#jobs-posts-only** - Posting or asking for jobs.
+* **#jobs-posts-only** - Posting jobs. (You can look for jobs in **#career-advice**)
 * **#wtd-conferences** - Questions and other thoughts around the :doc:`/conf/index`.
 * **#meetups** - Questions and other thoughts about our :doc:`/meetups/index`.
 * **#intros** - Introduce yourself! Let people know you're here, and why you care about docs :)
@@ -84,6 +84,15 @@ please avoid these behaviors:
 - **Technology Competitions** - We don't care if your tool is faster or better in some metric. We care about creating great documentation for our users.
 - **Spam** - Respect our space. Don't post spam or otherwise vandalize our community.
 
+
+Welcome message
+~~~~~~~~~~~~~~~
+
+We send out the following welcome message on slack monthly:
+
+.. literalinclude:: include/slack.txt
+   :language: text
+
 Reporting Issues
 ~~~~~~~~~~~~~~~~
 
@@ -98,4 +107,3 @@ Credit
 
 This concept is inspired by the `Recurse Center's Social Rules <https://www.recurse.com/manual#sub-sec-social-rules>`_.
 Thanks for the inspiration!
-

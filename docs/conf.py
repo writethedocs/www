@@ -1,11 +1,15 @@
 # -*- coding: utf-8 -*-
 #
 
-from recommonmark.parser import CommonMarkParser
 from recommonmark.transform import AutoStructify
 import ablog
 import sys
 import os
+
+# Only for windows compatability - Forces default encoding to UTF8, which it may not be on windows
+if os.name == 'nt':
+    reload(sys)
+    sys.setdefaultencoding('UTF8')
 
 
 sys.path.append(os.getcwd())  # noqa
@@ -15,8 +19,7 @@ from _ext.core import (
     set_html_context, unset_html_context
 )
 from _ext.meetups import MeetupListing
-from _ext.videos import main
-
+from _ext.atom_absolute import rewrite_atom_feed
 
 exclude_patterns = [
     '_build',
@@ -26,16 +29,17 @@ exclude_patterns = [
 ]
 
 # Only build the videos on production, to speed up dev
-import os
 on_rtd = os.environ.get('READTHEDOCS') == 'True'
 on_netlify = os.environ.get('BUILD_VIDEOS') == 'True'
 on_travis = os.environ.get('TRAVIS') == 'True'
 if not on_rtd and not on_netlify and not on_travis:
     exclude_patterns.append('videos')
+REWRITE_FEED = False
 
 extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
+    'recommonmark',
 ]
 blog_baseurl = 'http://www.writethedocs.org/'
 blog_path = 'blog/archive'
@@ -45,6 +49,7 @@ blog_authors = {
     'kelly': ("Kelly O'Brien", 'https://twitter.com/OBrienEditorial'),
 }
 blog_default_author = 'Team'
+blog_feed_archives = True
 blog_feed_fulltext = True
 blog_feed_length = 10
 blog_locations = {
@@ -53,12 +58,9 @@ blog_locations = {
 blog_default_location = 'PDX'
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 
-templates_path = ['_templates']
+templates_path = ['_templates', 'include']
 templates_path.append(ablog.get_html_templates_path())
 
-source_parsers = {
-    '.md': CommonMarkParser,
-}
 source_suffix = ['.rst', '.md']
 
 master_doc = 'index'
@@ -127,9 +129,10 @@ html_context = {
 }
 
 # Uncomment this line to generate videos
-#html_context.update(main())
+# html_context.update(main())
 
 # html_experimental_html5_writer = True
+
 
 def setup(app):
     # Set up our custom jinja filters
@@ -145,11 +148,15 @@ def setup(app):
     # Render HTML templates with proper HTML context
     app.connect('html-page-context', override_page_template)
 
+    if on_rtd or on_netlify or on_travis or REWRITE_FEED:
+        app.connect('build-finished', rewrite_atom_feed)
+
     app.add_directive('meetup-listing', MeetupListing)
     app.add_config_value('recommonmark_config', {
         'auto_toc_tree_section': 'Contents',
-        'enable_auto_doc_ref': True,
+        # 'enable_auto_doc_ref': True,
         'enable_eval_rst': True,
     }, True)
     app.add_transform(AutoStructify)
     app.add_stylesheet('css/global-customizations.css')
+    app.add_javascript('js/jobs.js')

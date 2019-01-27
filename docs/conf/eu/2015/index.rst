@@ -293,6 +293,6 @@ If you wish to receive more information as it becomes available, follow
 us on `Twitter <https://twitter.com/writethedocs>`_ or sign
 up for our mailing list:
 
-.. include:: /include/eu-mailchimp.rst
+{% include "eu-mailchimp.rst" %}
 
 You can also send us mail at prague@writethedocs.org.

@@ -515,4 +515,4 @@ If you wish to receive more information as it becomes available, follow
 us on Twitter at `twitter <https://twitter.com/writethedocs>`_ or sign
 up for our mailing list:
 
-.. include:: /include/na-mailchimp.rst
+{% include "na-mailchimp.rst" %}

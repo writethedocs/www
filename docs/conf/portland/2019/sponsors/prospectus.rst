@@ -39,9 +39,11 @@ experience again this year, and make it better than ever.
 Demographics
 ============
 
-We hold two conferences yearly, one in Portland, USA in May, and one in
-Prague, Europe in September. Attendence is approximately 400 in the
-USA and 250 in Europe, and we expect both conferences to sell out.
+We hold multiple conferences yearly:
+
+* One in the United States in the spring
+* One in Europe in the fall
+* One in Australia in the winter
 
 Our audience is made up of:
 
@@ -50,6 +52,10 @@ Our audience is made up of:
 - Support Staff (15%)
 - Managers (10%)
 - Community Contributors, Enthusiasts & Other Folks (10%)
+
+Over 75% of our attendees represent their company at the event.
+Almost all attendees are from tech companies,
+such as Google or Microsoft.
 
 Why Sponsor
 ===========

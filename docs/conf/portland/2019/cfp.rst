@@ -17,6 +17,8 @@ In the meantime, mark your calendars:
 
 **The deadline for submitting proposals is Midnight {{TZ}} on {{cfp.ends}}.**
 
+.. note:: The original deadline was 17th January, with notification by 8th Feb. Check the :doc:`extension announcement </conf/portland/2019/news/cfp-reminder>`.
+
 We'll let you know if your proposal has been accepted by the {{cfp.notification}}.
 
 Conference goals
@@ -127,6 +129,8 @@ Speaker benefits & logistics
 ----------------------------
 
 If you are selected to speak at Write the Docs, we will waive your attendance fee. We regret that we are not able to cover the cost of travel or lodging for all speakers at this time. By not covering travel costs for our speakers, we are able to keep ticket prices low and to make the conference accessible to the largest number of participants possible.
+
+If you already have a ticket, we will of course refund it - just drop us an  `{{email}} <mailto:{{email}}>`_.
 
 If your proposal is accepted but you would find it difficult to attend due to travel costs, please let us know and we will do our best to help make it happen.
 

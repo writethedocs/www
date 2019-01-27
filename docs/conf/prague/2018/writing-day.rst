@@ -4,7 +4,7 @@
 Writing Day
 ===========
 
-.. include:: /include/conf/events/writing-day.rst
+{% include "conf/events/writing-day.rst" %}
 
 Schedule
 --------

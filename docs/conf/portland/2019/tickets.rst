@@ -3,6 +3,9 @@
 Tickets
 =======
 
+Ticket Information
+------------------
+
 {% if flagticketsonsale %}
 
 **Tickets are on sale now!**
@@ -16,10 +19,20 @@ Tickets
 Each ticket includes:
 
 * Entry to all conference events and activities
-* Breakfast, snacks, and lunch on all conference days
-* Welcome Reception and Social Event with light snacks and free drinks
+* Breakfast, snacks, and lunch on all event days (Sunday-Tuesday)
+* Welcome Reception and Social Event with light snacks and drinks
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
+
+Refund Policy
+-------------
+
+Refunds will be offered with a 10% processing fee until 2 weeks before the conference.
+We can't do refunds after that date because all of our catering, badge, & swag orders will have been placed.
+
+Ticket Types
+------------
+
 
 {% if flaghasshirts %}
 
@@ -96,12 +109,4 @@ If you are a larger company or organization, please contact us at sponsorship@wr
 ---------------------
 
 If you can't afford these prices and still wish to attend, please email us at `{{shortcode}}@writethedocs.org <mailto:{{shortcode}}@writethedocs.org>`_. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance.
-
-.. class:: ticket
-
-Refund Policy
--------------
-
-Refunds will be offered with a 10% processing fee until 2 weeks before the first scheduled event day.
-We can't do refunds after that date because all of our catering, badge, & swag orders will have been placed.
 

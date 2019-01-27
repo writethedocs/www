@@ -13,46 +13,76 @@ Folks
 Eric Holscher
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/eric.rst
-
-Mikey Ariel
-~~~~~~~~~~~~~
-
-.. include:: /include/bios/mikey.rst
+{% include "bios/eric.rst" %}
 
 Samuel Wright
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/sam.rst
+{% include "bios/sam.rst" %}
+
+Mo Nishiyama
+~~~~~~~~~~~~
+
+{% include "bios/mo.rst" %}
+
+Alicia Duncan
+~~~~~~~~~~~~~
+
+{% include "bios/alicia.rst" %}
+
+Christy Lutz
+~~~~~~~~~~~~
+
+{% include "bios/christy.rst" %}
+    
+Rose Williams
+~~~~~~~~~~~~~
+
+{% include "bios/rose.rst" %}
+
+Jennifer Rondeau
+~~~~~~~~~~~~~~~~
+
+{% include "bios/jennifer.rst" %}
 
 Sasha Romijn
 ~~~~~~~~~~~~
 
-.. include:: /include/bios/sasha.rst
+{% include "bios/sasha.rst" %}
+
+Mikey Ariel
+~~~~~~~~~~~~~
+
+{% include "bios/mikey.rst" %}
+
+Hillary Frayley
+~~~~~~~~~~~~~~~
+
+{% include "bios/hillary.rst" %}
+
+Bio coming soon
 
 Primary Roles
 -------------
 
 * **Conference chair** - Eric Holscher
+* **Conference co-chair** - *TBD*
 * **Code of conduct response** - See `code of conduct <http://www.writethedocs.org/code-of-conduct/#staff-contact-information>`_ page
-* **Communication chair** - Mikey Ariel
-* **Hike coordinator** - Eric Holscher
-* **Infrastructure chair** - Sasha Romijn
 * **Speaker coordinator** - Samuel Wright
+* **Unconference coordinator** - Jennifer Rondeau & Hillary Frayley
+* **Lightning Talk coordinator** - Rose Williams
+* **Hike coordinator** - Eric Holscher
+* **Infrastructure coordinator** - Sasha Romijn
 * **Swag coordinator** - Mikey Ariel
+* **Communication coordinator** - Mo Nishiyama
+* **Explore Portland coordinators** - Alicia Duncan & Mo Nishiyama
+* **Job Fair coordinator** - Jennifer Rondeau & Hillary Frayley
+* **Welcome Wagon coordinators** - Christy Lutz & Alicia Duncan
+* **Sponsorship coordinator** - Eric Holscher
 
-* **Conference co-chair** - TBD
-* **Emcee** - TBD
-* **Explore Portland coordinators** - TBD
-* **Job Fair coordinator** - TBD
-* **Writing Day coordinator** - TBD
-* **Unconference coordinator** - TBD
-* **Lightning Talk coordinator** - TBD
-* **Social media chair** - TBD
-* **Sponsorship lead** - TBD
-* **Unconference coordinator** - TBD
-* **Volunteer coordinator** - TBD
-* **Welcome Wagon coordinators** - TBD
-* **Writing Day coordinator** - TBD
+* **Writing Day coordinator** - *TBD*
+* **Social media coordinator** - *TBD*
+* **Volunteer coordinator** - *TBD*
+* **Emcee** - *TBD*
 
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.

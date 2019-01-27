@@ -21,7 +21,7 @@ We're `live streaming </conf/{{shortcode}}/{{year}}/livestream>`_ the talks!
 {% endif %}
 
 Saturday, May 18
----------------
+----------------
 
 Hike
 ~~~~
@@ -34,7 +34,7 @@ If you get into town early, join us on the hike and take the chance to explore P
 * **Details**: :doc:`Annual hike </conf/{{shortcode}}/{{year}}/hike>` page
 
 Sunday, May 19
--------------
+--------------
 
 Writing Day
 ~~~~~~~~~~~
@@ -57,7 +57,7 @@ able to accomodate additional guests at this event.
 * **When**: **5pm-8pm**
 
 Monday, May 20
--------------
+--------------
 
 Unconference
 ~~~~~~~~~~~~
@@ -77,11 +77,16 @@ The "main event" -- we'll have a variety of speakers on the stage sharing their 
 
 * **Where**: Main stage, Crystal Ballroom
 * **When**: **9am-5pm**
+{% if flaghasschedule %}
 * **Details**: Full main stage schedule below
+{% else %}
+* **Details**: A detailed schedule will be announced soon
+{% endif %}
+
 
 .. separator to fix list formatting
 
-{% if flaglivestreaming %}
+{% if flaghasschedule %}
 
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
@@ -103,7 +108,7 @@ There will be light snacks and drinks available on the conference while our tab 
 * **When**: **7pm-10pm**
 
 Tuesday, May 21
---------------
+---------------
 
 Job Fair
 ~~~~~~~~
@@ -128,7 +133,11 @@ Conference Talks
 
 * **Where**: Main stage, Crystal Ballroom
 * **When**: **9am-4pm**
-* **Details**: Full main stage schedule below!
+{% if flaghasschedule %}
+* **Details**: Full main stage schedule below
+{% else %}
+* **Details**: A detailed schedule will be announced soon
+{% endif %}
 
 .. separator to fix list formatting
 

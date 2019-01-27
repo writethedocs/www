@@ -8,9 +8,10 @@ This guide exists to provide both novice and expert writers a best practice hand
 structuring,
 and writing software documentation.
 
-**This is a living, breathing guide.**  If you'd like to contribute,
-`fork us on GitHub <https://github.com/writethedocs/docs>`_!
-Also feel free to send us any additions in any format to guide@writethedocs.org.
+**This is a living, breathing guide.**
+If you'd like to contribute,
+you can read our :doc:`contributing <contributing>` documentation.
+Also feel free to send us any additions in any format to support@writethedocs.org.
 
 .. note:: There are a number of topics that aren't written yet.
           That means that you can write them!
