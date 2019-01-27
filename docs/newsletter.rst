@@ -176,7 +176,7 @@ Code snippets/samples
 - `Evolving developer docs, code samples </blog/newsletter-april-2018/#evolving-your-developer-docs-as-your-product-matures>`_
 - `Command prompts in code samples </blog/newsletter-october-2018/#to-prompt-or-not-to-prompt-that-is-the-question>`_
 - `Storing and testing code snippets </blog/newsletter-september-2017/#storing-and-testing-code-snippets>`_
- - `Replaceable content in code snippets </blog/newsletter-may-2017/#replaceable-content-in-code-snippets>`_
+- `Replaceable content in code snippets </blog/newsletter-may-2017/#replaceable-content-in-code-snippets>`_
 
 Improving your docs
 -------------------
