@@ -2,7 +2,7 @@ region: North America
 country: USA
 state: California
 city: San Francisco
-page: ./sf-bay.rst/
+page: ./sf-bay/
 website: https://www.meetup.com/Write-the-Docs-SF/
 meetup: Write-the-Docs
 organizers:
