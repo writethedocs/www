@@ -79,10 +79,10 @@ Primary Roles
 * **Job Fair coordinator** - Jennifer Rondeau & Hillary Frayley
 * **Welcome Wagon coordinators** - Christy Lutz & Alicia Duncan
 * **Sponsorship coordinator** - Eric Holscher
+* **Writing Day coordinator** - *Rose Williams*
+* **Volunteer coordinator** - *Alex Fornuto*
+* **Emcee** - *Nik Blanchet*
 
-* **Writing Day coordinator** - *TBD*
 * **Social media coordinator** - *TBD*
-* **Volunteer coordinator** - *TBD*
-* **Emcee** - *TBD*
 
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
