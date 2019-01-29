@@ -11,5 +11,5 @@ pathlib==1.0.1
 git+https://github.com/ericholscher/datatemplates@add-key-and-context#egg=sphinxcontrib.datatemplates-dev
 urllib3[secure]==1.24.1
 yamale==1.8.0
-ruamel.yaml==0.15.86
+ruamel.yaml==0.15.87
 lxml==4.3.0
