@@ -7,9 +7,9 @@ Write the Docs Newsletter – February 2019
 
 Hello, Write the Docs people! Beth here, wishing you all a happy 2019. Is it too late in the year for that? Oh well, never mind. I'm doing it anyway.
 
-We've got a little something for you this month. There's tons of useful stuff hidden away in the `newsletter archive </blog/archive/tag/newsletter/>`_, and it's a shame that it's not very discoverable. So, in an appropriately documentarian fashion, we've had a go at fixing that by creating an `index of all the topics  <../newsletter/#index-of-newsletter-topics>`_ covered by the newsletter over the last few years. We hope you like it!
+We've got a little something for you this month. There's tons of useful stuff hidden away in the `newsletter archive </blog/archive/tag/newsletter/>`_, and it's a shame that it's not very discoverable. So, in an appropriately documentarian fashion, we've had a go at fixing that by creating an `index of all the topics </newsletter/#index-of-newsletter-topics>`_ covered by the newsletter over the last few years. We hope you like it!
 
-In other news, on the conference front: we now have dates for the 2019 Prague conference! It'll be 15th-17th September, back in the gorgeous Auto Klub. Ticket sales and call for proposals should open in March - keep your eyes peeled.
+In other news, on the conference front: we now have `dates for the 2019 Prague conference </conf/prague/2019/news/prague-19-dates/>`_! It'll be 15th-17th September, back in the gorgeous Auto Klub. Ticket sales and call for proposals should open in March - keep your eyes peeled.
 
 Onto our stories! What have the community been talking about on Slack recently?
 
@@ -57,8 +57,8 @@ We have so many people who are the only writer in their company, that there's a 
 
 Some useful resources:
 
-* `Bootstrapping Docs at a Startup <../videos/na/2017/bootstrapping-docs-at-a-startup-jesse-seldess/>`_ - Jesse Seldess, Write the Docs Portland 2017
-* `Where Do I Start: The Art and Practice of Documentation Triage <../videos/portland/2018/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan/>`_ - Neal Kaplan, Write the Docs Portland 2018
+* `Bootstrapping Docs at a Startup </videos/na/2017/bootstrapping-docs-at-a-startup-jesse-seldess/>`_ - Jesse Seldess, Write the Docs Portland 2017
+* `Where Do I Start: The Art and Practice of Documentation Triage </videos/portland/2018/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan/>`_ - Neal Kaplan, Write the Docs Portland 2018
 * `The Lone Writers Guide <https://github.com/San-Francisco-Write-The-Docs/lone-writers-guide>`_ - GitHub project. It's a work in progress, and they welcome contributions!
 
 --------------------------------------------------
