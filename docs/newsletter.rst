@@ -53,7 +53,7 @@ and some topics are repeated if they fit into more than one category. Enjoy!
 Collaboration
 -------------
 
-- `Tips for lone writers starting from scratch </blog/newsletter-february-2018/#tips-for-lone-writers-starting-from-scratch>`_
+- `Tips for lone writers starting from scratch </blog/newsletter-february-2019/#tips-for-lone-writers-starting-from-scratch>`_
 - `Helping project managers understand docs </blog/newsletter-june-2018/#helping-your-project-managers-understand-docs>`_
 - `Common misconceptions about docs </blog/newsletter-august-2018/#common-misconceptions-about-documentation>`_
 - `Conflicts about what should be in the docs </blog/newsletter-july-2017/#who-s-running-this-content>`_
@@ -69,7 +69,7 @@ Helping others to write
 Workflows and Agile
 ~~~~~~~~~~~~~~~~~~~
 
-- `Agile delivery and continuous releases </blog/newsletter-february-2018/#agile-delivery-and-continuous-releases>`_
+- `Agile delivery and continuous releases </blog/newsletter-february-2019/#agile-delivery-and-continuous-releases>`_
 - `Making docs maintainable </blog/newsletter-august-2017/#making-docs-maintainable>`_
 - `Task management for docs teams </blog/newsletter-october-2018/#task-management-tools-for-docs-teams>`_
 - `Agile workflows for docs </blog/newsletter-october-2018/#show-us-your-workflows>`_
@@ -150,7 +150,7 @@ Hiring documentarians
 Career growth
 ~~~~~~~~~~~~~
 
-- `Personal development goals </blog/newsletter-february-2018/#personal-development-goals-for-documentarians>`_
+- `Personal development goals </blog/newsletter-february-2019/#personal-development-goals-for-documentarians>`_
 - `Career paths </blog/newsletter-december-2018/#technical-writing-career-paths>`_
 - `Distinguishing between junior vs senior tech writers </blog/newsletter-june-2018/#junior-vs-senior-technical-writers>`_
 - `Alternative titles to technical writer </blog/newsletter-april-2018/#rebranding-technical-writer>`_
@@ -167,7 +167,7 @@ Developer docs
 API documentation
 ~~~~~~~~~~~~~~~~~
 
-- `Documenting APIs with "interesting" design choices </blog/newsletter-february-2018/#documenting-apis-with-interesting-design-choices>`_
+- `Documenting APIs with "interesting" design choices </blog/newsletter-february-2019/#documenting-apis-with-interesting-design-choices>`_
 - `When does one API stop and another begin? </blog/newsletter-may-2018/#distinguishing-one-api-from-many>`_
 - `API reference docs layout </blog/newsletter-december-2017/#thinking-hard-about-api-reference-docs-layout>`_
 - `What do we mean by "API" </blog/newsletter-october-2017/#the-true-meaning-of-api>`_
