@@ -65,7 +65,7 @@ Some useful resources:
 Documenting APIs with "interesting" design choices
 --------------------------------------------------
 
-Recently, a documentarian asked about documenting APIs, which led to a larger conversation about API design. The original question was: how to document how to use an endpoint that, by default, deletes all objects - unless you pass in a filter to control what gets deleted.
+Recently, a documentarian asked about documenting APIs, which led to a larger conversation about API design. The original question was: how to document how to use an endpoint that deletes all objects by default - unless you pass in a filter to control what gets deleted.
 
 The unanimous response was that this is not a good design. Bulk deletions themselves are a reasonable feature. But having an API endpoint that *defaults* to deleting everything is a problem, because it makes it too easy for users to accidentally do irreversible damage.
 
@@ -83,15 +83,15 @@ The takeaway is that you cannot save a bad design with documentation. Not even b
 Community events coming up
 --------------------------
 
-- 2 February - Brussels, Belgium - `Tool the Docs @ FOSDEM'19 <https://www.meetup.com/Write-The-Docs-Brussels/events/258125054/>`_
+.. - 2 February - Brussels, Belgium - `Tool the Docs @ FOSDEM'19 <https://www.meetup.com/Write-The-Docs-Brussels/events/258125054/>`_
 - 6 February - Brisbane, Australia - `Technical writing in a global, remote-first, blockchain startup <https://www.meetup.com/Write-the-Docs-Australia/events/257010961/>`_
-- 9 February - Bangalore, Inda - `Lightning talks <https://www.meetup.com/Write-the-Docs-India/events/258435186/>`_
+- 9 February - Bangalore, India - `Analytics in documentation, and updates from KubeCon <https://www.meetup.com/Write-the-Docs-India/events/258435186/>`_
 - 12 February - Seattle, IL, USA - `Seattle morning social <https://www.meetup.com/Write-The-Docs-Seattle/events/258146549/>`_
 - 12 February - Ottawa, Canada - `Shopify meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyzdbqb/>`_
 - 12 February - Portland, OR, USA - `Lightning talks <https://www.meetup.com/Write-The-Docs-PDX/events/258360351/>`_
 - 12 February - Barcelona, Spain - `Agile for documentarians <https://www.meetup.com/Write-the-Docs-Barcelona/events/258493254/>`_
-- 13 February - Manchester, UK - `Introduction to Open API Specification <https://www.meetup.com/Write-the-Docs-North/events/256937446/>`_
-- 20 February - Chicago, IL, USA - `Writing API Documentation <https://www.meetup.com/Write-the-Docs-Chicago/events/257760901/>`_
+- 13 February - Manchester, UK - `Introduction to Open API specification <https://www.meetup.com/Write-the-Docs-North/events/256937446/>`_
+- 20 February - Chicago, IL, USA - `Writing API documentation <https://www.meetup.com/Write-the-Docs-Chicago/events/257760901/>`_
 - 21 February - Sydney, Australia - `First meetup of 2019 <https://www.meetup.com/Write-the-Docs-Australia/events/258194900/>`_
 - 18 March - Berlin, Germany - `Docs hack <https://www.meetup.com/Write-The-Docs-Berlin/events/bkgmpqyzfbxb/>`_
 - 20 March - Manchester, UK - `Genesis of a specialist marketing agency <https://www.meetup.com/Write-the-Docs-North/events/256937497/>`_
