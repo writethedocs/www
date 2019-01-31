@@ -17,7 +17,7 @@ Onto our stories! What have the community been talking about on Slack recently?
 Agile delivery and continuous releases
 --------------------------------------
 
-One topic that came up this month: how do you successfully deliver documentation when features roll out continuously... as in every two weeks?
+How do you successfully deliver documentation when features roll out continuously... as in every two weeks?
 
 It turns out that plenty of documentarians have been in this situation, and most agreed it's a challenge. But there are upsides: shorter intervals between releases lower the stakes of any one release and give you a chance to fix problems more quickly. Here are some of the approaches that the community offered up:
 
@@ -32,7 +32,7 @@ It turns out that plenty of documentarians have been in this situation, and most
 Personal development goals for documentarians
 ---------------------------------------------
 
-A recent question about personal, work-related development goals produced quite a thread, and brought many common interests to the fore. Here are some of the areas the community wants to develop in 2019 - we are evidently a group driven to expand our horizons!
+A recent question about personal, work-related development goals produced quite a thread, and brought many common interests to the fore. Here are some of the areas that members of the community want to develop in 2019 - we are evidently a group driven to expand our horizons!
 
 * **UI/UX**. Several people wanted either to move in this direction in their careers, or to polish their skills in their present positions.
 
@@ -40,7 +40,7 @@ A recent question about personal, work-related development goals produced quite 
 
 * **New languages**. Not just programming languages, but human languages too! We're an international community with contributors who work for international companies, and language skills can really help bridge communication gaps.
 
-* Other ideas included working on graphics and illustration skills, contributing to tech communities (new meetups, new conferences, new outreach groups), working more deeply with the products you document - especially if they're for developers or sysadmins - and so many more! 
+* Other ideas included working on graphics and illustration skills, contributing to tech communities (new meetups, new conferences, new outreach groups), and working more deeply with the products you document - especially if they're for developers or sysadmins.
 
 -------------------------------------------
 Tips for lone writers starting from scratch
