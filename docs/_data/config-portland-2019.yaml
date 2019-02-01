@@ -77,7 +77,7 @@ cfp:
 flaghashike: True
 flaglanding: False
 flagspeakersannounced: False
-flagcfp: True
+flagcfp: False
 flaghasschedule: False
 flagticketsonsale: True
 flaghasboat: False
