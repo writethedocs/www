@@ -11,7 +11,7 @@ We've got a little something for you this month. There's tons of useful stuff hi
 
 In other news, on the conference front: we now have `dates for the 2019 Prague conference </conf/prague/2019/news/prague-19-dates/>`_! It'll be 15th-17th September, back in the gorgeous Auto Klub. Ticket sales and call for proposals should open in March - keep your eyes peeled.
 
-Onto our stories! What have the community been talking about on Slack recently?
+Onto our stories! What has the community been talking about on Slack recently?
 
 --------------------------------------
 Agile delivery and continuous releases
@@ -46,7 +46,7 @@ A recent question about personal, work-related development goals produced quite 
 Tips for lone writers starting from scratch
 -------------------------------------------
 
-We have so many people who are the only writer in their company, that there's a channel for it: `#lone-writer <https://writethedocs.slack.com/messages/lone-writer>`_. If you're in that position for the first time, here's some advice from the channel:
+We have so many people who are the only writer in their company that there's a channel for it: `#lone-writer <https://writethedocs.slack.com/messages/lone-writer>`_. If you're in that position for the first time, here's some advice from the channel:
 
 * Start small. You might want to raze all the content to the ground and start again, but taking it one step at a time is more realistic.
 * Be open to change. Your processes should evolve over time, especially when you're first starting - some things you try will work, and some things just won't.
@@ -73,7 +73,7 @@ We did discuss a few ways that you could approach writing that documentation:
 
 * "By default, deletes all objects. Optionally, ..."
 * ":exclamation: Warning :exclamation: Be careful here!"
-* Using all caps and bold to draw attention.
+* All caps and bold to draw attention.
 
 But really, the design needs to be improved. There are safer approaches to bulk deletion: for example, the endpoint could require a filter parameter, and allow a wildcard value that allows bulk deletion. Users can still bulk delete, but this makes it a more deliberate action. 
 
