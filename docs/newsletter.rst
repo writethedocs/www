@@ -13,6 +13,14 @@ to stay up-to-date on upcoming conferences.
 If you have any questions or want to contribute to the newsletter, go ahead and email us at `newsletter@writethedocs.org
 <mailto:newsletter@writethedocs.org>`_.
 
+Sign up
+-------
+
+Sign up for our newsletter with the form below.
+You can also opt into the announcements for our conferences,
+which go to specific lists:
+
+
 .. raw :: html
 
   <!-- Begin MailChimp Signup Form -->
@@ -43,6 +51,7 @@ If you have any questions or want to contribute to the newsletter, go ahead and 
   </div>
   <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
   <!--End mc_embed_signup-->
+  <hr>
 
 Index of Newsletter Topics
 --------------------------
