@@ -79,19 +79,26 @@ But really, the design needs to be improved. There are safer approaches to bulk 
 
 The takeaway is that you cannot save a bad design with documentation. Not even by documenting the bad design in bold and all caps.
 
+-----------------------
+Job board: your ad here
+-----------------------
+
+The `Write the Docs job board https://jobs.writethedocs.org/>`_ is a great way to get your open positions in front of thousands of docs folk all around the world. Any jobs posted as a ‘featured’ listing will be included in the next newsletter.
+
 --------------------------
 Community events coming up
 --------------------------
 
-.. - 2 February - Brussels, Belgium - `Tool the Docs @ FOSDEM'19 <https://www.meetup.com/Write-The-Docs-Brussels/events/258125054/>`_
 - 6 February - Brisbane, Australia - `Technical writing in a global, remote-first, blockchain startup <https://www.meetup.com/Write-the-Docs-Australia/events/257010961/>`_
 - 9 February - Bangalore, India - `Analytics in documentation, and updates from KubeCon <https://www.meetup.com/Write-the-Docs-India/events/258435186/>`_
 - 12 February - Seattle, IL, USA - `Seattle morning social <https://www.meetup.com/Write-The-Docs-Seattle/events/258146549/>`_
-- 12 February - Ottawa, Canada - `Shopify meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyzdbqb/>`_
 - 12 February - Portland, OR, USA - `Lightning talks <https://www.meetup.com/Write-The-Docs-PDX/events/258360351/>`_
 - 12 February - Barcelona, Spain - `Agile for documentarians <https://www.meetup.com/Write-the-Docs-Barcelona/events/258493254/>`_
 - 13 February - Manchester, UK - `Introduction to Open API specification <https://www.meetup.com/Write-the-Docs-North/events/256937446/>`_
 - 20 February - Chicago, IL, USA - `Writing API documentation <https://www.meetup.com/Write-the-Docs-Chicago/events/257760901/>`_
+- 20 February - Toronto, Canada - `Hiring technical writers <https://www.meetup.com/Write-the-Docs-Toronto/events/pcqbmqyzdbbc/>`_
 - 21 February - Sydney, Australia - `First meetup of 2019 <https://www.meetup.com/Write-the-Docs-Australia/events/258194900/>`_
+- 21 February - Los Angeles, CA, USA - `Food, drinks, docs! <https://www.meetup.com/Write-the-Docs-LA/events/258597898/>`_
+- 26 February - Ottawa, Canada - `Structured authoring unconference <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyzdbqb/>`_
 - 18 March - Berlin, Germany - `Docs hack <https://www.meetup.com/Write-The-Docs-Berlin/events/bkgmpqyzfbxb/>`_
 - 20 March - Manchester, UK - `Genesis of a specialist marketing agency <https://www.meetup.com/Write-the-Docs-North/events/256937497/>`_
