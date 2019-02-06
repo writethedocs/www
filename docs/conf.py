@@ -39,6 +39,7 @@ REWRITE_FEED = False
 extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
+    'notfound.extension',
     'recommonmark',
 ]
 blog_baseurl = 'http://www.writethedocs.org/'

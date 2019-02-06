@@ -13,3 +13,5 @@ urllib3[secure]==1.24.1
 yamale==1.8.0
 ruamel.yaml==0.15.87
 lxml==4.3.0
+sphinx-notfound-page==0.1
+
