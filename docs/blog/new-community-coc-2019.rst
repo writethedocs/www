@@ -12,7 +12,7 @@ We have added:
 * Clarification on cases where the CoC can apply during conferences, even for events not on the conference agenda.
 * A short guideline on reporting. Community members are now more strongly encouraged to report incidents, even if they are unsure whether it is a violation or not. This is also reflected in the CoC in other places.
 * Clarification on who to report to in which spaces, how a report can be escalated, and which people are in which response team.
-* An explicit policy that response team members are not to involve venue security or law enforcement without consent of the affected person(s), except if there is no other reasonable option given significant safety risks.
+* An explicit policy regarding venue security or law enforcement involvement. They should not be involved without consent of the affected person(s), except if there is no other reasonable option given significant safety risks.
 
 We've updated:
 
