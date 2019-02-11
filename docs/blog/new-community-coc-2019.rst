@@ -1,4 +1,4 @@
-.. post:: Feb 1, 2019
+.. post:: Feb 11, 2019
    :tags: community, code of conduct, announcements
 
 Improved Community Code of Conduct
