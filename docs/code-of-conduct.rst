@@ -20,7 +20,7 @@ Our goals with having this Code of Conduct are:
 
 The Code of Conduct isn't an exhaustive list of things that you must do, or can't do. Rather, take it in the spirit in which it's intended. It's a guide to make it easier to enrich all of us and the communities in which we participate, and which we represent.
 
-If you believe someone is violating the Code of Conduct, please report it. Contact details for each space are listed at the end of this page.
+If you believe someone is violating the Code of Conduct, please report it. Contact details for each space are listed at the end of this page. When handling a report, we follow our :doc:`/code-of-conduct-response`.
 
 The principles
 ~~~~~~~~~~~~~~
@@ -149,7 +149,7 @@ If you believe anyone is in physical danger, please notify appropriate law enfor
 Reports about a Code of Conduct response team member
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If your report concerns a member of the Code of Conduct team of a conference, you can report the issue to any other team response member or any other organiser. For reports regarding meetup organisers, you can make the report to another meetup, if there is one. If this is not possible, or for any reason you feel uncomfortable with this, you can also email conduct@writethedocs.org.
+If your report concerns a member of the Code of Conduct team of a conference, you can report the issue to any other team response member or any other organiser. For reports regarding meetup organisers, you can make the report to another meetup organiser, if there is one. If this is not possible, or for any reason you feel uncomfortable with this, you can also email conduct@writethedocs.org.
 
 If your report concerns a member of the :ref:`core-team`, which receives emails to conduct@writethedocs.org, you can report the issue individually to any of the other core team members.
 
