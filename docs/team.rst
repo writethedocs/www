@@ -183,6 +183,8 @@ Members
 * You?
 
 
+.. _core-team:
+
 Core Team
 ---------
 
@@ -208,7 +210,7 @@ Members
 * `Eric Holscher <https://twitter.com/ericholscher>`_ *
 * `Mikey Ariel <https://twitter.com/thatdocslady>`_
 * `Samuel Wright <https://twitter.com/plaindocs>`_
-* `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
+* `Sasha Romijn <https://twitter.com/mxsash>`_ <wtd@mxsasha.eu>
 
 
 .. vale off
