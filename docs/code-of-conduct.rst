@@ -90,7 +90,7 @@ What can happen if the CoC is violated?
 In case of a Code of Conduct violation, some of the most common actions organisers may take are:
 
 * No action (if the team determines no violation occurred).
-* A private or pubic reprimand.
+* A private or public reprimand.
 * Requiring that a public apology is made.
 * Requiring that a participant stops their behaviour.
 * Requiring that a participant prevents further contact with certain other participants.

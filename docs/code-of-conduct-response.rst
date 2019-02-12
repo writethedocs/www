@@ -79,7 +79,7 @@ Resolutions
 The most common resolutions the response team can decide on are:
 
 * No action (if the team determines no violation occurred).
-* A private or pubic reprimand.
+* A private or public reprimand.
 * Requiring that a public apology is made.
 * Requiring that a participant stops their behaviour.
 * Requiring that a participant prevents further contact with certain other participants.
