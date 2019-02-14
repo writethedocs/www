@@ -65,7 +65,7 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 **Independent Tickets** *{{tickets.independent.price}}*
 --------------------------------------------
 
-Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with less than 10 employees.
+Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees.
 
 {% if flagticketsonsale %}
 

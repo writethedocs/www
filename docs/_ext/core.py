@@ -1,4 +1,5 @@
 from __future__ import print_function
+
 from future import standard_library
 standard_library.install_aliases()
 
@@ -7,8 +8,7 @@ import io
 import re
 import yaml
 import glob
-
-import CommonMark
+import commonmark
 
 try:
     from pathlib import PurePath
@@ -85,7 +85,7 @@ def rstjinja(app, docname, source):
     """
     context = load_page_yaml_data(app, docname)
     context.update(app.config.html_context)
-    if docname.startswith(('conf/', 'guide/', 'videos/by-year', 'videos/by-series')):
+    if docname.startswith(('about/', 'conf/', 'guide/', 'videos/by-year', 'videos/by-series')):
         src = source[0]
         rendered = app.builder.templates.render_string(src, context)
         source[0] = rendered
@@ -98,8 +98,8 @@ def add_jinja_filters(app):
     from .meetups import state_abbr
 
     def markdown_filter(data):
-        parser = CommonMark.DocParser()
-        renderer = CommonMark.HTMLRenderer()
+        parser = commonmark.Parser()
+        renderer = commonmark.HtmlRenderer()
         return renderer.render(parser.parse(data))
 
     def html_unescape(str):

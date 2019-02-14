@@ -10,7 +10,7 @@ To that effect, we recently refactored and expanded our :doc:`/code-of-conduct` 
 
 This updated code of conduct aims not only to deliver a more accurate definition of the principles which we believe in, but also to establish which spaces are considered official community spaces, what might be considered a violation, and what to do in case you need to report a violation.
 
-In addition to the expanded code of conduct, we included a :doc:`/code-of-conduct-reporting` with guidelines on how to submit a report and what to expect after submitting a report.
+In addition to the expanded code of conduct, we included a reporting guide with guidelines on how to submit a report and what to expect after submitting a report.
 
 And lastly, we refactored our :doc:`/code-of-conduct-response` to cover handling reports in all of our community spaces, and to make sure that we follow a consistent and transparent approach in handling these reports.
 

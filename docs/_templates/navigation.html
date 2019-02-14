@@ -1,15 +1,28 @@
+<div id="jobs">
+    <h3>Job Postings</h3>
+        <ul>
+        </ul>
 
-<h3>Useful Pages</h3>
+    <p>
+    You can find all our job postings at the <a href="https://jobs.writethedocs.org/">Write the Docs Job Board</a>.
 
-{{ toctree(collapse=False, includehidden=theme_sidebar_includehidden) }}
-{% if theme_extra_nav_links %}
-<hr />
-<ul>
-    {% for text, uri in theme_extra_nav_links.items() %}
-    <li class="toctree-l1"><a href="{{ uri }}">{{ text }}</a></li>
-    {% endfor %}
-</ul>
-{% endif %}
+</div>
+
+<div id="toc">
+
+    <h3>Useful Pages</h3>
+
+    {{ toctree(collapse=False, includehidden=theme_sidebar_includehidden) }}
+    {% if theme_extra_nav_links %}
+    <hr />
+    <ul>
+        {% for text, uri in theme_extra_nav_links.items() %}
+        <li class="toctree-l1"><a href="{{ uri }}">{{ text }}</a></li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+
+</div>
 
 <br>
 
