@@ -82,7 +82,7 @@ about:
     Unconference Room, across from the Main Ballroom
 
 cfp:
-  url: https://goo.gl/forms/M6YjhBgmCEwOwrzP2
+  url: https://goo.gl/forms/NdcXO3SGhUxlidht1
   ends: Thursday, May 31st
   notification: Friday, June 15th
 
@@ -90,7 +90,7 @@ job_fair:
   location: Unconference Room, across from the Main Ballroom
 
 flaghassponsors: True
-flagcfp: False
+flagcfp: True
 flagticketsonsale: False
 flagspeakersannounced: False
 flaghasschedule: False
@@ -100,4 +100,4 @@ flagvideos: false
 
 flaghashike: False
 flaghasboat: True
-flaglanding: True
+flaglanding: False
