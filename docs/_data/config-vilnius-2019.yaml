@@ -16,13 +16,13 @@ photos:
 
 tickets:
   community:
-    price: $750 # TODO
+    price: $150 # TODO
   corporate:
-    price: $450 # TODO
+    price: $70 # TODO
   independent:
-    price: $250 # TODO
+    price: $40 # TODO
   student:
-    price: $100 # TODO
+    price: $15 # TODO
 
 sponsorship:
   first_draft:
@@ -33,10 +33,10 @@ sponsorship:
     price: €1000
 
 date:
-  main: "**June 2-3, 2018, in Vilnius, Lithuania**"
+  main: "**June 2-3, 2019, in Vilnius, Lithuania**"
   month: June
-  short: June 2-3, 2018
-  tickets_live: "January 2018"
+  short: June 2-3, 2019
+  tickets_live: "March 2019"
 
   day_one:
     event: Writing Day
@@ -44,14 +44,14 @@ date:
     summary: Join us for the <a href="/conf/vilnius/2019/writing-day/">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
     icon: writing
 
-  day_three:
+  day_two:
     event: Main Conference
     date: June 3
     summary: The main day of the conference. We will be running our main track and an <a href="/conf/vilnius/2019/unconference/">Unconference</a>.
     icon: conference
 
 about:
-  attendees: 100
+  attendees: 50
   summary:
     "TBC"
   location:
