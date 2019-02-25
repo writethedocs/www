@@ -18,8 +18,8 @@ Sponsorship Prospectus
 Concept
 =======
 
-Write the Docs (http://www.writethedocs.org/) is a
-**three day conference** focusing on documentation systems, tech writing
+Write the Docs Vilnius (http://www.writethedocs.org/) is part of Write the Docs conference series.
+Write the docs is a **two day conference** focusing on documentation systems, tech writing
 theory, and information delivery.
 
 Writing and maintaining documentation involves a multidisciplinary
@@ -93,7 +93,6 @@ and open source organizations.
 - Small logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- **NOTE**: This sponsorship does not include a job fair table. You can purchase one for an additional $500 (50% off)
 
 The **First Draft** package costs {{ sponsorship.first_draft.price }}.
 You can buy it directly on our ticket website.
@@ -108,7 +107,6 @@ The **Second Draft** package is great for companies looking to hire or promote a
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 - One featured job posting in our Newsletter (2,500 subscribers)
-- **NOTE**: This sponsorship does not include a job fair table. You can purchase one for an additional $500 (50% off)
 
 The **Second Draft** package costs {{ sponsorship.second_draft.price }}.
 
