@@ -15,7 +15,7 @@ Read on to learn more about the goals of the conference and what we look for in 
 
 In the meantime, mark your calendars:
 
-**The deadline for submitting proposals is Midnight {{TZ}} on {{cfp.ends}}.**
+**The deadline for submitting proposals is Midnight {{tz}} on {{cfp.ends}}.**
 
 We'll let you know if your proposal has been accepted by the {{cfp.notification}}.
 
