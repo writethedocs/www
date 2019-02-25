@@ -16,21 +16,21 @@ photos:
 
 tickets:
   community:
-    price: $150 # TODO
+    price: 150 €
   corporate:
-    price: $70 # TODO
+    price: 70 €
   independent:
-    price: $40 # TODO
+    price: 40 €
   student:
-    price: $15 # TODO
+    price: 15 €
 
 sponsorship:
   first_draft:
-    price: €300
+    price: 300 €
   second_draft:
-    price: €600
+    price: 600 €
   publisher:
-    price: €1000
+    price: 1000 €
 
 date:
   main: "**June 2-3, 2019, in Vilnius, Lithuania**"
