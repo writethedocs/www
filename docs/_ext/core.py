@@ -44,7 +44,7 @@ def load_page_yaml_data(app, page):
         try:
             year = int(p.parts[2])
         except (ValueError, IndexError):
-            log.warning('Unable to process conference YAML data: %s', p.parts[2])
+            log.warning('Unable to process conference YAML data: %s', page)
             return data
         if year >= 2018:
             yaml_config = load_yaml('_data/config-' + p.parts[1] + '-' + p.parts[2] + '.yaml')
