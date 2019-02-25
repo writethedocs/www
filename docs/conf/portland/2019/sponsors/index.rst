@@ -6,7 +6,7 @@ Sponsors
 We are seeking corporate partners to help us create the best conference possible.
 You can find more information in our :doc:`prospectus`.
 
-{% if flaghasponsors %}
+{% if flaghassponsors %}
 
 Corporate sponsors
 ------------------

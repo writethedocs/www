@@ -70,18 +70,20 @@ about:
 
 cfp:
   url: https://docs.google.com/forms/d/e/1FAIpQLScCK5qIaRwmn2UouYvtxfrQk56r_X72aliVWLnoGKb69HZuug/viewform
-
   ends: "31 January, 2019"
   notification: "21 February, 2019"
 
-flaghashike: True
+# Things that change over time, listed in order of change
 flaglanding: False
-flagspeakersannounced: False
 flagcfp: False
-flaghasschedule: False
-flagticketsonsale: True
-flaghasboat: False
-flaghasshirts: False
 flaghassponsors: True
+flagticketsonsale: True
+flagspeakersannounced: False
+flaghasschedule: False
 flagvideos: False
 flaglivestreaming: False
+
+# Truthy things that don't change
+flaghashike: True
+flaghasshirts: False
+flaghasboat: False
