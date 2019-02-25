@@ -9,6 +9,10 @@ import re
 import yaml
 import glob
 import commonmark
+import logging
+
+log = logging.getLogger(__name__)
+
 
 try:
     from pathlib import PurePath
@@ -40,7 +44,7 @@ def load_page_yaml_data(app, page):
         try:
             year = int(p.parts[2])
         except (ValueError, IndexError):
-            app.warning('Unable to process conference YAML data')
+            log.warning('Unable to process conference YAML data: %s', p.parts[2])
             return data
         if year >= 2018:
             yaml_config = load_yaml('_data/config-' + p.parts[1] + '-' + p.parts[2] + '.yaml')
@@ -178,7 +182,6 @@ def load_conference_data():
         mo = sessions_file_pattern.match(base)
         if mo:
             continue
-        #print("%s doesn't follow the conference data file conventions" % (base,))
     return result
 
 
