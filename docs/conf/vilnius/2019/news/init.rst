@@ -1,3 +1,5 @@
+:template: {{year}}/generic.html
+
 .. post:: Sept 18, 2018
    :tags: {{ shortcode }}-{{ year }}
 
