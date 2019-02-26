@@ -473,7 +473,8 @@ body .uk-offcanvas-slide a.uk-button-ghost {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: 20px; }
+    padding-bottom: 20px;
+    margin: 15px; }
   .sponsors .gold-sponsors, .sponsors .silver-sponsors, .sponsors .bronze-sponsors, .sponsors .community-sponsors, .sponsors .sponsor {
     display: -webkit-box;
     display: -ms-flexbox;

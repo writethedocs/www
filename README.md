@@ -87,7 +87,11 @@ With that you will install all the requirements to minify your CSS;
 after that you only need to run:
 
 ```
+# Generate everything and serve site
 gulp
+
+# Only generate assets
+gulp styles
 ```
 
 This has to be used alongside the sphinx server and it will
