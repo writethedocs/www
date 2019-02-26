@@ -59,6 +59,8 @@ Writing Day
 * **When**: **9:00-17:00**
 * **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
+.. separator to fix list formatting
+
 {% if flaghasschedule %}
 
 .. datatemplate::
@@ -99,6 +101,8 @@ Conference Talks
 * **When**: **10:00-18:00**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
+.. separator to fix list formatting
+
 
 {% if flaghasschedule %}
 
@@ -128,9 +132,7 @@ The official Write the Docs social!
 This event is for **conference attendees only**. Please bring your badge to be let into the venue.
 There will be light snacks and drinks available on the conference while our tab lasts.
 
-* **Where**: `Hoffa Bar, Senovážné Náměstí 22, Prague 1 <https://goo.gl/maps/b1egvQhoDxt>`_
-* **When**: **20:00-23:00**
-* **Details**: Drinks and snacks are included while our tab lasts. If you want a sit-down dinner we recommend to grab it before, as we will only have light snacks and finger food at the event. The bar is located on the ground floor and is accessible to wheelchairs.
+Further details will be announced later.
 
 Tuesday, September 11
 ---------------------
@@ -149,6 +151,8 @@ Conference Talks
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **10:00-16:30**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
+
+.. separator to fix list formatting
 
 {% if flaghasschedule %}
 
