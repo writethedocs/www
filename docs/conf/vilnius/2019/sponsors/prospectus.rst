@@ -18,8 +18,13 @@ Sponsorship Prospectus
 Concept
 =======
 
+<<<<<<< HEAD
 Write the Docs Vilnius (http://www.writethedocs.org/) is a
 **two day conference** focusing on documentation systems, tech writing
+=======
+Write the Docs Vilnius (http://www.writethedocs.org/) is part of Write the Docs conference series.
+Write the docs is a **two day conference** focusing on documentation systems, tech writing
+>>>>>>> 28e6b1169f8f34a8f133561efa174ff60d933914
 theory, and information delivery.
 
 Writing and maintaining documentation involves a multidisciplinary
@@ -78,8 +83,13 @@ Sponsorship Packages
 The following options are suggested sponsorship levels. We are happy to discuss
 adjustments and custom packages.
 
+<<<<<<< HEAD
 These package prices apply to the Vilnius conference only. Look here for
 :doc:`prices </conf/vilnius/2019/sponsors/prospectus/>` for the European
+=======
+These package prices apply to the Portland conference only. Look here for
+:doc:`prices </conf/prague/2018/sponsors/prospectus/>` for the European
+>>>>>>> 28e6b1169f8f34a8f133561efa174ff60d933914
 conference. Ask us about discounted packages for sponsoring both conferences.
 
 First Draft
@@ -138,9 +148,16 @@ Job Fair
 --------
 
 Our job fair is a wonderful place to connect with the talented Write the Docs attendees.
+<<<<<<< HEAD
 We'll have over 50 people in attendance for our conference,
 and many of those people will come to our job fair to look for new roles and positions.
 
+=======
+We'll have over 400 people in attendance for our conference,
+and many of those people will come to our job fair to look for new roles and positions.
+
+**$1,000** (a la carte price, also included or discounted with other sponsorship packages)
+>>>>>>> 28e6b1169f8f34a8f133561efa174ff60d933914
 
 - **Logistics**: The Job Fair will be Tuesday morning in Lola's Room. It will run from 9:30am-11:30pm. You can set up from 8:30am.
 
