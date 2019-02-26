@@ -108,7 +108,7 @@
   - name: Matt Reiner
     slug: matt-reiner
     twitter: reinermatthew
-    website: reinermatthew
+    website: medium.com/@reinermatthew
   title: 'Show Me the Money: How to Get Your Docs the Love and Support They Deserve'
 - abstract: '<p>It can be subtle, like the gift icon in Slack that tells you there''s
     a new feature or the walkthrough Gmail tried to get you to do when they switched
@@ -183,7 +183,7 @@
   - name: Meghan Mahar
     slug: meghan-mahar
     twitter: ravenwritingllc
-    website: ravenwritingllc
+    website: www.ravenwriting.net
   title: Tutorials, Tooltips, and Popups…oh MY!  How to ease yourself and your users
     into in-app messaging.
 - abstract: '<p>SDK docs written by developers tend to be implementer oriented, not
@@ -272,7 +272,7 @@
   - name: Ingrid Towey
     slug: ingrid-towey
     twitter: IngridTowey (TheWriteUX)
-    website: IngridTowey (TheWriteUX)
+    website: https://www.linkedin.com/in/ingridtowey/
   title: How to edit other people’s content without pissing them off
 - abstract: '<p>In 2017, I opened up a project of mine—a JavaScript-based countdown
     clock to Halloween—to the open source community as part of Hacktoberfest. Within
@@ -312,7 +312,7 @@
   - name: Shannon Crabill
     slug: shannon-crabill
     twitter: shannon_crabill
-    website: shannon_crabill
+    website: http://shannoncrabill.com
   title: Documenting for Open Source
 - abstract: "<p>“When you’re on an airplane and your life depends on it, comics are\
     \ going to tell you how to open an emergency exit.”\n       -- Scott McCloud</p>\n\
@@ -331,11 +331,11 @@
   - name: 'Syne Mitchell '
     slug: syne-mitchell
     twitter: synemitchell
-    website: synemitchell
+    website: https://www.synemitchell.com/   http://www.linkedin.com/in/allen-tsai-ux-lead
   - name: ' Allen Tsai'
     slug: allen-tsai
     twitter: synemitchell
-    website: synemitchell
+    website: https://www.synemitchell.com/   http://www.linkedin.com/in/allen-tsai-ux-lead
   title: Bam! The Power of Comics to Explain Technology
 - abstract: '<p>The command line evokes fear from many. But the command line can be
     your friend. Command line mastery can create a sense of authority with software
@@ -372,7 +372,7 @@
   - name: Mike Jang
     slug: mike-jang
     twitter: theMikeJang
-    website: theMikeJang
+    website: ''
   title: How I Learned to Stop Worrying and Love the Command Line
 - abstract: '<p>Drawings and diagrams are so useful to include in the docs, but they’re
     often time-consuming to create, difficult to update, and incompatible with standard
@@ -394,11 +394,11 @@
   - name: 'Alicia Woodside '
     slug: alicia-woodside
     twitter: 'Alicia (instagram): funtimes.woodside; Alicja: mamrotynka'
-    website: 'Alicia (instagram): funtimes.woodside; Alicja: mamrotynka'
+    website: 'Alicia: https://notrunningforgold.com/;  Alicja: https://trueskawka.github.io/blog/ '
   - name: ' Alicja Raszkowska'
     slug: alicja-raszkowska
     twitter: 'Alicia (instagram): funtimes.woodside; Alicja: mamrotynka'
-    website: 'Alicia (instagram): funtimes.woodside; Alicja: mamrotynka'
+    website: 'Alicia: https://notrunningforgold.com/;  Alicja: https://trueskawka.github.io/blog/ '
   title: Draw the Docs
 - abstract: '<p>Though the concept of docs-driven development has been around for
     more than ten years (and was even featured in a WTD newsletter back in August
@@ -436,7 +436,7 @@
   - name: Jessica Parsons
     slug: jessica-parsons
     twitter: verythorough
-    website: verythorough
+    website: ''
   title: Lessons Learned in a Year of Docs-Driven Development
 - abstract: '<p>Perhaps you''re interested in learning what it would take to deploy
     your product in foreign markets. Or maybe your team has been voluntold to lead
@@ -458,7 +458,7 @@
   - name: Paul Wallace
     slug: paul-wallace
     twitter: ''
-    website: ''
+    website: https://www.linkedin.com/in/paul-wallace-a1041531
   title: Localize the Docs!
 - abstract: '<p>Chances are that if you work on documentation, you consider yourself
     all three of these. But how often do you think about these roles in isolation?
@@ -494,7 +494,7 @@
   - name: Kathleen Juell
     slug: kathleen-juell
     twitter: katjuell
-    website: katjuell
+    website: https://katjuell.site/
   title: Writer? Editor? Teacher?
 - abstract: '<p>There are always more docs to write than there are people to write
     them, no matter the size of your documentation team. To get everything done, you
@@ -532,7 +532,7 @@
   - name: Heather Stenson
     slug: heather-stenson
     twitter: HeyStenson
-    website: HeyStenson
+    website: ''
   title: 'Any friend of the docs is a friend of mine: Cultivating a community of documentation
     advocates'
 - abstract: '<p>Brief synopsis: Anyone either considering, or already in, a technical
@@ -625,7 +625,7 @@
   - name: Mark F Iverson
     slug: mark-f-iverson
     twitter: iversonic
-    website: iversonic
+    website: http://eyeversonic.com/
   title: Harvest Past Experience to be a Great Tech Writer
 - abstract: '<p>Analyzing documentation metrics is a great way to prioritize documentation
     work and resources. For example, identifying well-read or under-viewed documentation
@@ -659,7 +659,7 @@
   - name: Sarah Moir
     slug: sarah-moir
     twitter: smorewithface
-    website: smorewithface
+    website: https://thisisimportant.net/
   title: 'Just Add Data: Make it easier to prioritize your documentation '
 - abstract: '<p>When I presented at WTD NA in 2017 (Treating Documentation Like Code:
     A Practical Account), an audience member asked me afterwards what organizational
@@ -697,7 +697,7 @@
   - name: Jodie Putrino
     slug: jodie-putrino
     twitter: j_putrino
-    website: j_putrino
+    website: ''
   title: 'Defying the Status Quo: How a grassroots effort can transform an organization'
 - abstract: '<p>As a technical writer, I am focused on one major goal: my users’ success.
     I create clear reference topics, intuitive tasks, and delightful concepts. But
