@@ -59,6 +59,8 @@ Writing Day
 * **When**: **9:00-17:00**
 * **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
+.. separator to fix list formatting
+
 {% if flaghasschedule %}
 
 .. datatemplate::
@@ -98,6 +100,8 @@ Conference Talks
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **10:00-18:00**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
+
+.. separator to fix list formatting
 
 
 {% if flaghasschedule %}
@@ -147,6 +151,8 @@ Conference Talks
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **10:00-16:30**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
+
+.. separator to fix list formatting
 
 {% if flaghasschedule %}
 
