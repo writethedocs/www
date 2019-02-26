@@ -1,12 +1,27 @@
 :template: {{year}}/generic.html
 
+{%- macro sponsors() -%}
+{%- include "include/" + year|string + "/" + shortcode + "-sponsors.html" ignore missing -%}
+{%- endmacro -%}
+{% set sponsors = sponsors() %}
+
+{%- macro sponsors_in_kind() -%}
+{%- include "include/" + year|string + "/" + shortcode + "-sponsors-in-kind.html" ignore missing -%}
+{%- endmacro -%}
+{% set sponsors_in_kind = sponsors_in_kind() %}
+
+{%- macro media_sponsors() -%}
+{%- include "include/" + year|string + "/" + shortcode + "-sponsors-media.html" ignore missing -%}
+{%- endmacro -%}
+{% set media_sponsors = media_sponsors() %}
+
 Sponsors
 ========
 
 We are seeking corporate partners to help us create the best conference possible.
 You can find more information in our :doc:`prospectus`.
 
-{% if flaghassponsors %}
+{% if sponsors %}
 
 Corporate sponsors
 ------------------
@@ -16,12 +31,11 @@ Thanks to these folks for supporting the community.
 
 .. raw:: html
 
-    {% macro sponsors() %}
-    {% include "include/2019/portland-sponsors.html" %}
-    {% endmacro %}
-    {{ sponsors()|indent(4) }}
+    {{ sponsors|indent(4) }}
 
 {% endif %}
+
+{% if sponsors_in_kind %}
 
 In Kind Sponsors
 ----------------
@@ -30,7 +44,19 @@ Write the Docs is also helped out by companies that give their employees time to
 
 .. raw:: html
 
-    {% macro inkindsponsors() %}
-    {% include "include/2019/portland-sponsors-in-kind.html" %}
-    {% endmacro %}
-    {{ inkindsponsors()|indent(4) }}
+    {{ sponsors_in_kind|indent(4) }}
+
+{% endif %}
+
+{% if media_sponsors %}
+
+Media Sponsors
+--------------
+
+These amazing media professionals have teamed up with us to capture the Write the Docs experience.
+
+.. raw:: html
+
+    {{ media_sponsors|indent(4) }}
+
+{% endif %}
