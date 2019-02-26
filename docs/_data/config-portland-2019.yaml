@@ -75,10 +75,10 @@ cfp:
 
 # Things that change over time, listed in order of change
 flaglanding: False
-flagcfp: False
 flaghassponsors: True
+flagcfp: False
 flagticketsonsale: True
-flagspeakersannounced: False
+flagspeakersannounced: True
 flaghasschedule: False
 flagvideos: False
 flaglivestreaming: False
