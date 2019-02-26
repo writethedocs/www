@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Feb 27, 2019
+.. post:: Feb 26, 2019
    :tags: prague-2019, website, cfp, tickets
 
 Announcing Write the Docs Prague 2019 CFP
