@@ -271,7 +271,7 @@ You can post your jobs to our `job board <https://jobs.writethedocs.org/>`_.
 You will be given a discount code that will let you post them for free,
 please ask us for this if you don't have it! 
 They will be published in our :doc:`Newsletter </newsletter>` every month,
-along with listing on our website in the sidebar.
+and displayed on our website as well.
 
 What do I need for the job fair?
 --------------------------------
