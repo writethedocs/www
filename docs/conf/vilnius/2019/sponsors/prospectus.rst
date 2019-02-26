@@ -126,51 +126,6 @@ The **Publisher** package costs {{ sponsorship.publisher.price }}.
 
 .. raw:: pdf
 
-   PageBreak
-
-Other Sponsorship Opportunities
-===============================
-
-The following a la carte offerings are available either independently or
-combined with one of the previous packages to increase visibility at the event.
-
-Job Fair
---------
-
-Our job fair is a wonderful place to connect with the talented Write the Docs attendees.
-We'll have over 400 people in attendance for our conference,
-and many of those people will come to our job fair to look for new roles and positions.
-
-**$1,000** (a la carte price, also included or discounted with other sponsorship packages)
-
-- **Logistics**: The Job Fair will be Tuesday morning in Lola's Room. It will run from 9:30am-11:30pm. You can set up from 8:30am.
-
-- **Layout**: Every company participating in the Job Fair will have a six-foot table and two chairs reserved for them. We do not use booths during the Job Fair. Giveaways/flyers are welcome, but please make sure everthing fits on your alloted table.
-
-Note that the `Code of Conduct </code-of-conduct/>`_ and :ref:`coc-sponsors` apply to the Job Fair as well as to the rest of the conference.
-
-Lanyard
--------
-
-Provide your branded lanyards for our badges. This makes your company name visible to each and every attendee at the conference!
-
-**$2,000**
-
-- **Logistics**: Sponsor is responsible for shipping lanyards to organizers at least two weeks before the event starts.
-
-Writing Day
------------
-
-Sponsor the Writing Day on Sunday, where we get together to help improve the documentation of many projects.
-This is great for any company that is looking for contributors to their open source projects.
-
-**$2,000**
-
-- **Logistics**: The Writing Day runs 9-5 on Sunday.
-
-
-.. raw:: pdf
-
   PageBreak
 
 Inquiries
@@ -185,11 +140,6 @@ Please direct all inquiries to our sponsorship team at:
 
 Run of Show
 ===========
-
-A quick overview of the spaces:
-
-* The *main ballroom* is where talks and most sponsorship activity happens. We will have booths & swag tables set up at the back of the main ballroom. Here is a `picture from last year <https://www.flickr.com/photos/writethedocs/34495135662>`_ before the attendees showed up.
-* *Lola's Room* is downstairs from the main ballroom. This is where the Unconference & Job Fair will happen. Another `picture <https://www.flickr.com/photos/writethedocs/34536045142/in/album-72157683817839465/>`_ shows the idea.
 
 An overview of the conference schedule:
 
@@ -213,8 +163,6 @@ What are the dates that sponsors need to know about in advance?
 * **SUNDAY**: The swag tables are available during the Writing Day, if you want to put out swag items early. Sponsor booths are available for setup on Sunday from 10am-4pm, but don't need people in them yet.
 
 * **MONDAY**: Doors open at 8am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the conference, when sponsors tables will need to be staffed. The conference will run until around 5pm.
-
-* **TUESDAY**: The Job Fair will be from 9:30-11:30am, set up will be at 8:30am. Sponsor tear down in the main hall will be 4pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening.
 
 How do I use get my free tickets?
 ---------------------------------
