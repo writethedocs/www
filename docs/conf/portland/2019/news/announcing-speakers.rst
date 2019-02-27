@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Feb 27, 2019
+.. post:: Mar 4, 2019
    :tags: portland-2019, cfp, talks
 
 Speaker Announcement
