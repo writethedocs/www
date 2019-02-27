@@ -44,9 +44,8 @@ Full speaker line-up
 Every year, we look to bring a diversity of voices to the Write the Docs
 main stage. Because the role of "documentarian" is different for each of
 us, we strive to craft a lineup that spans a good mix of practical,
-philosophical, and technical topics – with a possibility of delightful,
-unexpected surprise. We're really excited about the presentations we're
-going hear this year – we hope you are too!
+philosophical, and technical topics.
+We're really excited about the presentations this year – we hope you are too!
 
 
 * Matt Reiner - `Show Me the Money: How to Get Your Docs the Love and Support They Deserve <https://www.writethedocs.org/conf/portland/2019/speakers/#speaker-portland-2019-matt-reiner>`_
