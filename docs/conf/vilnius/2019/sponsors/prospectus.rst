@@ -13,8 +13,6 @@ Sponsorship Prospectus
    :depth: 1
    :backlinks: none
 
-**New this year**: our `Job Fair`_.
-
 Concept
 =======
 
@@ -120,7 +118,6 @@ The **Publisher** package is great for sending a team and getting to know the co
 - Name included in welcome announcement in email newsletters and social media
 - Display 2 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 - Two featured job postings in our Newsletter (2,500 subscribers)
-- A table at the job fair
 
 The **Publisher** package costs {{ sponsorship.publisher.price }}.
 
@@ -135,17 +132,16 @@ Please direct all inquiries to our sponsorship team at:
 
 - sponsorship@writethedocs.org
 
-.. _ticket: https://ti.to/writethedocs/write-the-docs-portland-2018/
-.. _tickets: https://ti.to/writethedocs/write-the-docs-portland-2018/
+.. _ticket: https://ti.to/writethedocs/write-the-docs-vilnius-2019/
+.. _tickets: https://ti.to/writethedocs/write-the-docs-vilnius-2019/
 
 Run of Show
 ===========
 
 An overview of the conference schedule:
 
-* The Writing Day is on Sunday, in the main ballroom. You are welcome to run a documentation sprint here if your documentation is open source.
-* The main conference & sponsorship days are on Monday & Tuesday in the main ballroom.
-* The Job Fair happens Tuesday morning, in Lola's Room.
+* The Writing Day is on Sunday, in the main room. You are welcome to run a documentation sprint here if your documentation is open source.
+* The main conference & sponsorship day in on Monday.
 
 How do I get the most out of my sponsorship?
 --------------------------------------------
@@ -168,11 +164,6 @@ How do I use get my free tickets?
 ---------------------------------
 
 You should have recieved a unique URL with a discount code for your free sponsorship tickets. We are happy to send it over again, just ask!
-
-What do I need for the job fair?
---------------------------------
-
-The job fair will be a low key event. Every participant will have a six-foot table and two chairs, in a seperate room from the primary conference. Giveaways/flyers are welcome, but please keep your setup requirements simple.
 
 What happens with my swag items?
 --------------------------------
