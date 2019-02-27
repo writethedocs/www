@@ -519,22 +519,18 @@
     website: ''
   title: 'Any friend of the docs is a friend of mine: Cultivating a community of documentation
     advocates'
-- abstract: '<p>Brief synopsis: Anyone either considering, or already in, a technical
-    writing role, can use past tech experience to either help them enter or enhance
-    their writing career.</p>
+- abstract: '<p>Anyone either considering, or already in, a technical writing role,
+    can use past tech experience to either help them enter or enhance their writing
+    career.</p>
 
-    <ul>
-
-    <li>The goal of the talk is to demonstrate how experience in non-tech writing
-    roles can help you become, or improve your career as, a tech writer. Be clear
-    that most any role includes some writing, and thinking back to your strengths
-    as a writer in past roles can help you. I will discuss my past roles in tech support,
-    QA, engineering, and as a project manager to help illustrate this. The hope is
-    that this can help attendees who are considering a tech support role, writers
-    who may not have considered how past experience can help them, and attendees who
-    don''t want to make a living as a writer but must write a lot in their role. </li>
-
-    </ul>
+    <p>The goal of the talk is to demonstrate how experience in non-tech writing roles
+    can help you become, or improve your career as, a tech writer. Be clear that most
+    any role includes some writing, and thinking back to your strengths as a writer
+    in past roles can help you. I will discuss my past roles in tech support, QA,
+    engineering, and as a project manager to help illustrate this. The hope is that
+    this can help attendees who are considering a tech support role, writers who may
+    not have considered how past experience can help them, and attendees who don''t
+    want to make a living as a writer but must write a lot in their role. </p>
 
     <p>The talk would be broken down into the sections below. All of this is culled
     from my background. I would make a concerted effort to ensure this is not an attempt
@@ -546,64 +542,70 @@
     It can also show that if you already are a writer, you can finesse your writing
     using what you learned in past roles.</p>
 
-    <p>o   Tech support:
-
-    -   Use your skill at helping frustrated customers to write to your audience.
-    Picture your audience and make it a goal to reduce tech support calls.
-
-    -   Remember how you empathized with frustrated customers and incorporate that
-    into your writing.
-
-    -   Remember how you corresponded with customers via writing and strive for the
-    same attempt to solve and please customers.</p>
-
-    <p>o   QA:
-
-    -   Use your skills at writing crisp, clear bug repro steps when writing procedures.
-
-    -   Use your skills at writing unambiguous issues, which are required to ensure
-    your engineers understand what you’re trying to convey, when tech writing.</p>
-
-    <p>o   Software Engineer
-
-    -   Focus on languages you know (C++, Java, etc.) and become an expert.
-
-    -   Remember how you commented code and what good and bad comments are like. When
-    documenting APIs, write what you’d want if you had to code with your API.</p>
-
-    <p>o   PM
-
-    -   If you wrote Statements of Work, remember the legal gotchas and keep those
-    in the back of your mind when writing about potential future release and committing
-    to promises. Consider the expectations you set in your writing the way you set
-    expectations for a customer.
-
-    -   If you wrote specs or helped with marketing, you have a head start with learning
-    how to not just document a product, but also convey its strengths without sounding
-    too “marketing-like”
-
-    -   Manage your writing tasks like projects to help you stay on course, keep your
-    commitments, and prioritize writing.</p>
-
     <ul>
 
-    <li>Conclusion - Wrap up by reminding the audience that writing is an essential
-    skill to be successful in software. If you’re here, then we know you are either
-    already writing or want to write. Don’t discount past experience. Use it to help
-    put the right words into your writing assignments with the goal of ensuring you’re
-    helping your reader the very best you can.</li>
+    <li>Tech support:<ul>
+
+    <li>Use your skill at helping frustrated customers to write to your audience.
+    Picture your audience and make it a goal to reduce tech support calls.</li>
+
+    <li>Remember how you empathized with frustrated customers and incorporate that
+    into your writing.</li>
+
+    <li>Remember how you corresponded with customers via writing and strive for the
+    same attempt to solve and please customers.</li>
 
     </ul>
 
-    <p>Talk timing (assuming a 30 min talk)
+    </li>
 
-    -   Intro 3-5 min
+    <li>QA:<ul>
 
-    -   Each role above (tech support, QA, developer, PM) 5 - 7 min
+    <li>Use your skills at writing crisp, clear bug repro steps when writing procedures.</li>
 
-    -   Conclusion 3-5 min
+    <li>Use your skills at writing unambiguous issues, which are required to ensure
+    your engineers understand what you’re trying to convey, when tech writing.</li>
 
-    -   Q&amp;A - 3 - 5 min</p>'
+    </ul>
+
+    </li>
+
+    <li>Software Engineer:<ul>
+
+    <li>Focus on languages you know (C++, Java, etc.) and become an expert.</li>
+
+    <li>Remember how you commented code and what good and bad comments are like. When
+    documenting APIs, write what you’d want if you had to code with your API.</li>
+
+    </ul>
+
+    </li>
+
+    <li>PM:<ul>
+
+    <li>If you wrote Statements of Work, remember the legal gotchas and keep those
+    in the back of your mind when writing about potential future release and committing
+    to promises. Consider the expectations you set in your writing the way you set
+    expectations for a customer.</li>
+
+    <li>If you wrote specs or helped with marketing, you have a head start with learning
+    how to not just document a product, but also convey its strengths without sounding
+    too “marketing-like”</li>
+
+    <li>Manage your writing tasks like projects to help you stay on course, keep your
+    commitments, and prioritize writing.</li>
+
+    </ul>
+
+    </li>
+
+    </ul>
+
+    <p>Conclusion - Wrap up by reminding the audience that writing is an essential
+    skill to be successful in software. If you’re here, then we know you are either
+    already writing or want to write. Don’t discount past experience. Use it to help
+    put the right words into your writing assignments with the goal of ensuring you’re
+    helping your reader the very best you can.</p>'
   slug: harvest-past-experience-to-be-a-great-tech-writer-mark-f-iverson
   speakers:
   - name: Mark F Iverson
