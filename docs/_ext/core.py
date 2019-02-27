@@ -111,19 +111,29 @@ def add_jinja_filters(app):
         h = HTMLParser()
         return h.unescape(str)
 
-    def speaker_photo(speaker):
-        if os.path.exists('_static/img/speakers/%s.jpg' % speaker):
-            return '/_static/img/speakers/%s.jpg' % speaker
-        elif os.path.exists('_static/img/speakers/%s.png' % speaker):
-            return '/_static/img/speakers/%s.png' % speaker
-        else:
-            return '/_static/img/speakers/missing.jpg'
+    def media_photo(_file, _type):
+        for ext in ['jpg', 'png', 'svg']:
+            file_name = '_static/img/{type}/{file}.{ext}'.format(
+                type=_type,
+                file=_file,
+                ext=ext,
+            )
+            if os.path.exists(file_name):
+                return '/' + file_name
+        return '/_static/img/speakers/missing.jpg'
+
+    def speaker_photo(file):
+        return media_photo(file, 'speaker')
+
+    def sponsor_photo(file):
+        return media_photo(file, 'sponsors')
 
     app.builder.templates.environment.filters['markdown'] = markdown_filter
     app.builder.templates.environment.filters['html_unescape'] = html_unescape
     app.builder.templates.environment.filters['state_abbr'] = state_abbr
     app.builder.templates.environment.filters['slugify'] = slugify
     app.builder.templates.environment.filters['speaker_photo'] = speaker_photo
+    app.builder.templates.environment.filters['sponsor_photo'] = sponsor_photo
 
 
 def override_page_template(app, pagename, templatename, context, doctree):
