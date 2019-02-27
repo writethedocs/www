@@ -1,0 +1,76 @@
+name: Vilnius
+
+shortcode: vilnius # prague australia?
+templatecode: lt # HACK
+year: 2019
+city: Vilnius
+local_area: Lithuania
+area: Europe # Europea Australia
+area_adj: European
+tz: EEST
+email: vilnius@writethedocs.org
+color: coral
+
+photos:
+  default: _static/2019/assets/headers/group.png
+
+tickets:
+  community:
+    price: 150 €
+  corporate:
+    price: 70 €
+  independent:
+    price: 40 €
+  student:
+    price: 15 €
+
+sponsorship:
+  first_draft:
+    price: 300 €
+  second_draft:
+    price: 600 €
+  publisher:
+    price: 1000 €
+
+date:
+  main: "**June 2-3, 2019, in Vilnius, Lithuania**"
+  month: June
+  short: June 2-3, 2019
+  tickets_live: "March 2019"
+
+  day_one:
+    event: Writing Day
+    date: June 2
+    summary: Join us for the <a href="/conf/vilnius/2019/writing-day/">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    icon: writing
+
+  day_two:
+    event: Main Conference
+    date: June 3
+    summary: The main day of the conference. We will be running our main track with multiple presentations.
+    icon: conference
+
+about:
+  attendees: 50
+  summary:
+    "TBC"
+  location:
+    "TBC"
+
+cfp:
+  url: TBC
+  ends: TBC
+  notification: TBC
+
+
+flagspeakersannounced: False
+flagcfp: False
+flaghasschedule: False
+flagticketsonsale: False
+flaghashike: False
+flaghasboat: False
+flaghasshirts: False
+flaglanding: True
+flaghassponsors: False
+flagvideos: False
+flaglivestreaming: False
