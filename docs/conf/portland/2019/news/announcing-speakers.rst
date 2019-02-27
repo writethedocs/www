@@ -9,34 +9,10 @@ Speaker Announcement
 Happy Wednesday everybody!
 
 We’re less than three months away from Write the Docs Portland 2019
-conference! We have so much news to share, so without further adieu,
-here we go!
+conference! 
 
-First and foremost, **we’re very excited to announce our finalized speaker
-list for the conference!** Our speaker lineup this year is packed with a
-diverse and compelling melange of documentarians who have amazing
-stories to share with conference attendees. We feel that with our
-speakers – whose expertise spans across many fields and industries –
-will share interesting and actionable takeaways for attendees.
-
-We want to thank everyone who took time to send us proposals. Each year,
-talk selection gets increasingly difficult as we receive a larger,
-strong batch of submissions. We had many spirited discussions over weeks
-about the speaker lineup, and it is never easy to decide on final list
-of speakers. Remember that Write the Docs Portland would not be possible
-without your support and proposals. Please consider submitting your
-talks to Write the Docs meetup near you, as they are always looking for
-more speakers!
-
-With a great speaker lineup just released, now is the time to purchase
-your Write the Docs Portland 2019 conference ticket. Act soon, as
-tickets tend to sell out weeks before the conference! And while you’re
-at the conference, be sure to spend some time exploring the magical city
-of Portland.
-
-Finally, our generous sponsors make Write the Docs Portland 2019
-conference possible. Interested in having your company as a conference
-sponsor? Read on!
+We’re very excited to announce our finalized speaker
+list for the conference! 
 
 Full speaker line-up
 --------------------
@@ -46,7 +22,6 @@ main stage. Because the role of "documentarian" is different for each of
 us, we strive to craft a lineup that spans a good mix of practical,
 philosophical, and technical topics.
 We're really excited about the presentations this year – we hope you are too!
-
 
 * Matt Reiner - `Show Me the Money: How to Get Your Docs the Love and Support They Deserve <https://www.writethedocs.org/conf/portland/2019/speakers/#speaker-portland-2019-matt-reiner>`_
 * Meghan Mahar - `Tutorials, Tooltips, and Popups…oh MY!  How to ease yourself and your users into in-app messaging. <https://www.writethedocs.org/conf/portland/2019/speakers/#speaker-portland-2019-meghan-mahar>`_
@@ -69,8 +44,23 @@ Head over to the `Speakers page <http://www.writethedocs.org/conf/portland/2019/
 see the speakers’ full abstracts. We hope there’s something there for
 everyone to enjoy, and also something that will leave you curious.
 
+We want to thank everyone who took time to send us proposals. Each year,
+talk selection gets increasingly difficult as we receive a larger,
+strong batch of submissions. We had many spirited discussions over weeks
+about the speaker lineup, and it is never easy to decide on final list
+of speakers. Remember that Write the Docs Portland would not be possible
+without your support and proposals. **Please consider submitting your
+talks to Write the Docs meetup near you, as they are always looking for
+more speakers!**
+
 Tickets are going fast!
 -----------------------
+
+With a great speaker lineup just released, now is the time to purchase
+your Write the Docs Portland 2019 conference ticket. Act soon, as
+tickets tend to sell out weeks before the conference! And while you’re
+at the conference, be sure to spend some time exploring the magical city
+of Portland.
 
 Conference tickets have sold out for the last several years. Now is a
 great time to purchase your ticket if you haven’t already done so. If
