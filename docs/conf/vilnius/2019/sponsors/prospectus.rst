@@ -17,7 +17,7 @@ Concept
 =======
 
 Write the Docs Vilnius (http://www.writethedocs.org/) is part of Write the Docs conference series.
-Write the docs is a **two day conference** focusing on documentation systems, tech writing
+Write the Docs Vilnius is a **two day conference** focusing on documentation systems, tech writing
 theory, and information delivery.
 
 Writing and maintaining documentation involves a multidisciplinary
@@ -41,7 +41,7 @@ Demographics
 
 We hold two conferences yearly, one in Portland, USA in May, and one in
 Prague, Europe in September. Attendence is approximately 400 in the
-USA and 250 in Europe, and we expect both conferences to sell out.
+USA and 250 in Europe, and we expect both conferences to sell out.  This year we are happy to launch a brand new event in Vilnius, Lithuania, in June, with an estimated capacity of 50 attendees.
 
 Our audience is made up of:
 
@@ -76,9 +76,9 @@ Sponsorship Packages
 The following options are suggested sponsorship levels. We are happy to discuss
 adjustments and custom packages.
 
-These package prices apply to the Portland conference only. Look here for
-:doc:`prices </conf/prague/2018/sponsors/prospectus/>` for the European
-conference. Ask us about discounted packages for sponsoring both conferences.
+These package prices apply to the Vilnius conference only. Look here for
+:doc:`prices </conf/prague/2019/sponsors/prospectus/>` for the Prague
+conference.
 
 First Draft
 -----------
@@ -140,7 +140,7 @@ Run of Show
 
 An overview of the conference schedule:
 
-* The Writing Day is on Sunday, in the main room. You are welcome to run a documentation sprint here if your documentation is open source.
+* The Writing Day is on Sunday. You are welcome to run a documentation sprint here if your documentation is open source.
 * The main conference & sponsorship day in on Monday.
 
 How do I get the most out of my sponsorship?
@@ -160,10 +160,10 @@ What are the dates that sponsors need to know about in advance?
 
 * **MONDAY**: Doors open at 8am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the conference, when sponsors tables will need to be staffed. The conference will run until around 5pm.
 
-How do I use get my free tickets?
+How do I get my free tickets?
 ---------------------------------
 
-You should have recieved a unique URL with a discount code for your free sponsorship tickets. We are happy to send it over again, just ask!
+You should have received a unique URL with a discount code for your free sponsorship tickets. We are happy to send it over again, just ask!
 
 What happens with my swag items?
 --------------------------------

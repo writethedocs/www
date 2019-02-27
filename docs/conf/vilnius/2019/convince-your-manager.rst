@@ -51,7 +51,7 @@ Resources
 When discussing how to pitch the conference, a few generally helpful tips emerged:
 
 * Highlight a few specific talks that relate to ongoing projects at work. (This one's dependent on pitching after the talk line up has been announced).
-* If your company is looking to hire another documentarian, the job fair and networking at the event are an excellent resource.
+* If your company is looking to hire another documentarian, networking at the event is an excellent resource.
 * Don't forget that one of the benefits to your attendance is that it raises the visibility of your company in the community. If your team wants a reputation for caring about their docs, having people at Write the Docs is a great way to do that.
 
 In addition, it can be useful to share some info about previous conferences. You can find the websites for previous events on :doc:`/conf/index/`, and a quick list of last year's talks down below.

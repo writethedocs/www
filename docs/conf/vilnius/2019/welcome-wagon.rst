@@ -7,7 +7,7 @@ Welcome Wagon
 Hello!
 
 We're your Welcome Wagon, and we're glad you're coming to Write the Docs!
-Feel free to `tweet <https://twitter.com/canncrochet>`_ or `email <mailto:canncrochet@gmail.com>`_ us if we can help make your first time at the conference easier. 
+Feel free to `tweet <https://twitter.com/canncrochet>`_ or `email <mailto:canncrochet@gmail.com>`_ us if we can help make your first time at the conference easier.
 When you get to the conference, come :ref:`say hello <say-hello>`.
 
 We've gathered important stuff here that will help you navigate the conference like a pro, make you feel more at home, and help you to manage the constant flow of information.
@@ -46,7 +46,7 @@ Pro Tips
 
 -  Eat! You can use the energy.
 
--  Are you looking for a job or is there an opening at your company? Check out the job board and the job fair in Lola's Room.
+-  Are you looking for a job or is there an opening at your company? Check out the job board.
 
 FAQs
 ----

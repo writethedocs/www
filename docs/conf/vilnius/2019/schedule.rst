@@ -14,7 +14,7 @@ All conference events (except the hike & social event) will be held at **Crystal
     :depth: 1
     :backlinks: none
 
-New in 2018! We're `live streaming </conf/portland/2018/livestream>`_ the talks! 
+New in 2018! We're `live streaming </conf/portland/2018/livestream>`_ the talks!
 
 Saturday, May 5
 ---------------
@@ -98,15 +98,6 @@ There will be light snacks and drinks available on the conference while our tab 
 
 Tuesday, May 8
 --------------
-
-Job Fair
-~~~~~~~~
-
-New in 2018! We'll be holding a job fair on Tuesday morning!
-
-* **Where**: Lola's room (downstairs at the Crystal Ballroom)
-* **When**: **9:30am-11:40am**
-* **Details**: :doc:`/conf/portland/2018/job-fair`
 
 Unconference
 ~~~~~~~~~~~~
