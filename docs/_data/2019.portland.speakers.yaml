@@ -273,16 +273,19 @@
     documentation. This was huge! Knowing this, I could use documentation as a way
     to:</p>
 
-    <p>·      Be upfront about Code of Conduct expectations, licensing, goals, etc
+    <ul>
 
-    ·      Provide an overview of the project, including technologies used, how to
-    contribute and frequently asked questions
+    <li>Be upfront about Code of Conduct expectations, licensing, goals, etc</li>
 
-    ·      Create fill-in-the-blank templates for common for pull request &amp; issues
-    to ensure all necessary information is provided upfront
+    <li>Provide an overview of the project, including technologies used, how to contribute
+    and frequently asked questions</li>
 
-    ·      Provide a log of changes made, bugs features added over the life of the
-    project</p>
+    <li>Create fill-in-the-blank templates for common for pull request &amp; issues
+    to ensure all necessary information is provided upfront</li>
+
+    <li>Provide a log of changes made, bugs features added over the life of the project</li>
+
+    </ul>
 
     <p>While I am far from a documentation expert I believe that open source projects—and
     their supporting documentation—can and should be inviting to people of all skill
