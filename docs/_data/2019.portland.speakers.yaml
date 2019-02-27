@@ -249,8 +249,9 @@
     \ This talk includes tips for leading an effective group peer review. If there\
     \ are multiple possibilities for improving a piece of content, several people\
     \ working together can sort out the optimal approach. </p>\n<p>Being a good editor\
-    \ is a lot like being a good leader:\n- You need to edit people’s content so that\
-    \ they WANT to make the changes that you want them to make. </p>"
+    \ is a lot like being a good leader:</p>\n<ul>\n<li>You need to edit people’s\
+    \ content so that they WANT to make the changes that you want them to make. </li>\n\
+    </ul>"
   slug: how-to-edit-other-peoples-content-without-pissing-them-off-ingrid-towey
   speakers:
   - name: Ingrid Towey
@@ -331,35 +332,43 @@
 
     <p>In this talk, I''ll provide a live demonstration of how you can:</p>
 
-    <p>1) Navigate through directories, find files, and isolate code excerpts
+    <ol>
 
-    2) Connect securely to remote systems (ssh)
+    <li>Navigate through directories, find files, and isolate code excerpts</li>
 
-    3) Open files in a text editor
+    <li>Connect securely to remote systems (ssh)</li>
 
-    4) Manage packages from binaries to installation
+    <li>Open files in a text editor</li>
 
-    5) Create and manage a git branch
+    <li>Manage packages from binaries to installation</li>
 
-    6) Combine commands in a script</p>
+    <li>Create and manage a git branch</li>
+
+    <li>Combine commands in a script</li>
+
+    </ol>
 
     <p>At the end of this talk, you''ll have a list of "essential" command line skills.
     You''ll also know why these skills are important. With these skills, as software
     documentarians you''ll be able to:</p>
 
-    <p>1) Set up software that’s currently in development
+    <ol>
 
-    2) Contribute to most software repositories
+    <li>Set up software that’s currently in development</li>
 
-    3) Learn how to configure software, from a deployer point of view
+    <li>Contribute to most software repositories</li>
 
-    4) Provide a checklist for newer documentarians (and the people who train them)</p>'
+    <li>Learn how to configure software, from a deployer point of view</li>
+
+    <li>Provide a checklist for newer documentarians (and the people who train them)</li>
+
+    </ol>'
   slug: how-i-learned-to-stop-worrying-and-love-the-command-line-mike-jang
   speakers:
   - name: Mike Jang
     slug: mike-jang
     twitter: theMikeJang
-    website: ''
+    website: None
   title: How I Learned to Stop Worrying and Love the Command Line
 - abstract: '<p>Drawings and diagrams are so useful to include in the docs, but they’re
     often time-consuming to create, difficult to update, and incompatible with standard
@@ -456,21 +465,25 @@
     It will draw on my past experiences as an academic researcher and teacher, as
     well as my current work as a technical writer and editor. </p>
 
-    <p>Topics we''ll cover:
+    <p>Topics we''ll cover:</p>
 
-    - Teaching philosophy: Do you have one? Is it visible to your readers? How does
-    it motivate your writing?
+    <ul>
 
-    - Formative/summative exercises, learning from design, and other helpful terms
+    <li>Teaching philosophy: Do you have one? Is it visible to your readers? How does
+    it motivate your writing?</li>
+
+    <li>Formative/summative exercises, learning from design, and other helpful terms
     from the teaching profession: What are the desired learning outcomes of your documentation?
-    How are you getting to these outcomes? How do you measure success?
+    How are you getting to these outcomes? How do you measure success?</li>
 
-    - Thinking like an editor: What are the most common recommendations that editors
+    <li>Thinking like an editor: What are the most common recommendations that editors
     make to technical writers? How can you turn these around to improve your work
-    as a writer?
+    as a writer?</li>
 
-    - Thinking like a writer: What are some challenges specific to writing and how
-    can thinking of yourself as a teacher and editor help you address them?</p>
+    <li>Thinking like a writer: What are some challenges specific to writing and how
+    can thinking of yourself as a teacher and editor help you address them?</li>
+
+    </ul>
 
     <p>The goal for attendees will be to leave with some actionable insights that
     they can apply to their own work in the field. By breaking apart the roles and
