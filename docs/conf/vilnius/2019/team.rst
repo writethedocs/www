@@ -16,7 +16,7 @@ Aidis Stukas
 .. include:: /include/bios/aidis.rst
 
 Dovilė Urbanavičiūtė
-~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
 
 .. include:: /include/bios/dovile.rst
 
