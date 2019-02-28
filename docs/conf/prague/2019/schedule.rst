@@ -134,7 +134,9 @@ There will be light snacks and drinks available on the conference while our tab 
 
 Further details will be announced later.
 
-{{date.day_four.dotw}}, {{date.day_four.date}}
+.. TODO add this variable? 
+
+Tuesday, September 17
 ---------------------
 
 .. contents::
