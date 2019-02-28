@@ -3,8 +3,8 @@
 .. post:: Feb 26, 2019
    :tags: prague-2019, website, cfp, tickets
 
-Announcing Write the Docs Prague 2019 CFP
-===========================================
+Announcing Prague Call for Proposals
+====================================
 
 Welcome to the official launch of `Write the Docs Prague 2019 <http://www.writethedocs.org/conf/prague/2019/>`_. We hope you're getting excited – we certainly are! It’s shaping up to be another wonderful year full of great conversations and interesting talks.
 
