@@ -7,7 +7,7 @@ Learning Resources
    :hidden:
 
    /newsletter
-   /videos
+   /videos/index
    /podcast
    /organizer-guide/index
    /hiring-guide/index
