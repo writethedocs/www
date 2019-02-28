@@ -4,7 +4,7 @@
 Conference sells out, Schedule Details, and Party Venue
 =======================================================
 
-These are exciting times for Write the Docs -- 
+These are exciting times for Write the Docs --
 the conference is next week, and we hope you're getting ready!
 We've officially sold out the conference at 350 documentarians,
 who will be converging on Portland for two delightful days of documentation diving
@@ -21,8 +21,8 @@ or take the trip with us.
 Full Schedule
 --------------
 
-We have announced the final [schedule](http://www.writethedocs.org/conf/na/2015/schedule/) for the conference. 
-The schedule includes all conference-related activities -- 
+We have announced the final [schedule](http://www.writethedocs.org/conf/na/2015/schedule/) for the conference.
+The schedule includes all conference-related activities --
 the hike, the writing day, the reception, the party, and of course the actual talks.
 We have packed a lot into a few days,
 so I hope you're ready!
@@ -50,6 +50,6 @@ Get Excited
 Even if you're not presenting a formal talk, there's still plenty you
 can do to participate.
 Start planning a [lightning talk](/conf/na/2015/lightning-talks).
-Think about things to chat about at the [unconference](/conf/na/2015/unconference).
+Think about things to chat about at the unconference.
 Get a project ready to document at the [Writing Day](/conf/na/2015/writing-day).
 We're excited about all the things, and we hope you're getting that way too!
