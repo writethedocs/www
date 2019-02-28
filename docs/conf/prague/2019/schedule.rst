@@ -82,7 +82,7 @@ We'll also help groups organize dinner plans, so you can continue your conversat
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **17:00-20:00**
 
-{{date.day_three.dotw}}, {{date.day_three.date}}
+Monday, September 16
 --------------------
 
 .. contents::
