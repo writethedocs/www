@@ -117,14 +117,14 @@ If you are not sure whether the situation was a Code of Conduct violation, or wh
 In your report please include, when possible:
 
 * Your contact info (so we can get in touch with you)
-* Names (real, nicknames, or pseudonyms) of any individuals involved. If there were other witnesses besides you, please try to include them as well.
+* Names or descriptions of anyone who was involved or witness to the incident.
 * When and where the incident occurred. Please be as specific as possible.
 * Your account of what occurred. If there is a written record (e.g. tweets or slack messages) please include screenshots, or otherwise a link.
 * Any extra context you believe existed for the incident.
 * If you believe this incident is ongoing.
 * Any other information you believe we should have.
 
-If you don’t have some of this information, or not at this time, please still make the report anyways.
+If you don’t have some of this information, or not at this time, please still make the report and include as much information as you have.
 
 If you feel unsafe reporting in person, you may choose someone to represent you. In this case, we’d need their contact information, but we’d ask you to make clear that this person represents you.
 
