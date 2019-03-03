@@ -124,7 +124,7 @@ In your report please include, when possible:
 * If you believe this incident is ongoing.
 * Any other information you believe we should have.
 
-If you don’t have some of this information, or not at this time, please still make the report and include as much information as you have.
+If you don’t all of this information at the time, please still make the report and include as much information as you have.
 
 If you feel unsafe reporting in person, you may choose someone to represent you. In this case, we’d need their contact information, but we’d ask you to make clear that this person represents you.
 
