@@ -1,9 +1,10 @@
 :template: {{year}}/generic.html
 
-.. post:: March 03, 2019
+.. post:: March 5, 2019
    :tags: portland-2019, speakers, tickets, visiting, sponsors
 
-Happy Tuesday everybody!
+Speaker Announcement
+====================
 
 We're writing today with an update on the fast-approaching Portland conference!
 
@@ -45,7 +46,7 @@ We are so grateful to have our sponsors help in bringing these events to life ev
 
 `Google <https://www.google.com/>`_
 
-`Microsoft <https://developer.microsoft.com/en-us/>`_
+`Microsoft Developers <https://developers.microsoft.com/en-us/>`_
 
 `Twilio <https://www.twilio.com/>`_
 
@@ -64,9 +65,6 @@ We are so grateful to have our sponsors help in bringing these events to life ev
 `Knowledgeowl <https://www.knowledgeowl.com/>`_
 
 `Netlify <https://www.netlify.com/wtd>`_
-
-
-`Red Hat <https://www.redhat.com/en>`_
 
 `CNCF <https://www.cncf.io/>`_
 
