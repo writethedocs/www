@@ -36,7 +36,7 @@ Planning your trip
 
 In the next few weeks, we’ll be announcing more details about the conference events, including the full schedule, annual hike on Saturday afternoon, writing day and reception on Sunday, and official party on Monday evening. But on top of that, there's ALL SORTS of stuff to do in Portland.
 
-We've got a couple of excellent volunteers – Mo Nishiyama and Alicia Duncan – who are heading up our Explore Portland committee. They're already hard at work putting together resources to help you plan your visit! Check out the `Visit Portland <http://www.writethedocs.org/conf/portland/2018/visiting/>`_ page on the conference website, or pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack to ask a question.
+We've got a couple of excellent volunteers – Mo Nishiyama and Alicia Duncan – who are heading up our Explore Portland committee. They're already hard at work putting together resources to help you plan your visit! Check out the `Visit Portland <http://www.writethedocs.org/conf/portland/2019/visiting/>`_ page on the conference website, or pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack to ask a question.
 
 Thanks to our sponsors
 ----------------------
@@ -70,7 +70,7 @@ We are so grateful to have our sponsors help in bringing these events to life ev
 
 `StickerMule <https://www.stickermule.com/supports/opensource>`_
 
-Want to lend a hand? Head over to our `sponsorship prospectus <http://www.writethedocs.org/conf/portland/2019/sponsors/prospectus/>`_ for details on how your company can get involved! We have several types of sponsorship available, including tabes at the job fair that we'll be hosting on Tuesday.
+Want to lend a hand? Head over to our `sponsorship prospectus <http://www.writethedocs.org/conf/portland/2019/sponsors/prospectus/>`_ for details on how your company can get involved! We have several types of sponsorship available, including tables at the job fair that we'll be hosting on Tuesday.
 
 And that's the latest on the Portland conference. We hope you're all getting as excited as we are! Stay tuned for more details.
 
