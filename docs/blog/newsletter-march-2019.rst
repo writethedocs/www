@@ -110,3 +110,4 @@ Community events coming up
 - 28 March - Australia / Remote - `Lightning talks and presentations <https://www.meetup.com/Write-the-Docs-Australia/events/258859926/>`_
 - 8 April - Chicago, IL, USA - `API the Docs Chicago 2019 <https://www.meetup.com/Write-the-Docs-Chicago/events/256321667/>`_
 - 11 April - San Francisco, CA, USA - `Building a culture of cooperation  <https://www.meetup.com/Write-the-Docs-SF/events/258601376/>`_
+- 26-27 April - San Jose, CA, USA - `TC Camp 2019 <http://www.tccamp.org/>`_
