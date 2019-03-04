@@ -5,21 +5,23 @@
 Write the Docs Newsletter – March 2019
 ######################################
 
-Hi everyone! Beth here, with your March newsletter. I know February is a short month, but it hardly feels like it's been a month since the last one.
+Hi everyone! Beth here, with your March newsletter. How on earth is February over already?
 
 We've got lots of conference news to share with you. Potential speakers, you'll be excited to hear that the `Prague Call for Proposals </conf/prague/2019/news/cfp-open/>`_ is open. Get working on those submissions - they need to be in by midnight (CEST) on Tuesday 30 April.
 
-And there's even more going on in Europe: `a new conference in Vilnius, Lithuania </conf/vilnius/2019/news/init/>`_! It'll be two days, 2-3 June, and the CFP and ticket sales are opening soon.
+And there's even more going on in Europe: `a new conference in Vilnius, Lithuania </conf/vilnius/2019/news/init/>`_! It'll be two days, 2-3 June; the CFP and ticket sales are opening soon.
 
-On the other side of the pond, `Portland speakers have been announced </conf/portland/2019/news/TODO>`_. If you're considering buying tickets, do it sooner rather than later: they sell out earlier every year. Want to go but need to persuade someone senior that it's worthwhile? The "`convince your manager </conf/portland/2019/convince-your-manager/>`_" page might help.
+On the other side of the pond, `Portland speakers have been announced </conf/portland/2019/news/announcing-speakers/>`_. If you're considering buying tickets, do it soon so you don't miss out: they sell out earlier every year. Want to go but need to persuade someone senior that it's worthwhile? The "`convince your manager </conf/portland/2019/convince-your-manager/>`_" page might help.
 
-So that's that. On to what we've been talking about on Slack this month!
+You may also be interested to know that we've updated the `code of conduct </code-of-conduct/>`_. Some sections have been improved and others clarified - for full details, check out the `code of conduct blog post </blog/new-community-coc-2019/>`_.
+
+On to what we've been talking about on Slack this month!
 
 ------------------------------------------
 Roadmaps and documenting 'future features'
 ------------------------------------------
 
-As documentarians, we can come head-to-head with other stakeholders on what to include in our documentation. One contentious topic is forward-looking statements: some stakeholders might want to tell users that a feature is coming soon. But when we mention a future feature in docs, it can be a problem if that feature doesn't end up being delivered.
+As documentarians, we sometimes come head-to-head with other stakeholders on what to include in our documentation. One contentious topic is forward-looking statements: some stakeholders might want to tell users that a feature is coming soon. But when we mention a future feature in docs, it can be a problem if that feature doesn't end up being delivered.
 
 Here are some thoughts about how to approach this:
 
@@ -34,7 +36,7 @@ Do you have opinions or advice on this? Head on over to `#general <https://write
 Objectives and key results (OKRs) for documentation
 ---------------------------------------------------
 
-It can be difficult to identify measurable data for documentation, but it's common to be asked for OKRs nevertheless. (If you're new to OKRs or need a refresher, check out this re:Work guide: `Set goals with OKRs <https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/>`_.)
+Though it can be difficult to identify measurable data for documentation, it's common to be asked for OKRs nevertheless. (If you're new to OKRs or need a refresher, check out this re:Work guide: `Set goals with OKRs <https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/>`_.)
 
 Whether your manager asks for them, you're craving some structure for your docs planning, or you just want to have the information on hand, how do you figure out what to measure? When this topic came up this month, the WTD Slack community had plenty of suggestions:
 
@@ -53,7 +55,7 @@ Some folks expressed aversion to cover letters, especially if they're required a
 
 In general, people seemed to agree that it's a good idea to write at least a brief cover letter that focuses on the job posting and shows how your skills, background, and interests are relevant. But as always - it depends! Do you have a connection or a referral, or some other personal or specific relationship to the job you're applying for? Then a "warm intro" that shows you know something about the job and the company is pretty straightforward. On the other hand, a "cold intro" where you have no particular knowledge or insight might make a cover letter seem all the more useful - but also much harder to tailor to the specific job.
 
-It was also pointed out that a cover letter can be a great way to explain your sideways, unexpected, or less-than-conventional entry into the position you're applying for - often the case for technical writing jobs.
+It was also pointed out that a cover letter can be a great way to explain your sideways, unexpected, or less-than-conventional entry into the position you're applying for - often the case for docs-related jobs.
 
 ----------------------------------------------
 Moving to docs-as-code: static site generators
@@ -61,7 +63,7 @@ Moving to docs-as-code: static site generators
 
 It's no secret that many of us are keen on the docs-as-code approach. But as someone asked this month: if you're moving from a traditional authoring tool like Flare, and want to start storing docs in Git, what should you use to create the docs themselves?
 
-Static site generators are a sensible answer. But how to choose one? `There are so many of them <https://www.staticgen.com/>`_! The community had a few suggestions to help out: one was to check out `O'Reilly's free intro to SSGs <https://learning.oreilly.com/library/view/static-site-generators/9781492048558/>`_. There were also few specific recommendations (presented here in alphabetical order):
+Static site generators are a sensible answer. But how to choose one? `There are so many <https://www.staticgen.com/>`_! The community had a few suggestions to help out: one was to check out `O'Reilly's free intro to SSGs <https://learning.oreilly.com/library/view/static-site-generators/9781492048558/>`_. There were also few specific recommendations:
 
 - `Antora <https://antora.org/>`_ (uses AsciiDoc)
 - `Gatsby <https://www.gatsbyjs.org/>`_
@@ -94,7 +96,7 @@ Community events coming up
 
 - 5 March - Austin, TX, USA - `Lunch meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/258689786/>`_
 - 7 March - Bay Area, CA, USA - `"Inside Kubernetes" at Google <https://www.meetup.com/Write-the-Docs-SF/events/258745813/>`_
-- 7 March - Salt Lake City, UT, USA - `MadCap Flare User Group <https://www.meetup.com/Write-the-Docs-SLC/events/259148496/>`_
+- 7 March - Salt Lake City, UT, USA - `MadCap Flare user group <https://www.meetup.com/Write-the-Docs-SLC/events/259148496/>`_
 - 14 March - Karlruhe, Germany - `Christian Gödert war unzufrieden mit Swagger <https://www.meetup.com/Write-the-Docs-Karlsruhe/events/258490829/>`_
 - 18 March - Berlin, Germany - `Docs hack <https://www.meetup.com/Write-The-Docs-Berlin/events/bkgmpqyzfbxb/>`_
 - 19 March - Seattle, WA, USA - `Eastside morning social <https://www.meetup.com/Write-The-Docs-Seattle/events/259282122/>`_
