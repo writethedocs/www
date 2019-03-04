@@ -141,7 +141,7 @@ Run of Show
 An overview of the conference schedule:
 
 * The Writing Day is on Sunday. You are welcome to run a documentation sprint here if your documentation is open source.
-* The main conference & sponsorship day in on Monday.
+* The main conference & sponsorship day is on Monday.
 
 How do I get the most out of my sponsorship?
 --------------------------------------------
