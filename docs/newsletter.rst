@@ -78,6 +78,7 @@ Helping others to write
 Workflows and Agile
 ~~~~~~~~~~~~~~~~~~~
 
+- `Roadmaps and documenting 'future features' </blog/newsletter-march-2019/#roadmaps-and-documenting-future-features>`_
 - `Agile delivery and continuous releases </blog/newsletter-february-2019/#agile-delivery-and-continuous-releases>`_
 - `Making docs maintainable </blog/newsletter-august-2017/#making-docs-maintainable>`_
 - `Task management for docs teams </blog/newsletter-october-2018/#task-management-tools-for-docs-teams>`_
@@ -143,6 +144,7 @@ Jobs
 Applying for jobs
 ~~~~~~~~~~~~~~~~~
 
+- `Cover letters </blog/newsletter-march-2019/#the-whys-and-wherefores-of-cover-letters>`_
 - `Hiring and getting hired guide </blog/newsletter-november-2018/#how-to-hire-a-documentarian>`_
 - `Questions to ask at your job interview </blog/newsletter-february-2018/#questions-to-ask-during-a-job-interview>`_
 - `More questions to ask at your job interview </blog/newsletter-november-2017/#it-s-your-turn-to-ask-the-questions>`_
@@ -194,6 +196,7 @@ Code snippets/samples
 Improving your docs
 -------------------
 
+- `Objectives and key results (OKRs) for documentation </blog/newsletter-march-2019/#objectives-and-key-results-okrs-for-documentation>`_
 - `Discovering user needs </blog/newsletter-december-2018/#discovering-user-needs>`_
 - `Gathering user feedback </blog/newsletter-november-2018/#getting-feedback-from-users>`_
 - `A/B testing docs </blog/newsletter-may-2018/#a-b-testing-for-stronger-docs>`_
@@ -209,6 +212,7 @@ Metrics
 Tools
 -----
 
+- `Moving to docs-as-code: static site generators </blog/newsletter-march-2019/#moving-to-docs-as-code-static-site-generators>`_
 - `Comparing static site generators </blog/newsletter-august-2018/#static-and-sites-and-generators-oh-my>`_
 - `Automated screenshot-taking </blog/newsletter-april-2018/#new-tool-to-try-out-automated-screenshots>`_
 - `Versioning docs with docs as code </blog/newsletter-march-2018/#docs-as-code-and-its-discontents-versioning>`_
@@ -247,6 +251,7 @@ Docs as code
 
 See also: developer docs.
 
+- `Moving to docs-as-code: static site generators </blog/newsletter-march-2019/#moving-to-docs-as-code-static-site-generators>`_
 - `Making docs maintainable </blog/newsletter-august-2017/#making-docs-maintainable>`_
 - `Versioning docs with docs as code </blog/newsletter-march-2018/#docs-as-code-and-its-discontents-versioning>`_
 - `Automated screenshot-taking </blog/newsletter-april-2018/#new-tool-to-try-out-automated-screenshots>`_
