@@ -66,9 +66,9 @@ We are so grateful to have our sponsors help in bringing these events to life ev
 
 `Netlify <https://www.netlify.com/wtd>`_
 
-`CNCF <https://www.cncf.io/>`_
+`Cloud Native Computing Foundation <https://www.cncf.io>`_
 
-`StickerMule <https://www.stickermule.com/supports/opensource>`_
+`StickerMule <https://www.stickermule.com/supports/writethedocs-portland>`_
 
 Want to lend a hand? Head over to our `sponsorship prospectus <http://www.writethedocs.org/conf/portland/2019/sponsors/prospectus/>`_ for details on how your company can get involved! We have several types of sponsorship available, including tables at the job fair that we'll be hosting on Tuesday.
 
