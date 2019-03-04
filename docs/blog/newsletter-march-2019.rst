@@ -15,7 +15,7 @@ On the other side of the pond, `Portland speakers have been announced </conf/por
 
 We've updated our `code of conduct </code-of-conduct/>`_. Some sections have been improved and others clarified - for full details, check out the `code of conduct blog post </blog/new-community-coc-2019/>`_.
 
-On to what we've been talking about on Slack this month!
+On to what we've been talking about in Slack!
 
 ------------------------------------------
 Roadmaps and documenting 'future features'
@@ -23,7 +23,7 @@ Roadmaps and documenting 'future features'
 
 As documentarians, we sometimes come head-to-head with other stakeholders on what to include in our documentation. One contentious topic is forward-looking statements: some stakeholders might want to tell users that a feature is coming soon. But when we mention a future feature in docs, it can be a problem if that feature doesn't end up being delivered.
 
-Here are some thoughts about how to approach this:
+Here are some thoughts about how to approach this from a conversation about roadmaps in documentation this month:
 
 - Be aware that documentation saying that something will be delivered, or even when it'll be delivered, can be considered legally binding. You might want to consider a `safe harbor statement <https://en.wikipedia.org/wiki/Forward-looking_statement>`_.
 - If your roadmap is in the documentation, who responds to feedback on that roadmap? The doc writer may not be the best person.
@@ -49,7 +49,7 @@ Whether your manager asks for them, you're craving some structure for your docs 
 The whys and wherefores of cover letters
 ----------------------------------------
 
-A question about how detailed a cover letter should be, posted in the ever-popular `#career-advice <https://writethedocs.slack.com/messages/C6ADX1YVA/`_ channel, produced a lively discussion. While it started with what you should put in a cover letter, it expanded to the purposes of a cover letter, when or whether to include one, and more.
+A question about how detailed a cover letter should be, posted in the ever-popular `#career-advice <https://writethedocs.slack.com/messages/C6ADX1YVA/>`_ channel, produced a lively discussion. While it started with what you should put in a cover letter, it expanded to the purposes of a cover letter, when or whether to include one, and more.
 
 Some folks expressed aversion to cover letters, especially if they're required as part of a longer, more detailed application process: they're a lot of work, and it's not always clear that anyone reads them. But others - hiring managers in particular - really appreciated them.
 
@@ -63,11 +63,11 @@ Moving to docs-as-code: static site generators
 
 It's no secret that many of us are keen on the docs-as-code approach. But as someone asked this month: if you're moving from a traditional authoring tool like Flare, and want to start storing docs in Git, what should you use to create the docs themselves?
 
-Static site generators are a sensible answer. But how to choose one? `There are so many <https://www.staticgen.com/>`_! The community had a few suggestions to help out: one was to check out `O'Reilly's free intro to SSGs <https://learning.oreilly.com/library/view/static-site-generators/9781492048558/>`_. There were also few specific recommendations:
+Static site generators are a sensible answer. But how to choose one? `There are so many <https://www.staticgen.com/>`_! The community had a few suggestions to help out, including to check out `O'Reilly's free intro to SSGs <https://learning.oreilly.com/library/view/static-site-generators/9781492048558/>`_, or these  `introductions to Jekyll, Hugo and Sphinx <https://www.docslikecode.com/learn/>`_. There were also few specific recommendations:
 
 - `Antora <https://antora.org/>`_ (uses AsciiDoc)
 - `Gatsby <https://www.gatsbyjs.org/>`_
-- `Hugo <https://gohugo.io/>`_ (and there are `introductions to Jekyll, Hugo and Sphinx here <https://www.docslikecode.com/learn/>`_)
+- `Hugo <https://gohugo.io/>`_
 - `MkDocs <https://www.mkdocs.org/>`_
 - `Paligo <https://paligo.net/>`_, if you don't mind using its integrated CMS rather than Git.
 
@@ -109,3 +109,4 @@ Community events coming up
 - 27 March - London, UK - `Sarah Maddox on Open source and tech writing <https://www.meetup.com/Write-The-Docs-London/events/258090597/>`_
 - 28 March - Australia / Remote - `Lightning talks and presentations <https://www.meetup.com/Write-the-Docs-Australia/events/258859926/>`_
 - 8 April - Chicago, IL, USA - `API the Docs Chicago 2019 <https://www.meetup.com/Write-the-Docs-Chicago/events/256321667/>`_
+- 11 April - San Francisco, CA, USA - `Building a culture of cooperation  <https://www.meetup.com/Write-the-Docs-SF/events/258601376/>`_
