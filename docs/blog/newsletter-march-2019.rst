@@ -11,9 +11,9 @@ We've got lots of conference news to share with you. Potential speakers, you'll 
 
 And there's even more going on in Europe: `a new conference in Vilnius, Lithuania </conf/vilnius/2019/>`_! It'll be two days, 2-3 June; the CFP and ticket sales are opening soon.
 
-On the other side of the pond, `Portland speakers have been announced </conf/portland/2019/news/announcing-speakers/>`_. If you're considering buying tickets, do it soon so you don't miss out: they sell out earlier every year. Want to go but need to persuade someone senior that it's worthwhile? The "`convince your manager </conf/portland/2019/convince-your-manager/>`_" page might help.
+On the other side of the pond, `Portland speakers have been announced </conf/portland/2019/news/announcing-speakers/>`_. If you're considering buying tickets, do it soon so you don't miss out: they sell out earlier every year. Want to go but need to persuade someone senior that it's worthwhile? The `convince your manager </conf/portland/2019/convince-your-manager/>`_ page might help.
 
-You may also be interested to know that we've updated the `code of conduct </code-of-conduct/>`_. Some sections have been improved and others clarified - for full details, check out the `code of conduct blog post </blog/new-community-coc-2019/>`_.
+We've updated our `code of conduct </code-of-conduct/>`_. Some sections have been improved and others clarified - for full details, check out the `code of conduct blog post </blog/new-community-coc-2019/>`_.
 
 On to what we've been talking about on Slack this month!
 
