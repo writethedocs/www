@@ -88,6 +88,9 @@ Lots of interesting posts this month:
 `Technical Writer <https://jobs.writethedocs.org/job/91/technical-writer-twilio-sendgrid/>`_
  Twilio SendGrid, Denver CO or Redwood City CA, full-time
 
+`Technical Writing Manager <https://jobs.writethedocs.org/job/96/technical-writing-manager-global-software-engineering-uber/>`_
+ Uber Technologies Inc, San Francisco, CA, full-time 
+
 *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
 --------------------------
