@@ -79,17 +79,17 @@ Featured jobs
 
 Lots of interesting posts this month:
 
-`Remote Senior Full Stack Web Developer <https://jobs.writethedocs.org/job/93/remote-senior-full-stack-web-developer/>`__
- KnowledgeOwl, remote, long-term contract
+* `Remote Senior Full Stack Web Developer <https://jobs.writethedocs.org/job/93/remote-senior-full-stack-web-developer/>`__
+   KnowledgeOwl, remote, long-term contract
 
-`Technical Writer <https://jobs.writethedocs.org/job/94/technical-writer/>`__
- Adyen, Amsterdam, full-time
+* `Technical Writer <https://jobs.writethedocs.org/job/94/technical-writer/>`__
+   Adyen, Amsterdam, full-time
 
-`Technical Writer <https://jobs.writethedocs.org/job/91/technical-writer-twilio-sendgrid/>`__
- Twilio SendGrid, Denver CO or Redwood City CA, full-time
+* `Technical Writer <https://jobs.writethedocs.org/job/91/technical-writer-twilio-sendgrid/>`__
+   Twilio SendGrid, Denver CO or Redwood City CA, full-time
 
-`Technical Writing Manager <https://jobs.writethedocs.org/job/96/technical-writing-manager-global-software-engineering-uber/>`__
- Uber Technologies Inc, San Francisco, CA, full-time 
+* `Technical Writing Manager <https://jobs.writethedocs.org/job/96/technical-writing-manager-global-software-engineering-uber/>`__
+   Uber Technologies Inc, San Francisco, CA, full-time 
 
 *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
