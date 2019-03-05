@@ -13,7 +13,7 @@ And there's even more going on in Europe: `a new conference in Vilnius, Lithuani
 
 On the other side of the pond, `Portland speakers have been announced </conf/portland/2019/news/announcing-speakers/>`_. If you're considering buying tickets, do it soon so you don't miss out: they sell out earlier every year. Want to go but need to persuade someone senior that it's worthwhile? The `convince your manager </conf/portland/2019/convince-your-manager/>`_ page might help.
 
-We've updated our `code of conduct </code-of-conduct/>`_. Some sections have been improved and others clarified - for full details, check out the `code of conduct blog post </blog/new-community-coc-2019/>`_.
+Finally, we wanted to let you know that we've updated our `code of conduct </code-of-conduct/>`_. Some sections have been improved and others clarified - for full details, check out the `code of conduct blog post </blog/new-community-coc-2019/>`_.
 
 On to what we've been talking about in Slack!
 
@@ -94,7 +94,6 @@ Lots of interesting posts this month:
 Community events coming up
 --------------------------
 
-- 5 March - Austin, TX, USA - `Lunch meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/258689786/>`_
 - 7 March - Bay Area, CA, USA - `"Inside Kubernetes" at Google <https://www.meetup.com/Write-the-Docs-SF/events/258745813/>`_
 - 7 March - Salt Lake City, UT, USA - `MadCap Flare user group <https://www.meetup.com/Write-the-Docs-SLC/events/259148496/>`_
 - 14 March - Karlruhe, Germany - `Christian Gödert war unzufrieden mit Swagger <https://www.meetup.com/Write-the-Docs-Karlsruhe/events/258490829/>`_
