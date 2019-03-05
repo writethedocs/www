@@ -3,8 +3,8 @@
 .. post:: March 5, 2019
    :tags: portland-2019, speakers, tickets, visiting, sponsors
 
-Speaker Announcement
-====================
+Announcing speakers and talks
+=============================
 
 We're writing today with an update on the fast-approaching Portland conference!
 
