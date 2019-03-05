@@ -58,7 +58,7 @@ We are so grateful to have our sponsors help in bringing these events to life ev
 
 `Cisco DevNet <https://www.cisco.com/>`_
 
-`Gitlab <https://gitlab.com/>`_
+`GitLab <https://gitlab.com/>`_
 
 `ElasticSearch <https://www.elastic.co/>`_
 
