@@ -7,7 +7,7 @@ before_install:
 install:
  - pip install tox-travis
  - eval "$(gimme 1.7)"
- - go get github.com/ValeLint/vale
+ - go get github.com/errata-ai/vale
  - sudo apt-get install libcurl3-dev
 script:
  - tox
@@ -18,7 +18,7 @@ env:
  - TEST="links"
 matrix:
  allow_failures:
-   - env: TEST="links"   
+   - env: TEST="links"
 
 
 # An attempt to explain my understanding of the rather odd convergence of Travis CI and tox with tox-travis
