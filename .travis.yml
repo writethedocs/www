@@ -6,7 +6,7 @@ before_install:
   - export PATH=$PATH:$GOPATH/bin
 install:
  - pip install tox-travis
- - eval "$(gimme 1.7)"
+ - eval "$(gimme 1.8)"
  - go get github.com/errata-ai/vale
  - sudo apt-get install libcurl3-dev
 script:
