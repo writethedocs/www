@@ -64,13 +64,13 @@ cfp:
 
 
 flagspeakersannounced: False
-flagcfp: False
+flagcfp: True
 flaghasschedule: False
-flagticketsonsale: False
+flagticketsonsale: True
 flaghashike: False
 flaghasboat: False
 flaghasshirts: False
-flaglanding: True
+flaglanding: False
 flaghassponsors: False
 flagvideos: False
 flaglivestreaming: False
