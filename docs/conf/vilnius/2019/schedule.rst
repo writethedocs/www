@@ -38,6 +38,8 @@ The "main event" -- we'll have a variety of speakers on the stage sharing their 
 * **When**: **10:00-18:00**
 * **Details**: Full main stage schedule below!
 
+.. separator to fix list formatting
+
 {% if flaghasschedule %}
 
 .. datatemplate::
