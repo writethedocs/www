@@ -1,5 +1,7 @@
 ## Write the Docs website
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/writethedocs/www.svg)](https://greenkeeper.io/)
+
 This is the code that powers [www.writethedocs.org](http://www.writethedocs.org). It contains information
 about the Write the Docs group, as well as information about writing documentation.
 
