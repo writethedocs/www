@@ -32,7 +32,7 @@ An even more fragile process which needs documenting and fixing.
 
 WIP Docs on how to do this:
 
-1. In `_data/<year>.<city>.speakers.yaml`, add an `youtubeId: 12345678901` key value pair to each each talk.
+1. In `_data/<year>.<city>.speakers.yaml`, add a `youtubeId: 12345678901` key value pair to each talk.
 
 2. Make sure the directory `videos/<city>/<year>` is included in the Video Archive `toctree` in `docs/videos/index.rst`.
 
@@ -71,7 +71,7 @@ If you run into trouble with broken links to video files, have a look at `_ext/f
 
    `python fix_video_yaml.py`
 
-3. Commit the fixed `_data/<year>.<city>.speakers.yaml` files.
+3. Commit the fixed `_data/<year>.<city>.speakers.yaml` file.
 
 ### Prerequisites for generating the docs locally
 
