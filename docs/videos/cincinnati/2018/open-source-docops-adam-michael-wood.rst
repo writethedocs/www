@@ -1,8 +1,0 @@
-Open Source DocOps
-==================
-
-.. datatemplate::
-   :source: /_data/2018.cincinnati.speakers.yaml
-   :template: videos/video-detail.html
-   :key: 5
-
