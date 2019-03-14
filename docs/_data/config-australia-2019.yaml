@@ -30,11 +30,11 @@ sponsorship:
   second_draft:
     price: $1000
   publisher:
-    price: $3000
+    price: $2000
   patron:
-    price: $5000
+    price: $4000
   keystone:
-    price: $10000
+    price: $7500
 
 date: # how do we handle these? human readable would be nice.
   main: "**November 14-15, 2019, in Sydney, Australia**"
