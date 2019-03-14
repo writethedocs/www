@@ -87,7 +87,11 @@ With that you will install all the requirements to minify your CSS;
 after that you only need to run:
 
 ```
+# Generate everything and serve site
 gulp
+
+# Only generate assets
+gulp styles
 ```
 
 This has to be used alongside the sphinx server and it will
@@ -124,3 +128,5 @@ For this whole thing to work we still need to implement these
 ```
 .. TODO
 ```
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/writethedocs/www.svg)](https://greenkeeper.io/)

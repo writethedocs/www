@@ -185,7 +185,7 @@ and many of those people will come to our job fair to look for new roles and pos
 
 **$1,000** (a la carte price, also included or discounted with other sponsorship packages)
 
-- **Logistics**: The Job Fair will be Tuesday morning in Lola's Room. It will run from 9:30am-11:30pm. You can set up from 8:30am.
+- **Logistics**: The Job Fair will be Tuesday morning in Lola's Room. It will run from 9:30am-11:30am. You can set up from 8:30am.
 
 - **Layout**: Every company participating in the Job Fair will have a six-foot table and two chairs reserved for them. We do not use booths during the Job Fair. Giveaways/flyers are welcome, but please make sure everything fits on your alloted table.
 
@@ -263,6 +263,15 @@ How do I use get my free tickets?
 ---------------------------------
 
 You should have recieved a unique URL with a discount code for your free sponsorship tickets. We are happy to send it over again, just ask!
+
+How do I use my job postings?
+-----------------------------
+
+You can post your jobs to our `job board <https://jobs.writethedocs.org/>`_.
+You will be given a discount code that will let you post them for free,
+please ask us for this if you don't have it! 
+They will be published in our :doc:`Newsletter </newsletter>` every month,
+and displayed on our website as well.
 
 What do I need for the job fair?
 --------------------------------

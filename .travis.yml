@@ -6,9 +6,14 @@ before_install:
   - export PATH=$PATH:$GOPATH/bin
 install:
  - pip install tox-travis
- - eval "$(gimme 1.7)"
- - go get github.com/ValeLint/vale
+ - eval "$(gimme 1.8)"
+ - go get github.com/errata-ai/vale
  - sudo apt-get install libcurl3-dev
+# Safelist all Greenkeeper.io branches https://greenkeeper.io/faq.html
+branches:
+  only:
+    - master
+    - /^greenkeeper.*$/
 script:
  - tox
 env:
@@ -18,7 +23,7 @@ env:
  - TEST="links"
 matrix:
  allow_failures:
-   - env: TEST="links"   
+   - env: TEST="links"
 
 
 # An attempt to explain my understanding of the rather odd convergence of Travis CI and tox with tox-travis
