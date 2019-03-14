@@ -128,8 +128,9 @@ html_context = {
     'conferences': load_conference_data(),
 }
 
-# Uncomment this line to generate videos
-# html_context.update(main())
+# Uncomment these two lines to generate videos
+#from _ext.videos import main
+#html_context.update(main())
 
 # html_experimental_html5_writer = True
 
