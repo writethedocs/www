@@ -52,7 +52,7 @@ WIP Docs on how to do this:
 
 6. If you want to preview locally:
 
-    1. in `conf.py` around line 35 comment out the following two lines:
+    1. In `conf.py` around line 35 comment out the following two lines:
 
        ```
        if not on_rtd and not on_netlify and not on_travis:
