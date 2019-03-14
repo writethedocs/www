@@ -85,6 +85,7 @@
     website: ''
   title: The Art of Consistency - Creating an inhouse style guide
   year: '2018'
+  youtubeId:
 - abstract: "<p>The most common perception around the term UX writing is that it
     only includes microcopy for the user interfaces. However, that is not
     correct. Writing snappy messages on the UI is only a part of it; more
@@ -113,6 +114,7 @@
     website: ''
   title: UX writing - Let your product speak
   year: '2018'
+  youtubeId:
 - abstract: "<p>The first few weeks at a new job are hard. There seem to be
    too many questions and not enough answers, and so much assumed knowledge
    about the company you joined and the products they make.</p>\n
@@ -144,6 +146,7 @@
     website: ''
   title: Making Yourself Redundant on Day One - Internal documentation to teach the next hire what you've learned
   year: '2018'
+  youtubeId:
 - abstract: "<p>As part of the Write the Docs Australia 2018 conference,
     we’re running a two-hour workshop on the principles and techniques of
     technical writing.</p>\n
