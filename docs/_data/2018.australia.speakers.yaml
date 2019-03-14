@@ -85,7 +85,7 @@
     website: ''
   title: The Art of Consistency - Creating an inhouse style guide
   year: '2018'
-  youtubeId:
+  youtubeId: IDLSiX9O0Lg
 - abstract: "<p>The most common perception around the term UX writing is that it
     only includes microcopy for the user interfaces. However, that is not
     correct. Writing snappy messages on the UI is only a part of it; more
@@ -114,7 +114,7 @@
     website: ''
   title: UX writing - Let your product speak
   year: '2018'
-  youtubeId:
+  youtubeId: TGdm-1vVLDw
 - abstract: "<p>The first few weeks at a new job are hard. There seem to be
    too many questions and not enough answers, and so much assumed knowledge
    about the company you joined and the products they make.</p>\n
@@ -146,7 +146,7 @@
     website: ''
   title: Making Yourself Redundant on Day One - Internal documentation to teach the next hire what you've learned
   year: '2018'
-  youtubeId:
+  youtubeId: QYMUh55eXcY
 - abstract: "<p>As part of the Write the Docs Australia 2018 conference,
     we’re running a two-hour workshop on the principles and techniques of
     technical writing.</p>\n
@@ -204,6 +204,7 @@
     website: ''
   title: Good Code, Bad Code & Code Review
   year: '2018'
+  youtubeId: Mx4iRq-inm8
 - abstract: "<p>You have to write some docs. To do this, you need information
     from other people. </p>\n
 
@@ -228,6 +229,7 @@
     website: https://www.fastmail.com
   title: The subtle art of interrogation
   year: '2018'
+  youtubeId: HVdzjFeaM7k
 - abstract: "<p>I’ll walk through how my team and I create an information
     experience that feels human, helpful, and how we know if it’s successful.
     Part of that experience bridges the information gap between the messages you
@@ -260,6 +262,7 @@
     website: https://www.linkedin.com/in/dans9190/
   title: Creating experiences with information!
   year: '2018'
+  youtubeId: N_fUHIu9cl4
 - abstract: "<p>Over the course of 2018 I planned and helped execute a complete,
     ongoing rewrite of about 1000 pages of documentation - changing the markup
     language, the focus (feature to user story), and the structure (linear to
@@ -283,6 +286,7 @@
     website: ''
   title: 'Backseat Content Strategy'
   year: '2018'
+  youtubeId: omwamA30e_Y
 - abstract: "<p>Software support teams are in a tough spot. They know
     documentation is important, and they love to refer customers to it, but finding
     time to actually write and maintain those documents is *really* hard.</p>\n
@@ -310,6 +314,7 @@
     website: http://mrpatto.com
   title: Power up your support team to create better documentation
   year: '2018'
+  youtubeId: 8QrsSsSqddc
 - abstract: "<p>This workshop is for writers who have never used, or don't
     currently have, a Style Guide in place. We'll briefly cover the purpose and
     importance of having a Style Guide, and then launch into creating a Style Guide
@@ -331,7 +336,7 @@
     twitter: ''
     website: ''
   title: Workshop - Let's create a Style Guide!
-  year: '2018'
+  year: '2018'   
 - abstract: "<p>As many documentation teams move towards a docs-as-code
     workflow, most are turning to static site generators like Jekyll, Sphynx, Hugo,
     or GitBook to turn that 'code' into user-facing documentation websites.
@@ -359,3 +364,4 @@
     website: https://www.verythorough.com
   title: Workshop - Static Site Generators, What, Why and How
   year: '2018'
+  youtubeId: 2RCqk-nEn90
