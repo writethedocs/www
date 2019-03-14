@@ -24,6 +24,18 @@ tickets:
     price: $75
     url:
 
+sponsorship:
+  first_draft:
+    price: $500
+  second_draft:
+    price: $1000
+  publisher:
+    price: $3000
+  patron:
+    price: $5000
+  keystone:
+    price: $10000
+
 date: # how do we handle these? human readable would be nice.
   main: "**November 15-16, 2018, in Melbourne, Australia**"
   short: Nov 15-16, 2018
