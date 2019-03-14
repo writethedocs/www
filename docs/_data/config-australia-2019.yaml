@@ -9,21 +9,21 @@ area: Australia
 area_adj: Australian
 tz: AEST
 email: australia@writethedocs.org
+color: coral
 
 photos:
   default: _static/2019/assets/headers/WTDAU_Header.png
 
 tickets:
+  community:
+    price: $500
   corporate:
     price: $250
-    url:
   independent:
     price: $150
-    url:
   student:
     price: $75
-    url:
-
+  
 sponsorship:
   first_draft:
     price: $500
@@ -82,3 +82,5 @@ flaghasschedule: False
 flagticketsonsale: False
 flaghashike: False
 flaghasboat: False
+flagvideos: False
+flaglivestreaming: False
