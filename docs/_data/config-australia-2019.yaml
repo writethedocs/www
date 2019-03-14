@@ -12,7 +12,7 @@ email: australia@writethedocs.org
 color: coral
 
 photos:
-  default: _static/2019/assets/headers/WTDAU_Header.png
+  default: _static/2019/assets/headers/WTDHeader.png
 
 tickets:
   community:
@@ -23,7 +23,7 @@ tickets:
     price: $150
   student:
     price: $75
-  
+
 sponsorship:
   first_draft:
     price: $500
@@ -37,25 +37,25 @@ sponsorship:
     price: $10000
 
 date: # how do we handle these? human readable would be nice.
-  main: "**November 15-16, 2018, in Melbourne, Australia**"
-  short: Nov 15-16, 2018
+  main: "**November 14-15, 2019, in Sydney, Australia**"
+  short: Nov 14-15, 2018
   tickets_live: "June 2018"
   month: November
   sat:
   day_one:
-    event: Talks & Workshop
-    date: Nov 15
-    summary: The first conference day, including talks, a workshop, and unconference time.
+    event: Talks/Doc sprints
+    date: Nov 14
+    summary: The first conference day, including talks, doc sprints, and unconference time.
     icon: conference
   day_two:
-    event: Talks & Workshop
-    date: Nov 16
-    summary: Another day of talks, an included workshop, and discussion time.
+    event: Talks
+    date: Nov 15
+    summary: Another day of talks, unconference and discussion time.
     icon: conversation
 
 about:
   summary:
-    "The conference takes place on **November 15-16** (Thursday and Friday). The
+    "The conference takes place on **November 14-15** (Thursday and Friday). The
     main presentation track runs from 9:00 to 14:00 each day, followed by a
     :doc:`/conf/australia/2018/workshop-tech-writing` and
     :doc:`/conf/australia/2018/unconference`.
