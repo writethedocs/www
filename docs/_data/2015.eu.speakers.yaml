@@ -101,16 +101,19 @@
   title: Documenting your Story - Crafting a good presentation
   year: '2015'
   youtubeId: 2JacBpYizRw
-- abstract: "<p>Whilst not a part of the core documentation of projects, presentations\n\
-    and delivering them to the public are an essential part of spreading the\nword\
-    \ about what you do.</p>\n\n<p>They need to be as equally consistent with your\
-    \ messaging and style\nguides, get to a key point effectively and also allow the\
-    \ presenter to\ninject some personality.</p>\n\n<p>This is especially hard with\
-    \ technical projects where the 'story' is\neither hard to explain or can't just\
-    \ end up sounding like a sales pitch.</p>\n\n<p>In this presentation I will explore\
-    \ and explain my experiences as an\nadvocate for several open source projects,\
-    \ audience reactions to those\npresentations and how I have iterated my presentations\
-    \ in sync with changes\nto product and branding.</p>\n"
+- abstract: "<p>Documentation may not have a reputation as a creative enterprise, but\n\
+    \ we know that filling the role of documentarian requires creative problem solving\n\
+    \ - especially in figuring how to create, display, and maintain a reliable collection\n\
+    \ of docs.</p>\n\
+    \ <p>If your goal is clear - we need (better) docs - then creativity comes in discovering\n\
+    \ how to get there. But creative problem solving has an important role to play in determining\n\
+    \ whether you've got the right goal: are docs the answer?</p>\n\
+    \ <p>This talk starts with framing the common types of needs that docs can meet: informing,\n\
+    \ learning, referencing, persuading, and engaging. With examples for each, we'll see how\n\
+    \ creative thinking - mixed with data and some knowledge of human behavior - can shape problem\n\
+    \ statements that lead to better solutions, which aren't always the traditional doc. It's about\n\
+    \ making sure that we, as documentarians, aren't just writing - we're shaping the discussion about\n\
+    \ when and how docs make our teams, organizations, and communities better.</p>\n\
   event: Write the Docs EU 2015
   path: conf/eu/2015/videos/all-roads-might-not-lead-to-docs-celmore
   series: Write the Docs EU
