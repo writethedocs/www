@@ -1,33 +1,39 @@
-:template: 2016/na.html
+:template: {{year}}/generic.html
+:banner: _static/2018/assets/headers/group.png
 
 Welcome Wagon
 =============
 
 Hello!
 
-We're your Welcome Wagon, and we're glad you're coming to the
-2016 Write the Docs conference! Feel free to tweet us
-`@canncrochet <https://twitter.com/canncrochet>`__ and
-`@runleonarun <https://twitter.com/runleonarun>`__ and look for Christy
-and Leona at the conference to say hello! In the meantime, you can email
-`Christy <mailto:canncrochet@gmail.com>`__ or
-`Leona <mailto:leona.campbell@jivesoftware.com>`__ if we can help make
-your first time at the conference easier.
-Come :ref:`say hello <say-hello-na2016>` to us at the conference.
+We're your Welcome Wagon volunteers! We're glad you're coming to the {{year}} Write the Docs conference!
 
-We've gathered important stuff here that will help you navigate the
-conference like a pro, make you feel more at home, and help you to
-manage the constant flow of information. The Welcome Wagon events warm
-up new attendees and connect them with people, both veterans and other
-first-timers. Strategies and pro tips provide ways you can make the most
-of the conference. The FAQs strive to answer questions before you even
-have them.
+.. image:: /_static/2018/assets/images/pics/welcome-wagon.jpg
 
+We've gathered important stuff here that will help you navigate the conference like a pro, make you feel more at home, and help you to manage the constant flow of information.
+
+The Welcome Wagon events warm up new attendees and connect them with people, both veterans
+and other first-timers. Strategies and pro tips provide ways you can make the most of the conference.
+
+The `FAQs <#faq>`_ should have answers to most of your questions, but let us know if there is anything you'd like to know that isn't there. You can ask us questions in the :doc:`#wtd-conferences channel on Slack </slack>`.
 
 Welcome Wagon events
 --------------------
 
--  Our Welcome Wagon events are still being planned for this year.
+**Write the Docs Welcome Wagon Introduction**
+
+*{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}} at 17:00 in the downstairs foyer (near the cloakroom) at Auto-Klub*
+
+Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new before we join the opening reception.
+
+**Welcome Wagon Tours**
+
+* *{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}} at 17:30 starting near the registration desk at Auto-Klub*
+* *{{date.day_three.dotw}}, {{date.month}} {{date.day_three.date}} at 9:15 starting near the registration desk at Auto-Klub*
+
+Come on a short tour of the venue with a veteran Write the Docs attendee so you'll know where everything is and everything you can take part in.
+
+.. Tuesday check in? TODO
 
 Pro Tips
 --------
@@ -37,20 +43,20 @@ Pro Tips
    Figure out which talks you want to see the most. Spread out your time
    between talks, unconference sessions, networking, and breaks.
 -  Speaking of breaks--conferences are exhilarating, but can also be
-   exhausting. Give your brain a break! Grab a quiet spot in Lola's Room
+   exhausting. Give your brain a break! Grab a spot in the quiet room
    or take a quick walk. Play a board game on your lunch break. Come
    back invigorated.
--  Starting Monday morning, check the unconference schedule in Lola's
-   Room to see if there are any sessions you are interested in
+-  Starting Monday morning, check the unconference schedule in the unconference
+   room to see if there are any sessions you are interested in
    attending. New sessions are added all the time, so check back
    periodically.
 -  Eat! You can use the energy.
 -  Are you looking for a job or is there an opening at your company?
-   Check out the job board in Lola's Room.
+   Check out the job board in the unconference room.
 
 
-FAQs
-----
+FAQ
+---
 
 .. contents::
    :local:
@@ -58,47 +64,35 @@ FAQs
 **Where is everything?**
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-The conference main stage is in the Crystal Ballroom on the third floor
-at 1332 West Burnside Street.
+The conference main stage is in the Auto Klub on the second floor. The unconference
+takes place directly across the foyer in the adjoining room.
 
-The unconference takes place directly below the Crystal Ballroom, in
-Lola's Room.
-
-Most of the other events take place within a few blocks of the Crystal
-Ballroom:
-
--  Writing Day documentation sprints happen at the CENTRL office at 1335
-   NW Everett Street, which is 4 blocks from the conference venue.
--  Write the Docs party is at the Jack Knife, 614 SW 11th Ave.
-
-If you are joining in the hike on Saturday, you'll meet the other hikers
-at the Macleay Park Entrance at 2960 NW Upshur Street. You can take
-public transportation or a taxi there.
+If you are joining in the boat tour on Saturday, you'll meet the other folks
+at the Prague Boats pier no. 5.
 
 **How should I get around?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Portland is a very walk-able town. Most of the events and `the
-   suggested
-   hotels <https://www.writethedocs.org/conf/na/2016/visiting/>`__ are
-   within walking distance of the conference venue, the Crystal
-   Ballroom.
+-  Prague is a very walk-able town. Most of the events are
+   within walking distance of the conference venue.
 -  There are good public transportation options and taxi services. Check
-   out the `Visiting Portland section of the Write the Docs
-   website <https://www.writethedocs.org/conf/na/2016/visiting/>`__ for
+   out the `Visiting Prague section of the Write the Docs
+   website <https://www.writethedocs.org/conf/prague/2018/visiting/>`__ for
    more info.
 
 **How should I dress?**
 ~~~~~~~~~~~~~~~~~~~~~~~
 
--  Portland is a casual-dress town and so is the Write the Docs
+-  Praguers have a very eclectic dress style, which means they dress however
+   they feel! Our documentarians tend to go for a more casual dress at the
    conference. You'll be meeting business colleagues at this conference,
    though, so neat and comfortable are good dress guidelines.
--  If you are going on the `Write the Docs hike on
-   Saturday <https://www.writethedocs.org/conf/na/2016/hike/>`__, be sure
-   to bring appropriate hiking clothes and shoes. This time of year, the
-   Pacific Northwest tends to be muddy or raining with occasional swaths
-   of blue skies. Layering is usually the way to go.
+-  If you are going on the `Write the Docs boat tour on
+   Saturday <https://www.writethedocs.org/conf/prague/2018/outing/>`__, be sure
+   to bring appropriate out-of-doors clothes and shoes. Prague, like most of
+   Europe, experiences some ups and downs in the autumn. The first year we
+   were here we had a heat wave, and last year we got rained on, so you
+   never know! Layering is usually the way to go.
 
 **What will I eat?**
 ~~~~~~~~~~~~~~~~~~~~
@@ -106,25 +100,23 @@ public transportation or a taxi there.
 -  Drinks and food are provided for you on conference days, so you can
    focus on the talks and meeting people and don't have to worry about
    where to get your morning coffee.
--  Coffee, tea, and water are always available in the Crystal Ballroom.
+-  Coffee, tea, and water are always available in the Auto Klub.
    Bring a water bottle to make it easier for you to stay hydrated.
--  Food is provided on Monday and Tuesday in the Crystal Ballroom. There
+-  Food is provided on Sunday, Monday, and Tuesday in the Auto Klub. There
    is a light breakfast, a solid lunch, and snacks on each conference
    day.
--  On Saturday, Sunday, and in the evening on Monday and Tuesday,
-   `explore Portland's amazing food
-   scene <https://www.writethedocs.org/conf/na/2016/visiting/>`__. Invite
-   someone you just met to join you! If you are invited to dinner, say
-   yes! Making connections over dinner is a great way to get to know
-   more people.
--  If you need grocery items, there is a Whole Foods just down the
-   street from the conference venue at 1210 NW Couch St, Portland, OR 97209.
+-  On Saturday and in the evenings on Monday and Tuesday, explore the food
+   options in Prague. Invite someone you just met to join you! If you are
+   invited to dinner, say yes! Making connections over dinner is a great way
+   to get to know more people.
+-  If you need grocery items, there is a BILA supermarket at the Prague train station
+   across the park from Auto Klub.
 
 **Where should I sit?**
 ~~~~~~~~~~~~~~~~~~~~~~~
 
--  The Crystal Ballroom will have round tables next to the main stage
-   and rows of seats behind them.
+-  The Auto Klub will have round tables next to the main stage
+   and rows of seats behind them. There will also be seats in the mezzanine level.
 -  There are no reserved seats; feel free to sit anywhere.
 -  If you can, show up early to the conference each morning to grab a
    seat at one of the round tables. Introducing yourself to your
@@ -133,8 +125,7 @@ public transportation or a taxi there.
 **What should I do during the talks?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Conference talks in the Crystal
-Ballroom <https://www.writethedocs.org/conf/na/2016/speakers/>`__
+`Conference talks at Auto Klub <https://www.writethedocs.org/conf/eu/2017/speakers/>`__
 
 -  The time between talks is for meeting your colleagues or taking a
    break. During the talks, listen and take in as much as you can.
@@ -142,15 +133,15 @@ Ballroom <https://www.writethedocs.org/conf/na/2016/speakers/>`__
    worry if you miss something! All talks are videotaped, so you can
    review them later.
 -  If you have a question during a talk, make a note of it and use it as
-   a conversation starter with the speaker.
+   a conversation starter with the speaker after the talk.
 -  After a talk, feel free to tweet about it with the hashtag
    #writethedocs. Try not to "watch" the conference through Twitter and
    other social media, though. You are attending the conference, so live
    in it as much as you can!
 
-**Unconference in Lola's Room**
+**Unconference**
 
--  Check the schedule posted in Lola's Room for the table number of the
+-  Check the schedule posted in the unconference room for the table number of the
    unconference talk you are interested in. Head to that table and have
    a seat.
 -  The session leader will begin when the group has gathered.
@@ -160,15 +151,15 @@ Ballroom <https://www.writethedocs.org/conf/na/2016/speakers/>`__
 **How do I take part in the unconference?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  The unconference is a set of informal sessions that take place below
-   the Crystal Ballroom in Lola's Room on Monday and Tuesday afternoons.
+-  The unconference is a set of informal sessions that take place across the foyer
+   from the main stage on Monday afternoon and Tuesday morning.
    `Unconference talks focus on exchanges of ideas between
-   participants. <https://www.writethedocs.org/conf/na/2016/unconference/>`__
+   participants. <https://www.writethedocs.org/conf/eu/2017/unconference/>`__
 -  You can attend unconference sessions, or, if you have an idea for a
    session, you can lead one.
 -  To lead an unconference session, post a summary of your topic on a
    post-it note in an empty spot on the unconference schedule. Make your
-   way down to Lola's Room a few minutes early to introduce yourself to
+   way to the unconference room a few minutes early to introduce yourself to
    anyone who is attending your session. Once the group has gathered,
    introduce your topic and get the discussion going.
 
@@ -185,7 +176,7 @@ Ballroom <https://www.writethedocs.org/conf/na/2016/speakers/>`__
    will be a sign-up sheet at registration.
 -  If you are interested in giving a lightning talk, be prepared! There
    is a great guide
-   `here <https://www.writethedocs.org/conf/na/2016/lightning-talks/?highlight=re>`__.
+   `here <https://www.writethedocs.org/conf/eu/2017/lightning-talks/?highlight=re>`__.
 
 **How do I make the most out of this conference?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -194,14 +185,14 @@ Attend the Welcome Wagon events. Make connections with other first-time
 attendees and get advice from seasoned pros.
 
 The most important part of this conference (and any conference) is the
-people you meet. Set a goal for yourself to meet a few, new people. Here
+people you meet. Set a goal for yourself to meet a few new people. Here
 are some tips:
 
 -  Find out who is attending the conference before you get there. Join
-   the `Write the Docs Slack <https://writethedocs.slack.com/>`__, follow
+   the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow
    the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
    and review the `list of
-   speakers <http://http//www.writethedocs.org/conf/na/2016/speakers/>`__.
+   speakers </conf/{{shortcode}}/{{year}}/speakers/>`__.
 -  Figure out which companies will be represented at the conference. If
    you see a job post you're interested in, you might want to ask them a
    few questions. This might be a great time to better understand what
@@ -225,12 +216,12 @@ are some tips:
    them and questions for them. Either reach out by email before the
    conference to set up a meeting onsite or find them at the conference.
 -  Attend the Welcome Wagon events.
--  Join in the Saturday hike.
+-  Join in the Saturday boat tour.
 -  Attend the Sunday writing day and volunteer to help on one of the projects being worked on.
 -  Check out the talk schedule in advance and make note of the talks you
    don't want to miss.
--  In the morning, or when you need a break during the day, head down to
-   Lola's Room to check out the unconference schedule. Make note of any
+-  In the morning, or when you need a break during the day, head over to
+   the unconference room to check out the unconference schedule. Make note of any
    unconference talks you want to attend.
 -  Check out the lightning talks, and get excited about presenting one
    at next year's conference.
@@ -245,39 +236,16 @@ are some tips:
 -  Attend the Sunday writing day with your own project. Ask for help!
 -  Check out the talk schedule in advance and make note of the talks you
    don't want to miss.
--  In the morning, or when you need a break during the day, head down to
-   Lola's Room to check out the unconference schedule. Make note of any
+-  In the morning, or when you need a break during the day, head over to
+   the unconference room to check out the unconference schedule. Make note of any
    unconference talks you want to attend.
 -  Sign up for a lightning talk or lead an unconference session.
-
-.. _say-hello-na2016:
-
-Say hello
----------
-
-We'd love to say hi when you're at the conference.
-Come find us and ask any questions,
-or just chat about the conference!
-
-.. container:: crew-images
-
-   .. figure:: /_static/img/crew/leona.jpg
-      :height: 250px
-
-      Leona
-
-   .. figure:: /_static/img/crew/christy.jpg
-      :height: 250px
-
-      Christy
-
 
 Thanks
 ------
 
 This document was inspired by other conferences doing great work in this area.
-In particular,
-these two documents were heavily used as a reference:
+In particular, these two documents were heavily used as a reference:
 
 * http://doubleyouraudience.com/microconf-guide/
 * http://www.pydanny.com/beginners-guide-pycon-2014.html

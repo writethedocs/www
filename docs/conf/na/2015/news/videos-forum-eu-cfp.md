@@ -12,10 +12,10 @@ We have a couple of updates and reminders to help you to keep in touch with the 
 ## European Call for Proposals and Ticket Sales
 
 If you loved our North American event,
-don't forget that we have a [European conference](http://www.writethedocs.org/conf/eu/2015/) as well.
+don't forget that we have a [European conference](https://www.writethedocs.org/conf/eu/2015/) as well.
 Join us in Prague at the end of August.
 
-The [Call for Proposals](http://www.writethedocs.org/conf/eu/2015/cfp/) ends today, and early bird tickets are already sold out. 
+The [Call for Proposals](https://www.writethedocs.org/conf/eu/2015/cfp/) ends today, and early bird tickets are already sold out. 
 We expect this event to sell out also,
 so don't wait to submit a talk or buy tickets.
 
@@ -38,14 +38,14 @@ We hope you continue to build the community and keep in touch with other documen
 
 Keep us posted if you start one (or encounter a new one) so that we can spread the word.
 
-* North America Current [Meetups](http://www.writethedocs.org/meetups/)
+* North America Current [Meetups](https://www.writethedocs.org/meetups/)
 * Your City Here -- [Start a meetup!](https://www.youtube.com/watch?v=ZwQ8Kd48d0w)
 
 ## Videos
 
 We have [videos](https://www.youtube.com/playlist?list=PLmV2D6sIiX3UW1kPWlhzyo4lr6e3US6re) of every talk from our conference this year. If you missed something, you can always catch it on video.
 
-Check out previous talks, too. We've also recorded [every talk](http://www.writethedocs.org/videos/) at Write the Docs from every year.
+Check out previous talks, too. We've also recorded [every talk](https://www.writethedocs.org/videos/) at Write the Docs from every year.
 
 
 ## 2016

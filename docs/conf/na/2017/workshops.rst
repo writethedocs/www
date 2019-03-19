@@ -23,7 +23,7 @@ What can I learn in the workshops?
 
 This year we have two workshops, one that covers writing related topics and one that covers development related topics.
 
-For specific information about this year's topics, see the `Sessions page <http://www.writethedocs.org/conf/na/2017/speakers/>`_. The workshop sessions are labeled with a "Workshop" prefix.
+For specific information about this year's topics, see the `Sessions page <https://www.writethedocs.org/conf/na/2017/speakers/>`_. The workshop sessions are labeled with a "Workshop" prefix.
 
 Based on feedback and demand, we might increase the number of workshops in the following years. Please let us know how we can develop this activitiy!
 

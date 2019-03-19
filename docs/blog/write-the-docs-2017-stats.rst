@@ -14,7 +14,7 @@ so that we can look back and see how we've changed as a community.
 We continue to grow and expand,
 and we're glad to have you along with us!
 
-.. note:: You can also read our post from `2016 <http://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/>`_.
+.. note:: You can also read our post from `2016 <https://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/>`_.
 
 Conferences
 ===========

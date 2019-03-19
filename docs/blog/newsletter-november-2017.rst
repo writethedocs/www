@@ -10,8 +10,8 @@ Happy November everybody! Kelly O. here, reporting live from the coffee shop tha
 
 In the next few weeks, the organization team will be:
 
-- Announcing the call for proposals (and looking for volunteers) for next year's Portland conference! (If you're not signed up to the conference mailing list, you can do so  `here <http://www.writethedocs.org/newsletter/>`_.)
-- Wishing we were all going to be in Australia for their `Write the Docs Day mini-conference <http://www.writethedocs.org/conf/au/2017/>`_.
+- Announcing the call for proposals (and looking for volunteers) for next year's Portland conference! (If you're not signed up to the conference mailing list, you can do so  `here <https://www.writethedocs.org/newsletter/>`_.)
+- Wishing we were all going to be in Australia for their `Write the Docs Day mini-conference <https://www.writethedocs.org/conf/au/2017/>`_.
 - Looking on excitedly as API the Docs holds `their second one-day event in Amsterdam <http://apithedocs.org/>`_.
 - Musing on how we got so lucky as to have `almost a dozen meetups this month <#upcoming-community-events>`_ in a cities across the western hemisphere.
 
@@ -83,7 +83,7 @@ Upcoming community events
 
 November is a big-ticket month for the events! Not only do we have a cavalcade of meetups to share, but we also have two community events on the books.
 
-**Write the Docs Day Australia** is happening in Melbourne on the 24th, and you can still snag a ticket here: `http://www.writethedocs.org/conf/au/2017/ <http://www.writethedocs.org/conf/au/2017/>`_
+**Write the Docs Day Australia** is happening in Melbourne on the 24th, and you can still snag a ticket here: `https://www.writethedocs.org/conf/au/2017/ <https://www.writethedocs.org/conf/au/2017/>`_
 
 **API The Docs** is holding their second event in Amsterdam on December 4th, and their sign up is still open here: `http://apithedocs.org/ <http://apithedocs.org/>`_
 
@@ -107,7 +107,7 @@ November 15 - Los Angeles, CA, USA – `Happy Hour/Social Meetup <https://www.me
 
 November 16 – Boston, MA, USA – `Challenges in Large Doc Sets <https://www.meetup.com/Write-the-Docs-BOS/events/244174338/>`_
 
-November 24 – Melbourne, Australia – `Write the Docs Day Australia: One-day mini-conference <http://www.writethedocs.org/conf/au/2017/>`_
+November 24 – Melbourne, Australia – `Write the Docs Day Australia: One-day mini-conference <https://www.writethedocs.org/conf/au/2017/>`_
 
 November 27 – Berlin, Germany – `November Hackup <https://www.meetup.com/Write-The-Docs-Berlin/events/244348754/>`_
 

@@ -63,7 +63,7 @@ These workshops will be ticketed separately. You can buy them at our normal tick
 Ticket Reminder
 ---------------
 
-If you haven't purchased your ticket yet, time hasn't quite run out. Check out the `Tickets <http://www.writethedocs.org/conf/na/2017/tickets/>`_ page for more details.
+If you haven't purchased your ticket yet, time hasn't quite run out. Check out the `Tickets <https://www.writethedocs.org/conf/na/2017/tickets/>`_ page for more details.
 **More than half the tickets are already sold out**, and we expect to sell out before the end of April, so don't wait to get your tickets!
 
 Prague Conference Update
@@ -72,7 +72,7 @@ Prague Conference Update
 In case your proposal wasn't selected for our Portland conference, or if you
 (like some of our friends) were waiting for this announcement, we are happy to
 also launch our `website and ticket sales
-<http://www.writethedocs.org/conf/eu/2017/news/announcing-website-tickets/>`_ for
+<https://www.writethedocs.org/conf/eu/2017/news/announcing-website-tickets/>`_ for
 the conference that will be held on **September 10-12** in Prague, Czech
 Republic.
 

@@ -2,7 +2,7 @@
 
 # Early-Bird Tickets Sell Out, Videos, and Proposal Reminder
 
-The [conference](http://www.writethedocs.org/conf/eu/2015/) is less than 3 months away, and we're happy to see such 
+The [conference](https://www.writethedocs.org/conf/eu/2015/) is less than 3 months away, and we're happy to see such 
 an overwhelmingly positive and supportive response from our documentarians
 all over the world.
 
@@ -12,7 +12,7 @@ draws to a close and ticket sales are in full swing.
 ## Call for Proposals Reminder
 
 If you haven't submitted your proposal yet, you still have until the [Call
-for Proposals](http://www.writethedocs.org/conf/eu/2015/cfp/) ends **Tomorrow, June 15th Midnight CET**.
+for Proposals](https://www.writethedocs.org/conf/eu/2015/cfp/) ends **Tomorrow, June 15th Midnight CET**.
 
 Our community is full of amazing people, and we'd love to have you come and 
 share your experiences with us. We will be announcing the conference program on **July 1st, 2015**.

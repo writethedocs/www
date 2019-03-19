@@ -8,9 +8,9 @@ Announcing Events and Call for Volunteers
 
 The conference is now just under two months away, and we hope you’re getting geared up for an exciting Write the Docs experience in beautiful Prague, Czech Republic.
 
-`Tickets <http://www.writethedocs.org/conf/eu/2017/tickets>`_ are selling quickly – thanks to everyone who has already purchased theirs! We do expect the conference to sell out fully again this year, so hop off that fence you might be sitting on!
+`Tickets <https://www.writethedocs.org/conf/eu/2017/tickets>`_ are selling quickly – thanks to everyone who has already purchased theirs! We do expect the conference to sell out fully again this year, so hop off that fence you might be sitting on!
 
-If you're still debating whether to attend, check out the `Sessions <http://www.writethedocs.org/conf/eu/2017/speakers/>`_ page for the full list of presentations.
+If you're still debating whether to attend, check out the `Sessions <https://www.writethedocs.org/conf/eu/2017/speakers/>`_ page for the full list of presentations.
 
 Events and Activities
 ---------------------
@@ -19,17 +19,17 @@ As always, Write the Docs events are more than just talks. Every year we offer a
 
 Check out what we have in store for you this year in Prague:
 
-- **Boat Tour of Prague, Saturday September 9th**. If you're in town early, you're invited to join us for a 2-hour cruise on the Vltava river, with a relaxed guided tour in English, light snacks, and light drinks included. This activity is priced separately and isn't included with the conference ticket. You can find all the details in our `Boat Tour <http://www.writethedocs.org/conf/eu/2017/boat/>`_ page, or register directly on our `ticket Website <https://ti.to/writethedocs/write-the-docs-eu-2017>`_.
+- **Boat Tour of Prague, Saturday September 9th**. If you're in town early, you're invited to join us for a 2-hour cruise on the Vltava river, with a relaxed guided tour in English, light snacks, and light drinks included. This activity is priced separately and isn't included with the conference ticket. You can find all the details in our `Boat Tour <https://www.writethedocs.org/conf/eu/2017/boat/>`_ page, or register directly on our `ticket Website <https://ti.to/writethedocs/write-the-docs-eu-2017>`_.
 
-- **Writing Day and Welcome Reception, Sunday September 10th**. Before the main conference days, we'll be hosting a `Writing Day <http://www.writethedocs.org/conf/eu/2017/writing-day/>`_  and Welcome Reception before we dive into the main sessions. This is an excellent opportunity to register early, meet your fellow documentarians, learn about and work on interesting documentation projects, and make yourself at home!
+- **Writing Day and Welcome Reception, Sunday September 10th**. Before the main conference days, we'll be hosting a `Writing Day <https://www.writethedocs.org/conf/eu/2017/writing-day/>`_  and Welcome Reception before we dive into the main sessions. This is an excellent opportunity to register early, meet your fellow documentarians, learn about and work on interesting documentation projects, and make yourself at home!
 
-- **Lightning Talks.** One of our favorite traditions, `lightning talks <http://www.writethedocs.org/conf/eu/2017/lightning-talks/>`_ are as entertaining as they are informative. Each block of lightning talks will have 5-6 spots of up to 5 minutes each, both blocks will be after lunch during the main conference days. Sign up on the mornings of the main conference days and prepare for some post-lunch fun.
+- **Lightning Talks.** One of our favorite traditions, `lightning talks <https://www.writethedocs.org/conf/eu/2017/lightning-talks/>`_ are as entertaining as they are informative. Each block of lightning talks will have 5-6 spots of up to 5 minutes each, both blocks will be after lunch during the main conference days. Sign up on the mornings of the main conference days and prepare for some post-lunch fun.
 
-- **Unconference.** Parallel to the afternoon talks, you're welcome to join the `unconference sessions <http://www.writethedocs.org/conf/eu/2017/unconference/>`_. These freestyle sessions are a great opportunity to brainstorm with your fellow documentarians about anything from the latest tooling, the best way to write an email, or how to handle stress and burnout. We have a few great anchor sessions to get your started, but the main sign-up for the unconference slots will be during the conference itself.
+- **Unconference.** Parallel to the afternoon talks, you're welcome to join the `unconference sessions <https://www.writethedocs.org/conf/eu/2017/unconference/>`_. These freestyle sessions are a great opportunity to brainstorm with your fellow documentarians about anything from the latest tooling, the best way to write an email, or how to handle stress and burnout. We have a few great anchor sessions to get your started, but the main sign-up for the unconference slots will be during the conference itself.
 
 - **Social Event.** This year our social event will be held at `Hangar Bar, Dušní 9/9, Praha 1 <https://goo.gl/maps/qDfi6bqyn212>`_, a cool aviation-themed bar in the heart of the old city. The starting time will be 20:00, so you can grab some dinner and decompress after the first conference day. Light snacks and drinks are included while our tab lasts. **Please bring your conference badge**, as entrance is only for conference attendees.
 
-For the full schedule overview including start/end times for all activities, take a look at our `Schedule <http://www.writethedocs.org/conf/eu/2017/schedule/>`_ page.
+For the full schedule overview including start/end times for all activities, take a look at our `Schedule <https://www.writethedocs.org/conf/eu/2017/schedule/>`_ page.
 
 Call for Volunteers
 -------------------
@@ -59,4 +59,4 @@ What's Next?
 ------------
 
 Over the next few weeks we will be populating the presentation slots, stay tuned for the full and final schedule of sessions soon.
-If you're planning your Prague travel and need some orientation help, go ahead and visit out `Visiting Prague <http://www.writethedocs.org/conf/eu/2017/visiting/>`_ page.
+If you're planning your Prague travel and need some orientation help, go ahead and visit out `Visiting Prague <https://www.writethedocs.org/conf/eu/2017/visiting/>`_ page.
