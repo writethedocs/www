@@ -62,4 +62,4 @@ List of talks from 2017
 
 .. datatemplate::
    :source: /_data/2018.prague.speakers.yaml
-   :template: 2018/speakers-simple.rst
+   :template: 2018/speakers-simple-list.rst
