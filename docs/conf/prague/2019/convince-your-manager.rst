@@ -62,4 +62,4 @@ List of talks from {{year-1}}
 
 .. datatemplate::
    :source: /_data/{{year-1}}.{{shortcode}}.speakers.yaml
-   :template: {{year-1}}/speakers-simple-list.rst
+   :template: {{year}}/speakers-simple-list.rst
