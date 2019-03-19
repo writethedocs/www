@@ -71,7 +71,7 @@ A few comments from the conference:
 Code of Conduct transparency report
 ===================================
 
-As with any Write the Docs event, this conference was covered by our `community Code of Conduct <http://www.writethedocs.org/code-of-conduct/>`__.
+As with any Write the Docs event, this conference was covered by our `community Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`__.
 We aim to be as transparent with CoC incidents and enforcement as we can.
 
 To ensure that our CoC was visible and accessible, we took a number of specific steps:

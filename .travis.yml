@@ -9,6 +9,11 @@ install:
  - eval "$(gimme 1.8)"
  - go get github.com/errata-ai/vale
  - sudo apt-get install libcurl3-dev
+# Safelist all Greenkeeper.io branches https://greenkeeper.io/faq.html
+branches:
+  only:
+    - master
+    - /^greenkeeper.*$/
 script:
  - tox
 env:

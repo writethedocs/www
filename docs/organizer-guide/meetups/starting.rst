@@ -146,7 +146,7 @@ Figure out your approximate ratio between RSVP / attendees. This might be around
 Speakers:
 ~~~~~~~~~
 
-* Look for previous and future speakers at `Write the Docs conferences <http://www.writethedocs.org/conf/>`__.
+* Look for previous and future speakers at `Write the Docs conferences <https://www.writethedocs.org/conf/>`__.
 * Scan other conferences local speakers.
 * Review other meetups and conferences for speakers of interest, in areas such as APIs, Agile, software languages, and more.
 * Speakers are often willing to reframe their talks from a documentation point of view.
@@ -191,7 +191,7 @@ If You Can't Find a Local Speaker
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If you can't find a local speaker, consider screening a popular talk from one of the
-`Write the Docs conferences <http://www.writethedocs.org/videos/>`_ and inviting the conference presenter to call in for
+`Write the Docs conferences <https://www.writethedocs.org/videos/>`_ and inviting the conference presenter to call in for
 a live Q & A session. Both the Boulder and Austin meetups have done well with this format.
 
  * `So you need to document an API <https://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/events/232962552/>`_

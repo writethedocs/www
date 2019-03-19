@@ -6,20 +6,20 @@
 Announcing our Website and Ticket Sales
 =======================================
 
-We're happy to officially announce `Write the Docs Prague 2017 <http://www.writethedocs.org/conf/eu/2017/>`_!
+We're happy to officially announce `Write the Docs Prague 2017 <https://www.writethedocs.org/conf/eu/2017/>`_!
 It’s shaping up to be another wonderful year full of great conversations and interesting talks.
 
-Today we are launching our `website <http://www.writethedocs.org/conf/na/2017/>`_
-and `ticket sales <http://www.writethedocs.org/conf/na/2017/tickets/>`_.
+Today we are launching our `website <https://www.writethedocs.org/conf/na/2017/>`_
+and `ticket sales <https://www.writethedocs.org/conf/na/2017/tickets/>`_.
 
-Since the `Portland Call for Proposals <http://www.writethedocs.org/conf/na/2017/cfp/>`__ is
+Since the `Portland Call for Proposals <https://www.writethedocs.org/conf/na/2017/cfp/>`__ is
 still in full swing, we are holding the Prague one until the Portland sessions are announced.
 
 Website
 -------
 
-If you noticed the shiny new `Portland conference website <http://www.writethedocs.org/conf/na/2017/>`_,
-we're happy to say that the `Prague conference website <http://www.writethedocs.org/conf/na/2017/>`_
+If you noticed the shiny new `Portland conference website <https://www.writethedocs.org/conf/na/2017/>`_,
+we're happy to say that the `Prague conference website <https://www.writethedocs.org/conf/na/2017/>`_
 now also provides a friendlier, more navigable online home for our event.
 
 The website includes (hopefully) all the information you need to plan your visit to Prague,
@@ -32,7 +32,7 @@ or emailing us at prague@writethedocs.org if you see any issues!
 Tickets
 -------
 
-You can see our 2017 ticket prices on our `Tickets <http://www.writethedocs.org/conf/eu/2017/tickets/>`_ page.
+You can see our 2017 ticket prices on our `Tickets <https://www.writethedocs.org/conf/eu/2017/tickets/>`_ page.
 Since last year was the first time at Auto Klub, we capped registrations at 200 people, but this year
 we are happy to increase the capacity to allow even more happy documentarians to attend!
 
@@ -49,7 +49,7 @@ price tickets or volunteer options.
 As with the previous years, we have tiered pricing to make it fair for
 everyone.
 Please buy the ticket that best fits your situation.
-Tickets are `on sale now <http://www.writethedocs.org/conf/eu/2017/tickets/>`_.
+Tickets are `on sale now <https://www.writethedocs.org/conf/eu/2017/tickets/>`_.
 
 Conclusion
 ----------

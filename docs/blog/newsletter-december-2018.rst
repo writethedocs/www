@@ -9,11 +9,11 @@ Hi, everyone, and welcome to the last newsletter of the year!
 
 What a packed year it's been - with *four* conferences, and more meetups than I'm going to try to count. If you missed our most recent conference, Write the Docs Australia, there are tons of ways to catch up:
 
-- Swapnil's `blog post recap <http://www.writethedocs.org/conf/australia/2018/news/thanks-recap/>`_ 
+- Swapnil's `blog post recap <https://www.writethedocs.org/conf/australia/2018/news/thanks-recap/>`_ 
 - A lovely `playlist of all the videos <https://www.youtube.com/watch?v=N13_FP2NkSk&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt>`_ 
 - The fabulous `photo album <https://www.flickr.com/photos/writethedocs/albums/72157697741784910>`_
 
-Looking forward to next year: the Call for Proposals for Write the Docs Portland has just gone up! It's open until **midnight PST, 17 January 2019**, so get cracking and send us all your brilliant talk ideas. For full details, here's the `announcement post <http://www.writethedocs.org/conf/portland/2019/news/welcome/>`_. 
+Looking forward to next year: the Call for Proposals for Write the Docs Portland has just gone up! It's open until **midnight PST, 17 January 2019**, so get cracking and send us all your brilliant talk ideas. For full details, here's the `announcement post <https://www.writethedocs.org/conf/portland/2019/news/welcome/>`_. 
 
 The newsletter team is off next month for Christmas (it's snowing here already and I am *super* excited); we'll be back in your inboxes in February. Happy holidays, everyone!
 
@@ -53,7 +53,7 @@ Some participants thought the idea of a career path is tied to leadership: you d
 
 Career ladders vary a lot. Bigger companies may have different "tracks", for those who want to move into management and those who want to stay as individual contributors. In smaller companies, you might struggle to become a tech writer manager if the company doesn't need a large docs team.
 
-It's important that ladders have well-defined levels. For example, if you move up after a fixed number of years, the change isn't so meaningful. For better ideas on progression, take a look at `junior vs senior technical writers <http://www.writethedocs.org/blog/newsletter-june-2018/#junior-vs-senior-technical-writers>`_.
+It's important that ladders have well-defined levels. For example, if you move up after a fixed number of years, the change isn't so meaningful. For better ideas on progression, take a look at `junior vs senior technical writers <https://www.writethedocs.org/blog/newsletter-june-2018/#junior-vs-senior-technical-writers>`_.
 
 Ultimately, your career is a combination of the path you want and the ladders available: it's a collaboration between you and your company.
 

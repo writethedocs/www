@@ -15,7 +15,7 @@ If you miss this year's conference in Portland, don't fret. We've just [announce
 our [European conference][eu-conf], taking place this year in Prague from August 31st to
 September 1st!
 
-[eu-announce]: http://www.writethedocs.org/conf/eu/2015/news/announcing-eu-2015/
+[eu-announce]: https://www.writethedocs.org/conf/eu/2015/news/announcing-eu-2015/
 [eu-conf]: http://writethedocs.org/conf/eu/2015/
 
 We're putting the finishing touches on the conference,

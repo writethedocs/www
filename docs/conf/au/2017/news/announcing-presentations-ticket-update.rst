@@ -10,7 +10,7 @@ We're excited to share with you the lineup for the 2017 Australian day event. Ne
 
 The topics this year cover a vast range of subjects, points of view, and real-world case studies. We hope that whatever your role may be, you can find something to relate to.
 
-You'll find more info and links to the full talk abstracts down below. You can also visit the `Sessions <http://www.writethedocs.org/conf/au/2017/speakers/>`_ page for the full list of presentations.
+You'll find more info and links to the full talk abstracts down below. You can also visit the `Sessions <https://www.writethedocs.org/conf/au/2017/speakers/>`_ page for the full list of presentations.
 
 Presentations
 -------------

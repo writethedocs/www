@@ -41,10 +41,10 @@ extensions = [
     'sphinxcontrib.datatemplates',
     'recommonmark',
 ]
-blog_baseurl = 'http://www.writethedocs.org/'
+blog_baseurl = 'https://www.writethedocs.org/'
 blog_path = 'blog/archive'
 blog_authors = {
-    'Team': ('Write the Docs Team', 'http://www.writethedocs.org/team/'),
+    'Team': ('Write the Docs Team', 'https://www.writethedocs.org/team/'),
     'eric': ('Eric Holscher', 'http://ericholscher.com'),
     'kelly': ("Kelly O'Brien", 'https://twitter.com/OBrienEditorial'),
 }

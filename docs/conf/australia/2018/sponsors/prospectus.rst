@@ -15,7 +15,7 @@ Write the Docs Australia 2018 Sponsorship
 Concept
 =======
 
-Write the Docs Australia (http://www.writethedocs.org/conf/australia/2018/) is a
+Write the Docs Australia (https://www.writethedocs.org/conf/australia/2018/) is a
 two day conference focusing on documentation systems, tech writing theory,
 and information delivery.
 

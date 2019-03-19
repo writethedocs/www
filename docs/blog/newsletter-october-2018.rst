@@ -12,7 +12,7 @@ Kelly O. here, wishing you a happy October! I hope the change of season, whether
 
 Also, while every single one of our lightning talks this year was stellar (they're included in the playlist above), I would be remiss if I didn't call out what was one of the best moments of any Write the Docs conference I've been to. On Tuesday afternoon, a particularly intrepid group of attendees got up on stage and delivered a lightning talk in the form of a documentation-themed, a capella cover of Michael Jackson's 'Man in the Mirror'. I cried from laughing (and also, if I'm honest, from community feels). `Don't miss it. <https://youtu.be/3U48bgbccj0>`_
 
-If you're dying to get in on a Write the Docs conference before the end of the year, you have one more chance! Our `Australian conference <http://www.writethedocs.org/conf/australia/2018/>`_ is coming up November 15-16 in Melbourne, and we would love to have you join us! Check out the `conference website <http://www.writethedocs.org/conf/australia/2018/>`_ to peruse the great line up of speakers and to buy your ticket!
+If you're dying to get in on a Write the Docs conference before the end of the year, you have one more chance! Our `Australian conference <https://www.writethedocs.org/conf/australia/2018/>`_ is coming up November 15-16 in Melbourne, and we would love to have you join us! Check out the `conference website <https://www.writethedocs.org/conf/australia/2018/>`_ to peruse the great line up of speakers and to buy your ticket!
 
 Before we jump into stories, I just wanted to say – as this my last issue – thank you all so much for letting me take up space in your inboxes over the last couple of years! It's been a real pleasure. We have an excellent editor lined up to take the reins, but I'll let her introduce herself next issue. Rest assured, you're in great hands. ;)
 
@@ -126,4 +126,4 @@ October 25 – Remote (Australia time) – `Remote: Teaching engineers about con
 
 November 6 – Ottawa, Alberta, Canada – `Monthly Ottawa Shopify Meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/254735859/>`_
 
-**November 15 – Melbourne, Australia –** `Write the Docs Australia <http://www.writethedocs.org/conf/australia/2018/>`_
+**November 15 – Melbourne, Australia –** `Write the Docs Australia <https://www.writethedocs.org/conf/australia/2018/>`_

@@ -7,14 +7,14 @@ Good day to you, fellow documentarians!
 
 The conference is now a little over three months away, so we hope you’re getting geared up for another inimitable Write the Docs experience in lovely Portland, Oregon!
 
-`Tickets <http://www.writethedocs.org/conf/na/2017/tickets>`_ are selling quickly – thanks to everyone who has already purchased theirs! We do expect the conference to sell out fully again this year, so don't drag your heels!
+`Tickets <https://www.writethedocs.org/conf/na/2017/tickets>`_ are selling quickly – thanks to everyone who has already purchased theirs! We do expect the conference to sell out fully again this year, so don't drag your heels!
 
 Submit your talk by Friday
 --------------------------
 
 Although the deadline is fast approaching, there is still time to submit a talk proposal for Write the Docs North America! We'll be accepting proposals until Friday February 10th at Midnight PST.
 
-Also, if you're interested in pitching a talk, but you need some ideas or guidance, check out our `Call for Proposals <http://www.writethedocs.org/conf/na/2017/cfp/>`_ page. If you've got an idea, but you're having a hard time getting your proposal to come together, you can always ask for feedback on Slack. Your fellow documentarians are there to help!
+Also, if you're interested in pitching a talk, but you need some ideas or guidance, check out our `Call for Proposals <https://www.writethedocs.org/conf/na/2017/cfp/>`_ page. If you've got an idea, but you're having a hard time getting your proposal to come together, you can always ask for feedback on Slack. Your fellow documentarians are there to help!
 
 We can't wait to see your submissions! We'll be reviewing all the talk proposals later this month, and announcing the full conference schedule in early March.
 

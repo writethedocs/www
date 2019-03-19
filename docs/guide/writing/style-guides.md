@@ -1,6 +1,6 @@
 # Style Guides
 
-A style guide is a set of standards for the writing and design of content, defining the style to be used in communication within a particular organization. Basically, style guides are put together to clarify [the way a group of people talk and write about the things they do](http://www.writethedocs.org/style-guide/). Think of authoring best practices.
+A style guide is a set of standards for the writing and design of content, defining the style to be used in communication within a particular organization. Basically, style guides are put together to clarify [the way a group of people talk and write about the things they do](https://www.writethedocs.org/style-guide/). Think of authoring best practices.
 
 If you happen to have a background in academia or journalism, you will probably be familiar the [AP stylebook](https://en.wikipedia.org/wiki/AP_Stylebook) or the [Chicago manual of style](http://www.chicagomanualofstyle.org/book/ed17/frontmatter/toc.html). Those are great resources for writing in general, particularly for grammar and syntax, but if you're reading this page chances are you are considering style in the context of technical documentation.
 
