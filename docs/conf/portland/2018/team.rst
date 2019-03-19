@@ -80,7 +80,7 @@ Primary Roles
 -------------
 
 * **Conference chair** - Eric Holscher
-* **Code of conduct response** - See `code of conduct <http://www.writethedocs.org/code-of-conduct/#staff-contact-information>`_ page
+* **Code of conduct response** - See `code of conduct <https://www.writethedocs.org/code-of-conduct/#staff-contact-information>`_ page
 * **Communication chair** - Mikey Ariel
 * **Emcee** - Nikolas Blanchet
 * **Explore Portland coordinators** - Mo Nishiyama and Alicia Duncan

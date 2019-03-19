@@ -29,7 +29,7 @@ Inline markup for font styles is similar to MarkDown:
 * Use one asterisk (``*text*``) for italics
 * Use two asterisks (``**text**``) for bolding
 * Use two backticks (````text````) for code samples.
-* Links to external sites contain the link text and a bracketed URL in backticks, followed by an underscore: ```Link to Write the Docs <http://www.writethedocs.org/>`_``.
+* Links to external sites contain the link text and a bracketed URL in backticks, followed by an underscore: ```Link to Write the Docs <https://www.writethedocs.org/>`_``.
 
 Headers
 ~~~~~~~~~~~~~~~~~~~

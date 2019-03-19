@@ -76,11 +76,11 @@ Upcoming community events
 *************************
 
 **EU CONFERENCE COUNTDOWN: Just a few days left!**
-We're so excited that the conference is almost here! If you'll be joining us (or even if you just want to conf vicariously), have a look at `our most recent pre-conference update  <http://www.writethedocs.org/conf/eu/2017/news/2week-info/>`_!
+We're so excited that the conference is almost here! If you'll be joining us (or even if you just want to conf vicariously), have a look at `our most recent pre-conference update  <https://www.writethedocs.org/conf/eu/2017/news/2week-info/>`_!
 
 **Upcoming Events**
 
-September 10-12 – Prague, Czech Republic – `Write the Docs Conference Prague <http://www.writethedocs.org/conf/eu/2017/>`_
+September 10-12 – Prague, Czech Republic – `Write the Docs Conference Prague <https://www.writethedocs.org/conf/eu/2017/>`_
 September 19 – Cambridge, UK – `Prague Conference Share & Tell (Cambridge)  <https://www.meetup.com/Write-The-Docs-Cambridge/events/240634962/>`_
 September 19 – London, UK – `Prague Conference Share & Tell (London) <https://www.meetup.com/Write-The-Docs-London/events/243010607/>`_
 

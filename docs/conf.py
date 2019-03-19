@@ -32,8 +32,8 @@ exclude_patterns = [
 on_rtd = os.environ.get('READTHEDOCS') == 'True'
 on_netlify = os.environ.get('BUILD_VIDEOS') == 'True'
 on_travis = os.environ.get('TRAVIS') == 'True'
-if not on_rtd and not on_netlify and not on_travis:
-    exclude_patterns.append('videos')
+#if not on_rtd and not on_netlify and not on_travis:
+#    exclude_patterns.append('videos')
 REWRITE_FEED = False
 
 extensions = [
@@ -41,10 +41,10 @@ extensions = [
     'sphinxcontrib.datatemplates',
     'recommonmark',
 ]
-blog_baseurl = 'http://www.writethedocs.org/'
+blog_baseurl = 'https://www.writethedocs.org/'
 blog_path = 'blog/archive'
 blog_authors = {
-    'Team': ('Write the Docs Team', 'http://www.writethedocs.org/team/'),
+    'Team': ('Write the Docs Team', 'https://www.writethedocs.org/team/'),
     'eric': ('Eric Holscher', 'http://ericholscher.com'),
     'kelly': ("Kelly O'Brien", 'https://twitter.com/OBrienEditorial'),
 }

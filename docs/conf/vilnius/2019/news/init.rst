@@ -6,7 +6,7 @@
 Announcing Write the Docs Vilnius 2019
 ======================================
 
-Welcome to the official launch of the first `Write the Docs Vilnius <http://www.writethedocs.org/conf/vilnius/2019/>`_!
+Welcome to the official launch of the first `Write the Docs Vilnius <https://www.writethedocs.org/conf/vilnius/2019/>`_!
 
 We are excited to announce this new event, led by a group of talented and dedicated documentarians in **Vilnius, Lithuania**. The 2-day event will be held on **2-3 June, 2019**, and will include:
 
@@ -33,7 +33,7 @@ Sponsorship
 We try to keep ticket prices low for all our events, to make sure that they are accessible and inclusive.
 This is possible thanks to organizations that support our community by sponsoring our events.
 
-Check out the `Sponsorship Prospectus <http://www.writethedocs.org/conf/vilnius/2019/sponsors/prospectus/>`_ to learn about sponsorship levels, pricing, and perks.
+Check out the `Sponsorship Prospectus <https://www.writethedocs.org/conf/vilnius/2019/sponsors/prospectus/>`_ to learn about sponsorship levels, pricing, and perks.
 
 Stay tuned
 ----------

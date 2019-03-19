@@ -22,7 +22,7 @@ but that doesn't mean things are over!
 We'll be having another North American and European conference next year.
 
 We're always looking for folks who want help us organize events.
-We have worked to document the [roles](http://www.writethedocs.org/organizer-guide/confs/event-roles/) that are essential to running a great conference.
+We have worked to document the [roles](https://www.writethedocs.org/organizer-guide/confs/event-roles/) that are essential to running a great conference.
 We could use a few folks who are interested in lending a hand to make the event happen,
 so please let us know if that's you!
 
@@ -55,7 +55,7 @@ The Write the Docs Slack has really taken off this year! Our general Slack chann
 
 ## Meetups
 
-We hope you continue to build the community and keep in touch with other documentarians in your hometown. In this spirit, we have a number of meetups in cities across the world. If you don't see your city [listed](http://www.writethedocs.org/meetups/), consider [starting](http://www.writethedocs.org/organizer-guide/meetups/starting/) a meetup! 
+We hope you continue to build the community and keep in touch with other documentarians in your hometown. In this spirit, we have a number of meetups in cities across the world. If you don't see your city [listed](https://www.writethedocs.org/meetups/), consider [starting](https://www.writethedocs.org/organizer-guide/meetups/starting/) a meetup! 
 
 Keep us posted if you start one (or encounter a new one) so that we can spread the word.
 

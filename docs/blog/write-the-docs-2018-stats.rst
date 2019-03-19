@@ -23,8 +23,8 @@ We hope it gives you a sense of the state of the community.
    
    You can also read our posts from 2016_ and 2017_.
 
-.. _2017: http://www.writethedocs.org/blog/write-the-docs-2017-stats/
-.. _2016: http://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/
+.. _2017: https://www.writethedocs.org/blog/write-the-docs-2017-stats/
+.. _2016: https://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/
 
 Conferences
 -----------

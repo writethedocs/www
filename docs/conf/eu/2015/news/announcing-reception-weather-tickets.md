@@ -7,7 +7,7 @@ for you to prepare for the big day.
 
 ### Talk Schedule is Published
 
-The [final talk schedule](http://www.writethedocs.org/conf/eu/2015/schedule/) for the
+The [final talk schedule](https://www.writethedocs.org/conf/eu/2015/schedule/) for the
 conference is now live on our website. We are excited to see and hear our wonderful
 speakers talk about all things docs!
 
