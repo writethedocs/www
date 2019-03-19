@@ -33,11 +33,7 @@ Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, an
 
 Come on a short tour of the venue with a veteran Write the Docs attendee so you'll know where everything is and everything you can take part in.
 
-**Welcome Wagon Check-In**
-
-*{{date.day_four.dotw}}, {{date.month}} {{date.day_four.date}} at 9:15 near the registration desk at Auto-Klub*
-
-Meet back up with the Welcome Wagon and fellow first-timers to check-in about how the conference is going for you. Ask any questions you have, pass on stories from your first day, and let the Welcome Wagon know if there is anything you need to make your second day as successful as your first one.
+.. Tuesday check in? TODO
 
 Pro Tips
 --------
