@@ -34,7 +34,7 @@ Christy Lutz
 ~~~~~~~~~~~~
 
 {% include "bios/christy.rst" %}
-    
+
 Rose Williams
 ~~~~~~~~~~~~~
 
@@ -67,7 +67,7 @@ Primary Roles
 
 * **Conference chair** - Eric Holscher
 * **Conference co-chair** - *TBD*
-* **Code of conduct response** - See `code of conduct <https://www.writethedocs.org/code-of-conduct/#staff-contact-information>`_ page
+* **Code of conduct response** - See `code of conduct </code-of-conduct/#reporting-and-contact-information>`_ page
 * **Speaker coordinator** - Samuel Wright
 * **Unconference coordinator** - Jennifer Rondeau & Hillary Frayley
 * **Lightning Talk coordinator** - Rose Williams
@@ -85,4 +85,3 @@ Primary Roles
 * **Social media coordinator** - *TBD*
 
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
-
