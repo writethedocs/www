@@ -35,6 +35,8 @@ on_travis = str(os.environ.get('TRAVIS')).lower() == 'true'
 if not on_rtd and not on_netlify and not on_travis:
     print('EXCLUDING VIDEO PATHS. Video links will not work.')
     exclude_patterns.append('videos')
+else:
+    print('BUILDING VIDEOS. All video links should work.')
 REWRITE_FEED = False
 
 extensions = [
