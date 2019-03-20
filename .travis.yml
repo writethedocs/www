@@ -4,6 +4,7 @@ python:
 before_install:
   - export GOPATH=$HOME/golang
   - export PATH=$PATH:$GOPATH/bin
+  - export BUILD_VIDEOS=True
 install:
  - pip install tox-travis
  - eval "$(gimme 1.8)"
