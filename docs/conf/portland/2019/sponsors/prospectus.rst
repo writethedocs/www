@@ -16,7 +16,7 @@ Sponsorship Prospectus
 Concept
 =======
 
-Write the Docs (http://www.writethedocs.org/) is a
+Write the Docs (https://www.writethedocs.org/) is a
 **three day conference** focusing on documentation systems, tech writing
 theory, and information delivery.
 
@@ -39,9 +39,11 @@ experience again this year, and make it better than ever.
 Demographics
 ============
 
-We hold two conferences yearly, one in Portland, USA in May, and one in
-Prague, Europe in September. Attendence is approximately 400 in the
-USA and 250 in Europe, and we expect both conferences to sell out.
+We hold multiple conferences yearly:
+
+* One in the United States in the spring
+* One in Europe in the fall
+* One in Australia in the winter
 
 Our audience is made up of:
 
@@ -50,6 +52,10 @@ Our audience is made up of:
 - Support Staff (15%)
 - Managers (10%)
 - Community Contributors, Enthusiasts & Other Folks (10%)
+
+Over 75% of our attendees represent their company at the event.
+Almost all attendees are from tech companies,
+such as Google or Microsoft.
 
 Why Sponsor
 ===========
@@ -179,7 +185,7 @@ and many of those people will come to our job fair to look for new roles and pos
 
 **$1,000** (a la carte price, also included or discounted with other sponsorship packages)
 
-- **Logistics**: The Job Fair will be Tuesday morning in Lola's Room. It will run from 9:30am-11:30pm. You can set up from 8:30am.
+- **Logistics**: The Job Fair will be Tuesday morning in Lola's Room. It will run from 9:30am-11:30am. You can set up from 8:30am.
 
 - **Layout**: Every company participating in the Job Fair will have a six-foot table and two chairs reserved for them. We do not use booths during the Job Fair. Giveaways/flyers are welcome, but please make sure everything fits on your alloted table.
 
@@ -257,6 +263,15 @@ How do I use get my free tickets?
 ---------------------------------
 
 You should have recieved a unique URL with a discount code for your free sponsorship tickets. We are happy to send it over again, just ask!
+
+How do I use my job postings?
+-----------------------------
+
+You can post your jobs to our `job board <https://jobs.writethedocs.org/>`_.
+You will be given a discount code that will let you post them for free,
+please ask us for this if you don't have it! 
+They will be published in our :doc:`Newsletter </newsletter>` every month,
+and displayed on our website as well.
 
 What do I need for the job fair?
 --------------------------------

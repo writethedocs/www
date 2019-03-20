@@ -16,10 +16,10 @@ We're working on confirming our last few speakers.
 You'll hear from us with the full speaker line-up in the next week or so.
 
 *NOTE: If you're not subscribed to the North American conference mailing list, you can*
-`sign up here <http://www.writethedocs.org/newsletter/>`_.
+`sign up here <https://www.writethedocs.org/newsletter/>`_.
 
 If you're planning on coming to the conference, but you're not sure how to persuade your company to cover the costs,
-you might be interested in our new `Convince Your Manager <http://www.writethedocs.org/conf/portland/2018/convince-your-manager/>`_ page.
+you might be interested in our new `Convince Your Manager <https://www.writethedocs.org/conf/portland/2018/convince-your-manager/>`_ page.
 We've knocked together an example email and some resources that you can use to make your case.
 
 And finally, in non-conference news, we're thrilled to announce that the **Write the Docs Job Board** will be launching next week.
@@ -28,7 +28,7 @@ who understand the value of good docs. The job board will be a destination for m
 Keep an eye on Slack, Twitter, the forum, your email, etc. – we'll let you know as soon as it goes live.
 
 Whew! Told you there's a lot going on! But now, let's have a look at a few of the conversations that have been happening
-in `Slackland <http://www.writethedocs.org/slack/>`_ over the new year.
+in `Slackland <https://www.writethedocs.org/slack/>`_ over the new year.
 
 ********************************
 It's not personal, it's feedback
@@ -90,7 +90,7 @@ Upcoming community events
 Just in case we didn't express enough excitement in the intro,
 here's your friendly reminder that tickets for the Portland conference are going fast!
 Come join us **May 6-8 at the Crystal Ballroom**!
-`Head over to the conference site to buy yours! <http://www.writethedocs.org/conf/portland/2018/tickets/>`_
+`Head over to the conference site to buy yours! <https://www.writethedocs.org/conf/portland/2018/tickets/>`_
 
 And to tide you over until then, we've got loads of meetups happening all over the world this month!
 

@@ -68,7 +68,7 @@ Upcoming community events
 *************************
 
 **WRITE THE DOCS DAY AUSTRALIA COUNTDOWN: Six Weeks Left!**
-We're so excited to be coming up on our first official Australian event! If you're going to be in the Melbourne area in November, come out for a full day of sprints, talks, and community-building! Check it out (and get your ticket!) here: `http://www.writethedocs.org/conf/au/2017/ <http://www.writethedocs.org/conf/au/2017/>`_
+We're so excited to be coming up on our first official Australian event! If you're going to be in the Melbourne area in November, come out for a full day of sprints, talks, and community-building! Check it out (and get your ticket!) here: `https://www.writethedocs.org/conf/au/2017/ <https://www.writethedocs.org/conf/au/2017/>`_
 
 * **Tomorrow!** October 10 – Portland, OR, USA – `Confluence Docs With Node.js, Intro to the PSU Tech Writing Program <https://www.meetup.com/Write-The-Docs-PDX/events/242228205/>`_
 * **Also Tomorrow!** October 10 – Seattle, WA, USA – `WTD Seattle October Meetup <https://www.meetup.com/Write-The-Docs-Seattle/events/243392623/>`_

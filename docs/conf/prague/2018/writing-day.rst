@@ -57,11 +57,6 @@ Improve navigation
 
 Let's discuss information architecture -- can we organize the content better? Provide better navigation?
 
-Write articles for the newsletter
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Summarize content from the Slack channel for the `newsletter </blog/newsletter-may-2018/#looking-ahead>`_.
-
 Help develop the Documentation Guide
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -80,7 +75,7 @@ tagged as `writingday` that includes things like:
 
 .. _idea:
 
-Improve IDEA editor 
+Improve IDEA editor
 ~~~~~~~~~~~~~~~~~~~~
 
 "Long story short, we had a huge documentation section that we reworked. This section with lots of topics contained useless information with which users had problems and often complained that they couldn't find the needed info. So, we decided to remove a bunch of subsections, rework texts and include the content into one topic."

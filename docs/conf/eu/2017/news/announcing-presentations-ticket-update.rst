@@ -13,7 +13,7 @@ The topics this year cover a vast range of subjects, points of view, and real-wo
 Following the success of the Portland conference, we also ran a CFP for unconference sessions, so we could have a handful of committed "anchor sessions" to help kick off the unconference.
 Of course you can still sign up to run an unconference session during the conference, but we hope that having a few scheduled sessions will help you with your personal schedule planning.
 
-You'll find more info and links to the full talk abstracts down below. You can also visit the `Sessions <http://www.writethedocs.org/conf/eu/2017/speakers/>`_ page for the full list of presentations.
+You'll find more info and links to the full talk abstracts down below. You can also visit the `Sessions <https://www.writethedocs.org/conf/eu/2017/speakers/>`_ page for the full list of presentations.
 
 Presentations
 -------------
@@ -53,7 +53,7 @@ The new prices are:
 * 150 EUR for Independent tickets (previously 200)
 * 75 EUR for Student & Unemployed tickets (previously 100)
 
-You can check out the detailed ticket pricing on our `Tickets <http://www.writethedocs.org/conf/eu/2017/tickets/>`_ page.
+You can check out the detailed ticket pricing on our `Tickets <https://www.writethedocs.org/conf/eu/2017/tickets/>`_ page.
 
 **The long version**: Each year we examine our ticket pricing structure and determine the different tiers based on factors like production costs, attendee experience, and sponsorship funds offset. Our goal has always been to maintain a low price point and therefore a lower entry barrier to our events, so that documentarians from all walks of life can attend. As our community grows, our costs both inside and outside the conference grow too, and we have been gradually raising prices accordingly.
 

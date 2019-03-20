@@ -80,12 +80,12 @@ public transportation or a taxi there.
 
 -  Portland is a very walk-able town. Most of the events and `the
    suggested
-   hotels <http://www.writethedocs.org/conf/na/2016/visiting/>`__ are
+   hotels <https://www.writethedocs.org/conf/na/2016/visiting/>`__ are
    within walking distance of the conference venue, the Crystal
    Ballroom.
 -  There are good public transportation options and taxi services. Check
    out the `Visiting Portland section of the Write the Docs
-   website <http://www.writethedocs.org/conf/na/2016/visiting/>`__ for
+   website <https://www.writethedocs.org/conf/na/2016/visiting/>`__ for
    more info.
 
 **How should I dress?**
@@ -95,7 +95,7 @@ public transportation or a taxi there.
    conference. You'll be meeting business colleagues at this conference,
    though, so neat and comfortable are good dress guidelines.
 -  If you are going on the `Write the Docs hike on
-   Saturday <http://www.writethedocs.org/conf/na/2016/hike/>`__, be sure
+   Saturday <https://www.writethedocs.org/conf/na/2016/hike/>`__, be sure
    to bring appropriate hiking clothes and shoes. This time of year, the
    Pacific Northwest tends to be muddy or raining with occasional swaths
    of blue skies. Layering is usually the way to go.
@@ -113,7 +113,7 @@ public transportation or a taxi there.
    day.
 -  On Saturday, Sunday, and in the evening on Monday and Tuesday,
    `explore Portland's amazing food
-   scene <http://www.writethedocs.org/conf/na/2016/visiting/>`__. Invite
+   scene <https://www.writethedocs.org/conf/na/2016/visiting/>`__. Invite
    someone you just met to join you! If you are invited to dinner, say
    yes! Making connections over dinner is a great way to get to know
    more people.
@@ -134,7 +134,7 @@ public transportation or a taxi there.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 `Conference talks in the Crystal
-Ballroom <http://www.writethedocs.org/conf/na/2016/speakers/>`__
+Ballroom <https://www.writethedocs.org/conf/na/2016/speakers/>`__
 
 -  The time between talks is for meeting your colleagues or taking a
    break. During the talks, listen and take in as much as you can.
@@ -163,7 +163,7 @@ Ballroom <http://www.writethedocs.org/conf/na/2016/speakers/>`__
 -  The unconference is a set of informal sessions that take place below
    the Crystal Ballroom in Lola's Room on Monday and Tuesday afternoons.
    `Unconference talks focus on exchanges of ideas between
-   participants. <http://www.writethedocs.org/conf/na/2016/unconference/>`__
+   participants. <https://www.writethedocs.org/conf/na/2016/unconference/>`__
 -  You can attend unconference sessions, or, if you have an idea for a
    session, you can lead one.
 -  To lead an unconference session, post a summary of your topic on a
@@ -185,7 +185,7 @@ Ballroom <http://www.writethedocs.org/conf/na/2016/speakers/>`__
    will be a sign-up sheet at registration.
 -  If you are interested in giving a lightning talk, be prepared! There
    is a great guide
-   `here <http://www.writethedocs.org/conf/na/2016/lightning-talks/?highlight=re>`__.
+   `here <https://www.writethedocs.org/conf/na/2016/lightning-talks/?highlight=re>`__.
 
 **How do I make the most out of this conference?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

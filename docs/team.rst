@@ -87,7 +87,7 @@ Members
 Guide Coordination Team
 -----------------------
 
-These are the folks who maintain http://www.writethedocs.org/guide/ and make sure it stays high quality.
+These are the folks who maintain https://www.writethedocs.org/guide/ and make sure it stays high quality.
 The site is built with Sphinx and hosted on Read the Docs,
 but
 
@@ -114,7 +114,7 @@ Responsibilities
 * Curate Slack conversations and distill them into brief newsletter stories
 * Write a monthly update on general goings-on in the community
 * Round up any Write the Docs events or meetups for the upcoming month
-* Assemble and publish the monthly newsletter to the mailing list and `the website <http://www.writethedocs.org/blog/archive/tag/newsletter/>`_
+* Assemble and publish the monthly newsletter to the mailing list and `the website <https://www.writethedocs.org/blog/archive/tag/newsletter/>`_
 
 Members
 ```````
@@ -183,6 +183,8 @@ Members
 * You?
 
 
+.. _core-team:
+
 Core Team
 ---------
 
@@ -208,7 +210,7 @@ Members
 * `Eric Holscher <https://twitter.com/ericholscher>`_ *
 * `Mikey Ariel <https://twitter.com/thatdocslady>`_
 * `Samuel Wright <https://twitter.com/plaindocs>`_
-* `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
+* `Sasha Romijn <https://twitter.com/mxsash>`_ <wtd@mxsasha.eu>
 
 
 .. vale off

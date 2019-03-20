@@ -115,7 +115,7 @@ Writing docs
 ------------
 
 Where you write your documentation will vary based on how the project is
-layed out.
+laid out.
 Generally major topics will go in an aptly named file in the
 top-level docs directory.
 If a topic gets larger, it can then be broken out into multiple files in a

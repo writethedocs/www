@@ -18,7 +18,7 @@ Sponsorship Prospectus
 Concept
 =======
 
-Write the Docs (http://www.writethedocs.org/) is a
+Write the Docs (https://www.writethedocs.org/) is a
 **three day conference** focusing on documentation systems, tech writing
 theory, and information delivery.
 

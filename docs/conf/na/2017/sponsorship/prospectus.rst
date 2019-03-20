@@ -15,7 +15,7 @@ Write the Docs Portland 2017 Sponsorship
 Concept
 =======
 
-Write the Docs (http://www.writethedocs.org/) is a
+Write the Docs (https://www.writethedocs.org/) is a
 **three day conference** focusing on documentation systems, tech writing
 theory, and information delivery.
 

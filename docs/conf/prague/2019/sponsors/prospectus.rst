@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2019/assets/headers/group.png
+:banner: _static/2019/assets/headers/prague-group.png
 
 Sponsorship Prospectus
 ######################
@@ -16,7 +16,7 @@ Sponsorship Prospectus
 Concept
 =======
 
-Write the Docs (http://www.writethedocs.org/) is a
+Write the Docs (https://www.writethedocs.org/) is a
 **three day conference** focusing on documentation systems, tech writing
 theory, and information delivery.
 

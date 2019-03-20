@@ -41,7 +41,7 @@ Videos and photos and write-ups
 ===============================
 
 Videos of all the talks are now available `in our video
-archive <http://www.writethedocs.org/videos/portland/2018/>`__. Thanks 
+archive <https://www.writethedocs.org/videos/portland/2018/>`__. Thanks 
 to `Backpedal <https://backpedal.tv/>`__ for doing such a great job with these. 
 If you gave a lightning talk, we're working to get
 them on our site, but you can see them on 
@@ -63,7 +63,7 @@ Code of Conduct transparency report
 ===================================
 
 As with any Write the Docs event, this conference was covered by our
-`community Code of Conduct <http://www.writethedocs.org/code-of-conduct/>`__. 
+`community Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`__. 
 We aim to be as transparent with CoC incidents and enforcement as we can. 
 None of our organizers were approached about any CoC concerns at this event. 
 We know that this is, in part, a reflection of the thoughtful and inclusive 
@@ -78,17 +78,17 @@ Ready for more?
 ===============
 
 Don't forget we have our first joint `Write the Docs + Open Help
-conference <http://www.writethedocs.org/conf/cincinnati/2018/>`__ in 
-Cincinnati this August, our `Prague conference <http://www.writethedocs.org/conf/prague/2018/>`__ 
-again in September, and our first `two-day Australia conference <http://www.writethedocs.org/conf/australia/2018/>`__ 
+conference <https://www.writethedocs.org/conf/cincinnati/2018/>`__ in 
+Cincinnati this August, our `Prague conference <https://www.writethedocs.org/conf/prague/2018/>`__ 
+again in September, and our first `two-day Australia conference <https://www.writethedocs.org/conf/australia/2018/>`__ 
 in November. Both the Cincinnati and Prague events have tickets 
 on sale and are actively looking for proposals. 
 (The call for the Australia conference will open soon.)
 
 We're also looking for more sponsors to make these conferences just as
 magical as the Portland event was. We have a detailed sponsorship
-prospectus up for both the `Prague <http://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/>`_ 
-and `Cincinnati <http://www.writethedocs.org/conf/cincinnati/2018/sponsors/prospectus/>`_ 
+prospectus up for both the `Prague <https://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/>`_ 
+and `Cincinnati <https://www.writethedocs.org/conf/cincinnati/2018/sponsors/prospectus/>`_ 
 conferences. Get in touch if you have any questions.
 
 Thanks again

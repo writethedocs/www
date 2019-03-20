@@ -40,7 +40,7 @@ readers. A member of our community since the first conference, Marcia
 will help us all become better writers once again.
 
 More information about these talks can be found on the
-[website](http://www.writethedocs.org/conf/na/2015/#speakers).
+[website](https://www.writethedocs.org/conf/na/2015/#speakers).
 
 ## Call for Proposals Reminder
 

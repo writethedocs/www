@@ -2,7 +2,7 @@ Meetups FAQ
 ===========
 
 The following list of questions and answers cover some issues that you might
-encounter when you want to `start a meetup <http://www.writethedocs.org/organizer-guide/meetups/starting/>`_.
+encounter when you want to `start a meetup <https://www.writethedocs.org/organizer-guide/meetups/starting/>`_.
 
 Can Write the Docs cover the Meetup.com fees?
 ---------------------------------------------
@@ -40,7 +40,7 @@ Yes, as long as the sponsoring company or organization adheres to the following 
 
 * We recommend that companies handle their sponsorship contributions directly. For example, if a company wishes to sponsor equipment for streaming or recording talks, we advise that the company maintain the equipment and operate it during each meetup.
 
-* Sponsorship contributions should be directly proportionate to the needs of the meetup. Our meetups are not-for-profit and also reflect the `Write the Docs worldview <http://www.writethedocs.org/organizer-guide/meetups/starting/#write-the-docs-worldview>`_. This means that aggressive recruitement techniques and other marketing-heavy actions during the meetup will be considered a violation of our `Code of Conduct <http://www.writethedocs.org/code-of-conduct/>`_.
+* Sponsorship contributions should be directly proportionate to the needs of the meetup. Our meetups are not-for-profit and also reflect the `Write the Docs worldview <https://www.writethedocs.org/organizer-guide/meetups/starting/#write-the-docs-worldview>`_. This means that aggressive recruitement techniques and other marketing-heavy actions during the meetup may be considered a violation of our `Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_. However, an intro slide mentioning the sponsors, signs near refreshments or a mention by the organizer are all fine.
 
 * If you have any questions regarding a specific sponsorship offer or request, please do not hesitate to `email us <mailto:support@writethedocs.org>`_ or ask a question in the #meetup-organisers channel on our Slack.
 
@@ -63,7 +63,7 @@ Different members of your leadership team can:
 
 * Find speakers
 * Set up meetup locations
-* Handle meetup logistics, as described in `Starting a Meetup <http://www.writethedocs.org/organizer-guide/meetups/starting/>`_
+* Handle meetup logistics, as described in `Starting a Meetup <https://www.writethedocs.org/organizer-guide/meetups/starting/>`_
 
 If you need to put out a call for help, here's a generic letter that you can use.
 

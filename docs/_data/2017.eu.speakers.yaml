@@ -428,7 +428,7 @@
         picture: chris-ward.png
         slug: chris-ward
         twitter: chrischinch
-        website: gregariousmammal.com
+        website: http://gregariousmammal.com
     title: Documentation beyond words
     year: 2017
     youtubeId: lTYvWjS1nHw
@@ -509,10 +509,10 @@
     title: 'Tech Writers Without Borders: Making the world a better place, one (numbered) step at a time'
     slides: https://speakerdeck.com/sculshaw/making-the-world-a-better-place-one-numbered-step-at-a-time
     event: Write the Docs EU 2017
-    path: conf/eu/2017/videos/
+    path: conf/eu/2017/videos/tech-writers-without-borders-making-the-world-a-better-place-one-numbered-step-at-a-time-stuart-culshaw
     series: Write the Docs EU
     series_slug: eu
-    slug: ''
+    slug: tech-writers-without-borders-making-the-world-a-better-place-one-numbered-step-at-a-time-stuart-culshaw
     speakers:
     -   details: ''
         img_file: stuart-culshaw.jpg

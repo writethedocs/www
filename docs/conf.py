@@ -6,6 +6,11 @@ import ablog
 import sys
 import os
 
+# Only for windows compatability - Forces default encoding to UTF8, which it may not be on windows
+if os.name == 'nt':
+    reload(sys)
+    sys.setdefaultencoding('UTF8')
+
 
 sys.path.append(os.getcwd())  # noqa
 
@@ -14,8 +19,7 @@ from _ext.core import (
     set_html_context, unset_html_context
 )
 from _ext.meetups import MeetupListing
-from _ext.videos import main
-
+from _ext.atom_absolute import rewrite_atom_feed
 
 exclude_patterns = [
     '_build',
@@ -25,21 +29,25 @@ exclude_patterns = [
 ]
 
 # Only build the videos on production, to speed up dev
-on_rtd = os.environ.get('READTHEDOCS') == 'True'
-on_netlify = os.environ.get('BUILD_VIDEOS') == 'True'
-on_travis = os.environ.get('TRAVIS') == 'True'
+on_rtd = str(os.environ.get('READTHEDOCS')).lower() == 'true'
+on_netlify = str(os.environ.get('BUILD_VIDEOS')).lower() == 'true'
+on_travis = str(os.environ.get('TRAVIS')).lower() == 'true'
 if not on_rtd and not on_netlify and not on_travis:
+    print('EXCLUDING VIDEO PATHS. Video links will not work.')
     exclude_patterns.append('videos')
+else:
+    print('BUILDING VIDEOS. All video links should work.')
+REWRITE_FEED = False
 
 extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
     'recommonmark',
 ]
-blog_baseurl = 'http://www.writethedocs.org/'
+blog_baseurl = 'https://www.writethedocs.org/'
 blog_path = 'blog/archive'
 blog_authors = {
-    'Team': ('Write the Docs Team', 'http://www.writethedocs.org/team/'),
+    'Team': ('Write the Docs Team', 'https://www.writethedocs.org/team/'),
     'eric': ('Eric Holscher', 'http://ericholscher.com'),
     'kelly': ("Kelly O'Brien", 'https://twitter.com/OBrienEditorial'),
 }
@@ -124,9 +132,10 @@ html_context = {
 }
 
 # Uncomment this line to generate videos
-#html_context.update(main())
+# html_context.update(main())
 
 # html_experimental_html5_writer = True
+
 
 def setup(app):
     # Set up our custom jinja filters
@@ -142,6 +151,9 @@ def setup(app):
     # Render HTML templates with proper HTML context
     app.connect('html-page-context', override_page_template)
 
+    if on_rtd or on_netlify or on_travis or REWRITE_FEED:
+        app.connect('build-finished', rewrite_atom_feed)
+
     app.add_directive('meetup-listing', MeetupListing)
     app.add_config_value('recommonmark_config', {
         'auto_toc_tree_section': 'Contents',
@@ -150,3 +162,4 @@ def setup(app):
     }, True)
     app.add_transform(AutoStructify)
     app.add_stylesheet('css/global-customizations.css')
+    app.add_javascript('js/jobs.js')

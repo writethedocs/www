@@ -6,7 +6,7 @@
 Announcing Write the Docs + Open Help Cincinnati
 ================================================
 
-Welcome to the official launch of `Write the Docs + Open Help Cincinnati 2018 <http://www.writethedocs.org/conf/cincinnati/2018/>`_! We are excited to announce the first-ever collaboration between `Write the Docs <http://www.writethedocs.org/>`_ and `Open Help <https://conf.openhelp.cc/index.html>`_, coming August 18-22, 2018.
+Welcome to the official launch of `Write the Docs + Open Help Cincinnati 2018 <https://www.writethedocs.org/conf/cincinnati/2018/>`_! We are excited to announce the first-ever collaboration between `Write the Docs <https://www.writethedocs.org/>`_ and `Open Help <https://conf.openhelp.cc/index.html>`_, coming August 18-22, 2018.
 
 Since 2011, the Open Help Conference in Cincinnati featured attendee-led discussions and sprints for a wide range of people working on open-source and community-based projects. This year, Write the Docs and Open Help are coming together to bring 5 days of talks, conversations, and doc sprints a little closer to home for our East Coast and Midwestern documentarians!
 
@@ -23,7 +23,7 @@ Write the Docs + Open Help Cincinnati is scheduled for August 18-22, 2018 at `Un
 Call for Organizers and Volunteers
 ----------------------------------
 
-We need help to make this event a success! Check out the `event roles <http://www.writethedocs.org/organizer-guide/confs/event-roles/>`_ for details about volunteer opportunities. If you are interested in volunteering or helping to organize, please email us at cincinnati@writethedocs.org. It's a great chance to get involved with the community and also receive a free ticket.
+We need help to make this event a success! Check out the `event roles <https://www.writethedocs.org/organizer-guide/confs/event-roles/>`_ for details about volunteer opportunities. If you are interested in volunteering or helping to organize, please email us at cincinnati@writethedocs.org. It's a great chance to get involved with the community and also receive a free ticket.
 
 Call for Proposals
 ------------------
@@ -32,20 +32,20 @@ Every year, Write the Docs invites people from all across our community to come 
 
 Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians. If there is something you’d really like to see a talk on, submit a proposal on it, or refer someone else!
 
-Read our full `Call for Proposals <http://www.writethedocs.org/conf/cincinnati/2018/cfp/>`__ on the website.
+Read our full `Call for Proposals <https://www.writethedocs.org/conf/cincinnati/2018/cfp/>`__ on the website.
 The Call for Proposals will be open until **Midnight EST June 18, 2018**.
 
 Website
 -------
 
-The `conference website <http://www.writethedocs.org/conf/cincinnati/2018/>`_ is up and running, with all the latest details about the event. 
+The `conference website <https://www.writethedocs.org/conf/cincinnati/2018/>`_ is up and running, with all the latest details about the event. 
 
 As with all things on the web, there may be a few lingering bugs with the design. Feel free to reach out to us by replying to the email, or emailing us at support@writethedocs.org if you see any issues.
 
 Tickets
 -------
 
-`Tickets <http://www.writethedocs.org/conf/cincinnati/2018/tickets/>`_ are **on sale now**!
+`Tickets <https://www.writethedocs.org/conf/cincinnati/2018/tickets/>`_ are **on sale now**!
 
 As with our other conferences, we have tiered pricing to make it fair for everyone. Please buy the ticket that best fits your situation.
 
@@ -62,4 +62,4 @@ Want to connect with other documentarians in real-time? Join our `Slack <http://
 Conclusion
 ----------
 
-We hope you will join us in Cincinnati for the first `Write the Docs + Open Help Cincinnati conference <http://www.writethedocs.org/conf/cincinnati/2018/>`_. Be a part of the exciting first year of what we hope will become an annual event!
+We hope you will join us in Cincinnati for the first `Write the Docs + Open Help Cincinnati conference <https://www.writethedocs.org/conf/cincinnati/2018/>`_. Be a part of the exciting first year of what we hope will become an annual event!
