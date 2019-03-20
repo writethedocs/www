@@ -27,7 +27,7 @@ We have sold out both the Portland & Prague :doc:`conferences </conf/index>` the
 We've intentionally kept them smaller to maintain the intimate feel of the events,
 but might grow them slowly over time in order to accommodate more people.
 
-We continue to publish `videos </videos/index>`_ freely to the public.
+We continue to publish `videos </videos/>`_ freely to the public.
 Doing this is more inclusive to people who cannot attend the conferences, promotes learning, and is part of our :doc:`commitment to openness </about/about-the-org>`.
 
 Slack Network
