@@ -53,7 +53,16 @@ Chances are we have a large group of folks in your neck of the woods,
 so join up and chat with them.
 They're a great way to get in touch with your local meetup organizer and community.
 
-Social Rules
+Rules
+-----
+
+We have a few hard and fast rules that we ask people to follow on our Slack:
+
+- **No Direct Pitches** - If you’re coming here *only* to make a sales pitch, please don’t. If you just put a link in the chat without any context or conversation, we will delete it.
+- **No Brands** - If you're going to post, post as yourself, not as a brand. We are a community of individuals and we all exist outside of our day jobs and personal brands.
+- **Use inclusive language** - Our community is multicultural, multiracial, multigendered, and generally diverse. When posting in channels, avoid using words such as "guys" to address a mixed group. Possible alternatives: "folks", "everyone", "documentarians".
+
+Social rules
 ------------
 
 Our goal with Write the Docs is to be **the most welcoming community on the internet**.
@@ -67,9 +76,8 @@ We have a few guidelines that we hope people will follow when interacting inside
 - **Don't be snarky** - We are all trying the best we can.
 - **Be careful with jokes** - You know that you're joking, but some people might take you seriously.
 - **If you don't have anything nice to say, don't say anything at all** - Once again our parents were quite wise.
-- **Use inclusive language** - Our community is multicultural, multiracial, multigendered, and generally diverse. When posting in channels, avoid using words such as "guys" to address a mixed group. Possible alternatives: "folks", "everyone", "documentarians".
 
-Online Community Issues
+Online community issues
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 There is a specific set of behavior that is prevalent in online communities that I'd like to address.
@@ -82,16 +90,6 @@ please avoid these behaviors:
 - **Let Me Google That For You (LMGTFY)** - If people ask questions that are simple to answer on Google, still answer them nicely.
 - **Question Policing** - Some people might ask incomplete questions that are hard to answer. Ask follow up questions and act in good faith to help them solve their issues.
 - **Technology Competitions** - We don't care if your tool is faster or better in some metric. We care about creating great documentation for our users.
-- **Spam** - Respect our space. Don't post spam or otherwise vandalize our community.
-
-
-Welcome message
-~~~~~~~~~~~~~~~
-
-We send out the following welcome message on slack monthly:
-
-.. literalinclude:: include/slack.txt
-   :language: text
 
 Reporting Issues
 ~~~~~~~~~~~~~~~~
@@ -107,3 +105,12 @@ Credit
 
 This concept is inspired by the `Recurse Center's Social Rules <https://www.recurse.com/manual#sub-sec-social-rules>`_.
 Thanks for the inspiration!
+
+Welcome message
+~~~~~~~~~~~~~~~
+
+We send out the following welcome message on slack monthly:
+
+.. literalinclude:: include/slack.txt
+   :language: text
+
