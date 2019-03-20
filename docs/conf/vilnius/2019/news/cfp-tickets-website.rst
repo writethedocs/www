@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: March 8, 2019
+.. post:: March 20, 2019
    :tags: vilnius-2019, website, cfp, tickets
 
 Announcing Write the Docs Vilnius CFP and Ticket Sales
@@ -20,7 +20,7 @@ Every year, Write the Docs invites people from all across our community to come 
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
 
 You can read our full `Call for Proposals <http://www.writethedocs.org/conf/vilnius/2019/cfp/>`__ on the website.
-The Call for Proposals will be open until **Midnight PST April 10, 2019**.
+The Call for Proposals will be open until **Midnight CET on April 22, 2019**.
 
 Tickets
 -------

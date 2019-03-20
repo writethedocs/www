@@ -53,14 +53,16 @@ date:
 about:
   attendees: 50
   summary:
-    "TBC"
+    "The main presentation track takes place on **June 3 (Monday) from 10:00 to 18:00**, and the Writing Day is held on **June 2 (Sunday) from 10:00 to 18:00.
+
+    You can find out more information about the venue and its accessibility on our :doc:`/conf/vilnius/2019/venue` page."
   location:
-    "TBC"
+    "University of Social Sciences (USS), Kalvarijų g. 137E, Vilnius"
 
 cfp:
   url: https://goo.gl/forms/B4FqgaYHfuAI5aBo1
-  ends: TBC
-  notification: TBC
+  ends: Monday, April 22nd
+  notification: Wednesday, May 1st
 
 
 flagspeakersannounced: False
