@@ -21,10 +21,10 @@ env:
  - TEST="docs"
  - TEST="yaml"
  - TEST="links"
- - TEST="all-links"
+ - TEST="all_links"
 matrix:
  allow_failures:
-   - env: TEST="all-links"
+   - env: TEST="all_links"
 
 
 # An attempt to explain my understanding of the rather odd convergence of Travis CI and tox with tox-travis
