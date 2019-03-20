@@ -3,9 +3,9 @@
 Announcing Ticket Sales and Call for Proposals
 ==============================================
 
-`Write the Docs Europe 2016 <http://www.writethedocs.org/conf/eu/2016/>`_
-is five months away and we're excited to open `ticket sales <http://www.writethedocs.org/conf/eu/2016/news/cfp-tickets#tickets>`__ and put out
-the call for `talk proposals <http://www.writethedocs.org/conf/eu/2016/cfp/>`_!
+`Write the Docs Europe 2016 <https://www.writethedocs.org/conf/eu/2016/>`_
+is five months away and we're excited to open `ticket sales <https://www.writethedocs.org/conf/eu/2016/news/cfp-tickets#tickets>`__ and put out
+the call for `talk proposals <https://www.writethedocs.org/conf/eu/2016/cfp/>`_!
 
 Write the Docs Europe will be happening in **Prague, Czech Republic**, from **September
 18-20, 2016**.
@@ -60,7 +60,7 @@ As with the previous years, we have tiered pricing to make it fair for
 everyone. Please buy the ticket that best fits your situation.
 
 Tickets are **on sale now**. `Buy them
-now <http://www.writethedocs.org/conf/eu/2016/#tickets>`_.
+now <https://www.writethedocs.org/conf/eu/2016/#tickets>`_.
 
 Corporate Tickets
 ++++++++++++++++++
@@ -90,7 +90,7 @@ documentation for decades or you’ve just started this year, we want to hear fr
 you!
 
 You can read our full `Call for
-Proposals <http://www.writethedocs.org/conf/eu/2016/cfp/>`__ on the website.
+Proposals <https://www.writethedocs.org/conf/eu/2016/cfp/>`__ on the website.
 The Call for Proposals will be open until **June 3** this year.
 
 

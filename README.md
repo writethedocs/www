@@ -128,3 +128,5 @@ For this whole thing to work we still need to implement these
 ```
 .. TODO
 ```
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/writethedocs/www.svg)](https://greenkeeper.io/)

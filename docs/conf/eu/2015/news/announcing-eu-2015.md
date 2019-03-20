@@ -4,7 +4,7 @@
 
 We are excited to announce the 2015 European conference!
 
-* [Write the Docs Europe](http://www.writethedocs.org/conf/eu/2015/) will be 
+* [Write the Docs Europe](https://www.writethedocs.org/conf/eu/2015/) will be 
 in **Prague, Czech Republic on August 31 - September 1, 2015.**
 * The conference will be held at **Klub Lavka** in the Praha 1 historical city center.
 

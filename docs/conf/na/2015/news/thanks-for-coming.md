@@ -23,7 +23,7 @@ Don't forget we have our European conference this year in Prague! The Call for P
 We're also looking for more sponsors to make the event just as magical as this year's Portland event. If you are curious about sponsoring EU or NA again next year,
 please contact us at [sponsorships@writethedocs.org](mailto:sponsorships@writethedocs.org).
 
-You can find information about the conference and Call for Proposals on our [European Conference website](http://www.writethedocs.org/conf/eu/2015/).
+You can find information about the conference and Call for Proposals on our [European Conference website](https://www.writethedocs.org/conf/eu/2015/).
 
 ## Videos
 
@@ -41,7 +41,7 @@ We hope you continue to build the community and keep in touch with other documen
 
 Keep us posted if you start one (or encounter a new one) so that we can spread the word.
 
-* North America Current [Meetups](http://www.writethedocs.org/meetups/)
+* North America Current [Meetups](https://www.writethedocs.org/meetups/)
 * Your City Here -- [Start a meetup!](https://www.youtube.com/watch?v=ZwQ8Kd48d0w)
 
 ## Thanks again

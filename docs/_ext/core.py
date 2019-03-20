@@ -123,7 +123,7 @@ def add_jinja_filters(app):
         return '/_static/img/speakers/missing.jpg'
 
     def speaker_photo(file):
-        return media_photo(file, 'speaker')
+        return media_photo(file, 'speakers')
 
     def sponsor_photo(file):
         return media_photo(file, 'sponsors')

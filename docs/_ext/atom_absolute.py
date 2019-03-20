@@ -11,9 +11,9 @@ logger = logging.getLogger(__name__)
 
 TAGS = [
     'newsletter',
-    'portland',
-    'prague',
-    'australia',
+    'portland-2019',
+    'prague-2019',
+    'australia-2019',
 ]
 
 

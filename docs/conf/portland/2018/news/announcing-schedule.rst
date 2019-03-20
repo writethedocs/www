@@ -9,18 +9,18 @@ Announcing Full Schedule & Last Chance For Tickets
 Hello everyone!
 We're about a month out from the Portland conference and we couldn't be more stoked!
 We're writing today to a) announce the full speaker schedule, b) get the ball rolling for Writing Day sprints, and c) encourage you – if you haven't already – to buy your tickets.
-We're likely to sell out **in the next day or two**, so `now's your chance <http://www.writethedocs.org/conf/portland/2018/tickets/>`_!
+We're likely to sell out **in the next day or two**, so `now's your chance <https://www.writethedocs.org/conf/portland/2018/tickets/>`_!
 
-In the meantime, if it's your first Write the Docs, now's a great time to check out `the Welcome Wagon page <http://www.writethedocs.org/conf/portland/2018/welcome-wagon/>`_, which is chockfull of info to help you get oriented.
+In the meantime, if it's your first Write the Docs, now's a great time to check out `the Welcome Wagon page <https://www.writethedocs.org/conf/portland/2018/welcome-wagon/>`_, which is chockfull of info to help you get oriented.
 And whether it's your first or fifth conference, it's never too early to check out the `Explore Portland
-<http://www.writethedocs.org/conf/portland/2018/visiting/>`_ page for inspiration on how to make the most of your visit.
+<https://www.writethedocs.org/conf/portland/2018/visiting/>`_ page for inspiration on how to make the most of your visit.
 
 Later this month we'll be sending another update that will cover the full details on our social activities, the (exciting new) job fair, and more details about the Writing Day so stay tuned!
 
 Full Presentation Schedule
 --------------------------
 
-The conference website is now updated with the `talk schedule <http://www.writethedocs.org/conf/portland/2018/schedule/>`_ for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.
+The conference website is now updated with the `talk schedule <https://www.writethedocs.org/conf/portland/2018/schedule/>`_ for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.
 
 Per usual, we'll be running the unconference downstairs in Lola's room.
 
@@ -34,13 +34,13 @@ Tickets Nearly Sold Out
 We're very nearly at full capacity for the event.
 We're not overstating things when we say that tickets will sell out in the next day or two.
 Now's the time!
-Our `ticket page <http://www.writethedocs.org/conf/portland/2018/tickets/>`_ is the place!
+Our `ticket page <https://www.writethedocs.org/conf/portland/2018/tickets/>`_ is the place!
 We look forward to having you join us!
 
 Start Thinking About Writing Day
 --------------------------------
 
-Our pre-conference `Writing Day <http://www.writethedocs.org/conf/portland/2018/writing-day/>`_ will happen on Sunday again this year.
+Our pre-conference `Writing Day <https://www.writethedocs.org/conf/portland/2018/writing-day/>`_ will happen on Sunday again this year.
 We've got a couple of projects on the docket – including our second annual 'Write Write the Docs' sprint on the WTD website.
 But the day is much more fun when folks come with their own projects in mind!
 
@@ -62,7 +62,7 @@ Huge thanks to our latest sponsors to come aboard:
 * `Stoplight <http://stoplight.io/>`_
 * `Microsoft Cloud Developer Advocates <https://developer.microsoft.com/en-us/advocates/index.html>`_
 
-*Interested in sponsoring* `Write the Docs Portland <http://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/>`_ *or* `Write the Docs Prague <http://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/>`_? *< those links will take you to our sponsorship prospectuses... prospecti? Anyway, have a look.*
+*Interested in sponsoring* `Write the Docs Portland <https://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/>`_ *or* `Write the Docs Prague <https://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/>`_? *< those links will take you to our sponsorship prospectuses... prospecti? Anyway, have a look.*
 
 Thanks so much for all your support and enthusiasm so far – we're so excited to see you all next month!
 

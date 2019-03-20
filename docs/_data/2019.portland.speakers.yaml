@@ -241,8 +241,8 @@
     \ Authors don’t care if I think it “sounds right” this way. Readability indexes,\
     \ usability research, style guides, minimalism, and other objective tools are\
     \ more persuasive than telling them to make a change “because I said so.”  That\
-    \ approach didn’t work with my kids either. </p>\n<p>EDITING PRINCIPLE 5. EDITING\
-    \ PRINCIPLE 5. SEEK OTHER PEOPLE'S OPINIONS. \nYou are not the only person who\
+    \ approach didn’t work with my kids either. </p>\n<p>EDITING PRINCIPLE 5. \
+    \ SEEK OTHER PEOPLE'S OPINIONS. \nYou are not the only person who\
     \ can fine-tune a piece of content. Seeking out other experienced writers to review\
     \ a doc can give you insights that you would never have on your own. At Red Hat\
     \ we do crowdsourced peer review sessions, and they have made me a better editor.\
@@ -316,7 +316,7 @@
     \ topic into comic format.</p>"
   slug: bam-the-power-of-comics-to-explain-technology-syne-mitchell-allen-tsai
   speakers:
-  - name: 'Syne Mitchell '
+  - name: 'Syne Mitchell'
     slug: syne-mitchell
     twitter: synemitchell
     website: https://www.synemitchell.com/   http://www.linkedin.com/in/allen-tsai-ux-lead
@@ -387,7 +387,7 @@
     writing voice.</p>'
   slug: draw-the-docs-alicia-woodside-alicja-raszkowska
   speakers:
-  - name: 'Alicia Woodside '
+  - name: 'Alicia Woodside'
     slug: alicia-woodside
     twitter: 'Alicia (instagram): funtimes.woodside; Alicja: mamrotynka'
     website: 'Alicia: https://notrunningforgold.com/;  Alicja: https://trueskawka.github.io/blog/ '
