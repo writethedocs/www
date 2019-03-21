@@ -59,7 +59,7 @@ WIP Docs on how to do this:
            exclude_patterns.append('videos')
        ```
 
-    2. Run `make livehtml` and browse the new video pages at `http://127.0.0.1:8888`.
+    1. Run `BUILD_VIDEOS=True make livehtml` and browse the new video pages at `http://127.0.0.1:8888`.
 
 #### Troubleshooting
 
