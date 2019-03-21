@@ -63,44 +63,11 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
         </p>
 
         <div class="ctas-block">
-         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/' + year|string + '/sponsors/prospectus') }}">Sponsor the conference</a>
 
-         {% if flagticketsonsale and not cfp %}
-
-         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2019/tickets') }}">Buy a Ticket!</a>
-
-         {% endif %}
-
-         {% if flagcfp %}
-
-         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2019/cfp') }}">Submit a Talk</a>
-
-         {% endif %}
-
-         {% if flagspeakersannounced and not flagvideos %}
-
-         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2019/speakers') }}">See the talks!</a>
-
-         {% endif %}
-
-        {% if flagwelcomewagon %}
-
-        <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/' + year|string + '/welcome-wagon') }}">Prepare with the Welcome Wagon</a>
-
-        {% endif %}
-
-         {% if flaglivestreaming %}
-         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2019/livestream') }}">Live Stream!</a>
-
-         {% endif %}
-
-
-         {% if flagvideos %}
-
-         <a class="uk-button uk-button-secondary uk-text-center" href="{{ about.photos }}">Browse the photos!</a>
-
-         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('videos/' + shortcode + '/2019') }}">Watch the videos!</a>
-
+         {% if buttons is defined %} 
+         {% for callout in buttons.top %}
+           <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/' + year|string + callout.link ) }}">{{ callout.text }}</a>
+         {% endfor %}
          {% endif %}
 
         </div>

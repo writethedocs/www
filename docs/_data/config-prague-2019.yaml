@@ -14,6 +14,23 @@ color: coral
 photos:
   default: _static/2019/assets/headers/prague-group.png
 
+buttons:
+  top:
+    - text: Sponsor the conference
+      link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
+    # - text: Buy a Ticket!
+    #   link: /tickets
+    # - text: See the talks!
+    #   link: /speakers
+    # - text: Prepare with the Welcome Wagon
+    #  link: /welcome-wagon
+    # - text: Watch the Live Stream
+    #  link: /livestream
+    # - text: Browse the photos
+    #  link: /livestream
+
 tickets:
   community:
     price: €600
