@@ -6,18 +6,18 @@
 Write the Docs Newsletter – June 2018
 ########################################
 
-Hi folks! Kelly O. here with the last issue of the newsletter until August. (In the meantime, the editorial team will be taking a wee summer break!) It's been an exciting spring, with `another successful Portland conference <http://www.writethedocs.org/conf/portland/2018/news/thanks-recap/>`_ under our belts, and a jam-packed rest of the year laid out ahead of us!
+Hi folks! Kelly O. here with the last issue of the newsletter until August. (In the meantime, the editorial team will be taking a wee summer break!) It's been an exciting spring, with `another successful Portland conference <https://www.writethedocs.org/conf/portland/2018/news/thanks-recap/>`_ under our belts, and a jam-packed rest of the year laid out ahead of us!
 
 As a quick refresher, here's what's on the docket:
 
 **August 18-22 – Write the Docs + Open Help – Cincinnati, Ohio, USA**
-`Submit a talk <http://www.writethedocs.org/conf/cincinnati/2018/cfp/>`_ by next Monday, June 18 or `buy a ticket <http://www.writethedocs.org/conf/cincinnati/2018/tickets/>`_ any time!
+`Submit a talk <https://www.writethedocs.org/conf/cincinnati/2018/cfp/>`_ by next Monday, June 18 or `buy a ticket <https://www.writethedocs.org/conf/cincinnati/2018/tickets/>`_ any time!
 
 **September 9-11 – Write the Docs Prague – Prague, Czech Republic**
-Speakers will be announced soon, and in the meantime, you can `get your tickets here <http://www.writethedocs.org/conf/prague/2018/tickets/>`_!
+Speakers will be announced soon, and in the meantime, you can `get your tickets here <https://www.writethedocs.org/conf/prague/2018/tickets/>`_!
 
 **November 15-16 – Write the Docs Australia – Melbourne, Australia**
-`Get your talk proposal in <http://www.writethedocs.org/conf/australia/2018/cfp/>`_ by July 20th and `snag your ticket early <http://www.writethedocs.org/conf/australia/2018/tickets/>`_, so you can start planning your visit!
+`Get your talk proposal in <https://www.writethedocs.org/conf/australia/2018/cfp/>`_ by July 20th and `snag your ticket early <https://www.writethedocs.org/conf/australia/2018/tickets/>`_, so you can start planning your visit!
 
 If you're interested in a more virtual way to engage with the community, you could also think about volunteering to help out with the year-round organization. When we come back in August, we'll be putting out a call for volunteers to help both with the newsletter team as well as a few other working groups. So have a think about whether and how you might want to pitch in.
 
@@ -67,7 +67,7 @@ Short advice for writing error messages
 ---------------------------------------
 This month, the hivemind fielded a request for advice about writing good error messages. Attached to the request, though, was a familiar (and vital) caveat: They needed short, easy-to-digest pointers, rather than longer, meatier reads, in an effort to boost the odds that their developer teams would actually find the time to read what they shared.
 
-One of the top suggestions was Kate Voss's `Error Messages talk at WtD Portland 2017 <http://www.writethedocs.org/videos/na/2017/error-messages-being-humble-human-and-helpful-will-make-users-happy-kate-voss/>`_ We'll admit that a 15-minute video doesn't fit the "short" parameter...but Kate's own distillation of her talk brings it down to three concise rules: Humble, Helpful, and Human.
+One of the top suggestions was Kate Voss's `Error Messages talk at WtD Portland 2017 <https://www.writethedocs.org/videos/na/2017/error-messages-being-humble-human-and-helpful-will-make-users-happy-kate-voss/>`_ We'll admit that a 15-minute video doesn't fit the "short" parameter...but Kate's own distillation of her talk brings it down to three concise rules: Humble, Helpful, and Human.
 
 * **Humble**: apologize and acknowledge the error
 * **Helpful**: make sure the error message tells users what to do next

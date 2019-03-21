@@ -29,11 +29,14 @@ exclude_patterns = [
 ]
 
 # Only build the videos on production, to speed up dev
-on_rtd = os.environ.get('READTHEDOCS') == 'True'
-on_netlify = os.environ.get('BUILD_VIDEOS') == 'True'
-on_travis = os.environ.get('TRAVIS') == 'True'
+on_rtd = str(os.environ.get('READTHEDOCS')).lower() == 'true'
+on_netlify = str(os.environ.get('BUILD_VIDEOS')).lower() == 'true'
+on_travis = str(os.environ.get('TRAVIS')).lower() == 'true'
 if not on_rtd and not on_netlify and not on_travis:
+    print('EXCLUDING VIDEO PATHS. Video links will not work.')
     exclude_patterns.append('videos')
+else:
+    print('BUILDING VIDEOS. All video links should work.')
 REWRITE_FEED = False
 
 extensions = [
@@ -41,10 +44,10 @@ extensions = [
     'sphinxcontrib.datatemplates',
     'recommonmark',
 ]
-blog_baseurl = 'http://www.writethedocs.org/'
+blog_baseurl = 'https://www.writethedocs.org/'
 blog_path = 'blog/archive'
 blog_authors = {
-    'Team': ('Write the Docs Team', 'http://www.writethedocs.org/team/'),
+    'Team': ('Write the Docs Team', 'https://www.writethedocs.org/team/'),
     'eric': ('Eric Holscher', 'http://ericholscher.com'),
     'kelly': ("Kelly O'Brien", 'https://twitter.com/OBrienEditorial'),
 }

@@ -13,15 +13,15 @@ We just sent off the order for badges,
 and everything is getting quite real.
 
 If you missed this year's Portland conference, worry not!
-Our [European conference](http://www.writethedocs.org/conf/eu/2015/) will be in Prague at the end of August,
-and the [Call for Proposals](http://www.writethedocs.org/conf/eu/2015/cfp/) is still open.
+Our [European conference](https://www.writethedocs.org/conf/eu/2015/) will be in Prague at the end of August,
+and the [Call for Proposals](https://www.writethedocs.org/conf/eu/2015/cfp/) is still open.
 Tell all your European friends,
 or take the trip with us.
 
 Full Schedule
 --------------
 
-We have announced the final [schedule](http://www.writethedocs.org/conf/na/2015/schedule/) for the conference.
+We have announced the final [schedule](https://www.writethedocs.org/conf/na/2015/schedule/) for the conference.
 The schedule includes all conference-related activities --
 the hike, the writing day, the reception, the party, and of course the actual talks.
 We have packed a lot into a few days,

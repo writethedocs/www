@@ -6,12 +6,12 @@
 Announcing Talks Schedule
 =========================
 
-Our website is now updated with the `final schedule <http://www.writethedocs.org/conf/au/2017/schedule/>`_ for the talks, so you can start planning your time at the event. Check out the `Sessions <http://www.writethedocs.org/conf/au/2017/speakers/>`_ page for full descriptions of the talks.
+Our website is now updated with the `final schedule <https://www.writethedocs.org/conf/au/2017/schedule/>`_ for the talks, so you can start planning your time at the event. Check out the `Sessions <https://www.writethedocs.org/conf/au/2017/speakers/>`_ page for full descriptions of the talks.
 
 Doc sprint
 -------------
 
-We will start off the day event with a half day doc sprint. Check out `Writing Sprint <http://www.writethedocs.org/conf/au/2017/schedule/>`_ for information about the event.
+We will start off the day event with a half day doc sprint. Check out `Writing Sprint <https://www.writethedocs.org/conf/au/2017/schedule/>`_ for information about the event.
 
 Tickets Available
 ----------------------

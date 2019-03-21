@@ -12,7 +12,7 @@ Early Bird tickets are now sold out. Thanks to everyone who has already purchase
 
 There is still time to submit your talk to Write the Docs!
 
-Remember, too – on the [Call for Proposals page](http://www.writethedocs.org/conf/na/2016/cfp/), we’ve got some tips and examples to help inspire you. And if you’ve got an idea, but you’re not sure what to do with it, ask for feedback on [Slack](http://slack.writethedocs.org/). Your fellow documentarians will be happy to help!
+Remember, too – on the [Call for Proposals page](https://www.writethedocs.org/conf/na/2016/cfp/), we’ve got some tips and examples to help inspire you. And if you’ve got an idea, but you’re not sure what to do with it, ask for feedback on [Slack](http://slack.writethedocs.org/). Your fellow documentarians will be happy to help!
 
 We will be announcing the conference program by **March 25th**.
 

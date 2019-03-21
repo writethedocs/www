@@ -28,7 +28,7 @@ We appreciate all your feedback, and strive to adapt and evolve our events to ma
 Code of Conduct transparency report
 -----------------------------------
 
-Write the Docs is an inclusive, friendly, and welcoming community to all documentarians. As a part of our ongoing efforts to promote safe spaces in the tech fields, we apply a `Code of Conduct <http://www.writethedocs.org/code-of-conduct/>`_ to all of our conferences, meetups, and online spaces.
+Write the Docs is an inclusive, friendly, and welcoming community to all documentarians. As a part of our ongoing efforts to promote safe spaces in the tech fields, we apply a `Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_ to all of our conferences, meetups, and online spaces.
 
 Following the conference, here is an anonymized list of CoC-related incidents that occurred during the conference:
 
@@ -66,8 +66,8 @@ The `Write the Docs Slack <http://slack.writethedocs.com/>`_ has really grown th
 Meetups
 -------
 
-We hope you continue to `build the community <http://www.writethedocs.org/meetups/>`_ and keep in touch with other documentarians in your hometown. In this spirit, we have a number of meetups in cities around the world. If you don't see your
-city `listed <http://www.writethedocs.org/meetups/>`__, consider `starting <http://www.writethedocs.org/organizer-guide/meetups/starting/>`_ a meetup!
+We hope you continue to `build the community <https://www.writethedocs.org/meetups/>`_ and keep in touch with other documentarians in your hometown. In this spirit, we have a number of meetups in cities around the world. If you don't see your
+city `listed <https://www.writethedocs.org/meetups/>`__, consider `starting <https://www.writethedocs.org/organizer-guide/meetups/starting/>`_ a meetup!
 
 Keep us posted if you start one (or encounter a new one) so that we can spread the word.
 
@@ -78,7 +78,7 @@ These days we are laying the groundwork for our 2018 conferences, and will annou
 
 In the meantime, save the dates for next year:
 
-- `Portland conference <http://www.writethedocs.org/conf/portland/2018/>`_, 6-8 May 2018
+- `Portland conference <https://www.writethedocs.org/conf/portland/2018/>`_, 6-8 May 2018
 - Prague conference, 9-11 September 2018
 
 We're currently looking for launch sponsors to make our events just as magical as this year's events. If you are curious about

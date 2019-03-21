@@ -10,7 +10,7 @@ update before we start working on next year's events.
 
 As you know, Write the Docs is an inclusive, friendly, and welcoming community to
 all documentarians.
-We have published a [report](http://www.writethedocs.org/conf/eu/2016/news/code-of-conduct-report/) that includes an anonymized list of the violations that we received at this year's event.
+We have published a [report](https://www.writethedocs.org/conf/eu/2016/news/code-of-conduct-report/) that includes an anonymized list of the violations that we received at this year's event.
 
 This report is anonymized and published for the sake of
 maintaining transparency,
@@ -25,7 +25,7 @@ inspiration to us, and we hope to see similar efforts in other communities.
 
 ## Videos are available!
 
-In case you missed our [October Newsletter](http://www.writethedocs.org/blog/newsletter-october-2016/),
+In case you missed our [October Newsletter](https://www.writethedocs.org/blog/newsletter-october-2016/),
 we're happy to present to you all the conference videos from this year, uploaded to
 our YouTube channel and organized into a [happy playlist](https://www.youtube.com/playlist?list=PLZAeFn6dfHpnN8fXXHwPtPY33aLGGhYLJ)!
 

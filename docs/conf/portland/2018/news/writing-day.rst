@@ -7,7 +7,7 @@ Get Ready for Writing Day
 =========================
 
 Write the Docs is almost here. As usual, we'll kick things off with the
-`writing day <http://www.writethedocs.org/conf/portland/2018/writing-day/>`_
+`writing day <https://www.writethedocs.org/conf/portland/2018/writing-day/>`_
 on Sunday, May 6.
 Join hundreds of other documentarians at the Crystal Ballroom from 9am to 5pm
 to write your own docs, join another project, or just hang out.
@@ -32,4 +32,4 @@ Here are some helpful tips for getting others involved:
 
 We look forward to writing with you.
 
-.. _list of projects: http://www.writethedocs.org/conf/portland/2018/writing-day/#projects
+.. _list of projects: https://www.writethedocs.org/conf/portland/2018/writing-day/#projects

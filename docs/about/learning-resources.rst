@@ -21,7 +21,7 @@ Our monthly :doc:`/newsletter` aggregates the latest discussions about topics th
 Videos
 ~~~~~~
 
-All the presentation `videos </videos/index>`__ are available on YouTube so that you can catch up on the content even if you can't attend the conferences.
+All the presentation `videos </videos/>`_ are available on YouTube so that you can catch up on the content even if you can't attend the conferences.
 
 Podcast
 ~~~~~~~

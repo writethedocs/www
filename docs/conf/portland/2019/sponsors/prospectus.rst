@@ -16,7 +16,7 @@ Sponsorship Prospectus
 Concept
 =======
 
-Write the Docs (http://www.writethedocs.org/) is a
+Write the Docs (https://www.writethedocs.org/) is a
 **three day conference** focusing on documentation systems, tech writing
 theory, and information delivery.
 
@@ -180,14 +180,10 @@ Job Fair
 --------
 
 Our job fair is a wonderful place to connect with the talented Write the Docs attendees.
-We'll have over 400 people in attendance for our conference,
+We'll have over 500 people in attendance for our conference,
 and many of those people will come to our job fair to look for new roles and positions.
 
-**$1,000** (a la carte price, also included or discounted with other sponsorship packages)
-
-- **Logistics**: The Job Fair will be Tuesday morning in Lola's Room. It will run from 9:30am-11:30am. You can set up from 8:30am.
-
-- **Layout**: Every company participating in the Job Fair will have a six-foot table and two chairs reserved for them. We do not use booths during the Job Fair. Giveaways/flyers are welcome, but please make sure everything fits on your alloted table.
+- **Logistics**: Every company participating in the Job Fair will have a six-foot table and two chairs reserved for them. Giveaways/flyers are welcome, but please make sure everything fits on your alloted table.
 
 Note that the `Code of Conduct </code-of-conduct/>`_ and :ref:`coc-sponsors` apply to the Job Fair as well as to the rest of the conference.
 
@@ -209,7 +205,6 @@ This is great for any company that is looking for contributors to their open sou
 **$2,000**
 
 - **Logistics**: The Writing Day runs 9-5 on Sunday.
-
 
 .. raw:: pdf
 
@@ -236,7 +231,7 @@ A quick overview of the spaces:
 
 An overview of the conference schedule:
 
-* The Writing Day is on Sunday, in the main ballroom. You are welcome to run a documentation sprint here if your documentation is open source.
+* The Writing Day is on Sunday, in the main ballroom. You are encouraged to run a documentation sprint here if your documentation is open source.
 * The main conference & sponsorship days are on Monday & Tuesday in the main ballroom.
 * The Job Fair happens Tuesday morning, in Lola's Room.
 
@@ -253,16 +248,21 @@ Eric Holscher will be your primary contact, but our team is available at sponsor
 What are the dates that sponsors need to know about in advance?
 ------------------------------------------------------------------
 
-* **SUNDAY**: The swag tables are available during the Writing Day, if you want to put out swag items early. Sponsor booths are available for setup on Sunday from 10am-4pm, but don't need people in them yet.
+* **SUNDAY**: The swag tables are available during the Writing Day, if you want to put out swag items early. Sponsor booths are available for setup on Sunday from 10am-4pm, but don't need people staffing them yet. You're also welcome to lead a Writing Day project on your companies documentation, if it is open source.
 
 * **MONDAY**: Doors open at 8am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the conference, when sponsors tables will need to be staffed. The conference will run until around 5pm.
 
 * **TUESDAY**: The Job Fair will be from 9:30-11:30am, set up will be at 8:30am. Sponsor tear down in the main hall will be 4pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening.
 
-How do I use get my free tickets?
----------------------------------
+What happens with my "swag" items?
+----------------------------------
 
-You should have recieved a unique URL with a discount code for your free sponsorship tickets. We are happy to send it over again, just ask!
+We will have a few "swag" tables that are placed around the back of the main ballroom. This will be where sponsor and community stickers & swag will be located, so that attendees are free to pick it up. If you have a booth, you are also welcome to place swag on the booth.
+
+How do I use my sponsorship tickets?
+------------------------------------
+
+You should have recieved a unique URL with a discount code for your sponsorship tickets. We are happy to send it over again, just ask!
 
 How do I use my job postings?
 -----------------------------
@@ -277,11 +277,6 @@ What do I need for the job fair?
 --------------------------------
 
 The job fair will be a low key event. Every participant will have a six-foot table and two chairs, in a seperate room from the primary conference. Giveaways/flyers are welcome, but please keep your setup requirements simple.
-
-What happens with my swag items?
---------------------------------
-
-We will have a few "swag tables" that are placed around the back of the main ballroom. This will be where sponsor and community stickers & swag will be located, so that attendees are free to pick it up. If you have a booth, you are also welcome to place swag on the booth.
 
 What are the table sizes? What is included?
 -------------------------------------------

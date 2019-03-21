@@ -1,7 +1,7 @@
 Code of Conduct
 ===============
 
-Write the Docs is a global community of documentarians who share information, discuss ideas, and work together to improve the art and science of documentation. Everybody who participates in our community in one way or another is required to conform to our `Code of Conduct <http://www.writethedocs.org/code-of-conduct/>`_ (CoC). This includes online communications, meetup and conference attendees, speakers, sponsors, founders, moderators, organisers and volunteers.
+Write the Docs is a global community of documentarians who share information, discuss ideas, and work together to improve the art and science of documentation. Everybody who participates in our community in one way or another is required to conform to our `Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_ (CoC). This includes online communications, meetup and conference attendees, speakers, sponsors, founders, moderators, organisers and volunteers.
 
 Our Code of Conduct applies to all spaces and events relating to this meetup. We strongly recommend you to read the full Code of Conduct, but for your convenience, our key principles are:
 

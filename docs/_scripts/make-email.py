@@ -2,13 +2,13 @@
 """
 Use like::
 
-python make-email.py http://www.writethedocs.org/conf/na/2016/news/thanks-for-coming/
+python make-email.py https://www.writethedocs.org/conf/na/2016/news/thanks-for-coming/
 
 Requires a `pip install pyquery`
 
 On OS X you can do::
 
-python make-email.py http://www.writethedocs.org/conf/na/2016/news/thanks-for-coming/ |pbcopy
+python make-email.py https://www.writethedocs.org/conf/na/2016/news/thanks-for-coming/ |pbcopy
 
 To copy things into the clip board
 
@@ -36,7 +36,7 @@ if not content:
         img = pq(img_obj)
         if '../../' in img.attr('src'):
             src = img.attr('src')
-            src = src.replace('../../', 'http://www.writethedocs.org/', 1)
+            src = src.replace('../../', 'https://www.writethedocs.org/', 1)
             img.attr('src', src)
 
     content = d.html()

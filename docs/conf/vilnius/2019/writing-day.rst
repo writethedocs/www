@@ -9,9 +9,8 @@ Writing Day
 Schedule
 --------
 
-- Date & Time: **Sunday, June 2th, 9am-5pm**,
-  with the conference opening reception in the same space until 9.
-- Location: **Vilnius, University of Social Sciences**. We will be in the main ballroom.
+- Date & Time: **Sunday, June 2, 10:00-18:00**
+- Location: **Vilnius, University of Social Sciences**
 
 Projects
 --------
@@ -51,11 +50,6 @@ Improve navigation
 
 Let's discuss information architecture -- can we organize the content better? Provide better navigation?
 
-Write articles for the newsletter
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Summarize content from the Slack channel for the `newsletter </blog/newsletter-may-2018/#looking-ahead>`_.
-
 Help develop the Documentation Guide
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -68,8 +62,6 @@ We have a list of `issues on GitHub <https://github.com/writethedocs/www/issues?
 tagged as `writingday` that includes things like:
 
 - fix broken links (we have a lot of these)
-- improve the meetup pages
-- make a better video archive
 - add list of conference write ups for past conferences
 
 Your project here

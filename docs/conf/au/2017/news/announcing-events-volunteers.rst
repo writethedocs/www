@@ -10,7 +10,7 @@ The conference is now just under two months away, and we hope you’re getting g
 
 `Tickets <https://ti.to/writethedocs/write-the-docs-day-australia-2017>`_ are selling quickly – thanks to everyone who has already purchased theirs!
 
-If you're still debating whether to attend, check out the `Sessions <http://www.writethedocs.org/conf/au/2017/speakers/>`_ page for the full list of presentations.
+If you're still debating whether to attend, check out the `Sessions <https://www.writethedocs.org/conf/au/2017/speakers/>`_ page for the full list of presentations.
 
 Events and Activities
 ---------------------
@@ -19,11 +19,11 @@ As always, Write the Docs events are more than just talks. Every year we offer a
 
 Check out what we have in store for you this year in Melbourne:
 
-- **Writing Sprint.** Before the main talks, we'll be hosting a `Doc Sprint <http://www.writethedocs.org/conf/au/2017/schedule/>`_ before we dive into the main sessions. This is an excellent opportunity to register early, meet your fellow documentarians, learn about and work on interesting documentation projects, and make yourself at home!
+- **Writing Sprint.** Before the main talks, we'll be hosting a `Doc Sprint <https://www.writethedocs.org/conf/au/2017/schedule/>`_ before we dive into the main sessions. This is an excellent opportunity to register early, meet your fellow documentarians, learn about and work on interesting documentation projects, and make yourself at home!
 
 - **Social Event.** TBA.
 
-For the full schedule overview including start/end times for all activities, take a look at our `Schedule <http://www.writethedocs.org/conf/au/2017/schedule/>`_ page.
+For the full schedule overview including start/end times for all activities, take a look at our `Schedule <https://www.writethedocs.org/conf/au/2017/schedule/>`_ page.
 
 Call for Volunteers
 -------------------
@@ -46,4 +46,4 @@ Thanks so much for your help in making Write the Docs possible!
 What's Next?
 ------------
 
-If you're planning your Melbourne travel and need some orientation help, go ahead and visit out `Visiting Melbourne <http://www.writethedocs.org/conf/au/2017/visiting/>`_ page.
+If you're planning your Melbourne travel and need some orientation help, go ahead and visit out `Visiting Melbourne <https://www.writethedocs.org/conf/au/2017/visiting/>`_ page.
