@@ -1,0 +1,22 @@
+{% include "site/head.html" %}
+
+
+<div class="documentation">
+    <div class="uk-container">
+        <a class="sidebar-button uk-hidden@s" href="#" >
+            <span uk-icon="icon: list"></span>
+        </a>
+
+        <aside class="sidebar uk-visible@s uk-width-1-5@s">
+            {{ toctree(collapse=False, includehidden=theme_sidebar_includehidden) }}
+        </aside>
+
+        <section class="uk-width-1-1 uk-width-4-5@s">
+            {% block body %}
+            {{ body }}
+            {% endblock %}
+        </section>
+    </div>
+</div>
+
+{% include "site/footer.html" %}
