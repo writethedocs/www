@@ -36,28 +36,15 @@ WIP Docs on how to do this:
 
 2. Make sure the directory `videos/<city>/<year>` is included in the Video Archive `toctree` in `docs/videos/index.rst`.
 
-3. In `conf.py`, around line 130 uncomment the following two lines:
+3. In the [venv](#prerequisites-for-generating-the-docs-locally) switch to the `docs` directory and run `BUILD_VIDEOS=True make html`.
 
-   ```
-   #from _ext.videos import main
-   #html_context.update(main())
-   ```
-4. In the [venv](#prerequisites-for-generating-the-docs-locally) switch to the `docs` directory and run `make html`.
-
-5. Commit the the *relevant* changed files:
+4. Commit the the *relevant* changed files:
 
    * `docs/videos/index.rst`
    * `_data/<year>.<city>.speakers.yaml`
    * `docs/videos/<city>/<year>/*`
 
-6. If you want to preview locally:
-
-    1. In `conf.py` around line 35 comment out the following two lines:
-
-       ```
-       if not on_rtd and not on_netlify and not on_travis:
-           exclude_patterns.append('videos')
-       ```
+5. If you want to preview locally:
 
     1. Run `BUILD_VIDEOS=True make livehtml` and browse the new video pages at `http://127.0.0.1:8888`.
 
