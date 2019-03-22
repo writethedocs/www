@@ -4,15 +4,15 @@
 Writing Day
 ===========
 
-.. include:: /include/conf/events/writing-day.rst
+{% include "conf/events/writing-day.rst" %}
 
 Schedule
 --------
 
 
-- Date & Time: **{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}}, 9am-6pm**,
+- Date & Time: **{{date.month}} {{date.day_two.date}}, 9am-6pm**,
   with the conference opening reception in the same space from 17:00.
-- Location: **{{about.venue}}**. We will be in the main ballroom.
+- Location: We will be in the main ballroom.
 
 ..
   .. datatemplate::
@@ -40,10 +40,6 @@ Improve navigation
 
 Let's discuss information architecture -- can we organize the content better? Provide better navigation?
 
-Write articles for the newsletter
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Summarize content from the Slack channel for the `newsletter </blog/newsletter-may-2018/#looking-ahead>`_.
 
 Help develop the Documentation Guide
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -1,11 +1,11 @@
 # Style Guides
 
-A style guide is a set of standards for the writing and design of content, defining the style to be used in communication within a particular organization. Basically, style guides are put together to clarify [the way a group of people talk and write about the things they do](http://www.writethedocs.org/style-guide/). Think of authoring best practices.
+A style guide is a set of standards for the writing and design of content, defining the style to be used in communication within a particular organization. Basically, style guides are put together to clarify [the way a group of people talk and write about the things they do](https://www.writethedocs.org/style-guide/). Think of authoring best practices.
 
 If you happen to have a background in academia or journalism, you will probably be familiar the [AP stylebook](https://en.wikipedia.org/wiki/AP_Stylebook) or the [Chicago manual of style](http://www.chicagomanualofstyle.org/book/ed17/frontmatter/toc.html). Those are great resources for writing in general, particularly for grammar and syntax, but if you're reading this page chances are you are considering style in the context of technical documentation.
 
 ### Technical Documentation
-Style guides help you write a variety of content, such as documenting the methods of an API, or presenting a overview of complex technical concepts, or focusing on how to write particular content like user manuals, release notes, or tutorials.
+Style guides help you write a variety of content, such as documenting the methods of an API, or presenting an overview of complex technical concepts, or focusing on how to write particular content like user manuals, release notes, or tutorials.
 
 Guides often help writers focus on the different readers of technical documentation, describing how to adapt content to different reader profiles, like developers, product managers, the general public, and others.
 
@@ -48,6 +48,15 @@ If you belong to an open-source community or NGO, you can consider the following
 ### Selecting a good style guide for your audience
 
 Technical documentation takes many forms, each one targeting a certain need. Here, we can think of examples like tutorials, API documentation, and user manuals. So while many style guides adequately cover the main concerns of all technical documentation, sometimes a more specialized guide is needed.
+
+### Thinking about accessibility
+
+It's important to consider accessibility in your style guide to ensure the content you produce can be best understood by all readers. Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
+
+A few great resources:
+
+- [MailChimp's style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
+- [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
 
 ### More info is needed for the following
 

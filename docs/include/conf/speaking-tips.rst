@@ -12,7 +12,6 @@ Facts
    Please plan to use the entire slot.
 -  We will have a lapel mic for you, so you don’t need to hold a microphone.
 -  We will provide HDMI, USB-C and MiniDisplay port adapters.
--  The display ratio of the projector is 4:3
 -  The more you practice your talk, the more comfortable you'll be.
    In addition to practicing by yourself, we strongly reccomend you
    run through it in front of at least one other human.

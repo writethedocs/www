@@ -83,7 +83,7 @@ job_fair:
 flaglanding: False
 flagcfp: False
 flaghasschedule: True
-flagticketsonsale: True
+flagticketsonsale: False
 flagspeakersannounced: True
 flaghastour: True
 flaghashike: False

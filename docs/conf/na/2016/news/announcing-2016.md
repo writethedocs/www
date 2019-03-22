@@ -24,7 +24,7 @@ All of these events are optional, but we’d strongly recommend you come into to
 
 This year, our auxiliary events will include:
 
-- **[Hike](http://www.writethedocs.org/conf/na/2016/hike/)** (Saturday Afternoon) --- Join us for what’s become a Write the Docs institution: A trek along the verdant trails of Portland’s stunning Forest Park.
+- **[Hike](https://www.writethedocs.org/conf/na/2016/hike/)** (Saturday Afternoon) --- Join us for what’s become a Write the Docs institution: A trek along the verdant trails of Portland’s stunning Forest Park.
 - **Writing Day** (Sunday Daytime) --- Kicking things off the day before the conference, our Writing Day is all about, y’know, writing the docs! Meet up with your fellow documentarians either to collaborate on your own projects or contribute to open source projects like [Wordpress](http://codex.wordpress.org/) or the [Mozilla Developer Network](https://developer.mozilla.org/en-US/). This is an awesome opportunity to share your knowledge and learn from your peers. 
 - **Conference Reception** (Sunday Night) --- Come early, pick up your badge, and get to know other attendees.
 - **Official Party** (Monday Night) --- Wind down and discuss the first day's talks in a relaxed and friendly environment.
@@ -40,5 +40,5 @@ We’ve been so thrilled to see how much this community of documentarians has gr
 
 Remember, talk proposals will open soon. Start gathering your ideas and getting excited about another year of great talks and conversations!
 
-Cheers,   
-Write the Docs Team   
+Cheers,
+Write the Docs Team

@@ -13,27 +13,27 @@ Folks
 Swapnil Ogale
 ~~~~~~~~~~~~~~
 
-.. include:: /include/bios/swapnil.rst
+{% include "bios/swapnil.rst" %}
 
 Sarah Maddox
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/sarah.rst
+{% include "bios/sarah.rst" %}
 
 Nicola Nye
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/nicola.rst
+{% include "bios/nicola.rst" %}
 
 Russell Dickenson
 ~~~~~~~~~~~~~~~~~~
 
-.. include:: /include/bios/russell.rst
+{% include "bios/russell.rst" %}
 
 Jared Morgan
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/jared.rst
+{% include "bios/jared.rst" %}
 
 
 Primary Roles

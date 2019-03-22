@@ -14,14 +14,14 @@ var gulp = require('gulp'),
 
 // Styles
 gulp.task('styles', function() {
-  return gulp.src('docs/_static/2018/scss/main.scss', { style: 'expanded' })
+  return gulp.src('docs/_static/2019/scss/main.scss', { style: 'expanded' })
     .pipe(sass().on('error', sass.logError))
     .pipe(plumber())
     .pipe(autoprefixer({browsers: ['last 2 version']}))
-    .pipe(gulp.dest('docs/_static/2018/css/'))
+    .pipe(gulp.dest('docs/_static/2019/css/'))
     .pipe(rename({ suffix: '.min' }))
     .pipe(cssnano())
-    .pipe(gulp.dest('docs/_static/2018/css/'))
+    .pipe(gulp.dest('docs/_static/2019/css/'))
     .pipe(notify({ message: 'Styles task complete' }));
 });
 
@@ -29,16 +29,16 @@ gulp.task('styles', function() {
 // Static server
 gulp.task('browser-sync', function() {
     browserSync.init([
-      "docs/_static/2018/css/*.css",
-      "docs/_static/2018/js/*.js",
-      'docs/_templates/2018/*.html'], {
+      "docs/_static/2019/css/*.css",
+      "docs/_static/2019/js/*.js",
+      'docs/_templates/2019/*.html'], {
         proxy:  "http://localhost:8888"
     });
 });
 
 // Watch
 gulp.task('watch', ['browser-sync'], function() {
-  gulp.watch('docs/_static/2018/scss/main.scss', ['styles']);
+  gulp.watch('docs/_static/2019/scss/main.scss', ['styles']);
 });
 
 // Default task

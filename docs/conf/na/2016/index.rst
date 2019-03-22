@@ -10,7 +10,7 @@ We're so grateful to our sponsors, speakers, volunteers, and attendees for makin
 We have posted the `videos <https://www.youtube.com/playlist?list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv>`_ and `photos <https://www.flickr.com/photos/writethedocs/albums/72157669467964085>`_ from the conference for those who couldn't attend.
 Hopefully they allow you to bask in the beauty of the event from the comfort of your own chair.
 
-We hope you'll join us in `Prague <http://www.writethedocs.org/conf/eu/2016/>`_ in September,
+We hope you'll join us in `Prague <https://www.writethedocs.org/conf/eu/2016/>`_ in September,
 or again in Portland next year!
 
 About the conference
@@ -284,4 +284,4 @@ follow us on Twitter at `@writethedocs <https://twitter.com/writethedocs>`_,
 email us at portland@writethedocs.org,
 or sign up for our mailing list:
 
-.. include:: /include/na-mailchimp.rst
+{% include "na-mailchimp.rst" %}

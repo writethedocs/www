@@ -1,9 +1,6 @@
 Testing your Documentation
 ==========================
 
-:author: Eric Holscher
-:last-updated: February 13, 2017
-
 Testing your documentation allows you to make sure it is in a consistent state.
 Doing this gives your users a better experience,
 and reduces stress around common issues as a writer.
@@ -93,19 +90,54 @@ Here are a few links that might be interesting:
 * https://krausefx.com/blog/writing-automated-tests-for-your-documentation
 
 
-Write Good
-----------
+Vale
+----
 
-"Naive linter for English prose for developers who can't write good and wanna
-learn to do other stuff good too."
+Vale is a syntax-aware linter for prose built for speed and extensibility.
 
-https://github.com/btford/write-good
+https://github.com/errata-ai/vale
 
-This linter is a prose linter for English.
-It has a number of checks for things like:
+It ships with the following default styles:
 
-* Passive voice
-* Lexical illusions
-* Weasel words
+* `Proselint <https://github.com/amperser/proselint>`_
+* `Write-good <https://github.com/btford/write-good>`_
+* `Joblint <https://github.com/rowanmanning/joblint>`_
 
-It works as a command line interface or a JavaScript library.
+Several organizations have also created styles for use with Vale. Some of these
+styles have been collected in the following repository: https://github.com/testthedocs/vale-styles .
+
+To configure Vale, follow the instructions in the README. If needed, install
+the *vale* binary as an executable in your $PATH, so you can run *vale* directly
+from the command line. For example, on UNIX/Linux systems, you can copy vale
+to the /usr/local/bin directory.
+
+After installing Vale, run the following commands to check for proper installation:
+
+$ `vale`
+
+$ `vale dc`
+
+If you see empty JSON in the output to the second command, you've successfully
+installed Vale.
+
+Now to configure Vale, you'll need a .vale or a .vale.ini configuration file. For some
+examples, see
+
+* https://github.com/writethedocs/www/blob/master/.vale
+* https://github.com/cockroachdb/docs/blob/master/.vale.ini
+* https://github.com/linode/docs/blob/develop/.vale.ini
+
+While it's possible to install the Vale configuration file in different locations,
+it may be most convenient to install it in the root directory of your target
+repository, as shown in the noted examples.
+
+Once configured for your repository, you should be able to navigate to your
+repository path, and then run `vale dc` to confirm your configuration.
+
+You can then apply Vale as a grammar linter directly to your source files, with
+a command like:
+
+$ `vale /path/to/someText.md`
+
+Hint: Vale even works with XML files, such as those in DocBook and DITA, as long
+as you've included `*.xml` in the Vale configuration file.

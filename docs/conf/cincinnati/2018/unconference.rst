@@ -14,7 +14,7 @@ topic, you can `submit a pull request against this page <https://github.com/writ
 email us at cincinnati@writethedocs.org, or drop a note in the
 `#cincinnati <https://writethedocs.slack.com/messages/cincinnati>`_ 
 channel on the
-`Write the Docs Slack <http://www.writethedocs.org/slack/>`_.
+`Write the Docs Slack <https://www.writethedocs.org/slack/>`_.
 
 * Content strategy
 * Linters and checkers
@@ -29,6 +29,6 @@ Schedule
 
 The unconference will be all day Sunday (August 19) except for a short break
 for lightning talks. See the
-`Schedule <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/>`_
+`Schedule <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/>`_
 page for a rough outline of how the day will go.
 

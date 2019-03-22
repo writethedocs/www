@@ -6,7 +6,7 @@
 Write the Docs Boat Ride
 ========================
 
-.. include:: /include/conf/prague/boat.rst
+{% include "conf/prague/boat.rst" %}
 
 {% elif shortcode == 'portland'%}
 
@@ -15,7 +15,7 @@ Write the Docs Boat Ride
 Write the Docs Hike
 ===================
 
-.. include:: /include/conf/portland/hike.rst
+{% include "conf/portland/hike.rst" %}
 
 {% else %}
 

@@ -13,7 +13,7 @@ Sponsors
 The conference wouldn't be nearly as great as it is without our wonderful corporate sponsors.
 Thanks to these folks for supporting the community.
 
-.. include:: /include/conf/2017-au-sponsors.rst
+{% include "conf/2017-au-sponsors.rst" %}
 
 
 In Kind Sponsors
@@ -21,11 +21,11 @@ In Kind Sponsors
 
 Write the Docs is also helped out by companies that give their employees time to work on the conference.
 
-.. include:: /include/conf/2017-au-sponsors-in-kind.rst
+{% include "conf/2017-au-sponsors-in-kind.rst" %}
 
 Media Sponsors
 ----------------
 
 These folks will be helping cover the conference so people who can't attend still get all the good information that is being presented!
 
-.. .. include:: /include/conf/2017-au-sponsors-media.rst
+.. {% include "conf/2017-au-sponsors-media.rst" %}

@@ -7,7 +7,7 @@ Greetings!
 We'd like invite you to join us more actively this coming year!
 
 By helping out, you'll:
-* learn more about the [Write the Docs](http://www.writethedocs.org/) organization
+* learn more about the [Write the Docs](https://www.writethedocs.org/) organization
 * have the opportunity to get more involved in the larger US and international WriteTheDocs community
 * network with other like-minded professionals
 * raise the visibility of the latest techniques and technologies for creating great documentation

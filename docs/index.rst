@@ -5,8 +5,6 @@
    :author: Write the Docs
    :geo.placename: Worldwide
 
-**Write the Docs Prague is happening now!** Go to the :doc:`schedule <conf/prague/2018/schedule>`!
-
 Welcome to our community!
 =========================
 
@@ -25,6 +23,8 @@ Our conferences create a time and a place for the global community of
 :doc:`documentarians` to share information, discuss ideas, and work together
 to improve the **art and science of documentation**.
 
+Our :doc:`/code-of-conduct` applies to all our community spaces.
+
 Join the community
 ------------------
 
@@ -40,6 +40,7 @@ Get more information on how to meet the community, learn new things, get involve
    about/learning-resources
    about/stay-connected
    about/about-the-org
+   code-of-conduct
 
 
 Our focus is on community, and putting on our conferences is where we spend much of our time and effort
@@ -71,3 +72,5 @@ Here are our latest events, and we hope to see you online or in person soon!
    conf/cincinnati/*/*/*
    conf/australia/*/*
    conf/australia/*/*/*
+   conf/vilnius/*/*
+   conf/vilnius/*/*/*

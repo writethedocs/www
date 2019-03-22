@@ -1,0 +1,1 @@
+Hillary contributes to the Write the Docs newsletter and helped organize the inaugural `Write the Docs Cincinnati + Open Help <https://www.writethedocs.org/conf/cincinnati/2018/>`_ in 2018. She's a freelance technical writer and editor in Cincinnati.

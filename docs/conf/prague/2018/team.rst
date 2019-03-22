@@ -13,27 +13,27 @@ Folks
 Mikey Ariel
 ~~~~~~~~~~~
 
-.. include:: /include/bios/mikey.rst
+{% include "bios/mikey.rst" %}
 
 Samuel Wright
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/sam.rst
+{% include "bios/sam.rst" %}
 
 Eric Holscher
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/eric.rst
+{% include "bios/eric.rst" %}
 
 Kelly O'Brien
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/kelly.rst
+{% include "bios/kelly.rst" %}
 
 Sasha Romijn
 ~~~~~~~~~~~~
 
-.. include:: /include/bios/sasha.rst
+{% include "bios/sasha.rst" %}
 
 
 Primary Roles

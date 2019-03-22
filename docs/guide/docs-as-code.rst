@@ -59,7 +59,7 @@ and are gaining adoption in the writing community.
 .. _Rachel Whitten: https://www.youtube.com/watch?v=dHdBsNxtKeI
 
 *Docs as Code* at other Conferences, Video Casts and Articles
----------------------------------------------------
+-------------------------------------------------------------
 
 The approach has been presented at several other conferences or just video casts by different speakers.
 

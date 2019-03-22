@@ -3,4 +3,4 @@
 Visiting {{ city }}
 =======================
 
-.. include:: /include/conf/{{shortcode}}/visiting.rst
+{% include "conf/" + shortcode + "/visiting.rst" %}

@@ -10,12 +10,12 @@ Our Portland conference is just two weeks away and we hope you're getting excite
 
 The conference is officially **sold out**, thank you to everyone who registered and we look forward to see you soon.
 
-We always try to over-document the conference for our attendees. Our `Welcome Wagon <http://www.writethedocs.org/conf/na/2017/welcome-wagon/>`_ guide is full of information about the conference, and we recommend that you check it out!
+We always try to over-document the conference for our attendees. Our `Welcome Wagon <https://www.writethedocs.org/conf/na/2017/welcome-wagon/>`_ guide is full of information about the conference, and we recommend that you check it out!
 
 Full Presentation Schedule
 --------------------------
 
-Our website is now updated with the `final schedule <http://www.writethedocs.org/conf/na/2017/schedule/>`_ for the presentations, so you can start planning your time at the conference.
+Our website is now updated with the `final schedule <https://www.writethedocs.org/conf/na/2017/schedule/>`_ for the presentations, so you can start planning your time at the conference.
 
 Next week we will publish the timeslots for the unconference sessions as well as a preliminary list of Writing Day projects that you can hack on. If you have a project you'd like to promote, feel free to reply to this email and we'll get it added.
 
@@ -42,7 +42,7 @@ Thanks to Our Sponsors
 
 Every year we are fortunate to have the support of our communities and organizations, which help to keep our ticket prices low, the value to attendees high, and enable us to offer scholarship tickets to increase diversity.
 
-We'd like to take this opportunity to thank the `sponsors <http://www.writethedocs.org/conf/na/2017/sponsor/>`_ of this year's Portland conference:
+We'd like to take this opportunity to thank the `sponsors <https://www.writethedocs.org/conf/na/2017/sponsor/>`_ of this year's Portland conference:
 
 * `Google <https://google.com>`_
 * `Wordpress <https://wordpress.com/>`_

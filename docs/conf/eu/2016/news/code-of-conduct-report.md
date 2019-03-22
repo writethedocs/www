@@ -7,7 +7,7 @@ all documentarians. As a part of our ongoing efforts to promote safe spaces in t
 tech fields, we:
 
 * explicitly required all attendees, speakers, and sponsors, to
-adhere to our [Code of Conduct](http://www.writethedocs.org/code-of-conduct/) during
+adhere to our [Code of Conduct](https://www.writethedocs.org/code-of-conduct/) during
 registration to the conference.
 
 * posted printed signs with the summary of the Code of Conduct in multiple locations

@@ -212,7 +212,7 @@
 									</div>
 								</div>
 
-.. include:: /include/conf/2017-na-sponsors.rst
+{% include "conf/2017-na-sponsors.rst" %}
 
 .. raw:: html
 
@@ -231,7 +231,7 @@
                   </div>
                 </div>
 
-.. include:: /include/conf/2017-na-sponsors-in-kind.rst
+{% include "conf/2017-na-sponsors-in-kind.rst" %}
 
 .. raw:: html
 

@@ -17,12 +17,12 @@ Let us know how we can improve for future conferences and gatherings. We really 
 
 ## Speak or Sponsor in Europe
 
-Don't forget we have our European conference this year in Prague! The [Call for Proposals](http://www.writethedocs.org/conf/eu/2016/cfp/) is open until **June 10**.
+Don't forget we have our European conference this year in Prague! The [Call for Proposals](https://www.writethedocs.org/conf/eu/2016/cfp/) is open until **June 10**.
 
 We're also looking for more sponsors to make the Prague event just as magical as this year's Portland event. If you are curious about sponsoring EU or NA again next year,
-please contact us at [sponsorship@writethedocs.org](mailto:sponsorship@writethedocs.org).
+please contact us at <mailto:sponsorship@writethedocs.org>.
 
-You can find information about the conference and Call for Proposals on our [European Conference website](http://www.writethedocs.org/conf/eu/2016/).
+You can find information about the conference and Call for Proposals on our [European Conference website](https://www.writethedocs.org/conf/eu/2016/).
 
 ## Videos
 
@@ -34,7 +34,7 @@ The Write the Docs Slack has really taken off this year! Our general Slack chann
 
 ## Meetups
 
-We hope you continue to [build the community](http://www.writethedocs.org/meetups/) and keep in touch with other documentarians in your hometown. In this spirit, we have a number of meetups in cities across the country. If you don't see your city [listed](http://www.writethedocs.org/meetups/), consider [starting](http://www.writethedocs.org/meetups/starting/) a meetup! 
+We hope you continue to [build the community](https://www.writethedocs.org/meetups/) and keep in touch with other documentarians in your hometown. In this spirit, we have a number of meetups in cities across the country. If you don't see your city [listed](https://www.writethedocs.org/meetups/), consider [starting](https://www.writethedocs.org/meetups/starting/) a meetup! 
 
 Keep us posted if you start one (or encounter a new one) so that we can spread the word.
 

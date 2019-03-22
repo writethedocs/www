@@ -1,4 +1,5 @@
 from __future__ import print_function
+
 from future import standard_library
 standard_library.install_aliases()
 
@@ -7,8 +8,11 @@ import io
 import re
 import yaml
 import glob
+import commonmark
+import logging
 
-import CommonMark
+log = logging.getLogger(__name__)
+
 
 try:
     from pathlib import PurePath
@@ -40,6 +44,7 @@ def load_page_yaml_data(app, page):
         try:
             year = int(p.parts[2])
         except (ValueError, IndexError):
+            log.warning('Unable to process conference YAML data: %s', page)
             return data
         if year >= 2018:
             yaml_config = load_yaml('_data/config-' + p.parts[1] + '-' + p.parts[2] + '.yaml')
@@ -85,7 +90,7 @@ def rstjinja(app, docname, source):
     """
     context = load_page_yaml_data(app, docname)
     context.update(app.config.html_context)
-    if docname.startswith(('conf/', 'guide/', 'videos/by-year', 'videos/by-series')):
+    if docname.startswith(('about/', 'conf/', 'guide/', 'videos/by-year', 'videos/by-series')):
         src = source[0]
         rendered = app.builder.templates.render_string(src, context)
         source[0] = rendered
@@ -98,18 +103,37 @@ def add_jinja_filters(app):
     from .meetups import state_abbr
 
     def markdown_filter(data):
-        parser = CommonMark.DocParser()
-        renderer = CommonMark.HTMLRenderer()
+        parser = commonmark.Parser()
+        renderer = commonmark.HtmlRenderer()
         return renderer.render(parser.parse(data))
 
     def html_unescape(str):
         h = HTMLParser()
         return h.unescape(str)
 
+    def media_photo(_file, _type):
+        for ext in ['jpg', 'png', 'svg']:
+            file_name = '_static/img/{type}/{file}.{ext}'.format(
+                type=_type,
+                file=_file,
+                ext=ext,
+            )
+            if os.path.exists(file_name):
+                return '/' + file_name
+        return '/_static/img/speakers/missing.jpg'
+
+    def speaker_photo(file):
+        return media_photo(file, 'speakers')
+
+    def sponsor_photo(file):
+        return media_photo(file, 'sponsors')
+
     app.builder.templates.environment.filters['markdown'] = markdown_filter
     app.builder.templates.environment.filters['html_unescape'] = html_unescape
     app.builder.templates.environment.filters['state_abbr'] = state_abbr
     app.builder.templates.environment.filters['slugify'] = slugify
+    app.builder.templates.environment.filters['speaker_photo'] = speaker_photo
+    app.builder.templates.environment.filters['sponsor_photo'] = sponsor_photo
 
 
 def override_page_template(app, pagename, templatename, context, doctree):
@@ -177,7 +201,6 @@ def load_conference_data():
         mo = sessions_file_pattern.match(base)
         if mo:
             continue
-        #print("%s doesn't follow the conference data file conventions" % (base,))
     return result
 
 
