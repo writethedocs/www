@@ -56,6 +56,6 @@ Thanks
 Thank you to `Djangocon US`_ for inspiration on this page.
 
 .. _Crystal Ballroom: http://www.mcmenamins.com/CrystalBallroom
-.. _middle of downtown: http://goo.gl/maps/D2WrJ
+.. _middle of downtown: https://goo.gl/maps/AwSBqVPtrDR2
 .. _email us: portland@writethedocs.org
 .. _Djangocon US: https://2015.djangocon.us/
