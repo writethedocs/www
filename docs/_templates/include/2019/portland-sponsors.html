@@ -1,83 +1,52 @@
 <div class="sponsors">
   <div class="gold-sponsors">
+    {% for sponsor in sponsors.keystone %}
     <div class="uk-width-1-1@s">
-      <a href="https://www.google.com/"><img src={{ "google"|sponsor_photo }}
-      style="max-width: 500px;" /></a>
+      <a href="{{ sponsor.link }}">
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: 500px;" />
+      </a>
     </div>
+    {% endfor %}
   </div>
 
   <div class="silver-sponsors">
+    {% for sponsor in sponsors.patron %}
     <div class="uk-width-1-1@s">
-      <a href="https://developer.microsoft.com/en-us/"><img src=
-      {{ "microsoft"|sponsor_photo }} /></a>
+      <a href="{{ sponsor.link }}">
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: 400px;" />
+      </a>
     </div>
+    {% endfor %}
+  </div>
 
-    <div class="uk-width-1-1@s">
-      <a href="https://www.twilio.com/"><img style="max-width: 300px;" src=
-      {{ "twilio"|sponsor_photo }} /></a>
+  <div class="silver-sponsors">
+    {% for sponsor in sponsors.publisher %}
+    <div class="uk-width-1-2@s">
+      <a href="{{ sponsor.link }}">
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: 300px;" />
+      </a>
     </div>
-
-    <div class="uk-width-1-1@s">
-      <a href="https://www.braintreepayments.com/"><img style="max-width: 300px;" src=
-      {{ "braintree"|sponsor_photo }} /></a>
-    </div>
-
-    <div class="uk-width-1-1@s">
-      <a href="https://squareup.com/us/en"><img style="max-width: 300px;" src=
-      {{ "square"|sponsor_photo }} /></a>
-    </div>
+    {% endfor %}
   </div>
 
   <div class="bronze-sponsors">
+    {% for sponsor in sponsors.second %}
     <div class="uk-width-1-2@s">
-      <a href="https://www.salesforce.com"><img style="max-width: 200px;" src=
-      {{ "salesforce"|sponsor_photo }} /></a>
-    </div>
-
-    <div class="uk-width-1-2@s">
-      <a href="https://www.cisco.com/"><img style="max-width: 200px;" src=
-      {{ "cisco"|sponsor_photo }} /></a>
-    </div>
-
-    <div class="uk-width-1-2@s">
-      <a href="https://gitlab.com"><img style="max-width: 200px;" src=
-      {{ "gitlab"|sponsor_photo }} /></a>
-    </div>
-
-
-    <div class="uk-width-1-2@s">
-      <a href="https://www.elastic.co/"><img style="max-width: 200px;" src=
-      {{ "elastic"|sponsor_photo }} /></a>
-    </div>
-
-    <div class="uk-width-1-2@s">
-      <a href="https://www.knowledgeowl.com/">
-      <img style="max-width: 200px;" src={{ "knowledgeowl"|sponsor_photo }}>
+      <a href="{{ sponsor.link }}">
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: 200px;" />
       </a>
     </div>
-
-    <div class="uk-width-1-2@s">
-      <a href="https://www.netlify.com/wtd">
-      <img style="max-width: 200px;" src="{{ "netlify"|sponsor_photo }}">
-      </a>
-    </div>
-
+    {% endfor %}
   </div> <!-- end bronze -->
 
   <div class="community-sponsors">
-
+    {% for sponsor in sponsors.first %}
     <div class="uk-width-1-2@s">
-      <a href="https://www.cncf.io/"><img style="max-width: 175px;" src=
-      {{ "cncf"|sponsor_photo }} /></a>
+      <a href="{{ sponsor.link }}">
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: 150px;" />
+      </a>
     </div>
-
-    <div class="uk-width-1-2@s">
-        <a href="https://www.stickermule.com/supports/writethedocs-portland">
-          <!-- larger because the image has padding -->
-          <img style="max-width: 200px;" src={{ "stickermule"|sponsor_photo }}>
-        </a>
-    </div>
-
+    {% endfor %}
   </div><!-- end community sponsors section -->
 
 </div><!-- end sponsors section -->

@@ -1,7 +1,7 @@
-{%- macro sponsors() -%}
+{%- macro conf_sponsors() -%}
 {%- include "include/" + year|string + "/" + shortcode + "-sponsors.html" ignore missing -%}
 {%- endmacro -%}
-{% set sponsors = sponsors() %}
+{% set conf_sponsors = conf_sponsors() %}
 
 {%- macro sponsors_in_kind() -%}
 {%- include "include/" + year|string + "/" + shortcode + "-sponsors-in-kind.html" ignore missing -%}
@@ -9,7 +9,7 @@
 {% set sponsors_in_kind = sponsors_in_kind() %}
 
 {%- macro media_sponsors() -%}
-{%- include "include/" + year|string + "/" + shortcode + "-sponsors-media.html" ignore missing -%}
+{%- include "include/" + year|string + "/" + shortcode + "-sponsors-media.html" ignore missing with context -%}
 {%- endmacro -%}
 {% set media_sponsors = media_sponsors() %}
 
@@ -19,7 +19,7 @@ Sponsors
 We are seeking corporate partners to help us create the best conference possible.
 You can find more information in our :doc:`prospectus`.
 
-{% if sponsors %}
+{% if conf_sponsors %}
 
 Corporate sponsors
 ------------------
@@ -29,7 +29,7 @@ Thanks to these folks for supporting the community.
 
 .. raw:: html
 
-    {{ sponsors|indent(4) }}
+    {{ conf_sponsors|indent(4) }}
 
 {% endif %}
 
