@@ -10787,3 +10787,11 @@ td.uk-text-break {
   h2,
   h3 {
     page-break-after: avoid; } }
+
+.crew-images {
+  float: left;
+  width: 100%; }
+
+.crew-image {
+  float: left;
+  margin-right: 15px; }

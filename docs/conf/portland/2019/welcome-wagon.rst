@@ -168,39 +168,34 @@ Come find us and ask any questions, or just chat about the conference!
 
 .. container:: crew-images
 
-   .. container:: col-sm-offset-2
+   .. container:: crew-image
 
       .. figure:: /_static/img/crew/christy.jpg
-         :height: 250px
-         :width: 250px
+         :width: 100px
 
          Christy
-   .. container:: col-sm-offset-2
+   .. container:: crew-image
 
       .. figure:: /_static/img/crew/Mo.jpg
-         :height: 250px
-         :width: 250px
+         :width: 100px
 
          Mo
-   .. container:: col-sm-offset-2
+   .. container:: crew-image
 
       .. figure:: /_static/img/crew/Tana.jpg
-         :height: 257px
-         :width: 248px
+         :width: 100px
 
          Tana
-   .. container:: col-sm-offset-2
+   .. container:: crew-image
 
       .. figure:: /_static/img/crew/Alicia.jpg
-         :height: 250px
-         :width: 250px
+         :width: 100px
 
          Alicia
-   .. container:: col-sm-offset-2
+   .. container:: crew-image
 
       .. figure:: /_static/img/crew/David.jpg
-         :height: 250px
-         :width: 233px
+         :width: 100px
 
          David   
 
