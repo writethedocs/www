@@ -16,7 +16,7 @@ Logistics
 
 .. You can get your hike ticket here: https://ti.to/writethedocs/write-the-docs-portland-2018/with/awor0lxyamc
 
-- Date & Time: Leaves promptly at **Saturday, May 19, 2 PM**. Meet at **1:45**.
+- Date & Time: Leaves promptly at **Saturday, May 18, 2 PM**. Meet at **1:45**.
 - Duration: The hike normally takes around 3 hours. Along with transportation back to Portland, allow for up to 4 hours total, returning at 6pm.
 - Start: **Lower Macleay Park** or `Macleay Park Entrance <https://maps.google.com/maps?q=Macleay+Park+Entrance&fb=1&gl=us&hq=Macleay+Park+Entrance&hnear=0x54950b0b7da97427:0x1c36b9e6f6d18591,Portland,+OR&cid=0,0,16280654545704357032&t=m&z=16&iwloc=A>`__. There is a pavilion at the park entrance where we will gather.
 - End: **Oregon Zoo** -- There is a MAX stop here to take us back downtown.
