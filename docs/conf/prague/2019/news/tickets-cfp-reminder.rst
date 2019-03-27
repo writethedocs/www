@@ -20,7 +20,7 @@ As with the previous years, we have tiered pricing to make it fair for everyone.
 Please buy the ticket that best fits your situation.
 Tickets are `on sale now <https://www.writethedocs.org/conf/prague/2019/tickets/>`_.
 
-Following the success of our swag update last year, your conference ticket will include the new and delightful bags, which were extremely popular last year. We will launch print-on-demand t-shirt sales separately soon, stay tuned for updates!
+Following the success of our swag update last year, your conference ticket will include our delightful bags, which were extremely popular last year. We will launch print-on-demand t-shirt sales separately soon, stay tuned for updates!
 
 Call for proposals reminder
 ---------------------------
