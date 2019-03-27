@@ -1,7 +1,7 @@
 Visiting Portland
 =================
 
-*The 2018 conference planning group includes an Explore Portland committee. Proud locals Mo Nishiyama and Alicia Duncan will be answering questions and providing tips and information on the #wtd-conferences Slack channel as the event draws near. Feel free to ping us directly as well!*
+*The conference planning group includes an Explore Portland committee. Proud locals Mo Nishiyama and Alicia Duncan will be answering questions and providing tips and information on the #wtd-conferences Slack channel as the event draws near. Feel free to ping us directly as well!*
 
 Wondering where to stay and how to get around once you get into Portland?
 

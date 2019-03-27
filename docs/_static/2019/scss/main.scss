@@ -1333,3 +1333,14 @@ body .uk-navbar-dropdown-nav>li>a:focus, body .uk-navbar-dropdown-nav>li>a:hover
 @mixin hook-card() { color: #000; }
 
 @import "uikit-theme.scss";
+
+
+.crew-images {
+	float: left;
+	width: 100%;
+}
+
+.crew-image {
+	float: left;
+	margin-right: 15px;
+}
