@@ -51,7 +51,7 @@ This is the time where you can introduce the projects you will be working on to 
 {% if flaghasschedule %}
 
 .. datatemplate::
-   :source: /_data/{{templatecode}}-{{year}}-writing-day.yaml
+   :source: /_data/{{shortcode}}-{{year}}-writing-day.yaml
    :template: include/schedule{{year}}.rst
    :include_context:
 
@@ -119,7 +119,7 @@ The "main event" -- we'll have a variety of speakers on the stage sharing their 
 {% if flaghasschedule %}
 
 .. datatemplate::
-   :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
+   :source: /_data/{{shortcode}}-{{year}}-day-1.yaml
    :template: include/schedule{{year}}.rst
    :include_context:
 
@@ -183,7 +183,7 @@ Conference Talks
 {% if flaghasschedule %}
 
 .. datatemplate::
-   :source: /_data/{{templatecode}}-{{year}}-day-2.yaml
+   :source: /_data/{{shortcode}}-{{year}}-day-2.yaml
    :template: include/schedule{{year}}.rst
    :include_context:
 
