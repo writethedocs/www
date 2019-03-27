@@ -1,5 +1,7 @@
 :template: {{year}}/generic.html
 
+.. role:: strike
+    :class: strike
 
 Sponsorship Prospectus
 ######################
@@ -132,7 +134,7 @@ The **Publisher** package costs **{{sponsorship.publisher.price}}**.
 Patron
 ------
 
-Limit 3
+Limit 3 - **1 remaining**
 
 The **Patron** package highlights your company as a force in the industry and community:
 
@@ -150,7 +152,7 @@ The **Patron** package costs **{{sponsorship.patron.price}}**.
 Keystone
 --------
 
-Limit 1
+:strike:`Limit 1` - **Sold Out**
 
 The **Keystone** package highlights you as our main community partner:
 
