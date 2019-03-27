@@ -13,7 +13,7 @@ Tickets are on sale!
 
 Ticket prices and descriptions are available on our `Tickets <https://www.writethedocs.org/conf/prague/2019/tickets/>`_ page. Last year we sold out at 280 attendees, and due to venue capacity we are only able to increase our available tickets to 300, to help our attendees feel comfortable in this beautiful venue.
 
-We believe that everyone who cares about documentation and communication has a place at our events, and we keep ticket prices low so that it is accessible to the widest range of people possible.
+We believe that everyone who cares about documentation and communication has a place at our events, and we keep ticket prices low so that the event is accessible to the widest range of people possible.
 However, if you can't afford these prices and still wish to attend, please email us at prague@writethedocs.org, and we can work on getting you reduced price tickets or volunteer options.
 
 As with the previous years, we have tiered pricing to make it fair for everyone.
