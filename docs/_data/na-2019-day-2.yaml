@@ -1,0 +1,63 @@
+- Duration: '60'
+  Session: Doors Open, Breakfast Served
+  Time: '8:00'
+- Duration: '30'
+  Session: 30 Minute Talk
+  Time: '9:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '9:30'
+- Duration: '30'
+  Session: 30 Minute Talk
+  Time: '9:40'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '10:10'
+- Duration: '30'
+  Session: 30 Minute Talk
+  Time: '10:20'
+- Duration: '20'
+  Session: Snack break
+  Time: '10:50'
+- Duration: '30'
+  Session: 30 Minute Talk
+  Time: '11:10'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '11:40'
+- Duration: '30'
+  Session: 30 Minute Talk
+  Time: '11:50'
+- Duration: '60'
+  Session: Lunch
+  Time: '12:20'
+- Duration: '30'
+  Session: Lightning Talks
+  Time: '13:20'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '13:50'
+- Duration: '15'
+  Session: Sponsored Talk
+  Time: '14:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '14:15'
+- Duration: '30'
+  Session: 30 minute Talk
+  Time: '14:25'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '14:55'
+- Duration: '30'
+  Session: 30 Minute Talk
+  Time: '15:05'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '15:35'
+- Duration: '30'
+  Session: 30 Minute Talk
+  Time: '15:45'
+- Duration: '20'
+  Session: Conference wraps with snacks
+  Time: '16:15'

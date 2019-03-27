@@ -1,0 +1,72 @@
+- Duration: '60'
+  Session: Doors Open, Breakfast Served
+  Time: '8:00'
+- Duration: '30'
+  Session: Introduction to Write the Docs
+  Time: '9:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '9:30'
+- Duration: '30'
+  Session: 30 Minute Talk
+  Time: '9:40'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '10:10'
+- Duration: '30'
+  Session: 30 Minute Talk
+  Time: '10:20'
+- Duration: '20'
+  Session: Snack break
+  Time: '10:50'
+- Duration: '30'
+  Session: 30 Minute Talk
+  Time: '11:10'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '11:40'
+- Duration: '30'
+  Session: 30 Minute Talk
+  Time: '11:50'
+- Duration: '60'
+  Session: Lunch
+  Time: '12:20'
+- Duration: '30'
+  Session: Lightning Talks
+  Time: '13:20'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '13:50'
+- Duration: '30'
+  Session: 30 Minute Talk
+  Time: '14:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '14:30'
+- Duration: '30'
+  Session: 30 Minute Talk
+  Time: '14:40'
+- Duration: '20'
+  Session: Snack break
+  Time: '15:10'
+- Duration: '30'
+  Session: 30 Minute Talk
+  Time: '15:30'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '16:00'
+- Duration: '30'
+  Session: 30 Minute Talk
+  Time: '16:10'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '16:40'
+- Duration: '30'
+  Session: 30 Minute Talk
+  Time: '16:50'
+- Duration: '10'
+  Session: Group Photo
+  Time: '17:20'
+- Duration: '0'
+  Session: Day 1 wraps up
+  Time: '17:30'
