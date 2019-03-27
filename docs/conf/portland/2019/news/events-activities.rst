@@ -38,7 +38,7 @@ Following last year's pilot, we are happy to announce that the `Write the Docs P
 
 The campaign will run in 3-day batches until **May 30th**. We recommend to order your shirt at least 2-3 weeks in advance, to allow for timely delivery of your shirts ahead of the conference.
 
-Similarly, we will be continuing with our bag swag this year, which you can pick up at the conference.
+Similarly, we will be continuing our bag swag this year, which you can pick up at the conference.
 
 Events and activities
 ---------------------
