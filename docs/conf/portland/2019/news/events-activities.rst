@@ -17,7 +17,7 @@ Tickets are selling out
 -----------------------
 
 Every year we are amazed at the growing support of our community, and tickets have been selling out earlier each conference.
-We are now just under **80%** sold out, and judging from past events we do expect to be sold out within the next few weeks.
+We are now just over **80%** sold out, and judging from past events we do expect to be sold out within the next couple weeks.
 
 If you're still on the fence, now is the time to decide and `get your tickets <https://ti.to/writethedocs/write-the-docs-portland-2019/>`_.
 
@@ -30,6 +30,11 @@ This year we are launching our first collaboration with `DiversityTickets.org <h
 
 Diversity scholarship tickets are **free**, and we hope to welcome more people from all walks of life to join our community.
 Please share this campaign with your social networks and encourage folks to apply if they are interested to join us!
+
+Childcare available
+-------------------
+
+New this year, we're offering free child care for attendees who are traveling with their children provided by `DivCare PDX <https://www.divcarepdx.com/>`__. In order to plan capacity, the deadline to register is **April 22nd, 2019**. Please email us at portland@writethedocs.org to request one of the limited spots. We hope this effort will help more of our lovely documentarians to attend the conference!
 
 Shirts on sale
 --------------
@@ -46,15 +51,14 @@ Events and activities
 Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge.
 
 * **Hike**. If you're in town early, join us on Saturday for our traditional `hike <https://www.writethedocs.org/conf/portland/2019/hike/>`_. This activity is a great chance to get to know your fellow documentarians in a smaller setting. The hike is free with your conference ticket, but space is limited! We will publish a separate registration soon.
-* **Writing Day.** The `Writing Day <https://www.writethedocs.org/conf/portland/2019/writing-day/>`_ will be held on Sunday from *9am-5pm*, and you can drop in at any time during the day. If you have a project you want to propose to others, you can pitch your topic during the welcome announcement that will be held at *9:30am*. Please email us if you want to submit a project for the Writing Day! We will publish a list of submitted projects closer to the day.
-* **Welcome reception.** The meet-and-greet event will be held on Sunday from *5pm-8pm*. You can pick up your badge and enjoy a couple of drinks on us. This is a great chance to meet your fellow documentarians before the conference starts.
+* **Writing Day.** The `Writing Day <https://www.writethedocs.org/conf/portland/2019/writing-day/>`_ will be held on Sunday from *9am-5pm*, and you can drop in at any time during the day. If you have a project you want to propose to others, you can pitch your topic during the welcome announcement that will be held at *9:30am*. Please email us if you want to submit a project for the Writing Day!
+* **Welcome reception.** The meet-and-greet event will be held on Sunday from *5pm-8pm*. You can pick up your badge and enjoy a couple of drinks and snacks on us. This is a great chance to meet your fellow documentarians before the conference starts.
 * **Lightning Talks.** We'll have `lightning talks <https://www.writethedocs.org/conf/portland/2019/lightning-talks/>`_ each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.
 * **Unconference.** We'll be running the `Unconference <https://www.writethedocs.org/conf/portland/2019/unconference/>`_ all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place. We'll have a sign-up board so you know what's happening, and supplies to help you brainstorm.
 * **Social event.** This is a private party just for conference attendees, held on *Monday evening from 7pm*, with free snacks and drinks. Details about the venue will be posted closer to the day.
 * **Job Fair**. Following last year's great success, on Tuesday morning we'll have a `job fair <https://www.writethedocs.org/conf/portland/2019/job-fair>`_ where you can find your next documentarian friendly job.
-* **Child care.** New this year! We're launching a collaboration with `Eliot Center <http://eliotcenterportland.org/>`_ and `DivCarePDX <http://www.divcarepdx.com/>`_ to offer free child care for attendees who need to travel with their children. In order to plan capacity, the deadline to register is **April 22nd, 2019**. We will send a message to our registered attendees with instructions how to register for this, and we hope this effort will help more of our lovely documentarians to attend the conference!
 
-The `Schedule page <https://www.writethedocs.org/conf/portland/2019/schedule/>`_ has the latest and most complete information about the presentations. This is where we will also update any changes/cancellations if they should occur.
+The `Schedule page <https://www.writethedocs.org/conf/portland/2019/schedule/>`_ has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.
 
 More news soon
 --------------
