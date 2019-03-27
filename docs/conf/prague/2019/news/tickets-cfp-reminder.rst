@@ -25,7 +25,7 @@ Following the success of our swag update last year, your conference ticket will 
 Call for proposals reminder
 ---------------------------
 
-Thank you so much to all who submitted their proposals so far! Our Call for Proposals is still open until **Midnight CET, 30th April 2019**. Make sure to get your talk in before the new deadline!
+Thank you so much to all who submitted their proposals so far! Our Call for Proposals is still open until **Midnight CET, 30th April 2019**. Make sure to get your talk in before the deadline!
 
 The `Call for Proposals <https://www.writethedocs.org/conf/prague/2019/cfp/>`_ page has tips and examples to help inspire you.
 And if you have an idea but aren't sure what to do with it, feel free to ask for feedback on `Slack <http://slack.writethedocs.org/>`_. Your fellow documentarians will be happy to help!
