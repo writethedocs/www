@@ -24,7 +24,7 @@ If you're still on the fence, now is the time to decide and `get your tickets <h
 Diversity tickets
 -----------------
 
-Write the Docs aims to continuosly expand our community to be more diverse, welcoming, and inclusive.
+Write the Docs aims to continuously expand our community to be more diverse, welcoming, and inclusive.
 
 This year we are launching our first collaboration with `DiversityTickets.org <https://diversitytickets.org/en/events/415/>`_, a wondeful non-profit organization that shares qualifying events with various diversity organizations, and helps folks from underrepresented groups find events to attend.
 
