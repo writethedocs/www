@@ -77,7 +77,7 @@ Is this your first time at Write the Docs? Join us for an informal Introduction 
 
 * **Where**: Lola's Room
 * **When**: **5pm-6pm**
-* **Details**: :doc:` </conf/{{shortcode}}/{{year}}/welcome-wagon>`
+* **Details**: :doc:`</conf/{{shortcode}}/{{year}}/welcome-wagon>`
 
 Monday, May 20
 --------------
@@ -89,7 +89,7 @@ Come on a short tour of the venue with a veteran Write the Docs attendee so youâ
 
 * **Where**: Crystal Ballroom, near reception
 * **When**: **8:15am-9:00am**
-* **Details**: :doc:` </conf/{{shortcode}}/{{year}}/welcome-wagon>`
+* **Details**: :doc:`</conf/{{shortcode}}/{{year}}/welcome-wagon>`
 
 Unconference
 ~~~~~~~~~~~~
