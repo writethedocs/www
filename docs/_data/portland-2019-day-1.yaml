@@ -3,12 +3,14 @@
   Time: '8:00'
 - Duration: '30'
   Session: Write the Docss Team - Introduction to Write the Docs
+  Slug: write-the-docss-team
   Time: '9:00'
 - Duration: '10'
   Session: Switch Speakers
   Time: '9:30'
 - Duration: '30'
   Session: 'Heather Stenson - Any friend of the docs is a friend of mine\: Cultivating a community of documentation advocates'
+  Slug: heather-stenson
   Time: '9:40'
 - Duration: '10'
   Session: Switch Speakers
@@ -16,18 +18,21 @@
 - Duration: '30'
   Session: Ingrid Towey - How to edit other people's content without pissing them
     off
+  Slug: ingrid-towey
   Time: '10:20'
 - Duration: '20'
   Session: Snack break
   Time: '10:50'
 - Duration: '30'
   Session: Kathleen Juell - Writer? Editor? Teacher?
+  Slug: kathleen-juell
   Time: '11:10'
 - Duration: '10'
   Session: Switch Speakers
   Time: '11:40'
 - Duration: '30'
   Session: Shannon Crabill - Documenting for Open Source
+  Slug: shannon-crabill
   Time: '11:50'
 - Duration: '60'
   Session: Lunch
@@ -40,18 +45,21 @@
   Time: '13:50'
 - Duration: '30'
   Session: Syne Mitchell & Allen Tsai - Bam! The Power of Comics to Explain Technology
+  Slug: syne-mitchell
   Time: '14:00'
 - Duration: '10'
   Session: Switch Speakers
   Time: '14:30'
 - Duration: '30'
   Session: Mike Jang - How I Learned to Stop Worrying and Love the Command Line
+  Slug: mike-jang
   Time: '14:40'
 - Duration: '20'
   Session: Snack break
   Time: '15:10'
 - Duration: '30'
   Session: Paul Wallace - Localize the Docs!
+  Slug: paul-wallace
   Time: '15:30'
 - Duration: '10'
   Session: Switch Speakers
@@ -59,12 +67,14 @@
 - Duration: '30'
   Session: "Meghan Mahar - Tutorials, Tooltips, and Popups\u2026oh MY!  How to ease\
     \ yourself and your users into in-app messaging."
+  Slug: meghan-mahar
   Time: '16:10'
 - Duration: '10'
   Session: Switch Speakers
   Time: '16:40'
 - Duration: '30'
   Session: Mark F Iverson - Harvest Past Experience to be a Great Tech Writer
+  Slug: mark-f-iverson
   Time: '16:50'
 - Duration: '10'
   Session: Group Photo

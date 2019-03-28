@@ -3,12 +3,14 @@
   Time: '8:00'
 - Duration: '30'
   Session: Alicia Woodside & Alicja Raszkowska - Draw the Docs
+  Slug: alicia-woodside
   Time: '9:00'
 - Duration: '10'
   Session: Switch Speakers
   Time: '9:30'
 - Duration: '30'
   Session: 'Sarah Moir - Just Add Data\: Make it easier to prioritize your documentation'
+  Slug: sarah-moir
   Time: '9:40'
 - Duration: '10'
   Session: Switch Speakers
@@ -16,12 +18,14 @@
 - Duration: '30'
   Session: 'Matt Reiner - Show Me the Money: How to Get Your Docs the Love and Support
     They Deserve'
+  Slug: matt-reiner
   Time: '10:20'
 - Duration: '20'
   Session: Snack break
   Time: '10:50'
 - Duration: '30'
   Session: 'Chris Bush - SDK Reference Manuals: A flow-based approach'
+  Slug: chris-bush
   Time: '11:10'
 - Duration: '10'
   Session: Switch Speakers
@@ -29,6 +33,7 @@
 - Duration: '30'
   Session: 'Kay Miles - Product Documentation Strategy: What Is It and Why Do We Need
     It?'
+  Slug: kay-miles
   Time: '11:50'
 - Duration: '60'
   Session: Lunch
@@ -47,6 +52,7 @@
   Time: '14:15'
 - Duration: '30'
   Session: Jessica Parsons - Lessons Learned in a Year of Docs-Driven Development
+  Slug: jessica-parsons
   Time: '14:25'
 - Duration: '10'
   Session: Switch Speakers
@@ -54,6 +60,7 @@
 - Duration: '30'
   Session: 'Jodie Putrino - Defying the Status Quo: How a grassroots effort can transform
     an organization'
+  Slug: jodie-putrino
   Time: '15:05'
 - Duration: '20'
   Session: Conference wraps with snacks
