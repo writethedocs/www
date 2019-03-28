@@ -2,31 +2,33 @@
   Session: Doors Open, Breakfast Served
   Time: '8:00'
 - Duration: '30'
-  Session: 30 Minute Talk
+  Session: Alicia Woodside & Alicja Raszkowska - Draw the Docs
   Time: '9:00'
 - Duration: '10'
   Session: Switch Speakers
   Time: '9:30'
 - Duration: '30'
-  Session: 30 Minute Talk
+  Session: 'Sarah Moir - Just Add Data: Make it easier to prioritize your documentation'
   Time: '9:40'
 - Duration: '10'
   Session: Switch Speakers
   Time: '10:10'
 - Duration: '30'
-  Session: 30 Minute Talk
+  Session: 'Matt Reiner - Show Me the Money: How to Get Your Docs the Love and Support
+    They Deserve'
   Time: '10:20'
 - Duration: '20'
   Session: Snack break
   Time: '10:50'
 - Duration: '30'
-  Session: 30 Minute Talk
+  Session: 'Chris Bush - SDK Reference Manuals: A flow-based approach'
   Time: '11:10'
 - Duration: '10'
   Session: Switch Speakers
   Time: '11:40'
 - Duration: '30'
-  Session: 30 Minute Talk
+  Session: 'Kay Miles - Product Documentation Strategy: What Is It and Why Do We Need
+    It?'
   Time: '11:50'
 - Duration: '60'
   Session: Lunch
@@ -44,20 +46,15 @@
   Session: Switch Speakers
   Time: '14:15'
 - Duration: '30'
-  Session: 30 minute Talk
+  Session: Jessica Parsons - Lessons Learned in a Year of Docs-Driven Development
   Time: '14:25'
 - Duration: '10'
   Session: Switch Speakers
   Time: '14:55'
 - Duration: '30'
-  Session: 30 Minute Talk
+  Session: 'Jodie Putrino - Defying the Status Quo: How a grassroots effort can transform
+    an organization'
   Time: '15:05'
-- Duration: '10'
-  Session: Switch Speakers
-  Time: '15:35'
-- Duration: '30'
-  Session: 30 Minute Talk
-  Time: '15:45'
 - Duration: '20'
   Session: Conference wraps with snacks
-  Time: '16:15'
+  Time: '15:35'

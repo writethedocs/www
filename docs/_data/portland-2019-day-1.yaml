@@ -2,31 +2,33 @@
   Session: Doors Open, Breakfast Served
   Time: '8:00'
 - Duration: '30'
-  Session: Introduction to Write the Docs
+  Session: Write the Docss Team - Introduction to Write the Docs
   Time: '9:00'
 - Duration: '10'
   Session: Switch Speakers
   Time: '9:30'
 - Duration: '30'
-  Session: 30 Minute Talk
+  Session: 'Heather Stenson - Any friend of the docs is a friend of mine: Cultivating
+    a community of documentation advocates'
   Time: '9:40'
 - Duration: '10'
   Session: Switch Speakers
   Time: '10:10'
 - Duration: '30'
-  Session: 30 Minute Talk
+  Session: Ingrid Towey - How to edit other people's content without pissing them
+    off
   Time: '10:20'
 - Duration: '20'
   Session: Snack break
   Time: '10:50'
 - Duration: '30'
-  Session: 30 Minute Talk
+  Session: Kathleen Juell - Writer? Editor? Teacher?
   Time: '11:10'
 - Duration: '10'
   Session: Switch Speakers
   Time: '11:40'
 - Duration: '30'
-  Session: 30 Minute Talk
+  Session: Shannon Crabill - Documenting for Open Source
   Time: '11:50'
 - Duration: '60'
   Session: Lunch
@@ -38,31 +40,32 @@
   Session: Switch Speakers
   Time: '13:50'
 - Duration: '30'
-  Session: 30 Minute Talk
+  Session: Syne Mitchell & Allen Tsai - Bam! The Power of Comics to Explain Technology
   Time: '14:00'
 - Duration: '10'
   Session: Switch Speakers
   Time: '14:30'
 - Duration: '30'
-  Session: 30 Minute Talk
+  Session: Mike Jang - How I Learned to Stop Worrying and Love the Command Line
   Time: '14:40'
 - Duration: '20'
   Session: Snack break
   Time: '15:10'
 - Duration: '30'
-  Session: 30 Minute Talk
+  Session: Paul Wallace - Localize the Docs!
   Time: '15:30'
 - Duration: '10'
   Session: Switch Speakers
   Time: '16:00'
 - Duration: '30'
-  Session: 30 Minute Talk
+  Session: "Meghan Mahar - Tutorials, Tooltips, and Popups\u2026oh MY!  How to ease\
+    \ yourself and your users into in-app messaging."
   Time: '16:10'
 - Duration: '10'
   Session: Switch Speakers
   Time: '16:40'
 - Duration: '30'
-  Session: 30 Minute Talk
+  Session: Mark F Iverson - Harvest Past Experience to be a Great Tech Writer
   Time: '16:50'
 - Duration: '10'
   Session: Group Photo
