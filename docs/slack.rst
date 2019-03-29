@@ -53,24 +53,19 @@ Chances are we have a large group of folks in your neck of the woods,
 so join up and chat with them.
 They're a great way to get in touch with your local meetup organizer and community.
 
-Rules
------
-
-We have a few hard and fast rules that we ask people to follow on our Slack:
-
-- **No Direct Pitches** - If you’re coming here *only* to make a sales pitch, please don’t. If you just put a link in the chat without any context or conversation, we will delete it.
-- **No Brands** - If you're going to post, post as yourself, not as a brand. We are a community of individuals and we all exist outside of our day jobs and personal brands.
-- **Use inclusive language** - Our community is multicultural, multiracial, multigendered, and generally diverse. When posting in channels, avoid using words such as "guys" to address a mixed group. Possible alternatives: "folks", "everyone", "documentarians".
-
-Social rules
-------------
+Guidelines
+----------
 
 Our goal with Write the Docs is to be **the most welcoming community on the internet**.
 Documentarians tend to be empathetic people, which means that we should be good at communicating well.
 People who are new to our community in particular should be assisted and welcomed.
 
-We have a few guidelines that we hope people will follow when interacting inside our Slack network:
+In addition to our Code of Conduct, which applies to all spaces associated with Write the Docs, we have a few Slack-specific guidelines:
 
+Social rules
+~~~~~~~~~~~~
+
+- **Use inclusive language** - Our community is multicultural, multiracial, multigendered, and generally diverse. When posting in channels, avoid using words such as "guys" to address a mixed group. Possible alternatives: "folks", "everyone", "documentarians".
 - **Only participate when you can be constructive** - Just because you can make a comment, doesn't mean you should. Try and be constructive in all that you do.
 - **Say hi** - The world is a better place with a flood of hello's.
 - **Don't be snarky** - We are all trying the best we can.
@@ -80,16 +75,21 @@ We have a few guidelines that we hope people will follow when interacting inside
 Online community issues
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-There is a specific set of behavior that is prevalent in online communities that I'd like to address.
-I'd like to make sure we don't fall into these same traps.
+There is a specific set of behaviors that is prevalent in online communities that we'd like to address, to make sure our community doesn't fall into these traps. 
 
-In particular,
-please avoid these behaviors:
+Please avoid these behaviors:
 
 - **No Black Sheep** - There may be tools that you don't like. There is a good chance there is someone in the room who either helped create or likes to use that tool. Don't make them feel bad, they are likely just in a different context.
 - **Let Me Google That For You (LMGTFY)** - If people ask questions that are simple to answer on Google, still answer them nicely.
 - **Question Policing** - Some people might ask incomplete questions that are hard to answer. Ask follow up questions and act in good faith to help them solve their issues.
 - **Technology Competitions** - We don't care if your tool is faster or better in some metric. We care about creating great documentation for our users.
+
+No sales-y content
+~~~~~~~~~~~~~~~~~~
+
+- **No Direct Pitches** - If you’re coming here only to make a sales pitch, don’t bother. We will delete it.
+- **No links without context** - If you put a link in the chat without context or explanation, we will delete it.
+- **No Brands** - If you're going to post, post as yourself, not as a brand. We are a community of individuals and we all exist outside of our day jobs and personal brands.
 
 Reporting Issues
 ~~~~~~~~~~~~~~~~
