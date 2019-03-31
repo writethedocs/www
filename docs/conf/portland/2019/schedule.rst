@@ -53,11 +53,27 @@ You'll have a chance to get acquainted with each other over some drinks and snac
 and pick up your badge so you can skip the line in the morning. Note that we are not
 able to accomodate additional guests at this event.
 
-* **Where**: Crystal Ballroom
+* **Where**: Lola's Room
 * **When**: **5pm-8pm**
+
+Welcome Wagon Introduction
+~~~~~~~~~
+
+Is this your first time at Write the Docs? Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We’ll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new, before we join the opening reception.
+
+* **Where**: Crystal Ballroom
+* **When**: **5pm-6pm**
 
 Monday, May 20
 --------------
+
+Venue tours
+~~~~~~~~~~~~
+
+Come on a short tour of the venue with a veteran Write the Docs attendee so you’ll know where everything is and everything you can take part in.
+
+* **Where**: Crystal Ballroom, near reception
+* **When**: **8:15am-9:00am**
 
 Unconference
 ~~~~~~~~~~~~
@@ -109,6 +125,14 @@ There will be light snacks and drinks available on the conference while our tab 
 
 Tuesday, May 21
 ---------------
+
+Welcome Wagon check-in
+~~~~~~~~~~~~
+
+Meet back up with the Welcome Wagon and fellow first-timers to check-in about how the conference is going for you. Ask any questions you have, pass on stories from your first day, and let the Welcome Wagon know if there is anything you need to make your second day as successful as your first one.
+
+* **Where**: Lola's Room
+* **When**: **8:15am-8:45am**
 
 Job Fair
 ~~~~~~~~
