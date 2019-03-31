@@ -105,6 +105,12 @@ What should I do during the talks?
 -  If you have a question during a talk, make a note of it and use it as a conversation starter with the speaker.
 -  After a talk, feel free to tweet about it with the hashtag #writethedocs. Try not to "watch" the conference through Twitter and other social media, though. You are attending the conference, so live in it as much as you can!
 
+How do I take part in the Writing Day?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+`Writing Day <https://www.writethedocs.org/conf/portland/2019/writing-day/`_ takes place in the conference venue on Sunday, the day before the conference starts. You can show up any time between 9am and 5pm. There are lots of ways to contribute, and here are the most common:
+-  Bring a writing project that you want to work on. If you want help with your project, `add it to the list <https://www.writethedocs.org/conf/portland/2019/writing-day/#your-project-here>`_ before or during Writing Day. Be sure to include how to reach out to you. Here's the `2018 Writing Day Project list that you can use as a guide <http://www.writethedocs.org/conf/portland/2018/writing-day/>`_.
+-  Help someone else with their writing project. `Check out the list <https://www.writethedocs.org/conf/portland/2019/writing-day/#your-project-here>`_ and connect with the project organizer, before or during Writing Day.
+
 How do I take part in the unconference?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
