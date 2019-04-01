@@ -24,7 +24,7 @@ This month, the WTD community discussed whether users prefer shorter or longer p
 * On longer pages, it's easier for users to miss or skip over information they *need* to know before they get to what they *want* to know. One person is experimenting with adding validation checks in procedures to help minimize this problem. Most agreed that "we tried to warn you..." is not an ideal solution!
 * Because so many topics are listed on a single page, longer pages can make it more difficult to figure out which topics users are reading the most.
 
-If you want to dig in further, folks also recommended the *I'd Rather Be Writing* posts `Making Help Content Enjoyable to Read - Impossible Quest? <https://idratherbewriting.com/2011/01/25/making-help-content-enjoyable-to-read-impossible-quest-or-achievable-reality/>`_ and `Subheadings: Perhaps the Most Useful Technique in Technical Writing <https://idratherbewriting.com/2013/08/23/subheadings-perhaps-the-most-useful-technique-in-technical-writing/>`_.
+If you want to dig in further, some people also recommended the *I'd Rather Be Writing* posts `Making Help Content Enjoyable to Read - Impossible Quest? <https://idratherbewriting.com/2011/01/25/making-help-content-enjoyable-to-read-impossible-quest-or-achievable-reality/>`_ and `Subheadings: Perhaps the Most Useful Technique in Technical Writing <https://idratherbewriting.com/2013/08/23/subheadings-perhaps-the-most-useful-technique-in-technical-writing/>`_.
 
 -----------------------
 Google's Season of Docs
@@ -66,7 +66,7 @@ Lots of commenters talked about helping those asking you to understand the situa
 
 It's worth checking if the person requesting can help by gathering the information needed. If they agree to do the groundwork, it takes some of the burden of emergency work off you.
 
-Be aware that you likely won't find time to think strategically: you have to make it. Folks suggested blocking off time in your calendar, even if you can only start small. For an idea of what to do, see `Neal's talk on triaging </videos/portland/2018/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan/>`_.
+Be aware that you likely won't find time to think strategically: you have to make it. One suggestion was to block off time in your calendar for this, even if you can only start small. For an idea of what to do, see `Neal Kaplan's talk on triaging </videos/portland/2018/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan/>`_.
 
 And keep taking care of yourself - knowledge work requires a functioning brain! If you're fried, don't be afraid to take the breaks you need.
 
@@ -94,21 +94,19 @@ Plenty of great posts on the job board this month:
 Community events coming up
 --------------------------
 
-- 1 April - Istanbul, Turkey - `README driven development <https://www.meetup.com/wtdistanbul/events/259870832/>`_
-- 2 April - Bay Area, CA, USA - `Structured authoring to set your content free <https://www.meetup.com/Write-the-Docs-SF/events/259504717/>`_
 - 4 April - Barcelona, Spain - `Agile and more! <https://www.meetup.com/Write-the-Docs-Barcelona/events/260140259/>`_
 - 5 April - Austin, TX, USA - `Lunch meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/259893131/>`_
 - 8 April - Chicago, IL, USA - `API the Docs Chicago 2019 <https://www.meetup.com/Write-the-Docs-Chicago/events/256321667/>`_
 - 9 April - Portland, OR, USA - `How I learned to stop worrying and love the command line <https://www.meetup.com/Write-The-Docs-PDX/events/259739069/>`_
 - 11 April - San Francisco, CA, USA - `Building a culture of collaboration <https://www.meetup.com/Write-the-Docs-SF/events/258601376/>`_
 - 15 April - Berlin, Germany - `Docs hack <https://www.meetup.com/Write-The-Docs-Berlin/events/hzmpsqyzgbtb/>`_
-- 15 April - Seattle, WA, USA - `Morning social <https://www.meetup.com/Write-The-Docs-Seattle/events/260177548/>`_
+- 16 April - Seattle, WA, USA - `Morning social <https://www.meetup.com/Write-The-Docs-Seattle/events/260177548/>`_
 - 16 April - Athens, Greece - `April meetup <https://www.meetup.com/meetup-group-tvpdMPBG/events/260140546/>`_
 - 16 April - Amsterdam, Netherlands - `A 4-step information architecture method <https://www.meetup.com/Write-The-Docs-Amsterdam/events/260140208/>`_
 - 17 April - Toronto, Canada - `Writing for a developer audience <https://www.meetup.com/Write-the-Docs-Toronto/events/pcqbmqyzgbwb/>`_
 - 18 April - Dallas, TX, USA - `Introductions and networking <https://www.meetup.com/wtd-dallas/events/259562489/>`_
 - 23 April - Ottawa, Canada - `WTD Ottawa Shopify meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyzgbmb/>`_
-- 23 April - Denver, CO, USA - `Docs and drinks, daytime edition <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/258571300/>`_
+- 24 April - Denver, CO, USA - `Docs and drinks, daytime edition <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/258571300/>`_
 - 24 April - Manchester, UK - `Writing documentation? You need a programmer's editor <https://www.meetup.com/Write-the-Docs-North/events/259072412/>`_
 - 25 April - Los Angeles, CA, USA - `Justin Lui and Philosophie <https://www.meetup.com/Write-the-Docs-LA/events/259536213/>`_
 - 2 May - London, UK - `Documentation accessibility <https://www.meetup.com/Write-The-Docs-London/events/258700209/>`_
