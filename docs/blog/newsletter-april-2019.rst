@@ -7,7 +7,7 @@ Write the Docs Newsletter – April 2019
 
 Hello folks! Beth and the newsletter team here, welcoming you to the April edition of the newsletter.
 
-Spring is here and that means conference time is speeding towards us! Portland (19-21 May) is *very nearly* sold out; I'm excited for those of you who've got tickets, the lineup looks fab. There's tons of things to tell you about the conference and I'm not even going to try to cover them all - check out the `blog post </conf/portland/2019/news/events-activities/>`_ for details on childcare, diversity tickets, shirts, and much more. 
+Spring is here and that means conference time is speeding towards us! Portland (19-21 May) is *very nearly* sold out, and I'm excited for those of you who've got tickets, because the lineup looks fab. There's tons of things to tell you about the conference and I'm not even going to try to cover them all - check out the `blog post </conf/portland/2019/news/events-activities/>`_ for details on childcare, diversity tickets, shirts, and much more. 
 
 In Europe, ticket sales and CFPs are open for both Prague and the brand new Vilnius conference. The `Vilnius CFP </conf/vilnius/2019/cfp/>`_ closes **22 April**, and the `Prague CFP </conf/prague/2019/cfp/>`_ closes **30 April**. We can't wait to hear your ideas! 
 
@@ -17,7 +17,7 @@ So that's the news this month. Read on for stories from Slack, plenty of job lis
 Page length and user preference
 -------------------------------
 
-This month, the WTD community discussed whether users prefer shorter or longer pages in documentation. Both options have upsides and downsides, but most documentarians seemed to feel that longer pages work better for users; and some reported their user feedback has been strongly in favor of longer pages. Here are some of the issues folks discussed:
+This month, the WTD community discussed whether users prefer shorter or longer pages in documentation. Both options have upsides and downsides, but most documentarians seemed to feel that longer pages work better for users, and some reported their user feedback has been strongly in favor of longer pages. Here are some of the issues folks discussed:
 
 * It's important to keep navigability at the front of your mind when you're writing longer pages. Site search, floating menus with links to sub-topics, and clear sub-headings all help make content more discoverable and skimmable. Plus, if all else fails, users can search for key terms using ``Cmd/Ctrl+F``.
 * With shorter pages, users may have to click around through more topics to find the information they need. It's also more time-consuming for users to use ``Cmd/Ctrl+F`` repeatedly on shorter pages.
@@ -30,7 +30,7 @@ If you want to dig in further, folks also recommended the *I'd Rather Be Writing
 Google's Season of Docs
 -----------------------
 
-We're excited to share with you a new event from Google: "Season of Docs"!
+We're excited to share with you a new event from Google: Season of Docs!
 
 Season of Docs is a three-month program for new and early-career technical writers looking to get involved with open-source projects. Open-source organizations can submit project ideas based on their current documentation needs, and Season of Docs will match them with an aspiring documentarian. Experienced technical writers can mentor those new writers, helping them to learn any new tools, understand requirements, and polish up their documentation. Participating technical writers earn a `stipend <https://developers.google.com/season-of-docs/docs/tech-writer-stipends>`_.
 
@@ -62,11 +62,11 @@ Dealing with competing priorities
 
 In a discusson on #lone-writer, someone asked: What do you do when lots of people are asking for your time? Particularly when everyone wants to be the highest priority, and you really want to help them all out. It can mean you end up always reacting to the latest emergency, with no time to take a breath and work strategically. How do you avoid burning out like that?
 
-Lots of commenters talked about helping those asking you understand the situation: the different demands on your time, the work you're doing, and the constraints. One way is to make the work visible: for example, having a board so you can show people what's in flight. It can help them understand your priorities: you're fully booked this week, because of another team's work.
+Lots of commenters talked about helping those asking you to understand the situation: the different demands on your time, the work you're doing, and the constraints. One way is to make the work visible: for example, having a board so you can show people what's in flight. It can help them understand your priorities: for example if you're fully booked this week because of another team's work.
 
 It's worth checking if the person requesting can help by gathering the information needed. If they agree to do the groundwork, it takes some of the burden of emergency work off you.
 
-Be aware that you likely won't find time to think strategically: you have to make it. Suggested blocking off time in your calendar, even if you can only start small. For an idea of what to do, see `Neal's talk on triaging </videos/portland/2018/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan/>`_.
+Be aware that you likely won't find time to think strategically: you have to make it. Folks suggested blocking off time in your calendar, even if you can only start small. For an idea of what to do, see `Neal's talk on triaging </videos/portland/2018/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan/>`_.
 
 And keep taking care of yourself - knowledge work requires a functioning brain! If you're fried, don't be afraid to take the breaks you need.
 
