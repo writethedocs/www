@@ -53,7 +53,7 @@ You'll have a chance to get acquainted with each other over some drinks and snac
 and pick up your badge so you can skip the line in the morning. Note that we are not
 able to accomodate additional guests at this event.
 
-* **Where**: Crystal Ballroom
+* **Where**: Lola's Room
 * **When**: **5pm-8pm**
 
 Welcome Wagon Introduction
@@ -61,7 +61,7 @@ Welcome Wagon Introduction
 
 Is this your first time at Write the Docs? Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We’ll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new, before we join the opening reception.
 
-* **Where**: Lola's Room
+* **Where**: Crystal Ballroom
 * **When**: **5pm-6pm**
 
 Monday, May 20
