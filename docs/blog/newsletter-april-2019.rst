@@ -76,6 +76,9 @@ Featured jobs
 
 Plenty of great posts on the job board this month:
 
+`Technical Writer <https://jobs.writethedocs.org/job/102/technical-writer/>`_
+ Travis CI, remote, full-time
+
 `Founding Technical Writer <https://jobs.writethedocs.org/job/100/founding-technical-writer/>`_
  Nylas, New York / San Francisco / remote, long-term contract
 
