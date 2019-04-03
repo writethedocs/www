@@ -39,8 +39,8 @@ You can learn more on the `Season of Docs site <https://developers.google.com/se
 Important dates
 ^^^^^^^^^^^^^^^
 
-* Mentor organizations can `apply to participate <https://developers.google.com/season-of-docs/docs/admin-guide>`_ from 2 April to 23 April.
-* Technical writing participants can `apply to participate <https://developers.google.com/season-of-docs/docs/tech-writer-guide>`_ from 29 May to 28 June.
+* Mentor organizations can `apply to participate <https://developers.google.com/season-of-docs/docs/admin-guide>`__ from 2 April to 23 April.
+* Technical writing participants can `apply to participate <https://developers.google.com/season-of-docs/docs/tech-writer-guide>`__ from 29 May to 28 June.
 * The Season of Docs begins on 2 September!
 
 A complete program timeline is available `here <https://developers.google.com/season-of-docs/docs/timeline>`_.
@@ -76,13 +76,13 @@ Featured jobs
 
 Plenty of great posts on the job board this month:
 
-`Technical Writer <https://jobs.writethedocs.org/job/102/technical-writer/>`_
+`Technical Writer <https://jobs.writethedocs.org/job/102/technical-writer/>`__
  Travis CI, remote, full-time
 
 `Founding Technical Writer <https://jobs.writethedocs.org/job/100/founding-technical-writer/>`_
  Nylas, New York / San Francisco / remote, long-term contract
 
-`Technical Writer <https://jobs.writethedocs.org/job/99/technical-writer/>`_
+`Technical Writer <https://jobs.writethedocs.org/job/99/technical-writer/>`__
  Elastic, remote, full-time
 
 `Content and Documentation Writer <https://jobs.writethedocs.org/job/98/content-documentation-writer/>`_
