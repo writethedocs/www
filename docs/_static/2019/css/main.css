@@ -122,7 +122,7 @@ body .page-content {
   body .page-content .ticket {
     padding: 24px 36px;
     background-color: #EFEFED;
-    border: 2px solid #AEBFB0;
+    border: 2px solid #ea7852;
     margin-top: 36px;
     border-radius: 3px;
     margin-top: 20px; }
@@ -473,8 +473,9 @@ body .uk-offcanvas-slide a.uk-button-ghost {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: 20px; }
-  .sponsors .gold-sponsors, .sponsors .silver-sponsors, .sponsors .bronze-sponsors, .sponsors .sponsor {
+    padding-bottom: 20px;
+    margin: 15px; }
+  .sponsors .gold-sponsors, .sponsors .silver-sponsors, .sponsors .bronze-sponsors, .sponsors .community-sponsors, .sponsors .sponsor {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -482,10 +483,10 @@ body .uk-offcanvas-slide a.uk-button-ghost {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column; }
-    .sponsors .gold-sponsors a, .sponsors .silver-sponsors a, .sponsors .bronze-sponsors a, .sponsors .sponsor a {
+    .sponsors .gold-sponsors a, .sponsors .silver-sponsors a, .sponsors .bronze-sponsors a, .sponsors .community-sponsors a, .sponsors .sponsor a {
       border: none !important;
       border-bottom: none !important; }
-    .sponsors .gold-sponsors > *, .sponsors .silver-sponsors > *, .sponsors .bronze-sponsors > *, .sponsors .sponsor > * {
+    .sponsors .gold-sponsors > *, .sponsors .silver-sponsors > *, .sponsors .bronze-sponsors > *, .sponsors .community-sponsors > *, .sponsors .sponsor > * {
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex;
@@ -828,14 +829,14 @@ footer {
         font-size: 20px; }
     .news-block .uk-container .news .content {
       padding: 28px; }
-  .sponsors .gold-sponsors, .sponsors .silver-sponsors, .sponsors .bronze-sponsors, .sponsors .sponsor {
+  .sponsors .gold-sponsors, .sponsors .silver-sponsors, .sponsors .bronze-sponsors, .sponsors .community-sponsors, .sponsors .sponsor {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
         -ms-flex-direction: row;
             flex-direction: row;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap; }
-    .sponsors .gold-sponsors > *, .sponsors .silver-sponsors > *, .sponsors .bronze-sponsors > *, .sponsors .sponsor > * {
+    .sponsors .gold-sponsors > *, .sponsors .silver-sponsors > *, .sponsors .bronze-sponsors > *, .sponsors .community-sponsors > *, .sponsors .sponsor > * {
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex;
@@ -10786,3 +10787,11 @@ td.uk-text-break {
   h2,
   h3 {
     page-break-after: avoid; } }
+
+.crew-images {
+  float: left;
+  width: 100%; }
+
+.crew-image {
+  float: left;
+  margin-right: 15px; }

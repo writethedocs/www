@@ -7,7 +7,7 @@ and a few tips and tricks to help your planning.
 
 ### Events
 
-Just a reminder to check out the [Schedule](http://www.writethedocs.org/conf/eu/2015/schedule/) page
+Just a reminder to check out the [Schedule](https://www.writethedocs.org/conf/eu/2015/schedule/) page
 for a complete list of all our events and activities before, during, and after the conference.
 
 The location closing meetup hosted by our friends at Elastic is now confirmed, and we're excited about it!
@@ -18,7 +18,7 @@ will be provided.
 ### Visiting Prague
 
 If you still need some information about traveling to Prague, where to stay, or how to get
-around, check out our [Visiting Prague](http://www.writethedocs.org/conf/eu/2015/visiting/) page
+around, check out our [Visiting Prague](https://www.writethedocs.org/conf/eu/2015/visiting/) page
 for practical information.
 
 **Reminder:** The currency in Czech Republic is Koruna (CZK). Exchange offices are available at
@@ -40,11 +40,11 @@ pitch your talk.
 This is a private party just for conference attendees.
 Plan to attend so you can get to know folks in the community. We'll be at [The PUB Praha 1](https://goo.gl/maps/gfMnC) with a bunch of awesome free food and drinks.
 
-#### Follow the [Code of Conduct](http://www.writethedocs.org/code-of-conduct/)
+#### Follow the [Code of Conduct](https://www.writethedocs.org/code-of-conduct/)
 
 We have a wonderful community full of diverse and amazing people. We expect everyone to behave in a
 respectful manner at all conference events. Our code of conduct boils down to "Be excellent to each other",
-but the [full text](http://www.writethedocs.org/code-of-conduct/) is also available. Our cell phone
+but the [full text](https://www.writethedocs.org/code-of-conduct/) is also available. Our cell phone
 numbers and email addresses are on that page if you ever need to contact us.
 
 #### Coffee, breakfast, and lunch are provided

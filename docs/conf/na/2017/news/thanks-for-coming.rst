@@ -31,7 +31,7 @@ Speak or Sponsor in Prague
 --------------------------
 
 Don't forget we have our Prague conference this year! The
-`Call for Proposals <http://www.writethedocs.org/conf/eu/2017/cfp/>`__
+`Call for Proposals <https://www.writethedocs.org/conf/eu/2017/cfp/>`__
 is open until **May 31**.
 
 We're also looking for more sponsors to make the Prague event just as
@@ -41,7 +41,7 @@ sponsorship@writethedocs.org.
 
 You can find information about the conference and Call for Proposals on
 our `Prague Conference
-website <http://www.writethedocs.org/conf/eu/2017/>`__.
+website <https://www.writethedocs.org/conf/eu/2017/>`__.
 
 Videos
 ------
@@ -71,11 +71,11 @@ Meetups
 -------
 
 We hope you continue to `build the
-community <http://www.writethedocs.org/meetups/>`__ and keep in touch
+community <https://www.writethedocs.org/meetups/>`__ and keep in touch
 with other documentarians in your hometown. In this spirit, we have a
 number of meetups in cities across the country. If you don't see your
-city `listed <http://www.writethedocs.org/meetups/>`__, consider
-`starting <http://www.writethedocs.org/organizer-guide/meetups/starting/>`__
+city `listed <https://www.writethedocs.org/meetups/>`__, consider
+`starting <https://www.writethedocs.org/organizer-guide/meetups/starting/>`__
 a meetup!
 
 Keep us posted if you start one (or encounter a new one) so that we can

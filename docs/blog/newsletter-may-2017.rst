@@ -8,7 +8,7 @@ Write the Docs Newsletter - May 2017
 Write the Docs Portland is in Less than 2 Weeks!
 ################################################
 
-`Write the Docs Portland <http://www.writethedocs.org/conf/na/2017/>`_ is almost here! If you're coming, we're looking forward to welcoming you. If you can't make it, maybe `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ in September? Just a thought...
+`Write the Docs Portland <https://www.writethedocs.org/conf/na/2017/>`_ is almost here! If you're coming, we're looking forward to welcoming you. If you can't make it, maybe `Write the Docs Prague <https://www.writethedocs.org/conf/eu/2017/>`_ in September? Just a thought...
 
 The Portland conference is now **sold out**. Thanks to everyone who has registered, and we look forward to seeing you in Portland in a couple weeks!
 
@@ -121,7 +121,7 @@ Finally, you might be interested in this great series of tips and tricks for sta
 Looking Ahead
 #############
 
-Did we mention that `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ is coming down the pike? We just announced the `call for proposals <http://www.writethedocs.org/conf/eu/2017/news/announcing-cfp>`_. There are a few changes this year, so check it out and submit your proposal! You have until midnight CET on May 31.
+Did we mention that `Write the Docs Prague <https://www.writethedocs.org/conf/eu/2017/>`_ is coming down the pike? We just announced the `call for proposals <https://www.writethedocs.org/conf/eu/2017/news/announcing-cfp>`_. There are a few changes this year, so check it out and submit your proposal! You have until midnight CET on May 31.
 
 If you see a discussion in the WTD Slack channels that you'd like to see highlighted here in the WTD newsletter, there's a new tool for that! We're now using the `Reacji Channeler <https://reacji-channeler.builtbyslack.com>`_. If you see a helpful or enjoyable discussion and think it would make a good item in the newsletter, just tag one of the messages with the `newsletter` emoji:
 

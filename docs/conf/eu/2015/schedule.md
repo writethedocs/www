@@ -26,7 +26,7 @@ Prague all around!
 ## Monday, August 31st - Day 1
 
 This is the main event! Hear from lots of interesting folks about all things documentation.
-Check out the [full talk descriptions](http://www.writethedocs.org/conf/eu/2015/speakers/) for more information.
+Check out the [full talk descriptions](https://www.writethedocs.org/conf/eu/2015/speakers/) for more information.
 
 The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1**.
 

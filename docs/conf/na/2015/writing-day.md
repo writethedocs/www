@@ -48,7 +48,7 @@ We'll be creating and editing content, so make sure that you have the tools you 
 
 #### Documenting a new project?
 
-Check out our [beginners guide](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) to writing documentation.
+Check out our [beginners guide](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) to writing documentation.
 This should help you get started, and give you some ideas for how you can contribute to a project that you love.
 
 #### Projects

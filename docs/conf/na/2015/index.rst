@@ -10,7 +10,7 @@ The conference is now over. Thanks to everyone who came out and made the
 event special once again. Don't forget to keep in touch with us:
 
 -  Our `European
-   Conference <http://www.writethedocs.org/conf/eu/2015/>`__ is just
+   Conference <https://www.writethedocs.org/conf/eu/2015/>`__ is just
    around the corner in Prague. Submit a talk or get a ticket!
 -  Keep in touch with your fellow documentarians on our `new
    Forum <http://forum.writethedocs.org/>`__.

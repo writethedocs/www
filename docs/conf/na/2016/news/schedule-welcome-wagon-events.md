@@ -15,7 +15,7 @@ If you can't make it to this year's conference in Portland, don't fret. We've ju
 our [European conference][eu-conf], taking place this year again in Prague, September 18-20.
 Tickets are now on sale, and the call for papers is open.
 
-[eu-conf]: http://www.writethedocs.org/conf/eu/2016/
+[eu-conf]: https://www.writethedocs.org/conf/eu/2016/
 
 We're putting the finishing touches on the Portland conference, so this email
 contains more information for you about this year's conference events. We've added some new
@@ -31,7 +31,7 @@ We're excited about the talks,
 Writing Day,
 and all the other wonderful festivities we have every year.
 
-[schedule]: http://www.writethedocs.org/conf/na/2016/schedule/
+[schedule]: https://www.writethedocs.org/conf/na/2016/schedule/
 
 Introducing the Welcome Wagon
 -----------------------------
@@ -63,10 +63,10 @@ who are our official Welcome Wagon liaisons.
 These resources are here so you make the most of the conference.
 Please [let us know][email] if there is anything else we can do to make you feel more welcome!
 
-[events]: http://www.writethedocs.org/conf/na/2016/welcome-wagon/#welcome-wagon-events
-[wagon]: http://www.writethedocs.org/conf/na/2016/welcome-wagon/
-[first-time]: http://www.writethedocs.org/conf/na/2016/welcome-wagon/#sample-strategy-for-my-first-write-the-docs-conference
-[old-timer]: http://www.writethedocs.org/conf/na/2016/welcome-wagon/#sample-strategy-for-a-second-or-higher-write-the-docs-conference
+[events]: https://www.writethedocs.org/conf/na/2016/welcome-wagon/#welcome-wagon-events
+[wagon]: https://www.writethedocs.org/conf/na/2016/welcome-wagon/
+[first-time]: https://www.writethedocs.org/conf/na/2016/welcome-wagon/#sample-strategy-for-my-first-write-the-docs-conference
+[old-timer]: https://www.writethedocs.org/conf/na/2016/welcome-wagon/#sample-strategy-for-a-second-or-higher-write-the-docs-conference
 
 Saturday - Annual Hike
 ----------------------
@@ -78,7 +78,7 @@ so that means it should be sunny this year, right?!
 Space is limited, so that we don't overwhelm the trail.
 Please [get a free ticket](https://ti.to/writethedocs/write-the-docs-2016-hike/) if you want to come along!
 
-[hike]: http://www.writethedocs.org/conf/na/2016/hike/
+[hike]: https://www.writethedocs.org/conf/na/2016/hike/
 
 Sunday - Writing Day and Conference Reception
 ---------------------------------------------
@@ -114,7 +114,7 @@ You'll have a chance to get acquainted with each other over some drinks and
 snacks, plus it's a great place to find some folks to grab dinner with,
 so you can continue your conversations over more substantial food.
 
-[writing-day]: http://www.writethedocs.org/conf/na/2016/writing-day/
+[writing-day]: https://www.writethedocs.org/conf/na/2016/writing-day/
 [centrl-map]: https://goo.gl/maps/xljmU
 [sprints]: http://en.wikipedia.org/wiki/Sprint_%28software_development%29
 
@@ -156,8 +156,8 @@ and will continue until the end of the day. Sessions begin with a
 couple of topics to get you started, followed by time for unstructured topics.
 If you are interested in leading a session, [read more about our unconference][unconference] .
 
-[daily-schedule]: http://www.writethedocs.org/conf/na/2016/schedule/#monday-may-23rd-day-1
-[unconference]: http://www.writethedocs.org/conf/na/2016/unconference/
+[daily-schedule]: https://www.writethedocs.org/conf/na/2016/schedule/#monday-may-23rd-day-1
+[unconference]: https://www.writethedocs.org/conf/na/2016/unconference/
 
 ----
 

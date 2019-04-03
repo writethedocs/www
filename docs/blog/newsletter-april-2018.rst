@@ -12,9 +12,9 @@ There's a lot to cover, so I'll cut right to the chase!
 
 First, we're coming up on the Portland conference here in just four weeks (!?), and we're starting to get pretty stoked.
 Tickets are fully sold out, but if you're itching for a conference fix, now's a great time to look ahead to Prague in September... especially if you'd like to speak!
-The Prague call for proposals is open until **midnight, Tuesday May 15th**, and you can read more and submit your talk idea `here on our CFP page <http://www.writethedocs.org/conf/prague/2018/cfp/>`_.
+The Prague call for proposals is open until **midnight, Tuesday May 15th**, and you can read more and submit your talk idea `here on our CFP page <https://www.writethedocs.org/conf/prague/2018/cfp/>`_.
 
-We also have a new virtual resource to announce – the `Write the Docs Video Archive <http://www.writethedocs.org/videos/>`_!
+We also have a new virtual resource to announce – the `Write the Docs Video Archive <https://www.writethedocs.org/videos/>`_!
 You can now easily browse all of the videos from every North American and European conference, going back over the last three years.
 There are hours of excellent talks in there, on almost any docs-topic you can think of.
 Dive in!
