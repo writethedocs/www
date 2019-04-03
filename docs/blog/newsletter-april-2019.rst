@@ -60,7 +60,7 @@ One contributor's sharing of a discussion `elsewhere on the web <https://hackada
 Dealing with competing priorities
 ---------------------------------
 
-In a discusson on #lone-writer, someone asked: What do you do when lots of people are asking for your time? Particularly when everyone wants to be the highest priority, and you really want to help them all out. It can mean you end up always reacting to the latest emergency, with no time to take a breath and work strategically. How do you avoid burning out like that?
+In a discussion on #lone-writer, someone asked: What do you do when lots of people are asking for your time? Particularly when everyone wants to be the highest priority, and you really want to help them all out. It can mean you end up always reacting to the latest emergency, with no time to take a breath and work strategically. How do you avoid burning out like that?
 
 Lots of commenters talked about helping those asking you to understand the situation: the different demands on your time, the work you're doing, and the constraints. One way is to make the work visible: for example, having a board so you can show people what's in flight. It can help them understand your priorities: for example if you're fully booked this week because of another team's work.
 
