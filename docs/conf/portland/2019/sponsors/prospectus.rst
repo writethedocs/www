@@ -220,7 +220,7 @@ Please let us know if there is any information missing that would be useful for 
 Sponsorship schedule
 --------------------
 
-* **SUNDAY**: The swag tables are available during the Writing Day, if you want to put out swag items early. Sponsor booths are available for setup on Sunday from 10am-4pm, but don't need people staffing them yet. You're also welcome to lead a Writing Day project on your companies documentation, if it is open source.
+* **SUNDAY**: The swag tables are available during the Writing Day, if you want to put out swag items early. Sponsor booths are available for setup on Sunday from 10am-4pm, but don't need people staffing them. You're also welcome to lead a Writing Day project if your documentation is open source.
 
 * **MONDAY**: Doors open at 8am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the main conference talks, when sponsors tables will need to be staffed. The conference will run until around 5pm.
 
