@@ -215,7 +215,7 @@ Run of Show
 ===========
 
 This Run of Show provides more context about the event and answers some common questions you may have. 
-Please give us feedback if there is anything missing or information that would be useful for you.
+Please let us know if there is any information missing that would be useful for you.
 
 Sponsorship schedule
 --------------------
