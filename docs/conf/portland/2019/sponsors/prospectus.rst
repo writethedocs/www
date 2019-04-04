@@ -214,7 +214,7 @@ Please direct all inquiries to our sponsorship team at:
 Run of Show
 ===========
 
-This Run of Show hopefully will give you more context about the event and answer some of the questions you may have. 
+This Run of Show provides more context about the event and answers some common questions you may have. 
 Please give us feedback if there is anything missing or information that would be useful for you.
 
 Sponsorship schedule
