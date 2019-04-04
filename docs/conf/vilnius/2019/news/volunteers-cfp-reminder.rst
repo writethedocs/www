@@ -6,7 +6,7 @@
 Call for Volunteers and CFP Reminder
 ====================================
 
-Greetings, fellow documentarians! The Vilnius conference just about two months away, and we can't wait to see you all soon! Here are the latest updates from the conference team to help you prepare.
+Greetings, fellow documentarians! The Vilnius conference is just about two months away, and we can't wait to see you all soon! Here are the latest updates from the conference team to help you prepare.
 
 **Tickets are selling fast!** We are not sold out yet, but our European community is showing great enthusiasm, and we expect to have another wave of registrations after we announce the presentations soon, so you might want to beat the rush and `get your ticket now <https://ti.to/writethedocs/write-the-docs-vilnius-2019>`_.
 
