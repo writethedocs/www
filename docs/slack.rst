@@ -9,7 +9,8 @@ and to stay in touch with folks you've met at our conferences and meetups.
 
 Our most active Slack channels are listed below. This should help you get connected to people
 with similar interests.
-Please also read the Slack guidelines carefully.
+Please also read the Slack guidelines carefully, and remember that our
+:doc:`code-of-conduct` also applies to our Slack.
 
 We don't pay for our Slack, which means that the community has access to only the most
 recent 10,000 messages. Not only is paid Slack prohibitively expensive for a community
