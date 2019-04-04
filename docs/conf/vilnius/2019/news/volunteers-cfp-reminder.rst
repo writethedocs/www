@@ -37,7 +37,7 @@ Call for Proposals reminder
 
 We're excited to see such great proposals coming in, and we want to remind you to submit your proposals before **Midnight CET, 22nd April 2019**.
 
-The `Call for Proposals <https://www.writethedocs.org/conf/vilnius/2019/cfp/>`_ page has tips and examples to help inspire you.
+The `Call for Proposals <https://www.writethedocs.org/conf/vilnius/2019/cfp/>`_ page has tips and examples  to inspire you.
 And if you have an idea but aren't sure what to do with it, feel free to ask for feedback on `Slack <http://slack.writethedocs.org/>`_. Your fellow documentarians will be happy to help!
 
 Since this first-year event has only one day of talks, the number of slots is extremely limited. We hope to see a diverse range of topics from different roles and industries, and we're excited to welcome you to Vilnius very soon!
