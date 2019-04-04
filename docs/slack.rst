@@ -20,9 +20,15 @@ participating.
 
 You can `join our Slack <http://slack.writethedocs.org/>`_ if you aren't already a member.
 
-.. note:: Feel free to send a Pull Request to update `this page`_, if you want to include other channels.
+Feel free to send a Pull Request to update `this page`_, if you want to include other channels.
+
+.. note::
+    Our Slack includes animated emoji, and other animations are sometimes posted.
+    If you think these may be unpleasant for you, you can `disable all animations`_
+    in your Slack client.
 
 .. _this page: https://github.com/writethedocs/www/blob/master/docs/slack.rst
+.. _disable all animations: https://get.slack.help/hc/en-us/articles/228023907-Manage-animated-images-and-emoji
 
 Default channels
 ----------------
