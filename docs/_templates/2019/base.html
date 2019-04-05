@@ -112,7 +112,7 @@
 
     {# Show sponsors in footer of non-sponsor pages #}
     {% if "sponsors/index" not in pagename and flaghassponsors %}
-    <div class="sponsors">
+    <div class="sponsors-footer">
         <div class="uk-container">
         <h2 class="uk-first-column">Sponsors</h2>
             {% include "include/" + year|string  + "/" + shortcode + "-sponsors.html" %}
