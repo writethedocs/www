@@ -171,7 +171,7 @@ Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: Main stage, Crystal Ballroom
-* **When**: **9am-4:30pm**, Doors & Breakfast at 8am
+* **When**: **9am-3:30pm**, Doors & Breakfast at 8am
 {% if flaghasschedule %}
 * **Details**: Full main stage schedule below
 {% else %}
