@@ -271,7 +271,7 @@ You should have recieved a unique URL with a discount code for your free sponsor
 What do I need for the job fair?
 --------------------------------
 
-The job fair will be a low key event. Every participant will have a six-foot table and two chairs, in a seperate room from the primary conference. Giveaways/flyers are welcome, but please keep your setup requirements simple.
+The job fair will be a low key event. Every participant will have a six-foot table and two chairs, in a different room from the primary conference. Giveaways/flyers are welcome, but please keep your setup requirements simple.
 
 What happens with my swag items?
 --------------------------------

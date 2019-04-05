@@ -62,6 +62,7 @@ and some topics are repeated if they fit into more than one category. Enjoy!
 Collaboration
 -------------
 
+- `Dealing with competing priorities </blog/newsletter-april-2019/#dealing-with-competing-priorities>`_
 - `Tips for lone writers starting from scratch </blog/newsletter-february-2019/#tips-for-lone-writers-starting-from-scratch>`_
 - `Helping project managers understand docs </blog/newsletter-june-2018/#helping-your-project-managers-understand-docs>`_
 - `Common misconceptions about docs </blog/newsletter-august-2018/#common-misconceptions-about-documentation>`_
@@ -105,6 +106,7 @@ See also: helping others to write
 Specific writing questions
 --------------------------
 
+- `Page length and user preference </blog/newsletter-april-2019/#page-length-and-user-preference>`_
 - `Grammar questions: possessives, punctuation in quotes, capitalisation </blog/newsletter-december-2018/#grammar-and-style-questions>`_
 - `Using imperatives </blog/newsletter-may-2018/#using-imperatives-in-documentation>`_
 - `Page vs screen </blog/newsletter-august-2018/#in-the-time-of-web-based-applications-what-is-a-page-and-what-is-a-screen>`_
@@ -172,6 +174,7 @@ Career growth
 Developer docs
 --------------
 
+- `Code comments and other musings on developer docs </blog/newsletter-april-2019/#what-s-in-a-code-comment-and-other-musings-on-developer-docs>`_
 - `READMEs and doc-driven development </blog/newsletter-august-2017/#readmes-and-doc-driven-development>`_
 - `Maintaining command reference pages </blog/newsletter-october-2016/#writing-and-maintaining-command-reference-pages>`_
 
