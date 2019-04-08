@@ -73,7 +73,7 @@ Venue tours
 Come on a short tour of the venue with a veteran Write the Docs attendee so you’ll know where everything is and everything you can take part in.
 
 * **Where**: Crystal Ballroom, near reception
-* **When**: **8:15am-9:00am**
+* **When**: **8:15am-9am**
 
 Unconference
 ~~~~~~~~~~~~
@@ -82,7 +82,7 @@ Have in depth discussions about a large number of topics.
 This is scheduled on the day of, so feel free to suggest your own session!
 
 * **Where**: Lola's room, Crystal Ballroom
-* **When**: **9:40am-5:00pm**
+* **When**: **9:40am-5pm**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 
@@ -149,7 +149,7 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: Lola's room (downstairs at the Crystal Ballroom)
-* **When**: **1:20-3:30pm**
+* **When**: **1:20pm-3:50pm**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Conference Talks
