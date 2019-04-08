@@ -129,11 +129,15 @@ sponsors:
       link: https://www.netlify.com/wtd
     - name: appian
       link: https://www.appian.com/
-    - name: opendevise
-      link: https://opendevise.com/
     - name: cockroachlabs
       link: https://www.cockroachlabs.com/
+    - name: opendevise
+      link: https://opendevise.com/
+    - name: redocly
+      link: https://redoc.ly
   first:
+    - name: support-driven
+      link: https://supportdriven.com
     - name: cncf
       link: https://www.cncf.io
     - name: stickermule
