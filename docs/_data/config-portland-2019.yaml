@@ -32,6 +32,21 @@ buttons:
     #  link: /livestream
     # - text: Browse the photos
     #  link: /livestream
+  bottom:
+    # - text: Sponsor the conference
+    #  link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #  link: /cfp
+    # - text: Buy a Ticket!
+    #   link: /tickets
+    - text: Prepare with the Welcome Wagon
+     link: /welcome-wagon
+    - text: See the schedule!
+      link: /schedule
+    # - text: Watch the Live Stream
+    #  link: /livestream
+    # - text: Browse the photos
+    #  link: /livestream
 
 tickets:
   community:
@@ -146,7 +161,7 @@ sponsors:
 flaglanding: False
 flaghassponsors: True
 flagcfp: False
-flagticketsonsale: True
+flagticketsonsale: False
 flagspeakersannounced: True
 flaghasschedule: True
 flagvideos: False
