@@ -10,7 +10,7 @@ Hello everyone!
 We're about a month out from the Portland conference and we hope you're getting ready!
 We're writing today to announce the full presentation schedule and to give you the latest registration update.
 
-In the meantime, if it's your first Write the Docs, now's a great time to check out `the Welcome Wagon page <https://www.writethedocs.org/conf/portland/2019/welcome-wagon/>`_, which is chockfull of info to help you get oriented.
+In the meantime, if it's your first Write the Docs, now's a great time to check out `the Welcome Wagon page <https://www.writethedocs.org/conf/portland/2019/welcome-wagon/>`_, which is packed with info to help you get oriented.
 And whether it's your first or fifth conference, it's never too early to check out the `Explore Portland
 <https://www.writethedocs.org/conf/portland/2019/visiting/>`_ page for inspiration on how to make the most of your visit.
 
