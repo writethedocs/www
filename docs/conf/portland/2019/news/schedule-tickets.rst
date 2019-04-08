@@ -38,7 +38,7 @@ Full presentation schedule
 
 The conference website is now updated with the `talk schedule <https://www.writethedocs.org/conf/portland/2019/schedule/>`_ for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.
 
-As always, we'll be running the `unconference <https://www.writethedocs.org/conf/portland/2019/unconference/>`_ downstairs in Lola's room, and `lightning talks <https://www.writethedocs.org/conf/portland/201/lightning-talks/>`_ each day after lunch.
+As always, we'll be running the `unconference <https://www.writethedocs.org/conf/portland/2019/unconference/>`_ downstairs in Lola's room, and `lightning talks <https://www.writethedocs.org/conf/portland/2019/lightning-talks/>`_ each day after lunch.
 
 You'll be able to sign up for unconference sessions and lightning talks during the conference.
 
