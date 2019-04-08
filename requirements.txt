@@ -14,4 +14,5 @@ yamale==1.10.0
 ruamel.yaml==0.15.89
 lxml==4.3.2
 # For fancy 404 pages
-sphinx-notfound-page==0.2.1
+git+https://github.com/rtfd/sphinx-notfound-page@master#egg=sphinx-notfound-page
+
