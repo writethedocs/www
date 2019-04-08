@@ -24,10 +24,10 @@ buttons:
     #   link: /tickets
     # - text: See the talks!
     #   link: /speakers
-    - text: See the schedule!
+    - text: See the Schedule!
       link: /schedule
-    - text: Prepare with the Welcome Wagon
-      link: /welcome-wagon
+    # - text: Welcome Wagon
+    #   link: /welcome-wagon
     # - text: Watch the Live Stream
     #  link: /livestream
     # - text: Browse the photos
@@ -40,7 +40,7 @@ buttons:
     # - text: Buy a Ticket!
     #   link: /tickets
     - text: Prepare with the Welcome Wagon
-     link: /welcome-wagon
+      link: /welcome-wagon
     - text: See the schedule!
       link: /schedule
     # - text: Watch the Live Stream
