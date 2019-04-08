@@ -324,3 +324,5 @@ How do I ship items?
 --------------------
 
 Prior to the event, if you'd like to ship swag, we will send you the mailing address **3 weeks** prior to the event. We can't receive packages before that. Anything sent to us will be available at the venue on the day of the event.
+
+Please ship **no more than 5 boxes**. We can't inventory large numbers of boxes before the conference.
