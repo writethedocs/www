@@ -30,38 +30,38 @@
 - Duration: '10'
   Session: Switch Speakers
   Time: '11:40'
+- Duration: '15'
+  Session: Sponsored Talk
+  Time: '11:50'
+- Duration: '75'
+  Session: Lunch (75 mins)
+  Time: '12:05'
+- Duration: '30'
+  Session: Lightning Talks
+  Time: '1:20'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '1:50'
 - Duration: '30'
   Session: 'Kay Miles - Product Documentation Strategy: What Is It and Why Do We Need
     It?'
   Slug: kay-miles
-  Time: '11:50'
-- Duration: '60'
-  Session: Lunch
-  Time: '12:20'
-- Duration: '30'
-  Session: Lightning Talks
-  Time: '13:20'
+  Time: '2:00'
 - Duration: '10'
   Session: Switch Speakers
-  Time: '13:50'
-- Duration: '15'
-  Session: Sponsored Talk
-  Time: '14:00'
-- Duration: '10'
-  Session: Switch Speakers
-  Time: '14:15'
+  Time: '2:30'
 - Duration: '30'
   Session: Jessica Parsons - Lessons Learned in a Year of Docs-Driven Development
   Slug: jessica-parsons
-  Time: '14:25'
+  Time: '2:40'
 - Duration: '10'
   Session: Switch Speakers
-  Time: '14:55'
+  Time: '3:10'
 - Duration: '30'
   Session: 'Jodie Putrino - Defying the Status Quo: How a grassroots effort can transform
     an organization'
   Slug: jodie-putrino
-  Time: '15:05'
+  Time: '3:20'
 - Duration: '20'
   Session: Conference wraps with snacks
-  Time: '15:35'
+  Time: '3:50'
