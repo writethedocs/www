@@ -17,7 +17,7 @@ And whether it's your first or fifth conference, it's never too early to check o
 Tickets are sold out
 --------------------
 
-Every year we see more enthusiasm from the community, and we are happy and sad at the same time to announce that we are now **sold out** at capacity.
+Every year we see more enthusiasm from the community, and we are grateful for your support! Tickets are now **sold out** and we are at maximum capacity.
 
 We have a waiting list on our ticket website where you can register in case of cancellations, but we usually don't have a high rate of cancellations so please do not book travel unless you have a ticket.
 
