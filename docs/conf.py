@@ -137,6 +137,8 @@ html_context = {
 
 # html_experimental_html5_writer = True
 
+notfound_no_urls_prefix = True
+
 
 def setup(app):
     # Set up our custom jinja filters
