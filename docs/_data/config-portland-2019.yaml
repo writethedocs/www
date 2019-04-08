@@ -144,9 +144,9 @@ sponsors:
 flaglanding: False
 flaghassponsors: True
 flagcfp: False
-flagticketsonsale: True
+flagticketsonsale: False
 flagspeakersannounced: True
-flaghasschedule: False
+flaghasschedule: True
 flagvideos: False
 flaglivestreaming: False
 
