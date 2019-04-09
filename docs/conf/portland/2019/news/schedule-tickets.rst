@@ -30,7 +30,7 @@ Live streaming
 
 After last year's successful pilot, we're happy to announce the return of the live stream! If you can't attend for any reason, we will be broadcasting all the main stage presentations.
 
-Bookmark the `live streaming </conf/portland/2019/livestream>`_ page, which will be updated on the morning of the conference with the embedded streaming viewer.
+Bookmark the `live streaming <https://www.writethedocs.org/conf/portland/2019/livestream>`_ page, which will be updated on the morning of the conference with the embedded streaming viewer.
 In the meantime, you can join the #live-streaming channel on Slack to connect with other remote attendees, ask questions, and troubleshoot technical issues with the stream.
 
 Full presentation schedule
