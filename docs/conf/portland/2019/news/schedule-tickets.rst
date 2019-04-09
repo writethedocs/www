@@ -53,6 +53,11 @@ If you have a project or are part of a community that you think would benefit fr
 If you'd like us to include your project on the Writing Day page, drop us an email at `portland@writethedocs.org <mailto:portland@writethedocs.org>`_.
 Or just show up on Sunday ready to introduce your project!
 
+Childcare reminder
+------------------
+
+If you are traveling with children to the conference, remember that you can register for free childcare provided by `DivCare PDX <https://www.divcarepdx.com/>`__. In order to plan capacity, the deadline to register is **April 22nd, 2019**. Please email us at portland@writethedocs.org to request one of the limited spots. We hope this effort will help more of our lovely documentarians to attend the conference!
+
 Thanks so much for all your support and enthusiasm so far – we're so excited to see you all next month!
 
 The Write the Docs team
