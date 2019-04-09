@@ -168,10 +168,10 @@ flagcfp: False
 flagticketsonsale: False
 flagspeakersannounced: True
 flaghasschedule: True
+flaghasshirts: True
 flagvideos: False
 flaglivestreaming: False
 
 # Truthy things that don't change
 flaghashike: True
-flaghasshirts: False
 flaghasboat: False
