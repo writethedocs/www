@@ -172,6 +172,8 @@ body .page-content {
         font-weight: 200; }
       body .page-content .schedule-item .item-speaker-picture {
         display: none; }
+      body .page-content .schedule-item .item-content {
+        max-width: 350px; }
   body .page-content .talk {
     background-color: #E8DDCF;
     padding: 24px;
