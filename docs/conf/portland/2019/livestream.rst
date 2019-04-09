@@ -2,15 +2,9 @@
 
 
 Live Stream
-===============
+===========
 
-New this year we are testing a live stream.
-It's a first time production,
-so let us know if it isn't working properly!
+This page will include the embeded live-stream viewer during the conference. 
 
-
-.. raw:: html
-
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLZAeFn6dfHplUgfLOLEuHHAm1HdrIyaZ7" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+If you experience technical issues, please report them in the #live-streaming channel on Slack.
 
