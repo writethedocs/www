@@ -112,4 +112,5 @@ Community events coming up
 - 24 April - Denver, CO, USA - `Docs and drinks, daytime edition <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/258571300/>`_
 - 24 April - Manchester, UK - `Writing documentation? You need a programmer's editor <https://www.meetup.com/Write-the-Docs-North/events/259072412/>`_
 - 25 April - Los Angeles, CA, USA - `Justin Lui and Philosophie <https://www.meetup.com/Write-the-Docs-LA/events/259536213/>`_
+- 26-27 April - San Jose, CA, USA - `TC Camp 2019 <http://www.tccamp.org/>`_
 - 2 May - London, UK - `Documentation accessibility <https://www.meetup.com/Write-The-Docs-London/events/258700209/>`_
