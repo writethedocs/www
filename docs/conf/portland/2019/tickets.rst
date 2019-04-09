@@ -10,9 +10,13 @@ Ticket Information
 
 **Tickets are on sale now!**
 
+{% elif flaghasschedule %}
+
+**Tickets are sold out!**
+
 {% else %}
 
-**Tickets will be available in January.**
+**Tickets will be available in {{ date.tickets_live }}.**
 
 {% endif %}
 
