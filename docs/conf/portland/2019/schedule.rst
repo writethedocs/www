@@ -31,7 +31,7 @@ If you get into town early, join us on the hike and take the chance to explore P
 
 * **Where**: Lower Macleay Park or Macleay Park Entrance.
 * **When**: 1:45pm
-* **Details**: :doc:`Annual hike </conf/{{shortcode}}/{{year}}/hike>` page
+* **Details**: :doc:`Hike </conf/{{shortcode}}/{{year}}/hike>` page
 
 Sunday, May 19
 --------------
@@ -41,9 +41,23 @@ Writing Day
 
 Get together with other documentarians and work on an open source project and learn some new skills.
 
+The Writing Day introduction will be at 9:30.
+This is the time where you can introduce the projects you will be working on to get others to join you.
+
 * **Where**: Crystal Ballroom
 * **When**: **9am-5pm**, Doors & Breakfast at 8am.
 * **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
+
+{% if flaghasschedule %}
+
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-writing-day.yaml
+   :template: include/schedule{{year}}.rst
+   :include_context:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
 
 Reception
 ~~~~~~~~~
@@ -57,12 +71,13 @@ able to accomodate additional guests at this event.
 * **When**: **5pm-8pm**
 
 Welcome Wagon Introduction
-~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Is this your first time at Write the Docs? Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. Weâ€™ll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new, before we join the opening reception.
 
 * **Where**: Crystal Ballroom
 * **When**: **5pm-6pm**
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/welcome-wagon`
 
 Monday, May 20
 --------------
@@ -74,17 +89,18 @@ Come on a short tour of the venue with a veteran Write the Docs attendee so youâ
 
 * **Where**: Crystal Ballroom, near reception
 * **When**: **8:15am-9:00am**
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/welcome-wagon`
+
 
 Unconference
 ~~~~~~~~~~~~
 
 Have in depth discussions about a large number of topics.
-This is scheduled on the day of, so feel free to suggest your own session!
+This is scheduled on the day of, so please suggest your own session!
 
 * **Where**: Lola's room, Crystal Ballroom
-* **When**: **9:40am-5:00pm**
+* **When**: **9:40am-5pm**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
-
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
@@ -92,20 +108,19 @@ Conference Talks
 The "main event" -- we'll have a variety of speakers on the stage sharing their experience and knowledge.
 
 * **Where**: Main stage, Crystal Ballroom
-* **When**: **9am-5pm**
+* **When**: **9am-5:30pm**, Doors & Breakfast at 8am
 {% if flaghasschedule %}
 * **Details**: Full main stage schedule below
 {% else %}
 * **Details**: A detailed schedule will be announced soon
 {% endif %}
 
-
 .. separator to fix list formatting
 
 {% if flaghasschedule %}
 
 .. datatemplate::
-   :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
+   :source: /_data/{{shortcode}}-{{year}}-day-1.yaml
    :template: include/schedule{{year}}.rst
    :include_context:
 
@@ -127,7 +142,7 @@ Tuesday, May 21
 ---------------
 
 Welcome Wagon check-in
-~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 Meet back up with the Welcome Wagon and fellow first-timers to check-in about how the conference is going for you. Ask any questions you have, pass on stories from your first day, and let the Welcome Wagon know if there is anything you need to make your second day as successful as your first one.
 
@@ -137,7 +152,8 @@ Meet back up with the Welcome Wagon and fellow first-timers to check-in about ho
 Job Fair
 ~~~~~~~~
 
-We'll be holding a job fair on Tuesday morning!
+We'll be holding a job fair on Tuesday morning.
+Many of our sponsors will have booths where you can learn more about the jobs they have available.
 
 * **Where**: Lola's room (downstairs at the Crystal Ballroom)
 * **When**: **9:30am-11:40am**
@@ -149,14 +165,14 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: Lola's room (downstairs at the Crystal Ballroom)
-* **When**: **1:20-3:30pm**
+* **When**: **1:20pm-3:50pm**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: Main stage, Crystal Ballroom
-* **When**: **9am-4pm**
+* **When**: **9am-3:30pm**, Doors & Breakfast at 8am
 {% if flaghasschedule %}
 * **Details**: Full main stage schedule below
 {% else %}
@@ -168,7 +184,7 @@ Conference Talks
 {% if flaghasschedule %}
 
 .. datatemplate::
-   :source: /_data/{{templatecode}}-{{year}}-day-2.yaml
+   :source: /_data/{{shortcode}}-{{year}}-day-2.yaml
    :template: include/schedule{{year}}.rst
    :include_context:
 

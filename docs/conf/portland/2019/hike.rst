@@ -12,9 +12,8 @@ It's rained on us the past, but we have faith it will be beautiful this year! We
 Logistics
 ---------
 
-.. TODO
 
-.. You can get your hike ticket here: https://ti.to/writethedocs/write-the-docs-portland-2018/with/awor0lxyamc
+**You can get your hike ticket here**: https://ti.to/writethedocs/write-the-docs-portland-2019/with/dn2-wy5dqta
 
 - Date & Time: Leaves promptly at **Saturday, May 18, 2 PM**. Meet at **1:45**.
 - Duration: The hike normally takes around 3 hours. Along with transportation back to Portland, allow for up to 4 hours total, returning at 6pm.
