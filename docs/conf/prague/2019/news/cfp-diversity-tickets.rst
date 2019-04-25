@@ -26,7 +26,7 @@ Diversity tickets initiative
 
 Write the Docs aims to continuously expand our community to be more diverse, welcoming, and inclusive.
 
-Following the success of the Portland initiative, we're happy to open applications for diversity tickets for our Prague conference in collaboration with **DiversityTickets.org**, a wondeful non-profit organization that shares qualifying events with various diversity organizations, and helps folks from underrepresented groups find events to attend.
+Following the success of the Portland initiative, we're happy to open applications for diversity tickets for our Prague conference in collaboration with **DiversityTickets.org**, a wonderful non-profit organization that shares qualifying events with various diversity organizations, and helps folks from underrepresented groups find events to attend.
 
 For more information and to apply, head over to the `DiversityTickets.org Event <https://diversitytickets.org/en/events/425/>`_ page.
 Diversity scholarship tickets are **free**, and we hope to welcome more people from all walks of life to join our community. The deadline for applications is **7th July, 2019**.
