@@ -6,7 +6,7 @@
 Call for Proposals Closing Soon, Diversity Tickets Available
 ============================================================
 
-Greetings, fellow documentarians in Europe and beyond! In this post we're happy to announce our diversity scholarship initiative and remind you that the call for proposals is about to close, so if you want to submit your proposal now is the time.
+Greetings, fellow documentarians in Europe and beyond! In this post we're happy to announce our diversity tickets initiative and remind you that the call for proposals is about to close, so if you want to submit your proposal now is the time.
 
 Tickets are selling and we're happy to see so many of our documentarian friends on the attendee list already! Check out the `Tickets <https://www.writethedocs.org/conf/prague/2019/tickets/>`_ page for pricing and other details. Last year we sold out at 280 attendees, and due to venue capacity we are only able to increase our available tickets to 300, to help our attendees feel comfortable in this beautiful venue.
 
@@ -19,7 +19,7 @@ The `Call for Proposals <https://www.writethedocs.org/conf/prague/2019/cfp/>`_ p
 And if you have an idea but aren't sure what to do with it, feel free to ask for feedback on `Slack <http://slack.writethedocs.org/>`_. Your fellow documentarians will be happy to help!
 
 Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
-If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!
+If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be a good speaker!
 
 Diversity tickets initiative
 ----------------------------
@@ -42,6 +42,6 @@ Want to support our community? Head over to our `sponsorship prospectus <https:/
 More news soon
 --------------
 
-With the Portland conference only a few short weeks away, and the new Vilnius event following shortly after, we have a lot of wonderful work ahead of us before the summer!
+With the Portland conference only a few short weeks away, and the new Vilnius event following shortly after, we have a lot of wonderful work ahead of us before the summer.
 
 Stay tuned for news about the full presentation list for both our European events very soon!
