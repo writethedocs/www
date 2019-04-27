@@ -362,12 +362,12 @@
     perspective, we’ll share how this process has contributed to making the docs more
     engaging and moved the needle closer to our goal of having a friendly, approachable
     writing voice.</p>'
-  slug: draw-the-docs-alicia-woodside-alicja-raszkowska
+  slug: draw-the-docs-alicja-raszkowska
   speakers:
   - name: ' Alicja Raszkowska'
     slug: alicja-raszkowska
-    twitter: 'Alicia (instagram): funtimes.woodside; Alicja: mamrotynka'
-    website: 'Alicia: https://notrunningforgold.com/;  Alicja: https://trueskawka.github.io/blog/ '
+    twitter: 'Alicja: mamrotynka'
+    website: 'Alicja: https://trueskawka.github.io/blog/ '
   title: Draw the Docs
 - abstract: '<p>Though the concept of docs-driven development has been around for
     more than ten years (and was even featured in a WTD newsletter back in August
