@@ -302,29 +302,6 @@
     twitter: shannon_crabill
     website: http://shannoncrabill.com
   title: Documenting for Open Source
-- abstract: "<p>“When you’re on an airplane and your life depends on it, comics are\
-    \ going to tell you how to open an emergency exit.”\n       -- Scott McCloud</p>\n\
-    <p>Comics are fun; they’re also an effective way to communicate complex ideas\
-    \ simply. It’s an efficient medium that can delight and inform your most-technical\
-    \ audience while also being comprehensible to non-technical people.</p>\n<p>Comics\
-    \ are also easy to get wrong. Humor can come off offensive or cheesy. Graphical\
-    \ explanations can be impenetrable or patronizing. Creating viral and awesome\
-    \ content takes finesse. </p>\n<p>Speakers Allen Tsai and Syne Mitchell will share\
-    \ with their experience creating comics at Google (ex: https://g.co/dev/gkecomic\
-    \ ). They’ll explain their process, the science behind how comics help explain\
-    \ concepts, as well as show you the results of an A/B test translating one developer\
-    \ topic into comic format.</p>"
-  slug: bam-the-power-of-comics-to-explain-technology-syne-mitchell-allen-tsai
-  speakers:
-  - name: 'Syne Mitchell'
-    slug: syne-mitchell
-    twitter: synemitchell
-    website: https://www.synemitchell.com/   http://www.linkedin.com/in/allen-tsai-ux-lead
-  - name: ' Allen Tsai'
-    slug: allen-tsai
-    twitter: synemitchell
-    website: https://www.synemitchell.com/   http://www.linkedin.com/in/allen-tsai-ux-lead
-  title: Bam! The Power of Comics to Explain Technology
 - abstract: '<p>The command line evokes fear from many. But the command line can be
     your friend. Command line mastery can create a sense of authority with software
     documentation. With a little practice, you too can learn to stop worrying and
