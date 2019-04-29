@@ -71,18 +71,18 @@
     website: https://medium.com/@shavindridissanayake
   title: Documentation Strategy for Open Source Projects
   year: '2018'
-- abstract: "<p>This talk will cover best practices on how to create 
-    documentation that can be within reach to individuals who might not 
-    have ever thought they would be writing code before and why accessible 
-    documentation needs to be a part of the conversation around diversity 
+- abstract: "<p>This talk will cover best practices on how to create
+    documentation that can be within reach to individuals who might not
+    have ever thought they would be writing code before and why accessible
+    documentation needs to be a part of the conversation around diversity
     and inclusion.</p>\n
 
-    <p>We’ll get started by defining what accessible documentation looks like. 
-    We’ll also cover what common pitfalls exist and how to prevent falling 
-    into these traps such as talking in jargon and assuming a base of experience 
-    that isn’t defined.  We will also dig into code examples in documentation 
-    and discuss what context is needed to ensure that these are reachable to all. 
-    This talk will conclude with a checklist of what you need to make your 
+    <p>We’ll get started by defining what accessible documentation looks like.
+    We’ll also cover what common pitfalls exist and how to prevent falling
+    into these traps such as talking in jargon and assuming a base of experience
+    that isn’t defined.  We will also dig into code examples in documentation
+    and discuss what context is needed to ensure that these are reachable to all.
+    This talk will conclude with a checklist of what you need to make your
     documentation accessible to all.</p>\n"
   details: ''
   event: Write the Docs Cincinnati 2018
@@ -161,7 +161,7 @@
   - details: ''
     img_file: heidi-waterhouse-2.jpg
     name: Heidi Waterhouse
-    slug: heidi-aterhouse
+    slug: heidi-waterhouse
     twitter: wiredferret
     website: http://heidiwaterhouse.com
   title: 'The Man Behind the Curtain: White Labeling, Automated Generation, and Customized Documentation'
@@ -223,7 +223,7 @@
     img_file: adam-michael-wood.jpg
     name: Adam Michael Wood
     slug: adam-michael-wood
-    twitter: 
+    twitter:
     website: http://hackwrite.com
   title: Open Source DocOps
   year: '2018'
@@ -277,13 +277,13 @@
     name: Zach Corleissen
     slug: zach-corleissen
     twitter: zachorsarah
-    website: 
+    website:
   - details: ''
     img_file: jared-bhatti.jpg
     name: Jared Bhatti
     slug: jared-bhatti
     twitter: jaredbhatti
-    website: 
+    website:
   title: 'Big decisions with open source docs: a Kubernetes case study'
   year: '2018'
 - abstract: "<p>As an engineer dedicated to improving the safety of
@@ -320,8 +320,8 @@
     img_file: devin-smith.jpg
     name: Devin Smith
     slug: devin-smith
-    twitter: 
-    website: 
+    twitter:
+    website:
   title: 'Just What the Doctor Ordered: Automating Away Drudgery Through Document Conformity'
   year: '2018'
 - abstract: "<p>With an ever-present need to prove value to the organization,
@@ -352,7 +352,7 @@
     img_file: missing.jpg
     name: David Payne
     slug: david-payne
-    twitter: 
-    website: 
+    twitter:
+    website:
   title: 'Analytics Can Change Your World!'
   year: '2018'

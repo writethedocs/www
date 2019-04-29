@@ -28,7 +28,6 @@ Presentations
 * Matthew Buttler - `Only Interesting Conversations: The symbiotic relationship between docs and support </conf/na/2017/speakers/#speaker-matthew-buttler>`_
 * Lyzi Diamond - `Testing: it's not just for code anymore </conf/na/2017/speakers/#speaker-lyzi-diamond>`_
 * Sam Faktorovich - `Interviewing and hiring technical writers: the Siberian way </conf/na/2017/speakers/#speaker-sam-faktorovich>`_
-* Lynnae Griffiths - `Writing the Docs, University Edition </conf/na/2017/speakers/#speaker-lynnae-griffiths>`_
 * Sarah Hersh - `Start with the tasks, not the endpoints </conf/na/2017/speakers/#speaker-sarah-hersh>`_
 * Tom Johnson - `Building navigation for your doc site: 5 best practices </conf/na/2017/speakers/#speaker-tom-johnson>`_
 * Andrea Longo - `Do you know a runbook from a flip book? How sysadmins use documentation </conf/na/2017/speakers/#speaker-andrea-longo>`_
@@ -44,11 +43,11 @@ Presentations
 Unconference Sessions
 ---------------------
 
-* David Bastedo/Leona Campbell - `Release Notes: What's Working (and Not Working) for You? </conf/na/2017/speakers/#speaker-david-bastedoleona-campbell>`_
-* Melissa Chavez - `Worst-case Scenario Planning </conf/na/2017/speakers/#speaker-melissa-chavez>`_
-* Jigyasa Grover - `FOSS it up, with women! </conf/na/2017/speakers/#speaker-jigyasa-grover>`_
-* Mike Jang, Margaret Eker - `Write the Docs Meetup Groups </conf/na/2017/speakers/#speaker-mike-jang>`_
-* Ashleigh Rentz - `QueerTea </conf/na/2017/speakers/#speaker-ashleigh-rentz>`_
+* David Bastedo/Leona Campbell - Release Notes: What's Working (and Not Working) for You? <
+* Melissa Chavez - Worst-case Scenario Planning
+* Jigyasa Grover - FOSS it up, with women!
+* Mike Jang, Margaret Eker - Write the Docs Meetup Groups
+* Ashleigh Rentz - QueerTea
 
 
 Writing Day Workshops
@@ -63,7 +62,7 @@ These workshops will be ticketed separately. You can buy them at our normal tick
 Ticket Reminder
 ---------------
 
-If you haven't purchased your ticket yet, time hasn't quite run out. Check out the `Tickets <http://www.writethedocs.org/conf/na/2017/tickets/>`_ page for more details.
+If you haven't purchased your ticket yet, time hasn't quite run out. Check out the `Tickets <https://www.writethedocs.org/conf/na/2017/tickets/>`_ page for more details.
 **More than half the tickets are already sold out**, and we expect to sell out before the end of April, so don't wait to get your tickets!
 
 Prague Conference Update
@@ -72,7 +71,7 @@ Prague Conference Update
 In case your proposal wasn't selected for our Portland conference, or if you
 (like some of our friends) were waiting for this announcement, we are happy to
 also launch our `website and ticket sales
-<http://www.writethedocs.org/conf/eu/2017/news/announcing-website-tickets/>`_ for
+<https://www.writethedocs.org/conf/eu/2017/news/announcing-website-tickets/>`_ for
 the conference that will be held on **September 10-12** in Prague, Czech
 Republic.
 

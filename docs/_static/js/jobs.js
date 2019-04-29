@@ -6,12 +6,12 @@ $(document).ready(function() {
     .always(
         function(data) {
             console.log('Got data')
-            var list = $("#jobs").find('ul');
+            var list = $("#jobs-listing").find('ul');
 
             console.log('Got list')
 
             // Create HTML
-            $(data).find("item").each(function () { 
+            $(data).find("item").each(function () {
                 var el = $(this);
                 var title = el.find("title").text();
                 var link =  el.find("link").text();
@@ -29,6 +29,6 @@ $(document).ready(function() {
                 console.log('Got link')
             });
             console.log(list)
-        }   
+        }
     )
 });

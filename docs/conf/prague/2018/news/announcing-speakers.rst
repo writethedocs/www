@@ -10,7 +10,7 @@ Hello folks!
 
 First off, we're excited to announce that we've finalized our list of speakers for the event! Every year talk selection gets more and more difficult as we get a larger, stronger batch of submissions. Thank you so much to everyone who took the time to send us a pitch – we literally wouldn't have an event without you!
 
-We also have some info about ticket purchasing (now's the time!), trip planning (Prague beckons!), conference shirts (now printed on demand) and of course our generous sponsors (want to `join them <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_?). Read on for more details!
+We also have some info about ticket purchasing (now's the time!), trip planning (Prague beckons!), conference shirts (now printed on demand) and of course our generous sponsors (want to `join them <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_?). Read on for more details!
 
 Speakers and talks
 ------------------
@@ -22,7 +22,7 @@ Every year, we look to bring a wide range of voices to the Write the Docs stage.
    :template: {{year}}/speakers-simple-list.rst
    :include_context:
 
-Head over to the `Speakers page <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`_ to see the full abstracts. We hope there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.
+Head over to the `Speakers page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`_ to see the full abstracts. We hope there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.
 
 
 Tickets are going fast!
@@ -30,14 +30,14 @@ Tickets are going fast!
 
 If you don't have your ticket yet, now's a great time to snap one up. Conference tickets have sold out for the last several years, so if you're planning to come, don't leave it to the last minute.
 
-`Buy your tickets here! <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_
+`Buy your tickets here! <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_
 
 Planning your trip
 ------------------
 
 In the next few weeks, we’ll be announcing more details about the conference events, including the full schedule, boat trip on Saturday afternoon, writing day and reception on Sunday, and official party on Monday evening.
 
-In the meantime, check out the `Visit Prague <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`_ page on the conference website for some resources on transport, where to stay, where to eat, etc. You can also pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack to ask questions! 
+In the meantime, check out the `Visit Prague <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`_ page on the conference website for some resources on transport, where to stay, where to eat, etc. You can also pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack to ask questions! 
 
 Beth Aitman and Daniel Beck are volunteering as our Welcome Wagon committee this year. If this is your first time attending the conference – or even if it's not – they'll be hanging out in `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ and on site during the event to help out you get the most out of the experience. 
 
@@ -66,7 +66,7 @@ We are so grateful to have our sponsors help in bringing these events to life ev
 * `Gitlab <https://gitlab.com>`__
 * `KnowledgeOwl <https://www.knowledgeowl.com/>`__
 
-Want to lend a hand? Head over to our `sponsorship prospectus <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ for details on how your company can get involved! We have several types of sponsorship available, including the option to participate in a new job fair that we'll be hosting on Tuesday.
+Want to lend a hand? Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ for details on how your company can get involved! We have several types of sponsorship available, including the option to participate in a new job fair that we'll be hosting on Tuesday.
 
 And that's the latest on the Prague conference. We hope you're all getting as excited as we are! Stay tuned for more details.
 

@@ -93,8 +93,8 @@ Pricing details can be found on each conference's sponsorship prospectus:
 * `Portland sponsorship details`_
 * `Prague sponsorship details`_
 
-.. _Portland sponsorship details: http://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/
-.. _Prague sponsorship details: http://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/
+.. _Portland sponsorship details: https://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/
+.. _Prague sponsorship details: https://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/
 
 We Are Experimenting and Iterating
 ------------------------------------

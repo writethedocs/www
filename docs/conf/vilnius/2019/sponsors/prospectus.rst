@@ -16,7 +16,7 @@ Sponsorship Prospectus
 Concept
 =======
 
-Write the Docs Vilnius (http://www.writethedocs.org/) is part of Write the Docs conference series.
+Write the Docs Vilnius (https://www.writethedocs.org/) is part of Write the Docs conference series.
 Write the Docs Vilnius is a **two day conference** focusing on documentation systems, tech writing
 theory, and information delivery.
 

@@ -18,7 +18,7 @@
         <!-- Open Graph protocol -->
         <meta property="og:type" content="conference">
         <meta property="og:url" content="http://www.writethedocs.org">
-        <meta property="og:image" content="http://www.writethedocs.org/_static/img/stickers/sticker-wtd-colors.png">
+        <meta property="og:image" content="https://www.writethedocs.org/_static/img/stickers/sticker-wtd-colors.png">
         <!-- /Open Graph protocol -->
 
         <link rel="apple-touch-icon" sizes="57x57" href="{{ pathto('_static/favicon/apple-icon-57x57.png', 1) }}">
@@ -70,49 +70,18 @@
     <div class="footer-head">
         <div class="uk-container">
         {% block footerhead %}
-                {% if flagticketsonsale or flagcfp or flagspeakersannounced and not flagvideos %}
-                <h3>Join us now!</h3>
-                {% endif %}
-
-                {% if flagticketsonsale %}
-
-                <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/' + shortcode + '/2019/tickets') }}">Buy a Ticket!</a>
-
-                {% endif %}
-
-                {% if flagcfp %}
-
-                <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2019/cfp') }}">Submit a
-                Talk</a>
-
-                {% endif %}
-
-                {% if flagspeakersannounced and not flagvideos %}
-
-                <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/' + shortcode + '/2019/speakers') }}">See the talks!</a>
-
-                {% endif %}
-
-                {% if flagwelcomewagon %}
-
-                <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/' + shortcode + '/' + year|string + '/welcome-wagon') }}">Prepare with the Welcome Wagon</a>
-
-                {% endif %}
-
-                {% if flagvideos %}
-
-                <a class="uk-button uk-button-default uk-text-center" href="https://slack.writethedocs.org">Join the WTD Slack!</a>
-
-                {% endif %}
-
-
+         {% if buttons is defined %} 
+             {% for callout in buttons.bottom %}
+               <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/' + year|string + callout.link ) }}">{{ callout.text }}</a>
+             {% endfor %}
+         {% endif %}
         {% endblock %}
         </div>
     </div>
 
     {# Show sponsors in footer of non-sponsor pages #}
     {% if "sponsors/index" not in pagename and flaghassponsors %}
-    <div class="sponsors">
+    <div class="sponsors-footer">
         <div class="uk-container">
         <h2 class="uk-first-column">Sponsors</h2>
             {% include "include/" + year|string  + "/" + shortcode + "-sponsors.html" %}

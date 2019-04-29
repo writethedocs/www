@@ -21,7 +21,7 @@ They are the time each year where hundreds of wonderful folks gather and have a 
 while learning so much from each other.
 Proving each year that work can be both fun and informative is one of my greatest pleasures.
 
-We continue to publish :doc:`videos </videos/index>` freely to the public.
+We continue to publish `videos </videos/>`_ freely to the public.
 This is done so that the information can be most widely shared,
 and help people who may not be able to attend the events.
 Write the Docs always strives to be as inclusive as possible,

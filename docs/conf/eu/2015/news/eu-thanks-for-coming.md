@@ -42,7 +42,7 @@ We hope you continue to build the community and keep in touch with other documen
 
 If you want to start a meetup in your city, [send us an email](mailto:prague@writethedocs.org) and we'll help you get started and spread the word.
 
-* Current Meetups: [Europe](http://www.writethedocs.org/meetups/#current-meetups-europe)  
+* Current Meetups: [Europe](https://www.writethedocs.org/meetups/#current-meetups-europe)  
 * Your City Here -- [Start a meetup!](https://www.youtube.com/watch?v=ZwQ8Kd48d0w)
 
 ### Thanks again

@@ -9,16 +9,16 @@ Call for Proposals Reminder
 
 Hello, fellow documentarians!
 
-The `Write the Docs Cincinnati + Open Help conference <http://www.writethedocs.org/conf/cincinnati/2018/>`_ is now a little over two months away, so we hope you’re getting excited for another inimitable Write the Docs experience in beautiful, historic Cincinnati!
+The `Write the Docs Cincinnati + Open Help conference <https://www.writethedocs.org/conf/cincinnati/2018/>`_ is now a little over two months away, so we hope you’re getting excited for another inimitable Write the Docs experience in beautiful, historic Cincinnati!
 
-`Tickets <http://www.writethedocs.org/conf/cincinnati/2018/tickets/>`_ are still available. Our thanks to everyone who has already purchased theirs!
+`Tickets <https://www.writethedocs.org/conf/cincinnati/2018/tickets/>`_ are still available. Our thanks to everyone who has already purchased theirs!
 
 Submit your talk by Monday
 --------------------------
 
 Although the deadline is fast approaching, there are still 5 days (including 1 weekend!) left to submit a talk proposal for Write the Docs Cincinnati + Open Help! We'll be accepting proposals until Monday, June 18 at Midnight PST.
 
-If you're interested in pitching a talk, but you need some ideas or guidance, check out our `Call for Proposals <http://www.writethedocs.org/conf/cincinnati/2018/cfp/>`_ page. If you've got an idea, but you're having a hard time getting your proposal to come together, you can always ask for feedback on Slack. Your fellow documentarians are there to help!
+If you're interested in pitching a talk, but you need some ideas or guidance, check out our `Call for Proposals <https://www.writethedocs.org/conf/cincinnati/2018/cfp/>`_ page. If you've got an idea, but you're having a hard time getting your proposal to come together, you can always ask for feedback on Slack. Your fellow documentarians are there to help!
 
 We can't wait to see your submissions! We'll be reviewing all the talk proposals later this month, and announcing the full conference schedule in mid-July.
 
@@ -28,7 +28,7 @@ A schedule overview
 This event is a bit different than the other Write the Docs events we've done in the past.
 It has a much longer portion devoted to sprints,
 with one full day devoted to both talks and unconferences.
-Here's a quick overview of the `schedule <http://www.writethedocs.org/conf/cincinnati/2018/schedule/>`_:
+Here's a quick overview of the `schedule <https://www.writethedocs.org/conf/cincinnati/2018/schedule/>`_:
 
 * **Saturday Aug 18: Talks on all things technical documentation.** We’ll have a variety of speakers on the stage sharing their experience and knowledge.
 * **Sunday Aug 19: Unconference discussion and open space.** Share ideas and discuss problems with others from the documentation community. Anyone can suggest and lead a session on any topic.

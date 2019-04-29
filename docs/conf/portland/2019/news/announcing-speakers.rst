@@ -22,21 +22,21 @@ Every year, we look to bring a wide range of voices to the Write the Docs stage.
    :template: {{year}}/speakers-simple-list.rst
    :include_context:
 
-Head over to the `Speakers page <http://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`_ to see the full abstracts. We hope there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.
+Head over to the `Speakers page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`_ to see the full abstracts. We hope there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.
 
 Tickets are going fast!
 -----------------------
 
 If you don't have your ticket yet, now's a great time to snap one up. Conference tickets have sold out for the last several years, and they go faster along with the speaker announcement, so if you're planning to come, don't leave it to the last minute.
 
-`Buy your tickets here! <http://www.writethedocs.org/conf/portland/2019/tickets/>`_
+`Buy your tickets here! <https://www.writethedocs.org/conf/portland/2019/tickets/>`_
 
 Planning your trip
 ------------------
 
 In the next few weeks, we’ll be announcing more details about the conference events, including the full schedule, annual hike on Saturday afternoon, writing day and reception on Sunday, and official party on Monday evening. But on top of that, there's ALL SORTS of stuff to do in Portland.
 
-We've got a couple of excellent volunteers – Mo Nishiyama and Alicia Duncan – who are heading up our Explore Portland committee. They're already hard at work putting together resources to help you plan your visit! Check out the `Visit Portland <http://www.writethedocs.org/conf/portland/2019/visiting/>`_ page on the conference website, or pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack to ask a question.
+We've got a couple of excellent volunteers – Mo Nishiyama and Alicia Duncan – who are heading up our Explore Portland committee. They're already hard at work putting together resources to help you plan your visit! Check out the `Visit Portland <https://www.writethedocs.org/conf/portland/2019/visiting/>`_ page on the conference website, or pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack to ask a question.
 
 Thanks to our sponsors
 ----------------------
@@ -70,7 +70,7 @@ We are so grateful to have our sponsors help in bringing these events to life ev
 
 `StickerMule <https://www.stickermule.com/supports/writethedocs-portland>`_
 
-Want to lend a hand? Head over to our `sponsorship prospectus <http://www.writethedocs.org/conf/portland/2019/sponsors/prospectus/>`_ for details on how your company can get involved! We have several types of sponsorship available, including tables at the job fair that we'll be hosting on Tuesday.
+Want to lend a hand? Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/portland/2019/sponsors/prospectus/>`_ for details on how your company can get involved! We have several types of sponsorship available, including tables at the job fair that we'll be hosting on Tuesday.
 
 And that's the latest on the Portland conference. We hope you're all getting as excited as we are! Stay tuned for more details.
 
