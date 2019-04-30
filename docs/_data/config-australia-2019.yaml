@@ -52,14 +52,8 @@ date: # how do we handle these? human readable would be nice.
     icon: conversation
 
 about:
-  summary:
-    "The conference takes place on **November 14-15** (Thursday and Friday). The
-    main presentation track runs from 9:00 to 14:00 each day, followed by a
-    :doc:`/conf/australia/2018/workshop-tech-writing` and
-    :doc:`/conf/australia/2018/unconference`.
-
-    You can find out more information about the venue and its accessibility on our :doc:`/conf/australia/2018/venue` page."
-  location: "Performance Space, Library at the Dock, Melbourne"
+  summary: "TBD"
+  location: "TBD"
   attendees: 100
   mainroom:
     Performance Space
@@ -67,7 +61,7 @@ about:
     Community Room
 
 cfp:
-  url: https://goo.gl/forms/ONK3MoLwtNQ3LcXv1
+  url: TBD
   ends: Friday, July 27th
   notification: Wednesday, Aug 15th
 
