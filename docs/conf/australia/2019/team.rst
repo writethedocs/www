@@ -34,7 +34,7 @@ Christy Lutz
 ~~~~~~~~~~~~
 
 {% include "bios/christy.rst" %}
-    
+
 Rose Williams
 ~~~~~~~~~~~~~
 
@@ -55,7 +55,7 @@ Mikey Ariel
 
 {% include "bios/mikey.rst" %}
 
-Hillary Frayley
+Hillary Fraley
 ~~~~~~~~~~~~~~~
 
 {% include "bios/hillary.rst" %}
@@ -67,7 +67,7 @@ Primary Roles
 
 * **Conference chair** - Eric Holscher
 * **Conference co-chair** - *TBD*
-* **Code of conduct response** - See `code of conduct <http://www.writethedocs.org/code-of-conduct/#australia-code-of-conduct-team>`_ page
+* **Code of conduct response** - See `code of conduct </code-of-conduct/#reporting-and-contact-information>`_ page
 * **Speaker coordinator** - Samuel Wright
 * **Unconference coordinator** - Jennifer Rondeau & Hillary Frayley
 * **Lightning Talk coordinator** - Rose Williams
@@ -76,7 +76,7 @@ Primary Roles
 * **Swag coordinator** - Mikey Ariel
 * **Communication coordinator** - Mo Nishiyama
 * **Explore Portland coordinators** - Alicia Duncan & Mo Nishiyama
-* **Job Fair coordinator** - Jennifer Rondeau & Hillary Frayley
+* **Job Fair coordinator** - Jennifer Rondeau & Hillary Fraley
 * **Welcome Wagon coordinators** - Christy Lutz & Alicia Duncan
 * **Sponsorship coordinator** - Eric Holscher
 * **Writing Day coordinator** - Rose Williams
@@ -85,4 +85,3 @@ Primary Roles
 * **Social media coordinator** - *TBD*
 
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
-
