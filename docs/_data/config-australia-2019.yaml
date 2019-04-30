@@ -15,8 +15,6 @@ photos:
   default: _static/2019/assets/headers/WTDHeader.png
 
 tickets:
-  community:
-    price: $500
   corporate:
     price: $250
   independent:
