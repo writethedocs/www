@@ -67,7 +67,7 @@ Primary Roles
 
 * **Conference chair** - Eric Holscher
 * **Conference co-chair** - *TBD*
-* **Code of conduct response** - See `code of conduct <http://www.writethedocs.org/code-of-conduct/#staff-contact-information>`_ page
+* **Code of conduct response** - See `code of conduct <http://www.writethedocs.org/code-of-conduct/#australia-code-of-conduct-team>`_ page
 * **Speaker coordinator** - Samuel Wright
 * **Unconference coordinator** - Jennifer Rondeau & Hillary Frayley
 * **Lightning Talk coordinator** - Rose Williams
