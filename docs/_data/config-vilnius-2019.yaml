@@ -82,7 +82,7 @@ cfp:
   notification: Wednesday, May 1st
 
 
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagcfp: False
 flaghasschedule: False
 flagticketsonsale: True
