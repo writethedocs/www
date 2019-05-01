@@ -233,8 +233,8 @@ Sponsorship spaces
 
 A quick overview of the spaces in the venue that are important:
 
-* The *main ballroom* is where talks and most sponsorship activity happens. We will have booths & swag tables set up at the back of the main ballroom. Here is a `picture <https://www.flickr.com/photos/writethedocs/34495135662>`_ before the attendees showed up.
-* *Lola's Room* is downstairs from the main ballroom. This is where the Unconference & Job Fair will happen. Another `picture <https://www.flickr.com/photos/writethedocs/34536045142/in/album-72157683817839465/>`_ shows the idea.
+* The *main ballroom* is where talks and most sponsorship activity happens. We will have booths & swag tables set up at the back of the main ballroom. Here is a `picture <https://www.flickr.com/photos/writethedocs/34495135662>`__ before the attendees showed up.
+* *Lola's Room* is downstairs from the main ballroom. This is where the Unconference & Job Fair will happen. Another `picture <https://www.flickr.com/photos/writethedocs/34536045142/in/album-72157683817839465/>`__ shows the idea.
 
 Sponsorship events
 ------------------
