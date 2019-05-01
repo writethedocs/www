@@ -60,7 +60,24 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 
 .. class:: ticket
 
+**Diversity scholarship tickets**
+-----------------------------------
+
+Write the Docs aims to continuously expand our community to be more diverse, welcoming, and inclusive.
+
+We offer a limited number of diversity scholarship tickets for our Prague conference in collaboration with `DiversityTickets.org <https://diversitytickets.org/>`_, a non-profit organization that shares qualifying events with various diversity organizations, and helps folks from underrepresented groups find events to attend.
+
+For more information and to apply, head over to the `DiversityTickets.org <https://diversitytickets.org/en/events/425/>`_ Event page. Diversity scholarship tickets are free. The deadline for applications is 7th July, 2019.
+
+{% if flagticketsonsale %}
+
+* `Apply for a Diversity Scholarship Ticket <https://diversitytickets.org/en/events/425/>`_
+
+{% endif %}
+
+.. class:: ticket
+
 **None of the above**
 ---------------------
 
-If you can't afford these prices and still wish to attend, please email us at `{{shortcode}}@writethedocs.org <mailto:{{shortcode}}@writethedocs.org>`_. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance. We also offer a limited number of `diversity scholarship tickets <https://www.writethedocs.org/conf/prague/2019/news/cfp-diversity-tickets/#diversity-tickets-initiative>`_.
+If you can't afford these prices and still wish to attend, please email us at `{{shortcode}}@writethedocs.org <mailto:{{shortcode}}@writethedocs.org>`_. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance. 
