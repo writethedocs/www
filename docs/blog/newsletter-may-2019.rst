@@ -5,13 +5,13 @@
 Write the Docs Newsletter – May 2019
 ####################################
 
-Hello everyone! It's Beth and the Write the Docs newsletter team here, with May's edition full of news and collected wisdom from the community Slack.
+Hello everyone! It's Beth and the newsletter team here, with May's edition full of news and collected wisdom from the community Slack.
 
 This month's biggest announcement is `the dates for Write the Docs Australia </conf/australia/2019/>`__. It'll be 14-15 November 2019, in Sydney. Save the date!
 
 To the nearer future, `the Portland conference </conf/portland/2019/news/schedule-tickets/>`__ is coming up on 19 May. For those who can't make it, you'll be pleased to hear that we'll be live-streaming the conference again this year! `www.writethedocs.org/conf/portland/2019/livestream </conf/portland/2019/livestream/>`__ is the place to watch.
 
-And if you're planning to attend one of our European conferences, now's a great time to buy tickets, which are on sale now for `Vilnius </conf/vilnius/2019/tickets/>`__ and `Prague </conf/prague/2019/tickets/>`__. We're delighted to tell you that `diversity tickets are available for Prague </conf/prague/2019/news/cfp-diversity-tickets/#diversity-tickets-initiative>`__!
+And if you're planning to attend one of our European conferences, now's a great time to buy tickets, which are on sale for `Vilnius </conf/vilnius/2019/tickets/>`__ and `Prague </conf/prague/2019/tickets/>`__. We're delighted to tell you that `diversity tickets are available for Prague </conf/prague/2019/news/cfp-diversity-tickets/#diversity-tickets-initiative>`__!
 
 Finally, just a reminder: If you spot something on Slack and you think, "That was interesting/useful/cool, we should save that", please go ahead and pop the ``:suggest-for-newsletter:`` emoji on it. That'll bring it to our attention, so we can write it up into a newsletter article and save for posterity!
 
@@ -41,7 +41,7 @@ And of course, some WTD talks have covered user feedback too:
 Tips and tricks for producing videos
 ------------------------------------
 
-Videos can be a great way of educating users, but it's not always easy to do them well, especially if you haven't worked on video before. Here are some tips from a recent community community:
+Videos can be a great way of educating users, but it's not always easy to do them well, especially if you haven't worked on video before. Here are some tips from a recent community discussion:
 
 * Keep in mind that videos are not a "quick project": they can be very time consuming.
 * Create a pipeline for video creation and production that suits your organization's specific needs.
@@ -51,7 +51,7 @@ Videos can be a great way of educating users, but it's not always easy to do the
 * Collaborate with other teams! UX, Customer Support, Training, and other teams can all be valuable resources for videos.
 * Many community members suggested that docs teams should only commit to video content if they have a dedicated person, or even team, to work on videos.
 
-If you've got any more questions, head on over to `#video <https://writethedocs.slack.com/messages/video/>`_!
+If you've got any more questions, head on over to `#video <https://writethedocs.slack.com/messages/CBZ41NZJS/>`_!
 
 ------------------------------------------------------
 The variable fortunes of variable placeholders in docs
@@ -100,7 +100,7 @@ If you're in Seattle, this is your month!
 `Senior Programming Writer <https://jobs.writethedocs.org/job/104/sr-programming-writer-amazon-alexa/>`__
  Amazon Alexa, Seattle, full-time
 
-`Technical Writer <https://jobs.writethedocs.org/job/104/sr-programming-writer-amazon-alexa/>`__
+`Technical Writer <https://jobs.writethedocs.org/job/107/technical-writer/>`__
  AWS, Seattle, full-time
 
 `Senior Technical Writer - Cryptography Services <https://jobs.writethedocs.org/job/108/sr-technical-writer-cryptography-services/>`__
@@ -119,12 +119,12 @@ Community events coming up
 --------------------------
 
 - 7 May - Sunnyvale, CA, USA - `Sound talk: producing quality voice-over recordings <https://www.meetup.com/Write-the-Docs-Bay-Area/events/260295281/>`__
-- 15 May - `India <https://www.meetup.com/Write-the-Docs-India/events/260664753/>`__ AND `Australia <https://www.meetup.com/Write-the-Docs-Australia/events/260302007/ >`__ - Webinar: Season of Docs | Open Source journey
-- 15 May - Toronto, Canada - `Write the Docs Toronto <https://www.meetup.com/Write-the-Docs-Toronto/events/pcqbmqyzhbtb/>`__
+- 15 May - `India <https://www.meetup.com/Write-the-Docs-India/events/260664753/>`__ AND `Australia <https://www.meetup.com/Write-the-Docs-Australia/events/260302007/>`__ - Webinar: Season of Docs | Open Source journey
+- 15 May - Toronto, Canada - `What it takes to get a short story published <https://www.meetup.com/Write-the-Docs-Toronto/events/pcqbmqyzhbtb/>`__
 - 16 May - Oakland, CA, USA - `Doc writing workshop for developers and engineers <https://www.meetup.com/Write-the-Docs-Bay-Area/events/260432676/>`__
 - 18 May - Moscow, Russia - `Профессиональная трансформация технического писателя <https://www.meetup.com/Write-the-Docs-Moscow/events/260877795/>`__
 - 20 May - Berlin, Germany - `Docs hack <https://www.meetup.com/Write-The-Docs-Berlin/events/hzmpsqyzhbbc/>`__
 - 28 May - Ottawa, Canada - `WTD Ottawa Shopify meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyzhbsb/>`__
-- 29 May - Westminster, CO, USA - `Docs and Drinks daytime edition  <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/258571464/>`__
+- 29 May - Arvada, CO, USA - `Docs and Drinks daytime edition  <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/258571464/>`__
 - 12 June - Manchester, UK - `Becoming a self-employed tech writer  <https://www.meetup.com/Write-the-Docs-North/events/259954919/>`__
 - 20 June - Boise, ID, USA - `June meetup <https://www.meetup.com/Write-the-Docs-Boise/events/260928638/>`__
