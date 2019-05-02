@@ -118,13 +118,17 @@ If you're in Seattle, this is your month!
 Community events coming up
 --------------------------
 
+- 6 May - Denver, CO, USA - `WTD and STC Dine-Around <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/261045278/>`__
 - 7 May - Sunnyvale, CA, USA - `Sound talk: producing quality voice-over recordings <https://www.meetup.com/Write-the-Docs-Bay-Area/events/260295281/>`__
 - 15 May - `India <https://www.meetup.com/Write-the-Docs-India/events/260664753/>`__ AND `Australia <https://www.meetup.com/Write-the-Docs-Australia/events/260302007/>`__ - Webinar: Season of Docs | Open Source journey
+- 14 May - Louisville, CO, USA - `Defying the Status Quo: How a grassroots effort can transform an organization <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/261073983/>`__
 - 15 May - Toronto, Canada - `What it takes to get a short story published <https://www.meetup.com/Write-the-Docs-Toronto/events/pcqbmqyzhbtb/>`__
 - 16 May - Oakland, CA, USA - `Doc writing workshop for developers and engineers <https://www.meetup.com/Write-the-Docs-Bay-Area/events/260432676/>`__
 - 18 May - Moscow, Russia - `Профессиональная трансформация технического писателя <https://www.meetup.com/Write-the-Docs-Moscow/events/260877795/>`__
 - 20 May - Berlin, Germany - `Docs hack <https://www.meetup.com/Write-The-Docs-Berlin/events/hzmpsqyzhbbc/>`__
+- 23 May - Munich, Germany - `Ensuring the quality of your documentation <https://www.meetup.com/write-the-docs-muc/events/261040426/>`__
 - 28 May - Ottawa, Canada - `WTD Ottawa Shopify meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyzhbsb/>`__
-- 29 May - Arvada, CO, USA - `Docs and Drinks daytime edition  <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/258571464/>`__
-- 12 June - Manchester, UK - `Becoming a self-employed tech writer  <https://www.meetup.com/Write-the-Docs-North/events/259954919/>`__
-- 20 June - Boise, ID, USA - `June meetup <https://www.meetup.com/Write-the-Docs-Boise/events/260928638/>`__
+- 29 May - Arvada, CO, USA - `Docs and Drinks daytime edition <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/258571464/>`__
+- 12 June - Manchester, UK - `Becoming a self-employed tech writer <https://www.meetup.com/Write-the-Docs-North/events/259954919/>`__
+- 13 June - Paris, France - `Première rencontre WriteTheDocs Paris <https://www.meetup.com/Write-the-Docs-Paris/events/260964602/>`__
+
