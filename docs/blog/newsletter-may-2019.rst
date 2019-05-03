@@ -9,7 +9,7 @@ Hello everyone! It's Beth and the newsletter team here, with May's edition full 
 
 This month's biggest announcement is `the dates for Write the Docs Australia </conf/australia/2019/>`__. It'll be 14-15 November 2019, in Sydney. Save the date!
 
-To the nearer future, `the Portland conference </conf/portland/2019/news/schedule-tickets/>`__ is coming up on 19 May. For those who can't make it, you'll be pleased to hear that we'll be live-streaming the conference again this year! `www.writethedocs.org/conf/portland/2019/livestream </conf/portland/2019/livestream/>`__ is the place to watch.
+In the nearer future, `the Portland conference </conf/portland/2019/news/schedule-tickets/>`__ is coming up on 19 May. For those who can't make it, you'll be pleased to hear that we'll be live-streaming the conference again this year! `www.writethedocs.org/conf/portland/2019/livestream </conf/portland/2019/livestream/>`__ is the place to watch.
 
 And if you're planning to attend one of our European conferences, now's a great time to buy tickets, which are on sale for `Vilnius </conf/vilnius/2019/tickets/>`__ and `Prague </conf/prague/2019/tickets/>`__. We're also delighted to tell you that `diversity tickets are available for Prague </conf/prague/2019/news/cfp-diversity-tickets/#diversity-tickets-initiative>`__!
 
