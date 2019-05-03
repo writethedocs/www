@@ -1,7 +1,7 @@
-Our unconference sessions create an opportunity for conference attendees to share ideas and discuss problems at different levels than we can on the main stage of the conference.
+Unconference sessions create an opportunity for conference attendees to share ideas, solve problems, and participate in discussions in different ways than we can on the main stage of the conference.
 
 If you've never attended an unconference, expect to interact closely with others from the community.
-Anyone can suggest and lead a session on a topic, which could be a presentation, a group discussion on a particular problem, or anything in between.
+Anyone can suggest and lead a session on a topic -- sessions can be organized around a presentation, a group discussion on a particular problem, or anything in between.
 
 Leading a session
 -----------------
@@ -20,7 +20,7 @@ Here are a few ideas for how to structure an unconf session, borrowed from `Scot
 Scheduling a session
 --------------------
 
-If you want to lead an unconf session, you sign up on the board in the room designated for the unconference. You propose a topic and pick a time; unconf sessions are scheduled for the same time slots as talks on the main stage
+If you want to lead an unconf session, sign up on the board in the room designated for the unconference. You propose a topic and pick a time; unconf sessions are scheduled for the same time slots as talks on the main stage
 
 The first chance you will get to post your presentation is on Sunday, at the Writing Day event and welcome reception.
 If you don't make it to the Writing Day event or reception, be sure to find the board when you first arrive at the conference to post your topic.
