@@ -11,11 +11,11 @@ This month's biggest announcement is `the dates for Write the Docs Australia </c
 
 To the nearer future, `the Portland conference </conf/portland/2019/news/schedule-tickets/>`__ is coming up on 19 May. For those who can't make it, you'll be pleased to hear that we'll be live-streaming the conference again this year! `www.writethedocs.org/conf/portland/2019/livestream </conf/portland/2019/livestream/>`__ is the place to watch.
 
-And if you're planning to attend one of our European conferences, now's a great time to buy tickets, which are on sale for `Vilnius </conf/vilnius/2019/tickets/>`__ and `Prague </conf/prague/2019/tickets/>`__. We're delighted to tell you that `diversity tickets are available for Prague </conf/prague/2019/news/cfp-diversity-tickets/#diversity-tickets-initiative>`__!
+And if you're planning to attend one of our European conferences, now's a great time to buy tickets, which are on sale for `Vilnius </conf/vilnius/2019/tickets/>`__ and `Prague </conf/prague/2019/tickets/>`__. We're also delighted to tell you that `diversity tickets are available for Prague </conf/prague/2019/news/cfp-diversity-tickets/#diversity-tickets-initiative>`__!
 
-Finally, just a reminder: If you spot something on Slack and you think, "That was interesting/useful/cool, we should save that", please go ahead and pop the ``:suggest-for-newsletter:`` emoji on it. That'll bring it to our attention, so we can write it up into a newsletter article and save for posterity!
+Finally, just a reminder: If you spot something on Slack and you think, "That was interesting/useful/cool, we should save that", please go ahead and pop the ``:suggest-for-newsletter:`` emoji on it. That'll bring it to our attention, so we can consider it as a topic for a newsletter article!
 
-Speaking of which: what interesting things have come up this month?
+Speaking of which, what interesting things have come up this month?
 
 --------------------------------------
 Collecting and acting on user feedback
@@ -43,10 +43,10 @@ Tips and tricks for producing videos
 
 Videos can be a great way of educating users, but it's not always easy to do them well, especially if you haven't worked on video before. Here are some tips from a recent community discussion:
 
-* Keep in mind that videos are not a "quick project": they can be very time consuming.
+* Keep in mind that videos are not a "quick project": they can be very time-consuming.
 * Create a pipeline for video creation and production that suits your organization's specific needs.
 * Consider developing a library of assets for videos and commit to maintaining it.
-* Be sure to take up-front expenses into account, such as editing software or a higher quality microphone.
+* Be sure to take up-front expenses into account, such as editing software or a higher-quality microphone.
 * If you don't have the resources to produce full-fledged tutorial videos, consider shorter videos (five minutes or less) that serve as an introduction to draw the audience into the documentation.
 * Collaborate with other teams! UX, Customer Support, Training, and other teams can all be valuable resources for videos.
 * Many community members suggested that docs teams should only commit to video content if they have a dedicated person, or even team, to work on videos.
@@ -57,7 +57,7 @@ If you've got any more questions, head on over to `#video <https://writethedocs.
 The variable fortunes of variable placeholders in docs
 ------------------------------------------------------
 
-In code examples, you often need to put in placeholders for values that users must provide. But no matter what a hapless writer tries, it seems inevitable that users won't realise they need to substitute in their own data. Here's a summary of the options that our documentarians have provided for their readers:
+In code examples, you often need to put in placeholders for values that users must provide. But no matter what a hapless writer tries, it seems inevitable that users won't realise they need to substitute their own data. Here's a summary of the options that our documentarians have provided for their readers:
 
 * Explain the values that must be replaced, followed by the example.
 * Provide an example with placeholder values, then an example with (fake) real values.
@@ -79,9 +79,9 @@ One approach is to find out how many people the other company puts on docs. For 
 
 You can also try breaking down the work that's required to get there, and use that to ask for more people (or for the pressure to be taken off). With positive phrasing: "I'd love to do that! Now, here are the resources we'll need to make it happen."
 
-But how many people *do* you need? The ratio of writers to developers varies hugely. `This report <https://www.infomanagementcenter.com/publications/e-newsletter/cidm-enews-03-17/another-look-at-writer-to-developer-staffing-ratios/>`__ had found that between 1:7 and 1:12 was fairly standard, but community members reported ratios as high as 1:51.
+But how many people *do* you need? The ratio of writers to developers varies hugely. `One survey of articles and forum posts <https://www.infomanagementcenter.com/publications/e-newsletter/cidm-enews-03-17/another-look-at-writer-to-developer-staffing-ratios/>`__ had found that between 1:7 and 1:12 was fairly standard, but community members reported ratios as high as 1:51.
 
-It varies because needs vary: a developer team focused on performance improvements won't generate much doc work, where two working on big UI changes might create lots. Even with a great writer-to-dev ratio, if the team is building many complex features, writers may still struggle to keep up. Some thought that the ratio of writers to UX designers or product managers might match docs work generated more closely.
+It varies because needs vary: a developer team focused on performance improvements won't generate much doc work, whereas two working on big UI changes might create lots. Even with a great writer-to-dev ratio, if the team is building many complex features, writers may still struggle to keep up. Some thought that the ratio of writers to UX designers or product managers might match docs work generated more closely.
 
 There's further discussion on the right ratio in `this blog post <http://www.agiledocumentation.co.uk/2016/04/what-is-optimal-writerdeveloper-ratio.html>`__, and `this post on Medium <https://medium.com/ixda-berlin/staffing-ratios-finding-the-right-balance-between-pm-ux-and-engineering-in-your-team-12ada861a1d0>`__.
 
