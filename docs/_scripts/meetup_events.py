@@ -41,6 +41,11 @@ for meetup in meetups:
     for event in t.results:
 
         event_date= event['time']/1000.0
+
+        # Only show six months of events
+        if (event_date - time() > 15552000):
+            continue
+
         # convert UTC time to human-readable dates
         human_date = strftime("%B %d", localtime(event_date))
 
