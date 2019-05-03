@@ -52,11 +52,13 @@ clean:
 	rm -rf $(BUILDDIR)/*
 
 html:
+	cd _scripts && python3 meetup_events.py && cd ..
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/html
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 
 livehtml:
+	cd _scripts && python3 meetup_events.py && cd ..
 	sphinx-autobuild -p 8888  -z _data -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/html
 
 oldhtml:
