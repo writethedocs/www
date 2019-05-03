@@ -4,7 +4,8 @@ import io
 import meetup.api
 import collections
 
-from time import strftime, gmtime
+from time import strftime, gmtime, time, localtime
+from datetime import datetime
 
 from pprint import pprint
 
@@ -21,15 +22,10 @@ def load_meetups():
         meetup_urls.append(meetup['website'])
     return meetup_urls
 
-##############################################################
+# Expects $MEETUP_API_KEY to de defined as an environment variable
+
 meetups = load_meetups()
-
-# if we want to test output for only the ATX & Berlin meetups:
-# meetups = ["https://www.meetup.com/WriteTheDocs-ATX-Meetup/",
-#     "https://www.meetup.com/Write-The-Docs-Berlin/"]
-
 client = meetup.api.Client()
-##############################################################
 
 # get relevant data for meetups: name, time, url, venue
 
@@ -43,13 +39,12 @@ for meetup in meetups:
 
     for event in t.results:
 
+        event_date= event['time']/1000.0
         # convert UTC time to human-readable dates
-        # FIX: getting incorrect dates; possible time zone problem
-        event_date = strftime("%B %d", gmtime(event['time']))
-        event_name = event['name']
-        event_url = event['event_url']
+        human_date = strftime("%B %d", localtime(event_date))
 
         if 'venue' in event:
+            # Country seems not to work? Unsure why? FIXME
             # city = event['venue']['city']
             # country = event['localized_country_name']
             # event_venue = city + ', ' + country
@@ -58,26 +53,19 @@ for meetup in meetups:
             event_venue = event['group']['name'][15:]
 
         relevant_results[event_date] = {
-            'name': event_name,
-            'url': event_url,
-            'venue': event_venue
+            'name': event['name'],
+            'human_date': human_date,
+            'event_date': event_date,
+            'url': event['event_url'],
+            'venue': event_venue,
         }
 
-# FIX: sorting by alphabetical order, i.e., "April" -> "August"
-ordered_results = collections.OrderedDict(sorted(relevant_results.items()))
+# Newsletter format!
+# - 6 May - Denver, CO, USA - `WTD and STC Dine-Around <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/261045278/>`__
 
-pprint(ordered_results)
+for event in sorted(relevant_results):
+    #print(event, relevant_results[event])
+    print('- ' + relevant_results[event]['human_date'] + ' - ' + relevant_results[event]['venue']  + ' - `' +  \
+                 relevant_results[event]['name'] + ' <' + relevant_results[event]['url'] + '>`__')
 
-##################################################
-# pprint('##'+event['group']['name'])
-# pprint(event['name'])
-# pprint(event['event_url'])
-
-#  'time': 1522803600000,
-#  'updated': 1521572914000,
-#  'utc_offset': -25200000,
-
-# TODO:
-# x sort by time
-
-# - filter out events later than 2 months from now
+# TODO output an RST page with a cron job for the website
