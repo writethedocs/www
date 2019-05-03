@@ -18,6 +18,7 @@ def load_meetups():
     for yaml_file in glob.glob('../_data/meetups/*.yaml'):
         meetup = load_yaml(yaml_file)
         if not 'website' in meetup:
+            pprint(meetup)
             raise SphinxError('Meetup needs a website')
         meetup_urls.append(meetup['website'])
     return meetup_urls
