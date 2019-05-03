@@ -18,7 +18,7 @@
         <!-- Open Graph protocol -->
         <meta property="og:type" content="conference">
         <meta property="og:url" content="http://www.writethedocs.org">
-        <meta property="og:image" content="http://www.writethedocs.org/_static/img/stickers/sticker-wtd-colors.png">
+        <meta property="og:image" content="https://www.writethedocs.org/_static/img/stickers/sticker-wtd-colors.png">
         <!-- /Open Graph protocol -->
 
         <link rel="apple-touch-icon" sizes="57x57" href="{{ pathto('_static/favicon/apple-icon-57x57.png', 1) }}">
@@ -47,14 +47,14 @@
 
         <!-- things that change -->
         {% block meta %}
-        <meta property="og:site_name" content="Write the Docs {{ name }} {{ year }}">
+        <meta property="og:site_name" content="Write the Docs {% if cobrand is defined and cobrand %} + {{ cobrand.brand }} {% endif %} {{ name }} {{ year }}">
         <meta name="dc.language" content="en">
         <meta name="geo.placename" content="{{ city }}, {{ area }}">
         {% endblock %}
 
         <title>
         {% block full_title %}
-        {% if title %}{{ title }}{% endif %} - Write the Docs {{ name }} {{ year }}
+        {% if title %}{{ title }}{% endif %} - Write the Docs {% if cobrand is defined and cobrand %} + {{ cobrand.brand }} {% endif %}  {{ name }} {{ year }}
         {% endblock full_title %}
         </title>
 
@@ -70,7 +70,7 @@
     <div class="footer-head">
         <div class="uk-container">
         {% block footerhead %}
-                {% if flagticketsonsale or flagcfp or flagspeakersannounced %}
+                {% if flagticketsonsale or flagcfp or flagspeakersannounced and not flagvideos %}
                 <h3>Join us now!</h3>
                 {% endif %}
 
@@ -87,11 +87,25 @@
 
                 {% endif %}
 
-                {% if flagspeakersannounced %}
+                {% if flagspeakersannounced and not flagvideos %}
 
                 <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/speakers') }}">See the talks!</a>
 
                 {% endif %}
+
+                {% if flagwelcomewagon %}
+
+                <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/' + shortcode + '/' + year|string + '/welcome-wagon') }}">Prepare with the Welcome Wagon</a>
+
+                {% endif %}
+
+                {% if flagvideos %}
+
+                <a class="uk-button uk-button-default uk-text-center" href="https://slack.writethedocs.org">Join the WTD Slack!</a>
+
+                {% endif %}
+
+
         {% endblock %}
         </div>
     </div>
@@ -102,6 +116,7 @@
         <div class="uk-container">
         <h2 class="uk-first-column">Sponsors</h2>
             {% include "include/" + year|string  + "/" + shortcode + "-sponsors.html" %}
+            {% include "include/" + year|string  + "/" + shortcode + "-sponsors-media.html" ignore missing %}
             <div class="learn-more">
                 <a class="uk-align-right" href="/conf/{{ shortcode }}/{{ year }}/sponsors/prospectus/">Become a sponsor</a>
             </div>
@@ -109,7 +124,7 @@
     </div>
     {% endif %}
 
-    <footer>
+    <footer {% if cobrand is defined%}style="height: 500px;"{% endif %}>
         <div class="footer-padding"></div>
         <div class="uk-container">
             <div class="footer-content">
@@ -119,6 +134,10 @@
                             Write<br>
                             the<br>
                             Docs<br>
+                            {% if cobrand is defined and cobrand %}
+                            <em>+</em>
+                            {{ cobrand.brand_html }}
+                            {% endif %}
                             <em>{{ name }}</em>
                     {% endblock %}
                     </div>

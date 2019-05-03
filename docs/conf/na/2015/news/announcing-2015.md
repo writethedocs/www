@@ -4,7 +4,7 @@
 
 We are excited to announce the dates for the 2015 conference!
 
-* [Write the Docs North America](http://www.writethedocs.org/conf/na/2015/) will be in **Portland, Oregon on May 17-19, 2015.**
+* [Write the Docs North America](https://www.writethedocs.org/conf/na/2015/) will be in **Portland, Oregon on May 17-19, 2015.**
 * The conference will be held at the **Crystal Ballroom** in Downtown Portland.
 
 ### Conference

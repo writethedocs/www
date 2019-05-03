@@ -192,7 +192,7 @@ Conference Reception - Sunday evening
 Come early, get your badge and get to know other attendees.
 
 The reception is hosted by our friends at
-`Apiary <https://apiary.io/company#contact>`__ at their lovely new
+`Apiary <https://apiary.io/company>`__ at their lovely new
 office in `Praha 8 <https://goo.gl/maps/L7wCE>`__.
 
 The reception will start at **6 PM** and will include drinks and light
@@ -293,6 +293,6 @@ If you wish to receive more information as it becomes available, follow
 us on `Twitter <https://twitter.com/writethedocs>`_ or sign
 up for our mailing list:
 
-.. include:: /include/eu-mailchimp.rst
+{% include "eu-mailchimp.rst" %}
 
 You can also send us mail at prague@writethedocs.org.

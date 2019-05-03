@@ -18,6 +18,11 @@ Preferred seating will be provided for attendees who request it. Please contact 
 
 All transit in Portland announce stops verbally in English. Most buses have a visual display of upcoming stops.
 
+Service Animals
+***************
+
+Service Animals are welcome at our conference venue.
+
 Dietary requirements
 ********************
 
@@ -51,6 +56,6 @@ Thanks
 Thank you to `Djangocon US`_ for inspiration on this page.
 
 .. _Crystal Ballroom: http://www.mcmenamins.com/CrystalBallroom
-.. _middle of downtown: http://goo.gl/maps/D2WrJ
+.. _middle of downtown: https://goo.gl/maps/AwSBqVPtrDR2
 .. _email us: portland@writethedocs.org
 .. _Djangocon US: https://2015.djangocon.us/

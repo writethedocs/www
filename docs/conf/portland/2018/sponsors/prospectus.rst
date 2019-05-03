@@ -18,7 +18,7 @@ Sponsorship Prospectus
 Concept
 =======
 
-Write the Docs (http://www.writethedocs.org/) is a
+Write the Docs (https://www.writethedocs.org/) is a
 **three day conference** focusing on documentation systems, tech writing
 theory, and information delivery.
 
@@ -101,6 +101,8 @@ You can buy it directly on our ticket website.
 Second Draft
 ------------
 
+**One left**
+
 The **Second Draft** package is great for companies looking to hire or promote a product.
 
 - Two (2) tickets_
@@ -114,6 +116,8 @@ The **Second Draft** package costs **$1,500**.
 
 Publisher
 ---------
+
+**Sold out**
 
 The **Publisher** package is great for sending a team and getting to know the community.
 
@@ -190,7 +194,7 @@ and many of those people will come to our job fair to look for new roles and pos
 
 - **Layout**: Every company participating in the Job Fair will have a six-foot table and two chairs reserved for them. We do not use booths during the Job Fair. Giveaways/flyers are welcome, but please make sure everthing fits on your alloted table.
 
-Note that the :ref:`coc` and :ref:`coc-sponsors` apply to the Job Fair as well as to the rest of the conference.
+Note that the `Code of Conduct </code-of-conduct/>`_ and :ref:`coc-sponsors` apply to the Job Fair as well as to the rest of the conference.
 
 Lanyard
 -------

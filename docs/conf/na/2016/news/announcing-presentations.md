@@ -19,28 +19,28 @@ We’re all the people who care about making better docs.
 
 So here it is, the full list of presentations:
 
-* Panel: [Transforming your Documentation Process](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-panel)
-* Britta Gustafson - [A lot of regulations and a big pile of open source repositories? Why technical writing for the government is fun!](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-britta-gustafson)
-* Daniel Stevens - [Atlassian: My Information Experience Adventure](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-daniel-stevens)
-* Neal Kaplan - [Two great teams that work better together: Bridging the gap between Documentation and Customer Support](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-neal-kaplan)
-* Hannah Gilberg - [Documentation with Human Connection](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-hannah-gilberg)
-* Ruthie BenDor - [Move Fast And Document Things: Hard-won lessons in building documentation culture in startups.](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-ruthie-bendor)
-* Brianne Hillmer - [Just-In-Time Documentation: Employing Agile Methodology To Create Living Documentation](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-brianne-hillmer)
-* Joao Fernandes - [7 values of effective tech writing teams](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-joao-fernandes)
-* Betsy Roseberg - [CSAT- what's that?](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-betsy-roseberg)
-* Allison Reinheimer Moore - [So you need to document an API](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-allison-reinheimer-moore)
-* Christy Lutz - [We’re not in Kansas anymore: How to find courage while following the Technical Doc Road](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-christy-lutz)
-* Tana Franko - [Continuous Annoyment: Bringing More Zen to a Hectic Writing Environment](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-tana-franko)
-* Kristof Van Tomme - [Embed the docs!  ](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-kristof-van-tomme)
-* Tara Scherner de la Fuente - [Oops, I Became an Engineer](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-tara-scherner-de-la-fuente)
-* Tim Arnold - [Accessible Math on the Web: A Server/Client Solution](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-tim-arnold)
-* Sharon Campbell - [How to Publish Wild-Caught Articles](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-sharon-campbell)
-* Daniel Beck - [Write the Readable README](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-daniel-beck)
-* Tim Nugent & Paris Buttfield-Addison - [Code the Docs: Interactive Document Environments](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-tim-nugent)
-* Tracy Osborn - [Writing So Your Words Are Read](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-tracy-osborn)
-* Sarah Day - [Copy that: Helping your users succeed with effective product copy](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-sarah-day)
-* Shaun McCance - [Crossing the Streams: Enabling Collaboration Between Products and Upstreams ](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-shaun-mccance)
-* Thursday Bram - [What Writing Fiction Teaches You About Writing Documentation](http://www.writethedocs.org/conf/na/2016/speakers/#speaker-thursday-bram)
+* Panel: [Transforming your Documentation Process](https://www.writethedocs.org/conf/na/2016/speakers/)
+* Britta Gustafson - [A lot of regulations and a big pile of open source repositories? Why technical writing for the government is fun!](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-britta-gustafson)
+* Daniel Stevens - [Atlassian: My Information Experience Adventure](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-daniel-stevens)
+* Neal Kaplan - [Two great teams that work better together: Bridging the gap between Documentation and Customer Support](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-neal-kaplan)
+* Hannah Gilberg - [Documentation with Human Connection](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-hannah-gilberg)
+* Ruthie BenDor - [Move Fast And Document Things: Hard-won lessons in building documentation culture in startups.](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-ruthie-bendor)
+* Brianne Hillmer - [Just-In-Time Documentation: Employing Agile Methodology To Create Living Documentation](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-brianne-hillmer)
+* Joao Fernandes - [7 values of effective tech writing teams](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-joao-fernandes)
+* Betsy Roseberg - [CSAT- what's that?](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-betsy-roseberg)
+* Allison Reinheimer Moore - [So you need to document an API](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-allison-reinheimer-moore)
+* Christy Lutz - [We’re not in Kansas anymore: How to find courage while following the Technical Doc Road](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-christy-lutz)
+* Tana Franko - [Continuous Annoyment: Bringing More Zen to a Hectic Writing Environment](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-tana-franko)
+* Kristof Van Tomme - [Embed the docs!  ](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-kristof-van-tomme)
+* Tara Scherner de la Fuente - [Oops, I Became an Engineer](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-tara-scherner-de-la-fuente)
+* Tim Arnold - [Accessible Math on the Web: A Server/Client Solution](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-tim-arnold)
+* Sharon Campbell - [How to Publish Wild-Caught Articles](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-sharon-campbell)
+* Daniel Beck - [Write the Readable README](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-daniel-beck)
+* Tim Nugent & Paris Buttfield-Addison - [Code the Docs: Interactive Document Environments](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-tim-nugent)
+* Tracy Osborn - [Writing So Your Words Are Read](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-tracy-osborn)
+* Sarah Day - [Copy that: Helping your users succeed with effective product copy](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-sarah-day)
+* Shaun McCance - [Crossing the Streams: Enabling Collaboration Between Products and Upstreams ](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-shaun-mccance)
+* Thursday Bram - [What Writing Fiction Teaches You About Writing Documentation](https://www.writethedocs.org/conf/na/2016/speakers/#speaker-thursday-bram)
 
 You can also view the [full talk abstracts][talks] available on our website.
 
@@ -60,7 +60,7 @@ These talks break a few of the 30 minute slots into two 15-minute talks.
 They'll break up the pace of the day,
 and will let people get some new ideas across in an action packed format.
 
-[talks]: http://www.writethedocs.org/conf/na/2016/speakers/
+[talks]: https://www.writethedocs.org/conf/na/2016/speakers/
 
 ## Reminders and Resources
 

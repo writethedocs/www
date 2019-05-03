@@ -22,9 +22,9 @@ From the airport, it is an easy 30 minute taxi or shuttle bus ride (Airbus) to t
 **Trains**
 
 Melbourne is accessible by a direct train from Sydney (XPT train) `route 621
-<https://transportnsw.info/routes/details#/regional-trains/621/76621>`_ or
+<https://transportnsw.info/routes/details>`_ or
 `route 623
-<https://transportnsw.info/routes/details#/regional-trains/623/76623>`_. Bus and
+<https://transportnsw.info/routes/details>`_. Bus and
 coach services or train/bus transfers are available `from other cities
 <https://www.ptv.vic.gov.au/getting-around/interstate-travel/>`_.
 
@@ -34,8 +34,8 @@ You can get to Melbourne from Adelaide (`Firefly Express`_) or Canberra
 (`Murrays`_, `Greyhound`_) using the bus or coach services.
 
 .. _Firefly Express: https://www.fireflyexpress.com.au/FFNew/Index.asp
-.. _Murrays: https://www.murrays.com.au/ExpressBooking.aspx
-.. _Greyhound: https://www.greyhound.com.au/travel-info/popular-routes/melbourne-canberra
+.. _Murrays: https://www.murrays.com.au/express-services/
+.. _Greyhound: https://www.greyhound.com.au/
 
 Getting around Melbourne
 ------------------------

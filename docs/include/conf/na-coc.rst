@@ -7,17 +7,11 @@
 **Mikey Ariel**
 
 * prague@writethedocs.org
-* +420 603-261-361
+* +420-603-261-361
 * slack: thatdocslady
 
-**Sasha Romijn**
+**Becky Yoose**
 
-* wtd@mxsasha.eu
-* +31 85 303 1055
-* slack: sasha
-
-**Samuel Wright**
-
-* samuel@plaindocs.com
-* +49 15146749752
-* slack: plaindocs
+* b.yoose@gmail.com
+* +1-513-273-1182
+* slack: yo_bj

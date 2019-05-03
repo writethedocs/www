@@ -62,15 +62,15 @@ Below are some talks from past events that we feel really captured the
 spirit of Write the Docs:
 
 - Riona MacNamara --- IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty, and Surf the Upcoming Swerve in Technical Documentation
-  (`abstract <http://www.writethedocs.org/conf/eu/2015/speakers/#speaker-rmacnamara>`__)
+  (`abstract <https://www.writethedocs.org/conf/eu/2015/speakers/#speaker-rmacnamara>`__)
 - Emilie Boillat --- Whatchamacallit: Controlled Vocabularies for Technical Writers
-  (`abstract <http://www.writethedocs.org/conf/eu/2015/speakers/#speaker-eboillat>`__)
+  (`abstract <https://www.writethedocs.org/conf/eu/2015/speakers/#speaker-eboillat>`__)
 - Jamie Hannaford --- Generating docs from APIs
-  (`abstract <http://www.writethedocs.org/conf/eu/2015/speakers/#speaker-jhannaford>`__)
+  (`abstract <https://www.writethedocs.org/conf/eu/2015/speakers/#speaker-jhannaford>`__)
 - Beth Aitman  Before the docs: writing for user interfaces
-  (`abstract <http://www.writethedocs.org/conf/eu/2015/speakers/#speaker-baitman>`__)
+  (`abstract <https://www.writethedocs.org/conf/eu/2015/speakers/#speaker-baitman>`__)
 - Diana Potter --- Screencasting 101
-  (`abstract <http://www.writethedocs.org/conf/eu/2015/speakers/#speaker-dpotter>`__)
+  (`abstract <https://www.writethedocs.org/conf/eu/2015/speakers/#speaker-dpotter>`__)
 
 
 Presentation Format

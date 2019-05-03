@@ -2,4 +2,11 @@ region: North America
 country: USA
 state: California
 city: San Francisco
-website: https://www.meetup.com/Write-the-Docs/
+page: ./sf-bay/
+website: https://www.meetup.com/Write-the-Docs-SF/
+meetup: Write-the-Docs
+organizers:
+  - name: Monique Semp
+    link: https://twitter.com/MoniqueSemp
+  - name: Ilona Koren-Deutsch
+    link: https://www.instagram.com/instilona/

@@ -13,7 +13,17 @@
         <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18px">
             <div class="uk-navbar-left">
                 <div class="header-logo uk-visible@s">
-                    <a href="{{ pathto('conf/' + shortcode + '/2018') }}">write<br/> the<br/> docs<br/> <em>{{ shortcode }}</em></a>
+                    <a href="{{ pathto('conf/' + shortcode + '/2018') }}">
+                        Write<br>
+                        the<br>
+                        Docs<br>
+                        {% if cobrand is defined and cobrand %}
+                        <em>+</em>
+                        {{ cobrand.brand_html }}
+                        <br>
+                        {% endif %}
+                        <em>{{ name }}</em>
+                    </a>
                 </div>
             </div>
             <div class="uk-navbar-right">
@@ -24,12 +34,20 @@
                                     Write<br>
                                     the<br>
                                     Docs<br>
+                                    {% if cobrand is defined and cobrand %}
+                                    <em>+</em>
+                                    {{ cobrand.brand_html }}
+                                    {% endif %}
                                     <em>{{ name }}</em>
                                 </div>
+                              {% if not flaglanding %}
                              {% include "2018/" + templatecode + "/menu-mobile.html" %}
+                             {% endif %}
                     </div>
                 </div>
+             {% if not flaglanding %}
              {% include "2018/" + templatecode + "/menu-desktop.html" %}
+             {% endif %}
             </div>
         </nav>
 
@@ -37,13 +55,20 @@
     <div class="mobile-post-header uk-hidden@s">
         <div class="header-logo">
                 <a href="{{ pathto('conf/' + shortcode + '/2018') }}">
-                    write<br/> the<br/> docs<br/> <em>{{ shortcode }}</em>
+                    Write<br>
+                    the<br>
+                    Docs<br>
+                    {% if cobrand is defined and cobrand %}
+                    <em>+</em>
+                    {{ cobrand.brand_html }}
+                    {% endif %}
+                    <em>{{ name }}</em>
                 </a>
         </div>
     </div><!-- end post header -->
 
     {% if 'banner' not in meta %}
-    <div class="page-banner" style="background-image: url({{ pathto('_static/2018/assets/headers/prague-group.png', 1) }});">
+    <div class="page-banner" style="background-image: url({{ pathto(photos['default'], 1) }});">
     {% else %}
     <div class="page-banner" style="background-image: url({{ pathto(meta['banner'], 1) }});">
     {% endif %}

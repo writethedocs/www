@@ -78,5 +78,5 @@ There was also an entertaining discussion of how the "everyone knows THAT" persp
 
 For any of you who might have your eyes set on this year's [Linux.Conf.Au](https://linux.conf.au), there will be a one-day miniconf called 'Doc Down Under' the day before LCA kicks off. Their call for proposals is open right now and is very relevant to Write the Docs' interests. So if you've been looking for an excuse to visit Hobart, Tasmania in January, go [check out their CFP](https://linux.conf.au/schedule/presentation/3/)!
 
-Although our next Write the Docs conference doesn't come around 'til the spring, you can always check to see if there's a [Write the Docs meetup](http://www.writethedocs.org/meetups/) near you! (And if there's not, [think about starting one up](https://www.youtube.com/watch?v=ZwQ8Kd48d0w)!)
+Although our next Write the Docs conference doesn't come around 'til the spring, you can always check to see if there's a [Write the Docs meetup](https://www.writethedocs.org/meetups/) near you! (And if there's not, [think about starting one up](https://www.youtube.com/watch?v=ZwQ8Kd48d0w)!)
 

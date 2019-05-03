@@ -8,7 +8,7 @@ Write the Docs 2018 Kick-Off
 Greetings, global documentarians!
 
 Mikey here, writing from the deep, dark cold European winter, but looking forward to spring and summer, full of sunshine and docs!
-Following Eric's winter-warming `2017 Stats <http://www.writethedocs.org/blog/write-the-docs-2017-stats/>`_ post, I'd like to highlight some of the activities, changes, and experiments that you can expect in 2018.
+Following Eric's winter-warming `2017 Stats <https://www.writethedocs.org/blog/write-the-docs-2017-stats/>`_ post, I'd like to highlight some of the activities, changes, and experiments that you can expect in 2018.
 
 These efforts are part of our work to support and grow the community, and to keep things fresh and exciting for documentarians.
 We hope you'll enjoy the new things we're trying.

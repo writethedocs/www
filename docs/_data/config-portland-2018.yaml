@@ -10,6 +10,9 @@ area_adj: North American
 tz: PST
 email: portland@writethedocs.org
 
+photos:
+  default: _static/2018/assets/headers/group.png
+
 tickets:
   community:
     price: $750
@@ -19,8 +22,6 @@ tickets:
     price: $250
   student:
     price: $100
-
-cobrand: False
 
 date: # how do we handle these? human readable would be nice.
   main: "**May 6-8, 2018, in Portland, Oregon**"
@@ -45,6 +46,7 @@ date: # how do we handle these? human readable would be nice.
     icon: conference
 
 about:
+  attendees: 450
   summary:
     "The main presentation track takes place from **May 7-8 (Monday and Tuesday) from 9am to 6pm**.
     We will return to the historic `Crystal Ballroom <http://www.mcmenamins.com/CrystalBallroom>`_, `centrally located <http://goo.gl/maps/D2WrJ>`_ in the heart of Portland.
@@ -69,3 +71,5 @@ flaghasboat: False
 flaghasshirts: True
 flaglanding: False
 flaghassponsors: True
+flagvideos: True
+flaglivestreaming: False

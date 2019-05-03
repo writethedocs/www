@@ -51,7 +51,7 @@
                           Morning
                         </p>
                         <p class="schedule-home__desc">
-                          Join us for a <a href="/conf/au/2017/schedule/#morning">writing sprint</a>, either on an open source project or bring your own!
+                          Join us for a <a href="/conf/au/2017/schedule/#morning-writing-half-day">writing sprint</a>, either on an open source project or bring your own!
                         </p>
                       </div>
                     </div>
@@ -64,7 +64,7 @@
                           Afternoon
                         </p>
                         <p class="schedule-home__desc">
-                         The main <a href="/conf/au/2017/schedule/#afternoon">talk track</a>: five short talks about documentation.
+                         The main <a href="/conf/au/2017/schedule/#afternoon-talks">talk track</a>: five short talks about documentation.
                         </p>
                       </div>
                     </div>
@@ -77,7 +77,7 @@
                           Evening
                         </p>
                         <p class="schedule-home__desc">
-                          Join other documentarians for a chat about the weather over drinks and dinner at The Boatbuilders Yard. Partners welcome. Details <a href="/conf/au/2017/schedule/#evening">here</a>.
+                          Join other documentarians for a chat about the weather over drinks and dinner at The Boatbuilders Yard. Partners welcome. Details <a href="/conf/au/2017/schedule/#evening-drinks-and-dinner">here</a>.
                         </p>
                       </div>
                     </div>
@@ -171,7 +171,7 @@
                   </div>
                 </div>
 
-.. include:: /include/conf/2017-au-sponsors.rst
+{% include "conf/2017-au-sponsors.rst" %}
 
 .. raw:: html
 
@@ -190,7 +190,7 @@
                   </div>
                 </div>
 
-.. include:: /include/conf/2017-au-sponsors-in-kind.rst
+{% include "conf/2017-au-sponsors-in-kind.rst" %}
 
 .. raw:: html
 
@@ -209,7 +209,7 @@
                   </div>
                 </div>
 
-.. .. include:: /include/conf/2017-au-sponsors-media.rst
+.. {% include "conf/2017-au-sponsors-media.rst" %}
 
 .. raw:: html
 

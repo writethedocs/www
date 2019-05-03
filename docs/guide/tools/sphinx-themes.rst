@@ -54,7 +54,7 @@ or just wants a simple good looking theme.
 Guzzle Theme
 ------------
 
-Originally build for Guzzle (PHP HTTP client), this theme is another
+Originally built for Guzzle (PHP HTTP client), this theme is another
 mobile friendly alternative with nice colors.
 
 * https://github.com/guzzle/guzzle_sphinx_theme

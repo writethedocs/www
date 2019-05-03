@@ -4,9 +4,9 @@
 Job Fair
 ========
 
-.. include:: /include/conf/events/job-fair.rst
+{% include "conf/events/job-fair.rst" %}
 
 Schedule
 --------
 
-Scheduling information is available on our :doc:`conf/{{shortcode}}/{{year}}/schedule` page.
+Scheduling information is available on our :doc:`/conf/{{shortcode}}/{{year}}/schedule` page.

@@ -13,9 +13,9 @@ haven't already. **We expect them to sell out by next week!**
 
 If you miss this year's conference in Portland, don't fret. We've just [announced][eu-announce]
 our [European conference][eu-conf], taking place this year in Prague from August 31st to
-September 1st! 
+September 1st!
 
-[eu-announce]: http://www.writethedocs.org/conf/eu/2015/news/announcing-eu-2015/
+[eu-announce]: https://www.writethedocs.org/conf/eu/2015/news/announcing-eu-2015/
 [eu-conf]: http://writethedocs.org/conf/eu/2015/
 
 We're putting the finishing touches on the conference,
@@ -26,7 +26,7 @@ because they are some of our favorite parts of the conference.
 Saturday - Annual Hike
 ----------------------
 
-If you are in town Saturday afternoon, please join us for 
+If you are in town Saturday afternoon, please join us for
 our [annual hike to Pittock Mansion][hike]. We've had rain every year, but
 we're optimistic that we'll see some sun this year!
 
@@ -55,7 +55,7 @@ Sprint projects include
 Mozilla's [MDN][mdn] and Write the Docs's [resources for
 documentarians][wtd-resources]. [OpenNews][opennews] will also join us to
 bring open source to journalism. You are welcome to bring your own project
-to work on. Let us know and we will add it to the list on our website, 
+to work on. Let us know and we will add it to the list on our website,
 so people will know it's an option.
 
 We encourage everyone to drop by on Sunday evening for our conference reception.
@@ -67,7 +67,7 @@ your conversations over more substantial food.
 [centrl-map]: https://goo.gl/maps/xljmU
 [sprints]: http://en.wikipedia.org/wiki/Sprint_%28software_development%29
 
-[mdn]: http://mdn.mozilla.org
+[mdn]: https://developer.mozilla.org/en-US/
 [wordpress]: http://wordpress.org
 [wtd-resources]: http://docs.writethedocs.org/
 [opennews]: http://opennews.org/
@@ -79,16 +79,15 @@ We've released the breakdown of [our daily schedule][schedule], and will
 release the full talk schedule soon. The doors
 open at 8am on both days, so that you can get there early, get yourself settled,
 and grab some breakfast. The introduction begins at 9:00am. Talks
-run all day, until shortly after 5pm. 
+run all day, until shortly after 5pm.
 
 We'll hold an unconference downstairs in Lola's Room again this year, again on
 both days. The unconference begins shortly after lunch,
 and will continue until the end of the day. Sessions begin with a
 couple of topics to get you started, followed by time for unstructured topics.
-If you are interested in leading a session, [read more about our unconference][unconference] .
+If you are interested in leading a session, read more about our unconference].
 
 [schedule]: /conf/na/2015/schedule/
-[unconference]: /conf/na/2015/unconference/
 
 Sponsors
 --------

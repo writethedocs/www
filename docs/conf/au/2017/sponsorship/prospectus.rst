@@ -15,7 +15,7 @@ Write the Docs Day Australia 2017 Sponsorship
 Concept
 =======
 
-Write the Docs Day Australia (http://www.writethedocs.org/conf/au/2017/) is a
+Write the Docs Day Australia (https://www.writethedocs.org/conf/au/2017/) is a
 one-day event focusing on documentation systems, tech writing theory,
 and information delivery.
 

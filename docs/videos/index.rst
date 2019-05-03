@@ -8,3 +8,5 @@ Video Archive
    au/*/index
    eu/*/index
    na/*/index
+   portland/*/index
+   prague/*/index

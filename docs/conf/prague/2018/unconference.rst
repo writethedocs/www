@@ -4,9 +4,9 @@
 Unconference
 ============
 
-.. include:: /include/conf/events/unconference.rst
+{% include "conf/events/unconference.rst" %}
 
 Schedule
 --------
 
-Unconference sessions will begin after lunch on Monday, and run throughout Monday afternoon. Tuesday it will start after the job fair and run all day.
+Unconference sessions run all day on Monday, and also in the afternoon on Tuesday after the Job Fair.

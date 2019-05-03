@@ -58,7 +58,7 @@ We want to:
 
 .. vale on
 
-* Create an open platform for community members to consume and contribute to our content. Our website infrastructure as well as our brand resources are open to everyone to use to spread the word, as long as you follow our :doc`brand-guidelines`. Anyone can start :doc:`meetups/index`, and we provide support for local communities.
+* Create an open platform for community members to consume and contribute to our content. Our website infrastructure as well as our brand resources are open to everyone to use to spread the word, as long as you follow our :doc:`style-guide`. Anyone can start :doc:`meetups/index`, and we provide support for local communities.
 
 * Maintain an open and flexible organization. Our :doc:`team` structure is transparent and aims to clearly define the various roles and responsibilities that we fulfill for the community, and anyone is welcome to join any of our teams to help out. We actively seek to improve our communication methods so that the community stays up-to-date with what we're working on.
 

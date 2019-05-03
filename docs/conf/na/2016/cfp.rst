@@ -62,16 +62,16 @@ Below are some talks from past events that we feel really captured the
 spirit of Write the Docs:
 
 -  Daniya Kamran --- Translating Science into Poetry
-   (`abstract <http://docs.writethedocs.org/conference/talks/#daniya-kamran-translating-science-into-poetry>`__)
+   (`video <https://www.youtube.com/watch?v=QG8LUR-IIWY>`__)
 -  Kevin Hale --- Getting Developers and Engineers to Write the Docs
-   (`abstract <http://docs.writethedocs.org/conference/talks/#kevin-hale-getting-developers-and-engineers-to-write-the-docs>`__)
+   (`video <https://www.youtube.com/watch?v=mBRCq-AvYmU>`__)
 -  Matthew Butterick --- Typography for Docs
-   (`abstract <http://docs.writethedocs.org/conference/talks/#matthew-butterick-typography-for-docs>`__)
+   (`video <https://www.youtube.com/watch?v=8J6HuvosP0s>`__)
 -  Kenneth Reitz --- Documentation at Scale
-   (`abstract <http://docs.writethedocs.org/2014/na/talks/#kenneth-reitz-documentation-at-scale>`__)
+   (`video <https://www.youtube.com/watch?v=zhZOGST52ds>`__)
 -  Heidi Waterhouse --- The New Sheriff in Town: Bringing documentation
    out of chaos
-   (`abstract <http://docs.writethedocs.org/2014/na/talks/#heidi-waterhouse-the-new-sheriff-in-town-bringing-documentation-out-of-chaos>`__)
+   (`video <https://www.youtube.com/watch?v=9ivvCXGBD90>`__)
 
 PRESENTATION FORMAT
 -------------------

@@ -1,0 +1,92 @@
+name: str()
+shortcode: str()
+templatecode: str()
+year: int()
+city: str()
+local_area: str()
+area: str()
+area_adj: str()
+tz: str()
+email: str()
+
+photos: include('photo-default')
+
+tickets: include('ticket-details')
+
+sponsorship: include('sponsorship-details', required=False)
+
+date: include('date-details')
+
+about: include('about-details')
+
+cfp: include('cfp-details')
+
+job_fair: include('job-fair-details', required=False)
+
+flaghassponsors: bool()
+flagcfp: bool()
+flagticketsonsale: bool()
+flagspeakersannounced: bool()
+
+flaghashike: bool()
+flaghasboat: bool()
+flaglanding: bool()
+
+---
+
+photo-default:
+  default: str()
+
+ticket-details:
+  community: include('price-type', required=False)
+  corporate: include('price-type')
+  independent: include('price-type')
+  student: include('price-type')
+
+price-type:
+  price: str()
+  url: str(required=False)
+
+price2:
+  price: str(required=False)
+
+date-details:
+  main: str()
+  short: str()
+  tickets_live: str()
+  month: str()
+  day_one: include('day-details', required=False)
+  day_two: include('day-details', required=False)
+  day_three: include('day-details', required=False)
+  day_four: include('day-details', required=False)
+
+day-details:
+  event: str(required=False)
+  date: str()
+  summary: str(required=False)
+  icon: str(required=False)
+
+sponsorship-details:
+  first_draft: include('price2', required=False)
+  second_draft: include('price2', required=False)
+  publisher: include('price2', required=False)
+  patron: include('price2', required=False)
+  keystone: include('price2', required=False)
+  job_fair: include('price2', required=False)
+  lanyard: include('price2', required=False)
+  writing_day: include('price2', required=False)
+
+about-details:
+  summary: str(required=False)
+  venue: str(required=False)
+  attendees: any(int(), str())
+  mainroom: str(required=False)
+  unconfroom: str(required=False)
+
+cfp-details:
+  url: str(required=False)
+  ends: str(required=False)
+  notification: str(required=False)
+
+job-fair-details:
+  location: str(required=False)

@@ -10,7 +10,7 @@ Hi y'all,
 
 Kelly O. here, wishing you a very happy middle of the week! We had what I hope were the last throes of London winter last week, and I'm starting to get stoked for proper springtime. Not just because it means warmer temperatures for me, but also because it means Write the Docs Portland is getting closer and closer!
 
-Look out for the full conference schedule to go live here soon, and make sure you pop over and `get your tickets <http://www.writethedocs.org/conf/portland/2018/tickets/>`_, as we'll likely sell out a few weeks before the event.
+Look out for the full conference schedule to go live here soon, and make sure you pop over and `get your tickets <https://www.writethedocs.org/conf/portland/2018/tickets/>`_, as we'll likely sell out a few weeks before the event.
 
 Here in the newsletter we've got a few good highlights from the last month of Slack conversations, our usual listing of Meetups happening this month, and also something new! We've recently launched the `Write the Docs Job Board <https://jobs.writethedocs.org/>`_. Any featured job listings on the board will also be included in one issue of the newsletter, as you'll see below. If your company is looking to fill a docs-related role, `register on the job board <https://jobs.writethedocs.org/>`_ and get the listing in front of the whole Write the Docs community!
 

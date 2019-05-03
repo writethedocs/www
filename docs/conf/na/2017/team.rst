@@ -13,32 +13,32 @@ Folks
 Eric Holscher
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/eric.rst
+{% include "bios/eric.rst" %}
 
 Kelly O'Brien
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/kelly.rst
+{% include "bios/kelly.rst" %}
 
 Mikey Ariel
 ~~~~~~~~~~~
 
-.. include:: /include/bios/mikey.rst
+{% include "bios/mikey.rst" %}
 
 Samuel Wright
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/sam.rst
+{% include "bios/sam.rst" %}
 
 Becky Yoose
 ~~~~~~~~~~~
 
-.. include:: /include/bios/becky.rst
+{% include "bios/becky.rst" %}
 
 Rose Williams
 ~~~~~~~~~~~~~
 
-.. include:: /include/bios/rose.rst
+{% include "bios/rose.rst" %}
 
 Primary Roles
 -------------
