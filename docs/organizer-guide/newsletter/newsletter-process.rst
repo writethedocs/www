@@ -41,7 +41,7 @@ Next comes the stories. They should be edited for length and clarity and tone, a
 
 Finally, the upcoming events sections covers any upcmoing community events or conferences, and then lists out any meetups that are scheduled for the next month. It's important to include any meetups that happen in the first week or so of the following month, since the newsletter doesn't usually go out right on the first.
 
-Gathering the meetup dates is done (for now – we're working on a better process) by going to Meetup.com and searching for "Write the Docs", selecting 'Any Distance' next to your location, and selecting 'All Meetups' from the filters in the sidebar. Then go through the list and copy out the date, location, and title for the meetup, and link it to the specific event page.
+Get a list of current meetup events from http://www.writethedocs.org/meetups/events .
 
 When the content for the newsletter is all in place, upload the file to a new branch on GitHub in ``www/docs/blog``. Create a pull request and share in the #newsletter channel for review.
 
