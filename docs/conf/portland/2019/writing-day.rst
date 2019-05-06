@@ -6,8 +6,6 @@ Writing Day
 
 {% include "conf/events/writing-day.rst" %}
 
-
-
 Schedule
 --------
 
@@ -23,7 +21,12 @@ Projects
    :depth: 1
    :backlinks: none
 
-TBD
+Make Microsoft Docs More Inclusive
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Make our Microsoft Docs more inclusive; focusing on underrepresented groups and gender neutrality.
+
+* People to contact: Cory Fowler and Doug Erickson
 
 Your project here
 ~~~~~~~~~~~~~~~~~
