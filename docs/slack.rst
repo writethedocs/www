@@ -105,7 +105,7 @@ If you see people not following our etiquette guidelines,
 you have two options:
 
 * Message them privately, and explain why what they said might have been hurtful to someone, referring to this guide.
-* Ask a :ref:`moderation-team` member address the situation, include a link to the conversation if possible.
+* Ask a :ref:`moderation-team` member to address the situation, include a link to the conversation if possible.
 
 Credit
 ~~~~~~
