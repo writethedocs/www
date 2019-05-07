@@ -1,0 +1,12 @@
+region: Europe
+country: France
+city: Paris
+website: https://www.meetup.com/Write-the-Docs-Paris/
+meetup: Write-the-Docs-Paris
+organizers:
+  - name: Bastien Guerry
+    link: https://bzg.fr
+  - name: Elifsu Sabuncu
+    link: http://penserclasser.fr
+  - name: Thomas Parisot
+    link: https://oncletom.io

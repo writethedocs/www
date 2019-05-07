@@ -8,7 +8,7 @@ Hello!
 
 We're your Welcome Wagon, and we're glad you're coming to Write the Docs!
 Feel free to `tweet <https://twitter.com/canncrochet>`_ or `email <mailto:canncrochet@gmail.com>`_ us if we can help make your first time at the conference easier.
-When you get to the conference, come :ref:`say hello <say-hello>`.
+When you get to the conference, come :ref:`say hello <say-hello-2019>`.
 
 We've gathered important stuff here that will help you navigate the conference like a pro, make you feel more at home, and help you to manage the constant flow of information.
 The Welcome Wagon events warm up new attendees and connect them with people, both veterans and other first-timers.
@@ -19,7 +19,7 @@ Welcome Wagon events
 
 **Write the Docs Welcome Wagon Introduction**
 
-*Sunday at 5:00pm in Lola’s Room*
+*Sunday at 5:00pm in the Crystal Ballroom*
 
 Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We’ll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new, before we join the opening reception.
 
@@ -105,6 +105,14 @@ What should I do during the talks?
 -  If you have a question during a talk, make a note of it and use it as a conversation starter with the speaker.
 -  After a talk, feel free to tweet about it with the hashtag #writethedocs. Try not to "watch" the conference through Twitter and other social media, though. You are attending the conference, so live in it as much as you can!
 
+How do I take part in the Writing Day?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:doc:`/conf/portland/2019/writing-day/` takes place in the conference venue on Sunday, the day before the conference starts. You can show up any time between 9am and 5pm. There are lots of ways to contribute, and here are the most common:
+
+-  Bring a writing project that you want to work on. If you want help with your project, `add it to the list <https://www.writethedocs.org/conf/portland/2019/writing-day/#your-project-here>`_ before or during Writing Day. Be sure to include how to reach out to you. Here's the `2018 Writing Day Project list that you can use as a guide <http://www.writethedocs.org/conf/portland/2018/writing-day/>`_.
+-  Help someone else with their writing project. `Check out the list <https://www.writethedocs.org/conf/portland/2019/writing-day/#your-project-here>`_ and connect with the project organizer, before or during Writing Day.
+
 How do I take part in the unconference?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -168,13 +176,36 @@ Come find us and ask any questions, or just chat about the conference!
 
 .. container:: crew-images
 
-   .. container:: col-sm-offset-2
+   .. container:: crew-image
 
       .. figure:: /_static/img/crew/christy.jpg
-         :height: 250px
-         :width: 250px
+         :width: 100px
 
          Christy
+   .. container:: crew-image
+
+      .. figure:: /_static/img/crew/Mo.jpg
+         :width: 100px
+
+         Mo
+   .. container:: crew-image
+
+      .. figure:: /_static/img/crew/Tana.jpg
+         :width: 100px
+
+         Tana
+   .. container:: crew-image
+
+      .. figure:: /_static/img/crew/Alicia.jpg
+         :width: 100px
+
+         Alicia
+   .. container:: crew-image
+
+      .. figure:: /_static/img/crew/David.jpg
+         :width: 100px
+
+         David   
 
 
 Thanks

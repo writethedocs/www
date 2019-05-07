@@ -263,6 +263,10 @@ body .page-content {
 			.item-speaker-picture {
 				display: none;
 			}
+
+			.item-content {
+				max-width: 350px;
+			}
 		}
 	}
 
@@ -648,6 +652,13 @@ body .uk-offcanvas-slide a.uk-button-ghost {
 		}
 
 	}
+}
+
+.sponsors-footer {
+	padding: 48px 24px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 }
 
 .sponsors {
@@ -1333,3 +1344,14 @@ body .uk-navbar-dropdown-nav>li>a:focus, body .uk-navbar-dropdown-nav>li>a:hover
 @mixin hook-card() { color: #000; }
 
 @import "uikit-theme.scss";
+
+
+.crew-images {
+	float: left;
+	width: 100%;
+}
+
+.crew-image {
+	float: left;
+	margin-right: 15px;
+}
