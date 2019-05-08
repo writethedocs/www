@@ -207,7 +207,6 @@ Improving your docs
 -------------------
 
 - `Collecting and acting on user feedback </blog/newsletter-may-2019/#collecting-and-acting-on-user-feedback>`_
-
 - `Objectives and key results (OKRs) for documentation </blog/newsletter-march-2019/#objectives-and-key-results-okrs-for-documentation>`_
 - `Discovering user needs </blog/newsletter-december-2018/#discovering-user-needs>`_
 - `Gathering user feedback </blog/newsletter-november-2018/#getting-feedback-from-users>`_
