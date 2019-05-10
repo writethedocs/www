@@ -25,7 +25,7 @@ We are not working with any of the hotels for attendee accommodations, but there
 - `Crystal Hotel <http://www.mcmenamins.com/CrystalHotel>`__
 - `Ace Hotel <http://www.acehotel.com/portland>`__
 - `Hotel DeLuxe <http://www.hoteldeluxeportland.com/>`__
--_`Dossier Hotel <https://dossierhotel.com>`__
+- `Dossier Hotel <https://dossierhotel.com>`__
 - `Mark Spencer <http://www.markspencer.com/>`__
 - `The Sentinel <http://www.sentinelhotel.com/>`__
 - `The Society Hotel <https://thesocietyhotel.com>`__
