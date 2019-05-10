@@ -48,11 +48,3 @@
     twitter: chrischinch
     website: chrischinchilla.com
   title: Decentralised Documentation - Defining standards for an ecosystem
-- abstract: "Web Accessibility is a team effort, but too often it is just viewed as a technical requirement relying only on the engineering team.\nUnfortunately, you cannot deliver an accessible experience if the design and the project itself was not prepared for it.\nIn my last projects, I tried to use Web accessibility as a bridge between design & development and it worked.\nNew workflows, new deliverables, new rituals: focusing on making an accessible platform allowed my teams to abolish every wall between each specialties.\nLet’s discuss together how we were able to do it and how we documented accessibility and shared accountability between PO, designers and engineers."
-  slug: using-accessibility-as-a-bridge-between-design-development-damien-senger
-  speakers:
-  - name: Damien Senger
-    slug: damien-senger
-    twitter: https://twitter.com/iamhiwelo
-    website: https://raccoon.studio
-  title: Using accessibility as a bridge between design & development
