@@ -9,7 +9,7 @@
   Session: Switch Speakers
   Time: '9:30'
 - Duration: '0'
-  Session: "**Job Fair Starts (Lola's Room)**"
+  Session: "<b>Job Fair Starts (Lola's Room)</b>"
   Time: '9:40'
 - Duration: '30'
   Session: 'Sarah Moir - Just Add Data: Make it easier to prioritize your documentation'
@@ -40,7 +40,7 @@
   Session: Lunch (75 mins)
   Time: '12:05'
 - Duration: '0'
-  Session: "**Unconference Starts (Lola's Room)**"
+  Session: "<b>Unconference Starts (Lola's Room)</b>"
   Time: '1:20'
 - Duration: '30'
   Session: Lightning Talks
