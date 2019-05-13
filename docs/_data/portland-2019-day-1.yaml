@@ -77,3 +77,9 @@
 - Duration: '0'
   Session: Day 1 wraps up
   Time: '5:00'
+- Duration: '0'
+  Session: '<b>Social Event</b>'
+  Time: '7:00'
+- Duration: '0'
+  Session: '<b>Social Event Ends</b>'
+  Time: '10:00'
