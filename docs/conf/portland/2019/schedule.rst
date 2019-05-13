@@ -156,7 +156,7 @@ We'll be holding a job fair on Tuesday morning.
 Many of our sponsors will have booths where you can learn more about the jobs they have available.
 
 * **Where**: Lola's room (downstairs at the Crystal Ballroom)
-* **When**: **9:30am-11:40am**
+* **When**: **9:40am-11:40am**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
 
 Unconference
