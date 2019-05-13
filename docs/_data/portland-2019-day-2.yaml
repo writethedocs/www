@@ -10,7 +10,6 @@
   Time: '9:30'
 - Duration: '0'
   Session: "**Job Fair Starts (Lola's Room)**"
-  Slug: job-fair
   Time: '9:40'
 - Duration: '30'
   Session: 'Sarah Moir - Just Add Data: Make it easier to prioritize your documentation'
@@ -42,7 +41,6 @@
   Time: '12:05'
 - Duration: '0'
   Session: "**Unconference Starts (Lola's Room)**"
-  Slug: tuesday-unconference
   Time: '1:20'
 - Duration: '30'
   Session: Lightning Talks
