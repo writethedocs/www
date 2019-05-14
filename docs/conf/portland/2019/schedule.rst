@@ -50,6 +50,9 @@ This is the time where you can introduce the projects you will be working on to 
 
 {% if flaghasschedule %}
 
+Sunday Schedule
+~~~~~~~~~~~~~~~
+
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-writing-day.yaml
    :template: include/schedule{{year}}.rst
@@ -91,7 +94,6 @@ Come on a short tour of the venue with a veteran Write the Docs attendee so youâ
 * **When**: **8:15am-9:00am**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/welcome-wagon`
 
-
 Unconference
 ~~~~~~~~~~~~
 
@@ -118,6 +120,9 @@ The "main event" -- we'll have a variety of speakers on the stage sharing their 
 .. separator to fix list formatting
 
 {% if flaghasschedule %}
+
+Monday Schedule
+~~~~~~~~~~~~~~~
 
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-day-1.yaml
@@ -156,7 +161,7 @@ We'll be holding a job fair on Tuesday morning.
 Many of our sponsors will have booths where you can learn more about the jobs they have available.
 
 * **Where**: Lola's room (downstairs at the Crystal Ballroom)
-* **When**: **9:30am-11:40am**
+* **When**: **9:40am-11:40am**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
 
 Unconference
@@ -182,6 +187,9 @@ Conference Talks
 .. separator to fix list formatting
 
 {% if flaghasschedule %}
+
+Tuesday Schedule
+~~~~~~~~~~~~~~~~
 
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-day-2.yaml
