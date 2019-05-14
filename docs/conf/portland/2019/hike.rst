@@ -12,7 +12,7 @@ It's rained on us the past, but we have faith it will be beautiful this year! We
 Logistics
 ---------
 
-**NOTE**: This hike has been modified this year because of construction on the Wildwood trail. Instead of ending at the Zoo, we are doing an "out and back" hike to Pittock Mansion, which will start and end at the same location.
+**WARNING: This hike has been modified this year because of construction on the Wildwood trail. Instead of ending at the Zoo, we are doing an "out and back" hike to Pittock Mansion, which will start and end at the same location.**
 
 **You can get your hike ticket here**: https://ti.to/writethedocs/write-the-docs-portland-2019/with/dn2-wy5dqta
 
