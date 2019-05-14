@@ -233,8 +233,8 @@ Sponsorship spaces
 
 A quick overview of the spaces in the venue that are important:
 
-* The *main ballroom* is where talks and most sponsorship activity happens. We will have booths & swag tables set up at the back of the main ballroom. Here is a `picture <https://www.flickr.com/photos/writethedocs/34495135662>`_ before the attendees showed up.
-* *Lola's Room* is downstairs from the main ballroom. This is where the Unconference & Job Fair will happen. Another `picture <https://www.flickr.com/photos/writethedocs/34536045142/in/album-72157683817839465/>`_ shows the idea.
+* The *main ballroom* is where talks and most sponsorship activity happens. We will have booths & swag tables set up at the back of the main ballroom. Here is a `picture <https://www.flickr.com/photos/writethedocs/34495135662>`__ before the attendees showed up.
+* *Lola's Room* is downstairs from the main ballroom. This is where the Unconference & Job Fair will happen. Another `picture <https://www.flickr.com/photos/writethedocs/34536045142/in/album-72157683817839465/>`__ shows the idea.
 
 Sponsorship events
 ------------------
@@ -264,6 +264,9 @@ which is the primary conference venue.
 Most of the attendee focus will come during breaks (10 minutes between each talk, two longer snack breaks) and at the beginning and end of the day.  
 
 **Logistics**: Booth setup is available Sunday, but they only need to be staffed on Monday and Tuesday. Power and Wifi are available.
+
+* The *large* sponsorship booth is 12 feet
+* The *small* sponsorship booth is 6 feet
 
 Writing day
 ~~~~~~~~~~~

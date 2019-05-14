@@ -23,16 +23,6 @@ We're `live streaming </conf/{{shortcode}}/{{year}}/livestream>`_ the talks!
 Saturday, May 18
 ----------------
 
-Hike
-~~~~
-
-The only event scheduled on Saturday is the :doc:`annual hike </conf/{{shortcode}}/{{year}}/hike>`.
-If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
-
-* **Where**: Lower Macleay Park or Macleay Park Entrance.
-* **When**: 1:45pm
-* **Details**: :doc:`Hike </conf/{{shortcode}}/{{year}}/hike>` page
-
 Sunday, May 19
 --------------
 

@@ -8,7 +8,7 @@ Hello!
 
 We're your Welcome Wagon, and we're glad you're coming to Write the Docs!
 Feel free to `tweet <https://twitter.com/canncrochet>`_ or `email <mailto:canncrochet@gmail.com>`_ us if we can help make your first time at the conference easier.
-When you get to the conference, come :ref:`say hello <say-hello>`.
+When you get to the conference, come :ref:`say hello <say-hello-2019>`.
 
 We've gathered important stuff here that will help you navigate the conference like a pro, make you feel more at home, and help you to manage the constant flow of information.
 The Welcome Wagon events warm up new attendees and connect them with people, both veterans and other first-timers.
@@ -206,6 +206,12 @@ Come find us and ask any questions, or just chat about the conference!
          :width: 100px
 
          David   
+   .. container:: crew-image
+
+      .. figure:: /_static/img/crew/Leona2019.jpg
+         :width: 100px
+
+         Leona   
 
 
 Thanks
