@@ -38,7 +38,7 @@ Technical docs are pulled from GitHub [https://github.com/tensorflow/docs] so yo
 Read the TensorFlow documentation contributors guide [https://www.tensorflow.org/community/contribute/docs] for workflows and set up. And if you have questions before Writing Day, feel free to ask on the TensorFlow docs mailing list [http://bit.ly/tf-docs-list] or the Gitter channel [https://gitter.im/tensorflow/docs].
 
 Write CockroachDB Docs
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 CockroachDB is the SQL database for building global, scalable cloud services that survive disasters.. Here’s a quick overview video:
 https://www.youtube.com/watch?v=VgXiMcbGwzQ
