@@ -131,10 +131,9 @@ html_context = {
     'conferences': load_conference_data(),
 }
 
-# Uncomment this line to generate videos
-# html_context.update(main())
 
-# html_experimental_html5_writer = True
+from _ext.meetup_events import main
+html_context.update(main())
 
 
 def setup(app):
