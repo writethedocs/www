@@ -36,7 +36,7 @@ Find your way around
 Have fun
 --------
 
-* **Join us for a walk in the woods**. If you're planning to come out for the `hike <https://www.writethedocs.org/conf/portland/2019/hike/>`_ on Saturday at *1:45pm*, make sure you `reserve your spot <https://ti.to/writethedocs/write-the-docs-portland-2019/>`_ . We're hoping for less hail than some other hikes we've done in the past, but bringing a rain jacket would be wise.
+* **Join us for a walk in the woods**. If you're planning to come out for the `hike <https://www.writethedocs.org/conf/portland/2019/hike/>`_ on Saturday at *1:45pm*, make sure you `reserve your spot <https://ti.to/writethedocs/write-the-docs-portland-2019/>`_ . Note that we've changed the route a bit this year because of construction, and will be doing an "out and back" to Pittock Mansion. 
 * **Pre-register at the welcome reception.** The meet-and-greet event will be held on Sunday from *5pm-8pm*. You can pick up your badge and enjoy a couple of drinks on us. This is a great chance to meet your fellow documentarians before the conference starts.
 * **Come to the social event on Monday night.** This is a private party just for conference attendees. Plan to attend so you can get to know folks in the community. Once again we'll be at `Jackknife <https://goo.gl/maps/hvYkv6RU4qD2>`_ at 614 SW 11th Ave, on *Monday evening from 7pm*, with free snacks and drinks.
 
