@@ -140,7 +140,7 @@ The official Write the Docs social!
 This event is for **conference attendees only**, so please bring your badge to be let into the venue.
 There will be light snacks and drinks available on the conference while our tab lasts.
 
-* **Where**: TBD
+* **Where**: Jack Knife (`614 SW 11th Ave <https://goo.gl/maps/hvYkv6RU4qD2>`__)
 * **When**: **7pm-10pm**
 
 Tuesday, May 21
