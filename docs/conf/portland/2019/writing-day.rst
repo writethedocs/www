@@ -118,7 +118,7 @@ If you're ready to dig into some writing, we've `tagged several issues <https://
 - `Write a guide for setting up Netlify CMS <https://github.com/netlify/netlify-cms/issues/2092>`_ with your favorite site generator. You can start by following one of the existing guides, then follow that pattern with a new one. Copyediting for existing guide is also appreciated.
 - `Create a UI guide <https://github.com/netlify/netlify-cms/issues/1340>`_ for content editors.
 - `Add a Requirements & Installation doc <https://github.com/netlify/netlify-cms/issues/731>`_ for developers interested in adding Netlify CMS to their sites.
-- `Add documentation for the editor UI markdown widget <https://github.com/netlify/netlify-cms/issues/637`.
+- `Add documentation for the editor UI markdown widget <https://github.com/netlify/netlify-cms/issues/637>`_.
 
 Jessica (@verythorough in Slack) and Kristen will be there from the Netlify docs team, as will Benaiah, full-time maintainer of Netlify CMS. We'll be happy to answer questions and collaborate. We look forward to meeting you!
 
