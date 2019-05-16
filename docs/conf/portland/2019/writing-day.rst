@@ -13,7 +13,7 @@ Schedule
   with the conference opening reception in the same space until 8.
 - Location: **Crystal Ballroom, 1332 W Burnside St**. We will be in the main ballroom.
 
-Writing day this year is sponsored by Asciidoctor. Thanks for your support!
+Writing Day this year is sponsored by Asciidoctor. Thanks for your support!
 
 Projects
 --------
