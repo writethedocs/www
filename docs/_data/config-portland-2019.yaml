@@ -28,8 +28,8 @@ buttons:
       link: /schedule
     # - text: Welcome Wagon
     #   link: /welcome-wagon
-    # - text: Watch the Live Stream
-    #  link: /livestream
+    - text: Watch the Live Stream
+      link: /livestream
     # - text: Browse the photos
     #  link: /livestream
   bottom:
@@ -170,7 +170,7 @@ flagspeakersannounced: True
 flaghasschedule: True
 flaghasshirts: True
 flagvideos: False
-flaglivestreaming: False
+flaglivestreaming: True
 
 # Truthy things that don't change
 flaghashike: True

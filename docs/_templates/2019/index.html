@@ -110,6 +110,12 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
         <p>
           We invite you to join {{ about.attendees }} other folks in our event to explore the art and science of documentation.
         </p>
+        {% if flaglivestreaming %}
+        <p>
+          <a href="{{ pathto('conf/portland/2019/livestream') }}">Live streaming is available</a> during the conference.
+          You do <strong>not</strong> need a ticket to watch the stream. Videos of talks will be published after the conference.
+        </p>
+        {% endif %}
 
         {% if cobrand is defined %}
         <h2>What is Open Help?</h2>
