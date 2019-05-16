@@ -18,10 +18,10 @@ buttons:
   top:
     - text: Sponsor the conference
       link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
-    # - text: Buy a Ticket!
-    #   link: /tickets
+    #- text: Submit a Talk
+    #  link: /cfp
+    - text: Buy a Ticket!
+      link: /tickets
     # - text: See the talks!
     #   link: /speakers
     # - text: Prepare with the Welcome Wagon
@@ -107,7 +107,7 @@ job_fair:
   location: Unconference Room, across from the Main Ballroom
 
 flaghassponsors: True
-flagcfp: True
+flagcfp: False
 flagticketsonsale: True
 flagspeakersannounced: False
 flaghasschedule: False

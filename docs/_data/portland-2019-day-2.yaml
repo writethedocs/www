@@ -2,12 +2,15 @@
   Session: Doors Open, Breakfast Served
   Time: '8:00'
 - Duration: '30'
-  Session: Alicia Woodside & Alicja Raszkowska - Draw the Docs
-  Slug: alicia-woodside
+  Session: Alicja Raszkowska - Draw the Docs
+  Slug: alicja-raszkowska
   Time: '9:00'
 - Duration: '10'
   Session: Switch Speakers
   Time: '9:30'
+- Duration: '0'
+  Session: "<b>Job Fair Starts (Lola's Room)</b>"
+  Time: '9:40'
 - Duration: '30'
   Session: 'Sarah Moir - Just Add Data: Make it easier to prioritize your documentation'
   Slug: sarah-moir
@@ -36,6 +39,9 @@
 - Duration: '75'
   Session: Lunch (75 mins)
   Time: '12:05'
+- Duration: '0'
+  Session: "<b>Unconference Starts (Lola's Room)</b>"
+  Time: '1:20'
 - Duration: '30'
   Session: Lightning Talks
   Time: '1:20'
