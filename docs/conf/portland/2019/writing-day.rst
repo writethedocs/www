@@ -10,8 +10,10 @@ Schedule
 --------
 
 - Date & Time: **Sunday, May 19th, 9am-5pm**,
-  with the conference opening reception in the same space until 9.
+  with the conference opening reception in the same space until 8.
 - Location: **Crystal Ballroom, 1332 W Burnside St**. We will be in the main ballroom.
+
+Writing day this year is sponsored by Asciidoctor. Thanks for your support!
 
 Projects
 --------
@@ -20,6 +22,27 @@ Projects
    :local:
    :depth: 1
    :backlinks: none
+
+
+Get Started with AsciiDoc
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Writing Day sponsor Asciidoctor will maintain a presence throughout the day, eager to support documentarians interested in creating great docs with the Asciidoc markup language. Whether you're already passionate about open source, eager to add a valuable skillset, or just curious, experts in documentation platform development and technical writing with AsciiDoc will be available for tutoring, workshops, and demos:
+
+**Play with AsciiDoc**
+
+You do not have to come with a mission or any sense of commitment. Come to Writing Day, let us learn what you're up to and maybe show you some stuff.
+
+**Convert your docs or get started with AsciiDoc**
+
+Take advantage of AsciiDoc consultants and practitioners to get a head start on migrating to AsciiDoc-based tools or just kick-start a project.
+
+**Learn docs-as-code basics**
+
+We reaize not every documentarian has a firm grasp of the docs-as-code approach, what makes it special, and the basic technical hurdles, such as understanding dynamic markup, using code editors, and managing source code with Git. Asciidoctor volunteers are happy to bring you up to speed on the broader docs-as-code approach, even if you don't already have an interest in AsciiDoc. We will meet you at your level and have exercises for learning the ins and outs of popular tools. 
+
+We are maintaining a `GitHub project for all our Write the Docs programming <https://github.com/DocOps/wtd2019>`__. We would love to engage with you there, get feedback on our ideas, and hear how we can make Writing Day more successful for you!
+
 
 Make Microsoft Docs More Inclusive
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -66,25 +89,6 @@ Note: Our docs live in `GitHub <https://github.com/cockroachdb/docs>`__, so you'
 
 Feel free to go through the full list of GitHub issues labeled `wtd-writing-day <https://github.com/cockroachdb/docs/labels/wtd-writing-day>`__ and claim the ones you want to work on.
 And of course, we (`@laurenh <https://writethedocs.slack.com/?redir=%2Fteam%2FU1B2LRTSQ>`__, `@jseldess <https://writethedocs.slack.com/team/U1B2LRTSQ>`__, and `@rmloveland <https://writethedocs.slack.com/?redir=%2Fteam%2FU1B2LRTSQ>`__) will be available throughout the day to help out. Also feel free to reach out to us if you have questions or suggestions in the interim. See you on Writing Day!
-
-Get Started with AsciiDoc
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Writing Day sponsor Asciidoctor will maintain a presence throughout the day, eager to support documentarians interested in creating great docs with the Asciidoc markup language. Whether you're already passionate about open source, eager to add a valuable skillset, or just curious, experts in documentation platform development and technical writing with AsciiDoc will be available for tutoring, workshops, and demos:
-
-**Play with AsciiDoc**
-
-You do not have to come with a mission or any sense of commitment. Come to Writing Day, let us learn what you're up to and maybe show you some stuff.
-
-**Convert your docs or get started with AsciiDoc**
-
-Take advantage of AsciiDoc consultants and practitioners to get a head start on migrating to AsciiDoc-based tools or just kick-start a project.
-
-**Learn docs-as-code basics**
-
-We reaize not every documentarian has a firm grasp of the docs-as-code approach, what makes it special, and the basic technical hurdles, such as understanding dynamic markup, using code editors, and managing source code with Git. Asciidoctor volunteers are happy to bring you up to speed on the broader docs-as-code approach, even if you don't already have an interest in AsciiDoc. We will meet you at your level and have exercises for learning the ins and outs of popular tools. 
-
-We are maintaining a `GitHub project for all our Write the Docs programming <https://github.com/DocOps/wtd2019>`__. We would love to engage with you there, get feedback on our ideas, and hear how we can make Writing Day more successful for you!
 
 Your project here
 ~~~~~~~~~~~~~~~~~
