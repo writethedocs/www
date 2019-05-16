@@ -70,4 +70,4 @@ And of course, we (`@laurenh <https://writethedocs.slack.com/?redir=%2Fteam%2FU1
 Your project here
 ~~~~~~~~~~~~~~~~~
 
-Send us a pull request or an email talking about what you want to work on!
+Send us a `pull request <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2019/writing-day.rst>`__ or an email talking about what you want to work on!
