@@ -34,8 +34,9 @@
   Session: Switch Speakers
   Time: '11:40'
 - Duration: '15'
-  Session: Sponsored Talk
+  Session: "<i>Sponsored Talk</i>: Riona MacNamara - Documentation for Good: Knowledge as a tool for equity and inclusion"
   Time: '11:50'
+  Slug: riona-macnamara
 - Duration: '75'
   Session: Lunch (75 mins)
   Time: '12:05'

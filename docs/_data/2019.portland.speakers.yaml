@@ -701,3 +701,12 @@
     twitter: ''
     website: ''
   title: 'Product Documentation Strategy: What Is It and Why Do We Need It?'
+- abstract: "<p>As documentarians, we know that knowledge is critical: accurate and comprehensive documentation drives product awareness and adoption. For engineers and other technologists, detailed documentation is essential for development velocity, code quality, and the reliability of services running in production.</p>
+    <p>But the stakes are higher and go beyond our own companies and projects. To be successful, and to benefit from the economic advancement offered by the software industry, all developers everywhere need access to the knowledge needed to fully participate in technology. Tribal knowledge is accessible only by the privileged few. Documentation - comprehensive, accessible, and trustworthy documentation - is what puts the means of production in the hands of the developer, whether she's in Palo Alto, Lagos, Quito, or Chengdu. This talk covers how documentarians - especially those working in open source - can, literally, change lives.</p>"
+  slug: documentation-for-good-riona-macnamara
+  speakers:
+  - name: Riona MacNamara
+    slug: riona-macnamara
+    twitter: ''
+    website: ''
+  title: "<i>Sponsored Talk</i>: Documentation for Good: Knowledge as a tool for equity and inclusion"
