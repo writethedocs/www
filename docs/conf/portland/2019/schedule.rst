@@ -36,6 +36,19 @@ If you get into town early, join us on the hike and take the chance to explore P
 Sunday, May 19
 --------------
 
+{% if flaghasschedule %}
+
+Detailed event information is located below the time table.
+
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-writing-day.yaml
+   :template: include/schedule{{year}}.rst
+   :include_context:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
+
 Writing Day
 ~~~~~~~~~~~
 
@@ -47,20 +60,6 @@ This is the time where you can introduce the projects you will be working on to 
 * **Where**: Crystal Ballroom
 * **When**: **9am-5pm**, Doors & Breakfast at 8am.
 * **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
-
-{% if flaghasschedule %}
-
-Sunday Schedule
-~~~~~~~~~~~~~~~
-
-.. datatemplate::
-   :source: /_data/{{shortcode}}-{{year}}-writing-day.yaml
-   :template: include/schedule{{year}}.rst
-   :include_context:
-
-{% else %}
-  A detailed schedule will be announced soon.
-{% endif %}
 
 Reception
 ~~~~~~~~~
@@ -84,6 +83,19 @@ Is this your first time at Write the Docs? Join us for an informal Introduction 
 
 Monday, May 20
 --------------
+
+{% if flaghasschedule %}
+
+Detailed event information is located below the time table.
+
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-day-1.yaml
+   :template: include/schedule{{year}}.rst
+   :include_context:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
 
 Venue tours
 ~~~~~~~~~~~~
@@ -112,25 +124,9 @@ The "main event" -- we'll have a variety of speakers on the stage sharing their 
 * **Where**: Main stage, Crystal Ballroom
 * **When**: **9am-5:30pm**, Doors & Breakfast at 8am
 {% if flaghasschedule %}
-* **Details**: Full main stage schedule below
+* **Details**: Full main stage schedule above
 {% else %}
 * **Details**: A detailed schedule will be announced soon
-{% endif %}
-
-.. separator to fix list formatting
-
-{% if flaghasschedule %}
-
-Monday Schedule
-~~~~~~~~~~~~~~~
-
-.. datatemplate::
-   :source: /_data/{{shortcode}}-{{year}}-day-1.yaml
-   :template: include/schedule{{year}}.rst
-   :include_context:
-
-{% else %}
-  A detailed schedule will be announced soon.
 {% endif %}
 
 Monday Night Social
@@ -145,6 +141,22 @@ There will be light snacks and drinks available on the conference while our tab 
 
 Tuesday, May 21
 ---------------
+
+{% if flaghasschedule %}
+
+Detailed event information is located below the time table.
+
+Tuesday Schedule
+~~~~~~~~~~~~~~~~
+
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-day-2.yaml
+   :template: include/schedule{{year}}.rst
+   :include_context:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
 
 Welcome Wagon check-in
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -179,23 +191,7 @@ Conference Talks
 * **Where**: Main stage, Crystal Ballroom
 * **When**: **9am-3:30pm**, Doors & Breakfast at 8am
 {% if flaghasschedule %}
-* **Details**: Full main stage schedule below
+* **Details**: Full main stage schedule above
 {% else %}
 * **Details**: A detailed schedule will be announced soon
-{% endif %}
-
-.. separator to fix list formatting
-
-{% if flaghasschedule %}
-
-Tuesday Schedule
-~~~~~~~~~~~~~~~~
-
-.. datatemplate::
-   :source: /_data/{{shortcode}}-{{year}}-day-2.yaml
-   :template: include/schedule{{year}}.rst
-   :include_context:
-
-{% else %}
-  A detailed schedule will be announced soon.
 {% endif %}
