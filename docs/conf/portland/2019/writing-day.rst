@@ -90,6 +90,38 @@ Note: Our docs live in `GitHub <https://github.com/cockroachdb/docs>`__, so you'
 Feel free to go through the full list of GitHub issues labeled `wtd-writing-day <https://github.com/cockroachdb/docs/labels/wtd-writing-day>`__ and claim the ones you want to work on.
 And of course, we (`@laurenh <https://writethedocs.slack.com/?redir=%2Fteam%2FU1B2LRTSQ>`__, `@jseldess <https://writethedocs.slack.com/team/U1B2LRTSQ>`__, and `@rmloveland <https://writethedocs.slack.com/?redir=%2Fteam%2FU1B2LRTSQ>`__) will be available throughout the day to help out. Also feel free to reach out to us if you have questions or suggestions in the interim. See you on Writing Day!
 
+Netlify CMS - Give Feedback and Write Docs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`Netlify CMS <https://www.netlifycms.org/>`_ is an open source CMS for static site generators, created by the folks at `Netlify <https://www.netlify.com/>`_. It works with content stored in Git repositories, so it's great for adding an editor UI to docs-as-code workflows.
+
+We're a really friendly and active community, happy to answer questions in `Gitter chat <https://gitter.im/netlify/netlifyCMS>`_, `Netlify Community <https://community.netlify.com>`_, or even Write the Docs Slack. (Try #static-site-generator or ping @verythorough!) We uphold the Contributor Covenant `Code of Conduct <https://github.com/netlify/netlify-cms/blob/master/CODE_OF_CONDUCT.md>`_, and we work hard to make sure all contributors feel welcome, supported, and recognized.
+
+Try it out
+^^^^^^^^^^
+
+You can visit the `live demo <https://cms-demo.netlify.com>`_ to play around with a basic version of the editor UI, but for the full tour, we recommend `cloning a sample site <https://www.netlifycms.org/docs/start-with-a-template/>`_. That way, you can see how your edits in the UI generate commits and pull requests on the connected repository. The featured starter templates use Gatsby, Hugo, and Middleman, but you can use Netlify CMS with almost any static site generator or build tool.
+
+Talk to us about your docs-as-code needs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+While Netlify CMS can be used for all sorts of content, we're focused on making it really great for docs. Come visit the Netlify CMS table, and we can give you a tour of how things work, chat about your docs-as-code workflow, and get your feedback and feature requests.
+
+One of our big projects right now is making Netlify CMS capable of `managing community contributions to open source docs <https://github.com/netlify/netlify-cms/issues/2093>`_, so if you have an open source documentation project you're working on, we'd love to hear about it!
+
+Help write the docs!
+^^^^^^^^^^^^^^^^^^^^
+
+If you're ready to dig into some writing, we've `tagged several issues <https://github.com/netlify/netlify-cms/labels/event%3A%20Write%20the%20Docs>`_ to help get you started:
+
+- `Improve contributing guidelines <https://github.com/netlify/netlify-cms/issues/1038>`_, including documentation-specific guidelines and `adding a style guide <https://github.com/netlify/netlify-cms/issues/1632>`_.
+- `Write a guide for setting up Netlify CMS <https://github.com/netlify/netlify-cms/issues/2092>`_ with your favorite site generator. You can start by following one of the existing guides, then follow that pattern with a new one. Copyediting for existing guide is also appreciated.
+- `Create a UI guide <https://github.com/netlify/netlify-cms/issues/1340>`_ for content editors.
+- `Add a Requirements & Installation doc <https://github.com/netlify/netlify-cms/issues/731>`_ for developers interested in adding Netlify CMS to their sites.
+- `Add documentation for the editor UI markdown widget <https://github.com/netlify/netlify-cms/issues/637>`_.
+
+Jessica (@verythorough in Slack) and Kristen will be there from the Netlify docs team, as will Benaiah, full-time maintainer of Netlify CMS. We'll be happy to answer questions and collaborate. We look forward to meeting you!
+
 Your project here
 ~~~~~~~~~~~~~~~~~
 
