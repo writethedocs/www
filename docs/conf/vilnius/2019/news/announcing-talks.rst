@@ -31,7 +31,7 @@ Head over to the `Speakers page <https://www.writethedocs.org/conf/{{shortcode}}
 Tickets are going fast!
 -----------------------
 
-If you don't have your ticket yet, now's a great time to snap one up. Conference tickets have already been going quickly, and we have a limited capacity, so if you're considering attending get off the fence and register now!
+If you don't have your ticket yet, now's a great time to snap one up. Conference tickets have already been going quickly, and we have a limited capacity, so if you're considering attending: register now!
 
 `Buy your tickets here! <https://www.writethedocs.org/conf/vilnius/2019/tickets/>`_
 
