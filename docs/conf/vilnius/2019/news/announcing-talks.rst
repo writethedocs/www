@@ -8,11 +8,9 @@ Announcing Speakers and Talks
 
 Greetings, fellow documentarians! We're writing today with an update on the fast-approaching Vilnius event, and we're very excited to announce the speakers and talks for the event.
 
-Thank you so much to everyone who took the time to send us a pitch – we literally wouldn't have an event without you!
+Thank you so much to everyone who took the time to send us a proposal – we literally wouldn't have an event without you!
 
 We also have some info about ticket purchasing (now's the time!), trip planning (Vilnius is beautiful!), and Writing Day (start thinking about projects!).
-
-Read on for more details!
 
 Full speaker line-up
 --------------------
@@ -26,7 +24,7 @@ We're really excited about the presentations we've got for this first-year event
    :template: {{year}}/speakers-simple-list.rst
    :include_context:
 
-Head over to the `Speakers page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`_ to see the full abstracts. We hope there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.
+Head over to the `Speakers page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`_ to see the full abstracts. We believe there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.
 
 Tickets are going fast!
 -----------------------
