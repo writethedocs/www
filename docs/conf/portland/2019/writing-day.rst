@@ -122,6 +122,30 @@ If you're ready to dig into some writing, we've `tagged several issues <https://
 
 Jessica (@verythorough in Slack) and Kristen will be there from the Netlify docs team, as will Benaiah, full-time maintainer of Netlify CMS. We'll be happy to answer questions and collaborate. We look forward to meeting you!
 
+GitLab - Meet the Docs Team and Contribute to the Docs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`GitLab <https://about.gitlab.com>`_ is an open core single application for
+the entire software development lifecycle. From project planning and source code
+management to CI/CD, monitoring, and security.
+
+Our `documentation <https://docs.gitlab.com>`_ is open source and everybody can
+contribute to it. All the content is hosted on GitLab.com, so you will need a
+`GitLab.com account <https://gitlab.com/users/sign_up>`_.
+
+You can contribute to our docs by:
+
+#. Taking a look at the issues labeled with `writingday::proposed <https://gitlab.com/gitlab-org/gitlab-ce/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=writingday%3A%3Aproposed>`_.
+#. If you don’t find something you’d like to work on, view `all issues labeled 'Documentation' and 'Accepting Merge Requests' <https://gitlab.com/gitlab-org/gitlab-ce/issues?label_name%5B%5D=Documentation&label_name%5B%5D=Accepting+merge+requests&page=2&scope=all&state=opened>`_ or `browse the docs <https://docs.gitlab.com/>`_ and find something else you’d like to improve (and log it in a new issue).
+#. Once you find the issue you want to work on, add a comment mentioning `@gl-docsteam` to inform us that you’re working on
+   this for Writing Day (and tell us in person!).
+#. Create a merge request with your proposed changes.
+
+Once your merge request is reviewed and merged, it will appear on the docs site
+shortly!
+
+If you have any questions, you can reach to us in person or in Slack: `@axil`, `@evan.read`, `@miketechnically`.
+
 Your project here
 ~~~~~~~~~~~~~~~~~
 
