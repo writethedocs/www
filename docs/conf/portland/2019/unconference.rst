@@ -4,6 +4,8 @@
 Unconference
 ============
 
+Updated: `Unconference schedule<https://docs.google.com/spreadsheets/d/1pf8XV3WN2YINNYqgAQIh829VDK7eELBmhgrxA88JJqQ/edit?usp=sharing>`_!
+
 {% include "conf/events/unconference.rst" %}
 
 Unconference sessions are held downstairs from the Crystal Ballroom, in Lola's Room. Because the unconference has become so popular in recent years, we ask session organizers to bear these guidelines in mind:
@@ -19,6 +21,4 @@ Unconf organizers and a dedicated volunteer are available to help at any time du
 Schedule
 --------
 
-.. FIXME Check unconference schedule
-
-Unconference sessions are held all day Monday, plus Tuesday when the Job Fair isn't running. Exact timing information is available on our :doc:`/conf/{{shortcode}}/{{year}}/schedule` page. We'll also post a link to a google sheet with updated unconf session information on this page when the conference starts. Note that you can't sign up on the google sheet, but we keep it updated with information from the signup board.
+Unconference sessions are held all day Monday, plus Tuesday when the Job Fair isn't running. Exact timing information is available on our :doc:`/conf/{{shortcode}}/{{year}}/schedule` page. We're keeping `this Google sheet<https://docs.google.com/spreadsheets/d/1pf8XV3WN2YINNYqgAQIh829VDK7eELBmhgrxA88JJqQ/edit?usp=sharing>`_ updated with unconf session information throughout the conference. Note that you can't sign up on the google sheet, but we keep it updated with information from the signup board.
