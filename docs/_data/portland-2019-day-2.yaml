@@ -72,6 +72,9 @@
     an organization'
   Slug: jodie-putrino
   Time: '3:20'
-- Duration: '20'
-  Session: Conference wraps with snacks
+- Duration: '10'
+  Session: Closing address
   Time: '3:50'
+- Duration: '20'
+  Session: "<b>Conference Ends</b> :("
+  Time: '4:00'
