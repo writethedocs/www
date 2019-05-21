@@ -4,7 +4,7 @@ Documentarians
 When we :doc:`created </origin-story>` Write the Docs,
 we believed there was a missing term for someone who cares about documentation.
 It shouldn't be a job title,
-but an independent identity.
+but with an independent identity.
 We started using the word *documentarian* to describe this type of person:
 
 **A documentarian is someone who cares about documentation and communication in the software industry, regardless of job title.**
