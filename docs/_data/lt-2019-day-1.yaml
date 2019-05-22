@@ -1,0 +1,60 @@
+- Duration: '60'
+  Session: Doors Open, Breakfast Served
+  Time: '9:00'
+- Duration: '10'
+  Session: Conference opening
+  Time: '10:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '10:10'
+- Duration: '30'
+  Session: Hadas Khen - OMG, it’s “Error 5”!
+  Slug: omg-its-error-5-hadas-khen
+  Time: '10:20'
+- Duration: '30'
+  Session: Snack break
+  Time: '10:50'
+- Duration: '30'
+  Session: Chris Ward - Decentralised Documentation - Defining standards for an ecosystem
+  Slug: decentralised-documentation-defining-standards-for-an-ecosystem-chris-ward
+  Time: '11:20'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '11:50'
+- Duration: '30'
+  Session: "Filipe Mendes - The Legend of Documentation: A markdown to the past"
+  Slug: the-legend-of-documentation-a-markdown-to-the-past-filipe-mendes
+  Time: '12:00'
+- Duration: '60'
+  Session: Lunch (60 mins)
+  Time: '12:30'
+- Duration: '40'
+  Session: Lightning talks
+  Time: '13:30'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '14:10'
+- Duration: '30'
+  Session: Anna Iosif - How do we know our documentation makes sense?
+  Slug: how-do-we-know-our-documentation-makes-sense-anna-iosif
+  Time: '14:20'
+- Duration: '30'
+  Session: Snack break
+  Time: '14:50'
+- Duration: '30'
+  Session: Elina McCafferty - How to turn a freight ship around when all you have is a paddle
+  Slug: how-to-turn-a-freight-ship-around-when-all-you-have-is-a-paddle-elina-mccafferty
+  Time: '15:20'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '15:50'
+- Duration: '30'
+  Session: "Małgorzata Trojanowska - Technically you can: creating technical content for all audiences"
+  Slug: technically-you-can-creating-technical-content-for-all-audiences-malzgorita-trojanowska
+  Time: '16:00'
+- Duration: '10'
+  Session: '<b>Group Photo</b>'
+  Time: '16:30'
+- Duration: '5'
+  Session: Conference closing
+  Time: '16:40'

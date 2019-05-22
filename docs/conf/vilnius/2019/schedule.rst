@@ -44,7 +44,7 @@ The "main event" -- we'll have a variety of speakers on the stage sharing their 
 
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
-   :template: include/schedule2018.rst
+   :template: include/schedule2019.rst
    :include_context:
 
 {% else %}

@@ -84,7 +84,7 @@ cfp:
 
 flagspeakersannounced: True
 flagcfp: False
-flaghasschedule: False
+flaghasschedule: True
 flagticketsonsale: True
 flaghashike: False
 flaghasboat: False
