@@ -22,8 +22,8 @@ buttons:
     #link: /cfp
     - text: Buy a Ticket!
       link: /tickets
-    - text: See the talks!
-      link: /speakers
+    - text: See the Schedule!
+      link: /schedule
     # - text: Prepare with the Welcome Wagon
     #  link: /welcome-wagon
     # - text: Watch the Live Stream
