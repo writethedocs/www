@@ -24,7 +24,7 @@ Tickets are going!
 
 We still have some tickets available, so head over to the `Tickets <https://www.writethedocs.org/conf/vilnius/2019/tickets/>`_ page and grab one!
 
-Due to catering and printing requirements, we will freeze ticket sales on **Monday, 27th May**. If you register after this date, we will not be able to print a badge for you (although you probably don't need to worry about the food!).
+Keep in mind that due to printing schedules, if you register after **Monday, 27th May** we will not be able to print a badge for you.
 
 Events and activities
 ---------------------
