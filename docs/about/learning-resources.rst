@@ -47,3 +47,5 @@ Guide to Hiring and Getting Hired
 This is a growing set of resources for those who want to hire or be hired as a documentarian.
 
 You can check out the :doc:`/hiring-guide/index` here.
+
+You can check out the :doc:`/community-spotlight/index` here.
