@@ -265,6 +265,9 @@ Most of the attendee focus will come during breaks (10 minutes between each talk
 
 **Logistics**: Booth setup is available Sunday, but they only need to be staffed on Monday and Tuesday. Power and Wifi are available.
 
+* The *large* sponsorship booth is 12 feet
+* The *small* sponsorship booth is 6 feet
+
 Writing day
 ~~~~~~~~~~~
 

@@ -7,7 +7,7 @@ Schedule
 Write the Docs is more than a conference.
 Each year we organize a wide range of events so that people can come together, collaborate, and learn from each other in different ways.
 
-All conference events (except the hike & social event) will be held at **SMK Socialinių mokslų kolegija (University of Social Sciences)**.
+All conference events will be held at **SMK Socialinių mokslų kolegija (University of Social Sciences)**.
 
 .. contents::
     :local:
@@ -44,7 +44,7 @@ The "main event" -- we'll have a variety of speakers on the stage sharing their 
 
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
-   :template: include/schedule2018.rst
+   :template: include/schedule2019.rst
    :include_context:
 
 {% else %}

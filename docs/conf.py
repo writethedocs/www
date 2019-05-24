@@ -42,6 +42,7 @@ REWRITE_FEED = False
 extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
+    'notfound.extension',
     'recommonmark',
 ]
 blog_baseurl = 'https://www.writethedocs.org/'
@@ -135,6 +136,8 @@ html_context = {
 # html_context.update(main())
 
 # html_experimental_html5_writer = True
+
+notfound_no_urls_prefix = True
 
 
 def setup(app):
