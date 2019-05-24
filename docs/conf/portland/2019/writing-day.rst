@@ -123,7 +123,7 @@ If you're ready to dig into some writing, we've `tagged several issues <https://
 Jessica (@verythorough in Slack) and Kristen will be there from the Netlify docs team, as will Benaiah, full-time maintainer of Netlify CMS. We'll be happy to answer questions and collaborate. We look forward to meeting you!
 
 Help improve MDN Web Docs
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 `MDN Web Docs <https://developer.mozilla.org>`_ is a source of references, guides, and tutorials on standards-based web technologies, much loved by web developers. It was chosen as #1 for Documentation in the Developer’s Choice Awards for 2018, conducted by SlashData.
 
 Yet, MDN Web Docs needs help from documentarians—--whether you are a programmer, designer, or someone else who cares about web technology. MDN is a wiki, so anyone can contribute to content. We have tasks for you to help with content about `accessibility <https://developer.mozilla.org/en-US/docs/Web/Accessibility>`_, or `web performance <https://developer.mozilla.org/en-US/docs/Web/Performance>`_, or with `making sure our most-accessed pages are up to editorial standards <https://docs.google.com/document/d/1_ryTfwcvLOr1b75ekVh590BaJfz_rUo-E_f-jTbSbUU/edit?usp=sharing>`_. If there's another area of web technology that you're passionate about documenting, we welcome that too!
