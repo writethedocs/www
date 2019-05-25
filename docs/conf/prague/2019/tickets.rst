@@ -67,7 +67,7 @@ Write the Docs aims to continuously expand our community to be more diverse, wel
 
 We offer a limited number of diversity scholarship tickets for our Prague conference in collaboration with `DiversityTickets.org <https://diversitytickets.org/>`_, a non-profit organization that shares qualifying events with various diversity organizations, and helps folks from underrepresented groups find events to attend.
 
-For more information and to apply, head over to the `DiversityTickets.org <https://diversitytickets.org/en/events/425/>`_ Event page. Diversity scholarship tickets are free. The deadline for applications is 7th July, 2019.
+For more information and to apply, head over to the `application page <https://diversitytickets.org/en/events/425/>`_. Diversity scholarship tickets are free. The deadline for applications is 7th July, 2019.
 
 {% if flagticketsonsale %}
 
