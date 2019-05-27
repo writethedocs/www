@@ -12,7 +12,7 @@ git+https://github.com/ericholscher/datatemplates@add-key-and-context#egg=sphinx
 urllib3[secure]==1.25.3
 yamale==1.10.0
 ruamel.yaml==0.15.96
-lxml==4.3.2
+lxml==4.3.3
 # For fancy 404 pages
 git+https://github.com/rtfd/sphinx-notfound-page@master#egg=sphinx-notfound-page
 
