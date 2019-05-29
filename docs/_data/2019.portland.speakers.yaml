@@ -97,7 +97,7 @@
   - name: Matt Reiner
     slug: matt-reiner
     twitter: reinermatthew
-    website: medium.com/@reinermatthew
+    website: https://medium.com/@reinermatthew
   title: 'Show Me the Money: How to Get Your Docs the Love and Support They Deserve'
 - abstract: '<p>It can be subtle, like the gift icon in Slack that tells you there''s
     a new feature or the walkthrough Gmail tried to get you to do when they switched
@@ -177,7 +177,7 @@
   - name: Meghan Mahar
     slug: meghan-mahar
     twitter: ravenwritingllc
-    website: www.ravenwriting.net
+    website: http://www.ravenwriting.net
   title: Tutorials, Tooltips, and Popups…oh MY!  How to ease yourself and your users
     into in-app messaging.
 - abstract: '<p>SDK docs written by developers tend to be implementer oriented, not
@@ -375,7 +375,7 @@
   - name: Mike Jang
     slug: mike-jang
     twitter: theMikeJang
-    website: None
+    website: ''
   title: How I Learned to Stop Worrying and Love the Command Line
 - abstract: '<p>Drawings and diagrams are so useful to include in the docs, but they’re
     often time-consuming to create, difficult to update, and incompatible with standard
