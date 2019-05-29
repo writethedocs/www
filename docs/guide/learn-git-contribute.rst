@@ -1,4 +1,4 @@
-Learn Git by editing the Write The Docs website
+Learn Git by editing the Write the Docs website
 ===============================================
 
 Identify the page you want to edit
@@ -28,7 +28,7 @@ Prerequisites
 Start using Git and modify the source file of a page
 ----------------------------------------------------
 
-1.  Visit the `Write The Docs www project`_.
+1.  Visit the `Write the Docs www project`_.
 
 2.  Click the **Fork**\ button in the upper-right corner to create a
     copy of the project in your GitHub account. The new page for the
@@ -121,7 +121,7 @@ Start using Git and modify the source file of a page
 
       git push -u origin branch-name
 
-15. Create a `GitHub pull request`_ in the `Write The Docs www project`_.
+15. Create a `GitHub pull request`_ in the `Write the Docs www project`_.
 
 
 .. _existing issue: https://github.com/writethedocs/www/issues
@@ -129,9 +129,9 @@ Start using Git and modify the source file of a page
 .. _Create a GitHub account: https://github.com/join
 .. _Download and install Git: https://git-scm.com/downloads
 .. _associate your GitHub username with your local Git installation: https://help.github.com/en/articles/setting-your-username-in-git
-.. _Write The Docs www project: https://github.com/writethedocs/www
+.. _Write the Docs www project: https://github.com/writethedocs/www
 .. _Sublime Text: https://www.sublimetext.com
 .. _Visual Studio Code: https://code.visualstudio.com/
 .. _write a good commit message: https://chris.beams.io/posts/git-commit/
 .. _GitHub pull request: https://help.github.com/en/articles/creating-a-pull-request
-.. _Write The Docs www project: https://github.com/writethedocs/www
+.. _Write the Docs www project: https://github.com/writethedocs/www
