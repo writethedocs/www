@@ -66,7 +66,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
 
          {% if buttons is defined %} 
          {% for callout in buttons.top %}
-           <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/' + year|string + callout.link ) }}">{{ callout.text }}</a>
+           <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year|string + callout.link ) }}{% endif %}">{{ callout.text }}</a>
          {% endfor %}
          {% endif %}
 
@@ -75,7 +75,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
     </div>
   </div><!-- end hero -->
 
-  {% if flagvideos %}
+  {% if flagvideos or flagpostconf %}
 
   <div class="announcement">
     <div class="uk-container">
