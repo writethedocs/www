@@ -28,8 +28,8 @@ in-person job fair.
 Overall, we were so excited to see another conference come together and
 see our awesome community gather out in the physical world.
 
-Videos and photos and write-ups
-===============================
+Videos and photos
+=================
 
 Videos of all the talks are now available `in our video
 archive <https://www.writethedocs.org/videos/portland/2019/>`__. Thanks 
@@ -44,11 +44,6 @@ We also have photos from the event available on `Flickr <https://www.flickr.com/
 thanks to our wonderful photographer `Kay <https://twitter.com/goatlady>`_! 
 We really love the photos each year, and you're welcome to use them for 
 non-commercial purposes, as per our `Creative Commons License <https://creativecommons.org/licenses/by-nc-sa/2.0/>`_.
-
-And finally, several community members have been writing up their
-experiences at the conference and sharing them in the `wtd-conferences channel on the Write the Docs
-Slack <https://writethedocs.slack.com/archives/wtd-conferences>`__. If you missed the conference (or are just curious
-about how your experience compares to others'), pop in and have a read.
 
 Code of Conduct transparency report
 ===================================
@@ -78,6 +73,12 @@ September, and our `Australia
 conference <https://www.writethedocs.org/conf/australia/2019/>`__ in
 November. Tickets are on sale for Prague. The CFP and tickets for the
 Australia conference will open soon.
+
+Our Slack network has really grown more this last year. Our general
+Slack channel has been extra busy in the days and weeks leading up to
+the conference, and we hope that y’all continue the conversations
+throughout the year. If you haven’t joined, now’s the time! Check out
+the `Write the Docs Slack <http://www.writethedocs.org/slack/>`__.
 
 We’re also looking for more sponsors to make our events just as magical
 as this year’s event. You can see our prospectus for
