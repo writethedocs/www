@@ -53,34 +53,36 @@ about how your experience compares to others'), pop in and have a read.
 Code of Conduct transparency report
 ===================================
 
-As with any Write the Docs event, this conference was covered by our
-`community Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`__. 
-We aim to be as transparent with CoC incidents and enforcement as we can. 
-None of our organizers were approached about any CoC concerns at this event. 
-We know that this is, in part, a reflection of the thoughtful and inclusive 
-community that we're so lucky to have.
+As with any Write the Docs event, this conference was covered by our `community Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`__.
+We aim to be as transparent with CoC incidents and enforcement as we can.
 
-That said, we're also very conscious of the fact that just because
-nothing was reported doesn't mean nothing happened.  If there was any personal 
-conduct or other aspect of the conference experience that did not meet the expectations 
-of behavior set out in the CoC, please email us at `conduct@writethedocs.org <mailto:conduct@writethedocs.org>`_.
+To ensure that our CoC was visible and accessible, we took a number of specific steps:
+
+- Every participant agreed to the Code of Conduct in advance during registration.
+- The CoC, or a summary, was included on the conference website, conference booklet, and in posters around the conference venue.
+- The CoC was repeatedly mentioned in announcements on the stage.
+- We specifically stressed that the CoC applies to all conference spaces including the social event.
+- We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.
+
+None of our organizers were approached about any CoC concerns at this event.
+We know that this is, in part, a reflection of the thoughtful and inclusive community that we're so lucky to have.
+
+That being said, we're also very conscious of the fact that just because nothing was reported doesn't mean nothing happened. If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behavior set out in the CoC, please email us at `conduct@writethedocs.org <mailto:conduct@writethedocs.org>`_.
 
 Ready for more?
 ===============
 
-Don't forget we have our first joint `Write the Docs + Open Help
-conference <https://www.writethedocs.org/conf/cincinnati/2019/>`__ in 
-Cincinnati this August, our `Prague conference <https://www.writethedocs.org/conf/prague/2019/>`__ 
-again in September, and our first `two-day Australia conference <https://www.writethedocs.org/conf/australia/2019/>`__ 
-in November. Both the Cincinnati and Prague events have tickets 
-on sale and are actively looking for proposals. 
-(The call for the Australia conference will open soon.)
+Don’t forget our `Prague
+conference <https://www.writethedocs.org/conf/prague/2019/>`__ again in
+September, and our `Australia
+conference <https://www.writethedocs.org/conf/australia/2019/>`__ in
+November. Tickets are on sale for Prague. The CFP and tickets for the
+Australia conference will open soon.
 
-We're also looking for more sponsors to make these conferences just as
-magical as the Portland event was. We have a detailed sponsorship
-prospectus up for both the `Prague <https://www.writethedocs.org/conf/prague/2019/sponsors/prospectus/>`_ 
-and `Cincinnati <https://www.writethedocs.org/conf/cincinnati/2019/sponsors/prospectus/>`_ 
-conferences. Get in touch if you have any questions.
+We’re also looking for more sponsors to make our events just as magical
+as this year’s event. You can see our prospectus for
+`Prague <http://www.writethedocs.org/conf/prague/2019/sponsors/prospectus/>`__.
+Get in touch if you have any questions.
 
 Thanks again
 ============
