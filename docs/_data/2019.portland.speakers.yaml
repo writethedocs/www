@@ -701,8 +701,8 @@
     twitter: smorewithface
     website: https://thisisimportant.net/
   title: 'Just Add Data: Make it easier to prioritize your documentation '
-- abstract: '<p>When I presented at WTD NA in 2017 (Treating Documentation Like Code:
-    A Practical Account), an audience member asked me afterwards what organizational
+- abstract: '<p>When I presented at WTD NA in 2017 (<a href="https://www.writethedocs.org/conf/na/2017/speakers/#speaker-jodie-putrino" target="_blank">Treating Documentation Like Code:
+    A Practical Account</a>), an audience member asked me afterwards what organizational
     barriers I''d dealt with and how I got past them. At that point, the answer was
     "none" -- the road had been pretty easy so far. </p>
 
@@ -737,6 +737,7 @@
   youtubeId: 09z0VDR_bxs
   series: Write the Docs PORTLAND
   series_slug: portland
+  slides: https://slides.com/jodieputrino/defying-the-status-quo
   year: 2019
   speakers:
   - name: Jodie Putrino
