@@ -10,7 +10,7 @@ Conference highlights and thanks to the community!
 Hey everyone,
 
 The Write the Docs team is now emerging from the post-conference
-recovery period, and we wanted to send out a quick email to thank
+recovery period, and we wanted to send out a quick message to thank
 everyone for helping to make our 7th North American conference such a
 success. Whether you joined us in Portland or watched from afar, we
 thought you might like to hear some of the highlights!
@@ -26,7 +26,7 @@ talks, running real-time captioning for the main stage, and hosting an
 in-person job fair. 
 
 Overall, we were so excited to see another conference come together and
-see our awesome community gather out in the physical world.
+see our awesome community come together.
 
 Videos and photos
 =================
