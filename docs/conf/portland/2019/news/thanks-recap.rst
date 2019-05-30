@@ -67,10 +67,9 @@ That being said, we're also very conscious of the fact that just because nothing
 Ready for more?
 ===============
 
-Don’t forget our `Prague
-conference <https://www.writethedocs.org/conf/prague/2019/>`__ again in
-September, and our `Australia
-conference <https://www.writethedocs.org/conf/australia/2019/>`__ in
+Don’t forget our `Vilnius conference <http://www.writethedocs.org/conf/vilnius/2019/>`_ next week,
+`Prague conference <https://www.writethedocs.org/conf/prague/2019/>`__ again in
+September, and our `Australia conference <https://www.writethedocs.org/conf/australia/2019/>`__ in
 November. Tickets are on sale for Prague. The CFP and tickets for the
 Australia conference will open soon.
 
