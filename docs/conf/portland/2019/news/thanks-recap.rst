@@ -18,15 +18,17 @@ thought you might like to hear some of the highlights!
 Conference recap
 ================
 
-At over 500 people, this year's conference was our biggest yet! We had
+At over `500 people <https://www.flickr.com/photos/writethedocs/47895078051/>`_,
+this year's conference was our biggest yet! We had
 the usual mix of main stage and lightning talks, unconference sessions,
 writing sprints, and social events. We were also pleased with the
-success of a recent additions, including livestreaming the
+success of our recent additions, including livestreaming the
 talks, running real-time captioning for the main stage, and hosting an
 in-person job fair. 
 
-Overall, we were so excited to see another conference come together and
-see our awesome community come together.
+Overall, we were excited to our awesome community come together in a lovely venue.
+Lots of knowledge was shared,
+and we had a great time.
 
 Videos and photos
 =================
