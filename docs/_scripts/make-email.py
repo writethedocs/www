@@ -26,11 +26,11 @@ d = pq(url=url)
 content = d('.col-content').html()
 # import ipdb; ipdb.set_trace();
 if not content:
-    content = d('.body').html()
+    content = d('.page-content').html()
     # Remove page title
     d = pq(content)
     d.find('span').remove()
-    d.find('h1').remove()
+    #d.find('h1').remove()
     # Convert images
     for img_obj in d('img'):
         img = pq(img_obj)
