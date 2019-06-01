@@ -43,7 +43,18 @@ tagged as `writingday` that includes things like:
 - fix broken links (we have a lot of these)
 - add list of conference write ups for past conferences
 
-Your project here
+Consultant Toolkit
 ~~~~~~~~~~~~~~~~~
 
-Send us a pull request or an email talking about what you want to work on!
+Collaborate to assemble a toolkit for consultant or freelance documentarians.
+
+ Possible materials include:
+- Contract templates
+- Business planning documents
+- Workflow plans and checklists for starting a new project
+
+Possible challenges include:
+- Produce templates in multiple formats
+
+To get started I have created a repo `here <https://github.com/StarfallProjects/consultant-tech-writer-toolkit>`_. 
+
