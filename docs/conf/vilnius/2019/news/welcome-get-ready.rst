@@ -22,11 +22,13 @@ Get involved
 * **Plan a project for Writing Day.** The `Writing Day <https://www.writethedocs.org/conf/vilnius/2019/writing-day/>`_ will be held on Sunday from *10:00-18:00*, and you can drop in at any time during the day. Breakfast will be available from 9:00. If you have a project you want to propose to others, you can pitch your topic during the welcome announcement that will be held at *10:30*. Check out the `Writing Day <https://www.writethedocs.org/conf/vilnius/2019/writing-day/>`_ page for a few suggested projects!
 * **Plan a lightning talk.** We'll have `lightning talks <https://www.writethedocs.org/conf/vilnius/2019/lightning-talks/>`_ on Monday after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want. This is your chance to share something you are passionate about with the audience. Slides are not required.
 * **Coffee, breakfast, and lunch are provided on both days!** Don't worry about coffee before you come to the conference on Sunday or Monday.
+* **Social event on Saturday evening**. Every participant invited to Social Event that will take place at `Kas kas <https://goo.gl/maps/csDK16JPZwMeWvWv9>`_ (Islandijos g. 4). Event starts at 19:00 and there is not end time set!
 
 Find your way around
 --------------------
 
 * For practical information about Vilnius, see our `visiting page <https://www.writethedocs.org/conf/vilnius/2019/visiting/>`_.
+
 
 Share the love
 --------------
