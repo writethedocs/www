@@ -26,11 +26,11 @@ You can find information about the conference and Call for Proposals on our [Eur
 
 ## Videos
 
-All the videos for the conference are now posted. You can see all the videos from this year of Write the Docs on [Youtube](https://www.youtube.com/playlist?list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv). Thanks again to our wonderful video folks at [Next Day Video](http://nextdayvideo.com/) for turning them around so quickly.
+All the videos for the conference are now posted. You can see all the videos from this year of Write the Docs on [Youtube](https://www.youtube.com/playlist?list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv). Thanks again to our wonderful video folks at [Next Day Video](https://nextdayvideo.com/) for turning them around so quickly.
 
 ## Write the Docs Slack
 
-The Write the Docs Slack has really taken off this year! Our general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y'all continue the conversations throughout the year. If you haven't joined, head on over and join us! We're at [Write the Docs Slack](http://slack.writethedocs.com/).
+The Write the Docs Slack has really taken off this year! Our general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y'all continue the conversations throughout the year. If you haven't joined, head on over and join us! We're at [Write the Docs Slack](https://slack.writethedocs.com/).
 
 ## Meetups
 
