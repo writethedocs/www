@@ -31,7 +31,7 @@ One participant suggested [this neat tool](http://writersdiet.com/?page_id=4) fo
 The discussion wrapped up with a 74-word sentence quoted from _Emma_ by Jane Austen:
 > "It was some comfort to him that many inquiries after himself and Miss Woodhouse (for his neighbours knew that he loved to be inquired after), as well as Miss Smith, were coming in during the rest of the day; and he had the pleasure of returning for answer, that they were all very indifferent—which, though not exactly true, for she was perfectly well, and Harriet not much otherwise, Emma would not interfere with."
 
-For those keeping score at home, that includes seven commas, one semi-colon, a parenthetical, and an em dash. If you’re curious, the sentence’s Flesch-Kincaid grade level is 15.4! 
+For those keeping score at home, that includes seven commas, one semi-colon, a parenthetical, and an em dash. If you’re curious, the sentence’s Flesch-Kincaid grade level is 15.4!
 
 ## Hiring for technical background
 
