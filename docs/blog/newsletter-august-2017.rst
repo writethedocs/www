@@ -80,7 +80,7 @@ August 10 – Denver, CO, USA – `Embracing Change: Staying sane in docs and su
 
 August 14 – Austin, TX, USA – `Git the Docs: Learning Git in a safe space <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/240828011/>`_
 
-August 17 – Montreal, QC, Canada – `Social Meetup <https://www.meetup.com/WriteTheDocsMTL/events/241919925/>`_
+August 17 – Montreal, QC, Canada – Social Meetup
 
 August 21 – Houston, TX, USA – `WTD video: Even naming this talk was hard <https://www.meetup.com/Write-the-Docs-Houston/events/242361975/>`_
 
