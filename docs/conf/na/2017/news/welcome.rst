@@ -62,7 +62,7 @@ Once again, we're grateful to the companies and organizations that `sponsor <htt
 * `GitHub <https://github.com/>`_
 * `Knowledge Owl <https://www.knowledgeowl.com/>`_
 * `Pronovix <https://pronovix.com/>`_
-* `Corilla <https://corilla.com/>`_
+* `Corilla <http://corilla.com/>`_
 * `Elastic <https://www.elastic.co/>`_
 * `Algolia <https://www.algolia.com/>`_
 
