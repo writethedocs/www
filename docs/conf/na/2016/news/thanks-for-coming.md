@@ -34,7 +34,7 @@ The Write the Docs Slack has really taken off this year! Our general Slack chann
 
 ## Meetups
 
-We hope you continue to [build the community](https://www.writethedocs.org/meetups/) and keep in touch with other documentarians in your hometown. In this spirit, we have a number of meetups in cities across the country. If you don't see your city [listed](https://www.writethedocs.org/meetups/), consider [starting](http://www.writethedocs.org/organizer-guide/meetups/starting/) a meetup! 
+We hope you continue to [build the community](https://www.writethedocs.org/meetups/) and keep in touch with other documentarians in your hometown. In this spirit, we have a number of meetups in cities across the country. If you don't see your city [listed](https://www.writethedocs.org/meetups/), consider [starting](https://www.writethedocs.org/organizer-guide/meetups/starting/) a meetup! 
 
 Keep us posted if you start one (or encounter a new one) so that we can spread the word.
 
