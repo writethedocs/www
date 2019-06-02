@@ -18,6 +18,7 @@
   slug: tested-and-correct-how-to-make-sure-your-documentation-keeps-working-adangoor
   speakers:
   - name: Adam Dangoor
+    image: adam-dangoor.jpg
     slug: adangoor
     twitter: AdamDangoor
   title: Tested and Correct, How to Make Sure Your Documentation Keeps Working
@@ -55,6 +56,7 @@
       \ how we managed to publish both the code and the documentation in\npublic,\
       \ peer-reviewed Geoscientific Model Development journal.  </p>\n"
     name: Anna Jaruga
+    image: anna-jaruga.jpg
     slug: ajaruga
   title: The quest for scientific credit for software documentation
   year: '2015'
@@ -74,6 +76,7 @@
   slug: before-the-docs-writing-for-user-interfaces-baitman
   speakers:
   - name: Beth Aitman
+    image: beth-aitman.jpg
     slug: baitman
     twitter: baitman
   title: 'Before the docs: writing for user interfaces'
@@ -96,6 +99,7 @@
   slug: documenting-your-story-crafting-a-good-presentation-cward
   speakers:
   - name: Chris Ward
+    image: chris-ward.jpg
     slug: cward
     twitter: chrischinch
   title: Documenting your Story - Crafting a good presentation
@@ -121,6 +125,7 @@
   slug: all-roads-might-not-lead-to-docs-celmore
   speakers:
   - name: Christina Elmore
+    image: christina-elmore.jpg
     slug: celmore
     twitter: elchristina
   title: All roads might not lead to docs
@@ -144,6 +149,7 @@
   slug: screencasting-101-dpotter
   speakers:
   - name: Diana Potter
+    image: diana-potter.jpg
     slug: dpotter
     twitter: drpotter
   title: Screencasting 101
@@ -171,8 +177,9 @@
   slug: how-to-write-an-email-ecaine
   speakers:
   - name: Elijah Caine
+    image: elijah-caine.jpg
     slug: ecaine
-    twitter: ElijahCaineMV
+    twitter: pastywhitenoise
   title: How to Write an Email
   year: '2015'
   youtubeId: Ja-4t8Ufv6Y
@@ -197,6 +204,7 @@
   slug: whatchamacallit-controlled-vocabularies-for-technical-writers-eboillat
   speakers:
   - name: Emilie Boillat
+    image: emilie-boillat.jpg
     slug: eboillat
   title: 'Whatchamacallit: Controlled Vocabularies for Technical Writers'
   year: '2015'
@@ -217,8 +225,10 @@
   slug: gardening-open-docs-florian-scholz-jean-yves-perrier
   speakers:
   - name: Florian Scholz
+    image: florian-scholz.jpg
     twitter: floscholz
   - name: Jean-Yves Perrier
+    image: jean-yves-perrier.jpg
     twitter: Teoli2003
   title: Gardening Open Docs
   year: '2015'
@@ -242,6 +252,7 @@
   slug: generating-docs-from-apis-jhannaford
   speakers:
   - name: Jamie Hannaford
+    image: jamie-hannaford.jpg
     slug: jhannaford
     twitter: jamiehannaford
   title: Generating docs from APIs
@@ -267,6 +278,7 @@
   slug: back-to-the-future-what-can-documentarians-learn-from-the-past-jrondeau
   speakers:
   - name: Jennifer Rondeau
+    image: jennifer-rondeau.jpg
     slug: jrondeau
     twitter: bradamante
   title: 'Back to the Future: What Can Documentarians Learn From The Past?'
@@ -292,6 +304,7 @@
   slug: free-your-mind-and-your-docs-will-follow-pkeegan
   speakers:
   - name: Patrick Keegan
+    image: patrick-keegan.jpg
     slug: pkeegan
   title: Free Your Mind and Your Docs Will Follow
   year: '2015'
@@ -317,6 +330,7 @@
   slug: judas-priest-ate-my-scrum-master-padams
   speakers:
   - name: Paul Adams
+    image: paul-adams.jpg
     slug: padams
     twitter: therealpadams
   title: Judas Priest Ate My Scrum Master
@@ -348,6 +362,7 @@
   slug: macgyvering-your-docs-proeland
   speakers:
   - name: Paul Roeland
+    image: paul-roeland.jpg
     slug: proeland
     twitter: polyester
   title: MacGyvering your docs
@@ -369,6 +384,7 @@
   slug: inclusive-tech-docs-techcomm-meets-accessibility-rmatic
   speakers:
   - name: Radina Matic
+    image: radina-matic.jpg
     slug: rmatic
     twitter: RadinaMatic
   title: Inclusive Tech Docs - TechComm Meets Accessibility
@@ -401,6 +417,7 @@
   slug: imposter-no-more-how-tech-writers-can-shed-self-doubt-embrace-uncertainty-and-surf-the-upcoming-swerve-in-technical-documentation-rmacnamara
   speakers:
   - name: Riona MacNamara
+    image: riona-macnamara.jpg
     slug: rmacnamara
     twitter: rionam
   title: 'IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty,
@@ -426,6 +443,7 @@
   slug: visual-documentation-language-sheinen
   speakers:
   - name: Sonja Heinen
+    image: sonja-heinen.jpg
     slug: sheinen
     twitter: sonjaheinen
   title: Visual Documentation Language
@@ -447,6 +465,7 @@
   slug: writing-for-what-matters-writing-for-thinking-znemec
   speakers:
   - name: "Zden\u011Bk N\u011Bmec"
+    image: zdenek-nemec.jpg
     slug: znemec
     twitter: zdne
   title: Writing for what matters. Writing for thinking.
