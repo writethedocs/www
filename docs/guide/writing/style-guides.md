@@ -90,7 +90,7 @@ Rather than reinvent the wheel, here are some resources curated by [Ivan Walsh](
 
 - [Brain Traffic — Web Content style guides that Don’t Suck](http://blog.braintraffic.com/2009/02/web-content-style-guides-that-dont-suck/)
 - [Creative Blog — Create a website style guide](http://www.creativebloq.com/design/create-website-style-guide-6123030)
-- [Gather Content — Developing a Content style guide](https://blog.gathercontent.com/tone-of-voice-guide)
+- [Gather Content — Developing a Content style guide](http://blog.gathercontent.com/tone-of-voice-guide)
 - [HubSpot — How to Create a Writing style guide Built for the Web](http://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx)
 - [Meet Content — Editorial Style for the Web](http://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
 - [Stanford — Creating a web style guide](https://swsblog.stanford.edu/blog/creating-web-style-guide-cardinal-work)

@@ -69,7 +69,6 @@ Jekyll
 Jekyll has a few plugins that support link checking:
 
 * https://github.com/endymion/link-checker
-* https://github.com/fastly/jekyll-sanity-checker
 
 HTMLProofer
 ~~~~~~~~~~~
