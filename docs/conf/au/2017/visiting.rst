@@ -74,7 +74,7 @@ Taxi ranks exist around the city.
 
 **Bikes**
 
-Melbourne has two bike sharing services available: `Melbourne bike share <https://www.melbournebikeshare.com.au/>`_ and `oBike <https://www.o.bike/>`_.
+Melbourne has bike sharing services available: `Melbourne bike share <https://www.melbournebikeshare.com.au/>`.
 
 You will need to provide your own bike helmet as they are compulsory: there are
 retailers near bike sharing stations that will `sell you a helmet
