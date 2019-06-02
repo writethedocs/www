@@ -49,9 +49,8 @@ easy to get around the CBD.
 
 If you wish to travel beyond the CBD via tram, train or bus, you will need to
 purchase a Myki card ($6) from train stations, the visitors information centre
-at Federation Square, newsagencies and many 7/11 stores. Find your `nearest
-retail outlet
-<https://www.ptv.vic.gov.au/tickets/myki/buy-a-myki/myki-retail-outlets/>`_.
+at Federation Square, newsagencies and many 7/11 stores. Find out `where to get your Myki 
+<https://www.ptv.vic.gov.au/tickets/myki/buy-a-myki-and-top-up/where-to-buy-and-top-up/>`_.
 
 The cards need to be topped up with funds before travel, using either `myki
 Money or a myki Pass <https://www.ptv.vic.gov.au/tickets/myki/top-up-a-myki/>`_.
