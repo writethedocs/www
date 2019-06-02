@@ -8,8 +8,6 @@ It is a beautiful concert venue located in the `middle of downtown`_ Portland.
 It has been a wonderful venue for us the past 2 years,
 and we expect this to be another wonderful year.
 
-
-
 Accessibility
 ~~~~~~~~~~~~~
 
