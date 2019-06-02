@@ -276,7 +276,7 @@
   speakers:
   - name: Ingrid Towey
     slug: ingrid-towey
-    twitter: IngridTowey (TheWriteUX)
+    twitter: IngridTowey
     website: https://www.linkedin.com/in/ingridtowey/
   title: How to edit other people’s content without pissing them off
 - abstract: '<p>In 2017, I opened up a project of mine—a JavaScript-based countdown
@@ -401,7 +401,7 @@
   speakers:
   - name: ' Alicja Raszkowska'
     slug: alicja-raszkowska
-    twitter: 'Alicja: mamrotynka'
+    twitter: mamrotynka
     website: 'Alicja: https://trueskawka.github.io/blog/ '
   title: Draw the Docs
 - abstract: '<p>Though the concept of docs-driven development has been around for
