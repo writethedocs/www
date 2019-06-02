@@ -13,7 +13,7 @@ Recruitment:
 
 Shifts - Each volunteer is expected to take two or three shifts during the conference. Shift lengths range from three hours to 4 1/2 hours throughout the conference. Longer shifts are usually on Writing Day and for registration shifts.
 
-Code of Conduct - All volunteers must be familiar with the Code of Conduct (CoC) and be prepared to both answer questions regarding the CoC and to enforce the CoC when necessary.
+Code of Conduct - All volunteers must be familiar with the Code of Conduct (CoC) and be prepared to both answer questions regarding the CoC. In very rare cases, they may need to enforce the CoC, but generally reports should be escalated to the Code of Conduct response team.
 
 Volunteer Regular Duties
 ------------------------
@@ -25,6 +25,9 @@ Volunteer Regular Duties
 
 Emails to send
 --------------
+
+Before sending, fill in the template, and make sure the information is correct for the event.
+Some roles may not be relevant for the event, and should be removed.
 
 Welcome and Confirmation
 ~~~~~~~~~~~~~~~~~~~~~~~~
