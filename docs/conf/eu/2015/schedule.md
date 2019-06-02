@@ -151,8 +151,8 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   </tr>
   <tr>
     <td class="schedule-time">4:30 PM</td>
-    <td><a href="/conf/eu/2015/speakers/#speaker-fscholz">Gardening Open Docs</a> - Florian Scholz & Jean-Yves Perrier</td>
-  	<td>&nbsp;</td>
+    <td>Gardening Open Docs - Florian Scholz & Jean-Yves Perrier</td>
+  	<td></td>
 	<td>&nbsp;</td>
   </tr>
   <tr>
