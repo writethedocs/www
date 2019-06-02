@@ -41,7 +41,9 @@ REWRITE_FEED = False
 
 extensions = [
     'ablog',
+    'sphinx.ext.intersphinx',
     'sphinxcontrib.datatemplates',
+    'sphinxcontrib.spelling',
     'notfound.extension',
     'recommonmark',
 ]
