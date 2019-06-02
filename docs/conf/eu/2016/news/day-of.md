@@ -22,7 +22,7 @@ all in one place.
 If you want to keep in touch with us during the conference,
 [Slack](http://slack.writethedocs.org) or [Twitter](http://twitter.com/writethedocs) are the best ways.
 For anything Code of Conduct related,
-we have [personal phone numbers and email](https://www.writethedocs.org/code-of-conduct/#staff-contact-information) listed as well.
+we have [personal phone numbers and email](http://www.writethedocs.org/code-of-conduct/#reporting-and-contact-information) listed as well.
 
 See you soon!
 
