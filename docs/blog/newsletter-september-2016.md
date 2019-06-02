@@ -15,7 +15,7 @@ As part of that effort, we're sending you this, our inaugural edition of the new
 
 ```eval_rst
 
-.. note:: We know the #general channel is just one arena for docs talk. If  you see a conversation elsewhere on Slack (or Twitter or wherever) that would make good newsletter fodder, ping our editor, `Kelly O'Brien <https://www.writethedocs.org/team/#communication-team>`_.
+.. note:: We know the #general channel is just one arena for docs talk. If  you see a conversation elsewhere on Slack (or Twitter or wherever) that would make good newsletter fodder, ping our editor, `Kelly O'Brien <https://www.writethedocs.org/team/#newsletter-team>`_.
 
 ```
 

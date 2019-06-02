@@ -36,7 +36,7 @@ To help us with questions like the one above, Thursday Bram (@thursday) (one of 
 
 ## Writing and maintaining command reference pages
 
-On the technical side of things, early in the month a bunch of folks tackled the question of how best to put together command reference pages. (For example, [http://redis.io/commands](http://redis.io/commands), [https://wp-cli.org/commands/](https://wp-cli.org/commands/), or [https://drushcommands.com/](https://drushcommands.com/).)
+On the technical side of things, early in the month a bunch of folks tackled the question of how best to put together command reference pages. For example, take a look at [http://redis.io/commands](http://redis.io/commands), [https://developer.wordpress.org/cli/commands/](https://developer.wordpress.org/cli/commands/), or [https://drushcommands.com/](https://drushcommands.com/).
 
 One of the suggested approaches was to extract command messages in JSON format, then manually build a search and filter table on a static reference site. Although it might start out as a manual project, it's probably a process that could be automated, in the long run.
 
