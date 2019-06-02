@@ -134,7 +134,6 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">3:50 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-cward">Documenting your Story - Crafting a good presentation</a> - Chris Ward</td>
-  	<td></td>
 	<td>&nbsp;</td>
   </tr>
   <tr>
