@@ -220,7 +220,6 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">11:30 AM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-ecaine">How to Write an Email</a> - Elijah Caine</td>
-  	<td></td>
 	<td>&nbsp;</td>
   </tr>
   <tr>
