@@ -269,7 +269,7 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">3:00 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-ajaruga">The quest for scientific credit for software documentation</a> - Anna Jaruga</td>
-  	<td><a href="http://www.igf.fuw.edu.pl/~ajaruga/talks/Jaruga_WTD_2015.pdf">Slides</a><td>
+  	<td><td>
 	<td>&nbsp;</td>
   </tr>
   <tr>
