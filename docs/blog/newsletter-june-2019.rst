@@ -7,7 +7,7 @@ Write the Docs Newsletter – June 2019
 
 Hello friends! It's Beth and the newsletter team here. Summer is here and so is the June edition of the newsletter. It's absolutely packed this month, so I'm going to keep this intro brief!
 
-`Portland </conf/portland/2019/news/thanks-recap/>`__ has just wrapped up - see our first article for more on that - and `Vilnius </conf/vilnius/2019/news/welcome-get-ready/>`__ is just finishing as I write. I am super excited about `Prague </conf/prague/2019/>`__ coming up in September, and can't wait to see you all in Prague; keep an eye out, as the speaker announcements should be coming in the next month or so.
+`Portland </conf/portland/2019/news/thanks-recap/>`__ has just wrapped up - see our first article for more on that - and `Vilnius </conf/vilnius/2019/news/welcome-get-ready/>`__ is just finishing as I write. I am super excited about `Prague </conf/prague/2019/>`__ coming up in September, and can't wait to see you all there; keep an eye out, as the speaker announcements should be coming in the next month or so.
 
 Onto the articles we've gathered from Slack this month!
 
@@ -26,7 +26,7 @@ Many people have been keeping the Portland conference spirit alive by posting wr
 Facilitating top-notch doc review
 ---------------------------------
 
-It's not all conference news - there's been plenty of great discussion recently, and one hot topic was doc review. First up: what are good tactics for educating colleagues about it and making the process more effective?
+Moving on from conference chat, there's been plenty of great discussion recently, and one hot topic was doc review. First up: what are good tactics for educating colleagues about it and making the process more effective?
 
 - If your company runs lightning talks, give one! Talk about doc review, writing skills, or authoring tools.
 - Describe doc review in ways developers can relate to. Present it as the documentation equivalent of code review or link it to programming approaches like simplicity over complexity.
@@ -72,14 +72,11 @@ Continue the discussion in `#managing-writers <https://writethedocs.slack.com/me
 Order from chaos, or, a conversation about docs cleanup
 -------------------------------------------------------
 
-One generous WtD Slacker shared a blog post they'd written about getting started with organizing and curating doc sets, and the post generated a chorus of thanks and expressions of shared struggle. One notable piece of advice was to seek out and make public the often-hidden or kept-private stashes of information that individuals in a company invariably gather. Here's the blog post:
-
-https://medium.com/@brooke.wayne/how-to-organize-your-docs-bd797c616b48
+One generous WtD-er shared a blog post they'd written about organizing and curating doc sets, and the post generated a chorus of thanks and expressions of shared struggle. One notable piece of advice was to seek out and make public the often-hidden or kept-private stashes of information that individuals in a company invariably gather. Here's the blog post: https://medium.com/@brooke.wayne/how-to-organize-your-docs-bd797c616b48
 
 Over the years, this has been a really popular topic at Write the Docs conferences. If it's a problem you're interested, there's an embarassment of riches for you in the video archives:
 
-- `What can brownfield do for you? </videos/na/2015/what-can-brownfield-do-for-you-mnishiyama>`__ - 
-Mo Nishiyama, Portland 2015
+- `What can brownfield do for you? </videos/na/2015/what-can-brownfield-do-for-you-mnishiyama>`__ - Mo Nishiyama, Portland 2015
 - `User-story driven docs </videos/na/2015/user-story-driven-docs-jfernandes>`__ - Joao Fernandes, Portland 2015
 - `MacGyvering your docs </videos/eu/2015/macgyvering-your-docs-proeland>`__ - Paul Roeland, Prague 2015
 - `Bootstrapping docs at a startup </videos/na/2017/bootstrapping-docs-at-a-startup-jesse-seldess>`__ - 
@@ -94,8 +91,17 @@ Jesse Seldess, Portland 2017
 DITA vs docs-as-code
 --------------------
 
-TODO last bit.
+Our final discussion this month comes from a community question about what the differences are between docs-as-code and DITA. The short answer is that docs-as-code is a practice, whereas DITA is a tool and a format. So in theory, you could practise docs-as-code with DITA just as you would with markdown.
 
+However, it's not necessarily that straightforward. One issue is that if you chose to use DITA, you put a higher barrier to entry on non-tech-writer contributions: reading the XML isn't tricky, and licenses for tools can be expensive. You can help others review by publishing the content to PDF, but that may not be an ideal review format.
+
+The toolchains also generally differ. Typically, DITA uses a closed content management system and toolchain, whereas docs-as-code matches what developers use for their code.
+
+DITA also emphasizes certain features, like content reuse, that don't come out of the box with most docs-as-code tools. However, you can often add those features in - Tom Johnson's `blog series comparing DITA and Jekyll <https://idratherbewriting.com/2015/03/23/new-series-jekyll-versus-dita/>`__ discusses this. He warns that with lots of customisations, you risk locking yourself into a particular toolchain - but others pointed out that it's never "easy" to change docs systems anyway.
+
+Some people pointed out the ideological differences. A lot of the point of DITA is the structure, allowing sophisticated content re-use. Docs-as-code/markdown/SSGs don’t come with the same feature set because they sometimes no have structure at all, even to the point of being anti-structure.
+
+So while you can potentially unite the two, it's worth remembering that the philosophies underlying docs-as-code and DITA are quite different.
 
 ---------
 Job posts
@@ -121,16 +127,16 @@ Community events coming up
 
 - 4 June - Portland, OR, USA - `Post-conference reflections <https://www.meetup.com/Write-The-Docs-PDX/events/261551309/>`__
 - 6 June - Austin, TX, USA - `ATX lunch meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/261482933/>`__
-- 7 June - Moscow, Russia - `Positive user assistance content <https://www.meetup.com/Write-the-Docs-Moscow/events/261730553/>`__
+- 7 June - Moscow, Russia - `Positive user assistance content meetup <https://www.meetup.com/Write-the-Docs-Moscow/events/261730553/>`__
 - 8 June - Dublin, Ireland - `Social meetup over coffee <https://www.meetup.com/Write-The-Docs-Ireland/events/261828945/>`__
 - 12 June - Manchester, UK - `Becoming a self-employed tech writer  <https://www.meetup.com/Write-the-Docs-North/events/259954919/>`__
 - 12 June - Boulder, CO, USA - `Docs and drinks, daytime edition <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/261877716/>`__
 - 13 June - Paris, France - `Première rencontre  <https://www.meetup.com/Write-the-Docs-Paris/events/260964602/>`__
 - 18 June - Austin, TX, USA - `Collaborative doc contribution using GitHub <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/261870563/>`__
 - 19 June - Toronto, Canada - `Accessibility in documentation <https://www.meetup.com/Write-the-Docs-Toronto/events/pcqbmqyzjbzb/>`__
-- 20 June - Indianapolis, USA - `June roundtable <https://www.meetup.com/Write-the-Docs-Indy/events/261139366/>`__
+- 20 June - Indianapolis, IN, USA - `June roundtable <https://www.meetup.com/Write-the-Docs-Indy/events/261139366/>`__
 - 20 June - Los Angeles, CA, USA - `Food, drinks, docs, Python! <https://www.meetup.com/Write-the-Docs-LA/events/261957910/>`__
 - 20 June - Boise, ID, USA - `June meetup <https://www.meetup.com/Write-the-Docs-Boise/events/260928638/>`__
 - 25 June - Ottawa, Canada - `WTD Ottawa Shopify meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyzjbpb/>`__
 - 4 July - Melbourne, Australia - `Documenting API dev portals <https://www.meetup.com/Write-the-Docs-Australia/events/261792791/>`__
-- 5 July - London, UK - `Write the Docs Prague talk previews <https://www.meetup.com/Write-The-Docs-London/events/261893453/>`__
+- 10 July - London, UK - `Write the Docs Prague talk previews <https://www.meetup.com/Write-The-Docs-London/events/261893453/>`__
