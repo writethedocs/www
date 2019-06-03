@@ -12,5 +12,4 @@ Interviews
 .. toctree::
    :maxdepth: 2
 
-    community-spotlight/index.rst
     interviews/interview-ravind-kumar
