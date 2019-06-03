@@ -7,7 +7,7 @@ Write the Docs Newsletter – June 2019
 
 Hello friends! It's Beth and the newsletter team here. Summer is here and so is the June edition of the newsletter. It's absolutely packed this month, so I'm going to keep this intro brief!
 
-`Portland </conf/portland/2019/news/thanks-recap/>`__ has just wrapped up - scroll down for more - and `Vilnius </conf/vilnius/2019/news/welcome-get-ready/>`__ is just finishing as I write. I am super excited about `Prague </conf/prague/2019/>`__ coming up in September, and can't wait to see you all in Prague; keep an eye out, as the speaker announcements should be coming in the next month or so.
+`Portland </conf/portland/2019/news/thanks-recap/>`__ has just wrapped up - see our first article for more on that - and `Vilnius </conf/vilnius/2019/news/welcome-get-ready/>`__ is just finishing as I write. I am super excited about `Prague </conf/prague/2019/>`__ coming up in September, and can't wait to see you all in Prague; keep an eye out, as the speaker announcements should be coming in the next month or so.
 
 Onto the articles we've gathered from Slack this month!
 
@@ -28,19 +28,19 @@ Facilitating top-notch doc review
 
 It's not all conference news - there's been plenty of great discussion recently, and one hot topic was doc review. First up: what are good tactics for educating colleagues about it and making the process more effective?
 
-* If your company runs lightning talks, give one! Talk about doc review, writing skills, or authoring tools.
-* Describe doc review in ways developers can relate to. Present it as the documentation equivalent of code review or link it to programming approaches like simplicity over complexity.
-* Be specific in feedback requests. Instead of asking for general reviews of entire documents - vague requests can be overwhelming - try "Can you review these 5 code samples for syntax?" or "Are the use cases accurate? Am I missing any?" 
-* Thoughtfulness pays: avoid phrasing your requests as demands. Consider your words as carefully for your coworkers as you do for your readers.
-* Highlight sections that you know need the most help: "I'm not confident about this section because I had to extrapolate from incomplete information. What did I get wrong here?"
-* Welcome all feedback with enthusiasm and gratitude. Use every opportunity to emphasize that good documentation is a team effort. And let people know when their feedback is incorporated, so they know they made a difference!
+- If your company runs lightning talks, give one! Talk about doc review, writing skills, or authoring tools.
+- Describe doc review in ways developers can relate to. Present it as the documentation equivalent of code review or link it to programming approaches like simplicity over complexity.
+- Be specific in feedback requests. Instead of asking for general reviews of entire documents - vague requests can be overwhelming - try "Can you review these 5 code samples for syntax?" or "Are the use cases accurate? Am I missing any?" 
+-  Thoughtfulness pays: avoid phrasing your requests as demands. Consider your words as carefully for your coworkers as you do for your readers.
+- Highlight sections that you know need the most help: "I'm not confident about this section because I had to extrapolate from incomplete information. What did I get wrong here?"
+- Welcome all feedback with enthusiasm and gratitude. Use every opportunity to emphasize that good documentation is a team effort. And let people know when their feedback is incorporated, so they know they made a difference!
 
 As for tools and methods, it seems everyone has a different workflow!
 
-* Some use a `Headless CMS <https://headlesscms.org/>`_ or browser-based CMS like Paligo. Some tools have direct commenting features. Others create a Git PR from a draft, which opens up other commenting features (depending on the Git client).
-* `hypothesis.is <https://web.hypothes.is/>`_ allows commenting directly on web pages.
-* Dropbox Paper is useful for drafting content and granular commenting. It also exports to Markdown for publishing in other tools.
-* Some also collect feedback using Trello cards and Jira tickets.
+- Some use a `Headless CMS <https://headlesscms.org/>`_ or browser-based CMS like Paligo. Some tools have direct commenting features. Others create a Git PR from a draft, which opens up other commenting features (depending on the Git client).
+- `hypothesis.is <https://web.hypothes.is/>`_ allows commenting directly on web pages.
+- Dropbox Paper is useful for drafting content and granular commenting. It also exports to Markdown for publishing in other tools.
+- Some also collect feedback using Trello cards and Jira tickets.
 
 ----------------------------
 Running objective interviews
@@ -50,23 +50,23 @@ Our Slack community enjoyed a lively discussion on how to maintain objectivity d
 
 There's much more to unpack about this topic than we can cover in just one newsletter article, so here are some of this month's tips:
 
-* Recognize that interview methods are flawed and rife with bias, and work to do better.
-* The number of managers on a hiring panel matters less than the diversity of those managers, but both may help lessen bias on the panel.
-* If you can, consider introducing (as far as possible) a "blinded" interview process.
-* Consider training on how to be more aware of your biases.
-* Ask the questions you want the answers to.
-* Consider the subtext of questions that you do ask.
-* Exercise-based interviews can provide more relevant interactions with candidates than resumes and curated writing samples.
+- Recognize that interview methods are flawed and rife with bias, and work to do better.
+- The number of managers on a hiring panel matters less than the diversity of those managers, but both may help lessen bias on the panel.
+- If you can, consider introducing (as far as possible) a "blinded" interview process.
+- Consider training on how to be more aware of your biases.
+- Ask the questions you want the answers to.
+- Consider the subtext of questions that you do ask.
+- Exercise-based interviews can provide more relevant interactions with candidates than resumes and curated writing samples.
 
 Documentarians recommended some reading related to this topic:
 
-* `reWork Guide: Use structure and criteria (Google) <https://rework.withgoogle.com/print/guides/5443632811212800/>`__
-* `Should You Trust Your Guy in Hiring Decisions <https://www.shrm.org/ResourcesAndTools/hr-topics/talent-acquisition/Pages/Trust-Your-Gut-Hiring-Decisions.aspx>`__
-* `Performance Based Interviewing <https://www.va.gov/pbi/>`__
-* `How We're Fighting Unconscious Bias <https://www.cockroachlabs.com/blog/fighting-unconscious-bias-cockroach-labs/>`__
-* `The problem with hiring for 'culture fit' <https://resources.workable.com/blog/company-culture-fit>`_
+- `reWork Guide: Use structure and criteria <https://rework.withgoogle.com/print/guides/5443632811212800/>`__
+- `Should You Trust Your Guy in Hiring Decisions <https://www.shrm.org/ResourcesAndTools/hr-topics/talent-acquisition/Pages/Trust-Your-Gut-Hiring-Decisions.aspx>`__
+- `Performance Based Interviewing <https://www.va.gov/pbi/>`__
+- `How We're Fighting Unconscious Bias <https://www.cockroachlabs.com/blog/fighting-unconscious-bias-cockroach-labs/>`__
+- `The problem with hiring for 'culture fit' <https://resources.workable.com/blog/company-culture-fit>`__
 
-Continue the discussion in `#managing-writers<https://writethedocs.slack.com/messages/C5G1SBQHL/>`_ or `#career-advice<https://writethedocs.slack.com/messages/C6ADX1YVA/>`_!
+Continue the discussion in `#managing-writers <https://writethedocs.slack.com/messages/C5G1SBQHL/>`__ or `#career-advice <https://writethedocs.slack.com/messages/C6ADX1YVA/>`__!
 
 -------------------------------------------------------
 Order from chaos, or, a conversation about docs cleanup
