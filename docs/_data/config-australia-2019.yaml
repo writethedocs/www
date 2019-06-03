@@ -76,7 +76,7 @@ flagcfp: True
 flaghassponsors: False
 flaghasschedule: False
 
-flagticketsonsale: False
+flagticketsonsale: True
 flaghashike: False
 flaghasboat: False
 flagvideos: False

@@ -14,6 +14,7 @@ Each ticket includes:
 
 * Entry to all conference events and activities
 * Tea, coffee and snacks
+* Entry to social event
 * Wi-fi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
 
