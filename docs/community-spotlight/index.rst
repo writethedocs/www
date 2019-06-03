@@ -13,4 +13,3 @@ Interviews
    :maxdepth: 2
 
     interviews/interview-ravind-kumar
-    docs/about/learning-resources 
