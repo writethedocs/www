@@ -1,4 +1,4 @@
-.. post:: June 2, 2019
+.. post:: June 4, 2019
    :tags: newsletter
 
 #####################################
@@ -114,8 +114,6 @@ Job posts
  Bloomberg, New York, full-time
 
 *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
-
-.. already featured last month: AWS Snr prog writer, AWS tech writer, Alexa prog writer, cockroach, MCG, AWS crypt writer, salesforce
 
 --------------------------
 Community events coming up
