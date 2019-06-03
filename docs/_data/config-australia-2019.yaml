@@ -70,7 +70,7 @@ cfp:
   ends: Wednesday, Aug 9th
   notification: Wednesday, Aug 30th
 
-flaglanding: True
+flaglanding: False
 flagspeakersannounced: False
 flagcfp: True
 flaghassponsors: False

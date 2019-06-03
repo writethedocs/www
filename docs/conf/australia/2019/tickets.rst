@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2019/assets/headers/venue.png
+:banner: _static/2018/assets/headers/venue.png
 
 Tickets
 =======
@@ -14,7 +14,7 @@ Each ticket includes:
 
 * Entry to all conference events and activities
 * Tea, coffee and snacks
-* Entry to social event
+* Entry to social event with light snacks and drinks
 * Wi-fi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
 
