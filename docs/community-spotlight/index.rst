@@ -12,4 +12,5 @@ Interviews
 .. toctree::
    :maxdepth: 2
 
-    interviews/interview-ravind-kumar
+   interviews/interview-ravind-kumar
+   community-spotlight/index
