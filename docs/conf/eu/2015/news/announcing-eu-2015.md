@@ -15,7 +15,7 @@ You can look forward to learning more about documentation systems, tech writing 
 Past talks have also covered such diverse topics as typography, empathy, and [Wabi-sabi][wabisabi].
 
 The main event takes place on August 31 - September 1 (Monday and Tuesday) from 9am to 6pm.
-Our venue, [Klub Lavka][klub-lavka], sits right [on the bank of the Vltava river](https://goo.gl/maps/OHjne), in the historical city center of Prague, overlooking the Charles bridge.
+Our venue, Klub Lavka, sits right [on the bank of the Vltava river](https://goo.gl/maps/OHjne), in the historical city center of Prague, overlooking the Charles bridge.
 
 ### Auxiliary Events
 
@@ -52,7 +52,6 @@ Start gathering your ideas and getting excited about another year of great talks
 
 
 [wabisabi]: http://en.wikipedia.org/wiki/Wabi-sabi
-[klub-lavka]: http://www.lavka.cz/en/
 [twitter]: https://twitter.com/writethedocs
-[mailing-list]: http://eepurl.com/I369L
+[mailing-list]: :doc: `/newsletter`
 [email-us]: mailto:sponsorship@writethedocs.org

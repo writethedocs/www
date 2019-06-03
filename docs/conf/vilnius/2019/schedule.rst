@@ -26,6 +26,13 @@ Get together with other documentarians and work on an open source project and le
 * **When**: **10:00-18:00**, doors & breakfast at 9:00.
 * **Details**: :doc:`Writing Day documentation sprints </conf/vilnius/2019/writing-day>`
 
+Social
+~~~~~~
+
+* **Where**: `Kas kas <https://goo.gl/maps/csDK16JPZwMeWvWv9>`_ (Islandijos g. 4)
+* **When**: 19:00-22:00
+* **Details:** Bring your badge!
+
 Monday, June 3
 --------------
 
@@ -44,7 +51,7 @@ The "main event" -- we'll have a variety of speakers on the stage sharing their 
 
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
-   :template: include/schedule2018.rst
+   :template: include/schedule2019.rst
    :include_context:
 
 {% else %}

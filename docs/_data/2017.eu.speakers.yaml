@@ -145,7 +145,7 @@
         name: Lauri Apple
         picture: lauri-apple.jpg
         slug: lauri-apple
-        twitter: lauritaapplez
+        twitter: Lauri_Apple
         website: https://github.com/LappleApple/feedmereadmes
     title: Telling a Great Story on GitHub
     year: 2017
@@ -215,9 +215,9 @@
 
         slug: cory-williamson-cardneau
         twitter: cory_will
-        website: http://cory.williamson-cardneau.com/
+        website: ''
     title: Sticks & Stones... Microaggressions & Inclusive Language at Work
-    slides: http://cory.williamson-cardneau.com/blog/inclusion-resources
+    slides: ''
     youtubeId: lXXuQQ9xtPc
     year: 2017
 -   abstract: "<p>How can you easily retrieve your (google) docs? How can you keep\

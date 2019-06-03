@@ -40,7 +40,7 @@ Demographics
 ============
 
 We hold two conferences yearly, one in Portland, USA in May, and one in
-Prague, Europe in September. Attendence is approximately 400 in the
+Prague, Europe in September. Attendance is approximately 400 in the
 USA and 250 in Europe, and we expect both conferences to sell out.  This year we are happy to launch a brand new event in Vilnius, Lithuania, in June, with an estimated capacity of 50 attendees.
 
 Our audience is made up of:
@@ -178,4 +178,4 @@ The small sponsorship table is a 6' table, and the large is two 6' tables. These
 How do I ship items?
 --------------------
 
-Prior to the event, if you'd like to ship swag, we will send you the mailing address **3 weeks** prior to the event. We can't recieve packages before that. Anything sent to us will be available at the venue on the day of the event.
+Prior to the event, if you'd like to ship swag, we will send you the mailing address **3 weeks** prior to the event. We can't receive packages before that. Anything sent to us will be available at the venue on the day of the event.

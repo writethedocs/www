@@ -38,13 +38,16 @@
   Time: '11:50'
   Slug: riona-macnamara
 - Duration: '75'
-  Session: Lunch (75 mins)
+  Session: Lunch (60 mins)
   Time: '12:05'
+- Duration: '15'
+  Session: "Behind the Scenes with Aaron and Vanessa"
+  Time: '1:05'
+- Duration: '30'
+  Session: Lightning Talks (30 mins) 
+  Time: '1:20'
 - Duration: '0'
   Session: "<b>Unconference Starts (Lola's Room)</b>"
-  Time: '1:20'
-- Duration: '30'
-  Session: Lightning Talks
   Time: '1:20'
 - Duration: '10'
   Session: Switch Speakers
@@ -69,6 +72,9 @@
     an organization'
   Slug: jodie-putrino
   Time: '3:20'
-- Duration: '20'
-  Session: Conference wraps with snacks
+- Duration: '10'
+  Session: Closing address
   Time: '3:50'
+- Duration: '20'
+  Session: "<b>Conference Ends</b> :("
+  Time: '4:00'

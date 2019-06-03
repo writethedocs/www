@@ -39,7 +39,7 @@ Demographics
 ============
 
 We hold two conferences yearly, one in Portland, USA in May, and one in
-Prague, Europe in September. Attendence is approximately 400 in the
+Prague, Europe in September. Attendance is approximately 400 in the
 USA and 300 in Europe, and we expect both conferences to sell out.
 
 Our audience is made up of:
