@@ -61,7 +61,7 @@ There's much more to unpack about this topic than we can cover in just one newsl
 Documentarians recommended some reading related to this topic:
 
 - `reWork Guide: Use structure and criteria <https://rework.withgoogle.com/print/guides/5443632811212800/>`__
-- `Should You Trust Your Guy in Hiring Decisions <https://www.shrm.org/ResourcesAndTools/hr-topics/talent-acquisition/Pages/Trust-Your-Gut-Hiring-Decisions.aspx>`__
+- `Should You Trust Your Gut in Hiring Decisions <https://www.shrm.org/ResourcesAndTools/hr-topics/talent-acquisition/Pages/Trust-Your-Gut-Hiring-Decisions.aspx>`__
 - `Performance Based Interviewing <https://www.va.gov/pbi/>`__
 - `How We're Fighting Unconscious Bias <https://www.cockroachlabs.com/blog/fighting-unconscious-bias-cockroach-labs/>`__
 - `The problem with hiring for 'culture fit' <https://resources.workable.com/blog/company-culture-fit>`__
@@ -74,7 +74,7 @@ Order from chaos, or, a conversation about docs cleanup
 
 One generous WtD-er shared a blog post they'd written about organizing and curating doc sets, and the post generated a chorus of thanks and expressions of shared struggle. One notable piece of advice was to seek out and make public the often-hidden or kept-private stashes of information that individuals in a company invariably gather. Here's the blog post: https://medium.com/@brooke.wayne/how-to-organize-your-docs-bd797c616b48
 
-Over the years, this has been a really popular topic at Write the Docs conferences. If it's a problem you're interested, there's an embarassment of riches for you in the video archives:
+Over the years, this has been a really popular topic at Write the Docs conferences. If it's a problem you're interested in, there's an embarassment of riches for you in the video archives:
 
 - `What can brownfield do for you? </videos/na/2015/what-can-brownfield-do-for-you-mnishiyama>`__ - Mo Nishiyama, Portland 2015
 - `User-story driven docs </videos/na/2015/user-story-driven-docs-jfernandes>`__ - Joao Fernandes, Portland 2015
