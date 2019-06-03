@@ -182,7 +182,7 @@ Lanyard
 Provide your branded lanyards for our badges. This makes your company name
 visible to each and every attendee at the conference!
 
-**$500**
+**$250**
 
 - **Logistics**: Sponsor is responsible for shipping lanyards to organizers at least two weeks before the event starts.
 
@@ -191,7 +191,7 @@ Inquiries
 
 Please direct all inquiries to our sponsorship team at:
 
-- sponsorship@writethedocs.org
+- australia@writethedocs.org
 
 
 .. _ticket: https://ti.to/writethedocs/write-the-docs-{{ shortcode }}-{{ year }}/
