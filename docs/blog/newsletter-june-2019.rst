@@ -5,15 +5,15 @@
 Write the Docs Newsletter – June 2019
 #####################################
 
-Hello friends! It's Beth and the newsletter team here. Summer is here and so is the June edition of the newsletter. It's absolutely packed this month, so I'm going to keep this intro brief!
+Hello friends, it's Beth and the newsletter team again! Summer is here and so is the June edition. It's absolutely packed this month, so I'm going to keep this intro brief.
 
 `Portland </conf/portland/2019/news/thanks-recap/>`__ has just wrapped up - see our first article for more on that - and `Vilnius </conf/vilnius/2019/news/welcome-get-ready/>`__ is just finishing as I write. I am super excited about `Prague </conf/prague/2019/>`__ coming up in September, and can't wait to see you all there; keep an eye out, as the speaker announcements should be coming in the next month or so.
 
 Onto the articles we've gathered from Slack this month!
 
---------------------------------
-Keep riding the conference wave!
---------------------------------
+-------------------------------
+Keep riding the conference wave
+-------------------------------
 
 Many people have been keeping the Portland conference spirit alive by posting writeups, reflections, and other resources. Here's what we caught:
 
