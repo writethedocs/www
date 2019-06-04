@@ -17,7 +17,7 @@ Keep riding the conference wave!
 
 Many people have been keeping the Portland conference spirit alive by posting writeups, reflections, and other resources. Here's what we caught:
 
-- `A list of resources put together by a generous community member <https://docs.google.com/document/d/18ARx_ybe4ZWc-go9zV8vf8Ivl-QofCpERMmjAugFKKM/edit>`__  (taken from Slack links and posts). Includes links to blog posts, writeups of API docs and inclusivity unconference sessions, resources for drawing docs, and much more.
+- `A list of resources put together by a generous community member <https://docs.google.com/document/d/18ARx_ybe4ZWc-go9zV8vf8Ivl-QofCpERMmjAugFKKM/edit>`__ (taken from Slack links and posts). Includes links to blog posts, writeups of API docs and inclusivity unconference sessions, resources for drawing docs, and much more.
 - `A twitter thread with a writeup of the unconference session on measuring success <https://twitter.com/smorewithface/status/1130607741951565824>`__.
 - `The Writing Day project on learning Git to contribute to the Write the Docs website <https://docs.google.com/document/d/17EP0P0Wy2iNIzgoS7IXSMQbhurZyyDo22laUE7UT2O4/edit>`__.
 - And of course, `all the talk videos </videos/portland/2019/>`__ are now live!
@@ -31,7 +31,7 @@ Moving on from conference chat, there's been plenty of great discussion recently
 - If your company runs lightning talks, give one! Talk about doc review, writing skills, or authoring tools.
 - Describe doc review in ways developers can relate to. Present it as the documentation equivalent of code review or link it to programming approaches like simplicity over complexity.
 - Be specific in feedback requests. Instead of asking for general reviews of entire documents - vague requests can be overwhelming - try "Can you review these 5 code samples for syntax?" or "Are the use cases accurate? Am I missing any?" 
--  Thoughtfulness pays: avoid phrasing your requests as demands. Consider your words as carefully for your coworkers as you do for your readers.
+- Thoughtfulness pays: avoid phrasing your requests as demands. Consider your words as carefully for your coworkers as you do for your readers.
 - Highlight sections that you know need the most help: "I'm not confident about this section because I had to extrapolate from incomplete information. What did I get wrong here?"
 - Welcome all feedback with enthusiasm and gratitude. Use every opportunity to emphasize that good documentation is a team effort. And let people know when their feedback is incorporated, so they know they made a difference!
 
@@ -93,7 +93,7 @@ DITA vs docs-as-code
 
 Our final discussion this month comes from a community question about what the differences are between docs-as-code and DITA. The short answer is that docs-as-code is a practice, whereas DITA is a tool and a format. So in theory, you could practise docs-as-code with DITA just as you would with markdown.
 
-However, it's not necessarily that straightforward. One issue is that if you chose to use DITA, you put a higher barrier to entry on non-tech-writer contributions: reading the XML isn't tricky, and licenses for tools can be expensive. You can help others review by publishing the content to PDF, but that may not be an ideal review format.
+However, it's not necessarily that straightforward. One issue is that if you chose to use DITA, you put a higher barrier to entry on non-tech-writer contributions: reading the XML is tricky, and licenses for tools can be expensive. You can help others review by publishing the content to PDF, but that may not be an ideal review format.
 
 The toolchains also generally differ. Typically, DITA uses a closed content management system and toolchain, whereas docs-as-code matches what developers use for their code.
 
@@ -129,14 +129,20 @@ Community events coming up
 - 6 June - Austin, TX, USA - `ATX lunch meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/261482933/>`__
 - 7 June - Moscow, Russia - `Positive user assistance content meetup <https://www.meetup.com/Write-the-Docs-Moscow/events/261730553/>`__
 - 8 June - Dublin, Ireland - `Social meetup over coffee <https://www.meetup.com/Write-The-Docs-Ireland/events/261828945/>`__
-- 12 June - Manchester, UK - `Becoming a self-employed tech writer  <https://www.meetup.com/Write-the-Docs-North/events/259954919/>`__
+- 12 June - Manchester, UK - `Becoming a self-employed tech writer <https://www.meetup.com/Write-the-Docs-North/events/259954919/>`__
 - 12 June - Boulder, CO, USA - `Docs and drinks, daytime edition <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/261877716/>`__
-- 13 June - Paris, France - `Première rencontre  <https://www.meetup.com/Write-the-Docs-Paris/events/260964602/>`__
+- 13 June - Paris, France - `Première rencontre <https://www.meetup.com/Write-the-Docs-Paris/events/260964602/>`__
+- 15 June - Bengaluru, India - `Open source documentation and getting started guide for APIs <https://www.meetup.com/Write-the-Docs-India/events/262000249/>`__
+- 17 June - Berlin, Germany - `Docs hack <https://www.meetup.com/Write-The-Docs-Berlin/events/hzmpsqyzjbwb/>`__
 - 18 June - Austin, TX, USA - `Collaborative doc contribution using GitHub <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/261870563/>`__
+- 18 June - Seattle, WA, USA - `Eastside morning social <https://www.meetup.com/Write-The-Docs-Seattle/events/261963321/>`__
 - 19 June - Toronto, Canada - `Accessibility in documentation <https://www.meetup.com/Write-the-Docs-Toronto/events/pcqbmqyzjbzb/>`__
+- 19 June - Karlsruhe, Germany - `Spock and AsciiDoc - a perfect match <https://www.meetup.com/Write-the-Docs-Karlsruhe/events/261826329/>`__
 - 20 June - Indianapolis, IN, USA - `June roundtable <https://www.meetup.com/Write-the-Docs-Indy/events/261139366/>`__
 - 20 June - Los Angeles, CA, USA - `Food, drinks, docs, Python! <https://www.meetup.com/Write-the-Docs-LA/events/261957910/>`__
 - 20 June - Boise, ID, USA - `June meetup <https://www.meetup.com/Write-the-Docs-Boise/events/260928638/>`__
 - 25 June - Ottawa, Canada - `WTD Ottawa Shopify meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyzjbpb/>`__
+- 25 June - San Francisco, CA, USA - `Lessons from documenting source code <https://www.meetup.com/Write-the-Docs-Bay-Area/events/262002555/>`__
+- 26 June - Denver, CO, USA - `Docs and drinks, daytime edition <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/258571755/>`__
 - 4 July - Melbourne, Australia - `Documenting API dev portals <https://www.meetup.com/Write-the-Docs-Australia/events/261792791/>`__
 - 10 July - London, UK - `Write the Docs Prague talk previews <https://www.meetup.com/Write-The-Docs-London/events/261893453/>`__
