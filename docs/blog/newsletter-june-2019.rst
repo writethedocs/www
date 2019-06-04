@@ -79,8 +79,7 @@ Over the years, this has been a really popular topic at Write the Docs conferenc
 - `What can brownfield do for you? </videos/na/2015/what-can-brownfield-do-for-you-mnishiyama>`__ - Mo Nishiyama, Portland 2015
 - `User-story driven docs </videos/na/2015/user-story-driven-docs-jfernandes>`__ - Joao Fernandes, Portland 2015
 - `MacGyvering your docs </videos/eu/2015/macgyvering-your-docs-proeland>`__ - Paul Roeland, Prague 2015
-- `Bootstrapping docs at a startup </videos/na/2017/bootstrapping-docs-at-a-startup-jesse-seldess>`__ - 
-Jesse Seldess, Portland 2017
+- `Bootstrapping docs at a startup </videos/na/2017/bootstrapping-docs-at-a-startup-jesse-seldess>`__ - Jesse Seldess, Portland 2017
 - `Backseat content strategy <https://www.youtube.com/watch?v=omwamA30e_Y&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=4>`__ - Laura Bailey, Australia 2018
 - `Where do I start? The art and practice of documentation triage </videos/portland/2018/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan>`__ - Neil Kaplan, Portland 2018
 - `How to tear down existing documentation and rewrite docs that actually work </videos/prague/2018/how-to-tear-down-existing-documentation-and-rewrite-docs-that-actually-work-alexandra-white>`__ - Alexandra White, Prague 2018
