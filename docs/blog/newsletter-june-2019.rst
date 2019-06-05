@@ -106,6 +106,9 @@ So while you can potentially unite the two, it's worth remembering that the phil
 Job posts
 ---------
 
+`Senior Technical Writer <https://jobs.writethedocs.org/job/124/senior-technical-writer/>`__
+ Gitlab, remote, full-time
+
 `Technical Writer - Software Engineering <https://jobs.writethedocs.org/job/118/technical-writer-software-engineering/>`__
  Google, Sunnyvale and elsewhere, full-time
 
