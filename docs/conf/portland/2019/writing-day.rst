@@ -39,7 +39,7 @@ Take advantage of AsciiDoc consultants and practitioners to get a head start on 
 
 **Learn docs-as-code basics**
 
-We reaize not every documentarian has a firm grasp of the docs-as-code approach, what makes it special, and the basic technical hurdles, such as understanding dynamic markup, using code editors, and managing source code with Git. Asciidoctor volunteers are happy to bring you up to speed on the broader docs-as-code approach, even if you don't already have an interest in AsciiDoc. We will meet you at your level and have exercises for learning the ins and outs of popular tools. 
+We realize not every documentarian has a firm grasp of the docs-as-code approach, what makes it special, and the basic technical hurdles, such as understanding dynamic markup, using code editors, and managing source code with Git. Asciidoctor volunteers are happy to bring you up to speed on the broader docs-as-code approach, even if you don't already have an interest in AsciiDoc. We will meet you at your level and have exercises for learning the ins and outs of popular tools. 
 
 We are maintaining a `GitHub project for all our Write the Docs programming <https://github.com/DocOps/wtd2019>`__. We would love to engage with you there, get feedback on our ideas, and hear how we can make Writing Day more successful for you!
 

@@ -32,6 +32,8 @@ buttons:
 #      link: /livestream
      - text: Browse the photos
        link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+     - text: Watch the videos!
+       link_absolute: /videos/portland/2019
   bottom:
     # - text: Sponsor the conference
     #  link: /sponsors/prospectus
@@ -47,6 +49,8 @@ buttons:
     #  link: /livestream
      - text: Browse the photos
        link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+     - text: Watch the videos!
+       link_absolute: /videos/portland/2019
 
 tickets:
   community:
@@ -170,7 +174,7 @@ flagticketsonsale: False
 flagspeakersannounced: True
 flaghasschedule: True
 flaghasshirts: True
-flagvideos: False
+flagvideos: True
 flaglivestreaming: False
 flagpostconf: True
 

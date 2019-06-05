@@ -168,6 +168,12 @@ Australia Code-of-Conduct Team
 
 .. include:: include/conf/au-coc.rst
 
+Vilnius Code-of-Conduct Team
+------------------------------
+
+.. include:: include/conf/vilnius-coc.rst
+
+
 Thanks
 ~~~~~~
 

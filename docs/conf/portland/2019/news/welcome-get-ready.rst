@@ -44,7 +44,7 @@ Share the love
 --------------
 
 * **Help the global community attend virtually.** Following the success of our pilot last year, we'll be streaming all the talks during the conference. You can share the `Live Streaming <http://www.writethedocs.org/conf/portland/2019/livestream/>`_ page with your fellow documentarians from around the world, and invite them to chat about the talks in the #live-streaming channel on Slack.
-* **Slack with your fellow documentarians.** Join our `Slack <https://writethedocs.org/slack/>`_ to coordinate dinners, ask questions, or share notes with fellow conference attendees.
+* **Slack with your fellow documentarians.** Join our `Slack <https://www.writethedocs.org/slack/>`_ to coordinate dinners, ask questions, or share notes with fellow conference attendees.
 * **Use the hash tag #writethedocs.** Twitter is a great way to communicate at events. If you arrive into Portland early and want to find others, use the hash tag `#writethedocs <https://twitter.com/search?q=%23writethedocs&src=tyah>`_ . We can point you to something good.
 
 Thanks again to our sponsors
