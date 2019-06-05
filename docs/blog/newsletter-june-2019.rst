@@ -118,6 +118,9 @@ Job posts
 `Technical Writer <https://jobs.writethedocs.org/job/123/technical-writer/>`__
  Bloomberg, New York, full-time
 
+`Senior Technical Writer <https://jobs.writethedocs.org/job/124/senior-technical-writer/>`__
+ GitLab, Remote, full-time
+
 *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
 --------------------------
