@@ -39,8 +39,6 @@ def main():
 
     relevant_results = {}
 
-    import ipdb
-    ipdb.set_trace()
     for meetup in meetups:
         # Substring the meetup.com and trailing slash. EWWW
         # print(m[23:-1])
