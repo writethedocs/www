@@ -7,7 +7,7 @@
   <div class="news-block">
     <div class="uk-container">
 
-      <h2 id="slides-and-videos">Slides and videos</h2>
+      <h2 id="slides">Speaker slides</h2>
       <section>
       <div class="content">
 
@@ -15,7 +15,7 @@
 
 .. datatemplate::
    :source: /_data/{{year}}.{{shortcode}}.speakers.yaml
-   :template: {{year}}/slides-and-videos.rst
+   :template: {{year}}/slides.rst
    :include_context:
 {% endif %}
 
