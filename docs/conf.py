@@ -30,18 +30,19 @@ exclude_patterns = [
 
 # Only build the videos on production, to speed up dev
 on_rtd = str(os.environ.get('READTHEDOCS')).lower() == 'true'
-on_netlify = str(os.environ.get('BUILD_VIDEOS')).lower() == 'true'
-on_travis = str(os.environ.get('TRAVIS')).lower() == 'true'
-if not on_rtd and not on_netlify and not on_travis:
+build_videos = str(os.environ.get('BUILD_VIDEOS')).lower() == 'true'
+if not on_rtd and not build_videos:
     print('EXCLUDING VIDEO PATHS. Video links will not work.')
     exclude_patterns.append('videos')
+    REWRITE_FEED = False
 else:
     print('BUILDING VIDEOS. All video links should work.')
-REWRITE_FEED = False
+    REWRITE_FEED = True
 
 extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
+    'notfound.extension',
     'recommonmark',
 ]
 blog_baseurl = 'https://www.writethedocs.org/'
@@ -131,10 +132,11 @@ html_context = {
     'conferences': load_conference_data(),
 }
 
+if build_videos:
+    from _ext.videos import main
+    html_context.update(main())
 
-from _ext.meetup_events import main
-html_context.update(main())
-
+notfound_no_urls_prefix = True
 
 def setup(app):
     # Set up our custom jinja filters
@@ -150,7 +152,7 @@ def setup(app):
     # Render HTML templates with proper HTML context
     app.connect('html-page-context', override_page_template)
 
-    if on_rtd or on_netlify or on_travis or REWRITE_FEED:
+    if on_rtd or build_videos or REWRITE_FEED:
         app.connect('build-finished', rewrite_atom_feed)
 
     app.add_directive('meetup-listing', MeetupListing)

@@ -6,6 +6,7 @@ Video Archive
    :maxdepth: 1
 
    au/*/index
+   australia/*/index
    eu/*/index
    na/*/index
    portland/*/index

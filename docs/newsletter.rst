@@ -67,6 +67,7 @@ and some topics are repeated if they fit into more than one category. Enjoy!
 Collaboration
 -------------
 
+- `Facilitating top-notch doc review </blog/newsletter-june-2019/#facilitating-top-notch-doc-review>`_
 - `Dealing with competing priorities </blog/newsletter-april-2019/#dealing-with-competing-priorities>`_
 - `Tips for lone writers starting from scratch </blog/newsletter-february-2019/#tips-for-lone-writers-starting-from-scratch>`_
 - `Helping project managers understand docs </blog/newsletter-june-2018/#helping-your-project-managers-understand-docs>`_
@@ -111,6 +112,7 @@ See also: helping others to write
 Specific writing questions
 --------------------------
 
+- `The variable fortunes of variable placeholders in docs </blog/newsletter-may-2019/#the-variable-fortunes-of-variable-placeholders-in-docs>`__
 - `Page length and user preference </blog/newsletter-april-2019/#page-length-and-user-preference>`_
 - `Grammar questions: possessives, punctuation in quotes, capitalisation </blog/newsletter-december-2018/#grammar-and-style-questions>`_
 - `Using imperatives </blog/newsletter-may-2018/#using-imperatives-in-documentation>`_
@@ -162,6 +164,8 @@ Applying for jobs
 Hiring documentarians
 ~~~~~~~~~~~~~~~~~~~~~
 
+- `Running objective interviews </blog/newsletter-june-2019/#running-objective-interviews>`_
+- `Developer to documentarian ratio </blog/newsletter-may-2019/#developer-to-documentarian-ratio>`_
 - `Hiring and getting hired guide </blog/newsletter-november-2018/#how-to-hire-a-documentarian>`_
 - `Hiring for technical background </blog/newsletter-december-2016/#hiring-for-technical-background>`_
 
@@ -204,6 +208,7 @@ Code snippets/samples
 Improving your docs
 -------------------
 
+- `Collecting and acting on user feedback </blog/newsletter-may-2019/#collecting-and-acting-on-user-feedback>`_
 - `Objectives and key results (OKRs) for documentation </blog/newsletter-march-2019/#objectives-and-key-results-okrs-for-documentation>`_
 - `Discovering user needs </blog/newsletter-december-2018/#discovering-user-needs>`_
 - `Gathering user feedback </blog/newsletter-november-2018/#getting-feedback-from-users>`_
@@ -220,6 +225,8 @@ Metrics
 Tools
 -----
 
+- `DITA vs docs-as-code </blog/newsletter-june-2019/#dita-vs-docs-as-code>`__
+- `Tips and tricks for producing video </blog/newsletter-may-2019/#tips-and-tricks-for-producing-videos>`__
 - `Moving to docs-as-code: static site generators </blog/newsletter-march-2019/#moving-to-docs-as-code-static-site-generators>`_
 - `Comparing static site generators </blog/newsletter-august-2018/#static-and-sites-and-generators-oh-my>`_
 - `Automated screenshot-taking </blog/newsletter-april-2018/#new-tool-to-try-out-automated-screenshots>`_
@@ -259,6 +266,7 @@ Docs as code
 
 See also: developer docs.
 
+- `DITA vs docs-as-code </blog/newsletter-june-2019/#dita-vs-docs-as-code>`__
 - `Moving to docs-as-code: static site generators </blog/newsletter-march-2019/#moving-to-docs-as-code-static-site-generators>`_
 - `Making docs maintainable </blog/newsletter-august-2017/#making-docs-maintainable>`_
 - `Versioning docs with docs as code </blog/newsletter-march-2018/#docs-as-code-and-its-discontents-versioning>`_
@@ -267,6 +275,7 @@ See also: developer docs.
 Information architecture
 ------------------------
 
+- `A conversation about docs cleanup </blog/newsletter-june-2019/#order-from-chaos-or-a-conversation-about-docs-cleanup>`_
 - `Information architecture resources </blog/newsletter-october-2018/#resources-for-planning-out-your-information-architecture>`_
 - `Tagging docs </blog/newsletter-march-2018/#the-whys-and-wherefores-of-tagging-docs>`_
 - `Navigation tabs for different audiences </blog/newsletter-february-2017/#pros-and-cons-of-using-tabbed-content-for-multiple-audiences>`_

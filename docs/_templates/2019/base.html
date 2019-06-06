@@ -72,7 +72,7 @@
         {% block footerhead %}
          {% if buttons is defined %} 
              {% for callout in buttons.bottom %}
-               <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/' + year|string + callout.link ) }}">{{ callout.text }}</a>
+               <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year|string + callout.link ) }}{% endif %}">{{ callout.text }}</a>
              {% endfor %}
          {% endif %}
         {% endblock %}
@@ -121,7 +121,7 @@
                         <a href="https://www.flickr.com/photos/writethedocs/">
                             <img src="{{ pathto('_static/2019/assets/icons/flickr-footer-white.svg', 1) }}">
                         </a>
-                        <a href="https://www.writethedocs.com/slack/">
+                        <a href="https://www.writethedocs.org/slack/">
                             <img src="{{ pathto('_static/2019/assets/icons/slack-footer-white.svg', 1) }}">
                         </a>
                     </div><!-- end footer icons list of  links -->

@@ -20,8 +20,8 @@ you find something good to eat:
    great resource for delightful food.
 -  Willamette Week's `Restaurant
    Guide <http://www.wweek.com/restaurants/>`__
--  Urban Spoon's `Best of
-   Portland <http://www.urbanspoon.com/c/24/Portland-restaurants.html>`__
+-  Zomato `Best of
+   Portland <https://www.zomato.com/portland>`__
 -  `Food Carts Portland <http://www.foodcartsportland.com/>`__
 
 Where to stay
