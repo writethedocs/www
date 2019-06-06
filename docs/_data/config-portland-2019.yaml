@@ -20,16 +20,37 @@ buttons:
     #  link: /sponsors/prospectus
     # - text: Submit a Talk
     #  link: /cfp
-    - text: Buy a Ticket!
-      link: /tickets
-    - text: See the talks!
-      link: /speakers
-    # - text: Prepare with the Welcome Wagon
-    #  link: /welcome-wagon
+    # - text: Buy a Ticket!
+    #   link: /tickets
+    # - text: See the talks!
+    #   link: /speakers
+#    - text: See the Schedule!
+#      link: /schedule
+    # - text: Welcome Wagon
+    #   link: /welcome-wagon
+#    - text: Watch the Live Stream
+#      link: /livestream
+     - text: Browse the photos
+       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+     - text: Watch the videos!
+       link_absolute: /videos/portland/2019
+  bottom:
+    # - text: Sponsor the conference
+    #  link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #  link: /cfp
+    # - text: Buy a Ticket!
+    #   link: /tickets
+#    - text: Prepare with the Welcome Wagon
+#      link: /welcome-wagon
+#    - text: See the schedule!
+#      link: /schedule
     # - text: Watch the Live Stream
     #  link: /livestream
-    # - text: Browse the photos
-    #  link: /livestream
+     - text: Browse the photos
+       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+     - text: Watch the videos!
+       link_absolute: /videos/portland/2019
 
 tickets:
   community:
@@ -84,6 +105,7 @@ about:
     You can find out more information about the venue and its accessibility on our :doc:`/conf/portland/2019/venue` page."
   location:
     "Crystal Ballroom located at 1332 W Burnside St"
+  photos: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
 
 cfp:
   url: https://docs.google.com/forms/d/e/1FAIpQLScCK5qIaRwmn2UouYvtxfrQk56r_X72aliVWLnoGKb69HZuug/viewform
@@ -129,11 +151,15 @@ sponsors:
       link: https://www.netlify.com/wtd
     - name: appian
       link: https://www.appian.com/
-    - name: opendevise
-      link: https://opendevise.com/
     - name: cockroachlabs
       link: https://www.cockroachlabs.com/
+    - name: asciidoctor
+      link: https://asciidoctor.org/
+    - name: redocly
+      link: https://redoc.ly
   first:
+    - name: support-driven
+      link: https://supportdriven.com
     - name: cncf
       link: https://www.cncf.io
     - name: stickermule
@@ -144,13 +170,14 @@ sponsors:
 flaglanding: False
 flaghassponsors: True
 flagcfp: False
-flagticketsonsale: True
+flagticketsonsale: False
 flagspeakersannounced: True
-flaghasschedule: False
-flagvideos: False
+flaghasschedule: True
+flaghasshirts: True
+flagvideos: True
 flaglivestreaming: False
+flagpostconf: True
 
 # Truthy things that don't change
 flaghashike: True
-flaghasshirts: False
 flaghasboat: False

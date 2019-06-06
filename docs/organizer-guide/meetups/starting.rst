@@ -173,7 +173,7 @@ Topics:
 The following are examples of topics that have worked well for other meetups:
 
 * API docs
-* Contibuting to OSS
+* Contributing to OSS
 * Easy entry to OSS
 * Navigating career path (different sectors of tech writing)
 * Sketchnoting as documentation

@@ -42,6 +42,7 @@ else:
 extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
+    'notfound.extension',
     'recommonmark',
 ]
 blog_baseurl = 'https://www.writethedocs.org/'
@@ -134,6 +135,8 @@ html_context = {
 if build_videos:
     from _ext.videos import main
     html_context.update(main())
+
+notfound_no_urls_prefix = True
 
 
 def setup(app):

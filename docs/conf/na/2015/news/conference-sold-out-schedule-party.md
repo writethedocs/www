@@ -31,7 +31,7 @@ Party Venue
 -----------
 
 The conference party on Monday night will be held at TILT,
-where we have rented out a full side of the restaraunt.
+where we have rented out a full side of the restaurant.
 **Party time is from 7pm-11pm**, so make sure to come!
 
 [TILT](http://www.tiltitup.com/) is located at 1355 NW Everett St,

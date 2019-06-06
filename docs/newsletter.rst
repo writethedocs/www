@@ -3,12 +3,12 @@ Newsletter & Mailing lists
 
 Write the Docs publishes a regular newsletter. Each month we pack a bunch of
 interesting information that has been shared in our Slack network into the
-newsletter. You can see previous versions in our `newsletter archives
-</blog/archive/tag/newsletter/>`_, or see the `index <#index-of-newsletter-topics>`_
-below.
+newsletter. The primary links you need are:
 
-You can also subscribe to our North American and European Conference mailing
-to stay up-to-date on upcoming conferences.
+* Our full `newsletter archives </blog/archive/tag/newsletter/>`__ 
+* Our `index <#index-of-newsletter-topics>`__ which sorts our writing by topic 
+
+You can also subscribe to our Conference mailing lists to stay up-to-date on upcoming events.
 
 If you have any questions or want to contribute to the newsletter, go ahead and email us at `newsletter@writethedocs.org
 <mailto:newsletter@writethedocs.org>`_.
@@ -23,35 +23,40 @@ which go to specific lists:
 
 .. raw :: html
 
-  <!-- Begin MailChimp Signup Form -->
-  <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-  <div id="mc_embed_signup">
-  <form action="//writethedocs.us6.list-manage.com/subscribe/post?u=94377ea46d8b176a11a325d03&amp;id=dcf0ed349b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-      <div id="mc_embed_signup_scroll">
-  <div class="mc-field-group">
-      <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-  </label>
+    <!-- Begin Mailchimp Signup Form -->
+    <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+      #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+      /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+         We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+    </style>
+    <div id="mc_embed_signup">
+    <form action="https://writethedocs.us6.list-manage.com/subscribe/post?u=94377ea46d8b176a11a325d03&amp;id=dcf0ed349b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+      
+    <div class="mc-field-group">
+      <label for="mce-EMAIL">Email Address </label>
       <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-  </div>
-  <div class="mc-field-group input-group">
-      <strong>What types of updates would you like? </strong>
-      <ul><li><input type="checkbox" value="1" name="group[14633][1]" id="mce-group[14633]-14633-0" checked><label for="mce-group[14633]-14633-0">Monthly Community Newsletter</label></li>
-      <li><input type="checkbox" value="2" name="group[14633][2]" id="mce-group[14633]-14633-1"><label for="mce-group[14633]-14633-1">North American Conference Announcements</label></li>
-      <li><input type="checkbox" value="4" name="group[14633][4]" id="mce-group[14633]-14633-2"><label for="mce-group[14633]-14633-2">European Conference Announcements</label></li>
-  </ul>
-  </div>
+    </div>
+    <div class="mc-field-group input-group">
+        <ul><li><input type="checkbox" value="1" name="group[14633][1]" id="mce-group[14633]-14633-0" checked><label for="mce-group[14633]-14633-0">Monthly Community Newsletter</label></li>
+    <li><input type="checkbox" value="2" name="group[14633][2]" id="mce-group[14633]-14633-1"><label for="mce-group[14633]-14633-1">North American Conference Announcements</label></li>
+    <li><input type="checkbox" value="4" name="group[14633][4]" id="mce-group[14633]-14633-2"><label for="mce-group[14633]-14633-2">European Conference Announcements</label></li>
+    <li><input type="checkbox" value="8" name="group[14633][8]" id="mce-group[14633]-14633-3"><label for="mce-group[14633]-14633-3">Australian Conference Announcements</label></li>
+    </ul>
+    </div>
       <div id="mce-responses" class="clear">
-          <div class="response" id="mce-error-response" style="display:none"></div>
-          <div class="response" id="mce-success-response" style="display:none"></div>
+        <div class="response" id="mce-error-response" style="display:none"></div>
+        <div class="response" id="mce-success-response" style="display:none"></div>
       </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_94377ea46d8b176a11a325d03_dcf0ed349b" tabindex="-1" value=""></div>
-      <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-      </div>
-  </form>
-  </div>
-  <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-  <!--End mc_embed_signup-->
-  <hr>
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_94377ea46d8b176a11a325d03_dcf0ed349b" tabindex="-1" value=""></div>
+        <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+        </div>
+    </form>
+    </div>
+
+    <!--End mc_embed_signup-->
+   <hr>
 
 Index of Newsletter Topics
 --------------------------
@@ -62,6 +67,8 @@ and some topics are repeated if they fit into more than one category. Enjoy!
 Collaboration
 -------------
 
+- `Facilitating top-notch doc review </blog/newsletter-june-2019/#facilitating-top-notch-doc-review>`_
+- `Dealing with competing priorities </blog/newsletter-april-2019/#dealing-with-competing-priorities>`_
 - `Tips for lone writers starting from scratch </blog/newsletter-february-2019/#tips-for-lone-writers-starting-from-scratch>`_
 - `Helping project managers understand docs </blog/newsletter-june-2018/#helping-your-project-managers-understand-docs>`_
 - `Common misconceptions about docs </blog/newsletter-august-2018/#common-misconceptions-about-documentation>`_
@@ -105,6 +112,8 @@ See also: helping others to write
 Specific writing questions
 --------------------------
 
+- `The variable fortunes of variable placeholders in docs </blog/newsletter-may-2019/#the-variable-fortunes-of-variable-placeholders-in-docs>`__
+- `Page length and user preference </blog/newsletter-april-2019/#page-length-and-user-preference>`_
 - `Grammar questions: possessives, punctuation in quotes, capitalisation </blog/newsletter-december-2018/#grammar-and-style-questions>`_
 - `Using imperatives </blog/newsletter-may-2018/#using-imperatives-in-documentation>`_
 - `Page vs screen </blog/newsletter-august-2018/#in-the-time-of-web-based-applications-what-is-a-page-and-what-is-a-screen>`_
@@ -155,6 +164,8 @@ Applying for jobs
 Hiring documentarians
 ~~~~~~~~~~~~~~~~~~~~~
 
+- `Running objective interviews </blog/newsletter-june-2019/#running-objective-interviews>`_
+- `Developer to documentarian ratio </blog/newsletter-may-2019/#developer-to-documentarian-ratio>`_
 - `Hiring and getting hired guide </blog/newsletter-november-2018/#how-to-hire-a-documentarian>`_
 - `Hiring for technical background </blog/newsletter-december-2016/#hiring-for-technical-background>`_
 
@@ -172,6 +183,7 @@ Career growth
 Developer docs
 --------------
 
+- `Code comments and other musings on developer docs </blog/newsletter-april-2019/#what-s-in-a-code-comment-and-other-musings-on-developer-docs>`_
 - `READMEs and doc-driven development </blog/newsletter-august-2017/#readmes-and-doc-driven-development>`_
 - `Maintaining command reference pages </blog/newsletter-october-2016/#writing-and-maintaining-command-reference-pages>`_
 
@@ -196,6 +208,7 @@ Code snippets/samples
 Improving your docs
 -------------------
 
+- `Collecting and acting on user feedback </blog/newsletter-may-2019/#collecting-and-acting-on-user-feedback>`_
 - `Objectives and key results (OKRs) for documentation </blog/newsletter-march-2019/#objectives-and-key-results-okrs-for-documentation>`_
 - `Discovering user needs </blog/newsletter-december-2018/#discovering-user-needs>`_
 - `Gathering user feedback </blog/newsletter-november-2018/#getting-feedback-from-users>`_
@@ -212,6 +225,8 @@ Metrics
 Tools
 -----
 
+- `DITA vs docs-as-code </blog/newsletter-june-2019/#dita-vs-docs-as-code>`__
+- `Tips and tricks for producing video </blog/newsletter-may-2019/#tips-and-tricks-for-producing-videos>`__
 - `Moving to docs-as-code: static site generators </blog/newsletter-march-2019/#moving-to-docs-as-code-static-site-generators>`_
 - `Comparing static site generators </blog/newsletter-august-2018/#static-and-sites-and-generators-oh-my>`_
 - `Automated screenshot-taking </blog/newsletter-april-2018/#new-tool-to-try-out-automated-screenshots>`_
@@ -251,6 +266,7 @@ Docs as code
 
 See also: developer docs.
 
+- `DITA vs docs-as-code </blog/newsletter-june-2019/#dita-vs-docs-as-code>`__
 - `Moving to docs-as-code: static site generators </blog/newsletter-march-2019/#moving-to-docs-as-code-static-site-generators>`_
 - `Making docs maintainable </blog/newsletter-august-2017/#making-docs-maintainable>`_
 - `Versioning docs with docs as code </blog/newsletter-march-2018/#docs-as-code-and-its-discontents-versioning>`_
@@ -259,6 +275,7 @@ See also: developer docs.
 Information architecture
 ------------------------
 
+- `A conversation about docs cleanup </blog/newsletter-june-2019/#order-from-chaos-or-a-conversation-about-docs-cleanup>`_
 - `Information architecture resources </blog/newsletter-october-2018/#resources-for-planning-out-your-information-architecture>`_
 - `Tagging docs </blog/newsletter-march-2018/#the-whys-and-wherefores-of-tagging-docs>`_
 - `Navigation tabs for different audiences </blog/newsletter-february-2017/#pros-and-cons-of-using-tabbed-content-for-multiple-audiences>`_

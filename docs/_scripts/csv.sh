@@ -37,5 +37,11 @@
 
 # Prague 2018
 
-cat ~/Downloads/Prague\ Speakers\ \&\ Schedules\ -\ Speaker\ Schedule.csv | head -n 25 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/eu-2018-day-1.yaml
-cat ~/Downloads/Prague\ Speakers\ \&\ Schedules\ -\ Speaker\ Schedule.csv | tail -n 18 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/eu-2018-day-2.yaml
+# cat ~/Downloads/Prague\ Speakers\ \&\ Schedules\ -\ Speaker\ Schedule.csv | head -n 25 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/eu-2018-day-1.yaml
+# cat ~/Downloads/Prague\ Speakers\ \&\ Schedules\ -\ Speaker\ Schedule.csv | tail -n 18 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/eu-2018-day-2.yaml
+
+# Portland 2019
+
+cat cat ~/Downloads/Portland\ 2019\ Schedules\ -\ Writing\ Day.csv | csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/portland-2019-writing-day.yaml
+cat ~/Downloads/Portland\ 2019\ Schedules\ -\ Main\ Filled.csv | head -n 25 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/portland-2019-day-1.yaml
+cat ~/Downloads/Portland\ 2019\ Schedules\ -\ Main\ Filled.csv | tail -n 20 |csvjson -I -i 4 | python -c 'import sys, yaml, json; yaml.safe_dump(json.load(sys.stdin), sys.stdout, default_flow_style=False)' > ../_data/portland-2019-day-2.yaml
