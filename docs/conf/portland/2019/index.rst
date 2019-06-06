@@ -7,6 +7,30 @@
   <div class="news-block">
     <div class="uk-container">
 
+      <h2 id="slides-and-videos">Slides and videos</h2>
+      <section>
+      <div class="content">
+
+{% if flagspeakersannounced %}
+
+.. datatemplate::
+   :source: /_data/{{year}}.{{shortcode}}.speakers.yaml
+   :template: {{year}}/slides-and-videos.rst
+   :include_context:
+{% endif %}
+
+.. raw:: html
+
+      </div>
+      </section>
+    </div>
+    </div>
+
+.. raw:: html
+
+  <div class="news-block">
+    <div class="uk-container">
+
       <h2>Updates from the team</h2>
       <section>
       <div class="content">

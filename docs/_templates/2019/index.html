@@ -64,7 +64,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
 
         <div class="ctas-block">
 
-         {% if buttons is defined %} 
+         {% if buttons is defined %}
          {% for callout in buttons.top %}
            <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year|string + callout.link ) }}{% endif %}">{{ callout.text }}</a>
          {% endfor %}
@@ -81,7 +81,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
     <div class="uk-container">
       <p style="vertical-align: middle;">
         The {{ city}} {{year}} conference is now over.
-        Thanks for coming!
+        Thanks for coming! Check out the <a href="#slides-and-videos">slides and videos</a>.
       </p>
     </div>
   </div><!--- end announcement -->
