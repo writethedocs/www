@@ -60,6 +60,23 @@ sponsorship:
   writing_day:
     price: TBD
 
+sponsors:
+  keystone:
+  patron:
+  publisher:
+  second:
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+    - name: redhat
+      link: https://www.redhat.com/
+    - name: umbraco
+      link: https://umbraco.com/
+  first:
+    - name: buildkite
+      link: https://buildkite.com/
+    - name: cncf
+      link: https://www.cncf.io/
+
 date: # how do we handle these? human readable would be nice.
   main: "**September 15-17, 2019, in Prague, Czech Republic**"
   short: Sep 15-17, 2019

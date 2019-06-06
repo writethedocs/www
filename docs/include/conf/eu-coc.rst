@@ -1,7 +1,7 @@
 **Eric Holscher**
 
 * eric@writethedocs.org
-* +757 705 0532
+* +1-757-705-0532
 * slack: ericholscher
 
 **Mikey Ariel**

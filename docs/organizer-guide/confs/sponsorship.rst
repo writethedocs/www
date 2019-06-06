@@ -6,9 +6,9 @@ Sponsorships
 Write the Docs has a specific view around sponsorship.
 More concretely,
 we believe that the community comes first,
-and that sponsors are accomodated after that.
+and that sponsors are accommodated after that.
 
-Keeping this philsophy in mind will make the rest of this document make sense,
+Keeping this philosophy in mind will make the rest of this document make sense,
 as it's the root belief that everything stems from.
 
 Hard Rules
