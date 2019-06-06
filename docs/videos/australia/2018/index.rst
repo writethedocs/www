@@ -1,4 +1,4 @@
-Videos of Write the Docs EU 2015
+Videos of Write the Docs AUSTRALIA 2018
 =============================================================
 
 .. toctree::
@@ -8,5 +8,5 @@ Videos of Write the Docs EU 2015
    *
 
 .. datatemplate::
-   :source: /_data/2015.eu.speakers.yaml
+   :source: /_data/2018.australia.speakers.yaml
    :template: videos/video-listing.html
