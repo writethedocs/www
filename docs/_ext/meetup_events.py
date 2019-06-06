@@ -21,6 +21,7 @@ def load_yaml(path):
 def load_meetups():
     meetup_urls = []
     for yaml_file in glob.glob(os.path.join(PATH, '../_data/meetups/*.yaml')):
+        print('Loading meetup YAML: %s' % yaml_file)
         meetup = load_yaml(yaml_file)
         if 'website' not in meetup:
             pprint(meetup)
