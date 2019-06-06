@@ -1,4 +1,4 @@
-Sphinx==1.8.5
+Sphinx==1.8.5 # pyup: >=1.8,<1.9
 recommonmark==0.5.0
 ablog==0.9.4
 tox==3.7.0
