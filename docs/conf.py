@@ -134,10 +134,11 @@ html_context = {
 
 if build_videos:
     from _ext.videos import main
+    from _ext.meetup_events import main as meetup_main
     html_context.update(main())
+    html_context.update(meetup_main())
 
 notfound_no_urls_prefix = True
-
 
 def setup(app):
     # Set up our custom jinja filters
