@@ -41,12 +41,12 @@ date: # how do we handle these? human readable would be nice.
   month: November
   sat:
   day_one:
-    event: Talks/Unconference/Workshops
+    event: Talks/Workshops
     date: Nov 14
     summary: The first conference day, including talks, workshops, and unconference time.
     icon: conference
   day_two:
-    event: Talks/Unconference/Workshops
+    event: Talks/Workshops
     date: Nov 15
     summary: Another day of talks, unconference, workshops, and discussion time.
     icon: conversation
@@ -66,7 +66,7 @@ about:
     Police Court, Charge Room and Cells
 
 cfp:
-  url: https://forms.gle/DtTSTF8mJb56EkVp8
+  url: https://forms.gle/fBsmQ7CmeyEGq5zw5
   ends: Wednesday, Aug 9th
   notification: Wednesday, Aug 30th
 
