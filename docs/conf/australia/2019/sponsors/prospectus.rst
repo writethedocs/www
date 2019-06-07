@@ -95,7 +95,6 @@ and open source organizations.
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
 The **First Draft** package costs **{{sponsorship.first_draft.price}}**.
-You can buy it directly on our ticket website.
 
 Second Draft
 ------------

@@ -7,8 +7,6 @@ Schedule
 Write the Docs is more than a conference.
 Each year we organize a wide range of events so that people can come together, collaborate, and learn from each other in different ways.
 
-All conference events (except the social event) will be held at **Water Police Court and Charge Room/Cells, Justice and Police Museum, corner Albert and Phillip Streets, Circular Quay, Syhdney **.
-
 .. contents::
     :local:
     :depth: 1
