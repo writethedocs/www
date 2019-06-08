@@ -81,10 +81,9 @@ Members
 
 * `Rose Williams <https://twitter.com/ZelWms>`_ *
 * `Margaret Eker <https://twitter.com/meker>`_ *
-* `Mike Jang <https://twitter.com/TheMikeJang>`_ *
-* `Marybeth Alexander <https://twitter.com/knowledge_owl>`_
-* `Catherine Heath <https://twitter.com/awaywithwords2>`_
-* `Swapnil Ogale <https://twitter.com/swapnilogale>`_
+* `Mike Jang <https://twitter.com/TheMikeJang>`_ 
+* `Catherine Heath <https://twitter.com/awaywithwords2>`_ (EMEA)
+* `Swapnil Ogale <https://twitter.com/swapnilogale>`_ (APAC)
 * You?
 
 Guide Coordination Team
