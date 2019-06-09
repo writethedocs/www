@@ -14,7 +14,7 @@ Here are some tips for different cases:
 
 
 Tips for support agents wanting to start writing technical documentation
--------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 As a supporter, starting to write documentation can be challenging, although the two are related. In support, a user asks a question about a specific topic, which you then explain. In documentation, however, you have to come up with topics yourself and anticipate questions before they are asked. In addition to that, you also need to figure out who your expected audience is and make an assumption about their prior knowledge, whereas in support you get an idea of the user’s level of knowledge from their question. When writing documentation, you may have to cater to multiple audiences in the same article, or even split it up into multiple articles for beginners and more advanced users.
 
@@ -52,12 +52,12 @@ Consider these tips:
 * Collaborate
 
 Get the team on board
-~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
 
 It is important to remember that when you work in a separate role within a team, it does not separate you from the team. Even though you write, and they provide support, you still make up one team and are essential to each other. The better the documentation is, the fewer redundancies there are in tickets and calls coming in. This means that support will get less tickets, yes, but those tickets will contain challenging issues that really require their time and skills. This is a rewarding, symbiotic relationship. When they have meeting about issues, attend them. When you have doc issues, communicate about them with support. You can thrive as a team when you understand each other and the unique issues that each of you faces. 
 
 Simplify communication
-~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 When you are writing documentation full-time, you have little to no time to answer calls or respond to tickets. You are relying on your team to let you know about any issues that resurface enough to create a doc page or FAQ. However, they are busy too. Anyone with exposure to support work will know that it is a tough job that requires helping as many customers as you can in a single day while maintaining the highest satisfaction rating possible. The support team needs to be able to send you their issues quickly and efficiently.
 
@@ -70,7 +70,7 @@ There are several ways to do this:
 Find a solution that works best for your team, and don’t despair. If one solution does not work, move on to the next.
 
 Collaborate
-~~~~~~~~~~~~
+~~~~~~~~~~~
 
 When a member of your team assigns you a doc issue, give them partial ownership of that issue. Even though you are writing the doc, they should be the one to review it to ensure that you are answering the issue correctly and there are no gaps. And once they do that, show gratitude. Ensure your team knows how much the collaborative relationship is valuable to the documentation. Small things, like showing how many hits an article that was created from an assigned issue gets per month will help your team understand how valuable their contributions are, and it will encourage even more contributions. 
 
