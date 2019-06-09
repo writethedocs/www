@@ -66,7 +66,7 @@ So this year we are changing swag tactics, and instead of including shirts with 
 
 But have no fear, you can still get a shirt for your favorite conference! Over the next few weeks we will be setting up a print-on-demand campaign where you can order a shirt with this year's conference design, and anyone who orders by a certain date should receive their shirt in time for the conference.
 
-We will continue to print speaker and staff hoodies, since we can estimate sizing and quanitities much more accurately than we can with shirts. If you want to help organize one of our conferences, write to us at support@writethedocs.org and join the fun!
+We will continue to print speaker and staff hoodies, since we can estimate sizing and quantities much more accurately than we can with shirts. If you want to help organize one of our conferences, write to us at support@writethedocs.org and join the fun!
 
 Community-run events
 --------------------
