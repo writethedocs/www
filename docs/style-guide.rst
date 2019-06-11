@@ -1,10 +1,45 @@
+===========
 Style Guide
 ===========
 
 This document hopes to clarify the way we talk about the things we do.
 
-Write the Docs
---------------
+============================
+Part 1: Technical Formatting
+============================
+
+1.1 Naming conventions(files and folders)
+-----------------------------------------
+
+Files and folder names should be lowercase. Names with multiple words should be separated by hyphens(-).
+
+1.2 Links
+---------
+
+If you are cross-referencing to a different page within our website, use the doc directive and not a hyperlink.
+
+1.3 Website content (RST)
+---------------
+
+Our website uses mostly reStructured Text (RST) markup format. We still have some legacy content in Markdown but we try to retire it whenever we encounter it.
+
+===============
+Part 2: Content
+===============
+
+2.1 Naming conventions(titles)
+--------------------------
+
+For page titles, or Heading1 as they are sometimes called, we use title-case.
+
+If the page includes multiple sub-headings (H2, H3), we usually use sentence-case unless the titles include terminology that is supposed to be capitalized, such as "Writing Day".
+
+2.3 Jargon
+----------
+Specialized words and jargon should be used sparingly if possible. If jargon is necessary, please define the words so your reader won't have to search out for the meaning.
+
+2.4 Write the Docs(name in use)
+-------------------------------
 
 We are called **Write the Docs**.
 The *the* is not capitalized.
@@ -22,12 +57,12 @@ We do however use the acronym **WTD**.
 
     Bad::
 
-        I'm going to Write The Docs
+        I'm going to Write The Docs.
         What happened at WtD last year?
 
 
-Conferences
------------
+2.5 Conferences
+---------------
 
 At the beginning, there was but one *Write the Docs*.
 After that, we branched out to a *North American* and *European* set of conferences.
@@ -43,8 +78,8 @@ So our 2017 conferences are officially called:
 
     Good::
 
-        We have some announcements about Write the Docs Portland
-        Write the Docs Portland 2017 will be held again this year
+        We have some announcements about Write the Docs Portland.
+        Write the Docs Portland 2017 will be held again this year.
 
 
 .. container:: bad
@@ -52,28 +87,34 @@ So our 2017 conferences are officially called:
     Bad::
 
        Are you going to Write the Docs North America?
-       I heard that Write the Docs NA is great
+       I heard that Write the Docs NA is great.
 
+2.6 Inclusive Language
+----------------------
 
-Meetups
--------
+Gendered language should be avoided unless otherwise appropriate. And all content written for Write the Docs should be consistent with the :doc:`code of conduct. </code-of-conduct>`
+
+2.7 Meetups
+-----------
 
 We use one word to refer to our **meetups**, and it isn't capitalized unless used in a title.
 
-Titles
-------
+2.8 Numbers
+-----------
 
-For page titles, or Heading1 as they are sometimes called, we use title-case.
+Arabic numerals are generally used to represent numbers. Numbers 1-10 may also be spelled out. Large numbers should be separated with commas.
+ 
 
-If the page includes multiple sub-headings (H2, H3), we usually use sentence-case unless the titles include terminology that is supposed to be capitalized, such as "Writing Day".
+2.9 Abbreviations
+-----------------
+Abbreviations should generally be defined before use, especially abbreviations related to tools specialized concepts. Definitions for common abbreviations may also be necessary if their meanings aren't easily discernible to non-native English speakers.
 
-Website content
----------------
 
-Our website uses mostly reStructured Text (RST) markup format. We still have some legacy content in Markdown but we try to retire it whenever we encounter it.
 
-Here are some guidelines when writing RST content for the WTD website:
 
-* Use one-sentence-per-line and do not break sentences across multiple lines.
-* If you are cross-referencing to a different page within our website, use the doc directive and not a hyperlink.
-* If you are in doubt about how to tag titles, lists, or anything else, the :doc:`/about-us` is a good example for how we tag our content files.
+
+
+
+
+
+
