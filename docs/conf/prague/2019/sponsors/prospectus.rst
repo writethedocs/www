@@ -193,7 +193,7 @@ Lanyard
 
 Provide your branded lanyards for our badges. This makes your company name visible to each and every attendee at the conference!
 
-**{{sponsorship.lanyard.price}}**
+**{{sponsorship.second_draft.price}}**
 
 - **Logistics**: Sponsor is responsible for shipping lanyards to organizers at least two weeks before the event starts.
 
@@ -203,7 +203,7 @@ Writing Day
 Sponsor the Writing Day on Sunday, where we get together to help improve the documentation of many projects.
 This is great for any company that is looking for contributors to their open source projects.
 
-**{{sponsorship.writing_day.price}}**
+**{{sponsorship.second_draft.price}}**
 
 - **Logistics**: The Writing Day runs 10-5 on Sunday.
 
