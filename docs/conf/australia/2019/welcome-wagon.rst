@@ -205,7 +205,7 @@ Come find us and ask any questions, or just chat about the conference!
       .. figure:: /_static/img/crew/David.jpg
          :width: 100px
 
-         David   
+         David
 
 
 Thanks
