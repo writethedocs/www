@@ -45,19 +45,20 @@
                               </li>
                           </ul>
                         </li>
-                        <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/tickets') }}">Tickets</a></li>
+                        <li><a href="{{ pathto('conf/australia/2019/tickets') }}">Tickets</a></li>
                         <li>
                             <ul class="uk-navbar-nav">
                                 <li>
-                                    <a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/sponsors') }}">Sponsors</a>
+                                    <a href="{{ pathto('conf/australia/2019/sponsors') }}">Sponsors</a>
                                     <div class="uk-navbar-dropdown">
                                         <ul class="uk-nav uk-navbar-dropdown-nav">
-                                            <li><a href="/conf/australia/2019/sponsors/prospectus">Prospectus</a></li>
+                                            <li><a href="{{ pathto('conf/australia/2019/sponsors') }}">Our Sponsors</a></li>
+                                            <li><a href="{{ pathto('conf/australia/2019/sponsors/prospectus') }}">Prospectus</a></li>
                                         </ul>
                                     </div>
                                 </li>
                             </ul>
-                          </li>
+                          </li><!--- Parent element with it's children -->
 
                          {% if flagcfp %}
                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
