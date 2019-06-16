@@ -16,9 +16,15 @@ Swapnil Ogale
 {% include "bios/swapnil.rst" %}
 
 Michalina Ziemba
-~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
 
 {% include "bios/michalina.rst" %}
+
+Alexandra Perkins
+~~~~~~~~~~~~~~~~~~
+
+{% include "bios/alexandra.rst" %}
+
 
 Primary Roles
 -------------
