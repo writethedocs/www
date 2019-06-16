@@ -12,7 +12,7 @@ International flights arrive direct to `Sydney Airport <https://www.sydneyairpor
 **Flights**
 
 Sydney's international airport, `Kingsford Smith`_, provides access to many full service and low cost airlines, such as Qantas, Virgin, Jetstar and Tiger Airways.
-From the airport, it is an easy 250 minute taxi or shuttle bus ride (Redy2go) to the Sydney CBD.
+From the airport, it is an easy 25 minute taxi or shuttle bus ride (Redy2go) to the Sydney CBD.
 
 .. _Kingsford Smith: https://www.sydneyairport.com.au/
 
