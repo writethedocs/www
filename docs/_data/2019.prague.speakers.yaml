@@ -204,7 +204,7 @@
   - name: Arran Southall
     slug: arran-southall
     twitter: arran_writes
-    website: www.avaloq.com
+    website: http://www.avaloq.com
   title: 'Fostering Talent: Mentorship, Peer Reviews and Going Beyond Your Job Description'
 - abstract: '<p>The new privacy regulations that came into force in 2018 (GDPR in
     the EU, Data Protection Act in the UK, the USA data privacy laws following suit)
@@ -263,8 +263,8 @@
   speakers:
   - name: Plamena Maleva
     slug: plamena-maleva
-    twitter: '-'
-    website: '-'
+    twitter: ' '
+    website: ' '
   title: 'The Power of Empathy in Support Documentation: A 5-Step Guide'
 - abstract: '<p>Before getting into docs, I worked as a recording engineer in Manhattan''s
     studios—recording major artists. The writers, producers, and artists use a similar
@@ -391,7 +391,7 @@
   - name: James Scott
     slug: james-scott
     twitter: scottydocs
-    website: www.documenter.co.uk
+    website: http://www.documenter.co.uk
   title: How to write the perfect error message
 - abstract: '<h1>Intro section (about 5 minutes)</h1>
 
