@@ -1,0 +1,446 @@
+- abstract: '<p>Anyone who''s written documentation for a living knows that our jobs
+    are only, like, 50 percent writing, and 50 percent all the other stuff we have
+    to do to make that writing good. Long before we ever get a word on the proverbial
+    page, we spend ages getting our heads around our products and the underlying concepts
+    that shape them. But how often are those underlying concepts... kind of a mess?
+    And how much better would our lives be if we could help design our products so
+    they''re simpler, clearer, and easier to communicate to our users? </p>
+
+    <p>Welcome to the wonderful world of content design. Whether you''ve ever heard
+    of the discipline or not, it''s a safe bet that it already makes up a healthy
+    percentage of your work. In this talk we''re going to explore how all of the systems
+    thinking, narrative building, and language crafting you already do as documentarians
+    can make you an incredible asset to your product design team. </p>
+
+    <p>As two former docs folks who have made the jump to content design full time,
+    we''ll share the framework we use to communicate the value of our role on Intercom''s
+    product design team. You’ll come away with ideas for:
+
+    - how to get involved with the product design process as a documentarian
+
+    - how to communicate the value of your input to a variety of different disciplines
+
+    - and how to make the content design you''re already doing easier for people to
+    see, understand, and build upon</p>'
+  slug: surprise-youre-a-designer-now-kelly-obrien
+  speakers:
+  - name: Kelly O'Brien
+    slug: kelly-obrien
+    twitter: OBrienEditorial (Sam's not really on the twitterz)
+    website: ''
+  title: 'Surprise! You''re a designer now. '
+- abstract: '<p>In my talk, I intend to share my experience of working with employers,
+    educational institutions and fellow teammates to create a difference in the field
+    of technical writing in Nepal. Also, I will discuss how I was able to set up a
+    team of young technical writers, to keep them motivated, and to explain them the
+    possibilities of working globally.</p>
+
+    <p>Awareness of Technical Writing as a separate domain can come from three aspects:
+    employers, educational Institutions and the working people themselves. It is crucial
+    to create awareness about technical documentation in the educational institutions
+    as they are the "producers" of the future pool of professional writers.</p>
+
+    <p>It is essential for employers to understand that technical writing is a specific
+    domain and technical writers add value to companies by creating useful product
+    documentation. There is a need to change the general perspective that anybody
+    in the team can write. We need to understand the importance of customer-focussed
+    documentation.</p>'
+  slug: fostering-technical-writing-in-developing-nations-prerana-pradhan
+  speakers:
+  - name: Prerana Pradhan
+    slug: prerana-pradhan
+    twitter: preranapradhan
+    website: ''
+  title: Fostering Technical Writing in Developing Nations
+- abstract: "<p>Maybe you've always wondered what bridges poetry and tech writing,\
+    \ maybe you already know, or maybe you’re thinking about it now for the first\
+    \ time. In this talk, I will discuss how the two disciplines of poetry and technical\
+    \ writing are the Gemini twins of the Digital Age. As a lifelong student, reader,\
+    \ writer, and lover of all things poetry, I realized early in my academic career\
+    \ that poetry is what I wanted. I didn’t know how I wanted it, but I wanted it.\
+    \ When I was finally approached with the opportunity to be a Technical Writer,\
+    \ I knew it would be a good fit, but I never imagined the interdisciplinary overlap.\
+    \ As a Technical Writer of user documentation I bring poetry into my work every\
+    \ single day. I’m reminded of a poem, a poet, a writer, a theme, a purposeful\
+    \ misspelling, and I see a commonality. </p>\n<p>These are some of the similarities\
+    \ I’m reminded of the most, and what I’ll be presenting in my talk: \n•   Creatives\
+    \ &amp; Tech writers: Brief, biographical information on well-known creatives\
+    \ who were once Technical Writers. The list may include: Leonardo Da Vinci, Thomas\
+    \ Pynchon, George Saunders, and Amy Tan. \n•   Themes &amp; style guides: “The\
+    \ Crocodile” by Lewis Carroll and its adherence to a poetic theme. Both poetic\
+    \ themes and style guides are important tools for standardizing tone, diction,\
+    \ and organization for writers. \n•   Form &amp; structure “r-p-o-p-h-e-s-s-a-g-r”\
+    \ by e e cummings and the importance of form on a page. This poem uses negative\
+    \ space and unique formatting to add meaning to the content, while the structure\
+    \ of user documentation is vital to the content within any article. \n•   Poetry\
+    \ &amp; work: “Wild Geese” by Mary Oliver and the beauty of reality, making mistakes,\
+    \ and using your imagination to find your place “in the family of things”.</p>\n\
+    <p>This talk is for people who are interested in dissecting the similarities between\
+    \ poetry and technical writing, and who strive to keep their creative brains enabled\
+    \ in their daily work.</p>"
+  slug: wild-geeks-poetry-in-the-digital-age-ellie-farrier
+  speakers:
+  - name: Ellie Farrier
+    slug: ellie-farrier
+    twitter: ellieintherye
+    website: ''
+  title: 'Wild Geeks: Poetry in the Digital Age'
+- abstract: '<p>This talk proposes to discuss a recent experiment we at Onfido undertook
+    which took a novel approach: "write the docs before the API exists". </p>
+
+    <p>When I first got into software technical writing, I used to think that you
+    should include technical writers from the start of a project. That''s still a
+    common approach, but as I personally became a more experienced writer, I began
+    to find that projects very often changed—as they should, by design, in Agile development.
+    The upshot of that for me though was that much of my work on documentation ended
+    up being "sunk costs". </p>
+
+    <p>When drawing up our newest API at Onfido, I (by now a "quite technical" technical
+    writer) set out with a backend engineer to not only document it from the start,
+    but to actually assist in designing it—based on how I envisaged our customers
+    would review the documentation, test the API, and interact with it. </p>
+
+    <p>This talk will discuss the lessons we learned along the way, how well the experiment
+    worked, and more widely about how software technical writers can bring unique
+    expertise to not only write about, but help shape the direction of projects and
+    create the best possible developer experience. </p>'
+  slug: write-the-api-docs-before-the-api-exists-ben-ahmady
+  speakers:
+  - name: Ben Ahmady
+    slug: ben-ahmady
+    twitter: https://twitter.com/techwriterben
+    website: https://www.techwriterben.com/ (please note this is under construction,
+      but will be finished very soon)
+  title: '"Write the API docs before the API exists"'
+- abstract: '<p>Sometimes we get so caught up in making sure our docs are accurate,
+    up to date, and well written that we don''t have time to see how they look from
+    an outside perspective. In this talk, I''ll run through how you can gain valuable
+    insight into your docs by mapping the journeys of the people who use your docs.</p>
+
+    <p>Customer journey mapping provides a useful framework for thinking about how
+    users of your docs actually experience their interactions. It involves thinking
+    about how your docs fit within users'' work and what you can do to maximize their
+    good feelings when their journey touches your docs.</p>
+
+    <p>To give you a better idea of the process, I''ll present the example of what
+    we learned while mapping at Kentico Cloud. Our process was very useful for us
+    and consisted of several steps:
+
+    1. Gather information about who reads our docs.
+
+    2. Create personas for our readers.
+
+    3. Meet and go through the journey as each persona.
+
+    4. Act on the insights.</p>
+
+    <p>I hope that by seeing this example and what we gained from it, you''ll be able
+    to see how useful it can be to set aside time to try to see your docs from someone
+    else''s point of view.</p>'
+  slug: seeing-your-docs-through-different-eyes-mapping-doc-users-experiences-aaron-collier
+  speakers:
+  - name: Aaron Collier
+    slug: aaron-collier
+    twitter: ''
+    website: https://collier.cz/
+  title: 'Seeing your docs through different eyes: Mapping doc users'' experiences'
+- abstract: '<p>Just a few years ago, the UK’s Government Digital Service (GDS) didn’t
+    have a technical writing team. Documentation was often written by technologists
+    (if at all) and GDS teams were building so fast they had no choice but to cobble
+    docs together with a mix of tools and processes. </p>
+
+    <p>For users, this meant an inconsistent experience. For technologists, this meant
+    constant confusion about where and how to document things. And for newly-hired
+    technical writers, it meant learning a new toolset every time we moved teams.
+    So we decided we needed to overhaul the lot. </p>
+
+    <p>Three years on and GDS uses a docs as code approach for all our docs. We’ve
+    debated static site generators, wrangled legacy content, switched hosting options,
+    grappled git workflows, introduced and swiftly backtracked on features, and tested
+    repeatedly with our users. It’s not perfect, but we’ve learnt an awful lot along
+    the way. </p>
+
+    <p>This talk is the story of how docs as code has fundamentally changed the role
+    of documentation creators in government, how we side-stepped pitfalls and fell
+    head first into others and - if we had the chance - whether we’d do it all again.
+    </p>'
+  slug: the-uk-government-meets-docs-as-code-jen-lambourne
+  speakers:
+  - name: Jen Lambourne
+    slug: jen-lambourne
+    twitter: Jenny__Anne
+    website: ''
+  title: 'The UK government meets docs as code '
+- abstract: '<p>“Undertake continual professional development, mentor new or younger
+    employees and learn and implement new skills beyond your primary role.”</p>
+
+    <p>This is a sentence that few, or more likely none of us will find in our job
+    descriptions. This talk seeks to impress the importance of developing not only
+    yourself, but others, as a primary part of your job.</p>
+
+    <p>What incentive have we to remain in the same role or company if we are unable
+    to learn and use new skills? Why develop new competencies if we have no opportunity
+    to pass them onto the next generation? Why make ourselves vulnerable when we can
+    remain in our quiet, safe silos?</p>'
+  slug: fostering-talent-mentorship-peer-reviews-and-going-beyond-your-job-description-arran-southall
+  speakers:
+  - name: Arran Southall
+    slug: arran-southall
+    twitter: arran_writes
+    website: www.avaloq.com
+  title: 'Fostering Talent: Mentorship, Peer Reviews and Going Beyond Your Job Description'
+- abstract: '<p>TL;DR: This is a talk providing practical tips for enforcing better
+    compliance with data privacy regulations (GDPR, HIPAA, etc.), better user data
+    privacy, and “security by design” principles through the language and visual components
+    of documentation. </p>
+
+    <p>Long abstract: The new privacy regulations that came into force in 2018 (GDPR
+    in the EU, Data Protection Act in the UK, the USA data privacy laws following
+    suit) are not just about the software and data collection/protection. The “privacy
+    by design” principles mean that every aspect of software — including with documentation
+    — needs to be in line with the message of handling the users’ data with great
+    care.
+
+    We, as technical writers, can enforce the matters of better data privacy through
+    the language and visuals in the documentation portals and live sandboxes. Which
+    means better security. And which means clear and explicit consent forms, human
+    language in privacy policies, and buttons that do something the user actually
+    understands. Language is powerful. It is a tool that we can and should use it
+    to make the world a safer place.
+
+    The talk addresses the aspects and elements of software documentation that should
+    and be reconsidered and restyled in the light of new privacy policy regulations.</p>'
+  slug: disagree-with-i-agree-enforcing-better-data-privacy-through-the-language-of-documentation-karen-sawrey
+  speakers:
+  - name: Karen Sawrey
+    slug: karen-sawrey
+    twitter: https://twitter.com/krnswry
+    website: https://krnswry.com/
+  title: Disagree with “I Agree”. Enforcing better data privacy through the language
+    of documentation
+- abstract: '<p>The teams behind apps and services are faced with the continuous challenge
+    to create customer support documentation that is understandable and up-to-date
+    at all times. With this challenge in mind this talk offers tips on planning and
+    creating customer support documentation by leveraging the power of empathy at
+    every stage. As a key principle in Design Thinking, empathy can be applied not
+    only to product development but also to creative projects like designing and building
+    a help center. Although there has been a lot of talk about the importance of setting
+    aside pre-existing assumptions regarding (user) behavior and empathizing with
+    voiced out needs instead when writing support documentation, one important aspect
+    has been largely ignored in the discussion: Planning and executing support documentation
+    projects should be guided by empathy not only towards the users of a product but
+    also towards its creators, developers, and support agents. By considering all
+    relevant perspectives at all stages of writing documentation, support teams can
+    create state-of-the-art help centers that serve their purpose in all relevant
+    use cases, from answering customer questions to on-boarding new team members.</p>
+
+    <p>While building a help center alone is a big project that requires creativity
+    and dedication, the importance of maintaining its efficiency and accuracy as an
+    ongoing task is not always given the attention it deserves in Support teams. By
+    choosing to approach such projects with an iterative mindset, writers can continuously
+    improve their documentation in response to incoming feedback and relevant user
+    data.</p>
+
+    <p>The tips offered in this talk aim to help writers and teams to apply empathy
+    and iteration to their documentation projects as a way to improve not only the
+    quality of the end product but also the writers’ satisfaction with their work
+    in a sustainable manner.</p>'
+  slug: the-power-of-empathy-in-support-documentation-a-5-step-guide-plamena-maleva
+  speakers:
+  - name: Plamena Maleva
+    slug: plamena-maleva
+    twitter: '-'
+    website: '-'
+  title: 'The Power of Empathy in Support Documentation: A 5-Step Guide'
+- abstract: '<p>Before getting into docs, I worked as a recording engineer in Manhattan''s
+    studios—recording major artists. The writers, producers, and artists use a similar
+    "process" for getting into flow state. I mimicked this process and my productivity
+    skyrocketed. So much so that myself and 2 other technical writers on my team wrote
+    2 million words last year. </p>
+
+    <p>I''ll share this magical process and:</p>
+
+    <p>• Why you have to write for "you" every day before you can write for anyone
+    else (including your company)
+
+    • How to "let the bad songs out" to get to the good songs
+
+    • How to find creative inspiration, because that''s important, even with technical
+    documentation</p>'
+  slug: the-super-effective-writing-process-of-grammy-winning-artists-kayla-lee
+  speakers:
+  - name: Kayla Lee
+    slug: kayla-lee
+    twitter: 'k17lee '
+    website: https://medium.com/@kayla.lee
+  title: The Super Effective Writing Process of Grammy-winning Artists
+- abstract: "<p>When Kubernetes docs added support for localization, we observed a\
+    \ greater-than-additive improvement in the quality of the docs as a whole. By\
+    \ greater-than-additive, I mean that localization contributors don't just add\
+    \ their own localized content: they contribute upstream to English source doc;\
+    \ they contribute laterally to other localizations; and they contribute upstream\
+    \ to Kubernetes features.</p>\n<p>Examples include:\n- Scripts to determine when\
+    \ an upstream English file has been updated, and whether an open PR is considered\
+    \ the single source of truth\n- Advice and support to optimize long-running branches\n\
+    - Grammar and etymology in linguistic groups\n    - Romance language groups consult\
+    \ on gender for localized nouns </p>\n<p>While we did not set out with these explicit\
+    \ goals in mind for collaboration, in hindsight they were neither accidental nor\
+    \ spontaneous. This talk covers how a community code of conduct shaped docs localizations\
+    \ for collaborative success across axes of gender, language, and national identity.</p>"
+  slug: found-in-translation-lessons-from-a-year-of-open-source-localization-zachary-sarah-corleissen
+  speakers:
+  - name: Zachary Sarah Corleissen
+    slug: zachary-sarah-corleissen
+    twitter: zachorsarah
+    website: https://www.corleissen.com/
+  title: 'Found in Translation: Lessons from a Year of Open Source Localization '
+- abstract: '<p>Current neuroscientific research on psychological safety dovetails
+    nicely with thinking we already do about inclusive language in our documentation.
+    However rather than start and end with language, I propose building inclusive
+    doc teams, and letting that inclusivity inform our work. </p>
+
+    <p>While many organizations are better about creating diversity, many have not
+    yet figured out how to make the environment inclusive—that is, create an atmosphere
+    in which all people feel valued and respected and have access to the same opportunities.
+    Inclusive organizations seek to treat all people with respect, dignity, and impartiality.
+    They bring everyone into the group and exclude no one. </p>
+
+    <p>This presentation will outline current research on inclusivity, both scientific
+    and organizational, and suggest practical ways - some of which have been successful
+    on teams I’ve been part of - to use that research to influence our hiring and
+    team-building decisions, leading to better documentation that increases customer
+    satisfaction.</p>'
+  slug: inclusive-environments-are-just-better-science-says-so-ilona-koren-deutsch
+  speakers:
+  - name: Ilona Koren-Deutsch
+    slug: ilona-koren-deutsch
+    twitter: nitsekees
+    website: https://www.instagram.com/bouncylittlemilo/
+  title: 'Inclusive environments are just better: science says so'
+- abstract: '<p>Master your fundamental tools — keyboard and text editor — and use
+    your muscle memory to concentrate on your task, no matter in which language and
+    what type of text you’re working on.</p>
+
+    <p>Do you use an IDE to work on source code, then switch to an e-mail client to
+    write a message, then open a different editor to work on the documentation and
+    finally ssh to a remote server to edit a configuration file? Do you switch languages
+    frequently or are your colleagues named Müller, François, Muñoz or even Šedivý?</p>
+
+    <p>I''ll show you how I am happily typing in several languages on a single standard
+    US keyboard layout and why my CapsLock became so useful. I''ll show you how I
+    use a single editor on all my machines to produce all sorts of text, and why you
+    too should master one real text editor, whether it is Emacs or Vim. And I''ll
+    show you how to hack all your texts using your favorite programming language far
+    beyond imagination. </p>'
+  slug: one-brain-one-keyboard-one-editor-miroslav-sedivy
+  speakers:
+  - name: Miroslav Šedivý
+    slug: miroslav-sedivy
+    twitter: https://twitter.com/eumiro
+    website: ''
+  title: One Brain, One Keyboard, One Editor
+- abstract: '<p>Error messages are so small and innocuous, engineers don''t always
+    give them the care and attention they deserve. If you get your error messaging
+    wrong, it can not only lead to poor user experience, customer frustration, low
+    product satisfaction, and in worst cases, ridicule on social media.</p>
+
+    <p>I want to share some examples of where some companies have gone wrong (such
+    as the infamous "Something happened" error) and give my tips on how to get error
+    messages right. Apart from the usual (be concise, be accurate, don''t be ambiguous)
+    I will share research about the perfect sentence length and how it impacts user
+    comprehension, talk about the importance of the tone and voice of your messaging,
+    touch upon colour and design (sharing research behind colour psychology into why
+    red is often chosen for warning messages) and discuss why it is important to think
+    about accessibility.</p>'
+  slug: how-to-write-the-perfect-error-message-james-scott
+  speakers:
+  - name: James Scott
+    slug: james-scott
+    twitter: scottydocs
+    website: www.documenter.co.uk
+  title: How to write the perfect error message
+- abstract: "<h1>Intro section (about 5 minutes)</h1>\n<p>What do I do daily: Technical\
+    \ writer at Unity Technologies. Before that, technical writer in an identity and\
+    \ access management software firm. Before that: translated software (UI strings,\
+    \ release notes, EULAs, how-tos) for clients like Adome, Kaspersky, KING etc.</p>\n\
+    <p>What’s my background: Masters in corporate communication and English (in Danish:\
+    \ cand.ling.merc) = corporate linguistics.  Non-native speaker of English. Grew\
+    \ up in a Danish/Romanian home. Do not speak Romanian; but picked up a lot of\
+    \ language differences. So I’ve always been interested in the misunderstandings\
+    \ based on speaking non-native languages.</p>\n<p>Why is this talk relevant for\
+    \ documentarians? \nWe work in highly international contexts. Most often with\
+    \ English as a shared corporate language. And we’re expected to function at a\
+    \ high level of both technical and social proficiency in English. In my daily\
+    \ work and socializing with colleagues across different disciplines and nationalities,\
+    \ I’m frequently reminded of my studies in Business English as a Lingua Franca,\
+    \ which I use in a practical sense both when collaborating with colleagues and\
+    \ when writing actual documentation. This is where applied linguistics comes in,\
+    \ based on this definition, shamelessly stolen from Wikipedia: \"[applied linguistics]\
+    \ identifies, investigates, and offers solutions to language-related real-life\
+    \ problems\"</p>\n<h1>My academic papers that I want to use as a background (about\
+    \ 12 minutes):</h1>\n<p>Bachelor's’ thesis. “Why is using English as a corporate\
+    \ language not an end-all solution to communication issues in SMEs<em>?” (</em>Small-to-medium\
+    \ enterprises)\nFindings:\n- People don’t speak English. They speak their own\
+    \ language with English words.\n- We cluster together in perceived like-minded\
+    \ groups (example: Italians, French and Spanish; Scandinavians)\n- Sometimes,\
+    \ people just don’t like each other\n- Shared contexts are more important than\
+    \ language proficiency</p>\n<p>Masters’ thesis: “There are those that speak English\
+    \ very well - and those that just speak it very much: a qualitative study of the\
+    \ use of English as a corporate language at Copenhagen Business School”\nFindings:\
+    \ \n- If we only focus on correct language, we actually hinder ourselves from\
+    \ doing our job\n- Shared contexts are more important than language proficiency\n\
+    - The meaning of “language proficiency” changes according to the context</p>\n\
+    <h1>How do I use these findings in my daily work (About 10 minutes):</h1>\n<ul>\n\
+    <li>When writing: don’t focus on “correct English”, but correct context. Examples:\
+    \ don’t use “it will happen”, but “it happens”. More easily parsed. Also = context\
+    \ switching: try to assess the context the user is in, not the context of what\
+    \ information you got from whom. Information storage is not the same as knowledge\
+    \ retrieval.</li>\n<li>Be mindful of false friends: (example: sparring = positive\
+    \ in Danish, negative in English). Shoutouts to translators!</li>\n<li>Explore\
+    \ the language heritage of my subject matter experts. Example: One dev = Brazilian.\
+    \ He understands the latin root of most of my words; so when he and I talk, it’s\
+    \ actually easier for us both if we use the more complex words.</li>\n<li>Bring\
+    \ forward shared contexts (the feature we’re discussing). </li>\n<li>Also bring\
+    \ forward how we’re speaking our own jargon in English: marketing, dev-speak,\
+    \ tech writer communication speak, product management focus etc. We all tend to\
+    \ assume that we’re at the same wavelength, but rarely truly remember that our\
+    \ discipline dictates our language and our connotation. We might not even mean\
+    \ the same thing, when we say \"documentation\". So openly discuss entry points.</li>\n\
+    <li>Practically: when I need documentation input, I ask the shorter question,\
+    \ because it’s easier to parse for any speaker: what, why, who, where? (As opposed\
+    \ to “please state this”, “please explain”). If I come off as rude: hey, I’m Danish\
+    \ - we’re direct. Also, thanks for your help, you’re an absolute star!</li>\n\
+    <li>At the interpersonal level: Sometimes, someone might be good at communication\
+    \ in the context of work, but not otherwise. Sometimes, it’s not rudeness nor\
+    \ lack of proficiency in English; it might just be that the person is speaking\
+    \ their own culture with English words. And that’s OK.</li>\n<li>Remember to take\
+    \ things with a grain of salt: not every miscommunication issue is because the\
+    \ points above haven’t been addressed or because there’s not enough cultural/contextual\
+    \ awareness. Sometimes, people just misunderstand.</li>\n</ul>"
+  slug: how-i-use-applied-linguistics-to-be-a-better-technical-writer-katrine-stoica-ostenfeld
+  speakers:
+  - name: Katrine Stoica Ostenfeld
+    slug: katrine-stoica-ostenfeld
+    twitter: KatStoica
+    website: ''
+  title: How I use applied linguistics to be a better technical writer
+- abstract: <p>This talk explores the challenges associated with documenting a project
+    with a very difficult subject and having an audience with vastly different backgrounds.
+    I started a project two years ago to document a database query language that was
+    invented to work with genomic databases. It is an esoteric subject where the knowledge
+    was very much in the heads of a small number of people, but needed to be accessible
+    to an audience including geneticists, software engineers, bioinformaticians and
+    hospital clinicians. We use a mixture of Sphinx (with some adaptations) to bring
+    in contributions from people working on the language and the project has grown
+    to include contributors from all the backgrounds I mention here. By treating the
+    documentation like a code project, we created a process we can work with, but
+    this talk is really about the process of translating information within a single
+    language and between domains and how to make information accessible without sacrificing
+    meaning.</p>
+  slug: documenting-known-unknowns-alison-macneil
+  speakers:
+  - name: Alison MacNeil
+    slug: alison-macneil
+    twitter: kimonomatopoeia
+    website: http://www.kimono.is
+  title: Documenting known unknowns
