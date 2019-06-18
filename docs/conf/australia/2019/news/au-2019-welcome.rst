@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: June 3, 2019
+.. post:: June 18, 2019
    :tags: australia-2019
 
 Announcing Australia Website, CFP, and Ticket Sales
