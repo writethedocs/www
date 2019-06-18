@@ -3,15 +3,21 @@ Newsletter & Mailing lists
 
 Write the Docs publishes a regular newsletter. Each month we pack a bunch of
 interesting information that has been shared in our Slack network into the
-newsletter. The primary links you need are:
+newsletter. 
+
+The primary links you need are:
 
 * Our full `newsletter archives </blog/archive/tag/newsletter/>`__ 
 * Our `index <#index-of-newsletter-topics>`__ which sorts our writing by topic 
 
-You can also subscribe to our Conference mailing lists to stay up-to-date on upcoming events.
-
 If you have any questions or want to contribute to the newsletter, go ahead and email us at `newsletter@writethedocs.org
 <mailto:newsletter@writethedocs.org>`_.
+
+Sponsorship
+-----------
+
+We have added the ability to sponsor our newsletter.
+You can read more at our :doc:`/newsletter/sponsorship/` page.
 
 Sign up
 -------
