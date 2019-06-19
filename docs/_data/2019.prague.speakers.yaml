@@ -160,7 +160,7 @@
     twitter: https://twitter.com/techwriterben
     website: https://www.techwriterben.com/ (please note this is under construction,
       but will be finished very soon)
-  title: '"Write the API docs before the API exists"'
+  title: Write the API docs before the API exists
 - abstract: '<p>Just a few years ago, the UK’s Government Digital Service (GDS) didn’t
     have a technical writing team. Documentation was often written by technologists
     (if at all) and GDS teams were building so fast they had no choice but to cobble
@@ -188,6 +188,24 @@
     twitter: Jenny__Anne
     website: ''
   title: 'The UK government meets docs as code '
+- abstract: '<p>Just because there’s pressure to get the product out the door, doesn’t
+    mean there’s no time to think about documentation. It’s one of the first things
+    that beta users and investors ask for. But how do you build documentation at the
+    same time as your product on a tight startup timeline of only a few months?</p>
+
+    <p>In this talk, I’ll describe my methodology for getting documentation up and
+    running at early-stage tech startups that have focused more on shipping than documenting.
+    I’ll discuss how I assessed the current state of the docs, set documentation requirements
+    with the team, harmonized the various moving parts of the product into a coherent
+    narrative, and led the team to ship a fully-functional documentation system in
+    time for the first release.</p>'
+  slug: how-to-launch-your-startup-with-good-docs-brian-lemke
+  speakers:
+  - name: Brian Lemke
+    slug: brian-lemke
+    twitter: ''
+    website: ''
+  title: How to launch your startup with good docs
 - abstract: '<p>“Undertake continual professional development, mentor new or younger
     employees and learn and implement new skills beyond your primary role.”</p>
 
@@ -307,13 +325,9 @@
 
     <li>Advice and support to optimize long-running branches</li>
 
-    <li>Grammar and etymology in linguistic groups<ul>
+    <li>Grammar and etymology in linguistic groups</li>
 
     <li>Romance language groups consult on gender for localized nouns </li>
-
-    </ul>
-
-    </li>
 
     </ul>
 
@@ -351,79 +365,41 @@
     twitter: nitsekees
     website: https://www.instagram.com/bouncylittlemilo/
   title: 'Inclusive environments are just better: science says so'
-- abstract: '<p>Master your fundamental tools — keyboard and text editor — and use
-    your muscle memory to concentrate on your task, no matter in which language and
-    what type of text you’re working on.</p>
+- abstract: '<p>Error messages are so small and innocuous that documentarians don''t
+    always give them the care and attention they deserve. If you get your error messaging
+    wrong, it can not only lead to poor user experience and customer frustration but
+    also low product satisfaction, and in worst cases, ridicule on social media.</p>
 
-    <p>Do you use an IDE to work on source code, then switch to an e-mail client to
-    write a message, then open a different editor to work on the documentation and
-    finally ssh to a remote server to edit a configuration file? Do you switch languages
-    frequently or are your colleagues named Müller, François, Muñoz or even Šedivý?</p>
-
-    <p>I''ll show you how I am happily typing in several languages on a single standard
-    US keyboard layout and why my CapsLock became so useful. I''ll show you how I
-    use a single editor on all my machines to produce all sorts of text, and why you
-    too should master one real text editor, whether it is Emacs or Vim. And I''ll
-    show you how to hack all your texts using your favorite programming language far
-    beyond imagination. </p>'
-  slug: one-brain-one-keyboard-one-editor-miroslav-sedivy
-  speakers:
-  - name: Miroslav Šedivý
-    slug: miroslav-sedivy
-    twitter: https://twitter.com/eumiro
-    website: ''
-  title: One Brain, One Keyboard, One Editor
-- abstract: '<p>Error messages are so small and innocuous, engineers don''t always
-    give them the care and attention they deserve. If you get your error messaging
-    wrong, it can not only lead to poor user experience, customer frustration, low
-    product satisfaction, and in worst cases, ridicule on social media.</p>
-
-    <p>I want to share some examples of where some companies have gone wrong (such
-    as the infamous "Something happened" error) and give my tips on how to get error
-    messages right. Apart from the usual (be concise, be accurate, don''t be ambiguous)
-    I will share research about the perfect sentence length and how it impacts user
-    comprehension, talk about the importance of the tone and voice of your messaging,
-    touch upon colour and design (sharing research behind colour psychology into why
-    red is often chosen for warning messages) and discuss why it is important to think
-    about accessibility.</p>'
-  slug: how-to-write-the-perfect-error-message-james-scott
+    <p>I want to share some examples of where error messages in the wild have gone
+    wrong and give some advice how to get error messages right. As well as the three
+    4s (Be Helpful, Be Human, Be Humble), I will share the pros and cons of using
+    humour, discuss sentence length and how it impacts user comprehension, and touch
+    upon colour and design, sharing research behind colour psychology, different cultural
+    interpretations of colour and discuss why it is important to also think about
+    accessibility.</p>'
+  slug: 101-to-404s-how-to-write-great-error-messages-james-scott
   speakers:
   - name: James Scott
     slug: james-scott
     twitter: scottydocs
     website: http://www.documenter.co.uk
-  title: How to write the perfect error message
-- abstract: '<h1>Intro section (about 5 minutes)</h1>
+  title: "101 to 404s: How to write great error messages\r\n"
+- abstract: '<p>We work in highly international contexts. Most often with English
+    as a shared corporate language. And we’re expected to function at a high level
+    of both technical and social proficiency in English. In my daily work and socializing
+    with colleagues across different disciplines and nationalities, I’m frequently
+    reminded of my studies in Business English as a Lingua Franca, which I use in
+    a practical sense both when collaborating with colleagues and when writing actual
+    documentation. This is where applied linguistics comes in, based on this definition,
+    shamelessly stolen from Wikipedia: "[applied linguistics] identifies, investigates,
+    and offers solutions to language-related real-life problems"</p>
 
-    <p>What do I do daily: Technical writer at Unity Technologies. Before that, technical
-    writer in an identity and access management software firm. Before that: translated
-    software (UI strings, release notes, EULAs, how-tos) for clients like Adome, Kaspersky,
-    KING etc.</p>
+    <blockquote>
 
-    <p>What’s my background: Masters in corporate communication and English (in Danish:
-    cand.ling.merc) = corporate linguistics.  Non-native speaker of English. Grew
-    up in a Danish/Romanian home. Do not speak Romanian; but picked up a lot of language
-    differences. So I’ve always been interested in the misunderstandings based on
-    speaking non-native languages.</p>
+    <p>“Why is using English as a corporate language not an end-all solution to communication
+    issues in SMEs?” (Small-to-medium enterprises)''</p>
 
-    <p>Why is this talk relevant for documentarians? </p>
-
-    <p>We work in highly international contexts. Most often with English as a shared
-    corporate language. And we’re expected to function at a high level of both technical
-    and social proficiency in English. In my daily work and socializing with colleagues
-    across different disciplines and nationalities, I’m frequently reminded of my
-    studies in Business English as a Lingua Franca, which I use in a practical sense
-    both when collaborating with colleagues and when writing actual documentation.
-    This is where applied linguistics comes in, based on this definition, shamelessly
-    stolen from Wikipedia: "[applied linguistics] identifies, investigates, and offers
-    solutions to language-related real-life problems"</p>
-
-    <h1>My academic papers that I want to use as a background (about 12 minutes):</h1>
-
-    <p>Bachelor''s’ thesis. “Why is using English as a corporate language not an end-all
-    solution to communication issues in SMEs?” (Small-to-medium enterprises)''</p>
-
-    <p>Findings:</p>
+    </blockquote>
 
     <ul>
 
@@ -438,11 +414,13 @@
 
     </ul>
 
-    <p>Masters’ thesis: “There are those that speak English very well - and those
-    that just speak it very much: a qualitative study of the use of English as a corporate
-    language at Copenhagen Business School”.</p>
+    <blockquote>
 
-    <p>Findings: </p>
+    <p>“There are those that speak English very well - and those that just speak it
+    very much: a qualitative study of the use of English as a corporate language at
+    Copenhagen Business School”.</p>
+
+    </blockquote>
 
     <ul>
 
@@ -452,54 +430,6 @@
     <li>Shared contexts are more important than language proficiency</li>
 
     <li>The meaning of “language proficiency” changes according to the context</li>
-
-    </ul>
-
-    <h1>How do I use these findings in my daily work (About 10 minutes):</h1>
-
-    <ul>
-
-    <li>
-
-    <p>When writing: don’t focus on “correct English”, but correct context. Examples:
-    don’t use “it will happen”, but “it happens”. More easily parsed. Also = context
-    switching: try to assess the context the user is in, not the context of what information
-    you got from whom. Information storage is not the same as knowledge retrieval.</p>
-
-    </li>
-
-    <li>
-
-    <p>Be mindful of false friends: (example: sparring = positive in Danish, negative
-    in English). Shoutouts to translators!</p>
-
-    </li>
-
-    <li>Explore the language heritage of my subject matter experts. Example: One dev
-    = Brazilian. He understands the latin root of most of my words; so when he and
-    I talk, it’s actually easier for us both if we use the more complex words.</li>
-
-    <li>Bring forward shared contexts (the feature we’re discussing). </li>
-
-    <li>Also bring forward how we’re speaking our own jargon in English: marketing,
-    dev-speak, tech writer communication speak, product management focus etc. We all
-    tend to assume that we’re at the same wavelength, but rarely truly remember that
-    our discipline dictates our language and our connotation. We might not even mean
-    the same thing, when we say "documentation". So openly discuss entry points.</li>
-
-    <li>Practically: when I need documentation input, I ask the shorter question,
-    because it’s easier to parse for any speaker: what, why, who, where? (As opposed
-    to “please state this”, “please explain”). If I come off as rude: hey, I’m Danish
-    - we’re direct. Also, thanks for your help, you’re an absolute star!</li>
-
-    <li>At the interpersonal level: Sometimes, someone might be good at communication
-    in the context of work, but not otherwise. Sometimes, it’s not rudeness nor lack
-    of proficiency in English; it might just be that the person is speaking their
-    own culture with English words. And that’s OK.</li>
-
-    <li>Remember to take things with a grain of salt: not every miscommunication issue
-    is because the points above haven’t been addressed or because there’s not enough
-    cultural/contextual awareness. Sometimes, people just misunderstand.</li>
 
     </ul>'
   slug: how-i-use-applied-linguistics-to-be-a-better-technical-writer-katrine-stoica-ostenfeld
