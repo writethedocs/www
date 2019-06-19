@@ -22,7 +22,7 @@ The current newsletter stats are:
 * 70% of subscribers are based in the United States
 
 We don't have specific demographic data for our newsletter,
-but our conferences have:
+but our conferences are made up of:
 
 - Technical Writers (60%)
 - Developers (10%)

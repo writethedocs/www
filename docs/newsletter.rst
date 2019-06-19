@@ -16,8 +16,7 @@ If you have any questions or want to contribute to the newsletter, go ahead and 
 Sponsorship
 -----------
 
-We have added the ability to sponsor our newsletter.
-You can read more at our :doc:`/newsletter/sponsorship/` page.
+As of June 2019 you can :doc:`</newsletter/sponsorship/> sponsor the newsletter` on a monthly basis.
 
 Sign up
 -------
