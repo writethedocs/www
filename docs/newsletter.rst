@@ -13,6 +13,8 @@ The primary links you need are:
 If you have any questions or want to contribute to the newsletter, go ahead and email us at `newsletter@writethedocs.org
 <mailto:newsletter@writethedocs.org>`_.
 
+You can also subscribe to our Conference mailing lists to stay up-to-date on upcoming events below.
+
 Sponsorship
 -----------
 
