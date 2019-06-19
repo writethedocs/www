@@ -40,7 +40,7 @@ The current format is:
 * Up to 300 words of copy
 * Up to 2 links in that copy
 
-We're still working out our exact format details,
+We're still experimenting with exact format details,
 so let us know if you have any questions.
 
 Schedule
