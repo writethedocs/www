@@ -32,12 +32,12 @@ but our conferences are made up of:
 
 
 Sponsored entry format
-------
+----------------------
 
 The current format is:
 
 * 300x300 pixel logo image
-* Up to 300 words of copy
+* Up to 300 characters of copy
 * Up to 2 links in that copy
 
 We're still experimenting with exact format details,
