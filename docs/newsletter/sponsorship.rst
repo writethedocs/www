@@ -31,7 +31,7 @@ but our conferences are made up of:
 - Community Contributors, Enthusiasts & Other Folks (10%)
 
 
-Format
+Sponsored entry format
 ------
 
 The current format is:
