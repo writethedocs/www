@@ -18,7 +18,7 @@ You can also subscribe to our Conference mailing lists to stay up-to-date on upc
 Sponsorship
 -----------
 
-As of June 2019 you can :doc:`</newsletter/sponsorship/> sponsor the newsletter` on a monthly basis.
+As of June 2019 you can :doc:`</newsletter/sponsorship> sponsor the newsletter` on a monthly basis.
 
 Sign up
 -------
