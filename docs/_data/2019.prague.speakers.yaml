@@ -141,8 +141,8 @@
     should include technical writers from the start of a project. That''s still a
     common approach, but as I personally became a more experienced writer, I began
     to find that projects very often changed—as they should, by design, in Agile development.
-    The upshot of that for me though was that much of my work on documentation ended
-    up being "sunk costs". </p>
+    The upshot of that for me personally, unfortunately, was that much of my work
+    on documentation ended up being "sunk costs".</p>
 
     <p>When drawing up our newest API at Onfido, I (by now a "quite technical" technical
     writer) set out with a backend engineer to not only document it from the start,
@@ -384,54 +384,18 @@
     twitter: scottydocs
     website: http://www.documenter.co.uk
   title: '101 to 404s: How to write great error messages'
-- abstract: '<p>We work in highly international contexts. Most often with English
-    as a shared corporate language. And we’re expected to function at a high level
-    of both technical and social proficiency in English. In my daily work and socializing
-    with colleagues across different disciplines and nationalities, I’m frequently
-    reminded of my studies in Business English as a Lingua Franca, which I use in
-    a practical sense both when collaborating with colleagues and when writing actual
-    documentation. This is where applied linguistics comes in, based on this definition,
-    shamelessly stolen from Wikipedia: "[applied linguistics] identifies, investigates,
-    and offers solutions to language-related real-life problems"</p>
-
-    <blockquote>
-
-    <p>“Why is using English as a corporate language not an end-all solution to communication
-    issues in SMEs?” (Small-to-medium enterprises)''</p>
-
-    </blockquote>
-
-    <ul>
-
-    <li>People don’t speak English. They speak their own language with English words.</li>
-
-    <li>We cluster together in perceived like-minded groups (example: Italians, French
-    and Spanish; Scandinavians)</li>
-
-    <li>Sometimes, people just don’t like each other</li>
-
-    <li>Shared contexts are more important than language proficiency</li>
-
-    </ul>
-
-    <blockquote>
-
-    <p>“There are those that speak English very well - and those that just speak it
-    very much: a qualitative study of the use of English as a corporate language at
-    Copenhagen Business School”.</p>
-
-    </blockquote>
-
-    <ul>
-
-    <li>If we only focus on correct language, we actually hinder ourselves from doing
-    our job</li>
-
-    <li>Shared contexts are more important than language proficiency</li>
-
-    <li>The meaning of “language proficiency” changes according to the context</li>
-
-    </ul>'
+- abstract: "<p>As technical writers, we work in highly international contexts. Most\
+    \ often with English as a shared corporate language. \nAnd we’re expected to function\
+    \ at a high level of both technical and social proficiency in English - as well\
+    \ as fluency in the various different contexts that we navigate in. </p>\n<p>This\
+    \ talk presents key findings from my studies in applied linguistics, based on\
+    \ this definition, shamelessly stolen from Wikipedia: \"[applied linguistics]\
+    \ identifies, investigates, and offers solutions to language-related real-life\
+    \ problems\", including:</p>\n<ul>\n<li>How language heritage affects our understanding\
+    \ of each others' English</li>\n<li>How humans cluster together in perceived like-minded\
+    \ groups</li>\n<li>The affects of a shared context</li>\n</ul>\n<p>I'll then give\
+    \ examples of how I use this knowledge in my daily interaction with subject matter\
+    \ experts, and how it affects my writing.</p>"
   slug: how-i-use-applied-linguistics-to-be-a-better-technical-writer-katrine-stoica-ostenfeld
   speakers:
   - name: Katrine Stoica Ostenfeld
