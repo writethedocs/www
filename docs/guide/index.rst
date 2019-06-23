@@ -56,6 +56,7 @@ Markup Languages
 
    writing/Markdown_basics
    writing/reStructuredText
+   writing/xml
 
 * Asciidoc
     * Cheatsheet
@@ -64,10 +65,6 @@ Markup Languages
 * reStructuredText
     * Cheatsheet
     * Tutorial
-
-* XML
-    * DITA
-    * DocBook
 
 Tools of the Trade
 ------------------
