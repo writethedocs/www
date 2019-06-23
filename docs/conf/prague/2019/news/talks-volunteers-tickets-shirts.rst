@@ -24,7 +24,7 @@ Every year, we look to bring a wide range of voices to the Write the Docs stage.
    :template: {{year}}/speakers-simple-list.rst
    :include_context:
 
-Head over to the `Speakers page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`_ to see the full abstracts. We hope there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.
+Head over to the `Speakers page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`_ to see the full abstracts. We believe there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.
 
 Call for volunteers
 -------------------
@@ -76,13 +76,11 @@ Head over to our Write the Docs Prague 2019 `Pop-Up Shop <https://teespring.com/
 
 And don't worry, you'll still have our delightful Write the Docs Prague 2019 bags as a souvenir from the conference even if you decide not to order a shirt.
 
-Thanks to our sponsors
-----------------------
 
 Thanks to our sponsors
 ----------------------
 
-We are so grateful to have our sponsors help in bringing these events to life every year. Thanks sincerely to the following companies for supporting the Write the Docs community:
+We are so grateful to have our sponsors help in bringing these events to life every year. Thanks to the following companies for supporting the Write the Docs community:
 
 `Red Hat <https://www.redhat.com/>`_
 
@@ -95,7 +93,7 @@ Want to support our community? Head over to our `sponsorship prospectus <https:/
 Stay tuned
 ----------
 
-Over the next weeks we'll continue to publish updates about the various events and activities that make Write the Docs events such a unique experience, as well as the presentation schedule, trip planning tips.
+Over the next weeks we'll continue to publish updates about the various events and activities that make Write the Docs events such a unique experience, as well as the presentation schedule, trip planning tips, etc.
 
 Hope to see all of you soon in Prague!
 
