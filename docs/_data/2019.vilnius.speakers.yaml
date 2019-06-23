@@ -40,7 +40,7 @@ So far, many technical documents are still very complicated to the point of bein
   - name: Filipe Mendes
     slug: filipe-mendes
     twitter: fmendes6
-    website: www.fmendes6.com
+    website: http://www.fmendes6.com
   title: "The Legend of Documentation: A markdown to the past"
 - abstract: "<p>For the past year, I have been working as one of the small number of tech writers in the Ethereum Blockchain space. As an emerging technology that has existed for only a handful of years, engineers are still figuring out what best practices mean to them. Roles such as tech writer, developer relations and support are even more recent hires, in an ecosystem that fluctuates so much. It's near impossible to remain up to date.\n\nThis has put those of us in these roles in a somewhat unique, challenging, and exciting position where we have been able to define what we think \"good\" documentation and communication should look like.\n\nIn this presentation, I share experiences (mine and others) from the past year, and techniques and ideas for those who find themselves as the first tech writer hire in a company, or indeed a new field.\n\nThe presentation includes:</p>
 
@@ -58,5 +58,5 @@ So far, many technical documents are still very complicated to the point of bein
   - name: Chris Ward
     slug: chris-ward
     twitter: chrischinch
-    website: chrischinchilla.com
+    website: http://chrischinchilla.com
   title: Decentralised Documentation - Defining standards for an ecosystem
