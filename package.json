@@ -1,7 +1,7 @@
 {
   "private": true,
   "devDependencies": {
-    "browser-sync": "^2.26.5",
+    "browser-sync": "^2.26.7",
     "debug": "^4.1.1",
     "del": "^4.0.0",
     "gulp": "^4.0.0",

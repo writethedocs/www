@@ -28,7 +28,7 @@ together and talking.
 
 The conference takes place on **August 31 - September 1 (Monday and
 Tuesday) from 9am to 6pm** in beautiful Prague, Czech Republic. Our
-venue, `Klub Lavka <http://www.lavka.cz/en/s>`__, sits right on the bank
+venue, Klub Lavka, sits right on the bank
 of the Vltava river, overlooking the Charles bridge, in the historical
 city center of Prague.
 

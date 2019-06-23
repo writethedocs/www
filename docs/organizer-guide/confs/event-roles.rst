@@ -135,4 +135,4 @@ Other Important Roles to Remember
   * Must be someone personable, with a calming tone and friendly stage presence 
   * Must understand how to keep things brief, and say "just enough" to keep the conference flowing
   * Must be comfortable with researching, preparing, and delivering speaker introductions
-  * A knowledge of audio-visual exquipment usage is helpful, but not mandatory. 
+  * A knowledge of audio-visual equipment usage is helpful, but not mandatory. 

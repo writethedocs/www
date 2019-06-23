@@ -30,14 +30,14 @@ exclude_patterns = [
 
 # Only build the videos on production, to speed up dev
 on_rtd = str(os.environ.get('READTHEDOCS')).lower() == 'true'
-on_netlify = str(os.environ.get('BUILD_VIDEOS')).lower() == 'true'
-on_travis = str(os.environ.get('TRAVIS')).lower() == 'true'
-if not on_rtd and not on_netlify and not on_travis:
+build_videos = str(os.environ.get('BUILD_VIDEOS')).lower() == 'true'
+if not on_rtd and not build_videos:
     print('EXCLUDING VIDEO PATHS. Video links will not work.')
     exclude_patterns.append('videos')
+    REWRITE_FEED = False
 else:
     print('BUILDING VIDEOS. All video links should work.')
-REWRITE_FEED = False
+    REWRITE_FEED = True
 
 extensions = [
     'ablog',
@@ -132,13 +132,18 @@ html_context = {
     'conferences': load_conference_data(),
 }
 
-# Uncomment this line to generate videos
-# html_context.update(main())
+if build_videos:
+    from _ext.videos import main
 
-# html_experimental_html5_writer = True
+    if os.environ.get('MEETUP_API_KEY'):
+        try:
+            from _ext.meetup_events import main as meetup_main
+            html_context.update(meetup_main())
+        except:
+            print('Could not get meetup events.')
+    html_context.update(main())
 
 notfound_no_urls_prefix = True
-
 
 def setup(app):
     # Set up our custom jinja filters
@@ -154,7 +159,7 @@ def setup(app):
     # Render HTML templates with proper HTML context
     app.connect('html-page-context', override_page_template)
 
-    if on_rtd or on_netlify or on_travis or REWRITE_FEED:
+    if on_rtd or build_videos or REWRITE_FEED:
         app.connect('build-finished', rewrite_atom_feed)
 
     app.add_directive('meetup-listing', MeetupListing)
