@@ -41,7 +41,7 @@
     {% for sponsor in sponsors.second %}
     <div class="uk-width-1-2@s">
       <a href="{{ sponsor.link }}">
-        <img src={{ sponsor.name|sponsor_photo }} style="max-width: 200px;" />
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("200px", true) }};" />
       </a>
     </div>
     {% endfor %}

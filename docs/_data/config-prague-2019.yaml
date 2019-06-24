@@ -58,12 +58,13 @@ sponsors:
   patron:
   publisher:
   second:
-    - name: knowledgeowl
-      link: https://www.knowledgeowl.com
     - name: redhat-new
       link: https://www.redhat.com/
     - name: umbraco
       link: https://umbraco.com/
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+      width: 250px
   first:
     - name: buildkite
       link: https://buildkite.com/
