@@ -51,6 +51,15 @@ sponsorship:
   keystone:
     price: $7500
 
+sponsors:
+  keystone:
+  patron:
+  publisher:
+  second:
+  first:
+  media:
+  in_kind:
+
 date: # how do we handle these? human readable would be nice.
   main: "**November 14-15, 2019, in Sydney, Australia**"
   short: Nov 14-15, 2019

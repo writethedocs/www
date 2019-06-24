@@ -1,15 +1,15 @@
-{%- macro conf_sponsors() -%}
-{%- include year|string + "sponsors.html" ignore missing -%}
+{%- macro conf_sponsors() ignore missing -%}
+{%- include year|string + "/sponsors.html" -%}
 {%- endmacro -%}
 {% set conf_sponsors = conf_sponsors() %}
 
 {%- macro sponsors_in_kind() -%}
-{%- include year|string + "sponsors-in-kind.html" ignore missing -%}
+{%- include year|string + "/sponsors-in-kind.html" ignore missing -%}
 {%- endmacro -%}
 {% set sponsors_in_kind = sponsors_in_kind() %}
 
 {%- macro media_sponsors() -%}
-{%- include year|string + "sponsors-media.html" ignore missing -%}
+{%- include year|string + "/sponsors-media.html" ignore missing -%}
 {%- endmacro -%}
 {% set media_sponsors = media_sponsors() %}
 
