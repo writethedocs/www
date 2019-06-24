@@ -1,5 +1,5 @@
-{%- macro conf_sponsors() ignore missing -%}
-{%- include year|string + "/sponsors.html" -%}
+{%- macro conf_sponsors() -%}
+{%- include year|string + "/sponsors.html" ignore missing -%}
 {%- endmacro -%}
 {% set conf_sponsors = conf_sponsors() %}
 
