@@ -70,6 +70,11 @@ sponsors:
       link: https://buildkite.com/
     - name: cncf
       link: https://www.cncf.io/
+  media:
+    - name: bart
+      link: http://www.bartatwork.com
+    - name: techwriter-pl
+      link: http://techwriter.pl
 
 date: # how do we handle these? human readable would be nice.
   main: "**September 15-17, 2019, in Prague, Czech Republic**"
