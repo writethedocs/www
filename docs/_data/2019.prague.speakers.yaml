@@ -327,8 +327,6 @@
 
     <li>Grammar and etymology in linguistic groups</li>
 
-    <li>Romance language groups consult on gender for localized nouns </li>
-
     </ul>
 
     <p>While we did not set out with these explicit goals in mind for collaboration,
@@ -365,18 +363,23 @@
     twitter: nitsekees
     website: https://www.instagram.com/bouncylittlemilo/
   title: 'Inclusive environments are better: science says so'
-- abstract: '<p>Error messages are so small and innocuous that documentarians don''t
-    always give them the care and attention they deserve. If you get your error messaging
+- abstract: '<p>Error messages are such a small and innocuous part of documentation
+    that they sometimes don''t always receive the care and attention that they deserve.
+    Even the shortest error message can evoke far stronger, negative emotions in your
+    end users than the majority of your documentation. If you get your error messaging
     wrong, it can not only lead to poor user experience and customer frustration but
     also low product satisfaction, and in worst cases, ridicule on social media.</p>
 
-    <p>I want to share some examples of where error messages in the wild have gone
-    wrong and give some advice how to get error messages right. As well as the three
-    4s (Be Helpful, Be Human, Be Humble), I will share the pros and cons of using
-    humour, discuss sentence length and how it impacts user comprehension, and touch
-    upon colour and design, sharing research behind colour psychology, different cultural
-    interpretations of colour and discuss why it is important to also think about
-    accessibility.</p>'
+    <p>After being asked by a developer for advice on how to write error messages,
+    I found there wasn''t really a definitive guide I could recommend so I ended up
+    doing some research of my own and put some rough guidelines together. My talk
+    will cover the three Hs (Be Helpful, Be Human, Be Humble), as well as the pros
+    and cons of using humour and the risks of creating error mascots" or "fail pets"
+    to reflect your brand. I will share some examples of error messages in the wild,
+    highlighting where some companies have learned from their mistakes and corrected
+    their error messages. I will also discuss sentence length and how it impacts user
+    comprehension before touching upon colour and design; sharing my research into
+    colour psychology, cultural interpretations of colour and its impact on accessibility.</p>'
   slug: 101-to-404s-how-to-write-great-error-messages-james-scott
   speakers:
   - name: James Scott
