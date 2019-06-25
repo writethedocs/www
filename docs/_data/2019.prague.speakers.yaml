@@ -60,10 +60,14 @@
     see, understand, and build upon</p>'
   slug: surprise-youre-a-designer-now-kelly-obrien
   speakers:
-  - name: Kelly O'Brien
-    slug: kelly-obrien
-    twitter: OBrienEditorial (Sam's not really on the twitterz)
-    website: ''
+  -   details: ''
+      name: Kelly O'Brien
+      slug: kelly-obrien
+      twitter: OBrienEditorial (Sam's not really on the twitterz)
+      website: ''
+  -   details: ''
+      name: Sam Weingarten
+      slug: sam-weingarten
   title: 'Surprise! You''re a designer now. '
 - abstract: '<p>In my talk, I intend to share my experience of working with employers,
     educational institutions and fellow teammates to create a difference in the field
