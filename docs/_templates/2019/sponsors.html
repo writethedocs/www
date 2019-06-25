@@ -1,3 +1,5 @@
+<!-- Sponsor include for all 2019 conferences -->
+
 <div class="sponsors">
 
   {% if sponsors.keystone %}
@@ -5,7 +7,7 @@
     {% for sponsor in sponsors.keystone %}
     <div class="uk-width-1-1@s">
       <a href="{{ sponsor.link }}">
-        <img src={{ sponsor.name|sponsor_photo }} style="max-width: 500px;" />
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("500px", true) }};" />
       </a>
     </div>
     {% endfor %}
@@ -17,7 +19,7 @@
     {% for sponsor in sponsors.patron %}
     <div class="uk-width-1-1@s">
       <a href="{{ sponsor.link }}">
-        <img src={{ sponsor.name|sponsor_photo }} style="max-width: 400px;" />
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("400px", true) }};" />
       </a>
     </div>
     {% endfor %}
@@ -29,7 +31,7 @@
     {% for sponsor in sponsors.publisher %}
     <div class="uk-width-1-2@s">
       <a href="{{ sponsor.link }}">
-        <img src={{ sponsor.name|sponsor_photo }} style="max-width: 300px;" />
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("300px", true) }};" />
       </a>
     </div>
     {% endfor %}
@@ -41,7 +43,7 @@
     {% for sponsor in sponsors.second %}
     <div class="uk-width-1-2@s">
       <a href="{{ sponsor.link }}">
-        <img src={{ sponsor.name|sponsor_photo }} style="max-width: 200px;" />
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("200px", true) }};" />
       </a>
     </div>
     {% endfor %}
@@ -53,7 +55,7 @@
     {% for sponsor in sponsors.first %}
     <div class="uk-width-1-2@s">
       <a href="{{ sponsor.link }}">
-        <img src={{ sponsor.name|sponsor_photo }} style="max-width: 150px;" />
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("150px", true) }};" />
       </a>
     </div>
     {% endfor %}

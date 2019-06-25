@@ -58,17 +58,23 @@ sponsors:
   patron:
   publisher:
   second:
-    - name: knowledgeowl
-      link: https://www.knowledgeowl.com
-    - name: redhat
+    - name: redhat-new
       link: https://www.redhat.com/
     - name: umbraco
       link: https://umbraco.com/
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+      width: 250px
   first:
     - name: buildkite
       link: https://buildkite.com/
     - name: cncf
       link: https://www.cncf.io/
+  media:
+    - name: bart
+      link: http://www.bartatwork.com
+    - name: techwriter-pl
+      link: http://techwriter.pl
 
 date: # how do we handle these? human readable would be nice.
   main: "**September 15-17, 2019, in Prague, Czech Republic**"
