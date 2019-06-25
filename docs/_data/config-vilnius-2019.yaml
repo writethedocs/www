@@ -49,6 +49,17 @@ sponsorship:
   publisher:
     price: 1000 €
 
+sponsors:
+  keystone:
+  patron:
+  publisher:
+  second:
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+  first:
+    - name: techwriter-pl
+      link: http://techwriter.pl
+
 date:
   main: "**June 2-3, 2019, in Vilnius, Lithuania**"
   month: June
@@ -90,7 +101,7 @@ flaghashike: False
 flaghasboat: False
 flaghasshirts: False
 flaglanding: False
-flaghassponsors: False
+flaghassponsors: True
 flagvideos: False
 flaglivestreaming: False
 flagpostconf: True
