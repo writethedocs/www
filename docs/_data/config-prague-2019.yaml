@@ -16,14 +16,14 @@ photos:
 
 buttons:
   top:
-    - text: Sponsor the conference
-      link: /sponsors/prospectus
+    # - text: Sponsor the conference
+    #   link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
     - text: Buy a Ticket!
       link: /tickets
-    # - text: See the talks!
-    #   link: /speakers
+    - text: See the talks!
+      link: /speakers
     # - text: Prepare with the Welcome Wagon
     #  link: /welcome-wagon
     # - text: Watch the Live Stream
@@ -125,7 +125,7 @@ job_fair:
 flaghassponsors: True
 flagcfp: False
 flagticketsonsale: True
-flagspeakersannounced: False
+flagspeakersannounced: True
 flaghasschedule: False
 flagwelcomewagon: False
 flaglivestreaming: False
