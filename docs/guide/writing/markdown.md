@@ -1,4 +1,4 @@
-# Markdown basics
+# Introduction to Markdown
 
 ## What is Markdown?
 
@@ -92,11 +92,7 @@ And so on, up to a sixth-tier header.
 
 The formatted text will look like this:
 
-# This is a first-tier header
-
-## This is a second-tier header
-
-### This is a third-tier header
+![](/_static/img/guide/markdown-headers.png)
 
 ### Horizontal Rule
 
