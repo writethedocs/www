@@ -3,7 +3,7 @@
 .. post:: June 24, 2019
    :tags: prague-2019, speakers, tickets, shirts, sponsors
 
-Announcing speakers and talks, call for volunteers, ticket update, shirts on sale
+Announcing Speakers and Talks, Call for Volunteers, Ticket Update, Shirts on Sale
 =================================================================================
 
 Hello to our documentarians in Europe and beyond!
