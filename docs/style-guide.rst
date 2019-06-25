@@ -60,7 +60,6 @@ We do however use the acronym **WTD**.
         I'm going to Write The Docs.
         What happened at WtD last year?
 
-
 Conferences
 ~~~~~~~~~~~
 
@@ -103,7 +102,6 @@ Numbers
 ~~~~~~~
 
 Arabic numerals are generally used to represent numbers. Numbers 1-10 may also be spelled out. Large numbers should be separated with commas.
- 
 
 Abbreviations
 ~~~~~~~~~~~~~
