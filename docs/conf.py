@@ -24,7 +24,7 @@ from _ext.atom_absolute import rewrite_atom_feed
 exclude_patterns = [
     '_build',
     'include',
-    '_data',
+    #'_data',
     'node_modules',
 ]
 
