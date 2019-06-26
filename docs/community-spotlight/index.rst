@@ -13,4 +13,6 @@ Interviews
    :maxdepth: 2
 
    interviews/interview-ravind-kumar
+   interviews/interview-liz-harris
+   interviews/interview-chris-bahnweg
    community-spotlight/index
