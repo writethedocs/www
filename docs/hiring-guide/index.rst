@@ -8,6 +8,13 @@ Its content focuses on tricky points in the process of hiring a documentarian.
 A great place to start on your hiring or job-seeking journey is by posting to or browsing the job board.
 Check it out over at https://jobs.writethedocs.org/.
 
+.. note:: This is a living (and growing) guide that is missing some topics.
+          If you want to contribute, you can do so by
+          creating `issues <https://github.com/writethedocs/www>`_ and
+          `pull requests <https://github.com/writethedocs/www/pulls>`_ in the
+          `GitHub repository <https://github.com/writethedocs/www>`_.
+
+
 Community Spotlight
 -------------------
 
@@ -23,20 +30,17 @@ the course of their career so far, along with providing some practical advice fo
    community-spotlight/interview-chris-bahnweg
 
 
-.. note:: This is a living (and growing) guide that is missing some topics.
-          If you want to contribute, you can do so by
-          creating `issues <https://github.com/writethedocs/www>`_ and
-          `pull requests <https://github.com/writethedocs/www/pulls>`_ in the
-          `GitHub repository <https://github.com/writethedocs/www>`_.
-
 ..
   potential additional topics here could include:
   choosing a job title for a documentarian,
   how to ask for/prepare/evaluate writing samples,
   onboarding expectations
 
+Interview advice
+----------------
+
 Job interviews
---------------
+~~~~~~~~~~~~~~
 
 The following are a list of potential job interview questions collected during the writing day at the Write the Docs Prague, 2018.
 
@@ -47,7 +51,8 @@ This list is divided into three sections:
 3. What can a candidate ask to learn about the interviewer's expectations of the role, how the successful candidate will be treated/valued, and the workplace culture (also around documentation).
 
 Some recommended interview questions
---------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Self-starter:
 
 * How would you approach [a typical task for the role]?
@@ -86,7 +91,7 @@ Technical skills:
 
 
 Interview questions better avoided (and alternatives)
------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Very in-depth questions about the subject matter, not about the writing skills.
 * Who are you as a person and what's your passion? -> Can you tell me about a project you worked on that you are proud of?
@@ -95,7 +100,7 @@ Interview questions better avoided (and alternatives)
 * What would be your superpower? -> Would you rather be able to fly or be invisible? (to elicit their reasoning)
 
 Questions for curious candidates to ask of interviewers
--------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * What do you think a tech writer/documentarian does?
 * How much influence do you see the writer having within the team?
