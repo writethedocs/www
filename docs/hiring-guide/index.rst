@@ -23,7 +23,7 @@ by sharing the stories of our diverse community. Each interview tells the story 
 the course of their career so far, along with providing some practical advice for new documentarians. 
 
 .. toctree:: Guide Contents
-   :maxdepth: 2
+   :maxdepth: 1
 
    community-spotlight/interview-ravind-kumar
    community-spotlight/interview-liz-harris
