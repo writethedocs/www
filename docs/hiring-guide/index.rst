@@ -20,7 +20,9 @@ Community Spotlight
 
 These interviews are meant to be a resource for new documentarians looking to gain insight into the work of technical writing 
 by sharing the stories of our diverse community. Each interview tells the story of one community member and what they've learned over 
-the course of their career so far, along with providing some practical advice for new documentarians. 
+the course of their career so far, along with providing some practical advice for new documentarians.
+
+If you are willing to share your story with the community, you can contact jobs@writethedocs.org.
 
 .. toctree:: Guide Contents
    :maxdepth: 1
