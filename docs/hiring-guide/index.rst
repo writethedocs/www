@@ -39,9 +39,6 @@ the course of their career so far, along with providing some practical advice fo
 Interview advice
 ----------------
 
-Job interviews
-~~~~~~~~~~~~~~
-
 The following are a list of potential job interview questions collected during the writing day at the Write the Docs Prague, 2018.
 
 This list is divided into three sections:
