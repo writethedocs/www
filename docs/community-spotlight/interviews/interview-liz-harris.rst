@@ -7,7 +7,7 @@ agile projects.
 
 Key takeaways
 -------------
-*Have a sense for your reader's perspectives.
+* Have a sense for your reader's perspectives.
 * Make the effort to connect with people in person.
 
 

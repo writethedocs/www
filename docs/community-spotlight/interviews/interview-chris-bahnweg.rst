@@ -5,8 +5,8 @@ Chris is a software engineer who found his current job through the Write the Doc
 
 Key takeaways
 -------------
-*Connect with people, and make an effort to be open opportunities other people may have. 
-*Building a portfolio is important to showcase your skills.
+* Connect with people, and make an effort to be open opportunities other people may have. 
+* Building a portfolio is important to showcase your skills.
 
 
 Chris had a background in communications before becoming a software engineer. Before taking his first 
