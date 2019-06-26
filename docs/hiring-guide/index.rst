@@ -8,14 +8,19 @@ Its content focuses on tricky points in the process of hiring a documentarian.
 A great place to start on your hiring or job-seeking journey is by posting to or browsing the job board.
 Check it out over at https://jobs.writethedocs.org/.
 
-We have created a series of interviews showcasing how different members of our community have gotten into the field.
-We hope these are useful when you're searching for a new role,
-or you'll find inspiration in their stories.
+Community Spotlight
+-------------------
+
+These interviews are meant to be a resource for new documentarians looking to gain insight into the work of technical writing 
+by sharing the stories of our diverse community. Each interview tells the story of one community member and what they've learned over 
+the course of their career so far, along with providing some practical advice for new documentarians. 
 
 .. toctree:: Guide Contents
-   :maxdepth: 3
+   :maxdepth: 2
 
-   community-spotlight/index
+   community-spotlight/interview-ravind-kumar
+   community-spotlight/interview-liz-harris
+   community-spotlight/interview-chris-bahnweg
 
 
 .. note:: This is a living (and growing) guide that is missing some topics.
