@@ -10,9 +10,8 @@ Interviews
 ----------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   interviews/interview-ravind-kumar
-   interviews/interview-liz-harris
-   interviews/interview-chris-bahnweg
-   community-spotlight/index
+   interview-ravind-kumar
+   interview-liz-harris
+   interview-chris-bahnweg

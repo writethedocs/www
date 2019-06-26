@@ -5,10 +5,17 @@ Guide to Hiring and Getting Hired
 Welcome! This guide aims to help those looking to hire documentarians find the perfect candidate, and to help job-seeking documentarians find the perfect position.
 Its content focuses on tricky points in the process of hiring a documentarian.
 
-A great place to start on your hiring or job-seeking journey is by posting to or browsing the Job Board.
+A great place to start on your hiring or job-seeking journey is by posting to or browsing the job board.
 Check it out over at https://jobs.writethedocs.org/.
 
-.. _job board: https://jobs.writethedocs.org/
+We have created a series of interviews showcasing how different members of our community have gotten into the field.
+We hope these are useful when you're searching for a new role,
+or you'll find inspiration in their stories.
+
+.. toctree:: Guide Contents
+   :maxdepth: 3
+
+   community-spotlight/index
 
 
 .. note:: This is a living (and growing) guide that is missing some topics.

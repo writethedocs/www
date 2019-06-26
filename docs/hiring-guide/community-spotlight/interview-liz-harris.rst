@@ -12,7 +12,7 @@ Key takeaways
 
 
 Finding technical writing
-----------------------------------
+-------------------------
 
 What formal education do you have?
 

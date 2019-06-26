@@ -11,7 +11,6 @@ Learning Resources
    /podcast
    /organizer-guide/index
    /hiring-guide/index
-   /community-spotlight/index
    /guide/index
 
 Newsletter
