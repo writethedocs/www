@@ -1,13 +1,13 @@
 - abstract: "In a world of technology, where not only developers and engineers need to read technical documents, content writers face the challenge of creating and explaining complex technical issues in a simple and accessible language. How to make it easier for documentarians to write about technology in a way that’s useful to both sides of the equation: people with technical knowledge and those without it?
 
-Nowadays, most digital products are created by cross-functional teams of engineers, designers, business analysts and marketing managers, all of whom have to read, understand and sometimes even contribute to the documentation. Moreover, in every area of business, people deal with having to read knowledge bases, tutorials and technical documents. That’s why writing documentation is a very hard task to accomplish. You have to make it both understandable and approachable to a wider audience. 
+Nowadays, most digital products are created by cross-functional teams of engineers, designers, business analysts and marketing managers, all of whom have to read, understand and sometimes even contribute to the documentation. Moreover, in every area of business, people deal with having to read knowledge bases, tutorials and technical documents. That’s why writing documentation is a very hard task to accomplish. You have to make it both understandable and approachable to a wider audience.
 
 So far, many technical documents are still very complicated to the point of being almost impossible to understand for non-technical people. What’s more, many companies need to create two types of documents for different target audiences, which in many cases doesn’t make sense. In my talk, I’m going to show you how to write technical documents that are clear and useful to people with and without a technical background while still being full of valuable content and details."
-  slug: technically-you-can-creating-technical-content-for-all-audiences-malzgorita-trojanowska
+  slug: technically-you-can-creating-technical-content-for-all-audiences-malzgorzata-trojanowska
   speakers:
   - name: Małgorzata Trojanowska
-    slug: malzgorita-trojanowska
-    twitter: 
+    slug: malzgorzata-trojanowska
+    twitter:
     website: https://www.linkedin.com/in/malgorzata-trojanowska-403671155/
   title:  "Technically you can: creating technical content for all audiences"
 - abstract: "<p>You have inherited a behemoth of a doc set. The behemoth has grown organically over years, maybe decades. Over the course of its life, technologies have risen and fallen, paradigms have shifted, and writers have come and gone. \n\nYour behemoth is a heavyweight cargo freighter, transporting its burden of content in an undefined, and possibly undesirable direction. Users are lost, and all your stakeholders are breathing down your neck to breathe new life into the doc set. Untangle the Gordian knot of fragmented information, and provide lean, user-oriented topics! \n\nYou have probably already discovered that your doc set is rife with rabbit holes, construction sites and patches of improvement or despair. You know how to write good content. You have bright, fresh ideas. How on earth can you implement them with the sheer quantity of topics on board, and your extremely limited resources and time? You might feel like a passive passenger on your freight ship, with woefully inadequate equipment to steer it where you want to go.\n\nThis talk presents a structured approach that triggers and sustains an evolution rather than a revolution. I discuss how to identify the right starting points by collecting feedback and hard data from various sources (your stakeholders, traffic stats, support incidents, and knowledge bases). I present a tiered strategy that targets top-level content to deliver quick improvements to users. Resting on agile principles, I also show how to adapt your mindset for this type of endeavour.\n\nMy approach is based on a current project where my team and I are working to revamp a doc set that has tens of thousands of topics, written over the past 30 years."
@@ -40,7 +40,7 @@ So far, many technical documents are still very complicated to the point of bein
   - name: Filipe Mendes
     slug: filipe-mendes
     twitter: fmendes6
-    website: www.fmendes6.com
+    website: http://www.fmendes6.com
   title: "The Legend of Documentation: A markdown to the past"
 - abstract: "<p>For the past year, I have been working as one of the small number of tech writers in the Ethereum Blockchain space. As an emerging technology that has existed for only a handful of years, engineers are still figuring out what best practices mean to them. Roles such as tech writer, developer relations and support are even more recent hires, in an ecosystem that fluctuates so much. It's near impossible to remain up to date.\n\nThis has put those of us in these roles in a somewhat unique, challenging, and exciting position where we have been able to define what we think \"good\" documentation and communication should look like.\n\nIn this presentation, I share experiences (mine and others) from the past year, and techniques and ideas for those who find themselves as the first tech writer hire in a company, or indeed a new field.\n\nThe presentation includes:</p>
 
@@ -58,5 +58,5 @@ So far, many technical documents are still very complicated to the point of bein
   - name: Chris Ward
     slug: chris-ward
     twitter: chrischinch
-    website: chrischinchilla.com
+    website: http://chrischinchilla.com
   title: Decentralised Documentation - Defining standards for an ecosystem

@@ -54,7 +54,7 @@ Markup Languages
 .. toctree::
    :maxdepth: 2
 
-   writing/Markdown_basics
+   writing/markdown
    writing/reStructuredText
 
 * Asciidoc

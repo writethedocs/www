@@ -269,6 +269,7 @@
     </ul>"
   slug: how-to-edit-other-peoples-content-without-pissing-them-off-ingrid-towey
   path: conf/portland/2019/how-to-edit-other-peoples-content-without-pissing-them-off-ingrid-towey
+  slides: https://docs.google.com/presentation/d/1DT3e4M8jFCuxScE0Y1wGXUAA7wbnjzs07NLniZ8shjU/edit#slide=id.g59da6a84e9_0_0
   youtubeId: 7iWUSetbaos
   series: Write the Docs PORTLAND
   series_slug: portland
@@ -276,7 +277,7 @@
   speakers:
   - name: Ingrid Towey
     slug: ingrid-towey
-    twitter: IngridTowey (TheWriteUX)
+    twitter: IngridTowey
     website: https://www.linkedin.com/in/ingridtowey/
   title: How to edit other people’s content without pissing them off
 - abstract: '<p>In 2017, I opened up a project of mine—a JavaScript-based countdown
@@ -365,7 +366,9 @@
     <li>Provide a checklist for newer documentarians (and the people who train them)</li>
 
     </ol>'
+
   slug: how-i-learned-to-stop-worrying-and-love-the-command-line-mike-jang
+  slides: https://slides.com/mike-1/command-line/
   path: conf/portland/2019/how-i-learned-to-stop-worrying-and-love-the-command-line-mike-jang
   youtubeId: YfM220sNVp8
   series: Write the Docs PORTLAND
@@ -401,7 +404,7 @@
   speakers:
   - name: ' Alicja Raszkowska'
     slug: alicja-raszkowska
-    twitter: 'Alicja: mamrotynka'
+    twitter: mamrotynka
     website: 'Alicja: https://trueskawka.github.io/blog/ '
   title: Draw the Docs
 - abstract: '<p>Though the concept of docs-driven development has been around for
@@ -701,8 +704,8 @@
     twitter: smorewithface
     website: https://thisisimportant.net/
   title: 'Just Add Data: Make it easier to prioritize your documentation '
-- abstract: '<p>When I presented at WTD NA in 2017 (Treating Documentation Like Code:
-    A Practical Account), an audience member asked me afterwards what organizational
+- abstract: '<p>When I presented at WTD NA in 2017 (<a href="https://www.writethedocs.org/conf/na/2017/speakers/#speaker-jodie-putrino" target="_blank">Treating Documentation Like Code:
+    A Practical Account</a>), an audience member asked me afterwards what organizational
     barriers I''d dealt with and how I got past them. At that point, the answer was
     "none" -- the road had been pretty easy so far. </p>
 
@@ -737,6 +740,7 @@
   youtubeId: 09z0VDR_bxs
   series: Write the Docs PORTLAND
   series_slug: portland
+  slides: https://slides.com/jodieputrino/defying-the-status-quo
   year: 2019
   speakers:
   - name: Jodie Putrino

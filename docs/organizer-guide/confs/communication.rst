@@ -138,7 +138,7 @@ Thank you
 * **"Survey":** Put a link to attendees survey if relevant.
 * **"Video":** Put a link to talks' video if they're already online.
 * **"How to keep in touch sections":** Make different sections for meetups, WTD's slack, WTD's forum, mailing list, etc.
-* **"Notes":** Ask people who were attending unrecorded events (unconforence) if they have any notes they could share. Tell them how to do it.
+* **"Notes":** Ask people who were attending unrecorded events (unconference) if they have any notes they could share. Tell them how to do it.
 * **"Conclusion":** Thank people again and invite them to next year conference.
 
 `Thank you` emails from previous WTD conferences:

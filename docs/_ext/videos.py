@@ -53,7 +53,6 @@ def generate_video_listing(year, series):
 '''.format(year=year, series=series, series_title=series.upper())
 
 
-
 def main():
     conference_data = load_conference_data()
 
@@ -71,7 +70,6 @@ def main():
                 video_content = generate_video_content(speaker, year, region, idx)
                 with io.open(video_path + '.rst', 'w+') as fp:
                     fp.write(video_content)
-                print('Generated {}.rst'.format(video_path))
 
     return {
         'conf_py_root': os.path.dirname(os.path.dirname(os.path.abspath(__file__))),

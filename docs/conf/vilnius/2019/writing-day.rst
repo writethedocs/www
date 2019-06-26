@@ -29,27 +29,6 @@ Yup, you can brainstorm on improvements, write helpful content and posts, or jus
 
 If you're writing text to add to the website, ideally you'll already be familiar with GitHub and writing in plain text (markdown or restructured text), but we'll be there to help out if you're not.
 
-If you'd rather brainstorm on content reorganization in Google Docs, improve our Python scripts or our jinja templates, we've got plenty to do there as well.
-
-Here are a few things we'll be working on on writing day, reach out to `@plaindocs <https://twitter.com/plaindocs>`_ if you have any questions or more
-suggestions.
-
-Brainstorm user-oriented architecture
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-The website is currently organised around meetups, conferences, guides, etc – find ways to introduce user-oriented labels considering audience. Who is coming to the site, why? What are the goals of the site?
-
-- Learn about docs
-- Get involved with the community
-- Attend conference
-- Submit a conference proposal
-- Find a video of a talk that I saw
-
-Improve navigation
-^^^^^^^^^^^^^^^^^^
-
-Let's discuss information architecture -- can we organize the content better? Provide better navigation?
-
 Help develop the Documentation Guide
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -64,7 +43,18 @@ tagged as `writingday` that includes things like:
 - fix broken links (we have a lot of these)
 - add list of conference write ups for past conferences
 
-Your project here
-~~~~~~~~~~~~~~~~~
+Consultant Toolkit
+~~~~~~~~~~~~~~~~~~
 
-Send us a pull request or an email talking about what you want to work on!
+Collaborate to assemble a toolkit for consultant or freelance documentarians.
+
+ Possible materials include:
+- Contract templates
+- Business planning documents
+- Workflow plans and checklists for starting a new project
+
+Possible challenges include:
+- Produce templates in multiple formats
+
+To get started I have created a repo `here <https://github.com/StarfallProjects/consultant-tech-writer-toolkit>`_. 
+

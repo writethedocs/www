@@ -14,6 +14,23 @@ color: coral
 photos:
   default: _static/2019/assets/headers/WTDHeader.png
 
+buttons:
+  top:
+    - text: Sponsor the conference
+      link: /sponsors/prospectus
+    #- text: Submit a Talk
+    #  link: /cfp
+    - text: Buy a Ticket!
+      link: /tickets
+    # - text: See the talks!
+    #   link: /speakers
+    # - text: Prepare with the Welcome Wagon
+    #  link: /welcome-wagon
+    # - text: Watch the Live Stream
+    #  link: /livestream
+    # - text: Browse the photos
+    #  link: /livestream
+
 tickets:
   corporate:
     price: $250
@@ -34,44 +51,58 @@ sponsorship:
   keystone:
     price: $7500
 
+sponsors:
+  keystone:
+  patron:
+  publisher:
+  second:
+  first:
+  media:
+  in_kind:
+
 date: # how do we handle these? human readable would be nice.
   main: "**November 14-15, 2019, in Sydney, Australia**"
   short: Nov 14-15, 2019
-  tickets_live: "May 2019"
+  tickets_live: "June 2019"
   month: November
   sat:
   day_one:
-    event: Talks/Doc sprints
+    event: Talks/Workshops
     date: Nov 14
-    summary: The first conference day, including talks, doc sprints, and unconference time.
+    summary: The first conference day, including talks, workshops, and unconference time.
     icon: conference
   day_two:
-    event: Talks
+    event: Talks/Workshops
     date: Nov 15
-    summary: Another day of talks, unconference and discussion time.
+    summary: Another day of talks, unconference, workshops, and discussion time.
     icon: conversation
 
 about:
-  summary: "TBD"
-  location: "TBD"
-  attendees: 100
+  summary:
+    "The main presentation track takes place from **Nov 14-15 (Thursday and Friday) from 8.30am to 5pm**.
+    The conference takes place at the historic `Justice and Police Museum <https://sydneylivingmuseums.com.au/justice-police-museum>`_, `centrally located <https://bit.ly/2Z5JrFP>`_ in the heart of Sydney.
+    During the main event we also run an :doc:`/conf/australia/2019/unconference` next door in the Police Court.
+
+    You can find out more information about the venue and its accessibility on our :doc:`/conf/australia/2019/venue` page."
+  location: "Water Police Court located at corner of Albert and Phillip streets, Circular Quay, Sydney"
+  attendees: 110
   mainroom:
-    Performance Space
+    Water Police Court
   unconfroom:
-    Community Room
+    Police Court, Charge Room and Cells
 
 cfp:
-  url: https://goo.gl/forms/ONK3MoLwtNQ3LcXv1
-  ends: Friday, July 27th
-  notification: Wednesday, Aug 15th
+  url: https://forms.gle/fBsmQ7CmeyEGq5zw5
+  ends: Friday, Aug 9th
+  notification: Friday, Aug 30th
 
-flaglanding: True
+flaglanding: False
 flagspeakersannounced: False
-flagcfp: False
+flagcfp: True
 flaghassponsors: False
 flaghasschedule: False
 
-flagticketsonsale: False
+flagticketsonsale: True
 flaghashike: False
 flaghasboat: False
 flagvideos: False
