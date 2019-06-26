@@ -5,7 +5,7 @@ Ravind is a senior technical writer working for MongoDB in New York. He has been
 years, writing mostly within the software industry but also has experience in writing for finance.
 
 Key takeaways
-*************
+-------------
 * Know the domain that you want to write for.
 * When writing documentation, don't make the user work for the information.
 
