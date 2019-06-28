@@ -138,4 +138,4 @@ Advice for the aspiring documentarians in the community
     good path.
 
 
-Liz goes by lizharris on the Write the Docs Slack group. You can find her in the #careeradvice channel.
+Liz goes by ``lizharris`` on the Write the Docs Slack group. You can find her in the ``#career-advice`` channel.
