@@ -82,7 +82,7 @@ Do you have any advice you people just beginning to build their careers?
     think this is very much a time now where you can't not be a computer person.
 
 
-Chris goes by crispybacon on the Write the Docs Slack group. You can find him in the #web-development and #career-advice channels.
+Chris goes by ``crispybacon`` on the Write the Docs Slack group. You can find him in the ``#web-development`` and ``#career-advice`` channels.
 
 
 
