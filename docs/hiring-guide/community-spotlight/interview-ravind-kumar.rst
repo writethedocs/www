@@ -88,6 +88,6 @@ Advice for the aspiring documentarians in the community
     You can still do that, but the expectation now is that it should all just be there.
 
 
-Ravind goes by `ravind-mongodb` on the Write the Docs Slack group. You can find him in the #watercooler and #career-advice channels.
+Ravind goes by ``ravind-mongodb`` on the Write the Docs Slack group. You can find him in the ``#watercooler`` and ``#career-advice`` channels.
 
 
