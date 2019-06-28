@@ -15,7 +15,7 @@ job as a software engineer, he worked doing copywriting and marketing.
 Experience transitioning between fields
 ---------------------------------------
 
-How did you end up moving from marketing to software engineering?
+**How did you end up moving from marketing to software engineering?**
 
     So that kind of came from this community. What actually happened was that I was doing webdev in my spare 
     time, and a friend of mine that I met on here - Alex Ball - was going for interviews with Gitlab and 
@@ -30,7 +30,7 @@ How did you end up moving from marketing to software engineering?
 Involvement with the Write the Docs community
 ---------------------------------------------
 
-How did you meet Alex and get involved with the community?
+**How did you meet Alex and get involved with the community?**
 
     I got into the community before I met Alex, searching for jobs in general. I would apply for whatever 
     looked good as a junior writer job, because that's what I was looking for at first, a way to leverage 
@@ -44,7 +44,7 @@ How did you meet Alex and get involved with the community?
     a job at that point. I would ask about his job search and provide advice where I thought it was 
     appropriate. And the story kind of came down the way I explained before.
 
-Were you getting help from other members of the community?
+**Were you getting help from other members of the community?**
 
     I was getting advice from a lot of people. I would say the career-advice channel is really helpful if 
     you're trying to get help in software engineering or technical writing. But it's also kind of helpful 
@@ -55,7 +55,7 @@ Were you getting help from other members of the community?
     friends on Write the Docs who are developers. If I see a developer job that fits what they're looking 
     for, I'll say, "I saw this job posting. Take a look at it."
 
-What pieces of advice were you getting?
+**What pieces of advice were you getting?**
 
     I'd say the biggest one is build a portfolio, because that's how people are going to judge you. I say 
     this to my HR person all the time: I can say that I'm a level 10 Docker wizard that can orchestrate 
@@ -73,8 +73,6 @@ What pieces of advice were you getting?
 
 Advice for grads starting to build their careers
 ------------------------------------------------
-
-Do you have any advice you people just beginning to build their careers?
 
     Focus on the technology, because it's not going to go away. If anything we're going to become more 
     technical as things go on. Having technical sophistication, meaning being able to google your problems 

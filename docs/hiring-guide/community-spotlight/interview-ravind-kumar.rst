@@ -13,13 +13,13 @@ Key takeaways
 Finding technical writing
 -------------------------
 
-What formal education do you have?
+**What formal education do you have?**
 
     My background was in journalism. That's where I did 2.5 years out of my four year degree, switching from computer science to 
     journalism. My first job was a technical writing job because of that. I had the writing chops, but I also had just enough
     computer science knowledge to be able to read code.
 
-Did you know that you wanted to become a technical writer out of college?
+**Did you know that you wanted to become a technical writer out of college?**
 
     I wanted to write and talk about software in some capacity, but at the time I didn't even know technical writing was a field. 
     I knew that documentation existed in general, but I was looking at potentially writing for a magazine, maybe having a technology 
@@ -28,7 +28,7 @@ Did you know that you wanted to become a technical writer out of college?
     level where I can do what I'm strongest at, which is writing, and not worry so much about the programming side, which I like, but
     I don't like enough to do as a living.
 
-What do you think you'd be doing had you not found technical writing?
+**What do you think you'd be doing had you not found technical writing?**
 
     If I had not found technical writing, I probably would have continued to do various levels of technical writing but from more of       
     a journalistic perspective. I don't know  what would have happened down that line. Because the year that I graduated is the year
@@ -42,8 +42,7 @@ in New York contributing to their server documentation.
 
 Experience as a technical writer
 --------------------------------
-When you were starting out with your first job, were those skills learned mostly in the workplace, or did you have some experience 
-beforehand?
+**When you were starting out with your first job, were those skills learned mostly in the workplace, or did you have some experience beforehand?**
 
     That was on the job. One of the projects managers walked me through the existing documentation. He gave me a quick tutorial on 
     InDesign, and I just took that and ran with it. And that's all we had at the time. The finance firm was a little different. I
@@ -52,7 +51,7 @@ beforehand?
     capture/editing tools to create marketing-focused tutorials. MongoDB was my first experience using docs as code, using something 
     like a plaintext markup language and producing HTML from that.
 
-How collaborative was your work?
+**How collaborative was your work?**
 
     The finance job was the least collaborative, mostly because of the way finance works and the regulations we were up against. 
     I wasn't technically allowed to use the code or view the source code. I was mostly downstream of the application changes. 
@@ -63,7 +62,7 @@ How collaborative was your work?
     interactivity with the developers, product managers, VPs, from top to bottom. I have the ability to have conversations and
     figure out what's going to happen next, I have levels of ownership that are far higher than they were before.
 
-How has that ownership and responsibility changed with the progression of your career?
+**How has that ownership and responsibility changed with the progression of your career?**
 
     I think it's the scope that has changed more than anything, because at Phunware I was the only technical writer. So I had  
     complete ownership of all of our documentation that was produced. I owned all of that. At EOXLive, I was the only technical

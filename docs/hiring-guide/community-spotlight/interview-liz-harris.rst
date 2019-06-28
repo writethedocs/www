@@ -14,7 +14,7 @@ Key takeaways
 Finding technical writing
 -------------------------
 
-What formal education do you have?
+**What formal education do you have?**
 
     I went to a private high school in Palo Alto, and then I went and did a year as an exchange student in
     Switzerland when I had just graduated from high school. Then I went to college. The reason I mention the 
@@ -34,7 +34,7 @@ What formal education do you have?
     finished with two different masters degrees and stepped out and went and got a teaching job.
 
 
-What then led you to technical writing?
+**What then led you to technical writing?**
 
     Well, I loved teaching. I was a teacher at a private school in San Francisco, at a French school. 
     And loved it, but it was the late nineties. There was a tech boom going on in the Bay Area, and I 
@@ -63,7 +63,7 @@ moved on to Aspera where she works now.
 Experience as a technical writer
 ----------------------------------------------------
 
-How did you differentiate yourself during your initial job search?
+**How did you differentiate yourself during your initial job search?**
 
     I had to have a portfolio of sorts, and this is long enough ago that it was still pretty usual for 
     people to show up to an interview with paper examples of their portfolio. So I thought about what I 
@@ -80,7 +80,7 @@ company that specialized in embedded systems.
     editor and then I converted to the writer role, and then I got converted to a senior writer. I was there 
     for a really long time.
 
-How did this differ from your first job?
+**How did this differ from your first job?**
 
     In terms of the maturity of the organization, there was a lot more rigor at Wind River than there was 
     at Prototype. It was a better place to learn how to be a technical writer. What was fun about Prototype 
@@ -100,7 +100,7 @@ How did this differ from your first job?
     That is a demanding audience because she's in a hurry and doesn't have a lot of patience for obstacles. 
     The engineer that works for NASA is demanding because that person has a really complicated task.
 
-What led you to leave then?
+**What led you to leave then?**
 
     Well the problem with Wind River was I liked writing for a really technical audience, because there's 
     just something kind of appealing to my brain about technical complexity. But one of the reasons I left 
