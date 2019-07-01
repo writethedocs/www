@@ -1,0 +1,115 @@
+.. post:: July 3, 2019
+   :tags: newsletter
+
+#####################################
+Write the Docs Newsletter – July 2019
+#####################################
+
+Hi, WTD friends, and welcome to the July newsletter! It's Beth A here writing from sweltering Europe, where I've been learning great new words like *canicule* and *Hitzewelle* - aka heatwave in French and German.
+
+(Fun fact: *canicule* comes from the Latin *dies caniculares*, or "dog days" - the most uncomfortable part of summer, so named because they come after the `helical rising <https://en.wikipedia.org/wiki/Heliacal_rising>`_ of Sirius, the Dog Star. Well, I thought it was interesting.)
+
+Aside from fascinating facts about the weather, we do have some actual news. Firstly, `tickets are on sale for the Australia conference </conf/australia/2019/news/au-2019-welcome/>`__, and `the call for proposals is also open </conf/australia/2019/cfp/>`__! The CFP closes on 9 August, and the conference itself is 14-15 November in Melbourne.
+
+Here in Europe, you'll be pleased to know that `Prague speakers have been announced </conf/prague/2019/news/talks-volunteers-tickets-shirts/>`__! `Here's the full list </conf/prague/2019/speakers/>`__, and you can grab your tickets `here </conf/prague/2019/tickets/>`__. And if you're interested in helping out behind the scenes, we'd love you to `volunteer at the conference </conf/prague/2019/news/talks-volunteers-tickets-shirts/#call-for-volunteers>`__.
+
+.. TODO announce interview stuff, if it's published in time
+
+So that's the news. What have we been talking about on Slack this month?
+
+-----------------------------------
+Making the leap to managing writers
+-----------------------------------
+
+One of our big discussions this month was about folks trying to weigh up opportunities to move into managing writers. Here's the guidance the community gave.
+
+There are definitely some things to be wary of. If writing's your passion, moving to management means much less time for it. This can mean losing touch with the craft, and leaving your portfolio lighter if you decide to back out. Another issue is that you're accountable for both the successes and failures of your team, which can be stressful. 
+
+But the upsides of management are the bigger projects that can challenge you in different ways, including helping your team reach their full potential. In the long run, teaching others lets you achieve than you would have been able to on your own.
+
+If you'll be hiring, recruitment can create a more direct sense of accomplishment. On the flip side, you may also at some point be responsible for letting people go, a daunting task.
+
+The general conclusion was: it's not easy to make the move, but if you're happy to spend less time writing and to contribute in a bigger way instead, it might be for you.
+
+For those considering management, take a look at `Rands Leadership Slack <https://randsinrepose.com/welcome-to-rands-leadership-slack/>`__), which offers  coaching and educational resources. You can also listen to the episodes of Tom Johnson's podcasts that reflect how to manage an all-star team of technical writers: `Managing Writers <https://idratherbewriting.com/2009/03/23/managing-writers-interview-with-richard-hamilton-podcast/>`_ and `Managing Virtual Teams <https://idratherbewriting.com/2007/04/29/managingvirtualteams/>`_.
+
+-------------------------------------------------------
+READMEs on READMEs (and other README related resources)
+-------------------------------------------------------
+
+As documentarians, many of us also love to read and write about documentation - especially in READMEs! This month, Write the Docs community members shared a number of excellent resources to help you write quality READMEs. Check these out:
+
+* `Art of README <https://github.com/noffle/art-of-readme>`_
+* `Standard README <https://github.com/RichardLitt/standard-readme/>`_
+* `Write the Readable README <https://www.writethedocs.org/videos/na/2016/write-the-readable-readme-daniel-beck/>`_ (Daniel Beck @ Write the Docs NA 2016), and Daniel's `README checklist <https://github.com/ddbeck/readme-checklist>`_
+* `Hi, my name is README! <http://www.writethedocs.org/videos/eu/2017/hi-my-name-is-readme-raphael-pierzina/>`_ (Raphael Pierzina @ Write the Docs EU 2017)
+* `Ten Steps to a Better README <https://www.youtube.com/watch?v=PC05prd2usY>`_ (Mike Jang @ Ignite OSCON 2015)
+* `Developer Experience: GitHub READMEs <https://betta.io/blog/2017/02/07/developer-experience-github-readmes/>`_ (Cristlano Betta's blog post)
+* `READMEs and doc-driven development <https://www.writethedocs.org/blog/newsletter-august-2017/#readmes-and-doc-driven-development>`_ (August 2017  WTD newsletter)
+
+------------------------------------------
+For those who might consider freelancing …
+------------------------------------------
+
+… a generous Slack contributor provided a wealth of information and advice about what to look for and what to expect in the land of freelance work.
+
+We were planning to write this up for the newsletter, but very kindly the contributor did the work for us! So you can read the write-up here: `Real Talk: Freelance/Contract Writing <https://dacharycarey.com/2019/06/12/real-talk-freelance-contract-writing/>`__
+
+A few other people also weighed in with some comments. Some don't work with a 1099 but set up their own corporations (S-Corp or LLC), and then work as their own employees. This approach can provide tax benefits for US workers, and can sometimes make you more appealing to a larger employer. People also suggested that professional support, in the form of a lawyer or accountant, is important if you're planning to work freelance long-term.
+
+And if you're going the independent route, don't forget to consider staffing agencies. They get a cut of whatever the client pays, but they sometimes provide benefits depending on the contract, and can ease the paperwork burden.
+
+------------------------------
+What to do about text wrapping
+------------------------------
+
+A very specific topic, but one that comes up for almost everyone working with docs-as-code: should you mandate text wrapping in your docs source, and if so, how? For some background before digging into this summary, check out `To Wrap or Not to Wrap: One of Life's Greatest Questions <https://about.gitlab.com/2016/10/11/wrapping-text/>`_ 
+
+Forcing a hard wrap at a particular character count or column helps avoid `reflow problems <https://www.w3.org/TR/WCAG21/#reflow>`_, but causes other problems. For example, hard wraps:
+
+* create awkward line breaks on devices with different screen sizes
+* wreak havoc on diffs
+* make text more difficult to parse for people who are translating to different languages and people with cognitive disabilities
+
+Hard wraps also interfere with using filters like `grep <http://man7.org/linux/man-pages/man1/grep.1.html>`_ to search for words and phrases within a file. Soft wrap is an option for preserving searchability, but it requires everyone to use a text editor with soft wrap support.
+
+Several people mentioned `one sentence per line <https://rhodesmill.org/brandon/2012/one-sentence-per-line/>`_ as a solution, noting that it's the `recommended approach for AsciiDoc <https://github.com/asciidoctor/asciidoctor.org/blob/master/docs/asciidoc-recommended-practices.adoc#one-sentence-per-line>`_.
+
+-----------------------------------------------------------------
+From our sponsor: Spotlight on The Not-Boring Tech Writer podcast 
+-----------------------------------------------------------------
+
+Excitingly, this month's newsletter is sponsored by KnowledgeOwl!
+
+"Do you love documentation and podcasts? Check out our `spotlight on The Not-Boring Tech Writer podcast <https://www.knowledgeowl.com/home/not-boring-tech-writer-podcast-relaunch>`__. Each episode focuses on a single skill or tool to provide you with actionable content.
+
+KnowledgeOwl is proud to sponsor TNBT podcast along with the WTD newsletter. KnowledgeOwl makes knowledge base software and loves to help documentarians. Check out the `KnowledgeOwl website <https://www.knowledgeowl.com/home>`__ to learn more."
+
+.. image:: knowledge-owl-logo.png
+
+---------
+Job posts
+---------
+
+`Knowledge Management Strategist <https://jobs.writethedocs.org/job/127/knowledge-management-strategist/>`__
+
+`Project-Based Technical Writer <https://jobs.writethedocs.org/job/125/project-based-technical-writer/>`__
+ Clearbit, SF (but remote-friendly), short-term contract
+
+*To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
+
+--------------------------
+Community events coming up
+--------------------------
+
+- 4 July - Melbourne, Australia - `Documenting API dev portals <https://www.meetup.com/Write-the-Docs-Australia/events/261792791/>`__
+- 10 July - London, UK - `Write the Docs Prague talk previews <https://www.meetup.com/Write-The-Docs-London/events/261893453/>`__
+- 10 July - Denver, CO, USA - `Docs and Drinks Denver happy hour <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/262265861/>`__
+- 12 July - Austin, TX, USA - `Write the Docs ATX lunch meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/262512533/>`__
+- 15 July - Berlin, Germany - `Docs hack <https://www.meetup.com/Write-The-Docs-Berlin/events/262443229/>`__
+- 17 July - Manchester, UK - `Summer social <https://www.meetup.com/Write-the-Docs-North/events/260863447/>`__
+- 17 July - Toronto, Canada - `Write the Docs Toronto <https://www.meetup.com/Write-the-Docs-Toronto/events/262467288/>`__
+- 18 July - Sydney, Australia - `Presentations and lightning talks <https://www.meetup.com/Write-the-Docs-Australia/events/262059088/>`__
+- 23 July - Seattle, IL, USA - `Seattle morning social <https://www.meetup.com/Write-The-Docs-Seattle/events/262426584/>`__
+- 25 July - Boise, ID, USA - `Document review <https://www.meetup.com/Write-the-Docs-Boise/events/262491452/>`__
+- 7 August - London, UK - `Summer social <https://www.meetup.com/Write-The-Docs-London/events/262472580/>`__
