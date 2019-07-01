@@ -82,7 +82,6 @@ It's important to consider accessibility in your style guide to ensure the conte
 
 It's important to create consistency in your content types. This allows you to manage your audience's expectations for what they will learn on any given page.
 
-
 ### FAQs
 
 Frequenty Asked Questions (FAQs) exist to educate and guide users through need-to-know information, pointing them to additional resources when necessary. FAQs should be short and limited.
@@ -93,6 +92,32 @@ Effective FAQ pages accomplish the following:
 - Regularly updated to reflect the changes in user behavior and data.
 - Drives users to different parts of the website to deliver more detailed information.
 - Cover a broader range of topics that may not otherwise warrant individual pages or pieces of content.
+
+### Release notes
+
+Release notes exist to provide users with vital information needed to continue to use and benefit from a product, often as it relates to new or updated feature releases. These notes should be brief, linking out to more details as necessary.
+
+Consider the following when creating an entry for your release notes:
+
+1. What is the change/release?
+1. Why did we make this change? Why is it important to our users?
+   1. Improvement in workflow or UI 
+   1. Consistency/feature parity
+   1. Expected revenue increase/decrease
+   1. Change in phase: Alpha/Beta/GA (Does this need to be called out?)
+   1. Policy/legal changes
+1. What is the goal for our users who use this feature?
+1. When will this feature be available? Is it already available or coming soon?
+1. Do our users have all the information they need to move forward?
+1. Is there an additional article for users to read to learn more?
+1. Would an image be beneficial to help users understand this release?
+1. What stakeholders have to approve this content? Does the legal team have to approve it?
+
+Some example release notes:
+
++ [Jira release notes](https://confluence.atlassian.com/jirasoftware/jira-software-release-notes-776821069.html)
++ [Slack](https://slack.com/release-notes/mac) and [more about their release note style](https://slackhq.com/a-little-thing-about-release-notes#)
++ [What's new in Google Ad Manager](https://support.google.com/admanager/answer/179039?hl=en)
 
 ### Content still needed
 
