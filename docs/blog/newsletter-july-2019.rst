@@ -81,7 +81,7 @@ From our sponsor: Spotlight on The Not-Boring Tech Writer podcast
 
 This month's newsletter is sponsored by KnowledgeOwl!
 If you're interested in sponsoring our newsletter,
-the is more information in our `sponsorship prospectus </newsletter/sponsorship/`.
+the is more information in our `sponsorship prospectus </newsletter/sponsorship/>`_.
 
 .. raw:: html
 
@@ -103,7 +103,7 @@ the is more information in our `sponsorship prospectus </newsletter/sponsorship/
       </tbody>
     </table>
 
-    
+
 ---------
 Job posts
 ---------
