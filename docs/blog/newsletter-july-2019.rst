@@ -93,7 +93,7 @@ there is more information in our `sponsorship prospectus </newsletter/sponsorshi
         <tr>
           <td width="75%">
               <p>
-              Do you love documentation and podcasts? Check out our <a class="reference external" href="https://www.knowledgeowl.com/home/not-boring-tech-writer-podcast-relaunch">spotlight on The Not-Boring Tech Writer podcast</a>. Each episode focuses on a single skill or tool to provide you with actionable content.
+              Do you love documentation and podcasts? Check out our <a class="reference external" href="https://www.knowledgeowl.com/home/not-boring-tech-writer-podcast-relaunch?utm_source=newsletter&utm_campaign=wtd-jul-2019">spotlight on The Not-Boring Tech Writer podcast</a>. Each episode focuses on a single skill or tool to provide you with actionable content.
               </p>
               <p>
               KnowledgeOwl is proud to sponsor TNBT podcast along with the WTD newsletter. KnowledgeOwl makes knowledge base software and loves to help documentarians. Check out the <a class="reference external" href="https://www.knowledgeowl.com/home?utm_source=newsletter&utm_campaign=wtd-jul-2019">KnowledgeOwl website</a> to learn more.
@@ -101,7 +101,7 @@ there is more information in our `sponsorship prospectus </newsletter/sponsorshi
           </td>
           <td width="25%">
             <a href="https://www.knowledgeowl.com/home?utm_source=newsletter&utm_campaign=wtd-jul-2019">
-              <img alt="knowledgeowl" src="../../_images/knowledge-owl-logo.png">
+              <img alt="knowledgeowl" src="/_images/knowledge-owl-logo.png">
             </a>
           </td>
         </tr>
