@@ -86,7 +86,7 @@ It's important to create consistency in your content types. This allows you to m
 
 Clear, well-formated, and detailed API documentation is the key for developers to quickly consume and implement your API. It is also key to helping developers understand what happens when an API call is mad, and in the case of failure, understand what went wrong and how to fix it.
 
-The best API documentation is often the result of a designed API. Documentation cannot fix a badly planned API, and it is best to work on developing the API and the documentation concurrently.
+The best API documentation is often the result of a well designed API. Documentation cannot fix a badly planned API, and it is best to work on developing the API and the documentation concurrently.
 
 [Our guide to API documentation](https://www.writethedocs.org/guide/api/about-api-documentation/).
 
