@@ -81,11 +81,25 @@ From our sponsor: Spotlight on The Not-Boring Tech Writer podcast
 
 This month's newsletter is sponsored by KnowledgeOwl!
 
-"Do you love documentation and podcasts? Check out our `spotlight on The Not-Boring Tech Writer podcast <https://www.knowledgeowl.com/home/not-boring-tech-writer-podcast-relaunch>`__. Each episode focuses on a single skill or tool to provide you with actionable content.
+.. raw:: html
 
-KnowledgeOwl is proud to sponsor TNBT podcast along with the WTD newsletter. KnowledgeOwl makes knowledge base software and loves to help documentarians. Check out the `KnowledgeOwl website <https://www.knowledgeowl.com/home>`__ to learn more."
-
-.. image:: knowledge-owl-logo.png
+    <table bgcolor="#00FF00" width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
+      <tbody>
+        <tr>
+          <td width="75%">
+              <p>
+              Do you love documentation and podcasts? Check out our <a class="reference external" href="https://www.knowledgeowl.com/home/not-boring-tech-writer-podcast-relaunch">spotlight on The Not-Boring Tech Writer podcast</a>. Each episode focuses on a single skill or tool to provide you with actionable content.
+              </p>
+              <p>
+              KnowledgeOwl is proud to sponsor TNBT podcast along with the WTD newsletter. KnowledgeOwl makes knowledge base software and loves to help documentarians. Check out the <a class="reference external" href="https://www.knowledgeowl.com/home">KnowledgeOwl website</a> to learn more.
+              </p>
+          </td>
+          <td width="25%">
+              <img alt="knowledgeowl" src="../../_images/knowledge-owl-logo.png">
+          </td>
+        </tr>
+      </tbody>
+    </table>
 
 ---------
 Job posts
