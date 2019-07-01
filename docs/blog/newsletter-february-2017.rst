@@ -9,7 +9,7 @@ Welcome back / Are we there yet?
 
 Hi everybody! We're so happy to find ourselves back in your inbox with this, the first newsletter of 2017! Although we all took some kind of break over the holiday season, we did our best to keep an eye on Slack for good newsletter nuggets – and we definitely were not disappointed! Below are some highlights from the last couple of months, and we'll be getting back into the regular swing of things going forward. :)
 
-The other thing that's looming large in docsland is the North America conference, coming up in just over three months! The details are all starting to fall into place, and now's a great time `to get your tickets <https://ti.to/writethedocs/write-the-docs-na-2017/>`_ or `submit a talk <http://www.writethedocs.org/conf/na/2017/cfp/>`_. While you've still got some time for ticket-buying (we don't expect to sell out until mid-March), you definitely don't want to dawdle on that second one – **deadline for proposals is this Friday at midnight PST**.
+The other thing that's looming large in docsland is the North America conference, coming up in just over three months! The details are all starting to fall into place, and now's a great time `to get your tickets <https://ti.to/writethedocs/write-the-docs-na-2017/>`_ or `submit a talk <https://www.writethedocs.org/conf/na/2017/cfp/>`_. While you've still got some time for ticket-buying (we don't expect to sell out until mid-March), you definitely don't want to dawdle on that second one – **deadline for proposals is this Friday at midnight PST**.
 
 So now, without further ado, let's look in on what the community has been discussing, over the new year.
 
@@ -33,7 +33,7 @@ Getting started with API Docs
 * `Documenting REST APIs <http://idratherbewriting.com/learnapidoc/>`_
 * `The Best API Documentation <https://bradfults.com/the-best-api-documentation-b9e46400379a>`_
 * `So you want to learn about API documentation <http://www.yourmom.io/2016/05/apis_new_writers/>`_
-* `Write the Docs Guide: API Docs <http://www.writethedocs.org/guide/#api-documentation>`_
+* `Write the Docs Guide: API Docs <https://www.writethedocs.org/guide/#api-documentation>`_
 * `8 Great Examples of Developer Documentation <https://zapier.com/engineering/great-documentation-examples/>`_
 
 If API docs are already your jam, head over to the API channel – we'd love to hear about your favorite resources!
@@ -82,4 +82,4 @@ UI and UX also came up as good possibilities if you have a tech writing backgrou
 Looking ahead to Write the Docs North America
 ---------------------------------------------
 
-One last reminder that we're in the home stretch of the call for proposals – if you've been thinking about pitching a talk for May's conference, make sure you get it in before midnight (PST) on Friday. You can read all about what we're looking for, and submit your proposal, on the `CFP page <http://www.writethedocs.org/conf/na/2017/cfp/>`_. We can't wait to see what you come up with!
+One last reminder that we're in the home stretch of the call for proposals – if you've been thinking about pitching a talk for May's conference, make sure you get it in before midnight (PST) on Friday. You can read all about what we're looking for, and submit your proposal, on the `CFP page <https://www.writethedocs.org/conf/na/2017/cfp/>`_. We can't wait to see what you come up with!

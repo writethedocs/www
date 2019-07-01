@@ -21,6 +21,7 @@
   - details: ''
     name: Erik Romijn
     picture: erik-romijn.png
+    img_file: erik-romijn.png
     slug: erik-romijn
     twitter: erikpub
   title: Healthy Minds in a Healthy Community
@@ -47,6 +48,7 @@
   - details: ''
     name: Chris Mills
     picture: chris-mills.jpg
+    img_file: chris-mills.jpg
     slug: chris-mills
     twitter: chrisdavidmills
   title: Feedback handling, community wrangling, panhandling
@@ -82,6 +84,7 @@
   - details: ''
     name: David Oliver
     picture: chris-ward.png
+    img_file: chris-ward.png
     slug: david-oliver
     twitter: DaveOliver79
   title: 'Documentoring: Growing a "Love The Docs" community'
@@ -109,6 +112,7 @@
   - details: ''
     name: Swapnil Ogale
     picture: swapnil-ogale.jpg
+    img_file: swapnil-ogale.jpg
     slug: swapnil-ogale
     twitter: swapnilogale
   title: When bad screenshots happen to good writers
@@ -138,6 +142,7 @@
   - details: ''
     name: Chris Ward
     picture: chris-ward.png
+    img_file: chris-ward.png
     slug: chris-ward
     twitter: chrischinch
   title: Beyond Software - Learning from Other Technical Writers
@@ -171,6 +176,7 @@
   - details: ''
     name: Michael Meng
     picture: michael-meng.jpg
+    img_file: michael-meng.jpg
     slug: michael-meng
     twitter: ''
   title: 'API documentation: Exploring the information needs of software developers'
@@ -199,6 +205,7 @@
   - details: ''
     name: "Istv\xE1n Zolt\xE1n Szab\xF3"
     picture: istvan-zoltan-szabo.jpg
+    img_file: istvan-zoltan-szabo.jpg
     slug: istvan-zoltan-szabo
     twitter: szabosteve
   title: Writing as a non-native speaker
@@ -222,6 +229,7 @@
   - details: ''
     name: "Kata Nagygy\xF6rgy"
     picture: kata-nagygyorgy.jpg
+    img_file: kata-nagygyorgy.jpg
     slug: kata-nagygyorgy
     twitter: NagygyorgyKata
   title: Poll the Docs
@@ -256,6 +264,7 @@
   - details: ''
     name: Daniel Beck
     picture: daniel-d-beck.jpg
+    img_file: daniel-d-beck.jpg
     slug: daniel-beck
     twitter: ddbeck
   title: Checklist the Docs
@@ -285,6 +294,7 @@
   - details: ''
     name: Thursday Bram
     picture: thursday-bram.jpg
+    img_file: thursday-bram.jpg
     slug: thursday-bram
     twitter: thursdayb
   title: What Writing Fiction Teaches You About Writing Documentation
@@ -310,6 +320,7 @@
   - details: ''
     name: Jan Christian Krause
     picture: jan-christian-krause.jpg
+    img_file: jan-christian-krause.jpg
     slug: jan-christian-krause
     twitter: idocit
   title: Using meaningful names to improve API-documentation
@@ -340,6 +351,7 @@
   - details: ''
     name: Sarah Chambers
     picture: sarah-chambers.jpg
+    img_file: sarah-chambers.jpg
     slug: sarah-chambers
     twitter: sarahleeyoga
   title: 'Documentarians and Support: Work Better Together'
@@ -369,6 +381,7 @@
   - details: ''
     name: Riona MacNamara
     picture: riona-macnamara.jpg
+    img_file: riona-macnamara.jpg
     slug: riona-macnamara
     twitter: rionam
   title: 'Pretty hurts: Why better trumps best'
@@ -399,6 +412,7 @@
   - details: ''
     name: Paul Adams
     picture: paul-adams.jpg
+    img_file: paul-adams.jpg
     slug: paul-adams
     twitter: therealpadams
   title: Postulating The Backlog Laxative
@@ -428,6 +442,7 @@
   - details: ''
     name: Rory Tanner
     picture: rory-tanner.jpg
+    img_file: rory-tanner.jpg
     slug: rory-tanner
     twitter: roringtonj
   title: 'Information micro-architecture: grammar, syntax, and cognitive rhetoric'
@@ -456,6 +471,7 @@
   - details: ''
     name: Joan Wendt
     picture: joan-wendt.jpg
+    img_file: joan-wendt.jpg
     slug: joan-wendt
     twitter: ''
   title: Operations Technical Writing for Data Centers
@@ -485,6 +501,7 @@
   - details: ''
     name: Sarah Karp
     picture: sarah-karp.png
+    img_file: sarah-karp.png
     slug: sarah-karp
     twitter: skarpediem
   title: Watch that tone! Creating an information experience in the Atlassian voice
@@ -507,6 +524,7 @@
   - details: ''
     name: Rachel Whitton
     picture: rachel-whitton.png
+    img_file: rachel-whitton.png
     slug: rachel-whitton
     twitter: rachwhitton
   title: Delivering High-Velocity Docs that Keep Pace with Rapid Release Cycles
@@ -544,11 +562,13 @@
   - details: ''
     name: Margaret Eker
     picture: margaret-eker.jpg
+    img_file: margaret-eker.jpg
     slug: margaret-eker
     twitter: ''
   - details: ''
     name: Jennifer Rondeau
     picture: jennifer-rondeau.jpg
+    img_file: jennifer-rondeau.jpg
     slug: jennifer-rondeau
     twitter: ''
   title: 'Docs as Code: The Missing Manual'

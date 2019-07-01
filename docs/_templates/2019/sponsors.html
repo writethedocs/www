@@ -1,0 +1,65 @@
+<!-- Sponsor include for all 2019 conferences -->
+
+<div class="sponsors">
+
+  {% if sponsors.keystone %}
+  <div class="gold-sponsors">
+    {% for sponsor in sponsors.keystone %}
+    <div class="uk-width-1-1@s">
+      <a href="{{ sponsor.link }}">
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("500px", true) }};" />
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if sponsors.patron %}
+  <div class="silver-sponsors">
+    {% for sponsor in sponsors.patron %}
+    <div class="uk-width-1-1@s">
+      <a href="{{ sponsor.link }}">
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("400px", true) }};" />
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if sponsors.publisher %}
+  <div class="silver-sponsors">
+    {% for sponsor in sponsors.publisher %}
+    <div class="uk-width-1-2@s">
+      <a href="{{ sponsor.link }}">
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("300px", true) }};" />
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if sponsors.second %}
+  <div class="bronze-sponsors">
+    {% for sponsor in sponsors.second %}
+    <div class="uk-width-1-2@s">
+      <a href="{{ sponsor.link }}">
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("200px", true) }};" />
+      </a>
+    </div>
+    {% endfor %}
+  </div> <!-- end bronze -->
+  {% endif %}
+
+  {% if sponsors.first %}
+  <div class="community-sponsors">
+    {% for sponsor in sponsors.first %}
+    <div class="uk-width-1-2@s">
+      <a href="{{ sponsor.link }}">
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("150px", true) }};" />
+      </a>
+    </div>
+    {% endfor %}
+  </div><!-- end community sponsors section -->
+  {% endif %}
+
+</div><!-- end sponsors section -->

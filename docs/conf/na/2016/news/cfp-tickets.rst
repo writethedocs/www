@@ -3,7 +3,7 @@
 Announcing Ticket Sales and Call for Proposals
 ==============================================
 
-`Write the Docs NA 2016 <http://www.writethedocs.org/conf/na/2016/>`_
+`Write the Docs NA 2016 <https://www.writethedocs.org/conf/na/2016/>`_
 is four months away and we hope you're getting excited!
 It will be another wonderful year full of great conversation and
 interesting talks.
@@ -37,7 +37,7 @@ As with the previous years, we have tiered pricing to make it fair for
 everyone. Please buy the ticket that best fits your situation.
 
 Tickets are **on sale now**. `Buy them
-now <http://www.writethedocs.org/conf/na/2016/#tickets>`_.
+now <https://www.writethedocs.org/conf/na/2016/#tickets>`_.
 
 Corporate Tickets
 ^^^^^^^^^^^^^^^^^
@@ -70,7 +70,7 @@ Call for Proposals
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you’ve been writing documentation for decades or you’ve just started this year, we want to hear from you!
 
 You can read our full `Call for
-Proposals <http://www.writethedocs.org/conf/na/2016/cfp/>`__ on the website.
+Proposals <https://www.writethedocs.org/conf/na/2016/cfp/>`__ on the website.
 The Call for Proposals will be open until **Febuary 29** this year.
 Since Febuary has 29 days this year,
 you get an extra day to submit your proposals :)

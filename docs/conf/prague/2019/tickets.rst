@@ -21,22 +21,6 @@ Each ticket includes:
 
 .. class:: ticket
 
-**Community Sponsorship Tickets** *{{tickets.community.price}}*
-------------------------------------------
-
-Support the growing community! Get a logo on our website, as well as a ticket.
-This option is great for startups, open-source projects, and small non-profit organizations.
-Limit 1 per organization.
-If you are a larger company or organization, please contact us at sponsorship@writethedocs.org to arrange for sponsorship.
-
-{% if flagticketsonsale %}
-
-* `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
-
-{% endif %}
-
-.. class:: ticket
-
 **Corporate Tickets** *{{tickets.corporate.price}}*
 ------------------------------------
 
@@ -73,9 +57,27 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 * `Buy Student or Unemployed Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
 
 {% endif %}
+
+.. class:: ticket
+
+**Diversity scholarship tickets**
+-----------------------------------
+
+Write the Docs aims to continuously expand our community to be more diverse, welcoming, and inclusive.
+
+We offer a limited number of diversity scholarship tickets for our Prague conference in collaboration with `DiversityTickets.org <https://diversitytickets.org/>`_, a non-profit organization that shares qualifying events with various diversity organizations, and helps folks from underrepresented groups find events to attend.
+
+For more information and to apply, head over to the `application page <https://diversitytickets.org/en/events/425/>`_. Diversity scholarship tickets are free. The deadline for applications is 7th July, 2019.
+
+{% if flagticketsonsale %}
+
+* `Apply for a Diversity Scholarship Ticket <https://diversitytickets.org/en/events/425/>`_
+
+{% endif %}
+
 .. class:: ticket
 
 **None of the above**
 ---------------------
 
-If you can't afford these prices and still wish to attend, please email us at `{{shortcode}}@writethedocs.org <mailto:{{shortcode}}@writethedocs.org>`_. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance.
+If you can't afford these prices and still wish to attend, please email us at `{{shortcode}}@writethedocs.org <mailto:{{shortcode}}@writethedocs.org>`_. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance. 

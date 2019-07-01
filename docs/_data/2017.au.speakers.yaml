@@ -3,7 +3,7 @@
   event: Write the Docs Day AU 2017
   series: Write the Docs AU
   series_slug: au
-  slug: documenting-documents-for-all-three-use-cases-margaret-fero
+  slug: delivering-documents-for-all-three-use-cases-margaret-fero
   speakers:
   -   details: ''
       img_file: maggie-fero.png
@@ -28,7 +28,7 @@
       picture: chris-ward.jpg
       slug: chris-ward
       twitter: chrischinch
-      website: chrischinchilla.com
+      website: http://chrischinchilla.com
   title: Conversational UIs for writers
   year: 2017
   youtubeId: _WECIeLBqu8
@@ -38,7 +38,7 @@
     event: Write the Docs Day AU 2017
     series: Write the Docs AU
     series_slug: au
-    slug: how-i-decided-to-do-this-talk-laura-bailey
+    slug: how-i-decided-to-do-this-talk-gap-analysis-and-pull-apart-documentation-planning-laura-bailey
     speakers:
     -   details: ''
         img_file: laura-bailey.png
@@ -64,7 +64,7 @@
       name: Nicola Nye
       picture: nicola-nye.jpg
       slug: nicola-nye
-      twitter: impishfae
+      twitter: ''
       website: https://www.fastmail.com
   title: "Writing extensions in Sphinx: supercharge your docs"
   year: 2017
@@ -83,7 +83,7 @@
         name: Brice Fallon
         picture: brice-fallon.jpg
         slug: brice-fallon
-        twitter: edmontoniatron
+        twitter: bricewords
 
     title: Peanuts and Minimalism and Technical Writing
     year: 2017

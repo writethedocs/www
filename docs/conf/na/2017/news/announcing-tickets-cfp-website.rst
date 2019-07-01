@@ -6,12 +6,12 @@
 Announcing our Call for Proposals, Ticket Sales and Website
 ============================================================
 
-`Write the Docs Portland 2017 <http://www.writethedocs.org/conf/na/2017/>`_
+`Write the Docs Portland 2017 <https://www.writethedocs.org/conf/na/2017/>`_
 is a little over four months away! We hope you’re getting excited – we certainly are! It’s shaping up to be another wonderful year full of great conversations and interesting talks.
 
-Today we are announcing our `Call for Proposals <http://www.writethedocs.org/conf/na/2017/cfp/>`_,
-`ticket sales <http://www.writethedocs.org/conf/na/2017/tickets/>`_,
-and `website <http://www.writethedocs.org/conf/na/2017/>`_.
+Today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/na/2017/cfp/>`_,
+`ticket sales <https://www.writethedocs.org/conf/na/2017/tickets/>`_,
+and `website <https://www.writethedocs.org/conf/na/2017/>`_.
 Speaking at Write the Docs is a fantastic way to share your ideas with
 our inspiring community of documentarians.
 If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!
@@ -22,7 +22,7 @@ Call for Proposals
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you’ve been writing documentation for decades or you’ve just started this year, we want to hear from you!
 
 You can read our full `Call for
-Proposals <http://www.writethedocs.org/conf/na/2017/cfp/>`__ on the website.
+Proposals <https://www.writethedocs.org/conf/na/2017/cfp/>`__ on the website.
 The Call for Proposals will be open until **Midnight PST Febuary 10** this year.
 
 We are trying something new this year,
@@ -35,7 +35,7 @@ but we hope that you'll try it out with us.
 Tickets
 -------
 
-You can see our 2017 ticket prices on our `Tickets <http://www.writethedocs.org/conf/na/2017/tickets/>`_ page.
+You can see our 2017 ticket prices on our `Tickets <https://www.writethedocs.org/conf/na/2017/tickets/>`_ page.
 This is the first year that we aren't expanding the size of the event,
 and it's capped at 400 people.
 We sold out at this size last year,
@@ -53,13 +53,13 @@ price tickets.
 As with the previous years, we have tiered pricing to make it fair for
 everyone.
 Please buy the ticket that best fits your situation.
-Tickets are `on sale now <http://www.writethedocs.org/conf/na/2017/tickets/>`_.
+Tickets are `on sale now <https://www.writethedocs.org/conf/na/2017/tickets/>`_.
 
 Website
 -------
 
 We’re excited to introduce this friendlier, more navigable online home for our event.
-We have a new `conference website <http://www.writethedocs.org/conf/na/2017/>`_ design this year.
+We have a new `conference website <https://www.writethedocs.org/conf/na/2017/>`_ design this year.
 
 As with all things on the web,
 there are likely to be a few lingering bugs with the design.

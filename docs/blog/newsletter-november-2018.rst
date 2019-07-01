@@ -8,9 +8,9 @@ Write the Docs Newsletter – November 2018
 
 Hi everyone! It's Beth Aitman here, in my first issue as your newsletter editor. Hoping to continue Kelly O'Brien's fine work bringing you news and interesting discussions from across the Write the Docs community.
 
-I'm so pleased to be joining the team - I love the idea of this newsletter. It's sometimes mentioned as a shame in Slack that we only have access to the most recent 10,000 messages (which is because, unfortunately, paid Slack is super expensive). Although some like the impermanence, it's great to have the newsletter to counter it a little, keeping track of some of the wisdom that gets shared. In case you didn't know, you can browse through `all the issues of the newsletter <http://www.writethedocs.org/blog/archive/tag/newsletter/>`_ on the Write the Docs website.
+I'm so pleased to be joining the team - I love the idea of this newsletter. It's sometimes mentioned as a shame in Slack that we only have access to the most recent 10,000 messages (which is because, unfortunately, paid Slack is super expensive). Although some like the impermanence, it's great to have the newsletter to counter it a little, keeping track of some of the wisdom that gets shared. In case you didn't know, you can browse through `all the issues of the newsletter <https://www.writethedocs.org/blog/archive/tag/newsletter/>`_ on the Write the Docs website.
 
-There's plenty going on in the community at the moment, including gearing up for our second conference down under! `Write the Docs Australia <http://www.writethedocs.org/conf/australia/2018/>`_ starts in Melbourne on 15th November, with a packed two-day `schedule <http://www.writethedocs.org/conf/australia/2018/schedule/>`_ of talks, workshops and unconference sessions.
+There's plenty going on in the community at the moment, including gearing up for our second conference down under! `Write the Docs Australia <https://www.writethedocs.org/conf/australia/2018/>`_ starts in Melbourne on 15th November, with a packed two-day `schedule <https://www.writethedocs.org/conf/australia/2018/schedule/>`_ of talks, workshops and unconference sessions.
 
 Looking further ahead, we have confirmed dates for Write the Docs Portland: 19th-21st May 2019. One to put in the diary!
 
@@ -110,7 +110,7 @@ Upcoming community events
 - 7 November - Brisbane, Australia - `Share your writing hints and tips <https://www.meetup.com/Write-the-Docs-Australia/events/255983009/>`_
 - 13 November - Boulder, CO, USA - `GitHub 101 <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/255978323/>`_
 - 14 November - San Diego, CA, USA - `Tech comm pub social <https://www.meetup.com/STC-San-Diego/events/255805506/>`_ (joint with STC)
-- 15 November - Melbourne, Australia - `Write the Docs Australia conference! <http://www.writethedocs.org/conf/australia/2018/>`_
+- 15 November - Melbourne, Australia - `Write the Docs Australia conference! <https://www.writethedocs.org/conf/australia/2018/>`_
 - 15 November - Los Angeles, CA, USA - `Writing for engineers <https://www.meetup.com/Write-the-Docs-LA/events/255347446/>`_
 - 23 November - Bangalore, India - `Accessible content <https://www.meetup.com/Write-the-Docs-India/events/fwmjbqyxpbdb/>`_
 - 28 November - Austin, TX, USA - `Breakfast meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/255187026/>`_

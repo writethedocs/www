@@ -37,7 +37,7 @@
         </ul>
 
 
-        <p>Tickets to this workshop are sold seperately. You can
+        <p>Tickets to this workshop are sold separately. You can
 
         <a href=''https://ti.to/writethedocs/write-the-docs-na-2017/with/yzgjvsp7zcw''>buy
 
@@ -97,7 +97,7 @@
         minutes for basics, and then the rest for workshops.</p><p>Tickets to this
         workshop
 
-        are sold seperately. You can <a href=''https://ti.to/writethedocs/write-the-docs-na-2017/with/uhk2elxibho''>buy
+        are sold separately. You can <a href=''https://ti.to/writethedocs/write-the-docs-na-2017/with/uhk2elxibho''>buy
 
         your ticket here</a>.</p>
 
@@ -632,7 +632,7 @@
     path: conf/na/2017/videos/treating-documentation-like-code-a-practical-account-jodie-putrino
     series: Write the Docs NA
     series_slug: na
-    slides: http://preview.tinyurl.com/k4fqkzo
+    slides: https://slides.com/jodieputrino/treating-docs-like-code
     slug: treating-documentation-like-code-a-practical-account-jodie-putrino
     speakers:
     -   details: ''
@@ -1090,6 +1090,7 @@
     title: Intelligent Documents and the Verifiability Crisis in Science, Tech Writing,
         and Life
     year: 2017
+    youtubeId: kOzQPpc-KDo
 -   abstract: '<p>Come along on a tour of common types of documentation system administrators
 
         use to get their jobs done.</p><p>As an enterprise software developer, system

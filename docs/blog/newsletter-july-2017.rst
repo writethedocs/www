@@ -29,7 +29,7 @@ Contributors to the conversation noted the following problems with humor:
 * Readers need tech docs to help them *do things*, and humor gets in the way
 * Humor quickly becomes outdated
 
-Commenters offered these links for backup: a `Stack Exchange answer from Mark Baker <https://writers.stackexchange.com/a/21095>`_; a `blog post by Neal Kaplan <https://customersandcontent.com/2013/10/22/using-humor-in-your-documentation-or-not/>`_ that covers translation, corporate voice, and clarity issues; a `thesis about humor in tech docs <http://stars.library.ucf.edu/cgi/viewcontent.cgi?article=3683&context=etd>`_ with accompanying `forum discussion <https://productforums.google.com/forum/#!topic/websearch/a8wm46bg8m0>`_; and Sarah Karp's `WTD Europe 2016 talk about voice <http://www.writethedocs.org/conf/eu/2016/speakers/#speaker-eu-2016-sarah-karp>`_. Fortunately for the WtD newsletter crew, the group did agree that (attempts at) humor can work in less formal content, like presentations and...newsletters. Phew!
+Commenters offered these links for backup: a `Stack Exchange answer from Mark Baker <https://writers.stackexchange.com/a/21095>`_; a `blog post by Neal Kaplan <https://customersandcontent.com/2013/10/22/using-humor-in-your-documentation-or-not/>`_ that covers translation, corporate voice, and clarity issues; a `thesis about humor in tech docs <http://stars.library.ucf.edu/cgi/viewcontent.cgi?article=3683&context=etd>`_ with accompanying `forum discussion <https://productforums.google.com/forum/#!topic/websearch/a8wm46bg8m0>`_; and Sarah Karp's `WTD Europe 2016 talk about voice <https://www.writethedocs.org/conf/eu/2016/speakers/#speaker-sarah-karp>`_. Fortunately for the WtD newsletter crew, the group did agree that (attempts at) humor can work in less formal content, like presentations and...newsletters. Phew!
 
 *****************************
 Documenting unlabeled buttons
@@ -74,14 +74,13 @@ Upcoming community events
 In this last section of the newsletter, we try to call out community goings-on out in the real world. We've got three local meetups happening this week alone! Mark your calendars!
 
 **EU CONFERENCE COUNTDOWN: Two Months Left!**
-Make sure you `get your tickets soon <http://www.writethedocs.org/conf/eu/2017/tickets/>`_, so you can join us in Prague, Sept 10-12!
+Make sure you `get your tickets soon <https://www.writethedocs.org/conf/eu/2017/tickets/>`_, so you can join us in Prague, Sept 10-12!
 
 Upcoming Meetups
 ----------------
 
 * **Today!** July 11 – Portland, OR, USA – `History of the New Relic Documentation Site, Part One <https://www.meetup.com/Write-The-Docs-PDX/events/240771894/>`_
 * July 12 – Cambridge, UK – `Finding the right work to do: Lessons learnt from a year at a startup <https://www.meetup.com/Write-The-Docs-Cambridge/events/240634929/>`_
-* July 13 – Montreal, CA – `First Write the Docs Montreal Meetup! <https://www.meetup.com/WriteTheDocsMTL/events/240350356/>`_
 * July 19 – Broomfield, CO – `Building navigation for your doc site: 5 best practices <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/241431528/>`_
 
 Thanks to all our wonderful organizers who are putting these events together!

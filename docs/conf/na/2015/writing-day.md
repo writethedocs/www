@@ -48,13 +48,13 @@ We'll be creating and editing content, so make sure that you have the tools you 
 
 #### Documenting a new project?
 
-Check out our [beginners guide](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) to writing documentation.
+Check out our [beginners guide](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) to writing documentation.
 This should help you get started, and give you some ideas for how you can contribute to a project that you love.
 
 #### Projects
 
 We have some suggestions for projects that you can work on during the Writing Day.
-If you'd like to add your own project to the list, you can [email us](mailto:portland@writethedocs.org). Better yet, [submit a pull request](https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/writing-day.md).
+If you'd like to add your own project to the list, you can [email us](mailto:portland@writethedocs.org). Better yet, submit a pull request.
 
 ##### [Open News](http://opennews.org/blog/code-convening-wtd/)
 

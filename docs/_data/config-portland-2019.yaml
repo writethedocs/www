@@ -14,6 +14,44 @@ color: coral
 photos:
   default: _static/2019/assets/headers/group.png
 
+buttons:
+  top:
+    # - text: Sponsor the conference
+    #  link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #  link: /cfp
+    # - text: Buy a Ticket!
+    #   link: /tickets
+    # - text: See the talks!
+    #   link: /speakers
+#    - text: See the Schedule!
+#      link: /schedule
+    # - text: Welcome Wagon
+    #   link: /welcome-wagon
+#    - text: Watch the Live Stream
+#      link: /livestream
+     - text: Browse the photos
+       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+     - text: Watch the videos!
+       link_absolute: /videos/portland/2019
+  bottom:
+    # - text: Sponsor the conference
+    #  link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #  link: /cfp
+    # - text: Buy a Ticket!
+    #   link: /tickets
+#    - text: Prepare with the Welcome Wagon
+#      link: /welcome-wagon
+#    - text: See the schedule!
+#      link: /schedule
+    # - text: Watch the Live Stream
+    #  link: /livestream
+     - text: Browse the photos
+       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+     - text: Watch the videos!
+       link_absolute: /videos/portland/2019
+
 tickets:
   community:
     price: $800
@@ -67,21 +105,79 @@ about:
     You can find out more information about the venue and its accessibility on our :doc:`/conf/portland/2019/venue` page."
   location:
     "Crystal Ballroom located at 1332 W Burnside St"
+  photos: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
 
 cfp:
   url: https://docs.google.com/forms/d/e/1FAIpQLScCK5qIaRwmn2UouYvtxfrQk56r_X72aliVWLnoGKb69HZuug/viewform
-
   ends: "31 January, 2019"
   notification: "21 February, 2019"
 
-flaghashike: True
+sponsors:
+  keystone:
+    - name: google
+      link: https://www.google.com
+  patron:
+    - name: oracle-cloud
+      link: https://cloud.oracle.com/iaas
+  publisher:
+    - name: alexa
+      link: https://developer.amazon.com/alexa
+    - name: aws
+      link: https://aws.amazon.com/
+    - name: square
+      link: https://squareup.com/
+    - name: microsoft
+      link: https://developer.microsoft.com
+    - name: braintree
+      link: https://www.braintreepayments.com/
+    - name: twilio
+      link: https://www.twilio.com/
+    - name: redhat
+      link: https://www.redhat.com/
+    - name: mozilla-new
+      link: https://developer.mozilla.org/
+  second:
+    - name: salesforce
+      link: https://www.salesforce.com
+    - name: gitlab
+      link: https://gitlab.com
+    - name: elastic
+      link: https://www.elastic.co
+    - name: cisco
+      link: https://www.cisco.com
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+    - name: netlify
+      link: https://www.netlify.com/wtd
+    - name: appian
+      link: https://www.appian.com/
+    - name: cockroachlabs
+      link: https://www.cockroachlabs.com/
+    - name: asciidoctor
+      link: https://asciidoctor.org/
+    - name: redocly
+      link: https://redoc.ly
+  first:
+    - name: support-driven
+      link: https://supportdriven.com
+    - name: cncf
+      link: https://www.cncf.io
+    - name: stickermule
+      link: https://www.stickermule.com/supports/writethedocs-portland
+
+
+# Things that change over time, listed in order of change
 flaglanding: False
-flagspeakersannounced: False
-flagcfp: True
-flaghasschedule: False
-flagticketsonsale: True
-flaghasboat: False
-flaghasshirts: False
 flaghassponsors: True
-flagvideos: False
+flagcfp: False
+flagticketsonsale: False
+flagspeakersannounced: True
+flaghasschedule: True
+flaghasshirts: True
+flagvideos: True
 flaglivestreaming: False
+flagpostconf: True
+
+# Truthy things that don't change
+flaghashike: True
+flaghasboat: False

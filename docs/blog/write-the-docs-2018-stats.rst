@@ -23,8 +23,8 @@ We hope it gives you a sense of the state of the community.
    
    You can also read our posts from 2016_ and 2017_.
 
-.. _2017: http://www.writethedocs.org/blog/write-the-docs-2017-stats/
-.. _2016: http://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/
+.. _2017: https://www.writethedocs.org/blog/write-the-docs-2017-stats/
+.. _2016: https://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/
 
 Conferences
 -----------
@@ -78,7 +78,7 @@ We haven't added much new content to the guide this past year,
 which is the primary reason that traffic hasn't increased.
 
 This would be a great place to get more contributions from the community,
-if you're looking for a place to `put those writing skills to use <https://github.com/writethedocs/www/blob/master/docs/guide/contributing.md>`_!
+if you're looking for a place to `put those writing skills to use <https://github.com/writethedocs/www/blob/master/README.md>`_!
 
 GitHub
 ------
@@ -98,7 +98,7 @@ Featured jobs
 -------------
 
 * `API Documentation Expert <https://jobs.writethedocs.org/job/89/api-documentation-expert/>`_
-Expert Support, full-time
+  Expert Support, full-time
 
 *To apply for this job, or post your own, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 

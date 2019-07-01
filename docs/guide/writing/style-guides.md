@@ -1,6 +1,6 @@
 # Style Guides
 
-A style guide is a set of standards for the writing and design of content, defining the style to be used in communication within a particular organization. Basically, style guides are put together to clarify [the way a group of people talk and write about the things they do](http://www.writethedocs.org/style-guide/). Think of authoring best practices.
+A style guide is a set of standards for the writing and design of content, defining the style to be used in communication within a particular organization. Basically, style guides are put together to clarify [the way a group of people talk and write about the things they do](https://www.writethedocs.org/style-guide/). Think of authoring best practices.
 
 If you happen to have a background in academia or journalism, you will probably be familiar the [AP stylebook](https://en.wikipedia.org/wiki/AP_Stylebook) or the [Chicago manual of style](http://www.chicagomanualofstyle.org/book/ed17/frontmatter/toc.html). Those are great resources for writing in general, particularly for grammar and syntax, but if you're reading this page chances are you are considering style in the context of technical documentation.
 
@@ -11,7 +11,7 @@ Guides often help writers focus on the different readers of technical documentat
 
 Many focus on the language itself (tone, style, grammar).
 
-Others go beyond the content and discuss the organisation of the documentation, providing best practices on how to manage your content, version control, or publication and delivery strategies. While this is not what we focus on in our style guide, how your documentaion is organized, and how easy it is for your readers to find what they are looking for, can be as imporant as the content itself.
+Others go beyond the content and discuss the organisation of the documentation, providing best practices on how to manage your content, version control, or publication and delivery strategies. While this is not what we focus on in our style guide, how your documentation is organized, and how easy it is for your readers to find what they are looking for, can be as important as the content itself.
 
 ## Why do I need a style guide?
 A practical reason to use a style guide is that they help you write content. Human languages are extremely flexible, and there are many ways in which a particular message can be communicated. By following a style guide you limit the variation, making it easier for you to focus on getting your message across. This makes style guides extremely useful for people joining projects.
@@ -49,6 +49,15 @@ If you belong to an open-source community or NGO, you can consider the following
 
 Technical documentation takes many forms, each one targeting a certain need. Here, we can think of examples like tutorials, API documentation, and user manuals. So while many style guides adequately cover the main concerns of all technical documentation, sometimes a more specialized guide is needed.
 
+### Thinking about accessibility
+
+It's important to consider accessibility in your style guide to ensure the content you produce can be best understood by all readers. Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
+
+A few great resources:
+
+- [MailChimp's style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
+- [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
+
 ### More info is needed for the following
 
 #### User Guide / Manuals
@@ -81,7 +90,7 @@ Rather than reinvent the wheel, here are some resources curated by [Ivan Walsh](
 
 - [Brain Traffic — Web Content style guides that Don’t Suck](http://blog.braintraffic.com/2009/02/web-content-style-guides-that-dont-suck/)
 - [Creative Blog — Create a website style guide](http://www.creativebloq.com/design/create-website-style-guide-6123030)
-- [Gather Content — Developing a Content style guide](https://blog.gathercontent.com/tone-of-voice-guide)
+- [Gather Content — Developing a Content style guide](http://blog.gathercontent.com/tone-of-voice-guide)
 - [HubSpot — How to Create a Writing style guide Built for the Web](http://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx)
 - [Meet Content — Editorial Style for the Web](http://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
 - [Stanford — Creating a web style guide](https://swsblog.stanford.edu/blog/creating-web-style-guide-cardinal-work)

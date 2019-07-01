@@ -26,7 +26,7 @@ Prague all around!
 ## Monday, August 31st - Day 1
 
 This is the main event! Hear from lots of interesting folks about all things documentation.
-Check out the [full talk descriptions](http://www.writethedocs.org/conf/eu/2015/speakers/) for more information.
+Check out the [full talk descriptions](https://www.writethedocs.org/conf/eu/2015/speakers/) for more information.
 
 The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1**.
 
@@ -134,7 +134,6 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">3:50 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-cward">Documenting your Story - Crafting a good presentation</a> - Chris Ward</td>
-  	<td><a href="http://gregariousmammal.com:8000/good_presentations/#/">Slides</a></td>
 	<td>&nbsp;</td>
   </tr>
   <tr>
@@ -151,8 +150,8 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   </tr>
   <tr>
     <td class="schedule-time">4:30 PM</td>
-    <td><a href="/conf/eu/2015/speakers/#speaker-fscholz">Gardening Open Docs</a> - Florian Scholz & Jean-Yves Perrier</td>
-  	<td>&nbsp;</td>
+    <td>Gardening Open Docs - Florian Scholz & Jean-Yves Perrier</td>
+  	<td></td>
 	<td>&nbsp;</td>
   </tr>
   <tr>
@@ -221,7 +220,6 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">11:30 AM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-ecaine">How to Write an Email</a> - Elijah Caine</td>
-  	<td><a href="http://slides.elijahcaine.me/write-the-docs-eu-2015_how-to-write-an-email/">Slides</a></td>
 	<td>&nbsp;</td>
   </tr>
   <tr>
@@ -269,7 +267,6 @@ The talks will take place at the **Klub Lavka, Novotného lávka 201/1, Praha 1*
   <tr>
     <td class="schedule-time">3:00 PM</td>
     <td><a href="/conf/eu/2015/speakers/#speaker-ajaruga">The quest for scientific credit for software documentation</a> - Anna Jaruga</td>
-  	<td><a href="http://www.igf.fuw.edu.pl/~ajaruga/talks/Jaruga_WTD_2015.pdf">Slides</a><td>
 	<td>&nbsp;</td>
   </tr>
   <tr>

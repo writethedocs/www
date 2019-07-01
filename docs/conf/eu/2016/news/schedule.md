@@ -22,7 +22,7 @@ The [schedule][schedule] for the conference is now fully filled out.
 We're excited about the talks, Writing Day,
 and all the other wonderful festivities we have every year.
 
-[schedule]: http://www.writethedocs.org/conf/eu/2016/schedule/
+[schedule]: https://www.writethedocs.org/conf/eu/2016/schedule/
 
 Sunday - Writing Day and Conference Reception
 ---------------------------------------------
@@ -39,7 +39,7 @@ You'll have a chance to get acquainted with each other over some drinks and
 snacks, plus it's a great place to find some folks to grab dinner with,
 so you can continue your conversations over more substantial food.
 
-[writing-day]: http://www.writethedocs.org/conf/eu/2016/writingday/
+[writing-day]: https://www.writethedocs.org/conf/eu/2016/writingday/
 [autoklub-map]: https://goo.gl/maps/w3gGKECb3HQ2
 [sprints]: http://en.wikipedia.org/wiki/Sprint_%28software_development%29
 
@@ -51,7 +51,7 @@ The doors open at 9:00 on both days,
 so that you can arrive early, get yourself settled and grab some breakfast. The conference begins at 10:00. Talks
 run all day, until shortly after 17:00.
 
-[daily-schedule]: http://www.writethedocs.org/conf/eu/2016/schedule/#monday-september-19th-day-1
+[daily-schedule]: https://www.writethedocs.org/conf/eu/2016/schedule/#monday-september-19th-day-1
 
 Sponsors
 ---------

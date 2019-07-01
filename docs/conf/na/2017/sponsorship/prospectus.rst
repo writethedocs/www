@@ -15,7 +15,7 @@ Write the Docs Portland 2017 Sponsorship
 Concept
 =======
 
-Write the Docs (http://www.writethedocs.org/) is a
+Write the Docs (https://www.writethedocs.org/) is a
 **three day conference** focusing on documentation systems, tech writing
 theory, and information delivery.
 
@@ -39,7 +39,7 @@ Demographics
 ============
 
 We hold two conferences yearly, one in Portland, USA in May, and one in
-Prague, Europe in September. Attendence is approximately 400 in the
+Prague, Europe in September. Attendance is approximately 400 in the
 USA and 300 in Europe, and we expect both conferences to sell out.
 
 Our audience is made up of:

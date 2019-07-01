@@ -25,7 +25,7 @@ Remember to change the things in `[brackets]`!
   Write the Docs conferences bring together everyone who writes the docs – Tech Writers, Developers, Developer Relations, Customer Support – making the events an ideal networking opportunity.
   Each conference successfully combines a number of different event formats to deliver engaging, practical, and timely content.
 
-  There is a single track of talks, a parallel unconference event, and a community writing day. The `sessions from last year </conf/eu/{{year-1}}/speakers/>`_ will give you a good idea of the kinds of topics covered, many of which are relevant to my work.
+  There is a single track of talks, a parallel unconference event, and a community writing day. The `sessions from last year </conf/prague/{{year-1}}/speakers/>`_ will give you a good idea of the kinds of topics covered, many of which are relevant to my work.
 
   Costs:
 
@@ -62,4 +62,4 @@ List of talks from {{year-1}}
 
 .. datatemplate::
    :source: /_data/{{year-1}}.{{shortcode}}.speakers.yaml
-   :template: {{year-1}}/speakers-simple-list.rst
+   :template: {{year}}/speakers-simple-list.rst

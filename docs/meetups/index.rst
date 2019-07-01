@@ -17,10 +17,14 @@ and let us know. We'd be happy to promote it and list it here.
 
 We have several pages of meetup documentation:
 
-* `Starting a Meetup <../organizer-guide/meetups/starting>`_
-* `Meetup FAQs <../organizer-guide/meetups/faq-meetups>`_
-* `Making your meetups more sustainable <../organizer-guide/meetups/sustainable-meetups>`_
 
+.. toctree::
+   :maxdepth: 1
+
+   events
+   ../organizer-guide/meetups/starting
+   ../organizer-guide/meetups/faq-meetups
+   ../organizer-guide/meetups/sustainable-meetups
 
 Current Meetups: North America
 ------------------------------
@@ -58,3 +62,4 @@ Know of a meetup not shown here? `Add it to the list <https://github.com/writeth
 
    nyc
    philly
+   sf-bay

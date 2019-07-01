@@ -83,7 +83,7 @@ at the Prague Boats pier no. 5.
    within walking distance of the conference venue.
 -  There are good public transportation options and taxi services. Check
    out the `Visiting Prague section of the Write the Docs
-   website <http://www.writethedocs.org/conf/eu/2017/visiting/>`__ for
+   website <https://www.writethedocs.org/conf/eu/2017/visiting/>`__ for
    more info.
 
 **How should I dress?**
@@ -94,7 +94,7 @@ at the Prague Boats pier no. 5.
    conference. You'll be meeting business colleagues at this conference,
    though, so neat and comfortable are good dress guidelines.
 -  If you are going on the `Write the Docs boat tour on
-   Saturday <http://www.writethedocs.org/conf/eu/2017/boat/>`__, be sure
+   Saturday <https://www.writethedocs.org/conf/eu/2017/boat/>`__, be sure
    to bring appropriate out-of-doors clothes and shoes. Prague, like most of
    Europe, experiences some ups and downs in the autumn. The first year we
    were here we had a heat wave, and last year we got rained on, so you
@@ -131,7 +131,7 @@ at the Prague Boats pier no. 5.
 **What should I do during the talks?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Conference talks at Auto Klub <http://www.writethedocs.org/conf/eu/2017/speakers/>`__
+`Conference talks at Auto Klub <https://www.writethedocs.org/conf/eu/2017/speakers/>`__
 
 -  The time between talks is for meeting your colleagues or taking a
    break. During the talks, listen and take in as much as you can.
@@ -160,7 +160,7 @@ at the Prague Boats pier no. 5.
 -  The unconference is a set of informal sessions that take place across the foyer
    from the main stage on Monday afternoon and Tuesday morning.
    `Unconference talks focus on exchanges of ideas between
-   participants. <http://www.writethedocs.org/conf/eu/2017/unconference/>`__
+   participants. <https://www.writethedocs.org/conf/eu/2017/unconference/>`__
 -  You can attend unconference sessions, or, if you have an idea for a
    session, you can lead one.
 -  To lead an unconference session, post a summary of your topic on a
@@ -182,7 +182,7 @@ at the Prague Boats pier no. 5.
    will be a sign-up sheet at registration.
 -  If you are interested in giving a lightning talk, be prepared! There
    is a great guide
-   `here <http://www.writethedocs.org/conf/eu/2017/lightning-talks/?highlight=re>`__.
+   `here <https://www.writethedocs.org/conf/eu/2017/lightning-talks/?highlight=re>`__.
 
 **How do I make the most out of this conference?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -198,7 +198,7 @@ are some tips:
    the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow
    the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
    and review the `list of
-   speakers <http://http//www.writethedocs.org/conf/eu/2017/speakers/>`__.
+   speakers <http://www.writethedocs.org/conf/eu/2017/speakers/>`__.
 -  Figure out which companies will be represented at the conference. If
    you see a job post you're interested in, you might want to ask them a
    few questions. This might be a great time to better understand what

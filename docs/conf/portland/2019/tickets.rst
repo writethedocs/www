@@ -10,11 +10,23 @@ Ticket Information
 
 **Tickets are on sale now!**
 
+{% elif flaghasschedule %}
+
+Ticket status
+~~~~~~~~~~~~~
+
+**Tickets are sold out!**
+
+We have a `waiting list <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`_ where you can register in case of cancellations, but we usually don't have a high rate of cancellations so please do not book travel unless you have a ticket.
+
 {% else %}
 
-**Tickets will be available in January.**
+**Tickets will be available in {{ date.tickets_live }}.**
 
 {% endif %}
+
+Ticket details
+~~~~~~~~~~~~~~
 
 Each ticket includes:
 
@@ -41,9 +53,9 @@ Ticket Types
 **Official Conference Shirts**
 ------------------------------------
 
-Inspired by our friends at DjangoCon US, we decided to shake things up and sell shirts separately, so you can buy exactly the fit and size that you want! You can now visit our `Write the Docs Portland 2018 Pop-Up Shop <https://teespring.com/wtd-portland-2018-shirts>`_ and order this year’s branded shirt. The campaign will run until **April 15th** to allow for timely delivery of your shirts ahead of the conference.
+Inspired by our friends at DjangoCon US, we decided to shake things up and sell shirts separately, so you can buy exactly the fit and size that you want! You can now visit our `Write the Docs Portland 2019 Pop-Up Shop <https://teespring.com/wtd-portland-2019>`_ and order this year’s branded shirt. The campaign will run until **April 15th** to allow for timely delivery of your shirts ahead of the conference.
 
-* `Buy Portland 2018 Shirt <https://teespring.com/wtd-portland-2018-shirts>`__
+* `Buy Portland 2019 Shirt <https://teespring.com/wtd-portland-2019>`__
 
 {% endif %}
 
@@ -65,7 +77,7 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 **Independent Tickets** *{{tickets.independent.price}}*
 --------------------------------------------
 
-Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with less than 10 employees.
+Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees.
 
 {% if flagticketsonsale %}
 
@@ -85,23 +97,6 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 * `Buy Student or Unemployed Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
 
 {% endif %}
-
-.. class:: ticket
-
-**Community Sponsorship Tickets** *{{tickets.community.price}}*
---------------------------------------------------
-
-Support the growing community! Get a logo on our website, as well as a ticket.
-This option is great for startups, open-source projects, and small non-profit organizations.
-Limit 1 per organization.
-If you are a larger company or organization, please contact us at sponsorship@writethedocs.org to arrange for sponsorship.
-
-{% if flagticketsonsale %}
-
-* `Buy Community Sponsorship Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
-
-{% endif %}
-
 
 .. class:: ticket
 

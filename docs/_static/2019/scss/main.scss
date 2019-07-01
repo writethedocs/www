@@ -190,7 +190,7 @@ body .page-content {
 	.ticket {
 		padding: 24px 36px;
 		background-color: #EFEFED;
-		border: 2px solid #AEBFB0;
+		border: 2px solid #ea7852;
 		margin-top: 36px;
 		border-radius: 3px;
 		margin-top: 20px;
@@ -262,6 +262,10 @@ body .page-content {
 
 			.item-speaker-picture {
 				display: none;
+			}
+
+			.item-content {
+				max-width: 350px;
 			}
 		}
 	}
@@ -650,6 +654,13 @@ body .uk-offcanvas-slide a.uk-button-ghost {
 	}
 }
 
+.sponsors-footer {
+	padding: 48px 24px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
 .sponsors {
 	padding: 48px 24px;
 	display: flex;
@@ -663,9 +674,10 @@ body .uk-offcanvas-slide a.uk-button-ghost {
 		margin-left: auto;
 		margin-right: auto;
 		padding-bottom: 20px;
+		margin: 15px;
 	}
 
-	.gold-sponsors, .silver-sponsors, .bronze-sponsors, .sponsor {
+	.gold-sponsors, .silver-sponsors, .bronze-sponsors, .community-sponsors, .sponsor {
 	   		a {
 				border: none !important;
 				border-bottom: none !important;
@@ -1093,7 +1105,7 @@ footer {
 	}
 
 	.sponsors {
-		.gold-sponsors, .silver-sponsors, .bronze-sponsors, .sponsor {
+		.gold-sponsors, .silver-sponsors, .bronze-sponsors, .community-sponsors, .sponsor {
 			flex-direction: row;
 			flex-wrap: wrap;
 
@@ -1332,3 +1344,14 @@ body .uk-navbar-dropdown-nav>li>a:focus, body .uk-navbar-dropdown-nav>li>a:hover
 @mixin hook-card() { color: #000; }
 
 @import "uikit-theme.scss";
+
+
+.crew-images {
+	float: left;
+	width: 100%;
+}
+
+.crew-image {
+	float: left;
+	margin-right: 15px;
+}

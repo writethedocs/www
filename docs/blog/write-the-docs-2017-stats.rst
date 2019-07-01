@@ -14,7 +14,7 @@ so that we can look back and see how we've changed as a community.
 We continue to grow and expand,
 and we're glad to have you along with us!
 
-.. note:: You can also read our post from `2016 <http://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/>`_.
+.. note:: You can also read our post from `2016 <https://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/>`_.
 
 Conferences
 ===========
@@ -27,7 +27,7 @@ We have sold out both the Portland & Prague :doc:`conferences </conf/index>` the
 We've intentionally kept them smaller to maintain the intimate feel of the events,
 but might grow them slowly over time in order to accommodate more people.
 
-We continue to publish :doc:`videos </videos>` freely to the public. 
+We continue to publish `videos </videos/>`_ freely to the public.
 Doing this is more inclusive to people who cannot attend the conferences, promotes learning, and is part of our :doc:`commitment to openness </about/about-the-org>`.
 
 Slack Network

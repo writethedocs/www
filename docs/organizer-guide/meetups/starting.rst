@@ -57,12 +57,22 @@ Tips:
 * **Topics**: We want to include everyone interested in software documentation. Include topics that help publicize your meetups to the developers and engineers in your area, such as Python, JavaScript, APIs, Perl, Ruby, UX, User Experience, as well as standard topics associated with technical writing.
 * **Name**: Our Meetup names follow a naming convention: such as "Write the Docs", for example, "Write the Docs PDX".
 * **Members' name**: Our standard name for members is "Documentarian".
-* **Code of Conduct**: Do include a code of conduct. For options, see the standard Write the Docs' :doc:`/code-of-conduct` or the abbreviated version used by `Write the Docs PDX <https://www.meetup.com/Write-The-Docs-PDX/pages/19618086/Code_of_Conduct/>`_
 
 After you've started your Meetup, `add
 it to the list <https://github.com/writethedocs/www/tree/master/docs/_data/meetups>`_
 or `send us an email <mailto:support@writethedocs.org>`_ so we
 can add your Meetup information to the :doc:`/meetups/index` list.
+
+Code of Conduct
+~~~~~~~~~~~~~~~
+
+All Write the Docs meetups are required to adopt the Write the Docs community :doc:`/code-of-conduct`.
+A :doc:`short form CoC is available for meetups </code-of-conduct-shortform-meetups>`, which needs to be included in your Meetup description in full.
+We also ask that you highlight the Code of Conduct at the start of every meetup.
+
+As an organiser, you are the first point of contact for reports of Code of Conduct incidents. Please read the :doc:`/code-of-conduct-response` carefully, and use it as a reference when an incident is reported to you.
+
+If you have any questions about CoC processes or how to respond to a report, feel free to contact conduct@writethedocs.org.
 
 Find a Place to Meet
 --------------------
@@ -136,7 +146,7 @@ Figure out your approximate ratio between RSVP / attendees. This might be around
 Speakers:
 ~~~~~~~~~
 
-* Look for previous and future speakers at `Write the Docs conferences <http://www.writethedocs.org/conf/>`__.
+* Look for previous and future speakers at `Write the Docs conferences <https://www.writethedocs.org/conf/>`__.
 * Scan other conferences local speakers.
 * Review other meetups and conferences for speakers of interest, in areas such as APIs, Agile, software languages, and more.
 * Speakers are often willing to reframe their talks from a documentation point of view.
@@ -163,7 +173,7 @@ Topics:
 The following are examples of topics that have worked well for other meetups:
 
 * API docs
-* Contibuting to OSS
+* Contributing to OSS
 * Easy entry to OSS
 * Navigating career path (different sectors of tech writing)
 * Sketchnoting as documentation
@@ -181,7 +191,7 @@ If You Can't Find a Local Speaker
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If you can't find a local speaker, consider screening a popular talk from one of the
-`Write the Docs conferences <http://www.writethedocs.org/videos/>`_ and inviting the conference presenter to call in for
+`Write the Docs conferences <https://www.writethedocs.org/videos/>`_ and inviting the conference presenter to call in for
 a live Q & A session. Both the Boulder and Austin meetups have done well with this format.
 
  * `So you need to document an API <https://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/events/232962552/>`_

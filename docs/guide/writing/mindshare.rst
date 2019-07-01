@@ -40,7 +40,7 @@ A big problem with a lot of documentation systems is that they have been organiz
 Make it easy
 -------------
 
-It should be as easy and straight-forward getting started as possible. Most people don't like change, and introducing new tooling and things will already rouse a negative response in some. This is why you need to make it as simple as possible to get started.
+Getting started should be as easy and straight-forward as possible. Most people don't like change, and introducing new tooling and things will already rouse a negative response in some. This is why you need to make it as simple as possible to get started.
 
 Build templates
 ~~~~~~~~~~~~~~~

@@ -25,7 +25,7 @@ Remember to change the things in `[brackets]`!
   Write the Docs conferences bring together everyone who writes the docs – Tech Writers, Developers, Developer Relations, Customer Support – making the events an ideal networking opportunity.
   Each conference successfully combines a number of different event formats to deliver engaging, practical, and timely content.
 
-  There is a single track of talks, a parallel unconference event, and hands-on workshops on both days. The `sessions from 2017 <http://www.writethedocs.org/conf/{{shortcode}}/2017/speakers/>`_ will give you a good idea of the kinds of topics covered, many of which are relevant to my work.
+  There is a single track of talks, a parallel unconference event, and hands-on workshops on both days. The `sessions from 2017 <https://www.writethedocs.org/conf/au/2017/speakers/>`_ will give you a good idea of the kinds of topics covered, many of which are relevant to my work.
 
   Costs:
 

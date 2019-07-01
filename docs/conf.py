@@ -1,11 +1,15 @@
 # -*- coding: utf-8 -*-
 #
 
-from recommonmark.parser import CommonMarkParser
 from recommonmark.transform import AutoStructify
 import ablog
 import sys
 import os
+
+# Only for windows compatability - Forces default encoding to UTF8, which it may not be on windows
+if os.name == 'nt':
+    reload(sys)
+    sys.setdefaultencoding('UTF8')
 
 
 sys.path.append(os.getcwd())  # noqa
@@ -15,32 +19,36 @@ from _ext.core import (
     set_html_context, unset_html_context
 )
 from _ext.meetups import MeetupListing
-from _ext.videos import main
-
+from _ext.atom_absolute import rewrite_atom_feed
 
 exclude_patterns = [
     '_build',
     'include',
-    '_data',
+    #'_data',
     'node_modules',
 ]
 
 # Only build the videos on production, to speed up dev
-import os
-on_rtd = os.environ.get('READTHEDOCS') == 'True'
-on_netlify = os.environ.get('BUILD_VIDEOS') == 'True'
-on_travis = os.environ.get('TRAVIS') == 'True'
-if not on_rtd and not on_netlify and not on_travis:
+on_rtd = str(os.environ.get('READTHEDOCS')).lower() == 'true'
+build_videos = str(os.environ.get('BUILD_VIDEOS')).lower() == 'true'
+if not on_rtd and not build_videos:
+    print('EXCLUDING VIDEO PATHS. Video links will not work.')
     exclude_patterns.append('videos')
+    REWRITE_FEED = False
+else:
+    print('BUILDING VIDEOS. All video links should work.')
+    REWRITE_FEED = True
 
 extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
+    'notfound.extension',
+    'recommonmark',
 ]
-blog_baseurl = 'http://www.writethedocs.org/'
+blog_baseurl = 'https://www.writethedocs.org/'
 blog_path = 'blog/archive'
 blog_authors = {
-    'Team': ('Write the Docs Team', 'http://www.writethedocs.org/team/'),
+    'Team': ('Write the Docs Team', 'https://www.writethedocs.org/team/'),
     'eric': ('Eric Holscher', 'http://ericholscher.com'),
     'kelly': ("Kelly O'Brien", 'https://twitter.com/OBrienEditorial'),
 }
@@ -57,9 +65,6 @@ fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/f
 templates_path = ['_templates', 'include']
 templates_path.append(ablog.get_html_templates_path())
 
-source_parsers = {
-    '.md': CommonMarkParser,
-}
 source_suffix = ['.rst', '.md']
 
 master_doc = 'index'
@@ -127,10 +132,18 @@ html_context = {
     'conferences': load_conference_data(),
 }
 
-# Uncomment this line to generate videos
-#html_context.update(main())
+if build_videos:
+    from _ext.videos import main
 
-# html_experimental_html5_writer = True
+    if os.environ.get('MEETUP_API_KEY'):
+        try:
+            from _ext.meetup_events import main as meetup_main
+            html_context.update(meetup_main())
+        except:
+            print('Could not get meetup events.')
+    html_context.update(main())
+
+notfound_no_urls_prefix = True
 
 def setup(app):
     # Set up our custom jinja filters
@@ -146,11 +159,15 @@ def setup(app):
     # Render HTML templates with proper HTML context
     app.connect('html-page-context', override_page_template)
 
+    if on_rtd or build_videos or REWRITE_FEED:
+        app.connect('build-finished', rewrite_atom_feed)
+
     app.add_directive('meetup-listing', MeetupListing)
     app.add_config_value('recommonmark_config', {
         'auto_toc_tree_section': 'Contents',
-        'enable_auto_doc_ref': True,
+        # 'enable_auto_doc_ref': True,
         'enable_eval_rst': True,
     }, True)
     app.add_transform(AutoStructify)
     app.add_stylesheet('css/global-customizations.css')
+    app.add_javascript('js/jobs.js')

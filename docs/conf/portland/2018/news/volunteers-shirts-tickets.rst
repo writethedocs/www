@@ -61,14 +61,14 @@ Thanks sincerely to the following companies for joining our sponsor lineup and s
 - `Twilio <https://www.twilio.com/>`_
 - `Cloud Native Computing Foundation <https://www.cncf.io/>`_
 
-We're excited about the new Job Fair this year, along with the other normal sponsorship activies that we have had in past years.
+We're excited about the new Job Fair this year, along with the other normal sponsorship activities that we have had in past years.
 
 If your company is hiring or looking to learn more from our community, you can find for information for `Portland`_ and `Prague`_ sponsorships.
 
-.. _Portland: http://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/
-.. _Prague: http://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/
+.. _Portland: https://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/
+.. _Prague: https://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/
 
 Prague conference launch
 ------------------------
 
-In case you can't make it to this year's Portland conference, or if you can't get enough of Write the Docs, we're happy to announce that ticket sales and call for proposals are now open for `our Prague conference, September 9-11 <http://www.writethedocs.org/conf/prague/2018/>`_.
+In case you can't make it to this year's Portland conference, or if you can't get enough of Write the Docs, we're happy to announce that ticket sales and call for proposals are now open for `our Prague conference, September 9-11 <https://www.writethedocs.org/conf/prague/2018/>`_.
