@@ -82,6 +82,21 @@ Relevant talks from Write The Docs:
 
 It's important to create consistency in your content types. This allows you to manage your audience's expectations for what they will learn on any given page.
 
+### API documentation
+
+Clear, well-formated, and detailed API documentation is the key for developers to quickly consume and implement your API. It is also key to helping developers understand what happens when an API call is mad, and in the case of failure, understand what went wrong and how to fix it.
+
+The best API documentation is often the result of a designed API. Documentation cannot fix a badly planned API, and it is best to work on developing the API and the documentation concurrently.
+
+[Our guide to API documentation](https://www.writethedocs.org/guide/api/about-api-documentation/).
+
+Additional resources:
+
+- [PayPal's API Design Guidelines](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
+- [Microsoft's REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+- [Documenting APIs: a guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
+- [The Ten Essentials for Good API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation/) by A List Apart
+
 ### FAQs
 
 Frequenty Asked Questions (FAQs) exist to educate and guide users through need-to-know information, pointing them to additional resources when necessary. FAQs should be short and limited.
@@ -115,13 +130,13 @@ Consider the following when creating an entry for your release notes:
 
 Some example release notes:
 
-+ [Jira release notes](https://confluence.atlassian.com/jirasoftware/jira-software-release-notes-776821069.html)
-+ [Slack](https://slack.com/release-notes/mac) and [more about their release note style](https://slackhq.com/a-little-thing-about-release-notes#)
-+ [What's new in Google Ad Manager](https://support.google.com/admanager/answer/179039?hl=en)
+- [Jira release notes](https://confluence.atlassian.com/jirasoftware/jira-software-release-notes-776821069.html)
+- [Slack](https://slack.com/release-notes/mac) and [more about their release note style](https://slackhq.com/a-little-thing-about-release-notes#)
+- [What's new in Google Ad Manager](https://support.google.com/admanager/answer/179039?hl=en)
 
 Related talks:
 
-+[Learning to love release notes](http://www.writethedocs.org/videos/prague/2018/learning-to-love-release-notes-anne-edwards/) at Write The Docs Prague 2018
+- [Learning to love release notes](http://www.writethedocs.org/videos/prague/2018/learning-to-love-release-notes-anne-edwards/) at Write The Docs Prague 2018
 
 
 ### Content still needed
@@ -131,8 +146,6 @@ Related talks:
 #### Tutorials / How-To 
 
 #### Concepts, Overview
-
-#### API documentation
 
 ## Writing Style
 
