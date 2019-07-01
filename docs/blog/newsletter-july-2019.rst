@@ -34,10 +34,10 @@ The general conclusion was: it's not easy to make the move, but if you're happy 
 For those considering management, take a look at `Rands Leadership Slack <https://randsinrepose.com/welcome-to-rands-leadership-slack/>`__), which offers  coaching and educational resources. You can also listen to the episodes of Tom Johnson's podcasts that reflect how to manage an all-star team of technical writers: `Managing Writers <https://idratherbewriting.com/2009/03/23/managing-writers-interview-with-richard-hamilton-podcast/>`_ and `Managing Virtual Teams <https://idratherbewriting.com/2007/04/29/managingvirtualteams/>`_.
 
 -------------------------------------------------------
-READMEs on READMEs (and other README related resources)
+READMEs on READMEs (and other README-related resources)
 -------------------------------------------------------
 
-As documentarians, many of us also love to read and write about documentation - especially in READMEs! This month, Write the Docs community members shared a number of excellent resources to help you write quality READMEs. Check these out:
+READMEs are a really important starting point for a code project, often the first thing people see about it. Fortunately, there are tons of great resources to help you write quality READMes. Check these out:
 
 * `Art of README <https://github.com/noffle/art-of-readme>`_
 * `Standard README <https://github.com/RichardLitt/standard-readme/>`_
@@ -53,7 +53,7 @@ For those who might consider freelancing …
 
 … a generous Slack contributor provided a wealth of information and advice about what to look for and what to expect in the land of freelance work.
 
-We were planning to write this up for the newsletter, but very kindly the contributor did the work for us! So you can read the write-up here: `Real Talk: Freelance/Contract Writing <https://dacharycarey.com/2019/06/12/real-talk-freelance-contract-writing/>`__
+We were planning to write this up for the newsletter, but very kindly the contributor did it for us! So you can read the write-up here: `Real Talk: Freelance/Contract Writing <https://dacharycarey.com/2019/06/12/real-talk-freelance-contract-writing/>`__
 
 A few other people also weighed in with some comments. Some don't work with a 1099 but set up their own corporations (S-Corp or LLC), and then work as their own employees. This approach can provide tax benefits for US workers, and can sometimes make you more appealing to a larger employer. People also suggested that professional support, in the form of a lawyer or accountant, is important if you're planning to work freelance long-term.
 
@@ -63,7 +63,7 @@ And if you're going the independent route, don't forget to consider staffing age
 What to do about text wrapping
 ------------------------------
 
-A very specific topic, but one that comes up for almost everyone working with docs-as-code: should you mandate text wrapping in your docs source, and if so, how? For some background before digging into this summary, check out `To Wrap or Not to Wrap: One of Life's Greatest Questions <https://about.gitlab.com/2016/10/11/wrapping-text/>`_ 
+A very specific topic, but one that usually comes when working with docs-as-code: should you mandate text wrapping in your docs source, and if so, how? For some background before digging into this summary, check out `To Wrap or Not to Wrap: One of Life's Greatest Questions <https://about.gitlab.com/2016/10/11/wrapping-text/>`_.
 
 Forcing a hard wrap at a particular character count or column helps avoid `reflow problems <https://www.w3.org/TR/WCAG21/#reflow>`_, but causes other problems. For example, hard wraps:
 
@@ -79,7 +79,7 @@ Several people mentioned `one sentence per line <https://rhodesmill.org/brandon/
 From our sponsor: Spotlight on The Not-Boring Tech Writer podcast 
 -----------------------------------------------------------------
 
-Excitingly, this month's newsletter is sponsored by KnowledgeOwl!
+This month's newsletter is sponsored by KnowledgeOwl!
 
 "Do you love documentation and podcasts? Check out our `spotlight on The Not-Boring Tech Writer podcast <https://www.knowledgeowl.com/home/not-boring-tech-writer-podcast-relaunch>`__. Each episode focuses on a single skill or tool to provide you with actionable content.
 
