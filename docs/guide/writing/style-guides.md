@@ -161,13 +161,11 @@ Related talks:
 - [Learning to love release notes](http://www.writethedocs.org/videos/prague/2018/learning-to-love-release-notes-anne-edwards/) at Write The Docs Prague 2018
 
 
-### Content still needed
+### User Guide / Manuals
 
-#### User Guide / Manuals
+### Tutorials / How-To 
 
-#### Tutorials / How-To 
-
-#### Concepts, Overview
+### Concepts, Overview
 
 ## Writing Style
 
