@@ -83,8 +83,11 @@ This month's newsletter is sponsored by KnowledgeOwl!
 If you're interested in sponsoring our newsletter,
 there is more information in our `sponsorship prospectus </newsletter/sponsorship/>`_.
 
+
+
 .. raw:: html
 
+    <hr>
     <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
       <tbody>
         <tr>
@@ -93,11 +96,13 @@ there is more information in our `sponsorship prospectus </newsletter/sponsorshi
               Do you love documentation and podcasts? Check out our <a class="reference external" href="https://www.knowledgeowl.com/home/not-boring-tech-writer-podcast-relaunch">spotlight on The Not-Boring Tech Writer podcast</a>. Each episode focuses on a single skill or tool to provide you with actionable content.
               </p>
               <p>
-              KnowledgeOwl is proud to sponsor TNBT podcast along with the WTD newsletter. KnowledgeOwl makes knowledge base software and loves to help documentarians. Check out the <a class="reference external" href="https://www.knowledgeowl.com/home">KnowledgeOwl website</a> to learn more.
+              KnowledgeOwl is proud to sponsor TNBT podcast along with the WTD newsletter. KnowledgeOwl makes knowledge base software and loves to help documentarians. Check out the <a class="reference external" href="https://www.knowledgeowl.com/home?utm_source=newsletter&utm_campaign=wtd-jul-2019">KnowledgeOwl website</a> to learn more.
               </p>
           </td>
           <td width="25%">
+            <a href="https://www.knowledgeowl.com/home?utm_source=newsletter&utm_campaign=wtd-jul-2019">
               <img alt="knowledgeowl" src="../../_images/knowledge-owl-logo.png">
+            </a>
           </td>
         </tr>
       </tbody>
