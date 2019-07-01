@@ -11,9 +11,6 @@ Key takeaways
 * Make the effort to connect with people in person.
 
 
-Finding technical writing
--------------------------
-
 **What formal education do you have?**
 
     I went to a private high school in Palo Alto, and then I went and did a year as an exchange student in
@@ -60,9 +57,6 @@ years as an editor and writer for Wind River, a company that produced microproce
 moved on to Aspera where she works now.
 
 
-Experience as a technical writer
-----------------------------------------------------
-
 **How did you differentiate yourself during your initial job search?**
 
     I had to have a portfolio of sorts, and this is long enough ago that it was still pretty usual for 
@@ -105,16 +99,14 @@ company that specialized in embedded systems.
     Well the problem with Wind River was I liked writing for a really technical audience, because there's 
     just something kind of appealing to my brain about technical complexity. But one of the reasons I left 
     that job is that I was there for 14 years and never once talked to a customer. So it was too virtual, 
-    you know, it was fiction.  Sometimes software shops will have the writers sit it on a support call, or 
+    you know, it was fiction. Sometimes software shops will have the writers sit it on a support call, or 
     they'll have them attend a user's conference. Wind River would have a, users conference. I never heard 
     about it. I didn't know where or when they were, who attended, but if you did send a writer or let's say, 
     a graphic designer or a UX designer to a users conference, then they get to see who is using the thing 
     that they're helping to make. So I think that's really important makes. It really It makes it less like 
     fiction. 
 
-
-Advice for the aspiring documentarians in the community
----------------------------------------------------------------------------
+**What advice do you have for the aspiring documentarians in the community?**
 
     For new writers, I think talking to people is important. Yes, there are all these courses out there, 
     and they're all these resources. You know, there's so much of that, and that does matter. People say go 

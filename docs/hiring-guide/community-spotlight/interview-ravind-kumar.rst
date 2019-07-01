@@ -10,9 +10,6 @@ Key takeaways
 * When writing documentation, don't make the user work for the information.
 
 
-Finding technical writing
--------------------------
-
 **What formal education do you have?**
 
     My background was in journalism. That's where I did 2.5 years out of my four year degree, switching from computer science to 
@@ -39,9 +36,6 @@ After some time, Ravind moved to New York and transitioned to writing in the fin
 documents and user-facing documentation and market data /newsletter content. He now works as a senior technical writer for MongoDB 
 in New York contributing to their server documentation.
 
-
-Experience as a technical writer
---------------------------------
 **When you were starting out with your first job, were those skills learned mostly in the workplace, or did you have some experience beforehand?**
 
     That was on the job. One of the projects managers walked me through the existing documentation. He gave me a quick tutorial on 
@@ -73,9 +67,7 @@ Experience as a technical writer
     software. At MongoDB, I only document the server, but that project is so large that it's still pretty significant. I do 
     definitely still feel like I have ownership but it's a little bit more of a shared responsibility.
 
-
-Advice for the aspiring documentarians in the community
--------------------------------------------------------
+**What advice do you have for the aspiring documentarians in the community?**
 
     If I were to go back to myself fresh out of college, I think the biggest thing would have been just reminding myself that you 
     have to put your diligence into learning these technologies. It's really not enough to do a surface read. That doesn't get you 

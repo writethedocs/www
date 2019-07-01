@@ -12,9 +12,6 @@ Key takeaways
 Chris had a background in communications before becoming a software engineer. Before taking his first 
 job as a software engineer, he worked doing copywriting and marketing.
 
-Experience transitioning between fields
----------------------------------------
-
 **How did you end up moving from marketing to software engineering?**
 
     So that kind of came from this community. What actually happened was that I was doing webdev in my spare 
@@ -26,9 +23,6 @@ Experience transitioning between fields
     some feedback, and we'll go from there." So I thought was that wasn't good. They're going to come back, 
     and I won't have the job. Because, you know, when they say that they have feedback, that's never a good 
     sign. So they called me later that day. And they said, "Yeah, we want to offer you the job."
-
-Involvement with the Write the Docs community
----------------------------------------------
 
 **How did you meet Alex and get involved with the community?**
 
@@ -71,8 +65,7 @@ Involvement with the Write the Docs community
     to learn Javascript. It behooves you to learn Ruby on Rails, because that's probably what the APIs in 
     the area are going to be built in.
 
-Advice for grads starting to build their careers
-------------------------------------------------
+**What advice do you have for recent grads looking for opportunities in the job market?**
 
     Focus on the technology, because it's not going to go away. If anything we're going to become more 
     technical as things go on. Having technical sophistication, meaning being able to google your problems 
