@@ -63,6 +63,45 @@ Here are some example guides for code samples:
 - [Ruby / other languages](http://guides.rubyonrails.org/api_documentation_guidelines.html)
 - [Al language snippets](https://bocoup.com/blog/documenting-your-api)
 
+### API documentation
+
+Clear, well-formated, and detailed API documentation is the key for developers to quickly consume and implement your API. It is also key to helping developers understand what happens when an API call is mad, and in the case of failure, understand what went wrong and how to fix it.
+
+From the perspective of a user:
+
+> If a feature is not documented, it does not exist. If a feature is documented incorrectly, then it is broken.
+
+The best API documentation is often the result of a [designed API](#documentation-driven-design). Documentation cannot fix a badly planned API, and it is best to work on developing the API and the documentation concurrently.
+
+If your API already exists, automated reference documentation can be useful to document the API in the current state. If your API is still being implemented, API documentation can perform a vital function in the design process.
+
+#### Documentation-driven design
+
+If your API still has to be built, you can create API documentation to help with the design process. The documentation-driven design philosophy comes down to this:
+
+> Documentation changes are cheap, code changes are expensive.
+
+By designing your API through documentation, you can easily get feedback and iterate your design before any development has to happen.
+
+Some API documentation formats have the added benefit of being machine readable. This opens the door to a multitude of additional tools that can help during the entire lifecycle of your API:
+
+- Create a mock server to help during the initial API design
+- Test your API before deployment to ensure that the API and the documentation matches
+- Create interactive documentation that allows developers to perform demo requests to your API
+
+#### Test-driven documentation
+
+Test-driven documentation aims to improve upon the typical approaches to automated documentation. It allows you to write the bulk of the documentation by hand while also ensuring its accuracy by using your API's tests to generate some of the content.
+
+Projects such as [Spring REST Docs](https://spring.io/projects/spring-restdocs) use your API's tests to generate small snippets of documentation that can be included in hand-written API documentation. The accuracy of the documentation is ensured by the tests – if the API's documentation becomes inconsistent with its implementation the tests that generate the snippets will fail.
+
+#### Additional resources
+
+- [PayPal's API Design Guidelines](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
+- [Microsoft's REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+- [Documenting APIs: a guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
+- [The Ten Essentials for Good API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation/) by A List Apart
+
 ## Thinking about accessibility
 
 It's important to consider accessibility in your style guide to ensure the content you produce can be best understood by all readers. Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
@@ -81,21 +120,6 @@ Relevant talks from Write The Docs:
 ## Content guidelines
 
 It's important to create consistency in your content types. This allows you to manage your audience's expectations for what they will learn on any given page.
-
-### API documentation
-
-Clear, well-formated, and detailed API documentation is the key for developers to quickly consume and implement your API. It is also key to helping developers understand what happens when an API call is mad, and in the case of failure, understand what went wrong and how to fix it.
-
-The best API documentation is often the result of a designed API. Documentation cannot fix a badly planned API, and it is best to work on developing the API and the documentation concurrently.
-
-[Our guide to API documentation](https://www.writethedocs.org/guide/api/about-api-documentation/).
-
-Additional resources:
-
-- [PayPal's API Design Guidelines](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
-- [Microsoft's REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
-- [Documenting APIs: a guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
-- [The Ten Essentials for Good API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation/) by A List Apart
 
 ### FAQs
 
