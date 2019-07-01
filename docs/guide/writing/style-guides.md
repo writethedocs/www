@@ -51,36 +51,57 @@ If you belong to an open-source community or NGO, you can consider the following
 
 Technical documentation takes many forms, each one targeting a certain need. Here, we can think of examples like tutorials, API documentation, and user manuals. So while many style guides adequately cover the main concerns of all technical documentation, sometimes a more specialized guide is needed.
 
-### Thinking about accessibility
+## Style for developers
 
-It's important to consider accessibility in your style guide to ensure the content you produce can be best understood by all readers. Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
+Developer documentation often have a specific set of rules in order to best meet their needs.
 
-A few great resources:
+### Code samples
 
-- [MailChimp's writing style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
-- [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
-- [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bitsofcode
-
-#### Relevant talks from Write The Docs
-
-- [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write The Docs Prague 2018
-- [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015 
-
-### More info is needed for the following
-
-#### User Guide / Manuals
-
-#### Tutorials / How-To / FAQ
-
-#### Concepts, Overview
-
-#### Code Snippets
+Here are some example guides for code samples
 
 - [Google code samples](https://developers.google.com/style/code-samples)
 - [Ruby / other languages](http://guides.rubyonrails.org/api_documentation_guidelines.html)
 - [Al language snippets](https://bocoup.com/blog/documenting-your-api)
 
-#### Release Notes
+## Thinking about accessibility
+
+It's important to consider accessibility in your style guide to ensure the content you produce can be best understood by all readers. Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
+
+### Accessibility resources
+
+- [MailChimp's writing style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
+- [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
+- [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bitsofcode
+
+### Relevant talks from Write The Docs
+
+- [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write The Docs Prague 2018
+- [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015 
+
+## Content guidelines
+
+It's important to create consistency in your content types. This allows you to manage your audience's expectations for what they will learn on any given page.
+
+
+### FAQs
+
+Frequenty Asked Questions (FAQs) exist to educate and guide users through need-to-know information, pointing them to additional resources when necessary. FAQs should be short and limited.
+
+Effective FAQ pages accomplish the following:
+
+- Reflects the audience needs. This may derrive from understanding search results which lead to the website or documentation.
+- Regularly updated to reflect the changes in user behavior and data.
+- Drives users to different parts of the website to deliver more detailed information.
+- Cover a broader range of topics that may not otherwise warrant individual pages or pieces of content.
+
+### Content still needed
+
+#### User Guide / Manuals
+
+#### Tutorials / How-To 
+
+#### Concepts, Overview
+
 
 #### API documentation
 
