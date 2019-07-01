@@ -101,7 +101,7 @@ there is more information in our `sponsorship prospectus </newsletter/sponsorshi
           </td>
           <td width="25%">
             <a href="https://www.knowledgeowl.com/home?utm_source=newsletter&utm_campaign=wtd-jul-2019">
-              <img alt="knowledgeowl" src="/blog/knowledge-owl-logo.png">
+              <img alt="knowledgeowl" src="/_static/img/blog/knowledge-owl-logo.png">
             </a>
           </td>
         </tr>
