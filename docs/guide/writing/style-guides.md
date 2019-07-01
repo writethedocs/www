@@ -63,25 +63,6 @@ Here are some example guides for code samples
 - [Ruby / other languages](http://guides.rubyonrails.org/api_documentation_guidelines.html)
 - [Al language snippets](https://bocoup.com/blog/documenting-your-api)
 
-## Thinking about accessibility
-
-It's important to consider accessibility in your style guide to ensure the content you produce can be best understood by all readers. Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
-
-### Accessibility resources
-
-- [MailChimp's writing style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
-- [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
-- [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bitsofcode
-
-Relevant talks from Write The Docs:
-
-- [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write The Docs Prague 2018
-- [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015 
-
-## Content guidelines
-
-It's important to create consistency in your content types. This allows you to manage your audience's expectations for what they will learn on any given page.
-
 ### API documentation
 
 Clear, well-formated, and detailed API documentation is the key for developers to quickly consume and implement your API. It is also key to helping developers understand what happens when an API call is mad, and in the case of failure, understand what went wrong and how to fix it.
@@ -114,12 +95,31 @@ Test-driven documentation aims to improve upon the typical approaches to automat
 
 Projects such as [Spring REST Docs](https://spring.io/projects/spring-restdocs) use your API's tests to generate small snippets of documentation that can be included in hand-written API documentation. The accuracy of the documentation is ensured by the tests – if the API's documentation becomes inconsistent with its implementation the tests that generate the snippets will fail.
 
-#### Additional resources
+#### API resources
 
 - [PayPal's API Design Guidelines](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
 - [Microsoft's REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 - [Documenting APIs: a guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
 - [The Ten Essentials for Good API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation/) by A List Apart
+
+## Thinking about accessibility
+
+It's important to consider accessibility in your style guide to ensure the content you produce can be best understood by all readers. Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
+
+### Accessibility resources
+
+- [MailChimp's writing style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
+- [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
+- [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bitsofcode
+
+Relevant talks from Write The Docs:
+
+- [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write The Docs Prague 2018
+- [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015 
+
+## Content guidelines
+
+It's important to create consistency in your content types. This allows you to manage your audience's expectations for what they will learn on any given page.
 
 ### FAQs
 
@@ -180,7 +180,7 @@ The style guides below focus on the actual writing craft itself. They consider h
 - [Voice and Tone](https://styleguide.mailchimp.com/)
 - [Google developer documentation style guide](https://developers.google.com/style/)
 
-## Other resources
+## Other style resources
 
 Rather than reinvent the wheel, here are some resources curated by [Ivan Walsh](http://www.ihearttechnicalwriting.com/style-guide-technical-writing/) (Kudos!):
 
