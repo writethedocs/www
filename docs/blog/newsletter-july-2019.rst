@@ -83,7 +83,7 @@ This month's newsletter is sponsored by KnowledgeOwl!
 
 .. raw:: html
 
-    <table bgcolor="#00FF00" width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
       <tbody>
         <tr>
           <td width="75%">
