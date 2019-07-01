@@ -53,11 +53,11 @@ Technical documentation takes many forms, each one targeting a certain need. Her
 
 ## Style for developers
 
-Developer documentation often have a specific set of rules in order to best meet their needs.
+Developer documentation often has additional rules for formatting code samples, presenting complicated methods, and other rules about presenting technical information.
 
 ### Code samples
 
-Here are some example guides for code samples
+Here are some example guides for code samples:
 
 - [Google code samples](https://developers.google.com/style/code-samples)
 - [Ruby / other languages](http://guides.rubyonrails.org/api_documentation_guidelines.html)
