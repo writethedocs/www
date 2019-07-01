@@ -5,6 +5,7 @@ A style guide is a set of standards for the writing and design of content, defin
 If you happen to have a background in academia or journalism, you will probably be familiar the [AP stylebook](https://en.wikipedia.org/wiki/AP_Stylebook) or the [Chicago manual of style](http://www.chicagomanualofstyle.org/book/ed17/frontmatter/toc.html). Those are great resources for writing in general, particularly for grammar and syntax, but if you're reading this page chances are you are considering style in the context of technical documentation.
 
 ### Technical Documentation
+
 Style guides help you write a variety of content, such as documenting the methods of an API, or presenting an overview of complex technical concepts, or focusing on how to write particular content like user manuals, release notes, or tutorials.
 
 Guides often help writers focus on the different readers of technical documentation, describing how to adapt content to different reader profiles, like developers, product managers, the general public, and others.
@@ -14,6 +15,7 @@ Many focus on the language itself (tone, style, grammar).
 Others go beyond the content and discuss the organisation of the documentation, providing best practices on how to manage your content, version control, or publication and delivery strategies. While this is not what we focus on in our style guide, how your documentation is organized, and how easy it is for your readers to find what they are looking for, can be as important as the content itself.
 
 ## Why do I need a style guide?
+
 A practical reason to use a style guide is that they help you write content. Human languages are extremely flexible, and there are many ways in which a particular message can be communicated. By following a style guide you limit the variation, making it easier for you to focus on getting your message across. This makes style guides extremely useful for people joining projects.
 
 Style guides also increase consistency in your content. There are good reasons why you want to keep a consistent tone, voice and style in your documentation. Marketing-oriented folks understand the importance of voice and tone in building a brand identity, a strategy we can extend into technical writing. Consistency also has a big impact on how effectively you communicate -- that is, on how well you manage to transfer a particular information to your audience.
@@ -55,8 +57,14 @@ It's important to consider accessibility in your style guide to ensure the conte
 
 A few great resources:
 
-- [MailChimp's style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
+- [MailChimp's writing style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
 - [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
+- [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bitsofcode
+
+#### Relevant talks from Write The Docs
+
+- [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write The Docs Prague 2018
+- [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015 
 
 ### More info is needed for the following
 
@@ -77,6 +85,7 @@ A few great resources:
 #### API documentation
 
 ## Writing Style
+
 The style guides below focus on the actual writing craft itself. They consider how to make technical content readable, clear, succinct, and engaging.
 
 - [The Sense of Style](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century)
