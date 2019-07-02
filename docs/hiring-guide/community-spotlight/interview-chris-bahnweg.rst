@@ -9,8 +9,7 @@ Key takeaways
 * Building a portfolio is important to showcase your skills.
 
 
-Chris had a background in communications before becoming a software engineer. Before taking his first 
-job as a software engineer, he worked doing copywriting and marketing.
+**Chris had a background in communications before becoming a software engineer. Before taking his first job as a software engineer, he worked doing copywriting and marketing.**
 
 **How did you end up moving from marketing to software engineering?**
 

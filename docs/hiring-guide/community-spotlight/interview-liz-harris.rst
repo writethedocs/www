@@ -51,10 +51,7 @@ Key takeaways
     and got a job.
 
 
-Liz's first job as a tech writer involved creating documentation for startup called Prototype that 
-produced software for managing fleets of vehicles, like taxis or limousines. Afterwards she spent 8 
-years as an editor and writer for Wind River, a company that produced microprocessors. Afterwards she 
-moved on to Aspera where she works now.
+**Liz's first job as a tech writer involved creating documentation for startup called Prototype that produced software for managing fleets of vehicles, like taxis or limousines. Afterwards she spent 8 years as an editor and writer for Wind River, a company that produced microprocessors. Afterwards she moved on to Aspera where she works now.**
 
 
 **How did you differentiate yourself during your initial job search?**
@@ -67,8 +64,7 @@ moved on to Aspera where she works now.
     touch of detail. But but I think that I really had it in my favor that it was 1998. The job market was 
     crazy.
 
-Liz stayed at her first technical writing job for around two years and then moved on to Wind River, a 
-company that specialized in embedded systems.
+**Liz stayed at her first technical writing job for around two years and then moved on to Wind River, a company that specialized in embedded systems.**
 
     So I was at Wind River for 14 years, if you can believe it. The first couple of years, I was a junior 
     editor and then I converted to the writer role, and then I got converted to a senior writer. I was there 
