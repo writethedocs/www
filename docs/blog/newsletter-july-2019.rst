@@ -9,7 +9,7 @@ Hi, WTD friends, and welcome to the July newsletter! It's Beth A here writing fr
 
 (Fun fact: *canicule* comes from the Latin *dies caniculares*, or "dog days" - the most uncomfortable part of summer, so named because they come after the `heliacal rising <https://en.wikipedia.org/wiki/Heliacal_rising>`_ of Sirius, the Dog Star. Well, I thought it was interesting.)
 
-Aside from fascinating facts about the weather, we also have our usual exciting compendium of announcements and writeups of Slack conversations. Firstly, `tickets are on sale for the Australia conference </conf/australia/2019/news/au-2019-welcome/>`__, and `the call for proposals is also open </conf/australia/2019/cfp/>`__! The CFP closes on 9 August, and the conference itself is 14-15 November in Melbourne.
+Aside from fascinating facts about the weather, we also have some exciting announcements for you. Firstly, `tickets are on sale for the Australia conference </conf/australia/2019/news/au-2019-welcome/>`__, and `the call for proposals is also open </conf/australia/2019/cfp/>`__! The CFP closes on 9 August, and the conference itself is 14-15 November in Melbourne.
 
 As for Europe, you'll be pleased to know that `Prague speakers have been announced </conf/prague/2019/news/talks-volunteers-tickets-shirts/>`__! `Here's the full list </conf/prague/2019/speakers/>`__, and you can grab your tickets `here </conf/prague/2019/tickets/>`__. And if you're interested in helping out behind the scenes, we'd love you to `volunteer at the conference </conf/prague/2019/news/talks-volunteers-tickets-shirts/#call-for-volunteers>`__.
 
@@ -53,7 +53,7 @@ For those who might consider freelancing …
 
 … a generous Slack contributor provided a wealth of information and advice about what to look for and what to expect in the land of freelance work.
 
-We were planning to write this up for the newsletter, but very kindly the contributor did it for us! So you can read the write-up here: `Real Talk: Freelance/Contract Writing <https://dacharycarey.com/2019/06/12/real-talk-freelance-contract-writing/>`__
+We were planning to write this up for the newsletter, but very kindly the contributor did it for us! So you can read all about it here: `Real Talk: Freelance/Contract Writing <https://dacharycarey.com/2019/06/12/real-talk-freelance-contract-writing/>`__
 
 A few other people also weighed in with some comments. Some don't work with a 1099 but set up their own corporations (S-Corp or LLC), and then work as their own employees. This approach can provide tax benefits for US workers, and can sometimes make you more appealing to a larger employer. People also suggested that professional support, in the form of a lawyer or accountant, is important if you're planning to work freelance long-term.
 
@@ -79,7 +79,7 @@ Several people mentioned `one sentence per line <https://rhodesmill.org/brandon/
 From our sponsor: Spotlight on The Not-Boring Tech Writer podcast 
 -----------------------------------------------------------------
 
-As of this month we're introducing newsletter sponsorship, and our first sponsor is KnowledgeOwl! If you're interested in sponsoring the newsletter, all the details are `on the website </newsletter/sponsorship/>`_.
+As of this month we're introducing newsletter sponsorship, and our first sponsor is KnowledgeOwl! If you're interested in sponsoring the newsletter, all the details are `here </newsletter/sponsorship/>`_.
 
 
 
@@ -114,7 +114,7 @@ Job posts
 `Knowledge Management Strategist <https://jobs.writethedocs.org/job/127/knowledge-management-strategist/>`__
  Braintree, Seattle, full-time
 
-*To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
+*To apply for this job and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
 --------------------------
 Community events coming up
