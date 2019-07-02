@@ -11,14 +11,9 @@ Hi, WTD friends, and welcome to the July newsletter! It's Beth A here writing fr
 
 Aside from fascinating facts about the weather, we also have some exciting announcements for you. Firstly, `tickets are on sale for the Australia conference </conf/australia/2019/news/au-2019-welcome/>`__, and `the call for proposals is also open </conf/australia/2019/cfp/>`__! The CFP closes on 9 August, and the conference itself is 14-15 November in Melbourne.
 
-As for Europe, you'll be pleased to know that `Prague speakers have been announced </conf/prague/2019/news/talks-volunteers-tickets-shirts/>`__! `Here's the full list </conf/prague/2019/speakers/>`__, and you can grab your tickets `here </conf/prague/2019/tickets/>`__. And if you're interested in helping out behind the scenes, we'd love you to `volunteer at the conference </conf/prague/2019/news/talks-volunteers-tickets-shirts/#call-for-volunteers>`__.
+As for Europe, you'll be pleased to know that `Prague speakers have been announced </conf/prague/2019/news/talks-volunteers-tickets-shirts/>`__! `Here's the full list </conf/prague/2019/speakers/>`__, and you can grab your tickets `here </conf/prague/2019/tickets/>`__. Plus, if you're interested in helping out behind the scenes, we'd love you to `volunteer at the conference </conf/prague/2019/news/talks-volunteers-tickets-shirts/#call-for-volunteers>`__.
 
-Another project we're announcing is a `Career Community Spotlight </hiring-guide/#community-spotlight>`__, which is focused on how people became documentarians. 
-We're conducting interviews with people in the community,
-allowing them to tell their career stories and give some tips to folks interested in a similar career path.
-We hope that you'll share these with people who are interested in getting into the industry,
-so that they can see a few of the various paths that people take to get here.
-You can also `reach out to us <mailto:jobs@writethedocs.org>`__ if you're interested in having your story included!
+Lastly is a cool addition to the Hiring Guide. The `Career Community Spotlight </hiring-guide/#community-spotlight>`__ is a series of interviews about how people became documentarians, including tips for how to follow the same path. Please share with anyone interested in getting into the industry, and if you'd like to share your own story, `get in touch <mailto:jobs@writethedocs.org>`__!
 
 So that's the news. What have we been talking about on Slack this month?
 
@@ -36,21 +31,21 @@ If you'll be hiring, recruitment can create a more direct sense of accomplishmen
 
 The general conclusion was: it's not easy to make the move, but if you're happy to spend less time writing and to contribute in a bigger way instead, it might be for you.
 
-For those considering management, take a look at `Rands Leadership Slack <https://randsinrepose.com/welcome-to-rands-leadership-slack/>`__), which offers coaching and educational resources. You can also listen to the episodes of Tom Johnson's podcasts that reflect on how to manage an all-star team of technical writers: `Managing Writers <https://idratherbewriting.com/2009/03/23/managing-writers-interview-with-richard-hamilton-podcast/>`_ and `Managing Virtual Teams <https://idratherbewriting.com/2007/04/29/managingvirtualteams/>`_.
+For those considering management, take a look at `Rands Leadership Slack <https://randsinrepose.com/welcome-to-rands-leadership-slack/>`__, which offers coaching and educational resources. It's also worth checking out the episodes of Tom Johnson's podcasts on how to manage an all-star team of technical writers: `Managing Writers <https://idratherbewriting.com/2009/03/23/managing-writers-interview-with-richard-hamilton-podcast/>`_ and `Managing Virtual Teams <https://idratherbewriting.com/2007/04/29/managingvirtualteams/>`_.
 
 -------------------------------------------------------
 READMEs on READMEs (and other README-related resources)
 -------------------------------------------------------
 
-READMEs are a really important starting point for a code project, often the first thing people see about it. Fortunately, there are tons of great resources to help you write quality READMes. Check these out:
+As they're often the first thing people see about a code project, READMEs are pretty important to get right. Fortunately, there are tons of great resources to help you write quality READMes. Check these out:
 
 * `Art of README <https://github.com/noffle/art-of-readme>`_
 * `Standard README <https://github.com/RichardLitt/standard-readme/>`_
-* `Write the Readable README <https://www.writethedocs.org/videos/na/2016/write-the-readable-readme-daniel-beck/>`_ (Daniel Beck @ Write the Docs NA 2016), and Daniel's `README checklist <https://github.com/ddbeck/readme-checklist>`_
-* `Hi, my name is README! <http://www.writethedocs.org/videos/eu/2017/hi-my-name-is-readme-raphael-pierzina/>`_ (Raphael Pierzina @ Write the Docs EU 2017)
+* `Write the Readable README </videos/na/2016/write-the-readable-readme-daniel-beck/>`_ (Daniel Beck @ Write the Docs NA 2016), and Daniel's `README checklist <https://github.com/ddbeck/readme-checklist>`_
+* `Hi, my name is README! </videos/eu/2017/hi-my-name-is-readme-raphael-pierzina/>`_ (Raphael Pierzina @ Write the Docs EU 2017)
 * `Ten Steps to a Better README <https://www.youtube.com/watch?v=PC05prd2usY>`_ (Mike Jang @ Ignite OSCON 2015)
 * `Developer Experience: GitHub READMEs <https://betta.io/blog/2017/02/07/developer-experience-github-readmes/>`_ (Cristlano Betta's blog post)
-* `READMEs and doc-driven development <https://www.writethedocs.org/blog/newsletter-august-2017/#readmes-and-doc-driven-development>`_ (August 2017 WTD newsletter)
+* `READMEs and doc-driven development </blog/newsletter-august-2017/#readmes-and-doc-driven-development>`_ (August 2017 WTD newsletter)
 
 ------------------------------------------
 For those who might consider freelancing …
@@ -84,11 +79,7 @@ Several people mentioned `one sentence per line <https://rhodesmill.org/brandon/
 From our sponsor: Spotlight on The Not-Boring Tech Writer podcast 
 -----------------------------------------------------------------
 
-We're excited to be trying out sponsorship of our newsletter this month.
-It's a way to cover the cost of the newsletter currently,
-and give us funding opportunities to expand our newsletter ambitions in the future.
-If you're interested in sponsoring our newsletter,
-there is more information in our `sponsorship prospectus </newsletter/sponsorship/>`__.
+We're excited to be trying out sponsorship of the newsletter this month. Sponsorship helps us cover the cost of the newsletter, and gives us funding opportunities to expand our ambitions in the future. If you're interested in sponsoring, take a look at our `sponsorship prospectus </newsletter/sponsorship/>`__.
 
 This month's newsletter is sponsored by `KnowledgeOwl <https://www.knowledgeowl.com/home?utm_source=newsletter&utm_campaign=wtd-jul-2019>`__:
 
@@ -129,9 +120,11 @@ Job posts
 Community events coming up
 --------------------------
 
+- 3 July - Munich, Germany - `Terminology & semantics - defining and managing meaning in documentation <https://www.meetup.com/write-the-docs-muc/events/262687214/>`__
 - 4 July - Melbourne, Australia - `Documenting API dev portals <https://www.meetup.com/Write-the-Docs-Australia/events/261792791/>`__
 - 10 July - London, UK - `Write the Docs Prague talk previews <https://www.meetup.com/Write-The-Docs-London/events/261893453/>`__
 - 10 July - Denver, CO, USA - `Docs and Drinks Denver happy hour <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/262265861/>`__
+- 10 July - Portland, OR, USA - `Publication workflow case study <https://www.meetup.com/Write-The-Docs-PDX/events/262694535/>`__
 - 12 July - Austin, TX, USA - `Write the Docs ATX lunch meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/262512533/>`__
 - 15 July - Berlin, Germany - `Docs hack <https://www.meetup.com/Write-The-Docs-Berlin/events/262443229/>`__
 - 17 July - Manchester, UK - `Summer social <https://www.meetup.com/Write-the-Docs-North/events/260863447/>`__
