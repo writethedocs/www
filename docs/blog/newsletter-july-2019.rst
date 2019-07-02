@@ -112,9 +112,7 @@ Job posts
 ---------
 
 `Knowledge Management Strategist <https://jobs.writethedocs.org/job/127/knowledge-management-strategist/>`__
-
-`Project-Based Technical Writer <https://jobs.writethedocs.org/job/125/project-based-technical-writer/>`__
- Clearbit, SF (but remote-friendly), short-term contract
+ Braintree, Seattle, full-time
 
 *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
