@@ -105,14 +105,15 @@ This month's newsletter is sponsored by `KnowledgeOwl <https://www.knowledgeowl.
         </tr>
       </tbody>
     </table>
+    <hr>
 
 
 ---------
 Job posts
 ---------
 
-`Knowledge Management Strategist <https://jobs.writethedocs.org/job/127/knowledge-management-strategist/>`__
- Braintree, Seattle, full-time
+* `Knowledge Management Strategist <https://jobs.writethedocs.org/job/127/knowledge-management-strategist/>`__
+   Braintree, Seattle, full-time
 
 *To apply for this job and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
