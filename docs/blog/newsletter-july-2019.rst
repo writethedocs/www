@@ -13,7 +13,7 @@ Aside from fascinating facts about the weather, we also have some exciting annou
 
 As for Europe, you'll be pleased to know that `Prague speakers have been announced </conf/prague/2019/news/talks-volunteers-tickets-shirts/>`__! `Here's the full list </conf/prague/2019/speakers/>`__, and you can grab your tickets `here </conf/prague/2019/tickets/>`__. And if you're interested in helping out behind the scenes, we'd love you to `volunteer at the conference </conf/prague/2019/news/talks-volunteers-tickets-shirts/#call-for-volunteers>`__.
 
-Another project we're announcing is a `Career Community Spotlight </hiring-guide/#community-spotlight>`__, which is focused around how people became documentarians. 
+Another project we're announcing is a `Career Community Spotlight </hiring-guide/#community-spotlight>`__, which is focused on how people became documentarians. 
 We're conducting interviews with people in the community,
 allowing them to tell their career stories and give some tips to folks interested in a similar career path.
 We hope that you'll share these with people who are interested in getting into the industry,
