@@ -47,9 +47,9 @@ As they're often the first thing people see about a code project, READMEs are pr
 * `Developer Experience: GitHub READMEs <https://betta.io/blog/2017/02/07/developer-experience-github-readmes/>`_ (Cristlano Betta's blog post)
 * `READMEs and doc-driven development </blog/newsletter-august-2017/#readmes-and-doc-driven-development>`_ (August 2017 WTD newsletter)
 
-------------------------------------------
-For those who might consider freelancing …
-------------------------------------------
+-----------------------------------------
+For those who might consider freelancing…
+-----------------------------------------
 
 … a generous Slack contributor provided a wealth of information and advice about what to look for and what to expect in the land of freelance work.
 
