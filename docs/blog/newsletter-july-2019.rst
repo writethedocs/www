@@ -7,11 +7,11 @@ Write the Docs Newsletter – July 2019
 
 Hi, WTD friends, and welcome to the July newsletter! It's Beth A here writing from sweltering Europe, where I've been learning great new words like *canicule* and *Hitzewelle* - aka heatwave in French and German.
 
-(Fun fact: *canicule* comes from the Latin *dies caniculares*, or "dog days" - the most uncomfortable part of summer, so named because they come after the `helical rising <https://en.wikipedia.org/wiki/Heliacal_rising>`_ of Sirius, the Dog Star. Well, I thought it was interesting.)
+(Fun fact: *canicule* comes from the Latin *dies caniculares*, or "dog days" - the most uncomfortable part of summer, so named because they come after the `heliacal rising <https://en.wikipedia.org/wiki/Heliacal_rising>`_ of Sirius, the Dog Star. Well, I thought it was interesting.)
 
-Aside from fascinating facts about the weather, we do have some actual news. Firstly, `tickets are on sale for the Australia conference </conf/australia/2019/news/au-2019-welcome/>`__, and `the call for proposals is also open </conf/australia/2019/cfp/>`__! The CFP closes on 9 August, and the conference itself is 14-15 November in Melbourne.
+Aside from fascinating facts about the weather, we also have our usual exciting compendium of announcements and writeups of Slack conversations. Firstly, `tickets are on sale for the Australia conference </conf/australia/2019/news/au-2019-welcome/>`__, and `the call for proposals is also open </conf/australia/2019/cfp/>`__! The CFP closes on 9 August, and the conference itself is 14-15 November in Melbourne.
 
-Here in Europe, you'll be pleased to know that `Prague speakers have been announced </conf/prague/2019/news/talks-volunteers-tickets-shirts/>`__! `Here's the full list </conf/prague/2019/speakers/>`__, and you can grab your tickets `here </conf/prague/2019/tickets/>`__. And if you're interested in helping out behind the scenes, we'd love you to `volunteer at the conference </conf/prague/2019/news/talks-volunteers-tickets-shirts/#call-for-volunteers>`__.
+As for Europe, you'll be pleased to know that `Prague speakers have been announced </conf/prague/2019/news/talks-volunteers-tickets-shirts/>`__! `Here's the full list </conf/prague/2019/speakers/>`__, and you can grab your tickets `here </conf/prague/2019/tickets/>`__. And if you're interested in helping out behind the scenes, we'd love you to `volunteer at the conference </conf/prague/2019/news/talks-volunteers-tickets-shirts/#call-for-volunteers>`__.
 
 .. TODO announce interview stuff, if it's published in time
 
@@ -21,17 +21,17 @@ So that's the news. What have we been talking about on Slack this month?
 Making the leap to managing writers
 -----------------------------------
 
-One of our big discussions this month was about folks trying to weigh up opportunities to move into managing writers. Here's the guidance the community gave.
+One of our big discussions this month was about folks weighing up opportunities to move into managing writers. Here's the guidance the community gave.
 
-There are definitely some things to be wary of. If writing's your passion, moving to management means much less time for it. This can mean losing touch with the craft, and leaving your portfolio lighter if you decide to back out. Another issue is that you're accountable for both the successes and failures of your team, which can be stressful. 
+There are definitely some things to be wary of. If writing's your passion, moving to management means less time for it. This can mean losing touch with the craft, and leaving your portfolio lighter if you decide to back out. Another issue is that you're accountable for both the successes and failures of your team, which can be stressful. 
 
-But the upsides of management are the bigger projects that can challenge you in different ways, including helping your team reach their full potential. In the long run, teaching others lets you achieve than you would have been able to on your own.
+But the upsides of management are the bigger projects that can challenge you in different ways, including helping your team reach their full potential. In the long run, teaching others lets you achieve more than you would have been able to on your own.
 
 If you'll be hiring, recruitment can create a more direct sense of accomplishment. On the flip side, you may also at some point be responsible for letting people go, a daunting task.
 
 The general conclusion was: it's not easy to make the move, but if you're happy to spend less time writing and to contribute in a bigger way instead, it might be for you.
 
-For those considering management, take a look at `Rands Leadership Slack <https://randsinrepose.com/welcome-to-rands-leadership-slack/>`__), which offers  coaching and educational resources. You can also listen to the episodes of Tom Johnson's podcasts that reflect how to manage an all-star team of technical writers: `Managing Writers <https://idratherbewriting.com/2009/03/23/managing-writers-interview-with-richard-hamilton-podcast/>`_ and `Managing Virtual Teams <https://idratherbewriting.com/2007/04/29/managingvirtualteams/>`_.
+For those considering management, take a look at `Rands Leadership Slack <https://randsinrepose.com/welcome-to-rands-leadership-slack/>`__), which offers coaching and educational resources. You can also listen to the episodes of Tom Johnson's podcasts that reflect on how to manage an all-star team of technical writers: `Managing Writers <https://idratherbewriting.com/2009/03/23/managing-writers-interview-with-richard-hamilton-podcast/>`_ and `Managing Virtual Teams <https://idratherbewriting.com/2007/04/29/managingvirtualteams/>`_.
 
 -------------------------------------------------------
 READMEs on READMEs (and other README-related resources)
@@ -45,7 +45,7 @@ READMEs are a really important starting point for a code project, often the firs
 * `Hi, my name is README! <http://www.writethedocs.org/videos/eu/2017/hi-my-name-is-readme-raphael-pierzina/>`_ (Raphael Pierzina @ Write the Docs EU 2017)
 * `Ten Steps to a Better README <https://www.youtube.com/watch?v=PC05prd2usY>`_ (Mike Jang @ Ignite OSCON 2015)
 * `Developer Experience: GitHub READMEs <https://betta.io/blog/2017/02/07/developer-experience-github-readmes/>`_ (Cristlano Betta's blog post)
-* `READMEs and doc-driven development <https://www.writethedocs.org/blog/newsletter-august-2017/#readmes-and-doc-driven-development>`_ (August 2017  WTD newsletter)
+* `READMEs and doc-driven development <https://www.writethedocs.org/blog/newsletter-august-2017/#readmes-and-doc-driven-development>`_ (August 2017 WTD newsletter)
 
 ------------------------------------------
 For those who might consider freelancing …
@@ -57,7 +57,7 @@ We were planning to write this up for the newsletter, but very kindly the contri
 
 A few other people also weighed in with some comments. Some don't work with a 1099 but set up their own corporations (S-Corp or LLC), and then work as their own employees. This approach can provide tax benefits for US workers, and can sometimes make you more appealing to a larger employer. People also suggested that professional support, in the form of a lawyer or accountant, is important if you're planning to work freelance long-term.
 
-And if you're going the independent route, don't forget to consider staffing agencies. They get a cut of whatever the client pays, but they sometimes provide benefits depending on the contract, and can ease the paperwork burden.
+And if you're going the independent route, don't forget to consider staffing agencies. They get a cut of whatever the client pays, but they sometimes provide benefits and ease the paperwork burden.
 
 ------------------------------
 What to do about text wrapping
@@ -79,9 +79,7 @@ Several people mentioned `one sentence per line <https://rhodesmill.org/brandon/
 From our sponsor: Spotlight on The Not-Boring Tech Writer podcast 
 -----------------------------------------------------------------
 
-This month's newsletter is sponsored by KnowledgeOwl!
-If you're interested in sponsoring our newsletter,
-there is more information in our `sponsorship prospectus </newsletter/sponsorship/>`_.
+As of this month we're introducing newsletter sponsorship, and our first sponsor is KnowledgeOwl! If you're interested in sponsoring the newsletter, all the details are `on the website </newsletter/sponsorship/>`_.
 
 
 
