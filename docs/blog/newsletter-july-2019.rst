@@ -9,7 +9,7 @@ Hi, WTD friends, and welcome to the July newsletter! It's Beth A here writing fr
 
 (Fun fact: *canicule* comes from the Latin *dies caniculares*, or "dog days" - the most uncomfortable part of summer, so named because they come after the `heliacal rising <https://en.wikipedia.org/wiki/Heliacal_rising>`_ of Sirius, the Dog Star. Well, I thought it was interesting.)
 
-Aside from fascinating facts about the weather, we also have some exciting announcements for you. Firstly, `tickets are on sale for the Australia conference </conf/australia/2019/news/au-2019-welcome/>`__, and `the call for proposals is also open </conf/australia/2019/cfp/>`__! The CFP closes on 9 August, and the conference itself is 14-15 November in Melbourne.
+Aside from fascinating facts about the weather, we also have some exciting announcements for you. Firstly, `tickets are on sale for the Australia conference </conf/australia/2019/news/au-2019-welcome/>`__, and `the call for proposals is also open </conf/australia/2019/cfp/>`__! The CFP closes on 9 August, and the conference itself is 14-15 November in Sydney.
 
 As for Europe, you'll be pleased to know that `Prague speakers have been announced </conf/prague/2019/news/talks-volunteers-tickets-shirts/>`__! `Here's the full list </conf/prague/2019/speakers/>`__, and you can grab your tickets `here </conf/prague/2019/tickets/>`__. Plus, if you're interested in helping out behind the scenes, we'd love you to `volunteer at the conference </conf/prague/2019/news/talks-volunteers-tickets-shirts/#call-for-volunteers>`__.
 
