@@ -77,4 +77,4 @@ Key takeaways
     start. And that's probably my other big tip: no matter where you are in your career, always choose at least one mentor and one
     mentee. There is always something you can learn, and something you can teach
 
-Lana goes by ``loquacity`` on the Write the Docs Slack group, and @Loquacities on Twitter. You can find her in the ``#australia``, ``#managing-writers``, and ``#remote channels``.
+Lana goes by ``loquacity`` on the Write the Docs Slack group, and @Loquacities on Twitter. You can find her in the ``#australia``, ``#managing-writers``, and ``#remote`` channels.
