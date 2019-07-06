@@ -206,6 +206,12 @@ Come find us and ask any questions, or just chat about the conference!
          :width: 100px
 
          David   
+   .. container:: crew-image
+
+      .. figure:: /_static/img/crew/Leona2019.jpg
+         :width: 100px
+
+         Leona   
 
 
 Thanks

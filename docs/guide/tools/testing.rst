@@ -69,7 +69,6 @@ Jekyll
 Jekyll has a few plugins that support link checking:
 
 * https://github.com/endymion/link-checker
-* https://github.com/fastly/jekyll-sanity-checker
 
 HTMLProofer
 ~~~~~~~~~~~
@@ -82,7 +81,7 @@ Style Guide Checking and Linting
 
 Linters are tools that automatically verify specific rules against your code or
 documentation. This is useful for enforcing a style guide,or for catching
-commonly mitaken branding issues.
+commonly mistaken branding issues.
 
 Here are a few links that might be interesting:
 

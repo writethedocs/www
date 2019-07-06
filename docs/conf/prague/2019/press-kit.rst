@@ -45,9 +45,9 @@ We have some stats about attendees, membership, and website hits over on the fol
 Images and logos
 -------------------
 
-We're working on getting our new logos and images up here, in the meantime you can use any of the Creative Commons licensed images from our `Flickr gallery <https://www.flickr.com/photos/writethedocs/>`_ or take a look at the `logo and other assets stylesheet <https://github.com/writethedocs/resources/blob/master/conf/2019/STYLE-SHEET-2019.pdf>`_.
+We're working on getting our new logos and images up here, in the meantime you can use any of the Creative Commons licensed images from our `Flickr gallery <https://www.flickr.com/photos/writethedocs/>`_ or take a look at the `logo and other assets stylesheet <https://github.com/writethedocs/resources/blob/master/conf/2019/STYLE%20SHEET%202019-2020.pdf>`_.
 
-In particular, we encourage you to use these three photos in your tweets and blog posts, which we think are expecially representative of Write the Docs Portland.
+In particular, we encourage you to use these three photos in your tweets and blog posts, which we think are especially representative of Write the Docs Portland.
 
 .. raw:: html
 
