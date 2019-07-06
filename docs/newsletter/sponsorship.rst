@@ -54,8 +54,9 @@ which goes to the same list and has the same sponsorship opportunities.
 Pricing
 -------
 
-Our introductory price for reaching our audience is **$250** per month.
-This price will go up starting in October 2019 to **$500** per month. 
+The introductory price for reaching our audience is **$250** per month.
+This offer will end after the sponsorship of our October 2019 newsletter,
+and we will adjust pricing based on feedback from sponsors.
 
 Contact
 -------
