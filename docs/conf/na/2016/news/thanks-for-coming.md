@@ -30,7 +30,7 @@ All the videos for the conference are now posted. You can see all the videos fro
 
 ## Write the Docs Slack
 
-The Write the Docs Slack has really taken off this year! Our general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y'all continue the conversations throughout the year. If you haven't joined, head on over and join us! We're at [Write the Docs Slack](https://slack.writethedocs.com/).
+The Write the Docs Slack has really taken off this year! Our general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y'all continue the conversations throughout the year. If you haven't joined, head on over and join us! We're at [Write the Docs Slack](http://slack.writethedocs.org).
 
 ## Meetups
 
