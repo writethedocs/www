@@ -56,15 +56,8 @@ Markup Languages
 
    writing/markdown
    writing/reStructuredText
-
-* Asciidoc
-    * Cheatsheet
-    * Tutorial
-
-* reStructuredText
-    * Cheatsheet
-    * Tutorial
-
+   writing/asciidoc
+   
 * XML
     * DITA
     * DocBook
