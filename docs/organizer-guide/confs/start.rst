@@ -28,7 +28,7 @@ starting your own Write the Docs event:
   intentional.
 
   However, to ensure some basic consistency between the different events in
-  philisophy and structure, newcomers will be assigned a mentor from one of our
+  philosophy and structure, newcomers will be assigned a mentor from one of our
   long-time organizers who can provide guidance and answer any questions that might
   arise.
 

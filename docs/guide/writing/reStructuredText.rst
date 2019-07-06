@@ -14,7 +14,7 @@ Why use reStructuredText?
 
 reStructuredText is a lightweight markup language, so it's easier to read in plain-text format compared to heavier markup languages like DITA and other XML-based formats. You can easily find text editors that render reStructuredText with syntax highlighting and live previews, without having to invest in complex tools.
 
-Compared to some other lightweight markup languages like :doc:`MarkDown <Markdown_basics>`, reStructuredText contains stronger semantic markup tools. `Some writers <http://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/>`_ also prefer reStructuredText because the markup standards are more well-defined compared to MarkDown.
+Compared to some other lightweight markup languages like :doc:`MarkDown <markdown>`, reStructuredText contains stronger semantic markup tools. `Some writers <http://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/>`_ also prefer reStructuredText because the markup standards are more well-defined compared to MarkDown.
 
 How to use reStructuredText
 -----------------------------------

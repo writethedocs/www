@@ -95,7 +95,6 @@ and open source organizations.
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
 The **First Draft** package costs **{{sponsorship.first_draft.price}}**.
-You can buy it directly on our ticket website.
 
 Second Draft
 ------------
@@ -182,7 +181,7 @@ Lanyard
 Provide your branded lanyards for our badges. This makes your company name
 visible to each and every attendee at the conference!
 
-**$500**
+**$250**
 
 - **Logistics**: Sponsor is responsible for shipping lanyards to organizers at least two weeks before the event starts.
 
@@ -191,7 +190,7 @@ Inquiries
 
 Please direct all inquiries to our sponsorship team at:
 
-- sponsorship@writethedocs.org
+- australia@writethedocs.org
 
 
 .. _ticket: https://ti.to/writethedocs/write-the-docs-{{ shortcode }}-{{ year }}/

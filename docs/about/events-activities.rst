@@ -15,6 +15,8 @@ Our conferences create a time and a place for the global community of documentar
 
 {% include "conf/current.rst" %}
 
+To see the whole list of conferences, see :doc:`Conferences </conf/index>` 
+
 Meetups
 ~~~~~~~
 
