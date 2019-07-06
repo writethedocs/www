@@ -56,11 +56,12 @@ Markup Languages
 
    writing/markdown
    writing/reStructuredText
+   writing/xml
    writing/asciidoc
-   
-* XML
-    * DITA
-    * DocBook
+
+* reStructuredText
+    * Cheatsheet
+    * Tutorial
 
 Tools of the Trade
 ------------------
