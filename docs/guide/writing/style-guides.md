@@ -158,7 +158,7 @@ Some example release notes:
 
 Related talks:
 
-- [Learning to love release notes](http://www.writethedocs.org/videos/prague/2018/learning-to-love-release-notes-anne-edwards/) at Write The Docs Prague 2018
+- [Learning to love release notes](http://www.writethedocs.org/videos/prague/2018/learning-to-love-release-notes-anne-edwards/) at Write the Docs Prague 2018
 
 
 ### User Guide / Manuals
