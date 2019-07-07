@@ -110,7 +110,7 @@ It's important to consider accessibility in your style guide to ensure the conte
 - [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bitsofcode
 
-Relevant talks from Write The Docs:
+Relevant talks from Write the Docs:
 
 - [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write The Docs Prague 2018
 - [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015 
