@@ -10,7 +10,7 @@ Guides often help writers focus on the different readers of technical documentat
 
 Many focus on the language itself (tone, style, grammar).
 
-Others go beyond the content and discuss the organisation of the documentation, providing best practices on how to manage your content, version control, or publication and delivery strategies. While this is not what we focus on in this style guide for style guides, how your documentation is organized and the ease at which your readers can find what they are looking for, can be as important as the content itself.
+Others go beyond the content and discuss the organisation of the documentation, providing best practices on how to manage your content, version control, or publication and delivery strategies. While this is not the focus in this style guide for style guides, how your documentation is organized and the ease in which your readers can find what they are looking for, can be as important as the content itself.
 
 ## Why do I need a style guide?
 
