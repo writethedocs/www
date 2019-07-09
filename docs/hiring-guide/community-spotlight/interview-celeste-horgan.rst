@@ -19,7 +19,9 @@ Key takeaways
     I thought, "Oh, I think I could probably do this." When you're in design school, you typically end up writing briefs or documents
     based on your designs as well as actually producing the design. So I sent in a few of my design documents as samples. I got an
     interview, and I more or less learned on the job. I was there for about eight months out in Waterloo, Ontario, working with the
-    BlackBerry team on their Java SDK. I was one of 600 co-ops they took in that semester. Because they took in so many, they had a
+    BlackBerry team on their Java SDK. 
+    
+    I was one of 600 co-ops they took in that semester. Because they took in so many, they had a
     pretty rigorous training program in every department. I was one of about 5 or 10 in a 40 person technical writing department. They
     put us all through a training program where they taught us what DITA was. They taught us about single source authoring. And, yeah,
     that's kind of where I started. After I graduated university, I worked as a web designer for a year or two, but it was mostly 
@@ -45,16 +47,17 @@ Key takeaways
     work with are native speakers. So when you're having a conversation about ensuring that a sentence communicates the essence of
     what was implemented technically, you are quite literally both speaking the same language. If you as a writer decided to reword
     something using simpler words, maybe using present tense, your subject matter expert or developer that you're working with knows
-    enough English to say, "No, that's not what I meant at all." So it's a It's a high level conversation. And commercetools is a very
-    diverse company. For most of the people that I work with English is not their first language. It might not be their second
-    language. It's sometimes their third, fourth, or fifth language; because that's how Europe works. So when I work with developers, 
-    if they're writing the first draft of something in particular, It takes a lot more work to get it to the state that I would be
-    comfortable releasing it in. And I have to be a lot more forward in how I speak to and question about a feature, because I know
-    that they might not be able to correct me if I misinterpret something that they say. So there's a lot more responsibility on me
-    on. And I would actually say for anybody else that's looking to move abroad that there's a lot of demand, particularly in Berlin.
-    It's not a bad place to be a technical writer, because there's extra value on you. You're not only a technical writer, not only
-    the person taking care of documentation that developers don't want to write; you're the person doing that with the authoritative
-    voice of a native English speaker.
+    enough English to say, "No, that's not what I meant at all." So it's a It's a high level conversation. 
+    
+    And commercetools is a verydiverse company. For most of the people that I work with English is not their first language. It might
+    not be their secondlanguage. It's sometimes their third, fourth, or fifth language; because that's how Europe works. So when I
+    work with developers, if they're writing the first draft of something in particular, It takes a lot more work to get it to the
+    state that I would be comfortable releasing it in. And I have to be a lot more forward in how I speak to and question about a
+    feature, because I know that they might not be able to correct me if I misinterpret something that they say. So there's a lot more
+    responsibility on me  on. And I would actually say for anybody else that's looking to move abroad that there's a lot of demand,
+    particularly in Berlin. It's not a bad place to be a technical writer, because there's extra value on you. You're not only a
+    technical writer, not only the person taking care of documentation that developers don't want to write; you're the person doing
+    that with the authoritativevoice of a native English speaker.
 
 **What advice would you give to new or aspiring tech writers in the community?**
 
