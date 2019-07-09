@@ -19,7 +19,7 @@ Sponsors
 We are seeking corporate partners to help us create the best conference possible.
 You can find more information in our :doc:`prospectus`.
 
-{% if conf_sponsors %}
+{% if conf_sponsors|trim %}
 
 Corporate sponsors
 ------------------
@@ -33,7 +33,7 @@ Thanks to these folks for supporting the community.
 
 {% endif %}
 
-{% if sponsors_in_kind %}
+{% if sponsors_in_kind|trim %}
 
 In Kind Sponsors
 ----------------
@@ -46,7 +46,7 @@ Write the Docs is also helped out by companies that give their employees time to
 
 {% endif %}
 
-{% if media_sponsors %}
+{% if media_sponsors|trim %}
 
 Media Sponsors
 --------------
