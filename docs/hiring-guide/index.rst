@@ -30,6 +30,11 @@ If you are willing to share your story with the community, you can contact jobs@
    community-spotlight/interview-ravind-kumar
    community-spotlight/interview-liz-harris
    community-spotlight/interview-chris-bahnweg
+<<<<<<< Updated upstream
+=======
+   community-spotlight/interview-lana-brindley
+   community-spotlight/interview-celeste-horgan
+>>>>>>> Stashed changes
 
 
 ..
