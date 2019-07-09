@@ -101,7 +101,7 @@ cfp:
 flaglanding: False
 flagspeakersannounced: False
 flagcfp: True
-flaghassponsors: False
+flaghassponsors: True
 flaghasschedule: False
 
 flagticketsonsale: True
