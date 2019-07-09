@@ -34,7 +34,10 @@ def load_conference_page_context(app, page):
             # no conference-specific context.
             return data
         if year >= 2018:
-            yaml_file = '_data/config-' + p.parts[1] + '-' + p.parts[2] + '.yaml'
+            if year < 2020:
+                yaml_file = '_data/config-' + p.parts[1] + '-' + p.parts[2] + '.yaml'
+            else:
+                yaml_file = '_data/' + p.parts[1] + '-' + p.parts[2] + '-config.yaml'
             try:
                 yaml_config = load_yaml(yaml_file)
                 data.update(yaml_config)
