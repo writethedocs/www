@@ -54,20 +54,14 @@ Markup Languages
 .. toctree::
    :maxdepth: 2
 
-   writing/Markdown_basics
+   writing/markdown
    writing/reStructuredText
-
-* Asciidoc
-    * Cheatsheet
-    * Tutorial
+   writing/xml
+   writing/asciidoc
 
 * reStructuredText
     * Cheatsheet
     * Tutorial
-
-* XML
-    * DITA
-    * DocBook
 
 Tools of the Trade
 ------------------

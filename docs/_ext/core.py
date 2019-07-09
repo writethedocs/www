@@ -1,40 +1,25 @@
 from __future__ import print_function
 
 from future import standard_library
+from yaml import YAMLError
+
+from .utils import load_yaml
+
 standard_library.install_aliases()
 
-import os
-import io
-import re
-import yaml
-import glob
-import commonmark
 import logging
-
-log = logging.getLogger(__name__)
-
 
 try:
     from pathlib import PurePath
 except ImportError:
     from pathlib2 import PurePath
 
-try:
-    # Python 2.6-2.7
-    from html.parser import HTMLParser
-except ImportError:
-    # Python 3
-    from html.parser import HTMLParser
+log = logging.getLogger(__name__)
 
 
-def load_yaml(path):
-    with io.open(path, encoding='utf-8') as fp:
-        return yaml.safe_load(fp)
-
-
-def load_page_yaml_data(app, page):
+def load_conference_page_context(app, page):
     """
-    Get conference specific YAML data.
+    Get conference specific YAML data and add it to the context.
 
     Returns an empty dict if it isn't run on a proper conference page.
     """
@@ -44,51 +29,31 @@ def load_page_yaml_data(app, page):
         try:
             year = int(p.parts[2])
         except (ValueError, IndexError):
-            log.warning('Unable to process conference YAML data: %s', page)
+            # If the second part is not the year, this is a document
+            # about sponsorship or similar generic pages, that need
+            # no conference-specific context.
             return data
         if year >= 2018:
-            yaml_config = load_yaml('_data/config-' + p.parts[1] + '-' + p.parts[2] + '.yaml')
-            data.update(yaml_config)
+            yaml_file = '_data/config-' + p.parts[1] + '-' + p.parts[2] + '.yaml'
+            try:
+                yaml_config = load_yaml(yaml_file)
+                data.update(yaml_config)
+            except (YAMLError, OSError) as error:
+                log.warning('Unable to process conference YAML file %s while rendering %s: %s', yaml_file, page, error)
     return data
 
 
-def slugify(slug):
-    slug = slug.encode('utf-8', 'ignore').lower().decode('utf-8')
-    slug = re.sub(r'[^a-z0-9]+', '-', slug).strip('-')
-    slug = re.sub(r'[-]+', '-', slug)
-    return slug
-
-
-def generate_video_slug(session):
-    if 'title' not in session:
-        return u''
-    title = session['title']
-    for speaker in session.get('speakers', []):
-        title += '-{}'.format(speaker.get('slug', speaker['name']))
-    return slugify(title)
-
-
-def normalize_session(session):
-    youtube_pattern = re.compile(r'https://www.youtube.com/watch\?v=(.+)')
-
-    session['slug'] = generate_video_slug(session)
-    if 'video' in session and 'youtube.com' in session['video']:
-        mo = youtube_pattern.match(session['video'])
-        if mo:
-            session['youtubeId'] = mo.group(1)
-
-
-def rstjinja(app, docname, source):
+def render_rst_with_jinja(app, docname, source):
     """
-    Render our conf pages as a jinja template for more goodness.
+    Pass our RST files through the jinja parser.
+    This allows us to use all jinja features in all RST templates
     """
     if app.builder.format != 'html':
         return
 
-    """
-    Only load yaml config for 2018 and onwards
-    """
-    context = load_page_yaml_data(app, docname)
+    # For post-2018 pages, pass the document through the jinja renderer
+    # with the appropriate context (jinja filters have been added already)
+    context = load_conference_page_context(app, docname)
     context.update(app.config.html_context)
     if docname.startswith(('about/', 'conf/', 'guide/', 'videos/by-year', 'videos/by-series')):
         src = source[0]
@@ -96,47 +61,7 @@ def rstjinja(app, docname, source):
         source[0] = rendered
 
 
-def add_jinja_filters(app):
-    if app.builder.format != 'html':
-        return
-
-    from .meetups import state_abbr
-
-    def markdown_filter(data):
-        parser = commonmark.Parser()
-        renderer = commonmark.HtmlRenderer()
-        return renderer.render(parser.parse(data))
-
-    def html_unescape(str):
-        h = HTMLParser()
-        return h.unescape(str)
-
-    def media_photo(_file, _type):
-        for ext in ['jpg', 'png', 'svg']:
-            file_name = '_static/img/{type}/{file}.{ext}'.format(
-                type=_type,
-                file=_file,
-                ext=ext,
-            )
-            if os.path.exists(file_name):
-                return '/' + file_name
-        return '/_static/img/speakers/missing.jpg'
-
-    def speaker_photo(file):
-        return media_photo(file, 'speakers')
-
-    def sponsor_photo(file):
-        return media_photo(file, 'sponsors')
-
-    app.builder.templates.environment.filters['markdown'] = markdown_filter
-    app.builder.templates.environment.filters['html_unescape'] = html_unescape
-    app.builder.templates.environment.filters['state_abbr'] = state_abbr
-    app.builder.templates.environment.filters['slugify'] = slugify
-    app.builder.templates.environment.filters['speaker_photo'] = speaker_photo
-    app.builder.templates.environment.filters['sponsor_photo'] = sponsor_photo
-
-
-def override_page_template(app, pagename, templatename, context, doctree):
+def override_template_load_context(app, pagename, templatename, context, doctree):
     """
     Set the template to use when rendering the page.
 
@@ -151,7 +76,7 @@ def override_page_template(app, pagename, templatename, context, doctree):
 
         Content
     """
-    page_context = load_page_yaml_data(app, pagename)
+    page_context = load_conference_page_context(app, pagename)
     context.update(page_context)
 
     # Markdown
@@ -172,41 +97,9 @@ def override_page_template(app, pagename, templatename, context, doctree):
         pass
 
 
-def load_conference_data():
-    speakers_file_pattern = re.compile(r'(\d{4}).(\w+).speakers')
-    sessions_file_pattern = re.compile(r'(\w+)-(\d{4})-day-(\d+)')
-    result = {}
-    for f in glob.glob('_data/*.yaml'):
-        base = os.path.basename(f)
-        base, _ = os.path.splitext(base)
-        # Only consider conference data files that are following the common
-        # naming convention and log everything out as warning.
-        mo = speakers_file_pattern.match(base)
-        if mo:
-            year = int(mo.group(1))
-            region = mo.group(2)
-            if year not in result:
-                result[year] = {}
-            if region not in result[year]:
-                result[year][region] = {}
-            result[year][region]['speakers'] = load_yaml(f)
-            for session in result[year][region]['speakers']:
-                normalize_session(session)
-                session['year'] = year
-                session['series'] = u'Write the Docs {}'.format(region.upper())
-                session['series_slug'] = region
-                session['event'] = u'Write the Docs {} {}'.format(region.upper(), year)
-                session['path'] = 'conf/{series_slug}/{year}/videos/{slug}'.format(**session)
-            continue
-        mo = sessions_file_pattern.match(base)
-        if mo:
-            continue
-    return result
-
-
 def set_html_context(app, docname, source):
     # Store old context
-    page_context = load_page_yaml_data(app, docname)
+    page_context = load_conference_page_context(app, docname)
     if page_context:
         app.config.old_html_context = app.config.html_context.copy()
         app.config.html_context.update(page_context)

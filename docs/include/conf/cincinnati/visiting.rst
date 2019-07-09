@@ -10,7 +10,7 @@ Eating
 
 Snacks and drinks are provided throughout the conference. For meals during the conference, connect with new friends and explore one of Cincinnati's most diverse neighborhoods. Here are some resources that will help you find something good to eat:
 
-- The `Over-the-Rhine Chamber of Commerce <http://business.otrchamber.com/list/ql/restaurants-food-beverages-22?_ga=2.247727175.1927584494.1524751496-300914214.1524751496>`__ lists a number of restaurants and bars in the neighborhood
+- The `Over-the-Rhine Chamber of Commerce <http://www.otrchamber.com/eateries>`__ lists a number of eateries in the neighborhood
 - `Open Table <https://www.opentable.com/n/cincinnati/over-the-rhine-restaurants>`__ also lists great restaurants in Over-the-Rhine
 
 Where to stay

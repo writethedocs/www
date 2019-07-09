@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 #
 
-from recommonmark.transform import AutoStructify
-import ablog
-import sys
 import os
+import sys
+
+import ablog
+from recommonmark.transform import AutoStructify
 
 # Only for windows compatability - Forces default encoding to UTF8, which it may not be on windows
 if os.name == 'nt':
@@ -15,16 +16,16 @@ if os.name == 'nt':
 sys.path.append(os.getcwd())  # noqa
 
 from _ext.core import (
-    add_jinja_filters, rstjinja, override_page_template, load_conference_data,
-    set_html_context, unset_html_context
+    render_rst_with_jinja, override_template_load_context, set_html_context, unset_html_context
 )
+from _ext.filters import add_jinja_filters_to_app
 from _ext.meetups import MeetupListing
 from _ext.atom_absolute import rewrite_atom_feed
 
 exclude_patterns = [
     '_build',
     'include',
-    '_data',
+    #'_data',
     'node_modules',
 ]
 
@@ -129,7 +130,6 @@ suppress_warnings = ['image.nonlocal_uri']
 
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
-    'conferences': load_conference_data(),
 }
 
 if build_videos:
@@ -145,19 +145,20 @@ if build_videos:
 
 notfound_no_urls_prefix = True
 
+
 def setup(app):
     # Set up our custom jinja filters
-    app.connect("builder-inited", add_jinja_filters)
+    app.connect("builder-inited", add_jinja_filters_to_app)
 
     # Transform RST with Jinja, using proper context
-    app.connect("source-read", rstjinja)
+    app.connect("source-read", render_rst_with_jinja)
 
     # Adjust html_context properly for datatemplate processing
     app.connect("source-read", set_html_context)
     app.connect("doctree-read", unset_html_context)
 
     # Render HTML templates with proper HTML context
-    app.connect('html-page-context', override_page_template)
+    app.connect('html-page-context', override_template_load_context)
 
     if on_rtd or build_videos or REWRITE_FEED:
         app.connect('build-finished', rewrite_atom_feed)

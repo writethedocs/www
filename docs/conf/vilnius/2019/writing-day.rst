@@ -44,11 +44,11 @@ tagged as `writingday` that includes things like:
 - add list of conference write ups for past conferences
 
 Consultant Toolkit
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 Collaborate to assemble a toolkit for consultant or freelance documentarians.
 
- Possible materials include:
+Possible materials include:
 - Contract templates
 - Business planning documents
 - Workflow plans and checklists for starting a new project
