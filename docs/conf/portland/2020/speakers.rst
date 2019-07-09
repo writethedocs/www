@@ -7,7 +7,7 @@ Conference Speakers
 {% if flagspeakersannounced %}
 
 .. datatemplate::
-   :source: /_data/{{shortcode}}-{{year}}-speakers.yaml
+   :source: /_data/{{shortcode}}-{{year}}-sessions.yaml
    :template: {{year}}/speakers.rst
    :include_context:
 

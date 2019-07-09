@@ -96,6 +96,7 @@ date: # how do we handle these? human readable would be nice.
     summary: The main days of the conference. We will be running our main track in the ballroom, and the <a href="/conf/portland/2020/unconference/">Unconference</a> in Lola's Room.
     icon: conference
     dotw: Monday/Tuesday
+  total_talk_days: 2
 
 about:
   attendees: 500
@@ -190,3 +191,4 @@ flagpostconf: False
 # Truthy things that don't change
 flaghashike: True
 flaghasboat: False
+flaghaswritingday: True

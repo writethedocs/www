@@ -178,6 +178,8 @@
     slug: meghan-mahar
     twitter: ravenwritingllc
     website: http://www.ravenwriting.net
+  - name: TEST SPEAKER 2a
+    slug: test-speaker-2a
   title: Tutorials, Tooltips, and Popups…oh MY!  How to ease yourself and your users
     into in-app messaging.
 - abstract: '<p>SDK docs written by developers tend to be implementer oriented, not
@@ -327,6 +329,10 @@
     slug: shannon-crabill
     twitter: shannon_crabill
     website: http://shannoncrabill.com
+  - name: TEST SPEAKER 1a
+    slug: test-speaker-1a
+  - name: TEST SPEAKER 1b
+    slug: test-speaker-1b
   title: Documenting for Open Source
 - abstract: '<p>The command line evokes fear from many. But the command line can be
     your friend. Command line mastery can create a sense of authority with software

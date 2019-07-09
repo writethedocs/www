@@ -63,10 +63,9 @@ Writing Day
 
 {% if flaghasschedule %}
 
-.. datatemplate::
-   :source: /_data/{{shortcode}}-{{year}}-writing-day.yaml
-   :template: include/schedule2020.rst
-   :include_context:
+{% with day_schedule=schedule.writing_day %}
+{% include "include/schedule2020.rst" %}
+{% endwith %}
 
 {% else %}
   A detailed schedule will be announced soon.
@@ -103,16 +102,14 @@ Conference Talks
 
 .. separator to fix list formatting
 
-
 {% if flaghasschedule %}
 
-.. datatemplate::
-   :source: /_data/{{shortcode}}-{{year}}-day-1.yaml
-   :template: include/schedule2020.rst
-   :include_context:
+{% with day_schedule=schedule.day1 %}
+{% include "include/schedule2020.rst" %}
+{% endwith %}
 
 {% else %}
-  A detailed schedule will be announced soon.
+    A detailed schedule will be announced soon.
 {% endif %}
 
 Unconference
@@ -158,10 +155,9 @@ Conference Talks
 
 {% if flaghasschedule %}
 
-.. datatemplate::
-   :source: /_data/{{shortcode}}-{{year}}-day-2.yaml
-   :template: include/schedule2020.rst
-   :include_context:
+{% with day_schedule=schedule.day2 %}
+{% include "include/schedule2020.rst" %}
+{% endwith %}
 
 {% else %}
   A detailed schedule will be announced soon.
