@@ -64,7 +64,7 @@
       name: Nicola Nye
       picture: nicola-nye.jpg
       slug: nicola-nye
-      twitter: impishfae
+      twitter: ''
       website: https://www.fastmail.com
   title: "Writing extensions in Sphinx: supercharge your docs"
   year: 2017
@@ -83,7 +83,7 @@
         name: Brice Fallon
         picture: brice-fallon.jpg
         slug: brice-fallon
-        twitter: edmontoniatron
+        twitter: bricewords
 
     title: Peanuts and Minimalism and Technical Writing
     year: 2017
