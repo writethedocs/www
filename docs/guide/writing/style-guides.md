@@ -180,7 +180,6 @@ The style guides below focus on the actual writing craft itself. They consider h
 
 Rather than reinvent the wheel, here are some resources curated by [Ivan Walsh](http://www.ihearttechnicalwriting.com/style-guide-technical-writing/) (Kudos!):
 
-- [Brain Traffic — Web Content style guides that Don’t Suck](http://blog.braintraffic.com/2009/02/web-content-style-guides-that-dont-suck/)
 - [Creative Blog — Create a website style guide](http://www.creativebloq.com/design/create-website-style-guide-6123030)
 - [Gather Content — Developing a Content style guide](http://blog.gathercontent.com/tone-of-voice-guide)
 - [HubSpot — How to Create a Writing style guide Built for the Web](http://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx)
