@@ -55,10 +55,12 @@ sponsors:
   keystone:
   patron:
   publisher:
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
   second:
+    - name: buildkite
+      link: https://buildkite.com/
   first:
-  media:
-  in_kind:
 
 date: # how do we handle these? human readable would be nice.
   main: "**November 14-15, 2019, in Sydney, Australia**"
@@ -99,7 +101,7 @@ cfp:
 flaglanding: False
 flagspeakersannounced: False
 flagcfp: True
-flaghassponsors: False
+flaghassponsors: True
 flaghasschedule: False
 
 flagticketsonsale: True
