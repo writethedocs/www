@@ -40,18 +40,17 @@ Filled Roles
 ~~~~~~~~~~~~~
 
 * **Conference chair** - Mikey Ariel
-* **Swag coordinator** - Mikey Ariel
-* **Speaker wrangler** - Sam Wright
-* **Infrastructure chair** - Sam Wright
-* **Writing Day coordinator** - TBD
-* **Lightning Talk coordinator** - TBD
-* **Communication chair** - TBD
-* **Volunteer coordinator** - Sasha Romijn
-* **Sponsorship lead** - Eric Holscher
-* **Job Fair coordinator** - Eric Holscher
-* **Boat ride coordinator** - Mikey Ariel
-* **Unconference coordinator** - TBD
-* **Welcome Wagon coordinators** - TBD
-* **Social media chair** - TBD
-* **Explore Prague coordinator** - TBD
-* **Emcee** - TBD
+* **Speakers** - Sam Wright
+* **Sponsorship** - Eric Holscher
+* **Volunteers** - Sasha Romijn
+* **Swag** - Mikey Ariel
+* **Infrastructure** - Sam Wright
+* **Writing Day** - Chris Ward
+* **Unconference** - TBD
+* **Lightning Talks** - Paul Adams
+* **Job Fair** - Eric Holscher
+* **Communications** - Mikey Ariel
+* **Boat Ride** - Mikey Ariel
+* **Welcome Wagon** - Beth Aitman, Daniel D. Beck
+* **Social Media** - Chris Ward
+* **Emcee** - Carolyn Stransky

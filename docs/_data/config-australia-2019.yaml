@@ -61,6 +61,8 @@ sponsors:
     - name: buildkite
       link: https://buildkite.com/
   first:
+    - name: datalust
+      link: https://datalust.co/seq
 
 date: # how do we handle these? human readable would be nice.
   main: "**November 14-15, 2019, in Sydney, Australia**"
