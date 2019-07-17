@@ -3,16 +3,17 @@
 .. post:: July 17, 2019
    :tags: prague-2019, activities, events, tickets, visiting, volunteers
 
-Ticket update, events and activities, call for volunteers reminder
-==================================================================
+Tickets Update, Events and Activities, Call for Volunteers Reminder
+===================================================================
 
 Greetings documentarians!
 
 The Prague conference is just about two months away, and we are happy to share with you the latest updates.
 
-**Tickets are going to sell out soon!**
+Tickets are going to sell out soon!
+-----------------------------------
 
-We are now at nearly 75% capacity, and we expect to sell out in the next few weeks, so if you're still on the fence we recommend that you `buy your tickets now <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_!
+We are now at nearly 75% capacity, and we expect to sell out in the next few weeks, so if you're still on the fence we recommend that you `buy your tickets now <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
 
 Please make sure you have a conference ticket before you book your travel! We cannot be held responsible for any loss of non-refundable travel expenses, and we cannot risk overselling the venue capacity.
 
@@ -31,7 +32,7 @@ Check out what we have in store for you this year in Prague:
 
 - **Unconference.** Parallel to the talks, you're welcome to join the `unconference sessions <https://www.writethedocs.org/conf/prague/2019/unconference/>`_. These freestyle sessions are a great opportunity to brainstorm with your fellow documentarians about anything from the latest tooling, the best way to write an email, or how to handle stress and burnout. You can signup for the unconference sessions during the Writing Day and will continue during the conference.
 
-- **Social Event.** This year our social event will be held at `RKO (Restaurant by Retro), Francouzská 4, Prague 2 <https://goo.gl/maps/qJUvEuShp8kUC7ac8>`_, a bar with a great vibe owned by Retro Music Hall. The bar is about 15-20 minutes walk from the main conference venue, and is extremely well-connected by metro and tram service (Namesti Miru stop). The event will start at 20:00, and light snacks and drinks will be provided while our tab lasts. If you want a sit-down dinner we recommend to grab something on the way before we kick off the evening. **Entrance is only for conference attendees**. We will provide you with wristbands when you check-in to the conference, but your badge should work as well. NOTE: The bar is located on the ground floor and is fully-accessible.
+- **Social Event.** This year our social event will be held at `RKO (Restaurant by Retro), Francouzská 4, Prague 2 <https://goo.gl/maps/qJUvEuShp8kUC7ac8>`_, a bar with a great vibe owned by Retro Music Hall. The bar is about 15-20 minutes walk from the main conference venue, and is extremely well-connected by metro and tram service (Namesti Miru stop). The event will start at 20:00, and light snacks and drinks will be provided while our tab lasts. If you want a sit-down dinner we recommend to grab something on the way before we kick off the evening. **Entrance is only for conference attendees**. We will provide you with wristbands when you check-in to the conference, but your badge should work as well.
 
 - **Job Fair.** Following the success last year, we're happy to announce that during Tuesday morning, part of the unconference space will be converted to the job fair. The goal is to give job-seeking documentarians an opportunity to connect with potential employers. Documentarians looking for jobs will be able to visit employers at their table to learn about the company culture, ask about specific job openings and talk to current employees. If you're an employer looking to fill a roll, you can find information about reserving a table in the `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_.
 
