@@ -12,7 +12,7 @@ The Prague conference is just about two months away, and we are happy to share w
 
 **Tickets are going to sell out soon!**
 
-We are now at almost 80% capacity, and we expect to sell out in the next few weeks, so if you're still on the fence we recommend that you `buy your tickets now <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_!
+We are now at nearly 75% capacity, and we expect to sell out in the next few weeks, so if you're still on the fence we recommend that you `buy your tickets now <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_!
 
 Please make sure you have a conference ticket before you book your travel! We cannot be held responsible for any loss of non-refundable travel expenses, and we cannot risk overselling the venue capacity.
 
