@@ -38,6 +38,7 @@ Here are some good general resources -- perhaps someone in your company is alrea
 - [Oxford manual of style](https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf)
 - [IBM style guide](https://www.ibm.com/developerworks/library/styleguidelines/)
 - [Handbook of Technical Writing](http://www.macmillanlearning.com/Catalog/product/handbookoftechnicalwriting-eleventhedition-alred)
+- [The Red Hat Style Guide](http://stylepedia.net/style/)
 
 If you belong to an open-source community or NGO, you can consider the following resources:
 - [18F Content Guide](https://content-guide.18f.gov)
