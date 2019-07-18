@@ -43,7 +43,7 @@ Key takeaways
 **What advice would you have for people looking to become technical writers who are transferring from fields that might be very different?**
 
     I think it’s important to believe in yourself and know that your experience from other industries can translate in ways that you
-    don't recognize initially but do you give you strength. Every life experience that you have is going to hopefully teach you some
+    don't recognize initially but do give you strength. Every life experience that you have is going to hopefully teach you some
     wisdom. It's easy to get lost in imposters syndrome, especially in technical writing. Often times you're going into a technical
     industry that you may not have a lot of prior knowledge of. And so there's acronyms being thrown at you and terminology that
     you're not familiar with. But, you have capabilities that you have picked up along the way that can really serve you. Critical
