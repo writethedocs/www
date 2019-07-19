@@ -31,7 +31,7 @@ If you are willing to share your story with the community, you can contact jobs@
    community-spotlight/interview-ravind-kumar
    community-spotlight/interview-liz-harris
    community-spotlight/interview-chris-bahnweg
-
+   community-spotlight/interview-alex-ball
 
 ..
   potential additional topics here could include:
