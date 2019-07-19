@@ -13,7 +13,7 @@ Key takeaways
 
 **How did you find technical writing?**
 
-    I got into technical writing, kind of just like everyone else, by accident. When I was in university I started off as a French and German major. But I had always been involved in computer science, and my dad completely stumbled into an STC_(Society for Technical 
+    I got into technical writing, kind of just like everyone else, by accident. When I was in university I started off as a French and German major. But I had always been involved in computer science, and my dad completely stumbled into an STC_ (Society for Technical 
     Communication) meeting that was happening in the building he lived in. He came home from this and he called me saying, "Hey, I stumbled on this meeting. It was really cool. I've never heard of technical writing before. I think it's something you might want to investigate."
 
     He had also met a guy there and was talking to him and said, "Yeah, this guy seems really interesting. Here's his contact info. Give him a call." That guy turned out to own a tech writing consulting company and the rest, as they say, is history. He gave me my first tech writing summer job pretty much on spec, and he is 100% responsible for me getting my start as a tech writer.
