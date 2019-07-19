@@ -51,6 +51,7 @@ Other useful topical channels
 * **#sphinx** - Talk about the Sphinx documentation generation tool.
 * **#flare** - Talk about the Flare documentation toolkit.
 * **#confluence** - Talk about everyone's favorite Wiki.
+* **#community-showcase** - Announce your projects here! Blog posts, docs, code, products—whatever you make that you're excited to share!
 
 Location-based channels
 -----------------------
