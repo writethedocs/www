@@ -1,4 +1,4 @@
-:tags: career growth, helping others write
+:tags: career-growth, helping-others-write
 
 Interview with Rachael Stavchansky
 =========================
@@ -13,13 +13,13 @@ Key takeaways
 
 **How did you find technical writing?**
 
-    I fit the mold of someone who stumbled into tech writing after doing other things, which is pretty common. I have an undergraduate degree in Religious Studies, but I knew I was interested in teaching. I taught English abroad after college and then worked at theater companies in their education departments. I went on to get an MFA in Drama and Theatre for Youth, and then I worked at a private school. When my husband and I tried for a second child, we ended up having twins. After some very busy time at home, I started teaching Music Together classes. But I realized, "Oh my goodness, I really need to figure out a career path that's going to be able to significantly contribute." So, while I was still teaching, I took an online assessment through the Texas_ Workforce_ Commission_ that basically asked, "What are you interested in? What are your skills? What are your interests?" And then it provided a list of career options. The top one was anesthesiologist, which made me laugh. Okay, why don’t I go back to school for 12 years? But in the top 10 career options was technical writer, and it stood out to me as a field that legitimately sounded interesting but also something that really lined up with the Austin economy, which is where I live. 
+    I fit the mold of someone who stumbled into tech writing after doing other things, which is pretty common. I have an undergraduate degree in Religious Studies, but I knew I was interested in teaching. I taught English abroad after college and then worked at theater companies in their education departments. I went on to get an MFA in Drama and Theatre for Youth, and then I worked at a private school. When my husband and I tried for a second child, we ended up having twins. After some very busy time at home, I started teaching Music Together classes. But I realized, "Oh my goodness, I really need to figure out a career path that's going to be able to significantly contribute." So, while I was still teaching, I took an online assessment through the `Texas Workforce Commission`_ that basically asked, "What are you interested in? What are your skills? What are your interests?" And then it provided a list of career options. The top one was anesthesiologist, which made me laugh. Okay, why don’t I go back to school for 12 years? But in the top 10 career options was technical writer, and it stood out to me as a field that legitimately sounded interesting but also something that really lined up with the Austin economy, which is where I live. 
 
     So I went to our local community college, and I met with one of the advisors there. After that discussion, I decided I was going to take some courses towards getting a certificate in Technical Communication. I was only able to take one or two courses at a time because I was teaching part time, and I had three tiny kids at home. 
 
     My husband is in a technical field and works as a software developer. So when I was trying to figure out if technical writing was something that I was truly interested in, I started helping him out with projects. I edited a patent application. I edited some documentation for Adobe After Effects plugins. While I was taking classes, I also wrote a documentation suite for a software product that is now part of a company that he founded. So that was a really good way to test the waters and say, "Okay, do I actually like this?" I also think it probably helped me get that first job offer. 
 
-    After two or three semesters, I applied for a summer internship at National_ Instruments_, an Austin company that hires a lot of entry level technical writers. And I was lucky enough that, after the interview process, they said, "You know what? Because you already have a degree, you don’t fall under our internship guidelines, but we would really love to offer you a full time job." I wasn't quite ready to jump into full time work at that time, but I felt like it was too good of an opportunity to pass up. So I accepted, and it's been about five years since then. I stayed there for three years and learned a lot. Then I worked at a much smaller company in downtown Austin where I was able to run the documentation team. Now I work remotely as an individual contributor for another small company, Wowza_ Media Systems. 
+    After two or three semesters, I applied for a summer internship at `National Instruments`_, an Austin company that hires a lot of entry level technical writers. And I was lucky enough that, after the interview process, they said, "You know what? Because you already have a degree, you don’t fall under our internship guidelines, but we would really love to offer you a full time job." I wasn't quite ready to jump into full time work at that time, but I felt like it was too good of an opportunity to pass up. So I accepted, and it's been about five years since then. I stayed there for three years and learned a lot. Then I worked at a much smaller company in downtown Austin where I was able to run the documentation team. Now I work remotely as an individual contributor for another small company, `Wowza Media Systems`_. 
 
 **What advice would you have for people looking to become technical writers who are transferring from fields that might be very different?**
 
@@ -37,9 +37,6 @@ Key takeaways
 
 Rachael goes by ``rstav`` on the Write the Docs Slack group. You can find her in the ``#documenting-apis`` and ``#austin`` channels.
 
-.. _national: https://www.ni.com/careers/
-.. _instruments: https://www.ni.com/careers/
-.. _texas: https://twc.texas.gov/
-.. _workforce: https://twc.texas.gov/
-.. _commission: https://twc.texas.gov/
-.. _wowza: https://www.wowza.com/careers
+.. _national instruments: https://www.ni.com/careers/
+.. _texas workforce commission: https://twc.texas.gov/
+.. _wowza media systems: https://www.wowza.com/careers
