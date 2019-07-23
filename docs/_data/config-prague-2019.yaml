@@ -126,7 +126,7 @@ flaghassponsors: True
 flagcfp: False
 flagticketsonsale: True
 flagspeakersannounced: True
-flaghasschedule: False
+flaghasschedule: True
 flagwelcomewagon: False
 flaglivestreaming: False
 flagvideos: false

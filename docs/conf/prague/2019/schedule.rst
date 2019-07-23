@@ -66,7 +66,7 @@ Writing Day
 {% if flaghasschedule %}
 
 .. datatemplate::
-   :source: /_data/{{templatecode}}-{{year}}-day-0.yaml
+   :source: /_data/{{shortcode}}-{{year}}-writing-day.yaml
    :template: include/schedule2019.rst
    :include_context:
 
@@ -109,7 +109,7 @@ Conference Talks
 {% if flaghasschedule %}
 
 .. datatemplate::
-   :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
+   :source: /_data/{{shortcode}}-{{year}}-day-1.yaml
    :template: include/schedule2019.rst
    :include_context:
 
@@ -162,7 +162,7 @@ Conference Talks
 {% if flaghasschedule %}
 
 .. datatemplate::
-   :source: /_data/{{templatecode}}-{{year}}-day-2.yaml
+   :source: /_data/{{shortcode}}-{{year}}-day-2.yaml
    :template: include/schedule2019.rst
    :include_context:
 
