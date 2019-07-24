@@ -32,12 +32,12 @@ Key takeaways
     I think my last little nugget would be, as you go to break into the field or get started as a technical writer, make sure that the places that you interview for truly understand what you do and what the responsibilities of a technical writer are. If you find that a potential employer doesn't truly understand, help them to get there. I think technical writers can be a huge asset in explaining kind of what we do, Why we do it, and what our responsibilities are. So I think it's very important that potential employers understand that, especially when they're hiring. But also, the technical writer should be strong and be the expert giving advice to whatever potential employer about what they should be doing, their responsibilities as a tech writer, and where their expertise lies.
 
 
-Mandy goes by `Mandy Morgan`` on the Write the Docs Slack group. You can find her in the ``#meetups`` and ``#lonewriter`` channels.
+Mandy goes by ``Mandy Morgan`` on the Write the Docs Slack group. You can find her in the ``#meetups`` and ``#lonewriter`` channels.
 
-.. society for technical communication: https://www.stc.org/
-.. missiouri state university: https://english.missouristate.edu/
-.. relativity: https://www.relativity.com/careers/available-positions/
-.. sertifi: https://corp.sertifi.com/about-us/careers/
+.. _society for technical communication: https://www.stc.org/
+.. _missouri state university: https://english.missouristate.edu/
+.. _relativity: https://www.relativity.com/careers/available-positions/
+.. _sertifi: https://corp.sertifi.com/about-us/careers/
 
 
 
