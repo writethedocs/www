@@ -36,7 +36,9 @@ Boat Ride
 The only event scheduled on Saturday is the :doc:`Prague Boat Ride </conf/{{shortcode}}/{{year}}/outing>`.
 If you get into town early, join us and experience Prague from the water.
 
-Further details will be announced later.
+* **Where**: `Dvořákovo nábřeží 6, Old Town, pier no. 1 <https://goo.gl/maps/N8pd3AKtayFEpiD7A>`_
+* **When**: 13:45 boarding, boat leaves **promptly** at 14:00, two-hour cruise will end at 16:00
+* **Details**: :doc:`Prague Boat Ride </conf/{{shortcode}}/{{year}}/outing>`
 
 {% endif %}
 
@@ -129,12 +131,13 @@ Monday Night Social
 
 The official Write the Docs social!
 
-This event is for **conference attendees only**. Please bring your badge to be let into the venue.
-There will be light snacks and drinks available on the conference while our tab lasts.
+This event is for **conference attendees only**. Please bring your wristband or badge to be let into the venue.
+Light snacks and drinks are included while our tab lasts. Full-service dinner will not be provided.
 
-Further details will be announced later.
+* **Where**: `RKO (Restaurant by Retro), Francouzská 4, Prague 2 <https://goo.gl/maps/qJUvEuShp8kUC7ac8>`_ (Namesti Miru tram/metro stop)
+* **When**: **20:00-23:00**
 
-.. TODO add this variable? 
+.. TODO add this variable?
 
 Tuesday, September 17
 ---------------------
