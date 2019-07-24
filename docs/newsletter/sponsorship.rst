@@ -1,3 +1,5 @@
+:orphan:
+
 Newsletter Sponsorship
 ======================
 
@@ -49,7 +51,7 @@ Schedule
 We publish the newsletter 10 times a year.
 The months that we skip are January and August.
 In January we do a community update,
-which goes to the same list and has the same sponsorship opportunities. 
+which goes to the same list and has the same sponsorship opportunities.
 
 Pricing
 -------
