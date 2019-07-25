@@ -77,7 +77,13 @@ Here are a few other tidbits to remember:
    visible to everyone.
 -  Include your Twitter handle on your slides, so people can properly
    attribute your brilliance :)
+
+{% if shortcode == 'portland' %}
 -  Slides should be 16:9 resolution
+{% elif shortcode == 'prague' %}
+-  Slides should be 16:10 resolution
+{% endif %}
+
 -  Have an offline PDF backup of your slides, just in case :)
 
 Christina Elmore gave a great talk that is relevant to many of us at our
