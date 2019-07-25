@@ -34,14 +34,14 @@ Key takeaways
 
 Gaurav goes by `gnelson` on the Write the Docs Slack group. You can find him in the `#web-development`, `#testthedocs` and `#style-guides` channels.
 
-.. git: https://git-scm.com/
-.. markdown: http://www.writethedocs.org/guide/writing/markdown/
-.. asciidoc: http://www.writethedocs.org/guide/writing/asciidoc/
-.. rst: http://www.writethedocs.org/guide/writing/reStructuredText/
-.. red hat: https://www.redhat.com/en/jobs
-.. stackrox: https://www.stackrox.com/careers/
-.. google: https://developers.google.com/style/
-.. ibm: https://www.ibm.com/developerworks/library/styleguidelines/index.html
-.. microsoft: https://docs.microsoft.com/en-us/style-guide/welcome/
-.. chicago: https://www.chicagomanualofstyle.org/home.html
-.. hacktoberfest: https://hacktoberfest.digitalocean.com/
+.. _git: https://git-scm.com/
+.. _markdown: http://www.writethedocs.org/guide/writing/markdown/
+.. _asciidoc: http://www.writethedocs.org/guide/writing/asciidoc/
+.. _rst: http://www.writethedocs.org/guide/writing/reStructuredText/
+.. _red hat: https://www.redhat.com/en/jobs
+.. _stackrox: https://www.stackrox.com/careers/
+.. _google: https://developers.google.com/style/
+.. _ibm: https://www.ibm.com/developerworks/library/styleguidelines/index.html
+.. _microsoft: https://docs.microsoft.com/en-us/style-guide/welcome/
+.. _chicago: https://www.chicagomanualofstyle.org/home.html
+.. _hacktoberfest: https://hacktoberfest.digitalocean.com/
