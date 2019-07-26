@@ -27,10 +27,9 @@ If you are willing to share your story with the community, you can contact jobs@
 .. toctree::
    :caption: Guide Contents
    :maxdepth: 1
+   :glob:
 
-   community-spotlight/interview-ravind-kumar
-   community-spotlight/interview-liz-harris
-   community-spotlight/interview-chris-bahnweg
+   community-spotlight/*
 
 
 ..
