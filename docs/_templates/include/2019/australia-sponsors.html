@@ -1,0 +1,52 @@
+<div class="sponsors">
+  <div class="gold-sponsors">
+    {% for sponsor in sponsors.keystone %}
+    <div class="uk-width-1-1@s">
+      <a href="{{ sponsor.link }}">
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: 500px;" />
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="silver-sponsors">
+    {% for sponsor in sponsors.patron %}
+    <div class="uk-width-1-1@s">
+      <a href="{{ sponsor.link }}">
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: 400px;" />
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="silver-sponsors">
+    {% for sponsor in sponsors.publisher %}
+    <div class="uk-width-1-2@s">
+      <a href="{{ sponsor.link }}">
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: 300px;" />
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="bronze-sponsors">
+    {% for sponsor in sponsors.second %}
+    <div class="uk-width-1-2@s">
+      <a href="{{ sponsor.link }}">
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: 200px;" />
+      </a>
+    </div>
+    {% endfor %}
+  </div> <!-- end bronze -->
+
+  <div class="community-sponsors">
+    {% for sponsor in sponsors.first %}
+    <div class="uk-width-1-2@s">
+      <a href="{{ sponsor.link }}">
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: 150px;" />
+      </a>
+    </div>
+    {% endfor %}
+  </div><!-- end community sponsors section -->
+
+</div><!-- end sponsors section -->

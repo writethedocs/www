@@ -112,7 +112,7 @@ about:
   mainroom:
     Main Ballroom
   unconfroom:
-    Unconference Room, across from the Main Ballroom
+    Restaurant and Aero Hall, ground floor
 
 cfp:
   url: https://goo.gl/forms/NdcXO3SGhUxlidht1
@@ -120,7 +120,7 @@ cfp:
   notification: Monday, June 2nd
 
 job_fair:
-  location: Unconference Room, across from the Main Ballroom
+  location: Aero Hall, ground floor
 
 flaghassponsors: True
 flagcfp: False
