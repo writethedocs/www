@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 
-.. post:: August 15, 2018
-   :tags: 2018, prague-2018, schedule
+.. post:: August 1, 2019
+   :tags: 2019, prague-2019, schedule
 
 Announcing Full Schedule & Tickets Almost Sold Out
 ==================================================
