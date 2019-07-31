@@ -8,7 +8,7 @@ Announcing Full Schedule & Tickets Almost Sold Out
 
 Although it hasn't been that long since our last update, we have some big news to share with you all!
 
-Tickets almost sold out
+Tickets are almost sold out!
 -----------------------
 
 Since our last blog post, we had a surge of registrations, and we are now **more than 80% sold out**. This means that we only have a few dozen tickets left, and we expect to reach our capacity within the next week or so.
