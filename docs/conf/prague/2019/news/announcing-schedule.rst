@@ -6,7 +6,7 @@
 Announcing Full Schedule & Tickets Almost Sold Out
 ==================================================
 
-Although it hasn't been that long since our last update, we have some big news to share with you all!
+Although it hasn't been that long since our last update, we have some big news to share with you all. 
 
 Tickets are almost sold out!
 -----------------------
