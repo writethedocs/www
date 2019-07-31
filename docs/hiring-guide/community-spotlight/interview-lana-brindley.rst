@@ -1,5 +1,5 @@
 Interview with Lana Brindley
-=========================
+=============================
 
 Lana is a technical writer at SUSE. Her work has primarily been with open source software, and she has been writing technical documentation and leading writing teams for 12 years.
 
