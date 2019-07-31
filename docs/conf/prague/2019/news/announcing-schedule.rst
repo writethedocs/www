@@ -36,6 +36,17 @@ Another friendly reminder that our `T-Shirt Pop-Up Shop <https://teespring.com/w
 
 And don't worry, you'll still have a Write the Docs Prague 2019 souvenir from the conference even if you decide not to order a shirt.
 
+Thanks to our newest sponsors
+-----------------------------
+
+We are so grateful to have our sponsors help in bringing these events to life every year. Thanks to the following companies for supporting the Write the Docs community:
+
+`Mozilla <https://developer.mozilla.org/en-US/>`_
+
+`CONTACT Software <https://www.contact-software.com/en/>`_
+
+Want to support our community? Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/prague/2019/sponsors/prospectus/>`_ for details on how your company can get involved! We have several types of sponsorship available, including tables at the job fair that we'll be hosting on Tuesday.
+
 Thanks so much for all your support and enthusiasm so far – we're so excited to see you all next month!
 
 The Write the Docs team
