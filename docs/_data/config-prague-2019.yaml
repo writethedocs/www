@@ -56,9 +56,10 @@ sponsorship:
 sponsors:
   keystone:
   patron:
-  publisher:
+    # They are actually a publisher, but I want these styles :)
     - name: mozilla-new
       link: https://developer.mozilla.org/en-US/
+  publisher:
   second:
     - name: redhat-new
       link: https://www.redhat.com/
