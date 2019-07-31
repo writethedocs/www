@@ -6,12 +6,12 @@
 
 **Mikey Ariel**
 
-* prague@writethedocs.org
+* mikey@writethedocs.org
 * +420-603-261-361
 * slack: thatdocslady
 
 **Sasha Romijn**
 
-* wtd@mxsasha.eu
-* +31-853-031-055
+* sasha@writethedocs.org
+* +31-202-443-779
 * slack: sasha
