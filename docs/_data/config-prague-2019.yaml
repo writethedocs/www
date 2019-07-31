@@ -57,6 +57,8 @@ sponsors:
   keystone:
   patron:
   publisher:
+    - name: mozilla
+      link: https://developer.mozilla.org/en-US/
   second:
     - name: redhat-new
       link: https://www.redhat.com/
@@ -65,6 +67,8 @@ sponsors:
     - name: knowledgeowl
       link: https://www.knowledgeowl.com
       width: 250px
+    - name: contact-software
+      link: https://www.contact-software.com/en/
   first:
     - name: buildkite
       link: https://buildkite.com/
