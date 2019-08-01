@@ -42,9 +42,9 @@ Asking questions
 
 The two staple questions of each interview are a variation of "What has been the story of your technical writing career so far?" and "What advice would you give to aspiring technical writers looking to break into the field?" These questions act as bookends to introduce the reader to the experience of the interview and then leave the reader with some practical advice to take with them. Every other question asked is up to the interviewer's discretion, and forming these questions often come as a response to the career story given by the interviewee.
 
- A general tip for crafting these questions on the fly is to ask the interviewee what their experience was like during a period in their life that you as the interviewer would like for insight. For example, you may ask, "What was your like working as a freelance writer? " or "What was your experience like transitioning from hardware documentation to software." From there, you can dive into topics that you think provide the most educational value for the intended audience.
+A general tip for crafting these questions on the fly is to ask the interviewee what their experience was like during a period in their life that you as the interviewer would like for insight. For example, you may ask, "What was your like working as a freelance writer? " or "What was your experience like transitioning from hardware documentation to software." From there, you can dive into topics that you think provide the most educational value for the intended audience.
 
- A resource for generalized questions can be found in the _`general questions resource`.
+ A resource for generalized questions can be found in the `general questions resource`_.
 
 Converting the interview into text
 -----------------------------------
