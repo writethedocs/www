@@ -6,7 +6,7 @@ Interview with Sarah Moir
 Sarah is a technical writer who spent some time experimenting with product management before returning back to writing documentation. She has been a technical writer for 6 years and has written mainly for software security.
 
 Key takeaways
---------------------
+-------------
 
 * Understand how you define value in your work, and use that to help define your career choices.
 * Leaving your comfort zone can help you realize what you enjoy doing and why you enjoy doing it.
