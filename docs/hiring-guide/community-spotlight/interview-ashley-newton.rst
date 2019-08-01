@@ -1,12 +1,12 @@
 :tags: career-growth, applying-for-jobs, storytelling
 
 Interview with Ashley Newton
-=========================
+============================
 
 Ashley has been a technical writer for 4 years, working in fulltime and contract positions doing software documentation.
 
 Key takeaways
---------------------
+-------------
 
 * Networking can lead to job opportunities and can also be a nice alternative to a potentially draining job search.
 * Relevant and practical experience is a powerful asset to have for the initial job search.
