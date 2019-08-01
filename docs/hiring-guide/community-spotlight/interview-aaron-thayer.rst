@@ -1,12 +1,12 @@
 :tags:career-growth, applying-for-jobs, storytelling
 
 Interview with Aaron Thayer
-=========================
+===========================
 
 Aaron is technical writer who has done work writing for both software and healthcare. Since finishing his master's degree, he has been a technical writer for 4 years.
 
 Key takeaways
---------------------
+-------------
 
 * Technical writing skills are broadly applicable and can be used for roles that may not explicitly have "technical writing" in the title.
 * Connecting with other writers opens you up to career and learning opportunities that may not be otherwise available.
