@@ -11,7 +11,7 @@ A quick correction first: last month we said that the Australia conference is in
 
 In the other hemisphere, the `Prague speaker speaker schedule is up </conf/prague/2019/schedule/>`__, and `tickets are almost sold out </conf/prague/2019/news/events-activities/>`__. Once they're gone, they're gone, so if you'd like to come, buy your tickets ASAP!
 
-One last thing - we're delighted to have some new recruits to the newsletter team, which means we now have one more story about what the community has been talking about on Slack! Enjoy :) The newsletter team takes September off, so we'll be back in your inboxes come October.
+One last thing - we're delighted to have some new recruits to the newsletter team, which means we now have an extra story about what the community has been talking about on Slack! Enjoy :) The newsletter team takes September off, so we'll be back in your inboxes come October.
 
 ------------------------------------------------
 Adventures in generating docs from code comments
@@ -19,26 +19,30 @@ Adventures in generating docs from code comments
 
 A question about how to improve on tools like `Javadoc <https://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html>`__ and `doxygen <http://www.doxygen.nl/>`__ yielded many insights into getting great results with docs generated from code comments:
 
-* Javadoc is pretty standard in the Java world, so you can expect that Java devs are already looking for the Javadoc - and you can help them just by making sure it's easy to find.
-* No matter which tool you use, the content is only as good as the comments in the code. Great documentation depends on collaboration between developers and writers, which can be challenging. To improve developer buy-in, try emphasizing that more complete and accurate code comments can help increase adoption: no one will use the product if they can't understand it. Any tactic to open a conversation can help: one writer started by contributing basic grammar edits.
-* When it comes to what the docs *look* like, you can customize the standard doclet yourself or search for existing custom doclets. Take care with custom doclets that aren't maintained or supported: they can take a lot of work. And remember, Javadoc and Doxygen actually only "autogenerate" insofar as they are integrated into the app build process.
+* Javadoc is pretty standard for Java development, so you can expect that devs are already looking for the Javadoc - and you can help them just by making sure it's easy to find.
+* No matter which tool you use, the content is only as good as the comments in the code. Great documentation depends on collaboration between developers and writers, which can be challenging.
+
+  To improve developer buy-in, try emphasizing that more complete and accurate code comments can help increase adoption: no one will use the product if they can't understand it. Any tactic to open a conversation can help: one writer started by contributing basic grammar edits.
+* When it comes to what the docs look like, you can customize the standard doclet yourself or search for existing custom doclets. Take care with custom doclets that aren't maintained or supported: they can take a lot of work. And remember, Javadoc and Doxygen actually only "autogenerate" insofar as they are integrated into the app build process.
 * Javadoc interprets the code itself, so it can - even without code comments - generate basic docs on package, class, method, field, and argument names and types. One person mentioned they sometimes run Javadoc just to see what it turns up about the code that isn't documented elsewhere.
 
-For more about a successful Javadoc/doxygen project that included writers and developers, check out Jennifer Rondeau's `Symantec case study <https://www.docslikecode.com/articles/symantec-case-study/>`__. For a discussion of the benefits of writers and developers working together, see our editor's talk `Who Writes the Docs? </videos/portland/2018/who-writes-the-docs-beth-aitman/>`__.
+For more about a successful Javadoc/doxygen project that included writers and developers, check out Jennifer Rondeau's `Symantec case study <https://www.docslikecode.com/articles/symantec-case-study/>`__. For a discussion of the benefits of writers and developers working together, see our editor's talk `Who Writes the Docs? </videos/portland/2018/who-writes-the-docs-beth-aitman/>`__
 
 -------------------------------
 Using writing tests when hiring
 -------------------------------
 
-Assessing writers when you're hiring can be a tricky task. Work samples may not be enough to assess skill level; confidentiality agreements bind some candidates, making samples hard to come by; and samples may have been improved by colleagues. Recently on Slack, documentarians were discussing how writing tests can help get past these limitations, but tests are controversial. Asking a candidate to spend many hours on a test is not very respectful of their time, and not everyone can afford to do it. So here are a few tips from the conversation:
+Assessing writers when you're hiring can be a tricky task. Work samples may not be enough to assess skill level; confidentiality agreements bind some candidates, making samples hard to come by; and samples may have been improved by colleagues.
+
+Recently on Slack, documentarians were discussing how writing tests can help get past these limitations, but tests are controversial. Asking a candidate to spend many hours on a test is not very respectful of their time, and not everyone can afford to do it. So here are a few tips from the conversation:
 
 - It can be reasonable to ask a candidate to complete a writing test before interviews, so that you get an indication of their skills. Just be careful about how much time it will take them.
 - An alternative is an on-site writing test during an interview day. But keep the test to an hour or less, and be aware that time pressure changes how polished you can expect the work to be.
 - Be wary of writing tests on real company topics: while these are more realistic tests, they can also look like you're asking for free work. Instead, perhaps ask them to document a tool or open-source project with no direct benefit to the company.
 - Getting candidates to think about the audience of the documentation is crucial!
-- You can learn a lot about how a person works, so give candidates a chance to talk about their writing process after the test. 
+- You can learn a lot about how a person works through writing tests, so give candidates a chance to talk about their writing process after the test. 
 
-For ideas, read Cockroach Labs' `Documentation Exercises <https://github.com/cockroachlabs/open-sourced-interview-process/blob/master/DocumentationExercises.md>`__.
+For more ideas, read Cockroach Labs' `Documentation exercises <https://github.com/cockroachlabs/open-sourced-interview-process/blob/master/DocumentationExercises.md>`__.
 
 -------------------------------------------
 Advice for creating technical illustrations
