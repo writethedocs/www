@@ -7,7 +7,7 @@ Write the Docs Newsletter – August 2019
 
 Hello everyone! It's Beth and the team here, with another packed newsletter issue for you to enjoy.
 
-A quick correction first: last month we said that the Australia conference is in Melbourne, when it is in fact in **Sydney**. My sincerest apologies. If you'd like to speak in **Sydney**, the `CFP </conf/australia/2019/cfp/>`__ is still open: you have until 9th August to submit.
+A quick correction first: last month we said that the Australia conference is in Melbourne, when it is in fact in **Sydney**. Really sorry about that. If you'd like to speak in **Sydney**, the `CFP </conf/australia/2019/cfp/>`__ is still open: you have until 9th August to submit.
 
 On the other side of the globe, the `Prague speaker speaker schedule is up </conf/prague/2019/schedule/>`__, and `tickets are almost sold out </conf/prague/2019/news/events-activities/>`__. Once they're gone, they're gone, so if you'd like to come, buy your tickets ASAP!
 
@@ -19,14 +19,14 @@ Speaking of the team, we're delighted to have some new recruits to the newslette
 Adventures in generating docs from code comments
 ------------------------------------------------
 
-A question about how to improve on tools like `Javadoc <https://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html>`_ and `doxygen <http://www.doxygen.nl/>`_ yielded many insights into getting great results with docs generated from code comments:
+A question about how to improve on tools like `Javadoc <https://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html>`__ and `doxygen <http://www.doxygen.nl/>`__ yielded many insights into getting great results with docs generated from code comments:
 
 * Javadoc is pretty standard in the Java world, so you can expect that Java devs are already looking for the Javadoc - and you can help them just by making sure it's easy to find.
 * No matter which tool you use, the content is only as good as the comments in the code. Great documentation typically depends on collaboration between developers and writers, which documentarians agreed can be challenging. To improve developer buy-in, try emphasizing that better docs (through more complete and accurate code comments) can help increase adoption: no one will use the product if they can't understand it. Any tactic to open a conversation can help: one writer started by contributing basic grammar edits.
 * When it comes to what the docs *look* like, you can customize the standard doclet yourself or search for existing custom doclets. Take care with custom doclets that aren't maintained or supported: they can take a lot of work. And remember, Javadoc and Doxygen actually only "autogenerate" insofar as they are integrated into the app build process.
 * Javadoc interprets the code itself, so it can - even without code comments - generate basic docs on package, class, method, field, and argument names and types. One person mentioned they sometimes run Javadoc just to see what it turns up about the code that isn't documented elsewhere. Because Javadoc includes fields for doc elements, you can see which are blank when you generate the docs.
 
-For more about a successful Javadoc/doxygen project that included writers and developers, check out Jennifer Rondeau's `Symantec case study <https://www.docslikecode.com/articles/symantec-case-study/>`_. For a discussion of the benefits of writers and developers working together, see Beth Aitman's talk `Who Writes the Docs? </videos/portland/2018/who-writes-the-docs-beth-aitman/>`_.
+For more about a successful Javadoc/doxygen project that included writers and developers, check out Jennifer Rondeau's `Symantec case study <https://www.docslikecode.com/articles/symantec-case-study/>`__. For a discussion of the benefits of writers and developers working together, see Beth Aitman's talk `Who Writes the Docs? </videos/portland/2018/who-writes-the-docs-beth-aitman/>`__.
 
 -------------------------------
 Using writing tests when hiring
@@ -46,7 +46,7 @@ For ideas, read Cockroach Labs' `Documentation Exercises <https://github.com/coc
 Advice for creating technical illustrations
 -------------------------------------------
 
-Diagrams and technical illustrations were a hot topic this month. Here are some of the things that came up - but if you want to hear more, join `#visual-content<https://writethedocs.slack.com/messages/visual-content>`_!
+Diagrams and technical illustrations were a hot topic this month. Here are some of the things that came up - but if you want to hear more, join `#visual-content <https://writethedocs.slack.com/messages/visual-content>`__!
 
 * Less is more! Like in technical writing, be concise in your technical illustrating.
 * Before you start illustrating, identify what resources you have available. For example, if other published materials include images, these may well be vector graphics that you can easily import to use as a starting point for your own illustration.
@@ -55,8 +55,8 @@ Diagrams and technical illustrations were a hot topic this month. Here are some 
 
 Resources the community mentioned:
 
-* `Mike Parkinson's (of BillionDollarGraphics) Graphic Cheat Sheet <http://billiondollargraphics.com/graphic-cheat-sheet/>`_
-* `Alicia Raszkowska's presentation, "Draw the Docs" (Write The Docs, Portland, 2019)<https://www.writethedocs.org/videos/portland/2019/draw-the-docs-alicja-raszkowska/>`__
+* `Mike Parkinson's (of BillionDollarGraphics) Graphic Cheat Sheet <http://billiondollargraphics.com/graphic-cheat-sheet/>`__
+* `Alicia Raszkowska's talk "Draw the Docs" </videos/portland/2019/draw-the-docs-alicja-raszkowska/>`__
 * `The Back of the Napkin by Dan Roam <https://hbr.org/2008/09/solving-problems-with-your-pen.html>`__
 * `Trees, maps, and theorems by Jean-luc Dumont <http://www.principiae.be/X0300.php>`__
 
@@ -98,7 +98,7 @@ Analytics, metrics, measuring docs quality -- different names for similar questi
 - Other potentially useful data includes device type (mobile/desktop/tablet), browser, and language.
 - Try Google Tag Manager for managing GA tracking -- it lets you start tracking more items without adding extra code to your site.
 
-People were quick to point out that, while GA shows you what data you can collect automatically, you really need to think about what you want to learn about your docs and users, then pick metrics to achieve those goals. Start with the questions, then gather the data! (More in `Sarah Moir's great talk from Portland </videos/portland/2019/just-add-data-make-it-easier-to-prioritize-your-documentation-sarah-moir/>`_.)
+People were quick to point out that, while GA shows you what data you can collect automatically, you really need to think about what you want to learn about your docs and users, then pick metrics to achieve those goals. Start with the questions, then gather the data! (More in `Sarah Moir's great talk from Portland </videos/portland/2019/just-add-data-make-it-easier-to-prioritize-your-documentation-sarah-moir/>`__.)
 
 A particular question about measuring ROI generated its own round of ideas and suggestions:
 
@@ -106,7 +106,7 @@ A particular question about measuring ROI generated its own round of ideas and s
 - If you care about reducing support tickets (deflection), work with support: they can give users links to relevant docs, and measure how many visit docs pages instead of filing tickets. 
 
   One example was a support site that took a high bounce rate and low numbers of page views as evidence that users found what they wanted and left. A similar approach could be measuring how many visitors left your site after viewing a support article.
-- For more ideas, see this `blog post about support KB effectiveness <https://www.chrisdottodd.com/2019/03/measure-success-of-your-help-knowledge.html>`_.
+- For more ideas, see this `blog post about support KB effectiveness <https://www.chrisdottodd.com/2019/03/measure-success-of-your-help-knowledge.html>`__.
 
 There were also some clever suggestions for deciding which docs need improvement. High pageviews combined with low page ratings suggest pages in need of attention. Or if a page that helps solve a problem people are filing support tickets for is getting low pageviews, maybe your SEO could use some love.
 
@@ -114,9 +114,9 @@ Recommended reading:
 
 - *Measures of Success: React Less, Lead Better, Improve More*
 - *How to Measure Anything*
-- `More newsletter entries about metrics! <https://www.writethedocs.org/newsletter/#metrics>`_
-- Bob Watson's often cited `blog posts about measuring value <https://docsbydesign.com/category/technical-writing/measuring-value/>`_
-- Sarah Moir's blog posts `here <https://thisisimportant.net/2019/05/21/detailed-data-types-you-can-use-for-documentation-prioritization/>`_ and `here <https://thisisimportant.net/2019/05/21/just-add-data-using-data-to-prioritize-your-documentation/>`_
+- `More newsletter entries about metrics! <https://www.writethedocs.org/newsletter/#metrics>`__
+- Bob Watson's often cited `blog posts about measuring value <https://docsbydesign.com/category/technical-writing/measuring-value/>`__
+- Sarah Moir's blog posts `here <https://thisisimportant.net/2019/05/21/detailed-data-types-you-can-use-for-documentation-prioritization/>`__ and `here <https://thisisimportant.net/2019/05/21/just-add-data-using-data-to-prioritize-your-documentation/>`__
 
 ---------
 Job posts
@@ -132,8 +132,6 @@ Job posts
 --------------------------
 Community events coming up
 --------------------------
-
-TODO: community events
 
 - 7 August - London, UK - `Summer social <https://www.meetup.com/Write-The-Docs-London/events/262472580/>`__
 - 10 August - Bengaluru, India - `Can you Whatfix? <https://www.meetup.com/Write-the-Docs-India/events/263473440/>`__
