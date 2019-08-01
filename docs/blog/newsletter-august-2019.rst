@@ -5,15 +5,13 @@
 Write the Docs Newsletter – August 2019
 #######################################
 
-Hello everyone! It's Beth and the team here, with another packed newsletter issue for you to enjoy.
+Hello everyone! It's Beth and the team here, with another packed newsletter issue for you.
 
 A quick correction first: last month we said that the Australia conference is in Melbourne, when it is in fact in **Sydney**. Really sorry about that. If you'd like to speak in **Sydney**, the `CFP </conf/australia/2019/cfp/>`__ is still open: you have until 9th August to submit.
 
-On the other side of the globe, the `Prague speaker speaker schedule is up </conf/prague/2019/schedule/>`__, and `tickets are almost sold out </conf/prague/2019/news/events-activities/>`__. Once they're gone, they're gone, so if you'd like to come, buy your tickets ASAP!
+In the other hemisphere, the `Prague speaker speaker schedule is up </conf/prague/2019/schedule/>`__, and `tickets are almost sold out </conf/prague/2019/news/events-activities/>`__. Once they're gone, they're gone, so if you'd like to come, buy your tickets ASAP!
 
-That's it on the news front for now; looking forward to seeing lots of you in Prague! The newsletter team takes September off, so if I don't catch you at the conference, we'll be back in your inboxes come October.
-
-Speaking of the team, we're delighted to have some new recruits to the newsletter team, which means an extra story for you below! This is what the community's been talking about on Slack this month:
+One last thing - we're delighted to have some new recruits to the newsletter team, which means we now have one more story about what the community has been talking about on Slack! Enjoy :) The newsletter team takes September off, so we'll be back in your inboxes come October.
 
 ------------------------------------------------
 Adventures in generating docs from code comments
@@ -22,17 +20,17 @@ Adventures in generating docs from code comments
 A question about how to improve on tools like `Javadoc <https://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html>`__ and `doxygen <http://www.doxygen.nl/>`__ yielded many insights into getting great results with docs generated from code comments:
 
 * Javadoc is pretty standard in the Java world, so you can expect that Java devs are already looking for the Javadoc - and you can help them just by making sure it's easy to find.
-* No matter which tool you use, the content is only as good as the comments in the code. Great documentation typically depends on collaboration between developers and writers, which documentarians agreed can be challenging. To improve developer buy-in, try emphasizing that better docs (through more complete and accurate code comments) can help increase adoption: no one will use the product if they can't understand it. Any tactic to open a conversation can help: one writer started by contributing basic grammar edits.
+* No matter which tool you use, the content is only as good as the comments in the code. Great documentation depends on collaboration between developers and writers, which can be challenging. To improve developer buy-in, try emphasizing that more complete and accurate code comments can help increase adoption: no one will use the product if they can't understand it. Any tactic to open a conversation can help: one writer started by contributing basic grammar edits.
 * When it comes to what the docs *look* like, you can customize the standard doclet yourself or search for existing custom doclets. Take care with custom doclets that aren't maintained or supported: they can take a lot of work. And remember, Javadoc and Doxygen actually only "autogenerate" insofar as they are integrated into the app build process.
-* Javadoc interprets the code itself, so it can - even without code comments - generate basic docs on package, class, method, field, and argument names and types. One person mentioned they sometimes run Javadoc just to see what it turns up about the code that isn't documented elsewhere. Because Javadoc includes fields for doc elements, you can see which are blank when you generate the docs.
+* Javadoc interprets the code itself, so it can - even without code comments - generate basic docs on package, class, method, field, and argument names and types. One person mentioned they sometimes run Javadoc just to see what it turns up about the code that isn't documented elsewhere.
 
-For more about a successful Javadoc/doxygen project that included writers and developers, check out Jennifer Rondeau's `Symantec case study <https://www.docslikecode.com/articles/symantec-case-study/>`__. For a discussion of the benefits of writers and developers working together, see Beth Aitman's talk `Who Writes the Docs? </videos/portland/2018/who-writes-the-docs-beth-aitman/>`__.
+For more about a successful Javadoc/doxygen project that included writers and developers, check out Jennifer Rondeau's `Symantec case study <https://www.docslikecode.com/articles/symantec-case-study/>`__. For a discussion of the benefits of writers and developers working together, see our editor's talk `Who Writes the Docs? </videos/portland/2018/who-writes-the-docs-beth-aitman/>`__.
 
 -------------------------------
 Using writing tests when hiring
 -------------------------------
 
-Assessing writers when you're hiring can be a tricky task. Work samples may not be enough to assess skill level; confidentiality agreements bind some candidates, making samples hard to come by; and samples may have been improved by colleagues. Recently on Slack, documentarians were discussing how writing tests can help get past these limitations, but they're controversial. Asking a candidate to spend many hours on a test is not very respectful of their time, and not everyone can afford to do it. So here are a few tips from the conversation:
+Assessing writers when you're hiring can be a tricky task. Work samples may not be enough to assess skill level; confidentiality agreements bind some candidates, making samples hard to come by; and samples may have been improved by colleagues. Recently on Slack, documentarians were discussing how writing tests can help get past these limitations, but tests are controversial. Asking a candidate to spend many hours on a test is not very respectful of their time, and not everyone can afford to do it. So here are a few tips from the conversation:
 
 - It can be reasonable to ask a candidate to complete a writing test before interviews, so that you get an indication of their skills. Just be careful about how much time it will take them.
 - An alternative is an on-site writing test during an interview day. But keep the test to an hour or less, and be aware that time pressure changes how polished you can expect the work to be.
@@ -51,7 +49,7 @@ Diagrams and technical illustrations were a hot topic this month. Here are some 
 * Less is more! Like in technical writing, be concise in your technical illustrating.
 * Before you start illustrating, identify what resources you have available. For example, if other published materials include images, these may well be vector graphics that you can easily import to use as a starting point for your own illustration.
 * Consider reaching out to a designer or similarly skilled person in your organization for help or inspiration.
-* *Advanced tip!* If you're publishing a PDF, you can embed 3-D objects into the PDF. When users view your PDF document, they can interact with the 3-D object. You can learn more about this `here <https://helpx.adobe.com/acrobat/using/interacting-3d-models.html#interacting_with_3d_models>__`.
+* *Advanced tip!* If you're publishing a PDF, you can embed 3-D objects into the PDF. When users view your PDF document, they can interact with the 3-D object. You can learn more about this `here <https://helpx.adobe.com/acrobat/using/interacting-3d-models.html#interacting_with_3d_models>`__.
 
 Resources the community mentioned:
 
@@ -60,7 +58,7 @@ Resources the community mentioned:
 * `The Back of the Napkin by Dan Roam <https://hbr.org/2008/09/solving-problems-with-your-pen.html>`__
 * `Trees, maps, and theorems by Jean-luc Dumont <http://www.principiae.be/X0300.php>`__
 
-And here are some tools documentarians use to create technical illustrations:
+And the tools documentarians said they use included:
 
 * GIMP
 * Adobe Illustrator
