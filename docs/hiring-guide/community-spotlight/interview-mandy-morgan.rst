@@ -1,19 +1,20 @@
 :tags: career-growth, lone-writer, applying-for-jobs, storytelling
 
 Interview with Mandy Morgan
-=========================
+===========================
 
 Mandy is a sole technical writer who has been working primarily in software for the past five years.
 
 Key takeaways
---------------------
+-------------
 
 * Don't be afraid of the complicated subject matter that comes with technical writing. Learning and asking questions is part of the job.
 * When searching for jobs, make sure that your potential employer understands the value of what you offer as a tech writer.
 
 **What is the story of your technical writing career so far?**
 
-    I have both a bachelor's and master's degree in technical communication. That was completely by chance. I started college and knew that I liked to write, but I never thought it would be something I could turn into a career. So I took an introduction to technical writing course at `Missouri State University`_, and that kind of sealed my fate. I loved every aspect about it and then decided after four years and getting my undergrad degree that it wasn't enough. Then it was during my master's that I had to get an internship, and I got in touch with someone in Chicago through the `Society for Technical Communication`_. I asked him, "If you could keep your ear to the ground for any internships that open up, please, let me know." A few months later, I got my first, which was at a company called Relativity. I was there for about two or three months and then got the full time offer. So I started up quickly as a full time technical writer while wrapping up my master's degree, and I was at `Relativity`_ for about a little over three years. Then I found myself wanting a little bit more responsibility, a little bit more of a challenge, so I went to another company as their first technical writer and got them spun up with their whole technical writing program and processes, got them their first knowledge base, both internally and externally. That led me to the company that I'm at right now, which is `Sertifi`_. I've been here for about a year and a half, again, as their first and only technical writer.
+    I have both a bachelor's and master's degree in technical communication. That was completely by chance. I started college and knew that I liked to write, but I never thought it would be something I could turn into a career. So I took an introduction to technical writing course at `Missouri State University`_, and that kind of sealed my fate. I loved every aspect about it and then decided after four years and getting my undergrad degree that it wasn't enough. Then it was during my master's that I had to get an internship, and I got in touch with someone in Chicago through the `Society for Technical Communication`_. I asked him, "If you could keep your ear to the ground for any internships that open up, please, let me know." A few months later, I got my first, which was at a company called Relativity. I was there for about two or three months and then got the full time offer. 
+    So I started up quickly as a full time technical writer while wrapping up my master's degree, and I was at `Relativity`_ for about a little over three years. Then I found myself wanting a little bit more responsibility, a little bit more of a challenge, so I went to another company as their first technical writer and got them spun up with their whole technical writing program and processes, got them their first knowledge base, both internally and externally. That led me to the company that I'm at right now, which is `Sertifi`_. I've been here for about a year and a half, again, as their first and only technical writer.
 
 **Why did you pursue a masters degree instead of heading straight into the workforce?**
 
