@@ -44,7 +44,7 @@ The two staple questions of each interview are a variation of "What has been the
 
 A general tip for crafting these questions on the fly is to ask the interviewee what their experience was like during a period in their life that you as the interviewer would like for insight. For example, you may ask, "What was your like working as a freelance writer? " or "What was your experience like transitioning from hardware documentation to software." From there, you can dive into topics that you think provide the most educational value for the intended audience.
 
- A resource for generalized questions can be found in the `general questions resource`_.
+A resource for generalized questions can be found in the `general questions resource`_.
 
 Converting the interview into text
 -----------------------------------
