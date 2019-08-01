@@ -1,12 +1,12 @@
 :tags:  career-growth, applying-for-jobs, storytelling
 
 Interview with Gaurav Nelson
-=========================
+============================
 
 Gaurav is a technical writer who transitioned from working as a software developer. He has been writing software documentation for over ten years now.
 
 Key takeaways
---------------------
+-------------
 
 * Learn and understand technologies related to technical writing such as `Git`_, markup languages (`Markdown`_, `AsciiDoc`_, `RST`_, and others), API documentation, and associated tools.
 * Build a portfolio by writing blog posts about your learning and contributing to open source documentation projects.
