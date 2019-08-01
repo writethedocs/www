@@ -1,12 +1,12 @@
 :tags: career-growth, lone-writer, applying-for-jobs, storytelling
 
 Interview with Alex Ball
-=========================
+========================
 
 Alex is a technical writer who has worked for over 20 years writing for both hardware and software, and he has spent 13 years of that time working freelance.
 
 Key takeaways
---------------------
+-------------
 
 * It's worth it to take a risk on a new experience every once in a while.
 * Freelance work is like owning a business, and it's important to raise your rates as you become more skilled.
