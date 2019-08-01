@@ -1,12 +1,12 @@
 :tags: career-growth, helping-others-write
 
 Interview with Rachael Stavchansky
-=========================
+==================================
 
 Rachael is a lead technical writer who transitioned from a career in teaching to technical writing. 
 
 Key takeaways
---------------------
+-------------
 
 * Critical thinking skills learned from experience outside of technical writing are valuable.
 * It's never too late to make the transition to a new career.
