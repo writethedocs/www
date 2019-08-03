@@ -4,4 +4,4 @@ If you're only in town for a few days, it's a perfect sampling of the main archi
 Of course, you can also walk around, but we tried that the first year and got a little sunburned! The next year, we got rained on, but being in a boat we didn't mind so much!
 So join us on a two-hour cruise of the city's highlights, all the while being protected from the elements!
 
-Further details will be announced later.
+For details about the schedule, location, and tickets, head over to the `Schedule <https://www.writethedocs.org/conf/prague/2019/schedule/>`_ page.

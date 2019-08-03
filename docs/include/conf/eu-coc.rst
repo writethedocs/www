@@ -13,5 +13,5 @@
 **Sasha Romijn**
 
 * sasha@writethedocs.org
- * +31-202-443-779
+* +31-202-443-779
 * slack: sasha

@@ -114,7 +114,7 @@ It's important to consider accessibility in your style guide to ensure the conte
 Relevant talks from Write the Docs:
 
 - [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write the Docs Prague 2018
-- [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015 
+- [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015
 
 ## Content guidelines
 
@@ -139,7 +139,7 @@ Consider the following when creating an entry for your release notes:
 
 1. What is the change/release?
 1. Why did we make this change? Why is it important to our users?
-   1. Improvement in workflow or UI 
+   1. Improvement in workflow or UI
    1. Consistency/feature parity
    1. Expected revenue increase/decrease
    1. Change in phase: Alpha/Beta/GA (Does this need to be called out?)
@@ -164,7 +164,7 @@ Related talks:
 
 ### User Guide / Manuals
 
-### Tutorials / How-To 
+### Tutorials / How-To
 
 ### Concepts, Overview
 
