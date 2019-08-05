@@ -33,6 +33,51 @@ An even more fragile process which needs documenting and fixing.
 
 WIP Docs on how to do this:
 
+1. In `_data/<year>.<city>.speakers.yaml`, add an `youtubeId: 12345678901` key value pair to each each talk.
+
+2. Make sure the directory `videos/<city>/<year>` is included in the Video Archive `toctree` in `docs/videos/index.rst`.
+
+3. In `conf.py`, around line 130 uncomment the following two lines:
+
+   ```
+   #from _ext.videos import main
+   #html_context.update(main())
+   ```
+4. In the [venv](#prerequisites-for-generating-the-docs-locally) switch to the `docs` directory and run `make html`.
+
+5. Commit the the *relevant* changed files:
+
+   * `docs/videos/index.rst`
+   * `_data/<year>.<city>.speakers.yaml`
+   * `docs/videos/<city>/<year>/*`
+
+6. If you want to preview locally:
+
+    1. in `conf.py` around line 35 comment out the following two lines:
+
+       ```
+       if not on_rtd and not on_netlify and not on_travis:
+           exclude_patterns.append('videos')
+       ```
+
+    2. Run `make livehtml` and browse the new video pages at `http://127.0.0.1:8888`.
+
+#### Troubleshooting
+
+If you run into trouble with broken links to video files, have a look at `_ext/fix_video_yaml.py`:
+
+1. Add a line at the end with the relevant places and dates
+
+2. Change to the `_ext` directory and run it:
+
+   `python fix_video_yaml.py`
+
+3. Commit the fixed `_data/<year>.<city>.speakers.yaml` files.
+
+### Prerequisites for generating the docs locally
+
+WIP Docs on how to do this:
+
 1. In `_data/<year>.<city>.speakers.yaml`, add a `youtubeId: 12345678901` key value pair to each talk.
 
 2. Make sure the directory `videos/<city>/<year>` is included in the Video Archive `toctree` in `docs/videos/index.rst`.
