@@ -60,10 +60,14 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
         yaml_file = '_data/' + shortcode + '-' + year_str + '-config.yaml'
     data.update(load_yaml_log_error(page, yaml_file))
 
-    if year < 2020:
+    if year < 2020 or not data['flagspeakersannounced']:
         return data
 
     session_data = load_yaml_log_error(page, '_data/' + shortcode + '-' + year_str + '-sessions.yaml')
+
+    if not data['flaghasschedule']:
+        return data
+
     sessions_by_slug = {speaker['slug']: speaker for speaker in session_data}
     schedule_yaml_file = '_data/' + shortcode + '-' + year_str + '-schedule.yaml'
     schedule = load_yaml_log_error(page, schedule_yaml_file)
