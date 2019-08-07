@@ -4,7 +4,7 @@
 Live Stream
 ===========
 
-This page will include the embeded live-stream viewer during the conference. 
+This page will include the embedded live-stream viewer during the conference. 
 
 You do **not** need a ticket to watch the live stream!
 

@@ -1,3 +1,13 @@
+"""
+This script creates the correct link slug from the spreadsheet
+timetable export by seeing if there is a - and getting the
+name and title from it if there is (magic)
+
+For example
+"Responsive Content - Presenting Your information On Any Device \u2013 Mike Hamilton"
+-> #mike-hamilton
+"""
+
 from os.path import dirname, abspath
 import sys
 
@@ -5,7 +15,7 @@ d = dirname(dirname(abspath(__file__)))
 sys.path.append(d)
 
 import yaml
-from _ext.core import slugify
+from _ext.utils import slugify
 
 yaml_files = ['_data/portland-2019-day-1.yaml', '_data/portland-2019-day-2.yaml']
 

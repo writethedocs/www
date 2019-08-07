@@ -5,7 +5,7 @@ Videos of Write the Docs AU 2017
    :glob:
    :hidden:
 
-   * 
+   *
 
 .. datatemplate::
    :source: /_data/2017.au.speakers.yaml

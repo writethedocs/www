@@ -5,11 +5,8 @@ Guide to Hiring and Getting Hired
 Welcome! This guide aims to help those looking to hire documentarians find the perfect candidate, and to help job-seeking documentarians find the perfect position.
 Its content focuses on tricky points in the process of hiring a documentarian.
 
-A great place to start on your hiring or job-seeking journey is by posting to or browsing the Job Board.
+A great place to start on your hiring or job-seeking journey is by posting to or browsing the job board.
 Check it out over at https://jobs.writethedocs.org/.
-
-.. _job board: https://jobs.writethedocs.org/
-
 
 .. note:: This is a living (and growing) guide that is missing some topics.
           If you want to contribute, you can do so by
@@ -17,14 +14,31 @@ Check it out over at https://jobs.writethedocs.org/.
           `pull requests <https://github.com/writethedocs/www/pulls>`_ in the
           `GitHub repository <https://github.com/writethedocs/www>`_.
 
+
+Community Spotlight
+-------------------
+
+These interviews are meant to be a resource for new documentarians looking to gain insight into the work of technical writing 
+by sharing the stories of our diverse community. Each interview tells the story of one community member and what they've learned over 
+the course of their career so far, along with providing some practical advice for new documentarians.
+
+If you are willing to share your story with the community, you can contact jobs@writethedocs.org.
+
+.. toctree::
+   :caption: Guide Contents
+   :maxdepth: 1
+   :glob:
+
+   community-spotlight/*
+
 ..
   potential additional topics here could include:
   choosing a job title for a documentarian,
   how to ask for/prepare/evaluate writing samples,
   onboarding expectations
 
-Job interviews
---------------
+Interview advice
+----------------
 
 The following are a list of potential job interview questions collected during the writing day at the Write the Docs Prague, 2018.
 
@@ -35,7 +49,8 @@ This list is divided into three sections:
 3. What can a candidate ask to learn about the interviewer's expectations of the role, how the successful candidate will be treated/valued, and the workplace culture (also around documentation).
 
 Some recommended interview questions
---------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Self-starter:
 
 * How would you approach [a typical task for the role]?
@@ -74,7 +89,7 @@ Technical skills:
 
 
 Interview questions better avoided (and alternatives)
------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Very in-depth questions about the subject matter, not about the writing skills.
 * Who are you as a person and what's your passion? -> Can you tell me about a project you worked on that you are proud of?
@@ -83,7 +98,7 @@ Interview questions better avoided (and alternatives)
 * What would be your superpower? -> Would you rather be able to fly or be invisible? (to elicit their reasoning)
 
 Questions for curious candidates to ask of interviewers
--------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * What do you think a tech writer/documentarian does?
 * How much influence do you see the writer having within the team?

@@ -49,4 +49,4 @@ Thanks sincerely to the following companies for joining our sponsor lineup and s
 - `GitLab <https://about.gitlab.com/>`_
 - `KnowledgeOwl <https://www.knowledgeowl.com/home>`_
 
-We're especially excited about the new Job Fair this year, along with the other normal sponsorship activies that we have had in past years. If your company is hiring or looking to learn more from our community, you can find sponsorship information on `the conference website <https://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/>`_.
+We're especially excited about the new Job Fair this year, along with the other normal sponsorship activities that we have had in past years. If your company is hiring or looking to learn more from our community, you can find sponsorship information on `the conference website <https://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/>`_.

@@ -17,7 +17,7 @@ beautiful this year! We shall see Mount Hood at the top :)
 Logistics
 ---------
 
-.. note:: This event is ticketed seperately. Get your `free ticket`_ now.
+.. note:: This event is ticketed separately. Get your `free ticket`_ now.
 
 .. _free ticket: https://ti.to/writethedocs/write-the-docs-na-2017/with/lq5znqaxpni
 
