@@ -118,4 +118,4 @@ Tools and Environments:
 * DITA and Markdown
 * Madcap Flare, Adobe Technical Communications Suite, or AuthorIt
 * HTML and CSS
-* Command line skills. CLI is very useful for working with Git (can be easier than GUI), when writing Linux or Unix-related documentation, and for a common language with developers and QA engineers.
+* Command line skills. CLI is very useful for working with Git (can be easier than GUI), when writing Linux or Unix-related documentation, and as a common language with developers and QA engineers.
