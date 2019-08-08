@@ -10,13 +10,13 @@ CFP Reminder & Tickets on Sale
 G'day fellow documentarians!
 
 Here is the latest update about our Australian conference.
-Our `call for proposals <https://www.writethedocs.org/conf/australia/2019/cfp/>`_ ends at midnight August 9, that is *tomorrow*!
+Our `call for proposals <https://www.writethedocs.org/conf/australia/2019/cfp/>`_ ends at midnight August 9, that is *very soon inded*!
 
 `Tickets for the conference are still on sale <https://www.writethedocs.org/conf/australia/2019/tickets/>`_.
 
 Read on for more details on both!
 
-Submit your talk by end of the day tomorrow!
+Submit your talk by end of the day!
 --------------------------------------------
 
 As always, we're eagerly looking forward to `your submissions <https://www.writethedocs.org/conf/australia/2019/cfp/#submit-your-proposal>`_! We’ll be reviewing all the talk proposals this month, and will be contacting everyone who submitted a proposal by {{ cfp.notification }}.
@@ -36,6 +36,15 @@ Support our community by sponsoring
 Every year we are fortunate to have the support of like-minded organizations and communities, who believe in the collaborative and welcoming community spirit and help us make our events more awesome.
 
 If your company is interested in sponsoring one or more conferences, check out `our prospectus for details on the different packages <https://www.writethedocs.org/conf/australia/2019/sponsors/prospectus/>`_ and drop us a line at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org>`_
+
+Thanks to our sponsors
+----------------------
+
+We'd like to thank our current sponsors for helping us do what we do:
+
+- `Knowledgeowl <https://www.knowledgeowl.com>`_
+- `Buildkite <https://buildkite.com/>`_
+- `Datalust <https://datalust.co/seq>`_
 
 Looking forward to seeing you all in Sydney`!
 
