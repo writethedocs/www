@@ -10,7 +10,7 @@ CFP Reminder & Tickets on Sale
 G'day fellow documentarians!
 
 Here is the latest update about our Australian conference.
-Our `call for proposals <https://www.writethedocs.org/conf/australia/2019/cfp/>`_ ends at midnight August 9, that is *very soon inded*!
+Our `call for proposals <https://www.writethedocs.org/conf/australia/2019/cfp/>`_ ends at midnight August 9, that is *very soon indeed*!
 
 `Tickets for the conference are still on sale <https://www.writethedocs.org/conf/australia/2019/tickets/>`_.
 
