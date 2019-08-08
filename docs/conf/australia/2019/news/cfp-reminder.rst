@@ -12,14 +12,14 @@ G'day fellow documentarians!
 Here is the latest update about our Australian conference.
 Our `call for proposals <https://www.writethedocs.org/conf/australia/2019/cfp/>`_ ends at midnight August 9, that is *very soon indeed*!
 
-`Tickets for the conference are still on sale <https://www.writethedocs.org/conf/australia/2019/tickets/>`_.
+`Tickets <https://www.writethedocs.org/conf/australia/2019/tickets/>`_ for the conference are still on sale as well.
 
 Read on for more details on both!
 
 Submit your talk by end of the day!
---------------------------------------------
+-----------------------------------
 
-As always, we're eagerly looking forward to `your submissions <https://www.writethedocs.org/conf/australia/2019/cfp/#submit-your-proposal>`_! We’ll be reviewing all the talk proposals this month, and will be contacting everyone who submitted a proposal by {{ cfp.notification }}.
+As always, we're eagerly looking forward to `your submissions <https://www.writethedocs.org/conf/australia/2019/cfp/#submit-your-proposal>`_! We’ll be reviewing all the talk proposals, and will be contacting everyone who submitted a proposal by {{ cfp.notification }}.
 
 Get your ticket for the conference
 ----------------------------------
