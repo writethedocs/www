@@ -46,6 +46,6 @@ We'd like to thank our current sponsors for helping us do what we do:
 - `Buildkite <https://buildkite.com/>`_
 - `Datalust <https://datalust.co/seq>`_
 
-Looking forward to seeing you all in Sydney`!
+Looking forward to seeing you all in Sydney!
 
 The Write the Docs Team
