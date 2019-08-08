@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: August 7, 2019
+.. post:: August 8, 2019
    :tags: australia-2019, website, cfp, tickets
 
 
