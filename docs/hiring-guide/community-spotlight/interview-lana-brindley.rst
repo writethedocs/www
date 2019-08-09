@@ -1,5 +1,5 @@
 Interview with Lana Brindley
-=========================
+=============================
 
 Lana is a technical writer at SUSE. Her work has primarily been with open source software, and she has been writing technical documentation and leading writing teams for 12 years.
 
@@ -11,7 +11,7 @@ Key takeaways
 
 **What is the story of your career so far?**
 
-    So I started out working as a general dogsbody at a very tiny startup that made RFID tracking devices. The startup failed before
+    So I started out working as a general :term:`dogsbody` at a very tiny startup that made RFID tracking devices. The startup failed before
     it got going, but I formed a close relationship with the CTO there, who recognised my writing skills and introduced me to the
     world of technical writing. I had always been fascinated by open source, so when I landed a tech writing job at Red Hat, it was
     like a dream come true for me. After six years at Red Hat, and leading a team of 13 writers, I was asked if I wanted to start a
@@ -78,3 +78,12 @@ Key takeaways
     mentee. There is always something you can learn, and something you can teach
 
 Lana goes by ``loquacity`` on the Write the Docs Slack group, and @Loquacities on Twitter. You can find her in the ``#australia``, ``#managing-writers``, and ``#remote`` channels.
+
+
+Glossary
+********
+
+.. glossary:: 
+
+   dogsbody
+        A person who is given boring, menial tasks to do.

@@ -46,7 +46,7 @@ Filled Roles
 * **Swag** - Mikey Ariel
 * **Infrastructure** - Sam Wright
 * **Writing Day** - Chris Ward
-* **Unconference** - TBD
+* **Unconference** - Eric Holscher
 * **Lightning Talks** - Paul Adams
 * **Job Fair** - Eric Holscher
 * **Communications** - Mikey Ariel
