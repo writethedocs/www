@@ -54,6 +54,8 @@ sponsorship:
 sponsors:
   keystone:
   patron:
+    # They actually got a custom sponsorship somewhere in the middle,
+    # but let's bump them because they've been a steady supporter
     - name: google
       link: https://www.google.com
   publisher:
