@@ -56,6 +56,9 @@ sponsorship:
 sponsors:
   keystone:
   patron:
+    # They are actually a publisher, but I want these styles :)
+    - name: mozilla-new
+      link: https://developer.mozilla.org/en-US/
   publisher:
   second:
     - name: redhat-new
@@ -65,6 +68,8 @@ sponsors:
     - name: knowledgeowl
       link: https://www.knowledgeowl.com
       width: 250px
+    - name: contact-software
+      link: https://www.contact-software.com/en/
   first:
     - name: buildkite
       link: https://buildkite.com/
@@ -126,7 +131,7 @@ flaghassponsors: True
 flagcfp: False
 flagticketsonsale: True
 flagspeakersannounced: True
-flaghasschedule: False
+flaghasschedule: True
 flagwelcomewagon: False
 flaglivestreaming: False
 flagvideos: false
