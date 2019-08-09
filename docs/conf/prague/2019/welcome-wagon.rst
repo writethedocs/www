@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/group.png
+:banner: _static/conf/images/headers/group.png
 
 Welcome Wagon
 =============
@@ -8,7 +8,7 @@ Hello!
 
 We're your Welcome Wagon volunteers! We're glad you're coming to the {{year}} Write the Docs conference!
 
-.. image:: /_static/2018/assets/images/pics/welcome-wagon.jpg
+.. image:: /_static/conf/images/pics/welcome-wagon.jpg
 
 We've gathered important stuff here that will help you navigate the conference like a pro, make you feel more at home, and help you to manage the constant flow of information.
 

@@ -18,17 +18,17 @@
             <ul class="speaker-social-contant">
                 <li>
                     <a href="#">
-                        <img src="../../../../_static/2019/assets/icons/twitter-brown.svg" class="twitter">
+                        <img src="../../../../_static/conf/images/icons/twitter-brown.svg" class="twitter">
                     </a>
                 </li>
                 <li>
                     <a href="">
-                        <img src="../../../../_static/2019/assets/icons/github-brown.svg" class="github">
+                        <img src="../../../../_static/conf/images/icons/github-brown.svg" class="github">
                     </a>
                 </li>
                 <li>
                     <a href="">
-                        <img src="../../../../_static/2019/assets/icons/worldwideweb-brown.svg" class="webpage">
+                        <img src="../../../../_static/conf/images/icons/worldwideweb-brown.svg" class="webpage">
                     </a>
                 </li>
             </ul>

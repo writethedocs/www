@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2019/assets/headers/writing-day.png
+:banner: _static/conf/images/headers/writing-day.png
 
 Speaking Tips
 =================

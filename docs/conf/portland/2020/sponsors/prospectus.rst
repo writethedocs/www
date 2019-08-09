@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2020/assets/headers/prague-group.png
+:banner: _static/conf/images/headers/prague-group.png
 
 Sponsorship Prospectus
 ######################
