@@ -70,61 +70,61 @@ Every interview is written in RST. For an example of what the RST formatting sho
 Companies and well known technologies or tools should link out to relevant web pages. Company links should redirect to their careers page, if available. Technology and tools links should redirect to the standard resource for learning that technology or the WTD page if it exists.
 
 General questions resource
-==========================
+--------------------------
 
 **Education**
 
-    What formal education do you have?
-        Would you consider pursuing more formal education?
+* What formal education do you have?
+       * Would you consider pursuing more formal education?
 
-Where have you learned the skills that you use for your work?
+* Where have you learned the skills that you use for your work?
 
 **Work**
     
-    What is the story of your career so far?
+* What is the story of your career so far?
 
-    What other jobs have you had?
-        How has that experience influenced your work now?    
+* What other jobs have you had?
+    * How has that experience influenced your work now?    
 
-    How long did it take between learning you wanted to become a tech writer and getting 
+    * How long did it take between learning you wanted to become a tech writer and getting 
 that first job?
 
-Do you see yourself remaining in this field long-term?
+* Do you see yourself remaining in this field long-term?
 
 **Job specific**
-    What is your title?
+* What is your title?
     
-    How long have you worked as a tech writer?
+* How long have you worked as a tech writer?
 
-    What are your responsibilities?
-        Have they changed since you first started?
+* What are your responsibilities?
+    * Have they changed since you first started?
 
-    How much creative control do you have when creating documentation?
-        Do you have the freedom to experiment with processes?
-            Is this typical in the domain you work in?
+* How much creative control do you have when creating documentation?
+    * Do you have the freedom to experiment with processes?
+        * Is this typical in the domain you work in?
 
-    How collaborative is your work?
-        Do you work with other writers?
+* How collaborative is your work?
+    * Do you work with other writers?
 
-    What tools and techniques do you regularly use?
-        Did you learn these before or after starting?
+* What tools and techniques do you regularly use?
+    * Did you learn these before or after starting?
 
     
-Is the nature of your work consistent or do you find yourself considering new challenges 
+* Is the nature of your work consistent or do you find yourself considering new challenges 
 regularly?
 
 **Advice**
 
-    What should an aspiring tech writer be able to do before searching for a job?
+* What should an aspiring tech writer be able to do before searching for a job?
 
-    How does the reality of your job differ from the expectations you had before becoming a 
+* How does the reality of your job differ from the expectations you had before becoming a 
 tech writer?
 
-What motivated you to pursue tech writing rather than a related field?(advertising, 
+* What motivated you to pursue tech writing rather than a related field?(advertising, 
 journalism, STEM)
 
 Conference speaker interview recommendations
-============================================
+--------------------------------------------
 
 Goals recommendation
 --------------------
