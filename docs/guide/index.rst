@@ -124,7 +124,6 @@ Additional Notes
 
    about/index
    contributing
-   community-spotlight-interviewing-guide
 
 Write the Docs Resources
 ------------------------

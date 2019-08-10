@@ -68,6 +68,15 @@ Information about our regional Write the Docs conferences.
    confs/web-resources
    confs/print-resources
 
+Community Spotlight
+-------------------
+
+Information about contributing interview content for the community.
+
+.. toctree::
+   :maxdepth: 2
+
+    community-spotlight-interviewing-guide
 Credits
 -------
 
