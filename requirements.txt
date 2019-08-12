@@ -11,7 +11,7 @@ pathlib==1.0.1
 git+https://github.com/ericholscher/datatemplates@add-key-and-context#egg=sphinxcontrib.datatemplates-dev
 meetup-api==0.1.1
 urllib3[secure]==1.25.3
-yamale==1.10.0
+yamale==1.10.1
 ruamel.yaml==0.16.0
 lxml==4.4.0
 # For fancy 404 pages
