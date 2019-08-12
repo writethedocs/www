@@ -70,6 +70,10 @@ sponsors:
       width: 250px
     - name: contact-software
       link: https://www.contact-software.com/en/
+    - name: kiwi
+      link: https://www.kiwi.com/
+    - name: people-text
+      link: https://www.people-text.de/
   first:
     - name: buildkite
       link: https://buildkite.com/
