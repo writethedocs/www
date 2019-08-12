@@ -2,7 +2,6 @@ region: North America
 country: USA
 state: DC
 city: Washington
-page: ./dc/
 website: https://www.meetup.com/Write-the-Docs-DC/
 meetup: Write-the-Docs-DC
 twitter: WriteTheDocsDC
