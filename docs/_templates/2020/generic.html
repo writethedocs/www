@@ -1,4 +1,4 @@
-{% extends "2020/base.html" %}
+{% extends year_str + "/base.html" %}
 
 {% block head_link %}
 <style>
@@ -13,7 +13,7 @@
         <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18px">
             <div class="uk-navbar-left">
                 <div class="header-logo uk-visible@s">
-                    <a href="{{ pathto('conf/' + shortcode + '/2020') }}">
+                    <a href="{{ pathto('conf/' + shortcode + '/' + year_str) }}">
                         Write<br>
                         the<br>
                         Docs<br>
@@ -41,12 +41,12 @@
                                     <em>{{ name }}</em>
                                 </div>
                               {% if not flaglanding %}
-                             {% include "2020/" + shortcode + "/menu-mobile.html" %}
+                             {% include year_str + "/" + shortcode + "/menu-mobile.html" %}
                              {% endif %}
                     </div>
                 </div>
              {% if not flaglanding %}
-             {% include "2020/" + shortcode + "/menu-desktop.html" %}
+             {% include year_str + "/" + shortcode + "/menu-desktop.html" %}
              {% endif %}
             </div>
         </nav>
@@ -54,7 +54,7 @@
     </div><!-- end header -->
     <div class="mobile-post-header uk-hidden@s">
         <div class="header-logo">
-                <a href="{{ pathto('conf/' + shortcode + '/2020') }}">
+                <a href="{{ pathto('conf/' + shortcode + '/' + year_str) }}">
                     Write<br>
                     the<br>
                     Docs<br>

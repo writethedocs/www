@@ -5,6 +5,6 @@
 {% endfor %}
 
 .. Comment to break up reference issues
-.. * Ashleigh Rentz – `The Facts About FAQs <https://www.writethedocs.org/conf/portland/2020/speakers/#speaker-portland-2020-ashleigh-rentz>`_
+.. * comment
 
 * {% for speaker in talk.speakers %}{{ speaker.name }}{{ ", " if not loop.last }} {% endfor %} – {{ talk.title }} {% endfor %}

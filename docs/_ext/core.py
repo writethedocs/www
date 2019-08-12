@@ -41,6 +41,7 @@ def load_conference_page_context(app, page):
             if cache_key in app.config.wtd_cache:
                 return app.config.wtd_cache[cache_key]
             context = load_conference_context_from_yaml(shortcode, year, year_str, page)
+            context['year_str'] = year_str
             app.config.wtd_cache[cache_key] = context
             return context
     return {}

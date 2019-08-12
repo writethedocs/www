@@ -1,4 +1,4 @@
-{% extends "2020/base.html" %}
+{% extends year_str + "/base.html" %}
 
 {% block full_title %}
 Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ cobrand.brand }} {% endif %} {{ year }}
@@ -30,12 +30,12 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
                             <em>{{ name }}</em>
                         </div>
                       {% if not flaglanding %}
-                     {% include "2020/" + shortcode + "/menu-mobile.html" %}
+                     {% include year_str + "/" + shortcode + "/menu-mobile.html" %}
                      {% endif %}
             </div>
         </div>
        {% if not flaglanding %}
-       {% include "2020/" + shortcode + "/menu-desktop.html" %}
+       {% include year_str + "/" + shortcode + "/menu-desktop.html" %}
        {% endif %}
       </div>
     </nav>
@@ -66,7 +66,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
 
          {% if buttons is defined %} 
          {% for callout in buttons.top %}
-           <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year|string + callout.link ) }}{% endif %}">{{ callout.text }}</a>
+           <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year_str + callout.link ) }}{% endif %}">{{ callout.text }}</a>
          {% endfor %}
          {% endif %}
 
@@ -91,7 +91,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
   <div class="announcement">
     <div class="uk-container">
       <p style="vertical-align: middle;">Want to receive conference and community updates?</p>
-      <a class="uk-button uk-button-announcement" href="{{ pathto('conf/' + shortcode + '/' + year|string + '/mailing-list' ) }}">
+      <a class="uk-button uk-button-announcement" href="{{ pathto('conf/' + shortcode + '/' + year_str + '/mailing-list' ) }}">
         Join our Mailing List
       </a>
     </div>
@@ -112,7 +112,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
         </p>
         {% if flaglivestreaming %}
         <p>
-          <a href="{{ pathto('conf/portland/2020/livestream') }}">Live streaming is available</a> during the conference.
+          <a href="{{ pathto('conf/' + shortcode + '/' + year_str + '/livestream') }}">Live streaming is available</a> during the conference.
           You do <strong>not</strong> need a ticket to watch the stream. Videos of talks will be published after the conference.
         </p>
         {% endif %}
@@ -176,7 +176,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
       {% if flagspeakersannounced %}
 
       <div class="learn-more">
-        <a class="uk-align-right" href="{{ pathto('conf/' + shortcode + '/2020/schedule') }}">See the Full Schedule</a>
+        <a class="uk-align-right" href="{{ pathto('conf/' + shortcode + '/' + year_str + '/schedule') }}">See the Full Schedule</a>
       </div>
 
       {% endif %}

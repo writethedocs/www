@@ -43,7 +43,7 @@
         <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet">
         <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.css" />
-        <link rel="stylesheet" href="{{ pathto('_static/conf/css/main-2020.min.css', 1) }}" type="text/css">
+        <link rel="stylesheet" href="{{ pathto('_static/conf/css/main-' + year_str + '.min.css', 1) }}" type="text/css">
 
         <!-- things that change -->
         {% block meta %}
@@ -72,7 +72,7 @@
         {% block footerhead %}
          {% if buttons is defined %} 
              {% for callout in buttons.bottom %}
-               <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year|string + callout.link ) }}{% endif %}">{{ callout.text }}</a>
+               <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year_str + callout.link ) }}{% endif %}">{{ callout.text }}</a>
              {% endfor %}
          {% endif %}
         {% endblock %}
@@ -84,8 +84,8 @@
     <div class="sponsors-footer">
         <div class="uk-container">
         <h2 class="uk-first-column">Sponsors</h2>
-            {% include year|string  + "/sponsors.html" %}
-            {% include year|string  + "/sponsors-media.html" ignore missing %}
+            {% include year_str  + "/sponsors.html" %}
+            {% include year_str  + "/sponsors-media.html" ignore missing %}
             <div class="learn-more">
                 <a class="uk-align-right" href="/conf/{{ shortcode }}/{{ year }}/sponsors/prospectus/">Become a sponsor</a>
             </div>
@@ -128,7 +128,7 @@
                 </div> <!-- end of footer social section -->
 
                 <ul>
-                    <li>© 2020 Write the Docs</li>
+                    <li>© {{ year }} Write the Docs</li>
                     <li>|</li>
                     <li><a href="{{ pathto('/code-of-conduct') }}">Code of Conduct</a></li>
                     <li>|</li>
