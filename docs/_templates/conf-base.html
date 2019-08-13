@@ -35,12 +35,12 @@
     {% if site_author %}<meta name="author" content="{{ site_author }}">{% endif %}
     {% if canonical_url %}<link rel="canonical" href="{{ canonical_url }}">{% endif %}
 
-    <link href="{{ pathto('_static/css/vendor/bootstrap/bootstrap.min.css', 1) }}" rel="stylesheet" />
-    <link href="{{ pathto('_static/css/font-awesome-4.0.3.css', 1) }}" rel="stylesheet" />
-    <link href="{{ pathto('_static/css/prettify-1.0.css', 1) }}" rel="stylesheet" />
+    <link href="{{ pathto('_static/conf-legacy/css/vendor/bootstrap/bootstrap.min.css', 1) }}" rel="stylesheet" />
+    <link href="{{ pathto('_static/conf-legacy/css/font-awesome-4.0.3.css', 1) }}" rel="stylesheet" />
+    <link href="{{ pathto('_static/conf-legacy/css/prettify-1.0.css', 1) }}" rel="stylesheet" />
     <link href="{{ pathto('_static/css/font/aleo.css', 1) }}" rel="stylesheet" />
     <link href="{{ pathto('_static/css/font/fontello.css', 1) }}" rel="stylesheet" />
-    <link href="{{ pathto('_static/css/wtd.css', 1) }}" rel="stylesheet" />
+    <link href="{{ pathto('_static/conf-legacy/css/wtd.css', 1) }}" rel="stylesheet" />
 
     {% block head_link %}
       {%- for path in extra_css %}
@@ -55,9 +55,9 @@
     <![endif]-->
 
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-    <script src="{{ pathto('_static/js/bootstrap-3.0.3.min.js', 1) }}"></script>
-    <script src="{{ pathto('_static/js/prettify-1.0.min.js', 1) }}"></script>
-    <script src="{{ pathto('_static/js/base.js', 1) }}"></script>
+    <script src="{{ pathto('_static/conf-legacy/js/bootstrap-3.0.3.min.js', 1) }}"></script>
+    <script src="{{ pathto('_static/conf-legacy/js/prettify-1.0.min.js', 1) }}"></script>
+    <script src="{{ pathto('_static/conf-legacy/js/base.js', 1) }}"></script>
 
     {% block head_script %}
       {%- for path in extra_javascript %}
