@@ -76,7 +76,7 @@ Information about contributing interview content for the community.
 .. toctree::
    :maxdepth: 2
 
-   organizer-guide/community-spotlight-interviewing-guide
+   community-spotlight-interviewing-guide
     
 Credits
 -------
