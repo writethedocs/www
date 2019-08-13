@@ -1,1 +1,0 @@
-../na/2017/sponsorship/prospectus.rst

@@ -11,7 +11,6 @@ var gulp = require('gulp'),
     browserSync = require('browser-sync'),
     changed = require('gulp-changed'),
 
-// TODO: address duplication
 gulp.task('styles', function(callback_finished) {
     var years = ['2018', '2019', '2020'];
     years.forEach(function(year) {
