@@ -1,5 +1,5 @@
 Community spotlight interviewing guide
-===========================================
+======================================
 
 Community spotlight goals
 -------------------------
@@ -7,12 +7,12 @@ Community spotlight goals
 The primary goal of the community spotlight is to provide a resource for new technical writers to gain insight into the careers of established tech writers and use that to inform the choices in starting and shaping their own career.
 
 Intended audience
------------------
+~~~~~~~~~~~~~~~~~
 
 The interview content in the Community Spotlight is designed to be a resource for novice tech writers or non-tech writers that are considering becoming technical writers.
 
 Content and structure
----------------------
+~~~~~~~~~~~~~~~~~~~~~
 
 Each interview follows a standard content structure. Each writeup begins with a small 1 or 2 sentence summary that introduces the interview subject. That then leads into key takeaways. Key takeaways should present 2-3 of the most useful pieces of information from the interview. The body of the write up is laid out in thirds.
 
@@ -24,8 +24,8 @@ The last component of the write up gives the Slack username of the interview sub
 
 *The final write up should be between 800-1,400 words total.*
 
-Interview Setup
----------------
+Interview setup
+~~~~~~~~~~~~~~~
 
 Interviews can be conducted through whatever medium is most convenient for both parties, but the most success has been found so far by speaking in real time via voice. Slack is most commonly used by the WTD community to communicate, and is a convenient option.
 
@@ -38,7 +38,7 @@ Interviews should take roughly 20-40 minutes to complete:
 Recording the interview can be done with whatever tools the interview feels most comfortable using. If the interview is done through VoIP on a computer, Audacity is a good tool for recording audio. Instructions on recording computer audio with Audacity can be found in the `Audacity manual`_.
 
 Asking questions
-----------------
+~~~~~~~~~~~~~~~~
 
 The two staple questions of each interview are a variation of "What has been the story of your technical writing career so far?" and "What advice would you give to aspiring technical writers looking to break into the field?" These questions act as bookends to introduce the reader to the experience of the interview and then leave the reader with some practical advice to take with them. Every other question asked is up to the interviewer's discretion, and forming these questions often come as a response to the career story given by the interviewee.
 
@@ -47,30 +47,31 @@ A general tip for crafting these questions on the fly is to ask the interviewee 
 A resource for generalized questions can be found in the `general questions resource`_.
 
 Converting the interview into text
------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 After the interview, the interview should be left with a 20-40 minute audio recording and some written notes about the conversation. Assuming the audio recording is of sufficient quality, automated transcription tools can be used to convert the audio into text. Currently, Amazon's AWS transcription is the best tool available, and step by step instructions to use that tool can be found in the `AWS Getting Started resource`_. Once transcribed, you will have a roughly 3,000-8,000 word document to edit and revise. 
 
 Editing the transcript into the first draft
--------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Each interview should contain the career summary of the interview subject along with the advice they would give to new writers. Those answers together will total roughly 400-700 words and will generally be about half of the first draft. The content of the other half of the document is up to the interviewers discretion.
 
 When considering what to include in the other half, the interviewer should consider the audience and what aspects of the interviewee's experience provides the most utility for an inexperienced tech writer. For example, a conversation about document design may be interesting, but a conversation about working as a freelance writer would be more relevant, and more broadly relevant to the intended audience. Preference should also be given to topics that haven't been thoroughly covered by other write ups.
 
 Preparing the draft for a pull request
---------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Before committing the draft publicly and submitting the pull request to the WTD repo, the draft should be sent its respective interviewee so that they may clarify answers or remove any personal information. Once the interviewee has accepted the draft as being appropriate for publishing, the document can be committed publicly to your own personal fork of the main WTD website repo. Each interview should go in it's own branch.
 
 Formatting and other extra considerations
------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Every interview is written in RST. For an example of what the RST formatting should look like, you can reference `this example`_ or any of the other documents in the community-spotlight directory of the repository.
 
 Companies and well known technologies or tools should link out to relevant web pages. Company links should redirect to their careers page, if available. Technology and tools links should redirect to the standard resource for learning that technology or the WTD page if it exists.
 
 General questions resource
---------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Education**
 
@@ -85,13 +86,12 @@ General questions resource
 
 * What other jobs have you had?
     * How has that experience influenced your work now?    
-
-    * How long did it take between learning you wanted to become a tech writer and getting 
-that first job?
+    * How long did it take between learning you wanted to become a tech writer and getting that first job?
 
 * Do you see yourself remaining in this field long-term?
 
 **Job specific**
+
 * What is your title?
     
 * How long have you worked as a tech writer?
@@ -108,36 +108,32 @@ that first job?
 
 * What tools and techniques do you regularly use?
     * Did you learn these before or after starting?
-
     
-* Is the nature of your work consistent or do you find yourself considering new challenges 
-regularly?
+* Is the nature of your work consistent or do you find yourself considering new challenges regularly?
 
 **Advice**
 
 * What should an aspiring tech writer be able to do before searching for a job?
 
-* How does the reality of your job differ from the expectations you had before becoming a 
-tech writer?
+* How does the reality of your job differ from the expectations you had before becoming a tech writer?
 
-* What motivated you to pursue tech writing rather than a related field?(advertising, 
-journalism, STEM)
+* What motivated you to pursue tech writing rather than a related field?(advertising, journalism, STEM)
 
 Conference speaker interview recommendations
 --------------------------------------------
 
 Goals recommendation
---------------------
+~~~~~~~~~~~~~~~~~~~~
 
 The goal of the speaker interviews is to allow the speakers to introduce themselves and their backgrounds and also talk about the motivations behind their presentations. These interviews can act as a way of introducing a presentation topic and that topic's relevance to generate more interest for the talk.
 
 Intended audience
------------------
+~~~~~~~~~~~~~~~~~
 
 The most logical intended audience for this content would be conference attendees. But in some cases these presentations receive a long life after the conference as recordings or presentation files on the internet. With this in mind, accessibility in both distribution and content style should be considered so that people other than technical writing professionals can benefit.
 
 Conducting the interviews and potential formats
------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Speaker interviews should follow a fairly consistent structure to allow for easy collection and distribution:
 
@@ -149,8 +145,8 @@ There are numerous content structure types that could be applicable to this proj
 * One basic structure would be to create a  2 part writeup based on the project goals. The first part would introduce the speaker and their qualifications. The second part would outline the motivations for producing the presentation the value it provides.
 * Another basic structure could be to introduce the speaker and motivations as short introductions, and use the judgement of another person to ask relevant questions that may come in an audience Q&A
 
-miscellaneous recommendations
------------------------------
+Miscellaneous recommendations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Completing this project and creating a well defined process for producing this content could be a good fit for another Write the Docs intern.
 
