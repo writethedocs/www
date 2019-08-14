@@ -84,7 +84,7 @@ How should I get around?
    within walking distance of the conference venue.
 -  There are good public transportation options and taxi services. Check
    out the `Visiting Prague section of the Write the Docs
-   website <https://www.writethedocs.org/conf/prague/{{year}}/visiting/>`__ for
+   website </conf/{{shortcode}}/{{year}}/visiting/>`__ for
    more info.
 
 **How should I dress?**
@@ -95,7 +95,7 @@ How should I get around?
    conference. You'll be meeting business colleagues at this conference,
    though, so neat and comfortable are good dress guidelines.
 -  If you are going on the `boat tour on
-   Saturday <https://www.writethedocs.org/conf/prague/{{year}}/outing/>`__, be sure
+   Saturday </conf/{{shortcode}}/{{year}}/outing/>`__, be sure
    to bring appropriate out-of-doors clothes and shoes. Prague, like most of
    Europe, experiences some ups and downs in the autumn. The first year we
    were here we had a heat wave, and last year we got rained on, so you
@@ -132,7 +132,7 @@ Where should I sit?
 What should I do during the talks?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Conference talks at Auto Klub <https://www.writethedocs.org/conf/prague/{{year}}/speakers/>`__:
+`Conference talks at Auto Klub </conf/{{shortcode}}/{{year}}/speakers/>`__:
 
 -  The time between talks is for meeting your colleagues or taking a
    break. During the talks, listen and take in as much as you can.
@@ -161,7 +161,7 @@ How do I take part in the unconference?
 -  The unconference is a set of informal sessions that take place across the foyer
    from the main stage on Monday afternoon and Tuesday morning.
    `Unconference talks focus on exchanges of ideas between
-   participants. <https://www.writethedocs.org/conf/prague/{{year}}/unconference/>`__
+   participants. </conf/{{shortcode}}/{{year}}/unconference/>`__
 -  You can attend unconference sessions, or, if you have an idea for a
    session, you can lead one.
 -  To lead an unconference session, post a summary of your topic on a
@@ -183,7 +183,7 @@ What are lightning talks, and should I give one?
    will be a sign-up sheet at registration.
 -  If you are interested in giving a lightning talk, be prepared! There
    is a great guide
-   `here <https://www.writethedocs.org/conf/prague/{{year}}/lightning-talks>`__.
+   `here </conf/{{shortcode}}/{{year}}/lightning-talks>`__.
 
 How do I make the most out of this conference?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
