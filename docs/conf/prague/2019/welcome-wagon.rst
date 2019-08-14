@@ -4,18 +4,25 @@
 Welcome Wagon
 =============
 
-Hello!
+Hi! If you're new to Write the Docs, you're in the right place. The Welcome Wagon is here to help out new attendees, 
+with both the information on this page, and events we run during the conference.
 
-We're your Welcome Wagon volunteers! We're glad you're coming to the {{year}} Write the Docs conference!
+On this page you'll find important stuff that will help you navigate the conference like a pro,
+make you feel more at home, and help you to manage the constant flow of information.
+
+Dururing the conferencce, we'll connect you with people - both veterans and other first-timers.
+And we'll give you strategies and tips so you can make the most of the conference.
+
+The `FAQs <#faq>`_ should have answers to most of your questions, but let us know if there is anything you'd like to know that isn't there. You can ask us questions in the :doc:`#wtd-conferences channel on Slack </slack>`.
+
+Who we are
+-----------
+
+Hi - we're Beth and Daniel, your Welcome Wagon volunteers! We're really glad you're coming to the {{year}} Write the Docs conference.
 
 .. image:: /_static/2018/assets/images/pics/welcome-wagon.jpg
 
-We've gathered important stuff here that will help you navigate the conference like a pro, make you feel more at home, and help you to manage the constant flow of information.
-
-The Welcome Wagon events warm up new attendees and connect them with people, both veterans
-and other first-timers. Strategies and pro tips provide ways you can make the most of the conference.
-
-The `FAQs <#faq>`_ should have answers to most of your questions, but let us know if there is anything you'd like to know that isn't there. You can ask us questions in the :doc:`#wtd-conferences channel on Slack </slack>`.
+If you need a hand at all, we're here to help.
 
 Welcome Wagon events
 --------------------
@@ -24,7 +31,7 @@ Welcome Wagon events
 
 *{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}} at 17:00 in the downstairs foyer (near the cloakroom) at Auto-Klub*
 
-Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new before we join the opening reception.
+Join us for an informal introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new before we join the opening reception.
 
 **Welcome Wagon Tours**
 
@@ -35,7 +42,7 @@ Come on a short tour of the venue with a veteran Write the Docs attendee so you'
 
 .. Tuesday check in? TODO
 
-Pro Tips
+Pro tips
 --------
 
 -  You don't need to go to every talk. Look through the schedule of
