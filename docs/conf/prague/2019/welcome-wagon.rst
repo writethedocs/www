@@ -87,8 +87,8 @@ How should I get around?
    website </conf/{{shortcode}}/{{year}}/visiting/>`__ for
    more info.
 
-**How should I dress?**
-~~~~~~~~~~~~~~~~~~~~~~~
+How should I dress?
+~~~~~~~~~~~~~~~~~~~
 
 -  Praguers have a very eclectic dress style, which means they dress however
    they feel! Our documentarians tend to go for a more casual dress at the
