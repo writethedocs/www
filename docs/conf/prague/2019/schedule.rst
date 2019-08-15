@@ -87,7 +87,7 @@ We'll also help groups organize dinner plans, so you can continue your conversat
 Welcome Wagon: Write the Docs Introduction
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Join us for an informal introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new before we join the opening reception.
+Join us for an informal introduction to Write the Docs, to the `Welcome Wagon </conf/{{shortcode}}/{{year}}/welcome-wagon>`__, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new before we join the opening reception.
 
 * **Where**: {{about.venue}}, in the downstairs foyer (near the cloakroom)
 * **When**: **17:00**
