@@ -84,6 +84,23 @@ We'll also help groups organize dinner plans, so you can continue your conversat
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **17:00-20:00**
 
+Welcome Wagon: Write the Docs Introduction
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Join us for an informal introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new before we join the opening reception.
+
+* **Where**: {{about.venue}}, in the downstairs foyer (near the cloakroom)
+* **When**: **17:00**
+
+Welcome Wagon: Venue Tour
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Come on a short tour of the venue with a veteran Write the Docs attendee so you’ll know where everything is and everything you can take part in.
+
+* **Where**: {{about.venue}}, starting near the registration desk
+* **When**: **17:30**
+
+
 Monday, September 16
 --------------------
 
@@ -95,6 +112,14 @@ This is the main event! Hear from lots of interesting folks about all things doc
 We will have talks all day on the main stage, and a unconference session running in parallel in the afternoon.
 
 *Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+
+Welcome Wagon: Venue Tour
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If you missed the tour on Sunday evening, we'll be re-running it on Monday.
+
+* **Where**: {{about.venue}}, starting near the registration desk
+* **When**: **9:15**
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
