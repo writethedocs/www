@@ -29,18 +29,16 @@ Welcome Wagon events
 
 **Write the Docs Introduction**
 
-*{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}} at 17:00 in the downstairs foyer (near the cloakroom) at Auto-Klub*
+*{{date.day_two.dotw}}, {{date.day_two.date}} at 17:00 in the downstairs foyer (near the cloakroom) at Auto-Klub*
 
 Join us for an informal introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new before we join the opening reception.
 
 **Venue Tours**
 
-* *{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}} at 17:30 starting near the registration desk at Auto-Klub*
-* *{{date.day_three.dotw}}, {{date.month}} {{date.day_three.date}} at 9:15 starting near the registration desk at Auto-Klub*
+* *{{date.day_two.dotw}}, {{date.day_two.date}} at 17:30 starting near the registration desk at Auto-Klub*
+* *{{date.day_three.dotw}},{{date.day_three.date}} at 9:15 starting near the registration desk at Auto-Klub*
 
 Come on a short tour of the venue with a veteran Write the Docs attendee so you'll know where everything is and everything you can take part in.
-
-.. Tuesday check in? TODO
 
 Pro tips
 --------
