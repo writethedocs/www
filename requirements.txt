@@ -1,5 +1,5 @@
 Sphinx==1.8.5 # pyup: >=1.8,<1.9
-recommonmark==0.5.0
+recommonmark==0.6.0
 ablog==0.9.4
 tox==3.13.2
 sphinx_autobuild==0.7.1
@@ -11,9 +11,9 @@ pathlib==1.0.1
 git+https://github.com/ericholscher/datatemplates@add-key-and-context#egg=sphinxcontrib.datatemplates-dev
 meetup-api==0.1.1
 urllib3[secure]==1.25.3
-yamale==1.10.0
-ruamel.yaml==0.16.0
-lxml==4.4.0
+yamale==1.10.1
+ruamel.yaml==0.16.1
+lxml==4.4.1
 # For fancy 404 pages
 git+https://github.com/rtfd/sphinx-notfound-page@master#egg=sphinx-notfound-page
 
