@@ -56,7 +56,7 @@ The cards need to be topped up with funds before travel, using either `myki
 Money or a myki Pass <https://www.ptv.vic.gov.au/tickets/myki/top-up-a-myki/>`_.
 This can be done where you purchase your card.
 
-A `Myki Explorer <https://www.ptv.vic.gov.au/tickets/myki/buy-a-myki/myki-explorer/>`_
+A `Myki Explorer <https://www.ptv.vic.gov.au/tickets/myki/buy-a-myki-and-top-up/myki-explorer-pack/>`_
 ($15) provides you with a Myki card and a full day of travel, along with transport maps
 and discounts to popular destinations.
 

@@ -7,7 +7,7 @@ before_install:
   - export BUILD_VIDEOS=True
 install:
  - pip install tox-travis
- - eval "$(gimme 1.8)"
+ - eval "$(gimme 1.9)"
  - go get github.com/errata-ai/vale
  - sudo apt-get install libcurl3-dev
 # Safelist all Greenkeeper.io branches https://greenkeeper.io/faq.html

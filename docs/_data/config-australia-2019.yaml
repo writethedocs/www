@@ -51,6 +51,25 @@ sponsorship:
   keystone:
     price: $7500
 
+sponsors:
+  keystone:
+  patron:
+    # They actually got a custom sponsorship somewhere in the middle,
+    # but let's bump them because they've been a steady supporter
+    - name: google
+      link: https://www.google.com
+  publisher:
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+  second:
+    - name: buildkite
+      link: https://buildkite.com/
+    - name: gandi
+      link: https://www.gandi.net/en
+  first:
+    - name: datalust
+      link: https://datalust.co/seq
+
 date: # how do we handle these? human readable would be nice.
   main: "**November 14-15, 2019, in Sydney, Australia**"
   short: Nov 14-15, 2019
@@ -90,7 +109,7 @@ cfp:
 flaglanding: False
 flagspeakersannounced: False
 flagcfp: True
-flaghassponsors: False
+flaghassponsors: True
 flaghasschedule: False
 
 flagticketsonsale: True
