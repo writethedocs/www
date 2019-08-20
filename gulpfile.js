@@ -37,12 +37,12 @@ gulp.task('browser-sync', function() {
 });
 
 // Watch
-gulp.task('watch', ['browser-sync'], function() {
+gulp.task('watch', gulp.series(['browser-sync'], function() {
   gulp.watch('docs/_static/2019/scss/main.scss', ['styles']);
-});
+}));
 
 // Default task
-gulp.task('default', ['browser-sync'], function() {
+gulp.task('default', gulp.series(['browser-sync'], function() {
     gulp.start('styles');
     gulp.start('watch');
-});
+}));
