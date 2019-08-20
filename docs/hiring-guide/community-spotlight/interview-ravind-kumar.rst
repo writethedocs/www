@@ -32,7 +32,7 @@ Key takeaways
     If I had not found technical writing, I probably would have continued to do various levels of technical writing but from more of      a journalistic perspective. I don't know  what would have happened down that line. Because the year that I graduated is the year
     that a lot of newspapers started shutting down. Yeah, so I'm pretty thankful
 
-**Ravind's first job out of school was as the sole technical writer at a mobile software development company called `Phunware`_. After some time, Ravind moved to New York and transitioned to writing in the finance industry for EOXLive, writing regulatory documents and user-facing documentation and market data /newsletter content. He now works as a senior technical writer for MongoDB in New York contributing to their server documentation.**
+**Ravind's first job out of school was as the sole technical writer at a mobile software development company called** `Phunware`_. **After some time, Ravind moved to New York and transitioned to writing in the finance industry for EOXLive, writing regulatory documents and user-facing documentation and market data /newsletter content. He now works as a senior technical writer for MongoDB in New York contributing to their server documentation.**
 
 **When you were starting out with your first job, were those skills learned mostly in the workplace, or did you have some experience beforehand?**
 
