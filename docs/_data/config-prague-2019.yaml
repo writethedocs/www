@@ -20,8 +20,8 @@ buttons:
     #   link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    - text: Buy a Ticket!
-      link: /tickets
+    - text: What to expect?
+      link: /welcome-wagon
     - text: See the talks!
       link: /speakers
     # - text: Prepare with the Welcome Wagon
