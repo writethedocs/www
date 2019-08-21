@@ -74,25 +74,25 @@ sponsorship:
     price: $15,000
 
 date: # how do we handle these? human readable would be nice.
-  main: "**May 19-21, 2020, in Portland, Oregon**"
-  short: May 19-21, 2020
+  main: "**May 3-5, 2020, in Portland, Oregon**"
+  short: May 3-5, 2020
   tickets_live: "January 2020"
   month: May
   day_one:
     event: Hike
-    date: May 18
+    date: May 2
     summary: If you're in town early, join us for the <a href="/conf/portland/2020/hike/">Hike</a>. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
     icon: hike
     dotw: Saturday
   day_two:
     event: Writing Day
-    date: May 19
+    date: May 3
     summary: Join us for the <a href="/conf/portland/2020/writing-day/">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
     icon: writing
     dotw: Sunday
   day_three:
     event: Main Conference
-    date: May 20-21
+    date: May 4-5
     summary: The main days of the conference. We will be running our main track in the ballroom, and the <a href="/conf/portland/2020/unconference/">Unconference</a> in Lola's Room.
     icon: conference
     dotw: Monday/Tuesday
@@ -101,7 +101,7 @@ date: # how do we handle these? human readable would be nice.
 about:
   attendees: 500
   summary:
-    "The main presentation track takes place from **May 20-21 (Monday and Tuesday) from 9am to 6pm**.
+    "The main presentation track takes place from **May 4-5 (Monday and Tuesday) from 9am to 6pm**.
     We will return to the historic `Crystal Ballroom <http://www.mcmenamins.com/CrystalBallroom>`_, `centrally located <http://goo.gl/maps/D2WrJ>`_ in the heart of Portland.
     During the main event we also run an :doc:`/conf/portland/2020/unconference` downstairs in Lola's Room.
 
@@ -123,66 +123,18 @@ job_fair:
   location: Unconference Room, across from the Main Ballroom
 
 sponsors:
-  keystone:
-    - name: google
-      link: https://www.google.com
-  patron:
-    - name: oracle-cloud
-      link: https://cloud.oracle.com/iaas
   publisher:
-    - name: alexa
-      link: https://developer.amazon.com/alexa
-    - name: aws
-      link: https://aws.amazon.com/
-    - name: square
-      link: https://squareup.com/
-    - name: microsoft
-      link: https://developer.microsoft.com
-    - name: braintree
-      link: https://www.braintreepayments.com/
-    - name: twilio
-      link: https://www.twilio.com/
-    - name: redhat
-      link: https://www.redhat.com/
-    - name: mozilla-new
-      link: https://developer.mozilla.org/
   second:
-    - name: salesforce
-      link: https://www.salesforce.com
-    - name: gitlab
-      link: https://gitlab.com
-    - name: elastic
-      link: https://www.elastic.co
-    - name: cisco
-      link: https://www.cisco.com
-    - name: knowledgeowl
-      link: https://www.knowledgeowl.com
-    - name: netlify
-      link: https://www.netlify.com/wtd
-    - name: appian
-      link: https://www.appian.com/
-    - name: cockroachlabs
-      link: https://www.cockroachlabs.com/
-    - name: asciidoctor
-      link: https://asciidoctor.org/
-    - name: redocly
-      link: https://redoc.ly
   first:
-    - name: support-driven
-      link: https://supportdriven.com
-    - name: cncf
-      link: https://www.cncf.io
-    - name: stickermule
-      link: https://www.stickermule.com/supports/writethedocs-portland
 
 
 # Things that change over time, listed in order of change
-flaglanding: False
-flaghassponsors: True
+flaglanding: True
+flaghassponsors: False
 flagcfp: False
 flagticketsonsale: False
-flagspeakersannounced: True
-flaghasschedule: True
+flagspeakersannounced: False
+flaghasschedule: False
 flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
