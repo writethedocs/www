@@ -44,6 +44,7 @@ extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
     'notfound.extension',
+    'hoverxref.extension',
     'recommonmark',
 ]
 blog_baseurl = 'https://www.writethedocs.org/'
@@ -144,6 +145,9 @@ if build_videos:
     html_context.update(main())
 
 notfound_no_urls_prefix = True
+
+hoverxref_auto_ref = True
+hoverxref_version = 'latest'
 
 
 def setup(app):
