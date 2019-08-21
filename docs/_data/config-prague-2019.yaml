@@ -59,6 +59,8 @@ sponsors:
     # They are actually a publisher, but I want these styles :)
     - name: mozilla-new
       link: https://developer.mozilla.org/en-US/
+    - name: document360
+      link: https://document360.io
   publisher:
   second:
     - name: redhat-new
