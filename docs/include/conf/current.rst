@@ -1,7 +1,7 @@
 2020 Conferences
 ----------------
 
-- Write the Docs Portland, May 3-5, **Portland, Oregon**
+- :doc:`Write the Docs Portland 2020 </conf/portland/2020/index>`, May 3-5, **Portland, Oregon**
 
 2019 Conferences
 ----------------
