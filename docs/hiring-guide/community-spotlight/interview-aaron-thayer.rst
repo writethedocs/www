@@ -1,4 +1,4 @@
-:tags:career-growth, applying-for-jobs, storytelling
+:tags: career-growth, applying-for-jobs, storytelling
 
 Interview with Aaron Thayer
 ===========================
