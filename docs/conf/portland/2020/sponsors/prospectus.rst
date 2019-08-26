@@ -16,55 +16,17 @@ Sponsorship Prospectus
 Concept
 =======
 
-Write the Docs (https://www.writethedocs.org/) is a
-**three day conference** focusing on documentation systems, tech writing
-theory, and information delivery.
-
-Writing and maintaining documentation involves a multidisciplinary
-community of technical writers, designers, librarians, typesetters, developers,
-support teams, marketers and many others. This group of people can be
-collectively referred to as "documentarians".
-
-**Write the Docs** creates a time and a place for this community to
-share information, discuss ideas, and work together to improve the art
-and science of documentation.
-
-For too long, people who care about documentation have felt alone in the
-world, not able to connect with their community. Write the Docs is a
-magical experience for many of our attendees, allowing them to feel like
-they have found their place. We believe this is the most
-important thing that our event can do, and we aim to provide that
-experience again this year, and make it better than ever.
+{% include "conf/sponsorship/concept.rst" %}
 
 Demographics
 ============
 
-We hold two conferences yearly, one in Portland, USA in May, and one in
-Prague, Europe in September. Attendance is approximately 400 in the
-USA and 250 in Europe, and we expect both conferences to sell out.
-
-Our audience is made up of:
-
-- Technical Writers (50%)
-- Developers (15%)
-- Support Staff (15%)
-- Managers (10%)
-- Community Contributors, Enthusiasts & Other Folks (10%)
+{% include "conf/sponsorship/demographics.rst" %}
 
 Why Sponsor
 ===========
 
-By supporting a Write the Docs event, your company will gain not only visibility
-and credibility with front-line documentarians, but also valuable
-insights that will help you get the most out of your own documentation efforts.
-If you're hiring for docs positions, Write the Docs is also an excellent
-opportunity to meet top-notch talent.
-
-Our conferences are run by teams of volunteers, and we work hard to keep ticket
-prices affordable for a broad range of attendees. Your sponsorship makes it
-possible for all sorts of documentarians to attend our events, whether they're a
-freelancer, a student or out of work. Becoming a sponsor demonstrates your
-commitment to and support of good documentation, and the people who build it.
+{% include "conf/sponsorship/why.rst" %}
 
 .. raw:: pdf
 
@@ -87,12 +49,8 @@ and open source organizations.
 - Small logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- **NOTE**: A table at the job fair is now included in this sponsorship
-
-
 
 The **First Draft** package costs {{sponsorship.first_draft.price}}.
-You can buy it directly on our ticket website.
 
 Second Draft
 ------------
@@ -103,8 +61,8 @@ The **Second Draft** package is great for companies looking to hire or promote a
 - Medium logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- One featured job posting in our Newsletter (2,500 subscribers)
-- **NOTE**: A table at the job fair is now included in this sponsorship
+- One featured job posting in our Newsletter (5,000 subscribers)
+- A table at our **job fair**
 
 The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
 
@@ -117,8 +75,8 @@ The **Publisher** package is great for sending a team and getting to know the co
 - Large logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 2 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Two featured job postings in our Newsletter (2,500 subscribers)
-- A table at the job fair
+- Two featured job postings in our Newsletter (5,000 subscribers)
+- A table at our **job fair**
 
 The **Publisher** package costs **{{sponsorship.publisher.price}}**.
 
@@ -139,8 +97,8 @@ The **Patron** package highlights your company as a force in the industry and co
 - Full size logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 3 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Three featured job postings in our Newsletter (2,500 subscribers)
-- A featured table at the job fair
+- Three featured job postings in our Newsletter (5,000 subscribers)
+- A featured table at our **job fair**
 
 The **Patron** package costs **{{sponsorship.patron.price}}**.
 
@@ -158,8 +116,8 @@ The **Keystone** package highlights you as our main community partner:
 - Full size logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display unlimited promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Five featured job postings in our Newsletter (2,500 subscribers)
-- A featured table at the job fair
+- Five featured job postings in our Newsletter (5,000 subscribers)
+- A featured table at our **job fair**
 
 The **Keystone** package costs **{{sponsorship.keystone.price}}**.
 
