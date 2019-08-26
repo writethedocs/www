@@ -1,6 +1,6 @@
 Sphinx==1.8.5 # pyup: >=1.8,<1.9
 recommonmark==0.6.0
-ablog==0.9.4
+ablog==0.9.5
 tox==3.13.2
 sphinx_autobuild==0.7.1
 PyYAML>=4.2b1
