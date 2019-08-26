@@ -25,17 +25,12 @@ the course of their career so far, along with providing some practical advice fo
 If you are willing to share your story with the community, you can contact jobs@writethedocs.org.
 
 .. toctree::
-   :caption: Guide Contents
+   :caption: Interviews
    :maxdepth: 1
    :glob:
 
    community-spotlight/*
 
-..
-  potential additional topics here could include:
-  choosing a job title for a documentarian,
-  how to ask for/prepare/evaluate writing samples,
-  onboarding expectations
 
 Interview advice
 ----------------

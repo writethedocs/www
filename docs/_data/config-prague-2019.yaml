@@ -20,8 +20,8 @@ buttons:
     #   link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    - text: Buy a Ticket!
-      link: /tickets
+    - text: What to expect?
+      link: /welcome-wagon
     - text: See the talks!
       link: /speakers
     # - text: Prepare with the Welcome Wagon
@@ -59,6 +59,8 @@ sponsors:
     # They are actually a publisher, but I want these styles :)
     - name: mozilla-new
       link: https://developer.mozilla.org/en-US/
+    - name: document360
+      link: https://document360.io
   publisher:
   second:
     - name: redhat-new

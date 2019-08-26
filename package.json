@@ -5,7 +5,7 @@
     "debug": "^4.1.1",
     "del": "^5.0.0",
     "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^6.0.0",
+    "gulp-autoprefixer": "^7.0.0",
     "gulp-changed": "^4.0.0",
     "gulp-cli": "^2.2.0",
     "gulp-cssnano": "^2.1.3",

@@ -24,6 +24,7 @@ New to Caring About Documentation?
    starting
    writing/mindshare
    writing/docs-principles
+   imposter
 
 
 Experienced Documentarian?
