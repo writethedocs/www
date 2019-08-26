@@ -34,8 +34,7 @@ Why Sponsor
 Sponsorship Packages
 ====================
 
-The following options are suggested sponsorship levels. We are happy to discuss
-adjustments and custom packages.
+The following options are suggested sponsorship levels. We are happy to discuss adjustments and custom packages.
 
 First Draft
 -----------
@@ -143,8 +142,6 @@ It is included in all sponsorship packages this year.
 
 - **Layout**: Every participant will have a table and two chairs reserved for them. Giveaways/flyers are welcome, please make sure everything fits on your table.
 
-Note that the `Code of Conduct </code-of-conduct/>`_ and :ref:`coc-sponsors` apply to the Job Fair as well as to the rest of the conference.
-
 Lanyard
 -------
 
@@ -163,8 +160,7 @@ This is great for any company that is looking for contributors to their open sou
 **{{sponsorship.second_draft.price}}**
 
 - **Logistics**: The Writing Day runs 10-5 on Sunday.
-
-
+<p></p>
 .. raw:: pdf
 
   PageBreak
@@ -179,7 +175,7 @@ Please direct all inquiries to our sponsorship team at:
 Payment
 =======
 
-We expect all invoices to be paid **within 21 days of invoice receipt**, as many
+We expect all invoices to be paid **within 30 days of invoice receipt**, as many
 of our expenses must be paid up front.
 
 .. _ticket: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
@@ -188,18 +184,75 @@ of our expenses must be paid up front.
 Run of Show
 ===========
 
-A quick overview of the spaces:
+This Run of Show provides more context about the event and answers some common questions you may have. 
+Please let us know if there is any information missing that would be useful for you.
 
-* The *Main Ballroom* is where talks and most sponsorship activity happens.
-* The *Unconference Room* is across from the main ballroom. This is where the Unconference & Job Fair happens.
+Sponsorship schedule
+--------------------
 
-An overview of the conference schedule:
+* **SUNDAY**: The swag tables are available during the Writing Day, if you want to put out swag items early. Sponsor booths are available for setup on Sunday from 10am-4pm, but don't need people staffing them. You're also welcome to lead a Writing Day project if your documentation is open source.
 
-* The Writing Day is on Sunday, in the main ballroom. You are welcome to run a documentation sprint here if your documentation is open source.
-* The main conference & sponsorship days are on Monday & Tuesday in the main ballroom.
-* The Job Fair happens Tuesday morning.
+* **MONDAY**: Doors open at 8am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the main conference talks, when sponsors tables will need to be staffed. The conference will run until around 5pm.
 
-The :doc:`/conf/{{ shortcode }}/{{ year }}/schedule` contains the most up to date information about the timing of events.
+* **TUESDAY**: The Job Fair will be from 9:30-11:30am, set starts at 8:30am. Sponsor tear down in the main hall will be 4pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening.
+
+See the :doc:`full schedule </conf/{{ shortcode }}/{{ year }}/schedule>` for exact timing details.
+
+Sponsorship spaces
+------------------
+
+A quick overview of the spaces in the venue that are important:
+
+* The *main ballroom* is where talks and most sponsorship activity happens. We will have booths & swag tables set up at the back of the main ballroom. Here is a `picture <https://www.flickr.com/photos/writethedocs/34495135662>`__ before the attendees showed up.
+* *Lola's Room* is downstairs from the main ballroom. This is where the Unconference & Job Fair will happen. Another `picture <https://www.flickr.com/photos/writethedocs/34536045142/in/album-72157683817839465/>`__ shows the idea.
+
+Sponsorship events
+------------------
+
+Job Fair
+~~~~~~~~
+
+On Tuesday morning we hold our Job Fair,
+which is a wonderful place to connect with our over 500 attendees.
+Many of them are looking for jobs now or will be in the near future,
+so it's a great chance to talk more about your company culture and open positions.
+
+The room will be setup in a large circle with booths around the outside,
+allowing for movement of attendees.
+We recommend not having more than 3-4 people at your booth,
+as it can be intimidating for attendees.
+There are 8 booth areas where you can sit and hold longer conversations.
+
+**Logistics**: You will have a six-foot table and two chairs reserved for your company. Each company that confirms their attendance will have a table reserved for them with their logo on it. Giveaways/flyers are welcome, but please make sure everything fits on your alloted table.
+
+Sponsor booths
+~~~~~~~~~~~~~~
+
+Sponsor booths are only available for our larger sponsors due to space limitations.
+You will be given a booth that is in the back of the Ballroom,
+which is the primary conference venue.
+Most of the attendee focus will come during breaks (10 minutes between each talk, two longer snack breaks) and at the beginning and end of the day.  
+
+**Logistics**: Booth setup is available Sunday, but they only need to be staffed on Monday and Tuesday. Power and Wifi are available.
+
+* The *large* sponsorship booth is 12 feet
+* The *small* sponsorship booth is 6 feet
+
+Writing day
+~~~~~~~~~~~
+
+On Sunday we hold our Writing Day.
+This is a place where the community gathers to get actual work done.
+This generally involved companies hosting a documentation sprint on some piece of documentation that is open source and needs improvements.
+
+If you want to participate in the Writing Day,
+it helps to do a bit of work up front.
+The best way to prepare is to have a set of issues that you've already picked as "easy for beginners".
+Starting with these issues will make it much easier for people to start,
+and feel productive.
+Make sure you also have good installation instructions and other helpful beginners content as well.
+
+**Logistics**: You can email us before the conference, and we will add your project to the website as a project that attendees can work on. You can also introduce your project to attendees at 9:30 on Sunday during the Writing Day Introduction.
 
 How do I get the most out of my sponsorship?
 --------------------------------------------
@@ -209,33 +262,40 @@ Come prepared to engage with our community, and to learn just as much as you tea
 Who is my primary contact?
 --------------------------
 
-Eric Holscher <eric@writethedocs.org> will be your primary contact, but our team is available at <sponsorship@writethedocs.org>. If you have a time sensitive inquiry, please email the entire team to ensure a timely response.
+Eric Holscher will be your primary contact, but our team is available at sponsorship@writethedocs.org. If you have a time sensitive inquiry, please email the entire team to ensure a timely response.
 
-What are the dates that sponsors need to know about in advance?
-------------------------------------------------------------------
+What happens with my "swag" items?
+----------------------------------
 
-* **SUNDAY**: The swag tables are available during the Writing Day, if you want to put out swag items early.
+We will have a few "swag" tables that are placed around the back of the main ballroom. This will be where sponsor and community stickers & swag will be located, so that attendees are free to pick it up. If you have a booth, you are also welcome to place swag on the booth.
 
-* **MONDAY**: Doors open at 9am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the conference. The conference will run until around 5pm.
+How do I use my sponsorship tickets?
+------------------------------------
 
-* **TUESDAY**: The Job Fair will be in the morning, setup will start 30 minutes before the job fair starts. Sponsor tear down in the main hall will be 4pm on Tuesday. That will be the end of the conference, so feel free to book travel home that evening.
+You should have received a unique URL with a discount code for your sponsorship tickets. We are happy to send it over again, just ask!
 
-How do I use get my free tickets?
----------------------------------
+How do I use my job postings?
+-----------------------------
 
-You should have received a unique URL with a discount code for your free sponsorship tickets. We are happy to send it over again, just ask!
+You can post your jobs to our `job board <https://jobs.writethedocs.org/>`_.
+You will be given a discount code that will let you post them for free,
+please ask us for this if you don't have it! 
+They will be published in our :doc:`Newsletter </newsletter>` every month,
+and displayed on our website as well.
 
 What do I need for the job fair?
 --------------------------------
 
-The job fair will be a low key event. Every participant will have a six-foot table and two chairs, in a different room from the primary conference. Giveaways/flyers are welcome, but please keep your setup requirements simple.
+The job fair will be a low key event. Every participant will have a six-foot table and two chairs, in a separate room from the primary conference. Giveaways/flyers are welcome, but please keep your setup requirements simple.
 
-What happens with my swag items?
---------------------------------
+What are the table sizes? What is included?
+-------------------------------------------
 
-We will have a few "swag tables" that are placed around the back of the main ballroom. This will be where sponsor and community stickers & swag will be located, so that attendees are free to pick it up.
+The small sponsorship table is a 6' table, and the large is two 6' tables. These are not standard conference expo halls, but in the main conference venue, so please don't bring anything that will need to be hung or expand more than 2 feet beyond the edge of your area. Wifi & Power will be provided.
 
 How do I ship items?
 --------------------
 
 Prior to the event, if you'd like to ship swag, we will send you the mailing address **3 weeks** prior to the event. We can't receive packages before that. Anything sent to us will be available at the venue on the day of the event.
+
+Please ship **no more than 5 boxes**. We can't inventory large numbers of boxes before the conference.
