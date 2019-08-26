@@ -22,8 +22,6 @@ Who we are
 
 Hi - we're Beth and Daniel, your Welcome Wagon volunteers! We're really glad you're coming to the {{year}} Write the Docs conference.
 
-.. image:: /_static/2018/assets/images/pics/welcome-wagon.jpg
-
 If you need a hand at all, we're here to help.
 
 Welcome Wagon events

@@ -3,11 +3,7 @@
 Sponsorship Prospectus
 ######################
 
-.. raw:: pdf
-
-   PageBreak
-
-.. contents::
+.. contents:: Sections
    :local:
    :depth: 1
    :backlinks: none
@@ -26,10 +22,6 @@ Why Sponsor
 ===========
 
 {% include "conf/sponsorship/why.rst" %}
-
-.. raw:: pdf
-
-   PageBreak
 
 Sponsorship Packages
 ====================
@@ -78,10 +70,6 @@ The **Publisher** package is great for sending a team and getting to know the co
 
 The **Publisher** package costs **{{sponsorship.publisher.price}}**.
 
-.. raw:: pdf
-
-   PageBreak
-
 Patron
 ------
 
@@ -118,10 +106,6 @@ The **Keystone** package highlights you as our main community partner:
 - A featured table at our **job fair**
 
 The **Keystone** package costs **{{sponsorship.keystone.price}}**.
-
-.. raw:: pdf
-
-   PageBreak
 
 Other Sponsorship Opportunities
 ===============================
@@ -161,9 +145,6 @@ This is great for any company that is looking for contributors to their open sou
 
 - **Logistics**: The Writing Day runs 10-5 on Sunday.
 <p></p>
-.. raw:: pdf
-
-  PageBreak
 
 Inquiries
 =========
