@@ -8,7 +8,7 @@ area: North America # European Australian
 area_adj: North American
 tz: PST
 email: portland@writethedocs.org
-color: coral
+color: blue
 
 photos:
   default: _static/conf/images/headers/group.png
