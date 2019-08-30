@@ -9,9 +9,9 @@ var gulp = require('gulp'),
     del = require('del'),
     plumber = require('gulp-plumber'),
     browserSync = require('browser-sync'),
-    changed = require('gulp-changed'),
+    changed = require('gulp-changed')
 
-gulp.task('styles', function(callback_finished) {
+gulp.task('styles', gulp.series(function(callback_finished) {
     var years = ['2018', '2019', '2020'];
     years.forEach(function(year) {
       gulp.src('docs/_static/conf/scss/main-' + year + '.scss', {style: 'expanded'})
@@ -25,28 +25,28 @@ gulp.task('styles', function(callback_finished) {
           .pipe(notify({message: 'Styles task complete for ' + year}));
     });
     callback_finished()
-});
+}));
 
 // Browser sync appears actually broken:
 // https://github.com/writethedocs/www/issues/1042
 
 // Static server
-// gulp.task('browser-sync', function() {
-//     browserSync.init([
-//       "docs/_static/conf/css/*.css",
-//       "docs/_static/conf/js/*.js",
-//       'docs/_templates/conf/*.html'], {
-//         proxy:  "http://localhost:8888"
-//     });
-// });
-//
-// // Watch
-// gulp.task('watch', ['browser-sync'], function() {
-//   gulp.watch('docs/_static/conf/scss/main.scss', ['styles']);
-// });
+gulp.task('browser-sync', gulp.series(function() {
+    browserSync.init([
+      "docs/_static/conf/css/*.css",
+      "docs/_static/conf/js/*.js",
+      'docs/_templates/conf/*.html'], {
+        proxy:  "http://localhost:8888"
+    });
+}));
 
-// Default task
-// gulp.task('default', ['browser-sync'], function() {
-//     gulp.start('styles');
-//     gulp.start('watch');
-// });
+//Watch
+gulp.task('watch', gulp.series('browser-sync', function() {
+  gulp.watch('docs/_static/conf/scss/main.scss', ['styles']);
+}));
+
+//Default task
+gulp.task('default', gulp.series('browser-sync', function() {
+    gulp.start('styles');
+    gulp.start('watch');
+}));
