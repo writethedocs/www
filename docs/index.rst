@@ -58,12 +58,6 @@ Here are our latest events, and we hope to see you online or in person soon!
    *
    conf/*
    news/*
-   conf/na/*/*
-   conf/na/*/*/*
-   conf/eu/*/*
-   conf/eu/*/*/*
-   conf/au/*/*
-   conf/au/*/*/*
    conf/portland/*/*
    conf/portland/*/*/*
    conf/prague/*/*

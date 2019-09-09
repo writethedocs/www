@@ -1,0 +1,113 @@
+writing_day:
+  - time: '8:00'
+    title: Doors Open, Breakfast Served
+  - time: '9:30'
+    title: Morning introduction - Introduction to Sprints & Project Introductions
+  - time: '9:45'
+    title: Team up and start working
+  - time: '12:30'
+    title: Lunch Break
+  - time: '5:00'
+    title: End of Writing Day, Beginning of Reception
+  - time: '8:00'
+    title: End of Reception
+
+day1:
+  - time: '8:00'
+    title: Doors Open, Breakfast Served
+  - time: '9:00'
+    title: Write the Docs Team - Introduction to Write the Docs
+  - time: '9:30'
+    title: Switch Speakers
+  - time: '9:40'
+    title: "<b>Unconference Starts (Lola's Room)</b>"
+  - time: '9:40'
+    slug: any-friend-of-the-docs-is-a-friend-of-mine-cultivating-a-community-of-documentation-advocates-heather-stenson
+  - time: '10:10'
+    title: Switch Speakers
+  - time: '10:20'
+    slug: how-to-edit-other-peoples-content-without-pissing-them-off-ingrid-towey
+  - time: '10:50'
+    title: Snack break
+  - time: '11:10'
+    slug: writer-editor-teacher-kathleen-juell
+  - time: '11:40'
+    title: Switch Speakers
+  - time: '11:50'
+    slug: documenting-for-open-source-shannon-crabill
+  - time: '12:20'
+    title: Lunch (60 mins)
+  - time: '1:20'
+    title: Lightning Talks
+  - time: '1:50'
+    title: Switch Speakers
+  - time: '2:00'
+    slug: harvest-past-experience-to-be-a-great-tech-writer-mark-f-iverson
+  - time: '2:30'
+    title: Switch Speakers
+  - time: '2:40'
+    slug: how-i-learned-to-stop-worrying-and-love-the-command-line-mike-jang
+  - time: '3:10'
+    title: Snack break
+  - time: '3:30'
+    slug: localize-the-docs-paul-wallace
+  - time: '4:00'
+    title: Switch Speakers
+  - time: '4:10'
+    slug: tutorials-tooltips-and-popupsoh-my-how-to-ease-yourself-and-your-users-into-in-app-messaging-meghan-mahar
+  - time: '4:40'
+    title: '<b>Group Photo</b>'
+  - time: '5:00'
+    title: Day 1 wraps up
+  - time: '7:00'
+    title: '<b>Social Event</b>'
+  - time: '10:00'
+    title: '<b>Social Event Ends</b>'
+
+day2:
+  - time: '8:00'
+    title: Doors Open, Breakfast Served
+  - time: '9:00'
+    slug: draw-the-docs-alicja-raszkowska
+  - time: '9:30'
+    title: Switch Speakers
+  - time: '9:40'
+    title: "<b>Job Fair Starts (Lola's Room)</b>"
+  - time: '9:40'
+    slug: just-add-data-make-it-easier-to-prioritize-your-documentation-sarah-moir
+  - time: '10:10'
+    title: Switch Speakers
+  - time: '10:20'
+    slug: show-me-the-money-how-to-get-your-docs-the-love-and-support-they-deserve-matt-reiner
+  - time: '10:50'
+    title: Snack break
+  - time: '11:10'
+    slug: sdk-reference-manuals-a-flow-based-approach-chris-bush
+  - time: '11:40'
+    title: Switch Speakers
+  - time: '11:50'
+    slug: documentation-for-good-riona-macnamara
+  - time: '12:05'
+    title: Lunch (60 mins)
+  - time: '1:05'
+    title: "Behind the Scenes with Aaron and Vanessa"
+  - time: '1:20'
+    title: Lightning Talks (30 mins)
+  - time: '1:20'
+    title: "<b>Unconference Starts (Lola's Room)</b>"
+  - time: '1:50'
+    title: Switch Speakers
+  - time: '2:00'
+    slug: product-documentation-strategy-what-is-it-and-why-do-we-need-it-kay-miles
+  - time: '2:30'
+    title: Switch Speakers
+  - time: '2:40'
+    slug: lessons-learned-in-a-year-of-docs-driven-development-jessica-parsons
+  - time: '3:10'
+    title: Switch Speakers
+  - time: '3:20'
+    slug: defying-the-status-quo-how-a-grassroots-effort-can-transform-an-organization-jodie-putrino
+  - time: '3:50'
+    title: Closing address
+  - time: '4:00'
+    title: "<b>Conference Ends</b> :("

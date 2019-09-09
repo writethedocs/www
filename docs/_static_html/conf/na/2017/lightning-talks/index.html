@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="../../../../_static/conf-legacy/2017/styles.min.css" rel="stylesheet" />
+
+
+  
+  <title>Lightning Talks - Write the Docs Portland 2017</title>
+  
+  
+
+
+  
+    
+  
+    <script src='https://js.tito.io/v1' async></script>
+
+    <script src="https://www.google-analytics.com/ga.js"></script>
+    <script type="text/javascript">
+    // google analytics
+    // note: this will create a JS console error when viewing local via file:// uris
+    var _gaq=[['_setAccount','UA-37795838-1'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=('https:'==location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
+    </script>
+
+  <style>
+  /* Sphinx Additions */
+  a.headerlink {
+    display: none;
+  }
+
+  .section > h1 {
+    display: none;
+  }
+  </style>
+
+</head>
+<body>
+    <div class="offcanvas--bg" data-offcanvas-bg></div>
+  <div class="offcanvas" data-offcanvas>
+    <button class="offcanvas__close btn-link" data-offcanvas-close>&#xe901;</button>
+    <ul class="offcanvas__menu menu-mobile">
+      <li class="menu-mobile__item">
+          <a href="../news/">
+            News
+          </a>
+      </li>
+      <li class="menu-mobile__item">
+        <a href="../tickets/">Tickets</a>
+      </li>
+      <li class="menu-mobile__item">
+          <a href="../sponsor/">
+            Sponsor
+          </a>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <span>Program</span>
+        <ul class="menu-mobile__dropdown">
+            <li><a href="../schedule/">Full Schedule</a></li>
+            <li><a href="../speakers/">Sessions</a></li>
+            <li><a href="../hike/">Hike</a></li>
+            <li><a href="../writing-day/">Writing Day</a></li>
+            <li><a href="#">Lightning Talks</a></li>
+            <li><a href="../unconference/">Unconference</a></li>
+            <li><a href="../workshops/">Workshops</a></li>
+        </ul>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <span>Visit</span>
+        <ul class="menu-mobile__dropdown">
+            <li><a href="../venue/">Venue Information</a></li>
+            <li><a href="../visiting/">Visiting Portland</a></li>
+        </ul>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <span>About</span>
+        <ul class="menu-mobile__dropdown">
+            <li><a href="../welcome-wagon/">Welcome Wagon</a></li>
+            <li><a href="../team/">Meet the Team</a></li>
+            <li><a href="../../../">Past Events</a></li>
+            <li><a href="../../../../code-of-conduct/">Code of Conduct</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div class="mobile-bar">
+    <div class="mobile-bar__col mobile-bar__col--hamburger">
+      <button class="mobile-bar__hamburger btn-link" data-offcanvas-icon>&#xe900;</button>
+    </div>
+    <div class="mobile-bar__col mobile-bar__col--logo">
+      <a href="/conf/na/2017/">
+        <img src="../../../../_static/conf-legacy/2017/images/logo-mobile.svg" alt="Write the Docs" class="mobile-bar__logo">
+      </a>
+    </div>
+  </div>
+
+  <div class="menu">
+    <nav class="menu__wrapper">
+      <ul class="menu__list list-unstyled">
+        <li class="menu__list-item menu__list-item--first menu__list-item--active">
+          <a href="../" class="menu__item btn btn-link menu__item--home">
+            &#xe907;
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="../news/" class="menu__item btn btn-link">
+            News
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="../tickets/" class="menu__item btn btn-link">
+            Tickets
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="../sponsor/" class="menu__item btn btn-link">
+            Sponsor
+          </a>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="../schedule/" class="menu__item btn btn-link">
+            Program
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="../schedule/">Full Schedule</a></li>
+            <li><a href="../speakers/">Sessions</a></li>
+            <li><a href="../hike/">Hike</a></li>
+            <li><a href="../writing-day/">Writing Day</a></li>
+            <li><a href="#">Lightning Talks</a></li>
+            <li><a href="../unconference/">Unconference</a></li>
+            <li><a href="../workshops/">Workshops</a></li>
+          </ul>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="../visiting/" class="menu__item btn btn-link">
+            Visit
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="../venue/">Venue Information</a></li>
+            <li><a href="../visiting/">Visiting Portland</a></li>
+          </ul>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="#" class="menu__item btn btn-link">
+            About
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="../welcome-wagon/">Welcome Wagon</a></li>
+            <li><a href="../team/">Meet the Team</a></li>
+            <li><a href="../../../">Past Events</a></li>
+            <li><a href="../../../../code-of-conduct/">Code of Conduct</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>
+
+  <div class="container-fluid">
+
+    <!-- MAIN SECTION -->
+    
+<main>
+
+    
+    <header class="header">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 text-center">
+            <a href="/conf/na/2017/" class="header__logo">
+              <img src="../../../../_static/conf-legacy/2017/images/logo-subpage.svg" alt="Write the Docs Portland">
+            </a>
+            <h1 class="header__title">Lightning Talks</h1>
+          </div>
+        </div>
+      </div>
+    </header>
+    
+
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 text-left">
+          <div class="main-container main">
+            
+              <div class="section" id="lightning-talks">
+<span id="speaker-lightning-talks-na2017"></span><h1>Lightning Talks<a class="headerlink" href="#lightning-talks" title="Permalink to this headline">¶</a></h1>
+<p>A lightning talk is a very short talk where you share an idea, concept,
+or a bit of information you find interesting. They’re quick, easy, and a
+great way to practice. (Lovely example
+<a class="reference external" href="https://www.youtube.com/watch?feature=player_embedded&amp;v=6wcP1aMl7wQ#t">*here*</a> beginning at 15:42!)</p>
+</div>
+<div class="section" id="planning-what-goes-into-a-lightning-talk">
+<h1>Planning: What Goes into a Lightning Talk?<a class="headerlink" href="#planning-what-goes-into-a-lightning-talk" title="Permalink to this headline">¶</a></h1>
+<p>A lightning talk should be about <strong>five minutes long</strong>, just long enough
+to give an overview and make people curious about your topic. You can
+talk about anything that’s related to the event’s general theme (in the
+case of Write the Docs, anything even remotely related to
+documentation).</p>
+<p>First, you need a <strong>topic</strong>. Your topic might be:</p>
+<ul class="simple">
+<li>A concept, process, or tool that you learned recently or are still
+learning</li>
+<li>An idea for a website or product that would solve a problem you have</li>
+<li>A retrospective, or what went right/wrong during a project you did or
+are doing</li>
+<li>Anything relevant that the audience might be interested in knowing
+more about</li>
+</ul>
+<p>Next, you need an <strong>outline</strong> for the content. Think about the
+<strong>audience</strong>, and the <strong>goal</strong> of your talk. Choose points to make that
+will be understandable by the audience and achieve your presentation
+goal. Remember how quickly five minutes goes by when choosing what to
+include!</p>
+<p>Potential <strong>points of interest</strong> might be:</p>
+<ul class="simple">
+<li>What could you use this for or when could you use it? Have you
+already used it? How?</li>
+<li>When wouldn’t it not be as useful? What are some contraindications to
+using it?</li>
+<li>Resources related to the subject, including books, documentation, and
+URLs.</li>
+<li>Are there any projects or companies that are using what you’re
+sharing?</li>
+<li>Is this something you’d like to collaborate with others on? Feel free
+to ASK!</li>
+<li>What are some of the challenges related to using, building, or
+configuring what you’re showing?</li>
+</ul>
+</div>
+<div class="section" id="preparation-slides-are-optional">
+<h1>Preparation: Slides are Optional<a class="headerlink" href="#preparation-slides-are-optional" title="Permalink to this headline">¶</a></h1>
+<p>You absolutely don’t need slides. However, if you’d like to make slides,
+use anything that you are comfortable with. Don’t worry if it doesn’t
+look polished, lightning talks don’t need to be! You might use Microsoft
+Word, Keynote, a PDF, or a web site. Even a simple terminal or console
+window where you enter commands can work well for presenting your ideas.</p>
+<p>Keep in mind that the projector will be lower resolution, typically
+1024x768, and that low-contrast slides don’t present well. You’ll also
+need to make your terminal or console font very large so that everyone
+can see what you’re typing. If you’re running code examples, have them
+written, debugged, and ready to go. Watching someone write code as they
+go can be great in a longer deep-dive type of talk, but it’s not very
+well-suited to a lightning talk.</p>
+</div>
+<div class="section" id="live-demos-proceed-at-your-own-risk">
+<h1>Live Demos: Proceed at Your Own Risk<a class="headerlink" href="#live-demos-proceed-at-your-own-risk" title="Permalink to this headline">¶</a></h1>
+<p>You may have the urge to do a live demonstration of the thing you’re
+talking about. It seems like an easy way to help the audience see your
+vision, and it is… if it works! Following Murphy’s Law, however, we can
+deduce that your live demo will go horribly wrong. A failed demo can
+derail all but the most skilled presenters, but if you choose to do a
+demo and it goes wrong don’t worry! Have a backup story to tell that
+explains what the demo would have shown and revert to it if necessary.</p>
+</div>
+<div class="section" id="presenting-your-own-five-minutes-on-stage">
+<h1>Presenting: Your Own Five Minutes on Stage!<a class="headerlink" href="#presenting-your-own-five-minutes-on-stage" title="Permalink to this headline">¶</a></h1>
+<p>Take a deep breath and go for it. You are among friends, and nobody will
+mind if you make mistakes. Almost everyone starts out their public
+speaking career in the tech industry by giving lightning talks, so you
+can assume your audience has been in your shoes before. Throw caution to
+the wind and embrace your five minutes! :)</p>
+<p>Be sure to bring everything you need to do your presentation. It’s wise
+to assume that the internet access will fail precisely when you need it.
+Load web pages you need into your browser beforehand. Bring the adapters
+you’d normally need to connect your laptop to a monitor or projector,
+and keep a backup copy of your presentation on a USB memory stick –
+laptops can and do fail, and this will allow you to use someone else’s
+laptop if the need arises.</p>
+</div>
+<div class="section" id="finishing-up">
+<h1>Finishing up<a class="headerlink" href="#finishing-up" title="Permalink to this headline">¶</a></h1>
+<p>If you have your slide presentation or example code available online you
+can let the group know where to find it if you want to share it. Curious
+people may follow up with you if they’d like to collaborate or have
+feedback about your presentation.</p>
+</div>
+<div class="section" id="license">
+<h1>License<a class="headerlink" href="#license" title="Permalink to this headline">¶</a></h1>
+<p>Thanks to the lovely Portland Python Users Group for use of this
+content.</p>
+<p>Lightning Talks: A Guide for Beginners by Michelle Rowley of PDX Python
+is licensed under a <a class="reference external" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International
+License</a>.</p>
+</div>
+
+            
+          </div>
+        </div>
+      </div>
+    </div>
+
+</main>
+
+
+
+    <!-- FOOTER BLOCK -->
+    <section class="join">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 text-center">
+            <h4 class="join__heading">Join us now!</h4>
+            <a href="/conf/na/2017/welcome-wagon/" class="btn btn-primary button button--narrow buy-ticket__talk">Get ready for the conference with our Welcome Wagon</a>
+
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="instagram">
+      <div class="owl-carousel" id="owl-instagram">
+        <a href="https://www.flickr.com/photos/writethedocs/14151785456/in/album-72157644692192083/" class="instagram__tile">
+          <img src="/_static/img/2016/na/attendees.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/13991334230/in/album-72157644692192083/" class="instagram__tile">
+          <img src="/_static/img/2016/na/group.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/14151984286/in/album-72157644692192083/" class="instagram__tile">
+          <img src="/_static/img/2016/na/tshirt.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/14174678071/in/album-72157644692192083/" class="instagram__tile">
+          <img src="/_static/img/2016/na/laptop.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/" class="instagram__tile">
+          <img src="/_static/img/2016/eu/autoklub-mainhall.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/" class="instagram__tile">
+          <img src="/_static/img/2016/eu/autoklub-foyer.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/21413806368/in/album-72157658925901175/" class="instagram__tile">
+          <img src="/_static/img/2016/eu/outside.jpg" alt="">
+        </a>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-md-9 text-xs-center text-md-left">
+            <ul class="list-unstyled footer__copy copy">
+              <li><p class="copy__item copy__item--first">© 2017 Write the Docs</p> </li>
+              <li><a class="copy__item" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a></li>
+              <li><a href="../../../../code-of-conduct/" class="copy__item">Code of Conduct</a></li>
+              <li><a href="../../../../" class="copy__item">Write the Docs</a></li>
+
+            </ul>
+          </div>
+          <div class="col-xs-12 col-md-3 text-xs-center text-md-right">
+            <ul class="socials list-inline">
+              <li><a href="https://twitter.com/writethedocs" class="socials__item">&#xe906;</a></li>
+              <li><a href="https://www.flickr.com/photos/writethedocs/" class="socials__item socials__item--flickr">&#xe905;</a></li>
+              <li><a href="https://github.com/writethedocs" class="socials__item">&#xe903;</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- END OF FOOTER BLOCK -->
+
+  </div>
+  <script src="../../../../_static/conf-legacy/2017/script.min.js"></script>
+  <script src="../../../../_static/conf-legacy/2017/owl.carousel.min.js"></script>
+</body>
+</html>

@@ -12,7 +12,7 @@ email: prague@writethedocs.org
 color: coral
 
 photos:
-  default: _static/2019/assets/headers/prague-group.png
+  default: _static/conf/images/headers/prague-group.png
 
 buttons:
   top:

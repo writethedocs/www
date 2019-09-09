@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="../../../_static/conf-legacy/2017/styles.min.css" rel="stylesheet" />
+
+
+  
+  <title>Home - Write the Docs Portland 2017</title>
+  
+  
+
+
+  
+  
+    <script src="https://www.google-analytics.com/ga.js"></script>
+    <script type="text/javascript">
+    // google analytics
+    // note: this will create a JS console error when viewing local via file:// uris
+    var _gaq=[['_setAccount','UA-37795838-1'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=('https:'==location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
+    </script>
+
+  <style>
+  /* Sphinx Additions */
+  a.headerlink {
+    display: none;
+  }
+
+  .section > h1 {
+    display: none;
+  }
+  </style>
+
+</head>
+<body>
+    <div class="offcanvas--bg" data-offcanvas-bg></div>
+  <div class="offcanvas" data-offcanvas>
+    <button class="offcanvas__close btn-link" data-offcanvas-close>&#xe901;</button>
+    <ul class="offcanvas__menu menu-mobile">
+      <li class="menu-mobile__item">
+          <a href="news/">
+            News
+          </a>
+      </li>
+      <li class="menu-mobile__item">
+        <a href="tickets/">Tickets</a>
+      </li>
+      <li class="menu-mobile__item">
+          <a href="sponsor/">
+            Sponsor
+          </a>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <span>Program</span>
+        <ul class="menu-mobile__dropdown">
+            <li><a href="schedule/">Full Schedule</a></li>
+            <li><a href="speakers/">Sessions</a></li>
+            <li><a href="hike/">Hike</a></li>
+            <li><a href="writing-day/">Writing Day</a></li>
+            <li><a href="lightning-talks/">Lightning Talks</a></li>
+            <li><a href="unconference/">Unconference</a></li>
+            <li><a href="workshops/">Workshops</a></li>
+        </ul>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <span>Visit</span>
+        <ul class="menu-mobile__dropdown">
+            <li><a href="venue/">Venue Information</a></li>
+            <li><a href="visiting/">Visiting Portland</a></li>
+        </ul>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <span>About</span>
+        <ul class="menu-mobile__dropdown">
+            <li><a href="welcome-wagon/">Welcome Wagon</a></li>
+            <li><a href="team/">Meet the Team</a></li>
+            <li><a href="../../">Past Events</a></li>
+            <li><a href="../../../code-of-conduct/">Code of Conduct</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div class="mobile-bar">
+    <div class="mobile-bar__col mobile-bar__col--hamburger">
+      <button class="mobile-bar__hamburger btn-link" data-offcanvas-icon>&#xe900;</button>
+    </div>
+    <div class="mobile-bar__col mobile-bar__col--logo">
+      <a href="/conf/na/2017/">
+        <img src="../../../_static/conf-legacy/2017/images/logo-mobile.svg" alt="Write the Docs" class="mobile-bar__logo">
+      </a>
+    </div>
+  </div>
+
+  <div class="menu">
+    <nav class="menu__wrapper">
+      <ul class="menu__list list-unstyled">
+        <li class="menu__list-item menu__list-item--first menu__list-item--active">
+          <a href="#" class="menu__item btn btn-link menu__item--home">
+            &#xe907;
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="news/" class="menu__item btn btn-link">
+            News
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="tickets/" class="menu__item btn btn-link">
+            Tickets
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="sponsor/" class="menu__item btn btn-link">
+            Sponsor
+          </a>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="schedule/" class="menu__item btn btn-link">
+            Program
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="schedule/">Full Schedule</a></li>
+            <li><a href="speakers/">Sessions</a></li>
+            <li><a href="hike/">Hike</a></li>
+            <li><a href="writing-day/">Writing Day</a></li>
+            <li><a href="lightning-talks/">Lightning Talks</a></li>
+            <li><a href="unconference/">Unconference</a></li>
+            <li><a href="workshops/">Workshops</a></li>
+          </ul>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="visiting/" class="menu__item btn btn-link">
+            Visit
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="venue/">Venue Information</a></li>
+            <li><a href="visiting/">Visiting Portland</a></li>
+          </ul>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="#" class="menu__item btn btn-link">
+            About
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="welcome-wagon/">Welcome Wagon</a></li>
+            <li><a href="team/">Meet the Team</a></li>
+            <li><a href="../../">Past Events</a></li>
+            <li><a href="../../../code-of-conduct/">Code of Conduct</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>
+
+  <div class="container-fluid">
+
+    <!-- MAIN SECTION -->
+    
+    <header class="header">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-md-4 text-center">
+            <a href="/conf/na/2017/" class="header__logo">
+              <img src="../../../_static/conf-legacy/2017/images/logo.svg" alt="Write the Docs">
+            </a>
+          </div>
+          <div class="col-xs-12 col-md-8 text-xs-right">
+            <div class="header__desc home-about">
+              <h2 class="home-about__heading">Write the Docs is a conference focused on all things related to software documentation.</h2>
+              <p class="home-about__paragraph">
+
+              Write the Docs brings everyone who writes the docs together in the same room: Programmers, Tech Writers, Support, and Developer Advocates. We all have things to learn from each other, and there’s no better way than sitting together and talking.
+              </p>
+              <p>
+              We invite you to join 400 other folks for a three-day event to explore the art and science of documentation.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+    
+    <div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+
+      <div class="main-container main-container--home">
+
+        <section class="buy-ticket">
+          <div class="row">
+            <div class="col-xs-12 col-md-5 text-center">
+              <p class="buy-ticket__p buy-ticket__p--first">
+                Portland, Oregon
+                <span>|</span>
+                May 14-16, 2017
+              </p>
+            </div>
+            <div class="col-xs-12 col-md-7 text-xs-center text-md-right">
+              <div class="buy-ticket__2nd-col">
+                <a href="/conf/na/2017/welcome-wagon/" class="btn btn-primary button button--narrow buy-ticket__talk">Get ready for the conference with our Welcome Wagon</a>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Schedule -->
+        <section class="section">
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="section__header subheader">
+                <span class="subheader__yellow"></span>
+                <h2 class="subheader__header">Schedule overview</h2>
+                <a href="/conf/na/2017/schedule/" class="subheader__more">See full schedule</a>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="schedule-home">
+              <div class="schedule-home__line"></div>
+              <div class="col-xs-12 col-sm-4 text-center">
+                <div class="schedule-home__tile">
+                  <div class="schedule-home__date">
+                    May 13
+                  </div>
+                  <p class="schedule-home__day">
+                    Saturday
+                  </p>
+                  <p class="schedule-home__desc">
+                    If you're in town early,
+                    join us for the <a href="/conf/na/2017/hike/">Hike</a>.
+                    Portland has excellent access to the woods right in the city,
+                    and we'll be exploring Forest Park and the Hoyt Arboretum.
+                  </p>
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-4 text-center">
+                <div class="schedule-home__tile">
+                  <div class="schedule-home__date">
+                    May 14
+                  </div>
+                  <p class="schedule-home__day">
+                    Sunday
+                  </p>
+                  <p class="schedule-home__desc">
+                  Join us for the <a href="/conf/na/2017/writing-day/">Writing Day</a>, <a href="/conf/na/2017/workshops/">Workshops</a>, and Welcome Reception.
+                  The first official day of the conference is full of chances to interact with other documentarians.
+                  </p>
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-4 text-center">
+                <div class="schedule-home__tile schedule-home__tile--last">
+                  <div class="schedule-home__date">
+                    May 15-16
+                  </div>
+                  <p class="schedule-home__day">
+                    Monday & Tuesday
+                  </p>
+                  <p class="schedule-home__desc">
+                    The main days of the conference.
+                    We will be running our <a href="/conf/na/2017/speakers/">main track</a> in the Ballroom,
+                    and the <a href="/conf/na/2017/unconference/">Unconference</a> downstairs in Lola's Room.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section> <section class="section">
+   <div class="row">
+      <div class="col-xs-12">
+       <div class="section__header subheader">
+         <span class="subheader__yellow"></span>
+          <h2 class="subheader__header">Speakers</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-matthew-desmond">
+           <div class="person">
+             <img src="/_static/img/speakers/matthew-desmond.jpg" alt="Matthew Desmond" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Matthew Desmond</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-heidi-waterhouse">
+           <div class="person">
+             <img src="/_static/img/speakers/heidi-waterhouse.jpg" alt="Heidi Waterhouse" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Heidi Waterhouse</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-kenzie-woodbridge">
+           <div class="person">
+             <img src="/_static/img/speakers/kenzie-woodbridge.jpg" alt="Kenzie Woodbridge" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Kenzie Woodbridge</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-lyzi-diamond">
+           <div class="person">
+             <img src="/_static/img/speakers/lyzi-diamond.jpg" alt="Lyzi Diamond" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Lyzi Diamond</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-mike-jang">
+           <div class="person">
+             <img src="/_static/img/speakers/mike-jang.jpg" alt="Mike Jang" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Mike Jang</p>
+           </div>
+           </a>
+         </div>
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-margaret-eker">
+           <div class="person">
+             <img src="/_static/img/speakers/margaret-eker.jpg" alt="Margaret Eker" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Margaret Eker</p>
+           </div>
+           </a>
+         </div>
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-laura-stewart">
+           <div class="person">
+             <img src="/_static/img/speakers/laura-stewart.jpg" alt="Laura Stewart" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Laura Stewart</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-tom-johnson">
+           <div class="person">
+             <img src="/_static/img/speakers/tom-johnson.jpg" alt="Tom Johnson" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Tom Johnson</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-christy-lutz">
+           <div class="person">
+             <img src="/_static/img/speakers/christy-lutz.jpg" alt="Christy Lutz" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Christy Lutz</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-matthew-buttler">
+           <div class="person">
+             <img src="/_static/img/speakers/matthew-buttler.jpg" alt="Matthew Buttler" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Matthew Buttler</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-ashleigh-rentz">
+           <div class="person">
+             <img src="/_static/img/speakers/ashleigh-rentz.jpg" alt="Ashleigh Rentz" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Ashleigh Rentz</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-kate-voss">
+           <div class="person">
+             <img src="/_static/img/speakers/kate-voss.jpg" alt="Kate Voss" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Kate Voss</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-sam-faktorovich">
+           <div class="person">
+             <img src="/_static/img/speakers/sam-faktorovich.png" alt="Sam Faktorovich" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Sam Faktorovich</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-jodie-putrino">
+           <div class="person">
+             <img src="/_static/img/speakers/jodie-putrino.jpg" alt="Jodie Putrino" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Jodie Putrino</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-ryan-pitts">
+           <div class="person">
+             <img src="/_static/img/speakers/ryan-pitts.jpg" alt="Ryan Pitts" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Ryan Pitts</p>
+           </div>
+           </a>
+         </div>
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-lindsay-muscato">
+           <div class="person">
+             <img src="/_static/img/speakers/lindsay-muscato.jpg" alt="Lindsay Muscato" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Lindsay Muscato</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-ingrid-towey">
+           <div class="person">
+             <img src="/_static/img/speakers/ingrid-towey.png" alt="Ingrid Towey" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Ingrid Towey</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-amelia-abreu">
+           <div class="person">
+             <img src="/_static/img/speakers/amelia-abreu.jpg" alt="Amelia Abreu" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Amelia Abreu</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-jesse-seldess">
+           <div class="person">
+             <img src="/_static/img/speakers/jesse-seldess.jpg" alt="Jesse Seldess" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Jesse Seldess</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-leona-campbell">
+           <div class="person">
+             <img src="/_static/img/speakers/leona-campbell.png" alt="Leona Campbell" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Leona Campbell</p>
+           </div>
+           </a>
+         </div>
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-david-bastedo">
+           <div class="person">
+             <img src="/_static/img/speakers/david-bastedo.png" alt="David Bastedo" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">David Bastedo</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-melissa-chavez">
+           <div class="person">
+             <img src="/_static/img/speakers/melissa-chavez.jpg" alt="Melissa Chavez" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Melissa Chavez</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-ruthie-bendor">
+           <div class="person">
+             <img src="/_static/img/speakers/ruthie-bendor.png" alt="Ruthie BenDor" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Ruthie BenDor</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-sarah-hersh">
+           <div class="person">
+             <img src="/_static/img/speakers/sarah-hersh.jpg" alt="Sarah Hersh" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Sarah Hersh</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-carl-parker">
+           <div class="person">
+             <img src="/_static/img/speakers/carl-parker.png" alt="Carl Parker" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Carl Parker</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+         
+         <div class="col-xs-6 col-md-1-5 text-center">
+           <a href="speakers/#speaker-andrea-longo">
+           <div class="person">
+             <img src="/_static/img/speakers/andrea-longo.jpg" alt="Andrea Longo" class="person__img" style="border-radius: 50%"/>
+             <p class="person__name">Andrea Longo</p>
+           </div>
+           </a>
+         </div>
+
+         
+
+
+ 
+
+   </div>
+</section><!-- News -->
+<section class="section">
+  <div class="row">
+    <div class="col-xs-12">
+      <div class="section__header subheader">
+        <span class="subheader__yellow"></span>
+        <h2 class="subheader__header">Latest News</h2>
+        <a href="news/" class="subheader__more">Read all news</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-xs-12 col-md-4">
+      <a href="news/welcome/" class="well news__tile">
+        <h3 class="well__title">
+          Welcome to Write the Docs Portland 2017!
+        </h3>
+        <p class="well__paragraph">
+        The conference is finally here, so here is what we hope is all the practical
+        information that you might need to navigate the event and activities...
+        </p>
+        <div class="well__time">
+          <span>3 PM</span>|<span>May 12, 2017</span>
+        </div>
+      </a>
+    </div>
+
+    <div class="row">
+      <div class="col-xs-12 col-md-4">
+        <a href="news/schedule-social/" class="well news__tile">
+          <h3 class="well__title">
+            Announcing Full Schedule and Social Events
+          </h3>
+          <p class="well__paragraph">
+          Our Portland conference is just two weeks away and we
+          hope you're getting excited!
+          </p>
+          <div class="well__time">
+            <span>3 PM</span>|<span>May 3, 2017</span>
+          </div>
+        </a>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12 col-md-4">
+          <a href="news/announcing-workshops/" class="well news__tile">
+            <h3 class="well__title">
+              Announcing Workshops
+            </h3>
+            <p class="well__paragraph">
+            ... we feel that since the workshops are a new type of activity,
+            they deserve their own announcement!
+            </p>
+            <div class="well__time">
+              <span>3 PM</span>|<span>Apr 1, 2017</span>
+            </div>
+          </a>
+        </div>
+
+    <div class="col-xs-12 col-md-4">
+      <a href="news/announcing-presentations/" class="well news__tile">
+        <h3 class="well__title">
+          Announcing Presentations and Speakers
+        </h3>
+        <p class="well__paragraph">
+        We're excited to share with you the lineup for the 2017 Portland conference.
+        This year we received over 100 proposals...
+        </p>
+        <div class="well__time">
+          <span>3 PM</span>|<span>Mar 13, 2017</span>
+        </div>
+      </a>
+    </div>
+
+    <div class="col-xs-12 col-md-4">
+      <a href="news/announcing-tickets-cfp-website/" class="well news__tile">
+        <h3 class="well__title">
+          Announcing Call for Proposals, Ticket Sales and Website
+        </h3>
+        <p class="well__paragraph">
+        Write the Docs Portland 2017 is a bit over four months away and we hope you're getting excited!
+        </p>
+        <div class="well__time">
+          <span>3 PM</span>|<span>Jan 5, 2017</span>
+        </div>
+      </a>
+    </div>
+
+  </div>
+</section>
+
+
+
+
+<!-- Sponsors -->
+                                          <section class="section section--last">
+
+                                                  <div class="row">
+    <div class="col-xs-12">
+      <div class="section__header subheader">
+        <span class="subheader__yellow"></span>
+                                                                          <h2 class="subheader__header">Sponsors</h2>
+      </div>
+    </div>
+  </div>
+
+                                                  <div class="row">
+                                                          <div class="col-sm-8 col-sm-offset-2">
+                                                                  <p>The conference wouldn't be nearly as great as it is without our wonderful corporate sponsors.
+                                                                  Thanks to these folks for supporting the community.</p>
+                                                          </div>
+                                                  </div><div class="row">
+  <div class="col-sm-offset-3">
+    <a href="http://google.com/">
+    <img src="/_static/img/sponsors/google.png" class="sponsor-image" style="width:600px;padding:40px 0 0 0" />
+    </a>
+  </div>
+
+  <div class="col-sm-offset-3">
+    <a href="http://wordpress.com/">
+    <img src="/_static/img/sponsors/wpcom.png" class="sponsor-image" style="width:600px;padding:40px 0 0 0" />
+    </a>
+  </div>
+
+  <div class="col-sm-offset-3">
+    <a href="http://www.madcapsoftware.com/">
+    <img src="/_static/img/sponsors/madcap.png" class="sponsor-image" style="width:300px;padding:40px 0 0 0" />
+    </a>
+  </div>
+
+  <div class="col-sm-offset-3">
+    <a href="https://developer.mozilla.org/en-US/">
+    <img src="/_static/img/sponsors/mozilla-new.png" class="sponsor-image" style="width:300px;padding:40px 0 0 0" />
+    </a>
+  </div>
+
+  <div class="col-sm-offset-3">
+    <a href="https://newrelic.com/">
+    <img src="/_static/img/sponsors/newrelic-round.png" class="sponsor-image" style="width:300px;padding:40px 0 0 0" />
+    </a>
+  </div>
+
+
+  <div class="clearfix visible-xs-block"></div>
+
+  <div class="col-sm-3 col-sm-offset-3">
+    <a href="https://www.redhat.com/">
+    <img src="/_static/img/sponsors/redhat.png" class="sponsor-image" style="width:100px;padding:40px 0 0 0" />
+    </a>
+  </div>
+
+  <div class="col-sm-3">
+    <a href="https://www.marketo.com/">
+    <img src="/_static/img/sponsors/marketo.png" class="sponsor-image" style="width:100px;padding:40px 0 0 0" />
+    </a>
+  </div>
+
+  <div class="col-sm-3">
+    <a href="https://www.stickermule.com/">
+    <img src="/_static/img/sponsors/stickermule.png" class="sponsor-image" style="width:75px;padding:40px 0 0 0" />
+    </a>
+  </div>
+
+  <div class="col-sm-3 col-sm-offset-3">
+    <a href="https://github.com">
+    <img src="/_static/img/sponsors/github.png" class="sponsor-image" style="width:75px;padding:40px 0 0 0" />
+    </a>
+  </div>
+
+  <div class="col-sm-3">
+    <a href="https://www.knowledgeowl.com/home">
+    <img src="/_static/img/sponsors/knowledgeowl.png" class="sponsor-image" style="width:75px;padding:40px 0 0 0" />
+    </a>
+  </div>
+
+  <div class="col-sm-3">
+    <a href="https://pronovix.com/">
+    <img src="/_static/img/sponsors/provonix.png" class="sponsor-image" style="width:75px;padding:40px 0 0 0" />
+    </a>
+  </div>
+
+  <div class="col-sm-3 col-sm-offset-3">
+    <a href="http://corilla.com/">
+    <img src="/_static/img/sponsors/corilla.jpg" class="sponsor-image" style="width:75px;padding:40px 0 0 0" />
+    </a>
+  </div>
+
+  <div class="col-sm-3">
+    <a href="https://www.elastic.co/">
+    <img src="/_static/img/sponsors/elastic.png" class="sponsor-image" style="width:75px;padding:40px 0 0 0" />
+    </a>
+  </div>
+
+  <div class="col-sm-3">
+    <a href="https://www.algolia.com/">
+    <img src="/_static/img/sponsors/algolia.svg" class="sponsor-image" style="width:75px;padding:40px 0 0 0" />
+    </a>
+  </div>
+
+</div><div class="row">
+  <div class="col-sm-8 col-sm-offset-2">
+  <br />
+  <h3>
+    In kind sponsors
+  </h3>
+  </div>
+</div>
+
+  <div class="row">
+    <div class="col-sm-8 col-sm-offset-2">
+      <p>Write the Docs is also helped out by companies that give their employees time to work on the conference.</p>
+    </div>
+  </div> <div class="row row-sponsors">
+   <!-- Patron -->
+   <div class="col-sm-8 col-sm-offset-2">
+     <a href="https://readthedocs.com">
+     <img src="/_static/img/2016/sponsors/read-the-docs.png" class="sponsor-image" style="width:557px;padding:40px 0 0 0" /></a>
+   </div>
+   <div class="col-sm-5 col-sm-offset-2">
+     <a href="http://www.plaindocs.com/">
+     <img src="/_static/img/sponsors/plaindocs.png" class="sponsor-image" style="width:250px;padding:40px 0 0 0" />
+     </a>
+   </div>
+</div>                                                  </section>
+
+        <!-- Write-ups from the Community -->
+        <section class="section">
+        <div class="row">
+            <div class="col-xs-12">
+              <div class="section__header subheader">
+                <span class="subheader__yellow"></span>
+                <h2 class="subheader__header">Write-Ups from the Community</h2>
+                <br />
+          <ul>
+            <li><a href="https://pronovix.com/blog/api-documentation-wtd-na-2017">API Documentation at WTD NA 2017 | Pronovix #writethedocs </a></li>
+            <li><a href="https://twitter.com/rainbowkenz/status/841744552503345152">Hey @DiverseCauses, congrats on the talk at #writethedocs NA 2017!</a></li>
+            <li><a href="https://opensource.com/article/17/7/write-the-docs-portland-2017">Opensource.com: Tips and top presentations from Write the Docs Portland 2017</a></li>
+            <li><a href="https://feorlen.org/2017/05/26/write-the-docs-portland-conference/">Feorlen's Other Blog: Write the Docs Portland Conference </a></li>
+          </ul>
+        </div>
+       </div>
+      </div>
+    </section>
+
+      </div>
+    </div>
+  </div>
+</div>
+    
+    </main>
+
+
+
+    <!-- FOOTER BLOCK -->
+    <section class="join">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 text-center">
+            <h4 class="join__heading">Join us now!</h4>
+            <a href="/conf/na/2017/welcome-wagon/" class="btn btn-primary button button--narrow buy-ticket__talk">Get ready for the conference with our Welcome Wagon</a>
+
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="instagram">
+      <div class="owl-carousel" id="owl-instagram">
+        <a href="https://www.flickr.com/photos/writethedocs/14151785456/in/album-72157644692192083/" class="instagram__tile">
+          <img src="/_static/img/2016/na/attendees.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/13991334230/in/album-72157644692192083/" class="instagram__tile">
+          <img src="/_static/img/2016/na/group.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/14151984286/in/album-72157644692192083/" class="instagram__tile">
+          <img src="/_static/img/2016/na/tshirt.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/14174678071/in/album-72157644692192083/" class="instagram__tile">
+          <img src="/_static/img/2016/na/laptop.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/" class="instagram__tile">
+          <img src="/_static/img/2016/eu/autoklub-mainhall.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/" class="instagram__tile">
+          <img src="/_static/img/2016/eu/autoklub-foyer.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/21413806368/in/album-72157658925901175/" class="instagram__tile">
+          <img src="/_static/img/2016/eu/outside.jpg" alt="">
+        </a>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-md-9 text-xs-center text-md-left">
+            <ul class="list-unstyled footer__copy copy">
+              <li><p class="copy__item copy__item--first">© 2017 Write the Docs</p> </li>
+              <li><a class="copy__item" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a></li>
+              <li><a href="../../../code-of-conduct/" class="copy__item">Code of Conduct</a></li>
+              <li><a href="../../../" class="copy__item">Write the Docs</a></li>
+
+            </ul>
+          </div>
+          <div class="col-xs-12 col-md-3 text-xs-center text-md-right">
+            <ul class="socials list-inline">
+              <li><a href="https://twitter.com/writethedocs" class="socials__item">&#xe906;</a></li>
+              <li><a href="https://www.flickr.com/photos/writethedocs/" class="socials__item socials__item--flickr">&#xe905;</a></li>
+              <li><a href="https://github.com/writethedocs" class="socials__item">&#xe903;</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- END OF FOOTER BLOCK -->
+
+  </div>
+  <script src="../../../_static/conf-legacy/2017/script.min.js"></script>
+  <script src="../../../_static/conf-legacy/2017/owl.carousel.min.js"></script>
+</body>
+</html>

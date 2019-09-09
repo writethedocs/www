@@ -1,5 +1,5 @@
 :template: {{year}}/index.html
-:banner: _static/2019/assets/headers/WTDHeader.png
+:banner: _static/conf/images/headers/WTDHeader.png
 :orphan:
 
 .. raw:: html

@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2019/assets/headers/hike.png
+:banner: _static/conf/images/headers/hike.png
 
 Visiting {{ city }}
 =======================
