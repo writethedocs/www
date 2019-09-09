@@ -68,7 +68,7 @@ Also noteworthy is the neverending search for both a San Francisco lead meetup o
 Featured jobs
 -------------
 
-* `Technical Writer, Content Marketing (IT products) < https://jobs.writethedocs.org/job/133/technical-writer-content-marketing-it-products/>`__
+* `Technical Writer, Content Marketing (IT products) <https://jobs.writethedocs.org/job/133/technical-writer-content-marketing-it-products/>`__
   Veeam Software
 * `Technical Writer <https://jobs.writethedocs.org/job/137/technical-writer/>`__
   Ripple
