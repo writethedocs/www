@@ -2,22 +2,56 @@
    :tags: stats, newsletter
    :author: Eric Holscher
 
-Write the Docs 2019 mid year update
+Write the Docs 2019 Community Update
 ====================================
 
 
-.. todo::
-
+Hey there documentarians.
+The newsletter team is taking the month off,
+but that doesn't mean the community is standing still.
+We decided to send out a community update to let you know what's going on with the community. 
 
 Salary Survey
 --------------
 
-.. todo::
+The biggest thing that we're excited about is a new `Salary Survey`_.
+The goal here is to help understand a bit more about the pay scales and benefits in the software industry particularly around documentation.
+We hope that this will help people get a better understanding of what an appropriate salary is.
+Most importantly,
+if people are being underpaid we hope this information will allow them to negotiate for more.
+
+The survey is 21 questions broken up into 4 parts.
+Please go ahead and fill it out here: https://www.surveymonkey.com/r/wtd-salary-2019
+
+.. _Salary Survey: http://
 
 Community Interviews
 ---------------------
 
-.. todo::
+We have finished up the summer internship that we ran this year with `Mohit Patel`_.
+We now have `13 interviews with people in the community`_ sharing their history in the industry,
+as well as suggestions for folks who are just getting started.
+
+We're excited to have this resource available for people who are hoping to get into the industry.
+It's often hard to understand how to get started,
+and having so many different stories and backgrounds really shows there isn't a "proper" path,
+but many different ways.
+
+.. _Mohit Patel:  https://mohitpatel.design/2019/08/13/write-the-docs-internship-retrospective/
+.. _13 interviews with people in the community: http://www.writethedocs.org/hiring-guide/#community-spotlight
+
+Another US Conference
+---------------------
+
+We're also excited to start planning another US conference in 2020.
+The goal will be to make closer to folks on the east coast,
+but we haven't figured out exactly where to host it yet.
+
+Currently we're in the process of trying to find suitable venues.
+If you know of a good venue in your city,
+please submit them in our `request for venues`_.
+
+.. _request for venues: http:// 
 
 Meetups
 -------
@@ -34,11 +68,25 @@ Also noteworthy is the neverending search for both a San Francisco lead meetup o
 Featured jobs
 -------------
 
-.. todo::
+* `Technical Writer, Content Marketing (IT products) < https://jobs.writethedocs.org/job/133/technical-writer-content-marketing-it-products/>`__
+  Veeam Software
+* `Technical Writer <https://jobs.writethedocs.org/job/137/technical-writer/>`__
+  Ripple
+* `Documentation & Technical Content Strategist, IPFS <https://jobs.writethedocs.org/job/140/documentation-technical-content-strategist-ipfs/>`__
+  Protocol Labs
+* `Technical Writer - API products <https://jobs.writethedocs.org/job/143/technical-writer-api-products/>`__
+  Cytora
+* `Technical Writer <https://jobs.writethedocs.org/job/144/technical-writer/>`__
+  GitLab
+* `Senior Technical Writer <https://jobs.writethedocs.org/job/145/senior-technical-writer/>`__
+  GitLab
 
 *To apply for these job, or post your own, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
 Thanks
 ------
 
-Thanks to everyone who makes this community one of the most open and inviting in the software industry.
+Thanks again for subscribing to our newsletter and being a member of our community.
+We hope to see you in person soon at one of our events,
+or continue to see you online via this newsletter.
+
