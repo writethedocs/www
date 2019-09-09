@@ -1,7 +1,7 @@
 {% extends "2019/base.html" %}
 
 {% block full_title %}
-Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ cobrand.brand }} {% endif %} {{ year }}
+Home - Write the Docs {{ city }} {%- if cobrand is defined and cobrand %} + {{ cobrand.brand }} {% endif %} {{ year }}
 {% endblock %}
 
 {% block head_link %}
@@ -27,7 +27,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
                             <em>+</em>
                             {{ cobrand.brand_html }}
                             {% endif %}
-                            <em>{{ name }}</em>
+                            <em>{{ city }}</em>
                         </div>
                       {% if not flaglanding %}
                      {% include "2019/" + templatecode + "/menu-mobile.html" %}
@@ -50,7 +50,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
           <em>+</em>
           {{ cobrand.brand_html }}
           {% endif %}
-          <em>{{ name }}</em>
+          <em>{{ city }}</em>
         </a>
       </div>
       <div class="hero-text">
