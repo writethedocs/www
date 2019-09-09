@@ -45,13 +45,12 @@ Another US Conference
 
 We're also excited to start planning another US conference in 2020.
 The goal will be to make closer to folks on the east coast,
-but we haven't figured out exactly where to host it yet.
+but we haven't figured out where to host it yet.
 
 Currently we're in the process of trying to find suitable venues.
-If you know of a good venue in your city,
-please submit them in our `request for venues`_.
-
-.. _request for venues: http:// 
+We have more details in our :doc:`request for venues </conf/cfp/east-2020>`.
+If you know of a good venue that you think would work well for a Write the Docs conference,
+please let us know!
 
 Meetups
 -------
