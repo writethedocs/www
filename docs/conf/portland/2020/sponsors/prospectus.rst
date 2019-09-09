@@ -40,7 +40,7 @@ and open source organizations.
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
-The **First Draft** package costs {{sponsorship.first_draft.price}}.
+The **First Draft** package costs **{{sponsorship.first_draft.price}}**.
 
 Second Draft
 ------------
@@ -113,19 +113,6 @@ Other Sponsorship Opportunities
 The following a la carte offerings are available either independently or
 combined with one of the previous packages to increase visibility at the event.
 
-Job Fair
---------
-
-Our job fair is a wonderful place to connect with the talented Write the Docs attendees.
-We'll have over {{about.attendees}} people in attendance for our conference,
-and many of those people will come to our job fair to look for new roles and positions.
-
-It is included in all sponsorship packages this year.
-
-- **Logistics**: The Job Fair will be Tuesday morning in {{job_fair.location}}. You can see the timing details on the :ref:`schedule <{{shortcode}}-{{year}}-job-fair>`.
-
-- **Layout**: Every participant will have a table and two chairs reserved for them. Giveaways/flyers are welcome, please make sure everything fits on your table.
-
 Lanyard
 -------
 
@@ -143,8 +130,7 @@ This is great for any company that is looking for contributors to their open sou
 
 **{{sponsorship.second_draft.price}}**
 
-- **Logistics**: The Writing Day runs 10-5 on Sunday.
-<p></p>
+- **Logistics**: The Writing Day is during the day of Sunday.
 
 Inquiries
 =========
@@ -161,6 +147,9 @@ of our expenses must be paid up front.
 
 .. _ticket: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
 .. _tickets: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
+
+{# Hide the ROS until we have a schedule announced, since it mentions a lot of daily details #}
+{% if flaghasschedule %}
 
 Run of Show
 ===========
@@ -280,3 +269,5 @@ How do I ship items?
 Prior to the event, if you'd like to ship swag, we will send you the mailing address **3 weeks** prior to the event. We can't receive packages before that. Anything sent to us will be available at the venue on the day of the event.
 
 Please ship **no more than 5 boxes**. We can't inventory large numbers of boxes before the conference.
+
+{% endif %}
