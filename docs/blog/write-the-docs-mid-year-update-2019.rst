@@ -14,16 +14,16 @@ We decided to send out a community update to let you know what's going on with t
 Salary Survey
 --------------
 
-The biggest thing that we're excited about is a new `Salary Survey`_.
-The goal here is to help understand a bit more about the pay scales and benefits in the software industry particularly around documentation.
-We hope that this will help people get a better understanding of what an appropriate salary is.
-Most importantly,
-if people are being underpaid we hope this information will allow them to negotiate for more.
+The biggest thing that we're excited about is a new :doc:` Salary Survey </surveys/salary-survey-sep-2019>`.
+Our goal is to help people understand the pay scales and benefits in the software industry around documentation.
+This will help people get a better understanding of what an appropriate salary is,
+and then negotiate for a better one.
 
 The survey is 21 questions broken up into 4 parts.
-Please go ahead and fill it out here: https://www.surveymonkey.com/r/wtd-salary-2019
+Please fill it out here: https://www.surveymonkey.com/r/wtd-salary-2019
 
-.. _Salary Survey: http://
+The salary will be open until October 15th, 2019,
+after that we will process the data and publish the results.
 
 Community Interviews
 ---------------------
