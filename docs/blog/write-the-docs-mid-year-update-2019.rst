@@ -14,7 +14,7 @@ We decided to send out a community update to let you know what's going on with t
 Salary Survey
 --------------
 
-The biggest thing that we're excited about is a new :doc:` Salary Survey </surveys/salary-survey-sep-2019>`.
+The biggest thing that we're excited about is a new :doc:`Salary Survey </surveys/salary-survey-sep-2019>`.
 Our goal is to help people understand the pay scales and benefits in the software industry around documentation.
 This will help people get a better understanding of what an appropriate salary is,
 and then negotiate for a better one.
