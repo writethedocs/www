@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="../../../../_static/conf-legacy/2017/styles.min.css" rel="stylesheet" />
+
+
+  
+  <title>Workshops - Write the Docs Portland 2017</title>
+  
+  
+
+
+  
+    
+  
+    <script src='https://js.tito.io/v1' async></script>
+
+    <script src="https://www.google-analytics.com/ga.js"></script>
+    <script type="text/javascript">
+    // google analytics
+    // note: this will create a JS console error when viewing local via file:// uris
+    var _gaq=[['_setAccount','UA-37795838-1'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=('https:'==location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
+    </script>
+
+  <style>
+  /* Sphinx Additions */
+  a.headerlink {
+    display: none;
+  }
+
+  .section > h1 {
+    display: none;
+  }
+  </style>
+
+</head>
+<body>
+    <div class="offcanvas--bg" data-offcanvas-bg></div>
+  <div class="offcanvas" data-offcanvas>
+    <button class="offcanvas__close btn-link" data-offcanvas-close>&#xe901;</button>
+    <ul class="offcanvas__menu menu-mobile">
+      <li class="menu-mobile__item">
+          <a href="../news/">
+            News
+          </a>
+      </li>
+      <li class="menu-mobile__item">
+        <a href="../tickets/">Tickets</a>
+      </li>
+      <li class="menu-mobile__item">
+          <a href="../sponsor/">
+            Sponsor
+          </a>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <span>Program</span>
+        <ul class="menu-mobile__dropdown">
+            <li><a href="../schedule/">Full Schedule</a></li>
+            <li><a href="../speakers/">Sessions</a></li>
+            <li><a href="../hike/">Hike</a></li>
+            <li><a href="../writing-day/">Writing Day</a></li>
+            <li><a href="../lightning-talks/">Lightning Talks</a></li>
+            <li><a href="../unconference/">Unconference</a></li>
+            <li><a href="#">Workshops</a></li>
+        </ul>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <span>Visit</span>
+        <ul class="menu-mobile__dropdown">
+            <li><a href="../venue/">Venue Information</a></li>
+            <li><a href="../visiting/">Visiting Portland</a></li>
+        </ul>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <span>About</span>
+        <ul class="menu-mobile__dropdown">
+            <li><a href="../welcome-wagon/">Welcome Wagon</a></li>
+            <li><a href="../team/">Meet the Team</a></li>
+            <li><a href="../../../">Past Events</a></li>
+            <li><a href="../../../../code-of-conduct/">Code of Conduct</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div class="mobile-bar">
+    <div class="mobile-bar__col mobile-bar__col--hamburger">
+      <button class="mobile-bar__hamburger btn-link" data-offcanvas-icon>&#xe900;</button>
+    </div>
+    <div class="mobile-bar__col mobile-bar__col--logo">
+      <a href="/conf/na/2017/">
+        <img src="../../../../_static/conf-legacy/2017/images/logo-mobile.svg" alt="Write the Docs" class="mobile-bar__logo">
+      </a>
+    </div>
+  </div>
+
+  <div class="menu">
+    <nav class="menu__wrapper">
+      <ul class="menu__list list-unstyled">
+        <li class="menu__list-item menu__list-item--first menu__list-item--active">
+          <a href="../" class="menu__item btn btn-link menu__item--home">
+            &#xe907;
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="../news/" class="menu__item btn btn-link">
+            News
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="../tickets/" class="menu__item btn btn-link">
+            Tickets
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="../sponsor/" class="menu__item btn btn-link">
+            Sponsor
+          </a>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="../schedule/" class="menu__item btn btn-link">
+            Program
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="../schedule/">Full Schedule</a></li>
+            <li><a href="../speakers/">Sessions</a></li>
+            <li><a href="../hike/">Hike</a></li>
+            <li><a href="../writing-day/">Writing Day</a></li>
+            <li><a href="../lightning-talks/">Lightning Talks</a></li>
+            <li><a href="../unconference/">Unconference</a></li>
+            <li><a href="#">Workshops</a></li>
+          </ul>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="../visiting/" class="menu__item btn btn-link">
+            Visit
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="../venue/">Venue Information</a></li>
+            <li><a href="../visiting/">Visiting Portland</a></li>
+          </ul>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="#" class="menu__item btn btn-link">
+            About
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="../welcome-wagon/">Welcome Wagon</a></li>
+            <li><a href="../team/">Meet the Team</a></li>
+            <li><a href="../../../">Past Events</a></li>
+            <li><a href="../../../../code-of-conduct/">Code of Conduct</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>
+
+  <div class="container-fluid">
+
+    <!-- MAIN SECTION -->
+    
+<main>
+
+    
+    <header class="header">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 text-center">
+            <a href="/conf/na/2017/" class="header__logo">
+              <img src="../../../../_static/conf-legacy/2017/images/logo-subpage.svg" alt="Write the Docs Portland">
+            </a>
+            <h1 class="header__title">Workshops</h1>
+          </div>
+        </div>
+      </div>
+    </header>
+    
+
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 text-left">
+          <div class="main-container main">
+            
+              <div class="section" id="workshops">
+<h1>Workshops<a class="headerlink" href="#workshops" title="Permalink to this headline">¶</a></h1>
+<p>This year we are launching workshops, a new activity type inspired once again by our friends at various open-source software conferences. The workshops will be held during the writing day, in dedicated rooms in the conference venue.</p>
+<p>The main goal of the workshops is to bring together folks who are interested to learn from different experts in relevant fields in a focused environment.</p>
+<ul class="simple">
+<li>Date &amp; Time: <strong>Sunday, May 14th, 9am-5pm</strong></li>
+<li>Location: <strong>Crystal Ballroom, 1332 W Burnside St</strong>. We will be in Lola’s Room (on the second floor).</li>
+</ul>
+<div class="section" id="workshop-schedule">
+<h2>Workshop Schedule<a class="headerlink" href="#workshop-schedule" title="Permalink to this headline">¶</a></h2>
+<div class="row">
+  <div class="col-xs-2">
+    <p>8:30</p>
+  </div>
+  <div class="col-xs-10>
+    <p class=">
+    Doors Open, Breakfast Served
+    </p>
+  </div>
+</div>
+
+
+
+<div class="row">
+  <div class="col-xs-2">
+    <p>9:00</p>
+  </div>
+  <div class="col-xs-10>
+    <p class=">
+    Workshop begins: Learn how to Git
+    </p>
+  </div>
+</div>
+
+
+
+<div class="row">
+  <div class="col-xs-2">
+    <p>12:30</p>
+  </div>
+  <div class="col-xs-10>
+    <p class=">
+    Workshop ends: Learn how to Git. Lunch Break
+    </p>
+  </div>
+</div>
+
+
+
+<div class="row">
+  <div class="col-xs-2">
+    <p>13:30</p>
+  </div>
+  <div class="col-xs-10>
+    <p class=">
+    Workshop begins: Structuring and writing documentation
+    </p>
+  </div>
+</div>
+
+
+
+<div class="row">
+  <div class="col-xs-2">
+    <p>17:00</p>
+  </div>
+  <div class="col-xs-10>
+    <p class=">
+    Workshop ends: Structuring and writing documentation
+    </p>
+  </div>
+</div></div>
+<div class="section" id="what-can-i-learn-in-the-workshops">
+<h2>What can I learn in the workshops?<a class="headerlink" href="#what-can-i-learn-in-the-workshops" title="Permalink to this headline">¶</a></h2>
+<p>This year we have two workshops, one that covers writing related topics and one that covers development related topics.</p>
+<p>For specific information about this year’s topics, see the <a class="reference external" href="https://www.writethedocs.org/conf/na/2017/speakers/">Sessions page</a>. The workshop sessions are labeled with a “Workshop” prefix.</p>
+<p>Based on feedback and demand, we might increase the number of workshops in the following years. Please let us know how we can develop this activitiy!</p>
+</div>
+<div class="section" id="is-the-workshop-included-in-my-conference-ticket">
+<h2>Is the workshop included in my conference ticket?<a class="headerlink" href="#is-the-workshop-included-in-my-conference-ticket" title="Permalink to this headline">¶</a></h2>
+<p>In short, no. Due to the amount of work required by the instructors to prepare the workshops, and the attention that is needed to be given during the workshops, these are priced separately.</p>
+<p>We created individual tickets on our <a class="reference external" href="https://ti.to/writethedocs/write-the-docs-na-2017/">registration website</a> so that you can register to whichever workshop you choose separately.</p>
+<p>The workshops have a limited capacity of <strong>30 people</strong>, so we can provide an effective and comfortable learning experience.</p>
+</div>
+<div class="section" id="what-should-i-do-to-prepare-for-the-workshop">
+<h2>What should I do to prepare for the workshop?<a class="headerlink" href="#what-should-i-do-to-prepare-for-the-workshop" title="Permalink to this headline">¶</a></h2>
+<p>Get excited about learning a new thing! Of course, bringing a laptop or writing tools to take notes is usually recommended.</p>
+<p>Workshops require a laptop with some software prerequisites; participants will receive an email listing any (software) requirements well in advance.</p>
+</div>
+</div>
+
+            
+          </div>
+        </div>
+      </div>
+    </div>
+
+</main>
+
+
+
+    <!-- FOOTER BLOCK -->
+    <section class="join">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 text-center">
+            <h4 class="join__heading">Join us now!</h4>
+            <a href="/conf/na/2017/welcome-wagon/" class="btn btn-primary button button--narrow buy-ticket__talk">Get ready for the conference with our Welcome Wagon</a>
+
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="instagram">
+      <div class="owl-carousel" id="owl-instagram">
+        <a href="https://www.flickr.com/photos/writethedocs/14151785456/in/album-72157644692192083/" class="instagram__tile">
+          <img src="/_static/img/2016/na/attendees.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/13991334230/in/album-72157644692192083/" class="instagram__tile">
+          <img src="/_static/img/2016/na/group.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/14151984286/in/album-72157644692192083/" class="instagram__tile">
+          <img src="/_static/img/2016/na/tshirt.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/14174678071/in/album-72157644692192083/" class="instagram__tile">
+          <img src="/_static/img/2016/na/laptop.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/" class="instagram__tile">
+          <img src="/_static/img/2016/eu/autoklub-mainhall.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/" class="instagram__tile">
+          <img src="/_static/img/2016/eu/autoklub-foyer.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/21413806368/in/album-72157658925901175/" class="instagram__tile">
+          <img src="/_static/img/2016/eu/outside.jpg" alt="">
+        </a>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-md-9 text-xs-center text-md-left">
+            <ul class="list-unstyled footer__copy copy">
+              <li><p class="copy__item copy__item--first">© 2017 Write the Docs</p> </li>
+              <li><a class="copy__item" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a></li>
+              <li><a href="../../../../code-of-conduct/" class="copy__item">Code of Conduct</a></li>
+              <li><a href="../../../../" class="copy__item">Write the Docs</a></li>
+
+            </ul>
+          </div>
+          <div class="col-xs-12 col-md-3 text-xs-center text-md-right">
+            <ul class="socials list-inline">
+              <li><a href="https://twitter.com/writethedocs" class="socials__item">&#xe906;</a></li>
+              <li><a href="https://www.flickr.com/photos/writethedocs/" class="socials__item socials__item--flickr">&#xe905;</a></li>
+              <li><a href="https://github.com/writethedocs" class="socials__item">&#xe903;</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- END OF FOOTER BLOCK -->
+
+  </div>
+  <script src="../../../../_static/conf-legacy/2017/script.min.js"></script>
+  <script src="../../../../_static/conf-legacy/2017/owl.carousel.min.js"></script>
+</body>
+</html>

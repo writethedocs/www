@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/group.png
+:banner: _static/conf/images/headers/group.png
 
 Welcome Wagon
 =============
@@ -10,7 +10,9 @@ with both the information on this page, and events we run during the conference.
 On this page you'll find important stuff that will help you navigate the conference like a pro,
 make you feel more at home, and help you to manage the constant flow of information.
 
-Dururing the conferencce, we'll connect you with people - both veterans and other first-timers.
+.. image:: /_static/conf/images/pics/welcome-wagon.jpg
+
+Dururing the conference, we'll connect you with people - both veterans and other first-timers.
 And we'll give you strategies and tips so you can make the most of the conference.
 
 The `FAQs <#faq>`_ should have answers to most of your questions, but let us know if there is anything you'd like to know that isn't there. You can ask us questions in the :doc:`#wtd-conferences channel on Slack </slack>`.
@@ -19,8 +21,6 @@ Who we are
 -----------
 
 Hi - we're Beth and Daniel, your Welcome Wagon volunteers! We're really glad you're coming to the {{year}} Write the Docs conference.
-
-.. image:: /_static/2018/assets/images/pics/welcome-wagon.jpg
 
 If you need a hand at all, we're here to help.
 

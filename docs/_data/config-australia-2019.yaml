@@ -12,7 +12,7 @@ email: australia@writethedocs.org
 color: coral
 
 photos:
-  default: _static/2019/assets/headers/WTDHeader.png
+  default: _static/conf/images/headers/WTDHeader.png
 
 buttons:
   top:

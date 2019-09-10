@@ -63,9 +63,8 @@ blog_locations = {
 blog_default_location = 'PDX'
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 
-templates_path = ['_templates', 'include']
-templates_path.append(ablog.get_html_templates_path())
-
+templates_path = ['_templates', 'include', ablog.get_html_templates_path()]
+html_extra_path = ['_static_html']
 source_suffix = ['.rst', '.md']
 
 master_doc = 'index'
@@ -172,3 +171,5 @@ def setup(app):
     app.add_transform(AutoStructify)
     app.add_stylesheet('css/global-customizations.css')
     app.add_javascript('js/jobs.js')
+
+    app.config.wtd_cache = {}
