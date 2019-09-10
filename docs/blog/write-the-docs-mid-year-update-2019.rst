@@ -14,16 +14,16 @@ We decided to send out a community update to let you know what's going on with t
 Salary Survey
 -------------
 
-The biggest thing that we're excited about is a new :doc:`Salary Survey </surveys/salary-survey-sep-2019>`.
-Our goal is to help people understand the pay scales and benefits in the software industry around documentation.
-This will help people get a better understanding of what an appropriate salary is,
-and then negotiate for a better one.
+The thing that we're most excited about is our new :doc:`Salary Survey </surveys/salary-survey-sep-2019>`.
+Our goal is to get a clear idea of the pay scales and benefits in the software industry around documentation.
+Publishing the results will help people get a better understanding of what an appropriate salary is,
+and negotiate a better one.
 
 The survey is 21 questions broken up into 4 parts.
 Please fill it out here: https://www.surveymonkey.com/r/wtd-salary-2019
 
 The salary will be open until October 15th, 2019,
-after that we will process the data and publish the results.
+after that we will process the data and publish the anonymized results.
 
 Community Interviews
 --------------------
@@ -44,8 +44,8 @@ A US East Conference
 --------------------
 
 We're also excited to start planning another US conference in 2020.
-The goal will be to make closer to folks on the east coast,
-but we haven't figured out where to host it yet.
+We want to make this one somewhere closer to folks on the east coast,
+but we haven't figured out exactly where to host it yet.
 
 Currently we're in the process of trying to find suitable venues.
 We have more details in our :doc:`request for venues </conf/cfp/east-2020>`.
@@ -56,7 +56,7 @@ Meetups
 -------
 
 We're almost at 50 meetups now, including a newly created `remote meetup <http://writethedocsremote.tk/#events/>`_!
-Kick off event 09/10/2019 8:30pm EDT.
+The kick-off event was a few days ago, and we're eager to hear how it went.
 
 Speaking of remote events, on October 7th, Deborah Barnard and Lorna Jane from our North England meetup are running a virtual docs hackathon as part of `Hacktoberfest <https://hacktoberfest.digitalocean.com/>`_, more info at https://www.starfallprojects.co.uk/blog/hacktoberfest-2019/
 
