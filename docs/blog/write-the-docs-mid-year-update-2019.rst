@@ -68,17 +68,17 @@ Featured jobs
 -------------
 
 * `Technical Writer, Content Marketing (IT products) <https://jobs.writethedocs.org/job/133/technical-writer-content-marketing-it-products/>`__
-  Veeam Software
+   Veeam Software
 * `Technical Writer <https://jobs.writethedocs.org/job/137/technical-writer/>`__
-  Ripple
+   Ripple
 * `Documentation & Technical Content Strategist, IPFS <https://jobs.writethedocs.org/job/140/documentation-technical-content-strategist-ipfs/>`__
-  Protocol Labs
+   Protocol Labs
 * `Technical Writer - API products <https://jobs.writethedocs.org/job/143/technical-writer-api-products/>`__
-  Cytora
+   Cytora
 * `Technical Writer <https://jobs.writethedocs.org/job/144/technical-writer/>`__
-  GitLab
+   GitLab
 * `Senior Technical Writer <https://jobs.writethedocs.org/job/145/senior-technical-writer/>`__
-  GitLab
+   GitLab
 
 *To apply for these job, or post your own, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
