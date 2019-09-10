@@ -2,7 +2,7 @@ Write the Docs East 2020 Call for Venues
 ========================================
 
 We're also excited to start planning another US conference in 2020.
-The goal will be to make closer to folks on the east coast,
+The goal is to make it closer to folks on the east coast,
 but we haven't figured out exactly where to host it yet.
 
 We're thinking of hosting it sometime in the fall,
@@ -11,14 +11,14 @@ to give folks who want to attend both a chance to, and so things don't get too h
 Requirements
 ------------
 
-We have some lose requirements for venues that we're looking for.
+We have some loose requirements for venues that we're looking for.
 It's OK if a venue doesn't fit one or two of these,
-but they are the general goal of what we're looking for.
+but this is a general picture of what we're looking for.
 
-* Fits up to 250 people
-    - Preferably with some tables along with chairs, but not a requirement
-* Has character. We are quite unlikely to try and use a conference center or hotel basement, as that is really not the vibe we're going for.
-* Has two or three additional rooms for an Unconference room (large or multiple small/medium), Staff/Green room (small), and Quiet room (small). The more additional rooms the better
+* Fits up to 250 people.
+    - Preferably with some tables along with chairs, but not a requirement.
+* Has character. We are unlikely to use a conference center or hotel space--it's not the vibe we're going for.
+* Has two or three additional rooms for an Unconference room (large or multiple small/medium), Staff/Green room (small), and Quiet room (small). The more additional rooms the better.
 * Not too expensive. Around or below $10,000 for the rental is a good starting point, but even better if it's free with a catering minimum or other deal.
 
 Questions
@@ -27,7 +27,7 @@ Questions
 Here are some good questions to answer when you think about the venue:
 
 * Is the venue easily reachable by public transit and/or does it have sufficient parking, depending on the transit options in your local area?
-* Is there affordable accommodations nearby? 
+* Are there affordable accommodations nearby? 
 * Does the venue allow for catering by other parties, or what are the options for food?
 * Does the venue have enough wifi/internet capacity, or can more be added?
 
