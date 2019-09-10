@@ -12,7 +12,7 @@ but that doesn't mean the community is standing still.
 We decided to send out a community update to let you know what's going on with the community. 
 
 Salary Survey
---------------
+-------------
 
 The biggest thing that we're excited about is a new :doc:`Salary Survey </surveys/salary-survey-sep-2019>`.
 Our goal is to help people understand the pay scales and benefits in the software industry around documentation.
@@ -26,7 +26,7 @@ The salary will be open until October 15th, 2019,
 after that we will process the data and publish the results.
 
 Community Interviews
----------------------
+--------------------
 
 We have finished up the summer internship that we ran this year with `Mohit Patel`_.
 We now have `13 interviews with people in the community`_ sharing their history in the industry,
@@ -40,8 +40,8 @@ but many different ways.
 .. _Mohit Patel:  https://mohitpatel.design/2019/08/13/write-the-docs-internship-retrospective/
 .. _13 interviews with people in the community: http://www.writethedocs.org/hiring-guide/#community-spotlight
 
-Another US Conference
----------------------
+A US East Conference
+--------------------
 
 We're also excited to start planning another US conference in 2020.
 The goal will be to make closer to folks on the east coast,
