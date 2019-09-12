@@ -27,7 +27,7 @@ buttons:
     # - text: Prepare with the Welcome Wagon
     #  link: /welcome-wagon
     - text: Watch the Live Stream
-     link: /livestream
+      link: /livestream
     # - text: Browse the photos
     #  link: /livestream
 
