@@ -9,7 +9,7 @@ Hey there documentarians!
 
 The newsletter team is taking the month off,
 but that doesn't mean the community is standing still.
-We're sending out a community update to let you know about a few things we're working on while they take a much deserved break.
+We're sending out a (somewhat belated :D) community update to let you know about a few things we're working on while they take a much deserved break.
 
 We're looking forward to seeing everyone in `Prague <http://www.writethedocs.org/conf/prague/2019/>`_ in a few days.
 If you aren't able to make it,
