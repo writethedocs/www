@@ -25,6 +25,11 @@ Alexandra Perkins
 
 {% include "bios/alexandra.rst" %}
 
+Samuel Wright
+~~~~~~~~~~~~~~~~~~
+
+{% include "bios/sam.rst" %}
+
 
 Primary Roles
 -------------
@@ -35,17 +40,17 @@ Filled Roles
 ~~~~~~~~~~~~~
 
 * **Conference chair** - Swapnil Ogale
-* **Swag coordinator** - Deepti Korwar
+* **Swag coordinator** - TBA
 * **Speaker wrangler** - TBA
-* **Infrastructure chair** - TBA
+* **Infrastructure chair** - Samuel Wright
 * **Lightning Talk coordinator** - TBA
 * **Communication chair** - Swapnil Ogale
 * **Volunteer coordinator** - Alexandra Perkins
 * **Sponsorship** - Swapnil Ogale, Michalina Ziemba
 * **Unconference coordinator** - TBA
-* **Emcee** - TBA
+* **Emcee** - Linette Voller
 
-Organizers Needed
+Organisers Needed
 ~~~~~~~~~~~~~~~~~
 
 * **Welcome Wagon coordinators** - TBA

@@ -100,7 +100,7 @@ cfp:
 
 flaglanding: False
 flagspeakersannounced: False
-flagcfp: True
+flagcfp: False
 flaghassponsors: True
 flaghasschedule: False
 
