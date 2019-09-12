@@ -12,4 +12,4 @@ The survey is 21 questions broken up into 4 parts.
 Please go ahead and fill it out here: https://www.surveymonkey.com/r/wtd-salary-2019
 
 The salary will be open until **October 31st, 2019**,
-after that we will process the data and publish the results.
+after that we will process the data and publish the anonymized results.
