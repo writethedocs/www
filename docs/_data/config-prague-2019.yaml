@@ -12,7 +12,7 @@ email: prague@writethedocs.org
 color: coral
 
 photos:
-  default: _static/2019/assets/headers/prague-group.png
+  default: _static/conf/images/headers/prague-group.png
 
 buttons:
   top:
@@ -76,6 +76,8 @@ sponsors:
       link: https://www.kiwi.com/
     - name: people-text
       link: https://www.people-text.de/
+    - name: jetbrains
+      link: https://www.jetbrains.com/
   first:
     - name: buildkite
       link: https://buildkite.com/

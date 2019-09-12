@@ -30,8 +30,8 @@ Each conference has a specific team that helps run that event.
 For this year,
 you can see who is helping out:
 
-* :doc:`Portland 2017 Team </conf/na/2017/team>`
-* :doc:`Prague 2017 Team </conf/eu/2017/staff>`
+* :doc:`Portland 2019 Team </conf/portland/2019/team>`
+* :doc:`Prague 2019 Team </conf/prague/2019/team>`
 
 .. _moderation-team:
 
