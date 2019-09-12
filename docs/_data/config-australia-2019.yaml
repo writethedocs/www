@@ -107,8 +107,8 @@ cfp:
   notification: Friday, Aug 30th
 
 flaglanding: False
-flagspeakersannounced: False
-flagcfp: True
+flagspeakersannounced: True
+flagcfp: False
 flaghassponsors: True
 flaghasschedule: False
 
