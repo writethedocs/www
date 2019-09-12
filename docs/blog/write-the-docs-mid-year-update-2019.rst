@@ -70,7 +70,7 @@ but many different ways.
 Meetups
 -------
 
-We're almost at 50 meetups now, including a newly created `remote meetup <http://writethedocsremote.tk/#events/>`_!
+We're almost at `50 meetups <http://www.writethedocs.org/meetups/>`_ now, including a newly created `remote meetup <http://writethedocsremote.tk/#events/>`_!
 The kick-off event was a few days ago, and we're eager to hear how it went.
 
 Speaking of remote events, on October 7th, Deborah Barnard and Lorna Jane from our North England meetup are running a virtual docs hackathon as part of `Hacktoberfest <https://hacktoberfest.digitalocean.com/>`_, more info at https://www.starfallprojects.co.uk/blog/hacktoberfest-2019/
