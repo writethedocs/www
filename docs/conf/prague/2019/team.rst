@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/team.png
+:banner: _static/conf/images/headers/team.png
 
 Meet the Team
 =============
@@ -46,7 +46,7 @@ Filled Roles
 * **Swag** - Mikey Ariel
 * **Infrastructure** - Sam Wright
 * **Writing Day** - Chris Ward
-* **Unconference** - TBD
+* **Unconference** - Eric Holscher
 * **Lightning Talks** - Paul Adams
 * **Job Fair** - Eric Holscher
 * **Communications** - Mikey Ariel

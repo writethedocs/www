@@ -3,14 +3,14 @@ Documentation Guide
 ===================
 
 This guide gathers the collective wisdom of the Write the Docs community around best practices for creating
-software documentation. 
+software documentation.
 
 **This is a living, breathing guide.**
 If you'd like to contribute,
 you can read our :doc:`contributing <contributing>` documentation.
 Also feel free to send us any additions in any format to support@writethedocs.org.
 
-Take a look also at the :doc:`guidelines for contributing to the guide <contributing>`. If you have any questions about contributing, 
+Take a look also at the :doc:`guidelines for contributing to the guide <contributing>`. If you have any questions about contributing,
 you can send them along to guide@writethedocs.org too.
 
 
@@ -24,14 +24,15 @@ New to Caring About Documentation?
    starting
    writing/mindshare
    writing/docs-principles
-   
+   imposter
+
 
 Experienced Documentarian?
 --------------------------
 
 .. toctree::
    :maxdepth: 2
-  
+
    writing/style-guides
 
 * Structuring your Documentation
@@ -80,7 +81,6 @@ API Documentation
 .. toctree::
    :maxdepth: 2
 
-   api/about-api-documentation
    api/languages
    api/generating-documents
    api/testing
@@ -122,4 +122,8 @@ Additional Notes
 Write the Docs Resources
 ------------------------
 
-.. include:: /include/resources.rst
+* Conference: https://www.writethedocs.org/
+* Slack: `Write the Docs <http://slack.writethedocs.org/>`_
+* Twitter: http://twitter.com/writethedocs
+* Issues & feature requests: https://github.com/writethedocs/docs/issues
+* Source repository: https://github.com/writethedocs/docs

@@ -1,3 +1,5 @@
+:tags:  career-growth, applying-for-jobs, storytelling,  related-careers
+
 Interview with Christian Bahnweg
 ================================
 

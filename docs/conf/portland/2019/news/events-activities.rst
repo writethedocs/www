@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/{{year}}/assets/headers/venue.png
+:banner: _static/conf/images/headers/venue.png
 
 .. post:: March 25, 2019
    :tags: tickets, events, practical, shirts, portland-2019

@@ -1,22 +1,24 @@
+:tags: career-growth, applying-for-jobs, storytelling
+
 Interview with Lana Brindley
-=========================
+=============================
 
 Lana is a technical writer at SUSE. Her work has primarily been with open source software, and she has been writing technical documentation and leading writing teams for 12 years.
 
 Key takeaways
-*************
+-------------
 
 * Write whatever you can to build and show off your skills.
 * Make connections. "No matter where you are in your career, always choose at least one mentor and one mentee. There is always something you can learn, and something you can teach."
 
 **What is the story of your career so far?**
 
-    So I started out working as a general dogsbody at a very tiny startup that made RFID tracking devices. The startup failed before
+    So I started out working as a general :term:`dogsbody` at a very tiny startup that made RFID tracking devices. The startup failed before
     it got going, but I formed a close relationship with the CTO there, who recognised my writing skills and introduced me to the
     world of technical writing. I had always been fascinated by open source, so when I landed a tech writing job at Red Hat, it was
-    like a dream come true for me. After six years at Red Hat, and leading a team of 13 writers, I was asked if I wanted to start a
-    new tech writing team from scratch at Rackspace, which was an amazing experience. During that period, I was also elected to run
-    the OpenStack documentation team, and I honestly learned more about leadership in this community setting than I ever could have in
+    like a dream come true for me. After six years at `Red Hat`_, and leading a team of 13 writers, I was asked if I wanted to start a
+    new tech writing team from scratch at `Rackspace`_, which was an amazing experience. During that period, I was also elected to run
+    the `OpenStack`_ documentation team, and I honestly learned more about leadership in this community setting than I ever could have in
     the corporate world. Unfortunately, Rackspace laid us all off in 2017 and, because of an injury that happened about the same time,
     I spent about a year out of work. I used that time to study my MBA, which I have just completed, and landed on my feet last year
     when I joined SUSE. Definitely more good luck than good management, though, I think!
@@ -29,7 +31,7 @@ Key takeaways
     Information Systems, which gave me a basic grounding in software development. During university, I made friends with a lot of
     people who were studying IT subjects, so I ended up spending a lot of my spare time in the computer lab with those people, which
     is where I first learned about open source as well. Later, when I discovered the field of technical writing, it felt like it was
-    the job I had been looking for all that time
+    the job I had been looking for all that time.
 
 **Had you been contributing to open source projects before working for Red Hat?**
 
@@ -37,7 +39,7 @@ Key takeaways
     introduction to the community. While I was working there, I contributed to the Open/Libre Office community, and became involved
     with linux.conf.au (which I am still involved with), and the Open Source Developer's Conference (which is now defunct). I also got
     to know various people in the open source documentation world, including Anne Gentle, who I eventually ended up working with at
-    OpenStack. I also started working with some women in tech groups during that period, especially Girl Geek Dinners
+    OpenStack. I also started working with some women in tech groups during that period, especially `Girl Geek Dinners`_.
 
 
 **When you were applying for that job at Red Hat, what were you showing in terms of a portfolio?**
@@ -75,6 +77,19 @@ Key takeaways
     that it's not always easy. That said, most larger open source groups (especially those that are backed by organisations like SUSE
     and Red Hat) have some kind of mentoring program that can help you with your first contribution if you really don't know where to
     start. And that's probably my other big tip: no matter where you are in your career, always choose at least one mentor and one
-    mentee. There is always something you can learn, and something you can teach
+    mentee. There is always something you can learn, and something you can teach.
 
 Lana goes by ``loquacity`` on the Write the Docs Slack group, and @Loquacities on Twitter. You can find her in the ``#australia``, ``#managing-writers``, and ``#remote`` channels.
+
+.. _red hat: https://www.redhat.com/en/jobs
+.. _rackspace: https://jobs.jobvite.com/rackspace/?utm_campaign=Rackspace.com&vs=1919&utm_medium=Other&utm_source=Rackspace.com-DE
+.. _openstack: https://www.openstack.org/community/jobs/
+.. _girl geek dinners: https://girlgeekdinners.com/
+
+Glossary
+********
+
+.. glossary:: 
+
+   dogsbody
+        A person who is given boring, menial tasks to do.

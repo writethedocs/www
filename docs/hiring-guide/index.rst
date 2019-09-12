@@ -25,20 +25,12 @@ the course of their career so far, along with providing some practical advice fo
 If you are willing to share your story with the community, you can contact jobs@writethedocs.org.
 
 .. toctree::
-   :caption: Guide Contents
+   :caption: Interviews
    :maxdepth: 1
+   :glob:
 
-   community-spotlight/interview-ravind-kumar
-   community-spotlight/interview-liz-harris
-   community-spotlight/interview-chris-bahnweg
-   community-spotlight/interview-lana-brindley
+   community-spotlight/*
 
-
-..
-  potential additional topics here could include:
-  choosing a job title for a documentarian,
-  how to ask for/prepare/evaluate writing samples,
-  onboarding expectations
 
 Interview advice
 ----------------
@@ -118,3 +110,22 @@ Questions for curious candidates to ask of interviewers
 * Where do you see the main focus of this role sitting, seen on a triangle with Users, Business, and Technology as the points?
 * What tech/business resources would you allocate to support the documentation?
 * Would you prefer an employee with deep knowledge or broad knowledge?
+
+Useful skills for a technical writer
+------------------------------------
+Develop your capabilities with these professional skills and tools.
+
+Skills and Knowledge:
+
+* Be bold. Own what you do. Not specifically a techwriting skill, but in this field we often need to prove the importance of our work.
+* Be a team worker. You definitely need to communicate with others to get the information required to perform your job. Experts are usually strong personalities; you’ll need to find a path to their heart and mind.
+* Be curious. Don’t hesitate to ask questions even if you think they are “stupid”. These questions may lead to unexpected and useful answers.
+* Be open to new technologies. The more you know, your marketability increases.
+
+Tools and Environments:
+
+* Git or GUI for Git (such as SourceTree)
+* DITA and Markdown
+* Madcap Flare, Adobe Technical Communications Suite, or AuthorIt
+* HTML and CSS
+* Command line skills. CLI is very useful for working with Git (can be easier than GUI), when writing Linux or Unix-related documentation, and as a common language with developers and QA engineers.

@@ -68,6 +68,21 @@ Information about our regional Write the Docs conferences.
    confs/web-resources
    confs/print-resources
 
+We also recommend reading the DevOps Days organizer guide.
+They have very similar philosophies and have a great guide as well:
+
+https://devopsdays.org/organizing/
+
+Community Spotlight
+-------------------
+
+Information about contributing interview content for the community.
+
+.. toctree::
+   :maxdepth: 2
+
+   community-spotlight-interviewing-guide
+    
 Credits
 -------
 

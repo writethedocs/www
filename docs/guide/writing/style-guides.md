@@ -2,7 +2,7 @@
 
 A style guide is a set of standards for the writing and design of content, defining the style to be used in communication within a particular organization. Basically, style guides are put together to clarify [the way a group of people talk and write about the things they do](https://www.writethedocs.org/style-guide/). Think of authoring best practices.
 
-If you happen to have a background in academia or journalism, you will probably be familiar the [AP Stylebook](https://en.wikipedia.org/wiki/AP_Stylebook) or the [Chicago Manual of Style](http://www.chicagomanualofstyle.org/book/ed17/frontmatter/toc.html). Those are great resources for writing in general, particularly for grammar and syntax, but if you're reading this page chances are you are considering style in the context of technical documentation.
+If you happen to have a background in academia or journalism, you will probably be familiar with [AP Stylebook](https://en.wikipedia.org/wiki/AP_Stylebook) or [Chicago Manual of Style](http://www.chicagomanualofstyle.org/book/ed17/frontmatter/toc.html). Those are great resources for writing in general, particularly for grammar and syntax, but if you're reading this page chances are you are considering style in the context of technical documentation.
 
 Style guides help you write a variety of content, such as documenting the methods of an API, or presenting an overview of complex technical concepts, or focusing on how to write particular content like user manuals, release notes, or tutorials.
 
@@ -38,6 +38,7 @@ Here are some good general resources -- perhaps someone in your company is alrea
 - [Oxford manual of style](https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf)
 - [IBM style guide](https://www.ibm.com/developerworks/library/styleguidelines/)
 - [Handbook of Technical Writing](http://www.macmillanlearning.com/Catalog/product/handbookoftechnicalwriting-eleventhedition-alred)
+- [The Red Hat Style Guide](http://stylepedia.net/style/)
 
 If you belong to an open-source community or NGO, you can consider the following resources:
 - [18F Content Guide](https://content-guide.18f.gov)
@@ -63,7 +64,7 @@ Here are some example guides for code samples
 
 ### API documentation
 
-Clear, well-formated, and detailed API documentation is the key for developers to quickly consume and implement your API. It is also key to helping developers understand what happens when an API call is mad, and in the case of failure, understand what went wrong and how to fix it.
+Clear, well-formated, and detailed API documentation is the key for developers to quickly consume and implement your API. It is also key to helping developers understand what happens when an API call is made, and in the case of failure, understand what went wrong and how to fix it.
 
 From the perspective of a user:
 
@@ -113,7 +114,7 @@ It's important to consider accessibility in your style guide to ensure the conte
 Relevant talks from Write the Docs:
 
 - [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write the Docs Prague 2018
-- [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015 
+- [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015
 
 ## Content guidelines
 
@@ -125,7 +126,7 @@ Frequenty Asked Questions (FAQs) exist to educate and guide users through need-t
 
 Effective FAQ pages accomplish the following:
 
-- Reflects the audience needs. This may derrive from understanding search results which lead to the website or documentation.
+- Reflects the audience needs. This may be derived from understanding search results which lead to the website or documentation.
 - Regularly updated to reflect the changes in user behavior and data.
 - Drives users to different parts of the website to deliver more detailed information.
 - Cover a broader range of topics that may not otherwise warrant individual pages or pieces of content.
@@ -138,7 +139,7 @@ Consider the following when creating an entry for your release notes:
 
 1. What is the change/release?
 1. Why did we make this change? Why is it important to our users?
-   1. Improvement in workflow or UI 
+   1. Improvement in workflow or UI
    1. Consistency/feature parity
    1. Expected revenue increase/decrease
    1. Change in phase: Alpha/Beta/GA (Does this need to be called out?)
@@ -148,7 +149,7 @@ Consider the following when creating an entry for your release notes:
 1. Do our users have all the information they need to move forward?
 1. Is there an additional article for users to read to learn more?
 1. Would an image be beneficial to help users understand this release?
-1. What stakeholders have to approve this content? Does the legal team have to approve it?
+1. What stakeholders have to approve this content? Does it require the legal team's approval?
 
 Some example release notes:
 
@@ -163,7 +164,7 @@ Related talks:
 
 ### User Guide / Manuals
 
-### Tutorials / How-To 
+### Tutorials / How-To
 
 ### Concepts, Overview
 

@@ -64,7 +64,7 @@ This year's talks
 
 .. datatemplate::
    :source: /_data/{{year}}.{{shortcode}}.speakers.yaml
-   :template: 2017/simple-talk-list.rst
+   :template: simple-talk-list.rst
 
 {% else %}
 
@@ -73,6 +73,6 @@ List of talks from {{year-1}}
 
 .. datatemplate::
    :source: /_data/{{year-1}}.{{shortcode }}.speakers.yaml
-   :template: 2017/simple-talk-list.rst
+   :template: simple-talk-list.rst
 
 {% endif %}

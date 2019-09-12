@@ -1,5 +1,5 @@
 :template: {{year}}/index.html
-:banner: _static/2018/assets/images/backgrounds/prague-green.jpg
+:banner: _static/conf/images/backgrounds/prague-green.jpg
 :orphan:
 
 .. raw:: html

@@ -12,7 +12,7 @@ email: prague@writethedocs.org
 color: coral
 
 photos:
-  default: _static/2019/assets/headers/prague-group.png
+  default: _static/conf/images/headers/prague-group.png
 
 buttons:
   top:
@@ -20,8 +20,8 @@ buttons:
     #   link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    - text: Buy a Ticket!
-      link: /tickets
+    - text: What to expect?
+      link: /welcome-wagon
     - text: See the talks!
       link: /speakers
     # - text: Prepare with the Welcome Wagon
@@ -56,6 +56,11 @@ sponsorship:
 sponsors:
   keystone:
   patron:
+    # They are actually a publisher, but I want these styles :)
+    - name: mozilla-new
+      link: https://developer.mozilla.org/en-US/
+    - name: document360
+      link: https://document360.io
   publisher:
   second:
     - name: redhat-new
@@ -65,6 +70,14 @@ sponsors:
     - name: knowledgeowl
       link: https://www.knowledgeowl.com
       width: 250px
+    - name: contact-software
+      link: https://www.contact-software.com/en/
+    - name: kiwi
+      link: https://www.kiwi.com/
+    - name: people-text
+      link: https://www.people-text.de/
+    - name: jetbrains
+      link: https://www.jetbrains.com/
   first:
     - name: buildkite
       link: https://buildkite.com/
@@ -112,7 +125,7 @@ about:
   mainroom:
     Main Ballroom
   unconfroom:
-    Unconference Room, across from the Main Ballroom
+    Restaurant and Aero Hall, ground floor
 
 cfp:
   url: https://goo.gl/forms/NdcXO3SGhUxlidht1
@@ -120,13 +133,13 @@ cfp:
   notification: Monday, June 2nd
 
 job_fair:
-  location: Unconference Room, across from the Main Ballroom
+  location: Aero Hall, ground floor
 
 flaghassponsors: True
 flagcfp: False
-flagticketsonsale: True
+flagticketsonsale: False
 flagspeakersannounced: True
-flaghasschedule: False
+flaghasschedule: True
 flagwelcomewagon: False
 flaglivestreaming: False
 flagvideos: false
