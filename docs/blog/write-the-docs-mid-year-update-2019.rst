@@ -9,7 +9,7 @@ Hey there documentarians!
 
 The newsletter team is taking the month off,
 but that doesn't mean the community is standing still.
-We're sending out a (somewhat belated :D) community update to let you know about a few things we're working on while they take a much deserved break.
+We're sending out a (somewhat belated :D) update to let you know about a few things we're working on while they take a much deserved break.
 
 We're looking forward to seeing everyone in `Prague <http://www.writethedocs.org/conf/prague/2019/>`_ in a few days.
 If you aren't able to make it,
@@ -20,9 +20,9 @@ The speaker list will be announced soon and the conference is coming up in a cou
 so start making your travel plans.
 
 Lastly,
-we've also announced the dates for our `Portland <http://www.writethedocs.org/conf/portland/2020/>`_ conference next year on May 3-5, 2020.
+we've also announced the dates for the `Portland <http://www.writethedocs.org/conf/portland/2020/>`_ conference next year on May 3-5, 2020.
 The sponsorship prospectus and a landing page are now online,
-and we'll have more updates on that conference in the coming months.
+with more updates on that conference in the coming months.
 
 Salary Survey
 -------------
@@ -48,7 +48,7 @@ We want to make this one somewhere closer to folks on the east coast,
 but we haven't figured out exactly where to host it yet.
 
 Currently we're in the process of trying to find suitable venues.
-We have more details in our :doc:`request for venues </conf/cfp/east-2020>`.
+There are more details in our :doc:`request for venues </conf/cfp/east-2020>`.
 If you know of a good venue that you think would work well for a Write the Docs conference,
 please let us know!
 
@@ -56,7 +56,7 @@ Community Interviews
 --------------------
 
 We have finished up the summer internship that we ran this year with `Mohit Patel`_.
-We now have `13 interviews with people in the community`_ sharing their history in the industry,
+We now have `13 interviews with people in the community`_ sharing their job history in the industry,
 as well as suggestions for folks who are just getting started.
 
 We're excited to have this resource available for people who are hoping to get into the industry.
