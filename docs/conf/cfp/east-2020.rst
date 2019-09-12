@@ -2,12 +2,13 @@ Write the Docs East 2020 Call for Venues
 ========================================
 
 We're excited to start planning another US conference in 2020.
-The goal is to make it closer to folks on the east coast,
+We want to make this one somewhere closer to folks on the east coast,
 but we haven't figured out exactly where to host it yet.
 
 We're thinking of hosting it sometime in the fall,
-to give folks who want to attend both US events a chance to,
-and so things don't get too hectic for the organizing teams. 
+probably October to offset Portland in May,
+to give folks who want to attend both US events a chance.
+The other consideration is so things don't get too hectic for the organizing teams with our Prague conference in September. 
 
 Requirements
 ------------
