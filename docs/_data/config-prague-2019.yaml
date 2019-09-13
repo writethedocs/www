@@ -22,12 +22,12 @@ buttons:
     #  link: /cfp
     - text: What to expect?
       link: /welcome-wagon
-    - text: See the talks!
-      link: /speakers
+    # - text: See the talks!
+    #   link: /speakers
     # - text: Prepare with the Welcome Wagon
     #  link: /welcome-wagon
-    # - text: Watch the Live Stream
-    #  link: /livestream
+    - text: Watch the Live Stream
+      link: /livestream
     # - text: Browse the photos
     #  link: /livestream
 
@@ -141,7 +141,7 @@ flagticketsonsale: False
 flagspeakersannounced: True
 flaghasschedule: True
 flagwelcomewagon: False
-flaglivestreaming: False
+flaglivestreaming: True
 flagvideos: false
 
 flaghashike: False
