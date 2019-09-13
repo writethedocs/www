@@ -39,4 +39,4 @@ Submit
 We ask any submissions for a venue be sent to support@writethedocs.org.
 We will get back to you if we have any questions.
 
-The deadline for submissions is **December 1, 2019**.
+The deadline for submissions is **November 1, 2019**.
