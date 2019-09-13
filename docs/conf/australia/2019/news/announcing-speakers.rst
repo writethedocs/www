@@ -20,38 +20,10 @@ Full speaker line-up
 
 Every year, we look to bring a wide range of voices to the Write the Docs stage. Because the role of "documentarian" looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure. We're really excited about the presentations we've got this year – we hope you are too!
 
-
-Sarah Maddox - Tech Writing 101 Workshop
-
-Becky Todd - Git the Docs: A fun, hands-on introduction to version control
-
-Riona MacNamara - Knowledge Is Power: Documentation as a tool for equity and inclusion
-
-Alec Clews - Creating API documentation for international communities
-
-Rachel Robins - Supercharge your writing process with a designer's toolkit
-
-Fraser Mitchell - Through the looking glass - how user testing can give technical writers better perspective
-
-Leticia Mooney - The amazing, fantastic human bias that makes you bang your head on your desk
-
-Alexander Koren - Rethinking Release Notes
-
-Akhil Behl - Your First Book - Doesn't have to be rocket science!
-
-Payal Dhiman - Being a user's documentarian: Studying user's behaviour and then defining a strategy for documentation
-
-Paris Buttfield-Addison - Making interactive narrative storytelling accessible to everyone
-
-Elle Geraghty - Information architecture for documentation
-
-Sarah Maddox - Kubeflow open source docs need your help!
-
-Cameron Shorter - TheGoodDocsProject - creating open templates and best-practice writing guides for software documentation
-
-Monica Kiss - Can you make a short video about it?
-
-Nithya Krishnan - Minimal Viable Product: What does this mean for user documentation?
+.. datatemplate::
+   :source: /_data/{{year}}.{{shortcode}}.speakers.yaml
+   :template: {{year}}/speakers-simple-list.rst
+   :include_context:
 
 We will update the Speakers page with full abstracts soon. We hope there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.
 

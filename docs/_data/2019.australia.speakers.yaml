@@ -221,26 +221,6 @@
     website: ''
   title: Through the looking glass - how user testing can give technical writers better
     perspective
-- abstract: '<p>Writing is a fascinating system all its own -- the ability to compress
-    our knowledge down to extremely dense symbolism should amaze us every day. Semantic
-    writing allows us to add another layer of meaning on top of that, to use content
-    bins to organize our writing in a way that allows it to be parsed and reparsed
-    for different mediums, audiences, and needs. Understanding semantic writing is
-    going to give you a mind-blowing view on all the meta-textual information you
-    take for granted every day.</p>
-
-    <p>This talk will cover how to separate meaning from form and how to describe
-    that separation to your average user. I''ll also be talking about how industry-standard
-    tools assist or hinder our ability to fully leverage the semantic power we have
-    to hand. Attendees will leave with several new ideas for writing from unorthodox
-    directions or points of view.</p>'
-  slug: words-and-meta-words-semantic-writing-and-maybe-html-heidi-waterhouse
-  speakers:
-  - name: HEIDI WATERHOUSE
-    slug: heidi-waterhouse
-    twitter: ''
-    website: ''
-  title: 'Words and meta-words: Semantic Writing (and maybe HTML)'
 - abstract: '<p>The purpose of this presentation is to give confidence by sharing
     insights from my experience with authoring four books till date. It was not easy
     starting to write by myself and doing a whole technical piece end-to-end however,
