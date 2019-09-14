@@ -4,7 +4,7 @@
 Doc fixit: TheGoodDocsProject
 ===================================================================================================================
 
-Doc fixit host: Cameron Shorter
+Doc fixit host: **Cameron Shorter**
 
 Surprisingly, the world doesn’t have an open, best-practices suite of writing templates; one which could be used by open-source projects.
 That’s not right. A bunch of us documentarians and open-source community members have decided to create them, and have banded together under the banner of TheGoodDocsProject.

@@ -4,8 +4,8 @@
 Git the Docs: A fun, hands-on introduction to version control
 =============================================================
 
-Workshop hosted by: Becky Todd
- 
+Workshop host: **Becky Todd**
+
 Learning Git for the first time can be intimidating, especially for non-developers.
 When I first learned Git, I did it the hard way (mostly using internet searches and StackOverflow).
 And I hated it. It was confusing, and it seemed like a necessary evil. But it doesn't have to be that way. Learning Git can be fun!
