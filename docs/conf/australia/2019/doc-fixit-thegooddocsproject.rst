@@ -1,8 +1,10 @@
 :template: {{year}}/generic.html
 :banner: _static/conf/images/headers/writing-day.png
 
-Doc fixit: TheGoodDocsProject - creating open templates and best-practice writing guides for software documentation
+Doc fixit: TheGoodDocsProject
 ===================================================================================================================
+
+Doc fixit host: Cameron Shorter
 
 Surprisingly, the world doesn’t have an open, best-practices suite of writing templates; one which could be used by open-source projects.
 That’s not right. A bunch of us documentarians and open-source community members have decided to create them, and have banded together under the banner of TheGoodDocsProject.
@@ -29,7 +31,8 @@ Schedule
 --------
 
 - Date & Time: **TBA**.
-- Location: {{about.mainroom}}. Find out more:
+- Location: {{about.mainroom}}.
+- Find out more:
   :doc:`/conf/australia/2019/venue`
 
 Prerequisites

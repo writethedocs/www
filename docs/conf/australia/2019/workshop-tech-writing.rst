@@ -14,12 +14,9 @@ learning tech writing patterns.
 
 Tech Writing 101 consists of two parts:
 
-* Prework that you should read before the class. Don’t be put off! The prework is
-full of interesting patterns and points for discussion: https://github.com/LisaFC/tw101-reading [https://github.com/LisaFC/tw101-reading]
+* Prework that you should read before the class. Don’t be put off! The prework is full of interesting patterns and points for discussion: `https://github.com/LisaFC/tw101-reading <https://github.com/LisaFC/tw101-reading>`_
 
-* A two-hour workshop at Write the Docs Australia 2019, where you integrate the
-principles from the prework into your writing practices. The interactive format
-of this class has proved to be an effective way of learning the material. And it’s fun!
+* A two-hour workshop at Write the Docs Australia 2019, where you integrate the principles from the prework into your writing practices. The interactive format of this class has proved to be an effective way of learning the material. And it’s fun!
 
 Training the trainers: Google is planning to make the material available for tech
 writers all over the world who want to run the workshop. You can take part in the
@@ -29,23 +26,24 @@ view to running the workshop yourself sometime in the future.
 
 Your workshop hosts are three tech writers from Google:
 
-* Sarah Maddox [https://twitter.com/sarahmaddox]
+* `Sarah Maddox <https://twitter.com/sarahmaddox>`_
 
-* Alec Glassford [https://twitter.com/alecglassford]
+* `Alec Glassford <https://twitter.com/alecglassford>`_
 
-* Alexander Koren [https://www.linkedin.com/in/alexanderkoren]
+* `Alexander Koren <https://www.linkedin.com/in/alexanderkoren>`_
 
 Schedule
 --------
 
 - Date & Time: **TBA**.
-- Location: {{about.mainroom}}. Find out more:
+- Location: {{about.mainroom}}.
+- Find out more:
   :doc:`/conf/australia/2019/venue`
 
 Prerequisites
 -------------
 
-- Read through the prework, so that you can enjoy discussing it during the class: https://github.com/LisaFC/tw101-reading [https://github.com/LisaFC/tw101-reading]
+- Read through the prework, so that you can enjoy discussing it during the class: `https://github.com/LisaFC/tw101-reading <https://github.com/LisaFC/tw101-reading>`_
 
 - Bring a laptop with WiFi capabilities. (A laptop is not essential, but it makes things easier. During the workshop you’ll write some short pieces and review the work of other participants. Having a keyboard and editing facilities helps.)
 

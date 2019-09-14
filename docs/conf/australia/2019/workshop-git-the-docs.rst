@@ -1,9 +1,11 @@
 :template: {{year}}/generic.html
 :banner: _static/conf/images/headers/writing-day.png
 
-Workshop: Git the Docs: A fun, hands-on introduction to version control
-========================================================================
+Git the Docs: A fun, hands-on introduction to version control
+=============================================================
 
+Workshop hosted by: Becky Todd
+ 
 Learning Git for the first time can be intimidating, especially for non-developers.
 When I first learned Git, I did it the hard way (mostly using internet searches and StackOverflow).
 And I hated it. It was confusing, and it seemed like a necessary evil. But it doesn't have to be that way. Learning Git can be fun!
@@ -24,7 +26,8 @@ Schedule
 --------
 
 - Date & Time: **TBA**.
-- Location: {{about.mainroom}}. Find out more:
+- Location: {{about.mainroom}}.
+- Find out more:
   :doc:`/conf/australia/2019/venue`
 
 Prerequisites

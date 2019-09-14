@@ -15,17 +15,18 @@ Best of all, you’ll improve the experience of the developers and data scientis
 
 The doc fixit hosts:
 
-* Sarah Maddox [https://twitter.com/sarahmaddox] (Kubeflow tech writer at Google)
+* `Sarah Maddox <https://twitter.com/sarahmaddox>`_ (Kubeflow tech writer at Google)
 
-* Alec Glassford [https://twitter.com/alecglassford] (Tech writer at Google)
+* `Alec Glassford <https://twitter.com/alecglassford>`_ (Tech writer at Google)
 
-* Riona MacNamara [https://twitter.com/rionam] (Tech writer manager at Google)
+* `Riona MacNamara <https://twitter.com/rionam>`_ (Tech writer manager at Google)
 
 Schedule
 --------
 
 - Date & Time: **TBA**.
-- Location: {{about.mainroom}}. Find out more:
+- Location: {{about.mainroom}}.
+- Find out more:
   :doc:`/conf/australia/2019/venue`
 
 Prerequisites
@@ -33,9 +34,9 @@ Prerequisites
 
 About the Kubeflow docs:
 
-* The Kubeflow doc site is at https://www.kubeflow.org/docs/ [https://www.kubeflow.org/docs/]
+* The Kubeflow doc site is at `https://www.kubeflow.org/docs/ <https://www.kubeflow.org/docs/>`_
 
-* The doc source is on GitHub: https://github.com/kubeflow/website/tree/master/content/docs [https://github.com/kubeflow/website/tree/master/content/docs]
+* The doc source is on GitHub: `https://github.com/kubeflow/website/tree/master/content/docs <https://github.com/kubeflow/website/tree/master/content/docs>`_
 
 Preparing for the Kubeflow doc fixit:
 
@@ -45,13 +46,13 @@ Preparing for the Kubeflow doc fixit:
 
 * Sign the Google Contributor License Agreement (CLA). If you have time to do this before the start of the sprint, that's great. If not, you can do it during the sprint:
 
-* Head over to https://cla.developers.google.com/ [https://cla.developers.google.com/] to see your current agreements on file or to sign a new one. If you've already done this for some other project, you shouldn't need to do it again.
+* Head over to `https://cla.developers.google.com/ <https://cla.developers.google.com/>`_ to see your current agreements on file or to sign a new one. If you've already done this for some other project, you shouldn't need to do it again.
 
 * If you haven't signed the CLA by the time you send your first pull request (PR) during the doc fixit, the automated Googlebot will prompt you to sign the CLA.
 
-* It’s not mandatory to do any prework, but it will help if you know some Markdown: https://www.markdownguide.org/basic-syntax [https://www.markdownguide.org/basic-syntax].
+* It’s not mandatory to do any prework, but it will help if you know some Markdown: `https://www.markdownguide.org/basic-syntax <https://www.markdownguide.org/basic-syntax>`_.
 
-We’ll have a step-by-step guide on how to update the docs, specifically for the doc fixit. If you’d like to get a head start, take a look at the guide to updating the Kubeflow docs [https://github.com/kubeflow/website/blob/master/README.md].
+We’ll have a step-by-step guide on how to update the docs, specifically for the doc fixit. If you’d like to get a head start, take a look at the guide to updating the `Kubeflow docs <https://github.com/kubeflow/website/blob/master/README.md>`_.
 
 Cost (none)
 -----------
