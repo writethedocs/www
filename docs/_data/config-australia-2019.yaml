@@ -77,9 +77,9 @@ date: # how do we handle these? human readable would be nice.
   month: November
   sat:
   day_one:
-    event: Talks/Workshops
+    event: Talks/Doc Fixits/Workshop
     date: Nov 14
-    summary: The first conference day, including talks, workshops, and unconference time.
+    summary: The first conference day, including talks, doc fixit projects, workshops, and unconference time.
     icon: conference
   day_two:
     event: Talks/Workshops
@@ -89,7 +89,7 @@ date: # how do we handle these? human readable would be nice.
 
 about:
   summary:
-    "The main presentation track takes place from **Nov 14-15 (Thursday and Friday) from 8.30am to 5pm**.
+    "The main presentation track takes place from **Nov 14-15 (Thursday and Friday) from 8.30am to 5.30pm**.
     The conference takes place at the historic `Justice and Police Museum <https://sydneylivingmuseums.com.au/justice-police-museum>`_, `centrally located <https://bit.ly/2Z5JrFP>`_ in the heart of Sydney.
     During the main event we also run an :doc:`/conf/australia/2019/unconference` next door in the Police Court.
 

@@ -25,7 +25,7 @@ Every year, we look to bring a wide range of voices to the Write the Docs stage.
    :template: {{year}}/speakers-simple-list.rst
    :include_context:
 
-We will update the Speakers page with full abstracts soon. We hope there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.
+Head over to the Speakers page for full abstracts. We hope there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.
 
 Call for volunteers
 -------------------
