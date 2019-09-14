@@ -14,9 +14,9 @@ learning tech writing patterns.
 
 Tech Writing 101 consists of two parts:
 
-* Prework that you should read before the class. Don’t be put off! The prework is full of interesting patterns and points for discussion: `https://github.com/LisaFC/tw101-reading <https://github.com/LisaFC/tw101-reading>`_
+* Pre-work that you should read before the class. Don’t be put off! The pre-work is full of interesting patterns and points for discussion: `https://github.com/LisaFC/tw101-reading <https://github.com/LisaFC/tw101-reading>`_
 
-* A two-hour workshop at Write the Docs Australia 2019, where you integrate the principles from the prework into your writing practices. The interactive format of this class has proved to be an effective way of learning the material. And it’s fun!
+* A two-hour workshop at Write the Docs Australia 2019, where you integrate the principles from the pre-work into your writing practices. The interactive format of this class has proved to be an effective way of learning the material. And it’s fun!
 
 Training the trainers: Google is planning to make the material available for tech
 writers all over the world who want to run the workshop. You can take part in the

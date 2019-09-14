@@ -2,7 +2,7 @@
 :banner: _static/conf/images/headers/writing-day.png
 
 Git the Docs: A fun, hands-on introduction to version control
-=============================================================
+==============================================================
 
 Workshop host: **Becky Todd**
 
