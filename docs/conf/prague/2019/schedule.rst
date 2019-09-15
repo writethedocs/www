@@ -203,7 +203,7 @@ Job Fair
 We'll be holding a job fair on Tuesday morning!
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **10:30-11:50**
+* **When**: **10:00-12:10**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
 
 Unconference
