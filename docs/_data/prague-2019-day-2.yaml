@@ -4,6 +4,9 @@
 - Duration: '30'
   Session: 'Ellie Farrier - Wild Geeks: Poetry in the Digital Age'
   Time: '10:00'
+- Duration: '0'
+  Session: '<b>Job Fair starts</b>'
+  Time: '10:00'
 - Duration: '10'
   Session: Switch Speakers
   Time: '10:30'
@@ -22,6 +25,9 @@
 - Duration: '30'
   Session: 'Arran Southall - Fostering Talent: Mentorship, Peer Reviews and Going Beyond Your Job Description'
   Time: '12:10'
+- Duration: '0'
+  Session: '<b>Job Fair ends</b>'
+  Time: '10:00'
 - Duration: '10'
   Session: Switch Speakers
   Time: '12:40'
