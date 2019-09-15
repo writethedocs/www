@@ -45,6 +45,7 @@ Approaches to Creating Docs
 
    docs-as-code
    Producing documentation inside a Support team <writing/support-team>
+   Starting-a-new-doc
 
 * Documentation and product development
 * Who writes the docs?
