@@ -75,7 +75,7 @@ We're so excited to be coming up on our first official Australian event! If you'
 * October 11 – Brisbane, QLD, Australia – `Peanuts and Minimalism and Technical Writing <https://www.meetup.com/Write-the-Docs-Australia/events/243038647/>`_
 * October 12 – Leeds, UK – `Social: First Meetup <https://www.meetup.com/Write-the-Docs-Leeds-Bradford/events/242556120/>`_
 * October 12 – San Francisco, CA, USA – `Lightning Talks! <https://www.meetup.com/Write-the-Docs-SF/events/243528992/>`_
-* October 14 – Fredericton, NB, Canada – `Technical Communicator Lunch Social <https://www.meetup.com/Write-The-Docs-YFC-Fredericton/events/243682316/>`_
+* October 14 – Fredericton, NB, Canada – Technical Communicator Lunch Social
 * October 17 – London, UK – `Worked Examples in the Documentation of Complex Systems <https://www.meetup.com/Write-The-Docs-London/events/243010658/>`_
 * October 24 – Boston, MA, USA – `mabl Happy Hour + Lightning Talks <https://www.meetup.com/Write-the-Docs-BOS/events/242428486/>`_
 * October 25 – Austin, TX, USA – `Content strategy for your docs <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/242784674/>`_
