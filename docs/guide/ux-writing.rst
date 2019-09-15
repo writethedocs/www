@@ -9,27 +9,34 @@ In other words: A UX writer’s skill set has a lot in common with the one of a 
 
 Videos
 ------
+
 * `Abhay Chokshi: “UX Writing - Let Your Product Speak” <https://www.youtube.com/watch?v=TGdm-1vVLDw>`_
 * `Torrey Podmajersky: Strategic Writing for UX | Episode 046” <https://www.youtube.com/watch?v=o5YJ5W1UPqY>`_
 * `Beth Aitman: “ Before the Docs: Writing for User Interfaces” <https://www.youtube.com/watch?v=LemM9PHDX6w>`_
 
 Websites/blogs
 --------------
+
 * `http://uxwritinghub.com/blog/ <http://uxwritinghub.com/blog/>`_
 * `BJohn Saito @ Medium <https://medium.com/@jsaito>`_
 
 Podcast
 -------
+
 * `“Writers in Tech” <http://uxwritinghub.com/category/podcast/>`_
 
 Books
 -----
+
 **UX in general**
+
 * `Steve Krug: “Don’t Make Me Think” <https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_3?crid=220O6Z49BIM6Z&keywords=letting+go+of+the+words&qid=1568537932&sprefix=letting+g%2Caps%2C1173&sr=8-3>`_
 
 **UX writing**
+
 * `Kinneret Yifrah: “Microcopy: The Complete Guide” <https://www.microcopybook.com/>`_
-* `Janice (Ginny) Redish: “https://www.amazon.com/Letting-Go-Words-Interactive-Technologies/dp/0123859301>`_
+
+* `Janice (Ginny) Redish: “Letting Go of the Words" <https://www.amazon.com/Letting-Go-Words-Interactive-Technologies/dp/0123859301>`_
 
 Online courses
 --------------
