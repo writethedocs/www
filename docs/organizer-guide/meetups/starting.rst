@@ -186,6 +186,11 @@ The following are examples of topics that have worked well for other meetups:
 * Info architecture
 * Language and cultural differences
 * Docs as code
+* Documenting yourself
+* UI text
+* What are you looking for in a new writer
+* Collaborating with stakeholders
+* Creating content with limited resources and support
 
 If You Can't Find a Local Speaker
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
