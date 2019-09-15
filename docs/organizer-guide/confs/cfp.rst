@@ -35,7 +35,9 @@ How to write a CFP?
 `Call for Proposals` examples from previous WTD conferences:
 
 * `WTD EU 2019 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/prague/2019/cfp.rst>`_
+* `WTD NA 2018 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2019/cfp.rst>`_
 * `WTD EU 2018 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/prague/2018/cfp.rst>`_
+* `WTD NA 2018 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2018/cfp.rst>`_
 
 Talk review and selection
 -------------------------
