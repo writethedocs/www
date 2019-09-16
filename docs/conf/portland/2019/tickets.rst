@@ -55,7 +55,7 @@ Ticket Types
 
 Inspired by our friends at DjangoCon US, we decided to shake things up and sell shirts separately, so you can buy exactly the fit and size that you want! You can now visit our Write the Docs Portland 2019 Pop-Up Shop and order this year’s branded shirt. The campaign will run until **April 15th** to allow for timely delivery of your shirts ahead of the conference.
 
-* `uy Portland 2019 Shirt
+* Buy Portland 2019 Shirt
 
 {% endif %}
 
