@@ -384,9 +384,7 @@
   title: Git the Docs: A fun, hands-on introduction to version control
 - abstract: '<p>Tech Writing 101 is a class developed by tech writers at Google to train engineers and others in the principles of effective technical writing.</p>
 
-    <p>Everyone at Write the Docs Australia Conference 2019 is welcome.</p>
-
-    <p>For tech writers and others, the class offers an interactive, discussion-filled approach to learning tech writing patterns.</p>'
+    <p>Everyone at Write the Docs Australia Conference 2019 is welcome. For tech writers and others, the class offers an interactive, discussion-filled approach to learning tech writing patterns.</p>'
   slug: techwriting-workshop-sarah-maddox
   speakers:
   - name: Sarah Maddox
