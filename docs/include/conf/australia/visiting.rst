@@ -10,7 +10,7 @@ Sydney has many direct rail, bus, or flight connections from most cities in Aust
 International flights arrive direct to `Sydney Airport <https://www.sydneyairport.com.au/>`_ from many global hubs across Asia Pacific and US regions.
 
 From Sydney Airport, it’s a 15 minute train ride to the centre of Sydney. You can also catch a taxi, Uber or shuttle bus (Redy2go).
-Read more about the 'transport options <https://www.sydneyairport.com.au/info-sheet/transport-options-international>`_ to and from Sydney airport.
+Read more about the `transport options <https://www.sydneyairport.com.au/info-sheet/transport-options-international>`_ to and from Sydney airport.
 
 **Flights**
 
