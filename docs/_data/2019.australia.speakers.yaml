@@ -368,3 +368,27 @@
     twitter: '@sarahmaddox'
     website: ''
   title: Kubeflow open source docs need your help!
+- abstract: '<p>Learning Git for the first time can be intimidating, especially for non-developers.
+    When I first learned Git, I did it the hard way (mostly using internet searches and StackOverflow). And I hated it. It was confusing, and it seemed like a necessary evil.</p>
+
+    <p>But it doesn't have to be that way. Learning Git can be fun! This hands-on workshop will teach you how to use a Git-based workflow for writing documentation.</p>
+
+    <p>Together, we’ll walk through some tricky Git concepts, breaking each down into easy-to-understand pieces.</p>'
+  slug: git-the-docs-becky-todd
+  speakers:
+  - name: Becky Todd
+    slug: becky-todd
+    twitter: '@beckatodd'
+    website: ''
+  title: Git the Docs: A fun, hands-on introduction to version control
+- abstract: '<p>Tech Writing 101 is a class developed by tech writers at Google to train engineers
+    and others in the principles of effective technical writing. Everyone at Write the Docs Australia Conference 2019 is welcome.</p>
+
+    <p>For tech writers and others, the class offers an interactive, discussion-filled approach to learning tech writing patterns.</p>'
+  slug: techwriting-workshop-sarah-maddox
+  speakers:
+  - name: Sarah Maddox
+    slug: sarah-maddox
+    twitter: '@sarahmaddox'
+    website: ''
+  title: Tech Writing 101 Workshop
