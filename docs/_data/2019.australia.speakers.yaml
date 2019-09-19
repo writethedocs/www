@@ -279,7 +279,7 @@
     slug: leticia-mooney
     twitter: '@BrutalPixie'
     website: ''
-  title: The amazing, fantastic human bias that makes you bang your head on your desk.
+  title: The amazing, fantastic human bias that makes you bang your head on your desk
 - abstract: '<p>Much of the documentation supplied by both Open Source and Close Source
     projects assume the community have a good understanding of the English language
     and often North American culture as well. This creates barriers for many solution
@@ -299,9 +299,9 @@
 
     <li>Meeting and communications styles</li>
 
-    <li>Software development workflows, processes, and tools
+    <li>Software development workflows, processes, and tools</li>
 
-    Supporting people who are visually impaired will also be briefly discussed.</li>
+    <li>Supporting people who are visually impaired will also be briefly discussed.</li>
 
     </ul>
 
@@ -317,7 +317,7 @@
     slug: alec-clews
     twitter: '@alecthegeek'
     website: ''
-  title: Creating API documentation for international communities.
+  title: Creating API documentation for international communities
 - abstract: '<p>"What specific information architecture issues do you face when creating documentation?
     Learn how core IA principles can be adapted for documentation.</p>'
   slug: information-architecture-for-documentation-elle-geraghty
@@ -326,6 +326,7 @@
     slug: elle-geragthy
     twitter: '@ellengeraghty'
     website: ''
+  title: Information architecture for documentation
 - abstract: '<p>Surprisingly, the world doesn’t have an open, best-practices suite of writing templates;
     one which could be used by open-source projects. That’s not right.</p>
 
@@ -354,6 +355,7 @@
   - name: Cameron Shorter
     slug: cameron-shorter
     twitter: '@cameronshorter'
+  title: TheGoodDocsProject - Doc Fixit
 - abstract: '<p>Kubeflow is an open source product that developers and data scientists use to create machine learning systems.</p>
 
     <p>The Kubeflow docs are largely written by engineers. The engineers do a great job, but sometimes a tech writer’s touch adds that extra bit of shine.</p>
@@ -365,3 +367,4 @@
     slug: sarah-maddox
     twitter: '@sarahmaddox'
     website: ''
+  title: Kubeflow open source docs need your help!
