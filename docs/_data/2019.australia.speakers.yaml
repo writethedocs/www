@@ -199,7 +199,7 @@
   speakers:
   - name: Riona MacNamara
     slug: riona-macnamara
-    twitter: ''
+    twitter: '@rionam'
     website: ''
   title: 'Knowledge Is Power: Documentation as a tool for equity and inclusion'
 - abstract: '<p>Technical writing and user testing may seem like two completely different
@@ -251,7 +251,7 @@
   speakers:
   - name: Akhil Behl
     slug: akhil-behl
-    twitter: ''
+    twitter: '@akhilbehl'
     website: ''
   title: Your First Book - Doesn't have to be rocket science!
 - abstract: '<p>"Why are we invisible? Maybe we should have Content Hat Day, where
@@ -277,7 +277,7 @@
   speakers:
   - name: Leticia Mooney
     slug: leticia-mooney
-    twitter: ''
+    twitter: '@BrutalPixie'
     website: ''
   title: The amazing, fantastic human bias that makes you bang your head on your desk.
 - abstract: '<p>Much of the documentation supplied by both Open Source and Close Source
@@ -315,6 +315,43 @@
   speakers:
   - name: Alec Clews
     slug: alec-clews
-    twitter: ''
+    twitter: '@alecthegeek'
     website: ''
   title: Creating API documentation for international communities.
+- abstract: '<p>"What specific information architecture issues do you face when creating documentation?
+    Learn how core IA principles can be adapted for documentation.</p>'
+  slug: information-architecture-for-documentation-elle-geraghty
+  speakers:
+  - name: Elle Geragthy
+    slug: elle-geragthy
+    twitter: '@ellengeraghty'
+    website: ''
+- abstract: '<p>Surprisingly, the world doesn’t have an open, best-practices suite of writing templates;
+    one which could be used by open-source projects. That’s not right.</p>
+
+    <p> A bunch of us documentarians and open-source community members have decided to create them,
+    and have banded together under the banner of TheGoodDocsProject.</p>
+
+    <p>We want to collate the collective wisdom of our communities into templates, writing instructions and background theory.
+    We have ideas but we still have a lot to work out and we want your help.</p>
+
+    <p>In this hands-on workshop we will present a quick overview of current thinking
+    and the range of challenges we are facing. We will then break out into topic working
+    groups to brainstorm ideas for solutions and content for different doc types.
+    We need to source, develop, test and refine: </p>
+    <ul>
+
+    <li>A template, embedded with concise writing instructions.</li>
+    <li>Example(s).</li>
+    <li>Deeper practical tips, explanations and justifications for approaches - for use by  information architects, reviewers, and seasoned Documentarians.</li>
+    <li>Collated background theory.</li>
+
+    </ul>
+
+    <p>At the end we will come back together to present findings to the group and discuss how ideas can be brought back into TheGoodDocsProject.</p>'
+  slug: good-docs-projecct-cameron-shorter
+  speakers:
+  - name: Cameron Shorter
+    slug: cameron-shorter
+    twitter: '@cameronshorter'
+    website: ''
