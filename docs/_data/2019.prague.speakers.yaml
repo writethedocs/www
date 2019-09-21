@@ -162,7 +162,7 @@
   speakers:
   - name: Ben Ahmady
     slug: ben-ahmady
-    twitter: https://twitter.com/superdevx
+    twitter: superdevx
     website: https://www.techwriterben.com/ (please note this is under construction,
       but will be finished very soon)
   title: Write the API docs before the API exists
@@ -249,7 +249,7 @@
   speakers:
   - name: Karen Sawrey
     slug: karen-sawrey
-    twitter: https://twitter.com/krnswry
+    twitter: krnswry
     website: https://krnswry.com/
   title: Disagree with “I Agree”. Enforcing better data privacy through the language
     of documentation
