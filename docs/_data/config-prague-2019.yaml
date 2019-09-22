@@ -20,7 +20,7 @@ buttons:
     #   link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    - text: See the Pictures
+    - text: Browse the Pictures
       link_absolute: https://flic.kr/s/aHsmGXavWt
     # - text: What to expect?
     #   link: /welcome-wagon
