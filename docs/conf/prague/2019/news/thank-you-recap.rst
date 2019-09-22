@@ -59,7 +59,7 @@ Ready for more?
 We still have our third `Australia conference <https://www.writethedocs.org/conf/australia/2019/>`__ in November.
 Tickets are still available and the list of talks is now published on the website.
 
-We also announced the dates for next year's `Portland conference <https://www.writethedocs.org/conf/australia/2020/>`__, and you can sign up for that mailing list to get updates when tickets go on sale and the Call for Proposals opens.
+We also announced the dates for next year's `Portland conference <https://www.writethedocs.org/conf/portland/2020/>`__, and you can sign up for that mailing list to get updates when tickets go on sale and the Call for Proposals opens.
 
 Thanks again
 ============
