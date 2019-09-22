@@ -17,6 +17,7 @@ Conference recap
 
 At nearly 300 people, this year's conference was our biggest European event to date!
 We had the usual mix of main stage and lightning talks, unconference sessions, writing sprints, and social events.
+
 We were also pleased with the continued success of our most recent experiments, including live-streaming the talks, running real-time captioning for the main stage, and hosting an in-person job fair.
 The overall feedback on all of these was positive, and we are excited to carry them forward to future events.
 
@@ -25,10 +26,10 @@ Overall, we were so excited to see another conference come together and see our 
 Videos and photos
 =================
 
-Videos of all the main talks are now available `on our YouTube channel <https://www.youtube.com/playlist?list=PLZAeFn6dfHpkpYchP1iFnQnc7i-2xJd0I>`__. We're still missing a lightning talk video because it required special processing, but we will post it and add it to the playlist when it's ready.
+Videos of all the main talks are now available `in a playlist on our YouTube channel <https://www.youtube.com/playlist?list=PLZAeFn6dfHpkpYchP1iFnQnc7i-2xJd0I>`__. We're still missing a lightning talk video because it required special processing, but we will post it on Slack and Twitter when it's ready.
 
-Thanks to our dedicated and caring media sponsor `Bart at Work <https://www.bartatwork.com/atwork/>`__ for doing such a great job with these.
-(You can also subscribe to our `YouTube channel <https://www.youtube.com/channel/UCr019846MitZUEhc6apDdcQ>`_ so you don't miss any future content!)
+Thanks to our media sponsor `Bart at Work <https://www.bartatwork.com/atwork/>`__ for doing such a great job with these.
+You can also subscribe to our `YouTube channel <https://www.youtube.com/channel/UCr019846MitZUEhc6apDdcQ>`_ so you don't miss any future content!
 
 Photos from the event are available on `Flickr <https://flic.kr/s/aHsmGXavWt>`_, thanks to our wonderful photographer `Kay Smoljak <https://twitter.com/goatlady>`_!
 We really love the photos each year, and you're welcome to use them for non-commercial purposes, as per our `Creative Commons License <https://creativecommons.org/licenses/by-nc-sa/2.0/>`_.
@@ -36,7 +37,7 @@ We really love the photos each year, and you're welcome to use them for non-comm
 Code of Conduct transparency report
 ===================================
 
-As with any Write the Docs event, this conference was covered by our `community Code of Conduct (CoC)<https://www.writethedocs.org/code-of-conduct/>`__.
+As with any Write the Docs event, this conference was covered by our `community Code of Conduct<https://www.writethedocs.org/code-of-conduct/>`__.
 We aim to be as transparent with CoC incidents and enforcement as we can.
 
 To ensure that our CoC was visible and accessible, we took a number of specific steps:
