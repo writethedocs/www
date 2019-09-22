@@ -47,7 +47,7 @@ Every year we are thrilled to welcome new documentarians into our community. Thi
 Conference shirts are still on sale
 -----------------------------------
 
-Another friendly reminder that our `T-Shirt Pop-Up Shop <https://teespring.com/wtd-prague-2018>`__ is still open on TeeSpring! The campaign will run until September 30th in case anyone wants to order their shirts after the conference, but we recommend to order at least 2-3 weeks before the conference if you want to sport your new threads.
+Another friendly reminder that our T-Shirt Pop-Up Shop is still open on TeeSpring! The campaign will run until September 30th in case anyone wants to order their shirts after the conference, but we recommend to order at least 2-3 weeks before the conference if you want to sport your new threads.
 
 And don't worry, you'll still have a Write the Docs Prague 2018 souvenir from the conference even if you decide not to order a shirt.
 
