@@ -40,6 +40,7 @@ Get more information on how to meet the community, learn new things, get involve
    about/learning-resources
    about/stay-connected
    about/about-the-org
+   surveys/salary-survey-sep-2019
    code-of-conduct
 
 
