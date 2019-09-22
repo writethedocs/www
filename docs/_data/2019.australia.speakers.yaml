@@ -151,16 +151,22 @@
   title: Can you make a short video about it?
 - abstract: '<p>Minimum Viable Product or MVP is a development technique where a new
     product is introduced in the market with basic features, but enough to get the
-    attention of the consumers. It can be looked as a pared down version of a product
-    that can still be released. An MVP has generally three key characteristics:
+    attention of the consumers. </p>
 
-    It has enough value that people are willing to use it or buy it initially.
+    <p>It can be looked as a pared down version of a product
+    that can still be released. An MVP has generally three key characteristics: </p>
 
-    It demonstrates enough future benefit to retain early adopters.
+    <ol>
 
-    It provides a feedback loop to guide future development.
+    <li>It has enough value that people are willing to use it or buy it initially.</li>
 
-    This talk focuses on what writers or documentation experts needs to keep in mind
+    <li>It demonstrates enough future benefit to retain early adopters.</li>
+
+    <li>It provides a feedback loop to guide future development.</li>
+
+    </ol>
+
+    <p>This talk focuses on what writers or documentation experts needs to keep in mind
     when they author features for an MVP.</p>'
   slug: minimal-viable-product-what-does-this-mean-for-user-documentation-nithya-krishnan
   speakers:
