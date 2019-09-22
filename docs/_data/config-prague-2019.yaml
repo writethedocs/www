@@ -20,16 +20,16 @@ buttons:
     #   link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    - text: See the Schedule
-      link: /schedule
+    - text: Browse the Pictures
+      link_absolute: https://flic.kr/s/aHsmGXavWt
     # - text: What to expect?
     #   link: /welcome-wagon
     # - text: See the talks!
     #   link: /speakers
     # - text: Prepare with the Welcome Wagon
     #  link: /welcome-wagon
-    - text: Watch the Live Stream
-      link: /livestream
+    - text: Watch the Videos
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkpYchP1iFnQnc7i-2xJd0I
     # - text: Browse the photos
     #  link: /livestream
 
@@ -145,6 +145,7 @@ flaghasschedule: True
 flagwelcomewagon: False
 flaglivestreaming: True
 flagvideos: false
+flagpostconf: True
 
 flaghashike: False
 flaghasboat: True
