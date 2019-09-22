@@ -119,27 +119,33 @@
   title: Rethinking Release Notes
 - abstract: '<p>We have been asked to do this very much lately. Customers don''t have
     time or patience to sit down and read our User''s Guides, they would rather watch
-    a short "How to" video. The delivery managers then ask us, the technical writers,
+    a short "How to" video. </p>
+
+    <p>The delivery managers then ask us, the technical writers,
     to make "a very short, very simple video, explaining only the basic steps, nothing
-    too complicated". However, we know these videos are not that easy to make.
+    too complicated". However, we know these videos are not that easy to make.</p>
 
-    We need:
+    <p>We need:</p>
 
-    1. To see the UI ourselves (many times it''s not even ready).
+    <ol>
 
-    2. Time to use and learn the software.
+    <li>To see the UI ourselves (many times it''s not even ready).</li>
 
-    3. To talk with the developers to have our questions answered.
+    <li>Time to use and learn the software.</li>
 
-    4. To write the script.
+    <li>To talk with the developers to have our questions answered.</li>
 
-    5. To have it reviewed.
+    <li>To write the script.</li>
 
-    6. To practice a few times.
+    <li>To have it reviewed.</li>
 
-    7. To record the final video.
+    <li>To practice a few times.</li>
 
-    Because the relevance of the video content is much higher than that of the written
+    <li>To record the final video.</li>
+
+    </ol>
+
+    <p>Because the relevance of the video content is much higher than that of the written
     content, we must keep up with the times and learn how to make "how to" video tutorials.
     It is actually fun and rewarding!</p>'
   slug: can-you-make-a-short-video-about-it-monica-kiss
