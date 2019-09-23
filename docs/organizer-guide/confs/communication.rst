@@ -43,8 +43,8 @@ Date Announcement
 
 `Date announcement` emails from previous WTD conferences:
 
-* `WTD NA 2016 Announcement <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/announcing-2016.md>`_
-* `WTD NA 2015 Announcement <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/announcing-eu-2015.md>`_
+* `WTD Prague 2019 Announcement <https://github.com/writethedocs/www/blob/master/docs/conf/prague/2019/news/prague-19-dates.rst>`_
+* `WTD NA 2019 CFP (part of the welcome email) <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2019/news/welcome.rstt>`_
 
 Call for Proposals
 ~~~~~~~~~~~~~~~~~~
@@ -53,8 +53,8 @@ Keep it short and go to the essential: friendly reminder that everyone can do it
 
 `CFP` emails from previous WTD conferences:
 
-* `WTD NA 2016 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/cfp-tickets.rst>`_
-* `WTD EU 2015 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/announcing-eu-2015.md>`_
+* `WTD Prague 2019 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/prague/2019/news/cfp-open.rst>`_
+* `WTD NA 2019 CFP (part of the welcome email)   <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2019/news/welcome.rstt>`_
 
 
 Ticket Prices
@@ -67,8 +67,8 @@ Ticket Prices
 
 `Tickets` emails from previous WTD conferences:
 
-* `WTD NA 2016 Tickets <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/cfp-tickets.rst>`_
-* `WTD EU 2015 Tickets <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/announcing-eu-tickets.md>`_
+* `WTD NA 2019 Tickets <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2019/news/cfp-reminder.rst>`_
+* `WTD Prague 2019 Tickets <https://github.com/writethedocs/www/blob/master/docs/conf/prague/2019/news/tickets-cfp-reminder.rst>`_
 
 
 CFP reminder (1 week out)
@@ -78,8 +78,8 @@ Make it small: end of the CFP, where potential speakers can find help and previo
 
 `Call for Proposals reminder` emails from previous WTD conferences:
 
-* `WTD NA 2016 CFP Reminder <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/cfp-reminder.md>`_
-* `WTD EU 2015 CFP Reminder <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/eu-early-tickets-videos-cfp.md>`_
+* `WTD NA 2019 CFP Reminder <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2019/news/cfp-reminder.rst>`_
+* `WTD Prague 2019 CFP Reminder <https://github.com/writethedocs/www/blob/master/docs/conf/prague/2019/news/cfp-open.rst>`_
 
 
 Announcing Presentations and Speakers
@@ -90,8 +90,8 @@ Announcing Presentations and Speakers
 
 `Announcing Presentations and Speakers` emails from previous WTD conferences:
 
-* `WTD NA 2016 Speakers <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/announcing-presentations.md>`_
-* `WTD EU 2015 Speakers <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/announcing-eu-presentations.md>`_
+* `WTD NA 2019 Speakers <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2019/news/announcing-speakers.rst>`_
+* `WTD Prague 2019 Speakers <https://github.com/writethedocs/www/blob/master/docs/conf/prague/2019/news/announcing-schedule.rst>`_
 
 
 Auxiliary Events
@@ -110,11 +110,8 @@ Depending on what you plan, you will need to give different kind of info:
 
 `Auxiliary events` emails from previous WTD conferences:
 
-* `WTD NA 2016 Auxiliary Events <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/schedule-welcome-wagon-events.md>`_
-* `WTD NA 2015 Auxiliary Events <https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/news/more-conference-details.md>`_
-* `WTD NA 2015 Party <https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/news/conference-sold-out-schedule-party.md>`_
-* `WTD EU 2015 Auxiliary Events <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/announcing-eu-events-sponsors-tickets.md>`_
-* `WTD EU 2015 Party <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/announcing-eu-parties-sponsors.md>`_
+* `WTD NA 2019 Party <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2019/news/events-activities.rst>`_
+* `WTD Prague 2019 Auxiliary Events <https://github.com/writethedocs/www/blob/master/docs/conf/prague/2019/news/events-activities.rst>`_
 
 
 Welcome
@@ -126,9 +123,8 @@ Welcome
 
 `Welcome` emails from previous WTD conferences:
 
-* `WTD NA 2016 Welcome <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/pre-conf-info.md>`_
-* `WTD NA 2015 Welcome <https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/news/welcome-to-write-the-docs.md>`_
-* `WTD EU 2015 Welcome <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/pre-conf-info.md>`_
+* `WTD NA 2019 Welcome <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2019/news/welcome-get-ready.rst>`_
+* `WTD Prague 2019 Welcome <https://github.com/writethedocs/www/blob/master/docs/conf/prague/2019/news/welcome-getready.rst>`_
 
 
 Thank you
@@ -143,9 +139,8 @@ Thank you
 
 `Thank you` emails from previous WTD conferences:
 
-* `WTD NA 2016 Thank you <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/news/thanks-for-coming.md>`_
-* `WTD NA 2015 Thank you <https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/news/videos-forum-eu-cfp.md>`_
-* `WTD EU 2015 thank you <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/news/eu-thanks-for-coming.md>`_
+* `WTD NA 2019 Thank you <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2019/news/thanks-recap.rst>`_
+* `WTD EU 2018 thank you <https://github.com/writethedocs/www/blob/master/docs/conf/prague/2018/news/thanks-recap.rst>`_
 
 
 How to send email
