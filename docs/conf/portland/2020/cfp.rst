@@ -43,6 +43,7 @@ We welcome talks from first-time speakers, from industry experts, and from every
 Whatever your background and experience, we prefer hearing about new approaches than about tried-and-tested technology.
 We especially welcome talks from underrepresented groups within the tech community.
 We want to hear a variety of viewpoints, so we limit speakers to two talks in any four year period at each location.
+If you're a WTD organizer, please only submit talks to conferences you're not actively organizing.
 
 **Mix of roles and perspectives**
 
