@@ -85,6 +85,14 @@ API Documentation
    api/languages
    api/generating-documents
    api/testing
+   
+UI Text
+-----------------
+
+.. toctree::
+   :maxdepth: 2
+
+   ux-writing  
 
 Distribution
 ------------
