@@ -97,9 +97,9 @@ html_sidebars = {
         'about.html',
         'postcard.html',
         'info.html',
+        'searchbox.html',
         'navigation.html',
         # 'relations.html',
-        # 'searchbox.html',
     ]
 }
 
