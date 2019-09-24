@@ -27,7 +27,7 @@ Conference talks
 ~~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.mainroom}}
-* **When**: **9:00-14:30** (including a lunch break)
+* **When**: **9:00-13:00** (including a lunch break)
 * **Details**: TBA
 
 {% if flaghasschedule %}
@@ -41,13 +41,20 @@ Conference talks
   A detailed schedule will be announced soon.
 {% endif %}
 
+Doc Fixits and Workshop
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* **Where**: {{about.mainroom}}
+* **When**: **13:00-17:30** (including a snack break)
+* **Details**: TBA
+
 Unconference
 ~~~~~~~~~~~~
 
 The unconference sessions run in parallel with the workshop.
 
 * **Where**: {{about.unconfroom}}
-* **When**: **14:30-16:30**
+* **When**: **13:00-17:00**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Thursday Night Social
@@ -58,7 +65,7 @@ This event is for **conference attendees only**, so please bring your badge to b
 There will be drinks and nibbles available while our tab lasts.
 
 * **Where**: TBA
-* **When**: **6.00pm-8.30pm**
+* **When**: **6.30pm-8.30pm**
 
 
 Friday, 15th November 2019
@@ -84,11 +91,18 @@ Conference Talks
   A detailed schedule will be announced soon.
 {% endif %}
 
+Workshop
+~~~~~~~~~
+
+* **Where**: {{about.mainroom}}
+* **When**: **14:30-16:30**
+* **Details**: TBA
+
 Unconference
 ~~~~~~~~~~~~
 
 The unconference sessions run in parallel to the mini-workshop.
 
 * **Where**: {{about.unconfroom}}
-* **When**: **14:30-16:30**
+* **When**: **13:00-17:00**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`

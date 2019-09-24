@@ -97,7 +97,7 @@ Projects such as [Spring REST Docs](https://spring.io/projects/spring-restdocs) 
 #### API resources
 
 - [PayPal's API Design Guidelines](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
-- [Microsoft's REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+- [Microsoft's REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 - [Documenting APIs: a guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
 - [The Ten Essentials for Good API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation/) by A List Apart
 
@@ -173,7 +173,7 @@ Related talks:
 The style guides below focus on the actual writing craft itself. They consider how to make technical content readable, clear, succinct, and engaging.
 
 - [The Sense of Style](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century)
-- [Stylish Academic Writing](http://www.hup.harvard.edu/catalog.php?isbn=9780674064485)
+- [Stylish Academic Writing](https://www.hup.harvard.edu/catalog.php?isbn=9780674064485)
 - [Voice and Tone](https://styleguide.mailchimp.com/)
 - [Google developer documentation style guide](https://developers.google.com/style/)
 

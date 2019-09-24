@@ -23,7 +23,7 @@ As you probably noticed, we are not including shirts with your conference ticket
 This is due partially to the logistics of sizing, ordering, and managing stock, but also because of the inevitable leftovers that we find ourselves with every year.
 
 Inspired by our friends at DjangoCon US, we decided to shake things up and sell shirts separately, so you can buy exactly the fit and size that you want!
-You can now visit our `Write the Docs Portland 2018 Pop-Up Shop <https://teespring.com/wtd-portland-2018-shirts>`_ and order this year's branded shirt.
+You can now visit our Write the Docs Portland 2018 Pop-Up Shop and order this year's branded shirt.
 The campaign will run until **April 15th** to allow for timely delivery of your shirts ahead of the conference.
 
 And don't worry, you'll still have a Write the Docs Portland 2018 souvenier from the conference even if you decide not to order a shirt.

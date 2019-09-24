@@ -40,6 +40,7 @@ Get more information on how to meet the community, learn new things, get involve
    about/learning-resources
    about/stay-connected
    about/about-the-org
+   surveys/salary-survey-sep-2019
    code-of-conduct
 
 
@@ -68,3 +69,4 @@ Here are our latest events, and we hope to see you online or in person soon!
    conf/australia/*/*/*
    conf/vilnius/*/*
    conf/vilnius/*/*/*
+   surveys/index
