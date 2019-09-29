@@ -111,7 +111,7 @@ flagspeakersannounced: True
 
 flagcfp: False
 flaghassponsors: True
-flaghasschedule: False
+flaghasschedule: True
 
 flagticketsonsale: True
 flaghashike: False

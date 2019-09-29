@@ -1,0 +1,57 @@
+- Duration: '0'
+  Session: Doors Open
+  Time: '8:00'
+- Duration: '20'
+  Session: Write the Docs Team - Introduction to Write the Docs
+  Time: '8:45'
+- Duration: '30'
+  Session: 'Riona MacNamara - Knowledge Is Power: Documentation as a tool for equity
+    and inclusion'
+  Time: '9:05'
+- Duration: '5'
+  Session: Switch Speakers
+  Time: '9:35'
+- Duration: '30'
+  Session: Alec Clews - Creating API documentation for international communities.
+  Time: '9:40'
+- Duration: '30'
+  Session: Morning tea - Snack break
+  Time: '10:10'
+- Duration: '30'
+  Session: Rachel Robins - Supercharge your writing process with a designer's toolkit
+  Time: '10:40'
+- Duration: '5'
+  Session: Switch Speakers
+  Time: '11:10'
+- Duration: '30'
+  Session: Paris Buttfield-Addison - Making interactive narrative storytelling accessible
+    to everyone
+  Time: '11:15'
+- Duration: '60'
+  Session: Lunch
+  Time: '11:45'
+- Duration: '15'
+  Session: Lightning Talks
+  Time: '12:45'
+- Duration: '120'
+  Session: Cameron Shorter - TheGoodDocsProject - creating open templates and best-practice
+    writing guides for software documentation
+  Time: '13:00'
+- Duration: '120'
+  Session: Sarah Maddox - Kubeflow open source docs need your help!
+  Time: '13:00'
+- Duration: '30'
+  Session: Snack break
+  Time: '15:00'
+- Duration: '120'
+  Session: 'Becky Todd - Git the Docs: A fun, hands-on introduction to version control'
+  Time: '15:30'
+- Duration: '120'
+  Session: Unconference
+  Time: '15:30'
+- Duration: '10'
+  Session: Group Photo
+  Time: '17:30'
+- Duration: '0'
+  Session: Day 1 wraps up
+  Time: '17:40'
