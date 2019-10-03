@@ -1,4 +1,4 @@
-.. post:: October 14, 2019
+.. post:: October 04, 2019
    :tags: newsletter
 
 ########################################
@@ -7,9 +7,9 @@ Write the Docs Newsletter – October 2019
 
 Hi, everyone, and welcome back to the newsletter after our summer break!
 
-Top news this month: It can be tough to work out what "normal" pay is, so Write the Docs is carrying out a `salary survey </surveys/salary-survey-sep-2019/>`__ to try to get some answers. The survey is open until 31st October, and we'll be publishing the anonymized data for free. Help the community and `fill it out here <https://www.surveymonkey.com/r/wtd-salary-2019>`__!
+Top news this month is our salary survey. It can be tough to work out what "normal" pay is, so Write the Docs is carrying out a `salary survey </surveys/salary-survey-sep-2019/>`__ to try to get some answers. The survey is open until 31st October, and we'll be publishing the anonymized data for free. Help the community and `fill it out here <https://www.surveymonkey.com/r/wtd-salary-2019>`__!
 
-On the conference side, I thoroughly enjoyed meeting so many of you in Prague, and I'm already excited for next year! If you missed it, don't despair, because `all the Prague talks are now up on YouTube <https://www.youtube.com/playlist?list=PLZAeFn6dfHpkpYchP1iFnQnc7i-2xJd0I>`__ for your perusal. Plus there's one last conference to look forward to this year: we've announced the `speakers and schedule </conf/australia/2019/news/announcing-speakers/>`__ for Write the Docs Australia, coming up in November. 
+On the events side, I thoroughly enjoyed meeting so many of you at the Prague conference! If you missed it, don't despair, because `all the talks are now up on YouTube <https://www.youtube.com/playlist?list=PLZAeFn6dfHpkpYchP1iFnQnc7i-2xJd0I>`__ for your perusal. Plus there's one last conference to look forward to this year: we've announced the `speakers and schedule </conf/australia/2019/news/announcing-speakers/>`__ for Write the Docs Australia, coming up in November. 
 
 So that's all the news! On to the latest and greatest stories gathered from Slack.
 
@@ -24,7 +24,7 @@ This month, a question about icons and fonts gave us a goldmine of information a
 * In theory, two typefaces could have very different glyphs for the same Unicode code point, but it's more standardized these days.
 * On a Mac, to get the correct glyph for a font, search in the `Character Viewer <https://support.apple.com/en-us/HT201586>`_ for the Unicode code. You can also mark your favorite emojis in Character Viewer to help you find them quickly.
 * Many apps have an emoji menu (look under "Edit") that opens Character Viewer.
-* Standard emojis have their own Unicode code points--check out the `full Emoji list <https://unicode.org/emoji/charts/full-emoji-list.html>`_.
+* Standard emojis have their own Unicode code points - check out the `full Emoji list <https://unicode.org/emoji/charts/full-emoji-list.html>`_.
 
 Quite a few helpful links were also dropped into the discussion, including:
 
@@ -44,7 +44,7 @@ It's totally normal to sometimes feel overwhelmed and to doubt your abilities - 
 * Remember that you took time to learn the things you already know, so don't feel discouraged when you feel like you can't grasp new material instantly. This work is difficult! Step-by-step, you'll eventually understand the product and get the knowledge you need.
 * Make a list of skills and knowledge that you feel you're missing, and then work out what you'd need to do to fill the gaps. Or, make a list of specific, concrete things you want to achieve, have achieved, expect to achieve. Involve your manager so you can turn them into actionable goals. Success is a work in progress.
 
-   If you're interested in setting clear actionable objectives to improve your performance, check out the `SMART criteria <https://en.wikipedia.org/wiki/SMART_criteria>`_.
+  If you're interested in setting clear actionable objectives to improve your performance, check out the `SMART criteria <https://en.wikipedia.org/wiki/SMART_criteria>`_.
 
 -------------------------------------------------------
 Leading and following: finding a mentor, being a mentor
@@ -59,7 +59,7 @@ Another great way to build both your confidence and your abilities is to find a 
 
 A couple of contributors suggested that WTD start its own mentoring program, which sounds like an idea we'd love someone to take on! And if this topic captures your interest, see Arran Southall's talk from Prague this year, `Fostering Talent: Mentorship, Peer Reviews and Going Beyond Your Job Description <https://www.youtube.com/watch?v=rom6UW-TjNc&list=PLZAeFn6dfHpkpYchP1iFnQnc7i-2xJd0I&index=18>`__.
 
-(Fun fact: while some may call a person learning from a mentor a "mentee", the classical term would, of course, be a "`Telemachus <https://en.wikipedia.org/wiki/Mentor_(Odyssey)#Mentor_as_term>`__".)
+(Side note: One *could* argue that we shouldn't use the term "mentee". Classically speaking, the right word for someone being guided by a Mentor is, of course, a "`Telemachus <https://en.wikipedia.org/wiki/Mentor_(Odyssey)#Mentor_as_term>`__".)
 
 -------------------------
 Deciding on a new tool...
@@ -71,7 +71,7 @@ There was some consensus around establishing your specific business requirements
 
 Separating features into must-haves and nice-to-haves makes evaluating tools easier. Take care not to get side-tracked by features that don't address an actual need you have! Someone posted a useful `list of features <http://lauriston.com/requirements_sanitized.pdf>`__ to use as a starting point for your own evaluation.
 
-There are many tools out there, and no one-size-fits-all; make sure you know what you need before picking one.
+There are many tools out there, and no one size fits all; make sure you know what you need before picking one.
 
 --------------------------------
 ... and migrating to a new tool
@@ -79,11 +79,10 @@ There are many tools out there, and no one-size-fits-all; make sure you know wha
 
 Migrating docs from one tool to another is hard, and the bigger the doc set, the harder it is. On top of the technical challenges, there can be content problems too: what do you do if the docs are in dire need of revision?
 
-* The community agreed that it's not wise to try to improve docs as the same time as moving. Migrations are hard enough as it is!
-Better to resist the urge to edit as you go, and improve things in a second phase after the move.
+* The community agreed that it's not wise to try to improve docs as the same time as moving. Migrations are hard enough as it is! Better to resist the urge to edit as you go, and improve things in a second phase after the move.
 * Alternatively, weed your docs beforehand. Carry out a content audit to make sure what you're moving is worth the time and trouble. Some bad content you can abandon and start over.
 
-   Some useful rubrics:  ROT (Redundant, Outdated, Trivial); OUCH (Outdated, Unneeded, Current, Have to write); MUSTY (Misleading, Ugly, Superseded, Trivial, Your collection has no need of this - discard it!).
+  Some useful rubrics:  ROT (Redundant, Outdated, Trivial); OUCH (Outdated, Unneeded, Current, Have to write); MUSTY (Misleading, Ugly, Superseded, Trivial, Your collection has no need of this - discard it!).
 * Everyone agreed they'd underestimated how long a migration would take. Consider migrating in stages, starting with pilot docs that you're confident will work well in the new tool. This lets you learn about problems nice and early. Ideally the pilot docs should have updates on the horizon but not imminent - it'll take longer to move than you think.
 * Be wary if you're expected to keep up your normal work at the same time. Lots of people recommended having headcount dedicated to the task. It's often a good subject for contractors or interns, because the projects don't require that much context.
 
@@ -104,8 +103,7 @@ Featured jobs
 Community events coming up
 --------------------------
 
-- 03 October - Portland, OR, USA - `Exploring the boundaries of design
- <https://www.meetup.com/Write-The-Docs-PDX/events/264009998/>`__
+- 03 October - Portland, OR, USA - `Exploring the boundaries of design <https://www.meetup.com/Write-The-Docs-PDX/events/264009998/>`__
 - 10 October - Wylie, TX, USA - `Doc discussions <meetup.com/wtd-dallas/events/nmnzfryznbnb/>`__
 - 17 October - Denver, CO, USA - `Hacktoberfest 2019: An evening of open source collaboration <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/265316110/>`__
 - 24 October - Austin, TX, USA - `Happy hour meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/265298604/>`__
