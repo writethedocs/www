@@ -103,8 +103,8 @@ Featured jobs
 Community events coming up
 --------------------------
 
-- 03 October - Portland, OR, USA - `Exploring the boundaries of design <https://www.meetup.com/Write-The-Docs-PDX/events/264009998/>`__
-- 10 October - Wylie, TX, USA - `Doc discussions <meetup.com/wtd-dallas/events/nmnzfryznbnb/>`__
+- 10 October - Wylie, TX, USA - `Doc discussions <https://www.meetup.com/wtd-dallas/events/nmnzfryznbnb/>`__
+- 15 October - Austin, TX, USA - `Five things to learn from LEGO <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/265378713/>`__
 - 17 October - Denver, CO, USA - `Hacktoberfest 2019: An evening of open source collaboration <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/265316110/>`__
 - 24 October - Austin, TX, USA - `Happy hour meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/265298604/>`__
 - 24 October - San Francisco, CA, USA - `How and why one company built a documentation app, with Ember.JS <https://www.meetup.com/Write-the-Docs-Bay-Area/events/265079568/>`__
