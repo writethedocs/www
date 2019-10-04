@@ -9,7 +9,7 @@ Hi, everyone, and welcome back to the newsletter after our summer break!
 
 Top news this month is our salary survey. It can be tough to work out what "normal" pay is, so Write the Docs is carrying out a `salary survey </surveys/salary-survey-sep-2019/>`__ to try to get some answers. The survey is open until 31st October, and we'll be publishing the anonymized data for free. Help the community and `fill it out here <https://www.surveymonkey.com/r/wtd-salary-2019>`__!
 
-On the events side, I thoroughly enjoyed meeting so many of you at the Prague conference! If you missed it, don't despair, because `all the talks are now up on YouTube <https://www.youtube.com/playlist?list=PLZAeFn6dfHpkpYchP1iFnQnc7i-2xJd0I>`__ for your perusal. Plus there's one last conference to look forward to this year: we've announced the `speakers and schedule </conf/australia/2019/news/announcing-speakers/>`__ for Write the Docs Australia, coming up in November. 
+On the events side, I thoroughly enjoyed meeting so many of you at the Prague conference! If you missed it, don't despair, because `all the talks are now up on YouTube <https://www.youtube.com/playlist?list=PLZAeFn6dfHpkpYchP1iFnQnc7i-2xJd0I>`__ for your enjoyment. Plus there's one last conference to look forward to this year: we've announced the `speakers and schedule </conf/australia/2019/news/announcing-speakers/>`__ for Write the Docs Australia, coming up on 14-15 November. 
 
 So that's all the news! On to the latest and greatest stories gathered from Slack.
 
@@ -17,9 +17,9 @@ So that's all the news! On to the latest and greatest stories gathered from Slac
 Behind the scenes with fonts, emojis, and Unicode
 -------------------------------------------------
 
-This month, a question about icons and fonts gave us a goldmine of information about emojis and unicode. Here are a few interesting facts:
+This month, a question about icons and fonts provided a goldmine of information about emojis and unicode. Here are a few interesting facts:
 
-* The "key" underneath all fonts is Unicode. Fonts just provide glyphs for the underlying Unicode values - and different fonts can have different glyphs for the same Unicode.
+* The "key" underneath all fonts is `Unicode <https://en.wikipedia.org/wiki/Unicode>`__. Fonts just provide glyphs for the underlying Unicode values - and different fonts can have different glyphs for the same Unicode.
 * Fonts and typefaces are not the same! A typeface includes more than one font, as fonts are variations on the base (the typeface).
 * In theory, two typefaces could have very different glyphs for the same Unicode code point, but it's more standardized these days.
 * On a Mac, to get the correct glyph for a font, search in the `Character Viewer <https://support.apple.com/en-us/HT201586>`_ for the Unicode code. You can also mark your favorite emojis in Character Viewer to help you find them quickly.
@@ -57,7 +57,7 @@ Another great way to build both your confidence and your abilities is to find a 
 * Some companies provide formal mentoring programs: people who want to mentor sign up and describe their expertise, and you contact them if you want to be mentored. These programs typically provide internal resources for mentors and mentees as well.
 * A useful article: `How to Email a Potential Mentor the Right Way <https://www.themuse.com/advice/be-my-mentor-craft-the-perfect-email-to-someone-you-admire>`__.
 
-A couple of contributors suggested that WTD start its own mentoring program, which sounds like an idea we'd love someone to take on! And if this topic captures your interest, see Arran Southall's talk from Prague this year, `Fostering Talent: Mentorship, Peer Reviews and Going Beyond Your Job Description <https://www.youtube.com/watch?v=rom6UW-TjNc&list=PLZAeFn6dfHpkpYchP1iFnQnc7i-2xJd0I&index=18>`__.
+A couple of contributors suggested that WTD start its own mentoring program, which sounds like an idea we'd love someone to take on! If you're interested, `#meta` is a good place for that conversation. And if this topic captures your interest, see Arran Southall's talk from Prague this year, `Fostering Talent: Mentorship, Peer Reviews and Going Beyond Your Job Description <https://www.youtube.com/watch?v=rom6UW-TjNc&list=PLZAeFn6dfHpkpYchP1iFnQnc7i-2xJd0I&index=18>`__.
 
 (Side note: One *could* argue that we shouldn't use the term "mentee". Classically speaking, the right word for someone being guided by a Mentor is, of course, a "`Telemachus <https://en.wikipedia.org/wiki/Mentor_(Odyssey)#Mentor_as_term>`__".)
 
@@ -65,7 +65,7 @@ A couple of contributors suggested that WTD start its own mentoring program, whi
 Deciding on a new tool...
 -------------------------
 
-If you're struggling with the limitations of your docs tools, how do you decide what system to migrate to? In a recent coversation about trying to replace a creaky CMS, documentarians on Slack compared MadCap Flare, Paligo, Static Site Generators and Adobe Suite, among others.
+If you're struggling with the limitations of your docs tools, how do you decide what system to migrate to? In a recent coversation about trying to replace an old CMS, documentarians on Slack compared MadCap Flare, Paligo, static site generators and Adobe Suite, among others.
 
 There was some consensus around establishing your specific business requirements before selecting a tool. What outputs do you need to publish? How much do you need to reuse content? Does OS compatibility matter? How long will migration take? The requirements matter because no single tool is right for all situations. If you understand your needs well, it'll really help - you might even realise that you don't need to switch.
 
@@ -85,6 +85,8 @@ Migrating docs from one tool to another is hard, and the bigger the doc set, the
   Some useful rubrics:  ROT (Redundant, Outdated, Trivial); OUCH (Outdated, Unneeded, Current, Have to write); MUSTY (Misleading, Ugly, Superseded, Trivial, Your collection has no need of this - discard it!).
 * Everyone agreed they'd underestimated how long a migration would take. Consider migrating in stages, starting with pilot docs that you're confident will work well in the new tool. This lets you learn about problems nice and early. Ideally the pilot docs should have updates on the horizon but not imminent - it'll take longer to move than you think.
 * Be wary if you're expected to keep up your normal work at the same time. Lots of people recommended having headcount dedicated to the task. It's often a good subject for contractors or interns, because the projects don't require that much context.
+
+If you're looking for somewhere to chat about these decisions, head over to `#doc-tools`!
 
 -------------
 Featured jobs
