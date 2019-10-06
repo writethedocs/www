@@ -372,7 +372,9 @@
 
     <p>The Kubeflow docs are largely written by engineers. The engineers do a great job, but sometimes a tech writer’s touch adds that extra bit of shine.</p>
 
-    <p>During this doc fixit, you will work with the Kubeflow tech writer to fix doc bugs. The bugs include spelling mistakes, grammar that’s not quite right, sentences that could flow better, and more. While fixing bugs, you’ll learn about working in open source on GitHub. You’ll experience a static site generator (Hugo) for publishing docs. Best of all, you’ll improve the experience of the developers and data scientists who’re reading the docs.</p>'
+    <p>During this doc fixit, you will work with the Kubeflow tech writer to fix doc bugs. The bugs include spelling mistakes, grammar that’s not quite right, sentences that could flow better, and more. While fixing bugs, you’ll learn about working in open source on GitHub. You’ll experience a static site generator (Hugo) for publishing docs. Best of all, you’ll improve the experience of the developers and data scientists who’re reading the docs.</p>
+
+    <p>Read about prerequisites and more in the `doc fixit details <https://www.writethedocs.org/conf/australia/2019/doc-fixit-kubeflow/>`_.</p>`
   slug: kubeflow-doc-fixit-sarah-maddox
   speakers:
   - name: Sarah Maddox
@@ -396,7 +398,9 @@
   title: Git the Docs - A fun, hands-on introduction to version control
 - abstract: '<p>Tech Writing 101 is a class developed by tech writers at Google to train engineers and others in the principles of effective technical writing.</p>
 
-    <p>Everyone at Write the Docs Australia Conference 2019 is welcome. For tech writers and others, the class offers an interactive, discussion-filled approach to learning tech writing patterns.</p>'
+    <p>Everyone at Write the Docs Australia Conference 2019 is welcome. For tech writers and others, the class offers an interactive, discussion-filled approach to learning tech writing patterns.</p>
+
+    <p>Read about prerequisites and more in the `workshop details <https://www.writethedocs.org/conf/australia/2019/workshop-tech-writing/>`_.</p>'
   slug: techwriting-workshop-sarah-maddox
   speakers:
   - name: Sarah Maddox
