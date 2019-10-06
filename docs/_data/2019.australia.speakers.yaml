@@ -374,7 +374,7 @@
 
     <p>During this doc fixit, you will work with the Kubeflow tech writer to fix doc bugs. The bugs include spelling mistakes, grammar that’s not quite right, sentences that could flow better, and more. While fixing bugs, you’ll learn about working in open source on GitHub. You’ll experience a static site generator (Hugo) for publishing docs. Best of all, you’ll improve the experience of the developers and data scientists who’re reading the docs.</p>
 
-    <p>Read about prerequisites and more in the <a href="https://www.writethedocs.org/conf/australia/2019/doc-fixit-kubeflow/">doc fixit details</a>.</p>`
+    <p>Read about prerequisites and more in the <a href="https://www.writethedocs.org/conf/australia/2019/doc-fixit-kubeflow/">doc fixit details</a>.</p>'
   slug: kubeflow-doc-fixit-sarah-maddox
   speakers:
   - name: Sarah Maddox
