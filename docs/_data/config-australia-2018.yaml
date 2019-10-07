@@ -29,7 +29,6 @@ date: # how do we handle these? human readable would be nice.
   short: Nov 15-16, 2018
   tickets_live: "June 2018"
   month: November
-  sat:
   day_one:
     event: Talks & Workshop
     date: Nov 15
