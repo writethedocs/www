@@ -96,6 +96,15 @@ def main():
 
     for year, regions in list(conference_data.items()):
         for region, data in list(regions.items()):
+            has_videos = False
+            for speaker in data['speakers']:
+                if speaker.get('youtubeId'):
+                    has_videos = True
+                    break
+
+            if not has_videos:
+                continue
+
             index_path = os.path.join('videos', region, str(year))
             if not os.path.exists(index_path):
                 os.makedirs(index_path)
