@@ -30,6 +30,11 @@ Samuel Wright
 
 {% include "bios/sam.rst" %}
 
+Linette Voller
+~~~~~~~~~~~~~~~~~~
+
+{% include "bios/linette.rst" %}
+
 
 Primary Roles
 -------------
@@ -40,8 +45,8 @@ Filled Roles
 ~~~~~~~~~~~~~
 
 * **Conference chair** - Swapnil Ogale
-* **Swag coordinator** - TBA
-* **Speaker wrangler** - TBA
+* **Swag coordinator** - Michalina Ziemba
+* **Speaker wrangler** - Linette Voller
 * **Infrastructure chair** - Samuel Wright
 * **Lightning Talk coordinator** - TBA
 * **Communication chair** - Swapnil Ogale
@@ -55,4 +60,4 @@ Organisers Needed
 
 * **Welcome Wagon coordinators** - TBA
 * **Explore Sydney coordinator** - TBA
-* **Social media chair** - TBA
+* **Social media chair** - Swapnil Ogale
