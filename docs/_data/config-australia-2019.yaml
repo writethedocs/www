@@ -61,6 +61,8 @@ sponsors:
   publisher:
     - name: knowledgeowl
       link: https://www.knowledgeowl.com
+    - name: atlassian
+      link: https://www.atlassian.com
   second:
     - name: buildkite
       link: https://buildkite.com/
@@ -69,6 +71,8 @@ sponsors:
   first:
     - name: datalust
       link: https://datalust.co/seq
+    - name: redocly
+      link: https://redoc.ly/
 
 date: # how do we handle these? human readable would be nice.
   main: "**November 14-15, 2019, in Sydney, Australia**"
