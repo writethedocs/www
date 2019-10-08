@@ -1,17 +1,17 @@
 .. raw:: html
 
     <article class="schedule">
-    {% for talk in day_schedule %}
+    {% for session in day_schedule %}
           <div class="schedule-item">
-              <div class="item-starting-time">{{ talk.time }}</div>
+              <div class="item-starting-time">{{ session.time }}</div>
               <div class="item-content">
                   <div class="item-description">
-                  {% if talk.title %}
-                      {{ talk.title }}
-                  {% elif talk.data %}
-                     <a href="../speakers/#speaker-{{ shortcode }}-{{ year }}-{{ talk.data.speakers.0.slug }}">{{ talk.speaker_names }} - {{ talk.data.title }}</a>
+                  {% if session.title %}
+                      {{ session.title }}
+                  {% elif session.data %}
+                     <a href="../speakers/#speaker-{{ shortcode }}-{{ year }}-{{ session.data.speakers.0.slug }}">{{ session.speaker_names }} - {{ session.data.title }}</a>
                   {% else %}
-                     ERROR: {{ talk }}
+                     ERROR: {{ session }}
                   {% endif %}
                   </div>
                   <!-- <div class="item-speaker"></div> -->
