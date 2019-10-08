@@ -146,3 +146,4 @@ flagpostconf: False
 flaghashike: True
 flaghasboat: False
 flaghaswritingday: True
+flaghasbadgeflair: False
