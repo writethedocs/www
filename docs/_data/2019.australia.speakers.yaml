@@ -117,63 +117,32 @@
     twitter: ''
     website: ''
   title: Rethinking Release Notes
-- abstract: '<p>We have been asked to do this very much lately. Customers don''t have
-    time or patience to sit down and read our User''s Guides, they would rather watch
-    a short "How to" video. </p>
+- abstract: '<p>Minimum Viable Product or MVP is a development technique where a
+    new product is introduced in the market with basic features, but enough to get
+    the attention of the consumers. </p>
 
-    <p>The delivery managers then ask us, the technical writers,
-    to make "a very short, very simple video, explaining only the basic steps, nothing
-    too complicated". However, we know these videos are not that easy to make.</p>
-
-    <p>We need:</p>
+    <p>The MVP technique brings with it a set of characteristics that qualify how
+    it fits into the whole startup and entrepreneurial space for building efficient products: </p>
 
     <ol>
 
-    <li>To see the UI ourselves (many times it''s not even ready).</li>
+    <li>It comprises of a set of basic features that you use to ascertain early
+    on whether customers find the product useful.</li>
 
-    <li>Time to use and learn the software.</li>
+    <li>By separating basic features and subsequent add-ons, you bring with it
+    a scope to enhance the product in every step of the development. This means you have a defined roadmap set for your product.</li>
 
-    <li>To talk with the developers to have our questions answered.</li>
-
-    <li>To write the script.</li>
-
-    <li>To have it reviewed.</li>
-
-    <li>To practice a few times.</li>
-
-    <li>To record the final video.</li>
+    <li>Using the feedback or learning loop, you establish a model of constantly
+    getting feedback from your early adopters and initial set of users. This provides the momentum to build consumable features along the way.</li>
 
     </ol>
 
-    <p>Because the relevance of the video content is much higher than that of the written
-    content, we must keep up with the times and learn how to make "how to" video tutorials.
-    It is actually fun and rewarding!</p>'
-  slug: can-you-make-a-short-video-about-it-monica-kiss
-  speakers:
-  - name: Monica Kiss
-    slug: monica-kiss
-    twitter: ''
-    website: ''
-  title: Can you make a short video about it?
-- abstract: '<p>Minimum Viable Product or MVP is a development technique where a new
-    product is introduced in the market with basic features, but enough to get the
-    attention of the consumers. </p>
-
-    <p>It can be looked as a pared down version of a product
-    that can still be released. An MVP has generally three key characteristics: </p>
-
-    <ol>
-
-    <li>It has enough value that people are willing to use it or buy it initially.</li>
-
-    <li>It demonstrates enough future benefit to retain early adopters.</li>
-
-    <li>It provides a feedback loop to guide future development.</li>
-
-    </ol>
-
-    <p>This talk focuses on what writers or documentation experts needs to keep in mind
-    when they author features for an MVP.</p>'
+    <p>This talk additionally focuses on what writers or documentation experts can contribute as valuable information for an MVP.</p>
+    <p>As authored by the Agile/Lean guru, Eric Ries in his book The Lean Startup,</p>
+    <p>The primary benefit of an MVP is you can gain understanding about your
+    customers’ interest in your product without fully developing the product.
+    The sooner you can find out whether your product will appeal to customers,
+    the less effort and expense you spend on a product that will not succeed in the market.</p>'
   slug: minimal-viable-product-what-does-this-mean-for-user-documentation-nithya-krishnan
   speakers:
   - name: Nithya Krishnan
@@ -339,19 +308,20 @@
     twitter: '@ellengeraghty'
     website: ''
   title: Information architecture for documentation
-- abstract: '<p>Surprisingly, the world doesn’t have an open, best-practices suite of writing templates;
-    one which could be used by open-source projects. That’s not right.</p>
+- abstract: '<p>Surprisingly, the world doesn’t have an open, best-practices suite
+of writing templates; templates which could be used by open-source projects. That’s not right.</p>
 
-    <p> A bunch of us documentarians and open-source community members have decided to create them,
-    and have banded together under the banner of TheGoodDocsProject.</p>
+    <p>A bunch of us documentarians and open-source community members have started
+    to create them, and have banded together under the banner of TheGoodDocsProject.</p>
 
-    <p>We want to collate the collective wisdom of our communities into templates, writing instructions and background theory.
-    We have ideas but we still have a lot to work out and we want your help.</p>
+    <p>We want to collate the collective wisdom of our communities into templates,
+    writing instructions and background theory. We have ideas but we still have a lot to work out and we want your help.</p>
 
-    <p>In this hands-on workshop we will present a quick overview of current thinking
-    and the range of challenges we are facing. We will then break out into topic working
-    groups to brainstorm ideas for solutions and content for different doc types.
-    We need to source, develop, test and refine: </p>
+    <p>In this hands-on workshop we will present a quick overview of current
+    thinking and the range of challenges we are facing. We will then break out
+    into topic working groups to brainstorm ideas for solutions and content for
+    different doc types. For each doc type, we need to source, develop, test and refine:</p>
+
     <ul>
 
     <li>A template, embedded with concise writing instructions.</li>
@@ -361,7 +331,18 @@
 
     </ul>
 
-    <p>At the end we will come back together to present findings to the group and discuss how ideas can be brought back into TheGoodDocsProject.</p>'
+    <p>At the end we will come back together to present findings to the group and discuss how ideas can be brought back into TheGoodDocsProject.</p>
+
+    <p>We have started on a Quickstarts. Depending on workshop numbers, we’d also like to tackle:</p>
+
+    <ul>
+
+    <li>Tutorials</li>
+    <li>How To Guides</li>
+    <li>Explanations</li>
+    <li>References</li>
+
+    <p>We may find these naturally break into sub-categories<p>'
   slug: good-docs-projecct-cameron-shorter
   speakers:
   - name: Cameron Shorter
