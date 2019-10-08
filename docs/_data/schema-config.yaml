@@ -119,6 +119,7 @@ about-details:
   unconfroom: str(required=False)
   location: str(required=False)
   photos: str(required=False)
+  projector_ratio: str(required=False)
 
 cfp-details:
   url: str(required=False)

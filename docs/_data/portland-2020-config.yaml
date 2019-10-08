@@ -114,6 +114,7 @@ about:
     Main Ballroom
   unconfroom:
     Unconference Room, across from the Main Ballroom
+  projector_ratio: "16:9"
 
 cfp:
   url: https://docs.google.com/forms/d/e/1FAIpQLSfXD-hlTzSDTrpuYkguUwXq1OtKDOZQazzdNqWmSKO5H0hWLQ/viewform
