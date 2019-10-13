@@ -27,8 +27,7 @@ Conference talks and workshops
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.mainroom}}
-* **When**: **9:00-17:30** (including a lunch break)
-* **Details**: TBA
+* **When**: **8:45-17:30** (including a lunch break)
 
 {% if flaghasschedule %}
 
@@ -70,8 +69,7 @@ Conference talks and workshops
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.mainroom}}
-* **When**: **9:00-14:30** (including a lunch break)
-* **Details**: TBA
+* **When**: **9:00-17:00** (including a lunch break)
 
 {% if flaghasschedule %}
 
