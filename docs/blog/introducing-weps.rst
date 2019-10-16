@@ -28,7 +28,7 @@ What is a Write the Docs Enhancement Proposal (WEP)
 ---------------------------------------------------
 
 WEP's are a formalized process for making major policy changes in the community.
-Previously there was fuzzy consensus on a Slack channel or at a conference that defined our governace.
+Previously there was fuzzy consensus on a Slack channel or at a conference that defined our governance.
 Going forward, there will be a written record that people have had time to review and comment on.
 Importantly, 
 there will also be records of the conversation that lead to a change.
