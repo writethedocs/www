@@ -24,7 +24,7 @@ Who are your readers?
 * Intermediate or advanced users trying out something new
 * Any type of user who tried to do something and got stuck
 
-Your not being a techical expert is actually an asset. As a technical writer, one of your great skills is the ability to adopt different people's perspectives and understand exactly what bits of information they need, and how to present them. You may be writing for a very varied audience, not just in terms of learning level, but goals and personal background. As a good writer, you excel at understanding what your readers bring to the table, and what you need to give them so that they can learn efficiently. You make a qualified judgment call on what and how much to include.
+Your not being a technical expert is actually an asset. As a technical writer, one of your great skills is the ability to adopt different people's perspectives and understand exactly what bits of information they need, and how to present them. You may be writing for a very varied audience, not just in terms of learning level, but goals and personal background. As a good writer, you excel at understanding what your readers bring to the table, and what you need to give them so that they can learn efficiently. You make a qualified judgment call on what and how much to include.
 
 Being overly proficient could lead you to overlook something; a step that may be glaringly obvious to a power user could seriously stump a beginner. You don't skip those obvious parts, and you provide complete information without being blinded by routine. 
 
