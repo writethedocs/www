@@ -81,8 +81,7 @@ We hope that you'll take the time to read our proposal and understand how we're 
 The more engaged folks are with the process,
 the better the community will be for everyone.
 
+.. [#] A great read if you haven't already: https://www.jofreeman.com/joreen/tyranny.htm
  
 .. _many other projects: https://www.writethedocs.org/#join-the-community
 .. _WEP0: https://github.com/writethedocs/weps/pull/1
-
-.. [#]: A great read if you haven't already: https://www.jofreeman.com/joreen/tyranny.htm
