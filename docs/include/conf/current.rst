@@ -3,6 +3,12 @@
 
 - :doc:`Write the Docs Portland 2020 </conf/portland/2020/index>`, May 3-5, **Portland, Oregon**
 
+Proposals
+~~~~~~~~~
+
+We are looking at doing another event in North America, further east in 2020.
+We have a :doc:`Call for Venues </conf/cfp/east-2020>` open for it currently.
+
 2019 Conferences
 ----------------
 
