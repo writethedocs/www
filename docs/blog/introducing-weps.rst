@@ -76,6 +76,6 @@ we invite you to review and comment on `WEP0`_.
 This is a new process,
 but we hope it will start to address questions of how change happens in the community. 
  
-
 .. [#]: A great read if you haven't already: https://www.jofreeman.com/joreen/tyranny.htm
 
+.. _WEP0: https://github.com/writethedocs/weps/pull/1
