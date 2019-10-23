@@ -13,9 +13,9 @@ We have often followed the open-source philosophy in our community practices,
 keeping a loose governance model and mostly letting the work speak for itself.
 However,
 we've been experiencing a number of growing pains with this approach.
-It makes it much harder for new people to understand and join the community in leadership positions,
+A loosely defined process makes it much harder for new people to understand and join the community in leadership positions,
 since they don't understand how the community actually works.
-Even folks doing a lot of work in the community are often lost or confused when it comes to other ongoing projects.
+Even folks doing a lot of work in the community are often lost or confused when it comes to projects they aren't directly involved with.
 
 All organizations have power structures,
 some are just not documented. [#]_
@@ -54,27 +54,36 @@ but we hope that it will showcase how the process works as we adopt it.
 The high-level overview of the WEP process is as follows,
 from the perspective of someone proposing a WEP:
 
-* Talk to people about your idea, and get feedback from other community members
-* Draft and submit a Pull Request on the WEP GitHub Repository, which submits the WEP as a **draft**
-* The **WEP team** then reviews the Draft WEP to make sure it falls within the WEP guidelines:
+#. Talk to people about your idea, and get feedback from other community members
+#. Draft and submit a Pull Request on the WEP GitHub Repository, which submits the WEP as a **draft**
+#. The **WEP team** then reviews the Draft WEP to make sure it falls within the WEP guidelines:
     * Is the WEP well-formed? Does it have all the required sections?
     * Is the WEP specific enough that the outcome of approving it is clear?
     * Is the proposed change within the scope of the WEP process?
-* After the WEP team accepts the draft, it is now **ready-for-discussion**.
-* The WEP team then sets a deadline for discussion, currently 30 days, for community feedback and review
-* Once the WEP is **ready-for-discussion** and has a deadline, the Core Ops team announce the WEP in a few defined channels, where interested community members can subscribe
+#. After the WEP team accepts the draft, it is now **ready-for-discussion**.
+#. The WEP team then sets a deadline for discussion, currently 30 days, for community feedback and review
+#. Once the WEP is **ready-for-discussion** and has a deadline, the Core Ops team announce the WEP in a few defined channels, where interested community members can subscribe
     * The ``WEP-announcements`` Slack channel 
     * The ``WEP-announcements`` Email list
-* During this month-long period, the WEP is updated based on incoming feedback, and the community works towards a consensus on the proposed change
-* At the deadline, the Core Ops team determines if consensus has been reached
+#. During this month-long period, the WEP is updated based on incoming feedback, and the community works towards a consensus on the proposed change
+#. At the deadline, the Core Ops team determines if consensus has been reached
     * If there is consensus, the WEP is **Accepted**, it will be implemented as specified
     * If there is no consensus, the WEP is either **Rejected** or **Extended** for another month. Extension is available when it seems further activitiy could lead to consensus.
-* Once the WEP decision is made, another announcement is sent to the defined announcement channels
+#. Once the WEP decision is made, another announcement is sent to the defined announcement channels
+
+Get involved
+------------
 
 If you want to understand the full policy,
 we invite you to review and comment on `WEP0`_.
+We also welcome feedback privately via email at support@writethedocs.org if that is more comfortable for you.
 This is a new process,
 but we hope it will start to address questions of how change happens in the community. 
+
+We hope that you'll take the time to read our proposal and understand how we're changing the process of making changes in the community.
+The more engaged folks are with the process,
+the better the community will be for everyone.
+
  
 .. [#]: A great read if you haven't already: https://www.jofreeman.com/joreen/tyranny.htm
 
