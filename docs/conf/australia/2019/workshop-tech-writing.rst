@@ -35,7 +35,7 @@ Your workshop hosts are three tech writers from Google:
 Schedule
 --------
 
-- Date & Time: **TBA**.
+- Date & Time: **Friday, 15th November 2019, at 14:45-16:45**.
 - Location: {{about.mainroom}}.
 - Find out more:
   :doc:`/conf/australia/2019/venue`

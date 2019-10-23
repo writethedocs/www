@@ -24,7 +24,7 @@ The doc fixit hosts:
 Schedule
 --------
 
-- Date & Time: **TBA**.
+- Date & Time: **Thursday, 14th November 2019, at 13:00-15:00**.
 - Location: {{about.mainroom}}.
 - Find out more:
   :doc:`/conf/australia/2019/venue`
@@ -44,11 +44,7 @@ Preparing for the Kubeflow doc fixit:
 
 * Before you get started, you need to sign up for a GitHub account [https://github.com/join] if you don't already have one. If you have time to do this before the start of the sprint, that's great. If not, you can do it during the sprint.
 
-* Sign the Google Contributor License Agreement (CLA). If you have time to do this before the start of the sprint, that's great. If not, you can do it during the sprint:
-
-* Head over to `https://cla.developers.google.com/ <https://cla.developers.google.com/>`_ to see your current agreements on file or to sign a new one. If you've already done this for some other project, you shouldn't need to do it again.
-
-* If you haven't signed the CLA by the time you send your first pull request (PR) during the doc fixit, the automated Googlebot will prompt you to sign the CLA.
+* Sign the Google Contributor License Agreement (CLA). If you have time to do this before the start of the sprint, that's great. If not, you can do it during the sprint. Head over to `https://cla.developers.google.com/ <https://cla.developers.google.com/>`_ to see your current agreements on file or to sign a new one. If you've already done this for some other project, you shouldn't need to do it again. If you haven't signed the CLA by the time you send your first pull request (PR) during the doc fixit, the automated Googlebot will prompt you to sign the CLA.
 
 * It’s not mandatory to do any prework, but it will help if you know some Markdown: `https://www.markdownguide.org/basic-syntax <https://www.markdownguide.org/basic-syntax>`_.
 

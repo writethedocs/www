@@ -17,7 +17,7 @@ sys.path.append(d)
 import yaml
 from _ext.utils import slugify
 
-yaml_files = ['_data/portland-2019-day-1.yaml', '_data/portland-2019-day-2.yaml']
+yaml_files = ['_data/prague-2019-day-1.yaml', '_data/prague-2019-day-2.yaml']
 
 for yaml_file in yaml_files:
     day1 = yaml.safe_load(open(yaml_file))
