@@ -1,13 +1,10 @@
 Introducing Write the Docs Enhancement Proposals
 ================================================
 
-Write the Docs has been growing each year since we had the first conference in 2013,
-and the scope of the community has expanded dramatically.
-We started with a single conference,
-and now we have multiple conferences,
-over 50 meetups around the world,
-multiple online spaces,
-and many other ongoing projects.
+Write the Docs began seven years ago with a single conference.  
+It has now grown to multiple conferences worldwide,
+over 50 international meetups,
+and `many other projects`_.
 
 We have often followed the open-source philosophy in our community practices,
 keeping a loose governance model and mostly letting the work speak for itself.
@@ -68,7 +65,7 @@ from the perspective of someone proposing a WEP:
 #. During this month-long period, the WEP is updated based on incoming feedback, and the community works towards a consensus on the proposed change
 #. At the deadline, the Core Ops team determines if consensus has been reached
     * If there is consensus, the WEP is **Accepted**, it will be implemented as specified
-    * If there is no consensus, the WEP is either **Rejected** or **Extended** for another month. Extension is available when it seems further activitiy could lead to consensus.
+    * If there is no consensus, the WEP is either **Rejected** or **Extended** for another month. Extension is available when it seems further activity could lead to consensus.
 #. Once the WEP decision is made, another announcement is sent to the defined announcement channels
 
 Get involved
@@ -85,6 +82,7 @@ The more engaged folks are with the process,
 the better the community will be for everyone.
 
  
-.. [#]: A great read if you haven't already: https://www.jofreeman.com/joreen/tyranny.htm
-
+.. _many other projects: https://www.writethedocs.org/#join-the-community
 .. _WEP0: https://github.com/writethedocs/weps/pull/1
+
+.. [#]: A great read if you haven't already: https://www.jofreeman.com/joreen/tyranny.htm
