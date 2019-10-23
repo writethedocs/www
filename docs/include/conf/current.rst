@@ -6,7 +6,7 @@
 Proposals
 ~~~~~~~~~
 
-We are looking at doing another event in North America, further east in 2020.
+We are looking at doing another event in 2020, on or close to the east coast of the US.
 We have a :doc:`Call for Venues </conf/cfp/east-2020>` open for it currently.
 
 2019 Conferences
