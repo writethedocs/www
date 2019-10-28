@@ -69,4 +69,4 @@ Here are our latest events, and we hope to see you online or in person soon!
    conf/australia/*/*/*
    conf/vilnius/*/*
    conf/vilnius/*/*/*
-   surveys/index
+   conf/cfp/*
