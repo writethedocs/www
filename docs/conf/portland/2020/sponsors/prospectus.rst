@@ -113,6 +113,25 @@ Other Sponsorship Opportunities
 The following a la carte offerings are available either independently or
 combined with one of the previous packages to increase visibility at the event.
 
+Opportunity Grants
+------------------
+
+Provide additional money for our Opportunity Grant program,
+which provides funding for people to attend the conference.
+
+**{{sponsorship.second_draft.price}}**
+
+Additionally, for **{{sponsorship.publisher.price}}** we will offer exclusive sponsorship of our Opportunity Grant program.
+Please talk to us about this soon,
+as this option is removed once we have secured any sponsors for this benefit.
+
+Benefits
+~~~~~~~~
+
+* Your sponsor logo will be shown on the stage during all staff presetentations as a grant sponsor (opening, closing). 
+* We will mention your company as a grant sponsor on Twitter from the official Write the Docs account
+
+
 Lanyard
 -------
 

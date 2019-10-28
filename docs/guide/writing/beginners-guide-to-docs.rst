@@ -241,7 +241,7 @@ A small code example
 
 Show a telling example of what your project would normally be used for. Requests_ does a great example of this.
 
-.. _Requests: http://docs.python-requests.org/en/latest/index.html
+.. _Requests: https://requests.kennethreitz.org/en/master/
 
 A link to your code & issue tracker
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

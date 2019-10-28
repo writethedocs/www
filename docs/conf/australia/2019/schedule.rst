@@ -23,30 +23,22 @@ Thursday, 14th November 2019
 
 *Tea, coffee and lunch will be provided, as well as snacks and drinks all day.*
 
-Conference talks
-~~~~~~~~~~~~~~~~~
+Conference talks and workshops
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.mainroom}}
-* **When**: **9:00-13:00** (including a lunch break)
-* **Details**: TBA
+* **When**: **8:45-17:30** (including a lunch break)
 
 {% if flaghasschedule %}
 
 .. datatemplate::
-   :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
+   :source: /_data/{{shortcode}}-{{year}}-day-1.yaml
    :template: include/schedule2018.rst
    :include_context:
 
 {% else %}
   A detailed schedule will be announced soon.
 {% endif %}
-
-Doc Fixits and Workshop
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-* **Where**: {{about.mainroom}}
-* **When**: **13:00-17:30** (including a snack break)
-* **Details**: TBA
 
 Unconference
 ~~~~~~~~~~~~
@@ -73,30 +65,22 @@ Friday, 15th November 2019
 
 *Tea, coffee and lunch will be provided, as well as snacks and drinks all day.*
 
-Conference Talks
-~~~~~~~~~~~~~~~~~
+Conference talks and workshops
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.mainroom}}
-* **When**: **9:00-14:30** (including a lunch break)
-* **Details**: TBA
+* **When**: **9:00-17:00** (including a lunch break)
 
 {% if flaghasschedule %}
 
 .. datatemplate::
-   :source: /_data/{{templatecode}}-{{year}}-day-2.yaml
-   :template: include/schedule2018.rst
+   :source: /_data/{{shortcode}}-{{year}}-day-2.yaml
+   :template: include/schedule2019.rst
    :include_context:
 
 {% else %}
   A detailed schedule will be announced soon.
 {% endif %}
-
-Workshop
-~~~~~~~~~
-
-* **Where**: {{about.mainroom}}
-* **When**: **14:30-16:30**
-* **Details**: TBA
 
 Unconference
 ~~~~~~~~~~~~

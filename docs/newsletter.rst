@@ -206,7 +206,6 @@ API documentation
 - `API reference docs layout </blog/newsletter-december-2017/#thinking-hard-about-api-reference-docs-layout>`_
 - `What do we mean by "API" </blog/newsletter-october-2017/#the-true-meaning-of-api>`_
 - `Get started with API docs </blog/newsletter-february-2017/#getting-started-with-api-docs>`_
-- `API community resources </blog/newsletter-december-2016/#api-community-resources>`_
 
 Code snippets/samples
 ~~~~~~~~~~~~~~~~~~~~~
@@ -254,7 +253,6 @@ Learning resources
 - `Recommended books </blog/newsletter-november-2018/#recommended-reads>`_
 - `Learning Git </blog/newsletter-april-2017/#starter-kit-for-command-line-git>`_
 - `Get started with API docs </blog/newsletter-february-2017/#getting-started-with-api-docs>`_
-- `API community resources </blog/newsletter-december-2016/#api-community-resources>`_
 
 UI writing
 ----------

@@ -84,7 +84,7 @@ August 17 – Montreal, QC, Canada – Social Meetup
 
 August 21 – Houston, TX, USA – `WTD video: Even naming this talk was hard <https://www.meetup.com/Write-the-Docs-Houston/events/242361975/>`_
 
-August 23 – Fredericton, NB, Canada – `Documententarian Meetup at Trailway Brewery Co <https://www.meetup.com/Write-The-Docs-YFC-Fredericton/>`_
+August 23 – Fredericton, NB, Canada – Documententarian Meetup at Trailway Brewery Co
 
 August 28 – Boise, ID, USA – `Networking Night! <https://www.meetup.com/Write-the-Docs-Boise/events/242002310/>`_
 

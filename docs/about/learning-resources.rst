@@ -12,6 +12,7 @@ Learning Resources
    /organizer-guide/index
    /hiring-guide/index
    /guide/index
+   /surveys/index
 
 Newsletter
 ~~~~~~~~~~
