@@ -43,7 +43,7 @@ What is the WEP process?
 
 The WEP process is defined in `WEP0`_,
 the first ever WEP.
-The process is currently undergoing review,
+WEP0 itself is currently ready for review,
 following the draft WEP process.
 This might appear circular at first glance,
 but we hope that it will showcase how the process works as we adopt it.
