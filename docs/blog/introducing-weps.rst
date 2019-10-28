@@ -6,7 +6,7 @@ It has now grown to multiple conferences worldwide,
 over 50 international meetups,
 and `many other projects`_.
 
-We have often followed the open-source philosophy in our community practices,
+We have often followed the open source philosophy in our community practices,
 keeping a loose governance model and mostly letting the work speak for itself.
 However,
 we've been experiencing a number of growing pains with this approach.
