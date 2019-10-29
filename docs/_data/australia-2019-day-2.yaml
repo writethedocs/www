@@ -55,8 +55,9 @@
   Slug: null
   Time: '13:30'
 - Duration: '30'
-  Session: Akhil Behl - Your First Book - Doesn't have to be rocket science!
-  Slug: akhil-behl
+  Session: Paris Buttfield-Addison - Making interactive narrative storytelling accessible
+    to everyone
+  Slug: paris-buttfield-addison
   Time: '13:35'
 - Duration: '15'
   Session: Lightning Talks

@@ -56,8 +56,8 @@ The official Write the Docs Australia social!
 This event is for **conference attendees only**, so please bring your badge to be let into the venue.
 There will be drinks and nibbles available while our tab lasts.
 
-* **Where**: TBA
-* **When**: **6.30pm-8.30pm**
+* **Where**: Harts Pub, Essex St & Gloucester St, The Rocks, NSW
+* **When**: **6.30pm-9.00pm**
 
 
 Friday, 15th November 2019
