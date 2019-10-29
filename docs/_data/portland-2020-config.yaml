@@ -79,25 +79,22 @@ date: # how do we handle these? human readable would be nice.
   day_one:
     event: Hike
     date: May 2
-    # TODO: Re-add links once not a landing page
-    # summary: If you're in town early, join us for the <a href="/conf/portland/2020/hike/">Hike</a>. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
-    summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    summary: If you're in town early, join us for the <a href="/conf/portland/2020/hike/">Hike</a>. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    #summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
     icon: hike
     dotw: Saturday
   day_two:
     event: Writing Day
     date: May 3
-    # TODO: Re-add links once not a landing page
-    # summary: Join us for the <a href="/conf/portland/2020/writing-day/">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
-    summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    summary: Join us for the <a href="/conf/portland/2020/writing-day/">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    #summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
     icon: writing
     dotw: Sunday
   day_three:
     event: Main Conference
     date: May 4-5
-    # TODO: Re-add links once not a landing page
-    # summary: The main days of the conference. We will be running our main track in the ballroom, and the <a href="/conf/portland/2020/unconference/">Unconference</a> in Lola's Room.
-    summary: The main days of the conference. We will be running our main track in the ballroom, and the Unconference in Lola's Room.
+    summary: The main days of the conference. We will be running our main track in the ballroom, and the <a href="/conf/portland/2020/unconference/">Unconference</a> in Lola's Room.
+    #summary: The main days of the conference. We will be running our main track in the ballroom, and the Unconference in Lola's Room.
     icon: conference
     dotw: Monday/Tuesday
   total_talk_days: 2
@@ -133,7 +130,7 @@ sponsors:
 
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: False
 flagcfp: False
 flagticketsonsale: False

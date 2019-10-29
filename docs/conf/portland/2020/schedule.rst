@@ -81,8 +81,8 @@ We'll also help groups organize dinner plans, so you can continue your conversat
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **17:00-20:00**
 
-Monday, September 16
---------------------
+Monday, May 4
+-------------
 
 .. contents::
    :local:
@@ -131,10 +131,8 @@ There will be light snacks and drinks available on the conference while our tab 
 
 Further details will be announced later.
 
-.. TODO add this variable? 
-
-Tuesday, September 17
----------------------
+Tuesday, May 5
+--------------
 
 .. contents::
    :local:
