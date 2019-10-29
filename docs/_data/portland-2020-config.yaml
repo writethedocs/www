@@ -36,8 +36,8 @@ buttons:
   bottom:
      - text: Sponsor the conference
        link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #  link: /cfp
+     - text: Submit a Talk
+       link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
 #    - text: Prepare with the Welcome Wagon
@@ -116,9 +116,9 @@ about:
     Unconference Room, across from the Main Ballroom
 
 cfp:
-  url: https://docs.google.com/forms/d/e/1FAIpQLScCK5qIaRwmn2UouYvtxfrQk56r_X72aliVWLnoGKb69HZuug/viewform
-  ends: "31 January, 2020"
-  notification: "21 February, 2020"
+  url: https://docs.google.com/forms/d/e/1FAIpQLSfXD-hlTzSDTrpuYkguUwXq1OtKDOZQazzdNqWmSKO5H0hWLQ/viewform
+  ends: "15 January, 2020"
+  notification: "15 February, 2020"
 
 job_fair:
   location: Unconference Room, across from the Main Ballroom
@@ -132,7 +132,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: False
-flagcfp: False
+flagcfp: True
 flagticketsonsale: False
 flagspeakersannounced: False
 flaghasschedule: False
