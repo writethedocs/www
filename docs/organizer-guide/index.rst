@@ -54,6 +54,7 @@ Information about our regional Write the Docs conferences.
    confs/volunteers
    confs/welcome-wagon
    confs/community-events
+   confs/website
 
 .. TODO
 
@@ -65,7 +66,6 @@ Information about our regional Write the Docs conferences.
    confs/venues-logistics
    confs/sponsorship
    confs/tickets
-   confs/web-resources
    confs/print-resources
 
 We also recommend reading the DevOps Days organizer guide.
