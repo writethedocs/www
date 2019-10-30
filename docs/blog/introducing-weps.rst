@@ -1,3 +1,6 @@
+.. post:: Oct 30, 2019
+   :tags: governance, wep, weps
+
 Introducing Write the Docs Enhancement Proposals
 ================================================
 
