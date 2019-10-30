@@ -4,7 +4,7 @@
 Doc fixit: TheGoodDocsProject
 ===================================================================================================================
 
-Doc fixit host: **Cameron Shorter**
+Doc fixit hosts: **Cameron Shorter**, and **Jared Morgan**
 
 Surprisingly, the world doesn’t have an open, best-practices suite of writing templates; one which could be used by open-source projects.
 That’s not right. A bunch of us documentarians and open-source community members have decided to create them, and have banded together under the banner of TheGoodDocsProject.
@@ -25,12 +25,12 @@ We need to source, develop, test and refine:
 
 At the end we will come back together to present findings to the group and discuss how ideas can be brought back into TheGoodDocsProject.
 
-Your doc fixit session will be hosted by Cameron Shorter.
+Your doc fixit session will be hosted by Cameron Shorter and Jared Morgan.
 
 Schedule
 --------
 
-- Date & Time: **TBA**.
+- Date & Time: **Thursday, 14th November 2019, at 13:00-15:00**.
 - Location: {{about.mainroom}}.
 - Find out more:
   :doc:`/conf/australia/2019/venue`
