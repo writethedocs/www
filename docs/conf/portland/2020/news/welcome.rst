@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: October 28, {{year}}
+.. post:: October 28, 2019
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Announcing Write the Docs Portland {{year}} CFP
@@ -26,7 +26,7 @@ The Call for Proposals will be open until **Midnight PST {{cfp.ends}}**.
 Tickets
 -------
 
-Tickets will officially go on sale in **January 2019**.
+Tickets will officially go on sale in **January 2020**.
 
 In the meantime, you can see the ticket prices on our `Tickets <https://www.writethedocs.org/conf/portland/{{year}}/tickets/>`_ page.
 As with the previous years, we have tiered pricing to make it fair for everyone. Please buy the ticket that best fits your situation.
