@@ -17,7 +17,7 @@ Even folks doing a lot of work in the community are often lost or confused when 
 All organizations have power structures,
 some are just not documented. [#]_
 Instead of trying to reinvent the wheel,
-we've once again taken an idea from the open-source ecosystem:
+we've once again taken an idea from the open source ecosystem:
 Write the Docs Enhancement Proposals,
 or WEPs.
 
