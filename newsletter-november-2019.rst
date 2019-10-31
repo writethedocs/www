@@ -5,7 +5,7 @@
 Write the Docs Newsletter – November 2019
 #########################################
 
-`It's...<https://www.youtube.com/watch?v=ydyXFUmv6S4>`__ not Monty Python's Flying Circus. Sorry. It is, however, the November edition of the newsletter!
+`It's... <https://www.youtube.com/watch?v=ydyXFUmv6S4>`__ not Monty Python's Flying Circus. Sorry. It is, however, the November edition of the newsletter!
 
 The `Sydney conference </conf/australia/2019/>`__ is coming up in just a few short weeks. It'll be 14th-15th November, and there are still a handful of tickets left. So if you were on the fence, get them now!
 
@@ -37,7 +37,7 @@ Docs and design: When docs can't fix all the things
 
 Much as we'd like to wish otherwise, we don't usually document perfectly usable software. (Is there such a thing?) And sometimes, they have major usability problems. A plaintive question about how to document a poorly designed product generated a range of responses - from how to provide feedback about the design and try to improve it, to how to hide or make less prominent less usable portions of the product.
 
-So If you've got features that "don't make sense" or don't seem to fit into the rest of the product you're tasked with documenting, try these tips from our always-creative community:
+So if you've got features that "don't make sense" or don't seem to fit into the rest of the product you're tasked with documenting, try these tips from our always-creative community:
 
 - See whether you can persuade the product dev team to remove not-very-sensible features, or features that seem to have been included by mistake.
 - Create an "Advanced Features" section of the docs and bury information about the features there.
@@ -91,7 +91,7 @@ This month's newsletter is sponsored by `JetBrains <https://www.jetbrains.com/>`
           </td>
           <td width="25%">
             <a href="https://surveys.jetbrains.com/s3/authoring-tools-nl">
-              <img alt="knowledgeowl" src="/_static/img/sponsors/jetbrains.png">
+              <img alt="JetBrains" src="/_static/img/sponsors/jetbrains.png">
             </a>
           </td>
         </tr>
