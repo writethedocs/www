@@ -20,45 +20,10 @@ Samuel Wright
 
 {% include "bios/sam.rst" %}
 
-Mo Nishiyama
-~~~~~~~~~~~~
-
-{% include "bios/mo.rst" %}
-
-Alicia Duncan
-~~~~~~~~~~~~~
-
-{% include "bios/alicia.rst" %}
-
-Christy Lutz
-~~~~~~~~~~~~
-
-{% include "bios/christy.rst" %}
-
-Rose Williams
-~~~~~~~~~~~~~
-
-{% include "bios/rose.rst" %}
-
-Jennifer Rondeau
-~~~~~~~~~~~~~~~~
-
-{% include "bios/jennifer.rst" %}
-
-Sasha Romijn
-~~~~~~~~~~~~
-
-{% include "bios/sasha.rst" %}
-
 Mikey Ariel
 ~~~~~~~~~~~~~
 
 {% include "bios/mikey.rst" %}
-
-Hillary Fraley
-~~~~~~~~~~~~~~~
-
-{% include "bios/hillary.rst" %}
 
 Primary Roles
 -------------
