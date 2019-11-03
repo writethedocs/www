@@ -5,13 +5,13 @@
 Write the Docs Newsletter – November 2019
 #########################################
 
-`It's... <https://www.youtube.com/watch?v=ydyXFUmv6S4>`__ not Monty Python's Flying Circus. Sorry. It is, however, the November edition of the newsletter!
+It's the November edition of the newsletter!
 
-The `Sydney conference </conf/australia/2019/>`__ is coming up in just a few short weeks. It'll be 14th-15th November, and there are still a handful of tickets left. So if you were on the fence, get them now!
+The `Sydney conference </conf/australia/2019/>`__ is coming up in just a few short weeks. It's on 14th-15th November. Tickets are now sold out, but videos of the talks will be up on YouTube shortly after the conference.
 
 Looking forward to next year, the site for `Portland 2020 </conf/portland/2019/>`__ is live, as is the `Call For Proposals </conf/portland/2020/cfp>`__. We'd love to hear all your awesome talk ideas, so get working on them! The CFP closes on 10th January, 2020.
 
-Finally, we're changing policy for how we change policies, by introducing `Write the Docs Enhancement Proposals </blog/introducing-weps/>`__. The way we run the community has grown organically with the community itself, from seven whole years ago when it was just one conference . Our processes are only loosely defined - but that makes it harder for new people to understand the community and join the leadership. So we're trying WEPs, an idea taken from the open-source ecosystem. If you're interested, take a look at the `blog post </blog/introducing-weps/>`__, which explains it all much better.
+Finally, we're formalizing how we change policies, by introducing `Write the Docs Enhancement Proposals </blog/introducing-weps/>`__. The community has mostly grown organically, but there have been some growing pains as we've expanded. Our processes are only loosely defined, which makes it harder for new people to understand who makes decisions and join in leadership positions. So we're trying WEPs, an idea taken from the open-source ecosystem, to formalize our decision-making. If you're interested, take a look at the `introduction blog post </blog/introducing-weps/>`__, which goes into more depth.
 
 Onto this month's articles!
 
@@ -35,14 +35,14 @@ We could fill an entire newsletter describing the paths people took to their rol
 Docs and design: When docs can't fix all the things
 ---------------------------------------------------
 
-Much as we'd like to wish otherwise, we don't usually document perfectly usable software. (Is there such a thing?) And sometimes, they have major usability problems. A plaintive question about how to document a poorly designed product generated a range of responses - from how to provide feedback about the design and try to improve it, to how to hide or make less prominent less usable portions of the product.
+Much as we'd hope otherwise, we don't usually document perfectly usable software. (Is there such a thing?) And sometimes, the software we're documenting has major usability problems. A plaintive question about how to document a poorly designed product generated a range of responses - from how to provide feedback about the design and try to improve it, to how to hide or make less prominent less usable portions of the product.
 
 So if you've got features that "don't make sense" or don't seem to fit into the rest of the product you're tasked with documenting, try these tips from our always-creative community:
 
 - See whether you can persuade the product dev team to remove not-very-sensible features, or features that seem to have been included by mistake.
 - Create an "Advanced Features" section of the docs and bury information about the features there.
-- Keep the docs about the problematic thing short, but also provide brief warnings about any consequences of trying to use a feature - for example, if works poorly or has unexpected consequences.
-- Include a recommendation to contact Support before using the problem features (a bit passive-aggressive, but participants agreed that desperate times can call for desperate measures).
+- Keep the docs about the problematic thing short, but also provide brief warnings about any consequences of trying to use a feature - for example, if it works poorly or has unexpected consequences.
+- Include a recommendation to contact Support before using the problem features (a bit passive-aggressive, but participants agreed that desperate times can call for desperate measures). If you do this, make sure to mention it to Support first!
 
 -------------------------------------------
 The challenge of giving difficult feedback 
@@ -99,6 +99,7 @@ This month's newsletter is sponsored by `JetBrains <https://www.jetbrains.com/>`
     </table>
     <hr>
 
+*Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </newsletter/sponsorship/>`__.
 
 ---------
 Job posts
