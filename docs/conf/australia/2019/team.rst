@@ -48,11 +48,11 @@ Filled Roles
 * **Swag coordinator** - Michalina Ziemba
 * **Speaker wrangler** - Linette Voller
 * **Infrastructure chair** - Samuel Wright
-* **Lightning Talk coordinator** - TBA
+* **Lightning Talk coordinator** - Catherine Huish
 * **Communication chair** - Swapnil Ogale
 * **Volunteer coordinator** - Alexandra Perkins
 * **Sponsorship** - Swapnil Ogale, Michalina Ziemba
-* **Unconference coordinator** - TBA
+* **Unconference coordinator** - Catherine Huish
 * **Emcee** - Linette Voller
 
 Organisers Needed
