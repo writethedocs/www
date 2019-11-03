@@ -5,9 +5,9 @@
 Write the Docs Newsletter – November 2019
 #########################################
 
-It's the November edition of the newsletter!
+Hello, everyone - it's the November edition of the newsletter!
 
-The `Sydney conference </conf/australia/2019/>`__ is coming up in just a few short weeks. It's on 14th-15th November. Tickets are now sold out, but videos of the talks will be up on YouTube shortly after the conference.
+The `Sydney conference </conf/australia/2019/>`__ is coming up in just a few short weeks, on 14th-15th November. Tickets are now sold out, but if you can't make it, don't worry - videos of the talks will be up on YouTube shortly after the conference.
 
 Looking forward to next year, the site for `Portland 2020 </conf/portland/2019/>`__ is live, as is the `Call For Proposals </conf/portland/2020/cfp>`__. We'd love to hear all your awesome talk ideas, so get working on them! The CFP closes on 10th January, 2020.
 
@@ -35,7 +35,7 @@ We could fill an entire newsletter describing the paths people took to their rol
 Docs and design: When docs can't fix all the things
 ---------------------------------------------------
 
-Much as we'd hope otherwise, we don't usually document perfectly usable software. (Is there such a thing?) And sometimes, the software we're documenting has major usability problems. A plaintive question about how to document a poorly designed product generated a range of responses - from how to provide feedback about the design and try to improve it, to how to hide or make less prominent less usable portions of the product.
+Much as we'd wish otherwise, we don't usually document perfectly usable software. (Is there such a thing?) And sometimes, the software we're documenting has major usability problems. A plaintive question about how to document a poorly designed product generated a range of responses - from how to provide feedback about the design and try to improve it, to how to hide or make less prominent less usable portions of the product.
 
 So if you've got features that "don't make sense" or don't seem to fit into the rest of the product you're tasked with documenting, try these tips from our always-creative community:
 
@@ -86,7 +86,7 @@ This month's newsletter is sponsored by `JetBrains <https://www.jetbrains.com/>`
         <tr>
           <td width="75%">
               <p>
-              "Following our discussion on tools in the last newsletter: JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, and also sponsored this year's Write The Docs Prague. They're running a survey on which help authoring tools and markup languages are popular among technical writers: <a class="reference external" href="https://surveys.jetbrains.com/s3/authoring-tools-nl">surveys.jetbrains.com/s3/authoring-tools-nl</a>. Please take a moment to share your experience, to help JetBrains get a bird’s eye view of the documentation developer ecosystem."
+              "Following the discussion on tools in the last newsletter: JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, who sponsored this year's Write The Docs Prague. They're running a survey about help authoring tools and markup languages that are popular among technical writers: <a class="reference external" href="https://surveys.jetbrains.com/s3/authoring-tools-nl">surveys.jetbrains.com/s3/authoring-tools-nl</a>. Please take a moment to share your experience, to help JetBrains get a bird’s eye view of the documentation developer ecosystem."
               </p>
           </td>
           <td width="25%">
