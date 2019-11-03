@@ -120,18 +120,20 @@ Job posts
 Community events coming up
 --------------------------
 
-- 05 November - Tel Aviv, Israel - `GitHub and Jira and Docs - oh my! <https://www.meetup.com/Write-The-Docs-TAplus/events/265349233/>`__
-- 05 November - New York, NY, USA - `Lightning talks <https://www.meetup.com/WriteTheDocsNYC/events/265751514/>`__
-- 06 November - Leeds, UK - `JAMStack for docs: a deep dive into Antora <https://www.meetup.com/Write-the-Docs-North/events/265096599/>`__
-- 07 November - Austin, TX, USA - `ATX lunch meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/265377459/>`__
-- 09 November - Bengaluru, India - `Documentation, design and driving initiatives <https://www.meetup.com/Write-the-Docs-India/events/265991392/>`__
+- 5 November - Tel Aviv, Israel - `GitHub and Jira and Docs - oh my! <https://www.meetup.com/Write-The-Docs-TAplus/events/265349233/>`__
+- 5 November - New York, NY, USA - `Lightning talks <https://www.meetup.com/WriteTheDocsNYC/events/265751514/>`__
+- 6 November - Leeds, UK - `JAMStack for docs: a deep dive into Antora <https://www.meetup.com/Write-the-Docs-North/events/265096599/>`__
+- 7 November - Austin, TX, USA - `ATX lunch meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/265377459/>`__
+- 9 November - Bengaluru, India - `Documentation, design and driving initiatives <https://www.meetup.com/Write-the-Docs-India/events/265991392/>`__
 - 12 November - Bellevue, WA, USA - `Eastside morning social <https://www.meetup.com/Write-The-Docs-Seattle/events/265937099/>`__
 - 14 November - Sydney, Australia - `Write the Docs Australia conference 2019! </conf/australia/2019/>`__
 - 14 November - London, UK - `Localisation and Guerilla graphics <https://www.meetup.com/Write-The-Docs-London/events/265681650/>`__
 - 14 November - Indianapolis, IN, USA - `November meetup <https://www.meetup.com/Write-the-Docs-Indy/events/265907667/>`__
 - 14 November - Los Angeles, CA, USA - `Sean Marquez and TODO task management <https://www.meetup.com/Write-the-Docs-LA/events/265804790/>`__
 - 19 November - Austin, TX, USA - `ATX happy hour meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/265298825/>`__
+- 19 November - Boston, MA, USA - `Collaborating with UX Designers <https://www.meetup.com/Write-the-Docs-BOS/events/266142147/>`__
 - 20 November - Toronto, Canada - `Write the Docs Toronto <https://www.meetup.com/Write-the-Docs-Toronto/events/pcqbmqyzpbbc/>`__
 - 21 November - Stockholm, Sweden - `UX and technical writing <https://www.meetup.com/Write-the-Docs-Stockholm/events/265899795/>`__
 - 26 November - Ottawa, Canada - `Ottawa Shopify meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyzpbqb/>`__
+- 27 November - Dublin, Ireland - `Minimalism in technical communication <https://www.meetup.com/Write-The-Docs-Ireland/events/266134530/>`__
 - 04 December - Chicago, IL, USA - `Holiday meetup <https://www.meetup.com/Write-the-Docs-Chicago/events/263576210/>`__
