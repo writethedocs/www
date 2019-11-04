@@ -9,7 +9,7 @@ Hello, everyone - it's the November edition of the newsletter!
 
 The `Sydney conference </conf/australia/2019/>`__ is coming up in just a few short weeks, on 14th-15th November. Tickets are now sold out, but if you can't make it, don't worry - videos of the talks will be up on YouTube shortly after the conference.
 
-Looking forward to next year, the site for `Portland 2020 </conf/portland/2019/>`__ is live, as is the `Call For Proposals </conf/portland/2020/cfp>`__. We'd love to hear all your awesome talk ideas, so get working on them! The CFP closes on 10th January, 2020.
+Looking forward to next year, the site for `Portland 2020 </conf/portland/2020/>`__ is live, as is the `Call For Proposals </conf/portland/2020/cfp>`__. We'd love to hear all your awesome talk ideas, so get working on them! The CFP closes on 10th January, 2020.
 
 Finally, we're formalizing how we change policies, by introducing `Write the Docs Enhancement Proposals </blog/introducing-weps/>`__. The community has mostly grown organically, but there have been some growing pains as we've expanded. Our processes are only loosely defined, which makes it harder for new people to understand who makes decisions and join in leadership positions. So we're trying WEPs, an idea taken from the open-source ecosystem, to formalize our decision-making. If you're interested, take a look at the `introduction blog post </blog/introducing-weps/>`__, which goes into more depth.
 
