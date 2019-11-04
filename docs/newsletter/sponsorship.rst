@@ -57,8 +57,6 @@ Pricing
 -------
 
 The introductory price for reaching our audience is **$250** per month.
-This offer will end after the sponsorship of our October 2019 newsletter,
-and we will adjust pricing based on feedback from sponsors.
 
 Contact
 -------
