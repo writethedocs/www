@@ -56,6 +56,10 @@ def _rewrite_feed(app, tag):
     # Convert the content nodes to use absolute links
     for content in root.xpath('//atom:entry/atom:content', namespaces=nsmap):
         html_content = html.fromstring(content.text)
+        # Remove janky system messages
+        for to_remove in html_content.find_class('system-message'):
+            to_remove.drop_tree()
+        # fix links
         html_content.make_links_absolute(feed_url)
         content.text = html.tostring(html_content)
 
