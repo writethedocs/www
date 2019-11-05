@@ -128,7 +128,7 @@ as this option is removed once we have secured any sponsors for this benefit.
 Benefits
 ~~~~~~~~
 
-* Your sponsor logo will be shown on the stage during all staff presetentations as a grant sponsor (opening, closing). 
+* Your sponsor logo will be shown on the stage during all staff presentations as a grant sponsor (opening, closing). 
 * We will mention your company as a grant sponsor on Twitter from the official Write the Docs account
 
 
@@ -149,7 +149,7 @@ This is great for any company that is looking for contributors to their open sou
 
 **{{sponsorship.second_draft.price}}**
 
-- **Logistics**: The Writing Day is during the day of Sunday.
+- **Logistics**: The Writing Day is during the day Sunday.
 
 Inquiries
 =========
@@ -206,13 +206,13 @@ which is a wonderful place to connect with our over 500 attendees.
 Many of them are looking for jobs now or will be in the near future,
 so it's a great chance to talk more about your company culture and open positions.
 
-The room will be setup in a large circle with booths around the outside,
+The room will be set up in a large circle with booths around the outside,
 allowing for movement of attendees.
 We recommend not having more than 3-4 people at your booth,
 as it can be intimidating for attendees.
 There are 8 booth areas where you can sit and hold longer conversations.
 
-**Logistics**: You will have a six-foot table and two chairs reserved for your company. Each company that confirms their attendance will have a table reserved for them with their logo on it. Giveaways/flyers are welcome, but please make sure everything fits on your alloted table.
+**Logistics**: You will have a six-foot table and two chairs reserved for your company. Each company that confirms their attendance will have a table reserved for them with their logo on it. Giveaways/flyers are welcome, but please make sure everything fits on your allotted table.
 
 Sponsor booths
 ~~~~~~~~~~~~~~
