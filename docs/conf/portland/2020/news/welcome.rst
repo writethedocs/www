@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: October 28, 2019
+.. post:: Nov 5, 2019
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Announcing Write the Docs Portland {{year}} Call for Proposals
