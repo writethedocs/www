@@ -10,7 +10,7 @@ Ticket Information
 
 **Tickets are on sale now!**
 
-{% elif flaghasschedule %}
+{% elif flagsoldout %}
 
 Ticket status
 ~~~~~~~~~~~~~
