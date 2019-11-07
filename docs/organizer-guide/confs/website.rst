@@ -56,11 +56,17 @@ Typical conference workflow
   ``_data/<shortcode>-<year>-sessions.yaml`` file.
 * When the schedule is ready, ``flaghasschedule`` is switched on and remains on.
   The schedule should be in the ``_data/<shortcode>-<year>-schedule.yaml`` file.
+* At some point the conference sells out. ``flagticketsonsale`` is switched off,
+  ``flagsoldout`` is switched on.
 * During the conference, if live streaming is available, ``flaglivestreaming``
   is switched on. It is switched off after the conference ends.
 * After the conference ends, ``flagpostconf`` is switched on and remains on.
 * When videos are published on the Write the Docs website, ``flagvideos``
   is switched on and remains on.
+
+Each time the state is updated, check the top/bottom buttons to ensure they
+still fit. For example, once tickets have sold out, the button "buy a ticket"
+should be removed.
 
 
 General conference config file
@@ -195,6 +201,7 @@ Others will change over time:
 * ``flaglanding``: is the conference website only a landing page?
   Typically used for an early announcement of conference dates.
 * ``flagticketsonsale``: are tickets on sale at this time?
+* ``flagsoldout``: is the conference sold out?
 * ``flagcfp``: is the CFP currently open?
 * ``flagspeakersannounced``: have speakers been announced?
   This flag requires the ``_data/<shortcode>-<year>-sessions.yaml``

@@ -135,6 +135,7 @@ flaglanding: False
 flaghassponsors: False
 flagcfp: True
 flagticketsonsale: False
+flagsoldout: False
 flagspeakersannounced: False
 flaghasschedule: False
 flaghasshirts: False
