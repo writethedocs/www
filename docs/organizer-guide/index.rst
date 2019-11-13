@@ -51,7 +51,9 @@ Information about our regional Write the Docs conferences.
    confs/event-roles
    confs/cfp
    confs/communication
-   confs/volunteers
+   confs/volunteer-coordination
+   confs/volunteer-roles
+   confs/registration
    confs/welcome-wagon
    confs/community-events
 
