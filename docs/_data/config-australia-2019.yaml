@@ -18,10 +18,12 @@ buttons:
   top:
     - text: Sponsor the conference
       link: /sponsors/prospectus
+    - text: Check the schedule
+      link: /schedule
     #- text: Submit a Talk
     #  link: /cfp
-    - text: Buy a Ticket!
-      link: /tickets
+    #- text: Buy a Ticket!
+    #  link: /tickets
     # - text: See the talks!
     #   link: /speakers
     # - text: Prepare with the Welcome Wagon
@@ -68,6 +70,8 @@ sponsors:
       link: https://buildkite.com/
     - name: gandi
       link: https://www.gandi.net/en
+    - name: gitlab
+      link: https://gitlab.com
   first:
     - name: datalust
       link: https://datalust.co/seq
@@ -117,7 +121,7 @@ flagcfp: False
 flaghassponsors: True
 flaghasschedule: True
 
-flagticketsonsale: True
+flagticketsonsale: False
 flaghashike: False
 flaghasboat: False
 flagvideos: False
