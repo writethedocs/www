@@ -6,7 +6,7 @@ Conference websites
 ===================
 
 Each conference has a section of the website, which is part of the same
-repository as the main conference website. Many parts of the conference
+repository as the main community website. Many parts of the conference
 websites are data-driven, like the generation of the schedule.
 
 .. note::
@@ -19,59 +19,66 @@ The important locations of files are:
 
 * ``_data/<shortcode>-<year>-config.yaml`` contains the general config file
   for rendering a specific conference. This includes settings like the
-  conference dates, sponsors and ticket prices.
+  conference dates, sponsors, and ticket prices.
 * ``_data/<shortcode>-<year>-sessions.yaml`` contains the conference sessions,
   the main talks on the agenda. For each session, it includes things like the
   title and abstract, and name and other info for the speaker(s).
 * ``_data/<shortcode>-<year>-schedule.yaml`` contains the conference schedule.
-  This includes the talks, but also items like "Lunch".
+  This includes the talks, but also peripheral activities like lightning talks, meals, the outing, and social event.
 * ``conf/<shortcode>/<year>/`` contains the RST files used for rendering the
-  conference website. Copy these over from the previous conference
-  (chronologically, not the previous conference in the same location).
-  You may need to update some reference to specific locations/years,
-  and keep an eye on any FIXME's or TODO's.
-* ``include/conf/`` contains text snippets which are generally the same
+  conference website.
+* ``include/conf/`` contains text snippets that are generally the same
   between conferences, or at least between conferences in the same location.
   Examples include the description of lightning talks, or the Portland hike.
 * ``_templates/<year>/`` and ``_templates/include/`` contain HTML or RST
-  templates used in rendering the conference pages. This includes the
+  templates used to render the conference pages. This includes the
   website design, navigation and snippets used in schedule rendering.
 
-The YAML files are validated using the schemas in ``_data/schema-*``.
+The YAML files are validated by the `validate-yaml.sh` script, using
+the schemas in ``_data/schema-*``.
 
 
 Typical conference workflow
 ---------------------------
 
-* The initial conference site is created, with ``flaglanding`` typically
-  set to publish a simple landing page with the conference dates.
-* At some point, the content for the conference is filled in and verified,
-  like sponsorship prices. ``flaglanding`` is now switched off and remains off.
-* As soon as tickets go on sale, ``flagticketsonsale`` is switched on.
-* When the CFP opens, ``flagcfp`` is switched on. Once the CFP has closed,
-  it is switched off and remains off. The CFP details should be in the
-  general conference config file, under ``cfp``.
-* When speakers are announced, ``flagspeakersannounced`` is switched on
-  and remains on. The sessions should be in the
+* Create the intial conference website by copying the files from
+  ``conf/<shortcode>/<year>/`` from the previous conference
+  (chronologically, not the previous conference in the same location).
+  You may need to update some reference to specific locations/years,
+  and keep an eye on any FIXMEs or TODOs.
+* In the initial conference website, set ``flaglanding``,
+  to publish a simple landing page with the conference dates.
+* Once decided, enter further details of the conference in the general config
+  file, like sponsorship and ticket prices. Switch off ``flaglanding``.
+  Review all conferences pages and activities first, to make sure they are
+  correct, or TBA if not yet known.
+* As soon as tickets go on sale, switch on ``flagticketsonsale``.
+* When the CFP opens, add the CFP details in the general conference config
+  file, under ``cfp``.switch on ``flagcfp``. Once the CFP has closed,
+  switch it off.
+* When speakers have been selected, add their sessions to the
   ``_data/<shortcode>-<year>-sessions.yaml`` file.
-* When the schedule is ready, ``flaghasschedule`` is switched on and remains on.
-  The schedule should be in the ``_data/<shortcode>-<year>-schedule.yaml`` file.
-* At some point the conference sells out. ``flagticketsonsale`` is switched off,
-  ``flagsoldout`` is switched on.
-* During the conference, if live streaming is available, ``flaglivestreaming``
-  is switched on. It is switched off after the conference ends.
-* After the conference ends, ``flagpostconf`` is switched on and remains on.
-* When videos are published on the Write the Docs website, ``flagvideos``
-  is switched on and remains on.
+  Then, switch on ``flagspeakersannounced``.
+* When the schedule is ready, add it to the ``_data/<shortcode>-<year>-schedule.yaml``
+  file and switch in ``flaghasschedule``.
+* At some point the conference sells out. Switch off ``flagticketsonsale``, and
+  switch on ``flagsoldout``.
+* A week or so before the conference, if live streaming is available, switch on
+  ``flaglivestreaming``. Switch it off after the conference ends.
+* After the conference ends, switch on ``flagpostconf``.
+* When videos have been published on the Write the Docs website,
+  switch on ``flagvideos``.
 
 Each time the state is updated, check the top/bottom buttons to ensure they
-still fit. For example, once tickets have sold out, the button "buy a ticket"
-should be removed.
+are still appropriate. For example, once tickets have sold out, remove the
+"buy a ticket" button.
 
 
 General conference config file
 ------------------------------
 
+The general conference config file contains most of the per-conference
+settings, and is stored in ``_data/<shortcode>-<year>-config.yaml``
 If you're setting up a new conference, the easiest may be to take a YAML
 config file from the previous conference, and adjust it.
 
@@ -83,12 +90,14 @@ The items in the general conference config file are:
   references to the conference, together with the year. Currently used are
   ``portland``, ``prague``, and ``australia``.
 * ``year``: the conference year, e.g. ``2020``.
-* ``city``: the city for the conference.
-* ``local_area``: the state or country for the conference.
+* ``city``: the city for the conference, e.g. ``Portland`` or ``Prague``.
+* ``local_area``: the state or country for the conference, e.g. ``Oregon``
+  or ``Czech Republic``.
 * ``area``: the wider area for the conference. Currently used are
   ``North America``, ``Europe``, and ``Australia``.
 * ``area_adj``: the adjective form of the area, e.g. ``Australian``.
-* ``tz``: the timezone the conference is located in.
+* ``tz``: the timezone the conference is located in, e.g. ``PST`` or ``CEST``
+  This is displayed in the website, so the format is free.
 * ``email``: general contact email for the conference.
 * ``color``: the accent color for conference branding, e.g. ``blue`` for 2020.
 * ``photos.default``: the default header image.
@@ -111,8 +120,9 @@ The items in the general conference config file are:
          - text: Submit a Talk
            link: /cfp
 
-* ``tickets``: the conference ticket prices. The keys are fixed and referred
-  to in other places. Example::
+* ``tickets``: the conference ticket prices. The keys, i.e. the names of the
+  various sponsorship packages, are fixed and can not be changed per conference.
+  Example::
 
     tickets:
       corporate:
@@ -139,12 +149,12 @@ The items in the general conference config file are:
 
 * ``sponsors``: confirmed conference sponsors, using the same keys as the
   pricing. Each sponsor has a name and a link to their website. Their logo
-  should be stored in ``_static/img/sponsors/``. Example::
+  must be stored in ``_static/img/sponsors/``. Example::
 
     sponsors:
       keystone:
       patron:
-        # logo should be in _static/img/sponsors/patron-sponsor.jpg/png
+        # logo must be in _static/img/sponsors/patron-sponsor.jpg/png
         - name: patron-sponsor
           link: http://www.example.com
       publisher:
@@ -158,7 +168,7 @@ The items in the general conference config file are:
     * ``main``: the human readable conference dates and location,
       e.g. ``"**May 3-5, 2020, in Portland, Oregon**"``.
     * ``short``: the short human readable dates, e.g. ``May 3-5, 2020``.
-    * ``tickets_live``: a rough human readable date when tickets go on sale,
+    * ``tickets_live``: a human readable date to indicate the month when tickets go on sale,
       e.g. ``January 2020``.
     * ``month``: the month in which the conference is held, e.g. ``May``.
     * ``total_talk_days``: the number of days that have talks, e.g. ``2``.
@@ -189,7 +199,7 @@ The items in the general conference config file are:
       will be notified.
 * ``job_fair.location``: a description of the location of the job fair.
 
-Then, there are a number of true/false flags. Some of these don't change
+The file also includes a few true/false flags. Some of these don't change
 as the conference is being planned. These are:
 
 * ``flaghashike``: does the conference have a hike?
@@ -209,7 +219,7 @@ Others will change over time:
 * ``flaghasschedule``: is the schedule ready?
   This flag requires the``_data/<shortcode>-<year>-schedule.yaml``
   file to exist, which contains the schedule.
-* ``flaglivestreaming``: is a live stream currently running?
+* ``flaglivestreaming``: is a live stream currently running or available soon?
 * ``flagpostconf``: has the conference ended?
 * ``flagvideos``: are the conference videos published?
 
@@ -217,20 +227,21 @@ Others will change over time:
 Sessions file
 -------------
 
-The sessions file contains the conference sessions, i.e. the talks.
+The sessions file contains the conference sessions, i.e. the talks, and
+is stored in ``_data/<shortcode>-<year>-sessions.yaml``.
 
 Each talk has the following attributes:
 
 * ``title``: title of the talk
 * ``abstract``: talk abstract
-* ``slug``: talk slug - referenced in the schedule.Typically, the slug is
+* ``slug``: talk slug - referenced in the schedule. Typically, the slug is
   a slugified version of the title, followed by the slugified speaker name.
 * ``series``: the conference series, used for videos, e.g. ``Write the Docs PORTLAND``
 * ``series_slug``: the slug of the series, used for videos
 * ``year``: the year the talk was given, used for videos
 * ``youtubeId``: the Youtube ID of the talk video, if published already
 * ``speakers``: the speaker(s) for the talk, in a list of speakers with keys:
-    * ``name``: name of the speaker
+    * ``name``: full name of the speaker
     * ``slug``: slug of the speaker
     * ``twitter``: Twitter username
     * ``website``: URL of the speaker's website
@@ -239,16 +250,17 @@ Each talk has the following attributes:
 Schedule file
 -------------
 
-The schedule file contains the conference schedule. This is a mix of conference
+The schedule file contains the conference schedule and is stored in
+``_data/<shortcode>-<year>-schedule.yaml``. This is a mix of conference
 talks, and other agenda items like "Switch Speakers" or "Lunch Break".
 
 If you're writing a new conference schedule, it may be easier to start from
-the schedule file of the same conference as last year, as they tend to be
-quite similar.
+a copy of the schedule file of the same conference as last year, as they tend
+to be quite similar.
 
-For conferences with a writing day, there must be a ``writing_day`` key. Then,
+For conferences with a writing day, you must add a ``writing_day`` key. Then,
 a schedule for each main conference day, in the form of ``day1``, ``day2``,
-and more if needed. The number of days should match ``date.total_talk_days``
+and more if needed. The number of days must match ``date.total_talk_days``
 from the general config file.
 
 Within each day, each item must have a ``time``, which is free text, so it
@@ -290,4 +302,3 @@ A schedule file for a very brief conference could look like::
         slug: documentation-for-good-riona-macnamara
       - time: '10:00'
         title: "<b>Conference Ends</b> :("
-
