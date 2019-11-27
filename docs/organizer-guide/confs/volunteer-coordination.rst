@@ -15,7 +15,7 @@ ill.
 The volunteer coordinator is typically also the on-site registration manager,
 as these roles closely overlap.
 
-There are `several roles for volunteers <volunteer-roles>`_, each split
+There are :doc:`several roles for volunteers <volunteer-roles>`, each split
 into several shifts that have one or two people assigned.
 
 Call for Volunteers

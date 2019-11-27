@@ -7,9 +7,9 @@ The registration desk is where on-site conference registration takes
 place, and is also a place for people to ask questions, sign up for
 lightning talks, and similar tasks.
 
-The `volunteer coordinator <volunteer-coordination>`_ is usually also the
+The :doc:`volunteer coordinator <volunteer-coordination>` is usually also the
 on-site registration manager, due to the close overlap between the tasks.
-The registration desk is staffed with `volunteers <volunteer-roles>`_.
+The registration desk is staffed with :doc:`volunteers <volunteer-roles>`.
 
 Registration is typically quite busy the morning of the writing day,
 the morning of the first conference day, and during the opening

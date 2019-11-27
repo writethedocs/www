@@ -4,7 +4,7 @@ Volunteer roles
 ===============
 
 Write the Docs conferences have several different roles for volunteers,
-coordinated by the `volunteer coordinator <volunteer-coordination>`_
+coordinated by the :doc:`volunteer coordinator <volunteer-coordination>`.
 
 Unless otherwise noted, each role has one person assigned during a particular
 shift. Note that not all roles may apply to each conference.
