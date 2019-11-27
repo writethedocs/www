@@ -1,4 +1,4 @@
-.. _conf-volunteers:
+.. _conf-registration:
 
 On-site conference registration
 ===============================

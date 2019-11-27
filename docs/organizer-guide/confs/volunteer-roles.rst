@@ -1,4 +1,4 @@
-.. _conf-volunteers:
+.. _conf-volunteer-roles:
 
 Volunteer roles
 ===============
