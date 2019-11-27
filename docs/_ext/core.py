@@ -1,11 +1,10 @@
-from __future__ import print_function
+from __future__ import (standard_library, print_function)
+standard_library.install_aliases()
 
-from __future__ import standard_library
 from yaml import YAMLError
 
 from .utils import load_yaml
 
-standard_library.install_aliases()
 
 import logging
 
