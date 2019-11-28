@@ -1,7 +1,4 @@
 from __future__ import print_function
-from future import standard_library
-standard_library.install_aliases()
-
 
 from yaml import YAMLError
 from .utils import load_yaml
