@@ -115,14 +115,12 @@ about:
   unconfroom:
     Unconference Room, across from the Main Ballroom
   projector_ratio: "16:9"
+  job_fair_room: Unconference Room, across from the Main Ballroom
 
 cfp:
   url: https://docs.google.com/forms/d/e/1FAIpQLSfXD-hlTzSDTrpuYkguUwXq1OtKDOZQazzdNqWmSKO5H0hWLQ/viewform
   ends: "10 January, 2020"
   notification: "30 January, 2020"
-
-job_fair:
-  location: Unconference Room, across from the Main Ballroom
 
 sponsors:
   publisher:

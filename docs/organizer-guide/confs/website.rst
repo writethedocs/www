@@ -190,6 +190,7 @@ The items in the general conference config file are:
     * ``photos``: a link to the conference photos (typically on Flickr).
     * ``mainroom``: the name of the main room.
     * ``unconfroom``: the name of the unconference room.
+    * ``job_fair_room``: the location of the job fair.
     * ``projector_ratio``: the ratio for the projector, e.g. ``16:9``.
 * ``cfp``: call for papers details. Contains:
     * ``url``: the URL to a google form with the CFP.
@@ -197,7 +198,6 @@ The items in the general conference config file are:
       e.g. ``31 January, 2020``.
     * ``notification``: a human readable date of when accepted speakers
       will be notified.
-* ``job_fair.location``: a description of the location of the job fair.
 
 The file also includes a few true/false flags. Some of these don't change
 as the conference is being planned. These are:

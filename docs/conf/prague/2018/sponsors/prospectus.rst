@@ -184,7 +184,7 @@ and many of those people will come to our job fair to look for new roles and pos
 
 It is included in all sponsorship packages this year.
 
-- **Logistics**: The Job Fair will be Tuesday morning in {{job_fair.location}}. You can see the timing details on the :ref:`schedule <{{shortcode}}-{{year}}-job-fair>`.
+- **Logistics**: The Job Fair will be Tuesday morning in {{about.job_fair_room}}. You can see the timing details on the :ref:`schedule <{{shortcode}}-{{year}}-job-fair>`.
 
 - **Layout**: Every participant will have a table and two chairs reserved for them. Giveaways/flyers are welcome, please make sure everything fits on your table.
 
