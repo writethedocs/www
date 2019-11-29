@@ -236,6 +236,7 @@ Each talk has the following attributes:
 * ``abstract``: talk abstract
 * ``slug``: talk slug - referenced in the schedule. Typically, the slug is
   a slugified version of the title, followed by the slugified speaker name.
+
 * ``series``: the conference series, used for videos, e.g. ``Write the Docs PORTLAND``
 * ``series_slug``: the slug of the series, used for videos
 * ``year``: the year the talk was given, used for videos
@@ -259,7 +260,8 @@ a copy of the schedule file of the same conference as last year, as they tend
 to be quite similar.
 
 For conferences with a writing day, you must add a ``writing_day`` key. Then,
-a schedule for each main conference day, in the form of ``day1``, ``day2``,
+a schedule for each main conference day, in the form of ``talks-day1``,
+``talks-day2``,
 and more if needed. The number of days must match ``date.total_talk_days``
 from the general config file.
 
@@ -277,7 +279,7 @@ A schedule file for a very brief conference could look like::
       - time: '5:00'
         title: End of Writing Day
 
-    day1:
+    talks-day1:
       - time: '8:00'
         title: Doors Open, Breakfast Served
       - time: '9:40'
@@ -289,7 +291,7 @@ A schedule file for a very brief conference could look like::
       - time: '11:00'
         title: Day 1 wraps up
 
-    day2:
+    talks-day2:
       - time: '8:00'
         title: Doors Open, Breakfast Served
       - time: '9:00'

@@ -1,9 +1,9 @@
 # Note that this only covers 2020 and newer schedules
 writing_day: include('day-details', required=False)
-day1: include('day-details')
-day2: include('day-details', required=False)
-day3: include('day-details', required=False)
-day4: include('day-details', required=False)
+talks-day1: include('day-details')
+talks-day2: include('day-details', required=False)
+talks-day3: include('day-details', required=False)
+talks-day4: include('day-details', required=False)
 
 ---
 
