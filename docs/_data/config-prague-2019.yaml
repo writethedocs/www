@@ -128,14 +128,12 @@ about:
     Main Ballroom
   unconfroom:
     Restaurant and Aero Hall, ground floor
+  job_fair_room: Aero Hall, ground floor
 
 cfp:
   url: https://goo.gl/forms/NdcXO3SGhUxlidht1
   ends: Tuesday, April 30th
   notification: Monday, June 2nd
-
-job_fair:
-  location: Aero Hall, ground floor
 
 flaghassponsors: True
 flagcfp: False
