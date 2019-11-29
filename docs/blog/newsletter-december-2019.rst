@@ -86,7 +86,7 @@ Do you feel confined by your tools - do they block your writing? - or do you fin
 
 Some find they're distracted by the formatting possibilities in Flare or Word, preferring the simplicity of plain text or markdown: the constraints can be freeing. Other people find considering the styling (or, for DITA, the semantics) helps them think through the content and its meaning.
 
-Thinking about formatting can help you look at your content anew - several said they reorganize the content when formatting. Similarly, regardless of which tool works better for you, many people felt that switching tool or even medium (eg computer to paper) helps unblock them when they get stuck. It's a trick to help your brain look at the problem differently. A similar suggestion *(that we unfortunately cannot condone - Ed.)* was to change your font to Comic Sans.
+Thinking about formatting can help you look at your content anew - several said they reorganize the content when formatting. Similarly, regardless of which tool works better for you, many people felt that switching tool or even medium (eg computer to paper) helps unblock them when they get stuck. It's a trick to help your brain look at the problem differently. A similar suggestion *(that we unfortunately could not possibly condone - Ed.)* was to change your font to Comic Sans.
 
 A philosophical question: is the style part of the content? Some see it as totally separate - a layer you add on top once the content is done. For others, the format isn't meaningfully separate from the content: you can write without styling in mind, but when published, the styling will always affect the reader. In some types of writing the style is hugely important - for example, UI text.
 
