@@ -7,7 +7,7 @@ Write the Docs Newsletter – December 2019
 
 Hi everybody! It's Beth here, with the last issue of 2019. And what a year it's been! Four conferences (including our first time in `Vilnius </conf/vilnius/2019/>`__, and the recently-wrapped-up `Australia conference </conf/australia/2019/>`__), more meetups than you can shake a stick at, and an ever-busier community on Slack.
 
-And there's plenty more to look forward to in 2020. If you like taking the time  to think about the big picture over the holidays, we'd love the gift of your talk proposal for Portland 2020 - the `CFP </conf/portland/2020/cfp/>`__ is open until 10th January. We’re also hoping to have another US conference next year, closer to folks on the East coast - but this is still unconfirmed. We'll keep you posted.
+And there's plenty more to look forward to in 2020. If you like taking the time to think about the big picture over the holidays, we'd love the gift of your talk proposal for Portland 2020 - the `CFP </conf/portland/2020/cfp/>`__ is open until 10th January. We’re also hoping to have another US conference next year, closer to folks on the East Coast - but this is still unconfirmed. We'll keep you posted.
 
 So that's all on the news front. We’ve had another month of great conversations and insights from the Write the Docs Slack - enjoy!
 
@@ -70,7 +70,7 @@ One more tip: if you regularly use several operating systems, consider setting u
 Should documentation have a formal tone?
 ----------------------------------------
 
-Is there a requirement for formal tone in documentation? Or is it better for docs be informal? We had a lively discussion on the topic this month.
+Is there a requirement for formal tone in documentation? Or is it better for docs to be informal? We had a lively discussion on the topic this month.
 
 Our documentarians were mostly of the 'it depends' school of thought here - as so often, there are no hard and fast rules. In particular, everyone agreed that the choice depends a lot on what your audience expects. It's important that your tone should not be jarring, causing it to get in the way of your message.
 
@@ -86,7 +86,7 @@ Do you feel confined by your tools - do they block your writing? - or do you fin
 
 Some find they're distracted by the formatting possibilities in Flare or Word, preferring the simplicity of plain text or markdown: the constraints can be freeing. Other people find considering the styling (or, for DITA, the semantics) helps them think through the content and its meaning.
 
-Thinking about formatting can help you look at your content anew - several said they reorganize the content when formatting. Similarly, regardless of which tool works better for you, many people felt that switching tool or even medium (eg computer to paper) helps unblock them when they get stuck. It's a trick to help your brain look at the problem differently. A similar suggestion *(that we unfortunately could not possibly condone - Ed.)* was to change your font to Comic Sans.
+Thinking about formatting can help you look at your content anew - several said they reorganize the content when formatting. Similarly, regardless of which tool works better, many people felt that switching tools or even the medium (eg computer to paper) helps unblock them when they get stuck. It's a trick to help your brain look at the problem differently. A similar suggestion *(that we unfortunately could not possibly condone - Ed.)* was to change your font to Comic Sans.
 
 A philosophical question: is the style part of the content? Some see it as totally separate - a layer you add on top once the content is done. For others, the format isn't meaningfully separate from the content: you can write without styling in mind, but when published, the styling will always affect the reader. In some types of writing the style is hugely important - for example, UI text.
 
