@@ -5,9 +5,9 @@
 Write the Docs Newsletter – December 2019
 #########################################
 
-Hi everybody! It's Beth here, with the last issue of 2019. And what a year it's been! Four conferences (including the recently-wrapped-up `Australia conference </conf/australia/2019/>`__), more meetups than you can shake a stick at, and an ever-busier community on Slack.
+Hi everybody! It's Beth here, with the last issue of 2019. And what a year it's been! Four conferences (including the recently-wrapped-up `Australia conference </conf/australia/2019/>`_), more meetups than you can shake a stick at, and an ever-busier community on Slack. For a last dose of conference goodness this year, take a look at the  `videos of the talks from Australia <https://www.youtube.com/watch?v=gLlkOUyx7Ks&list=PLy70RNJ7dYrJPuUTAIOS7vWGw6poKDHtH>`__ (plus `fab photos <https://www.flickr.com/photos/writethedocs/albums/72157711813997262>`__), which are now available for your enjoyment.
 
-There's plenty to look forward to in 2020. If you like taking the time to think about the big picture over the holidays, we'd love the gift of your talk proposal for Portland 2020 - the `CFP </conf/portland/2020/cfp/>`__ is open until 10th January. We’re also hoping to have another US conference next year, closer to folks on the East Coast - but this is still unconfirmed. We'll keep you posted.
+And there's plenty to look forward to in 2020. If you like taking the time to think about the big picture over the holidays, we'd love the gift of your talk proposal for Portland 2020 - the `CFP </conf/portland/2020/cfp/>`__ is open until 10th January. We’re also hoping to have another US conference next year, closer to folks on the East Coast - but this is still unconfirmed. We'll keep you posted.
 
 So that's all on the news front. We’ve had another month of great conversations and insights from the Write the Docs Slack - enjoy!
 
