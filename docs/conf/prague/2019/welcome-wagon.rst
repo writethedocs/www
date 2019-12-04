@@ -1,41 +1,46 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/group.png
+:banner: _static/conf/images/headers/group.png
 
 Welcome Wagon
 =============
 
-Hello!
+Hi! If you're new to Write the Docs, you're in the right place. The Welcome Wagon is here to help out new attendees, 
+with both the information on this page, and events we run during the conference.
 
-We're your Welcome Wagon volunteers! We're glad you're coming to the {{year}} Write the Docs conference!
+On this page you'll find important stuff that will help you navigate the conference like a pro,
+make you feel more at home, and help you to manage the constant flow of information.
 
-.. image:: /_static/2018/assets/images/pics/welcome-wagon.jpg
+.. image:: /_static/conf/images/pics/welcome-wagon.jpg
 
-We've gathered important stuff here that will help you navigate the conference like a pro, make you feel more at home, and help you to manage the constant flow of information.
-
-The Welcome Wagon events warm up new attendees and connect them with people, both veterans
-and other first-timers. Strategies and pro tips provide ways you can make the most of the conference.
+Dururing the conference, we'll connect you with people - both veterans and other first-timers.
+And we'll give you strategies and tips so you can make the most of the conference.
 
 The `FAQs <#faq>`_ should have answers to most of your questions, but let us know if there is anything you'd like to know that isn't there. You can ask us questions in the :doc:`#wtd-conferences channel on Slack </slack>`.
+
+Who we are
+-----------
+
+Hi - we're Beth and Daniel, your Welcome Wagon volunteers! We're really glad you're coming to the {{year}} Write the Docs conference.
+
+If you need a hand at all, we're here to help.
 
 Welcome Wagon events
 --------------------
 
-**Write the Docs Welcome Wagon Introduction**
+**Write the Docs Introduction**
 
-*{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}} at 17:00 in the downstairs foyer (near the cloakroom) at Auto-Klub*
+*{{date.day_two.dotw}}, {{date.day_two.date}} at 17:00 in the downstairs foyer (near the cloakroom) at Auto-Klub*
 
-Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new before we join the opening reception.
+Join us for an informal introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new before we join the opening reception.
 
-**Welcome Wagon Tours**
+**Venue Tours**
 
-* *{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}} at 17:30 starting near the registration desk at Auto-Klub*
-* *{{date.day_three.dotw}}, {{date.month}} {{date.day_three.date}} at 9:15 starting near the registration desk at Auto-Klub*
+* *{{date.day_two.dotw}}, {{date.day_two.date}} at 17:30 starting near the registration desk at Auto-Klub*
+* *Monday, {{date.day_three.date}} at 9:15 starting near the registration desk at Auto-Klub*
 
 Come on a short tour of the venue with a veteran Write the Docs attendee so you'll know where everything is and everything you can take part in.
 
-.. Tuesday check in? TODO
-
-Pro Tips
+Pro tips
 --------
 
 -  You don't need to go to every talk. Look through the schedule of
@@ -61,8 +66,8 @@ FAQ
 .. contents::
    :local:
 
-**Where is everything?**
-~~~~~~~~~~~~~~~~~~~~~~~~
+Where is everything?
+~~~~~~~~~~~~~~~~~~~~
 
 The conference main stage is in the Auto Klub on the second floor. The unconference
 takes place directly across the foyer in the adjoining room.
@@ -70,34 +75,34 @@ takes place directly across the foyer in the adjoining room.
 If you are joining in the boat tour on Saturday, you'll meet the other folks
 at the Prague Boats pier no. 5.
 
-**How should I get around?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+How should I get around?
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Prague is a very walk-able town. Most of the events are
    within walking distance of the conference venue.
 -  There are good public transportation options and taxi services. Check
    out the `Visiting Prague section of the Write the Docs
-   website <https://www.writethedocs.org/conf/prague/2018/visiting/>`__ for
+   website </conf/{{shortcode}}/{{year}}/visiting/>`__ for
    more info.
 
-**How should I dress?**
-~~~~~~~~~~~~~~~~~~~~~~~
+How should I dress?
+~~~~~~~~~~~~~~~~~~~
 
 -  Praguers have a very eclectic dress style, which means they dress however
    they feel! Our documentarians tend to go for a more casual dress at the
    conference. You'll be meeting business colleagues at this conference,
    though, so neat and comfortable are good dress guidelines.
--  If you are going on the `Write the Docs boat tour on
-   Saturday <https://www.writethedocs.org/conf/prague/2018/outing/>`__, be sure
+-  If you are going on the `boat tour on
+   Saturday </conf/{{shortcode}}/{{year}}/outing/>`__, be sure
    to bring appropriate out-of-doors clothes and shoes. Prague, like most of
    Europe, experiences some ups and downs in the autumn. The first year we
    were here we had a heat wave, and last year we got rained on, so you
    never know! Layering is usually the way to go.
 
-**What will I eat?**
-~~~~~~~~~~~~~~~~~~~~
+What will I eat?
+~~~~~~~~~~~~~~~~
 
--  Drinks and food are provided for you on conference days, so you can
+-  Drinks and food are provided for you during conference days, so you can
    focus on the talks and meeting people and don't have to worry about
    where to get your morning coffee.
 -  Coffee, tea, and water are always available in the Auto Klub.
@@ -112,8 +117,8 @@ at the Prague Boats pier no. 5.
 -  If you need grocery items, there is a BILA supermarket at the Prague train station
    across the park from Auto Klub.
 
-**Where should I sit?**
-~~~~~~~~~~~~~~~~~~~~~~~
+Where should I sit?
+~~~~~~~~~~~~~~~~~~~
 
 -  The Auto Klub will have round tables next to the main stage
    and rows of seats behind them. There will also be seats in the mezzanine level.
@@ -122,10 +127,10 @@ at the Prague Boats pier no. 5.
    seat at one of the round tables. Introducing yourself to your
    neighbors is one of the easiest way to meet people.
 
-**What should I do during the talks?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+What should I do during the talks?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Conference talks at Auto Klub <https://www.writethedocs.org/conf/eu/2017/speakers/>`__
+`Conference talks at Auto Klub </conf/{{shortcode}}/{{year}}/speakers/>`__:
 
 -  The time between talks is for meeting your colleagues or taking a
    break. During the talks, listen and take in as much as you can.
@@ -135,11 +140,11 @@ at the Prague Boats pier no. 5.
 -  If you have a question during a talk, make a note of it and use it as
    a conversation starter with the speaker after the talk.
 -  After a talk, feel free to tweet about it with the hashtag
-   #writethedocs. Try not to "watch" the conference through Twitter and
+   ``#writethedocs``. Try not to "watch" the conference through Twitter and
    other social media, though. You are attending the conference, so live
    in it as much as you can!
 
-**Unconference**
+Unconference:
 
 -  Check the schedule posted in the unconference room for the table number of the
    unconference talk you are interested in. Head to that table and have
@@ -148,13 +153,13 @@ at the Prague Boats pier no. 5.
 -  Feel free to just listen or add your voice to the discussion.
    Unconference talks are designed to get everyone involved.
 
-**How do I take part in the unconference?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+How do I take part in the unconference?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  The unconference is a set of informal sessions that take place across the foyer
    from the main stage on Monday afternoon and Tuesday morning.
    `Unconference talks focus on exchanges of ideas between
-   participants. <https://www.writethedocs.org/conf/eu/2017/unconference/>`__
+   participants. </conf/{{shortcode}}/{{year}}/unconference/>`__
 -  You can attend unconference sessions, or, if you have an idea for a
    session, you can lead one.
 -  To lead an unconference session, post a summary of your topic on a
@@ -163,8 +168,8 @@ at the Prague Boats pier no. 5.
    anyone who is attending your session. Once the group has gathered,
    introduce your topic and get the discussion going.
 
-**What are lightning talks, and should I give one?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+What are lightning talks, and should I give one?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  A lightning talk is a five-minute talk where you quickly share a
    concept or bit of info you find interesting.
@@ -176,13 +181,13 @@ at the Prague Boats pier no. 5.
    will be a sign-up sheet at registration.
 -  If you are interested in giving a lightning talk, be prepared! There
    is a great guide
-   `here <https://www.writethedocs.org/conf/eu/2017/lightning-talks/?highlight=re>`__.
+   `here </conf/{{shortcode}}/{{year}}/lightning-talks>`__.
 
-**How do I make the most out of this conference?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+How do I make the most out of this conference?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Attend the Welcome Wagon events. Make connections with other first-time
-attendees and get advice from seasoned pros.
+Make connections with other first-time attendees and get advice from seasoned pros.
+Attend the Welcome Wagon events to help with this!
 
 The most important part of this conference (and any conference) is the
 people you meet. Set a goal for yourself to meet a few new people. Here
@@ -206,8 +211,8 @@ are some tips:
    connections. That is what the Write the Docs conference is about, so
    go for it! Introduce yourself.
 
-**Sample strategy for my first Write the Docs conference**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sample strategy for my first Write the Docs conference
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__,
    and participate in the Welcome Wagon chat room to start making
@@ -226,8 +231,8 @@ are some tips:
 -  Check out the lightning talks, and get excited about presenting one
    at next year's conference.
 
-**Sample strategy for a second or higher Write the Docs conference**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sample strategy for a second or higher Write the Docs conference
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Attend the Welcome Wagon events and share your conference knowledge.
    You might learn something new yourself!

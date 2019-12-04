@@ -7,8 +7,7 @@ from docutils.statemachine import ViewList
 from sphinx.errors import ExtensionError
 from sphinx.util.nodes import nested_parse_with_titles
 
-from .core import load_yaml
-
+from _ext.utils import load_yaml
 
 STATE_ABBREVIATIONS = {
     'Canada': {

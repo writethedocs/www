@@ -3,15 +3,22 @@ Newsletter & Mailing lists
 
 Write the Docs publishes a regular newsletter. Each month we pack a bunch of
 interesting information that has been shared in our Slack network into the
-newsletter. The primary links you need are:
+newsletter. 
+
+The primary links you need are:
 
 * Our full `newsletter archives </blog/archive/tag/newsletter/>`__ 
 * Our `index <#index-of-newsletter-topics>`__ which sorts our writing by topic 
 
-You can also subscribe to our Conference mailing lists to stay up-to-date on upcoming events.
-
 If you have any questions or want to contribute to the newsletter, go ahead and email us at `newsletter@writethedocs.org
 <mailto:newsletter@writethedocs.org>`_.
+
+You can also subscribe to our Conference mailing lists to stay up-to-date on upcoming events below.
+
+Sponsorship
+-----------
+
+As of June 2019 you can :doc:`sponsor the newsletter </newsletter/sponsorship>` on a monthly basis.
 
 Sign up
 -------
@@ -150,6 +157,8 @@ Docs metadata/other formatting
 Jobs
 ----
 
+- `For those who might consider freelancing </blog/newsletter-july-2019/#for-those-who-might-consider-freelancing>`_
+
 Applying for jobs
 ~~~~~~~~~~~~~~~~~
 
@@ -172,6 +181,7 @@ Hiring documentarians
 Career growth
 ~~~~~~~~~~~~~
 
+- `Making the leap to managing writers </blog/newsletter-july-2019/#making-the-leap-to-managing-writers>`_
 - `Personal development goals </blog/newsletter-february-2019/#personal-development-goals-for-documentarians>`_
 - `Career paths </blog/newsletter-december-2018/#technical-writing-career-paths>`_
 - `Distinguishing between junior vs senior tech writers </blog/newsletter-june-2018/#junior-vs-senior-technical-writers>`_
@@ -183,6 +193,7 @@ Career growth
 Developer docs
 --------------
 
+- `READMEs on READMEs (and other README-related resources) </blog/newsletter-july-2019/#readmes-on-readmes-and-other-readme-related-resources>`_
 - `Code comments and other musings on developer docs </blog/newsletter-april-2019/#what-s-in-a-code-comment-and-other-musings-on-developer-docs>`_
 - `READMEs and doc-driven development </blog/newsletter-august-2017/#readmes-and-doc-driven-development>`_
 - `Maintaining command reference pages </blog/newsletter-october-2016/#writing-and-maintaining-command-reference-pages>`_
@@ -195,7 +206,6 @@ API documentation
 - `API reference docs layout </blog/newsletter-december-2017/#thinking-hard-about-api-reference-docs-layout>`_
 - `What do we mean by "API" </blog/newsletter-october-2017/#the-true-meaning-of-api>`_
 - `Get started with API docs </blog/newsletter-february-2017/#getting-started-with-api-docs>`_
-- `API community resources </blog/newsletter-december-2016/#api-community-resources>`_
 
 Code snippets/samples
 ~~~~~~~~~~~~~~~~~~~~~
@@ -243,7 +253,6 @@ Learning resources
 - `Recommended books </blog/newsletter-november-2018/#recommended-reads>`_
 - `Learning Git </blog/newsletter-april-2017/#starter-kit-for-command-line-git>`_
 - `Get started with API docs </blog/newsletter-february-2017/#getting-started-with-api-docs>`_
-- `API community resources </blog/newsletter-december-2016/#api-community-resources>`_
 
 UI writing
 ----------
@@ -266,6 +275,7 @@ Docs as code
 
 See also: developer docs.
 
+- `What to do about text wrapping </blog/newsletter-july-2019/#what-to-do-about-text-wrapping>`__
 - `DITA vs docs-as-code </blog/newsletter-june-2019/#dita-vs-docs-as-code>`__
 - `Moving to docs-as-code: static site generators </blog/newsletter-march-2019/#moving-to-docs-as-code-static-site-generators>`_
 - `Making docs maintainable </blog/newsletter-august-2017/#making-docs-maintainable>`_

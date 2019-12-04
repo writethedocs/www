@@ -1,0 +1,147 @@
+name: Portland
+
+shortcode: portland # prague australia?
+year: 2020
+city: Portland
+local_area: Oregon
+area: North America # European Australian
+area_adj: North American
+tz: PST
+email: portland@writethedocs.org
+color: blue
+
+photos:
+  default: _static/conf/images/headers/group.png
+
+buttons:
+  top:
+     - text: Sponsor the conference
+       link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #  link: /cfp
+    # - text: Buy a Ticket!
+    #   link: /tickets
+    # - text: See the talks!
+    #   link: /speakers
+#    - text: See the Schedule!
+#      link: /schedule
+    # - text: Welcome Wagon
+    #   link: /welcome-wagon
+#    - text: Watch the Live Stream
+#      link: /livestream
+#     - text: Browse the photos
+#       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+#     - text: Watch the videos!
+#       link_absolute: /videos/portland/2020
+  bottom:
+     - text: Sponsor the conference
+       link: /sponsors/prospectus
+     - text: Submit a Talk
+       link: /cfp
+    # - text: Buy a Ticket!
+    #   link: /tickets
+#    - text: Prepare with the Welcome Wagon
+#      link: /welcome-wagon
+#    - text: See the schedule!
+#      link: /schedule
+    # - text: Watch the Live Stream
+    #  link: /livestream
+#     - text: Browse the photos
+#       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+#     - text: Watch the videos!
+#       link_absolute: /videos/portland/2020
+
+tickets:
+  corporate:
+    price: $500
+  independent:
+    price: $275
+  student:
+    price: $100
+
+sponsorship:
+  first_draft:
+    price: $900
+  second_draft:
+    price: $2,500
+  publisher:
+    price: $5,000
+  patron:
+    price: $9,500
+  keystone:
+    price: $17,000
+
+date: # how do we handle these? human readable would be nice.
+  main: "**May 3-5, 2020, in Portland, Oregon**"
+  short: May 3-5, 2020
+  tickets_live: "January 2020"
+  month: May
+  day_one:
+    event: Hike
+    date: May 2
+    summary: If you're in town early, join us for the <a href="/conf/portland/2020/hike/">Hike</a>. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    #summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    icon: hike
+    dotw: Saturday
+  day_two:
+    event: Writing Day
+    date: May 3
+    summary: Join us for the <a href="/conf/portland/2020/writing-day/">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    #summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    icon: writing
+    dotw: Sunday
+  day_three:
+    event: Main Conference
+    date: May 4-5
+    summary: The main days of the conference. We will be running our main track in the ballroom, and the <a href="/conf/portland/2020/unconference/">Unconference</a> in Lola's Room.
+    #summary: The main days of the conference. We will be running our main track in the ballroom, and the Unconference in Lola's Room.
+    icon: conference
+    dotw: Monday/Tuesday
+  total_talk_days: 2
+
+about:
+  attendees: 500
+  summary:
+    "The main presentation track takes place from **May 4-5 (Monday and Tuesday) from 9am to 6pm**.
+    We will return to the historic `Crystal Ballroom <http://www.mcmenamins.com/CrystalBallroom>`_, `centrally located <http://goo.gl/maps/D2WrJ>`_ in the heart of Portland.
+    During the main event we also run an :doc:`/conf/portland/2020/unconference` downstairs in Lola's Room.
+
+    You can find out more information about the venue and its accessibility on our :doc:`/conf/portland/2020/venue` page."
+  venue:
+    "Crystal Ballroom located at 1332 W Burnside St"
+  photos: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+  mainroom:
+    Main Ballroom
+  unconfroom:
+    Unconference Room, across from the Main Ballroom
+
+cfp:
+  url: https://docs.google.com/forms/d/e/1FAIpQLSfXD-hlTzSDTrpuYkguUwXq1OtKDOZQazzdNqWmSKO5H0hWLQ/viewform
+  ends: "10 January, 2020"
+  notification: "30 January, 2020"
+
+job_fair:
+  location: Unconference Room, across from the Main Ballroom
+
+sponsors:
+  publisher:
+  second:
+  first:
+
+
+# Things that change over time, listed in order of change
+flaglanding: False
+flaghassponsors: False
+flagcfp: True
+flagticketsonsale: False
+flagspeakersannounced: False
+flaghasschedule: False
+flaghasshirts: False
+flagvideos: False
+flaglivestreaming: False
+flagpostconf: False
+
+# Truthy things that don't change
+flaghashike: True
+flaghasboat: False
+flaghaswritingday: True

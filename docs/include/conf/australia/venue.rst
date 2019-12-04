@@ -1,16 +1,16 @@
 Venue
 -----
 
-Our venue for the conference is the Performance Space and Community Room, Library at the Dock, Melbourne.
+Our venue for the conference is the Water Police Court and Charge Room/Cells, Justice and Police Museum, Sydney.
 
 .. raw:: html
 
-   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.718107274093!2d144.93833551531893!3d-37.820071279751225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d5e69c3fae9%3A0x86668ab8c73f0701!2sLibrary+at+The+Dock!5e0!3m2!1sen!2sau!4v1527740617807" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3313.066784981188!2d151.21009511521004!3d-33.86216968065797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12ae69b23f1615%3A0x6ce4bb846622abfc!2sJustice%20%26%20Police%20Museum!5e0!3m2!1sen!2sus!4v1570919362213!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 Accessibility
 ~~~~~~~~~~~~~
 
-All conference spaces at Performance Space, Library at the Dock are wheelchair accessible.
+All conference spaces at Justice and Police Museum are wheelchair accessible.
 
 The venue has:
 

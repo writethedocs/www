@@ -23,6 +23,12 @@
         {% endautoescape %}
       {% endif %}
 
+      {% if talk.slides %}
+      <ul class="slides">
+        <li>Slides: <a href="{{ talk.slides }}">{{ talk.slides }}</a></li>
+      </ul>
+      {% endif %}
+
       <ul class="video-info">
         <li>Conference: {{ talk.series }}</li>
         <li>Year: {{ talk.year }}</li>

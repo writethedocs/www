@@ -9,9 +9,10 @@
                                       <ul class="uk-nav uk-navbar-dropdown-nav">
                                           <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/schedule') }}">Schedule</a></li>
                                           <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/speakers') }}">Talks</a></li>
-                                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/workshop-tech-writing') }}">Tech Writing Workshop</a></li>
-                                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/workshop-style-guide') }}">Style Guide Workshop</a></li>
-                                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/workshop-ssg') }}">Static Site Generators Workshop</a></li>
+                                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/workshop-tech-writing') }}">Tech Writing 101 Workshop</a></li>
+                                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/workshop-git-the-docs') }}">Git the Docs Workshop</a></li>
+                                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/doc-fixit-thegooddocsproject') }}">The Good Docs Project</a></li>
+                                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/doc-fixit-kubeflow') }}">Kubeflow open source docs</a></li>
                                           <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/lightning-talks') }}">Lightning Talks</a></li>
                                           <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/unconference') }}">Unconference</a></li>
                                       </ul>
@@ -26,7 +27,6 @@
                                   <div class="uk-navbar-dropdown">
                                       <ul class="uk-nav uk-navbar-dropdown-nav">
                                           <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/venue') }}">Venue</a></li>
-                                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/visiting') }}">Melbourne</a></li>
                                       </ul>
                                   </div>
                               </li>
@@ -43,24 +43,26 @@
                                           <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/team') }}">Meet the Team</a></li>
                                           <li><a href="{{ pathto('conf') }}">Past Events</a></li>
                                           <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
+                                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/contact') }}">Contact</a></li>
                                       </ul>
                                   </div>
                               </li>
                           </ul>
                         </li>
-                        <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/tickets') }}">Tickets</a></li>
+                        <li><a href="{{ pathto('conf/australia/2019/tickets') }}">Tickets</a></li>
                         <li>
                             <ul class="uk-navbar-nav">
                                 <li>
-                                    <a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/sponsors') }}">Sponsors</a>
+                                    <a href="{{ pathto('conf/australia/2019/sponsors') }}">Sponsors</a>
                                     <div class="uk-navbar-dropdown">
                                         <ul class="uk-nav uk-navbar-dropdown-nav">
-                                            <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/sponsors/prospectus') }}">Prospectus</a></li>
+                                            <li><a href="{{ pathto('conf/australia/2019/sponsors') }}">Our Sponsors</a></li>
+                                            <li><a href="{{ pathto('conf/australia/2019/sponsors/prospectus') }}">Prospectus</a></li>
                                         </ul>
                                     </div>
                                 </li>
                             </ul>
-                          </li>
+                          </li><!--- Parent element with it's children -->
 
                          {% if flagcfp %}
                          <li><a href="{{ pathto('conf/' + shortcode + '/' + year|string + '/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>

@@ -1,0 +1,74 @@
+- Duration: '0'
+  Session: Doors Open
+  Slug: null
+  Time: '8:00'
+- Duration: '20'
+  Session: Write the Docs Team - Introduction to Write the Docs
+  Slug: null
+  Time: '8:45'
+- Duration: '30'
+  Session: 'Riona MacNamara - Knowledge Is Power: Documentation as a tool for equity
+    and inclusion'
+  Slug: riona-macnamara
+  Time: '9:05'
+- Duration: '5'
+  Session: Switch Speakers
+  Slug: null
+  Time: '9:35'
+- Duration: '30'
+  Session: Alec Clews - Creating API documentation for international communities.
+  Slug: alec-clews
+  Time: '9:40'
+- Duration: '30'
+  Session: Morning tea - Snack break
+  Slug: null
+  Time: '10:10'
+- Duration: '30'
+  Session: Rachel Robins - Supercharge your writing process with a designer's toolkit
+  Slug: rachel-robins
+  Time: '10:40'
+- Duration: '5'
+  Session: Switch Speakers
+  Slug: null
+  Time: '11:10'
+- Duration: '30'
+  Session: Akhil Behl - Your First Book - Doesn't have to be rocket science!
+  Slug: akhil-behl
+  Time: '11:15'
+- Duration: '60'
+  Session: Lunch
+  Slug: null
+  Time: '11:45'
+- Duration: '15'
+  Session: Lightning Talks
+  Slug: null
+  Time: '12:45'
+- Duration: '120'
+  Session: Cameron Shorter - TheGoodDocsProject - creating open templates and best-practice
+    writing guides for software documentation
+  Slug: cameron-shorter
+  Time: '13:00'
+- Duration: '120'
+  Session: Sarah Maddox - Kubeflow open source docs need your help!
+  Slug: sarah-maddox
+  Time: '13:00'
+- Duration: '30'
+  Session: Snack break
+  Slug: null
+  Time: '15:00'
+- Duration: '120'
+  Session: 'Becky Todd - Git the Docs: A fun, hands-on introduction to version control'
+  Slug: becky-todd
+  Time: '15:30'
+- Duration: '120'
+  Session: Unconference
+  Slug: null
+  Time: '15:30'
+- Duration: '10'
+  Session: Group Photo
+  Slug: null
+  Time: '17:30'
+- Duration: '0'
+  Session: Day 1 wraps up
+  Slug: null
+  Time: '17:40'

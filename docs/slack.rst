@@ -1,32 +1,32 @@
 Slack
 =====
 
-To join our Slack network, you can `get an invite <http://slack.writethedocs.org/>`_ automatically.
+You can `join our slack`_ network automatically.
 
-Our Slack network has over 5000 people hanging out and chatting about documentation.
+Our Slack network has lots of people hanging out and chatting about documentation.
 It's the best way to connect with our community,
 and to stay in touch with folks you've met at our conferences and meetups.
 
-Our most active Slack channels are listed below. This should help you get connected to people
-with similar interests.
+Our most active Slack channels are listed below. 
+This should help you get connected to people with similar interests.
 Please also read the Slack guidelines carefully, and remember that our
-:doc:`code-of-conduct` also applies to our Slack.
+:doc:`/code-of-conduct` also applies to our Slack.
 
 We don't pay for our Slack, which means that the community has access to only the most
 recent 10,000 messages. Not only is paid Slack prohibitively expensive for a community
-like ours, but many people seem to feel a freedom in knowing that their words will disappear
-shortly. Some users have also said that if the conversations were archived/published, they’d quit
-participating.
-
-You can `join our Slack <http://slack.writethedocs.org/>`_ if you aren't already a member.
+like ours, but many people seem to feel a freedom in knowing that their words will disappear shortly.
 
 Feel free to send a Pull Request to update `this page`_, if you want to include other channels.
+
+You can `join our slack`_ network if you aren't already a member.
 
 .. note::
     Our Slack includes animated emoji, and other animations are sometimes posted.
     If you think these may be unpleasant for you, you can `disable all animations`_
     in your Slack client.
 
+
+.. _join our slack: https://join.slack.com/t/writethedocs/shared_invite/enQtNzQ2NzkwODQ3NDkwLWZhY2U4YTg5YjAyODk1NzkxYzI0ZmFjOWMxNWEwOWNjZDE3NDZjMmJiZTlkODc4Y2ZlNjkxNGIyNzMxNDkzZjA
 .. _this page: https://github.com/writethedocs/www/blob/master/docs/slack.rst
 .. _disable all animations: https://get.slack.help/hc/en-us/articles/228023907-Manage-animated-images-and-emoji
 
@@ -51,6 +51,7 @@ Other useful topical channels
 * **#sphinx** - Talk about the Sphinx documentation generation tool.
 * **#flare** - Talk about the Flare documentation toolkit.
 * **#confluence** - Talk about everyone's favorite Wiki.
+* **#community-showcase** - Announce your projects here! Blog posts, docs, code, products—whatever you make that you're excited to share!
 
 Location-based channels
 -----------------------
@@ -66,7 +67,7 @@ Guidelines
 Our goal with Write the Docs is to be **the most welcoming community on the internet**.
 People who are new to our community in particular should be assisted and welcomed.
 
-Our :doc:`code-of-conduct`, applies to all spaces associated with Write the Docs, which includes our Slack.
+Our :doc:`/code-of-conduct`, applies to all spaces associated with Write the Docs, which includes our Slack.
 In addition, we have a few Slack-specific guidelines:
 
 Social rules

@@ -269,6 +269,7 @@
     </ul>"
   slug: how-to-edit-other-peoples-content-without-pissing-them-off-ingrid-towey
   path: conf/portland/2019/how-to-edit-other-peoples-content-without-pissing-them-off-ingrid-towey
+  slides: https://docs.google.com/presentation/d/1DT3e4M8jFCuxScE0Y1wGXUAA7wbnjzs07NLniZ8shjU/edit#slide=id.g59da6a84e9_0_0
   youtubeId: 7iWUSetbaos
   series: Write the Docs PORTLAND
   series_slug: portland
@@ -365,7 +366,9 @@
     <li>Provide a checklist for newer documentarians (and the people who train them)</li>
 
     </ol>'
+
   slug: how-i-learned-to-stop-worrying-and-love-the-command-line-mike-jang
+  slides: https://slides.com/mike-1/command-line/
   path: conf/portland/2019/how-i-learned-to-stop-worrying-and-love-the-command-line-mike-jang
   youtubeId: YfM220sNVp8
   series: Write the Docs PORTLAND

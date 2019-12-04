@@ -95,7 +95,6 @@ and open source organizations.
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
 The **First Draft** package costs **{{sponsorship.first_draft.price}}**.
-You can buy it directly on our ticket website.
 
 Second Draft
 ------------
@@ -107,7 +106,6 @@ The **Second Draft** package is great for companies looking to hire or promote a
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 - One featured job posting in our Newsletter (4,000 subscribers)
-- A table at the job fair
 
 The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
 
@@ -121,7 +119,6 @@ The **Publisher** package is great for sending a team and getting to know the co
 - Name included in welcome announcement in email newsletters and social media
 - Display 2 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 - Two featured job postings in our Newsletter (4,000 subscribers)
-- A table at the job fair
 
 The **Publisher** package costs **{{sponsorship.publisher.price}}**.
 
@@ -143,7 +140,6 @@ The **Patron** package highlights your company as a force in the industry and co
 - Name included in welcome announcement in email newsletters and social media
 - Display 3 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 - Three featured job postings in our Newsletter (4,000 subscribers)
-- A featured table at the job fair
 
 The **Patron** package costs **{{sponsorship.patron.price}}**.
 
@@ -162,7 +158,6 @@ The **Keystone** package highlights you as our main community partner:
 - Name included in welcome announcement in email newsletters and social media
 - Display unlimited promotional (“Swag”) item on the conference swag table (provided by sponsor)
 - Five featured job postings in our Newsletter (4,000 subscribers)
-- A featured table at the job fair
 
 The **Keystone** package costs **{{sponsorship.keystone.price}}**.
 
@@ -182,7 +177,7 @@ Lanyard
 Provide your branded lanyards for our badges. This makes your company name
 visible to each and every attendee at the conference!
 
-**$500**
+**$250**
 
 - **Logistics**: Sponsor is responsible for shipping lanyards to organizers at least two weeks before the event starts.
 
@@ -191,7 +186,7 @@ Inquiries
 
 Please direct all inquiries to our sponsorship team at:
 
-- sponsorship@writethedocs.org
+- australia@writethedocs.org
 
 
 .. _ticket: https://ti.to/writethedocs/write-the-docs-{{ shortcode }}-{{ year }}/

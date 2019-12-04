@@ -41,11 +41,6 @@ Part of the reason this crops up so often is that the listings are often assembl
 
 There were lots of useful suggestions, most of which boiled down to: Consider your docs' audience, and choose your words carefully. If your docs are aimed at helping people code, then probably that "previous developer experience" is a good way to go, preferably with details on the specific languages/environments they'll be writing about. But if your documentation is more focused on configuration and/or optimization, then having a writer with  "sysadmin or DBA experience" may serve you better. If your docs are broader-ranging, you can cast a wide net by asking for "technical background", then focus it down in the interview process with a technical test (in addition to or instead of a writing test).
 
-
-## API Community Resources
-
-Since we've got lots of folks in the community who are into API docs (either professionally or just in their free time) we thought [this blog post would be a good resource](https://medium.com/@APIdays/api-blogs-api-newsletters-and-api-oriented-slack-groups-to-follow-878dd3cdb2ba) to share around. It's from APIDays, who organize a great series of API conferences around the world, and they've put together a great round-up of API-related blogs, newsletters and Slack groups. If APIs are your thing, these will most assuredly be your jam.
-
 ## Running UX tests on your documentation
 
 Knowing where your docs are falling down on the job is a critical first step to being able to improve them. So what can you do to determine where (and with a little luck, why) your documentation isn't working for your readers? Simple. Test it.

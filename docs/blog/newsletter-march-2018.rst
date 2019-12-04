@@ -87,7 +87,7 @@ March 19 – Amsterdam, Netherlands – `March Meetup <https://www.meetup.com/W
 
 March 19 – Berlin, Germany – `Mixing things up: Playing with form in technical writing <https://www.meetup.com/Write-The-Docs-Berlin/events/248465625/>`_
 
-March 20 – Fredericton, New Brunswick, Canada – `March Lunch Meetup <https://www.meetup.com/Write-The-Docs-YFC-Fredericton/events/248507804/>`_
+March 20 – Fredericton, New Brunswick, Canada – March Lunch Meetup
 
 March 21 – Perth, Western Australia – `Moving from Word to the Web | Contributing to open source docs <https://www.meetup.com/Write-the-Docs-Australia/events/246830725/>`_
 

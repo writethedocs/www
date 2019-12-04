@@ -1,5 +1,5 @@
 :template: {{year}}/index.html
-:banner: _static/2018/assets/images/backgrounds/{{ shortcode }}-green.jpg
+:banner: _static/conf/images/backgrounds/{{ shortcode }}-green.jpg
 :orphan:
 
 .. raw:: html
