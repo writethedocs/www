@@ -72,6 +72,7 @@ Tools of the Trade
    :maxdepth: 2
 
    tools/index
+   learn-git-contribute
 
 * Keeping your documentation up to date
 * Jekyll
@@ -85,14 +86,14 @@ API Documentation
    api/languages
    api/generating-documents
    api/testing
-   
+
 UI Text
 -----------------
 
 .. toctree::
    :maxdepth: 2
 
-   ux-writing  
+   ux-writing
 
 Distribution
 ------------
