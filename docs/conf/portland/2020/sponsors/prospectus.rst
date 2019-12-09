@@ -78,7 +78,7 @@ Limit 2
 The **Patron** package highlights your company as a force in the industry and community:
 
 - Ten (10) tickets_
-- Small table in the main conference hall
+- Small sponsorship booth in the main conference hall
 - Small logo included on videos
 - Full size logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
@@ -96,7 +96,7 @@ Limit 1
 The **Keystone** package highlights you as our main community partner:
 
 - Fifteen (15) tickets_
-- Large table in the main conference hall
+- Large sponsorship booth in the main conference hall
 - Dedicated table for staff
 - Large logo included on videos
 - Full size logo & link on the Write the Docs website
