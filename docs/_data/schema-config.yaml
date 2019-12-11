@@ -26,7 +26,7 @@ date: include('date-details')
 
 about: include('about-details')
 
-cfp: include('cfp-details')
+cfp: include('cfp-details', required=False)
 
 flaghassponsors: bool()
 flagcfp: bool()
