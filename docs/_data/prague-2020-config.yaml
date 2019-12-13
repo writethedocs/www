@@ -8,7 +8,7 @@ area: Europe
 area_adj: European
 tz: CEST
 email: prague@writethedocs.org
-color: coral
+color: blue
 
 photos:
   default: _static/conf/images/headers/prague-group.png
