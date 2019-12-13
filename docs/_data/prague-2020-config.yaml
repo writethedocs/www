@@ -55,7 +55,7 @@ tickets:
   community:
     price: €600
   corporate:
-    price: €600
+    price: €300
   independent:
     price: €175
   student:
