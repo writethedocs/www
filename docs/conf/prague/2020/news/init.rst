@@ -4,7 +4,7 @@
    :tags: {{ shortcode }}-{{ year }}
 
 Announcing dates for Write the Docs Prague {{ year}}
-========================
+===============================================
 
 Happy holidays, documentarians!
 
