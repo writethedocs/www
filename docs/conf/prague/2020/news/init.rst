@@ -6,12 +6,6 @@
 Announcing dates for Write the Docs Prague {{ year}}
 ========================
 
-This is a landing page for our {{ year }} conference.
-:template: {{year}}/generic.html
-
-.. post:: December 20, 2018
-   :tags: prague-2019
-
 Announcing Prague 2019 Conference Dates
 =======================================
 
@@ -22,4 +16,3 @@ We are excited to announce the dates for `Write the Docs Prague 2020 <https://ww
 We're also excited to announce that we are moving to a bigger venue at **Hotel Olšanka**, located at **Táboritská 23, Prague 3 (Žižkov district)**. Although we are sad to say goodbye to Autoklub, we want to be able to welcome even more of you to our conference. The new venue has more space and the location is still close to the center with convenient transport options. We look forward to our new and promising collaboration with Olšanka, and we believe that you'll be happy with the venue!
 
 Ticket sales and the Call for Proposals will open in March 2020. In the meantime, mark your calendars and start getting excited!
-
