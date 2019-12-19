@@ -6,9 +6,6 @@
 Announcing dates for Write the Docs Prague {{ year}}
 ========================
 
-Announcing Prague 2019 Conference Dates
-=======================================
-
 Happy holidays, documentarians!
 
 We are excited to announce the dates for `Write the Docs Prague 2020 <https://www.writethedocs.org/conf/prague/2020/>`_. This year's Prague conference will be held {{ date.main }}. 
