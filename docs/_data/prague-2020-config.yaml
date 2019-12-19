@@ -93,7 +93,8 @@ date: # how do we handle these? human readable would be nice.
   day_three:
     event: Main Conference
     date: September 14-15
-    summary: The main days of the conference. We will be running our main track in the ballroom, and the Unconference.
+    summary: The main days of the conference. We will be running our main track in the main room, and the Unconference in the small room.
+``
     icon: conference
     dotw: Monday/Tuesday
   total_talk_days: 2
