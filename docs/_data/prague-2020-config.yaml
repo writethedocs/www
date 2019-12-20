@@ -63,15 +63,15 @@ tickets:
 
 sponsorship:
   first_draft:
-    price: €750
+    price: €800
   second_draft:
-    price: €1500
+    price: €2000
   publisher:
-    price: €3500
+    price: €4000
   patron:
-    price: €7500
+    price: €8500
   keystone:
-    price: €13000
+    price: €15000
 
 date: # how do we handle these? human readable would be nice.
   main: "**September 13-15, 2020, in Prague, Czech Republic**"
