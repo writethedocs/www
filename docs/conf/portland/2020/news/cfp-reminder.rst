@@ -46,7 +46,7 @@ We'd like to thank our initial conference sponsors:
 
 * `Microsoft <https://www.microsoft.com/>`_
 * `Google <https://www.google.com/>`_
-* `SalesForce <https://www.salesforce.com/>`_
+* `Salesforce <https://www.salesforce.com/>`_
 
 If your company is interested in sponsoring one or more conferences, check out `our prospectus for details on the different packages <https://www.writethedocs.org/conf/portland/2020/sponsors/prospectus/>`_ and drop us a line at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org>`_
 
