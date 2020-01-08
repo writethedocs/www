@@ -41,7 +41,8 @@ The grant policy will be submitted for community review through our new `Write t
 Support our community by sponsoring
 -----------------------------------
 
-Every year we are fortunate to have the support of like-minded organizations and communities, who believe in the collaborative and welcoming community spirit and help us make our events more awesome.
+Every year we are fortunate to have the support of like-minded organizations and communities, who believe in the collaborative and welcoming community spirit and help us make our events great.
+
 We'd like to thank our initial conference sponsors:
 
 * `Microsoft <https://www.microsoft.com/>`_
