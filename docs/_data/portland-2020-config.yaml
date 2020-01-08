@@ -19,8 +19,8 @@ buttons:
        link: /sponsors/prospectus
     # - text: Submit a Talk
     #  link: /cfp
-    # - text: Buy a Ticket!
-    #   link: /tickets
+    - text: Buy a Ticket!
+      link: /tickets
     # - text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
@@ -132,7 +132,7 @@ sponsors:
 flaglanding: False
 flaghassponsors: False
 flagcfp: True
-flagticketsonsale: False
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flaghasschedule: False
