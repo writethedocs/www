@@ -132,7 +132,7 @@ sponsors:
 flaglanding: False
 flaghassponsors: False
 flagcfp: True
-flagticketsonsale: False
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flaghasschedule: False
