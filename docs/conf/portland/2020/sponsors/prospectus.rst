@@ -73,7 +73,7 @@ The **Publisher** package costs **{{sponsorship.publisher.price}}**.
 Patron
 ------
 
-Limit 2 
+**Limit 3**
 
 The **Patron** package highlights your company as a force in the industry and community:
 
@@ -91,7 +91,8 @@ The **Patron** package costs **{{sponsorship.patron.price}}**.
 Keystone
 --------
 
-Limit 1 
+:strike:`Limit 1` - **Sold Out**
+
 
 The **Keystone** package highlights you as our main community partner:
 
