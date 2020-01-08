@@ -9,7 +9,7 @@ CFP Reminder, Tickets on Sale, Grant Program
 
 Happy New Year, documentarians!
 
-As we get ready to start the year, we'd like to remind you that the `call for proposals <https://www.writethedocs.org/conf/portland/2020/cfp/>`_ will be open until **January 31st**, and to announce that the `tickets for the conference are officially on sale <https://www.writethedocs.org/conf/portland/2020/tickets/>`_. Read on for more details on both.
+As we get ready to start the year, we'd like to remind you that the `call for proposals <https://www.writethedocs.org/conf/portland/2020/cfp/>`_ will be open until **January 10th**, and to announce that the `tickets for the conference are officially on sale <https://www.writethedocs.org/conf/portland/2020/tickets/>`_. Read on for more details on both.
 
 Submit your talk by January 10th
 --------------------------------
@@ -18,7 +18,7 @@ There are still a few days left to submit your proposal! Check out the `Call for
 
 And if you already have an idea but you’re having a hard time getting your proposal to come together, you can always ask for feedback on the `Write the Docs Slack <https://www.writethedocs.org/slack/>`_. The community is there to help!
 
-We’ll be reviewing all the talk proposals by early February, and will be contacting everyone who submitted a proposal by {{ cfp.notification }}.
+We’ll be reviewing all the talk proposals during this month, and will be contacting everyone who submitted a proposal by {{ cfp.notification }}.
 
 Get your ticket for the conference
 ----------------------------------
