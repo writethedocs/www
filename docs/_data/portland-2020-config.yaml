@@ -17,8 +17,8 @@ buttons:
   top:
      - text: Sponsor the conference
        link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #  link: /cfp
+     - text: Submit a Talk
+       link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
     # - text: See the talks!
