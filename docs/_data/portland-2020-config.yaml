@@ -17,8 +17,8 @@ buttons:
   top:
      - text: Sponsor the conference
        link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #  link: /cfp
+     - text: Submit a Talk
+       link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
     # - text: See the talks!
@@ -119,20 +119,28 @@ about:
 
 cfp:
   url: https://docs.google.com/forms/d/e/1FAIpQLSfXD-hlTzSDTrpuYkguUwXq1OtKDOZQazzdNqWmSKO5H0hWLQ/viewform
-  ends: "10 January, 2020"
-  notification: "30 January, 2020"
+  ends: "January 10, 2020"
+  notification: "January 30, 2020"
 
 sponsors:
+  keystone:
+    - name: microsoft
+      link: https://microsoft.com
+  patron:
+    - name: google
+      link: https://www.google.com
   publisher:
   second:
+    - name: salesforce
+      link: https://www.salesforce.com
   first:
 
 
 # Things that change over time, listed in order of change
 flaglanding: False
-flaghassponsors: False
+flaghassponsors: True
 flagcfp: True
-flagticketsonsale: False
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flaghasschedule: False
