@@ -2,8 +2,8 @@
    :tags: stats, year in review, newsletter
    :author: Eric Holscher
 
-Write the Docs 2019 Community Update
-====================================
+Write the Docs 2019 Stats and Community Update
+==============================================
 
 Since it's quiet over the holidays,
 we normally don't publish a newsletter in January.
