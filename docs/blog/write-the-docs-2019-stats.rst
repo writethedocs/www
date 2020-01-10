@@ -63,6 +63,9 @@ Conferences
 
 We also had a conference in Vilnius this past year,
 which drew 50 people.
+Portland is maxed out at 500,
+and won't be growing again in the near future.
+Prague will be moving into a new venue so we can accomodate more folks next year.
 
 Slack Network
 ~~~~~~~~~~~~~
