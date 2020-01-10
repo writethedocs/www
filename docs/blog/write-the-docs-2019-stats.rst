@@ -3,7 +3,7 @@
    :author: Eric Holscher
 
 Write the Docs 2019 Community Update
-=========================
+====================================
 
 Since it's quiet over the holidays,
 we normally don't publish a newsletter in January.
@@ -15,7 +15,6 @@ Community Updates
 -----------------
 
 There are a few things that we know some of you have been wondering about, and we'd like to provide updates on:
-coming into 2020.
 
 The first big change is the `Write the Docs Enhancement Proposals (WEPs) <https://github.com/writethedocs/weps/>`_ process that we have implemented. This process aims to provide transparency in community-wide decision making, and allows the entire WTD community to review and vote on major policies, processes, and governance topics.
 We already processed the first WEP, numbered WEP0_, 
@@ -37,17 +36,26 @@ and we're in the process of sifting through the data to provide some insights.
 We plan to release the full results soon,
 and in the future we hope to improve the process so that it gets analyzed and published faster.
 
+.. _WEP0: https://github.com/writethedocs/weps/blob/master/accepted/WEP0000.rst
+
+2019 Stats
+----------
+
+We're presenting the numbers here without commentary,
+except where it's useful for interpreting the numbers,
+to facilitate comparison across the years.
+We hope it gives you a sense of the state of the community.
+
 .. note:: 
    
    You can also read our posts from 2016_, 2017_, and 2018_.
 
-.. _WEP0: https://github.com/writethedocs/weps/blob/master/accepted/WEP0000.rst
 .. _2018: https://www.writethedocs.org/blog/write-the-docs-2018-stats/
 .. _2017: https://www.writethedocs.org/blog/write-the-docs-2017-stats/
 .. _2016: https://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/
 
 Conferences
------------
+~~~~~~~~~~~
 
 * 500 attendees in Portland (up from 450)
 * 300 attendees in Prague (up from 275)
@@ -57,34 +65,34 @@ We also had a conference in Vilnius this past year,
 which drew 50 people.
 
 Slack Network
--------------
+~~~~~~~~~~~~~
 
 * 8,250 :doc:`members </slack>` (up from 5,250)
 
 Newsletter
-----------
+~~~~~~~~~~
 
 *  7,386 :doc:`subscribers </newsletter>` (up from 4,707)
 
 Meetups
--------
+~~~~~~~
 
-* TBD members (up from 8642)
+* Over 10,000 members (up from 8642, too many to count :)
 * 46 :doc:`meetups </meetups/index>` (up from 39)
 
 Podcast
--------
+~~~~~~~
 
 * 26 :doc:`episodes </podcast>` total (up from 18)
 
 Website
--------
+~~~~~~~
 
 * 250,000 sessions (same as last year)
 * 430,000 page views (down from 450,000)
 
 GitHub
-------
+~~~~~~
 
 * 1,955 commits_ to our repository (up from 1,250)
 * 56 people_ who contributed to our repository (up from 53)
