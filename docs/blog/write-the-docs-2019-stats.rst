@@ -16,15 +16,15 @@ Community Updates
 
 There are a few things that we know some of you have been wondering about, and we'd like to provide updates on:
 
-The first big change is the `Write the Docs Enhancement Proposals (WEPs) <https://github.com/writethedocs/weps/>`_ process that we have implemented. This process aims to provide transparency in community-wide decision making, and allows the entire WTD community to review and vote on major policies, processes, and governance topics.
+The first big change is the `Write the Docs Enhancement Proposals (WEPs) <https://github.com/writethedocs/weps/>`_ process. This process aims to provide transparency in community-wide decision making, and allows the entire WTD community to review and vote on major policies, processes, and governance topics.
 We already processed the first WEP, numbered WEP0_, 
 which defines the system and how to use it.
 We will be running more proposals through this process soon.
 We hope that you will provide your feedback and insight to us as we look to guide the community into the future.
 
 The second major thing is :doc:`another US conference </conf/cfp/east-2020>` closer to the east coast.
-We're still in the process of talking with venues and trying to see if will work for 2020.
-We will let everyone know the status of the event _before_ Portland tickets sell out,
+We're still in the process of talking with venues and trying to see if we can make it work for 2020.
+We will let everyone know the status of the event *before* Portland tickets sell out,
 so that you won't miss your chance to attend.
 
 The last major thing is our :doc:`Salary Survey </surveys/salary-survey-sep-2019>`,
