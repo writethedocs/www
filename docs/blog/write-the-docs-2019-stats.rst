@@ -16,7 +16,7 @@ Community Updates
 
 There are a few things that we know some of you have been wondering about, and we'd like to provide updates on:
 
-The first big change is the `Write the Docs Enhancement Proposals (WEPs) <https://github.com/writethedocs/weps/>`_ process. This process aims to provide transparency in community-wide decision making, and allows the entire WTD community to review and vote on major policies, processes, and governance topics.
+The first big change is the `Write the Docs Enhancement Proposals (WEPs) <https://github.com/writethedocs/weps/>`_ process. This process aims to provide transparency in community-wide decision making, and allows the entire WTD community to review and comment on major policies, processes, and governance topics.
 We already processed the first WEP, numbered WEP0_, 
 which defines the system and how to use it.
 We will be running more proposals through this process soon.
