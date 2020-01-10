@@ -41,9 +41,8 @@ and in the future we hope to improve the process so that it gets analyzed and pu
 2019 Stats
 ----------
 
-We're presenting the numbers here without commentary,
-except where it's useful for interpreting the numbers,
-to facilitate comparison across the years.
+We're presenting our yearly stats here without much commentary,
+except where it's useful for interpreting the numbers.
 We hope it gives you a sense of the state of the community.
 
 .. note:: 
