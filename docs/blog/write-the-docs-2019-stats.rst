@@ -2,40 +2,40 @@
    :tags: stats, year in review, newsletter
    :author: Eric Holscher
 
-Write the Docs 2019 Stats
+Write the Docs 2019 Community Update
 =========================
 
 Since it's quiet over the holidays,
-we normally don't do a newsletter in January.
+we normally don't publish a newsletter in January.
 Instead,
 we send out a yearly update for the Write the Docs community,
-filling you in on our progress.
+where we share updates on our progress as a community and an organization.
 
 Community Updates
 -----------------
 
-We have a few outstanding things that we wanted to update you on,
+There are a few things that we know some of you have been wondering about, and we'd like to provide updates on:
 coming into 2020.
 
-The first big change is the `Write the Docs Enhancement Proposals (WEPs) <https://github.com/writethedocs/weps/>`_ process that we have implemented.
-We have approved WEP0_,
-which defines the process,
-and we will be running more proposals through this process soon.
+The first big change is the `Write the Docs Enhancement Proposals (WEPs) <https://github.com/writethedocs/weps/>`_ process that we have implemented. This process aims to provide transparency in community-wide decision making, and allows the entire WTD community to review and vote on major policies, processes, and governance topics.
+We already processed the first WEP, numbered WEP0_, 
+which defines the system and how to use it.
+We will be running more proposals through this process soon.
 We hope that you will provide your feedback and insight to us as we look to guide the community into the future.
 
 The second major thing is :doc:`another US conference </conf/cfp/east-2020>` closer to the east coast.
-We've still in the process of talking with venues and trying to see if will work for 2020.
+We're still in the process of talking with venues and trying to see if will work for 2020.
 We will let everyone know the status of the event _before_ Portland tickets sell out,
 so that you won't miss your chance to attend.
 
 The last major thing is our :doc:`Salary Survey </surveys/salary-survey-sep-2019>`,
-which finished up in November.
+which ran until November.
 This is the first year that we've done this,
 and we were blown away by the response.
 We had over 700 people fill it out,
 and we're in the process of sifting through the data to provide some insights.
 We plan to release the full results soon,
-and in the future hopefully we will have a smoother process for this in place to get it turned around faster.
+and in the future we hope to improve the process so that it gets analyzed and published faster.
 
 .. note:: 
    
@@ -96,4 +96,10 @@ GitHub
 Thanks
 ------
 
-Thanks again to everyone who makes this community possible. 
+Thanks again to everyone who makes this community possible. The community is the people, and we're grateful to share our passion for docs with so many delightful people all around the world. 
+
+We hope to connect with you during 2020, whether in person at one of our conferences or online in one of our collaboration platforms. 
+
+Happy new year!
+
+The Write the Docs team
