@@ -28,7 +28,7 @@ We've still in the process of talking with venues and trying to see if will work
 We will let everyone know the status of the event _before_ Portland tickets sell out,
 so that you won't miss your chance to attend.
 
-The last major thing is our :doc:`Salary Survey </surveys/salary-survey-sep-2019>,
+The last major thing is our :doc:`Salary Survey </surveys/salary-survey-sep-2019>`,
 which finished up in November.
 This is the first year that we've done this,
 and we were blown away by the response.
