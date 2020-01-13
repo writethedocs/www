@@ -33,6 +33,12 @@ Typically, not everyone is still available by this time.
 Once volunteers are confirmed, create a Slack channel with all volunteers
 for this conference. This helps communication between volunteers.
 
+Ideally, volunteers should be selected before tickets sell out.
+If this is not possible, applicants should be reassured that a ticket
+will still be available for them. All confirmed volunteers receive
+a free ticket for the conference. If they had already purchased a
+ticket, their purchase can be refunded.
+
 Scheduling
 ----------
 
