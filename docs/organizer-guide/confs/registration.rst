@@ -64,7 +64,7 @@ Tasks of the on-site registration manager
 The on-site registration manager should be at the registration desk during
 the busiest times to solve any issues, and have access to Tito to look up
 registration details. During the night, they should move all attendee lists
-and badges to a locked room.
+and badges to a locked room to preserve the privacy of attendees.
 
 .. _conf-registration-volunteers:
 
