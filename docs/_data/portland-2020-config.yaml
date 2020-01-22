@@ -130,9 +130,13 @@ sponsors:
     - name: google
       link: https://www.google.com
   publisher:
+    - name: splunk
+      link: https://www.splunk.com/
   second:
     - name: salesforce
       link: https://www.salesforce.com
+    - name: courier
+      link: https://www.trycourier.com/
   first:
 
 
