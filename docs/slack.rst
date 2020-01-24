@@ -52,6 +52,8 @@ Other useful topical channels
 * **#flare** - Talk about the Flare documentation toolkit.
 * **#confluence** - Talk about everyone's favorite Wiki.
 * **#community-showcase** - Announce your projects here! Blog posts, docs, code, products—whatever you make that you're excited to share!
+* **#community-help-wanted** - Got an open-source project that needs docs contributors? Looking for open-source communities who will mentor you while you contribute to their docs? This channel is for you! Only for volunteer/unpaid work with open-source projects; companies and paid job postings should continue to use #job-posts-only. 
+* **#wtd-weps** - Ask questions about the Write the Docs Enhancement Proposal (WEP) system and brainstorm on pre-proposal ideas to help improve our community processes and governance. 
 
 Location-based channels
 -----------------------

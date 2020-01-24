@@ -75,7 +75,7 @@ Primary Roles
   * Write & send emails to the larger community 
   * Coordinate tweets about emails, events, etc.
         
-* **Volunteer coordinator** (details: :doc:`/organizer-guide/confs/volunteers`)
+* **Volunteer coordinator** (details: :doc:`/organizer-guide/confs/volunteer-coordination`)
 
   * Recruit volunteers
   * Keep communication going with volunteers 
