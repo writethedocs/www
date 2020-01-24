@@ -25,4 +25,4 @@ Other Lists
 ----------------
 
 * `Reading list <https://techwritertoolkit.com/resources/reading-list/>`_ focused on consultants/freelancers.
-* `List with books and links to online resources <https://gitlab.com/CrispyCB/Write-The-Docs-Reading-List/blob/master/Write%20The%20Docs%20Reading%20List.md>`
+* `List with books and links to online resources <https://gitlab.com/CrispyCB/Write-The-Docs-Reading-List/blob/master/Write%20The%20Docs%20Reading%20List.md>`_
