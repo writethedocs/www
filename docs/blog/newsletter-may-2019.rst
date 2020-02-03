@@ -24,7 +24,7 @@ Collecting and acting on user feedback
 This month, a Slack discussion produced a bonanza of insights into how documentarians collect and apply user feedback. Here's a roundup:
 
 * Use Google Analytics to collect traffic information, so you can identify the best way to collect feedback. For example, if you have low traffic but high engagement, you might get great feedback from contacting users by email. See the `Docs by Design <https://docsbydesign.com/>`_ blog for more about tailoring your approach.
-* Collect feedback with forms at the end of each page, or provide a feedback email address, chat widget, or survey link. Then sort and group into actionable doc improvements. Some suggested asking targeted questions or having users rank the page instead of requesting open-ended comments. 
+* Collect feedback with forms at the end of each page, or provide a feedback email address, chat widget, or survey link. Then sort and group into actionable doc improvements. Some suggested asking targeted questions or having users rank the page instead of requesting open-ended comments.
 * Use services like `MongoDB Stitch <https://www.mongodb.com/cloud/stitch>`_ to push docs feedback directly to a Slack channel.
 * Allow users to directly log Salesforce cases/GitHub issues/Jira tickets.
 * Contact users one-on-one to ask for feedback or arrange to receive regular ongoing feedback. Don't forget to close the loop: let these users know when you improve something based on their feedback.
@@ -68,6 +68,9 @@ In code examples, you often need to put in placeholders for values that users mu
 * Implicit in the previous item, but explicit in the discussion: Know Your Audience!
 
 And one person told the story of an API that, if a user copied and pasted the example code without substituting appropriate values, produced this error: "The user your_username is not a valid user. Did you forget to change the sample code to use your own username and password?”
+
+.. index::
+   single: Jobs; Hiring
 
 --------------------------------
 Developer to documentarian ratio
@@ -131,4 +134,3 @@ Community events coming up
 - 29 May - Arvada, CO, USA - `Docs and Drinks daytime edition <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/258571464/>`__
 - 12 June - Manchester, UK - `Becoming a self-employed tech writer <https://www.meetup.com/Write-the-Docs-North/events/259954919/>`__
 - 13 June - Paris, France - `Première rencontre WriteTheDocs Paris <https://www.meetup.com/Write-the-Docs-Paris/events/260964602/>`__
-

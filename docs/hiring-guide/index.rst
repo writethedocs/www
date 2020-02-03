@@ -1,3 +1,7 @@
+
+.. index::
+   single: Jobs; Hiring 
+
 =================================
 Guide to Hiring and Getting Hired
 =================================
@@ -18,8 +22,8 @@ Check it out over at https://jobs.writethedocs.org/.
 Community Spotlight
 -------------------
 
-These interviews are meant to be a resource for new documentarians looking to gain insight into the work of technical writing 
-by sharing the stories of our diverse community. Each interview tells the story of one community member and what they've learned over 
+These interviews are meant to be a resource for new documentarians looking to gain insight into the work of technical writing
+by sharing the stories of our diverse community. Each interview tells the story of one community member and what they've learned over
 the course of their career so far, along with providing some practical advice for new documentarians.
 
 If you are willing to share your story with the community, you can contact jobs@writethedocs.org.

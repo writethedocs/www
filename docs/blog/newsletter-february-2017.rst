@@ -69,6 +69,8 @@ It was also pointed out that reviewing the UI for copy can raise larger issues o
 
 Folks generally agreed that if a UI style guide wasn't already in place, an audit provides a good opportunity to start developing one. Keep it iterative. Don't reinvent the wheel (rely on existing guides where possible in developing your own, as with any other style guide). And make sure to include specific examples from your own UI!
 
+.. index:: Jobs; Career Growth
+
 Exploring your technical writing career options
 -----------------------------------------------
 

@@ -49,6 +49,13 @@ Here are our latest events, and we hope to see you online or in person soon!
 
 .. include:: include/conf/current.rst
 
+
+THE index
+=========
+
+* :ref:`genindex`
+
+
 .. So that Sphinx doesn't yell as us :)
 
 .. toctree::

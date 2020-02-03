@@ -28,6 +28,10 @@ It turns out that plenty of documentarians have been in this situation, and most
 * Communicate documentation status to users. If code has shipped but docs are in progress, make it clear that documentation is being updated. Be explicit when a feature is released but still in testing.
 * One suggestion was to follow the `Azure DevOps release notes process <https://channel9.msdn.com/Blogs/DevOps-Interviews/Interview-with-Aaron-Bjork-Release-Notes>`_.
 
+.. Note this one is the "important one"
+
+.. index:: ! Jobs; Career Growth
+
 ---------------------------------------------
 Personal development goals for documentarians
 ---------------------------------------------
@@ -50,7 +54,7 @@ We have so many people who are the only writer in their company that there's a c
 
 * Start small. You might want to raze all the content to the ground and start again, but taking it one step at a time is more realistic.
 * Be open to change. Your processes should evolve over time, especially when you're first starting - some things you try will work, and some things just won't.
-* Rather than crafting a style guide from scratch, save time by adopting an existing public style guide. 
+* Rather than crafting a style guide from scratch, save time by adopting an existing public style guide.
 * Help others understand what you're there for. Give a presentation explaining what you're here to do, what your plans are, and what you need from others.
 * Help others to help you. Consider writing docs using a tool that allows developers to contribute.
 * Don't be hard on yourself when things move slowly. Making things better takes a long time; don't strive so hard for perfection that you lose heart.
@@ -69,13 +73,13 @@ Recently, a documentarian asked about documenting APIs, which led to a larger co
 
 The unanimous response was that this is not a good design. Bulk deletions themselves are a reasonable feature. But having an API endpoint that *defaults* to deleting everything is a problem, because it makes it too easy for users to accidentally do irreversible damage.
 
-We did discuss a few ways that you could approach writing that documentation: 
+We did discuss a few ways that you could approach writing that documentation:
 
 * "By default, deletes all objects. Optionally, ..."
 * ":exclamation: Warning :exclamation: Be careful here!"
 * All caps and bold to draw attention.
 
-But really, the design needs to be improved. There are safer approaches to bulk deletion: for example, the endpoint could require a filter parameter, and allow a wildcard value that allows bulk deletion. Users can still bulk delete, but this makes it a more deliberate action. 
+But really, the design needs to be improved. There are safer approaches to bulk deletion: for example, the endpoint could require a filter parameter, and allow a wildcard value that allows bulk deletion. Users can still bulk delete, but this makes it a more deliberate action.
 
 The takeaway is that you cannot save a bad design with documentation. Not even by documenting the bad design in bold and all caps.
 

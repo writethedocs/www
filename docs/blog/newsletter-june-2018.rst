@@ -47,6 +47,8 @@ For an example of someone trying to explain the value of technical communication
 
 *If you're a lone docs person and still working on communicating this stuff to your team, pop into* `#lone-writer <https://writethedocs.slack.com/messages/lone-writer>`_ *to talk with folks who are/have been in your shoes.*
 
+.. index:: Jobs; Career Growth
+
 -----------------------------------
 Junior vs. senior technical writers
 -----------------------------------

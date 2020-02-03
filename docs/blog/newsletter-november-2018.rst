@@ -62,6 +62,10 @@ If you need help wrangling tech docs into plain language, try looking to your ma
 
 No matter what, adopting and implementing plain language seems to be a work in progress: almost everyone mentioned that they are looking for opportunities to improve.
 
+
+.. index::
+   single: Jobs; Hiring
+   
 ---------------------------
 How to hire a documentarian
 ---------------------------

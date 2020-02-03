@@ -16,6 +16,8 @@ Here in the newsletter we've got a few good highlights from the last month of Sl
 
 In the meantime, on to the stories!
 
+.. index:: Jobs; Career Growth
+
 ------------------------------------------------------------
 Selling Yourself Short: Impostor Syndrome among Tech Writers
 ------------------------------------------------------------

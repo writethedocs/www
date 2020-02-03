@@ -33,6 +33,9 @@ The discussion wrapped up with a 74-word sentence quoted from _Emma_ by Jane Aus
 
 For those keeping score at home, that includes seven commas, one semi-colon, a parenthetical, and an em dash. If you’re curious, the sentence’s Flesch-Kincaid grade level is 15.4!
 
+.. index::
+   single: Jobs; Career Growth
+
 ## Hiring for technical background
 
 An interesting hiring question arose this month about how to word a job listing when you're looking for a particularly _technical_ tech writer. It's common to see "previous developer experience" listed as a requirement, but depending on what you'll be expecting the writer to cover, it might be that what you really need is someone who comes from a system or database administrator background.

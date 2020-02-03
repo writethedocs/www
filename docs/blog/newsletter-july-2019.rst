@@ -17,13 +17,16 @@ Lastly is a cool addition to the Hiring Guide. The `Career Community Spotlight <
 
 So that's the news. What have we been talking about on Slack this month?
 
+.. index::
+   single: Jobs; Career Growth
+
 -----------------------------------
 Making the leap to managing writers
 -----------------------------------
 
 One of our big discussions this month was about folks weighing up opportunities to move into managing writers. Here's the guidance the community gave.
 
-There are definitely some things to be wary of. If writing's your passion, moving to management means less time for it. This can mean losing touch with the craft, and leaving your portfolio lighter if you decide to back out. Another issue is that you're accountable for both the successes and failures of your team, which can be stressful. 
+There are definitely some things to be wary of. If writing's your passion, moving to management means less time for it. This can mean losing touch with the craft, and leaving your portfolio lighter if you decide to back out. Another issue is that you're accountable for both the successes and failures of your team, which can be stressful.
 
 But the upsides of management are the bigger projects that can challenge you in different ways, including helping your team reach their full potential. In the long run, teaching others lets you achieve more than you would have been able to on your own.
 
@@ -76,7 +79,7 @@ Hard wraps also interfere with using filters like `grep <http://man7.org/linux/m
 Several people mentioned `one sentence per line <https://rhodesmill.org/brandon/2012/one-sentence-per-line/>`_ as a solution, noting that it's the `recommended approach for AsciiDoc <https://github.com/asciidoctor/asciidoctor.org/blob/master/docs/asciidoc-recommended-practices.adoc#one-sentence-per-line>`_.
 
 -----------------------------------------------------------------
-From our sponsor: Spotlight on The Not-Boring Tech Writer podcast 
+From our sponsor: Spotlight on The Not-Boring Tech Writer podcast
 -----------------------------------------------------------------
 
 We're excited to be trying out sponsorship of the newsletter this month. Sponsorship helps us cover the cost of the newsletter, and gives us funding opportunities to expand our ambitions in the future. If you're interested in sponsoring, take a look at our `sponsorship prospectus </newsletter/sponsorship/>`__.

@@ -9,11 +9,11 @@ Hi, everyone, and welcome to the last newsletter of the year!
 
 What a packed year it's been - with *four* conferences, and more meetups than I'm going to try to count. If you missed our most recent conference, Write the Docs Australia, there are tons of ways to catch up:
 
-- Swapnil's `blog post recap <https://www.writethedocs.org/conf/australia/2018/news/thanks-recap/>`_ 
-- A lovely `playlist of all the videos <https://www.youtube.com/watch?v=N13_FP2NkSk&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt>`_ 
+- Swapnil's `blog post recap <https://www.writethedocs.org/conf/australia/2018/news/thanks-recap/>`_
+- A lovely `playlist of all the videos <https://www.youtube.com/watch?v=N13_FP2NkSk&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt>`_
 - The fabulous `photo album <https://www.flickr.com/photos/writethedocs/albums/72157697741784910>`_
 
-Looking forward to next year: the Call for Proposals for Write the Docs Portland has just gone up! It's open until **midnight PST, 17 January 2019**, so get cracking and send us all your brilliant talk ideas. For full details, here's the `announcement post <https://www.writethedocs.org/conf/portland/2019/news/welcome/>`_. 
+Looking forward to next year: the Call for Proposals for Write the Docs Portland has just gone up! It's open until **midnight PST, 17 January 2019**, so get cracking and send us all your brilliant talk ideas. For full details, here's the `announcement post <https://www.writethedocs.org/conf/portland/2019/news/welcome/>`_.
 
 The newsletter team is off next month for Christmas (it's snowing here already and I am *super* excited); we'll be back in your inboxes in February. Happy holidays, everyone!
 
@@ -34,6 +34,8 @@ Understanding what users need is at the heart of good technical writing. A recen
   If you step back, you may realise that behind a specific request, there's a better solution to their problem -- teleporting as opposed to a faster car was one humorous example.
 * Dig through StackOverflow for questions tagged with your product (or related keywords).
 * Communicate with users to let them know that you're working on their issues. Even if it's not strictly speaking a docs issue, your communication skills can help product management and support reassure customers who are waiting for new features.
+
+.. index:: Jobs; Career Growth
 
 ------------------------------
 Technical writing career paths
@@ -61,7 +63,7 @@ Ultimately, your career is a combination of the path you want and the ladders av
 Grammar and style questions
 ---------------------------
 
-This month came with a spate of language usage questions. We love getting these, so go ahead and post them in *#general*, but other good places to check came up: 
+This month came with a spate of language usage questions. We love getting these, so go ahead and post them in *#general*, but other good places to check came up:
 
 - `Microsoft Writing Style Guide <https://docs.microsoft.com/en-us/style-guide/welcome/>`_ (the usual suspect)
 - `Oxford English Dictionary <http://www.oed.com/>`_

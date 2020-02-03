@@ -84,6 +84,8 @@ In addition, if you're so inclined (and comfortable with JavaScript), you can ad
 
 *Have another docs tool to share or chat about?* `#doctools <https://writethedocs.slack.com/messages/doctools>`_ *is the place for you.*
 
+.. index:: Jobs; Career Growth
+
 -----------------------------
 Rebranding 'Technical Writer'
 -----------------------------

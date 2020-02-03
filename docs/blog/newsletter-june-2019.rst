@@ -42,6 +42,9 @@ As for tools and methods, it seems everyone has a different workflow!
 - Dropbox Paper is useful for drafting content and granular commenting. It also exports to Markdown for publishing in other tools.
 - Some also collect feedback using Trello cards and Jira tickets.
 
+.. index::
+   single: Jobs; Hiring 
+
 ----------------------------
 Running objective interviews
 ----------------------------

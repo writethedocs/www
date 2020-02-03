@@ -1,5 +1,5 @@
 Documentarians
-==============
+===========
 
 When we :doc:`created </origin-story>` Write the Docs,
 we believed there was a missing term for someone who cares about documentation.
