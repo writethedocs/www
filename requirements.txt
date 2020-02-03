@@ -4,7 +4,7 @@ ablog==0.10.2
 tox==3.14.3
 sphinx_autobuild==0.7.1
 PyYAML>=4.2b1
-docutils==0.15.2
+docutils==0.16
 csvkit==1.0.4
 yamllint==1.18.0
 pathlib==1.0.1
