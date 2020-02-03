@@ -13,7 +13,7 @@ meetup-api==0.1.1
 urllib3[secure]==1.25.8
 yamale==2.0.1
 ruamel.yaml==0.16.7
-lxml==4.4.1
+lxml==4.5.0
 # For fancy 404 pages
 git+https://github.com/rtfd/sphinx-notfound-page@master#egg=sphinx-notfound-page
 
