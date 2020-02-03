@@ -94,7 +94,7 @@ Important notes:
   they likely registered too late or changed the registration.
   They can take a blank badge to write their name on it.
 * If an attendee is not in the attendee list, they can not register,
-] **even if they do have a badge**. An organiser will have to be involved.
+  **even if they do have a badge**. An organiser will have to be involved.
   The exception to this is when they say they are taking someone else's place,
   and that person is on the list. In that case, cross off that person, write
   the attendee's name next to it, and let the attendee write their name on a
