@@ -55,7 +55,7 @@ The costs of outdated docs
 This month's discussions included a brief but fruitful conversation about the tangible costs of outdated, inaccurate, or just plain poorly written documentation. It can be helpful to keep data about the value of good documentation on hand, and our documentarians turned up several reports and studies to consider:
 
 - `The State of Unassisted Support 2014 <http://cdn.swcdn.net/creative/pdf/Whitepapers/SW-WP-The-State-of-Unassisted-Support-2014.pdf>`_, Technology Services Industry Association (TSIA). Includes a graph that compares the cost of self-service support with the costs of other methods.
-- `A Good User's Guide Means Fewer Support Calls and Lower Support Costs <www.jstor.org/stable/43095065>`_ by Cathy J. Spencer and Diana Kilbourn Yates. GE Information Services saved $1 million in support costs per year by providing good user documentation with software products.
+- `A Good User's Guide Means Fewer Support Calls and Lower Support Costs <http://www.jstor.org/stable/43095065>`_ by Cathy J. Spencer and Diana Kilbourn Yates. GE Information Services saved $1 million in support costs per year by providing good user documentation with software products.
 - `Currents, A Seasonal Report on Developer Trends in the Cloud: Open Source Edition <https://www.digitalocean.com/currents/october-2018>`_, Digital Ocean. For open source technologies, great documentation can reduce the barrier to entry for contributors, and it's something companies are looking for when they evaluate open source products.
 
 ---------------------------------------
@@ -74,6 +74,8 @@ However the team chooses to address the errors, it’s important to acknowledge 
 Job posts
 ---------
 
+* `Amazon CloudHSM Doc Writer <https://jobs.writethedocs.org/job/179/amazon-cloudhsm-doc-writer/>`__
+   Amazon - Herndon, VA or Seattle, WA
 * `Lead Technical Writer <https://jobs.writethedocs.org/job/171/lead-technical-writer-software-documentation/>`__
    Deskpro, London
 * `Technical Writer <https://jobs.writethedocs.org/job/175/technical-writer/>`__
@@ -85,9 +87,11 @@ Job posts
 Community events coming up
 --------------------------
 
-- 13 February - Leeds, UX - `Book club: The Product is Docs <https://www.meetup.com/Write-the-Docs-North/events/267744591/>`__
+- 04 February - Portland, OR, USA - `Joint meetup with Support Driven: Knowledge-Centered Support <https://www.meetup.com/Write-The-Docs-PDX/events/267740062/>`__
+- 13 February - Leeds, UK - `Book club: The Product is Docs <https://www.meetup.com/Write-the-Docs-North/events/267744591/>`__
 - 18 February - Melbourne, Australia - `Writing about Security Incidents, and Season of Docs <https://www.meetup.com/Write-the-Docs-Australia/events/268284615/>`__
 - 19 February - Toronto, Canada - `Write the Docs Toronto <https://www.meetup.com/Write-the-Docs-Toronto/events/pcqbmqybcdbzb/>`__
+- 20 February - San Francisco, CA, USA - `Lightning talks <https://www.meetup.com/Write-the-Docs-Bay-Area/events/268413973/>`__
 - 25 February - Ottawa, Canada - `Write the Docs Ottawa <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqybcdbpb/>`__
 - 25 February - Sydney, Australia - `First 2020 meetup <https://www.meetup.com/Write-the-Docs-Australia/events/267797236/>`__
 - 25 February - Brisbane, Australia - `Write the Docs Brisbane kickoff <https://www.meetup.com/Write-the-Docs-Australia/events/268386822/>`__
