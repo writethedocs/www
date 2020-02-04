@@ -4,6 +4,7 @@ sys.path.insert(1, '../_ext')
 from utils import slugify
 import json
 from ruamel.yaml import YAML
+import markdown
 
 yamldoc = []
 
@@ -14,7 +15,7 @@ def convert_to_yaml(year, series, slug, pretalx_results, yaml_file):
             yamldoc.append({
                 'title': talk['title'],
                 'slug':slugify(talk['title'] + '-' + talk['speakers'][0]['name']),
-                'abstract': talk['abstract'],
+                'abstract': markdown.markdown(talk['abstract']),
                 'speakers': [],
                 'series': series,
                 'series_slug': slug,
