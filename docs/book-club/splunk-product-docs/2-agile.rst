@@ -14,6 +14,7 @@ Community discussion
 In relation to Agile work environments, technical writing seems to fall into two general categories: technical writing developed either in an Agile workflow or alongside an Agile workflow. 
 
 Regardless of which category you’re in, many of the comments from our community point to the significance of proactive documentation development. The documentation isn’t going to write itself and that means technical writers can/should:
+
 * Develop relationships with SMEs .
 * Keep pace: Know what features do and when they will be released (and know who to ask about these things).
 * Take part in sprint plannings, retrospectives, product demos, and so on.
