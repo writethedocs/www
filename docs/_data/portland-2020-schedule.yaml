@@ -12,7 +12,7 @@ writing_day:
   - time: '8:00'
     title: End of Reception
 
-talks-day1:
+talks_day1:
   - time: '8:00'
     title: Doors Open, Breakfast Served
   - time: '9:00'
@@ -64,7 +64,7 @@ talks-day1:
   - time: '10:00'
     title: '<b>Social Event Ends</b>'
 
-talks-day2:
+talks_day2:
   - time: '8:00'
     title: Doors Open, Breakfast Served
   - time: '9:00'
