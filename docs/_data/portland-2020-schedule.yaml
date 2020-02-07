@@ -17,44 +17,32 @@ talks_day1:
     title: Doors Open, Breakfast Served
   - time: '9:00'
     title: Write the Docs Team - Introduction to Write the Docs
-  - time: '9:30'
-    title: Switch Speakers
   - time: '9:40'
     title: "<b>Unconference Starts (Lola's Room)</b>"
   - time: '9:40'
-    slug: any-friend-of-the-docs-is-a-friend-of-mine-cultivating-a-community-of-documentation-advocates-heather-stenson
-  - time: '10:10'
-    title: Switch Speakers
+    slug: moving-beyond-empathy-a11y-in-documentation-alexandra-n-white
   - time: '10:20'
-    slug: how-to-edit-other-peoples-content-without-pissing-them-off-ingrid-towey
+    slug: read-the-rules-what-technical-writers-can-learn-from-board-game-design-matthew-baldwin
   - time: '10:50'
     title: Snack break
   - time: '11:10'
-    slug: writer-editor-teacher-kathleen-juell
-  - time: '11:40'
-    title: Switch Speakers
+    slug: writing-backwards-documenting-the-end-of-life-of-a-product-anni-bond
   - time: '11:50'
-    slug: documenting-for-open-source-shannon-crabill
+    slug: if-we-build-it-will-they-join-sustaining-a-community-documentation-initiative-with-sprints-amanda-stevens-kaitlin-newson
   - time: '12:20'
     title: Lunch (60 mins)
   - time: '1:20'
     title: Lightning Talks
-  - time: '1:50'
-    title: Switch Speakers
   - time: '2:00'
-    slug: harvest-past-experience-to-be-a-great-tech-writer-mark-f-iverson
-  - time: '2:30'
-    title: Switch Speakers
+    slug: finding-the-line-balancing-business-continuity-and-documentation-debt-luca-janssens
   - time: '2:40'
-    slug: how-i-learned-to-stop-worrying-and-love-the-command-line-mike-jang
+    slug: building-a-content-focused-scientific-document-authoring-workflow-for-data-scientists-and-engineers-alike-colin-dean
   - time: '3:10'
     title: Snack break
   - time: '3:30'
-    slug: localize-the-docs-paul-wallace
-  - time: '4:00'
-    title: Switch Speakers
+    slug: don-t-fear-migration-how-to-successfully-move-docs-to-a-new-tool-brooke-wayne
   - time: '4:10'
-    slug: tutorials-tooltips-and-popupsoh-my-how-to-ease-yourself-and-your-users-into-in-app-messaging-meghan-mahar
+    slug: the-value-of-being-told-you-suck-hamza-alam
   - time: '4:40'
     title: '<b>Group Photo</b>'
   - time: '5:00'
@@ -68,25 +56,25 @@ talks_day2:
   - time: '8:00'
     title: Doors Open, Breakfast Served
   - time: '9:00'
-    slug: draw-the-docs-alicja-raszkowska
+    slug: creating-quality-sample-code-jessica-garson
   - time: '9:30'
     title: Switch Speakers
   - time: '9:40'
     title: "<b>Job Fair Starts (Lola's Room)</b>"
   - time: '9:40'
-    slug: just-add-data-make-it-easier-to-prioritize-your-documentation-sarah-moir
+    slug: collaborating-with-teams-on-content-strategy-planning-pitfalls-and-best-practices-kateryna-osadchenko
   - time: '10:10'
     title: Switch Speakers
   - time: '10:20'
-    slug: show-me-the-money-how-to-get-your-docs-the-love-and-support-they-deserve-matt-reiner
+    slug: model-view-docs-taming-large-scale-documentation-projects-using-structured-data-luc-perkins
   - time: '10:50'
     title: Snack break
   - time: '11:10'
-    slug: sdk-reference-manuals-a-flow-based-approach-chris-bush
+    slug: architectural-models-architectural-diagrams-or-set-your-data-free-with-model-based-architecture-diagramming-avi-flax
   - time: '11:40'
     title: Switch Speakers
   - time: '11:50'
-    slug: documentation-for-good-riona-macnamara
+    slug: documentation-as-an-application-enabling-interactive-content-that-is-tailored-to-the-user-ryan-paul
   - time: '12:05'
     title: Lunch (60 mins)
   - time: '1:05'
@@ -98,16 +86,18 @@ talks_day2:
   - time: '1:50'
     title: Switch Speakers
   - time: '2:00'
-    slug: product-documentation-strategy-what-is-it-and-why-do-we-need-it-kay-miles
+    title: TBC
   - time: '2:30'
     title: Switch Speakers
   - time: '2:40'
-    slug: lessons-learned-in-a-year-of-docs-driven-development-jessica-parsons
+    slug: the-search-for-search-paul-logan
   - time: '3:10'
     title: Switch Speakers
   - time: '3:20'
-    slug: defying-the-status-quo-how-a-grassroots-effort-can-transform-an-organization-jodie-putrino
-  - time: '3:50'
-    title: Closing address
+    slug: globalise-the-docs-lucy-carey
   - time: '4:00'
+    slug: why-sdk-docs-matter-and-what-i-m-doing-about-it-shavindri-dissanayake-shavi
+  - time: '4:30'
+    title: Closing address
+  - time: '4:40'
     title: "<b>Conference Ends</b> :("
