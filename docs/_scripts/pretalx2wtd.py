@@ -12,20 +12,23 @@ yamldoc = []
 # Prevent OrderedDict from being presented as YAML OMAP - we just want a regular YAML dict.
 yaml.add_representer(OrderedDict, RoundTripRepresenter.represent_dict, representer=RoundTripRepresenter)
 
-def convert_to_yaml(year, series, slug, pretalx_results, yaml_file):
+
+def convert_to_yaml(year, series, slug, pretalx_results, yaml_filename):
     with open(pretalx_results) as json_file:
         talks = json.load(json_file)
+
         for index, talk in enumerate(talks['results']):
+            slug = slugify(talk['title'] + '-' + talk['speakers'][0]['name'])
             yamldoc.append(OrderedDict([
                 ('title', talk['title']),
-                ('slug',slugify(talk['title'] + '-' + talk['speakers'][0]['name'])),
+                ('slug', slug),
                 ('series', series),
                 ('series_slug', slug),
                 ('year', int(year)),
                 ('speakers', []),
                 ('abstract', markdown.markdown(talk['abstract'])),
-
             ]))
+
             for s in talk['speakers']:
                 yamldoc[index]['speakers'].append(OrderedDict([
                     ('name', s['name']),
@@ -33,11 +36,11 @@ def convert_to_yaml(year, series, slug, pretalx_results, yaml_file):
                     ('avatar', s['avatar']),
                 ]))
 
-        yaml_obj=yaml.YAML(typ='safe')
+        yaml_obj = yaml.YAML(typ='safe')
         yaml_obj.Representer = RoundTripRepresenter
         yaml_obj.default_flow_style = False
-        yaml_obj.dump(yamldoc, open(yaml_file, 'w+'))
-
+        with open(yaml_filename, 'w+') as yaml_file:
+            yaml_obj.dump(yamldoc, yaml_file)
 
 
 if __name__ == '__main__':
