@@ -1,3 +1,11 @@
+# Generate a sessions YAML from Pretalx talk selections.
+# To use:
+# - Get an API token from https://pretalx.com/orga/me
+# - Go to directory docs/_scripts
+# - Download Pretalx data:
+#   curl -H "Authorization: Token $TOKEN" https://pretalx.com/api/events/$EVENT/talks/ -o talks.json
+# - Run this script
+
 import sys
 sys.path.insert(1, '../_ext')
 
