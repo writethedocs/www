@@ -14,6 +14,7 @@ urllib3[secure]==1.25.6
 yamale==2.0.1
 ruamel.yaml==0.16.5
 lxml==4.4.1
+markdown==3.2
 # For fancy 404 pages
 git+https://github.com/rtfd/sphinx-notfound-page@master#egg=sphinx-notfound-page
 
