@@ -51,7 +51,7 @@ Planning your trip
 In the next few weeks, we’ll be announcing more details about the conference events, including the full schedule, annual hike on Saturday afternoon, writing day and reception on Sunday. But on top of that, there's ALL SORTS of stuff to do in Portland.
 
 We've got a couple of excellent volunteers – Christy and Mo – who are heading up our Explore Portland committee.
-They're already hard at work updating the the `Visit Portland <https://www.writethedocs.org/conf/portland/2019/visiting/>`_.
+They're already hard at work updating the the `Visit Portland <https://www.writethedocs.org/conf/portland/2020/visiting/>`_.
 Pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack if you have any question.
 
 Thanks to our sponsors
