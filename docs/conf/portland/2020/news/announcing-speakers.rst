@@ -34,9 +34,9 @@ We hope there’s something there for everyone to enjoy, and also something that
 Opportunity grant program
 -------------------------
 
-The grant program for WTD Portland 2020 supports people who would otherwise not be able to attend the conference by providing free tickets, and covering travel and accomodation costs. Applications are open to anyone who wants to attend Write the Docs.
+The grant program for WTD Portland 2020 supports people who would otherwise not be able to attend the conference by covering attendance costs. Applications are open to anyone who wants to attend Write the Docs.
 
-Head over to :doc:`/conf/{{shortcode}}/{{year}}/opportunity-grants` and apply. 
+Head over to :doc:`/conf/{{shortcode}}/{{year}}/opportunity-grants` and apply.
 
 Tickets are going fast!
 -----------------------
