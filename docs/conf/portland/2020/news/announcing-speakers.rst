@@ -63,7 +63,7 @@ We are so grateful to have our sponsors help in bringing these events to life ev
    :source: /_data/{{shortcode}}-{{year}}-config.yaml
    :template: {{year}}/sponsors-simplelist.rst
 
-Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/portland/2019/sponsors/prospectus/>`_ for details on how your company can get involved!
+Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/portland/2020/sponsors/prospectus/>`_ for details on how your company can get involved!
 We have several types of sponsorship available, including tables at the job fair that we'll be hosting on Tuesday.
 
 And that's the latest on the Portland conference. We hope you're all getting as excited as we are! Stay tuned for more details.
