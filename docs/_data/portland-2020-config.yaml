@@ -147,7 +147,7 @@ flagcfp: True
 flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
-flaghasschedule: True
+flaghasschedule: False
 flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
