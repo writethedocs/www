@@ -54,4 +54,4 @@ Submit your application
 
 	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd_MiC0uP7JQ0HbryWvSlEN8JQS1f6Y6CKyY9unFyQPQsZnHQ/viewform?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-You can also view `the application form <https://docs.google.com/forms/d/e/1FAIpQLSd_MiC0uP7JQ0HbryWvSlEN8JQS1f6Y6CKyY9unFyQPQsZnHQ>`_ in its own page.
+You can also view `the application form <https://docs.google.com/forms/d/e/1FAIpQLSd_MiC0uP7JQ0HbryWvSlEN8JQS1f6Y6CKyY9unFyQPQsZnHQ/viewform>`_ in its own page.
