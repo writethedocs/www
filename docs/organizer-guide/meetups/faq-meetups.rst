@@ -47,7 +47,7 @@ Yes, as long as the sponsoring company or organization adheres to the following 
 Anything else I get for organizing a meetup?
 --------------------------------------------
 
-We give each meetup organizer a 50% discount to all Write the Docs conferences as a way of saying thanks. Reach out to support@writethedocs.org if you haven't gotten your discount code and would like to buy a ticket. 
+We give each meetup organizer a 50% discount to all Write the Docs conferences as a way of saying thanks. If you haven't gotten your discount code and would like to buy a ticket,  send an email to support@writethedocs.org.
 
 Sharing Meetup Duties
 ---------------------
