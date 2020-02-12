@@ -66,7 +66,18 @@
                               </li>
                           </ul>
                         </li><!--- Parent element with it's children -->
-                        <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/tickets') }}">Tickets</a></li>
+                        <li>
+                             <ul class="uk-navbar-nav">
+                                <li>
+                                    <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/tickets') }}">Tickets</a>
+                                    <div class="uk-navbar-dropdown">
+                                        <ul class="uk-nav uk-navbar-dropdown-nav">
+                                            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/opportunity-grants') }}">Opportunity Grants</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
                         <li>
                             <ul class="uk-navbar-nav">
                                 <li>
