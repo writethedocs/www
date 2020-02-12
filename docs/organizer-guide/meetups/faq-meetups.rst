@@ -47,12 +47,7 @@ Yes, as long as the sponsoring company or organization adheres to the following 
 Anything else I get for organizing a meetup?
 --------------------------------------------
 
-We give each meetup a ticket to a Write the Docs conference for one of the organizers as a way to say thanks.
-
-We give North American meetups a ticket to the NA conference,
-and European meetups a ticket to the EU conference.
-If you're on another continent,
-you can have one for which ever makes more sense for your group!
+We give each meetup organizer a 50% discount to all Write the Docs conferences as a way of saying thanks. Reach out to support@writethedocs.org if you haven't gotten your discount code and would like to buy a ticket. 
 
 Sharing Meetup Duties
 ---------------------
