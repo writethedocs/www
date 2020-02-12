@@ -1,8 +1,45 @@
-==================================
+===================================
 Chapter 18: Working with Marketing
-==================================
+===================================
 
-[QUICK INTRO]
-
-Discussion Summary
+Summary of Chapter
 ------------------
+This chapter discussed how technical writers can & should work with the Marketing department. It raises the question of docs' role: informative, sales-driven, or both?
+
+Docs can serve as marketing material, though they should aim for educating the user first & act as a sales pitch second. Marketing may not like the direct nature of docs, but it is crucial to maintain honesty & directness.
+
+Personas are a key element to both Tech Writers and Marketing. These do not always align though, as Marketing personas target buyers (Management), whereas docs target users (end users/developers).
+
+How can Marketing help Docs:
+* Ensure the doc team knows marketing priorities and feature naming conventions
+* Share customer feedback and perspective
+* Understand the market players and how competitors document their products
+* Align on customer goals
+* Understand future goals/plans
+
+How Docs can Help Marketing:
+* Share your knowledge of what users find helpful
+* Information you develop could inform marketing content
+* Your product knowledge can improve the relevance of Marketing content
+
+Get & stay in contact with Marketing. Working together helps tighten the link between your docs & marketing content, avoids confusion for the user, and can make for a sharper content experience from interest to implementation.
+
+Key Takeaways from Discussion
+-----------------------------
+A big challenge: push-back from Marketing to make content more sales-y.
+
+Both tech writers & marketing aim to help a user achieve a goal: Selling the product that enables the user to achieve said goal (Marketing), and educating the user on how to use the product in this manner (Tech Writer).
+Tech Writers can share the following with Marketing:
+* Expertise on the product.
+* Tutorials based on Marketing's sales points.
+* Easy links to docs, so they can point users to the appropriate material
+
+Marketing can share the following with Tech Writers:
+* Communications advice when you have to share bad news (forced plan changes/migrations, dropping a feature, etc.).
+* Assistance with ensuring the places that hold my content are "on brand."
+* Design tips for screenshots and templates.
+
+Explain features and benefits to them in ways that they find more understandable than when the developers or engineers do the explaining. 
+Also, point out when the marketing docs aren't technically accurate or are missing some major technical benefits.
+
+Use the same language to describe products, and how to use them. May require differences in tone between docs & marketing, but aim to keep the user experience as similar as possible.
