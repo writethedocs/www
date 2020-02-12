@@ -11,6 +11,8 @@ We prioritize applications based on the overall impact that granting an applicat
 
 Grant applicants, like all other participants in the Write the Documents community, are required to conform to the Code of Conduct: https://www.writethedocs.org/code-of-conduct/.
 
+**Grant applications are open until March 1st, 2020, Midnight PST.**
+
 .. contents::
     :local:
     :depth: 1
