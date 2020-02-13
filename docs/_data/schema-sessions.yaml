@@ -19,3 +19,4 @@ speaker-details:
   slug: str()
   twitter: str(required=False)
   website: str(required=False)
+  avatar: str(required=False)

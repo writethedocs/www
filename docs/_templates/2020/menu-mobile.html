@@ -47,7 +47,13 @@
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/contact') }}">Contact</a></li>
                       </ul>
                   </li>
-                  <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/tickets') }}">Tickets</a></li>
+                  <li class="uk-parent">
+                    <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/tickets') }}">Tickets</a>
+                    <ul class="uk-nav-sub">
+                        <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/opportunity-grants') }}">Opportunity Grants</a></li>
+
+                    </ul>
+                  </li>
                   <li class="uk-parent">
                       <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors') }}">Sponsors</a>
                       <ul class="uk-nav-sub">

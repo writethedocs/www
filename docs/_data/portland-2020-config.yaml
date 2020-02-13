@@ -17,10 +17,10 @@ buttons:
   top:
      - text: Sponsor the conference
        link: /sponsors/prospectus
-     - text: Submit a Talk
-       link: /cfp
-    # - text: Buy a Ticket!
-    #   link: /tickets
+    # - text: Submit a Talk
+    #   link: /cfp
+     - text: Buy a Ticket!
+       link: /tickets
     # - text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
@@ -36,8 +36,8 @@ buttons:
   bottom:
      - text: Sponsor the conference
        link: /sponsors/prospectus
-     - text: Submit a Talk
-       link: /cfp
+     - text: See the talks!
+       link: /speakers
     # - text: Buy a Ticket!
     #   link: /tickets
 #    - text: Prepare with the Welcome Wagon
@@ -160,10 +160,10 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: True
+flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
-flagspeakersannounced: False
+flagspeakersannounced: True
 flaghasschedule: False
 flaghasshirts: False
 flagvideos: False

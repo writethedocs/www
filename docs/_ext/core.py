@@ -74,7 +74,7 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
     if data['flaghaswritingday'] and 'writing_day' not in schedule:
             log.warning('Missing key "writing_day" while reading schedule from %s', schedule_yaml_file)
     for day in range(1, data['date']['total_talk_days'] + 1):
-        key = 'talks-day' + str(day)
+        key = 'talks_day' + str(day)
         if key not in schedule:
             log.warning('Missing key "%s" while reading schedule from %s', key, schedule_yaml_file)
 
