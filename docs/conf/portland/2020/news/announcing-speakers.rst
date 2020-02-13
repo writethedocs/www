@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: February 11, 2020
+.. post:: February 12, 2020
    :tags: portland-2020, speakers, tickets, visiting, sponsors
 
 Announcing sessions and opportunity grants
