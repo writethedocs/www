@@ -126,17 +126,34 @@ sponsors:
   keystone:
     - name: microsoft
       link: https://microsoft.com
+      brand: Microsoft
   patron:
     - name: google
       link: https://www.google.com
+      brand: Google
+    - name: redocly
+      link: https://redoc.ly/
+      brand: Redocly
   publisher:
     - name: splunk
       link: https://www.splunk.com/
+      brand: Splunk
+    - name: slack
+      link: https://slack.com/
+      brand: Slack
+    - name: cncf
+      link: https://www.cncf.io/
+      brand: Cloud Native Computing Foundation
   second:
     - name: salesforce
       link: https://www.salesforce.com
+      brand: Salesforce
     - name: courier
       link: https://www.trycourier.com/
+      brand: Courier
+    - name: mongodb
+      link: https://www.mongodb.com/
+      brand: MongoDB
   first:
 
 
