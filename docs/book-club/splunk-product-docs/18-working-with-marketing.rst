@@ -6,7 +6,7 @@ Summary of Chapter
 ------------------
 This chapter discussed how technical writers can & should work with the Marketing department. It raises the question of docs' role: informative, sales-driven, or both?
 
-Docs can serve as marketing material, though they should aim for educating the user first & act as a sales pitch second. Marketing may not like the direct nature of docs, but it is crucial to maintain honesty & directness.
+Docs can serve as marketing material, though they should aim for educating the user first and act as a sales pitch second. Marketing may not like the direct nature of docs, but it is crucial to maintain honesty and directness.
 
 Personas are a key element to both Tech Writers and Marketing. These do not always align though, as Marketing personas target buyers (Management), whereas docs target users (end users/developers).
 
