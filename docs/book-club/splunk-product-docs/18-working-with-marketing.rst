@@ -24,7 +24,7 @@ How Docs can Help Marketing:
 
 Get and stay in contact with marketing. Working together helps tighten the link between your docs and marketing content, avoids confusion for the user, and can make for a sharper content experience from interest to implementation.
 
-Key Takeaways from Discussion
+Key takeaways from discussion
 -----------------------------
 A big challenge: push-back from Marketing to make content more sales-y.
 
