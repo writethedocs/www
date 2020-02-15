@@ -10,7 +10,7 @@ Docs can serve as marketing material, though they should aim for educating the u
 
 Personas are a key element to both Tech Writers and Marketing. These do not always align though, as Marketing personas target buyers (Management), whereas docs target users (end users/developers).
 
-How can Marketing help Docs:
+How can marketing help docs:
 * Ensure the doc team knows marketing priorities and feature naming conventions
 * Share customer feedback and perspective
 * Understand the market players and how competitors document their products
