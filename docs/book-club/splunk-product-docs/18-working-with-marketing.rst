@@ -8,7 +8,7 @@ This chapter discussed how technical writers can & should work with the Marketin
 
 Docs can serve as marketing material, though they should aim for educating the user first and act as a sales pitch second. Marketing may not like the direct nature of docs, but it is crucial to maintain honesty and directness.
 
-Personas are a key element to both Tech Writers and Marketing. These do not always align though, as Marketing personas target buyers (Management), whereas docs target users (end users/developers).
+Personas are a key element to both tech writers and marketing. These do not always align though, as marketing personas target buyers (management), whereas docs target users (end users/developers).
 
 How can marketing help docs:
 * Ensure the doc team knows marketing priorities and feature naming conventions
