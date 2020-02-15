@@ -17,7 +17,7 @@ How can marketing help docs:
 * Align on customer goals
 * Understand future goals/plans
 
-How Docs can Help Marketing:
+How docs can help marketing:
 * Share your knowledge of what users find helpful
 * Information you develop could inform marketing content
 * Your product knowledge can improve the relevance of marketing content
