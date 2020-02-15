@@ -28,7 +28,7 @@ Key takeaways from discussion
 -----------------------------
 A big challenge: push-back from Marketing to make content more sales-y.
 
-Both tech writers & marketing aim to help a user achieve a goal: Selling the product that enables the user to achieve said goal (Marketing), and educating the user on how to use the product in this manner (Tech Writer).
+Both tech writers and marketing aim to help a user achieve a goal: selling the product that enables the user to achieve said goal (marketing), and educating the user on how to use the product in this manner (tech writer).
 Tech Writers can share the following with Marketing:
 * Expertise on the product.
 * Tutorials based on Marketing's sales points.
