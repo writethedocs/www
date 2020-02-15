@@ -26,7 +26,7 @@ Get and stay in contact with marketing. Working together helps tighten the link 
 
 Key takeaways from discussion
 -----------------------------
-A big challenge: push-back from Marketing to make content more sales-y.
+A big challenge: push-back from marketing to make content more sales-y.
 
 Both tech writers and marketing aim to help a user achieve a goal: selling the product that enables the user to achieve said goal (marketing), and educating the user on how to use the product in this manner (tech writer).
 Tech writers can share the following with marketing:
