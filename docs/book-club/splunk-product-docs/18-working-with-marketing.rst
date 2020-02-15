@@ -35,7 +35,7 @@ Tech Writers can share the following with Marketing:
 * Easy links to docs, so they can point users to the appropriate material
 
 Marketing can share the following with tech writers:
-* Communications advice when you have to share bad news (forced plan changes/migrations, dropping a feature, etc.).
+* Communications advice when you have to share bad news (such as forced plan changes/migrations or dropping a feature).
 * Assistance with ensuring the places that hold my content are "on brand."
 * Design tips for screenshots and templates.
 
