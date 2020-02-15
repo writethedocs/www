@@ -22,7 +22,7 @@ How Docs can Help Marketing:
 * Information you develop could inform marketing content
 * Your product knowledge can improve the relevance of marketing content
 
-Get & stay in contact with Marketing. Working together helps tighten the link between your docs & marketing content, avoids confusion for the user, and can make for a sharper content experience from interest to implementation.
+Get and stay in contact with marketing. Working together helps tighten the link between your docs and marketing content, avoids confusion for the user, and can make for a sharper content experience from interest to implementation.
 
 Key Takeaways from Discussion
 -----------------------------
