@@ -42,4 +42,4 @@ Marketing can share the following with tech writers:
 Explain features and benefits to them in ways that they find more understandable than when the developers or engineers do the explaining. 
 Also, point out when the marketing docs aren't technically accurate or are missing some major technical benefits.
 
-Use the same language to describe products, and how to use them. May require differences in tone between docs & marketing, but aim to keep the user experience as similar as possible.
+Use the same language to describe products, and how to use them. May require differences in tone between docs and marketing, but aim to keep the user experience as similar as possible.
