@@ -13,6 +13,7 @@ Learning Resources
    /hiring-guide/index
    /guide/index
    /surveys/index
+   /books
 
 Newsletter
 ~~~~~~~~~~
@@ -48,3 +49,7 @@ Guide to Hiring and Getting Hired
 This is a growing set of resources for those who want to hire or be hired as a documentarian.
 
 You can check out the :doc:`/hiring-guide/index` here.
+
+Reading List
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A `list of books </books/>`_ related to technical writing, information architecture, and content strategy.

@@ -104,7 +104,7 @@ Conference Talks
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.day1 %}
+{% with day_schedule=schedule.talks_day1 %}
 {% include "include/schedule2020.rst" %}
 {% endwith %}
 
@@ -153,7 +153,7 @@ Conference Talks
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.day2 %}
+{% with day_schedule=schedule.talks_day2 %}
 {% include "include/schedule2020.rst" %}
 {% endwith %}
 

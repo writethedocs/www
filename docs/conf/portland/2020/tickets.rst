@@ -103,4 +103,4 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 **None of the above**
 ---------------------
 
-If you can't afford these prices and still wish to attend, please email us at `{{shortcode}}@writethedocs.org <mailto:{{shortcode}}@writethedocs.org>`_. Being a community event that keeps prices low, we can only offer discounted ticket prices, and not travel or hotel assistance.
+If you can't afford these prices and still wish to attend, you can apply for our grant program. Details about the program will be published soon, so stay tuned! 
