@@ -38,6 +38,7 @@ Get more information on how to meet the community, learn new things, get involve
 
    about/events-activities
    about/learning-resources
+   book-club/index
    about/stay-connected
    about/about-the-org
    surveys/salary-survey-sep-2019
@@ -70,3 +71,4 @@ Here are our latest events, and we hope to see you online or in person soon!
    conf/vilnius/*/*
    conf/vilnius/*/*/*
    conf/cfp/*
+   book-club/*/*

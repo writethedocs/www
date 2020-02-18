@@ -13,6 +13,7 @@ Learning Resources
    /hiring-guide/index
    /guide/index
    /surveys/index
+   /book-club/index
    /books
 
 Newsletter
