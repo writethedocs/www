@@ -70,7 +70,7 @@ talks_day2:
   - time: '10:50'
     title: Snack break
   - time: '11:10'
-    slug: architectural-models-architectural-diagrams-or-set-your-data-free-with-model-based-architecture-diagramming-avi-flax
+    slug: set-your-data-free-with-model-based-architecture-diagramming-avi-flax
   - time: '11:40'
     title: Switch Speakers
   - time: '11:50'
@@ -86,7 +86,7 @@ talks_day2:
   - time: '1:50'
     title: Switch Speakers
   - time: '2:00'
-    title: TBC
+    title: walking-backwards-tracing-the-new-customer-journey-from-finish-to-start-to-help-shape-content-sally-stumbo
   - time: '2:30'
     title: Switch Speakers
   - time: '2:40'
