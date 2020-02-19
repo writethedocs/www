@@ -7,8 +7,8 @@ Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel.
 March - April 2020: Every Page is Page One
 ==========================================
 
-Author: Matt Baker
-Paperback ISBN: 9781937434281
+| Author: Matt Baker
+| Paperback ISBN: 9781937434281
 
 1. **March 2-8**
 
