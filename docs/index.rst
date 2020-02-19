@@ -38,7 +38,6 @@ Get more information on how to meet the community, learn new things, get involve
 
    about/events-activities
    about/learning-resources
-   book-club/index
    about/stay-connected
    about/about-the-org
    surveys/salary-survey-sep-2019
