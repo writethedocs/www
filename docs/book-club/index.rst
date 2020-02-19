@@ -4,49 +4,49 @@ Write the Docs Book Club
 
 Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel.
 
-March - April 2020: Every Page is Page One
-==========================================
+March - May 2020: Every Page is Page One
+========================================
 
 | Author: Matt Baker
 | Paperback ISBN: 9781937434281
 
-1. **March 2-8**
+1. **March 2-8**  
 
 * Chapter 1 *Introduction*
 * Chapter 2 *Include it all. Filter it afterward*
 * Chapter 3 *The distributed nature of content on the web*
 
-2. **March 9-15**
+2. **March 9-15**  
 
 * Chapter 4 *Information architecture top down*
 * Chapter 5 *Information architecture bottom up*
 
-3. **March 16-22**
+3. **March 16-22**  
 
 * Chapter 6 *What is a topic?*
 * Chapter 7 *EPPO topics are self-contained*
 
-4. **March 23-29**
+4. **March 23-29**  
 
 * Chapter 8 *EPPO topics have a specific and limited purpose*
 * Chapter 9 *EPPO topics conform to a type*
 
-5. **March 30-April 5**
+5. **March 30-April 5**  
 
 * Chapter 10 *EPPO topics establish their context*
 * Chapter 11 *EPPO topics assume the reader is qualified*
 
-6. **April 6-12**
+6. **April 6-12**  
 
 * Chapter 12 *EPPO topics stay on one level*
 * Chapter 13 *EPPO topics link richly*
 
-7. **April 13-19**
+7. **April 13-19**  
 
 * Chapter 14 *Writing ever page is page on topics*
-* Chapter 15 * Every page is page one topics and the big picture*
+* Chapter 15 *Every page is page one topics and the big picture*
 
-8. **April 20-26**   
+8. **April 20-26**  
 
 * Chapter 16 *Sequence of tasks vs. sequence of topics*
 * Chapter 17 *EPPO and minimalism*
