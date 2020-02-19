@@ -2,12 +2,6 @@
 Chapter 2: Agile
 ================
 
-Chapter Summary
----------------
-
-[TODO]
-
-
 Community discussion
 --------------------
 
