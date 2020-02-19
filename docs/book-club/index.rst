@@ -4,6 +4,11 @@ Write the Docs Book Club
 
 Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel.
 
+.. contents::
+   :local:
+   :depth: 1
+   :backlinks: none
+   
 March - May 2020: Every Page is Page One
 ========================================
 
