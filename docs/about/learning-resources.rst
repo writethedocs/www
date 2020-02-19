@@ -13,6 +13,7 @@ Learning Resources
    /hiring-guide/index
    /guide/index
    /surveys/index
+   /book-club/index
    /books
 
 Newsletter
@@ -50,6 +51,14 @@ This is a growing set of resources for those who want to hire or be hired as a d
 
 You can check out the :doc:`/hiring-guide/index` here.
 
+Book Club Write-ups
+~~~~~~~~~~~~~~~~~~~
+
+The #learn-tech-writing channel in the Write the Docs :doc:`/slack` hosts a book club. This section contains summaries of discussions.
+
+You can check out the :doc:`/book-club/index` here.
+
 Reading List
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+
 A `list of books </books/>`_ related to technical writing, information architecture, and content strategy.
