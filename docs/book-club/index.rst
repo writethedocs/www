@@ -10,61 +10,50 @@ March - May 2020: Every Page is Page One
 | Author: Matt Baker
 | Paperback ISBN: 9781937434281
 
-1. **March 2-8**  
+1. **March 2-8**
+    * Chapter 1 *Introduction*
+    * Chapter 2 *Include it all. Filter it afterward*
+    * Chapter 3 *The distributed nature of content on the web*
 
-* Chapter 1 *Introduction*
-* Chapter 2 *Include it all. Filter it afterward*
-* Chapter 3 *The distributed nature of content on the web*
+2. **March 9-15**
+    * Chapter 4 *Information architecture top down*
+    * Chapter 5 *Information architecture bottom up*
 
-2. **March 9-15**  
+3. **March 16-22**
+    * Chapter 6 *What is a topic?*
+    * Chapter 7 *EPPO topics are self-contained*
 
-* Chapter 4 *Information architecture top down*
-* Chapter 5 *Information architecture bottom up*
+4. **March 23-29**
+    * Chapter 8 *EPPO topics have a specific and limited purpose*
+    * Chapter 9 *EPPO topics conform to a type*
 
-3. **March 16-22**  
+5. **March 30-April 5**
+    * Chapter 10 *EPPO topics establish their context*
+    * Chapter 11 *EPPO topics assume the reader is qualified*
 
-* Chapter 6 *What is a topic?*
-* Chapter 7 *EPPO topics are self-contained*
+6. **April 6-12**
+    * Chapter 12 *EPPO topics stay on one level*
+    * Chapter 13 *EPPO topics link richly*
 
-4. **March 23-29**  
+7. **April 13-19**
+    * Chapter 14 *Writing ever page is page on topics*
+    * Chapter 15 *Every page is page one topics and the big picture*
 
-* Chapter 8 *EPPO topics have a specific and limited purpose*
-* Chapter 9 *EPPO topics conform to a type*
-
-5. **March 30-April 5**  
-
-* Chapter 10 *EPPO topics establish their context*
-* Chapter 11 *EPPO topics assume the reader is qualified*
-
-6. **April 6-12**  
-
-* Chapter 12 *EPPO topics stay on one level*
-* Chapter 13 *EPPO topics link richly*
-
-7. **April 13-19**  
-
-* Chapter 14 *Writing ever page is page on topics*
-* Chapter 15 *Every page is page one topics and the big picture*
-
-8. **April 20-26**  
-
-* Chapter 16 *Sequence of tasks vs. sequence of topics*
-* Chapter 17 *EPPO and minimalism*
+8. **April 20-26**
+    * Chapter 16 *Sequence of tasks vs. sequence of topics*
+    * Chapter 17 *EPPO and minimalism*
 ​
-9. **April 27-May 3**  
-
-* Chapter 18 *Structured writing*
-* Chapter 19 *Metadata*
+9. **April 27-May 3**
+    * Chapter 18 *Structured writing*
+    * Chapter 19 *Metadata*
 ​
-10. **May 4-10** (WTD Portland)    
-
-* Chapter 20 *Linking*
-* Chapter 21 *Reuse*
+10. **May 4-10** (WTD Portland)
+    * Chapter 20 *Linking*
+    * Chapter 21 *Reuse*
 ​
-11. **May 11-17**    
-
-* Chapter 22 *Making the case for every page is page one*
-* Chapter 23 *Afterword: EPPO, but not for everything*
+11. **May 11-17**
+    * Chapter 22 *Making the case for every page is page one*
+    * Chapter 23 *Afterword: EPPO, but not for everything*
 
 
 January - February 2020: The Product is Docs
