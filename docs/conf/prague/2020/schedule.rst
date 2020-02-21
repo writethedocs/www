@@ -81,7 +81,7 @@ We'll also help groups organize dinner plans, so you can continue your conversat
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **17:00-20:00**
 
-Monday, May 4
+{{date.day_three.dotw}}, {{date.day_three.date}}
 -------------
 
 .. contents::
@@ -131,7 +131,7 @@ There will be light snacks and drinks available on the conference while our tab 
 
 Further details will be announced later.
 
-Tuesday, May 5
+{{date.day_four.dotw}}, {{date.day_four.date}}
 --------------
 
 .. contents::

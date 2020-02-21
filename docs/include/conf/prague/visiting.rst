@@ -15,7 +15,7 @@ To get from the airport to the city center, you can either take a the Airport Ex
 Trains
 ~~~~~~
 
-Prague's main train station (Hlavni Nadrazi / hl.n) is a central railway hub, with direct trains to Germany, Poland, Austria, and Hungary.
+Prague's main train station (Hlavni Nadrazi / hl.n) is a central railway hub, with direct trains to many regional destinations, such as Germany, Poland, Austria, and Hungary.
 We recommend train lines by EuroCity (EC), InterCity (IC) or RailJet (RJ).
 You can even take a train from Denmark `inside a ferry! <http://en.wikipedia.org/wiki/Vogelfluglinie>`__
 
@@ -25,8 +25,8 @@ Buses
 ~~~~~
 
 Prague is a popular destination among backpackers and shoestring travelers, so there are many affordable bus options if you are traveling within Europe.
-The biggest Czech bus company `Student Agency <http://www.studentagency.eu/>`__ operates direct bus lines between Prague and cities like Berlin, Vienna, Zagreb, Munich, etc.
-Global companies like `Eurolines <http://www.eurolines.com/en/>`__ operate direct lines to many European cities.
+The biggest Czech bus company `RegioJet <http://www.regiojet.eu/>`__ operates direct bus lines between Prague and cities like Berlin, Vienna, Zagreb, Munich, etc.
+Global companies like `Eurolines <http://www.eurolines.com/en/>`__ and FlixBus operate direct lines to many European cities.
 
 How to pay for things?!
 -----------------------
@@ -39,7 +39,7 @@ You can bring your Euros, Dollars, Pound Sterlings with you and exchange them at
 
 **We do not recommend exchanging money at the airport or at the train station**. When looking for an exchange broker, find one that lists 0% commission, especially if you want to exchange relatively smaller amounts.
 
-The exchange rate is roughly 25CZK/1EUR, 20CZK/1USD, and 30CZK/1GBP. Most modern restaurants and supermarkets accept credit and debit cards using a chip+pin machine, but some of the smaller pubs and bars still only accept cash, as do some taxi drivers. If you want to pay for a taxi ride with a credit card, remember to state this when you call ahead.
+The exchange rate is roughly 25CZK/1EUR, 20CZK/1USD, and 30CZK/1GBP. Most modern restaurants and supermarkets accept credit and debit cards using a chip+PIN machine, but some of the smaller pubs and bars still only accept cash, as do some taxi drivers. If you want to pay for a taxi ride with a credit card, remember to state this when you call ahead.
 
 **Can you pay for things with Euro/Dollar/Pounds?** In the old town center, some places will accept these currencies, but please check the exchange rate very carefully, and you're likely to get change back in CZK.
 
@@ -88,11 +88,11 @@ If you need a tax invoice or prefer to pay in cash, there are several reliable l
 Where to stay
 -------------
 
-Our venue Auto Klub is located across the road from the main train station, at the edge of the old town district (Prague 1).
-We recommend booking accommodation in Prague 1 or Prague 2 area, on the west side of the railway station.
+Hotel Olšanka is located in Prague 3, Žižkov district. This neighborhood is close to the city center, and there are plenty of accommodation options in the area for any budget. If you want to stay at the hotel, we have secured a discount code for our attendees. 
 
-We are not working with any of the hotels for attendee accommodations, but there are countless hotels and Airbnb apartments available within walking distance of the venue.
-Just head over to your favorite booking site or use one of these sites to research accommodation:
+Please note that the hotel does not offer accessible rooms, and Write the Docs cannot be held liable for mobility issues outside the conference areas, which are fully accessible.
+
+If you prefer to book your accommodation elsewhere, just head over to your favorite booking site or use one of these sites to research accommodation:
 
 -  `AirBnB <https://www.airbnb.com/>`__
 -  `Booking.com <http://www.booking.com/>`__

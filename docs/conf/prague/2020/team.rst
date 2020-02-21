@@ -33,20 +33,20 @@ Sasha Romijn
 Primary Roles
 -------------
 
-* **Conference chair** - *TBD*
-* **Conference co-chair** - *TBD*
+* **Conference chair** - Mikey Ariel
+* **Conference co-chair** - Samuel Wright
 * **Code of conduct response** - See `code of conduct </code-of-conduct/#reporting-and-contact-information>`_ page
-* **Speaker coordinator** - *TBD*
+* **Speaker coordinator** - Samuel Wright
 * **Unconference coordinator** - *TBD*
 * **Lightning Talk coordinator** - *TBD*
-* **Hike coordinator** - *TBD*
-* **Infrastructure coordinator** - *TBD*
-* **Swag coordinator** - *TBD*
-* **Communication coordinator** - *TBD*
-* **Explore Portland coordinators** - *TBD*
+* **Boat ride coordinator** - Mikey Ariel
+* **Infrastructure coordinator** - Sasha Romijn & Samuel Wright
+* **Swag coordinator** - Mikey Ariel
+* **Communication coordinator** - Mikey Ariel
+* **Explore Prague coordinators** - *TBD*
 * **Job Fair coordinator** - *TBD*
 * **Welcome Wagon coordinators** - *TBD*
-* **Sponsorship coordinator** - *TBD*
+* **Sponsorship coordinator** - Sasha Romijn
 * **Writing Day coordinator** - *TBD*
 * **Volunteer coordinator** -*TBD*
 * **Emcee** - *TBD*

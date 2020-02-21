@@ -93,7 +93,7 @@ date: # how do we handle these? human readable would be nice.
   day_three:
     event: Main Conference
     date: September 14-15
-    summary: The main days of the conference. We will be running our main track in the main room, and the Unconference in the small room.
+    summary: The main days of the conference. We will be running our main track in the Congress Hall, and the Unconference in the small room.
     icon: conference
     dotw: Monday/Tuesday
   total_talk_days: 2
@@ -105,11 +105,11 @@ about:
     During the main event we also run an :doc:`/conf/prague/2020/unconference`.
 
     You can find out more information about the venue and its accessibility on our :doc:`/conf/prague/2020/venue` page."
-  venue: "TBA"
-  mainroom: TBA
-  unconfroom: TBA
+  venue: "Hotel Olšanka"
+  mainroom: Congress Hall
+  unconfroom: Bistro
   projector_ratio: "16:9"
-  job_fair_room: TBA
+  job_fair_room: Bistro
 
 
 sponsors:
@@ -119,7 +119,7 @@ sponsors:
 
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: False
 flagcfp: False
 flagticketsonsale: False
