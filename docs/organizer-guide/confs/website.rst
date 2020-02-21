@@ -269,7 +269,8 @@ Within each day, each item must have a ``time``, which is free text, so it
 can be in 12 hour or 24 hour time, and either a ``title`` or a ``slug``.
 A title is used for free text schedule items, like "Snack Break". A slug is
 used for conference talks, where the slug must match the slug of a session
-in the ``_data/<shortcode>-<year>-sessions.yaml`` file.
+in the ``_data/<shortcode>-<year>-sessions.yaml`` file. All sessions must
+be in the schedule.
 
 A schedule file for a very brief conference could look like::
 
