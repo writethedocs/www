@@ -92,10 +92,15 @@ date: # how do we handle these? human readable would be nice.
     dotw: Sunday
   day_three:
     event: Main Conference
-    date: September 14-15
+    date: September 14
     summary: The main days of the conference. We will be running our main track in the Congress Hall, and the Unconference in the small room.
     icon: conference
-    dotw: Monday/Tuesday
+    dotw: Monday
+  day_four:
+    # In current templates, day_four is assumed to have the same details as day_three regarding icon/event description
+    date: September 15
+    dotw: Tuesday
+  main_conference_dates: September 14-15
   total_talk_days: 2
 
 about:

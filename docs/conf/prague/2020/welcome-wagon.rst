@@ -36,7 +36,7 @@ Join us for an informal introduction to Write the Docs, to the Welcome Wagon, an
 **Venue Tours**
 
 * *{{date.day_two.dotw}}, {{date.day_two.date}} at 17:30 starting near the registration desk at Auto-Klub*
-* *Monday, {{date.day_three.date}} at 9:15 starting near the registration desk at Auto-Klub*
+* *{{date.day_three.dotw}}, {{date.day_three.date}} at 9:15 starting near the registration desk at Auto-Klub*
 
 Come on a short tour of the venue with a veteran Write the Docs attendee so you'll know where everything is and everything you can take part in.
 

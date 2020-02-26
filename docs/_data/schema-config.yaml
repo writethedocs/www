@@ -90,6 +90,7 @@ date-details:
   day_two: include('day-details', required=False)
   day_three: include('day-details', required=False)
   day_four: include('day-details', required=False)
+  main_conference_dates: str(required=False)
   total_talk_days: int(min=0, required=False)
 
 day-details:
