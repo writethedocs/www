@@ -38,16 +38,16 @@ Primary Roles
 * **Code of conduct response** - See `code of conduct </code-of-conduct/#reporting-and-contact-information>`_ page
 * **Speaker coordinator** - Samuel Wright
 * **Unconference coordinator** - *TBD*
-* **Lightning Talk coordinator** - *TBD*
+* **Lightning Talk coordinator** - Paul Adams
 * **Boat ride coordinator** - Mikey Ariel
 * **Infrastructure coordinator** - Sasha Romijn & Samuel Wright
 * **Swag coordinator** - Mikey Ariel
 * **Communication coordinator** - Mikey Ariel
 * **Explore Prague coordinators** - *TBD*
-* **Job Fair coordinator** - *TBD*
+* **Job Fair coordinator** - Sasha Romijn
 * **Welcome Wagon coordinators** - *TBD*
 * **Sponsorship coordinator** - Sasha Romijn
-* **Writing Day coordinator** - *TBD*
+* **Writing Day coordinator** - Chris Ward
 * **Volunteer coordinator** -*TBD*
 * **Emcee** - *TBD*
 * **Social media coordinator** - *TBD*

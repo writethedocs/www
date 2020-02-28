@@ -90,7 +90,7 @@ Where to stay
 
 Hotel Olšanka is located in Prague 3, Žižkov district. This neighborhood is close to the city center, and there are plenty of accommodation options in the area for any budget. If you want to stay at the hotel, we have secured a discount code for our attendees. 
 
-Please note that the hotel does not offer accessible rooms, and Write the Docs cannot be held liable for mobility issues outside the conference areas, which are fully accessible.
+Please note that the hotel does not offer accessible rooms, and Write the Docs is not responsible for mobility issues outside the conference areas, which are fully accessible.
 
 If you prefer to book your accommodation elsewhere, just head over to your favorite booking site or use one of these sites to research accommodation:
 
