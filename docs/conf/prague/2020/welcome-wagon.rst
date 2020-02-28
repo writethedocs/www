@@ -12,7 +12,7 @@ make you feel more at home, and help you to manage the constant flow of informat
 
 .. image:: /_static/conf/images/pics/welcome-wagon.jpg
 
-Dururing the conference, we'll connect you with people - both veterans and other first-timers.
+During the conference, we'll connect you with people - both veterans and other first-timers.
 And we'll give you strategies and tips so you can make the most of the conference.
 
 The `FAQs <#faq>`_ should have answers to most of your questions, but let us know if there is anything you'd like to know that isn't there. You can ask us questions in the :doc:`#wtd-conferences channel on Slack </slack>`.
@@ -29,14 +29,14 @@ Welcome Wagon events
 
 **Write the Docs Introduction**
 
-*{{date.day_two.dotw}}, {{date.day_two.date}} at 17:00 in the downstairs foyer (near the cloakroom) at Auto-Klub*
+*{{date.day_two.dotw}}, {{date.day_two.date}} at 17:00 in the downstairs foyer (near the cloakroom)*
 
 Join us for an informal introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new before we join the opening reception.
 
 **Venue Tours**
 
-* *{{date.day_two.dotw}}, {{date.day_two.date}} at 17:30 starting near the registration desk at Auto-Klub*
-* *{{date.day_three.dotw}}, {{date.day_three.date}} at 9:15 starting near the registration desk at Auto-Klub*
+* *{{date.day_two.dotw}}, {{date.day_two.date}} at 17:30 starting near the registration desk*
+* *{{date.day_three.dotw}}, {{date.day_three.date}} at 9:15 starting near the registration desk*
 
 Come on a short tour of the venue with a veteran Write the Docs attendee so you'll know where everything is and everything you can take part in.
 
@@ -69,8 +69,8 @@ FAQ
 Where is everything?
 ~~~~~~~~~~~~~~~~~~~~
 
-The conference main stage is in the Auto Klub on the second floor. The unconference
-takes place directly across the foyer in the adjoining room.
+The conference main stage is in the Congress Hall on the second floor. The unconference
+takes place in the Bistro and adjoining rooms, on the left-hand side of the foyer if you stand in front of the Congress Hall.
 
 If you are joining in the boat tour on Saturday, you'll meet the other folks
 at the Prague Boats pier no. 5.
@@ -79,7 +79,7 @@ How should I get around?
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Prague is a very walk-able town. Most of the events are
-   within walking distance of the conference venue.
+   within walking distance or a short public transportation ride away from the conference venue.
 -  There are good public transportation options and taxi services. Check
    out the `Visiting Prague section of the Write the Docs
    website </conf/{{shortcode}}/{{year}}/visiting/>`__ for
@@ -105,22 +105,21 @@ What will I eat?
 -  Drinks and food are provided for you during conference days, so you can
    focus on the talks and meeting people and don't have to worry about
    where to get your morning coffee.
--  Coffee, tea, and water are always available in the Auto Klub.
+-  Coffee, tea, and water are always available in the venue.
    Bring a water bottle to make it easier for you to stay hydrated.
--  Food is provided on Sunday, Monday, and Tuesday in the Auto Klub. There
+-  Food is provided on Sunday, Monday, and Tuesday in the conference venue. There
    is a light breakfast, a solid lunch, and snacks on each conference
    day.
 -  On Saturday and in the evenings on Monday and Tuesday, explore the food
    options in Prague. Invite someone you just met to join you! If you are
    invited to dinner, say yes! Making connections over dinner is a great way
    to get to know more people.
--  If you need grocery items, there is a BILA supermarket at the Prague train station
-   across the park from Auto Klub.
+-  If you need grocery items, there is an Albert supermarket on Ondříčkova 39, 150m west of the venue.
 
 Where should I sit?
 ~~~~~~~~~~~~~~~~~~~
 
--  The Auto Klub will have round tables next to the main stage
+-  The Congress Hall has round tables next to the main stage
    and rows of seats behind them. There will also be seats in the mezzanine level.
 -  There are no reserved seats; feel free to sit anywhere.
 -  If you can, show up early to the conference each morning to grab a
@@ -130,12 +129,12 @@ Where should I sit?
 What should I do during the talks?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Conference talks at Auto Klub </conf/{{shortcode}}/{{year}}/speakers/>`__:
+`Conference talks </conf/{{shortcode}}/{{year}}/speakers/>`__:
 
 -  The time between talks is for meeting your colleagues or taking a
    break. During the talks, listen and take in as much as you can.
 -  There is a lot of great information at this conference, but don't
-   worry if you miss something! All talks are videotaped, so you can
+   worry if you miss something! All talks are recorded, so you can
    review them later.
 -  If you have a question during a talk, make a note of it and use it as
    a conversation starter with the speaker after the talk.
