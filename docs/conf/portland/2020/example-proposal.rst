@@ -1,14 +1,18 @@
-If you need guidance on how to create a proposal, read this page.
+:template: {{year}}/generic.html
+
+.. _example-talk-proposal-{{year}}
+
+Example talk proposal
+=====================
 
 Substitute a catchy title that promises pratical lessons
-========================================================
 
 Abstract
 --------
 
 This is the content that Write the Docs would post on the conference schedule. The proposal committee uses everything beyond the abstract to evaluate the quality of your proposal.
 
-Incldue a brief story, typically two to four paragraphs, that describes your personal work experience with the topic. Make sure the abstract appeals to our audience of documentarians. We're suspicious of proposals that look like they belong at other conferences.
+Include a brief story, typically two to four paragraphs, that describes your personal work experience with the topic. Make sure the abstract appeals to our audience of documentarians. We're suspicious of proposals that look like they belong at other conferences.
 
 Include a list of things that our audience can learn from your talk, such as:
 
@@ -19,7 +23,6 @@ Include a list of things that our audience can learn from your talk, such as:
 Help your audience think: "Oh yes, this talk could help me when I do X in my work!"
 
 Avoid walls of text. We recommend that you limit your proposal to a maximum of 300 words. If your proposal is accepted, this is what the audience will see in the program when they preview your talk.
-
 
 Who and Why
 -----------
@@ -49,7 +52,7 @@ We've accepted talks from people who work in a variety of roles, including:
 * Developers
 * Designers
 * Testers
-* Support 
+* Support
 * Developer advocates
 * Community managers
 * Scientists
