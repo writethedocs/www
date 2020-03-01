@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 
-Example talk proposal
-=====================
+Example talk proposal title
+===========================
 
 Substitute a catchy title that promises pratical lessons
 
