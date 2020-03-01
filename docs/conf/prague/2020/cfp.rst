@@ -142,6 +142,11 @@ If your proposal is accepted but you would find it difficult to attend due to tr
 
 Note that all Speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides will need to follow our Code of Conduct. If you are unsure about any aspect of this, please feel free to ask us for clarification
 
+Example proposal
+----------------
+
+If you'd like some guidance on how to create a talk proposal, take a look at our :doc:`Example proposal <example-proposal>`.
+
 Questions?
 ----------
 
