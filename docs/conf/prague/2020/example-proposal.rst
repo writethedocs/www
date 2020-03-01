@@ -1,7 +1,5 @@
 :template: {{year}}/generic.html
 
-.. _example-talk-proposal-{{year}}
-
 Example talk proposal
 =====================
 
