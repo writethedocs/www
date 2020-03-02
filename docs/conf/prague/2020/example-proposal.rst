@@ -3,7 +3,7 @@
 Example talk proposal title
 ===========================
 
-Substitute a catchy title that promises pratical lessons
+Substitute a catchy title that promises practical lessons
 
 Abstract
 --------
@@ -29,7 +29,7 @@ Use this opportunity to show the selection committee that you empathize with you
 
 Our audience creates documentation primarily for software. Given the variety of tools used for software documentation, we rarely accept talks that focus on a specific software tool.
 
-Our audence goes beyond the technical writing community. Here's a typical demographic distribution of people who attend our confernces:
+Our audience goes beyond the technical writing community. Here's a typical demographic distribution of people who attend our conferences:
 
 * Technical Writers (60%)
 * Developers (10%)
