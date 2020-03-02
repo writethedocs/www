@@ -4,7 +4,7 @@ state: Pennsylvania
 city: Philadelphia
 page: ./philly/
 website: https://www.meetup.com/WTD-Philadelphia
-meetup: Write-the-Docs-Philadelphia
+meetup: WTD-Philadelphia
 twitter: WriteTheDocsPHL
 organizers:
   - name: Heather Zoppetti
