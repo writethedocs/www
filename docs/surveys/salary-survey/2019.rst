@@ -1,3 +1,5 @@
+:page_template: survey.html
+
 .. h.gvypi898rlnx:
 
 Introduction
