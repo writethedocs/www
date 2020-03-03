@@ -1,3 +1,4 @@
+Kay Smoljak, [03.03.20 16:12]
 @media screen{
   #write-the-docs-salary-survey hr{margin-top:40px}
   #write-the-docs-salary-survey table caption{padding:0.5em}
@@ -16,9 +17,9 @@
   #write-the-docs-salary-survey table#id23 tbody tr td:nth-child(2)
   {text-align:center}
 
-  #write-the-docs-salary-survey table#id11 thead th{vertical-align:middle;white-space:nowrap}
-  #write-the-docs-salary-survey table#id11 thead tr th:nth-child(2),
-  #write-the-docs-salary-survey table#id11 tbody tr td:nth-child(2)
+  #write-the-docs-salary-survey table#id10 thead th{vertical-align:middle;white-space:nowrap}
+  #write-the-docs-salary-survey table#id10 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey table#id10 tbody tr td:nth-child(2)
   {text-align:right}
 
   #write-the-docs-salary-survey table#id12 tbody tr td:nth-child(2){vertical-align:middle}
