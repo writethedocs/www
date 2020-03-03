@@ -8,7 +8,7 @@ COVID-19 Update
 
 Hey Folks,
 
-As you've probably heard by now, the coronavirus (also known as COVID-19) is a new virus that causes respiratory illness in people and can easily spread from person-to-person. Since Write the Docs Portland 2020 is only a few months away, we wanted to give you an update on our status regarding COVID-19.
+As you've probably heard by now, the coronavirus (also known as COVID-19) is a new virus that causes respiratory illness in people and can easily spread from person-to-person. Since Write the Docs Portland 2020 is only 2 months away, we wanted to give you an update.
 
 **As of today, March 3, Write the Docs Portland 2020 is scheduled to go ahead**.
 
