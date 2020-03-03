@@ -306,10 +306,10 @@ Salary by Region/Country
 ------------------------
 
 .. table::  Median Salary by Region/Country
-   :widths: 20 20 20 20 20
 
    +------------------+------------------+--------------------------------------+---------------------+---------------+
-   |                  | Region           | No of Respondents (working 30+ hours)| Per centage of Total| Median Salary |
+   | Region           |  Sub-region      | No of Respondents                    | Percentage of Total | Median Salary |
+   |                  |                  | *(working 30+ hour)*                 |                     |               |
    +==================+==================+======================================+=====================+===============+
    | North America    |                  | 386                                  | 61%                 | $90,000       |
    +------------------+------------------+--------------------------------------+---------------------+---------------+
