@@ -5,44 +5,43 @@
 Write the Docs Newsletter – March 2020
 ######################################
 
-Hello everyone! It's your friendly neighbourhood newsletter team, here with the March edition.
+Hello everyone! March is here (already?!), and so is a fresh new edition of the WTD newsletter.
 
-Our first bit of news: we're happy to announce the `results of last year's salary survey </surveys/salary-survey/2019/>`__! Openness is a core value of this community, so it's awesome to be able to present the anonymized data for your perusing.
+Firstly, announcing some news I know some of you have been waiting for. We're delighted that the `results of last year's salary survey </surveys/salary-survey/2019/>`__ are now live! Openness is a core value of this community, so it's great to be able to present the anonymized data for your perusing.
 
-On the conference side, it's super exciting to see the `roster of speakers for Portland </conf/portland/2020/news/announcing-speakers/#full-speaker-line-up>`__ announced a few weeks ago. Some seriously great talks to look forward to.
+On the conference side, it's exciting to see the `awesome roster of speakers for Portland </conf/portland/2020/news/announcing-speakers/#full-speaker-line-up>`__ - some seriously great talks to look forward to.
 
-We wanted to also address the COVID-19 situation. Currently, *we have no plans to cancel* the Portland conference, but are planning to take additional precautions during the on-site events. We will be watching the situation closely over the next few weeks, and taking advice from the Oregon health authorities and United States CDC as it comes. We will assess the situation again next week and provide updates as the situation changes. 
+We do also want to address the situation with COVID-19. Currently, *we have no plans to cancel* the Portland conference, but are planning to take additional precautions during the on-site events. We'll be watching the situation closely over the next few weeks, and taking advice from the Oregon health authorities and United States CDC as it comes. We will assess the situation again next week and provide updates as the situation changes. 
 
-And that's it for the news. It's been a month of great conversations on Slack, so let's head on to our stories!
+Moving swiftly on - it's been a month of great conversations on Slack, so let's head on to our stories.
 
 ------------------------------------------
 Job listings and managing your assumptions
 ------------------------------------------
-​
+
 How should you approach a job search when you're more of the "writer who quickly learns technical topics" than the "developer who likes to write" sort of technical writer? February's conversation on this subject included tips for targeting and expanding your search, as well a discusssion about avoiding the limits of your own assumptions.
-​
+
 In terms of tips, try searching for job listings that mention more traditional tech writer tools, like MadCap Flare. These jobs may involve more focus on writing and less focus on programming experience. You could also search for different job titles: tech-writing-adjacent roles like UI/UX writer, content designer or content strategist, technical editor, information designer, documentation specialist, and product writer or product education.
-​
+
 These tips bloomed into a longer conversation about how your own biases and assumptions can reduce the number of jobs you apply for. Here are a few key points to consider:
 
 - A more "technical" tech writing role may be open to someone who can write well already (arguably harder to teach) and pick up the technical concepts as they go. Make it clear that you're willing to learn! Every new job has a learning curve, no matter how technical you are.
 - Write your cover letter and application to focus on the requirements that you *do* fit. You can address any gaps between your experience and the advert during the interview. If you're worried that applying when you don't meet all requirements is a waste of time, instead think of it as building experience talking about your skills and talents.
 - Treat job listings as a wish list, not a list of requirements that you must match exactly. A `2014 Harvard Buisness Review article <https://hbr.org/2014/08/why-women-dont-apply-for-jobs-unless-theyre-100-qualified>`_ described how this assumption affects women in particular, and tools like `Shatter <https://www.shatter.live/>`_ aim to help women apply to more jobs and present themselves for leadership roles. "Apply even if you don't think you fit 100% of the requirements" is good advice for anyone. As one documentarian pointed out, if you qualify for 70% of the requirements, consider yourself a great candidate. Another put it this way: it's not your job to turn yourself down!
-​
-No matter what, remember that the types of jobs open are always changing, so don't get discouraged! There's plenty of help available on Slack community, especially #career-advice and #job-posts-only; and don't forget the `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
+No matter what, remember that the types of jobs open are always changing, so don't get discouraged! There's plenty of help available on Slack community, especially #career-advice and #job-posts-only; and don't forget the `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
 ---------------------------------
 Learning material recommendations
 ---------------------------------
 
-The folks over in the #learn-tech-writing channel have been discussing what resources are available for learning all sorts of skills useful to documentarians. There's plenty of great stuff on all sorts of topics:
+Folks across several channels have been discussing learning resources - ones for learning all sorts of skills useful to documentarians. There's plenty of great stuff on a bunch of topics:
 
 Fundamentals of tech writing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Join us for a two-chapter-a-week read-through of Mark Baker's *Every Page Is Page One* in #learn-tech-writing!
-* Google's `Technical Writing for Developers courses <https://developers.google.com/tech-writing>`__ - just released to the public last week.
+* There's also Google's `Technical Writing for Developers courses <https://developers.google.com/tech-writing>`__ - just released to the public last week.
 
 Content strategy
 ~~~~~~~~~~~~~~~~
@@ -80,19 +79,19 @@ Do we tell users what's new in the docs?
 ----------------------------------------
 
 This month, documentarians debated whether or not we should provide a "What's New in the Docs" section - to detail changes to the documentation itself, rather than the product. It depends on how you do release notes for your product, and how much value docs release notes would add for your audience. If your team has the bandwidth, it's worth considering - even if they're just a section inside of your product release notes.
-​
+
 Arguments in favor:
-​
+
 * When you create or update documentation outside of a release (for example, to address documentation debt or add a new tutorial for an existing feature set) release notes help make your readers aware there are improvements.
 * If release notes for the product aren't especially descriptive (such as a list of Jira keys and summaries) including release notes for documentation changes can give users more context for the changes.
 * If your product's release notes are targeted towards system administrators or similarly advanced users, docs notes may be more useful for end users.
 * Can demonstrate to your customers that you're addressing their docs feedback.
-​
+
 Arguments against:
-​
+
 * For many of us, our release notes cover changes to the product we're documenting, and our documentation changes are in response to those changes. Release notes for documentation would simply duplicate the release notes for the product.
 * Who has the time?
-​
+
 Does your organization create release notes for the documentation? How has it been going? Come chat about it in Slack!
 
 -------------------------
