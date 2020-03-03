@@ -29,7 +29,7 @@ These tips bloomed into a longer conversation about how your own biases and assu
 - Write your cover letter and application to focus on the requirements that you *do* fit. You can address any gaps between your experience and the advert during the interview. If you're worried that applying when you don't meet all requirements is a waste of time, instead think of it as building experience talking about your skills and talents.
 - Treat job listings as a wish list, not a list of requirements that you must match exactly. A `2014 Harvard Buisness Review article <https://hbr.org/2014/08/why-women-dont-apply-for-jobs-unless-theyre-100-qualified>`_ described how this assumption affects women in particular, and tools like `Shatter <https://www.shatter.live/>`_ aim to help women apply to more jobs and present themselves for leadership roles. "Apply even if you don't think you fit 100% of the requirements" is good advice for anyone. As one documentarian pointed out, if you qualify for 70% of the requirements, consider yourself a great candidate. Another put it this way: it's not your job to turn yourself down!
 
-No matter what, remember that the types of jobs open are always changing, so don't get discouraged! There's plenty of help available on Slack community, especially #career-advice and #job-posts-only; and don't forget the `Write the Docs job board <https://jobs.writethedocs.org/>`_.
+No matter what, remember that the types of jobs open are always changing, so don't get discouraged! There's plenty of help available in our Slack community, especially #career-advice and #job-posts-only; and don't forget the `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
 ---------------------------------
 Learning material recommendations
