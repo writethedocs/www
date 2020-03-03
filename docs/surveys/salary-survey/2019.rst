@@ -557,7 +557,7 @@ above. The remaining responses were grouped into the following areas:
 4 of the 14 respondents who rated themselves as “very unsatisfied” did
 not indicate any reason.
 
-.. figure:: images/10.svg
+.. figure:: images/10-2.svg
    :alt: Figure: Reasons for Dissatisfaction
 
    Figure: Reasons for Dissatisfaction
