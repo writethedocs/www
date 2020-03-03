@@ -16,12 +16,9 @@ We are watching the situation closely, and taking advice from the Oregon health 
 
 If at the time of Write the Docs Portland 2020 you feel sick, or are worried that you might have been in contact with people who have been diagnosed with COVID-19, we encourage you to stay home. Your registration will be 100% refunded. If you have any questions about this, please reach out to `{{email}} <mailto:{{email}}>`_.
 
-We will continue to provide updates as the conference gets closer.
+We will continue to provide updates as the conference gets closer. In the meantime, we recommend watching these resources that will effect our decisions:
+
+* `CDC Updates <https://www.cdc.gov/coronavirus/2019-ncov/index.html>`_
+* `Oregon Health Authority Updates <https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx>`_
 
 The Write the Docs Team
-
-Recommended Resources
----------------------
-
-* `CDC <https://www.cdc.gov/coronavirus/2019-ncov/index.html>`_
-* `Oregon Health Authority <https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx>`_
