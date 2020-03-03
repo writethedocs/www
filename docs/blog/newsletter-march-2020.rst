@@ -7,11 +7,11 @@ Write the Docs Newsletter – March 2020
 
 Hello everyone! It's your friendly neighbourhood newsletter team, here with the March edition.
 
-Our first bit of news: we're happy to announce the `results of last year's salary survey </surveys/salary-survey/2019/>`__! Openness is a core value of this community, so it's awesome to be able to present the anonymized data for your purusing.
+Our first bit of news: we're happy to announce the `results of last year's salary survey </surveys/salary-survey/2019/>`__! Openness is a core value of this community, so it's awesome to be able to present the anonymized data for your perusing.
 
 On the conference side, it's super exciting to see the `roster of speakers for Portland </conf/portland/2020/news/announcing-speakers/#full-speaker-line-up>`__ announced a few weeks ago. Some seriously great talks to look forward to.
 
-We do know you'll have questions about whether the conference is going ahead. Currently, *we have no plans to cancel*. We will be watching the COVID-19 situation closely over the next few weeks, and taking advice from the Oregon health authorities and CDC as it comes, but currently everything is planned to go ahead as normal.
+We wanted to also address the COVID-19 situation. Currently, *we have no plans to cancel* the Portland conference, but are planning to take additional precautions during the on-site events. We will be watching the situation closely over the next few weeks, and taking advice from the Oregon health authorities and United States CDC as it comes. We will assess the situation again next week and provide updates as the situation changes. 
 
 And that's it for the news. It's been a month of great conversations on Slack, so let's head on to our stories!
 
