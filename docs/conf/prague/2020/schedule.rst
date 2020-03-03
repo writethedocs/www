@@ -12,7 +12,7 @@ Each year we organize a wide range of events so that people can come together, c
     :backlinks: none
 
 {{date.day_one.dotw}}, {{date.day_one.date}}
---------------------------------------------------
+--{{ "-" * date.day_one.dotw|length }}{{ "-" * date.day_one.date|length }}
 
 {% if flaghashike %}
 
@@ -42,7 +42,7 @@ Further details will be announced later.
 
 
 {{date.day_two.dotw}}, {{date.day_two.date}}
-----------------------------------------
+--{{ "-" * date.day_two.dotw|length }}{{ "-" * date.day_two.date|length }}
 
 The Writing Day and Welcome Reception will be held at the **{{about.venue}}**.
 
@@ -82,7 +82,7 @@ We'll also help groups organize dinner plans, so you can continue your conversat
 * **When**: **17:00-20:00**
 
 {{date.day_three.dotw}}, {{date.day_three.date}}
--------------
+--{{ "-" * date.day_three.dotw|length }}{{ "-" * date.day_three.date|length }}
 
 .. contents::
    :local:
@@ -132,7 +132,7 @@ There will be light snacks and drinks available on the conference while our tab 
 Further details will be announced later.
 
 {{date.day_four.dotw}}, {{date.day_four.date}}
---------------
+--{{ "-" * date.day_four.dotw|length }}{{ "-" * date.day_four.date|length }}
 
 .. contents::
    :local:
