@@ -286,8 +286,8 @@ hours have been omitted from the figures in this section.
 The median salary across all regions was $74,500 (meaning half of the
 respondents earned more, and half earned less).
 
-This figure is perhaps not very representative as it takes into account
-the socio-economic situation of the countries of the very highest
+This figure is not very representative as it does not take into account
+the socio-economic situation in the countries of the very highest
 earners (out of the top 10 salary values, 9 were from the US and one
 from the UK) and the very lowest (the bottom 10 salary values were from
  India, Asia, and Eastern Europe).
@@ -661,7 +661,7 @@ remaining fraction.
 Location
 --------
 
-55 respondents left this question blank or provided a non-quantifiable
+18 respondents left this question blank or provided a non-quantifiable
 response.
 
 Out of the 594 valid responses:
@@ -673,7 +673,7 @@ Out of the 594 valid responses:
    +===============+===========================+
    | United States | 58%                       |
    +---------------+---------------------------+
-   | Canada        | 43                        |
+   | Canada        | 7%                        |
    +---------------+---------------------------+
    | UK            | 6%                        |
    +---------------+---------------------------+
