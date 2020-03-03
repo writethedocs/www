@@ -3,8 +3,8 @@
 .. post:: March 3, 2020
    :tags: portland-2020, covid-19
 
-COVID-19 Update (March 3, 2020)
-===============================
+COVID-19 Update
+===============
 
 Hey Folks,
 
@@ -22,3 +22,5 @@ We will continue to provide updates as the conference gets closer. In the meanti
 * `Oregon Health Authority Updates <https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx>`_
 
 The Write the Docs Team
+
+**Last Updated: March 3, 2020**
