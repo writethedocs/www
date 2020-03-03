@@ -96,14 +96,13 @@ Vale is a syntax-aware linter for prose built for speed and extensibility.
 
 https://github.com/errata-ai/vale
 
-It ships with the following default styles:
+You can use the following styles with Vale, although as of v2.0.0, Vale no longer includes these styles by default:
 
 * `Proselint <https://github.com/amperser/proselint>`_
 * `Write-good <https://github.com/btford/write-good>`_
 * `Joblint <https://github.com/rowanmanning/joblint>`_
 
-Several organizations have also created styles for use with Vale. Some of these
-styles have been collected in the following repository: https://github.com/testthedocs/vale-styles .
+You can also use an implementation of both the Microsoft Writing Style Guide and the Google Developer Documentation Style Guide with Vale. You can find these styles in the following repository: https://github.com/errata-ai/styles.
 
 To configure Vale, follow the instructions in the README. If needed, install
 the *vale* binary as an executable in your $PATH, so you can run *vale* directly
