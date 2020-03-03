@@ -1,1 +1,26 @@
-/* Good CSS */
+@media screen{
+  #write-the-docs-salary-survey hr{margin-top:40px}
+  #write-the-docs-salary-survey table caption{padding:0.5em}
+
+  #write-the-docs-salary-survey table#id3 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey table#id3 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey table#id12 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey table#id12 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey table#id15 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey table#id15 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey table#id16 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey table#id16 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey table#id17 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey table#id17 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey table#id23 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey table#id23 tbody tr td:nth-child(2)
+  {text-align:center}
+
+  #write-the-docs-salary-survey table#id11 thead th{vertical-align:middle;white-space:nowrap}
+  #write-the-docs-salary-survey table#id11 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey table#id11 tbody tr td:nth-child(2)
+  {text-align:right}
+
+  #write-the-docs-salary-survey table#id12 tbody tr td:nth-child(2){vertical-align:middle}
+
+ }
