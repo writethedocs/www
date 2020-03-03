@@ -3,8 +3,8 @@
 .. post:: March 3, 2020
    :tags: portland-2020, covid-19
 
-COVID-19 Update
-===============
+COVID-19 Update (March 3, 2020)
+===============================
 
 Hey Folks,
 
