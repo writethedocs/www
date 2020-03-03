@@ -75,6 +75,38 @@ Git
 * [Course] `GIT Immersion <http://gitimmersion.com/>`_
 * [Course] `Git and GitHub for Poets, a Youtube series <https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV>`_
 
+----------------------------------------
+Do we tell users what's new in the docs?
+----------------------------------------
+
+This month, documentarians debated whether or not we should provide a "What's New in the Docs" section - to detail changes to the documentation itself, rather than the product. It depends on how you do release notes for your product, and how much value docs release notes would add for your audience. If your team has the bandwidth, it's worth considering - even if they're just a section inside of your product release notes.
+​
+Arguments in favor:
+​
+* When you create or update documentation outside of a release (for example, to address documentation debt or add a new tutorial for an existing feature set) release notes help make your readers aware there are improvements.
+* If release notes for the product aren't especially descriptive (such as a list of Jira keys and summaries) including release notes for documentation changes can give users more context for the changes.
+* If your product's release notes are targeted towards system administrators or similarly advanced users, docs notes may be more useful for end users.
+* Can demonstrate to your customers that you're addressing their docs feedback.
+​
+Arguments against:
+​
+* For many of us, our release notes cover changes to the product we're documenting, and our documentation changes are in response to those changes. Release notes for documentation would simply duplicate the release notes for the product.
+* Who has the time?
+​
+Does your organization create release notes for the documentation? How has it been going? Come chat about it in Slack!
+
+-------------------------
+Some discussions on style
+-------------------------
+
+There's often great discussion about particular points of style and style guides going on in #general. Here's a summary of the high points:
+
+Firstly on *resources about and approaches to Global English*. `The Global English Style Guide <https://learning.oreilly.com/library/view/the-global-english/9781599946573/>`_ from O'Reilly was recommended, plus there's a `relevant section of The Microsoft Writing Style Guide <https://docs.microsoft.com/en-us/style-guide/global-communications/>`_. And it's not strictly about Global English, but there's a decent section on global communications in `The ASD Simplified Technical English dictionary <http://www.asd-ste100.org/index.html>`_. That was originally intended for a different industry (aviation), but still has helpful pointers.
+
+Next up, *how we feel about "e.g.", "i.e.", and other Latinisms*. A beleaguered poster who uses e.g. and i.e. asked the community whether they were alone in their practice. Most replies advocated against these abbreviations: they're often misused, and many feel their meaning isn't clear to a general audience. Plenty of the common software docs style guides agree. But the other side of the argument: if you can use them appropriately, TODO.
+
+And lastly: *are tables, lists, or definition lists more readable?* Lists are usually better if you're optimizing for mobile; tables are better if you're presenting complex matrices. And clearly it's not a simple decision - what if you want to present a mobile-friendly complex matrix? Bear in mind also that it's more challenging to copy/paste from a table. And for the author's benefit, lists are often easier to work with if you're using markdown or something similar. 
+
 ---------
 Job posts
 ---------
@@ -90,21 +122,11 @@ Job posts
 
 *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
-
-----------------------------------------
-Do we tell users what's new in the docs?
-----------------------------------------
-
-
-
--------------------------------------------
-collection of style questions
--------------------------------------------
-
 --------------------------
 Community events coming up
 --------------------------
 
+* From 02 March - online, in #learn-tech-writing - community read-along of *Every Page is Page One*
 - 05 March - Stockholm, Sweden - `Meetup number 3 <https://www.meetup.com/Write-the-Docs-Stockholm/events/268322828/>`__
 - 09 March - Berlin, Germany - `Starting and scaling UX writing at your company <https://www.meetup.com/Write-The-Docs-Berlin/events/268683447/>`__
 - 10 March - Salt Lake City, UT, USA - `Job interview tips and tricks: a panel discussion <https://www.meetup.com/Write-the-Docs-SLC/events/269005930/>`__
