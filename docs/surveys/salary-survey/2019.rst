@@ -305,11 +305,11 @@ determine what constitutes a “fair” salary.
 Salary by Region/Country
 ------------------------
 
-.. table::  Median Salary by Region/Country
+.. table:: Median Salary by Region and Country
 
    +------------------+------------------+--------------------------------------+---------------------+---------------+
    | Region           |  Sub-region      | No of Respondents                    | Percentage of Total | Median Salary |
-   |                  |                  | *(working 30+ hours)*                 |                     |               |
+   |                  |                  | *(working 30+ hours)*                |                     |               |
    +==================+==================+======================================+=====================+===============+
    | North America    |                  | 386                                  | 61%                 | $90,000       |
    +------------------+------------------+--------------------------------------+---------------------+---------------+
