@@ -9,7 +9,7 @@ coordinated by the :doc:`volunteer coordinator <volunteer-coordination>`.
 Unless otherwise noted, each role has one person assigned during a particular
 shift. Note that not all roles may apply to each conference.
 
-Room setup
+Room setup and breakdown
 ----------
 
 Prepare the main conference hall for the main conference. This can include:
@@ -19,8 +19,8 @@ Prepare the main conference hall for the main conference. This can include:
 * Setting up banners.
 * Other light physical work.
 
-This is typically scheduled after the pre-conference hike or boat ride,
-and has two people assigned.
+This is typically scheduled after the pre-conference hike or boat ride for setup, and after the final talks for breakdown.
+Typically two people are assigned.
 
 Writing day
 -----------
