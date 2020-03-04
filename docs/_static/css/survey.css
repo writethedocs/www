@@ -1,7 +1,8 @@
 @media screen{
   #write-the-docs-salary-survey-2019-results hr{margin-top:40px}
   #write-the-docs-salary-survey-2019-results table caption{padding:0.5em}
-
+#write-the-docs-salary-survey-2019-results div.figure {margin-top:1em}
+#write-the-docs-salary-survey-2019-results div.figure p.caption{text-align:center;font-size:120%}
   #write-the-docs-salary-survey-2019-results table#id6 thead tr th:nth-child(2),
   #write-the-docs-salary-survey-2019-results table#id6 tbody tr td:nth-child(2),
   #write-the-docs-salary-survey-2019-results table#id16 thead tr th:nth-child(2),
