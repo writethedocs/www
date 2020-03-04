@@ -51,12 +51,12 @@ If you run into trouble with broken links to video files, have a look at `_ext/f
 
 ### Prerequisites for generating the docs locally
 
-1. Install `python 3.5.x` using your package manager, if not installed already.
+1. Install `python 3.5.x` and `python-virtualenv` using your package manager, if not installed already.
    You'll probably need `root` privileges to do this.
 
 2. Generate a virtual environment for the WTD repo in the `venv` directory:
 
-    `virtualenv --python=/usr/bin/python3.5 venv`
+    `virtualenv --python=/usr/bin/python3 venv`
 
 ### Installing the project requirements
 
