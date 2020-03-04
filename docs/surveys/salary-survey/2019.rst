@@ -204,16 +204,15 @@ Proportion of role officially related to documentation
 65% of respondents reported that documentation was the whole of their
 official job description, and 30% reported that it was part of their
 official job description. This overwhelming majority (95% of all
-responses) is not surprising, given the focus of the Write The Docs
+responses) is not surprising, given the focus of the Write the Docs
 community.
 
-What was interesting, however, was the statistically relevant number of
+What was interesting was the statistically relevant number of
 respondents choosing the other two options: 4% said that although
 documentation was not part of their job description, they were expected
 to perform documentation-related tasks anyway, and 1.5% said that
 although documentation was not part of their job description, and they
-were not expected to perform documentation-related tasks, they did
-anyway.
+were not expected to perform documentation-related tasks, they did.
 
 .. figure:: images/6.svg
    :alt: Figure: Official Role Breakdown
@@ -302,7 +301,7 @@ determine what constitutes a “fair” salary.
 
 .. h.mqgdllu8gaap:
 
-Salary by Region/Country
+Median Salary by Region and Country
 ------------------------
 
 .. table:: Median Salary by Region and Country
@@ -381,9 +380,9 @@ have been omitted from the following breakdown.
    +--------------+---------------+
 
 .. figure:: images/map.svg
-   :alt: Figure: Median Salary by Region/Country
+   :alt: Figure: Median Salary by Region and Country
 
-   Figure: Median Salary by Region/Country
+   Figure: Median Salary by Region and Country
 
 --------------
 
@@ -392,7 +391,7 @@ have been omitted from the following breakdown.
 Additional Benefits
 -------------------
 
-Health insurance and vacation time were the most common benefits
+Health insurance and paid vacation time were the most common benefits
 reported, with 80% of respondents receiving health insurance and 80%
 receiving vacation time.
 
@@ -640,27 +639,27 @@ non-binary or “other”.
 
 .. h.6ascb2ek053u:
 
-Education Level
+Highest Education Level Achieved
 ---------------
 
 Note: one respondent skipped this question
 
 95% of respondents had completed a college or university degree or
-higher. Those attending technical college numbered less than 3%, and
+higher. Those completing technical college numbered less than 3%, and
 those who completed high school only (including those who did some
 college but did not achieve a formal qualification) accounted for the
 remaining fraction.
 
 .. figure:: images/15.svg
-   :alt: Figure: Education Level
+   :alt: Figure: Highest Education Level Achieved
 
-   Figure: Education Level
+   Figure: Highest Education Level Achieved
 
 --------------
 
 .. h.hpkr7a16phmf:
 
-Location
+Geographical Location
 --------
 
 18 respondents left this question blank or provided a non-quantifiable
