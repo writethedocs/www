@@ -1,7 +1,7 @@
 
-****************************
-Write the Docs Salary Survey
-****************************
+*****************************************
+Write the Docs Salary Survey 2019 Results
+*****************************************
 
 .. h.gvypi898rlnx:
 
@@ -382,6 +382,11 @@ have been omitted from the following breakdown.
    +--------------+---------------+
    | Virginia     | $78,625       |
    +--------------+---------------+
+
+.. figure:: images/map.svg
+   :alt: Figure: Median Salary by Region/Country
+
+   Figure: Median Salary by Region/Country
 
 --------------
 
