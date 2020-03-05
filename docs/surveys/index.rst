@@ -6,5 +6,7 @@ You can see them below:
 
 .. toctree::
    :glob:
+   :maxdepth: 1
 
    *
+   */*
