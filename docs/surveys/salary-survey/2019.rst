@@ -515,7 +515,7 @@ The top reasons listed for dissatisfaction were:
    +-----------------------------------+-----------------------------------+
 
 After the most common reasons for dissatisfaction, the following reasons
-wre identified by smaller numbers of respondents:
+were identified by smaller numbers of respondents:
 
 .. table::  Less Common Reasons for Dissatisfaction
 
