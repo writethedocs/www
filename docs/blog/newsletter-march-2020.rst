@@ -49,9 +49,9 @@ Content strategy
 * [Article] `What is Content Design <https://medium.com/deliveroo-design/what-is-content-design-24306f086dc0>`_
 * [Book] `Information Architecture <https://www.amazon.com/Information-Architecture-Beyond-Louis-Rosenfeld/dp/1491911689/>`_
 * [Book] `Every Page is Page One <https://www.amazon.com/Every-Page-One-Topic-Based-Communication/dp/1937434281>`_
-* [Book] `Content Strategy 101 <https://www.thriftbooks.com/w/content-strategy-101-transform-technical-content-into-a-business-asset_alan-s-pringle_sarah-s-okeefe/>`_
+* [Book] `Content Strategy 101 <https://www.thriftbooks.com/w/content-strategy-101-transform-technical-content-into-a-business-asset_alan-s-pringle_sarah-s-okeefe/9871134>`_
 * [Course] `Brain Traffic <https://www.braintraffic.com/training-courses>`_
-* [Course] `Nielson Norman Group <https://www.nngroup.com/courses/content-strategy/>`_`
+* [Course] `Nielson Norman Group <https://www.nngroup.com/courses/content-strategy/>`_
 * [Course] `Lynda  <https://www.lynda.com/learning-paths/Marketing/become-a-content-strategist>`_ - check your local library to see if they provide access to Lynda / LinkedIn courses
 * [Course] `Udemy <https://www.udemy.com/course/ia-fundamentals/>`_
 * [Conference] `LavaCon <https://lavacon.org/2020/>`_
@@ -125,11 +125,13 @@ Job posts
 Community events coming up
 --------------------------
 
-* From 02 March - online, in #learn-tech-writing - community read-along of *Every Page is Page One*
+- From 02 March - online, in #learn-tech-writing - community read-along of *Every Page is Page One*
 - 05 March - Stockholm, Sweden - `Meetup number 3 <https://www.meetup.com/Write-the-Docs-Stockholm/events/268322828/>`__
 - 09 March - Berlin, Germany - `Starting and scaling UX writing at your company <https://www.meetup.com/Write-The-Docs-Berlin/events/268683447/>`__
 - 10 March - Salt Lake City, UT, USA - `Job interview tips and tricks: a panel discussion <https://www.meetup.com/Write-the-Docs-SLC/events/269005930/>`__
 - 12 March - Indianapolis, IN, USA - `March meetup <https://www.meetup.com/Write-the-Docs-Indy/events/268959720/>`__
+- 18 March - Toronto, Canada - `Documentation as code <https://www.meetup.com/Write-the-Docs-Toronto/events/pcqbmqybcfbxb/>`__
+- 18 March - Bay Area, CA, USA - `Camtasia close-up <https://www.meetup.com/Write-the-Docs-Bay-Area/events/269113283/>`__
 - 19 March - Manchester, UK - `Writing with empathy: how to make software human and relatable <https://www.meetup.com/Write-the-Docs-North/events/268599747/>`__
 - 24 March - Tel Aviv, Israel - `DIY docs - Configuring your own tools to serve your team <https://www.meetup.com/Write-The-Docs-TAplus/events/268680976/>`__
 - 25 March - Arlington, VA, USA - `Word Games social hour <https://www.meetup.com/Write-the-Docs-DC/events/269073707/>`__
