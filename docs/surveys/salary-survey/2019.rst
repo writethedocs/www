@@ -23,6 +23,12 @@ seconds.
 For ease of comparison, respondents were asked to convert their salary
 figures to US dollars. All numbers in this report are US dollars.
 
+Feedback
+--------
+
+We'd love your thoughts on this survey, so that we can continue to refine it over the years.
+You can email us at support@writethedocs.org with your ideas.
+
 --------------
 
 .. h.i2t4zq90zgzk:
