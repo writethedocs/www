@@ -47,4 +47,6 @@
 #write-the-docs-salary-survey-2019-results table#id13 tbody tr td:nth-child(5)
 {text-align:right}
 
+#write-the-docs-salary-survey-2019-results #geographical-location ul.simple li{float:left;width:33%}
+#write-the-docs-salary-survey-2019-results #geographical-location ul.simple{overflow:auto}
  }
