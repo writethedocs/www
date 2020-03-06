@@ -293,7 +293,7 @@ Note: as 97% (632) of respondents reporting working between 30 and 60
 hours per week - a “full time” role - the 3% reporting fewer than 30
 hours have been omitted from the figures in this section.
 
-The median salary across all regions was $74,500 (meaning half of the
+The median salary across all regions, before tax and any additional benefits, was $74,500 (meaning half of the
 respondents earned more, and half earned less).
 
 This figure is not very representative as it does not take into account
