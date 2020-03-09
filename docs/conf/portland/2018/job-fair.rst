@@ -1,10 +1,10 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/writing-day.png
+:banner: _static/conf/images/headers/writing-day.png
 
 Job Fair
 ========
 
-.. include:: /include/conf/events/job-fair.rst
+{% include "conf/events/job-fair.rst" %}
 
 Schedule
 --------

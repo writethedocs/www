@@ -12,7 +12,7 @@ Welcome to our community!
 
 * :doc:`Our slack network </slack>` with thousands of members
 * :doc:`Conferences </conf/index>` on 3 continents
-* :doc:`Local meetups </meetups/index>` in over 30 cities
+* :doc:`Local meetups </meetups/index>` in over 40 cities
 
 We consider everyone who cares about communication, documentation, and
 their users to be a member of our community. This can be programmers,
@@ -22,6 +22,8 @@ people to have great experiences with software.
 Our conferences create a time and a place for the global community of
 :doc:`documentarians` to share information, discuss ideas, and work together
 to improve the **art and science of documentation**.
+
+Our :doc:`/code-of-conduct` applies to all our community spaces.
 
 Join the community
 ------------------
@@ -38,6 +40,8 @@ Get more information on how to meet the community, learn new things, get involve
    about/learning-resources
    about/stay-connected
    about/about-the-org
+   surveys/salary-survey-sep-2019
+   code-of-conduct
 
 
 Our focus is on community, and putting on our conferences is where we spend much of our time and effort
@@ -55,13 +59,15 @@ Here are our latest events, and we hope to see you online or in person soon!
    *
    conf/*
    news/*
-   conf/na/*/*
-   conf/na/*/*/*
-   conf/eu/*/*
-   conf/eu/*/*/*
-   conf/au/*/*
-   conf/au/*/*/*
    conf/portland/*/*
    conf/portland/*/*/*
    conf/prague/*/*
    conf/prague/*/*/*
+   conf/cincinnati/*/*
+   conf/cincinnati/*/*/*
+   conf/australia/*/*
+   conf/australia/*/*/*
+   conf/vilnius/*/*
+   conf/vilnius/*/*/*
+   conf/cfp/*
+   book-club/*/*

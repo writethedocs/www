@@ -1,0 +1,81 @@
+- Duration: '30'
+  Session: Doors Open
+  Slug: null
+  Time: '8:30'
+- Duration: '30'
+  Session: Leticia Mooney - The amazing, fantastic human bias that makes you bang
+    your head on your desk.
+  Slug: leticia-mooney
+  Time: '9:00'
+- Duration: '5'
+  Session: Switch Speakers
+  Slug: null
+  Time: '9:30'
+- Duration: '30'
+  Session: Fraser Mitchell - Through the looking glass - how user testing can give
+    technical writers better perspective
+  Slug: fraser-mitchell
+  Time: '9:35'
+- Duration: '5'
+  Session: Switch Speakers
+  Slug: null
+  Time: '10:05'
+- Duration: '30'
+  Session: 'Payal Dhiman - Being a user''s documentarian: Studying user''s behavior
+    and then defining a strategy for documentation.'
+  Slug: payal-dhiman
+  Time: '10:10'
+- Duration: '30'
+  Session: Morning tea - snack break
+  Slug: null
+  Time: '10:40'
+- Duration: '30'
+  Session: Elle Geraghty - Information architecture for documentation
+  Slug: elle-geraghty
+  Time: '11:10'
+- Duration: '5'
+  Session: Switch Speakers
+  Slug: null
+  Time: '11:40'
+- Duration: '30'
+  Session: Nithya Krishnan - Minimal Viable Product - What does this mean for user
+    documentation
+  Slug: nithya-krishnan
+  Time: '11:45'
+- Duration: '45'
+  Session: Lunch
+  Slug: null
+  Time: '12:15'
+- Duration: '30'
+  Session: Alexander Koren - Rethinking Release Notes
+  Slug: alexander-koren
+  Time: '13:00'
+- Duration: '5'
+  Session: Switch Speakers
+  Slug: null
+  Time: '13:30'
+- Duration: '30'
+  Session: Paris Buttfield-Addison - Making interactive narrative storytelling accessible
+    to everyone
+  Slug: paris-buttfield-addison
+  Time: '13:35'
+- Duration: '15'
+  Session: Lightning Talks
+  Slug: null
+  Time: '14:05'
+- Duration: '25'
+  Session: Snack break
+  Slug: null
+  Time: '14:20'
+- Duration: '120'
+  Session: Sarah Maddox - Tech Writing 101 Workshop
+  Slug: sarah-maddox-workshop
+  Time: '14:45'
+- Duration: '15'
+  Session: Conference wraps up
+  Slug: null
+  Time: '16:45'
+- Duration: '0'
+  Session: Close
+  Slug: null
+  Time: '17:00'

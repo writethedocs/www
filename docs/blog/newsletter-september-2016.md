@@ -9,13 +9,13 @@
 
 ## Welcome to the Write the Docs Newsletter
 
-Hello Write the Docs! If you're getting this email, you've probably attended (or considered attending) one of the documentation [conferences](http://www.writethedocs.org/conf/) we've put on over the last few years. As our events have grown, so too has our community, and we're working hard to make Write the Docs a year-round affair.
+Hello Write the Docs! If you're getting this email, you've probably attended (or considered attending) one of the documentation [conferences](https://www.writethedocs.org/conf/) we've put on over the last few years. As our events have grown, so too has our community, and we're working hard to make Write the Docs a year-round affair.
 
 As part of that effort, we're sending you this, our inaugural edition of the new Write the Docs monthly newsletter! Our goal is to make it easier for folks to keep current with what the community's talking about each month. The bulk of the newsletter content will be distilled from interesting conversations that crop up on the #general channel of the [Write the Docs Slack ](http://slack.writethedocs.org/). We'll be highlighting topics that are recurring themes or simply seem to resonate with a lot of folks.
 
 ```eval_rst
 
-.. note:: We know the #general channel is just one arena for docs talk. If  you see a conversation elsewhere on Slack (or Twitter or wherever) that would make good newsletter fodder, ping our editor, `Kelly O'Brien <http://www.writethedocs.org/team/#communication-team>`_.
+.. note:: We know the #general channel is just one arena for docs talk. If  you see a conversation elsewhere on Slack (or Twitter or wherever) that would make good newsletter fodder, ping our editor, `Kelly O'Brien <https://www.writethedocs.org/team/#newsletter-team>`_.
 
 ```
 
@@ -81,5 +81,5 @@ For more on documentation style guides, this blog post from [I Heart Technical W
 We hope you enjoyed our first installment of Write the Docs hot topics! Keep an eye here every month for more. But just in case this wasn't not enough docs love for you:
 
 * We feel ya.
-* Scope out [our upcoming conferences](http://www.writethedocs.org/conf/)! ([The next one](http://www.writethedocs.org/conf/eu/2016/), in Prague, is coming up in a few weeks!)
-* See if there's a Write the Docs [meetup](http://www.writethedocs.org/meetups/) near you! (And if there's not, [think about starting one up](http://www.writethedocs.org/organizer-guide/meetups/starting/)!
+* Scope out [our upcoming conferences](https://www.writethedocs.org/conf/)! ([The next one](https://www.writethedocs.org/conf/eu/2016/), in Prague, is coming up in a few weeks!)
+* See if there's a Write the Docs [meetup](https://www.writethedocs.org/meetups/) near you! (And if there's not, [think about starting one up](https://www.writethedocs.org/organizer-guide/meetups/starting/)!

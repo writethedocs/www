@@ -1,0 +1,638 @@
+- title: Creating Quality Sample Code
+  slug: creating-quality-sample-code-jessica-garson
+  series: Write the Docs Portland
+  series_slug: creating-quality-sample-code-jessica-garson
+  year: 2020
+  speakers:
+  - name: Jessica Garson
+    slug: jessica-garson
+    avatar: https://pretalx.com/media/avatars/jessica_G8Ix67C.jpg
+  abstract: <p>With the launch of Twitter Developer Labs, we were releasing new API
+    endpoints which no one had ever used before it was important that we created code
+    in such a way that accessible to anyone who will want to build with the Twitter
+    API. This talk will focus on the processes we used to create sample code and what
+    elements are important to consider.</p>
+- title: Building a content-focused, scientific document authoring workflow for Data
+    Scientists and Engineers alike
+  slug: building-a-content-focused-scientific-document-authoring-workflow-for-data-scientists-and-engineers-alike-colin-dean
+  series: Write the Docs Portland
+  series_slug: building-a-content-focused-scientific-document-authoring-workflow-for-data-scientists-and-engineers-alike-colin-dean
+  year: 2020
+  speakers:
+  - name: Colin Dean
+    slug: colin-dean
+    avatar: 
+  abstract: '<p>I observed a white paper authoring collaboration workflow problem
+    at my Forbes 50 employer wherein a tedious workflow around legacy tooling caused
+    undue stress, headaches, rework, and, ultimately, a cosmetically poor-looking
+    document with inconsistent content and styles. Knowing that a good document requires
+    both good content and presentation, I proposed and led the creation of a simple
+    workflow amenable to our team''s software engineers and data scientists: treating
+    the white paper text as code with technologies including Markdown, GitHub Enterprise,
+    Pandoc, LaTeX, and a review process that gets the tooling out of the way in order
+    to enable content authors to focus less on logistics and more on writing and reviewing.</p>
+
+    <p>The result was that a team of seven engineers and data scientists created a
+    50-page document containing text, diagrams, equations, graphics, and more in just
+    two weeks. The result greatly pleased our directors and executives. They praised
+    our team not only for the incredibly valuable content, but also the professional
+    appearance of the document. When they learned about the peer review process we
+    used to create it, they wanted more teams to use it.</p>
+
+    <p>This talk focuses on the problems of passing around files by email or shared
+    drives, the problems of collaborative editing of online documentation, and the
+    problems we''re still addressing in our solution that we''ve now used to author
+    several significant internal documents.</p>'
+- title: Don’t Fear Migration! How to Successfully Move Docs to a New Tool
+  slug: don-t-fear-migration-how-to-successfully-move-docs-to-a-new-tool-brooke-wayne
+  series: Write the Docs Portland
+  series_slug: don-t-fear-migration-how-to-successfully-move-docs-to-a-new-tool-brooke-wayne
+  year: 2020
+  speakers:
+  - name: Brooke Wayne
+    slug: brooke-wayne
+    avatar: https://pretalx.com/media/avatars/headshotcircle.png
+  abstract: '<p>As Documentarians, your users, whether they are internal (like your
+    customer support team) or external (like your customers), will always need simple
+    and fast access to your documentation, no matter what tool(s) you’re using for
+    your docs. But what if you and your users need to move to a new tool because the
+    old one’s painful and frustrating to use? Migrating documentation can feel overwhelming,
+    especially when so many people rely on it, and the expectations are high.</p>
+
+    <p>The good news is, migration doesn’t have to be scary. Using a recent experience
+    where we had to migrate Customer Support’s knowledge from our old tool (Confluence)
+    to a new tool (Guru) as an example, this talk will go over the 7-step process
+    of how anyone can migrate their docs as smoothly as possible:</p>
+
+    <ol>
+
+    <li>Use a project plan to track work, manage time and keep stakeholders updated.
+    </li>
+
+    <li>Audit your docs so only updated and useful content is moved over. </li>
+
+    <li>Establish a foundation with a set information architecture and a structured
+    search/tagging system. </li>
+
+    <li>Break up the work into blocks.</li>
+
+    <li>Develop a launch + training plan to make the change easy on your users.</li>
+
+    <li>Migrate the documentation as planned.</li>
+
+    <li>End of the project with a retrospective and report for closure.</li>
+
+    </ol>
+
+    <p>Doing all this preparation is key to a successful migration to the new tool,
+    so you’re able to anticipate and overcome any barriers that arise and complete
+    your project deliverables on time and on budget. A successful migration means
+    your users are more empowered and educated to find docs in your new tool; your
+    stakeholders are happy; and most importantly, people are finally reading your
+    valuable documentation!</p>'
+- title: 'Model-view-docs: taming large-scale documentation projects using structured
+    data'
+  slug: model-view-docs-taming-large-scale-documentation-projects-using-structured-data-luc-perkins
+  series: Write the Docs Portland
+  series_slug: model-view-docs-taming-large-scale-documentation-projects-using-structured-data-luc-perkins
+  year: 2020
+  speakers:
+  - name: Luc Perkins
+    slug: luc-perkins
+    avatar: 
+  abstract: '<p>Solid documentation almost always involves skillfully wordsmithed
+    narrative text. But in the contemporary software landscape, narrative text increasingly—yet
+    not always comfortably—lives alongside information generated from structured data
+    formats like JSON and YAML. This includes REST API docs, command-line tool docs,
+    supported platform matrices, and much more.</p>
+
+    <p>In this talk, I’ll argue that using structured data can make docs, especially
+    for highly multi-faceted software projects, more robust, informative, navigable,
+    and maintainable. I’ll first present a more theoretical argument in favor of re-conceptualizing
+    documentation in terms of what I call the “model” layer and the “view” layer.
+    This will set the stage for the centerpiece of the talk, which will be a walk-through
+    of an information portal for a fictional database that includes docs for a a CLI
+    tool, client SDKs, a REST API, numerous configurable parameters, and a bevy of
+    tricky core concepts.</p>'
+- title: 'Collaborating with teams on content strategy planning: pitfalls and best
+    practices'
+  slug: collaborating-with-teams-on-content-strategy-planning-pitfalls-and-best-practices-kateryna-osadchenko
+  series: Write the Docs Portland
+  series_slug: collaborating-with-teams-on-content-strategy-planning-pitfalls-and-best-practices-kateryna-osadchenko
+  year: 2020
+  speakers:
+  - name: Kateryna Osadchenko
+    slug: kateryna-osadchenko
+    avatar: 
+  abstract: '<p>I want to discuss the pitfalls and best practices/workarounds of planning
+    a content strategy and importance of finding the right approach, tone, and voice
+    of your content when collaborating with teams of developers, designers, and product
+    owners from the standpoint of a technical writer and content designer. </p>
+
+    <p>What can go wrong when you don''t plan properly? How to find a balance between
+    consistency and multiple decision-making points? How to plan and distribute resources
+    to reach short-term and long-term content goals? How do synergy and transparent
+    communications within teams help to secure a delivery process? </p>
+
+    <p>We will look into the process of identifying, planning, and implementing a
+    content strategy in situations when there is no clear existing one and how to
+    make your planning and implementation process smoother and more organized.</p>'
+- title: The Search for Search
+  slug: the-search-for-search-paul-logan
+  series: Write the Docs Portland
+  series_slug: the-search-for-search-paul-logan
+  year: 2020
+  speakers:
+  - name: Paul Logan
+    slug: paul-logan
+    avatar: 
+  abstract: '<p>In q4 of 2019 Slack implemented an oft-requested documentation feature:
+    site search. In this talk I''ll tell the story of technical and social considerations
+    that went into implementing search on api.slack.com and the philosophy that''s
+    gone into shaping it after.</p>
+
+    <p>We implemented search using Algolia''s REST API after a long time spent narrowing
+    options. Initially we weren''t sure if we wanted to build it in house, or host
+    it on a different site entirely. Conflicts with security and the need for as few
+    dependencies as possible forced us into an implementation that even Algolia itself
+    doesn''t recommend.</p>
+
+    <p>As we move forward, we''re considering the best way to give users relevant
+    results while gently directing them away from old API''s and unsupported features.
+    I''ll discuss options like visual indicators of age on a search result, smart
+    catalog building/prioritization, and the cost of manually adjusting search. </p>'
+- title: The value of being told you suck
+  slug: the-value-of-being-told-you-suck-hamza-alam
+  series: Write the Docs Portland
+  series_slug: the-value-of-being-told-you-suck-hamza-alam
+  year: 2020
+  speakers:
+  - name: Hamza Alam
+    slug: hamza-alam
+    avatar: 
+  abstract: '<p>"Developer experience is important to us". "Our documentation is top
+    tier". "Developers love us!" </p>
+
+    <p>Do you ever hear companies say these things and wonder to yourself, do developers
+    really love you? Rest assured I’m not here to tell you any of the above. Rather,
+    I’m here to tell you that everything "sucks" to someone. But guess what? That’s
+    not a bad thing, because I’ve found that it’s in the negative feedback that companies
+    can find value. </p>
+
+    <p>In my talk, I will discuss how I implemented a CSAT (customer satisfaction)
+    button on all of Twitter''s developer docs to measure the experience developers
+    visiting our pages had. If you build APIs, it’s your responsibility to put together
+    meaningful documentation that doesn’t suck.</p>
+
+    <p>I’ll walk the audience through the 9-month process of how I gave birth to the
+    whole CSAT process, from the early-mid-end stages of putting together the CSAT
+    button late last year, to understanding how the DevRel team reacted to the data
+    we got back. </p>
+
+    <p>Once I implemented the CSAT button, I then defined how we’d react and respond
+    to the data. Immediately we received feedback from developers on the CSAT. A lot
+    of feedback! Rather than seeing these CSAT page metrics as raw numbers put together
+    in an excel sheet, I came up with a health score system that benchmarked pages
+    and determined which categories were ‘healthy’ and which were ‘unhealthy’. </p>
+
+    <p>I’ll also share some interesting metrics with the audience on where we started,
+    and how since using the CSAT feedback we’ve increased our scores. Several metrics
+    I can share right now are:</p>
+
+    <ul>
+
+    <li>51% of developers that selected the negative option provided additional feedback</li>
+
+    <li>Twitters new Developer Labs docs performed 7% higher than average at 82%</li>
+
+    <li>Each quarter we created at least 55+ Jira tickets based on the CSAT, and we
+    saw an increase in overall satisfaction from Q1 → Q2 → Q3</li>
+
+    <li>“Introduction to …” and “Quick start guide” pages performed higher than average</li>
+
+    </ul>
+
+    <p>During the first quarter of receiving CSAT data, we had a baseline of where
+    our docs fell on. On top of this, my team had a backlog of 55+ actions items that
+    were directly obtained from our developers on our docs. </p>
+
+    <p>My main takeaway for the audience is that opening ourselves up for developer
+    feedback helps us identify where we can make improvements, however nerve-wracking
+    it can be. It instills humility in our relationship with the developer community
+    that chooses to build with our APIs. It''s a channel for our developers to let
+    us know how we can better serve them through our docs, or simply let us know how
+    we suck.</p>'
+- title: Set your data free with model-based architecture diagramming
+  slug: set-your-data-free-with-model-based-architecture-diagramming-avi-flax
+  series: Write the Docs Portland
+  series_slug: set-your-data-free-with-model-based-architecture-diagramming-avi-flax
+  year: 2020
+  speakers:
+  - name: Avi Flax
+    slug: avi-flax
+    avatar: 
+  abstract: '<p>Diagrams are an excellent tool for documenting the architecture of
+    our software systems: they’re information dense and they utilize the visual circuits
+    of our brains to create effective learning experiences. Many of us create or update
+    such diagrams regularly; there have been many talks on this topic at this conference
+    over the years.</p>
+
+    <p>As great as diagrams can be, they have some downsides. In particular, they
+    tend to lock up massive amounts of rich and crucial information into a format
+    that can’t be reused in any other context. Because the information is locked up,
+    it tends to be duplicated in various places in various formats and it takes significant
+    effort to keep those duplicative datasets in sync.</p>
+
+    <p>I’ve recently come to believe that there’s a better way: modeling. If we model
+    our systems in data, and make that data accessible, we are creating a single centralized
+    source of truth for what systems, datastores, datasets, services, and people (roles)
+    we have, and how they relate to each other. </p>
+
+    <p>There are many uses for that dataset; it’s not just a model, it’s also a catalog,
+    or registry, of <em>what is there even</em> — a catalog that many people across
+    an org need, and will be motivated to keep up to date. For example, anyone tasked
+    with data governance needs to know what datastores and datasets exist, and who
+    and what interacts with them. Security auditors need similar information.</p>
+
+    <p>Diagrams are another of the many uses of that dataset, and our diagrams can
+    be greatly improved by being based on models of our systems. Multiple diagrams
+    (“views”) can include the same elements of the model, but those elements are defined
+    only once, in the mode. If we change an element, we can quickly and easily re-render
+    all the diagrams that include that element.</p>
+
+    <p>I’ll describe various benefits of documenting software architecture as data
+    and share how I’ve been doing so, and describe my plans for improving the tools
+    and approach. I’ll show lots of examples and try to wrap it all up at the end
+    with an enthusiastic yet gentle call to action.</p>'
+- title: 'Documentation as an application: enabling interactive content that is tailored
+    to the user'
+  slug: documentation-as-an-application-enabling-interactive-content-that-is-tailored-to-the-user-ryan-paul
+  series: Write the Docs Portland
+  series_slug: documentation-as-an-application-enabling-interactive-content-that-is-tailored-to-the-user-ryan-paul
+  year: 2020
+  speakers:
+  - name: Ryan Paul
+    slug: ryan-paul
+    avatar: https://pretalx.com/media/me.jpg
+  abstract: '<p>The modern web platform provides a rich canvas for presenting content,
+    making it possible for documentation to offer a user experience that more closely
+    resembles an application rather than a traditional user manual. Exploiting these
+    capabilities and making them easily accessible to technical writers requires corresponding
+    advancements in content authoring systems.</p>
+
+    <p>As a technical writer and engineer in the Docs Product team at Stripe, I''m
+    responsible for developing the new authoring system for our next-generation documentation
+    platform. In this presentation, I''ll cover:</p>
+
+    <ul>
+
+    <li>How investing in richer documentation that provides a more engaging and intuitive
+    experience can increase the success of our users and help them get to market faster
+    with our products</li>
+
+    <li>How we''re dynamically tailoring content for individual readers and selectively
+    surfacing relevant information to users with specialized requirements, based on
+    factors like geographic location and attributes of the user''s logged-in account</li>
+
+    <li>How we''ve evolved our authoring system towards a fully declarative format
+    that supports user-specific customization, client-side interactivity, and deep
+    static analysis while keeping code decoupled from content</li>
+
+    <li>How our cross-functional Docs Product team treats our documentation as an
+    application, driving concurrent improvements to both the user-facing documentation
+    experience and internal authoring tools</li>
+
+    </ul>
+
+    <p>Features like dynamic content generation, contextual awareness, and client-side
+    interactivity are making documentation more like software. But taking advantage
+    of these features leads to more code creeping into content, resulting in a steeper
+    learning curve that can potentially discourage participation from prospective
+    documentation contributors. In this presentation, I''ll share the lessons learned
+    while building an extensible Markdown-based content format that supports application-like
+    user experiences and provides the technical advantages of documentation-as-code
+    while avoiding the complexity and elevated barrier to entry, ensuring that content
+    authoring remains inclusive and accessible.</p>'
+- title: 'Writing Backwards: Documenting the End-of-Life of a Product'
+  slug: writing-backwards-documenting-the-end-of-life-of-a-product-anni-bond
+  series: Write the Docs Portland
+  series_slug: writing-backwards-documenting-the-end-of-life-of-a-product-anni-bond
+  year: 2020
+  speakers:
+  - name: Anni Bond
+    slug: anni-bond
+    avatar: 
+  abstract: "<p>Writing documentation for new or existing products is a forward-thinking
+    endeavor. They almost use a template that includes new features and processes
+    the user might use, patch notes, and text on the user interface itself. However,
+    writing for the end of life of a product or service has different needs. Customers
+    who relied on the product might even be hostile. How does a writer navigate these
+    issues?</p>\n<p>This talk will include the following topics:\n - topics a writer
+    may run into for writing end-of-life documentation (e.g., migration processes,
+    new processes after the loss of functionality, feature parity if migrating)\n
+    - the difference between total shut down and shut down with migration efforts
+    involved\n - empathize with the customer’s position and continue your support
+    as long as you can\n - getting QE and marketing involved!</p>"
+- title: 'Finding the line: Balancing business continuity and documentation debt'
+  slug: finding-the-line-balancing-business-continuity-and-documentation-debt-luca-janssens
+  series: Write the Docs Portland
+  series_slug: finding-the-line-balancing-business-continuity-and-documentation-debt-luca-janssens
+  year: 2020
+  speakers:
+  - name: Luca Janssens
+    slug: luca-janssens
+    avatar: 
+  abstract: '<p>There are software companies that have undervalued documentation or
+    are still in the process of integrating it as an essential part of the software
+    development life cycle. This has caused them to generate a documentation debt,
+    which has led to:</p>
+
+    <ul>
+
+    <li>Confusing and disorganized documents.</li>
+
+    <li>Scattered and inconsistent information sources. </li>
+
+    <li>A lack of documentation altogether.</li>
+
+    </ul>
+
+    <p>Coming into a fast-moving agile work environment as an information developer,
+    I found there is often little time and insufficient resources to resolve that
+    debt. Chances are that you are required to work on current documentation requirements
+    in favor of business continuity. The following questions then arise: “How can
+    we tackle both current documentation needs and the existing documentation debt?”
+    “And, is that even possible and necessary?” To the latter, I say yes and yes!
+    Even more, I argue that companies are open to listen when you speak their language.</p>
+
+    <p>The former question I aim to answer in this talk. I cover how to come up with
+    an actionable strategy to tackle the existing documentation debt while also dealing
+    with incoming documentation needs (for new products, versions, features, bugs,
+    …). Amongst others, it involves:</p>
+
+    <ul>
+
+    <li>Defining the problem of documentation debt in your company.</li>
+
+    <li>Finding the business value to obtain resources, convince management, and invite
+    stakeholder collaboration.</li>
+
+    <li>Forming the documentation debt into a product by designing a solution. </li>
+
+    <li>Understanding how your company works and handles business continuity.</li>
+
+    <li>Creating a strategy and roadmap for your product.</li>
+
+    <li>Organizing and managing your time so that the long-term does not interfere
+    with the short-term.</li>
+
+    </ul>
+
+    <p>In short, it requires wearing many hats, such as that of a product owner and
+    project manager, and extensive collaboration with different stakeholders. What
+    this talk really wants to bring across is that <em>it is possible</em> to come
+    up with a balancing act that satisfies both the short-term and long-term documentation
+    demands. </p>'
+- title: Globalise the docs
+  slug: globalise-the-docs-lucy-carey
+  series: Write the Docs Portland
+  series_slug: globalise-the-docs-lucy-carey
+  year: 2020
+  speakers:
+  - name: Lucy Carey
+    slug: lucy-carey
+    avatar: 
+  abstract: '<p>Your docs are looking good, the demand is there, and you’re thinking
+    it’s time to open up your content to a non-English speaking market. Unfortunately,
+    pushing out localised content isn’t always a plug-in-and-play exercise. Whilst
+    going global is a fascinating process, it can force you to crank your instinctive
+    writer pedantry up a notch. In this session, I will:</p>
+
+    <ul>
+
+    <li>Explain some best practices for optimising technical content for translation.</li>
+
+    <li>Look at how translating and localising docs might impact your planning and
+    release cycles.</li>
+
+    <li>Take you on a deep-dive into human versus machine translation, and deciding
+    what’s best for your business need.</li>
+
+    <li>Examine some approaches for working around monolingual UIs and other assets
+    when there’s demand for bilingual docs.</li>
+
+    <li>Highlight important things to check in quality control - even when you can’t
+    read the finished product.</li>
+
+    </ul>
+
+    <p>To be a good global content roadie, there’s a lot more to consider than just
+    waving the words off to a translator and hoping for the best. Plunge in without
+    the right pre-work, and the end result can quickly end up as more of a warped
+    tour than triumphant international smash. Get it right, and all your team can
+    benefit from the insights you’ll uncover along the way. You’ll learn new ways
+    of thinking about UI. You’ll find out things about your target market that could
+    influence your whole product strategy. You’ll get to form really strong opinions
+    about AI-based translation. Most importantly, you’ll uncover new and thrilling
+    depths of content geekery.</p>'
+- title: 'Walking Backwards: Tracing the New Customer Journey from Finish to Start
+    to Help Shape Content'
+  slug: walking-backwards-tracing-the-new-customer-journey-from-finish-to-start-to-help-shape-content-sally-stumbo
+  series: Write the Docs Portland
+  series_slug: walking-backwards-tracing-the-new-customer-journey-from-finish-to-start-to-help-shape-content-sally-stumbo
+  year: 2020
+  speakers:
+  - name: Sally Stumbo
+    slug: sally-stumbo
+    avatar: 
+  abstract: '<p>Hi, I''m Sally Stumbo. I have successfully transitioned from a career
+    in customer service to one in technical writing and knowledge-centered service
+    work. Here''s how I did it, and how my support background has helped and influenced
+    my tech writing work. When I was a technical support engineer at Duo Security,
+    I gained a good understanding of our customer''s most common issues, and insight
+    into the approach our support team takes in solving a customer''s issue. Now as
+    a technical writer, I''m able to use that experience to work on projects and develop
+    content that will help deflect support volume. Duo uses a slightly modified version
+    of the "Knowledge-Centered Service," which means that, in addition to the step-by-step
+    product documentation created by our Engineering team, we have an internal and
+    public knowledge base that captures any troubleshooting steps, common questions,
+    and best practices for our customer and customer-facing teams.</p>
+
+    <p>My primary role is editing and publishing crowd-sourced content from our customer-facing
+    teams. Just last quarter we published more than 200 articles written by our 23
+    support engineers alone, and lots of other teams contribute. While the crowd-sourced
+    articles are great, I had anecdotal evidence, based on my experience in support,
+    that new customers were reaching out to support before reading the documentation
+    or searching the knowledge base. But why? What information were they receiving
+    in the early stages? What information should they be receiving?</p>
+
+    <p>To better understand the customer journey from the moment they sign up for
+    a trial account, I devised a plan to audit support cases created by customers
+    in their first 90 days of having an account. I wanted to compare the questions
+    they were asking with the content they receive in email campaigns, as well as
+    review whether the topics are covered in our documentation or in the knowledge
+    base already.</p>'
+- title: If We Build It, Will They Join? Sustaining a Community Documentation Initiative
+    with Sprints
+  slug: if-we-build-it-will-they-join-sustaining-a-community-documentation-initiative-with-sprints-amanda-stevens-kaitlin-newson
+  series: Write the Docs Portland
+  series_slug: if-we-build-it-will-they-join-sustaining-a-community-documentation-initiative-with-sprints-amanda-stevens-kaitlin-newson
+  year: 2020
+  speakers:
+  - name: Amanda Stevens, Kaitlin Newson
+    slug: amanda-stevens-kaitlin-newson
+    avatar: 
+  abstract: '<p>End users often have great insight into how documentation can be improved,
+    but rarely contribute to documentation. How can we engage them? How can we reduce
+    barriers to participation? And once we have contributors, how do we ensure that
+    they have the structure and support they need?</p>
+
+    <p>In late 2018, we formed a documentation interest group for our open source
+    project and started hosting bi-weekly virtual sprints, where participants collaborate
+    on documentation projects. We started the sprints on a whim, building on the in-person,
+    hackathon-like code development sprints that are hosted by our organization. These
+    sprints have been wildly successful: in 2019, we created, updated, edited, and
+    published 12 user guides. The quality of our documentation has increased due to
+    the variety of perspectives and skills offered by the group, and community members
+    who are not developers appreciate having a fun and meaningful way to contribute
+    to the project. The sprint model has also allowed us to reach out and collaborate
+    on documentation with other related projects.</p>
+
+    <p>In this presentation, we will outline how we run our bi-weekly sprints, the
+    tools and workflows we use, what we’ve learned, and what we’re still trying to
+    do better. We will discuss challenges such as creating documentation for new contributors,
+    teaching people how to use GitHub, engaging diverse participants, and maintaining
+    a sustainable documentation initiative alongside a changing codebase. We’ll examine
+    the concept of community participation in documentation broadly and discuss how
+    the sprint model can be applied in different contexts.</p>'
+- title: 'Moving beyond empathy: a11y in documentation'
+  slug: moving-beyond-empathy-a11y-in-documentation-alexandra-n-white
+  series: Write the Docs Portland
+  series_slug: moving-beyond-empathy-a11y-in-documentation-alexandra-n-white
+  year: 2020
+  speakers:
+  - name: Alexandra N White
+    slug: alexandra-n-white
+    avatar: https://pretalx.com/media/avatars/headshot-2019-online.jpg
+  abstract: '<p>Accessibility is a crucial part of product creation. Every team member,
+    from engineer to technical writer, must have at least a basic understanding of
+    what accessibility means for their role in product development. Often, writers
+    leave it to engineers to build accessible products but don’t take into consideration
+    how to make their documentation accessible, too. We can and must do better as
+    writers in thinking about accessible language and content design.</p>
+
+    <p>Instead of focusing on empathy and why accessibility is important, this talk
+    will focus on how we can actually make change in our work.</p>
+
+    <p>In this talk, we’ll discuss:</p>
+
+    <ul>
+
+    <li>Accessible style guides and a11y-friendly words</li>
+
+    <li>Writing accessible HTML (it’s more than ARIA)</li>
+
+    <li>Testing for accessibility in docs</li>
+
+    <li>Advocating for a11y as a priority</li>
+
+    </ul>
+
+    <p>You’ll walk away with some easy wins you can have right now in your documentation
+    and product to make it better. After all, accessibility is for everyone.</p>'
+- title: Why SDK Docs Matter — And What I’m Doing About It!
+  slug: why-sdk-docs-matter-and-what-i-m-doing-about-it-shavindri-dissanayake-shavi
+  series: Write the Docs Portland
+  series_slug: why-sdk-docs-matter-and-what-i-m-doing-about-it-shavindri-dissanayake-shavi
+  year: 2020
+  speakers:
+  - name: Shavindri Dissanayake (Shavi)
+    slug: shavindri-dissanayake-shavi
+    avatar: 
+  abstract: '<p>When developers implement an SDK, they usually include some information
+    in the GitHub README. But unless you provide 1:1 support to customers, this information
+    is not enough. That’s why it is important to have solid documentation around your
+    SDKs, and this means going beyond step by step documentation.</p>
+
+    <p>Here’s what SDK docs need: </p>
+
+    <ul>
+
+    <li>Easy to find</li>
+
+    <li>Consistently structured</li>
+
+    <li>Easy to understand</li>
+
+    <li>Example(s) for each SDK</li>
+
+    </ul>
+
+    <p>In this session, I talk about my experience around improving SDK documentation
+    for products. If you are struggling with these questions around your SDKs, you
+    are not alone!</p>
+
+    <ul>
+
+    <li>How do I make sure that users use the correct SDK from the list of SDKs?</li>
+
+    <li>Do I need to go that extra step and provide samples?</li>
+
+    <li>What about reference documentation (e.g., Javadoc) to complement the README?</li>
+
+    <li>I am a technical writer; how do I test it out?</li>
+
+    <li>What do I do if I’m confused by the developer’s explanation?</li>
+
+    </ul>
+
+    <p>The above questions are great building blocks to get you started on your SDK
+    documentation. I will provide answers to these questions in my session and share
+    how my team developed a great documentation strategy for our SDKs (you get to
+    see the good and the bad). </p>
+
+    <ul>
+
+    <li>We help our users chose the correct SDK from a list of 25 different SDKs.</li>
+
+    <li>Analytics was our friend.</li>
+
+    <li>Include samples and give a preview of what needs to be done.</li>
+
+    <li>Maintain consistency across SDK documentation.</li>
+
+    <li>Develop an internal strategy to keep the samples, and documentation updated
+    with each code change.</li>
+
+    <li>Include licensing information so users are able to use the SDKs.</li>
+
+    </ul>
+
+    <p>That’s not all! You will also find out how SDKs build a developer community
+    around your product. I will talk about how you can improve your SDKs further by
+    guiding your community to report bugs, request features, and much more using your
+    documentation strategy.</p>'
+- title: 'Read the Rules: What technical writers can learn from board game design'
+  slug: read-the-rules-what-technical-writers-can-learn-from-board-game-design-matthew-baldwin
+  series: Write the Docs Portland
+  series_slug: read-the-rules-what-technical-writers-can-learn-from-board-game-design-matthew-baldwin
+  year: 2020
+  speakers:
+  - name: Matthew Baldwin
+    slug: matthew-baldwin
+    avatar: 
+  abstract: '<p>Imagine writing guidance for a product that exists solely in the mind
+    of the customer. That is the plight of the tabletop game designer. Yes, games
+    come with boards and cards and dice and counters, but those are but the UI, so
+    to speak. The essence of a tabletop game is the set of algorithms that govern
+    play, as specified by the instructions. In that sense, a rulebook is both software
+    and documentation, rolled into one. </p>
+
+    <p>Matthew Baldwin has read what can only be described as an absurd number of
+    rulebooks -- and written a few to boot. In this talk he will articulate the qualities
+    that make for a clear, concise, and comprehensive set of instructions, and how
+    to apply those same principles to technical documentation writ large. He’ll discuss
+    recent innovations in board game guidance and how they map to the ever-evolving
+    field of software documentation. And he’ll even throw in a few tabletop recommendations,
+    for those as interested in expanding their library of games as their writerly
+    repertoire.</p>'

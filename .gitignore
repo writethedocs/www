@@ -8,3 +8,6 @@ venv*
 *.pyc
 node_modules
 .sass-cache
+docs/meetups/events.rst
+docs/_scripts/talks.json
+.idea

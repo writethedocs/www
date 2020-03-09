@@ -19,7 +19,20 @@ Each year we organize a wide range of events so that people can come together, c
 
 .. raw:: html
 
+    <p>
     {{ date.day_one.summary }}
+    </p>
+
+{% if flaghasschedule %}
+
+.. datatemplate::
+   :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
+   :template: include/schedule2018.rst
+   :include_context:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
 
 {% if date.day_two is defined %}
 
@@ -31,7 +44,20 @@ Each year we organize a wide range of events so that people can come together, c
 
 .. raw:: html
 
+    <p>
     {{ date.day_two.summary }}
+    </p>
+
+{% if flaghasschedule %}
+
+.. datatemplate::
+   :source: /_data/{{templatecode}}-{{year}}-day-2.yaml
+   :template: include/schedule2018.rst
+   :include_context:
+
+{% else %}
+  A detailed schedule will be announced soon.
+{% endif %}
 
 {% endif %}
 
@@ -45,7 +71,9 @@ Each year we organize a wide range of events so that people can come together, c
 
 .. raw:: html
 
+    <p>
     {{ date.day_three.summary }}
+    </p>
 
 {% endif %}
 
@@ -57,6 +85,8 @@ Each year we organize a wide range of events so that people can come together, c
 
 .. raw:: html
 
+    <p>
     {{ date.day_four.summary }}
+    </p>
 
 {% endif %}

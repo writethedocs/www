@@ -3,5 +3,10 @@ country: USA
 state: Oregon
 city: Portland
 website: https://www.meetup.com/Write-The-Docs-PDX/
-notes: |
-  Organised by [@WriteTheDocsPDX](https://twitter.com/WriteTheDocsPDX)
+meetup: Write-The-Docs-PDX
+twitter: WriteTheDocsPDX
+organizers:
+  - name: Mo Nishiyama
+    link: https://twitter.com/synthcat
+  - name: Kristen McKee
+    link: https://www.meetup.com/Write-The-Docs-PDX/members/234053635/

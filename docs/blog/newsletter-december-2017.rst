@@ -14,8 +14,8 @@ Hi everybody! Kelly O. here, with our last issue of 2017! It's been a gigantic y
 
 Not only are we ending the year on a high note, but we also have a TON of great stuff coming up in 2018 as well!
 
-* We're already in full planning mode for the Portland and Prague conferences. The `call for proposals for Portland <http://www.writethedocs.org/conf/portland/2018/cfp/>`_ is open until January 10th, so if you haven't started your talk proposal, now's the time!
-* We've also started to line up sponsors for both conferences, so if your company is interested in showing off its love for good docs, drop us a line at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org>`_. You can read about our sponsorship packages in our `Portland <http://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/>`_ and `Prague <http://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/>`_ prospectuses (prospecti?).
+* We're already in full planning mode for the Portland and Prague conferences. The `call for proposals for Portland <https://www.writethedocs.org/conf/portland/2018/cfp/>`_ is open until January 10th, so if you haven't started your talk proposal, now's the time!
+* We've also started to line up sponsors for both conferences, so if your company is interested in showing off its love for good docs, drop us a line at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org>`_. You can read about our sponsorship packages in our `Portland <https://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/>`_ and `Prague <https://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/>`_ prospectuses (prospecti?).
 * And finally, early in 2018 we'll be launching a brand new Write the Docs Job Board! Our goal is to make it easy for documentarians to find their dream gigs, and employers to find their dream documentarians. If you'd be interested in helping us beta test the board in January – either as an employer or an applicant – we'd love to hear from you at `jobs@writethedocs.org <mailto:jobs@writethedocs.org>`_.
 
 Whew! Hopefully that gives you some things to look back on or forward to with excitement!
@@ -46,7 +46,7 @@ An interesting discussion cropped up on `Hacker News <https://news.ycombinator.c
 
 In the original HN conversation, diverse opinions were expressed on a range of subjects. For example, should man pages include tutorial-type information? Is the traditional structure of Synopsis, Description, Options, and Examples at all useful? Should command-line parameters be sorted or grouped? Do you need to be able to jump to a particular command-line option without resorting to wildcard search?
 
-There was plenty of `bike-shedding <https://en.wiktionary.org/wiki/bikeshedding>`_ along the way, including statements that what really mattered was the particular \*Nix variant the man page was in, that "info pages" are really where it's at, that `roff <https://en.wikipedia.org/wiki/Roff_(computer_program>`_ was the "way forward," and even that really, the man pages were fine but the *real* problem is that people don't know how to use them...
+There was plenty of `bike-shedding <https://en.wiktionary.org/wiki/bikeshedding>`_ along the way, including statements that what really mattered was the particular \*Nix variant the man page was in, that "info pages" are really where it's at, that `roff <https://en.wikipedia.org/wiki/Roff_(computer_program)>`_ was the "way forward," and even that really, the man pages were fine but the *real* problem is that people don't know how to use them...
 
 Inevitably, some people suggested that crowd-sourcing would be the solution, while others maintained that man pages already were crowd-sourced, along with the rest of the \*Nix variant.
 
@@ -81,7 +81,7 @@ But other contributors to the discussion pointed to research that suggests the t
 Community calendar
 ******************
 
-The deadline for proposals to speak at Write the Docs Portland closes on **January 10, 2018 at midnight PST.** You can `read about the CFP and submit your proposal on the conference website <http://www.writethedocs.org/conf/portland/2018/cfp/>`_.
+The deadline for proposals to speak at Write the Docs Portland closes on **January 10, 2018 at midnight PST.** You can `read about the CFP and submit your proposal on the conference website <https://www.writethedocs.org/conf/portland/2018/cfp/>`_.
 
 Our monthly meetups have mostly wound down for the year, but there are a few on the books already for 2018. Since the newsletter won't be back til early February, make sure you keep an eye on your local meetup's calendar for other January events that get scheduled in the interim!
 

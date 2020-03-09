@@ -105,7 +105,7 @@ the first draft of documentation. These texts no doubt will need a bit
 of clean up before publishing, but by front-loading the documentation,
 you lay a clear path forwards. Early documentation also helps facilitate
 peer feedback and group decisions to guide your work. This model is the
-sentiment behind :ref:`documentation-driven-design`.
+sentiment behind `documentation driven design <../style-guides#documentation-driven-design>`_.
 
 Participatory
 ~~~~~~~~~~~~~
@@ -203,7 +203,7 @@ The more content editors you have, the more important a `style guide`_
 becomes in facilitating consistency. Consistency also helps make documentation
 `skimmable <#skimmable>`__ and `beautiful <#beautiful>`__.
 
-.. _style guide: http://www.writethedocs.org/guide/writing/style-guides/
+.. _style guide: https://www.writethedocs.org/guide/writing/style-guides/
 
 Current
 ~~~~~~~
@@ -291,7 +291,7 @@ start to finish without getting confused? If so, the documentation is
 perfectly "cumulative", which is great, but not always possible. It's
 something to strive for, especially in tutorials and examples. If you
 have separated your tutorials and examples from the reference
-documentation, the put the tutorials and examples first. Then, content
+documentation, then put the tutorials and examples first. Then, content
 within the reference information section may be ordered alphabetically
 or topically without regard to prerequisite needs.
 

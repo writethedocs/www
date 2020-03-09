@@ -1,0 +1,80 @@
+- Duration: '60'
+  Session: Doors Open, Breakfast Served
+  Time: '8:00'
+- Duration: '30'
+  Session: Alicja Raszkowska - Draw the Docs
+  Slug: alicja-raszkowska
+  Time: '9:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '9:30'
+- Duration: '0'
+  Session: "<b>Job Fair Starts (Lola's Room)</b>"
+  Time: '9:40'
+- Duration: '30'
+  Session: 'Sarah Moir - Just Add Data: Make it easier to prioritize your documentation'
+  Slug: sarah-moir
+  Time: '9:40'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '10:10'
+- Duration: '30'
+  Session: 'Matt Reiner - Show Me the Money: How to Get Your Docs the Love and Support
+    They Deserve'
+  Slug: matt-reiner
+  Time: '10:20'
+- Duration: '20'
+  Session: Snack break
+  Time: '10:50'
+- Duration: '30'
+  Session: 'Chris Bush - SDK Reference Manuals: A flow-based approach'
+  Slug: chris-bush
+  Time: '11:10'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '11:40'
+- Duration: '15'
+  Session: "<i>Sponsored Talk</i>: Riona MacNamara - Documentation for Good: Knowledge as a tool for equity and inclusion"
+  Time: '11:50'
+  Slug: riona-macnamara
+- Duration: '75'
+  Session: Lunch (60 mins)
+  Time: '12:05'
+- Duration: '15'
+  Session: "Behind the Scenes with Aaron and Vanessa"
+  Time: '1:05'
+- Duration: '30'
+  Session: Lightning Talks (30 mins) 
+  Time: '1:20'
+- Duration: '0'
+  Session: "<b>Unconference Starts (Lola's Room)</b>"
+  Time: '1:20'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '1:50'
+- Duration: '30'
+  Session: 'Kay Miles - Product Documentation Strategy: What Is It and Why Do We Need
+    It?'
+  Slug: kay-miles
+  Time: '2:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '2:30'
+- Duration: '30'
+  Session: Jessica Parsons - Lessons Learned in a Year of Docs-Driven Development
+  Slug: jessica-parsons
+  Time: '2:40'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '3:10'
+- Duration: '30'
+  Session: 'Jodie Putrino - Defying the Status Quo: How a grassroots effort can transform
+    an organization'
+  Slug: jodie-putrino
+  Time: '3:20'
+- Duration: '10'
+  Session: Closing address
+  Time: '3:50'
+- Duration: '20'
+  Session: "<b>Conference Ends</b> :("
+  Time: '4:00'

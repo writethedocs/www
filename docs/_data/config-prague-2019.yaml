@@ -1,0 +1,150 @@
+name: Prague
+
+shortcode: prague # prague australia?
+templatecode: eu # HACK
+year: 2019
+city: Prague
+local_area: Czech Republic
+area: Europe
+area_adj: European
+tz: CEST
+email: prague@writethedocs.org
+color: coral
+
+photos:
+  default: _static/conf/images/headers/prague-group.png
+
+buttons:
+  top:
+    # - text: Sponsor the conference
+    #   link: /sponsors/prospectus
+    #- text: Submit a Talk
+    #  link: /cfp
+    - text: Browse the Pictures
+      link_absolute: https://flic.kr/s/aHsmGXavWt
+    # - text: What to expect?
+    #   link: /welcome-wagon
+    # - text: See the talks!
+    #   link: /speakers
+    # - text: Prepare with the Welcome Wagon
+    #  link: /welcome-wagon
+    - text: Watch the Videos
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkpYchP1iFnQnc7i-2xJd0I
+    # - text: Browse the photos
+    #  link: /livestream
+
+tickets:
+  community:
+    price: €600
+  corporate:
+    price: €300
+  independent:
+    price: €175
+  student:
+    price: €75
+
+sponsorship:
+  first_draft:
+    price: €750
+  second_draft:
+    price: €1500
+  publisher:
+    price: €3500
+  patron:
+    price: €7500
+  keystone:
+    price: €13000
+
+sponsors:
+  keystone:
+  patron:
+    # They are actually a publisher, but I want these styles :)
+    - name: mozilla-new
+      link: https://developer.mozilla.org/en-US/
+    - name: document360
+      link: https://document360.io
+  publisher:
+  second:
+    - name: redhat-new
+      link: https://www.redhat.com/
+    - name: umbraco
+      link: https://umbraco.com/
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+      width: 250px
+    - name: contact-software
+      link: https://www.contact-software.com/en/
+    - name: kiwi
+      link: https://www.kiwi.com/
+    - name: people-text
+      link: https://www.people-text.de/
+    - name: jetbrains
+      link: https://www.jetbrains.com/
+  first:
+    - name: buildkite
+      link: https://buildkite.com/
+    - name: cncf
+      link: https://www.cncf.io/
+  media:
+    - name: bart
+      link: http://www.bartatwork.com
+    - name: techwriter-pl
+      link: http://techwriter.pl
+
+date: # how do we handle these? human readable would be nice.
+  main: "**September 15-17, 2019, in Prague, Czech Republic**"
+  short: Sep 15-17, 2019
+  tickets_live: "March 2019"
+  month: September
+  day_one:
+    event: Boat Ride
+    date: September 14
+    summary: If you're in town early, join us for the Boat Ride. Prague features beautiful architectural and historical monuments along the river, and being on the water is an excellent way to sample the highlights.
+    icon: boat
+    dotw: Saturday
+  day_two:
+    event: Writing Day
+    date: September 15
+    summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    icon: writing
+    dotw: Sunday
+  day_three:
+    event: Main Conference
+    date: September 16-17
+    summary: The main days of the conference. We will be running our main track in the ballroom, and the Unconference.
+    icon: conference
+    dotw: Monday/Tuesday
+
+about:
+  summary:
+    "The main presentation track takes place from **September 15-17 (Monday and Tuesday) from 10:00 to 18:00**.
+    During the main event we also run an :doc:`/conf/prague/2019/unconference`.
+
+    You can find out more information about the venue and its accessibility on our :doc:`/conf/prague/2019/venue` page."
+  venue:
+    "Auto Klub, Opletalova 29, Prague"
+  attendees: 300
+  mainroom:
+    Main Ballroom
+  unconfroom:
+    Restaurant and Aero Hall, ground floor
+  job_fair_room: Aero Hall, ground floor
+
+cfp:
+  url: https://goo.gl/forms/NdcXO3SGhUxlidht1
+  ends: Tuesday, April 30th
+  notification: Monday, June 2nd
+
+flaghassponsors: True
+flagcfp: False
+flagticketsonsale: False
+flagspeakersannounced: True
+flaghasschedule: True
+flagwelcomewagon: False
+flaglivestreaming: True
+flagvideos: false
+flagpostconf: True
+
+flaghashike: False
+flaghasboat: True
+flaglanding: False

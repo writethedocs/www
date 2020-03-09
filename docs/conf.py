@@ -1,49 +1,60 @@
 # -*- coding: utf-8 -*-
 #
 
-from recommonmark.parser import CommonMarkParser
-from recommonmark.transform import AutoStructify
-import ablog
-import sys
 import os
+import sys
+
+import ablog
+from recommonmark.transform import AutoStructify
+
+# Only for windows compatability - Forces default encoding to UTF8, which it may not be on windows
+if os.name == 'nt':
+    reload(sys)
+    sys.setdefaultencoding('UTF8')
 
 
 sys.path.append(os.getcwd())  # noqa
 
 from _ext.core import (
-    add_jinja_filters, rstjinja, override_page_template, load_conference_data,
-    set_html_context, unset_html_context
+    render_rst_with_jinja, override_template_load_context, set_html_context, unset_html_context
 )
+from _ext.filters import add_jinja_filters_to_app
 from _ext.meetups import MeetupListing
-from _ext.videos import main
-
+from _ext.atom_absolute import rewrite_atom_feed
 
 exclude_patterns = [
     '_build',
     'include',
-    '_data',
+    #'_data',
     'node_modules',
 ]
 
 # Only build the videos on production, to speed up dev
-import os
-on_rtd = os.environ.get('READTHEDOCS') == 'True'
-on_netlify = os.environ.get('BUILD_VIDEOS') == 'True'
-if not on_rtd and not on_netlify:
+on_rtd = str(os.environ.get('READTHEDOCS')).lower() == 'true'
+build_videos = str(os.environ.get('BUILD_VIDEOS')).lower() == 'true'
+if not on_rtd and not build_videos:
+    print('EXCLUDING VIDEO PATHS. Video links will not work.')
     exclude_patterns.append('videos')
+    REWRITE_FEED = False
+else:
+    print('BUILDING VIDEOS. All video links should work.')
+    REWRITE_FEED = True
 
 extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
+    'notfound.extension',
+    'recommonmark',
 ]
-blog_baseurl = 'http://www.writethedocs.org/'
+blog_baseurl = 'https://www.writethedocs.org/'
 blog_path = 'blog/archive'
 blog_authors = {
-    'Team': ('Write the Docs Team', 'http://www.writethedocs.org/team/'),
+    'Team': ('Write the Docs Team', 'https://www.writethedocs.org/team/'),
     'eric': ('Eric Holscher', 'http://ericholscher.com'),
     'kelly': ("Kelly O'Brien", 'https://twitter.com/OBrienEditorial'),
 }
 blog_default_author = 'Team'
+blog_feed_archives = True
 blog_feed_fulltext = True
 blog_feed_length = 10
 blog_locations = {
@@ -52,12 +63,8 @@ blog_locations = {
 blog_default_location = 'PDX'
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 
-templates_path = ['_templates']
-templates_path.append(ablog.get_html_templates_path())
-
-source_parsers = {
-    '.md': CommonMarkParser,
-}
+templates_path = ['_templates', 'include', ablog.get_html_templates_path()]
+html_extra_path = ['_static_html']
 source_suffix = ['.rst', '.md']
 
 master_doc = 'index'
@@ -90,9 +97,9 @@ html_sidebars = {
         'about.html',
         'postcard.html',
         'info.html',
+        'searchbox.html',
         'navigation.html',
         # 'relations.html',
-        # 'searchbox.html',
     ]
 }
 
@@ -122,32 +129,48 @@ suppress_warnings = ['image.nonlocal_uri']
 
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
-    'conferences': load_conference_data(),
 }
 
+if build_videos:
+    from _ext.videos import main
 
-# html_context.update(main())
-# html_experimental_html5_writer = True
+    if os.environ.get('MEETUP_API_KEY'):
+        try:
+            from _ext.meetup_events import main as meetup_main
+            html_context.update(meetup_main())
+        except:
+            print('Could not get meetup events.')
+    html_context.update(main())
+
+notfound_no_urls_prefix = True
+
 
 def setup(app):
     # Set up our custom jinja filters
-    app.connect("builder-inited", add_jinja_filters)
+    app.connect("builder-inited", add_jinja_filters_to_app)
 
     # Transform RST with Jinja, using proper context
-    app.connect("source-read", rstjinja)
+    app.connect("source-read", render_rst_with_jinja)
 
     # Adjust html_context properly for datatemplate processing
     app.connect("source-read", set_html_context)
     app.connect("doctree-read", unset_html_context)
 
     # Render HTML templates with proper HTML context
-    app.connect('html-page-context', override_page_template)
+    app.connect('html-page-context', override_template_load_context)
+
+    if on_rtd or build_videos or REWRITE_FEED:
+        app.connect('build-finished', rewrite_atom_feed)
 
     app.add_directive('meetup-listing', MeetupListing)
     app.add_config_value('recommonmark_config', {
         'auto_toc_tree_section': 'Contents',
-        'enable_auto_doc_ref': True,
+        # 'enable_auto_doc_ref': True,
         'enable_eval_rst': True,
     }, True)
     app.add_transform(AutoStructify)
     app.add_stylesheet('css/global-customizations.css')
+    app.add_stylesheet('css/survey.css')
+    app.add_javascript('js/jobs.js')
+
+    app.config.wtd_cache = {}

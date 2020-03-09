@@ -1,0 +1,18 @@
+- Duration: '90'
+  Session: Doors Open, Breakfast Served
+  Time: '8:00'
+- Duration: '15'
+  Session: Morning introduction - Introduction to Sprints & Project Introductions
+  Time: '9:30'
+- Duration: '165'
+  Session: Team up and start working
+  Time: '9:45'
+- Duration: '270'
+  Session: Lunch Break
+  Time: '12:30'
+- Duration: '180'
+  Session: End of Writing Day, Beginning of Reception
+  Time: '5:00'
+- Duration: '30'
+  Session: End of Reception
+  Time: '8:00'

@@ -10,7 +10,7 @@ Spring has Sprung!
 
 In the Northern Hemisphere, anyway. In the Southern Hemisphere, Fall has...fallen? Sounds good, let's go with it!
 
-In both hemispheres, `Write the Docs Portland <http://www.writethedocs.org/conf/na/2017/>`_ approaches! We've announced the `presentations and speakers <http://www.writethedocs.org/conf/na/2017/news/announcing-presentations/>`_, and you can `get your ticket here <https://ti.to/writethedocs/write-the-docs-na-2017/>`_. We don't expect to sell out for another couple of weeks, but if you haven't made plans for May 14-16 yet, the perfect time is **soon**.
+In both hemispheres, `Write the Docs Portland <https://www.writethedocs.org/conf/na/2017/>`_ approaches! We've announced the `presentations and speakers <https://www.writethedocs.org/conf/na/2017/news/announcing-presentations/>`_, and you can `get your ticket here <https://ti.to/writethedocs/write-the-docs-na-2017/>`_. We don't expect to sell out for another couple of weeks, but if you haven't made plans for May 14-16 yet, the perfect time is **soon**.
 
 
 ------------------------------------------
@@ -33,7 +33,7 @@ But how to get that info into release notes? One participant reported his team's
 2. Filter out internal code issues and QA tests
 3. Rewrite the issue title so it's easy for readers to scan
 4. Label issues so they're easy to sort
-5. Use `this script <https://github.com/markcraig/release-notes-list-builder>`_ to transpose the issues (in JSON format) from JIRA into a DocBook block element for release notes
+5. Use `this script <https://libraries.io/github/markcraig/release-notes-list-builder>`_ to transpose the issues (in JSON format) from JIRA into a DocBook block element for release notes
 
 ------------------------------------------
 
@@ -56,7 +56,7 @@ Starter Kit for Command Line Git
 
 Toward the end of the month, a request for an expert to help with learning command line Git resulted in an avalanche of resources. Here's what folks suggested for learning Git:
 
-* `Git workshop at Write the Docs in May <http://www.writethedocs.org/conf/na/2017/speakers/#speaker-na-2017-matthew-desmond>`_
+* `Git workshop at Write the Docs in May <https://www.writethedocs.org/conf/na/2017/speakers#speaker-matthew-desmond>`_
 * `tryGit <https://try.github.io>`_
 * `The SilverLogic Git Fire Drill <https://tsl.io/git-fire-drill/>`_
 * `Pro Git by by Scott Chacon and Ben Straub <https://www.git-scm.com/book/en/v2>`_
@@ -78,4 +78,4 @@ The annual Stack Overflow Developer survey was released this month! https://stac
 Looking Ahead
 ###############
 
-Write the Docs Portland is right on the horizon, and Write the Docs Prague isn't going to be far behind! We'll be opening the CFP up shortly, so now is a great time to be thinking about a talk you might want to submit! In the meantime, if May (or September) are just too far away to bear, remember you can always check out `your nearest meetup <http://www.writethedocs.org/meetups/>`_, or `start one yourself <http://www.writethedocs.org/organizer-guide/meetups/starting/>`_!
+Write the Docs Portland is right on the horizon, and Write the Docs Prague isn't going to be far behind! We'll be opening the CFP up shortly, so now is a great time to be thinking about a talk you might want to submit! In the meantime, if May (or September) are just too far away to bear, remember you can always check out `your nearest meetup <https://www.writethedocs.org/meetups/>`_, or `start one yourself <https://www.writethedocs.org/organizer-guide/meetups/starting/>`_!

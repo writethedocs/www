@@ -2,3 +2,7 @@ region: Asia
 country: Russian Federation
 city: Novosibirsk
 website: https://www.meetup.com/Write-the-Docs-Siberia/
+meetup: Write-the-Docs-Siberia
+organizers:
+  - name: Nick Volynkin
+    link: https://www.meetup.com/Write-the-Docs-Siberia/members/229048004/

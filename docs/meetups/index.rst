@@ -15,6 +15,16 @@ We invite you to join a meetup in your local community. If your local community
 isn't listed here, feel free to `start one <../organizer-guide/meetups/starting>`_
 and let us know. We'd be happy to promote it and list it here.
 
+We have several pages of meetup documentation:
+
+
+.. toctree::
+   :maxdepth: 1
+
+   events
+   ../organizer-guide/meetups/starting
+   ../organizer-guide/meetups/faq-meetups
+   ../organizer-guide/meetups/sustainable-meetups
 
 Current Meetups: North America
 ------------------------------
@@ -52,4 +62,4 @@ Know of a meetup not shown here? `Add it to the list <https://github.com/writeth
 
    nyc
    philly
-
+   sf-bay

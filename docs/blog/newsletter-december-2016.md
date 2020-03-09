@@ -26,7 +26,7 @@ One of our most involved discussions this month was about limiting the length of
 
 Participants mentioned quite a few tools to use for refining your writing, from style handbooks to web-based readability tests. Although folks paid respect to Strunk and White’s _Elements of Style_, many said there are better options…specifically Richard Lanham's _Revising Prose_, _Garner's Modern American Usage_, and _The Harbrace College Handbook_ (which now seems to go by _The Hodges Harbrace Handbook_). And check out [this Write the Docs Forum thread]( http://forum.writethedocs.org/t/style-guides-for-documentarians/112) for more style handbook recommendations.
 
-One participant suggested [this neat tool](http://writersdiet.com/?page_id=4) for trimming your writing. Others mentioned using Flesch-Kincaid scoring, websites like [Readability Score](https://readability-score.com/text/), and linters like [Write Good for Atom]( https://atom.io/packages/linter-write-good) to help improve readability.
+One participant suggested [this neat tool](http://writersdiet.com/?page_id=4) for trimming your writing. Others mentioned using Flesch-Kincaid scoring, tools like the [Readability Calculator by Online Utility](https://www.online-utility.org/english/readability_test_and_improve.jsp), and linters like [Write Good for Atom]( https://atom.io/packages/linter-write-good) to help improve readability.
 
 The discussion wrapped up with a 74-word sentence quoted from _Emma_ by Jane Austen:
 > "It was some comfort to him that many inquiries after himself and Miss Woodhouse (for his neighbours knew that he loved to be inquired after), as well as Miss Smith, were coming in during the rest of the day; and he had the pleasure of returning for answer, that they were all very indifferent—which, though not exactly true, for she was perfectly well, and Harriet not much otherwise, Emma would not interfere with."
@@ -40,11 +40,6 @@ An interesting hiring question arose this month about how to word a job listing 
 Part of the reason this crops up so often is that the listings are often assembled by non-technical recruiters who don't always have a solid grasp on the different technical disciplines out there. So what can we do to make sure new hires show up on their first day with the technical background we're hoping for?
 
 There were lots of useful suggestions, most of which boiled down to: Consider your docs' audience, and choose your words carefully. If your docs are aimed at helping people code, then probably that "previous developer experience" is a good way to go, preferably with details on the specific languages/environments they'll be writing about. But if your documentation is more focused on configuration and/or optimization, then having a writer with  "sysadmin or DBA experience" may serve you better. If your docs are broader-ranging, you can cast a wide net by asking for "technical background", then focus it down in the interview process with a technical test (in addition to or instead of a writing test).
-
-
-## API Community Resources
-
-Since we've got lots of folks in the community who are into API docs (either professionally or just in their free time) we thought [this blog post would be a good resource](https://medium.com/@APIdays/api-blogs-api-newsletters-and-api-oriented-slack-groups-to-follow-878dd3cdb2ba) to share around. It's from APIDays, who organize a great series of API conferences around the world, and they've put together a great round-up of API-related blogs, newsletters and Slack groups. If APIs are your thing, these will most assuredly be your jam.
 
 ## Running UX tests on your documentation
 
@@ -60,6 +55,6 @@ Second, you don't necessarily have to separate your product testing from your do
 
 ## Want to help make 2017 the Year of the Doc?
 
-Okay, so we don't really have a spiffy catchphrase, but we'd still love your help making next year Write the Docs' best yet! We're just starting to gear up for Write the Docs North America — in Portland, as usual, from May 14-16 — and the organizing team would love some help! If you've ever thought about running your own Write the Docs event, this is an excellent way to see how they come together, first-hand! If you're interested in volunteering, [have a look our event roles](http://www.writethedocs.org/organizer-guide/confs/event-roles/) and drop us an email!
+Okay, so we don't really have a spiffy catchphrase, but we'd still love your help making next year Write the Docs' best yet! We're just starting to gear up for Write the Docs North America — in Portland, as usual, from May 14-16 — and the organizing team would love some help! If you've ever thought about running your own Write the Docs event, this is an excellent way to see how they come together, first-hand! If you're interested in volunteering, [have a look our event roles](https://www.writethedocs.org/organizer-guide/confs/event-roles/) and drop us an email!
 
-And of course, if you just can't wait that long, or you'd rather focus your efforts locally, it's always worth looking up the [nearest meetup](http://www.writethedocs.org/meetups/) (or [starting one](http://www.writethedocs.org/organizer-guide/meetups/starting/) if it's too far away!)
+And of course, if you just can't wait that long, or you'd rather focus your efforts locally, it's always worth looking up the [nearest meetup](https://www.writethedocs.org/meetups/) (or [starting one](https://www.writethedocs.org/organizer-guide/meetups/starting/) if it's too far away!)

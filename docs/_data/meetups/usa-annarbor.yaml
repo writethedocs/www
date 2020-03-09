@@ -3,3 +3,11 @@ country: USA
 state: Michigan
 city: Ann Arbor
 website: https://www.meetup.com/Write-the-Docs-A2
+meetup: Write-the-Docs-A2
+organizers:
+  - name: Cory Williamson-Cardneau
+    link: http://twitter.com/cory_will/
+  - name: Susan Ostreicher
+    link: https://www.meetup.com/Write-the-Docs-A2/members/12822567/
+  - name: Kristina Birk
+    link: https://www.meetup.com/Write-the-Docs-A2/members/225907998/

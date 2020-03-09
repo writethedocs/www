@@ -1,4 +1,18 @@
 region: Europe
 country: United Kingdom
 city: London
-website: http://www.meetup.com/Write-The-Docs-London/
+website: https://www.meetup.com/Write-The-Docs-London/
+meetup: Write-The-Docs-London
+organizers:
+  - name: Kristof Van Tomme
+    link: http://twitter.com/kvantomme/
+  - name: Jennifer Lambourne
+    link: https://twitter.com/Jenny__Anne
+  - name: Daniel D. Beck
+    link: https://twitter.com/ddbeck
+  - name: Sharif Salah
+    link: https://twitter.com/sharif_salah
+  - name: James Scott
+    link: https://twitter.com/scottydocs
+  - name: Benjamin Miller
+    link: 

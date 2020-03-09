@@ -1,0 +1,138 @@
+name: Prague
+
+shortcode: prague # prague australia?
+year: 2020
+city: Prague
+local_area: Czech Republic
+area: Europe
+area_adj: European
+tz: CEST
+email: prague@writethedocs.org
+color: blue
+
+photos:
+  default: _static/conf/images/headers/prague-group.png
+
+buttons:
+  top:
+     - text: Sponsor the conference
+       link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #  link: /cfp
+    # - text: Buy a Ticket!
+    #   link: /tickets
+    # - text: See the talks!
+    #   link: /speakers
+#    - text: See the Schedule!
+#      link: /schedule
+    # - text: Welcome Wagon
+    #   link: /welcome-wagon
+#    - text: Watch the Live Stream
+#      link: /livestream
+#     - text: Browse the photos
+#       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+#     - text: Watch the videos!
+#       link_absolute: /videos/portland/2020
+  bottom:
+     - text: Sponsor the conference
+       link: /sponsors/prospectus
+#     - text: Submit a Talk
+#       link: /cfp
+    # - text: Buy a Ticket!
+    #   link: /tickets
+#    - text: Prepare with the Welcome Wagon
+#      link: /welcome-wagon
+#    - text: See the schedule!
+#      link: /schedule
+    # - text: Watch the Live Stream
+    #  link: /livestream
+#     - text: Browse the photos
+#       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+#     - text: Watch the videos!
+#       link_absolute: /videos/portland/2020
+
+tickets:
+  community:
+    price: €600
+  corporate:
+    price: €300
+  independent:
+    price: €175
+  student:
+    price: €75
+
+sponsorship:
+  first_draft:
+    price: €800
+  second_draft:
+    price: €2000
+  publisher:
+    price: €4000
+  patron:
+    price: €8500
+  keystone:
+    price: €15000
+
+date: # how do we handle these? human readable would be nice.
+  main: "**September 13-15, 2020, in Prague, Czech Republic**"
+  short: Sep 13-15, 2020
+  tickets_live: "March 2020"
+  month: September
+  day_one:
+    event: Boat Ride
+    date: September 12
+    summary: If you're in town early, join us for the Boat Ride. Prague features beautiful architectural and historical monuments along the river, and being on the water is an excellent way to sample the highlights.
+    icon: boat
+    dotw: Saturday
+  day_two:
+    event: Writing Day
+    date: September 13
+    summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    icon: writing
+    dotw: Sunday
+  day_three:
+    event: Main Conference
+    date: September 14-15
+    summary: The main days of the conference. We will be running our main track in the main room, and the Unconference in the small room.
+    icon: conference
+    dotw: Monday/Tuesday
+  total_talk_days: 2
+
+about:
+  attendees: 400
+  summary:
+    "The main presentation track takes place from **September 14-15 (Monday and Tuesday) from 10:00 to 18:00**.
+    During the main event we also run an :doc:`/conf/prague/2020/unconference`.
+
+    You can find out more information about the venue and its accessibility on our :doc:`/conf/prague/2020/venue` page."
+  venue: "TBA"
+  mainroom: TBA
+  unconfroom: TBA
+  projector_ratio: "16:9"
+  job_fair_room: TBA
+
+
+sponsors:
+  publisher:
+  second:
+  first:
+
+
+# Things that change over time, listed in order of change
+flaglanding: True
+flaghassponsors: False
+flagcfp: False
+flagticketsonsale: False
+flagsoldout: False
+flagspeakersannounced: False
+flaghasschedule: False
+flaghasshirts: False
+flagvideos: False
+flaglivestreaming: False
+flagpostconf: False
+
+# Truthy things that don't change
+flaghashike: False
+flaghasboat: True
+flaghaswritingday: True
+flaghasbadgeflair: True

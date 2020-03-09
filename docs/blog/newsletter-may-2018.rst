@@ -10,12 +10,12 @@ Hello everyone!
 
 Kelly O. here, hoping it's been a good week for you all. We're just hours away from our first conference of the year. The Portland event marks the beginning of the community's busiest year yet!
 
-The Prague conference may seem a long way off, in September, but the CFP is open for only a few more weeks. If you're interested in speaking, `have a look at the guidelines and submit your proposal <http://www.writethedocs.org/conf/prague/2018/cfp/>`_ by **midnight CET on May 15th**. As usual, we're interested in speakers of any experience level on any topic relevant to software documentation. Hit us with your best ideas!
+The Prague conference may seem a long way off, in September, but the CFP is open for only a few more weeks. If you're interested in speaking, `have a look at the guidelines and submit your proposal <https://www.writethedocs.org/conf/prague/2018/cfp/>`_ by **midnight CET on May 15th**. As usual, we're interested in speakers of any experience level on any topic relevant to software documentation. Hit us with your best ideas!
 
 We also have two other Write the Docs events to look forward to in 2018!
 
-* On Aug 18-22, Write the Docs is teaming up with `Open Help <http://openhelp.cc/>`_ to put on 5-day event in Cincinnati that combines 2 days of talks and discussion with 3 days documentation sprints. We're really excited to try out this new format – `have a look at the website! <http://www.writethedocs.org/conf/cincinnati/2018/>`_
-* Then from November 15-16, Write the Docs Australia will be returning for a second year as a full two-day conference. Check out what they're doing for year two on `the conference page! <http://www.writethedocs.org/conf/australia/2018/>`_
+* On Aug 18-22, Write the Docs is teaming up with `Open Help <http://openhelp.cc/>`_ to put on 5-day event in Cincinnati that combines 2 days of talks and discussion with 3 days documentation sprints. We're really excited to try out this new format – `have a look at the website! <https://www.writethedocs.org/conf/cincinnati/2018/>`_
+* Then from November 15-16, Write the Docs Australia will be returning for a second year as a full two-day conference. Check out what they're doing for year two on `the conference page! <https://www.writethedocs.org/conf/australia/2018/>`_
 
 In addition, our network of meetups is alive and busy! The London group, for example, is partnering with the UK Government Digital Service to put on a `full-day meetup <https://www.meetup.com/Write-The-Docs-London/events/248304896/>`_ on June 5th about building a career in documentation. One of the organizers is running a short survey about documentation roles, in order to present his findings at the event. If you have a few minutes and want to participate, you'll find it here: `http://www.smartsurvey.co.uk/s/ZXSGG/ <http://www.smartsurvey.co.uk/s/ZXSGG/>`_
 
@@ -77,7 +77,7 @@ Featured job postings
 **Hiring? Want to get your job posting in front of real, live, in-person documentarians?**
 Any jobs posted on the `Write the Docs job board <https://jobs.writethedocs.org/>`_ by noon PST on Monday, May 7th, will be printed out and displayed at the inaugural Write the Docs job fair at the Portland conference.
 
-If you're currently job hunting and will be joining us in Portland, here's a taste of what to expect at the `job fair <http://www.writethedocs.org/conf/portland/2018/job-fair/>`_ on Tuesday morning. The jobs below are from Oracle, our headline sponsor for the event.
+If you're currently job hunting and will be joining us in Portland, here's a taste of what to expect at the `job fair <https://www.writethedocs.org/conf/portland/2018/job-fair/>`_ on Tuesday morning. The jobs below are from Oracle, our headline sponsor for the event.
 
 `Principal Technical Writer <https://jobs.writethedocs.org/job/63/principal-technical-writer/>`_
 Oracle, Full-time, Oakland, CA

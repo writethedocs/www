@@ -1,5 +1,4 @@
 from __future__ import print_function
-from builtins import str
 from users.models import *
 from grants.models import *
 from django.utils.text import slugify
@@ -9,13 +8,11 @@ import markdown
 
 # Speaker JSON dumper
 
-full = Resource.objects.get(name='30 minute talk')
-thunder = Resource.objects.get(name='Thunderstorm talk')
-panel = Resource.objects.get(name='Panel')
+full = Resource.objects.get(program__slug='write-docs-prague-2018', name__icontains='talk')
 
 to_json = []
 
-all_talks = full.allocations.all() | thunder.allocations.all()
+all_talks = full.allocations.all()
 
 use_email = False
 use_json = True
@@ -29,9 +26,9 @@ if use_json:
         to_json.append({
             'slug': slugify(app.name),
             'name': app.name,
-            'title': app.answers.get(question__question='Talk Title').answer.encode('utf-8'),
-            'abstract': markdown.markdown(str(
-                app.answers.get(question__question='Talk Abstract').answer.encode('utf-8'), 'utf-8'
+            'title': app.title.encode('utf-8'),
+            'abstract': markdown.markdown(unicode(
+                app.abstract.encode('utf-8'), 'utf-8'
             )),
             'details': '',
         })

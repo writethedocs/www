@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/speakers.jpg
+:banner: _static/conf/images/headers/speakers.jpg
 
 Conference Speakers
 ===================
@@ -7,7 +7,7 @@ Conference Speakers
 {% if flagspeakersannounced %}
 
 .. datatemplate::
-   :source: /_data/{{year}}.{{city}}.speakers.yaml
+   :source: /_data/{{year}}.{{shortcode}}.speakers.yaml
    :template: {{year}}/speakers.rst
    :include_context:
 

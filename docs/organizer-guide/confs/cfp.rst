@@ -34,11 +34,10 @@ How to write a CFP?
 
 `Call for Proposals` examples from previous WTD conferences:
 
-* `WTD NA 2017 CFP <http://www.writethedocs.org/conf/portland/2018/cfp/>`_
-* `WTD NA 2016 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/cfp.rst>`_
-* `WTD NA 2015 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/cfp.md>`_
-* `WTD EU 2016 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2016/cfp.rst>`_
-* `WTD EU 2015 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/cfp.md>`_
+* `WTD EU 2019 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/prague/2019/cfp.rst>`_
+* `WTD NA 2019 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2019/cfp.rst>`_
+* `WTD EU 2018 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/prague/2018/cfp.rst>`_
+* `WTD NA 2018 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2018/cfp.rst>`_
 
 Talk review and selection
 -------------------------
@@ -63,11 +62,12 @@ The practical stuff
 **Entering your scores in Grorg.** To score proposals, just click the 'View Applicants' button and then hit 'Score' next to the applicant's name. (You can use the 'Score Random Applicant' button too, for giggles.)
 
 **How we rate talks.** Please use the following rating system:
-   1 - I will argue strongly against including this in the program.
-   2 - I'm not a fan, but it wouldn't be the end of the world if we included this.
-   (3 - DO NOT USE. Three means you don't have an opinion. We don't believe you. No threes.)
-   4  - This is a decent talk. I'd be cool with including it.
-   5 - I will fight to make sure this talk is included in the program.
+
+ 1. I will argue strongly against including this in the program.
+ 2. I'm not a fan, but it wouldn't be the end of the world if we included this.
+ 3. (DO NOT USE. Three means you don't have an opinion. We don't believe you. No threes.)
+ 4. This is a decent talk. I'd be cool with including it.
+ 5. I will fight to make sure this talk is included in the program.
 
 **Revisit your first ~15 talks.** When you're reviewing this many talks, it can take a while to get the feel of the rating system since, at first, you only have a small sample to compare to. To solve this problem, we recommend that, when you get to the end of your reviews, you go back and take another quick look at the first 15 or so talks you looked at, to make sure your rating holds up in the context of the whole pool.
 
@@ -80,6 +80,7 @@ The intellectual stuff
 It's really useful, when you're doing these reviews, to think not just about the things that you, personally, are most interested in, but also what talks are a good fit for the spirit of a Write the Docs conference. You've been before. You know the vibe. Try to keep that energy in mind when reading proposals and think about whether they would be at home in lineup of fun, educational, and often out-of-the-box speakers.
 
 The other thing to consider is balance. One of the things that makes this process so hard how many different spectrums across which we need to balance our talks. Here are some of the ones we try to keep in mind:
+
 * Writers/Developers/Product/Support
 * Gender
 * Technical level

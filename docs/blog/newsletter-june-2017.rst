@@ -8,9 +8,9 @@ Write the Docs Newsletter - June 2017
 Write the Docs Portland 2017 Is History
 #######################################
 
-`Write the Docs Portland <http://www.writethedocs.org/conf/na/2017/>`_ was another sold-out success! Many thanks to everyone who attended, presented, hiked, shared, discussed, and made it another great event. `Videos <https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBld-70TsOoYToM3CaTxRC>`_ of the presentations are now available! 
+`Write the Docs Portland <https://www.writethedocs.org/conf/na/2017/>`_ was another sold-out success! Many thanks to everyone who attended, presented, hiked, shared, discussed, and made it another great event. `Videos <https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBld-70TsOoYToM3CaTxRC>`_ of the presentations are now available! 
 
-Now, it's time to gear up for `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_ in September!
+Now, it's time to gear up for `Write the Docs Prague <https://www.writethedocs.org/conf/eu/2017/>`_ in September!
 
 This month's newsletter is the first one that relies on your `Reacji Channeler <https://reacji-channeler.builtbyslack.com>`_ suggestions! If you missed it last month, here's the gist: you can tag messages as suggestions for the newsletter with the *newsletter* emoji:
 
@@ -102,9 +102,9 @@ Finally this month, a member of our community asked for advice for enforcing the
 Onward
 ######
 
-Proposals are in for `Write the Docs Prague <http://www.writethedocs.org/conf/eu/2017/>`_, and we expect to announce the schedule by mid-June. Stay tuned! 
+Proposals are in for `Write the Docs Prague <https://www.writethedocs.org/conf/eu/2017/>`_, and we expect to announce the schedule by mid-June. Stay tuned! 
 
-The `WTD meetup groups <http://www.writethedocs.org/meetups/>`_ are planning some interesting events--maybe there's one near you. If not...consider `starting a WTD meetup <http://www.writethedocs.org/organizer-guide/meetups/starting/>`_ in your area!
+The `WTD meetup groups <https://www.writethedocs.org/meetups/>`_ are planning some interesting events--maybe there's one near you. If not...consider `starting a WTD meetup <https://www.writethedocs.org/organizer-guide/meetups/starting/>`_ in your area!
 
 **US**
 

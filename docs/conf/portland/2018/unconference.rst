@@ -1,10 +1,10 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/writing-day.png
+:banner: _static/conf/images/headers/writing-day.png
 
 Unconference
 ============
 
-.. include:: /include/conf/events/unconference.rst
+{% include "conf/events/unconference.rst" %}
 
 Schedule
 --------
