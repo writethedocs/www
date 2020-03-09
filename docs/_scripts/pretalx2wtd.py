@@ -5,7 +5,7 @@
 # - Do: export PRETALX_TOKEN=<your token>
 # - Go to directory docs/_scripts
 # - Run this script
-
+import shutil
 import sys
 sys.path.insert(1, '../_ext')
 
@@ -16,6 +16,8 @@ import requests
 from ruamel import yaml
 from ruamel.yaml.representer import RoundTripRepresenter
 import markdown
+
+SPEAKER_IMAGE_PATH = '../_static/img/speakers/'
 
 yamldoc = []
 # Prevent OrderedDict from being presented as YAML OMAP - we just want a regular YAML dict.
@@ -32,12 +34,17 @@ def convert_to_yaml(year, series, yaml_output, pretalx_slug):
     submissions = requests.get(submissions_url, headers=http_headers)
     if submissions.status_code != 200:
         print(f'Error: submissions request failed: {submissions.status_code}: {submissions.text}')
+        return
 
     for index, talk in enumerate(submissions.json()['results']):
         slug = slugify(talk['title'] + '-' + talk['speakers'][0]['name'])
         print(f'Processing talk {slug}...')
 
         speaker_info = retrieve_speaker_info([s['code'] for s in talk['speakers']], http_headers, pretalx_slug)
+        if not speaker_info:
+            print(f'Error: failed to retrieve info for speaker s["code"]')
+            return
+
         yamldoc.append(OrderedDict([
             ('title', talk['title']),
             ('slug', slug),
@@ -73,10 +80,22 @@ def retrieve_speaker_info(speaker_codes, http_headers, pretalx_slug):
                     return answer['answer']
 
         speaker = speaker_response.json()
+        speaker_slug = slugify(speaker['name'])
+
+        if speaker['avatar']:
+            avatar_path = SPEAKER_IMAGE_PATH + speaker_slug + '.' + speaker['avatar'].split('.')[-1]
+            image_response = requests.get(speaker['avatar'], stream=True)
+            if image_response.status_code != 200:
+                print(f'Error: speaker avatar request failed: {image_response.status_code}: {image_response.text}')
+                return
+            with open(avatar_path, 'wb') as f:
+                image_response.raw.decode_content = True
+                shutil.copyfileobj(image_response.raw, f)
+            print(f'Saved speaker photo to {avatar_path}')
+
         result.append(OrderedDict([
             ('name', speaker['name']),
-            ('slug', slugify(speaker['name'])),
-            ('avatar', speaker['avatar']),
+            ('slug', speaker_slug),
             ('twitter', search_answers(speaker, 'twitter')),
             ('website', search_answers(speaker, 'website')),
         ]))
