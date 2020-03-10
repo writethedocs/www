@@ -16,7 +16,7 @@ We'll be talking to our venue, staff, speakers, and sponsors to find a date that
 
 Our current plan would be to automatically transfer all existing tickets and sponsorships to the new conference date. We will also refund anyone 100% who can't make the new date work with their schedule.
 
-If you have any questions about this, please reach out to `{{email}} <mailto:{{email}}>`_.
+If you have any questions, please reach out to `{{email}} <mailto:{{email}}>`_.
 
 We will continue to provide updates as the conference gets closer. In the meantime, we recommend keeping an eye on the official resources at:
 
