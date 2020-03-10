@@ -18,7 +18,7 @@ If we do reschedule, we'll transfer all existing tickets and sponsorships to the
 
 If you have any questions, please reach out to `{{email}} <mailto:{{email}}>`_.
 
-We will continue to provide updates as the conference gets closer. In the meantime, we recommend keeping an eye on the official resources at:
+In the meantime, we recommend keeping an eye on the official resources at:
 
 * `CDC Updates <https://www.cdc.gov/coronavirus/2019-ncov/index.html>`_
 * `Oregon Health Authority Updates <https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx>`_
