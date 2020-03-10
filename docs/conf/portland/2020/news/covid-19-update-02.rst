@@ -29,4 +29,4 @@ The Write the Docs Team
 
 .. _Santa Clara County: https://www.sccgov.org/sites/phd/news/Pages/order-health-officer-03092020.aspx
 
-.. _King Country: https://www.kingcounty.gov/depts/health/communicable-diseases/disease-control/novel-coronavirus/protection.aspx
+.. _King County: https://www.kingcounty.gov/depts/health/communicable-diseases/disease-control/novel-coronavirus/protection.aspx
