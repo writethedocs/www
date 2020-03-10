@@ -15,12 +15,14 @@ photos:
 
 buttons:
   top:
-     - text: Sponsor the conference
-       link: /sponsors/prospectus
+     - text: Important COVID-19 Update
+       link: /news/covid-19-update-02
+     # - text: Sponsor the conference
+     #   link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
-     - text: Buy a Ticket!
-       link: /tickets
+     # - text: Buy a Ticket!
+     #   link: /tickets
     # - text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
@@ -34,10 +36,12 @@ buttons:
 #     - text: Watch the videos!
 #       link_absolute: /videos/portland/2020
   bottom:
-     - text: Sponsor the conference
-       link: /sponsors/prospectus
-     - text: See the talks!
-       link: /speakers
+     - text: Important COVID-19 Update
+       link: /news/covid-19-update-02
+     # - text: Sponsor the conference
+     #   link: /sponsors/prospectus
+     # - text: See the talks!
+     #   link: /speakers
     # - text: Buy a Ticket!
     #   link: /tickets
 #    - text: Prepare with the Welcome Wagon
