@@ -14,7 +14,7 @@ Since our :doc:`first announcement </conf/portland/2020/news/covid-19-update-01>
 
 We'll be talking to our venue, staff, speakers, and sponsors to find a date that works. We'd like to keep uncertainty to a minimum, so we hope to announce a firm date by **March 20** at the latest.
 
-Our current plan would be to automatically transfer all existing tickets and sponsorships to the new conference date. We will also refund anyone 100% who can't make the new date work with their schedule.
+If we do reschedule, we'll transfer all existing tickets and sponsorships to the new conference date. We will refund tickets without charge for anyone who can't make the new date.
 
 If you have any questions, please reach out to `{{email}} <mailto:{{email}}>`_.
 
