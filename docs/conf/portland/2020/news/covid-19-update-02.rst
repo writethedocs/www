@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: March 11, 2020
+.. post:: March 10, 2020
    :tags: portland-2020, covid-19
 
 COVID-19 Update 02
