@@ -17,7 +17,7 @@ markdown==3.2.1
 ruamel.yaml==0.16.10
 lxml==4.5.0
 # For atom feed support
-Werkzeug==0.14.1
+Werkzeug==0.14.1 # pyup: <1.0
 # For fancy 404 pages
 git+https://github.com/rtfd/sphinx-notfound-page@master#egg=sphinx-notfound-page
 
