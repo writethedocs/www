@@ -308,7 +308,7 @@ determine what constitutes a “fair” salary.
 .. h.mqgdllu8gaap:
 
 Median Salary by Region and Country
-------------------------
+-----------------------------------
 
 .. table:: Median Salary by Region and Country
 
@@ -646,7 +646,7 @@ non-binary or “other”.
 .. h.6ascb2ek053u:
 
 Highest Education Level Achieved
----------------
+--------------------------------
 
 Note: one respondent skipped this question
 
@@ -666,7 +666,7 @@ remaining fraction.
 .. h.hpkr7a16phmf:
 
 Geographical Location
---------
+---------------------
 
 18 respondents left this question blank or provided a non-quantifiable
 response.
