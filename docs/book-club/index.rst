@@ -1,6 +1,6 @@
-========================
-Write the Docs Book Club
-========================
+===========
+ Book Club
+===========
 
 Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel.
 

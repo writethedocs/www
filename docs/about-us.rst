@@ -1,5 +1,5 @@
-About the Write the Docs organization
-=====================================
+Guiding Principles and Governance
+=================================
 
 Write the Docs is a global community of people who care about documentation.
 There is also a legal entity that exists to build and support the global community of :doc:`documentarians <documentarians>`.
