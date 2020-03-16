@@ -11,7 +11,7 @@ Dear documentarians in Europe and beyond,
 By now you should have gotten an announcement from us about ticket sales and Call for Proposals for the Prague conference. 
 However, as you're all aware, the COVID-19 virus has been causing tremendous shifts and upheavals globally, and we are following developments as they might impact our community.
 
-Last week we announced with a heavy heart that we must :doc:`postpone our Portland conference </conf/portland/2020/news/covid-19-update-01>` from May to August (exact dates to be announced soon). 
+Last week we announced with a heavy heart that we must :doc:`postpone our Portland conference </conf/portland/2020/news/covid-19-update-02>` from May to August (exact dates to be announced soon). 
 Since the Prague conference is scheduled for September, we'd like to maintain our cautious optimism that we can hold it as planned. 
 
 **As of today, March 16, Write the Docs Prague 2020 is scheduled to go ahead**.
