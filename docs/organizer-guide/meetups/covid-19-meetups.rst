@@ -13,7 +13,7 @@ If you have any questions, don’t hesitate to message us in the `#meetup-organi
 
 If you need advice on remote meetups, we have members with expertise in the `#wtd-meetup-remote <https://writethedocs.slack.com/messages/wtd-meetup-remote/>`_ Slack channel.
 
-Many Countries Have Temporarirly Banned All "In-Person" Meetups
+Many Countries Have Temporarily Banned All "In-Person" Meetups
 ===============================================================
 
 Be sure to follow the laws, regulations, and recommendations of the health authorities in your area.
