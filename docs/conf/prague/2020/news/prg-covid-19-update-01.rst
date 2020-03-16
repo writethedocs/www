@@ -6,15 +6,6 @@
 Prague Conference - COVID-19 Update 01
 ======================================
 
-The most recent COVID-19 update is:
-
-.. postlist:: 1
-  :date: %A, %B %d, %Y
-  :format: {title} - {date}
-  :list-style: none
-  :tags: covid-19
-
-
 Dear documentarians in Europe and beyond,
 
 By now you should have gotten an announcement from us about ticket sales and Call for Proposals for the Prague conference. 
@@ -26,6 +17,11 @@ Since the Prague conference is scheduled for September, we'd like to maintain ou
 **As of today, March 16, Write the Docs Prague 2020 is scheduled to go ahead**.
 
 Despite the severe measures taken by the Czech authorities during the past week, these are short-term efforts to prevent the exponential spreading of the virus, and the restrictions are due to be lifted by mid-April.
+
+You can check the following resources for up-to-date information about Czech Republic and Europe:
+
+- `Czech Ministry of Health <https://koronavirus.mzcr.cz/en>`_
+- `WHO Regional office for Europe <http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19>`_
 
 In the meantime, we understand that some of you are hesitant to make travel plans, so **we are postponing our ticket sales and Call for Proposals until mid-April**.
 
