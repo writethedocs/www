@@ -21,7 +21,11 @@ but we're opening ticket sales again until we are certain that the event can pro
 We know that having a firm dates means that not everyone will be able to come.
 In order to more easily handle requests for changes, we've `created a form`_ to handle incoming ticket change requests.
 
-We'll continue to be in touch with updates about the conference and other things we're doing
+We'll continue to be in touch with updates about the conference and other ways to connect with all our lovely documentarians.
+
+The Write the Docs Team
+
+**Last Updated: March 18, 2020**
 
 .. _Please let us know: portland@writethedocs.org
 .. _created a form: https://docs.google.com/forms/d/e/1FAIpQLScuxyWIlgrNe0hG2AjMl205yoTohWksRlGaJu5d6G7aPENmLg/viewform
