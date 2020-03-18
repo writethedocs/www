@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: March 16, 2020
+.. post:: March 17, 2020
    :tags: prague-2020, covid-19
 
 Prague Conference - COVID-19 Update 01
