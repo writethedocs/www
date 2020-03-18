@@ -8,7 +8,7 @@ COVID-19 Update 03 - New Portland Conference Dates
 
 Hey Folks,
 
-We hope that you're doing okay. It's been a stressful couple weeks, and we wanted to send positive thoughts as we all attempt to get through this. `Please let us know`_ if there is anything we can do to help you. 
+We hope that you're doing okay. It's been a stressful few weeks, and we wanted to send positive thoughts as we all attempt to get through this. `Please let us know`_ if there is anything we can do to help you. 
 
 The true power of community comes in the most trying of times. It's been amazing watching folks come together on :doc:`Slack </slack>`, and we're trying to plan more ways for folks to feel connected and supported.
 
@@ -29,5 +29,4 @@ The Write the Docs Team
 
 .. _Please let us know: portland@writethedocs.org
 .. _created a form: https://docs.google.com/forms/d/e/1FAIpQLScuxyWIlgrNe0hG2AjMl205yoTohWksRlGaJu5d6G7aPENmLg/viewform
-
 
