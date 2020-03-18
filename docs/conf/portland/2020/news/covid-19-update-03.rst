@@ -16,10 +16,10 @@ We also wanted to give you an update on the Portland conference. **We have a new
 
 Given all the uncertainty about the future, we are being cautious in our approach with the conference.
 We're announcing the new date so that people can mark it on their calendars,
-but we're opening ticket sales again until we are certain that the event can proceed. 
+but we're waiting to open ticket sales again until we are certain that the event can proceed. 
 
-We know that having a firm dates means that not everyone will be able to come.
-In order to more easily handle requests for changes, we've `created a form`_ to handle incoming ticket change requests.
+We know that changing the conference dates means that not everyone will be able to attend.
+In order to more easily handle requests for changes, we `created a form`_ to handle incoming ticket change requests. 
 
 We'll continue to be in touch with updates about the conference and other ways to connect with all our lovely documentarians.
 
@@ -29,4 +29,3 @@ The Write the Docs Team
 
 .. _Please let us know: portland@writethedocs.org
 .. _created a form: https://docs.google.com/forms/d/e/1FAIpQLScuxyWIlgrNe0hG2AjMl205yoTohWksRlGaJu5d6G7aPENmLg/viewform
-
