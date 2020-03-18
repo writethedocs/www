@@ -17,6 +17,7 @@ We also wanted to give you an update on the Portland conference. **We have a new
 Given all the uncertainty about the future, we are being cautious in our approach with the conference.
 We're announcing the new date so that people can mark it on their calendars,
 but we're waiting to open ticket sales again until we are certain that the event can proceed. 
+We recommend that you not book new travel until we open ticket sales again.
 
 We know that changing the conference dates means that not everyone will be able to attend.
 In order to more easily handle requests for changes, we `created a form`_ to handle incoming ticket change requests. 
