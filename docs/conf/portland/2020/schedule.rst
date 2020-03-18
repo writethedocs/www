@@ -81,8 +81,8 @@ We'll also help groups organize dinner plans, so you can continue your conversat
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **17:00-20:00**
 
-Monday, May 4
--------------
+Monday, August 10 
+-----------------
 
 .. contents::
    :local:
@@ -131,8 +131,8 @@ There will be light snacks and drinks available on the conference while our tab 
 
 Further details will be announced later.
 
-Tuesday, May 5
---------------
+Tuesday, August 11
+------------------
 
 .. contents::
    :local:
