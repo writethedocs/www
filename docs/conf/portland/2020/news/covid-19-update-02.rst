@@ -3,8 +3,16 @@
 .. post:: March 10, 2020
    :tags: portland-2020, covid-19
 
-COVID-19 Update 02
-==================
+COVID-19 Update 02 - Postponing the Portland Conference
+=======================================================
+
+The most recent COVID-19 update is:
+
+.. postlist:: 1
+  :date: %A, %B %d, %Y
+  :format: {title} - {date}
+  :list-style: none
+  :tags: covid-19
 
 Hey Folks,
 
