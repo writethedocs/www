@@ -25,7 +25,7 @@ to improve the **art and science of documentation**.
 
 Our :doc:`/code-of-conduct` applies to all our community spaces.
 
-.. note:: You can find information and updates about the impact of COVID-19 on Write the Docs conferences and meetups at the following links: `Conference updates <https://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/>`_, `Meetup events <https://www.writethedocs.org/organizer-guide/meetups/covid-19-meetups/>`_.
+.. note:: You can find information and updates about the impact of COVID-19 on Write the Docs conferences and meetup events at the following links: `Conference updates <https://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/>`_, `Meetup events <https://www.writethedocs.org/organizer-guide/meetups/covid-19-meetups/>`_.
 
 Join the community
 ------------------
