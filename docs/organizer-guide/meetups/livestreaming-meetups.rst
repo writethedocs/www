@@ -3,7 +3,7 @@ Livestreaming or Recording a Meetup
 
 Whether due to health or environmental reasons or because you live somewhere where people are spread out over a large area, maybe you want to try live streaming a meetup.
 
-We welcome streams or uploads to the Podcast YouTube channel, but first, we have to add you to the channel. A few days ahead of time, message @chrisward @tomjohnson or @jaredmorgs or the #podcast Slack channel with your email address and we will add you to the channel.
+We welcome audio and video streams or uploads to the Write The Docs Podcast & Meetups YouTube channel, but first, we have to add you to the channel. A few days ahead of time, message @chrisward @tomjohnson or @jaredmorgs or the #podcast Slack channel with your email address and we will add you to the channel.
 
 With that access, you can upload a recorded meetup or live stream to the channel.
 
@@ -15,6 +15,8 @@ To record a meetup, all you need is a microphone. An external microphone is best
 If you want video too, then again, an external camera is best, but positioned well, the internal camera in a laptop can work.
 
 If you want to mix the speaker and slides onto one recording, you can do this after the recording with video editing software, or live using software such as `Open Broadcast Studio (OBS) <https://obsproject.com/>`_.
+
+If you use music or video clips in their presentations, you need to make sure that you use copyright-free or original sound, as YouTube will likely flag these for copyrighted content.
 
 Once the recording is complete, you need to convert it to `a format YouTube supports <https://support.google.com/youtube/troubleshooter/2888402?hl=en>`_.
 
@@ -38,3 +40,7 @@ Setup your audio and video inputs (which can include cameras, microphones, appli
 
 When you're ready, click "Start Streaming," and you're live! Click "Start Streaming" again when you're finished to stop the stream.
 
+Use Your Personal Account
+-------------------------
+
+Another option is for you to use your personal YouTube accounts to live-stream or record. Then click the three dots next to the video title in your YouTube creator studio to download the video file and send it to us to upload to our YouTube channel.
