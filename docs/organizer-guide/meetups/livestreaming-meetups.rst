@@ -1,4 +1,4 @@
-Livestreaming or Recording a Meetup
+Live-streaming or Recording a Meetup
 ===================================
 
 Whether due to health or environmental reasons or because you live somewhere where people are spread out over a large area, maybe you want to try live streaming a meetup.
@@ -37,4 +37,3 @@ In the main OBS window, click "Settings > Stream," select "YouTube/YouTube Gamin
 Setup your audio and video inputs (which can include cameras, microphones, applications, and more) by reading `this OBS guide <https://obsproject.com/wiki/Sources-Guide>`_. It's a powerful application, and widely used, so you should be able to find lots of resources online to solve any issues you have. You can preview the stream your computer sends in the main preview window, and drag the video inputs to the locations and sizes you want. You can record and live stream at the same time by clicking both the "Start Streaming" and "Start Recording" buttons.
 
 When you're ready, click "Start Streaming," and you're live! Click "Start Streaming" again when you're finished to stop the stream.
-
