@@ -26,7 +26,7 @@ Once you have access to the channel, you can upload a video to the channel as us
 Streaming a Meetup
 ------------------
 
-Livestreaming a meetup is harder, but once you have it set up, great for interacting live with remote participants. YouTube live streams even have a live chat for you to gather questions.
+Live-streaming a meetup is harder, but once you have it set up, great for interacting live with remote participants. YouTube live streams even have a live chat for you to gather questions.
 
 You can start a live stream by clicking the "Create > Go Live" button in the YouTube top menu. You can schedule a live stream for a future date from the same button and then set a date in the following settings screen.
 
