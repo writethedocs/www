@@ -1,7 +1,7 @@
-Livestreaming or Recording a Meetup
+Live-streaming or Recording a Meetup
 ===================================
 
-Whether due to health or environmental reasons or because you live somewhere where people are spread out over a large area, maybe you want to try live streaming a meetup.
+Whether due to health or environmental reasons, or because you live somewhere where people are distributed across a large area, maybe you want to try live-streaming a meetup.
 
 We welcome audio and video streams or uploads to the Write The Docs Podcast & Meetups YouTube channel, but first, we have to add you to the channel. A few days ahead of time, message @chrisward @tomjohnson or @jaredmorgs or the #podcast Slack channel with your email address and we will add you to the channel.
 
@@ -28,7 +28,7 @@ Once you have access to the channel, you can upload a video to the channel as us
 Streaming a Meetup
 ------------------
 
-Livestreaming a meetup is harder, but once you have it set up, great for interacting live with remote participants. YouTube live streams even have a live chat for you to gather questions.
+Live-streaming a meetup is harder, but once you have it set up, great for interacting live with remote participants. YouTube live streams even have a live chat for you to gather questions.
 
 You can start a live stream by clicking the "Create > Go Live" button in the YouTube top menu. You can schedule a live stream for a future date from the same button and then set a date in the following settings screen.
 
