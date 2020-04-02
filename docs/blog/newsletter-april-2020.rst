@@ -7,9 +7,9 @@ Write the Docs Newsletter – April 2020
 
 Hello, friends. Beth A here, and it feels pretty strange to be sitting down to write the usual newsletter intro to you all, when things in the world and at home are far from usual.
 
-But pandemics aside, there's still a lot happening online in the Write the Docs community, and I hope that this newsletter can bring you something interesting - or at least distracting - in trying times. And if you're in need of some support, whether you're struggling with the current crisis, or with regular documentarian problems - do come and drop in on Slack.
+But pandemics aside, there's still a lot happening online in the Write the Docs community, and I hope that this newsletter can bring you something interesting - or at least distracting - in trying times. And if you're in need of some support - whether you're struggling with the current crisis, or with regular documentarian problems - if you need someone to talk to, the community is here for you on `Slack </slack/>`__.
 
-We've got our usual wide range of topics in this month's edition. As many folks are working remotely for the first time (your editor included - I'm four weeks in), we have some advice from the community on how to manage that. We talk about when keeping docs and code in the same repository might not be the right choice; we look at the `salary survey results <>`__ went down; and from the #learn-tech-writing book club, we have an introduction to the principles of 'Every Page is Page One'. Plus (perhaps the tech writing version of "how long is a piece of string"?) we try to answer the question of how long is a good paragraph, and a good topic.
+In this month's edition, we've got our usual wide range of topics. As many folks are working remotely for the first time (your editor included - I'm four weeks in), we have some advice from the community on how to manage that. We talk about when keeping docs and code in the same repository might not be the right choice; we look at the `salary survey results <>`__ went down; and from the #learn-tech-writing book club, we have an introduction to the principles of 'Every Page is Page One'.
 
 That's it from me. Thinking of you all.
 
@@ -17,14 +17,15 @@ That's it from me. Thinking of you all.
 Adapting to working from home
 ------------------------------
 
-It's no surprise that there's been a lot of discussion about how to work effectively from home.
+It's no surprise that there's been a lot of discussion about how to work effectively from home. So here's a selection of thoughts that folks on Slack said they'd found helpful:
 
-- While there's plenty of good advice on how to work productively from home, remember that the situation you're in is not normal WFH. At best cooped up involuntarily and with a lot going on in the news cycle; and maybe ill, or caring for your family, or worried to be apart from them. Be gentle to yourself.
-- We could be in this situation for a while, so it's worth gearing up for that a bit. There was strong agreement that it's worth maintaining a routine - it's easy to drift into spending a day in pyjamas, but that can leave you exhausted. Many find it helpful to have a defined start to the work day - getting up and dressed as usual, even taking 'commute' time to walk around the block or listen to podcasts. 
-- It's just as important to finish the day, rather than drifting into working late. Again: setting boundaries is the name of the game. If it's possible for you, helps to have a defined work space away from other activities. And an end-of-day 'commute' can help you switch off.
-- There are upsides to being away from the office. While it's a good idea to be available online, WFH can make it easier to take breaks. Editor's tip: if you're worn out in the afternoons, have a rest. *Nobody knows that you're taking a nap*.
-- Some tips on running meetings well.
-- For managers - this can be super hard for you. Many people will be struggling and need your support - your kindness is more important than ever. Two great blog posts that may help.
+- While there's plenty of good advice on how to work productively from home, remember that the situation you're in is **not** normal WFH. At best, you're cooped up involuntarily at a time when the news cycle is extremely present; and you may be ill, or caring for your family, or worried to be apart from them. So take any advice with that pinch of salt. Above all, be kind to yourself.
+- We could be in this situation for a while, so it's worth gearing up for that. There was strong agreement that it's worth maintaining a routine - it's easy to drift into spending a day in pyjamas, but that can leave you exhausted. Many find it helpful to have a defined start to the work day by getting up and dressed as usual; some even take 'commute' time to walk around the block or listen to podcasts. 
+- It's just as important to finish the day, rather than drifting into working late: setting boundaries is the name of the game. If it's possible for you, helps to have a defined work space away from other activities. And similar to the morning, an end-of-day 'commute' can help you switch off. 
+- Taking regular breaks can make a big difference to your energy levels. And while it's a good idea to be more available online than usual, being away from the office also means you can take breaks with no fear of judgement. *Nobody knows that you're taking a nap*.  
+- Running virtual meetings can take a bit more thought than in-person ones. `Here's a post on doing it well <https://hbr.org/2020/03/what-it-takes-to-run-a-great-virtual-meeting>`__.
+- If you're bummed out because conferences are being cancelled, check out `this list of conferences that are going online <https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/edit#gid=0>`__.
+- For managers, this new situation may be a major challenge. Many people will be struggling and need your support - your kindness is more important than ever. `This blog post from Lara Hogan <https://larahogan.me/blog/predictability-stability-terrible-times/>`_ might help.
 
 ------------------------------------------
 Pros and cons of the docs-as-code approach
@@ -83,8 +84,7 @@ Job posts
 * `Technical Copywriter <https://jobs.writethedocs.org/job/194/technical-copywriter/>`__
    Ably, London - full-time
 
-*To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_, *or check out the #job-post-only channel on Slack.*
-
+*To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_, *or check out the* `#job-post-only channel <https://app.slack.com/client/T0299N2DL/C09E989K5>`__ *on Slack.*
 
 --------------------------
 Community events coming up
