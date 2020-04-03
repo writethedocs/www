@@ -9,7 +9,7 @@ Hello, friends. Beth A here, and it feels pretty strange to be sitting down to w
 
 But pandemics aside, there's still a lot happening online in the Write the Docs community, and I hope that this newsletter can bring you something interesting - or at least distracting - in trying times. And if you're in need of some support - whether you're struggling with the current crisis, or with regular documentarian problems - if you need someone to talk to, the community is here for you on `Slack </slack/>`__.
 
-In this month's edition, we've got our usual wide range of topics. As many folks are working remotely for the first time (your editor included - I'm four weeks in), we have some advice from the community on how to manage that. We talk about when keeping docs and code in the same repository might not be the right choice; we look at how the `salary survey results <>`__ went down; and from the #learn-tech-writing book club, we have an introduction to the principles of 'Every Page is Page One'.
+In this month's edition, we've got our usual wide range of topics. As many folks are working remotely for the first time (your editor included - I'm four weeks in), we have some advice from the community on how to manage that. We talk about when keeping docs and code in the same repository might not be the right choice; we look at how the `salary survey results </surveys/salary-survey/2019/>`__ went down; and from the #learn-tech-writing book club, we have an introduction to the principles of 'Every Page is Page One'.
 
 That's it from me. Thinking of you all.
 
@@ -19,19 +19,19 @@ Adapting to working from home
 
 It's no surprise that there's been a lot of discussion about how to work effectively from home. So here's a selection of thoughts that folks on Slack said they'd found helpful:
 
-- While there's plenty of good advice on how to work productively from home, remember that the situation you're in is **not** normal WFH. At best, you're cooped up involuntarily at a time when the news cycle is extremely present; and you may be ill, or caring for your family, or worried to be apart from them. So take any advice with that pinch of salt. Above all, be kind to yourself.
+- While there's plenty of good advice on how to work productively from home, remember that the situation you're in is **not** normal remote work. At best, you're cooped up involuntarily at a time when the news cycle is extremely present; and you may be ill, or caring for your family, or worried to be apart from them. So take any advice with that pinch of salt. Above all, be kind to yourself.
 - We could be in this situation for a while, so it's worth gearing up for that. There was strong agreement that it's worth maintaining a routine - it's easy to drift into spending a day in pyjamas, but that can leave you exhausted. Many find it helpful to have a defined start to the work day by getting up and dressed as usual; some even take 'commute' time to walk around the block or listen to podcasts. 
 - It's just as important to finish the day, rather than drifting into working late: setting boundaries is the name of the game. If it's possible for you, it helps to have a defined work space away from other activities. And similar to the morning, an end-of-day 'commute' can help you switch off. 
 - Taking regular breaks can make a big difference to your energy levels. And while it's a good idea to be more available online than usual, being away from the office also means you can take breaks with no fear of judgement. *Nobody knows that you're taking a nap*.  
 - Running virtual meetings can take a bit more thought than in-person ones. `Here's a post on doing it well <https://hbr.org/2020/03/what-it-takes-to-run-a-great-virtual-meeting>`__.
-- If you're annoyed that conferences are being cancelled, check out `this list of conferences that are going online <https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/edit#gid=0>`__.
+- If you're sad that conferences are being cancelled, check out `this list of conferences that are going online <https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/edit#gid=0>`__.
 - For managers, this new situation may be a major challenge. Many people will be struggling and need your support - your kindness is more important than ever. `This blog post from Lara Hogan <https://larahogan.me/blog/predictability-stability-terrible-times/>`_ might help.
 
 ------------------------------------------
 Pros and cons of the docs-as-code approach
 ------------------------------------------
 
-The `docs as code <https://www.writethedocs.org/guide/docs-as-code/>`_ approach to documentation means using the same tools and workflows for the documentation, as developers use for the code. Writers using this approach are often integrated into the product team, too - but does that mean your docs should be in the code repository too? Here are the community's thoughts:
+The `docs as code </guide/docs-as-code/>`_ approach to documentation means using the same tools and workflows for the documentation, as developers use for the code. Writers using this approach are often integrated into the product team, too - but does that mean your docs should be in the code repository too? Here are the community's thoughts:
 
 In favour of *keeping* docs and code in the same repo:
 
@@ -57,7 +57,7 @@ A chorus of thank-yous greeted the publication of the `WTD salary survey for 201
 
 * It was hard to compare absolute salary information across countries and regions without information about cost of living. Some folks offered their sense of differences, though -- for example, lower salaries in Pennsylvania than in New York were thought to be more than offset by the lower cost of living.
 * Some people thought that salaries in expensive cities seemed low; others seemed to realize just how low their own salaries were compared with the average for their locale.
-* Some felt that the data gave them what they needed to negotiate raises or, more generally, better compensation packages! Just what we like to hear.
+* Some felt that the data gave them what they needed to negotiate raises or, more generally, better compensation packages!
 
 The education question in particular produced a plethora of responses. Some were surprised at how many respondents had college degrees; many documentarians shared stories about their degrees in unrelated fields. Not many of the community have degrees or formal training in technical writing/communication (but some do!), and a fair few are interested in pursuing more training. Education -- whether you have a degree, or what your degree is in -- seems to matter less the more experience you have.
 
@@ -89,6 +89,10 @@ Job posts
 --------------------------
 Community events coming up
 --------------------------
+
+A few WTD meetups are trying out remote sessions, and we've noted those here. For those that are still meant to be in-person, be aware that they might be postponed.
+
+If you're a meetup organiser and you'd like to try running a remote event, check out `this guide to live-streaming a meetup </organizer-guide/meetups/livestreaming-meetups/>`__.
 
 - 08 April - remote (Toronto) - `Staying productive and maintaining your mental health while working from home <https://www.meetup.com/Write-the-Docs-Toronto/events/pcqbmqybcgbtb/>`__
 - 08 April - remote (Barcelona) - `Working from home, tooling, and current challenges <https://www.meetup.com/Write-the-Docs-Barcelona/events/269665459/>`__
