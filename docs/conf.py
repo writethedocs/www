@@ -60,7 +60,7 @@ blog_feed_length = 10
 blog_locations = {
     'PDX': ('Portland, Oregon', 'http://www.portlandhikersfieldguide.org/'),
 }
-blog_default_location = 'PDX'
+blog_default_location = None
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 
 templates_path = ['_templates', 'include', ablog.get_html_templates_path()]
@@ -92,6 +92,7 @@ html_theme_options = {
 html_favicon = '_static/favicon/favicon-96x96.png'
 html_title = 'Write the Docs'
 html_static_path = ['_static']
+html_copy_source = False
 html_sidebars = {
     '**': [
         'about.html',

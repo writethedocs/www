@@ -1,5 +1,5 @@
-Books
-======
+Relevant Books
+==============
 
 A live list of books on technical writing and related topics, like content strategy and information architecture.
 

@@ -15,7 +15,7 @@ Logistics
 
 Tickets will be available from April 2020.
 
-- Date & Time: Leaves promptly at **Saturday, May 2, 2 PM**. Meet at **1:45**.
+- Date & Time: Leaves promptly at **Saturday, August 8, 2 PM**. Meet at **1:45**.
 - Duration: The hike normally takes around 3 hours. Along with transportation back to Portland, allow for up to 4 hours total, returning at 6pm.
 - Start: **Lower Macleay Park** (`Google Map <https://www.google.com/maps/place/Lower+Macleay+Park/@45.5359671,-122.7147082,17z/data=!3m1!4b1!4m5!3m4!1s0x549509e9f2adf02d:0x1b3668a7adc941d9!8m2!3d45.5359671!4d-122.7125142>`__. There is a pavilion at the park entrance where we will gather.
 - End: **Oregon Zoo** -- There is a MAX stop here to take us back downtown.
@@ -30,7 +30,7 @@ from the venue to the park, or you can `take transit <https://www.google.com/map
 What to bring
 ~~~~~~~~~~~~~
 
-May in Portland can be interesting. It will probably be in the 60s, with a chance of rain. So, please bring:
+August in Portland can be interesting. It will probably be in the 60s, with a chance of rain. So, please bring:
 
 - Comfortable shoes, that you are comfortable getting a bit muddy.
 - 1 Liter of water. There is water available halfway through the hike.
