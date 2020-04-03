@@ -9,7 +9,7 @@ Hello, friends. Beth A here, and it feels pretty strange to be sitting down to w
 
 But pandemics aside, there's still a lot happening online in the Write the Docs community, and I hope that this newsletter can bring you something interesting - or at least distracting - in trying times. And if you're in need of some support - whether you're struggling with the current crisis, or with regular documentarian problems - if you need someone to talk to, the community is here for you on `Slack </slack/>`__.
 
-In this month's edition, we've got our usual wide range of topics. As many folks are working remotely for the first time (your editor included - I'm four weeks in), we have some advice from the community on how to manage that. We talk about when keeping docs and code in the same repository might not be the right choice; we look at the `salary survey results <>`__ went down; and from the #learn-tech-writing book club, we have an introduction to the principles of 'Every Page is Page One'.
+In this month's edition, we've got our usual wide range of topics. As many folks are working remotely for the first time (your editor included - I'm four weeks in), we have some advice from the community on how to manage that. We talk about when keeping docs and code in the same repository might not be the right choice; we look at how the `salary survey results <>`__ went down; and from the #learn-tech-writing book club, we have an introduction to the principles of 'Every Page is Page One'.
 
 That's it from me. Thinking of you all.
 
@@ -21,10 +21,10 @@ It's no surprise that there's been a lot of discussion about how to work effecti
 
 - While there's plenty of good advice on how to work productively from home, remember that the situation you're in is **not** normal WFH. At best, you're cooped up involuntarily at a time when the news cycle is extremely present; and you may be ill, or caring for your family, or worried to be apart from them. So take any advice with that pinch of salt. Above all, be kind to yourself.
 - We could be in this situation for a while, so it's worth gearing up for that. There was strong agreement that it's worth maintaining a routine - it's easy to drift into spending a day in pyjamas, but that can leave you exhausted. Many find it helpful to have a defined start to the work day by getting up and dressed as usual; some even take 'commute' time to walk around the block or listen to podcasts. 
-- It's just as important to finish the day, rather than drifting into working late: setting boundaries is the name of the game. If it's possible for you, helps to have a defined work space away from other activities. And similar to the morning, an end-of-day 'commute' can help you switch off. 
+- It's just as important to finish the day, rather than drifting into working late: setting boundaries is the name of the game. If it's possible for you, it helps to have a defined work space away from other activities. And similar to the morning, an end-of-day 'commute' can help you switch off. 
 - Taking regular breaks can make a big difference to your energy levels. And while it's a good idea to be more available online than usual, being away from the office also means you can take breaks with no fear of judgement. *Nobody knows that you're taking a nap*.  
 - Running virtual meetings can take a bit more thought than in-person ones. `Here's a post on doing it well <https://hbr.org/2020/03/what-it-takes-to-run-a-great-virtual-meeting>`__.
-- If you're bummed out because conferences are being cancelled, check out `this list of conferences that are going online <https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/edit#gid=0>`__.
+- If you're annoyed that conferences are being cancelled, check out `this list of conferences that are going online <https://docs.google.com/spreadsheets/d/1IKXAcDoYnWNpuFaDYkn_aplDZ5fRI0bJNWah0rGFO5E/edit#gid=0>`__.
 - For managers, this new situation may be a major challenge. Many people will be struggling and need your support - your kindness is more important than ever. `This blog post from Lara Hogan <https://larahogan.me/blog/predictability-stability-terrible-times/>`_ might help.
 
 ------------------------------------------
@@ -44,13 +44,13 @@ Pros of *separating* docs and code:
 
 - Less noise in the code repo. For example, docs commits won't appear in automated change logs and team notifications.
 - Mistakes in the docs repo cannot affect the code.
-- A separate docs repository can be for new team members to understand.
+- A separate docs repository can be easier for new team members to understand.
 - Build time will increase as code + docs size increases (although parallelization can mitigate this problem). If docs are in a separate repo, writers don't have to wait for code builds (and devs don't have to wait for docs builds).
 - It takes technical knowledge to set up, customize, and maintain a combined repo and toolchain - so you need either that knowledge yourself, or development resources.
 - Some docs publication tools don't play well with a code development workflow (for example, FrameMaker, InDesign, or Word).
 
 --------------------------
-Salary Survey Speculations
+Salary survey speculations
 --------------------------
 
 A chorus of thank-yous greeted the publication of the `WTD salary survey for 2019 </surveys/salary-survey/2019/>`_ -- and were quickly followed by numerous anecdotes, speculation about The State of the Profession (technical writing, that is), and more. Highlights of the conversation:
@@ -73,7 +73,7 @@ The core premise of EPPO is that users rely heavily on web search for help with 
 
 There's no disagreement from our book club members on the importance of search engines like Google as an entry point to docs. Not surprisingly, docs locked behind paywalls and/or logins can negatively affect user satisfaction. The community suggests, however, that these barriers can help combat competing content available on the web whether through Reddit, YouTube or other frequently trafficked learning platforms.
 
-Another observation from Baker is that, when  it comes to finding what they’re looking for on the web, users opt for the path of least resistance. He calls this "information foraging". So if you want to optimize for this foraging behaviour, that means you need to make sure your content is both ‘nutritious’ (information rich) and ‘easy to catch’.
+Another observation from Baker is that, when it comes to finding what they’re looking for on the web, users opt for the path of least resistance. He calls this "information foraging". So if you want to optimize for this foraging behaviour, that means you need to make sure your content is both ‘nutritious’ (information rich) and ‘easy to catch’.
 
 ---------
 Job posts
