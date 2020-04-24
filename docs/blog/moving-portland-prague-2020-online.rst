@@ -12,6 +12,8 @@ but still thinking about docs :)
 
 **We've concluded that it's not possible for us to hold our Portland or Prague conferences in person this year.**
 There is just too much risk of a safety issue for our community for us to consider holding the events in our lovely venues.
+**We're planning to hold an online event, with a new format, sometime near our new conference dates in August**. 
+We will be releasing additional details as we confirm them.
 
 We're also offering the option to pre-order a ticket for our online event for $100, or contribute part of your ticket price to sustain our organization.
 If you would like to convert your ticket or contribute part of the value to Write the Docs, you can `fill our our form`_.
@@ -30,8 +32,6 @@ That said, we're not going away completely.
 We all need something to look forward to,
 and we're hoping to be able to provide our community with a gathering place in the best way that we can.
 
-**We're planning to hold an online event, with a new format, sometime near our new conference dates in August**. 
-We will be releasing additional details as we confirm them.
 
 We're looking at ways we can continue to offer the core parts of our events,
 re-imagined in digital form while keeping our community spirit:
