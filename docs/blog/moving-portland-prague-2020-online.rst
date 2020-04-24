@@ -1,4 +1,4 @@
-.. post:: Oct 30, 2019
+.. post:: Apr 29, 2020
    :tags: portland-2020, prague-2020, conferences, covid-19
 
 Moving our Portland and Prague 2020 conferences online
@@ -10,9 +10,14 @@ We hope that you're holding up during these trying times.
 We are all stuck at home,
 but still thinking about docs :)
 
-We're writing with some sad news,
-we've concluded that it's not possible for us to hold our Portland or Prague conferences in person this year.
+**We've concluded that it's not possible for us to hold our Portland or Prague conferences in person this year.**
 There is just too much risk of a safety issue for our community for us to consider holding the events in our lovely venues.
+
+We're also offering the option to pre-order a ticket for our online event for $100, or contribute part of your ticket price to sustain our organization.
+If you would like to convert your ticket or contribute part of the value to Write the Docs, you can `fill our our form`_.
+Everyone who hasn't filled out this form will have their ticket fully refunded on **May 10th, 2020**.
+
+.. _fill our our form: http://TODO
 
 Our new plan
 ------------
