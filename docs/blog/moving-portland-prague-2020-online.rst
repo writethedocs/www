@@ -17,6 +17,10 @@ We're also offering the option to pre-order a ticket for our online event for $1
 If you would like to convert your ticket or contribute part of the value to Write the Docs, you can `fill our our form`_.
 Everyone who hasn't filled out this form will have their ticket fully refunded on **May 10th, 2020**.
 
+We'll be reading out to all of our sponsors to talk about moving their sponsorship to our online event.
+We are excited about offering a number of sponsorship benefits that are unique to our online spaces,
+and we'll be providing more details as we get them.
+
 .. _fill our our form: http://TODO
 
 Our new plan
