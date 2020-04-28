@@ -69,13 +69,14 @@ Guidelines
 Our goal with Write the Docs is to be **the most welcoming community on the internet**.
 People who are new to our community in particular should be assisted and welcomed.
 
-Our :doc:`/code-of-conduct`, applies to all spaces associated with Write the Docs, which includes our Slack.
+Our :doc:`/code-of-conduct` applies to all spaces associated with Write the Docs, which includes our Slack.
 In addition, we have a few Slack-specific guidelines:
 
 Social rules
 ~~~~~~~~~~~~
 
 - **Use inclusive language** - Our community is multicultural, multiracial, multigendered, and generally diverse. When posting in channels, avoid using words such as "guys" to address a mixed group. Possible alternatives: "folks", "everyone", "documentarians".
+- **We're all documentarians** - The Write the Docs community includes developers, testers, PMs, DevRel folks, and many more. Remember that our Slack consists of more than just technical writers.
 - **Only participate when you can be constructive** - Try to be constructive in all that you do, and otherwise consider not participating in a conversation.
 - **Say hi** - The world is a better place with a flood of hello's.
 - **Don't be snarky** - We are all trying the best we can.
@@ -115,12 +116,3 @@ Credit
 
 This concept is inspired by the `Recurse Center's Social Rules <https://www.recurse.com/manual#sub-sec-social-rules>`_.
 Thanks for the inspiration!
-
-Welcome message
-~~~~~~~~~~~~~~~
-
-We send out the following welcome message on slack monthly:
-
-.. literalinclude:: include/slack.txt
-   :language: text
-
