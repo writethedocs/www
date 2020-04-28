@@ -76,7 +76,7 @@ Social rules
 ~~~~~~~~~~~~
 
 - **Use inclusive language** - Our community is multicultural, multiracial, multigendered, and generally diverse. When posting in channels, avoid using words such as "guys" to address a mixed group. Possible alternatives: "folks", "everyone", "documentarians".
-- **We're all documentarians** - The Write the Docs community includes developers, testers, PMs, DevRel folks, and many more. Remember that our Slack consists of more than just technical writers.
+- **We're all documentarians** - The Write the Docs community is much more than a space for technical writers. We welcome everyone who wants to learn more about creating documentation, including developers, testers, customer support agents, technical writers, program/product managers, developer relations specialists, and more.
 - **Only participate when you can be constructive** - Try to be constructive in all that you do, and otherwise consider not participating in a conversation.
 - **Say hi** - The world is a better place with a flood of hello's.
 - **Don't be snarky** - We are all trying the best we can.
