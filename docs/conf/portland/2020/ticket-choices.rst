@@ -1,0 +1,40 @@
+:template: {{year}}/generic.html
+
+Portland 2020 ticket choices
+============================
+As we've :doc:`announced </blog/moving-portland-prague-2020-online>`, Write the Docs Portland 2020 will be a virtual conference.
+
+If you currently have a ticket to Write the Docs Portland, your options are:
+
+- Pre-order a ticket to the online event for $100 and get the rest of your original ticket amount refunded.
+- Pre-order a ticket to the online event for $100 and contribute the rest of your original ticket amount to the Write the Docs organization.
+- Get a full refund of your original ticket amount on **May 10th, 2020**. This option will happen automatically if you don't select either of the previous options.
+
+You can submit your choice in the form below.
+
+What we can do with your contribution
+-------------------------------------
+Write the Docs was founded in 2013 to build a community for documentarians. There are many communities for particular technologies, or particular areas of writing. Write the Docs is quite unique in including everyone who cares about communication, documentation, and their users. That includes programmers, tech writers, developer advocates, customer support, marketers, and anyone else who wants people to have great experiences with software.
+
+Over the years, we have grown to a community that includes:
+
+* A slack network with over 9000 members.
+* Yearly conferences on 3 continents, including years of video archives.
+* Meetups in almost 50 cities.
+* A monthly newsletter with over 5000 subscribers.
+* An extensive documentation guide.
+
+We also do incidental activities, like our recent salary survey, and our currently exploring even more ways to support the community and help our community stay connected.
+
+Write the Docs is self-sustaining, and events are our main source of income. Expenses had already been made for our Portland conference. With these changes to our conferences in 2020, contributing the rest of your original ticket to our organisation will help us in ensuring all our activities can continue in the future. Therefore, if you are able to, we're grateful for your contribution.
+
+Questions?
+----------
+
+If you have any questions, please email us at `{{email}} <mailto:{{email}}>`_ and let us know.
+
+.. raw:: html
+
+	<iframe src="https://forms.gle/YRo9JCUggSThtkno9?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+You can also view `the form <https://forms.gle/YRo9JCUggSThtkno9>`_ in its own page.
