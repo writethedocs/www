@@ -13,31 +13,32 @@ If you currently have a ticket to Write the Docs Portland, your options are:
 
 You can submit your choice in the form below.
 
-What we can do with your contribution
+How will your donated ticket be used
 -------------------------------------
 
 Write the Docs was founded in 2013 to build a community for documentarians. There are many communities for particular technologies, or particular areas of writing. Write the Docs is quite unique in including everyone who cares about communication, documentation, and their users. That includes programmers, tech writers, developer advocates, customer support, marketers, and anyone else who wants people to have great experiences with software.
 
 Over the years, we have grown to a community that includes:
 
-* A slack network with over 9000 members.
-* Yearly conferences on 3 continents, including years of video archives.
+* A Slack network with over 9000 members.
+* Yearly conferences on 3 continents, and video archives from all conference years.
 * Meetups in almost 50 cities.
 * A monthly newsletter with over 5000 subscribers.
+* A global job board for documentarian-friendly positions
 * An extensive documentation guide.
 
-We also do incidental activities, like our recent salary survey, and our currently exploring even more ways to support the community and help our community stay connected.
+We also run incidental activities, such as our recent salary survey, and are currently exploring even more ways to support the community and help our community stay connected.
 
 Write the Docs is self-sustaining, and events are our main source of income.
 **We have already paid over $25,000 in venue and vendor downpayments.**
 We hope to get some of this money back,
-but if we aren't able to get this money back or additional revenue this year it would put the organization at risk.
+and if we aren't able to get this money back or make additional revenue this year it would put the organization at risk.
 This is especially true if we aren't able to hold conferences again *next year*.
 
 We have many other operational expenses which our conferences pay for including:
 
 * Contractors who work on our events
-* Taxes & Bookeeping
+* Taxes & bookkeeping
 * Domain registration
 * Mailing lists
 * Email & help desk tools
@@ -46,7 +47,7 @@ We have many other operational expenses which our conferences pay for including:
 * Photo hosting
 * Many other incremental expenses
 
-Contributing the your original ticket to our organisation will help us in ensuring all our activities can continue in the future.
+Donating your ticket to the organization will help us  ensure all our activities can continue in the future.
 If you are able to, we're grateful for your contribution.
 
 Questions?
