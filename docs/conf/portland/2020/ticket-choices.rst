@@ -2,6 +2,7 @@
 
 Portland 2020 ticket choices
 ============================
+
 As we've :doc:`announced </blog/moving-portland-prague-2020-online>`, Write the Docs Portland 2020 will be a virtual conference.
 
 If you currently have a ticket to Write the Docs Portland, your options are:
@@ -14,6 +15,7 @@ You can submit your choice in the form below.
 
 What we can do with your contribution
 -------------------------------------
+
 Write the Docs was founded in 2013 to build a community for documentarians. There are many communities for particular technologies, or particular areas of writing. Write the Docs is quite unique in including everyone who cares about communication, documentation, and their users. That includes programmers, tech writers, developer advocates, customer support, marketers, and anyone else who wants people to have great experiences with software.
 
 Over the years, we have grown to a community that includes:
@@ -26,7 +28,25 @@ Over the years, we have grown to a community that includes:
 
 We also do incidental activities, like our recent salary survey, and our currently exploring even more ways to support the community and help our community stay connected.
 
-Write the Docs is self-sustaining, and events are our main source of income. Expenses had already been made for our Portland conference. With these changes to our conferences in 2020, contributing the rest of your original ticket to our organisation will help us in ensuring all our activities can continue in the future. Therefore, if you are able to, we're grateful for your contribution.
+Write the Docs is self-sustaining, and events are our main source of income.
+**We have already paid over $25,000 in venue and vendor downpayments.**
+We hope to get some of this money back,
+but if we aren't able to get additional revenue this year it would put the organization at risk.
+
+We have many other operational expenses which our conferences pay for including:
+
+* Contractors who work on our events
+* Taxes & Bookeeping
+* Domain registration
+* Mailing lists
+* Email & help desk tools
+* Job Board hosting
+* Password management 
+* Photo hosting
+* Many other incremental expenses
+
+Contributing the your original ticket to our organisation will help us in ensuring all our activities can continue in the future.
+If you are able to, we're grateful for your contribution.
 
 Questions?
 ----------
