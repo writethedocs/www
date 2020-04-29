@@ -13,8 +13,8 @@ If you currently have a ticket to Write the Docs Portland, your options are:
 
 You can submit your choice in the form below.
 
-How will your donated ticket be used
--------------------------------------
+What your money supports
+------------------------
 
 Write the Docs was founded in 2013 to build a community for documentarians. There are many communities for particular technologies, or particular areas of writing. Write the Docs is quite unique in including everyone who cares about communication, documentation, and their users. That includes programmers, tech writers, developer advocates, customer support, marketers, and anyone else who wants people to have great experiences with software.
 
@@ -45,9 +45,9 @@ We have many other operational expenses which our conferences pay for including:
 * Job Board hosting
 * Password management 
 * Photo hosting
-* Many other incremental expenses
+* Other administrative and marketing expense
 
-Donating your ticket to the organization will help us  ensure all our activities can continue in the future.
+Supporting our organization at this time ensure all our activities can continue in the future.
 If you are able to, we're grateful for your contribution.
 
 Questions?
