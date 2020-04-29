@@ -30,7 +30,7 @@ Over the years, we have grown to a community that includes:
 We also run incidental activities, such as our recent salary survey, and are currently exploring even more ways to support the community and help our community stay connected.
 
 Write the Docs is self-sustaining, and events are our main source of income.
-**We have already paid over $25,000 in venue and vendor downpayments.**
+**We have already paid over $25,000 in venue and vendor down payments.**
 We hope to get some of this money back,
 and if we aren't able to get this money back or make additional revenue this year it would put the organization at risk.
 This is especially true if we aren't able to hold conferences again *next year*.
