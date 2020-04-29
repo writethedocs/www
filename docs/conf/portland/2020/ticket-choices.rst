@@ -8,7 +8,7 @@ As we've :doc:`announced </blog/moving-portland-prague-2020-online>`, Write the 
 If you currently have a ticket to Write the Docs Portland, your options are:
 
 - Pre-order a ticket to the online event for 25% and get the rest of your original ticket amount refunded.
-- Pre-order a ticket for all of our online events until the end of 2021. This helps support the Write the Docs organization by helping us cover operating expenses for the next year and a half.
+- Convert your existing ticket into a virtual ticket pass, valid for all of our online events until the end of 2021. We plan to move Portland & Prague online this year at least, and offer similar online events next year. Support the Write the Docs organization by helping us cover operating expenses for the next year and a half.
 - Get a full refund of your original ticket amount on **May 15th, 2020**. This option will happen automatically if you don't select either of the previous options.
 
 You can submit your choice in the form below.
