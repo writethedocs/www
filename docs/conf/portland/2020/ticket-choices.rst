@@ -31,7 +31,8 @@ We also do incidental activities, like our recent salary survey, and our current
 Write the Docs is self-sustaining, and events are our main source of income.
 **We have already paid over $25,000 in venue and vendor downpayments.**
 We hope to get some of this money back,
-but if we aren't able to get additional revenue this year it would put the organization at risk.
+but if we aren't able to get this money back or additional revenue this year it would put the organization at risk.
+This is especially true if we aren't able to hold conferences again *next year*.
 
 We have many other operational expenses which our conferences pay for including:
 
