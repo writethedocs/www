@@ -19,9 +19,9 @@ Your Portland conference ticket
 
 If you currently have a ticket to Write the Docs Portland, your options are:
 
-- Pre-order a ticket to the online event for $100 and get the rest of your original ticket amount refunded.
-- Pre-order a ticket to the online event for $100 and contribute the rest of your original ticket amount to the Write the Docs organization. We are a self-sustaining community and our events are our main source of income, so your contributions help ensure that we can continue to organize events and maintain the global community in years to come.
-- Get a full refund of your original ticket amount on **May 10th, 2020**. This option will happen automatically if you don't select either of the previous options.
+- Pre-order a ticket to the online event for 25% and get the rest of your original ticket amount refunded.
+- Pre-order a ticket for all of our online events until the end of 2021. This helps support the Write the Docs organization by helping us cover operating expenses for the next year and a half.
+- Get a full refund of your original ticket amount on **May 15th, 2020**. This option will happen automatically if you don't select either of the previous options.
 
 Please fill in the :doc:`ticket processing form </conf/portland/2020/ticket-choices>` to let us know which option you prefer.
 
