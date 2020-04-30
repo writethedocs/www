@@ -15,10 +15,10 @@ photos:
 
 buttons:
   top:
-     - text: Portland will now be online
+     - text: The conference is moving online
        link_absolute: /blog/moving-portland-prague-2020-online/
      # - text: Sponsor the conference
-     #   link: /sponsors/prospectus
+       # link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
      # - text: Buy a Ticket!
@@ -36,10 +36,10 @@ buttons:
 #     - text: Watch the videos!
 #       link_absolute: /videos/portland/2020
   bottom:
-     - text: Portland will now be online
+     - text: The conference is moving online
        link_absolute: /blog/moving-portland-prague-2020-online/
-     # - text: Sponsor the conference
-     #   link: /sponsors/prospectus
+     - text: Sponsor the conference
+       link: /sponsors/prospectus
      # - text: See the talks!
      #   link: /speakers
     # - text: Buy a Ticket!

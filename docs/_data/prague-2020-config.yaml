@@ -15,7 +15,7 @@ photos:
 
 buttons:
   top:
-     - text: Important COVID-19 Update
+     - text: The conference is moving online
        link_absolute: /blog/moving-portland-prague-2020-online/
      - text: Sponsor the conference
        link: /sponsors/prospectus
@@ -38,7 +38,7 @@ buttons:
   bottom:
      - text: Sponsor the conference
        link: /sponsors/prospectus
-     - text: Important COVID-19 Update
+     - text: The conference is moving online
        link_absolute: /blog/moving-portland-prague-2020-online/
 #     - text: Submit a Talk
 #       link: /cfp
