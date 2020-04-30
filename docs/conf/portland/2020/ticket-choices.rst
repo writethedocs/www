@@ -57,6 +57,6 @@ If you have any questions, please email us at `{{email}} <mailto:{{email}}>`_ an
 
 .. raw:: html
 
-	<iframe src="https://forms.gle/YRo9JCUggSThtkno9?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtlhDd-A0WDuVc4v_mYVRkxKnAm892Y768g3PlLt8Dp_m7yw/viewform?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 You can also view `the form <https://forms.gle/YRo9JCUggSThtkno9>`_ in its own page.
