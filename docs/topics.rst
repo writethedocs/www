@@ -1,4 +1,3 @@
-New page
 All our videos and articles
 =============================
 
@@ -327,7 +326,7 @@ Docs-as-code
 - `Versioning docs with docs as code </blog/newsletter-march-2018/#docs-as-code-and-its-discontents-versioning>`__
 - `Making docs maintainable </blog/newsletter-august-2017/#making-docs-maintainable>`__
 - `What are static site generators? </blog/newsletter-june-2017/#getting-a-grip-on-static-site-generators>`__
- `Treating documentation like code: a practical account </videos/na/2017/treating-documentation-like-code-a-practical-account-jodie-putrino/>`__
+- `Treating documentation like code: a practical account </videos/na/2017/treating-documentation-like-code-a-practical-account-jodie-putrino/>`__
 - `Making Atom (even) better </blog/newsletter-october-2016/#tooling-highlight-bending-the-atom-editor-to-your-will>`__
 - `Tricks for static sites </blog/newsletter-may-2017/#last-but-not-least>`__
 - `Docs as Code: The Missing Manual </videos/eu/2016/docs-as-code-the-missing-manual-margaret-eker-jennifer-rondeau/>`__
@@ -339,7 +338,6 @@ DITA
 
 - `DITA vs docs-as-code </blog/newsletter-june-2019/#dita-vs-docs-as-code>`__
 
-
 Automation
 ~~~~~~~~~~~~~~
 
@@ -349,7 +347,6 @@ Automation
 - `Tech writing in a continuous deployment world </videos/na/2015/tech-writing-in-a-continuous-deployment-world-cburwinkle/>`__
 - `Tested and Correct, How to Make Sure Your Documentation Keeps Working </videos/eu/2015/tested-and-correct-how-to-make-sure-your-documentation-keeps-working-adangoor/>`__
 - `Generating docs from APIs </videos/eu/2015/generating-docs-from-apis-jhannaford/>`__
-
 
 Git
 ~~~~~~~
@@ -377,7 +374,6 @@ Gathering it and acting on it.
 
 - `Collecting and acting on user feedback </blog/newsletter-may-2019/#collecting-and-acting-on-user-feedback>`__
 - `Gathering user feedback </blog/newsletter-november-2018/#getting-feedback-from-users>`__
-
 
 Measuring docs success
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -414,7 +410,6 @@ Building docs culture
 - `Documentation, Disrupted How Two Technical Writers Changed Google Engineering Culture, Built a Team, Made Powerful Friends, And Got Their Mojo Back </videos/na/2015/documentation-disrupted-how-two-technical-writers-changed-google-engineering-culture-built-a-team-made-powerful-friends-and-got-their-mojo-back-rmacnamara/>`__
 - `Entry points and guide posts: Helping new contributors find their way </videos/na/2015/entry-points-and-guide-posts-helping-new-contributors-find-their-way-jswisher/>`__
 - `The Making of Writing Black Belts: How Martial Arts Philosophy Forged an Ad-Hoc Writing Team that Writes Great Docs </videos/na/2015/the-making-of-writing-black-belts-how-martial-arts-philosophy-forged-an-ad-hoc-writing-team-that-writes-great-docs-gwalli/>`__
-
 
 Building community
 ~~~~~~~~~~~~~~~~~~~~~
@@ -470,7 +465,6 @@ Customer support
 - `Only Interesting Conversations: The symbiotic relationship between docs and support </videos/na/2017/only-interesting-conversations-the-symbiotic-relationship-between-docs-and-support-matthew-buttler/>`__
 - `Documentarians and Support: Work Better Together </videos/eu/2016/documentarians-and-support-work-better-together-sarah-chambers/>`__
 - `Two Great Teams that Work Better Together: Bridging the Gap Between Documentation and Customer Support </videos/na/2016/two-great-teams-that-work-better-together-bridging-the-gap-between-documentation-and-customer-support-neal-kaplan/>`__
-
 
 Helping engineers to write
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -543,7 +537,6 @@ Defining success
 - `As Good As It Gets: Why Better Trumps Best </videos/eu/2016/pretty-hurts-why-better-trumps-best-riona-macnamara/>`__
 - `Success is More Than Not Failing </videos/na/2015/success-is-more-than-not-failing-hwaterhouse/>`__
 
-
 Theories/Philosophy
 -------------------
 
@@ -551,7 +544,6 @@ Theories/Philosophy
 - `Peanuts and Minimalism and Technical Writing </videos/au/2017/peanuts-and-minimalism-and-technical-writing-brice-fallon/>`__
 - `7 Values of Effective Tech Writing Teams </videos/na/2016/7-values-of-effective-tech-writing-teams-joao-fernandes/>`__
 - `Poll the Docs </videos/eu/2016/poll-the-docs-kata-nagygyorgy/>`__
-
 
 Maths, science and history
 -----------------------------
