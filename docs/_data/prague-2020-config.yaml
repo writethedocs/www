@@ -59,11 +59,11 @@ tickets:
   community:
     price: €600
   corporate:
-    price: €300
+    price: €TBD
   independent:
-    price: €175
+    price: €TBD
   student:
-    price: €75
+    price: €TBD
 
 sponsorship:
   first_draft:
