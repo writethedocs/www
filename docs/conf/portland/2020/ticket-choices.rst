@@ -20,10 +20,10 @@ Write the Docs was founded in 2013 to build a community for documentarians. Ther
 
 Over the years, we have grown to a community that includes:
 
-* A Slack network with over 9000 members.
+* A Slack network with over 9,000 members.
 * Yearly conferences on 3 continents, and video archives from all conference years.
 * Meetups in almost 50 cities.
-* A monthly newsletter with over 5000 subscribers.
+* A monthly newsletter with over 7,500 subscribers.
 * A global job board for documentarian-friendly positions
 * An extensive documentation guide.
 
