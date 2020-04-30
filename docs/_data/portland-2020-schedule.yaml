@@ -1,0 +1,103 @@
+writing_day:
+  - time: '8:00'
+    title: Doors Open, Breakfast Served
+  - time: '9:30'
+    title: Morning introduction - Introduction to Sprints & Project Introductions
+  - time: '9:45'
+    title: Team up and start working
+  - time: '12:30'
+    title: Lunch Break
+  - time: '5:00'
+    title: End of Writing Day, Beginning of Reception
+  - time: '8:00'
+    title: End of Reception
+
+talks_day1:
+  - time: '8:00'
+    title: Doors Open, Breakfast Served
+  - time: '9:00'
+    title: Write the Docs Team - Introduction to Write the Docs
+  - time: '9:40'
+    title: "<b>Unconference Starts (Lola's Room)</b>"
+  - time: '9:40'
+    slug: moving-beyond-empathy-a11y-in-documentation-alexandra-n-white
+  - time: '10:20'
+    slug: read-the-rules-what-technical-writers-can-learn-from-board-game-design-matthew-baldwin
+  - time: '10:50'
+    title: Snack break
+  - time: '11:10'
+    slug: writing-backwards-documenting-the-end-of-life-of-a-product-anni-bond
+  - time: '11:50'
+    slug: if-we-build-it-will-they-join-sustaining-a-community-documentation-initiative-with-sprints-amanda-stevens-kaitlin-newson
+  - time: '12:20'
+    title: Lunch (60 mins)
+  - time: '1:20'
+    title: Lightning Talks
+  - time: '2:00'
+    slug: finding-the-line-balancing-business-continuity-and-documentation-debt-luca-janssens
+  - time: '2:40'
+    slug: building-a-content-focused-scientific-document-authoring-workflow-for-data-scientists-and-engineers-alike-colin-dean
+  - time: '3:10'
+    title: Snack break
+  - time: '3:30'
+    slug: don-t-fear-migration-how-to-successfully-move-docs-to-a-new-tool-brooke-wayne
+  - time: '4:10'
+    slug: the-value-of-being-told-you-suck-hamza-alam
+  - time: '4:40'
+    title: '<b>Group Photo</b>'
+  - time: '5:00'
+    title: Day 1 wraps up
+  - time: '7:00'
+    title: '<b>Social Event</b>'
+  - time: '10:00'
+    title: '<b>Social Event Ends</b>'
+
+talks_day2:
+  - time: '8:00'
+    title: Doors Open, Breakfast Served
+  - time: '9:00'
+    slug: creating-quality-sample-code-jessica-garson
+  - time: '9:30'
+    title: Switch Speakers
+  - time: '9:40'
+    title: "<b>Job Fair Starts (Lola's Room)</b>"
+  - time: '9:40'
+    slug: collaborating-with-teams-on-content-strategy-planning-pitfalls-and-best-practices-kateryna-osadchenko
+  - time: '10:10'
+    title: Switch Speakers
+  - time: '10:20'
+    slug: model-view-docs-taming-large-scale-documentation-projects-using-structured-data-luc-perkins
+  - time: '10:50'
+    title: Snack break
+  - time: '11:10'
+    slug: architectural-models-architectural-diagrams-or-set-your-data-free-with-model-based-architecture-diagramming-avi-flax
+  - time: '11:40'
+    title: Switch Speakers
+  - time: '11:50'
+    slug: documentation-as-an-application-enabling-interactive-content-that-is-tailored-to-the-user-ryan-paul
+  - time: '12:05'
+    title: Lunch (60 mins)
+  - time: '1:05'
+    title: "Behind the Scenes with Aaron and Vanessa"
+  - time: '1:20'
+    title: Lightning Talks (30 mins)
+  - time: '1:20'
+    title: "<b>Unconference Starts (Lola's Room)</b>"
+  - time: '1:50'
+    title: Switch Speakers
+  - time: '2:00'
+    title: TBC
+  - time: '2:30'
+    title: Switch Speakers
+  - time: '2:40'
+    slug: the-search-for-search-paul-logan
+  - time: '3:10'
+    title: Switch Speakers
+  - time: '3:20'
+    slug: globalise-the-docs-lucy-carey
+  - time: '4:00'
+    slug: why-sdk-docs-matter-and-what-i-m-doing-about-it-shavindri-dissanayake-shavi
+  - time: '4:30'
+    title: Closing address
+  - time: '4:40'
+    title: "<b>Conference Ends</b> :("

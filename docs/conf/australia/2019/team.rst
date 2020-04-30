@@ -25,6 +25,16 @@ Alexandra Perkins
 
 {% include "bios/alexandra.rst" %}
 
+Samuel Wright
+~~~~~~~~~~~~~~~~~~
+
+{% include "bios/sam.rst" %}
+
+Linette Voller
+~~~~~~~~~~~~~~~~~~
+
+{% include "bios/linette.rst" %}
+
 
 Primary Roles
 -------------
@@ -35,19 +45,19 @@ Filled Roles
 ~~~~~~~~~~~~~
 
 * **Conference chair** - Swapnil Ogale
-* **Swag coordinator** - Deepti Korwar
-* **Speaker wrangler** - TBA
-* **Infrastructure chair** - TBA
-* **Lightning Talk coordinator** - TBA
+* **Swag coordinator** - Michalina Ziemba
+* **Speaker wrangler** - Linette Voller
+* **Infrastructure chair** - Samuel Wright
+* **Lightning Talk coordinator** - Catherine Huish
 * **Communication chair** - Swapnil Ogale
 * **Volunteer coordinator** - Alexandra Perkins
 * **Sponsorship** - Swapnil Ogale, Michalina Ziemba
-* **Unconference coordinator** - TBA
-* **Emcee** - TBA
+* **Unconference coordinator** - Catherine Huish
+* **Emcee** - Linette Voller
 
-Organizers Needed
+Organisers Needed
 ~~~~~~~~~~~~~~~~~
 
 * **Welcome Wagon coordinators** - TBA
 * **Explore Sydney coordinator** - TBA
-* **Social media chair** - TBA
+* **Social media chair** - Swapnil Ogale

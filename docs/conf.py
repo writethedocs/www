@@ -61,12 +61,11 @@ blog_feed_length = 10
 blog_locations = {
     'PDX': ('Portland, Oregon', 'http://www.portlandhikersfieldguide.org/'),
 }
-blog_default_location = 'PDX'
+blog_default_location = None
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 
-templates_path = ['_templates', 'include']
-templates_path.append(ablog.get_html_templates_path())
-
+templates_path = ['_templates', 'include', ablog.get_html_templates_path()]
+html_extra_path = ['_static_html']
 source_suffix = ['.rst', '.md']
 
 master_doc = 'index'
@@ -94,14 +93,15 @@ html_theme_options = {
 html_favicon = '_static/favicon/favicon-96x96.png'
 html_title = 'Write the Docs'
 html_static_path = ['_static']
+html_copy_source = False
 html_sidebars = {
     '**': [
         'about.html',
         'postcard.html',
         'info.html',
+        'searchbox.html',
         'navigation.html',
         # 'relations.html',
-        # 'searchbox.html',
     ]
 }
 
@@ -175,4 +175,7 @@ def setup(app):
     }, True)
     app.add_transform(AutoStructify)
     app.add_stylesheet('css/global-customizations.css')
+    app.add_stylesheet('css/survey.css')
     app.add_javascript('js/jobs.js')
+
+    app.config.wtd_cache = {}

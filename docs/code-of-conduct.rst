@@ -156,22 +156,22 @@ If your report concerns a member of the :ref:`core-team`, which receives emails 
 Portland conference Code of Conduct Team
 ----------------------------------------
 
-.. include:: include/conf/na-coc.rst
+.. include:: include/conf/coc/na-coc.rst
 
 Prague conference Code of Conduct Team
 --------------------------------------
 
-.. include:: include/conf/eu-coc.rst
+.. include:: include/conf/coc/eu-coc.rst
 
 Australia Code-of-Conduct Team
 ------------------------------
 
-.. include:: include/conf/au-coc.rst
+.. include:: include/conf/coc/au-coc.rst
 
 Vilnius Code-of-Conduct Team
 ------------------------------
 
-.. include:: include/conf/vilnius-coc.rst
+.. include:: include/conf/coc/vilnius-coc.rst
 
 
 Thanks

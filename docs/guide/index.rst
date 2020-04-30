@@ -45,6 +45,7 @@ Approaches to Creating Docs
 
    docs-as-code
    Producing documentation inside a Support team <writing/support-team>
+   Starting-a-new-doc
 
 * Documentation and product development
 * Who writes the docs?
@@ -71,6 +72,7 @@ Tools of the Trade
    :maxdepth: 2
 
    tools/index
+   learn-git-contribute
 
 * Keeping your documentation up to date
 * Jekyll
@@ -84,6 +86,14 @@ API Documentation
    api/languages
    api/generating-documents
    api/testing
+
+UI Text
+-----------------
+
+.. toctree::
+   :maxdepth: 2
+
+   ux-writing
 
 Distribution
 ------------
@@ -122,4 +132,8 @@ Additional Notes
 Write the Docs Resources
 ------------------------
 
-.. include:: /include/resources.rst
+* Conference: https://www.writethedocs.org/
+* Slack: `Write the Docs <http://slack.writethedocs.org/>`_
+* Twitter: http://twitter.com/writethedocs
+* Issues & feature requests: https://github.com/writethedocs/docs/issues
+* Source repository: https://github.com/writethedocs/docs

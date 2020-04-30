@@ -28,46 +28,55 @@
     to see how useful it can be to set aside time to try to see your docs from someone
     else''s point of view.</p>'
   slug: seeing-your-docs-through-different-eyes-mapping-doc-users-experiences-aaron-collier
+  youtubeId: vj7TyUgBEW8
+  series: Write the Docs PRAGUE
+  series_slug: prague
+  year: 2019
   speakers:
   - name: Aaron Collier
     slug: aaron-collier
     twitter: ' '
     website: https://collier.cz/
-  title: 'Seeing your docs through different eyes: Mapping doc users'' experiences'
-- abstract: '<p>Anyone who''s written documentation for a living knows that our jobs
+  title: 'Seeing your docs through different eyes: Mapping doc users’ experiences'
+- abstract: '<p>Anyone who’s written documentation for a living knows that our jobs
     are only, like, 50 percent writing, and 50 percent all the other stuff we have
     to do to make that writing good. Long before we ever get a word on the proverbial
     page, we spend ages getting our heads around our products and the underlying concepts
     that shape them. But how often are those underlying concepts... kind of a mess?
     And how much better would our lives be if we could help design our products so
-    they''re simpler, clearer, and easier to communicate to our users? </p>
+    they’re simpler, clearer, and easier to communicate to our users? </p>
 
-    <p>Welcome to the wonderful world of content design. Whether you''ve ever heard
-    of the discipline or not, it''s a safe bet that it already makes up a healthy
-    percentage of your work. In this talk we''re going to explore how all of the systems
+    <p>Welcome to the wonderful world of content design. Whether you’ve ever heard
+    of the discipline or not, it’s a safe bet that it already makes up a healthy
+    percentage of your work. In this talk we’re going to explore how all of the systems
     thinking, narrative building, and language crafting you already do as documentarians
     can make you an incredible asset to your product design team. </p>
 
-    <p>As two former docs folks who have made the jump to content design full time,
-    we''ll share the framework we use to communicate the value of our role on Intercom''s
-    product design team. You’ll come away with ideas for:
+    <p>As a former documentarian who’s made the jump to content design full time,
+    I’ll share a framework we''ve used at Intercom to communicate the value of our role
+    on the product design team. You’ll come away with ideas for:</p>
 
-    - how to get involved with the product design process as a documentarian
+    <ul>
 
-    - how to communicate the value of your input to a variety of different disciplines
+    <li>how to get involved with the product design process as a documentarian</li>
 
-    - and how to make the content design you''re already doing easier for people to
-    see, understand, and build upon</p>'
-  slug: surprise-youre-a-designer-now-kelly-obrien
+    <li>how to communicate the value of your input to a variety of different disciplines</li>
+
+    <li>and how to make the content design you’re already doing easier for people to
+    see, understand, and build upon</li>
+
+    <ul>'
+  slug: surprise-you-re-a-designer-now-kelly-obrien
+  youtubeId: 5jcBDWC8s-E
+  series: Write the Docs PRAGUE
+  series_slug: prague
+  year: 2019
   speakers:
   -   details: ''
       name: Kelly O'Brien
       slug: kelly-obrien
-      twitter: OBrienEditorial (Sam's not really on the twitterz)
+      twitter: OBrienEditorial
       website: ''
-  -   details: ''
-      name: Sam Weingarten
-      slug: sam-weingarten
   title: 'Surprise! You''re a designer now. '
 - abstract: '<p>In my talk, I intend to share my experience of working with employers,
     educational institutions and fellow teammates to create a difference in the field
@@ -86,6 +95,10 @@
     in the team can write. We need to understand the importance of customer-focussed
     documentation.</p>'
   slug: fostering-technical-writing-in-developing-nations-prerana-pradhan
+  youtubeId: DpYFUeeL3KY
+  series: Write the Docs PRAGUE
+  series_slug: prague
+  year: 2019
   speakers:
   - name: Prerana Pradhan
     slug: prerana-pradhan
@@ -132,6 +145,10 @@
     poetry and technical writing, and who strive to keep their creative brains enabled
     in their daily work.</p>'
   slug: wild-geeks-poetry-in-the-digital-age-ellie-farrier
+  youtubeId: KBCRUTr2u0c
+  series: Write the Docs PRAGUE
+  series_slug: prague
+  year: 2019
   speakers:
   - name: Ellie Farrier
     slug: ellie-farrier
@@ -158,10 +175,14 @@
     expertise to not only write about, but help shape the direction of projects and
     create the best possible developer experience. </p>'
   slug: write-the-api-docs-before-the-api-exists-ben-ahmady
+  youtubeId: YoeQV6PJmos
+  series: Write the Docs PRAGUE
+  series_slug: prague
+  year: 2019
   speakers:
   - name: Ben Ahmady
     slug: ben-ahmady
-    twitter: https://twitter.com/techwriterben
+    twitter: superdevx
     website: https://www.techwriterben.com/ (please note this is under construction,
       but will be finished very soon)
   title: Write the API docs before the API exists
@@ -186,6 +207,10 @@
     head first into others and - if we had the chance - whether we’d do it all again.
     </p>'
   slug: the-uk-government-meets-docs-as-code-jen-lambourne
+  youtubeId: Ql9Il7tssik
+  series: Write the Docs PRAGUE
+  series_slug: prague
+  year: 2019
   speakers:
   - name: Jen Lambourne
     slug: jen-lambourne
@@ -204,6 +229,10 @@
     narrative, and led the team to ship a fully-functional documentation system in
     time for the first release.</p>'
   slug: how-to-launch-your-startup-with-good-docs-brian-lemke
+  youtubeId: 0ilC6bjUpWI
+  series: Write the Docs PRAGUE
+  series_slug: prague
+  year: 2019
   speakers:
   - name: Brian Lemke
     slug: brian-lemke
@@ -222,6 +251,10 @@
     to pass them onto the next generation? Why make ourselves vulnerable when we can
     remain in our quiet, safe silos?</p>'
   slug: fostering-talent-mentorship-peer-reviews-and-going-beyond-your-job-description-arran-southall
+  youtubeId: rom6UW-TjNc
+  series: Write the Docs PRAGUE
+  series_slug: prague
+  year: 2019
   speakers:
   - name: Arran Southall
     slug: arran-southall
@@ -245,10 +278,14 @@
     <p>The talk addresses the aspects and elements of software documentation that
     should and be reconsidered and restyled in the light of new privacy policy regulations.</p>'
   slug: disagree-with-i-agree-enforcing-better-data-privacy-through-the-language-of-documentation-karen-sawrey
+  youtubeId: eaVRJ7teQv4
+  series: Write the Docs PRAGUE
+  series_slug: prague
+  year: 2019
   speakers:
   - name: Karen Sawrey
     slug: karen-sawrey
-    twitter: https://twitter.com/krnswry
+    twitter: krnswry
     website: https://krnswry.com/
   title: Disagree with “I Agree”. Enforcing better data privacy through the language
     of documentation
@@ -282,6 +319,10 @@
     quality of the end product but also the writers’ satisfaction with their work
     in a sustainable manner.</p>'
   slug: the-power-of-empathy-in-support-documentation-a-5-step-guide-plamena-maleva
+  youtubeId: Ymo0QcvEg5s
+  series: Write the Docs PRAGUE
+  series_slug: prague
+  year: 2019
   speakers:
   - name: Plamena Maleva
     slug: plamena-maleva
@@ -308,6 +349,10 @@
 
     </ul>'
   slug: the-super-effective-writing-process-of-grammy-winning-artists-kayla-lee
+  youtubeId: qxl3Ze7HIug
+  series: Write the Docs PRAGUE
+  series_slug: prague
+  year: 2019
   speakers:
   - name: Kayla Lee
     slug: kayla-lee
@@ -338,6 +383,10 @@
     a community code of conduct shaped docs localizations for collaborative success
     across axes of gender, language, and national identity.</p>'
   slug: found-in-translation-lessons-from-a-year-of-open-source-localization-zachary-sarah-corleissen
+  youtubeId: GXkpHAruNV8
+  series: Write the Docs PRAGUE
+  series_slug: prague
+  year: 2019
   speakers:
   - name: Zachary Sarah Corleissen
     slug: zachary-sarah-corleissen
@@ -361,6 +410,10 @@
     team-building decisions, leading to better documentation that increases customer
     satisfaction.</p>'
   slug: inclusive-environments-are-better-science-says-so-ilona-koren-deutsch
+  youtubeId: OkKLFazW9SU
+  series: Write the Docs PRAGUE
+  series_slug: prague
+  year: 2019
   speakers:
   - name: Ilona Koren-Deutsch
     slug: ilona-koren-deutsch
@@ -385,31 +438,16 @@
     comprehension before touching upon colour and design; sharing my research into
     colour psychology, cultural interpretations of colour and its impact on accessibility.</p>'
   slug: 101-to-404s-how-to-write-great-error-messages-james-scott
+  youtubeId: hzCfl8CGJuw
+  series: Write the Docs PRAGUE
+  series_slug: prague
+  year: 2019
   speakers:
   - name: James Scott
     slug: james-scott
     twitter: scottydocs
     website: http://www.documenter.co.uk
   title: '101 to 404s: How to write great error messages'
-- abstract: "<p>As technical writers, we work in highly international contexts. Most\
-    \ often with English as a shared corporate language. \nAnd we’re expected to function\
-    \ at a high level of both technical and social proficiency in English - as well\
-    \ as fluency in the various different contexts that we navigate in. </p>\n<p>This\
-    \ talk presents key findings from my studies in applied linguistics, based on\
-    \ this definition, shamelessly stolen from Wikipedia: \"[applied linguistics]\
-    \ identifies, investigates, and offers solutions to language-related real-life\
-    \ problems\", including:</p>\n<ul>\n<li>How language heritage affects our understanding\
-    \ of each others' English</li>\n<li>How humans cluster together in perceived like-minded\
-    \ groups</li>\n<li>The affects of a shared context</li>\n</ul>\n<p>I'll then give\
-    \ examples of how I use this knowledge in my daily interaction with subject matter\
-    \ experts, and how it affects my writing.</p>"
-  slug: how-i-use-applied-linguistics-to-be-a-better-technical-writer-katrine-stoica-ostenfeld
-  speakers:
-  - name: Katrine Stoica Ostenfeld
-    slug: katrine-stoica-ostenfeld
-    twitter: KatStoica
-    website: ' '
-  title: How I use applied linguistics to be a better technical writer
 - abstract: <p>This talk explores the challenges associated with documenting a project
     with a very difficult subject and having an audience with vastly different backgrounds.
     I started a project two years ago to document a database query language that was
@@ -424,6 +462,10 @@
     language and between domains and how to make information accessible without sacrificing
     meaning.</p>
   slug: documenting-known-unknowns-alison-macneil
+  youtubeId: rylqzBC3UD0
+  series: Write the Docs PRAGUE
+  series_slug: prague
+  year: 2019
   speakers:
   - name: Alison MacNeil
     slug: alison-macneil

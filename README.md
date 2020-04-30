@@ -13,19 +13,7 @@ All RST files are rendered with [Jinja](http://jinja.pocoo.org/) which allows th
 
 ### Conference pages
 
-For conference pages, a configuration per conference is automatically loaded into the Jinja context. This allows the use of things like `{{ year }}` in RST files, and have it rendered correctly. 
-
-The important locations of files are:
-
-* `_data/config-portland-2019.yaml` - This file contains the data for rendering a specific conference.
-* `_templates/2019/` - Contains the HTML templates for all conferences that year, including common pages and separate navigation menus.
-* `conf/portland/2019/` - Contains the RST files that we use for rendering the conference. Copy these over from the *previous* conference chronologically, not the previous conference in the same location.
-* `include/conf/` Contains the text snippets which are *mostly* the same between all conferences, mostly describing what our events are (eg. lightning talks and unconference). They are included via the RST files for each event. Now we've merged #738 we can add content that is conditional to each conference using Jinja.
-* `_ext/core.py` Contains the Sphinx extensions that manage injecting custom variables into our RST and Jinja templates. Specifically the `render_rst_with_jinja` and `load_conference_page_context` functions do a lot of the work.
-
-The YAML config file's name must match the year and shortcode of the conference, i.e. for `conf/portland/2019`, the YAML loaded is `_data/config-portland-2019`.
-
-Each conference also has YAML files for the schedule and speakers, in the format of `_data/2019.portland.speakers.yaml` and `_data/portland-2019-day-1.yaml`. These are rendered using Sphinx datatemplates, and also used in processes like generating video pages (a manual task, not done every time while building).
+For conferences, see [the conference site documentation](https://www.writethedocs.org/organizer-guide/confs/website/).
 
 ### Videos
 
@@ -63,12 +51,12 @@ If you run into trouble with broken links to video files, have a look at `_ext/f
 
 ### Prerequisites for generating the docs locally
 
-1. Install `python 3.6.x` using your package manager, if not installed already.
+1. Install `python 3.5.x` using your package manager, if not installed already.
    You'll probably need `root` privileges to do this.
 
 2. Generate a virtual environment for the WTD repo in the `venv` directory:
 
-    `virtualenv --python=/usr/bin/python3.6 venv`
+    `virtualenv --python=/usr/bin/python3.5 venv`
 
 ### Installing the project requirements
 
@@ -129,35 +117,5 @@ This has to be used alongside the sphinx server and it will
 automatically minify all the content in your `.scss` files to the
 `main.min.css` file. Also, `gulp` will be running browserify, allowing you
 to see the CSS changes immediately in the browser.
-
-### Generating new conf pages
-
-#### Copy and Create
-
-There are a few places you need to copy files from when spinning up a new conference site:
-
-1. The *YAML config file*. For example, copy `docs/_data/config-portland-2018.yaml` to `docs/_data/config-prague-2018.yaml`.
-   Edit the file as necessary.
-2. The *conference directory*. For example `docs/conf/portland/2018` to `docs/conf/prague/2018`.
-3. The *templates*. For example `docs/_templates/2018/base_na.html` **and** `docs/_templates/2018/na` to `docs/_templates/2018/base_eu.html` **and** `docs/_templates/2018/eu`.
-4. You might need some local content in `docs/includes/conf` and `_static`. Sphinx will probably warn you if you do.
-
-#### Search and replace
-
-Search and replace any year specific stuff (CAREFUL)
-```
-portland/2018
-```
-
-Manually update any FIXME comments
-```
-.. FIXME
-```
-
-For this whole thing to work we still need to implement these
-
-```
-.. TODO
-```
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/writethedocs/www.svg)](https://greenkeeper.io/)

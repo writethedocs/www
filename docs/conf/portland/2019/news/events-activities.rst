@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/{{year}}/assets/headers/venue.png
+:banner: _static/conf/images/headers/venue.png
 
 .. post:: March 25, 2019
    :tags: tickets, events, practical, shirts, portland-2019
@@ -39,7 +39,7 @@ New this year, we're offering free child care for attendees who are traveling wi
 Shirts on sale
 --------------
 
-Following last year's pilot, we are happy to announce that the `Write the Docs Portland 2019 Pop-Up Shop <https://teespring.com/wtd-portland-2019>`_ is now open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want!
+Following last year's pilot, we are happy to announce that the Write the Docs Portland 2019 Pop-Up Shop is now open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want!
 
 The campaign will run in 3-day batches until **May 30th**. We recommend to order your shirt at least 2-3 weeks in advance, to allow for timely delivery of your shirts ahead of the conference.
 

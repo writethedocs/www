@@ -40,7 +40,6 @@ Get more information on how to meet the community, learn new things, get involve
    about/learning-resources
    about/stay-connected
    about/about-the-org
-   code-of-conduct
 
 
 Our focus is on community, and putting on our conferences is where we spend much of our time and effort
@@ -58,12 +57,6 @@ Here are our latest events, and we hope to see you online or in person soon!
    *
    conf/*
    news/*
-   conf/na/*/*
-   conf/na/*/*/*
-   conf/eu/*/*
-   conf/eu/*/*/*
-   conf/au/*/*
-   conf/au/*/*/*
    conf/portland/*/*
    conf/portland/*/*/*
    conf/prague/*/*
@@ -74,3 +67,5 @@ Here are our latest events, and we hope to see you online or in person soon!
    conf/australia/*/*/*
    conf/vilnius/*/*
    conf/vilnius/*/*/*
+   conf/cfp/*
+   book-club/*/*

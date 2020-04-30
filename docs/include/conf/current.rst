@@ -1,7 +1,14 @@
 2020 Conferences
 ----------------
 
-- Write the Docs Portland, May 3-5, **Portland, Oregon**
+- :doc:`Write the Docs Portland 2020 </conf/portland/2020/index>`, August 2020, **Portland, Oregon**
+- :doc:`Write the Docs Prague 2020 </conf/prague/2020/index>`, Autumn 2020, **Prague, Czech Republic**
+
+Proposals
+~~~~~~~~~
+
+We are looking at doing another event in 2020, on or close to the east coast of the US.
+We have a :doc:`Call for Venues </conf/cfp/east-2020>` open for it currently.
 
 2019 Conferences
 ----------------

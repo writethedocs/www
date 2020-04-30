@@ -81,7 +81,7 @@ If you need a tax invoice or prefer to pay in cash, there are several reliable l
 
 -  `AAA Taxi <http://www.aaataxi.cz/en/>`__
 -  `Tick Tack <http://www.ticktack.cz/en>`__
--  `FIX Airport Taxi <http://www.airportcars.cz/?page=o-nas&lang=en>`__
+-  `FIX Airport Taxi <https://fix-taxi.com/>`__
 
 **IMPORTANT: Do not hail/flag taxis in the city center.** As with most major European cities, taxi scams do occur and can be easily avoided by calling in advance or using an official taxi stand (these are marked with a *TAXI* sign and a posted fact sheet in Czech and English).
 
