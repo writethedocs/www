@@ -7,7 +7,7 @@ Write the Docs Newsletter – May 2020
 
 Hello, documentarians; it's Beth here with the May edition of the Write the Docs newsletter. I hope you're all holding up okay under lockdown.
 
-We just announced last week that we're cancelling our on-site conferences in Portland and Prague, and moving online. Virtual Portland will be in August, with exact dates to be announced soon; and virtual Prague will be in the autman, with dates announced in summer. There's a lot more detail in`the blog post </blog/moving-portland-prague-2020-online/>`__, including what to do if you've already got a Portland ticket.
+We just announced last week that we're cancelling our on-site conferences in Portland and Prague, and moving online. Virtual Portland will be in August, with exact dates to be announced soon; and virtual Prague will be in the autumn, with dates announced in summer. There's a lot more detail in`the blog post </blog/moving-portland-prague-2020-online/>`__, including what to do if you've already got a Portland ticket.
 
 To help you entertain yourself between now and August, there's some good news from the Write the Docs website. We've got an extensive archive of conference talks and newsletter articles, covering all sorts of topics, but up until now it's been a bit difficult to browse them all. So I'm delighted to introduce the the `WTD content index </topics/>`__. If there's a topic you'd like to spend some time learning about, check out the index and see if your topic is there!
 
@@ -66,7 +66,7 @@ Baker’s premise in the relevant chapters (chapters 12 to 13) is that the reade
 
 The book club members listed overviews and "getting started" guides as big picture topics, and setup/requirement instructions and permission levels as details, along with any learning goals relating to “competency.”
 
-Some writers found using precise, clear titles helps keep them focused on the topic at hand; focusing on the title helps you see that anything that falls outside the title’s scope should be assigned its own article. This is more of a gut  determination than one based on metrics, though. It boils down to figuring out the user’s objective: so knowing the persona you are writing to is important when defining what 
+Some writers found using precise, clear titles helps keep them focused on the topic at hand; focusing on the title helps you see that anything that falls outside the title’s scope should be assigned its own article. This is more of a gut determination than one based on metrics, though. It boils down to figuring out the user’s objective: so knowing the persona you are writing to is important when defining what 
 topics to cover and in what depth. Do you write based on user knowledge level? How do you define what a novice is? Someone who could be new to the software may still be an expert in the industry the software services - it's not exactly fair to describe them as a novice.
 
 This is a good opportunity to think about cross-role colloaboration, too. It can be argued when writing documentation, a technical writer should simply present the information as it is; and when developing learning paths, an instructional designer can help with building the path and deciding on the appropriate learning level.
@@ -88,4 +88,3 @@ Community events coming up
 - 12 May - Ottawa, Canada - `WTD Ottawa Shopify Meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqybchbqb/>`__
 - 20 May - Toronto, Canada - `Write the Docs Toronto <https://www.meetup.com/Write-the-Docs-Toronto/events/pcqbmqybchbbc/>`__
 - 4 June - Leeds, UK - `Book club <https://www.meetup.com/Write-the-Docs-North/events/268851380/>`__
-
