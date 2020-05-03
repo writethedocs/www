@@ -147,6 +147,7 @@ if build_videos:
 notfound_no_urls_prefix = True
 
 hoverxref_auto_ref = True
+hoverxref_project = 'writethedocs-www'
 hoverxref_version = 'latest'
 
 
