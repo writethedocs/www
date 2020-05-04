@@ -11,7 +11,7 @@ yamllint==1.23.0
 pathlib==1.0.1
 git+https://github.com/ericholscher/datatemplates@add-key-and-context#egg=sphinxcontrib.datatemplates-dev
 meetup-api==0.1.1
-urllib3[secure]==1.25.8
+urllib3[secure]==1.25.9
 yamale==2.0.1
 markdown==3.2.1
 ruamel.yaml==0.16.10
