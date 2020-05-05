@@ -17,7 +17,7 @@ ruamel.yaml==0.16.5
 lxml==4.4.1
 
 # For fancy guide tooltips
-git+https://github.com/readthedocs/sphinx-hoverxref@master#egg=sphinx-hoverxref
+git+https://github.com/readthedocs/sphinx-hoverxref@unresolver
 
 # For fancy 404 pages
 sphinx-notfound-page
