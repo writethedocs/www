@@ -83,8 +83,8 @@ The **Patron** package highlights your company as a force in the industry and co
 - Name included in welcome announcement in email newsletters and social media
 - **New** 5 minute sponsored lightning talk on main stage of the conference
 - **New** One newsletter sponsorship (logo & 300 words) to our newsletter (5,000+ subscribers)
-- **New** A medium logo on all Write the Docs website pages until the end of 2020. (250,000+ pageviews)
-- **New** A small ad on the Write the Docs website (240x180px, 180 characters, 30,000 pageviews/mo) for 3 months
+- **New** A medium logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
+- **New** A small ad on the Write the Docs website (240x180px, 180 characters, 5,000 pageviews/mo) for 3 months
 
 The **Patron** package costs **{{sponsorship.patron.price}}**.
 
@@ -105,8 +105,8 @@ The **Keystone** package highlights you as our main community partner:
 - Name included in welcome announcement in email newsletters and social media
 - **New** 5 minute sponsored lightning talk on main stage of the conference
 - **New** Two newsletter sponsorships (logo & 300 words) to our newsletter (5,000+ subscribers)
-- **New** A large logo on all Write the Docs website pages until the end of 2020. (250,000+ pageviews)
-- **New** A small ad on the Write the Docs website (240x180px, 180 characters, 50,000 pageviews/mo) for 3 months
+- **New** A large logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
+- **New** A small ad on the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months
 
 The **Keystone** package costs **{{sponsorship.keystone.price}}**.
 
