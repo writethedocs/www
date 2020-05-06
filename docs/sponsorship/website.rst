@@ -31,7 +31,7 @@ and is the best way to actively sell something to our community.
 Example
 -------
 
-.. image:: _static/img/sponsors/advertising-example.png
+.. image:: /_static/img/sponsors/advertising-example.png
 
 Specs
 -----
