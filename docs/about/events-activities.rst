@@ -7,6 +7,7 @@ Events and Activities
 
    /conf/index
    /meetups/index
+   /sponsorship/index
 
 Conferences
 ~~~~~~~~~~~
@@ -23,3 +24,10 @@ Meetups
 We have meetups in multiple cities every month. To find a meetup near you, take a look at the :doc:`/meetups/index` page.
 
 If you want to start a new meetup, our :doc:`/organizer-guide/meetups/starting` page has the information that you need.
+
+
+Sponsorship
+~~~~~~~~~~~
+
+Find ways to connect with our community on the :doc:`/sponsorship/index` pages of our site.
+We have a number of diffenent options and would love your help in supporting our community.

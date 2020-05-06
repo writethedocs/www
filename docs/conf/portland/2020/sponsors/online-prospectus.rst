@@ -46,7 +46,7 @@ Second Draft
 The **Second Draft** package is great for companies looking to hire or promote a product.
 
 - **Increased** Three (3) tickets_
-- **Increased** Two (2) featured job postings on our Job Board, also promoted in our newsletter (5,000 subscribers)
+- **Increased** Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - **Increased** A short description and logo (200 words) of your company on the conference website
 - A table at our **virtual job fair**
 - Name included in welcome announcement in email newsletters and social media
@@ -59,7 +59,7 @@ Publisher
 The **Publisher** package is great for sending a team and getting to know the community.
 
 - **Increased** Seven (7) tickets_
-- **Increased** Four (4) featured job postings on our Job Board, also promoted in our newsletter (5,000 subscribers)
+- **Increased** Four (4) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - **Increased** A short description and logo (200 words) of your company on the conference website
 - A table at our **virtual job fair**
 - Name included in welcome announcement in email newsletters and social media
@@ -75,14 +75,14 @@ Patron
 The **Patron** package highlights your company as a force in the industry and community:
 
 - **Increased** Thirteen (13) tickets_
-- **Increased** Seven (7) featured job postings on our Job Board, also promoted in our newsletter (5,000 subscribers)
+- **Increased** Seven (7) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - **Increased** A medium description and logo (500 words) of your company on the conference website
 - A **virtual sponsorship booth**
 - A featured table at our **virtual job fair**
 - Small logo included in intermission slides and on talk videos
 - Name included in welcome announcement in email newsletters and social media
 - **New** 5 minute sponsored lightning talk on main stage of the conference
-- **New** One newsletter sponsorship (logo & 300 words) to our newsletter (5,000+ subscribers)
+- **New** One newsletter sponsorship (logo & 300 words) to our newsletter ({{ newsletter_subs }}+ subscribers)
 - **New** A medium logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
 - **New** A small ad on the Write the Docs website (240x180px, 180 characters, 5,000 pageviews/mo) for 3 months
 
@@ -97,14 +97,14 @@ Keystone
 The **Keystone** package highlights you as our main community partner:
 
 - **Increased** Twenty (20) tickets_
-- **Increased** Ten (10) featured job postings on our Job Board, also promoted in our newsletter (5,000 subscribers)
+- **Increased** Ten (10) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - **Increased** A large description and logo (750 words) of your company on the conference website
 - A featured **virtual sponsorship booth**
 - A featured table at our **virtual job fair**
 - Large logo included in intermission slides and on talk videos
 - Name included in welcome announcement in email newsletters and social media
 - **New** 5 minute sponsored lightning talk on main stage of the conference
-- **New** Two newsletter sponsorships (logo & 300 words) to our newsletter (5,000+ subscribers)
+- **New** Two newsletter sponsorships (logo & 300 words) to our newsletter ({{ newsletter_subs }}+ subscribers)
 - **New** A large logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
 - **New** A small ad on the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months
 
