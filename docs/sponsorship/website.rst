@@ -19,7 +19,7 @@ This sponsorship includes your company logo and a link to your site in the foote
 Cost
 ~~~~
 
-Currently our logo sponsorship costs **$500**/mo.
+Currently our logo sponsorship costs **$200/mo**.
 
 
 Advertising
@@ -42,4 +42,4 @@ Specs
 Cost
 ----
 
-We currently sell advertising for the cost of **$750 per 10,000 impressions**.
+We currently sell advertising for the cost of **$250 per 10,000 impressions**.
