@@ -12,12 +12,12 @@ Introduction
 ============
 
 Welcome to our brand new **Online Conference Sponsorship Prospectus**.
-This document has been updated from the original :doc:`prospectus` for our Portland 2020 conference,
-including new benefits and expanded value across our community.
+This document has been adapted from the original :doc:`prospectus` for our Portland 2020 conference to reflect the virtual conference,
+including new benefits and increased value across our community.
 
 We're excited to work with the organizations in our community to build the best possible event in 2020.
 In particular, we would love your feedback on sponsorship levels and benefits.
-We've expanded the offerings and have introduced a lot of new things,
+We expanded the offerings and introduced a lot of new things,
 but please let us know if there are other points of interaction with our community that would be valuable for you.
 
 Concept
@@ -49,7 +49,7 @@ The **Second Draft** package is great for companies looking to hire or promote a
 
 - **Increased** Three (3) tickets_
 - **Increased** Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- **Increased** A short description and logo (200 words) of your company on the conference website
+- **Increased** A short description (200 words) and logo of your company on the conference website
 - A table at our **virtual job fair**
 - Name included in welcome announcement in email newsletters and social media
 
@@ -62,7 +62,7 @@ The **Publisher** package is great for sending a team and getting to know the co
 
 - **Increased** Seven (7) tickets_
 - **Increased** Four (4) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- **Increased** A short description and logo (200 words) of your company on the conference website
+- **Increased** A short description (200 words) and logo of your company on the conference website
 - A table at our **virtual job fair**
 - Name included in welcome announcement in email newsletters and social media
 - **New** A small logo on all Write the Docs website pages for 3 months
@@ -78,13 +78,13 @@ The **Patron** package highlights your company as a force in the industry and co
 
 - **Increased** Thirteen (13) tickets_
 - **Increased** Seven (7) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- **Increased** A medium description and logo (500 words) of your company on the conference website
+- **Increased** A medium description (500 words) and logo of your company on the conference website
 - A **virtual sponsorship booth**
 - A featured table at our **virtual job fair**
 - Small logo included in intermission slides and on talk videos
 - Name included in welcome announcement in email newsletters and social media
 - **New** 5 minute sponsored lightning talk on main stage of the conference
-- **New** One newsletter sponsorship (logo & 300 words) to our newsletter ({{ newsletter_subs }}+ subscribers)
+- **New** One newsletter sponsorship (logo & 300 words) in our newsletter ({{ newsletter_subs }}+ subscribers)
 - **New** A logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
 - **New** A :doc:`small ad </sponsorship/website>` on the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months
 
@@ -100,13 +100,13 @@ The **Keystone** package highlights you as our main community partner:
 
 - **Increased** Twenty (20) tickets_
 - **Increased** Ten (10) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- **Increased** A large description and logo (750 words) of your company on the conference website
+- **Increased** A large description (750 words) and logo of your company on the conference website
 - A featured **virtual sponsorship booth**
 - A featured table at our **virtual job fair**
 - Large logo included in intermission slides and on talk videos
 - Name included in welcome announcement in email newsletters and social media
 - **New** 5 minute sponsored lightning talk on main stage of the conference
-- **New** Two newsletter sponsorships (logo & 300 words) to our newsletter ({{ newsletter_subs }}+ subscribers)
+- **New** Two newsletter sponsorships (logo & 300 words) in our newsletter ({{ newsletter_subs }}+ subscribers)
 - **New** A logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
 - **New** A :doc:`small ad </sponsorship/website>` on the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months
 
@@ -130,7 +130,7 @@ which provides funding for people to attend the conference.
 
 Additionally, for **{{sponsorship.publisher.price}}** we will offer exclusive sponsorship of our Opportunity Grant program.
 Please talk to us about this soon,
-as this option is removed once we have secured any sponsors for this benefit.
+as this option is removed once we have secured the required funding for this benefit.
 
 Benefits
 ~~~~~~~~
@@ -158,8 +158,7 @@ Please direct all inquiries to our sponsorship team at:
 Payment
 =======
 
-We expect all invoices to be paid **within 30 days of invoice receipt**, as many
-of our expenses must be paid up front.
+Invoices must be paid **within 30 days of invoice receipt**, or no later than one (1) week before the virtual conference.
 
 .. _ticket: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
 .. _tickets: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
@@ -168,4 +167,3 @@ Run of Show
 ===========
 
 We are still working out the run of show for the virtual event.
-
