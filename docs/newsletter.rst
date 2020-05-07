@@ -8,7 +8,7 @@ Sponsorship
 -----------
 
 If you'd like to be featured in an edition of the newsletter as a sponsor, take a look
-at the :doc:`sponsor the newsletter </newsletter/sponsorship>` page.
+at the :doc:`sponsor the newsletter </sponsorship/newsletter>` page.
 
 Sign up
 -------
