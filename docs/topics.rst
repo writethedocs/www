@@ -153,7 +153,7 @@ Writing doc sets
 ----------------
 
 - |:movie_camera:| `Delivering Documents For All Three Use Cases </videos/au/2017/delivering-documents-for-all-three-use-cases-margaret-fero/>`__
-- `What nobody tells you about documentation <videos/eu/2017/the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida/>`__
+- |:movie_camera:| `What nobody tells you about documentation </videos/eu/2017/the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida/>`__
 
 Information architecture
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -240,7 +240,7 @@ Career growth
 - |:newspaper:| `Recommended books </blog/newsletter-november-2018/#recommended-reads>`__
 - |:newspaper:| `Learning Git </blog/newsletter-april-2017/#starter-kit-for-command-line-git>`__
 - |:newspaper:| `Get started with API docs </blog/newsletter-february-2017/#getting-started-with-api-docs>`__
-- `We’re Not in Kansas Anymore: How to Find Courage while Following the Technical Doc Road <videos/na/2016/we-re-not-in-kansas-anymore-how-to-find-courage-while-following-the-technical-doc-road-christy-lutz/>`__
+- |:movie_camera:| `We’re Not in Kansas Anymore: How to Find Courage while Following the Technical Doc Road </videos/na/2016/we-re-not-in-kansas-anymore-how-to-find-courage-while-following-the-technical-doc-road-christy-lutz/>`__
 - |:movie_camera:| `IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty, and Surf the Upcoming Swerve in Technical Documentation </videos/eu/2015/imposter-no-more-how-tech-writers-can-shed-self-doubt-embrace-uncertainty-and-surf-the-upcoming-swerve-in-technical-documentation-rmacnamara/>`__
 
 Design and UX
