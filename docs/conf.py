@@ -44,6 +44,7 @@ extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
     'notfound.extension',
+    'sphinxemoji.sphinxemoji',
     'recommonmark',
 ]
 blog_baseurl = 'https://www.writethedocs.org/'
