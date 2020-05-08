@@ -45,7 +45,7 @@ The following options are suggested sponsorship levels. We are happy to discuss 
 Second Draft
 ------------
 
-The **Second Draft** package is great for companies looking to hire or promote a product.
+The **Second Draft** package is great for companies looking to hire or to promote a product.
 
 - **Increased** Three (3) tickets_
 - **Increased** Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
