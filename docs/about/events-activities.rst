@@ -30,4 +30,4 @@ Sponsorship
 ~~~~~~~~~~~
 
 Find ways to connect with our community on the :doc:`/sponsorship/index` pages of our site.
-We have multiple sponsorship levels with different perks, and we would love your help in supporting our community.
+Pick a sponsorship level and perks that suit you. We would love your help in supporting our community.
