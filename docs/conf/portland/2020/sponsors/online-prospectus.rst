@@ -86,7 +86,7 @@ The **Patron** package highlights your company as a force in the industry and co
 - **New** 5 minute sponsored lightning talk on main stage of the conference
 - **New** One newsletter sponsorship (logo & 300 words) in our newsletter ({{ newsletter_subs }}+ subscribers)
 - **New** A logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
-- **New** A :doc:`small ad </sponsorship/website>` on the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months
+- **New** A :doc:`small ad </sponsorship/website>` displayed on all non-conferences pages of the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months.
 
 The **Patron** package costs **{{sponsorship.patron.price}}**.
 
