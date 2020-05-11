@@ -40,8 +40,6 @@ Sponsorship Packages
 
 The following options are suggested sponsorship levels. We are happy to discuss adjustments and custom packages.
 
-.. warning:: This is a draft prospectus and is subject to change.
-
 Second Draft
 ------------
 
@@ -111,8 +109,6 @@ The **Keystone** package highlights you as our main community partner:
 - **New** A :doc:`small ad </sponsorship/website>` on the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months
 
 The **Keystone** package costs **{{sponsorship.keystone.price}}**.
-
-.. warning:: This is a draft prospectus and is subject to change.
 
 Other Sponsorship Opportunities
 ===============================
