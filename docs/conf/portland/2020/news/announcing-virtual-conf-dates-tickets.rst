@@ -24,21 +24,24 @@ If you have chosen to convert your :doc:`previously bought ticket </conf/portlan
 virtual pass, or a pre-order for the virtual Portland 2020 conference, you will receive further
 details by e-mail within the next week.
 
-We are aiming to include all our speakers in the virtual conference, but still confirming
-their availability.
+We are aiming to include all our speakers in the virtual conference, but still confirming their availability.
 
 Our opportunity grant will also re-open together with ticket sales in a modified format. Details will be published next week.
-Thanks to our sponsors
-----------------------
+
+Sponsorship update
+------------------
+
+We have drafted a new `online sponsorship prospectus`_ for the conference.
+We are hoping our existing sponsors will be excited about the new benefits,
+and are open to new sponsorship requests for this event.
+
+.. _online sponsorship prospectus: https://www.writethedocs.org/conf/portland/2020/sponsors/online-prospectus/
 
 We are so grateful to have our sponsors help in bringing these events to life every year. Thanks sincerely to the following companies for supporting the Write the Docs community:
 
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-config.yaml
    :template: {{year}}/sponsors-simplelist.rst
-
-Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/portland/2020/sponsors/prospectus/>`_ for details on how your company can get involved!
-We have several types of sponsorship available, including tables at the job fair that we'll be hosting on Tuesday.
 
 And that's the latest on the Portland conference. We hope you're all getting as excited as we are! Stay tuned for more details.
 
