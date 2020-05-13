@@ -15,12 +15,12 @@ photos:
 
 buttons:
   top:
-     - text: The conference is moving online
-       link_absolute: /blog/moving-portland-prague-2020-online/
-     - text: Buy a Ticket!
-       link: /tickets
-         # - text: Sponsor the conference
-       # link: /sponsors/prospectus
+    - text: The conference is online
+      link_absolute: /blog/moving-portland-prague-2020-online/
+    - text: Sponsor us
+      link: /sponsors/prospectus
+     # - text: Buy a Ticket!
+     #   link: /tickets
     # - text: Submit a Talk
     #   link: /cfp
     # - text: See the talks!
@@ -76,9 +76,9 @@ sponsorship:
     price: $17,000
 
 date: # how do we handle these? human readable would be nice.
-  main: "**August, 2020, in Portland, Oregon**"
-  short: Aug, 2020
-  tickets_live: "January 2020"
+  main: "**August 9-11, 2020, in Portland, Oregon**"
+  short: Aug 9-11, 2020
+  tickets_live: "May 25, 2020"
   month: August
   day_one:
     event: Hike
@@ -165,7 +165,7 @@ sponsors:
 flaglanding: False
 flaghassponsors: True
 flagcfp: False
-flagticketsonsale: True
+flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: True
 flaghasschedule: False
