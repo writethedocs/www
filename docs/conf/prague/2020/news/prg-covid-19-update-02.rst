@@ -16,7 +16,7 @@ The most recent COVID-19 update is:
 
 Hello everyone,
 
-Since our :doc:`first announcement </conf/prague/2020/news/covid-19-update-01>` two weeks ago, we've been following the COVID-19 updates from the relevant authorities. At the time of writing this update, Czech Republic is still under lockdown and the government predicts that this situation will continue for at least a month.
+Since our :doc:`first announcement </conf/prague/2020/news/prg-covid-19-update-01>` two weeks ago, we've been following the COVID-19 updates from the relevant authorities. At the time of writing this update, Czech Republic is still under lockdown and the government predicts that this situation will continue for at least a month.
 
 Given the uncertainty of the long-term impact of this situation, we have decided to **postpone the Call for Proposals and ticket sales until at least 1st May, 2020**. We hope that by then we will have more information to determine whether to proceed with the conference on the original dates, postpone the conference, or cancel the conference altogether.
 

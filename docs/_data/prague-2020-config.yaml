@@ -15,6 +15,8 @@ photos:
 
 buttons:
   top:
+     - text: The conference is moving online
+       link_absolute: /blog/moving-portland-prague-2020-online/
      - text: Sponsor the conference
        link: /sponsors/prospectus
     # - text: Submit a Talk
@@ -36,6 +38,8 @@ buttons:
   bottom:
      - text: Sponsor the conference
        link: /sponsors/prospectus
+     - text: The conference is moving online
+       link_absolute: /blog/moving-portland-prague-2020-online/
 #     - text: Submit a Talk
 #       link: /cfp
     # - text: Buy a Ticket!
@@ -55,11 +59,11 @@ tickets:
   community:
     price: €600
   corporate:
-    price: €300
+    price: €TBD
   independent:
-    price: €175
+    price: €TBD
   student:
-    price: €75
+    price: €TBD
 
 sponsorship:
   first_draft:
@@ -74,25 +78,25 @@ sponsorship:
     price: €15000
 
 date: # how do we handle these? human readable would be nice.
-  main: "**September 13-15, 2020, in Prague, Czech Republic**"
-  short: Sep 13-15, 2020
-  tickets_live: "March 2020"
+  main: "**Autumn, 2020, in Prague, Czech Republic**"
+  short: Autumn, 2020
+  tickets_live: "Summer 2020"
   month: September
   day_one:
     event: Boat Ride
-    date: September 12
-    summary: If you're in town early, join us for the Boat Ride. Prague features beautiful architectural and historical monuments along the river, and being on the water is an excellent way to sample the highlights.
+    date: On your own
+    summary: We encourage you to go on a boat ride or walk in your own beautiful home town.
     icon: boat
     dotw: Saturday
   day_two:
     event: Writing Day
-    date: September 13
+    date: Autumn
     summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
     icon: writing
     dotw: Sunday
   day_three:
     event: Main Conference
-    date: September 14-15
+    date: Autumn
     summary: The main days of the conference. We will be running our main track in the main room, and the Unconference in the small room.
     icon: conference
     dotw: Monday/Tuesday
