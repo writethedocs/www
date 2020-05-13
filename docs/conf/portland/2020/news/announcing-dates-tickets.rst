@@ -3,31 +3,31 @@
 .. post:: May 14, 2020
    :tags: portland-2020, speakers, tickets, visiting, sponsors
 
-Announcing ticket sales and dates
+Announcing virtual conference dates and ticket sales
 =================================
 
-As we've :doc:`announced </blog/moving-portland-prague-2020-online>`, Write the Docs Portland 2020 will be a virtual conference.
+As we :doc:`announced </blog/moving-portland-prague-2020-online>`, Write the Docs Portland 2020 will be a virtual conference.
 
-We've decided to keep the dates as previously announced: the writing day is on
+We decided to keep the dates as previously announced: the writing day is on
 **{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}}, 9am-6pm {{tz}}**,
-and the main conference days on **{{date.day_three.dotw}}, {{date.month}} {{date.day_three.date}}, 9am-6pm {{tz}}**
+and the main conference days are on **{{date.day_three.dotw}}, {{date.month}} {{date.day_three.date}}, 9am-6pm {{tz}}**
 
-We have reopened :doc:`ticket sales </{{shortcode}}/{{year}}/tickets>`. Your virtual ticket includes:
+**Ticket sales will re-open on Monday, May 25th**. Check out the :doc:`Tickets page </{{shortcode}}/{{year}}/tickets>` for prices. Your virtual ticket includes:
 
-* Live streaming of all talks
+* Live streaming of all talks (available for ticket-holders only)
 * Q&A with speakers after each talk (may not be available for all speakers)
 * Access to the conference chat with all other attendees, speakers and sponsors
 * Access to the writing day
 * The virtual job fair
 
-If you have chosen to :doc:`previously bought ticket </conf/portland/2020/ticket-choices>` into a
+If you have chosen to convert your :doc:`previously bought ticket </conf/portland/2020/ticket-choices>` into a
 virtual pass, or a pre-order for the virtual Portland 2020 conference, you will receive further
 details by e-mail within the next week.
 
 We are aiming to include all our speakers in the virtual conference, but still confirming
 their availability.
 
-
+Our opportunity grant will also re-open together with ticket sales in a modified format. Details will be published next week.
 Thanks to our sponsors
 ----------------------
 

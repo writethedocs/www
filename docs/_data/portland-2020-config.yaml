@@ -57,9 +57,9 @@ buttons:
 
 tickets:
   corporate:
-    price: 125
+    price: 150
   independent:
-    price: 75
+    price: 100
   student:
     price: 25
 
