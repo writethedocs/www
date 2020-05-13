@@ -57,11 +57,11 @@ buttons:
 
 tickets:
   corporate:
-    price: 150
+    price: $150
   independent:
-    price: 100
+    price: $100
   student:
-    price: 25
+    price: $25
 
 sponsorship:
   first_draft:
