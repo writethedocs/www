@@ -4,7 +4,7 @@
    :tags: portland-2020, speakers, tickets, visiting, sponsors
 
 Announcing virtual conference dates and ticket sales
-=================================
+====================================================
 
 As we :doc:`announced </blog/moving-portland-prague-2020-online>`, Write the Docs Portland 2020 will be a virtual conference.
 

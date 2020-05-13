@@ -15,8 +15,8 @@ photos:
 
 buttons:
   top:
-    - text: The conference is online
-      link_absolute: /blog/moving-portland-prague-2020-online/
+    - text: Date and ticket information
+      link: /news/announcing-virtual-conf-dates-tickets
     - text: Sponsor us
       link: /sponsors/prospectus
      # - text: Buy a Ticket!
@@ -36,8 +36,8 @@ buttons:
 #     - text: Watch the videos!
 #       link_absolute: /videos/portland/2020
   bottom:
-     - text: The conference is moving online
-       link_absolute: /blog/moving-portland-prague-2020-online/
+     - text: Date and ticket information
+       link: /news/announcing-virtual-conf-dates-tickets
      - text: Sponsor the conference
        link: /sponsors/prospectus
      # - text: See the talks!
