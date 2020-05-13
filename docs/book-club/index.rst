@@ -8,7 +8,38 @@ Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel.
    :local:
    :depth: 1
    :backlinks: none
-   
+
+June - July 2020: How to Make Sense of Any Mess
+===============================================
+
+| Author: Abby Covert
+| Paperback ISBN: 9781500615994
+| Online: `How to Make Sense of Any Mess <http://www.howtomakesenseofanymess.com/>`_.
+| Also available on Kindle
+
+
+#. **June 15-19**
+
+   * Chapter 1 *Identify the Mess*
+   * Chapter 2 *State Your Intent*
+
+#. **June 22-26**
+
+   * Chapter 3 *Face Reality*
+   * Chapter 4 *Choose a Direction*
+
+#. **June 29 - July 3**
+
+   * Chapter 5 *Measure the Distance*
+   * Chapter 6 *Play with Structure*
+
+#. **July 6-10**
+
+   * Chapter 7 *Prepare to Adjust*
+
+
+..
+
 March - May 2020: Every Page is Page One
 ========================================
 
