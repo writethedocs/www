@@ -84,8 +84,7 @@ Reception
 ~~~~~~~~~
 
 We encourage everyone to drop by on Sunday evening for the conference reception.
-You'll have a chance to get acquainted with each other over some drinks and snacks.
-We'll also help groups organize dinner plans, so you can continue your conversations over more substantial food as well.
+We're hoping to have some fun activities planned for the evening online.
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **17:00-20:00**
@@ -138,11 +137,9 @@ Monday Night Social
 ~~~~~~~~~~~~~~~~~~~
 
 The official Write the Docs social!
-
-This event is for **conference attendees only**. Please bring your badge to be let into the venue.
-There will be light snacks and drinks available on the conference while our tab lasts.
-
-Further details will be announced later.
+Further details will be announced later,
+but expect some music and games,
+and bring your favorite beverage along to the computer :)
 
 Tuesday, August 11
 ------------------
