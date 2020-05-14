@@ -64,7 +64,7 @@ The Writing Day and Welcome Reception will be held at the **{{about.venue}}**.
 Writing Day
 ~~~~~~~~~~~
 
-* **Where**: {{about.venue}}, {{about.mainroom}}
+* **Where**: {{about.venue}}, {{about.unconference}}
 * **When**: **9:00-17:00**
 * **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
