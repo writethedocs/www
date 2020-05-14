@@ -55,8 +55,11 @@ Members
 
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_ *
 * `Neal Kaplan <https://twitter.com/nealkaplan>`_
+* `Janine Chan <https://www.linkedin.com/in/janinechan/>`_ 
+* `Daniel Beck <https://twitter.com/ddbeck>`_
 * `Mike Jang <https://twitter.com/themikejang>`__
 * `Eric Holscher <https://twitter.com/ericholscher>`_
+* `Samuel Wright <https://twitter.com/plaindocs>`_ 
 
 
 Meetup Coordination Team
