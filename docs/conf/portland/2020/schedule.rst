@@ -80,6 +80,8 @@ Writing Day
   A detailed schedule will be announced soon.
 {% endif %}
 
+{% if flaghasfood %}
+
 Reception
 ~~~~~~~~~
 
@@ -88,6 +90,8 @@ We're hoping to have some fun activities planned for the evening online.
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **17:00-20:00**
+
+{% endif %}
 
 Monday, August 10 
 -----------------
