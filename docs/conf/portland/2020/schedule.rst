@@ -11,8 +11,13 @@ Each year we organize a wide range of events so that people can come together, c
     :depth: 1
     :backlinks: none
 
+
+{% if flaghashike or flaghasboat %}
+
 {{date.day_one.dotw}}, {{date.day_one.date}}
 --------------------------------------------------
+
+{% endif %}
 
 {% if flaghashike %}
 
@@ -46,7 +51,11 @@ Further details will be announced later.
 
 The Writing Day and Welcome Reception will be held at the **{{about.venue}}**.
 
+{% if flaghasfood %}
+
 *Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+
+{% endif %}
 
 .. contents::
     :local:
@@ -91,7 +100,11 @@ Monday, August 10
 This is the main event! Hear from lots of interesting folks about all things documentation.
 We will have talks all day on the main stage, and a unconference session running in parallel in the afternoon.
 
+{% if flaghasfood %}
+
 *Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+
+{% endif %}
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
@@ -140,7 +153,11 @@ Tuesday, August 11
 
 And the conference goes on!
 
+{% if flaghasfood %}
+
 *Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+
+{% endif %}
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
