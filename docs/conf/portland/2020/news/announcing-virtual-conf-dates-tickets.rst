@@ -12,7 +12,7 @@ We decided to keep the dates as previously announced: the writing day is on
 **{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}}, 9am-6pm {{tz}}**,
 and the main conference days are on **{{date.day_three.dotw}}, {{date.month}} {{date.day_three.date}}, 9am-6pm {{tz}}**
 
-**Ticket sales will re-open on Monday, May 25th**. Check out the :doc:`Tickets page </{{shortcode}}/{{year}}/tickets>` for prices. Your virtual ticket includes:
+**Ticket sales will re-open on Monday, May 25th**. Check out the :doc:`tickets page </conf/{{shortcode}}/{{year}}/tickets>` for prices. Your virtual ticket includes:
 
 * Live streaming of all talks (available for ticket-holders only)
 * Q&A with speakers after each talk (may not be available for all speakers)
