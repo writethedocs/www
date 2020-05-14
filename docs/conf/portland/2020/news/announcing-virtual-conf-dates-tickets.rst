@@ -9,8 +9,8 @@ Announcing virtual conference dates and ticket sales
 As we :doc:`announced </blog/moving-portland-prague-2020-online>`, Write the Docs Portland 2020 will be a virtual conference.
 
 We decided to keep the dates as previously announced: the writing day is on
-**{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}}, 9am-6pm {{tz}}**,
-and the main conference days are on **{{date.day_three.dotw}}, {{date.month}} {{date.day_three.date}}, 9am-6pm {{tz}}**
+**{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}}, 9am-5pm {{tz}}**,
+and the main conference days are on **{{date.day_three.dotw}}, {{date.month}} {{date.day_three.date}}, 9am-5pm {{tz}}**
 
 **Ticket sales will re-open on Monday, May 25th**. Check out the :doc:`tickets page </conf/{{shortcode}}/{{year}}/tickets>` for prices. Your virtual ticket includes:
 
