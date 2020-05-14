@@ -11,8 +11,13 @@ Each year we organize a wide range of events so that people can come together, c
     :depth: 1
     :backlinks: none
 
+
+{% if flaghashike or flaghasboat %}
+
 {{date.day_one.dotw}}, {{date.day_one.date}}
 --------------------------------------------------
+
+{% endif %}
 
 {% if flaghashike %}
 
@@ -46,7 +51,11 @@ Further details will be announced later.
 
 The Writing Day and Welcome Reception will be held at the **{{about.venue}}**.
 
+{% if flaghasfood %}
+
 *Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+
+{% endif %}
 
 .. contents::
     :local:
@@ -55,7 +64,7 @@ The Writing Day and Welcome Reception will be held at the **{{about.venue}}**.
 Writing Day
 ~~~~~~~~~~~
 
-* **Where**: {{about.venue}}, {{about.mainroom}}
+* **Where**: {{about.venue}}, {{about.unconference}}
 * **When**: **9:00-17:00**
 * **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
@@ -71,15 +80,18 @@ Writing Day
   A detailed schedule will be announced soon.
 {% endif %}
 
+{% if flaghasfood %}
+
 Reception
 ~~~~~~~~~
 
 We encourage everyone to drop by on Sunday evening for the conference reception.
-You'll have a chance to get acquainted with each other over some drinks and snacks.
-We'll also help groups organize dinner plans, so you can continue your conversations over more substantial food as well.
+We're hoping to have some fun activities planned for the evening online.
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **17:00-20:00**
+
+{% endif %}
 
 Monday, August 10 
 -----------------
@@ -91,7 +103,11 @@ Monday, August 10
 This is the main event! Hear from lots of interesting folks about all things documentation.
 We will have talks all day on the main stage, and a unconference session running in parallel in the afternoon.
 
+{% if flaghasfood %}
+
 *Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+
+{% endif %}
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
@@ -125,11 +141,9 @@ Monday Night Social
 ~~~~~~~~~~~~~~~~~~~
 
 The official Write the Docs social!
-
-This event is for **conference attendees only**. Please bring your badge to be let into the venue.
-There will be light snacks and drinks available on the conference while our tab lasts.
-
-Further details will be announced later.
+Further details will be announced later,
+but expect some music and games,
+and bring your favorite beverage along to the computer :)
 
 Tuesday, August 11
 ------------------
@@ -140,7 +154,11 @@ Tuesday, August 11
 
 And the conference goes on!
 
+{% if flaghasfood %}
+
 *Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+
+{% endif %}
 
 Conference Talks
 ~~~~~~~~~~~~~~~~

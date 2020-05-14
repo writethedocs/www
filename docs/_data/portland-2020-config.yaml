@@ -104,7 +104,7 @@ date: # how do we handle these? human readable would be nice.
   total_talk_days: 2
 
 about:
-  attendees: 500
+  attendees: 700
   summary:
     "The main presentation track takes place from **August 10-11 (Monday and Tuesday) from 9am to 6pm**.
     We will return to the historic `Crystal Ballroom <http://www.mcmenamins.com/CrystalBallroom>`_, `centrally located <http://goo.gl/maps/D2WrJ>`_ in the heart of Portland.
@@ -112,14 +112,14 @@ about:
 
     You can find out more information about the venue and its accessibility on our :doc:`/conf/portland/2020/venue` page."
   venue:
-    "Crystal Ballroom located at 1332 W Burnside St"
+    "Online, platform to be determined"
   photos: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
   mainroom:
-    Main Ballroom
+    "Video area"
   unconfroom:
-    Unconference Room, across from the Main Ballroom
+    "Chat area"
   projector_ratio: "16:9"
-  job_fair_room: Unconference Room, across from the Main Ballroom
+  job_fair_room: "Sponsor area"
 
 cfp:
   url: https://docs.google.com/forms/d/e/1FAIpQLSfXD-hlTzSDTrpuYkguUwXq1OtKDOZQazzdNqWmSKO5H0hWLQ/viewform
@@ -175,7 +175,7 @@ flaglivestreaming: False
 flagpostconf: False
 
 # Truthy things that don't change
-flaghashike: True
+flaghashike: False
 flaghasboat: False
 flaghaswritingday: True
 flaghasbadgeflair: False
