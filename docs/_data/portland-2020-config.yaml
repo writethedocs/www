@@ -15,14 +15,14 @@ photos:
 
 buttons:
   top:
-     - text: The conference is moving online
-       link_absolute: /blog/moving-portland-prague-2020-online/
-     # - text: Sponsor the conference
-       # link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #   link: /cfp
+    - text: Date and ticket information
+      link: /news/announcing-virtual-conf-dates-tickets
+    - text: Sponsor us
+      link: /sponsors/prospectus
      # - text: Buy a Ticket!
      #   link: /tickets
+    # - text: Submit a Talk
+    #   link: /cfp
     # - text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
@@ -36,8 +36,8 @@ buttons:
 #     - text: Watch the videos!
 #       link_absolute: /videos/portland/2020
   bottom:
-     - text: The conference is moving online
-       link_absolute: /blog/moving-portland-prague-2020-online/
+     - text: Date and ticket information
+       link: /news/announcing-virtual-conf-dates-tickets
      - text: Sponsor the conference
        link: /sponsors/prospectus
      # - text: See the talks!
@@ -57,11 +57,11 @@ buttons:
 
 tickets:
   corporate:
-    price: $TBD
+    price: $150
   independent:
-    price: $TBD
+    price: $100
   student:
-    price: $TBD
+    price: $25
 
 sponsorship:
   first_draft:
@@ -76,9 +76,9 @@ sponsorship:
     price: $17,000
 
 date: # how do we handle these? human readable would be nice.
-  main: "**August, 2020, in Portland, Oregon**"
-  short: Aug, 2020
-  tickets_live: "January 2020"
+  main: "**August 9-11, 2020, in Portland, Oregon**"
+  short: Aug 9-11, 2020
+  tickets_live: "May 25, 2020"
   month: August
   day_one:
     event: Hike
@@ -89,14 +89,14 @@ date: # how do we handle these? human readable would be nice.
     dotw: Saturday
   day_two:
     event: Writing Day
-    date: August
+    date: August 9
     summary: Join us for the <a href="/conf/portland/2020/writing-day/">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
     #summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
     icon: writing
     dotw: Sunday
   day_three:
     event: Main Conference
-    date: August 
+    date: August 10-11
     summary: The main days of the conference. We will be running our main track in the ballroom, and the <a href="/conf/portland/2020/unconference/">Unconference</a> in Lola's Room.
     #summary: The main days of the conference. We will be running our main track in the ballroom, and the Unconference in Lola's Room.
     icon: conference
@@ -165,7 +165,7 @@ sponsors:
 flaglanding: False
 flaghassponsors: True
 flagcfp: False
-flagticketsonsale: True
+flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: True
 flaghasschedule: False

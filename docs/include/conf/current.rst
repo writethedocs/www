@@ -1,7 +1,7 @@
 2020 Conferences
 ----------------
 
-- :doc:`Write the Docs Portland 2020 </conf/portland/2020/index>`, August 2020, **Portland, Oregon**
+- :doc:`Write the Docs Portland 2020 </conf/portland/2020/index>`, August 9-11, **Portland, Oregon**
 - :doc:`Write the Docs Prague 2020 </conf/prague/2020/index>`, Autumn 2020, **Prague, Czech Republic**
 
 Proposals
