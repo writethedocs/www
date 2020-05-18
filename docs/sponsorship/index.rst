@@ -1,5 +1,5 @@
-Community Sponsorship Options
-=============================
+Community Sponsorship
+=====================
 
 We support our community in a variety of ways, and you can choose to focus 
 your sponsorship on any one of them, at a level that suits you:
