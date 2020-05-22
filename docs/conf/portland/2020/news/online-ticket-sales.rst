@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: May 22, 2020
+.. post:: May 26, 2020
    :tags: portland-2020, tickets
 
 
@@ -8,25 +8,29 @@ Tickets on sale for the Portland virtual conference
 ===================================================
 
 We're excited to announce that tickets are on sale for our Portland virtual conference.
+More details will be coming soon,
+but we're getting excited for the accessibility of the new format,
+and can't wait to try out a few new ideas this year.
 
 Get your ticket for the conference
 ----------------------------------
 
-**The Portland conference will be online from {{ date.short }}.** The `full event website <https://www.writethedocs.org/conf/portland/2020/>`_ is live, with some preliminary details, and we'll be filling in more as it gets closer. We're already excited to see what this year has in store!
+**The Portland conference will be online on {{ date.short }}.** The `full event website <https://www.writethedocs.org/conf/portland/2020/>`_ is live, with some preliminary details, and we'll be filling in more as it gets closer.
 
-If you're excited too, go ahead and `register for your ticket now <https://www.writethedocs.org/conf/portland/2020/tickets/>`_! We aren't sure exactly what capacity we will be able to hold for the online event, but we might still sell out to make sure we're providing a small group event.
+If you're excited too, go ahead and `register for your ticket now <https://www.writethedocs.org/conf/portland/2020/tickets/>`_! We aren't sure exactly what capacity we will be able to hold for the online event, but we might still sell out to make sure we're providing a managable event side for our attendees, as always.
 
 We're still working out all the details for our online event,
 but know that we're going to keep as much of the spirit of the event alive:
 
-* Excellent single track of presentations
+* Excellent single track of presentations -- now with moderated Q&A at the end!
 * Writing Day
 * Unconference sessions
 * Job Fair
 * Sponsor booths
 * A virtual hallway track
+* A social event of some kind, bring your own beverage and snacks :)
   
-We really want to make sure that folks can get value from being there in person,
+We really want to make sure that folks can get value from being at the event at the same time,
 and we think it will be another great year of helping our community connect.
 
 Grant program
@@ -36,17 +40,15 @@ We have updated our grant program application to take into account the online fo
 We're excited to be able to offer free tickets to a larger number of people this year,
 since there are now minimal other costs to attend the event.
 
-You can apply by June 5th, 2020, Midnight PST on `our website <https://www.writethedocs.org/conf/portland/2020/opportunity-grants/>`_.
-
+You can apply by **June 5th, 2020, Midnight PST** on `our website <https://www.writethedocs.org/conf/portland/2020/opportunity-grants/>`_.
 
 Support our community by sponsoring
 -----------------------------------
 
 Every year we are fortunate to have the support of like-minded organizations and communities, who believe in the collaborative and welcoming community spirit and help us make our events great.
 
-We have drafted a new `online sponsorship prospectus`_ for the conference.
-We are hoping our existing sponsors will be excited about the new benefits,
-and are open to new sponsorship requests for this event.
+We have drafted a new `online sponsorship prospectus`_ for the conference,
+and are open for new sponsorship inquiries.
 
 .. _online sponsorship prospectus: https://www.writethedocs.org/conf/portland/2020/sponsors/online-prospectus/
 
