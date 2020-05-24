@@ -21,7 +21,7 @@
   speakers:
   - name: Colin Dean
     slug: colin-dean
-    avatar: 
+    avatar:
   abstract: '<p>I observed a white paper authoring collaboration workflow problem
     at my Forbes 50 employer wherein a tedious workflow around legacy tooling caused
     undue stress, headaches, rework, and, ultimately, a cosmetically poor-looking
@@ -99,7 +99,7 @@
   speakers:
   - name: Luc Perkins
     slug: luc-perkins
-    avatar: 
+    avatar:
   abstract: '<p>Solid documentation almost always involves skillfully wordsmithed
     narrative text. But in the contemporary software landscape, narrative text increasingly—yet
     not always comfortably—lives alongside information generated from structured data
@@ -123,7 +123,7 @@
   speakers:
   - name: Kateryna Osadchenko
     slug: kateryna-osadchenko
-    avatar: 
+    avatar:
   abstract: '<p>I want to discuss the pitfalls and best practices/workarounds of planning
     a content strategy and importance of finding the right approach, tone, and voice
     of your content when collaborating with teams of developers, designers, and product
@@ -145,7 +145,7 @@
   speakers:
   - name: Paul Logan
     slug: paul-logan
-    avatar: 
+    avatar:
   abstract: '<p>In q4 of 2019 Slack implemented an oft-requested documentation feature:
     site search. In this talk I''ll tell the story of technical and social considerations
     that went into implementing search on api.slack.com and the philosophy that''s
@@ -161,67 +161,6 @@
     results while gently directing them away from old API''s and unsupported features.
     I''ll discuss options like visual indicators of age on a search result, smart
     catalog building/prioritization, and the cost of manually adjusting search. </p>'
-- title: The value of being told you suck
-  slug: the-value-of-being-told-you-suck-hamza-alam
-  series: Write the Docs Portland
-  series_slug: the-value-of-being-told-you-suck-hamza-alam
-  year: 2020
-  speakers:
-  - name: Hamza Alam
-    slug: hamza-alam
-    avatar: 
-  abstract: '<p>"Developer experience is important to us". "Our documentation is top
-    tier". "Developers love us!" </p>
-
-    <p>Do you ever hear companies say these things and wonder to yourself, do developers
-    really love you? Rest assured I’m not here to tell you any of the above. Rather,
-    I’m here to tell you that everything "sucks" to someone. But guess what? That’s
-    not a bad thing, because I’ve found that it’s in the negative feedback that companies
-    can find value. </p>
-
-    <p>In my talk, I will discuss how I implemented a CSAT (customer satisfaction)
-    button on all of Twitter''s developer docs to measure the experience developers
-    visiting our pages had. If you build APIs, it’s your responsibility to put together
-    meaningful documentation that doesn’t suck.</p>
-
-    <p>I’ll walk the audience through the 9-month process of how I gave birth to the
-    whole CSAT process, from the early-mid-end stages of putting together the CSAT
-    button late last year, to understanding how the DevRel team reacted to the data
-    we got back. </p>
-
-    <p>Once I implemented the CSAT button, I then defined how we’d react and respond
-    to the data. Immediately we received feedback from developers on the CSAT. A lot
-    of feedback! Rather than seeing these CSAT page metrics as raw numbers put together
-    in an excel sheet, I came up with a health score system that benchmarked pages
-    and determined which categories were ‘healthy’ and which were ‘unhealthy’. </p>
-
-    <p>I’ll also share some interesting metrics with the audience on where we started,
-    and how since using the CSAT feedback we’ve increased our scores. Several metrics
-    I can share right now are:</p>
-
-    <ul>
-
-    <li>51% of developers that selected the negative option provided additional feedback</li>
-
-    <li>Twitters new Developer Labs docs performed 7% higher than average at 82%</li>
-
-    <li>Each quarter we created at least 55+ Jira tickets based on the CSAT, and we
-    saw an increase in overall satisfaction from Q1 → Q2 → Q3</li>
-
-    <li>“Introduction to …” and “Quick start guide” pages performed higher than average</li>
-
-    </ul>
-
-    <p>During the first quarter of receiving CSAT data, we had a baseline of where
-    our docs fell on. On top of this, my team had a backlog of 55+ actions items that
-    were directly obtained from our developers on our docs. </p>
-
-    <p>My main takeaway for the audience is that opening ourselves up for developer
-    feedback helps us identify where we can make improvements, however nerve-wracking
-    it can be. It instills humility in our relationship with the developer community
-    that chooses to build with our APIs. It''s a channel for our developers to let
-    us know how we can better serve them through our docs, or simply let us know how
-    we suck.</p>'
 - title: Set your data free with model-based architecture diagramming
   slug: set-your-data-free-with-model-based-architecture-diagramming-avi-flax
   series: Write the Docs Portland
@@ -230,7 +169,7 @@
   speakers:
   - name: Avi Flax
     slug: avi-flax
-    avatar: 
+    avatar:
   abstract: '<p>Diagrams are an excellent tool for documenting the architecture of
     our software systems: they’re information dense and they utilize the visual circuits
     of our brains to create effective learning experiences. Many of us create or update
@@ -321,7 +260,7 @@
   speakers:
   - name: Anni Bond
     slug: anni-bond
-    avatar: 
+    avatar:
   abstract: "<p>Writing documentation for new or existing products is a forward-thinking
     endeavor. They almost use a template that includes new features and processes
     the user might use, patch notes, and text on the user interface itself. However,
@@ -341,7 +280,7 @@
   speakers:
   - name: Luca Janssens
     slug: luca-janssens
-    avatar: 
+    avatar:
   abstract: '<p>There are software companies that have undervalued documentation or
     are still in the process of integrating it as an essential part of the software
     development life cycle. This has caused them to generate a documentation debt,
@@ -401,7 +340,7 @@
   speakers:
   - name: Lucy Carey
     slug: lucy-carey
-    avatar: 
+    avatar:
   abstract: '<p>Your docs are looking good, the demand is there, and you’re thinking
     it’s time to open up your content to a non-English speaking market. Unfortunately,
     pushing out localised content isn’t always a plug-in-and-play exercise. Whilst
@@ -444,7 +383,7 @@
   speakers:
   - name: Sally Stumbo
     slug: sally-stumbo
-    avatar: 
+    avatar:
   abstract: '<p>Hi, I''m Sally Stumbo. I have successfully transitioned from a career
     in customer service to one in technical writing and knowledge-centered service
     work. Here''s how I did it, and how my support background has helped and influenced
@@ -472,39 +411,6 @@
     they were asking with the content they receive in email campaigns, as well as
     review whether the topics are covered in our documentation or in the knowledge
     base already.</p>'
-- title: If We Build It, Will They Join? Sustaining a Community Documentation Initiative
-    with Sprints
-  slug: if-we-build-it-will-they-join-sustaining-a-community-documentation-initiative-with-sprints-amanda-stevens-kaitlin-newson
-  series: Write the Docs Portland
-  series_slug: if-we-build-it-will-they-join-sustaining-a-community-documentation-initiative-with-sprints-amanda-stevens-kaitlin-newson
-  year: 2020
-  speakers:
-  - name: Amanda Stevens, Kaitlin Newson
-    slug: amanda-stevens-kaitlin-newson
-    avatar: 
-  abstract: '<p>End users often have great insight into how documentation can be improved,
-    but rarely contribute to documentation. How can we engage them? How can we reduce
-    barriers to participation? And once we have contributors, how do we ensure that
-    they have the structure and support they need?</p>
-
-    <p>In late 2018, we formed a documentation interest group for our open source
-    project and started hosting bi-weekly virtual sprints, where participants collaborate
-    on documentation projects. We started the sprints on a whim, building on the in-person,
-    hackathon-like code development sprints that are hosted by our organization. These
-    sprints have been wildly successful: in 2019, we created, updated, edited, and
-    published 12 user guides. The quality of our documentation has increased due to
-    the variety of perspectives and skills offered by the group, and community members
-    who are not developers appreciate having a fun and meaningful way to contribute
-    to the project. The sprint model has also allowed us to reach out and collaborate
-    on documentation with other related projects.</p>
-
-    <p>In this presentation, we will outline how we run our bi-weekly sprints, the
-    tools and workflows we use, what we’ve learned, and what we’re still trying to
-    do better. We will discuss challenges such as creating documentation for new contributors,
-    teaching people how to use GitHub, engaging diverse participants, and maintaining
-    a sustainable documentation initiative alongside a changing codebase. We’ll examine
-    the concept of community participation in documentation broadly and discuss how
-    the sprint model can be applied in different contexts.</p>'
 - title: 'Moving beyond empathy: a11y in documentation'
   slug: moving-beyond-empathy-a11y-in-documentation-alexandra-n-white
   series: Write the Docs Portland
@@ -548,7 +454,7 @@
   speakers:
   - name: Shavindri Dissanayake (Shavi)
     slug: shavindri-dissanayake-shavi
-    avatar: 
+    avatar:
   abstract: '<p>When developers implement an SDK, they usually include some information
     in the GitHub README. But unless you provide 1:1 support to customers, this information
     is not enough. That’s why it is important to have solid documentation around your
@@ -620,7 +526,7 @@
   speakers:
   - name: Matthew Baldwin
     slug: matthew-baldwin
-    avatar: 
+    avatar:
   abstract: '<p>Imagine writing guidance for a product that exists solely in the mind
     of the customer. That is the plight of the tabletop game designer. Yes, games
     come with boards and cards and dice and counters, but those are but the UI, so
