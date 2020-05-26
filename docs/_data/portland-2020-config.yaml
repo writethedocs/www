@@ -76,7 +76,7 @@ sponsorship:
     price: $17,000
 
 date: # how do we handle these? human readable would be nice.
-  main: "**August 9-11, 2020, in Portland, Oregon**"
+  main: "**August 9-11, 2020, online**"
   short: Aug 9-11, 2020
   tickets_live: "May 25, 2020"
   month: August
@@ -107,8 +107,7 @@ about:
   attendees: 700
   summary:
     "The main presentation track takes place from **August 10-11 (Monday and Tuesday) from 9am to 6pm**.
-    We will return to the historic `Crystal Ballroom <http://www.mcmenamins.com/CrystalBallroom>`_, `centrally located <http://goo.gl/maps/D2WrJ>`_ in the heart of Portland.
-    During the main event we also run an :doc:`/conf/portland/2020/unconference` downstairs in Lola's Room.
+    During the main event we also run an :doc:`/conf/portland/2020/unconference`.
 
     You can find out more information about the venue and its accessibility on our :doc:`/conf/portland/2020/venue` page."
   venue:
