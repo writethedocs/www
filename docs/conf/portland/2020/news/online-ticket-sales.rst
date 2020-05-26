@@ -5,7 +5,7 @@
 
 
 Announcing ticket sales for the Portland virtual conference
-===================================================
+===========================================================
 
 We're excited to announce that tickets are on sale for our Portland virtual conference.
 More details will be coming soon,
@@ -15,11 +15,11 @@ and can't wait to try out a few new ideas this year.
 Get your ticket for the conference
 ----------------------------------
 
-**The Portland conference will be online on {{ date.short }}.** The `full event website <https://www.writethedocs.org/conf/portland/2020/>`_ is live, with some preliminary details, and we'll be filling in more as it gets closer.
+**The Portland conference will be held online on {{ date.short }}.** The `full event website <https://www.writethedocs.org/conf/portland/2020/>`_ is live, with some preliminary details, and we'll be filling in more as it gets closer.
 
-If you're excited too, go ahead and `register for your ticket now <https://www.writethedocs.org/conf/portland/2020/tickets/>`_! We aren't sure exactly what capacity we will be able to hold for the online event, but we might still sell out to make sure we're providing a managable event size for our attendees, as always.
+If you're excited too, go ahead and `register for your ticket now <https://www.writethedocs.org/conf/portland/2020/tickets/>`_! We aren't sure exactly what capacity we will be able to hold for the virtual event, but we might still sell out to make sure we're providing a managable event size for our attendees, as always.
 
-We're still working out all the details for our online event,
+We're still working out all the details for our virtual event,
 but know that we're going to keep as much as possible of the spirit of the event alive:
 
 * Excellent single track of presentations -- now with moderated Q&A at the end!
@@ -36,7 +36,7 @@ and we think it will be another great year of helping our community connect.
 Grant program
 -------------
 
-We updated our grant program application to take into account the online format of the event.
+We updated our grant program application to take into account the virtual format of the event.
 We're excited to be able to offer free tickets to a larger number of people this year,
 since there are now minimal other costs to attend the event.
 
@@ -47,10 +47,10 @@ Support our community by sponsoring
 
 Every year we are fortunate to have the support of like-minded organizations and communities, who believe in the collaborative and welcoming community spirit and help us make our events great.
 
-We have drafted a new `online sponsorship prospectus`_ for the conference,
+We have drafted a new `virtual sponsorship prospectus`_ for the conference,
 and are open for new sponsorship inquiries.
 
-.. _online sponsorship prospectus: https://www.writethedocs.org/conf/portland/2020/sponsors/online-prospectus/
+.. _virtual sponsorship prospectus: https://www.writethedocs.org/conf/portland/2020/sponsors/online-prospectus/
 
 We are so grateful to have our sponsors help in bringing these events to life every year. Thanks sincerely to the following companies for supporting the Write the Docs community:
 
