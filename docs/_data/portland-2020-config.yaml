@@ -164,7 +164,7 @@ sponsors:
 flaglanding: False
 flaghassponsors: True
 flagcfp: False
-flagticketsonsale: False
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
 flaghasschedule: False
