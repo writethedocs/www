@@ -103,4 +103,5 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 **None of the above**
 ---------------------
 
-If you can't afford these prices and still wish to attend, you can apply for our grant program. Details about the program will be published soon, so stay tuned!
+If you can't afford these prices and still wish to attend, you can apply for our grant program. 
+You can apply by **June 5th, 2020, Midnight PST** on `our website <https://www.writethedocs.org/conf/portland/2020/opportunity-grants/>`_.
