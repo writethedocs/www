@@ -11,14 +11,21 @@ yamllint==1.20.0
 pathlib==1.0.1
 git+https://github.com/ericholscher/datatemplates@add-key-and-context#egg=sphinxcontrib.datatemplates-dev
 meetup-api==0.1.1
-urllib3[secure]==1.25.3
-yamale==1.10.1
-ruamel.yaml==0.16.5
-lxml==4.4.1
+urllib3[secure]==1.25.8
+yamale==2.0.1
+markdown==3.2.1
+ruamel.yaml==0.16.10
+lxml==4.5.0
 
-# For fancy guide tooltips
-git+https://github.com/readthedocs/sphinx-hoverxref@unresolver
+# For emoji
+sphinxemoji==0.1.5
+
+# For atom feed support
+Werkzeug==0.16.1 # pyup: <1.0
 
 # For fancy 404 pages
 sphinx-notfound-page
+
+# For fancy guide tooltips
+git+https://github.com/readthedocs/sphinx-hoverxref@unresolver
 

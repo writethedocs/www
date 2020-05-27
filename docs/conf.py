@@ -44,6 +44,7 @@ extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
     'notfound.extension',
+    'sphinxemoji.sphinxemoji',
     'hoverxref.extension',
     'recommonmark',
 ]
@@ -131,6 +132,8 @@ suppress_warnings = ['image.nonlocal_uri']
 
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
+    'newsletter_subs': '5,000',
+    'website_visits': '30,000',
 }
 
 if build_videos:
