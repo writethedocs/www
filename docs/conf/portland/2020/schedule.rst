@@ -93,7 +93,7 @@ We're hoping to have some fun activities planned for the evening online.
 
 {% endif %}
 
-Monday, August 10 
+Monday, August 10
 -----------------
 
 .. contents::
@@ -101,7 +101,7 @@ Monday, August 10
    :backlinks: none
 
 This is the main event! Hear from lots of interesting folks about all things documentation.
-We will have talks all day on the main stage, and a unconference session running in parallel in the afternoon.
+We will have talks all day, and an unconference session running in parallel in the afternoon.
 
 {% if flaghasfood %}
 

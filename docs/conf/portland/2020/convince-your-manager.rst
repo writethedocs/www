@@ -20,7 +20,7 @@ Remember to change the things in `[brackets]`!
 
   SUBJECT: Professional Development: Documentation Community Conference
 
-  I'd like to attend Write the Docs {{city}}, which takes place {{ date.main }}. This three-day event explores the art and science of documentation, and covers a diverse range of topics related to documentation in the software industry.
+  I'd like to attend Write the Docs {{city}}, which takes place {{ date.main }}. This three-day online event explores the art and science of documentation, and covers a diverse range of topics related to documentation in the software industry.
 
   Write the Docs conferences bring together everyone who writes the docs – Tech Writers, Developers, Developer Relations, Customer Support – making the events an ideal networking opportunity.
   Each conference successfully combines a number of different event formats to deliver engaging, practical, and timely content.
@@ -30,8 +30,6 @@ Remember to change the things in `[brackets]`!
   Costs:
 
   * Conference ticket (includes breakfast and lunch) - {{tickets.corporate.price}}
-  * Travel – [fill in with estimate]
-  * Accommodation – – [fill in with estimate]
 
   Benefits:
 
