@@ -7,11 +7,11 @@ Write the Docs Newsletter – June 2020
 
 Hey all - it’s Beth and the newsletter team here.
 
-It feels like more and more often that I write to you while the backdrop is bleak, and it would be impossible tonot talk about what’s happening in the US. `Inclusion is at the core of Write the Docs </about-us/#inclusivity>`__; we are distraught by the suffering, oppression and systemic racism the Black community faces every day. This is much better said in our `statement of support </blog/we-stand-with-the-black-community/>`__, but in particular I wanted to mention that we are matching donations, up to a total of $1,500, to non-profits working to support the Black community. See the `blog post </blog/we-stand-with-the-black-community/>`__ for how to tell us about your donation so that we can match it.
+It feels like more and more often that I write to you while the backdrop is bleak, and it would be impossible to not talk about the ongoing protests around the world. `Inclusion is at the core of Write the Docs </about-us/#inclusivity>`__; we are distraught by the suffering, oppression and systemic racism the Black community faces every day. This is much better said in our `statement of support </blog/we-stand-with-the-black-community/>`__, but in particular I wanted to mention that we are matching donations, up to a total of $1,500, to non-profits working to support the Black community. See the `blog post </blog/we-stand-with-the-black-community/>`__ for how to tell us about your donation so that we can match it.
 
 As May has drawn to a close, we’d usually be talking all about the Portland conference, but of course no such news this year. But to have something to look forward to: `tickets to the virtual Portland conference are now on sale </conf/portland/2020/news/online-ticket-sales/>`__. We’re still finalising exactly how everything will work, but the plan is to stay as close to the usual spirit of our events as possible - so including Writing Day, unconference sessions, and a virtual hallway track. Check out the `list of talks </conf/portland/2020/speakers/>`__, and `buy your tickets here </conf/portland/2020/tickets/>`__.
 
-And if you’re in a more European-ish time zone like me, keep your eyes peeled - we’ll be announcing dates for virtual Prague sometime soon.
+And if you’re in a time zone closer to GMT like me, keep your eyes peeled - we’ll be announcing dates for virtual Prague sometime soon.
 
 With that, let’s see what the community has been talking about this month.
 
