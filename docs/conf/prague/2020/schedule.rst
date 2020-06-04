@@ -11,8 +11,13 @@ Each year we organize a wide range of events so that people can come together, c
     :depth: 1
     :backlinks: none
 
+
+{% if flaghashike or flaghasboat %}
+
 {{date.day_one.dotw}}, {{date.day_one.date}}
 --------------------------------------------------
+
+{% endif %}
 
 {% if flaghashike %}
 
@@ -46,7 +51,11 @@ Further details will be announced later.
 
 The Writing Day and Welcome Reception will be held at the **{{about.venue}}**.
 
+{% if flaghasfood %}
+
 *Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+
+{% endif %}
 
 .. contents::
     :local:
@@ -55,8 +64,8 @@ The Writing Day and Welcome Reception will be held at the **{{about.venue}}**.
 Writing Day
 ~~~~~~~~~~~
 
-* **Where**: {{about.venue}}, {{about.mainroom}}
-* **When**: **9:00-17:00**
+* **Where**: {{about.venue}}, {{about.unconference}}
+* **When**: **9:00-17:00 PST**
 * **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
 .. separator to fix list formatting
@@ -71,40 +80,47 @@ Writing Day
   A detailed schedule will be announced soon.
 {% endif %}
 
+{% if flaghasfood %}
+
 Reception
 ~~~~~~~~~
 
 We encourage everyone to drop by on Sunday evening for the conference reception.
-You'll have a chance to get acquainted with each other over some drinks and snacks.
-We'll also help groups organize dinner plans, so you can continue your conversations over more substantial food as well.
+We're hoping to have some fun activities planned for the evening online.
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
-* **When**: **17:00-20:00**
+* **When**: **17:00-20:00 PST**
 
-Monday, May 4
--------------
+{% endif %}
+
+Monday, August 10
+-----------------
 
 .. contents::
    :local:
    :backlinks: none
 
 This is the main event! Hear from lots of interesting folks about all things documentation.
-We will have talks all day on the main stage, and a unconference session running in parallel in the afternoon.
+We will have talks all day, and an unconference session running in parallel in the afternoon.
+
+{% if flaghasfood %}
 
 *Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+
+{% endif %}
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
-* **When**: **10:00-18:00**
+* **When**: **10:00-18:00 PST**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 .. separator to fix list formatting
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.day1 %}
+{% with day_schedule=schedule.talks_day1 %}
 {% include "include/schedule2020.rst" %}
 {% endwith %}
 
@@ -118,21 +134,19 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **10:40-18:00**
+* **When**: **10:40-18:00 PST**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Monday Night Social
 ~~~~~~~~~~~~~~~~~~~
 
 The official Write the Docs social!
+Further details will be announced later,
+but expect some music and games,
+and bring your favorite beverage along to the computer :)
 
-This event is for **conference attendees only**. Please bring your badge to be let into the venue.
-There will be light snacks and drinks available on the conference while our tab lasts.
-
-Further details will be announced later.
-
-Tuesday, May 5
---------------
+Tuesday, August 11
+------------------
 
 .. contents::
    :local:
@@ -140,20 +154,24 @@ Tuesday, May 5
 
 And the conference goes on!
 
+{% if flaghasfood %}
+
 *Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+
+{% endif %}
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
-* **When**: **10:00-16:30**
+* **When**: **10:00-16:30 PST**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 .. separator to fix list formatting
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.day2 %}
+{% with day_schedule=schedule.talks_day2 %}
 {% include "include/schedule2020.rst" %}
 {% endwith %}
 
@@ -169,7 +187,7 @@ Job Fair
 We'll be holding a job fair on Tuesday morning!
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **10:30-11:50**
+* **When**: **10:30-11:50 PST**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
 
 Unconference
@@ -178,5 +196,5 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **12:10-15:30**
+* **When**: **12:10-15:30 PST**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`

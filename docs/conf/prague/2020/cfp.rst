@@ -13,7 +13,7 @@ Read on to learn more about the goals of the conference and what we look for in 
     :depth: 1
     :backlinks: none
 
-{% if cfp %}
+{% if flagcfp %}
 In the meantime, mark your calendars:
 
 **The deadline for submitting proposals is Midnight {{tz}} on {{cfp.ends}}.**
@@ -138,7 +138,7 @@ If you already have a ticket, we will of course refund it - just drop us an  `{{
 
 If your proposal is accepted but you would find it difficult to attend due to travel costs, please let us know and we will do our best to help make it happen.
 
-{% if cfp %}**You’ll hear from us with our proposal decisions by the end of {{cfp.notification}}.**{% endif %}
+{% if flagcfp %}**You’ll hear from us with our proposal decisions by the end of {{cfp.notification}}.**{% endif %}
 
 Note that all Speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides will need to follow our Code of Conduct. If you are unsure about any aspect of this, please feel free to ask us for clarification
 
@@ -147,19 +147,15 @@ Questions?
 
 If you have any questions, please email us at `{{email}} <mailto:{{email}}>`_ and let us know.
 
+{% if flagcfp %}
+
 Submit your proposal
 --------------------------
-
-{% if cfp %}
 
 .. raw:: html
 
 	<iframe src="{{cfp.url}}?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 You can also view `our CFP <{{cfp.url}}>`_ in its own page.
-
-{% else %}
-
-The CFP is not yet open.
 
 {% endif %}
