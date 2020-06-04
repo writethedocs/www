@@ -11,7 +11,7 @@ It feels like more and more often that I write to you while the backdrop is blea
 
 As May has drawn to a close, we’d usually be talking all about the Portland conference, but of course no such news this year. But to have something to look forward to: `tickets to the virtual Portland conference are now on sale </conf/portland/2020/news/online-ticket-sales/>`__. We’re still finalising exactly how everything will work, but the plan is to stay as close to the usual spirit of our events as possible - so including Writing Day, unconference sessions, and a virtual hallway track. Check out the `list of talks </conf/portland/2020/speakers/>`__, and `buy your tickets here </conf/portland/2020/tickets/>`__.
 
-And if you’re in a time zone closer to GMT like me, keep your eyes peeled - we’ll be announcing dates for virtual Prague sometime soon.
+And if you’re in a time zone closer to UTC like me, keep your eyes peeled - we’ll be announcing dates for virtual Prague sometime soon.
 
 With that, let’s see what the community has been talking about this month.
 
