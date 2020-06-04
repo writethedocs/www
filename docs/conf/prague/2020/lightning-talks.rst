@@ -3,7 +3,7 @@
 Lightning Talks
 ===============
 
-.. _speaker-lightning-talks-2020/na:
+.. _speaker-lightning-talks-2020/eu:
 
 A lightning talk is a very short talk, up to 5 minutes, where you share an idea, concept, or a bit of information you find interesting.
 They’re quick, easy, and a great way to speak in front of an audience for the first time.

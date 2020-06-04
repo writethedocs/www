@@ -13,10 +13,10 @@ Introduction
 ============
 
 Welcome to our brand new **Online Conference Sponsorship Prospectus**.
-This document has been adapted from the original :doc:`prospectus` for our Portland 2020 conference to reflect the virtual conference,
+This document has been adapted for our new virtual conference format,
 including new benefits and increased value across our community.
 
-We're excited to work with the organizations in our community to build the best possible event in 2020.
+We're excited to work with the organizations in our community to build the best possible event in {{ year }}.
 In particular, we would love your feedback on sponsorship levels and benefits.
 We expanded the offerings and introduced a lot of new things,
 but please let us know if there are other points of interaction with our community that would be valuable for you.

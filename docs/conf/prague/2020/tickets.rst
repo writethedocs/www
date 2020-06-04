@@ -28,7 +28,7 @@ We have a `waiting list <https://ti.to/writethedocs/write-the-docs-{{shortcode}}
 Ticket details
 ~~~~~~~~~~~~~~
 
-Write the Docs Portland 2020 is a virtual conference. Each ticket includes:
+Write the Docs {{ name }} {{ year }} is a virtual conference. Each ticket includes:
 
 * Live streaming of all talks
 * Q&A with speakers after each talk (may not be available for all speakers)
@@ -103,5 +103,9 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 **None of the above**
 ---------------------
 
-If you can't afford these prices and still wish to attend, you can apply for our grant program. 
-You can apply by **June 5th, 2020, Midnight PST** on `our website <https://www.writethedocs.org/conf/portland/2020/opportunity-grants/>`_.
+If you can't afford these prices and still wish to attend, you can apply for our grant program.
+{% if grants.ends and grants.url %}
+You can apply by **{{ grant.ends }}, Midnight {{ tz }}** on `our website <https://www.writethedocs.org/conf/{{ name }}/{{ year }}/opportunity-grants/>`_.
+{% else %}
+Grant applications will open soon.
+{% endif %}
