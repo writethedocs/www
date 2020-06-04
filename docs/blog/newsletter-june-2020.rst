@@ -94,7 +94,7 @@ This month's newsletter is sponsored by `Season of Docs <https://developers.goog
               </p>
           </td>
           <td width="25%">
-            <a href="gle.com/season-of-docs">
+            <a href="https://developers.google.com/season-of-docs">
               <img alt="Season of Docs" src="/_static/img/sponsors/seasonofdocs.png">
             </a>
           </td>
