@@ -40,7 +40,7 @@ Refund Policy
 -------------
 
 Refunds will be offered with a 10% processing fee until 2 weeks before the conference.
-We can't do refunds after that date.
+Refunds after this date are not possible.
 
 Ticket Types
 ------------

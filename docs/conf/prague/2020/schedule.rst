@@ -49,7 +49,7 @@ Further details will be announced later.
 {{date.day_two.dotw}}, {{date.day_two.date}}
 ----------------------------------------
 
-The Writing Day and Welcome Reception will be held at the **{{about.venue}}**.
+The Writing Day and Welcome Reception will be held **{{about.venue}}**.
 
 {% if flaghasfood %}
 
@@ -64,7 +64,7 @@ The Writing Day and Welcome Reception will be held at the **{{about.venue}}**.
 Writing Day
 ~~~~~~~~~~~
 
-* **Where**: {{about.venue}}, {{about.unconference}}
+* **Where**: {{about.venue}}
 * **When**: **9:00-17:00 PST**
 * **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
@@ -93,7 +93,7 @@ We're hoping to have some fun activities planned for the evening online.
 
 {% endif %}
 
-Monday, August 10
+Monday, October 19
 -----------------
 
 .. contents::
@@ -101,7 +101,7 @@ Monday, August 10
    :backlinks: none
 
 This is the main event! Hear from lots of interesting folks about all things documentation.
-We will have talks all day, and an unconference session running in parallel in the afternoon.
+We will have talks all day, and unconference sessions running in parallel.
 
 {% if flaghasfood %}
 
@@ -112,7 +112,7 @@ We will have talks all day, and an unconference session running in parallel in t
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
-* **Where**: {{about.venue}}, {{about.mainroom}}
+* **Where**: {{about.venue}}
 * **When**: **10:00-18:00 PST**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
@@ -143,7 +143,7 @@ Monday Night Social
 The official Write the Docs social!
 Further details will be announced later,
 but expect some music and games,
-and bring your favorite beverage along to the computer :)
+and bring your favorite beverage to your computer :)
 
 Tuesday, August 11
 ------------------
@@ -163,7 +163,7 @@ And the conference goes on!
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
-* **Where**: {{about.venue}}, {{about.mainroom}}
+* **Where**: {{about.venue}}
 * **When**: **10:00-16:30 PST**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
