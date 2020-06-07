@@ -26,7 +26,7 @@ You can `join our slack`_ network if you aren't already a member.
     in your Slack client.
 
 
-.. _join our slack: https://join.slack.com/t/writethedocs/shared_invite/enQtNzQ2NzkwODQ3NDkwLWZhY2U4YTg5YjAyODk1NzkxYzI0ZmFjOWMxNWEwOWNjZDE3NDZjMmJiZTlkODc4Y2ZlNjkxNGIyNzMxNDkzZjA
+.. _join our slack: https://join.slack.com/t/writethedocs/shared_invite/zt-eu3l2qba-0eRHx9cY1SLS~wSrn~y4hA
 .. _this page: https://github.com/writethedocs/www/blob/master/docs/slack.rst
 .. _disable all animations: https://get.slack.help/hc/en-us/articles/228023907-Manage-animated-images-and-emoji
 
