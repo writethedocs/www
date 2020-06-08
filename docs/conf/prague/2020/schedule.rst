@@ -145,7 +145,7 @@ Further details will be announced later,
 but expect some music and games,
 and bring your favorite beverage to your computer :)
 
-Tuesday, August 11
+Tuesday, October 20
 ------------------
 
 .. contents::
