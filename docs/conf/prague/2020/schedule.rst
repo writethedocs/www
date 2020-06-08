@@ -65,7 +65,7 @@ Writing Day
 ~~~~~~~~~~~
 
 * **Where**: {{about.venue}}
-* **When**: **9:00-17:00 PST**
+* **When**: **9:00-17:00 {{ tz }}**
 * **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
 .. separator to fix list formatting
@@ -89,7 +89,7 @@ We encourage everyone to drop by on Sunday evening for the conference reception.
 We're hoping to have some fun activities planned for the evening online.
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
-* **When**: **17:00-20:00 PST**
+* **When**: **17:00-20:00 {{ tz }}**
 
 {% endif %}
 
@@ -113,7 +113,7 @@ Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}
-* **When**: **10:00-18:00 PST**
+* **When**: **10:00-18:00 {{ tz }}**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 .. separator to fix list formatting
@@ -134,7 +134,7 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **10:40-18:00 PST**
+* **When**: **10:40-18:00 {{ tz }}**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Monday Night Social
@@ -164,7 +164,7 @@ Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}
-* **When**: **10:00-16:30 PST**
+* **When**: **10:00-16:30 {{ tz }}**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 .. separator to fix list formatting
@@ -187,7 +187,7 @@ Job Fair
 We'll be holding a job fair on Tuesday morning!
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **10:30-11:50 PST**
+* **When**: **10:30-11:50 {{ tz }}**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
 
 Unconference
@@ -196,5 +196,5 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **12:10-15:30 PST**
+* **When**: **12:10-15:30 {{ tz }}**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
