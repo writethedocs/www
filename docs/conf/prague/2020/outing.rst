@@ -6,7 +6,7 @@
 Write the Docs Boat Ride
 ========================
 
-{% include "conf/prague/boat.rst" %}
+As this year's conference is virtual, we encourage you to go on a boat ride or walk in your own beautiful home town.
 
 {% elif shortcode == 'portland'%}
 
