@@ -22,6 +22,7 @@ from _ext.core import (
 from _ext.filters import add_jinja_filters_to_app
 from _ext.meetups import MeetupListing
 from _ext.atom_absolute import rewrite_atom_feed
+from _ext import videos
 
 exclude_patterns = [
     '_build',
@@ -155,7 +156,6 @@ html_context = {
 }
 
 if build_videos:
-    from _ext.videos import main
 
     if os.environ.get('MEETUP_API_KEY'):
         try:
@@ -163,7 +163,7 @@ if build_videos:
             html_context.update(meetup_main())
         except:
             print('Could not get meetup events.')
-    html_context.update(main())
+    html_context.update(videos.main())
 
 notfound_no_urls_prefix = True
 
@@ -186,6 +186,7 @@ def setup(app):
         app.connect('build-finished', rewrite_atom_feed)
 
     app.add_directive('meetup-listing', MeetupListing)
+    app.add_directive('datatemplate-video', videos.DataTemplateVideo)
     app.add_config_value('recommonmark_config', {
         'auto_toc_tree_section': 'Contents',
         # 'enable_auto_doc_ref': True,

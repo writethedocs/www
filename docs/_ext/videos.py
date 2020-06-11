@@ -18,6 +18,8 @@ import os
 import os.path
 
 from _ext.utils import generate_video_slug, load_yaml, normalize_session
+from docutils.parsers import rst
+from sphinxcontrib.datatemplates.directive import DataTemplateYAML
 
 
 def load_conference_data():
@@ -67,7 +69,7 @@ def generate_video_content(session, year, region, session_idx):
     return u'''{title}
 {title_marker}
 
-.. datatemplate::
+.. datatemplate-video::
    :source: /_data/{year}.{region}.speakers.yaml
    :template: videos/video-detail.html
    :key: {session_idx}
@@ -122,3 +124,14 @@ def main():
         'conf_py_root': os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
         'conferences': conference_data,
     }
+
+
+class DataTemplateVideo(DataTemplateYAML):
+    option_spec = dict(DataTemplateYAML.option_spec, **{
+        'key': rst.directives.nonnegative_int,
+    })
+
+    def _make_context(self, data):
+        context = super()._make_context(data)
+        context['key'] = self.options.get('key')
+        return context
