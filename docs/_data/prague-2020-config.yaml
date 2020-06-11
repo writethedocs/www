@@ -64,16 +64,14 @@ tickets:
     price: €25
 
 sponsorship:
-  first_draft:
-    price: €800
   second_draft:
-    price: €1,800
+    price: €1,500
   publisher:
-    price: €3,750
+    price: €3,500
   patron:
-    price: €8,000
+    price: €7,500
   keystone:
-    price: €14,000
+    price: €13,500
 
 grants:
   url: null
