@@ -4,6 +4,7 @@
 import os
 import sys
 
+import yaml
 import ablog
 from recommonmark.transform import AutoStructify
 
@@ -129,10 +130,26 @@ suppress_warnings = ['image.nonlocal_uri']
 
 # Our additions
 
+global_sponsors = yaml.safe_load("""
+- name: microsoft
+  link: https://microsoft.com
+  brand: Microsoft
+  comment: Keystone sponsor
+- name: google
+  link: https://www.google.com
+  brand: Google
+  comment: Patron sponsor
+- name: redocly
+  link: https://redoc.ly/
+  brand: Redocly
+  comment: Patron sponsor
+""")
+
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
     'newsletter_subs': '5,000',
     'website_visits': '30,000',
+    'global_sponsors': global_sponsors,
 }
 
 if build_videos:
