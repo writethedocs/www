@@ -51,7 +51,7 @@ The **Second Draft** package is great for companies looking to hire or promote a
 - Medium logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- One featured job posting in our Newsletter (5,000 subscribers)
+- One featured job posting in our Newsletter ({{ newsletter_subs }} subscribers)
 - A table at our **job fair**
 
 The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
@@ -65,7 +65,7 @@ The **Publisher** package is great for sending a team and getting to know the co
 - Large logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 2 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Two featured job postings in our Newsletter (5,000 subscribers)
+- Two featured job postings in our Newsletter ({{ newsletter_subs }} subscribers)
 - A table at our **job fair**
 
 The **Publisher** package costs **{{sponsorship.publisher.price}}**.
@@ -83,7 +83,7 @@ The **Patron** package highlights your company as a force in the industry and co
 - Full size logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display 3 promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Three featured job postings in our Newsletter (5,000 subscribers)
+- Three featured job postings in our Newsletter ({{ newsletter_subs }} subscribers)
 - A featured table at our **job fair**
 
 The **Patron** package costs **{{sponsorship.patron.price}}**.
@@ -102,7 +102,7 @@ The **Keystone** package highlights you as our main community partner:
 - Full size logo & link on the Write the Docs website
 - Name included in welcome announcement in email newsletters and social media
 - Display unlimited promotional (“Swag”) item on the conference swag table (provided by sponsor)
-- Five featured job postings in our Newsletter (5,000 subscribers)
+- Five featured job postings in our Newsletter ({{ newsletter_subs }} subscribers)
 - A featured table at our **job fair**
 
 The **Keystone** package costs **{{sponsorship.keystone.price}}**.

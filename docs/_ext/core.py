@@ -60,7 +60,8 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
     if year < 2020 or not data['flagspeakersannounced']:
         return data
 
-    session_data = load_yaml_log_error(page, '_data/' + shortcode + '-' + year_str + '-sessions.yaml')
+    session_data = load_yaml_log_error(
+        page, '_data/' + shortcode + '-' + year_str + '-sessions.yaml')
 
     if not data['flaghasschedule']:
         return data
@@ -72,11 +73,13 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
     # Do some additional contextual validation that can't be done by a YAML schema validator.
     # This aims to produce clear warnings rather than unexplained empty schedule output.
     if data['flaghaswritingday'] and 'writing_day' not in schedule:
-        raise Exception('ERROR Missing key "writing_day" while reading schedule from %s' % schedule_yaml_file)
+        raise Exception('ERROR Missing key "writing_day" while reading schedule from %s' %
+                        schedule_yaml_file)
     for day in range(1, data['date']['total_talk_days'] + 1):
         key = 'talks_day' + str(day)
         if key not in schedule:
-            raise Exception('ERROR Missing key "%s" while reading schedule from %s' % (key, schedule_yaml_file))
+            raise Exception('ERROR Missing key "%s" while reading schedule from %s' %
+                            (key, schedule_yaml_file))
 
     # The schedule contains a time and a slug or title for each session.
     # Slugs reference the speakers/talk info (abstract, name, etc.), and that
@@ -92,9 +95,11 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
                     schedule_item['speaker_names'] = speaker_names_display(session_data['speakers'])
                     slugs_in_schedule.add(slug)
                 except KeyError:
-                    raise Exception('ERROR: Unable to find details for session %s while rendering page %s' % (slug, page))
+                    raise Exception(
+                        'ERROR: Unable to find details for session %s while rendering page %s' % (slug, page))
             elif 'title' not in schedule_item:
-                raise Exception('ERROR: Item %s in schedule rendered for %s has neither a slug nor title' % (schedule_item, page))
+                raise Exception(
+                    'ERROR: Item %s in schedule rendered for %s has neither a slug nor title' % (schedule_item, page))
 
     missing_slugs_from_schedule = set(sessions_by_slug.keys()) - slugs_in_schedule
     if missing_slugs_from_schedule:
@@ -114,7 +119,8 @@ def load_yaml_log_error(page, yaml_file):
         yaml_config = load_yaml(yaml_file)
         return yaml_config
     except (YAMLError, OSError) as error:
-        log.error('Unable to process conference YAML file %s while rendering %s: %s', yaml_file, page, error)
+        log.error('Unable to process conference YAML file %s while rendering %s: %s',
+                  yaml_file, page, error)
         return {}
 
 
@@ -146,7 +152,9 @@ def render_rst_with_jinja(app, docname, source):
     final_context = app.config.html_context.copy()
     conf_context = load_conference_page_context(app, docname)
     final_context.update(conf_context)
-    if docname.startswith(('about/', 'conf/', 'guide/', 'videos/by-year', 'videos/by-series')):
+    if docname.startswith(
+        ('about/', 'conf/', 'guide/', 'videos/by-year', 'videos/by-series', 'sponsorship/')
+    ):
         src = source[0]
         rendered = app.builder.templates.render_string(src, final_context)
         source[0] = rendered

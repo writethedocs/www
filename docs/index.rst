@@ -40,8 +40,6 @@ Get more information on how to meet the community, learn new things, get involve
    about/learning-resources
    about/stay-connected
    about/about-the-org
-   surveys/salary-survey-sep-2019
-   code-of-conduct
 
 
 Our focus is on community, and putting on our conferences is where we spend much of our time and effort

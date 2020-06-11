@@ -1,3 +1,34 @@
+<style>
+
+/* Sponsors */
+.sponsors {
+    float: left;
+    margin-top: 30px;
+    text-align: center;
+}
+.sponsors .sponsor {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+}
+.sponsors .sponsor img {
+    width: 90px;
+    height: auto;
+}
+.sponsors .sponsor-name {
+    font-size: 12px;
+}
+.sponsors .sponsor-description {
+    font-size: 10px;
+    color: #BCC1C3;
+}
+.sponsors .sponsor-name, .sponsors .sponsor-description {
+    text-align: center;
+    line-height: 1.4;
+}
+</style>
+
 <div class="footer">
       <div class="container">
           <span style="float: left;">© Write the Docs 2019 </span>
@@ -19,4 +50,20 @@
     </a>
     {% endif %}
 
+  <div class="sponsors">
+    <a class="sponsor" href="https://readthedocs.org" rel="noopener" target="_blank">
+      <img src="https://read-the-docs-guidelines.readthedocs-hosted.com/_images/logo-dark.png" alt="Read the Docs" class="sponsor-image">
+      <div class="sponsor-name">Read the Docs</div>
+      <div class="sponsor-description">Hosting</div>
+    </a>
+    <a class="sponsor" href="http://stickermule.com" rel="noopener" target="_blank">
+      <img src="{{ pathto('/_static/img/sponsors/stickermule-stacked.png', 1) }}" alt="Sticker Mule" class="sponsor-image">
+      <div class="sponsor-name">Sticker Mule</div>
+      <div class="sponsor-description">Stickers</div>
+    </a>
+    <a class="sponsor" href="{{ pathto('sponsorship/index') }}" rel="noopener" target="_blank">
+      <div class="sponsor-name">Your logo here</div>
+      <div class="sponsor-description">Sponsor us</div>
+    </a>
+  </div>
 </div>

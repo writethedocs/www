@@ -32,6 +32,7 @@
                               </li>
                           </ul>
                         </li><!--- Parent element with it's children -->
+                        <!-- No visiting details this year
                         <li>
                           <ul class="uk-navbar-nav">
                               <li>
@@ -44,7 +45,8 @@
                                   </div>
                               </li>
                           </ul>
-                        </li><!--- Parent element with it's children -->
+                        </li> -->
+                        <!--- Parent element with it's children -->
                         <li>
                           <ul class="uk-navbar-nav">
                               <li>
@@ -72,6 +74,9 @@
                                     <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/tickets') }}">Tickets</a>
                                     <div class="uk-navbar-dropdown">
                                         <ul class="uk-nav uk-navbar-dropdown-nav">
+                                            {% if flaghashike %}
+                                            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/ticket-choices') }}">Online Ticket Options</a></li>
+                                            {% endif %}
                                             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/opportunity-grants') }}">Opportunity Grants</a></li>
                                         </ul>
                                     </div>
@@ -85,7 +90,7 @@
                                     <div class="uk-navbar-dropdown">
                                         <ul class="uk-nav uk-navbar-dropdown-nav">
                                             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors') }}">Our Sponsors</a></li>
-                                            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors/prospectus') }}">Prospectus</a></li>
+                                            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors/online-prospectus') }}">Online Prospectus</a></li>
                                         </ul>
                                     </div>
                                 </li>

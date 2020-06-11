@@ -26,7 +26,7 @@ You can `join our slack`_ network if you aren't already a member.
     in your Slack client.
 
 
-.. _join our slack: https://join.slack.com/t/writethedocs/shared_invite/enQtNzQ2NzkwODQ3NDkwLWZhY2U4YTg5YjAyODk1NzkxYzI0ZmFjOWMxNWEwOWNjZDE3NDZjMmJiZTlkODc4Y2ZlNjkxNGIyNzMxNDkzZjA
+.. _join our slack: https://join.slack.com/t/writethedocs/shared_invite/zt-eu3l2qba-0eRHx9cY1SLS~wSrn~y4hA
 .. _this page: https://github.com/writethedocs/www/blob/master/docs/slack.rst
 .. _disable all animations: https://get.slack.help/hc/en-us/articles/228023907-Manage-animated-images-and-emoji
 
@@ -69,13 +69,14 @@ Guidelines
 Our goal with Write the Docs is to be **the most welcoming community on the internet**.
 People who are new to our community in particular should be assisted and welcomed.
 
-Our :doc:`/code-of-conduct`, applies to all spaces associated with Write the Docs, which includes our Slack.
+Our :doc:`/code-of-conduct` applies to all spaces associated with Write the Docs, which includes our Slack.
 In addition, we have a few Slack-specific guidelines:
 
 Social rules
 ~~~~~~~~~~~~
 
 - **Use inclusive language** - Our community is multicultural, multiracial, multigendered, and generally diverse. When posting in channels, avoid using words such as "guys" to address a mixed group. Possible alternatives: "folks", "everyone", "documentarians".
+- **We're all documentarians** - The Write the Docs community is much more than a space for technical writers. We welcome everyone who wants to learn more about creating documentation, including developers, testers, customer support agents, technical writers, program/product managers, developer relations specialists, and more.
 - **Only participate when you can be constructive** - Try to be constructive in all that you do, and otherwise consider not participating in a conversation.
 - **Say hi** - The world is a better place with a flood of hello's.
 - **Don't be snarky** - We are all trying the best we can.
@@ -115,12 +116,3 @@ Credit
 
 This concept is inspired by the `Recurse Center's Social Rules <https://www.recurse.com/manual#sub-sec-social-rules>`_.
 Thanks for the inspiration!
-
-Welcome message
-~~~~~~~~~~~~~~~
-
-We send out the following welcome message on slack monthly:
-
-.. literalinclude:: include/slack.txt
-   :language: text
-
