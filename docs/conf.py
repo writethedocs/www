@@ -190,8 +190,8 @@ def setup(app):
         'enable_eval_rst': True,
     }, True)
     app.add_transform(AutoStructify)
-    app.add_stylesheet('css/global-customizations.css')
-    app.add_stylesheet('css/survey.css')
-    app.add_javascript('js/jobs.js')
+    app.add_css_file('css/global-customizations.css')
+    app.add_css_file('css/survey.css')
+    app.add_js_file('js/jobs.js')
 
     app.config.wtd_cache = {}
