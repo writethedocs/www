@@ -26,7 +26,6 @@ We're really excited about the presentations we've got this year – we hope yo
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-sessions.yaml
    :template: {{year}}/speakers-simple-list.rst
-   :include_context:
 
 Head over to the `Speakers page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`_ to see the full abstracts.
 We hope there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.
