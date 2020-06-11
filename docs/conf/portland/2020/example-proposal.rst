@@ -27,7 +27,7 @@ Who and Why
 
 Use this opportunity to show the selection committee that you empathize with your audience. Help them think: "Oh yes, this talk could help me when I do X in my work!"
 
-Our audience creates documentation primarily for software. Given the variety of tools used for software documentation, we rarely accept talks that focus on a specific software tool.
+Our audience creates documentation primarily for software. Given the variety of tools used for software documentation, we rarely accept talks that focus on a specific software tool or set of tools. Talks that discuss tools should also discuss the wider context, applications, and implications of implementing the tools.
 
 Our audience goes beyond the technical writing community. Here's a typical demographic distribution of people who attend our conferences:
 
