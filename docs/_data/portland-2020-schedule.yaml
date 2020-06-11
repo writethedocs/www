@@ -28,7 +28,7 @@ talks_day1:
   - time: '11:10'
     slug: writing-backwards-documenting-the-end-of-life-of-a-product-anni-bond
   - time: '11:50'
-    slug: if-we-build-it-will-they-join-sustaining-a-community-documentation-initiative-with-sprints-amanda-stevens-kaitlin-newson
+    title: TBD
   - time: '12:20'
     title: Lunch (60 mins)
   - time: '1:20'
@@ -42,7 +42,7 @@ talks_day1:
   - time: '3:30'
     slug: don-t-fear-migration-how-to-successfully-move-docs-to-a-new-tool-brooke-wayne
   - time: '4:10'
-    slug: the-value-of-being-told-you-suck-hamza-alam
+    slug: where-documentation-cloud-hosted-interactive-tutorials-and-continuous-integration-testing-intersect-dan-gunter
   - time: '4:40'
     title: '<b>Group Photo</b>'
   - time: '5:00'
