@@ -1,5 +1,7 @@
 :template: {{year}}/generic.html
 
+.. role:: strike
+
 Online Sponsorship Prospectus
 #############################
 
