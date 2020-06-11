@@ -1,16 +1,16 @@
 :template: {{year}}/generic.html
 
 .. post:: June 11, 2020
-   :tags: prague-2020, tickets, visiting, sponsors
+   :tags: prague-2020, tickets, sponsors
 
 Announcing virtual conference dates
 ===================================
 
 As we :doc:`announced </blog/moving-portland-prague-2020-online>`, Write the Docs Prague 2020 will be a virtual conference.
 
-We decided to move the conference to October: the writing day is on
-**{{date.day_two.dotw}}, {{date.day_two.date}}, 9am-5pm {{tz}}**,
-and the main conference days are on **{{date.day_three.dotw}}, {{date.day_three.date}}, 9am-5pm {{tz}}**.
+We decided to move the conference to October, to allow for enough time after the new Portland conference dates in August. The writing day will be on
+**{{date.day_two.dotw}}, {{date.day_two.date}}, 10:00-17:00 {{tz}}**,
+and the main conference days will be on **{{date.day_three.dotw}}, {{date.day_three.date}}, 10:00-18:00 {{tz}}**.
 
 Ticket sales will re-open in the summer. Check out the :doc:`tickets page </conf/{{shortcode}}/{{year}}/tickets>` for prices. Your virtual ticket includes:
 
@@ -21,7 +21,7 @@ Ticket sales will re-open in the summer. Check out the :doc:`tickets page </conf
 * The virtual job fair
 
 If you have chosen to convert your :doc:`previously bought Portland 2020 ticket </conf/portland/2020/ticket-choices>`
-into a virtual pass, you will receive further details by e-mail when we open ticket sales.
+to a virtual pass, you will receive further details by e-mail when we open ticket sales.
 
 Support our community by sponsoring
 -----------------------------------
