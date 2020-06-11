@@ -30,6 +30,8 @@ exclude_patterns = [
     'node_modules',
 ]
 
+html4_writer = True
+
 # Only build the videos on production, to speed up dev
 on_rtd = str(os.environ.get('READTHEDOCS')).lower() == 'true'
 build_videos = str(os.environ.get('BUILD_VIDEOS')).lower() == 'true'
