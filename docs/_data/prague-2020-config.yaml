@@ -56,26 +56,24 @@ buttons:
 #       link_absolute: /videos/portland/2020
 
 tickets:
-  community:
-    price: €600
   corporate:
-    price: €TBD
+    price: €125
   independent:
-    price: €TBD
+    price: €75
   student:
-    price: €TBD
+    price: €25
 
 sponsorship:
   first_draft:
     price: €800
   second_draft:
-    price: €2000
+    price: €1,800
   publisher:
-    price: €4000
+    price: €3,750
   patron:
-    price: €8500
+    price: €8,000
   keystone:
-    price: €15000
+    price: €14,000
 
 grants:
   url: null
