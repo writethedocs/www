@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: June 11, 2020
+.. post:: June 12, 2020
    :tags: prague-2020, tickets, sponsors
 
 Announcing virtual conference dates
