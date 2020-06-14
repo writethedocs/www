@@ -8,7 +8,7 @@ Substitute a catchy title that promises practical lessons
 Abstract
 --------
 
-This is the content that Write the Docs would post on the conference schedule. The proposal committee uses everything beyond the abstract to evaluate the quality of your proposal.
+This is the content that Write the Docs would post on the conference schedule. To evaluate the quality of your proposal, the proposal committee also takes into account all of the other information that you provide.
 
 Include a brief story, typically two to four paragraphs, that describes your personal work experience with the topic. Make sure the abstract appeals to our audience of documentarians. We're suspicious of proposals that look like they belong at other conferences.
 
