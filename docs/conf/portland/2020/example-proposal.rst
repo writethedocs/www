@@ -59,4 +59,4 @@ We've accepted talks from people who work in a variety of roles, including:
 * Librarians
 * Teachers
 
- Only the proposal committee will see the information that you include here.
+Only the proposal committee will see the information that you include here.
