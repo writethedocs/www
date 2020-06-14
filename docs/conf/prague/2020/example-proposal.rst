@@ -37,6 +37,8 @@ Our audience goes beyond the technical writing community. Here's a typical demog
 * Managers (10%)
 * Community Contributors, Enthusiasts & Other Folks (10%)
 
+Only the proposal committee will see the information that you include here.
+ 
 Other Information
 -----------------
 
