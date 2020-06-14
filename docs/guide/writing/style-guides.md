@@ -174,7 +174,7 @@ The style guides below focus on the actual writing craft itself. They consider h
 
 - [The Sense of Style](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century)
 - [Stylish Academic Writing](https://www.hup.harvard.edu/catalog.php?isbn=9780674064485)
-- [Voice and Tone](https://styleguide.mailchimp.com/)
+- [Mailchimp's Voice and Tone guidelines](https://styleguide.mailchimp.com/voice-and-tone/)
 - [Google developer documentation style guide](https://developers.google.com/style/)
 
 ## Other style resources

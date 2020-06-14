@@ -6,7 +6,7 @@ Learning Resources
    :maxdepth: 2
    :hidden:
 
-   /newsletter
+   /topics
    /videos/index
    /podcast
    /organizer-guide/index
@@ -15,6 +15,11 @@ Learning Resources
    /surveys/index
    /book-club/index
    /books
+
+Topic Index
+~~~~~~~~~~~~
+
+All of our conference talks and newsletter articles, organised by topic: :doc:`/topics`
 
 Newsletter
 ~~~~~~~~~~
@@ -50,6 +55,12 @@ Guide to Hiring and Getting Hired
 This is a growing set of resources for those who want to hire or be hired as a documentarian.
 
 You can check out the :doc:`/hiring-guide/index` here.
+
+Surveys
+~~~~~~~
+
+We sometimes create Surveys that help us understand a bit more about our community.
+The most recent is our :doc:`/surveys/salary-survey/2019`.
 
 Book Club Write-ups
 ~~~~~~~~~~~~~~~~~~~

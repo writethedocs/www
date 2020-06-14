@@ -4,6 +4,7 @@
 import os
 import sys
 
+import yaml
 import ablog
 from recommonmark.transform import AutoStructify
 
@@ -44,6 +45,7 @@ extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
     'notfound.extension',
+    'sphinxemoji.sphinxemoji',
     'recommonmark',
 ]
 blog_baseurl = 'https://www.writethedocs.org/'
@@ -60,7 +62,7 @@ blog_feed_length = 10
 blog_locations = {
     'PDX': ('Portland, Oregon', 'http://www.portlandhikersfieldguide.org/'),
 }
-blog_default_location = 'PDX'
+blog_default_location = None
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 
 templates_path = ['_templates', 'include', ablog.get_html_templates_path()]
@@ -92,6 +94,7 @@ html_theme_options = {
 html_favicon = '_static/favicon/favicon-96x96.png'
 html_title = 'Write the Docs'
 html_static_path = ['_static']
+html_copy_source = False
 html_sidebars = {
     '**': [
         'about.html',
@@ -127,8 +130,26 @@ suppress_warnings = ['image.nonlocal_uri']
 
 # Our additions
 
+global_sponsors = yaml.safe_load("""
+- name: microsoft
+  link: https://microsoft.com
+  brand: Microsoft
+  comment: Keystone sponsor
+- name: google
+  link: https://www.google.com
+  brand: Google
+  comment: Patron sponsor
+- name: redocly
+  link: https://redoc.ly/
+  brand: Redocly
+  comment: Patron sponsor
+""")
+
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
+    'newsletter_subs': '5,000',
+    'website_visits': '30,000',
+    'global_sponsors': global_sponsors,
 }
 
 if build_videos:
@@ -170,6 +191,7 @@ def setup(app):
     }, True)
     app.add_transform(AutoStructify)
     app.add_stylesheet('css/global-customizations.css')
+    app.add_stylesheet('css/survey.css')
     app.add_javascript('js/jobs.js')
 
     app.config.wtd_cache = {}
