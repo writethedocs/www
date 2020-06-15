@@ -19,8 +19,8 @@ Run of show
 {% endwith %}
 {% endif %}
 
-Monday, May 4
--------------
+Monday, October 19
+------------------
 
 {% if flaghasschedule %}
 {% with day_schedule=schedule.day1 %}
@@ -28,8 +28,8 @@ Monday, May 4
 {% endwith %}
 {% endif %}
 
-Tuesday, May 5
---------------
+Tuesday, October 20
+-------------------
 
 {% if flaghasschedule %}
 {% with day_schedule=schedule.day2 %}

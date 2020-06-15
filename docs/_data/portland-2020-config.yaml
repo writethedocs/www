@@ -18,7 +18,7 @@ buttons:
     - text: Date and ticket information
       link: /news/announcing-virtual-conf-dates-tickets
     - text: Sponsor us
-      link: /sponsors/prospectus
+      link: /sponsors/online-prospectus
      # - text: Buy a Ticket!
      #   link: /tickets
     # - text: Submit a Talk
@@ -39,7 +39,7 @@ buttons:
      - text: Date and ticket information
        link: /news/announcing-virtual-conf-dates-tickets
      - text: Sponsor the conference
-       link: /sponsors/prospectus
+       link: /sponsors/online-prospectus
      # - text: See the talks!
      #   link: /speakers
     # - text: Buy a Ticket!
@@ -130,6 +130,7 @@ sponsors:
     - name: microsoft
       link: https://microsoft.com
       brand: Microsoft
+      text: Our mission is to empower every person and organization on the planet to achieve more.  Come build your skills with Microsoft Learn and Microsoft Docs, where you'll find high-quality content and connect with a vibrant community.  Microsoft is a distributed company with documentarians working around the globe. Visit <a href="https://careers.microsoft.com/">https://careers.microsoft.com</a> to learn about opportunities.
   patron:
     - name: google
       link: https://www.google.com

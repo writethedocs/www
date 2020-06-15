@@ -10,10 +10,9 @@ Schedule
 --------
 
 - Date & Time: **{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}}, 9am-6pm**,
-  with the conference opening reception in the same space from 17:00.
-- Location: **{{about.venue}}**. We will be in the main ballroom.
+  with the conference opening reception from 17:00.
 
-Your project here
+Your Project Here
 -----------------
 
-* More detail
+* More details coming
