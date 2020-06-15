@@ -14,7 +14,7 @@ and the main conference days will be on **{{date.day_three.dotw}}, {{date.day_th
 
 Ticket sales will re-open in the summer. Check out the :doc:`tickets page </conf/{{shortcode}}/{{year}}/tickets>` for prices. Your virtual ticket includes:
 
-* Live streaming of all talks (available for ticket-holders only)
+* Live streaming of all talks
 * Q&A with speakers after each talk (may not be available for all speakers)
 * Access to the conference chat with all other attendees, speakers and sponsors
 * Access to the writing day
