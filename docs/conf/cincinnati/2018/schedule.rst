@@ -28,7 +28,6 @@ Each year we organize a wide range of events so that people can come together, c
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
    :template: include/schedule2018.rst
-   :include_context:
 
 {% else %}
   A detailed schedule will be announced soon.
@@ -53,7 +52,6 @@ Each year we organize a wide range of events so that people can come together, c
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-2.yaml
    :template: include/schedule2018.rst
-   :include_context:
 
 {% else %}
   A detailed schedule will be announced soon.

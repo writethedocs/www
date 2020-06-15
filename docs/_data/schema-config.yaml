@@ -27,6 +27,7 @@ date: include('date-details')
 about: include('about-details')
 
 cfp: include('cfp-details', required=False)
+grants: include('grants-details', required=False)
 
 flaghassponsors: bool()
 flagcfp: bool()
@@ -123,6 +124,11 @@ about-details:
   projector_ratio: str(required=False)
 
 cfp-details:
+  url: str(required=False)
+  ends: str(required=False)
+  notification: str(required=False)
+
+grants-details:
   url: str(required=False)
   ends: str(required=False)
   notification: str(required=False)

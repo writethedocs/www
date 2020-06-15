@@ -8,11 +8,42 @@ Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel.
    :local:
    :depth: 1
    :backlinks: none
-   
+
+June - July 2020: How to Make Sense of Any Mess
+===============================================
+
+| Author: Abby Covert
+| Paperback ISBN: 9781500615994
+| Online: `How to Make Sense of Any Mess <http://www.howtomakesenseofanymess.com/>`_.
+| Also available on Kindle
+
+
+#. **June 15-19**
+
+   * Chapter 1 *Identify the Mess*
+   * Chapter 2 *State Your Intent*
+
+#. **June 22-26**
+
+   * Chapter 3 *Face Reality*
+   * Chapter 4 *Choose a Direction*
+
+#. **June 29 - July 3**
+
+   * Chapter 5 *Measure the Distance*
+   * Chapter 6 *Play with Structure*
+
+#. **July 6-10**
+
+   * Chapter 7 *Prepare to Adjust*
+
+
+..
+
 March - May 2020: Every Page is Page One
 ========================================
 
-| Author: Matt Baker
+| Author: Mark Baker
 | Paperback ISBN: 9781937434281
 
 #. **March 2-8**
@@ -50,28 +81,21 @@ March - May 2020: Every Page is Page One
 
    * Chapter 14 *Writing ever page is page on topics*
    * Chapter 15 *Every page is page one topics and the big picture*
-
-#. **April 20-26**
-
    * Chapter 16 *Sequence of tasks vs. sequence of topics*
    * Chapter 17 *EPPO and minimalism*
 
-#. **April 27-May 3**
+#. **April 20-26**
 
    * Chapter 18 *Structured writing*
    * Chapter 19 *Metadata*
-
-
-#. **May 4-10** (WTD Portland)
-
    * Chapter 20 *Linking*
+   
+#. **April 27-May 3**
+
    * Chapter 21 *Reuse*
-
-
-#. **May 11-17**
-
    * Chapter 22 *Making the case for every page is page one*
    * Chapter 23 *Afterword: EPPO, but not for everything*
+
 
 ..
 

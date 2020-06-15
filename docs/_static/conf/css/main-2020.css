@@ -10840,3 +10840,6 @@ td.uk-text-break {
 .crew-image {
   float: left;
   margin-right: 15px; }
+
+.strike {
+  text-decoration: line-through; }

@@ -6,7 +6,7 @@ Learning Resources
    :maxdepth: 2
    :hidden:
 
-   /newsletter
+   /topics
    /videos/index
    /podcast
    /organizer-guide/index
@@ -15,6 +15,11 @@ Learning Resources
    /surveys/index
    /book-club/index
    /books
+
+Topic Index
+~~~~~~~~~~~~
+
+All of our conference talks and newsletter articles, organised by topic: :doc:`/topics`
 
 Newsletter
 ~~~~~~~~~~

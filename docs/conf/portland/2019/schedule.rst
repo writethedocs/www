@@ -43,7 +43,6 @@ Detailed event information is located below the time table.
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-writing-day.yaml
    :template: include/schedule{{year}}.rst
-   :include_context:
 
 {% else %}
   A detailed schedule will be announced soon.
@@ -91,7 +90,6 @@ Detailed event information is located below the time table.
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-day-1.yaml
    :template: include/schedule{{year}}.rst
-   :include_context:
 
 {% else %}
   A detailed schedule will be announced soon.
@@ -152,7 +150,6 @@ Tuesday Schedule
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-day-2.yaml
    :template: include/schedule{{year}}.rst
-   :include_context:
 
 {% else %}
   A detailed schedule will be announced soon.

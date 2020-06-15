@@ -15,14 +15,14 @@ photos:
 
 buttons:
   top:
-     - text: Important COVID-19 Update
-       link: /news/covid-19-update-03
-     # - text: Sponsor the conference
-     #   link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #   link: /cfp
+    - text: Date and ticket information
+      link: /news/announcing-virtual-conf-dates-tickets
+    - text: Sponsor us
+      link: /sponsors/online-prospectus
      # - text: Buy a Ticket!
      #   link: /tickets
+    # - text: Submit a Talk
+    #   link: /cfp
     # - text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
@@ -36,10 +36,10 @@ buttons:
 #     - text: Watch the videos!
 #       link_absolute: /videos/portland/2020
   bottom:
-     - text: Important COVID-19 Update
-       link: /news/covid-19-update-03
-     # - text: Sponsor the conference
-     #   link: /sponsors/prospectus
+     - text: Date and ticket information
+       link: /news/announcing-virtual-conf-dates-tickets
+     - text: Sponsor the conference
+       link: /sponsors/online-prospectus
      # - text: See the talks!
      #   link: /speakers
     # - text: Buy a Ticket!
@@ -57,11 +57,11 @@ buttons:
 
 tickets:
   corporate:
-    price: $500
+    price: $150
   independent:
-    price: $275
-  student:
     price: $100
+  student:
+    price: $25
 
 sponsorship:
   first_draft:
@@ -76,14 +76,14 @@ sponsorship:
     price: $17,000
 
 date: # how do we handle these? human readable would be nice.
-  main: "**August 9-11, 2020, in Portland, Oregon**"
+  main: "**August 9-11, 2020, online**"
   short: Aug 9-11, 2020
-  tickets_live: "January 2020"
+  tickets_live: "May 25, 2020"
   month: August
   day_one:
     event: Hike
-    date: August 8
-    summary: If you're in town early, join us for the <a href="/conf/portland/2020/hike/">Hike</a>. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    date: On your own
+    summary: We encourage you to go on a hike in your own beautiful home town.
     #summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
     icon: hike
     dotw: Saturday
@@ -104,22 +104,21 @@ date: # how do we handle these? human readable would be nice.
   total_talk_days: 2
 
 about:
-  attendees: 500
+  attendees: 700
   summary:
     "The main presentation track takes place from **August 10-11 (Monday and Tuesday) from 9am to 6pm**.
-    We will return to the historic `Crystal Ballroom <http://www.mcmenamins.com/CrystalBallroom>`_, `centrally located <http://goo.gl/maps/D2WrJ>`_ in the heart of Portland.
-    During the main event we also run an :doc:`/conf/portland/2020/unconference` downstairs in Lola's Room.
+    During the main event we also run an :doc:`/conf/portland/2020/unconference`.
 
     You can find out more information about the venue and its accessibility on our :doc:`/conf/portland/2020/venue` page."
   venue:
-    "Crystal Ballroom located at 1332 W Burnside St"
+    "Online, platform to be determined"
   photos: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
   mainroom:
-    Main Ballroom
+    "Video area"
   unconfroom:
-    Unconference Room, across from the Main Ballroom
+    "Chat area"
   projector_ratio: "16:9"
-  job_fair_room: Unconference Room, across from the Main Ballroom
+  job_fair_room: "Sponsor area"
 
 cfp:
   url: https://docs.google.com/forms/d/e/1FAIpQLSfXD-hlTzSDTrpuYkguUwXq1OtKDOZQazzdNqWmSKO5H0hWLQ/viewform
@@ -131,6 +130,7 @@ sponsors:
     - name: microsoft
       link: https://microsoft.com
       brand: Microsoft
+      text: Our mission is to empower every person and organization on the planet to achieve more.  Come build your skills with Microsoft Learn and Microsoft Docs, where you'll find high-quality content and connect with a vibrant community.  Microsoft is a distributed company with documentarians working around the globe. Visit <a href="https://careers.microsoft.com/">https://careers.microsoft.com</a> to learn about opportunities.
   patron:
     - name: google
       link: https://www.google.com
@@ -175,7 +175,7 @@ flaglivestreaming: False
 flagpostconf: False
 
 # Truthy things that don't change
-flaghashike: True
+flaghashike: False
 flaghasboat: False
 flaghaswritingday: True
 flaghasbadgeflair: False

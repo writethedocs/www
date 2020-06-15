@@ -28,19 +28,19 @@ We have a `waiting list <https://ti.to/writethedocs/write-the-docs-{{shortcode}}
 Ticket details
 ~~~~~~~~~~~~~~
 
-Each ticket includes:
+Write the Docs Portland 2020 is a virtual conference. Each ticket includes:
 
-* Entry to all conference events and activities
-* Breakfast, snacks, and lunch on all event days (Sunday-Tuesday)
-* Welcome Reception and Social Event with light snacks and drinks
-* Wifi throughout the event
-* Meeting lots of fantastic people in a spacious, inviting venue
+* Live streaming of all talks
+* Q&A with speakers after each talk (may not be available for all speakers)
+* Access to the conference chat with all other attendees, speakers and sponsors
+* Access to the writing day
+* The virtual job fair
 
 Refund Policy
 -------------
 
 Refunds will be offered with a 10% processing fee until 2 weeks before the conference.
-We can't do refunds after that date because all of our catering, badge, & swag orders will have been placed.
+We can't do refunds after that date.
 
 Ticket Types
 ------------
@@ -103,4 +103,5 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 **None of the above**
 ---------------------
 
-If you can't afford these prices and still wish to attend, you can apply for our grant program. Details about the program will be published soon, so stay tuned! 
+If you can't afford these prices and still wish to attend, you can apply for our grant program. 
+You can apply by **June 5th, 2020, Midnight PST** on `our website <https://www.writethedocs.org/conf/portland/2020/opportunity-grants/>`_.
