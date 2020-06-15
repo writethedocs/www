@@ -90,7 +90,11 @@
                                     <div class="uk-navbar-dropdown">
                                         <ul class="uk-nav uk-navbar-dropdown-nav">
                                             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors') }}">Our Sponsors</a></li>
-                                            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors/online-prospectus') }}">Online Prospectus</a></li>
+                                            {% if shortcode == 'portland' and year == 2020 %}
+                                              <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors/online-prospectus') }}">Online prospectus</a></li>
+                                            {% else %}
+                                              <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors/prospectus') }}">Prospectus</a></li>
+                                            {% endif %}
                                         </ul>
                                     </div>
                                 </li>

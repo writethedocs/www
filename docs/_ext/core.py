@@ -147,17 +147,12 @@ def render_rst_with_jinja(app, docname, source):
     if app.builder.format != 'html':
         return
 
-    # For post-2018 pages, pass the document through the jinja renderer
-    # with the appropriate context (jinja filters have been added already)
     final_context = app.config.html_context.copy()
     conf_context = load_conference_page_context(app, docname)
     final_context.update(conf_context)
-    if docname.startswith(
-        ('about/', 'conf/', 'guide/', 'videos/by-year', 'videos/by-series', 'sponsorship/')
-    ):
-        src = source[0]
-        rendered = app.builder.templates.render_string(src, final_context)
-        source[0] = rendered
+    src = source[0]
+    rendered = app.builder.templates.render_string(src, final_context)
+    source[0] = rendered
 
 
 def override_template_load_context(app, pagename, templatename, context, doctree):

@@ -10,6 +10,13 @@
         <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("500px", true) }};" />
       </a>
     </div>
+      {% if include_text and sponsor.text %}
+      <div >
+      <p class="sponsor-text">
+        {{ sponsor.text }}
+      </p>
+      </div>
+      {% endif %}
     {% endfor %}
   </div>
   {% endif %}
@@ -22,6 +29,11 @@
         <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("400px", true) }};" />
       </a>
     </div>
+      {% if include_text and sponsor.text %}
+      <span class="sponsor-text">
+        {{ sponsor.text }}
+      </span>
+      {% endif %}
     {% endfor %}
   </div>
   {% endif %}
@@ -34,6 +46,11 @@
         <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("300px", true) }};" />
       </a>
     </div>
+      {% if include_text and sponsor.text %}
+      <span class="sponsor-text">
+        {{ sponsor.text }}
+      </span>
+      {% endif %}
     {% endfor %}
   </div>
   {% endif %}

@@ -13,7 +13,7 @@ Read on to learn more about the goals of the conference and what we look for in 
     :depth: 1
     :backlinks: none
 
-{% if cfp %}
+{% if flagcfp %}
 In the meantime, mark your calendars:
 
 **The deadline for submitting proposals is Midnight {{tz}} on {{cfp.ends}}.**
@@ -44,7 +44,7 @@ That said, there are some more helpful and concrete pointers below.
 **Diverse group of speakers**
 
 We welcome talks from first-time speakers, from industry experts, and from everyone in between.
-Whatever your background and experience, we prefer hearing about new approaches than about tried-and-tested technology.
+Whatever your background and experience, we prefer hearing about new approaches rather than about tried-and-tested technology.
 We especially welcome talks from underrepresented groups within the tech community.
 We want to hear a variety of viewpoints, so we limit speakers to two talks in any four year period at each location.
 If you're a WTD conference organizer, please only submit talks to conferences you're not actively organizing.
@@ -138,28 +138,29 @@ If you already have a ticket, we will of course refund it - just drop us an  `{{
 
 If your proposal is accepted but you would find it difficult to attend due to travel costs, please let us know and we will do our best to help make it happen.
 
-{% if cfp %}**You’ll hear from us with our proposal decisions by the end of {{cfp.notification}}.**{% endif %}
+{% if flagcfp %}**You’ll hear from us with our proposal decisions by the end of {{cfp.notification}}.**{% endif %}
 
 Note that all Speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides will need to follow our Code of Conduct. If you are unsure about any aspect of this, please feel free to ask us for clarification
+
+Example proposal
+----------------
+
+If you'd like some guidance on how to create a talk proposal, take a look at our :doc:`Example proposal <example-proposal>`.
 
 Questions?
 ----------
 
 If you have any questions, please email us at `{{email}} <mailto:{{email}}>`_ and let us know.
 
+{% if flagcfp %}
+
 Submit your proposal
 --------------------------
-
-{% if cfp %}
 
 .. raw:: html
 
 	<iframe src="{{cfp.url}}?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 You can also view `our CFP <{{cfp.url}}>`_ in its own page.
-
-{% else %}
-
-The CFP is not yet open.
 
 {% endif %}
