@@ -44,7 +44,7 @@ That said, there are some more helpful and concrete pointers below.
 **Diverse group of speakers**
 
 We welcome talks from first-time speakers, from industry experts, and from everyone in between.
-Whatever your background and experience, we prefer hearing about new approaches than about tried-and-tested technology.
+Whatever your background and experience, we prefer hearing about new approaches rather than about tried-and-tested technology.
 We especially welcome talks from underrepresented groups within the tech community.
 We want to hear a variety of viewpoints, so we limit speakers to two talks in any four year period at each location.
 If you're a WTD conference organizer, please only submit talks to conferences you're not actively organizing.
@@ -141,6 +141,11 @@ If your proposal is accepted but you would find it difficult to attend due to tr
 {% if flagcfp %}**You’ll hear from us with our proposal decisions by the end of {{cfp.notification}}.**{% endif %}
 
 Note that all Speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides will need to follow our Code of Conduct. If you are unsure about any aspect of this, please feel free to ask us for clarification
+
+Example proposal
+----------------
+
+If you'd like some guidance on how to create a talk proposal, take a look at our :doc:`Example proposal <example-proposal>`.
 
 Questions?
 ----------
