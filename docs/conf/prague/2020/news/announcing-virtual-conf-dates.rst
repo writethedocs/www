@@ -32,7 +32,7 @@ who believe in the collaborative and welcoming community spirit and help us make
 We have drafted a new `sponsorship prospectus`_ for the conference,
 and are open for new sponsorship inquiries.
 
-.. _virtual sponsorship prospectus: https://www.writethedocs.org/conf/prague/2020/sponsors/prospectus/
+.. _sponsorship prospectus: https://www.writethedocs.org/conf/prague/2020/sponsors/prospectus/
 
 We will still run the `job fair <https://www.writethedocs.org/conf/portland/2020/job-fair/>`_, helping documentarians
 and organizations connect with each other. Check out the sponsorship prospectus for more details and to reserve your spot today.

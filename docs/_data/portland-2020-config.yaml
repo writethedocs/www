@@ -18,7 +18,7 @@ buttons:
     - text: Date and ticket information
       link: /news/announcing-virtual-conf-dates-tickets
     - text: Sponsor us
-      link: /sponsors/prospectus
+      link: /sponsors/online-prospectus
      # - text: Buy a Ticket!
      #   link: /tickets
     # - text: Submit a Talk
@@ -39,7 +39,7 @@ buttons:
      - text: Date and ticket information
        link: /news/announcing-virtual-conf-dates-tickets
      - text: Sponsor the conference
-       link: /sponsors/prospectus
+       link: /sponsors/online-prospectus
      # - text: See the talks!
      #   link: /speakers
     # - text: Buy a Ticket!
