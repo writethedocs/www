@@ -1,7 +1,7 @@
 .. post:: June 19, 2020
    :tags: blacklivesmatter, statement
 
-Matching donations made in support of the black community
+Matching donations made in support of the Black community
 =========================================================
 
 In recognition of `Juneteeth <https://en.wikipedia.org/wiki/Juneteenth>`_ here in the United States,
