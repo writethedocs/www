@@ -9,9 +9,9 @@ we'd like to follow up on our :doc:`donation matching program </blog/we-stand-wi
 for non-profit organizations supporting the Black community and their ongoing efforts.
 
 This week, we reached the goal of $1,500 in donations made by our community,
-and Write the Docs made matching donations to nine different organisations.
+and Write the Docs made matching donations to nine different organizations.
 
-We matched donations to the following organisations:
+We matched donations to the following organizations:
 
 * NAACP Legal Defense Fund: $435
 * UndocuBlack Network: $300
