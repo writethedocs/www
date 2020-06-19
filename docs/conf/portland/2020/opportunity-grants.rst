@@ -11,7 +11,7 @@ Depending on the number of applications, we may not be able to provide every app
 
 Grant applicants, like all other participants in the Write the Documents community, are required to conform to the Code of Conduct: https://www.writethedocs.org/code-of-conduct/.
 
-**Grant applications are open until June 5th, 2020, Midnight PST.**
+**Grant applications are open until July 1st, 2020, Midnight PST.**
 
 .. contents::
     :local:
