@@ -19,10 +19,10 @@ buttons:
      #   link_absolute: /blog/moving-portland-prague-2020-online/
     # - text: Buy a Ticket!
     #   link: /tickets
-    - text: Sponsor us
-      link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #  link: /cfp
+    #- text: Sponsor us
+    #  link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
     # - text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
@@ -78,6 +78,11 @@ grants:
   ends: null
   notification: null
 
+cfp:
+  url: https://pretalx.com/wtd-prague-2020/cfp
+  ends: "July 22, 2020"
+  notification: "August 14, 2020"
+
 date: # how do we handle these? human readable would be nice.
   main: "**October 18-20, 2020, online**"
   short: Oct 18-20, 2020
@@ -124,7 +129,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: False
-flagcfp: False
+flagcfp: True
 flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: False
