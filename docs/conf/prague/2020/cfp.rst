@@ -157,6 +157,10 @@ If you have any questions, please email us at `{{email}} <mailto:{{email}}>`_ an
 Submit your proposal
 --------------------------
 
-Submit your proposal at {{cfp.url}}, you'll need to sign up for a Pretalx account this tear, unless you already have one.
+.. raw:: html
+
+	<iframe src="{{cfp.url}}?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+You can also view `our CFP <{{cfp.url}}>`_ in its own page.
 
 {% endif %}
