@@ -134,7 +134,7 @@ Speaker benefits & logistics
 ----------------------------
 
 If you are selected to speak at Write the Docs, we will waive your attendance fee. As the conference is virtual, there are no travel costs.
-If speaking incurs any costs that are difficult for you to cover, please `{{let us know}} <mailto:{{email}}>`_ and we'll do our best to help out.
+If speaking incurs any costs that are difficult for you to cover, please `let us know <mailto:{{email}}>`_ and we'll do our best to help out.
 
 If you already have a ticket, we will of course refund it - just drop us an  `{{email}} <mailto:{{email}}>`_.
 
