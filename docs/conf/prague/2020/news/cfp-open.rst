@@ -6,7 +6,7 @@
 Announcing Prague Call for Proposals
 ====================================
 
-Today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/prague/2019/cfp/>`_.
+Today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/prague/2020/cfp/>`_ for our Virtual Prague conference, taking place October 18-20, 2020.
 
 Due to the circumstances that you're all familiar with, we're opening it later than usual, and for a shorter length of time.
 And we know that it hasn't been an easy year. Nevertheless we'd love to see you on our online stage in October, to share your ideas with our inspiring community of documentarians.
