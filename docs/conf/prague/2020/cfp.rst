@@ -3,7 +3,7 @@
 Call for Proposals
 ==================
 
-Hello hello, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{ area_adj }} conference, coming up on {{date.main}}.
+Hello hello, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{ area_adj }} conference, coming up on {{date.main}}. The conference is virtual this year, so you can speak or attend from anywhere. We will use regular Prague conference times for the scheduling.
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you!
 Read on to learn more about the goals of the conference and what we look for in talk proposals.
@@ -26,9 +26,9 @@ We will announce the CFP soon.
 Conference goals
 ----------------
 
-Write the Docs conferences are our chance to get together in-person to explore and celebrate the craft of documentation in a positive, inclusive environment.
+Write the Docs conferences are our chance to get together to explore and celebrate the craft of documentation in a positive, inclusive environment.
 
-Between the talks on stage, the discussions in the unconference, the collaboration on the writing day and the conversations in the hallway, 100% of the content for our conferences comes from our community! Whether your job title is writer, developer, product manager, support advocate, librarian, or one of a hundred others, your perspective on what makes good docs is what this conference is all about.
+Between the talks on stage, the discussions in the unconference, the collaboration on the writing day and other conversations, 100% of the content for our conferences comes from our community! Whether your job title is writer, developer, product manager, support advocate, librarian, or one of a hundred others, your perspective on what makes good docs is what this conference is all about.
 
 Our goal is to give documentarians a chance to connect and learn from each other. You'll have the chance to compare notes on what's happening in the industry, dig into questions of convention and good practice, and generally nerd out about all the things we love about documentation.
 
@@ -115,6 +115,7 @@ If you need a hand preparing or honing your talk proposal, there are lots of goo
 * **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `http://slack.writethedocs.org/ <http://slack.writethedocs.org/>`_.)
 * **Twitter hivemind** – If Twitter is more your speed, `#writethedocs <https://twitter.com/hashtag/writethedocs>`__ will get you there.
 
+Because the conference is virtual this year, there is no need for travel, and we're hoping this will make our CFP accessible to more documentarians. We will also provide resources and support for recording your talk.
 
 Selection process
 ------------------
@@ -127,16 +128,15 @@ We actively balance for diversity in as many ways as we can, which means that we
 Presentation format
 -------------------
 
-Presentations will be scheduled in 30-minute blocks. We won't be doing Q&A after the talks, but we ask that speakers be available at the front of the stage for a few minutes of the break after their talk to answer questions.
+Presentations will be scheduled in 30-minute blocks. As the conference is virtual, all talks will be pre-recorded. We will offer resources and support for making your talk recording. After your talk, there will be a live Q&A session. You can opt out of the Q&A if you do not feel comfortable, but please let us know early on.
 
 Speaker benefits & logistics
 ----------------------------
 
-If you are selected to speak at Write the Docs, we will waive your attendance fee. We regret that we are not able to cover the cost of travel or lodging for all speakers at this time. By not covering travel costs for our speakers, we are able to keep ticket prices low and to make the conference accessible to the largest number of participants possible.
+If you are selected to speak at Write the Docs, we will waive your attendance fee. As the conference is virtual, there are no travel costs.
+If speaking incurs any costs that are difficult for you to cover, please `let us know <mailto:{{email}}>`_ and we'll do our best to help out.
 
 If you already have a ticket, we will of course refund it - just drop us an  `{{email}} <mailto:{{email}}>`_.
-
-If your proposal is accepted but you would find it difficult to attend due to travel costs, please let us know and we will do our best to help make it happen.
 
 {% if flagcfp %}**You’ll hear from us with our proposal decisions by the end of {{cfp.notification}}.**{% endif %}
 
@@ -157,10 +157,6 @@ If you have any questions, please email us at `{{email}} <mailto:{{email}}>`_ an
 Submit your proposal
 --------------------------
 
-.. raw:: html
-
-	<iframe src="{{cfp.url}}?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
-You can also view `our CFP <{{cfp.url}}>`_ in its own page.
+Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx account this year, unless you already have one.
 
 {% endif %}
