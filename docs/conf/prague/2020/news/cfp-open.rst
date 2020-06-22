@@ -6,10 +6,10 @@
 Announcing Prague Call for Proposals
 ====================================
 
-Today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/prague/2020/cfp/>`_ for our Virtual Prague conference, taking place October 18-20, 2020.
+Today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/prague/{{year}}/cfp/>`_.
 
-Due to the circumstances that you're all familiar with, we're opening it later than usual, and for a shorter length of time.
-And we know that it hasn't been an easy year. Nevertheless we'd love to see you on our online stage in October, to share your ideas with our inspiring community of documentarians.
+Due to the global situation that you're all familiar with we've moved the Prague conference online, and changed the dates to 19-20 October 2020.
+This means that we're only leaving our call for proposals open for one month. We know that it hasn't been an easy year. Nevertheless we'd love to see you on our online stage in October, to share your ideas with our inspiring community of documentarians.
 
 If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!
 
@@ -19,18 +19,21 @@ Call for Proposals
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, editor, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
 
+We're hoping that folks who would not be able to travel to Prague will be able to join us this time round, both as attendees and as speakers! If you've always wanted to talk about documentation but not been able to travel for whatever reason, now is the time.
+
 You can read our full `Call for Proposals <https://www.writethedocs.org/conf/prague/{{year}}/cfp/>`__ on the website.
 The Call for Proposals will be open until **Midnight {{tz}} on {{cfp.ends}}**.
 
 Tickets
 -------
 
-In the meantime, you can grab a ticket on our `Tickets <https://www.writethedocs.org/conf/prague/{{year}}/tickets/>`_ page.
-As with the previous years, we have tiered pricing to make it fair for everyone. Please buy the ticket that best fits your situation.
+We'll be opening ticket sales very soon, in the meantime, you can take a look at the new prices for the online conference on our `Tickets <https://www.writethedocs.org/conf/prague/{{year}}/tickets/>`_ page.
 
-As always, we keep ticket prices low so that it is accessible to the widest range of people possible. However, if you can't afford these prices and still wish to attend, please email us at prague@writethedocs.org, and we can see how we can help.
 
-We will also open a call for volunteers and organizers later, both of which are great opportunities to get involved with the community and also receive a free ticket.
+Grant tickets
+-------------
+
+We'll be opening our grant program very soon.
 
 Stay Updated
 ------------
@@ -39,8 +42,5 @@ Want to find out what's happening with the conference, or enjoy our monthly glob
 Sign up to one or more of our `mailing lists <http://eepurl.com/cdWqc5>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
 
 Want to connect with other documentarians in real-time? Join our `Slack <http://slack.writethedocs.org/>`_.
-
-Conclusion
-----------
 
 We hope you will join us for a new online Write the Docs conference.
