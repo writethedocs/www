@@ -1,6 +1,8 @@
 Meetups
 =======
 
+.. note:: For information and updates regarding WTD meetup events during the COVID-19 restrictions, see Meetups and COVID-19 <https://www.writethedocs.org/organizer-guide/meetups/covid-19-meetups/>`_.
+
 **Write the Docs Meetups** allow for documentarians to get to know their
 local community better. Meeting in person is a great way to stay up to
 date with the documentation world, and meet some great people in the
