@@ -74,9 +74,9 @@ sponsorship:
     price: €13,500
 
 grants:
-  url: null
-  ends: null
-  notification: null
+  url: https://docs.google.com/forms/d/e/1FAIpQLSeMkscbftaTNfr3OS6f5X8xSxJqi1CP3oaYe3jeauzi_uECXg/viewform
+  ends: "September 1, 2020"
+  notification: "September 14, 2020"
 
 cfp:
   url: https://pretalx.com/wtd-prague-2020/cfp

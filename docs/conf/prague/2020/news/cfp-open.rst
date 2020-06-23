@@ -29,11 +29,14 @@ Tickets
 
 We'll be opening ticket sales very soon, in the meantime, you can take a look at the new prices for the online conference on our `Tickets <https://www.writethedocs.org/conf/prague/{{year}}/tickets/>`_ page.
 
+Opportunity Grants
+------------------
 
-Grant tickets
--------------
+Our grant program offers tickets to people who would otherwise not be able to attend.
+We're excited to be able to offer free tickets to a larger number of people this year,
+since there are now minimal other costs to attend the event.
 
-We'll be opening our grant program very soon.
+You can apply until **September 1, 2020, Midnight CEST** on `our website <https://www.writethedocs.org/conf/prague/2020/opportunity-grants/>`_.
 
 Stay Updated
 ------------
