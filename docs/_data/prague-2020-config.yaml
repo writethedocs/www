@@ -17,12 +17,12 @@ buttons:
   top:
      # - text: The conference is moving online
      #   link_absolute: /blog/moving-portland-prague-2020-online/
-    # - text: Buy a Ticket!
-    #   link: /tickets
+     - text: Buy a Ticket!
+       link: /tickets
     #- text: Sponsor us
     #  link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
+     - text: Submit a Talk
+       link: /cfp
     # - text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
@@ -40,8 +40,8 @@ buttons:
        link: /sponsors/prospectus
      # - text: The conference is moving online
      #   link_absolute: /blog/moving-portland-prague-2020-online/
-#     - text: Submit a Talk
-#       link: /cfp
+     - text: Submit a Talk
+       link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
 #    - text: Prepare with the Welcome Wagon
@@ -74,9 +74,9 @@ sponsorship:
     price: €13,500
 
 grants:
-  url: null
-  ends: null
-  notification: null
+  url: https://docs.google.com/forms/d/e/1FAIpQLSeMkscbftaTNfr3OS6f5X8xSxJqi1CP3oaYe3jeauzi_uECXg/viewform
+  ends: "September 1, 2020"
+  notification: "September 14, 2020"
 
 cfp:
   url: https://pretalx.com/wtd-prague-2020/cfp
@@ -130,7 +130,7 @@ sponsors:
 flaglanding: False
 flaghassponsors: False
 flagcfp: True
-flagticketsonsale: False
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flaghasschedule: False
