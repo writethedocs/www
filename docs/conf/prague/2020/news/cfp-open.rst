@@ -3,15 +3,15 @@
 .. post:: June 22, 2020
    :tags: prague-2020, website, cfp, tickets
 
-Announcing Prague Call for Proposals
+Announcing Prague Call for Proposals and Ticket Sales
 ====================================
 
-Today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/prague/{{year}}/cfp/>`_.
+Today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/prague/{{year}}/cfp/>`_ and `ticket sales <https://www.writethedocs.org/conf/prague/{{year}}/tickets/>`_.
 
-Due to the global situation that you're all familiar with we've moved the Prague conference online, and changed the dates to 19-20 October 2020.
-This means that we're only leaving our call for proposals open for one month. We know that it hasn't been an easy year. Nevertheless we'd love to see you on our online stage in October, to share your ideas with our inspiring community of documentarians.
+Due to the global pandemic we've moved the Prague conference online, and changed the dates to 18-20 October 2020.
+This means that we're only leaving our Call for Proposals open for one month. We know that it hasn't been an easy year. Nevertheless we'd love to see you on our online stage in October, to share your ideas with our inspiring community of documentarians.
 
-If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!
+If there is something you’d really like to see a talk about this year, submit a proposal for it or refer someone else who would be good!
 
 Call for Proposals
 ------------------
@@ -27,7 +27,9 @@ The Call for Proposals will be open until **Midnight {{tz}} on {{cfp.ends}}**.
 Tickets
 -------
 
-We'll be opening ticket sales very soon, in the meantime, you can take a look at the new prices for the online conference on our `Tickets <https://www.writethedocs.org/conf/prague/{{year}}/tickets/>`_ page.
+Tickets are now on sale! Take a look at the new prices for the online conference on our `Tickets <https://www.writethedocs.org/conf/prague/{{year}}/tickets/>`_ page.
+
+If you previously purchased a ticket to our Portland conference and chose to convert your ticket to a virtual conference pass, you'll receive an email from us in the next weeks to confirm your registration to the Prague virtual conference.
 
 Opportunity Grants
 ------------------
@@ -38,7 +40,7 @@ since there are now minimal other costs to attend the event.
 
 You can apply until **September 1, 2020, Midnight CEST** on `our website <https://www.writethedocs.org/conf/prague/2020/opportunity-grants/>`_.
 
-Stay Updated
+Stay updated
 ------------
 
 Want to find out what's happening with the conference, or enjoy our monthly global community newsletter?
