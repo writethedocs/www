@@ -1,10 +1,10 @@
 Website Sponsorship
 ===================
 
-You can sponsor the Write the Docs community website in two ways:
+You can sponsor the Write the Docs community website (what you're currently browsing) in two ways:
 
 * `Footer sponsorship`_
-* `Sidebar Advertising`_
+* `Sidebar advertising`_
 
 Website Stats
 -------------
