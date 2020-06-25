@@ -34,7 +34,7 @@ You can see an example of this on the footer of this website.
 Specs
 ~~~~~
 
-* Company logo image
+* Company logo image (square or rectangular is best)
 * One link for the image and copy to point to
 
 If you are a conference sponsor,
@@ -67,3 +67,9 @@ Cost
 ~~~~
 
 We currently sell advertising for the cost of **$250 per 10,000 impressions**.
+
+Contact
+-------
+
+If you are interested in sponsorship you can reach us at sponsorship@writethedocs.org.
+We're happy to work with you to craft the best sponsorship for your organization.
