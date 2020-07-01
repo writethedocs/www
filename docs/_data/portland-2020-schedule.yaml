@@ -15,13 +15,11 @@ talks_day1:
     title: "<b>Unconference Starts</b>"
   - time: '9:40'
     slug: moving-beyond-empathy-a11y-in-documentation-alexandra-n-white
-  - time: '10:20'
+  - time: '10:25'
     slug: globalise-the-docs-lucy-carey
-  - time: '10:50'
-    title: Snack break
   - time: '11:10'
     slug: writing-backwards-documenting-the-end-of-life-of-a-product-anni-bond
-  - time: '11:50'
+  - time: '11:55'
     title: TBD
   - time: '12:20'
     title: Lunch (60 mins)
@@ -29,13 +27,11 @@ talks_day1:
     title: Lightning Talks
   - time: '2:00'
     slug: finding-the-line-balancing-business-continuity-and-documentation-debt-luca-janssens
-  - time: '2:40'
+  - time: '2:45'
     slug: building-a-content-focused-scientific-document-authoring-workflow-for-data-scientists-and-engineers-alike-colin-dean
-  - time: '3:10'
-    title: Snack break
   - time: '3:30'
     slug: don-t-fear-migration-how-to-successfully-move-docs-to-a-new-tool-brooke-wayne
-  - time: '4:10'
+  - time: '4:15'
     slug: where-documentation-cloud-hosted-interactive-tutorials-and-continuous-integration-testing-intersect-dan-gunter
   - time: '5:00'
     title: Day 1 wraps up
@@ -45,51 +41,33 @@ talks_day1:
     title: '<b>Social Event Ends</b>'
 
 talks_day2:
-  - time: '8:00'
-    title: Doors Open
   - time: '9:00'
     slug: creating-quality-sample-code-jessica-garson
-  - time: '9:30'
-    title: Switch Speakers
-  - time: '9:40'
-    title: "<b>Job Fair Starts (Lola's Room)</b>"
-  - time: '9:40'
+  - time: '9:45'
+    title: "<b>Job Fair Starts</b>"
+  - time: '9:45'
     slug: collaborating-with-teams-on-content-strategy-planning-pitfalls-and-best-practices-kateryna-osadchenko
-  - time: '10:10'
-    title: Switch Speakers
-  - time: '10:20'
+  - time: '10:30'
     slug: model-view-docs-taming-large-scale-documentation-projects-using-structured-data-luc-perkins
-  - time: '10:50'
-    title: Snack break
-  - time: '11:10'
+  - time: '11:15'
     slug: set-your-data-free-with-model-based-architecture-diagramming-avi-flax
-  - time: '11:40'
-    title: Switch Speakers
-  - time: '11:50'
+  - time: '12:00'
     slug: documentation-as-an-application-enabling-interactive-content-that-is-tailored-to-the-user-ryan-paul
-  - time: '12:20'
+  - time: '12:45'
     title: Lunch (60 mins)
-  - time: '1:05'
-    title: "Behind the Scenes with Aaron and Vanessa"
-  - time: '1:20'
+  - time: '1:45'
     title: Lightning Talks (30 mins)
-  - time: '1:20'
+  - time: '2:15'
     title: "<b>Unconference Starts</b>"
-  - time: '1:50'
-    title: Switch Speakers
-  - time: '2:00'
+  - time: '2:15'
     slug: walking-backwards-tracing-the-new-customer-journey-from-finish-to-start-to-help-shape-content-sally-stumbo
-  - time: '2:30'
-    title: Switch Speakers
-  - time: '2:40'
+  - time: '3:00'
     slug: the-search-for-search-paul-logan
-  - time: '3:10'
-    title: Switch Speakers
-  - time: '3:20'
+  - time: '3:45'
     slug: read-the-rules-what-technical-writers-can-learn-from-board-game-design-matthew-baldwin
-  - time: '4:00'
-    slug: why-sdk-docs-matter-and-what-i-m-doing-about-it-shavindri-dissanayake-shavi
   - time: '4:30'
+    slug: why-sdk-docs-matter-and-what-i-m-doing-about-it-shavindri-dissanayake-shavi
+  - time: '5:15'
     title: Closing address
-  - time: '4:40'
+  - time: '5:45'
     title: "<b>Conference Ends</b> :("
