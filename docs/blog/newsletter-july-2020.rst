@@ -93,7 +93,7 @@ From our sponsor: Looking to learn new skills or find your dream job?
 
 This month's newsletter is sponsored by `Microsoft global skills initiative <https://blogs.microsoft.com/?p=52559013>`__:
 
-------------
+.. raw:: html
 
     <hr>
     <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
@@ -101,22 +101,19 @@ This month's newsletter is sponsored by `Microsoft global skills initiative <htt
         <tr>
           <td width="75%">
               <p>
-              <strong>Looking to learn new skills, or find your dream job?</strong><br>
 
-              LinkedIn, Microsoft, and GitHub are offering free learning paths for in-demand jobs, discounted Microsoft certifications, and best practices for job searching and interview prepping, so you can put your best foot forward. Check out the free resources available at <a href="https://opportunity.linkedin.com">opportunity.linkedin.com</a>
+              LinkedIn, Microsoft, and GitHub are offering free learning paths for in-demand jobs, discounted Microsoft certifications, and best practices for job searching and interview prepping, so you can put your best foot forward. Check out the free resources available at <a href="https://opportunity.linkedin.com">opportunity.linkedin.com</a>.
               </p>
           </td>
           <td width="25%">
             <a href="https://blogs.microsoft.com/?p=52559013">
-              <img alt="Microsoft" src="/_static/img/sponsors/microsoft.png">
+              <img style="margin-left: 15px;" alt="Microsoft" src="/_static/img/sponsors/microsoft.png">
             </a>
           </td>
         </tr>
       </tbody>
     </table>
     <hr>
-
-------------
 
 *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
