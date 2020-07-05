@@ -4,7 +4,7 @@
    :tags: prague-2020, website, cfp, tickets
 
 Announcing Prague Call for Proposals and Ticket Sales
-====================================
+======================================================
 
 Today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/prague/{{year}}/cfp/>`_ and `ticket sales <https://www.writethedocs.org/conf/prague/{{year}}/tickets/>`_.
 
