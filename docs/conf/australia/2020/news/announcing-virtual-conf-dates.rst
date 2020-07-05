@@ -10,7 +10,7 @@ Write the Docs Australia 2020 will be a virtual conference. Plus this year, we a
 
 We decided to move the conference to December, to allow for enough time after the new Prague conference dates in October.
 The main conference days will be on **{{date.day_one.dotw}}, {{date.day_one.date}}, 11:00-21:00 {{tz}}**,
-and the  **{{date.day_ttwo.dotw}}, {{date.day_two.date}}, 11:00-21:00 {{tz}}**.
+and the  **{{date.day_two.dotw}}, {{date.day_two.date}}, 11:00-21:00 {{tz}}**.
 
 Ticket sales will open end of July. Check out the :doc:`tickets page </conf/{{shortcode}}/{{year}}/tickets>` for prices. Your virtual ticket includes:
 
