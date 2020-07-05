@@ -5,7 +5,7 @@
 Write the Docs Newsletter – July 2020
 #####################################
 
-Hello, everyone! It's Beth here, with the latest edition of the Write the Docs newsletter. As I write to you from here in Switzerland, summer seems to have finally arrived. Here's to bright sun and blue skies ahead, and hopefully a bit of a break as the summer holidays cme along.
+Hello, everyone! It's Beth here, with the latest edition of the Write the Docs newsletter. As I write to you from here in Switzerland, summer seems to have finally arrived. Here's to bright sun and blue skies ahead, and hopefully a bit of a break as the summer holidays come along.
 
 Big news this month is that the `call for proposals for the virtual Prague conference </conf/prague/2020/news/cfp-open/>`__ is open! The deadline for proposal submissions is **22nd July**.
 
@@ -35,7 +35,7 @@ What if you're on the other side, **considering a move into management** - how d
 Gathering documentation feedback
 -------------------------------
 
-To improve documentation, we need to know where it's lacking, and we can get this feedback from a variety of sources, including user interviews and internal surveys. Here's some advice from our community on how to go about it!
+To improve documentation, we need to know where it's lacking. We can get this feedback from a variety of sources, including user interviews and internal surveys. Here's some advice from our community on how to go about it!
 
 * Your readers usually aren't thinking about the docs but about their tasks. So, make it simple for them to share their thoughts. Initial quick responses are usually the most honest feedback you’ll gather.
 * Try a short meeting with docs readers to learn about their pain points. Ask them to walk you through a daily task, or follow a doc to achieve a task. Pay attention to the nouns and verbs they use - it can help you match the terms that your users think in.
