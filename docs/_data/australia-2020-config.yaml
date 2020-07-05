@@ -1,0 +1,137 @@
+name: Australia
+
+shortcode: australia # prague australia?
+year: 2020
+city: Australia + India
+local_area: Australia
+area: Australia
+area_adj: Australian
+tz: AEDT
+email: australia@writethedocs.org
+color: blue
+
+photos:
+  default: _static/conf/images/headers/prague-group.png
+
+buttons:
+  top:
+     # - text: The conference is moving online
+     #   link_absolute: /blog/moving-portland-prague-2020-online/
+     - text: Buy a Ticket!
+       link: /tickets
+    #- text: Sponsor us
+    #  link: /sponsors/prospectus
+    #  - text: Submit a Talk
+    #    link: /cfp
+    # - text: See the talks!
+    #   link: /speakers
+#    - text: See the Schedule!
+#      link: /schedule
+    # - text: Welcome Wagon
+    #   link: /welcome-wagon
+#    - text: Watch the Live Stream
+#      link: /livestream
+#     - text: Browse the photos
+#       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+#     - text: Watch the videos!
+#       link_absolute: /videos/portland/2020
+  bottom:
+     - text: Sponsor us
+       link: /sponsors/prospectus
+     # - text: The conference is moving online
+     #   link_absolute: /blog/moving-portland-prague-2020-online/
+     # - text: Submit a Talk
+     #   link: /cfp
+    # - text: Buy a Ticket!
+    #   link: /tickets
+#    - text: Prepare with the Welcome Wagon
+#      link: /welcome-wagon
+#    - text: See the schedule!
+#      link: /schedule
+    # - text: Watch the Live Stream
+    #  link: /livestream
+#     - text: Browse the photos
+#       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+#     - text: Watch the videos!
+#       link_absolute: /videos/portland/2020
+
+tickets:
+  corporate:
+    price: $150
+  independent:
+    price: $100
+  student:
+    price: $50
+
+sponsorship:
+  first_draft:
+    price: $500
+  second_draft:
+    price: $1000
+  publisher:
+    price: $2000
+  patron:
+    price: $4000
+  keystone:
+    price: $7500
+
+cfp:
+  url: https://pretalx.com/wtd-australia-2020/cfp
+  ends: "August 31, 2020"
+  notification: "September 20, 2020"
+
+date: # how do we handle these? human readable would be nice.
+  main: "**December 3-4, 2020, online**"
+  short: Dec 3-4, 2020
+  tickets_live: "July 2020"
+  month: December
+  day_one:
+    event: Main Conference - Day 1
+    date: December 3
+    summary: The first conference day, including talks, unconference and networking time.
+    icon: confereence
+    dotw: Thursday
+  day_two:
+    event: Main Conference - Day 2
+    date: December 4
+    summary: Another day of talks, unconference, and discussion time.
+    icon: conference
+    dotw: Friday
+  total_talk_days: 2
+
+about:
+  attendees: 150
+  summary:
+    "The main presentation track takes place from **December 3-4 (Thursday and Friday) from 11:00 to 20:00**.
+    During the main event we also run an :doc:`/conf/australia/2020/unconference`."
+  venue: "Online, platform to be determined"
+  mainroom: TBA
+  unconfroom: TBA
+  projector_ratio: "16:9"
+  job_fair_room: "Sponsor area"
+
+
+sponsors:
+  publisher:
+  second:
+  first:
+
+
+# Things that change over time, listed in order of change
+flaglanding: True
+flaghassponsors: False
+flagcfp: False
+flagticketsonsale: False
+flagsoldout: False
+flagspeakersannounced: False
+flaghasschedule: False
+flaghasshirts: False
+flagvideos: False
+flaglivestreaming: False
+flagpostconf: False
+
+# Truthy things that don't change
+flaghashike: False
+flaghasboat: False
+flaghaswritingday: False
+flaghasbadgeflair: False
