@@ -1,7 +1,7 @@
 Website Sponsorship
 ===================
 
-You can sponsor the Write the Docs community website (what you're currently browsing) in two ways:
+You can sponsor the Write the Docs community website in two ways:
 
 * `Footer sponsorship`_
 * `Sidebar advertising`_
@@ -22,7 +22,7 @@ Our audience is made up of:
 Footer sponsorship
 ------------------
 
-This sponsorship includes your company logo and a link to your site in the footer or sidebar of all our documentation pages.
+This sponsorship includes your company logo and a link to your site in the `footer <#community-sponsors>`_ of all our community site pages.
 
 Example
 ~~~~~~~
