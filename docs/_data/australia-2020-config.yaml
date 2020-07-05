@@ -122,7 +122,7 @@ sponsors:
   first:
 
 
-# Things that change over time, listed in order of change
+# Things that change over time, listed in order of change 
 flaglanding: True
 flaghassponsors: False
 flagcfp: False
