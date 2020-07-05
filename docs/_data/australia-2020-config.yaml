@@ -75,6 +75,11 @@ sponsorship:
   keystone:
     price: $7500
 
+grants:
+  url: https://docs.google.com/forms/d/e/1FAIpQLSeMkscbftaTNfr3OS6f5X8xSxJqi1CP3oaYe3jeauzi_uECXg/viewform
+  ends: "October 1, 2020"
+  notification: "October 15, 2020"
+
 cfp:
   url: https://pretalx.com/wtd-australia-2020/cfp
   ends: "August 31, 2020"
