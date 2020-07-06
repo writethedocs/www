@@ -68,7 +68,6 @@ Writing Day
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-writing-day.yaml
    :template: include/schedule2019.rst
-   :include_context:
 
 {% else %}
   A detailed schedule will be announced soon.
@@ -136,7 +135,6 @@ Conference Talks
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-day-1.yaml
    :template: include/schedule2019.rst
-   :include_context:
 
 {% else %}
   A detailed schedule will be announced soon.
@@ -189,7 +187,6 @@ Conference Talks
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-day-2.yaml
    :template: include/schedule2019.rst
-   :include_context:
 
 {% else %}
   A detailed schedule will be announced soon.

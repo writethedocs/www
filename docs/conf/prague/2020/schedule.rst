@@ -47,7 +47,7 @@ Further details will be announced later.
 
 
 {{date.day_two.dotw}}, {{date.day_two.date}}
-----------------------------------------
+-----------------------------------------
 
 The Writing Day and Welcome Reception will be held **{{about.venue}}**.
 
@@ -94,7 +94,7 @@ We're hoping to have some fun activities planned for the evening online.
 {% endif %}
 
 Monday, October 19
------------------
+------------------
 
 .. contents::
    :local:
@@ -146,7 +146,7 @@ but expect some music and games,
 and bring your favorite beverage to your computer :)
 
 Tuesday, October 20
-------------------
+-------------------
 
 .. contents::
    :local:

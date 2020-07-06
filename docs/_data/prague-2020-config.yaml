@@ -17,12 +17,12 @@ buttons:
   top:
      # - text: The conference is moving online
      #   link_absolute: /blog/moving-portland-prague-2020-online/
-    # - text: Buy a Ticket!
-    #   link: /tickets
-    - text: Sponsor us
-      link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #  link: /cfp
+     - text: Buy a Ticket!
+       link: /tickets
+    #- text: Sponsor us
+    #  link: /sponsors/prospectus
+     - text: Submit a Talk
+       link: /cfp
     # - text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
@@ -40,8 +40,8 @@ buttons:
        link: /sponsors/prospectus
      # - text: The conference is moving online
      #   link_absolute: /blog/moving-portland-prague-2020-online/
-#     - text: Submit a Talk
-#       link: /cfp
+     - text: Submit a Talk
+       link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
 #    - text: Prepare with the Welcome Wagon
@@ -74,9 +74,14 @@ sponsorship:
     price: €13,500
 
 grants:
-  url: null
-  ends: null
-  notification: null
+  url: https://docs.google.com/forms/d/e/1FAIpQLSeMkscbftaTNfr3OS6f5X8xSxJqi1CP3oaYe3jeauzi_uECXg/viewform
+  ends: "September 1, 2020"
+  notification: "September 14, 2020"
+
+cfp:
+  url: https://pretalx.com/wtd-prague-2020/cfp
+  ends: "July 22, 2020"
+  notification: "August 14, 2020"
 
 date: # how do we handle these? human readable would be nice.
   main: "**October 18-20, 2020, online**"
@@ -124,8 +129,8 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: False
-flagcfp: False
-flagticketsonsale: False
+flagcfp: True
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flaghasschedule: False
