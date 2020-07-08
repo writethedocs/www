@@ -32,8 +32,8 @@
   speakers:
   - name: Kateryna Osadchenko
     slug: kateryna-osadchenko
-    twitter: ''
-    website: https://www.linkedin.com/in/kateryna-osadchenko-17771731/
+    twitter: 
+    website: https://www.linkedin.com/in/kateryna-osadchenko/
   abstract: '<p>I want to discuss the pitfalls and best practices/workarounds of planning
     a content strategy and importance of finding the right approach, tone, and voice
     of your content when collaborating with teams of developers, designers, and product
@@ -48,13 +48,13 @@
     content strategy in situations when there is no clear existing one and how to
     make your planning and implementation process smoother and more organized.</p>'
 - title: 'Moving beyond empathy: a11y in documentation'
-  slug: moving-beyond-empathy-a11y-in-documentation-alexandra-n-white
+  slug: moving-beyond-empathy-a11y-in-documentation-alexandra-white
   series: Write the Docs Portland
-  series_slug: moving-beyond-empathy-a11y-in-documentation-alexandra-n-white
+  series_slug: moving-beyond-empathy-a11y-in-documentation-alexandra-white
   year: 2020
   speakers:
-  - name: Alexandra N White
-    slug: alexandra-n-white
+  - name: Alexandra White
+    slug: alexandra-white
     twitter: heyawhite
     website: heyawhite.com
   abstract: '<p>Accessibility is a crucial part of product creation. Every team member,
