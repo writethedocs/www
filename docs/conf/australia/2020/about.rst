@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/conf/images/headers/team.png
+:banner: _static/conf/images/headers/WTDAUTeam.jpg
 
 About the Conference
 ====================
