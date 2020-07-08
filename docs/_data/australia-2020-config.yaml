@@ -2,7 +2,7 @@ name: Australia & India
 
 shortcode: australia # prague australia?
 year: 2020
-city: Australia
+city: Melbourne
 local_area: Australia
 area: Australia
 area_adj: Australian
@@ -17,8 +17,8 @@ buttons:
   top:
      # - text: The conference is moving online
      #   link_absolute: /blog/moving-portland-prague-2020-online/
-     - text: Buy a Ticket!
-       link: /tickets
+      # - text: Buy a Ticket!
+     #   link: /tickets
     #- text: Sponsor us
     #  link: /sponsors/prospectus
     #  - text: Submit a Talk
