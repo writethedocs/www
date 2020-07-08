@@ -1,8 +1,8 @@
-name: Australia + India
+name: Australia & India
 
 shortcode: australia # prague australia?
 year: 2020
-city: Melbourne
+city: Australia
 local_area: Australia
 area: Australia
 area_adj: Australian
@@ -11,7 +11,7 @@ email: australia@writethedocs.org
 color: blue
 
 photos:
-  default: _static/conf/images/headers/WTDBanner.jpg
+  default: _static/conf/images/headers/WTDBanner.png
 
 buttons:
   top:
