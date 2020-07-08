@@ -11,7 +11,7 @@ email: australia@writethedocs.org
 color: blue
 
 photos:
-  default: _static/conf/images/headers/WTDBanner.png
+  default: _static/conf/images/headers/prague-group.png
 
 buttons:
   top:
