@@ -3,8 +3,8 @@ name: Australia
 shortcode: australia # prague australia?
 year: 2020
 city: Australia + India
-local_area: Australia
-area: Australia
+local_area: Australia + India
+area: Australia + India
 area_adj: Australian
 tz: AEDT
 email: australia@writethedocs.org
@@ -94,7 +94,7 @@ date: # how do we handle these? human readable would be nice.
     event: Main Conference - Day 1
     date: December 3
     summary: The first conference day, including talks, unconference and networking time.
-    icon: confereence
+    icon: conference
     dotw: Thursday
   day_two:
     event: Main Conference - Day 2
@@ -122,7 +122,7 @@ sponsors:
   first:
 
 
-# Things that change over time, listed in order of change 
+# Things that change over time, listed in order of change
 flaglanding: True
 flaghassponsors: False
 flagcfp: False
