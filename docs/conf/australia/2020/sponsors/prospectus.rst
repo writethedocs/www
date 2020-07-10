@@ -51,7 +51,7 @@ The **First Draft** package is only available to startups (under 15 employees), 
 - **Increased** A short description (250 characters) and logo of your company on the conference website
 - Name included in welcome announcement in email newsletters and social media
 
-The **First Draft** package costs AUD**{{sponsorship.first_draft.price}}**.
+The **First Draft** package costs AUD **{{sponsorship.first_draft.price}}**.
 
 Second Draft
 ------------
@@ -63,7 +63,7 @@ The **Second Draft** package is great for companies looking to hire or to promot
 - **Increased** A short description (250 characters) and logo of your company on the conference website
 - Name included in welcome announcement in email newsletters and social media
 
-The **Second Draft** package costs AUD**{{sponsorship.second_draft.price}}**.
+The **Second Draft** package costs AUD **{{sponsorship.second_draft.price}}**.
 
 Publisher
 ---------
@@ -76,7 +76,7 @@ The **Publisher** package is great for sending a team and getting to know the co
 - Name included in welcome announcement in email newsletters and social media
 - **New** A small logo on all Write the Docs website pages for 3 months
 
-The **Publisher** package costs AUD**{{sponsorship.publisher.price}}**.
+The **Publisher** package costs AUD **{{sponsorship.publisher.price}}**.
 
 Patron
 ------
@@ -97,7 +97,7 @@ The **Patron** package highlights your company as a force in the industry and co
 - **New** A logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
 - **New** A :doc:`small ad </sponsorship/website>` displayed on all non-conferences pages of the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months.
 
-The **Patron** package costs AUD**{{sponsorship.patron.price}}**.
+The **Patron** package costs AUD **{{sponsorship.patron.price}}**.
 
 Keystone
 --------
@@ -116,7 +116,7 @@ The **Keystone** package highlights you as our main community partner:
 - **New** A logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
 - **New** A :doc:`small ad </sponsorship/website>` on the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months
 
-The **Keystone** package costs AUD**{{sponsorship.keystone.price}}**.
+The **Keystone** package costs AUD **{{sponsorship.keystone.price}}**.
 
 Other Sponsorship Opportunities
 ===============================
@@ -132,7 +132,7 @@ which provides funding for people to attend the conference.
 
 AUD**{{sponsorship.second_draft.price}}**
 
-Additionally, for AUD**{{sponsorship.publisher.price}}** we will offer exclusive sponsorship of our Opportunity Grant program.
+Additionally, for AUD **{{sponsorship.publisher.price}}** we will offer exclusive sponsorship of our Opportunity Grant program.
 Please talk to us about this soon,
 as this option is removed once we have secured the required funding for this benefit.
 
