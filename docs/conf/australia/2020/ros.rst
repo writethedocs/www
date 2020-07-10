@@ -19,7 +19,7 @@ Run of show
 {% endwith %}
 {% endif %}
 
-Monday, October 19
+Thursday, December 3
 ------------------
 
 {% if flaghasschedule %}
@@ -28,7 +28,7 @@ Monday, October 19
 {% endwith %}
 {% endif %}
 
-Tuesday, October 20
+Friday, December 4
 -------------------
 
 {% if flaghasschedule %}
