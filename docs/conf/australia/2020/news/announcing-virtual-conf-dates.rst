@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 
-.. post:: July 12, 2020
-   :tags: australia, tickets, sponsors
+.. post:: July 10, 2020
+   :tags: australia-2020, tickets, sponsors
 
 Announcing virtual conference dates
 ===================================
