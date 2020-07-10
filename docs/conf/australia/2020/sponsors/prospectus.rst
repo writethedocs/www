@@ -41,6 +41,18 @@ Sponsorship Packages
 
 The following options are suggested sponsorship levels. We are happy to discuss adjustments and custom packages.
 
+First Draft
+------------
+
+The **First Draft** package is only available to startups (under 15 employees), non-profits, and open source organizations.
+
+- **Increased** Two (2) tickets_
+- **Increased** One (1) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- **Increased** A short description (250 characters) and logo of your company on the conference website
+- Name included in welcome announcement in email newsletters and social media
+
+The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
+
 Second Draft
 ------------
 
@@ -49,7 +61,6 @@ The **Second Draft** package is great for companies looking to hire or to promot
 - **Increased** Three (3) tickets_
 - **Increased** Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - **Increased** A short description (250 characters) and logo of your company on the conference website
-- A table at our **virtual job fair**
 - Name included in welcome announcement in email newsletters and social media
 
 The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
@@ -62,7 +73,6 @@ The **Publisher** package is great for sending a team and getting to know the co
 - **Increased** Seven (7) tickets_
 - **Increased** Four (4) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - **Increased** A short description (250 characters) and logo of your company on the conference website
-- A table at our **virtual job fair**
 - Name included in welcome announcement in email newsletters and social media
 - **New** A small logo on all Write the Docs website pages for 3 months
 
@@ -129,18 +139,8 @@ as this option is removed once we have secured the required funding for this ben
 Benefits
 ~~~~~~~~
 
-* Your sponsor logo will be shown on the stage during all staff presentations as a grant sponsor (opening, closing). 
+* Your sponsor logo will be shown on the stage during all staff presentations as a grant sponsor (opening, closing).
 * We will mention your company as a grant sponsor on Twitter from the official Write the Docs account
-
-Writing Day
------------
-
-Sponsor the Writing Day on Sunday, where we get together to help improve the documentation of many projects.
-This is great for any company that is looking for contributors to their open source projects.
-
-**{{sponsorship.second_draft.price}}**
-
-- **Logistics**: The Writing Day is during the day Sunday.
 
 Inquiries
 =========

@@ -20,7 +20,7 @@ Run of show
 {% endif %}
 
 Thursday, December 3
-------------------
+---------------------
 
 {% if flaghasschedule %}
 {% with day_schedule=schedule.day1 %}
