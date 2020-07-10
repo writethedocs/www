@@ -130,7 +130,7 @@ Opportunity Grants
 Provide additional money for our Opportunity Grant program,
 which provides funding for people to attend the conference.
 
-AUD**{{sponsorship.second_draft.price}}**
+AUD **{{sponsorship.second_draft.price}}**
 
 Additionally, for AUD **{{sponsorship.publisher.price}}** we will offer exclusive sponsorship of our Opportunity Grant program.
 Please talk to us about this soon,

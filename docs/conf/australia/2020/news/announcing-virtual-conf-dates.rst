@@ -11,7 +11,7 @@ Write the Docs Australia 2020 will be a virtual conference. For the first time w
 We're holding the conference in December, to allow for enough time after the new Prague conference dates in October.
 The main conference days will be on **{{date.day_one.dotw}}, {{date.day_one.date}}, 11:00-21:00 {{tz}}**,
 and the  **{{date.day_two.dotw}}, {{date.day_two.date}}, 11:00-21:00 {{tz}}**.
-Essentially, these times will cover timezones to cater for our community from the west coast of Australia to the Indian subcontinent later in the day.
+Essentially, these times will cover timezones to cater for our community from either coast of Australia to the Indian subcontinent later in the day.
 
 We would love to see documentarians from other parts of the Asia Pacific region join us in this APAC timezone friendly conference.
 
