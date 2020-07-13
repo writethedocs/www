@@ -83,7 +83,7 @@ def retrieve_speaker_info(speaker_codes, http_headers, pretalx_slug):
         speaker_slug = slugify(speaker['name'])
 
         if speaker['avatar']:
-            avatar_path = SPEAKER_IMAGE_PATH + speaker_slug + '.' + speaker['avatar'].split('.')[-1]
+            avatar_path = SPEAKER_IMAGE_PATH + speaker_slug + '.' + speaker['avatar'].split('.')[-1].lower()
             image_response = requests.get(speaker['avatar'], stream=True)
             if image_response.status_code != 200:
                 print(f'Error: speaker avatar request failed: {image_response.status_code}: {image_response.text}')
