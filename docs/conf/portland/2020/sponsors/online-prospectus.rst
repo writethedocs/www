@@ -181,7 +181,7 @@ See the :doc:`full schedule </conf/{{ shortcode }}/{{ year }}/schedule>` for exa
 Sponsorship platform
 --------------------
 
-We will be using `hopin <https://hopin.to/>`_ as our online conference platform. It allows a number of unique spaces for attendees during the conference, and we hope it will allow a good amount of interaction between attendees and sponsors.
+We will be using `Hopin <https://hopin.to/>`_ as our online conference platform. It allows a number of unique spaces for attendees during the conference, and we hope it will allow a good amount of interaction between attendees and sponsors.
 
 **We will open the online platform 1 week prior to the conference starting**. At that point, you will be able to login and look around the platform, but it won't become fully active until the Sunday of the conference.
 
