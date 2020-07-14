@@ -277,3 +277,14 @@ Yes, you can point your booth video to any YouTube playlist as well as a specifi
 
 We will also share the sponsorship videos with attendees after the conference, so that you can continue to get more value from the video content you produce. 
 
+
+What does the platform look and feel like?
+------------------------------------------
+
+You can see a demo of the platform in this video.
+It's currently linked to the expo hall demo,
+but it has demos of all the other areas as well:
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/JgGVOlbOPUU?start=465" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
