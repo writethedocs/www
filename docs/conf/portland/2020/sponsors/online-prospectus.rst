@@ -183,6 +183,8 @@ Sponsorship platform
 
 We will be using `hopin <https://hopin.to/>`_ as our online conference platform. It allows a number of unique spaces for attendees during the conference, and we hope it will allow a good amount of interaction between attendees and sponsors.
 
+**We will open the online platform 1 week prior to the conference starting**. At that point, you will be able to login and look around the platform.
+
 Hopin has a set of `sponsor information <https://support.hopin.to/en/articles/3574463-vendor-instructions>`_ that explains a bit more about the sponsorship setup on the platform.
 
 Sponsorship spaces
