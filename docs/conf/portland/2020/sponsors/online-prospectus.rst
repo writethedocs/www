@@ -164,4 +164,109 @@ Invoices must be paid **within 30 days of invoice receipt**, or no later than on
 Run of Show
 ===========
 
-We are still working out the run of show for the virtual event.
+This Run of Show provides more context about the event and answers some common questions you may have. 
+Please let us know if there is any information missing that would be useful for you.
+
+Sponsorship schedule
+--------------------
+
+* **SUNDAY**: The conference online platform is open. You are welcome to hang look at your sponsorship booth and attend the Writing Day, but no formal sponsorship events are happening. You're also welcome to lead a Writing Day project if your documentation is open source.
+
+* **MONDAY**: The conference platform opens at 8am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the main conference talks, when sponsors tables will need to be staffed. The conference will run until around 5pm.
+
+* **TUESDAY**: The Job Fair will be Tuesday morning in the Sessions area of the online platform. The normal conference sponsorship activities and expo booths will be available all day Tuesday, but primarily on Tuesday afternoon. 
+
+See the :doc:`full schedule </conf/{{ shortcode }}/{{ year }}/schedule>` for exact timing details.
+
+Sponsorship platform
+--------------------
+
+We will be using `hopin <https://hopin.to/>`_ as our online conference platform. It allows a number of unique spaces for attendees during the conference, and we hope it will allow a good amount of interaction between attendees and sponsors.
+
+Hopin has a set of `sponsor information <https://support.hopin.to/en/articles/3574463-vendor-instructions>`_ that explains a bit more about the sponsorship setup on the platform.
+
+Sponsorship spaces
+------------------
+
+A quick overview of the spaces in the venue that are important:
+
+* The *main stage* is where the talks happen. This is also where Lightning talks will be given.
+* The *session area* is where the Unconference & Job Fair will happen. Sponsors will be assigned booths at the scheduled time for their job fair, and booths will be available for the duration of the conference.
+* The *expo area* is where sponsors will be able to have booths available. They are able to provide videos that will play 
+* The *networking area* is where you can chat with a random attendee to get to know people. There is not specific sponsorship usage of this area.
+
+Sponsorship events
+------------------
+
+Job Fair
+~~~~~~~~
+
+On Tuesday morning we hold our Job Fair,
+which is a wonderful place to connect with our over 500 attendees.
+Many of them are looking for jobs now or will be in the near future,
+so it's a great chance to talk more about your company culture and open positions.
+
+**Logistics**: You will be assigned a session in the *session area* where you can engage with attendees and answer questions. We recommend that you answer answer general questions in the main room and then break off into private calls or chat to talk in more depth to specific people. 
+
+Sponsor booths
+~~~~~~~~~~~~~~
+
+Sponsor booths are only available for our larger sponsors.
+You will be given a booth that is in the *expo area* of the online platform.
+Most of the attendee focus will come during breaks between talks and at the beginning and end of the day.  
+
+**Logistics**: You can record a video to play at your booth when it isn't staffed, but we generally recommend having someone with the expo hall tab open to answer any questions that attendees might have. We recommend that you answer answer general questions in the main room and then break off into private calls or chat to talk in more depth to specific people. 
+
+Writing day
+~~~~~~~~~~~
+
+On Sunday we hold our Writing Day.
+This is a place where the community gathers to get actual work done.
+This generally involved companies hosting a documentation sprint on some piece of documentation that is open source and needs improvements.
+
+If you want to participate in the Writing Day,
+it helps to do a bit of work up front.
+The best way to prepare is to have a set of issues that you've already picked as "easy for beginners".
+Starting with these issues will make it much easier for people to start,
+and feel productive.
+Make sure you also have good installation instructions and other helpful beginners content as well.
+
+**Logistics**: You can email us before the conference, and we will add your project to the website as a project that attendees can work on. You can also introduce your project to attendees at 9:30 on Sunday during the Writing Day Introduction.
+
+How do I get the most out of my sponsorship?
+--------------------------------------------
+
+Come prepared to engage with our community, and to learn just as much as you teach. Engage with our event as attendees as well as sponsors. Send technical staff who can chat with people on the interesting things your company is doing, and get value from the vast amount of insight in the room. We do have some decision makers in the room, but soft sells will work better than hard sales in the environment we strive for.
+
+Who is my primary contact?
+--------------------------
+
+Eric Holscher will be your primary contact, but our team is available at sponsorship@writethedocs.org. If you have a time sensitive inquiry, please email the entire team to ensure a timely response.
+
+How do I use my sponsorship tickets?
+------------------------------------
+
+You should have received a unique URL with a discount code for your sponsorship tickets. We are happy to send it over again, just ask!
+
+How do I use my job postings?
+-----------------------------
+
+You can post your jobs to our `job board <https://jobs.writethedocs.org/>`_.
+You will be given a discount code that will let you post them for free,
+please ask us for this if you don't have it! 
+They will be published in our :doc:`Newsletter </newsletter>` every month,
+and displayed on our website as well.
+
+What do I need for the job fair?
+--------------------------------
+
+The job fair will be a low key event. Generally we recommend having links available to your job descriptions, and ways for attendees to engage with you online after the event.
+
+
+Can I play multiple videos in my sponsorship booth?
+---------------------------------------------------
+
+Yes, you can point your booth video to any YouTube playlist as well as a specific video. So if you have multiple videos that you'd like to show (eg. a hiring video and a product demo), you can create a playlist and embed that in your booth.
+
+We will also share the sponsorship videos with attendees after the conference, so that you can continue to get more value from the video content you produce. 
+
