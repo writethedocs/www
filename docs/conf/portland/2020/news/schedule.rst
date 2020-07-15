@@ -36,6 +36,24 @@ If you have a project or are part of a community that you think would benefit fr
 If you'd like us to include your project on the Writing Day page, drop us an email at `portland@writethedocs.org <mailto:portland@writethedocs.org>`_.
 Or just show up on Sunday ready to introduce your project!
 
+Shirts on sale
+--------------
+
+The Write the Docs Portland 2019 Pop-Up Shop is now open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want!
+
+The campaign will run in 3-day batches until TODO.
+
+Other events and activities
+----------------------------
+
+Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. And even though this years conference is held online, we're holding to that plan.
+
+* **Lightning Talks.** We'll have `lightning talks <https://www.writethedocs.org/conf/portland/{{year}}/lightning-talks/>`__ each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.
+* **Unconference.** We'll be running the `Unconference <https://www.writethedocs.org/conf/portland/{{year}}/unconference/>`_ all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.
+* **Job Fair**. Following last year's great success, on Tuesday morning we'll have a `job fair <https://www.writethedocs.org/conf/portland/{{year}}/job-fair>`_ where you can find your next documentarian friendly job.
+
+The `Schedule page <https://www.writethedocs.org/conf/portland/{{year}}/schedule/>`_ has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.
+
 Thanks so much for all your support and enthusiasm so far – we're so excited to see you all next month!
 
 The Write the Docs team
