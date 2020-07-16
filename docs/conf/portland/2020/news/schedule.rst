@@ -40,13 +40,16 @@ The `Write the Docs Portland 2020 Pop-Up Shop <https://teespring.com/wtd-portlan
 The campaign will run in 3-day batches until August 30th. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.
 
 All our events and activities
-----------------------------
+-----------------------------
 
 Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. And even though this years conference is held online, we're holding to that plan.
 
 * **Lightning Talks.** We'll have `lightning talks <https://www.writethedocs.org/conf/portland/{{year}}/lightning-talks/>`__ each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.
 * **Unconference.** We'll be running the `Unconference <https://www.writethedocs.org/conf/portland/{{year}}/unconference/>`_ all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.
 * **Job Fair**. As with the previous few years, on Tuesday morning we'll have a `job fair <https://www.writethedocs.org/conf/portland/{{year}}/job-fair>`_ where you can find your next documentarian friendly job.
+* **Badge Flair Contest**. We're working on adapting this to the new format. Details will be posted as soon as we have them.
+* **Social event**. On Monday night the main stage will become the main social event space. We will post details about the program as soon as it's finalized. You're also welcome to create sessions for any board games, trivia quizzes, karaoke, or any other social activity that you want to share with your fellow documentarians.
+* **Help Desk**. If you have any questions about navigating the virtual event, go to the Write the Docs Helpdesk booth and chat with one of the organizers. Our Welcome Wagon guide can also help you make the most out of the conference.
 
 The `Schedule page <https://www.writethedocs.org/conf/portland/{{year}}/schedule/>`_ has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.
 
