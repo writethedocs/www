@@ -16,7 +16,7 @@ We are working on last minute details on a few more activities during the confer
 Conference platform
 --------------------
 
-The conference will be held on https://hopin.to/, which not only provides a stage for our amazing speakers, but also has integrated chat, unconference rooms with breakout calls, and impromptu 1-on-1 meetings. We're updating our Welcome Wagon guide, to be released soon, so it'll all feel familiar before you've even arrived.
+The conference will be held on https://hopin.to/, which not only provides a stage for our amazing speakers, but also has integrated chat, unconference rooms with breakout calls, expo booths, and impromptu 1-on-1 meetings. We're updating our Welcome Wagon guide, to be released soon, so it'll all feel familiar before you've even arrived.
 
 Full presentation schedule
 --------------------------
