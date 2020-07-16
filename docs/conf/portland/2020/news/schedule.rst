@@ -37,7 +37,7 @@ Shirts on sale
 
 The `Write the Docs Portland 2020 Pop-Up Shop <https://teespring.com/wtd-portland-2020>`_ is still open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.
 
-The campaign will run in 3-day batches until August 30th. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.
+The campaign will run in 3-day batches until August 30th. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2 weeks in advance if you want to sport your new threads during the conference.
 
 All our events and activities
 -----------------------------
