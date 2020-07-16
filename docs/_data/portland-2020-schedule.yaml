@@ -1,4 +1,6 @@
 writing_day:
+  - time: '8:00'
+    title: 'Platform opens'
   - time: '9:30'
     title: Morning introduction - Introduction to Sprints & Project Introductions
   - time: '9:45'
@@ -9,6 +11,8 @@ writing_day:
     title: End of Writing Day
 
 talks_day1:
+  - time: '8:00'
+    title: 'Platform opens'
   - time: '9:00'
     title: Write the Docs Team - Introduction to Write the Docs
   - time: '9:45'
@@ -41,6 +45,8 @@ talks_day1:
     title: '<b>Social Event Ends</b>'
 
 talks_day2:
+  - time: '8:00'
+    title: 'Platform opens'
   - time: '9:00'
     slug: finding-the-line-balancing-business-continuity-and-documentation-debt-luca-janssens
   - time: '9:45'
