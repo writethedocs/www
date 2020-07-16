@@ -10,17 +10,18 @@ Hey everyone!
 
 We're less than a month away from the first ever online Portland conference and we're working hard to make sure it'll be as welcoming and as fun as the in-person event you're probably familar with.
 
-Today we're announcing the full presentation schedule and the onnline platform we'll be hosting the conference on.
+Today we're announcing the full presentation schedule and the platform we'll be hosting the conference on.
+We are working on last minute details on a few more activities during the conference, so look for more that information in our next mailing.
 
 Conference platform
 --------------------
 
-The conference will be held on https://hopin.to/, which not only provides a stage for our amazing speakers, but also has integrated chat, unconference rooms with breakout calls, and impromptu 1-on-1 meetings. We're updating our welcome guide so it'll all feel familar before you've even arrived.
+The conference will be held on https://hopin.to/, which not only provides a stage for our amazing speakers, but also has integrated chat, unconference rooms with breakout calls, and impromptu 1-on-1 meetings. We're updating our Welcome Wagon guide, to be released soon, so it'll all feel familiar before you've even arrived.
 
 Full presentation schedule
 --------------------------
 
-The conference website is now updated with the `talk schedule <https://www.writethedocs.org/conf/portland/{{year}}/schedule/>`_ for the main stage presentations, so you can start planning your time (and getting excited!) for the conference. We're excited to have Q&A after most talks
+The conference website is now updated with the `talk schedule <https://www.writethedocs.org/conf/portland/{{year}}/schedule/>`_ for the main stage presentations, so you can start planning your time (and getting excited!) for the conference. We're excited to have live Q&A after most talks, which will come from your questions but be moderated by an MC.
 
 As always, we'll be running the `unconference <https://www.writethedocs.org/conf/portland/{{year}}/unconference/>`_, and `lightning talks <https://www.writethedocs.org/conf/portland/2019/lightning-talks/>`_ each day after lunch.
 
@@ -39,18 +40,18 @@ Or just show up on Sunday ready to introduce your project!
 Shirts on sale
 --------------
 
-The Write the Docs Portland 2019 Pop-Up Shop is now open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want!
+The `Write the Docs Portland 2020 Pop-Up Shop <https://teespring.com/wtd-portland-2020>`_ is still open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want. 
 
-The campaign will run in 3-day batches until TODO.
+The campaign will run in 3-day batches until August 30th. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.
 
-Other events and activities
+All our events and activities
 ----------------------------
 
 Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. And even though this years conference is held online, we're holding to that plan.
 
 * **Lightning Talks.** We'll have `lightning talks <https://www.writethedocs.org/conf/portland/{{year}}/lightning-talks/>`__ each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.
 * **Unconference.** We'll be running the `Unconference <https://www.writethedocs.org/conf/portland/{{year}}/unconference/>`_ all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.
-* **Job Fair**. Following last year's great success, on Tuesday morning we'll have a `job fair <https://www.writethedocs.org/conf/portland/{{year}}/job-fair>`_ where you can find your next documentarian friendly job.
+* **Job Fair**. As with the previous few years, on Tuesday morning we'll have a `job fair <https://www.writethedocs.org/conf/portland/{{year}}/job-fair>`_ where you can find your next documentarian friendly job.
 
 The `Schedule page <https://www.writethedocs.org/conf/portland/{{year}}/schedule/>`_ has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.
 
