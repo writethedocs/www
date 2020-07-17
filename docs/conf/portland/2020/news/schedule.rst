@@ -49,7 +49,7 @@ Write the Docs is more than a conference. Every year we make sure to have a vari
 * **Job Fair**. As with the previous few years, on Tuesday morning we'll have a `job fair <https://www.writethedocs.org/conf/portland/{{year}}/job-fair>`_ where you can find your next documentarian friendly job.
 * **Badge Flair Contest**. We're working on adapting this to the new format. Details will be posted as soon as we have them.
 * **Social event**. On Monday night the conference platform will become the social event space. The main stage will be closed, the main focus will be attendee-created sessions. You're welcome to create sessions for board games, trivia quizzes, karaoke, or any other social activity that you want to share with your fellow documentarians.
-* **Help Desk**. If you have any questions about navigating the virtual event, go to the Write the Docs Helpdesk booth and chat with one of the organizers. Our Welcome Wagon guide can also help you make the most out of the conference.
+* **Conference Help Desk**. If you have any questions about navigating the virtual event, we'll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.
 
 The `Schedule page <https://www.writethedocs.org/conf/portland/{{year}}/schedule/>`_ has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.
 
