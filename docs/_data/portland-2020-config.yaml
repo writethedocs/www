@@ -97,7 +97,7 @@ date: # how do we handle these? human readable would be nice.
   day_three:
     event: Main Conference
     date: August 10-11
-    summary: The main days of the conference. We will be running our main track in the ballroom, and the <a href="/conf/portland/2020/unconference/">Unconference</a> in Lola's Room.
+    summary: The main days of the conference. We will be running one main track, and an <a href="/conf/portland/2020/unconference/">Unconference</a>.
     #summary: The main days of the conference. We will be running our main track in the ballroom, and the Unconference in Lola's Room.
     icon: conference
     dotw: Monday/Tuesday
@@ -107,11 +107,10 @@ about:
   attendees: 700
   summary:
     "The main presentation track takes place from **August 10-11 (Monday and Tuesday) from 9am to 6pm**.
-    During the main event we also run an :doc:`/conf/portland/2020/unconference`.
+    During the main event we also run an :doc:`/conf/portland/2020/unconference`."
 
-    You can find out more information about the venue and its accessibility on our :doc:`/conf/portland/2020/venue` page."
   venue:
-    "Online, platform to be determined"
+    "Online, https://hopin.to/ . Your login will be emailed to you before the event."
   photos: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
   mainroom:
     "Video area"
@@ -168,7 +167,7 @@ flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
-flaghasschedule: False
+flaghasschedule: True
 flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
