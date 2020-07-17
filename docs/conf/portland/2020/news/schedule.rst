@@ -11,7 +11,7 @@ Hey everyone!
 We're less than a month away from the first ever online Portland conference and we're working hard to make sure it'll be as welcoming and as fun as the in-person event you're probably familar with.
 
 Today we're announcing the full presentation schedule and the platform we'll be hosting the conference on.
-We are working on last minute details on a few more activities during the conference, so look for more that information in our next mailing.
+We are working on last-minute details for a few more activities during the conference, so look out for more information in our next mailing.
 
 Conference platform
 --------------------
