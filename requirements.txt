@@ -11,10 +11,10 @@ pathlib==1.0.1
 sphinxcontrib.datatemplates==0.6.1
 meetup-api==0.1.1
 urllib3[secure]==1.25.9
-yamale==2.2.0
+yamale==3.0.0
 markdown==3.2.2
 ruamel.yaml==0.16.10
-lxml==4.5.1
+lxml==4.5.2
 # For emoji
 sphinxemoji==0.1.6
 # For atom feed support
