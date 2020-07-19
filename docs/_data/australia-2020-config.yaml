@@ -17,12 +17,12 @@ buttons:
   top:
      # - text: The conference is moving online
      #   link_absolute: /blog/moving-portland-prague-2020-online/
-      # - text: Buy a Ticket!
-     #   link: /tickets
+    - text: Buy a Ticket!
+      link: /tickets
     - text: Sponsor us
       link: /sponsors/prospectus
-    #  - text: Submit a Talk
-    #    link: /cfp
+    - text: Submit a Talk
+      link: /cfp
     # - text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
@@ -40,10 +40,10 @@ buttons:
        link: /sponsors/prospectus
      # - text: The conference is moving online
      #   link_absolute: /blog/moving-portland-prague-2020-online/
-     # - text: Submit a Talk
-     #   link: /cfp
-    # - text: Buy a Ticket!
-    #   link: /tickets
+     - text: Submit a Talk
+       link: /cfp
+     - text: Buy a Ticket!
+       link: /tickets
 #    - text: Prepare with the Welcome Wagon
 #      link: /welcome-wagon
 #    - text: See the schedule!
@@ -105,9 +105,9 @@ date: # how do we handle these? human readable would be nice.
   total_talk_days: 2
 
 about:
-  attendees: 150
+  attendees: 250
   summary:
-    "The main presentation track takes place from **December 3-4 (Thursday and Friday) from 11:00 to 20:00**.
+    "The main presentation track takes place from **December 3-4 (Thursday and Friday) from 11:00 to 21:00**.
     During the main event we also run an :doc:`/conf/australia/2020/unconference`."
   venue: "Online, platform to be determined"
   mainroom: TBA
@@ -125,8 +125,8 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: True
 flaghassponsors: False
-flagcfp: False
-flagticketsonsale: False
+flagcfp: True
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flaghasschedule: False
