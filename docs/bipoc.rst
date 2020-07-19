@@ -17,7 +17,7 @@ Purpose
 
 BIPOC need dedicated spaces for themselves in every profession, everywhere, and BIPOC professionals remain painfully underrepresented in technical communication and software development.
 
-Although we may personally abhor and fight racism as individuals, in a profession that is overrepresented by white people, admonishing racism in rooms full of non-BIPOC people does not build equity the way that supporting BIPOC careers does.
+Although we may personally abhor and fight racism as individuals, in a profession that is overrepresented by white people, admonishing racism in rooms full of non-BIPOC people does not build equity the way that supporting BIPOC in their careeers does. 
 
 How do we want to use this space
 --------------------------------
