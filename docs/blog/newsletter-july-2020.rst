@@ -31,9 +31,9 @@ What if you're on the other side, **considering a move into management** - how d
 - Check if you're doing management work already without realising it. Perhaps you take a special joy in managing and planning projects, including making sure your teammates feel good about projects and their work. Or, maybe you're helping with team morale, eliminating barriers to people getting work done, or supporting your peers' career growth.
 - Taking on management responsibilities without being a lead/senior can change how you're perceived, so it's worth being thoughtful about it. `This piece by Tanja Reilly <https://noidea.dog/glue>`_ describes how such so-called "glue work" can affect your career.
 
--------------------------------
+--------------------------------
 Gathering documentation feedback
--------------------------------
+--------------------------------
 
 To improve documentation, we need to know where it's lacking. We can get this feedback from a variety of sources, including user interviews and internal surveys. Here's some advice from our community on how to go about it!
 

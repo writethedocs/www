@@ -102,7 +102,7 @@ March - May 2020: Every Page is Page One
 January - February 2020: The Product is Docs
 ============================================
 
-In January 2020, the Write the Docs community ran an online book club, discussing Splunk's `The Product is Docs <https://www.splunk.com/en*us/blog/splunklife/the-product-is-docs.html>`_.
+In January 2020, the Write the Docs community ran an online book club, discussing Splunk's `The Product is Docs <https://www.splunk.com/en_us/blog/splunklife/the-product-is-docs.html>`_.
 
 | :doc:`/book-club/splunk-product-docs/2-agile`
 | :doc:`/book-club/splunk-product-docs/3-audience`
