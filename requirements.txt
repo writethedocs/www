@@ -6,7 +6,7 @@ sphinx_autobuild==0.7.1
 PyYAML>=4.2b1
 docutils==0.16
 csvkit==1.0.5
-yamllint==1.23.0
+yamllint==1.24.2
 pathlib==1.0.1
 sphinxcontrib.datatemplates==0.6.1
 meetup-api==0.1.1
