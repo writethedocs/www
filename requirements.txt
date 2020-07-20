@@ -1,21 +1,22 @@
-Sphinx==1.8.5 # pyup: >=1.8,<1.9
+Sphinx==3.1.2
 recommonmark==0.6.0
-# ablog >=0.10.0 requires Sphinx >=2
-ablog==0.9.5 # pyup: <0.10.0
-tox==3.14.5
+ablog==0.10.6
+tox==3.16.1
 sphinx_autobuild==0.7.1
 PyYAML>=4.2b1
 docutils==0.16
 csvkit==1.0.5
-yamllint==1.20.0
+yamllint==1.23.0
 pathlib==1.0.1
-git+https://github.com/ericholscher/datatemplates@add-key-and-context#egg=sphinxcontrib.datatemplates-dev
+sphinxcontrib.datatemplates==0.6.1
 meetup-api==0.1.1
-urllib3[secure]==1.25.8
-yamale==2.0.1
-markdown==3.2.1
+urllib3[secure]==1.25.9
+yamale==3.0.0
+markdown==3.2.2
 ruamel.yaml==0.16.10
-lxml==4.5.0
+lxml==4.5.2
+# For emoji
+sphinxemoji==0.1.6
 # For atom feed support
 Werkzeug==0.16.1 # pyup: <1.0
 # For fancy 404 pages

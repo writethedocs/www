@@ -228,6 +228,16 @@ Sponsorship schedule
 
 See the :doc:`full schedule </conf/{{ shortcode }}/{{ year }}/schedule>` for exact timing details.
 
+Sponsorship recommendations
+---------------------------
+
+We highly recommend having some kind of pre-recorded video content for your job fair session and expo booth.
+You can pin the link to the videos or a landing page on your site to the top of the chat.
+Being on online format,
+it's really easy for attendees to watch a quick 2-4 minute video before they come and ask additional questions.
+We can load these videos in your booth when your staff isn't around,
+and we are also happy to put them up on our website under the sponsorship section if you'd like.
+
 Sponsorship spaces
 ------------------
 

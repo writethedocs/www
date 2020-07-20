@@ -93,8 +93,8 @@ location. Try sending out an email like the example provided in the following te
 
     Hello,
 
-    I am the organizer of Write the Docs {{ city name }} meetup {{ link to meetup page }}. Write the Docs
-    {{ writethedocs.org }} is a global community of people interested in excellent documentation.
+    I am the organizer of Write the Docs $city meetup: $link.
+    Write the Docs is a global community of people interested in excellent documentation.
 
     We'd like your help! If you're interested in improving your documentation, help us. We'll provide
     a resource with different experiences, and potentially writers who can help with your documentation.
@@ -102,7 +102,7 @@ location. Try sending out an email like the example provided in the following te
     If you have any questions, please do not hesitate to contact us.
 
     Regards,
-    {{ name }}
+    $name
 
 If your first attempts don't work, contact other tech companies in your town.
 Post messages on job boards, tech conference websites, or on other tech Meetup

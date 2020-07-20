@@ -34,7 +34,7 @@ There may already be a style guide somewhere within your organization. It is a g
 Here are some good general resources -- perhaps someone in your company is already using one of these:
 - [A list apart style guide](https://alistapart.com/about/style-guide)
 - [Techprose techwriting guidelines (PDF)](http://www.techprose.com/assets/techwriting_guidelines.pdf)
-- [Microsoft manual of style](https://ptgmedia.pearsoncmg.com/images/9780735648715/samplepages/9780735648715.pdf)
+- [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
 - [Oxford manual of style](https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf)
 - [IBM style guide](https://www.ibm.com/developerworks/library/styleguidelines/)
 - [Handbook of Technical Writing](http://www.macmillanlearning.com/Catalog/product/handbookoftechnicalwriting-eleventhedition-alred)
@@ -174,7 +174,7 @@ The style guides below focus on the actual writing craft itself. They consider h
 
 - [The Sense of Style](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century)
 - [Stylish Academic Writing](https://www.hup.harvard.edu/catalog.php?isbn=9780674064485)
-- [Voice and Tone](https://styleguide.mailchimp.com/)
+- [Mailchimp's Voice and Tone guidelines](https://styleguide.mailchimp.com/voice-and-tone/)
 - [Google developer documentation style guide](https://developers.google.com/style/)
 
 ## Other style resources

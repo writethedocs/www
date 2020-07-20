@@ -34,7 +34,6 @@ Conference talks and workshops
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-day-1.yaml
    :template: include/schedule2018.rst
-   :include_context:
 
 {% else %}
   A detailed schedule will be announced soon.
@@ -76,7 +75,6 @@ Conference talks and workshops
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-day-2.yaml
    :template: include/schedule2019.rst
-   :include_context:
 
 {% else %}
   A detailed schedule will be announced soon.
