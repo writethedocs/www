@@ -19,8 +19,8 @@ buttons:
      #   link_absolute: /blog/moving-portland-prague-2020-online/
     - text: Buy a Ticket!
       link: /tickets
-    - text: Sponsor us
-      link: /sponsors/prospectus
+    # - text: Sponsor us
+    #  link: /sponsors/prospectus
     - text: Submit a Talk
       link: /cfp
     # - text: See the talks!
@@ -34,7 +34,7 @@ buttons:
 #     - text: Browse the photos
 #       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
 #     - text: Watch the videos!
-#       link_absolute: /videos/portland/2020
+#       link_absolute: /videos/australia/2020
   bottom:
      - text: Sponsor us
        link: /sponsors/prospectus
@@ -53,7 +53,7 @@ buttons:
 #     - text: Browse the photos
 #       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
 #     - text: Watch the videos!
-#       link_absolute: /videos/portland/2020
+#       link_absolute: /videos/australia/2020
 
 tickets:
   corporate:
@@ -123,7 +123,7 @@ sponsors:
 
 
 # Things that change over time, listed in order of change
-flaglanding: False
+flaglanding: True
 flaghassponsors: False
 flagcfp: True
 flagticketsonsale: True
