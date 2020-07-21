@@ -110,7 +110,26 @@ sponsorship-details:
   lanyard: include('price2', required=False)
   writing_day: include('price2', required=False)
 
-sponsors-details: map(required=False)
+sponsors-details:
+  media: list(include('sponsor-detail'), required=False)
+  first_draft: list(include('sponsor-detail'), required=False)
+  second_draft: list(include('sponsor-detail'), required=False)
+  first: list(include('sponsor-detail'), required=False)
+  second: list(include('sponsor-detail'), required=False)
+  publisher: list(include('sponsor-detail'), required=False)
+  patron: list(include('sponsor-detail'), required=False)
+  keystone: list(include('sponsor-detail'), required=False)
+  job_fair: list(include('sponsor-detail'), required=False)
+  lanyard: list(include('sponsor-detail'), required=False)
+  writing_day: list(include('sponsor-detail'), required=False)
+
+sponsor-detail:
+  name: str(required=True)
+  link: str(required=True)
+  brand: str(required=False)
+  text: str(required=False)
+  width: str(required=False)
+
 
 about-details:
   summary: str(required=False)
