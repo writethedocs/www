@@ -68,8 +68,10 @@ talks_day2:
   - time: '2:15'
     slug: walking-backwards-tracing-the-new-customer-journey-from-finish-to-start-to-help-shape-content-sally-stumbo
   - time: '3:00'
-    slug: why-sdk-docs-matter-and-what-i-m-doing-about-it-shavindri-dissanayake-shavi
+    slug: the-search-for-search-paul-logan
   - time: '3:45'
+    slug: why-sdk-docs-matter-and-what-i-m-doing-about-it-shavindri-dissanayake-shavi
+  - time: '4:30'
     title: Closing address
-  - time: '4:15'
+  - time: '5:00'
     title: "<b>Conference Ends</b> :("
