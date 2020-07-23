@@ -1,4 +1,28 @@
+- title: The Search for Search
+  slug: the-search-for-search-paul-logan
+  series: Write the Docs Portland
+  series_slug: the-search-for-search-paul-logan
+  year: 2020
+  speakers:
+  - name: Paul Logan
+    slug: paul-logan
+    twitter: '@scottishkilt'
+    website: www.pauljflogan.com
+  abstract: '<p>In q4 of 2019 Slack implemented an oft-requested documentation feature:
+    site search. In this talk I''ll tell the story of technical and social considerations
+    that went into implementing search on api.slack.com and the philosophy that''s
+    gone into shaping it after.</p>
 
+    <p>We implemented search using Algolia''s REST API after a long time spent narrowing
+    options. Initially we weren''t sure if we wanted to build it in house, or host
+    it on a different site entirely. Conflicts with security and the need for as few
+    dependencies as possible forced us into an implementation that even Algolia itself
+    doesn''t recommend.</p>
+
+    <p>As we move forward, we''re considering the best way to give users relevant
+    results while gently directing them away from old API''s and unsupported features.
+    I''ll discuss options like visual indicators of age on a search result, smart
+    catalog building/prioritization, and the cost of manually adjusting search. </p>'
 - title: 'Collaborating with teams on content strategy planning: pitfalls and best
     practices'
   slug: collaborating-with-teams-on-content-strategy-planning-pitfalls-and-best-practices-kateryna-osadchenko
@@ -8,7 +32,7 @@
   speakers:
   - name: Kateryna Osadchenko
     slug: kateryna-osadchenko
-    twitter:
+    twitter: 
     website: https://www.linkedin.com/in/kateryna-osadchenko/
   abstract: '<p>I want to discuss the pitfalls and best practices/workarounds of planning
     a content strategy and importance of finding the right approach, tone, and voice
