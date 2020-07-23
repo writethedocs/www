@@ -1,61 +1,58 @@
 Our #bipoc channel
 ==================
 
-This is a space dedicated to supporting BIPOC tech writers/software development/people in open source. 
+This is a space dedicated to supporting BIPOC members within our community.
 
 Background
 ----------
 
-As with many other professions, BIPOC are painfully underrepresented in both technical communication and software development.
+As with many other professions, BIPOC remain painfully underrepresented in technical communication, software development, and open source.
 
-<!-- SOME STATS WOULD BE USEFUL HERE. -->
+<!-- SOME STATS WOULD BE USEFUL HERE. STATS FROM STC? -->
 
-To shrink this racial disparity, we offer this space as BIPOC tech writers to 1) emphasize that we are already here supporting each other and 2) to encourage the professional development of BIPOC in tech writing, software development, and related professions. We believe that one important way to practice anti-racism is to help other BIPOC communicators build equity by helping them advance in their careers. Admonishing racism in spaces full of non-BIPOC is limited in its ability to achieve these goals. 
+To shrink this racial disparity and to build equity, we offer this space as BIPOC tech writers to:
+
+#. Emphasize the fact that we are already here, supporting one another and leading our communities.
+#. Encourage the professional development of BIPOC in tech writing, software development, and related fields.
 
 Purpose
 -------
 
-BIPOC need dedicated spaces for themselves in every profession, everywhere, and BIPOC professionals remain painfully underrepresented in technical communication and software development.
+BIPOC need dedicated spaces for themselves in every profession, everywhere. We believe that one important way to practice anti-racism is to help other BIPOC communicators advance in their careers.
 
-Although we may personally abhor and fight racism as individuals, in a profession that is overrepresented by white people, admonishing racism in rooms full of non-BIPOC people does not build equity the way that supporting BIPOC careers in their careers does.
+In a global field that is largely represented by `white`_ people, admonishing racism in spaces full of non-BIPOC people is limited in its impact. For one thing, these spaces do not capture the complexity of experiences that BIPOC have lived. BIPOC individuals and communities often experience various `intersections`_ of both privilege (e.g., `colorism`_) and discrimination (e.g., ability, gender identity, sexuality, citizenship status, neuro-status, linguistic `fluency`_).
 
-Support
--------
 
-To shrink this racial disparity, we offer this space as BIPOC tech writers to 1) emphasize that we are already here supporting each other and 2) to encourage the professional development of BIPOC in tech writing, software development, and related professions. We believe that one important way to practice anti-racism is to help other BIPOC communicators build equity by helping them advance in their careers. Admonishing racism in spaces full of non-BIPOC is limited in its ability to achieve these goals. 
+.. _white: https://nmaahc.si.edu/sites/default/files/styles/image_caption/public/images/captioned/whiteculture_info_1.png
+.. _intersections: https://en.wikipedia.org/wiki/Intersectionality
+.. _fluency: https://www.shrm.org/resourcesandtools/hr-topics/behavioral-competencies/global-and-cultural-effectiveness/pages/viewpoint-the-silencing-of-esl-speakers.aspx
+.. _colorism: https://en.wikipedia.org/wiki/Discrimination_based_on_skin_color
 
-How do we want to use this space
---------------------------------
+How do we want to use this space?
+---------------------------------
 
-* Network and share opportunities for BIPOC people in technical communication and software development
-* Share knowledge/resources about anti-racism in the world and in our profession
-* Build community and visibility specifically for BIPOC
-* Coordinate and publicize joint events with organizations with similar goals (e.g., Color Coded in Los Angeles)
+* Network and share opportunities for BIPOC people in technical communication, software development, and open source
+* Share knowledge and resources about anti-racism
+* Invite more BIPOC into our field
+* Build community, visibility, and leadership opportunities specifically for BIPOC
+* Coordinate and publicize joint events with organizations with similar goals (e.g., `Color Coded`_ in Los Angeles)
+
+
+.. _color coded: https://colorcoded.la
 
 Allies
 ------
 
-This is a public channel primarily to support BIPOC writers. If you are not BIPOC, we thank you for acknowledging that this space is primarily meant for our personal and professional development.
+This is a public channel whose primary purpose is to support BIPOC writers. If you are not BIPOC, we thank you for acknowledging that this space is primarily meant for our personal and professional development.
+
+We also invite you to participate as allies if you do not consider yourself BIPOC, and we invite you to abide by the same rules that guide any `decolonial`_ project: yield space that doesn’t belong to you.
 
 <!-- MAYBE SOME ARTICLES ON HOW WHITE PEOPLE SHOULD RESPECT SPACES FOR BIPOC. -->
 
-To be added
------------
+We acknowledge that we, as moderators, can speak confidently only about our own experiences, and that our efforts to communicate will, at times, fall short. Despite our shortcomings, we commit ourselves to supporting communicators who have been and continue to be marginalized because of their identities. 
 
-Knowing that BIPOC individuals and communities experience overlapping forms of discrimination (e.g. ability, gender identity, sexuality, citizenship status, neuro-status, etc.) and privilege (e.g. colorism), we acknowledge that we, as moderators, can only speak confidently about our own experiences, and that our efforts to communicate will, at times, fall short. Despite our shortcomings, we commit ourselves to supporting communicators who have been and continue to be marginalized for their identities. 
 
-BIPOC need dedicated spaces for themselves in every profession, everywhere, and BIPOC professionals remain painfully underrepresented in technical communication and software development.
-Although we may personally abhor and fight racism as individuals, in a profession that is overrepresented by white people, admonishing racism in rooms full of non-BIPOC people does not build equity the way that supporting BIPOC careers does.
-
-The tenets of white culture shape the country’s institutions…
-There’s a convention of naming the indigenous lands that we physically occupy
-BIPOC experience race, racism, and colorism differently.
-
-The truth is that BIPOC technical communicators are leaders in their communities and in technical documentation (software documentation?), and we have a moral responsibility to invite more BIPOC into the profession. 
-
-This is a public channel created in the spirit of fostering collaboration and communication and sharing professional opportunities and resources to BIPOC communicators. 
-
-We invite you to participate as allies if you do not consider yourself BIPOC, and we invite you to abide by the same rules that guide any decolonial project: yield space that doesn’t belong to you.
+.. _decolonial: https://keywordsechoes.com/decolonial-thinking-and-practice
 
 Source links
 ------------
