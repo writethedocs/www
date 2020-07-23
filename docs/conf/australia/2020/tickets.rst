@@ -62,6 +62,7 @@ Inspired by our friends at DjangoCon US, we decided to shake things up and sell 
 
 **Corporate Tickets** *{{tickets.corporate.price}}*
 --------------------------------------------------
+
 This is equivalent to approximately Rs.7925 INR
 
 Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
@@ -76,6 +77,7 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 
 **Independent Tickets** *{{tickets.independent.price}}*
 -------------------------------------------------------
+
 This is equivalent to approximately Rs.5280 INR
 
 Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees.
@@ -90,6 +92,7 @@ Purchase this ticket if you are paying for yourself, or if you work at a non-pro
 
 **Student or Unemployed Tickets** *{{tickets.student.price}}*
 -------------------------------------------------------------
+
 This is equivalent to approximately Rs.2640 INR
 
 Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
