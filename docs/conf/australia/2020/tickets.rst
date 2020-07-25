@@ -63,7 +63,9 @@ Inspired by our friends at DjangoCon US, we decided to shake things up and sell 
 **Corporate Tickets** *{{tickets.corporate.price}}*
 --------------------------------------------------
 
-This is equivalent to approximately Rs.7925 INR. Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
+This is equivalent to approximately Rs.7925 INR.
+
+Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
 
 {% if flagticketsonsale %}
 
@@ -76,7 +78,9 @@ This is equivalent to approximately Rs.7925 INR. Purchase this ticket if a compa
 **Independent Tickets** *{{tickets.independent.price}}*
 -------------------------------------------------------
 
-This is equivalent to approximately Rs.5280 INR. Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees.
+This is equivalent to approximately Rs.5280 INR.
+
+Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees.
 
 {% if flagticketsonsale %}
 
@@ -89,7 +93,9 @@ This is equivalent to approximately Rs.5280 INR. Purchase this ticket if you are
 **Student or Unemployed Tickets** *{{tickets.student.price}}*
 -------------------------------------------------------------
 
-This is equivalent to approximately Rs.2640 INR. Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
+This is equivalent to approximately Rs.2640 INR.
+
+Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
 
 {% if flagticketsonsale %}
 
@@ -104,7 +110,7 @@ This is equivalent to approximately Rs.2640 INR. Purchase this ticket if you are
 
 If you can't afford these prices and still wish to attend, you can apply for our grant program.
 {% if grants.ends and grants.url %}
-You can apply until **{{ grants.ends }}, Midnight {{ tz }}** on `our website <https://www.writethedocs.org/conf/australia/2020/opportunity-grants/>`_.
+You can apply until **{{ grants.ends }}, Midnight {{ tz }}** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
 {% else %}
 Grant applications will open soon.
 {% endif %}
