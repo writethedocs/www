@@ -34,4 +34,4 @@ We will start promoting the unconference sessions early in the day on the days o
 Schedule
 --------
 
-Unconference sessions run all day on Monday, and also in the afternoon on Tuesday after the Job Fair. **Exact schedule subject to confirmation**.
+Unconference sessions run all day on Thursday and Friday. **Exact schedule subject to confirmation**.
