@@ -1,7 +1,7 @@
 Sphinx==3.1.2
 recommonmark==0.6.0
 ablog==0.10.6
-tox==3.17.1
+tox==3.18.0
 sphinx_autobuild==0.7.1
 PyYAML>=4.2b1
 docutils==0.16
