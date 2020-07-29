@@ -33,8 +33,8 @@ GitLab - Meet the Docs Team and Contribute to the Docs
 ------------------------------------------------------
 
 `GitLab <https://about.gitlab.com>`_ is an open core single application for
-the entire software development lifecycle. From project planning and source code
-management to CI/CD, monitoring, and security.
+the entire software development lifecycle. It covers everything from project
+planning and source code management to CI/CD, monitoring, and security.
 
 Our `documentation <https://docs.gitlab.com>`_ is open source and everybody can
 contribute to it. All the content is hosted on GitLab.com, so you will need a
