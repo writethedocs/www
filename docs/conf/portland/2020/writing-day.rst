@@ -42,8 +42,9 @@ contribute to it. All the content is hosted on GitLab.com, so you will need a
 
 For more information, see our `GitLab issue <https://gitlab.com/gitlab-org/technical-writing/-/issues/217>`_.
 
-Once you find the issue you want to work on, add a comment mentioning `@gl-docsteam` to inform us that you’re working on
-   this for Writing Day (and tell us in person!).
+Once you find the issue you want to work on:
+
+#. Add a comment mentioning `@gl-docsteam` to inform us that you’re working on this for Writing Day (and tell us in person!).
 #. Create a merge request with your proposed changes.
 
 Once your merge request is reviewed and merged, it will appear on the docs site
