@@ -40,7 +40,7 @@ Our `documentation <https://docs.gitlab.com>`_ is open source and everybody can
 contribute to it. All the content is hosted on GitLab.com, so you will need a
 `GitLab.com account <https://gitlab.com/users/sign_up>`_.
 
-For more information, see our `GitLab issue <https://gitlab.com/gitlab-org/technical-writing/-/issues/217>`.
+For more information, see our `GitLab issue <https://gitlab.com/gitlab-org/technical-writing/-/issues/217>`_.
 
 Once you find the issue you want to work on, add a comment mentioning `@gl-docsteam` to inform us that you’re working on
    this for Writing Day (and tell us in person!).
