@@ -41,7 +41,7 @@ We wanted to let you know that we expect tickets to sell out by **August 4th**.
 We've increased the capacity for this years event past the 500 from previous years,
 but we still want to make sure the event keeps its managable size and feel.
 If you were hoping to come to this years event,
-we recommend that you get your tickets soon.
+we recommend that you `get your tickets soon <https://www.writethedocs.org/conf/portland/2020/tickets/>`_.
 
 Once we sell out our tickets,
 we plan to send everyone a link to access the Hopin event.
