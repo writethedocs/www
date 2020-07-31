@@ -50,4 +50,4 @@ Once you find the issue you want to work on:
 Once your merge request is reviewed and merged, it will appear on the docs site
 shortly!
 
-If you have any questions, you can reach to us in person or in Slack: `@amyq`, `@arty-chan`, `@mikejang`, `@miketechnically`.
+If you have any questions, you can reach to us in person or in Slack: `@amyq`, `@arty-chan`, `@mikejang`, `@miketechnically`, `@selhorn`.
