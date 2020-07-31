@@ -149,7 +149,7 @@ Day *
 -  Here’s the `2019 Writing Day Project list that you can use as a
        guide <https://www.writethedocs.org/conf/portland/2019/writing-day/>`__.
 
-**Unconference\ `¶ <https://www.writethedocs.org/conf/portland/2019/welcome-wagon/#how-do-i-take-part-in-the-unconference>`__**
+**Unconference**
 
 -  The Unconference is a set of informal sessions that take place all
        day Monday and Tuesday afternoon. `Unconference talks focus on
