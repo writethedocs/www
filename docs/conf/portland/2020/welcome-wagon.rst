@@ -55,13 +55,18 @@ Conference talks and Q&A
 
 - There’s a talk schedule on the **Reception** page and on the `Write the Docs website <https://www.writethedocs.org/conf/portland/2020/schedule/>`__. Select the Calendar icon next to the talks you want to see on the Reception page to add them to your calendar.
 - When it’s time for a talk you want to see, select **Stage**.
-- If the video is not working for a talk, go to the `Write the Docs website <https://www.writethedocs.org/conf/portland/2020/backup-livestream/>`__ for a back-up stream.
-- Stick around the **Stage** after each talk for a 10-minute, moderated Q&A.
-   - Enter your questions into the **Chat** channel (always on the right-hand side of any page) prefixed with “Q:“, and the moderator will ask the speaker for you.
-   - Make sure the **Stage** toggle is on for the Chat, so your question will be seen by the moderator.
-   - Due to time constraints, we might not be able to get to all of your questions. If your question isn’t asked live, chat with the speaker later and make a connection!
+- If we have problems with our online platform, go to the `Write the Docs website <https://www.writethedocs.org/conf/portland/2020/backup-livestream/>`__ for a back-up stream. This will only be turned on if we have technical issues.
 - After a talk, feel free to tweet about it with the hashtag #writethedocs.
 - There is a lot of great information at this conference, but don’t worry if you miss something! All talks are recorded and videos will be published shortly after the conference, so you can review them later.
+
+Asking questions
+~~~~~~~~~~~~~~~~
+
+Stick around the **Stage** after each talk for a 10-minute, moderated Q&A.
+
+- Enter your questions into the **Chat** channel (always on the right-hand side of any page) prefixed with “Q:“, and the moderator will ask the speaker for you.
+- Make sure the **Stage** toggle is on for the Chat, so your question will be seen by the moderator.
+- Due to time constraints, we might not be able to get to all of your questions. If your question isn’t asked live, chat with the speaker later and make a connection!
 
 Participate in the conference
 -----------------------------
@@ -79,19 +84,24 @@ Joining an event
 ~~~~~~~~~~~~~~~~
 
 - Once you select a session, you can either view the session and use the Chat, or select **Share Audio and Video** to participate in the session. Sessions are limited to 20 active participants, but anyone can join and view the session.
-- Here are some helpful settings for sessions:
-   - Select the **Video Camera** icon to turn off your video.
-   - Select the **Monitor** icon to share your screen. Multiple people can share their screens at once.
-   - To make someone’s screen larger, double-click on it.
-   - Select the **Settings** icon to change your audio or video settings.
+
+Helpful Settings
+^^^^^^^^^^^^^^^^
+
+- Select the **Video Camera** icon to turn off your video.
+- Select the **Monitor** icon to share your screen. Multiple people can share their screens at once.
+- To make someone’s screen larger, double-click on it.
+- Select the **Settings** icon to change your audio or video settings.
 
 Writing Day
 -----------
 
-- `Writing Day <https://www.writethedocs.org/conf/portland/2019/writing-day/>`__ takes place on Sunday, the day before the conference starts. You can join in anytime between 9:30am and 5pm PDT.
-- You can bring a writing project you want to work on, or you can contribute to a project someone else brought.
-   - **Bring a project**: If you want help with your project, `sign up <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit?usp=sharing>`__ before Writing Day. When you are ready to start your project on Writing Day, go to **Sessions**, select your table, and start collaborating.
-   - **Contribute to a project**: If you want to help someone else with their writing project, `check out the list of projects <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit?usp=sharing>`__. When you are ready to participate, go to **Sessions**, select the session for the project you want to contribute to, and introduce yourself.
+`Writing Day <https://www.writethedocs.org/conf/portland/2019/writing-day/>`__ takes place on Sunday, the day before the conference starts. You can join in anytime between 9:30am and 5pm PDT.
+
+You can bring a writing project you want to work on, or you can contribute to a project someone else brought.
+
+- **Bring a project**: If you want help with your project, `sign up <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit?usp=sharing>`__ before Writing Day. When you are ready to start your project on Writing Day, go to **Sessions**, select your table, and start collaborating.
+- **Contribute to a project**: If you want to help someone else with their writing project, `check out the list of projects <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit?usp=sharing>`__. When you are ready to participate, go to **Sessions**, select the session for the project you want to contribute to, and introduce yourself.
 - Here’s the `2019 Writing Day Project list that you can use as a guide <https://www.writethedocs.org/conf/portland/2019/writing-day/>`__.
 
 Unconference
