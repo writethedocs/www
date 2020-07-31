@@ -17,7 +17,7 @@ now is the time to buy one!
 We have done our internal testing of the platform,
 and we're getting everything ready for prime time.
 As part of our internal testing,
-we've built out the Welcome Wagon Guide
+we've built out the Welcome Wagon Guide.
 This guide is our attempt to make sure that you get the most out of our events,
 and we've totally rewritten it for our online event.
 
@@ -46,7 +46,7 @@ we recommend that you get your tickets soon.
 Once we sell out our tickets,
 we plan to send everyone a link to access the Hopin event.
 We plan to send this out mid next week,
-to give everyone a few days to work through any troubleshooting issues that you might encounter.
+to give everyone a few days to work through any troubleshooting issues that you might encounter. The Hopin access links will be sent to all Ti.to ticketholders, so monitor your inbox next week for a message. If you don't get an email from us by the end of next week, please email us and we'll help you out!
 Once you've got your Hopin ticket,
 you will be ready to get started on Sunday morning with the Writing Day!
 
