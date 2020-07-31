@@ -1,3 +1,8 @@
+:template: {{year}}/generic.html
+
+Welcome Wagon Guide
+===================
+
 Hello!
 
 We’re your Welcome Wagon, and we’re glad you’re attending Write the
