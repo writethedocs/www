@@ -57,7 +57,7 @@ We are so grateful to have our sponsors help in bringing these events to life ev
 You'll be able to chat with most of our sponsors at the Job Fair,
 and a few will have booths for conversations the entire conference.
 
-Thanks so much to the following companies for supporting the Write the Docs conference this year:
+Thanks so much to the following companies for supporting the Portland conference this year:
 
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-config.yaml
