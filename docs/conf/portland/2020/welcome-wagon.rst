@@ -1,224 +1,348 @@
-:template: {{year}}/generic.html
-
-
-Welcome Wagon
-=============
-
 Hello!
 
-We're your Welcome Wagon, and we're glad you're coming to Write the Docs!
-Feel free to `tweet <https://twitter.com/canncrochet>`_ or `email <mailto:canncrochet@gmail.com>`_ us if we can help make your first time at the conference easier.
-When you get to the conference, come :ref:`say hello <say-hello-{{year}}>`.
+We’re your Welcome Wagon, and we’re glad you’re attending Write the
+Docs! We realize a virtual conference might be totally new to you (us,
+too!). This guide will help you navigate it, even if you’ve been to a
+Write the Docs conference before.
 
-We've gathered important stuff here that will help you navigate the conference like a pro, make you feel more at home, and help you to manage the constant flow of information.
-The Welcome Wagon events warm up new attendees and connect them with people, both veterans and other first-timers.
-Strategies and pro tips provide ways you can make the most of the conference. The FAQs strive to answer questions before you even have them.
+We are all first-timers at this year’s virtual conference. The Welcome
+Wagon is here for you, to help you make the most of it. We’d love to
+virtually meet you: feel free to reach out in Chat at the virtual
+conference or `email <mailto:canncrochet@gmail.com>`__ us if we can help
+make your time at the conference easier.
 
-Welcome Wagon events
---------------------
+**Where to get help**
 
-**Write the Docs Welcome Wagon Introduction**
+-  Guides
 
-*Sunday at 5:00pm in the Crystal Ballroom*
+   -  You can prepare by reading through this guide. Don’t worry if you
+          forget any of it – there will be a recording you can watch in
+          the Helpdesk booth. Select **Expo** > **Write the Docs
+          Helpdesk** to watch it anytime.
 
-Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We’ll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new, before we join the opening reception.
+-  Helpdesk
 
-**Welcome Wagon Tours**
+   -  If you still have questions, reach out to us at the Helpdesk any
+          time. Select **Expo** > **Helpdesk** > **Chat** and enter your
+          question. A member of the Welcome Wagon will be online during
+          conference hours to help you.
 
-*Sunday during the Welcome Wagon introduction and Monday at 8:15am starting in the Crystal Ballroom*
+-  Message Organisers
 
-Come on a short tour of the venue with a veteran Write the Docs attendee so you’ll know where everything is and everything you can take part in.
+   -  Go to the **People** tab, select the **Filter** icon, and select
+          **Organisers**. Select an Organiser and start typing your
+          question.
 
-**Welcome Wagon Check-In**
+**Reception: Your home base**
 
-*Tuesday at 8:15am in Lola’s Room*
+Once you enter the virtual conference, you’ll be at **Reception**. You
+can view Reception as your home base for the conference. There’s a
+schedule, a list of events happening now, and helpful reminders about
+what you can do at the conference.
 
-Meet back up with the Welcome Wagon and fellow first-timers to check-in about how the conference is going for you. Ask any questions you have, pass on stories from your first day, and let the Welcome Wagon know if there is anything you need to make your second day as successful as your first one.
+Don’t be afraid to explore! You won’t interrupt anything by looking
+around.
 
-Pro Tips
---------
+**Conference talks and Q&A**
 
--  You don't need to go to every talk. Look through the schedule of events before you arrive or while you are eating or taking a break. Figure out which talks you want to see the most. Spread out your time between talks, unconference sessions, networking, and breaks.
+-  There’s a talk schedule on the **Reception** page and on the `Write
+       the Docs
+       website <https://www.writethedocs.org/conf/portland/2020/schedule/>`__.
+       Select the Calendar icon next to the talks you want to see on the
+       Reception page to add them to your calendar.
 
--  Speaking of breaks--conferences are exhilarating, but can also be exhausting. Give your brain a break! Grab a quiet spot in Lola's Room or take a quick walk. Play a board game on your lunch break. Come back invigorated.
+-  When it’s time for a talk you want to see, select **Stage**.
 
--  Starting Monday morning, check the unconference schedule in Lola's Room to see if there are any sessions you are interested in attending. New sessions are added all the time, so check back periodically.
+-  If the video is not working for a talk, go to the `Write the Docs
+       website <https://www.writethedocs.org/conf/portland/2020/backup-livestream/>`__
+       for a back-up stream.
 
--  Eat! You can use the energy.
+-  Stick around the **Stage** after each talk for a 10-minute, moderated
+       Q&A.
 
--  Are you looking for a job or is there an opening at your company? Check out the job board and the job fair in Lola's Room.
+   -  Enter your questions into the **Chat** channel (always on the
+          right-hand side of any page) prefixed with “Q:“, and the
+          moderator will ask the speaker for you.
 
-FAQs
-----
+   -  Make sure the **Stage** toggle is on for the Chat, so your
+          question will be seen by the moderator.
 
-.. contents::
-   :local:
-   :backlinks: none
+   -  Due to time constraints, we might not be able to get to all of
+          your questions. If your question isn’t asked live, chat with
+          the speaker later and make a connection!
 
-Where is everything?
-~~~~~~~~~~~~~~~~~~~~
+-  After a talk, feel free to tweet about it with the hashtag
+       #writethedocs.
 
-The conference main stage is in the Crystal Ballroom on the third floor at 1332 West Burnside Street.
+-  There is a lot of great information at this conference, but don’t
+       worry if you miss something! All talks are recorded and videos
+       will be published shortly after the conference, so you can review
+       them later.
 
-The unconference takes place directly below the Crystal Ballroom, in Lola's Room.
+**Participate in the conference**
 
-If you are joining in the hike on Saturday, you'll meet the other hikers at the Macleay Park Entrance at 2960 NW Upshur Street. You can take public transportation or a taxi there.
+The schedule is built around **sessions**. Almost all of the in-person
+interactions you’ll have at the virtual conference will be through
+sessions. Learn how to find and participate in sessions, and use these
+lessons for attending Writing Day, Unconference, Job Fair, and Monday
+night Social events.
 
-How should I get around?
-~~~~~~~~~~~~~~~~~~~~~~~~
+**Finding events to participate in**
 
--  Portland is a very walk-able town. Most of the events and `the suggested hotels <https://www.writethedocs.org/conf/portland/{{year}}/visiting/>`__ are within walking distance of the conference venue, the Crystal Ballroom.
+-  You can view the schedule on the **Reception** page. You can also
+       browse a list of events by selecting **Sessions**.
 
--  There are good public transportation options and taxi services. Check out the `Visiting Portland section of the Write the Docs website <https://www.writethedocs.org/conf/portland/{{year}}/visiting/>`__ for more info.
+-  When you select an event in the schedule, like a Writing Day or
+       Unconference session, you are directed to the **Sessions** page.
 
-How should I dress?
-~~~~~~~~~~~~~~~~~~~
+-  Once you are on the **Sessions** page, select the session you want to
+       attend.
 
--  Portland is a casual-dress town and so is the Write the Docs conference. You'll be meeting business colleagues at this conference, though, so neat and comfortable are good dress guidelines.
+**Joining an event**
 
--  If you are going on the `Write the Docs hike on Saturday <https://www.writethedocs.org/conf/portland/{{year}}/hike/>`__, be sure
-   to bring appropriate hiking clothes and shoes. This time of year, the Pacific Northwest tends to be muddy or raining with occasional swaths of blue skies. Layering is usually the way to go.
+-  Once you select a session, you can either view the session and use
+       the Chat, or select **Share Audio and Video** to participate in
+       the session. Sessions are limited to 20 active participants, but
+       anyone can join and view the session.
 
-What will I eat?
-~~~~~~~~~~~~~~~~
+-  Here are some helpful settings for sessions:
 
--  Drinks and food are provided for you on conference days, so you can focus on the talks and meeting people and don't have to worry about where to get your morning coffee.
--  Coffee, tea, and water are always available in the Crystal Ballroom. Bring a water bottle to make it easier for you to stay hydrated.
--  Food is provided on Monday and Tuesday in the Crystal Ballroom. There is a light breakfast, a solid lunch, and snacks on each conference day.
--  On Saturday, Sunday, and in the evening on Monday and Tuesday, `explore Portland's amazing food scene <https://www.writethedocs.org/conf/portland/{{year}}/visiting/>`__. Invite someone you just met to join you! If you are invited to dinner, say yes! Making connections over dinner is a great way to get to know more people.
--  If you need grocery items, there is a Whole Foods just down the street from the conference venue at 1210 NW Couch St, Portland, OR 97209.
+   -  Select the **Video Camera** icon to turn off your video.
 
-Where should I sit?
-~~~~~~~~~~~~~~~~~~~
+   -  Select the **Monitor** icon to share your screen. Multiple people
+          can share their screens at once.
 
--  The Crystal Ballroom will have round tables next to the main stage and rows of seats behind them.
--  There are no reserved seats; feel free to sit anywhere.
--  If you can, show up early to the conference each morning to grab a seat at one of the round tables. Introducing yourself to your neighbors is one of the easiest way to meet people.
+   -  To make someone’s screen larger, double-click on it.
 
-What should I do during the talks?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   -  Select the **Settings** icon to change your audio or video
+          settings.
 
-:doc:`/conf/portland/{{year}}/speakers/`
+**Writing
+Day *
 
--  The time between talks is for meeting your colleagues or taking a break. During the talks, listen and take in as much as you can.
--  There is a lot of great information at this conference, but don't worry if you miss something! All talks are recorded and videos will be published shortly after the conference, so you can review them later.
--  If you have a question during a talk, make a note of it and use it as a conversation starter with the speaker.
--  After a talk, feel free to tweet about it with the hashtag #writethedocs. Try not to "watch" the conference through Twitter and other social media, though. You are attending the conference, so live in it as much as you can!
+-  `Writing
+       Day <https://www.writethedocs.org/conf/portland/2019/writing-day/>`__
+       takes place on Sunday, the day before the conference starts. You
+       can join in anytime between 9:30am and 5pm PDT.
 
-How do I take part in the Writing Day?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-  You can bring a writing project you want to work on, or you can
+       contribute to a project someone else brought.
 
-:doc:`/conf/portland/{{year}}/writing-day/` takes place in the conference venue on Sunday, the day before the conference starts. You can show up any time between 9am and 5pm. There are lots of ways to contribute, and here are the most common:
+   -  **Bring a project**: If you want help with your project, `sign
+          up <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit?usp=sharing>`__
+          before Writing Day. When you are ready to start your project
+          on Writing Day, go to **Sessions**, select your table, and
+          start collaborating.
 
--  Bring a writing project that you want to work on. If you want help with your project, `add it to the list <https://www.writethedocs.org/conf/portland/{{year}}/writing-day/#your-project-here>`_ before or during Writing Day. Be sure to include how to reach out to you. Here's the `2018 Writing Day Project list that you can use as a guide <http://www.writethedocs.org/conf/portland/2018/writing-day/>`_.
--  Help someone else with their writing project. `Check out the list <https://www.writethedocs.org/conf/portland/{{year}}/writing-day/#your-project-here>`_ and connect with the project organizer, before or during Writing Day.
+   -  **Contribute to a project**: If you want to help someone else with
+          their writing project, `check out the list of
+          projects <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit?usp=sharing>`__.
+          When you are ready to participate, go to **Sessions**, select
+          the session for the project you want to contribute to, and
+          introduce yourself.
 
-How do I take part in the unconference?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-  Here’s the `2019 Writing Day Project list that you can use as a
+       guide <https://www.writethedocs.org/conf/portland/2019/writing-day/>`__.
 
--  Check the schedule posted in Lola's Room for the table number of the unconference talk you are interested in. Head to that table and have a seat.
+**Unconference\ `¶ <https://www.writethedocs.org/conf/portland/2019/welcome-wagon/#how-do-i-take-part-in-the-unconference>`__**
+
+-  The Unconference is a set of informal sessions that take place all
+       day Monday and Tuesday afternoon. `Unconference talks focus on
+       conversations and exchanges of ideas between
+       participants. <https://www.writethedocs.org/conf/portland/2020/unconference/>`__
+
+-  You can attend unconference sessions, or, if you have an idea for a
+       session, you can lead one. Anyone can lead an unconference
+       session, as long as they have a discussion idea and a willingness
+       to encourage attendees to talk about it.
+
+..
+
+    **To lead an unconference session**
+
+-  Look for an empty slot on the `Unconference
+       sign-up <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit?usp=sharing>`__,
+       and add your Unconference topic. There will be a time and a table
+       number for each slot.
+
+-  When it’s time for your Unconference session to begin, go to
+       **Sessions** and select the session that corresponds to your
+       table number.
+
+-  The previous unconference session will be in the same table. Let the
+       attendees of the previous session know that their time is up, and
+       your session will begin soon.
+
+-  Once a group has entered your session, start the conversation!
+
+-  When the Unconference leader for the next session enters the session,
+       finish up your discussion to make way for the next one.
+
+..
+
+    **To join in an unconference session**
+
+-  Starting Monday morning, check the `Unconference
+       schedule <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit#gid=1493675134>`__
+       to see if there are any sessions you are interested in joining.
+       New ones are added all the time, so check back periodically.
+
+-  At the time the session starts, go to **Sessions** and select the
+       session with the table number that corresponds to the one in the
+       `Unconference
+       schedule <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit#gid=1493675134>`__.
+
 -  The session leader will begin when the group has gathered.
--  Feel free to just listen or add your voice to the discussion. Unconference talks are designed to get everyone involved.
--  The unconference is a set of informal sessions that take place below the Crystal Ballroom in Lola's Room on Monday and Tuesday afternoons. `Unconference talks focus on exchanges of ideas between participants. <https://www.writethedocs.org/conf/portland/{{year}}/unconference/>`__
--  You can attend unconference sessions, or, if you have an idea for a session, you can lead one.
--  To lead an unconference session, post a summary of your topic on a post-it note in an empty spot on the unconference schedule. Make your way down to Lola's Room a few minutes early to introduce yourself to anyone who is attending your session. Once the group has gathered, introduce your topic and get the discussion going.
 
-What are lightning talks, and should I give one?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Lightning talks**
 
--  A lightning talk is a five-minute talk where you quickly share a concept or bit of info you find interesting.
--  Lightning talks are a great way to practice public speaking, get people excited about your unconference session, and test interest in a conference proposal idea.
--  Do you have an idea, want to talk about a new tool you are learning, or review a process? Then, yes! Sign up for a lightning talk. There will be a sign-up sheet at registration.
--  If you are interested in giving a lightning talk, be prepared! There is a great guide `here <https://www.writethedocs.org/conf/portland/{{year}}/lightning-talks/?highlight=re>`__.
+-  A Lightning Talk is a five-minute talk where you quickly share a
+       concept or bit of info you find interesting. Lightning talks are
+       a great way to practice public speaking, get people excited about
+       your Unconference session, and test interest in a conference
+       proposal idea.
 
-How do I make the most out of this conference?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-  If you are interested in giving a lightning talk, be prepared! There
+       is a great guide
+       `here <https://www.writethedocs.org/conf/portland/2020/lightning-talks/?highlight=re>`__.
 
-Attend the Welcome Wagon events. Make connections with other first-time attendees and get advice from seasoned pros.
+-  Watch the conference chat and **Reception** for an announcement that
+       Lightning Talk sign-ups have opened and for directions on how to
+       sign up.
 
-The most important part of this conference (and any conference) is the people you meet. Set a goal for yourself to meet a few, new people. Here are some tips:
+-  If you are selected to speak, one of the Organisers will contact you
+       with more information.
 
--  Find out who is attending the conference before you get there. Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
-   and review the `list of speakers <https://www.writethedocs.org/conf/portland/{{year}}/speakers/>`__.
--  Figure out which companies will be represented at the conference. If you see a job post you're interested in, you might want to ask them a few questions. This might be a great time to better understand what it's like to work at certain companies.
--  Make a list of a few people you would like to meet, and write down some questions for them. If you can find contact information, email them before the conference and let them know you are looking forward to chatting.
--  Most importantly, remember that you don't have to meet everyone. In fact, you shouldn't. You should plan to make a few, meaningful connections. That is what the Write the Docs conference is about, so go for it! Introduce yourself.
+**Job Fair**
 
-Sample strategy for my first Write the Docs conference
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-  The Job Fair takes place on Tuesday morning. Each company attending
+       the Job Fair will have their own Session table. To view the Job
+       Fair participants and booths, go to **Sessions**.
 
--  Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, and participate in the Welcome Wagon chat room to start making conference connections.
--  Make a list of two people who are attending with some notes about them and questions for them. Either reach out by email before the conference to set up a meeting onsite or find them at the conference.
--  Attend the Welcome Wagon events.
--  Join in the Saturday hike.
--  Attend the Sunday writing day and volunteer to help on one of the projects being worked on.
--  Check out the talk schedule in advance and make note of the talks you don't want to miss.
--  In the morning, or when you need a break during the day, head down to Lola's Room to check out the unconference schedule. Make note of any unconference talks you want to attend.
--  Check out the lightning talks, and get excited about presenting one at next year's conference.
+-  Once you are in the session, check out the pinned message to review
+       job and company information.
 
-Sample strategy for a second or higher Write the Docs conference
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-  If you want to start a conversation with someone at the session, go
+       to the **Chat** tab, make sure the **Session** toggle is on, and
+       ask your question. You can set up 1:1 conversations using chat or
+       video, too.
 
--  Attend the Welcome Wagon events and share your conference knowledge. You might learn something new yourself!
--  Reach out to some first-time attendees and tell them about your first conference.
--  Attend the Sunday writing day with your own project. Ask for help!
--  Check out the talk schedule in advance and make note of the talks you don't want to miss.
--  In the morning, or when you need a break during the day, head down to Lola's Room to check out the unconference schedule. Make note of any unconference talks you want to attend.
--  Sign up for a lightning talk or lead an unconference session.
+-  Remember, there might be multiple people starting conversations, so
+       there could be a wait.
 
-.. _say-hello-{{year}}:
+**Sponsor booths**
 
-Say hello
----------
+Select **Expo** to view Sponsor booths. Sponsors might have videos you
+can watch, information to review on the **Booth** tab, and people you
+can talk to on the **Chat** tab. Visiting Sponsor booths is a great way
+to make connections!
 
-We'd love to say hi when you're at the conference.
-Come find us and ask any questions, or just chat about the conference!
+**Monday Social**
 
-.. container:: crew-images
+The Monday night Social will be designed by you this year! You can host
+a session and meet fellow attendees for a video social event or you can
+attend a social event set up by someone else.
 
-   .. container:: crew-image
+**Attend a social event**
 
-      .. figure:: /_static/img/crew/christy.jpg
-         :width: 100px
+Check the `list of social
+events <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit#gid=1493675134>`__\ **,**
+and then go to the **Sessions** page and select the table that you want
+to join.
 
-         Christy
-   .. container:: crew-image
+**Host a social event**
 
-      .. figure:: /_static/img/crew/Mo.jpg
-         :width: 100px
+If you have an idea for a social event, find an empty table in the
+`sign-up
+sheet <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit#gid=1493675134>`__
+and add your session. Here’s some ideas:
 
-         Mo
-   .. container:: crew-image
+-  Online game night
 
-      .. figure:: /_static/img/crew/Tana.jpg
-         :width: 100px
+-  WFH life meetup – give attendees a video tour of your space
 
-         Tana
-   .. container:: crew-image
+-  Music performance
 
-      .. figure:: /_static/img/crew/Alicia.jpg
-         :width: 100px
+-  YouTube karaoke
 
-         Alicia
-   .. container:: crew-image
+-  Silly hats/furry friends meetup
 
-      .. figure:: /_static/img/crew/David.jpg
-         :width: 100px
+**Networking**
 
-         David
-   .. container:: crew-image
+**Add info to your profile**
 
-      .. figure:: /_static/img/crew/Leona2019.jpg
-         :width: 100px
+To add information about yourself to your conference profile, select
+your initials > **Edit Profile**. Share as much as you are comfortable.
 
-         Leona
+Important: Any info you add to your profile can be seen by everyone
+attending the conference. All conversations should adhere to the `Write
+the Docs Code of
+Conduct <https://www.writethedocs.org/code-of-conduct/>`__.
 
+**Reach out to attendees**
 
-Thanks
-------
+There are several ways to network using the virtual conference platform:
 
-This document was inspired by other conferences doing great work in this area.
-In particular, these two documents were heavily used as a reference:
+-  **Networking**: Select **Networking** to be randomly matched with
+       another attendee. Conversations are limited to 1-5 minutes, and
+       you’ll automatically be connected to the next person when your 5
+       minutes is up. Here’s some icebreakers:
 
-* Double your Audience Microconference Guide
-* http://www.pydanny.com/beginners-guide-pycon-2014.html
+   -  What are you reading for fun right now?
+
+   -  Have you found a website that makes you happy during social
+          isolation?
+
+   -  If you could start a business, what would it be?
+
+   -  What is the best vacation you’ve ever been on?
+
+   -  Are you working on any passion projects right now?
+
+   -  What are your favorite podcasts?
+
+   -  What is the most surprising thing that happened to you in the past
+          week?
+
+   -  What drew you to your work?
+
+-  **Direct message Chat**:
+
+   -  You can direct message attendees by finding them on the **People**
+          tab.
+
+   -  To filter for Organisers or Speakers, select the **Filter** icon.
+
+   -  You can toggle between viewing **People** (a list of attendees)
+          and **Messages** (a list of the messages you sent and
+          received).
+
+-  **Event and conference-wide Chat**:
+
+   -  When you chat on any of the main pages (Reception, Sessions,
+          Networking, and Expo, you are chatting *the entire
+          conference*.
+
+   -  When you attend a Session, view the main Stage, or visit an Expo
+          booth, you’ll see a toggle for switching between
+          conference-wide chat and event chat. When you select
+          **Event**, you are chatting the entire conference. To chat
+          just your session, toggle on the **Session** or **Booth**
+          chat.
+
+**Pro Tips**
+
+-  Conferences are exhilarating, but can also be exhausting. Give your
+       brain a break! Grab a quiet spot or take a quick walk. Play a
+       board game on your lunch break. Come back invigorated.
+
+-  Find out who is attending the conference before you attend. Join the
+       `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow
+       the `Write the Docs on
+       Twitter <https://twitter.com/writethedocs>`__, and review the
+       `list of
+       speakers <https://www.writethedocs.org/conf/portland/2019/speakers/>`__.
+
+-  In case of technical issues with our main platform Hopin, please
+       watch the #wtd-conference Slack channel for status updates and
+       alternative viewing links that might be posted.
