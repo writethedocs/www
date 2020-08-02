@@ -5,9 +5,9 @@
 Write the Docs Newsletter – August 2020
 #######################################
 
-Dear documentarians of the world - good morning, afternoon, or evening! It’s Beth here, writing to you on an absolutely sweltering day in Switzerland. Not going to lie, 36 degrees C in the home office is rather a challenge; on the plus side, at home a mid-afternoon siesta becomes a very viable option… 
+Dear documentarians of the world - good morning, afternoon, or evening! It’s Beth here, writing to you on an absolutely sweltering day in Switzerland. 36°C has been rather a challenge in the home office; on the plus side, being at home means a mid-afternoon siesta is now an option… 
 
-The `online Portland conference </conf/portland/2020>`__ is fast approaching, on 9-11 August. Tickets are `on the verge of selling out </conf/portland/2020/news/tickets-selling-out/>`__, so if you’ve been sitting on the fence about whether to go, get a move on! `Here’s the schedule </conf/portland/2020/news/schedule/>`__ if it’ll help you make up your mind.
+The `online Portland conference </conf/portland/2020>`__ is fast approaching, on 9-11 August. Tickets are `on the verge of selling out </conf/portland/2020/news/tickets-selling-out/>`__, so if you’ve been sitting on the fence about whether to go - get a move on! `Here’s the schedule </conf/portland/2020/news/schedule/>`__ if it’ll help you make up your mind.
 
 And if Portland isn’t in a convenient time zone for you, fear not! because the `Australia and India virtual conference </conf/australia/2020/>`__ has just announced both dates (3-4 December 2020) and a `call for proposals </conf/australia/2020/news/cfp-open/>`__. We cannot wait to hear from documentarians far and wide - get those talk proposals submitted by 31st August.
 
