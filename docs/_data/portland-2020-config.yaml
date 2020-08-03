@@ -15,20 +15,22 @@ photos:
 
 buttons:
   top:
-    - text: Date and ticket information
-      link: /news/announcing-virtual-conf-dates-tickets
-    - text: Sponsor us
-      link: /sponsors/online-prospectus
+    # - text: Date and ticket information
+    #   link: /news/announcing-virtual-conf-dates-tickets
+    - text: Read our conference guide
+      link: /welcome-wagon
+    - text: See the Schedule!
+      link: /schedule
      # - text: Buy a Ticket!
      #   link: /tickets
+    # - text: Sponsor us
+    #   link: /sponsors/online-prospectus
     # - text: Submit a Talk
     #   link: /cfp
     # - text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
 #      link: /schedule
-    # - text: Welcome Wagon
-    #   link: /welcome-wagon
 #    - text: Watch the Live Stream
 #      link: /livestream
 #     - text: Browse the photos
@@ -36,10 +38,14 @@ buttons:
 #     - text: Watch the videos!
 #       link_absolute: /videos/portland/2020
   bottom:
-     - text: Date and ticket information
-       link: /news/announcing-virtual-conf-dates-tickets
-     - text: Sponsor the conference
-       link: /sponsors/online-prospectus
+    - text: Read our conference guide
+      link: /welcome-wagon
+    - text: See the Schedule!
+      link: /schedule
+     # - text: Date and ticket information
+     #   link: /news/announcing-virtual-conf-dates-tickets
+     # - text: Sponsor the conference
+     #   link: /sponsors/online-prospectus
      # - text: See the talks!
      #   link: /speakers
     # - text: Buy a Ticket!
