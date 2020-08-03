@@ -36,7 +36,7 @@ Primary Roles
 * **Infrastructure coordinator** - `Mikey Ariel`_
 * **Swag coordinator** - `Mikey Ariel`_
 * **Job Fair coordinator** - `Eric Holscher`_
-* **Welcome Wagon coordinators** - Christy Lutz, Mo Nishiyama
+* **Welcome Wagon and Helpdesk coordinators** - Christy Lutz, Mo Nishiyama
 * **Sponsorship coordinator** - `Eric Holscher`_
 * **Writing Day coordinator** - Rose Williams
 * **Volunteer coordinator** - Alex Fornuto
