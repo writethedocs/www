@@ -9,7 +9,7 @@ Dear documentarians of the world - good morning, afternoon, or evening! It’s B
 
 The `online Portland conference </conf/portland/2020>`__ is fast approaching, on 9-11 August. Tickets are `on the verge of selling out </conf/portland/2020/news/tickets-selling-out/>`__, so if you’ve been sitting on the fence about whether to go - get a move on! `Here’s the schedule </conf/portland/2020/news/schedule/>`__ if it’ll help you make up your mind.
 
-And if Portland isn’t in a convenient time zone for you, fear not! because the `Australia and India virtual conference </conf/australia/2020/>`__ has just announced both dates (3-4 December 2020) and a `call for proposals </conf/australia/2020/news/cfp-open/>`__. We cannot wait to hear from documentarians far and wide - get those talk proposals submitted by 31st August.
+And if Portland isn’t in a convenient time zone for you, fear not! because the `Australia and India online conference </conf/australia/2020/>`__ has just announced both dates (3-4 December 2020) and a `call for proposals </conf/australia/2020/news/cfp-open/>`__. We cannot wait to hear from documentarians far and wide - get those talk proposals submitted by 31st August.
 
 Next month, the newsletter team is on our summer break - so enjoy this month’s articles, and I’ll look forward to popping back into your inbox again come October. Stay well!
 
@@ -20,7 +20,7 @@ To git or not to git docs as code
 Everybody's asking about a docs-as-code workflow and toolchain these days - one recent question about adopting it for a team that's unfamiliar with Git sparked a useful discussion about this potentially rather painful learning curve. Here's the advice from folks who've brought teams up to speed with Git:
 
 * It's crucial to have at least one Git expert available to help troubleshoot. Both beause as people are learning for the first time, and because everyone on the team (no matter how proficient) will encounter new and unexpected issues.
-* Make time for proper training. Find someone in-house, bring someone in from outside, give people time to take online courses. Two recommended resources were a YouTube video, `Git and GitHub for Poets <https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV/>`__, and a Udemy course, `Git and GitHub for Writers <https://www.udemy.com/course/git-and-github-for-writers/>`__.
+* Make time for proper training. Find someone in-house, bring someone in from outside, give people time to take online courses. Two recommended resources were a YouTube video, `Git and GitHub for Poets <https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV>`__, and a Udemy course, `Git and GitHub for Writers <https://www.udemy.com/course/git-and-github-for-writers/>`__.
 * Consider GUI clients instead of the command line. Folks mentioned GitHub Desktop, TortoiseGit (Windows), Tower, Sourcetree, and GitKraken.
 * A lot of learning Git is about building confidence with an unfamiliar workflow and new underlying concepts. Once people get through the initial learning curve, stress levels tend to settle down.
 
