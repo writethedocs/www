@@ -29,22 +29,19 @@ Primary Roles
 -------------
 
 * **Conference chair** - `Eric Holscher`_
-* **Conference co-chair** - *TBD*
 * **Code of conduct response** - See `code of conduct </code-of-conduct/#reporting-and-contact-information>`_ page
 * **Speaker coordinator** - `Samuel Wright`_
-* **Unconference coordinator** - *TBD*
-* **Lightning Talk coordinator** - *TBD*
-* **Hike coordinator** - `Eric Holscher`_
-* **Infrastructure coordinator** - *TBD*
+* **Unconference coordinator** - Jennifer Rondeau
+* **Lightning Talk coordinator** - Rose Williams
+* **Infrastructure coordinator** - `Mikey Ariel`_
 * **Swag coordinator** - `Mikey Ariel`_
-* **Communication coordinator** - *TBD*
-* **Explore Portland coordinators** - *TBD*
-* **Job Fair coordinator** - *TBD*
-* **Welcome Wagon coordinators** - *TBD*
+* **Job Fair coordinator** - `Eric Holscher`_
+* **Welcome Wagon coordinators** - Christy Lutz, Mo Nishiyama
 * **Sponsorship coordinator** - `Eric Holscher`_
-* **Writing Day coordinator** - *TBD*
-* **Volunteer coordinator** -*TBD*
-* **Emcee** - *TBD*
-* **Social media coordinator** - *TBD*
+* **Writing Day coordinator** - Rose Williams
+* **Volunteer coordinator** - Alex Fornuto
+* **Emcee** - Andrea Kao
+* **Social media coordinator** - Mo Nishiyama
+* **Support and Website infrastructure** - Sasha Romijn
 
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
