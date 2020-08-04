@@ -19,8 +19,8 @@ buttons:
      #   link_absolute: /blog/moving-portland-prague-2020-online/
      - text: Buy a Ticket!
        link: /tickets
-    - text: Sponsor us
-      link: /sponsors/prospectus
+     - text: Sponsor us
+       link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
     # - text: See the talks!
