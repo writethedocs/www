@@ -19,10 +19,10 @@ buttons:
      #   link_absolute: /blog/moving-portland-prague-2020-online/
      - text: Buy a Ticket!
        link: /tickets
-    #- text: Sponsor us
-    #  link: /sponsors/prospectus
-     - text: Submit a Talk
-       link: /cfp
+    - text: Sponsor us
+      link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
     # - text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
@@ -40,10 +40,10 @@ buttons:
        link: /sponsors/prospectus
      # - text: The conference is moving online
      #   link_absolute: /blog/moving-portland-prague-2020-online/
-     - text: Submit a Talk
-       link: /cfp
-    # - text: Buy a Ticket!
-    #   link: /tickets
+     # - text: Submit a Talk
+     #  link: /cfp
+     - text: Buy a Ticket!
+       link: /tickets
 #    - text: Prepare with the Welcome Wagon
 #      link: /welcome-wagon
 #    - text: See the schedule!
@@ -129,7 +129,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: False
-flagcfp: True
+flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
