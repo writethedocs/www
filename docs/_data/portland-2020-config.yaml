@@ -153,7 +153,13 @@ sponsors:
     - name: cncf
       link: https://www.cncf.io/
       brand: Cloud Native Computing Foundation
+    - name: twilio
+      link: https://www.twilio.com/
+      brand: twilio
   second:
+    - name: mozilla
+      link: https://www.mozilla.org/en-US/
+      brand: Mozilla
     - name: salesforce
       link: https://www.salesforce.com
       brand: Salesforce
