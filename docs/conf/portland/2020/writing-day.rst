@@ -51,3 +51,16 @@ Once your merge request is reviewed and merged, it will appear on the docs site
 shortly!
 
 If you have any questions, you can reach to us in person or in Slack: `@amyq`, `@arty-chan`, `@mikejang`, `@miketechnically`, `@selhorn`, `@Ray Paik`.
+
+MDN Web Docs
+------------
+`MDN Web Docs <https://developer.mozilla.org>`_ is a source of references, guides, and tutorials on standards-based web technologies, much loved by web developers. It was chosen as #1 for Documentation in the Developer’s Choice Awards for 2018, conducted by SlashData.
+
+Yet, MDN Web Docs needs help from documentarians—whether you are a programmer, web designer, or someone else who cares about web technology. MDN is a wiki, so anyone can contribute to content. You can use your Google or GitHub credentials to create a wiki account. 
+
+We have `tasks for you to help with content issues and editorial reviews <https://docs.google.com/document/d/1q6BiE1-RJPFoe2IAghqhRbm0vci24k2nBLqdd_Dqn7o/edit?usp=sharing>`_.
+
+Look for `@jmswisher` in the WTD slack for help and questions.
+
+
+
