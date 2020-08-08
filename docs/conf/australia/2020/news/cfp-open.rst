@@ -35,7 +35,7 @@ Our grant program offers tickets to people who would otherwise not be able to at
 We're excited to be able to offer free tickets to a larger number of people this year,
 since there are now minimal other costs to attend the event.
 
-You can apply until **October 1, 2020, Midnight AEST** on `our website <https://www.writethedocs.org/conf/australia/2020/opportunity-grants/>`_.
+You can apply until **October 1, 2020, Midnight AEST** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
 
 Stay updated
 ------------

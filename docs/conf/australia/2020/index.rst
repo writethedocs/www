@@ -1,5 +1,5 @@
 :template: {{year}}/index.html
-:banner: _static/conf/images/headers/prague-group.png
+:banner: _static/conf/images/headers/WTDHeader.png
 
 :orphan:
 
