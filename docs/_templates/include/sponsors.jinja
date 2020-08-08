@@ -1,0 +1,62 @@
+{%- macro conf_sponsors() -%}
+{% with include_text=True %}
+{%- include year|string + "/sponsors.html" ignore missing -%}
+{% endwith %}
+{%- endmacro -%}
+{% set conf_sponsors = conf_sponsors() %}
+
+{%- macro sponsors_in_kind() -%}
+{%- include year|string + "/sponsors-in-kind.html" ignore missing -%}
+{%- endmacro -%}
+{% set sponsors_in_kind = sponsors_in_kind() %}
+
+{%- macro media_sponsors() -%}
+{%- include year|string + "/sponsors-media.html" ignore missing -%}
+{%- endmacro -%}
+{% set media_sponsors = media_sponsors() %}
+
+Sponsors
+========
+
+We are seeking corporate partners to help us create the best conference possible.
+You can find more information in our :doc:`prospectus`.
+
+{% if conf_sponsors|trim %}
+
+Corporate sponsors
+------------------
+
+The conference wouldn't be nearly as great as it is without our wonderful corporate sponsors.
+Thanks to these folks for supporting the community.
+
+.. raw:: html
+
+    {{ conf_sponsors|indent(4) }}
+
+{% endif %}
+
+{% if sponsors_in_kind|trim %}
+
+In Kind Sponsors
+----------------
+
+Write the Docs is also helped out by companies that give their employees time to work on the conference.
+
+.. raw:: html
+
+    {{ sponsors_in_kind|indent(4) }}
+
+{% endif %}
+
+{% if media_sponsors|trim %}
+
+Media Sponsors
+--------------
+
+These amazing media professionals have teamed up with us to capture the Write the Docs experience.
+
+.. raw:: html
+
+    {{ media_sponsors|indent(4) }}
+
+{% endif %}

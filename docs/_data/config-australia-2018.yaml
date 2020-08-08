@@ -1,0 +1,71 @@
+name: Australia
+
+shortcode: australia # prague australia?
+templatecode: au # HACK
+year: 2018
+city: Melbourne
+local_area: Australia
+area: Australia
+area_adj: Australian
+tz: AEST
+email: australia@writethedocs.org
+
+photos:
+  default: _static/conf/images/headers/writing-day.png
+
+tickets:
+  corporate:
+    price: $150
+    url:
+  independent:
+    price: $100
+    url:
+  student:
+    price: $50
+    url:
+
+date: # how do we handle these? human readable would be nice.
+  main: "**November 15-16, 2018, in Melbourne, Australia**"
+  short: Nov 15-16, 2018
+  tickets_live: "June 2018"
+  month: November
+  day_one:
+    event: Talks & Workshop
+    date: Nov 15
+    summary: The first conference day, including talks, a workshop, and unconference time.
+    icon: conference
+  day_two:
+    event: Talks & Workshop
+    date: Nov 16
+    summary: Another day of talks, an included workshop, and discussion time.
+    icon: conversation
+
+about:
+  summary:
+    "The conference takes place on **November 15-16** (Thursday and Friday). The
+    main presentation track runs from 9:00 to 14:00 each day, followed by a
+    :doc:`/conf/australia/2018/workshop-tech-writing` and
+    :doc:`/conf/australia/2018/unconference`.
+
+    You can find out more information about the venue and its accessibility on our :doc:`/conf/australia/2018/venue` page."
+  location: "Performance Space, Library at the Dock, Melbourne"
+  attendees: 100
+  mainroom:
+    Performance Space
+  unconfroom:
+    Community Room
+
+cfp:
+  url: https://goo.gl/forms/ONK3MoLwtNQ3LcXv1
+  ends: Friday, July 27th
+  notification: Wednesday, Aug 15th
+
+flaglanding: False
+flagspeakersannounced: True
+flagcfp: False
+flaghassponsors: True
+flaghasschedule: True
+
+flagticketsonsale: True
+flaghashike: False
+flaghasboat: False

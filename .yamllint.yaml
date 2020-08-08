@@ -1,0 +1,7 @@
+extends: relaxed
+
+rules:
+        line-length: disable
+        hyphens: disable
+        new-line-at-end-of-file: disable
+        trailing-spaces: disable

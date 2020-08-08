@@ -1,0 +1,153 @@
+name: str()
+shortcode: str()
+templatecode: str(required=False)  # legacy for <2020
+year: int()
+city: str()
+local_area: str()
+area: str()
+area_adj: str()
+tz: str()
+email: str()
+color: str(required=False)
+titocode: str(required=False)
+cobrand: include('cobrand-details', required=False)
+
+photos: include('photo-default')
+
+buttons: include('buttons', required=False)
+
+tickets: include('ticket-details')
+
+sponsorship: include('sponsorship-details', required=False)
+
+sponsors: include('sponsors-details', required=False)
+
+date: include('date-details')
+
+about: include('about-details')
+
+cfp: include('cfp-details', required=False)
+grants: include('grants-details', required=False)
+
+flaghassponsors: bool()
+flagcfp: bool()
+flagticketsonsale: bool()
+flagsoldout: bool(required=False)
+flagspeakersannounced: bool()
+flaghasschedule: bool()
+flaghaswritingday: bool(required=False)
+flagwelcomewagon: bool(required=False)
+flaglivestreaming: bool(required=False)
+flagvideos: bool(required=False)
+flagpostconf: bool(required=False)
+
+flaghasshirts: bool(required=False)
+
+flaghastour: bool(required=False)
+flaghashike: bool()
+flaghasboat: bool()
+flaglanding: bool()
+flaghasbadgeflair: bool(required=False)
+
+---
+
+photo-default:
+  default: str()
+
+cobrand-details:
+    brand: str()
+    brand_html: str()
+    logo: str()
+
+buttons:
+  top: list(include('button-details'), required=False)
+  bottom: list(include('button-details'), required=False)
+
+button-details:
+  text: str()
+  link: str(required=False)
+  link_absolute: str(required=False)
+
+ticket-details:
+  community: include('price-type', required=False)
+  corporate: include('price-type')
+  independent: include('price-type')
+  student: include('price-type')
+
+price-type:
+  price: str()
+  url: str(required=False)
+
+price2:
+  price: str(required=False)
+  half: str(required=False)
+
+date-details:
+  main: str()
+  short: str()
+  tickets_live: str()
+  month: str()
+  day_one: include('day-details', required=False)
+  day_two: include('day-details', required=False)
+  day_three: include('day-details', required=False)
+  day_four: include('day-details', required=False)
+  total_talk_days: int(min=0, required=False)
+
+day-details:
+  event: str(required=False)
+  date: str()
+  summary: str(required=False)
+  icon: str(required=False)
+  dotw: str(required=False)
+
+sponsorship-details:
+  first_draft: include('price2', required=False)
+  second_draft: include('price2', required=False)
+  publisher: include('price2', required=False)
+  patron: include('price2', required=False)
+  keystone: include('price2', required=False)
+  job_fair: include('price2', required=False)
+  lanyard: include('price2', required=False)
+  writing_day: include('price2', required=False)
+
+sponsors-details:
+  media: list(include('sponsor-detail'), required=False)
+  first_draft: list(include('sponsor-detail'), required=False)
+  second_draft: list(include('sponsor-detail'), required=False)
+  first: list(include('sponsor-detail'), required=False)
+  second: list(include('sponsor-detail'), required=False)
+  publisher: list(include('sponsor-detail'), required=False)
+  patron: list(include('sponsor-detail'), required=False)
+  keystone: list(include('sponsor-detail'), required=False)
+  job_fair: list(include('sponsor-detail'), required=False)
+  lanyard: list(include('sponsor-detail'), required=False)
+  writing_day: list(include('sponsor-detail'), required=False)
+
+sponsor-detail:
+  name: str(required=True)
+  link: str(required=True)
+  brand: str(required=False)
+  text: str(required=False)
+  width: str(required=False)
+
+
+about-details:
+  summary: str(required=False)
+  venue: str(required=False)
+  attendees: any(int(), str())
+  mainroom: str(required=False)
+  unconfroom: str(required=False)
+  job_fair_room: str(required=False)
+  location: str(required=False)
+  photos: str(required=False)
+  projector_ratio: str(required=False)
+
+cfp-details:
+  url: str(required=False)
+  ends: str(required=False)
+  notification: str(required=False)
+
+grants-details:
+  url: str(required=False)
+  ends: str(required=False)
+  notification: str(required=False)

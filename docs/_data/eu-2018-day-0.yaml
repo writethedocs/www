@@ -1,0 +1,18 @@
+- Duration: '60'
+  Session: Doors Open, Breakfast Served
+  Time: '9:00'
+- Duration: '30'
+  Session: Introduction to Writing Day
+  Time: '10:00'
+- Duration: '150'
+  Session: Writing day
+  Time: '10:30'
+- Duration: '60'
+  Session: Lunch
+  Time: '13:00'
+- Duration: '180'
+  Session: Writing day
+  Time: '14:00'
+- Duration: null
+  Session: Writing day ends
+  Time: '17:00'

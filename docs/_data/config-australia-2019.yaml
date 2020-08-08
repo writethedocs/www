@@ -1,0 +1,127 @@
+name: Australia
+
+shortcode: australia # prague australia?
+templatecode: au # HACK
+year: 2019
+city: Sydney
+local_area: Australia
+area: Australia
+area_adj: Australian
+tz: AEST
+email: australia@writethedocs.org
+color: coral
+
+photos:
+  default: _static/conf/images/headers/WTDHeader.png
+
+buttons:
+  top:
+    - text: Sponsor the conference
+      link: /sponsors/prospectus
+    - text: Check the schedule
+      link: /schedule
+    #- text: Submit a Talk
+    #  link: /cfp
+    #- text: Buy a Ticket!
+    #  link: /tickets
+    # - text: See the talks!
+    #   link: /speakers
+    # - text: Prepare with the Welcome Wagon
+    #  link: /welcome-wagon
+    # - text: Watch the Live Stream
+    #  link: /livestream
+    # - text: Browse the photos
+    #  link: /livestream
+
+tickets:
+  corporate:
+    price: $250
+  independent:
+    price: $150
+  student:
+    price: $75
+
+sponsorship:
+  first_draft:
+    price: $500
+  second_draft:
+    price: $1000
+  publisher:
+    price: $2000
+  patron:
+    price: $4000
+  keystone:
+    price: $7500
+
+sponsors:
+  keystone:
+  patron:
+    # They actually got a custom sponsorship somewhere in the middle,
+    # but let's bump them because they've been a steady supporter
+    - name: google
+      link: https://www.google.com
+  publisher:
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+    - name: atlassian
+      link: https://www.atlassian.com
+  second:
+    - name: buildkite
+      link: https://buildkite.com/
+    - name: gandi
+      link: https://www.gandi.net/en
+    - name: gitlab
+      link: https://gitlab.com
+  first:
+    - name: datalust
+      link: https://datalust.co/seq
+    - name: redocly
+      link: https://redoc.ly/
+
+date: # how do we handle these? human readable would be nice.
+  main: "**November 14-15, 2019, in Sydney, Australia**"
+  short: Nov 14-15, 2019
+  tickets_live: "June 2019"
+  month: November
+  day_one:
+    event: Talks/Doc Fixits/Workshop
+    date: Nov 14
+    summary: The first conference day, including talks, doc fixit projects, workshops, and unconference time.
+    icon: conference
+  day_two:
+    event: Talks/Workshops
+    date: Nov 15
+    summary: Another day of talks, unconference, workshops, and discussion time.
+    icon: conversation
+
+about:
+  summary:
+    "The main presentation track takes place from **Nov 14-15 (Thursday and Friday) from 8.30am to 5.30pm**.
+    The conference takes place at the historic `Justice and Police Museum <https://sydneylivingmuseums.com.au/justice-police-museum>`_, `centrally located <https://bit.ly/2Z5JrFP>`_ in the heart of Sydney.
+    During the main event we also run an :doc:`/conf/australia/2019/unconference` next door in the Police Court.
+
+    You can find out more information about the venue and its accessibility on our :doc:`/conf/australia/2019/venue` page."
+  location: "Water Police Court located at corner of Albert and Phillip streets, Circular Quay, Sydney"
+  attendees: 100
+  mainroom:
+    Water Police Court
+  unconfroom:
+    Police Court, Charge Room and Cells
+
+cfp:
+  url: https://forms.gle/fBsmQ7CmeyEGq5zw5
+  ends: Friday, Aug 9th
+  notification: Friday, Aug 30th
+
+flaglanding: False
+flagspeakersannounced: True
+
+flagcfp: False
+flaghassponsors: True
+flaghasschedule: True
+
+flagticketsonsale: False
+flaghashike: False
+flaghasboat: False
+flagvideos: False
+flaglivestreaming: False

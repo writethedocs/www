@@ -1,0 +1,31 @@
+{%- extends "!layout.html" %}
+
+{%- block document %}
+  <div class="documentwrapper">
+  {%- if render_sidebar %}
+    <div class="bodywrapper">
+  {%- endif %}
+      <div class="body" role="main">
+          {% block breadcrumbs %}
+          <div class="breadcrumbs">
+            {# Don't show breadcrumbs on root page #}
+            {% if master_doc != pagename %}
+              <a href="{{ pathto(master_doc) }}">{{ _('Home') }}</a> &raquo;
+                {% for doc in parents %}
+                  <a href="{{ doc.link|e }}">{{ doc.title }}</a> &raquo;
+                {% endfor %}
+            {% endif %}
+          </div>
+        {% endblock %}
+        {% block body %} {% endblock %}
+      </div>
+  {%- if render_sidebar %}
+    </div>
+  {%- endif %}
+  </div>
+    {%- endblock %}
+
+
+{%- block footer %}
+  {% include "footer.html" %}
+{%- endblock %}

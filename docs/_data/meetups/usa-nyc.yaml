@@ -1,0 +1,11 @@
+region: North America
+country: USA
+state: New York
+city: New York City
+page: ./nyc/
+website: https://www.meetup.com/WriteTheDocsNYC/
+meetup: WriteTheDocsNYC
+twitter: WriteTheDocsNYC
+organizers:
+  - name: Ricardo Feliciano
+    link: http://twitter.com/FelicianoTech/

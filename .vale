@@ -1,0 +1,12 @@
+StylesPath = vale
+MinAlertLevel = warning
+
+[*.{md,rst,txt,json}]
+BasedOnStyles = WTD
+
+vale.Redundancy = YES
+#vale.Repetition = YES
+vale.GenderBias = YES
+
+TheEconomist.UnnecessaryWords = YES
+TheEconomist.Hectoring = YES

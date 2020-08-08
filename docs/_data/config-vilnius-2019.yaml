@@ -1,0 +1,107 @@
+name: Vilnius
+
+shortcode: vilnius # prague australia?
+templatecode: lt # HACK
+year: 2019
+city: Vilnius
+local_area: Lithuania
+area: Europe # Europea Australia
+area_adj: Baltic
+tz: EEST
+email: vilnius@writethedocs.org
+color: coral
+
+photos:
+  default: _static/conf/images/headers/group.png
+
+buttons:
+  top:
+    #- text: Sponsor the conference
+    #  link: /sponsors/prospectus
+    #- text: Submit a Talk
+    #link: /cfp
+    - text: See the talks!
+      link: /speakers
+    - text: Thinking of visiting Prague?
+      link: /../../prague/2019/index
+    # - text: Prepare with the Welcome Wagon
+    #  link: /welcome-wagon
+    # - text: Watch the Live Stream
+    #  link: /livestream
+    # - text: Browse the photos
+    #  link: /livestream
+
+tickets:
+  community:
+    price: 150 €
+  corporate:
+    price: 70 €
+  independent:
+    price: 40 €
+  student:
+    price: 15 €
+
+sponsorship:
+  first_draft:
+    price: 300 €
+  second_draft:
+    price: 600 €
+  publisher:
+    price: 1000 €
+
+sponsors:
+  keystone:
+  patron:
+  publisher:
+  second:
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+  first:
+    - name: techwriter-pl
+      link: http://techwriter.pl
+
+date:
+  main: "**June 2-3, 2019, in Vilnius, Lithuania**"
+  month: June
+  short: June 2-3, 2019
+  tickets_live: "March 2019"
+
+  day_one:
+    event: Writing Day
+    date: June 2
+    summary: Join us for the <a href="/conf/vilnius/2019/writing-day/">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    icon: writing
+
+  day_two:
+    event: Main Conference
+    date: June 3
+    summary: The main day of the conference. We will be running our main track with multiple presentations.
+    icon: conference
+
+about:
+  attendees: 50
+  summary:
+    "The main presentation track takes place on **June 3 (Monday) from 10:00 to 18:00**, and the Writing Day is held on **June 2 (Sunday) from 10:00 to 18:00**.
+
+    You can find out more information about the venue and its accessibility on our :doc:`/conf/vilnius/2019/venue` page."
+  location:
+    "University of Social Sciences (USS), Kalvarijų g. 137E, Vilnius"
+
+cfp:
+  url: https://goo.gl/forms/B4FqgaYHfuAI5aBo1
+  ends: Monday, April 22nd
+  notification: Wednesday, May 1st
+
+
+flagspeakersannounced: True
+flagcfp: False
+flaghasschedule: True
+flagticketsonsale: False
+flaghashike: False
+flaghasboat: False
+flaghasshirts: False
+flaglanding: False
+flaghassponsors: True
+flagvideos: False
+flaglivestreaming: False
+flagpostconf: True

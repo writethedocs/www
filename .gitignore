@@ -1,0 +1,12 @@
+*.swp
+*.swo
+.DS_Store
+_build
+.env
+.tox
+venv*
+*.pyc
+node_modules
+.sass-cache
+docs/meetups/events.rst
+.idea

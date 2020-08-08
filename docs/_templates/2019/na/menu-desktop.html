@@ -1,0 +1,80 @@
+
+                <ul class="uk-nav uk-visible@s">
+                        <li><a href="{{ pathto('conf/portland/2019/news') }}">News</a></li>
+                        <li>
+                          <ul class="uk-navbar-nav">
+                              <li>
+                                  <a href="{{ pathto('conf/portland/2019/schedule') }}">Program</a>
+                                  <div class="uk-navbar-dropdown">
+                                      <ul class="uk-nav uk-navbar-dropdown-nav">
+                                          {% if flaglivestreaming %}
+                                          <li><a href="{{ pathto('conf/portland/2019/livestream') }}">Live Stream</a></li>
+                                          {% endif %}
+                                          <li><a href="{{ pathto('conf/portland/2019/speakers') }}">Speakers</a></li>
+                                          <li><a href="{{ pathto('conf/portland/2019/schedule') }}">Schedule</a></li>
+                                          <li><a href="{{ pathto('conf/portland/2019/lightning-talks') }}">Lightning Talks</a></li>
+                                          <li><a href="{{ pathto('conf/portland/2019/unconference') }}">Unconference</a></li>
+                                          <li><a href="{{ pathto('conf/portland/2019/job-fair') }}">Job Fair</a></li>
+                                          <li><a href="{{ pathto('conf/portland/2019/writing-day') }}">Writing Day</a></li>
+                                          {% if flaghashike %}
+                                          <li><a href="{{ pathto('conf/portland/2019/hike') }}">Hike</a></li>
+                                          {% endif %}
+                                          {% if flaghasboat %}
+                                          <li><a href="{{ pathto('conf/prague/2019/boat') }}">Hike</a></li>
+                                          {% endif %}
+                                      </ul>
+                                  </div>
+                              </li>
+                          </ul>
+                        </li><!--- Parent element with it's children -->
+                        <li>
+                          <ul class="uk-navbar-nav">
+                              <li>
+                                  <a href="{{ pathto('conf/portland/2019/visiting') }}">Visiting</a>
+                                  <div class="uk-navbar-dropdown">
+                                      <ul class="uk-nav uk-navbar-dropdown-nav">
+                                          <li><a href="{{ pathto('conf/portland/2019/visiting') }}">Portland</a></li>
+                                          <li><a href="{{ pathto('conf/portland/2019/venue') }}">Venue</a></li>
+                                      </ul>
+                                  </div>
+                              </li>
+                          </ul>
+                        </li><!--- Parent element with it's children -->
+                        <li>
+                          <ul class="uk-navbar-nav">
+                              <li>
+                                  <a href="{{ pathto('conf/portland/2019/about') }}">About</a>
+                                  <div class="uk-navbar-dropdown">
+                                      <ul class="uk-nav uk-navbar-dropdown-nav">
+                                          <li><a href="{{ pathto('conf/portland/2019/about') }}">Overview</a></li>
+                                          <li><a href="{{ pathto('conf/portland/2019/press-kit') }}">Press Kit</a></li>
+                                          <li><a href="{{ pathto('conf/portland/2019/convince-your-manager') }}">Convince Your Manager</a></li>
+                                          <li><a href="{{ pathto('conf/portland/2019/welcome-wagon') }}">Welcome Wagon</a></li>
+                                          <li><a href="{{ pathto('conf/portland/2019/team') }}">Meet the Team</a></li>
+                                          <li><a href="{{ pathto('conf/portland/2019/speaking-tips') }}">Speaking Tips</a></li>
+                                          <li><a href="{{ pathto('conf') }}">Past Events</a></li>
+                                          <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
+                                      </ul>
+                                  </div>
+                              </li>
+                          </ul>
+                        </li><!--- Parent element with it's children -->
+                        <li><a href="{{ pathto('conf/portland/2019/tickets') }}">Tickets</a></li>
+                        <li>
+                            <ul class="uk-navbar-nav">
+                                <li>
+                                    <a href="{{ pathto('conf/portland/2019/sponsors') }}">Sponsors</a>
+                                    <div class="uk-navbar-dropdown">
+                                        <ul class="uk-nav uk-navbar-dropdown-nav">
+                                            <li><a href="{{ pathto('conf/portland/2019/sponsors') }}">Our Sponsors</a></li>
+                                            <li><a href="{{ pathto('conf/portland/2019/sponsors/prospectus') }}">Prospectus</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                          </li><!--- Parent element with it's children -->
+
+                          {% if flagcfp %}
+                          <li><a href="{{ pathto('conf/portland/2019/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
+                          {% endif %}
+                </ul>
