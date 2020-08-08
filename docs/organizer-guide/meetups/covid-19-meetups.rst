@@ -1,7 +1,7 @@
 Meetups and COVID-19
 ====================
 
-With the recent announcement about the Write The Docs Portland conference, we wanted to provide guidance for our community of meetups.
+With the recent announcement about the Write the Docs Portland conference, we wanted to provide guidance for our community of meetups.
 
 We've received a number of questions about whether Write the Docs community meetups should continue to host in-person events under the current circumstances related to the spread of COVID-19.
 
