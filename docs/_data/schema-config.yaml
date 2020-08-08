@@ -55,9 +55,9 @@ photo-default:
   default: str()
 
 cobrand-details:
-    brand: str()
-    brand_html: str()
-    logo: str()
+  brand: str()
+  brand_html: str()
+  logo: str()
 
 buttons:
   top: list(include('button-details'), required=False)
