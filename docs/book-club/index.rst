@@ -21,9 +21,9 @@ Upcoming Book club reads
 
 (Months are suggestions and may change. Check in the Slack channel.)
 
-October - November 2020: `Docs Like Code <https://www.docslikecode.com/>`_
-January - February 2021: `Managing Writers <https://www.amazon.com/gp/product/0982219105>`_
-March - April 2021: `Letting Go of the Words <https://redish.net/books/letting-go-of-the-words/>`_
+* October - November 2020: `Docs Like Code <https://www.docslikecode.com/>`_
+* January - February 2021: `Managing Writers <https://www.amazon.com/gp/product/0982219105>`_
+* March - April 2021: `Letting Go of the Words <https://redish.net/books/letting-go-of-the-words/>`_
 
 Previous Book club reads
 ------------------------
