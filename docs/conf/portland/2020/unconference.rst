@@ -31,7 +31,7 @@ Lead a session
 
 To lead an unconf session, propose a topic and pick a time; unconf sessions are scheduled for the same time slots as talks on the main stage. 
 
-Sessions take place in Hopin, but you propose a session by adding your topic to a timeslot and table number in the  [Unconference sign-up sheet](https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit#gid=1493675134).
+Sessions take place in Hopin, but you propose a session by adding your topic to a timeslot and table number in the  `Unconference sign-up sheet <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit#gid=1493675134>`__.
 
 When it's time for your session to begin, join the session in Hopin that corresponds to the table number you signed up for. There's a 15 minute break between sessions, but the previous session might still be running, so let them know it's time to switch. Give attendees a few minutes to join, then start the conversation!
 
@@ -61,4 +61,3 @@ Attend a session
 * It's fine to join late if you needed a longer break.
 
 * Feel free to just listen or add your voice to the discussion. 
-
