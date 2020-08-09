@@ -110,7 +110,7 @@ It's important to consider accessibility and biases in your style guide to ensur
 
 Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
 
-Writing for bias asks you to consider the meanings and orgins of your word choices and how those might be perceived or understood by your readers.
+Writing for bias asks you to consider the meanings and origins of your word choices and how those might be perceived or understood by your readers.
 
 ### Accessibility resources
 
