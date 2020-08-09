@@ -91,7 +91,7 @@ If your API already exists, automated reference documentation can be useful to d
 
 #### Documentation-driven design
 
-If your API isn't built yyet, you can create API documentation to help with the design process. The documentation-driven design philosophy comes down to this:
+If your API isn't built yet, you can create API documentation to help with the design process. The documentation-driven design philosophy comes down to this:
 
 > Documentation changes are cheap, code changes are expensive.
 
