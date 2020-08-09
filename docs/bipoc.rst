@@ -1,7 +1,7 @@
 Our #bipoc channel
 ==================
 
-This is a space dedicated to supporting BIPOC (black, Indigenous and people of color) members within our community.
+This is a space dedicated to supporting BIPOC (black, indigenous and people of color) members within our community.
 
 Background
 ----------
