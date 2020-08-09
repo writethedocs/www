@@ -87,7 +87,7 @@ From the perspective of a user:
 
 The best API documentation is often the result of a well [designed API](#documentation-driven-design). Documentation cannot fix a badly planned API, and it is best to work on developing the API and the documentation concurrently.
 
-If your API already exists, automated reference documentation can be useful to document the API in itts current state. If your API is still being implemented, API documentation can perform a vital function in the design process.
+If your API already exists, automated reference documentation can be useful to document the API in its current state. If your API is still being implemented, API documentation can perform a vital function in the design process.
 
 #### Documentation-driven design
 
