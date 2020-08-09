@@ -37,9 +37,11 @@ It's important to consider accessibility and biases in your style guide to ensur
 
 Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
 
-Writing for bias asks you to consider the meanings and origins of your word choices and how those might be perceived or understood by your readers. It can also include providing a range of example names from different cultures -- fortunately, resources are increasingly available to help you with this kind of attention to your writing.
+Reducing bias in your writing asks you to consider the meanings and origins of your word choices and how those might be perceived or understood by your readers. It can also include providing a range of example names from different cultures -- fortunately, resources are increasingly available to help you with this kind of attention to your writing.
 
-### Accessibility resources
+And providing a wide range of example names from a diversity of cultural backgrounds can also help reduce bias in your documentation.
+
+### Writing for accesssibility
 
 - [MailChimp's writing style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
 - [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
@@ -52,7 +54,7 @@ Relevant talks from Write the Docs:
 - [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write the Docs Prague 2018
 - [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015
 
-### Bias resources
+### Reducing bias in your writing
 
 - [The Conscious Style Guide - a collection of resources](https://consciousstyleguide.com/)
 - [Diversity Style Guide](https://www.diversitystyleguide.com/)
@@ -61,7 +63,7 @@ Relevant talks from Write the Docs:
 - [Linguistic Society of America Additional Inclusive Language Resources](https://www.linguisticsociety.org/content/further-content-related-inclusive-language-guidelines)
 - [Microsoft Style Guide on Bias Free Communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
 
-### Inclusive example names resources
+### Providing inclusive example names
 
 - Wikipedia's lists of [most common forenames](https://en.wikipedia.org/wiki/List_of_most_popular_given_names>) and [most common surnames](https://en.wikipedia.org/wiki/Lists_of_most_common_surnames) by region.
 - [Splunk style guide on example names](https://docs.splunk.com/Documentation/StyleGuide/current/StyleGuide/Domains)
