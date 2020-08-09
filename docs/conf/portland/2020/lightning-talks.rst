@@ -12,8 +12,6 @@ Lightning talks allow people to discuss topics that were not covered fully or pa
 Logistics
 ---------
 
-**We're still planning to have plenty of lightning talks in the new online format, and are working on the exact details.**
-
 We have two categories for people who submit talks:
 
 * First-time speakers
@@ -21,6 +19,9 @@ We have two categories for people who submit talks:
 
 We do this so we have a mix of first time and experienced speakers.
 We also want first-time speakers to know that we care about them having a chance to get on stage.
+
+**Submission are due prior to the talk before lunch, and will be announced before lunch.**
+You can submit using the form below.
 
 Planning: What goes into a lightning talk?
 ------------------------------------------
@@ -75,6 +76,15 @@ Finishing up
 ------------
 
 Curious people may follow up with you if they’d like to collaborate or have feedback about your presentation.
+
+Submit your talk
+----------------
+
+.. raw:: html
+
+	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSchNwlJ1R-RfyFvV8owsgL3xNBmeT_pr3YboZ0WvR6bVIBLZQ/viewform?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+You can also view `the submission form <https://docs.google.com/forms/d/e/1FAIpQLSchNwlJ1R-RfyFvV8owsgL3xNBmeT_pr3YboZ0WvR6bVIBLZQ/viewform>`_ in its own page.
 
 License
 -------

@@ -3,7 +3,7 @@
 Call for Proposals
 ==================
 
-Hello hello, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{ area_adj }} conference, coming up on {{date.main}}. The conference is virtual this year, so you can speak or attend from anywhere. We will use regular Prague conference times for the scheduling.
+G'day, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{ area_adj }} conference, coming up on {{date.main}}. The conference is virtual this year, so you can speak or attend from anywhere. We will use regular Australian and Indian conference times for the scheduling.
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you!
 Read on to learn more about the goals of the conference and what we look for in talk proposals.
@@ -28,7 +28,7 @@ Conference goals
 
 Write the Docs conferences are our chance to get together to explore and celebrate the craft of documentation in a positive, inclusive environment.
 
-Between the talks on stage, the discussions in the unconference, the collaboration on the writing day and other conversations, 100% of the content for our conferences comes from our community! Whether your job title is writer, developer, product manager, support advocate, librarian, or one of a hundred others, your perspective on what makes good docs is what this conference is all about.
+Between the talks on stage, the discussions in the unconference, and other conversations, 100% of the content for our conferences comes from our community! Whether your job title is writer, developer, product manager, support advocate, librarian, or one of a hundred others, your perspective on what makes good docs is what this conference is all about.
 
 Our goal is to give documentarians a chance to connect and learn from each other. You'll have the chance to compare notes on what's happening in the industry, dig into questions of convention and good practice, and generally nerd out about all the things we love about documentation.
 
@@ -59,7 +59,7 @@ Likewise, we love the diversity of our community, and we encourage support-folks
 
 **Past speakers**
 
-Past speaker roles include but are not limited to
+Past speaker roles include but are not limited to:
 
 * Writers
 * Developers
@@ -98,8 +98,10 @@ If you are making those assumptions about what your audience knows, it helps eve
 
 It can be  helpful to check out topics that might be related to your talk from previous years as well:
 
+* `Australia {{year-1}} <https://www.writethedocs.org/conf/australia/{{year-1}}/speakers/>`_
 * `Portland {{year-1}} <https://www.writethedocs.org/conf/portland/{{year-1}}/speakers/>`_
 * `Prague {{year-1}} <https://www.writethedocs.org/conf/prague/{{year-1}}/speakers/>`_
+* `Australia {{year-2}} <https://www.writethedocs.org/conf/australia/{{year-2}}/speakers/>`_
 * `Portland {{year-2}} <https://www.writethedocs.org/conf/portland/{{year-2}}/speakers/>`_
 * `Prague {{year-2}} <https://www.writethedocs.org/conf/prague/{{year-2}}/speakers/>`_
 
