@@ -153,13 +153,16 @@ sponsors:
     - name: cncf
       link: https://www.cncf.io/
       brand: Cloud Native Computing Foundation
+    - name: twilio
+      link: https://www.twilio.com/
+      brand: twilio
   second:
+    - name: mozilla-new
+      link: https://www.mozilla.org/en-US/
+      brand: Mozilla
     - name: salesforce
       link: https://www.salesforce.com
       brand: Salesforce
-    - name: courier
-      link: https://www.trycourier.com/
-      brand: Courier
     - name: mongodb
       link: https://www.mongodb.com/
       brand: MongoDB

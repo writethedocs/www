@@ -39,6 +39,9 @@ Here are some good general resources -- perhaps someone in your company is alrea
 - [IBM style guide](https://www.ibm.com/developerworks/library/styleguidelines/)
 - [Handbook of Technical Writing](http://www.macmillanlearning.com/Catalog/product/handbookoftechnicalwriting-eleventhedition-alred)
 - [The Red Hat Style Guide](http://stylepedia.net/style/)
+- [Apple Style Guide](https://help.apple.com/applestyleguide/)
+- [Biosystems Engineering Technical Guide](https://msu.edu/course/be/485/bewritingguideV2.0.pdf) - contains a list of action verbs and a table of wordy text vs concise text
+- [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm)
 
 If you belong to an open-source community or NGO, you can consider the following resources:
 - [18F Content Guide](https://content-guide.18f.gov)
@@ -101,20 +104,34 @@ Projects such as [Spring REST Docs](https://spring.io/projects/spring-restdocs) 
 - [Documenting APIs: a guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
 - [The Ten Essentials for Good API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation/) by A List Apart
 
-## Thinking about accessibility
+## Thinking about accessibility and bias
 
-It's important to consider accessibility in your style guide to ensure the content you produce can be best understood by all readers. Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
+It's important to consider accessibility and biases in your style guide to ensure the content you produce can be best understood by all readers. 
+
+Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
+
+Writing for bias asks you to consider the meanings and orgins of your word choices and how those might be perceived or understood by your readers.
 
 ### Accessibility resources
 
 - [MailChimp's writing style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
 - [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bitsofcode
+- [Microsoft Style Guide Accessibility Terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)
+
 
 Relevant talks from Write the Docs:
 
 - [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write the Docs Prague 2018
 - [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015
+
+### Bias resources
+
+- [The Conscious Style Guide - a collection of resources](https://consciousstyleguide.com/)
+- [Google's Developer Style Guide on Inclusive Documentation](https://developers.google.com/style/inclusive-documentation)
+- [Linguistic Society of America Guidelines for Inclusive Language](https://www.linguisticsociety.org/resource/guidelines-inclusive-language)
+- [Linguistic Society of America Additional Inclusive Language Resources](https://www.linguisticsociety.org/content/further-content-related-inclusive-language-guidelines)
+- [Microsoft Style Guide on Bias Free Communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
 
 ## Content guidelines
 
@@ -160,7 +177,6 @@ Some example release notes:
 Related talks:
 
 - [Learning to love release notes](http://www.writethedocs.org/videos/prague/2018/learning-to-love-release-notes-anne-edwards/) at Write the Docs Prague 2018
-
 
 ### User Guide / Manuals
 
