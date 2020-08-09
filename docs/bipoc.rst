@@ -49,11 +49,12 @@ We also invite you to participate as allies if you do not consider yourself BIPO
 
 <!-- MAYBE SOME ARTICLES ON HOW WHITE PEOPLE SHOULD RESPECT SPACES FOR BIPOC. -->
 
-We acknowledge that we, as moderators, can speak confidently only about our own experiences, and that our efforts to communicate will, at times, fall short. Despite our shortcomings, we commit ourselves to supporting communicators who have been and continue to be marginalized because of their identities. 
+We acknowledge that we, as moderators, can speak confidently only about our own experiences, and that our efforts to communicate will, at times, fall short. Despite our shortcomings, we commit ourselves to supporting communicators who have been and continue to be marginalized because of their identities.
 
 
 .. _decolonial: https://keywordsechoes.com/decolonial-thinking-and-practice
 
+<!--
 Source links
 ------------
 
@@ -67,8 +68,8 @@ https://www.bostonglobe.com/lifestyle/food-dining/2019/03/19/there-nothing-cute-
 https://www.theguardian.com/books/2018/apr/27/vetting-for-stereotypes-meet-publishings-sensitivity-readers
 https://consciousstyleguide.com/
 https://ncdj.org/style-guide/
-https://www.diversitystyleguide.com/ 
+https://www.diversitystyleguide.com/
 
-I’m participating in a challenging racial bias in writing webinar. The above links are what the speaker sent around. 
+I’m participating in a challenging racial bias in writing webinar. The above links are what the speaker sent around.
 
-OMG: https://consciousstyleguide.com/
+OMG: https://consciousstyleguide.com/ -->
