@@ -92,7 +92,7 @@ about docs was, "Let's have a conference". I called up Eric Redmond and
 we had our first meeting of documentarians (I refer to them collectively
 as "the Erics").
 
-    There exists a tribe of documentarians in the world. Up until this
+    There exists a group of documentarians in the world. Up until this
     point, they haven’t had a central place to meet each other, and
     coalesce into a community. We are providing the space to allow this
     to happen, both in person and online.
@@ -116,7 +116,7 @@ variety of disciplines; technical writing industry groups, designers,
 typographers, literate programmers, API driven startups, and more. We
 quickly found a new venue, and sold out a 250 person conference. The
 `experience <https://thoughtfuldrift.info/2013/04/11/write-the-docs-2013.html>`__
-was amazing. We'd found our tribe, and they'd found us.
+was amazing. We'd found our people, and they'd found us.
 
 Now, we're ramping up for year two, with conferences both `in
 Portland <http://conf.writethedocs.org/na/2014/>`__ and `in
