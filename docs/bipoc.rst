@@ -37,12 +37,12 @@ In a global field that is largely represented by `white`_ people, admonishing ra
 How do we want to use this space?
 ---------------------------------
 
+* Create a supportive community with other people who are familiar with your experiences
 * Network and share opportunities for BIPOC people in technical communication, software development, and open source
 * Share knowledge and resources about anti-racism
 * Invite more BIPOC into our field
 * Build community, visibility, and leadership opportunities specifically for BIPOC
 * Coordinate and publicize joint events with organizations with similar goals (e.g., `Color Coded`_ in Los Angeles)
-
 
 .. _color coded: https://colorcoded.la
 
