@@ -11,4 +11,4 @@ If you experience technical issues, please report them to us via an email to {{ 
 
 .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kGTrkCjAYgY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/yo6uPb-WfDs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
