@@ -53,30 +53,29 @@ This is a public channel whose primary purpose is to support BIPOC writers. If y
 
 We also invite you to participate as `allies`_ if you are not BIPOC, and we invite you to abide by the same rules that guide any `decolonial`_ project: yield space that doesn’t belong to you, and commit to listening and learning from others' lived experiences.
 
-<!-- MAYBE SOME ARTICLES ON HOW WHITE PEOPLE SHOULD RESPECT SPACES FOR BIPOC. -->
+.. MAYBE SOME ARTICLES ON HOW WHITE PEOPLE SHOULD RESPECT SPACES FOR BIPOC.
 
-We acknowledge that we, as moderators, can speak confidently only about our own experiences, and that our efforts to communicate will, at times, fall short. Despite our shortcomings, we commit ourselves to supporting communicators who have been and continue to be marginalized because of their identities.
+.. We acknowledge that we, as moderators, can speak confidently only about our own experiences, and that our efforts to communicate will, at times, fall short. Despite our shortcomings, we commit ourselves to supporting communicators who have been and continue to be marginalized because of their identities.
 
 
 .. _allies: https://guidetoallyship.com/
 .. _decolonial: https://keywordsechoes.com/decolonial-thinking-and-practice
 
-<!--
-Source links
-------------
+..
+.. Source links
+.. ------------
+ 
+.. https://twitter.com/ktzhaoauthor/status/1279961810028974081
+.. https://highschool.latimes.com/foothill-technology-high-school/eleanor-park-where-romance-and-racism-seem-to-go-hand-in-hand/
+.. https://www.nupoliticalreview.com/2018/10/31/the-problem-with-eleanor-park/
+.. https://consciousstyleguide.com/false-divide-well-educated-less-educated/
+.. https://www.vice.com/en_us/article/m7j3kp/despite-racist-asian-tropes-ya-novels-film-adaptation-moves-ahead
+.. https://www.cnn.com/2020/06/12/business/black-band-aids/index.html
+.. https://www.bostonglobe.com/lifestyle/food-dining/2019/03/19/there-nothing-cute-about-crack-pie/gqHvjGrROHa3xVI7OOqP4K/story.html
+.. https://www.theguardian.com/books/2018/apr/27/vetting-for-stereotypes-meet-publishings-sensitivity-readers
+.. https://consciousstyleguide.com/
+.. https://ncdj.org/style-guide/
+.. https://www.diversitystyleguide.com/
 
-https://twitter.com/ktzhaoauthor/status/1279961810028974081
-https://highschool.latimes.com/foothill-technology-high-school/eleanor-park-where-romance-and-racism-seem-to-go-hand-in-hand/
-https://www.nupoliticalreview.com/2018/10/31/the-problem-with-eleanor-park/
-https://consciousstyleguide.com/false-divide-well-educated-less-educated/
-https://www.vice.com/en_us/article/m7j3kp/despite-racist-asian-tropes-ya-novels-film-adaptation-moves-ahead
-https://www.cnn.com/2020/06/12/business/black-band-aids/index.html
-https://www.bostonglobe.com/lifestyle/food-dining/2019/03/19/there-nothing-cute-about-crack-pie/gqHvjGrROHa3xVI7OOqP4K/story.html
-https://www.theguardian.com/books/2018/apr/27/vetting-for-stereotypes-meet-publishings-sensitivity-readers
-https://consciousstyleguide.com/
-https://ncdj.org/style-guide/
-https://www.diversitystyleguide.com/
+.. I’m participating in a challenging racial bias in writing webinar. The above links are what the speaker sent around.
 
-I’m participating in a challenging racial bias in writing webinar. The above links are what the speaker sent around.
-
-OMG: https://consciousstyleguide.com/ -->
