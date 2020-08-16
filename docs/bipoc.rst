@@ -16,7 +16,7 @@ According to Open MIC's 2017 Report, `Breaking the Mold: Investing in Racial Div
 * While Asians are represented at a higher rate in the tech workforce than the private sector overall, white people are 1½ times more likely than Asians to rise to an executive rank.
 * Among people of color who do enter the industry, many report isolation, discrimination and toxic work environments that prompt them to take their talent else-where. People of color leave tech at more than 3.5 times the rate of white men.
 
-To shrink racial disparities and to build equity, we offer this space as BIPOC tech writers to:
+To shrink racial disparities and to build equity, we offer this space as BIPOC :doc:`/documentarians`. (which includes technical writers) to:
 
 #. Emphasize the fact that we are already here, supporting one another and leading our communities.
 #. Encourage the professional development of BIPOC in tech writing, software development, and related fields.
