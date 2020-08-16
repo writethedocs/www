@@ -29,7 +29,7 @@ Previous Book club reads
 ------------------------
 
 * June - July 2020: Abby Covert's `How to Make Sense of Any Mess <http://www.howtomakesenseofanymess.com/>`_
-* March - May 2020: Mark baker's `Every Page Is Page One <https://everypageispageone.com/the-book/>`_
+* March - May 2020: Mark Baker's `Every Page Is Page One <https://everypageispageone.com/the-book/>`_
 * Janaury 2020: Christopher Gale (and the Splunk team)'s `The Product Is Docs <https://www.splunk.com/en_us/blog/splunklife/the-product-is-docs.html>`_
 
 ..
