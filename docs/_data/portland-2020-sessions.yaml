@@ -32,8 +32,8 @@
   speakers:
   - name: Kateryna Osadchenko
     slug: kateryna-osadchenko
-    twitter: ''
-    website: https://www.linkedin.com/in/kateryna-osadchenko-17771731/
+    twitter: 
+    website: https://www.linkedin.com/in/kateryna-osadchenko/
   abstract: '<p>I want to discuss the pitfalls and best practices/workarounds of planning
     a content strategy and importance of finding the right approach, tone, and voice
     of your content when collaborating with teams of developers, designers, and product
@@ -48,13 +48,13 @@
     content strategy in situations when there is no clear existing one and how to
     make your planning and implementation process smoother and more organized.</p>'
 - title: 'Moving beyond empathy: a11y in documentation'
-  slug: moving-beyond-empathy-a11y-in-documentation-alexandra-n-white
+  slug: moving-beyond-empathy-a11y-in-documentation-alexandra-white
   series: Write the Docs Portland
-  series_slug: moving-beyond-empathy-a11y-in-documentation-alexandra-n-white
+  series_slug: moving-beyond-empathy-a11y-in-documentation-alexandra-white
   year: 2020
   speakers:
-  - name: Alexandra N White
-    slug: alexandra-n-white
+  - name: Alexandra White
+    slug: alexandra-white
     twitter: heyawhite
     website: heyawhite.com
   abstract: '<p>Accessibility is a crucial part of product creation. Every team member,
@@ -371,49 +371,6 @@
     your users are more empowered and educated to find docs in your new tool; your
     stakeholders are happy; and most importantly, people are finally reading your
     valuable documentation!</p>'
-- title: Set your data free with model-based architecture diagramming
-  slug: set-your-data-free-with-model-based-architecture-diagramming-avi-flax
-  series: Write the Docs Portland
-  series_slug: set-your-data-free-with-model-based-architecture-diagramming-avi-flax
-  year: 2020
-  speakers:
-  - name: Avi Flax
-    slug: avi-flax
-    twitter: '@flaximus'
-    website: http://aviflax.com/
-  abstract: '<p>Diagrams are an excellent tool for documenting the architecture of
-    our software systems: they’re information dense and they utilize the visual circuits
-    of our brains to create effective learning experiences. Many of us create or update
-    such diagrams regularly; there have been many talks on this topic at this conference
-    over the years.</p>
-
-    <p>As great as diagrams can be, they have some downsides. In particular, they
-    tend to lock up massive amounts of rich and crucial information into a format
-    that can’t be reused in any other context. Because the information is locked up,
-    it tends to be duplicated in various places in various formats and it takes significant
-    effort to keep those duplicative datasets in sync.</p>
-
-    <p>I’ve recently come to believe that there’s a better way: modeling. If we model
-    our systems in data, and make that data accessible, we are creating a single centralized
-    source of truth for what systems, datastores, datasets, services, and people (roles)
-    we have, and how they relate to each other. </p>
-
-    <p>There are many uses for that dataset; it’s not just a model, it’s also a catalog,
-    or registry, of <em>what is there even</em> — a catalog that many people across
-    an org need, and will be motivated to keep up to date. For example, anyone tasked
-    with data governance needs to know what datastores and datasets exist, and who
-    and what interacts with them. Security auditors need similar information.</p>
-
-    <p>Diagrams are another of the many uses of that dataset, and our diagrams can
-    be greatly improved by being based on models of our systems. Multiple diagrams
-    (“views”) can include the same elements of the model, but those elements are defined
-    only once, in the mode. If we change an element, we can quickly and easily re-render
-    all the diagrams that include that element.</p>
-
-    <p>I’ll describe various benefits of documenting software architecture as data
-    and share how I’ve been doing so, and describe my plans for improving the tools
-    and approach. I’ll show lots of examples and try to wrap it all up at the end
-    with an enthusiastic yet gentle call to action.</p>'
 - title: Why SDK Docs Matter — And What I’m Doing About It!
   slug: why-sdk-docs-matter-and-what-i-m-doing-about-it-shavindri-dissanayake-shavi
   series: Write the Docs Portland
@@ -599,3 +556,46 @@
     for the Design of Advanced Energy Systems (IDAES; website: ideas.org), a Department
     of Energy funded project that is developing a Python-based framework for the design
     and optimization of innovative steady state and dynamic processes. </p>'
+- title: Set your data free with model-based architecture diagramming
+  slug: set-your-data-free-with-model-based-architecture-diagramming-avi-flax
+  series: Write the Docs Portland
+  series_slug: set-your-data-free-with-model-based-architecture-diagramming-avi-flax
+  year: 2020
+  speakers:
+  - name: Avi Flax
+    slug: avi-flax
+    twitter: '@flaximus'
+    website: http://aviflax.com/
+  abstract: '<p>Diagrams are an excellent tool for documenting the architecture of
+    our software systems: they’re information dense and they utilize the visual circuits
+    of our brains to create effective learning experiences. Many of us create or update
+    such diagrams regularly; there have been many talks on this topic at this conference
+    over the years.</p>
+
+    <p>As great as diagrams can be, they have some downsides. In particular, they
+    tend to lock up massive amounts of rich and crucial information into a format
+    that can’t be reused in any other context. Because the information is locked up,
+    it tends to be duplicated in various places in various formats and it takes significant
+    effort to keep those duplicative datasets in sync.</p>
+
+    <p>I’ve recently come to believe that there’s a better way: modeling. If we model
+    our systems in data, and make that data accessible, we are creating a single centralized
+    source of truth for what systems, datastores, datasets, services, and people (roles)
+    we have, and how they relate to each other. </p>
+
+    <p>There are many uses for that dataset; it’s not just a model, it’s also a catalog,
+    or registry, of <em>what is there even</em> — a catalog that many people across
+    an org need, and will be motivated to keep up to date. For example, anyone tasked
+    with data governance needs to know what datastores and datasets exist, and who
+    and what interacts with them. Security auditors need similar information.</p>
+
+    <p>Diagrams are another of the many uses of that dataset, and our diagrams can
+    be greatly improved by being based on models of our systems. Multiple diagrams
+    (“views”) can include the same elements of the model, but those elements are defined
+    only once, in the model. If we change an element, we can quickly and easily re-render
+    all the diagrams that include that element.</p>
+
+    <p>I’ll describe various benefits of documenting software architecture as data
+    and share how I’ve been doing so, and describe my plans for improving the tools
+    and approach. I’ll show lots of examples and try to wrap it all up at the end
+    with an enthusiastic yet gentle call to action.</p>'

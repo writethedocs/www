@@ -1,20 +1,20 @@
-Sphinx==3.1.1
+Sphinx==3.1.2
 recommonmark==0.6.0
 ablog==0.10.6
-tox==3.15.2
+tox==3.17.1
 sphinx_autobuild==0.7.1
 PyYAML>=4.2b1
 docutils==0.16
 csvkit==1.0.5
-yamllint==1.23.0
+yamllint==1.24.2
 pathlib==1.0.1
 sphinxcontrib.datatemplates==0.6.1
 meetup-api==0.1.1
 urllib3[secure]==1.25.9
-yamale==2.1.0
+yamale==3.0.1
 markdown==3.2.2
 ruamel.yaml==0.16.10
-lxml==4.5.1
+lxml==4.5.2
 # For emoji
 sphinxemoji==0.1.6
 # For atom feed support
