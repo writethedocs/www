@@ -9,10 +9,6 @@ We have a backup plan to stream directly to this page in the event of extended d
 
 If you experience technical issues, please report them to us via an email to {{ shortcode }}@writethedocs.org.
 
-.. Commenting out the embed for now
+.. raw:: html
 
-    .. raw:: html
-
-        <iframe width="100%" height="420" src="https://www.youtube.com/embed/9-zBDuekjak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-    `View on YouTube <https://www.youtube.com/watch?v=9-zBDuekjak/>`_
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/yo6uPb-WfDs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
