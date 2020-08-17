@@ -118,4 +118,16 @@ automatically minify all the content in your `.scss` files to the
 `main.min.css` file. Also, `gulp` will be running browserify, allowing you
 to see the CSS changes immediately in the browser.
 
+### Deactivating venv
+
+After your work is complete, you can save resources by deactivating the 
+virtual Python environment wtih the following command on Linux:
+
+```
+deactivate
+```
+
+If you have verified this command on MacOS or Windows, we invite you to submit
+a PR to include that information here.
+
 [![Greenkeeper badge](https://badges.greenkeeper.io/writethedocs/www.svg)](https://greenkeeper.io/)
