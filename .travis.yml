@@ -28,6 +28,7 @@ env:
 matrix:
   allow_failures:
     - env: TEST="all_links"
+    - env: TEST="links"
   fast_finish: true
 
 
