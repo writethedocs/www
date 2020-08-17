@@ -51,12 +51,12 @@ If you run into trouble with broken links to video files, have a look at `_ext/f
 
 ### Prerequisites for generating the docs locally
 
-1. Install `python 3.5.x` using your package manager, if not installed already.
+1. Install `python 3.6.x` using your package manager, if not installed already.
    You'll probably need `root` privileges to do this.
 
 2. Generate a virtual environment for the WTD repo in the `venv` directory:
 
-    `virtualenv --python=/usr/bin/python3.5 venv`
+    `virtualenv --python=/usr/bin/python3.6 venv`
 
 ### Installing the project requirements
 
@@ -117,5 +117,17 @@ This has to be used alongside the sphinx server and it will
 automatically minify all the content in your `.scss` files to the
 `main.min.css` file. Also, `gulp` will be running browserify, allowing you
 to see the CSS changes immediately in the browser.
+
+### Deactivating venv
+
+After your work is complete, you can save resources by deactivating the 
+virtual Python environment wtih the following command on Linux:
+
+```
+deactivate
+```
+
+If you have verified this command on MacOS or Windows, we invite you to submit
+a PR to include that information here.
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/writethedocs/www.svg)](https://greenkeeper.io/)

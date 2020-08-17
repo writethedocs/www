@@ -22,7 +22,7 @@ Prerequisites
 3. Open a terminal window and follow the instructions to `associate your
    GitHub username with your local Git installation`_.
 
-   1. In macOS: Open the **Terminal**\ app.
+   1. In macOS: Open the **Terminal** app.
    2. In Windows: From the Start Menu, open **Git Bash**.
 
 Start using Git and modify the source file of a page
@@ -30,7 +30,7 @@ Start using Git and modify the source file of a page
 
 1.  Visit the `Write the Docs www project`_.
 
-2.  Click the **Fork**\ button in the upper-right corner to create a
+2.  Click the **Fork** button in the upper-right corner to create a
     copy of the project in your GitHub account. The new page for the
     forked project opens.
 
