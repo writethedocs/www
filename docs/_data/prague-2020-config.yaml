@@ -128,6 +128,11 @@ sponsors:
     - name: elastic
       link: https://www.elastic.co
   first:
+  media:
+    - name: bart
+      link: http://www.bartatwork.com
+    - name: techwriter-pl
+      link: http://techwriter.pl
 
 
 # Things that change over time, listed in order of change
