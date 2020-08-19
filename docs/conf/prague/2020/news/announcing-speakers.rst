@@ -33,6 +33,12 @@ If you don't have your ticket yet, now's a great time to snap one up. Conference
 `Buy your tickets here! <https://www.writethedocs.org/conf/prague/{{year}}/tickets/>`_
 
 Our Opportunity Grant program is still open until September 1st. If buying a ticket is difficult for you, please don't hesitate to apply to the grant program.
+
+Meetup organisers
+-----------------
+
+If you are an organiser of a Write the Docs meetup, you are eligible for a discount ticket. Contact us on prague@writethedocs.org, tell us which meetup you are organising, and we will send you the discount code.
+
 Thanks to our sponsors
 ----------------------
 
