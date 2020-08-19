@@ -408,15 +408,15 @@
     slug: chris-noonan
     twitter: 
     website: https://www.linkedin.com/in/cnoonan/
-  abstract: "<p>Technology and process are invariably
-    linked to the success of your product. In ABN AMRO, we are defining how documentation
-    works for internal and external API products. We set up a new internal and external
-    developer portal this year. This presentation describes ABN AMRO’s journey towards
-    DocOps from the point of view of the company’s first dedicated Documentation Manager
-    and Technical Writer.</p>\n<p>The following topics will be covered:\n-   Requirements
-    gathering\n-   Tooling selection\n-   Defining processes and establishing a way
-    of working\n-   Defining and creating resources \n-   Providing technical writing
-    training, coaching, and support to authors\n-   Content management</p>"
+  abstract: "<p>Technology and process are invariably linked to the success of your
+    product. In ABN AMRO, we are defining how documentation works for internal and
+    external API products. We set up a new internal and external developer portal
+    this year. This presentation describes ABN AMRO’s journey towards DocOps from
+    the point of view of the company’s first dedicated Documentation Manager and Technical
+    Writer.</p>\n<p>The following topics will be covered:\n-   Requirements gathering\n-
+    \  Tooling selection\n-   Defining processes and establishing a way of working\n-
+    \  Defining and creating resources \n-   Providing technical writing training,
+    coaching, and support to authors\n-   Content management</p>"
 - title: 'How to be an Avante-Garde Guinea Pig: Building Better Content through Experimentation,
     Community-building, and Loud Squeaks'
   slug: how-to-be-an-avante-garde-guinea-pig-building-better-content-through-experimentation-community-building-and-loud-squeaks-jessica-valasek-estenssoro
@@ -521,11 +521,7 @@
 
     <ul>
 
-    <li>
-
-    <p>We provided a walkthrough with </p>
-
-    <ul>
+    <li>We provided a walkthrough with <ul>
 
     <li>explicitly phrased tasks</li>
 
@@ -543,11 +539,7 @@
 
     </li>
 
-    <li>
-
-    <p>To structure this huge amount of information we</p>
-
-    <ul>
+    <li>To structure this huge amount of information we<ul>
 
     <li>used a book structure with chapters</li>
 
@@ -560,11 +552,7 @@
 
     </li>
 
-    <li>
-
-    <p>We debugged our docs continously before deployment by</p>
-
-    <ul>
+    <li>We debugged our docs continously before deployment by<ul>
 
     <li>letting target audience work through the material, using different setups
     to be able to anticipate as many problems as possible</li>
