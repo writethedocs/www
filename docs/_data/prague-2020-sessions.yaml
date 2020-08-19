@@ -291,66 +291,6 @@
     content hierarchy\n- B.E.R.T. (machine learning used to improve Google search
     results)\n- voice and visual search</p>\n<p>...but also provide tangible tips
     that you can integrate in your writing process.</p>"
-- title: Future-Proofing Your Support Visuals
-  slug: future-proofing-your-support-visuals-jen
-  series: Write the Docs Prague
-  series_slug: future-proofing-your-support-visuals-jen
-  year: 2020
-  speakers:
-  - name: Jen
-    slug: jen
-    twitter: 
-    website: https://www.linkedin.com/in/jen-weaver-198a0617a/
-  abstract: '<p>Videos, GIFs, and screenshots are brilliant additions to your help
-    docs - enabling customers to understand a product feature quickly and painlessly
-    - but how do you keep those videos (and other visuals) current when your UI changes
-    frequently? ... by making your process modular, measured, detailed, and elastic.</p>
-
-    <ul>
-
-    <li>
-
-    <p>Modular: When you save editable pieces of your videos and GIFs (your assets),
-    they can take minutes to update, not hours. We''ll go over the pieces of the files
-    that you want to keep separately, and how to utilize those pieces to update an
-    asset quickly.</p>
-
-    </li>
-
-    <li>
-
-    <p>Measured: How many screenshots of your app can one staff member update in one
-    hour? How many screenshots do you have? How many are affected by next month''s
-    feature release? Knowing these numbers, tracking them over time, and having them
-    available to report to senior leadership means that you can know exactly how much
-    staffing you need to be ready for a UI update.</p>
-
-    </li>
-
-    <li>
-
-    <p>Detailed: Meticulously record every detail of how you create your visuals.
-    How do you decide how much of the app to include? What colors will you use? How
-    does your intended audience affect your tone, pacing, and use of annotations?
-    Having this all recorded will help others replicate your work.</p>
-
-    </li>
-
-    <li>
-
-    <p>Elastic: You don''t need 10 visual experts sitting around twiddling their thumbs
-    waiting for an update, just so you''ll be able to deploy them quickly for a UI
-    change. But you also don''t want 3 documentarians working around-the-clock the
-    week before the release. What''s the solution? Elastic staffing of your documentation
-    team. We''ll go over how to achieve this on your team.</p>
-
-    </li>
-
-    </ul>
-
-    <p>Visual documentation can be tricky to pull off in an environment of quick UI
-    changes, but making the effort to do it well pays off for your customer and your
-    ticket volume.</p>'
 - title: A Journey to Pattern Languages
   slug: a-journey-to-pattern-languages-andrew-haynes
   series: Write the Docs Prague
@@ -383,6 +323,50 @@
     my journey. The aim is to leave everyone with signposts to pattern languages in
     multiple domains. Hopefully everyone will leave with some stimulating ideas about
     how pattern languages may impact their own career.</p>'
+- title: Future-Proofing Your Support Visuals
+  slug: future-proofing-your-support-visuals-jen
+  series: Write the Docs Prague
+  series_slug: future-proofing-your-support-visuals-jen
+  year: 2020
+  speakers:
+  - name: Jen
+    slug: jen
+    twitter: 
+    website: https://www.linkedin.com/in/jen-weaver-198a0617a/
+  abstract: '<p>Videos, GIFs, and screenshots are brilliant additions to your help
+    docs - enabling customers to understand a product feature quickly and painlessly
+    - but how do you keep those videos (and other visuals) current when your UI changes
+    frequently? ... by making your process modular, measured, detailed, and elastic.</p>
+
+    <ul>
+
+    <li>Modular: When you save editable pieces of your videos and GIFs (your assets),
+    they can take minutes to update, not hours. We''ll go over the pieces of the files
+    that you want to keep separately, and how to utilize those pieces to update an
+    asset quickly.</li>
+
+    <li>Measured: How many screenshots of your app can one staff member update in
+    one hour? How many screenshots do you have? How many are affected by next month''s
+    feature release? Knowing these numbers, tracking them over time, and having them
+    available to report to senior leadership means that you can know exactly how much
+    staffing you need to be ready for a UI update.</li>
+
+    <li>Detailed: Meticulously record every detail of how you create your visuals.
+    How do you decide how much of the app to include? What colors will you use? How
+    does your intended audience affect your tone, pacing, and use of annotations?
+    Having this all recorded will help others replicate your work.</li>
+
+    <li>Elastic: You don''t need 10 visual experts sitting around twiddling their
+    thumbs waiting for an update, just so you''ll be able to deploy them quickly for
+    a UI change. But you also don''t want 3 documentarians working around-the-clock
+    the week before the release. What''s the solution? Elastic staffing of your documentation
+    team. We''ll go over how to achieve this on your team.</li>
+
+    </ul>
+
+    <p>Visual documentation can be tricky to pull off in an environment of quick UI
+    changes, but making the effort to do it well pays off for your customer and your
+    ticket volume.</p>'
 - title: The Baseline -- Or Technical Writing for Non-Technical Readers
   slug: the-baseline-or-technical-writing-for-non-technical-readers-paul-brown
   series: Write the Docs Prague
