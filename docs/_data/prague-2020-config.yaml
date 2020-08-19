@@ -123,6 +123,10 @@ about:
 sponsors:
   publisher:
   second:
+    - name: redhat-new
+      link: https://www.redhat.com/
+    - name: elastic
+      link: https://www.elastic.co
   first:
 
 
