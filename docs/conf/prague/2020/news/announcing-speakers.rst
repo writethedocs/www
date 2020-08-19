@@ -32,6 +32,7 @@ If you don't have your ticket yet, now's a great time to snap one up. Conference
 
 `Buy your tickets here! <https://www.writethedocs.org/conf/prague/{{year}}/tickets/>`_
 
+Our Opportunity Grant program is still open until September 1st. If buying a ticket is difficult for you, please don't hesitate to apply to the grant program.
 Thanks to our sponsors
 ----------------------
 
