@@ -178,9 +178,9 @@ flagsoldout: False
 flagspeakersannounced: True
 flaghasschedule: True
 flaghasshirts: False
-flagvideos: False
+flagvideos: True
 flaglivestreaming: False
-flagpostconf: False
+flagpostconf: True
 
 # Truthy things that don't change
 flaghashike: False
