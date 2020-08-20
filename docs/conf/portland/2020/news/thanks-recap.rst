@@ -66,10 +66,11 @@ Don’t forget our `Prague conference <https://www.writethedocs.org/conf/prague/
 October, and our `Australia+India conference <https://www.writethedocs.org/conf/australia/2020/>`__ in
 December. Tickets are on sale for Prague. The call for talk proposals for the Australia conference is still open, and ticket sales are open.
 
+Our Prague and Australia+India conferences are also virtual this year, so you can attend or present from anywhere. They take place during the day in the CEST and AEDT time zones, respectively.
+
 Our Slack network has expanded yet again this year. Our #general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y'all continue the conversations throughout the year. If you haven't joined, now's the time! Check out the `Write the Docs Slack <http://www.writethedocs.org/slack/>`__.
 
 We’re also looking for more sponsors to make our other events just as magical as this year’s Portland event. You can see all our `sponsorship options <https://www.writethedocs.org/sponsorship/>`__ on our website.
-
 
 Thanks again
 ============
