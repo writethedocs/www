@@ -19,9 +19,9 @@ Conference recap
 
 At over 600 people this year's conference was our biggest yet! We had
 the usual mix of main stage and lightning talks, unconference sessions,
-writing sprints, and social events. We were very happy how well all our
-events transitioned to our new online format. We also felt the spirit of the community 
-come through the screen, which was even more special given the year we've all had.
+writing sprints, and social events. We were very happy with how well all of our
+events transitioned to our new online format. We loved how the spirit of the community 
+was so palpable even in an online event, which was even more special given the year we've all had.
 
 Overall, we were excited with how our awesome community come together in our new venue.
 Lots of knowledge was shared, and we had a great time.
@@ -33,6 +33,12 @@ Videos of the talks are now available on `our YouTube playlist <https://www.yout
 
 Thanks to `Bart at Work <https://www.bartatwork.com/atwork/>`__ for doing such a great job with these. You can also subscribe to our `YouTube channel <https://www.youtube.com/writethedocs>`__ so you don't miss any future content!
 
+Shirts still on sale
+====================
+
+If you want a souvenir from this year's conference, our `Write the Docs Portland 2020 Pop-Up Shop <https://teespring.com/wtd-portland-2020>`_ is still open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.
+
+The campaign will run in 3-day batches until August 30th. Shipping is available from the USA or Europe.
 
 Code of Conduct transparency report
 ===================================
@@ -58,9 +64,9 @@ Ready for more?
 
 Don’t forget our `Prague conference <https://www.writethedocs.org/conf/prague/2020/>`__ in
 October, and our `Australia+India conference <https://www.writethedocs.org/conf/australia/2020/>`__ in
-December. Tickets are on sale for Prague. The CFP and tickets for the Australia conference are open now.
+December. Tickets are on sale for Prague. The call for talk proposals for the Australia conference is still open, and ticket sales are open.
 
-Our Slack network has really grown more this last year. Our #general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y'all continue the conversations throughout the year. If you haven't joined, now's the time! Check out the `Write the Docs Slack <http://www.writethedocs.org/slack/>`__.
+Our Slack network has expanded yet again this year. Our #general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y'all continue the conversations throughout the year. If you haven't joined, now's the time! Check out the `Write the Docs Slack <http://www.writethedocs.org/slack/>`__.
 
 We’re also looking for more sponsors to make our other events just as magical as this year’s Portland event. You can see all our `sponsorship options <https://www.writethedocs.org/sponsorship/>`__ on our website.
 
