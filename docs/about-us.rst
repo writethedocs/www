@@ -73,7 +73,7 @@ Inclusivity
 
 We want to:
 
-* Help you feel welcome. Write the Docs is a community of communities, with folks from a wide range of professional and academic background, who found their place and their tribe here. One of our main strengths is our role diversity, whether you're a technical writer, developer, support engineer, designer, librarian, data scientist, or any role that might involve communication, you are welcome.
+* Help you feel welcome. Write the Docs is a community of communities, with folks from a wide range of professional and academic background, who found their place and their people here. One of our main strengths is our role diversity, whether you're a technical writer, developer, support engineer, designer, librarian, data scientist, or any role that might involve communication, you are welcome.
 
 * Help you feel safe. We're very fortunate to have a community that is diverse in many different ways, and we want to keep it that way. Our :doc:`code-of-conduct` aims to provide a framework where our community members can feel safe to attend our events and participate in discussion in our online spaces without fear of harassment or discrimination.
 

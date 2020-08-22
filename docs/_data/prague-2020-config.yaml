@@ -123,12 +123,21 @@ about:
 sponsors:
   publisher:
   second:
+    - name: redhat-new
+      link: https://www.redhat.com/
+    - name: elastic
+      link: https://www.elastic.co
   first:
+  media:
+    - name: bart
+      link: http://www.bartatwork.com
+    - name: techwriter-pl
+      link: http://techwriter.pl
 
 
 # Things that change over time, listed in order of change
 flaglanding: False
-flaghassponsors: False
+flaghassponsors: True
 flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
