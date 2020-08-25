@@ -20,6 +20,11 @@ Samuel Wright
 
 {% include "bios/sam.rst" %}
 
+Linette Voller
+~~~~~~~~~~~~~~~~~~
+
+{% include "bios/linette.rst" %}
+
 
 
 Primary Roles
