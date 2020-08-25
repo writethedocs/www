@@ -127,13 +127,13 @@ sponsors:
       link: https://www.redhat.com/
       brand: Red Hat
     - name: elastic
-      brand: Elasticsearch
+      brand: Elastics
       link: https://www.elastic.co
   first:
   media:
     - name: bart
       link: http://www.bartatwork.com
-      brand: Bart at worl
+      brand: Bart at work
     - name: techwriter-pl
       link: http://techwriter.pl
       brand: techwriter.pl
