@@ -150,8 +150,8 @@ Examples
 Documentation comes in many variations. Here are some examples to inspire you:
 
 * `Stripe <https://stripe.com/docs>`_ Great example of API docs
-• `Google Material Design <https://material.io/design/>`_ Good examples of different layouts
-• `IBM Knowledge Center <https://www.ibm.com/support/knowledgecenter/en/>`_ solid examples of code that isn’t necessarily API
+* `Google Material Design <https://material.io/design/>`_ Good examples of different layouts
+* `IBM Knowledge Center <https://www.ibm.com/support/knowledgecenter/en/>`_ solid examples of code that isn’t necessarily API
 
 Additional Notes
 ----------------
@@ -166,7 +166,7 @@ Write the Docs Resources
 ------------------------
 
 * Conference: https://www.writethedocs.org/
-* Slack: `Write the Docs <http://slack.writethedocs.org/>`_
+* Slack: `Write the Docs <http://slack.writethedocs.org/>`__
 * Twitter: http://twitter.com/writethedocs
 * Issues & feature requests: https://github.com/writethedocs/docs/issues
 * Source repository: https://github.com/writethedocs/docs
