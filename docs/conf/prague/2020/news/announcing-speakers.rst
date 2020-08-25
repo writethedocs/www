@@ -41,9 +41,8 @@ Thanks to our sponsors
 
 We are so grateful to have our sponsors help in bringing these events to life every year. Thanks sincerely to the following companies for supporting the Write the Docs community:
 
-.. datatemplate::
-   :source: /_data/{{shortcode}}-{{year}}-config.yaml
-   :template: {{year}}/sponsors-simplelist.rst
+* `Red Hat <https://www.redhat.com/>`_
+* `Elastic <https://www.elastic.co>`_
 
 Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/prague/2020/sponsors/prospectus/>`_ for details on how your company can get involved!
 We have several types of sponsorship available, including tables at the job fair that we'll be hosting on Tuesday.
