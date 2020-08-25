@@ -125,14 +125,18 @@ sponsors:
   second:
     - name: redhat-new
       link: https://www.redhat.com/
+      brand: Red Hat
     - name: elastic
+      brand: Elasticsearch
       link: https://www.elastic.co
   first:
   media:
     - name: bart
       link: http://www.bartatwork.com
+      brand: Bart at worl
     - name: techwriter-pl
       link: http://techwriter.pl
+      brand: techwriter.pl
 
 
 # Things that change over time, listed in order of change
