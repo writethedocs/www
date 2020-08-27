@@ -10,8 +10,8 @@ Greetings fellow documentarians!
 
 The conference is now just under four months away, and we hope you’re already planning for this year's remote installment of Write the Docs Australia and India conference.
 
-New deadline to submit your proposal is 31st May
-------------------------------------------------
+New deadline to submit your proposal is 14th Sept
+--------------------------------------------------
 
 The `Call for Proposals <https://www.writethedocs.org/conf/australia/2020/cfp/>`_ is now extended until **14th Sept 2020 at Midnight AEST** – We added two extra weeks to the deadline because this hasn't been the kindest of years, so we did not want to be extra stressed over this!
 Make sure to get your talk in before the new deadline; we're already have lots of great proposals coming in, but we wanted to give everyone a chance to submit their ideas.
