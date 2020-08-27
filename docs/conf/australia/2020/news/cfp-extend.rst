@@ -13,7 +13,8 @@ The conference is now just under four months away, and we hope you’re already 
 New deadline to submit your proposal is 14th Sept
 --------------------------------------------------
 
-The `Call for Proposals <https://www.writethedocs.org/conf/australia/2020/cfp/>`_ is now extended until **14th Sept 2020 at Midnight AEST** – We added two extra weeks to the deadline because this hasn't been the kindest of years, so we did not want to be extra stressed over this!
+The `Call for Proposals <https://www.writethedocs.org/conf/australia/2020/cfp/>`_ is now extended until **14th Sept 2020 at Midnight AEST** – We added two extra weeks
+to the deadline because there are enough things to worry about this year, and we didn't want CFP dates to stress you unnecessarily!
 Make sure to get your talk in before the new deadline; we're already have lots of great proposals coming in, but we wanted to give everyone a chance to submit their ideas.
 
 Check out the `Call for Proposals <https://www.writethedocs.org/conf/australia/2020/cfp/>`_ page for tips and examples to help inspire you.
@@ -24,5 +25,5 @@ We will send out the decision emails to all who submitted by **end September**, 
 We'll have more to share soon
 -------------------------------
 
-We are putting the finishing touches on all the other aspects of the event. Expect to hear more about the welcome reception, social event, and more in the next few months.
+We are working through all the other aspects of the event. Expect to hear more about the welcome reception, social event, and more in the next few months.
 This will be our fourth Australian conference, and first one for the Indian community, and we can't wait!
