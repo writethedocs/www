@@ -1,7 +1,8 @@
 - title: The Search for Search
   slug: the-search-for-search-paul-logan
   series: Write the Docs Portland
-  series_slug: the-search-for-search-paul-logan
+  series_slug: portland
+  youtubeId: yMN_XWHEAy4
   year: 2020
   speakers:
   - name: Paul Logan
@@ -27,7 +28,8 @@
     practices'
   slug: collaborating-with-teams-on-content-strategy-planning-pitfalls-and-best-practices-kateryna-osadchenko
   series: Write the Docs Portland
-  series_slug: collaborating-with-teams-on-content-strategy-planning-pitfalls-and-best-practices-kateryna-osadchenko
+  series_slug: portland
+  youtubeId: AE4LleFg1iI
   year: 2020
   speakers:
   - name: Kateryna Osadchenko
@@ -50,7 +52,8 @@
 - title: 'Moving beyond empathy: a11y in documentation'
   slug: moving-beyond-empathy-a11y-in-documentation-alexandra-white
   series: Write the Docs Portland
-  series_slug: moving-beyond-empathy-a11y-in-documentation-alexandra-white
+  series_slug: portland
+  youtubeId: PS8ywGg0x-U
   year: 2020
   speakers:
   - name: Alexandra White
@@ -86,7 +89,8 @@
 - title: 'Writing Backwards: Documenting the End-of-Life of a Product'
   slug: writing-backwards-documenting-the-end-of-life-of-a-product-anni-bond
   series: Write the Docs Portland
-  series_slug: writing-backwards-documenting-the-end-of-life-of-a-product-anni-bond
+  series_slug: portland
+  youtubeId: vvpELALAUUc
   year: 2020
   speakers:
   - name: Anni Bond
@@ -107,7 +111,8 @@
 - title: Creating Quality Sample Code
   slug: creating-quality-sample-code-jessica-garson
   series: Write the Docs Portland
-  series_slug: creating-quality-sample-code-jessica-garson
+  series_slug: portland
+  youtubeId: yhrbkReYbf0
   year: 2020
   speakers:
   - name: Jessica Garson
@@ -122,7 +127,8 @@
 - title: 'Read the Rules: What technical writers can learn from board game design'
   slug: read-the-rules-what-technical-writers-can-learn-from-board-game-design-matthew-baldwin
   series: Write the Docs Portland
-  series_slug: read-the-rules-what-technical-writers-can-learn-from-board-game-design-matthew-baldwin
+  series_slug: portland
+  youtubeId: 7a3xEl8C3Lc
   year: 2020
   speakers:
   - name: Matthew Baldwin
@@ -147,7 +153,8 @@
 - title: 'Finding the line: Balancing business continuity and documentation debt'
   slug: finding-the-line-balancing-business-continuity-and-documentation-debt-luca-janssens
   series: Write the Docs Portland
-  series_slug: finding-the-line-balancing-business-continuity-and-documentation-debt-luca-janssens
+  series_slug: portland
+  youtubeId: n7BNAP-zsR0
   year: 2020
   speakers:
   - name: Luca Janssens
@@ -209,7 +216,8 @@
     to the user'
   slug: documentation-as-an-application-enabling-interactive-content-that-is-tailored-to-the-user-ryan-paul
   series: Write the Docs Portland
-  series_slug: documentation-as-an-application-enabling-interactive-content-that-is-tailored-to-the-user-ryan-paul
+  series_slug: portland
+  youtubeId: aLVvSyenA6s
   year: 2020
   speakers:
   - name: Ryan Paul
@@ -259,7 +267,8 @@
     data'
   slug: model-view-docs-taming-large-scale-documentation-projects-using-structured-data-luc-perkins
   series: Write the Docs Portland
-  series_slug: model-view-docs-taming-large-scale-documentation-projects-using-structured-data-luc-perkins
+  series_slug: portland
+  youtubeId: l9cdOSfWUDg
   year: 2020
   speakers:
   - name: Luc Perkins
@@ -283,7 +292,8 @@
 - title: Globalise the docs
   slug: globalise-the-docs-lucy-carey
   series: Write the Docs Portland
-  series_slug: globalise-the-docs-lucy-carey
+  series_slug: portland
+  youtubeId: D5BchQwaM8Y
   year: 2020
   speakers:
   - name: Lucy Carey
@@ -326,7 +336,8 @@
 - title: Don’t Fear Migration! How to Successfully Move Docs to a New Tool
   slug: don-t-fear-migration-how-to-successfully-move-docs-to-a-new-tool-brooke-wayne
   series: Write the Docs Portland
-  series_slug: don-t-fear-migration-how-to-successfully-move-docs-to-a-new-tool-brooke-wayne
+  series_slug: portland
+  youtubeId: 5asLqBaVVmg
   year: 2020
   speakers:
   - name: Brooke Wayne
@@ -374,7 +385,8 @@
 - title: Why SDK Docs Matter — And What I’m Doing About It!
   slug: why-sdk-docs-matter-and-what-i-m-doing-about-it-shavindri-dissanayake-shavi
   series: Write the Docs Portland
-  series_slug: why-sdk-docs-matter-and-what-i-m-doing-about-it-shavindri-dissanayake-shavi
+  series_slug: portland
+  youtubeId: D0QY7MXV3Ho
   year: 2020
   speakers:
   - name: Shavindri Dissanayake (Shavi)
@@ -448,7 +460,8 @@
     Scientists and Engineers alike
   slug: building-a-content-focused-scientific-document-authoring-workflow-for-data-scientists-and-engineers-alike-colin-dean
   series: Write the Docs Portland
-  series_slug: building-a-content-focused-scientific-document-authoring-workflow-for-data-scientists-and-engineers-alike-colin-dean
+  series_slug: portland
+  youtubeId: m1Lhy3fheuY
   year: 2020
   speakers:
   - name: Colin Dean
@@ -480,7 +493,8 @@
     to Help Shape Content'
   slug: walking-backwards-tracing-the-new-customer-journey-from-finish-to-start-to-help-shape-content-sally-stumbo
   series: Write the Docs Portland
-  series_slug: walking-backwards-tracing-the-new-customer-journey-from-finish-to-start-to-help-shape-content-sally-stumbo
+  series_slug: portland
+  youtubeId: UOjbIZr-G_Q
   year: 2020
   speakers:
   - name: Sally Stumbo
@@ -519,7 +533,8 @@
     Testing Intersect '
   slug: where-documentation-cloud-hosted-interactive-tutorials-and-continuous-integration-testing-intersect-dan-gunter
   series: Write the Docs Portland
-  series_slug: where-documentation-cloud-hosted-interactive-tutorials-and-continuous-integration-testing-intersect-dan-gunter
+  series_slug: portland
+  youtubeId: NIxopuBhnV4
   year: 2020
   speakers:
   - name: Dan Gunter
@@ -559,7 +574,8 @@
 - title: Set your data free with model-based architecture diagramming
   slug: set-your-data-free-with-model-based-architecture-diagramming-avi-flax
   series: Write the Docs Portland
-  series_slug: set-your-data-free-with-model-based-architecture-diagramming-avi-flax
+  series_slug: portland
+  youtubeId: 3i-C7qbRGGQ
   year: 2020
   speakers:
   - name: Avi Flax
