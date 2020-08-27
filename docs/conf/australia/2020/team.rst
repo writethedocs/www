@@ -25,6 +25,10 @@ Linette Voller
 
 {% include "bios/linette.rst" %}
 
+Jared Morgan
+~~~~~~~~~~~~~~~~~~
+
+{% include "bios/jared.rst" %}
 
 
 Primary Roles
