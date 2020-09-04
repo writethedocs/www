@@ -52,10 +52,10 @@ Reach out to @alyssa and @cameronshorter on WTD slack if interested. (@cameronsh
 
 We hang out in `thegooddocs.slack.com <https://join.slack.com/t/thegooddocs/shared_invite/enQtODkyNjI5MDc0NjE0LTUyNGFiZmU1MjIzNDMwN2E3NmQwODQwZmRkYWI5MDhlMzdjYzg4Nzg4YjM3ODA0NGE4MTgyYzdkMGViMTI2MDM>`_.
 
-Write The Docs Meetups
+Write the Docs Meetups
 ----------------------
 
-Organizing local Write The Docs meetup communities is a rewarding way to participate. During Writing Day, we'll have a table where we can share tips and best practices, espcially in this time where all of our meetups are virtual.
+Organizing local Write the Docs meetup communities is a rewarding way to participate. During Writing Day, we'll have a table where we can share tips and best practices, espcially in this time where all of our meetups are virtual.
 
 GitLab - Meet the Docs Team and Contribute to the Docs
 ------------------------------------------------------
