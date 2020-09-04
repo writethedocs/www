@@ -17,10 +17,10 @@ buttons:
   top:
     # - text: Date and ticket information
     #   link: /news/announcing-virtual-conf-dates-tickets
-    - text: Read our conference guide
-      link: /welcome-wagon
-    - text: See the Schedule!
-      link: /schedule
+    # - text: Read our conference guide
+    #   link: /welcome-wagon
+    # - text: See the Schedule!
+    #   link: /schedule
      # - text: Buy a Ticket!
      #   link: /tickets
     # - text: Sponsor us
@@ -35,13 +35,13 @@ buttons:
 #      link: /livestream
 #     - text: Browse the photos
 #       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-#     - text: Watch the videos!
-#       link_absolute: /videos/portland/2020
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
   bottom:
-    - text: Read our conference guide
-      link: /welcome-wagon
-    - text: See the Schedule!
-      link: /schedule
+    # - text: Read our conference guide
+    #   link: /welcome-wagon
+    # - text: See the Schedule!
+    #   link: /schedule
      # - text: Date and ticket information
      #   link: /news/announcing-virtual-conf-dates-tickets
      # - text: Sponsor the conference
@@ -58,8 +58,8 @@ buttons:
     #  link: /livestream
 #     - text: Browse the photos
 #       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-#     - text: Watch the videos!
-#       link_absolute: /videos/portland/2020
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
 
 tickets:
   corporate:
@@ -178,9 +178,9 @@ flagsoldout: False
 flagspeakersannounced: True
 flaghasschedule: True
 flaghasshirts: False
-flagvideos: False
+flagvideos: True
 flaglivestreaming: False
-flagpostconf: False
+flagpostconf: True
 
 # Truthy things that don't change
 flaghashike: False

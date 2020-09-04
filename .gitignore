@@ -10,3 +10,4 @@ node_modules
 .sass-cache
 docs/meetups/events.rst
 .idea
+.vscode
