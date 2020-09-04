@@ -139,7 +139,10 @@ Guide Coordination Team
 
 These are the folks who maintain https://www.writethedocs.org/guide/ and make sure it stays high quality.
 The site is built with Sphinx and hosted on Read the Docs,
-but
+but we accept content in any format you can send.
+
+Roles
+`````
 
 * Serve as point of contact for issues or questions about contributing to the :doc:`/guide/index`
 * Update overview and TOC for ease of use
@@ -167,7 +170,6 @@ Roles
 Members
 ```````
 
-* `Rose Williams <https://twitter.com/ZelWms>`_
 * You?
 
 
