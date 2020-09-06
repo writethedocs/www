@@ -9,10 +9,13 @@ Writing Day
 Schedule
 --------
 
-- Date & Time: **{{date.day_two.dotw}}, {{date.month}} {{date.day_two.date}}, 9am-6pm**,
-  with the conference opening reception from 17:00.
+- Date & Time: **{{date.day_two.dotw}}, {{date.day_two.date}}, 9:30-17:00 {{tz}}**.
+- Location: **{{about.venue}}**.
 
 Your Project Here
 -----------------
 
-* More details coming
+Write the Docs Meetups
+----------------------
+
+Organizing local Write the Docs meetup communities is a rewarding way to participate. During Writing Day, we'll have a table where we can share tips and best practices, espcially in this time where all of our meetups are virtual.
