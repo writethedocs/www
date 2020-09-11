@@ -78,6 +78,10 @@ grants:
   ends: "September 1, 2020"
   notification: "September 14, 2020"
 
+shirts:
+  url: https://teespring.com/wtd-prague-2020
+  ends: "November 30th"
+
 cfp:
   url: https://pretalx.com/wtd-prague-2020/cfp
   ends: "July 22, 2020"
@@ -148,7 +152,6 @@ flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
 flaghasschedule: False
-flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
 flagpostconf: False
