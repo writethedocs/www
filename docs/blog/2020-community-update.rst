@@ -17,7 +17,7 @@ The talks were just announced for Prague, and the CFP is open for a little while
 
 We also just recently wrapped up our first online Portland conference.
 We had around 600 people join us to make this another memorable event.
-The `videos <https://www.writethedocs.org/videos/portland/2020/>`_ are now online from that conference.
+The `videos <https://www.writethedocs.org/videos/portland/2020/>`_ from the conference are now available online.
 
 Salary Survey
 -------------
@@ -39,8 +39,8 @@ Community Shout Out
 -------------------
 
 The numbers of activities going on in the Write the Docs community grows each year.
-Most of these are things are organized and run primarily by volunteers,
-and we wanted to take time to show appreciation for these folks.
+Most of these are organized and run primarily by volunteers,
+and we wanted to take the time to show appreciation for these folks.
 While we can't mention every member of our extremely welcoming community,
 we want to show particular appreciation for folks who are working behind the scenes.
 
@@ -113,4 +113,3 @@ or continue to see you here via this newsletter.
 
 You can always reply to this email if you have any questions or comments.
 Stay tuned for another newsletter update next month!
-
