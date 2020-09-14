@@ -13,7 +13,7 @@ meetup-api==0.1.1
 urllib3[secure]==1.25.10
 yamale==3.0.4
 markdown==3.2.2
-ruamel.yaml==0.16.10
+ruamel.yaml==0.16.12
 lxml==4.5.2
 # For emoji
 sphinxemoji==0.1.6
