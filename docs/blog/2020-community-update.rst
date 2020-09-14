@@ -2,7 +2,7 @@
    :tags: stats, newsletter
    :author: Eric Holscher
 
-Write the Docs 2020 Community Update
+Write the Docs Community Update
 ====================================
 
 Hey there documentarians!
@@ -31,7 +31,7 @@ This annual survey, run by the Write the Docs community, aims to gather data abo
 We hope that this data can help our community members determine what appropriate salary ranges are, and provide a benchmark for future employment-related decisions and negotiations.
 Additionally, we’re hoping the results spark discussion of employment-related trends and issues in our industry, including but not limited to the effects of the COVID-19 pandemic.
 
-The survey is broken up into 5 sections.
+The survey is divided into 5 sections.
 It should take between 5 and 10 minutes to complete,
 so we hope that you'll `fill it out <https://2020-salary-survey.writethedocs.org/>`_.
 
