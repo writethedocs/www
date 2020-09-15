@@ -36,14 +36,14 @@ buttons:
 #     - text: Watch the videos!
 #       link_absolute: /videos/australia/2020
   bottom:
-     - text: Sponsor us
-       link: /sponsors/prospectus
+    - text: Sponsor us
+      link: /sponsors/prospectus
      # - text: The conference is moving online
      #   link_absolute: /blog/moving-portland-prague-2020-online/
-     - text: Submit a Talk
-       link: /cfp
-     - text: Buy a Ticket!
-       link: /tickets
+    - text: Submit a Talk
+      link: /cfp
+    - text: Buy a Ticket!
+      link: /tickets
 #    - text: Prepare with the Welcome Wagon
 #      link: /welcome-wagon
 #    - text: See the schedule!

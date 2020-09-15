@@ -17,10 +17,10 @@ buttons:
   top:
      # - text: The conference is moving online
      #   link_absolute: /blog/moving-portland-prague-2020-online/
-     - text: Buy a Ticket!
-       link: /tickets
-     - text: Sponsor us
-       link: /sponsors/prospectus
+    - text: Buy a Ticket!
+      link: /tickets
+    - text: Sponsor us
+      link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
     # - text: See the talks!
@@ -36,14 +36,14 @@ buttons:
 #     - text: Watch the videos!
 #       link_absolute: /videos/portland/2020
   bottom:
-     - text: Sponsor us
-       link: /sponsors/prospectus
+    - text: Sponsor us
+      link: /sponsors/prospectus
      # - text: The conference is moving online
      #   link_absolute: /blog/moving-portland-prague-2020-online/
      # - text: Submit a Talk
      #  link: /cfp
-     - text: Buy a Ticket!
-       link: /tickets
+    - text: Buy a Ticket!
+      link: /tickets
 #    - text: Prepare with the Welcome Wagon
 #      link: /welcome-wagon
 #    - text: See the schedule!
@@ -78,6 +78,10 @@ grants:
   ends: "September 1, 2020"
   notification: "September 14, 2020"
 
+shirts:
+  url: https://teespring.com/wtd-prague-2020
+  ends: "November 30th"
+
 cfp:
   url: https://pretalx.com/wtd-prague-2020/cfp
   ends: "July 22, 2020"
@@ -89,10 +93,11 @@ date: # how do we handle these? human readable would be nice.
   tickets_live: "Summer 2020"
   month: October
   day_one:
-    event: Boat Ride
+    event: Hike
     date: On your own
-    summary: We encourage you to go on a boat ride or walk in your own beautiful home town.
-    icon: boat
+    summary: In the tradition of WTD Portland we encourage you to go on a hike in your own beautiful home town.
+    #summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    icon: hike
     dotw: Saturday
   day_two:
     event: Writing Day
@@ -147,13 +152,12 @@ flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
 flaghasschedule: False
-flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
 flagpostconf: False
 
 # Truthy things that don't change
 flaghashike: False
-flaghasboat: True
+flaghasboat: False
 flaghaswritingday: True
 flaghasbadgeflair: False
