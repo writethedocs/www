@@ -3,7 +3,7 @@
    :author: Eric Holscher
 
 Write the Docs Community Update
-====================================
+===============================
 
 Hey there documentarians!
 
@@ -13,7 +13,7 @@ This update covers what else is going on behind the scenes while they take a muc
 
 We're looking forward to seeing everyone online for our `Prague <http://www.writethedocs.org/conf/prague/2020/>`_ on October 18-20 in the CEST timezone.
 We're also getting excited about our upcoming `Australia & India <http://www.writethedocs.org/conf/australia/2020/>`_ conference on December 3-4 in the AEDT timezone.
-The talks were just announced for Prague, and the CFP is open for a little while longer for Australia & India.
+The talks were just announced for the Prague conference, we'll be publishing more information about the speakers for the Australia & India conference by the end of the month.
 
 We also just recently wrapped up our first online Portland conference.
 We had around 600 people join us to make this another memorable event.
@@ -22,18 +22,18 @@ The `videos <https://www.writethedocs.org/videos/portland/2020/>`_ from the conf
 Salary Survey
 -------------
 
-We have now launched our :doc:`2020 Salary Survey <https://2020-salary-survey.writethedocs.org/>`.
+We have now launched our `2020 Salary Survey <https://2020-salary-survey.writethedocs.org/>`__.
 We were amazed by the response to our Salary Survey last year,
-with `650 responses <https://www.writethedocs.org/surveys/salary-survey/2019/>`_ and a lot of interesting data that came out of it.
+with `650 responses <https://www.writethedocs.org/surveys/salary-survey/2019/>`__ and a lot of interesting data that came out of it.
 
-This annual survey, run by the Write the Docs community, aims to gather data about salaries for people working in documentation and related fields around the world. `Results of the inaugural survey <https://www.writethedocs.org/surveys/salary-survey/2019/>`_ are available on the our website.
+This annual survey, run by the Write the Docs community, aims to gather data about salaries for people working in documentation and related fields around the world. `Results of the inaugural survey <https://www.writethedocs.org/surveys/salary-survey/2019/>`__ are available on the our website.
 
 We hope that this data can help our community members determine what appropriate salary ranges are, and provide a benchmark for future employment-related decisions and negotiations.
 Additionally, we’re hoping the results spark discussion of employment-related trends and issues in our industry, including but not limited to the effects of the COVID-19 pandemic.
 
 The survey is divided into 5 sections.
 It should take between 5 and 10 minutes to complete,
-so we hope that you'll `fill it out <https://2020-salary-survey.writethedocs.org/>`_.
+so we hope that you'll `fill it out <https://2020-salary-survey.writethedocs.org/>`__.
 
 Community Shout Out
 -------------------
@@ -100,7 +100,13 @@ so this is a huge ongoing task done by these folks:
 Featured jobs
 -------------
 
-.. TODO
+* Semaphore, `Technical Editor <https://jobs.writethedocs.org/job/224/>`__
+* You.i TV, `Technical Writer (Developer Documentation) <https://jobs.writethedocs.org/job/223/>`__
+* Microsoft, `Content Writer, Video Producer, Data Analyst, Developer Evangelist <https://jobs.writethedocs.org/job/222/>`__
+* Google, `Technical Writer, Software Engineering - US locations <https://jobs.writethedocs.org/job/218/>`__
+* Google, `Developer Programs Engineer, Developer Relations   <https://jobs.writethedocs.org/job/217/>`__
+* Google, `Technical Writer, Cloud Technologies and Tools  <https://jobs.writethedocs.org/job/215/>`__
+* Appian, `Senior Information Developer <https://jobs.writethedocs.org/job/214/>`__
 
 *To apply for these job, or post your own, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
