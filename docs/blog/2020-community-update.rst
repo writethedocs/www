@@ -1,4 +1,4 @@
-.. post:: Sep 7, 2020
+.. post:: Sep 14, 2020
    :tags: stats, newsletter
    :author: Eric Holscher
 
