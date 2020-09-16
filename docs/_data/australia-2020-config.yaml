@@ -19,10 +19,10 @@ buttons:
      #   link_absolute: /blog/moving-portland-prague-2020-online/
     - text: Buy a Ticket!
       link: /tickets
-    # - text: Sponsor us
-    #  link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
+    - text: Sponsor us
+      link: /sponsors/prospectus
+    #- text: Submit a Talk
+    #  link: /cfp
     # - text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
@@ -83,7 +83,7 @@ grants:
 cfp:
   url: https://pretalx.com/write-the-docs-australia-2020/cfp
   ends: "August 31, 2020"
-  notification: "September 20, 2020"
+  notification: "September 30, 2020"
 
 date: # how do we handle these? human readable would be nice.
   main: "**December 3-4, 2020, online**"
@@ -120,14 +120,19 @@ sponsors:
   publisher:
     - name: google
       link: https://www.google.com
+      brand: Google
   second:
   first:
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+      brand: KnowledgeOwl
+      width: 250px
 
 
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: True
+flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
