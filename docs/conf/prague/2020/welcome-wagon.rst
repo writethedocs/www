@@ -185,10 +185,13 @@ Reach out to attendees
 
 There are several ways to network using the virtual conference platform:
 
-Networking
-^^^^^^^^^^
+Hallway sessions
+^^^^^^^^^^^^^^^^
 
-Select **Networking** to be randomly matched with another attendee. Conversations are limited to 1-5 minutes, and you’ll automatically be connected to the next person when your 5 minutes is up. Here’s some icebreakers:
+Under **Sessions** you'll find one or more hallway sessions, for casually talking with other attendees.
+You can join with your own audio and video, or chat only.
+
+Here’s some icebreakers:
 
   - What are you reading for fun right now?
   - Have you found a website that makes you happy during social isolation?
