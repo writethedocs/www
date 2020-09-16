@@ -15,6 +15,11 @@ Swapnil Ogale
 
 {% include "bios/swapnil.rst" %}
 
+Rajakavitha Kodhandapani
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+{% include "bios/rajie.rst" %}
+
 Samuel Wright
 ~~~~~~~~~~~~~~~~~~
 
