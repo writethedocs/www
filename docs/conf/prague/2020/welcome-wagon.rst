@@ -1,194 +1,225 @@
 :template: {{year}}/generic.html
-:banner: _static/conf/images/headers/group.png
 
-Welcome Wagon
-=============
+Welcome Wagon Guide
+===================
 
-Hi! If you're new to Write the Docs, you're in the right place. The Welcome Wagon is here to help out new attendees,
-with both the information on this page, and events we run during the conference.
+Hello!
 
-On this page you'll find important stuff that will help you navigate the conference like a pro,
-make you feel more at home, and help you to manage the constant flow of information.
+We’re your Welcome Wagon, and we’re glad you’re attending Write the
+Docs! We realize a virtual conference might be totally new to you (us,
+too!). This guide will help you navigate it, even if you’ve been to a
+Write the Docs conference before.
 
-.. image:: /_static/conf/images/pics/welcome-wagon.jpg
+We are all first-timers at this year’s virtual conference. The Welcome
+Wagon is here for you, to help you make the most of it. We’d love to
+virtually meet you: feel free to reach out in Chat at the virtual
+conference if we can help
+make your time at the conference easier.
 
-Dururing the conference, we'll connect you with people - both veterans and other first-timers.
-And we'll give you strategies and tips so you can make the most of the conference.
+.. contents:: All topics
+   :local:
+   :depth: 1
+   :backlinks: none
 
-The `FAQs <#faq>`_ should have answers to most of your questions, but let us know if there is anything you'd like to know that isn't there. You can ask us questions in the :doc:`#wtd-conferences channel on Slack </slack>`.
+Where to get help
+-----------------
 
-Who we are
+Guides
+~~~~~~
+
+You can prepare by reading through this guide. Don’t worry if you forget any of it – there will be a recording you can watch in the Helpdesk booth. Select **Expo** > **Write the Docs Helpdesk** to watch it anytime.
+
+You can also watch the video at any time directly from our `YouTube channel <https://youtu.be/hzPvLn1PXtM>`_.
+
+Helpdesk
+~~~~~~~~
+
+If you still have questions, reach out to us at the Helpdesk any time. Select **Expo** > **Helpdesk** > **Chat** and enter your question. A member of the Welcome Wagon will be online during conference hours to help you.
+
+Message Organisers
+~~~~~~~~~~~~~~~~~~
+
+Go to the **People** tab, select the **Filter** icon, and select **Organisers**. Select an Organiser and start typing your question.
+
+Reception: Your home base
+-------------------------
+
+Once you enter the virtual conference, you’ll be at **Reception**. You
+can view Reception as your home base for the conference. There’s a
+schedule, a list of events happening now, and helpful reminders about
+what you can do at the conference.
+
+Don’t be afraid to explore! You won’t interrupt anything by looking
+around.
+
+Conference talks and Q&A
+------------------------
+
+- There’s a talk schedule on the **Reception** page and on the `Write the Docs website <https://www.writethedocs.org/conf/prague/2020/schedule/>`__. Select the Calendar icon next to the talks you want to see on the Reception page to add them to your calendar.
+- When it’s time for a talk you want to see, select **Stage**.
+- If we have problems with our online platform, go to the `Write the Docs website <https://www.writethedocs.org/conf/prague/2020/backup-livestream/>`__ for a back-up stream. This will only be turned on if we have technical issues.
+- After a talk, feel free to tweet about it with the hashtag #writethedocs.
+- There is a lot of great information at this conference, but don’t worry if you miss something! All talks are recorded and videos will be published shortly after the conference, so you can review them later.
+
+Asking questions
+~~~~~~~~~~~~~~~~
+
+Stick around the **Stage** after each talk for a 10-minute, moderated Q&A.
+
+- Enter your questions into the **Chat** channel (always on the right-hand side of any page) prefixed with “Q:“, and the moderator will ask the speaker for you.
+- Make sure the **Stage** toggle is on for the Chat, so your question will be seen by the moderator.
+- Due to time constraints, we might not be able to get to all of your questions. If your question isn’t asked live, chat with the speaker later and make a connection!
+
+Participate in the conference
+-----------------------------
+
+The schedule is built around **sessions**. Almost all of the in-person interactions you’ll have at the virtual conference will be through sessions. Learn how to find and participate in sessions, and use these lessons for attending Writing Day, Unconference, Job Fair, and Monday night Social events.
+
+Finding events to participate in
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- You can view the schedule on the **Reception** page. You can also browse a list of events by selecting **Sessions**.
+- When you select an event in the schedule, like a Writing Day or Unconference session, you are directed to the **Sessions** page.
+- Once you are on the **Sessions** page, select the session you want to attend.
+
+Joining an event
+~~~~~~~~~~~~~~~~
+
+- Once you select a session, you can either view the session and use the Chat, or select **Share Audio and Video** to participate in the session. Sessions are limited to 20 active participants, but anyone can join and view the session.
+
+Helpful Settings
+^^^^^^^^^^^^^^^^
+
+- Select the **Video Camera** icon to turn off your video.
+- Select the **Monitor** icon to share your screen. Multiple people can share their screens at once.
+- To make someone’s screen larger, double-click on it.
+- Select the **Settings** icon to change your audio or video settings.
+
+Writing Day
 -----------
 
-Hi - we're Beth and Daniel, your Welcome Wagon volunteers! We're really glad you're coming to the {{year}} Write the Docs conference.
+`Writing Day <https://www.writethedocs.org/conf/prague/2020/writing-day/>`__ takes place on Sunday, the day before the conference starts. You can join in anytime between 9:30am and 5pm PDT.
 
-If you need a hand at all, we're here to help.
+You can bring a writing project you want to work on, or you can contribute to a project someone else brought.
 
-Welcome Wagon events
---------------------
+- **Bring a project**: If you want help with your project, `sign up <https://docs.google.com/spreadsheets/d/1IjA2yQWi1qVhopJ8PyG2obMVa5nodIRsggFSJACaWRk/edit?usp=sharing>`__ before Writing Day. When you are ready to start your project on Writing Day, go to **Sessions**, select your table, and start collaborating.
+- **Contribute to a project**: If you want to help someone else with their writing project, `check out the list of projects <https://docs.google.com/spreadsheets/d/e/2PACX-1vTnTF98Sa8kqGT8G7zY3g8kTaEF1AqB8P5EfVJbz305s2BelEZo_rMpQzMIcL5Dfe7Ywfvy1ApHGp0Q/pubhtml>`__. When you are ready to participate, go to **Sessions**, select the session for the project you want to contribute to, and introduce yourself.
+- Here’s the `2019 Writing Day Project list that you can use as a guide <https://www.writethedocs.org/conf/prague/2019/writing-day/>`__.
 
-**Write the Docs Introduction**
+Unconference
+------------
 
-*{{date.day_two.dotw}}, {{date.day_two.date}} at 17:00 in the downstairs foyer (near the cloakroom) at Auto-Klub*
+- The Unconference is a set of informal sessions that take place all day Monday and Tuesday afternoon. `Unconference talks focus on conversations and exchanges of ideas between participants. <https://www.writethedocs.org/conf/prague/2020/unconference/>`__
+- You can attend unconference sessions, or, if you have an idea for a session, you can lead one. Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
 
-Join us for an informal introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new before we join the opening reception.
+To lead an unconference session
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Venue Tours**
+- Look for an empty slot on the `Unconference sign-up <https://docs.google.com/spreadsheets/d/1IjA2yQWi1qVhopJ8PyG2obMVa5nodIRsggFSJACaWRk/edit?usp=sharing>`__, and add your Unconference topic. There will be a time and a table number for each slot.
+- When it’s time for your Unconference session to begin, go to **Sessions** and select the session that corresponds to your table number.
+- The previous unconference session will be in the same table. Let the attendees of the previous session know that their time is up, and your session will begin soon.
+- Once a group has entered your session, start the conversation!
+- When the Unconference leader for the next session enters the session, finish up your discussion to make way for the next one.
 
-* *{{date.day_two.dotw}}, {{date.day_two.date}} at 17:30 starting near the registration desk at Auto-Klub*
-* *Monday, {{date.day_three.date}} at 9:15 starting near the registration desk at Auto-Klub*
+To join in an unconference session
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Come on a short tour of the venue with a veteran Write the Docs attendee so you'll know where everything is and everything you can take part in.
+- Starting Monday morning, check the `Unconference schedule <https://docs.google.com/spreadsheets/d/e/2PACX-1vTnTF98Sa8kqGT8G7zY3g8kTaEF1AqB8P5EfVJbz305s2BelEZo_rMpQzMIcL5Dfe7Ywfvy1ApHGp0Q/pubhtml>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
+- At the time the session starts, go to **Sessions** and select the session with the table number that corresponds to the one in the `Unconference schedule <https://docs.google.com/spreadsheets/d/e/2PACX-1vTnTF98Sa8kqGT8G7zY3g8kTaEF1AqB8P5EfVJbz305s2BelEZo_rMpQzMIcL5Dfe7Ywfvy1ApHGp0Q/pubhtml>`__.
+- The session leader will begin when the group has gathered.
 
-Pro tips
+Lightning talks
+---------------
+
+- A Lightning Talk is a five-minute talk where you quickly share a concept or bit of info you find interesting. Lightning talks are a great way to practice public speaking, get people excited about your Unconference session, and test interest in a conference proposal idea.
+- If you are interested in giving a lightning talk, be prepared! There is a great guide `here <https://www.writethedocs.org/conf/prague/2020/lightning-talks/?highlight=re>`__.
+- Watch the conference chat and **Reception** for an announcement that Lightning Talk sign-ups have opened and for directions on how to sign up.
+- If you are selected to speak, one of the Organisers will contact you with more information.
+
+Job Fair
 --------
 
--  You don't need to go to every talk. Look through the schedule of
-   events before you arrive or while you are eating or taking a break.
-   Figure out which talks you want to see the most. Spread out your time
-   between talks, unconference sessions, networking, and breaks.
--  Speaking of breaks--conferences are exhilarating, but can also be
-   exhausting. Give your brain a break! Grab a spot in the quiet room
-   or take a quick walk. Play a board game on your lunch break. Come
-   back invigorated.
--  Starting Monday morning, check the unconference schedule
-   to see if there are any sessions you are interested in
-   attending. New sessions are added all the time, so check back
-   periodically.
--  Eat! You can use the energy.
--  Are you looking for a job or is there an opening at your company?
-   Check out the job board in the unconference room.
+- The Job Fair takes place on Tuesday morning. Each company attending the Job Fair will have their own Session table. To view the Job Fair participants and booths, go to **Sessions**.
+- Once you are in the session, check out the pinned message to review job and company information.
+- If you want to start a conversation with someone at the session, go to the **Chat** tab, make sure the **Session** toggle is on, and ask your question. You can set up 1:1 conversations using chat or video, too.
+- Remember, there might be multiple people starting conversations, so there could be a wait.
 
+Sponsor booths
+--------------
 
-FAQ
----
+Select **Expo** to view Sponsor booths. Sponsors might have videos you can watch, information to review on the **Booth** tab, and people you can talk to on the **Chat** tab. Visiting Sponsor booths is a great way to make connections!
 
-.. contents::
-   :local:
+Monday Social
+-------------
 
-Where is everything?
-~~~~~~~~~~~~~~~~~~~~
+The Monday night Social will be designed by you this year! You can host a session and meet fellow attendees for a video social event or you can attend a social event set up by someone else.
 
-The conference is entirely virtual. You'll receive the full details on
-how to attend before the conference.
+Attend a social event
+~~~~~~~~~~~~~~~~~~~~~
 
-What should I do during the talks?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Check the `list of social events <https://docs.google.com/spreadsheets/d/e/2PACX-1vTnTF98Sa8kqGT8G7zY3g8kTaEF1AqB8P5EfVJbz305s2BelEZo_rMpQzMIcL5Dfe7Ywfvy1ApHGp0Q/pubhtml>`__\ **,** and then go to the **Sessions** page and select the table that you want to join.
 
-`Conference talks at Auto Klub </conf/{{shortcode}}/{{year}}/speakers/>`__:
+Host a social event
+~~~~~~~~~~~~~~~~~~~
 
--  The time between talks is for meeting your colleagues or taking a
-   break. During the talks, listen and take in as much as you can.
--  There is a lot of great information at this conference, but don't
-   worry if you miss something! All talks are videotaped, so you can
-   review them later.
--  If you have a question during a talk, make a note of it and ask it in the Q&A
-   at the end of the talk. You can also use it as
-   a conversation starter with the speaker after their talk.
--  After a talk, feel free to tweet about it with the hashtag
-   ``#writethedocs``. Try not to "watch" the conference through Twitter and
-   other social media, though. You are attending the conference, so live
-   in it as much as you can!
+If you have an idea for a social event, find an empty table in the `sign-up sheet <https://docs.google.com/spreadsheets/d/1IjA2yQWi1qVhopJ8PyG2obMVa5nodIRsggFSJACaWRk/edit?usp=sharing>`__ and add your session. Here’s some ideas:
 
-Unconference:
+- Online game night
+- WFH life meetup – give attendees a video tour of your space
+- Music performance
+- YouTube karaoke
+- Silly hats/furry friends meetup
 
--  Check the schedule for
-   unconference talk you are interested in, and join that session online.
--  The session leader will begin when the group has gathered.
--  Feel free to just listen or add your voice to the discussion.
-   Unconference talks are designed to get everyone involved.
+Networking
+----------
 
-How do I take part in the unconference?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Add info to your profile
+~~~~~~~~~~~~~~~~~~~~~~~~
 
--  The unconference is a set of informal sessions.
-   `Unconference talks focus on exchanges of ideas between
-   participants. </conf/{{shortcode}}/{{year}}/unconference/>`__
--  You can attend unconference sessions, or, if you have an idea for a
-   session, you can lead one.
+To add information about yourself to your conference profile, select your initials > **Edit Profile**. Share as much as you are comfortable.
 
-What are lightning talks, and should I give one?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Important: Any info you add to your profile can be seen by everyone attending the conference. All conversations should adhere to the `Write the Docs Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`__.
 
--  A lightning talk is a five-minute talk where you quickly share a
-   concept or bit of info you find interesting.
--  Lightning talks are a great way to practice public speaking, get
-   people excited about your unconference session, and test interest in
-   a conference proposal idea.
--  Do you have an idea, want to talk about a new tool you are learning,
-   or review a process? Then, yes! Sign up for a lightning talk. There
-   will be a sign-up sheet at registration.
--  If you are interested in giving a lightning talk, be prepared! There
-   is a great guide
-   `here </conf/{{shortcode}}/{{year}}/lightning-talks>`__.
+Reach out to attendees
+~~~~~~~~~~~~~~~~~~~~~~
 
-How do I make the most out of this conference?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+There are several ways to network using the virtual conference platform:
 
-Make connections with other first-time attendees and get advice from seasoned pros.
-Attend the Welcome Wagon events to help with this!
+Hallway sessions
+^^^^^^^^^^^^^^^^
 
-The most important part of this conference (and any conference) is the
-people you meet. Set a goal for yourself to meet a few new people. Here
-are some tips:
+Under **Sessions** you'll find one or more hallway sessions, for casually talking with other attendees.
+You can join with your own audio and video, or chat only.
 
--  Find out who is attending the conference before you get there. Join
-   the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow
-   the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
-   and review the `list of
-   speakers </conf/{{shortcode}}/{{year}}/speakers/>`__.
--  Figure out which companies will be represented at the conference. If
-   you see a job post you're interested in, you might want to ask them a
-   few questions. This might be a great time to better understand what
-   it's like to work at certain companies.
--  Make a list of a few people you would like to meet, and write down
-   some questions for them. If you can find contact information, email
-   them before the conference and let them know you are looking forward
-   to chatting.
--  Most importantly, remember that you don't have to meet everyone. In
-   fact, you shouldn't. You should plan to make a few, meaningful
-   connections. That is what the Write the Docs conference is about, so
-   go for it! Introduce yourself.
+Here’s some icebreakers:
 
-Sample strategy for my first Write the Docs conference
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  - What are you reading for fun right now?
+  - Have you found a website that makes you happy during social isolation?
+  - If you could start a business, what would it be?
+  - What is the best vacation you’ve ever been on?
+  - Are you working on any passion projects right now?
+  - What are your favorite podcasts?
+  - What is the most surprising thing that happened to you in the past week?
+  - What drew you to your work?
 
--  Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__,
-   and participate in the Welcome Wagon chat room to start making
-   conference connections.
--  Make a list of two people who are attending with some notes about
-   them and questions for them. Either reach out by email before the
-   conference to set up a meeting onsite or find them at the conference.
--  Attend the Welcome Wagon events.
--  Attend the Sunday writing day and volunteer to help on one of the projects being worked on.
--  Check out the talk schedule in advance and make note of the talks you
-   don't want to miss.
--  In the morning, or when you need a break during the day,
-   check out the unconference schedule. Make note of any
-   unconference talks you want to attend.
--  Check out the lightning talks, and get excited about presenting one
-   at next year's conference.
+Direct message Chat
+^^^^^^^^^^^^^^^^^^^
 
-Sample strategy for a second or higher Write the Docs conference
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  - You can direct message attendees by finding them on the **People** tab.
+  - To filter for Organisers or Speakers, select the **Filter** icon.
+  - You can toggle between viewing **People** (a list of attendees) and **Messages** (a list of the messages you sent and received).
 
--  Attend the Welcome Wagon events and share your conference knowledge.
-   You might learn something new yourself!
--  Reach out to some first-time attendees and tell them about your first
-   conference.
--  Attend the Sunday writing day with your own project. Ask for help!
--  Check out the talk schedule in advance and make note of the talks you
-   don't want to miss.
--  In the morning, or when you need a break during the day,
-   check out the unconference schedule. Make note of any
-   unconference talks you want to attend.
--  Sign up for a lightning talk or lead an unconference session.
+Event and conference-wide Chat
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Thanks
-------
+  - When you chat on any of the main pages (Reception, Sessions, Networking, and Expo, you are chatting *the entire conference*.
+  - When you attend a Session, view the main Stage, or visit an Expo booth, you’ll see a toggle for switching between conference-wide chat and event chat. When you select **Event**, you are chatting the entire conference. To chat just your session, toggle on the **Session** or **Booth** chat.
 
-This document was inspired by other conferences doing great work in this area.
-In particular, these two documents were heavily used as a reference:
+Pro Tips
+--------
 
-* http://doubleyouraudience.com/microconf-guide/
-* http://www.pydanny.com/beginners-guide-pycon-2014.html
+- Conferences are exhilarating, but can also be exhausting. Give your brain a break! Grab a quiet spot or take a quick walk. Play a board game on your lunch break. Come back invigorated.
+
+- Find out who is attending the conference before you attend. Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__, and review the `list of speakers <https://www.writethedocs.org/conf/prague/2020/speakers/>`__.
+
+- In case of technical issues with our main platform Hopin, please watch the #wtd-conference Slack channel for status updates and alternative viewing links that might be posted.
