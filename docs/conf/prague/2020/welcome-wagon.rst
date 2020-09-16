@@ -102,8 +102,8 @@ Writing Day
 
 You can bring a writing project you want to work on, or you can contribute to a project someone else brought.
 
-- **Bring a project**: If you want help with your project, `sign up <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit?usp=sharing>`__ before Writing Day. When you are ready to start your project on Writing Day, go to **Sessions**, select your table, and start collaborating.
-- **Contribute to a project**: If you want to help someone else with their writing project, `check out the list of projects <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit?usp=sharing>`__. When you are ready to participate, go to **Sessions**, select the session for the project you want to contribute to, and introduce yourself.
+- **Bring a project**: If you want help with your project, `sign up <https://docs.google.com/spreadsheets/d/1IjA2yQWi1qVhopJ8PyG2obMVa5nodIRsggFSJACaWRk/edit?usp=sharing>`__ before Writing Day. When you are ready to start your project on Writing Day, go to **Sessions**, select your table, and start collaborating.
+- **Contribute to a project**: If you want to help someone else with their writing project, `check out the list of projects <https://docs.google.com/spreadsheets/d/e/2PACX-1vTnTF98Sa8kqGT8G7zY3g8kTaEF1AqB8P5EfVJbz305s2BelEZo_rMpQzMIcL5Dfe7Ywfvy1ApHGp0Q/pubhtml>`__. When you are ready to participate, go to **Sessions**, select the session for the project you want to contribute to, and introduce yourself.
 - Here’s the `2019 Writing Day Project list that you can use as a guide <https://www.writethedocs.org/conf/prague/2019/writing-day/>`__.
 
 Unconference
@@ -115,7 +115,7 @@ Unconference
 To lead an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Look for an empty slot on the `Unconference sign-up <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit?usp=sharing>`__, and add your Unconference topic. There will be a time and a table number for each slot.
+- Look for an empty slot on the `Unconference sign-up <https://docs.google.com/spreadsheets/d/1IjA2yQWi1qVhopJ8PyG2obMVa5nodIRsggFSJACaWRk/edit?usp=sharing>`__, and add your Unconference topic. There will be a time and a table number for each slot.
 - When it’s time for your Unconference session to begin, go to **Sessions** and select the session that corresponds to your table number.
 - The previous unconference session will be in the same table. Let the attendees of the previous session know that their time is up, and your session will begin soon.
 - Once a group has entered your session, start the conversation!
@@ -124,8 +124,8 @@ To lead an unconference session
 To join in an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Starting Monday morning, check the `Unconference schedule <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit#gid=1493675134>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
-- At the time the session starts, go to **Sessions** and select the session with the table number that corresponds to the one in the `Unconference schedule <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit#gid=1493675134>`__.
+- Starting Monday morning, check the `Unconference schedule <https://docs.google.com/spreadsheets/d/e/2PACX-1vTnTF98Sa8kqGT8G7zY3g8kTaEF1AqB8P5EfVJbz305s2BelEZo_rMpQzMIcL5Dfe7Ywfvy1ApHGp0Q/pubhtml>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
+- At the time the session starts, go to **Sessions** and select the session with the table number that corresponds to the one in the `Unconference schedule <https://docs.google.com/spreadsheets/d/e/2PACX-1vTnTF98Sa8kqGT8G7zY3g8kTaEF1AqB8P5EfVJbz305s2BelEZo_rMpQzMIcL5Dfe7Ywfvy1ApHGp0Q/pubhtml>`__.
 - The session leader will begin when the group has gathered.
 
 Lightning talks
@@ -157,12 +157,12 @@ The Monday night Social will be designed by you this year! You can host a sessio
 Attend a social event
 ~~~~~~~~~~~~~~~~~~~~~
 
-Check the `list of social events <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit#gid=1493675134>`__\ **,** and then go to the **Sessions** page and select the table that you want to join.
+Check the `list of social events <https://docs.google.com/spreadsheets/d/e/2PACX-1vTnTF98Sa8kqGT8G7zY3g8kTaEF1AqB8P5EfVJbz305s2BelEZo_rMpQzMIcL5Dfe7Ywfvy1ApHGp0Q/pubhtml>`__\ **,** and then go to the **Sessions** page and select the table that you want to join.
 
 Host a social event
 ~~~~~~~~~~~~~~~~~~~
 
-If you have an idea for a social event, find an empty table in the `sign-up sheet <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit#gid=1493675134>`__ and add your session. Here’s some ideas:
+If you have an idea for a social event, find an empty table in the `sign-up sheet <https://docs.google.com/spreadsheets/d/1IjA2yQWi1qVhopJ8PyG2obMVa5nodIRsggFSJACaWRk/edit?usp=sharing>`__ and add your session. Here’s some ideas:
 
 - Online game night
 - WFH life meetup – give attendees a video tour of your space
