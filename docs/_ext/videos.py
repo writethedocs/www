@@ -149,7 +149,7 @@ class DataTemplateVideo(DataTemplateYAML):
         'key': rst.directives.nonnegative_int,
     })
 
-    def _make_context(self, data):
-        context = super()._make_context(data)
+    def _make_context(self, data, config, env):
+        context = super()._make_context(data, config, env)
         context['key'] = self.options.get('key')
         return context
