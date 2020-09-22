@@ -694,7 +694,7 @@ Out of the 594 valid responses:
    +---------------+---------------------------+
 
 There were fewer than 10 individual respondents from each of the
-folowing countries:
+following countries:
 
 -  Russia
 -  France

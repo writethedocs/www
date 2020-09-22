@@ -28,6 +28,7 @@ about: include('about-details')
 
 cfp: include('cfp-details', required=False)
 grants: include('grants-details', required=False)
+shirts: include('shirts-details', required=False)
 
 flaghassponsors: bool()
 flagcfp: bool()
@@ -55,9 +56,9 @@ photo-default:
   default: str()
 
 cobrand-details:
-    brand: str()
-    brand_html: str()
-    logo: str()
+  brand: str()
+  brand_html: str()
+  logo: str()
 
 buttons:
   top: list(include('button-details'), required=False)
@@ -143,11 +144,15 @@ about-details:
   projector_ratio: str(required=False)
 
 cfp-details:
-  url: str(required=False)
-  ends: str(required=False)
-  notification: str(required=False)
+  url: str(required=True)
+  ends: str(required=True)
+  notification: str(required=True)
 
 grants-details:
-  url: str(required=False)
-  ends: str(required=False)
-  notification: str(required=False)
+  url: str(required=True)
+  ends: str(required=True)
+  notification: str(required=True)
+
+shirts-details:
+  url: str(required=True)
+  ends: str(required=True)

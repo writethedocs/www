@@ -15,6 +15,11 @@ Swapnil Ogale
 
 {% include "bios/swapnil.rst" %}
 
+Rajakavitha Kodhandapani
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+{% include "bios/rajie.rst" %}
+
 Samuel Wright
 ~~~~~~~~~~~~~~~~~~
 
@@ -25,6 +30,10 @@ Linette Voller
 
 {% include "bios/linette.rst" %}
 
+Jared Morgan
+~~~~~~~~~~~~~~~~~~
+
+{% include "bios/jared.rst" %}
 
 
 Primary Roles
@@ -33,6 +42,7 @@ Primary Roles
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
 
 * **Conference chair** - Swapnil Ogale
+* **Conference co-chair** - Rajakavitha Kodhandapani
 * **Swag coordinator** - TBA
 * **Speaker wrangler** - TBA
 * **Infrastructure chair** - Samuel Wright
