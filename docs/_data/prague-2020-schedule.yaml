@@ -29,19 +29,19 @@ talks_day1:
     title: Lunch (60 mins)
   - time: '14:45'
     title: Lightning Talks (30 mins)
-  - time: '15:15'
+  - time: '15:30'
     slug: remote-job-on-boarding-top-10-things-we-can-do-better-karen-sawrey
-  - time: '16:00'
+  - time: '16:15'
     slug: helping-your-community-contribute-to-developer-documentation-diana-lakatos
-  - time: '16:45'
+  - time: '17:00'
     slug: a-journey-to-pattern-languages-andrew-haynes
-  - time: '17:30'
+  - time: '17:45'
     slug: bake-a-little-documentation-love-into-your-product-matt-reiner
-  - time: '18:15'
+  - time: '18:30'
     title: Day 1 wraps up
-  - time: '19:00'
+  - time: '20:00'
     title: '<b>Social Event</b>'
-  - time: '21:00'
+  - time: '22:00'
     title: '<b>Social Event Ends</b>'
 
 talks_day2:
@@ -63,15 +63,15 @@ talks_day2:
     title: Lunch (60 mins)
   - time: '14:45'
     title: Lightning Talks (30 mins)
-  - time: '15:15'
+  - time: '15:30'
     title: "<b>Unconference Starts</b>"
-  - time: '15:15'
+  - time: '15:30'
     slug: need-examples-write-your-own-joe-malin
-  - time: '16:00'
+  - time: '16:15'
     slug: future-proofing-your-support-visuals-jen-weaver
-  - time: '16:45'
+  - time: '17:00'
     slug: when-wishing-still-helped-what-folklore-can-teach-us-about-technical-writing-ingrid-k-towey
-  - time: '17:30'
+  - time: '17:45'
     title: Closing address
-  - time: '18:00'
+  - time: '18:15'
     title: "<b>Conference Ends</b> :("
