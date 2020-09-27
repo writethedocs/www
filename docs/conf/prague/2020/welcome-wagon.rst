@@ -13,8 +13,7 @@ Write the Docs conference before.
 We are all first-timers at this year’s virtual conference. The Welcome
 Wagon is here for you, to help you make the most of it. We’d love to
 virtually meet you: feel free to reach out in Chat at the virtual
-conference if we can help
-make your time at the conference easier.
+conference if we can help make your time at the conference easier.
 
 .. contents:: All topics
    :local:
@@ -58,6 +57,10 @@ Conference talks and Q&A
 - There’s a talk schedule on the **Reception** page and on the `Write the Docs website <https://www.writethedocs.org/conf/prague/2020/schedule/>`__. Select the Calendar icon next to the talks you want to see on the Reception page to add them to your calendar.
 - When it’s time for a talk you want to see, select **Stage**.
 - If we have problems with our online platform, go to the `Write the Docs website <https://www.writethedocs.org/conf/prague/2020/backup-livestream/>`__ for a back-up stream. This will only be turned on if we have technical issues.
+- To attend the moderated Q&A after each talk, go to **Sessions** and select the **Q&A session**.
+  - Enter your questions into the **Chat** channel (always on the right-hand side of any page) prefixed with “Q:“, and the moderator will ask the speaker for you.
+  - Make sure the **Session** toggle is on for the Chat, so your question will be seen by the moderator.
+  - Due to time constraints, we might not be able to get to all of your questions. If your question isn’t asked live, chat with the speaker later and make a connection!
 - After a talk, feel free to tweet about it with the hashtag #writethedocs.
 - There is a lot of great information at this conference, but don’t worry if you miss something! All talks are recorded and videos will be published shortly after the conference, so you can review them later.
 
@@ -87,7 +90,7 @@ Joining an event
 
 - Once you select a session, you can either view the session and use the Chat, or select **Share Audio and Video** to participate in the session. Sessions are limited to 20 active participants, but anyone can join and view the session.
 
-Helpful Settings
+Helpful settings
 ^^^^^^^^^^^^^^^^
 
 - Select the **Video Camera** icon to turn off your video.
@@ -115,10 +118,15 @@ Unconference
 To lead an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
 - Look for an empty slot on the `Unconference sign-up <https://docs.google.com/spreadsheets/d/1IjA2yQWi1qVhopJ8PyG2obMVa5nodIRsggFSJACaWRk/edit?usp=sharing>`__, and add your Unconference topic. There will be a time and a table number for each slot.
 - When it’s time for your Unconference session to begin, go to **Sessions** and select the session that corresponds to your table number.
 - The previous unconference session will be in the same table. Let the attendees of the previous session know that their time is up, and your session will begin soon.
-- Once a group has entered your session, start the conversation!
+- Once a group has entered your session, start the conversation! Here are some tips:
+  - Avoid doing roundtable introductions. You might run out of time to actually start the conversation!
+  - Start the session with a prompt: think of a question that you have about the topic of your unconference and ask it. The conversation typically works itself out after that. If there’s a lull, ask the group if anyone else has a question to ask.
+  - Up to 20 people can join the session with audio and video, but more people than that may join your Unconference through chat. Be sure to check the session chat regularly and include people there in the conversation.
+  - Be on the lookout for people who aren’t joining in and invite them to speak. Don’t insist, if they make it clear they want to listen only.
 - When the Unconference leader for the next session enters the session, finish up your discussion to make way for the next one.
 
 To join in an unconference session
@@ -185,6 +193,19 @@ Reach out to attendees
 
 There are several ways to network using the virtual conference platform:
 
+Direct message Chat
+^^^^^^^^^^^^^^^^^^^
+
+  - You can direct message attendees by finding them on the **People** tab.
+  - To filter for Organisers or Speakers, select the **Filter** icon.
+  - You can toggle between viewing **People** (a list of attendees) and **Messages** (a list of the messages you sent and received).
+
+Event and conference-wide Chat
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+  - When you chat on any of the main pages (Reception, Sessions, Networking, and Expo, you are chatting *the entire conference*.
+  - When you attend a Session, view the main Stage, or visit an Expo booth, you’ll see a toggle for switching between conference-wide chat and event chat. When you select **Event**, you are chatting the entire conference. To chat just your session, toggle on the **Session** or **Booth** chat.
+
 Hallway sessions
 ^^^^^^^^^^^^^^^^
 
@@ -202,18 +223,13 @@ Here’s some icebreakers:
   - What is the most surprising thing that happened to you in the past week?
   - What drew you to your work?
 
-Direct message Chat
-^^^^^^^^^^^^^^^^^^^
+Small group video chats
+^^^^^^^^^^^^^^^^^^^^^^^
 
-  - You can direct message attendees by finding them on the **People** tab.
-  - To filter for Organisers or Speakers, select the **Filter** icon.
-  - You can toggle between viewing **People** (a list of attendees) and **Messages** (a list of the messages you sent and received).
+  - When you Direct message Chat another attendee, you’ll see a button for starting 1:1 video chat.
+  - You can start a 1:1 video chat with one person and then send the link to up to two other people, to start a 4-person video chat.
+  - This is a great way to continue a conversation that started in an Unconference or Hallway session.
 
-Event and conference-wide Chat
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-  - When you chat on any of the main pages (Reception, Sessions, Networking, and Expo, you are chatting *the entire conference*.
-  - When you attend a Session, view the main Stage, or visit an Expo booth, you’ll see a toggle for switching between conference-wide chat and event chat. When you select **Event**, you are chatting the entire conference. To chat just your session, toggle on the **Session** or **Booth** chat.
 
 Pro Tips
 --------
