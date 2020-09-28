@@ -192,15 +192,15 @@ There are several ways to network using the virtual conference platform:
 Direct message Chat
 ^^^^^^^^^^^^^^^^^^^
 
-  - You can direct message attendees by finding them on the **People** tab.
-  - To filter for Organisers or Speakers, select the **Filter** icon.
-  - You can toggle between viewing **People** (a list of attendees) and **Messages** (a list of the messages you sent and received).
+- You can direct message attendees by finding them on the **People** tab.
+- To filter for Organisers or Speakers, select the **Filter** icon.
+- You can toggle between viewing **People** (a list of attendees) and **Messages** (a list of the messages you sent and received).
 
 Event and conference-wide Chat
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  - When you chat on any of the main pages (Reception, Sessions, Networking, and Expo, you are chatting *the entire conference*.
-  - When you attend a Session, view the main Stage, or visit an Expo booth, you’ll see a toggle for switching between conference-wide chat and event chat. When you select **Event**, you are chatting the entire conference. To chat just your session, toggle on the **Session** or **Booth** chat.
+- When you chat on any of the main pages (Reception, Sessions, Networking, and Expo, you are chatting *the entire conference*.
+- When you attend a Session, view the main Stage, or visit an Expo booth, you’ll see a toggle for switching between conference-wide chat and event chat. When you select **Event**, you are chatting the entire conference. To chat just your session, toggle on the **Session** or **Booth** chat.
 
 Hallway sessions
 ^^^^^^^^^^^^^^^^
@@ -210,21 +210,21 @@ You can join with your own audio and video, or chat only.
 
 Here’s some icebreakers:
 
-  - What are you reading for fun right now?
-  - Have you found a website that makes you happy during social isolation?
-  - If you could start a business, what would it be?
-  - What is the best vacation you’ve ever been on?
-  - Are you working on any passion projects right now?
-  - What are your favorite podcasts?
-  - What is the most surprising thing that happened to you in the past week?
-  - What drew you to your work?
+- What are you reading for fun right now?
+- Have you found a website that makes you happy during social isolation?
+- If you could start a business, what would it be?
+- What is the best vacation you’ve ever been on?
+- Are you working on any passion projects right now?
+- What are your favorite podcasts?
+- What is the most surprising thing that happened to you in the past week?
+- What drew you to your work?
 
 Small group video chats
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-  - When you Direct message Chat another attendee, you’ll see a button for starting 1:1 video chat.
-  - You can start a 1:1 video chat with one person and then send the link to up to two other people, to start a 4-person video chat.
-  - This is a great way to continue a conversation that started in an Unconference or Hallway session.
+- When you Direct message Chat another attendee, you’ll see a button for starting 1:1 video chat.
+- You can start a 1:1 video chat with one person and then send the link to up to two other people, to start a 4-person video chat.
+- This is a great way to continue a conversation that started in an Unconference or Hallway session.
 
 
 Pro Tips
