@@ -41,7 +41,7 @@ Reducing bias in your writing asks you to consider the meanings and origins of y
 
 And providing a wide range of example names from a diversity of cultural backgrounds can also help reduce bias in your documentation.
 
-### Writing for accesssibility
+### Writing for accessibility
 
 - [MailChimp's writing style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
 - [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
@@ -62,6 +62,8 @@ Relevant talks from Write the Docs:
 - [Linguistic Society of America Guidelines for Inclusive Language](https://www.linguisticsociety.org/resource/guidelines-inclusive-language)
 - [Linguistic Society of America Additional Inclusive Language Resources](https://www.linguisticsociety.org/content/further-content-related-inclusive-language-guidelines)
 - [Microsoft Style Guide on Bias Free Communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
+- [Internet Engineering Task Force (IETF) on Terminology, Power, and Oppressive Language](https://tools.ietf.org/id/draft-knodel-terminology-00.html)
+- [American Psychological Association (APA)'s Guide on Bias-Free Language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/)
 
 ### Providing inclusive example names
 
