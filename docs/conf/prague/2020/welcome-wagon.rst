@@ -13,7 +13,7 @@ Write the Docs conference before.
 We are all first-timers at this year’s virtual conference. The Welcome
 Wagon is here for you, to help you make the most of it. We’d love to
 virtually meet you: feel free to reach out in Chat at the virtual
-conference if we can help make your time at the conference easier.
+conference if we can help make your time at the conference easier. You can also email us at {{ shortcode }}@writethedocs.org.
 
 .. contents:: All topics
    :local:
