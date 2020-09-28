@@ -24,11 +24,11 @@ talks_day1:
   - time: '12:15'
     slug: documenting-the-ancient-history-of-your-project-natali-vlatko
   - time: '13:00'
-    slug: the-baseline-or-technical-writing-for-non-technical-readers-paul-brown
-  - time: '13:45'
     title: Lunch (60 mins)
-  - time: '14:45'
+  - time: '14:00'
     title: Lightning Talks (30 mins)
+  - time: '14:45'
+    slug: the-baseline-or-technical-writing-for-non-technical-readers-paul-brown
   - time: '15:30'
     slug: remote-job-on-boarding-top-10-things-we-can-do-better-karen-sawrey
   - time: '16:15'
@@ -58,11 +58,11 @@ talks_day2:
   - time: '12:15'
     slug: emulating-the-teacher-s-approving-nod-in-teaching-material-tanks-transfeld
   - time: '13:00'
-    slug: how-to-be-an-avante-garde-guinea-pig-building-better-content-through-experimentation-community-building-and-loud-squeaks-jessica-valasek-estenssoro
-  - time: '13:45'
     title: Lunch (60 mins)
-  - time: '14:45'
+  - time: '14:00'
     title: Lightning Talks (30 mins)
+  - time: '14:45'
+    slug: how-to-be-an-avante-garde-guinea-pig-building-better-content-through-experimentation-community-building-and-loud-squeaks-jessica-valasek-estenssoro
   - time: '15:30'
     title: "<b>Unconference Starts</b>"
   - time: '15:30'
