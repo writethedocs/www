@@ -57,20 +57,16 @@ Conference talks and Q&A
 - There’s a talk schedule on the **Reception** page and on the `Write the Docs website <https://www.writethedocs.org/conf/prague/2020/schedule/>`__. Select the Calendar icon next to the talks you want to see on the Reception page to add them to your calendar.
 - When it’s time for a talk you want to see, select **Stage**.
 - If we have problems with our online platform, go to the `Write the Docs website <https://www.writethedocs.org/conf/prague/2020/backup-livestream/>`__ for a back-up stream. This will only be turned on if we have technical issues.
-- To attend the moderated Q&A after each talk, go to **Sessions** and select the **Q&A session**.
-  - Enter your questions into the **Chat** channel (always on the right-hand side of any page) prefixed with “Q:“, and the moderator will ask the speaker for you.
-  - Make sure the **Session** toggle is on for the Chat, so your question will be seen by the moderator.
-  - Due to time constraints, we might not be able to get to all of your questions. If your question isn’t asked live, chat with the speaker later and make a connection!
 - After a talk, feel free to tweet about it with the hashtag #writethedocs.
 - There is a lot of great information at this conference, but don’t worry if you miss something! All talks are recorded and videos will be published shortly after the conference, so you can review them later.
 
 Asking questions
 ~~~~~~~~~~~~~~~~
 
-Stick around the **Stage** after each talk for a 10-minute, moderated Q&A.
+To attend the moderated Q&A after each talk, go to **Sessions** and select the **Q&A session**.
 
 - Enter your questions into the **Chat** channel (always on the right-hand side of any page) prefixed with “Q:“, and the moderator will ask the speaker for you.
-- Make sure the **Stage** toggle is on for the Chat, so your question will be seen by the moderator.
+- Make sure the **Session** toggle is on for the Chat, so your question will be seen by the moderator.
 - Due to time constraints, we might not be able to get to all of your questions. If your question isn’t asked live, chat with the speaker later and make a connection!
 
 Participate in the conference
