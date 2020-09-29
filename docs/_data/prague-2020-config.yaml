@@ -155,7 +155,7 @@ flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
-flaghasschedule: False
+flaghasschedule: True
 flagvideos: False
 flaglivestreaming: False
 flagpostconf: False
