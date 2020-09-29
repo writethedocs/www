@@ -67,9 +67,10 @@ Relevant talks from Write the Docs:
 
 ### Providing inclusive example names
 
-- Wikipedia's lists of [most common forenames](https://en.wikipedia.org/wiki/List_of_most_popular_given_names>) and [most common surnames](https://en.wikipedia.org/wiki/Lists_of_most_common_surnames) by region.
+- Wikipedia's lists of [most common forenames](https://en.wikipedia.org/wiki/List_of_most_popular_given_names) and [most common surnames](https://en.wikipedia.org/wiki/Lists_of_most_common_surnames) by region.
 - [Splunk style guide on example names](https://docs.splunk.com/Documentation/StyleGuide/current/StyleGuide/Domains)
 - [Behind the Name - name generator](https://www.behindthename.com/random/)
+- [The Story Shack - name generators](https://thestoryshack.com/tools/)
 
 ## Developer documentation and APIs
 
@@ -113,8 +114,8 @@ Projects such as [Spring REST Docs](https://spring.io/projects/spring-restdocs) 
 
 #### API resources
 
-- [PayPal's API Design Guidelines](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
-- [Microsoft's REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
+- <a href="https://github.com/paypal/api-standards/blob/master/api-style-guide.md">PayPal's API Design Guidelines</a>
+- <a href="https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md">Microsoft's REST API Guidelines</a>
 - [Documenting APIs: a guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
 - [The Ten Essentials for Good API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation/) by A List Apart
 
