@@ -1,7 +1,7 @@
 - title: Everyone's a player (in a mid-90s MUD)
   slug: everyone-s-a-player-in-a-mid-90s-mud-kenzie-woodbridge
   series: Write the Docs Australia
-  series_slug: prague
+  series_slug: australia
   year: 2020
   speakers:
   - name: Kenzie Woodbridge
@@ -15,7 +15,7 @@
 - title: How (and why) to make awesome video tutorials
   slug: how-and-why-to-make-awesome-video-tutorials-sayraphim-lothian
   series: Write the Docs Australia
-  series_slug: prague
+  series_slug: australia
   year: 2020
   speakers:
   - name: Sayraphim Lothian
@@ -39,7 +39,7 @@
 - title: Overcoming the Plight of Lone Writers
   slug: overcoming-the-plight-of-lone-writers-ankita-tripathi
   series: Write the Docs Australia
-  series_slug: prague
+  series_slug: australia
   year: 2020
   speakers:
   - name: Ankita Tripathi
@@ -61,26 +61,31 @@
     And, the importance of community welfare\nThe presentation would be crisp, loaded
     with insights, and a bag full of takeaways.</p>"
 - title: Legacy content from various perspectives
-  slug: legacy-content-from-various-perspectives-marcelina
+  slug: legacy-content-from-various-perspectives-marcelina-haftka
   series: Write the Docs Australia
-  series_slug: prague
+  series_slug: australia
   year: 2020
   speakers:
-  - name: Marcelina
-    slug: marcelina
+  - name: Marcelina Haftka
+    slug: marcelina-haftka
     twitter: 
     website: http://www.linkedin.com/in/marcelinahaftka/
-  abstract: <p>Having worked in the localisation industry for many years, I can see
+  abstract: '<p>Having worked in the localisation industry for many years, I can see
     how various stakeholders have different approaches to the legacy content. I am
     a translator and a technical writer myself, and my approach has also changed.</p>
+
+    <p>I would like to present the reasons why we should and shouldn''t keep the legacy
+    content and what to do if we decide to keep it. I aim to speak about translator''s,
+    technical writer''s, and product owner''s perspective (and probably some other
+    perspectives, as well).</p>'
 - title: 5 things I learned from my first open source contribution
-  slug: 5-things-i-learned-from-my-first-open-source-contribution-andrea
+  slug: 5-things-i-learned-from-my-first-open-source-contribution-andrea-sz-ll-ssi
   series: Write the Docs Australia
-  series_slug: prague
+  series_slug: australia
   year: 2020
   speakers:
-  - name: Andrea
-    slug: andrea
+  - name: Andrea Szöllössi
+    slug: andrea-sz-ll-ssi
     twitter: '@TheBraveGrape'
     website: 
   abstract: '<p>When the pandemic hit and lockdown started, I finally found the time
@@ -130,7 +135,7 @@
 - title: A treasure map for the doc – Exploring the discoverability of documentation
   slug: a-treasure-map-for-the-doc-exploring-the-discoverability-of-documentation-marika-vertzonis
   series: Write the Docs Australia
-  series_slug: prague
+  series_slug: australia
   year: 2020
   speakers:
   - name: Marika Vertzonis
@@ -154,13 +159,13 @@
     of our doc, we need to guide them towards that small gem of information that they
     need. What they need is a treasure map to get to that gem!</p>'
 - title: 'When Agile Fails: Working on Large Documentation Projects'
-  slug: when-agile-fails-working-on-large-documentation-projects-loquacity
+  slug: when-agile-fails-working-on-large-documentation-projects-lana-brindley
   series: Write the Docs Australia
-  series_slug: prague
+  series_slug: australia
   year: 2020
   speakers:
-  - name: Loquacity
-    slug: loquacity
+  - name: Lana Brindley
+    slug: lana-brindley
     twitter: Loquacities
     website: http://lanabrindley.com
   abstract: <p>We all age. Some more gracefully than others. Our documentation ages,
@@ -172,7 +177,7 @@
 - title: 'Onboard yourself: How to get set-up for success in a new role'
   slug: onboard-yourself-how-to-get-set-up-for-success-in-a-new-role-michael-belton
   series: Write the Docs Australia
-  series_slug: prague
+  series_slug: australia
   year: 2020
   speakers:
   - name: Michael Belton
@@ -209,7 +214,7 @@
 - title: An introduction to developer experience, and the role of a documentarian
   slug: an-introduction-to-developer-experience-and-the-role-of-a-documentarian-chris-ward
   series: Write the Docs Australia
-  series_slug: prague
+  series_slug: australia
   year: 2020
   speakers:
   - name: Chris Ward
@@ -221,7 +226,7 @@
 - title: 'Content strategy in practice: a case study'
   slug: content-strategy-in-practice-a-case-study-sam-irons
   series: Write the Docs Australia
-  series_slug: prague
+  series_slug: australia
   year: 2020
   speakers:
   - name: Sam Irons
@@ -240,7 +245,7 @@
 - title: 'Microcontent: Designing & Developing Reusable Content'
   slug: microcontent-designing-developing-reusable-content-scott-deloach
   series: Write the Docs Australia
-  series_slug: prague
+  series_slug: australia
   year: 2020
   speakers:
   - name: Scott DeLoach
@@ -255,7 +260,7 @@
 - title: 'Little words, big ideas: How to write microcopy that works'
   slug: little-words-big-ideas-how-to-write-microcopy-that-works-yael-ben-david
   series: Write the Docs Australia
-  series_slug: prague
+  series_slug: australia
   year: 2020
   speakers:
   - name: Yael Ben-David
@@ -295,7 +300,7 @@
 - title: Storytelling for Technical Products - What We Can Learn from Lego and Pixar
   slug: storytelling-for-technical-products-what-we-can-learn-from-lego-and-pixar-akshay-iyer
   series: Write the Docs Australia
-  series_slug: prague
+  series_slug: australia
   year: 2020
   speakers:
   - name: Akshay Iyer
@@ -309,13 +314,13 @@
     that helped improve product adoption and changed the perception of the value of
     documentation.</p>
 - title: Influence your customer outreach with best practices for internationalization
-  slug: influence-your-customer-outreach-with-best-practices-for-internationalization-vicky
+  slug: influence-your-customer-outreach-with-best-practices-for-internationalization-vikram-mulay
   series: Write the Docs Australia
-  series_slug: prague
+  series_slug: australia
   year: 2020
   speakers:
-  - name: Vicky
-    slug: vicky
+  - name: Vikram Mulay
+    slug: vikram-mulay
     twitter: 
     website: www.linkedin.com/in/vikramcmulay
   abstract: '<p>Great localized content begins with a great copy! However, designing
@@ -339,7 +344,7 @@
     world'
   slug: the-pains-of-composition-how-to-write-your-best-documentation-in-a-collaborative-world-matt-reiner
   series: Write the Docs Australia
-  series_slug: prague
+  series_slug: australia
   year: 2020
   speakers:
   - name: Matt Reiner
