@@ -39,6 +39,10 @@ Message Organisers
 ~~~~~~~~~~~~~~~~~~
 
 Go to the **People** tab, select the **Filter** icon, and select **Organisers**. Select an Organiser and start typing your question.
+Slack
+~~~~~
+
+We'll also be posting the important conference updates on the `#wtd-conferences channel in Slack`. For example, if there are technical issues, we'll share the back-up stream link there as well.
 
 Reception: Your home base
 -------------------------
