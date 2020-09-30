@@ -38,7 +38,8 @@ If you still have questions, reach out to us at the Helpdesk any time. Select **
 Message Organisers
 ~~~~~~~~~~~~~~~~~~
 
-Go to the **People** tab, select the **Filter** icon, and select **Organisers**. Select an Organiser and start typing your question.
+Go to the **People** tab, select the **Filter** icon, and select **Organisers**. Select an Organiser and start typing your question. You can also email us at {{ shortcode }}@writethedocs.org.
+
 Slack
 ~~~~~
 
