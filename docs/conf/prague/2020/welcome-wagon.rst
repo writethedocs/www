@@ -33,9 +33,9 @@ You can also watch the video at any time directly from our `YouTube channel <htt
 Helpdesk
 ~~~~~~~~
 
-If you still have questions, reach out to us at the Helpdesk any time. Select **Expo** > **Helpdesk** > **Chat** and enter your question. A member of the Welcome Wagon will be online during conference hours to help you.
+If you still have questions, reach out to us at the Helpdesk anytime. Select **Expo** > **Helpdesk** > **Chat** and enter your question. A member of the Welcome Wagon will be online during conference hours to help you.
 
-Message Organisers
+Message organisers
 ~~~~~~~~~~~~~~~~~~
 
 Go to the **People** tab, select the **Filter** icon, and select **Organisers**. Select an Organiser and start typing your question. You can also email us at {{ shortcode }}@writethedocs.org.
@@ -79,15 +79,15 @@ Participate in the conference
 
 The schedule is built around **sessions**. Almost all of the in-person interactions you’ll have at the virtual conference will be through sessions. Learn how to find and participate in sessions, and use these lessons for attending Writing Day, Unconference, Job Fair, and Monday night Social events.
 
-Finding events to participate in
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Find events to participate in
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - You can view the schedule on the **Reception** page. You can also browse a list of events by selecting **Sessions**.
 - When you select an event in the schedule, like a Writing Day or Unconference session, you are directed to the **Sessions** page.
 - Once you are on the **Sessions** page, select the session you want to attend.
 
-Joining an event
-~~~~~~~~~~~~~~~~
+Join an event
+~~~~~~~~~~~~~
 
 - Once you select a session, you can either view the session and use the Chat, or select **Share Audio and Video** to participate in the session. Sessions are limited to 20 active participants, but anyone can join and view the session.
 
@@ -116,8 +116,8 @@ Unconference
 - The Unconference is a set of informal sessions that take place all day Monday and Tuesday afternoon. `Unconference talks focus on conversations and exchanges of ideas between participants. <https://www.writethedocs.org/conf/prague/2020/unconference/>`__
 - You can attend unconference sessions, or, if you have an idea for a session, you can lead one. Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
 
-To lead an unconference session
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lead an unconference session
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
 - Look for an empty slot on the `Unconference sign-up <https://docs.google.com/spreadsheets/d/1IjA2yQWi1qVhopJ8PyG2obMVa5nodIRsggFSJACaWRk/edit?usp=sharing>`__, and add your Unconference topic. There will be a time and a table number for each slot.
@@ -134,8 +134,8 @@ Tips for your unconference session
 - Up to 20 people can join the session with audio and video, but more people than that may join your Unconference through chat. Be sure to check the session chat regularly and include people there in the conversation.
 - Be on the lookout for people who aren’t joining in and invite them to speak. Don’t insist, if they make it clear they want to listen only.
 
-To join in an unconference session
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Join an unconference session
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Starting Monday morning, check the `Unconference schedule <https://docs.google.com/spreadsheets/d/e/2PACX-1vTnTF98Sa8kqGT8G7zY3g8kTaEF1AqB8P5EfVJbz305s2BelEZo_rMpQzMIcL5Dfe7Ywfvy1ApHGp0Q/pubhtml>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
 - At the time the session starts, go to **Sessions** and select the session with the table number that corresponds to the one in the `Unconference schedule <https://docs.google.com/spreadsheets/d/e/2PACX-1vTnTF98Sa8kqGT8G7zY3g8kTaEF1AqB8P5EfVJbz305s2BelEZo_rMpQzMIcL5Dfe7Ywfvy1ApHGp0Q/pubhtml>`__.
@@ -162,7 +162,7 @@ Sponsor booths
 
 Select **Expo** to view Sponsor booths. Sponsors might have videos you can watch, information to review on the **Booth** tab, and people you can talk to on the **Chat** tab. Visiting Sponsor booths is a great way to make connections!
 
-Monday Social
+Monday social
 -------------
 
 The Monday night Social will be designed by you this year! You can host a session and meet fellow attendees for a video social event or you can attend a social event set up by someone else.
@@ -236,7 +236,7 @@ Small group video chats
 - This is a great way to continue a conversation that started in an Unconference or Hallway session.
 
 
-Pro Tips
+Pro tips
 --------
 
 - Conferences are exhilarating, but can also be exhausting. Give your brain a break! Grab a quiet spot or take a quick walk. Play a board game on your lunch break. Come back invigorated.
