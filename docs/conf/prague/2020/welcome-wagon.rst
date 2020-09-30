@@ -15,7 +15,7 @@ Wagon is here for you, to help you make the most of it. We’d love to
 virtually meet you: feel free to reach out in Chat at the virtual
 conference if we can help make your time at the conference easier. You can also email us at {{ shortcode }}@writethedocs.org.
 
-.. contents:: All topics
+.. contents::
    :local:
    :depth: 1
    :backlinks: none
