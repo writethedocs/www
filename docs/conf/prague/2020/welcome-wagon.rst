@@ -118,12 +118,16 @@ To lead an unconference session
 - Look for an empty slot on the `Unconference sign-up <https://docs.google.com/spreadsheets/d/1IjA2yQWi1qVhopJ8PyG2obMVa5nodIRsggFSJACaWRk/edit?usp=sharing>`__, and add your Unconference topic. There will be a time and a table number for each slot.
 - When it’s time for your Unconference session to begin, go to **Sessions** and select the session that corresponds to your table number.
 - The previous unconference session will be in the same table. Let the attendees of the previous session know that their time is up, and your session will begin soon.
-- Once a group has entered your session, start the conversation! Here are some tips:
-  - Avoid doing roundtable introductions. You might run out of time to actually start the conversation!
-  - Start the session with a prompt: think of a question that you have about the topic of your unconference and ask it. The conversation typically works itself out after that. If there’s a lull, ask the group if anyone else has a question to ask.
-  - Up to 20 people can join the session with audio and video, but more people than that may join your Unconference through chat. Be sure to check the session chat regularly and include people there in the conversation.
-  - Be on the lookout for people who aren’t joining in and invite them to speak. Don’t insist, if they make it clear they want to listen only.
+- Once a group has entered your session, start the conversation!
 - When the Unconference leader for the next session enters the session, finish up your discussion to make way for the next one.
+
+Tips for your unconference session
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Avoid doing roundtable introductions. You might run out of time to actually start the conversation!
+- Start the session with a prompt: think of a question that you have about the topic of your unconference and ask it. The conversation typically works itself out after that. If there’s a lull, ask the group if anyone else has a question to ask.
+- Up to 20 people can join the session with audio and video, but more people than that may join your Unconference through chat. Be sure to check the session chat regularly and include people there in the conversation.
+- Be on the lookout for people who aren’t joining in and invite them to speak. Don’t insist, if they make it clear they want to listen only.
 
 To join in an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
