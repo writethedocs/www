@@ -1,11 +1,11 @@
 :template: {{year}}/generic.html
 
-.. post:: October 1, 2020
+.. post:: September 30, 2020
    :tags: australia-2020, speakers, tickets, visiting, sponsors
 
 Announcing speakers
 ===================
-  
+
 Hello! We are here with an update on the online Australia and India conference!
 
 To start off, we're delighted to announce that we've finalised our speakers for the event!
