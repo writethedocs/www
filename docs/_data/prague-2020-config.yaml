@@ -126,7 +126,10 @@ about:
 
 
 sponsors:
-  publisher:
+  keystone:
+    - name: google
+      link: https://www.google.com/
+      brand: Google
   second:
     - name: redhat-new
       link: https://www.redhat.com/
