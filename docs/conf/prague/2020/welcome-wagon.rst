@@ -43,7 +43,7 @@ Go to the **People** tab, select the **Filter** icon, and select **Organisers**.
 Slack
 ~~~~~
 
-We'll also be posting the important conference updates on the `#wtd-conferences channel in Slack`. For example, if there are technical issues, we'll share the back-up stream link there as well.
+We'll also be posting the important conference updates on the `#wtd-conferences channel in Slack <https://writethedocs.slack.com/archives/C1AKFQATH>`_. For example, if there are technical issues, we'll share the back-up stream link there as well.
 
 Reception: Your home base
 -------------------------
@@ -243,4 +243,4 @@ Pro tips
 
 - Find out who is attending the conference before you attend. Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__, and review the `list of speakers <https://www.writethedocs.org/conf/prague/2020/speakers/>`__.
 
-- In case of technical issues with our main platform Hopin, please watch the #wtd-conference Slack channel for status updates and alternative viewing links that might be posted.
+- In case of technical issues with our main platform Hopin, please watch the `#wtd-conferences Slack channel <https://writethedocs.slack.com/archives/C1AKFQATH>`_ for status updates and alternative viewing links that might be posted.
