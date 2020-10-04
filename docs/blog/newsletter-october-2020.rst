@@ -7,7 +7,7 @@ Write the Docs Newsletter – October 2020
 
 Hi everyone - it’s Beth A and the newsletter team here, back from our summer break. I hope you’ve all had a chance to take a break too recently; I’m feeling the need for time off more than ever.
 
-But there’s plenty to look forward to in the world of documentation! It’s just a few short weeks until our second virtual conference of the year - `"Prague" </conf/prague/2020/>`__, or more accurately, the one in `CEST <https://time.is/CEST>`__". The `speaker list </conf/prague/2020/speakers/>`__ is out and looking great, so do `grab a ticket </conf/prague/2020/tickets/>`__ while they’re still available! I’ll be helping out on the `Welcome Wagon </conf/prague/2020/welcome-wagon/>`__, so if you’re attending the conference, please do say hi - I’d love to meet you.
+But there’s plenty to look forward to in the world of documentation! It’s just a few short weeks until our second virtual conference of the year - `"Prague" </conf/prague/2020/>`__, or more accurately, "the one in `CEST <https://time.is/CEST>`__". The `speaker list </conf/prague/2020/speakers/>`__ is out and looking great, so do `grab a ticket </conf/prague/2020/tickets/>`__ while they’re still available! I’ll be helping out on the `Welcome Wagon </conf/prague/2020/welcome-wagon/>`__, so if you’re attending the conference, please do say hi - I’d love to meet you.
 
 And if the Europe and America conferences weren’t in good time zones for you, fear not: our last conference of the year is for you! The `America and India conference </conf/australia/2020/>`__ (that’s in `AEDT <http://time.is/AEDT>`__) will be on 3-4 December, and we’ve just announced `the speaker line-up </conf/australia/2020/news/announcing-speakers/>`__.
 
