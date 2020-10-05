@@ -7,7 +7,7 @@ Write the Docs Newsletter – October 2020
 
 Hi everyone - it’s Beth A and the newsletter team here, back from our summer break. I hope you’ve all had a chance to take a break too recently; I’m feeling the need for time off more than ever.
 
-But there’s plenty to look forward to in the world of documentation! It’s just a few short weeks until our second virtual conference of the year - `"Prague" </conf/prague/2020/>`__, or more accurately, "the one in `CEST <https://time.is/CEST>`__". The `speaker list </conf/prague/2020/speakers/>`__ is out and looking great, so do `grab a ticket </conf/prague/2020/tickets/>`__ while they’re still available! I’ll be helping out on the `Welcome Wagon </conf/prague/2020/welcome-wagon/>`__, so if you’re attending the conference, please do say hi - I’d love to meet you.
+But there’s plenty to look forward to in the world of documentation! It’s just a few short weeks until our second virtual conference of the year - `"Prague" </conf/prague/2020/>`__, or more accurately, "the one in `CEST <https://time.is/CEST>`__". The `speaker list </conf/prague/2020/speakers/>`__ is out and looking great, so do `grab a ticket </conf/prague/2020/tickets/>`__ while they’re still available! (Ticket sales will close about a week before the conference.) I’ll be helping out on the `Welcome Wagon </conf/prague/2020/welcome-wagon/>`__, so if you’re attending the conference, please do say hi - I’d love to meet you.
 
 And if the Europe and America conferences weren’t in good time zones for you, fear not: our last conference of the year is for you! The `America and India conference </conf/australia/2020/>`__ (that’s in `AEDT <http://time.is/AEDT>`__) will be on 3-4 December, and we’ve just announced `the speaker line-up </conf/australia/2020/news/announcing-speakers/>`__.
 
@@ -59,7 +59,7 @@ At the page level, it’s about making pages scannable. You can break them up in
 
 For a doc set, how do you make it easy for readers to find what they need? People search for information in different ways: some stick to Google or the site search, some scan and click around. It helps to talk to your users to find out, but you can’t expect them all to work the same way. And we have to be aware that our personal preferences don’t necessarily match those of our readers.
 
-A big point of discussion was on how to divvy up pages. At one extreme is individual short pages for each topic (About the Feature, Using the Feature, Reference for the Feature...). It can mean more clicking around, but DMMT suggests: "It doesn’t matter how many times I have to click as long as every click is a mindless, unambiguous choice."
+A big point of discussion was on how to divvy up pages. At one extreme is individual short pages for each topic (About the Feature, Using the Feature, Reference for the Feature...). It can mean more clicking around, but *Don't Make Me Think* suggests: "It doesn’t matter how many times I have to click as long as every click is a mindless, unambiguous choice."
 
 The other extreme is to have everything on one page, and a table of contents to let readers skim and skip through, like the `Asciidoctor manual <https://asciidoctor.org/docs/user-manual/#glossary>`__. 
 
