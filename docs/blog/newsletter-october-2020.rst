@@ -35,7 +35,7 @@ This fall, we fell into a discussion of role-based docs versus topic-based docs,
 
 With role-based docs, users may spend too much time identifying which type of user you consider them to be. And once they do identify their type, the docs can end up resembling a training course more than a documentation set. A single user can wear many hats, and they then end up needing to jump around more in the docs to do their work; there’s more in `this article from the Nielsen Norman Group <https://www.nngroup.com/articles/audience-based-navigation/>`__. Topic-based docs can allow users to easily go to the topic with the information they need - as long as they can actually find the right topic in the group of topics. 
 
-A sensible way forward can be to combine both ideas. For example, providing a list of links to topics associated with a role; or allowing a user to filter a list of topics by role. It also depends a lot on your specific product, and the audience for it: role-based docs may work well for some products, while topic-based docs may be just the thing for others.
+A sensible way forward can be to combine both ideas: for example, providing a list of links to topics associated with a role; or allowing a user to filter a list of topics by role. It also depends a lot on your specific product, and the audience for it: role-based docs may work well for some products, while topic-based docs may be just the thing for others.
 
 -----------------------
 Command prompts in docs
@@ -43,10 +43,10 @@ Command prompts in docs
 
 Command prompts in docs can be useful visual cues for developers - they provide the context in which to run each command. They also show at a glance that the snippet displays a terminal command and not something else, like a config file. But to avoid mistakes during copying and pasting, our community has these suggestions on integrating the prompt character in documentation:
 
-* Do include prompts if the user modes change or are otherwise relevant to the instructions.
-* Do include prompts for multiple commands in the same snippet, but you might want to avoid prompts for single-line snippets.
+* Include prompts if the user modes change or are otherwise relevant to the instructions.
+* Include prompts for multiple commands in the same snippet, but consider avoiding prompts for single-line snippets.
 * Don’t include the command prompt in the same box as the output.
-* Make a clear distinction between the command and output. For example, by separating them into different listings with labels and distinguishing the prompt by color.
+* Make a clear distinction between the command and output. For example, separate them into different listings with labels and distinguish the prompt by color.
 * If you don’t want the prompt character to be copyable, try the user-select css property. Or, if you have control over its behaviour, have the copy button in the snippet ignore the prompt character.
 
 ------------------------------------------
@@ -61,7 +61,7 @@ For a doc set, how do you make it easy for readers to find what they need? Peopl
 
 A big point of discussion was on how to divvy up pages. At one extreme is individual short pages for each topic (About the Feature, Using the Feature, Reference for the Feature...). It can mean more clicking around, but DMMT suggests: "It doesn’t matter how many times I have to click as long as every click is a mindless, unambiguous choice."
 
-The other extreme is to have everything on one page, and a table of contents to let readers skim and skip through. For example, like the `Asciidoctor manual <https://asciidoctor.org/docs/user-manual/#glossary>`__. 
+The other extreme is to have everything on one page, and a table of contents to let readers skim and skip through, like the `Asciidoctor manual <https://asciidoctor.org/docs/user-manual/#glossary>`__. 
 
 There’s no best answer here. It’s a tradeoff between scrolling/ctrl+F vs clicking/searching to find what you need. And it depends on who you’re optimising for. For new users, a huge page can be overwhelming and intimidating; you don’t know what’s important and what you can skip. But once you’ve gotten used to the content, if you’re going to refer back to it a lot, one page can be pretty convenient.
 
@@ -82,7 +82,7 @@ This month’s newsletter is sponsored by Microsoft:
           <td width="75%">
               <p>
 
-              LWant the simplicity of a source code editor with powerful developer tooling?  Try the lightning fast, lightweight, massively customizeable editor that is taking the world by storm.  Did we mention it’s free and supports MacOS, Linux, and Windows?  To learn more and grab your copy, head here: <a href="https://code.visualstudio.com/docs/editor/whyvscode">https://code.visualstudio.com/docs/editor/whyvscode</a>.
+              Want the simplicity of a source code editor with powerful developer tooling?  Try the lightning-fast, lightweight, massively customizable editor that is taking the world by storm.  Did we mention it’s free and supports MacOS, Linux, and Windows?  To learn more and grab your copy, head here: <a href="https://code.visualstudio.com/docs/editor/whyvscode">https://code.visualstudio.com/docs/editor/whyvscode</a>.
               </p>
           </td>
           <td width="25%">
