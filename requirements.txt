@@ -16,7 +16,7 @@ markdown==3.2.2
 ruamel.yaml==0.16.12
 lxml==4.5.2
 # For emoji
-sphinxemoji==0.1.6
+sphinxemoji==0.1.7
 # For atom feed support
 Werkzeug==0.16.1 # pyup: <1.0
 # For fancy 404 pages
