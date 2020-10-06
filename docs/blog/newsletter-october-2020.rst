@@ -13,9 +13,9 @@ And if the Europe and America conferences weren’t in good time zones for you, 
 
 Finally, a request. Like we did `last year </surveys/salary-survey/2019/>`__, we’re running an anonymous salary survey, to help the community understand the pay scales and benefits in the software industry around documentation. We’d absolutely love it if you could fill it in; it’s open until Monday 16 November. `Find out more here </surveys/salary-survey-sep-2020/>`__.
 
-------------------------------------
+-------------------------------------
 Learning regular expressions (regex)
-------------------------------------
+-------------------------------------
 
 When a documentarian asked if there is an automated way to update links from one format to another, the WTD Slack community replied, "Yes: regex!" A `regular expression <https://en.wikipedia.org/wiki/Regular_expression>`__, shortened to regex, is a sequence of characters that represent a search pattern. The specific sequence depends on the search you want to perform. Regexes are handy for finding and replacing text, finding typographical errors or misspellings, creating link redirects for multiple versions of docs, and similar tasks. A very basic regex is `[abc]`, which will find any character between the brackets -- a, b, or c -- no matter where the characters fall within the text you're searching.
 
