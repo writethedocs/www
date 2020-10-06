@@ -9,13 +9,13 @@ Hi everyone - it’s Beth A and the newsletter team here, back from our summer b
 
 But there’s plenty to look forward to in the world of documentation! It’s just a few short weeks until our second virtual conference of the year - `"Prague" </conf/prague/2020/>`__, or more accurately, "the one in `CEST <https://time.is/CEST>`__". The `speaker list </conf/prague/2020/speakers/>`__ is out and looking great, so do `grab a ticket </conf/prague/2020/tickets/>`__ while they’re still available! (Ticket sales will close about a week before the conference.) I’ll be helping out on the `Welcome Wagon </conf/prague/2020/welcome-wagon/>`__, so if you’re attending the conference, please do say hi - I’d love to meet you.
 
-And if the Europe and America conferences weren’t in good time zones for you, fear not: our last conference of the year is for you! The `America and India conference </conf/australia/2020/>`__ (that’s in `AEDT <http://time.is/AEDT>`__) will be on 3-4 December, and we’ve just announced `the speaker line-up </conf/australia/2020/news/announcing-speakers/>`__.
+And if the Europe and America conferences weren’t in good time zones for you, fear not: our last conference of the year is for you! The `Australia and India conference </conf/australia/2020/>`__ (that’s in `AEDT <http://time.is/AEDT>`__) will be on 3-4 December, and we’ve just announced `the speaker line-up </conf/australia/2020/news/announcing-speakers/>`__.
 
 Finally, a request. Like we did `last year </surveys/salary-survey/2019/>`__, we’re running an anonymous salary survey, to help the community understand the pay scales and benefits in the software industry around documentation. We’d absolutely love it if you could fill it in; it’s open until Monday 16 November. `Find out more here </surveys/salary-survey-sep-2020/>`__.
 
-------------------------------------
+-------------------------------------
 Learning regular expressions (regex)
-------------------------------------
+-------------------------------------
 
 When a documentarian asked if there is an automated way to update links from one format to another, the WTD Slack community replied, "Yes: regex!" A `regular expression <https://en.wikipedia.org/wiki/Regular_expression>`__, shortened to regex, is a sequence of characters that represent a search pattern. The specific sequence depends on the search you want to perform. Regexes are handy for finding and replacing text, finding typographical errors or misspellings, creating link redirects for multiple versions of docs, and similar tasks. A very basic regex is `[abc]`, which will find any character between the brackets -- a, b, or c -- no matter where the characters fall within the text you're searching.
 
@@ -33,7 +33,7 @@ Organizing docs by role, or by topic?
 
 This fall, we fell into a discussion of role-based docs versus topic-based docs, and the reasons to use one over the other. Is it better to organize your documentation by user role or by topic?
 
-With role-based docs, users may spend too much time identifying which type of user you consider them to be. And once they do identify their type, the docs can end up resembling a training course more than a documentation set. A single user can wear many hats, and they then end up needing to jump around more in the docs to do their work; there’s more in `this article from the Nielsen Norman Group <https://www.nngroup.com/articles/audience-based-navigation/>`__. Topic-based docs can allow users to easily go to the topic with the information they need - as long as they can actually find the right topic in the group of topics. 
+With role-based docs, users may spend too much time identifying which type of user you consider them to be. And once they do identify their type, the docs can end up resembling a training course more than a documentation set. A single user can wear many hats, and they then end up needing to jump around more in the docs to do their work; there’s more in `this article from the Nielsen Norman Group <https://www.nngroup.com/articles/audience-based-navigation/>`__. Topic-based docs can allow users to easily go to the topic with the information they need - as long as they can actually find the right topic in the group of topics.
 
 A sensible way forward can be to combine both ideas: for example, providing a list of links to topics associated with a role; or allowing a user to filter a list of topics by role. It also depends a lot on your specific product, and the audience for it: role-based docs may work well for some products, while topic-based docs may be just the thing for others.
 
@@ -61,7 +61,7 @@ For a doc set, how do you make it easy for readers to find what they need? Peopl
 
 A big point of discussion was on how to divvy up pages. At one extreme is individual short pages for each topic (About the Feature, Using the Feature, Reference for the Feature...). It can mean more clicking around, but *Don't Make Me Think* suggests: "It doesn’t matter how many times I have to click as long as every click is a mindless, unambiguous choice."
 
-The other extreme is to have everything on one page, and a table of contents to let readers skim and skip through, like the `Asciidoctor manual <https://asciidoctor.org/docs/user-manual/#glossary>`__. 
+The other extreme is to have everything on one page, and a table of contents to let readers skim and skip through, like the `Asciidoctor manual <https://asciidoctor.org/docs/user-manual/#glossary>`__.
 
 There’s no best answer here. It’s a tradeoff between scrolling/ctrl+F vs clicking/searching to find what you need. And it depends on who you’re optimising for. For new users, a huge page can be overwhelming and intimidating; you don’t know what’s important and what you can skip. But once you’ve gotten used to the content, if you’re going to refer back to it a lot, one page can be pretty convenient.
 
@@ -114,7 +114,7 @@ Featured job posts
 Virtual events coming up
 ------------------------
 
-* 7 October - Philadelphia, PA, USA - `Breaking down complex topics into documentable chunks <https://www.meetup.com/WTD-Philadelphia/events/272488330/>`__ 
+* 7 October - Philadelphia, PA, USA - `Breaking down complex topics into documentable chunks <https://www.meetup.com/WTD-Philadelphia/events/272488330/>`__
 * 8 October - Los Angeles, CA, USA - `Open-source docs for Sawppy <https://www.meetup.com/Write-the-Docs-LA/events/273649263/>`__
 * 13 October - Ottawa - `WTD Ottawa Shopify meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqybcnbrb/>`__
 * 15 October - Austin, TX, USA - `"We miss you!" social hour <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/273573027/>`__
