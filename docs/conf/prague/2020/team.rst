@@ -33,23 +33,21 @@ Sasha Romijn
 Primary Roles
 -------------
 
-* **Conference chair** - *TBD*
-* **Conference co-chair** - *TBD*
+* **Conference chair** - Mikey Ariel
 * **Code of conduct response** - See `code of conduct </code-of-conduct/#reporting-and-contact-information>`_ page
-* **Speaker coordinator** - *TBD*
-* **Unconference coordinator** - *TBD*
-* **Lightning Talk coordinator** - *TBD*
-* **Hike coordinator** - *TBD*
-* **Infrastructure coordinator** - *TBD*
-* **Swag coordinator** - *TBD*
-* **Communication coordinator** - *TBD*
-* **Explore Portland coordinators** - *TBD*
-* **Job Fair coordinator** - *TBD*
-* **Welcome Wagon coordinators** - *TBD*
-* **Sponsorship coordinator** - *TBD*
-* **Writing Day coordinator** - *TBD*
-* **Volunteer coordinator** -*TBD*
-* **Emcee** - *TBD*
-* **Social media coordinator** - *TBD*
+* **Speaker coordinator** - Samuel Wright
+* **Unconference coordinator** - Val Grimm
+* **Lightning Talk coordinator** - Paul Adams
+* **Writing Day coordinator** - Chris Ward
+* **Social Event coordinator** - Eric Holscher
+* **Job Fair coordinator** - Eric Holscher
+* **Emcee** - Carolyn Stransky
+* **Q&A coordinator** - Jessica Ulyate
+* **Welcome Wagon and Helpdesk coordinators** - Beth Aitman, Daniel Beck, Andrea Szollossi
+* **Conference platform coordinators** - Sasha Romijn, Mikey Ariel
+* **Support and Website coordinator** - Sasha Romijn
+* **Swag coordinator** - Mikey Ariel
+* **Sponsorship coordinator** - Eric Holscher
+* **Social media coordinator** - Chris Ward
 
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
