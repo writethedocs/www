@@ -170,7 +170,7 @@ Sponsorship schedule
 
 * **MONDAY**: The conference platform opens at 9am, so we recommend arriving around this time to get the most interaction with attendees. This is the official start of the main conference talks, when sponsor booths will need to be staffed. The conference will run until around 6pm.
 
-* **TUESDAY**: The Job Fair will be on Tuesday morning in the Sessions area of the online platform. The normal conference sponsorship activities and expo booths will be available all day Tuesday, but primarily on Tuesday afternoon.
+* **TUESDAY**: The Job Fair will be on Tuesday morning in the Expo area of the online platform. It will take place in existing sponsorship booths. If you do not have a booth, a temporary booth will be set up for the job fair. The normal conference sponsorship activities and expo booths will be available all day Tuesday, but primarily on Tuesday afternoon.
 
 See the :doc:`full schedule </conf/{{ shortcode }}/{{ year }}/schedule>` for exact timing details.
 
