@@ -187,7 +187,7 @@ Sponsorship spaces
 A quick overview of the important spaces in the "venue":
 
 * The *main stage* is where the talks happen. This is also where Lightning talks will be given.
-* The *Sessions area* is where the Unconference will happen. Sponsors will be assigned sessions at the scheduled time for their job fair "tables", and Expo booths will be available for the duration of the conference.
+* The *Sessions area* is where the Writing Day, Unconference and Social event will happen.
 * The *Expo area* is where sponsors will be able to have booths available and the Job Fair will happen. You can provide videos that will play whenever attendees enter your booth, as well as chat or video-call directly with attendees.
 * The *Networking area* is where you can chat with a random attendee to get to know people. There is no specific sponsorship usage of this area.
 
