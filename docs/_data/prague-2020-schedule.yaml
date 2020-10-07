@@ -61,10 +61,10 @@ talks_day2:
     title: Lunch (60 mins)
   - time: '14:00'
     title: Lightning Talks (30 mins)
+  - time: '14:30'
+    title: "<b>Unconference Starts</b>"
   - time: '14:45'
     slug: how-to-be-an-avante-garde-guinea-pig-building-better-content-through-experimentation-community-building-and-loud-squeaks-jessica-valasek-estenssoro
-  - time: '15:30'
-    title: "<b>Unconference Starts</b>"
   - time: '15:30'
     slug: need-examples-write-your-own-joe-malin
   - time: '16:15'
