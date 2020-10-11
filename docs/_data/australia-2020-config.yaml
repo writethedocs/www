@@ -107,9 +107,10 @@ date: # how do we handle these? human readable would be nice.
 about:
   attendees: 250
   summary:
-    "The main presentation track takes place from **December 3-4 (Thursday and Friday) from 11:00 to 21:00**.
+    "The main presentation track takes place from **December 3-4 (Thursday and Friday) from 11:00am to 7:00pm AEDT**.
     During the main event we also run an :doc:`/conf/australia/2020/unconference`."
-  venue: "Online, platform to be determined"
+  venue:
+    "Online, https://hopin.to/ . Your login will be emailed to you before the event."
   mainroom: TBA
   unconfroom: TBA
   projector_ratio: "16:9"
@@ -136,7 +137,7 @@ flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
-flaghasschedule: False
+flaghasschedule: True
 flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
