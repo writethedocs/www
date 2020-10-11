@@ -39,6 +39,8 @@ talks_day2:
     title: 'Platform opens'
   - time: '11:30'
     slug: the-pains-of-composition-how-to-write-your-best-documentation-in-a-collaborative-world-matt-reiner
+  - time: '12:00'
+    title: "<b>Unconference Starts</b>"
   - time: '12:15'
     slug: content-strategy-in-practice-a-case-study-sam-irons
   - time: '13:00'
