@@ -25,8 +25,8 @@ buttons:
     #  link: /cfp
     - text: See the talks!
       link: /speakers
-#    - text: See the Schedule!
-#      link: /schedule
+    - text: See the Schedule!
+      link: /schedule
     # - text: Welcome Wagon
     #   link: /welcome-wagon
 #    - text: Watch the Live Stream
@@ -40,14 +40,14 @@ buttons:
       link: /sponsors/prospectus
      # - text: The conference is moving online
      #   link_absolute: /blog/moving-portland-prague-2020-online/
-    - text: Submit a Talk
-      link: /cfp
+     #- text: Submit a Talk
+     #  link: /cfp
     - text: Buy a Ticket!
       link: /tickets
 #    - text: Prepare with the Welcome Wagon
 #      link: /welcome-wagon
-#    - text: See the schedule!
-#      link: /schedule
+    - text: See the schedule!
+      link: /schedule
     # - text: Watch the Live Stream
     #  link: /livestream
 #     - text: Browse the photos
