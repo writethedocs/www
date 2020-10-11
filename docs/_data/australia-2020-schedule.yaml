@@ -24,6 +24,8 @@ talks_day1:
   - time: '17:15'
     slug: little-words-big-ideas-how-to-write-microcopy-that-works-yael-ben-david
   - time: '18:00'
+    title: "<b>Unconference Ends</b>"
+  - time: '18:00'
     slug: storytelling-for-technical-products-what-we-can-learn-from-lego-and-pixar-akshay-iyer
   - time: '18:45'
     title: Day 1 wraps up
@@ -55,6 +57,8 @@ talks_day2:
     title: Break (15 mins)
   - time: '17:30'
     slug: legacy-content-from-various-perspectives-marcelina-haftka
+  - time: '18:00'
+    title: "<b>Unconference Ends</b>"
   - time: '18:15'
     slug: 5-things-i-learned-from-my-first-open-source-contribution-andrea-szollossi
   - time: '19:00'

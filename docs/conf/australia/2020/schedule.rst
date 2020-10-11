@@ -11,56 +11,6 @@ Each year we organize a wide range of events so that people can come together, c
     :depth: 1
     :backlinks: none
 
-
-{% if flaghashike or flaghasboat %}
-
-{{date.day_one.dotw}}, {{date.day_one.date}}
---------------------------------------------------
-
-{% endif %}
-
-{% if flaghashike %}
-
-Hike
-~~~~
-
-The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/outing>`.
-If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
-
-* **Where**: Lower Macleay Park or Macleay Park Entrance.
-* **When**: 13:45
-* **Details**: :doc:`Annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/outing>`
-
-{% endif %}
-
-{% if flaghasboat %}
-
-Boat Ride
-~~~~~~~~~
-
-The only event scheduled on Saturday is the :doc:`Prague Boat Ride </conf/{{shortcode}}/{{year}}/outing>`.
-If you get into town early, join us and experience Prague from the water.
-
-Further details will be announced later.
-
-{% endif %}
-
-
-{{date.day_two.dotw}}, {{date.day_two.date}}
-----------------------------------------
-
-The Writing Day and Welcome Reception will be held at the **{{about.venue}}**.
-
-{% if flaghasfood %}
-
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
-
-{% endif %}
-
-.. contents::
-    :local:
-    :backlinks: none
-
 Thursday, December 3
 -----------------
 
@@ -105,13 +55,13 @@ The unconference sessions run in parallel to the main conference talks.
 * **When**: **11:30am-6:00pm AEDT**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
-Monday Night Social
-~~~~~~~~~~~~~~~~~~~
+Thursday Night Social
+~~~~~~~~~~~~~~~~~~~~~
 
 The official Write the Docs social!
 Further details will be announced later,
 but expect some music and games,
-and bring your favorite beverage along to the computer :)
+and bring your favourite beverage along to the computer :)
 
 Friday, December 4
 ------------------
@@ -148,15 +98,6 @@ Conference Talks
 {% endif %}
 
 .. _{{shortcode}}-{{year}}-job-fair:
-
-Job Fair
-~~~~~~~~
-
-We'll be holding a job fair on Tuesday morning!
-
-* **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **9:45am-12pm PST**
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
 
 Unconference
 ~~~~~~~~~~~~
