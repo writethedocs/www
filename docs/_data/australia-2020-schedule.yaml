@@ -56,7 +56,7 @@ talks_day2:
   - time: '17:30'
     slug: legacy-content-from-various-perspectives-marcelina-haftka
   - time: '18:15'
-    title: 5-things-i-learned-from-my-first-open-source-contribution-andrea-sz-ll-ssi
+    slug: 5-things-i-learned-from-my-first-open-source-contribution-andrea-szollossi
   - time: '19:00'
     title: Closing address
   - time: '19:15'
