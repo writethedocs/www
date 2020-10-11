@@ -3,22 +3,24 @@
 .. post:: October 11, 2020
    :tags: {{year}}, australia-2020, schedule
 
-Announcing Full Schedule
-========================
+Announcing the full conference schedule
+=======================================
 
-Hey everyone!
+Hello folks!
 
 We're less than two months away from the first online Australia and India conference and we're working hard to make sure it'll be as welcoming and as fun as the in-person event you're probably familiar with.
 
-Today we're announcing the full presentation schedule and the platform we'll be hosting the conference on.
-We are working on more details for a few more activities during the conference, so look out for more information in our next mailing.
+Today, we're announcing the full presentation schedule and the platform we'll be hosting the conference on.
+We are working on more details for a few more activities during the conference, so keep an eye out for more information in our next mailing.
 
 Conference platform
 --------------------
 
-The conference will be held on https://hopin.to/, which not only provides a stage for our amazing speakers, but also has integrated chat, unconference rooms with breakout calls, expo booths, and even a virtual hallway. We're updating our Welcome Wagon guide, to be released soon, so it'll all feel familiar before you've even arrived.
+The conference will be held on https://hopin.to/. This platform not only provides a stage for our amazing speakers, but also has integrated chat, unconference rooms with breakout calls, expo booths, and even a virtual hallway.
+We're updating our Welcome Wagon guide, to be released soon, so it'll all feel familiar before you've even "hopped in" (pun unintended).
 
-IMPORTANT: Please monitor your inboxes during the next weeks for an email with a registration link to Hopin. We recommend that you register for the platform in advance, to avoid last minute snafus.
+IMPORTANT: Please watch your inboxes during the next weeks for an email with a registration link to Hopin.
+We recommend that you register for the platform in advance, to avoid any last minute snafus.
 
 Full presentation schedule
 --------------------------
@@ -37,6 +39,6 @@ Write the Docs is more than a conference. Every year we make sure to have a vari
 
 The `Schedule page <https://www.writethedocs.org/conf/australia/{{year}}/schedule/>`_ has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.
 
-Thanks so much for all your support and enthusiasm so far – we're so excited to see you all next month!
+Thanks so much for all your support and enthusiasm so far – we're so excited to see you all in December!
 
 The Write the Docs team
