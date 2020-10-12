@@ -45,7 +45,7 @@
   - name: Ankita Tripathi
     slug: ankita-tripathi
     twitter: https://twitter.com/writertripathi
-    website: 
+    website:
   abstract: "<p>Imagine an aircraft crash and you are the only one alive and stranded
     on an island. The one who now needs to decide what are the possible ways to stay
     alive here, the strategies to stay safe from wild animals, grab enough food, gather
@@ -68,7 +68,7 @@
   speakers:
   - name: Marcelina Haftka
     slug: marcelina-haftka
-    twitter: 
+    twitter:
     website: http://www.linkedin.com/in/marcelinahaftka/
   abstract: '<p>Having worked in the localisation industry for many years, I can see
     how various stakeholders have different approaches to the legacy content. I am
@@ -79,15 +79,15 @@
     technical writer''s, and product owner''s perspective (and probably some other
     perspectives, as well).</p>'
 - title: 5 things I learned from my first open source contribution
-  slug: 5-things-i-learned-from-my-first-open-source-contribution-andrea-sz-ll-ssi
+  slug: 5-things-i-learned-from-my-first-open-source-contribution-andrea-szollossi
   series: Write the Docs Australia
   series_slug: australia
   year: 2020
   speakers:
   - name: Andrea Szöllössi
-    slug: andrea-sz-ll-ssi
+    slug: andrea-szollossi
     twitter: '@TheBraveGrape'
-    website: 
+    website:
   abstract: '<p>When the pandemic hit and lockdown started, I finally found the time
     to work on an open source contribution I had at the back of my mind for some time.
     Even though I had written open source documentation as part of my job for over
@@ -140,8 +140,8 @@
   speakers:
   - name: Marika Vertzonis
     slug: marika-vertzonis
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>My team makes mapping software for mobile computers, and has been
     doing so for 20 years.
 
@@ -183,7 +183,7 @@
   - name: Michael Belton
     slug: michael-belton
     twitter: '@Mykale37'
-    website: 
+    website:
   abstract: '<p>Starting in a new role can be intimidating. You might second-guess
     leaving the comfort of your current position or be anxious about building new
     professional relationships. In this talk, I''ll walk through how to set yourself
@@ -231,7 +231,7 @@
   speakers:
   - name: Sam Irons
     slug: sam-irons
-    twitter: 
+    twitter:
     website: http://www.samirons.me/
   abstract: <p>Big companies have big content problems. With tens of thousands of
     pages, big companies may put too much pressure on their customers to find the
@@ -305,8 +305,8 @@
   speakers:
   - name: Akshay Iyer
     slug: akshay-iyer
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: <p>Every product has a story. The product management team uses it to scope
     out features. The pre-sales team uses it to demonstrate it to customers. The marketing
     team uses it to demonstrate the value of the product. In this presentation, I
@@ -321,7 +321,7 @@
   speakers:
   - name: Vikram Mulay
     slug: vikram-mulay
-    twitter: 
+    twitter:
     website: www.linkedin.com/in/vikramcmulay
   abstract: '<p>Great localized content begins with a great copy! However, designing
     a great copy is hard without knowing the best practices. This talk will help you
@@ -350,7 +350,7 @@
   - name: Matt Reiner
     slug: matt-reiner
     twitter: '@reinermatthew'
-    website: 
+    website:
   abstract: '<p>Creating documentation is much more than just putting pen to paper.
     It''s an outpouring of one''s mind and soul onto a canvas. This is a challenging
     enough endeavor in private, and becomes increasingly difficult when writing is
