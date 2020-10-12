@@ -28,7 +28,7 @@ Guides
 
 You can prepare by reading through this guide. Don’t worry if you forget any of it – there will be a recording you can watch in the Helpdesk booth. Select **Expo** > **Write the Docs Helpdesk** to watch it anytime.
 
-You can also watch the video at any time directly from our `YouTube channel <https://youtu.be/hzPvLn1PXtM>`_.
+You can also watch the video at any time directly from our `YouTube channel <https://youtu.be/aLtnc0ITzok>`_.
 
 Helpdesk
 ~~~~~~~~
