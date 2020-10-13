@@ -30,6 +30,9 @@ You can prepare by reading through this guide. Don’t worry if you forget any o
 
 You can also watch the video at any time directly from our `YouTube channel <https://youtu.be/aLtnc0ITzok>`_.
 
+.. raw:: html 
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/aLtnc0ITzok" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Helpdesk
 ~~~~~~~~
 
