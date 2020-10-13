@@ -23,7 +23,7 @@ If you were hoping to come to this years event, we recommend that you `get your 
 
 **If you already purchased a ticket you should have gotten an email from us with your Hopin registration link.** After we stop ticket sales, we will send another email to everyone with a reminder and a link to access the Hopin event.
 
-The Hopin access links will be sent to all Ti.to ticket holders, so monitor your inbox next week for a message. If you don't get an email from us by the end of the week, please email us and we'll help you out.
+The Hopin access links will be sent to all Ti.to ticket holders, so monitor your inbox this week for a message. If you don't get an email from us by the end of the week, please check your spambox first, and then email us and we'll help you out.
 
 Once you've got your Hopin ticket, you will be ready to get started on Sunday morning with the Writing Day!
 
