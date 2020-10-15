@@ -26,13 +26,13 @@ talks_day1:
   - time: '13:00'
     title: Lunch (60 mins)
   - time: '14:00'
-    title: Lightning Talks (30 mins)
-  - time: '14:45'
+    title: Lightning Talks (40 mins)
+  - time: '14:55'
     slug: the-baseline-or-technical-writing-for-non-technical-readers-paul-brown
   - time: '15:30'
     slug: remote-job-on-boarding-top-10-things-we-can-do-better-karen-sawrey
   - time: '16:15'
-    slug: helping-your-community-contribute-to-developer-documentation-diana-lakatos
+    slug: making-documentation-discoverable-in-search-engines-myriam-jessier
   - time: '17:00'
     slug: a-journey-to-pattern-languages-andrew-haynes
   - time: '17:45'
@@ -52,7 +52,7 @@ talks_day2:
   - time: '10:45'
     title: "<b>Job Fair Starts (open until lunch)</b>"
   - time: '10:45'
-    slug: making-documentation-discoverable-in-search-engines-myriam-jessier
+    slug: helping-your-community-contribute-to-developer-documentation-diana-lakatos
   - time: '11:30'
     slug: the-rocky-road-to-docops-chris-noonan
   - time: '12:15'
@@ -61,10 +61,10 @@ talks_day2:
     title: Lunch (60 mins)
   - time: '14:00'
     title: Lightning Talks (30 mins)
+  - time: '14:30'
+    title: "<b>Unconference Starts</b>"
   - time: '14:45'
     slug: how-to-be-an-avante-garde-guinea-pig-building-better-content-through-experimentation-community-building-and-loud-squeaks-jessica-valasek-estenssoro
-  - time: '15:30'
-    title: "<b>Unconference Starts</b>"
   - time: '15:30'
     slug: need-examples-write-your-own-joe-malin
   - time: '16:15'

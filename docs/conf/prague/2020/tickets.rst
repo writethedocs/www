@@ -17,8 +17,6 @@ Ticket status
 
 **Tickets are sold out!**
 
-We have a `waiting list <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`_ where you can register in case of cancellations, but we usually don't have a high rate of cancellations so please do not book travel unless you have a ticket.
-
 {% else %}
 
 **Tickets will be available in {{ date.tickets_live }}.**

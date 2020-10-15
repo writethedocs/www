@@ -19,14 +19,14 @@ buttons:
      #   link_absolute: /blog/moving-portland-prague-2020-online/
     - text: Buy a Ticket!
       link: /tickets
-    - text: Sponsor us
-      link: /sponsors/prospectus
+    #- text: Sponsor us
+    #  link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    # - text: See the talks!
-    #   link: /speakers
-#    - text: See the Schedule!
-#      link: /schedule
+    #- text: See the talks!
+    #  link: /speakers
+    - text: See the Schedule!
+      link: /schedule
     # - text: Welcome Wagon
     #   link: /welcome-wagon
 #    - text: Watch the Live Stream
@@ -40,14 +40,14 @@ buttons:
       link: /sponsors/prospectus
      # - text: The conference is moving online
      #   link_absolute: /blog/moving-portland-prague-2020-online/
-    - text: Submit a Talk
-      link: /cfp
+     #- text: Submit a Talk
+     #  link: /cfp
     - text: Buy a Ticket!
       link: /tickets
 #    - text: Prepare with the Welcome Wagon
 #      link: /welcome-wagon
-#    - text: See the schedule!
-#      link: /schedule
+    - text: See the schedule!
+      link: /schedule
     # - text: Watch the Live Stream
     #  link: /livestream
 #     - text: Browse the photos
@@ -107,9 +107,10 @@ date: # how do we handle these? human readable would be nice.
 about:
   attendees: 250
   summary:
-    "The main presentation track takes place from **December 3-4 (Thursday and Friday) from 11:00 to 21:00**.
+    "The main presentation track takes place from **December 3-4 (Thursday and Friday) from 11:00am to 7:00pm AEDT**.
     During the main event we also run an :doc:`/conf/australia/2020/unconference`."
-  venue: "Online, platform to be determined"
+  venue:
+    "Online, https://hopin.to/. Your login will be emailed to you before the event"
   mainroom: TBA
   unconfroom: TBA
   projector_ratio: "16:9"
@@ -135,8 +136,8 @@ flaghassponsors: True
 flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
-flagspeakersannounced: False
-flaghasschedule: False
+flagspeakersannounced: True
+flaghasschedule: True
 flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
