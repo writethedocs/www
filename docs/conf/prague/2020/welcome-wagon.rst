@@ -152,9 +152,9 @@ Lightning talks
 Job Fair
 --------
 
-- The Job Fair takes place on Tuesday morning. Each company attending the Job Fair will have their own Session table. To view the Job Fair participants and booths, go to **Sessions**.
+- The Job Fair takes place on Tuesday morning. Each company attending the Job Fair will have their own Session table. To view the Job Fair participants and booths, go to **Expo**.
 - Once you are in the session, check out the pinned message to review job and company information.
-- If you want to start a conversation with someone at the session, go to the **Chat** tab, make sure the **Session** toggle is on, and ask your question. You can set up 1:1 conversations using chat or video, too.
+- If you want to start a conversation with someone at the session, go to the **Chat** tab, make sure the **Expo** toggle is on, and ask your question. You can set up 1:1 conversations using chat or video, too.
 - Remember, there might be multiple people starting conversations, so there could be a wait.
 
 Sponsor booths
