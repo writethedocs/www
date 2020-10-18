@@ -28,6 +28,7 @@ Grammar
 Naming and terminology
 ~~~~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Common words and how to identify them </blog/newsletter-june-2020/#common-words-and-how-to-identify-them>`__
 - |:movie_camera:| `Even Naming This Talk Is Hard </videos/na/2017/even-naming-this-talk-is-hard-ruthie-bendor/>`__
 - |:movie_camera:| `Whatchamacallit: Controlled Vocabularies for Technical Writers </videos/eu/2015/whatchamacallit-controlled-vocabularies-for-technical-writers-eboillat/>`__
 
@@ -36,6 +37,7 @@ Specific writing questions
 
 One word vs another, using abbreviations, etc.
 
+- |:newspaper:| `Some discussions on style </blog/newsletter-march-2020/#some-discussions-on-style>`__
 - |:newspaper:| `Should documentation have a formal tone? </blog/newsletter-december-2019/#should-documentation-have-a-formal-tone>`__
 - |:newspaper:| `“You”-sing the second person in documentation </blog/newsletter-november-2019/#you-sing-the-second-person-in-documentation>`__
 - |:newspaper:| `The variable fortunes of variable placeholders in docs </blog/newsletter-may-2019/#the-variable-fortunes-of-variable-placeholders-in-docs>`__
@@ -78,6 +80,7 @@ Other media
 
 Including videos, diagrams, and screenshots.
 
+- |:newspaper:| `Tips for creating quality screenshots </blog/newsletter-may-2020/#tips-for-creating-quality-screenshots>`__
 - |:newspaper:| `Behind the scenes with fonts, emojis, and Unicode </blog/newsletter-october-2019/#behind-the-scenes-with-fonts-emojis-and-unicode>`__
 - |:newspaper:| `Advice for creating technical illustrations </blog/newsletter-august-2019/#advice-for-creating-technical-illustrations>`__
 - |:newspaper:| `Tips and tricks for producing video </blog/newsletter-may-2019/#tips-and-tricks-for-producing-videos>`__
@@ -92,6 +95,9 @@ Including videos, diagrams, and screenshots.
 Writing topics
 --------------
 
+- |:newspaper:| `Obvious things and whether to document them </blog/newsletter-june-2020/#obvious-things-and-whether-to-document-them>`__
+- |:newspaper:| `Types of docs and how to use them </blog/newsletter-june-2020/#types-of-docs-and-how-to-use-them>`__
+- |:newspaper:| `Choosing the right learning level for a topic </blog/newsletter-may-2020/#choosing-the-right-learning-level-for-a-topic>`__
 - |:newspaper:| `Page length and user preference </blog/newsletter-april-2019/#page-length-and-user-preference>`__
 - |:movie_camera:| `Checklist the Docs </videos/eu/2016/checklist-the-docs-daniel-beck/>`__
 - |:movie_camera:| `How to Write Documentation for People that Don't Read </videos/na/2015/how-to-write-documentation-for-people-that-don-t-read-kburke/>`__
@@ -128,6 +134,8 @@ Other specific doc types
 
 Including how-tos, reference docs, tutorials, and books.
 
+- |:newspaper:| `To answer, or not to answer: FAQs </blog/newsletter-may-2020/#to-answer-or-not-to-answer-faqs>`__
+- |:newspaper:| `Do we tell users what’s new in the docs? </blog/newsletter-march-2020/#do-we-tell-users-what-s-new-in-the-docs>`__
 - |:movie_camera:| `Learning to love release notes </videos/prague/2018/learning-to-love-release-notes-anne-edwards/>`__
 - |:movie_camera:| `"It's a Feature" - Documenting Known Issues and Product Shortcomings </videos/prague/2018/it-s-a-feature-documenting-known-issues-and-product-shortcomings-ivana-devcic/>`__
 - |:movie_camera:| `Writing the Next Great Tech Book </videos/portland/2018/writing-the-next-great-tech-book-brian-macdonald/>`__
@@ -184,6 +192,8 @@ Legacy docs
 Maintenance
 ~~~~~~~~~~~
 
+- |:newspaper:| `Broken links and how to find them </blog/newsletter-june-2020/#broken-links-and-how-to-find-them>`__
+- |:newspaper:| `When you find inaccuracies in your docs </blog/newsletter-february-2020/#when-you-find-inaccuracies-in-your-docs>`__
 - |:movie_camera:| `Making Yourself Redundant on Day One <https://www.youtube.com/watch?v=QYMUh55eXcY&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=9>`__
 - |:newspaper:| `Making docs maintainable </blog/newsletter-august-2017/#making-docs-maintainable>`__
 - |:movie_camera:| `CSAT - What's That? </videos/na/2016/csat-what-s-that-betsy-roseberg/>`__
@@ -191,6 +201,7 @@ Maintenance
 Jobs and careers
 ----------------
 
+- |:newspaper:| `Salary survey </blog/newsletter-april-2020/#salary-survey-speculations>`__
 - |:newspaper:| `For those who might consider freelancing </blog/newsletter-july-2019/#for-those-who-might-consider-freelancing>`__
 
 Hiring
@@ -207,6 +218,7 @@ Hiring
 Getting hired
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `Job listings and managing your assumptions <blog/newsletter-march-2020/#job-listings-and-managing-your-assumptions>`__
 - |:newspaper:| `Cover letters </blog/newsletter-march-2019/#the-whys-and-wherefores-of-cover-letters>`__
 - |:newspaper:| `Hiring and getting hired guide </blog/newsletter-november-2018/#how-to-hire-a-documentarian>`__
 - |:movie_camera:| `Document Yourself: Practical Tips for a Low(er)-Stress Portfolio </videos/portland/2018/document-yourself-practical-tips-for-a-low-er-stress-portfolio-erin-grace/>`__
@@ -243,12 +255,19 @@ Career growth
 - |:movie_camera:| `An Alien Looking From the Outside In: Main Takeaways After One Year in Documentation </videos/eu/2017/an-alien-looking-from-the-outside-in-main-takeaways-after-one-year-in-documentation-meike-chabowski/>`__
 - |:newspaper:| `Job titles (real and imagined) </blog/newsletter-march-2017/#studies-in-comparative-job-titles>`__
 - |:newspaper:| `Exploring other careers </blog/newsletter-february-2017/#exploring-your-technical-writing-career-options>`__
+- |:movie_camera:| `We’re Not in Kansas Anymore: How to Find Courage while Following the Technical Doc Road </videos/na/2016/we-re-not-in-kansas-anymore-how-to-find-courage-while-following-the-technical-doc-road-christy-lutz/>`__
+- |:movie_camera:| `IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty, and Surf the Upcoming Swerve in Technical Documentation </videos/eu/2015/imposter-no-more-how-tech-writers-can-shed-self-doubt-embrace-uncertainty-and-surf-the-upcoming-swerve-in-technical-documentation-rmacnamara/>`__
+
+Learning...
+~~~~~~~~~~~
+
+- |:newspaper:| `Book club: an intro to ‘Every Page is Page One’ </blog/newsletter-april-2020/#book-club-an-intro-to-every-page-is-page-one>`__
+- |:newspaper:| `Learning material recommendations - fundamentals of tech writing, contenet strategy, API docs, Git </blog/newsletter-march-2020/#learning-material-recommendations>`__
+- |:newspaper:| `#learn-tech-writing book club </blog/newsletter-february-2020/#learn-tech-writing-book-club>`__
 - |:newspaper:| `Learning tech writing </blog/newsletter-november-2018/#recommended-reads>`__
 - |:newspaper:| `Recommended books </blog/newsletter-november-2018/#recommended-reads>`__
 - |:newspaper:| `Learning Git </blog/newsletter-april-2017/#starter-kit-for-command-line-git>`__
 - |:newspaper:| `Get started with API docs </blog/newsletter-february-2017/#getting-started-with-api-docs>`__
-- |:movie_camera:| `We’re Not in Kansas Anymore: How to Find Courage while Following the Technical Doc Road </videos/na/2016/we-re-not-in-kansas-anymore-how-to-find-courage-while-following-the-technical-doc-road-christy-lutz/>`__
-- |:movie_camera:| `IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty, and Surf the Upcoming Swerve in Technical Documentation </videos/eu/2015/imposter-no-more-how-tech-writers-can-shed-self-doubt-embrace-uncertainty-and-surf-the-upcoming-swerve-in-technical-documentation-rmacnamara/>`__
 
 Design and UX
 -------------
@@ -334,6 +353,7 @@ Doc tools
 Docs-as-code
 ~~~~~~~~~~~~
 
+- |:newspaper:| `Pros and cons of the docs-as-code approach <//blog/newsletter-april-2020/#pros-and-cons-of-the-docs-as-code-approach>`__
 - |:newspaper:| `Adventures in generating docs from code comments </blog/newsletter-august-2019/#adventures-in-generating-docs-from-code-comments>`__
 - |:newspaper:| `What to do about text wrapping </blog/newsletter-july-2019/#what-to-do-about-text-wrapping>`__
 - |:newspaper:| `DITA vs docs-as-code </blog/newsletter-june-2019/#dita-vs-docs-as-code>`__
@@ -378,7 +398,8 @@ Metrics and analytics
 User research
 ~~~~~~~~~~~~~
 
-- |:newspaper:| `Starting out with analytics - and then upping your game </blog/newsletter-december-2018/#discovering-user-needs>`__
+- |:newspaper:| `Starting out with analytics - and then upping your game <blog/newsletter-august-2019/#starting-out-with-analytics-and-then-upping-your-game>`__
+- |:newspaper:| `Discovering user needs </blog/newsletter-december-2018/#discovering-user-needs>`__
 - |:movie_camera:| `Research like you’re wrong: Lessons from user research gone rogue </videos/portland/2018/research-like-you-re-wrong-lessons-from-user-research-gone-rogue-jen-lambourne/>`__
 - |:movie_camera:| `Building Empathy-Driven Developer Documentation </videos/portland/2018/building-empathy-driven-developer-documentation-kat-king/>`__
 - |:newspaper:| `UX testing documentation </blog/newsletter-december-2016/#running-ux-tests-on-your-documentation>`__
@@ -484,6 +505,7 @@ Including review, editing, and teaching.
 Customer support
 ~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Supporting documentation, documenting support </blog/newsletter-february-2020/#supporting-documentation-documenting-support>`__
 - |:movie_camera:| `Power up your support team to create better documentation <https://www.youtube.com/watch?v=8QrsSsSqddc&index=3&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt>`__
 - |:movie_camera:| `Only Interesting Conversations: The symbiotic relationship between docs and support </videos/na/2017/only-interesting-conversations-the-symbiotic-relationship-between-docs-and-support-matthew-buttler/>`__
 - |:movie_camera:| `Documentarians and Support: Work Better Together </videos/eu/2016/documentarians-and-support-work-better-together-sarah-chambers/>`__
@@ -503,6 +525,7 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
+- |:newspaper:| `Getting more info from SMEs </blog/newsletter-may-2020/#getting-more-info-from-smes>`__
 - |:movie_camera:| `The subtle art of interrogation <https://www.youtube.com/watch?v=HVdzjFeaM7k&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=7>`__
 - |:newspaper:| `Helping project managers understand docs </blog/newsletter-june-2018/#helping-your-project-managers-understand-docs>`__
 - |:newspaper:| `Conflicts about what should be in the docs </blog/newsletter-july-2017/#who-s-running-this-content>`__
@@ -514,6 +537,9 @@ Including product managers, higher-ups, etc.
 Planning and how we work
 ------------------------
 
+- |:newspaper:| `Adapting to working from home </blog/newsletter-april-2020/#adapting-to-working-from-home>`__
+- |:newspaper:| `The costs of outdated docs </blog/newsletter-february-2020/#the-costs-of-outdated-docs>`__
+- |:newspaper:| `How to set priorities on a documentation team </blog/newsletter-february-2020/#how-to-set-priorities-on-a-documentation-team>`__
 - |:newspaper:| `Writing remotely </blog/newsletter-august-2019/#writing-remotely>`__
 - |:newspaper:| `Roadmaps and documenting 'future features' </blog/newsletter-march-2019/#roadmaps-and-documenting-future-features>`__
 
