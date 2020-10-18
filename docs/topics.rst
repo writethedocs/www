@@ -221,7 +221,7 @@ Hiring
 Getting hired
 ~~~~~~~~~~~~~
 
-- |:newspaper:| `Job listings and managing your assumptions <blog/newsletter-march-2020/#job-listings-and-managing-your-assumptions>`__
+- |:newspaper:| `Job listings and managing your assumptions </blog/newsletter-march-2020/#job-listings-and-managing-your-assumptions>`__
 - |:newspaper:| `Cover letters </blog/newsletter-march-2019/#the-whys-and-wherefores-of-cover-letters>`__
 - |:newspaper:| `Hiring and getting hired guide </blog/newsletter-november-2018/#how-to-hire-a-documentarian>`__
 - |:movie_camera:| `Document Yourself: Practical Tips for a Low(er)-Stress Portfolio </videos/portland/2018/document-yourself-practical-tips-for-a-low-er-stress-portfolio-erin-grace/>`__
@@ -297,7 +297,7 @@ Design
 ~~~~~~~
 
 - |:newspaper:| `Docs and design: When docs can’t fix all the things </blog/newsletter-november-2019/#docs-and-design-when-docs-can-t-fix-all-the-things>`__
-- |:movie_camera:| `How I decided to do this talk </videos/au/2017/how-i-decided-to-do-this-talk-gap-analysis-and-pull-apart-documentation-planning>`__
+- |:movie_camera:| `How I decided to do this talk </videos/au/2017/how-i-decided-to-do-this-talk-gap-analysis-and-pull-apart-documentation-planning-laura-bailey`__
 - |:movie_camera:| `Peanuts and Minimalism and Technical Writing </videos/au/2017/peanuts-and-minimalism-and-technical-writing-brice-fallon/>`__
 - |:movie_camera:| `Writing for what matters. Writing for thinking. </videos/eu/2015/writing-for-what-matters-writing-for-thinking-znemec/>`__
 - |:movie_camera:| `We Are All Abbott and Costello </videos/na/2015/keynote-we-are-all-abbott-and-costello-maria-riefer-johnston/>`__
@@ -407,7 +407,7 @@ Metrics and analytics
 User research
 ~~~~~~~~~~~~~
 
-- |:newspaper:| `Starting out with analytics - and then upping your game <blog/newsletter-august-2019/#starting-out-with-analytics-and-then-upping-your-game>`__
+- |:newspaper:| `Starting out with analytics - and then upping your game </blog/newsletter-august-2019/#starting-out-with-analytics-and-then-upping-your-game>`__
 - |:newspaper:| `Discovering user needs </blog/newsletter-december-2018/#discovering-user-needs>`__
 - |:movie_camera:| `Research like you’re wrong: Lessons from user research gone rogue </videos/portland/2018/research-like-you-re-wrong-lessons-from-user-research-gone-rogue-jen-lambourne/>`__
 - |:movie_camera:| `Building Empathy-Driven Developer Documentation </videos/portland/2018/building-empathy-driven-developer-documentation-kat-king/>`__
@@ -468,7 +468,6 @@ Building community
 - |:movie_camera:| `A content manager's guide to crowdsourcing the docs </videos/eu/2017/a-content-manager-s-guide-to-crowdsourcing-the-docs-becky-todd/>`__
 - |:movie_camera:| `No Community Members Were Harmed in the Making of This Doc Sprint </videos/na/2017/no-community-members-were-harmed-in-the-making-of-this-doc-sprint-how-we-ran-a-48-hour-event-to-collect-community-wisdom-into-a-guidebook-for-newsroom-developers-ryan-pitts-lindsay-muscato/>`__
 - |:movie_camera:| `The Wisdom of Crowds: Crowdsourcing Minimalism in an Open Organization </videos/na/2017/the-wisdom-of-crowds-crowdsourcing-minimalism-in-an-open-organization-ingrid-towey/>`__
-- |:movie_camera:| `Healthy Minds in a Healthy Community </videos/eu/2016/healthy-minds-in-a-healthy-community-erik-romijn/>`__
 - |:movie_camera:| `Feedback handling, community wrangling, panhandling </videos/eu/2016/feedback-handling-community-wrangling-panhandling-chris-mills/>`__
 - |:movie_camera:| `Documentoring: Growing a "Love The Docs" community </videos/eu/2016/documentoring-growing-a-love-the-docs-community-david-oliver/>`__
 - |:movie_camera:| `How to Publish Wild-Caught Articles </videos/na/2016/how-to-publish-wild-caught-articles-sharon-campbell/>`__
