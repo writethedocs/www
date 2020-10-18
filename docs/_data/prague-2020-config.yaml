@@ -27,8 +27,8 @@ buttons:
     #   link: /speakers
      - text: See the Schedule
       link: /schedule
-     - text: Read the Welcome Wagon
-       link: /welcome-wagon
+    - text: Read the Welcome Wagon
+      link: /welcome-wagon
 #    - text: Watch the Live Stream
 #      link: /livestream
 #     - text: Browse the photos
