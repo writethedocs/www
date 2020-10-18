@@ -397,6 +397,8 @@ Automation
 Git
 ~~~
 
+- |:newspaper:| `To git or not to git docs as code </blog/newsletter-august-2020/#to-git-or-not-to-git-docs-as-code>`__
+- |:newspaper:| `Learning material recommendations - fundamentals of tech writing, contenet strategy, API docs, Git </blog/newsletter-march-2020/#learning-material-recommendations>`__
 - |:newspaper:| `Learning Git </blog/newsletter-april-2017/#starter-kit-for-command-line-git>`__
 
 Metrics and analytics
