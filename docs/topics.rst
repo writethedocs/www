@@ -297,7 +297,7 @@ Design
 ~~~~~~~
 
 - |:newspaper:| `Docs and design: When docs can’t fix all the things </blog/newsletter-november-2019/#docs-and-design-when-docs-can-t-fix-all-the-things>`__
-- |:movie_camera:| `How I decided to do this talk </videos/au/2017/how-i-decided-to-do-this-talk-gap-analysis-and-pull-apart-documentation-planning-laura-bailey`__
+- |:movie_camera:| `How I decided to do this talk </videos/au/2017/how-i-decided-to-do-this-talk-gap-analysis-and-pull-apart-documentation-planning-laura-bailey>`__
 - |:movie_camera:| `Peanuts and Minimalism and Technical Writing </videos/au/2017/peanuts-and-minimalism-and-technical-writing-brice-fallon/>`__
 - |:movie_camera:| `Writing for what matters. Writing for thinking. </videos/eu/2015/writing-for-what-matters-writing-for-thinking-znemec/>`__
 - |:movie_camera:| `We Are All Abbott and Costello </videos/na/2015/keynote-we-are-all-abbott-and-costello-maria-riefer-johnston/>`__
