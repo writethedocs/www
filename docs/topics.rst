@@ -76,6 +76,7 @@ Other media
 
 Including videos, diagrams, and screenshots.
 
+- |:newspaper:| `Advice for creating technical illustrations </blog/newsletter-august-2019/#advice-for-creating-technical-illustrations>`__
 - |:newspaper:| `Tips and tricks for producing video </blog/newsletter-may-2019/#tips-and-tricks-for-producing-videos>`__
 - |:movie_camera:| `So you want to make videos? </videos/prague/2018/so-you-want-to-make-videos-sarah-ley-hamilton/>`__
 - |:movie_camera:| `Graphic Content Warning: The Pros, Cons, and Alternatives to Screenshots </videos/portland/2018/graphic-content-warning-the-pros-cons-and-alternatives-to-screenshots-steve-stegelin/>`__
@@ -192,6 +193,7 @@ Jobs and careers
 Hiring
 ~~~~~~~
 
+- |:newspaper:| `Using writing tests when hiring </blog/newsletter-august-2019/#using-writing-tests-when-hiring>`__
 - |:newspaper:| `Running objective interviews </blog/newsletter-june-2019/#running-objective-interviews>`__
 - |:newspaper:| `Developer to documentarian ratio </blog/newsletter-may-2019/#developer-to-documentarian-ratio>`__
 - |:newspaper:| `Hiring and getting hired guide </blog/newsletter-november-2018/#how-to-hire-a-documentarian>`__
@@ -323,6 +325,7 @@ Doc tools
 Docs-as-code
 ~~~~~~~~~~~~
 
+- |:newspaper:| `Adventures in generating docs from code comments </blog/newsletter-august-2019/#adventures-in-generating-docs-from-code-comments>`__
 - |:newspaper:| `What to do about text wrapping </blog/newsletter-july-2019/#what-to-do-about-text-wrapping>`__
 - |:newspaper:| `DITA vs docs-as-code </blog/newsletter-june-2019/#dita-vs-docs-as-code>`__
 - |:newspaper:| `Moving to docs-as-code: static site generators </blog/newsletter-march-2019/#moving-to-docs-as-code-static-site-generators>`__
@@ -361,10 +364,12 @@ Git
 Metrics and analytics
 ---------------------
 
+- |:newspaper:| `Discovering user needs </blog/newsletter-august-2019/#starting-out-with-analytics-and-then-upping-your-game>`__
+
 User research
 ~~~~~~~~~~~~~
 
-- |:newspaper:| `Discovering user needs </blog/newsletter-december-2018/#discovering-user-needs>`__
+- |:newspaper:| `Starting out with analytics - and then upping your game </blog/newsletter-december-2018/#discovering-user-needs>`__
 - |:movie_camera:| `Research like you’re wrong: Lessons from user research gone rogue </videos/portland/2018/research-like-you-re-wrong-lessons-from-user-research-gone-rogue-jen-lambourne/>`__
 - |:movie_camera:| `Building Empathy-Driven Developer Documentation </videos/portland/2018/building-empathy-driven-developer-documentation-kat-king/>`__
 - |:newspaper:| `UX testing documentation </blog/newsletter-december-2016/#running-ux-tests-on-your-documentation>`__
@@ -496,6 +501,7 @@ Including product managers, higher-ups, etc.
 Planning and how we work
 ------------------------
 
+- |:newspaper:| `Writing remotely </blog/newsletter-august-2019/#writing-remotely>`__
 - |:newspaper:| `Roadmaps and documenting 'future features' </blog/newsletter-march-2019/#roadmaps-and-documenting-future-features>`__
 
 Prioritisation
