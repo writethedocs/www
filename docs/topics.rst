@@ -80,6 +80,7 @@ Other media
 
 Including videos, diagrams, and screenshots.
 
+- |:newspaper:| `Command prompts in docs </blog/newsletter-october-2020/#command-prompts-in-docs>`__
 - |:newspaper:| `Tips for creating quality screenshots </blog/newsletter-may-2020/#tips-for-creating-quality-screenshots>`__
 - |:newspaper:| `Behind the scenes with fonts, emojis, and Unicode </blog/newsletter-october-2019/#behind-the-scenes-with-fonts-emojis-and-unicode>`__
 - |:newspaper:| `Advice for creating technical illustrations </blog/newsletter-august-2019/#advice-for-creating-technical-illustrations>`__
@@ -95,6 +96,7 @@ Including videos, diagrams, and screenshots.
 Writing topics
 --------------
 
+- |:newspaper:| `What to do with tricky little details </blog/newsletter-august-2020/#what-to-do-with-tricky-little-details>`__
 - |:newspaper:| `Obvious things and whether to document them </blog/newsletter-june-2020/#obvious-things-and-whether-to-document-them>`__
 - |:newspaper:| `Types of docs and how to use them </blog/newsletter-june-2020/#types-of-docs-and-how-to-use-them>`__
 - |:newspaper:| `Choosing the right learning level for a topic </blog/newsletter-may-2020/#choosing-the-right-learning-level-for-a-topic>`__
@@ -170,6 +172,7 @@ Writing doc sets
 Information architecture
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Organizing docs by role, or by topic? </blog/newsletter-october-2020/#organizing-docs-by-role-or-by-topic>`__
 - |:newspaper:| `A conversation about docs cleanup </blog/newsletter-june-2019/#order-from-chaos-or-a-conversation-about-docs-cleanup>`__
 - |:newspaper:| `Information architecture resources </blog/newsletter-october-2018/#resources-for-planning-out-your-information-architecture>`__
 - |:newspaper:| `Tagging docs </blog/newsletter-march-2018/#the-whys-and-wherefores-of-tagging-docs>`__
@@ -231,6 +234,7 @@ Getting hired
 Related roles
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `A tale of two careers </blog/newsletter-august-2020/#a-tale-of-two-careers>`__
 - |:movie_camera:| `What Writing Dictionaries Taught Me About Writing Documentation (And What I Had to Unlearn) </videos/portland/2018/what-writing-dictionaries-taught-me-about-writing-documentation-and-what-i-had-to-unlearn-erin-mckean/>`__
 - |:newspaper:| `Exploring other careers </blog/newsletter-february-2017/#exploring-your-technical-writing-career-options>`__
 - |:newspaper:| `Docs and content strategists </blog/newsletter-november-2016/#how-do-documentation-and-content-strategy-intersect>`__
@@ -243,6 +247,7 @@ Related roles
 Career growth
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `A magnificent array of management topics </blog/newsletter-july-2020/#a-magnificent-array-of-management-topics>`__
 - |:newspaper:| `Leading and following: finding a mentor, being a mentor </blog/newsletter-october-2019/#leading-and-following-finding-a-mentor-being-a-mentor>`__
 - |:newspaper:| `Feeling like a fraud and how to deal with it </blog/newsletter-october-2019/#feeling-like-a-fraud-and-how-to-deal-with-it>`__
 - |:newspaper:| `Making the leap to managing writers </blog/newsletter-july-2019/#making-the-leap-to-managing-writers>`__
@@ -261,6 +266,8 @@ Career growth
 Learning...
 ~~~~~~~~~~~
 
+- |:newspaper:| `What we’re learning in #learn-tech-writing </blog/newsletter-october-2020/#what-we-re-learning-in-learn-tech-writing>`__
+- |:newspaper:| `Learning regular expressions (regex) </blog/newsletter-october-2020/#learning-regular-expressions-regex>`__
 - |:newspaper:| `Book club: an intro to ‘Every Page is Page One’ </blog/newsletter-april-2020/#book-club-an-intro-to-every-page-is-page-one>`__
 - |:newspaper:| `Learning material recommendations - fundamentals of tech writing, contenet strategy, API docs, Git </blog/newsletter-march-2020/#learning-material-recommendations>`__
 - |:newspaper:| `#learn-tech-writing book club </blog/newsletter-february-2020/#learn-tech-writing-book-club>`__
@@ -275,6 +282,7 @@ Design and UX
 Accessibility and inclusivity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Resources for diverse example names </blog/newsletter-july-2020/#resources-for-diverse-example-names>`__
 - |:movie_camera:| `A11y-Friendly Documentation </videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/>`__
 - |:newspaper:| `Accessibility for colour blindness </blog/newsletter-august-2017/#accessible-docs-colorblindness-edition>`__
 - |:newspaper:| `Screen readers and svgs </blog/newsletter-may-2017/#screen-readers-and-accessibility>`__
@@ -353,7 +361,8 @@ Doc tools
 Docs-as-code
 ~~~~~~~~~~~~
 
-- |:newspaper:| `Pros and cons of the docs-as-code approach <//blog/newsletter-april-2020/#pros-and-cons-of-the-docs-as-code-approach>`__
+- |:newspaper:| `To git or not to git docs as code </blog/newsletter-august-2020/#to-git-or-not-to-git-docs-as-code>`__
+- |:newspaper:| `Pros and cons of the docs-as-code approach </blog/newsletter-april-2020/#pros-and-cons-of-the-docs-as-code-approach>`__
 - |:newspaper:| `Adventures in generating docs from code comments </blog/newsletter-august-2019/#adventures-in-generating-docs-from-code-comments>`__
 - |:newspaper:| `What to do about text wrapping </blog/newsletter-july-2019/#what-to-do-about-text-wrapping>`__
 - |:newspaper:| `DITA vs docs-as-code </blog/newsletter-june-2019/#dita-vs-docs-as-code>`__
@@ -412,6 +421,7 @@ User feedback
 
 Gathering it and acting on it.
 
+- |:newspaper:| `Gathering documentation feedback </blog/newsletter-july-2020/#gathering-documentation-feedback>`__
 - |:newspaper:| `Documentation feedback widgets - thumbs up or down? </blog/newsletter-december-2019/#documentation-feedback-widgets-thumbs-up-or-down>`__
 - |:newspaper:| `Collecting and acting on user feedback </blog/newsletter-may-2019/#collecting-and-acting-on-user-feedback>`__
 - |:newspaper:| `Gathering user feedback </blog/newsletter-november-2018/#getting-feedback-from-users>`__
@@ -514,6 +524,7 @@ Customer support
 Helping engineers to write
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `The engineer and the writer can be friends: tales of collaboration </blog/newsletter-july-2020/#the-engineer-and-the-writer-can-be-friends-tales-of-collaboration>`__
 - |:movie_camera:| `Teaching geeks to fish: tales of a contagious documentarian </videos/prague/2018/teaching-geeks-to-fish-tales-of-a-contagious-documentarian-abigail-sutherland/>`__
 - |:newspaper:| `Promoting plain language </blog/newsletter-november-2018/#promoting-plain-language>`__
 - |:newspaper:| `Teaching peers writing </blog/newsletter-may-2017/#peer-to-peer-teaching>`__
@@ -553,6 +564,7 @@ Prioritisation
 Agile and workflows
 ~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Tracking work </blog/newsletter-july-2020/#tracking-work>`__
 - |:newspaper:| `Task management for docs teams </blog/newsletter-october-2018/#task-management-tools-for-docs-teams>`__
 - |:newspaper:| `Agile workflows for docs </blog/newsletter-october-2018/#show-us-your-workflows>`__
 - |:newspaper:| `Working on Agile teams </blog/newsletter-may-2017/#the-challenges-of-documentation-in-an-agile-environment>`__
