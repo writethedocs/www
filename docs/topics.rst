@@ -36,6 +36,8 @@ Specific writing questions
 
 One word vs another, using abbreviations, etc.
 
+- |:newspaper:| `Should documentation have a formal tone? </blog/newsletter-december-2019/#should-documentation-have-a-formal-tone>`__
+- |:newspaper:| `“You”-sing the second person in documentation </blog/newsletter-november-2019/#you-sing-the-second-person-in-documentation>`__
 - |:newspaper:| `The variable fortunes of variable placeholders in docs </blog/newsletter-may-2019/#the-variable-fortunes-of-variable-placeholders-in-docs>`__
 - |:newspaper:| `Using imperatives </blog/newsletter-may-2018/#using-imperatives-in-documentation>`__
 - |:newspaper:| `Page vs screen </blog/newsletter-august-2018/#in-the-time-of-web-based-applications-what-is-a-page-and-what-is-a-screen>`__
@@ -76,6 +78,7 @@ Other media
 
 Including videos, diagrams, and screenshots.
 
+- |:newspaper:| `Behind the scenes with fonts, emojis, and Unicode </blog/newsletter-october-2019/#behind-the-scenes-with-fonts-emojis-and-unicode>`__
 - |:newspaper:| `Advice for creating technical illustrations </blog/newsletter-august-2019/#advice-for-creating-technical-illustrations>`__
 - |:newspaper:| `Tips and tricks for producing video </blog/newsletter-may-2019/#tips-and-tricks-for-producing-videos>`__
 - |:movie_camera:| `So you want to make videos? </videos/prague/2018/so-you-want-to-make-videos-sarah-ley-hamilton/>`__
@@ -228,6 +231,8 @@ Related roles
 Career growth
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `Leading and following: finding a mentor, being a mentor </blog/newsletter-october-2019/#leading-and-following-finding-a-mentor-being-a-mentor>`__
+- |:newspaper:| `Feeling like a fraud and how to deal with it </blog/newsletter-october-2019/#feeling-like-a-fraud-and-how-to-deal-with-it>`__
 - |:newspaper:| `Making the leap to managing writers </blog/newsletter-july-2019/#making-the-leap-to-managing-writers>`__
 - |:newspaper:| `Tips for lone writers starting from scratch </blog/newsletter-february-2019/#tips-for-lone-writers-starting-from-scratch>`__
 - |:newspaper:| `Personal development goals </blog/newsletter-february-2019/#personal-development-goals-for-documentarians>`__
@@ -264,6 +269,7 @@ Accessibility and inclusivity
 Design
 ~~~~~~~
 
+- |:newspaper:| `Docs and design: When docs can’t fix all the things </blog/newsletter-november-2019/#docs-and-design-when-docs-can-t-fix-all-the-things>`__
 - |:movie_camera:| `How I decided to do this talk </videos/au/2017/how-i-decided-to-do-this-talk-gap-analysis-and-pull-apart-documentation-planning>`__
 - |:movie_camera:| `Peanuts and Minimalism and Technical Writing </videos/au/2017/peanuts-and-minimalism-and-technical-writing-brice-fallon/>`__
 - |:movie_camera:| `Writing for what matters. Writing for thinking. </videos/eu/2015/writing-for-what-matters-writing-for-thinking-znemec/>`__
@@ -312,6 +318,9 @@ User needs
 Doc tools
 ---------
 
+- |:newspaper:| `How your tools affect your writing </blog/newsletter-december-2019/#how-your-tools-affect-your-writing>`__
+- |:newspaper:| `Deciding on a new tool… </blog/newsletter-october-2019/#deciding-on-a-new-tool>`__
+- |:newspaper:| `… and migrating to a new tool </blog/newsletter-october-2019/#and-migrating-to-a-new-tool>`__
 - |:movie_camera:| `Choosing a tool... and choosing your moment </videos/prague/2018/choosing-a-tool-and-choosing-your-moment-val-grimm/>`__
 - |:movie_camera:| `Writing extensions in Sphinx: supercharge your docs </videos/au/2017/writing-extensions-in-sphinx-supercharge-your-docs-nicola-nye/>`__
 - |:movie_camera:| `Finally! Trustworthy and Sensible API Documentation with GraphQL </videos/eu/2017/finally-trustworthy-and-sensible-api-documentation-with-graphql-garen-torikian/>`__
@@ -382,6 +391,7 @@ User feedback
 
 Gathering it and acting on it.
 
+- |:newspaper:| `Documentation feedback widgets - thumbs up or down? </blog/newsletter-december-2019/#documentation-feedback-widgets-thumbs-up-or-down>`__
 - |:newspaper:| `Collecting and acting on user feedback </blog/newsletter-may-2019/#collecting-and-acting-on-user-feedback>`__
 - |:newspaper:| `Gathering user feedback </blog/newsletter-november-2018/#getting-feedback-from-users>`__
 
@@ -456,11 +466,14 @@ Style guides
 Working across roles
 --------------------
 
+- |:newspaper:| `The strengths of different backgrounds </blog/newsletter-november-2019/#the-strengths-of-different-backgrounds>`__
+
 Working with writers
 ~~~~~~~~~~~~~~~~~~~~
 
 Including review, editing, and teaching.
 
+- |:newspaper:| `The challenge of giving difficult feedback </blog/newsletter-november-2019/#the-challenge-of-giving-difficult-feedback>`__
 - |:newspaper:| `Facilitating top-notch doc review </blog/newsletter-june-2019/#facilitating-top-notch-doc-review>`__
 - |:movie_camera:| `Good Code, Bad Code & Code Review <https://www.youtube.com/watch?v=Mx4iRq-inm8&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=8>`__
 - |:newspaper:| `Giving feedback </blog/newsletter-february-2018/#it-s-not-personal-it-s-feedback>`__
