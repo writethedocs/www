@@ -25,7 +25,7 @@ buttons:
     #   link: /cfp
     # - text: See the talks!
     #   link: /speakers
-     - text: See the Schedule
+    - text: See the Schedule
       link: /schedule
     - text: Read the Welcome Wagon
       link: /welcome-wagon
