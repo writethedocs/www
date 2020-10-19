@@ -1,7 +1,7 @@
 Sphinx==3.2.1
 recommonmark==0.6.0
 ablog==0.10.6  # pyup: ignore
-tox==3.20.0
+tox==3.20.1
 sphinx_autobuild==2020.9.1
 PyYAML>=4.2b1
 docutils==0.16
