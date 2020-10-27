@@ -32,7 +32,7 @@ Shirts still on sale
 
 If you want a souvenir from this year's conference, our `Write the Docs Prague 2020 Pop-Up Shop <https://teespring.com/wtd-prague-2020>`_ is still open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.
 
-The campaign will run in 3-day batches until August 30th. Shipping is available from the USA or Europe.
+The campaign will run in 3-day batches until November 30th. Shipping is available from the USA or Europe.
 
 Code of Conduct transparency report
 ===================================
