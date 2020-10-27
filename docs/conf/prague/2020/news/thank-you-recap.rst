@@ -17,7 +17,7 @@ Conference recap
 At over 300 people, this year's conference was our biggest yet! We had the usual mix of main stage and lightning talks, unconference sessions, writing sprints, and social events. 
 We were very happy with how well all of our events transitioned to our new online format. We loved how the spirit of the community was so palpable even in an online event, which was even more special given the year we've all had.
 
-Overall, we were excited with how our awesome community come together in our new virtual venue.
+Overall, we were excited with how our awesome community came together in our new virtual venue.
 Lots of knowledge was shared, and we had a great time.
 
 Videos
