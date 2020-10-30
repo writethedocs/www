@@ -14,7 +14,7 @@ photos:
   default: _static/conf/images/headers/prague-group.png
 
 buttons:
-#  top:
+  top:
      # - text: The conference is moving online
      #   link_absolute: /blog/moving-portland-prague-2020-online/
     #  link: /tickets
@@ -32,9 +32,9 @@ buttons:
 #      link: /livestream
 #     - text: Browse the photos
 #       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-#     - text: Watch the videos!
-#       link_absolute: /videos/portland/2020
-#  bottom:
+     - text: Watch the videos!
+       link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpmRWZJaUwQzsdagW2TtRI2x
+  bottom:
 #    - text: Sponsor us
 #      link: /sponsors/prospectus
      # - text: The conference is moving online
@@ -51,8 +51,8 @@ buttons:
     #  link: /livestream
 #     - text: Browse the photos
 #       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-#     - text: Watch the videos!
-#       link_absolute: /videos/portland/2020
+     - text: Watch the videos!
+       link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpmRWZJaUwQzsdagW2TtRI2x
 
 tickets:
   corporate:
