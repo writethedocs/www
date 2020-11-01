@@ -20,18 +20,18 @@ That’s all the new I've got for you today. Onto the articles from our lovely c
 Career progression among documentarians
 ---------------------------------------
 
-What does a typical documentarian career ladder look like? A theoretical standard is something like Junior Technical Writer > Technical Writer > Senior Technical Writer > Documentation Manager - but reality can be much more complicated. This month, we learned about how the docs career path varies from company to company and other roles that tech writers might jump into.
+What does a typical documentarian career ladder look like? A theoretical standard is something like `Junior Technical Writer > Technical Writer > Senior Technical Writer > Documentation Manager` - but reality can be much more complicated. This month, we learned about how the docs career path varies from company to company and other roles that tech writers might jump into.
 
 About those job titles...they can be pretty different between companies! For the junior role, some companies use "Associate" or "Writer I". Some companies have more variety at the more experienced end of the spectrum, where a senior might be a Staff Technical Writer, a Technical Writing Specialist, or  Principal Technical Writer. And still others may have parallel roles like Technical Editor; or an entirely separate track for lead/management positions.
 
-Methods for moving along the career ladder also vary by company. Some places might emphasize developing new technical skills, and others might be more concerned with the impact you can create. Check out this presentation from our very own newsletter editor, for a comparison of skills- and impact-based approaches: `Models for personal growth: career progression for tech writers <https://www.slideshare.net/BethAitman/models-for-personal-growth-career-progression-for-tech-writers>`_.
+Methods for moving along the career ladder also vary by company. Some places might emphasize developing new technical skills, and others might be more concerned with the impact you can create. For a comparison of skills- and impact-based approaches, check out this presentation from our very own newsletter editor: `Models for personal growth: career progression for tech writers <https://www.slideshare.net/BethAitman/models-for-personal-growth-career-progression-for-tech-writers>`_.
 
 Different paths into documentation as a profession is a common topic in our Slack discussions. Perhaps less common is where technical writing can lead you. Some of the roles people mentioned to transition out of technical writing included product management and project management, software development, training, data science, business analysis, customer support, and (for a really adventurous change) operating a guesthouse in France! Deborah Barnard's blog post `After tech writing: where do you go if you want to move on? <https://www.knowledgeowl.com/home/after-tech-writing>`_ may be helpful if you're considering a change.
 
 Plus, if you're considering a managerial position as a technical writer, here are some tips:
 
 * If your company doesn't offer a documentation-oriented job with managerial duties, you might be able to write your own job description (especially if you're currently performing those tasks without the title), and persuade your company to create that job.
-* These resources might give you more information about what to expect: the book `Managing Writers: A Real World Guide to Managing Technical Documentation <https://xmlpress.net/publications/managing-writers/>`_ by Richard L. Hamilton; advice at the `Ask a Manager <https://www.askamanager.org/>`_ website; Simon Sinek's talk `Leadership is a learnable skill <https://simonsinek.com/commit/leadership-is-a-learnable-skill/>`_; and the `Manager Tools and Career Tools<https://www.manager-tools.com/podcasts>`_ podcasts.
+* These resources might give you more information about what to expect: the book `Managing Writers: A Real World Guide to Managing Technical Documentation <https://xmlpress.net/publications/managing-writers/>`_ by Richard L. Hamilton; advice at the `Ask a Manager <https://www.askamanager.org/>`_ website; Simon Sinek's talk `Leadership is a learnable skill <https://simonsinek.com/commit/leadership-is-a-learnable-skill/>`_; and the `Manager Tools and Career Tools <https://www.manager-tools.com/podcasts>`_ podcasts.
 
 ---------------------------------------
 All about accessibility and inclusivity
@@ -56,7 +56,7 @@ For those who want a deeper dive:
 
 For a real-world tale of why accessibility matters, see `5 most annoying website features I face as a blind person every single day <https://bighack.org/5-most-annoying-website-features-i-face-as-a-blind-screen-reader-user-accessibility/>`_.
 
-Those of us who document APIs should consider that `API Document Generators Can Fall Woefully Short on Meeting Accessibility Guidelines <https://thenewstack.io/api-document-generators-can-fall-woefully-short-meeting-accessibility-guidelines/>`_. The article is three years old, but the problem remains, although one WTDer called out `ReDoc<https://github.com/Redocly/redoc>`_ as a good option for its attention to accessibility issues.
+Those of us who document APIs should consider that `API Document Generators Can Fall Woefully Short on Meeting Accessibility Guidelines <https://thenewstack.io/api-document-generators-can-fall-woefully-short-meeting-accessibility-guidelines/>`_. The article is three years old, but the problem remains, although one WTDer called out `ReDoc <https://github.com/Redocly/redoc>`_ as a good option for its attention to accessibility issues.
 
 Members of the community also gave shoutouts to resources for bias-free language:
 
@@ -124,7 +124,7 @@ Individual contributor roles:
 
 Manager roles: 
 
-- `Manager, Technical Writing <https://jobs.writethedocs.org/job/244/manager-technical-writing/>`__, Appian, (McClean, VA, USA)
+- `Manager, Technical Writing <https://jobs.writethedocs.org/job/244/manager-technical-writing/>`__, Appian (McClean, VA, USA)
 - `Manager, Technical Writing <https://jobs.writethedocs.org/job/240/manager-technical-writing/>`__, Google (USA)
 - `Manager, Technical Writing, Google Cloud <https://jobs.writethedocs.org/job/241/manager-technical-writing-google-cloud/>`__, Google (Bengaluru, India)
 - `Technical Writing Manager, Google Cloud Platform <https://jobs.writethedocs.org/job/235/technical-writing-manager-google-cloud-platform/>`__, Google (Warsaw, Poland)
