@@ -56,6 +56,8 @@ Relevant talks from Write the Docs:
 
 ### Reducing bias in your writing
 
+Free resources:
+
 - [The Conscious Style Guide - a collection of resources](https://consciousstyleguide.com/)
 - [Diversity Style Guide](https://www.diversitystyleguide.com/)
 - [Google's Developer Style Guide on Inclusive Documentation](https://developers.google.com/style/inclusive-documentation)
@@ -64,6 +66,14 @@ Relevant talks from Write the Docs:
 - [Microsoft Style Guide on Bias Free Communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
 - [Internet Engineering Task Force (IETF) on Terminology, Power, and Oppressive Language](https://tools.ietf.org/id/draft-knodel-terminology-00.html)
 - [American Psychological Association (APA)'s Guide on Bias-Free Language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/)
+
+Paid resources:
+
+- [The Responsible Communication Style Guide](https://rcstyleguide.com/)
+
+Relevant talks from Write the Docs:
+
+- [What They Don’t Tell You About Creating New Style Guides](https://www.writethedocs.org/videos/portland/2018/what-they-don-t-tell-you-about-creating-new-style-guides-thursday-bram/)
 
 ### Providing inclusive example names
 
