@@ -6,15 +6,13 @@
 Write the Docs Newsletter – November 2020
 #########################################
 
-Hello friends - it’s Beth and the newsletter team here.
-
-And just like that, Prague has been and gone. I spent the days after conference feeling a strange mix of revived and exhausted - in other words, just how I always feel after a Write the Docs conference. Not a bad outcome given the move online! I’m glad it turns out we can still gather and be supported and inspired, even when pandemics conspire against us. Plus, videos of both the main stage talks and lightning talks are now up on `our YouTube playlist <https://www.youtube.com/playlist?list=PLZAeFn6dfHpmRWZJaUwQzsdagW2TtRI2x>`__ - enjoy!
+Hello friends! It’s Beth and the newsletter team here, writing to you after our second ever online WTD conference. I spent the days after Prague feeling a strange mix of revived and exhausted - in other words, just how I always feel after a Write the Docs conference. A pretty good outcome if you ask me. If you'd like to catch up on anything you missed, or rewatch your favourites, videos of both the main stage talks and lightning talks are now up on `our YouTube playlist <https://www.youtube.com/playlist?list=PLZAeFn6dfHpmRWZJaUwQzsdagW2TtRI2x>`__. Enjoy!
 
 If you’re already looking forward to the next conference, we’ve got you covered: tickets for the `Australia & India conference on 3-4 December </conf/australia/2020/>`__ are on sale. To get a sense of the great stuff you can expect there, check out the `list of speakers </conf/australia/2020/speakers/>`__.
 
-One last thing - the `salary survey </surveys/salary-survey-sep-2020/>`__ is open until 16 November. So if you haven’t filled it out yet, we’d love it if you did.
+One last thing - the `salary survey </surveys/salary-survey-sep-2020/>`__ is open until 16 November. So if you've been putting it off for later, please do fill it out - it only takes 5-10 minutes. And we'd love it if you sent the link to documentarian colleagues, friends or contacts outside the WTD community, who might not have heard about it. The more data we have, the more useful it becomes, so we'd like to hear from as many folks as possible.
 
-That’s all the new I've got for you today. Onto the articles from our lovely correspondents!
+That’s all the news I've got for you today. Onto the articles from our lovely correspondents!
 
 ---------------------------------------
 Career progression among documentarians
@@ -28,10 +26,12 @@ Methods for moving along the career ladder also vary by company. Some places mig
 
 Different paths into documentation as a profession is a common topic in our Slack discussions. Perhaps less common is where technical writing can lead you. Some of the roles people mentioned to transition out of technical writing included product management and project management, software development, training, data science, business analysis, customer support, and (for a really adventurous change) operating a guesthouse in France! Deborah Barnard's blog post `After tech writing: where do you go if you want to move on? <https://www.knowledgeowl.com/home/after-tech-writing>`_ may be helpful if you're considering a change.
 
-Plus, if you're considering a managerial position as a technical writer, here are some tips:
+If you're considering a managerial position but your company doesn't offer a documentation-oriented job with managerial duties, you could try to write your own job description (especially if you're currently performing those tasks without the title), and persuade your company to create that job. For more on moving into management, these resources might give you more information about what to expect:
 
-* If your company doesn't offer a documentation-oriented job with managerial duties, you might be able to write your own job description (especially if you're currently performing those tasks without the title), and persuade your company to create that job.
-* These resources might give you more information about what to expect: the book `Managing Writers: A Real World Guide to Managing Technical Documentation <https://xmlpress.net/publications/managing-writers/>`_ by Richard L. Hamilton; advice at the `Ask a Manager <https://www.askamanager.org/>`_ website; Simon Sinek's talk `Leadership is a learnable skill <https://simonsinek.com/commit/leadership-is-a-learnable-skill/>`_; and the `Manager Tools and Career Tools <https://www.manager-tools.com/podcasts>`_ podcasts.
+* The book `Managing Writers: A Real World Guide to Managing Technical Documentation <https://xmlpress.net/publications/managing-writers/>`_ by Richard L. Hamilton
+* Advice at the `Ask a Manager <https://www.askamanager.org/>`_ website
+* Simon Sinek's talk `Leadership is a learnable skill <https://simonsinek.com/commit/leadership-is-a-learnable-skill/>`_
+* The `Manager Tools and Career Tools <https://www.manager-tools.com/podcasts>`_ podcasts
 
 ---------------------------------------
 All about accessibility and inclusivity
@@ -69,7 +69,7 @@ Finally, a few handy WTD resources: `lists of resources for inclusive writing an
 Dealing with stress & struggling to write
 ------------------------------------------
 
-Is it any surprise that we've been talking a lot about stress recently? Truly working out how to deal with stress is so individual, and means looking at the big picture - it's not something that you can sort out with one or two quick tips. But our community members recently shared some thoughts on how they manage stress, especially when that stress causes you to struggle to focus and complete work. Maybe some of them you'll find helpful.
+Is it any surprise that we've been talking a lot about stress recently? Truly working out how to deal with stress is so individual, and means looking at the big picture - it's not something that you can sort out with one or two quick tips. But our community members recently shared some thoughts on how they manage stress, especially when that stress causes you to struggle to focus and complete work. Maybe you'll find some of them helpful.
 
 * If you're feeling overwhelmed by the weight of your to-do list, perhaps you can explicitly ignore/say no to some work. Can you postpone or drop lower-priority tasks? Or can you ignore them even for a day - just pick one item from your list, and try to complete that? Sometimes finishing one thing can feel like a big win.
 * Collaborate! Your colleagues might be able to help - can you find ways to delegate, or share the load?
@@ -135,7 +135,10 @@ Manager roles:
 Virtual events coming up
 ------------------------
 
-- 03 November, 6pm CEST (Stockholm) - `Docs as Code, Accessibility, and Knowledge Management <https://www.meetup.com/Write-the-Docs-Stockholm/events/273772322/>`__
-- 18 November, 7pm CEST (Paris) - `WTD Paris Afterwork <https://www.meetup.com/Write-the-Docs-Paris/events/274040989/>`__
+- 04 November, 6pm CET (Stockholm) - `Docs as Code, Accessibility, and Knowledge Management <https://www.meetup.com/Write-the-Docs-Stockholm/events/273772322/>`__
+- 04 November, 10am-4pm EET (Vilnius) - `Writing Day <https://www.meetup.com/Write-the-Docs-Vilnius/events/jkxhbsybcpbgb/>`__
+- 12 November, 12pm EST (Boston) - `Emotional personas: writing for the human animal <https://www.meetup.com/boston-write-the-docs/events/273665407/>`__
+- 16 November, 7pm EST (Detroit) - `Virtual Happy Hour and Lightning Talks <https://www.meetup.com/write-the-docs-detroit-windsor/events/274347940/>`__
+- 18 November, 7pm CET (Paris) - `WTD Paris Afterwork <https://www.meetup.com/Write-the-Docs-Paris/events/274040989/>`__
 - 24 November, 6pm EST (Ottawa) - `WTD Ottawa Shopify Meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqybcpbnb/>`__
 - 03-04 December, from 11:30 AEDT (Australia + India) - `Write the Docs Australia & India </conf/australia/2020>`__
