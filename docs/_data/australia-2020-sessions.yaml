@@ -98,40 +98,59 @@
     but also sharing advice and resources for those looking to start contributing
     to open source projects. I’ve summed this up into 5 points:</p>
 
-    <p>Contribute to something you care about.
+    <p>Contribute to something you care about.</p>
 
-    * How to find something you care about.
+    <ul>
 
-    * Take part in open source initiatives and events.</p>
+    <li>How to find something you care about.</li>
 
-    <p>Having mental space and support is important.
+    <li>Take part in open source initiatives and events.</li>
 
-    * Contributing is great, but not at the expense of all your free time and mental
-    health.
+    </ul>
 
-    * Give yourself the time to learn about the new project.
+    <p>Having mental space and support is important.</p>
 
-    * How to find the time to contribute.</p>
+    <ul>
 
-    <p>How to communicate with people you’ve never met.
+    <li>Contributing is great, but not at the expense of all your free time and mental health.</li>
 
-    * Why communication is important and how it can go wrong.
+    <li>Give yourself the time to learn about the new project.</li>
 
-    * Learn about community practices.
+    <li>How to find the time to contribute.</li>
 
-    * Be mindful of how you write issues and comments.</p>
+    </ul>
 
-    <p>Ask for help if you need it.
+    <p>How to communicate with people you’ve never met.</p>
 
-    * How to find help when you’re stuck.
+    <ul>
 
-    * How to acknowledge someone’s help.</p>
+    <li>Why communication is important and how it can go wrong.</li>
 
-    <p>Open source contributions are valuable.
+    <li>Learn about community practices.</li>
 
-    * Looking at the impact your change has on the community.
+    <li>Be mindful of how you write issues and comments.</li>
 
-    * How to use contributions as part of your professional portfolio.</p>'
+    </ul>
+
+    <p>Ask for help if you need it.</p>
+
+    <ul>
+
+    <li>How to find help when you’re stuck.</li>
+
+    <li>How to acknowledge someone’s help.</li>
+
+    </ul>
+
+    <p>Open source contributions are valuable.</p>
+
+    <ul>
+
+    <li>Looking at the impact your change has on the community.</li>
+
+    <li>How to use contributions as part of your professional portfolio.</li>
+
+    </ul>'
 - title: A treasure map for the doc – Exploring the discoverability of documentation
   slug: a-treasure-map-for-the-doc-exploring-the-discoverability-of-documentation-marika-vertzonis
   series: Write the Docs Australia
