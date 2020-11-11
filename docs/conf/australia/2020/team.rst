@@ -35,6 +35,11 @@ Jared Morgan
 
 {% include "bios/jared.rst" %}
 
+Gaurav Nelson
+~~~~~~~~~~~~~~~~~~
+
+{% include "bios/gaurav.rst" %}
+
 
 Primary Roles
 -------------
