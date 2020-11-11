@@ -118,6 +118,10 @@ about:
 
 
 sponsors:
+  patron:
+    - name: redocly
+      link: https://redoc.ly/
+      brand: Redocly
   publisher:
     - name: google
       link: https://www.google.com
