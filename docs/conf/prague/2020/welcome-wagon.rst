@@ -76,7 +76,7 @@ To attend the moderated Q&A after each talk, go to **Sessions** and select the *
 Watching talks after the conference
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Don't worry if you miss something in a talk! Stage talks and Q&A sessions are recorded. Videos will be published in the `Write the Docs Video Archive <https://www.writethedocs.org/videos/>`__ shortly after the conference (typically about a week after the conference ends). Sign up for `our newsletter <https://www.writethedocs.org/newsletter/>`__ or `subscribe to our YouTube channel <https://www.youtube.com/c/WritetheDocs/?sub_confirmation=1>`__ to be notified when the videos are published.
+Don't worry if you miss something in a talk! Stage talks and Q&A sessions are recorded. Videos will be published in the `Write the Docs Video Archive <https://www.writethedocs.org/videos/>`__ shortly after the conference (typically about a week after the conference ends). To be notified when videos are published, `sign up for our newsletter <https://www.writethedocs.org/newsletter/>`__ or `subscribe to our YouTube channel <https://www.youtube.com/c/WritetheDocs/?sub_confirmation=1>`__.
 
 Other sessions (such as Unconference, Hallway, and Writing Day sessions) are not recored.
 
