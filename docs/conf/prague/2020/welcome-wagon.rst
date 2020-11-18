@@ -63,7 +63,6 @@ Conference talks and Q&A
 - When it’s time for a talk you want to see, select **Stage**.
 - If we have problems with our online platform, we will set up a back-up stream. If turned on, we will post links to the back-up stream in the conference chat and on the `conference Slack channel <https://writethedocs.slack.com/archives/C1AKFQATH>`__.
 - After a talk, feel free to tweet about it with the hashtag #writethedocs.
-- There is a lot of great information at this conference, but don’t worry if you miss something! All talks are recorded and videos will be published shortly after the conference, so you can review them later.
 
 Asking questions
 ~~~~~~~~~~~~~~~~
@@ -73,6 +72,13 @@ To attend the moderated Q&A after each talk, go to **Sessions** and select the *
 - Enter your questions into the **Chat** channel (always on the right-hand side of any page) prefixed with “Q:“, and the moderator will ask the speaker for you.
 - Make sure the **Session** toggle is on for the Chat, so your question will be seen by the moderator.
 - Due to time constraints, we might not be able to get to all of your questions. If your question isn’t asked live, chat with the speaker later and make a connection!
+
+Watching talks after the conference
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Don't worry if you miss something in a talk! Stage talks and Q&A sessions are recorded. Videos will be published in the `Write the Docs Video Archive <https://www.writethedocs.org/videos/>`__ shortly after the conference (typically about a week after the conference ends). To be notified when videos are published, `sign up for our newsletter <https://www.writethedocs.org/newsletter/>`__ or `subscribe to our YouTube channel <https://www.youtube.com/c/WritetheDocs/?sub_confirmation=1>`__.
+
+Other sessions (such as Unconference, Hallway, and Writing Day sessions) are not recored.
 
 Participate in the conference
 -----------------------------
