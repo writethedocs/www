@@ -13,7 +13,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
 {% endblock %}
 
 {% block container %}
-<div class="hero" style="background: linear-gradient(rgba(160,92,191, 1),  rgba(160,92,191, 0.5)), url({{ pathto(meta['banner'], 1) }}), no-repeat;background-position: bottom;background-size: cover;">
+<div class="hero" style="background: linear-gradient(rgba({{ rgb }}, 1),  rgba({{ rgb }}, 0.5)), url({{ pathto(meta['banner'], 1) }}), no-repeat;background-position: bottom;background-size: cover;">
     <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18">
       <div class="uk-navbar-right">
         <button class="uk-navbar-toggle uk-hidden@s"  type="button" uk-navbar-toggle-icon uk-toggle="target: #offcanvas-nav"></button>
@@ -28,6 +28,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
                             {{ cobrand.brand_html }}
                             {% endif %}
                             <em>{{ name }}</em>
+                            <em style="top: -20px;">{{ year }}</em>
                         </div>
                       {% if not flaglanding %}
                      {% include year_str + "/menu-mobile.html" %}
@@ -51,6 +52,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
           {{ cobrand.brand_html }}
           {% endif %}
           <em>{{ name }}</em>
+          <em style="top: -20px;">{{ year_str }}</em>
         </a>
       </div>
       <div class="hero-text">
