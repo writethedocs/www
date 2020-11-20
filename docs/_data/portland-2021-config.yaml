@@ -25,20 +25,20 @@ buttons:
     #   link: /welcome-wagon
     # - text: See the Schedule!
     #   link: /schedule
-     # - text: Buy a Ticket!
-     #   link: /tickets
+    # - text: Buy a Ticket!
+    #   link: /tickets
     # - text: Sponsor us
     #   link: /sponsors/online-prospectus
     # - text: Submit a Talk
     #   link: /cfp
     # - text: See the talks!
     #   link: /speakers
-#    - text: See the Schedule!
-#      link: /schedule
-#    - text: Watch the Live Stream
-#      link: /livestream
-#     - text: Browse the photos
-#       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    # - text: See the Schedule!
+    #   link: /schedule
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: Browse the photos
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
     # - text: Watch the videos!
     #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
   bottom:
@@ -46,22 +46,22 @@ buttons:
       link: /news/init
     # - text: See the Schedule!
     #   link: /schedule
-     # - text: Date and ticket information
-     #   link: /news/announcing-virtual-conf-dates-tickets
-     # - text: Sponsor the conference
-     #   link: /sponsors/online-prospectus
-     # - text: See the talks!
-     #   link: /speakers
+    # - text: Date and ticket information
+    #   link: /news/announcing-virtual-conf-dates-tickets
+    # - text: Sponsor the conference
+    #   link: /sponsors/online-prospectus
+    # - text: See the talks!
+    #   link: /speakers
     # - text: Buy a Ticket!
     #   link: /tickets
-#    - text: Prepare with the Welcome Wagon
-#      link: /welcome-wagon
-#    - text: See the schedule!
-#      link: /schedule
+    # - text: Prepare with the Welcome Wagon
+    #   link: /welcome-wagon
+    # - text: See the schedule!
+    #   link: /schedule
     # - text: Watch the Live Stream
-    #  link: /livestream
-#     - text: Browse the photos
-#       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    #   link: /livestream
+    # - text: Browse the photos
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
     # - text: Watch the videos!
     #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
 
