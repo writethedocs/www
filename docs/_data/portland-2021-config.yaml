@@ -9,8 +9,8 @@ area_adj: North American
 tz: PST
 email: portland@writethedocs.org
 color: gold
-rgb: 255,198,58
-hex: ffc63a
+rgb: 253,185,19
+hex: fdb913
 
 photos:
   default: _static/conf/images/headers/group.png
