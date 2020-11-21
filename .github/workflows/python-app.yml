@@ -23,4 +23,4 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
     - name: Run tests with tox
-      run: tox
+      run: tox -e py
