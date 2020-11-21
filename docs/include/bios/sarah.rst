@@ -1,4 +1,5 @@
-Sarah is a technical writer at Google and a Write the Docs devotee.
-She strives for words that pack a punch. Case in point - check out Sarah's
-recent creation: A fictional action hero named Trilby Trench, who lives by the
-mantra that tech writers aren’t as harmless as they seem.
+Sarah is a technical writer at Google. Seven years ago, Sarah joined Google to
+write the docs for the Google Maps APIs. Since then she’s worked on various
+products, including cloud, machine learning, and now internal engineering docs.
+When not writing, Sarah loves to walk in the Australian bush, talking to the 
+birds and musing about mushrooms.
