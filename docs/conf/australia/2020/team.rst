@@ -40,6 +40,11 @@ Gaurav Nelson
 
 {% include "bios/gaurav.rst" %}
 
+Sarah Maddox
+~~~~~~~~~~~~~~~~~~
+
+{% include "bios/sarah.rst" %}
+
 
 Primary Roles
 -------------
@@ -55,7 +60,7 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 * **Communication chair** - Swapnil Ogale
 * **Volunteer coordinator** - TBA
 * **Sponsorship** - Swapnil Ogale
-* **Unconference coordinator** - TBA
+* **Unconference coordinator** - Sarah Maddox
 * **Emcee** - Jared Morgan
 * **Welcome Wagon coordinators** - TBA
 * **Social media chair** - Swapnil Ogale
