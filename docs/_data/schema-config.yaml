@@ -9,6 +9,8 @@ area_adj: str()
 tz: str()
 email: str()
 color: str(required=False)
+hex: str(required=False)
+rgb: str(required=False)
 titocode: str(required=False)
 cobrand: include('cobrand-details', required=False)
 

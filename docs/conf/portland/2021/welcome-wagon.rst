@@ -59,7 +59,7 @@ around.
 Conference talks and Q&A
 ------------------------
 
-- There’s a talk schedule on the **Reception** page and on the `Write the Docs website <https://www.writethedocs.org/conf/prague/2020/schedule/>`__. Select the Calendar icon next to the talks you want to see on the Reception page to add them to your calendar.
+- There’s a talk schedule on the **Reception** page and on the `Write the Docs website <https://www.writethedocs.org/conf/{{ shortcode }}/2020/schedule/>`__. Select the Calendar icon next to the talks you want to see on the Reception page to add them to your calendar.
 - When it’s time for a talk you want to see, select **Stage**.
 - If we have problems with our online platform, we will set up a back-up stream. If turned on, we will post links to the back-up stream in the conference chat and on the `conference Slack channel <https://writethedocs.slack.com/archives/C1AKFQATH>`__.
 - After a talk, feel free to tweet about it with the hashtag #writethedocs.
@@ -108,18 +108,18 @@ Helpful settings
 Writing Day
 -----------
 
-`Writing Day <https://www.writethedocs.org/conf/prague/2020/writing-day/>`__ takes place on Sunday, the day before the conference starts. You can join in anytime between 9:30am and 5pm PDT.
+`Writing Day <https://www.writethedocs.org/conf/{{ shortcode }}/2020/writing-day/>`__ takes place on Sunday, the day before the conference starts. You can join in anytime between 9:30am and 5pm PDT.
 
 You can bring a writing project you want to work on, or you can contribute to a project someone else brought.
 
 - **Bring a project**: If you want help with your project, `sign up <https://docs.google.com/spreadsheets/d/1IjA2yQWi1qVhopJ8PyG2obMVa5nodIRsggFSJACaWRk/edit?usp=sharing>`__ before Writing Day. When you are ready to start your project on Writing Day, go to **Sessions**, select your table, and start collaborating.
 - **Contribute to a project**: If you want to help someone else with their writing project, `check out the list of projects <https://docs.google.com/spreadsheets/d/e/2PACX-1vTnTF98Sa8kqGT8G7zY3g8kTaEF1AqB8P5EfVJbz305s2BelEZo_rMpQzMIcL5Dfe7Ywfvy1ApHGp0Q/pubhtml>`__. When you are ready to participate, go to **Sessions**, select the session for the project you want to contribute to, and introduce yourself.
-- Here’s the `2019 Writing Day Project list that you can use as a guide <https://www.writethedocs.org/conf/prague/2019/writing-day/>`__.
+- Here’s the `2019 Writing Day Project list that you can use as a guide <https://www.writethedocs.org/conf/{{ shortcode }}/2019/writing-day/>`__.
 
 Unconference
 ------------
 
-- The Unconference is a set of informal sessions that take place all day Monday and Tuesday afternoon. `Unconference talks focus on conversations and exchanges of ideas between participants. <https://www.writethedocs.org/conf/prague/2020/unconference/>`__
+- The Unconference is a set of informal sessions that take place all day Monday and Tuesday afternoon. `Unconference talks focus on conversations and exchanges of ideas between participants. <https://www.writethedocs.org/conf/{{ shortcode }}/2020/unconference/>`__
 - You can attend unconference sessions, or, if you have an idea for a session, you can lead one. Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
 
 Lead an unconference session
@@ -151,7 +151,7 @@ Lightning talks
 ---------------
 
 - A Lightning Talk is a five-minute talk where you quickly share a concept or bit of info you find interesting. Lightning talks are a great way to practice public speaking, get people excited about your Unconference session, and test interest in a conference proposal idea.
-- If you are interested in giving a lightning talk, be prepared! There is a great guide `here <https://www.writethedocs.org/conf/prague/2020/lightning-talks/?highlight=re>`__.
+- If you are interested in giving a lightning talk, be prepared! There is a great guide `here <https://www.writethedocs.org/conf/{{ shortcode }}/2020/lightning-talks/?highlight=re>`__.
 - Watch the conference chat and **Reception** for an announcement that Lightning Talk sign-ups have opened and for directions on how to sign up.
 - If you are selected to speak, one of the Organisers will contact you with more information.
 
@@ -247,6 +247,6 @@ Pro tips
 
 - Conferences are exhilarating, but can also be exhausting. Give your brain a break! Grab a quiet spot or take a quick walk. Play a board game on your lunch break. Come back invigorated.
 
-- Find out who is attending the conference before you attend. Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__, and review the `list of speakers <https://www.writethedocs.org/conf/prague/2020/speakers/>`__.
+- Find out who is attending the conference before you attend. Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__, and review the `list of speakers <https://www.writethedocs.org/conf/{{ shortcode }}/2020/speakers/>`__.
 
 - In case of technical issues with our main platform Hopin, please watch the `#wtd-conferences Slack channel <https://writethedocs.slack.com/archives/C1AKFQATH>`_ for status updates and alternative viewing links that might be posted.

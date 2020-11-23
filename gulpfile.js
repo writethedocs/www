@@ -12,7 +12,7 @@ var gulp = require('gulp'),
     changed = require('gulp-changed')
 
 gulp.task('styles', gulp.series(function(callback_finished) {
-    var years = ['2018', '2019', '2020'];
+    var years = ['2018', '2019', '2020', '2021'];
     years.forEach(function(year) {
       gulp.src('docs/_static/conf/scss/main-' + year + '.scss', {style: 'expanded'})
           .pipe(sass().on('error', sass.logError))

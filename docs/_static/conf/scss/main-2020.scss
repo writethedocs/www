@@ -50,12 +50,12 @@ body .page-content ul {
 
 	li {
 		color: copy-color;
-		padding-left: 1em; 
+		padding-left: 1em;
 		text-indent: -.7em;
 
 		&:before {
 			content: "•  ";
-			color: $main-color; 
+			color: $main-color;
 			padding-right: 10px;
 		}
 	}
@@ -176,12 +176,12 @@ body .page-content {
 	a.headerlink {
 		color: #fff;
 	}
-	
+
 	a.headerlink:hover {
 		color: rgb(68, 68, 68);
 		background: rgb(234, 234, 234);
 	}
-	
+
 
 	h1, h2, h3, h4, h5, h6 {
 		text-align: left;
@@ -283,15 +283,15 @@ body .page-content {
 			margin-bottom: 20px;
 			padding-bottom: 20px;
 
-			
-	
+
+
 			& > img {
 				width: 40px;
 				height: 40px;
 				border-radius: 20px;
 				margin-right: 10px;
 			}
-	
+
 			.speaker-contact-info {
 				position: relative;
 				top: -6px;
@@ -475,7 +475,7 @@ body .page-content {
 					@include picture;
 				}
 			}
-			
+
 		}
 	}
 
@@ -612,7 +612,7 @@ body .uk-offcanvas-slide a.uk-button-ghost {
 		padding: 48px 24px;
 
 		a:hover {
-			text-decoration: none;	
+			text-decoration: none;
 		}
 
 		.news:hover {
@@ -628,7 +628,7 @@ body .uk-offcanvas-slide a.uk-button-ghost {
 			margin-bottom: 24px;
 			text-decoration: none;
 
-			
+
 
 			.date > * {
 				display: inline;
@@ -691,7 +691,7 @@ body .uk-offcanvas-slide a.uk-button-ghost {
 		}
 	}
 
-	
+
 }
 
 .footer-head {
@@ -877,7 +877,7 @@ footer {
 			text-align: left;
 			font-style: normal;
 		}
-		
+
 		a.headerlink {
 			display: none;
 		}
@@ -895,7 +895,7 @@ footer {
 		margin-top: 40px;
 		margin-bottom: 36px;
 
-		
+
 		nav .uk-nav li {
 			display: inline-block;
 			padding-left: 0;
@@ -1111,7 +1111,7 @@ footer {
 			&> * {
 				display: flex;
 				justify-content: center;
-			}		
+			}
 		}
 
 		.sponsor div img {
@@ -1157,7 +1157,7 @@ footer {
 
 		.footer-content {
 			padding-left: 78px;
-      height: 272px;
+		    height: 400px;
 
 			.footer-social-section {
 				display: flex;
@@ -1204,7 +1204,7 @@ footer {
 
 	body .page-content .schedule-item .item-starting-time {
 		padding-right: 100px;
-	}	
+	}
 
 	body .page-content .schedule-item .item-speaker-picture {
 		display: inherit;
@@ -1214,7 +1214,7 @@ footer {
 		margin-left: auto;
 		border-radius: 20px;
 	}
-	
+
 }
 
 @media (min-width: 1024px) {
@@ -1284,15 +1284,15 @@ footer {
 		&:first-child {
 			transform:  rotate(15deg) translate(33px,12px);
 		}
-  
+
 		&:nth-child(2) {
 			transform: rotate(23deg) translate(85px,-244px);
 		}
-  
+
 		&:nth-child(3) {
 			transform: rotate(21deg) translate(-44px,-184px);
 		}
-  
+
 		&:last-child {
 			transform: rotate(-18deg) translate(246px,-354px);
 		}

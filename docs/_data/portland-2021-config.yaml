@@ -1,0 +1,171 @@
+name: Portland
+
+shortcode: portland # prague australia?
+year: 2021
+city: Portland
+local_area: Oregon
+area: North America # European Australian
+area_adj: North American
+tz: PST
+email: portland@writethedocs.org
+color: gold
+rgb: 253,185,19
+hex: fdb913
+
+photos:
+  default: _static/conf/images/headers/group.png
+
+buttons:
+  top:
+    - text: Welcome to our conference
+      link: /news/init
+    # - text: Date and ticket information
+    #   link: /news/announcing-virtual-conf-dates-tickets
+    # - text: Read our conference guide
+    #   link: /welcome-wagon
+    # - text: See the Schedule!
+    #   link: /schedule
+    # - text: Buy a Ticket!
+    #   link: /tickets
+    # - text: Sponsor us
+    #   link: /sponsors/online-prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
+    # - text: See the talks!
+    #   link: /speakers
+    # - text: See the Schedule!
+    #   link: /schedule
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: Browse the photos
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    # - text: Watch the videos!
+    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+  bottom:
+    - text: Welcome to our conference
+      link: /news/init
+    # - text: See the Schedule!
+    #   link: /schedule
+    # - text: Date and ticket information
+    #   link: /news/announcing-virtual-conf-dates-tickets
+    # - text: Sponsor the conference
+    #   link: /sponsors/online-prospectus
+    # - text: See the talks!
+    #   link: /speakers
+    # - text: Buy a Ticket!
+    #   link: /tickets
+    # - text: Prepare with the Welcome Wagon
+    #   link: /welcome-wagon
+    # - text: See the schedule!
+    #   link: /schedule
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: Browse the photos
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    # - text: Watch the videos!
+    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+
+tickets:
+  corporate:
+    price: $175
+  independent:
+    price: $125
+  student:
+    price: $35
+
+sponsorship:
+  first_draft:
+    price: $900
+  second_draft:
+    price: $2,500
+  publisher:
+    price: $5,000
+  patron:
+    price: $9,500
+  keystone:
+    price: $17,000
+
+grants:
+  url: TODO
+  ends: "March 1, 2021"
+  notification: "March 10, 2021"
+
+shirts:
+  url: https://teespring.com/wtd-portland-2020
+  ends: "May 31, 2021"
+
+date: # how do we handle these? human readable would be nice.
+  main: "**April 25-27, 2021, online**"
+  short: Apr 25-27, 2021
+  tickets_live: "January 2021"
+  month: April
+  day_one:
+    event: Hike
+    date: On your own
+    summary: We encourage you to go on a hike in your own beautiful home town.
+    #summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    icon: hike
+    dotw: Saturday
+  day_two:
+    event: Writing Day
+    date: April 25
+    summary: Join us for the <a href="/conf/portland/2021/writing-day/">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    #summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    icon: writing
+    dotw: Sunday
+  day_three:
+    event: Main Conference
+    date: April 26-27
+    summary: The main days of the conference. We will be running one main track, and an <a href="/conf/portland/2021/unconference/">Unconference</a>.
+    #summary: The main days of the conference. We will be running our main track in the ballroom, and the Unconference in Lola's Room.
+    icon: conference
+    dotw: Monday/Tuesday
+  total_talk_days: 2
+
+about:
+  attendees: 600
+  summary:
+    "The main presentation track takes place from **April 26-27 (Monday and Tuesday) from 9am to 6pm**.
+    During the main event we also run an :doc:`/conf/portland/2021/unconference`."
+
+  venue:
+    "Online, https://hopin.to/ . Your login will be emailed to you before the event."
+  photos:
+  mainroom:
+    "Video area"
+  unconfroom:
+    "Chat area"
+  projector_ratio: "16:9"
+  job_fair_room: "Sponsor area"
+
+cfp:
+  url: TODO
+  ends: "January 25, 2021"
+  notification: "February 15, 2021"
+
+sponsors:
+  keystone:
+  patron:
+  publisher:
+  second:
+  first:
+
+
+# Things that change over time, listed in order of change
+flaglanding: True
+flaghassponsors: False
+flagcfp: False
+flagticketsonsale: False
+flagsoldout: False
+flagspeakersannounced: False
+flaghasschedule: False
+flaghasshirts: False
+flagvideos: False
+flaglivestreaming: False
+flagpostconf: False
+
+# Truthy things that don't change
+flaghashike: False
+flaghasboat: False
+flaghaswritingday: True
+flaghasbadgeflair: False

@@ -118,11 +118,14 @@ about:
 
 
 sponsors:
+  patron:
+    - name: redocly
+      link: https://redoc.ly/
+      brand: Redocly
   publisher:
     - name: google
       link: https://www.google.com
       brand: Google
-  second:
   first:
     - name: knowledgeowl
       link: https://www.knowledgeowl.com

@@ -35,6 +35,16 @@ Jared Morgan
 
 {% include "bios/jared.rst" %}
 
+Gaurav Nelson
+~~~~~~~~~~~~~~~~~~
+
+{% include "bios/gaurav.rst" %}
+
+Sarah Maddox
+~~~~~~~~~~~~~~~~~~
+
+{% include "bios/sarah.rst" %}
+
 
 Primary Roles
 -------------
@@ -43,15 +53,14 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 
 * **Conference chair** - Swapnil Ogale
 * **Conference co-chair** - Rajakavitha Kodhandapani
-* **Swag coordinator** - TBA
-* **Speaker wrangler** - TBA
+* **Swag coordinator** - Mikey Ariel
+* **Speaker wrangler** - Swapnil Ogale
 * **Infrastructure chair** - Samuel Wright
-* **Lightning Talk coordinator** - TBA
+* **Lightning Talk coordinators** - Gaurav Nelson and Tali Samoylenko
 * **Communication chair** - Swapnil Ogale
 * **Volunteer coordinator** - TBA
 * **Sponsorship** - Swapnil Ogale
-* **Unconference coordinator** - TBA
-* **Emcee** - TBA
+* **Unconference coordinator** - Sarah Maddox
+* **Emcee** - Jared Morgan
 * **Welcome Wagon coordinators** - TBA
-* **Explore Sydney coordinator** - TBA
 * **Social media chair** - Swapnil Ogale
