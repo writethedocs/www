@@ -4,8 +4,6 @@ talks_day1:
   - time: '11:30'
     title: Write the Docs Australia and India Team - Introduction to Write the Docs
   - time: '12:00'
-    title: "<b>Unconference Starts</b>"
-  - time: '12:00'
     slug: microcontent-designing-developing-reusable-content-scott-deloach
   - time: '12:45'
     slug: how-and-why-to-make-awesome-video-tutorials-sayraphim-lothian
@@ -15,6 +13,8 @@ talks_day1:
     title: Break (45 mins)
   - time: '15:00'
     title: Lightning Talks (30 mins)
+  - time: '15:30'
+    title: "<b>Unconference Starts</b>"
   - time: '15:30'
     slug: when-agile-fails-working-on-large-documentation-projects-lana-brindley
   - time: '16:15'
@@ -39,8 +39,6 @@ talks_day2:
     title: 'Platform opens'
   - time: '11:30'
     slug: the-pains-of-composition-how-to-write-your-best-documentation-in-a-collaborative-world-matt-reiner
-  - time: '12:00'
-    title: "<b>Unconference Starts</b>"
   - time: '12:15'
     slug: content-strategy-in-practice-a-case-study-sam-irons
   - time: '13:00'
@@ -51,6 +49,8 @@ talks_day2:
     title: Break (45 mins)
   - time: '15:15'
     title: Lightning Talks (30 mins)
+  - time: '15:45'
+    title: "<b>Unconference Starts</b>"
   - time: '15:45'
     slug: overcoming-the-plight-of-lone-writers-ankita-tripathi
   - time: '16:30'
