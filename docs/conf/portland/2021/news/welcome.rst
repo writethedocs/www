@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Nov 20, 2020
+.. post:: Nov 23, 2020
    :tags: {{shortcode}}-{{year}}, website, tickets
 
 Announcing Write the Docs Portland {{year}}
