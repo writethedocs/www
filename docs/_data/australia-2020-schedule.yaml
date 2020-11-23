@@ -42,9 +42,9 @@ talks_day2:
   - time: '12:15'
     slug: content-strategy-in-practice-a-case-study-sam-irons
   - time: '13:00'
-    slug: a-treasure-map-for-the-doc-exploring-the-discoverability-of-documentation-marika-vertzonis
-  - time: '13:45'
     slug: influence-your-customer-outreach-with-best-practices-for-internationalization-vikram-mulay
+  - time: '13:45'
+    slug: a-treasure-map-for-the-doc-exploring-the-discoverability-of-documentation-marika-vertzonis
   - time: '14:30'
     title: Break (45 mins)
   - time: '15:15'

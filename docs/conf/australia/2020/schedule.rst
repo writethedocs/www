@@ -12,7 +12,7 @@ Each year we organize a wide range of events so that people can come together, c
     :backlinks: none
 
 Thursday, December 3
------------------
+--------------------
 
 .. contents::
    :local:

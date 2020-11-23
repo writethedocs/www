@@ -60,7 +60,7 @@ Specs
 ~~~~~
 
 * Ad size: 240x180px
-* Ad length: Up to 180 characters
+* Ad length: Up to 100 characters
 * One link for the image and copy to point to
 
 Cost
