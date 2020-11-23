@@ -3,10 +3,10 @@
 Welcome Wagon Guide
 ===================
 
-Hello!
+G'day!
 
 We’re your Welcome Wagon, and we’re glad you’re attending Write the
-Docs! We realize a virtual conference might be totally new to you (us,
+Docs! We realise a virtual conference might be totally new to you (us,
 too!). This guide will help you navigate it, even if you’ve been to a
 Write the Docs conference before.
 
