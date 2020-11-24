@@ -105,7 +105,7 @@ date: # how do we handle these? human readable would be nice.
   total_talk_days: 2
 
 about:
-  attendees: 250
+  attendees: 150
   summary:
     "The main presentation track takes place from **December 3-4 (Thursday and Friday) from 11:00am to 7:00pm AEDT**.
     During the main event we also run an :doc:`/conf/australia/2020/unconference`."
