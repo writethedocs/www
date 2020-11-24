@@ -52,7 +52,7 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **12:00pm-6:00pm AEDT**
+* **When**: **3:30pm-6:00pm AEDT**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Thursday Night Social
@@ -105,5 +105,5 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **12:00pm-6:00pm AEDT**
+* **When**: **3:45pm-6:00pm AEDT**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
