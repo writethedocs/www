@@ -9,14 +9,14 @@ Announcing Write the Docs Portland {{year}}
 Welcome to the official launch of `Write the Docs Portland {{year}} <https://www.writethedocs.org/conf/portland/{{year}}/>`_,
 our fourth virtual conference.
 We have been tuning our approach to these events since our first virtual event in August,
-and are excited to invite you back to our online space.
+and are happy to invite you back to our online space.
 
 We're excited to announce the dates for our next conference:
-**Write the Docs Portland 2021 will be April 25-27, 2021**
+**Write the Docs Portland 2021 will be on April 25-27, 2021**
 
 It's been a rough year for a lot of us,
 and we are still putting the finishing touches on the event this year.
-We plan to have more detail over the next couple weeks,
+We plan to have more details during the next few weeks,
 but there's a few more detailed updates below.
 
 Call for Proposals
@@ -42,8 +42,8 @@ However, if you can't afford these prices and still wish to attend, please email
 Sponsorship
 -----------
 
-We are planning to do similar sponsorship levels again this year as last year.
-If you're interested in sponsoring the conference,
+We are planning to do similar sponsorship levels again this year as last year. In addition to the regular sponsorship levels, we are working on additional ways to sponsor our online events.
+In the meantime, 
 you can look at our `2020 sponsorship prospectus <https://www.writethedocs.org/conf/portland/2020/sponsors/online-prospectus/>`_ to get an idea.
 
 We're always open to customizations on our sponsorships, especially given the new online format.
