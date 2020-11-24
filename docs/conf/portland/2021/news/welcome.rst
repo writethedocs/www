@@ -37,13 +37,15 @@ so that you can start planning your budget.
 As with the previous years, we have tiered pricing to make it fair for everyone.
 
 As always, we keep ticket prices low so that it is accessible to the widest range of people possible.
-However, if you can't afford these prices and still wish to attend, please email us at portland@writethedocs.org, and we can see how we can help.
+However, if you can't afford these prices and still wish to attend,
+we will bringing our Opportunity Grants program back again this year.
 
 Sponsorship
 -----------
 
-We are planning to do similar sponsorship levels again this year as last year. In addition to the regular sponsorship levels, we are working on additional ways to sponsor our online events.
-In the meantime, 
+We are planning to do similar sponsorship levels again this year as last year.
+In addition to the regular sponsorship levels, we are working on additional ways to sponsor our online events.
+In the meantime,
 you can look at our `2020 sponsorship prospectus <https://www.writethedocs.org/conf/portland/2020/sponsors/online-prospectus/>`_ to get an idea.
 
 We're always open to customizations on our sponsorships, especially given the new online format.
