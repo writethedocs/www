@@ -49,7 +49,7 @@ Conference Talks
 Unconference
 ~~~~~~~~~~~~
 
-The unconference sessions run in parallel to the main conference talks.
+The unconference sessions run in the second half of the day.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
 * **When**: **3:30pm-6:00pm AEDT**
@@ -102,8 +102,8 @@ Conference Talks
 Unconference
 ~~~~~~~~~~~~
 
-The unconference sessions run in parallel to the main conference talks.
+The unconference sessions run in the second half of the day.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **3:45pm-6:00pm AEDT**
+* **When**: **3:45pm-6:15pm AEDT**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
