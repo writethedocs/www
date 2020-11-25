@@ -102,33 +102,33 @@ Helpful settings
 Unconference
 ------------
 
-- The Unconference is a set of informal sessions that take place both days (Thursday and Friday) afternoon after the lightning talks. `Unconference talks focus on conversations and exchanges of ideas between participants. <https://www.writethedocs.org/conf/Australia/2020/unconference/>`__
-- You can attend unconference sessions, or, if you have an idea for a session, you can lead one. Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
+- The unconference is a set of informal sessions that take place in the second half of both days (Thursday and Friday). Unconference talks focus on conversations and exchanges of ideas between participants.
+- You can attend unconference sessions, or, if you have an idea for a session, you can lead one.
 
 Lead an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
-- Look for an empty slot on the `Unconference sign-up <https://docs.google.com/spreadsheets/d/1IjA2yQWi1qVhopJ8PyG2obMVa5nodIRsggFSJACaWRk/edit?usp=sharing>`__, and add your Unconference topic. There will be a time and a table number for each slot.
-- When it’s time for your Unconference session to begin, go to **Sessions** and select the session that corresponds to your table number.
+- Look for an empty slot in the `unconference signup sheet <http://tiny.cc/wtd-au-india-schedule2020>`__ and add your unconference topic. There's a time and a table number for each slot.
+- When it’s time for your unconference session to begin, go to **Sessions** in Hopin (our conference platform) and select the session that corresponds to your table number.
 - The previous unconference session will be in the same table. Let the attendees of the previous session know that their time is up, and your session will begin soon.
 - Once a group has entered your session, start the conversation!
-- When the Unconference leader for the next session enters the session, finish up your discussion to make way for the next one.
+- When the unconference leader for the next session enters the session, finish up your discussion to make way for the next one.
 
 Tips for your unconference session
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Avoid doing roundtable introductions. You might run out of time to actually start the conversation!
 - Start the session with a prompt: think of a question that you have about the topic of your unconference and ask it. The conversation typically works itself out after that. If there’s a lull, ask the group if anyone else has a question to ask.
-- Up to 20 people can join the session with audio and video, but more people than that may join your Unconference through chat. Be sure to check the session chat regularly and include people there in the conversation.
+- Up to 20 people can join the session with audio and video, but more people may join your unconference through chat. Be sure to check the session chat regularly and include people there in the conversation.
 - Be on the lookout for people who aren’t joining in and invite them to speak. Don’t insist, if they make it clear they want to listen only.
 
 Join an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Starting Thursday afternoon, check the `Unconference schedule <https://docs.google.com/spreadsheets/d/e/2PACX-1vTnTF98Sa8kqGT8G7zY3g8kTaEF1AqB8P5EfVJbz305s2BelEZo_rMpQzMIcL5Dfe7Ywfvy1ApHGp0Q/pubhtml>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
-- At the time the session starts, go to **Sessions** and select the session with the table number that corresponds to the one in the `Unconference schedule <https://docs.google.com/spreadsheets/d/e/2PACX-1vTnTF98Sa8kqGT8G7zY3g8kTaEF1AqB8P5EfVJbz305s2BelEZo_rMpQzMIcL5Dfe7Ywfvy1ApHGp0Q/pubhtml>`__.
-- The session leader will begin when the group has gathered.
+- Starting Thursday afternoon, check the `unconference schedule <http://tiny.cc/wtd-au-india-schedule2020>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
+- At the time the session starts, go to the **Sessions** tab in Hopin (our unconference platform) and select the session with the table number that corresponds to the one in the `unconference schedule <http://tiny.cc/wtd-au-india-schedule2020>`__.
+- The session leader will start the session when the group has gathered.
 
 Lightning talks
 ---------------
