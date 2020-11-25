@@ -18,7 +18,7 @@ photos:
 buttons:
   top:
     - text: Welcome to our conference
-      link: /news/init
+      link: /news/welcome
     # - text: Date and ticket information
     #   link: /news/announcing-virtual-conf-dates-tickets
     # - text: Read our conference guide
@@ -43,7 +43,7 @@ buttons:
     #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
   bottom:
     - text: Welcome to our conference
-      link: /news/init
+      link: /news/welcome
     # - text: See the Schedule!
     #   link: /schedule
     # - text: Date and ticket information
