@@ -27,8 +27,8 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
                             <em>+</em>
                             {{ cobrand.brand_html }}
                             {% endif %}
-                            <em>{{ name }}</em>
-                            <em>{{ year }}</em>
+                            <em>{{ name }}</em> <br>
+                            <em style="top: -20px;">{{ year }}</em>
                         </div>
                       {% if not flaglanding %}
                      {% include year_str + "/menu-mobile.html" %}
