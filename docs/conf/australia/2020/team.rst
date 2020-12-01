@@ -45,6 +45,11 @@ Sarah Maddox
 
 {% include "bios/sarah.rst" %}
 
+Tali Samoylenko
+~~~~~~~~~~~~~~~~
+
+{% include "bios/tali.rst" %}
+
 
 Primary Roles
 -------------
