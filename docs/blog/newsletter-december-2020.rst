@@ -17,7 +17,7 @@ That's it from me. I hope you enjoy our write-ups of what's been happening in Sl
 -----------------------------------------------------
 Trying to change when "we've always done it that way"
 -----------------------------------------------------
-​
+
 When you're newly charged with stewarding documentation that's been around for a while, it's common to find big things you want to change and polish. But what about that nagging feeling that your manager, your customers, and other stakeholders like the docs just the way they are?
 
 Documentarians who have grappled with this dilemma had some suggestions. First, evaluate whether you have managerial buy-in for the kinds of changes you want to make. If the focus is on documenting new features and fixing errors, you may not find much enthusiasm for reorganization projects. Figuring this out in advance keeps you from wasting work you can't implement or even shipping the start of changes you can't complete (which can leave the docs in a worse state than you found them).
@@ -39,7 +39,6 @@ Docs linting has been getting a lot of attention on the WTD Slack lately. Here's
 - Linting can help maintain consistent enforcement of a style guide - for writers as well as non-writers! 
 - It's also useful for an MVP implementation of readability standards. You can lint for simpler words, or simpler grammar.
 - To help you when tidying up resolving merge conflicts, it's a good idea to lint for conflict markers!
-
 
 ------------------------------
 The best time to use a tooltip
@@ -71,7 +70,7 @@ This month’s newsletter is sponsored by `Paligo <https://bit.ly/3fuibKK>`__:
         <tr>
           <td width="75%">
               <p>
-              <a href="https://https://bit.ly/3fuibKK>Paligo is an all-in-one cloud-based CCMS platform.</a> Authoring, versioning, branching, release workflows, publishing, translation management, and more - all updated continuously in the cloud. No more worrying about locally installed software and deployment!
+              <a href="https://bit.ly/3fuibKK>Paligo is an all-in-one cloud-based CCMS platform.</a> Authoring, versioning, branching, release workflows, publishing, translation management, and more - all updated continuously in the cloud. No more worrying about locally installed software and deployment!
               </p>
 
               <p>
@@ -79,8 +78,8 @@ This month’s newsletter is sponsored by `Paligo <https://bit.ly/3fuibKK>`__:
               </p>
           </td>
           <td width="25%">
-            <a href="https://www.LINK.COM">
-              <img style="margin-left: 15px;" alt="SPONSOR" src="/_static/img/sponsors/IMAGE.png">
+            <a href="https://bit.ly/3fuibKK">
+              <img style="margin-left: 15px;" alt="Paligo" src="/_static/img/sponsors/paligo.png">
             </a>
           </td>
         </tr>
