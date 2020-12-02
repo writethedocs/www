@@ -151,12 +151,12 @@ The Thursday night Social will be designed by you this year! You can host a sess
 Attend a social event
 ~~~~~~~~~~~~~~~~~~~~~
 
-Check the `list of social events <https://docs.google.com/spreadsheets/d/e/2PACX-1vTnTF98Sa8kqGT8G7zY3g8kTaEF1AqB8P5EfVJbz305s2BelEZo_rMpQzMIcL5Dfe7Ywfvy1ApHGp0Q/pubhtml>`__\ **,** and then go to the **Sessions** page and select the table that you want to join.
+Check the `list of social events <http://tiny.cc/wtd-au-india-schedule2020>`__\ **,** and then go to the **Sessions** page and select the table that you want to join.
 
 Host a social event
 ~~~~~~~~~~~~~~~~~~~
 
-If you have an idea for a social event, find an empty table in the `sign-up sheet <https://docs.google.com/spreadsheets/d/1IjA2yQWi1qVhopJ8PyG2obMVa5nodIRsggFSJACaWRk/edit?usp=sharing>`__ and add your session. Here’s some ideas:
+If you have an idea for a social event, find an empty table in the `sign-up sheet <http://tiny.cc/wtd-au-india-schedule2020>`__ and add your session. Here’s some ideas:
 
 - Online game night
 - WFH life meetup – give attendees a video tour of your space
