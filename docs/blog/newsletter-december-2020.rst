@@ -70,7 +70,7 @@ This month’s newsletter is sponsored by `Paligo <https://bit.ly/3fuibKK>`__:
         <tr>
           <td width="75%">
               <p>
-              <a href="https://bit.ly/3fuibKK>Paligo is an all-in-one cloud-based CCMS platform.</a> Authoring, versioning, branching, release workflows, publishing, translation management, and more - all updated continuously in the cloud. No more worrying about locally installed software and deployment!
+              <a href="https://bit.ly/3fuibKK">Paligo is an all-in-one cloud-based CCMS platform.</a> Authoring, versioning, branching, release workflows, publishing, translation management, and more - all updated continuously in the cloud. No more worrying about locally installed software and deployment!
               </p>
 
               <p>
