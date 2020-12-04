@@ -8,7 +8,7 @@ Write the Docs Newsletter – December 2020
 
 Hey everyone - it's Beth bringing you the final WTD newsletter of the year.
 
-I hope you're all holding up okay. I haven't got any grand thoughts for you on how to sum up this year, or how we'll handle what's next. But I do want to thank all of you for being part of this community - for your conversations, your contributions, your insights and support and wit and sarcasm. They're what Write the Docs is built on. So thanks, for making our Slack and the three conferences into a source of support and connection - in a year when we've needed it more than ever.
+I hope you're all holding up okay. I haven't got any grand thoughts on how to sum up this year, or how we'll handle what's next. But I do want to thank all of you for being part of this community - for your conversations, your contributions, your insights and support and wit and sarcasm. They're what Write the Docs is built on. So thanks, for making our Slack and the three conferences into a source of support and connection - in a year when we've needed it more than ever.
 
 We're already looking towards 2021, and have `just announced </conf/portland/2021/news/welcome/>`__ that Write the Docs Portland will be our fourth virtual conference, on April 25-27. Mark your calendars, and keep an eye out for the Call for Proposals - it's coming sometime in December.
 
@@ -48,7 +48,7 @@ Tooltips and online help are very different tools for providing information to u
 
 The main response from Slack was that it's not a binary choice, and both are useful when implemented well. In fact, they support each other: the brief details in a tooltip can link to online help for fuller details.
 
-Tooltips are simpler for users to access than online help, but they're limited in the amount they can contain. They're at their best when they enhance the interface - for example, showing that a component has a keyboard shortcut. Just be careful, as it's not always easy for users to tell that a tooltip is available.
+Tooltips are simpler for users to access than online help, but they're limited in the amount of text they can contain. They're at their best when they enhance the interface - for example, showing that a component has a keyboard shortcut. Just be careful, as it's not always easy for users to tell that a tooltip is available.
 
 Not every element needs a tooltip! If the information you'd put in a tooltip is obvious, it doesn't add much value. In contrast, good tooltip candidates are elements that new users are likely to have a question about, or that aren't very clear by themselves, but make much more sense with a little bit of extra information.
 
