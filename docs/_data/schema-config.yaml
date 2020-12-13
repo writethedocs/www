@@ -149,6 +149,7 @@ cfp-details:
   url: str(required=True)
   ends: str(required=True)
   notification: str(required=True)
+  video_by: str(required=False)
 
 grants-details:
   url: str(required=True)

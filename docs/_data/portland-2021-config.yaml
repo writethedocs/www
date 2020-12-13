@@ -17,8 +17,8 @@ photos:
 
 buttons:
   top:
-    - text: Welcome to our conference
-      link: /news/welcome
+    #- text: Welcome to our conference
+    #  link: /news/welcome
     # - text: Date and ticket information
     #   link: /news/announcing-virtual-conf-dates-tickets
     # - text: Read our conference guide
@@ -29,9 +29,9 @@ buttons:
     #   link: /tickets
     # - text: Sponsor us
     #   link: /sponsors/online-prospectus
-    # - text: Submit a Talk
-    #   link: /cfp
-    # - text: See the talks!
+    - text: Submit a Talk
+      link: /cfp
+    #- text: See the talks!
     #   link: /speakers
     # - text: See the Schedule!
     #   link: /schedule
@@ -139,9 +139,10 @@ about:
   job_fair_room: "Sponsor area"
 
 cfp:
-  url: TODO
-  ends: "January 25, 2021"
-  notification: "February 15, 2021"
+  url: https://pretalx.com/write-the-docs-portland-2021
+  ends: "January 25, 2021"          # 2 weeks to review and get confirmnations
+  notification: "February 10, 2021" # leaves 6 weeks to write and record
+  video_by: "March 31, 2021"        # 3 weeks before the conf
 
 sponsors:
   keystone:
@@ -154,7 +155,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: True
 flaghassponsors: False
-flagcfp: False
+flagcfp: True
 flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: False
