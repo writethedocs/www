@@ -3,8 +3,8 @@
 .. post:: Nov 12, 2020
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
-Announcing Write the Docs Portland {{year}} Call for Proposals
-==========================================================
+Announcing Call for Proposals
+=============================
 
 Today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/portland/{{year}}/cfp/>`_.
 

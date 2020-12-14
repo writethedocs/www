@@ -67,23 +67,21 @@ buttons:
 
 tickets:
   corporate:
-    price: $175
+    price: $200
   independent:
     price: $125
   student:
-    price: $35
+    price: $25
 
 sponsorship:
-  first_draft:
-    price: $900
   second_draft:
-    price: $2,500
+    price: $2,000
   publisher:
-    price: $5,000
+    price: $4,000
   patron:
-    price: $9,500
+    price: $8,500
   keystone:
-    price: $17,000
+    price: $15,000
 
 grants:
   url: TODO
@@ -159,6 +157,7 @@ flagcfp: True
 flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: False
+flagrunofshow: False
 flaghasschedule: False
 flaghasshirts: False
 flagvideos: False
