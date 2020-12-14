@@ -6,7 +6,7 @@ city: Portland
 local_area: Oregon
 area: North America # European Australian
 area_adj: North American
-tz: PT
+tz: Pacific  # PT until March, PST after... :/
 email: portland@writethedocs.org
 color: gold
 rgb: 253,185,19
