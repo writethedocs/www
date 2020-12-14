@@ -46,9 +46,9 @@ Second Draft
 
 The **Second Draft** package is great for companies looking to hire or to promote a product.
 
-- **Increased** Three (3) tickets_
-- **Increased** Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- **Increased** A short description (250 characters) and logo of your company on the conference website
+- Three (3) tickets_
+- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- A short description (250 characters) and logo of your company on the conference website
 - A table at our **virtual job fair**
 - Name included in welcome announcement in email newsletters and social media
 
@@ -59,12 +59,12 @@ Publisher
 
 The **Publisher** package is great for sending a team and getting to know the community.
 
-- **Increased** Seven (7) tickets_
-- **Increased** Four (4) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- **Increased** A short description (250 characters) and logo of your company on the conference website
+- Seven (7) tickets_
+- Four (4) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- A short description (250 characters) and logo of your company on the conference website
 - A table at our **virtual job fair**
 - Name included in welcome announcement in email newsletters and social media
-- **New** A small logo on all Write the Docs website pages for 3 months
+- A small logo on all Write the Docs website pages for 3 months
 
 The **Publisher** package costs **{{sponsorship.publisher.price}}**.
 
@@ -75,17 +75,17 @@ Patron
 
 The **Patron** package highlights your company as a force in the industry and community:
 
-- **Increased** Thirteen (13) tickets_
-- **Increased** Seven (7) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- **Increased** A medium description (750 characters and logo of your company on the conference website
+- Thirteen (13) tickets_
+- Seven (7) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- A medium description (750 characters and logo of your company on the conference website
 - A **virtual sponsorship booth**
 - A featured table at our **virtual job fair**
 - Small logo included in intermission slides and on talk videos
 - Name included in welcome announcement in email newsletters and social media
-- **New** 5 minute sponsored lightning talk on main stage of the conference
-- **New** One newsletter sponsorship (logo & 300 characters) in our newsletter ({{ newsletter_subs }}+ subscribers)
-- **New** A logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
-- **New** A :doc:`small ad </sponsorship/website>` displayed on all non-conferences pages of the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months.
+- 5 minute sponsored lightning talk on main stage of the conference
+- One newsletter sponsorship (logo & 300 characters) in our newsletter ({{ newsletter_subs }}+ subscribers)
+- A logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
+- A :doc:`small ad </sponsorship/website>` displayed on all non-conferences pages of the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months.
 
 The **Patron** package costs **{{sponsorship.patron.price}}**.
 
@@ -94,17 +94,17 @@ Keystone
 
 The **Keystone** package highlights you as our main community partner:
 
-- **Increased** Twenty (20) tickets_
-- **Increased** Ten (10) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- **Increased** A large description (750 characters) and logo of your company on the conference website
+- Twenty (20) tickets_
+- Ten (10) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- A large description (750 characters) and logo of your company on the conference website
 - A featured **virtual sponsorship booth**
 - A featured table at our **virtual job fair**
 - Large logo included in intermission slides and on talk videos
 - Name included in welcome announcement in email newsletters and social media
-- **New** 5 minute sponsored lightning talk on main stage of the conference
-- **New** Two newsletter sponsorships (logo & 300 characters) in our newsletter ({{ newsletter_subs }}+ subscribers)
-- **New** A logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
-- **New** A :doc:`small ad </sponsorship/website>` on the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months
+- 5 minute sponsored lightning talk on main stage of the conference
+- Two newsletter sponsorships (logo & 300 characters) in our newsletter ({{ newsletter_subs }}+ subscribers)
+- A logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
+- A :doc:`small ad </sponsorship/website>` on the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months
 
 The **Keystone** package costs **{{sponsorship.keystone.price}}**.
 
@@ -157,8 +157,14 @@ Invoices must be paid **within 30 days of invoice receipt**, or no later than on
 .. _ticket: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
 .. _tickets: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
 
+
 Run of Show
 ===========
+{% if not flagrunofshow %}
+
+The Run of Show will be published closer to the event.
+
+{% else %}
 
 This Run of Show provides more context about the event and answers some common questions you may have.
 Please let us know if there is any information missing that would be useful for you.
@@ -272,3 +278,5 @@ but it has demos of all the other areas as well:
 .. raw:: html
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/JgGVOlbOPUU?start=465" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% endif %}

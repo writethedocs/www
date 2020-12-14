@@ -70,7 +70,7 @@
     <div class="footer-head">
         <div class="uk-container">
         {% block footerhead %}
-         {% if buttons is defined %}
+         {% if buttons is defined and buttons.bottom %}
              {% for callout in buttons.bottom %}
                <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year_str + callout.link ) }}{% endif %}">{{ callout.text }}</a>
              {% endfor %}

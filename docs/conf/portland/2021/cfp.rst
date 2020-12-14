@@ -3,15 +3,10 @@
 Call for Proposals
 ==================
 
-Hello hello, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{ area_adj }} conference, coming up on {{date.main}}. The conference is virtual this year, so you can speak or attend from anywhere. We will use regular Prague conference times for the scheduling.
+Hello hello, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{ city }} conference, coming up on {{date.main}}. The conference is virtual this year, so you can speak or attend from anywhere. We will use regular {{ city }} conference times for the scheduling.
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you!
 Read on to learn more about the goals of the conference and what we look for in talk proposals.
-
-.. contents::
-    :local:
-    :depth: 1
-    :backlinks: none
 
 {% if flagcfp %}
 In the meantime, mark your calendars:
@@ -22,6 +17,22 @@ We'll let you know if your proposal has been accepted by the end of {{cfp.notifi
 {% else %}
 We will announce the CFP soon.
 {% endif %}
+
+.. contents::
+    :local:
+    :depth: 1
+    :backlinks: none
+
+Ready to submit your talk?
+You can do that here:
+
+.. raw:: html
+
+    <div class="announcement" style="background-color:white;">
+        <div class="uk-container">
+        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}">Submit your proposal</a>
+        </div>
+    </div>
 
 Conference goals
 ----------------
@@ -128,7 +139,7 @@ We actively balance for diversity in as many ways as we can, which means that we
 Presentation format
 -------------------
 
-Presentations will be scheduled in 30-minute blocks. As the conference is virtual, all talks will be pre-recorded. We will offer resources and support for making your talk recording. After your talk, there will be a live Q&A session. You can opt out of the Q&A if you do not feel comfortable, but please let us know early on.
+Presentations will be scheduled in 30-minute blocks. As the conference is virtual, all talks will be pre-recorded. We will offer resources and support for making your talk recording. After your talk, there will be a live Q&A session. You can opt out of the Q&A if you do not feel comfortable, but please let us know well in advance.
 
 Speaker benefits & logistics
 ----------------------------
@@ -136,11 +147,13 @@ Speaker benefits & logistics
 If you are selected to speak at Write the Docs, we will waive your attendance fee. As the conference is virtual, there are no travel costs.
 If speaking incurs any costs that are difficult for you to cover, please `let us know <mailto:{{email}}>`_ and we'll do our best to help out.
 
-If you already have a ticket, we will of course refund it - just drop us an  `{{email}} <mailto:{{email}}>`_.
+If you already have a ticket, we will of course refund it - just drop us an email at `{{email}} <mailto:{{email}}>`_.
 
 {% if flagcfp %}**You’ll hear from us with our proposal decisions by the end of {{cfp.notification}}.**{% endif %}
 
-Note that all Speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides will need to follow our Code of Conduct. If you are unsure about any aspect of this, please feel free to ask us for clarification
+All talks will be shown prerecorded, and we'll be asking for a **completed video from you by {{cfp.video_by}}**. We have a host of options to support you in making this happen, including the possibility of a live recording call with our videographer. During the conference we'll ask you to participate in a moderated Q&A video session after your talk recording is shown.
+
+Note that all Speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides will need to follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
 
 Example proposal
 ----------------
@@ -157,6 +170,14 @@ If you have any questions, please email us at `{{email}} <mailto:{{email}}>`_ an
 Submit your proposal
 --------------------------
 
-Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx account this year, unless you already have one.
+Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
+
+.. raw:: html
+
+    <div class="announcement" style="background-color:white;">
+        <div class="uk-container">
+        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}">Submit your proposal</a>
+        </div>
+    </div>
 
 {% endif %}
