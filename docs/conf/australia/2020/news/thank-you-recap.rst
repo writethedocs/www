@@ -64,7 +64,7 @@ If there was any personal conduct or other aspect of the conference experience t
 Ready for more?
 ===============
 
-We are already talking 2021 folks! Our `Portland conference <https://www.writethedocs.org/conf/portland/2021//>`__ has announced its dates for 25-27 April and CFPs will be coming soon.
+We are already talking 2021 folks! Our `Portland conference <https://www.writethedocs.org/conf/portland/2021/>`__ has announced its dates for 25-27 April and CFPs will be coming soon.
 This conference is also virtual next year, so you can attend or present from anywhere.
 
 Our Slack network has expanded yet again this year.
