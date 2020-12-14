@@ -6,7 +6,7 @@ city: Portland
 local_area: Oregon
 area: North America # European Australian
 area_adj: North American
-tz: PST
+tz: PT
 email: portland@writethedocs.org
 color: gold
 rgb: 253,185,19
@@ -42,8 +42,8 @@ buttons:
     # - text: Watch the videos!
     #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
   bottom:
-    - text: Welcome to our conference
-      link: /news/welcome
+    # - text: Welcome to our conference
+    #   link: /news/welcome
     # - text: See the Schedule!
     #   link: /schedule
     # - text: Date and ticket information
@@ -139,7 +139,7 @@ about:
   job_fair_room: "Sponsor area"
 
 cfp:
-  url: https://pretalx.com/write-the-docs-portland-2021
+  url: https://pretalx.com/write-the-docs-portland-2021/cfp
   ends: "January 25, 2021"          # 2 weeks to review and get confirmnations
   notification: "February 10, 2021" # leaves 6 weeks to write and record
   video_by: "March 31, 2021"        # 3 weeks before the conf
