@@ -6,7 +6,7 @@ city: Portland
 local_area: Oregon
 area: North America # European Australian
 area_adj: North American
-tz: PST
+tz: Pacific  # PT until March, PST after... :/
 email: portland@writethedocs.org
 color: gold
 rgb: 253,185,19
@@ -17,8 +17,8 @@ photos:
 
 buttons:
   top:
-    - text: Welcome to our conference
-      link: /news/welcome
+    #- text: Welcome to our conference
+    #  link: /news/welcome
     # - text: Date and ticket information
     #   link: /news/announcing-virtual-conf-dates-tickets
     # - text: Read our conference guide
@@ -29,9 +29,9 @@ buttons:
     #   link: /tickets
     # - text: Sponsor us
     #   link: /sponsors/online-prospectus
-    # - text: Submit a Talk
-    #   link: /cfp
-    # - text: See the talks!
+    - text: Submit a Talk
+      link: /cfp
+    #- text: See the talks!
     #   link: /speakers
     # - text: See the Schedule!
     #   link: /schedule
@@ -42,8 +42,8 @@ buttons:
     # - text: Watch the videos!
     #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
   bottom:
-    - text: Welcome to our conference
-      link: /news/welcome
+    # - text: Welcome to our conference
+    #   link: /news/welcome
     # - text: See the Schedule!
     #   link: /schedule
     # - text: Date and ticket information
@@ -67,23 +67,21 @@ buttons:
 
 tickets:
   corporate:
-    price: $175
+    price: $200
   independent:
     price: $125
   student:
-    price: $35
+    price: $25
 
 sponsorship:
-  first_draft:
-    price: $900
   second_draft:
-    price: $2,500
+    price: $2,000
   publisher:
-    price: $5,000
+    price: $4,000
   patron:
-    price: $9,500
+    price: $8,500
   keystone:
-    price: $17,000
+    price: $15,000
 
 grants:
   url: TODO
@@ -139,9 +137,10 @@ about:
   job_fair_room: "Sponsor area"
 
 cfp:
-  url: TODO
-  ends: "January 25, 2021"
-  notification: "February 15, 2021"
+  url: https://pretalx.com/write-the-docs-portland-2021/cfp
+  ends: "January 25, 2021"          # 2 weeks to review and get confirmnations
+  notification: "February 10, 2021" # leaves 6 weeks to write and record
+  video_by: "March 31, 2021"        # 3 weeks before the conf
 
 sponsors:
   keystone:
@@ -154,10 +153,11 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: True
 flaghassponsors: False
-flagcfp: False
+flagcfp: True
 flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: False
+flagrunofshow: False
 flaghasschedule: False
 flaghasshirts: False
 flagvideos: False
