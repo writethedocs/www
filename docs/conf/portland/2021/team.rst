@@ -10,44 +10,76 @@ This page outlines the folks who are helping get things done, and what their rol
 Folks
 -----
 
-Mikey Ariel
-~~~~~~~~~~~
+Eric Holscher
+~~~~~~~~~~~~~
 
-{% include "bios/mikey.rst" %}
+{% include "bios/eric.rst" %}
 
 Samuel Wright
 ~~~~~~~~~~~~~
 
 {% include "bios/sam.rst" %}
 
-Eric Holscher
+Mo Nishiyama
+~~~~~~~~~~~~
+
+{% include "bios/mo.rst" %}
+
+Alicia Duncan
 ~~~~~~~~~~~~~
 
-{% include "bios/eric.rst" %}
+{% include "bios/alicia.rst" %}
+
+Christy Lutz
+~~~~~~~~~~~~
+
+{% include "bios/christy.rst" %}
+
+Rose Williams
+~~~~~~~~~~~~~
+
+{% include "bios/rose.rst" %}
+
+Jennifer Rondeau
+~~~~~~~~~~~~~~~~
+
+{% include "bios/jennifer.rst" %}
 
 Sasha Romijn
 ~~~~~~~~~~~~
 
 {% include "bios/sasha.rst" %}
 
+Mikey Ariel
+~~~~~~~~~~~~~
+
+{% include "bios/mikey.rst" %}
+
+Hillary Fraley
+~~~~~~~~~~~~~~~
+
+{% include "bios/hillary.rst" %}
+
+Bio coming soon
+
 Primary Roles
 -------------
 
-* **Conference chair** - Mikey Ariel
+* **Conference chair** - Eric Holscher
+* **Conference co-chair** - *TBD*
 * **Code of conduct response** - See `code of conduct </code-of-conduct/#reporting-and-contact-information>`_ page
 * **Speaker coordinator** - Samuel Wright
-* **Unconference coordinator** - Val Grimm
-* **Lightning Talk coordinator** - Paul Adams
-* **Writing Day coordinator** - Chris Ward
-* **Social Event coordinator** - Eric Holscher
-* **Job Fair coordinator** - Eric Holscher
-* **Emcee** - Carolyn Stransky
-* **Q&A coordinator** - Jessica Ulyate
-* **Welcome Wagon and Helpdesk coordinators** - Beth Aitman, Daniel Beck, Andrea Szollossi
-* **Conference platform coordinators** - Sasha Romijn, Mikey Ariel
-* **Support and Website coordinator** - Sasha Romijn
-* **Swag coordinator** - Mikey Ariel
-* **Sponsorship coordinator** - Eric Holscher
-* **Social media coordinator** - Chris Ward
+* **Unconference coordinator** - TBD
+* **Lightning Talk coordinator** - TBD
+* **Infrastructure coordinator** - TBD
+* **Swag coordinator** - TBD
+* **Communication coordinator** - TBD
+* **Job Fair coordinator** - TBD
+* **Welcome Wagon coordinators** - TBD
+* **Sponsorship coordinator** - TBD
+* **Writing Day coordinator** - TBD
+* **Volunteer coordinator** - TBD
+* **Emcee** - TBD
+* **Social media coordinator** - TBD
 
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.

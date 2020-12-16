@@ -110,9 +110,9 @@ If you are making those assumptions about what your audience knows, it helps eve
 It can be  helpful to check out topics that might be related to your talk from previous years as well:
 
 * `Portland {{year-1}} <https://www.writethedocs.org/conf/portland/{{year-1}}/speakers/>`_
-* `Prague {{year-1}} <https://www.writethedocs.org/conf/{{ shortcode }}/{{year-1}}/speakers/>`_
+* `Prague {{year-1}} <https://www.writethedocs.org/conf/prague/{{year-1}}/speakers/>`_
 * `Portland {{year-2}} <https://www.writethedocs.org/conf/portland/{{year-2}}/speakers/>`_
-* `Prague {{year-2}} <https://www.writethedocs.org/conf/{{ shortcode }}/{{year-2}}/speakers/>`_
+* `Prague {{year-2}} <https://www.writethedocs.org/conf/prague/{{year-2}}/speakers/>`_
 
 Not sure about speaking?
 ------------------------

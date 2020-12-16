@@ -49,17 +49,13 @@ Further details will be announced later.
 {{date.day_two.dotw}}, {{date.day_two.date}}
 -----------------------------------------
 
-The Writing Day and Welcome Reception will be held **{{about.venue}}**.
+The Writing Day and Welcome Reception will be held in our **{{about.venue}}**.
 
 {% if flaghasfood %}
 
 *Breakfast and lunch will be provided, as well as snacks and drinks all day.*
 
 {% endif %}
-
-.. contents::
-    :local:
-    :backlinks: none
 
 Writing Day
 ~~~~~~~~~~~
@@ -93,12 +89,14 @@ We're hoping to have some fun activities planned for the evening online.
 
 {% endif %}
 
-Monday, October 19
-------------------
 
-.. contents::
-   :local:
-   :backlinks: none
+.. raw:: html
+
+   <hr>
+
+
+{{date.day_three.dotw}}, {{date.day_three.date}}
+-----------------------------------------
 
 This is the main event! Hear from lots of interesting folks about all things documentation.
 We will have talks all day, and unconference sessions running in parallel.
@@ -137,20 +135,22 @@ The unconference sessions run in parallel to the main conference talks.
 * **When**: **10:40-18:00 {{ tz }}**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
-Monday Night Social
-~~~~~~~~~~~~~~~~~~~
+Social Event
+~~~~~~~~~~~~
 
 The official Write the Docs social!
 Further details will be announced later,
 but expect some music and games,
 and bring your favorite beverage to your computer :)
 
-Tuesday, October 20
--------------------
 
-.. contents::
-   :local:
-   :backlinks: none
+.. raw:: html
+
+   <hr>
+
+
+{{date.day_four.dotw}}, {{date.day_four.date}}
+-----------------------------------------
 
 And the conference goes on!
 
@@ -179,7 +179,7 @@ Conference Talks
   A detailed schedule will be announced soon.
 {% endif %}
 
-.. _{{shortcode}}-{{year}}-job-fair:
+{% if flaghasjobfair %}
 
 Job Fair
 ~~~~~~~~
@@ -189,6 +189,8 @@ We'll be holding a job fair on Tuesday morning!
 * **Where**: {{about.venue}}, {{about.unconfroom}}
 * **When**: **10:30-11:50 {{ tz }}**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
+
+{% endif %}
 
 Unconference
 ~~~~~~~~~~~~
