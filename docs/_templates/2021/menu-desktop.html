@@ -60,7 +60,9 @@
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/convince-your-manager') }}">Convince Your Manager</a></li>
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/welcome-wagon') }}">Welcome Wagon</a></li>
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/team') }}">Meet the Team</a></li>
+                                          {% if flaghasfood %}
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/speaking-tips') }}">Speaking Tips</a></li>
+                                          {% endif %}
                                           <li><a href="{{ pathto('conf') }}">Past Events</a></li>
                                           <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/contact') }}">Contact</a></li>
