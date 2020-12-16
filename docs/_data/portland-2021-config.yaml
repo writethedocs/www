@@ -118,16 +118,22 @@ date: # how do we handle these? human readable would be nice.
     #summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
     icon: writing
     dotw: Sunday
+    writing_day_time: 9am-5pm
   day_three:
     event: Conference Day 1
     date: April 26
-    summary: The first day of the conference. We will be running one main track, and an <a href="/conf/portland/2021/unconference/">Unconference</a>.
+    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Monday
+    talk_time: 9am-5pm
+    unconference_time: 9:45am-5:00pm
   day_four:
     event: Conference Day 2
     date: April 27
-    summary: The second day of the conference. We will be running one main track, and an <a href="/conf/portland/2021/unconference/">Unconference</a>.
+    summary: And the conference goes on! We are already starting to miss you. |:heart:|
     dotw: Tuesday
+    talk_time: 9am-4pm
+    job_fair_time: 9:45am-12pm
+    unconference_time: 2:15pm-5pm
   total_talk_days: 2
 
 about:

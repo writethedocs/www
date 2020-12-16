@@ -28,7 +28,7 @@ The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion
 If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
 
 * **Where**: Lower Macleay Park or Macleay Park Entrance.
-* **When**: 13:45
+* **When**: **{{ date.day_two.hike_time }} {{ tz }}**
 * **Details**: :doc:`Annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/outing>`
 
 {% endif %}
@@ -61,7 +61,7 @@ Writing Day
 ~~~~~~~~~~~
 
 * **Where**: {{about.venue}}
-* **When**: **9:00-17:00 {{ tz }}**
+* **When**: **{{ date.day_two.writing_day_time }} {{ tz }}**
 * **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
 .. separator to fix list formatting
@@ -98,8 +98,7 @@ We're hoping to have some fun activities planned for the evening online.
 {{date.day_three.dotw}}, {{date.day_three.date}}
 -----------------------------------------
 
-This is the main event! Hear from lots of interesting folks about all things documentation.
-We will have talks all day, and unconference sessions running in parallel.
+{{ date.day_three.summary }}
 
 {% if flaghasfood %}
 
@@ -132,7 +131,7 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **10:40-18:00 {{ tz }}**
+* **When**: **{{ date.day_three.unconference_time }} {{ tz }}**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Social Event
@@ -152,7 +151,7 @@ and bring your favorite beverage to your computer :)
 {{date.day_four.dotw}}, {{date.day_four.date}}
 -----------------------------------------
 
-And the conference goes on!
+{{ date.day_four.summary }}
 
 {% if flaghasfood %}
 
@@ -164,7 +163,7 @@ Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}
-* **When**: **10:00-16:30 {{ tz }}**
+* **When**: **{{ date.day_three.talk_time }} {{ tz }}**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 .. separator to fix list formatting
@@ -187,7 +186,7 @@ Job Fair
 We'll be holding a job fair on Tuesday morning!
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **10:30-11:50 {{ tz }}**
+* **When**: **{{ date.day_four.job_fair_time }} {{ tz }}**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
 
 {% endif %}
@@ -198,5 +197,5 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **12:10-15:30 {{ tz }}**
+* **When**: **{{ date.day_four.unconference_time }} {{ tz }}**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
