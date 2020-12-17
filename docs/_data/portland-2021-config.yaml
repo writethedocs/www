@@ -84,11 +84,12 @@ sponsorship:
     price: $15,000
 
 grants:
-  url: TODO
+  # url: TODO
   ends: "March 1, 2021"
   notification: "March 10, 2021"
 
 shirts:
+  # url: TODO
   ends: "May 31, 2021"
 
 date: # how do we handle these? human readable would be nice.
