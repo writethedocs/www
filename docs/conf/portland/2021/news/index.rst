@@ -10,4 +10,4 @@ More here as it happens!
    :date: %A, %B %d, %Y
    :format: {title} - {date}
    :list-style: none
-   :tags: portland-2020
+   :tags: {{ shortcode }}-{{ year }}

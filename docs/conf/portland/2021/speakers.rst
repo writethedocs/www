@@ -11,5 +11,5 @@ Conference Speakers
    :template: {{year}}/speakers.rst
 
 {% else %}
-  Nothing to see yet.
+  Nothing to see yet. The speakers for the conference will be announced shortly after {{ cfp.notification }}.
 {% endif %}
