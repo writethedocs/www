@@ -44,7 +44,7 @@ Ticket Types
 ------------
 
 
-{% if shirts.url %}
+{% if flaghasshirts %}
 
 .. class:: ticket
 

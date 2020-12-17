@@ -89,7 +89,6 @@ grants:
   notification: "March 10, 2021"
 
 shirts:
-  url: https://teespring.com/wtd-portland-2020
   ends: "May 31, 2021"
 
 date: # how do we handle these? human readable would be nice.
