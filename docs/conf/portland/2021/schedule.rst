@@ -69,7 +69,7 @@ Writing Day
 {% if flaghasschedule %}
 
 {% with day_schedule=schedule.writing_day %}
-{% include "include/schedule2020.rst" %}
+{% include "include/schedule2021.rst" %}
 {% endwith %}
 
 {% else %}
@@ -118,7 +118,7 @@ Conference Talks
 {% if flaghasschedule %}
 
 {% with day_schedule=schedule.talks_day1 %}
-{% include "include/schedule2020.rst" %}
+{% include "include/schedule2021.rst" %}
 {% endwith %}
 
 {% else %}
@@ -171,7 +171,7 @@ Conference Talks
 {% if flaghasschedule %}
 
 {% with day_schedule=schedule.talks_day2 %}
-{% include "include/schedule2020.rst" %}
+{% include "include/schedule2021.rst" %}
 {% endwith %}
 
 {% else %}

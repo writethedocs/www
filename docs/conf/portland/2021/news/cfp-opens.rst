@@ -24,7 +24,7 @@ The Call for Proposals will be open until **Midnight PST {{cfp.ends}}**.
 Tickets
 -------
 
-Tickets will officially go on sale in **January 2020**.
+Tickets will officially go on sale in **January 2021**.
 
 In the meantime, you can see the ticket prices on our `Tickets <https://www.writethedocs.org/conf/portland/{{year}}/tickets/>`_ page.
 As with the previous years, we have tiered pricing to make it fair for everyone. Please buy the ticket that best fits your situation.
