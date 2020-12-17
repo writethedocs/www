@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Nov 12, 2020
+.. post:: Dec 16, 2020
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Announcing Call for Proposals
