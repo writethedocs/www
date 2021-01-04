@@ -14,7 +14,7 @@ urllib3[secure]==1.26.2
 yamale==3.0.4
 markdown==3.3.3
 ruamel.yaml==0.16.12
-lxml==4.6.1
+lxml==4.6.2
 # For emoji
 sphinxemoji==0.1.8
 # For atom feed support
