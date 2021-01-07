@@ -44,7 +44,7 @@ Grant program
 We updated our grant program application to take into account the virtual format of the event.
 We're excited to be able to offer free tickets to a larger number of people this year, since there are now minimal other costs to attend the event.
 
-You can apply by **{{ grant.ends }}** on `our website <https://www.writethedocs.org/conf/portland/2021/opportunity-grants/>`_.
+You can apply by **{{ grants.ends }}** on `our website <https://www.writethedocs.org/conf/portland/2021/opportunity-grants/>`_.
 
 Support our community by sponsoring
 -----------------------------------
