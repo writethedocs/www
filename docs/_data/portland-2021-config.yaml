@@ -48,12 +48,12 @@ buttons:
     #   link: /schedule
     # - text: Date and ticket information
     #   link: /news/announcing-virtual-conf-dates-tickets
-    # - text: Sponsor the conference
-    #   link: /sponsors/online-prospectus
+     - text: Sponsor the conference
+       link: /sponsors/online-prospectus
     # - text: See the talks!
     #   link: /speakers
-    # - text: Buy a Ticket!
-    #   link: /tickets
+     - text: Buy a Ticket!
+       link: /tickets
     # - text: Prepare with the Welcome Wagon
     #   link: /welcome-wagon
     # - text: See the schedule!
@@ -170,7 +170,7 @@ sponsors:
 flaglanding: False
 flaghassponsors: False
 flagcfp: True
-flagticketsonsale: False
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
