@@ -44,7 +44,7 @@ Grant program
 We updated our grant program application to take into account the virtual format of the event.
 We're excited to be able to offer free tickets to a larger number of people this year, since there are now minimal other costs to attend the event.
 
-You can apply by **June 5th, 2020, Midnight PST** on `our website <https://www.writethedocs.org/conf/portland/2021/opportunity-grants/>`_.
+You can apply by **March 1st, 2021, Midnight PST** on `our website <https://www.writethedocs.org/conf/portland/2021/opportunity-grants/>`_.
 
 Support our community by sponsoring
 -----------------------------------
@@ -67,4 +67,3 @@ We will still run the `job fair <https://www.writethedocs.org/conf/portland/2021
 Looking forward to seeing you all here soon, even though we won't be in person!
 
 The Write the Docs Team
-
