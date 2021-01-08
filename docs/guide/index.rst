@@ -75,7 +75,7 @@ Tools of the Trade
    learn-git-contribute
 
 * Dictionaries
-    * `Miriam-Webster <https://www.merriam-webster.com/>`_
+    * `Merriam-Webster <https://www.merriam-webster.com/>`_
     *  https://www.dictionary.com | https://www.thesaurus.com | https://www.vocabulary.com
     * `Linguee <https://www.linguee.com/>`_ (phrases/idioms)
     * `Lexique Pro <http://www.lexiquepro.com/>`_ (offline dictionary/term list builder…dated)
