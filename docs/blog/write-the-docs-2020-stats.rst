@@ -170,7 +170,6 @@ GitHub
 .. _commits: https://github.com/writethedocs/www/commits/master
 .. _people: https://github.com/writethedocs/www/graphs/contributors?from=2020-01-01&to=2021-01-01&type=c
 
-----------------
 From our sponsor
 ----------------
 
