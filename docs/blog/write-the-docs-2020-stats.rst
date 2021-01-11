@@ -38,7 +38,7 @@ We are happy to report that we received overwhelming support from our vendors, s
 * All but 1 of our sponsors stayed with us for our virtual event
 * Our speakers pulled together to record videos and handle live online Q&A
 * Our team pulled together to run virtual events that exceeded our expectations for what those events could be
-* Our attendees, most importantly, made our virtual events _feel_ like our conferences, with a supportive and generous spirit
+* Our attendees, most importantly, made our virtual events *feel* like our conferences, with a supportive and generous spirit
 
 2020 has been a hard year,
 but we wanted to take this chance to give thanks to those who made 2020 a special year.
