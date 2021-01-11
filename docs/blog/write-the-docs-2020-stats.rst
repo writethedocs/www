@@ -96,6 +96,9 @@ Quarterly meetups will typically occur at 7:00p.m. local time on a Monday throug
 If you are a local meetup organizer in the these timezones who would like to learn more about what is required to participate,
 or are located in EMEA and would like to know if the program expands to your time zones,
 contact Alyssa Rock on the Write the Docs Slack network.
+You can also read more about them in the `quorum meetups GitHub repository`_.
+
+.. _GitHub repo: https://github.com/write-the-docs-quorum/quorum-meetups
 
 2020 Stats
 ----------
