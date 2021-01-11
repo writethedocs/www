@@ -170,6 +170,38 @@ GitHub
 .. _commits: https://github.com/writethedocs/www/commits/master
 .. _people: https://github.com/writethedocs/www/graphs/contributors?from=2020-01-01&to=2021-01-01&type=c
 
+----------------
+From our sponsor
+----------------
+
+This month’s newsletter is sponsored by `Paligo <https://bit.ly/3fuibKK>`__:
+
+.. raw:: html
+
+    <hr>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
+      <tbody>
+        <tr>
+          <td width="75%">
+              <p>
+              <a href="https://bit.ly/3fuibKK">Paligo is an all-in-one cloud-based CCMS platform.</a> Authoring, versioning, branching, release workflows, publishing, translation management, and more - all updated continuously in the cloud. No more worrying about locally installed software and deployment!
+              </p>
+
+              <p>
+              Read the case study: <a href="https://bit.ly/2UV2uCQ">https://bit.ly/2UV2uCQ</a>
+              </p>
+          </td>
+          <td width="25%">
+            <a href="https://bit.ly/3fuibKK">
+              <img style="margin-left: 15px;" alt="Paligo" src="/_static/img/sponsors/paligo.png">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
+
+*Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
 Featured job posts
 ------------------
