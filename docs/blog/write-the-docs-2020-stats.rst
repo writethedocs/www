@@ -84,9 +84,9 @@ These quarterly, remote, "super" meetups are an hour long and include a presenta
 
 Write the Docs is running two Quorum pilot programs for 2021:
 
-* `Virtual Write the Docs East Coast Quorum on Meetup.com <https://www.meetup.com/virtual-write-the-docs-east-coast-quorum/>`_` - For participants in the Eastern (UTC-4) and Central (UTC-5) time zones. The first meetup is planned for **February**.
+* `Virtual Write the Docs East Coast Quorum on Meetup.com <https://www.meetup.com/virtual-write-the-docs-east-coast-quorum/>`_ - For participants in the Eastern (UTC-4) and Central (UTC-5) time zones. The first meetup is planned for **February**.
 
-* `Virtual Write the Docs West Coast Quorum on Meetup.com <https://www.meetup.com/virtual-write-the-docs-west-coast-quorum/>`_` - For participants in the Pacific (UTC-7) and Mountain (UTC-6) time zones. The first meetup is planned for **March**.
+* `Virtual Write the Docs West Coast Quorum on Meetup.com <https://www.meetup.com/virtual-write-the-docs-west-coast-quorum/>`_ - For participants in the Pacific (UTC-7) and Mountain (UTC-6) time zones. The first meetup is planned for **March**.
 
 * `Write the Docs Australia on Meetup.com <https://www.meetup.com/Write-the-Docs-Australia/>`_ - We are planning to continue hosting collaborative APAC meetups via our Australia meetup group that are similar in concept.
 
