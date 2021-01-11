@@ -8,7 +8,7 @@ docutils==0.16
 csvkit==1.0.5
 yamllint==1.25.0
 pathlib==1.0.1
-sphinxcontrib.datatemplates==0.7.1
+sphinxcontrib.datatemplates==0.7.2
 meetup-api==0.1.1
 urllib3[secure]==1.25.11
 yamale==3.0.4
