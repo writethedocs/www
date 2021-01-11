@@ -99,7 +99,7 @@ contact Alyssa Rock on the Write the Docs Slack network.
 
 You can read more about these meetups in the `quorum meetups GitHub repository`_.
 
-.. _GitHub repo: https://github.com/write-the-docs-quorum/quorum-meetups
+.. _quorum meetups GitHub repository: https://github.com/write-the-docs-quorum/quorum-meetups
 
 2020 Stats
 ----------
