@@ -171,7 +171,6 @@ GitHub
 .. _people: https://github.com/writethedocs/www/graphs/contributors?from=2020-01-01&to=2021-01-01&type=c
 
 
-------------------
 Featured job posts
 ------------------
 
