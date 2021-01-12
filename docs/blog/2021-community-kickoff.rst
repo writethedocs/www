@@ -122,6 +122,11 @@ If you need feedback or help with your talk proposal,
 some of our meetups are hosting a `proposal workshop <https://www.meetup.com/Write-The-Docs-PDX/events/275331733/>`_.
 **The proposal workshop will happen January 20th from 4-6PM PST (UTC-8)**.
 
+Given the increased usage of our Slack network,
+we have also seen the need for increased formalization of our moderation.
+We will be proposing a `WEP <https://www.writethedocs.org/blog/introducing-weps/>`_ to formalize our process around moderation.
+Look for announcements of that in the newsletter if you want to contribute.
+
 We are also working to get our 2020 Salary Survey analyzed and published.
 The plan for this year is to have a few different reports,
 one that comes out each month looking at different aspects of the data.
