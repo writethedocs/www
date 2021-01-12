@@ -5,6 +5,10 @@
 Write the Docs 2020 Stats and Community Update
 ==============================================
 
+Hey folks, Eric Holscher here, one of the co-founders of Write the Docs.
+This is your January edition of the newsletter,
+which contains a community update to give the newsletter team the month off.
+
 A new year comes with many expectations.
 Hoping for change,
 setting new goals,
@@ -12,7 +16,7 @@ and feeling optimistic about the fresh year that has just begun.
 
 Sadly this year that optimism has been dashed in record time.
 We have written many times throughout 2020 that we hope you're okay,
-and we will have to continue that tradition once more in our inaugural newsletter of 2021.
+and we're continuing that tradition once more in our inaugural newsletter of 2021.
 
 We hope you're okay,
 and we hope that the storm we have been engulfed in will soon pass.
@@ -20,7 +24,7 @@ and we hope that the storm we have been engulfed in will soon pass.
 A heartfelt thanks
 ------------------
 
-We had a lot of big plans for this year,
+We had a lot of big plans for last year,
 but most of those had to be put on hold in March as we scrambled to move our community fully online.
 Getting to see all the happy faces at our in-person events is one of the largest motivators for people who organize events.
 Sadly this year, we weren't able to make that happen.
@@ -34,11 +38,11 @@ It was easy to see a worst case scenario where our venues didn't refund us and p
 
 We are happy to report that we received overwhelming support from our vendors, sponsors, speakers, team, and attendees:
 
-* Most of our vendors refunded our down payments in full
-* All but 1 of our sponsors stayed with us for our virtual event
-* Our speakers pulled together to record videos and handle live online Q&A
-* Our team pulled together to run virtual events that exceeded our expectations for what those events could be
-* Our attendees, most importantly, made our virtual events *feel* like our conferences, with a supportive and generous spirit
+* Most of our vendors refunded our down payments in full. Our A/V and captioning folks adapted perfectly to the new format.
+* Only 1 of our sponsors canceled because of the transition to a virtual event.
+* Our speakers pulled together to record videos and handle live online Q&A.
+* Our team pulled together to run virtual events that exceeded our expectations for what those events could be.
+* Our attendees, most importantly, made our virtual events *feel* like our conferences, with a supportive and generous spirit.
 
 2020 has been a hard year,
 but we wanted to take this chance to give thanks to those who made 2020 a special year.
@@ -51,11 +55,11 @@ with your help.
 Looking forward
 ---------------
 
-One of the largest things we noticed in 2020 was how much more our community needed support.
+One of the largest things we noticed in 2020 was how much more support our community needed.
 As we scrambled to move our events online,
-people were also adjusting to working remote for the first time.
+people were also adjusting to working remotely for the first time.
 We saw lots of activity in our Slack network,
-as people were trying to build community online.
+as people were trying to connect online.
 Meetups slowly adjusted,
 trying to move online and keep some momentum going.
 
@@ -104,9 +108,15 @@ You can read more about these meetups in the `quorum meetups GitHub repository`_
 Other community updates
 -----------------------
 
-We have lots of things going on with our Portland conference currently.
-Check out the `Portland Call for Proposals page <https://www.writethedocs.org/conf/portland/2021/cfp/#submit-your-proposal>`_ for more details about what we are looking for.
-Remember to submit your talk by **January 25th**.
+We have shared our high-level community stats for the past 4 years,
+and will continue to do it each year going forward.
+You can view our 2020 stats on our blog at :doc:`/write-the-docs-2020-stats`.
+
+We're still accepting `talk proposals <https://www.writethedocs.org/conf/portland/2021/cfp/#submit-your-proposal>`_ for our virtual Portland conference, April 25-27.
+Especially if you've not been able to attend due to travel logistics, or if you've not spoken before we'd love to hear your voice.
+**Tell us your ideas by the January 25**,
+and if accepted,
+put together a 30 min talk video by the end of March.
 
 If you need feedback or help with your talk proposal,
 some of our meetups are hosting a `proposal workshop <https://www.meetup.com/Write-The-Docs-PDX/events/275331733/>`_.
@@ -116,11 +126,6 @@ We are also working to get our 2020 Salary Survey analyzed and published.
 The plan for this year is to have a few different reports,
 one that comes out each month looking at different aspects of the data.
 We're hoping to have the first report out for our February newsletter.
-
-
-We have shared our high-level community stats for the past 4 years,
-and will continue to do it each year going forward.
-You can view our 2020 stats on our blog at :doc:`/write-the-docs-2020-stats`.
 
 From our sponsor
 ----------------
