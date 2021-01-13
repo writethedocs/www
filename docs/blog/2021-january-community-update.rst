@@ -7,13 +7,13 @@ Write the Docs 2021 January Community Update
 
 Hey folks, Eric Holscher here, one of the co-founders of Write the Docs.
 This is the January edition of the newsletter,
-which contains a community update to give the newsletter team the month off.
+which has a community update to give the newsletter team the month off.
 
 A new year
 ----------
 
-A new year comes with many expectations.
-Hoping for change,
+A new year comes with many expectations:
+hoping for change,
 setting new goals,
 and feeling optimistic about the fresh year that has just begun.
 
@@ -78,10 +78,10 @@ The goal for 2021 is to be able to provide additional support to our community,
 funded by members in that community, who are able to contribute.
 
 We're still working out the details,
-and will be posting a `WEP`_ soon to ask the community for feedback.
+and will be posting a `Write the Docs Enhancement Proposal (WEP)`_ soon to ask the community for feedback.
 We hope that you'll support us in building a community that is better able to support you.
 
-.. _WEP: https://www.writethedocs.org/blog/introducing-weps/
+.. _Write the Docs Enhancement Proposal (WEP): https://www.writethedocs.org/blog/introducing-weps/
 
 Write the Docs Quorum Meetups
 -----------------------------
