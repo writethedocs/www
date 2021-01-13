@@ -98,7 +98,7 @@ Write the Docs is running three Quorum pilot programs for 2021:
 * `Write the Docs Australia on Meetup.com <https://www.meetup.com/Write-the-Docs-Australia/>`_ - We are planning to continue hosting collaborative APAC meetups via our Australia meetup group that are similar in concept.
 
 Events are free and open to all.
-Quarterly meetups will typically occur at 7:00p.m. local time on a Monday through Thursday evening.
+Quarterly meetups will typically occur at 7PM local time on a Monday through Thursday evening.
 
 If you are a local meetup organizer in the these timezones who would like to learn more about what is required to participate,
 or are located in EMEA and would like to know if the program expands to your time zones,
