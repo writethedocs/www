@@ -2,12 +2,15 @@
    :tags: stats, year in review, newsletter
    :author: Eric Holscher
 
-Write the Docs 2020 Stats and Community Update
-==============================================
+Write the Docs 2021 January Community Update
+============================================
 
 Hey folks, Eric Holscher here, one of the co-founders of Write the Docs.
 This is your January edition of the newsletter,
 which contains a community update to give the newsletter team the month off.
+
+A new year
+----------
 
 A new year comes with many expectations.
 Hoping for change,
@@ -16,7 +19,7 @@ and feeling optimistic about the fresh year that has just begun.
 
 Sadly this year that optimism has been dashed in record time.
 We have written many times throughout 2020 that we hope you're okay,
-and we're continuing that tradition once more in our inaugural newsletter of 2021.
+and we're continuing that tradition once more in our first newsletter of 2021.
 
 We hope you're okay,
 and we hope that the storm we have been engulfed in will soon pass.
@@ -113,11 +116,12 @@ and will continue to do it each year going forward.
 You can view our 2020 stats on our blog at :doc:`/write-the-docs-2020-stats`.
 
 We're still accepting `talk proposals <https://www.writethedocs.org/conf/portland/2021/cfp/#submit-your-proposal>`_ for our virtual Portland conference, April 25-27.
-Especially if you've not been able to attend due to travel logistics, or if you've not spoken before we'd love to hear your voice. The virtual conference format means you can speak from anywhere, though it's ideal if you are close to the local time in Portland.
+Especially if you've not been able to attend due to travel logistics, or if you've not spoken before we'd love to hear your voice.
+The virtual conference format means you can speak from anywhere, though it's ideal if you are close to the local time in Portland.
+
 **Tell us your ideas by the January 25**,
 and if accepted,
 put together a 30 min talk video by the end of March.
-
 If you need feedback or help with your talk proposal,
 some of our meetups are hosting a `proposal workshop <https://www.meetup.com/Write-The-Docs-PDX/events/275331733/>`_.
 **The proposal workshop will happen January 20th from 4-6PM PST (UTC-8)**.
