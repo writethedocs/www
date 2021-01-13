@@ -64,7 +64,7 @@ Meetups slowly adjusted,
 trying to move online and keep some momentum going.
 
 Write the Docs itself was able to provide similar value as in the past,
-but we didn't have the resources to adjust to the changing world.
+but we had limited resources to adjust to the changing world.
 The profits from our conferences pay for everything we do,
 which constrains our ability to adjust to events as they happen.
 
@@ -72,7 +72,7 @@ We are planning a way for our community to support the organization directly.
 We are proud that all the content that Write the Docs produces is free to everyone,
 and we don't plan to change that any time soon.
 The goal for 2021 is to be able to provide additional support to our community,
-paid for by members in that community.
+funded by members in that community, who are able to contribute.
 
 We're still working out the details,
 and will be posting a `WEP`_ soon to ask the community for feedback.
@@ -86,7 +86,7 @@ Write the Docs Quorum Meetups
 One of the first things we're excited about this year is an evolution of our meetups: Quorum meetups.
 These quarterly, remote, "super" meetups are an hour long and include a presentation by a speaker followed by breakout networking.
 
-Write the Docs is running two Quorum pilot programs for 2021:
+Write the Docs is running three Quorum pilot programs for 2021:
 
 * `Virtual Write the Docs East Coast Quorum on Meetup.com <https://www.meetup.com/virtual-write-the-docs-east-coast-quorum/>`_ - For participants in the Eastern (UTC-4) and Central (UTC-5) time zones. The first meetup is planned for **February**.
 
@@ -113,7 +113,7 @@ and will continue to do it each year going forward.
 You can view our 2020 stats on our blog at :doc:`/write-the-docs-2020-stats`.
 
 We're still accepting `talk proposals <https://www.writethedocs.org/conf/portland/2021/cfp/#submit-your-proposal>`_ for our virtual Portland conference, April 25-27.
-Especially if you've not been able to attend due to travel logistics, or if you've not spoken before we'd love to hear your voice.
+Especially if you've not been able to attend due to travel logistics, or if you've not spoken before we'd love to hear your voice. The virtual conference format means you can speak from anywhere, though it's ideal if you are close to the local time in Portland.
 **Tell us your ideas by the January 25**,
 and if accepted,
 put together a 30 min talk video by the end of March.
