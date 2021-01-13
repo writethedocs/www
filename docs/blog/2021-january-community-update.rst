@@ -101,7 +101,7 @@ Events are free and open to all.
 Quarterly meetups will typically occur at 7PM local time on a Monday through Thursday evening.
 
 If you are a local meetup organizer in the these timezones who would like to learn more about what is required to participate,
-or are located in EMEA and would like to know if the program expands to your time zones,
+or are located in EMEA (Europe, Middle East and Africa) and would like to know if the program expands to your time zones,
 contact Alyssa Rock on the Write the Docs Slack network.
 
 You can read more about these meetups in the `quorum meetups GitHub repository`_.
