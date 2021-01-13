@@ -1,11 +1,11 @@
-.. post:: Jan 12, 2021
+.. post:: Jan 13, 2021
    :tags: stats, year in review, newsletter
    :author: Eric Holscher
 
 Write the Docs 2020 Stats
 =========================
 
-This year we have done a :doc:`2021-community-kickoff` email along with our stats.
+This year we have done a :doc:`/blog/2021-january-community-update` post along with our stats.
 Check there for context around the community going into 2021.
 
 2020 Stats
