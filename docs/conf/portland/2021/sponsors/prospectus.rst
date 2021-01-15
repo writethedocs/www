@@ -122,9 +122,8 @@ which provides funding for people to attend the conference.
 
 **{{sponsorship.second_draft.price}}**
 
-Additionally, for **{{sponsorship.publisher.price}}** we will offer exclusive sponsorship of our Opportunity Grant program.
-Please talk to us about this soon,
-as this option is removed once we have secured the required funding for this benefit.
+This sponsorship helps people attend the conference that couldn't otherwise attend.
+It's great to show your support to the community.
 
 Benefits
 ~~~~~~~~
