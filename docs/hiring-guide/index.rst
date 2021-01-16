@@ -119,10 +119,10 @@ Skills and Knowledge:
 
 .. vale off
 
-* Be bold. Own what you do. Not specifically a techwriting skill, but in this field we often need to prove the importance of our work.
-* Be a team worker. You definitely need to communicate with others to get the information required to perform your job. Experts are usually strong personalities; you’ll need to find a path to their heart and mind.
+* Be bold. Own what you do. This does not specifically have to be a techwriting skill, but in this field we often need to prove the importance of our work.
+* Be a team worker. You definitely need to communicate with others to get the information required to perform your job. Experts usually have strong personalities; you’ll need to find a path to their hearts and minds.
 * Be curious. Don’t hesitate to ask questions even if you think they are “stupid”. These questions may lead to unexpected and useful answers.
-* Be open to new technologies. The more you know, your marketability increases.
+* Be open to new technologies. The more you know, the more your marketability increases.
 
 .. vale on
 
