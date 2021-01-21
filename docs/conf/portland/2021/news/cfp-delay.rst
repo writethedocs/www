@@ -13,7 +13,7 @@ We'd love to see some new voices in the program this year,
 and we hope that prerecorded talks and fewer timezone restrictions makes that possible.
 
 CFP deadline extended to February 1st
-----------------------------------
+-------------------------------------
 
 Check out the `Call for Proposals page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/#submit-your-proposal>`_ for more details about what we are looking for.
 Especially if you've not been able to attend due to travel logistics, or if you've not spoken before we'd love to hear your voice.
@@ -28,8 +28,8 @@ The community is there to help!
 
 We’ll be reviewing all the talk proposals next month, and will be contacting everyone who submitted a proposal by {{ cfp.notification }}.
 
-Grant program
--------------
+Grant program reminder
+----------------------
 
 We updated our grant program application to take into account the virtual format of the event.
 We're excited to be able to offer free tickets to a larger number of people this year, since there are now minimal other costs to attend the event.
