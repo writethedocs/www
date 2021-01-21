@@ -154,14 +154,17 @@ about:
 
 cfp:
   url: https://pretalx.com/write-the-docs-portland-2021/cfp
-  ends: "January 25, 2021"          # 2 weeks to review and get confirmnations
-  notification: "February 10, 2021" # leaves 6 weeks to write and record
+  ends: "February 1, 2021"          # 2 weeks to review and get confirmnations
+  notification: "February 15, 2021" # leaves 6 weeks to write and record
   video_by: "March 31, 2021"        # 3 weeks before the conf
 
 sponsors:
   keystone:
   patron:
   publisher:
+    - name: cncf
+      link: https://www.cncf.io/
+      brand: Cloud Native Computing Foundation
   second:
   first:
 
