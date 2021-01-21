@@ -6,20 +6,20 @@
 CFP update and grant program reminder
 =====================================
 
-The last few weeks has been pretty rough on us here in the US.
+The last few weeks have been pretty rough on those of us who are in the US.
 Knowing that,
-we have made the decision to move our CFP deadline back a week in order to give you more time to get proposals in.
-We hope to see some new voices in the program this year,
-given the ability to participate remotely.
+we have made the decision to extend our CFP deadline by a week in order to give you more time to get proposals in.
+We'd love to see some new voices in the program this year,
+and we hope that prerecorded talks and fewer timezone restrictions makes that possible.
 
-CFP deadline moved to February 1st
+CFP deadline extended to February 1st
 ----------------------------------
 
 Check out the `Call for Proposals page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/#submit-your-proposal>`_ for more details about what we are looking for.
 Especially if you've not been able to attend due to travel logistics, or if you've not spoken before we'd love to hear your voice.
-The virtual conference format means you can speak from anywhere, though it's ideal if you are close to the local time in Portland.
+The virtual conference format means you can speak from anywhere, though it's ideal if you can be online and present around your talk slot in Portland time, PST.
 
-Submit your talk proposals by February 1st,
+Submit your talk proposals by **February 1st**,
 If accepted,
 we'll ask you to put together a 30 min talk video by the end of March.
 And if you already have an idea but you’re having a hard time getting your proposal to come together,
