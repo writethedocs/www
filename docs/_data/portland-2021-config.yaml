@@ -158,6 +158,10 @@ cfp:
   notification: "February 15, 2021" # leaves 6 weeks to write and record
   video_by: "March 31, 2021"        # 3 weeks before the conf
 
+unconf:
+  url: TODO
+
+
 sponsors:
   keystone:
   patron:
@@ -178,6 +182,7 @@ flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
 flaghasschedule: False
+flaghasunconf: False
 flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False

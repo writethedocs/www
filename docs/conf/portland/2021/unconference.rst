@@ -31,7 +31,15 @@ Lead a session
 
 To lead an unconf session, propose a topic and pick a time; unconf sessions are scheduled for the same time slots as talks on the main stage.
 
-Sessions take place in Hopin, but you propose a session by adding your topic to a timeslot and table number in the  `Unconference sign-up sheet <https://docs.google.com/spreadsheets/d/1IjA2yQWi1qVhopJ8PyG2obMVa5nodIRsggFSJACaWRk/edit?usp=sharing>`__.
+{% if flaghasschedule %}
+
+Sessions take place in Hopin, but you propose a session by adding your topic to a timeslot and table number in the  `Unconference sign-up sheet <{{unconf.url}}>`__.
+
+{% else %}
+
+Sessions take place in Hopin, but you propose a session by adding your topic to a timeslot and table number in the  Unconference sign-up sheet, which will be linked here closer to the event.
+
+{% endif %}
 
 When it's time for your session to begin, join the session in Hopin that corresponds to the table number you signed up for. There's a 15 minute break between sessions, but the previous session might still be running, so let them know it's time to switch. Give attendees a few minutes to join, then start the conversation!
 
@@ -52,7 +60,11 @@ Keep in mind the following tips (inspired by the “Open Space Technology” inf
 Attend a session
 ----------------
 
-* Starting Monday morning, check the `Unconference sign-up sheet <https://docs.google.com/spreadsheets/d/e/2PACX-1vTnTF98Sa8kqGT8G7zY3g8kTaEF1AqB8P5EfVJbz305s2BelEZo_rMpQzMIcL5Dfe7Ywfvy1ApHGp0Q/pubhtml>`__ to see whether there are any sessions you want to join. New sessions are added all the time, so check back periodically.
+{% if flaghasschedule %}
+
+* Starting Monday morning, check the `Unconference sign-up sheet <{{ unconf.url }}>`__ to see whether there are any sessions you want to join. New sessions are added all the time, so check back periodically.
+
+{% endif %}
 
 * At the time your chosen sessions start, join the session in Hopin that correspsond to the table number of the session. Sessions are limited to 20 participants, but you can check out a session without joining it too.
 

@@ -126,7 +126,11 @@ Lead an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
-- Look for an empty slot on the `Unconference sign-up <https://docs.google.com/spreadsheets/d/1IjA2yQWi1qVhopJ8PyG2obMVa5nodIRsggFSJACaWRk/edit?usp=sharing>`__, and add your Unconference topic. There will be a time and a table number for each slot.
+{% if flaghasschedule %}
+- Look for an empty slot on the `Unconference sign-up <{{unconf.url}}>`__, and add your Unconference topic. There will be a time and a table number for each slot.
+{% else %}
+- Look for an empty slot on the Unconference sign-up , and add your Unconference topic. There will be a time and a table number for each slot.
+{% endif %}
 - When it’s time for your Unconference session to begin, go to **Sessions** and select the session that corresponds to your table number.
 - The previous unconference session will be in the same table. Let the attendees of the previous session know that their time is up, and your session will begin soon.
 - Once a group has entered your session, start the conversation!
@@ -143,8 +147,13 @@ Tips for your unconference session
 Join an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Starting Monday morning, check the `Unconference schedule <https://docs.google.com/spreadsheets/d/e/2PACX-1vTnTF98Sa8kqGT8G7zY3g8kTaEF1AqB8P5EfVJbz305s2BelEZo_rMpQzMIcL5Dfe7Ywfvy1ApHGp0Q/pubhtml>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
-- At the time the session starts, go to **Sessions** and select the session with the table number that corresponds to the one in the `Unconference schedule <https://docs.google.com/spreadsheets/d/e/2PACX-1vTnTF98Sa8kqGT8G7zY3g8kTaEF1AqB8P5EfVJbz305s2BelEZo_rMpQzMIcL5Dfe7Ywfvy1ApHGp0Q/pubhtml>`__.
+{% if flaghasschedule %}
+- Starting Monday morning, check the `Unconference schedule <{{unconf.url}}>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
+- At the time the session starts, go to **Sessions** and select the session with the table number that corresponds to the one in the `Unconference schedule <{{unconf.url}}>`__.
+{% else %}
+- Starting Monday morning, check the Unconference schedule to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
+- At the time the session starts, go to **Sessions** and select the session with the table number that corresponds to the one in the Unconference schedule.
+{% endif %}
 - The session leader will begin when the group has gathered.
 
 Lightning talks
