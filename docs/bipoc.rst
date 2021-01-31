@@ -1,7 +1,7 @@
-Our #bipoc channel
-==================
+BIPOC Documentarians
+====================
 
-This is a space dedicated to supporting BIPOC (Black, Indigenous, and People of Color) members within our community.
+Our **#bipoc** Slack channel is a space dedicated to supporting BIPOC (Black, Indigenous, and People of Color) members within our community.
 
 Background
 ----------
