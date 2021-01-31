@@ -54,11 +54,12 @@ Other useful topical channels
 * **#community-help-wanted** - Got an open-source project that needs docs contributors? Looking for open-source communities who will mentor you while you contribute to their docs? This channel is for you! Only for volunteer/unpaid work with open-source projects; companies and paid job postings should continue to use #job-posts-only. 
 * **#wtd-weps** - Ask questions about the Write the Docs Enhancement Proposal (WEP) system and brainstorm on pre-proposal ideas to help improve our community processes and governance. 
 
-Channels that serve documentarians from marginalized backgrounds
-----------------------------------------------------------------
+Channels that serve specific communities & their allies
+-------------------------------------------------------
+Allies are welcome as guests in these channels. Please be considerate.
 
-* **#bipoc**
-* **#lgbtq**
+* **#bipoc** - Social and discussion space for Write the Docs' BIPOC community.
+* **#lgbtq** - Social and discussion space for LGBTQ+ people in the WTD community.
 
 Location-based channels
 -----------------------
