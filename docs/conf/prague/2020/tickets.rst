@@ -17,8 +17,6 @@ Ticket status
 
 **Tickets are sold out!**
 
-We have a `waiting list <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`_ where you can register in case of cancellations, but we usually don't have a high rate of cancellations so please do not book travel unless you have a ticket.
-
 {% else %}
 
 **Tickets will be available in {{ date.tickets_live }}.**
@@ -46,16 +44,16 @@ Ticket Types
 ------------
 
 
-{% if flaghasshirts %}
+{% if shirts.url %}
 
 .. class:: ticket
 
 **Official Conference Shirts**
 ------------------------------------
 
-Inspired by our friends at DjangoCon US, we decided to shake things up and sell shirts separately, so you can buy exactly the fit and size that you want! You can now visit our Write the Docs Portland 2019 Pop-Up Shop and order this year’s branded shirt. The campaign will run until **April 15th** to allow for timely delivery of your shirts ahead of the conference.
+You can now visit our Write the Docs {{ name }} {{ year }} Pop-Up Shop and order this year’s branded shirt. The campaign will run until **{{ shirts.ends }}**.
 
-* Buy Portland 2019 Shirt
+* `Buy {{ name }} {{ year }} Shirt <{{ shirts.url }}>`_
 
 {% endif %}
 

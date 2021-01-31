@@ -30,10 +30,10 @@ buttons:
     #   link: /welcome-wagon
 #    - text: Watch the Live Stream
 #      link: /livestream
-     - text: Browse the photos
-       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-     - text: Watch the videos!
-       link_absolute: /videos/portland/2019
+    - text: Browse the photos
+      link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    - text: Watch the videos!
+      link_absolute: /videos/portland/2019
   bottom:
     # - text: Sponsor the conference
     #  link: /sponsors/prospectus
@@ -47,10 +47,10 @@ buttons:
 #      link: /schedule
     # - text: Watch the Live Stream
     #  link: /livestream
-     - text: Browse the photos
-       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-     - text: Watch the videos!
-       link_absolute: /videos/portland/2019
+    - text: Browse the photos
+      link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    - text: Watch the videos!
+      link_absolute: /videos/portland/2019
 
 tickets:
   community:

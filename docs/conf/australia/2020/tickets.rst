@@ -33,8 +33,7 @@ Write the Docs {{ name }} {{ year }} is a virtual conference. Each ticket includ
 * Live streaming of all talks
 * Q&A with speakers after each talk (may not be available for all speakers)
 * Access to the conference chat with all other attendees, speakers and sponsors
-* Access to the writing day
-* The virtual job fair
+* Access to the writing day (**TBA**)
 
 Refund Policy
 -------------
@@ -62,7 +61,9 @@ Inspired by our friends at DjangoCon US, we decided to shake things up and sell 
 .. class:: ticket
 
 **Corporate Tickets** *{{tickets.corporate.price}}*
---------------------------------------------
+--------------------------------------------------
+
+This is equivalent to approximately ₹7925 INR.
 
 Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
 
@@ -75,7 +76,9 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 .. class:: ticket
 
 **Independent Tickets** *{{tickets.independent.price}}*
---------------------------------------------
+-------------------------------------------------------
+
+This is equivalent to approximately ₹5280 INR.
 
 Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees.
 
@@ -88,7 +91,9 @@ Purchase this ticket if you are paying for yourself, or if you work at a non-pro
 .. class:: ticket
 
 **Student or Unemployed Tickets** *{{tickets.student.price}}*
---------------------------------------------
+-------------------------------------------------------------
+
+This is equivalent to approximately ₹2640 INR.
 
 Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
 
@@ -105,7 +110,7 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 
 If you can't afford these prices and still wish to attend, you can apply for our grant program.
 {% if grants.ends and grants.url %}
-You can apply until **{{ grants.ends }}, Midnight {{ tz }}** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
+You can apply until **{{ grants.ends }}, Midnight {{ tz }}** on `our website </conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
 {% else %}
 Grant applications will open soon.
 {% endif %}

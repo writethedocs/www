@@ -18,8 +18,8 @@ Check it out over at https://jobs.writethedocs.org/.
 Community Spotlight
 -------------------
 
-These interviews are meant to be a resource for new documentarians looking to gain insight into the work of technical writing 
-by sharing the stories of our diverse community. Each interview tells the story of one community member and what they've learned over 
+These interviews are meant to be a resource for new documentarians looking to gain insight into the work of technical writing
+by sharing the stories of our diverse community. Each interview tells the story of one community member and what they've learned over
 the course of their career so far, along with providing some practical advice for new documentarians.
 
 If you are willing to share your story with the community, you can contact jobs@writethedocs.org.
@@ -117,10 +117,14 @@ Develop your capabilities with these professional skills and tools.
 
 Skills and Knowledge:
 
-* Be bold. Own what you do. Not specifically a techwriting skill, but in this field we often need to prove the importance of our work.
-* Be a team worker. You definitely need to communicate with others to get the information required to perform your job. Experts are usually strong personalities; you’ll need to find a path to their heart and mind.
+.. vale off
+
+* Be bold. Own what you do. This does not specifically have to be a techwriting skill, but in this field we often need to prove the importance of our work.
+* Be a team worker. You definitely need to communicate with others to get the information required to perform your job. Experts usually have strong personalities; you’ll need to find a path to their hearts and minds.
 * Be curious. Don’t hesitate to ask questions even if you think they are “stupid”. These questions may lead to unexpected and useful answers.
-* Be open to new technologies. The more you know, your marketability increases.
+* Be open to new technologies. The more you know, the more your marketability increases.
+
+.. vale on
 
 Tools and Environments:
 

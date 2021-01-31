@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-
+:banner:
 
 Meet the Team
 =============
@@ -10,46 +10,62 @@ This page outlines the folks who are helping get things done, and what their rol
 Folks
 -----
 
-Mikey Ariel
-~~~~~~~~~~~
+Swapnil Ogale
+~~~~~~~~~~~~~~
 
-{% include "bios/mikey.rst" %}
+{% include "bios/swapnil.rst" %}
+
+Rajakavitha Kodhandapani
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+{% include "bios/rajie.rst" %}
 
 Samuel Wright
-~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 {% include "bios/sam.rst" %}
 
-Eric Holscher
-~~~~~~~~~~~~~
+Linette Voller
+~~~~~~~~~~~~~~~~~~
 
-{% include "bios/eric.rst" %}
+{% include "bios/linette.rst" %}
 
-Sasha Romijn
-~~~~~~~~~~~~
+Jared Morgan
+~~~~~~~~~~~~~~~~~~
 
-{% include "bios/sasha.rst" %}
+{% include "bios/jared.rst" %}
+
+Gaurav Nelson
+~~~~~~~~~~~~~~~~~~
+
+{% include "bios/gaurav.rst" %}
+
+Sarah Maddox
+~~~~~~~~~~~~~~~~~~
+
+{% include "bios/sarah.rst" %}
+
+Tali Samoylenko
+~~~~~~~~~~~~~~~~
+
+{% include "bios/tali.rst" %}
+
 
 Primary Roles
 -------------
 
-* **Conference chair** - *TBD*
-* **Conference co-chair** - *TBD*
-* **Code of conduct response** - See `code of conduct </code-of-conduct/#reporting-and-contact-information>`_ page
-* **Speaker coordinator** - *TBD*
-* **Unconference coordinator** - *TBD*
-* **Lightning Talk coordinator** - *TBD*
-* **Hike coordinator** - *TBD*
-* **Infrastructure coordinator** - *TBD*
-* **Swag coordinator** - *TBD*
-* **Communication coordinator** - *TBD*
-* **Explore Portland coordinators** - *TBD*
-* **Job Fair coordinator** - *TBD*
-* **Welcome Wagon coordinators** - *TBD*
-* **Sponsorship coordinator** - *TBD*
-* **Writing Day coordinator** - *TBD*
-* **Volunteer coordinator** -*TBD*
-* **Emcee** - *TBD*
-* **Social media coordinator** - *TBD*
-
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
+
+* **Conference chair** - Swapnil Ogale
+* **Conference co-chair** - Rajakavitha Kodhandapani
+* **Swag coordinator** - Mikey Ariel
+* **Speaker wrangler** - Swapnil Ogale
+* **Infrastructure chair** - Samuel Wright
+* **Lightning Talk coordinators** - Gaurav Nelson and Tali Samoylenko
+* **Communication chair** - Swapnil Ogale
+* **Volunteer coordinator** - TBA
+* **Sponsorship** - Swapnil Ogale
+* **Unconference coordinator** - Sarah Maddox
+* **Emcee** - Jared Morgan
+* **Welcome Wagon coordinators** - TBA
+* **Social media chair** - Swapnil Ogale

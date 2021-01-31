@@ -1,12 +1,13 @@
 language: python
 python:
-  - 3.5
+  - 3.6
 before_install:
   - export GOPATH=$HOME/golang
   - export PATH=$PATH:$GOPATH/bin
   - export BUILD_VIDEOS=True
 install:
  - pip install tox-travis
+ - gem install html-proofer
  - eval "$(gimme 1.9)"
  - curl -sfL https://install.goreleaser.com/github.com/ValeLint/vale.sh | sh -s v1.7.1
  - export PATH="./bin:$PATH"
@@ -27,6 +28,7 @@ env:
 matrix:
   allow_failures:
     - env: TEST="all_links"
+    - env: TEST="links"
   fast_finish: true
 
 
