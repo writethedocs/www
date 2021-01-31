@@ -27,8 +27,9 @@ def load_conference_data():
     Generate a dict with all data of all conferences including
     session details.
     """
+    # Speakers are the legacy format, >=2020 conferences have a sessions file
     speakers_file_pattern = re.compile(r'(\d{4}).(\w+).speakers')
-    sessions_file_pattern = re.compile(r'(\w+)-(\d{4})-day-(\d+)')
+    sessions_file_pattern = re.compile(r'(\w+)-(\d{4})-sessions')
     result = {}
     for f in glob.glob('_data/*.yaml'):
         base = os.path.basename(f)
@@ -54,6 +55,20 @@ def load_conference_data():
             continue
         mo = sessions_file_pattern.match(base)
         if mo:
+            region = mo.group(1)
+            year = int(mo.group(2))
+            if year not in result:
+                result[year] = {}
+            if region not in result[year]:
+                result[year][region] = {}
+            result[year][region]['speakers'] = load_yaml(f)
+            for session in result[year][region]['speakers']:
+                normalize_session(session)
+                session['year'] = year
+                session['series'] = u'Write the Docs {}'.format(region.upper())
+                session['series_slug'] = region
+                session['event'] = u'Write the Docs {} {}'.format(region.upper(), year)
+                session['path'] = 'conf/{series_slug}/{year}/videos/{slug}'.format(**session)
             continue
     return result
 
@@ -66,11 +81,13 @@ def generate_video_content(session, year, region, session_idx):
     data['year'] = year
     data['region'] = region
     data['session_idx'] = session_idx
+
+    data['data_file'] = f'/_data/{year}.{region}.speakers.yaml' if year < 2020 else f'/_data/{region}-{year}-sessions.yaml'
     return u'''{title}
 {title_marker}
 
 .. datatemplate-video::
-   :source: /_data/{year}.{region}.speakers.yaml
+   :source: {data_file}
    :template: videos/video-detail.html
    :key: {session_idx}
 
@@ -78,6 +95,7 @@ def generate_video_content(session, year, region, session_idx):
 
 
 def generate_video_listing(year, series):
+    data_file = f'/_data/{year}.{series}.speakers.yaml' if year < 2020 else f'/_data/{series}-{year}-sessions.yaml'
     return u'''Videos of Write the Docs {series_title} {year}
 =============================================================
 
@@ -88,9 +106,9 @@ def generate_video_listing(year, series):
    *
 
 .. datatemplate::
-   :source: /_data/{year}.{series}.speakers.yaml
+   :source: {data_file}
    :template: videos/video-listing.html
-'''.format(year=year, series=series, series_title=series.upper())
+'''.format(year=year, series=series, series_title=series.upper(), data_file=data_file)
 
 
 def main():
@@ -131,7 +149,7 @@ class DataTemplateVideo(DataTemplateYAML):
         'key': rst.directives.nonnegative_int,
     })
 
-    def _make_context(self, data):
-        context = super()._make_context(data)
+    def _make_context(self, data, config, env):
+        context = super()._make_context(data, config, env)
         context['key'] = self.options.get('key')
         return context

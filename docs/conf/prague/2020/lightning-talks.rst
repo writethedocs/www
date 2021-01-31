@@ -22,6 +22,8 @@ We have two categories for people who submit talks:
 We do this so we have a mix of first time and experienced speakers.
 We also want first-time speakers to know that we care about them having a chance to get on stage.
 
+**You can sign up for lightning talks each day of the conference** `on our Google Form <https://forms.gle/ULLEXmkXHymanNEP9>`_.
+
 Planning: What goes into a lightning talk?
 ------------------------------------------
 

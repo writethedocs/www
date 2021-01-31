@@ -2,11 +2,15 @@
 
 A style guide contains a set of standards for writing and designing content. It helps maintain a consistent style, voice, and tone across your documentation, whether you're a lone writer or part of a huge docs team. It can provide guidelines for different documentation deliverables, such as API reference manuals, tutorials, release notes, or overviews of complex technical concepts.
 
-A style guide saves documentarians time and trouble by providing a single reference for ways to write about common topics, features, and more. The consistency it helps provide in your writing gives your readers confidence in the authority of the content, makes your content easier to read, and can help reduce your users' [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load).
+A style guide saves documentarians time and trouble by providing a single reference for writing about common topics, features, and more. 
+The guidelines in a style guide help writers to produce documentation that has the same tone and grammatical style, regardless of who writes the documentation.
+A consistent tone and style can make your content easier to read by reducing your users' [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) and increasing their confidence in the content's authority. 
 
 ## Write your own style guide?
 
-A style guide can be something as simple as a list of decisions you've made about how to refer to different items you frequently write about, or as complex as the mighty tomes of major publication houses. You can certainly roll your own, and for the sake of simplicity this might be a good approach if you're a lone writer, or just starting a small docs group. But neither software nor its documentation operates in a vacuum, so it's a good idea to consult other resources as well. Working from an existing style guide can also help you figure out which things matter in your style guide.
+A style guide can be something as simple as a list of decisions you've made about how to refer to different items you frequently write about. Or it can be as complicated as the mighty tomes of major publication houses. 
+
+You can certainly create a style guide of your own. For the sake of simplicity, this approach might work if you're a lone writer or just starting a small docs group. But neither software nor its documentation operates in a vacuum, so it's a good idea to consult other resources as well. Working from an existing style guide can also help you figure out which things matter in your style guide.
 
 ## Style guide resources
 
@@ -33,16 +37,13 @@ Others you might find useful:
 
 ## Thinking about accessibility and bias
 
-It's important to consider accessibility and biases in your style guide to ensure the content you produce can be understood by all readers. 
+It's important to consider accessibility and biases in your style guide to ensure that all readers can understand the content you produce. 
+
+### Writing for accessibility
 
 Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
 
-Reducing bias in your writing asks you to consider the meanings and origins of your word choices and how those might be perceived or understood by your readers. It can also include providing a range of example names from different cultures -- fortunately, resources are increasingly available to help you with this kind of attention to your writing.
-
-And providing a wide range of example names from a diversity of cultural backgrounds can also help reduce bias in your documentation.
-
-### Writing for accesssibility
-
+- [Atlassian Design System - Inclusive writing reference](https://atlassian.design/content/inclusive-writing)
 - [MailChimp's writing style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
 - [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bitsofcode
@@ -56,18 +57,40 @@ Relevant talks from Write the Docs:
 
 ### Reducing bias in your writing
 
+You can reduce bias in your writing by considering the meanings and origins of your word choices and how those might be perceived or understood by your readers.
+Even thinking twice about what example user names you include in your documentation can significantly reduce bias in your documentation.
+Fortunately, resources are increasingly available to help you with this kind of attention to your writing.
+
+Free guides:
+
+- [Atlassian Design System - Inclusive Writing](https://atlassian.design/content/inclusive-writing)
+- [Google's Developer Style Guide on Inclusive Documentation](https://developers.google.com/style/inclusive-documentation)
+- [Microsoft Style Guide on Bias-Free Communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
+- [American Psychological Association (APA)'s Guide on Bias-Free Language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/)
+
+Free resources:
+
+- [Internet Engineering Task Force (IETF) on Terminology, Power, and Oppressive Language](https://tools.ietf.org/id/draft-knodel-terminology-00.html)
 - [The Conscious Style Guide - a collection of resources](https://consciousstyleguide.com/)
 - [Diversity Style Guide](https://www.diversitystyleguide.com/)
-- [Google's Developer Style Guide on Inclusive Documentation](https://developers.google.com/style/inclusive-documentation)
 - [Linguistic Society of America Guidelines for Inclusive Language](https://www.linguisticsociety.org/resource/guidelines-inclusive-language)
 - [Linguistic Society of America Additional Inclusive Language Resources](https://www.linguisticsociety.org/content/further-content-related-inclusive-language-guidelines)
-- [Microsoft Style Guide on Bias Free Communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
+- [American Psychological Association (APA)'s Guide on Bias-Free Language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/)
+
+Paid resources:
+
+- [The Responsible Communication Style Guide](https://rcstyleguide.com/)
+
+Relevant talks from Write the Docs:
+
+- [What They Don’t Tell You About Creating New Style Guides](https://www.writethedocs.org/videos/portland/2018/what-they-don-t-tell-you-about-creating-new-style-guides-thursday-bram/)
 
 ### Providing inclusive example names
 
-- Wikipedia's lists of [most common forenames](https://en.wikipedia.org/wiki/List_of_most_popular_given_names>) and [most common surnames](https://en.wikipedia.org/wiki/Lists_of_most_common_surnames) by region.
+- Wikipedia's lists of [most common forenames](https://en.wikipedia.org/wiki/List_of_most_popular_given_names) and [most common surnames](https://en.wikipedia.org/wiki/Lists_of_most_common_surnames) by region.
 - [Splunk style guide on example names](https://docs.splunk.com/Documentation/StyleGuide/current/StyleGuide/Domains)
 - [Behind the Name - name generator](https://www.behindthename.com/random/)
+- [The Story Shack - name generators](https://thestoryshack.com/tools/)
 
 ## Developer documentation and APIs
 
@@ -85,7 +108,7 @@ From the perspective of a user:
 
 > If a feature is not documented, it does not exist. If a feature is documented incorrectly, then it is broken.
 
-The best API documentation is often the result of a well [designed API](#documentation-driven-design). Documentation cannot fix a badly planned API, and it is best to work on developing the API and the documentation concurrently.
+The best API documentation is often the result of a well [designed API](#documentation-driven-design). Documentation cannot fix a poorly designed API. It is best to work on developing the API and the documentation concurrently.
 
 If your API already exists, automated reference documentation can be useful to document the API in its current state. If your API is still being implemented, API documentation can perform a vital function in the design process.
 
@@ -93,11 +116,11 @@ If your API already exists, automated reference documentation can be useful to d
 
 If your API isn't built yet, you can create API documentation to help with the design process. The documentation-driven design philosophy comes down to this:
 
-> Documentation changes are cheap, code changes are expensive.
+> Documentation changes are cheap. Code changes are expensive.
 
 By designing your API through documentation, you can easily get feedback and iterate your design before development begins.
 
-Some API documentation formats have the added benefit of being machine readable. This opens the door to a multitude of additional tools that can help during the entire lifecycle of your API:
+Some API documentation formats have the added benefit of being machine-readable. These formats open the door to a multitude of additional tools that can help during the entire lifecycle of your API:
 
 - Create a mock server to help during the initial API design
 - Test your API before deployment to ensure that the API and the documentation matches
@@ -105,35 +128,35 @@ Some API documentation formats have the added benefit of being machine readable.
 
 #### Test-driven documentation
 
-Test-driven documentation aims to improve upon the typical approaches to automated documentation. It allows you to write the bulk of the documentation by hand while also ensuring its accuracy by using your API's tests to generate some of the content.
+Test-driven documentation aims to improve upon the typical approaches to automated documentation. It allows you to write the bulk of the documentation by hand while also ensuring its accuracy by using your API's tests to generate some content.
 
-Projects such as [Spring REST Docs](https://spring.io/projects/spring-restdocs) use your API's tests to generate small snippets of documentation that can be included in hand-written API documentation. The accuracy of the documentation is ensured by the tests – if the API's documentation becomes inconsistent with its implementation the tests that generate the snippets will fail.
+Projects such as [Spring REST Docs](https://spring.io/projects/spring-restdocs) use your API's tests to generate small snippets of documentation that you can include in the hand-written API documentation. The accuracy of the documentation is ensured by the tests – if the API's documentation becomes inconsistent with its implementation, the tests that generate the snippets will fail.
 
 #### API resources
 
-- [PayPal's API Design Guidelines](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
-- [Microsoft's REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
+- <a href="https://github.com/paypal/api-standards/blob/master/api-style-guide.md">PayPal's API Design Guidelines</a>
+- <a href="https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md">Microsoft's REST API Guidelines</a>
 - [Documenting APIs: a guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
 - [The Ten Essentials for Good API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation/) by A List Apart
 
 ## Content guidelines
 
-It's important to create consistency in your content types. This allows you to manage your audience's expectations for what they will learn on any given page.
+It's important to create consistency in your content types. Doing so allows you to manage your audience's expectations for what they will learn on any given page.
 
 ### FAQs
 
-Frequenty Asked Questions (FAQs) exist to educate and guide users through need-to-know information, pointing them to additional resources when necessary. FAQs should be short and limited.
+Frequently Asked Questions (FAQs) exist to educate and guide users through need-to-know information, pointing them to additional resources when necessary. FAQs should be short and limited.
 
 Effective FAQ pages accomplish the following:
 
-- Reflects the audience needs. This may be derived from understanding search results which lead to the website or documentation.
+- Reflects the audience's needs. This may be derived from understanding search results, which lead to the website or documentation.
 - Regularly updated to reflect the changes in user behavior and data.
 - Drives users to different parts of the website to deliver more detailed information.
 - Cover a broader range of topics that may not otherwise warrant individual pages or pieces of content.
 
 ### Release notes
 
-Release notes exist to provide users with vital information needed to continue to use and benefit from a product, often as it relates to new or updated feature releases. These notes should be brief, linking out to more details as necessary.
+Release notes exist to provide users with vital information needed to continue to use and benefit from a product, often related to new or updated feature releases. These notes should be brief, linking out to more details as necessary.
 
 Consider the following when creating an entry for your release notes:
 

@@ -24,7 +24,7 @@ yamldoc = []
 yaml.add_representer(OrderedDict, RoundTripRepresenter.represent_dict, representer=RoundTripRepresenter)
 
 
-def convert_to_yaml(year, series, yaml_output, pretalx_slug):
+def convert_to_yaml(year, series, series_slug, yaml_output, pretalx_slug):
     if not os.environ.get('PRETALX_TOKEN'):
         print('Error: PRETALX_TOKEN not found in environment variables.')
         return
@@ -49,7 +49,7 @@ def convert_to_yaml(year, series, yaml_output, pretalx_slug):
             ('title', talk['title']),
             ('slug', slug),
             ('series', series),
-            ('series_slug', slug),
+            ('series_slug', series_slug),
             ('year', int(year)),
             ('speakers', speaker_info),
             ('abstract', markdown.markdown(talk['abstract'])),
@@ -104,7 +104,8 @@ def retrieve_speaker_info(speaker_codes, http_headers, pretalx_slug):
 if __name__ == '__main__':
     convert_to_yaml(
         year='2020',
-        series='Write the Docs Portland',
-        yaml_output='../_data/portland-2020-sessions.yaml',
-        pretalx_slug='wtd-portland-2020'
+        series='Write the Docs Australia',
+        series_slug='australia',
+        yaml_output='../_data/australia-2020-sessions.yaml',
+        pretalx_slug='write-the-docs-australia-2020'
     )
