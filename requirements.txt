@@ -1,4 +1,4 @@
-Sphinx==3.2.1
+Sphinx==3.4.3
 recommonmark==0.6.0
 ablog==0.10.6  # pyup: ignore
 tox==3.20.1
