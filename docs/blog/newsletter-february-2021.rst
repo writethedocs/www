@@ -8,12 +8,12 @@ Write the Docs Newsletter – February 2021
 
 Hey everyone! It's a month into 2021 already and the newsletter team is back in business. We've got a packed issue for you today, with topics ranging from screenshots to embedded code snippets to showing your value, so I'll get right on with it.
 
-Just a couple announcements today: the East Coast Quorum meetup is holding its first virtual event this month! It's on "Lessons learned open-sourcing GitHub Docs", and it'll be on Monday 22nd February at 19:30 Eastern Time. If you're interested, `sign up to attend <https://www.meetup.com/virtual-write-the-docs-east-coast-quorum/events/276054186/>`__. We also have a proposed Write the Docs Enhancement Proposal (WEP) focused on Slack moderation. There is an `open pull request <https://github.com/writethedocs/weps/pull/4>`__ with the proposal for ``WEP2``, and the community feedback period lasts until March 5.  
+Just a couple of announcements today: the East Coast Quorum meetup is holding its first virtual event this month! It's on "Lessons learned open-sourcing GitHub Docs", and it'll be on Monday 22nd February at 19:30 Eastern Time. If you're interested, `sign up to attend <https://www.meetup.com/virtual-write-the-docs-east-coast-quorum/events/276054186/>`__. We also have a proposed Write the Docs Enhancement Proposal (WEP) focused on Slack moderation. There is an `open pull request <https://github.com/writethedocs/weps/pull/4>`__ with the proposal for ``WEP2``, and the community feedback period lasts until March 5.  
 
 So what's been happening on Slack?
 
 ------------------------------------------
-Getting the right balance with screenshots
+Getting the balance right with screenshots
 ------------------------------------------
 
 In December, documentarians had a lively discussion about how many screenshots to include in docs. As you might imagine, perspectives ranged from "absolutely no screenshots ever" to "as many screenshots as possible," but the most common opinion was "it depends" (surprise!). Most said they try to help both users who like a visual walkthrough _and_ users who prefer to follow text instructions. One writer approached the problem by presenting text explanations as the default, with an optional collapsible version that includes screenshots.
@@ -30,13 +30,13 @@ For more on screenshots in documentation, check out Steve Stegelin's `Graphic Co
 Report from the book club: managing up
 --------------------------------------
 
-This winter, the `Write the Docs book club <https://app.slack.com/client/T0299N2DL/C7YJR1N02>`__ is reading and discussing their way through  Managing Writers by Richard Hamilton. The book covers a broad range of topics on the overall topic of managing docs projects and teams (both big and small). There’s been some fab discussion every week, so here’s a sample on the theme of showing your value and finding your place in the org.
+This winter, the `Write the Docs book club <https://app.slack.com/client/T0299N2DL/C7YJR1N02>`__ is reading and discussing their way through  Managing Writers by Richard Hamilton. The book covers a broad range of topics on the overall subject of managing docs projects and teams (both big and small). There’s been some fab discussion every week, so here’s a sample on the theme of showing your value and finding your place in the org.
  
 It seems that it’s often part of a tech writer’s job to manage up, teaching both your peers and higher-ups about the value that both you and docs bring. Not easy, but the book club has some tips!
 
 First up, behave like other, more-established roles. If they document their processes in a wiki, do the same. Announce big docs changes just as you’d announce product changes.
 
-Also, look at the interpersonal dynamics. Tech writing often needs a lot of input from other roles - if this is seen as a zero-sum exchange that doesn’t benefit the other person, it’s not gonna work. You can mitigate this by doing your research up front to show you respect their time; by seeking out opportunities to help them with other things, so you’re giving back; and by emphasising your common goals, so it’s not us vs them. See if you can make things easier for people who are helping you - a little bending the rules can be the right call sometimes.
+Also, look at the interpersonal dynamics. Tech writing often needs a lot of input from other roles - if this is seen as a zero-sum exchange that doesn’t benefit the other person, it’s not gonna work. You can mitigate this by doing your research up front to show you respect their time; by seeking out opportunities to help them with other things, so you’re giving back; and by emphasising your common goals, so it’s not us vs them.
 
 Several people saw this as a question of proving your value. Gathering data about the impact of docs programs makes a difference - yes, analytics, but also customer feedback (especially praise). It can take many years to establish your role as valuable, but one good sign you’ve gotten there is if you start to get overloaded. If you’re turning down work, you’ve probably proven value!
 
@@ -81,8 +81,9 @@ Featured job posts
 Virtual events coming up
 ------------------------
 
+- 15 February, 7pm GMT+1 (Europe) - `What skills and competencies do documentarians need? <https://www.meetup.com/Write-The-Docs-Berlin/events/276123636>`__
 - 17 February, 7pm PST (Toronto) - `Write the Docs Toronto <https://www.meetup.com/Write-the-Docs-Toronto/events/rwphwryccdbwb/>`__
 - 22 February, 7:30pm EST (East Coast US) - `Lessons learned open-sourcing GitHub Docs <https://www.meetup.com/virtual-write-the-docs-east-coast-quorum/events/276054186/>`__
 - 23 February, 6pm EST (Ottawa) - `WTD Ottawa Shopify Meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyccdbmb/>`__
 - 9 March, 7pm MST (Calgary) - `March 2021 Write the Docs Calgary Meetup <https://www.meetup.com/wtd-calgary/events/275761130/>`__
-
+- 10 March, 12pm AEDT (Australia) - `GitHub Open Source docs | Doc Product Ownership <https://www.meetup.com/Write-the-Docs-Australia/events/276122418/>`__
