@@ -8,7 +8,7 @@ Write the Docs Newsletter – February 2021
 
 Hey everyone! It's a month into 2021 already and the newsletter team is back in business. We've got a packed issue for you today, with topics ranging from screenshots to embedded code snippets to showing your value, so I'll get right on with it.
 
-Just one announcement for today: the East Coast Quorum meetup is holding its first virtual event this month! It's on "Lessons learned open-sourcing GitHub Docs", and it'll be on Monday 22nd February. If you're interested, `sign up to attend <https://www.meetup.com/virtual-write-the-docs-east-coast-quorum/events/276054186/>`__.
+Just a couple announcements today: the East Coast Quorum meetup is holding its first virtual event this month! It's on "Lessons learned open-sourcing GitHub Docs", and it'll be on Monday 22nd February. If you're interested, `sign up to attend <https://www.meetup.com/virtual-write-the-docs-east-coast-quorum/events/276054186/>`__. We also have a proposed Write the Docs Enhancement Proposal (WEP) focused on Slack moderation. There is an `open pull request <https://github.com/writethedocs/weps/pull/4>`__ with the proposal for ``WEP2``, and the community feedback period lasts until March 5.  
 
 So what's been happening on Slack?
 
