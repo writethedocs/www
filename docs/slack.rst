@@ -1,7 +1,8 @@
 Slack
 =====
 
-You can `join our slack`_ network automatically.
+You can `join our Slack`_ network if you aren't already a member.
+Requests to join Slack are processed automatically.
 
 Our Slack network has lots of people hanging out and chatting about documentation.
 It's the best way to connect with our community,
@@ -17,8 +18,6 @@ recent 10,000 messages. Not only is paid Slack prohibitively expensive for a com
 like ours, but many people seem to feel a freedom in knowing that their words will disappear shortly.
 
 Feel free to send a Pull Request to update `this page`_, if you want to include other channels.
-
-You can `join our slack`_ network if you aren't already a member.
 
 .. note::
     Our Slack includes animated emoji, and other animations are sometimes posted.
@@ -54,6 +53,13 @@ Other useful topical channels
 * **#community-showcase** - Announce your projects here! Blog posts, docs, code, products—whatever you make that you're excited to share!
 * **#community-help-wanted** - Got an open-source project that needs docs contributors? Looking for open-source communities who will mentor you while you contribute to their docs? This channel is for you! Only for volunteer/unpaid work with open-source projects; companies and paid job postings should continue to use #job-posts-only. 
 * **#wtd-weps** - Ask questions about the Write the Docs Enhancement Proposal (WEP) system and brainstorm on pre-proposal ideas to help improve our community processes and governance. 
+
+Channels that serve specific communities & their allies
+-------------------------------------------------------
+Allies are welcome as guests in these channels. Please be considerate.
+
+* **#bipoc** - Social and discussion space for Write the Docs' :doc:`/bipoc` community.
+* **#lgbtq** - Social and discussion space for LGBTQ+ people in the WTD community.
 
 Location-based channels
 -----------------------
