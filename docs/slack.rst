@@ -52,40 +52,35 @@ Other useful topical channels
 * **#confluence** - Talk about everyone's favorite Wiki.
 * **#community-showcase** - Announce your projects here! Blog posts, docs, code, products—whatever you make that you're excited to share!
 * **#community-help-wanted** - Got an open-source project that needs docs contributors? Looking for open-source communities who will mentor you while you contribute to their docs? This channel is for you! Only for volunteer/unpaid work with open-source projects; companies and paid job postings should continue to use #job-posts-only. 
-* **#wtd-weps** - Ask questions about the Write the Docs Enhancement Proposal (WEP) system and brainstorm on pre-proposal ideas to help improve our community processes and governance. 
+* **#wtd-weps** - Ask questions about the Write the Docs Enhancement Proposal (WEP) system and brainstorm on pre-proposal ideas to help improve our community processes and governance.
 
 Autoresponders
 --------------
+We have some helpful Slackbot responses that you can summon in any channel, at any time.
 
-?invite / ?join
-~~~~~~~~~~~~~~~
+* ``?invite`` / ``?join``
 
-    Hi! Want to invite a friend to the Write the Docs Slack? (How kind of you!) They can sign up at this link: https://join.slack.com/t/writethedocs/shared_invite/zt-lqlaz4w6-WCnSTVD25MebjiqowO8EvQ
+  - Get a link you can send to a friend to invite them to the Write the Docs Slack. (You can also invite people directly from Slack by clicking **Write the Docs** > **Invite people to Write the Docs**.)
 
-?conferences / ?conference
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+* ``?conferences`` / ``?conference``
 
-    Hi! Want information on upcoming and past Write the Docs conferences? We've got a page for that: https://www.writethedocs.org/conf/ And don't forget to check out #wtd-conferences and #meetups!
+  - Get information on past and future Write the Docs :doc:`/conferences`.
 
-?jobseeking / ?hiring / ?interview / ?interviewing
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* ``?jobseeking`` / ``?hiring`` / ``?interview`` / ``?interviewing``
 
-    Hi! Are you looking to get hired or to hire a documentarian? We have some helpful tips on the Write the Docs website, including interview tips and key skills: https://www.writethedocs.org/hiring-guide/ You may also find #job-posts-only, #work-wanted, #career-advice, and #managing-writers helpful. Good luck!
+  - Get information on both hiring and getting hired, including a link to the :doc:`/hiring-guide`.
 
-?getstarted / ?resources / ?learn
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* ``?getstarted`` / ``?resources`` / ``?learn``
 
-    Hi! Are you looking for some resources to learn the basics of writing documentation? We've got a collection on the Write the Docs website: https://www.writethedocs.org/about/learning-resources/ And feel free to ask questions in #learn-tech-writing!
+  - We're always excited to help new people into working on documentation! This is for you if you want some resources on how to get started, including a link to some of our favorite :doc:`/learning-resources/`.
 
-?coc
-~~~~
+* ``?coc``
 
-    Hi! Are you looking for Write the Docs' Code of Conduct? Look no further: https://www.writethedocs.org/code-of-conduct/ If you have any concerns, please feel free to make a post in #meta or message one of our moderators (@janine, @jrondeau, @ddbeck, @mikeJang, @ericholscher, or @plaindocs) directly.
+  - "COC" is short for the :doc:`/code-of-conduct`. This is an easy way to get a link to it, and to summon a member of the :ref:`moderation-team` if you need one.
 
-?mods / ?moderators / ?modsquad
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* ``?mods`` / ``?moderators`` / ``?modsquad``
 
-    Hi! It looks like you're looking for a Slack moderator (https://www.writethedocs.org/team/#moderation-team). You can make a post in #meta, or ping @janine, @jrondeau, @ddbeck, @mikeJang, @ericholscher, or @plaindocs privately with your concerns. We'll do everything we can to help you out. Thanks!
+  - Returns the members of the :ref:`moderation-team` if you need to ping someone directly for help.
 
 Channels that serve specific communities & their allies
 -------------------------------------------------------
