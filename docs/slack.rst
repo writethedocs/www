@@ -52,7 +52,35 @@ Other useful topical channels
 * **#confluence** - Talk about everyone's favorite Wiki.
 * **#community-showcase** - Announce your projects here! Blog posts, docs, code, products—whatever you make that you're excited to share!
 * **#community-help-wanted** - Got an open-source project that needs docs contributors? Looking for open-source communities who will mentor you while you contribute to their docs? This channel is for you! Only for volunteer/unpaid work with open-source projects; companies and paid job postings should continue to use #job-posts-only. 
-* **#wtd-weps** - Ask questions about the Write the Docs Enhancement Proposal (WEP) system and brainstorm on pre-proposal ideas to help improve our community processes and governance. 
+* **#wtd-weps** - Ask questions about the Write the Docs Enhancement Proposal (WEP) system and brainstorm on pre-proposal ideas to help improve our community processes and governance.
+
+Autoresponders
+--------------
+We have some helpful Slackbot responses that you can summon in any channel, at any time.
+
+* ``?invite`` / ``?join``
+
+  - Get a link you can send to a friend to invite them to the Write the Docs Slack. (You can also invite people directly from Slack by clicking **Write the Docs** > **Invite people to Write the Docs**.)
+
+* ``?conferences`` / ``?conference``
+
+  - Get information on past and future Write the Docs :doc:`/conferences`.
+
+* ``?jobseeking`` / ``?hiring`` / ``?interview`` / ``?interviewing``
+
+  - Get information on both hiring and getting hired, including a link to the :doc:`/hiring-guide`.
+
+* ``?getstarted`` / ``?resources`` / ``?learn``
+
+  - We're always excited to help new people into working on documentation! This is for you if you want some resources on how to get started, including a link to some of our favorite :doc:`/learning-resources/`.
+
+* ``?coc``
+
+  - "COC" is short for the :doc:`/code-of-conduct`. This is an easy way to get a link to it, and to summon a member of the :ref:`moderation-team` if you need one.
+
+* ``?mods`` / ``?moderators`` / ``?modsquad``
+
+  - Returns the members of the :ref:`moderation-team` if you need to ping someone directly for help.
 
 Channels that serve specific communities & their allies
 -------------------------------------------------------
