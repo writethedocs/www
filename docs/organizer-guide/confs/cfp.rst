@@ -161,7 +161,7 @@ We met four times in the months leading up to the conference. Each meeting was a
 Introduction/level-set:
    Meet one another for the first time, I introduced my topic and experience with it, we decided on our meeting structure and a loose schedule. We agreed I would create an outline for my talk, then the slides, then present a practice talk.
 
-Present outline:j
+Present outline:
    In the two weeks between our introduction and this meeting, I prepped an outline for my talk, going into as much detail as I could. I presented it to my mentor and they asked me questions about the timings I expected and how I might structure my slides. They also presented his concerns around the order of my topics, how to build up the information I was sharing in layers.
 
 Present slides:
