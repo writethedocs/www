@@ -159,16 +159,16 @@ Flexible according to the needs and availability of participants. Use the follow
 We met four times in the months leading up to the conference. Each meeting was an hour and there were about two to three weeks between each.
 
 Introduction/level-set:
-   Meet one another for the first time, I introduced my topic and experience with it, we decided on our meeting structure and a loose schedule. We agreed I would create an outline for my talk, then the slides, then present a practice talk to him.
+   Meet one another for the first time, I introduced my topic and experience with it, we decided on our meeting structure and a loose schedule. We agreed I would create an outline for my talk, then the slides, then present a practice talk.
 
 Present outline:j
-   In the two weeks between our introduction and this meeting, I prepped an outline for my talk, going into as much detail as I could. I presented it to my mentor and he asked me questions about the timings I expected and how I might structure my slides. He also presented his concerns around the order of my topics, how to build up the information I was sharing in layers.
+   In the two weeks between our introduction and this meeting, I prepped an outline for my talk, going into as much detail as I could. I presented it to my mentor and they asked me questions about the timings I expected and how I might structure my slides. They also presented his concerns around the order of my topics, how to build up the information I was sharing in layers.
 
 Present slides:
-   In the two weeks between presenting the outline and this meeting, I prepped my slides. I showed them to my mentor along with a very loose presentation of the talk itself. He gave me feedback on the order, the images, the colors, accessibility concerns, formatting, and so on.
+   In the two weeks between presenting the outline and this meeting, I prepped my slides. I showed them to my mentor along with a very loose presentation of the talk itself. They gave me feedback on the order, the images, the colors, accessibility concerns, formatting, and so on.
 
 Practice talk:
-   In the three weeks between the presentation of slides and this meeting, I formalized my talk and practiced a few times. My mentor provided feedback on the presentation, asked questions that he anticipated the audience might have, made suggestions on the flow and speed, and so on.
+   In the three weeks between the presentation of slides and this meeting, I formalized my talk and practiced a few times. My mentor provided feedback on the presentation, asked questions that they anticipated the audience might have, made suggestions on the flow and speed, and so on.
 
 Take aways
 ~~~~~~~~~~
