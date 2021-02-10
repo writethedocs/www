@@ -165,11 +165,18 @@ unconf:
 sponsors:
   keystone:
   patron:
+    - name: google
+      link: https://www.google.com
+      brand: Google
   publisher:
     - name: cncf
       link: https://www.cncf.io/
       brand: Cloud Native Computing Foundation
   second:
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+      brand: KnowledgeOwl
+      width: 250px
   first:
 
 
