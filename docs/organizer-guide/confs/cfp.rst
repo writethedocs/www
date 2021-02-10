@@ -162,7 +162,7 @@ Introduction/level-set:
    Meet one another for the first time, I introduced my topic and experience with it, we decided on our meeting structure and a loose schedule. We agreed I would create an outline for my talk, then the slides, then present a practice talk.
 
 Present outline:
-   In the two weeks between our introduction and this meeting, I prepped an outline for my talk, going into as much detail as I could. I presented it to my mentor and they asked me questions about the timings I expected and how I might structure my slides. They also presented his concerns around the order of my topics, how to build up the information I was sharing in layers.
+   In the two weeks between our introduction and this meeting, I prepped an outline for my talk, going into as much detail as I could. I presented it to my mentor and they asked me questions about the timings I expected and how I might structure my slides. They also presented their concerns around the order of my topics, how to build up the information I was sharing in layers.
 
 Present slides:
    In the two weeks between presenting the outline and this meeting, I prepped my slides. I showed them to my mentor along with a very loose presentation of the talk itself. They gave me feedback on the order, the images, the colors, accessibility concerns, formatting, and so on.
