@@ -73,3 +73,9 @@ Attend a session
 * It's fine to join late if you needed a longer break.
 
 * Feel free to just listen or add your voice to the discussion.
+
+During the conference
+---------------------
+
+Check out the :doc:`/conf/{{shortcode}}/{{year}}/unconference-cheatsheet` for a quick reference that you can use during the conference to make the most out of the unconference. 
+
