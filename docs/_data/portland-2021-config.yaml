@@ -190,7 +190,7 @@ flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: False
 flaghasunconf: False
-flaghasshirts: False
+flaghasshirts: True
 flagvideos: False
 flaglivestreaming: False
 flagpostconf: False
