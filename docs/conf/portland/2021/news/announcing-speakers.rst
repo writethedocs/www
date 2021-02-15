@@ -31,6 +31,12 @@ If you don't have your ticket yet, now's a great time to snap one up. Conference
 
 `Buy your tickets here! <https://www.writethedocs.org/conf/portland/{{year}}/tickets/>`_
 
+Shirts on sale
+--------------
+
+The `Write the Docs Portland 2021 Pop-Up Shop <https://teespring.com/wtd-pdx-2021>`_ is open, and starting year we updated the logo to include the year of the conference! You can order loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.
+
+The campaign will run in 3-day batches until May 31st. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.
 
 Thanks to our sponsors
 ----------------------
