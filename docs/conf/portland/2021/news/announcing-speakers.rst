@@ -6,9 +6,9 @@
 Announcing speakers and sessions
 ================================
 
-We're writing today with an update on the fast-approaching Portland conference!
+We're writing today with an update on the fast-approaching Portland conference.
 
-First off, we're delighted to announce that we've finalized our speakers for the event!
+First off, we're delighted to announce that we've finalized our speakers for the event.
 Thank you so much to everyone who took the time to send us a pitch – we literally wouldn't have an event without you!
 
 Full speaker line-up
