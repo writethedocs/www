@@ -140,3 +140,50 @@ Biases
 * New people
 * Community members
 * Previous lighting talk speakers
+
+Speaker Mentoring
+-----------------
+
+We offer to pair any speakers who'd like guidance with an experienced speaker from a previous year.
+
+Mentor selection
+~~~~~~~~~~~~~~~~
+
+Mentors have usually spoken at several conferences in the past and have a good sense of what preparation is needed.
+
+Meeting structure
+~~~~~~~~~~~~~~~~~
+
+Flexible according to the needs and availability of participants. Use the following guidelines if they are useful
+
+We met four times in the months leading up to the conference. Each meeting was an hour and there were about two to three weeks between each.
+
+Introduction/level-set:
+   Meet one another for the first time, I introduced my topic and experience with it, we decided on our meeting structure and a loose schedule. We agreed I would create an outline for my talk, then the slides, then present a practice talk.
+
+Present outline:
+   In the two weeks between our introduction and this meeting, I prepped an outline for my talk, going into as much detail as I could. I presented it to my mentor and they asked me questions about the timings I expected and how I might structure my slides. They also presented their concerns around the order of my topics, how to build up the information I was sharing in layers.
+
+Present slides:
+   In the two weeks between presenting the outline and this meeting, I prepped my slides. I showed them to my mentor along with a very loose presentation of the talk itself. They gave me feedback on the order, the images, the colors, accessibility concerns, formatting, and so on.
+
+Practice talk:
+   In the three weeks between the presentation of slides and this meeting, I formalized my talk and practiced a few times. My mentor provided feedback on the presentation, asked questions that they anticipated the audience might have, made suggestions on the flow and speed, and so on.
+
+Take aways
+~~~~~~~~~~
+
+Things that worked for me as a mentee:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Having a very experienced and patient mentor
+- Timings between meetings gave me enough pressure to get things done but not so much pressure that it was difficult to achieve my milestones
+- Having a critical eye on my talk at every step of the process
+- Virtual meetings made it easier to find times to meet than if meetings had been in person (even assuming we were in the same physical location)
+- Having my mentor in the audience was calming
+
+Things that could have been better:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Having someone more in my time zone would have made it easier to find times that worked for both of us. Being so physically separated meant we only had about two hours a day (one in the morning and one in the evening) that worked for both of us. I think it would be ideal to have no - more than a two-hour difference between a mentor and mentee.
+- Although I already had a strong idea of where I wanted to go with the talk, a brand new speaker might be well-served by having an additional meeting to ideate their talk a little before even the outline step. Another meeting for the mentor to share tips on how to practice, how to handle nervousness, and to introduce the inevitable post-talk emotional crash would probably be helpful.
