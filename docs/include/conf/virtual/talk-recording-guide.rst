@@ -12,7 +12,7 @@ Video requirements
 ------------------
 
 - Duration: 30min (+- a few minutes is ok)
-- No cutting required if the video is in a single file
+- Single video file without edits
 - No effects, filters, or post-processing needed
 - No subtitles needed
 - Resolution: Minimum 720p, ideally 1080p (4K optional but it will be compressed later)
