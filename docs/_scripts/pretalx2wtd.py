@@ -23,7 +23,11 @@ yamldoc = []
 # Prevent OrderedDict from being presented as YAML OMAP - we just want a regular YAML dict.
 yaml.add_representer(OrderedDict, RoundTripRepresenter.represent_dict, representer=RoundTripRepresenter)
 
-
+CONTENT_TYPE_EXTENSIONS = {
+    'image/jpeg': 'jpg',
+    'image/jpg': 'jpg',
+    'image/png': 'png',
+}
 def convert_to_yaml(year, series, series_slug, yaml_output, pretalx_slug):
     if not os.environ.get('PRETALX_TOKEN'):
         print('Error: PRETALX_TOKEN not found in environment variables.')
@@ -83,8 +87,8 @@ def retrieve_speaker_info(speaker_codes, http_headers, pretalx_slug):
         speaker_slug = slugify(speaker['name'])
 
         if speaker['avatar']:
-            avatar_path = SPEAKER_IMAGE_PATH + speaker_slug + '.' + speaker['avatar'].split('.')[-1].lower().replace('jpeg', 'jpg')
             image_response = requests.get(speaker['avatar'], stream=True)
+            avatar_path = SPEAKER_IMAGE_PATH + speaker_slug + '.' + CONTENT_TYPE_EXTENSIONS[image_response.headers['content-type']]
             if image_response.status_code != 200:
                 print(f'Error: speaker avatar request failed: {image_response.status_code}: {image_response.text}')
                 return
@@ -103,9 +107,9 @@ def retrieve_speaker_info(speaker_codes, http_headers, pretalx_slug):
 
 if __name__ == '__main__':
     convert_to_yaml(
-        year='2020',
-        series='Write the Docs Australia',
-        series_slug='australia',
-        yaml_output='../_data/australia-2020-sessions.yaml',
-        pretalx_slug='write-the-docs-australia-2020'
+        year='2021',
+        series='Write the Docs Portland',
+        series_slug='portland',
+        yaml_output='../_data/portland-2021-sessions.yaml',
+        pretalx_slug='write-the-docs-portland-2021'
     )
