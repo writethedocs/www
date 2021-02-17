@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: February 14, 2021
+.. post:: February 17, 2021
    :tags: portland-2021, speakers, tickets, visiting, sponsors
 
 Announcing speakers and sessions
