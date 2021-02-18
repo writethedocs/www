@@ -32,8 +32,3 @@ Logistics
 Please bring a computer or some other mechanism with which to create written words.
 We'll be creating and editing content, so make sure that you have the tools you need to contribute.
 
-During the conference
----------------------
-
-Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet` for a quick reference that you can use during the conference to make the most out of Writing Day. 
-
