@@ -64,15 +64,15 @@ We have some helpful Slackbot responses that you can summon in any channel, at a
 
 * ``?conferences`` / ``?conference``
 
-  - Get information on past and future Write the Docs :doc:`/conferences`.
+  - Get information on past and future Write the Docs :doc:`/conf/index`.
 
 * ``?jobseeking`` / ``?hiring`` / ``?interview`` / ``?interviewing``
 
-  - Get information on both hiring and getting hired, including a link to the :doc:`/hiring-guide`.
+  - Get information on both hiring and getting hired, including a link to the :doc:`/hiring-guide/index`.
 
 * ``?getstarted`` / ``?resources`` / ``?learn``
 
-  - We're always excited to help new people into working on documentation! This is for you if you want some resources on how to get started, including a link to some of our favorite :doc:`/learning-resources/`.
+  - We're always excited to help new people into working on documentation! This is for you if you want some resources on how to get started, including a link to some of our favorite :doc:`/about/learning-resources`.
 
 * ``?coc``
 
