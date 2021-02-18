@@ -89,7 +89,7 @@ grants:
   notification: "March 10, 2021"
 
 shirts:
-  # url: TODO
+  url: https://teespring.com/wtd-pdx-2021
   ends: "May 31, 2021"
 
 date: # how do we handle these? human readable would be nice.
