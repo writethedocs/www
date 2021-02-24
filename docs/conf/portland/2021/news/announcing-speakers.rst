@@ -27,7 +27,7 @@ We hope there’s something there for everyone to enjoy, and also something that
 Shirts on sale
 --------------
 
-The `Write the Docs Portland 2021 Pop-Up Shop <https://teespring.com/wtd-pdx-2021>`_ is open, and starting year we updated the logo to include the year of the conference! You can order loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.
+The `Write the Docs Portland 2021 Pop-Up Shop <https://teespring.com/wtd-pdx-2021>`_ is open, and starting this year we updated the logo to include the year of the conference! You can order loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.
 
 The campaign will run in 3-day batches until May 31st. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.
 
