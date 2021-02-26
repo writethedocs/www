@@ -172,6 +172,9 @@ sponsors:
     - name: cncf
       link: https://www.cncf.io/
       brand: Cloud Native Computing Foundation
+    - name: twilio
+      link: https://www.twilio.com/
+      brand: Twilio
   second:
     - name: knowledgeowl
       link: https://www.knowledgeowl.com
