@@ -30,7 +30,7 @@ Each conference has a specific team that helps run that event.
 For this year,
 you can see who is helping out:
 
-* :doc:`Portland 2020 Team </conf/portland/2020/team>`
+* :doc:`Portland 20201 Team </conf/portland/2021/team>`
 * :doc:`Prague 2020 Team </conf/prague/2020/team>`
 * :doc:`Australia 2020 Team </conf/australia/2020/team>`
 
