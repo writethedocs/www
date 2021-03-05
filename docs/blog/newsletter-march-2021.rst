@@ -96,6 +96,7 @@ Featured job posts
 - `Content Developer 2 <https://jobs.writethedocs.org/job/292/content-developer-2/>`__, Microsoft (remote / Redmond)
 - `Part-time Documentation Contractor  <https://jobs.writethedocs.org/job/285/part-time-documentation-contractor/>`__, Tidelift (contract, remote US)
 - `Technical Content Writer <https://jobs.writethedocs.org/job/294/technical-content-writer-b2b-opensource-sre-performance-testing/>`__, Load Impact AB (remote)
+- `Information Developer (Technical Writer) <https://jobs.writethedocs.org/job/280/information-developer-technical-writer/>`__, OpenFin Inc (remote / US / UK)
 
 *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
