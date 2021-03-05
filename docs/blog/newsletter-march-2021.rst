@@ -8,9 +8,9 @@ Write the Docs Newsletter – March 2021
 
 Hey everyone! It's your friendly neighbourhood WTD newsletter team, with our March edition.
 
-Spring is here and the year is racing on, and can you believe it's getting close to conference time? We've just announced `speakers for our virtual Portland conference </conf/portland/2021/news/announcing-speakers/>`__, which is coming up on 25th-27th April. If you think those speakers look great (which of course you do!), you can get your tickets `here </conf/portland/2021/tickets/>`__.
+Spring is here and the year is racing on, and can you believe it's getting close to conference time? We've just announced `speakers for our virtual Portland conference </conf/portland/2021/news/announcing-speakers/>`__, which is coming up on 25th-27th April. If you think those speakers look great (which of course you do!), `get your tickets </conf/portland/2021/tickets/>`__ now.
 
-And if Portland can't come soon enough, the West Coast Quorum meetup is holding its first virtual event this month! The event is about "The Product is Docs: A Look Inside" and will be held on Thursday 18th March at 19:00 Pacific Time. If you're interested, `sign up to attend <https://www.meetup.com/virtual-write-the-docs-west-coast-quorum/events/276616460/>`__.
+And if Portland isn't soon enough for you, the West Coast Quorum meetup is holding its first virtual event this month! The event is about "The Product is Docs: A Look Inside" and will be held on Thursday 18th March at 19:00 Pacific Time. If you're interested, `sign up to attend <https://www.meetup.com/virtual-write-the-docs-west-coast-quorum/events/276616460/>`__.
 
 This month we've seen a quite a number of style guide and "how do I write this" discussions, so we're trying something new: a newsletter on a theme! We hope you enjoy it :)
 
