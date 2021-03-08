@@ -102,6 +102,8 @@ Documentation Guides
 * `Wikiversity Technical Writing <https://en.wikiversity.org/wiki/Technical_writing>`_
 * `Write the Docs <http://www.writethedocs.org/guide/>`_
 
+.. _api-documentation:
+
 API Documentation
 -----------------
 
