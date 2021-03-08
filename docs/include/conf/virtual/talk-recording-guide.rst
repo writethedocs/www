@@ -59,11 +59,15 @@ Features:
 
    .. image:: /_static/conf/images/pics/talk-recording-gear.png
 
-#.  **Check the box** next to **Capture in HD**.
+#.  Under **Recording options**, select the **HD** option, and check the **Enable  5 second countdown** box.
 
 #.  Under **Arrangement**, select the **Show as side by side** option.
 
-#.  **Uncheck the box** next to **Capture in Ultra HD (4K) and/or 60fps**.
+#.  Under **Arrangement**, select the **Show as side by side** option.
+
+#.  Under **Background**, select **Off**.
+
+#.  Under **Smart Camera**, select **1 person** (unless you have a co-presenter :-p).
 
 #.  Click on the gear icon to close it
 
