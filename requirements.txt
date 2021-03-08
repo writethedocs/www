@@ -1,5 +1,5 @@
 Sphinx==3.5.2
-recommonmark==0.6.0
+recommonmark==0.7.1
 ablog==0.10.6  # pyup: ignore
 tox==3.20.1
 sphinx_autobuild==2020.9.1
