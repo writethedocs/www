@@ -20,7 +20,7 @@ Where to start
 
 The guide has its origins in the efforts of developers to understand and explain documentation to each other. Since then, Write the Docs has expanded its focus and its community. We've recently reorganized the guide to provide a clearer top-level structure, but there's much work to be done. And you should feel free to suggest further changes to the organization, too. But here are the areas we've most recently identified as needing your contributions:
 
-* More :ref:`api-documentation <API docs>` content! 
+* More API docs content! :ref:`api-documentation` 
 * Helping non-writer roles understand the moving parts of good docs
 * Helping writers new to developer tools or docs-as-code understand the moving parts of new toolchains and workflows
 * High-level discussions of common tools and toolchains. Please avoid advocacy here! But thoughtful presentation of specific use cases, how you solved them, what worked well, and what didn't work so well, are most welcome. If you want to write this kind of topic, consider starting with an issue in GitHub, or contact one of the new guide editors.
