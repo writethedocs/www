@@ -19,7 +19,7 @@ We're looking for ideas and use-cases from all disciplines and roles, so whether
 
 You can read our full `Call for Proposals <https://www.writethedocs.org/conf/portland/{{year}}/cfp/>`__ on the website.
 
-The Call for Proposals will be open until **Midnight PST {{cfp.ends}}**.
+The Call for Proposals will be open until **Midnight {{cfp.ends}} {{tz}}**.
 
 Tickets
 -------

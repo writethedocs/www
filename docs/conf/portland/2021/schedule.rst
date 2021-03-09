@@ -110,7 +110,7 @@ Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}
-* **When**: **10:00-18:00 {{ tz }}**
+* **When**: **09:00-05:00 {{ tz }}**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 .. separator to fix list formatting

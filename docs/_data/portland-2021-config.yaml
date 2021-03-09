@@ -6,7 +6,7 @@ city: Portland
 local_area: Oregon
 area: North America # European Australian
 area_adj: North American
-tz: Pacific  # PT until March, PST after... :/
+tz: Pacific Time  # PT until March, PST after... :/
 email: portland@writethedocs.org
 color: gold
 rgb: 253,185,19
@@ -131,7 +131,7 @@ date: # how do we handle these? human readable would be nice.
     date: April 27
     summary: And the conference goes on! We are already starting to miss you. |:heart:|
     dotw: Tuesday
-    talk_time: 9am-4pm
+    talk_time: 9am-4:30pm
     job_fair_time: 9:45am-12pm
     unconference_time: 2:15pm-5pm
   total_talk_days: 2
