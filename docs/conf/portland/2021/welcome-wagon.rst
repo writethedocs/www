@@ -108,7 +108,7 @@ Helpful settings
 Writing Day
 -----------
 
-`Writing Day <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/writing-day/>`__ takes place on Sunday, the day before the conference starts. You can join in anytime between 9:30am and 5pm PDT.
+`Writing Day <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/writing-day/>`__ takes place on Sunday, the day before the conference starts. You can join in anytime between 9:30am and 5pm {{tz}}.
 
 You can bring a writing project you want to work on, or you can contribute to a project someone else brought.
 
