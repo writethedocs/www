@@ -183,6 +183,8 @@ sponsors:
     - name: juniper
       link: https://www.juniper.net/
       brand: Juniper
+      text: "<p><b>Power connections. Empower change.</b>\n Juniper exists to solve the world’s most difficult problems in networking. We do this by remaining true to our values of being bold, building trust and delivering excellence. Visit us at the virtual job fair!</p>"
+
     - name: netlify
       link: https://www.netlify.com/
       brand: Netlify
