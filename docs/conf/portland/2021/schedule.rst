@@ -85,7 +85,7 @@ We encourage everyone to drop by on Sunday evening for the conference reception.
 We're hoping to have some fun activities planned for the evening online.
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
-* **When**: **17:00-20:00 {{ tz }}**
+* **When**: **{{ date.day_two.reception_time }} {{ tz }}**
 
 {% endif %}
 
@@ -110,7 +110,7 @@ Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}
-* **When**: **09:00-05:00 {{ tz }}**
+* **When**: **{{ date.day_three.talk_time }} {{ tz }}**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 .. separator to fix list formatting
@@ -141,6 +141,9 @@ The official Write the Docs social!
 Further details will be announced later,
 but expect some music and games,
 and bring your favorite beverage to your computer :)
+
+* **Where**: {{ about.social_venue }}
+* **When**: **{{ date.day_three.social_time }} {{ tz }}**
 
 
 .. raw:: html
