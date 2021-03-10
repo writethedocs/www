@@ -180,6 +180,12 @@ sponsors:
       link: https://www.knowledgeowl.com
       brand: KnowledgeOwl
       width: 250px
+    - name: juniper
+      link: https://www.juniper.net/
+      brand: Juniper
+    - name: netlify
+      link: https://www.netlify.com/
+      brand: Netlify
   first:
 
 
