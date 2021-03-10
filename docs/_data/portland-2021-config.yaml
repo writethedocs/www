@@ -125,13 +125,14 @@ date: # how do we handle these? human readable would be nice.
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Monday
     talk_time: 9am-5pm
-    unconference_time: 9:45am-5:00pm
+    unconference_time: 9:45am-5pm
+    social_time: 5pm-7pm
   day_four:
     event: Conference Day 2
     date: April 27
     summary: And the conference goes on! We are already starting to miss you. |:heart:|
     dotw: Tuesday
-    talk_time: 9am-4:30pm
+    talk_time: 9am-4pm
     job_fair_time: 9:45am-12pm
     unconference_time: 2:15pm-5pm
   total_talk_days: 2
@@ -142,6 +143,7 @@ about:
     "The main presentation track takes place from **April 26-27 (Monday and Tuesday) from 9am to 6pm**.
     During the main event we also run an :doc:`/conf/portland/2021/unconference`."
 
+  social_venue: Spatial chat platform
   venue:
     "Online conference platform"
   photos:
