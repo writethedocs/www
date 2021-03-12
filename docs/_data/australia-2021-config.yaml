@@ -99,12 +99,6 @@ date: # how do we handle these? human readable would be nice.
   short: Dec 2-3, 2021
   tickets_live: "XXXX 2021"
   month: December
-  # Conference is special for the index to show the combined conference days
-  conference:
-    event: Main Conference
-    date: December 2-3
-    summary: The main days of the conference. We will be running one main track, and an <a href="/conf/australia/2021/unconference/">Unconference</a>.
-    icon: conference
   day_one:
     event: Conference Day 1
     date: December 2

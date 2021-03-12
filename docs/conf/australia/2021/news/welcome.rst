@@ -3,8 +3,8 @@
 .. post:: March 15, 2021
    :tags: {{shortcode}}-{{year}}, website, tickets
 
-Announcing Write the Docs Australia {{year}}
-===========================================
+Announcing Write the Docs Australia & India {{year}}
+===================================================
 
 Welcome to the official launch of `Write the Docs Australia {{year}} <https://www.writethedocs.org/conf/australia/{{year}}/>`_,
 our fifth virtual conference.
@@ -12,7 +12,7 @@ We have been tuning our approach to these events since our first virtual event i
 and are happy to invite you back to our online space.
 
 We're excited to announce the dates for our next conference:
-**Write the Docs Australia 2021 will be on October 3-5, 2021**
+**Write the Docs Australia 2021 will be on December 2-3, 2021**
 
 This is another virtual conference, which means you can attend,
 speak or have a sponsor presence from anywhere in the world.
