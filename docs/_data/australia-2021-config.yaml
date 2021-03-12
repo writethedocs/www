@@ -112,6 +112,7 @@ date: # how do we handle these? human readable would be nice.
     dotw: Thursday
     talk_time: 10:00-18:00
     unconference_time: 9:45-17:00
+    icon: conference
   day_two:
     event: Conference Day 2
     date: December 3
@@ -120,6 +121,7 @@ date: # how do we handle these? human readable would be nice.
     talk_time: 10:00-18:00
     job_fair_time: 9:45-12:00
     unconference_time: 14:15-17:00
+    icon: conference
   total_talk_days: 2
 
 about:
