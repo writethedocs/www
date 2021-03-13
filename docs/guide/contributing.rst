@@ -18,7 +18,7 @@ The guide is meant to address all aspects of software documentation. Depending o
 Where to start
 --------------
 
-The guide has its origins in the efforts of developers to understand and explain documentation to each other. Since then, Write the Docs has expanded its focus and its community. We've recently reorganized the guide to provide a clearer top-level structure, but there's much work to be done. And you should feel free to suggest further changes to the organization, too. But here are the areas we've most recently identified as needing your contributions:
+The guide has its origins in the efforts of developers to understand and explain documentation to each other. Since then, Write the Docs has expanded its focus and its community. We've recently reorganized the guide to provide a clearer top-level structure, but there's much work to be done. And you should feel free to suggest further changes to the organization, too. Here are the areas we've most recently identified as needing your contributions:
 
 * More :ref:`api-documentation` content!
 * Helping non-writer roles understand the moving parts of good docs
@@ -64,9 +64,8 @@ Community
 
 For help, questions, or discussion, the Write the Docs community is available here:
 
-- `Slack <http://slack.writethedocs.com/>`_
+- `Slack <https://www.writethedocs.org/slack/>`_
 
-- `Forum <http://forum.writethedocs.org/>`_
+- `Conferences <https://www.writethedocs.org/conf/>`_
 
 You can also check out our `local meetups <https://www.writethedocs.org/meetups>`_.
-
