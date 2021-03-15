@@ -2,7 +2,7 @@ Sphinx==3.5.2
 recommonmark==0.7.1
 ablog==0.10.6  # pyup: ignore
 tox==3.23.0
-sphinx_autobuild==2020.9.1
+sphinx_autobuild==2021.3.14
 PyYAML>=4.2b1
 docutils==0.16
 csvkit==1.0.5
