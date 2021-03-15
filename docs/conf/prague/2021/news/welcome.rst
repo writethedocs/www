@@ -16,7 +16,7 @@ We're excited to announce the dates for our next conference:
 
 This is another virtual conference, which means you can attend,
 speak or have a sponsor presence from anywhere in the world.
-The conference will take place during day time in CET_.
+The conference will take place during the day time in CET_ time zone.
 
 .. _CET: https://time.is/CET
 
