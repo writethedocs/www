@@ -117,7 +117,7 @@ date: # how do we handle these? human readable would be nice.
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Monday
     talk_time: 10:00-18:00
-    unconference_time: 9:45-17:00
+    unconference_time: 10:45-18:00
   day_four:
     event: Conference Day 2
     date: October 5
