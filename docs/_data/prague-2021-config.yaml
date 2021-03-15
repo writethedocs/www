@@ -131,7 +131,7 @@ date: # how do we handle these? human readable would be nice.
 about:
   attendees: 600
   summary:
-    "The main presentation track takes place from **April 26-27 (Monday and Tuesday) from 10:00 to 18:00**.
+    "The main presentation track takes place on **October 4-5 (Monday and Tuesday) from 10:00 to 18:00**.
     During the main event we also run an :doc:`/conf/prague/2021/unconference`."
   venue: "Online conference platform"
   photos:
