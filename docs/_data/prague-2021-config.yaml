@@ -83,14 +83,6 @@ sponsorship:
   keystone:
     price: €13,500
 
-grants:
-  url:
-  ends:
-  notification:
-
-shirts:
-  url:
-  ends:
 
 date: # how do we handle these? human readable would be nice.
   main: "**April 25-27, 2021, online**"
@@ -147,15 +139,6 @@ about:
   unconfroom: "Chat area"
   projector_ratio: "16:9"
   job_fair_room: "Sponsor area"
-
-cfp:
-  url:
-  ends: "February 1, 2021"          # 2 weeks to review and get confirmnations
-  notification: "February 15, 2021" # leaves 6 weeks to write and record
-  video_by: "March 31, 2021"        # 3 weeks before the conf
-
-unconf:
-  url:
 
 
 sponsors:
