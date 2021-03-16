@@ -25,7 +25,7 @@ The conference website is now updated with the `talk schedule <https://www.write
 
 One of the big changes in the schedule based on the community feedback is scheduling more breaks during the day. We are all trying to balance our screen time, so we wanted to make sure that your eyes get their rest! We hope that this adjustment will help you stay alert and happy throughout the conferences.
 
-Another change that we made is to move the social event to an earlier time and shorten the activity time slots. We want you to have fun socializing with your fellow documentarians, but we understand that your family and home time is also important these days, so hopefully this will help us stay engaged and enjoy the social activities even more.
+Another change that we made is to move the social event to an earlier time. We want you to have fun socializing with your fellow documentarians, but we understand that your family and home time is also important these days, so hopefully this will help us stay engaged and enjoy the social activities even more.
 
 Start thinking about Writing Day
 --------------------------------
@@ -51,7 +51,7 @@ Write the Docs is more than a conference. Every year we make sure to have a vari
 * **Lightning Talks.** We'll have `lightning talks <https://www.writethedocs.org/conf/portland/{{year}}/lightning-talks/>`__ each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.
 * **Unconference.** We'll be running the `Unconference <https://www.writethedocs.org/conf/portland/{{year}}/unconference/>`_ all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.
 * **Job Fair**. As with the previous few years, on Tuesday morning we'll have a `job fair <https://www.writethedocs.org/conf/portland/{{year}}/job-fair>`_ where you can find your next documentarian friendly job.
-* **Social event**. On Monday night the conference platform will become the social event space. The main stage will be closed, the main focus will be attendee-created sessions. You're welcome to run sessions for board games, trivia quizzes, karaoke, or any other social activity that you want to share with your fellow documentarians.
+* **Social event**. On Monday night we'll be moving to a spatial chat platform for our social event. This will be a more familiar social space where you can move around and join groups of people having conversations. We've used similar platforms at other events, and found that they really help people get to know each other in a more natural way. 
 * **Conference Help Desk**. If you have any questions about navigating the virtual event, we'll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.
 
 The `Schedule page <https://www.writethedocs.org/conf/portland/{{year}}/schedule/>`_ has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.
