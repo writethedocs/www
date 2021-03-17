@@ -100,7 +100,7 @@ jobs:
 
       - name: Check links
         run: |
-          htmlproofer --allow-hash-href --internal-domains 'www.writethedocs.org' --alt-ignore '/.*/' --disable-external docs/_build/html
+          htmlproofer --file-ignore "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/" --allow-hash-href --internal-domains 'www.writethedocs.org' --alt-ignore '/.*/' --disable-external docs/_build/html
 
 
   links-external:
@@ -123,4 +123,4 @@ jobs:
 
       - name: Check links
         run: |
-          htmlproofer --allow-hash-href --internal-domains 'www.writethedocs.org' --alt-ignore '/.*/' --external_only --url-ignore '/linkedin/,/jobs.writethedocs.org/' docs/_build/html
+          htmlproofer --file-ignore "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/" --allow-hash-href --internal-domains 'www.writethedocs.org' --alt-ignore '/.*/' --external_only --url-ignore '/linkedin/,/jobs.writethedocs.org/' docs/_build/html
