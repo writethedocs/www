@@ -101,24 +101,3 @@ jobs:
       - name: Check links
         run: |
           htmlproofer --file-ignore "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/" --allow-hash-href --internal-domains 'www.writethedocs.org' --alt-ignore '/.*/' --disable-external docs/_build/html
-
-
-  links-external:
-    runs-on: ubuntu-latest
-    needs: sphinx
-
-    steps:
-      - name: Download site HTML
-        uses: actions/download-artifact@v2
-        with:
-          name: html
-
-      - name: Uncompress site
-        run: tar -xzf html.tar.gz
-
-      - name: Install html-proofer
-        run: sudo gem install html-proofer
-
-      - name: Check links
-        run: |
-          htmlproofer --file-ignore "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/" --allow-hash-href --internal-domains 'www.writethedocs.org' --alt-ignore '/.*/' --external_only --url-ignore '/linkedin/,/jobs.writethedocs.org/' docs/_build/html
