@@ -5,7 +5,7 @@ Opportunity grants
 
 The grant program for WTD {{ name }} {{ year }} supports people who would otherwise not be able to attend the conference by covering attendance costs. Applications are open to anyone who wants to attend Write the Docs.
 
-{% if grants.url %}
+{% if grants and grants.url %}
 To apply, fill in the form below.
 {% else %}
 We expect to open the grant program around the same time as ticket sales.
@@ -21,7 +21,7 @@ Depending on the number of applications, we may not be able to provide every app
 
 Grant applicants, like all other participants in the Write the Documents community, are required to conform to the Code of Conduct: https://www.writethedocs.org/code-of-conduct/.
 
-{% if grants.ends %}
+{% if grants and grants.ends %}
 **Grant applications are open until {{ grants.ends }}, Midnight {{ tz }}.**
 {% endif %}
 
@@ -59,7 +59,7 @@ These groups include, but are not limited to:
 
 You do not have to tell us which underrepresented group(s) you are a part of.
 
-{% if grants.url %}
+{% if grants and grants.url %}
 
 Submit your application
 --------------------------
