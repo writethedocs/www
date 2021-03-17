@@ -8,7 +8,7 @@
   - name: Paul Logan
     slug: paul-logan
     twitter: '@scottishkilt'
-    website: www.pauljflogan.com
+    website: http://www.pauljflogan.com
   abstract: '<p>In q4 of 2019 Slack implemented an oft-requested documentation feature:
     site search. In this talk I''ll tell the story of technical and social considerations
     that went into implementing search on api.slack.com and the philosophy that''s
@@ -59,7 +59,7 @@
   - name: Alexandra White
     slug: alexandra-white
     twitter: heyawhite
-    website: heyawhite.com
+    website: http://heyawhite.com
   abstract: '<p>Accessibility is a crucial part of product creation. Every team member,
     from engineer to technical writer, must have at least a basic understanding of
     what accessibility means for their role in product development. Often, writers
@@ -96,7 +96,7 @@
   - name: Anni Bond
     slug: anni-bond
     twitter: sunshineparadox
-    website: annisimpson.com
+    website: http://annisimpson.com
   abstract: "<p>Writing documentation for new or existing products is a forward-thinking
     endeavor. They almost use a template that includes new features and processes
     the user might use, patch notes, and text on the user interface itself. However,
@@ -134,7 +134,7 @@
   - name: Matthew Baldwin
     slug: matthew-baldwin
     twitter: defectiveyeti
-    website: matthewscottbaldwin.com
+    website: http://matthewscottbaldwin.com
   abstract: '<p>Imagine writing guidance for a product that exists solely in the mind
     of the customer. That is the plight of the tabletop game designer. Yes, games
     come with boards and cards and dice and counters, but those are but the UI, so
@@ -299,7 +299,7 @@
   - name: Lucy Carey
     slug: lucy-carey
     twitter: lucyrushi
-    website: www.lucycarey.com
+    website: http://www.lucycarey.com
   abstract: '<p>Your docs are looking good, the demand is there, and you’re thinking
     it’s time to open up your content to a non-English speaking market. Unfortunately,
     pushing out localised content isn’t always a plug-in-and-play exercise. Whilst
@@ -343,7 +343,7 @@
   - name: Brooke Wayne
     slug: brooke-wayne
     twitter: ''
-    website: 'Medium: https://medium.com/@brooke.wayne and LinkedIn: https://www.linkedin.com/in/brookewayne/'
+    website: https://medium.com/@brooke.wayne
   abstract: '<p>As Documentarians, your users, whether they are internal (like your
     customer support team) or external (like your customers), will always need simple
     and fast access to your documentation, no matter what tool(s) you’re using for

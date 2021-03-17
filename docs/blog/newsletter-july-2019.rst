@@ -79,7 +79,7 @@ Several people mentioned `one sentence per line <https://rhodesmill.org/brandon/
 From our sponsor: Spotlight on The Not-Boring Tech Writer podcast 
 -----------------------------------------------------------------
 
-We're excited to be trying out sponsorship of the newsletter this month. Sponsorship helps us cover the cost of the newsletter, and gives us funding opportunities to expand our ambitions in the future. If you're interested in sponsoring, take a look at our `sponsorship prospectus </newsletter/sponsorship/>`__.
+We're excited to be trying out sponsorship of the newsletter this month. Sponsorship helps us cover the cost of the newsletter, and gives us funding opportunities to expand our ambitions in the future. If you're interested in sponsoring, take a look at our `sponsorship prospectus </sponsorship/newsletter/>`__.
 
 This month's newsletter is sponsored by `KnowledgeOwl <https://www.knowledgeowl.com/home?utm_source=newsletter&utm_campaign=wtd-jul-2019>`__:
 

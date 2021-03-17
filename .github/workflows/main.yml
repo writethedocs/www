@@ -8,6 +8,11 @@ on:
 
   workflow_dispatch:
 
+env:
+  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+  BUILD_VIDEOS: true
+  NOKOGIRI_USE_SYSTEM_LIBRARIES: true  # for faster htmlproofer install
+
 jobs:
   vale-runner:
     runs-on: ubuntu-latest
@@ -18,8 +23,6 @@ jobs:
         uses: errata-ai/vale-action@v1.3.0
         with:
           files: docs/
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
   yaml-validate:
     runs-on: ubuntu-latest
@@ -65,9 +68,7 @@ jobs:
       uses: rickstaa/sphinx-action@master
       with:
         docs-folder: "./docs"
-        build-command: "sphinx-build -j auto -b html -d _build/doctrees . _build/html"
-      env:
-        BUILD_VIDEOS: true
+        build-command: "sphinx-build -j auto -b dirhtml -d _build/doctrees . _build/html"
 
     # Upload performance is awful on the many small files our build generates,
     # so it's compressed locally before uploading
@@ -79,6 +80,7 @@ jobs:
       with:
         name: html
         path: html.tar.gz
+
 
   links-internal:
     runs-on: ubuntu-latest
@@ -95,8 +97,6 @@ jobs:
 
       - name: Install html-proofer
         run: sudo gem install html-proofer
-        env:
-          NOKOGIRI_USE_SYSTEM_LIBRARIES: true
 
       - name: Check links
         run: |
@@ -118,8 +118,6 @@ jobs:
 
       - name: Install html-proofer
         run: sudo gem install html-proofer
-        env:
-          NOKOGIRI_USE_SYSTEM_LIBRARIES: true
 
       - name: Check links
         run: |
