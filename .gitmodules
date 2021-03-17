@@ -1,3 +1,0 @@
-[submodule "vale/proselint-git"]
-	path = vale/proselint-git
-	url = https://github.com/errata-ai/proselint.git/proselint
