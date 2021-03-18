@@ -28,7 +28,9 @@ The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion
 If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
 
 * **Where**: Lower Macleay Park or Macleay Park Entrance.
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_two.hike_time }} {{ tz }}**
+{% endif %}
 * **Details**: :doc:`Annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/outing>`
 
 {% endif %}
@@ -61,7 +63,9 @@ Writing Day
 ~~~~~~~~~~~
 
 * **Where**: {{about.venue}}
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_two.writing_day_time }} {{ tz }}**
+{% endif %}
 * **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
 .. separator to fix list formatting
@@ -112,7 +116,9 @@ Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_three.talk_time }} {{ tz }}**
+{% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session at the end of their talk.
@@ -174,7 +180,9 @@ Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_four.talk_time }} {{ tz }}**
+{% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session at the end of their talk.
