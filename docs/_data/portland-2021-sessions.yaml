@@ -393,59 +393,6 @@
     the libraries we have now. What even is a library? This will be a fast-paced history
     lesson, relating everything you hear to the modern day. Find out what''s next,
     from the past.</p>'
-- title: 'Documentation Communities: Sound Strategy or Documentarian''s Gambit?'
-  slug: documentation-communities-sound-strategy-or-documentarian-s-gambit-laura-novich
-  series: Write the Docs Portland
-  series_slug: portland
-  year: 2021
-  speakers:
-  - name: Laura Novich
-    slug: laura-novich
-    twitter: 
-    website: 
-  abstract: '<p>This year, like many of you, I binged on the <a href="https://www.imdb.com/title/tt10048342/">Queen’s
-    Gambit</a>. In chess, a <em>gambit</em> is a move where you sacrifice a chess
-    piece in the hope to put yourself in a more advantageous position.  When the gambit
-    is presented to the opponent, they can either accept or deny it. If the strategy
-    works for the opponent it is considered to be sound. </p>
-
-    <p>Open-sourcing your documentation holds the promise of a huge pool of dedicated
-    volunteer writers, but at the risk of reduced quality and coherence. It is easy
-    to think that more help means less work, but is that really the case? What is
-    the impact on the organization and on the release schedule? </p>
-
-    <p>At <a href="https://www.scylladb.com/">ScyllaDB</a>, we considered these questions
-    and decided that 2020 was the year to go open. Our code was already open-sourced,
-    but our documentation was not. As the company grew, the docs became harder to
-    manage, especially with only one dedicated technical writer.  We considered the
-    risks of how much time we would spend and wondered if it would impact the release
-    cycle. Our solution included recruiting our developers to be active contributors
-    and after we saw this was successful, we open-sourced our documentation. The decisions
-    we made were not simple, we had to endure a painful migration, and we learned
-    many valuable lessons along the way. In the end, we concluded that the time spent
-    gave us a good foundation and we feel we have built an atmosphere where contributors
-    would feel welcome and have created design decisions to make it easy to contribute
-    to docs. </p>
-
-    <p>This talk explains how we created a documentation community and created an
-    atmosphere where everyone involved understands their role and is eager to help.
-    Our work is not completely done, but by the time the talk is held, we will have
-    gained enough experience to share what we thought about and what we have learned.</p>
-
-    <p>You will receive tips, best practices, examples, and anecdotes that discuss:</p>
-
-    <ul>
-
-    <li>Recruiting and onboarding contributors: Find new writers and bring them up
-    to speed</li>
-
-    <li>Keep existing contributors writing: Methods and tools for collaboration, motivation,
-    and reviews with teams inside and outside your organization</li>
-
-    <li>Get Everyone on-board: How to align the entire organization to think about
-    and contribute to the documentation. Convert the naysayers into cheerleaders.</li>
-
-    </ul>'
 - title: Level Up - Onboarding that enables writers to thrive
   slug: level-up-onboarding-that-enables-writers-to-thrive-nicola-yap
   series: Write the Docs Portland
@@ -519,7 +466,7 @@
   - name: Ines Stefanovic
     slug: ines-stefanovic
     twitter: '@inesstef'
-    website: 
+    website: https://www.linkedin.com/in/ines-stefanovi%C4%87-7501073/
   abstract: "<p>As a person who worked both as a software tester and a technical writer,
     I can say that to be either a good software tester or a good tech writer, you
     need to be both.\nTech writing presupposes you have enough technical knowledge
@@ -535,3 +482,56 @@
     test script will ensure that doesn't happen. \nThis talk will discuss the following:</p>\n<ul>\n<li>Where
     do tech writing and software testing overlap?</li>\n<li>Can you switch from one
     career to the other?</li>\n<li>Why do we love developers?</li>\n</ul>"
+- title: 'Documentation Communities: Sound Strategy or Documentarian''s Gambit?'
+  slug: documentation-communities-sound-strategy-or-documentarian-s-gambit-laura-novich
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2021
+  speakers:
+  - name: Laura Novich
+    slug: laura-novich
+    twitter: 
+    website: 
+  abstract: '<p>This year, like many of you, I binged on the <a href="https://www.imdb.com/title/tt10048342/">Queen’s
+    Gambit</a>. In chess, a <em>gambit</em> is a move where you sacrifice a chess
+    piece in the hope to put yourself in a more advantageous position.  When the gambit
+    is presented to the opponent, they can either accept or deny it. If the strategy
+    works for the opponent it is considered to be sound. </p>
+
+    <p>Open-sourcing your documentation holds the promise of a huge pool of dedicated
+    volunteer writers, but at the risk of reduced quality and coherence. It is easy
+    to think that more help means less work, but is that really the case? What is
+    the impact on the organization and on the release schedule? </p>
+
+    <p>At <a href="https://www.scylladb.com/">ScyllaDB</a>, we considered these questions
+    and decided that 2020 was the year to go open. Our code was already open-sourced,
+    but our documentation was not. As the company grew, the docs became harder to
+    manage, especially with only one dedicated technical writer.  We considered the
+    risks of how much time we would spend and wondered if it would impact the release
+    cycle. Our solution included recruiting our developers to be active contributors
+    and after we saw this was successful, we open-sourced our documentation. The decisions
+    we made were not simple, we had to endure a painful migration, and we learned
+    many valuable lessons along the way. In the end, we concluded that the time spent
+    gave us a good foundation and we feel we have built an atmosphere where contributors
+    would feel welcome and have created design decisions to make it easy to contribute
+    to docs. </p>
+
+    <p>This talk explains how we created a documentation community and created an
+    atmosphere where everyone involved understands their role and is eager to help.
+    Our work is not completely done, but by the time the talk is held, we will have
+    gained enough experience to share what we thought about and what we have learned.</p>
+
+    <p>You will receive tips, best practices, examples, and anecdotes that discuss:</p>
+
+    <ul>
+
+    <li>Recruiting and onboarding contributors: Find new writers and bring them up
+    to speed</li>
+
+    <li>Keep existing contributors writing: Methods and tools for collaboration, motivation,
+    and reviews with teams inside and outside your organization</li>
+
+    <li>Get Everyone on-board: How to align the entire organization to think about
+    and contribute to the documentation. Convert the naysayers into cheerleaders.</li>
+
+    </ul>'
