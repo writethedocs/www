@@ -68,7 +68,7 @@ jobs:
       uses: rickstaa/sphinx-action@master
       with:
         docs-folder: "./docs"
-        build-command: "sphinx-build -W -j auto -b dirhtml -d _build/doctrees . _build/html"
+        build-command: "sphinx-build -W -b dirhtml -d _build/doctrees . _build/html"
 
     # Upload performance is awful on the many small files our build generates,
     # so it's compressed locally before uploading
