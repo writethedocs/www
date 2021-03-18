@@ -5,7 +5,8 @@ level: error
 action:
   name: replace
 swap:
-  (?:alumnae|alumni):          graduates
+# Disabled to avoid https://github.com/errata-ai/vale/issues/340
+#  (?:alumnae|alumni):          graduates
   (?:alumna|alumnus):          graduate
   air(?:m[ae]n|wom[ae]n):      pilot(s)
   anchor(?:m[ae]n|wom[ae]n):   anchor(s)
