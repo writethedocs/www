@@ -168,7 +168,7 @@ Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}
-* **When**: **{{ date.day_three.talk_time }} {{ tz }}**
+* **When**: **{{ date.day_four.talk_time }} {{ tz }}**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session at the end of their talk.
