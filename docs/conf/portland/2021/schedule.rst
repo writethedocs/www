@@ -113,7 +113,7 @@ Conference Talks
 * **When**: **{{ date.day_three.talk_time }} {{ tz }}**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Most speakers will have a live, moderated Q&A session at the end of their talk.
+Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session at the end of their talk.
 
 .. separator to fix list formatting
 
@@ -171,7 +171,7 @@ Conference Talks
 * **When**: **{{ date.day_three.talk_time }} {{ tz }}**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Most speakers will have a live, moderated Q&A session at the end of their talk.
+Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session at the end of their talk.
 
 .. separator to fix list formatting
 
