@@ -6,7 +6,7 @@ city: Portland
 local_area: Oregon
 area: North America # European Australian
 area_adj: North American
-tz: Pacific  # PT until March, PST after... :/
+tz: Pacific Time  # PT until March, PST after... :/
 email: portland@writethedocs.org
 color: gold
 rgb: 253,185,19
@@ -125,7 +125,8 @@ date: # how do we handle these? human readable would be nice.
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Monday
     talk_time: 9am-5pm
-    unconference_time: 9:45am-5:00pm
+    unconference_time: 9:45am-5pm
+    social_time: 5pm-7pm
   day_four:
     event: Conference Day 2
     date: April 27
@@ -142,6 +143,7 @@ about:
     "The main presentation track takes place from **April 26-27 (Monday and Tuesday) from 9am to 6pm**.
     During the main event we also run an :doc:`/conf/portland/2021/unconference`."
 
+  social_venue: Spatial chat platform
   venue:
     "Online conference platform"
   photos:
@@ -202,7 +204,7 @@ flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
 flagrunofshow: False
-flaghasschedule: False
+flaghasschedule: True
 flaghasunconf: False
 flaghasshirts: True
 flagvideos: False

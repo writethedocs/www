@@ -17,7 +17,7 @@ CFP deadline extended to February 1st
 
 Check out the `Call for Proposals page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/#submit-your-proposal>`_ for more details about what we are looking for.
 Especially if you've not been able to attend due to travel logistics, or if you've not spoken before we'd love to hear your voice.
-The virtual conference format means you can speak from anywhere, though it's ideal if you can be online and present around your talk slot in Portland time, PST.
+The virtual conference format means you can speak from anywhere, though it's ideal if you can be online and present around your talk slot in {{tz}}.
 
 Submit your talk proposals by **February 1st**,
 If accepted,
