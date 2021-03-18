@@ -203,7 +203,7 @@ flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
-flagrunofshow: False
+flagrunofshow: True
 flaghasschedule: True
 flaghasunconf: False
 flaghasshirts: True
