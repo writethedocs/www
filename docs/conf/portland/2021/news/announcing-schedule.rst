@@ -27,6 +27,7 @@ One of the big changes in the schedule based on the community feedback is schedu
 
 Another change that we made is to move the social event to an earlier time. We want you to have fun socializing with your fellow documentarians, but we understand that your family and home time is also important these days, so hopefully this will help us stay engaged and enjoy the social activities even more.
 
+**All talk videos will be published on our YouTube channel no later than 1 week after the conference.** 
 Start thinking about Writing Day
 --------------------------------
 
