@@ -85,7 +85,9 @@ We encourage everyone to drop by on Sunday evening for the conference reception.
 We're hoping to have some fun activities planned for the evening online.
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_two.reception_time }} {{ tz }}**
+{% endif %}
 
 {% endif %}
 
@@ -133,7 +135,9 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_three.unconference_time }} {{ tz }}**
+{% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Social Event
@@ -145,7 +149,9 @@ but expect some music and games,
 and bring your favorite beverage to your computer :)
 
 * **Where**: {{ about.social_venue }}
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_three.social_time }} {{ tz }}**
+{% endif %}
 
 
 .. raw:: html
@@ -193,7 +199,9 @@ Job Fair
 We'll be holding a job fair on Tuesday morning!
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_four.job_fair_time }} {{ tz }}**
+{% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
 
 {% endif %}
@@ -204,5 +212,7 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_four.unconference_time }} {{ tz }}**
+{% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
