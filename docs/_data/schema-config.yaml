@@ -111,6 +111,7 @@ day-details:
   talk_time: str(required=False)
   unconference_time: str(required=False)
   job_fair_time: str(required=False)
+  social_time: str(required=False)
 
 sponsorship-details:
   first_draft: include('price2', required=False)
@@ -153,6 +154,7 @@ about-details:
   location: str(required=False)
   photos: str(required=False)
   projector_ratio: str(required=False)
+  social_venue: str(required=False)
 
 cfp-details:
   url: str(required=True)
