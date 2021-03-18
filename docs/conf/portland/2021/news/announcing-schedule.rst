@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Mar 17, 2020
+.. post:: Mar 18, 2020
    :tags: {{year}}, portland-{{year}}, schedule
 
 Announcing Full Schedule
@@ -51,10 +51,23 @@ Write the Docs is more than a conference. Every year we make sure to have a vari
 * **Lightning Talks.** We'll have `lightning talks <https://www.writethedocs.org/conf/portland/{{year}}/lightning-talks/>`__ each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.
 * **Unconference.** We'll be running the `Unconference <https://www.writethedocs.org/conf/portland/{{year}}/unconference/>`_ all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.
 * **Job Fair**. As with the previous few years, on Tuesday morning we'll have a `job fair <https://www.writethedocs.org/conf/portland/{{year}}/job-fair>`_ where you can find your next documentarian friendly job.
-* **Social event**. On Monday night we'll be moving to a spatial chat platform for our social event. This will be a more familiar social space where you can move around and join groups of people having conversations. We've used similar platforms at other events, and found that they really help people get to know each other in a more natural way. 
+* **Social event**. On Monday night we'll be moving to a spatial chat platform for our social event. This will be a more familiar social space where you can move around and join groups of people having conversations. We've used similar platforms at other events, and found that they really help people get to know each other in a more natural way.
 * **Conference Help Desk**. If you have any questions about navigating the virtual event, we'll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.
 
 The `Schedule page <https://www.writethedocs.org/conf/portland/{{year}}/schedule/>`_ has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.
+
+Thanks to our sponsors
+----------------------
+
+Thanks in particular to our sponsors for supporting the conference this year.
+We've excited to have them at our Job Fair and around the entire conference participating in a few different ways.
+
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-config.yaml
+   :template: {{year}}/sponsors-simplelist.rst
+
+Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/portland/{{year}}/sponsors/prospectus/>`_ for details on how your company can get involved!
+We have several types of sponsorship available, including tables at the job fair on Tuesday.
 
 Thanks so much for all your support and enthusiasm so far – we're so excited to see you all next month!
 
