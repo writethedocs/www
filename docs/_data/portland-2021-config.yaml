@@ -134,7 +134,7 @@ date: # how do we handle these? human readable would be nice.
     dotw: Tuesday
     talk_time: 9am-4pm
     job_fair_time: 9:45am-12pm
-    unconference_time: 2:15pm-5pm
+    unconference_time: 1:35pm-5pm
   total_talk_days: 2
 
 about:
@@ -182,6 +182,9 @@ sponsors:
       link: https://www.knowledgeowl.com
       brand: KnowledgeOwl
       width: 250px
+    - name: mongodb
+      link: https://www.mongodb.com/
+      brand: MongoDB
     - name: juniper
       link: https://www.juniper.net/
       brand: Juniper
