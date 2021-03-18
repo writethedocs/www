@@ -34,6 +34,8 @@ Write the Docs {{ name }} {{ year }} is a virtual conference. Each ticket includ
 * Access to the writing day
 * The virtual job fair
 
+**All talk videos will be published on our YouTube channel no later than 1 week after the conference.**
+
 Refund Policy
 -------------
 
