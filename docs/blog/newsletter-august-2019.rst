@@ -116,7 +116,7 @@ Recommended reading:
 
 - *Measures of Success: React Less, Lead Better, Improve More*
 - *How to Measure Anything*
-- `More newsletter entries about metrics! <https://www.writethedocs.org/newsletter/#metrics>`__
+- `More newsletter entries about metrics! <https://www.writethedocs.org/topics/#metrics-and-analytics>`__
 - Bob Watson's often cited `blog posts about measuring value <https://docsbydesign.com/category/technical-writing/measuring-value/>`__
 - Sarah Moir's blog posts `here <https://thisisimportant.net/2019/05/21/detailed-data-types-you-can-use-for-documentation-prioritization/>`__ and `here <https://thisisimportant.net/2019/05/21/just-add-data-using-data-to-prioritize-your-documentation/>`__
 

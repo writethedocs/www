@@ -204,7 +204,7 @@ which is a wonderful place to connect with our over 500 attendees.
 Many of them are looking for jobs now or will be in the near future,
 so it's a great chance to talk more about your company culture and open positions.
 
-**Logistics**: You will be assigned a :ref:`booth <Sponsor booths>` in the *Expo area* where you can engage with attendees and answer questions.  We recommend that you answer general questions in the main session and then break off into private calls or chats to talk in more depth with specific people.
+**Logistics**: You will be assigned a sponsor booth in the *Expo area* where you can engage with attendees and answer questions.  We recommend that you answer general questions in the main session and then break off into private calls or chats to talk in more depth with specific people.
 
 You can also offer attendees a link to your website or a way to register interest in your job postings.
 

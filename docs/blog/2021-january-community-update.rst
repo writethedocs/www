@@ -115,7 +115,7 @@ We have shared our high-level community stats for the past 4 years,
 and will continue to do it each year going forward.
 You can view our 2020 stats on our blog at :doc:`/blog/write-the-docs-2020-stats`.
 
-We're still accepting `talk proposals <https://www.writethedocs.org/conf/portland/2021/cfp/#submit-your-proposal>`_ for our virtual Portland conference, April 25-27.
+We're still accepting `talk proposals <https://www.writethedocs.org/conf/portland/2021/cfp/>`_ for our virtual Portland conference, April 25-27.
 Especially if you've not been able to attend due to travel logistics, or if you've not spoken before we'd love to hear your voice.
 The virtual conference format means you can speak from anywhere, though it's ideal if you are close to the local time in Portland.
 

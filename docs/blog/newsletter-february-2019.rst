@@ -7,7 +7,7 @@ Write the Docs Newsletter – February 2019
 
 Hello, Write the Docs people! Beth here, wishing you all a happy 2019. Is it too late in the year for that? Oh well, never mind. I'm doing it anyway.
 
-We've got a little something for you this month. There's tons of useful stuff hidden away in the `newsletter archive </blog/archive/tag/newsletter/>`_, and it's a shame that it's not very discoverable. So, in an appropriately documentarian fashion, we've had a go at fixing that by creating an `index of all the topics </newsletter/#index-of-newsletter-topics>`_ covered by the newsletter over the last few years. We hope you like it!
+We've got a little something for you this month. There's tons of useful stuff hidden away in the `newsletter archive </blog/archive/tag/newsletter/>`_, and it's a shame that it's not very discoverable. So, in an appropriately documentarian fashion, we've had a go at fixing that by creating an `index of all the topics </topics>`_ covered by the newsletter over the last few years. We hope you like it!
 
 In other news, on the conference front: we now have `dates for the 2019 Prague conference </conf/prague/2019/news/prague-19-dates/>`_! It'll be 15th-17th September, back in the gorgeous Auto Klub. Ticket sales and call for proposals should open in March - keep your eyes peeled.
 

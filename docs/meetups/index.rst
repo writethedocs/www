@@ -23,7 +23,6 @@ We have several pages of meetup documentation:
 .. toctree::
    :maxdepth: 1
 
-   events
    ../organizer-guide/meetups/starting
    ../organizer-guide/meetups/faq-meetups
    ../organizer-guide/meetups/sustainable-meetups

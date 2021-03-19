@@ -19,6 +19,8 @@ def generate_video_slug(session):
     """
     Generate a slug for the video of a session, based on title/speakers.
     """
+    if 'slug' in session:
+        return session['slug']
     if 'title' not in session:
         return u''
     title = session['title']

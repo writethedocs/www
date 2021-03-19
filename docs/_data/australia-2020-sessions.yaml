@@ -8,7 +8,7 @@
   - name: Kenzie Woodbridge
     slug: kenzie-woodbridge
     twitter: '@rainbowkenz'
-    website: www.prosocialresearch.ca
+    website: http://www.prosocialresearch.ca
   abstract: <p>This talk takes the approach of applying Player Type Theory (from game
     design) to getting people involved and engaged in technical and documentation
     projects in a technical environment. Practical tips are offered for dealing with
@@ -23,7 +23,7 @@
   - name: Sayraphim Lothian
     slug: sayraphim-lothian
     twitter: '@sayraphim'
-    website: www.sayraphimlothian.com
+    website: http://www.sayraphimlothian.com
   abstract: '<p>If a picture tells a thousand words, how many is a video worth?</p>
 
     <p>A study in 2015 found that 91% of smart phone users turn to their smart phone
@@ -281,7 +281,7 @@
   - name: Scott DeLoach
     slug: scott-deloach
     twitter: '@scottdeloach'
-    website: www.clickstart.net
+    website: http://www.clickstart.net
   abstract: <p>Microcontent is a focused block of content that can be easily consumed
     by users and reused in search results, context-sensitive help, chatbots, VR/AR
     systems, and more. In this presentation, I will share real-world examples of microcontent,
@@ -297,7 +297,7 @@
   - name: Yael Ben-David
     slug: yael-ben-david
     twitter: '@YaelBenDavid'
-    website: medium.com/@yaelbendavid
+    website: http://medium.com/@yaelbendavid
   abstract: '<p>I was completely panicked. The light on my dash came on and I had
     absolutely no idea what it meant. The icon was indecipherable. If only it had
     been accompanied by a tiny bit of microcopy. Two words -- “flat tire” -- would
@@ -355,7 +355,7 @@
   - name: Vikram Mulay
     slug: vikram-mulay
     twitter:
-    website: www.linkedin.com/in/vikramcmulay
+    website: http://www.linkedin.com/in/vikramcmulay
   abstract: '<p>Great localized content begins with a great copy! However, designing
     a great copy is hard without knowing the best practices. This talk will help you
     establish best practices for internationalization (i18n) that will enhance your
