@@ -20,7 +20,6 @@ Every year, we look to bring a wide range of voices to the Write the Docs stage.
 .. datatemplate::
    :source: /_data/{{year}}.{{shortcode}}.speakers.yaml
    :template: {{year}}/speakers-simple-list.rst
-   :include_context:
 
 Head over to the `Speakers page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`_ to see the full abstracts. We hope there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.
 
@@ -48,7 +47,7 @@ As you probably noticed, we are not including shirts with your conference ticket
 
 Inspired by our friends at DjangoCon US, we decided to shake things up and sell shirts separately, so you can buy exactly the fit and size that you want. We ran this campaign for the Portland conference and received great feedback on the vendor and the product, so we feel confident that you'll enjoy your Prague shirt too!
 
-Head over to our Write the Docs Prague 2018 `Pop-Up Shop <https://teespring.com/wtd-prague-2018>`__ and order this year's shirt. The campaign will run until September 30th in case anyone wants to order their shirts after the conference, but we recommend to order at least 2-3 weeks before the conference if you want to sport your new threads.
+Head over to our Write the Docs Prague 2018 Pop-Up Shop and order this year's shirt. The campaign will run until September 30th in case anyone wants to order their shirts after the conference, but we recommend to order at least 2-3 weeks before the conference if you want to sport your new threads.
 
 And don't worry, you'll still have a Write the Docs Prague 2018 souvenir from the conference even if you decide not to order a shirt.
 

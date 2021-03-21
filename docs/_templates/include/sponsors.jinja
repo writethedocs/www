@@ -1,15 +1,17 @@
 {%- macro conf_sponsors() -%}
-{%- include "include/" + year|string + "/" + shortcode + "-sponsors.html" ignore missing -%}
+{% with include_text=True %}
+{%- include year|string + "/sponsors.html" ignore missing -%}
+{% endwith %}
 {%- endmacro -%}
 {% set conf_sponsors = conf_sponsors() %}
 
 {%- macro sponsors_in_kind() -%}
-{%- include "include/" + year|string + "/" + shortcode + "-sponsors-in-kind.html" ignore missing -%}
+{%- include year|string + "/sponsors-in-kind.html" ignore missing -%}
 {%- endmacro -%}
 {% set sponsors_in_kind = sponsors_in_kind() %}
 
 {%- macro media_sponsors() -%}
-{%- include "include/" + year|string + "/" + shortcode + "-sponsors-media.html" ignore missing with context -%}
+{%- include year|string + "/sponsors-media.html" ignore missing -%}
 {%- endmacro -%}
 {% set media_sponsors = media_sponsors() %}
 
@@ -19,7 +21,7 @@ Sponsors
 We are seeking corporate partners to help us create the best conference possible.
 You can find more information in our :doc:`prospectus`.
 
-{% if conf_sponsors %}
+{% if conf_sponsors|trim %}
 
 Corporate sponsors
 ------------------
@@ -33,7 +35,7 @@ Thanks to these folks for supporting the community.
 
 {% endif %}
 
-{% if sponsors_in_kind %}
+{% if sponsors_in_kind|trim %}
 
 In Kind Sponsors
 ----------------
@@ -46,7 +48,7 @@ Write the Docs is also helped out by companies that give their employees time to
 
 {% endif %}
 
-{% if media_sponsors %}
+{% if media_sponsors|trim %}
 
 Media Sponsors
 --------------

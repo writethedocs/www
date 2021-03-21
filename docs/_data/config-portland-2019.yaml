@@ -12,7 +12,7 @@ email: portland@writethedocs.org
 color: coral
 
 photos:
-  default: _static/2019/assets/headers/group.png
+  default: _static/conf/images/headers/group.png
 
 buttons:
   top:
@@ -24,14 +24,16 @@ buttons:
     #   link: /tickets
     # - text: See the talks!
     #   link: /speakers
-    - text: See the Schedule!
-      link: /schedule
+#    - text: See the Schedule!
+#      link: /schedule
     # - text: Welcome Wagon
     #   link: /welcome-wagon
-    # - text: Watch the Live Stream
-    #  link: /livestream
-    # - text: Browse the photos
-    #  link: /livestream
+#    - text: Watch the Live Stream
+#      link: /livestream
+    - text: Browse the photos
+      link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    - text: Watch the videos!
+      link_absolute: /videos/portland/2019
   bottom:
     # - text: Sponsor the conference
     #  link: /sponsors/prospectus
@@ -39,14 +41,16 @@ buttons:
     #  link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
-    - text: Prepare with the Welcome Wagon
-      link: /welcome-wagon
-    - text: See the schedule!
-      link: /schedule
+#    - text: Prepare with the Welcome Wagon
+#      link: /welcome-wagon
+#    - text: See the schedule!
+#      link: /schedule
     # - text: Watch the Live Stream
     #  link: /livestream
-    # - text: Browse the photos
-    #  link: /livestream
+    - text: Browse the photos
+      link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    - text: Watch the videos!
+      link_absolute: /videos/portland/2019
 
 tickets:
   community:
@@ -101,6 +105,7 @@ about:
     You can find out more information about the venue and its accessibility on our :doc:`/conf/portland/2019/venue` page."
   location:
     "Crystal Ballroom located at 1332 W Burnside St"
+  photos: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
 
 cfp:
   url: https://docs.google.com/forms/d/e/1FAIpQLScCK5qIaRwmn2UouYvtxfrQk56r_X72aliVWLnoGKb69HZuug/viewform
@@ -169,8 +174,9 @@ flagticketsonsale: False
 flagspeakersannounced: True
 flaghasschedule: True
 flaghasshirts: True
-flagvideos: False
+flagvideos: True
 flaglivestreaming: False
+flagpostconf: True
 
 # Truthy things that don't change
 flaghashike: True

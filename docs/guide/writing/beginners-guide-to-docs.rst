@@ -241,7 +241,7 @@ A small code example
 
 Show a telling example of what your project would normally be used for. Requests_ does a great example of this.
 
-.. _Requests: http://docs.python-requests.org/en/latest/index.html
+.. _Requests: https://requests.kennethreitz.org/en/master/
 
 A link to your code & issue tracker
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -271,7 +271,7 @@ Information for people who want to contribute back
 
 People usually have standards for how they expect things to be done in their projects. You should document these so that if people write code, they can do things in the norm of the project. `Open Comparison`_ does a great job of this.
 
-.. _Open Comparison: http://opencomparison.readthedocs.org/en/latest/contributing.html
+.. _Open Comparison: https://packaginator.readthedocs.io/en/latest/contributing.html
 
 
 Installation instructions

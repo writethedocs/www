@@ -1,18 +1,14 @@
-Code of Conduct
-===============
+Code of Conduct (Meetups)
+=========================
 
-Write the Docs is a global community of documentarians who share information, discuss ideas, and work together to improve the art and science of documentation. Everybody who participates in our community in one way or another is required to conform to our `Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_ (CoC). This includes online communications, meetup and conference attendees, speakers, sponsors, founders, moderators, organisers and volunteers.
+Write the Docs is dedicated to providing a safe, inclusive, welcoming, and harassment-free space and experience for all community participants, regardless of race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, religion, and mental and physical ability.
 
-Our Code of Conduct applies to all spaces and events relating to this meetup. We strongly recommend you to read the full Code of Conduct, but for your convenience, our key principles are:
+Our Code of Conduct exists because of that dedication, and we do not tolerate harassment in any form. For more information, see our `reporting guidelines <../code-of-conduct/#reporting-and-contact-information>`_ or full `Code of Conduct <../code-of-conduct>`_.
 
-* **Be friendly and patient.**
+If you're a meetup leader, when possible, include the following excerpt in your opening remarks:
 
-* **Be welcoming.** We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
+**"We are dedicated to providing a safe, inclusive, welcoming, and harassment-free space and experience for all community participants."**
 
-* **Be considerate.** Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
+If you cannot include that excerpt, include a link in the meetup notice. If possible, share hard copies with contact details at the venue. All meetup members are welcome to use conduct@writethedocs.org to report issues. 
 
-* **Be respectful.** Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. Members of the Write the Docs community should be respectful when dealing with other members as well as with people outside the community.
-
-* **Be careful in the words that you choose.** We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants, individually or as a group. Harassment and other exclusionary behavior aren't acceptable.
-
-If a Code of Conduct incident happens that affects you, or witness it affecting someone else, please contact the meetup organisers immediately. If you feel uncomfortable with this, if you feel the incident was not well handled by the local organisers, or if you are a meetup organiser and would like to ask for input, you can also email conduct@writethedocs.org. Further details can be found in the :ref:`coc-reporting`.
+If you include this excerpt in a slide, include a link to the `Meetup short form CoC <../code-of-conduct-shortform-meetups/>`_.

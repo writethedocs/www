@@ -1,0 +1,77 @@
+writing_day:
+  - time: '8:00'
+    title: 'Platform opens'
+  - time: '9:30'
+    title: Morning introduction - Introduction to Sprints & Project Introductions
+  - time: '9:45'
+    title: Team up and start working
+  - time: '12:30'
+    title: Lunch Break
+  - time: '5:00'
+    title: End of Writing Day
+
+talks_day1:
+  - time: '8:00'
+    title: 'Platform opens'
+  - time: '9:00'
+    title: Write the Docs Team - Introduction to Write the Docs
+  - time: '9:45'
+    title: "<b>Unconference Starts</b>"
+  - time: '9:45'
+    slug: moving-beyond-empathy-a11y-in-documentation-alexandra-white
+  - time: '10:30'
+    slug: globalise-the-docs-lucy-carey
+  - time: '11:15'
+    slug: writing-backwards-documenting-the-end-of-life-of-a-product-anni-bond
+  - time: '12:00'
+    slug: read-the-rules-what-technical-writers-can-learn-from-board-game-design-matthew-baldwin
+  - time: '12:45'
+    title: Lunch (60 mins)
+  - time: '1:45'
+    title: Lightning Talks (30 mins)
+  - time: '2:15'
+    slug: creating-quality-sample-code-jessica-garson
+  - time: '3:00'
+    slug: building-a-content-focused-scientific-document-authoring-workflow-for-data-scientists-and-engineers-alike-colin-dean
+  - time: '3:45'
+    slug: don-t-fear-migration-how-to-successfully-move-docs-to-a-new-tool-brooke-wayne
+  - time: '4:30'
+    slug: where-documentation-cloud-hosted-interactive-tutorials-and-continuous-integration-testing-intersect-dan-gunter
+  - time: '5:15'
+    title: Day 1 wraps up
+  - time: '7:00'
+    title: '<b>Social Event</b>'
+  - time: '10:00'
+    title: '<b>Social Event Ends</b>'
+
+talks_day2:
+  - time: '8:00'
+    title: 'Platform opens'
+  - time: '9:00'
+    slug: finding-the-line-balancing-business-continuity-and-documentation-debt-luca-janssens
+  - time: '9:45'
+    title: "<b>Job Fair Starts</b>"
+  - time: '9:45'
+    slug: collaborating-with-teams-on-content-strategy-planning-pitfalls-and-best-practices-kateryna-osadchenko
+  - time: '10:30'
+    slug: model-view-docs-taming-large-scale-documentation-projects-using-structured-data-luc-perkins
+  - time: '11:15'
+    slug: set-your-data-free-with-model-based-architecture-diagramming-avi-flax
+  - time: '12:00'
+    slug: documentation-as-an-application-enabling-interactive-content-that-is-tailored-to-the-user-ryan-paul
+  - time: '12:45'
+    title: Lunch (60 mins)
+  - time: '1:45'
+    title: Lightning Talks (30 mins)
+  - time: '2:15'
+    title: "<b>Unconference Starts</b>"
+  - time: '2:15'
+    slug: walking-backwards-tracing-the-new-customer-journey-from-finish-to-start-to-help-shape-content-sally-stumbo
+  - time: '3:00'
+    slug: the-search-for-search-paul-logan
+  - time: '3:45'
+    slug: why-sdk-docs-matter-and-what-i-m-doing-about-it-shavindri-dissanayake-shavi
+  - time: '4:30'
+    title: Closing address
+  - time: '5:00'
+    title: "<b>Conference Ends</b> :("

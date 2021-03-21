@@ -1,6 +1,8 @@
 Meetups
 =======
 
+.. note:: For information and updates regarding WTD meetup events during the COVID-19 restrictions, see `Meetups and COVID-19 <https://www.writethedocs.org/organizer-guide/meetups/covid-19-meetups/>`_.
+
 **Write the Docs Meetups** allow for documentarians to get to know their
 local community better. Meeting in person is a great way to stay up to
 date with the documentation world, and meet some great people in the
@@ -17,10 +19,13 @@ and let us know. We'd be happy to promote it and list it here.
 
 We have several pages of meetup documentation:
 
-* `Starting a Meetup <../organizer-guide/meetups/starting>`_
-* `Meetup FAQs <../organizer-guide/meetups/faq-meetups>`_
-* `Making your meetups more sustainable <../organizer-guide/meetups/sustainable-meetups>`_
 
+.. toctree::
+   :maxdepth: 1
+
+   ../organizer-guide/meetups/starting
+   ../organizer-guide/meetups/faq-meetups
+   ../organizer-guide/meetups/sustainable-meetups
 
 Current Meetups: North America
 ------------------------------
@@ -49,6 +54,43 @@ Current Meetups: Asia
 .. meetup-listing::
     :region: Asia
 
+
+Current Meetups: Quorum
+-----------------------
+
+The `Quorum program <https://github.com/write-the-docs-quorum/quorum-meetups>`_
+brings together various Write the Docs meetup chapters in nearby time zones
+to provide quarterly "super" meetups over Zoom throughout the year.
+
+Current Meetups: Quorum North America East
+------------------------------------------
+
+Several meetups are members of the Quorum North America East group:
+
+* Atlanta
+* Austin
+* Boston
+* Detroit / Windsor
+* Florida
+* Ottawa / Montreal
+* Philadelphia
+* Raleigh / Durham
+
+.. meetup-listing::
+    :region: Quorum-US-East
+
+Current Meetups: Quorum North America West
+------------------------------------------
+
+Several meetups are members of the Quorum North America West group:
+
+* San Francisco Bay Area
+* Los Angeles
+* Portland (OR)
+* Salt Lake City
+
+.. meetup-listing::
+    :region: Quorum-US-West
 
 Know of a meetup not shown here? `Add it to the list <https://github.com/writethedocs/www/tree/master/docs/_data/meetups>`_.
 

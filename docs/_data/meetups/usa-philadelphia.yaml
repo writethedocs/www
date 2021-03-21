@@ -1,0 +1,17 @@
+region: North America
+country: USA
+state: Pennsylvania
+city: Philadelphia
+page: ./philly/
+website: https://www.meetup.com/WTD-Philadelphia
+meetup: WTD-Philadelphia
+twitter: WriteTheDocsPHL
+organizers:
+  - name: Heather Zoppetti
+    link: https://twitter.com/digitalnabi
+  - name: Nathan Melehan
+    link: https://twitter.com/nmelehan
+  - name: Leslie Salazar
+    link: https://twitter.com/leslitasalazar
+  - name: Andy Stevens
+    link: https://twitter.com/andystevensname

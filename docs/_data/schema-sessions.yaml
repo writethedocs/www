@@ -1,0 +1,22 @@
+# Note that this only covers 2020 and newer schedules
+list(include('session-details'))
+
+---
+
+session-details:
+  title: str()
+  abstract: str()
+  slug: str()
+  slides: str(required=False)
+  youtubeId: str(required=False)
+  series: str(required=False)
+  series_slug: str(required=False)
+  year: int(min=2000, required=False)
+  speakers: list(include('speaker-details'), required=False)
+
+speaker-details:
+  name: str()
+  slug: str()
+  twitter: str(required=False)
+  website: str(required=False)
+  avatar: str(required=False)

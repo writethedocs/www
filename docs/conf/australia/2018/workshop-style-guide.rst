@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/writing-day.png
+:banner: _static/conf/images/headers/writing-day.png
 
 Workshop: Let's create a Style Guide!
 ======================================

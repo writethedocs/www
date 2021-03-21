@@ -8,3 +8,7 @@ venv*
 *.pyc
 node_modules
 .sass-cache
+docs/meetups/events.rst
+.idea
+.vscode
+_data/mc-info.yaml

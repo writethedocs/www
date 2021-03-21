@@ -34,11 +34,10 @@ How to write a CFP?
 
 `Call for Proposals` examples from previous WTD conferences:
 
-* `WTD NA 2017 CFP <https://www.writethedocs.org/conf/portland/2018/cfp/>`_
-* `WTD NA 2016 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/na/2016/cfp.rst>`_
-* `WTD NA 2015 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/na/2015/cfp.md>`_
-* `WTD EU 2016 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2016/cfp.rst>`_
-* `WTD EU 2015 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/eu/2015/cfp.md>`_
+* `WTD EU 2019 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/prague/2019/cfp.rst>`_
+* `WTD NA 2019 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2019/cfp.rst>`_
+* `WTD EU 2018 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/prague/2018/cfp.rst>`_
+* `WTD NA 2018 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2018/cfp.rst>`_
 
 Talk review and selection
 -------------------------
@@ -63,11 +62,12 @@ The practical stuff
 **Entering your scores in Grorg.** To score proposals, just click the 'View Applicants' button and then hit 'Score' next to the applicant's name. (You can use the 'Score Random Applicant' button too, for giggles.)
 
 **How we rate talks.** Please use the following rating system:
-   1 - I will argue strongly against including this in the program.
-   2 - I'm not a fan, but it wouldn't be the end of the world if we included this.
-   (3 - DO NOT USE. Three means you don't have an opinion. We don't believe you. No threes.)
-   4  - This is a decent talk. I'd be cool with including it.
-   5 - I will fight to make sure this talk is included in the program.
+
+ 1. I will argue strongly against including this in the program.
+ 2. I'm not a fan, but it wouldn't be the end of the world if we included this.
+ 3. (DO NOT USE. Three means you don't have an opinion. We don't believe you. No threes.)
+ 4. This is a decent talk. I'd be cool with including it.
+ 5. I will fight to make sure this talk is included in the program.
 
 **Revisit your first ~15 talks.** When you're reviewing this many talks, it can take a while to get the feel of the rating system since, at first, you only have a small sample to compare to. To solve this problem, we recommend that, when you get to the end of your reviews, you go back and take another quick look at the first 15 or so talks you looked at, to make sure your rating holds up in the context of the whole pool.
 
@@ -140,3 +140,59 @@ Biases
 * New people
 * Community members
 * Previous lighting talk speakers
+
+Speaker Mentoring
+-----------------
+
+We offer to pair any speakers who'd like guidance with an experienced speaker from a previous year.
+
+Mentor selection
+~~~~~~~~~~~~~~~~
+
+Mentors have usually spoken at several conferences in the past and have a good sense of what preparation is needed.
+
+Meeting structure
+~~~~~~~~~~~~~~~~~
+
+Flexible according to the needs and availability of participants. The general guideline is to have four meetings, each two to three weeks apart: an initial introduction, presentation of an outline, presentation of slides, and a practice talk. However, mentors and speakers should adapt the structure to meet their needs.
+
+Meeting 1 - Introduction and level-set:
+   *Speaker pre-work: None.*
+   
+   The speaker and mentor meet one another for the first time. The speaker also introduces their topic and experience with it. The speaker and mentor decide on a meeting structure and schedule that works for them. If needed, the speaker and mentor develop the talk idea more to help prepare for the outline step.
+
+Meeting 2 - Present outline:
+   *Speaker pre-work: Prepare an outline of the talk. It should provide a fairly high level of detail, including all main topics and supporting points.*
+   
+   The speaker shares their talk outline. The mentor asks questions to help clarify the details of the talk. For example:
+   
+   - Topics or supporting points that might be missing or need more detail
+   - Feedback about the likely talk length and whether the talk should be expanded or edited down
+   - Feedback about possible slide structure based on the outline
+   - Feedback or questions about the order of topics
+   - Feedback on building up the information narratively
+
+Meeting 3 - Present slides:
+   *Speaker pre-work: Prepare the slides. The slides should reflect outline updates and slide feedback from the last meeting.*
+   
+   The speaker shares a loose presentation of the talk using the outline and slides to guide them. The mentor provides feedback on the order, images, colors, formatting, and so on. The mentor also addresses any accessibility concerns, such a contrast and font size.
+
+Meeting 4 - Practice talk:
+   *Speaker pre-work: Practice the talk several times. Prepare speaker notes in the slidedeck if needed, but aim to reach the point that you don't need to reference the outline.*
+   
+   The speaker presents a semi-final draft of the pratice talk. The mentor provides feedback on the presentation, asks questions they anticipate the audience might have, make suggestions on the flow and speed, and so on. If the speaker and mentor agree that additional practice talks are needed or desired, they can schedule them.
+
+Session considerations
+~~~~~~~~~~~~~~~~~~~~~~
+
+Meeting admin and scheduling
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Ideally, mentors and speakers should be in the same time zone or no more than two time zones apart. Severe time zone discrepancies make scheduling very dififcult.
+- We suggest you schedule the first meeting for *at least* eight weeks ahead of the conference date. This provides a minimum of two weeks between each meeting as well as two weeks between the last meeting and the conference date.
+- Sessions should last at least an hour, but can run longer if both mentor and speaker think this would be helpful.
+- The pandemic notwithstanding, virtual meetings are generally easier to coordinate. Even if the mentor and speaker are co-located, consider whether meeting virtually will help ease the time burden on both parties.
+
+Other stuff
+^^^^^^^^^^^
+- Mentors should provide thoughtful feedback and genuine questions to help improve the speaker's talk. Remember to follow the [Code of Conduct](https://www.writethedocs.org/code-of-conduct/) during the meetings.
+- Mentors: if at all possible, attend your mentee's talk! It's comforting to have a familiar face in the audience.

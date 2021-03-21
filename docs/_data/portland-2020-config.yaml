@@ -1,0 +1,189 @@
+name: Portland
+
+shortcode: portland # prague australia?
+year: 2020
+city: Portland
+local_area: Oregon
+area: North America # European Australian
+area_adj: North American
+tz: PST
+email: portland@writethedocs.org
+color: blue
+
+photos:
+  default: _static/conf/images/headers/group.png
+
+buttons:
+  top:
+    # - text: Date and ticket information
+    #   link: /news/announcing-virtual-conf-dates-tickets
+    # - text: Read our conference guide
+    #   link: /welcome-wagon
+    # - text: See the Schedule!
+    #   link: /schedule
+     # - text: Buy a Ticket!
+     #   link: /tickets
+    # - text: Sponsor us
+    #   link: /sponsors/online-prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
+    # - text: See the talks!
+    #   link: /speakers
+#    - text: See the Schedule!
+#      link: /schedule
+#    - text: Watch the Live Stream
+#      link: /livestream
+#     - text: Browse the photos
+#       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+  bottom:
+    # - text: Read our conference guide
+    #   link: /welcome-wagon
+    # - text: See the Schedule!
+    #   link: /schedule
+     # - text: Date and ticket information
+     #   link: /news/announcing-virtual-conf-dates-tickets
+     # - text: Sponsor the conference
+     #   link: /sponsors/online-prospectus
+     # - text: See the talks!
+     #   link: /speakers
+    # - text: Buy a Ticket!
+    #   link: /tickets
+#    - text: Prepare with the Welcome Wagon
+#      link: /welcome-wagon
+#    - text: See the schedule!
+#      link: /schedule
+    # - text: Watch the Live Stream
+    #  link: /livestream
+#     - text: Browse the photos
+#       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+
+tickets:
+  corporate:
+    price: $150
+  independent:
+    price: $100
+  student:
+    price: $25
+
+sponsorship:
+  first_draft:
+    price: $900
+  second_draft:
+    price: $2,500
+  publisher:
+    price: $5,000
+  patron:
+    price: $9,500
+  keystone:
+    price: $17,000
+
+date: # how do we handle these? human readable would be nice.
+  main: "**August 9-11, 2020, online**"
+  short: Aug 9-11, 2020
+  tickets_live: "May 25, 2020"
+  month: August
+  day_one:
+    event: Hike
+    date: On your own
+    summary: We encourage you to go on a hike in your own beautiful home town.
+    #summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    icon: hike
+    dotw: Saturday
+  day_two:
+    event: Writing Day
+    date: August 9
+    summary: Join us for the <a href="/conf/portland/2020/writing-day/">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    #summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    icon: writing
+    dotw: Sunday
+  day_three:
+    event: Main Conference
+    date: August 10-11
+    summary: The main days of the conference. We will be running one main track, and an <a href="/conf/portland/2020/unconference/">Unconference</a>.
+    #summary: The main days of the conference. We will be running our main track in the ballroom, and the Unconference in Lola's Room.
+    icon: conference
+    dotw: Monday/Tuesday
+  total_talk_days: 2
+
+about:
+  attendees: 700
+  summary:
+    "The main presentation track takes place from **August 10-11 (Monday and Tuesday) from 9am to 6pm**.
+    During the main event we also run an :doc:`/conf/portland/2020/unconference`."
+
+  venue:
+    "Online, https://hopin.to/ . Your login will be emailed to you before the event."
+  photos: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+  mainroom:
+    "Video area"
+  unconfroom:
+    "Chat area"
+  projector_ratio: "16:9"
+  job_fair_room: "Sponsor area"
+
+cfp:
+  url: https://docs.google.com/forms/d/e/1FAIpQLSfXD-hlTzSDTrpuYkguUwXq1OtKDOZQazzdNqWmSKO5H0hWLQ/viewform
+  ends: "January 10, 2020"
+  notification: "January 30, 2020"
+
+sponsors:
+  keystone:
+    - name: microsoft
+      link: https://microsoft.com
+      brand: Microsoft
+      text: Our mission is to empower every person and organization on the planet to achieve more.  Come build your skills with Microsoft Learn and Microsoft Docs, where you'll find high-quality content and connect with a vibrant community.  Microsoft is a distributed company with documentarians working around the globe. Visit <a href="https://careers.microsoft.com/">https://careers.microsoft.com</a> to learn about opportunities.
+  patron:
+    - name: google
+      link: https://www.google.com
+      brand: Google
+    - name: redocly
+      link: https://redoc.ly/
+      brand: Redocly
+  publisher:
+    - name: splunk
+      link: https://www.splunk.com/
+      brand: Splunk
+    - name: slack
+      link: https://slack.com/
+      brand: Slack
+    - name: cncf
+      link: https://www.cncf.io/
+      brand: Cloud Native Computing Foundation
+    - name: twilio
+      link: https://www.twilio.com/
+      brand: twilio
+  second:
+    - name: mozilla-new
+      link: https://www.mozilla.org/en-US/
+      brand: Mozilla
+    - name: salesforce
+      link: https://www.salesforce.com
+      brand: Salesforce
+    - name: mongodb
+      link: https://www.mongodb.com/
+      brand: MongoDB
+  first:
+
+
+# Things that change over time, listed in order of change
+flaglanding: False
+flaghassponsors: True
+flagcfp: False
+flagticketsonsale: True
+flagsoldout: False
+flagspeakersannounced: True
+flaghasschedule: True
+flaghasshirts: False
+flagvideos: True
+flaglivestreaming: False
+flagpostconf: True
+
+# Truthy things that don't change
+flaghashike: False
+flaghasboat: False
+flaghaswritingday: True
+flaghasbadgeflair: False

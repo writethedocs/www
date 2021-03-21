@@ -1,0 +1,52 @@
+@media screen{
+  #write-the-docs-salary-survey-2019-results hr{margin-top:40px}
+  #write-the-docs-salary-survey-2019-results table caption{padding:0.5em}
+#write-the-docs-salary-survey-2019-results div.figure {margin-top:1em}
+#write-the-docs-salary-survey-2019-results div.figure p.caption{text-align:center;font-size:120%}
+  #write-the-docs-salary-survey-2019-results table#id6 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2019-results table#id6 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2019-results table#id16 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2019-results table#id16 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2019-results table#id19 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2019-results table#id19 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2019-results table#id20 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2019-results table#id20 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2019-results table#id21 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2019-results table#id21 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2019-results table#id27 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2019-results table#id27 tbody tr td:nth-child(2)
+  {text-align:center}
+
+  #write-the-docs-salary-survey-2019-results table#id14 thead th{vertical-align:middle;white-space:nowrap}
+  #write-the-docs-salary-survey-2019-results table#id14 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2019-results table#id14 tbody tr td:nth-child(2)
+  {text-align:right}
+
+  #write-the-docs-salary-survey-2019-results table#id16 tbody tr td:nth-child(2){vertical-align:middle}
+
+#write-the-docs-salary-survey-2019-results table#id13 colgroup col:nth-child(1){width:21%}
+#write-the-docs-salary-survey-2019-results table#id13 colgroup col:nth-child(2){width:24%}
+#write-the-docs-salary-survey-2019-results table#id13 colgroup col:nth-child(3){width:25%}
+#write-the-docs-salary-survey-2019-results table#id13 colgroup col:nth-child(4){width:15%}
+#write-the-docs-salary-survey-2019-results table#id13 colgroup col:nth-child(5){width:15%}
+#write-the-docs-salary-survey-2019-results table#id13 thead th{vertical-align:middle}
+
+#write-the-docs-salary-survey-2019-results table#id13 thead th em{font-style:normal;font-size:90%;font-weight:normal;display:block}
+
+#write-the-docs-salary-survey-2019-results table#id13 th,
+#write-the-docs-salary-survey-2019-results table#id13 td
+{vertical-align:middle;padding:0.25em 0.4em}
+
+#write-the-docs-salary-survey-2019-results table#id13 thead tr th:nth-child(3),
+#write-the-docs-salary-survey-2019-results table#id13 thead tr th:nth-child(4),
+#write-the-docs-salary-survey-2019-results table#id13 tbody tr td:nth-child(3),
+#write-the-docs-salary-survey-2019-results table#id13 tbody tr td:nth-child(4)
+{text-align:center}
+
+#write-the-docs-salary-survey-2019-results table#id13 thead tr th:nth-child(5),
+#write-the-docs-salary-survey-2019-results table#id13 tbody tr td:nth-child(5)
+{text-align:right}
+
+#write-the-docs-salary-survey-2019-results #geographical-location ul.simple li{float:left;width:33%}
+#write-the-docs-salary-survey-2019-results #geographical-location ul.simple{overflow:auto}
+ }

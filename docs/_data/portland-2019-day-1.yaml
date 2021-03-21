@@ -7,6 +7,9 @@
 - Duration: '10'
   Session: Switch Speakers
   Time: '9:30'
+- Duration: '0'
+  Session: "<b>Unconference Starts (Lola's Room)</b>"
+  Time: '9:40'
 - Duration: '30'
   Session: 'Heather Stenson - Any friend of the docs is a friend of mine: Cultivating a community of documentation advocates'
   Slug: heather-stenson
@@ -69,8 +72,14 @@
   Slug: meghan-mahar
   Time: '4:10'
 - Duration: '10'
-  Session: Group Photo
+  Session: '<b>Group Photo</b>'
   Time: '4:40'
 - Duration: '0'
   Session: Day 1 wraps up
   Time: '5:00'
+- Duration: '0'
+  Session: '<b>Social Event</b>'
+  Time: '7:00'
+- Duration: '0'
+  Session: '<b>Social Event Ends</b>'
+  Time: '10:00'

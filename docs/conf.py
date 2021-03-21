@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
 #
 
-from recommonmark.transform import AutoStructify
-import ablog
-import sys
 import os
+import sys
+
+import yaml
+import ablog
+from recommonmark.transform import AutoStructify
 
 # Only for windows compatability - Forces default encoding to UTF8, which it may not be on windows
 if os.name == 'nt':
@@ -15,33 +17,38 @@ if os.name == 'nt':
 sys.path.append(os.getcwd())  # noqa
 
 from _ext.core import (
-    add_jinja_filters, rstjinja, override_page_template, load_conference_data,
-    set_html_context, unset_html_context
+    render_rst_with_jinja, override_template_load_context, set_html_context, unset_html_context
 )
+from _ext.filters import add_jinja_filters_to_app
 from _ext.meetups import MeetupListing
 from _ext.atom_absolute import rewrite_atom_feed
+from _ext import videos
 
 exclude_patterns = [
     '_build',
     'include',
-    '_data',
+    #'_data',
     'node_modules',
 ]
 
+html4_writer = True
+
 # Only build the videos on production, to speed up dev
 on_rtd = str(os.environ.get('READTHEDOCS')).lower() == 'true'
-on_netlify = str(os.environ.get('BUILD_VIDEOS')).lower() == 'true'
-on_travis = str(os.environ.get('TRAVIS')).lower() == 'true'
-if not on_rtd and not on_netlify and not on_travis:
+build_videos = str(os.environ.get('BUILD_VIDEOS')).lower() == 'true'
+if not on_rtd and not build_videos:
     print('EXCLUDING VIDEO PATHS. Video links will not work.')
     exclude_patterns.append('videos')
+    REWRITE_FEED = False
 else:
     print('BUILDING VIDEOS. All video links should work.')
-REWRITE_FEED = False
+    REWRITE_FEED = True
 
 extensions = [
     'ablog',
     'sphinxcontrib.datatemplates',
+    'notfound.extension',
+    'sphinxemoji.sphinxemoji',
     'recommonmark',
 ]
 blog_baseurl = 'https://www.writethedocs.org/'
@@ -58,12 +65,11 @@ blog_feed_length = 10
 blog_locations = {
     'PDX': ('Portland, Oregon', 'http://www.portlandhikersfieldguide.org/'),
 }
-blog_default_location = 'PDX'
+blog_default_location = None
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 
-templates_path = ['_templates', 'include']
-templates_path.append(ablog.get_html_templates_path())
-
+templates_path = ['_templates', 'include', ablog.get_html_templates_path()]
+html_extra_path = ['_static_html']
 source_suffix = ['.rst', '.md']
 
 master_doc = 'index'
@@ -91,14 +97,15 @@ html_theme_options = {
 html_favicon = '_static/favicon/favicon-96x96.png'
 html_title = 'Write the Docs'
 html_static_path = ['_static']
+html_copy_source = False
 html_sidebars = {
     '**': [
         'about.html',
         'postcard.html',
         'info.html',
+        'searchbox.html',
         'navigation.html',
         # 'relations.html',
-        # 'searchbox.html',
     ]
 }
 
@@ -126,40 +133,68 @@ suppress_warnings = ['image.nonlocal_uri']
 
 # Our additions
 
+global_sponsors = yaml.safe_load("""
+- name: microsoft
+  link: https://microsoft.com
+  brand: Microsoft
+  comment: Keystone sponsor
+- name: google
+  link: https://www.google.com
+  brand: Google
+  comment: Patron sponsor
+- name: redocly
+  link: https://redoc.ly/
+  brand: Redocly
+  comment: Patron sponsor
+""")
+
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
-    'conferences': load_conference_data(),
+    'newsletter_subs': '5,000',
+    'website_visits': '30,000',
+    'global_sponsors': global_sponsors,
 }
 
-# Uncomment this line to generate videos
-# html_context.update(main())
+if build_videos:
 
-# html_experimental_html5_writer = True
+    if os.environ.get('MEETUP_API_KEY'):
+        try:
+            from _ext.meetup_events import main as meetup_main
+            html_context.update(meetup_main())
+        except:
+            print('Could not get meetup events.')
+    html_context.update(videos.main())
+
+notfound_no_urls_prefix = True
 
 
 def setup(app):
     # Set up our custom jinja filters
-    app.connect("builder-inited", add_jinja_filters)
+    app.connect("builder-inited", add_jinja_filters_to_app)
 
     # Transform RST with Jinja, using proper context
-    app.connect("source-read", rstjinja)
+    app.connect("source-read", render_rst_with_jinja)
 
     # Adjust html_context properly for datatemplate processing
     app.connect("source-read", set_html_context)
     app.connect("doctree-read", unset_html_context)
 
     # Render HTML templates with proper HTML context
-    app.connect('html-page-context', override_page_template)
+    app.connect('html-page-context', override_template_load_context)
 
-    if on_rtd or on_netlify or on_travis or REWRITE_FEED:
+    if on_rtd or build_videos or REWRITE_FEED:
         app.connect('build-finished', rewrite_atom_feed)
 
     app.add_directive('meetup-listing', MeetupListing)
+    app.add_directive('datatemplate-video', videos.DataTemplateVideo)
     app.add_config_value('recommonmark_config', {
         'auto_toc_tree_section': 'Contents',
         # 'enable_auto_doc_ref': True,
         'enable_eval_rst': True,
     }, True)
     app.add_transform(AutoStructify)
-    app.add_stylesheet('css/global-customizations.css')
-    app.add_javascript('js/jobs.js')
+    app.add_css_file('css/global-customizations.css')
+    app.add_css_file('css/survey.css')
+    app.add_js_file('js/jobs.js')
+
+    app.config.wtd_cache = {}

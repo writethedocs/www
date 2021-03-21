@@ -1,0 +1,391 @@
+- abstract: '<p>As game developers, we try to make the creation of narrative video
+    games accessible and as easy as possible for non-technical, non-programmers. As
+    part of our work on the BAFTA-winning video game Night in the Woods (https://en.wikipedia.org/wiki/Night_in_the_Woods),
+    we wrote a narrative game development framework called YarnSpinner (https://github.com/thesecretlab/YarnSpinner).
+    In doing so, we learnt a lot about how to build tools for non-technical writers
+    of stories to create interactive and engaging playable narratives. We''d like
+    to share what we''ve learned.</p>
+
+    <p>This session explores the best practices for crafting interactive narratives.
+    We''ll survey the state of tools (including Twine, YarnSpinner, Ink, and beyond),
+    discuss the needs of writers, and look at how interactive narrative content is
+    stunningly strange combination of fiction, programming, and self-documenting horror.
+    How does it all come together? </p>
+
+    <p>How do we make the complex task of creating stories that need to track state,
+    variables, and thousands and thousands of lines of branching dialogue accessible,
+    simple, debuggable, traceable, and fun? </p>
+
+    <p>Let''s find out together!</p>'
+  slug: making-interactive-narrative-storytelling-accessible-to-everyone-paris-buttfield-addison
+  speakers:
+  - name: Paris Buttfield-Addison
+    slug: paris-buttfield-addison
+    twitter: ''
+    website: ''
+  title: Making interactive narrative storytelling accessible to everyone
+- abstract: '<p>Being a user''s documentarian: Studying user''s behavior and then
+    defining a strategy for documentation.</p>
+
+    <p>Technical writing or documentation, in general, follows a sort of definitive
+    process in all organizations.
+
+    In a perfect world, writers plan, research, interview, organize, write, review,
+    incorporate feedback, deliver, and continuously incorporate user''s feedback.</p>
+
+    <p>As a writer, where does our responsibility end? Our primary focus is on creating
+    and updating content, but we should not forget about how we can make it more visible
+    to our users. Our end-users are looking for information.</p>
+
+    <p>The following steps can help us to become our user''s documentarian:
+
+    - Know your audience
+
+    - Empathize with them
+
+    - Analyze what they need and not what they want
+
+    - Study their behavior and analyze where will they want to get the information
+
+    - Find and develop a way to deliver docs where your audience is most likely to
+    search
+
+    - Based on your delivery goal, set up all the resources you need
+
+    - Write and form a network of links for easy navigation
+
+    - Review and incorporate feedback
+
+    - Deliver and integrate your user''s feedback continuously</p>
+
+    <p>It''s not a new way but a unique perspective of writing. It aims to focus on
+    being more human in understanding your users'' needs. It''s like a human-centric
+    approach to documentation, where you aim for two things: to provide users with
+    the information they need and to make it visible to them.</p>'
+  slug: being-a-users-documentarian-studying-users-behavior-and-then-defining-a-strategy-for-documentation-payal-dhiman
+  speakers:
+  - name: Payal Dhiman
+    slug: payal-dhiman
+    twitter: ''
+    website: ''
+  title: 'Being a user''s documentarian: Studying user''s behavior and then defining
+    a strategy for documentation.'
+- abstract: '<p>A few years ago the designers in my team started enthusiastically
+    migrating over to a new design tool (Sketch). It looked like a fun tool, so I
+    decided to learn it. Fast forward a few years and I couldn''t write for my app
+    without it. </p>
+
+    <p>In this talk I''ll cover three things:</p>
+
+    <ul>
+
+    <li>Co-design - go beyond being a service provider to being full participant in
+    the design process </li>
+
+    <li>Journeys - deliver better experiences for your users by writing in context</li>
+
+    <li>Skilling up - how to leverage what you''ve learned to also create gorgeous
+    visual assets for your docs. </li>
+
+    </ul>
+
+    <p>My experience is with Sketch, but my tips apply to most vector tools (including
+    Figma, Illustrator, etc). </p>'
+  slug: supercharge-your-writing-process-with-a-designers-toolkit-rachel-robins
+  speakers:
+  - name: Rachel Robins
+    slug: rachel-robins
+    twitter: ''
+    website: ''
+  title: Supercharge your writing process with a designer's toolkit
+- abstract: '<p>Release notes sometimes feel like an afterthought hurriedly assembled
+    immediately prior to launch, but they''re an important piece of documentation!
+    Release notes take many forms, and all sorts of users read them -- ranging from
+    hardcore engineers who need a deep understand of a recent security patch, to grandmas
+    who want to know why their iPhone needs a 3GB update to play Candy Crush.</p>
+
+    <p>Over the past year, a team of technical writers at Google has been rethinking
+    the way we author release notes, and collaborating with engineering to build a
+    brand new experience for our customers. In this talk, I’ll share some of the things
+    we learned, plus other opinions on release notes I’ve developed during my career
+    as a Technical Writer (including tips on how you can make your release notes better).
+    </p>'
+  slug: rethinking-release-notes-alexander-koren
+  speakers:
+  - name: Alexander Koren
+    slug: alexander-koren
+    twitter: ''
+    website: ''
+  title: Rethinking Release Notes
+- abstract: '<p>Minimum Viable Product or MVP is a development technique where a
+    new product is introduced in the market with basic features, but enough to get
+    the attention of the consumers. </p>
+
+    <p>The MVP technique brings with it a set of characteristics that qualify how
+    it fits into the whole startup and entrepreneurial space for building efficient products: </p>
+
+    <ol>
+
+    <li>It comprises of a set of basic features that you use to ascertain early
+    on whether customers find the product useful.</li>
+
+    <li>By separating basic features and subsequent add-ons, you bring with it
+    a scope to enhance the product in every step of the development. This means you have a defined roadmap set for your product.</li>
+
+    <li>Using the feedback or learning loop, you establish a model of constantly
+    getting feedback from your early adopters and initial set of users. This provides the momentum to build consumable features along the way.</li>
+
+    </ol>
+
+    <p>This talk additionally focuses on what writers or documentation experts can contribute as valuable information for an MVP.</p>
+    <p>As authored by the Agile/Lean guru, Eric Ries in his book The Lean Startup,</p>
+    <p>The primary benefit of an MVP is you can gain understanding about your
+    customers’ interest in your product without fully developing the product.
+    The sooner you can find out whether your product will appeal to customers,
+    the less effort and expense you spend on a product that will not succeed in the market.</p>'
+  slug: minimal-viable-product-what-does-this-mean-for-user-documentation-nithya-krishnan
+  speakers:
+  - name: Nithya Krishnan
+    slug: nithya-krishnan
+    twitter: ''
+    website: ''
+  title: Minimal Viable Product - What does this mean for user documentation
+- abstract: '<p>Contributing to open source is a great way to land a job - especially
+    that critical first job - in the software industry. It''s also a great way to
+    build a network and establish a reputation in the business. And anybody can contribute
+    to open source, right?</p>
+
+    <p>Sure. <em>In theory.</em></p>
+
+    <p>In fact, diversity and inclusion in open source is worse than that of "traditional"
+    software. Women, for example, make up ~22% of computer programming professionals,
+    but only 3% of Github''s survey respondents identify as female. That''s a problem
+    for open source software projects, which draw their strength from the diversity
+    of their communities, the knock-on effect is that women and other underrepresented
+    groups are even less likely to gain access to careers in technology that rely
+    on a great open source portfolio.</p>
+
+    <p>To be successful, and to participate in the economic advancement offered by
+    the software industry, all developers everywhere need access to the knowledge
+    needed to fully participate in technology. In this talk, we''ll cover the common
+    barriers to full participation in the software development industry, identify
+    some common myths around knowledge sharing, and share practical research-based
+    findings into how to overcome those barriers so that all developers everywhere
+    have equal access to the information they need to participate in the knowledge
+    economy.</p>
+
+    <p>Documentation is more than a set of guides, concepts, and procedures. It''s
+    a powerful tool for diversity and inclusion, and that benefits us all.</p>'
+  slug: knowledge-is-power-documentation-as-a-tool-for-equity-and-inclusion-riona-macnamara
+  speakers:
+  - name: Riona MacNamara
+    slug: riona-macnamara
+    twitter: '@rionam'
+    website: ''
+  title: 'Knowledge Is Power: Documentation as a tool for equity and inclusion'
+- abstract: '<p>Technical writing and user testing may seem like two completely different
+    fields, but they actually intersect more often than not. When in the position
+    of writing documentation, we are always told what issues users face on a daily
+    basis. But what if we tumbled down the rabbit hole and into the world of user
+    testing, and actually witnessed the users issue first hand? </p>
+
+    <p>In this talk I want to discuss about the many benefits of intersecting user
+    testing with technical documentation. I will draw upon my experience as a technical
+    writer and user tester, and go over the skills and knowledge required to take
+    the results of user testing sessions, and convert those results into better documentation.
+    </p>'
+  slug: through-the-looking-glass-how-user-testing-can-give-technical-writers-better-perspective-fraser-mitchell
+  speakers:
+  - name: Fraser Mitchell
+    slug: fraser-mitchell
+    twitter: ''
+    website: ''
+  title: Through the looking glass - how user testing can give technical writers better
+    perspective
+- abstract: '<p>The purpose of this presentation is to give confidence by sharing
+    insights from my experience with authoring four books till date. It was not easy
+    starting to write by myself and doing a whole technical piece end-to-end however,
+    it took persistence and passion to get it done over a course of two years. Nevertheless,
+    despite it consumed me as a person and engulfed all my social and personal life;
+    I never regretted doing that as it paid well than I imagined - not monetarily,
+    more importantly as an achievement and a path leader to beyond my 9-5.</p>
+
+    <p>During this presentation, I want to share my experiences on how I came about
+    the whole idea of writing a technical book, what encompassed the journey, and
+    most importantly – how it’s not rocket science to get started on a book. People
+    only see a book with a name, they don’t see the efforts behind it but then, how
+    will they if they’re not sure what it takes to write one? It becomes even more
+    challenging to address one self’s aspirations and limitations unless there’s a
+    trend setter – which there is not. By sharing my views on why one should do it
+    and how they benefit from it I guess at least a handful people will embark on
+    the journey and experience the making of an author.</p>
+
+    <p>As key takeaways – I would like to have audience appreciate that writing could
+    be looked upon as being an integral part of a good orator or presenter as they
+    already have those skills to covert voice to words. Even for an average 9-5 person
+    – they can and should take a stab at it and experience what it is like to create
+    something extraordinary with the knowledge and thoughts which were in their mind
+    alone till date. I would expect that people get motivated and get charged on how
+    they can create legacy and leave behind a work of art of which they’ll be proud
+    of when they look back in a time in future. </p>'
+  slug: your-first-book-doesnt-have-to-be-rocket-science-akhil-behl
+  speakers:
+  - name: Akhil Behl
+    slug: akhil-behl
+    twitter: '@akhilbehl'
+    website: ''
+  title: Your First Book - Doesn't have to be rocket science!
+- abstract: '<p>"Why are we invisible? Maybe we should have Content Hat Day, where
+    we all wear stupid hats. Just so we are seen," so said Sarah, huffily, of Content
+    Design London.</p>
+
+    <p>It''s true, content people are often invisible. Writers are invisible. Editors
+    are invisible. Content strategists are invisible. Content designers are invisible.
+    </p>
+
+    <p>It doesn''t matter what industry you''re in, you''ll have either experienced
+    this or felt the same way.</p>
+
+    <p>But the reason why you''re invisible is because of a fabulous little human
+    bias known as the Dunning-Kruger Effect, combined with the fact that (almost)
+    everyone can write. Just like (almost) everyone can count.</p>
+
+    <p>This short-and-sweet little talk walks you through this territory by shining
+    a light on what it means for your work. You''ll walk away with a bunch of tips
+    drawn from the annals of power, war, and - yes! - seduction, that can help you
+    define your territory, gain respect, and still not piss anyone off.</p>'
+  slug: the-amazing-fantastic-human-bias-that-makes-you-bang-your-head-on-your-desk-leticia-mooney
+  speakers:
+  - name: Leticia Mooney
+    slug: leticia-mooney
+    twitter: '@BrutalPixie'
+    website: ''
+  title: The amazing, fantastic human bias that makes you bang your head on your desk
+- abstract: '<p>Much of the documentation supplied by both Open Source and Close Source
+    projects assume the community have a good understanding of the English language
+    and often North American culture as well. This creates barriers for many solution
+    providers, who are the gateway to potentially huge markets for your project.</p>
+
+    <p>This talk discusses some of the cultural differences, particularly for people
+    from Asia, in using English language API documentation. It suggests some strategies
+    to help diverse audiences understand you APIs and create solutions using them.</p>
+
+    <p>The talk will cover not only differences in language but also other cultural
+    differences that are often not obvious. For example:</p>
+
+    <ul>
+
+    <li>Different expectations about publication formats, release processes, levels
+    of support during the development process</li>
+
+    <li>Meeting and communications styles</li>
+
+    <li>Software development workflows, processes, and tools</li>
+
+    <li>Supporting people who are visually impaired will also be briefly discussed.</li>
+
+    </ul>
+
+    <p>As well as discussing these issues, specific suggestions will be provided to
+    make API docs accessible for as many people as possible.</p>
+
+    <p>This talk is based on Alec''s work with customers in Europe, North America,
+    Middle East, Asia, and Australasia. The last five have been spent as a developer
+    evangelist working with PaperCut partners in China, Japan, Korea, US and Europe.</p>'
+  slug: creating-api-documentation-for-international-communities-alec-clews
+  speakers:
+  - name: Alec Clews
+    slug: alec-clews
+    twitter: '@alecthegeek'
+    website: ''
+  title: Creating API documentation for international communities
+- abstract: '<p>"What specific information architecture issues do you face when creating documentation?
+    Learn how core IA principles can be adapted for documentation.</p>'
+  slug: information-architecture-for-documentation-elle-geraghty
+  speakers:
+  - name: Elle Geraghty
+    slug: elle-geraghty
+    twitter: '@ellengeraghty'
+    website: ''
+  title: Information architecture for documentation
+- abstract: '<p>Surprisingly, the world doesn’t have an open, best-practices suite
+of writing templates; templates which could be used by open-source projects. That’s not right.</p>
+
+    <p>A bunch of us documentarians and open-source community members have started
+    to create them, and have banded together under the banner of TheGoodDocsProject.</p>
+
+    <p>We want to collate the collective wisdom of our communities into templates,
+    writing instructions and background theory. We have ideas but we still have a lot to work out and we want your help.</p>
+
+    <p>In this hands-on workshop we will present a quick overview of current
+    thinking and the range of challenges we are facing. We will then break out
+    into topic working groups to brainstorm ideas for solutions and content for
+    different doc types. For each doc type, we need to source, develop, test and refine:</p>
+
+    <ul>
+
+    <li>A template, embedded with concise writing instructions.</li>
+    <li>Example(s).</li>
+    <li>Deeper practical tips, explanations and justifications for approaches - for use by  information architects, reviewers, and seasoned Documentarians.</li>
+    <li>Collated background theory.</li>
+
+    </ul>
+
+    <p>At the end we will come back together to present findings to the group and discuss how ideas can be brought back into TheGoodDocsProject.</p>
+
+    <p>We have started on a Quickstarts. Depending on workshop numbers, we’d also like to tackle:</p>
+
+    <ul>
+
+    <li>Tutorials</li>
+    <li>How To Guides</li>
+    <li>Explanations</li>
+    <li>References</li>
+
+    <p>We may find these naturally break into sub-categories<p>'
+  slug: good-docs-projecct-cameron-shorter
+  speakers:
+  - name: Cameron Shorter
+    slug: cameron-shorter
+    twitter: '@cameronshorter'
+  title: TheGoodDocsProject - Doc Fixit
+- abstract: '<p>Kubeflow is an open source product that developers and data scientists use to create machine learning systems.</p>
+
+    <p>The Kubeflow docs are largely written by engineers. The engineers do a great job, but sometimes a tech writer’s touch adds that extra bit of shine.</p>
+
+    <p>During this doc fixit, you will work with the Kubeflow tech writer to fix doc bugs. The bugs include spelling mistakes, grammar that’s not quite right, sentences that could flow better, and more. While fixing bugs, you’ll learn about working in open source on GitHub. You’ll experience a static site generator (Hugo) for publishing docs. Best of all, you’ll improve the experience of the developers and data scientists who’re reading the docs.</p>
+
+    <p>Read about prerequisites and more in the <a href="https://www.writethedocs.org/conf/australia/2019/doc-fixit-kubeflow/">doc fixit details</a>.</p>'
+  slug: kubeflow-doc-fixit-sarah-maddox
+  speakers:
+  - name: Sarah Maddox
+    slug: sarah-maddox
+    twitter: '@sarahmaddox'
+    website: ''
+  title: Kubeflow open source docs need your help!
+- abstract: '<p>Learning Git for the first time can be intimidating, especially for non-developers. </p>
+
+    <p>When I first learned Git, I did it the hard way (mostly using internet searches and StackOverflow). And I hated it. It was confusing, and it seemed like a necessary evil.</p>
+
+    <p>But it doesn''t have to be that way. Learning Git can be fun! This hands-on workshop will teach you how to use a Git-based workflow for writing documentation.</p>
+
+    <p>Together, we’ll walk through some tricky Git concepts, breaking each down into easy-to-understand pieces.</p>'
+  slug: git-the-docs-becky-todd
+  speakers:
+  - name: Becky Todd
+    slug: becky-todd
+    twitter: '@beckatodd'
+    website: ''
+  title: Git the Docs - A fun, hands-on introduction to version control
+- abstract: '<p>Tech Writing 101 is a class developed by tech writers at Google to train engineers and others in the principles of effective technical writing.</p>
+
+    <p>Everyone at Write the Docs Australia Conference 2019 is welcome. For tech writers and others, the class offers an interactive, discussion-filled approach to learning tech writing patterns.</p>
+
+    <p>Read about prerequisites and more in the <a href="https://www.writethedocs.org/conf/australia/2019/workshop-tech-writing/">workshop details</a>.</p>'
+  slug: techwriting-workshop-sarah-maddox
+  speakers:
+  - name: Sarah Maddox
+    slug: sarah-maddox-workshop
+    twitter: '@sarahmaddox'
+    website: ''
+  title: Tech Writing 101 Workshop

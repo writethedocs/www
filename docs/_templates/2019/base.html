@@ -43,7 +43,7 @@
         <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet">
         <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.css" />
-        <link rel="stylesheet" href="{{ pathto('_static/2019/css/main.min.css', 1) }}" type="text/css">
+        <link rel="stylesheet" href="{{ pathto('_static/conf/css/main-2019.min.css', 1) }}" type="text/css">
 
         <!-- things that change -->
         {% block meta %}
@@ -72,7 +72,7 @@
         {% block footerhead %}
          {% if buttons is defined %} 
              {% for callout in buttons.bottom %}
-               <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/' + year|string + callout.link ) }}">{{ callout.text }}</a>
+               <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year|string + callout.link ) }}{% endif %}">{{ callout.text }}</a>
              {% endfor %}
          {% endif %}
         {% endblock %}
@@ -84,8 +84,8 @@
     <div class="sponsors-footer">
         <div class="uk-container">
         <h2 class="uk-first-column">Sponsors</h2>
-            {% include "include/" + year|string  + "/" + shortcode + "-sponsors.html" %}
-            {% include "include/" + year|string  + "/" + shortcode + "-sponsors-media.html" ignore missing %}
+            {% include year|string  + "/sponsors.html" %}
+            {% include year|string  + "/sponsors-media.html" ignore missing %}
             <div class="learn-more">
                 <a class="uk-align-right" href="/conf/{{ shortcode }}/{{ year }}/sponsors/prospectus/">Become a sponsor</a>
             </div>
@@ -108,21 +108,22 @@
                             {{ cobrand.brand_html }}
                             {% endif %}
                             <em>{{ name }}</em>
+                            <br><em style="top: -16px;">{{ year }}</em>
                     {% endblock %}
                     </div>
 
                     <div class="footer-icon-list">
                         <a href="https://github.com/writethedocs">
-                            <img src="{{ pathto('_static/2019/assets/icons/github-footer-white.svg', 1) }}">
+                            <img src="{{ pathto('_static/conf/images/icons/github-footer-white.svg', 1) }}">
                         </a>
                         <a href="https://twitter.com/writethedocs">
-                            <img src="{{ pathto('_static/2019/assets/icons/twitter-footer-white.svg', 1) }}">
+                            <img src="{{ pathto('_static/conf/images/icons/twitter-footer-white.svg', 1) }}">
                         </a>
                         <a href="https://www.flickr.com/photos/writethedocs/">
-                            <img src="{{ pathto('_static/2019/assets/icons/flickr-footer-white.svg', 1) }}">
+                            <img src="{{ pathto('_static/conf/images/icons/flickr-footer-white.svg', 1) }}">
                         </a>
-                        <a href="https://www.writethedocs.com/slack/">
-                            <img src="{{ pathto('_static/2019/assets/icons/slack-footer-white.svg', 1) }}">
+                        <a href="https://www.writethedocs.org/slack/">
+                            <img src="{{ pathto('_static/conf/images/icons/slack-footer-white.svg', 1) }}">
                         </a>
                     </div><!-- end footer icons list of  links -->
                 </div> <!-- end of footer social section -->
@@ -138,16 +139,16 @@
             </div><!-- end of footer content  -->
             <div class="footer-pics">
                 <div>
-                    <img src="{{ pathto('_static/2019/assets/images/pics/ft-image-01.jpg', 1) }}">
+                    <img src="{{ pathto('_static/conf/images/pics/ft-image-01.jpg', 1) }}">
                 </div>
                 <div>
-                    <img src="{{ pathto('_static/2019/assets/images/pics/ft-image-02.jpg', 1) }}">
+                    <img src="{{ pathto('_static/conf/images/pics/ft-image-02.jpg', 1) }}">
                 </div>
                 <div>
-                    <img src="{{ pathto('_static/2019/assets/images/pics/ft-image-04.jpg', 1) }}">
+                    <img src="{{ pathto('_static/conf/images/pics/ft-image-04.jpg', 1) }}">
                 </div>
                 <div>
-                    <img src="{{ pathto('_static/2019/assets/images/pics/ft-image-03.jpg', 1) }}">
+                    <img src="{{ pathto('_static/conf/images/pics/ft-image-03.jpg', 1) }}">
                 </div>
             </div>
         </div>

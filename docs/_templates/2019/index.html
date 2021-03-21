@@ -66,7 +66,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
 
          {% if buttons is defined %} 
          {% for callout in buttons.top %}
-           <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/' + year|string + callout.link ) }}">{{ callout.text }}</a>
+           <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year|string + callout.link ) }}{% endif %}">{{ callout.text }}</a>
          {% endfor %}
          {% endif %}
 
@@ -75,7 +75,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
     </div>
   </div><!-- end hero -->
 
-  {% if flagvideos %}
+  {% if flagvideos or flagpostconf %}
 
   <div class="announcement">
     <div class="uk-container">
@@ -110,6 +110,12 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
         <p>
           We invite you to join {{ about.attendees }} other folks in our event to explore the art and science of documentation.
         </p>
+        {% if flaglivestreaming %}
+        <p>
+          <a href="{{ pathto('conf/portland/2019/livestream') }}">Live streaming is available</a> during the conference.
+          You do <strong>not</strong> need a ticket to watch the stream. Videos of talks will be published after the conference.
+        </p>
+        {% endif %}
 
         {% if cobrand is defined %}
         <h2>What is Open Help?</h2>
@@ -127,13 +133,13 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
 
       <div class="picture-set">
         <div data-aos="pictrue-03" data-aos-once="true">
-        <img src="{{ pathto('_static/2019/assets/images/pics/pictrue-03.jpg', 1) }}">
+        <img src="{{ pathto('_static/conf/images/pics/pictrue-03.jpg', 1) }}">
         </div>
         <div data-aos="pictrue-02" data-aos-once="true">
-        <img src="{{ pathto('_static/2019/assets/images/pics/pictrue-02.jpg', 1) }}">
+        <img src="{{ pathto('_static/conf/images/pics/pictrue-02.jpg', 1) }}">
         </div>
         <div data-aos="pictrue-01" data-aos-once="true">
-        <img src="{{ pathto('_static/2019/assets/images/pics/pictrue-01.jpg', 1) }}">
+        <img src="{{ pathto('_static/conf/images/pics/pictrue-01.jpg', 1) }}">
         </div>
       </div>
     </div>
@@ -143,7 +149,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
     <div class="uk-container" uk-grid>
       <h2>Schedule Overview</h2>
       <div class="schedule-item uk-width-1-3@s">
-        <img style="height: 150px;" src="{{ pathto('_static/2019/assets/icons/' + date.day_one.icon + '-' + color +  '.svg', 1) }}">
+        <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/' + date.day_one.icon + '-' + color +  '.svg', 1) }}">
         <h3>{{ date.day_one.event }} </h3>
         <em>{{ date.day_one.date }} </em>
         <p>{{ date.day_one.summary }} </p>
@@ -151,7 +157,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
 
       {% if date.day_two is defined %}
       <div class="schedule-item uk-width-1-3@s">
-        <img style="height: 150px;" src="{{ pathto('_static/2019/assets/icons/' + date.day_two.icon + '-' + color +  '.svg', 1) }}">
+        <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/' + date.day_two.icon + '-' + color +  '.svg', 1) }}">
         <h3>{{ date.day_two.event }} </h3>
         <em>{{ date.day_two.date }} </em>
         <p>{{ date.day_two.summary }} </p>
@@ -160,7 +166,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
 
       {% if date.day_three is defined %}
       <div class="schedule-item uk-width-1-3@s">
-        <img style="height: 150px;" src="{{ pathto('_static/2019/assets/icons/' + date.day_three.icon + '-' + color +  '.svg', 1) }}">
+        <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/' + date.day_three.icon + '-' + color +  '.svg', 1) }}">
         <h3>{{ date.day_three.event }} </h3>
         <em>{{ date.day_three.date }} </em>
         <p>{{ date.day_three.summary }} </p>

@@ -93,8 +93,8 @@ location. Try sending out an email like the example provided in the following te
 
     Hello,
 
-    I am the organizer of Write the Docs {{ city name }} meetup {{ link to meetup page }}. Write the Docs
-    {{ writethedocs.org }} is a global community of people interested in excellent documentation.
+    I am the organizer of Write the Docs $city meetup: $link.
+    Write the Docs is a global community of people interested in excellent documentation.
 
     We'd like your help! If you're interested in improving your documentation, help us. We'll provide
     a resource with different experiences, and potentially writers who can help with your documentation.
@@ -102,7 +102,7 @@ location. Try sending out an email like the example provided in the following te
     If you have any questions, please do not hesitate to contact us.
 
     Regards,
-    {{ name }}
+    $name
 
 If your first attempts don't work, contact other tech companies in your town.
 Post messages on job boards, tech conference websites, or on other tech Meetup
@@ -172,20 +172,25 @@ Topics:
 
 The following are examples of topics that have worked well for other meetups:
 
-* API docs
-* Contibuting to OSS
-* Easy entry to OSS
-* Navigating career path (different sectors of tech writing)
-* Sketchnoting as documentation
-* Hackathon -- creating docs “The lone writers guide”
-* Howto Markdown (multiple methods)
-* Best practices
-* Pub socials
-* Communication probs with R&D
-* Visual docs
-* Info architecture
-* Language and cultural differences
-* Docs as code
+* API docs -- Approaches, tools, and best practices in API documentation.
+* Contributing to OSS -- Getting started with Github and open source projects.
+* Easy entry to OSS -- Finding good beginner projects to contribute to.
+* Navigating career path -- Understanding different sectors of tech writing and creating a long term plan.
+* Hackathon -- creating docs “The lone writers guide.”
+* Howto Markdown (multiple methods) -- Looking at different markdown implementations.
+* Best practices -- Determining, documenting, and implementing best practices in your tech writing team.
+* Pub socials -- Casual meetups that promote more freeform discussions and idea exchange.
+* Communication problems with R&D -- Bridging the gap between development and documentation.
+* Visual docs -- Represent non-linguistics ideas and instructions. 
+* Sketchnoting as documentation -- A kind of visual documentation or note-taking consisting of notes, drawings, hand-drawn typography, and other visual elements used to express ideas.
+* Information architecture -- Strategies for structuring and organizing documentation.
+* Language and cultural differences -- Discussing sociocultural factors impacting documentation.
+* Documentation as code -- Rethinking philosophy, tools, workflows, integration.
+* Documenting yourself -- Building effective portfolios. 
+* UI text -- Unique considerations in writing UI text.
+* What are you looking for in a new writer -- Thinking about experience, technical skills, culture fit, and trainability.
+* Collaborating with stakeholders -- Aligning goals on projects.
+* Creating content with limited resources and support -- How to approach tight deadlines and less-than-ideal situations.
 
 If You Can't Find a Local Speaker
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

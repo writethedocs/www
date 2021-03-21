@@ -18,6 +18,7 @@
   slug: tested-and-correct-how-to-make-sure-your-documentation-keeps-working-adangoor
   speakers:
   - name: Adam Dangoor
+    image: /_static/img/2015/eu/speakers/AdamDangoor.png
     slug: adangoor
     twitter: AdamDangoor
   title: Tested and Correct, How to Make Sure Your Documentation Keeps Working
@@ -46,16 +47,10 @@
   series_slug: eu
   slug: the-quest-for-scientific-credit-for-software-documentation-ajaruga
   speakers:
-  - details: "<p>I'm a PhD student at the Faculty of Physics working in a research\
-      \ group\ndeveloping two C++ libraries aimed at the atmospheric community.  In\
-      \ this\npresentation I'd like to talk about our quest to link the scientific\n\
-      credit with the software documentation. I'd like to talk about how we\ntried\
-      \ to combine explaining scientific ideas in LaTeX with explaining API\nalong\
-      \ with automatic code listings in one journal-structured documentation\nand\
-      \ how we managed to publish both the code and the documentation in\npublic,\
-      \ peer-reviewed Geoscientific Model Development journal.  </p>\n"
-    name: Anna Jaruga
+  - name: Anna Jaruga
+    image: /_static/img/2015/eu/speakers/anna_jaruga_small.jpg
     slug: ajaruga
+    twitter:
   title: The quest for scientific credit for software documentation
   year: '2015'
   youtubeId: Qg7lOWyT2mo
@@ -74,6 +69,7 @@
   slug: before-the-docs-writing-for-user-interfaces-baitman
   speakers:
   - name: Beth Aitman
+    image: /_static/img/2015/eu/speakers/bethaitman.jpg
     slug: baitman
     twitter: baitman
   title: 'Before the docs: writing for user interfaces'
@@ -96,6 +92,7 @@
   slug: documenting-your-story-crafting-a-good-presentation-cward
   speakers:
   - name: Chris Ward
+    image: /_static/img/2015/eu/speakers/chris-ward.jpg
     slug: cward
     twitter: chrischinch
   title: Documenting your Story - Crafting a good presentation
@@ -121,6 +118,7 @@
   slug: all-roads-might-not-lead-to-docs-celmore
   speakers:
   - name: Christina Elmore
+    image: /_static/img/2015/eu/speakers/elmore_headshot.jpg
     slug: celmore
     twitter: elchristina
   title: All roads might not lead to docs
@@ -144,6 +142,7 @@
   slug: screencasting-101-dpotter
   speakers:
   - name: Diana Potter
+    image: /_static/img/2015/eu/speakers/Diana-P-cd4503c7.jpg
     slug: dpotter
     twitter: drpotter
   title: Screencasting 101
@@ -171,8 +170,9 @@
   slug: how-to-write-an-email-ecaine
   speakers:
   - name: Elijah Caine
+    image: /_static/img/2015/eu/speakers/elicropped2-19.jpg
     slug: ecaine
-    twitter: ElijahCaineMV
+    twitter: pastywhitenoise
   title: How to Write an Email
   year: '2015'
   youtubeId: Ja-4t8Ufv6Y
@@ -197,6 +197,7 @@
   slug: whatchamacallit-controlled-vocabularies-for-technical-writers-eboillat
   speakers:
   - name: Emilie Boillat
+    image: /_static/img/2015/eu/speakers/EmilieBoillat300x300.png
     slug: eboillat
   title: 'Whatchamacallit: Controlled Vocabularies for Technical Writers'
   year: '2015'
@@ -217,8 +218,10 @@
   slug: gardening-open-docs-florian-scholz-jean-yves-perrier
   speakers:
   - name: Florian Scholz
+    image: /_static/img/2015/eu/speakers/fschultz.jpg
     twitter: floscholz
   - name: Jean-Yves Perrier
+    image: /_static/img/2015/eu/speakers/jean-yves.jpg
     twitter: Teoli2003
   title: Gardening Open Docs
   year: '2015'
@@ -242,6 +245,7 @@
   slug: generating-docs-from-apis-jhannaford
   speakers:
   - name: Jamie Hannaford
+    image: /_static/img/2015/eu/speakers/jamie-hannaford.jpg
     slug: jhannaford
     twitter: jamiehannaford
   title: Generating docs from APIs
@@ -267,6 +271,7 @@
   slug: back-to-the-future-what-can-documentarians-learn-from-the-past-jrondeau
   speakers:
   - name: Jennifer Rondeau
+    image: /_static/img/2015/eu/speakers/jrondeau.png
     slug: jrondeau
     twitter: bradamante
   title: 'Back to the Future: What Can Documentarians Learn From The Past?'
@@ -292,6 +297,7 @@
   slug: free-your-mind-and-your-docs-will-follow-pkeegan
   speakers:
   - name: Patrick Keegan
+    image: /_static/img/2015/eu/speakers/patrick_keegan.jpg
     slug: pkeegan
   title: Free Your Mind and Your Docs Will Follow
   year: '2015'
@@ -317,6 +323,7 @@
   slug: judas-priest-ate-my-scrum-master-padams
   speakers:
   - name: Paul Adams
+    image: /_static/img/2015/eu/speakers/padams.png
     slug: padams
     twitter: therealpadams
   title: Judas Priest Ate My Scrum Master
@@ -339,7 +346,7 @@
     \ Yet, faced with a lack of resources, 'bend the rules and get\ngoing' sure beats\
     \ lethargy. Not to mention being fun...</p>\n\n<p>(And before you think I'll be\
     \ bringing back the dreaded mullet: the next\nMacGyver will be a woman, according\
-    \ to <a\nhref=\"http://thenextmacgyver.com\">http://thenextmacgyver.com</a>)\"\
+    \ to <a\nhref=\"https://twitter.com/thenextmacgyver\">https://twitter.com/thenextmacgyver</a>)\"\
     </p>\n"
   event: Write the Docs EU 2015
   path: conf/eu/2015/videos/macgyvering-your-docs-proeland
@@ -348,6 +355,7 @@
   slug: macgyvering-your-docs-proeland
   speakers:
   - name: Paul Roeland
+    image: /_static/img/2015/eu/speakers/paul_roeland-300px.jpg
     slug: proeland
     twitter: polyester
   title: MacGyvering your docs
@@ -369,6 +377,7 @@
   slug: inclusive-tech-docs-techcomm-meets-accessibility-rmatic
   speakers:
   - name: Radina Matic
+    image: /_static/img/2015/eu/speakers/RadinaMatic_headshot.jpg
     slug: rmatic
     twitter: RadinaMatic
   title: Inclusive Tech Docs - TechComm Meets Accessibility
@@ -401,6 +410,7 @@
   slug: imposter-no-more-how-tech-writers-can-shed-self-doubt-embrace-uncertainty-and-surf-the-upcoming-swerve-in-technical-documentation-rmacnamara
   speakers:
   - name: Riona MacNamara
+    image: /_static/img/2015/eu/speakers/rionam.jpg
     slug: rmacnamara
     twitter: rionam
   title: 'IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty,
@@ -426,6 +436,7 @@
   slug: visual-documentation-language-sheinen
   speakers:
   - name: Sonja Heinen
+    image: /_static/img/2015/eu/speakers/SHeinen_300x300.jpg
     slug: sheinen
     twitter: sonjaheinen
   title: Visual Documentation Language
@@ -447,6 +458,7 @@
   slug: writing-for-what-matters-writing-for-thinking-znemec
   speakers:
   - name: "Zden\u011Bk N\u011Bmec"
+    image: /_static/img/2015/eu/speakers/znemec.jpg
     slug: znemec
     twitter: zdne
   title: Writing for what matters. Writing for thinking.

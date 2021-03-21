@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/group.png
+:banner: _static/conf/images/headers/group.png
 
 Welcome Wagon
 =============
@@ -198,7 +198,7 @@ are some tips:
    the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow
    the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
    and review the `list of
-   speakers <http://http//www.writethedocs.org/conf/eu/2017/speakers/>`__.
+   speakers <http://www.writethedocs.org/conf/eu/2017/speakers/>`__.
 -  Figure out which companies will be represented at the conference. If
    you see a job post you're interested in, you might want to ask them a
    few questions. This might be a great time to better understand what

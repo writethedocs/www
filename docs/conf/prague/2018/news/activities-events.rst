@@ -29,7 +29,7 @@ Check out what we have in store for you this year in Prague:
 
 - **Unconference.** Parallel to the talks, you're welcome to join the `unconference sessions <https://www.writethedocs.org/conf/prague/2018/unconference/>`_. These freestyle sessions are a great opportunity to brainstorm with your fellow documentarians about anything from the latest tooling, the best way to write an email, or how to handle stress and burnout. You can signup for the unconference sessions during the Writing Day and will continue during the conference.
 
-- **Social Event.** This year our social event will be held at `Hoffa Bar, Senovážné Náměstí 22, Prague 1 <https://goo.gl/maps/b1egvQhoDxt>`_, a funky bar just around the corner from the main conference venue. The starting time will be 20:00, light snacks and drinks will be provided while our tab lasts. If you want a sit-down dinner we recommend to grab something before we kick off the evening. **Entrance is only for conference attendees**. We will provide you with wristbands when you check-in to the conference, but your badge should work as well. NOTE: The bar is locaed on the ground floor and is fully-accessible.
+- **Social Event.** This year our social event will be held at `Hoffa Bar, Senovážné Náměstí 22, Prague 1 <https://goo.gl/maps/b1egvQhoDxt>`_, a funky bar just around the corner from the main conference venue. The starting time will be 20:00, light snacks and drinks will be provided while our tab lasts. If you want a sit-down dinner we recommend to grab something before we kick off the evening. **Entrance is only for conference attendees**. We will provide you with wristbands when you check-in to the conference, but your badge should work as well. NOTE: The bar is located on the ground floor and is fully-accessible.
 
 - **Job Fair.** Following the success of the Portland job fair, we're happy to announce that during Tuesday morning, the unconference space will be converted to the job fair. The goal is to give job-seeking documentarians an opportunity to connect with potential employers. Documentarians looking for jobs will be able to visit employers at their table to learn about the company culture, ask about specific job openings and talk to current employees. If you're an employer looking to fill a roll, you can find information about reserving a table in the `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_.
 
@@ -47,7 +47,7 @@ Every year we are thrilled to welcome new documentarians into our community. Thi
 Conference shirts are still on sale
 -----------------------------------
 
-Another friendly reminder that our `T-Shirt Pop-Up Shop <https://teespring.com/wtd-prague-2018>`__ is still open on TeeSpring! The campaign will run until September 30th in case anyone wants to order their shirts after the conference, but we recommend to order at least 2-3 weeks before the conference if you want to sport your new threads.
+Another friendly reminder that our T-Shirt Pop-Up Shop is still open on TeeSpring! The campaign will run until September 30th in case anyone wants to order their shirts after the conference, but we recommend to order at least 2-3 weeks before the conference if you want to sport your new threads.
 
 And don't worry, you'll still have a Write the Docs Prague 2018 souvenir from the conference even if you decide not to order a shirt.
 

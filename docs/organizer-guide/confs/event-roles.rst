@@ -13,7 +13,7 @@ Primary Roles
 * **Conference chair**
 
   * This role wrangles all the wranglers
-  * Handles budgets and accounting
+  * Handles budgets and accounting.
   
 * **Swag Coordinator**
 
@@ -22,32 +22,33 @@ Primary Roles
     * Shirts
     * Stickers
     * Badges
-    * Extra fun stuff
+    * Extra fun stuff.
 
   * Order swag
 
-    * Find local vendors, or work with pre-existing WTD relationships
+    * Find local vendors, or 
+    * Work with pre-existing WTD relationships.
 
 * **Speaker wrangler** (details: :doc:`/organizer-guide/confs/cfp`) 
 
   * Arrange the CFP panel and proposal evaluation
-  * Write/edit and send emaails to accepted speakers before conference
+  * Write/edit and send emails to accepted speakers before the conference starts
   * Make sure speakers are cued up before their talks
-  * Provide for any speaker's special needs
+  * Provide for any speaker's special needs.
 
 * **Infrastructure chair**
 
   * Makes website updates
   * Takes care of CFP app registration
-  * Updates ticket purchase link and site
+  * Updates ticket purchase link and site.
 
 * **Local chair**
 
-  * Should be someone local to the city where the conference is held
+  * Should be someone local to the city where the conference is being held
   * Find venue; coordinate reservation and payment with conference chair
-  * Arrange/order meals
+  * Arrange/order meals.
 
-* **Writing Day coordinator** (details: :doc:`/conf/na/2016/writing-day`) 
+* **Writing Day coordinator** (details: :doc:`/conf/portland/2019/writing-day`)
 
   * Contact projects about participating
   * Present intro to the Writing Day at beginning
@@ -55,31 +56,31 @@ Primary Roles
   * Make it easier for folks to talk about the event, join projects, etc.
   * Coordinate with volunteers during the event for welcoming, directing, etc.
 
-* **Unconference coordinator** (details: :doc:`/conf/na/2016/unconference`) 
+* **Unconference coordinator** (details: :doc:`/conf/portland/2019/unconference`)
 
   * Set up space
   * Make boards for unconf
-  * Post schedule online, promote onstage
-  * Wrangle volunteers, making sure someone is welcoming folks to the space and orienting
+  * Post schedule online, and promote the schedule onstage
+  * Wrangle volunteers, making sure someone is welcoming folks to the space and orienting.
 
-* **Lightning Talk Coordinator** (details: :doc:`/conf/na/2016/lightning-talks`) 
+* **Lightning Talk Coordinator** (details: :doc:`/conf/portland/2019/lightning-talks`)
 
-  * Set up lightning talk sheet
-  * Point person for lightning talks
+  * Set up the lightning talk sheet/board
+  * Be the point person for lightning talks
   * MC lightning talks on stage
-  * Coordinate with lightning speakers prior to the slot (announce coming to stage during lunch)
+  * Coordinate with lightning speakers prior to the slot (announce coming to stage during lunch).
   
 * **Communication chair** (details: :doc:`/organizer-guide/confs/communication`) 
 
   * Write & send emails to the larger community 
   * Coordinate tweets about emails, events, etc.
         
-* **Volunteer coordinator** (details: :doc:`/organizer-guide/confs/volunteers`)
+* **Volunteer coordinator** (details: :doc:`/organizer-guide/confs/volunteer-coordination`)
 
   * Recruit volunteers
   * Keep communication going with volunteers 
   * Maintain volunteer shirt spreadsheet
-  * Serve as volunteer point person and backup during conference
+  * Serve as volunteer point person and backup during conference.
 
 * **Sponsorship lead** (details: :doc:`/organizer-guide/confs/sponsorship`)
 
@@ -87,36 +88,37 @@ Primary Roles
   * Invoice sponsors
   * Arrange day-of setup of sponsors, questions, etc.
   * Get sponsors on stage for their 30-60 sec slots
-  * Follow up with sponsors after event to get feedback
+  * Follow up with sponsors after event to get feedback.
 
 * **Explore <City> coordinator**
 
   * Put together list of dinner/places to stay recommendations
   * Help organize like-minded dinners
-  * Coordinate city tours, recommended sights
+  * Coordinate city tours, recommended sights.
 
 * **Welcome Wagon Coordinators**
 
   * Update welcome wagon guide
-  * Do Welcome Wagon events day of
-  * Be a shiny happy face
+  * Be the point person for Welcome Wagon events on the day
+  * Be a shiny happy face.
 
   
 * **Social media chair**
 
   * Handle Twitter announcements before, during, and after the conference
-  * Monitor and retweet community talking about event, etc (Twitter, blogs, more)
+  * Monitor and retweet community talking about event, etc (Twitter, blogs, more).
+  
 * **Speaker gift coordinator**
 
   * Confirm gift budget with conference chair
   * Purchase gifts
   * Put together gift bags
-  * Write/coordinate writing thank you cards (personalized)
+  * Write/coordinate writing thank you cards (personalized).
 
 * **Saturday Event Coordinator**
 
   * Write up hike/boat tour
-  * Message attendees
+  * Message attendees.
     
 Other Important Roles to Remember
 ---------------------------------
@@ -129,6 +131,8 @@ Other Important Roles to Remember
 
 * **Emcee** 
 
-  * Historically this person hasn't necessarily been one of the main organizers. Must be someone personable, 
-    with good voice and stage presence, but also good at keeping things brief, getting out of the way, and 
-    helping troubleshoot speaker issues as needed.
+  * Historically this person hasn't necessarily been one of the main organizers 
+  * Must be someone personable, with a calming tone and friendly stage presence 
+  * Must understand how to keep things brief, and say "just enough" to keep the conference flowing
+  * Must be comfortable with researching, preparing, and delivering speaker introductions
+  * A knowledge of audio-visual equipment usage is helpful, but not mandatory. 

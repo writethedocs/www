@@ -2,17 +2,11 @@
 Documentation Guide
 ===================
 
-This guide gathers the collective wisdom of the Write the Docs community around best practices for creating
-software documentation. 
+This guide gathers the collective wisdom of the Write the Docs community around best practices for creating software documentation.
 
-**This is a living, breathing guide.**
-If you'd like to contribute,
-you can read our :doc:`contributing <contributing>` documentation.
+**This is a living, breathing guide.** If you'd like to contribute, take a look at the :doc:`guidelines for contributing to the guide <contributing>`. If you have any questions about contributing, you can send them along to guide@writethedocs.org.
+
 Also feel free to send us any additions in any format to support@writethedocs.org.
-
-Take a look also at the :doc:`guidelines for contributing to the guide <contributing>`. If you have any questions about contributing, 
-you can send them along to guide@writethedocs.org too.
-
 
 New to Caring About Documentation?
 ----------------------------------
@@ -24,14 +18,15 @@ New to Caring About Documentation?
    starting
    writing/mindshare
    writing/docs-principles
-   
+   imposter
+
 
 Experienced Documentarian?
 --------------------------
 
 .. toctree::
    :maxdepth: 2
-  
+
    writing/style-guides
 
 * Structuring your Documentation
@@ -44,6 +39,7 @@ Approaches to Creating Docs
 
    docs-as-code
    Producing documentation inside a Support team <writing/support-team>
+   Starting-a-new-doc
 
 * Documentation and product development
 * Who writes the docs?
@@ -54,20 +50,14 @@ Markup Languages
 .. toctree::
    :maxdepth: 2
 
-   writing/Markdown_basics
+   writing/markdown
    writing/reStructuredText
-
-* Asciidoc
-    * Cheatsheet
-    * Tutorial
+   writing/xml
+   writing/asciidoc
 
 * reStructuredText
     * Cheatsheet
     * Tutorial
-
-* XML
-    * DITA
-    * DocBook
 
 Tools of the Trade
 ------------------
@@ -76,9 +66,37 @@ Tools of the Trade
    :maxdepth: 2
 
    tools/index
+   learn-git-contribute
 
+* Dictionaries
+    * `Merriam-Webster <https://www.merriam-webster.com/>`_
+    *  https://www.dictionary.com | https://www.thesaurus.com | https://www.vocabulary.com
+    * `Linguee <https://www.linguee.com/>`_ (phrases/idioms)
+    * `Lexique Pro <http://www.lexiquepro.com/>`_ (offline dictionary/term list builder…dated)
+* Grammar and Complexity
+    * `Center for plain language <https://centerforplainlanguage.org/>`_
+    * `Simple English Checker <https://www.online-utility.org/english/simple_basic_helper.jsp>`_
+    * `Acrolinx <https://www.acrolinx.com/>`_
+    * `Hemingway Editor <http://www.hemingwayapp.com/>`_
+    * `Grammarly <https://www.grammarly.com/>`_
+* SEO (Search Engine Optimization)
+    * `Headline Analyzer - <https://coschedule.com/headline-analyzer>`_
+* Translation Tools
+    * `Google Translate <https://translate.google.com>`_
+    * https://www.deepl.com/translator
+    * `X-bench <https://www.xbench.net/>`_
 * Keeping your documentation up to date
 * Jekyll
+
+Documentation Guides
+--------------------
+
+* `Dozuki Guide to Technical Writing <https://www.dozuki.com/tech_writing/>`_
+* `Hitchhiker’s Guide to Documentation <https://docs-guide.readthedocs.io/en/latest/>`_
+* `Wikiversity Technical Writing <https://en.wikiversity.org/wiki/Technical_writing>`_
+* `Write the Docs <http://www.writethedocs.org/guide/>`_
+
+.. _api-documentation:
 
 API Documentation
 -----------------
@@ -86,10 +104,17 @@ API Documentation
 .. toctree::
    :maxdepth: 2
 
-   api/about-api-documentation
    api/languages
    api/generating-documents
    api/testing
+
+UI Text
+-----------------
+
+.. toctree::
+   :maxdepth: 2
+
+   ux-writing
 
 Distribution
 ------------
@@ -115,6 +140,14 @@ Talks & slide decks
 
    presentations/index
 
+Examples
+--------
+
+Documentation comes in many variations. Here are some examples to inspire you:
+
+* `Stripe <https://stripe.com/docs>`_ Great example of API docs
+* `Google Material Design <https://material.io/design/>`_ Good examples of different layouts
+* `IBM Knowledge Center <https://www.ibm.com/support/knowledgecenter/en/>`_ solid examples of code that isn’t necessarily API
 
 Additional Notes
 ----------------
@@ -128,4 +161,8 @@ Additional Notes
 Write the Docs Resources
 ------------------------
 
-.. include:: /include/resources.rst
+* Conference: https://www.writethedocs.org/
+* Slack: `Write the Docs <http://slack.writethedocs.org/>`__
+* Twitter: http://twitter.com/writethedocs
+* Issues & feature requests: https://github.com/writethedocs/docs/issues
+* Source repository: https://github.com/writethedocs/docs

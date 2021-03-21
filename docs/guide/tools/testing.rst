@@ -16,7 +16,7 @@ and is a common practice in the software development world.
 
 We recommend checking out the following tools to get started:
 
-* `Travis CI <http://travis-ci.org>`_ (GitHub only, free for open source)
+* `Travis CI <https://travis-ci.org>`_ (GitHub only, free for open source)
 * `AppVeyor <https://www.appveyor.com/>`_ (Windows support, free for open source)
 
 Build Errors
@@ -34,7 +34,7 @@ If your build tool has a *picky* mode that flags warnings that *might* be
 problematic as well as errors, it might make sense to switch it on, but you'll
 want to make sure that your documentation is in good shape before you do.
 
-* Sphinx has `nitpicky mode <http://www.sphinx-doc.org/en/stable/config.html#confval-nitpicky>`_.
+* Sphinx has `nitpicky mode <https://www.sphinx-doc.org/en/stable/config.html#confval-nitpicky>`_.
 * Jekyll has `strict mode <https://jekyllrb.com/docs/configuration/#liquid-options>`_.
 
 Link Testing
@@ -54,12 +54,12 @@ These are the tools we know with proper link checking:
 Sphinx
 ~~~~~~
 
-Sphinx ships with a ``linkcheck`` `builder <http://www.sphinx-doc.org/en/stable/builders.html>`_ as a default.
+Sphinx ships with a ``linkcheck`` `builder <https://www.sphinx-doc.org/en/stable/builders.html>`_ as a default.
 You can run it with a simple::
 
     make linkcheck
 
-It's output looks something like this:
+Its output looks something like this:
 
 .. image:: /_static/img/guide/sphinx-linkcheck.png
 
@@ -69,7 +69,6 @@ Jekyll
 Jekyll has a few plugins that support link checking:
 
 * https://github.com/endymion/link-checker
-* https://github.com/fastly/jekyll-sanity-checker
 
 HTMLProofer
 ~~~~~~~~~~~
@@ -81,12 +80,12 @@ Style Guide Checking and Linting
 ----------------------------------
 
 Linters are tools that automatically verify specific rules against your code or
-documentation. This is useful for enforcing a style guide,or for catching
-commonly mitaken branding issues.
+documentation. This is useful for enforcing a style guide, or for catching
+commonly mistaken branding issues.
 
 Here are a few links that might be interesting:
 
-* https://www.mapbox.com/blog/retext-mapbox-standard/
+* https://blog.mapbox.com/regulating-english-with-retext-mapbox-standard-d79a8158f251
 * https://krausefx.com/blog/writing-automated-tests-for-your-documentation
 
 
@@ -97,14 +96,13 @@ Vale is a syntax-aware linter for prose built for speed and extensibility.
 
 https://github.com/errata-ai/vale
 
-It ships with the following default styles:
+You can use the following styles with Vale, although as of v2.0.0, Vale no longer includes these styles by default:
 
 * `Proselint <https://github.com/amperser/proselint>`_
 * `Write-good <https://github.com/btford/write-good>`_
 * `Joblint <https://github.com/rowanmanning/joblint>`_
 
-Several organizations have also created styles for use with Vale. Some of these
-styles have been collected in the following repository: https://github.com/testthedocs/vale-styles .
+You can also use an implementation of both the Microsoft Writing Style Guide and the Google Developer Documentation Style Guide with Vale. You can find these styles in the following repository: https://github.com/errata-ai/styles.
 
 To configure Vale, follow the instructions in the README. If needed, install
 the *vale* binary as an executable in your $PATH, so you can run *vale* directly

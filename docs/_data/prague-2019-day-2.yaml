@@ -1,0 +1,68 @@
+- Duration: '60'
+  Session: Doors Open, Breakfast Served
+  Time: '9:00'
+- Duration: '30'
+  Session: 'Ellie Farrier - Wild Geeks: Poetry in the Digital Age'
+  Slug: ellie-farrier
+  Time: '10:00'
+- Duration: '0'
+  Session: <b>Job Fair starts</b>
+  Time: '10:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '10:30'
+- Duration: '30'
+  Session: Jen Lambourne - The UK government meets docs as code
+  Slug: jen-lambourne
+  Time: '10:40'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '11:10'
+- Duration: '30'
+  Session: Prerana Pradhan - Fostering Technical Writing in Developing Nations
+  Slug: prerana-pradhan
+  Time: '11:20'
+- Duration: '20'
+  Session: Snack break
+  Time: '11:50'
+- Duration: '30'
+  Session: 'Arran Southall - Fostering Talent: Mentorship, Peer Reviews and Going
+    Beyond Your Job Description'
+  Slug: arran-southall
+  Time: '12:10'
+- Duration: '0'
+  Session: <b>Job Fair ends</b>
+  Time: '12:10'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '12:40'
+- Duration: '30'
+  Session: 'Aaron Collier - Seeing your docs through different eyes: Mapping doc users
+    experiences'
+  Slug: aaron-collier
+  Time: '12:50'
+- Duration: '60'
+  Session: Lunch
+  Time: '13:20'
+- Duration: '30'
+  Session: Lightning Talks
+  Time: '14:20'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '14:50'
+- Duration: '30'
+  Session: 'Plamena Maleva - The Power of Empathy in Support Documentation: A 5-Step
+    Guide'
+  Slug: plamena-maleva
+  Time: '15:00'
+- Duration: '10'
+  Session: Switch Speakers
+  Time: '15:30'
+- Duration: '30'
+  Session: 'Zachary Sarah Corleissen - Found in Translation: Lessons from a Year of
+    Open Source Localization'
+  Slug: zachary-sarah-corleissen
+  Time: '15:40'
+- Duration: null
+  Session: Conf wraps
+  Time: '16:10'

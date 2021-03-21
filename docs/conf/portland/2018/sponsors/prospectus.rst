@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/group.png
+:banner: _static/conf/images/headers/group.png
 
 Sponsorship Prospectus
 ######################
@@ -42,7 +42,7 @@ Demographics
 ============
 
 We hold two conferences yearly, one in Portland, USA in May, and one in
-Prague, Europe in September. Attendence is approximately 400 in the
+Prague, Europe in September. Attendance is approximately 400 in the
 USA and 250 in Europe, and we expect both conferences to sell out.
 
 Our audience is made up of:
@@ -266,12 +266,12 @@ What are the dates that sponsors need to know about in advance?
 How do I use get my free tickets?
 ---------------------------------
 
-You should have recieved a unique URL with a discount code for your free sponsorship tickets. We are happy to send it over again, just ask!
+You should have received a unique URL with a discount code for your free sponsorship tickets. We are happy to send it over again, just ask!
 
 What do I need for the job fair?
 --------------------------------
 
-The job fair will be a low key event. Every participant will have a six-foot table and two chairs, in a seperate room from the primary conference. Giveaways/flyers are welcome, but please keep your setup requirements simple.
+The job fair will be a low key event. Every participant will have a six-foot table and two chairs, in a separate room from the primary conference. Giveaways/flyers are welcome, but please keep your setup requirements simple.
 
 What happens with my swag items?
 --------------------------------
@@ -286,4 +286,4 @@ The small sponsorship table is a 6' table, and the large is two 6' tables. These
 How do I ship items?
 --------------------
 
-Prior to the event, if you'd like to ship swag, we will send you the mailing address **3 weeks** prior to the event. We can't recieve packages before that. Anything sent to us will be available at the venue on the day of the event.
+Prior to the event, if you'd like to ship swag, we will send you the mailing address **3 weeks** prior to the event. We can't receive packages before that. Anything sent to us will be available at the venue on the day of the event.

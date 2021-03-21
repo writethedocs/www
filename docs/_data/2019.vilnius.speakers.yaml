@@ -1,0 +1,62 @@
+- abstract: "In a world of technology, where not only developers and engineers need to read technical documents, content writers face the challenge of creating and explaining complex technical issues in a simple and accessible language. How to make it easier for documentarians to write about technology in a way that’s useful to both sides of the equation: people with technical knowledge and those without it?
+
+Nowadays, most digital products are created by cross-functional teams of engineers, designers, business analysts and marketing managers, all of whom have to read, understand and sometimes even contribute to the documentation. Moreover, in every area of business, people deal with having to read knowledge bases, tutorials and technical documents. That’s why writing documentation is a very hard task to accomplish. You have to make it both understandable and approachable to a wider audience.
+
+So far, many technical documents are still very complicated to the point of being almost impossible to understand for non-technical people. What’s more, many companies need to create two types of documents for different target audiences, which in many cases doesn’t make sense. In my talk, I’m going to show you how to write technical documents that are clear and useful to people with and without a technical background while still being full of valuable content and details."
+  slug: technically-you-can-creating-technical-content-for-all-audiences-malzgorzata-trojanowska
+  speakers:
+  - name: Małgorzata Trojanowska
+    slug: malzgorzata-trojanowska
+    twitter:
+    website: https://www.linkedin.com/in/malgorzata-trojanowska-403671155/
+  title: "Technically you can: creating technical content for all audiences"
+- abstract: "<p>You have inherited a behemoth of a doc set. The behemoth has grown organically over years, maybe decades. Over the course of its life, technologies have risen and fallen, paradigms have shifted, and writers have come and gone. \n\nYour behemoth is a heavyweight cargo freighter, transporting its burden of content in an undefined, and possibly undesirable direction. Users are lost, and all your stakeholders are breathing down your neck to breathe new life into the doc set. Untangle the Gordian knot of fragmented information, and provide lean, user-oriented topics! \n\nYou have probably already discovered that your doc set is rife with rabbit holes, construction sites and patches of improvement or despair. You know how to write good content. You have bright, fresh ideas. How on earth can you implement them with the sheer quantity of topics on board, and your extremely limited resources and time? You might feel like a passive passenger on your freight ship, with woefully inadequate equipment to steer it where you want to go.\n\nThis talk presents a structured approach that triggers and sustains an evolution rather than a revolution. I discuss how to identify the right starting points by collecting feedback and hard data from various sources (your stakeholders, traffic stats, support incidents, and knowledge bases). I present a tiered strategy that targets top-level content to deliver quick improvements to users. Resting on agile principles, I also show how to adapt your mindset for this type of endeavour.\n\nMy approach is based on a current project where my team and I are working to revamp a doc set that has tens of thousands of topics, written over the past 30 years."
+  slug: how-to-turn-a-freight-ship-around-when-all-you-have-is-a-paddle-elina-mccafferty
+  speakers:
+  - name: Elina McCafferty
+    slug: elina-mccafferty
+    twitter:
+    website:
+  title: How to turn a freight ship around when all you have is a paddle
+- abstract: "Microcopy are those small yet mighty clusters of words that (should) painlessly guide you through a form, app, or software product. While only bite-sized, this text has HUGE impact. \n\nOur text—whether for a mobile device or a monitor—needs to be crisp, valuable, and reflect the culture of its use. Let’s be honest, if you’re frustrated you won’t hold a product in high regard and will definitely think twice before you upgrade, renew maintenance or, very importantly, recommend.\nClear and intuitive microcopy significantly adds to user satisfaction. Our words, as UX content writers, must smoothly guide, instruct, and nudge them into action. \n\nEvery UX microcopy screen presents a new and exciting challenge! So, join me and learn from real-life, use-case scenarios some of the dos (yeah!) and don’ts (ouch!) for producing marvellous microcopy."
+  slug: omg-its-error-5-hadas-khen
+  speakers:
+  - name: Hadas Khen
+    slug: hadas-khen
+    twitter: HadasKhen
+    website:
+  title: OMG, it’s “Error 5”!
+- abstract: "Last fall, Ushahidi  initiated a project to improve the documentation for our Open Source users and restart our engagement with our community. We quickly realised that even if our documentation makes perfect sense to us, it is not as clear to new contributors and new colleagues.  We know all the hacks, workarounds and tricks to our code bases, so when we introduce the software to people that are unfamiliar with the project, the gaps show. It’s key that Open Source contributors have a smooth process when accessing what they need to do, and that the docs support this, otherwise we’ll never know if they drift away from the process.\n\nI’ll be talking about our lessons learned from running the project, what turned out to be confusing for our users and contributors, and how we will work to create better experiences for contributors from now on.\n"
+  slug: how-do-we-know-our-documentation-makes-sense-anna-iosif
+  speakers:
+  - name: Anna Iosif
+    slug: anna-iosif
+    twitter:
+    website:
+  title: How do we know our documentation makes sense?
+- abstract: The great majority of programmers agree that documentation is useful but not that many will take the time to write it. If code is the real source of truth, why bother writing documents that might soon get outdated? In this talk Filipe will tell you his story on how documentation helped ease the integration of new colleagues, how it promotes knowledge sharing and how it helped preventing internal disagreements.
+  slug: the-legend-of-documentation-a-markdown-to-the-past-filipe-mendes
+  speakers:
+  - name: Filipe Mendes
+    slug: filipe-mendes
+    twitter: fmendes6
+    website: http://www.fmendes6.com
+  title: "The Legend of Documentation: A markdown to the past"
+- abstract: "<p>For the past year, I have been working as one of the small number of tech writers in the Ethereum Blockchain space. As an emerging technology that has existed for only a handful of years, engineers are still figuring out what best practices mean to them. Roles such as tech writer, developer relations and support are even more recent hires, in an ecosystem that fluctuates so much. It's near impossible to remain up to date.\n\nThis has put those of us in these roles in a somewhat unique, challenging, and exciting position where we have been able to define what we think \"good\" documentation and communication should look like.\n\nIn this presentation, I share experiences (mine and others) from the past year, and techniques and ideas for those who find themselves as the first tech writer hire in a company, or indeed a new field.\n\nThe presentation includes:</p>
+
+<ul>
+<li>Helping engineers identify when projects are too complex</li>
+<li>Creating toolkits and sharing them around an ecosystem</li>
+<li>Cutting through scepticism and hype</li>
+<li>Keeping up to date with constantly changing technology</li>
+<li>Learning from and adapting experiences from other projects</li>
+<li>Funding improvements in developer experience and documentation</li>
+<li>Knowing when a project is no longer active and how to refocus efforts</li>
+</ul>"
+  slug: decentralised-documentation-defining-standards-for-an-ecosystem-chris-ward
+  speakers:
+  - name: Chris Ward
+    slug: chris-ward
+    twitter: chrischinch
+    website: http://chrischinchilla.com
+  title: Decentralised Documentation - Defining standards for an ecosystem

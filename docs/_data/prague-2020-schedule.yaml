@@ -1,0 +1,77 @@
+writing_day:
+  - time: '9:00'
+    title: 'Platform opens'
+  - time: '10:00'
+    title: Morning introduction - Introduction to Sprints & Project Introductions
+  - time: '10:15'
+    title: Team up and start working
+  - time: '13:30'
+    title: Lunch Break
+  - time: '18:00'
+    title: End of Writing Day
+
+talks_day1:
+  - time: '9:00'
+    title: 'Platform opens'
+  - time: '10:00'
+    title: Write the Docs Team - Introduction to Write the Docs
+  - time: '10:45'
+    title: "<b>Unconference Starts</b>"
+  - time: '10:45'
+    slug: from-graffiti-writer-to-technical-writer-kruno-golubi
+  - time: '11:30'
+    slug: organizing-a-confluence-hoard-or-does-this-page-spark-joy-abigail-sutherland
+  - time: '12:15'
+    slug: documenting-the-ancient-history-of-your-project-natali-vlatko
+  - time: '13:00'
+    title: Lunch (60 mins)
+  - time: '14:00'
+    title: Lightning Talks (40 mins)
+  - time: '14:55'
+    slug: the-baseline-or-technical-writing-for-non-technical-readers-paul-brown
+  - time: '15:30'
+    slug: remote-job-on-boarding-top-10-things-we-can-do-better-karen-sawrey
+  - time: '16:15'
+    slug: making-documentation-discoverable-in-search-engines-myriam-jessier
+  - time: '17:00'
+    slug: a-journey-to-pattern-languages-andrew-haynes
+  - time: '17:45'
+    slug: bake-a-little-documentation-love-into-your-product-matt-reiner
+  - time: '18:30'
+    title: Day 1 wraps up
+  - time: '19:30'
+    title: '<b>Social Event</b>'
+  - time: '21:30'
+    title: '<b>Social Event Ends</b>'
+
+talks_day2:
+  - time: '9:00'
+    title: 'Platform opens'
+  - time: '10:00'
+    slug: the-importance-of-using-analytics-and-feedback-for-your-documentation-karissa-van-baulen
+  - time: '10:45'
+    title: "<b>Job Fair Starts (open until lunch)</b>"
+  - time: '10:45'
+    slug: helping-your-community-contribute-to-developer-documentation-diana-lakatos
+  - time: '11:30'
+    slug: the-rocky-road-to-docops-chris-noonan
+  - time: '12:15'
+    slug: emulating-the-teacher-s-approving-nod-in-teaching-material-tanks-transfeld
+  - time: '13:00'
+    title: Lunch (60 mins)
+  - time: '14:00'
+    title: Lightning Talks (30 mins)
+  - time: '14:45'
+    title: "<b>Unconference Starts</b>"
+  - time: '14:45'
+    slug: how-to-be-an-avante-garde-guinea-pig-building-better-content-through-experimentation-community-building-and-loud-squeaks-jessica-valasek-estenssoro
+  - time: '15:30'
+    slug: need-examples-write-your-own-joe-malin
+  - time: '16:15'
+    slug: future-proofing-your-support-visuals-jen-weaver
+  - time: '17:00'
+    slug: when-wishing-still-helped-what-folklore-can-teach-us-about-technical-writing-ingrid-k-towey
+  - time: '17:45'
+    title: Closing address
+  - time: '18:00'
+    title: "<b>Conference Ends</b> :("

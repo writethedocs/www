@@ -13,7 +13,7 @@ Facts
 -  We will have a lapel mic for you, so you don’t need to hold a microphone.
 -  We will provide HDMI, USB-C and MiniDisplay port adapters.
 -  The more you practice your talk, the more comfortable you'll be.
-   In addition to practicing by yourself, we strongly reccomend you
+   In addition to practicing by yourself, we strongly recommend you
    run through it in front of at least one other human.
 -  If you want to get some of that sweet internet buzz for your talk,
    we use the #writethedocs hashtag throughout the event.
@@ -77,7 +77,11 @@ Here are a few other tidbits to remember:
    visible to everyone.
 -  Include your Twitter handle on your slides, so people can properly
    attribute your brilliance :)
--  Slides should be 16:9 resolution
+
+{% if about.projector_ratio %}
+-  The aspect ratio for slides should be {{ about.projector_ratio }}.
+{% endif %}
+
 -  Have an offline PDF backup of your slides, just in case :)
 
 Christina Elmore gave a great talk that is relevant to many of us at our

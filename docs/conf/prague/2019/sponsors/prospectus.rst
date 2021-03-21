@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2019/assets/headers/prague-group.png
+:banner: _static/conf/images/headers/prague-group.png
 
 Sponsorship Prospectus
 ######################
@@ -40,7 +40,7 @@ Demographics
 ============
 
 We hold two conferences yearly, one in Portland, USA in May, and one in
-Prague, Europe in September. Attendence is approximately 400 in the
+Prague, Europe in September. Attendance is approximately 400 in the
 USA and 250 in Europe, and we expect both conferences to sell out.
 
 Our audience is made up of:
@@ -129,7 +129,7 @@ The **Publisher** package costs **{{sponsorship.publisher.price}}**.
 Patron
 ------
 
-Limit 2 (**One remaining**)
+Limit 2 
 
 The **Patron** package highlights your company as a force in the industry and community:
 
@@ -147,7 +147,7 @@ The **Patron** package costs **{{sponsorship.patron.price}}**.
 Keystone
 --------
 
-Limit 1 (**Sold Out**)
+Limit 1 
 
 The **Keystone** package highlights you as our main community partner:
 
@@ -182,7 +182,7 @@ and many of those people will come to our job fair to look for new roles and pos
 
 It is included in all sponsorship packages this year.
 
-- **Logistics**: The Job Fair will be Tuesday morning in {{job_fair.location}}. You can see the timing details on the :ref:`schedule <{{shortcode}}-{{year}}-job-fair>`.
+- **Logistics**: The Job Fair will be Tuesday morning in {{about.job_fair_room}}. You can see the timing details on the :ref:`schedule <{{shortcode}}-{{year}}-job-fair>`.
 
 - **Layout**: Every participant will have a table and two chairs reserved for them. Giveaways/flyers are welcome, please make sure everything fits on your table.
 
@@ -193,7 +193,7 @@ Lanyard
 
 Provide your branded lanyards for our badges. This makes your company name visible to each and every attendee at the conference!
 
-**{{sponsorship.lanyard.price}}**
+**{{sponsorship.second_draft.price}}**
 
 - **Logistics**: Sponsor is responsible for shipping lanyards to organizers at least two weeks before the event starts.
 
@@ -203,7 +203,7 @@ Writing Day
 Sponsor the Writing Day on Sunday, where we get together to help improve the documentation of many projects.
 This is great for any company that is looking for contributors to their open source projects.
 
-**{{sponsorship.writing_day.price}}**
+**{{sponsorship.second_draft.price}}**
 
 - **Logistics**: The Writing Day runs 10-5 on Sunday.
 
@@ -266,7 +266,7 @@ What are the dates that sponsors need to know about in advance?
 How do I use get my free tickets?
 ---------------------------------
 
-You should have recieved a unique URL with a discount code for your free sponsorship tickets. We are happy to send it over again, just ask!
+You should have received a unique URL with a discount code for your free sponsorship tickets. We are happy to send it over again, just ask!
 
 What do I need for the job fair?
 --------------------------------
@@ -281,4 +281,4 @@ We will have a few "swag tables" that are placed around the back of the main bal
 How do I ship items?
 --------------------
 
-Prior to the event, if you'd like to ship swag, we will send you the mailing address **3 weeks** prior to the event. We can't recieve packages before that. Anything sent to us will be available at the venue on the day of the event.
+Prior to the event, if you'd like to ship swag, we will send you the mailing address **3 weeks** prior to the event. We can't receive packages before that. Anything sent to us will be available at the venue on the day of the event.

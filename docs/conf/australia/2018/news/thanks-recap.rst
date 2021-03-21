@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/{{year}}/assets/headers/venue.png
+:banner: _static/conf/images/headers/venue.png
 
 .. post:: Dec 3, 2018
    :tags: recap, thanks, australia-2018

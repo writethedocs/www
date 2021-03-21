@@ -1,5 +1,4 @@
-{%- set key_int = key|int -%}
-{%- set talk = data[key_int] -%}
+{%- set talk = data[key] -%}
 
 .. raw:: html
 
@@ -21,6 +20,12 @@
         {% autoescape false %}
         {{ talk.abstract|indent(8) }}
         {% endautoescape %}
+      {% endif %}
+
+      {% if talk.slides %}
+      <ul class="slides">
+        <li>Slides: <a href="{{ talk.slides }}">{{ talk.slides }}</a></li>
+      </ul>
       {% endif %}
 
       <ul class="video-info">

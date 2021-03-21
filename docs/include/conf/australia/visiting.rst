@@ -1,87 +1,74 @@
-Visiting Melbourne
+Visiting Sydney
 ==================
 
-Wondering where to stay and how to get around once you get into Melbourne?
+Wondering where to stay and how to get around once you get into Sydney?
 
-Travelling to Melbourne
+Travelling to Sydney
 -----------------------
 
-Melbourne has many direct rail, bus, or flight connections from most cities in Australia.
-International flights arrive direct to `Melbourne Airport <http://melbourneairport.com.au/>`_ from many global hubs across Asia Pacific and US regions.
+Sydney has many direct rail, bus, or flight connections from most cities in Australia.
+International flights arrive direct to `Sydney Airport <https://www.sydneyairport.com.au/>`_ from many global hubs across Asia Pacific and US regions.
+
+From Sydney Airport, it’s a 15 minute train ride to the centre of Sydney. You can also catch a taxi, Uber or shuttle bus (Redy2go).
+Read more about the `transport options <https://www.sydneyairport.com.au/info-sheet/transport-options-international>`_ to and from Sydney airport.
 
 **Flights**
 
-Melbourne's two airports, `Tullamarine`_ and `Avalon`_, provide access to many full service and low cost airlines, such as Qantas, Virgin, Jetstar and Tiger Airways.
-From the airport, it is an easy 30 minute taxi or shuttle bus ride (Airbus) to the Melbourne CBD.
+Sydney's international airport, `Kingsford Smith`_, provides access to many full service and low cost airlines, such as Qantas, Virgin, Jetstar and Tiger Airways.
 
-.. _Avalon: https://www.avalonairport.com.au/
-.. _Tullamarine: http://melbourneairport.com.au/
+.. _Kingsford Smith: https://www.sydneyairport.com.au/
 
 **Trains**
 
-Melbourne is accessible by a direct train from Sydney (XPT train) `route 621
-<https://transportnsw.info/routes/details#/regional-trains/621/76621>`_ or
-`route 623
-<https://transportnsw.info/routes/details#/regional-trains/623/76623>`_. Bus and
-coach services or train/bus transfers are available `from other cities
-<https://www.ptv.vic.gov.au/getting-around/interstate-travel/>`_.
+Sydney is serviced by the `XPT trains <https://transportnsw.info/regional/regional-train-fleet-facilities/xpt-regional-trains>`_ that travel to Sydney from major cities Melbourne, Brisbane, Dubbo and the `XPLORER trains <https://transportnsw.info/regional/regional-train-fleet-facilities/xplorer-regional-trains>`_ from Griffith, and Canberra.
 
 **Buses**
 
-You can get to Melbourne from Adelaide (`Firefly Express`_) or Canberra
-(`Murrays`_, `Greyhound`_) using the bus or coach services.
+To find out more about travelling to Sydney on buses, see
 
-.. _Firefly Express: https://www.fireflyexpress.com.au/FFNew/Index.asp
-.. _Murrays: https://www.murrays.com.au/ExpressBooking.aspx
-.. _Greyhound: https://www.greyhound.com.au/travel-info/popular-routes/melbourne-canberra
+- `Greyhound <https://www.greyhound.com.au/>`_
+- `Murray Coaches <https://www.murrays.com.au/>`_
+- `Firefly Express <https://www.fireflyexpress.com.au/>`_
 
-Getting around Melbourne
+Getting around Sydney
 ------------------------
 
-**CBD free tram zone**
+Sydney has a network of trains, light rail, buses, and ferries to help you get around the city. Head to the `Transport NSW website <https://transportnsw.info/>`_ to plan your trip.
 
-Public transport is plentiful and the `free tram zone <https://www.ptv.vic.gov.au/getting-around/visiting-melbourne/#p8>`_ makes it
-easy to get around the CBD.
+`Opal <https://transportnsw.info/tickets-opal/opal>`_ is the ticketing system used to pay for all public transport in Sydney.
+You’ll need to tap on and off to pay your fare. You can buy Opal cards (as well as single trip tickets) at most train, light rail and ferry stops.
 
-**Public transport beyond the CBD**
+If you’re catching buses, it’s a good idea to buy your ticket in advance, as some routes are `PrePay <https://transportnsw.info/travel-info/ways-to-get-around/bus/opal-only-prepay-only-buses>`_ or ‘Opal only’.
+Learn more about `PrePay buses <https://transportnsw.info/travel-info/ways-to-get-around/bus/opal-only-prepay-only-buses>`_
 
-If you wish to travel beyond the CBD via tram, train or bus, you will need to
-purchase a Myki card ($6) from train stations, the visitors information centre
-at Federation Square, newsagencies and many 7/11 stores. Find your `nearest
-retail outlet
-<https://www.ptv.vic.gov.au/tickets/myki/buy-a-myki/myki-retail-outlets/>`_.
-
-The cards need to be topped up with funds before travel, using either `myki
-Money or a myki Pass <https://www.ptv.vic.gov.au/tickets/myki/top-up-a-myki/>`_.
-This can be done where you purchase your card.
-
-A `Myki Explorer <https://www.ptv.vic.gov.au/tickets/myki/buy-a-myki/myki-explorer/>`_
-($15) provides you with a Myki card and a full day of travel, along with transport maps
-and discounts to popular destinations.
-
-`Public transport maps. <https://www.ptv.vic.gov.au/getting-around/maps/>`_
-
-Google maps, the PTV app or the Citymapper app can all help you navigate the
-public transport system.
-
-**Taxi, Shebah**
+**Taxi, Shebah, Uber, Ola**
 
 Taxi ranks exist around the city.
 
 `Shebah <http://shebah.com.au/>`_ is a ridesharing service by women, for women.
 
-**Bikes**
+`Uber <https://www.uber.com/au/en/ride/>`_ is another way to get direct transport. Just use the Uber app to order your ride.
 
-Melbourne has two bike sharing services available: `Melbourne bike share <https://www.melbournebikeshare.com.au/>`_ and `oBike <https://www.o.bike/>`_.
+`Ola <https://ola.com.au/>`_ is also another affordable way to get direct transport. Use the Ola app to order rides.
 
-You will need to provide your own bike helmet as they are compulsory: there are
-retailers near bike sharing stations that will `sell you a helmet
-<https://www.melbournebikeshare.com.au/how-it-works/faq.html>`_ for $5.
+Getting to the conference
+--------------------------
+
+Our conference venue is the Justice and Police Museum, which is located one street back from Circular Quay.
+
+**Trains**
+The closest train station is Circular Quay Station (a short walk to the Justice and Police Museum).
+
+**Bus**
+Catch the bus to Circular Quay.
+
+**Ferry**
+Cruise over the harbour to the Circular Quay Terminal.
 
 Where to stay
 -------------
 
-Melbourne offers accommodation options to suit a wide range of budgets and travelling preferences. There are plenty of hotels, airbnb, apartments and other options in the Melbourne CBD.
+Sydney offers accommodation options to suit a wide range of budgets and travelling preferences. There are plenty of hotels, airbnb, apartments and other options in the Sydney CBD.
 Just head over to your favourite booking site or use one of these sites to research accommodation:
 
 * AirBnB
@@ -93,19 +80,26 @@ Just head over to your favourite booking site or use one of these sites to resea
 Where to eat
 ------------
 
-There is strong reason to believe that Melbourne is indeed the food capital of Australia. Experience the best of Melbourne in it's range of restaurants, cafes, bistros and bars.
-We will be located at Docklands for the event and it is within a 5 km radius of tons of good cafes, restaurants and eating places to experience.
+Sydney has a great range of food options to suit every budget. The harbour is a major tourist attraction, so expect to pay a little more for restaurants around Circular Quay and the Rocks.
+
+If you want to explore areas outside the CBD, you can find fantastic restaurants, cafes, bars and pubs in Sydney’s inner suburbs.
+Head to your favourite city guide for reviews and recommendations:
+
+- `Sydney.com - food and wine guide <https://www.sydney.com/things-to-do/food-and-wine>`_
+- `Timeout <https://www.timeout.com/sydney/restaurants-cafes>`_
+- `Concrete Playground <https://concreteplayground.com/sydney>`_
+- `Broadsheet <https://www.broadsheet.com.au/sydney/food-and-drink>`_
+
 
 What else to do
 ---------------
 
-* `Victorian Writers Centre <https://writersvictoria.org.au/>`_
-* `State Library <https://www.slv.vic.gov.au/>`_
-* `Fed Square <http://fedsquare.com/>`_
-* `National Gallery Victoria <https://www.ngv.vic.gov.au/>`_
-* `Southbank <https://www.southgatemelbourne.com.au/>`_
-* `Docklands <http://www.harbourtownmelbourne.com.au/>`_ - Melbourne Star, ArtVo exhibition, Dialogue in the Dark
-* `St Kilda <http://stkildamelbourne.com.au/>`_ (the pier, the `penguins <http://stkildapenguins.com.au/skp/>`_, Acland street for cakes and food)
-* `Half price tix <http://www.halftixmelbourne.com/>`_
-* `Walking tours <https://whatson.melbourne.vic.gov.au/visitors/tours/walkingtouroperators/Pages/WalkingTourOperators.aspx>`_: from free, to haunted, to chocoholics to laneways to graffiti to anything you can think of
-* And `plenty more <https://whatson.melbourne.vic.gov.au/Pages/SearchResults.aspx?range=24/11/2017,24/11/2017>`_...
+Want to see more of Sydney while you’re here? There are plenty of places to explore.
+
+- Take a `ferry <https://transportnsw.info/routes/ferry>`_ from Circular Quay for great views of the Sydney Opera House and the Sydney Harbour Bridge.
+- Venture to one of Sydney’s `famous beaches <https://www.sydney.com/things-to-do/beach-lifestyle>`_. The `Bondi to Coogee walk <https://www.sydney.com/destinations/sydney/sydney-east/bondi/attractions/bondi-coogee-coastal-walk>`_ has fantastic views of the Sydney coastline.
+- Take a walk around the Sydney Opera House, `Mrs Macquarie’s chair <https://www.sydney.com/destinations/sydney/sydney-city/city-centre/attractions/mrs-macquaries-chair-sydney>`_ and the `Royal Botanic Gardens <https://www.rbgsyd.nsw.gov.au/>`_.
+- Head to one of Sydney’s cultural institutions, like the `Museum of Contemporary Art <https://www.mca.com.au/>`_, `Art Gallery of NSW <https://www.artgallery.nsw.gov.au/>`_, `Maritime Museum <https://www.sea.museum/>`_ or `Australian Museum <https://australianmuseum.net.au/>`_.
+- Go shopping at the `Queen Victoria Building <https://www.qvb.com.au/>`_.
+
+For more travel ideas, head to `sydney.com <https://www.sydney.com/>`_
