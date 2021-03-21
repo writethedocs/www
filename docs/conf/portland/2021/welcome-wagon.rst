@@ -22,7 +22,7 @@ Where to get help
 -----------------
 
 Conference Intro and Tour
-~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 Join our our Conference Intro and Tour on Sunday, April 25th at 12:30 pm PST by going to **Sessions** and selecting **Conference Intro and Tour**. Your Welcome Wagon will take you on a tour of the virtual conference platform and show you how to navigate the conference. Learn tips and tricks, meet other attendees, and get to know how the conference works. This session is open to everyone, whether this is your first conference or your fifth.
 
 Guides
