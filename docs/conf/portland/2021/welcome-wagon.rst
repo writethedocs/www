@@ -129,7 +129,7 @@ Lead an unconference session
 
 - Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
 {% if flaghasschedule %}
-- Look for an empty slot on the `https://docs.google.com/spreadsheets/d/1bE3_p0EkfPrcQzfbPj-7B0mGZQwzOo2V10jEqiVQ6hk/edit#gid=0>`__, and add your Unconference topic. There will be a time and a table number for each slot.
+- Look for an empty slot on the `Unconference sign-up <{{unconf.url}}>`__, and add your Unconference topic. There will be a time and a table number for each slot.
 {% else %}
 - Look for an empty slot on the Unconference sign-up, and add your Unconference topic. There will be a time and a table number for each slot.
 {% endif %}
@@ -150,7 +150,7 @@ Join an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 {% if flaghasschedule %}
-- Starting Monday morning, check the `https://docs.google.com/spreadsheets/d/1bE3_p0EkfPrcQzfbPj-7B0mGZQwzOo2V10jEqiVQ6hk/edit#gid=0>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
+- Starting Monday morning, check the`Unconference sign-up <{{unconf.url}}>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
 - At the time the session starts, go to **Sessions** and select the session with the table number that corresponds to the one in the `Unconference schedule <{{unconf.url}}>`__.
 {% else %}
 - Starting Monday morning, check the Unconference schedule to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
