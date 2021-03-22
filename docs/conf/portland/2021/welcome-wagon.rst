@@ -30,7 +30,7 @@ Guides
 
 You can prepare for the conference by reading through this guide. Don’t worry if you forget any of it – there will be a recording you can watch in the Helpdesk booth. Select **Expo** > **Write the Docs Helpdesk** to watch it anytime.
 
-You can also watch the video directly from our `YouTube channel <https://youtu.be/aLtnc0ITzok>`_.
+You can also watch the video directly from our `YouTube channel <https://youtu.be/aLtnc0ITzok>`__.
 
 Helpdesk
 ~~~~~~~~
@@ -45,7 +45,7 @@ If you want to contact one of the conference organizers, go to the **People** ta
 Slack
 ~~~~~
 
-We'll also be posting important conference updates on the `#wtd-conferences channel in Slack <https://writethedocs.slack.com/archives/C1AKFQATH>`_. For example, if there are technical issues, we'll share the back-up stream link there as well.
+We'll also be posting important conference updates on the `#wtd-conferences channel in Slack <https://writethedocs.slack.com/archives/C1AKFQATH>`__. For example, if there are technical issues, we'll share the back-up stream link there as well.
 
 Reception: Your home base
 -------------------------
