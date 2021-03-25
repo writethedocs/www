@@ -177,6 +177,9 @@ sponsors:
     - name: twilio
       link: https://www.twilio.com/
       brand: Twilio
+    - name: slack
+      link: https://slack.com/
+      brand: Slack
   second:
     - name: knowledgeowl
       link: https://www.knowledgeowl.com
