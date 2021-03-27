@@ -6,6 +6,8 @@ Schedule
 Write the Docs is more than a conference.
 Each year we organize a wide range of events so that people can come together, collaborate, and learn from each other in different ways.
 
+All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
+
 .. contents::
     :local:
     :depth: 1
@@ -28,7 +30,9 @@ The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion
 If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
 
 * **Where**: Lower Macleay Park or Macleay Park Entrance.
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_two.hike_time }} {{ tz }}**
+{% endif %}
 * **Details**: :doc:`Annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/outing>`
 
 {% endif %}
@@ -61,7 +65,9 @@ Writing Day
 ~~~~~~~~~~~
 
 * **Where**: {{about.venue}}
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_two.writing_day_time }} {{ tz }}**
+{% endif %}
 * **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
 .. separator to fix list formatting
@@ -85,7 +91,9 @@ We encourage everyone to drop by on Sunday evening for the conference reception.
 We're hoping to have some fun activities planned for the evening online.
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_two.reception_time }} {{ tz }}**
+{% endif %}
 
 {% endif %}
 
@@ -110,7 +118,9 @@ Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_three.talk_time }} {{ tz }}**
+{% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session at the end of their talk.
@@ -133,7 +143,9 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_three.unconference_time }} {{ tz }}**
+{% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Social Event
@@ -145,7 +157,9 @@ but expect some music and games,
 and bring your favorite beverage to your computer :)
 
 * **Where**: {{ about.social_venue }}
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_three.social_time }} {{ tz }}**
+{% endif %}
 
 
 .. raw:: html
@@ -168,7 +182,9 @@ Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_four.talk_time }} {{ tz }}**
+{% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session at the end of their talk.
@@ -193,7 +209,9 @@ Job Fair
 We'll be holding a job fair on Tuesday morning!
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_four.job_fair_time }} {{ tz }}**
+{% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
 
 {% endif %}
@@ -204,5 +222,7 @@ Unconference
 The unconference sessions run in parallel to the main conference talks.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
+{% if not flaghasschedule %}
 * **When**: **{{ date.day_four.unconference_time }} {{ tz }}**
+{% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
