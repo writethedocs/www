@@ -23,6 +23,8 @@ We will announce the CFP soon.
     :depth: 1
     :backlinks: none
 
+{% if flagcfp %}
+
 Ready to submit your talk?
 You can do that here:
 
@@ -33,6 +35,8 @@ You can do that here:
         <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}">Submit your proposal</a>
         </div>
     </div>
+
+{% endif %}
 
 Conference goals
 ----------------
@@ -149,9 +153,12 @@ If speaking incurs any costs that are difficult for you to cover, please `let us
 
 If you already have a ticket, we will of course refund it - just drop us an email at `{{email}} <mailto:{{email}}>`_.
 
-{% if flagcfp %}**You’ll hear from us with our proposal decisions by the end of {{cfp.notification}}.**{% endif %}
+{% if flagcfp %}
+**You’ll hear from us with our proposal decisions by the end of {{cfp.notification}}.**
 
 All talks will be shown prerecorded, and we'll be asking for a **completed video from you by {{cfp.video_by}}**. We have a host of options to support you in making this happen, including the possibility of a live recording call with our videographer. During the conference we'll ask you to participate in a moderated Q&A video session after your talk recording is shown.
+
+{% endif %}
 
 Note that all Speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides will need to follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
 

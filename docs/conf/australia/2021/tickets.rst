@@ -44,7 +44,7 @@ Ticket Types
 ------------
 
 
-{% if flaghasshirts %}
+{% if shirts and flaghasshirts %}
 
 .. class:: ticket
 
@@ -102,7 +102,7 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 ---------------------
 
 If you can't afford these prices and still wish to attend, you can apply for our grant program.
-{% if grants.ends and grants.url %}
+{% if grants and grants.ends and grants.url %}
 You can apply until **{{ grants.ends }}, Midnight {{ tz }}** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
 {% else %}
 Grant applications will open soon.
