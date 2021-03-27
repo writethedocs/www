@@ -67,9 +67,9 @@ buttons:
 
 tickets:
   corporate:
-    price: €125
+    price: €150
   independent:
-    price: €75
+    price: €100
   student:
     price: €25
 
@@ -77,17 +77,17 @@ sponsorship:
   second_draft:
     price: €1,500
   publisher:
-    price: €3,500
+    price: €3,000
   patron:
-    price: €7,500
+    price: €6,500
   keystone:
-    price: €13,500
+    price: €12,500
 
 
 date: # how do we handle these? human readable would be nice.
   main: "**October 3-5, 2021, online**"
   short: Oct 3-5, 2021
-  tickets_live: "XXXX 2021"
+  tickets_live: "April 2021"
   month: October
   # Conference is special for the index to show the combined conference days
   conference:
@@ -129,7 +129,7 @@ date: # how do we handle these? human readable would be nice.
   total_talk_days: 2
 
 about:
-  attendees: 600
+  attendees: 400
   summary:
     "The main presentation track takes place on **October 4-5 (Monday and Tuesday) from 10:00 to 18:00**.
     During the main event we also run an :doc:`/conf/prague/2021/unconference`."

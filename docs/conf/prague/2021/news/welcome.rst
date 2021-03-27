@@ -26,13 +26,13 @@ Call for Proposals
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
 
-We plan to launch our CFP in early XXXX and have it last until sometime in XXXX.
+We plan to launch our CFP in early May and have it last until sometime in June.
 Get started coming up with ideas for the conference now.
 
 Tickets
 -------
 
-Tickets will officially go on sale in **XXXXX {{ year }}**.
+Tickets will officially go on sale in **April {{ year }}**.
 We will announce ticket prices soon,
 so that you can start planning your budget.
 As with the previous years, we have tiered pricing to make it fair for everyone.
