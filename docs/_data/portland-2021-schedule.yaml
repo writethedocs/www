@@ -1,5 +1,5 @@
 writing_day:
-  - time: '8:00'
+  - time: '8:00 <a href="https://time.is/PT">Pacific</a>'
     title: 'Platform opens'
   - time: '9:00'
     title: Morning introduction - Introduction to Sprints & Project Introductions
@@ -11,7 +11,7 @@ writing_day:
     title: End of Writing Day
 
 talks_day1:
-  - time: '8:00'
+  - time: '8:00 <a href="https://time.is/PT">Pacific</a>'
     title: Platform opens
   - time: '9:00'
     title: Write the Docs Team - Introduction to Write the Docs
@@ -47,7 +47,7 @@ talks_day1:
     title: "<b>Social Event Ends</b>"
 
 talks_day2:
-  - time: '8:00'
+  - time: '8:00 <a href="https://time.is/PT">Pacific</a>'
     title: Platform opens
   - time: '9:00'
     slug: documentation-communities-sound-strategy-or-documentarian-s-gambit-laura-novich
