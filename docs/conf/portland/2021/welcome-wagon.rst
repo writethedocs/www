@@ -261,7 +261,7 @@ Do I have to be on video during the conference?
 How do I see what’s happening right now?
 - Go to Reception to see the talk schedule.
 - Go to the Write the Docs website to view the `_full schedule <https://www.writethedocs.org/conf/portland/2021/schedule/>`__.
-- View the `_Integrated schedule <https://docs.google.com/spreadsheets/d/1bE3_p0EkfPrcQzfbPj-7B0mGZQwzOo2V10jEqiVQ6hk/edit#gid=0>`__ to see what Writing Day and Unconference sessions are happening.
+- View the `_Integrated schedule <{{unconf.url}}>`__ to see what Writing Day and Unconference sessions are happening.
 - Go to the Expo to view Sponsor Booths.
 - If it’s Tuesday morning, go to the Expo to view the Job Fair.
  
