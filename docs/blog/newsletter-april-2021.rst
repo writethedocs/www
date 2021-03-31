@@ -8,9 +8,7 @@ Write the Docs Newsletter – April 2021
 
 Hello everybody! It's Beth and the team, here with the Write the Docs newsletter for April.
 
-Hopefully you'll be pleased to hear we've resisted any tempation to include an April Fool's prank. But I wouldn't want you to think that we're no fun, so here is `a delightful poem about the stuck ship in the Suez canal <https://twitter.com/krfabian/status/1374798847650709504>`__ by a friend of mine.
-
-No big announcements for you this month, but things are ticking along nicely. Portland's coming up in a few weeks, and tickets `are still available </conf/portland/2021/tickets/>`__. If you're undecided, check out the `full schedule </conf/portland/2021/news/announcing-schedule/>`__.
+No big announcements for you this month, but things are ticking along nicely. Portland's coming up in a few weeks, and tickets `are still available </conf/portland/2021/tickets/>`__ - they'll be on sale until about a week before the conference. If you're undecided, check out the `full schedule </conf/portland/2021/news/announcing-schedule/>`__.
 
 On to our stories from the WTD Slack. We've got plenty for you this month, including how to counter the idea that "nobody reads the docs", the pros and cons of publishing a reading time, and a new feature from the #bipoc channel on what they've been reading recently!
 
@@ -66,13 +64,13 @@ Finally, editing challenges are sometimes not about words but relationships. Som
 What we're reading/listening to/watching
 ----------------------------------------
 
-The #bipoc group's been reading the following materials on diversity, inclusion, and equity. Want to join the conversation? Join us in the #bipoc slack channel!
+The #bipoc group's been discussing the following materials on diversity, inclusion, and equity. Want to join the conversation? Join us in the #bipoc slack channel!
 
-**Small**: `Words Matter: Finally, Tech Looks at Removing Exclusionary Language <https://thenewstack.io/words-matter-finally-tech-looks-at-removing-exclusionary-language>`__ by Jennifer Riggins, June 2020. It discusses the tech industry’s look at the language it uses, because words do matter.
+For a short read, check out: `Words Matter: Finally, Tech Looks at Removing Exclusionary Language <https://thenewstack.io/words-matter-finally-tech-looks-at-removing-exclusionary-language>`__ by Jennifer Riggins, June 2020. It discusses the tech industry’s look at the language it uses, because words do matter.
 
-**Medium**: `BLM, inclusivity and techcomm <https://www.podbean.com/media/share/pb-tj8zk-e0f292>`__ from The Cherryleaf Podcast discusses what technical communicators can do at work and elsewhere. It’s an older episode, but still relevant in today’s landscape. Be sure to click `view more` for the links discussed in the episode.
+If you have a little more time, you can listen to: `BLM, inclusivity and techcomm <https://www.podbean.com/media/share/pb-tj8zk-e0f292>`__ from The Cherryleaf Podcast discusses what technical communicators can do at work and elsewhere. It’s an older episode, but still relevant in today’s landscape. Be sure to click `view more` for the links discussed in the episode.
 
-**Large**: `We Need To Talk About Anti-Asian Hate <https://youtu.be/14WUuya94QE>`__ by The Try Guys. This video talks about everything from the history of Asian immigration to the United States, to the current wave of hate crimes being committed, to what you can do to help. It’s divided into chapters, which makes viewing it easier in smaller chunks.
+If you can invest more than an hour, there's: `We Need To Talk About Anti-Asian Hate <https://youtu.be/14WUuya94QE>`__ by The Try Guys. This video talks about everything from the history of Asian immigration to the United States, to the current wave of hate crimes being committed, to what you can do to help. It’s divided into chapters, which makes viewing it easier in smaller chunks.
 
 ------------------
 Featured job posts
