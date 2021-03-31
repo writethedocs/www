@@ -72,6 +72,40 @@ If you have a little more time, you can listen to: `BLM, inclusivity and techcom
 
 If you can invest more than an hour, there's: `We Need To Talk About Anti-Asian Hate <https://youtu.be/14WUuya94QE>`__ by The Try Guys. This video talks about everything from the history of Asian immigration to the United States, to the current wave of hate crimes being committed, to what you can do to help. It’s divided into chapters, which makes viewing it easier in smaller chunks.
 
+----------------
+From our sponsor
+----------------
+
+This month’s newsletter is sponsored by `Paligo <https://bit.ly/3fuibKK>`__:
+
+.. raw:: html
+
+    <hr>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
+      <tbody>
+        <tr>
+          <td width="75%">
+              <p>
+              <a href="https://bit.ly/3fuibKK">Paligo is an all-in-one cloud-based CCMS platform.</a> Authoring, versioning, branching, release workflows, publishing, translation management, and more - all updated continuously in the cloud. No more worrying about locally installed software and deployment!
+              </p>
+
+              <p>
+              <a href="https://bit.ly/2UV2uCQ">Read the case study</a> to learn more.
+              </p>
+          </td>
+          <td width="25%">
+            <a href="https://bit.ly/3fuibKK">
+              <img style="margin-left: 15px;" alt="Paligo" src="/_static/img/sponsors/paligo.png">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
+
+*Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
+
+
 ------------------
 Featured job posts
 ------------------
