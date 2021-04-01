@@ -40,7 +40,7 @@ Reading times on articles
 
 What do you think of having an estimated reading time at the top of an article? In a poll in #general, 48 of 75 respondents said they ignore them: they assume the estimate is wrong or it just doesn't affect whether they read the article. Seventeen respondents said these estimates *are* helpful in deciding whether to read the article now or later. The other 10 respondents said they were less inclined to read articles with estimated reading times, either because they seem too long or too short.
 
-Aside from the poll, the resulting discussion turned up some interesting points about these reading times. For example, the estimates are unlikely to be accurate, due to different reading speeds, different perspectives about what is "long" or "short," and how much time people have free when they encounter the article. Some content calls for close reading and other content is more skimmable, and that assessment also differs from person to person. 
+Aside from the poll, the resulting discussion turned up some interesting points about these reading times. For example, the estimates are unlikely to be accurate, due to different reading speeds, different perspectives about what is "long" or "short," and how much time people have free when they encounter the article. Some content calls for close reading and other content is more skimmable, and that assessment also differs from person to person.
 
 Why have an estimated reading time at all? One answer is time management: readers can read shorter articles right away and save longer articles for when they have more free time. Another could be better reader engagement, as argued by Michael Marchese in `Why it's important to add an estimated reading time <https://www.tempestamedia.com/questions/why-its-important-to-add-an-estimated-reading-time/>`__. Checking that would be a good topic for A/B testing.
 
@@ -54,7 +54,7 @@ Plenty of us do more rewriting than writing. Some are full or part-time editors;
 
 Several documentarians agreed that the most important way to improve your editing is to edit more. Don't just read books or take training courses.
 
-That said, it's still interesting to read tips from great editors! Some recommendations: *On Writing Well* by Zinsser, *Bryson’s Dictionary for Writers and Editors* by Bill Bryson, *On Writing* by Stephen King; *The Elements of Eloquence* by Mark Forsyth; *The Sense of Style* by Steven Pinker; *The Oxford Style Manual* by OUP; *First You Write a Sentence* by Joe Moran. One documentarian got huge value from the Chartered Institue for Editing and Proofreading's resources and forums. 
+That said, it's still interesting to read tips from great editors! Some recommendations: *On Writing Well* by Zinsser, *Bryson’s Dictionary for Writers and Editors* by Bill Bryson, *On Writing* by Stephen King; *The Elements of Eloquence* by Mark Forsyth; *The Sense of Style* by Steven Pinker; *The Oxford Style Manual* by OUP; *First You Write a Sentence* by Joe Moran. One documentarian got huge value from the Chartered Institue for Editing and Proofreading's resources and forums.
 
 Another tip was to understand why the "rules" are there. Digging into linguistics and anthropology can help you figure out if a rule is actually helpful or not. And a grammar reference like *The Gregg Reference Manual* can be helpful day-to-day.
 
@@ -76,7 +76,7 @@ If you can invest more than an hour, there's: `We Need To Talk About Anti-Asian 
 From our sponsor
 ----------------
 
-This month’s newsletter is sponsored by `Paligo <https://bit.ly/3fuibKK>`__:
+This month’s newsletter is sponsored by `Redocly <https://redoc.ly/?utm_source=writethedocs&utc_campaign=newsletter>`__:
 
 .. raw:: html
 
@@ -86,16 +86,16 @@ This month’s newsletter is sponsored by `Paligo <https://bit.ly/3fuibKK>`__:
         <tr>
           <td width="75%">
               <p>
-              <a href="https://bit.ly/3fuibKK">Paligo is an all-in-one cloud-based CCMS platform.</a> Authoring, versioning, branching, release workflows, publishing, translation management, and more - all updated continuously in the cloud. No more worrying about locally installed software and deployment!
+              Organizations of varying sizes rely on Redocly for enhancing their developer experience, by leveraging the full power of OpenAPI to make it more interactive and user-friendly.
               </p>
 
               <p>
-              <a href="https://bit.ly/2UV2uCQ">Read the case study</a> to learn more.
+              Let us help you transform your OpenAPI definition into comprehensive and interactive documentation. Read more about Redocly's suite of API products at <a href="https://redoc.ly/?utm_source=writethedocs&utc_campaign=newsletter">https://redoc.ly/</a>.
               </p>
           </td>
           <td width="25%">
-            <a href="https://bit.ly/3fuibKK">
-              <img style="margin-left: 15px;" alt="Paligo" src="/_static/img/sponsors/paligo.png">
+            <a href="https://redoc.ly/?utm_source=writethedocs&utc_campaign=newsletter">
+              <img style="margin-left: 15px;" alt="Paligo" src="/_static/img/sponsors/redocly.png">
             </a>
           </td>
         </tr>
