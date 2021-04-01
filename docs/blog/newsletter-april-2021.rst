@@ -76,7 +76,7 @@ If you can invest more than an hour, there's: `We Need To Talk About Anti-Asian 
 From our sponsor
 ----------------
 
-This month’s newsletter is sponsored by `Redocly <https://redoc.ly/?utm_source=writethedocs&utc_campaign=newsletter>`__:
+This month’s newsletter is sponsored by `Redocly <https://redoc.ly/?utm_source=writethedocs&utm_campaign=newsletter>`__:
 
 .. raw:: html
 
@@ -90,11 +90,11 @@ This month’s newsletter is sponsored by `Redocly <https://redoc.ly/?utm_source
               </p>
 
               <p>
-              Let us help you transform your OpenAPI definition into comprehensive and interactive documentation. Read more about Redocly's suite of API products at <a href="https://redoc.ly/?utm_source=writethedocs&utc_campaign=newsletter">https://redoc.ly/</a>.
+              Let us help you transform your OpenAPI definition into comprehensive and interactive documentation. Read more about Redocly's suite of API products at <a href="https://redoc.ly/?utm_source=writethedocs&utm_campaign=newsletter">https://redoc.ly/</a>.
               </p>
           </td>
           <td width="25%">
-            <a href="https://redoc.ly/?utm_source=writethedocs&utc_campaign=newsletter">
+            <a href="https://redoc.ly/?utm_source=writethedocs&utm_campaign=newsletter">
               <img style="margin-left: 15px;" alt="Paligo" src="/_static/img/sponsors/redocly.png">
             </a>
           </td>
