@@ -12,3 +12,4 @@ docs/meetups/events.rst
 .idea
 .vscode
 docs/_data/mc-info.yaml
+docs/_scripts/mc-info.md
