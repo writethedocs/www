@@ -56,7 +56,6 @@ Members
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_ ``@jrondeau`` *
 * `Janine Chan <https://www.linkedin.com/in/janinechan/>`_ ``@janine``
 * `Daniel Beck <https://twitter.com/ddbeck>`_ ``@ddbeck``
-* `Mike Jang <https://twitter.com/themikejang>`__ ``@mikejang``
 * `Eric Holscher <https://twitter.com/ericholscher>`_ ``@ericholscher``
 * `Samuel Wright <https://twitter.com/plaindocs>`_ ``@plaindocs``
 * You?
