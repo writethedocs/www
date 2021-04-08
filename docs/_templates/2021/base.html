@@ -83,7 +83,7 @@
     {% if "sponsors/index" not in pagename and flaghassponsors %}
     <div class="sponsors-footer">
         <div class="uk-container">
-        <h2 class="uk-first-column">Sponsors</h2>
+        <h2 class="uk-first-column"><a href="/conf/{{ shortcode }}/{{ year }}/sponsors/">Sponsors</a></h2>
             {% include year_str  + "/sponsors.html" %}
             {% include year_str  + "/sponsors-media.html" ignore missing %}
             <div class="learn-more">
