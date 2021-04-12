@@ -66,20 +66,22 @@ Primary Roles
 -------------
 
 * **Conference chair** - Eric Holscher
-* **Conference co-chair** - *TBD*
 * **Code of conduct response** - See `code of conduct </code-of-conduct/#reporting-and-contact-information>`_ page
 * **Speaker coordinator** - Samuel Wright
-* **Unconference coordinator** - TBD
-* **Lightning Talk coordinator** - TBD
-* **Infrastructure coordinator** - TBD
-* **Swag coordinator** - TBD
-* **Communication coordinator** - TBD
-* **Job Fair coordinator** - TBD
-* **Welcome Wagon coordinators** - TBD
-* **Sponsorship coordinator** - TBD
-* **Writing Day coordinator** - TBD
-* **Volunteer coordinator** - TBD
-* **Emcee** - TBD
-* **Social media coordinator** - TBD
+* **Unconference coordinator** - Jennifer Rondeau
+* **Lightning Talk coordinator** - Rose Williams
+* **Job Fair coordinator** - Mike Jang, Eric Holscher
+* **Welcome Wagon coordinators** - Christy Lutz, Alicia Lewis, Mo Nishiyama
+* **Writing Day coordinator** - Rose Williams, Jennifer Rondeau
+* **Emcee** - Andrea Kao, Janine Chan
+* **Q&A moderator** - Jennifer Rondeau, Christy Lutz
+* **Social media coordinator** - Mo Nishiyama
+* **Communication coordinator** - Mikey Ariel
+* **Sponsorship coordinator** - Eric Holscher
+* **Hopin infrastructure coordinator** - Sasha Romijn
+* **Website and email support** - Samuel Wright
+* **Swag coordinator** - Mikey Ariel
+
+
 
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
