@@ -72,6 +72,7 @@ Primary Roles
 * **Lightning Talk coordinator** - Rose Williams
 * **Job Fair coordinator** - Mike Jang, Eric Holscher
 * **Welcome Wagon coordinators** - Christy Lutz, Alicia Lewis, Mo Nishiyama
+* **Attendee and speaker technical support** - Alex Fornuto
 * **Writing Day coordinator** - Rose Williams, Jennifer Rondeau
 * **Emcee** - Andrea Kao, Janine Chan
 * **Q&A moderator** - Jennifer Rondeau, Christy Lutz
