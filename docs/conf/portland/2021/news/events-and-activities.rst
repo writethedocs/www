@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Apr 12, 2021
+.. post:: Apr 15, 2021
    :tags: {{year}}, portland-{{year}}, tickets
 
 Get Ready for the Conference!
@@ -41,7 +41,7 @@ Write the Docs is more than a conference. Every year we make sure to have a vari
 * **Lightning Talks.** We'll have `lightning talks <https://www.writethedocs.org/conf/portland/{{year}}/lightning-talks/>`__ each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required. Sign-up for lightning talks will be posted on Monday and Tuesday morning, and the selected talks will be announced before the lunch break on each day.. 
 * **Unconference.** We'll be running the `Unconference <https://www.writethedocs.org/conf/portland/{{year}}/unconference/>`_ all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.
 * **Job Fair**. As with the previous few years, on Tuesday morning we'll have a `job fair <https://www.writethedocs.org/conf/portland/{{year}}/job-fair>`_ where you can find your next documentarian friendly job.
-* **Social event**. On Monday night the main stage will be closed, and we will switch to social mode! We will be using a different platform for some of the social event, and we will post the link for the social space during the day on Monday. You're welcome to run sessions for board games, trivia quizzes, karaoke, or any other social activity that you want to share with your fellow documentarians.
+* **Social event**. On Monday night the main stage will be closed, and we will switch to social mode! We will be using a spatial chat platform for the social event this year, and we will post the link for the social space during the day on Monday. It will be much closer to a "real life" social where attendees can move between different rooms and group conversations, and the `Pac-Man Rule <https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/>`_ even works!
 * **Conference Help Desk**. If you have any questions about navigating the virtual event, we'll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.
 
 The `Schedule page <https://www.writethedocs.org/conf/portland/{{year}}/schedule/>`_ has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.
