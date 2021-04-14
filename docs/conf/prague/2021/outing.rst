@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-{% if shortcode == 'prague' %}
+{% if shortcode == '{{ shortcode }}'%}
 :banner: _static/conf/images/headers/group.png
 
 Write the Docs Boat Ride

@@ -152,7 +152,7 @@ sponsors:
 
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: True
 flagcfp: False
 flagticketsonsale: False
@@ -160,7 +160,7 @@ flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
 flaghasschedule: False
-flaghasunconf: False
+flaghasunconf: True
 flaghasshirts: True
 flagvideos: False
 flaglivestreaming: False
