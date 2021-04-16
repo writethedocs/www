@@ -33,8 +33,7 @@ enthusiasts available to help you get started. We even made a `get started video
 
 Here are a few ways you can contribute to the Trino open source project:
 
-- `Review our doc readme <https://github.com/trinodb/trino/tree/master/docs>`_, 
-   perfect for first time contributors.
+- `Review our doc readme <https://github.com/trinodb/trino/tree/master/docs>`_ perfect for first time contributors.
 - `Improve our docs <https://trino.io/docs/current/>`_, we made an `issues filter <https://github.com/trinodb/trino/issues?q=is%3Aopen+label%3Adocs+label%3A%22good+first+issue%22>`_ to help you find ways to contribute. 
    - Edit an existing document, perfect for first time contributors. 
    - Add terms to our glossary, perfect for first time contributors. 
