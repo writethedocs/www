@@ -151,13 +151,15 @@ sponsors:
   patron:
   publisher:
   second:
-  first:
+    - name: peopletext
+      link: https://www.people-text.de/en/home-en.html
+      brand: people text
 
 
 # Things that change over time, listed in order of change
 flaglanding: True
-flaghassponsors: False
 flagcfp: True
+flaghassponsors: True
 flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: False
