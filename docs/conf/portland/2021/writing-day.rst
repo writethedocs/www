@@ -28,23 +28,23 @@ Trino project
 ^^^^^^^^^^^^^
 
 `Trino <https://trino.io>`_ is a fast distributed SQL query engine for big data
-analytics. We’re excited to join you Write the Docs, this is our first `Writing Day <https://trino.io/blog/2021/04/14/wtd-writing-day.html>`_! We’ll have Trino
-enthusiasts available to help you get started, we even made `a video to help you get started <https://youtu.be/yseFM3ZI2ro>`_.
+analytics. We’re excited to join you Write the Docs. This is our first `Writing Day <https://trino.io/blog/2021/04/14/wtd-writing-day.html>`_! We’ll have Trino
+enthusiasts available to help you get started. We even made a `get started video <https://youtu.be/yseFM3ZI2ro>`_ to help you begin your journey as a Trino contributer.
 
-Here’s a few ways you can contribute to the Trino open source project:
+Here are a few ways you can contribute to the Trino open source project:
 
 - `Review our doc readme <https://github.com/trinodb/trino/tree/master/docs>`_, 
    perfect for first time contributors.
 - `Improve our docs <https://trino.io/docs/current/>`_, we made an `issues filter <https://github.com/trinodb/trino/issues?q=is%3Aopen+label%3Adocs+label%3A%22good+first+issue%22>`_ to help you find ways to contribute. 
-   - Edit an existing document, perfect for
+   * Edit an existing document, perfect for
    first time contributors. 
-   - Add terms to our glossary, perfect for first time
+   * Add terms to our glossary, perfect for first time
    contributors. 
-   - Add missing feature info in existing docs.
+   * Add missing feature info in existing docs.
 - Test our docs and provide feedback.
-    - `Learn Trino SQL on Docker <https://www.youtube.com/watch?v=y58sb9bW2mA>`_, we made a video to help folks test,
+    - `Learn Trino SQL on Docker <https://www.youtube.com/watch?v=y58sb9bW2mA>`_, we made a video to help folks test.
 
-We love new community members, join us on the `Trino Slack <https://trino.io/slack.html>`_ on the `#documentation channel <https://trinodb.slack.com/messages/C01TEP0HJTH>`_ and `favorite the Trino project <https://github.com/trinodb/trino>`_ on GitHub.
+We love new community members. Join us on the `Trino Slack <https://trino.io/slack.html>`_ on the `#documentation channel <https://trinodb.slack.com/messages/C01TEP0HJTH>`_ and `favorite the Trino project <https://github.com/trinodb/trino>`_ on GitHub.
 
 Write the Docs Meetups
 ^^^^^^^^^^^^^^^^^^^^^^
