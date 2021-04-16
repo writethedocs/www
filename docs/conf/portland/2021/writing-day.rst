@@ -15,13 +15,21 @@ Schedule
 Your Project Here
 -----------------
 
+The Good Docs Project
+^^^^^^^^^^^^^^^^^^^^^
+The `Good Docs Project <https://thegooddocsproject.dev/>`_ is an open source community of technical writers, doc tools experts, and software engineers who are committed to improving the quality of documentation in open source by creating the templates, tools, and resources to empower everyone to create great docs. Come visit our table at Writing Days to provide feedback and collaborate with some of our working group captains on some of our key 2021 initiatives:
+
+- **Templates for community docs** - Every open source community should have some baseline community documentation like a good README, Contributing Guide, PR and issue templates, Code of Conduct, etc. Come provide feedback and suggest improvements on our drafts of templates for some of these core community docs.
+- **Docs advocacy and education** - Part of improving docs in open source is getting buy-in from developers about why docs matter and the best practices. Come see our proof of concept storyboards and discuss some of our ideas for an ongoing series of short videos that will promote documentation fundamentals and best practices.
+- **Easy button for docs setup** - One of the biggest hurdles to creating good documentation is setting up your initial documentation toolchain. Come collaborate with our docs tool experts who are working on creating a Hugo/Docsy repository that can be easily cloned to set up a new documentation system for a project.
+- **Industrial fiction** - Our goal is to provide good examples of our project's templates being used in an actual project. To accomplish this goal, we're creating our own fake open source project that can be used to generate documentation examples. Come help us build both the world and the documentation for The Chronologue, a fake open source tool that helps future time travelers sync their clocks across multiple dimensions.
+
 Write the Docs Meetups
 ----------------------
 
-Organizing local Write the Docs meetup communities is a rewarding way to participate. During Writing Day, we'll have a table where we can share tips and best practices, espcially in this time where all of our meetups are virtual.
+Organizing local Write the Docs meetup communities is a rewarding way to participate. During Writing Day, we'll have a table where we can share tips and best practices, especially in this time where all of our meetups are virtual.
 
 During the conference
 ---------------------
 
-Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet` for a quick reference that you can use during the conference to make the most out of Writing Day. 
-
+Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet` for a quick reference that you can use during the conference to make the most out of Writing Day.
