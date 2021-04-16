@@ -242,23 +242,27 @@ Pro tips
 - In case of technical issues with our main platform Hopin, please watch the `#wtd-conferences Slack channel <https://writethedocs.slack.com/archives/C1AKFQATH>`_ for status updates and alternative viewing links that might be posted.
 
 FAQs
------------------
+----
 
 Are the talks recorded?
-- Stage talks and Q&A sessions are recorded. Videos will be published in the ` -Write the Docs Video Archive <https://www.writethedocs.org/videos/>`__ shortly after the conference (typically about a week after the conference ends).
+
+- Stage talks and Q&A sessions are recorded. Videos will be published in the `Write the Docs Video Archive <https://www.writethedocs.org/videos/>`__ shortly after the conference (typically about a week after the conference ends).
 - Other sessions (such as Unconference, Hallway, and Writing Day sessions) are not recorded.
 
 How do I get into the virtual conference?
+
 - Getting into the conference is a two-step process.
 - You buy a ticket, and then you get a link to register. During this registration process, you will get a link to get into the conference.
 
 Do I have to be on video during the conference?
+
 - You can choose whether to share your video during the conference, including during Unconference sessions. Select the Video Camera icon to turn on and off your video.
 - You can also share your screen during an Unconference. Select the Monitor icon to share your screen. Multiple people can share their screens at once.
 - Select the Settings icon to change your audio or video settings.
 - To make someone’s screen larger, double-click on it.
  
 How do I see what’s happening right now?
+
 - Go to Reception to see the talk schedule.
 - Go to the Write the Docs website to view the `_full schedule <https://www.writethedocs.org/conf/portland/2021/schedule/>`__.
 - View the `_Integrated schedule <{{unconf.url}}>`__ to see what Writing Day and Unconference sessions are happening.
@@ -266,16 +270,20 @@ How do I see what’s happening right now?
 - If it’s Tuesday morning, go to the Expo to view the Job Fair.
  
 Someone sent me a message at the conference. Where can I see it?
+
 - In the Chat tool, you can toggle between viewing People (a list of attendees) and Messages (a list of the messages you sent and received).
  
 I want to tag someone in a comment in chat. Why isn’t it working?
+
 - The widget to search for users to tag in chat goes away while it's searching (which makes people think that it's not working) so just wait a bit.
  
 How do I ask a question to the speakers?
+
 - There’s a Q&A session after each talk in Sessions. In Chat, enter your question preceded by a Q:. The moderators will send your question to the speaker.
 - If your question isn’t answered during Q&A, you can reach out to the speaker directly in Chat by selecting the People tab and sending them a direct message.
 
 How should I prepare for the Job Fair?
+
 - Each Job Fair booth participant will run their booth differently.
 - Typically, the booth will be staffed, so when you select it, you will be able to join a video chat with someone from the company or Chat with them in the booth chat.
 - There may be other people on the same video call with you, so be prepared to introduce yourself to booth staff and other job seekers.
@@ -283,6 +291,7 @@ How should I prepare for the Job Fair?
 - Some booths will not be staffed, but will have a video or text information about applying for jobs at the company.
 
 I’m having a technical issue. What can I try?
+
 - Try refreshing your browser. This can solve many technical issues.
 - Try using a different browser.
 - If you are using Chrome, try using Incognito mode.
@@ -294,9 +303,11 @@ I’m having a technical issue. What can I try?
 - Log into your company’s VPN. If you are logged in, try logging out.
 - Check that your router is not blocking streaming.
 - Try a different computer.
+
 If none of these work, reach out to the Help Desk for help. Select Expo > Helpdesk and ask your question in the Chat.
 
 What can I do at the conference?
+
 - You can watch talks, participate in the Unconference, visit the Job Fair, talk to our sponsors, give a Lightning Talk, and chat with other conference attendees. If you need help with any of it, reach out to the Welcome Wagon at Expo > Help Desk.
 
 Where can I learn more?
