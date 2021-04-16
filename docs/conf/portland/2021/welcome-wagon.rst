@@ -303,6 +303,7 @@ I’m having a technical issue. What can I try?
 - Log into your company’s VPN. If you are logged in, try logging out.
 - Check that your router is not blocking streaming.
 - Try a different computer.
+
 If none of these work, reach out to the Help Desk for help. Select Expo > Helpdesk and ask your question in the Chat.
 
 What can I do at the conference?
