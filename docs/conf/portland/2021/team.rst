@@ -80,7 +80,7 @@ Primary Roles
 * **Communication coordinator** - Mikey Ariel
 * **Sponsorship coordinator** - Eric Holscher
 * **Hopin infrastructure coordinator** - Sasha Romijn
-* **Website and email support** - Samuel Wright
+* **Website and email support** - Samuel Wright, Sasha Romijn
 * **Swag coordinator** - Mikey Ariel
 
 
