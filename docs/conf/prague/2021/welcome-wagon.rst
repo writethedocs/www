@@ -128,7 +128,7 @@ Lead an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
-{% if unconf.url %}
+{% if unconf and unconf.url %}
 - Look for an empty slot on the `Unconference sign-up <{{unconf.url}}>`__, and add your Unconference topic. There will be a time and a table number for each slot.
 {% else %}
 - Look for an empty slot on the Unconference sign-up, and add your Unconference topic. There will be a time and a table number for each slot.
@@ -149,7 +149,7 @@ Tips for your unconference session
 Join an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-{% if unconf.url %}
+{% if unconf and unconf.url %}
 - Starting Monday morning, check the`Unconference sign-up <{{unconf.url}}>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
 - At the time the session starts, go to **Sessions** and select the session with the table number that corresponds to the one in the `Unconference schedule <{{unconf.url}}>`__.
 {% else %}
@@ -265,7 +265,7 @@ How do I see what’s happening right now?
 
 - Go to Reception to see the talk schedule.
 - Go to the Write the Docs website to view the `_full schedule <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/>`__.
-{% if unconf %}
+{% if unconf and unconf.url %}
 - View the `_Integrated schedule <{{unconf.url}}>`__ to see what Writing Day and Unconference sessions are happening.
 {% else %}
 - View the Integrated schedule to see what Writing Day and Unconference sessions are happening.

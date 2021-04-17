@@ -31,7 +31,7 @@ Lead a session
 
 To lead an unconf session, propose a topic and pick a time; unconf sessions are scheduled for the same time slots as talks on the main stage.
 
-{% if flaghasschedule %}
+{% if unconf and unconf.url %}
 
 Sessions take place in Hopin, but you propose a session by adding your topic to a timeslot and table number in the  `Unconference sign-up sheet <{{unconf.url}}>`__.
 
@@ -60,7 +60,7 @@ Keep in mind the following tips (inspired by the “Open Space Technology” inf
 Attend a session
 ----------------
 
-{% if flaghasschedule %}
+{% if unconf and unconf.url %}
 
 * Starting Monday morning, check the `Unconference sign-up sheet <{{ unconf.url }}>`__ to see whether there are any sessions you want to join. New sessions are added all the time, so check back periodically.
 
