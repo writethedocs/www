@@ -9,7 +9,7 @@ Writing Day
 Schedule
 --------
 
-- Date & Time: **{{date.day_two.dotw}}, {{date.day_two.date}}, 9:30-17:00 {{tz}}**.
+- Date & Time: **{{date.day_two.dotw}}, {{date.day_two.date}}, {{date.day_two.writing_day_time}} {{tz}}**.
 - Location: **{{about.venue}}**.
 
 Your Project Here
