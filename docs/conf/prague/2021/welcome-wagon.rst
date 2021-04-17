@@ -128,7 +128,9 @@ Lead an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
+
 {% if unconf and unconf.url %}
+
 - Look for an empty slot on the `Unconference sign-up <{{unconf.url}}>`__, and add your Unconference topic. There will be a time and a table number for each slot.
 {% else %}
 - Look for an empty slot on the Unconference sign-up, and add your Unconference topic. There will be a time and a table number for each slot.
@@ -149,7 +151,9 @@ Tips for your unconference session
 Join an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 {% if unconf and unconf.url %}
+
 - Starting Monday morning, check the`Unconference sign-up <{{unconf.url}}>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
 - At the time the session starts, go to **Sessions** and select the session with the table number that corresponds to the one in the `Unconference schedule <{{unconf.url}}>`__.
 {% else %}
@@ -242,6 +246,7 @@ Pro tips
 - In case of technical issues with our main platform Hopin, please watch the `#wtd-conferences Slack channel <https://writethedocs.slack.com/archives/C1AKFQATH>`_ for status updates and alternative viewing links that might be posted.
 
 FAQs
+
 ----
 
 Are the talks recorded?
