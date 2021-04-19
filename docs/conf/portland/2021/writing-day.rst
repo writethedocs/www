@@ -65,7 +65,7 @@ For more information, see our `GitLab issue <https://gitlab.com/gitlab-org/techn
 When you find an issue you want to work on:
 
 #. Inform the GitLab team that you're working on an issue.
-   add a comment that mentions `@gl-docsteam` (or tell us in person!).
+   Add a comment that mentions `@gl-docsteam` (or tell us in person!).
 #. Create a merge request with your proposed changes.
 
 After your merge request is reviewed and merged, it will appear on the docs site
