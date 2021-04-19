@@ -33,11 +33,14 @@ Here are a few ways you can contribute to the `Trino open source docs <https://t
 
 - Review our `doc readme <https://github.com/trinodb/trino/tree/master/docs>`_ perfect for first time contributors.
 - Improve our docs, we made an `issues filter <https://github.com/trinodb/trino/issues?q=is%3Aopen+label%3Adocs+label%3A%22good+first+issue%22>`_ to help you find ways to contribute. 
-   - Edit an existing document, perfect for first time contributors. 
-   - Add terms to our glossary, perfect for first time contributors. 
-   - Add missing feature info in existing docs.
+
+  - Edit an existing document, perfect for first time contributors. 
+  - Add terms to our glossary, perfect for first time contributors. 
+  - Add missing feature info in existing docs.
+
 - Test our docs and provide feedback.
-    - `Learn Trino SQL on Docker <https://www.youtube.com/watch?v=y58sb9bW2mA>`_, we made a video to help folks test.
+  
+  - `Learn Trino SQL on Docker <https://www.youtube.com/watch?v=y58sb9bW2mA>`_, we made a video to help folks test.
 
 We love new community members. Join us on the `Trino Slack <https://trino.io/slack.html>`_ on the `#documentation channel <https://trinodb.slack.com/messages/C01TEP0HJTH>`_ and `favorite the Trino project <https://github.com/trinodb/trino>`_ on GitHub.
 
