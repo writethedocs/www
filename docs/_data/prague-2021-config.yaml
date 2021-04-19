@@ -17,8 +17,8 @@ photos:
 
 buttons:
   top:
-    - text: Welcome to our conference
-      link: /news/welcome
+#    - text: Welcome to our conference
+#      link: /news/welcome
 #    - text: Date and ticket information
 #      link: /news/announcing-virtual-conf-dates-tickets
     # - text: Read our conference guide
@@ -29,8 +29,8 @@ buttons:
 #      link: /tickets
     - text: Sponsor us
       link: /sponsors/prospectus
-    #- text: Submit a Talk
-    #  link: /cfp
+    - text: Submit a Talk
+      link: /cfp
     #- text: See the talks!
     #   link: /speakers
     # - text: See the Schedule!
@@ -87,7 +87,7 @@ sponsorship:
 date: # how do we handle these? human readable would be nice.
   main: "**October 3-5, 2021, online**"
   short: Oct 3-5, 2021
-  tickets_live: "April 2021"
+  tickets_live: "May 2021"
   month: October
   # Conference is special for the index to show the combined conference days
   conference:
@@ -140,6 +140,11 @@ about:
   projector_ratio: "16:9"
   job_fair_room: "Sponsor area"
 
+cfp:
+  url: https://pretalx.com/write-the-docs-prague-2021/cfp
+  ends: "June 30, 2021"           # 2 weeks to review and get confirmnations
+  notification: "July 16, 2021"   # leaves 6 weeks to write and record
+  video_by: "September 3, 2021"   # 4 weeks before the conf
 
 sponsors:
   keystone:
@@ -152,15 +157,15 @@ sponsors:
 
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flagcfp: True
+flaglanding: False
 flaghassponsors: True
-flagcfp: False
 flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
 flaghasschedule: False
-flaghasunconf: False
+flaghasunconf: True
 flaghasshirts: True
 flagvideos: False
 flaglivestreaming: False
