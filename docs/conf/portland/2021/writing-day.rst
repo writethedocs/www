@@ -49,29 +49,29 @@ Write the Docs Meetups
 
 Organizing local Write the Docs meetup communities is a rewarding way to participate. During Writing Day, we'll have a table where we can share tips and best practices, especially in this time where all of our meetups are virtual.
 
-GitLab - Learn how to contribute to open-source docs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+GitLab - Learn how to contribute to our open-source docs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`GitLab <https://about.gitlab.com>`_ is a single application for
-the entire software development lifecycle. From project planning and source code
-management to CI/CD, monitoring, and security.
+`GitLab <https://about.gitlab.com>`_ is a DevOps platform for
+the entire software development lifecycle. GitLab has everything from project planning
+and source code management to CI/CD, monitoring, and security.
 
-Our `documentation <https://docs.gitlab.com>`_ is open source and everybody can
-contribute to it. All the content is hosted on GitLab.com, so you will need a
-`GitLab.com account <https://gitlab.com/users/sign_up>`_.
+Our `documentation <https://docs.gitlab.com>`_ is open source and everyone can
+contribute. All the content is hosted on GitLab.com, so you will need a
+`GitLab.com account <https://gitlab.com/users/sign_up>`_ to get started.
 
 For more information, see our `GitLab issue <https://gitlab.com/gitlab-org/technical-writing/-/issues/426>`_.
 
-Once you find the issue you want to work on:
+When you find an issue you want to work on:
 
-#. Add a comment mentioning `@gl-docsteam` to inform us that you’re working on
-   this for Writing Day (and tell us in person!).
+#. Inform the GitLab team that you're working on an issue.
+   Add a comment that mentions `@gl-docsteam` (or tell us in person!).
 #. Create a merge request with your proposed changes.
 
-Once your merge request is reviewed and merged, it will appear on the docs site
+After your merge request is reviewed and merged, it will appear on the docs site
 shortly!
 
-If you have any questions, you can reach to us in person or in Slack: `@selhorn`, `@amyq`, `@arty-chan`, `@mikejang`.
+If you have any questions, you can reach out to us in person or in Slack: `@selhorn`, `@amyq`, `@arty-chan`, `@mikejang`.
 
 During the conference
 ---------------------
