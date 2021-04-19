@@ -64,7 +64,7 @@ For more information, see our `GitLab issue <https://gitlab.com/gitlab-org/techn
 
 When you find an issue you want to work on:
 
-#. To inform the GitLab team that you're working on an issue,
+#. Inform the GitLab team that you're working on an issue.
    add a comment that mentions `@gl-docsteam` (or tell us in person!).
 #. Create a merge request with your proposed changes.
 
