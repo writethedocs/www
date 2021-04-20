@@ -64,9 +64,11 @@ For more information, see our `GitLab issue <https://gitlab.com/gitlab-org/techn
 
 When you find an issue you want to work on:
 
-#. Inform the GitLab team that you're working on an issue.
-   Add a comment that mentions `@gl-docsteam` (or tell us in person!).
 #. Create a merge request with your proposed changes.
+#. Add labels to the merge request. Use the same ones assigned to your issue, and add `community contribution` as well.
+
+A bot will assign your merge request to the appropriate tech writer at GitLab.
+The merge request, if acceptable, will be merged during the Writing Day session or in the following days.
 
 After your merge request is reviewed and merged, it will appear on the docs site
 shortly!
