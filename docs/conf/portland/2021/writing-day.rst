@@ -68,7 +68,7 @@ When you find an issue you want to work on:
 #. Add labels to the merge request. Use the same ones assigned to your issue, and add `community contribution` as well.
 
 A bot will assign your merge request to the appropriate tech writer at GitLab.
-The merge request will be merged during the Writing Day session or in the following days.
+The merge request, if acceptable, will be merged during the Writing Day session or in the following days.
 
 After your merge request is reviewed and merged, it will appear on the docs site
 shortly!
