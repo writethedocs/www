@@ -9,7 +9,7 @@ Announcing Prague Call for Proposals and Full Website
 Today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/prague/{{year}}/cfp/>`_ and `full website <https://www.writethedocs.org/conf/prague/{{year}}/>`_.
 
 Due to the continuing global pandemic, we are keeping the Prague conference online. The conference will be held on **October 3-5, 2021**.
-This means that we're only leaving our Call for Proposals open for one month. We know that it hasn't been an easy year. Nevertheless, we'd love to see you on our online stage in October, to share your ideas with our inspiring community of documentarians.
+This means that we're only leaving our Call for Proposals open for two months. We know that it hasn't been an easy year. Nevertheless, we'd love to see you on our online stage in October, to share your ideas with our inspiring community of documentarians.
 
 If there is something you’d really like to see a talk about this year, submit a proposal for it or refer someone else who would be good!
 
