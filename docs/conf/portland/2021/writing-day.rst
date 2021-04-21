@@ -65,15 +65,14 @@ For more information, see our `GitLab issue <https://gitlab.com/gitlab-org/techn
 When you find an issue you want to work on:
 
 #. Create a merge request with your proposed changes.
-#. Add labels to the merge request. Use the same ones assigned to your issue, and add `community contribution` as well.
+#. Reach out to one of the GitLab Team Members available during Writing Day, either in Hopin or in Slack.
 
-A bot will assign your merge request to the appropriate tech writer at GitLab.
 The merge request, if acceptable, will be merged during the Writing Day session or in the following days.
 
 After your merge request is reviewed and merged, it will appear on the docs site
 shortly!
 
-If you have any questions, you can reach out to us in person or in Slack: `@selhorn`, `@amyq`, `@arty-chan`, `@mikejang`.
+If you have any questions, you can reach out to us in Hopin or in Slack: `@selhorn`, `@amyq`, `@arty-chan`, `@mikejang`.
 
 During the conference
 ---------------------
