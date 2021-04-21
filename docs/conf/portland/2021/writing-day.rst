@@ -32,14 +32,14 @@ Trino project
 Here are a few ways you can contribute to the `Trino open source docs <https://trino.io/docs/current/>`_:
 
 - Review our `doc readme <https://github.com/trinodb/trino/tree/master/docs>`_ perfect for first time contributors.
-- Improve our docs, we made an `issues filter <https://github.com/trinodb/trino/issues?q=is%3Aopen+label%3Adocs+label%3A%22good+first+issue%22>`_ to help you find ways to contribute. 
+- Improve our docs, we made an `issues filter <https://github.com/trinodb/trino/issues?q=is%3Aopen+label%3Adocs+label%3A%22good+first+issue%22>`_ to help you find ways to contribute.
 
-  - Edit an existing document, perfect for first time contributors. 
-  - Add terms to our glossary, perfect for first time contributors. 
+  - Edit an existing document, perfect for first time contributors.
+  - Add terms to our glossary, perfect for first time contributors.
   - Add missing feature info in existing docs.
 
 - Test our docs and provide feedback.
-  
+
   - `Learn Trino SQL on Docker <https://www.youtube.com/watch?v=y58sb9bW2mA>`_, we made a video to help folks test.
 
 We love new community members. Join us on the `Trino Slack <https://trino.io/slack.html>`_ on the `#documentation channel <https://trinodb.slack.com/messages/C01TEP0HJTH>`_ and `favorite the Trino project <https://github.com/trinodb/trino>`_ on GitHub.
@@ -48,6 +48,32 @@ Write the Docs Meetups
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Organizing local Write the Docs meetup communities is a rewarding way to participate. During Writing Day, we'll have a table where we can share tips and best practices, especially in this time where all of our meetups are virtual.
+
+GitLab - Learn how to contribute to our open-source docs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`GitLab <https://about.gitlab.com>`_ is a DevOps platform for
+the entire software development lifecycle. GitLab has everything from project planning
+and source code management to CI/CD, monitoring, and security.
+
+Our `documentation <https://docs.gitlab.com>`_ is open source and everyone can
+contribute. All the content is hosted on GitLab.com, so you will need a
+`GitLab.com account <https://gitlab.com/users/sign_up>`_ to get started.
+
+For more information, see our `GitLab issue <https://gitlab.com/gitlab-org/technical-writing/-/issues/426>`_.
+
+When you find an issue you want to work on:
+
+#. Create a merge request with your proposed changes.
+#. Add labels to the merge request. Use the same ones assigned to your issue, and add `community contribution` as well.
+
+A bot will assign your merge request to the appropriate tech writer at GitLab.
+The merge request, if acceptable, will be merged during the Writing Day session or in the following days.
+
+After your merge request is reviewed and merged, it will appear on the docs site
+shortly!
+
+If you have any questions, you can reach out to us in person or in Slack: `@selhorn`, `@amyq`, `@arty-chan`, `@mikejang`.
 
 During the conference
 ---------------------
