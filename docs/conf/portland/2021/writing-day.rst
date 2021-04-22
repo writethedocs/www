@@ -75,7 +75,7 @@ shortly!
 If you have any questions, you can reach out to us in Hopin or in Slack: `@selhorn`, `@amyq`, `@arty-chan`, `@mikejang`.
 
 Write the Docs Style Guides Project
-^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The Write the Docs `Style Guides <https://www.writethedocs.org/guide/writing/style-guides>`_ is a growing collection of resources. This guide includes standards for writing and designing content and links to external resources.
 
