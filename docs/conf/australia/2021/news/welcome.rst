@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: May 1, 2021
+.. post:: Apr 25, 2021
    :tags: {{shortcode}}-{{year}}, website, tickets
 
 Announcing Write the Docs Australia & India {{year}}
@@ -17,7 +17,7 @@ We're excited to announce the dates for our next conference:
 
 This is another virtual conference, which means you can attend,
 speak or have a sponsor presence from anywhere in the world.
-The conference will take place during day time in AEDT and IST_.
+The conference will take place during day time in AEDT_.
 
 .. _AEDT: https://time.is/AEDT
 
