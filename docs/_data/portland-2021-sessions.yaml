@@ -89,9 +89,9 @@
     management, design, marketing, engineering, and user research. The words we write
     may seem simple, but the documentation we use to get there goes deep. </p>
 
-    <p>At LinkedIn, we’re a tiny team of content designers who use documentation to
-    build a design rationale, influence others, and show the value of our discipline
-    to the broader organization. </p>
+    <p>This talk will show you how to use documentation to build a design rationale,
+    influence others, and show the value of UX writing to the broader organization.
+    </p>
 
     <p>This talk will show you documentation techniques to:</p>
 
@@ -148,7 +148,7 @@
   - name: Falon Darville
     slug: falon-darville
     twitter: 
-    website: http://falondarville.com
+    website: falondarville.com
   abstract: '<p>When I was hired at DISQO as a Technical Writer,  the number of engineers
     was hovering around seventy, and there was just one of me. With numerous Google
     Docs and Markdown files strewn about and much to still be documented, it was critical
@@ -323,8 +323,8 @@
   speakers:
   - name: Sarah R. Rodlund
     slug: sarah-r-rodlund
-    twitter: 
-    website: 
+    twitter: '@SRRodlund'
+    website: https://sarahrodlund.com/
   abstract: '<p>How do you measure the impact of your work? What’s the best way to
     communicate its value to others in your organization? What metrics should you
     use? Does information about page views and up or down votes actually lead to better

@@ -122,13 +122,15 @@ Unconference
 
 - The Unconference is a set of informal sessions that take place all day Monday and Tuesday afternoon. `Unconference talks focus on conversations and exchanges of ideas between participants. <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/unconference/>`__
 - You can attend unconference sessions, or, if you have an idea for a session, you can lead one. Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
-- Learn more about the Unconference by reading the `_Unconference Cheat Sheet <https://www.writethedocs.org/conf/portland/2021/unconference-cheatsheet/>`__.
+- Learn more about the Unconference by reading the `_Unconference Cheat Sheet <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/unconference-cheatsheet/>`__.
 
 Lead an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
-{% if flaghasschedule %}
+
+{% if unconf and unconf.url %}
+
 - Look for an empty slot on the `Unconference sign-up <{{unconf.url}}>`__, and add your Unconference topic. There will be a time and a table number for each slot.
 {% else %}
 - Look for an empty slot on the Unconference sign-up, and add your Unconference topic. There will be a time and a table number for each slot.
@@ -149,7 +151,9 @@ Tips for your unconference session
 Join an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-{% if flaghasschedule %}
+
+{% if unconf and unconf.url %}
+
 - Starting Monday morning, check the`Unconference sign-up <{{unconf.url}}>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
 - At the time the session starts, go to **Sessions** and select the session with the table number that corresponds to the one in the `Unconference schedule <{{unconf.url}}>`__.
 {% else %}
@@ -242,6 +246,7 @@ Pro tips
 - In case of technical issues with our main platform Hopin, please watch the `#wtd-conferences Slack channel <https://writethedocs.slack.com/archives/C1AKFQATH>`_ for status updates and alternative viewing links that might be posted.
 
 FAQs
+
 ----
 
 Are the talks recorded?
@@ -260,23 +265,27 @@ Do I have to be on video during the conference?
 - You can also share your screen during an Unconference. Select the Monitor icon to share your screen. Multiple people can share their screens at once.
 - Select the Settings icon to change your audio or video settings.
 - To make someone’s screen larger, double-click on it.
- 
+
 How do I see what’s happening right now?
 
 - Go to Reception to see the talk schedule.
-- Go to the Write the Docs website to view the `_full schedule <https://www.writethedocs.org/conf/portland/2021/schedule/>`__.
+- Go to the Write the Docs website to view the `_full schedule <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/>`__.
+{% if unconf and unconf.url %}
 - View the `_Integrated schedule <{{unconf.url}}>`__ to see what Writing Day and Unconference sessions are happening.
+{% else %}
+- View the Integrated schedule to see what Writing Day and Unconference sessions are happening.
+{% endif %}
 - Go to the Expo to view Sponsor Booths.
 - If it’s Tuesday morning, go to the Expo to view the Job Fair.
- 
+
 Someone sent me a message at the conference. Where can I see it?
 
 - In the Chat tool, you can toggle between viewing People (a list of attendees) and Messages (a list of the messages you sent and received).
- 
+
 I want to tag someone in a comment in chat. Why isn’t it working?
 
 - The widget to search for users to tag in chat goes away while it's searching (which makes people think that it's not working) so just wait a bit.
- 
+
 How do I ask a question to the speakers?
 
 - There’s a Q&A session after each talk in Sessions. In Chat, enter your question preceded by a Q:. The moderators will send your question to the speaker.
@@ -311,4 +320,4 @@ What can I do at the conference?
 - You can watch talks, participate in the Unconference, visit the Job Fair, talk to our sponsors, give a Lightning Talk, and chat with other conference attendees. If you need help with any of it, reach out to the Welcome Wagon at Expo > Help Desk.
 
 Where can I learn more?
-- Read the `_Welcome Wagon guide <https://www.writethedocs.org/conf/portland/2021/welcome-wagon/>`__ to the conference, the `_Unconference Cheat Sheet <https://www.writethedocs.org/conf/portland/2021/unconference-cheatsheet/>`__, `_the Writing Day Cheat Sheet <https://www.writethedocs.org/conf/portland/2021/writing-day-cheatsheet/>`__, and watch the `_virtual conference intro video <https://youtu.be/aLtnc0ITzok>`__. You can learn how to reach out to attendees, what happens at each event, and how to get more help.
+- Read the `_Welcome Wagon guide <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/welcome-wagon/>`__ to the conference, the `_Unconference Cheat Sheet <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/unconference-cheatsheet/>`__, `_the Writing Day Cheat Sheet <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet/>`__, and watch the `_virtual conference intro video <https://youtu.be/aLtnc0ITzok>`__. You can learn how to reach out to attendees, what happens at each event, and how to get more help.

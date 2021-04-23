@@ -13,10 +13,6 @@ This should help you get connected to people with similar interests.
 Please also read the Slack guidelines carefully, and remember that our
 :doc:`/code-of-conduct` also applies to our Slack.
 
-We don't pay for our Slack, which means that the community has access to only the most
-recent 10,000 messages. Not only is paid Slack prohibitively expensive for a community
-like ours, but many people seem to feel a freedom in knowing that their words will disappear shortly.
-
 Feel free to send a Pull Request to update `this page`_, if you want to include other channels.
 
 .. note::
@@ -24,10 +20,18 @@ Feel free to send a Pull Request to update `this page`_, if you want to include 
     If you think these may be unpleasant for you, you can `disable all animations`_
     in your Slack client.
 
-
 .. _join our slack: https://join.slack.com/t/writethedocs/shared_invite/zt-lqlaz4w6-WCnSTVD25MebjiqowO8EvQ
 .. _this page: https://github.com/writethedocs/www/blob/master/docs/slack.rst
 .. _disable all animations: https://get.slack.help/hc/en-us/articles/228023907-Manage-animated-images-and-emoji
+
+Slack History
+-------------
+
+We don't pay for our Slack, which means that the community has access to only the most
+recent 10,000 messages. Paying for Slack is prohibitively expensive for a community
+like ours, but many people seem to feel a freedom in knowing that their words will disappear shortly.
+We understand that not everyone loves this decision,
+but it's the way things are currently set up and we don't plan to change it in the near future. 
 
 Default channels
 ----------------

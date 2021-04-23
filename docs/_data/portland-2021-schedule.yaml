@@ -7,6 +7,8 @@ writing_day:
     title: Team up and start working
   - time: '12:00'
     title: Lunch Break
+  - time: '12:30'
+    title: Conference Intro and Tour with the Welcome Wagon
   - time: '5:00'
     title: End of Writing Day
 
@@ -61,6 +63,8 @@ talks_day2:
     slug: almost-none-to-some-driving-disqo-s-doc-culture-as-a-solo-documentarian-falon-darville
   - time: '11:20'
     slug: is-tech-writer-a-tester-and-vice-versa-is-tester-a-tech-writer-ines-stefanovic
+  - time: '12:00'
+    title: "<b>Job Fair Ends</b>"
   - time: '12:00'
     title: Lunch (60 mins)
   - time: '1:00'
