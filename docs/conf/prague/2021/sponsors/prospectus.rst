@@ -171,28 +171,26 @@ Please let us know if there is any information missing that would be useful for 
 Sponsorship schedule
 --------------------
 
-* **SUNDAY**: The conference online platform is open. You are welcome to hang out at your sponsorship booth and attend the Writing Day, but no formal sponsorship events are happening. You're also welcome to lead a Writing Day project if your documentation is open source.
+* **SUNDAY**: The conference online platform is open. You are welcome to hang out at your sponsorship booth and attend the Writing Day, but no formal sponsorship events are happening. You're also encouraged to lead a Writing Day project if your documentation is open source.
 
-* **MONDAY**: The conference platform opens at 9:00, so we recommend arriving around this time to get the most interaction with attendees. The official start of the main conference talks is at 10:00, when sponsor booths will need to be staffed. The conference will run until around 18:00.
+* **MONDAY**: The conference platform opens at 8am, so we recommend arriving around this time to get the most interaction with attendees. The official start of the main conference talks is at 9am, when sponsor booths will need to be staffed. The conference will run until around 6pm.
 
-* **TUESDAY**: The Job Fair will be on Tuesday morning in the Expo area of the online platform. It will take place in existing sponsorship booths. If you do not have a booth, a temporary booth will be set up for the job fair. The normal conference sponsorship activities and expo booths will be available all day Tuesday, but primarily on Tuesday afternoon.
+* **TUESDAY**: The Job Fair will be on Tuesday morning in the Expo area of the online platform. It will take place in existing sponsorship booths. If you do not have a booth, a temporary booth will be set up for the job fair, and then removed during lunch.
 
 See the :doc:`full schedule </conf/{{ shortcode }}/{{ year }}/schedule>` for exact timing details.
 
 Sponsorship platform
 --------------------
 
-We will be using `Hopin <https://hopin.to/>`_ as our online conference platform. It has multiple unique spaces for attendees during the conference, and we hope it will allow for a good amount of interaction between attendees and sponsors.
-
-We will open the online platform 1 week prior to the conference starting. You will be able to create an account and be assigned roles by us, but it won't become fully active until the Sunday of the conference.
+We will be using `Hopin <https://hopin.to/>`_ as our online conference platform. It has multiple unique spaces for attendees during the conference, and we hope it will allow for a good amount of interaction between attendees and sponsors. The conference platform won't become fully active until the Sunday of the conference.
 
 Sponsorship spaces
 ------------------
 
 A quick overview of the important spaces in the "venue":
 
-* The *main stage* is where the talks happen. This is also where Lightning talks will be given.
-* The *Sessions area* is where the Writing Day, Unconference and Social event will happen.
+* The *Main stage* is where the talks happen. This is also where Lightning talks will be given.
+* The *Sessions area* is where the Writing Day and Unconference will happen.
 * The *Expo area* is where sponsors will be able to have booths available and the Job Fair will happen. You can provide videos that will play whenever attendees enter your booth, as well as chat or video-call directly with attendees.
 
 Sponsorship events
@@ -206,18 +204,18 @@ which is a wonderful place to connect with our over 500 attendees.
 Many of them are looking for jobs now or will be in the near future,
 so it's a great chance to talk more about your company culture and open positions.
 
-**Logistics**: You will be assigned a session in the *Expo area* where you can engage with attendees and answer questions. The session will have a max capacity of 10 participants (for video/audio), which means it'll serve as a "lobby/reception" area for your session. We recommend that you answer general questions in the main session and then break off into private calls or chats to talk in more depth with specific people.
+**Logistics**: You will be assigned a sponsor booth in the *Expo area* where you can engage with attendees and answer questions.  We recommend that you answer general questions in the main session and then break off into private calls or chats to talk in more depth with specific people.
 
-You can also offer attendees a link to your website or a way to register interest for your job postings.
+You can also offer attendees a link to your website or a way to register interest in your job postings.
 
 Sponsor booths
 ~~~~~~~~~~~~~~
 
-Sponsor booths are only available for our larger sponsors.
+Sponsor booths are available during the entire conference for our larger sponsors,
+and during the job fair for all sponsors.
 You will be given a booth that is in the *Expo area* of the online platform.
-Most of the attendee focus will come during breaks between talks and at the beginning and end of the day.
 
-**Logistics**: You can record a video to play at your booth when attendees enter the booth, but we generally recommend having someone with the Expo hall tab open to answer any questions that attendees might have. We also recommend that you answer general questions in the main booth and then break off into private calls or chat to talk in more depth to specific people.
+**Logistics**: There will be *text chat* and a *video session*. You can do presentations, demos, and other interactive content in your booth. You can also record a video to play at your booth when nobody is on video, but we generally recommend having someone in the Expo hall to answer any questions that attendees might have. We also recommend that you answer general questions in the main booth and then break off into private calls or chat to talk in more depth to specific people.
 
 Writing day
 ~~~~~~~~~~~
@@ -247,7 +245,6 @@ Eric Holscher will be your primary contact, but our team is available at sponsor
 
 During the conference itself, we will also have a *help desk* available on the Hopin platform.
 You can find staff members there to ask any additional questions you might have.
-
 
 How do I use my sponsorship tickets?
 ------------------------------------
