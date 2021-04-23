@@ -35,7 +35,7 @@ buttons:
     #   link: /speakers
     - text: See the Schedule!
       link: /schedule
-    - text: Prepare with the Welcome Wagon
+    - text: Read our guide
       link: /welcome-wagon
     # - text: Watch the Live Stream
     #   link: /livestream
@@ -56,7 +56,7 @@ buttons:
     #   link: /speakers
     # - text: Buy a Ticket!
     #   link: /tickets
-    - text: Prepare with the Welcome Wagon
+    - text: Read our guide
       link: /welcome-wagon
     - text: See the schedule!
       link: /schedule
