@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Apr 25, 2021
+.. post:: Apr 21, 2021
    :tags: {{shortcode}}-{{year}}, website, tickets
 
 Announcing Write the Docs Australia & India {{year}}
