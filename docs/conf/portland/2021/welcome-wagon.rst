@@ -231,6 +231,19 @@ Small group video chats
 - You can start a 1:1 video chat with one person and then send the link to up to two other people, to start a 4-person video chat.
 - This is a great way to continue a conversation that started in an Unconference or Hallway session.
 
+Monday night social
+^^^^^^^^^^^^^^^^^^^^^^^
+
+The Monday Night Social is a chance to chat informally with other conference attendees. This year, the Monday Night Social will be held from 5:00 to 7:00 pm PST in Spatial Chat. Look for a link from the conference organizers at the conference on Monday. Spatial chat works just like real conversations, except in a virtual room.
+
+- Once you enter the spatial chat, you'll see a bubble with your video or name in it.
+- You can use the icons along the bottom to turn on or off your video or audio.
+- There will be several rooms to find people in. Look in the menu on the right-hand side and double-click on a room to enter it.
+- Once you are in a room, drag your bubble towards people to chat with them. The closer you are to other people, the better you can hear them.
+- If you want to chat with someone specific, find their name in the left-hand side menu and double-click to be taken to where they are in the virtual room.
+- Remember to follow the Pac Man rule and leave a space open in your group conversations for new people to join.
+
+This is new to everyone this year, so experiment and have fun! There is no wrong way to do this!
 
 Pro tips
 --------
