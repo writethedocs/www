@@ -117,28 +117,28 @@ Caveat: Be sure to follow a maintenance plan for FAQs, since many content gets p
 
 ### Release notes
 
-Release notes exist to provide users with vital information needed to continue to use and benefit from a product, often related to new or updated feature releases. These notes should be brief, linking out to more details as necessary.
+Release notes exist to provide users with vital information required to continue to use and benefit from a product. Release notes content is related to new or updated feature releases. Release notes should be brief, linking out to more details as necessary.
 
 Consider the following when creating an entry for your release notes:
 
-1. What is the change/release?
+1. What is the specific change?
+
 2. Why did we make this change? Why is it important to our users?
 
-  1. Improvement in workflow or UI
-  2. Consistency/feature parity
-  3. Expected revenue increase/decrease
-  4. Change in phase: Alpha/Beta/GA (Does this need to be called out?)
-  5. Policy/legal changes
+  - Improvement in workflow or UI
+  - Consistency and feature parity
+  - Policy and legal changes
+  - Security
 
 3. What is the goal for our users who use this feature?
 
-4. When will this feature be available? Is it already available or coming soon?
+4. Do our users have all the information they need to move forward?
 
-5. Do our users have all the information they need to move forward?
+5. Is there an additional article for users to read and to learn more? Yes? Link to those resources.
 
-6. Is there an additional article for users to read to learn more?
-7. Would an image be beneficial to help users understand this release?
-8. What stakeholders have to approve this content? Does it require the legal team's approval?
+6. Would an image be beneficial to help users understand this release?
+
+7. What stakeholders have to approve this content? Does it require the legal team's approval?
 
 Release Notes Style Guide Resources:
 
@@ -174,18 +174,19 @@ Related talks:
 
 ### Error messages
 
-Mistakes in software are unavoidable. Users might click a link that turns out to be broken or they might perform an action only to be met with an error. When a user encounters a problem, it's important to write error messages in a way that doesn't alienate the user. 
+Mistakes in software are unavoidable. Users might click a link that turns out to be broken or they might perform an action only to be met with an error. When a user encounters a problem, it's important to write error messages in a way that doesn't alienate the user.
 
-Here are a few tips on what makes a good error message: 
+Here are a few tips on what makes a good error message:
 
-- Provide explicit indication that something has gone wrong. 
-- Write like a human, not a robot. 
-- Don't blame the user – be humble. 
-- Make the message short and meaningful. 
-- Include precise descriptions of exact problems. 
-- Offer constructive advice on how to fix the problem. 
+- Provide explicit indication that something has gone wrong.
+- Write like a human, not a robot.
+- Don't blame the user – be humble.
+- Make the message short and meaningful.
+- Include precise descriptions of exact problems.
+- Offer constructive advice on how to fix the problem.
 
-Related resources: 
+Related resources:
+
 - [Error Message Guidelines - Microsoft](https://docs.microsoft.com/en-us/windows/win32/debug/error-message-guidelines)
 - [Error Message Guidelines – NN Group](https://www.nngroup.com/articles/error-message-guidelines/)
 - [How to Write Good Error Messages – UX Planet](https://uxplanet.org/how-to-write-good-error-messages-858e4551cd4)
