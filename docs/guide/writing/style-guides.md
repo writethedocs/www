@@ -192,13 +192,6 @@ Related resources:
 - [How to Write Good Error Messages – UX Planet](https://uxplanet.org/how-to-write-good-error-messages-858e4551cd4)
 - [How to write better error messages – opensource.com](https://opensource.com/article/17/8/write-effective-error-messages)
 - [How to write better error messages for databases - PostgreSQL](https://www.postgresql.org/docs/current/error-style-guide.html)
-
-### User Guide / Manuals
-
-### Tutorials / How-To
-
-### Concepts, Overview
-
 ## Writing Style
 
 The following style guides focus on writing more generally:
