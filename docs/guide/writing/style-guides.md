@@ -54,9 +54,9 @@ Classics for software documentation include:
 - [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm)
 - [Rackspace](https://docs.rackspace.com/docs/style-guide/)
 - [Mailchimp](https://styleguide.mailchimp.com/)
-- [Quickbooks] (https://designsystem.quickbooks.com/content/)
-- [Intuit] (https://contentdesign.intuit.com/)
-- [Adobe] (https://spectrum.adobe.com/page/grammar-and-mechanics/)
+- [Quickbooks](https://designsystem.quickbooks.com/content/)
+- [Intuit](https://contentdesign.intuit.com/)
+- [Adobe](https://spectrum.adobe.com/page/grammar-and-mechanics/)
 
 ### Style guides from government and education
 
