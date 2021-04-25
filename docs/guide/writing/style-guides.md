@@ -6,6 +6,13 @@ A style guide saves documentarians time and trouble by providing a single refere
 The guidelines in a style guide help writers to produce documentation that has the same tone and grammatical style, regardless of who writes the documentation.
 A consistent tone and style can make your content easier to read by reducing your users' [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) and increasing their confidence in the content's authority. 
 
+## Overall structure of this page (WIP)
+
+- General style guide information and examples
+- Writing for accessibility
+- Including anti-bias information in style guides
+- Style guides and resources for specific content formats
+
 ## Write your own style guide?
 
 A style guide can be something as simple as a list of decisions you've made about how to refer to different items you frequently write about. Or it can be as complicated as the mighty tomes of major publication houses. 
