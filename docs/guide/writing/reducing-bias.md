@@ -1,7 +1,13 @@
 # Reducing bias in your writing
 
 You can reduce bias in your writing by considering the meanings and origins of your word choices and how those might be perceived or understood by your readers.
+
 Even thinking twice about what example user names you include in your documentation can help reduce bias in your documentation.
+
+See also [accessibility guidelines](https://www.writethedocs.org/guide/writing/accessibility).
+
+And for general writing style, see [style guides](https://www.writethedocs.org/guide/writing/style-guides/).
+
 Check out these resources to help you with this kind of attention to your writing:
 
 Free guides:
@@ -10,6 +16,7 @@ Free guides:
 - [Google's Developer Style Guide on Inclusive Documentation](https://developers.google.com/style/inclusive-documentation)
 - [Microsoft Style Guide on Bias-Free Communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
 - [American Psychological Association (APA)'s Guide on Bias-Free Language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/)
+- [Writing inclusive documentation, from WordPress](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/)
 
 Free resources:
 
