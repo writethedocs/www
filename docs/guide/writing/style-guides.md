@@ -1,20 +1,31 @@
 # Style Guides
 
-A style guide contains a set of standards for writing and designing content. It helps maintain a consistent style, voice, and tone across your documentation, whether you're a lone writer or part of a huge docs team. It can provide guidelines for different documentation deliverables, such as API reference manuals, tutorials, release notes, or overviews of complex technical concepts.
+A style guide contains a set of standards for writing and designing content. It
+helps maintain a consistent style, voice, and tone across your documentation,
+whether you're a lone writer or part of a huge docs team. A style guide saves
+documentarians time and trouble by providing a single reference for writing
+about common topics, features, and more. It can provide guidelines for different
+documentation deliverables, such as API reference manuals, tutorials, release
+notes, or overviews of complex technical concepts.
 
-A style guide saves documentarians time and trouble by providing a single reference for writing about common topics, features, and more. 
-The guidelines in a style guide help writers to produce documentation that has the same tone and grammatical style, regardless of who writes the documentation.
-A consistent tone and style can make your content easier to read by reducing your users' [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) and increasing their confidence in the content's authority. 
+A consistent tone and style makes your content easier to read, reducing your
+users' [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) and
+increasing their confidence in the content's authority.
 
 ## Write your own style guide?
 
-A style guide can be something as simple as a list of decisions you've made about how to refer to different items you frequently write about. Or it can be as complicated as the mighty tomes of major publication houses. 
-
-You can certainly create a style guide of your own. For the sake of simplicity, this approach might work if you're a lone writer or just starting a small docs group. But neither software nor its documentation operates in a vacuum, so it's a good idea to consult other resources as well. Working from an existing style guide can also help you figure out which things matter in your style guide.
+You can certainly create a style guide of your own. This approach might work if
+you're a lone writer or just starting a small docs group. But neither software
+nor its documentation operates in a vacuum, so it's a good idea to consult other
+resources as well. Working from an existing style guide can also help you figure
+out which things matter in your style guide.
 
 ## Style guide resources
 
-Style guides have been around for as long as people have been publishing in any format. Older style guides originally intended for specific forms of print publication have become basic standards for many others to refer to, including documentarians:
+Style guides have been around for as long as people have been publishing in any
+format. Older style guides originally intended for specific forms of print
+publication have become basic standards for many others, including
+documentarians, to refer to:
 
 - The [Chicago Manual of Style](http://www.chicagomanualofstyle.org/book/ed17/frontmatter/toc.html)
 - The [AP Stylebook](https://www.apstylebook.com/)
@@ -22,33 +33,34 @@ Style guides have been around for as long as people have been publishing in any 
 Classics for software documentation include:
 
 - [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
-- [IBM style guide](https://www.ibm.com/developerworks/library/styleguidelines/)
+- [The IBM Style Guide: Conventions for Writers and Editors](https://www.amazon.com/IBM-Style-Guide-Conventions-Writers/dp/0132101300)
 - [Apple Style Guide](https://help.apple.com/applestyleguide/)
 
 Others you might find useful:
 
 - [Google developer documentation style guide](https://developers.google.com/style)
-- [Salesforce Style Guide](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm)
+- [Salesforce Style Guide for Documentation and User Interface Text](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm)
 - [The Red Hat Style Guide](http://stylepedia.net/style/)
-- [Rackspace Style Guide](https://docs.rackspace.com/docs/style-guide/)
+- [Rackspace Style Guide for Technical Content](https://docs.rackspace.com/docs/style-guide/)
 - [18F Content Guide](https://content-guide.18f.gov)
-- [Open SUSE Style Guide](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
-- [gnome Style Guide](https://developer.gnome.org/gdp-style-guide/2.32/gdp-style-guide.html)
+- [SUSE Documentation Style Guide](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
+- [gnome Documentation Style Guide](https://developer.gnome.org/gdp-style-guide/2.32/gdp-style-guide.html)
 
-## Thinking about accessibility and bias
+## Accessibility and bias
 
-It's important to consider accessibility and biases in your style guide to ensure that all readers can understand the content you produce. 
+It's important to consider accessibility and biases in your style guide to
+ensure that all readers can understand the content you produce.
 
 ### Writing for accessibility
 
-Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
+Writing for accessibility includes making sure copy can be read by
+screenreaders, content organization, style and color of text emphasis, and more.
 
-- [Atlassian Design System - Inclusive writing reference](https://atlassian.design/content/inclusive-writing)
-- [MailChimp's writing style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
+- [Atlassian Design System - Inclusive language](https://atlassian.design/content/inclusive-writing)
+- [MailChimp Content Style Guide: Writing for Accessibility](https://styleguide.mailchimp.com/writing-for-accessibility/)
 - [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bitsofcode
 - [Microsoft Style Guide Accessibility Terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)
-
 
 Relevant talks from Write the Docs:
 
@@ -57,16 +69,19 @@ Relevant talks from Write the Docs:
 
 ### Reducing bias in your writing
 
-You can reduce bias in your writing by considering the meanings and origins of your word choices and how those might be perceived or understood by your readers.
-Even thinking twice about what example user names you include in your documentation can significantly reduce bias in your documentation.
-Fortunately, resources are increasingly available to help you with this kind of attention to your writing.
+You can reduce bias in your writing by considering the meanings and origins of
+your word choices and how those might be perceived or understood by your
+readers. Even thinking twice about what example user names you include in your
+documentation can significantly reduce bias in your documentation. Fortunately,
+resources are increasingly available to help you with this kind of attention to
+your writing.
 
 Free guides:
 
 - [Atlassian Design System - Inclusive Writing](https://atlassian.design/content/inclusive-writing)
-- [Google's Developer Style Guide on Inclusive Documentation](https://developers.google.com/style/inclusive-documentation)
-- [Microsoft Style Guide on Bias-Free Communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
-- [American Psychological Association (APA)'s Guide on Bias-Free Language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/)
+- [Google developer documentation style guide: Writing inclusive documentation](https://developers.google.com/style/inclusive-documentation)
+- [Microsoft Style Guide: Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
+- [American Psychological Association (APA) Style and Grammar Guidelines Bias-Free Language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/)
 
 Free resources:
 
