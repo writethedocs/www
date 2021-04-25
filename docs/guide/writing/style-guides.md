@@ -184,6 +184,24 @@ Related talks:
 
 - [Learning to love release notes](http://www.writethedocs.org/videos/prague/2018/learning-to-love-release-notes-anne-edwards/) at Write the Docs Prague 2018
 
+### Error messages
+
+Mistakes in the software are unavoidable. Users might click on a link that turns out to be broken, or they might perform an action only to be met with an error. This is where error messages come into play and it's important to write them in a way that doesn't alienate the user. 
+
+Here are a few tips on what makes a good error message: 
+
+- Provide explicit indication that something has gone wrong. 
+- Write like a human, not a robot. 
+- Don't blame the user – be humble. 
+- Make the message short and meaningful. 
+- Include precise descriptions of exact problems. 
+- Offer constructive advice on how to fix the problem. 
+
+Related resources: 
+- [Error Message Guidelines – NN Group](https://www.nngroup.com/articles/error-message-guidelines/)
+- [How to Write Good Error Messages – UX Planet](https://uxplanet.org/how-to-write-good-error-messages-858e4551cd4)
+- [How to write better error messages – opensource.com](https://opensource.com/article/17/8/write-effective-error-messages)
+
 ### User Guide / Manuals
 
 ### Tutorials / How-To
