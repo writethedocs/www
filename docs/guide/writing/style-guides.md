@@ -26,6 +26,7 @@ Classics for software documentation include:
 Others you might find useful:
 
 - [Google developer documentation style guide](https://developers.google.com/style)
+- [MongoDB Style Guide](https://docs.mongodb.com/meta/style-guide/)
 - [Salesforce Style Guide](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm)
 - [The Red Hat Style Guide](http://stylepedia.net/style/)
 - [Rackspace Style Guide](https://docs.rackspace.com/docs/style-guide/)
@@ -33,66 +34,14 @@ Others you might find useful:
 - [Open SUSE Style Guide](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
 - [gnome Style Guide](https://developer.gnome.org/gdp-style-guide/2.32/gdp-style-guide.html)
 
-## Thinking about accessibility and bias
-
-It's important to consider accessibility and biases in your style guide to ensure that all readers can understand the content you produce.
-
-### Writing for accessibility
-
-Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
-
-- [Atlassian Design System - Inclusive writing reference](https://atlassian.design/content/inclusive-writing)
-- [MailChimp's writing style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
-- [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
-- [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bitsofcode
-- [Microsoft Style Guide Accessibility Terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)
-
-Relevant talks from Write the Docs:
-
-- [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write the Docs Prague 2018
-- [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015
-
-### Reducing bias in your writing
-
-You can reduce bias in your writing by considering the meanings and origins of your word choices and how those might be perceived or understood by your readers. Even thinking twice about what example user names you include in your documentation can significantly reduce bias in your documentation. Fortunately, resources are increasingly available to help you with this kind of attention to your writing.
-
-Free guides:
-
-- [Atlassian Design System - Inclusive Writing](https://atlassian.design/content/inclusive-writing)
-- [Google's Developer Style Guide on Inclusive Documentation](https://developers.google.com/style/inclusive-documentation)
-- [Microsoft Style Guide on Bias-Free Communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
-- [American Psychological Association (APA)'s Guide on Bias-Free Language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/)
-
-Free resources:
-
-- [Internet Engineering Task Force (IETF) on Terminology, Power, and Oppressive Language](https://tools.ietf.org/id/draft-knodel-terminology-00.html)
-- [The Conscious Style Guide - a collection of resources](https://consciousstyleguide.com/)
-- [Diversity Style Guide](https://www.diversitystyleguide.com/)
-- [Linguistic Society of America Guidelines for Inclusive Language](https://www.linguisticsociety.org/resource/guidelines-inclusive-language)
-- [Linguistic Society of America Additional Inclusive Language Resources](https://www.linguisticsociety.org/content/further-content-related-inclusive-language-guidelines)
-- [American Psychological Association (APA)'s Guide on Bias-Free Language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/)
-
-Paid resources:
-
-- [The Responsible Communication Style Guide](https://rcstyleguide.com/)
-
-Relevant talks from Write the Docs:
-
 - [What They Don't Tell You About Creating New Style Guides](https://www.writethedocs.org/videos/portland/2018/what-they-don-t-tell-you-about-creating-new-style-guides-thursday-bram/)
-
-### Providing inclusive example names
-
-- Wikipedia's lists of [most common forenames](https://en.wikipedia.org/wiki/List_of_most_popular_given_names) and [most common surnames](https://en.wikipedia.org/wiki/Lists_of_most_common_surnames) by region.
-- [Splunk style guide on example names](https://docs.splunk.com/Documentation/StyleGuide/current/StyleGuide/Domains)
-- [Behind the Name - name generator](https://www.behindthename.com/random/)
-- [The Story Shack - name generators](https://thestoryshack.com/tools/)
 
 ## Developer documentation and APIs
 
 Example guides for code samples:
 
 - [Google code samples](https://developers.google.com/style/code-samples)
-- [Ruby / other languages](http://guides.rubyonrails.org/api_documentation_guidelines.html)
+- [API Documentation Guidelines](http://guides.rubyonrails.org/api_documentation_guidelines.html) by Ruby on Rails
 - [Al language snippets](https://bocoup.com/blog/documenting-your-api)
 
 ## Command line resources
@@ -164,6 +113,8 @@ Effective FAQ pages accomplish the following:
 - Drives users to different parts of the website to deliver more detailed information.
 - Cover a broader range of topics that may not otherwise warrant individual pages or pieces of content.
 
+Caveat: Be sure to follow a maintenance plan for FAQs, since many content gets parked here and becomes outdated. Consider finding a relevant content structure for the content outside of the FAQ scope.
+
 ### Release notes
 
 Release notes exist to provide users with vital information needed to continue to use and benefit from a product, often related to new or updated feature releases. These notes should be brief, linking out to more details as necessary.
@@ -182,7 +133,9 @@ Consider the following when creating an entry for your release notes:
 3. What is the goal for our users who use this feature?
 
 4. When will this feature be available? Is it already available or coming soon?
+
 5. Do our users have all the information they need to move forward?
+
 6. Is there an additional article for users to read to learn more?
 7. Would an image be beneficial to help users understand this release?
 8. What stakeholders have to approve this content? Does it require the legal team's approval?
@@ -190,7 +143,7 @@ Consider the following when creating an entry for your release notes:
 Some example release notes:
 
 - [Jira release notes](https://confluence.atlassian.com/jirasoftware/jira-software-release-notes-776821069.html)
-- [Slack](https://slack.com/release-notes/mac) and [more about their release note style](https://slackhq.com/a-little-thing-about-release-notes#)
+- [Slack](https://slack.com/release-notes/mac)
 - [What's new in Google Ad Manager](https://support.google.com/admanager/answer/179039?hl=en)
 
 Related talks:
@@ -221,4 +174,3 @@ Rather than reinvent the wheel, here are some resources curated by [Ivan Walsh](
 - [Meet Content -- Editorial Style for the Web](http://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
 - [Stanford -- Creating a web style guide](https://swsblog.stanford.edu/blog/creating-web-style-guide-cardinal-work)
 - [Techwhirl – Developing a Style Guide for Technical Publications](http://techwhirl.com/developing-a-departmental-style-guide/)
-- [UCR -- Writing for the Web, Content Guidelines](http://cms.ucr.edu/writing_web_content.html)
