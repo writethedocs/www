@@ -140,15 +140,37 @@ Consider the following when creating an entry for your release notes:
 7. Would an image be beneficial to help users understand this release?
 8. What stakeholders have to approve this content? Does it require the legal team's approval?
 
-Some example release notes:
+Release Notes Style Guide Resources:
 
-- [Jira release notes](https://confluence.atlassian.com/jirasoftware/jira-software-release-notes-776821069.html)
+- [Release notes guidelines - Rackspace](https://docs.rackspace.com/docs/style-guide/release-notes-guidelines/)
+- [Release notes and changelogs - Unity Docs Style Guide](https://unity-docs.gitbook.io/style-guide/style/release-notes)
+- [5 excellent product release note examples and how to write your own - Appcues](https://www.appcues.com/blog/release-notes-examples)
+- [The Importance of Writing Release Notes - Testlodge](https://blog.testlodge.com/importance-of-writing-release-notes/)
+- [Transforming Your Release Notes into Product Announcements - Parlor](https://www.parlor.io/blog/transforming-your-release-notes-into-product-announcements/)
+- [The art of writing great release notes - UX Collective](https://uxdesign.cc/the-art-of-writing-great-release-notes-6607e22efae1)
+- [How to make release notes count - Opensource](https://opensource.com/article/17/3/how-to-improve-release-notes)
+- [The best and the worst app release notes that will inspire you - announcekit](https://announcekit.app/blog/the-best-and-the-worst-app-release-notes-that-will-inspire-you)
+- [How to Write Release Notes Your Users Will Actually Read - ProductPlan](https://www.productplan.com/learn/release-notes-best-practices/)
+
+Some example of great release notes:
+
 - [Slack](https://slack.com/release-notes/mac)
-- [What's new in Google Ad Manager](https://support.google.com/admanager/answer/179039?hl=en)
+- [Jira](https://confluence.atlassian.com/adminjiraserver/upgrade-matrix-966063322.html)
+- [Google Ad Manager](https://support.google.com/admanager/answer/10290437)
+- [DataStax](https://docs.datastax.com/en/dse/6.8/dse-admin/datastax_enterprise/releaseNotes/releaseNotes.html)
+- [Firefox](https://www.mozilla.org/en-US/firefox/releases/)
+- [madcap](https://kb.madcapsoftware.com/Content/Flare/General/GEN1066F_-_Flare_2021_Release_Notes.htm)
+- [teamwork.](https://www.teamwork.com/roadmap)
+- [Unreal Engine](https://docs.unrealengine.com/en-US/WhatsNew/Builds/index.html)
+
+What to Avoid:
+
+- [App Release Notes Are Getting Stupid - TechCrunch](https://techcrunch.com/2015/09/04/app-release-notes-are-getting-stupid/)
 
 Related talks:
 
 - [Learning to love release notes](http://www.writethedocs.org/videos/prague/2018/learning-to-love-release-notes-anne-edwards/) at Write the Docs Prague 2018
+- [Alexander Koren - Rethinking Release Notes](https://www.youtube.com/watch?v=SWduFnDPjYg)
 
 ### Error messages
 
