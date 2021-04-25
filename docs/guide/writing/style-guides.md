@@ -97,6 +97,19 @@ Example guides for code samples:
 
 ## Command line resources
 
+A command-line interface (CLI) processes commands to a computer program in the form of lines of text. Style guide standards for [command line interface](https://en.wikipedia.org/wiki/Command-line_interface) docs and text include these useful CLI resources:
+
+- [Heroku Dev Center CLI Style Guide](https://devcenter.heroku.com/articles/cli-style-guide)
+- Google developer documentation style guide [Documenting command-line syntax](https://developers.google.com/style/code-syntax)
+- OSS [Command Line Interface Guidelines](https://clig.dev/#guidelines)
+- [10 design principles for delightful CLIs](https://blog.developer.atlassian.com/10-design-principles-for-delightful-clis/)
+- [Conventions for writing Linux man pages](https://linux.die.net/man/7/man-pages)
+- [CLI Docs to Improve DevX](https://www.youtube.com/playlist?list=PLQiULOUzZJ5hKZGdbC939GKBTLOtPaAyq)
+
+Relevant talks Write the Docs:
+
+- - [How I learned to stop worrying and love the CLI](http://www.writethedocs.org/videos/portland/2019/how-i-learned-to-stop-worrying-and-love-the-command-line-mike-jang/)
+
 ### API documentation
 
 Clear, well-formatted, and detailed API documentation is the key for developers to quickly consume and implement your API. It is also key to helping developers understand what happens when an API call is made, and in the case of failure, understand what went wrong and how to fix it.
@@ -167,6 +180,7 @@ Consider the following when creating an entry for your release notes:
   5. Policy/legal changes
 
 3. What is the goal for our users who use this feature?
+
 4. When will this feature be available? Is it already available or coming soon?
 5. Do our users have all the information they need to move forward?
 6. Is there an additional article for users to read to learn more?
