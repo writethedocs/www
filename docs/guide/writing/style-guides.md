@@ -12,7 +12,7 @@ You can certainly create a style guide of your own. For the sake of simplicity, 
 
 ## Style guide resources
 
-Style guides have been around for as long as people have been publishing in any format. Older style guides originally intended for specific forms of print publication have become basic standards for many others to refer to, including documentarians:
+Style guides have been around for as long as people have been publishing in any format. Traditional style guides originally intended for specific forms of print publication have become basic standards for many others to refer to, including documentarians:
 
 - The [Chicago Manual of Style](http://www.chicagomanualofstyle.org/book/ed17/frontmatter/toc.html)
 - The [AP Stylebook](https://www.apstylebook.com/)
@@ -20,19 +20,18 @@ Style guides have been around for as long as people have been publishing in any 
 Classics for software documentation include:
 
 - [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
-- [IBM style guide](https://www.ibm.com/developerworks/library/styleguidelines/)
 - [Apple Style Guide](https://help.apple.com/applestyleguide/)
 
-Others you might find useful:
+Other useful resources:
 
 - [Google developer documentation style guide](https://developers.google.com/style)
 - [MongoDB Style Guide](https://docs.mongodb.com/meta/style-guide/)
-- [Salesforce Style Guide](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm)
+- [Salesforce Style Guide for Documentation and User Interface Text](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm)
 - [The Red Hat Style Guide](http://stylepedia.net/style/)
-- [Rackspace Style Guide](https://docs.rackspace.com/docs/style-guide/)
+- [Rackspace Style Guide for Technical Content](https://docs.rackspace.com/docs/style-guide/)
 - [18F Content Guide](https://content-guide.18f.gov)
-- [Open SUSE Style Guide](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
-- [gnome Style Guide](https://developer.gnome.org/gdp-style-guide/2.32/gdp-style-guide.html)
+- [SUSE Documentation Style Guide](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
+- [gnome Documentation Style Guide](https://developer.gnome.org/gdp-style-guide/2.32/gdp-style-guide.html)
 
 - [What They Don't Tell You About Creating New Style Guides](https://www.writethedocs.org/videos/portland/2018/what-they-don-t-tell-you-about-creating-new-style-guides-thursday-bram/)
 
@@ -55,7 +54,7 @@ A command-line interface (CLI) processes commands to a computer program in the f
 - [Conventions for writing Linux man pages](https://linux.die.net/man/7/man-pages)
 - [CLI Docs to Improve DevX](https://www.youtube.com/playlist?list=PLQiULOUzZJ5hKZGdbC939GKBTLOtPaAyq)
 
-Relevant talks Write the Docs:
+Relevant talks from Write the Docs:
 
 - - [How I learned to stop worrying and love the CLI](http://www.writethedocs.org/videos/portland/2019/how-i-learned-to-stop-worrying-and-love-the-command-line-mike-jang/)
 
@@ -192,6 +191,7 @@ Related resources:
 - [How to Write Good Error Messages – UX Planet](https://uxplanet.org/how-to-write-good-error-messages-858e4551cd4)
 - [How to write better error messages – opensource.com](https://opensource.com/article/17/8/write-effective-error-messages)
 - [How to write better error messages for databases - PostgreSQL](https://www.postgresql.org/docs/current/error-style-guide.html)
+
 ## Writing Style
 
 The following style guides focus on writing more generally:
