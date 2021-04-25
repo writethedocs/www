@@ -2,13 +2,11 @@
 
 A style guide contains a set of standards for writing and designing content. It helps maintain a consistent style, voice, and tone across your documentation, whether you're a lone writer or part of a huge docs team. It can provide guidelines for different documentation deliverables, such as API reference manuals, tutorials, release notes, or overviews of complex technical concepts.
 
-A style guide saves documentarians time and trouble by providing a single reference for writing about common topics, features, and more. 
-The guidelines in a style guide help writers to produce documentation that has the same tone and grammatical style, regardless of who writes the documentation.
-A consistent tone and style can make your content easier to read by reducing your users' [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) and increasing their confidence in the content's authority. 
+A style guide saves documentarians time and trouble by providing a single reference for writing about common topics, features, and more. The guidelines in a style guide help writers to produce documentation that has the same tone and grammatical style, regardless of who writes the documentation. A consistent tone and style can make your content easier to read by reducing your users' [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) and increasing their confidence in the content's authority.
 
 ## Write your own style guide?
 
-A style guide can be something as simple as a list of decisions you've made about how to refer to different items you frequently write about. Or it can be as complicated as the mighty tomes of major publication houses. 
+A style guide can be something as simple as a list of decisions you've made about how to refer to different items you frequently write about. Or it can be as complicated as the mighty tomes of major publication houses.
 
 You can certainly create a style guide of your own. For the sake of simplicity, this approach might work if you're a lone writer or just starting a small docs group. But neither software nor its documentation operates in a vacuum, so it's a good idea to consult other resources as well. Working from an existing style guide can also help you figure out which things matter in your style guide.
 
@@ -37,7 +35,7 @@ Others you might find useful:
 
 ## Thinking about accessibility and bias
 
-It's important to consider accessibility and biases in your style guide to ensure that all readers can understand the content you produce. 
+It's important to consider accessibility and biases in your style guide to ensure that all readers can understand the content you produce.
 
 ### Writing for accessibility
 
@@ -49,7 +47,6 @@ Writing for accessibility includes making sure copy can be read by screenreaders
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bitsofcode
 - [Microsoft Style Guide Accessibility Terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)
 
-
 Relevant talks from Write the Docs:
 
 - [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write the Docs Prague 2018
@@ -57,9 +54,7 @@ Relevant talks from Write the Docs:
 
 ### Reducing bias in your writing
 
-You can reduce bias in your writing by considering the meanings and origins of your word choices and how those might be perceived or understood by your readers.
-Even thinking twice about what example user names you include in your documentation can significantly reduce bias in your documentation.
-Fortunately, resources are increasingly available to help you with this kind of attention to your writing.
+You can reduce bias in your writing by considering the meanings and origins of your word choices and how those might be perceived or understood by your readers. Even thinking twice about what example user names you include in your documentation can significantly reduce bias in your documentation. Fortunately, resources are increasingly available to help you with this kind of attention to your writing.
 
 Free guides:
 
@@ -83,7 +78,7 @@ Paid resources:
 
 Relevant talks from Write the Docs:
 
-- [What They Don’t Tell You About Creating New Style Guides](https://www.writethedocs.org/videos/portland/2018/what-they-don-t-tell-you-about-creating-new-style-guides-thursday-bram/)
+- [What They Don't Tell You About Creating New Style Guides](https://www.writethedocs.org/videos/portland/2018/what-they-don-t-tell-you-about-creating-new-style-guides-thursday-bram/)
 
 ### Providing inclusive example names
 
@@ -99,6 +94,8 @@ Example guides for code samples:
 - [Google code samples](https://developers.google.com/style/code-samples)
 - [Ruby / other languages](http://guides.rubyonrails.org/api_documentation_guidelines.html)
 - [Al language snippets](https://bocoup.com/blog/documenting-your-api)
+
+## Command line resources
 
 ### API documentation
 
@@ -134,8 +131,8 @@ Projects such as [Spring REST Docs](https://spring.io/projects/spring-restdocs) 
 
 #### API resources
 
-- <a href="https://github.com/paypal/api-standards/blob/master/api-style-guide.md">PayPal's API Design Guidelines</a>
-- <a href="https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md">Microsoft's REST API Guidelines</a>
+- [PayPal's API Design Guidelines](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
+- [Microsoft's REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 - [Documenting APIs: a guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/)
 - [The Ten Essentials for Good API Documentation](https://alistapart.com/article/the-ten-essentials-for-good-api-documentation/) by A List Apart
 
@@ -161,18 +158,20 @@ Release notes exist to provide users with vital information needed to continue t
 Consider the following when creating an entry for your release notes:
 
 1. What is the change/release?
-1. Why did we make this change? Why is it important to our users?
-   1. Improvement in workflow or UI
-   1. Consistency/feature parity
-   1. Expected revenue increase/decrease
-   1. Change in phase: Alpha/Beta/GA (Does this need to be called out?)
-   1. Policy/legal changes
-1. What is the goal for our users who use this feature?
-1. When will this feature be available? Is it already available or coming soon?
-1. Do our users have all the information they need to move forward?
-1. Is there an additional article for users to read to learn more?
-1. Would an image be beneficial to help users understand this release?
-1. What stakeholders have to approve this content? Does it require the legal team's approval?
+2. Why did we make this change? Why is it important to our users?
+
+  1. Improvement in workflow or UI
+  2. Consistency/feature parity
+  3. Expected revenue increase/decrease
+  4. Change in phase: Alpha/Beta/GA (Does this need to be called out?)
+  5. Policy/legal changes
+
+3. What is the goal for our users who use this feature?
+4. When will this feature be available? Is it already available or coming soon?
+5. Do our users have all the information they need to move forward?
+6. Is there an additional article for users to read to learn more?
+7. Would an image be beneficial to help users understand this release?
+8. What stakeholders have to approve this content? Does it require the legal team's approval?
 
 Some example release notes:
 
@@ -202,10 +201,10 @@ The following style guides focus on writing more generally:
 
 Rather than reinvent the wheel, here are some resources curated by [Ivan Walsh](http://www.ihearttechnicalwriting.com/style-guide-technical-writing/) (Kudos!):
 
-- [Creative Blog — Create a website style guide](http://www.creativebloq.com/design/create-website-style-guide-6123030)
-- [Gather Content — Developing a Content style guide](http://blog.gathercontent.com/tone-of-voice-guide)
-- [HubSpot — How to Create a Writing style guide Built for the Web](http://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx)
-- [Meet Content — Editorial Style for the Web](http://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
-- [Stanford — Creating a web style guide](https://swsblog.stanford.edu/blog/creating-web-style-guide-cardinal-work)
+- [Creative Blog -- Create a website style guide](http://www.creativebloq.com/design/create-website-style-guide-6123030)
+- [Gather Content -- Developing a Content style guide](http://blog.gathercontent.com/tone-of-voice-guide)
+- [HubSpot -- How to Create a Writing style guide Built for the Web](http://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx)
+- [Meet Content -- Editorial Style for the Web](http://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
+- [Stanford -- Creating a web style guide](https://swsblog.stanford.edu/blog/creating-web-style-guide-cardinal-work)
 - [Techwhirl – Developing a Style Guide for Technical Publications](http://techwhirl.com/developing-a-departmental-style-guide/)
-- [UCR — Writing for the Web, Content Guidelines](http://cms.ucr.edu/writing_web_content.html)
+- [UCR -- Writing for the Web, Content Guidelines](http://cms.ucr.edu/writing_web_content.html)
