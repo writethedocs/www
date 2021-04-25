@@ -1,8 +1,8 @@
 # Style Guides
 
-A style guide contains a set of standards for writing and designing content. It helps maintain a consistent style, voice, and tone across your documentation, whether you're a lone writer or part of a huge docs team. It can provide guidelines for different documentation deliverables, such as API reference manuals, tutorials, release notes, or overviews of complex technical concepts.
+A style guide contains a set of standards for writing and designing content. It helps maintain a consistent style, voice, and tone across your documentation, whether you're a lone writer or part of a huge docs team. A style guide saves documentarians time and trouble by providing a single reference for writing about common topics, features, and more. It can provide guidelines for different documentation deliverables, such as API reference manuals, tutorials, release notes, or overviews of complex technical concepts.
 
-A style guide saves documentarians time and trouble by providing a single reference for writing about common topics, features, and more. The guidelines in a style guide help writers to produce documentation that has the same tone and grammatical style, regardless of who writes the documentation. A consistent tone and style can make your content easier to read by reducing your users' [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) and increasing their confidence in the content's authority.
+A consistent tone and style makes your content easier to read, reducing your users' [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) and increasing their confidence in the content's authority.
 
 ## Write your own style guide?
 
@@ -170,7 +170,7 @@ What to Avoid:
 Related talks:
 
 - [Learning to love release notes](http://www.writethedocs.org/videos/prague/2018/learning-to-love-release-notes-anne-edwards/) at Write the Docs Prague 2018
-- [Alexander Koren - Rethinking Release Notes](https://www.youtube.com/watch?v=SWduFnDPjYg)
+- [Alexander Koren - Rethinking Release Notes](https://www.youtube.com/watch?v=SWduFnDPjYg) at Write the Docs Australia 2019
 
 ### Error messages
 
