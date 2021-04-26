@@ -4,6 +4,12 @@ A style guide contains a set of standards for writing and designing content. It 
 
 A consistent tone and style makes your content easier to read, reducing your users' [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) and increasing their confidence in the content's authority.
 
+Some content that used to live on this page has moved. See:
+
+- [Accessibility guidelines](https://www.writethedocs.org/guide/writing/accessibility)
+- [Reducing bias in your writing](https://www.writethedocs.org/guide/writing/reducing-bias)
+
+
 ## Write your own style guide?
 
 A style guide can be something as simple as a list of decisions you've made about how to refer to different items you frequently write about. Or it can be as complicated as the mighty tomes of major publication houses.
@@ -24,6 +30,7 @@ Classic style guides for software documentation include:
 
 Other useful resources:
 
+- [18F US Government Content Guide](https://content-guide.18f.gov)
 - [DigitalOcean Documentation Style Guide](https://docs.digitalocean.com/style/
 - [Google developer documentation style guide](https://developers.google.com/style)
 - [gnome Documentation Style Guide](https://developer.gnome.org/gdp-style-guide/2.32/gdp-style-guide.html)
@@ -32,7 +39,7 @@ Other useful resources:
 - [Salesforce Style Guide for Documentation and User Interface Text](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm)
 - [SUSE Documentation Style Guide](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
 - [The Red Hat Style Guide](http://stylepedia.net/style/)
-- [18F US Government Content Guide](https://content-guide.18f.gov)
+- [Voice and Tone guidelines -- Mailchimp](https://styleguide.mailchimp.com/voice-and-tone/)
 
 Relevant talk from Write the Docs:
 
@@ -50,12 +57,13 @@ Style guide and guidelines for code samples:
 
 A command-line interface (CLI) processes commands to a computer program in the form of lines of text. Style guide standards for [command line interface](https://en.wikipedia.org/wiki/Command-line_interface) docs and text include these useful CLI resources:
 
+- [10 design principles for delightful CLIs -- Atlassian](https://blog.developer.atlassian.com/10-design-principles-for-delightful-clis/)
 - [CLI Style Guide -- Heroku Dev Center](https://devcenter.heroku.com/articles/cli-style-guide)
 - [Command Line Interface Guidelines -- CLIG](https://clig.dev/#guidelines)
 - [Conventions for writing Linux man pages -- die.net](https://linux.die.net/man/7/man-pages)
 - [Documenting command-line syntax -- Google developer documentation style guide](https://developers.google.com/style/code-syntax)
-- [10 design principles for delightful CLIs -- Atlassian](https://blog.developer.atlassian.com/10-design-principles-for-delightful-clis/)
 - [CLI Docs to Improve DevX video series](https://www.youtube.com/playlist?list=PLQiULOUzZJ5hKZGdbC939GKBTLOtPaAyq)
+- [gnome Documentation Style Guide](https://developer.gnome.org/gdp-style-guide/2.32/gdp-style-guide.html)
 
 Relevant talk from Write the Docs:
 
@@ -144,15 +152,15 @@ Consider the following when creating an entry for your release notes:
 
 Release Notes Style Guide Resources:
 
+- [5 excellent product release note examples and how to write your own - Appcues](https://www.appcues.com/blog/release-notes-examples)
+- [How to make release notes count - Opensource](https://opensource.com/article/17/3/how-to-improve-release-notes)
+- [How to Write Release Notes Your Users Will Actually Read - ProductPlan](https://www.productplan.com/learn/release-notes-best-practices/)
 - [Release notes guidelines - Rackspace](https://docs.rackspace.com/docs/style-guide/release-notes-guidelines/)
 - [Release notes and changelogs - Unity Docs Style Guide](https://unity-docs.gitbook.io/style-guide/style/release-notes)
-- [5 excellent product release note examples and how to write your own - Appcues](https://www.appcues.com/blog/release-notes-examples)
 - [The Importance of Writing Release Notes - Testlodge](https://blog.testlodge.com/importance-of-writing-release-notes/)
 - [Transforming Your Release Notes into Product Announcements - Parlor](https://www.parlor.io/blog/transforming-your-release-notes-into-product-announcements/)
 - [The art of writing great release notes - UX Collective](https://uxdesign.cc/the-art-of-writing-great-release-notes-6607e22efae1)
-- [How to make release notes count - Opensource](https://opensource.com/article/17/3/how-to-improve-release-notes)
 - [The best and the worst app release notes that will inspire you - announcekit](https://announcekit.app/blog/the-best-and-the-worst-app-release-notes-that-will-inspire-you)
-- [How to Write Release Notes Your Users Will Actually Read - ProductPlan](https://www.productplan.com/learn/release-notes-best-practices/)
 
 Examples of great release notes:
 
@@ -195,14 +203,6 @@ Related resources:
 - [How to Write Good Error Messages – UX Planet](https://uxplanet.org/how-to-write-good-error-messages-858e4551cd4)
 - [How to write better error messages – opensource.com](https://opensource.com/article/17/8/write-effective-error-messages)
 - [How to write better error messages for databases - PostgreSQL](https://www.postgresql.org/docs/current/error-style-guide.html)
-
-## Writing Style
-
-The following style guides focus on writing more generally:
-
-- [The Sense of Style](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century)
-- [Stylish Academic Writing](https://www.hup.harvard.edu/catalog.php?isbn=9780674064485)
-- [Mailchimp's Voice and Tone guidelines](https://styleguide.mailchimp.com/voice-and-tone/)
 
 ## Other style resources
 
