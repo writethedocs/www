@@ -14,7 +14,7 @@ The three Oregon charities we're highlighting are:
 * `Water for Warm Springs <https://mrgfoundation.org/the-chuush-fund-water-for-warm-springs/>`_ - A campaign to ensure clear drinking water, a basic human right, for the Confederated Tribes of Warm Springs
 * `Asian Pacific American Network of Oregon <https://www.apano.org/>`_ - A group that unites Asian and Pacific Islanders to achieve social justice
 
-We will match donations to these organizations and others that are supporting similar efforts, up to a total of $1,500. Please `forward receipts <mailto:support@writethedocs.org?subject=Matching Campaign>`_ to us with a request for a matching donation. In the next couple months, we will post another blog post with the results of these donations, similar to `last year <https://www.writethedocs.org/blog/donations-black-community/>`__.
+We will match donations to these organizations and others that are supporting similar efforts, up to a total of $1,500. Please forward receipts to us at support@writethedocs.org with the title "Matching Donation" or similar. In the next couple months, we will post another blog post with the results of these donations, similar to `last year <https://www.writethedocs.org/blog/donations-black-community/>`__.
 
 We'd also like to thank all those in our community who are doing the work to make BIPOC members feel welcome and included. This includes hosting a BIPOC unconference at our Portland conference, a `#bipoc` channel on our Slack network, and the `links shared <https://www.writethedocs.org/blog/newsletter-april-2021/#what-we-re-reading-listening-to-watching>`_ recently in our newsletter.
 
