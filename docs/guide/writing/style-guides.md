@@ -165,7 +165,7 @@ Release Notes Style Guide Resources:
 Examples of great release notes:
 
 - [DataStax DSE](https://docs.datastax.com/en/dse/6.8/dse-admin/datastax_enterprise/releaseNotes/releaseNotes.html)
-- [Digital Ocean](<https://docs.digitalocean.com/release-notes/>
+- [Digital Ocean](https://docs.digitalocean.com/release-notes/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/releases/)
 - [Google Ad Manager](https://support.google.com/admanager/answer/10290437)
 - [Jira](https://confluence.atlassian.com/adminjiraserver/upgrade-matrix-966063322.html)
