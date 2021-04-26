@@ -12,6 +12,12 @@ A consistent tone and style makes your content easier to read, reducing your
 users' [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) and
 increasing their confidence in the content's authority.
 
+Some content that used to live on this page has moved. See:
+
+- [Accessibility guidelines](https://www.writethedocs.org/guide/writing/accessibility)
+- [Reducing bias in your writing](https://www.writethedocs.org/guide/writing/reducing-bias)
+
+
 ## Write your own style guide?
 
 You can certainly create a style guide of your own. This approach might work if
@@ -45,67 +51,6 @@ Others you might find useful:
 - [18F Content Guide](https://content-guide.18f.gov)
 - [SUSE Documentation Style Guide](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
 - [gnome Documentation Style Guide](https://developer.gnome.org/gdp-style-guide/2.32/gdp-style-guide.html)
-
-## Accessibility and bias
-
-It's important to consider accessibility and biases in your style guide to
-ensure that all readers can understand the content you produce.
-
-### Writing for accessibility
-
-Writing for accessibility includes making sure copy can be read by
-screenreaders, content organization, style and color of text emphasis, and more.
-
-- [Atlassian Design System - Inclusive language](https://atlassian.design/content/inclusive-writing)
-- [MailChimp Content Style Guide: Writing for Accessibility](https://styleguide.mailchimp.com/writing-for-accessibility/)
-- [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
-- [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bitsofcode
-- [Microsoft Style Guide Accessibility Terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)
-
-Relevant talks from Write the Docs:
-
-- [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write the Docs Prague 2018
-- [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015
-
-### Reducing bias in your writing
-
-You can reduce bias in your writing by considering the meanings and origins of
-your word choices and how those might be perceived or understood by your
-readers. Even thinking twice about what example user names you include in your
-documentation can significantly reduce bias in your documentation. Fortunately,
-resources are increasingly available to help you with this kind of attention to
-your writing.
-
-Free guides:
-
-- [Atlassian Design System - Inclusive Writing](https://atlassian.design/content/inclusive-writing)
-- [Google developer documentation style guide: Writing inclusive documentation](https://developers.google.com/style/inclusive-documentation)
-- [Microsoft Style Guide: Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
-- [American Psychological Association (APA) Style and Grammar Guidelines Bias-Free Language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/)
-
-Free resources:
-
-- [Internet Engineering Task Force (IETF) on Terminology, Power, and Oppressive Language](https://tools.ietf.org/id/draft-knodel-terminology-00.html)
-- [The Conscious Style Guide - a collection of resources](https://consciousstyleguide.com/)
-- [Diversity Style Guide](https://www.diversitystyleguide.com/)
-- [Linguistic Society of America Guidelines for Inclusive Language](https://www.linguisticsociety.org/resource/guidelines-inclusive-language)
-- [Linguistic Society of America Additional Inclusive Language Resources](https://www.linguisticsociety.org/content/further-content-related-inclusive-language-guidelines)
-- [American Psychological Association (APA)'s Guide on Bias-Free Language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/)
-
-Paid resources:
-
-- [The Responsible Communication Style Guide](https://rcstyleguide.com/)
-
-Relevant talks from Write the Docs:
-
-- [What They Don’t Tell You About Creating New Style Guides](https://www.writethedocs.org/videos/portland/2018/what-they-don-t-tell-you-about-creating-new-style-guides-thursday-bram/)
-
-### Providing inclusive example names
-
-- Wikipedia's lists of [most common forenames](https://en.wikipedia.org/wiki/List_of_most_popular_given_names) and [most common surnames](https://en.wikipedia.org/wiki/Lists_of_most_common_surnames) by region.
-- [Splunk style guide on example names](https://docs.splunk.com/Documentation/StyleGuide/current/StyleGuide/Domains)
-- [Behind the Name - name generator](https://www.behindthename.com/random/)
-- [The Story Shack - name generators](https://thestoryshack.com/tools/)
 
 ## Developer documentation and APIs
 
