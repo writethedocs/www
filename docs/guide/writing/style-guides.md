@@ -173,7 +173,7 @@ Related talks:
 
 ### Error messages
 
-Mistakes in software are unavoidable. Users might click a link that turns out to be broken or they might perform an action only to be met with an error. When a user encounters a problem, it's important to write error messages in a way that doesn't alienate the user.
+Errors in software are unavoidable. Users might click a link that turns out to be broken or they might perform an action only to be met with an unexpected outcome. When a user encounters a problem, it's important to write error messages in a way that doesn't alienate the user.
 
 Here are a few tips on what makes a good error message:
 
