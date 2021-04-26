@@ -9,7 +9,6 @@ Some content that used to live on this page has moved. See:
 - [Accessibility guidelines](https://www.writethedocs.org/guide/writing/accessibility)
 - [Reducing bias in your writing](https://www.writethedocs.org/guide/writing/reducing-bias)
 
-
 ## Write your own style guide?
 
 A style guide can be something as simple as a list of decisions you've made about how to refer to different items you frequently write about. Or it can be as complicated as the mighty tomes of major publication houses.
@@ -31,7 +30,7 @@ Classic style guides for software documentation include:
 Other useful resources:
 
 - [18F US Government Content Guide](https://content-guide.18f.gov)
-- [DigitalOcean Documentation Style Guide](https://docs.digitalocean.com/style/
+- [DigitalOcean Documentation Style Guide](<https://docs.digitalocean.com/style/>
 - [Google developer documentation style guide](https://developers.google.com/style)
 - [gnome Documentation Style Guide](https://developer.gnome.org/gdp-style-guide/2.32/gdp-style-guide.html)
 - [MongoDB Style Guide](https://docs.mongodb.com/meta/style-guide/)
@@ -67,7 +66,7 @@ A command-line interface (CLI) processes commands to a computer program in the f
 
 Relevant talk from Write the Docs:
 
-- [How I learned to stop worrying and love the CLI](https://www.writethedocs.org/videos/portland/2019/how-i-learned-to-stop-worrying-and-love-the-command-line-mike-jang/) at WTD Portland 2019 
+- [How I learned to stop worrying and love the CLI](https://www.writethedocs.org/videos/portland/2019/how-i-learned-to-stop-worrying-and-love-the-command-line-mike-jang/) at WTD Portland 2019
 
 ### API documentation
 
@@ -152,20 +151,21 @@ Consider the following when creating an entry for your release notes:
 
 Release Notes Style Guide Resources:
 
-- [5 excellent product release note examples and how to write your own - Appcues](https://www.appcues.com/blog/release-notes-examples)
-- [How to make release notes count - Opensource](https://opensource.com/article/17/3/how-to-improve-release-notes)
-- [How to Write Release Notes Your Users Will Actually Read - ProductPlan](https://www.productplan.com/learn/release-notes-best-practices/)
-- [Release notes guidelines - Rackspace](https://docs.rackspace.com/docs/style-guide/release-notes-guidelines/)
-- [Release notes and changelogs - Unity Docs Style Guide](https://unity-docs.gitbook.io/style-guide/style/release-notes)
-- [The Importance of Writing Release Notes - Testlodge](https://blog.testlodge.com/importance-of-writing-release-notes/)
-- [Transforming Your Release Notes into Product Announcements - Parlor](https://www.parlor.io/blog/transforming-your-release-notes-into-product-announcements/)
-- [The art of writing great release notes - UX Collective](https://uxdesign.cc/the-art-of-writing-great-release-notes-6607e22efae1)
-- [The best and the worst app release notes that will inspire you - announcekit](https://announcekit.app/blog/the-best-and-the-worst-app-release-notes-that-will-inspire-you)
+- [5 excellent product release note examples and how to write your own -- Appcues](https://www.appcues.com/blog/release-notes-examples)
+- [How to make release notes count -- Opensource](https://opensource.com/article/17/3/how-to-improve-release-notes)
+- [How to Write Release Notes Your Users Will Actually Read -- ProductPlan](https://www.productplan.com/learn/release-notes-best-practices/)
+- [Release notes guidelines -- Rackspace](https://docs.rackspace.com/docs/style-guide/release-notes-guidelines/)
+- [Release notes and changelogs -- Unity Docs Style Guide](https://unity-docs.gitbook.io/style-guide/style/release-notes)
+- [The Importance of Writing Release Notes -- Testlodge](https://blog.testlodge.com/importance-of-writing-release-notes/)
+- [Transforming Your Release Notes into Product Announcements -- Parlor](https://www.parlor.io/blog/transforming-your-release-notes-into-product-announcements/)
+- [The art of writing great release notes -- UX Collective](https://uxdesign.cc/the-art-of-writing-great-release-notes-6607e22efae1)
+- [The art of writing Release Notes A guide, examples & template -- Slite](https://slite.com/learn/release-notes)
+- [The best and the worst app release notes that will inspire you -- announcekit](https://announcekit.app/blog/the-best-and-the-worst-app-release-notes-that-will-inspire-you)
 
 Examples of great release notes:
 
 - [DataStax DSE](https://docs.datastax.com/en/dse/6.8/dse-admin/datastax_enterprise/releaseNotes/releaseNotes.html)
-- [Digital Ocean](https://docs.digitalocean.com/release-notes/
+- [Digital Ocean](<https://docs.digitalocean.com/release-notes/>
 - [Firefox](https://www.mozilla.org/en-US/firefox/releases/)
 - [Google Ad Manager](https://support.google.com/admanager/answer/10290437)
 - [Jira](https://confluence.atlassian.com/adminjiraserver/upgrade-matrix-966063322.html)
@@ -176,7 +176,7 @@ Examples of great release notes:
 
 What to avoid:
 
-- [App Release Notes Are Getting Stupid - TechCrunch](https://techcrunch.com/2015/09/04/app-release-notes-are-getting-stupid/)
+- [App Release Notes Are Getting Stupid -- TechCrunch](https://techcrunch.com/2015/09/04/app-release-notes-are-getting-stupid/)
 
 Related talks:
 
@@ -198,11 +198,11 @@ Here are a few tips on what makes a good error message:
 
 Related resources:
 
-- [Error Message Guidelines - Microsoft](https://docs.microsoft.com/en-us/windows/win32/debug/error-message-guidelines)
-- [Error Message Guidelines – NN Group](https://www.nngroup.com/articles/error-message-guidelines/)
-- [How to Write Good Error Messages – UX Planet](https://uxplanet.org/how-to-write-good-error-messages-858e4551cd4)
-- [How to write better error messages – opensource.com](https://opensource.com/article/17/8/write-effective-error-messages)
-- [How to write better error messages for databases - PostgreSQL](https://www.postgresql.org/docs/current/error-style-guide.html)
+- [Error Message Guidelines -- Microsoft](https://docs.microsoft.com/en-us/windows/win32/debug/error-message-guidelines)
+- [Error Message Guidelines –- NN Group](https://www.nngroup.com/articles/error-message-guidelines/)
+- [How to Write Good Error Messages -– UX Planet](https://uxplanet.org/how-to-write-good-error-messages-858e4551cd4)
+- [How to write better error messages –- opensource.com](https://opensource.com/article/17/8/write-effective-error-messages)
+- [How to write better error messages for databases -- PostgreSQL](https://www.postgresql.org/docs/current/error-style-guide.html)
 
 ## Other style resources
 
