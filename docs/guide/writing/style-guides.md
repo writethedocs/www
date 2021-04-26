@@ -30,7 +30,7 @@ Classic style guides for software documentation include:
 Other useful resources:
 
 - [18F US Government Content Guide](https://content-guide.18f.gov)
-- [DigitalOcean Documentation Style Guide](<https://docs.digitalocean.com/style/>
+- [DigitalOcean Documentation Style Guide](https://docs.digitalocean.com/style/)
 - [Google developer documentation style guide](https://developers.google.com/style)
 - [gnome Documentation Style Guide](https://developer.gnome.org/gdp-style-guide/2.32/gdp-style-guide.html)
 - [MongoDB Style Guide](https://docs.mongodb.com/meta/style-guide/)
