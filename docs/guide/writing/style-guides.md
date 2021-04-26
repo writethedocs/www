@@ -17,7 +17,7 @@ increasing their confidence in the content's authority.
 You can certainly create a style guide of your own. This approach might work if
 you're a lone writer or just starting a small docs group. But neither software
 nor its documentation operates in a vacuum, so it's a good idea to consult other
-resources as well. Working from an existing style guide can also help you figure
+resources as well. Working from an existing style guide also helps you figure
 out which things matter in your style guide.
 
 ## Style guide resources
