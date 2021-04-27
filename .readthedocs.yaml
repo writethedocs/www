@@ -3,8 +3,7 @@ version: 2
 # No .html on files
 sphinx:
   builder: dirhtml
-  configuration: conf.py
-  fail_on_warning: true
+  configuration: docs/conf.py
 
 # Newish Python
 python:
