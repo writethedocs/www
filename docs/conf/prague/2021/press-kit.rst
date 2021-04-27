@@ -38,9 +38,8 @@ Useful numbers
 
 We have some stats about attendees, membership, and website hits over on the following blog posts:
 
-- :doc:`/blog/write-the-docs-2017-stats/`
-- :doc:`/blog/write-the-docs-2016-year-in-review/`
-
+- :doc:`/blog/2021-january-community-update/`
+- :doc:`/blog/write-the-docs-2020-stats/`
 
 Images and logos
 -------------------
