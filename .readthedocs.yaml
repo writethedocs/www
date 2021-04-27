@@ -1,0 +1,15 @@
+version: 2
+
+# No .html on files
+sphinx:
+  builder: dirhtml
+  configuration: docs/conf.py
+
+# Newish Python
+python:
+  version: 3.7
+  install:
+    - requirements: requirements.txt
+
+# No PDF
+formats: []
