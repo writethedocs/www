@@ -1,0 +1,16 @@
+version: 2
+
+# No .html on files
+sphinx:
+  builder: dirhtml
+  configuration: conf.py
+  fail_on_warning: true
+
+# Newish Python
+python:
+  version: 3.7
+  install:
+    - requirements: requirements.txt
+
+# No PDF
+formats: []
