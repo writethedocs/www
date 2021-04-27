@@ -21,13 +21,15 @@ New to Caring About Documentation?
    imposter
 
 
-Experienced Documentarian?
---------------------------
+Foundational Resources
+----------------------
 
 .. toctree::
    :maxdepth: 2
 
    writing/style-guides
+   writing/accessibility
+   writing/reducing-bias
 
 * Structuring your Documentation
 

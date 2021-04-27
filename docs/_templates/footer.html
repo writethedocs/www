@@ -28,10 +28,20 @@
     line-height: 1.4;
 }
 </style>
-
 <div class="footer">
+      {% if "guide/" in pagename  %}
+      <hr>
       <div class="container">
-          <span style="float: left;">© Write the Docs 2019 </span>
+        <h2>
+          Missing something?
+        </h2>
+        <p>
+          You can always contribute to our guide on <a href="https://github.com/writethedocs/www/tree/master/docs/guide">GitHub</a>.
+        </p>
+      </div>
+      {% endif %}
+      <div class="container">
+          <span style="float: left;">© Write the Docs</span>
           <span style="float: left;">
             &nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
           </span>

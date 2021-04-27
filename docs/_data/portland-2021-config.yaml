@@ -25,17 +25,17 @@ buttons:
     #   link: /welcome-wagon
     # - text: See the Schedule!
     #   link: /schedule
-    - text: Buy a Ticket!
-      link: /tickets
+    # - text: Buy a Ticket!
+    #   link: /tickets
     # - text: Sponsor us
     #   link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
     #- text: See the talks!
     #   link: /speakers
-    # - text: See the Schedule!
-    #   link: /schedule
-    - text: Prepare with the Welcome Wagon
+    - text: See the Schedule!
+      link: /schedule
+    - text: Read our guide
       link: /welcome-wagon
     # - text: Watch the Live Stream
     #   link: /livestream
@@ -54,12 +54,12 @@ buttons:
      #   link: /sponsors/prospectus
     # - text: See the talks!
     #   link: /speakers
-    - text: Buy a Ticket!
-      link: /tickets
-    - text: Prepare with the Welcome Wagon
+    # - text: Buy a Ticket!
+    #   link: /tickets
+    - text: Read our guide
       link: /welcome-wagon
-    # - text: See the schedule!
-    #   link: /schedule
+    - text: See the schedule!
+      link: /schedule
     # - text: Watch the Live Stream
     #   link: /livestream
     # - text: Browse the photos
