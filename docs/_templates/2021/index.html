@@ -67,7 +67,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
 
         <div class="ctas-block">
 
-         {% if buttons is defined %}
+         {% if buttons is defined and buttons.top %}
          {% for callout in buttons.top %}
            <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year_str + callout.link ) }}{% endif %}">{{ callout.text }}</a>
          {% endfor %}
