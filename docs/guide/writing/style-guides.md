@@ -176,12 +176,14 @@ Examples of great release notes:
 
 What to avoid:
 
+<!-- vale off -->
+
 - [App Release Notes Are Getting Stupid -- TechCrunch](https://techcrunch.com/2015/09/04/app-release-notes-are-getting-stupid/)
 - [Release Notes: 13 Mistakes to Avoid When Writing Bugs and Enhancements -- klariti.com](https://www.klariti.com/technical-writing/2015/05/08/release-notes-mistakes-to-avoid/) Related talks:
-
 - [Learning to love release notes](http://www.writethedocs.org/videos/prague/2018/learning-to-love-release-notes-anne-edwards/) at Write the Docs Prague 2018
-
 - [Rethinking Release Notes](https://www.youtube.com/watch?v=SWduFnDPjYg) at Write the Docs Australia 2019
+
+<!-- vale off -->
 
 ### Error messages
 
