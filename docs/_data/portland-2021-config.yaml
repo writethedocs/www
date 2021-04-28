@@ -33,10 +33,10 @@ buttons:
     #  link: /cfp
     #- text: See the talks!
     #   link: /speakers
-    - text: See the Schedule!
-      link: /schedule
-    - text: Read our guide
-      link: /welcome-wagon
+#    - text: See the Schedule!
+#      link: /schedule
+#    - text: Read our guide
+#      link: /welcome-wagon
     # - text: Watch the Live Stream
     #   link: /livestream
     # - text: Browse the photos
@@ -56,10 +56,10 @@ buttons:
     #   link: /speakers
     # - text: Buy a Ticket!
     #   link: /tickets
-    - text: Read our guide
-      link: /welcome-wagon
-    - text: See the schedule!
-      link: /schedule
+#    - text: Read our guide
+#      link: /welcome-wagon
+#    - text: See the schedule!
+#      link: /schedule
     # - text: Watch the Live Stream
     #   link: /livestream
     # - text: Browse the photos
@@ -217,7 +217,7 @@ flaghasunconf: False
 flaghasshirts: True
 flagvideos: False
 flaglivestreaming: False
-flagpostconf: False
+flagpostconf: True
 
 # Truthy things that don't change
 flaghashike: False
