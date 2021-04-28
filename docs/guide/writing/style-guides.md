@@ -183,7 +183,7 @@ What to avoid:
 - [Learning to love release notes](http://www.writethedocs.org/videos/prague/2018/learning-to-love-release-notes-anne-edwards/) at Write the Docs Prague 2018
 - [Rethinking Release Notes](https://www.youtube.com/watch?v=SWduFnDPjYg) at Write the Docs Australia 2019
 
-<!-- vale off -->
+<!-- vale on -->
 
 ### Error messages
 
