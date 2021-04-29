@@ -14,3 +14,26 @@ Schedule
 --------
 
 Scheduling information is available on our :doc:`/conf/{{shortcode}}/{{year}}/schedule` page.
+
+
+Tips for Attendees
+------------------
+
+If you're attending the Virtual Job Fair, make sure you're signed in to Hopin.
+
+* Select Expo in the left-hand pane.
+* Select the company of your choice.
+* You now have the following choices:
+  * Chat with attendees from the company under the Chat tab.
+  * Select the button to "Share Audio and Video". You can then chat "Face to Face" with company representatives.
+
+Tips for Sponsors
+-----------------
+
+If you want to maximize your contacts with potential new employees, make sure to:
+
+* Set up moderator privileges. To minimize delays, set this up **before the conference**. If needed, you can also request access from the designated Job Fair volunteer from the Write the Docs conference.
+* When you're a moderator, people who want to "Share Audio and Video" will appear under the "Moderator Panel" at the bottom of the screen.
+
+You can also select users for 1:1 chats.
+
