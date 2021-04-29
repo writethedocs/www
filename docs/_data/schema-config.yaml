@@ -31,6 +31,7 @@ about: include('about-details')
 cfp: include('cfp-details', required=False)
 grants: include('grants-details', required=False)
 shirts: include('shirts-details', required=False)
+unconf: include('unconf-details', required=False)
 
 flaghassponsors: bool()
 flagcfp: bool()
@@ -47,6 +48,9 @@ flagpostconf: bool(required=False)
 flaghasshirts: bool(required=False)
 
 flaghastour: bool(required=False)
+flaghasunconf: bool(required=False)
+flaghasjobfair: bool(required=False)
+flagrunofshow: bool(required=False)
 flaghashike: bool()
 flaghasboat: bool()
 flaglanding: bool()
@@ -90,6 +94,7 @@ date-details:
   short: str()
   tickets_live: str()
   month: str()
+  conference: include('day-details', required=False)
   day_one: include('day-details', required=False)
   day_two: include('day-details', required=False)
   day_three: include('day-details', required=False)
@@ -102,6 +107,11 @@ day-details:
   summary: str(required=False)
   icon: str(required=False)
   dotw: str(required=False)
+  writing_day_time: str(required=False)
+  talk_time: str(required=False)
+  unconference_time: str(required=False)
+  job_fair_time: str(required=False)
+  social_time: str(required=False)
 
 sponsorship-details:
   first_draft: include('price2', required=False)
@@ -144,6 +154,7 @@ about-details:
   location: str(required=False)
   photos: str(required=False)
   projector_ratio: str(required=False)
+  social_venue: str(required=False)
 
 cfp-details:
   url: str(required=True)
@@ -159,3 +170,6 @@ grants-details:
 shirts-details:
   url: str(required=True)
   ends: str(required=True)
+
+unconf-details:
+  url: str(required=True)

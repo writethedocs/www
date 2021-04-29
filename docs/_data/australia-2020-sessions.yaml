@@ -3,11 +3,12 @@
   series: Write the Docs Australia
   series_slug: australia
   year: 2020
+  youtubeId: luYNcug3tCs
   speakers:
   - name: Kenzie Woodbridge
     slug: kenzie-woodbridge
     twitter: '@rainbowkenz'
-    website: www.prosocialresearch.ca
+    website: http://www.prosocialresearch.ca
   abstract: <p>This talk takes the approach of applying Player Type Theory (from game
     design) to getting people involved and engaged in technical and documentation
     projects in a technical environment. Practical tips are offered for dealing with
@@ -17,11 +18,12 @@
   series: Write the Docs Australia
   series_slug: australia
   year: 2020
+  youtubeId: OFpQJSzWz6s
   speakers:
   - name: Sayraphim Lothian
     slug: sayraphim-lothian
     twitter: '@sayraphim'
-    website: www.sayraphimlothian.com
+    website: http://www.sayraphimlothian.com
   abstract: '<p>If a picture tells a thousand words, how many is a video worth?</p>
 
     <p>A study in 2015 found that 91% of smart phone users turn to their smart phone
@@ -41,6 +43,7 @@
   series: Write the Docs Australia
   series_slug: australia
   year: 2020
+  youtubeId: K00s0v0eMAs
   speakers:
   - name: Ankita Tripathi
     slug: ankita-tripathi
@@ -65,6 +68,7 @@
   series: Write the Docs Australia
   series_slug: australia
   year: 2020
+  youtubeId: Xl374PMXiJI
   speakers:
   - name: Marcelina Haftka
     slug: marcelina-haftka
@@ -83,6 +87,7 @@
   series: Write the Docs Australia
   series_slug: australia
   year: 2020
+  youtubeId: T1-AnEfUR4M
   speakers:
   - name: Andrea Szöllössi
     slug: andrea-szollossi
@@ -156,6 +161,7 @@
   series: Write the Docs Australia
   series_slug: australia
   year: 2020
+  youtubeId: cntzZ-3n-PM
   speakers:
   - name: Marika Vertzonis
     slug: marika-vertzonis
@@ -182,6 +188,7 @@
   series: Write the Docs Australia
   series_slug: australia
   year: 2020
+  youtubeId: gqImziESRho
   speakers:
   - name: Lana Brindley
     slug: lana-brindley
@@ -198,6 +205,7 @@
   series: Write the Docs Australia
   series_slug: australia
   year: 2020
+  youtubeId: 3TWEDhCY3Qs
   speakers:
   - name: Michael Belton
     slug: michael-belton
@@ -235,6 +243,7 @@
   series: Write the Docs Australia
   series_slug: australia
   year: 2020
+  youtubeId: -xs-gYYSGiI
   speakers:
   - name: Chris Ward
     slug: chris-ward
@@ -247,6 +256,7 @@
   series: Write the Docs Australia
   series_slug: australia
   year: 2020
+  youtubeId: 9TEIndrieYY
   speakers:
   - name: Sam Irons
     slug: sam-irons
@@ -266,11 +276,12 @@
   series: Write the Docs Australia
   series_slug: australia
   year: 2020
+  youtubeId: CoShm-AXYP4
   speakers:
   - name: Scott DeLoach
     slug: scott-deloach
     twitter: '@scottdeloach'
-    website: www.clickstart.net
+    website: http://www.clickstart.net
   abstract: <p>Microcontent is a focused block of content that can be easily consumed
     by users and reused in search results, context-sensitive help, chatbots, VR/AR
     systems, and more. In this presentation, I will share real-world examples of microcontent,
@@ -281,11 +292,12 @@
   series: Write the Docs Australia
   series_slug: australia
   year: 2020
+  youtubeId: RBStYOBgeB4
   speakers:
   - name: Yael Ben-David
     slug: yael-ben-david
     twitter: '@YaelBenDavid'
-    website: medium.com/@yaelbendavid
+    website: http://medium.com/@yaelbendavid
   abstract: '<p>I was completely panicked. The light on my dash came on and I had
     absolutely no idea what it meant. The icon was indecipherable. If only it had
     been accompanied by a tiny bit of microcopy. Two words -- “flat tire” -- would
@@ -321,6 +333,7 @@
   series: Write the Docs Australia
   series_slug: australia
   year: 2020
+  youtubeId: _SiOkgQd_Js
   speakers:
   - name: Akshay Iyer
     slug: akshay-iyer
@@ -337,11 +350,12 @@
   series: Write the Docs Australia
   series_slug: australia
   year: 2020
+  youtubeId: mWLXSQT4PFU
   speakers:
   - name: Vikram Mulay
     slug: vikram-mulay
     twitter:
-    website: www.linkedin.com/in/vikramcmulay
+    website: http://www.linkedin.com/in/vikramcmulay
   abstract: '<p>Great localized content begins with a great copy! However, designing
     a great copy is hard without knowing the best practices. This talk will help you
     establish best practices for internationalization (i18n) that will enhance your
@@ -365,6 +379,7 @@
   series: Write the Docs Australia
   series_slug: australia
   year: 2020
+  youtubeId: NrEbQOzGFTM
   speakers:
   - name: Matt Reiner
     slug: matt-reiner

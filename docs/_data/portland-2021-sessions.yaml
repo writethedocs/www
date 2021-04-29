@@ -1,0 +1,537 @@
+- title: A guide to getting started in open source
+  slug: a-guide-to-getting-started-in-open-source-abigail-mccarthy
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2021
+  speakers:
+  - name: Abigail McCarthy
+    slug: abigail-mccarthy
+    twitter: 
+    website: 
+  abstract: '<p>Open source projects are a great opportunity to grow your skills or
+    learn new ones. Project maintainers are always looking for new folks to help out
+    with various aspects of the project, especially when it comes to documentation.
+    But how do you get started? </p>
+
+    <p>For me, this was the most overwhelming question when I first started in open
+    source a few years ago. Coming from a background in closed source, stepping into
+    the open source world felt a lot like stepping into Wonderland to me. There were
+    so many new terms to learn, new ways of doing things, and, the scariest of all,
+    I now had to do everything in front of the whole world. EEEK! </p>
+
+    <p>Looking back over my journey starting out as a nervous newbie and transitioning
+    to technical documentation lead for prominent open source projects (Harbor and
+    Velero), I''ll share some lessons learned and tips on how you can get started
+    on your adventure in the world of open source, including</p>
+
+    <ul>
+
+    <li>Researching your path and picking an open source project that fits you</li>
+
+    <li>Gearing up for the trip by getting familiar with commonly used tools and terms</li>
+
+    <li>Plotting your course and knowing what you want out of the experience</li>
+
+    <li>Being ready to ask for help when you need directions</li>
+
+    <li>Remembering you don’t need to get there in a day, start by setting small goals</li>
+
+    </ul>'
+- title: Writing a perfect technical tutorial
+  slug: writing-a-perfect-technical-tutorial-jessica-garson
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2021
+  speakers:
+  - name: Jessica Garson
+    slug: jessica-garson
+    twitter: JessicaGarson
+    website: 
+  abstract: <p>As a developer advocate at Twitter, I'm often writing technical tutorials
+    as a core part of my role. In this talk, I'll go over the process I use to source
+    ideas for tutorials, how to start creating tutorials, gather feedback, and the
+    next steps once the tutorial is published.</p>
+- title: 'Building a style guide from the ground up: lessons learned from a lone writer'
+  slug: building-a-style-guide-from-the-ground-up-lessons-learned-from-a-lone-writer-deanna-thompson
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2021
+  speakers:
+  - name: Deanna Thompson
+    slug: deanna-thompson
+    twitter: '@itsdeannat'
+    website: 
+  abstract: '<p>About a year ago, I joined a team that used the Google Developer Documentation
+    Style Guide (GDDSG) for our documentation. While it met our needs for the most
+    part, I realized that we needed a style guide customized for our product and brand.
+    So, I set out to create a style guide just for us—as a complement to the GDDSG.
+    </p>
+
+    <p>But creating a style guide is no easy task. It’s even harder when you’re a
+    one-person documentation team and have no prior experience creating style guides.
+    In this talk, I’ll share lessons learned from my experiences building a style
+    guide as a lone writer, mistakes to avoid, and practical tips for anyone who wants
+    to build a style guide from scratch.</p>'
+- title: Invisible influence — the documentation behind UX copy
+  slug: invisible-influence-the-documentation-behind-ux-copy-katherine-karaus
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2021
+  speakers:
+  - name: Katherine Karaus
+    slug: katherine-karaus
+    twitter: 
+    website: https://kkwritescopy.com/
+  abstract: '<p>The words in your favorite app may seem simple, helpful, and unobtrusive.
+    But to get there, UX writers are playing an elaborate game of influence. </p>
+
+    <p>To arrive at the words you see on the screen, we juggle input from product
+    management, design, marketing, engineering, and user research. The words we write
+    may seem simple, but the documentation we use to get there goes deep. </p>
+
+    <p>This talk will show you how to use documentation to build a design rationale,
+    influence others, and show the value of UX writing to the broader organization.
+    </p>
+
+    <p>This talk will show you documentation techniques to:</p>
+
+    <p><em>Support your design decisions
+
+    </em>Build new guidelines and standards
+
+    <em>Bring your partners along on the journey
+
+    </em>Show the value of your work</p>
+
+    <p>If you need to convince somebody of the “why” behind the “what”, this talk
+    is for you.</p>'
+- title: 'Shuffle ball change: Sashay your way to clearer API documentation'
+  slug: shuffle-ball-change-sashay-your-way-to-clearer-api-documentation-rachael-stavchansky
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2021
+  speakers:
+  - name: Rachael Stavchansky
+    slug: rachael-stavchansky
+    twitter: https://twitter.com/RMStav
+    website: http://rachael.stavchansky.com/
+  abstract: '<p>Learn how to tap into your audacious self to improve API documentation
+    at your organization. In this talk, I’ll compare processes across a few different
+    companies and teams for authoring, editing, and maintaining various types of API
+    reference documentation.</p>
+
+    <p>We’ll touch on these topics and more:</p>
+
+    <ul>
+
+    <li>Discovering unexpected benefits of API-specific knowledge</li>
+
+    <li>Levering bulk edits for when a reference needs an entire overhaul</li>
+
+    <li>Balancing ownership of an OpenAPI spec or source comments</li>
+
+    <li>Chasing developer commits</li>
+
+    <li>Establishing API reference writing guidelines for developers</li>
+
+    </ul>
+
+    <p>If you’ve ever found yourself wondering how and where to start making improvements
+    to API reference docs, this talk may inspire you to heel/toe your way into the
+    spotlight.</p>'
+- title: 'Almost None to Some: Driving DISQO''s Doc Culture as a Solo Documentarian'
+  slug: almost-none-to-some-driving-disqo-s-doc-culture-as-a-solo-documentarian-falon-darville
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2021
+  speakers:
+  - name: Falon Darville
+    slug: falon-darville
+    twitter: 
+    website: falondarville.com
+  abstract: '<p>When I was hired at DISQO as a Technical Writer,  the number of engineers
+    was hovering around seventy, and there was just one of me. With numerous Google
+    Docs and Markdown files strewn about and much to still be documented, it was critical
+    to take consistent action to build up DISQO''s documentation alongside our documentation
+    culture. In my talk, I want to tell the story of how we went from almost no documentation
+    to some documentation, and how I lead this as one person, imperfectly.</p>
+
+    <p>Some things I''ll talk about:</p>
+
+    <ol>
+
+    <li>Why some documentation is better than none and how to move from almost none
+    to some with limited resources</li>
+
+    <li>Building our documentation tenets (Transparency, Improved Communication, Lower
+    Barriers to Entry)</li>
+
+    <li>How I engaged people involved in building out dozens of docs over three websites
+    as the sole Technical Writer for a 70+ member engineering org</li>
+
+    <li>Being comfortable with unfinished documentation</li>
+
+    <li>How I established partnerships, found my place in the organization as our
+    only Technical Writer, and started our Tech Doc Guild</li>
+
+    <li>Technical writing as part of the engineering team, and training our less-technical
+    members on our docs-as-code process</li>
+
+    </ol>'
+- title: Always complete, never finished
+  slug: always-complete-never-finished-daniele-procida
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2021
+  speakers:
+  - name: Daniele Procida
+    slug: daniele-procida
+    twitter: '@EvilDMP'
+    website: 
+  abstract: '<p>Often, the easiest part of work is <strong>doing it</strong>. The
+    hard part is <strong>knowing what</strong> to do. </p>
+
+    <p>The documentation writer who has sat staring at a blank page wondering how
+    and where to get started will find this familiar. A large documentation restructuring
+    project can have exactly the same paralysing effect.</p>
+
+    <p>Facing a project large enough not to be completable in one go, and that won''t
+    have much value until it''s actually complete, we often feel we don''t know how
+    to begin. Complex projects lure us into creating frighteningly complex plans,
+    that we draw all the way to our envisaged finish-lines. The next thing we know
+    we are staring at a mountain of our own making. </p>
+
+    <p>It''s a trap! It''s by no means exclusive to documentation, but we documentation
+    writers fall into it particularly hard.</p>
+
+    <p>I fall into it often. I see colleagues and clients do it too.</p>
+
+    <p><strong>We fall into this trap because we confuse the finished with the complete</strong>.
+    The way out is to understand that, as a living project, <strong>our documentation
+    will never be finished, but can always be complete</strong>.</p>
+
+    <p>Understanding this gives us:</p>
+
+    <ul>
+
+    <li>several <strong>practical, immediately usable strategies and techniques</strong>
+    for tackling jammed documentation projects and starting out on new ones in ways
+    that keep the work flowing</li>
+
+    <li>a <strong>general approach to documentation</strong> that helps steer us around
+    the trap, and climb out of it more quickly</li>
+
+    <li>an <strong>incremental, evolutionary way of working</strong> on large documentation
+    tasks that makes every step, from the very first one, a value-adding improvement</li>
+
+    </ul>
+
+    <p>Above all, it turns the paralysing question of <strong>knowing what</strong>
+    to do into a liberating act of <strong>deciding</strong> to do, by <strong>making
+    it easy to act</strong>.</p>
+
+    <p>I''ll discuss all these with real-life examples, and aim to leave the audience
+    with a handy mental tool-kit that will help them the next time they find themselves
+    facing the same trap.</p>'
+- title: Writing Documentation with Neurodivergent Open Source Contributors In Mind
+  slug: writing-documentation-with-neurodivergent-open-source-contributors-in-mind-rin-oliver
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2021
+  speakers:
+  - name: Rin Oliver
+    slug: rin-oliver
+    twitter: '@kiran_oliver'
+    website: https://ckoliver.com/
+  abstract: '<p>When writing accessible and equitable documentation, it is important
+    to remember that as of 2016, studies showed that 1 in 54 people are neurodivergent,
+    and that neurodivergence is not something one ‘ages out’ of. Neurodivergent people
+    are your fellow community members, customers, coworkers, and open source peers.
+    As such, writing documentation without taking the needs of the neurodivergent
+    community into account will result in not only unhappy users, but unhappy contributors
+    also. </p>
+
+    <p>Writing documentation is a skill that requires effort, dedication, and commitment
+    to improving not only the particular project you’re working on but also the wider
+    open source community as a whole. However, technical documentation and contributor
+    guidelines may be unclear to contributors who are neurodivergent.</p>
+
+    <p>Neurodivergent individuals can often face challenges in the following areas
+    when contributing to open source and writing or reading documentation, which can
+    include:</p>
+
+    <ul>
+
+    <li>Identifying a DRI for an issue if an organization or project’s hierarchy is
+    unclear </li>
+
+    <li>Implied ‘best people to contact,’ that one only knows about if they are already
+    a member of a community</li>
+
+    <li>Unclear descriptions of where to get started on their contributor journey</li>
+
+    <li>Language that assumes a particular skill set or experience level with a particular
+    technology or concept. </li>
+
+    </ul>
+
+    <p>Through education and awareness, we can change this situation for the better,
+    and create a more equitable and welcoming documentation community for those that
+    are neurodivergent.</p>'
+- title: Putting the “tech” in technical writer
+  slug: putting-the-tech-in-technical-writer-swapnil-ogale
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2021
+  speakers:
+  - name: Swapnil Ogale
+    slug: swapnil-ogale
+    twitter: swapnilogale
+    website: https://swapnilogale.github.io/
+  abstract: '<p>It is often a myth that developers get to play with more shiny stuff
+    and tools. Over the last few years, a lot of non-tech teams have upped their game
+    and are now actively involved with, and collaborating using the same toolchain
+    as the rest of the technical team. </p>
+
+    <p>Coming from organizations where I was primarily writing documentation using
+    tools with often standalone WYSIWYG editors and environments for over 10 years,
+    docs-as-code (particularly writing plain text) has really been a massive change.
+    I suspect I am not the sole occupant of this proverbial boat though. Quite a few
+    tech writers who have made this journey would agree that it is indeed a leap worth
+    taking. </p>
+
+    <p>How do they make this transition though? How do they get comfortable with the
+    idea of plain text, command line, and automation? </p>
+
+    <p>In my talk, I take the audience through a few ideas and examples (both personal
+    and community sourced) for:
+
+    a. Looking under the hood (of WYSIWYG tools)
+
+    b. Learning just enough Git
+
+    c. Thinking in plain text
+
+    d. Templates, toolchain and processes
+
+    e. Faster reviews and builds</p>'
+- title: 'Beyond metrics: Using maturity models to develop a docs strategy'
+  slug: beyond-metrics-using-maturity-models-to-develop-a-docs-strategy-sarah-r-rodlund
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2021
+  speakers:
+  - name: Sarah R. Rodlund
+    slug: sarah-r-rodlund
+    twitter: '@SRRodlund'
+    website: https://sarahrodlund.com/
+  abstract: '<p>How do you measure the impact of your work? What’s the best way to
+    communicate its value to others in your organization? What metrics should you
+    use? Does information about page views and up or down votes actually lead to better
+    docs? These are perennial questions for technical writers building a docs strategy.</p>
+
+    <p>At the Wikimedia Foundation, we use maturity models to guide our docs development
+    and to track our progress over time. Maturity models are flexible frameworks that
+    help us to gain a more honest and holistic understanding of our work and its impact
+    than we can with traditional metrics alone. They allow us to decouple our definition
+    of success from abstract numbers. Instead of telling us how far or how fast we
+    are going, maturity models allow us to see where we have been, where we are, and
+    where we are headed. They give us clarity about what we’re doing well and what
+    we need to improve.</p>
+
+    <p>In this talk, I’ll explore:</p>
+
+    <p>Some metrics technical writers use to measure the impact of their work and
+    why they fall short
+
+    What maturity models are and how they can provide a holistic view of your docs
+    strategy and its impact</p>
+
+    <p>I’ll also demonstrate how we use maturity models in the Wikimedia Foundation’s
+    technical department to stay oriented and to guide our focus.</p>'
+- title: The Secret History of Libraries
+  slug: the-secret-history-of-libraries-paris-buttfield-addison
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2021
+  speakers:
+  - name: Paris Buttfield-Addison
+    slug: paris-buttfield-addison
+    twitter: '@parisba'
+    website: https://hey.paris
+  abstract: '<p>Why do we care about libraries? Why are they so special? What makes
+    them feel like secular sacred spaces? How do we capture and preserve that feeling?
+    How do we recreate it? </p>
+
+    <p>This session explores what''s so special about libraries, and unpacks the layers
+    behind what makes a library a library. Open data wasn''t invented in the age of
+    the computer!</p>
+
+    <p>In this session, from a computer scientist with a history degree, you will
+    learn such things as:</p>
+
+    <ul>
+
+    <li>why and how traditional Jewish law says that no writings with the name of
+    God on them can be discarded, and how this led to treasure troves of resources
+    on medieval Jews (as it turns out, people in that era who <em>could</em> write,
+    would barely write anything without referring to God, so if you want a medieval
+    shopping list, I''ll tell you where to go!)</li>
+
+    <li>how craftspeople in the Renaissance would use old books, and scraps of paper,
+    to make boxes. This preserved writing never intended for posterity (posterity
+    in the form of a box, no less!) What can we learn from this? Come and find out!</li>
+
+    <li>what''s the use, in 2021, of what is effectively a medieval sticky note saying
+    "Could you please get me some wild roses? But make sure to include some that are
+    not yet flowering!" Why do we have a 600 year old sticky note, much less care
+    what it says?</li>
+
+    </ul>
+
+    <p>Find out how we can create future libraries, and what we can do to preserve
+    the libraries we have now. What even is a library? This will be a fast-paced history
+    lesson, relating everything you hear to the modern day. Find out what''s next,
+    from the past.</p>'
+- title: Level Up - Onboarding that enables writers to thrive
+  slug: level-up-onboarding-that-enables-writers-to-thrive-nicola-yap
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2021
+  speakers:
+  - name: Nicola Yap
+    slug: nicola-yap
+    twitter: 
+    website: 
+  abstract: '<p>How do you help a newly hired writer get off to a good start without
+    overwhelming them? And how do you continue to support their growth?</p>
+
+    <p>Company onboarding frequently lacks context and resources for writers to ramp
+    up and grow successfully, leaving writers struggling to onboard themselves and
+    their teammates. </p>
+
+    <p>I’ve experienced onboarding writers from various perspectives across my 20+
+    year career, including:</p>
+
+    <ul>
+
+    <li>First tech writer at a company, establishing structure, relationships, and
+    boundaries</li>
+
+    <li>One writer among many, navigating the complexity of a large, global company</li>
+
+    <li>Helping writers from acquisitions to transition into a company</li>
+
+    <li>Documenting knowledge when leaving a team or company</li>
+
+    <li>Doc tool support and education for writers and SMEs</li>
+
+    <li>Official and unofficial leadership and mentoring</li>
+
+    </ul>
+
+    <p>When I joined Google, I saw onboarding gaps that I’ve seen throughout my career.
+    I brought together a team to develop writer-specific onboarding that we''ve used
+    to ramp up many tech writers, editors, and tech writing managers since mid-2019.
+    The education supports
+
+    writers coming from a wide range of experience who will write for consumer or
+    developer products, internal projects, or data centers.</p>
+
+    <p>This talk is for anyone onboarding a new writer, whether it''s your first or
+    your fiftieth. You''ll learn about:</p>
+
+    <ul>
+
+    <li>Why writers are poorly served by generic onboarding</li>
+
+    <li>My Google onboarding experience and how it led to creation of our education</li>
+
+    <li>Our approach to creating our onboarding and how to apply it to your own context</li>
+
+    <li>Selecting and prioritizing content</li>
+
+    <li>Providing a path for growth after the initial education</li>
+
+    <li>Scaling education, fostering doc culture, and increasing the visibility of
+    documentarians</li>
+
+    </ul>'
+- title: Is Tech Writer a Tester, and Vice Versa, Is Tester a Tech Writer?
+  slug: is-tech-writer-a-tester-and-vice-versa-is-tester-a-tech-writer-ines-stefanovic
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2021
+  speakers:
+  - name: Ines Stefanovic
+    slug: ines-stefanovic
+    twitter: '@inesstef'
+    website: https://www.linkedin.com/in/ines-stefanovi%C4%87-7501073/
+  abstract: "<p>As a person who worked both as a software tester and a technical writer,
+    I can say that to be either a good software tester or a good tech writer, you
+    need to be both.\nTech writing presupposes you have enough technical knowledge
+    to understand a topic and succinctly describe it to your audience. Most companies
+    in which tech writers work actually want their own software products described
+    in such a way that the content is easily understandable. And to get to that point,
+    a tech writer needs to understand the product in-depth. What better way than to
+    test it/use it by themselves as a user would?\nAt the other side of the writing
+    spectrum is the tester. The person who needs to make sure everything software
+    engineers programmed works as planned. And in most cases, make sure that whoever
+    comes after them, knows what steps to take to ensure that the new software release
+    didn't break a legacy feature (why good regression tests exist). A well-written
+    test script will ensure that doesn't happen. \nThis talk will discuss the following:</p>\n<ul>\n<li>Where
+    do tech writing and software testing overlap?</li>\n<li>Can you switch from one
+    career to the other?</li>\n<li>Why do we love developers?</li>\n</ul>"
+- title: 'Documentation Communities: Sound Strategy or Documentarian''s Gambit?'
+  slug: documentation-communities-sound-strategy-or-documentarian-s-gambit-laura-novich
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2021
+  speakers:
+  - name: Laura Novich
+    slug: laura-novich
+    twitter: 
+    website: 
+  abstract: '<p>This year, like many of you, I binged on the <a href="https://www.imdb.com/title/tt10048342/">Queen’s
+    Gambit</a>. In chess, a <em>gambit</em> is a move where you sacrifice a chess
+    piece in the hope to put yourself in a more advantageous position.  When the gambit
+    is presented to the opponent, they can either accept or deny it. If the strategy
+    works for the opponent it is considered to be sound. </p>
+
+    <p>Open-sourcing your documentation holds the promise of a huge pool of dedicated
+    volunteer writers, but at the risk of reduced quality and coherence. It is easy
+    to think that more help means less work, but is that really the case? What is
+    the impact on the organization and on the release schedule? </p>
+
+    <p>At <a href="https://www.scylladb.com/">ScyllaDB</a>, we considered these questions
+    and decided that 2020 was the year to go open. Our code was already open-sourced,
+    but our documentation was not. As the company grew, the docs became harder to
+    manage, especially with only one dedicated technical writer.  We considered the
+    risks of how much time we would spend and wondered if it would impact the release
+    cycle. Our solution included recruiting our developers to be active contributors
+    and after we saw this was successful, we open-sourced our documentation. The decisions
+    we made were not simple, we had to endure a painful migration, and we learned
+    many valuable lessons along the way. In the end, we concluded that the time spent
+    gave us a good foundation and we feel we have built an atmosphere where contributors
+    would feel welcome and have created design decisions to make it easy to contribute
+    to docs. </p>
+
+    <p>This talk explains how we created a documentation community and created an
+    atmosphere where everyone involved understands their role and is eager to help.
+    Our work is not completely done, but by the time the talk is held, we will have
+    gained enough experience to share what we thought about and what we have learned.</p>
+
+    <p>You will receive tips, best practices, examples, and anecdotes that discuss:</p>
+
+    <ul>
+
+    <li>Recruiting and onboarding contributors: Find new writers and bring them up
+    to speed</li>
+
+    <li>Keep existing contributors writing: Methods and tools for collaboration, motivation,
+    and reviews with teams inside and outside your organization</li>
+
+    <li>Get Everyone on-board: How to align the entire organization to think about
+    and contribute to the documentation. Convert the naysayers into cheerleaders.</li>
+
+    </ul>'

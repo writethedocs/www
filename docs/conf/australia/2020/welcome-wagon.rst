@@ -144,7 +144,7 @@ Sponsor booths
 Select **Expo** to view Sponsor booths. Sponsors might have videos you can watch, information to review on the **Booth** tab, and people you can talk to on the **Chat** tab. Visiting Sponsor booths is a great way to make connections!
 
 Thursday social
--------------
+---------------
 
 The Thursday night Social will be designed by you this year! You can host a session and meet fellow attendees for a video social event or you can attend a social event set up by someone else.
 

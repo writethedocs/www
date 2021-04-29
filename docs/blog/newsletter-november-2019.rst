@@ -99,7 +99,7 @@ This month's newsletter is sponsored by `JetBrains <https://www.jetbrains.com/>`
     </table>
     <hr>
 
-*Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </newsletter/sponsorship/>`__.
+*Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
 ---------
 Job posts

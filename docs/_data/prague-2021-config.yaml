@@ -1,0 +1,179 @@
+name: Prague
+
+shortcode: prague
+year: 2021
+city: Prague
+local_area: Czech Republic
+area: Europe
+area_adj: European
+tz: CEST
+email: prague@writethedocs.org
+color: gold
+rgb: 253,185,19
+hex: fdb913
+
+photos:
+  default: _static/conf/images/headers/prague-group.png
+
+buttons:
+  top:
+#    - text: Welcome to our conference
+#      link: /news/welcome
+#    - text: Date and ticket information
+#      link: /news/announcing-virtual-conf-dates-tickets
+    # - text: Read our conference guide
+    #   link: /welcome-wagon
+    # - text: See the Schedule!
+    #   link: /schedule
+#    - text: Buy a Ticket!
+#      link: /tickets
+    - text: Sponsor us
+      link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
+    #- text: See the talks!
+    #   link: /speakers
+    # - text: See the Schedule!
+    #   link: /schedule
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: Browse the photos
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    # - text: Watch the videos!
+    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+  bottom:
+     - text: Welcome to our conference
+       link: /news/welcome
+    # - text: See the Schedule!
+    #   link: /schedule
+#     - text: Date and ticket information
+#       link: /news/announcing-virtual-conf-dates-tickets
+     - text: Sponsor the conference
+       link: /sponsors/prospectus
+    # - text: See the talks!
+    #   link: /speakers
+#     - text: Buy a Ticket!
+#       link: /tickets
+    # - text: Prepare with the Welcome Wagon
+    #   link: /welcome-wagon
+    # - text: See the schedule!
+    #   link: /schedule
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: Browse the photos
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    # - text: Watch the videos!
+    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+
+tickets:
+  corporate:
+    price: €150
+  independent:
+    price: €100
+  student:
+    price: €25
+
+sponsorship:
+  second_draft:
+    price: €1,500
+  publisher:
+    price: €3,000
+  patron:
+    price: €6,500
+  keystone:
+    price: €12,500
+
+
+date: # how do we handle these? human readable would be nice.
+  main: "**October 3-5, 2021, online**"
+  short: Oct 3-5, 2021
+  tickets_live: "May 2021"
+  month: October
+  # Conference is special for the index to show the combined conference days
+  conference:
+    event: Main Conference
+    date: October 4-5
+    summary: The main days of the conference. We will be running one main track, and an <a href="/conf/prague/2021/unconference/">Unconference</a>.
+    icon: conference
+  # These are listed in the schedule
+  day_one:
+    event: Hike
+    date: On your own
+    summary: We encourage you to go on a hike in your own beautiful home town.
+    #summary: If you're in town early, join us for the Hike. prague has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    icon: hike
+    dotw: Saturday
+  day_two:
+    event: Writing Day
+    date: October 3
+    summary: Join us for the <a href="/conf/prague/2021/writing-day/">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    #summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    icon: writing
+    dotw: Sunday
+    writing_day_time: 10:00-18:00
+  day_three:
+    event: Conference Day 1
+    date: October 4
+    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
+    dotw: Monday
+    talk_time: 10:00-18:00
+    unconference_time: 10:45-18:00
+  day_four:
+    event: Conference Day 2
+    date: October 5
+    summary: And the conference goes on! We are already starting to miss you. |:heart:|
+    dotw: Tuesday
+    talk_time: 10:00-18:00
+    job_fair_time: 10:00-12:00
+    unconference_time: 15:15-18:00
+  total_talk_days: 2
+
+about:
+  attendees: 400
+  summary:
+    "The main presentation track takes place on **October 4-5 (Monday and Tuesday) from 10:00 to 18:00**.
+    During the main event we also run an :doc:`/conf/prague/2021/unconference`."
+  venue: "Online conference platform"
+  photos:
+  mainroom: "Video area"
+  unconfroom: "Chat area"
+  projector_ratio: "16:9"
+  job_fair_room: "Sponsor area"
+
+cfp:
+  url: https://pretalx.com/write-the-docs-prague-2021/cfp
+  ends: "June 30, 2021"           # 2 weeks to review and get confirmnations
+  notification: "July 16, 2021"   # leaves 6 weeks to write and record
+  video_by: "September 3, 2021"   # 4 weeks before the conf
+
+sponsors:
+  keystone:
+  patron:
+  publisher:
+  second:
+    - name: peopletext
+      link: https://www.people-text.de/en/home-en.html
+      brand: people text
+
+
+# Things that change over time, listed in order of change
+flagcfp: True
+flaglanding: False
+flaghassponsors: True
+flagticketsonsale: False
+flagsoldout: False
+flagspeakersannounced: False
+flagrunofshow: False
+flaghasschedule: False
+flaghasunconf: True
+flaghasshirts: True
+flagvideos: False
+flaglivestreaming: False
+flagpostconf: False
+
+# Truthy things that don't change
+flaghashike: False
+flaghasboat: False
+flaghaswritingday: True
+flaghasjobfair: True
+flaghasbadgeflair: False

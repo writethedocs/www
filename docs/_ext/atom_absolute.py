@@ -19,7 +19,7 @@ TAGS = [
     'australia-2020',
     'portland-2021',
     'prague-2021',
-    'australia-2021',
+    # 'australia-2021',
 ]
 
 

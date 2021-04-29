@@ -100,7 +100,11 @@ We're a really friendly and active community, happy to answer questions in `Gitt
 Try it out
 ^^^^^^^^^^
 
+.. vale off
+
 You can visit the `live demo <https://cms-demo.netlify.com>`_ to play around with a basic version of the editor UI, but for the full tour, we recommend `cloning a sample site <https://www.netlifycms.org/docs/start-with-a-template/>`_. That way, you can see how your edits in the UI generate commits and pull requests on the connected repository. The featured starter templates use Gatsby, Hugo, and Middleman, but you can use Netlify CMS with almost any static site generator or build tool.
+
+.. vale on
 
 Talk to us about your docs-as-code needs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

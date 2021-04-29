@@ -16,22 +16,22 @@ Full speaker line-up
 
 Every year, we look to bring a wide range of voices to the Write the Docs stage. Because the role of "documentarian" looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure. We're really excited about the presentations we're going hear this year – we hope you are too!
 
-* Ashleigh Rentz – `The Facts About FAQs <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-ashleigh-rentz>`_
-* Beth Aitman – `Who Writes the Docs? <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-beth-aitman>`_
-* Bob Watson – `Audience, Market, Product: Tips for strategic API documentation planning <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-bob-watson>`_
-* Brian MacDonald – `Writing the Next Great Tech Book <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-brian-macdonald>`_
-* Camille Acey – `Rewrite the Docs!: Field Notes from the Radical IT department <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-camille-acey>`_
-* Erin Grace – `Document Yourself: Practical Tips for a Low(er)-Stress Portfolio <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-erin-grace>`_
-* Erin McKean – `What Writing Dictionaries Taught Me About Writing Documentation (And What I Had to Unlearn) <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-erin-mckean>`_
-* Havi Hoffman – `Not the Docs: content and voice on a developer blog <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-havi-hoffman>`_
-* Jen Lambourne – `Research like you’re wrong: Lessons from user research gone rogue <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-jen-lambourne>`_
-* Kat King – `Building Empathy-Driven Developer Documentation <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-kat-king>`_
-* Larry Ullman – `Making Your Code Examples Shine <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-larry-ullman>`_
-* Neal Kaplan – `Where do I start? The art and practice of documentation triage <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-neal-kaplan>`_
-* Sarah Day – `Starting from Scratch: Finding and Hiring Junior Writers <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-sarah-day>`_
-* Steve Stegelin – `Graphic Content Warning: The Pros, Cons, and Alternatives to Screenshots <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-steve-stegelin>`_
-* Ted Hudek – `7 Essential Tips for the Enlightened Tech Writer <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-ted-hudek>`_
-* Thursday Bram – `What They Don't Tell You About Creating New Style Guides <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-portland-2018-thursday-bram>`_
+* Ashleigh Rentz – `The Facts About FAQs <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-ashleigh-rentz>`_
+* Beth Aitman – `Who Writes the Docs? <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-beth-aitman>`_
+* Bob Watson – `Audience, Market, Product: Tips for strategic API documentation planning <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-bob-watson>`_
+* Brian MacDonald – `Writing the Next Great Tech Book <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-brian-macdonald>`_
+* Camille Acey – `Rewrite the Docs!: Field Notes from the Radical IT department <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-camille-acey>`_
+* Erin Grace – `Document Yourself: Practical Tips for a Low(er)-Stress Portfolio <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-erin-grace>`_
+* Erin McKean – `What Writing Dictionaries Taught Me About Writing Documentation (And What I Had to Unlearn) <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-erin-mckean>`_
+* Havi Hoffman – `Not the Docs: content and voice on a developer blog <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-havi-hoffman>`_
+* Jen Lambourne – `Research like you’re wrong: Lessons from user research gone rogue <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-jen-lambourne>`_
+* Kat King – `Building Empathy-Driven Developer Documentation <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-kat-king>`_
+* Larry Ullman – `Making Your Code Examples Shine <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-larry-ullman>`_
+* Neal Kaplan – `Where do I start? The art and practice of documentation triage <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-neal-kaplan>`_
+* Sarah Day – `Starting from Scratch: Finding and Hiring Junior Writers <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-sarah-day>`_
+* Steve Stegelin – `Graphic Content Warning: The Pros, Cons, and Alternatives to Screenshots <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-steve-stegelin>`_
+* Ted Hudek – `7 Essential Tips for the Enlightened Tech Writer <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-ted-hudek>`_
+* Thursday Bram – `What They Don't Tell You About Creating New Style Guides <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-thursday-bram>`_
 
 You can head over to the `Speakers page <https://www.writethedocs.org/conf/portland/2018/speakers/>`_ to see the full abstracts. We hope there’s something there for everyone to enjoy, and also something that will stretch your horizons a bit.
 

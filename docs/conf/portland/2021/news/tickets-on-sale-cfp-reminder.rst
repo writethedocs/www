@@ -32,7 +32,7 @@ We really want to make sure that folks can get value from being at the event at 
 Submit your talk by January 25th
 --------------------------------
 
-There are still a couple of weeks left to submit your proposal! Check out the `Call for Proposals page <https://www.writethedocs.org/conf/portland/2021/cfp/#submit-your-proposal>`_ for more details about what we are looking for.
+There are still a couple of weeks left to submit your proposal! Check out the `Call for Proposals page <https://www.writethedocs.org/conf/portland/2021/cfp/>`_ for more details about what we are looking for.
 
 And if you already have an idea but you’re having a hard time getting your proposal to come together, you can always ask for feedback on the `Write the Docs Slack <https://www.writethedocs.org/slack/>`_. The community is there to help!
 
@@ -54,7 +54,7 @@ Every year we are fortunate to have the support of like-minded organizations and
 We have published our `virtual sponsorship prospectus`_ for the conference,
 and are open for new sponsorship inquiries.
 
-.. _virtual sponsorship prospectus: https://www.writethedocs.org/conf/portland/2021/sponsors/online-prospectus/
+.. _virtual sponsorship prospectus: https://www.writethedocs.org/conf/portland/2021/sponsors/prospectus/
 
 We will still run the `job fair <https://www.writethedocs.org/conf/portland/2021/job-fair/>`_, helping documentarians and organizations connect with each other. Check out the sponsorship prospectus for more details and to reserve your spot today.
 

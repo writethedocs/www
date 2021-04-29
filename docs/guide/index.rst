@@ -2,17 +2,11 @@
 Documentation Guide
 ===================
 
-This guide gathers the collective wisdom of the Write the Docs community around best practices for creating
-software documentation.
+This guide gathers the collective wisdom of the Write the Docs community around best practices for creating software documentation.
 
-**This is a living, breathing guide.**
-If you'd like to contribute,
-you can read our :doc:`contributing <contributing>` documentation.
+**This is a living, breathing guide.** If you'd like to contribute, take a look at the :doc:`guidelines for contributing to the guide <contributing>`. If you have any questions about contributing, you can send them along to guide@writethedocs.org.
+
 Also feel free to send us any additions in any format to support@writethedocs.org.
-
-Take a look also at the :doc:`guidelines for contributing to the guide <contributing>`. If you have any questions about contributing,
-you can send them along to guide@writethedocs.org too.
-
 
 New to Caring About Documentation?
 ----------------------------------
@@ -27,13 +21,15 @@ New to Caring About Documentation?
    imposter
 
 
-Experienced Documentarian?
---------------------------
+Foundational Resources
+----------------------
 
 .. toctree::
    :maxdepth: 2
 
    writing/style-guides
+   writing/accessibility
+   writing/reducing-bias
 
 * Structuring your Documentation
 
@@ -101,6 +97,8 @@ Documentation Guides
 * `Hitchhiker’s Guide to Documentation <https://docs-guide.readthedocs.io/en/latest/>`_
 * `Wikiversity Technical Writing <https://en.wikiversity.org/wiki/Technical_writing>`_
 * `Write the Docs <http://www.writethedocs.org/guide/>`_
+
+.. _api-documentation:
 
 API Documentation
 -----------------

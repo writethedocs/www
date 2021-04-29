@@ -12,22 +12,22 @@ Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel.
 Current Book Club
 -----------------
 
-August - September 2020
+January - March 2021
 
-Steve Krug's `Don't Make Me Think, Revisited (3rd Edition) <https://www.sensible.com/dmmt.html>`_
+`Managing Writers <https://www.amazon.com/gp/product/0982219105>`_
 
 Upcoming Book club reads
 ------------------------
 
 (Months are suggestions and may change. Check in the Slack channel.)
 
-* October - November 2020: `Docs Like Code <https://www.docslikecode.com/>`_
-* January - February 2021: `Managing Writers <https://www.amazon.com/gp/product/0982219105>`_
-* March - April 2021: `Letting Go of the Words <https://redish.net/books/letting-go-of-the-words/>`_
+* April 2021: `Letting Go of the Words <https://redish.net/books/letting-go-of-the-words/>`_
 
 Previous Book club reads
 ------------------------
 
+* October - November 2020: `Docs Like Code <https://www.docslikecode.com/>`_
+* August - September 2020: Steve Krug's `Don't Make Me Think, Revisited (3rd Edition) <https://www.sensible.com/dmmt.html>`_
 * June - July 2020: Abby Covert's `How to Make Sense of Any Mess <http://www.howtomakesenseofanymess.com/>`_
 * March - May 2020: Mark Baker's `Every Page Is Page One <https://everypageispageone.com/the-book/>`_
 * Janaury 2020: Christopher Gale (and the Splunk team)'s `The Product Is Docs <https://www.splunk.com/en_us/blog/splunklife/the-product-is-docs.html>`_

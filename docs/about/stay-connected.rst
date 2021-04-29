@@ -7,6 +7,7 @@ Stay Connected
 
    /newsletter
    /slack
+   /bipoc
    /job-board
    /blog/index
 
