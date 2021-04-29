@@ -896,7 +896,7 @@ footer {
             justify-content: space-between; }
     footer .uk-container .footer-content {
       padding-left: 78px;
-      height: 272px; }
+      height: 400px; }
       footer .uk-container .footer-content .footer-social-section {
         display: -webkit-box;
         display: -ms-flexbox;
@@ -10840,3 +10840,6 @@ td.uk-text-break {
 .crew-image {
   float: left;
   margin-right: 15px; }
+
+.strike {
+  text-decoration: line-through; }

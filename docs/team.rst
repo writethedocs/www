@@ -1,8 +1,8 @@
 Team
 ====
 
-The different facets of the Write the Docs community are kept running smoothly by
-a wonderful team of folks. We are always looking for more people to help
+The different facets of the Write the Docs community are kept running smoothly
+by a wonderful team of folks. We are always looking for more people to help
 organize conferences and meetups, help out with websites and guides, or take
 leadership roles in the community. This page documents the roles that people are
 currently in charge.
@@ -26,12 +26,12 @@ folks.
 Conference Teams
 ----------------
 
-Each conference has a specific team that helps run that event.
-For this year,
+Each conference has a specific team that helps run that event. For this year,
 you can see who is helping out:
 
-* :doc:`Portland 2019 Team </conf/portland/2019/team>`
-* :doc:`Prague 2019 Team </conf/prague/2019/team>`
+* :doc:`Portland 2021 Team </conf/portland/2021/team>`
+* :doc:`Prague 2020 Team </conf/prague/2020/team>`
+* :doc:`Australia 2020 Team </conf/australia/2020/team>`
 
 .. _moderation-team:
 
@@ -53,19 +53,19 @@ Roles
 Members
 ```````
 
-* `Jennifer Rondeau <https://twitter.com/bradamante>`_ *
-* `Neal Kaplan <https://twitter.com/nealkaplan>`_
-* `Janine Chan <https://www.linkedin.com/in/janinechan/>`_ 
-* `Daniel Beck <https://twitter.com/ddbeck>`_
-* `Mike Jang <https://twitter.com/themikejang>`__
-* `Eric Holscher <https://twitter.com/ericholscher>`_
-* `Samuel Wright <https://twitter.com/plaindocs>`_ 
+* `Jennifer Rondeau <https://twitter.com/bradamante>`_ ``@jrondeau`` *
+* `Janine Chan <https://www.linkedin.com/in/janinechan/>`_ ``@janine``
+* `Daniel Beck <https://twitter.com/ddbeck>`_ ``@ddbeck``
+* `Eric Holscher <https://twitter.com/ericholscher>`_ ``@ericholscher``
+* `Samuel Wright <https://twitter.com/plaindocs>`_ ``@plaindocs``
+* You?
 
 
 Meetup Coordination Team
 ------------------------
 
-These are the folks you can talk to about anything :doc:`/meetups/index` related.
+These are the folks you can talk to about anything :doc:`/meetups/index`
+related.
 
 * Want to attend your first meetup?
 * Start your own meetup?
@@ -83,34 +83,18 @@ Members
 ```````
 
 * `Rose Williams <https://twitter.com/ZelWms>`_ *
-* `Margaret Eker <https://twitter.com/meker>`_ *
-* `Mike Jang <https://twitter.com/TheMikeJang>`_ 
+* `Alyssa Whipple Rock <https://alyssarock.pro/>`_
+* `Mike Jang <https://twitter.com/TheMikeJang>`_
 * `Swapnil Ogale <https://twitter.com/swapnilogale>`_ (APAC)
-* You?
-
-Guide Coordination Team
------------------------
-
-These are the folks who maintain https://www.writethedocs.org/guide/ and make sure it stays high quality.
-The site is built with Sphinx and hosted on Read the Docs,
-but
-
-* Serve as point of contact for issues or questions about contributing to the :doc:`/guide/index`
-* Update overview and TOC for ease of use
-* Curate and write new sections and topics
-* Identify new contributors and help them get started (like you!)
-
-Members
-```````
-
-* `Eric Holscher <https://twitter.com/ericholscher>`_ *
-* `Jennifer Rondeau <https://twitter.com/bradamante>`_
 * You?
 
 Newsletter Team
 ---------------
 
-These folks are in charge of putting out our monthly documentation newsletter to the wider Write the Docs community. The stories in each issue are distilled from conversations that happen across the WTD Slack, which are curated and written by a team of volunteers.
+These folks are in charge of putting out our monthly documentation newsletter to
+the wider Write the Docs community. The stories in each issue are distilled from
+conversations that happen across the WTD Slack, which are curated and written by
+a team of volunteers.
 
 Responsibilities
 ````````````````
@@ -124,17 +108,20 @@ Members
 ```````
 
 * `Beth Aitman <https://twitter.com/baitman>`_ *
-* `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_ 
 * `Hillary Fraley <https://github.com/hillaryfraley>`_
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_
 * `Claire Lundeby <https://twitter.com/clairelundeby>`_
+* `Elle Jones <https://twitter.com/party_parrot18>`_
+* `Kyla del Rosario <https://kyladelrosario.com/>`_
 * Volunteers welcome!
 
 
 Support Team
 ------------
 
-Friendly folk on the other end of the email addresses who answer miscellaneous questions about all and sundry. Anything from requests for information, to billing and technical issues.
+Friendly folk on the other end of the email addresses who answer miscellaneous
+questions about all and sundry. Anything from requests for information, to
+billing and technical issues.
 
 Roles
 `````
@@ -145,7 +132,31 @@ Roles
 Members
 ```````
 
-* `Samuel Wright <https://twitter.com/plaindocs>`_ *
+* `Sasha Romijn <https://twitter.com/mxsash>`_ *
+* `Samuel Wright <https://twitter.com/plaindocs>`_
+* You?
+
+
+Guide Coordination Team
+-----------------------
+
+These are the folks who maintain https://www.writethedocs.org/guide/ and make
+sure it stays high quality. The site is built with Sphinx and hosted on Read the
+Docs, but we accept content in any format you can send.
+
+Roles
+`````
+
+* Serve as point of contact for issues or questions about contributing to the :doc:`/guide/index`
+* Update overview and TOC for ease of use
+* Curate and write new sections and topics
+* Identify new contributors and help them get started (like you!)
+
+Members
+```````
+
+* `Eric Holscher <https://twitter.com/ericholscher>`_ *
+* `Jennifer Rondeau <https://twitter.com/bradamante>`_
 * You?
 
 
@@ -162,7 +173,6 @@ Roles
 Members
 ```````
 
-* `Rose Williams <https://twitter.com/ZelWms>`_
 * You?
 
 
@@ -232,6 +242,7 @@ and want to make sure they aren't forgotten.
 * `Eric Redmond <https://twitter.com/coderoshi>`_
 * `Troy Howard <https://twitter.com/thoward37>`_
 * `Anthony Johnson <https://twitter.com/agjhnsn>`_
+* `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
 
 Bios
 ----

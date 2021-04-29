@@ -15,35 +15,34 @@ photos:
 
 buttons:
   top:
-     - text: The conference is moving online
-       link_absolute: /blog/moving-portland-prague-2020-online/
-     - text: Sponsor the conference
-       link: /sponsors/prospectus
+     # - text: The conference is moving online
+     #   link_absolute: /blog/moving-portland-prague-2020-online/
+    #  link: /tickets
+    #- text: Sponsor us
+    #  link: /sponsors/prospectus
     # - text: Submit a Talk
-    #  link: /cfp
-    # - text: Buy a Ticket!
-    #   link: /tickets
+    #   link: /cfp
     # - text: See the talks!
     #   link: /speakers
-#    - text: See the Schedule!
-#      link: /schedule
-    # - text: Welcome Wagon
-    #   link: /welcome-wagon
+    #- text: See the Schedule
+    #  link: /schedule
+    #- text: Read the Welcome Wagon
+    #  link: /welcome-wagon
 #    - text: Watch the Live Stream
 #      link: /livestream
 #     - text: Browse the photos
 #       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-#     - text: Watch the videos!
-#       link_absolute: /videos/portland/2020
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpmRWZJaUwQzsdagW2TtRI2x
   bottom:
-     - text: Sponsor the conference
-       link: /sponsors/prospectus
-     - text: The conference is moving online
-       link_absolute: /blog/moving-portland-prague-2020-online/
-#     - text: Submit a Talk
-#       link: /cfp
-    # - text: Buy a Ticket!
-    #   link: /tickets
+#    - text: Sponsor us
+#      link: /sponsors/prospectus
+     # - text: The conference is moving online
+     #   link_absolute: /blog/moving-portland-prague-2020-online/
+     # - text: Submit a Talk
+     #  link: /cfp
+#    - text: Buy a Ticket!
+#      link: /tickets
 #    - text: Prepare with the Welcome Wagon
 #      link: /welcome-wagon
 #    - text: See the schedule!
@@ -52,52 +51,63 @@ buttons:
     #  link: /livestream
 #     - text: Browse the photos
 #       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-#     - text: Watch the videos!
-#       link_absolute: /videos/portland/2020
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpmRWZJaUwQzsdagW2TtRI2x
 
 tickets:
-  community:
-    price: €600
   corporate:
-    price: €TBD
+    price: €125
   independent:
-    price: €TBD
+    price: €75
   student:
-    price: €TBD
+    price: €25
 
 sponsorship:
-  first_draft:
-    price: €800
   second_draft:
-    price: €2000
+    price: €1,500
   publisher:
-    price: €4000
+    price: €3,500
   patron:
-    price: €8500
+    price: €7,500
   keystone:
-    price: €15000
+    price: €13,500
+
+grants:
+  url: https://docs.google.com/forms/d/e/1FAIpQLSeMkscbftaTNfr3OS6f5X8xSxJqi1CP3oaYe3jeauzi_uECXg/viewform
+  ends: "September 1, 2020"
+  notification: "September 14, 2020"
+
+shirts:
+  url: https://teespring.com/wtd-prague-2020
+  ends: "November 30th"
+
+cfp:
+  url: https://pretalx.com/wtd-prague-2020/cfp
+  ends: "July 22, 2020"
+  notification: "August 14, 2020"
 
 date: # how do we handle these? human readable would be nice.
-  main: "**Autumn, 2020, in Prague, Czech Republic**"
-  short: Autumn, 2020
+  main: "**October 18-20, 2020, online**"
+  short: Oct 18-20, 2020
   tickets_live: "Summer 2020"
-  month: September
+  month: October
   day_one:
-    event: Boat Ride
+    event: Hike
     date: On your own
-    summary: We encourage you to go on a boat ride or walk in your own beautiful home town.
-    icon: boat
+    summary: In the tradition of WTD Portland we encourage you to go on a hike in your own beautiful home town.
+    #summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    icon: hike
     dotw: Saturday
   day_two:
     event: Writing Day
-    date: Autumn
+    date: October 18
     summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
     icon: writing
     dotw: Sunday
   day_three:
     event: Main Conference
-    date: Autumn
-    summary: The main days of the conference. We will be running our main track in the main room, and the Unconference in the small room.
+    date: October 19-20
+    summary: The main days of the conference. We will be running a main track with talks, and an Unconference.
     icon: conference
     dotw: Monday/Tuesday
   total_talk_days: 2
@@ -105,38 +115,55 @@ date: # how do we handle these? human readable would be nice.
 about:
   attendees: 400
   summary:
-    "The main presentation track takes place from **September 14-15 (Monday and Tuesday) from 10:00 to 18:00**.
-    During the main event we also run an :doc:`/conf/prague/2020/unconference`.
-
-    You can find out more information about the venue and its accessibility on our :doc:`/conf/prague/2020/venue` page."
-  venue: "TBA"
+    "The main presentation track takes place from **October 19-20 (Monday and Tuesday) from 10:00 to 18:00**.
+    During the main event we also run an :doc:`/conf/prague/2020/unconference`."
+  venue: "Online, Hopin"
   mainroom: TBA
   unconfroom: TBA
   projector_ratio: "16:9"
-  job_fair_room: TBA
+  job_fair_room: "Sponsor area"
 
 
 sponsors:
-  publisher:
+  keystone:
+    - name: google
+      link: https://www.google.com/
+      brand: Google
   second:
+    - name: redhat-new
+      link: https://www.redhat.com/
+      brand: Red Hat
+    - name: elastic
+      brand: Elasticsearch
+      link: https://www.elastic.co
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+      brand: KnowledgeOwl
+      width: 250px
   first:
+  media:
+    - name: bart
+      link: http://www.bartatwork.com
+      brand: Bart at work
+    - name: techwriter-pl
+      link: http://techwriter.pl
+      brand: techwriter.pl
 
 
 # Things that change over time, listed in order of change
-flaglanding: True
-flaghassponsors: False
+flaglanding: False
+flaghassponsors: True
 flagcfp: False
 flagticketsonsale: False
-flagsoldout: False
-flagspeakersannounced: False
-flaghasschedule: False
-flaghasshirts: False
+flagsoldout: True
+flagspeakersannounced: True
+flaghasschedule: True
 flagvideos: False
 flaglivestreaming: False
-flagpostconf: False
+flagpostconf: True
 
 # Truthy things that don't change
 flaghashike: False
-flaghasboat: True
+flaghasboat: False
 flaghaswritingday: True
-flaghasbadgeflair: True
+flaghasbadgeflair: False

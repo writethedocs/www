@@ -22,7 +22,6 @@ We're really excited about the presentations we've got for this first-year event
 .. datatemplate::
    :source: /_data/{{year}}.{{shortcode}}.speakers.yaml
    :template: {{year}}/speakers-simple-list.rst
-   :include_context:
 
 Head over to the `Speakers page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`_ to see the full abstracts. We believe there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.
 

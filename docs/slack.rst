@@ -1,7 +1,8 @@
 Slack
 =====
 
-You can `join our slack`_ network automatically.
+You can `join our Slack`_ network if you aren't already a member.
+Requests to join Slack are processed automatically.
 
 Our Slack network has lots of people hanging out and chatting about documentation.
 It's the best way to connect with our community,
@@ -12,23 +13,25 @@ This should help you get connected to people with similar interests.
 Please also read the Slack guidelines carefully, and remember that our
 :doc:`/code-of-conduct` also applies to our Slack.
 
-We don't pay for our Slack, which means that the community has access to only the most
-recent 10,000 messages. Not only is paid Slack prohibitively expensive for a community
-like ours, but many people seem to feel a freedom in knowing that their words will disappear shortly.
-
 Feel free to send a Pull Request to update `this page`_, if you want to include other channels.
-
-You can `join our slack`_ network if you aren't already a member.
 
 .. note::
     Our Slack includes animated emoji, and other animations are sometimes posted.
     If you think these may be unpleasant for you, you can `disable all animations`_
     in your Slack client.
 
-
-.. _join our slack: https://join.slack.com/t/writethedocs/shared_invite/zt-eu3l2qba-0eRHx9cY1SLS~wSrn~y4hA
+.. _join our slack: https://join.slack.com/t/writethedocs/shared_invite/zt-lqlaz4w6-WCnSTVD25MebjiqowO8EvQ
 .. _this page: https://github.com/writethedocs/www/blob/master/docs/slack.rst
 .. _disable all animations: https://get.slack.help/hc/en-us/articles/228023907-Manage-animated-images-and-emoji
+
+Slack History
+-------------
+
+We don't pay for our Slack, which means that the community has access to only the most
+recent 10,000 messages. Paying for Slack is prohibitively expensive for a community
+like ours, but many people seem to feel a freedom in knowing that their words will disappear shortly.
+We understand that not everyone loves this decision,
+but it's the way things are currently set up and we don't plan to change it in the near future. 
 
 Default channels
 ----------------
@@ -53,7 +56,42 @@ Other useful topical channels
 * **#confluence** - Talk about everyone's favorite Wiki.
 * **#community-showcase** - Announce your projects here! Blog posts, docs, code, products—whatever you make that you're excited to share!
 * **#community-help-wanted** - Got an open-source project that needs docs contributors? Looking for open-source communities who will mentor you while you contribute to their docs? This channel is for you! Only for volunteer/unpaid work with open-source projects; companies and paid job postings should continue to use #job-posts-only. 
-* **#wtd-weps** - Ask questions about the Write the Docs Enhancement Proposal (WEP) system and brainstorm on pre-proposal ideas to help improve our community processes and governance. 
+* **#wtd-weps** - Ask questions about the Write the Docs Enhancement Proposal (WEP) system and brainstorm on pre-proposal ideas to help improve our community processes and governance.
+
+Autoresponders
+--------------
+We have some helpful Slackbot responses that you can summon in any channel, at any time.
+
+* ``?invite`` / ``?join``
+
+  - Get a link you can send to a friend to invite them to the Write the Docs Slack. (You can also invite people directly from Slack by clicking **Write the Docs** > **Invite people to Write the Docs**.)
+
+* ``?conferences`` / ``?conference``
+
+  - Get information on past and future Write the Docs :doc:`/conf/index`.
+
+* ``?jobseeking`` / ``?hiring`` / ``?interview`` / ``?interviewing``
+
+  - Get information on both hiring and getting hired, including a link to the :doc:`/hiring-guide/index`.
+
+* ``?getstarted`` / ``?resources`` / ``?learn``
+
+  - We're always excited to help new people into working on documentation! This is for you if you want some resources on how to get started, including a link to some of our favorite :doc:`/about/learning-resources`.
+
+* ``?coc``
+
+  - "COC" is short for the :doc:`/code-of-conduct`. This is an easy way to get a link to it, and to summon a member of the :ref:`moderation-team` if you need one.
+
+* ``?mods`` / ``?moderators`` / ``?modsquad``
+
+  - Returns the members of the :ref:`moderation-team` if you need to ping someone directly for help.
+
+Channels that serve specific communities & their allies
+-------------------------------------------------------
+Allies are welcome as guests in these channels. Please be considerate.
+
+* **#bipoc** - Social and discussion space for Write the Docs' :doc:`/bipoc` community.
+* **#lgbtq** - Social and discussion space for LGBTQ+ people in the WTD community.
 
 Location-based channels
 -----------------------

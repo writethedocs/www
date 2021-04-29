@@ -42,6 +42,8 @@ since there are now minimal other costs to attend the event.
 
 You can apply by **June 5th, 2020, Midnight PST** on `our website <https://www.writethedocs.org/conf/portland/2020/opportunity-grants/>`_.
 
+**Update**: the grant program application deadline has moved to July 1st, 2020.
+
 Support our community by sponsoring
 -----------------------------------
 

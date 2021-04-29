@@ -9,3 +9,9 @@
 * jennifer.rondeau@gmail.com
 * +1-541-513-8624
 * slack: jrondeau
+
+**Sasha Romijn**
+
+* sasha@writethedocs.org
+* +31-202-443-779
+* slack: sasha

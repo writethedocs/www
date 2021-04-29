@@ -1,0 +1,69 @@
+talks_day1:
+  - time: '10:30'
+    title: 'Platform opens'
+  - time: '11:30'
+    title: Write the Docs Australia and India Team - Introduction to Write the Docs
+  - time: '12:00'
+    slug: microcontent-designing-developing-reusable-content-scott-deloach
+  - time: '12:45'
+    slug: how-and-why-to-make-awesome-video-tutorials-sayraphim-lothian
+  - time: '13:30'
+    slug: everyone-s-a-player-in-a-mid-90s-mud-kenzie-woodbridge
+  - time: '14:15'
+    title: Break (45 mins)
+  - time: '15:00'
+    title: Lightning Talks (30 mins)
+  - time: '15:30'
+    title: "<b>Unconference Starts</b>"
+  - time: '15:30'
+    slug: when-agile-fails-working-on-large-documentation-projects-lana-brindley
+  - time: '16:15'
+    slug: onboard-yourself-how-to-get-set-up-for-success-in-a-new-role-michael-belton
+  - time: '17:00'
+    title: Break (15 mins)
+  - time: '17:15'
+    slug: little-words-big-ideas-how-to-write-microcopy-that-works-yael-ben-david
+  - time: '18:00'
+    title: "<b>Unconference Ends</b>"
+  - time: '18:00'
+    slug: storytelling-for-technical-products-what-we-can-learn-from-lego-and-pixar-akshay-iyer
+  - time: '18:45'
+    title: Day 1 wraps up
+  - time: '19:00'
+    title: '<b>Social Event</b>'
+  - time: '21:00'
+    title: '<b>Social Event Ends</b>'
+
+talks_day2:
+  - time: '10:30'
+    title: 'Platform opens'
+  - time: '11:30'
+    slug: the-pains-of-composition-how-to-write-your-best-documentation-in-a-collaborative-world-matt-reiner
+  - time: '12:15'
+    slug: content-strategy-in-practice-a-case-study-sam-irons
+  - time: '13:00'
+    slug: influence-your-customer-outreach-with-best-practices-for-internationalization-vikram-mulay
+  - time: '13:45'
+    slug: a-treasure-map-for-the-doc-exploring-the-discoverability-of-documentation-marika-vertzonis
+  - time: '14:30'
+    title: Break (45 mins)
+  - time: '15:15'
+    title: Lightning Talks (30 mins)
+  - time: '15:45'
+    title: "<b>Unconference Starts</b>"
+  - time: '15:45'
+    slug: overcoming-the-plight-of-lone-writers-ankita-tripathi
+  - time: '16:30'
+    slug: an-introduction-to-developer-experience-and-the-role-of-a-documentarian-chris-ward
+  - time: '17:15'
+    title: Break (15 mins)
+  - time: '17:30'
+    slug: legacy-content-from-various-perspectives-marcelina-haftka
+  - time: '18:00'
+    title: "<b>Unconference Ends</b>"
+  - time: '18:15'
+    slug: 5-things-i-learned-from-my-first-open-source-contribution-andrea-szollossi
+  - time: '19:00'
+    title: Closing address
+  - time: '19:15'
+    title: "<b>Conference Ends</b> :("

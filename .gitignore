@@ -9,5 +9,6 @@ venv*
 node_modules
 .sass-cache
 docs/meetups/events.rst
-docs/_scripts/talks.json
 .idea
+.vscode
+_data/mc-info.yaml

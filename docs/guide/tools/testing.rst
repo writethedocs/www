@@ -85,7 +85,7 @@ commonly mistaken branding issues.
 
 Here are a few links that might be interesting:
 
-* https://www.mapbox.com/blog/retext-mapbox-standard/
+* https://blog.mapbox.com/regulating-english-with-retext-mapbox-standard-d79a8158f251
 * https://krausefx.com/blog/writing-automated-tests-for-your-documentation
 
 

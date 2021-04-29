@@ -140,3 +140,59 @@ Biases
 * New people
 * Community members
 * Previous lighting talk speakers
+
+Speaker Mentoring
+-----------------
+
+We offer to pair any speakers who'd like guidance with an experienced speaker from a previous year.
+
+Mentor selection
+~~~~~~~~~~~~~~~~
+
+Mentors have usually spoken at several conferences in the past and have a good sense of what preparation is needed.
+
+Meeting structure
+~~~~~~~~~~~~~~~~~
+
+Flexible according to the needs and availability of participants. The general guideline is to have four meetings, each two to three weeks apart: an initial introduction, presentation of an outline, presentation of slides, and a practice talk. However, mentors and speakers should adapt the structure to meet their needs.
+
+Meeting 1 - Introduction and level-set:
+   *Speaker pre-work: None.*
+   
+   The speaker and mentor meet one another for the first time. The speaker also introduces their topic and experience with it. The speaker and mentor decide on a meeting structure and schedule that works for them. If needed, the speaker and mentor develop the talk idea more to help prepare for the outline step.
+
+Meeting 2 - Present outline:
+   *Speaker pre-work: Prepare an outline of the talk. It should provide a fairly high level of detail, including all main topics and supporting points.*
+   
+   The speaker shares their talk outline. The mentor asks questions to help clarify the details of the talk. For example:
+   
+   - Topics or supporting points that might be missing or need more detail
+   - Feedback about the likely talk length and whether the talk should be expanded or edited down
+   - Feedback about possible slide structure based on the outline
+   - Feedback or questions about the order of topics
+   - Feedback on building up the information narratively
+
+Meeting 3 - Present slides:
+   *Speaker pre-work: Prepare the slides. The slides should reflect outline updates and slide feedback from the last meeting.*
+   
+   The speaker shares a loose presentation of the talk using the outline and slides to guide them. The mentor provides feedback on the order, images, colors, formatting, and so on. The mentor also addresses any accessibility concerns, such a contrast and font size.
+
+Meeting 4 - Practice talk:
+   *Speaker pre-work: Practice the talk several times. Prepare speaker notes in the slidedeck if needed, but aim to reach the point that you don't need to reference the outline.*
+   
+   The speaker presents a semi-final draft of the pratice talk. The mentor provides feedback on the presentation, asks questions they anticipate the audience might have, make suggestions on the flow and speed, and so on. If the speaker and mentor agree that additional practice talks are needed or desired, they can schedule them.
+
+Session considerations
+~~~~~~~~~~~~~~~~~~~~~~
+
+Meeting admin and scheduling
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Ideally, mentors and speakers should be in the same time zone or no more than two time zones apart. Severe time zone discrepancies make scheduling very dififcult.
+- We suggest you schedule the first meeting for *at least* eight weeks ahead of the conference date. This provides a minimum of two weeks between each meeting as well as two weeks between the last meeting and the conference date.
+- Sessions should last at least an hour, but can run longer if both mentor and speaker think this would be helpful.
+- The pandemic notwithstanding, virtual meetings are generally easier to coordinate. Even if the mentor and speaker are co-located, consider whether meeting virtually will help ease the time burden on both parties.
+
+Other stuff
+^^^^^^^^^^^
+- Mentors should provide thoughtful feedback and genuine questions to help improve the speaker's talk. Remember to follow the [Code of Conduct](https://www.writethedocs.org/code-of-conduct/) during the meetings.
+- Mentors: if at all possible, attend your mentee's talk! It's comforting to have a familiar face in the audience.
