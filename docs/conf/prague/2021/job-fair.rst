@@ -34,6 +34,6 @@ Tips for Sponsors
 If you want to maximize your contacts with potential new employees, make sure to:
 
 * Set up moderator privileges. To minimize delays, set this up **before the conference**. If needed, you can also request access from the designated Job Fair volunteer from the Write the Docs conference.
-* When you're a moderator, people who want to "Share Audio and Video" will appear under the "Moderator Panel" at the bottom of the screen.
+* When you're a moderator, people who want to "Share Audio and Video" will appear under the "Moderator Panel" at the bottom of the screen. When you select one or more persons, they'll join you in the video chat.
 
 You can also select users for 1:1 chats.
