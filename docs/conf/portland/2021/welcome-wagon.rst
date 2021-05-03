@@ -359,4 +359,4 @@ What can I do at the conference?
 Where can I learn more?
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-- Read the `Welcome Wagon guide <https://www.writethedocs.org/conf/portland/2021/welcome-wagon/>`__ to the conference, the `Unconference Cheat Sheet <https://www.writethedocs.org/conf/portland/2021/unconference-cheatsheet/>`__, `the Writing Day Cheat Sheet <https://www.writethedocs.org/conf/portland/2021/writing-day-cheatsheet/>`__, and watch the `virtual conference intro video <https://youtu.be/aLtnc0ITzok>`__. You can learn how to reach out to attendees, what happens at each event, and how to get more help.
+Read the `Welcome Wagon guide <https://www.writethedocs.org/conf/portland/2021/welcome-wagon/>`__ to the conference, the `Unconference Cheat Sheet <https://www.writethedocs.org/conf/portland/2021/unconference-cheatsheet/>`__, `the Writing Day Cheat Sheet <https://www.writethedocs.org/conf/portland/2021/writing-day-cheatsheet/>`__, and watch the `virtual conference intro video <https://youtu.be/aLtnc0ITzok>`__. You can learn how to reach out to attendees, what happens at each event, and how to get more help.
