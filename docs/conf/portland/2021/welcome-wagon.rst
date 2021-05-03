@@ -249,9 +249,7 @@ Pro tips
 --------
 
 - Conferences are exhilarating, but can also be exhausting. Give your brain a break! Grab a quiet spot or take a quick walk. Play a board game on your lunch break. Come back invigorated.
-
 - Find out who is attending the conference before you attend. Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__, and review the `list of speakers <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/speakers/>`__.
-
 - In case of technical issues with our main platform Hopin, please watch the `#wtd-conferences Slack channel <https://writethedocs.slack.com/archives/C1AKFQATH>`_ for status updates and alternative viewing links that might be posted.
 
 FAQs
@@ -265,7 +263,6 @@ Are the talks recorded?
 
 How do I get into the virtual conference?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 
 - Getting into the conference is a two-step process.
 - You buy a ticket, and then you get a link to register. During this registration process, you will get a link to get into the conference.
@@ -312,18 +309,19 @@ How should I prepare for the Job Fair?
 - Come prepared with questions for the booth staff about the company and the jobs they have available.
 - Some booths will not be staffed, but will have a video or text information about applying for jobs at the company.
 
+
 I’m having a technical issue. What can I try?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Make sure you’re using a browser supported by Hopin. List of supported browsers: https://hopin.zendesk.com/hc/en-gb/articles/360056078872-Browser-Compatibility-for-online-events-on-Hopin 
 - Refresh the Hopin page.
-- Try a different browser (Only Chrome and Firefox are supported).
 - Log out of Google. Log in with a different Google account, if you have separate personal and company accounts.
 - Try using a Private browsing window.
 - Disable browser extensions.
 - Log into your company’s VPN. If you are already logged in, try logging out.
 - Try a different computer. Sometimes work computers can have video streaming restrictions.
 - Check that your router is not blocking video streaming.
+
 
 I’m unable to watch the main stage talks. I am getting a “This video is restricted” error.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -339,6 +337,7 @@ Try the following steps to work around this issue:
 - Try a different browser.
 - Try a different computer. 
 - If you are using your work computer and still running into issues, your company’s IT department may need to temporarily disable Restricted Mode. More details can be found here:  https://support.google.com/youtube/answer/174084?hl=en
+
  
 I'm unable to share my webcam or microphone in a session or table.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -348,6 +347,7 @@ I'm unable to share my webcam or microphone in a session or table.
 - You will need to grant browser permissions for Hopin to access your microphone and webcam. If you are having issues with your webcam and microphone check these two help articles
 `I'm having Camera and/or Microphone issues on Mac <https://hopin.zendesk.com/hc/en-gb/articles/360056527911-I-m-having-Camera-and-or-Microphone-issues-on-Mac/>`__
 `I'm having Camera and/or Microphone issues on Windows 10 <https://hopin.zendesk.com/hc/en-gb/articles/360059277232-I-m-having-Camera-and-or-Microphone-issues-on-Windows-10/>`__
+
 
 If none of these work, reach out to the Help Desk for help. Select Expo > Helpdesk and ask your question in the Chat.
 
