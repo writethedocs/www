@@ -62,7 +62,7 @@ Conference talks and Q&A
 ------------------------
 
 - There’s a talk schedule on the **Reception** page and on the `Write the Docs website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/schedule/>`__. Select the Calendar icon next to the talks you want to see on the Reception page to add them to your calendar.
-- When it’s time for a talk you want to see, select **Stage**.
+- When it’s time for a talk you want to see, select **Stage**. Press play to start the stream.
 - If we have problems with the online platform, we will set up a back-up stream. If turned on, we will post links to the back-up stream in the conference chat and on the `conference Slack channel <https://writethedocs.slack.com/archives/C1AKFQATH>`__.
 - After a talk, feel free to tweet about it with the hashtag #writethedocs.
 
