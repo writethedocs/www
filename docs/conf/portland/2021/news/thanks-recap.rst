@@ -18,11 +18,11 @@ speakers, sponsors, organizers, and attendees alike.
 Conference recap
 ----------------
 
-At **700 people** this conference was our biggest yet! We had
+At **700 attendees** this conference was our biggest yet! We had
 the usual mix of main stage and lightning talks, unconference sessions,
 writing sprints, and social events.
 We thought everything went smoothly this year,
-including our new experiments like the new social event platform.
+including experiments like the new social event platform.
 
 Overall, we were excited with how our awesome community come together in our new venue.
 Lots of knowledge was shared, and we had a great time.
@@ -31,12 +31,12 @@ Talk videos
 -----------
 
 Videos of the talks are now available on `a YouTube playlist`_. This
-includes all conference talks with Q&A, as well as the lightning talks.
-Thanks again to all our presenters and moderators!
+includes all conference talks and Q&A, as well as the lightning talks.
+You can also subscribe to our `YouTube channel`_ so you don’t miss any future content.
 
+Thanks again to all our presenters and moderators!
 Huge thanks also to `Bart at Work`_ for handling the A/V production on
-our event, it was flawless once again this year. You can also subscribe
-to our `YouTube channel`_ so you don’t miss any future content.
+our event, it was flawless once again this year.
 
 .. _a YouTube playlist: https://youtube.com/playlist?list=PLZAeFn6dfHpkCk5Fw5yLFGTqd1OJoaXhR
 .. _Bart at Work: https://www.bartatwork.com/
@@ -106,4 +106,3 @@ We're so grateful to our sponsors, speakers, volunteers, and attendees
 for making this conference possible. Whether you were able to come out
 this time or not, we hope to see you again next year – or
 even sooner at one of our other events!
-
