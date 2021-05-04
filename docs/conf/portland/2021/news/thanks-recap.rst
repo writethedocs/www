@@ -88,7 +88,7 @@ We’re also looking for more sponsors to make our other events just as magical 
 
 Our Slack network has expanded yet again this year. Our #general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y'all continue the conversations throughout the year. If you haven't joined, now's the time! Check out the `Write the Docs Slack <https://www.writethedocs.org/slack/>`__.
 
-Our `monthly newsletter <https://writethedocs.org/newsletter/>`_ is the other place to keep track of everything
+Our `monthly newsletter <https://www.writethedocs.org/newsletter/>`_ is the other place to keep track of everything
 that is happening with the community. Subscribe to make sure you hear
 about all the conferences, meetups, job postings, and summaries of
 relevant conversations in our Slack.
