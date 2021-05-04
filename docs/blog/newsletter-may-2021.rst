@@ -160,7 +160,7 @@ It's been a busy month on the jobs board - tons of great opportunities out there
 - `Technical Writer, Software Engineering <https://jobs.writethedocs.org/job/362/technical-writer-software-engineering-us-openings/>`__, Google (many US locations)
 - `Manager, Technical Writing <https://jobs.writethedocs.org/job/363/manager-technical-writing-us-openings/>`__, Google (many US locations)
 - `Technical Writer, Cloud Technologies and Tools <https://jobs.writethedocs.org/job/364/technical-writer-cloud-technologies-and-tools/>`__, Google (Waterloo, Ontario)
-- `Technical Writer https://jobs.writethedocs.org/job/366/technical-writer/>`__, Juniper Networks (Sunnyvale, California)
+- `Technical Writer <https://jobs.writethedocs.org/job/366/technical-writer/>`__, Juniper Networks (Sunnyvale, California)
 - `Manager, Technical Writing, Google Kubernetes Engine <https://jobs.writethedocs.org/job/365/manager-technical-writing-google-kubernetes-engine/>`__, Google (Waterloo, Ontario)
 - `Open Source Engineer <https://jobs.writethedocs.org/job/367/open-source-engineer/>`__, Slack (Remote or several on-site locations)
 
