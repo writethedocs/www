@@ -346,6 +346,7 @@ I'm unable to share my webcam or microphone in a session or table.
 - You can use the Hopin Stream Test at https://app.hopin.to/precall to check if your settings are configured correctly and to see if you are having any network issues. Read more at https://hopin.zendesk.com/hc/en-gb/articles/360059622932-Test-your-stream-quality-with-the-Hopin-Stream-Test
 - If you plug in a headset *after* you have joined the conference, you may need to restart your browser and join in again.
 - You will need to grant browser permissions for Hopin to access your microphone and webcam. If you are having issues with your webcam and microphone check these two help articles
+
   - `I'm having Camera and/or Microphone issues on Mac <https://hopin.zendesk.com/hc/en-gb/articles/360056527911-I-m-having-Camera-and-or-Microphone-issues-on-Mac/>`__
   - `I'm having Camera and/or Microphone issues on Windows 10 <https://hopin.zendesk.com/hc/en-gb/articles/360059277232-I-m-having-Camera-and-or-Microphone-issues-on-Windows-10/>`__
 
