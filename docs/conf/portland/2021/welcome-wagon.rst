@@ -150,6 +150,7 @@ Join an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 {% if flaghasschedule %}
+
 - Starting Monday morning, check the `Unconference sign-up <{{unconf.url}}>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
 - At the time the session starts, go to **Sessions** and select the session with the table number that corresponds to the one in the `Unconference schedule <{{unconf.url}}>`__.
 {% else %}
