@@ -38,7 +38,7 @@ you can see who is helping out:
 Moderation Team
 ---------------
 
-This team is charged with keeping our Slack network on topic and
+This team helps keep our Slack network on topic and
 friendly. As a reminder, we expect exemplary behavior from our community, and
 won't tolerate any kind of harassment or prolonged negativity.
 
