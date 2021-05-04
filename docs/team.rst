@@ -30,33 +30,31 @@ Each conference has a specific team that helps run that event. For this year,
 you can see who is helping out:
 
 * :doc:`Portland 2021 Team </conf/portland/2021/team>`
-* :doc:`Prague 2020 Team </conf/prague/2020/team>`
-* :doc:`Australia 2020 Team </conf/australia/2020/team>`
+* :doc:`Prague 2021 Team </conf/prague/2021/team>`
+* :doc:`Australia 2021 Team </conf/australia/2021/team>`
 
 .. _moderation-team:
 
 Moderation Team
 ---------------
 
-These are the folks who handle any :doc:`/code-of-conduct` incidents. They are
-also charged with keeping our various communication channels on topic and
+This team is charged with keeping our Slack network on topic and
 friendly. As a reminder, we expect exemplary behavior from our community, and
 won't tolerate any kind of harassment or prolonged negativity.
 
 Roles
 `````
 
-* Moderate the Forum and Slack
+* Moderate the Slack network
 * Serve as points of contact for any issues or questions
-* Handle :doc:`/code-of-conduct` incidents on Slack & Forum
+* Handle :doc:`/code-of-conduct` incidents on Slack or escalate them to the `Core Team`_
 
 Members
 ```````
 
-* `Jennifer Rondeau <https://twitter.com/bradamante>`_ ``@jrondeau`` *
+* `Eric Holscher <https://twitter.com/ericholscher>`_ ``@ericholscher`` *
 * `Janine Chan <https://www.linkedin.com/in/janinechan/>`_ ``@janine``
 * `Daniel Beck <https://twitter.com/ddbeck>`_ ``@ddbeck``
-* `Eric Holscher <https://twitter.com/ericholscher>`_ ``@ericholscher``
 * `Samuel Wright <https://twitter.com/plaindocs>`_ ``@plaindocs``
 * You?
 
@@ -193,6 +191,7 @@ Members
 ```````
 
 * `Samuel Wright <https://twitter.com/plaindocs>`_ *
+* `Sasha Romijn <https://twitter.com/mxsash>`_
 * `Eric Holscher <https://twitter.com/ericholscher>`_
 * You?
 
