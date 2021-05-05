@@ -10,9 +10,9 @@ Hello, Write the Docs people! There's tons to cover this month, so I'll get stra
 
 We've just wrapped up our second virtual Portland conference - thanks so much of you to all who attended for making it special! If you missed it (or just want to experience it all over again), all the talks are now `live on YouTube <https://www.youtube.com/playlist?list=PLZAeFn6dfHpkCk5Fw5yLFGTqd1OJoaXhR>`__.
 
-There's plenty more conference goodness still to come in 2021, with `virtual Prague </conf/prague/2021>`__ coming on 3rd-5th October, and we've just announced that the `Australia and India virtual conference </conf/australia/2021/news/welcome/>`__ will be 2nd-3rd December. And the Call for Proposals for Prague `is open now </conf/prague/2021/news/cfp-open/>`__. Really looking forward to hearing your ideas - big or small, inspiring or entertaining.
+There's plenty more conference goodness still to come in 2021, with the `Prague virtual conference </conf/prague/2021>`__ coming on 3rd-5th October, and we've just announced that the `Australia and India virtual conference </conf/australia/2021/news/welcome/>`__ will be 2nd-3rd December. And the Call for Proposals for Prague `is open now </conf/prague/2021/news/cfp-open/>`__. Really looking forward to hearing your ideas - big or small, inspiring or entertaining.
 
-Finally, we're proud to announce our 2021 donation matching campaign. We want to make a difference globally in our work, and also encourage Write the Docs members to engage with local organizations in their region. So please check out the `blog post </blog/2021-matching-campaign/>`__, and if you'd like to donate to of our highlighted charities or a similar one local to you, get in touch.
+Finally, we're proud to announce our 2021 donation matching campaign. We want our work to make a difference globally, and we want to encourage Write the Docs members to engage with their local organizations. So please check out the `matching campaign blog post </blog/2021-matching-campaign/>`__, and if donate to a relevant charity, get in touch.
 
 ---------------------------
 Podcasts for documentarians
