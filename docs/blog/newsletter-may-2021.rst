@@ -12,7 +12,7 @@ We've just wrapped up our second virtual Portland conference - thanks so much of
 
 There's plenty more conference goodness still to come in 2021, with the `Prague virtual conference </conf/prague/2021>`__ coming on 3rd-5th October, and we've just announced that the `Australia and India virtual conference </conf/australia/2021/news/welcome/>`__ will be 2nd-3rd December. And the Call for Proposals for Prague `is open now </conf/prague/2021/news/cfp-open/>`__. Really looking forward to hearing your ideas - big or small, inspiring or entertaining.
 
-Finally, we're proud to announce our 2021 donation matching campaign. We want our work to make a difference globally, and we want to encourage Write the Docs members to engage with their local organizations. So please check out the `matching campaign blog post </blog/2021-matching-campaign/>`__, and if donate to a relevant charity, get in touch.
+Finally, we're proud to announce our 2021 donation matching campaign. We want our work to make a difference globally, and we want to encourage Write the Docs members to engage with their local organizations. So please check out the `matching campaign blog post </blog/2021-matching-campaign/>`__, and if you'd like to donate to a relevant charity, get in touch.
 
 ---------------------------
 Podcasts for documentarians
@@ -20,9 +20,11 @@ Podcasts for documentarians
 
 If you're looking for podcasts about technical writing, content strategy, knowledge management, and related topics, here's a list courtesy of the WTD community (with links for podcasts with dedicated websites). The number and variety of podcasts for documentarians is a delight!
 
-Folks noted one gap: podcasts from non-English-speaking countries or in languages other than English. We have one in this list, but if you know of others, please share them in the WTD Slack!
+Folks noted one gap: podcasts from non-English-speaking countries or in languages other than English. We have a couple in this list, but if you know of others, please share them in the WTD Slack!
 
 General tech writing and interviews with documentarians:
+
+<!-- vale off -->
 
 - `10-Minute Tech Comm <https://www.podbean.com/podcast-detail/36ttb-52a6a/10-Minute-Tech-Comm-Podcast>`__
 - `API the Docs <https://anchor.fm/api-the-docs-podcast>`_
@@ -34,6 +36,8 @@ General tech writing and interviews with documentarians:
 - `The Not-Boring Tech Writer <https://www.thenotboringtechwriter.com/>`_
 - `Technische Dokumentation - Der Podcast zu allen Themen der technischen Dokumentation <https://technischedokupodcast.podigee.io/>`_ (in German)
 - `The Write the Docs Podcast <https://podcast.writethedocs.org/>`_
+
+<!-- vale on -->
 
 Content strategy and copywriting:
 
@@ -49,7 +53,7 @@ Humor:
 
 Tech writing and technology:
 
-- `The Manuscript <https://themanuscript.co/>`_
+- `The Manuscript <https://themanuscript.co/>`_ (from Brazil)
 - `Towards a Smarter World <https://simplea.com/Treasury/Podcasts>`_
 
 Tech writing training topics:
