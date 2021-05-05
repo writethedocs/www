@@ -24,7 +24,7 @@ Folks noted one gap: podcasts from non-English-speaking countries or in language
 
 General tech writing and interviews with documentarians:
 
-<!-- vale off -->
+.. <!-- vale off -->
 
 - `10-Minute Tech Comm <https://www.podbean.com/podcast-detail/36ttb-52a6a/10-Minute-Tech-Comm-Podcast>`__
 - `API the Docs <https://anchor.fm/api-the-docs-podcast>`_
@@ -37,7 +37,7 @@ General tech writing and interviews with documentarians:
 - `Technische Dokumentation - Der Podcast zu allen Themen der technischen Dokumentation <https://technischedokupodcast.podigee.io/>`_ (in German)
 - `The Write the Docs Podcast <https://podcast.writethedocs.org/>`_
 
-<!-- vale on -->
+.. <!-- vale on -->
 
 Content strategy and copywriting:
 
