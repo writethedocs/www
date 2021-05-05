@@ -50,6 +50,22 @@ Write the Docs has had a number of talks that touch on this topic over the years
 * `Margaret Eker and Jennifer Roundeau`_ from Rackspace & Capital One, it was a great overview of *Docs as Code*.
 * `Rachel Whitten`_ from Pantheon give a talk on their implementation of these approaches.
 
+**2017 North America**
+
+* `Jodie Putrino`_ from F5 gave a practical account of her experience developing docs like code.
+
+**2018 Europe**
+
+* `Predrag Mandic`_ talked about how the "documentation is code" principle saves money and time, empowers documentarians, simplifies processes around testing documentation and brings happiness to a diverse customer base.
+
+**2019 Europe**
+
+* `Jen Lambourne`_ shared the UK Government Digital Service's experience adopting a docs as code approach.
+
+**2021 North America**
+
+* `Swapnil Ogale`_ provided his take on transitioning from traditional tech writing tools to a docs as code approach.
+
 The *Docs as Code* concepts are widely practiced in the software industry,
 and are gaining adoption in the writing community.
 
@@ -57,6 +73,10 @@ and are gaining adoption in the writing community.
 .. _panel: https://www.youtube.com/watch?v=Y2TGwUPb8R4
 .. _Margaret Eker and Jennifer Roundeau: https://www.youtube.com/watch?v=JvRd7MmAxPw
 .. _Rachel Whitten: https://www.youtube.com/watch?v=dHdBsNxtKeI
+.. _Jodie Putrino: https://www.youtube.com/watch?v=Mzu-c-FoOdw
+.. _Predrag Mandic: https://www.youtube.com/watch?v=oW7rWJ2xNZU
+.. _Jen Lambourne: https://www.youtube.com/watch?v=Ql9Il7tssik
+.. _Swapnil Ogale: https://www.youtube.com/watch?v=FQ7DkPOw3Cc
 
 *Docs as Code* at other Conferences, Video Casts and Articles
 -------------------------------------------------------------
