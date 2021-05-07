@@ -40,6 +40,7 @@ Approaches to Creating Docs
    :maxdepth: 2
 
    docs-as-code
+   doc-ops
    Producing documentation inside a Support team <writing/support-team>
    Starting-a-new-doc
 
