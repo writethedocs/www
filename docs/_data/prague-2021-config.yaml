@@ -154,6 +154,13 @@ sponsors:
     - name: peopletext
       link: https://www.people-text.de/en/home-en.html
       brand: people text
+  media:
+    - name: bart
+      link: http://www.bartatwork.com
+      brand: Bart at work
+    - name: techwriter-pl
+      link: http://techwriter.pl
+      brand: techwriter.pl
 
 
 # Things that change over time, listed in order of change
