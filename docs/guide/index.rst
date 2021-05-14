@@ -58,10 +58,6 @@ Markup Languages
    writing/xml
    writing/asciidoc
 
-* reStructuredText
-    * Cheatsheet
-    * Tutorial
-
 Tools of the Trade
 ------------------
 
