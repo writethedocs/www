@@ -34,7 +34,6 @@ Tips for Sponsors
 If you want to maximize your contacts with potential new employees, make sure to:
 
 * Make sure your booth staff is registered in the online platform before the conference starts. All sponsor ticket holders will receive details about this a few days before the conference. These staff will be set up as moderators for your booth. As needed, you can also request additional moderators from the designated conference Job Fair volunteer.
-* ```
 * When you're a moderator, you can always share your audio and video. Other attendees who want to "Share Audio and Video" will appear under the "Moderator Panel" at the bottom of the screen. When you select one or more persons, they'll join you in the video chat.
 
 You can also select users for 1:1 chats.
