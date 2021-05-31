@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: May 25, 2021
+.. post:: May 31, 2021
    :tags: prague-2021, cfp, tickets
 
 Announcing Ticket Sales, Grant Program, and Call for Proposals Reminder
@@ -17,15 +17,13 @@ Get your ticket for the conference
 
 **The Prague conference will be held online on {{ date.short }}.** The `full event website <https://www.writethedocs.org/conf/prague/{{year}}/>`_ is live, with some preliminary details, and we'll be filling in more as it gets closer.
 
-If you're excited too, go ahead and `register for your ticket now <https://www.writethedocs.org/conf/prague/{{year}}/tickets/>`_! Even though our capacity is more flexible due to the virtual event platform, we might still sell out to make sure we're providing a manageable event size for our attendees, as always.
+Tickets are on sale now, so go ahead and `register for your ticket now <https://www.writethedocs.org/conf/prague/{{year}}/tickets/>`_! Even though our capacity is more flexible due to the virtual event platform, we might still sell out to make sure we're providing a manageable event size for our attendees, as always.
 
 Similar to last year's virtual conference, we're going to keep as much as possible of the spirit of the event alive:
 
 * Excellent single track of pre-recorded presentations with live moderated Q&A after each talk
 * Writing Day sessions
 * Unconference sessions
-* Job Fair booths
-* Sponsor booths
 * A virtual hallway track
 * A social event of some kind, bring your own beverage and snacks :)
 
@@ -69,4 +67,3 @@ Thanks so much to the following companies for supporting the Portland conference
 Looking forward to seeing you all in our virtual space!
 
 The Write the Docs Team
-
