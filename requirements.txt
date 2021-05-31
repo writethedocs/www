@@ -9,7 +9,7 @@ yamllint==1.26.1
 pathlib==1.0.1
 sphinxcontrib.datatemplates==0.7.2
 meetup-api==0.1.1
-urllib3[secure]==1.26.4
+urllib3[secure]==1.26.5
 yamale==3.0.4
 markdown==3.3.4
 ruamel.yaml==0.17.2
