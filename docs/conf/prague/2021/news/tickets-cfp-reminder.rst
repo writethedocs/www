@@ -58,7 +58,7 @@ and are open for new sponsorship inquiries.
 
 We will still run the `job fair <https://www.writethedocs.org/conf/prague/{{year}}/job-fair/>`_, helping documentarians and organizations connect with each other. Check out the sponsorship prospectus for more details and to reserve your spot today.
 
-Thanks so much to the following companies for supporting the Portland conference this year:
+Thanks so much to the following companies for supporting the Prague conference this year:
 
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-config.yaml
