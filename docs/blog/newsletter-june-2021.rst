@@ -8,7 +8,7 @@ Write the Docs Newsletter – June 2021
 
 Hi everybody! It's Beth here, writing to you from my gloriously sunny balcony (thank *goodness* rainy May is over). I hope you're all enjoying the weather wherever you are.
 
-The big thing I want to shout about this month is the `Prague Call for Proposals </conf/prague/2021/cfp/>`__. If you were even sort-of entertaining the thought of submitting a talk idea, take this as your sign to go for it! My favourite thing about giving conference talks is the conversations it starts. It's awesome for helping you find people who care about the same things as you; so if there's something you'd really like to see a talk about this year, I really encourage you to submit one.
+The big thing I want to shout about this month is the `Prague Call for Proposals </conf/prague/2021/cfp/>`__. If you were even sort-of entertaining the thought of submitting a talk idea, take this as your sign to go for it! My favourite thing about giving a conference talk is the conversations the talk starts. It's awesome for helping you find people who care about the same things as you; so if there's something you'd really like to see a talk about this year, I really encourage you to submit your idea.
 
 On to the stories from Slack! This month we've been talking about prioritization, the challenges of having busy colleagues, and much much more.
 
@@ -34,8 +34,8 @@ The community once again came to the rescue, with myriad options ranging from pl
 
 Here are all the options folks contributed to the discussion:
 
-* If you're writing docs in Confluence or knowledgebase articles in Zendesk, they support limited access
-* You can implement per-location authentication requirements in a nginx server. This supports SSO with JWT (Json Web Tokens)
+* If you're writing docs in Confluence or knowledgebase articles in Zendesk, both tools support limited access
+* You can implement per-location authentication requirements in an NGINX server. This supports SSO with JWT (Json Web Tokens)
 * Netlify offers an `identity and RBAC (role-based access control) solution <https://login-to-gated-site.netlify.app/>`_
 * Work with a combination of feature flags and allowlists
 * In Apache, you can use the `.htaccess` config file and user credentials
@@ -48,7 +48,7 @@ Dealing with too-busy stakeholders
 
 How do you finish the documentation for a feature when a key stakeholder is too busy? What can you do to get the information you need from an unavailable stakeholder before the project's deadline? This month, the Write the Docs community discussed ways to progress on documentation projects when dealing with a too-busy stakeholder.
 
-First, try writing as much as you can before contacting the stakeholder for help. This allows you to provide detailed information when emailng them about the hold-up. If the question is time-sensitive, it's well worth including a preferred deadline for an answer. As an alternative, try finding another stakeholder who has the knowledge and time to answer your questions. If, despite your efforts, the stakeholder remains unresponsive, you could notify your manager so they can speak with the stakeholder's manager. Finally, consider taking time to build rapport via light and informal chat with the stakeholder. Discussions that aren't *just* about chasing them for help can help establish a trusting relationship, and relieve tension and frustration.
+First, try writing as much as you can before contacting the stakeholder for help. This allows you to provide detailed information when emailing them about the hold-up. If the question is time-sensitive, it's well worth including a preferred deadline for an answer. As an alternative, try finding another stakeholder who has the knowledge and time to answer your questions. If, despite your efforts, the stakeholder remains unresponsive, you could notify your manager so they can speak with the stakeholder's manager. Finally, consider taking time to build rapport via light and informal chat with the stakeholder. Discussions that aren't *just* about chasing them for help can help establish a trusting relationship, and relieve tension and frustration.
 
 Although these suggestions may help, it is important to remember that there is no one-size-fits-all solution when dealing with too-busy stakeholders. While a simple conversation may resolve some issues, others may necessitate escalation. It's okay to find this difficult - these situations can be complex and stressful!
 
@@ -123,6 +123,7 @@ Featured job posts
 - `Digital Transformation with the TAAP No Code Low Code Applications Platform <https://jobs.writethedocs.org/job/404/digital-transformation-with-the-taap-no-code-low-code-applications-platform/>`__, TAAP (Remote)
 - `Senior Technical Writer - Distributed US <https://jobs.writethedocs.org/job/405/senior-technical-writer-distributed-us/>`__, Cockroach Labs (Remote)
 - `Technical Evangelist, Developer Experience & APIs <https://jobs.writethedocs.org/job/408/technical-evangelist-developer-experience-apis/>`__, Envestnet (Raleigh, NC, USA)
+
 *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
 ------------------------
