@@ -1,5 +1,5 @@
 
-.. post:: June 04, 2021
+.. post:: June 03, 2021
    :tags: newsletter
 
 #####################################
@@ -8,9 +8,7 @@ Write the Docs Newsletter – June 2021
 
 Hi everybody! It's Beth here, writing to you from my gloriously sunny balcony (thank *goodness* rainy May is over). I hope you're all enjoying the weather wherever you are.
 
-The big thing I want to shout about this month is the `Prague Call for Proposals </conf/prague/2021/cfp/>`__. If you were even sort-of entertaining the thought of submitting a talk idea, this is your sign to go for it!
-
-My favourite thing about giving conference talks is the conversations it starts. It's awesome for helping you find people who care about the same things as you; so if there's something you'd really like to see a talk about this year, I really encourage you to submit one.
+The big thing I want to shout about this month is the `Prague Call for Proposals </conf/prague/2021/cfp/>`__. If you were even sort-of entertaining the thought of submitting a talk idea, take this as your sign to go for it! My favourite thing about giving conference talks is the conversations it starts. It's awesome for helping you find people who care about the same things as you; so if there's something you'd really like to see a talk about this year, I really encourage you to submit one.
 
 On to the stories from Slack! This month we've been talking about prioritization, the challenges of having busy colleagues, and much much more.
 
