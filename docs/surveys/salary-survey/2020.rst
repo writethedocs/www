@@ -902,12 +902,11 @@ Table: Median Salary by Region/Country of Employee
 | America     |             |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 | Is          |             | 47          |             | 90,000      |
-| rael\ `[a]  |             |             |             |             |
-| <#cmnt1>`__ |             |             |             |             |
+| rael        |             |             |             |             |
+|             |             |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 | Africa      |             | 3           |             | 28          |
-|             |             |             |             | ,501\ `[b]  |
-|             |             |             |             | <#cmnt2>`__ |
+|             |             |             |             | ,501\       |
 +-------------+-------------+-------------+-------------+-------------+
 
 .. _h.3gbl0zy7nqr:
@@ -1867,14 +1866,3 @@ South and Central America                     17
                           Brazil              14
 Africa                                        3
 ========================= ========= ========= ==================
-
-.. container:: c85
-
-   `[a] <#cmnt_ref1>`__\ I don't want to label this "Middle East"
-   because Israel is the only country we have responses from ...
-   footnote perhaps?
-
-.. container:: c85
-
-   `[b] <#cmnt_ref2>`__\ Should we include this? 3 salaries is too low
-   to post a median, but leaving it out completely seems dismissive
