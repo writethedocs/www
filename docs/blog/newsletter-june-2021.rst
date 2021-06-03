@@ -8,7 +8,7 @@ Write the Docs Newsletter – June 2021
 
 Hi everybody! It's Beth here, writing to you from my gloriously sunny balcony (thank *goodness* rainy May is over). I hope you're all enjoying the weather wherever you are.
 
-The big thing I want to shout about this month is the `Prague Call for Proposals </conf/prague/2021/cfp/>`__. If you were even sort-of entertaining the thought of submitting a talk idea, take this as your sign to go for it! My favourite thing about giving a conference talk is the conversations the talk starts. It's awesome for helping you find people who care about the same things as you; so if there's something you'd really like to see a talk about this year, I really encourage you to submit your idea.
+The big thing I want to shout about this month is the `Prague Call for Proposals </conf/prague/2021/cfp/>`__. If you were even sort-of entertaining the thought of submitting a talk idea, take this as your sign to go for it! My favourite thing about giving a conference talk is the conversations the talk starts. It's awesome for helping you find people who care about the same things as you; so if there's something you'd really like to see a talk about this year, I really encourage you to submit your idea. And if you'd like a bit of help working on your proposal idea, the EMEA WTD meetup is hosting a `proposal workshop and discussion on 10th June <https://www.meetup.com/Write-The-Docs-Berlin/events/277872402/>`__ - check it out.
 
 On to the stories from Slack! This month we've been talking about prioritization, the challenges of having busy colleagues, and much much more.
 
@@ -16,21 +16,21 @@ On to the stories from Slack! This month we've been talking about prioritization
 Priorities: Document new features or improve existing docs?
 -----------------------------------------------------------
 
-What would you prioritize: customer-requested improvements to existing documentation or working on new feature documentation? We discussed it on Slack this month as an interview question; for many documentarians though, the tension between priotizing new vs. existing docs is a day-to-day reality. Mostly, this means prioritizing which to work on *first* - because neither releasing new features without documentation nor neglecting to update existing documentation are good options.
+What would you prioritize: customer-requested improvements to existing documentation or working on new feature documentation? We discussed it on Slack this month as an interview question; for many documentarians though, the tension between prioritizing new vs. existing docs is a day-to-day reality. Mostly, this means prioritizing which to work on *first* - because neither releasing new features without documentation nor neglecting to update existing documentation are good options.
 
-One reason to prioritize new features is if it's difficult/impossible to use undocumented features. In this month's discussion though, prioritizing improvements to existing docs had the most support.
+One reason to prioritize new features is if they are difficult or impossible to use without documentation. In this month's discussion though, prioritizing improvements to existing docs had the most support.
 
 When you prioritize improvements to existing documentation, you raise the bar for new docs. The quality of your documentation rises as new docs are written to the higher standard. Making improvements implies figuring out what's wrong to begin with, so you'll be able to fix problems instead of repeating them. It's also easier to overlook or even forget low-quality content, whereas missing docs for new features are obvious. It makes sense to address existing customers' frustrations with existing docs. Even when poor docs do not represent a safety concern, they discourage current and potential customers. As one writer put it, "bad documentation is like breaking a promise".
 
 It's not just about keeping users happy, though, because your work has a business impact beyond providing the necessary documentation. For example, technical writers serve as a proxy for new users, so they can provide valuable insights from a user's perspective. The informal testing that writers often do during the documentation process can uncover bugs and usability issues to pass along to the product team. And good docs encourage self-service and reduce the number of customer support contacts. The benefits of good documentation spiral out to many other aspects of the business!
 
------------------------------------
-How to limit who can read your docs
------------------------------------
+--------------------------------------
+Restricting docs to authorized readers
+--------------------------------------
 
 A long-time community member started a new job recently, and among the novelties to explore they're figuring out how to allow only authorized users access to some of the docs.
 
-The community once again came to the rescue, with myriad options ranging from platform suggestions to details of how to roll your own or integrate different identity providers or workflows. They also cautioned wisely about making sure the solution was well-documented for future contributors to the docs!
+The community had plenty to suggest. Options ranged from suggestions of platforms, to details of how to roll your own or integrate different identity providers or workflows. They also mentioned making sure the solution was well-documented for future contributors to the docs!
 
 Here are all the options folks contributed to the discussion:
 
@@ -42,11 +42,11 @@ Here are all the options folks contributed to the discussion:
 * KnowledgeOwl lets you specify which pages users can see without logging in (or what Google indexes), with groups to manage access
 * Last but not least, Redocly offers a RBAC option for configuring developer portals
 
-----------------------------------
-Dealing with too-busy stakeholders
-----------------------------------
+------------------------------
+Dealing with busy stakeholders
+------------------------------
 
-How do you finish the documentation for a feature when a key stakeholder is too busy? What can you do to get the information you need from an unavailable stakeholder before the project's deadline? This month, the Write the Docs community discussed ways to progress on documentation projects when dealing with a too-busy stakeholder.
+How do you finish the documentation for a feature when a key stakeholder is too busy? What can you do to get the information you need from an unavailable stakeholder before the project's deadline? This month, the Write the Docs community discussed ways to progress on documentation projects when dealing with an unavailable stakeholder.
 
 First, try writing as much as you can before contacting the stakeholder for help. This allows you to provide detailed information when emailing them about the hold-up. If the question is time-sensitive, it's well worth including a preferred deadline for an answer. As an alternative, try finding another stakeholder who has the knowledge and time to answer your questions. If, despite your efforts, the stakeholder remains unresponsive, you could notify your manager so they can speak with the stakeholder's manager. Finally, consider taking time to build rapport via light and informal chat with the stakeholder. Discussions that aren't *just* about chasing them for help can help establish a trusting relationship, and relieve tension and frustration.
 
