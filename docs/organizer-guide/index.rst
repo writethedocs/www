@@ -97,7 +97,7 @@ Convert from Google Doc to ReStructuredText:
 
       pandoc -s -f html -t rst SalarySurvey2020.html > survey.rst
 
-3. If the output is full `rubrics` and single-cell tables like this: ::
+3. If the output is full of `rubrics` and single-cell tables like this: ::
 
       +-------------------------------------------------------------+
       | .. rubric:: What we asked                                   |
@@ -114,7 +114,7 @@ Convert from Google Doc to ReStructuredText:
       |    self-employed, but do not currently have work            |
       +-------------------------------------------------------------+
 
-   use something like the script in `docs/_scripts/fix_gdocs2rst.py` to clean it up.jwqj
+   use something like the script in `docs/_scripts/fix_gdocs2rst.py` to clean it up.
 
 4. Add images to `docs/surveys/salary-survey/images`, and include them manually.
 
