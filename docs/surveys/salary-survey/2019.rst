@@ -49,7 +49,7 @@ Basis of Employment
 The vast majority of respondents were employees (94%) rather than
 independent contractors, freelance operators, or self-employed (6%).
 
-.. figure:: images/1.svg
+.. figure:: images/2019/1.svg
    :alt: Figure: Basis of Employment
 
    Figure: Basis of Employment
@@ -75,7 +75,7 @@ above.
 4 respondents reported working 60 hours per week, the largest number
 entered.
 
-.. figure:: images/2.svg
+.. figure:: images/2019/2.svg
    :alt: Figure: Hours Worked
 
    Figure: Hours Worked
@@ -149,7 +149,7 @@ of the respondents - a few other roles stand out.
    | Quality Assurance                 | 1                                 |
    +-----------------------------------+-----------------------------------+
 
-.. figure:: images/3.svg
+.. figure:: images/2019/3.svg
    :alt: Figure: Job Title
 
    Figure: Job Title
@@ -170,7 +170,7 @@ Given that team leaders or managers are actually part of a team, and
 most of the “other” responses indicated partial team roles, this means
 that overall less than 30% of respondents work individually.
 
-.. figure:: images/4.svg
+.. figure:: images/2019/4.svg
    :alt: Figure: Type of Role
 
    Figure: Type of Role
@@ -195,7 +195,7 @@ Veterans of 10 or more years in their current role made up 9%. Of these,
 9 individual respondents reported 30 years or more, with one respondent
 reporting 40 years (the top value entered).
 
-.. figure:: images/5.svg
+.. figure:: images/2019/5.svg
    :alt: Figure: Time in Current Role
 
    Figure: Time in Current Role
@@ -220,7 +220,7 @@ to perform documentation-related tasks anyway, and 1.5% said that
 although documentation was not part of their job description, and they
 were not expected to perform documentation-related tasks, they did.
 
-.. figure:: images/6.svg
+.. figure:: images/2019/6.svg
    :alt: Figure: Official Role Breakdown
 
    Figure: Official Role Breakdown
@@ -246,7 +246,7 @@ The majority (67%) had jobs focused on documentation more than three
 quarters of their time. 47% estimated 90% or above, and 29% stated their
 job was 100% documentation.
 
-.. figure:: images/7.svg
+.. figure:: images/2019/7.svg
    :alt: Figure: Actual Role Breakdown
 
    Figure: Actual Role Breakdown
@@ -268,7 +268,7 @@ while for 45% it’s a requirement.
 Of those that work entirely remotely, 74% do so by choice, while only
 26% have no on site alternative available to them.
 
-.. figure:: images/8.svg
+.. figure:: images/2019/8.svg
    :alt: Figure: Work Location
 
    Figure: Work Location
@@ -385,7 +385,7 @@ have been omitted from the following breakdown.
    | Virginia     | $78,625       |
    +--------------+---------------+
 
-.. figure:: images/map.svg
+.. figure:: images/2019/map.svg
    :alt: Figure: Median Salary by Region and Country
 
    Figure: Median Salary by Region and Country
@@ -443,7 +443,7 @@ included:
    | off)                              |                                   |
    +-----------------------------------+-----------------------------------+
 
-.. figure:: images/9.svg
+.. figure:: images/2019/9.svg
    :alt: Figure: Additional Benefits
 
    Figure: Additional Benefits
@@ -464,7 +464,7 @@ On the other end of the scale, 13.5% are unsatisfied, with 2% of those
 In the middle, 15.5% gave a neutral response - neither satisfied nor
 unsatisfied.
 
-.. figure:: images/10.svg
+.. figure:: images/2019/10.svg
    :alt: Figure: Satisfaction
 
    Figure: Satisfaction
@@ -564,7 +564,7 @@ above. The remaining responses were grouped into the following areas:
 4 of the 14 respondents who rated themselves as “very unsatisfied” did
 not indicate any reason.
 
-.. figure:: images/10-2.svg
+.. figure:: images/2019/10-2.svg
    :alt: Figure: Reasons for Dissatisfaction
 
    Figure: Reasons for Dissatisfaction
@@ -592,7 +592,7 @@ Institutions accounted for less than 2% of the respondents.
 10 “Other” responses were entered, covering startups, government
 contractors and independent units within larger organizations.
 
-.. figure:: images/11.svg
+.. figure:: images/2019/11.svg
    :alt: Figure: Type of Organization
 
    Figure: Type of Organization
@@ -618,7 +618,7 @@ combined formed 67.5% of the total respondents. Only 4.6% of respondents
 fell into the youngest age group, and there were no respondents in the
 66+ age bracket.  
 
-.. figure:: images/12.svg
+.. figure:: images/2019/12.svg
    :alt: Figure: Age
 
    Figure: Age
@@ -636,7 +636,7 @@ answer which was discarded.
 61% of the respondents identified as women, 36% as men, and 3% as
 non-binary or “other”.
 
-.. figure:: images/13.svg
+.. figure:: images/2019/13.svg
    :alt: Figure: Gender Identity
 
    Figure: Gender Identity
@@ -656,7 +656,7 @@ those who completed high school only (including those who did some
 college but did not achieve a formal qualification) accounted for the
 remaining fraction.
 
-.. figure:: images/15.svg
+.. figure:: images/2019/15.svg
    :alt: Figure: Highest Education Level Achieved
 
    Figure: Highest Education Level Achieved
@@ -736,7 +736,7 @@ There was one respondent only from each of the following countries:
 -  Taiwan
 -  Vietnam
 
-.. figure:: images/16.svg
+.. figure:: images/2019/16.svg
    :alt: Figure: Geographical Location
 
    Figure: Geographical Location
