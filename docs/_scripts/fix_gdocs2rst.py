@@ -1,7 +1,7 @@
 in_rubric = False
 
 
-with open('/home/samuel/Downloads/WIP.rst') as fp:
+with open('survey.rst') as fp:
     for cnt, line in enumerate(fp):
        #print("Line {}: {}".format(cnt, line))
 
