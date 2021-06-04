@@ -61,6 +61,8 @@ Basis of Employment
 ~~~~~~~~~~~~~~~~~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    1. What is the basis of your employment?                              
                                                                          
@@ -109,6 +111,8 @@ Hours Worked
 ~~~~~~~~~~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    2. How many hours per week do you work?                               
                                                                          
@@ -160,6 +164,8 @@ Job Title
 ~~~~~~~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    3. What is your job title?                                            
                                                                          
@@ -230,6 +236,8 @@ Type of Role
 ~~~~~~~~~~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    4. How would you broadly categorize your primary role?                
                                                                          
@@ -311,6 +319,8 @@ Length of time at current organization
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    6. How long have you worked at your current organization?             
                                                                          
@@ -374,6 +384,8 @@ Proportion of role officially related to documentation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
     7. Documentation is:                                                 
                                                                          
@@ -417,6 +429,8 @@ Proportion of role actually related to documentation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    8. Approximately what percentage of your day-to-day tasks are         
    documentation-related?                                                
@@ -477,6 +491,8 @@ Work Location
 ~~~~~~~~~~~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    9. Has your work location (i.e. onsite, remote) been affected by      
    COVID-19 (temporarily or permanently)?                                
@@ -674,6 +690,8 @@ Other Changes Due to COVID-19
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    10. Other than work location, has your employment been affected by    
    COVID-19? Check all that apply.                                       
@@ -799,6 +817,8 @@ Salary - Employees
 ~~~~~~~~~~~~~~~~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    11a. What currency are you paid in?                                   
                                                                          
@@ -961,6 +981,8 @@ Additional Benefits - Employees
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    12. Does your salary package include any additional benefits? Check   
    all that apply.                                                       
@@ -1068,6 +1090,8 @@ Salary Satisfaction - Employees
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    13. How satisfied are you with your current salary and benefits?      
                                                                          
@@ -1103,6 +1127,8 @@ Reasons for Salary Dissatisfaction - Employees
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    13b. If you are not completely satisfied with your salary or          
    benefits, is it because (check all that apply, or check "none of the  
@@ -1166,6 +1192,8 @@ Job Satisfaction - Employees
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    14. How satisfied are you with your current job overall?              
                                                                          
@@ -1203,6 +1231,8 @@ Reasons for Overall Job Dissatisfaction - Employees
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    14b. If you are not completely satisfied with your job, is it because 
    (check all that apply, or check "none of the above"):                 
@@ -1350,6 +1380,8 @@ Organization Size
 ~~~~~~~~~~~~~~~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    15. What is the approximate size of your organization, in number of   
    employees?                                                            
@@ -1395,6 +1427,8 @@ Industry
 ~~~~~~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    16. What industry does your organization operate in?                  
                                                                          
@@ -1547,6 +1581,8 @@ Organization Location
 ~~~~~~~~~~~~~~~~~~~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    17. Where is your organization based?\*                               
                                                                          
@@ -1595,6 +1631,8 @@ Age
 ~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    What is your age?                                                     
                                                                          
@@ -1637,6 +1675,8 @@ Gender Identity
 ~~~~~~~~~~~~~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    19. What gender identity do you most identify with?                   
                                                                          
@@ -1671,6 +1711,8 @@ Years of Experience in Documentation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    20. How many years of experience do you have in documentation?        
                                                                          
@@ -1719,6 +1761,8 @@ Highest Education Level Achieved
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    21. What is the highest level of education that you have completed?   
                                                                          
@@ -1771,6 +1815,8 @@ Geographical Location
 ~~~~~~~~~~~~~~~~~~~~~
 
 .. container:: question
+
+   .. rubric:: What we asked
                                                                          
    22a. Where are you based?                                             
                                                                          
