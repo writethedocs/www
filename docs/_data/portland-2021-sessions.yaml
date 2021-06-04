@@ -3,6 +3,9 @@
   series: Write the Docs Portland
   series_slug: portland
   year: 2021
+  youtubeId: 3prrgLv4qt4
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51194873060/in/album-72157719233307148/
+  sketchnoteImage: https://live.staticflickr.com/65535/51194873060_6c51412c81_b_d.jpg
   speakers:
   - name: Abigail McCarthy
     slug: abigail-mccarthy
@@ -42,6 +45,9 @@
   series: Write the Docs Portland
   series_slug: portland
   year: 2021
+  youtubeId: T4mJ1Du-VB4
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51194025688/in/album-72157719233307148/
+  sketchnoteImage: https://live.staticflickr.com/65535/51194025688_78f5137801_b_d.jpg
   speakers:
   - name: Jessica Garson
     slug: jessica-garson
@@ -56,6 +62,9 @@
   series: Write the Docs Portland
   series_slug: portland
   year: 2021
+  youtubeId: PkK1lowfeFU
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51193104672/in/album-72157719233307148/
+  sketchnoteImage: https://live.staticflickr.com/65535/51193104672_a1f9024ce4_b_d.jpg
   speakers:
   - name: Deanna Thompson
     slug: deanna-thompson
@@ -77,6 +86,9 @@
   series: Write the Docs Portland
   series_slug: portland
   year: 2021
+  youtubeId: efmtoJ6Q-0Q
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51193104322/in/album-72157719233307148/
+  sketchnoteImage: https://live.staticflickr.com/65535/51193104322_de699189c2_b_d.jpg
   speakers:
   - name: Katherine Karaus
     slug: katherine-karaus
@@ -110,6 +122,9 @@
   series: Write the Docs Portland
   series_slug: portland
   year: 2021
+  youtubeId: aaBLXKGs9cQ
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51194582364/in/album-72157719233307148/
+  sketchnoteImage: https://live.staticflickr.com/65535/51194582364_c82051e737_b_d.jpg
   speakers:
   - name: Rachael Stavchansky
     slug: rachael-stavchansky
@@ -144,11 +159,14 @@
   series: Write the Docs Portland
   series_slug: portland
   year: 2021
+  youtubeId: f7hHwGvR0_Q
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51193104612/in/album-72157719233307148/
+  sketchnoteImage: https://live.staticflickr.com/65535/51193104612_60dc522dd6_b_d.jpg
   speakers:
   - name: Falon Darville
     slug: falon-darville
     twitter: 
-    website: falondarville.com
+    website: https://falondarville.com
   abstract: '<p>When I was hired at DISQO as a Technical Writer,  the number of engineers
     was hovering around seventy, and there was just one of me. With numerous Google
     Docs and Markdown files strewn about and much to still be documented, it was critical
@@ -183,6 +201,9 @@
   series: Write the Docs Portland
   series_slug: portland
   year: 2021
+  youtubeId: Wc7n7uIg4AM
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51194583024/in/album-72157719233307148/
+  sketchnoteImage: https://live.staticflickr.com/65535/51194583024_5598519014_b_d.jpg
   speakers:
   - name: Daniele Procida
     slug: daniele-procida
@@ -238,6 +259,9 @@
   series: Write the Docs Portland
   series_slug: portland
   year: 2021
+  youtubeId: TV-bawUDibc
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51194582294/in/album-72157719233307148/
+  sketchnoteImage: https://live.staticflickr.com/65535/51194582294_6e549bf00c_b_d.jpg
   speakers:
   - name: Rin Oliver
     slug: rin-oliver
@@ -283,6 +307,9 @@
   series: Write the Docs Portland
   series_slug: portland
   year: 2021
+  youtubeId: FQ7DkPOw3Cc
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51194872110/in/album-72157719233307148/
+  sketchnoteImage: https://live.staticflickr.com/65535/51194872110_5cb46ba37d_b_d.jpg
   speakers:
   - name: Swapnil Ogale
     slug: swapnil-ogale
@@ -320,6 +347,9 @@
   series: Write the Docs Portland
   series_slug: portland
   year: 2021
+  youtubeId: Ti5lfI0l190
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51193103897/in/album-72157719233307148/
+  sketchnoteImage: https://live.staticflickr.com/65535/51193103897_8a850b0a69_b_d.jpg
   speakers:
   - name: Sarah R. Rodlund
     slug: sarah-r-rodlund
@@ -354,6 +384,9 @@
   series: Write the Docs Portland
   series_slug: portland
   year: 2021
+  youtubeId: VEDdflVPTv0
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51193104112/in/album-72157719233307148/
+  sketchnoteImage: https://live.staticflickr.com/65535/51193104112_dcf16baef1_b_d.jpg
   speakers:
   - name: Paris Buttfield-Addison
     slug: paris-buttfield-addison
@@ -398,6 +431,9 @@
   series: Write the Docs Portland
   series_slug: portland
   year: 2021
+  youtubeId: ROhFB4HL0CU
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51194025423/in/album-72157719233307148/
+  sketchnoteImage: https://live.staticflickr.com/65535/51194025423_059aba15d0_b_d.jpg
   speakers:
   - name: Nicola Yap
     slug: nicola-yap
@@ -462,6 +498,9 @@
   series: Write the Docs Portland
   series_slug: portland
   year: 2021
+  youtubeId: TG7vKolsqb4
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51194582839/in/album-72157719233307148/
+  sketchnoteImage: https://live.staticflickr.com/65535/51194582839_6b28262224_b_d.jpg
   speakers:
   - name: Ines Stefanovic
     slug: ines-stefanovic
@@ -487,6 +526,9 @@
   series: Write the Docs Portland
   series_slug: portland
   year: 2021
+  youtubeId: 57ik4zDMKJY
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51194872595/in/album-72157719233307148/
+  sketchnoteImage: https://live.staticflickr.com/65535/51194872595_b94581ea0e_b_d.jpg
   speakers:
   - name: Laura Novich
     slug: laura-novich

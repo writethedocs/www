@@ -69,12 +69,12 @@ Several meetups are members of the Quorum North America East group:
 
 * Atlanta
 * Austin
-* Boston
 * Detroit / Windsor
 * Florida
+* New England
 * Ottawa / Montreal
 * Philadelphia
-* Raleigh / Durham
+* Washington, D.C.
 
 .. meetup-listing::
     :region: Quorum-US-East
@@ -88,6 +88,7 @@ Several meetups are members of the Quorum North America West group:
 * Los Angeles
 * Portland (OR)
 * Salt Lake City
+* Seattle
 
 .. meetup-listing::
     :region: Quorum-US-West

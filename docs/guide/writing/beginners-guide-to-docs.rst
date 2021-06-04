@@ -165,7 +165,7 @@ This removes obstacles to actually putting words on the page.
    I recommend that you check them both out,
    and decide which you want to use going forward.
 
-.. _reStructuredText: http://sphinx-doc.org/rest.html#rst-primer
+.. _reStructuredText: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
 .. _Markdown: http://daringfireball.net/projects/markdown/
 
 Version controlled plain text
