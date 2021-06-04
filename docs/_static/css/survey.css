@@ -49,4 +49,8 @@
 
 #write-the-docs-salary-survey-2019-results #geographical-location ul.simple li{float:left;width:33%}
 #write-the-docs-salary-survey-2019-results #geographical-location ul.simple{overflow:auto}
+  
+  #write-the-docs-salary-survey-2020-results div.question.docutils.container{margin:30px 0;padding:20px;background-color:#F6F6F6}
+  #write-the-docs-salary-survey-2020-results div.question.docutils.container p.rubric{margin-top:0;font-weight:normal;font-style:italic}
+  
  }
