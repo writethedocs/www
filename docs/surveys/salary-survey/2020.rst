@@ -20,7 +20,7 @@ expanded the scope to better cater for independent contractors, people
 who were currently out of work, and multiple currencies, and also added
 a section about the impact of the COVID-19 pandemic.
 
-805 people completed the survey in 2020, an increase of24% over 2019.
+805 people completed the survey in 2020, an increase of 24% over 2019.
 
 This year, while our respondents specified the currency they were paid
 in, all numbers in this report have been converted to US dollars for
@@ -99,7 +99,10 @@ identical: 93% of respondents were employees (versus 94% in 2019) while
 the remaining 7% (versus 6% in 2019) were independent contractors,
 freelance operators or self-employed.
 
-[Figure: Basis of Employment]
+.. figure:: images/2020/basis-of-employment.svg
+   :alt: Figure: Basis of Employment
+
+   Figure: Basis of Employment
 
 --------------
 
@@ -152,9 +155,15 @@ Of the 4.5% working part-time:
 entered value was a staggering 80 hours. In contrast, the highest
 reported number from 2019 was 60 hours, reported by 4 respondents.
 
-[Figure: Hours Worked]
+.. figure:: images/2020/hours-worked.svg
+   :alt: Figure: Hours Worked
 
-[Figure: Full-time vs Part-time]
+   Figure: Hours Worked
+
+.. figure:: images/2020/full-time-vs-part-time.svg
+   :alt: Figure: Full-time vs Part-time
+
+   Figure: Full-time vs Part-time
 
 --------------
 
