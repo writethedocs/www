@@ -75,14 +75,9 @@ Basis of Employment
 
 .. _h.a6zzsevd7quq:
 
---------------
-
 .. _h.6wmey6kqcbaq:
 
 .. _h.8urvv4x3m13k:
-
-Summary of results
-^^^^^^^^^^^^^^^^^^
 
 In 2019, respondents were asked if they were employees or independent
 operators (contractors, freelancers, self-employed). In 2020, we
@@ -131,14 +126,9 @@ Hours Worked
    -  51-60 hours                                                        
    -  More than 60 hours                                                 
 
---------------
-
 .. _h.ue1e6t17jckk:
 
 .. _h.wd8yiracsy1i:
-
-Summary of results
-^^^^^^^^^^^^^^^^^^
 
 As in 2019, most respondents worked “full-time” hours:
 
@@ -183,14 +173,9 @@ Job Title
    than abbreviations. For example, use "Senior" rather than "Sr" and    
    "Technical" rather than "Tech".                                       
 
---------------
-
 .. _h.dqiimb8ucbq2:
 
 .. _h.79g43wra80rl:
-
-Summary of results
-^^^^^^^^^^^^^^^^^^
 
 With typos removed, capitalization standardized, and abbreviations
 expanded, 255 distinct job titles were entered as responses to this
@@ -280,9 +265,6 @@ Type of Role
 
 .. _h.5y5vyqts3p87:
 
-Summary of results
-^^^^^^^^^^^^^^^^^^
-
 In 2019, we attempted to illustrate the range of roles in the community
 by analyzing job titles and grouping them by keyword. In 2020, we went
 straight to the source and asked respondents to broadly categorize their
@@ -347,14 +329,9 @@ Length of time at current organization
    -  5 - 10 years                                                       
    -  More than 10 years                                                 
 
---------------
-
 .. _h.yuh1w98eebnf:
 
 .. _h.pe72x68siudn:
-
-Summary of results
-^^^^^^^^^^^^^^^^^^
 
 Due to ambiguous wording, this question caused some confusion in 2019
 with some respondents possibly entering the length of time they had been
@@ -405,14 +382,9 @@ Proportion of role officially related to documentation
    -  not officially part of my job description, and I am not expected   
       to perform documentation-related tasks, but I do anyway            
 
---------------
-
 .. _h.3iqanhncc2zn:
 
 .. _h.61il3vwswcpb:
-
-Summary of results
-^^^^^^^^^^^^^^^^^^
 
 69.6% of respondents reported that documentation was the whole of their
 official job description, and 25.6% reported that it was only one part.
@@ -449,14 +421,9 @@ Proportion of role actually related to documentation
    -  50-75%                                                             
    -  75-100%                                                            
 
---------------
-
 .. _h.jy53rn41y4ei:
 
 .. _h.5h36v6tukpci:
-
-Summary of results
-^^^^^^^^^^^^^^^^^^
 
 -  5.5% of respondents reported that documentation made up one quarter
    or less of their day to day job.
@@ -570,9 +537,6 @@ Work Location
    -  Very positive                                                      
 
 .. _h.ai9zky1g4jbi:
-
-Summary of results
-^^^^^^^^^^^^^^^^^^
 
 80% of respondents said that their work location had changed, either
 permanently or temporarily, due to COVID-19.
@@ -723,14 +687,9 @@ Other Changes Due to COVID-19
    -   Other (please specify)                                            
    -   None of the above                                                 
 
---------------
-
 .. _h.thwzeueyahop:
 
 .. _h.ktotl8ql9oy:
-
-Summary of results
-^^^^^^^^^^^^^^^^^^
 
 -  11.8% of respondents reported that their work situation had not been
    affected by COVID-19 in any way,
@@ -852,8 +811,6 @@ Salary - Employees
    Person A would enter 62,400 below (monthly amount multiplied by 12,   
    plus 30%).                                                            
 
---------------
-
 .. _h.nftt0v8ki24c:
 
 .. _h.c59g4m2157w7:
@@ -861,7 +818,7 @@ Salary - Employees
 Notes
 ^^^^^
 
-As over95% of respondents reporting working between 30 and80 hours per
+As over95% of respondents reporting working between 30 and 80 hours per
 week - a “full time” role - thosereporting fewer than 30 hours have been
 omitted from the figures in this section.
 
@@ -1016,14 +973,9 @@ Additional Benefits - Employees
 
 .. _h.ury4804ee83n:
 
---------------
-
 .. _h.82paah39bexu:
 
 .. _h.xxbkvlsxlohc:
-
-Summary of Results
-''''''''''''''''''
 
 For this section, we included the respondents with ambiguous salary
 numbers that were excluded from the salary section, and also included
@@ -1110,14 +1062,9 @@ Salary Satisfaction - Employees
    -  Satisfied                                                          
    -  Very satisfied                                                     
 
---------------
-
 .. _h.u1fcrkhtlu2z:
 
 .. _h.27k9816btjio:
-
-Summary of results
-''''''''''''''''''
 
 On the whole, most employee respondents were satisfied (40.27%) or very
 satisfied (31.87%) with their salary and benefits. Those with neutral
@@ -1154,14 +1101,9 @@ Reasons for Salary Dissatisfaction - Employees
    -  Other (please specify)                                             
    -  None of the above                                                  
 
---------------
-
 .. _h.vafe1wjkp8se:
 
 .. _h.f5gt8chok72i:
-
-Summary of results
-''''''''''''''''''
 
 Of the respondents who indicated that they were not “very satisfied”
 with their salary and/or benefits, 127 did not specify a reason.
@@ -1214,14 +1156,9 @@ Job Satisfaction - Employees
 
 .. _h.z128ssyjd5kp:
 
---------------
-
 .. _h.lqogmyfxvbat:
 
 .. _h.3nlrfzylfisp:
-
-Summary of results
-''''''''''''''''''
 
 Three quarters of respondents were “satisfied” (45.73%) or “very
 satisfied” (29.6%) with their job overall. 16.53% indicated “neutral”
@@ -1268,14 +1205,9 @@ Reasons for Overall Job Dissatisfaction - Employees
 
 .. _h.2jypcom8j2ab:
 
---------------
-
 .. _h.te5nwngm4rb3:
 
 .. _h.h3is3pda4wyd:
-
-Summary of results
-''''''''''''''''''
 
 19 respondents - including 2 who indicated that they were “very
 unsatisfied” with their overall job situation - did not indicate a
@@ -1373,7 +1305,7 @@ To be included in a later release
 
 .. _h.icsaw01cvshe:
 
-Section4: Organization Demographics
+Section 4: Organization Demographics
 -----------------------------------
 
 Some issues with clarity of questions in this section in the 2019 survey
@@ -1405,14 +1337,9 @@ Organization Size
 
 .. _h.51jh3h13lsy2:
 
---------------
-
 .. _h.94u4s757uj73:
 
 .. _h.kzi1mox14328:
-
-Summary of results
-^^^^^^^^^^^^^^^^^^
 
 Very small operations of 1-10 employees only represented just 1.4% of
 the total (11 responses). 10-50 employee operations accounted for
@@ -1482,14 +1409,9 @@ Industry
 
 .. _h.xssp95t724sg:
 
---------------
-
 .. _h.90vpmf1nt9st:
 
 .. _h.2mven1a5yjly:
-
-Summary of results
-^^^^^^^^^^^^^^^^^^
 
 The notes for this question clarified that respondents who work in IT
 and software should choose the industry that their organization
@@ -1605,14 +1527,9 @@ Organization Location
 
 .. _h.chttanrzi2n:
 
---------------
-
 .. _h.bt4xyiwl19t:
 
 .. _h.wbslhhyt9pr0:
-
-Summary of results
-^^^^^^^^^^^^^^^^^^
 
 Respondents were asked to select the primary geographical location of
 the organization that they work for.
@@ -1631,7 +1548,7 @@ less than 2% of the total.
 
 .. _h.iq745xeinf7k:
 
-Section5: Respondent Demographics
+Section 5: Respondent Demographics
 ---------------------------------
 
 .. _h.sljt9ro3aswr:
@@ -1653,14 +1570,9 @@ Age
    -  66+                                                                
    -  I'd rather not say                                                 
 
---------------
-
 .. _h.r1ouunjt2fga:
 
 .. _h.qravpnx0n97n:
-
-Summary of results
-^^^^^^^^^^^^^^^^^^
 
 The two largest-represented age groups (26-35 year olds and 36-45 year
 olds) combined formed 64% of the total respondents. 46-55 year olds made
@@ -1695,14 +1607,9 @@ Gender Identity
    -  Other (please specify)                                             
    -  I'd rather not say                                                 
 
---------------
-
 .. _h.83165ti5nc0w:
 
 .. _h.tym545ppyhwj:
-
-Summary of results
-^^^^^^^^^^^^^^^^^^
 
 57.8% of respondents identified as women, 37.5% as men, and 2.4% as
 non-binary or “other” - a similar breakdown to 2019’s results.19
@@ -1737,14 +1644,9 @@ Years of Experience in Documentation
 
 .. _h.lx079twuga2h:
 
---------------
-
 .. _h.4inw73p5s63e:
 
 .. _h.jnqjntolmml9:
-
-Summary of results
-^^^^^^^^^^^^^^^^^^
 
 3.5% reported having up to a year of experience, and 7% between 1 and 2
 years. 23.9% fell into the 2-5 years of experience bracket, and 25.5%
@@ -1788,16 +1690,11 @@ Highest Education Level Achieved
 
 .. _h.ibh9srgci3ft:
 
---------------
-
 .. _h.7pf3ad9ycjuh:
 
 .. _h.m4orif6ybf55:
 
-Summary of results
-^^^^^^^^^^^^^^^^^^
-
-2 respondents chose not to answer this question.The majority of
+2 respondents chose not to answer this question. The majority of
 respondents - 93.3% had completed a college or university graduate
 qualification or higher - 54% had a graduate qualification (Certificate,
 Diploma, Associate Degree, or Bachelor's Degree) and 39% had completed a
@@ -1808,9 +1705,9 @@ equivalent numbered 2.2%, and those completing high school only
 formal qualification) accounted for 4% of respondents, and technical
 college 2.2%.
 
-The responses entered for “Other” resulted in a new categorybeing added
-for those that are still currently studying:2 respondents indicated
-thatthey are currentlyworking towards a degree.
+The responses entered for “Other” resulted in a new category being added
+for those that are still currently studying: 2 respondents indicated
+thatthey are currently working towards a degree.
 
 [Figure: Highest Education Level Completed]
 
@@ -1833,14 +1730,9 @@ Geographical Location
    -  State, Province, Territory, or Region                              
    -  City                                                               
 
---------------
-
 .. _h.2p8ogrpmwizb:
 
 .. _h.1ulwyklmb12i:
-
-Summary of results
-^^^^^^^^^^^^^^^^^^
 
 In 2019, 58% of survey respondents who provided a location were based in
 the United States. As the Write the Docs community is international, one
