@@ -40,6 +40,7 @@ Approaches to Creating Docs
    :maxdepth: 2
 
    docs-as-code
+   doc-ops
    Producing documentation inside a Support team <writing/support-team>
    Starting-a-new-doc
 
@@ -56,10 +57,6 @@ Markup Languages
    writing/reStructuredText
    writing/xml
    writing/asciidoc
-
-* reStructuredText
-    * Cheatsheet
-    * Tutorial
 
 Tools of the Trade
 ------------------
