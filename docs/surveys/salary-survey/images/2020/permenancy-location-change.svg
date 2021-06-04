@@ -1,0 +1,77 @@
+<svg width="660" height="630" viewBox="0 0 660 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="permenancy-location-change">
+<g id="Donut chart">
+<path id="Donut_1" d="M329.5 99C378.044 99 424.796 117.341 460.391 150.348C495.986 183.356 517.796 228.593 521.453 277C525.11 325.406 510.343 373.406 480.11 411.387C449.878 449.367 406.412 474.523 358.418 481.815L340.391 363.177C358.467 360.431 374.837 350.956 386.223 336.652C397.61 322.348 403.171 304.27 401.794 286.039C400.417 267.808 392.203 250.77 378.797 238.339C365.391 225.908 347.783 219 329.5 219L329.5 99Z" fill="#1E73BE"/>
+<path id="Donut_2" d="M358.418 481.815C322.202 487.319 285.168 482.374 251.664 467.562C218.16 452.75 189.578 428.686 169.274 398.196C148.971 367.705 137.788 332.055 137.04 295.431C136.292 258.806 146.01 222.729 165.052 191.435L267.565 253.813C260.393 265.599 256.733 279.187 257.015 292.98C257.297 306.774 261.508 320.201 269.155 331.684C276.802 343.167 287.567 352.231 300.185 357.809C312.803 363.388 326.751 365.25 340.391 363.177L358.418 481.815Z" fill="#F35DA3"/>
+<path id="Donut_3" d="M165.052 191.435C182.226 163.211 206.376 139.881 235.177 123.692C263.978 107.504 296.461 99 329.5 99V219C317.057 219 304.823 222.203 293.976 228.3C283.128 234.397 274.033 243.183 267.565 253.813L165.052 191.435Z" fill="#FFA600"/>
+</g>
+<g id="Legend">
+<g id="No">
+<rect id="Rectangle 1" x="382" y="517" width="20" height="20" fill="#1E73BE"/>
+<text id="No or probably no: 47.6%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="412" y="531.582">No or probably no: 47.6%</tspan></text>
+</g>
+<g id="Yes">
+<rect id="Rectangle 1_2" x="382" y="547" width="20" height="20" fill="#F35DA3"/>
+<text id="Yes or probably yes: 36.1%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="412" y="561.582">Yes or probably yes: 36.1%</tspan></text>
+</g>
+<g id="Unsure">
+<rect id="Rectangle 1_3" x="382" y="577" width="20" height="20" fill="#FFA600"/>
+<text id="Unsure: 16.3%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="412" y="591.582">Unsure: 16.3%</tspan></text>
+</g>
+</g>
+<g id="Label: No">
+<g id="Label">
+<g id="Frame 1">
+<circle id="end point" r="4" transform="matrix(-1 0 0 1 596 71)" fill="#1E73BE"/>
+<g id="connector-frame">
+<path id="connector" d="M592 70.5H431V71.5H592V70.5ZM410.5 91V110H411.5V91H410.5ZM431 70.5C419.678 70.5 410.5 79.6782 410.5 91H411.5C411.5 80.2304 420.23 71.5 431 71.5V70.5Z" fill="#1E73BE"/>
+</g>
+</g>
+<circle id="start point" r="8" transform="matrix(-1 0 0 1 411 118)" fill="#1E73BE"/>
+</g>
+<g id="Frame 2">
+<text id="No_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="516.434" y="60.4775">No</tspan></text>
+<g id="47.6%">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="493.636" y="102.071">47.6</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="544.112" y="102.071">%</tspan></text>
+</g>
+</g>
+</g>
+<g id="Label: Unsure">
+<g id="Label_2">
+<g id="Frame 1_2">
+<circle id="end point_2" cx="103" cy="58" r="4" fill="#FFA600"/>
+<g id="connector-frame_2">
+<path id="connector_2" d="M107 57.5H268V58.5H107V57.5ZM288.5 78V97H287.5V78H288.5ZM268 57.5C279.322 57.5 288.5 66.6782 288.5 78H287.5C287.5 67.2304 278.77 58.5 268 58.5V57.5Z" fill="#FFA600"/>
+</g>
+</g>
+<circle id="start point_2" cx="288" cy="105" r="8" fill="#FFA600"/>
+</g>
+<g id="Frame 2_2">
+<text id="Unsure_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="145.01" y="46.4775">Unsure</tspan></text>
+<g id="16.3%">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="143.324" y="88.0708">16.3</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="190.424" y="88.0708">%</tspan></text>
+</g>
+</g>
+</g>
+<g id="Label: Yes">
+<g id="Label_3">
+<g id="Frame 1_3">
+<circle id="end point_3" r="4" transform="matrix(1 0 0 -1 17 482)" fill="#F35DA3"/>
+<g id="connector-frame_3">
+<path id="connector_3" d="M21 482.5H182V481.5H21V482.5ZM202.5 462V443H201.5V462H202.5ZM182 482.5C193.322 482.5 202.5 473.322 202.5 462H201.5C201.5 472.77 192.77 481.5 182 481.5V482.5Z" fill="#F35DA3"/>
+</g>
+</g>
+<circle id="start point_3" r="8" transform="matrix(1 0 0 -1 202 435)" fill="#F35DA3"/>
+</g>
+<g id="Frame 2_3">
+<g id="36.1%">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="55.3242" y="471.071">36.1</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="102.424" y="471.071">%</tspan></text>
+</g>
+<text id="Yes_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="74.1875" y="508.478">Yes</tspan></text>
+</g>
+</g>
+</g>
+</svg>

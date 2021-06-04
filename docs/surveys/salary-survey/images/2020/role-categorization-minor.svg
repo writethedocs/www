@@ -1,0 +1,134 @@
+<svg width="660" height="720" viewBox="0 0 660 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="role-categorization-minor">
+<g id="Donut chart">
+<path id="Donut_1" d="M329.5 121C379.926 121 428.338 140.786 464.329 176.105C500.32 211.424 521.015 259.455 521.966 309.872C522.916 360.288 504.046 409.065 469.412 445.716C434.778 482.366 387.145 503.963 336.755 505.863L332.233 385.948C351.211 385.233 369.15 377.099 382.194 363.295C395.238 349.492 402.345 331.122 401.987 312.133C401.629 293.145 393.835 275.056 380.28 261.754C366.725 248.452 348.492 241 329.5 241L329.5 121Z" fill="#1E73BE"/>
+<path id="Donut_2" d="M336.755 505.863C302.1 507.17 267.735 499.091 237.293 482.48C206.85 465.868 181.461 441.341 163.807 411.49C146.154 381.64 136.892 347.575 137.001 312.895C137.11 278.216 146.585 244.209 164.426 214.47L267.329 276.203C260.61 287.404 257.041 300.211 257 313.272C256.959 326.333 260.447 339.163 267.096 350.406C273.745 361.648 283.307 370.885 294.773 377.142C306.238 383.398 319.181 386.441 332.233 385.948L336.755 505.863Z" fill="#7271C9"/>
+<path id="Donut_3" d="M164.426 214.47C180.264 188.069 202.204 165.852 228.404 149.684L291.425 251.803C281.557 257.892 273.294 266.26 267.329 276.203L164.426 214.47Z" fill="#D761B6"/>
+<path id="Donut_4" d="M228.404 149.684C241.457 141.628 255.426 135.162 270.014 130.422L307.096 244.548C301.602 246.334 296.341 248.769 291.425 251.803L228.404 149.684Z" fill="#FF6478"/>
+<path id="Donut_5" d="M270.014 130.422C279.605 127.305 289.426 124.948 299.386 123.37L318.158 241.893C314.407 242.487 310.708 243.375 307.096 244.548L270.014 130.422Z" fill="#FF8541"/>
+<path id="Donut_6" d="M299.386 123.37C309.347 121.792 319.416 121 329.5 121V241C325.702 241 321.91 241.298 318.158 241.893L299.386 123.37Z" fill="#FFA600"/>
+</g>
+<g id="Legend">
+<g id="Frame 5">
+<g id="Frame 3">
+<g id="1 Manager">
+<rect id="Rectangle 1" x="92" y="592" width="20" height="20" fill="#1E73BE"/>
+<text id="Manager: 49.4%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="122" y="606.582">Manager: 49.4%</tspan></text>
+</g>
+<g id="3 Support">
+<rect id="Rectangle 1_2" x="92" y="623" width="20" height="20" fill="#D761B6"/>
+<text id="Support: 7.6%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="122" y="637.582">Support: 7.6%</tspan></text>
+</g>
+<g id="5 Outreach">
+<rect id="Rectangle 1_3" x="92" y="654" width="20" height="20" fill="#FF8541"/>
+<text id="Advocate / Community &#226;&#128;&#168;Outreach: 2.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="122" y="668.582">Advocate / Community &#x2028;</tspan><tspan x="122" y="686.582">Outreach: 2.5%</tspan></text>
+</g>
+</g>
+<g id="Frame 4">
+<g id="2 Developer">
+<rect id="Rectangle 1_4" x="353" y="592" width="20" height="20" fill="#7271C9"/>
+<text id="Developer/Engineer: 34.2%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="383" y="606.582">Developer/Engineer: 34.2% </tspan></text>
+</g>
+<g id="4 Educator">
+<rect id="Rectangle 1_5" x="353" y="624" width="20" height="20" fill="#FF6478"/>
+<text id="Educator: 3.8%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="383" y="638.582">Educator: 3.8%</tspan></text>
+</g>
+<g id="6 Marketer">
+<rect id="Rectangle 1_6" x="353" y="656" width="20" height="20" fill="#FFA600"/>
+<text id="Marketer: 2.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="383" y="670.582">Marketer: 2.5%</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g id="Label: Manager">
+<g id="Label">
+<g id="Frame 1">
+<circle id="end point" cx="626" cy="515" r="4" transform="rotate(-180 626 515)" fill="#1E73BE"/>
+<g id="connector-frame">
+<path id="connector" d="M622 515.5H461V514.5H622V515.5ZM440.5 495V476H441.5V495H440.5ZM461 515.5C449.678 515.5 440.5 506.322 440.5 495H441.5C441.5 505.77 450.23 514.5 461 514.5V515.5Z" fill="#1E73BE"/>
+</g>
+</g>
+<circle id="start point" cx="441" cy="468" r="8" transform="rotate(-180 441 468)" fill="#1E73BE"/>
+</g>
+<g id="Frame 2">
+<text id="49.4%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="523.306" y="504.071">49.4%</tspan></text>
+<text id="Manager" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="520.203" y="541.478">Manager</tspan></text>
+</g>
+</g>
+<g id="Label: Developer/Engineer">
+<g id="Label_2">
+<g id="Frame 1_2">
+<circle id="end point_2" r="4" transform="matrix(1 0 0 -1 31 514)" fill="#7271C9"/>
+<g id="connector-frame_2">
+<path id="connector_2" d="M35 514.5H196V513.5H35V514.5ZM216.5 494V475H215.5V494H216.5ZM196 514.5C207.322 514.5 216.5 505.322 216.5 494H215.5C215.5 504.77 206.77 513.5 196 513.5V514.5Z" fill="#7271C9"/>
+</g>
+</g>
+<circle id="start point_2" r="8" transform="matrix(1 0 0 -1 216 467)" fill="#7271C9"/>
+</g>
+<g id="Frame 2_2">
+<text id="34.2%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="59.623" y="503.071">34.2%</tspan></text>
+<text id="Developer" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="50.4707" y="540.478">Developer</tspan></text>
+</g>
+</g>
+<g id="Label: Educator">
+<g id="Label_3">
+<g id="Frame 1_3">
+<circle id="end point_3" cx="64" cy="72" r="4" fill="#FF6478"/>
+<g id="connector-frame_3">
+<path id="connector_3" d="M68 71.5H229V72.5H68V71.5ZM249.5 92V161H248.5V92H249.5ZM229 71.5C240.322 71.5 249.5 80.6782 249.5 92H248.5C248.5 81.2304 239.77 72.5 229 72.5V71.5Z" fill="#FF6478"/>
+</g>
+</g>
+<circle id="start point_3" cx="249" cy="141" r="8" fill="#FF6478"/>
+</g>
+<g id="Frame 2_3">
+<text id="Educator" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="81.9434" y="58.4775">Educator</tspan></text>
+<text id="3.8%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="93.4404" y="100.071">3.8%</tspan></text>
+</g>
+</g>
+<g id="Label: Educator_2">
+<g id="Label_4">
+<g id="Frame 1_4">
+<circle id="end point_4" cx="21" cy="162" r="4" fill="#D761B6"/>
+<g id="connector-frame_4">
+<path id="connector_4" d="M24 161.5H167V162.5H24V161.5ZM187.5 182V211H186.5V182H187.5ZM167 161.5C178.322 161.5 187.5 170.678 187.5 182H186.5C186.5 171.23 177.77 162.5 167 162.5V161.5Z" fill="#D761B6"/>
+</g>
+</g>
+<circle id="start point_4" cx="190" cy="184" r="8" fill="#D761B6"/>
+</g>
+<g id="Frame 2_4">
+<text id="Support" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="31.7578" y="149.478">Support</tspan></text>
+<text id="7.6%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="38.9863" y="191.071">7.6%</tspan></text>
+</g>
+</g>
+<g id="Label: Marketer">
+<g id="Label_5">
+<g id="Frame 1_5">
+<circle id="end point_5" r="4" transform="matrix(-1 0 0 1 582 91)" fill="#FFA600"/>
+<g id="connector-frame_5">
+<path id="connector_5" d="M578 90.5H336V91.5H578V90.5ZM315.5 111V130H316.5V111H315.5ZM336 90.5C324.678 90.5 315.5 99.6782 315.5 111H316.5C316.5 100.23 325.23 91.5 336 91.5V90.5Z" fill="#FFA600"/>
+</g>
+</g>
+<circle id="start point_5" r="8" transform="matrix(-1 0 0 1 316 123)" fill="#FFA600"/>
+</g>
+<g id="Frame 2_5">
+<text id="Marketer" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="482.494" y="79.4775">Marketer</tspan></text>
+<text id="2.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="495.278" y="121.071">2.5%</tspan></text>
+</g>
+</g>
+<g id="Label: Outreach">
+<g id="Label_6">
+<g id="Frame 1_6">
+<circle id="end point_6" r="4" transform="matrix(-1 0 0 1 484 30)" fill="#FF8541"/>
+<g id="connector-frame_6">
+<path id="connector_6" d="M480 29.5H304V30.5H480V29.5ZM283.5 50V122H284.5V50H283.5ZM304 29.5C292.678 29.5 283.5 38.6782 283.5 50H284.5C284.5 39.2304 293.23 30.5 304 30.5V29.5Z" fill="#FF8541"/>
+</g>
+</g>
+<circle id="start point_6" r="8" transform="matrix(-1 0 0 1 285 128)" fill="#FF8541"/>
+</g>
+<g id="Frame 2_6">
+<text id="Outreach" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="384.514" y="18.4775">Outreach</tspan></text>
+<text id="2.5%_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="397.278" y="60.0708">2.5%</tspan></text>
+</g>
+</g>
+</g>
+</svg>

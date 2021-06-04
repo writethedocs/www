@@ -1,0 +1,94 @@
+<svg width="660" height="662" viewBox="0 0 660 662" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="gender-identity">
+<g id="Legend">
+<g id="Label 1">
+<rect id="Rectangle 1" x="332" y="595" width="20" height="20" fill="#FFA600"/>
+<text id="Not specified: 2.4%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="362" y="609.582">Not specified: 2.4%</tspan></text>
+</g>
+<g id="Label 2">
+<rect id="Rectangle 1_2" x="332" y="564" width="20" height="20" fill="#FF6478"/>
+<text id="Non-binary/Other: 2.4%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="362" y="578.582">Non-binary/Other: 2.4%</tspan></text>
+</g>
+<g id="Label 3">
+<rect id="Rectangle 1_3" x="123" y="595" width="20" height="20" fill="#C066C0"/>
+<text id="Man: 37.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="153" y="609.582">Man: 37.5%</tspan></text>
+</g>
+<g id="Label 4">
+<rect id="Rectangle 1_4" x="123" y="564" width="20" height="20" fill="#1E73BE"/>
+<text id="Woman: 57.8%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="153" y="578.582">Woman: 57.8%</tspan></text>
+</g>
+</g>
+<g id="Label: 31-40 hours">
+<g id="Label">
+<g id="Frame 1">
+<circle id="end point" cx="626" cy="493" r="4" transform="rotate(-180 626 493)" fill="#1E73BE"/>
+<g id="connector-frame">
+<path id="connector" d="M622 493.5H461V492.5H622V493.5ZM440.5 473V454H441.5V473H440.5ZM461 493.5C449.678 493.5 440.5 484.322 440.5 473H441.5C441.5 483.77 450.23 492.5 461 492.5V493.5Z" fill="#1E73BE"/>
+</g>
+</g>
+<circle id="start point" cx="441" cy="446" r="8" transform="rotate(-180 441 446)" fill="#1E73BE"/>
+</g>
+<g id="Frame 2">
+<g id="57.8%">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="523.725" y="482.071">57.8</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="574.023" y="482.071">%</tspan></text>
+</g>
+<text id="Woman" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="524.598" y="519.478">Woman</tspan></text>
+</g>
+</g>
+<g id="Label: 41-50 hours">
+<g id="Frame 2_2">
+<g id="37.5%">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="44.3086" y="475.071">37.5</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="93.4395" y="475.071">%</tspan></text>
+</g>
+<text id="Man" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="59.2754" y="512.478">Man</tspan></text>
+</g>
+<g id="Label_2">
+<g id="Frame 1_2">
+<circle id="end point_2" r="4" transform="matrix(1 0 0 -1 24 487)" fill="#C066C0"/>
+<g id="connector-frame_2">
+<path id="connector_2" d="M28 487.5H189V486.5H28V487.5ZM209.5 467V448H208.5V467H209.5ZM189 487.5C200.322 487.5 209.5 478.322 209.5 467H208.5C208.5 477.77 199.77 486.5 189 486.5V487.5Z" fill="#C066C0"/>
+</g>
+</g>
+<circle id="start point_2" r="8" transform="matrix(1 0 0 -1 209 440)" fill="#C066C0"/>
+</g>
+</g>
+<g id="Label: Under 30 hours">
+<g id="Label_3">
+<g id="Frame 1_3">
+<circle id="end point_3" cx="101" cy="59" r="4" fill="#FF6478"/>
+<g id="connector-frame_3">
+<path id="connector_3" d="M105 58.5H266V59.5H105V58.5ZM286.5 79V98H285.5V79H286.5ZM266 58.5C277.322 58.5 286.5 67.6782 286.5 79H285.5C285.5 68.2304 276.77 59.5 266 59.5V58.5Z" fill="#FF6478"/>
+</g>
+</g>
+<circle id="start point_3" cx="286" cy="106" r="8" fill="#FF6478"/>
+</g>
+<g id="Frame 2_3">
+<text id="Non-binary/Other" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="93.9375" y="47.4775">Non-binary/Other</tspan></text>
+<text id="2.4%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="146.796" y="89.0708">2.4%</tspan></text>
+</g>
+</g>
+<g id="Label: Over 50 hours">
+<g id="Label_4">
+<g id="Frame 1_4">
+<circle id="end point_4" r="4" transform="matrix(-1 0 0 1 499 54)" fill="#FFA600"/>
+<g id="connector-frame_4">
+<path id="connector_4" d="M495 53.5H334V54.5H495V53.5ZM313.5 74V93H314.5V74H313.5ZM334 53.5C322.678 53.5 313.5 62.6782 313.5 74H314.5C314.5 63.2304 323.23 54.5 334 54.5V53.5Z" fill="#FFA600"/>
+</g>
+</g>
+<circle id="start point_4" r="8" transform="matrix(-1 0 0 1 314 101)" fill="#FFA600"/>
+</g>
+<g id="Frame 2_4">
+<text id="Not specifed" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="363.393" y="44.4775">Not specifed</tspan></text>
+<text id="2.4%_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="389.796" y="86.0708">2.4%</tspan></text>
+</g>
+</g>
+<g id="Donut chart">
+<path id="Donut_1" d="M329.5 99C358.725 99 387.567 105.654 413.838 118.459C440.109 131.263 463.12 149.881 481.126 172.901C499.132 195.92 511.66 222.738 517.76 251.319C523.86 279.901 523.372 309.496 516.334 337.861C509.295 366.227 495.89 392.617 477.136 415.031C458.382 437.445 434.77 455.294 408.091 467.226C381.412 479.158 352.367 484.858 323.158 483.895C293.948 482.933 265.341 475.332 239.506 461.669L295.606 355.59C305.336 360.735 316.11 363.598 327.111 363.961C338.112 364.323 349.051 362.176 359.099 357.683C369.147 353.189 378.04 346.466 385.103 338.025C392.167 329.583 397.215 319.644 399.866 308.961C402.517 298.278 402.701 287.132 400.403 276.367C398.106 265.603 393.387 255.502 386.606 246.833C379.824 238.163 371.158 231.151 361.264 226.329C351.369 221.506 340.507 219 329.5 219L329.5 99Z" fill="#1E73BE"/>
+<path id="Donut_2" d="M239.506 461.669C205.884 443.888 178.283 416.545 160.186 383.092C142.089 349.639 134.308 311.574 137.824 273.703C141.341 235.832 155.997 199.85 179.944 170.301C203.89 140.752 236.054 118.958 272.375 107.671L307.985 222.266C294.306 226.517 282.192 234.725 273.174 245.854C264.155 256.983 258.635 270.534 257.311 284.797C255.986 299.06 258.917 313.396 265.732 325.996C272.548 338.595 282.943 348.893 295.606 355.59L239.506 461.669Z" fill="#C066C0"/>
+<path id="Donut_3" d="M272.375 107.671C281.61 104.801 291.049 102.632 300.61 101.18L318.619 219.821C315.018 220.368 311.464 221.185 307.985 222.266L272.375 107.671Z" fill="#FF6478"/>
+<path id="Donut_4" d="M300.61 101.18C310.172 99.7288 319.829 99 329.5 99V219C325.858 219 322.221 219.274 318.619 219.821L300.61 101.18Z" fill="#FFA600"/>
+</g>
+</g>
+</svg>

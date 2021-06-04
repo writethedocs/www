@@ -1,0 +1,54 @@
+<svg width="660" height="630" viewBox="0 0 660 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="basis-of-employment">
+<g id="Donut chart">
+<path id="Donut_1" d="M329.5 99C376.897 99 422.627 116.486 457.933 148.108C493.238 179.73 515.636 223.266 520.837 270.376C526.039 317.487 513.677 364.86 486.12 403.422C458.563 441.984 417.748 469.025 371.493 479.364C325.237 489.703 276.794 482.614 235.44 459.455C194.087 436.297 162.731 398.695 147.379 353.854C132.026 309.013 133.756 260.084 152.237 216.439C170.718 172.794 204.652 137.501 247.537 117.321L296.715 221.828C279.561 229.901 265.987 244.018 258.595 261.476C251.202 278.934 250.51 298.505 256.651 316.442C262.792 334.378 275.335 349.419 291.876 358.682C308.418 367.946 327.795 370.781 346.297 366.646C364.799 362.51 381.125 351.694 392.148 336.269C403.171 320.844 408.115 301.895 406.035 283.05C403.955 264.206 394.995 246.792 380.873 234.143C366.751 221.494 348.459 214.5 329.5 214.5L329.5 99Z" fill="#1E73BE"/>
+<path id="Donut_2" d="M247.537 117.321C273.177 105.256 301.164 99 329.5 99V214.5C318.165 214.5 306.971 217.002 296.715 221.828L247.537 117.321Z" fill="#FFA600"/>
+</g>
+<g id="Legend">
+<g id="Label 4">
+<rect id="Rectangle 1" x="30" y="520" width="20" height="20" fill="#1E73BE"/>
+<text id="Employees: 93%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="60" y="534.582">Employees: 93%</tspan></text>
+</g>
+<g id="Label 3">
+<rect id="Rectangle 1_2" x="30" y="556" width="20" height="20" fill="#FFA600"/>
+<text id="Independent contractors, freelancers and self-employed: 7%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="60" y="570.582">Independent contractors, freelancers&#10;</tspan><tspan x="60" y="588.582">and self-employed: 7%</tspan></text>
+</g>
+</g>
+<g id="Label: Employee">
+<g id="Label">
+<g id="Frame 1">
+<circle id="end point" cx="566" cy="524" r="4" transform="rotate(-180 566 524)" fill="#1E73BE"/>
+<g id="connector-frame">
+<path id="connector" d="M562 524.5H401V523.5H562V524.5ZM380.5 504V485H381.5V504H380.5ZM401 524.5C389.678 524.5 380.5 515.322 380.5 504H381.5C381.5 514.77 390.23 523.5 401 523.5V524.5Z" fill="#1E73BE"/>
+</g>
+</g>
+<circle id="start point" cx="381" cy="477" r="8" transform="rotate(-180 381 477)" fill="#1E73BE"/>
+</g>
+<g id="Frame 2">
+<g id="93%">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="503.41" y="513.071">%</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="474.338" y="513.071">93</tspan></text>
+</g>
+<text id="Employees" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="451.277" y="550.478">Employees</tspan></text>
+</g>
+</g>
+<g id="Label: Independent">
+<g id="Label_2">
+<g id="Frame 1_2">
+<circle id="end point_2" cx="103" cy="58" r="4" fill="#FFA600"/>
+<g id="connector-frame_2">
+<path id="connector_2" d="M107 57.5H268V58.5H107V57.5ZM288.5 78V97H287.5V78H288.5ZM268 57.5C279.322 57.5 288.5 66.6782 288.5 78H287.5C287.5 67.2304 278.77 58.5 268 58.5V57.5Z" fill="#FFA600"/>
+</g>
+</g>
+<circle id="start point_2" cx="288" cy="105" r="8" fill="#FFA600"/>
+</g>
+<g id="Frame 2_2">
+<text id="Independents" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="116.396" y="46.4775">Independents</tspan></text>
+<g id="7%">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="173.895" y="88.0708">%</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="159.854" y="88.0708">7</tspan></text>
+</g>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,51 @@
+<svg width="660" height="631" viewBox="0 0 660 631" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="full-time-vs-part-time">
+<g id="Donut chart">
+<path id="Donut_1" d="M329.5 99C378.201 99 425.091 117.459 460.723 150.657C496.355 183.855 518.08 229.325 521.519 277.904C524.959 326.483 509.858 374.561 479.259 412.448C448.66 450.336 404.838 475.218 356.624 482.08C308.409 488.942 259.385 477.274 219.431 449.427C179.477 421.581 151.562 379.626 141.312 332.016C131.062 284.406 139.238 234.681 164.193 192.86C189.148 151.039 229.027 120.231 275.794 106.643L309.273 221.879C291.66 226.996 276.64 238.599 267.242 254.35C257.843 270.101 254.764 288.828 258.624 306.759C262.484 324.69 272.998 340.491 288.045 350.979C303.093 361.467 321.557 365.861 339.715 363.277C357.874 360.692 374.379 351.321 385.903 337.052C397.427 322.783 403.114 304.676 401.819 286.38C400.524 268.084 392.342 250.959 378.922 238.455C365.502 225.952 347.842 219 329.5 219L329.5 99Z" fill="#1E73BE"/>
+<path id="Donut_2" d="M275.794 106.643C293.246 101.573 311.327 99 329.5 99V219C322.656 219 315.846 219.969 309.273 221.879L275.794 106.643Z" fill="#FFA600"/>
+</g>
+<g id="Legend">
+<g id="Label 2">
+<rect id="Rectangle 1" x="165" y="573" width="20" height="20" fill="#FFA600"/>
+<text id="Part-time (up to 30 hours per week): 4.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="195" y="587.582">Part-time (up to 30 hours per week): 4.5%</tspan></text>
+</g>
+<g id="Label 4">
+<rect id="Rectangle 1_2" x="165" y="542" width="20" height="20" fill="#1E73BE"/>
+<text id="Full-time (over 30 hours per week): 95.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="195" y="556.582">Full-time (over 30 hours per week): 95.5%</tspan></text>
+</g>
+</g>
+<g id="Label: 31-40 hours">
+<g id="Label">
+<g id="Frame 1">
+<circle id="end point" cx="626" cy="493" r="4" transform="rotate(-180 626 493)" fill="#1E73BE"/>
+<g id="connector-frame">
+<path id="connector" d="M622 493.5H461V492.5H622V493.5ZM440.5 473V454H441.5V473H440.5ZM461 493.5C449.678 493.5 440.5 484.322 440.5 473H441.5C441.5 483.77 450.23 492.5 461 492.5V493.5Z" fill="#1E73BE"/>
+</g>
+</g>
+<circle id="start point" cx="441" cy="446" r="8" transform="rotate(-180 441 446)" fill="#1E73BE"/>
+</g>
+<g id="Frame 2">
+<g id="95.5%">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="524.271" y="482.071">95.5</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="573.478" y="482.071">%</tspan></text>
+</g>
+<text id="Full-time" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="518.26" y="519.478">Full-time</tspan></text>
+</g>
+</g>
+<g id="Label: Under 30 hours">
+<g id="Label_2">
+<g id="Frame 1_2">
+<circle id="end point_2" cx="116" cy="55" r="4" fill="#FFA600"/>
+<g id="connector-frame_2">
+<path id="connector_2" d="M120 54.5H281V55.5H120V54.5ZM301.5 75V94H300.5V75H301.5ZM281 54.5C292.322 54.5 301.5 63.6782 301.5 75H300.5C300.5 64.2304 291.77 55.5 281 55.5V54.5Z" fill="#FFA600"/>
+</g>
+</g>
+<circle id="start point_2" cx="301" cy="102" r="8" fill="#FFA600"/>
+</g>
+<g id="Frame 2_2">
+<text id="Part-time" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="148.029" y="43.4775">Part-time</tspan></text>
+<text id="4.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="162.151" y="85.0708">4.5%</tspan></text>
+</g>
+</g>
+</g>
+</svg>

@@ -1,0 +1,76 @@
+<svg width="660" height="630" viewBox="0 0 660 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="salary-satisfaction-employees">
+<g id="Legend">
+<g id="Positive">
+<rect id="Rectangle 1" x="143" y="510" width="20" height="20" fill="#1E73BE"/>
+<text id="Satisfied (40.2%) or Very Satisfied (31.9%) : 72.1%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="173" y="524.582">Satisfied (40.2%) or Very Satisfied (31.9%) : 72.1%</tspan></text>
+</g>
+<g id="Neutral">
+<rect id="Rectangle 1_2" x="143" y="540" width="20" height="20" fill="#F35DA3"/>
+<text id="Neutral: 17.2%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="173" y="554.582">Neutral: 17.2%</tspan></text>
+</g>
+<g id="Negative">
+<rect id="Rectangle 1_3" x="143" y="570" width="20" height="20" fill="#FFA600"/>
+<text id="Unsatisfied (8.8%) or Very Unsatisfied (1.9%) : 10.7%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="173" y="584.582">Unsatisfied (8.8%) or Very Unsatisfied (1.9%) : 10.7%</tspan></text>
+</g>
+</g>
+<g id="Labels">
+<g id="Positive_2">
+<g id="Label">
+<g id="Frame 1">
+<circle id="end point" r="4" transform="matrix(-1 0 0 1 603.559 74)" fill="#1E73BE"/>
+<g id="connector-frame">
+<path id="connector" d="M599.559 73.5H438.559V74.5H599.559V73.5ZM418.059 94V113H419.059V94H418.059ZM438.559 73.5C427.237 73.5 418.059 82.6782 418.059 94H419.059C419.059 83.2304 427.789 74.5 438.559 74.5V73.5Z" fill="#1E73BE"/>
+</g>
+</g>
+<circle id="start point" r="8" transform="matrix(-1 0 0 1 418.559 121)" fill="#1E73BE"/>
+</g>
+<g id="Frame 2">
+<text id="Satisfied" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="495.213" y="63.4775">Satisfied</tspan></text>
+<g id="72.1%">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="499.454" y="105.071">72.1</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="545.97" y="105.071">%</tspan></text>
+</g>
+</g>
+</g>
+<g id="Negative_2">
+<g id="Label_2">
+<g id="Frame 1_2">
+<circle id="end point_2" cx="97.1765" cy="65" r="4" fill="#FFA600"/>
+<g id="connector-frame_2">
+<path id="connector_2" d="M101.176 64.5H262.176V65.5H101.176V64.5ZM282.676 85V104H281.676V85H282.676ZM262.176 64.5C273.498 64.5 282.676 73.6782 282.676 85H281.676C281.676 74.2304 272.946 65.5 262.176 65.5V64.5Z" fill="#FFA600"/>
+</g>
+</g>
+<circle id="start point_2" cx="282.176" cy="112" r="8" fill="#FFA600"/>
+</g>
+<g id="Frame 2_2">
+<text id="Unsatisfied" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="119.055" y="53.4775">Unsatisfied</tspan></text>
+<g id="10.7%">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="135.128" y="95.0708">10.7</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="182.355" y="95.0708">%</tspan></text>
+</g>
+</g>
+</g>
+<g id="Neutral_2">
+<g id="Label_3">
+<g id="Frame 1_3">
+<circle id="end point_3" cx="35" cy="152" r="4" fill="#F35DA3"/>
+</g>
+</g>
+<ellipse id="start point_3" cx="185.382" cy="187" rx="7.76471" ry="8" fill="#F35DA3"/>
+<g id="connector-frame_3">
+<path id="connector_3" d="M36.8824 150.5H169.882V151.5H36.8824V150.5ZM190.382 171V190H189.382V171H190.382ZM169.882 150.5C181.204 150.5 190.382 159.678 190.382 171H189.382C189.382 160.23 180.652 151.5 169.882 151.5V150.5Z" fill="#F35DA3"/>
+</g>
+<g id="Frame 2_3">
+<text id="Neutral_3" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="63.8234" y="141.478">Neutral</tspan></text>
+<text id="17.2%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="63.6603" y="183.071">17.2%</tspan></text>
+</g>
+</g>
+</g>
+<g id="Donut chart">
+<path id="Donut_1" d="M339.221 101C374.725 101 409.495 111.423 439.457 131.048C469.42 150.673 493.335 178.688 508.402 211.811C523.468 244.935 529.063 281.795 524.53 318.077C519.997 354.358 505.524 388.557 482.807 416.669C460.09 444.782 430.068 465.643 396.259 476.811C362.449 487.978 326.251 488.989 291.904 479.725C257.556 470.461 226.482 451.305 202.32 424.502C178.158 397.699 161.909 364.357 155.475 328.382L270.018 306.637C272.441 320.186 278.561 332.744 287.661 342.838C296.761 352.933 308.464 360.147 321.4 363.637C334.336 367.126 347.969 366.745 360.702 362.539C373.436 358.333 384.743 350.476 393.299 339.889C401.854 329.301 407.305 316.42 409.012 302.756C410.72 289.092 408.613 275.209 402.938 262.734C397.264 250.259 388.257 239.708 376.972 232.317C365.688 224.925 352.592 221 339.221 221L339.221 101Z" fill="#1E73BE"/>
+<path id="Donut_2" d="M155.475 328.382C149.34 294.074 152.368 258.694 164.237 226.022C176.106 193.35 196.369 164.616 222.86 142.89L295.396 236.777C285.419 244.959 277.788 255.781 273.318 268.086C268.848 280.391 267.707 293.716 270.018 306.637L155.475 328.382Z" fill="#F35DA3"/>
+<path id="Donut_3" d="M222.86 142.89C255.931 115.767 296.951 101 339.221 101L339.221 221C323.301 221 307.852 226.562 295.396 236.777L222.86 142.89Z" fill="#FFA600"/>
+</g>
+</g>
+</svg>
