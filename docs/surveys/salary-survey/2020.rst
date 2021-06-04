@@ -544,7 +544,7 @@ permanently or temporarily, due to COVID-19.
 .. _h.g00o8i93w80k:
 
 Work Location Changes due to COVID-19
-'''''''''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Note: a small number of respondents answered “yes” to the question of
 whether their work location had changed due to COVID-19, but then
@@ -1306,7 +1306,7 @@ To be included in a later release
 .. _h.icsaw01cvshe:
 
 Section 4: Organization Demographics
------------------------------------
+------------------------------------
 
 Some issues with clarity of questions in this section in the 2019 survey
 meant that much of the data was not particularly useful. For 2020, we
@@ -1549,7 +1549,7 @@ less than 2% of the total.
 .. _h.iq745xeinf7k:
 
 Section 5: Respondent Demographics
----------------------------------
+----------------------------------
 
 .. _h.sljt9ro3aswr:
 
