@@ -41,7 +41,7 @@ with your ideas.
 
 .. _h.aej71e9f3u7u:
 
-Section 1:Employment Parameters
+Section 1: Employment Parameters
 -------------------------------
 
 In this section, we asked about the parameters of the respondent’s
@@ -280,12 +280,17 @@ entered a different categorization: these included information
 architecture, analysis, content strategy, knowledge management and
 product management.
 
-[Figure: Role Categorization - Major Grouping]
+.. figure:: images/2020/role-categorization-major.svg
+   :alt: Figure: Role Categorization - Major Grouping
 
-[Figure: Role Categorization - Minor Grouping (excluding “Writer /
-Creator / Editor”)]
+   Figure: Role Categorization - Major Grouping
 
-Respondents werefurtherasked to indicate if they worked primarily solo,
+.. figure:: images/2020/role-categorization-minor.svg
+   :alt: Figure: Role Categorization - Minor Grouping (excluding writer/creator/editor)
+
+   Figure: Role Categorization - Minor Grouping (excluding writer/creator/editor)
+
+Respondents were further asked to indicate if they worked primarily solo,
 as part of a team (either a team made up of people doing the same kind
 of job, or a multi-disciplinary team), as part of multiple teams, or as
 a manager or team leader.
@@ -300,7 +305,10 @@ a manager or team leader.
 were special cases but essentially each worked as part of a team or
 multiple teams, while the final case indicated a solo role.    
 
-[Figure: Team Breakdown]
+.. figure:: images/2020/team-breakdown.svg
+   :alt: Figure: Team Breakdown
+
+   Figure: Team Breakdown
 
 --------------
 
@@ -358,7 +366,10 @@ than 10 years,
    had clocked up either 20 or 21 years, and
 -  single respondents each reported 23 years, 27 years, and 28 years.  
 
-[Figure: Years in Current Role]
+.. figure:: images/2020/years-in-current-role.svg
+   :alt: Figure: Years in Current Role
+
+   Figure: Years in Current Role
 
 --------------
 
@@ -398,7 +409,10 @@ perform documentation-related tasks, they did anyway.
 These overall proportions remain essentially unchanged from 2019’s
 results.
 
-[Figure: Official role breakdown]
+.. figure:: images/2020/official-role-breakdown.svg
+   :alt: Figure: Official Role Breakdown
+
+   Figure: Official Role Breakdown
 
 --------------
 
@@ -544,7 +558,7 @@ permanently or temporarily, due to COVID-19.
 .. _h.g00o8i93w80k:
 
 Work Location Changes due to COVID-19
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+'''''''''''''''''''''''''''''''''''''
 
 Note: a small number of respondents answered “yes” to the question of
 whether their work location had changed due to COVID-19, but then
@@ -1306,7 +1320,7 @@ To be included in a later release
 .. _h.icsaw01cvshe:
 
 Section 4: Organization Demographics
-------------------------------------
+-----------------------------------
 
 Some issues with clarity of questions in this section in the 2019 survey
 meant that much of the data was not particularly useful. For 2020, we
@@ -1549,7 +1563,7 @@ less than 2% of the total.
 .. _h.iq745xeinf7k:
 
 Section 5: Respondent Demographics
-----------------------------------
+---------------------------------
 
 .. _h.sljt9ro3aswr:
 
