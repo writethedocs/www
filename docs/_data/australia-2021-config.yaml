@@ -17,8 +17,8 @@ photos:
 
 buttons:
   top:
-    - text: Welcome to our conference
-      link: /news/welcome
+#    - text: Welcome to our conference
+#      link: /news/welcome
 #    - text: Date and ticket information
 #      link: /news/announcing-virtual-conf-dates-tickets
     # - text: Read our conference guide
