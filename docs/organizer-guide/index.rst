@@ -116,9 +116,13 @@ Convert from Google Doc to ReStructuredText:
 
    use something like the script in `docs/_scripts/fix_gdocs2rst.py` to clean it up.
 
+   (and possibly do a search and replace to add the `rubric` back to the 2020 doc and a few other tweaks)
+
 4. Add images to `docs/surveys/salary-survey/images`, and include them manually.
 
-5. Triple check output. 😈
+5. Add custom CSS to `_static/css/survey.css`.
+
+6. Triple check output. 😈
 
 Credits
 -------
