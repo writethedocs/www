@@ -1,3 +1,7 @@
+.. raw:: html
+
+   <div class="survey-results">
+
 .. _h.6rwfhxx07ix:
 
 Write the Docs Salary Survey 2020 Results
@@ -1875,3 +1879,7 @@ South and Central America                     17
                           Brazil              14
 Africa                                        3
 ========================= ========= ========= ==================
+
+.. raw:: html
+
+   </div>

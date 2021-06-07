@@ -1,3 +1,6 @@
+.. raw:: html
+
+   <div class="survey-results">
 
 *****************************************
 Write the Docs Salary Survey 2019 Results
@@ -740,3 +743,7 @@ There was one respondent only from each of the following countries:
    :alt: Figure: Geographical Location
 
    Figure: Geographical Location
+
+.. raw:: html
+
+   </div>
