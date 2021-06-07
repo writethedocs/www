@@ -446,7 +446,10 @@ Proportion of role actually related to documentation
    largest slice - 57.8% - focusing on documentation between three
    quarters and the whole of their work time.
 
-[Figure: Actual Role breakdown]
+.. figure:: images/2020/actual-role-breakdown.svg
+   :alt: Figure: Actual Role Breakdown
+
+   Figure: Actual Role Breakdown
 
 --------------
 
@@ -602,9 +605,12 @@ Opinions on the permanency of the changes were quite evenly spread -
 however those who predicted “no” (25.4%) or “probably no” (22.2%) - a
 combined 47.6% - outweighed those that predicted “yes” (13.2%) or
 “probably yes” (22.9%) - a combined 36.1%.
+ 
+ .. figure:: images/2020/permenancy-location-change.svg
+   :alt: Figure: Permanency of Work Location Changes
 
- [Figure: Permanency of Work Location Changes]
-
+   Figure: Permanency of Work Location Changes
+ 
 While other aspects of living through a pandemic might be challenging, a
 large proportion of respondents reported finding a silver lining in work
 location changes. More than 60% of respondents reported feeling
@@ -612,7 +618,10 @@ location changes. More than 60% of respondents reported feeling
 felt “neutral”, and only 12.09% reported feeling “negative” (11.47%) or
 “very negative” (0.62%, or 4 individuals).
 
-[Figure: Feelings About Work Location Change]
+.. figure:: images/2020/feelings-location-change.svg
+   :alt: Figure: Feelings About Work Location Change
+
+   Figure: Feelings About Work Location Change
 
 --------------
 
@@ -629,7 +638,10 @@ remote by choice, and 6.3% were partially onsite and partially remote.
 Only 10% (16 individuals) worked onsite, either by choice (5%) or
 necessity (5%).
 
-[Figure: Work Location (unchanged since COVID-19)]
+.. figure:: images/2020/work-location-unchanged.svg
+   :alt: Figure: Work Location (unchanged since COVID-19)
+
+   Figure: Work Location (unchanged since COVID-19)
 
 --------------
 
@@ -646,8 +658,12 @@ positive” and the other half were split between “positive” and
 partially onsite” segment - reported feeling “negative” about their work
 location, and no one reported feeling “very negative”.
 
-[Figure: Feelings about Work Location
-(where work location is unchanged since COVID-19)]
+.. figure:: images/2020/feelings-location-unchanged.svg
+   :alt: Figure: Feelings about Work Location
+(where work location is unchanged since COVID-19)
+
+   Figure: Feelings about Work Location
+(where work location is unchanged since COVID-19)
 
 .. _h.ynoi7l698d10:
 
@@ -660,14 +676,20 @@ of the whole community, both before the pandemic started and in the
 latter half of 2020.
 
 What comes out is - again, unsurprisingly - a complete reversal: prior
-to the pandemic, more than half of respondents (58.26) worked in
+to the pandemic, more than half of respondents (58.26%) worked in
 offices, but since COVID-19 that number has shrunk to only 3.6%. Remote
 workers made up 20.62% of the pre-COVID-19 workforce; whereas the
 pandemic has moved 87.7% of workers to remote.
 
-[Figure: Pre-COVID-19 Work Location - Overall]
+.. figure:: images/2020/overall-work-location-precovid.svg
+   :alt: Figure: Pre-COVID-19 Work Location - Overall
 
-[Figure: Post-COVID-19 Work Location - Overall]
+   Figure: Pre-COVID-19 Work Location - Overall
+   
+.. figure:: images/2020/overall-work-location-post-covid.svg
+   :alt: Figure: Post-COVID-19 Work Location - Overall
+
+   Figure: Post-COVID-19 Work Location - Overall
 
 --------------
 
@@ -1087,6 +1109,11 @@ feelings made up 17.2% of employees, with those that were unsatisfied
 
 [Figure: Salary Satisfaction (Employees)]
 
+.. figure:: images/2020/salary-satisfaction-employees.svg
+   :alt: Figure: Salary Satisfaction (Employees)
+
+   Figure:Salary Satisfaction (Employees)
+
 --------------
 
 .. _h.m1e5r8v9zp8:
@@ -1179,7 +1206,10 @@ satisfied” (29.6%) with their job overall. 16.53% indicated “neutral”
 feelings, with less than 10% indicating they were “unsatisfied” (6.27%)
 or “very unsatisfied” (1.87%, or 14 individuals).
 
-[Figure: Overall Job Satisfaction (Employees)]
+.. figure:: images/2020/job-satisfaction-employees.svg
+   :alt: Figure: Overall Job Satisfaction (Employees)
+
+   Figure: Overall Job Satisfaction (Employees)
 
 --------------
 
@@ -1365,7 +1395,10 @@ employees.10,000-100,000 employee operations employed 12.4% of
 respondents, and the largest bracket, over 100,000 employees, accounted
 for the final 9.4%.
 
-[Figure: Organization Size]
+.. figure:: images/2020/organization-size.svg
+   :alt: Figure: Organization Size
+
+   Figure: Organization Size
 
 --------------
 
@@ -1598,7 +1631,10 @@ this group in 2019).
 
 2 respondents chose not to answer this question.
 
-[Figure: Age Group of Respondents]
+.. figure:: images/2020/age-group.svg
+   :alt: Figure: Age Group of Respondents
+
+   Figure: Age Group of Respondents
 
 --------------
 
@@ -1631,6 +1667,11 @@ respondents (2.4% of the total) chose not to answer.
 
 [Figure: Gender Identity]
 
+.. figure:: images/2020/gender-identity.svg
+   :alt: Figure: Gender Identity
+   
+   Figure: Gender Identity
+   
 --------------
 
 .. _h.rj96u3l6zhc0:
@@ -1674,7 +1715,10 @@ years (1 respondent).
 
 3 respondents chose not to answer this question.
 
-[Figure: Years of Experience in Documentation]
+.. figure:: images/2020/years-experience.svg
+   :alt: Figure: Years of Experience in Documentation
+
+   Figure: Years of Experience in Documentation
 
 --------------
 
@@ -1721,9 +1765,12 @@ college 2.2%.
 
 The responses entered for “Other” resulted in a new category being added
 for those that are still currently studying: 2 respondents indicated
-thatthey are currently working towards a degree.
+that they are currently working towards a degree.
 
-[Figure: Highest Education Level Completed]
+.. figure:: images/2020/highest-education-level.svg
+   :alt: Figure: Highest Education Level Completed
+
+   Figure: Highest Education Level Completed
 
 --------------
 
