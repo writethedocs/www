@@ -218,7 +218,10 @@ Content Developer            1.48%
 Information Architect        1.48%
 ============================ ==========
 
-[Figure: Job Title Terms]
+.. figure:: images/2020/job-title-terms.png
+   :alt: Figure: Job Title Terms
+
+   Figure: Job Title Terms
 
 --------------
 
