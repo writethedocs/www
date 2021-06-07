@@ -659,11 +659,9 @@ partially onsite” segment - reported feeling “negative” about their work
 location, and no one reported feeling “very negative”.
 
 .. figure:: images/2020/feelings-location-unchanged.svg
-   :alt: Figure: Feelings about Work Location
-(where work location is unchanged since COVID-19)
+   :alt: Figure: Feelings about Work Location (where work location is unchanged since COVID-19)
 
-   Figure: Feelings about Work Location
-(where work location is unchanged since COVID-19)
+   Figure: Feelings about Work Location (where work location is unchanged since COVID-19)
 
 .. _h.ynoi7l698d10:
 
