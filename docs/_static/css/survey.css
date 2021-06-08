@@ -1,15 +1,10 @@
 @media screen{
-  #write-the-docs-salary-survey-2019-results hr,
-  #write-the-docs-salary-survey-2020-results hr{margin-top:40px}
-  
-  #write-the-docs-salary-survey-2019-results table caption,
-  #write-the-docs-salary-survey-2020-results table caption{padding:0.5em}
-
-  #write-the-docs-salary-survey-2019-results div.figure,
-  #write-the-docs-salary-survey-2020-results div.figure{margin-top:1em}
-  
-  #write-the-docs-salary-survey-2019-results div.figure p.caption,
-  #write-the-docs-salary-survey-2020-results div.figure p.caption{text-align:center;font-size:110%}
+  .survey-results hr{margin-top:40px}
+  .survey-results table caption{padding:0.5em}
+  .survey-results div.figure{margin-top:1em}
+  .survey-results div.figure p.caption{text-align:center;font-size:110%;margin-top:0.5em}
+  .survey-results .question.docutils.container{margin:30px 0;padding:20px;background-color:#F6F6F6}
+  .survey-results .question.docutils.container p.rubric{margin-top:0;font-weight:normal;font-style:italic}
   
   #write-the-docs-salary-survey-2019-results table#id6 thead tr th:nth-child(2),
   #write-the-docs-salary-survey-2019-results table#id6 tbody tr td:nth-child(2),
@@ -57,8 +52,5 @@
 
   #write-the-docs-salary-survey-2019-results #geographical-location ul.simple li{float:left;width:33%}
   #write-the-docs-salary-survey-2019-results #geographical-location ul.simple{overflow:auto}
-
-  #write-the-docs-salary-survey-2020-results div.question.docutils.container{margin:30px 0;padding:20px;background-color:#F6F6F6}
-  #write-the-docs-salary-survey-2020-results div.question.docutils.container p.rubric{margin-top:0;font-weight:normal;font-style:italic}
 
 }
