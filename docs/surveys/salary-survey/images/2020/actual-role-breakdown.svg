@@ -12,23 +12,11 @@
 <text id="25-50%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="249.324" y="389.582">25-50%</tspan></text>
 <text id="50-75%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="382.449" y="389.582">50-75%</tspan></text>
 <text id="75-100%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="511.621" y="389.582">75-100%</tspan></text>
-<text id="0%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="45.5938" y="374.582">0%</tspan></text>
-<text id="10%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="38.8125" y="314.582">10%</tspan></text>
-<text id="20%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="36.7031" y="254.582">20%</tspan></text>
-<text id="30%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="36.7656" y="194.582">30%</tspan></text>
-<text id="40%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="36.5469" y="134.582">40%</tspan></text>
-<text id="50%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="37.1406" y="74.582">50%</tspan></text>
-<text id="60%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="36.5312" y="14.582">60%</tspan></text>
-<path id="Grid_v_1" d="M78 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_2" d="M210 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_3" d="M343 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_4" d="M476 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_5" d="M609 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_1_2" d="M78 365H609" stroke="#F0F0F0"/>
-<path id="Grid_v_2_2" d="M78 305H609" stroke="#F0F0F0"/>
-<path id="Grid_v_3_2" d="M78 245H609" stroke="#F0F0F0"/>
-<path id="Grid_v_4_2" d="M78 185H609" stroke="#F0F0F0"/>
-<path id="Grid_v_5_2" d="M78 125H609" stroke="#F0F0F0"/>
+<path id="Grid_v_1" d="M78 365H609" stroke="#F0F0F0"/>
+<path id="Grid_v_2" d="M78 305H609" stroke="#F0F0F0"/>
+<path id="Grid_v_3" d="M78 245H609" stroke="#F0F0F0"/>
+<path id="Grid_v_4" d="M78 185H609" stroke="#F0F0F0"/>
+<path id="Grid_v_5" d="M78 125H609" stroke="#F0F0F0"/>
 <path id="Grid_v_6" d="M78 65H609" stroke="#F0F0F0"/>
 <path id="Grid_v_7" d="M78 5H609" stroke="#F0F0F0"/>
 <path id="Bar_1_1" d="M104 332V365H184V332H104Z" fill="#1E73BE"/>
@@ -36,5 +24,9 @@
 <path id="Bar_1_3" d="M370 197V365H449V197H370Z" fill="#1E73BE"/>
 <path id="Bar_1_4" d="M503 17V365H582V17H503Z" fill="#1E73BE"/>
 </g>
+<text id="57.8%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="516" y="49.4775">57.8%</tspan></text>
+<text id="28.3%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="381.18" y="226.478">28.3%</tspan></text>
+<text id="8.4%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="257.02" y="343.478">8.4%</tspan></text>
+<text id="5.5%_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="125.129" y="321.478">5.5%</tspan></text>
 </g>
 </svg>
