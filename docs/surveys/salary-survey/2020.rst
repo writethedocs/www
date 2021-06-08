@@ -190,7 +190,7 @@ The most common job title entered was “Technical Writer”, making up 33%
 of all respondents - but nearly double that (63% of respondents) entered
 job titles that included that phrase.    
 
-Table: Top Job Titles (including “technical writer”)
+.. table:: Top Job Titles (including “technical writer”)
 
 ============================ ==========
 Job Title                    % of total
@@ -206,7 +206,7 @@ Documentation Manager        0.99%
 Senior Information Developer 0.87%
 ============================ ==========
 
-Table: Top Job Titles (excluding “technical writer”)
+.. table:: Top Job Titles (excluding “technical writer”)
 
 ============================ ==========
 Job Title                    % of total
