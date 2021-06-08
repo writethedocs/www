@@ -859,8 +859,8 @@ Salary - Employees
 Notes
 ^^^^^
 
-As over95% of respondents reporting working between 30 and 80 hours per
-week - a “full time” role - thosereporting fewer than 30 hours have been
+As over 95% of respondents reporting working between 30 and 80 hours per
+week - a “full time” role - those reporting fewer than 30 hours have been
 omitted from the figures in this section.
 
 While the survey specifically requested annual salary, a number of
@@ -884,9 +884,9 @@ and half earned less).
 
 This figure does not take into account the socio-economic situation in
 the countries of the very highest earners (the top 10 salaries were all
-from the United States) and the very lowest (thebottom 10 salaries were
-from Asia andSouth America) - as well as the difference between the
-country of the employee and thecountry of the employer. Figures grouped
+from the United States) and the very lowest (the bottom 10 salaries were
+from Asia and South America) - as well as the difference between the
+country of the employee and the country of the employer. Figures grouped
 into regions make a more useful baseline from which to determine what
 constitutes a “fair” salary.
 
@@ -928,8 +928,8 @@ Table: Median Salary by Region/Country of Employee
 | South       |             | 16          |             | 12,122      |
 | America     |             |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
-| Is          |             | 47          |             | 90,000      |
-| rael        |             |             |             |             |
+| Israel      |             | 47          |             | 90,000      |
+|             |             |             |             |             |
 |             |             |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 | Africa      |             | 3           |             | 28          |
@@ -980,7 +980,6 @@ Table: Median Salary by Region/Country of Employer
 .. _h.9aqux01xcsln:
 
 Note: median figures are not broken out for countries with fewer than 10 responses.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _h.uv7bee10mpdu:
 
@@ -1346,7 +1345,7 @@ themes were:
 Salary - Independent Contractors, Freelancers, and Self-Employed
 ----------------------------------------------------------------
 
-To be included in a later release
+Coming soon
 
 --------------
 
@@ -1396,7 +1395,7 @@ another 7.8%, with the 50-100 employee bracket next at 9.7%.
 
 The next option, 100-1000 employees, had the largest number of responses
 at 35%, and another 24.2% went to organizations made up of 1,000-10,000
-employees.10,000-100,000 employee operations employed 12.4% of
+employees. 10,000-100,000 employee operations employed 12.4% of
 respondents, and the largest bracket, over 100,000 employees, accounted
 for the final 9.4%.
 
@@ -1468,7 +1467,7 @@ Industry
 The notes for this question clarified that respondents who work in IT
 and software should choose the industry that their organization
 services, after some confusion around this question in our 2019 survey.
-While IT andsoftware still accounted for the largest share of responses
+While IT and software still accounted for the largest share of responses
 - 36.3% - the spread of other industries gave a clearer picture of the
 range of organizations employing documentarians in our community.
 
@@ -1483,7 +1482,7 @@ Automotive, Construction and Utilities each accounted for between 10 and
 Real Estate, Agriculture and Legal were selected by under 10 respondents
 each.
 
-The “Other” category was selected by 37 respondents. Inallcases, the
+The “Other” category was selected by 37 respondents. In all cases, the
 entered field could be mapped to one of the categories listed.
 
 [Figure: Top 6 Organization Industries]
@@ -1594,8 +1593,6 @@ after that was “Multi-national or global organization” with 20%.
 the highest share. Each of the other 31 countries listed accounted for
 less than 2% of the total.
 
-[Figure:  Geographical Location (Organization)]
-
 --------------
 
 .. _h.iq745xeinf7k:
@@ -1667,7 +1664,7 @@ Gender Identity
 .. _h.tym545ppyhwj:
 
 57.8% of respondents identified as women, 37.5% as men, and 2.4% as
-non-binary or “other” - a similar breakdown to 2019’s results.19
+non-binary or “other” - a similar breakdown to 2019’s results. 19
 respondents (2.4% of the total) chose not to answer.
 
 [Figure: Gender Identity]
@@ -1715,7 +1712,7 @@ had 5-10 years under their belts.
 The largest group was those with over 10 years of experience, just under
 40% of respondents. Of these, 198 reported between 10 and 20 years, 100
 reported between 20 and 30 years, and 23 reported over 30 years -  7 of
-which were veterans of over 40 years.  The highest reported value was 44
+which were veterans of over 40 years. The highest reported value was 44
 years (1 respondent).
 
 3 respondents chose not to answer this question.
@@ -1757,12 +1754,11 @@ Highest Education Level Achieved
 
 .. _h.m4orif6ybf55:
 
-2 respondents chose not to answer this question. The majority of
-respondents - 93.3% had completed a college or university graduate
+The majority of respondents - 93.3% had completed a college or university graduate
 qualification or higher - 54% had a graduate qualification (Certificate,
 Diploma, Associate Degree, or Bachelor's Degree) and 39% had completed a
 post-graduate qualification (Master's Degree, Post-Graduate Diploma or
-Certificate, or Doctorate).  Those completing technical college or
+Certificate, or Doctorate). Those completing technical college or
 equivalent numbered 2.2%, and those completing high school only
 (including those who did some tertiary education but did not achieve a
 formal qualification) accounted for 4% of respondents, and technical
@@ -1771,6 +1767,8 @@ college 2.2%.
 The responses entered for “Other” resulted in a new category being added
 for those that are still currently studying: 2 respondents indicated
 that they are currently working towards a degree.
+
+2 respondents chose not to answer this question. 
 
 .. figure:: images/2020/highest-education-level.svg
    :alt: Figure: Highest Education Level Completed
@@ -1817,7 +1815,7 @@ Israel, Poland and Ukraine.
 
 No responses were recorded in 2020 from Bulgaria, Greece, Iceland,
 Italy, Malaysia, Nepal, Singapore or Slovakia - all of which were
-represented in 2019.Bangladesh, Belarus, Colombia, Hong Kong, Indonesia,
+represented in 2019. Bangladesh, Belarus, Colombia, Hong Kong, Indonesia,
 Kenya, Mexico, Pakistan, South Africa, South Korea and Switzerland
 appeared as new countries in the result set.
 
