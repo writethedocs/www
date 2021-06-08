@@ -449,9 +449,8 @@ Proportion of role actually related to documentation
 -  5.5% of respondents reported that documentation made up one quarter
    or less of their day to day job.
 -  8.4% estimated the split to be between one quarter and half.
--  28.3% put the number at between half and three quarters, with the
-   largest slice - 57.8% - focusing on documentation between three
-   quarters and the whole of their work time.
+-  28.3% put the number at between half and three quarters.
+-  57.8% reported focusing on documentation between three quarters and the whole of their work time.
 
 .. figure:: images/2020/actual-role-breakdown.svg
    :alt: Figure: Actual Role Breakdown
