@@ -1399,7 +1399,7 @@ for the final 9.4%.
 .. figure:: images/2020/organization-size.svg
    :alt: Figure: Organization Size
 
-   Figure: Organization Size
+   Figure: Organization Size (number of employees)
 
 --------------
 
