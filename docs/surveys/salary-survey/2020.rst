@@ -192,35 +192,55 @@ job titles that included that phrase.    
 
 .. table::  Top Job Titles (including “technical writer”)
 
-   ============================ ==========
-   Job Title                    % of total
-   Technical Writer             33.17%
-   Senior Technical Writer      16.89%
-   Principal Technical Writer   2.11%
-   Lead Technical Writer        1.99%
-   Staff Technical Writer       1.49%
-   Information Developer        1.12%
-   Technical Writer II          0.99%
-   Junior Technical Writer      0.99%
-   Documentation Manager        0.99%
-   Senior Information Developer 0.87%
-   ============================ ==========
+   +------------------------------+------------+
+   | Job Title                    | % of total |
+   +==============================+============+
+   | Technical Writer             |     33.17% |
+   +------------------------------+------------+
+   | Senior Technical Writer      |     16.89% |
+   +------------------------------+------------+
+   | Principal Technical Writer   |      2.11% |
+   +------------------------------+------------+
+   | Lead Technical Writer        |      1.99% |
+   +------------------------------+------------+
+   | Staff Technical Writer       |      1.49% |
+   +------------------------------+------------+
+   | Information Developer        |      1.12% |
+   +------------------------------+------------+
+   | Technical Writer II          |      0.99% |
+   +------------------------------+------------+
+   | Junior Technical Writer      |      0.99% |
+   +------------------------------+------------+
+   | Documentation Manager        |      0.99% |
+   +------------------------------+------------+
+   | Senior Information Developer |      0.87% |
+   +------------------------------+------------+
 
 .. table:: Top Job Titles (excluding “technical writer”)
 
-   ============================ ==========
-   Job Title                    % of total
-   Information Developer        4.43%
-   Documentation Manager        3.94%
-   Senior Information Developer 3.45%
-   Documentation Engineer       2.96%
-   Project Manager              2.46%
-   Senior Content Developer     1.97%
-   Instructional Designer       1.97%
-   Knowledge Manager            1.97%
-   Content Developer            1.48%
-   Information Architect        1.48%
-   ============================ ==========
+   +------------------------------+------------+
+   | Job Title                    | % of total |
+   +==============================+============+
+   | Technical Writer             |     33.17% |
+   +------------------------------+------------+
+   | Senior Technical Writer      |     16.89% |
+   +------------------------------+------------+
+   | Principal Technical Writer   |      2.11% |
+   +------------------------------+------------+
+   | Lead Technical Writer        |      1.99% |
+   +------------------------------+------------+
+   | Staff Technical Writer       |      1.49% |
+   +------------------------------+------------+
+   | Information Developer        |      1.12% |
+   +------------------------------+------------+
+   | Technical Writer II          |      0.99% |
+   +------------------------------+------------+
+   | Junior Technical Writer      |      0.99% |
+   +------------------------------+------------+
+   | Documentation Manager        |      0.99% |
+   +------------------------------+------------+
+   | Senior Information Developer |      0.87% |
+   +------------------------------+------------+
 
 .. figure:: images/2020/job-title-terms.png
    :alt: Figure: Job Title Terms
