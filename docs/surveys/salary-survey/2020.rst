@@ -466,7 +466,7 @@ Proportion of role actually related to documentation
 Section 2: Work Location and COVID-19
 -------------------------------------
 
-In 2019, we included one questionabout work location: whether the
+In 2019, we included one question about work location: whether the
 respondent worked on site, remotely, or a combination of the two; the
 possible responses were arranged to also show if the work location was
 stipulated by the employer or the individual’s own choice.
@@ -508,7 +508,9 @@ Work Location
    -  I was on-site full time, but it was not required                   
    -  I was partially on-site, and partially remote                      
    -  I was fully remote, but it was by choice (i.e. an office location  
-      was available to me)                                               
+      was available to me)  
+   -  I was fully remote, and it was required (i.e. no office location   
+      was available to me)            
                                                                          
    9b. Since COVID-19, what is your work location?                       
                                                                          
@@ -518,9 +520,7 @@ Work Location
    -  I am fully remote, but it is by choice (i.e. an office location is 
       available to me)                                                   
    -  I am fully remote, and it is required (i.e. no office location is  
-      available to me)                                                   
-   -  I was fully remote, and it was required (i.e. no office location   
-      was available to me)                                               
+      available to me)                                                                            
                                                                          
    9c. Do you expect your work location change to be permanent?          
                                                                          
@@ -1110,12 +1110,10 @@ satisfied (31.87%) with their salary and benefits. Those with neutral
 feelings made up 17.2% of employees, with those that were unsatisfied
 (8.8%) or very unsatisfied (1.87%) in the minority.  
 
-[Figure: Salary Satisfaction (Employees)]
-
 .. figure:: images/2020/salary-satisfaction-employees.svg
    :alt: Figure: Salary Satisfaction (Employees)
 
-   Figure:Salary Satisfaction (Employees)
+   Figure: Salary Satisfaction (Employees)
 
 --------------
 
@@ -1483,8 +1481,6 @@ each.
 
 The “Other” category was selected by 37 respondents. In all cases, the
 entered field could be mapped to one of the categories listed.
-
-[Figure: Top 6 Organization Industries]
 
 --------------
 
