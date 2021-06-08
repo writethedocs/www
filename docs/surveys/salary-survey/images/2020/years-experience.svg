@@ -1,35 +1,18 @@
-<svg width="660" height="440" viewBox="0 0 660 440" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="660" height="423" viewBox="0 0 660 423" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="years-experience">
 <g id="Vertical bar chart">
-<text id="0-1" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="107.668" y="386.187">0-1</tspan></text>
-<text id="1-2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="182.832" y="386.187">1-2</tspan></text>
-<text id="2-5" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="258.205" y="386.187">2-5</tspan></text>
-<text id="5-10" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="331.498" y="386.187">5-10</tspan></text>
-<text id="10-20" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="403.836" y="386.187">10-20</tspan></text>
-<text id="20-30" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="479.068" y="386.187">20-30</tspan></text>
-<text id="30+" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="560.283" y="386.187">30+</tspan></text>
-<text id="0%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="51.1953" y="371.187">0%</tspan></text>
-<text id="5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="51.8516" y="311.187">5%</tspan></text>
-<text id="10%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="46.1094" y="251.187">10%</tspan></text>
-<text id="15%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="46.7656" y="191.187">15%</tspan></text>
-<text id="20%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="44.5273" y="131.187">20%</tspan></text>
-<text id="25%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="45.1836" y="71.1865">25%</tspan></text>
-<text id="30%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="44.5742" y="11.1865">30%</tspan></text>
-<path id="Grid_v_1" d="M78 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_2" d="M153 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_3" d="M229 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_4" d="M305 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_5" d="M381 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_6" d="M457 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_7" d="M533 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_8" d="M609 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_1_2" d="M78 365H609" stroke="#F0F0F0"/>
-<path id="Grid_v_2_2" d="M78 305H609" stroke="#F0F0F0"/>
-<path id="Grid_v_3_2" d="M78 245H609" stroke="#F0F0F0"/>
-<path id="Grid_v_4_2" d="M78 185H609" stroke="#F0F0F0"/>
-<path id="Grid_v_5_2" d="M78 125H609" stroke="#F0F0F0"/>
-<path id="Grid_v_6_2" d="M78 65H609" stroke="#F0F0F0"/>
-<path id="Grid_v_7_2" d="M78 5H609" stroke="#F0F0F0"/>
+<text id="0-1" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="107.668" y="386.187">0-1</tspan></text>
+<text id="1-2" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="182.832" y="386.187">1-2</tspan></text>
+<text id="2-5" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="258.205" y="386.187">2-5</tspan></text>
+<text id="5-10" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="331.498" y="386.187">5-10</tspan></text>
+<text id="10-20" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="403.836" y="386.187">10-20</tspan></text>
+<text id="20-30" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="479.068" y="386.187">20-30</tspan></text>
+<text id="30+" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="560.283" y="386.187">30+</tspan></text>
+<path id="Grid_v_1" d="M78 365H609" stroke="#F0F0F0"/>
+<path id="Grid_v_2" d="M78 305H609" stroke="#F0F0F0"/>
+<path id="Grid_v_3" d="M78 245H609" stroke="#F0F0F0"/>
+<path id="Grid_v_4" d="M78 185H609" stroke="#F0F0F0"/>
+<path id="Grid_v_5" d="M78 125H609" stroke="#F0F0F0"/>
 <path id="Bar_1_1" d="M93 323V365H138V323H93Z" fill="#1E73BE"/>
 <path id="Bar_1_2" d="M169 281V365H214V281H169Z" fill="#1E73BE"/>
 <path id="Bar_1_3" d="M244 79V365H290V79H244Z" fill="#1E73BE"/>
