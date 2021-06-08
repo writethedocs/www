@@ -1,39 +1,21 @@
-<svg width="660" height="440" viewBox="0 0 660 440" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="660" height="415" viewBox="0 0 660 415" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="age-group">
 <g id="Vertical bar chart">
-<text id="18-25" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="101.082" y="386.187">18-25</tspan></text>
-<text id="26-35" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="175.496" y="386.187">26-35</tspan></text>
-<text id="36-45" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="251.438" y="386.187">36-45</tspan></text>
-<text id="46-55" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="327.578" y="386.187">46-55</tspan></text>
-<text id="56-65" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="403.572" y="386.187">56-65</tspan></text>
-<text id="66+" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="484.295" y="386.187">66+</tspan></text>
-<text id="not given" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="546.408" y="386.187">not given</tspan></text>
-<text id="0%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="51.1953" y="371.187">0%</tspan></text>
-<text id="5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="51.8516" y="326.187">5%</tspan></text>
-<text id="10%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="46.1094" y="281.187">10%</tspan></text>
-<text id="15%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="46.7656" y="236.187">15%</tspan></text>
-<text id="20%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="44.5273" y="191.187">20%</tspan></text>
-<text id="25%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="45.1836" y="146.187">25%</tspan></text>
-<text id="30%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="44.5742" y="101.187">30%</tspan></text>
-<text id="35%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="45.2305" y="56.1865">35%</tspan></text>
-<text id="40%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="44.4102" y="11.1865">40%</tspan></text>
-<path id="Grid_v_1" d="M78 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_2" d="M153 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_3" d="M229 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_4" d="M305 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_5" d="M381 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_6" d="M457 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_7" d="M533 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_8" d="M609 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_1_2" d="M78 365H609" stroke="#F0F0F0"/>
-<path id="Grid_v_2_2" d="M78 320H609" stroke="#F0F0F0"/>
-<path id="Grid_v_3_2" d="M78 275H609" stroke="#F0F0F0"/>
-<path id="Grid_v_4_2" d="M78 230H609" stroke="#F0F0F0"/>
-<path id="Grid_v_5_2" d="M78 185H609" stroke="#F0F0F0"/>
-<path id="Grid_v_6_2" d="M78 140H609" stroke="#F0F0F0"/>
-<path id="Grid_v_7_2" d="M78 95H609" stroke="#F0F0F0"/>
-<path id="Grid_v_8_2" d="M78 50H609" stroke="#F0F0F0"/>
-<path id="Grid_v_9" d="M78 5H609" stroke="#F0F0F0"/>
+<text id="18-25" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="101.082" y="386.187">18-25</tspan></text>
+<text id="26-35" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="175.496" y="386.187">26-35</tspan></text>
+<text id="36-45" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="251.438" y="386.187">36-45</tspan></text>
+<text id="46-55" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="327.578" y="386.187">46-55</tspan></text>
+<text id="56-65" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="403.572" y="386.187">56-65</tspan></text>
+<text id="66+" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="484.295" y="386.187">66+</tspan></text>
+<text id="not given" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="546.408" y="386.187">not given</tspan></text>
+<path id="Grid_v_1" d="M78 365H609" stroke="#F0F0F0"/>
+<path id="Grid_v_2" d="M78 320H609" stroke="#F0F0F0"/>
+<path id="Grid_v_3" d="M78 275H609" stroke="#F0F0F0"/>
+<path id="Grid_v_4" d="M78 230H609" stroke="#F0F0F0"/>
+<path id="Grid_v_5" d="M78 185H609" stroke="#F0F0F0"/>
+<path id="Grid_v_6" d="M78 140H609" stroke="#F0F0F0"/>
+<path id="Grid_v_7" d="M78 95H609" stroke="#F0F0F0"/>
+<path id="Grid_v_8" d="M78 50H609" stroke="#F0F0F0"/>
 <path id="Bar_1_1" d="M93 313V365H138V313H93Z" fill="#1E73BE"/>
 <path id="Bar_1_2" d="M169 34V365H214V34H169Z" fill="#1E73BE"/>
 <path id="Bar_1_3" d="M244 116V365H290V116H244Z" fill="#1E73BE"/>
