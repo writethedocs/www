@@ -6,25 +6,12 @@
 <text id="2-5 years" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="318.06" y="389.582">2-5 years</tspan></text>
 <text id="5-10 years" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="417.971" y="389.582">5-10 years</tspan></text>
 <text id="10+ years" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="523.562" y="389.582">10+ years</tspan></text>
-<text id="0%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="54.5938" y="374.582">0%</tspan></text>
-<text id="5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="55.4688" y="314.582">5%</tspan></text>
-<text id="10%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="47.8125" y="254.582">10%</tspan></text>
-<text id="15%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="48.6875" y="194.582">15%</tspan></text>
-<text id="20%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="45.7031" y="134.582">20%</tspan></text>
-<text id="25%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="46.5781" y="74.582">25%</tspan></text>
-<text id="30%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="45.7656" y="14.582">30%</tspan></text>
-<path id="Grid_v_1" d="M91.2837 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_2" d="M194.804 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_3" d="M298.325 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_4" d="M401.846 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_5" d="M505.367 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_6" d="M610.346 5V365" stroke="#F0F0F0"/>
-<path id="Grid_v_1_2" d="M91.2837 365H610.346" stroke="#F0F0F0"/>
-<path id="Grid_v_2_2" d="M91.2837 305H610.346" stroke="#F0F0F0"/>
-<path id="Grid_v_3_2" d="M91.2837 245H610.346" stroke="#F0F0F0"/>
-<path id="Grid_v_4_2" d="M91.2837 185H610.346" stroke="#F0F0F0"/>
-<path id="Grid_v_5_2" d="M91.2837 125H610.346" stroke="#F0F0F0"/>
-<path id="Grid_v_6_2" d="M91.2837 65H610.346" stroke="#F0F0F0"/>
+<path id="Grid_v_1" d="M91.2837 365H610.346" stroke="#F0F0F0"/>
+<path id="Grid_v_2" d="M91.2837 305H610.346" stroke="#F0F0F0"/>
+<path id="Grid_v_3" d="M91.2837 245H610.346" stroke="#F0F0F0"/>
+<path id="Grid_v_4" d="M91.2837 185H610.346" stroke="#F0F0F0"/>
+<path id="Grid_v_5" d="M91.2837 125H610.346" stroke="#F0F0F0"/>
+<path id="Grid_v_6" d="M91.2837 65H610.346" stroke="#F0F0F0"/>
 <path id="Grid_v_7" d="M91.2837 5H610.346" stroke="#F0F0F0"/>
 <path id="Bar_1_1" d="M111.696 53V365H172.934V53H111.696Z" fill="#1E73BE"/>
 <path id="Bar_1_2" d="M215.217 50V365H277.913V50H215.217Z" fill="#1E73BE"/>
