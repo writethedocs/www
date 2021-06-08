@@ -455,7 +455,7 @@ Proportion of role actually related to documentation
 .. figure:: images/2020/actual-role-breakdown.svg
    :alt: Figure: Actual Role Breakdown
 
-   Figure: Actual Role Breakdown
+   Figure: Actual Role Breakdown (% of day-to-day tasks related to documentation)
 
 --------------
 
