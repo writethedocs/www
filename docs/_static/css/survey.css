@@ -6,7 +6,9 @@
   .survey-results div.figure p.caption{text-align:center;font-size:110%;margin-top:0.5em}
   .survey-results .question.docutils.container{margin:30px 0;padding:20px;background-color:#F6F6F6}
   .survey-results .question.docutils.container p.rubric{margin-top:0;font-weight:normal;font-style:italic}
-  .survey-results .wy-table-responsive + .wy-table-responsive{margin-top:1em}
+  .survey-results .wy-table-responsive + .wy-table-responsive{margin-top:2em}
+  .survey-results .wy-table-responsive + .figure{margin-top:2em}
+  .survey-results .figure + .figure{border-top:1px solid #CCC}
   
   /* 2019 specific styles */
   #write-the-docs-salary-survey-2019-results table#id6 thead tr th:nth-child(2),
