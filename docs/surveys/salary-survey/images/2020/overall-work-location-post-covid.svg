@@ -1,4 +1,10 @@
 <svg width="660" height="650" viewBox="0 0 660 650" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+  <![CDATA[
+    @font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
+    text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important}
+  ]]>
+</style>
 <g id="overall-work-location-post-covid">
 <g id="Legend">
 <g id="Positive">
