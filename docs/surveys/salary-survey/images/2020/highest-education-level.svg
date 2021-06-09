@@ -1,4 +1,10 @@
 <svg width="660" height="432" viewBox="0 0 660 432" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+  <![CDATA[
+    @font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
+    text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important}
+  ]]>
+</style>
 <g id="highest-education-level">
 <g id="Vertical bar chart">
 <text id="Not specified" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="88.5841" y="386.187">Not specified</tspan></text>
