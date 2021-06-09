@@ -1,4 +1,10 @@
 <svg width="660" height="720" viewBox="0 0 660 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+  <![CDATA[
+    @font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
+    text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important}
+  ]]>
+</style>
 <g id="role-categorization-minor">
 <g id="Donut chart">
 <path id="Donut_1" d="M329.5 121C379.926 121 428.338 140.786 464.329 176.105C500.32 211.424 521.015 259.455 521.966 309.872C522.916 360.288 504.046 409.065 469.412 445.716C434.778 482.366 387.145 503.963 336.755 505.863L332.233 385.948C351.211 385.233 369.15 377.099 382.194 363.295C395.238 349.492 402.345 331.122 401.987 312.133C401.629 293.145 393.835 275.056 380.28 261.754C366.725 248.452 348.492 241 329.5 241L329.5 121Z" fill="#1E73BE"/>
