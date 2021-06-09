@@ -1,4 +1,10 @@
 <svg width="660" height="630" viewBox="0 0 660 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+  <![CDATA[
+    @font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
+     text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important}
+  ]]>
+</style>
 <g id="permenancy-location-change">
 <g id="Donut chart">
 <path id="Donut_1" d="M329.5 99C378.044 99 424.796 117.341 460.391 150.348C495.986 183.356 517.796 228.593 521.453 277C525.11 325.406 510.343 373.406 480.11 411.387C449.878 449.367 406.412 474.523 358.418 481.815L340.391 363.177C358.467 360.431 374.837 350.956 386.223 336.652C397.61 322.348 403.171 304.27 401.794 286.039C400.417 267.808 392.203 250.77 378.797 238.339C365.391 225.908 347.783 219 329.5 219L329.5 99Z" fill="#1E73BE"/>
