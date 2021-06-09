@@ -5,7 +5,7 @@
     src: local("charter"), local("cambria");
     unicode-range: U+0030-0039;
   }
-  .survey-results{font-family:"tabular-numbers",georgia,bitstream charter,serif}
+  .survey-results{font-family:"tabular-numbers",georgia,bitstream charter,serif !important}
   .survey-results hr{margin-top:40px}
   .survey-results table.docutils{border:1px solid #CCC}
   .survey-results table caption{padding:0.5em;font-size:110%}
