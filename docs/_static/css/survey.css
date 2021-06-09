@@ -57,10 +57,10 @@
   #write-the-docs-salary-survey-2019-results #geographical-location ul.simple{overflow:auto}
 
   /* 2020 specific styles */
-  #write-the-docs-salary-survey-2020-results table#4 tbody tr td:nth-child(2),
-  #write-the-docs-salary-survey-2020-results table#5 tbody tr td:nth-child(2),
-  #write-the-docs-salary-survey-2020-results table#13 tbody tr td:nth-child(3),
-  #write-the-docs-salary-survey-2020-results table#13 tbody tr td:nth-child(4)
+  #write-the-docs-salary-survey-2020-results table#id4 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2020-results table#id5 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2020-results table#id13 tbody tr td:nth-child(3),
+  #write-the-docs-salary-survey-2020-results table#id13 tbody tr td:nth-child(4)
   {text-align:right}
   
 }
