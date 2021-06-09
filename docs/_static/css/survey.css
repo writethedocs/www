@@ -1,11 +1,19 @@
 @media screen{
   /* generic survey results styles */
+  @font-face {
+    font-family: "tabular-numbers";
+    src: local("charter"), local("cambria");
+    unicode-range: U+0030-0039;
+  }
+  .survey-results{font-family:"tabular-numbers",georgia,bitstream charter,serif}
   .survey-results hr{margin-top:40px}
-  .survey-results table caption{padding:0.5em}
+  .survey-results table.docutils{border:1px solid #CCC}
+  .survey-results table caption{padding:0.5em;font-size:110%}
   .survey-results div.figure{margin-top:1em}
   .survey-results div.figure p.caption{text-align:center;font-size:110%;margin-top:0.5em}
   .survey-results .question.docutils.container{margin:30px 0;padding:20px;background-color:#F6F6F6}
   .survey-results .question.docutils.container p.rubric{margin-top:0;font-weight:normal;font-style:italic}
+  .survey-results .wy-table-responsive{margin-bottom:2em}
   .survey-results .wy-table-responsive + .wy-table-responsive{margin-top:2em}
   .survey-results .wy-table-responsive + .figure{margin-top:2em}
   .survey-results .figure + .figure{border-top:1px solid #CCC}
@@ -59,8 +67,18 @@
   #write-the-docs-salary-survey-2019-results #geographical-location ul.simple{overflow:auto}
 
   /* 2020 specific styles */
+  #write-the-docs-salary-survey-2020-results table#id4,
+  #write-the-docs-salary-survey-2020-results table#id5
+  {min-width:80%}
+  
+  #write-the-docs-salary-survey-2020-results table#id13
+  {width:100%}
+  
+  
   #write-the-docs-salary-survey-2020-results table#id4 tbody tr td:nth-child(2),
   #write-the-docs-salary-survey-2020-results table#id5 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2020-results table#id13 thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2020-results table#id13 thead tr th:nth-child(4),
   #write-the-docs-salary-survey-2020-results table#id13 tbody tr td:nth-child(3),
   #write-the-docs-salary-survey-2020-results table#id13 tbody tr td:nth-child(4)
   {text-align:right}
