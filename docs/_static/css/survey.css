@@ -7,7 +7,9 @@
   }
   .survey-results{font-family:"tabular-numbers",georgia,bitstream charter,serif !important}
   .survey-results hr{margin-top:40px}
-  .survey-results table.docutils{border:1px solid #CCC}
+  .survey-results table.docutils{border:none !important;border-spacing:0}
+  .survey-results table.docutils td,
+  .survey-results table.docutils th{border:none !important}
   .survey-results table caption{padding:0.5em;font-size:110%}
   .survey-results div.figure{margin-top:1em}
   .survey-results div.figure p.caption{text-align:center;font-size:110%;margin-top:0.5em}
