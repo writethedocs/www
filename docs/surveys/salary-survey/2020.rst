@@ -775,7 +775,7 @@ Other Changes Due to COVID-19
 .. table:: COVID-19 Changes (other than work location)
 
    +----------------------------------+-----+------------+
-   | Change                           | No. | % of Total |
+   | Change                           | No. |          % |
    +==================================+=====+============+
    | Work Location                    | 645 |    80.1%   |
    +----------------------------------+-----+------------+
@@ -930,7 +930,7 @@ constitutes a “fair” salary.
 .. table:: Median Salary by Region/Country of Employee
 
    +---------------+------------+----------------------------------------+---------------------+---------------------+
-   | Region        | Sub-region | No. of Respondents (working 30+ hours) | Percentage of Total | Median Salary (USD) |
+   | Region        | Sub-region | No.                                    | %                   | Median Salary (USD) |
    +===============+============+========================================+=====================+=====================+
    | North America |            |                   397                  |                     |              98,000 |
    +---------------+------------+----------------------------------------+---------------------+---------------------+
@@ -966,7 +966,7 @@ constitutes a “fair” salary.
 .. table:: Median Salary by Region/Country of Employer
 
    +---------------+------------+----------------------+---------------------+---------------------+
-   | Region        | Sub-region | No. of Organizations | Percentage of Total | Median Salary (USD) |
+   | Region        | Sub-region | No.                  | %                   | Median Salary (USD) |
    +===============+============+======================+=====================+=====================+
    | North America |            |          379         |                     |              92,000 |
    +---------------+------------+----------------------+---------------------+---------------------+
@@ -1056,7 +1056,7 @@ live.
 .. table:: Additional Employee Benefits
 
    +-----------------------------------------------------------------------------------------------+------------------+
-   | Benefit                                                                                       | % of Respondents |
+   | Benefit                                                                                       | %                |
    +===============================================================================================+==================+
    | Health insurance \*                                                                           |           75.60% |
    +-----------------------------------------------------------------------------------------------+------------------+
@@ -1170,7 +1170,7 @@ with their salary and/or benefits, 127 did not specify a reason.
 .. table:: Reasons for Salary Dissatisfaction (Employees)
 
    +-----------------------------------------------------------------------+--------------------+-------------------------------+
-   | Reason                                                                | No. of Respondents | % of Dissatisfied Respondents |
+   | Reason                                                                | No.                | % \*                          |
    +=======================================================================+====================+===============================+
    | Salary is too low                                                     |         189        |             36.99%            |
    +-----------------------------------------------------------------------+--------------------+-------------------------------+
@@ -1186,6 +1186,8 @@ with their salary and/or benefits, 127 did not specify a reason.
    +-----------------------------------------------------------------------+--------------------+-------------------------------+
    | I don't work enough hours                                             |          4         |             0.78%             |
    +-----------------------------------------------------------------------+--------------------+-------------------------------+
+
+\* Percentage of dissatisfied respondents 
 
 .. _h.9vn8g9rj8ar:
 
@@ -1269,7 +1271,7 @@ reason for dissatisfaction.
 .. table:: Reasons for Overall Dissatisfaction (Employees)
 
    +----------------------------------------------------------------+--------------------+-------------------------------+
-   | Reason                                                         | No. of Respondents | % of Dissatisfied Respondents |
+   | Reason                                                         | No.                | % \*                          |
    +================================================================+====================+===============================+
    | Role is undervalued or underfunded                             |         243        |             46.02%            |
    +----------------------------------------------------------------+--------------------+-------------------------------+
@@ -1305,6 +1307,8 @@ reason for dissatisfaction.
    +----------------------------------------------------------------+--------------------+-------------------------------+
    | I am discriminated against on the basis of education level     |          2         |             0.38%             |
    +----------------------------------------------------------------+--------------------+-------------------------------+
+
+\* Percentage of dissastisfied respondents
 
 Of the respondents who chose “Other” and provided detail, the common
 themes were:
@@ -1469,7 +1473,7 @@ entered field could be mapped to one of the categories listed.
 .. table:: All Organization Industries
 
    +--------------------------------------------------------------------------+-----+------------+
-   | Industry                                                                 | No. | % of Total |
+   | Industry                                                                 | No. | %          |
    +==========================================================================+=====+============+
    | Software Development, Software Development Tools (not industry-specific) | 311 |     38.63% |
    +--------------------------------------------------------------------------+-----+------------+
@@ -1638,8 +1642,6 @@ Gender Identity
 non-binary or “other” - a similar breakdown to 2019’s results. 19
 respondents (2.4% of the total) chose not to answer.
 
-[Figure: Gender Identity]
-
 .. figure:: images/2020/gender-identity.svg
    :alt: Figure: Gender Identity
    
@@ -1793,7 +1795,7 @@ appeared as new countries in the result set.
 .. table:: Top Geographical Locations - North America
 
    +---------------+------------------+---------------+--------------------+
-   | Country       | State/Province   | City          | No. of Respondents |
+   | Country       | State/Province   | City          | No.                |
    +===============+==================+===============+====================+
    | United States |                  |               |         373        |
    +---------------+------------------+---------------+--------------------+
@@ -1831,7 +1833,7 @@ appeared as new countries in the result set.
 .. table:: Top Geographical Locations - Europe
 
    +----------------+---------+--------------------+
-   | Country        | City    | No. of Respondents |
+   | Country        | City    | No.                |
    +================+=========+====================+
    | United Kingdom |         |         37         |
    +----------------+---------+--------------------+
@@ -1865,7 +1867,7 @@ appeared as new countries in the result set.
 .. table:: Top Geographical Locations - Other Regions
 
    +---------------------------+-----------+-----------+--------------------+
-   | Region                    | Country   | City      | No. of Respondents |
+   | Region                    | Country   | City      | No.                |
    +===========================+===========+===========+====================+
    | Middle East               | Israel    |           |         52         |
    +---------------------------+-----------+-----------+--------------------+
