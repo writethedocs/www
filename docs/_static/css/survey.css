@@ -7,9 +7,9 @@
   }
   .survey-results{font-family:"tabular-numbers",georgia,bitstream charter,serif !important}
   .survey-results hr{margin-top:40px}
-  .survey-results table.docutils{border:none !important;border-spacing:0;box-shadow:none;-webkit-box-shadow:none;-moz-box-shadow:none}
+  .survey-results table.docutils{border-spacing:0;box-shadow:none;-webkit-box-shadow:none;-moz-box-shadow:none}
   .survey-results table.docutils td,
-  .survey-results table.docutils th{border:none !important}
+  .survey-results table.docutils th{}
   .survey-results table caption{padding:0.5em;font-size:110%}
   .survey-results div.figure{margin-top:1em}
   .survey-results div.figure p.caption{text-align:center;font-size:110%;margin-top:0.5em}
@@ -73,16 +73,58 @@
   #write-the-docs-salary-survey-2020-results table#id5
   {min-width:80%}
   
-  #write-the-docs-salary-survey-2020-results table#id13
+  #write-the-docs-salary-survey-2020-results table#id13,
+  #write-the-docs-salary-survey-2020-results table#id34,
+  #write-the-docs-salary-survey-2020-results table#id35,
+  #write-the-docs-salary-survey-2020-results table#id36
   {width:100%}
   
   
+  #write-the-docs-salary-survey-2020-results table#id4 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2020-results table#id5 thead tr th:nth-child(2),
   #write-the-docs-salary-survey-2020-results table#id4 tbody tr td:nth-child(2),
   #write-the-docs-salary-survey-2020-results table#id5 tbody tr td:nth-child(2),
   #write-the-docs-salary-survey-2020-results table#id13 thead tr th:nth-child(3),
   #write-the-docs-salary-survey-2020-results table#id13 thead tr th:nth-child(4),
   #write-the-docs-salary-survey-2020-results table#id13 tbody tr td:nth-child(3),
-  #write-the-docs-salary-survey-2020-results table#id13 tbody tr td:nth-child(4)
+  #write-the-docs-salary-survey-2020-results table#id13 tbody tr td:nth-child(4),
+  #write-the-docs-salary-survey-2020-results table#id20 thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2020-results table#id20 tbody tr td:nth-child(3),
+  #write-the-docs-salary-survey-2020-results table#id21 thead tr th:nth-child(5),
+  #write-the-docs-salary-survey-2020-results table#id21 tbody tr td:nth-child(5),
+  #write-the-docs-salary-survey-2020-results table#id22 thead tr th:nth-child(5),
+  #write-the-docs-salary-survey-2020-results table#id22 tbody tr td:nth-child(5),
+  #write-the-docs-salary-survey-2020-results table#id23 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2020-results table#id23 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2020-results table#id25 thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2020-results table#id25 tbody tr td:nth-child(3),
+  #write-the-docs-salary-survey-2020-results table#id27 thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2020-results table#id27 tbody tr td:nth-child(3),
+  #write-the-docs-salary-survey-2020-results table#id29 thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2020-results table#id29 tbody tr td:nth-child(3)
   {text-align:right}
   
+  #write-the-docs-salary-survey-2020-results table#id20 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2020-results table#id20 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2020-results table#id21 thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2020-results table#id21 tbody tr td:nth-child(3),
+  #write-the-docs-salary-survey-2020-results table#id21 thead tr th:nth-child(4),
+  #write-the-docs-salary-survey-2020-results table#id21 tbody tr td:nth-child(4),
+  #write-the-docs-salary-survey-2020-results table#id22 thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2020-results table#id22 tbody tr td:nth-child(3),
+  #write-the-docs-salary-survey-2020-results table#id22 thead tr th:nth-child(4),
+  #write-the-docs-salary-survey-2020-results table#id22 tbody tr td:nth-child(4),
+  #write-the-docs-salary-survey-2020-results table#id25 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2020-results table#id25 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2020-results table#id27 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2020-results table#id27 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2020-results table#id29 thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2020-results table#id29 tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2020-results table#id34 thead tr th:nth-child(4),
+  #write-the-docs-salary-survey-2020-results table#id34 tbody tr td:nth-child(4),
+  #write-the-docs-salary-survey-2020-results table#id35 thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2020-results table#id35 tbody tr td:nth-child(3),
+  #write-the-docs-salary-survey-2020-results table#id36 thead tr th:nth-child(4),
+  #write-the-docs-salary-survey-2020-results table#id36 tbody tr td:nth-child(4)
+  {text-align:center}
 }
