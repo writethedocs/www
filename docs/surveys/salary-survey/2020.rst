@@ -1793,6 +1793,7 @@ Kenya, Mexico, Pakistan, South Africa, South Korea and Switzerland
 appeared as new countries in the result set.
 
 .. table:: Top Geographical Locations - North America
+   :widths: 30 30 30 10
 
    +---------------+------------------+---------------+--------------------+
    | Country       | State/Province   | City          | No.                |
@@ -1831,6 +1832,7 @@ appeared as new countries in the result set.
    +---------------+------------------+---------------+--------------------+
 
 .. table:: Top Geographical Locations - Europe
+   :widths: 50 40 10
 
    +----------------+---------+--------------------+
    | Country        | City    | No.                |
@@ -1865,6 +1867,7 @@ appeared as new countries in the result set.
    +----------------+---------+--------------------+
 
 .. table:: Top Geographical Locations - Other Regions
+   :widths: 30 30 30 10
 
    +---------------------------+-----------+-----------+--------------------+
    | Region                    | Country   | City      | No.                |
