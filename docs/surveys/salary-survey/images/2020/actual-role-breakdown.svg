@@ -7,10 +7,10 @@
 </style>
 <g id="actual-role-breakdown">
 <g id="Vertical bar chart">
-<text id="0-25%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="107.551" y="392.582">0-25%</tspan></text>
-<text id="25-50%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="235.324" y="392.582">25-50%</tspan></text>
-<text id="50-75%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="368.449" y="392.582">50-75%</tspan></text>
-<text id="75-100%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="497.621" y="392.582">75-100%</tspan></text>
+<text id="0-25%" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="107.551" y="392.582">0-25%</tspan></text>
+<text id="25-50%" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="235.324" y="392.582">25-50%</tspan></text>
+<text id="50-75%" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="368.449" y="392.582">50-75%</tspan></text>
+<text id="75-100%" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="497.621" y="392.582">75-100%</tspan></text>
 <path id="Grid_v_1" d="M64 368H595" stroke="#F0F0F0"/>
 <path id="Grid_v_2" d="M64 308H595" stroke="#F0F0F0"/>
 <path id="Grid_v_3" d="M64 248H595" stroke="#F0F0F0"/>
@@ -24,7 +24,7 @@
 <text id="57.8%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="502" y="52.4775">57.8%</tspan></text>
 <text id="28.3%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="367.18" y="229.478">28.3%</tspan></text>
 <text id="8.4%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="243.02" y="346.478">8.4%</tspan></text>
-<text id="5.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="111.129" y="324.478">5.5%</tspan></text>
+<text id="5.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="111.129" y="329.478">5.5%</tspan></text>
 </g>
 </g>
 </svg>
