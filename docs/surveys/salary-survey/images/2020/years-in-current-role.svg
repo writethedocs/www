@@ -1,34 +1,33 @@
-<svg width="660" height="428" viewBox="0 0 660 428" fill="none" xmlns="http://www.w3.org/2000/svg">
-<style type="text/css">
+<svg width="660" height="419" viewBox="0 0 660 419" fill="none" xmlns="http://www.w3.org/2000/svg"><style type="text/css">
   <![CDATA[
     @font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
-    text{font-family:"tabular-numbers",georgia,bitstream charter,serif !important}
+    text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important}
   ]]>
 </style>
 <g id="years-in-current-role">
 <g id="Vertical bar chart">
-<text id="&#60; 1 year" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="94.3906" y="404.582">&#60; 1 year</tspan></text>
-<text id="1-2 years" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="194.091" y="404.582">1-2 years</tspan></text>
-<text id="2-5 years" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="296.776" y="404.582">2-5 years</tspan></text>
-<text id="5-10 years" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="396.687" y="404.582">5-10 years</tspan></text>
-<text id="10+ years" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="502.279" y="404.582">10+ years</tspan></text>
-<path id="Grid_v_1" d="M70 380H589.062" stroke="#F0F0F0"/>
-<path id="Grid_v_2" d="M70 320H589.062" stroke="#F0F0F0"/>
-<path id="Grid_v_3" d="M70 260H589.062" stroke="#F0F0F0"/>
-<path id="Grid_v_4" d="M70 200H589.062" stroke="#F0F0F0"/>
-<path id="Grid_v_5" d="M70 140H589.062" stroke="#F0F0F0"/>
-<path id="Grid_v_6" d="M70 80H589.062" stroke="#F0F0F0"/>
-<path id="Bar_1_1" d="M90.4126 68V380H151.65V68H90.4126Z" fill="#1E73BE"/>
-<path id="Bar_1_2" d="M193.933 65V380H256.629V65H193.933Z" fill="#1E73BE"/>
-<path id="Bar_1_3" d="M297.454 29V380H360.15V29H297.454Z" fill="#1E73BE"/>
-<path id="Bar_1_4" d="M400.975 224V380H463.671V224H400.975Z" fill="#1E73BE"/>
-<path id="Bar_1_5" d="M505.954 314V380H567.191V314H505.954Z" fill="#1E73BE"/>
+<text id="&#60; 1 year" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="94.3906" y="395.582">&#60; 1 year</tspan></text>
+<text id="1-2 years" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="194.091" y="395.582">1-2 years</tspan></text>
+<text id="2-5 years" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="296.776" y="395.582">2-5 years</tspan></text>
+<text id="5-10 years" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="396.687" y="395.582">5-10 years</tspan></text>
+<text id="10+ years" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="502.279" y="395.582">10+ years</tspan></text>
+<path id="Grid_v_1" d="M70 371H589.062" stroke="#F0F0F0"/>
+<path id="Grid_v_2" d="M70 311H589.062" stroke="#F0F0F0"/>
+<path id="Grid_v_3" d="M70 251H589.062" stroke="#F0F0F0"/>
+<path id="Grid_v_4" d="M70 191H589.062" stroke="#F0F0F0"/>
+<path id="Grid_v_5" d="M70 131H589.062" stroke="#F0F0F0"/>
+<path id="Grid_v_6" d="M70 71H589.062" stroke="#F0F0F0"/>
+<path id="Bar_1_1" d="M90.4126 59V371H151.65V59H90.4126Z" fill="#1E73BE"/>
+<path id="Bar_1_2" d="M193.933 56V371H256.629V56H193.933Z" fill="#1E73BE"/>
+<path id="Bar_1_3" d="M297.454 20V371H360.15V20H297.454Z" fill="#1E73BE"/>
+<path id="Bar_1_4" d="M400.975 215V371H463.671V215H400.975Z" fill="#1E73BE"/>
+<path id="Bar_1_5" d="M505.954 305V371H567.191V305H505.954Z" fill="#1E73BE"/>
 <g id="Labels">
-<text id="13%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="415.857" y="252.478">13%</tspan></text>
-<text id="5.5%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="514.845" y="342.478">5.5%</tspan></text>
-<text id="36%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="102.005" y="96.4775">36%</tspan></text>
-<text id="26%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="205.927" y="94.4775">26%</tspan></text>
-<text id="29%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="309.927" y="58.4775">29%</tspan></text>
+<text id="13%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="415.857" y="243.478">13%</tspan></text>
+<text id="5.5%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="514.845" y="333.478">5.5%</tspan></text>
+<text id="36%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="102.005" y="87.4775">36%</tspan></text>
+<text id="26%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="205.927" y="85.4775">26%</tspan></text>
+<text id="29%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="309.927" y="49.4775">29%</tspan></text>
 </g>
 </g>
 </g>
