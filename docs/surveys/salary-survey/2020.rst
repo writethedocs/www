@@ -928,7 +928,7 @@ constitutes a “fair” salary.
 .. _h.28lzmhy15fb8:
 
 .. table:: Median Salary by Region/Country of Employee
-   :widths: 30 30 15 25
+   :widths: 25 25 15 35
 
    +---------------+------------+----------------------------------------+----------------------+
    | Region        | Sub-region | No.                                    |  Median Salary (USD) |
@@ -965,7 +965,7 @@ constitutes a “fair” salary.
 .. _h.3gbl0zy7nqr:
 
 .. table:: Median Salary by Region/Country of Employer
-   :widths: 30 30 15 25
+   :widths: 25 25 15 35
    
    +---------------+------------+----------------------+---------------------+
    | Region        | Sub-region | No.                  | Median Salary (USD) |
