@@ -1054,7 +1054,7 @@ was in excess of what was required by law in the country where they
 live.
 
 .. table:: Additional Employee Benefits
-   :col: 80 20
+   :widths: 80 20
 
    +-----------------------------------------------------------------------------------------------+------------------+
    | Benefit                                                                                       | % of Total       |
@@ -1169,7 +1169,7 @@ Of the respondents who indicated that they were not “very satisfied”
 with their salary and/or benefits, 127 did not specify a reason.
 
 .. table:: Reasons for Salary Dissatisfaction (Employees)
-   :cols: 70 30
+   :widths: 70 30
 
    +-----------------------------------------------------------------------+--------------------------------+
    | Reason                                                                |  % of dissatisfied             |
@@ -1269,7 +1269,7 @@ unsatisfied” with their overall job situation - did not indicate a
 reason for dissatisfaction.
 
 .. table:: Reasons for Overall Dissatisfaction (Employees)
-   :cols: 70 30
+   :widths: 70 30
 
    +----------------------------------------------------------------+--------------------------------+
    | Reason                                                         |  % of dissatisfied             |
