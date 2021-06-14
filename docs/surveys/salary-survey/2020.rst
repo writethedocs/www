@@ -467,9 +467,9 @@ Proportion of role actually related to documentation
 .. _h.5h36v6tukpci:
 
 -  5.5% of respondents reported that documentation made up one quarter
-   or less of their day to day job.
--  8.4% estimated the split to be between one quarter and half.
--  28.3% put the number at between half and three quarters.
+   or less of their day to day job,
+-  8.4% estimated the split to be between one quarter and half,
+-  28.3% put the number at between half and three quarters, and
 -  57.8% reported focusing on documentation between three quarters and the whole of their work time.
 
 .. figure:: images/2020/actual-role-breakdown.svg
@@ -581,13 +581,12 @@ Work Location
 
 .. _h.ai9zky1g4jbi:
 
-80% of respondents said that their work location had changed, either
-permanently or temporarily, due to COVID-19.
-
 .. _h.g00o8i93w80k:
 
 Work Location Changes due to COVID-19
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+80% of respondents said that their work location had changed, either
+permanently or temporarily, due to COVID-19.
 
 Note: a small number of respondents answered “yes” to the question of
 whether their work location had changed due to COVID-19, but then
@@ -645,7 +644,7 @@ combined 47.6% - outweighed those that predicted “yes” (13.2%) or
  .. figure:: images/2020/permenancy-location-change.svg
    :alt: Figure: Permanency of Work Location Changes
 
-   Figure: Permanency of Work Location Changes
+   Figure: Predicted Permanency of Work Location Changes
  
 While other aspects of living through a pandemic might be challenging, a
 large proportion of respondents reported finding a silver lining in work
@@ -959,8 +958,7 @@ constitutes a “fair” salary.
    +---------------+------------+----------------------------------------+----------------------+
    | Israel        |            |                   47                   |               90,000 |
    +---------------+------------+----------------------------------------+----------------------+
-   | Africa        |            |                    3                   |               28,501 |
-   +---------------+------------+----------------------------------------+----------------------+
+
 
 .. _h.3gbl0zy7nqr:
 
