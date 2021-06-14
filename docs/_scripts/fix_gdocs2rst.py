@@ -1,3 +1,5 @@
+# Script used to migrate gdocs into RST. 
+# Historically used for the salary survey, but might be useful otherwise. 
 in_rubric = False
 
 
