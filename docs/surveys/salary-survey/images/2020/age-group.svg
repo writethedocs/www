@@ -1,0 +1,43 @@
+<svg width="660" height="395" viewBox="0 0 660 395" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+  <![CDATA[
+    @font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
+    text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important}
+  ]]>
+</style>
+<g id="age-group">
+<g id="Vertical bar chart">
+<text id="18-25" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="87.0821" y="372.187">18-25</tspan></text>
+<text id="26-35" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="161.496" y="372.187">26-35</tspan></text>
+<text id="36-45" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="237.438" y="372.187">36-45</tspan></text>
+<text id="46-55" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="313.578" y="372.187">46-55</tspan></text>
+<text id="56-65" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="389.572" y="372.187">56-65</tspan></text>
+<text id="66+" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="470.295" y="372.187">66+</tspan></text>
+<text id="not given" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="532.408" y="372.187">not given</tspan></text>
+<path id="Grid_v_1" d="M64 351H595" stroke="#F0F0F0"/>
+<path id="Grid_v_2" d="M64 306H595" stroke="#F0F0F0"/>
+<path id="Grid_v_3" d="M64 261H595" stroke="#F0F0F0"/>
+<path id="Grid_v_4" d="M64 216H595" stroke="#F0F0F0"/>
+<path id="Grid_v_5" d="M64 171H595" stroke="#F0F0F0"/>
+<path id="Grid_v_6" d="M64 126H595" stroke="#F0F0F0"/>
+<path id="Grid_v_7" d="M64 81H595" stroke="#F0F0F0"/>
+<path id="Grid_v_8" d="M64 36H595" stroke="#F0F0F0"/>
+<path id="Bar_1_1" d="M79 299V351H124V299H79Z" fill="#1E73BE"/>
+<path id="Bar_1_2" d="M155 20V351H200V20H155Z" fill="#1E73BE"/>
+<path id="Bar_1_3" d="M230 102V351H276V102H230Z" fill="#1E73BE"/>
+<path id="Bar_1_4" d="M306 172V351H352V172H306Z" fill="#1E73BE"/>
+<path id="Bar_1_5" d="M382 266V351H428V266H382Z" fill="#1E73BE"/>
+<path id="Bar_1_6" d="M458 345V351H504V345H458Z" fill="#1E73BE"/>
+<path id="Bar_1_7" d="M534 349V351H580V349H534Z" fill="#1E73BE"/>
+<g id="Labels">
+<text id="0.2%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="14" letter-spacing="0em"><tspan x="538.921" y="342.884">0.2%</tspan></text>
+<text id="0.6%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="14" letter-spacing="0em"><tspan x="464.846" y="337.884">0.6%</tspan></text>
+<text id="36.7%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="14" letter-spacing="0em"><tspan x="158.284" y="36.8843">36.7%</tspan></text>
+<text id="27.6%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="14" letter-spacing="0em"><tspan x="233.257" y="118.884">27.6%</tspan></text>
+<text id="19.8%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="14" letter-spacing="0em"><tspan x="309.783" y="188.884">19.8%</tspan></text>
+<text id="9.4%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="14" letter-spacing="0em"><tspan x="388.969" y="282.884">9.4%</tspan></text>
+<text id="5.7%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="14" letter-spacing="0em"><tspan x="86.4131" y="315.884">5.7%</tspan></text>
+</g>
+</g>
+</g>
+</svg>

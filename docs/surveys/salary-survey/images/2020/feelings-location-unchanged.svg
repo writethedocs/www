@@ -1,0 +1,59 @@
+<svg width="660" height="470" viewBox="0 0 660 470" fill="none" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">
+  <![CDATA[
+    @font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
+    text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important}
+  ]]>
+</style>
+<g id="feelings-location-unchanged">
+<g id="Labels">
+<text id="13%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="437.141" y="267.478">13%</tspan></text>
+<text id="5.5%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="536.129" y="357.478">5.5%</tspan></text>
+<text id="36%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="123.289" y="111.478">36%</tspan></text>
+<text id="26%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="227.211" y="109.478">26%</tspan></text>
+<text id="29%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="331.211" y="73.4775">29%</tspan></text>
+</g>
+<g id="Legend">
+<g id="Positive">
+<rect id="Rectangle 1" x="84" y="420" width="20" height="20" fill="#1E73BE"/>
+<text id="Positive or Very Positive" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="114" y="434.582">Positive or Very Positive</tspan></text>
+</g>
+<g id="Neutral">
+<rect id="Rectangle 1_2" x="296" y="420" width="20" height="20" fill="#F35DA3"/>
+<text id="Neutral_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="326" y="434.582">Neutral</tspan></text>
+</g>
+<g id="Negative">
+<rect id="Rectangle 1_3" x="390" y="420" width="20" height="20" fill="#FFA600"/>
+<text id="Negative or Very Negative" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="420" y="434.582">Negative or Very Negative</tspan></text>
+</g>
+</g>
+<g id="Grouped bar chart">
+<text id="Remote" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="139.081" y="389.582">Remote</tspan></text>
+<text id="Partial" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="319.933" y="389.582">Partial</tspan></text>
+<text id="Onsite" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="497.44" y="389.582">Onsite</tspan></text>
+<text id="10%" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="38.8125" y="334.582">10%</tspan></text>
+<text id="20%" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="36.7031" y="294.582">20%</tspan></text>
+<text id="30%" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="36.7656" y="254.582">30%</tspan></text>
+<text id="40%" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="36.5469" y="214.582">40%</tspan></text>
+<text id="50%" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="37.1406" y="174.582">50%</tspan></text>
+<text id="60%" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="36.5312" y="134.582">60%</tspan></text>
+<text id="70%" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="36.9531" y="94.582">70%</tspan></text>
+<text id="80%" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="36.0469" y="54.582">80%</tspan></text>
+<path id="Grid_v_1" d="M78 365H609" stroke="#F0F0F0"/>
+<path id="Grid_v_2" d="M78 325H609" stroke="#F0F0F0"/>
+<path id="Grid_v_3" d="M78 285H609" stroke="#F0F0F0"/>
+<path id="Grid_v_4" d="M78 245H609" stroke="#F0F0F0"/>
+<path id="Grid_v_5" d="M78 205H609" stroke="#F0F0F0"/>
+<path id="Grid_v_6" d="M78 165H609" stroke="#F0F0F0"/>
+<path id="Grid_v_7" d="M78 125H609" stroke="#F0F0F0"/>
+<path id="Grid_v_8" d="M78 85H609" stroke="#F0F0F0"/>
+<path id="Bar_1_3" d="M468 340V365H572V340H468Z" fill="#1E73BE"/>
+<path id="Bar_2_3" d="M468 328V340H572V328H468Z" fill="#F35DA3"/>
+<path id="Bar_1_2" d="M293 347V365H397V347H293Z" fill="#1E73BE"/>
+<path id="Bar_2_2" d="M293 344V347H397V344H293Z" fill="#F35DA3"/>
+<path id="Bar_3_2" d="M293 341V344H397V341H293Z" fill="#FFA600"/>
+<path id="Bar_1_1" d="M118 86V365H222V86H118Z" fill="#1E73BE"/>
+<path id="Bar_2_1" d="M118 63V86H222V63H118Z" fill="#F35DA3"/>
+</g>
+</g>
+</svg>
