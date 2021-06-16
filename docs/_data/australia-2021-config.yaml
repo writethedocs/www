@@ -121,6 +121,12 @@ about:
   projector_ratio: "16:9"
   job_fair_room: "Sponsor area"
 
+cfp:
+  url: https://pretalx.com/write-the-docs-australia-and-india-2021/cfp
+  ends: "June 30, 2021"           # 2 weeks to review and get confirmnations
+  notification: "July 16, 2021"   # leaves 6 weeks to write and record
+  video_by: "September 3, 2021"   # 4 weeks before the conf
+
 grants:
   url: https://docs.google.com/forms/d/e/1FAIpQLSe7IUKVckN5m-C_x9JguqwT3zt_PctyCl62yCkCf6D73be99A/viewform
   ends: "October 15, 2021"
