@@ -142,7 +142,7 @@ As in 2019, most respondents worked “full-time” hours:
 
 Of the 4.5% working part-time:
 
--  1.6% workedup to 20 hours, and
+-  1.6% worked up to 20 hours, and
 -  2.9% worked between 21 and 30 hours.
 
 3 respondents reported working over 60 hours per week: the highest
@@ -1561,7 +1561,7 @@ Organization Location
 Respondents were asked to select the primary geographical location of
 the organization that they work for.
 
-The US accounted for 46.6% of the reponses, the largest share. Second
+The US accounted for 46.6% of the responses, the largest share. Second
 after that was “Multi-national or global organization” with 20%.
 
 37 other countries made up the remaining 33.4%. Israel (4.2%), Canada
