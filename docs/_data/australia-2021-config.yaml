@@ -121,6 +121,11 @@ about:
   projector_ratio: "16:9"
   job_fair_room: "Sponsor area"
 
+grants:
+  url: https://docs.google.com/forms/d/e/1FAIpQLSe7IUKVckN5m-C_x9JguqwT3zt_PctyCl62yCkCf6D73be99A/viewform
+  ends: "October 15, 2021"
+  notification: "October 25, 2021"
+
 sponsors:
   keystone:
   patron:
