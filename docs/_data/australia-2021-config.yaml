@@ -17,16 +17,16 @@ photos:
 
 buttons:
   top:
-    - text: Welcome to our conference
-      link: /news/welcome
+#    - text: Welcome to our conference
+#      link: /news/welcome
 #    - text: Date and ticket information
 #      link: /news/announcing-virtual-conf-dates-tickets
     # - text: Read our conference guide
     #   link: /welcome-wagon
     # - text: See the Schedule!
     #   link: /schedule
-#    - text: Buy a Ticket!
-#      link: /tickets
+    - text: Buy a Ticket!
+      link: /tickets
     - text: Sponsor us
       link: /sponsors/prospectus
     #- text: Submit a Talk
@@ -42,8 +42,8 @@ buttons:
     # - text: Watch the videos!
     #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
   bottom:
-     - text: Welcome to our conference
-       link: /news/welcome
+#     - text: Welcome to our conference
+#       link: /news/welcome
     # - text: See the Schedule!
     #   link: /schedule
 #     - text: Date and ticket information
@@ -52,8 +52,8 @@ buttons:
        link: /sponsors/prospectus
     # - text: See the talks!
     #   link: /speakers
-#     - text: Buy a Ticket!
-#       link: /tickets
+     - text: Buy a Ticket!
+       link: /tickets
     # - text: Prepare with the Welcome Wagon
     #   link: /welcome-wagon
     # - text: See the schedule!
