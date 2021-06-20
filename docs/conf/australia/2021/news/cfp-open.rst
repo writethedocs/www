@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: June 6, 2021
+.. post:: June 20, 2021
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Announcing Call for Proposals and Ticket Sales
@@ -35,7 +35,7 @@ Opportunity Grants
 Our grant program offers tickets to people who would otherwise not be able to attend.
 We're excited to be able to offer free tickets to a larger number of people this year, since there are now minimal other costs to attend the event.
 
-You can apply until **October 15, 2021, Midnight AEDT** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
+You can apply until **October 15, 2021, Midnight AEDT** on `our website <https://www.writethedocs.org/conf/australia/2021/opportunity-grants>`_.
 
 Stay updated
 ------------

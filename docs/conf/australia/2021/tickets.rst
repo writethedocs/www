@@ -31,8 +31,6 @@ Write the Docs {{ name }} {{ year }} is a virtual conference. Each ticket includ
 * Live streaming of all talks
 * Q&A with speakers after each talk (may not be available for all speakers)
 * Access to the conference chat with all other attendees, speakers and sponsors
-* Access to the writing day
-* The virtual job fair
 
 Refund Policy
 -------------
