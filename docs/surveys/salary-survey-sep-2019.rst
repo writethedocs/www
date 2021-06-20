@@ -1,6 +1,9 @@
 Salary Survey: September 2019
 =============================
 
+.. note::
+    The survey results are in :doc:`salary-survey/2019`
+
 We're excited to launch our first ever survey,
 a Salary Survey.
 
@@ -9,7 +12,5 @@ This will help people get a better understanding of what an appropriate salary i
 and then negotiate for a better one.
 
 The survey is 21 questions broken up into 4 parts.
-Please go ahead and fill it out here: https://www.surveymonkey.com/r/wtd-salary-2019
 
-The salary will be open until **October 31st, 2019**,
-after that we will process the data and publish the anonymized results.
+The salary was open until **October 31st, 2019**.

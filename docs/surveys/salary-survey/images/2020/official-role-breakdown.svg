@@ -1,0 +1,100 @@
+<svg width="660" height="689" viewBox="0 0 660 689" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+  <![CDATA[
+    @font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
+    text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important}
+  ]]>
+</style>
+<g id="official-role-breakdown">
+<g id="Donut chart">
+<path id="Donut_1" d="M333.946 97.6682C368.716 97.6682 402.819 107.214 432.537 125.265C462.255 143.316 486.447 169.179 502.475 200.035C518.503 230.89 525.753 265.554 523.433 300.247C521.114 334.94 509.314 368.331 489.321 396.778C469.328 425.225 441.909 447.638 410.052 461.572C378.196 475.506 343.126 480.427 308.665 475.799C274.204 471.17 241.675 457.169 214.625 435.323C187.575 413.477 167.041 384.623 155.263 351.908L266.65 311.807C271.086 324.128 278.819 334.995 289.007 343.222C299.195 351.45 311.446 356.723 324.424 358.467C337.403 360.21 350.612 358.356 362.609 353.108C374.607 347.861 384.934 339.419 392.464 328.706C399.994 317.992 404.438 305.416 405.311 292.35C406.185 279.284 403.454 266.228 397.418 254.607C391.381 242.986 382.27 233.246 371.078 226.447C359.885 219.649 347.041 216.054 333.946 216.054L333.946 97.6682Z" fill="#1E73BE"/>
+<path id="Donut_2" d="M155.263 351.908C146.645 327.971 142.925 302.546 144.323 277.143C145.721 251.74 152.209 226.877 163.401 204.029C174.594 181.182 190.263 160.817 209.479 144.143C228.694 127.468 251.064 114.825 275.26 106.963L311.844 219.554C302.731 222.515 294.306 227.277 287.069 233.557C279.832 239.837 273.93 247.507 269.715 256.112C265.499 264.717 263.056 274.081 262.529 283.648C262.003 293.216 263.404 302.791 266.65 311.807L155.263 351.908Z" fill="#C066C0"/>
+<path id="Donut_3" d="M275.26 106.963C288.514 102.657 302.2 99.8224 316.074 98.511L327.215 216.371C321.99 216.865 316.835 217.933 311.844 219.554L275.26 106.963Z" fill="#FF6478"/>
+<path id="Donut_4" d="M316.074 98.511C322.015 97.9494 327.979 97.6682 333.946 97.6682V216.054C331.699 216.054 329.452 216.16 327.215 216.371L316.074 98.511Z" fill="#FFA600"/>
+</g>
+<g id="Legend">
+<g id="Frame 5">
+<g id="Frame 3">
+<g id="1 Manager">
+<rect id="Rectangle 1" x="173" y="536" width="20" height="20" fill="#1E73BE"/>
+<text id="Whole of official job description:69.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="203" y="550.582">Whole of official job description:69.5%</tspan></text>
+</g>
+<g id="3 Support">
+<rect id="Rectangle 1_2" x="173" y="567" width="20" height="20" fill="#D761B6"/>
+<text id="Part of official job description: 25.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="203" y="581.582">Part of official job description: 25.5%</tspan></text>
+</g>
+<g id="5 Outreach">
+<rect id="Rectangle 1_3" x="173" y="598" width="20" height="20" fill="#FF8541"/>
+<text id="Not officially required but expected: 3.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="203" y="612.582">Not officially required but expected: 3.5%</tspan></text>
+</g>
+<g id="5 Outreach_2">
+<rect id="Rectangle 1_4" x="173" y="629" width="20" height="20" fill="#FF8541"/>
+<text id="Not officially required and not expected: 1.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="203" y="643.582">Not officially required and not expected: 1.5%</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g id="Labels">
+<g id="Label: Whole">
+<g id="Label">
+<g id="Frame 1">
+<circle id="end point" cx="590.054" cy="468.108" r="4" transform="rotate(-180 590.054 468.108)" fill="#1E73BE"/>
+<g id="connector-frame">
+<path id="connector" d="M586.054 468.608H464.054V467.608H586.054V468.608ZM443.554 448.108V429.108H444.554V448.108H443.554ZM464.054 468.608C452.732 468.608 443.554 459.43 443.554 448.108H444.554C444.554 458.877 453.284 467.608 464.054 467.608V468.608Z" fill="#1E73BE"/>
+</g>
+</g>
+</g>
+<g id="Frame 2">
+<text id="69.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="502.127" y="455.909">69.5%</tspan></text>
+<text id="Whole" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="509.19" y="493.316">Whole</tspan></text>
+</g>
+<circle id="start point" cx="443.054" cy="440.108" r="8" transform="rotate(-180 443.054 440.108)" fill="#1E73BE"/>
+</g>
+<g id="Label: Part">
+<g id="Label_2">
+<g id="Frame 1_2">
+<circle id="end point_2" cx="20" cy="245.054" r="4" fill="#C066C0"/>
+<g id="connector-frame_2">
+<path id="connector_2" d="M23 244.554H166V245.554H23V244.554ZM186.5 265.054V294.054H185.5V265.054H186.5ZM166 244.554C177.322 244.554 186.5 253.732 186.5 265.054H185.5C185.5 254.284 176.77 245.554 166 245.554V244.554Z" fill="#C066C0"/>
+</g>
+</g>
+<circle id="start point_2" cx="152" cy="245.054" r="8" fill="#C066C0"/>
+</g>
+<g id="Frame 2_2">
+<text id="Part" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="51.8369" y="232.558">Part</tspan></text>
+<text id="25.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="35.4482" y="274.152">25.5%</tspan></text>
+</g>
+</g>
+<g id="Label: Expected">
+<g id="Label_3">
+<g id="Frame 1_3">
+<circle id="end point_3" cx="112.521" cy="72.2735" r="4" fill="#FF6478"/>
+<g id="connector-frame_3">
+<path id="connector_3" d="M116.521 71.7735H277.521V72.7735H116.521V71.7735ZM298.021 92.2735V161.274H297.021V92.2735H298.021ZM277.521 71.7735C288.842 71.7735 298.021 80.9517 298.021 92.2735H297.021C297.021 81.504 288.29 72.7735 277.521 72.7735V71.7735Z" fill="#FF6478"/>
+</g>
+</g>
+<circle id="start point_3" cx="297.521" cy="103.274" r="8" fill="#FF6478"/>
+</g>
+<g id="Frame 2_3">
+<text id="Expected" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="134.409" y="60.4237">Expected</tspan></text>
+<text id="3.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="146.941" y="102.017">3.5%</tspan></text>
+</g>
+</g>
+<g id="Label: Not Expected">
+<g id="Label_4">
+<g id="Frame 1_4">
+<circle id="end point_4" r="4" transform="matrix(-1 0 0 1 510 57)" fill="#FFA600"/>
+<g id="connector-frame_4">
+<path id="connector_4" d="M506 56.5H345V57.5H506V56.5ZM324.5 77V96H325.5V77H324.5ZM345 56.5C333.678 56.5 324.5 65.6782 324.5 77H325.5C325.5 66.2304 334.23 57.5 345 57.5V56.5Z" fill="#FFA600"/>
+</g>
+</g>
+</g>
+<g id="Frame 2_4">
+<text id="Not Expected" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="375.922" y="46.1009">Not Expected</tspan></text>
+<text id="1.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="409.053" y="87.6941">1.5%</tspan></text>
+</g>
+<ellipse id="start point_4" cx="325.5" cy="100" rx="8.5" ry="8" fill="#FFA600"/>
+</g>
+</g>
+</g>
+</svg>

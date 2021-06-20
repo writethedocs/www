@@ -87,6 +87,14 @@ Information about contributing interview content for the community.
 
    community-spotlight-interviewing-guide
     
+Salary Surveys
+--------------
+
+.. toctree::
+   :maxdepth: 2
+
+   surveys
+
 Credits
 -------
 
