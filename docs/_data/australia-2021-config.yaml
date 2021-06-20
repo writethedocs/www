@@ -25,10 +25,10 @@ buttons:
     #   link: /welcome-wagon
     # - text: See the Schedule!
     #   link: /schedule
-#    - text: Buy a Ticket!
-#      link: /tickets
-    - text: Sponsor us
-      link: /sponsors/prospectus
+    - text: Buy a Ticket!
+      link: /tickets
+#    - text: Sponsor us
+#      link: /sponsors/prospectus
     - text: Submit a Talk
       link: /cfp
     #- text: See the talks!
@@ -67,11 +67,11 @@ buttons:
 
 tickets:
   corporate:
-    price: $150
+    price: $175
   independent:
     price: $100
   student:
-    price: $50
+    price: $25
 
 sponsorship:
   first_draft:
@@ -96,7 +96,7 @@ date: # how do we handle these? human readable would be nice.
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Thursday
     talk_time: 12:00-19:00
-    unconference_time: 16:00-18:30
+    unconference_time: 15:00-17:00
     icon: conference
   day_two:
     event: Conference Day 2
@@ -111,7 +111,7 @@ date: # how do we handle these? human readable would be nice.
 about:
   attendees: 150
   summary:
-    "The main presentation track takes place during **December 2-3 (Thursday and Friday) from 12:00am to 7:00pm AEDT**.
+    "The main presentation track takes place during **December 2-3 (Thursday and Friday) from 12:00pm to 7:00pm AEDT**.
     During the main event we also run an :doc:`/conf/australia/2021/unconference`."
   venue:
     "Online, https://hopin.to/. Your login will be emailed to you before the event"
@@ -127,7 +127,7 @@ cfp:
   video_by: "November 1, 2021"   # 4 weeks before the conf
 
 grants:
-  url: https://docs.google.com/forms/d/e/1FAIpQLSfjeNFe_cJ0xbdQ5SuHiBe8RDzMrLGd_W58bWEWsCwmS0CJZw/viewform
+  url: https://docs.google.com/forms/d/e/1FAIpQLSe7IUKVckN5m-C_x9JguqwT3zt_PctyCl62yCkCf6D73be99A/viewform
   ends: "October 15, 2021"
   notification: "October 31, 2021"
 

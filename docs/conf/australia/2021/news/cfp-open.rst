@@ -4,11 +4,11 @@
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Announcing Call for Proposals and Ticket Sales
-===================================================================
+===============================================
 
 Today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/australia/{{year}}/cfp/>`_ and `ticket sales <https://www.writethedocs.org/conf/australia/{{year}}/tickets/>`_.
 
-Due to the continuing global pandemic, we are keeping the Australia and India conference online. The conference will be held on **December 2-3, 2021**.
+Due to the continuing global pandemic, we are keeping the Australia and India conference online this year as well. The conference will be held on **December 2-3, 2021**.
 The Call for Proposals will be open for two months. We know that it hasn't been an easy year. Nevertheless, we'd love to see you on our online stage in December, to share your ideas with our inspiring community of documentarians.
 
 If there is something you’d really like to see a talk about this year, submit a proposal for it or refer someone else who would be good!
@@ -27,7 +27,7 @@ The Call for Proposals will be open until **Midnight {{tz}} on {{cfp.ends}}**..
 Tickets
 -------
 
-Tickets are now on sale! Take a look at the new prices for the online conference on our `Tickets <https://www.writethedocs.org/conf/australia/{{year}}/tickets/>`_ page.
+Tickets are now on sale! Take a look at the new prices for the online conference on our `Tickets <https://www.writethedocs.org/conf/australia/{{year}}/tickets/>`_ page. We have made it even more affordable for students and unemployed documentarians to be a part of this conference this year.
 
 Opportunity Grants
 -------------------
