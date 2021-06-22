@@ -31,7 +31,7 @@ Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
-* **When**: **11:30am-7:00pm AEDT**
+* **When**: **12:00pm-7:00pm AEDT**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 .. separator to fix list formatting
@@ -52,7 +52,7 @@ Unconference
 The unconference sessions run in the second half of the day.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **3:30pm-6:00pm AEDT**
+* **When**: **3:00pm-5:00pm AEDT**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 Thursday Night Social
@@ -82,7 +82,7 @@ Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
-* **When**: **11:30am-7:15pm AEDT**
+* **When**: **12:00pm-6:00pm AEDT**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 .. separator to fix list formatting
@@ -105,5 +105,5 @@ Unconference
 The unconference sessions run in the second half of the day.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **3:45pm-6:15pm AEDT**
+* **When**: **3:00pm-5:00pm AEDT**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
