@@ -13,7 +13,7 @@ Today we're happy to announce that we launched our T-Shirt Pop-Up Shop (for a li
 Shirts on sale
 --------------
 
-The `Write the Docs Prague 2021 Pop-Up Shop <https://teespring.com/wtd-prague-2021>`_ is open, and starting this year we updated the logo to include the year of the conference. You can order loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.
+The `Write the Docs Prague 2021 Pop-Up Shop <https://shirt.writethedocs.org>`_ is open, and starting this year we updated the logo to include the year of the conference. You can order loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.
 
 The campaign will run in 3-day batches until November 1st. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.
 
