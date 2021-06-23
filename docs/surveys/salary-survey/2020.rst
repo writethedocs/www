@@ -28,7 +28,7 @@ a section about the impact of the COVID-19 pandemic.
 
 This year, while our respondents specified the currency they were paid
 in, all numbers in this report have been converted to US dollars for
-ease of comparison.
+ease of comparison, and the actual exchange rate used has been noted.
 
 .. _h.mi2wl72iecns:
 
@@ -1002,6 +1002,82 @@ constitutes a “fair” salary.
 .. _h.9aqux01xcsln:
 
 Note: median figures are not broken out for countries with fewer than 10 responses.
+
+Currencies
+^^^^^^^^^^
+
+Respondents reported being paid in a total of 31 different countries. Where the location country of the respondent and the location country of the employer organization were different, in most cases the respondent was paid in the currency of the country where they were located (possibly for legal reasons). There were 21 individual exceptions to this rule, with some respondents located in Ukraine, Romania, Serbia, Belarus, Canada, Argentina, Vietnam and Colombia being paid in the currency of their employer's country.
+
+The exact exchange rates used to convert the salary figures to USD are listed in the table below.
+
+.. table:: Exchange Rate to 1 USD, as of November 2020
+   :widths: 50 25 25 
+   
+   +----------+----------+-----+
+   | Currency | Rate     | No. |
+   +==========+==========+=====+
+   | USD      | 1        | 370 |
+   +----------+----------+-----+
+   | EUR      | 1.19     | 77  |
+   +----------+----------+-----+
+   | NIS      | 0.3      | 47  |
+   +----------+----------+-----+
+   | CAD      | 0.77     | 46  |
+   +----------+----------+-----+
+   | AUD      | 0.74     | 40  |
+   +----------+----------+-----+
+   | GBP      | 1.34     | 34  |
+   +----------+----------+-----+
+   | INR      | 0.014    | 30  |
+   +----------+----------+-----+
+   | PLN      | 0.27     | 28  |
+   +----------+----------+-----+
+   | BRL      | 0.19     | 14  |
+   +----------+----------+-----+
+   | RUB      | 0.013    | 10  |
+   +----------+----------+-----+
+   | SEK      | 0.12     | 5   |
+   +----------+----------+-----+
+   | CZK      | 0.046    | 3   |
+   +----------+----------+-----+
+   | RON      | 0.24     | 3   |
+   +----------+----------+-----+
+   | NZD      | 0.7      | 2   |
+   +----------+----------+-----+
+   | ZAR      | 0.066    | 2   |
+   +----------+----------+-----+
+   | KRW      | 0.0009   | 2   |
+   +----------+----------+-----+
+   | IDR      | 0.000071 | 2   |
+   +----------+----------+-----+
+   | NTD      | 0.035    | 1   |
+   +----------+----------+-----+
+   | UAH      | 0.035    | 1   |
+   +----------+----------+-----+
+   | KES      | 0.0091   | 1   |
+   +----------+----------+-----+
+   | PHP      | 0.021    | 1   |
+   +----------+----------+-----+
+   | JPY      | 0.0096   | 1   |
+   +----------+----------+-----+
+   | NOK      | 0.11     | 1   |
+   +----------+----------+-----+
+   | HKD      | 0.13     | 1   |
+   +----------+----------+-----+
+   | PKR      | 0.0063   | 1   |
+   +----------+----------+-----+
+   | HUF      | 0.0033   | 1   |
+   +----------+----------+-----+
+   | MXN      | 0.05     | 1   |
+   +----------+----------+-----+
+   | HRK      | 0.16     | 1   |
+   +----------+----------+-----+
+   | BDT      | 0.012    | 1   |
+   +----------+----------+-----+
+   | CHF      | 1.1      | 1   |
+   +----------+----------+-----+
+   | DKK      | 0.16     | 1   |
+   +----------+----------+-----+
 
 .. _h.uv7bee10mpdu:
 
