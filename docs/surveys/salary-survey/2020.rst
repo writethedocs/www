@@ -1012,6 +1012,7 @@ The exact exchange rates used to convert the salary figures to USD are listed in
 
 .. table:: Exchange Rate (to 1 USD) as of Nov 2020
    :widths: 55 15 15 15 
+   :name: tbl-currencies
    
    +----------------------+------+----------+-----+
    | Currency             | Code | Rate     | No. |
