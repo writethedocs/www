@@ -7,6 +7,13 @@
 Write the Docs Salary Survey 2020 Results
 =========================================
 
+
+.. contents::
+   :local:
+   :depth: 2
+   :backlinks: none
+
+
 .. _h.rkx3h8wib5m0:
 
 Introduction
@@ -1424,7 +1431,7 @@ themes were:
 .. _h.qtod9j3w960q:
 
 Salary - Independent Contractors, Freelancers, and Self-Employed
-----------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Due to the low number of responses and danger of exposing identifiable data, salary data for independent contractors, freelancers and the self-employed could not be calculated in the same way as for employees. Data for this section will be released in a report update once it has been processed. 
 
