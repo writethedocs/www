@@ -191,6 +191,8 @@ of all respondents - but nearly double that (63% of respondents) entered
 job titles that included that phrase.    
 
 .. table::  Top Job Titles (including “technical writer”)
+   :width: 80%
+   :name: tbl-top-titles-inc
 
    +------------------------------+------------+
    | Job Title                    | % of total |
@@ -217,6 +219,9 @@ job titles that included that phrase.    
    +------------------------------+------------+
 
 .. table:: Top Job Titles (excluding “technical writer”)
+   :width: 80%
+   :name: tbl-top-titles-excl
+
 
    +------------------------------+------------+
    | Job Title                    | % of total |
@@ -607,6 +612,8 @@ were now partially onsite and partially remote. Only 3% were now working
 onsite.
 
 .. table:: Work Location Changes due to COVID-19
+   :width: 100%
+   :name: tbl-covid-changes-location
 
    +-----------------------+-----------------------+------------+
    | Pre-COVID-19          | Post-COVID-19         | % of Total |
@@ -772,6 +779,8 @@ Other Changes Due to COVID-19
 -  2.7% changed roles within the same organization.
 
 .. table:: COVID-19 Changes (other than work location)
+   :width: 80%
+   :name: tbl-covid-changes-other
 
    +----------------------------------+-------------+
    | Change                           |  % of Total |
@@ -928,6 +937,8 @@ constitutes a “fair” salary.
 
 .. table:: Median Salary by Region/Country of Employee
    :widths: 25 25 15 35
+   :width: 100%
+   :name: tbl-median-salary-country-employee
 
    +---------------+------------+----------------------------------------+----------------------+
    | Region        | Sub-region | No.                                    |  Median Salary (USD) |
@@ -964,6 +975,8 @@ constitutes a “fair” salary.
 
 .. table:: Median Salary by Region/Country of Employer
    :widths: 25 25 15 35
+   :width: 100%
+   :name: tbl-median-salary-country-employer
    
    +---------------+------------+----------------------+---------------------+
    | Region        | Sub-region | No.                  | Median Salary (USD) |
@@ -1012,6 +1025,7 @@ The exact exchange rates used to convert the salary figures to USD are listed in
 
 .. table:: Exchange Rate (to 1 USD) as of Nov 2020
    :widths: 55 15 15 15 
+   :width: 100%
    :name: tbl-currencies
    
    +----------------------+------+----------+-----+
@@ -1134,6 +1148,8 @@ live.
 
 .. table:: Additional Employee Benefits
    :widths: 80 20
+   :width: 100%
+   :name: tbl-additional-benefits-employees
 
    +-----------------------------------------------------------------------------------------------+------------------+
    | Benefit                                                                                       | % of Total       |
@@ -1249,6 +1265,8 @@ with their salary and/or benefits, 127 did not specify a reason.
 
 .. table:: Reasons for Salary Dissatisfaction (Employees)
    :widths: 70 30
+   :width: 100%
+   :name: tbl-salary-dissatisfaction-reasons-employees
 
    +-----------------------------------------------------------------------+--------------------------------+
    | Reason                                                                |  % of dissatisfied             |
@@ -1349,6 +1367,8 @@ reason for dissatisfaction.
 
 .. table:: Reasons for Overall Dissatisfaction (Employees)
    :widths: 70 30
+   :width: 100%
+   :name: tbl-overall-dissatisfaction-reasons-employees
 
    +----------------------------------------------------------------+--------------------------------+
    | Reason                                                         |  % of dissatisfied             |
@@ -1549,6 +1569,8 @@ entered field could be mapped to one of the categories listed.
 --------------
 
 .. table:: All Organization Industries
+   :width: 100%
+   :name: tbl-org-industries
 
    +--------------------------------------------------------------------------+------------+
    | Industry                                                                 | % of Total |
@@ -1872,6 +1894,8 @@ appeared as new countries in the result set.
 
 .. table:: Top Geographical Locations - North America
    :widths: 30 30 30 10
+   :width: 100%
+   :name: tbl-top-geo-north-america
 
    +---------------+------------------+---------------+--------------------+
    | Country       | State/Province   | City          | No.                |
@@ -1911,6 +1935,8 @@ appeared as new countries in the result set.
 
 .. table:: Top Geographical Locations - Europe
    :widths: 50 40 10
+   :width: 100%
+   :name: tbl-top-geo-europe
 
    +----------------+---------+--------------------+
    | Country        | City    | No.                |
@@ -1946,6 +1972,8 @@ appeared as new countries in the result set.
 
 .. table:: Top Geographical Locations - Other Regions
    :widths: 30 30 30 10
+   :width: 100%
+   :name: tbl-top-geo-other
 
    +---------------------------+-----------+-----------+--------------------+
    | Region                    | Country   | City      | No.                |
