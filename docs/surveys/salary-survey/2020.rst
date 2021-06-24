@@ -1570,6 +1570,7 @@ entered field could be mapped to one of the categories listed.
 
 .. table:: All Organization Industries
    :width: 100%
+   :widths: 80 20
    :name: tbl-org-industries
 
    +--------------------------------------------------------------------------+------------+
