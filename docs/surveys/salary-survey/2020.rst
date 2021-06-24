@@ -7,6 +7,13 @@
 Write the Docs Salary Survey 2020 Results
 =========================================
 
+
+.. contents::
+   :local:
+   :depth: 2
+   :backlinks: none
+
+
 .. _h.rkx3h8wib5m0:
 
 Introduction
@@ -28,7 +35,7 @@ a section about the impact of the COVID-19 pandemic.
 
 This year, while our respondents specified the currency they were paid
 in, all numbers in this report have been converted to US dollars for
-ease of comparison.
+ease of comparison, and the actual exchange rate used has been noted.
 
 .. _h.mi2wl72iecns:
 
@@ -191,6 +198,8 @@ of all respondents - but nearly double that (63% of respondents) entered
 job titles that included that phrase.    
 
 .. table::  Top Job Titles (including “technical writer”)
+   :width: 80%
+   :name: tbl-top-titles-inc
 
    +------------------------------+------------+
    | Job Title                    | % of total |
@@ -217,6 +226,9 @@ job titles that included that phrase.    
    +------------------------------+------------+
 
 .. table:: Top Job Titles (excluding “technical writer”)
+   :width: 80%
+   :name: tbl-top-titles-excl
+
 
    +------------------------------+------------+
    | Job Title                    | % of total |
@@ -607,6 +619,8 @@ were now partially onsite and partially remote. Only 3% were now working
 onsite.
 
 .. table:: Work Location Changes due to COVID-19
+   :width: 100%
+   :name: tbl-covid-changes-location
 
    +-----------------------+-----------------------+------------+
    | Pre-COVID-19          | Post-COVID-19         | % of Total |
@@ -772,6 +786,8 @@ Other Changes Due to COVID-19
 -  2.7% changed roles within the same organization.
 
 .. table:: COVID-19 Changes (other than work location)
+   :width: 80%
+   :name: tbl-covid-changes-other
 
    +----------------------------------+-------------+
    | Change                           |  % of Total |
@@ -928,6 +944,8 @@ constitutes a “fair” salary.
 
 .. table:: Median Salary by Region/Country of Employee
    :widths: 25 25 15 35
+   :width: 100%
+   :name: tbl-median-salary-country-employee
 
    +---------------+------------+----------------------------------------+----------------------+
    | Region        | Sub-region | No.                                    |  Median Salary (USD) |
@@ -964,6 +982,8 @@ constitutes a “fair” salary.
 
 .. table:: Median Salary by Region/Country of Employer
    :widths: 25 25 15 35
+   :width: 100%
+   :name: tbl-median-salary-country-employer
    
    +---------------+------------+----------------------+---------------------+
    | Region        | Sub-region | No.                  | Median Salary (USD) |
@@ -1002,6 +1022,84 @@ constitutes a “fair” salary.
 .. _h.9aqux01xcsln:
 
 Note: median figures are not broken out for countries with fewer than 10 responses.
+
+Currencies
+^^^^^^^^^^
+
+Respondents reported being paid in a total of 31 different currencies. Where the location country of the respondent and the location country of the employer organization were different, in most cases the respondent was paid in the currency of their location country (possibly for legal reasons, in many cases). There were 21 individual exceptions to this rule, with some respondents located in Ukraine, Romania, Serbia, Belarus, Canada, Argentina, Vietnam and Colombia being paid in the currency of their employer's country.
+
+The exact exchange rates used to convert the salary figures to USD are listed in the table below.
+
+.. table:: Exchange Rate (to 1 USD) as of Nov 2020
+   :widths: 55 15 15 15 
+   :width: 100%
+   :name: tbl-currencies
+   
+   +----------------------+------+-----+----------+
+   | Currency             | Code | No. | Rate     |
+   +======================+======+=====+==========+
+   | United States Dollar | USD  | 370 | 1        |
+   +----------------------+------+-----+----------+
+   | Euro                 | EUR  | 77  | 1.19     |
+   +----------------------+------+-----+----------+
+   | New Israeli Sheqel   | ILS  | 47  | 0.3      |
+   +----------------------+------+-----+----------+
+   | Canadian Dollar      | CAD  | 46  | 0.77     |
+   +----------------------+------+-----+----------+
+   | Australian Dollar    | AUD  | 40  | 0.74     |
+   +----------------------+------+-----+----------+
+   | Great Britain Pound  | GBP  | 34  | 1.34     |
+   +----------------------+------+-----+----------+
+   | Indian Rupee         | INR  | 30  | 0.014    |
+   +----------------------+------+-----+----------+
+   | Polish Zloty         | PLN  | 28  | 0.27     |
+   +----------------------+------+-----+----------+
+   | Brazilian Real       | BRL  | 14  | 0.19     |
+   +----------------------+------+-----+----------+
+   | Russian Ruble        | RUB  | 10  | 0.013    |
+   +----------------------+------+-----+----------+
+   | Swedish Krona        | SEK  | 5   | 0.12     |
+   +----------------------+------+-----+----------+
+   | Czech Koruna         | CZK  | 3   | 0.046    |
+   +----------------------+------+-----+----------+
+   | Romanian Leu         | RON  | 3   | 0.24     |
+   +----------------------+------+-----+----------+
+   | New Zealand Dollar   | NZD  | 2   | 0.7      |
+   +----------------------+------+-----+----------+
+   | Rand                 | ZAR  | 2   | 0.066    |
+   +----------------------+------+-----+----------+
+   | Korean Wan           | KRW  | 2   | 0.0009   |
+   +----------------------+------+-----+----------+
+   | Indonesian Rupiah    | IDR  | 2   | 0.000071 |
+   +----------------------+------+-----+----------+
+   | New Taiwan Dollar    | TWD  | 1   | 0.035    |
+   +----------------------+------+-----+----------+
+   | Ukrainian Hryvnia    | UAH  | 1   | 0.035    |
+   +----------------------+------+-----+----------+
+   | Kenyan Shilling      | KES  | 1   | 0.0091   |
+   +----------------------+------+-----+----------+
+   | Philippine Peso      | PHP  | 1   | 0.021    |
+   +----------------------+------+-----+----------+
+   | Japanese Yen         | JPY  | 1   | 0.0096   |
+   +----------------------+------+-----+----------+
+   | Norwegian Krone      | NOK  | 1   | 0.11     |
+   +----------------------+------+-----+----------+
+   | Hong Kong Dollar     | HKD  | 1   | 0.13     |
+   +----------------------+------+-----+----------+
+   | Pakistan Rupee       | PKR  | 1   | 0.0063   |
+   +----------------------+------+-----+----------+
+   | Hungarian Forint     | HUF  | 1   | 0.0033   |
+   +----------------------+------+-----+----------+
+   | Mexican Peso         | MXN  | 1   | 0.05     |
+   +----------------------+------+-----+----------+
+   | Croatian Kuna        | HRK  | 1   | 0.16     |
+   +----------------------+------+-----+----------+
+   | Bangladeshi Taka     | BDT  | 1   | 0.012    |
+   +----------------------+------+-----+----------+
+   | Swiss Franc          | CHF  | 1   | 1.1      |
+   +----------------------+------+-----+----------+
+   | Danish Krone         | DKK  | 1   | 0.16     |
+   +----------------------+------+-----+----------+
 
 .. _h.uv7bee10mpdu:
 
@@ -1057,6 +1155,8 @@ live.
 
 .. table:: Additional Employee Benefits
    :widths: 80 20
+   :width: 100%
+   :name: tbl-additional-benefits-employees
 
    +-----------------------------------------------------------------------------------------------+------------------+
    | Benefit                                                                                       | % of Total       |
@@ -1172,6 +1272,8 @@ with their salary and/or benefits, 127 did not specify a reason.
 
 .. table:: Reasons for Salary Dissatisfaction (Employees)
    :widths: 70 30
+   :width: 100%
+   :name: tbl-salary-dissatisfaction-reasons-employees
 
    +-----------------------------------------------------------------------+--------------------------------+
    | Reason                                                                |  % of dissatisfied             |
@@ -1272,6 +1374,8 @@ reason for dissatisfaction.
 
 .. table:: Reasons for Overall Dissatisfaction (Employees)
    :widths: 70 30
+   :width: 100%
+   :name: tbl-overall-dissatisfaction-reasons-employees
 
    +----------------------------------------------------------------+--------------------------------+
    | Reason                                                         |  % of dissatisfied             |
@@ -1327,7 +1431,7 @@ themes were:
 .. _h.qtod9j3w960q:
 
 Salary - Independent Contractors, Freelancers, and Self-Employed
-----------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Due to the low number of responses and danger of exposing identifiable data, salary data for independent contractors, freelancers and the self-employed could not be calculated in the same way as for employees. Data for this section will be released in a report update once it has been processed. 
 
@@ -1472,6 +1576,9 @@ entered field could be mapped to one of the categories listed.
 --------------
 
 .. table:: All Organization Industries
+   :width: 100%
+   :widths: 80 20
+   :name: tbl-org-industries
 
    +--------------------------------------------------------------------------+------------+
    | Industry                                                                 | % of Total |
@@ -1795,6 +1902,8 @@ appeared as new countries in the result set.
 
 .. table:: Top Geographical Locations - North America
    :widths: 30 30 30 10
+   :width: 100%
+   :name: tbl-top-geo-north-america
 
    +---------------+------------------+---------------+--------------------+
    | Country       | State/Province   | City          | No.                |
@@ -1834,6 +1943,8 @@ appeared as new countries in the result set.
 
 .. table:: Top Geographical Locations - Europe
    :widths: 50 40 10
+   :width: 100%
+   :name: tbl-top-geo-europe
 
    +----------------+---------+--------------------+
    | Country        | City    | No.                |
@@ -1869,6 +1980,8 @@ appeared as new countries in the result set.
 
 .. table:: Top Geographical Locations - Other Regions
    :widths: 30 30 30 10
+   :width: 100%
+   :name: tbl-top-geo-other
 
    +---------------------------+-----------+-----------+--------------------+
    | Region                    | Country   | City      | No.                |
