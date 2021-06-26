@@ -9,36 +9,96 @@ Some content that used to live on this page has moved. See:
 - [Accessibility guidelines](https://www.writethedocs.org/guide/writing/accessibility)
 - [Reducing bias in your writing](https://www.writethedocs.org/guide/writing/reducing-bias)
 
+## Structure of this page
+
+- General style guide information and examples
+- Writing for accessibility
+- Including anti-bias information in style guides
+- Style guides and resources for specific content formats
+
 ## Write your own style guide?
 
 A style guide can be something as simple as a list of decisions you've made about how to refer to different items you frequently write about. Or it can be as complicated as the mighty tomes of major publication houses.
 
 You can certainly create a style guide of your own. For the sake of simplicity, this approach might work if you're a lone writer or just starting a small docs group. But neither software nor its documentation operates in a vacuum, so it's a good idea to consult other resources as well. Working from an existing style guide can also help you figure out which things matter in your style guide.
 
-## Style guide resources
+### How-to articles for writing a style guide
+
+- [Creative Blog — Create a website style guide](http://www.creativebloq.com/design/create-website-style-guide-6123030)
+- [Gather Content — Developing a Content style guide](http://blog.gathercontent.com/tone-of-voice-guide)
+- [HubSpot — How to Create a Writing style guide Built for the Web](http://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx)
+- [Meet Content — Editorial Style for the Web](http://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
+- [Stanford — Creating a web style guide](https://swsblog.stanford.edu/blog/creating-web-style-guide-cardinal-work)
+- [Techwhirl – Developing a Style Guide for Technical Publications](http://techwhirl.com/developing-a-departmental-style-guide/)
+
+## Traditional writing style guide resources
 
 Style guides have been around for as long as people have been publishing in any format. Traditional style guides originally intended for specific forms of print publication have become basic standards for many others to refer to, including documentarians:
 
 - The [AP Stylebook](https://www.apstylebook.com/)
 - The [Chicago Manual of Style](http://www.chicagomanualofstyle.org/book/ed17/frontmatter/toc.html)
 
-Classic style guides for software documentation include:
+Additional books on writing:
+
+- [The Sense of Style](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century)
+- [Stylish Academic Writing](https://www.hup.harvard.edu/catalog.php?isbn=9780674064485)
+
+## Sample writing guides
+
+Classics for software documentation include:
 
 - [Apple Style Guide](https://help.apple.com/applestyleguide/)
 - [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
 
-Other useful resources:
+### More enterprise software style guides
 
-- [18F US Government Content Guide](https://content-guide.18f.gov)
-- [DigitalOcean Documentation Style Guide](https://docs.digitalocean.com/style/)
-- [Google developer documentation style guide](https://developers.google.com/style)
-- [gnome Documentation Style Guide](https://developer.gnome.org/gdp-style-guide/2.32/gdp-style-guide.html)
-- [MongoDB Style Guide](https://docs.mongodb.com/meta/style-guide/)
-- [Rackspace Style Guide for Technical Content](https://docs.rackspace.com/docs/style-guide/)
-- [Salesforce Style Guide for Documentation and User Interface Text](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm)
-- [SUSE Documentation Style Guide](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
-- [The Red Hat Style Guide](http://stylepedia.net/style/)
-- [Voice and Tone guidelines -- Mailchimp](https://styleguide.mailchimp.com/voice-and-tone/)
+- [Google developer documentation](https://developers.google.com/style)
+- [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm)
+- [Rackspace](https://docs.rackspace.com/docs/style-guide/)
+- [Mailchimp](https://styleguide.mailchimp.com/)
+- [Quickbooks](https://designsystem.quickbooks.com/content/)
+- [Intuit](https://contentdesign.intuit.com/)
+- [Adobe](https://spectrum.adobe.com/page/grammar-and-mechanics/)
+
+### Style guides from government and education
+
+- [18F Content Guide](https://content-guide.18f.gov)
+- [Writing for gov.uk](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
+- [Princeton Editorial Style Guide](https://communications.princeton.edu/guides-tools/princeton-editorial-style-guide)
+
+
+### Style guides from open source projects
+
+- [The Red Hat Style Guide](http://stylepedia.net/style/)	
+- [Open SUSE Style Guide](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
+- [gnome Style Guide](https://developer.gnome.org/gdp-style-guide/2.32/gdp-style-guide.html)
+
+
+## Thinking about accessibility and bias
+
+It's important to consider accessibility and biases in your style guide to ensure that all readers can understand the content you produce. 
+
+### Writing for accessibility
+
+Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
+
+- [Atlassian Design System - Inclusive writing reference](https://atlassian.design/content/inclusive-writing)
+- [MailChimp's writing style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
+- [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
+- [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bitsofcode
+- [Microsoft Style Guide Accessibility Terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)
+
+
+Relevant talks from Write the Docs:
+
+- [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write the Docs Prague 2018
+- [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015
+
+### Reducing bias in your writing
+
+You can reduce bias in your writing by considering the meanings and origins of your word choices and how those might be perceived or understood by your readers.
+Even thinking twice about what example user names you include in your documentation can significantly reduce bias in your documentation.
+Fortunately, resources are increasingly available to help you with this kind of attention to your writing.
 
 Relevant talk from Write the Docs:
 
@@ -205,14 +265,3 @@ Related resources:
 - [How to Write Good Error Messages -– UX Planet](https://uxplanet.org/how-to-write-good-error-messages-858e4551cd4)
 - [How to write better error messages –- opensource.com](https://opensource.com/article/17/8/write-effective-error-messages)
 - [How to write better error messages for databases -- PostgreSQL](https://www.postgresql.org/docs/current/error-style-guide.html)
-
-## Other style resources
-
-Rather than reinvent the wheel, here are some resources curated by [Ivan Walsh](http://www.ihearttechnicalwriting.com/style-guide-technical-writing/) (Kudos!):
-
-- [How to create a style guide: 25 expert tips for designers -- Creative Bloq](https://www.creativebloq.com/design/create-style-guides-1012963)
-- [Content style guides: A complete process to develop your own -- Gather Content](http://blog.gathercontent.com/tone-of-voice-guide)
-- [How to Create a Writing style guide Built for the Web -- HubSpot](http://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx)
-- [Editorial Style for the Web -- Meet Content](http://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
-- [Creating a web style guide -- Stanford Web Services Blog](https://swsblog.stanford.edu/blog/creating-web-style-guide-cardinal-work)
-- [Developing a Departmental Style Guide -- Techwhirl](http://techwhirl.com/developing-a-departmental-style-guide/)
