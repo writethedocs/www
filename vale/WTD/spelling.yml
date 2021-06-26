@@ -1,0 +1,15 @@
+extends: spelling
+message: "'%s' might be a typo"
+filters:
+  - 'config'
+  - 'rst'
+  - 'na'
+  - 'eu'
+  - 'au'
+  - 'tz'
+  - 'png'
+  - 'svg'
+  - 'www'
+  - 'https'
+  - 'http'
+  - 'dev'
