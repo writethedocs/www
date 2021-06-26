@@ -6,7 +6,7 @@ A style guide saves documentarians time and trouble by providing a single refere
 The guidelines in a style guide help writers to produce documentation that has the same tone and grammatical style, regardless of who writes the documentation.
 A consistent tone and style can make your content easier to read by reducing your users' [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) and increasing their confidence in the content's authority. 
 
-## Overall structure of this page (WIP)
+## Structure of this page
 
 - General style guide information and examples
 - Writing for accessibility
@@ -48,7 +48,7 @@ Classics for software documentation include:
 - [IBM style guide](https://www.ibm.com/developerworks/library/styleguidelines/)
 - [Apple Style Guide](https://help.apple.com/applestyleguide/)
 
-### More style guides from commercial organizations
+### More enterprise software style guides
 
 - [Google developer documentation](https://developers.google.com/style)
 - [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm)
@@ -226,5 +226,4 @@ Related talks:
 ### Tutorials / How-To
 
 ### Concepts, Overview
-
 
