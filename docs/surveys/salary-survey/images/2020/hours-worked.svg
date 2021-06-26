@@ -1,0 +1,100 @@
+<svg width="660" height="662" viewBox="0 0 660 662" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+  <![CDATA[
+    @font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
+    text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important}
+  ]]>
+</style>
+<g id="hours-worked">
+<g id="donut chart: hours worked">
+<path id="Donut_1" d="M329.5 99C356.687 99 383.566 104.759 408.367 115.897C433.167 127.036 455.327 143.301 473.388 163.623C491.448 183.945 504.999 207.861 513.148 233.798C521.298 259.735 523.861 287.104 520.668 314.103C517.476 341.103 508.601 367.119 494.627 390.44C480.654 413.762 461.899 433.859 439.597 449.408C417.295 464.957 391.953 475.606 365.239 480.653C338.524 485.701 311.043 485.032 284.606 478.692L312.592 362.001C322.549 364.389 332.899 364.641 342.96 362.74C353.021 360.839 362.566 356.828 370.965 350.972C379.364 345.116 386.428 337.547 391.691 328.763C396.954 319.98 400.296 310.181 401.498 300.013C402.701 289.844 401.736 279.537 398.666 269.768C395.597 260 390.493 250.992 383.692 243.339C376.89 235.685 368.544 229.559 359.203 225.364C349.863 221.169 339.739 219 329.5 219L329.5 99Z" fill="#1E73BE"/>
+<path id="Donut_2" d="M284.606 478.692C246.719 469.605 212.482 449.237 186.418 420.278C160.354 391.319 143.691 355.132 138.63 316.502C133.57 277.871 140.351 238.613 158.077 203.918C175.803 169.223 203.64 140.724 237.908 122.186L295.004 227.732C282.098 234.714 271.614 245.448 264.938 258.515C258.262 271.582 255.708 286.367 257.614 300.916C259.52 315.465 265.796 329.094 275.612 340.001C285.428 350.907 298.323 358.579 312.592 362.001L284.606 478.692Z" fill="#C066C0"/>
+<path id="Donut_3" d="M237.908 122.186C253.876 113.548 270.986 107.212 288.729 103.367L314.145 220.645C307.462 222.093 301.018 224.479 295.004 227.732L237.908 122.186Z" fill="#FF6478"/>
+<path id="Donut_4" d="M288.729 103.367C302.125 100.464 315.793 99 329.5 99V219C324.338 219 319.19 219.551 314.145 220.645L288.729 103.367Z" fill="#FFA600"/>
+</g>
+<g id="Legend">
+<g id="Label 1">
+<rect id="Rectangle 1" x="361" y="610" width="20" height="20" fill="#FFA600"/>
+<text id="Over 50 hours: 3.4%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="391" y="624.582">Over 50 hours: 3.4%</tspan></text>
+</g>
+<g id="Label 2">
+<rect id="Rectangle 1_2" x="361" y="579" width="20" height="20" fill="#FF6478"/>
+<text id="Under 30 hours: 4.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="391" y="593.582">Under 30 hours: 4.5%</tspan></text>
+</g>
+<g id="Label 3">
+<rect id="Rectangle 1_3" x="152" y="610" width="20" height="20" fill="#C066C0"/>
+<text id="41-50 hours: 38.4%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="182" y="624.582">41-50 hours: 38.4%</tspan></text>
+</g>
+<g id="Label 4">
+<rect id="Rectangle 1_4" x="152" y="579" width="20" height="20" fill="#1E73BE"/>
+<text id="31-40 hours: 53.8%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="182" y="593.582">31-40 hours: 53.8%</tspan></text>
+</g>
+</g>
+<g id="Label: 31-40 hours">
+<g id="Label">
+<g id="Frame 1">
+<circle id="end point" cx="626" cy="493" r="4" transform="rotate(-180 626 493)" fill="#1E73BE"/>
+<g id="connector-frame">
+<path id="connector" d="M622 493.5H461V492.5H622V493.5ZM440.5 473V454H441.5V473H440.5ZM461 493.5C449.678 493.5 440.5 484.322 440.5 473H441.5C441.5 483.77 450.23 492.5 461 492.5V493.5Z" fill="#1E73BE"/>
+</g>
+</g>
+<circle id="start point" cx="441" cy="446" r="8" transform="rotate(-180 441 446)" fill="#1E73BE"/>
+</g>
+<g id="Frame 2">
+<g id="53.8%">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="523.572" y="482.071">53.8</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="574.176" y="482.071">%</tspan></text>
+</g>
+<text id="31-40 hours" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="506.717" y="519.478">31-40 hours</tspan></text>
+</g>
+</g>
+<g id="Label: 41-50 hours">
+<g id="Frame 2_2">
+<g id="38.4%">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="60.5898" y="475.071">38.4</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="112.158" y="475.071">%</tspan></text>
+</g>
+<text id="41-50 hours" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="44.4512" y="512.478">41-50 hours</tspan></text>
+</g>
+<g id="Label_2">
+<g id="Frame 1_2">
+<circle id="end point_2" r="4" transform="matrix(1 0 0 -1 24 487)" fill="#C066C0"/>
+<g id="connector-frame_2">
+<path id="connector_2" d="M28 487.5H189V486.5H28V487.5ZM209.5 467V448H208.5V467H209.5ZM189 487.5C200.322 487.5 209.5 478.322 209.5 467H208.5C208.5 477.77 199.77 486.5 189 486.5V487.5Z" fill="#C066C0"/>
+</g>
+</g>
+<circle id="start point_2" r="8" transform="matrix(1 0 0 -1 209 440)" fill="#C066C0"/>
+</g>
+</g>
+<g id="Label: Under 30 hours">
+<g id="Label_3">
+<g id="Frame 1_3">
+<circle id="end point_3" cx="77" cy="67" r="4" fill="#FF6478"/>
+<g id="connector-frame_3">
+<path id="connector_3" d="M81 66.5H242V67.5H81V66.5ZM262.5 87V106H261.5V87H262.5ZM242 66.5C253.322 66.5 262.5 75.6782 262.5 87H261.5C261.5 76.2304 252.77 67.5 242 67.5V66.5Z" fill="#FF6478"/>
+</g>
+</g>
+<circle id="start point_3" cx="262" cy="114" r="8" fill="#FF6478"/>
+</g>
+<g id="Frame 2_3">
+<text id="Under 30 hours" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="81.7832" y="55.4775">Under 30 hours</tspan></text>
+<text id="4.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="123.151" y="97.0708">4.5%</tspan></text>
+</g>
+</g>
+<g id="Label: Over 50 hours">
+<g id="Label_4">
+<g id="Frame 1_4">
+<circle id="end point_4" r="4" transform="matrix(-1 0 0 1 493 56)" fill="#FFA600"/>
+<g id="connector-frame_4">
+<path id="connector_4" d="M489 55.5H328V56.5H489V55.5ZM307.5 76V95H308.5V76H307.5ZM328 55.5C316.678 55.5 307.5 64.6782 307.5 76H308.5C308.5 65.2304 317.23 56.5 328 56.5V55.5Z" fill="#FFA600"/>
+</g>
+</g>
+<circle id="start point_4" r="8" transform="matrix(-1 0 0 1 308 103)" fill="#FFA600"/>
+</g>
+<g id="Frame 2_4">
+<text id="Over 50 hours" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="349.824" y="46.4775">Over 50 hours</tspan></text>
+<text id="3.4%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="383.847" y="88.0708">3.4%</tspan></text>
+</g>
+</g>
+</g>
+</svg>

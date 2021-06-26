@@ -5,15 +5,16 @@ We support our community in a variety of ways, and you can choose to focus
 your sponsorship on any one of them, at a level that suits you:
 
 * Our conferences each have their own sponsorship prospectus
-    - Our :doc:`Prague online conference </conf/prague/2020/sponsors/prospectus>`
-    - Our :doc:`Australia+India online conference </conf/australia/2020/sponsors/prospectus>`
+    - Our :doc:`Portland conference </conf/portland/2021/sponsors/prospectus>`
+    - Our :doc:`Prague online conference </conf/prague/2021/sponsors/prospectus>`
+    - Our :doc:`Australia & India online conference </conf/australia/2021/sponsors/prospectus>`
 * Our :doc:`/sponsorship/newsletter` with over {{ newsletter_subs }} subscribers
 * Our :doc:`/sponsorship/website` offers both logo sponsorships and advertising 
 
 In addition to these existing programs,
 we're always interested in working together with organizations in our community to build new approaches to sponsorship. 
-We believe we have one of the most skilled and forward-looking communities in tech,
-and look forward to working together on keeping us sustainable.
+We believe we have one of the most skilled and forward-looking communities in the software industry,
+and look forward to working together to keep it sustainable.
 
 You can `reach out to us`_ directly if you have any questions or ideas for sponsorship.
 

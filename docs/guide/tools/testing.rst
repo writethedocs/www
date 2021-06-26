@@ -121,7 +121,7 @@ installed Vale.
 Now to configure Vale, you'll need a .vale or a .vale.ini configuration file. For some
 examples, see
 
-* https://github.com/writethedocs/www/blob/master/.vale
+* https://github.com/writethedocs/www/blob/master/.vale.ini
 * https://github.com/cockroachdb/docs/blob/master/.vale.ini
 * https://github.com/linode/docs/blob/develop/.vale.ini
 

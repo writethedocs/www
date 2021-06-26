@@ -1,0 +1,54 @@
+<svg width="660" height="630" viewBox="0 0 660 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+  <![CDATA[
+    @font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
+    text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important}
+  ]]>
+</style>
+<g id="role-categorization-major">
+<g id="Donut chart">
+<path id="Donut_1" d="M329.5 99C374.296 99 417.689 114.622 452.204 143.176C486.72 171.73 510.196 211.427 518.59 255.429C526.984 299.431 519.769 344.983 498.189 384.238C476.609 423.492 442.014 453.992 400.364 470.482C358.714 486.972 312.617 488.421 270.014 474.578C227.411 460.736 190.97 432.469 166.967 394.647C142.964 356.825 132.904 311.816 138.518 267.373C144.132 222.931 165.07 181.838 197.725 151.174L279.87 238.65C267.572 250.199 259.686 265.675 257.572 282.413C255.457 299.151 259.246 316.103 268.286 330.347C277.326 344.592 291.051 355.238 307.096 360.452C323.142 365.665 340.503 365.119 356.189 358.909C371.875 352.698 384.905 341.211 393.032 326.427C401.16 311.643 403.877 294.487 400.716 277.915C397.555 261.343 388.713 246.392 375.713 235.638C362.714 224.884 346.371 219 329.5 219L329.5 99Z" fill="#1E73BE"/>
+<path id="Donut_2" d="M197.725 151.174C233.416 117.657 280.538 99 329.5 99V219C311.06 219 293.313 226.027 279.87 238.65L197.725 151.174Z" fill="#FFA600"/>
+</g>
+<g id="Legend">
+<g id="Label 1">
+<rect id="Rectangle 1" x="146" y="586" width="20" height="20" fill="#FFA600"/>
+<text id="Other type of role: 12%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="176" y="600.582">Other type of role: 12% </tspan></text>
+</g>
+<g id="Label 4">
+<rect id="Rectangle 1_2" x="146" y="555" width="20" height="20" fill="#1E73BE"/>
+<text id="Writer, Editor, Content Creator, Producer: 88%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="176" y="569.582">Writer, Editor, Content Creator, Producer: 88%</tspan></text>
+</g>
+</g>
+<g id="Label: Writer">
+<g id="Label">
+<g id="Frame 1">
+<circle id="end point" cx="626" cy="493" r="4" transform="rotate(-180 626 493)" fill="#1E73BE"/>
+<g id="connector-frame">
+<path id="connector" d="M622 493.5H461V492.5H622V493.5ZM440.5 473V454H441.5V473H440.5ZM461 493.5C449.678 493.5 440.5 484.322 440.5 473H441.5C441.5 483.77 450.23 492.5 461 492.5V493.5Z" fill="#1E73BE"/>
+</g>
+</g>
+<circle id="start point" cx="441" cy="446" r="8" transform="rotate(-180 441 446)" fill="#1E73BE"/>
+</g>
+<g id="Frame 2">
+<text id="88%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="533.36" y="482.071">88%</tspan></text>
+<text id="Writer" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="530.32" y="519.478">Writer</tspan></text>
+</g>
+</g>
+<g id="Label: Other">
+<g id="Label_2">
+<g id="Frame 1_2">
+<circle id="end point_2" cx="77" cy="67" r="4" fill="#FFA600"/>
+<g id="connector-frame_2">
+<path id="connector_2" d="M81 66.5H242V67.5H81V66.5ZM262.5 87V106H261.5V87H262.5ZM242 66.5C253.322 66.5 262.5 75.6782 262.5 87H261.5C261.5 76.2304 252.77 67.5 242 67.5V66.5Z" fill="#FFA600"/>
+</g>
+</g>
+<circle id="start point_2" cx="262" cy="114" r="8" fill="#FFA600"/>
+</g>
+<g id="Frame 2_2">
+<text id="Other" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="125.846" y="55.4775">Other</tspan></text>
+<text id="12%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="128.141" y="97.0708">12%</tspan></text>
+</g>
+</g>
+</g>
+</svg>

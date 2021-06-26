@@ -1,0 +1,79 @@
+<svg width="660" height="670" viewBox="0 0 660 670" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+  <![CDATA[
+    @font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
+    text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important}
+  ]]>
+</style>
+<g id="overall-work-location-post-covid">
+<g id="Legend">
+<g id="Positive">
+<rect id="Rectangle 1" x="106" y="570" width="20" height="20" fill="#1E73BE"/>
+<text id="Remote - Required (53.3%) or Not Required (34.4%) : 87.7%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="136" y="584.582">Remote - Required (53.3%) or Not Required (34.4%) : 87.7%</tspan></text>
+</g>
+<g id="Neutral">
+<rect id="Rectangle 1_2" x="106" y="600" width="20" height="20" fill="#F35DA3"/>
+<text id="Partially Remote and Partially Onsite: 8.7%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="136" y="614.582">Partially Remote and Partially Onsite: 8.7%</tspan></text>
+</g>
+<g id="Negative">
+<rect id="Rectangle 1_3" x="106" y="630" width="20" height="20" fill="#FFA600"/>
+<text id="Onsite - Required (1.7%) or Not Required (1.9%) : 3.6%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="136" y="644.582">Onsite - Required (1.7%) or Not Required (1.9%) : 3.6%</tspan></text>
+</g>
+</g>
+<g id="Labels">
+<g id="Remote">
+<g id="Label">
+<g id="Frame 1">
+<circle id="end point" cx="622" cy="499" r="4" transform="rotate(-180 622 499)" fill="#1E73BE"/>
+<g id="connector-frame">
+<path id="connector" d="M618 499.5H457V498.5H618V499.5ZM436.5 479V460H437.5V479H436.5ZM457 499.5C445.678 499.5 436.5 490.322 436.5 479H437.5C437.5 489.77 446.23 498.5 457 498.5V499.5Z" fill="#1E73BE"/>
+</g>
+</g>
+<circle id="start point" cx="437" cy="452" r="8" transform="rotate(-180 437 452)" fill="#1E73BE"/>
+</g>
+<g id="Frame 2">
+<g id="87.7%">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="523.572" y="489.071">87.7</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="574.176" y="489.071">%</tspan></text>
+</g>
+<text id="Remote_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="525.154" y="526.478">Remote</tspan></text>
+</g>
+</g>
+<g id="Negative_2">
+<g id="Label_2">
+<g id="Frame 1_2">
+<circle id="end point_2" r="4" transform="matrix(-1 0 0 1 492 58)" fill="#FFA600"/>
+<g id="connector-frame_2">
+<path id="connector_2" d="M488 57.5H327V58.5H488V57.5ZM306.5 78V97H307.5V78H306.5ZM327 57.5C315.678 57.5 306.5 66.6782 306.5 78H307.5C307.5 67.2304 316.23 58.5 327 58.5V57.5Z" fill="#FFA600"/>
+</g>
+</g>
+<circle id="start point_2" r="8" transform="matrix(-1 0 0 1 307 105)" fill="#FFA600"/>
+</g>
+<g id="Frame 2_2">
+<text id="Onsite" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="393.604" y="46.4775">Onsite</tspan></text>
+<text id="3.6%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="393.834" y="88.0708">3.6%</tspan></text>
+</g>
+</g>
+<g id="Partial">
+<g id="Frame 2_3">
+<text id="Partial_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="104.089" y="76.4775">Partial</tspan></text>
+<text id="8.7%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="104.713" y="118.071">8.7%</tspan></text>
+</g>
+<ellipse id="start point_3" rx="7.9196" ry="8" transform="matrix(1 0 0 -1 234.08 129)" fill="#F35DA3"/>
+<g id="connector-frame_3">
+<path id="connector_3" d="M79.6482 86.5H212.648V87.5H79.6482V86.5ZM233.148 107V126H232.148V107H233.148ZM212.648 86.5C223.97 86.5 233.148 95.6782 233.148 107H232.148C232.148 96.2304 223.418 87.5 212.648 87.5V86.5Z" fill="#F35DA3"/>
+</g>
+<g id="Label_3">
+<g id="Frame 1_3">
+<circle id="end point_3" r="4" transform="matrix(1 0 0 -1 83 86)" fill="#F35DA3"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Donut chart">
+<path id="Donut_1" d="M329.5 101C374.14 101 417.392 116.514 451.854 144.887C486.317 173.261 509.847 212.729 518.418 256.538C526.989 300.348 520.069 345.774 498.84 385.043C477.612 424.312 443.396 454.983 402.048 471.806C360.699 488.63 314.79 490.56 272.175 477.266C229.561 463.973 192.891 436.283 168.441 398.934C143.992 361.585 133.282 316.9 138.146 272.526C143.01 228.152 163.144 186.848 195.103 155.682L278.883 241.595C266.846 253.332 259.263 268.889 257.432 285.601C255.6 302.313 259.633 319.143 268.842 333.209C278.05 347.275 291.861 357.704 307.91 362.711C323.96 367.717 341.25 366.99 356.823 360.654C372.396 354.318 385.282 342.767 393.278 327.977C401.273 313.188 403.879 296.079 400.651 279.579C397.423 263.08 388.561 248.215 375.581 237.529C362.602 226.843 346.312 221 329.5 221L329.5 101Z" fill="#1E73BE"/>
+<path id="Donut_2" d="M195.103 155.682C220.373 131.04 251.931 113.819 286.328 105.904L313.24 222.847C300.286 225.828 288.4 232.314 278.883 241.595L195.103 155.682Z" fill="#F35DA3"/>
+<path id="Donut_3" d="M286.328 105.904C300.487 102.645 314.97 101 329.5 101V221C324.028 221 318.573 221.62 313.24 222.847L286.328 105.904Z" fill="#FFA600"/>
+</g>
+</g>
+</svg>

@@ -21,13 +21,15 @@ New to Caring About Documentation?
    imposter
 
 
-Experienced Documentarian?
---------------------------
+Foundational Resources
+----------------------
 
 .. toctree::
    :maxdepth: 2
 
    writing/style-guides
+   writing/accessibility
+   writing/reducing-bias
 
 * Structuring your Documentation
 
@@ -38,6 +40,7 @@ Approaches to Creating Docs
    :maxdepth: 2
 
    docs-as-code
+   doc-ops
    Producing documentation inside a Support team <writing/support-team>
    Starting-a-new-doc
 
@@ -54,10 +57,6 @@ Markup Languages
    writing/reStructuredText
    writing/xml
    writing/asciidoc
-
-* reStructuredText
-    * Cheatsheet
-    * Tutorial
 
 Tools of the Trade
 ------------------
