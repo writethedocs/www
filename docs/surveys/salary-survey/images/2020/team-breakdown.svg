@@ -1,0 +1,120 @@
+<svg width="660" height="698" viewBox="0 0 660 698" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+  <![CDATA[
+    @font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
+    text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important}
+  ]]>
+</style>
+<g id="team-breakdown">
+<g id="Donut chart">
+<path id="Donut_1" d="M329.5 99C356.256 99 382.718 104.578 407.198 115.377C431.678 126.176 453.637 141.96 471.675 161.722C489.713 181.483 503.434 204.787 511.961 230.148C520.489 255.509 523.636 282.369 521.202 309.014C518.767 335.659 510.805 361.504 497.824 384.899C484.842 408.295 467.125 428.727 445.805 444.893C424.485 461.058 400.028 472.602 373.997 478.787C347.966 484.971 320.931 485.662 294.618 480.813L316.363 362.8C326.273 364.626 336.455 364.366 346.259 362.036C356.063 359.707 365.273 355.36 373.303 349.271C381.333 343.183 388.005 335.488 392.895 326.676C397.784 317.865 400.783 308.131 401.699 298.096C402.616 288.061 401.431 277.945 398.219 268.393C395.008 258.842 389.84 250.065 383.047 242.622C376.253 235.18 367.982 229.235 358.763 225.168C349.543 221.101 339.577 219 329.5 219L329.5 99Z" fill="#1E73BE"/>
+<path id="Donut_2" d="M294.618 480.813C260.714 474.566 229.11 459.329 203.107 436.693C177.105 414.058 157.658 384.855 146.799 352.135L260.691 314.337C264.78 326.66 272.104 337.658 281.898 346.183C291.691 354.708 303.594 360.447 316.363 362.8L294.618 480.813Z" fill="#A06BC7"/>
+<path id="Donut_3" d="M146.799 352.135C136.392 320.778 134.231 287.27 140.524 254.835C146.817 222.401 161.352 192.132 182.73 166.942L274.223 244.588C266.171 254.076 260.697 265.476 258.327 277.691C255.957 289.907 256.771 302.527 260.691 314.337L146.799 352.135Z" fill="#F35DA3"/>
+<path id="Donut_4" d="M182.73 166.942C200.141 146.425 221.661 129.787 245.9 118.101C270.138 106.415 296.558 99.9402 323.453 99.095L327.223 219.036C317.093 219.354 307.143 221.793 298.014 226.194C288.885 230.595 280.781 236.861 274.223 244.588L182.73 166.942Z" fill="#FF6A6B"/>
+<path id="Donut_5" d="M323.453 99.095C325.468 99.0317 327.484 99 329.5 99V219C328.741 219 327.982 219.012 327.223 219.036L323.453 99.095Z" fill="#FFA600"/>
+</g>
+<g id="Legend">
+<g id="Frame 5">
+<g id="Frame 3">
+<g id="1 Manager">
+<rect id="Rectangle 1" x="92" y="570" width="20" height="20" fill="#1E73BE"/>
+<text id="Single Team: 52.9%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="122" y="584.582">Single Team: 52.9%</tspan></text>
+</g>
+<g id="3 Support">
+<rect id="Rectangle 1_2" x="92" y="601" width="20" height="20" fill="#D761B6"/>
+<text id="Solo Worker: 16.3%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="122" y="615.582">Solo Worker: 16.3%</tspan></text>
+</g>
+<g id="5 Outreach">
+<rect id="Rectangle 1_3" x="92" y="632" width="20" height="20" fill="#FF8541"/>
+<text id="Other: 0.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="122" y="646.582">Other: 0.5%</tspan></text>
+</g>
+</g>
+<g id="Frame 4">
+<g id="2 Developer">
+<rect id="Rectangle 1_4" x="324" y="570" width="20" height="20" fill="#7271C9"/>
+<text id="Multiple Teams: 17%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="354" y="584.582">Multiple Teams: 17% </tspan></text>
+</g>
+<g id="4 Educator">
+<rect id="Rectangle 1_5" x="324" y="602" width="20" height="20" fill="#FF6478"/>
+<text id="Manager/Team Leader: 13.3%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="354" y="616.582">Manager/Team Leader: 13.3%</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g id="Label: Other">
+<g id="Label">
+<g id="Frame 1">
+<circle id="end point" r="4" transform="matrix(-1 0 0 1 511 58)" fill="#FFA600"/>
+<g id="connector-frame">
+<path id="connector" d="M507 57.5H346V58.5H507V57.5ZM325.5 78V97H326.5V78H325.5ZM346 57.5C334.678 57.5 325.5 66.6782 325.5 78H326.5C326.5 67.2304 335.23 58.5 346 58.5V57.5Z" fill="#FFA600"/>
+</g>
+</g>
+</g>
+<g id="Frame 2">
+<text id="Other" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="442.846" y="46.4775">Other</tspan></text>
+<text id="0.5%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="439.923" y="88.0708">0.5%</tspan></text>
+</g>
+<ellipse id="Ellipse 1" cx="326.497" cy="100" rx="2.68088" ry="3.87899" transform="rotate(-2.67788 326.497 100)" fill="#FFA600"/>
+</g>
+<g id="Label: Single Team">
+<g id="Label_2">
+<g id="Frame 1_2">
+<circle id="end point_2" cx="626" cy="493" r="4" transform="rotate(-180 626 493)" fill="#1E73BE"/>
+<g id="connector-frame_2">
+<path id="connector_2" d="M622 493.5H461V492.5H622V493.5ZM440.5 473V454H441.5V473H440.5ZM461 493.5C449.678 493.5 440.5 484.322 440.5 473H441.5C441.5 483.77 450.23 492.5 461 492.5V493.5Z" fill="#1E73BE"/>
+</g>
+</g>
+<circle id="start point" cx="441" cy="446" r="8" transform="rotate(-180 441 446)" fill="#1E73BE"/>
+</g>
+<g id="Frame 2_2">
+<text id="52.9%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="523.915" y="482.071">52.9%</tspan></text>
+<text id="Single Team" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="504.969" y="519.478">Single Team</tspan></text>
+</g>
+</g>
+<g id="Label: Multiple Teams">
+<g id="Label_3">
+<g id="Frame 1_3">
+<circle id="end point_3" r="4" transform="matrix(1 0 0 -1 31 492)" fill="#A06BC7"/>
+<g id="connector-frame_3">
+<path id="connector_3" d="M35 492.5H196V491.5H35V492.5ZM216.5 472V453H215.5V472H216.5ZM196 492.5C207.322 492.5 216.5 483.322 216.5 472H215.5C215.5 482.77 206.77 491.5 196 491.5V492.5Z" fill="#A06BC7"/>
+</g>
+</g>
+<circle id="start point_2" r="8" transform="matrix(1 0 0 -1 216 445)" fill="#A06BC7"/>
+</g>
+<g id="Frame 2_3">
+<text id="17%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="81.3438" y="481.071">17%</tspan></text>
+<text id="Multiple Teams" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="35.2031" y="518.478">Multiple Teams</tspan></text>
+</g>
+</g>
+<g id="Label: Solo Worker">
+<g id="Label_4">
+<g id="Frame 1_4">
+<circle id="end point_4" cx="12" cy="248" r="4" fill="#D761B6"/>
+<g id="connector-frame_4">
+<path id="connector_4" d="M15 247.5H158V248.5H15V247.5ZM178.5 268V297H177.5V268H178.5ZM158 247.5C169.322 247.5 178.5 256.678 178.5 268H177.5C177.5 257.23 168.77 248.5 158 248.5V247.5Z" fill="#F35DA3"/>
+</g>
+</g>
+<circle id="start point_3" cx="144" cy="248" r="8" fill="#F35DA3"/>
+</g>
+<g id="Frame 2_4">
+<text id="Solo" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="39.2422" y="235.478">Solo</tspan></text>
+<text id="16.3%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="24.3242" y="277.071">16.3%</tspan></text>
+</g>
+</g>
+<g id="Label: Team Leader">
+<g id="Label_5">
+<g id="Frame 1_5">
+<circle id="end point_5" cx="64" cy="50" r="4" fill="#FF6478"/>
+<g id="connector-frame_5">
+<path id="connector_5" d="M68 49.5H229V50.5H68V49.5ZM249.5 70V139H248.5V70H249.5ZM229 49.5C240.322 49.5 249.5 58.6782 249.5 70H248.5C248.5 59.2304 239.77 50.5 229 50.5V49.5Z" fill="#FF6478"/>
+</g>
+</g>
+<circle id="start point_4" cx="249" cy="119" r="8" fill="#FF6478"/>
+</g>
+<g id="Frame 2_5">
+<text id="Team Leader" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="20" letter-spacing="0em"><tspan x="69.6289" y="36.4775">Team Leader</tspan></text>
+<text id="13.3%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="26" letter-spacing="0em"><tspan x="93.5146" y="78.0708">13.3%</tspan></text>
+</g>
+</g>
+</g>
+</svg>

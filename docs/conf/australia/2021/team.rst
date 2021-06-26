@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-
+:banner:
 
 Meet the Team
 =============
@@ -10,76 +10,37 @@ This page outlines the folks who are helping get things done, and what their rol
 Folks
 -----
 
-Eric Holscher
-~~~~~~~~~~~~~
+Swapnil Ogale
+~~~~~~~~~~~~~~
 
-{% include "bios/eric.rst" %}
+{% include "bios/swapnil.rst" %}
+
+Rajakavitha Kodhandapani
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+{% include "bios/rajie.rst" %}
 
 Samuel Wright
-~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 {% include "bios/sam.rst" %}
 
-Mo Nishiyama
-~~~~~~~~~~~~
-
-{% include "bios/mo.rst" %}
-
-Alicia Duncan
-~~~~~~~~~~~~~
-
-{% include "bios/alicia.rst" %}
-
-Christy Lutz
-~~~~~~~~~~~~
-
-{% include "bios/christy.rst" %}
-
-Rose Williams
-~~~~~~~~~~~~~
-
-{% include "bios/rose.rst" %}
-
-Jennifer Rondeau
-~~~~~~~~~~~~~~~~
-
-{% include "bios/jennifer.rst" %}
-
-Sasha Romijn
-~~~~~~~~~~~~
-
-{% include "bios/sasha.rst" %}
-
-Mikey Ariel
-~~~~~~~~~~~~~
-
-{% include "bios/mikey.rst" %}
-
-Hillary Fraley
-~~~~~~~~~~~~~~~
-
-{% include "bios/hillary.rst" %}
-
-Bio coming soon
 
 Primary Roles
 -------------
 
-* **Conference chair** - Eric Holscher
-* **Conference co-chair** - *TBD*
-* **Code of conduct response** - See `code of conduct </code-of-conduct/#reporting-and-contact-information>`_ page
-* **Speaker coordinator** - Samuel Wright
-* **Unconference coordinator** - TBD
-* **Lightning Talk coordinator** - TBD
-* **Infrastructure coordinator** - TBD
-* **Swag coordinator** - TBD
-* **Communication coordinator** - TBD
-* **Job Fair coordinator** - TBD
-* **Welcome Wagon coordinators** - TBD
-* **Sponsorship coordinator** - TBD
-* **Writing Day coordinator** - TBD
-* **Volunteer coordinator** - TBD
-* **Emcee** - TBD
-* **Social media coordinator** - TBD
-
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
+
+* **Conference chair** - Swapnil Ogale
+* **Conference co-chair** - Rajakavitha Kodhandapani
+* **Swag coordinator** - Mikey Ariel
+* **Speaker wrangler** - Swapnil Ogale
+* **Infrastructure chair** - Samuel Wright
+* **Lightning Talk coordinators** - TBA
+* **Communication chair** - Swapnil Ogale
+* **Volunteer coordinator** - TBA
+* **Sponsorship** - TBA
+* **Unconference coordinator** - TBA
+* **Emcee** - TBA
+* **Welcome Wagon coordinators** - TBA
+* **Social media chair** - TBA
