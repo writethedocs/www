@@ -52,7 +52,7 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
 * Next come the stories. They should be edited for length and clarity and tone, as well as to make sure they've followed the :doc:`editorial-guidelines`.
 * If there are sponsors this month, the sponsorship article comes after the main stories.
 * Featured jobs section.
-* Finally, the upcoming events section lists meetups scheduled for the next month. Get a list of current meetup events from http://www.writethedocs.org/meetups/events.
+* Finally, the upcoming events section lists meetups scheduled for the next month. Get a list of current meetup events from https://www.writethedocs.org/meetups/.
 
   Include any meetups that happen in the first week or so of the following month, since the newsletter doesn't usually go out right on the first.
 

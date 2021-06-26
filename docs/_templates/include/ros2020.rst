@@ -1,0 +1,17 @@
+.. raw:: html
+
+    <table>
+    {% for session in day_schedule %}
+
+          <tr>
+              <td>{{ session.time }}</td>
+              {% if session.title %}
+                  <td>
+                  <td>{{ session.title }}</td>
+              {% elif session.data %}
+                  <td>{{ session.data.title }}</td>
+                  <td>{{ session.speaker_names }}</td>
+              {% endif %}
+          </tr>
+    {% endfor %}
+    </table>

@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="../../../../_static/conf-legacy/2017/styles.min.css" rel="stylesheet" />
+
+
+  
+  <title>Documenting a new project? - Write the Docs Portland 2017</title>
+  
+  
+
+
+  
+    
+  
+    <script src='https://js.tito.io/v1' async></script>
+
+    <script src="https://www.google-analytics.com/ga.js"></script>
+    <script type="text/javascript">
+    // google analytics
+    // note: this will create a JS console error when viewing local via file:// uris
+    var _gaq=[['_setAccount','UA-37795838-1'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=('https:'==location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
+    </script>
+
+  <style>
+  /* Sphinx Additions */
+  a.headerlink {
+    display: none;
+  }
+
+  .section > h1 {
+    display: none;
+  }
+  </style>
+
+</head>
+<body>
+    <div class="offcanvas--bg" data-offcanvas-bg></div>
+  <div class="offcanvas" data-offcanvas>
+    <button class="offcanvas__close btn-link" data-offcanvas-close>&#xe901;</button>
+    <ul class="offcanvas__menu menu-mobile">
+      <li class="menu-mobile__item">
+          <a href="../news/">
+            News
+          </a>
+      </li>
+      <li class="menu-mobile__item">
+        <a href="../tickets/">Tickets</a>
+      </li>
+      <li class="menu-mobile__item">
+          <a href="../sponsor/">
+            Sponsor
+          </a>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <span>Program</span>
+        <ul class="menu-mobile__dropdown">
+            <li><a href="../schedule/">Full Schedule</a></li>
+            <li><a href="../speakers/">Sessions</a></li>
+            <li><a href="../hike/">Hike</a></li>
+            <li><a href="#">Writing Day</a></li>
+            <li><a href="../lightning-talks/">Lightning Talks</a></li>
+            <li><a href="../unconference/">Unconference</a></li>
+            <li><a href="../workshops/">Workshops</a></li>
+        </ul>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <span>Visit</span>
+        <ul class="menu-mobile__dropdown">
+            <li><a href="../venue/">Venue Information</a></li>
+            <li><a href="../visiting/">Visiting Portland</a></li>
+        </ul>
+      </li>
+      <li class="menu-mobile__item" data-dropdown-mobile>
+        <span>About</span>
+        <ul class="menu-mobile__dropdown">
+            <li><a href="../welcome-wagon/">Welcome Wagon</a></li>
+            <li><a href="../team/">Meet the Team</a></li>
+            <li><a href="../../../">Past Events</a></li>
+            <li><a href="../../../../code-of-conduct/">Code of Conduct</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div class="mobile-bar">
+    <div class="mobile-bar__col mobile-bar__col--hamburger">
+      <button class="mobile-bar__hamburger btn-link" data-offcanvas-icon>&#xe900;</button>
+    </div>
+    <div class="mobile-bar__col mobile-bar__col--logo">
+      <a href="/conf/na/2017/">
+        <img src="../../../../_static/conf-legacy/2017/images/logo-mobile.svg" alt="Write the Docs" class="mobile-bar__logo">
+      </a>
+    </div>
+  </div>
+
+  <div class="menu">
+    <nav class="menu__wrapper">
+      <ul class="menu__list list-unstyled">
+        <li class="menu__list-item menu__list-item--first menu__list-item--active">
+          <a href="../" class="menu__item btn btn-link menu__item--home">
+            &#xe907;
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="../news/" class="menu__item btn btn-link">
+            News
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="../tickets/" class="menu__item btn btn-link">
+            Tickets
+          </a>
+        </li>
+        <li class="menu__list-item">
+          <a href="../sponsor/" class="menu__item btn btn-link">
+            Sponsor
+          </a>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="../schedule/" class="menu__item btn btn-link">
+            Program
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="../schedule/">Full Schedule</a></li>
+            <li><a href="../speakers/">Sessions</a></li>
+            <li><a href="../hike/">Hike</a></li>
+            <li><a href="#">Writing Day</a></li>
+            <li><a href="../lightning-talks/">Lightning Talks</a></li>
+            <li><a href="../unconference/">Unconference</a></li>
+            <li><a href="../workshops/">Workshops</a></li>
+          </ul>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="../visiting/" class="menu__item btn btn-link">
+            Visit
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="../venue/">Venue Information</a></li>
+            <li><a href="../visiting/">Visiting Portland</a></li>
+          </ul>
+        </li>
+        <li class="menu__list-item" data-dropdown>
+          <a href="#" class="menu__item btn btn-link">
+            About
+          </a>
+          <ul class="menu__dropdown">
+            <li><a href="../welcome-wagon/">Welcome Wagon</a></li>
+            <li><a href="../team/">Meet the Team</a></li>
+            <li><a href="../../../">Past Events</a></li>
+            <li><a href="../../../../code-of-conduct/">Code of Conduct</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>
+
+  <div class="container-fluid">
+
+    <!-- MAIN SECTION -->
+    
+<main>
+
+    
+    <header class="header">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 text-center">
+            <a href="/conf/na/2017/" class="header__logo">
+              <img src="../../../../_static/conf-legacy/2017/images/logo-subpage.svg" alt="Write the Docs Portland">
+            </a>
+            <h1 class="header__title">Documenting a new project?</h1>
+          </div>
+        </div>
+      </div>
+    </header>
+    
+
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 text-left">
+          <div class="main-container main">
+            
+              <p>Each year we run an event called the Writing Day during the conference. This event is modeled after the concept of <a class="reference external" href="http://en.wikipedia.org/wiki/Sprint_%28software_development%29">sprints</a>, which are common in open-source conferences.
+The main premise is to get a bunch of interesting people in a room together and have them work towards shared goals.</p>
+<p>To make the most out of the Writing Day, we recommend that you either come with a project, or be ready and willing to contribute to someone else’s project.</p>
+<p>Here are some examples of projects that you might want to work on:</p>
+<ul class="simple">
+<li>Open source software documentation</li>
+<li>General documentation writing</li>
+<li>Best practices manual (For your company, or the world)</li>
+<li>Blog posts</li>
+<li>Tips and tricks</li>
+<li>Great works of fiction</li>
+<li>Love letters</li>
+<li>The Documentarian Manifesto</li>
+</ul>
+<p>You get the idea.</p>
+<p>All this adds up to a room full of smart people sharing your problems, your passion, and your goals. So be ready to learn some new things and to teach others what you know.</p>
+<p>Even if you <a class="reference external" href="http://en.wikipedia.org/wiki/Impostor_syndrome">feel</a> as though you don’t know that much, we know you have a lot to offer. Come surprise yourself with how much you can share.</p>
+<div class="section" id="documenting-a-new-project">
+<h1>Documenting a new project?<a class="headerlink" href="#documenting-a-new-project" title="Permalink to this headline">¶</a></h1>
+<p>Check out our <a class="reference external" href="https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/">beginners guide</a> to writing documentation.
+This should help you get started, and give you some ideas for how you can contribute to a project that you love.</p>
+</div>
+<div class="section" id="logistics">
+<h1>Logistics<a class="headerlink" href="#logistics" title="Permalink to this headline">¶</a></h1>
+<p>Please bring a computer or some other mechanism with which to create written words.
+We’ll be creating and editing content, so make sure that you have the tools you need to contribute.</p>
+<div class="section" id="id1">
+<h2>Logistics<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h2>
+<p>Please bring a computer or some other mechanism with which to create written words.</p>
+<p>We’ll be creating and editing content,
+so make sure that you have the tools you need to contribute.</p>
+<ul class="simple">
+<li>Date &amp; Time: <strong>Sunday, May 14th, 9am-6pm</strong>,
+with the conference opening reception in the same space until 9.</li>
+<li>Location: <strong>Crystal Ballroom, 1332 W Burnside St</strong>. We will be in the main ballroom.</li>
+<li>Projects:<ul>
+<li><a class="reference internal" href="#writewrite"><span class="std std-ref">Write Write the Docs on Writing Day</span></a></li>
+<li><a class="reference internal" href="#kubernetes"><span class="std std-ref">Kubernetes</span></a></li>
+<li><a class="reference internal" href="#openstack"><span class="std std-ref">OpenStack</span></a></li>
+<li><a class="reference internal" href="#media"><span class="std std-ref">MediaWiki</span></a></li>
+<li>anything else you fancy</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="writing-day-schedule">
+<h2>Writing Day Schedule<a class="headerlink" href="#writing-day-schedule" title="Permalink to this headline">¶</a></h2>
+<div class="row">
+  <div class="col-xs-2">
+    <p>8:30</p>
+  </div>
+  <div class="col-xs-10>
+    <p class=">
+    Doors Open, Breakfast Served
+    </p>
+  </div>
+</div>
+
+
+
+<div class="row">
+  <div class="col-xs-2">
+    <p>9:30</p>
+  </div>
+  <div class="col-xs-10>
+    <p class=">
+    Writing Day Introduction - Introduction to Sprints & Project Introductions
+    </p>
+  </div>
+</div>
+
+
+
+<div class="row">
+  <div class="col-xs-2">
+    <p>10:00</p>
+  </div>
+  <div class="col-xs-10>
+    <p class=">
+    Team up and start working
+    </p>
+  </div>
+</div>
+
+
+
+<div class="row">
+  <div class="col-xs-2">
+    <p>12:30</p>
+  </div>
+  <div class="col-xs-10>
+    <p class=">
+    Lunch Break
+    </p>
+  </div>
+</div>
+
+
+
+<div class="row">
+  <div class="col-xs-2">
+    <p>18:00</p>
+  </div>
+  <div class="col-xs-10>
+    <p class=">
+    End of Writing Day, Beginning of Reception
+    </p>
+  </div>
+</div>
+
+
+
+<div class="row">
+  <div class="col-xs-2">
+    <p>20:30</p>
+  </div>
+  <div class="col-xs-10>
+    <p class=">
+    End of Reception
+    </p>
+  </div>
+</div></div>
+<div class="section" id="id2">
+<h2>Documenting a new project?<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h2>
+<p>Check out our <a class="reference external" href="https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/">beginners guide</a> to writing documentation.
+This should help you get started,
+and give you some ideas for how you can contribute to a project that you love.</p>
+</div>
+<div class="section" id="write-write-the-docs-on-writing-day">
+<span id="writewrite"></span><h2>Write Write the Docs on Writing Day<a class="headerlink" href="#write-write-the-docs-on-writing-day" title="Permalink to this headline">¶</a></h2>
+<p>This year we’re also running a session where you can help improve your favorite website. Yup, you can brainstorm improvements, write helpful content and posts, or just magically improve <a class="reference external" href="http://www.writethedocs.org">Write the Docs</a>.</p>
+<p>If you’re writing text to add to the website, ideally you’ll already be familiar with GitHub and writing in plain text (markdown or restructured text), but we’ll be there to help out if you’re not.</p>
+<p>If you’d rather brainstorm a content reorganization in Google Docs, improve our python scripts or our jinja templates we’ve got plenty to do there as well.</p>
+<p>Here are a few things we’ll be working on on writing day, reach out to <a class="reference external" href="https://twitter.com/plaindocs">&#64;plaindocs</a> or <a class="reference external" href="https://twitter.com/meker">&#64;meker</a> if you have any questions or more suggestions.</p>
+<div class="section" id="brainstorm-user-oriented-architecture">
+<h3>Brainstorm user oriented architecture<a class="headerlink" href="#brainstorm-user-oriented-architecture" title="Permalink to this headline">¶</a></h3>
+<p>The website is currently organised around meetups, conferences, guides, etc – find ways to introduce user-oriented labels considering audience. Who is coming to the site, why? What are the goals of the site?</p>
+<ul class="simple">
+<li>Learn about docs</li>
+<li>Get involved with the community</li>
+<li>Attend conference</li>
+<li>Submit a conference proposal</li>
+<li>Find a video of a talk that I saw</li>
+</ul>
+</div>
+<div class="section" id="improve-navigation">
+<h3>Improve navigation<a class="headerlink" href="#improve-navigation" title="Permalink to this headline">¶</a></h3>
+<p>Let’s discuss information architecture – can we organize the content better? Provide better navigation?</p>
+</div>
+<div class="section" id="write-articles-for-the-newsletter">
+<h3>Write articles for the newsletter<a class="headerlink" href="#write-articles-for-the-newsletter" title="Permalink to this headline">¶</a></h3>
+<p>Summarize content from the Slack channel for the <a class="reference external" href="/blog/newsletter-may-2017/#looking-ahead">newsletter</a>.</p>
+</div>
+<div class="section" id="help-develop-the-documentation-guide">
+<h3>Help develop the Documentation Guide<a class="headerlink" href="#help-develop-the-documentation-guide" title="Permalink to this headline">¶</a></h3>
+<p>Help reorganize the guide content, or write and edit topics. Check out <a class="reference internal" href="../../../../guide/"><span class="doc">Documentation Guide</span></a> ahead of time and bring your ideas to the table!”</p>
+</div>
+<div class="section" id="fix-website-issues">
+<h3>Fix website issues<a class="headerlink" href="#fix-website-issues" title="Permalink to this headline">¶</a></h3>
+<p>We have a list of <a class="reference external" href="https://github.com/writethedocs/www/issues?q=is%3Aissue+is%3Aopen+label%3Awritingday">issues on GitHub</a> tagged as <cite>writingday</cite> that includes things like</p>
+<ul class="simple">
+<li>fix broken links (we have a lot of these)</li>
+<li>improve the meetup pages</li>
+<li>make a better video archive</li>
+<li>add list of conference write ups for past conferences</li>
+</ul>
+</div>
+</div>
+<div class="section" id="kubernetes">
+<span id="id4"></span><h2>Kubernetes<a class="headerlink" href="#kubernetes" title="Permalink to this headline">¶</a></h2>
+<p>If you’re looking to contribute to open source documentation on Github during
+Writing Day, you’ll have the opportunity to edit content for Kubernetes.
+Kubernetes is an open source system that manages containerized applications
+across different infrastructures.</p>
+<p>The Kubernetes doc folks are looking for help to edit content, get it into
+templates, and verify that it conforms to their new site architecture. No
+previous product experience is necessary to help out, and they pay in swag,
+gracious thanks, and enthusiastic high-fives. Docs are located at <a class="reference external" href="https://kubernetes.io/docs/home/">Kubernetes.io</a> and they’re pulled directly from <a class="reference external" href="https://github.com/kubernetes/kubernetes.github.io">Github</a>.</p>
+<p><a class="reference external" href="https://docs.google.com/document/d/18oSE-QV7viiH75N-0Qb6LuHI-PwgiN-DdihHMeo8sts/edit">Detailed instructions</a></p>
+</div>
+<div class="section" id="openstack">
+<span id="id5"></span><h2>OpenStack<a class="headerlink" href="#openstack" title="Permalink to this headline">¶</a></h2>
+<p>It’s great to learn about open source contribution in a friendly, welcoming
+environment like OpenStack. OpenStack offers a collection of projects for
+cloud services such as compute, storage, and networks. Yes, it’s large, but we
+have some maps for contributors who like to work with and build clouds.</p>
+<p>OpenStack documentation tools, tests, and processes are the same as the Python code processes for all projects. The source is in <a class="reference external" href="http://www.sphinx-doc.org/en/stable/rest.html">RST</a> and the docs build
+with Sphinx using scripts run in a virtual environment with the
+<a class="reference external" href="https://tox.readthedocs.io/en/latest/">tox command line tool</a>. The source control system is git, and the review
+system is <a class="reference external" href="https://review.openstack.org">gerrit</a>. The source files are in the project repos and a docs-only
+repo, <a class="reference external" href="https://github.com/openstack/openstack-manuals">openstack-manuals</a>. The documentation sites are:</p>
+<ul class="simple">
+<li><a class="reference external" href="https://docs.openstack.org">docs.openstack.org</a></li>
+<li><a class="reference external" href="https://developer.openstack.org">developer.openstack.org</a></li>
+</ul>
+<p>You can find all the instructions for contributing to documentation in the
+<a class="reference external" href="https://docs.openstack.org/doc-contrib-guide/">OpenStack Docs Contributor Guide</a>, including a comprehensive <a class="reference external" href="https://docs.openstack.org/doc-contrib-guide/writing-style.html">style guide</a>
+and a quick start guide for <a class="reference external" href="https://docs.openstack.org/doc-contrib-guide/quickstart/first-timers.html#setting-up-for-contribution">first timers</a>. Recently the team members added a
+section about contributors who speak <a class="reference external" href="https://docs.openstack.org/doc-contrib-guide/non-native-english-speakers.html">English as a second language</a>. There’s
+also a comprehensive, collaborative set of <a class="reference external" href="https://wiki.openstack.org/wiki/I18n/Tools">translation tools</a>.</p>
+<p>The bug tracking system is in Launchpad. For example, go to the <a class="reference external" href="https://bugs.launchpad.net/openstack-manuals/+bugs">bug tracker</a>
+for the openstack-manuals project, and search for doc bugs that are tagged with
+<cite>low-hanging-fruit</cite> and also unassigned.</p>
+<p>There are <a class="reference external" href="https://docs.openstack.org/doc-contrib-guide/api-guides.html">REST API docs</a> with specific contributor information, administrator
+docs, user docs, a variety of developer docs, and tools upon which to work.
+With a Facebook login (sorry, yes, we want to improve that gated access), you
+can try using an OpenStack cloud at <a class="reference external" href="https://trystack.org">https://trystack.org</a>. Go see what you can
+learn about collaborating on a large set of open source cloud projects.</p>
+</div>
+<div class="section" id="mediawiki">
+<span id="media"></span><h2>MediaWiki<a class="headerlink" href="#mediawiki" title="Permalink to this headline">¶</a></h2>
+<p>Team up with other volunteer tech writers and contribute to the documentation
+for <a class="reference external" href="http://mediawiki.org/">MediaWiki</a>, the open source software powering
+Wikipedia . We are looking for help with various types of tasks such as
+improving the technical documentation of articles, re-organizing content,
+verifying documentation, and writing tutorials on how to use or install a
+service. If you’re interested, you can prepare ahead of the writing day:</p>
+<ul class="simple">
+<li>Create a MediaWiki account.</li>
+<li>Read this <a class="reference external" href="https://www.mediawiki.org/wiki/Write_the_Docs_San_Francisco_Meetup_May_2017">list of available tasks</a> we’re planning to showcase at the writing day.</li>
+<li>Watch this presentation from <a class="reference external" href="https://youtu.be/ixU_3Gjkya4?t=3m21s">Write the Docs SF</a> [3:15 - 34:17]</li>
+</ul>
+</div>
+</div>
+
+            
+          </div>
+        </div>
+      </div>
+    </div>
+
+</main>
+
+
+
+    <!-- FOOTER BLOCK -->
+    <section class="join">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 text-center">
+            <h4 class="join__heading">Join us now!</h4>
+            <a href="/conf/na/2017/welcome-wagon/" class="btn btn-primary button button--narrow buy-ticket__talk">Get ready for the conference with our Welcome Wagon</a>
+
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="instagram">
+      <div class="owl-carousel" id="owl-instagram">
+        <a href="https://www.flickr.com/photos/writethedocs/14151785456/in/album-72157644692192083/" class="instagram__tile">
+          <img src="/_static/img/2016/na/attendees.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/13991334230/in/album-72157644692192083/" class="instagram__tile">
+          <img src="/_static/img/2016/na/group.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/14151984286/in/album-72157644692192083/" class="instagram__tile">
+          <img src="/_static/img/2016/na/tshirt.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/14174678071/in/album-72157644692192083/" class="instagram__tile">
+          <img src="/_static/img/2016/na/laptop.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/" class="instagram__tile">
+          <img src="/_static/img/2016/eu/autoklub-mainhall.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/" class="instagram__tile">
+          <img src="/_static/img/2016/eu/autoklub-foyer.jpg" alt="">
+        </a>
+        <a href="https://www.flickr.com/photos/writethedocs/21413806368/in/album-72157658925901175/" class="instagram__tile">
+          <img src="/_static/img/2016/eu/outside.jpg" alt="">
+        </a>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-md-9 text-xs-center text-md-left">
+            <ul class="list-unstyled footer__copy copy">
+              <li><p class="copy__item copy__item--first">© 2017 Write the Docs</p> </li>
+              <li><a class="copy__item" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a></li>
+              <li><a href="../../../../code-of-conduct/" class="copy__item">Code of Conduct</a></li>
+              <li><a href="../../../../" class="copy__item">Write the Docs</a></li>
+
+            </ul>
+          </div>
+          <div class="col-xs-12 col-md-3 text-xs-center text-md-right">
+            <ul class="socials list-inline">
+              <li><a href="https://twitter.com/writethedocs" class="socials__item">&#xe906;</a></li>
+              <li><a href="https://www.flickr.com/photos/writethedocs/" class="socials__item socials__item--flickr">&#xe905;</a></li>
+              <li><a href="https://github.com/writethedocs" class="socials__item">&#xe903;</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- END OF FOOTER BLOCK -->
+
+  </div>
+  <script src="../../../../_static/conf-legacy/2017/script.min.js"></script>
+  <script src="../../../../_static/conf-legacy/2017/owl.carousel.min.js"></script>
+</body>
+</html>

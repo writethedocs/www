@@ -9,40 +9,44 @@ var gulp = require('gulp'),
     del = require('del'),
     plumber = require('gulp-plumber'),
     browserSync = require('browser-sync'),
-    changed = require('gulp-changed');
+    changed = require('gulp-changed')
 
+gulp.task('styles', gulp.series(function(callback_finished) {
+    var years = ['2018', '2019', '2020', '2021'];
+    years.forEach(function(year) {
+      gulp.src('docs/_static/conf/scss/main-' + year + '.scss', {style: 'expanded'})
+          .pipe(sass().on('error', sass.logError))
+          .pipe(plumber())
+          .pipe(autoprefixer({browsers: ['last 2 version']}))
+          .pipe(gulp.dest('docs/_static/conf/css/'))
+          .pipe(rename({suffix: '.min'}))
+          .pipe(cssnano())
+          .pipe(gulp.dest('docs/_static/conf/css/'))
+          .pipe(notify({message: 'Styles task complete for ' + year}));
+    });
+    callback_finished()
+}));
 
-// Styles
-gulp.task('styles', function() {
-  return gulp.src('docs/_static/2019/scss/main.scss', { style: 'expanded' })
-    .pipe(sass().on('error', sass.logError))
-    .pipe(plumber())
-    .pipe(autoprefixer({browsers: ['last 2 version']}))
-    .pipe(gulp.dest('docs/_static/2019/css/'))
-    .pipe(rename({ suffix: '.min' }))
-    .pipe(cssnano())
-    .pipe(gulp.dest('docs/_static/2019/css/'))
-    .pipe(notify({ message: 'Styles task complete' }));
-});
-
+// Browser sync appears actually broken:
+// https://github.com/writethedocs/www/issues/1042
 
 // Static server
-gulp.task('browser-sync', function() {
+gulp.task('browser-sync', gulp.series(function() {
     browserSync.init([
-      "docs/_static/2019/css/*.css",
-      "docs/_static/2019/js/*.js",
-      'docs/_templates/2019/*.html'], {
+      "docs/_static/conf/css/*.css",
+      "docs/_static/conf/js/*.js",
+      'docs/_templates/conf/*.html'], {
         proxy:  "http://localhost:8888"
     });
-});
+}));
 
-// Watch
-gulp.task('watch', ['browser-sync'], function() {
-  gulp.watch('docs/_static/2019/scss/main.scss', ['styles']);
-});
+//Watch
+gulp.task('watch', gulp.series('browser-sync', function() {
+  gulp.watch('docs/_static/conf/scss/main.scss', ['styles']);
+}));
 
-// Default task
-gulp.task('default', ['browser-sync'], function() {
+//Default task
+gulp.task('default', gulp.series('browser-sync', function() {
     gulp.start('styles');
     gulp.start('watch');
-});
+}));

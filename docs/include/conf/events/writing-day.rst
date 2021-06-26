@@ -31,3 +31,4 @@ Logistics
 
 Please bring a computer or some other mechanism with which to create written words.
 We'll be creating and editing content, so make sure that you have the tools you need to contribute.
+

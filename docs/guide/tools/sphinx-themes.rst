@@ -61,3 +61,15 @@ mobile friendly alternative with nice colors.
 
 .. image:: /_static/img/guzzle.png
   :width: 80%
+
+Documatt Theme
+--------------
+
+Mobile friendly Sphinx theme designed to provide great documentation reading experience with beautiful typography.
+
+This theme is default theme of Documatt Techwriter at work blog but you are welcome to use it with any Sphinx project.
+
+* https://pypi.org/project/sphinx-documatt-theme/
+
+.. image:: /_static/img/documatt.png
+  :width: 80%

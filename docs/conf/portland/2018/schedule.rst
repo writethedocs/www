@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/2018/assets/headers/venue.png
+:banner: _static/conf/images/headers/venue.png
 
 Schedule
 ========
@@ -80,7 +80,6 @@ The "main event" -- we'll have a variety of speakers on the stage sharing their 
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-1.yaml
    :template: include/schedule2018.rst
-   :include_context:
 
 {% else %}
   A detailed schedule will be announced soon.
@@ -129,7 +128,6 @@ Conference Talks
 .. datatemplate::
    :source: /_data/{{templatecode}}-{{year}}-day-2.yaml
    :template: include/schedule2018.rst
-   :include_context:
 
 {% else %}
   A detailed schedule will be announced soon.

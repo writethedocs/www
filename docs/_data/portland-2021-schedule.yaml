@@ -1,0 +1,86 @@
+writing_day:
+  - time: '8:00 <a href="https://time.is/PT">Pacific</a>'
+    title: 'Platform opens'
+  - time: '9:00'
+    title: Morning introduction - Introduction to Sprints & Project Introductions
+  - time: '9:30'
+    title: Team up and start working
+  - time: '12:00'
+    title: Lunch Break
+  - time: '12:30'
+    title: Conference Intro and Tour with the Welcome Wagon
+  - time: '5:00'
+    title: End of Writing Day
+
+talks_day1:
+  - time: '8:00 <a href="https://time.is/PT">Pacific</a>'
+    title: Platform opens
+  - time: '8:30'
+    title: Conference Intro and Tour with the Welcome Wagon
+  - time: '9:00'
+    title: Write the Docs Team - Introduction to Write the Docs
+  - time: '9:45'
+    title: "<b>Unconference Starts</b>"
+  - time: '9:45'
+    slug: writing-a-perfect-technical-tutorial-jessica-garson
+  - time: '10:25'
+    title: Break (10 mins)
+  - time: '10:35'
+    slug: always-complete-never-finished-daniele-procida
+  - time: '11:20'
+    slug: a-guide-to-getting-started-in-open-source-abigail-mccarthy
+  - time: '12:00'
+    title: Lunch (60 mins)
+  - time: '1:00'
+    title: Lightning talks (30 mins)
+  - time: '1:35'
+    slug: beyond-metrics-using-maturity-models-to-develop-a-docs-strategy-sarah-r-rodlund
+  - time: '2:20'
+    slug: shuffle-ball-change-sashay-your-way-to-clearer-api-documentation-rachael-stavchansky
+  - time: '3:00'
+    title: Break (10 mins)
+  - time: '3:10'
+    slug: putting-the-tech-in-technical-writer-swapnil-ogale
+  - time: '3:55'
+    slug: the-secret-history-of-libraries-paris-buttfield-addison
+  - time: '4:35'
+    title: Day 1 wraps up
+  - time: '5:00'
+    title: "<b>Social Event</b>"
+  - time: '7:00'
+    title: "<b>Social Event Ends</b>"
+
+talks_day2:
+  - time: '8:00 <a href="https://time.is/PT">Pacific</a>'
+    title: Platform opens
+  - time: '9:00'
+    slug: documentation-communities-sound-strategy-or-documentarian-s-gambit-laura-novich
+  - time: '9:45'
+    title: "<b>Job Fair Starts</b>"
+  - time: '9:45'
+    slug: building-a-style-guide-from-the-ground-up-lessons-learned-from-a-lone-writer-deanna-thompson
+  - time: '10:25'
+    title: Break (10 mins)
+  - time: '10:35'
+    slug: almost-none-to-some-driving-disqo-s-doc-culture-as-a-solo-documentarian-falon-darville
+  - time: '11:20'
+    slug: is-tech-writer-a-tester-and-vice-versa-is-tester-a-tech-writer-ines-stefanovic
+  - time: '12:00'
+    title: "<b>Job Fair Ends</b>"
+  - time: '12:00'
+    title: Lunch (60 mins)
+  - time: '1:00'
+    title: Lightning Talks (30 mins)
+  - time: '1:35'
+    title: "<b>Unconference Starts</b>"
+  - time: '1:35'
+    slug: writing-documentation-with-neurodivergent-open-source-contributors-in-mind-rin-oliver
+  - time: '2:20'
+    slug: invisible-influence-the-documentation-behind-ux-copy-katherine-karaus
+  - time: '3:05'
+    slug: level-up-onboarding-that-enables-writers-to-thrive-nicola-yap
+  - time: '3:45'
+    title: Closing address
+  - time: '4:00'
+    title: "<b>Conference Ends</b> :("
+

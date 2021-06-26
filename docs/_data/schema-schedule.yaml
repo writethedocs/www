@@ -1,0 +1,15 @@
+# Note that this only covers 2020 and newer schedules
+writing_day: include('day-details', required=False)
+talks_day1: include('day-details')
+talks_day2: include('day-details', required=False)
+talks_day3: include('day-details', required=False)
+talks_day4: include('day-details', required=False)
+
+---
+
+day-details: list(include('day-detail'))
+
+day-detail:
+  time: str()
+  title: str(required=False)
+  slug: str(required=False)

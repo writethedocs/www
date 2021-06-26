@@ -5,7 +5,7 @@ Our venue for the conference is the Water Police Court and Charge Room/Cells, Ju
 
 .. raw:: html
 
-   <iframe src="https://www.google.com/maps?q=justice+and+police+museum&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiUw4_Cps3iAhUCcCsKHZ9eCrAQ_AUIECgB" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3313.066784981188!2d151.21009511521004!3d-33.86216968065797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12ae69b23f1615%3A0x6ce4bb846622abfc!2sJustice%20%26%20Police%20Museum!5e0!3m2!1sen!2sus!4v1570919362213!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 Accessibility
 ~~~~~~~~~~~~~

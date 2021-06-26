@@ -8,7 +8,16 @@ Tickets
 
 **Tickets are on sale now!**
 
+{% elif flaghasschedule %}
+
+**Tickets are sold out!**
+
+{% else %}
+
+**Tickets will be available in {{ date.tickets_live }}.**
+
 {% endif %}
+
 
 Each ticket includes:
 

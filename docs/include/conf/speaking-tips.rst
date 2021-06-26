@@ -78,10 +78,8 @@ Here are a few other tidbits to remember:
 -  Include your Twitter handle on your slides, so people can properly
    attribute your brilliance :)
 
-{% if shortcode == 'portland' %}
--  Slides should be 16:9 resolution
-{% elif shortcode == 'prague' %}
--  Slides should be 16:10 resolution
+{% if about.projector_ratio %}
+-  The aspect ratio for slides should be {{ about.projector_ratio }}.
 {% endif %}
 
 -  Have an offline PDF backup of your slides, just in case :)

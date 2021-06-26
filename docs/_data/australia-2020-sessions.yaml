@@ -1,0 +1,442 @@
+- title: Everyone's a player (in a mid-90s MUD)
+  slug: everyone-s-a-player-in-a-mid-90s-mud-kenzie-woodbridge
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2020
+  youtubeId: luYNcug3tCs
+  speakers:
+  - name: Kenzie Woodbridge
+    slug: kenzie-woodbridge
+    twitter: '@rainbowkenz'
+    website: http://www.prosocialresearch.ca
+  abstract: <p>This talk takes the approach of applying Player Type Theory (from game
+    design) to getting people involved and engaged in technical and documentation
+    projects in a technical environment. Practical tips are offered for dealing with
+    lack of engagement, human-caused delays, and even workplace bullying.</p>
+- title: How (and why) to make awesome video tutorials
+  slug: how-and-why-to-make-awesome-video-tutorials-sayraphim-lothian
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2020
+  youtubeId: OFpQJSzWz6s
+  speakers:
+  - name: Sayraphim Lothian
+    slug: sayraphim-lothian
+    twitter: '@sayraphim'
+    website: http://www.sayraphimlothian.com
+  abstract: '<p>If a picture tells a thousand words, how many is a video worth?</p>
+
+    <p>A study in 2015 found that 91% of smart phone users turn to their smart phone
+    while doing a task. It also found that 1 in 3 millennials say they’ve purchased
+    a product after watching a how-to video and that searches related to “how to”
+    on Youtube are growing 70% a year*. </p>
+
+    <p>People want to learn how to use your product, and more and more of them want
+    to learn through video. </p>
+
+    <p>So how can we help them with that? How can we, as documentarians, translate
+    our help page text into quality video tutorials for our customers? </p>
+
+    <p>*https://www.thinkwithgoogle.com/marketing-resources/micro-moments/i-want-to-do-micro-moments/</p>'
+- title: Overcoming the Plight of Lone Writers
+  slug: overcoming-the-plight-of-lone-writers-ankita-tripathi
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2020
+  youtubeId: K00s0v0eMAs
+  speakers:
+  - name: Ankita Tripathi
+    slug: ankita-tripathi
+    twitter: https://twitter.com/writertripathi
+    website:
+  abstract: "<p>Imagine an aircraft crash and you are the only one alive and stranded
+    on an island. The one who now needs to decide what are the possible ways to stay
+    alive here, the strategies to stay safe from wild animals, grab enough food, gather
+    logistics to ask for help, and still stay sane. </p>\n<p>As much as this might
+    sound hypothetical or inapplicable, this is the truth of every lone writer. The
+    lone tech writers who have secured their place in the long run as handling everything
+    from documentation to UX to videos need their heads around strategies. \nWith
+    this, for WTD’20, I wish to cover:\n- A story around the lone writers\n- The hurdles
+    of managing writing, editing, and proof-reading altogether. Overcome them by a
+    dignified process and tips&amp;tricks to allow Project Managers or SMEs to look
+    through it\n- Maintaining a Style Guide: Being the one managing the company documentation
+    in &amp; out, a basic style guide is necessary. What shall we cover in it?\n-
+    And, the importance of community welfare\nThe presentation would be crisp, loaded
+    with insights, and a bag full of takeaways.</p>"
+- title: Legacy content from various perspectives
+  slug: legacy-content-from-various-perspectives-marcelina-haftka
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2020
+  youtubeId: Xl374PMXiJI
+  speakers:
+  - name: Marcelina Haftka
+    slug: marcelina-haftka
+    twitter:
+    website: http://www.linkedin.com/in/marcelinahaftka/
+  abstract: '<p>Having worked in the localisation industry for many years, I can see
+    how various stakeholders have different approaches to the legacy content. I am
+    a translator and a technical writer myself, and my approach has also changed.</p>
+
+    <p>I would like to present the reasons why we should and shouldn''t keep the legacy
+    content and what to do if we decide to keep it. I aim to speak about translator''s,
+    technical writer''s, and product owner''s perspective (and probably some other
+    perspectives, as well).</p>'
+- title: 5 things I learned from my first open source contribution
+  slug: 5-things-i-learned-from-my-first-open-source-contribution-andrea-szollossi
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2020
+  youtubeId: T1-AnEfUR4M
+  speakers:
+  - name: Andrea Szöllössi
+    slug: andrea-szollossi
+    twitter: '@TheBraveGrape'
+    website:
+  abstract: '<p>When the pandemic hit and lockdown started, I finally found the time
+    to work on an open source contribution I had at the back of my mind for some time.
+    Even though I had written open source documentation as part of my job for over
+    2 years, going out there and proposing a code change for a project whose members
+    I didn’t know was very much out of my comfort zone.</p>
+
+    <p>My talk is a reflection on this open source contribution, sharing lessons learned,
+    but also sharing advice and resources for those looking to start contributing
+    to open source projects. I’ve summed this up into 5 points:</p>
+
+    <p>Contribute to something you care about.</p>
+
+    <ul>
+
+    <li>How to find something you care about.</li>
+
+    <li>Take part in open source initiatives and events.</li>
+
+    </ul>
+
+    <p>Having mental space and support is important.</p>
+
+    <ul>
+
+    <li>Contributing is great, but not at the expense of all your free time and mental health.</li>
+
+    <li>Give yourself the time to learn about the new project.</li>
+
+    <li>How to find the time to contribute.</li>
+
+    </ul>
+
+    <p>How to communicate with people you’ve never met.</p>
+
+    <ul>
+
+    <li>Why communication is important and how it can go wrong.</li>
+
+    <li>Learn about community practices.</li>
+
+    <li>Be mindful of how you write issues and comments.</li>
+
+    </ul>
+
+    <p>Ask for help if you need it.</p>
+
+    <ul>
+
+    <li>How to find help when you’re stuck.</li>
+
+    <li>How to acknowledge someone’s help.</li>
+
+    </ul>
+
+    <p>Open source contributions are valuable.</p>
+
+    <ul>
+
+    <li>Looking at the impact your change has on the community.</li>
+
+    <li>How to use contributions as part of your professional portfolio.</li>
+
+    </ul>'
+- title: A treasure map for the doc – Exploring the discoverability of documentation
+  slug: a-treasure-map-for-the-doc-exploring-the-discoverability-of-documentation-marika-vertzonis
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2020
+  youtubeId: cntzZ-3n-PM
+  speakers:
+  - name: Marika Vertzonis
+    slug: marika-vertzonis
+    twitter:
+    website:
+  abstract: '<p>My team makes mapping software for mobile computers, and has been
+    doing so for 20 years.
+
+    People use our apps to capture and verify information about their built or natural
+    environments (for example: roads, poles, trees, buildings) for the purpose of
+    understanding, maintenance or design work. </p>
+
+    <p>Our doc comes in the form of conceptual topics, API references, blogs, tutorials,
+    videos, and technical articles. We have built up a lot of content, but as time
+    progresses, it seems that the amount of documentation we offer is inversely proportional
+    to the time that our users have available to sift through it. </p>
+
+    <p>Making content discoverable is now our biggest challenge. We must continue
+    to find ways to weave our content together. Once our users get into the universe
+    of our doc, we need to guide them towards that small gem of information that they
+    need. What they need is a treasure map to get to that gem!</p>'
+- title: 'When Agile Fails: Working on Large Documentation Projects'
+  slug: when-agile-fails-working-on-large-documentation-projects-lana-brindley
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2020
+  youtubeId: gqImziESRho
+  speakers:
+  - name: Lana Brindley
+    slug: lana-brindley
+    twitter: Loquacities
+    website: http://lanabrindley.com
+  abstract: <p>We all age. Some more gracefully than others. Our documentation ages,
+    too, and sadly it's not always glamorous. Docs that start out as a thing of sartorial
+    elegance can, many years and patches later, become tired and sad and badly in
+    need of retirement. Sometimes the content is so out of date and incorrect, and
+    the format is so anachronistic that it needs to be consigned to a recycling bin.
+    But not all documentation should be euthanised. Sometimes, it just needs a facelift.</p>
+- title: 'Onboard yourself: How to get set-up for success in a new role'
+  slug: onboard-yourself-how-to-get-set-up-for-success-in-a-new-role-michael-belton
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2020
+  youtubeId: 3TWEDhCY3Qs
+  speakers:
+  - name: Michael Belton
+    slug: michael-belton
+    twitter: '@Mykale37'
+    website:
+  abstract: '<p>Starting in a new role can be intimidating. You might second-guess
+    leaving the comfort of your current position or be anxious about building new
+    professional relationships. In this talk, I''ll walk through how to set yourself
+    up for success in a new role. </p>
+
+    <p>The key steps I''ll discuss are:</p>
+
+    <ul>
+
+    <li>Listen to get context</li>
+
+    <li>Understand the area</li>
+
+    <li>Find quick wins</li>
+
+    <li>Set longer-term goals</li>
+
+    </ul>
+
+    <p>These steps are useful for everyone but particularly crucial for people writing
+    documentation. They''ll set you up to understand the audience you''re writing
+    for, gauge the appetite and support for documentation tools, and demonstrate the
+    value you bring.</p>
+
+    <p>Whether you''re joining an existing team of writers, becoming the sole writer
+    at a new company, or somewhere in between, this talk will give you a framework
+    to approach the new challenge with confidence.</p>'
+- title: An introduction to developer experience, and the role of a documentarian
+  slug: an-introduction-to-developer-experience-and-the-role-of-a-documentarian-chris-ward
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2020
+  youtubeId: -xs-gYYSGiI
+  speakers:
+  - name: Chris Ward
+    slug: chris-ward
+    twitter: '@chrischinch'
+    website: https://chrischinchilla.com/
+  abstract: <p>In this presentation I look at how documentarians can contribute to
+    a better experience for developer users of the projects they work with.</p>
+- title: 'Content strategy in practice: a case study'
+  slug: content-strategy-in-practice-a-case-study-sam-irons
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2020
+  youtubeId: 9TEIndrieYY
+  speakers:
+  - name: Sam Irons
+    slug: sam-irons
+    twitter:
+    website: http://www.samirons.me/
+  abstract: <p>Big companies have big content problems. With tens of thousands of
+    pages, big companies may put too much pressure on their customers to find the
+    exact content they need. And, that’s bad for business. After three years of experimentation,
+    Atlassian’s Sam Irons, Lead Content Designer, shares some real-life lessons on
+    how to provide the right content to the right person at the right time. You’ll
+    walk away with ideas and techniques for scaling content in step with your growing
+    organization, including the standards, emerging technologies, and content practices
+    that have helped Atlassian customers summit a steep product learning curve, and
+    help a large business learn to love content strategy.</p>
+- title: 'Microcontent: Designing & Developing Reusable Content'
+  slug: microcontent-designing-developing-reusable-content-scott-deloach
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2020
+  youtubeId: CoShm-AXYP4
+  speakers:
+  - name: Scott DeLoach
+    slug: scott-deloach
+    twitter: '@scottdeloach'
+    website: http://www.clickstart.net
+  abstract: <p>Microcontent is a focused block of content that can be easily consumed
+    by users and reused in search results, context-sensitive help, chatbots, VR/AR
+    systems, and more. In this presentation, I will share real-world examples of microcontent,
+    discuss a microcontent-based authoring workflow, and demonstrate methods for using
+    microcontent in topics and reusing microcontent in external systems.</p>
+- title: 'Little words, big ideas: How to write microcopy that works'
+  slug: little-words-big-ideas-how-to-write-microcopy-that-works-yael-ben-david
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2020
+  youtubeId: RBStYOBgeB4
+  speakers:
+  - name: Yael Ben-David
+    slug: yael-ben-david
+    twitter: '@YaelBenDavid'
+    website: http://medium.com/@yaelbendavid
+  abstract: '<p>I was completely panicked. The light on my dash came on and I had
+    absolutely no idea what it meant. The icon was indecipherable. If only it had
+    been accompanied by a tiny bit of microcopy. Two words -- “flat tire” -- would
+    have saved me half a heart attack. But that was before I’d ever heard of “microcopy”.</p>
+
+    <p>Back then I was still a neurobiologist ready for something new. When a hi tech
+    company needed a writer with a biology background, I pounced. I discovered “UX
+    writing” on the job and I’ve been a UX writer for complex products ever since.</p>
+
+    <p>Microcopy is the core of UX writing and it’s everywhere. Microcopy is all of
+    the small bits of text that guide users through their journey, whether on a web
+    app, mobile app, or even in text messages and beyond. It includes buttons, menus,
+    push notifications, navigation elements, link text… the list goes on and on. It’s
+    powerful. (Did you hear about the $300 million-button? I’ll tell you about it
+    in this talk!) And often, technical writers, product managers, and even developers
+    end up writing it. </p>
+
+    <p>In this talk I’ll share some theory, a lot of tips for everyday UX writing
+    no matter your role, and lots of real life examples and data. You’ll walk away
+    with:
+
+    - Principles that you can apply in your work
+
+    - Tools that will improve your process and output
+
+    - Practical guidelines to use for reference
+
+    - Resources to learn more
+
+    - A burning desire to get writing!</p>'
+- title: Storytelling for Technical Products - What We Can Learn from Lego and Pixar
+  slug: storytelling-for-technical-products-what-we-can-learn-from-lego-and-pixar-akshay-iyer
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2020
+  youtubeId: _SiOkgQd_Js
+  speakers:
+  - name: Akshay Iyer
+    slug: akshay-iyer
+    twitter:
+    website:
+  abstract: <p>Every product has a story. The product management team uses it to scope
+    out features. The pre-sales team uses it to demonstrate it to customers. The marketing
+    team uses it to demonstrate the value of the product. In this presentation, I
+    will discuss how we created a content strategy inspired by lego blocks and Pixar
+    that helped improve product adoption and changed the perception of the value of
+    documentation.</p>
+- title: Influence your customer outreach with best practices for internationalization
+  slug: influence-your-customer-outreach-with-best-practices-for-internationalization-vikram-mulay
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2020
+  youtubeId: mWLXSQT4PFU
+  speakers:
+  - name: Vikram Mulay
+    slug: vikram-mulay
+    twitter:
+    website: http://www.linkedin.com/in/vikramcmulay
+  abstract: '<p>Great localized content begins with a great copy! However, designing
+    a great copy is hard without knowing the best practices. This talk will help you
+    establish best practices for internationalization (i18n) that will enhance your
+    information experience for customers from non-English speaking countries.</p>
+
+    <p>Some time ago the i18n team at my company contacted me with queries about the
+    localization of content. This inspired me to do further exploration of guidelines
+    for creating global content. In this talk, I''ll be sharing the top insights from
+    my research that will change how you think about content forever.</p>
+
+    <p>You will learn how to create a content copy that
+
+    - resonates with international audiences
+
+    - is optimized for translation
+
+    - takes advantage of industry standards for i18n</p>'
+- title: 'The Pains of Composition: How to write your best documentation in a collaborative
+    world'
+  slug: the-pains-of-composition-how-to-write-your-best-documentation-in-a-collaborative-world-matt-reiner
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2020
+  youtubeId: NrEbQOzGFTM
+  speakers:
+  - name: Matt Reiner
+    slug: matt-reiner
+    twitter: '@reinermatthew'
+    website:
+  abstract: '<p>Creating documentation is much more than just putting pen to paper.
+    It''s an outpouring of one''s mind and soul onto a canvas. This is a challenging
+    enough endeavor in private, and becomes increasingly difficult when writing is
+    done in a collaborative environment where any team member can see, critique, and
+    even alter your work.</p>
+
+    <p>Inspired by Leonid Pasternak''s "The Pains of Composition/The Passion of Creation",
+    this talk explores the challenges and power in opening up your creative process
+    to collaboration with others. We''ll talk about some of the difficulties we encounter,
+    talk about how they affect us, and explore how we can overcome them to do our
+    best work. We''ll look at:</p>
+
+    <p>• Writing alongside a complicated spectrum of personalities</p>
+
+    <p>◦ I miss being the LONE documentarian...</p>
+
+    <p>◦ Prevention-focused vs. promotion-focused individuals</p>
+
+    <p>◦ The introversion vs. extroversion scale</p>
+
+    <p>◦ Leading (gulp) from within</p>
+
+    <p>• Building constructive feedback loops and fixing bad feedback</p>
+
+    <p>◦ Now EVERYONE has an opinion?...</p>
+
+    <p>◦ Creating an open dialogue built on a foundation of trust</p>
+
+    <p>◦ Constructive vs. negative feedback</p>
+
+    <p>◦ Modeling healthy feedback</p>
+
+    <p>• Developing a shared motivation and passion</p>
+
+    <p>◦ Who REALLY cares about the documentation?...</p>
+
+    <p>◦ Understanding your value as part of the team</p>
+
+    <p>◦ Forming a shared passion in the team</p>
+
+    <p>◦ Increasing and communicating awareness</p>
+
+    <p>• Thriving in transparency</p>
+
+    <p>◦ What happens when people can WATCH me work?...</p>
+
+    <p>◦ Being real with how writing ebbs and flows</p>
+
+    <p>◦ Pair writing and review, like finger-painting a masterpiece on a shared canvas</p>
+
+    <p>◦ It''s not Big Brother, it''s hand in hand teamwork</p>
+
+    <p>This talk opens a dialog around the challenges and fears we all face while
+    collaborating on documentation within a team and gives direct steps we can take
+    to help our teams – and work – grow stronger and better over time.</p>'

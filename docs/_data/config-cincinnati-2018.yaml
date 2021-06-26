@@ -17,7 +17,7 @@ cobrand:
   logo: openhelp.svg
 
 photos:
-  default: _static/2018/assets/headers/union-hall.png
+  default: _static/conf/images/headers/union-hall.png
 
 tickets:
   corporate:
@@ -71,14 +71,12 @@ about:
     Main Room
   unconfroom:
     Unconference Room
+  job_fair_room: Unconference Room
 
 cfp:
   url: https://goo.gl/forms/YWiReuKvVEa86oON2
   ends: June 18, 2018
   notification: June 30, 2018
-
-job_fair:
-  location: Unconference Room
 
 flaglanding: False
 flagcfp: False

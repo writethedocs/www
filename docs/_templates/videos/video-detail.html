@@ -1,5 +1,4 @@
-{%- set key_int = key|int -%}
-{%- set talk = data[key_int] -%}
+{%- set talk = data[key] -%}
 
 .. raw:: html
 
@@ -14,6 +13,10 @@
       </div>
       {% endif %}
 
+      {% if talk.sketchnoteLink and talk.sketchnoteImage %}
+          <h2>Sketchnote</h2>
+          <a href="{{ talk.sketchnoteLink }}"><img alt="Sketchnote" src="{{ talk.sketchnoteImage }}" /></a>
+      {% endif %}
 
       <h2>Description</h2>
 

@@ -47,17 +47,10 @@
   series_slug: eu
   slug: the-quest-for-scientific-credit-for-software-documentation-ajaruga
   speakers:
-  - details: "<p>I'm a PhD student at the Faculty of Physics working in a research\
-      \ group\ndeveloping two C++ libraries aimed at the atmospheric community.  In\
-      \ this\npresentation I'd like to talk about our quest to link the scientific\n\
-      credit with the software documentation. I'd like to talk about how we\ntried\
-      \ to combine explaining scientific ideas in LaTeX with explaining API\nalong\
-      \ with automatic code listings in one journal-structured documentation\nand\
-      \ how we managed to publish both the code and the documentation in\npublic,\
-      \ peer-reviewed Geoscientific Model Development journal.  </p>\n"
-    name: Anna Jaruga
+  - name: Anna Jaruga
     image: /_static/img/2015/eu/speakers/anna_jaruga_small.jpg
     slug: ajaruga
+    twitter:
   title: The quest for scientific credit for software documentation
   year: '2015'
   youtubeId: Qg7lOWyT2mo

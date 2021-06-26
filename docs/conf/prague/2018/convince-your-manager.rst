@@ -62,4 +62,4 @@ List of talks from 2017
 
 .. datatemplate::
    :source: /_data/2017.{{templatecode}}.speakers.yaml
-   :template: 2017/simple-talk-list.rst
+   :template: simple-talk-list.rst

@@ -1,0 +1,48 @@
+<svg width="660" height="402" viewBox="0 0 660 402" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+  <![CDATA[
+    @font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
+    text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important}
+  ]]>
+</style>
+<g id="highest-education-level">
+<g id="Vertical bar chart">
+<path id="Grid_v_1" d="M61 344H591" stroke="#F0F0F0"/>
+<path id="Grid_v_2" d="M61 284H591" stroke="#F0F0F0"/>
+<path id="Grid_v_3" d="M61 224H591" stroke="#F0F0F0"/>
+<path id="Grid_v_4" d="M61 164H591" stroke="#F0F0F0"/>
+<path id="Grid_v_5" d="M61 104H591" stroke="#F0F0F0"/>
+<path id="Grid_v_6" d="M61 44H591" stroke="#F0F0F0"/>
+<g id="not specified">
+<text id="Not specified" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="520.584" y="365.187">Not specified</tspan></text>
+<path id="Bar_1_1" d="M528 342V344H581V342H528Z" fill="#1E73BE"/>
+<text id="0.25%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="14" letter-spacing="0em"><tspan x="539.223" y="334.884">0.25%</tspan></text>
+</g>
+<g id="still studying">
+<text id="Still Studying" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="426.459" y="365.187">Still Studying</tspan></text>
+<path id="Bar_1_2" d="M436 342V344H489V342H436Z" fill="#1E73BE"/>
+<text id="0.25%_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="14" letter-spacing="0em"><tspan x="443.223" y="335.884">0.25%</tspan></text>
+</g>
+<g id="tech college">
+<text id="Technical College" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="256.596" y="365.187">Technical </tspan><tspan x="262.813" y="379.187">College</tspan></text>
+<path id="Bar_1_4" d="M255 330V344H308V330H255Z" fill="#1E73BE"/>
+<text id="2.2%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="14" letter-spacing="0em"><tspan x="266.112" y="325.884">2.2%</tspan></text>
+</g>
+<g id="high school">
+<text id="High School" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="339.776" y="365.187">High School</tspan></text>
+<path id="Bar_1_3" d="M346 320V344H399V320H346Z" fill="#1E73BE"/>
+<text id="4%" fill="black" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="14" letter-spacing="0em"><tspan x="362.82" y="313.884">4%</tspan></text>
+</g>
+<g id="undergrad">
+<text id="Undergraduate Degree" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="152.865" y="365.187">Undergraduate </tspan><tspan x="174.481" y="379.187">Degree</tspan></text>
+<path id="Bar_1_5" d="M167 20V344H220V20H167Z" fill="#1E73BE"/>
+<text id="54%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="14" letter-spacing="0em"><tspan x="180.122" y="36.8843">54%</tspan></text>
+</g>
+<g id="postgrad">
+<text id="Postgraduate Degree" fill="black" fill-opacity="0.5" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="12" letter-spacing="0em"><tspan x="71.1915" y="365.187">Postgraduate </tspan><tspan x="87.4806" y="379.187">Degree</tspan></text>
+<path id="Bar_1_6" d="M80 110V344H133V110H80Z" fill="#1E73BE"/>
+<text id="39%" fill="white" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="14" letter-spacing="0em"><tspan x="92.9512" y="129.884">39%</tspan></text>
+</g>
+</g>
+</g>
+</svg>

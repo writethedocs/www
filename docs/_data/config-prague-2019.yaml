@@ -12,7 +12,7 @@ email: prague@writethedocs.org
 color: coral
 
 photos:
-  default: _static/2019/assets/headers/prague-group.png
+  default: _static/conf/images/headers/prague-group.png
 
 buttons:
   top:
@@ -20,14 +20,16 @@ buttons:
     #   link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    - text: Buy a Ticket!
-      link: /tickets
-    - text: See the talks!
-      link: /speakers
+    - text: Browse the Pictures
+      link_absolute: https://flic.kr/s/aHsmGXavWt
+    # - text: What to expect?
+    #   link: /welcome-wagon
+    # - text: See the talks!
+    #   link: /speakers
     # - text: Prepare with the Welcome Wagon
     #  link: /welcome-wagon
-    # - text: Watch the Live Stream
-    #  link: /livestream
+    - text: Watch the Videos
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkpYchP1iFnQnc7i-2xJd0I
     # - text: Browse the photos
     #  link: /livestream
 
@@ -59,6 +61,8 @@ sponsors:
     # They are actually a publisher, but I want these styles :)
     - name: mozilla-new
       link: https://developer.mozilla.org/en-US/
+    - name: document360
+      link: https://document360.io
   publisher:
   second:
     - name: redhat-new
@@ -74,6 +78,8 @@ sponsors:
       link: https://www.kiwi.com/
     - name: people-text
       link: https://www.people-text.de/
+    - name: jetbrains
+      link: https://www.jetbrains.com/
   first:
     - name: buildkite
       link: https://buildkite.com/
@@ -122,23 +128,22 @@ about:
     Main Ballroom
   unconfroom:
     Restaurant and Aero Hall, ground floor
+  job_fair_room: Aero Hall, ground floor
 
 cfp:
   url: https://goo.gl/forms/NdcXO3SGhUxlidht1
   ends: Tuesday, April 30th
   notification: Monday, June 2nd
 
-job_fair:
-  location: Aero Hall, ground floor
-
 flaghassponsors: True
 flagcfp: False
-flagticketsonsale: True
+flagticketsonsale: False
 flagspeakersannounced: True
 flaghasschedule: True
 flagwelcomewagon: False
-flaglivestreaming: False
+flaglivestreaming: True
 flagvideos: false
+flagpostconf: True
 
 flaghashike: False
 flaghasboat: True

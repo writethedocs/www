@@ -68,7 +68,6 @@ Writing Day
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-writing-day.yaml
    :template: include/schedule2019.rst
-   :include_context:
 
 {% else %}
   A detailed schedule will be announced soon.
@@ -84,6 +83,23 @@ We'll also help groups organize dinner plans, so you can continue your conversat
 * **Where**: {{about.venue}}, {{about.mainroom}}
 * **When**: **17:00-20:00**
 
+Welcome Wagon: Write the Docs Introduction
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Join us for an informal introduction to Write the Docs, to the `Welcome Wagon </conf/{{shortcode}}/{{year}}/welcome-wagon>`__, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new before we join the opening reception.
+
+* **Where**: {{about.venue}}, in the downstairs foyer (near the cloakroom)
+* **When**: **17:00**
+
+Welcome Wagon: Venue Tour
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Come on a short tour of the venue with a veteran Write the Docs attendee so you’ll know where everything is and everything you can take part in.
+
+* **Where**: {{about.venue}}, starting near the registration desk
+* **When**: **17:30**
+
+
 Monday, September 16
 --------------------
 
@@ -95,6 +111,14 @@ This is the main event! Hear from lots of interesting folks about all things doc
 We will have talks all day on the main stage, and a unconference session running in parallel in the afternoon.
 
 *Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+
+Welcome Wagon: Venue Tour
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If you missed the tour on Sunday evening, we'll be re-running it on Monday.
+
+* **Where**: {{about.venue}}, starting near the registration desk
+* **When**: **9:15**
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
@@ -111,7 +135,6 @@ Conference Talks
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-day-1.yaml
    :template: include/schedule2019.rst
-   :include_context:
 
 {% else %}
   A detailed schedule will be announced soon.
@@ -134,7 +157,7 @@ The official Write the Docs social!
 This event is for **conference attendees only**. Please bring your wristband or badge to be let into the venue.
 Light snacks and drinks are included while our tab lasts. Full-service dinner will not be provided.
 
-* **Where**: `RKO (Restaurant by Retro), Francouzská 4, Prague 2 <https://goo.gl/maps/qJUvEuShp8kUC7ac8>`_ (Namesti Miru tram/metro stop)
+* **Where**: `eRKo Gastro Pub (Restaurant by Retro), Francouzská 4, Prague 2 <https://goo.gl/maps/qJUvEuShp8kUC7ac8>`_ (Namesti Miru tram/metro stop)
 * **When**: **20:00-23:00**
 
 .. TODO add this variable?
@@ -164,7 +187,6 @@ Conference Talks
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-day-2.yaml
    :template: include/schedule2019.rst
-   :include_context:
 
 {% else %}
   A detailed schedule will be announced soon.
@@ -178,7 +200,7 @@ Job Fair
 We'll be holding a job fair on Tuesday morning!
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **10:30-11:50**
+* **When**: **10:00-12:10**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
 
 Unconference

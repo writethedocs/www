@@ -9,6 +9,8 @@ About Our Organization
    /team
    /origin-story
    /documentarians
+   /code-of-conduct
+
 
 Guiding Principles and Governance
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -26,3 +28,9 @@ Origin Story
 ~~~~~~~~~~~~
 
 If you're new to the community and have interest in our history, check out the :doc:`/origin-story`. You can also read about how we came to call ourselves :doc:`/documentarians`.
+
+
+Code of Conduct
+~~~~~~~~~~~~~~~
+
+We believe strongly in providing a welcoming and inclusive community. You can read our :doc:`/code-of-conduct` to better understand what we expect in our online and in-person spaces.
