@@ -68,8 +68,10 @@ Reviewing Guidelines
 
 **Revisit your first ~15 talks.** When you're reviewing this many talks, it can take a while to get the feel of the rating system since, at first, you only have a small sample to compare to. To solve this problem, we recommend that, when you get to the end of your reviews, you go back and take another quick look at the first 15 or so talks you looked at, to make sure your rating holds up in the context of the whole pool.
 
-**The review meeting.** This can take up to two hours. We sort talks by **Median`` rating, and move quite quickly through the top half a dozen talks (although if there is a **1** as well as a high score it might need some discussion).
-Dealing with conflicts of interest. Basically, if you have a conflict of interest with a particular proposal, don't vote on it. This includes your own proposals.
+**The review meeting.** This can take up to two hours. We sort talks by **Median** rating, and move quite quickly through the top six or so talks (although if there is a **1** as well as a high score it might need some discussion).
+
+Dealing with conflicts of interest::
+   Basically, if you have a conflict of interest with a particular proposal, don't vote on it. This includes your own proposals.
 
 The intellectual stuff
 ~~~~~~~~~~~~~~~~~~~~~~
