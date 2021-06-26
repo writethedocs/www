@@ -63,7 +63,7 @@ Members of the community also gave shoutouts to resources for bias-free language
 - `Bias-Free Language <https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/>`_ in the APA Style Guide
 - `Terminology, Power and Oppressive Language <https://tools.ietf.org/id/draft-knodel-terminology-00.html>`_, a draft standard from the IETF
 
-Finally, a few handy WTD resources: `lists of resources for inclusive writing and accessibility tooling <https://www.writethedocs.org/guide/writing/style-guides/#reducing-bias-in-your-writing>`_, plus `some relevant conference talks and writeups in newsletters </topics/#accessibility-and-inclusivity>`__. 
+Finally, a few handy WTD resources: `lists of resources for inclusive writing and accessibility tooling <https://www.writethedocs.org/guide/writing/reducing-bias>`_, plus `some relevant conference talks and writeups in newsletters </topics/#accessibility-and-inclusivity>`__. 
 
 ------------------------------------------
 Dealing with stress & struggling to write

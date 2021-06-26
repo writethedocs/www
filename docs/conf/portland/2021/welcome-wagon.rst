@@ -62,7 +62,7 @@ Conference talks and Q&A
 ------------------------
 
 - There’s a talk schedule on the **Reception** page and on the `Write the Docs website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/schedule/>`__. Select the Calendar icon next to the talks you want to see on the Reception page to add them to your calendar.
-- When it’s time for a talk you want to see, select **Stage**.
+- When it’s time for a talk you want to see, select **Stage**. Press play to start the stream.
 - If we have problems with the online platform, we will set up a back-up stream. If turned on, we will post links to the back-up stream in the conference chat and on the `conference Slack channel <https://writethedocs.slack.com/archives/C1AKFQATH>`__.
 - After a talk, feel free to tweet about it with the hashtag #writethedocs.
 
@@ -122,7 +122,7 @@ Unconference
 
 - The Unconference is a set of informal sessions that take place all day Monday and Tuesday afternoon. `Unconference talks focus on conversations and exchanges of ideas between participants. <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/unconference/>`__
 - You can attend unconference sessions, or, if you have an idea for a session, you can lead one. Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
-- Learn more about the Unconference by reading the `_Unconference Cheat Sheet <https://www.writethedocs.org/conf/portland/2021/unconference-cheatsheet/>`__.
+- Learn more about the Unconference by reading the `Unconference Cheat Sheet <https://www.writethedocs.org/conf/portland/2021/unconference-cheatsheet/>`__.
 
 Lead an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -150,7 +150,8 @@ Join an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 {% if flaghasschedule %}
-- Starting Monday morning, check the`Unconference sign-up <{{unconf.url}}>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
+
+- Starting Monday morning, check the `Unconference sign-up <{{unconf.url}}>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
 - At the time the session starts, go to **Sessions** and select the session with the table number that corresponds to the one in the `Unconference schedule <{{unconf.url}}>`__.
 {% else %}
 - Starting Monday morning, check the Unconference schedule to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
@@ -231,58 +232,77 @@ Small group video chats
 - You can start a 1:1 video chat with one person and then send the link to up to two other people, to start a 4-person video chat.
 - This is a great way to continue a conversation that started in an Unconference or Hallway session.
 
+Monday night social
+^^^^^^^^^^^^^^^^^^^^^^^
+
+The Monday Night Social is a chance to chat informally with other conference attendees. This year, the Monday Night Social will be held from 5:00 to 7:00 pm PST in Spatial Chat. Look for a link from the conference organizers at the conference on Monday. Spatial chat works just like real conversations, except in a virtual room.
+
+- Once you enter the spatial chat, you'll see a bubble with your video or name in it.
+- You can use the icons along the bottom to turn on or off your video or audio.
+- There will be several rooms to find people in. Look in the menu on the right-hand side and double-click on a room to enter it.
+- Once you are in a room, drag your bubble towards people to chat with them. The closer you are to other people, the better you can hear them.
+- If you want to chat with someone specific, find their name in the left-hand side menu and double-click to be taken to where they are in the virtual room.
+- Remember to follow the Pac Man rule and leave a space open in your group conversations for new people to join.
+
+This is new to everyone this year, so experiment and have fun! There is no wrong way to do this!
 
 Pro tips
 --------
 
 - Conferences are exhilarating, but can also be exhausting. Give your brain a break! Grab a quiet spot or take a quick walk. Play a board game on your lunch break. Come back invigorated.
-
 - Find out who is attending the conference before you attend. Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__, and review the `list of speakers <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/speakers/>`__.
-
 - In case of technical issues with our main platform Hopin, please watch the `#wtd-conferences Slack channel <https://writethedocs.slack.com/archives/C1AKFQATH>`_ for status updates and alternative viewing links that might be posted.
 
 FAQs
 ----
 
 Are the talks recorded?
+~~~~~~~~~~~~~~~~~~~~~~~
 
 - Stage talks and Q&A sessions are recorded. Videos will be published in the `Write the Docs Video Archive <https://www.writethedocs.org/videos/>`__ shortly after the conference (typically about a week after the conference ends).
 - Other sessions (such as Unconference, Hallway, and Writing Day sessions) are not recorded.
 
 How do I get into the virtual conference?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Getting into the conference is a two-step process.
 - You buy a ticket, and then you get a link to register. During this registration process, you will get a link to get into the conference.
 
 Do I have to be on video during the conference?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - You can choose whether to share your video during the conference, including during Unconference sessions. Select the Video Camera icon to turn on and off your video.
 - You can also share your screen during an Unconference. Select the Monitor icon to share your screen. Multiple people can share their screens at once.
 - Select the Settings icon to change your audio or video settings.
 - To make someone’s screen larger, double-click on it.
- 
+
 How do I see what’s happening right now?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Go to Reception to see the talk schedule.
 - Go to the Write the Docs website to view the `_full schedule <https://www.writethedocs.org/conf/portland/2021/schedule/>`__.
-- View the `_Integrated schedule <{{unconf.url}}>`__ to see what Writing Day and Unconference sessions are happening.
+- View the `Integrated schedule <{{unconf.url}}>`__ to see what Writing Day and Unconference sessions are happening.
 - Go to the Expo to view Sponsor Booths.
 - If it’s Tuesday morning, go to the Expo to view the Job Fair.
- 
+
 Someone sent me a message at the conference. Where can I see it?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - In the Chat tool, you can toggle between viewing People (a list of attendees) and Messages (a list of the messages you sent and received).
- 
+
 I want to tag someone in a comment in chat. Why isn’t it working?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - The widget to search for users to tag in chat goes away while it's searching (which makes people think that it's not working) so just wait a bit.
- 
+
 How do I ask a question to the speakers?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - There’s a Q&A session after each talk in Sessions. In Chat, enter your question preceded by a Q:. The moderators will send your question to the speaker.
 - If your question isn’t answered during Q&A, you can reach out to the speaker directly in Chat by selecting the People tab and sending them a direct message.
 
 How should I prepare for the Job Fair?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Each Job Fair booth participant will run their booth differently.
 - Typically, the booth will be staffed, so when you select it, you will be able to join a video chat with someone from the company or Chat with them in the booth chat.
@@ -290,25 +310,54 @@ How should I prepare for the Job Fair?
 - Come prepared with questions for the booth staff about the company and the jobs they have available.
 - Some booths will not be staffed, but will have a video or text information about applying for jobs at the company.
 
-I’m having a technical issue. What can I try?
 
-- Try refreshing your browser. This can solve many technical issues.
-- Try using a different browser.
-- If you are using Chrome, try using Incognito mode.
-- If you are using Chrome, select the Lock icon in your browser bar. Change the Camera, Microphone, and Sound settings.
-- If you are using a Mac computer and Chrome, go to the Apple menu → System Preferences → Security and Privacy. Choose "Screen Recording" from the list, and enable Chrome.
-- Log out of Google.
-- Log in with a different Google account, if you have a personal and company account.
+I’m having a technical issue. What can I try?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Make sure you’re using a browser supported by Hopin. List of supported browsers: https://hopin.zendesk.com/hc/en-gb/articles/360056078872-Browser-Compatibility-for-online-events-on-Hopin 
+- Refresh the Hopin page.
+- Log out of Google. Log in with a different Google account, if you have separate personal and company accounts.
+- Try using a Private browsing window.
 - Disable browser extensions.
-- Log into your company’s VPN. If you are logged in, try logging out.
-- Check that your router is not blocking streaming.
-- Try a different computer.
+- Log into your company’s VPN. If you are already logged in, try logging out.
+- Try a different computer. Sometimes work computers can have video streaming restrictions.
+- Check that your router is not blocking video streaming.
+
+
+I’m unable to watch the main stage talks. I am getting a “This video is restricted” error.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Some attendees have reported issues not being able to see the main stage video stream, instead seeing the following error message: “This video is restricted. Please check the Google Workspace administrator and/or the network administrator restrictions”
+
+This issue is caused by restrictions on your computer’s account, browser, computer, or network. We most often see this issue when attendees use their work computers or work accounts to join the conference.
+
+Try the following steps to work around this issue:
+
+- Log into your company’s VPN. If you are already logged in, try logging out.
+- Log out of YouTube or your Google account.
+- Try a different browser.
+- Try a different computer. 
+- If you are using your work computer and still running into issues, your company’s IT department may need to temporarily disable Restricted Mode. More details can be found here:  https://support.google.com/youtube/answer/174084?hl=en
+
+ 
+I'm unable to share my webcam or microphone in a session or table.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- You can use the Hopin Stream Test at https://app.hopin.to/precall to check if your settings are configured correctly and to see if you are having any network issues. Read more at https://hopin.zendesk.com/hc/en-gb/articles/360059622932-Test-your-stream-quality-with-the-Hopin-Stream-Test
+- If you plug in a headset *after* you have joined the conference, you may need to restart your browser and join in again.
+- You will need to grant browser permissions for Hopin to access your microphone and webcam. If you are having issues with your webcam and microphone check these two help articles
+
+  - `I'm having Camera and/or Microphone issues on Mac <https://hopin.zendesk.com/hc/en-gb/articles/360056527911-I-m-having-Camera-and-or-Microphone-issues-on-Mac/>`__
+  - `I'm having Camera and/or Microphone issues on Windows 10 <https://hopin.zendesk.com/hc/en-gb/articles/360059277232-I-m-having-Camera-and-or-Microphone-issues-on-Windows-10/>`__
 
 If none of these work, reach out to the Help Desk for help. Select Expo > Helpdesk and ask your question in the Chat.
 
 What can I do at the conference?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - You can watch talks, participate in the Unconference, visit the Job Fair, talk to our sponsors, give a Lightning Talk, and chat with other conference attendees. If you need help with any of it, reach out to the Welcome Wagon at Expo > Help Desk.
 
 Where can I learn more?
-- Read the `_Welcome Wagon guide <https://www.writethedocs.org/conf/portland/2021/welcome-wagon/>`__ to the conference, the `_Unconference Cheat Sheet <https://www.writethedocs.org/conf/portland/2021/unconference-cheatsheet/>`__, `_the Writing Day Cheat Sheet <https://www.writethedocs.org/conf/portland/2021/writing-day-cheatsheet/>`__, and watch the `_virtual conference intro video <https://youtu.be/aLtnc0ITzok>`__. You can learn how to reach out to attendees, what happens at each event, and how to get more help.
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Read the `Welcome Wagon guide <https://www.writethedocs.org/conf/portland/2021/welcome-wagon/>`__ to the conference, the `Unconference Cheat Sheet <https://www.writethedocs.org/conf/portland/2021/unconference-cheatsheet/>`__, `the Writing Day Cheat Sheet <https://www.writethedocs.org/conf/portland/2021/writing-day-cheatsheet/>`__, and watch the `virtual conference intro video <https://youtu.be/aLtnc0ITzok>`__. You can learn how to reach out to attendees, what happens at each event, and how to get more help.

@@ -15,6 +15,8 @@ writing_day:
 talks_day1:
   - time: '8:00 <a href="https://time.is/PT">Pacific</a>'
     title: Platform opens
+  - time: '8:30'
+    title: Conference Intro and Tour with the Welcome Wagon
   - time: '9:00'
     title: Write the Docs Team - Introduction to Write the Docs
   - time: '9:45'

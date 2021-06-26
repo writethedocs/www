@@ -65,15 +65,32 @@ For more information, see our `GitLab issue <https://gitlab.com/gitlab-org/techn
 When you find an issue you want to work on:
 
 #. Create a merge request with your proposed changes.
-#. Add labels to the merge request. Use the same ones assigned to your issue, and add `community contribution` as well.
+#. Reach out to one of the GitLab Team Members available during Writing Day, either in Hopin or in Slack.
 
-A bot will assign your merge request to the appropriate tech writer at GitLab.
 The merge request, if acceptable, will be merged during the Writing Day session or in the following days.
 
 After your merge request is reviewed and merged, it will appear on the docs site
 shortly!
 
-If you have any questions, you can reach out to us in person or in Slack: `@selhorn`, `@amyq`, `@arty-chan`, `@mikejang`.
+If you have any questions, you can reach out to us in Hopin or in Slack: `@selhorn`, `@amyq`, `@arty-chan`, `@mikejang`.
+
+Write the Docs Style Guides Project
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The Write the Docs `Style Guides <https://www.writethedocs.org/guide/writing/style-guides>`_ is a growing collection of resources. This guide includes standards for writing and designing content and links to external resources.
+
+Our Style Guide project goal is to improve this guide. Areas of focus include content restructuring, evaluating the content, and curating the external resource links.
+
+Are you passionate about style guides? Do you want to learn more about them? Do you have browser bookmarks that you visit as you work (like I do)?
+
+Experienced or early career, you're welcome join us on this "let's make an awesome style guide resource"  journey. It's our (my) first writing day project, so we'll learn together.
+
+Links
+
+- The page on the Write the Docs repo is `style-guides.md <https://github.com/writethedocs/www/blob/master/docs/guide/writing/style-guides.md>`_
+- Home » Learning Resources » Documentation Guide » `Style Guides <https://www.writethedocs.org/guide/writing/style-guides>`_
+
+Questions? Reach out in Hopin or in Slack: @barriebyron and @jrondeau.
 
 During the conference
 ---------------------

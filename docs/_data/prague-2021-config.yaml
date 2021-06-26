@@ -146,6 +146,11 @@ cfp:
   notification: "July 16, 2021"   # leaves 6 weeks to write and record
   video_by: "September 3, 2021"   # 4 weeks before the conf
 
+grants:
+  url: https://docs.google.com/forms/d/e/1FAIpQLSfjeNFe_cJ0xbdQ5SuHiBe8RDzMrLGd_W58bWEWsCwmS0CJZw/viewform
+  ends: "August 15, 2021"
+  notification: "August 25, 2021"
+
 sponsors:
   keystone:
   patron:
@@ -154,13 +159,20 @@ sponsors:
     - name: peopletext
       link: https://www.people-text.de/en/home-en.html
       brand: people text
+  media:
+    - name: bart
+      link: http://www.bartatwork.com
+      brand: Bart at work
+    - name: techwriter-pl
+      link: http://techwriter.pl
+      brand: techwriter.pl
 
 
 # Things that change over time, listed in order of change
 flagcfp: True
 flaglanding: False
 flaghassponsors: True
-flagticketsonsale: False
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False

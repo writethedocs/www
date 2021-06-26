@@ -57,7 +57,7 @@ jobs:
       uses: actions/cache@v2
       with:
         path: ${{ env.pythonLocation }}
-        key: v1-${{ env.pythonLocation }}-${{ hashFiles('requirements.txt') }}
+        key: v2-${{ env.pythonLocation }}-${{ hashFiles('requirements.txt') }}
 
     - name: Install dependencies
       run: |
