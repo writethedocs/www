@@ -616,10 +616,14 @@ Age
 
 Note: 3 respondents skipped this question
 
-The two largest age groups (26-35 year olds and 36-45 year olds)
+.. vale off
+
+The two largest age groups (26 to 35-year-olds and 36 to 45-year-olds)
 combined formed 67.5% of the total respondents. Only 4.6% of respondents
 fell into the youngest age group, and there were no respondents in the
 66+ age bracket.  
+
+.. vale on
 
 .. figure:: images/2019/12.svg
    :alt: Figure: Age
