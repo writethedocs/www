@@ -894,7 +894,7 @@ Salary - Employees
                                                                          
    Note:                                                                 
    Please do not include the currency symbol or any decimal places.      
-   Commas can be used for digit grouping in the US/UK style (eg 50,000). 
+   Commas can be used for digit grouping in the US/UK style (e.g. 50,000). 
                                                                          
    Example:                                                              
    Person A receives $4,000 take home pay each month, but an additional  

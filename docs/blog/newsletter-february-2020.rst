@@ -44,7 +44,7 @@ So you're no longer the only documentarian in your company. Hooray! Working in a
 * Discuss the project's roadmap with project/product managers, and ask them (and other stakeholders) about immediate documentation needs. For your new writers, ask about topics that could use a little extra attention - an opportunity for them to specialize in something.
 * Encourage new writers to sit in during backlog grooming and project demos. Product prioritization can inform your own priorities.
 * Coordinate with engineering teams by attending their standup and planning meetings. You're working towards a common goal, so it helps to know how everyone's contributions fit together.
-* Try an issue tracking tool (eg Jira or GitHub Issues). Some feel it helps keep them accountable and prevents them from struggling under the workload. Similarly, for big projects, try mapping them out using a tool, to give your team and managers a high-level glance at everyone's workload.
+* Try an issue tracking tool (e.g. Jira or GitHub Issues). Some feel it helps keep them accountable and prevents them from struggling under the workload. Similarly, for big projects, try mapping them out using a tool, to give your team and managers a high-level glance at everyone's workload.
 * Set up a mandatory flag or field to say if an item needs to be in the release notes. This ensures that important items and fixes won't go undocumented.
 * Audit your docs, archiving or updating content that people aren't reading. Alongside PMs, determine which content is outdated or unnecessary, and then divide them among writers on the team. And if you're struggling to persuade colleagues that an audit is necessary, our next article might just help.
 

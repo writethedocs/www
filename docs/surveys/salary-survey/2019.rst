@@ -430,7 +430,7 @@ included:
    | Gym, fitness, sport or other      | 17                                |
    | wellness-related benefits         |                                   |
    +-----------------------------------+-----------------------------------+
-   | Other types of insurance eg life, | 13                                |
+   | Other types of insurance e.g. life, | 13                                |
    | accident, income protection etc   |                                   |
    +-----------------------------------+-----------------------------------+
    | Parking, transportation or        | 21                                |
