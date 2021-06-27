@@ -31,7 +31,7 @@ A recent question about how to balance docs work and support content produced an
 
 But this may be a rare privilege; many replies to the original post were from people who work on support teams, not on dedicated docs teams. And they write the docs. In their situations, there isn't a clear distinction between roles, nor between types of content. More than one reply described scenarios in which all docs are produced by support. 
 
-Still other replies came from technical writers whose role emerged from support. Some writers report to a support manager, and some people in a dedicated writer role work from support tickets, to make sure the docs address known customer issues. Some folks work on both product docs and separate knowledgebase articles.
+Still other replies came from technical writers whose role emerged from support. Some writers report to a support manager, and some people in a dedicated writer role work from support tickets, to make sure the docs address known customer issues. Some folks work on both product docs and separate knowledge base articles.
 
 In short, there are myriad ways to organize the relationship between docs teams and support teams, and between the different (or not-so-different) types of content. What everyone seemed to agree on, though, was the need for close and well-coordinated communication across teams and deliverables.
 
