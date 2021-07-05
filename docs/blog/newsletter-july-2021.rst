@@ -85,7 +85,7 @@ This month’s newsletter is sponsored by ClickHelp:
           </td>
           <td width="25%">
             <a href="https://clickhelp.com/clickhelp-technical-writing-blog/clickhelp-june-2021-rainbow-update-overview/?utm_source=write-the-docs&utm_medium=banner-link&utm_campaign=write-the-docs-newsletter">
-              <img style="margin-left: 15px;" alt="ClickHelp" src="/_static/img/sponsors/clickhelp.jpeg">
+              <img style="margin-left: 15px;" alt="ClickHelp" src="/_static/img/sponsors/clickhelp.jpg">
             </a>
           </td>
         </tr>
