@@ -8,7 +8,9 @@ Write the Docs Newsletter – July 2021
 
 Good morning, afternoon, or evening, documentarians! It's Beth and the newsletter team with a last summer update before we head off on a little aestival break. We'll be back in September :) 
 
-I don't have any big announcements for you this month, so we'll head straight into the stories from Slack!
+The main announcement for the month is that the `CFP and ticket sales </conf/australia/2021/news/cfp-open/>`__ have opened for the Australia and India conference! As with our other conferences this year, it'll be held online, and the dates for that are 2nd-3rd December. The CFP is open until 15th August, so get thinking about talks you'd like to submit!
+
+Onto our stories from Slack...
 
 -----------------------------------------
 What's best for your images - JPG or PNG?
