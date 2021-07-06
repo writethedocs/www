@@ -6,7 +6,7 @@
 Write the Docs Newsletter – July 2021
 #####################################
 
-Good morning, afternoon, or evening, documentarians! It's Beth and the newsletter team with a last summer update before we head off on a little aestival break. We'll be back in September :) 
+Good morning, afternoon, or evening, documentarians! It's Beth and the newsletter team with a last summer update before we head off on a little break. We'll be back in September :) 
 
 The main announcement for the month is that the `CFP and ticket sales </conf/australia/2021/news/cfp-open/>`__ have opened for the Australia and India conference! As with our other conferences this year, it'll be held online, and the dates for that are 2nd-3rd December. The CFP is open until 15th August, so get thinking about talks you'd like to submit!
 
@@ -16,7 +16,7 @@ Onto our stories from Slack...
 What's best for your images - JPG or PNG?
 -----------------------------------------
 
-JPG or PNG? Which is the best format to use? Does it even matter which you pick? Well, the Write the Docs community has chimed in to answer your pressing questions, and it seems like PNG is the clear winner. `Portable Network Graphics <https://en.wikipedia.org/wiki/Portable_Network_Graphics>`__, or PNG, offers unmatched clarity for screenshots in online docs and doesn’t degrade when opened and saved like the alternative JPG or JPEG. Compression in PNG is also better since it’s a lossless image format and not a lossy one like JPG, meaning it preserves all of an image’s details. Another advantage of PNG is that it supports transparency, whereas JPG is best for gradient images.
+JPG or PNG? Which is the best format to use? Does it even matter which you pick? Well, the Write the Docs community has chimed in to answer your pressing questions, and it seems like PNG is the clear winner. `Portable Network Graphics <https://en.wikipedia.org/wiki/Portable_Network_Graphics>`__, or PNG, offers unmatched clarity for screenshots in online docs and doesn’t degrade when opened and saved like the alternative JPG or JPEG. Compression in PNG is also better since it’s a lossless image format and not a lossy one like `JPG <https://en.wikipedia.org/wiki/JPEG>`__, meaning it preserves all of an image’s details. Another advantage of PNG is that it supports transparency, whereas JPG is best for gradient images.
 
 Curious to know if there’s something better than PNG? There is, and it’s called `WebP <https://developers.google.com/speed/webp>`__, a format that works for both lossy and lossless compression. If you have a tool that exports to WebP, use it instead of PNG or JPG for enhanced web images. Otherwise, stick with PNG for clear, detailed, high-contrast images.
 
@@ -63,7 +63,7 @@ A short read: `This article <https://www.axios.com/linkedin-erg-pay-affinity-gro
 
 A medium read: `this Great Place To Work article <https://www.greatplacetowork.com/resources/blog/9-proven-strategies-to-improve-diversity-equity-inclusion-at-your-workplace>`__ highlights strategies to improve inclusion and equity in the workplace.
 
-For a much more in-depth exploration (several weeks), Coursera now has two free courses on Anti-Racism offered by the University of Colorado, Boulder: `one <https://www.coursera.org/learn/antiracism-1>`__ and `two <https://www.coursera.org/learn/antiracism-2>`__.
+For a much more in-depth exploration (several weeks), Coursera now has two free courses on Anti-Racism offered by the University of Colorado, Boulder: `course one <https://www.coursera.org/learn/antiracism-1>`__ and `course two <https://www.coursera.org/learn/antiracism-2>`__.
 
 ----------------
 From our sponsor
