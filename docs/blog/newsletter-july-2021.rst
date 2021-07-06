@@ -49,7 +49,7 @@ When you're creating a new version of docs for a release, how important is it to
 
 How to keep the history depends on how you want to use it. If you're using Git and you just want to be able to check the history, you can see it with `git log`. Though it can take some archaelogical work to follow the trail when files get moved.
 
-But what if you want to publish those old docs? One option is to copz your old files alongside your new ones. It's possible to copy the files while retaining their history, but `it takes some effort <https://devblogs.microsoft.com/oldnewthing/20190919-00/?p=102904>`__. However, be aware that Git doesn't track files exactly. It tracks some content (blobs—sequences of bytes), and trees of file names that point to blobs, but it doesn't actually track those things together, which is why that blog post has to use merges to copy the history. It's fighting the way Git wants to work. It might be simpler to copy the file with a commit message saying where it was copied from, to help someone track down the history if they need to.
+But what if you want to publish those old docs? One option is to copy your old files alongside your new ones. It's possible to copy the files while retaining their history, but `it takes some effort <https://devblogs.microsoft.com/oldnewthing/20190919-00/?p=102904>`__. However, be aware that Git doesn't track files exactly. It tracks some content (blobs—sequences of bytes), and trees of file names that point to blobs, but it doesn't actually track those things together, which is why that blog post has to use merges to copy the history. It's fighting the way Git wants to work. It might be simpler to copy the file with a commit message saying where it was copied from, to help someone track down the history if they need to.
 
 If you can publish from something other than HEAD, you can do something much simpler: just use Git's tagging system to mark the commit for an old release, and then publish from that tag. Some teams use different branches for different releases, which would make this even more straightforward.
 
@@ -101,7 +101,7 @@ This month’s newsletter is sponsored by ClickHelp:
 Featured job posts
 ------------------
 
-- ` Senior Technical Writer <https://jobs.writethedocs.org/job/409/senior-technical-writer-engineering/>`__, Squarespace (New York, NY)
+- `Senior Technical Writer <https://jobs.writethedocs.org/job/409/senior-technical-writer-engineering/>`__, Squarespace (New York, NY)
 - `Technical Writer <https://jobs.writethedocs.org/job/413/technical-writer-remote-usa/>`__, Socure (Remote - US)
 - `Technical Writer (Chinese Traditional) <https://jobs.writethedocs.org/job/415/technical-writer-chinese-traditional-taipei-remote-possible/>`__, Gandi Asia Co. Ltd (Taipei / remote possible)
 - `Senior Technical Writer <https://jobs.writethedocs.org/job/416/senior-technical-writer/>`__, Appian (Remote)
