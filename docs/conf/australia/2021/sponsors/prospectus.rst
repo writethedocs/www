@@ -74,7 +74,7 @@ The **Publisher** package is great for sending a team and getting to know the co
 - Four (4) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - A short description (250 characters) and logo of your company on the conference website
 - Name included in welcome announcement in email newsletters and social media
-- **New** A small logo on all Write the Docs website pages for 3 months
+- A small logo on all Write the Docs website pages for 3 months
 
 The **Publisher** package costs **{{sponsorship.publisher.price}}**.
 
@@ -92,10 +92,10 @@ The **Patron** package highlights your company as a force in the industry and co
 - A featured table at our **virtual job fair**
 - Small logo included in intermission slides and on talk videos
 - Name included in welcome announcement in email newsletters and social media
-- **New** 5 minute sponsored lightning talk on main stage of the conference
-- **New** One newsletter sponsorship (logo & 300 characters) in our newsletter ({{ newsletter_subs }}+ subscribers)
-- **New** A logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
-- **New** A :doc:`small ad </sponsorship/website>` displayed on all non-conferences pages of the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months.
+- 5 minute sponsored lightning talk on main stage of the conference
+- One newsletter sponsorship (logo & 300 characters) in our newsletter ({{ newsletter_subs }}+ subscribers)
+- A logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
+- A :doc:`small ad </sponsorship/website>` displayed on all non-conferences pages of the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months.
 
 The **Patron** package costs **{{sponsorship.patron.price}}**.
 
@@ -111,10 +111,10 @@ The **Keystone** package highlights you as our main community partner:
 - A featured table at our **virtual job fair**
 - Large logo included in intermission slides and on talk videos
 - Name included in welcome announcement in email newsletters and social media
-- **New** 5 minute sponsored lightning talk on main stage of the conference
-- **New** Two newsletter sponsorships (logo & 300 characters) in our newsletter ({{ newsletter_subs }}+ subscribers)
-- **New** A logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
-- **New** A :doc:`small ad </sponsorship/website>` on the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months
+- 5 minute sponsored lightning talk on main stage of the conference
+- Two newsletter sponsorships (logo & 300 characters) in our newsletter ({{ newsletter_subs }}+ subscribers)
+- A logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
+- A :doc:`small ad </sponsorship/website>` on the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months
 
 The **Keystone** package costs **{{sponsorship.keystone.price}}**.
 
