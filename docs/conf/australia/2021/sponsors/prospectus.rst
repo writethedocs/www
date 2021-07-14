@@ -46,37 +46,37 @@ First Draft
 
 The **First Draft** package is only available to startups (under 15 employees), non-profits, and open source organizations.
 
-- **Increased** Two (2) tickets_
-- **Increased** One (1) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- **Increased** A short description (250 characters) and logo of your company on the conference website
+- Two (2) tickets_
+- One (1) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- A short description (250 characters) and logo of your company on the conference website
 - Name included in welcome announcement in email newsletters and social media
 
-The **First Draft** package costs AUD **{{sponsorship.first_draft.price}}**.
+The **First Draft** package costs **{{sponsorship.first_draft.price}}**.
 
 Second Draft
 ------------
 
 The **Second Draft** package is great for companies looking to hire or to promote a product.
 
-- **Increased** Three (3) tickets_
-- **Increased** Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- **Increased** A short description (250 characters) and logo of your company on the conference website
+- Three (3) tickets_
+- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- A short description (250 characters) and logo of your company on the conference website
 - Name included in welcome announcement in email newsletters and social media
 
-The **Second Draft** package costs AUD **{{sponsorship.second_draft.price}}**.
+The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
 
 Publisher
 ---------
 
 The **Publisher** package is great for sending a team and getting to know the community.
 
-- **Increased** Seven (7) tickets_
-- **Increased** Four (4) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- **Increased** A short description (250 characters) and logo of your company on the conference website
+- Seven (7) tickets_
+- Four (4) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- A short description (250 characters) and logo of your company on the conference website
 - Name included in welcome announcement in email newsletters and social media
 - **New** A small logo on all Write the Docs website pages for 3 months
 
-The **Publisher** package costs AUD **{{sponsorship.publisher.price}}**.
+The **Publisher** package costs **{{sponsorship.publisher.price}}**.
 
 Patron
 ------
@@ -85,9 +85,9 @@ Patron
 
 The **Patron** package highlights your company as a force in the industry and community:
 
-- **Increased** Thirteen (13) tickets_
-- **Increased** Seven (7) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- **Increased** A medium description (750 characters and logo of your company on the conference website
+- Thirteen (13) tickets_
+- Seven (7) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- A medium description (750 characters and logo of your company on the conference website
 - A **virtual sponsorship booth**
 - A featured table at our **virtual job fair**
 - Small logo included in intermission slides and on talk videos
@@ -97,16 +97,16 @@ The **Patron** package highlights your company as a force in the industry and co
 - **New** A logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
 - **New** A :doc:`small ad </sponsorship/website>` displayed on all non-conferences pages of the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months.
 
-The **Patron** package costs AUD **{{sponsorship.patron.price}}**.
+The **Patron** package costs **{{sponsorship.patron.price}}**.
 
 Keystone
 --------
 
 The **Keystone** package highlights you as our main community partner:
 
-- **Increased** Twenty (20) tickets_
-- **Increased** Ten (10) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- **Increased** A large description (750 characters) and logo of your company on the conference website
+- Twenty (20) tickets_
+- Ten (10) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- A large description (750 characters) and logo of your company on the conference website
 - A featured **virtual sponsorship booth**
 - A featured table at our **virtual job fair**
 - Large logo included in intermission slides and on talk videos
@@ -116,7 +116,7 @@ The **Keystone** package highlights you as our main community partner:
 - **New** A logo on all Write the Docs website pages until the end of 2020. (30,000 pageviews/mo)
 - **New** A :doc:`small ad </sponsorship/website>` on the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months
 
-The **Keystone** package costs AUD **{{sponsorship.keystone.price}}**.
+The **Keystone** package costs **{{sponsorship.keystone.price}}**.
 
 Other Sponsorship Opportunities
 ===============================
@@ -130,9 +130,9 @@ Opportunity Grants
 Provide additional money for our Opportunity Grant program,
 which provides funding for people to attend the conference.
 
-AUD **{{sponsorship.second_draft.price}}**
+**{{sponsorship.second_draft.price}}**
 
-Additionally, for AUD **{{sponsorship.publisher.price}}** we will offer exclusive sponsorship of our Opportunity Grant program.
+Additionally, for **{{sponsorship.publisher.price}}** we will offer exclusive sponsorship of our Opportunity Grant program.
 Please talk to us about this soon, as this option is removed once we have secured the required funding for this benefit.
 
 Benefits
