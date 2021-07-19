@@ -105,7 +105,7 @@ Helpful settings
 Writing Day
 -----------
 
-`Writing Day <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/writing-day/>`__ takes place on {{date.day_two.writing_day_time}}, the day before the conference starts. You can join in anytime {{date.day_two.writing_day_time}} {{tz}}.
+`Writing Day <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/writing-day/>`__ takes place on {{date.day_two.dotw}}, the day before the conference starts. You can join in anytime {{date.day_two.writing_day_time}} {{tz}}.
 
 You can bring a writing project you want to work on, or you can contribute to a project someone else brought.
 
