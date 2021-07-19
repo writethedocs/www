@@ -18,7 +18,7 @@ Where to get help
 
 Conference Intro and Tour
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-Join our our Conference Intro and Tour on Sunday, April 25th at 12:30 pm PST by going to **Sessions** and selecting **Conference Intro and Tour**. Your Welcome Wagon will take you on a tour of the virtual conference platform and show you how to navigate the conference. Learn tips and tricks, meet other attendees, and get to know how the conference works. This session is open to everyone, whether this is your first conference or your fifth.
+Join our Conference Intro and Tour by going to **Sessions** and selecting **Conference Intro and Tour**. Times are listed in the schedule. Your Welcome Wagon will take you on a tour of the virtual conference platform and show you how to navigate the conference. Learn tips and tricks, meet other attendees, and get to know how the conference works. This session is open to everyone, whether this is your first conference or your fifth.
 
 Guides
 ~~~~~~
@@ -105,7 +105,7 @@ Helpful settings
 Writing Day
 -----------
 
-`Writing Day <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/writing-day/>`__ takes place on Sunday, the day before the conference starts. You can join in anytime between 9:30am and 5pm {{tz}}.
+`Writing Day <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/writing-day/>`__ takes place on {{date.day_two.writing_day_time}}, the day before the conference starts. You can join in anytime {{date.day_two.writing_day_time}} {{tz}}.
 
 You can bring a writing project you want to work on, or you can contribute to a project someone else brought.
 
