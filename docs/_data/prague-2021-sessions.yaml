@@ -1,0 +1,512 @@
+- title: 'More than words: Reviewing and updating your information architecture'
+  slug: more-than-words-reviewing-and-updating-your-information-architecture-lana-brindley-she-her
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2021
+  speakers:
+  - name: Lana Brindley (she/her)
+    slug: lana-brindley-she-her
+    twitter: '@loquacities'
+    website: 
+  abstract: '<p>As technical writers, we already know that choosing the right words
+    is important, and we also know that the style and layout of our pages matters.
+    The third leg of the stool is information architecture: getting the right content,
+    in the right place, at the right time. Great information architecture not only
+    helps readers navigate our docs properly, but also influences whether they have
+    a good or bad experience, helps them feel good about your company or product,
+    and can even help them to find information they didn''t know they were looking
+    for. Additionally, good information architecture can help you improve your SEO,
+    improve dwell time on your site, and reduce bounce rates. In this talk, Lana will
+    discuss how to assess your current information architecture, work out what information
+    architecture your docs require, and how to implement it for the best results.
+    Whether you are working with an aging docs suite, or starting fresh, if you can
+    choose the right words, this talk will help you work out where to put them.</p>'
+- title: 'Hustling for Fun and Profit as a Technical Writer: A Freelancing Starter
+    Kit'
+  slug: hustling-for-fun-and-profit-as-a-technical-writer-a-freelancing-starter-kit-karen-sawrey
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2021
+  speakers:
+  - name: Karen Sawrey
+    slug: karen-sawrey
+    twitter: '@krnswry'
+    website: https://krnswry.com/
+  abstract: '<p>The work of a tech writer requires skills, knowledge, and a love of
+    technology combined with constant learning, which is very similar to a developer
+    job. But unlike developers, we, as writers, often hit the career wall while working
+    in the same position, for a single employer, on the same tasks, using the same
+    tools, release after release. </p>
+
+    <p>Often, we hit a glass ceiling in terms of salary, too, as there is nothing
+    new that we could bring to the table while toiling away on the same things, with
+    no practical experience with other tools and approaches. Even with a dream employer,
+    repetitiveness leads to fatigue, hopelessness, and burnout. </p>
+
+    <p>This talk is about changing the mindset from only working for a single employer
+    to successful freelance side-hustling for the sake of growing one''s expertise
+    deeper. It is about becoming a T-shaped tech writer by turning to freelancing
+    in various forms, from consulting to writing, editing, managerial and strategic
+    work. </p>
+
+    <p>The talk covers:</p>
+
+    <ul>
+
+    <li>ethical side of side-hustling</li>
+
+    <li>legal side (contract agreements, non-compete clauses, NDAs)</li>
+
+    <li>financial side (invoicing, payment systems, budgeting, taxes)</li>
+
+    <li>effective time-management (scheduling, working with distributed teams, dealing
+    with scarce communication)</li>
+
+    <li>self-care (optimal work and rest times, setting boundaries, routines &amp;
+    rituals)</li>
+
+    <li>specific tools for dealing with all the points provided above </li>
+
+    </ul>
+
+    <p>The author is a serial side-hustler with years of multi-client freelance experience
+    under the belt.</p>'
+- title: 'When documenting is designing: How to assist API design as a technical writer'
+  slug: when-documenting-is-designing-how-to-assist-api-design-as-a-technical-writer-fabrizio-ferri-benedetti
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2021
+  speakers:
+  - name: Fabrizio Ferri-Benedetti
+    slug: fabrizio-ferri-benedetti
+    twitter: remoquete
+    website: https://passo.uno
+  abstract: '<p>The programmatic equivalent of UX Writing is API Design. The words
+    that you use to describe your API enable conversations between software and people
+    - it''s just a bit more structured and mechanical. That''s why technical writers
+    are uniquely suited to assist technical teams in doing API design, especially
+    when an API First design approach is being followed. </p>
+
+    <p>When documenting a web API, technical writers may end up identifying areas
+    of improvement in the way it''s designed. Much like it happens with user documentation
+    for user interfaces, there''s a big opportunity for making your voice be heard
+    upstream, where APIs are designed and implemented. It takes time, and the right
+    processes, but the end result is better documentation, too.</p>
+
+    <p>In this talk I''ll tell you how I began my API design journey at Ohpen and
+    the kind of processes we put in place to align API design across teams, including
+    an API design style guide that covered error messages, content reuse, and naming
+    conventions, among other things. Along the way, I''ll present some of the most
+    common obstacles I faced and how I got around them.</p>'
+- title: 'Docs leadership: How to become a stronger leader for your team'
+  slug: docs-leadership-how-to-become-a-stronger-leader-for-your-team-jenn-leaver
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2021
+  speakers:
+  - name: Jenn Leaver
+    slug: jenn-leaver
+    twitter: '@jennleaver'
+    website: 
+  abstract: '<p>Leading a documentation team is challenging. You need to focus not
+    only on the content related to your company’s products but also on the overall
+    experience people have when using your documentation. In a lot of ways, the documentation
+    is its own product! So how can you ensure you build and grow a team of empathetic,
+    talented folks who create excellent content and experiences? </p>
+
+    <p>This is a talk for those who are interested in being a formal or informal leader
+    on their docs team. We’ll look at hiring, building out capabilities on your team,
+    docs leadership philosophies, balancing short-term content execution vs. long-term
+    experience strategy, and ways to ensure your team is operating in a high-trust,
+    collaborative model.</p>'
+- title: Cognitive Ergonomics in Technical Writing - Lessons from the Field
+  slug: cognitive-ergonomics-in-technical-writing-lessons-from-the-field-anita-diamond
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2021
+  speakers:
+  - name: Anita Diamond
+    slug: anita-diamond
+    twitter: '@ddocswriter'
+    website: https://ddocs.co.uk
+  abstract: "<p>Trying to explain bleeding edge, complex technology in a way that
+    is useful and comprehensible is challenging for a number of reasons:</p>\n<p>1)
+    Naming, Terminology &amp; Mental Models- \nTerminology - words as symbols, words
+    as signs pointing to concepts. \nShould we create new terminology to explain ‘new’
+    or ‘novel’ concepts and technology?\nOr should we borrow from existing terminology
+    and repurpose words to point to new new concepts and technology?\nIf we do the
+    former, then how does this new terminology impact on our audience’s comprehension
+    of what we are trying to say? If we do the latter, then how do we resolve tensions
+    between the meaning of existing terminologies and the mental models they represent.
+    </p>\n<p>What are the practical ways we can support the creation of new mental
+    models to aid understanding?</p>\n<p>2) Fast and Slow Thinking - \nKahnemann -
+    how do we apply Kahnemann’s principles to Technical Writing \nWe know people don’t
+    want to think, we know they prefer heuristics that are often biased to process
+    information. Yet as Technical writers, we have to convey complex information that
+    may require this less preferred deep thinking. </p>\n<p>What are the practical
+    ways we can resolve this tension and support people to comprehend complexity easily.</p>\n<p>3)
+    Culture and Behaviour Change \nDo you ever feel like you’re wading through mud.
+    The docs aren’t getting written, you’re overwhelmed and a new release is coming
+    out. \nWhy culture matters and what it is? What is culture clash? \nHow do we
+    discover cultural indicators and work with them to promote an effective docs-first
+    culture?</p>"
+- title: Hitchhiker's Guide to Documentation Tools and Processes
+  slug: hitchhiker-s-guide-to-documentation-tools-and-processes-lukas-reu-ner
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2021
+  speakers:
+  - name: Lukas Reußner
+    slug: lukas-reu-ner
+    twitter: '@lukasreussner'
+    website: 
+  abstract: '<p>No matter if you are on earth or any other planet, it''s very likely
+    that one day some Vogon will approach you and ask you the ultimate question: Which
+    tool and process should we use for our documentation? And the worst thing about
+    it: the Vogon could be yourself.</p>
+
+    <p>Fortunately, there''s a simple answer to that question: DON''T PANIC!</p>
+
+    <p>The “small” rest of the answer will be part of this talk. It will guide you
+    through the maze of finding the right documentation tool(s) and the right documentation
+    process(s).</p>
+
+    <p>When it comes to documentation tools, you''ll find a million out there. At
+    least that''s what I encountered several times when I had to decide which tool
+    had to be used in a new documentation project. In this talk, we won''t dive into
+    the nitty-gritty of specific tools. We will focus on overarching categories, such
+    as:</p>
+
+    <ul>
+
+    <li>wikis</li>
+
+    <li>authoring systems</li>
+
+    <li>word processors</li>
+
+    <li>markup code toolchains</li>
+
+    <li>media editing tools</li>
+
+    </ul>
+
+    <p>We''ll then map those tool categories with the following types of use:</p>
+
+    <ul>
+
+    <li>user groups (contributors, consumers, and operators)</li>
+
+    <li>content tasks (creating, editing, reviewing, and styling)</li>
+
+    <li>output environments (findability, discoverability, and accessibility)</li>
+
+    </ul>
+
+    <p>And last but not least, we''ll have a look at different documentation processes
+    and how they fit to our defined tool categories and types of use.</p>'
+- title: 'Common Tools: documentation outside the tech bubble'
+  slug: common-tools-documentation-outside-the-tech-bubble-kathleen-dimmich-mahaffy
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2021
+  speakers:
+  - name: Kathleen Dimmich Mahaffy
+    slug: kathleen-dimmich-mahaffy
+    twitter: 
+    website: 
+  abstract: '<p>When I went to WtD-Prague last year, I was struck by the assumption
+    that all tech writers are writing for technically savvy users, and that we all
+    had access to fancy tools. What do you do when you’re a tech writer for accountants
+    and social workers? When your documentation is written in MS Word, and hosted
+    on SharePoint? </p>
+
+    <p>I am part of a large base of documentarians who are still using word processing
+    programs, and who are writing for people for whom technology is still seen mostly
+    as an impediment, not as an asset for their jobs. I am the lead tech writer at
+    a property management firm, and my audience is made up of all 600 of our staff,
+    from maintenance personnel to the woman in the corner office. Our tools are simple
+    ones, because our staff needs explicit directions in a printable PDF, something
+    they can mark up and put in a binder on their desk. These are people who, by and
+    large, have a semi-antagonistic attitude about technology, from their phones to
+    our primary, custom SaaS database, and have a wide, <em>wide</em> variation in
+    use cases.</p>
+
+    <p>So when your tools are limited, and your audience is not at all technically
+    savvy, how do you organize the documentation upgrade process? I just finished
+    a complete reorganization and rewrite of all our manuals, to reflect the government
+    mandated changes in the SaaS. What does framing look like, and the style guide,
+    when git and docs-as-code aren’t actually options? When 60% of your audience needs
+    help changing their password, what are the things that you need to take into account
+    as you write your documentation on highly technical processes in the WYSIWYG SaaS
+    database? </p>
+
+    <p>Tl:dr: Not every tech writing job is in the tech industry - how does that change
+    your documentation?</p>'
+- title: How to write a book for (and with) an open source community
+  slug: how-to-write-a-book-for-and-with-an-open-source-community-felicity-brand
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2021
+  speakers:
+  - name: Felicity Brand
+    slug: felicity-brand
+    twitter: '@felicity_brand'
+    website: flicstar.com
+  abstract: '<p>Over the past two years, I collaborated with fellow authors Heather
+    McNamee and Jeffrey A. McGuire to channel the collective experience of the TYPO3
+    Project’s open source community members to write The TYPO3 Guidebook: Understand
+    and Use TYPO3 CMS.</p>
+
+    <p>Contributors included developers, project managers, designers and digital agency
+    leaders, all of whom had a different story to tell about the CMS. We translated
+    a broad range of experiences to build a resource that suits a mixed audience of
+    technical project managers, decision-makers, and developers. All proceeds from
+    the book go back into the community.</p>
+
+    <p>In my presentation, I’ll talk about how a "community" writes a book, and what
+    processes were needed to turn a distributed effort into a cohesive work. We learnt
+    a lot from writing the book, including that our processes are repeatable: you
+    can do it, too!</p>
+
+    <p><strong>You''ll learn:</strong></p>
+
+    <ul>
+
+    <li>An open-source approach to writing a book.</li>
+
+    <li>How an open-source community can write a book.</li>
+
+    <li>How a book can give back to an open source community.</li>
+
+    </ul>
+
+    <p><strong>I''ll speak about</strong></p>
+
+    <ul>
+
+    <li>Introduction to the TYPO3 community, CMS, history, and anatomy.</li>
+
+    <li>Why write a book now.</li>
+
+    <li>Our editorial processes:</li>
+
+    <li>The launch process:</li>
+
+    <li>Digital add-ons to a physical book:</li>
+
+    </ul>'
+- title: Alchemy in Adversity (How to become better and more resilient tech writers
+    in a turbulent work environment)
+  slug: alchemy-in-adversity-how-to-become-better-and-more-resilient-tech-writers-in-a-turbulent-work-environment-anna-korinna-n-meth-szab
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2021
+  speakers:
+  - name: Anna Korinna Németh-Szabó
+    slug: anna-korinna-n-meth-szab
+    twitter: 
+    website: https://hu.linkedin.com/in/anna-korinna-n%C3%A9meth-szab%C3%B3-084195a7
+  abstract: '<p>The pandemic situation and working from home has affected the majority
+    of the world, and most industries as well. Most employees, including technical
+    writers and technical communications teams were also affected by the pandemic,
+    WFH policies, lockdowns and other regulations in some form, and to various degrees.
+    </p>
+
+    <p>Working in software development, my technical communications team was no exception,
+    and we experienced challenges on several levels and in various forms during these
+    past months. However, the team managed to find creative ways to overcome these
+    challenges and managed to avoid becoming invisible within the organization (which
+    is still a widespread issue for tech comm teams). In fact, we even managed to
+    turn less than ideal circumstances around, forging an agile team and stabilizing
+    our position within the organization during the process. </p>
+
+    <p>The challenges include difficulties on a personal level, the team’s level,
+    and on an organizational level as well. They encompass work-life balance, workflow,
+    workload &amp; productivity, cross-teams communications &amp; collaboration, and
+    processes. Although my team was in a rather specific situation, I will present
+    adaptive methods and techniques that can be used by anyone who might have to face
+    and overcome similar challenges.</p>
+
+    <p>In my talk, I will also cover what the team learned from facing and overcoming
+    these challenges, and provide a few examples of how you as an individual technical
+    writer, or as part of a team can become a better expert and team member in similar
+    circumstances.</p>'
+- title: Adventures in setting up a knowledge system for a research group
+  slug: adventures-in-setting-up-a-knowledge-system-for-a-research-group-victor-sluiter
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2021
+  speakers:
+  - name: Victor Sluiter
+    slug: victor-sluiter
+    twitter: '@VictorSluiter'
+    website: https://www.linkedin.com/in/victorsluiter/
+  abstract: '<p>We''re not a standard company, but a group of 10 researchers with
+    support staff working on robotics in a university. Despite that, our challenges
+    may be very familiar with those of documentarians in companies.</p>
+
+    <p>A little more than a year and a half ago the research group I''m working in
+    asked me to take up "knowledge management". One of the key things that had to
+    be addressed was that much of the documentation that we made ended up in somewhere
+    in one of our many storage spaces. We had no standardization on what was sored
+    where, and some of the locations were only visible to part of our group members.
+    Our core business is to develop and share knowledge, so something had to be done!</p>
+
+    <p>In the following year we first set out to find out what we actually wanted
+    to share with whom, and what roadblocks we found, both technical and organizational.
+    As our organization is trying to be "LEAN", we asked te help of a lean coach to
+    look with us what the "root causes" were for the lack of information sharing.
+    One of the main things we found out "on the go" is that the documents we had standardized,
+    but never made were indeed those that noone was interested in.</p>
+
+    <p>In the process of standardizing and recreating our knowledge products, we had
+    a lot of hurdles to take, such as getting consesus what we actually need to document,
+    getting some kind of "definition of done" and determining the locations of file
+    storage and how to get the right internal and external people the right access.
+    In this presentation I can share the process we went through, and give our current
+    perspective on how we''re doing now.</p>'
+- title: 'From travel content to technical content: my journey'
+  slug: from-travel-content-to-technical-content-my-journey-kate-santo
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2021
+  speakers:
+  - name: Kate Santo
+    slug: kate-santo
+    twitter: 
+    website: https://katerine-santo.medium.com/
+  abstract: '<p>In the last couple of years, I’ve gone from creating travel content
+    in the biggest online travel agency in the world to creating technical content
+    in a brilliant start-up. There were some obvious and expected differences between
+    the 2 jobs. Ask me about going from having 22,000 colleagues to having 25 :) </p>
+
+    <p>Initially, I also expected to see huge differences in the way of working, the
+    framework to create content and the principles that would lead my day-to-day role.
+    However, I soon discovered that creating travel content and technical content
+    is fundamentally the same activity.</p>
+
+    <p>It didn’t take long for me to see that the Content Design principles I applied
+    in travel were perfect for technical content too. Although Content Design was
+    never created with technical content in mind, it turns out it suits it nicely.</p>
+
+    <p>During my talk, you will learn about Content Design overall. About the origins
+    and principles that guide this framework. You will learn how to apply general
+    Content Design principles to technical content creation. And I will explain why
+    I advocate for the role of “technical writer” to be renamed “technical content
+    designer”. Hint: it has to do with everything else we do before and after actually
+    writing.</p>'
+- title: Customer Feedback is the Fuel in our Engine
+  slug: customer-feedback-is-the-fuel-in-our-engine-kevin-hwang
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2021
+  speakers:
+  - name: Kevin Hwang
+    slug: kevin-hwang
+    twitter: '@kevinyuhwang'
+    website: 
+  abstract: '<p>How do you know if your documentation is any good? You’ve written
+    it, and a bunch of people have reviewed it, and maybe you even had it edited.
+    But is it any good? Is it useful? Will it actually help a customer? And is anyone
+    even reading it?</p>
+
+    <p>Enable the customers to provide feedback and let them tell you! </p>
+
+    <ul>
+
+    <li>Learn why it is important</li>
+
+    <li>Learn about  the challenges?</li>
+
+    <li>Learn how to work with those challenges?</li>
+
+    </ul>
+
+    <p>We will provide some memorable, compelling, and fun real world examples from
+    Splunk Docs feedback highlighting some of the points touched on in this presentation.
+    </p>
+
+    <p>Summary/Conclusion</p>
+
+    <p>If you were an IT person, you would want to collect data about the devices
+    on your network for any number of reasons. If people are using your network, you
+    want to know about it!</p>
+
+    <p>Similarly, if people are reading your documentation, you want to know about
+    it! And if there is a way to make the documentation better, you want the customer
+    to be able to tell you about it. Documentation feedback is data, and data is everything.</p>
+
+    <p>Use documentation feedback to build a community, prioritize your writing, and
+    get that well-deserved pat on the back!</p>'
+- title: How I use applied linguistics to be a better technical writer
+  slug: how-i-use-applied-linguistics-to-be-a-better-technical-writer-kat-stoica-ostenfeld
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2021
+  speakers:
+  - name: Kat Stoica Ostenfeld
+    slug: kat-stoica-ostenfeld
+    twitter: '@Katstodian_'
+    website: 
+  abstract: "<p>Why is this talk relevant for documentarians? We work in highly international
+    contexts. Most often with English as a shared corporate language. And we’re expected
+    to function at a high level of both technical and social proficiency in English.
+    In my daily work and socializing with colleagues across different disciplines
+    and nationalities, I’m frequently reminded of my studies in Business English as
+    a Lingua Franca, which I use in a practical sense both when collaborating with
+    colleagues and when writing actual documentation. This is where applied linguistics
+    comes in, based on this definition, shamelessly stolen from Wikipedia: \"[applied
+    linguistics] identifies, investigates, and offers solutions to language-related
+    real-life problems\"</p>\n<p>Bachelor's’ thesis. “Why is using English as a corporate
+    language not an end-all solution to communication issues in SMEs?” (Small-to-medium
+    enterprises) \nFindings: </p>\n<ul>\n<li>People don’t speak English. They speak
+    their own language with English words. </li>\n<li>We cluster together in perceived
+    like-minded groups (example: Italians, French and Spanish; Scandinavians) </li>\n<li>Sometimes,
+    people just don’t like each other </li>\n<li>Shared contexts are more important
+    than language proficiency</li>\n</ul>\n<p>Masters’ thesis: “There are those that
+    speak English very well - and those that just speak it very much: a qualitative
+    study of the use of English as a corporate language at Copenhagen Business School”
+    \nFindings: </p>\n<ul>\n<li>If we only focus on correct language, we actually
+    hinder ourselves from doing our job </li>\n<li>Shared contexts are more important
+    than language proficiency </li>\n<li>The meaning of “language proficiency” changes
+    according to the context</li>\n</ul>\n<p>How I use these findings in my daily
+    work</p>\n<p>Remember to take things with a grain of salt: not every miscommunication
+    issue is because the points above haven’t been addressed or because there’s not
+    enough cultural/contextual awareness. Sometimes, people just misunderstand.</p>"
+- title: So you need to give bad news to users…
+  slug: so-you-need-to-give-bad-news-to-users-ryan-macklin-he-they
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2021
+  speakers:
+  - name: Ryan Macklin (he/they)
+    slug: ryan-macklin-he-they
+    twitter: '@adocgeek'
+    website: macklin.cc
+  abstract: '<p>A lot of documentation advice talks about happy path docs, and sometimes
+    abstractly about users who struggle. This talk focuses on actionable tips for
+    when you have to give users bad news—whether in error messages, email comms, or
+    support docs.</p>
+
+    <p>The focus is on servicing a broad range of users'' psychological states and
+    needs during times of distress and disconnection, primarily anxiety, frustration,
+    and exhaustion. Some tips I want to bring up (along with the basics of how they
+    work psychologically):</p>
+
+    <p><strong>Include time frames for resolution</strong> — people in anxiety live
+    in a different temporal state than people who are calm, so holding their hand
+    in understanding a future state is important for a sense of psychological safety<p></p>
+
+    <p><strong>Be brave about when a given situation is difficult</strong> — frustrated
+    people are often in a combative state looking for some way out of that emotional
+    state through vindication, and being acknowledged is a way they can help themselves
+    regulate</p>
+
+    <p><strong>Highlight the action to be taken (even if that action is "wait")</strong>
+    — exhausted people struggling to be engaged or those anxious about what to do
+    next need a clear understanding of next steps, and unclear directions will lead
+    them astray</p>
+
+    <p>While some of these may seem "obvious," my talk is about why they work, and
+    the empathy advocacy I want to help spread in the documentarian community.</p>'
