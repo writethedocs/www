@@ -130,26 +130,25 @@
     twitter: '@ddocswriter'
     website: https://ddocs.co.uk
   abstract: "<p>Trying to explain bleeding edge, complex technology in a way that
-    is useful and comprehensible is challenging for a number of reasons:</p>\n<p>1)
-    Naming, Terminology &amp; Mental Models- \nTerminology - words as symbols, words
-    as signs pointing to concepts. \nShould we create new terminology to explain ‘new’
-    or ‘novel’ concepts and technology?\nOr should we borrow from existing terminology
-    and repurpose words to point to new new concepts and technology?\nIf we do the
-    former, then how does this new terminology impact on our audience’s comprehension
-    of what we are trying to say? If we do the latter, then how do we resolve tensions
-    between the meaning of existing terminologies and the mental models they represent.
-    </p>\n<p>What are the practical ways we can support the creation of new mental
-    models to aid understanding?</p>\n<p>2) Fast and Slow Thinking - \nKahnemann -
-    how do we apply Kahnemann’s principles to Technical Writing \nWe know people don’t
+    is useful and comprehensible is challenging for a number of reasons:</p>\n<ol>\n<li>\n<p>Naming,
+    Terminology &amp; Mental Models- \nTerminology - words as symbols, words as signs
+    pointing to concepts. \nShould we create new terminology to explain ‘new’ or ‘novel’
+    concepts and technology?\nOr should we borrow from existing terminology and repurpose
+    words to point to new new concepts and technology?\nIf we do the former, then
+    how does this new terminology impact on our audience’s comprehension of what we
+    are trying to say? If we do the latter, then how do we resolve tensions between
+    the meaning of existing terminologies and the mental models they represent. </p>\n<p>What
+    are the practical ways we can support the creation of new mental models to aid
+    understanding?</p>\n</li>\n<li>\n<p>Fast and Slow Thinking - \nKahnemann - how
+    do we apply Kahnemann’s principles to Technical Writing \nWe know people don’t
     want to think, we know they prefer heuristics that are often biased to process
     information. Yet as Technical writers, we have to convey complex information that
     may require this less preferred deep thinking. </p>\n<p>What are the practical
-    ways we can resolve this tension and support people to comprehend complexity easily.</p>\n<p>3)
-    Culture and Behaviour Change \nDo you ever feel like you’re wading through mud.
-    The docs aren’t getting written, you’re overwhelmed and a new release is coming
-    out. \nWhy culture matters and what it is? What is culture clash? \nHow do we
-    discover cultural indicators and work with them to promote an effective docs-first
-    culture?</p>"
+    ways we can resolve this tension and support people to comprehend complexity easily.</p>\n</li>\n<li>\n<p>Culture
+    and Behaviour Change \nDo you ever feel like you’re wading through mud. The docs
+    aren’t getting written, you’re overwhelmed and a new release is coming out. \nWhy
+    culture matters and what it is? What is culture clash? \nHow do we discover cultural
+    indicators and work with them to promote an effective docs-first culture?</p>\n</li>\n</ol>"
 - title: Hitchhiker's Guide to Documentation Tools and Processes
   slug: hitchhiker-s-guide-to-documentation-tools-and-processes-lukas-reu-ner
   series: Write the Docs Prague
