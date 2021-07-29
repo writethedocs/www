@@ -75,15 +75,15 @@ tickets:
 
 sponsorship:
   first_draft:
-    price: $500
+    price: AUD $500
   second_draft:
-    price: $1000
+    price: AUD $1000
   publisher:
-    price: $2000
+    price: AUD $2000
   patron:
-    price: $4000
+    price: AUD $4000
   keystone:
-    price: $7500
+    price: AUD $7500
 
 date: # how do we handle these? human readable would be nice.
   main: "**December 2-3, 2021, online**"
