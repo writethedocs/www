@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: July 28, 2021
+.. post:: July 30, 2021
    :tags: prague-2021, speakers, tickets, sponsors
 
 Announcing speakers
