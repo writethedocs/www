@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: July 28, 2021
+.. post:: July 30, 2021
    :tags: prague-2021, speakers, tickets, sponsors
 
 Announcing speakers
@@ -14,7 +14,7 @@ Thank you so much to everyone who took the time to send us a pitch – we liter
 Full speaker line-up
 --------------------
 
-Every year, we look to bring a wide range of voices to the Write the Docs stage. Because the role of "documentarian" looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure.
+Every year, we look to bring a wide range of voices to the Write the Docs stage. Because being a documentarian can mean different things to different people, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure.
 
 We're really excited about the presentations we've got this year – we hope you are too!
 
