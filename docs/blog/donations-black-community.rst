@@ -4,7 +4,7 @@
 Matching donations made in support of the Black community
 =========================================================
 
-In recognition of `Juneteeth <https://en.wikipedia.org/wiki/Juneteenth>`_ here in the United States,
+In recognition of `Juneteenth <https://en.wikipedia.org/wiki/Juneteenth>`_ here in the United States,
 we'd like to follow up on our :doc:`donation matching program </blog/we-stand-with-the-black-community>`
 for non-profit organizations supporting the Black community and their ongoing efforts.
 
