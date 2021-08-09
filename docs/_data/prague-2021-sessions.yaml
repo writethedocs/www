@@ -252,16 +252,12 @@
     slug: felicity-brand
     twitter: '@felicity_brand'
     website: flicstar.com
-  abstract: '<p>Over the past two years, I collaborated with fellow authors Heather
-    McNamee and Jeffrey A. McGuire to channel the collective experience of the TYPO3
-    Project’s open source community members to write The TYPO3 Guidebook: Understand
-    and Use TYPO3 CMS.</p>
+  abstract: '<p>I''m a technical writer—I can''t write books! Well, apparently I can,
+    I did, and so can you.</p>
 
-    <p>Contributors included developers, project managers, designers and digital agency
-    leaders, all of whom had a different story to tell about the CMS. We translated
-    a broad range of experiences to build a resource that suits a mixed audience of
-    technical project managers, decision-makers, and developers. All proceeds from
-    the book go back into the community.</p>
+    <p>Over the past two years, I collaborated with fellow authors Heather McNamee
+    and Jeffrey A. McGuire to channel the collective experience of an open source
+    community (TYPO3) to write The TYPO3 Guidebook.</p>
 
     <p>In my presentation, I’ll talk about how a "community" writes a book, and what
     processes were needed to turn a distributed effort into a cohesive work. We learnt
@@ -284,15 +280,15 @@
 
     <ul>
 
-    <li>Introduction to the TYPO3 community, CMS, history, and anatomy.</li>
+    <li>The TYPO3 CMS and community.</li>
 
-    <li>Why write a book now.</li>
+    <li>Why we needed to write a book.</li>
 
-    <li>Our editorial processes:</li>
+    <li>Our editorial processes</li>
 
-    <li>The launch process:</li>
+    <li>The launch process</li>
 
-    <li>Digital add-ons to a physical book:</li>
+    <li>Digital add-ons to a physical book</li>
 
     </ul>'
 - title: Alchemy in Adversity (How to become better and more resilient tech writers
@@ -438,41 +434,6 @@
 
     <p>Use documentation feedback to build a community, prioritize your writing, and
     get that well-deserved pat on the back!</p>'
-- title: How I use applied linguistics to be a better technical writer
-  slug: how-i-use-applied-linguistics-to-be-a-better-technical-writer-kat-stoica-ostenfeld
-  series: Write the Docs Prague
-  series_slug: prague
-  year: 2021
-  speakers:
-  - name: Kat Stoica Ostenfeld
-    slug: kat-stoica-ostenfeld
-    twitter: '@Katstodian_'
-    website: 
-  abstract: "<p>Why is this talk relevant for documentarians? We work in highly international
-    contexts. Most often with English as a shared corporate language. And we’re expected
-    to function at a high level of both technical and social proficiency in English.
-    In my daily work and socializing with colleagues across different disciplines
-    and nationalities, I’m frequently reminded of my studies in Business English as
-    a Lingua Franca, which I use in a practical sense both when collaborating with
-    colleagues and when writing actual documentation. This is where applied linguistics
-    comes in, based on this definition, shamelessly stolen from Wikipedia: \"[applied
-    linguistics] identifies, investigates, and offers solutions to language-related
-    real-life problems\"</p>\n<p>Bachelor's’ thesis. “Why is using English as a corporate
-    language not an end-all solution to communication issues in SMEs?” (Small-to-medium
-    enterprises) \nFindings: </p>\n<ul>\n<li>People don’t speak English. They speak
-    their own language with English words. </li>\n<li>We cluster together in perceived
-    like-minded groups (example: Italians, French and Spanish; Scandinavians) </li>\n<li>Sometimes,
-    people just don’t like each other </li>\n<li>Shared contexts are more important
-    than language proficiency</li>\n</ul>\n<p>Masters’ thesis: “There are those that
-    speak English very well - and those that just speak it very much: a qualitative
-    study of the use of English as a corporate language at Copenhagen Business School”
-    \nFindings: </p>\n<ul>\n<li>If we only focus on correct language, we actually
-    hinder ourselves from doing our job </li>\n<li>Shared contexts are more important
-    than language proficiency </li>\n<li>The meaning of “language proficiency” changes
-    according to the context</li>\n</ul>\n<p>How I use these findings in my daily
-    work</p>\n<p>Remember to take things with a grain of salt: not every miscommunication
-    issue is because the points above haven’t been addressed or because there’s not
-    enough cultural/contextual awareness. Sometimes, people just misunderstand.</p>"
 - title: So you need to give bad news to users…
   slug: so-you-need-to-give-bad-news-to-users-ryan-macklin-he-they
   series: Write the Docs Prague
@@ -509,3 +470,41 @@
 
     <p>While some of these may seem "obvious," my talk is about why they work, and
     the empathy advocacy I want to help spread in the documentarian community.</p>'
+- title: How I use applied linguistics to be a better technical writer
+  slug: how-i-use-applied-linguistics-to-be-a-better-technical-writer-kat-stoica-ostenfeld
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2021
+  speakers:
+  - name: Kat Stoica Ostenfeld
+    slug: kat-stoica-ostenfeld
+    twitter: '@Katstodian_'
+    website: 
+  abstract: '<p>Why is this talk relevant for documentarians? We work in highly international
+    contexts. Most often with English as a shared corporate language. And we’re expected
+    to function at a high level of both technical and social proficiency in English.
+    </p>
+
+    <p>In my daily work and socializing with colleagues across different disciplines
+    and nationalities, I’m frequently reminded of my studies in Business English as
+    a Lingua Franca, which I use in a practical sense both when collaborating with
+    colleagues and when writing actual documentation. </p>
+
+    <p>This is where applied linguistics comes in, based on this definition, shamelessly
+    stolen from Wikipedia: "[applied linguistics] identifies, investigates, and offers
+    solutions to language-related real-life problems"</p>
+
+    <p>In short, what I’ve found during my academic studies is:</p>
+
+    <p>•   People don’t speak English. They speak their own language with English
+    words.</p>
+
+    <p>•   We cluster together in perceived like-minded groups (example: Italians,
+    French and Spanish; Scandinavians)-</p>
+
+    <p>•   Shared contexts are more important than language proficiency-</p>
+
+    <p>In this talk, I’ll give examples of how these findings aren’t just theoretical
+    – they’re all around me during my day-to-day in tech. I’ll elaborate on this and
+    give some examples of how I use that to improve my collaboration with SMEs and
+    my actual writing.</p>'
