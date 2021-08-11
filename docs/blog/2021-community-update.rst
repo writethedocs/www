@@ -45,7 +45,7 @@ We hope that more people in our community will participate in the WEP process,
 so please read through the proposal and give us feedback.
 
 .. _Slack Moderation WEP: https://github.com/writethedocs/weps/blob/master/accepted/WEP0002.rst#wep2---slack-community-moderation-procedures
-.. _Team Organization WEP: https://github.com/writethedocs/weps/pull/5
+.. _organizational structure and governance WEP: https://github.com/writethedocs/weps/pull/5
 
 Write the Docs store
 --------------------
