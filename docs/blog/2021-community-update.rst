@@ -2,16 +2,16 @@
    :tags: stats, newsletter
    :author: Eric Holscher
 
-Write the Docs Community Update
+Write the Docs Community Update - August 2021
 ===============================
 
 Hey there documentarians!
 
 The newsletter team is taking August off this year,
 but there's still plenty going on in the community.
-This update covers what else is going on behind the scenes while they take a much deserved break.
+This update covers what else is going on behind the scenes while the newsletter team takes a much deserved break.
 
-We're looking forward to seeing everyone online for our `Prague <http://www.writethedocs.org/conf/prague/2021/>`_ on **October 3-5** in the CEST timezone.
+We're looking forward to seeing everyone online for our virtual `Prague <http://www.writethedocs.org/conf/prague/2021/>`_ on **October 3-5** in the CEST timezone.
 We're also getting excited about our upcoming virtual `Australia & India <http://www.writethedocs.org/conf/australia/2021/>`_ conference on **December 2-3** in the AEDT timezone.
 The talks were just announced for the Prague conference, and the `Australia & India conference CFP <https://www.writethedocs.org/conf/australia/2021/cfp/>`_ **is still open if you have ideas to present.**
 
@@ -27,8 +27,8 @@ but they haven't seen a ton of traction in the tumultuous last 18 months.
 There are a couple of exciting updates to report though.
 
 We have approved our `Slack Moderation WEP`_, which defines the process for moderating Slack much more explicitly.
-This establishes explicit process in order to grow our moderation team,
-and reduce confusion about the process involved.
+The more formalized process can help grow our moderation team,
+and reduce confusion about the roles and responsibilities involved.
 We strive to keep the community friendly and inviting,
 and moderation is a necessary part of that work.
 
@@ -52,7 +52,7 @@ Write the Docs store
 
 We've heard from some of the folks in the community that they are missing all the swag we used to give away at our conferences.
 We always had lots of little goodies to give folks across the years, including stickers, notebooks, shirts, hoodies, and other bigger items in some of our raffle giveaways.
-We're excited to be able to bring back a small version of that for those of you who want to wear your documentarian pride on the sleeves :)
+We're excited to be able to bring back a small version of that for those of you who want to wear your documentarian pride on your sleeves :)
 
 The `Write the Docs Store`_ is now live with lots of good things. **We have stickers, mugs, phone cases, bags, prints, and notebooks** with these designs:
 
@@ -62,7 +62,7 @@ The `Write the Docs Store`_ is now live with lots of good things. **We have stic
 
 We have tried to find a vendor which has reasonable shipping costs so that we can keep the costs down for our community, but it can still add up.
 We recommend trying to do a group purchase with a meetup or company so that you can reduce the costs involved, and get a few different options of the various items.
-If you also want a bulk order of stickers or something like that for a meetup, we can also direct ship them to you for free if you email us at support@writethedocs.org.
+If you also want a bulk order of stickers or similar swag for a meetup, we can also directly ship them to you for free if you email us at support@writethedocs.org.
 
 .. _Write the Docs Store: https://writethedocs.threadless.com/
 .. _Docs or it didn't happen: https://writethedocs.threadless.com/collections/docs-or-it-didnt-happen
@@ -74,12 +74,13 @@ Job Board & Newsletter sponsorship pricing updates
 
 We have been seeing great success with our `job board`_ and `newsletter sponsorships`_.
 The job listings have been getting a bit overwhelming,
-so we're using that as an oppertunity to raise prices.
+so we've decided to try and mitigate that by increasing the prices.
+
 Starting in August:
 
-* The newsletter sponsorship is now $350
-* A featured job posting is now $250
-* A normal job posting is now $100
+* The newsletter sponsorship price is $350
+* A featured job posting price is $250
+* A regular job posting price is $100
 
 With the move to virtual events and uncertainty in the world,
 we're hoping to be able to use these additional sources of revenue to keep WTD sustainable well into the future.
@@ -113,7 +114,7 @@ Featured jobs
 Thanks
 ------
 
-Thanks again for subscribing to our newsletter and being a member of our community.
+Thanks again for subscribing to our newsletter and for being a member of our community.
 We hope to see you soon at one of our online events, on our slack,
 or continue to see you here via this newsletter.
 
