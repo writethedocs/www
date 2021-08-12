@@ -3,7 +3,7 @@
    :author: Eric Holscher
 
 Write the Docs Community Update - August 2021
-===============================
+=============================================
 
 Hey there documentarians!
 
