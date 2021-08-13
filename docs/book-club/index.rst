@@ -12,18 +12,17 @@ Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel.
 Current Book Club
 -----------------
 
-June - July 2021
+On break until September 2021!
 
-`Letting Go of the Words <https://redish.net/books/letting-go-of-the-words/>`_
-
-Upcoming Book club reads
+Upcoming Book club read
 ------------------------
 
-(Months are suggestions and may change. Check in the Slack channel.)
+* September - November 2021: `The Organised Writer <https://http://organised-writer.com/>`_
 
 Previous Book club reads
 ------------------------
 
+* June - July 2021: `Letting Go of the Words <https://redish.net/books/letting-go-of-the-words/>`_
 * January - March 2021: `Managing Writers <https://www.amazon.com/gp/product/0982219105>`_
 * October - November 2020: `Docs Like Code <https://www.docslikecode.com/>`_
 * August - September 2020: Steve Krug's `Don't Make Me Think, Revisited (3rd Edition) <https://www.sensible.com/dmmt.html>`_
