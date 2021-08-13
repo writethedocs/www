@@ -2,8 +2,8 @@
    :tags: stats, year in review, newsletter
    :author: Eric Holscher
 
-Write the Docs 2021 January Community Update
-============================================
+Write the Docs Community Update - January 2021
+==============================================
 
 Hey folks, Eric Holscher here, one of the co-founders of Write the Docs.
 This is the January edition of the newsletter,

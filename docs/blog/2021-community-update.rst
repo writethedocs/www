@@ -47,8 +47,8 @@ so please read through the proposal and give us feedback.
 .. _Slack Moderation WEP: https://github.com/writethedocs/weps/blob/master/accepted/WEP0002.rst#wep2---slack-community-moderation-procedures
 .. _organizational structure and governance WEP: https://github.com/writethedocs/weps/pull/5
 
-Write the Docs store
---------------------
+Write the Docs community shop
+-----------------------------
 
 We've heard from some of the folks in the community that they are missing all the swag we used to give away at our conferences.
 We always had lots of little goodies to give folks across the years, including stickers, notebooks, shirts, hoodies, and other bigger items in some of our raffle giveaways.
@@ -73,8 +73,8 @@ Job Board & Newsletter sponsorship pricing updates
 --------------------------------------------------
 
 We have been seeing great success with our `job board`_ and `newsletter sponsorships`_.
-The job listings have been getting a bit overwhelming,
-so we've decided to try and mitigate that by increasing the prices.
+We're glad to see that these are so popular and have
+decided to bring the pricing closer to the value they provide.
 
 Starting in August:
 
