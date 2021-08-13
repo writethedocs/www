@@ -106,11 +106,18 @@ We're hoping to launch a 2021 survey here soon,
 but haven't put the finishing touches on it quite yet.
 Watch the newsletter for that in the coming months.
 
+Featured job posts
+------------------
 
-Featured jobs
--------------
+- `Technical Content Developer <https://jobs.writethedocs.org/job/451/technical-content-developer/>`__, Vectorized.io (Remote)
+- `Senior Technical Writer <https://jobs.writethedocs.org/job/437/senior-technical-writer/>`__, Galvanize (Bangalore, Karnataka, India)
+- `Technical Writer - Product Documentation <https://jobs.writethedocs.org/job/434/technical-writer-product-documentation/>`__, Upbound (Remote)
+- `Technical Writer <https://jobs.writethedocs.org/job/435/technical-writer/>`__ 3M (Remote)
+- `Tech Writer for the domain-specific language (DSL) documentation <https://jobs.writethedocs.org/job/440/tech-writer-for-the-domain-specific-language-dsl-documentation/>`__, Superface (Remote)
 
-*To apply for these job, or post your own, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
+
+*To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
+
 
 Thanks
 ------
