@@ -7,6 +7,7 @@ Write the Docs Community Update - August 2021
 
 Hey there documentarians!
 
+Eric Holscher here, one of the co-founders of Write the Docs.
 The newsletter team is taking August off this year,
 but there's still plenty going on in the community.
 This update covers what else is going on behind the scenes while the newsletter team takes a much deserved break.
