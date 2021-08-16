@@ -13,8 +13,7 @@ The conference is now just under four months away, and we hope you’re already 
 New deadline to submit your proposal is 31st Aug
 --------------------------------------------------
 
-The `Call for Proposals <https://www.writethedocs.org/conf/australia/2021/cfp/>`_ is now extended until **31st August 2021 at Midnight AEST** – We added two extra weeks
-to the deadline because there are enough things to worry about this year, and we wanted to give as many of you the opportunity to prepare your submissions.
+We added two extra weeks to the deadline because there are enough things to worry about this year, and we wanted to give as many of you the opportunity to prepare your submissions.
 Make sure to get your talk in before the new deadline; we already have a lot of great proposals coming in, but we wanted to give everyone a chance to submit their ideas.
 
 Check out the `Call for Proposals <https://www.writethedocs.org/conf/australia/2021/cfp/>`_ page for tips and examples to help inspire you.
