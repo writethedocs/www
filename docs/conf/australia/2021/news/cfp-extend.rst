@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: August 14, 2021
+.. post:: August 16, 2021
    :tags: {{shortcode}}-{{year}}, cfp, tickets
 
 Call for Proposals Extended
