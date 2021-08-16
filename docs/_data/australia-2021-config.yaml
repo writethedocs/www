@@ -122,8 +122,8 @@ about:
 
 cfp:
   url: https://pretalx.com/wtd-australia-and-india-2021/cfp
-  ends: "August 15, 2021"           # 2 weeks to review and get confirmnations
-  notification: "September 10, 2021"   # leaves 6 weeks to write and record
+  ends: "August 31, 2021"           # 2 weeks to review and get confirmnations
+  notification: "September 15, 2021"   # leaves 6 weeks to write and record
   video_by: "November 1, 2021"   # 4 weeks before the conf
 
 grants:

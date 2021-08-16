@@ -41,8 +41,16 @@ These recommendations are for software that we know and trust, but you are welco
 
 If you choose to stream your talk privately with the video producer, you will be sent specific installation instructions for the software that they will be using to record your talk.
 
-(Preferred) `Panopto Record <https://www.panopto.com/record/>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(Preferred) Bart at work recording studio
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Hosted directly by our `videographer Bart at Work <https://www.bartatwork.com>`__, with an integrated demo video.
+
+* `Recording studio <https://www.bartatwork.com/recorder.html>`__
+
+
+Panopto Record
+~~~~~~~~~~~~~~~
 
 Features:
 
