@@ -43,7 +43,7 @@ The craft of writing
 * `It Was the Best of Sentences, It Was the Worst of Sentences <https://www.penguinrandomhouse.com/books/198856/it-was-the-best-of-sentences-it-was-the-worst-of-sentences-by-june-casagrande/>`_ , by June Casagrande
 * `Nicely Said <http://www.nicelysaid.co/>`_, by Nicole Fenton and Kate Kiefer Lee
 * `On Writing <https://stephenking.com/works/nonfiction/on-writing-a-memoir-of-the-craft.html>`_, by Stephen King
-* `The Organised Writer <http://organised-writer.com/>`_, by Antony Johnston - **Upcoming book club read**
+* `The Organised Writer <http://organised-writer.com/>`_, by Antony Johnston - **Upcoming book club read August 2021**
 * `The Subversive Copy Editor <https://press.uchicago.edu/ucp/books/book/chicago/S/bo23530364.html>`_, by Carol Fisher Saller
 
 Other Lists
