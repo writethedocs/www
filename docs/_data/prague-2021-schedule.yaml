@@ -18,7 +18,7 @@ talks_day1:
 - time: 0:09:45
   title: <b>Unconference Starts</b>
 - time: 0:09:45
-  title: hitchhiker-s-guide-to-documentation-tools-and-processes-lukas-reu-ner
+  slug: hitchhiker-s-guide-to-documentation-tools-and-processes-lukas-reu-ner
 - time: 0:10:25
   title: Break (10 mins)
 - time: 0:10:35
