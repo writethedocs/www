@@ -1,7 +1,7 @@
 import ruamel.yaml
 import pprint
 
-yaml_files = ['../_data/prague-2020-schedule.yaml']
+yaml_files = ['../_data/prague-2021-schedule.yaml']
 
 for yaml_file in yaml_files:
 
