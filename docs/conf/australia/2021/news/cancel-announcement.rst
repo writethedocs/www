@@ -6,7 +6,7 @@
 Cancelling WTD Australia and India 2021 conference
 ===================================================
 
-G'day folks, we have decided to cancel our WTD Australia and India conference in 2021.
+G'day folks. We're writing to let you know that we have decided to cancel our WTD Australia and India conference for 2021.
 This has been an extremely difficult decision, but we recognise the immense mental fatigue that the pandemic in general and lockdowns specifically have caused in Australia and India this year.
 
 While the community engagement and support have been fantastic across our remote meetup events and last year's conference, we all felt stressed and burnt-out at various times during the last couple of years.
