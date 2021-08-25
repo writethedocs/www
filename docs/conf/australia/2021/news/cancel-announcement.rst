@@ -35,7 +35,7 @@ Some conference housekeeping
 
 * If you already registered a ticket for the conference, we will refund these promptly and in full, without cancellation fees.
 * If you had blocked these dates in your calendar, we will try and organise the mega meetup on one of these days, so that you do not have to take additional time off from work.
-* For those who submitted a talk proposal, we thank you greatly and invite you to resubmit your talks for our conferences (Portland, Prague, Australia/India) next year.
+* For those who submitted a talk proposal, we thank you greatly and invite you to resubmit your talks for our conferences (Portland, Prague, Australia/India) next year. If we have selected your talk for the mega meetup, we will contact you within the next two weeks.
 * We will be closing the CFP process before the weekend, cancel future ticket sales, and publish this announcement on the conference website, along with the relevant Write the Docs Slack channels and other social media.
 
 Stay safe and we hope to see you next year!
