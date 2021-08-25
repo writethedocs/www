@@ -20,7 +20,7 @@ Mega meetup
 In place of a full 2-day conference, we will select 4 talks (from the CFP process) and invite these documentarians to present their talks at a mega 2-hour meetup (date **TBA**). 
 We value the time and effort our documentarians put in to submit talk proposals and wanted to use this time to share their experience and knowledge.
 
-* This meetup event will be a non-ticketed event, so you can join in from anywhere, at any time. We will try and keep this in a timezone convenient for both our WTD Australia and India communities.
+* This meetup event will be a non-ticketed event, so you can join in from anywhere. We will try and keep this in a timezone convenient for both our WTD Australia and India communities.
 * We will be using the WTD Australia and India Meetup groups to announce the date for this, along with the relevant WTD Slack channels and other social media.
 
 Time to recover
