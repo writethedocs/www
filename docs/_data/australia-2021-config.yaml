@@ -17,6 +17,8 @@ photos:
 
 buttons:
   top:
+    - text: Read our cancellation post
+      link: /news/cancel-announcement/
 #    - text: Welcome to our conference
 #      link: /news/welcome
 #    - text: Date and ticket information
@@ -25,12 +27,12 @@ buttons:
     #   link: /welcome-wagon
     # - text: See the Schedule!
     #   link: /schedule
-    - text: Buy a Ticket!
-      link: /tickets
+#    - text: Buy a Ticket!
+#      link: /tickets
 #    - text: Sponsor us
 #      link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
+#    - text: Submit a Talk
+#      link: /cfp
     #- text: See the talks!
     #   link: /speakers
     # - text: See the Schedule!
@@ -42,18 +44,22 @@ buttons:
     # - text: Watch the videos!
     #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
   bottom:
-     - text: Welcome to our conference
-       link: /news/welcome
+    - text: Read our cancellation post
+      link: /news/cancel-announcement/
+#     - text: Welcome to our conference
+#       link: /news/welcome
+#     - text: Welcome to our conference
+#       link: /news/welcome
     # - text: See the Schedule!
     #   link: /schedule
 #     - text: Date and ticket information
 #       link: /news/announcing-virtual-conf-dates-tickets
-     - text: Sponsor the conference
-       link: /sponsors/prospectus
+#     - text: Sponsor the conference
+#       link: /sponsors/prospectus
     # - text: See the talks!
     #   link: /speakers
-     - text: Buy a Ticket!
-       link: /tickets
+#     - text: Buy a Ticket!
+#       link: /tickets
     # - text: Prepare with the Welcome Wagon
     #   link: /welcome-wagon
     # - text: See the schedule!
@@ -143,8 +149,8 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: False
-flagcfp: True
-flagticketsonsale: True
+flagcfp: False
+flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
@@ -154,6 +160,7 @@ flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
 flagpostconf: False
+flagcancelled: True
 
 # Truthy things that don't change
 flaghashike: False

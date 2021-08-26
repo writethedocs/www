@@ -44,6 +44,7 @@ flagwelcomewagon: bool(required=False)
 flaglivestreaming: bool(required=False)
 flagvideos: bool(required=False)
 flagpostconf: bool(required=False)
+flagcancelled: bool(required=False)
 
 flaghasshirts: bool(required=False)
 
