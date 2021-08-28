@@ -17,10 +17,10 @@ photos:
 
 buttons:
   top:
-#    - text: Welcome to our conference
-#      link: /news/welcome
-#    - text: Date and ticket information
-#      link: /news/announcing-virtual-conf-dates-tickets
+    #    - text: Welcome to our conference
+    #      link: /news/welcome
+    #    - text: Date and ticket information
+    #      link: /news/announcing-virtual-conf-dates-tickets
     # - text: Read our conference guide
     #   link: /welcome-wagon
     # - text: See the Schedule!
@@ -29,12 +29,12 @@ buttons:
       link: /tickets
     #- text: Sponsor us
     #  link: /sponsors/prospectus
-#    - text: Submit a Talk
-#      link: /cfp
-    - text: See the talks!
-      link: /speakers
-    # - text: See the Schedule!
-    #   link: /schedule
+    #   - text: Submit a Talk
+    #     link: /cfp
+    #- text: See the talks!
+    #  link: /speakers
+     text: See the Schedule!
+       link: /schedule
     # - text: Watch the Live Stream
     #   link: /livestream
     # - text: Browse the photos
