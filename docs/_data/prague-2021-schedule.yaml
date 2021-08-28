@@ -11,69 +11,69 @@ writing_day:
   title: End of Writing Day
 
 talks_day1:
-- time: 9:00
+- time: '9:00'
   title: Platform opens
-- time: 10:00
+- time: '10:00'
   title: Write the Docs Team - Introduction to Write the Docs
-- time: 10:45
+- time: '10:45'
   title: <b>Unconference Starts</b>
-- time: 10:45
+- time: '10:45'
   slug: hitchhiker-s-guide-to-documentation-tools-and-processes-lukas-reu-ner
-- time: 11:25
+- time: '11:25'
   title: Break (10 mins)
-- time: 11:35
+- time: '11:35'
   slug: more-than-words-reviewing-and-updating-your-information-architecture-lana-brindley-she-her
-- time: 12:20
+- time: '12:20'
   slug: so-you-need-to-give-bad-news-to-users-ryan-macklin-he-they
-- time: 13:00
+- time: '13:00'
   title: Lunch (60 mins)
-- time: 14:00
+- time: '14:00'
   title: Lightning talks (30 mins)
-- time: 14:35
+- time: '14:35'
   slug: when-documenting-is-designing-how-to-assist-api-design-as-a-technical-writer-fabrizio-ferri-benedetti
-- time: 15:20
+- time: '15:20'
   slug: adventures-in-setting-up-a-knowledge-system-for-a-research-group-victor-sluiter
-- time: 16:00
+- time: '16:00'
   title: Break (10 mins)
-- time: 16:10
+- time: '16:10'
   slug: alchemy-in-adversity-how-to-become-better-and-more-resilient-tech-writers-in-a-turbulent-work-environment-anna-korinna-n-meth-szab
-- time: 16:55
+- time: '16:55'
   slug: customer-feedback-is-the-fuel-in-our-engine-kevin-hwang
-- time: 17:35
+- time: '17:35'
   title: Day 1 wraps up
-- time: 18:00
+- time: '18:00'
   title: <b>Social Event</b>
-- time: 20:00
+- time: '20:00'
   title: <b>Social Event Ends</b>
 
 talks_day2:
-- time: 9:00
+- time: '9:00'
   title: Platform opens
-- time: 10:00
+- time: '10:00'
   slug: hustling-for-fun-and-profit-as-a-technical-writer-a-freelancing-starter-kit-karen-sawrey
-- time: 10:45
+- time: '10:45'
   title: <b>Job Fair Starts</b>
-- time: 10:45
+- time: '10:45'
   slug: how-to-write-a-book-for-and-with-an-open-source-community-felicity-brand
-- time: 11:25
+- time: '11:25'
   title: Break (10 mins)
-- time: 11:35
+- time: '11:35'
   slug: common-tools-documentation-outside-the-tech-bubble-kathleen-dimmich-mahaffy
-- time: 12:20
+- time: '12:20'
   slug: cognitive-ergonomics-in-technical-writing-lessons-from-the-field-anita-diamond
-- time: 13:00
+- time: '13:00'
   title: Lunch (60 mins)
-- time: 14:00
+- time: '14:00'
   title: Lightning Talks (30 mins)
-- time: 14:35
+- time: '14:35'
   title: <b>Unconference Starts</b>
-- time: 14:35
+- time: '14:35'
   slug: how-i-use-applied-linguistics-to-be-a-better-technical-writer-kat-stoica-ostenfeld
-- time: 15:20
+- time: '15:20'
   slug: from-travel-content-to-technical-content-my-journey-kate-santo
-- time: 16:05
+- time: '16:05'
   slug: docs-leadership-how-to-become-a-stronger-leader-for-your-team-jenn-leaver
-- time: 16:45
+- time: '16:45'
   title: Closing address
-- time: 17:00
+- time: '17:00'
   title: <b>Conference Ends</b> :(
