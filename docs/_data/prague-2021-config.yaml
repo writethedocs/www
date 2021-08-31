@@ -159,6 +159,10 @@ sponsors:
     - name: peopletext
       link: https://www.people-text.de/en/home-en.html
       brand: people text
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+      brand: KnowledgeOwl
+      width: 250px
   media:
     - name: bart
       link: http://www.bartatwork.com
