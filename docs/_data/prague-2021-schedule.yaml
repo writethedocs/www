@@ -15,8 +15,10 @@ talks_day1:
 - time: '9:00'
   duration: '1:00'
   title: Platform opens
-- duration: '0:45'
+- duration: '0:40'
   title: Write the Docs Team - Introduction to Write the Docs
+- duration: '0:5'
+  title: Break (5 mins)
 - title: <b>Unconference Starts</b>
 - duration: '0:40'
   slug: hitchhiker-s-guide-to-documentation-tools-and-processes-lukas-reu-ner
@@ -25,7 +27,7 @@ talks_day1:
 - duration: '0:40'
   slug: more-than-words-reviewing-and-updating-your-information-architecture-lana-brindley-she-her
 - duration: '0:5'
-  title: Switch speakers (5 mins)
+  title: Break (5 mins)
 - duration: '0:40'
   slug: so-you-need-to-give-bad-news-to-users-ryan-macklin-he-they
 - duration: '1:00'
@@ -33,11 +35,11 @@ talks_day1:
 - duration: '0:30'
   title: Lightning talks (30 mins)
 - duration: '0:5'
-  title: Switch speakers (5 mins)
+  title: Break (5 mins)
 - duration: '0:40'
   slug: when-documenting-is-designing-how-to-assist-api-design-as-a-technical-writer-fabrizio-ferri-benedetti
 - duration: '0:5'
-  title: Switch speakers (5 mins)
+  title: Break (5 mins)
 - duration: '0:40'
   slug: adventures-in-setting-up-a-knowledge-system-for-a-research-group-victor-sluiter
 - duration: '0:10'
@@ -45,14 +47,14 @@ talks_day1:
 - duration: '0:40'
   slug: alchemy-in-adversity-how-to-become-better-and-more-resilient-tech-writers-in-a-turbulent-work-environment-anna-korinna-n-meth-szab
 - duration: '0:5'
-  title: Switch speakers (5 mins)
+  title: Break (5 mins)
 - duration: '0:40'
   slug: customer-feedback-is-the-fuel-in-our-engine-kevin-hwang
 - duration: '0:25'
   title: Day 1 wraps up
 - time: '18:00'
   duration: '2:00'
-  title: <b>Social Event</b>
+  title: <b>Social Event on SpatialChat</b>
 - title: <b>Social Event Ends</b>
 
 talks_day2:
@@ -62,7 +64,7 @@ talks_day2:
 - duration: '0:40'
   slug: hustling-for-fun-and-profit-as-a-technical-writer-a-freelancing-starter-kit-karen-sawrey
 - duration: '0:5'
-  title: Switch speakers (5 mins)
+  title: Break (5 mins)
 - title: <b>Job Fair Starts</b>
 - duration: '0:40'
   slug: how-to-write-a-book-for-and-with-an-open-source-community-felicity-brand
@@ -71,7 +73,7 @@ talks_day2:
 - duration: '0:40'
   slug: common-tools-documentation-outside-the-tech-bubble-kathleen-dimmich-mahaffy
 - duration: '0:5'
-  title: Switch speakers (5 mins)
+  title: Break (5 mins)
 - duration: '0:40'
   slug: cognitive-ergonomics-in-technical-writing-lessons-from-the-field-anita-diamond
 - duration: '1:00'
@@ -79,16 +81,16 @@ talks_day2:
 - duration: '0:30'
   title: Lightning Talks (30 mins)
 - duration: '0:5'
-  title: Switch speakers (5 mins)
+  title: Break (5 mins)
 - title: <b>Unconference Starts</b>
 - duration: '0:40'
   slug: how-i-use-applied-linguistics-to-be-a-better-technical-writer-kat-stoica-ostenfeld
 - duration: '0:5'
-  title: Switch speakers (5 mins)
+  title: Break (5 mins)
 - duration: '0:40'
   slug: from-travel-content-to-technical-content-my-journey-kate-santo
 - duration: '0:5'
-  title: Switch speakers (5 mins)
+  title: Break (5 mins)
 - duration: '0:40'
   slug: docs-leadership-how-to-become-a-stronger-leader-for-your-team-jenn-leaver
 - duration: '0:15'
