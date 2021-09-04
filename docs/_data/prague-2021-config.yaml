@@ -11,16 +11,17 @@ email: prague@writethedocs.org
 color: gold
 rgb: 253,185,19
 hex: fdb913
+time_format: 24h
 
 photos:
   default: _static/conf/images/headers/prague-group.png
 
 buttons:
   top:
-#    - text: Welcome to our conference
-#      link: /news/welcome
-#    - text: Date and ticket information
-#      link: /news/announcing-virtual-conf-dates-tickets
+    #    - text: Welcome to our conference
+    #      link: /news/welcome
+    #    - text: Date and ticket information
+    #      link: /news/announcing-virtual-conf-dates-tickets
     # - text: Read our conference guide
     #   link: /welcome-wagon
     # - text: See the Schedule!
@@ -29,12 +30,12 @@ buttons:
       link: /tickets
     #- text: Sponsor us
     #  link: /sponsors/prospectus
-#    - text: Submit a Talk
-#      link: /cfp
-    - text: See the talks!
-      link: /speakers
-    # - text: See the Schedule!
-    #   link: /schedule
+    #   - text: Submit a Talk
+    #     link: /cfp
+    #- text: See the talks!
+    #  link: /speakers
+    - text: See the Schedule!
+      link: /schedule
     # - text: Watch the Live Stream
     #   link: /livestream
     # - text: Browse the photos
@@ -183,7 +184,7 @@ flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
 flagrunofshow: False
-flaghasschedule: False
+flaghasschedule: True
 flaghasunconf: True
 flaghasshirts: True
 flagvideos: False
