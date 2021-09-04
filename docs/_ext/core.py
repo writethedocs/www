@@ -4,6 +4,7 @@ from yaml import YAMLError
 from .utils import load_yaml
 
 import logging
+from datetime import datetime, time, timedelta
 
 try:
     from pathlib import PurePath
@@ -12,6 +13,10 @@ except ImportError:
 
 log = logging.getLogger(__name__)
 
+TIME_FORMATS = {
+    '24h': '%-H:%M',
+    '12h': '%-I:%M %p',
+}
 
 def load_conference_page_context(app, page):
     """
@@ -86,7 +91,27 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
     # info is added to the session info in the context.
     slugs_in_schedule = set()
     for day_schedule in schedule.values():
+        next_item_default_start = None
         for schedule_item in day_schedule:
+            if data.get('time_format'):
+                duration = timedelta()
+                if 'duration' in schedule_item:
+                    datetime_duration = datetime.strptime(schedule_item['duration'], '%H:%M')
+                    duration = timedelta(hours=datetime_duration.hour, minutes=datetime_duration.minute)
+
+                if 'time' in schedule_item:
+                    item_start = datetime.strptime(schedule_item['time'], '%H:%M')
+                elif next_item_default_start:
+                    item_start = next_item_default_start
+                else:
+                    raise Exception('ERROR: found entry "%s" in schedule for %s with duration, but no previous entry with time' %
+                        (schedule_item.get('slug', schedule_item.get('title')), page)
+                    )
+                schedule_item['time'] = item_start.strftime(TIME_FORMATS[data['time_format']])
+                if not next_item_default_start:  # first schedule item of the day
+                    schedule_item['time'] += ' ' + data['tz']
+                next_item_default_start = item_start + duration
+
             if 'slug' in schedule_item:
                 slug = schedule_item['slug']
                 try:

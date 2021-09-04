@@ -11,6 +11,7 @@ email: str()
 color: str(required=False)
 hex: str(required=False)
 rgb: str(required=False)
+time_format: enum('24h', '12h', required=False)
 titocode: str(required=False)
 cobrand: include('cobrand-details', required=False)
 
