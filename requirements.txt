@@ -5,14 +5,14 @@ sphinx_autobuild==2021.3.14
 PyYAML>=4.2b1
 docutils==0.17.1
 csvkit==1.0.6
-yamllint==1.26.2
+yamllint==1.26.3
 pathlib==1.0.1
-sphinxcontrib.datatemplates==0.8.1
+sphinxcontrib.datatemplates==0.9.1
 meetup-api==0.1.1
 urllib3[secure]==1.26.6
 yamale==3.0.8
 markdown==3.3.4
-ruamel.yaml==0.17.10
+ruamel.yaml==0.17.16
 lxml==4.6.3
 # For emoji
 sphinxemoji==0.1.8
