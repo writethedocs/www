@@ -41,7 +41,7 @@ The basics you need to document an API
 
 A discussion this month around demystifying API documentation, we asked: what's the minimum that you need to know to document an API? Here's what the community thought:
 
-* What the user needs to know (just like any other documentation!). For APIs, that includes descriptions of all of the parameters, providing a sample request and response, as well as information about authenticating.
+* What the user needs to know (just like any other documentation!). For APIs, that includes descriptions of all of the parameters, a sample request and response, as well as information about authenticating.
 * How to write and send cURL requests.
 * The principles of RESTful APIs, including the "verbs": Create (POST), Read (GET), Update (PUT), and Delete (DELETE).
 * Most agreed that understanding the purpose of YAML and JSON is helpful; learning to read them is usually fairly straightforward.
