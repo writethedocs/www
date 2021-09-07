@@ -1,10 +1,12 @@
 region: Asia
 country: Israel
-city: Herzliya
-website: https://www.meetup.com/Write-The-Docs-Herzliya/
-meetup: Write-The-Docs-Herzliya
+city: Tel Aviv+
+website: https://www.meetup.com/Write-The-Docs-TAplus/
+meetup: Write the Docs - Tel Aviv and surroundings
 organizers:
-  - name: Ben Mansheim
-    link: https://www.linkedin.com/in/bmansheim/
+  - name: Laura Novich
+    link: https://www.linkedin.com/in/lauranovich/
+  - name: Shalom Boroda
+    link: https://www.linkedin.com/in/shalomworld/
   - name: Batami Gold
     link: https://www.linkedin.com/in/batamig/
