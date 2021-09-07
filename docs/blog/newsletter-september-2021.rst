@@ -6,13 +6,11 @@
 Write the Docs Newsletter – September 2021
 ##########################################
 
-Friends, Romans, documentarians,
+Hi everyone! Back from our summer break, it's Beth and the newsletter team, bringing you our edition for September.
 
-It's Beth and the newsletter team here, bringing you our edition for September. September already - the year is flowing by, and autumn is gently arriving here in Europe.
+September already? I know, the year is flowing by. Autumn is slowly but surely arriving here in Europe; and while the weather may be cooling, at Write the Docs we're warming up for our second virtual conference for the year. "Prague" is coming up on 3rd-5th October; our fabulous `speakers </conf/prague/2021/news/announcing-speakers/>`__ have been announced, and `ticket sales </conf/prague/2021/tickets/>`__ are still open. Hope to see you there!
 
-The weather's cooling down, but at Write the Docs we're warming up for our second virtual conference for the year! "Prague" is coming up on 3rd-5th October; our fabulous `speakers </conf/prague/2021/news/announcing-speakers/>`__ have been announced, and `ticket sales </conf/prague/2021/tickets/>`__ are still open. Hope to see you there!
-
-Sadly, that will also be our last conference of the year: the Australia and India conference is `cancelled </conf/australia/2021/news/cancel-announcement/>`__. Bearing in mind the immense stress of the past year and a half, we're instead planning a smaller event to be more manageable for the organizing team. It'll be in a meetup format, but with some of the great speakers planned for the conference - keep your eyes peeled for announcements there.
+Sadly, that will also be our last conference of the year: the Australia and India conference has been `cancelled </conf/australia/2021/news/cancel-announcement/>`__. Bearing in mind the immense stress of the past year and a half, we're instead planning a smaller event to be more manageable for the organizing team. It'll be in a meetup format, but with some of the great speakers planned for the conference - keep your eyes peeled for announcements there.
 
 -----------------------------------
 Avoiding the dreaded "wall of text"
@@ -25,17 +23,31 @@ The "wall of text" is a familiar conundrum for many documentarians, especially w
 - Rewrite long paragraphs to use lists. Condense the most critical points to eye-catching items in a list and make the text more skimmable. Write instructions in individually numbered steps.
 - Look for opportunities to use formatting to add meaning to the text. Use special icons or different background shading to delineate notes and warnings. Put code snippets, quotations, and math equations in their own indented blocks. Use bold font weight to make keywords stand out. Left-justify the first paragraph for each topic and block-indent subsequent paragraphs on the same topic.
 
----------------------------------------
+-----------------------------------
 Where are all the junior positions?
----------------------------------------
+-----------------------------------
 
-An interesting topic circulating in the WTD community is the scarcity of entry-level technical writing jobs. Nowadays, most employers seem to be looking for writers with at least five years of experience. But why is that the case? Perhaps because teams need the help of a seasoned writer to help them grow, but also because, in most situations, an experienced writer provides a greater return on investment than a junior writer. In a word, everything boils down to efficiency and output.
+An interesting topic circulating in the WTD community is the scarcity of entry-level technical writing jobs. Nowadays, most employers seem to be looking for writers with at least five years of experience. But why is that the case? Perhaps because teams need the help of a seasoned writer to help them grow, but also because, in most situations, an experienced writer provides a greater return on investment than a junior writer. If a team is overloaded, they might feel unable to give someone less experienced the training, guidance, and mentorship they need.
 
-So, how can junior writers find jobs when the odds appear stacked against them? One suggestion is to pick a niche and dig into it. By becoming proficient in a specialized subject, new writers will be better equipped to compete in the job market against highly technical professionals wanting to transfer into writing-oriented roles.
+So, how can junior writers find jobs when it feels like the odds are stacked against them? One suggestion is to pick a niche and dig into it. By becoming proficient in a specialized subject, new writers will be better equipped to compete in the job market - as other candidates for entry-level tech writing roles can be engineers or support engineers wanting to transfer into writing-oriented roles.
 
-Another approach is to tap into your professional network. In a saturated industry, knowing someone who can help you find a route in can help hugely. After gaining some experience, seeking new positions becomes much easier - though that doesn't mean it won't be challenging still.
+Another approach is to tap into your professional network. In a saturated industry, knowing someone who can help you get more experience on your resume can help hugely. After gaining some experience, seeking new positions becomes much easier - though that doesn't mean it won't be challenging still.
 
 The best advice for those interested in tech writing, regardless of the industry, is to establish domain knowledge in a subject, leverage professional networks, create a portfolio of work, and explore opportunities that allow for continuous learning and skill building to achieve a fulfilling career. For more information on starting a tech writer career, check out `this article on Career Explorer <https://www.careerexplorer.com/careers/technical-writer/how-to-become/>`__.
+
+--------------------------------------
+The basics you need to document an API
+--------------------------------------
+
+A discussion this month around demystifying API documentation, we asked: what's the minimum that you need to know to document an API? Here's what the community thought:
+
+* What the user needs to know (just like any other documentation!). For APIs, that includes descriptions of all of the parameters, providing a sample request and response, as well as information about authenticating.
+* How to write and send cURL requests.
+* The principles of RESTful APIs, including the "verbs": Create (POST), Read (GET), Update (PUT), and Delete (DELETE).
+* Most agreed that understanding the purpose of YAML and JSON is helpful; learning to read them is usually fairly straightforward.
+* Do you need to know the coding language used to create the API? Not necessarily. Having some programming knowledge is helpful, but if you have tools that can call endpoints and can give you reliable information for payloads and responses, you don't need to know the language. Similarly, if you have great programmers that document the code, you may just need to understand the code's structure well enough to find information.
+* What about the OpenAPI spec (formerly Swagger)? Not necessarily. It's useful you want to define the API, but not necessary if you're just helping the developers document it - you'll mostly learn it along the way. (There are also a couple of other formats, like RAML.)
+* Finally, it's helpful to have some understanding of how software communicates over HTTP: headers, errors, bodies. Some notions of computer security and performance - which isn't too far away from pretending your day-to-day use of passwords and problems with connectivity issues. One handy tip - "imagine you're a browser"!
 
 ----------------------------------------------
 Documenting hardware: different from software?
@@ -55,9 +67,7 @@ What we’re reading and learning
 
 The #bipoc group’s been discussing the following materials on diversity, inclusion, and equity. Want to join the conversation? Please join us in the `#bipoc Slack channel <https://app.slack.com/client/T0299N2DL/C016STMEWJD>`__!
 
-Two short reads: `This article <https://techbullion.com/the-differences-between-diversity-and-inclusion-in-the-workplace/>`__ on TechBullion discusses the differences between diversity and inclusion in the workplace and why businesses need both. Many workplaces seem to lump these two terms together, but they are in-fact two different things.
-
-And `this article <https://www.wellright.com/blog/bipoc-emotional-wellness-diverse-inclusive-workplace>`__ on WellRight expands on the topic of inclusion and discusses what it means to create a diverse and inclusive workplace. Hint, it goes beyond hiring.
+Two short reads: `This article <https://techbullion.com/the-differences-between-diversity-and-inclusion-in-the-workplace/>`__ on TechBullion discusses the differences between diversity and inclusion in the workplace and why businesses need both. Many places lump these two terms together, but they are in fact two different things. And `this article <https://www.wellright.com/blog/bipoc-emotional-wellness-diverse-inclusive-workplace>`__ on WellRight expands on the topic of inclusion and discusses what it means to create a diverse and inclusive workplace. Hint, it goes beyond hiring.
 
 A medium-length read: After the death of Daunte Wright, `this post <https://hypebae.com/2020/6/mental-health-resources-poc-black-minorities-community-racism-george-floydl>`__ on HYPEBAE hosted a list of mental health resources for Black and other POCs. However, mental health isn’t a one-time need or a resource that should be overlooked; these resources are still available.
 
