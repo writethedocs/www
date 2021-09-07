@@ -19,7 +19,7 @@ Avoiding the dreaded "wall of text"
 The "wall of text" is a familiar conundrum for many documentarians, especially when a topic requires in-depth explanation. As writers and as readers ourselves, we want docs that provide sufficient detail and are skimmable at the same time. Here are some strategies that go beyond surface-level fixes to also add helpful context and support a better user experience:
 
 - Add thoughtful headings and subheadings to provide content signposts and help readers find information they might otherwise miss in a long span of text. Meaningful headings do more than just break up the text - they provide a mental picture of everything on the page and allow readers to focus on the pieces they really need to understand.
-- Use progressive disclosure, like linking to secondary pages for details or using expandable panels, to keep the entire text available without overwhelming readers at first glance. Learn more about progressive disclosure from this 2017 Write the Docs Portland talk, `Building navigation for your doc site: 5 best practices <https://www.writethedocs.org/videos/na/2017/building-navigation-for-your-doc-site-5-best-practices-tom-johnson/>`__, by Tom Johnson.
+- Use progressive disclosure, like linking to secondary pages for details or using expandable panels, to keep the entire text available without overwhelming readers at first glance. Learn more about progressive disclosure from this 2017 Write the Docs Portland talk, `Building navigation for your doc site: 5 best practices </videos/na/2017/building-navigation-for-your-doc-site-5-best-practices-tom-johnson/>`__, by Tom Johnson.
 - Rewrite long paragraphs to use lists. Condense the most critical points to eye-catching items in a list and make the text more skimmable. Write instructions in individually numbered steps.
 - Look for opportunities to use formatting to add meaning to the text. Use special icons or different background shading to delineate notes and warnings. Put code snippets, quotations, and math equations in their own indented blocks. Use bold font weight to make keywords stand out. Left-justify the first paragraph for each topic and block-indent subsequent paragraphs on the same topic.
 
@@ -39,7 +39,7 @@ The best advice for those interested in tech writing, regardless of the industry
 The basics you need to document an API
 --------------------------------------
 
-A discussion this month around demystifying API documentation, we asked: what's the minimum that you need to know to document an API? Here's what the community thought:
+In a discussion this month around demystifying API documentation, we asked: what's the minimum that you need to know to document an API? Here's what the community thought:
 
 * What the user needs to know (just like any other documentation!). For APIs, that includes descriptions of all of the parameters, a sample request and response, as well as information about authenticating.
 * How to write and send cURL requests.
@@ -69,7 +69,7 @@ The #bipoc group’s been discussing the following materials on diversity, inclu
 
 Two short reads: `This article <https://techbullion.com/the-differences-between-diversity-and-inclusion-in-the-workplace/>`__ on TechBullion discusses the differences between diversity and inclusion in the workplace and why businesses need both. Many places lump these two terms together, but they are in fact two different things. And `this article <https://www.wellright.com/blog/bipoc-emotional-wellness-diverse-inclusive-workplace>`__ on WellRight expands on the topic of inclusion and discusses what it means to create a diverse and inclusive workplace. Hint, it goes beyond hiring.
 
-A medium-length read: After the death of Daunte Wright, `this post <https://hypebae.com/2020/6/mental-health-resources-poc-black-minorities-community-racism-george-floydl>`__ on HYPEBAE hosted a list of mental health resources for Black and other POCs. However, mental health isn’t a one-time need or a resource that should be overlooked; these resources are still available.
+A medium-length read: After the death of Daunte Wright, `this post <https://hypebae.com/2020/6/mental-health-resources-poc-black-minorities-community-racism-george-floyd>`__ on HYPEBAE hosted a list of mental health resources for Black and other POCs. However, mental health isn’t a one-time need or a resource that should be overlooked; these resources are still available.
 
 ----------------
 From our sponsor
