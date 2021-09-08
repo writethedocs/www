@@ -42,7 +42,7 @@ The `Write the Docs Prague 2021 Pop-Up Shop <https://shirt.writethedocs.org/>`_ 
 The campaign will run in 3-day batches until November 30th. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to wear your new shirt during the conference.
 
 All conference events and activities
------------------------------
+------------------------------------
 
 Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. And even though this years conference is held online, we're holding to that plan.
 
