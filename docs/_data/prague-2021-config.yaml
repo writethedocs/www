@@ -152,6 +152,12 @@ grants:
   ends: "August 15, 2021"
   notification: "August 25, 2021"
 
+unconf:
+  url: https://bit.ly/wtd-prg-2021-ro
+
+lightning_talks:
+  signup_url: https://forms.gle/GzEn8GH7wjs7Aaun9
+
 sponsors:
   keystone:
   patron:
