@@ -1,0 +1,5 @@
+message: "Avoid using 'this' in link text. Instead of writing '[this post](url)', use 'this post about [linting](url)' "
+extends: occurrence
+level: warning
+scope: link
+token: 'this'
