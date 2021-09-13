@@ -30,7 +30,7 @@ Being overly proficient could lead you to overlook something; a step that may be
 
 Complex Information and User Context
 --------------------------------------------------
-The engineers have a deep understanding of their domain. They are used to outsiders not understanding it. The first answer you get to your technical question might be way too superficial because they haven't get gauged how far your understanding reaches.
+The engineers have a deep understanding of their domain. They are used to outsiders not understanding it. The first answer you get to your technical question might be way too superficial because they haven't yet gauged how far your understanding reaches.
 
 Know that it does not reflect on your ability to grasp complex technical information. It's a normal process. The conversation might might take a few steps to reach the answers you need. This is another one of the areas where you excel. You ask the right questions and hunt down the answers to make sure that your documentation is of value to all your users.
 
