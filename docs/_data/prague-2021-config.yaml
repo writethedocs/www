@@ -166,6 +166,10 @@ sponsors:
     - name: jetbrains
       link: https://www.jetbrains.com/
       brand: JetBrains
+    - name: openwebdocs
+      link: https://opencollective.com/open-web-docs
+      brand: Open Web Docs
+      text: "Open Web Docs is proud to sponsor Write The Docs with underwriting from the Samsung Internet Research Team"
   media:
     - name: bart
       link: http://www.bartatwork.com
