@@ -59,19 +59,15 @@ talks_day1:
 
 talks_day2:
 - time: '9:00'
-  duration: '1:00'
+  duration: '1:45'
   title: Platform opens
-- duration: '0:40'
-  slug: hustling-for-fun-and-profit-as-a-technical-writer-a-freelancing-starter-kit-karen-sawrey
-- duration: '0:5'
-  title: Break (5 mins)
 - title: <b>Job Fair Starts</b>
 - duration: '0:40'
   slug: how-to-write-a-book-for-and-with-an-open-source-community-felicity-brand
 - duration: '0:10'
   title: Break (10 mins)
 - duration: '0:40'
-  slug: common-tools-documentation-outside-the-tech-bubble-kathleen-dimmich-mahaffy
+  slug: hustling-for-fun-and-profit-as-a-technical-writer-a-freelancing-starter-kit-karen-sawrey
 - duration: '0:5'
   title: Break (5 mins)
 - duration: '0:40'
