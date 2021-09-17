@@ -1,6 +1,6 @@
 $(document).ready(function() {
-    //feed to parse
-    var feed = "https://cors-anywhere.herokuapp.com/https://jobs.writethedocs.org/feeds/rss.xml";
+    // This is a CF account Eric controls
+    var feed = "https://cors.writethedocs.workers.dev/corsproxy/?apiurl=https://jobs.writethedocs.org/feeds/rss.xml";
 
     $.get(feed)
     .always(
