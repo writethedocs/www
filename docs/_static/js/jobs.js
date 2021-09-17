@@ -1,6 +1,7 @@
 $(document).ready(function() {
     // This is a CF account Eric controls
-    var feed = "https://cors.writethedocs.workers.dev/corsproxy/?apiurl=https://jobs.writethedocs.org/feeds/rss.xml";
+    // Use the RSS feed with latest featured jobs
+    var feed = "https://cors.writethedocs.workers.dev/corsproxy/?apiurl=https://jobs.writethedocs.org/feeds/rss.xml?featured=1";
 
     $.get(feed)
     .always(
