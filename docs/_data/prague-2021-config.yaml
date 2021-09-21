@@ -172,6 +172,10 @@ sponsors:
       link: https://opencollective.com/open-web-docs
       brand: Open Web Docs
       text: "<p>Open Web Docs is proud to sponsor Write The Docs with underwriting from the Samsung Internet Research Team</p>"
+    - name: aiven
+      link: https://aiven.io/
+      brand: Aiven
+      text: "<p>Aiven provides managed open-source data technologies on all major clouds. We are looking for Developer Advocates, Developer Educators and Technical Writers to join our DevRel team. We have offices in Helsinki, and Berlin, however we are hiring for this position remotely in several countries all over Europe additionally to Germany and Finland. You will be empowering and enabling developers everywhere to take advantage of the best open source database technologies, preparing and delivering content for industry events, meetups, our own webinars and creating engaging demos and documentation. Contact us for more details!</p>"
   media:
     - name: bart
       link: http://www.bartatwork.com
