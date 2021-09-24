@@ -30,6 +30,8 @@ You can also watch the video directly from our `YouTube channel <https://youtu.b
 Helpdesk
 ~~~~~~~~
 
+Have a look at the `FAQ section<#faqs>`__ we put together based on questions we got at previous conferences.
+
 If you still have questions, reach out the Welcome Wagon staff at the Helpdesk anytime. Select **Expo** > **Helpdesk** > **Chat** and enter your question. A member of the Welcome Wagon will be online during conference hours to help you.
 
 Message organisers
