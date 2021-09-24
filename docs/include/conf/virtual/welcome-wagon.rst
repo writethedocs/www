@@ -275,7 +275,7 @@ How do I see what’s happening right now?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Go to Reception to see the talk schedule.
-- Go to the Write the Docs website to view the `_full schedule <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/schedule/>`__.
+- Go to the Write the Docs website to view the `full schedule <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/schedule/>`__.
 {% if unconf and unconf.url %}
 - View the `Integrated schedule <{{unconf.url}}>`__ to see what Writing Day and Unconference sessions are happening.
 {% else %}
