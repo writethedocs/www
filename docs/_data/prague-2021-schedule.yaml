@@ -8,13 +8,19 @@ writing_day:
   title: Team up and start working
 - duration: '1:00'
   title: Lunch Break (60 mins)
+- time: '14:00'
+  duration: '0:30'
+  title: Conference Intro and Tour with the Welcome Wagon
 - time: '17:00'
   title: End of Writing Day
 
 talks_day1:
 - time: '9:00'
-  duration: '1:00'
+  duration: '0:30'
   title: Platform opens
+- time: '9:30'
+  duration: '0:30'
+  title: Conference Intro and Tour with the Welcome Wagon
 - duration: '0:40'
   title: Write the Docs Team - Introduction to Write the Docs
 - duration: '0:5'
