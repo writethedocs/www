@@ -15,7 +15,7 @@ Tickets sales closing on Thursday, September 30th
 
 We wanted to let you know that we will be closing ticket sales on **Thursday, September 30th at 20:00 CEST**. This helps the organizer team manage the platform registrations in time for the start of the conference, and helps keep the cozy community feeling of the event. 
 
-If you were hoping to come to this years event, we recommend that you `get your tickets soon <https://www.writethedocs.org/conf/prague/2021/tickets/>`_. 
+If you were hoping to come to this years event, we recommend that you `get your tickets before Thursday <https://www.writethedocs.org/conf/prague/2021/tickets/>`_. 
 
 **If you already purchased a ticket you should have received an email from us with your Hopin registration link.** After we close ticket sales, we will send another email to everyone with a reminder and a link to access the Hopin event.
 
