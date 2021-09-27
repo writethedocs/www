@@ -10,8 +10,8 @@ Hey everyone!
 
 We're just a few days away from the start of the conference, and we're getting excited to see you soon at our online venue for three days of content, collaboration, and conversation. We're happy to share with you some useful resources to help you prepare for the conference.
 
-Tickets sales closing on Friday, October 1
-------------------------------------------
+Tickets sales closing on Thursday, September 30th
+-------------------------------------------------
 
 We wanted to let you know that we will be closing ticket sales on **Friday, Octover 1st at 20:00 CEST**. This will help the organizer team manage the platform registrations in time for the start of the conference, and help keep the cozy community feeling of the event. 
 
