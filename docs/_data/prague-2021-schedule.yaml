@@ -8,13 +8,19 @@ writing_day:
   title: Team up and start working
 - duration: '1:00'
   title: Lunch Break (60 mins)
+- time: '14:00'
+  duration: '0:30'
+  title: Conference Intro and Tour with the Welcome Wagon
 - time: '17:00'
   title: End of Writing Day
 
 talks_day1:
 - time: '9:00'
-  duration: '1:00'
+  duration: '0:30'
   title: Platform opens
+- time: '9:30'
+  duration: '0:30'
+  title: Conference Intro and Tour with the Welcome Wagon
 - duration: '0:40'
   title: Write the Docs Team - Introduction to Write the Docs
 - duration: '0:5'
@@ -59,19 +65,15 @@ talks_day1:
 
 talks_day2:
 - time: '9:00'
-  duration: '1:00'
+  duration: '1:45'
   title: Platform opens
-- duration: '0:40'
-  slug: hustling-for-fun-and-profit-as-a-technical-writer-a-freelancing-starter-kit-karen-sawrey
-- duration: '0:5'
-  title: Break (5 mins)
 - title: <b>Job Fair Starts</b>
 - duration: '0:40'
   slug: how-to-write-a-book-for-and-with-an-open-source-community-felicity-brand
 - duration: '0:10'
   title: Break (10 mins)
 - duration: '0:40'
-  slug: common-tools-documentation-outside-the-tech-bubble-kathleen-dimmich-mahaffy
+  slug: hustling-for-fun-and-profit-as-a-technical-writer-a-freelancing-starter-kit-karen-sawrey
 - duration: '0:5'
   title: Break (5 mins)
 - duration: '0:40'

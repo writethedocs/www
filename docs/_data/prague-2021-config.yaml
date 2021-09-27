@@ -170,9 +170,18 @@ sponsors:
       link: https://www.knowledgeowl.com
       brand: KnowledgeOwl
       width: 250px
+      text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl also sponsors and hosts The Not-Boring Tech Writer podcast. We are always looking for new guests to share their stories, experience, and expertise with the world.</p>"
     - name: jetbrains
       link: https://www.jetbrains.com/
       brand: JetBrains
+    - name: openwebdocs
+      link: https://opencollective.com/open-web-docs
+      brand: Open Web Docs
+      text: "<p>Open Web Docs is proud to sponsor Write The Docs with underwriting from the Samsung Internet Research Team</p>"
+    - name: aiven
+      link: https://aiven.io/
+      brand: Aiven
+      text: "<p>Aiven provides managed open-source data technologies on all major clouds. We are looking for Developer Advocates, Developer Educators and Technical Writers to join our DevRel team. We have offices in Helsinki, and Berlin, however we are hiring for this position remotely in several countries all over Europe additionally to Germany and Finland. You will be empowering and enabling developers everywhere to take advantage of the best open source database technologies, preparing and delivering content for industry events, meetups, our own webinars and creating engaging demos and documentation. Contact us for more details!</p>"
   media:
     - name: bart
       link: http://www.bartatwork.com
