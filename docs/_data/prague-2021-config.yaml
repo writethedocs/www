@@ -162,6 +162,9 @@ sponsors:
   keystone:
   patron:
   publisher:
+    - name: redhat
+      link: https://www.redhat.com/en
+      brand: Red Hat
   second:
     - name: peopletext
       link: https://www.people-text.de/en/home-en.html
