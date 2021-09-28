@@ -33,6 +33,7 @@ cfp: include('cfp-details', required=False)
 grants: include('grants-details', required=False)
 shirts: include('shirts-details', required=False)
 unconf: include('unconf-details', required=False)
+lightning_talks: include('lightning_talks-details', required=False)
 
 flaghassponsors: bool()
 flagcfp: bool()
@@ -175,3 +176,6 @@ shirts-details:
 
 unconf-details:
   url: str(required=True)
+
+lightning_talks-details:
+  signup_url: str(required=True)
