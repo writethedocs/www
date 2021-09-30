@@ -26,8 +26,8 @@ buttons:
     #   link: /welcome-wagon
     # - text: See the Schedule!
     #   link: /schedule
-    - text: Buy a Ticket!
-      link: /tickets
+    # - text: Buy a Ticket!
+     # link: /tickets
     #- text: Sponsor us
     #  link: /sponsors/prospectus
     #   - text: Submit a Talk
@@ -204,7 +204,7 @@ flagcfp: False
 flaglanding: False
 flaghassponsors: True
 flagticketsonsale: True
-flagsoldout: False
+flagsoldout: True
 flagspeakersannounced: True
 flagrunofshow: True
 flaghasschedule: True
