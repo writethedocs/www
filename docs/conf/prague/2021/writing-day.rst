@@ -17,7 +17,7 @@ Your Project Here
 
 Open Web Docs and MDN
 ^^^^^^^^^^^^^^^^^^^^^
-`Open Web Docs <https://opencollective.com/open-web-docs>`_ was created to ensure the long-term health of web platform documentation independent of any single vendor or organization. It's supported by various organizations and individuals, and employs technical writers who create and maintain open documentation for the web platform. At the moment we’re focused on maintaining and improving `MDN Web Docs <https://developer.mozilla.org/>`_.
+`Open Web Docs <https://openwebdocs.org>`_ was created to ensure the long-term health of web platform documentation independent of any single vendor or organization. It's supported by various organizations and individuals, and employs technical writers who create and maintain open documentation for the web platform. At the moment we’re focused on maintaining and improving `MDN Web Docs <https://developer.mozilla.org/>`_.
 
 We are happy to announce that, on the Writing Day, we will collaborate with writers from Mozilla, who will be joining us to improve MDN Web Docs.
 
@@ -31,7 +31,7 @@ We'd love to collaborate with you on some of our projects. To get started, you�
 
 - We will lead a brainstorming session about **Documenting how to document** (expected time to start at 2pm).
 
-It’s an explicit goal of _Open Web Docs_ to create and support a community around web documentation. So if you do join us for Writing Day, please tell us about it - what worked and what didn’t, what was easy and what wasn’t - so we can improve the experience for contributors.
+It’s an explicit goal of *Open Web Docs* to create and support a community around web documentation. So if you do join us for Writing Day, please tell us about it - what worked and what didn’t, what was easy and what wasn’t - so we can improve the experience for contributors.
 
 
 Write the Docs Meetups
