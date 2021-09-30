@@ -203,7 +203,7 @@ sponsors:
 flagcfp: False
 flaglanding: False
 flaghassponsors: True
-flagticketsonsale: True
+flagticketsonsale: False
 flagsoldout: True
 flagspeakersannounced: True
 flagrunofshow: True
