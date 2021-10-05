@@ -8,9 +8,9 @@ Write the Docs Newsletter – October 2021
 
 Hello everyone!
 
-It's Beth here, writing while I'm listening in to Write the Docs Prague. I hope everyone who attended had a great time! For those of you who couldn't make it, keep an eye out: we'll be publishing the talk videos on YouTube fairly soon. And if you'd like to get more of a flavour of the conference, you can listen to `the intermission music <https://open.spotify.com/artist/36ZvEAnAbW8NOJK7TrBoh5>`__ - which I am bopping along to as I type :D
+It's Beth here, writing while I'm listening in to Write the Docs Prague. I hope everyone who attended had a great time! For those of you who couldn't make it, keep an eye out: we'll be publishing the talk videos on YouTube fairly soon. And if you'd like to get more of a flavour of the conference, you can listen to `the intermission music <https://missmikeymay.com/>`__ - which I am bopping along to as I type :D
 
-Today's big news is that we've just launched the `salary survey for 2021 <TODO LINK!!>`__. As in previous years, our goal is to get a clear idea of the pay scales and benefits in the software industry around documentation. Publishing the anonymized results for free will help people get a better understanding of what an appropriate salary is, and negotiate a better one. We really hope you'll fill it out.
+Today's big news is that we've just launched the `salary survey for 2021 <https://salary-survey.writethedocs.org/>`__. As in previous years, our goal is to get a clear idea of the pay scales and benefits in the software industry around documentation. Publishing the anonymized results for free will help people get a better understanding of what an appropriate salary is, and negotiate a better one. We really hope you'll fill it out.
 
 In the meantime, we’ve had another month of interesting conversations and insights from the Write the Docs Slack. Read on, and enjoy!
 
