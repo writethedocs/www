@@ -17,7 +17,7 @@ Get your ticket for the conference
 
 **The Portland conference will be held online on {{ date.short }}.** The `full event website <https://www.writethedocs.org/conf/portland/2020/>`_ is live, with some preliminary details, and we'll be filling in more as it gets closer.
 
-If you're excited too, go ahead and `register for your ticket now <https://www.writethedocs.org/conf/portland/2020/tickets/>`_! We aren't sure exactly what capacity we will be able to hold for the virtual event, but we might still sell out to make sure we're providing a managable event size for our attendees, as always.
+If you're excited too, go ahead and `register for your ticket now <https://www.writethedocs.org/conf/portland/2020/tickets/>`_! We aren't sure exactly what capacity we will be able to hold for the virtual event, but we might still sell out to make sure we're providing a manageable event size for our attendees, as always.
 
 We're still working out all the details for our virtual event,
 but know that we're going to keep as much as possible of the spirit of the event alive:
