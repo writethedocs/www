@@ -17,7 +17,7 @@ Conference recap
 ================
 
 Around 50 people attended from over 15 countries, a diverse and enthusiastic crowd.
-We had some excellent speakers, some new folks giving lightening talks, an active writing day, and a social.
+We had some excellent speakers, some new folks giving lightning talks, an active writing day, and a social.
 
 Overall, we were excited to our awesome community come together in a lovely venue.
 Lots of knowledge was shared, and we had a great time.
