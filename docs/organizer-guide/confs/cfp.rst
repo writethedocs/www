@@ -181,7 +181,7 @@ Meeting 3 - Present slides:
 Meeting 4 - Practice talk:
    *Speaker pre-work: Practice the talk several times. Prepare speaker notes in the slidedeck if needed, but aim to reach the point that you don't need to reference the outline.*
    
-   The speaker presents a semi-final draft of the pratice talk. The mentor provides feedback on the presentation, asks questions they anticipate the audience might have, make suggestions on the flow and speed, and so on. If the speaker and mentor agree that additional practice talks are needed or desired, they can schedule them.
+   The speaker presents a semi-final draft of the practice talk. The mentor provides feedback on the presentation, asks questions they anticipate the audience might have, make suggestions on the flow and speed, and so on. If the speaker and mentor agree that additional practice talks are needed or desired, they can schedule them.
 
 Session considerations
 ~~~~~~~~~~~~~~~~~~~~~~

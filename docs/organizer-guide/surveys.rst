@@ -1,7 +1,7 @@
 Salary Surveys
 ===============
 
-We run these anually, and publish annonimised results but not the full data.
+We run these annually, and publish annonimised results but not the full data.
 
 Convert from Google Doc to ReStructuredText
 -------------------------------------------

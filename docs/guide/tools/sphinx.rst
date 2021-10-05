@@ -144,7 +144,7 @@ The main parts you will need at first are:
 * **Sections**
 * **Directives**
 
-.. note:: You can live-preview RST on the web: http://rst.ninjs.org/
+.. note:: You can live-preview RST on the web: http://rst.ninja.org/
           . Note that it won't understand Sphinx-specific markup though.
 
 Feel free to play around with RST a bit to make sure that you understand how

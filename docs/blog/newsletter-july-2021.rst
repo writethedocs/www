@@ -39,7 +39,7 @@ Many felt including "Distinguished" was a bit unusual. It's nice to have it ther
 
 Even the other high levels can be challenging to reach, especially as an individual contributor. Many companies need managers  much more than high-level ICs, or simply don't have scope to do work at such a high level. But there was general agreement on the importance of having clear standards for what each level means. It can be really frustrating if someone wants to get promoted but the ground keeps shifting.
 
-How long should it take to reach the "senior" level? Surprise surprise, there's no clear answer. We see 5 years mentioned a lot in job adverts, but some folks said it took as little as 2 with the right domain knowledge. Of course, seniority shouldn't purely about the number of years you've been in the role - most felt it was more to do with your skill level, and the breadth and level of responsiblity you take on. Take these titles with a pinch of salt, though, because what they mean can vary wildly between different companies. For on what it means to be senior, see `Distinguishing between junior vs senior tech writers </blog/newsletter-june-2018/#junior-vs-senior-technical-writers>`__ from the June 2018 newsletter.
+How long should it take to reach the "senior" level? Surprise surprise, there's no clear answer. We see 5 years mentioned a lot in job adverts, but some folks said it took as little as 2 with the right domain knowledge. Of course, seniority shouldn't purely about the number of years you've been in the role - most felt it was more to do with your skill level, and the breadth and level of responsibility you take on. Take these titles with a pinch of salt, though, because what they mean can vary wildly between different companies. For on what it means to be senior, see `Distinguishing between junior vs senior tech writers </blog/newsletter-june-2018/#junior-vs-senior-technical-writers>`__ from the June 2018 newsletter.
 
 -------------------
 Doc history and Git
@@ -47,7 +47,7 @@ Doc history and Git
 
 When you're creating a new version of docs for a release, how important is it to keep the docs for old releases? The simple answer is to keep all history, just in case - you never know when you'll need it. But some docs are so outdated that the original writeup is incredibly unlikely to be relevant.
 
-How to keep the history depends on how you want to use it. If you're using Git and you just want to be able to check the history, you can see it with `git log`. Though it can take some archaelogical work to follow the trail when files get moved.
+How to keep the history depends on how you want to use it. If you're using Git and you just want to be able to check the history, you can see it with `git log`. Though it can take some archaeological work to follow the trail when files get moved.
 
 But what if you want to publish those old docs? One option is to copy your old files alongside your new ones. It's possible to copy the files while retaining their history, but `it takes some effort <https://devblogs.microsoft.com/oldnewthing/20190919-00/?p=102904>`__. However, be aware that Git doesn't track files exactly. It tracks some content (blobs—sequences of bytes), and trees of file names that point to blobs, but it doesn't actually track those things together, which is why that blog post has to use merges to copy the history. It's fighting the way Git wants to work. It might be simpler to copy the file with a commit message saying where it was copied from, to help someone track down the history if they need to.
 
