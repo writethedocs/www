@@ -24,7 +24,7 @@ You may be able to publish your best efforts without review and await (or seek) 
 
 The fastest way to get corrections may be to publish errors, but sometimes that's not an option. In this case, try to assemble an informal group of docs review resources. Seek a product manager or subject matter expert to review docs for accuracy. For readability, look for someone else whose job requires writing, perhaps in marketing or communications. Your experiments here could help drive support for a more formal docs review process.
 
-Some lone writers solicit docs review by creating feedback channels in Slack with the `Workflow Builder <https://slack.com/help/articles/360035692513-Guide-to-Workflow-Builder>`_. For example, you could create a #documentation channel with a built-in form for submitting correction requests, with fields for specifying the page in question and the requested corrections. Then the Slack bot can notify you when someone submits a correction.
+Some lone writers solicit docs review by creating feedback channels in Slack with the `Workflow Builder <https://slack.com/help/articles/360035692513-Guide-to-Workflow-Builder>`_. For example, you could create a #documentation channel with a built-in form for submitting correction requests, with fields for specifying the page in question and the requested corrections. Then the Slackbot can notify you when someone submits a correction.
 
 For detailed instructions for setting up your own docs feedback workflow in Slack and other insights from this discussion, read Darryl J. White's blog post `Editing and Gathering Feedback <https://www.djw.fyi/posts/editing-and-gathering-feedback/>`__.
 
