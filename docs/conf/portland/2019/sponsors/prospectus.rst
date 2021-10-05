@@ -263,7 +263,7 @@ We recommend not having more than 3-4 people at your booth,
 as it can be intimidating for attendees.
 There are 8 booth areas where you can sit and hold longer conversations.
 
-**Logistics**: You will have a six-foot table and two chairs reserved for your company. Each company that confirms their attendance will have a table reserved for them with their logo on it. Giveaways/flyers are welcome, but please make sure everything fits on your alloted table.
+**Logistics**: You will have a six-foot table and two chairs reserved for your company. Each company that confirms their attendance will have a table reserved for them with their logo on it. Giveaways/flyers are welcome, but please make sure everything fits on your allotted table.
 
 Sponsor booths
 ~~~~~~~~~~~~~~

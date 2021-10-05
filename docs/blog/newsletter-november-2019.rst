@@ -127,7 +127,7 @@ Community events coming up
 - 9 November - Bengaluru, India - `Documentation, design and driving initiatives <https://www.meetup.com/Write-the-Docs-India/events/265991392/>`__
 - 12 November - Bellevue, WA, USA - `Eastside morning social <https://www.meetup.com/Write-The-Docs-Seattle/events/265937099/>`__
 - 14 November - Sydney, Australia - `Write the Docs Australia conference 2019! </conf/australia/2019/>`__
-- 14 November - London, UK - `Localisation and Guerilla graphics <https://www.meetup.com/Write-The-Docs-London/events/265681650/>`__
+- 14 November - London, UK - `Localisation and Guerrilla graphics <https://www.meetup.com/Write-The-Docs-London/events/265681650/>`__
 - 14 November - Indianapolis, IN, USA - `November meetup <https://www.meetup.com/Write-the-Docs-Indy/events/265907667/>`__
 - 14 November - Los Angeles, CA, USA - `Sean Marquez and TODO task management <https://www.meetup.com/Write-the-Docs-LA/events/265804790/>`__
 - 19 November - Austin, TX, USA - `ATX happy hour meetup <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/265298825/>`__

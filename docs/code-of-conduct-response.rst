@@ -60,7 +60,7 @@ Based on the report and any other available information, the response team will 
 * Who, if anyone, was the bad actor(s)
 * What the appropriate resolution is
 
-A written record will be kept of each incident and its review. Although that sometimes seems superflous at the time, hectic environments like conferences can make it easy to forget or confuse details later.
+A written record will be kept of each incident and its review. Although that sometimes seems superfluous at the time, hectic environments like conferences can make it easy to forget or confuse details later.
 
 As a result of the meeting, the response team may come to a conclusion about a resolution, or may conclude that additional information should be obtained. In the latter case, this additional information will be collected as soon as possible. Any conversations as part of this should generally be done by two people from the response team.
 

@@ -7,7 +7,7 @@ Write the Docs Newsletter – February 2020
 
 Happy 2020, documentarians! It's Beth and the newsletter crew here, with the latest and greatest from the Write the Docs community.
 
-Two items on the news front today. In December we annouced dates for the Prague conference, which will be 13-15 September - and in a brand shiny new venue, the Hotel Olšanka! `Read all about it here </conf/prague/2020/news/init/>`__. And across the pond, the speakers for Portland speakers will be announced soon, so keep your eyes peeled for those. The conference is 3-5 May, and `tickets are on sale right now </conf/portland/2020/tickets/>`__.
+Two items on the news front today. In December we announced dates for the Prague conference, which will be 13-15 September - and in a brand shiny new venue, the Hotel Olšanka! `Read all about it here </conf/prague/2020/news/init/>`__. And across the pond, the speakers for Portland speakers will be announced soon, so keep your eyes peeled for those. The conference is 3-5 May, and `tickets are on sale right now </conf/portland/2020/tickets/>`__.
 
 So with that, let's see what's been cooking on Slack recently!
 
