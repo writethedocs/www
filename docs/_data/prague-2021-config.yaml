@@ -27,7 +27,7 @@ buttons:
     # - text: See the Schedule!
     #   link: /schedule
     # - text: Buy a Ticket!
-     # link: /tickets
+    #   link: /tickets
     #- text: Sponsor us
     #  link: /sponsors/prospectus
     #   - text: Submit a Talk
