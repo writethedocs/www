@@ -1,6 +1,5 @@
 ba
 covert
-covert
 crate
 idaes
 ines
