@@ -6,6 +6,7 @@ idaes
 ines
 ist
 mobify
+ninjs
 tread
 wan
 wee
