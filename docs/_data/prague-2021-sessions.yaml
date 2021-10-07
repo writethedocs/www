@@ -140,14 +140,14 @@
     the meaning of existing terminologies and the mental models they represent. </p>\n<p>What
     are the practical ways we can support the creation of new mental models to aid
     understanding?</p>\n</li>\n<li>\n<p>Fast and Slow Thinking - \nKahnemann - how
-    do we apply Kahnemann’s principles to Technical Writing \nWe know people don’t
+    do we apply Kahnemann’s principles to Technical Writing \n We know people don’t
     want to think, we know they prefer heuristics that are often biased to process
     information. Yet as Technical writers, we have to convey complex information that
     may require this less preferred deep thinking. </p>\n<p>What are the practical
     ways we can resolve this tension and support people to comprehend complexity easily.</p>\n</li>\n<li>\n<p>Culture
     and Behaviour Change \nDo you ever feel like you’re wading through mud. The docs
     aren’t getting written, you’re overwhelmed and a new release is coming out. \nWhy
-    culture matters and what it is? What is culture clash? \nHow do we discover cultural
+    culture matters and what it is? What is culture clash? \n How do we discover cultural
     indicators and work with them to promote an effective docs-first culture?</p>\n</li>\n</ol>"
 - title: Hitchhiker's Guide to Documentation Tools and Processes
   slug: hitchhiker-s-guide-to-documentation-tools-and-processes-lukas-reu-ner
@@ -312,10 +312,10 @@
 
     <p>In the following year we first set out to find out what we actually wanted
     to share with whom, and what roadblocks we found, both technical and organizational.
-    As our organization is trying to be "LEAN", we asked te help of a lean coach to
+    As our organization is trying to be "LEAN", we asked the help of a lean coach to
     look with us what the "root causes" were for the lack of information sharing.
     One of the main things we found out "on the go" is that the documents we had standardized,
-    but never made were indeed those that noone was interested in.</p>
+    but never made were indeed those that no one was interested in.</p>
 
     <p>In the process of standardizing and recreating our knowledge products, we had
     a lot of hurdles to take, such as getting consesus what we actually need to document,

@@ -18,4 +18,4 @@ Your Project Here
 Write the Docs Meetups
 ----------------------
 
-Organizing local Write the Docs meetup communities is a rewarding way to participate. During Writing Day, we'll have a table where we can share tips and best practices, espcially in this time where all of our meetups are virtual.
+Organizing local Write the Docs meetup communities is a rewarding way to participate. During Writing Day, we'll have a table where we can share tips and best practices, especially in this time where all of our meetups are virtual.

@@ -46,7 +46,7 @@ Start thinking about Writing Day
 --------------------------------
 
 Our pre-conference `Writing Day <https://www.writethedocs.org/conf/portland/2019/writing-day/>`_ will happen on Sunday at the Crystal Ballroom.
-We've got a couple of projects on the docket – including our annual 'Write Write the Docs' sprint on the communiy website.
+We've got a couple of projects on the docket – including our annual 'Write Write the Docs' sprint on the community website.
 But the day is much more fun when folks come with their own projects in mind!
 
 If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.

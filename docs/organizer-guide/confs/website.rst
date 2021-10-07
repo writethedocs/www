@@ -41,7 +41,7 @@ the schemas in ``_data/schema-*``.
 Typical conference workflow
 ---------------------------
 
-* Create the intial conference website by copying the files from
+* Create the initial conference website by copying the files from
   ``conf/<shortcode>/<year>/`` from the previous conference
   (chronologically, not the previous conference in the same location).
   You may need to update some reference to specific locations/years,

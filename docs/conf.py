@@ -8,7 +8,7 @@ import yaml
 import ablog
 from recommonmark.transform import AutoStructify
 
-# Only for windows compatability - Forces default encoding to UTF8, which it may not be on windows
+# Only for windows compatibility - Forces default encoding to UTF8, which it may not be on windows
 if os.name == 'nt':
     reload(sys)
     sys.setdefaultencoding('UTF8')
