@@ -13,6 +13,7 @@ Technical communication
 * `Modern Technical Writing <https://www.goodreads.com/book/show/28433138-modern-technical-writing>`_, by Andrew Etter
 * `Practical Strategies for Technical Communication <https://www.goodreads.com/book/show/15875185-practical-strategies-for-technical-communication>`_, by Mike Markel and Stuart Selber
 * `The Product is Docs <https://www.splunk.com/en_us/blog/splunklife/the-product-is-docs.html>`_, by Christopher Gales - **1st edition read in our book club**
+* `Strategic Writing for UX <https://www.oreilly.com/library/view/strategic-writing-for/9781492049388/>`_, by Torrey Podmojersky
 * `Wicked, Incomplete, and Uncertain: User Support in the Wild and the Role of Technical Communication <https://www.goodreads.com/book/show/37864792-wicked-incomplete-and-uncertain>`_, by Jason Swarts
 
 Content strategy
