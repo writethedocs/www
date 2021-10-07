@@ -25,9 +25,6 @@ Content strategy
 * `Every Page is Page One <https://everypageispageone.com/the-book/>`_, by Mark Baker - **Read in our book club**
 * `Letting Go of the Words <https://www.goodreads.com/book/show/1135441.Letting_Go_of_the_Words>`_, by Janice (Ginny) Redish - **Read in our book club**
 * `Structured Writing <https://www.goodreads.com/book/show/41885955-structured-writing>`_, by Mark Baker
-* `The Subversive Copy Editor <https://press.uchicago.edu/ucp/books/book/chicago/S/bo23530364.html>`_, by Carol Fisher Saller
-* `Think Like a UX Researcher <https://www.routledge.com/Think-like-a-UX-Researcher-How-to-Observe-Users-Influence-Design-and/Travis-Hodgson/p/book/9781138365292>`_, by David Travis and Philip Hodgson
-* `Wicked, Incomplete, and Uncertain: User Support in the Wild and the Role of Technical Communication <https://www.goodreads.com/book/show/37864792-wicked-incomplete-and-uncertain>`_, by Jason Swarts
 
 Design and information architecture
 --------------------------------------
