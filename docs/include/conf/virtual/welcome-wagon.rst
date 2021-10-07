@@ -23,12 +23,14 @@ Join our Conference Intro and Tour by going to **Sessions** and selecting **Conf
 Guides
 ~~~~~~
 
-You can prepare for the conference by reading through this guide. Don’t worry if you forget any of it – there will be a recording you can watch in the Helpdesk booth. Select **Expo** > **Write the Docs Helpdesk** to watch it anytime.
+You can prepare for the conference by reading through this guide. Don’t worry if you forget any of it – there will be a recording you can watch in the Helpdesk booth. Select **Expo** > **Helpdesk** to watch it anytime.
 
 You can also watch the video directly from our `YouTube channel <https://youtu.be/aLtnc0ITzok>`__.
 
 Helpdesk
 ~~~~~~~~
+
+Have a look at the `FAQ section <#faqs>`__ we put together based on questions we got at previous conferences.
 
 If you still have questions, reach out the Welcome Wagon staff at the Helpdesk anytime. Select **Expo** > **Helpdesk** > **Chat** and enter your question. A member of the Welcome Wagon will be online during conference hours to help you.
 
@@ -275,7 +277,7 @@ How do I see what’s happening right now?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Go to Reception to see the talk schedule.
-- Go to the Write the Docs website to view the `_full schedule <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/schedule/>`__.
+- Go to the Write the Docs website to view the `full schedule <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/schedule/>`__.
 {% if unconf and unconf.url %}
 - View the `Integrated schedule <{{unconf.url}}>`__ to see what Writing Day and Unconference sessions are happening.
 {% else %}
@@ -297,8 +299,8 @@ I want to tag someone in a comment in chat. Why isn’t it working?
 How do I ask a question to the speakers?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- There’s a Q&A session after each talk in Sessions. In Chat, enter your question preceded by a Q:. The moderators will send your question to the speaker.
-- If your question isn’t answered during Q&A, you can reach out to the speaker directly in Chat by selecting the People tab and sending them a direct message.
+- There’s a Q&A session after each talk in Sessions. In Chat, enter your question preceded by a "Q:". The moderators will send your question to the speaker.
+- If your question isn’t answered during Q&A, you can reach out to the speaker directly in Chat by selecting the **People** tab and sending them a direct message.
 
 How should I prepare for the Job Fair?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -349,12 +351,12 @@ I'm unable to share my webcam or microphone in a session or table.
   - `I'm having Camera and/or Microphone issues on Mac <https://hopin.zendesk.com/hc/en-gb/articles/360056527911-I-m-having-Camera-and-or-Microphone-issues-on-Mac/>`__
   - `I'm having Camera and/or Microphone issues on Windows 10 <https://hopin.zendesk.com/hc/en-gb/articles/360059277232-I-m-having-Camera-and-or-Microphone-issues-on-Windows-10/>`__
 
-If none of these work, reach out to the Help Desk for help. Select Expo > Helpdesk and ask your question in the Chat.
+If none of these work, reach out to the Helpdesk for help. Select **Expo** > **Helpdesk** and ask your question in the **Chat** tab.
 
 What can I do at the conference?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- You can watch talks, participate in the Unconference, visit the Job Fair, talk to our sponsors, give a Lightning Talk, and chat with other conference attendees. If you need help with any of it, reach out to the Welcome Wagon at Expo > Help Desk.
+- You can watch talks, participate in the Unconference, visit the Job Fair, talk to our sponsors, give a Lightning Talk, and chat with other conference attendees. If you need help with any of it, reach out to the Welcome Wagon at **Expo** > **Helpdesk**.
 
 Where can I learn more?
 ~~~~~~~~~~~~~~~~~~~~~~~

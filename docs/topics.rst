@@ -103,7 +103,7 @@ Writing topics
 - |:newspaper:| `Page length and user preference </blog/newsletter-april-2019/#page-length-and-user-preference>`__
 - |:movie_camera:| `Checklist the Docs </videos/eu/2016/checklist-the-docs-daniel-beck/>`__
 - |:movie_camera:| `How to Write Documentation for People that Don't Read </videos/na/2015/how-to-write-documentation-for-people-that-don-t-read-kburke/>`__
-- |:movie_camera:| `Engage or Die: Four Techniques for Writing Indispensible Docs <https://www.youtube.com/watch?v=IMdyx4YJ0hQ&list=PLZAeFn6dfHpnHBLE4qEUwg1LjhDZEvC2A>`__
+- |:movie_camera:| `Engage or Die: Four Techniques for Writing Indispensable Docs <https://www.youtube.com/watch?v=IMdyx4YJ0hQ&list=PLZAeFn6dfHpnHBLE4qEUwg1LjhDZEvC2A>`__
 
 Task-based writing
 ~~~~~~~~~~~~~~~~~~

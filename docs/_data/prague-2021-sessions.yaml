@@ -140,14 +140,14 @@
     the meaning of existing terminologies and the mental models they represent. </p>\n<p>What
     are the practical ways we can support the creation of new mental models to aid
     understanding?</p>\n</li>\n<li>\n<p>Fast and Slow Thinking - \nKahnemann - how
-    do we apply Kahnemann’s principles to Technical Writing \nWe know people don’t
+    do we apply Kahnemann’s principles to Technical Writing \n We know people don’t
     want to think, we know they prefer heuristics that are often biased to process
     information. Yet as Technical writers, we have to convey complex information that
     may require this less preferred deep thinking. </p>\n<p>What are the practical
     ways we can resolve this tension and support people to comprehend complexity easily.</p>\n</li>\n<li>\n<p>Culture
     and Behaviour Change \nDo you ever feel like you’re wading through mud. The docs
     aren’t getting written, you’re overwhelmed and a new release is coming out. \nWhy
-    culture matters and what it is? What is culture clash? \nHow do we discover cultural
+    culture matters and what it is? What is culture clash? \n How do we discover cultural
     indicators and work with them to promote an effective docs-first culture?</p>\n</li>\n</ol>"
 - title: Hitchhiker's Guide to Documentation Tools and Processes
   slug: hitchhiker-s-guide-to-documentation-tools-and-processes-lukas-reu-ner
@@ -204,44 +204,6 @@
 
     <p>And last but not least, we''ll have a look at different documentation processes
     and how they fit to our defined tool categories and types of use.</p>'
-- title: 'Common Tools: documentation outside the tech bubble'
-  slug: common-tools-documentation-outside-the-tech-bubble-kathleen-dimmich-mahaffy
-  series: Write the Docs Prague
-  series_slug: prague
-  year: 2021
-  speakers:
-  - name: Kathleen Dimmich Mahaffy
-    slug: kathleen-dimmich-mahaffy
-    twitter: 
-    website: 
-  abstract: '<p>When I went to WtD-Prague last year, I was struck by the assumption
-    that all tech writers are writing for technically savvy users, and that we all
-    had access to fancy tools. What do you do when you’re a tech writer for accountants
-    and social workers? When your documentation is written in MS Word, and hosted
-    on SharePoint? </p>
-
-    <p>I am part of a large base of documentarians who are still using word processing
-    programs, and who are writing for people for whom technology is still seen mostly
-    as an impediment, not as an asset for their jobs. I am the lead tech writer at
-    a property management firm, and my audience is made up of all 600 of our staff,
-    from maintenance personnel to the woman in the corner office. Our tools are simple
-    ones, because our staff needs explicit directions in a printable PDF, something
-    they can mark up and put in a binder on their desk. These are people who, by and
-    large, have a semi-antagonistic attitude about technology, from their phones to
-    our primary, custom SaaS database, and have a wide, <em>wide</em> variation in
-    use cases.</p>
-
-    <p>So when your tools are limited, and your audience is not at all technically
-    savvy, how do you organize the documentation upgrade process? I just finished
-    a complete reorganization and rewrite of all our manuals, to reflect the government
-    mandated changes in the SaaS. What does framing look like, and the style guide,
-    when git and docs-as-code aren’t actually options? When 60% of your audience needs
-    help changing their password, what are the things that you need to take into account
-    as you write your documentation on highly technical processes in the WYSIWYG SaaS
-    database? </p>
-
-    <p>Tl:dr: Not every tech writing job is in the tech industry - how does that change
-    your documentation?</p>'
 - title: How to write a book for (and with) an open source community
   slug: how-to-write-a-book-for-and-with-an-open-source-community-felicity-brand
   series: Write the Docs Prague
@@ -350,10 +312,10 @@
 
     <p>In the following year we first set out to find out what we actually wanted
     to share with whom, and what roadblocks we found, both technical and organizational.
-    As our organization is trying to be "LEAN", we asked te help of a lean coach to
+    As our organization is trying to be "LEAN", we asked the help of a lean coach to
     look with us what the "root causes" were for the lack of information sharing.
     One of the main things we found out "on the go" is that the documents we had standardized,
-    but never made were indeed those that noone was interested in.</p>
+    but never made were indeed those that no one was interested in.</p>
 
     <p>In the process of standardizing and recreating our knowledge products, we had
     a lot of hurdles to take, such as getting consesus what we actually need to document,

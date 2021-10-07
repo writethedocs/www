@@ -52,8 +52,8 @@ The principles
 Some events may provide alcoholic drinks. However, participants are expected to drink responsibly.
 Alcohol use or other intoxication are never accepted as an excuse for CoC violations.
 
-Where does the Code of Conduct apply
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Where does the Code of Conduct apply?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 This Code of Conduct applies to all spaces managed by Write the Docs. This includes:
 
@@ -100,8 +100,8 @@ In case of a Code of Conduct violation, some of the most common actions organise
 
 The action taken is at the discretion of the Code of Conduct team. Participants are expected to comply immediately, and further action may be taken in case a participant does not comply. A record will be kept of all incidents.
 
-What to do in case of violations?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+What to do in case of violations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If a Code of Conduct incident happens that affects you, or witness it affecting someone else, please contact the appropriate CoC team immediately. See the contact details below for the different teams for different spaces. In all cases, you may email conduct@writethedocs.org, but contacting local organisers may be faster. Email to the conduct@writethedocs.org is received by all members of the :ref:`core-team`.
 

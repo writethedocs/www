@@ -78,7 +78,18 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
     </div>
   </div><!-- end hero -->
 
-  {% if flagvideos or flagpostconf %}
+  {% if flagcancelled %}
+
+  <div class="announcement">
+    <div class="uk-container">
+      <p style="vertical-align: middle;">
+        <strong>The {{ name}} {{year}} conference has been cancelled.</strong><br>
+        Please see our news post for more details.
+      </p>
+    </div>
+  </div>
+  <!--- end announcement -->
+  {% elif flagvideos or flagpostconf %}
 
   <div class="announcement">
     <div class="uk-container">

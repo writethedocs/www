@@ -27,7 +27,7 @@ The `Good Docs Project <https://thegooddocsproject.dev/>`_ is an open source com
 Trino project
 ^^^^^^^^^^^^^
 
-`Trino <https://trino.io>`_ is a fast distributed SQL query engine for big data analytics. We’re excited to join you Write the Docs. This is our first `Writing Day <https://trino.io/blog/2021/04/14/wtd-writing-day.html>`_! We’ll have Trino enthusiasts available to help you get started. We even made a `get started video <https://youtu.be/yseFM3ZI2ro>`_ to help you begin your journey as a Trino contributer.
+`Trino <https://trino.io>`_ is a fast distributed SQL query engine for big data analytics. We’re excited to join you Write the Docs. This is our first `Writing Day <https://trino.io/blog/2021/04/14/wtd-writing-day.html>`_! We’ll have Trino enthusiasts available to help you get started. We even made a `get started video <https://youtu.be/yseFM3ZI2ro>`_ to help you begin your journey as a Trino contributor.
 
 Here are a few ways you can contribute to the `Trino open source docs <https://trino.io/docs/current/>`_:
 

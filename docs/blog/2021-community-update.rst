@@ -1,4 +1,4 @@
-.. post:: Aug 13, 2020
+.. post:: Aug 13, 2021
    :tags: stats, newsletter
    :author: Eric Holscher
 
@@ -14,7 +14,7 @@ This update covers what else is going on behind the scenes while the newsletter 
 
 We're looking forward to seeing everyone online for our virtual `Prague <http://www.writethedocs.org/conf/prague/2021/>`_ on **October 3-5** in the CEST timezone.
 We're also getting excited about our upcoming virtual `Australia & India <http://www.writethedocs.org/conf/australia/2021/>`_ conference on **December 2-3** in the AEDT timezone.
-The talks were just announced for the Prague conference, and the `Australia & India conference CFP <https://www.writethedocs.org/conf/australia/2021/cfp/>`_ **is still open if you have ideas to present.**
+The talks were just announced for the Prague conference, and the `Australia & India conference CFP <https://www.writethedocs.org/conf/australia/2021/cfp/>`_ **is open until August 31 if you have ideas to present.**
 
 We also had our second virtual Portland conference in April this year.
 It was another success with almost 700 people attending from all over the world.
