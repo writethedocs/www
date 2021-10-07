@@ -2,9 +2,9 @@
 .. post:: October 05, 2021
    :tags: newsletter
 
-#########################################
+########################################
 Write the Docs Newsletter – October 2021
-#########################################
+########################################
 
 Hello everyone!
 
@@ -38,7 +38,7 @@ Other recommended tools mentioned were sit-stand desks and computer accessories 
 
 With so many software and hardware tools available, it can be challenging to pick the ones that are worth putting in the metaphorical “toolbelt.” However, whether you want to be more organized or keep track of important meetings, there is always the right tool for the remote job.
 
----------------------------------------
+----------------------------------------
 What's in a documentarian resume anyway?
 ----------------------------------------
 
