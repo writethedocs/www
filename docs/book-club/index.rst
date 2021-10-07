@@ -12,11 +12,6 @@ Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel.
 Current Book Club
 -----------------
 
-On break until September 2021!
-
-Upcoming Book club read
-------------------------
-
 * September - November 2021: `The Organised Writer <http://organised-writer.com/>`_
 
 Previous Book club reads
