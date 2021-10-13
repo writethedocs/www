@@ -36,7 +36,7 @@ Thanks again to all our presenters and moderators! Huge thanks also to `Bart at 
 Shirts still on sale
 --------------------
 
-If you want a souvenir from this year's conference, our `Write the Docs Prague 2021 Pop-Up Shop <https://shirts.writethedocs.org/>`_ is still open!
+If you want a souvenir from this year's conference, our `Write the Docs Prague 2021 Pop-Up Shop <https://shirt.writethedocs.org/>`_ is still open!
 We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want. The campaign will run in 3-day batches for another few weeks. Shipping is available from the USA or Europe.
 
 **New this year**: You can shop for non-conference swag in our `Write the Docs Community Shop <https://writethedocs.threadless.com/>`_ on Threadless. 
