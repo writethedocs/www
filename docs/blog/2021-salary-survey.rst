@@ -1,5 +1,5 @@
 .. post:: Oct 19, 2021
-   :tags: salary survey
+   :tags: salary-survey
    :author: Mikey Ariel
 
 Write the Docs 2021 Salary Survey
