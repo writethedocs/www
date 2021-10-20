@@ -32,5 +32,5 @@ Thanks
 Thanks again for for being a member of our community.
 We hope to see you soon at one of our online events, on our slack, or continue to see you here via this newsletter.
 
-You can always reply to this email if you have any questions or comments.
+You can always email us at support@writethedocs.org if you have any questions or comments.
 Stay tuned for another newsletter update next month!
