@@ -20,7 +20,7 @@ We hope that the survey data can help our community members determine what appro
 
 Additionally, we’re hoping the results spark discussion of employment-related trends and issues in our industry, including but not limited to the effects of the COVID-19 pandemic.
 
-The survey is divided into 6 sections, and takes between 5 and 10 minutes to complete, so go ahead and `fill it out <https://salary-survey.writethedocs.org/>`__. 
+The survey is divided into a few different sections, and takes between 5 and 10 minutes to complete, so go ahead and `fill it out <https://salary-survey.writethedocs.org/>`__. 
 
 The survey will be open until **20th December, 2021**. 
 Results will be published in early 2022. 
