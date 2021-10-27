@@ -38,10 +38,10 @@ buttons:
     #  link: /schedule
     # - text: Watch the Live Stream
     #   link: /livestream
-    # - text: Browse the photos
-    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-    # - text: Watch the videos!
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+    - text: See the sketchnotes
+      link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157720128594755
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpnaoiOQyd9BYbQbprDGQjQ9
   bottom:
     # - text: Welcome to our conference
     #   link: /news/welcome
