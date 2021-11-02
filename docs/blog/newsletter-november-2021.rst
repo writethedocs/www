@@ -62,7 +62,7 @@ A longer read/listen: This year the `McKinsey and Company's Women in the Workpla
 From our sponsors
 -----------------
 
-This month’s newsletter is sponsored by `Gateway Translations <https://www.gatewaytranslations.net/en/>`__ and `JetBrains <>`__:
+This month’s newsletter is sponsored by `Gateway Translations <https://www.gatewaytranslations.net/en/>`__ and JetBrains:
 
 .. raw:: html
 
