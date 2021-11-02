@@ -99,7 +99,7 @@ This month’s newsletter is sponsored by `Gateway Translations <https://www.gat
         <tr>
           <td width="75%">
               <p>
-              And what is the use of a book,' thought Alice 'without pictures or conversation? Tech documentation is also more appealing and easy-to-read when illustrated. What visuals do we insert in our docs? What tools do we use to create and edit them? Help us by taking this survey, and we’ll be happy to share the results with you.
+              'And what is the use of a book,' thought Alice 'without pictures or conversation?' Tech documentation is also more appealing and easy-to-read when illustrated. What visuals do we insert in our docs? What tools do we use to create and edit them? Help us by taking this survey, and we’ll be happy to share the results with you.
               </p><p>
               <a href="https://jb.gg/WTD">Take the survey</a>
               </p>
