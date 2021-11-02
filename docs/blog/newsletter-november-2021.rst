@@ -58,6 +58,62 @@ A medium read: In the article `Stop Telling Women They Have Imposter Syndrome <h
 
 A longer read/listen: This year the `McKinsey and Company's Women in the Workplace report <https://www.mckinsey.com/featured-insights/diversity-and-inclusion/women-in-the-workplace>`__ highlights that women, while making some gains in the workplace, are still facing challenges when trying to rise to higher levels. This is especially true for women of color. Despite the increase of self-reported white allyship and an increase in DEI initiatives, women of color report continued micro-aggressions in the workplace and little allyship action from their peers.
 
+-----------------
+From our sponsors
+-----------------
+
+This month’s newsletter is sponsored by `Gateway Translations <https://www.gatewaytranslations.net/en/>`__ and `JetBrains <>`__:
+
+.. raw:: html
+
+    <hr>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
+      <tbody>
+        <tr>
+          <td width="75%">
+              <p>
+              Gateway Translations makes it easy for tech writers to get started with localization.
+              </p><p>
+              - Finding the right translation tool with integrations for easy workflow & file compatibility
+              </p><p>
+              - Translators with technical backgrounds for 45 languages
+              </p><p>
+              - Trusted by GitHub, TIBCO, Fortune 500s
+              </p><p>
+              Book a <a href="https://www.gatewaytranslations.net/en/localization-consultation-write-the-docs/">free consultation</a>.
+              </p>
+          </td>
+          <td width="25%">
+            <a href="https://www.gatewaytranslations.net/en/">
+              <img style="margin-left: 15px;" alt="Gateway Translations" src="/_static/img/sponsors/gateway.png">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
+      <tbody>
+        <tr>
+          <td width="75%">
+              <p>
+              And what is the use of a book,' thought Alice 'without pictures or conversation? Tech documentation is also more appealing and easy-to-read when illustrated. What visuals do we insert in our docs? What tools do we use to create and edit them? Help us by taking this survey, and we’ll be happy to share the results with you.
+              </p><p>
+              <a href="https://jb.gg/WTD">Take the survey</a>
+              </p>
+          </td>
+          <td width="25%">
+            <a href="https://jb.gg/WTD">
+              <img style="margin-left: 15px;" alt="SPONSOR" src="/_static/img/sponsors/jetbrains-survey.png">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
+
+*Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
+
 ------------------
 Featured job posts
 ------------------
