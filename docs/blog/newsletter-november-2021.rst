@@ -73,12 +73,14 @@ This month’s newsletter is sponsored by `Gateway Translations <https://www.gat
           <td width="75%">
               <p>
               Gateway Translations makes it easy for tech writers to get started with localization.
-              </p><p>
-              - Finding the right translation tool with integrations for easy workflow & file compatibility
-              </p><p>
-              - Translators with technical backgrounds for 45 languages
-              </p><p>
-              - Trusted by GitHub, TIBCO, Fortune 500s
+              </p>
+              <ul><li>
+              Finding the right translation tool with integrations for easy workflow & file compatibility
+              </li><li>
+              Translators with technical backgrounds for 45 languages
+              </li><li>
+              Trusted by GitHub, TIBCO, Fortune 500s
+              </li></ul>
               </p><p>
               Book a <a href="https://www.gatewaytranslations.net/en/localization-consultation-write-the-docs/">free consultation</a>.
               </p>
