@@ -10,7 +10,7 @@ Hi folks! November has somehow rolled around (already??) and it's that newslette
 
 As promised last time: I'm super excited to let you know that the `Salary Survey is now live <https://salary-survey.writethedocs.org/>`__. It takes less than ten minutes to complete, so please consider filling it out - you'll be contributing to a really valuable resource for documentarians. All responses are completely anonymous, and we're very careful to not to publish any personally identifiable information (given the small size of the community). If you're up for it, `fill it out here <https://salary-survey.writethedocs.org/>`__.
 
-Plus, great news from down under - we've just announced the Australia and India meetup will be on TODO date. This "super-meetup" will be a two-hour event with two fab speakers, and will be free to attend. `Sign up for the event here <TODO link>`__!
+Plus, great news from down under - we've just announced the Australia and India meetup will be on December 3rd date. This "super-meetup" will be a two-hour event with four fab speakers, and will be free to attend. `Sign up for the event here <https://www.meetup.com/Write-the-Docs-Australia/events/280829245/>`__!
 
 And with that, let's take a look at what everyone's been discussing on Slack...
 
