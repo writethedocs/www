@@ -20,7 +20,7 @@ Managing when your manager lacks docs experience
 
 This month, our documentarians discussed how they have handled differences with a manager who has no experience with documentation. Among those who have worked for managers without a docs background, there were roughly two groups: the manager either deferred to the technical writer's expertise or did not.
 
-If your manager is in the first category, you'll likely encounter less heavyhanded supervision, and docs-related disagreements may be rare. If your manager in the second category, you have a harder path to tread, especially when your manager's perspective on docs-related tasks doesn't quite match yours.
+If your manager is in the first category, you'll likely encounter less heavy-handed supervision, and docs-related disagreements may be rare. If your manager is in the second category, you have a harder path to tread, especially when your manager's perspective on docs-related tasks doesn't quite match yours.
 
 In the course of this conversation, we learned a new acronym: HiPPO, meaning "highest paid person's opinion." In this context, the HiPPO method means ultimately disagreements between tech writers and managers are resolved according to the more senior person's opinion, regardless of whether they have docs experience. When you are subject to the HiPPO method, your ability to affect docs-related decisions depends on how firmly you can gain your manager's trust.
 
@@ -136,4 +136,4 @@ Virtual events coming up
 - 16 November, 18:00 PST / 21:00 EST (USA) - `A conversation with the authors of Docs for Developers <https://www.meetup.com/virtual-write-the-docs-west-coast-quorum/events/281680933>`__
 - 17 November, 19:00 EST (Toronto, Canada) - `Write the Docs Toronto <https://www.meetup.com/Write-the-Docs-Toronto/events/281410168>`__
 - 23 November, 08:30 EST (Florida, USA) - `Morning social <https://www.meetup.com/write-the-docs-florida/events/280769269>`__
-
+- 03 December, 15:00 AEDT (Australia) - `Virtual super-meetup: WTD Australia and India 2021 <https://www.meetup.com/Write-the-Docs-Australia/events/280829245>`__
