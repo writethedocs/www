@@ -3,8 +3,7 @@ recommonmark==0.7.1
 ablog==0.10.6  # pyup: ignore
 sphinx_autobuild==2021.3.14
 PyYAML>=4.2b1
-# Sphinx 4.2.0 requires docutils=<0.18
-docutils==0.17.1   # pyup: <0.18
+docutils==0.18
 csvkit==1.0.6
 yamllint==1.26.3
 pathlib==1.0.1
