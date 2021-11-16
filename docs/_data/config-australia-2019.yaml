@@ -70,7 +70,7 @@ sponsors:
       link: https://www.atlassian.com
   second:
     - name: buildkite
-      brand: BuildKite
+      brand: Buildkite
       link: https://buildkite.com/
     - name: gandi
       brand: Gandi
@@ -80,7 +80,7 @@ sponsors:
       link: https://gitlab.com
   first:
     - name: datalust
-      brand: datalist
+      brand: datalust
       link: https://datalust.co/seq
     - name: redocly
       brand: Redocly
