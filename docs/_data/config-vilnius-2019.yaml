@@ -55,9 +55,11 @@ sponsors:
   publisher:
   second:
     - name: knowledgeowl
+      brand: KnowledgeOwl
       link: https://www.knowledgeowl.com
   first:
     - name: techwriter-pl
+      brand: TechWriter.pl
       link: http://techwriter.pl
 
 date:
