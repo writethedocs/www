@@ -59,23 +59,31 @@ sponsors:
     # They actually got a custom sponsorship somewhere in the middle,
     # but let's bump them because they've been a steady supporter
     - name: google
+      brand: Google
       link: https://www.google.com
   publisher:
     - name: knowledgeowl
+      brand: KnowledgeOwl
       link: https://www.knowledgeowl.com
     - name: atlassian
+      brand: Atlassian
       link: https://www.atlassian.com
   second:
     - name: buildkite
+      brand: BuildKite
       link: https://buildkite.com/
     - name: gandi
+      brand: Gandi
       link: https://www.gandi.net/en
     - name: gitlab
+      brand: GitLab
       link: https://gitlab.com
   first:
     - name: datalust
+      brand: datalist
       link: https://datalust.co/seq
     - name: redocly
+      brand: Redocly
       link: https://redoc.ly/
 
 date: # how do we handle these? human readable would be nice.

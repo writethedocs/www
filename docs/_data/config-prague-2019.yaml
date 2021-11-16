@@ -60,35 +60,48 @@ sponsors:
   patron:
     # They are actually a publisher, but I want these styles :)
     - name: mozilla-new
+      brand: Mozilla
       link: https://developer.mozilla.org/en-US/
     - name: document360
+      brand: Document360
       link: https://document360.io
   publisher:
   second:
     - name: redhat-new
+      brand: RedHat
       link: https://www.redhat.com/
     - name: umbraco
+      brand: Umbraco
       link: https://umbraco.com/
     - name: knowledgeowl
+      brand: KnowledgeOwl
       link: https://www.knowledgeowl.com
       width: 250px
     - name: contact-software
+      brand: Contact Software
       link: https://www.contact-software.com/en/
     - name: kiwi
+      brand: Kiwi
       link: https://www.kiwi.com/
     - name: people-text
+      brand: PeopleText
       link: https://www.people-text.de/
     - name: jetbrains
+      brand: JetBrains
       link: https://www.jetbrains.com/
   first:
     - name: buildkite
+      brand: BuildKite
       link: https://buildkite.com/
     - name: cncf
+      brand: CNCF
       link: https://www.cncf.io/
   media:
     - name: bart
+      brand: Bart at Work
       link: http://www.bartatwork.com
     - name: techwriter-pl
+      brand: TechWriter.pl
       link: http://techwriter.pl
 
 date: # how do we handle these? human readable would be nice.
