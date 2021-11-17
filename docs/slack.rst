@@ -140,6 +140,11 @@ No sales-y content
 - **No links without context** - If you put a link in the chat without context or explanation, it may be deleted.
 - **No Brands** - If you're going to post, post as yourself, not as a brand. We are a community of individuals and we all exist outside of our day jobs and personal brands.
 
+Avoid Microagressions
+~~~~~~~~~~~~~~~~~~~~~
+
+We recommend reading this `Microaggressions:  Making space for everybody <https://www.metafilter.com/microaggressions.mefi>`_ article that goes over how to avoid microaggressions when dealing with people in our community.
+
 Reporting Issues
 ~~~~~~~~~~~~~~~~
 
