@@ -142,7 +142,7 @@ sponsors-details:
 sponsor-detail:
   name: str(required=True)
   link: str(required=True)
-  brand: str(required=False)
+  brand: str(required=True)
   text: str(required=False)
   width: str(required=False)
 
