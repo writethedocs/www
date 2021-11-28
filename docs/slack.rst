@@ -33,6 +33,10 @@ like ours, but many people seem to feel a freedom in knowing that their words wi
 We understand that not everyone loves this decision,
 but it's the way things are currently set up and we don't plan to change it in the near future. 
 
+That doesn't mean everything gets lost, though - you can always react to a message with the 
+``:suggest-for-newsletter:`` emoji to nominate it for inclusion in our next monthly newsletter. 
+Sign up and see the newsletter archives at :doc:`/newsletter`! 
+
 Default channels
 ----------------
 
@@ -85,6 +89,10 @@ We have some helpful Slackbot responses that you can summon in any channel, at a
 * ``?mods`` / ``?moderators`` / ``?modsquad``
 
   - Returns the members of the :ref:`moderation-team` if you need to ping someone directly for help.
+
+* ``?history``
+
+  - Returns the answer for one of our most frequently asked questions: why you can't access the full chat history in the Write the Docs Slack.
 
 Channels that serve specific communities & their allies
 -------------------------------------------------------
@@ -139,6 +147,8 @@ No sales-y content
 - **No Direct Pitches** - Our Slack is not the place for sales pitches. Consider sponsoring one of our :doc:`conferences </conf/index>` instead!
 - **No links without context** - If you put a link in the chat without context or explanation, it may be deleted.
 - **No Brands** - If you're going to post, post as yourself, not as a brand. We are a community of individuals and we all exist outside of our day jobs and personal brands.
+
+If you see a message in a public channel that looks like spam, you can react to it with the ``:spam:`` reactji to bring the moderators' attention to it.
 
 Reporting Issues
 ~~~~~~~~~~~~~~~~
