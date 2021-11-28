@@ -56,6 +56,7 @@ Members
 * `Janine Chan <https://www.linkedin.com/in/janinechan/>`_ ``@janine``
 * `Daniel Beck <https://twitter.com/ddbeck>`_ ``@ddbeck``
 * `Samuel Wright <https://twitter.com/plaindocs>`_ ``@plaindocs``
+* `Ravind Kumar <https://www.linkedin.com/in/ravind-kumar-b4813650/>`_ ``@ravindk-minio``
 * You?
 
 
