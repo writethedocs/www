@@ -35,7 +35,7 @@ but it's the way things are currently set up and we don't plan to change it in t
 
 That doesn't mean everything gets lost, though - you can always react to a message with the 
 ``:suggest-for-newsletter:`` emoji to nominate it for inclusion in our next monthly newsletter. 
-Sign up and see the newsletter archives at :doc:`/newsletter`! 
+Read the newsletter archives at :doc:`/newsletter` and subscribe if you want them directly in your inbox! 
 
 Default channels
 ----------------
