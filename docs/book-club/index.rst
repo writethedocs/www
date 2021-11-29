@@ -15,7 +15,7 @@ Current Book Club
 On hiatus until January 2022.
 
 Upcoming Book Clubs
------------------
+---------------------
 
 * January - March 2022: `Strategic Writing for UX <https://torreypodmajersky.com/strategic-writing-for-ux/>`_
 * TBD: `Docs for Developers <https://docsfordevelopers.com/>`_
