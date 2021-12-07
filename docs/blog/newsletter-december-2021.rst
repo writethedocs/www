@@ -57,7 +57,7 @@ We had a great discussion this month about the fragmentation of docs-as-code too
 
 Documentation rendering was contentious, but folks saw more promise in the markup idea. DITA is heavyweight; Markdown lets you get on with writing, but is neither standardised nor designed for docs; and the alternatives aren't widely used. Some community members defended AsciiDoc as meeting all the criteria - it's interesting that it's currently going through `a standardization process via Eclipse <https://projects.eclipse.org/projects/asciidoc.asciidoc-lang>`__.
 
-The article's problems with Git - in particular, that it's hard to learn - aren't just a problem for writers, but are complained about by many developers too. There is a counter-argument to needing a new system: instead, we should take the tools we have, but make them work better for use cases. Perhaps we don't need a new version control system, but better Git clients designed for docs workflows…
+The article's main problem with Git, often expressed by writers as well as developers, is that it is hard to learn. There is a counter-argument to needing a new system: instead, we should take the tools we have, but make them work better for use cases. Perhaps we don't need a new version control system, but better Git clients designed for docs workflows…
 
 But some folks disagreed with the premise that standardisation will help. Not least because creating new standards `can make things worse <https://xkcd.com/927/>`__! And how can we standardise if we don't have any universal best practices? Perhaps, for docs problems, there is no "one best way" - you'll always have to adapt your tools to different use cases; sometimes what you really need is the feature set of a Help Authoring Tool like Flare. Or perhaps we should all just give up and use Word? (joking, joking!)
 
@@ -72,35 +72,6 @@ A short read: Over at Tech Crunch, `Why DEI programs are failing <https://techcr
 A longer read: A little old, but still relevant, last year’s `McKinsey and Company's 2020 report on Diversity and Inclusion <https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters>`__ concludes that companies investing in DE&I are more profitable than those that are not. You can download the full report at the end of the summary.
 
 For a longer time investment: Check out `Diversity Inc Best Practices' Webinar Recap: Let's talk Microagressions <https://www.diversityincbestpractices.com/webinar-recap-lets-talk-microaggressions/>`__. In this webinar, the panelists define microaggressions, discuss when they first encountered them, how to respond to them, and what their companies are doing to combat them.
-
-.. ----------------
-.. From our sponsor
-.. ----------------
-
-.. This month’s newsletter is sponsored by SPONSOR:
-
-.. .. raw:: html
-
-..     <hr>
-..     <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
-..       <tbody>
-..         <tr>
-..           <td width="75%">
-..               <p>
-..               CONTENT
-..               </p>
-..           </td>
-..           <td width="25%">
-..             <a href="https://www.LINK.COM">
-..               <img style="margin-left: 15px;" alt="SPONSOR" src="/_static/img/sponsors/IMAGE.png">
-..             </a>
-..           </td>
-..         </tr>
-..       </tbody>
-..     </table>
-..     <hr>
-
-.. *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
 ------------------
 Featured job posts
