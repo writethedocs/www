@@ -18,9 +18,9 @@ With that, on to our articles from this month!
 The work documentation really requires (it's not all writing!)
 --------------------------------------------------------------
 
-A plaintive question about how to develop content more efficiently produced a perhaps surprising set of responses. The original poster framed their challenge in terms of research that delays the writing process, but replies tended to point out that research is a key part of creating any documentation. If your research is inefficient -- if you're falling down "useless rabbit holes" as one poster put it -- you could consider pruning your sources, or working more from summaries than from long form reads.
+A plaintive question about how to develop content more efficiently produced a perhaps surprising set of responses. The original poster framed their challenge in terms of research that delays the writing process, but replies tended to point out that research is a key part of creating any documentation. If your research is inefficient -- if you're falling down "useless rabbit holes" as one poster put it -- you could consider pruning your sources, or working more from summaries than from long-form reads.
 
-Generally, though, folks agreed that research and other supporting activities form the bulk of the work they do to produce docs -- actual writing takes up relatively little time overall. In addition to research, testing/QA, wrangling reviews and tooling, managing content beyond the writing (structure, frontmatter, more) all showed up on lists of docs work beyond writing. So maybe when we're not writing we're still as efficient as we can be?
+Generally, though, folks agreed that research and other supporting activities form the bulk of the work they do to produce docs -- actual writing takes up relatively little time overall. In addition to research, testing/QA, wrangling reviews and tooling, managing content beyond the writing (structure, metdata, etc) all showed up on lists of docs work beyond writing. So maybe when we're not writing we're still as efficient as we can be?
 
 -----------------------------
 Deciding what to work on next
