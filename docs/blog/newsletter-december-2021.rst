@@ -73,6 +73,44 @@ A longer read: A little old, but still relevant, last year’s `McKinsey and Com
 
 For a longer time investment: Check out `Diversity Inc Best Practices' Webinar Recap: Let's talk Microagressions <https://www.diversityincbestpractices.com/webinar-recap-lets-talk-microaggressions/>`__. In this webinar, the panelists define microaggressions, discuss when they first encountered them, how to respond to them, and what their companies are doing to combat them.
 
+-----------------
+From our sponsors
+-----------------
+
+This month’s newsletter is sponsored by `Gateway Translations <https://www.gatewaytranslations.net/en/>`__:
+
+.. raw:: html
+
+    <hr>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
+      <tbody>
+        <tr>
+          <td width="75%">
+              <p>
+              Gateway Translations makes it easy for tech writers to get started with localization.
+              </p>
+              <ul><li>
+              Finding the right translation tool with integrations for easy workflow & file compatibility
+              </li><li>
+              Translators with technical backgrounds for 45 languages
+              </li><li>
+              Trusted by GitHub, TIBCO, Fortune 500s
+              </li></ul>
+              </p><p>
+              Book a <a href="https://www.gatewaytranslations.net/en/localization-consultation-write-the-docs/">free consultation</a>.
+              </p>
+          </td>
+          <td width="25%">
+            <a href="https://www.gatewaytranslations.net/en/">
+              <img style="margin-left: 15px;" alt="Gateway Translations" src="/_static/img/sponsors/gateway.png">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+*Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
+
 ------------------
 Featured job posts
 ------------------
