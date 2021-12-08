@@ -76,7 +76,7 @@ Channel guide
 There are lots of channels. Here's an overview of interesting channels and how to find more.
 
 Default channels
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Everyone who joins the Slack will be added to these channels:
 
@@ -88,7 +88,7 @@ Everyone who joins the Slack will be added to these channels:
 * **#intros** - Introduce yourself! Let people know you're here, and why you care about docs :)
 
 Other useful topical channels
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **#career-advice** - Should you take that job? Am I being paid enough? Ask here!
 * **#markup-the-docs** - Talk about markup languages. Markdown, rST, Asciidoc, etc.
@@ -101,7 +101,7 @@ Other useful topical channels
 * **#wtd-weps** - Ask questions about the Write the Docs Enhancement Proposal (WEP) system and brainstorm on pre-proposal ideas to help improve our community processes and governance.
 
 Channels that serve specific communities & their allies
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Allies are welcome as guests in these channels. Please be considerate.
 
@@ -109,7 +109,7 @@ Allies are welcome as guests in these channels. Please be considerate.
 * **#lgbtq** - Social and discussion space for LGBTQ+ people in the WTD community.
 
 Location-based channels
-^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~
 
 We have too many location-based channels to list.
 Chances are we have a large group of folks in your area,
@@ -117,7 +117,7 @@ so join up and chat with them.
 They're a great way to get in touch with your local meetup organizer and community.
 
 Creating channels
-^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 
 If you didn't see a channel that matches your interests, make sure to browse the complete channel list in Slack.
 
