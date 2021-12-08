@@ -37,6 +37,39 @@ That doesn't mean everything gets lost, though - you can always react to a messa
 ``:suggest-for-newsletter:`` emoji to nominate it for inclusion in our next monthly newsletter. 
 Read the newsletter archives at :doc:`/newsletter` and subscribe if you want them directly in your inbox! 
 
+
+Autoresponders
+--------------
+We have some helpful Slackbot responses that you can summon in any channel, at any time.
+
+* ``?invite`` / ``?join``
+
+  - Get a link you can send to a friend to invite them to the Write the Docs Slack. (You can also invite people directly from Slack by clicking **Write the Docs** > **Invite people to Write the Docs**.)
+
+* ``?conferences`` / ``?conference``
+
+  - Get information on past and future Write the Docs :doc:`/conf/index`.
+
+* ``?jobseeking`` / ``?hiring`` / ``?interview`` / ``?interviewing``
+
+  - Get information on both hiring and getting hired, including a link to the :doc:`/hiring-guide/index`.
+
+* ``?getstarted`` / ``?resources`` / ``?learn``
+
+  - We're always excited to help new people into working on documentation! This is for you if you want some resources on how to get started, including a link to some of our favorite :doc:`/about/learning-resources`.
+
+* ``?coc``
+
+  - "COC" is short for the :doc:`/code-of-conduct`. This is an easy way to get a link to it, and to summon a member of the :ref:`moderation-team` if you need one.
+
+* ``?mods`` / ``?moderators`` / ``?modsquad``
+
+  - Returns the members of the :ref:`moderation-team` if you need to ping someone directly for help.
+
+* ``?history``
+
+  - Returns the answer for one of our most frequently asked questions: why you can't access the full chat history in the Write the Docs Slack.
+
 Channel guide
 -------------
 
@@ -95,38 +128,6 @@ If you still can't find a suitable channel, you can propose a new channel. To pr
 3. Post in **#meta** requesting a channel. Be sure to share your proposed channel name, description, and to tag your cosponsors.
 
 The Write the Docs moderation team will review your proposal.
-
-Autoresponders
---------------
-We have some helpful Slackbot responses that you can summon in any channel, at any time.
-
-* ``?invite`` / ``?join``
-
-  - Get a link you can send to a friend to invite them to the Write the Docs Slack. (You can also invite people directly from Slack by clicking **Write the Docs** > **Invite people to Write the Docs**.)
-
-* ``?conferences`` / ``?conference``
-
-  - Get information on past and future Write the Docs :doc:`/conf/index`.
-
-* ``?jobseeking`` / ``?hiring`` / ``?interview`` / ``?interviewing``
-
-  - Get information on both hiring and getting hired, including a link to the :doc:`/hiring-guide/index`.
-
-* ``?getstarted`` / ``?resources`` / ``?learn``
-
-  - We're always excited to help new people into working on documentation! This is for you if you want some resources on how to get started, including a link to some of our favorite :doc:`/about/learning-resources`.
-
-* ``?coc``
-
-  - "COC" is short for the :doc:`/code-of-conduct`. This is an easy way to get a link to it, and to summon a member of the :ref:`moderation-team` if you need one.
-
-* ``?mods`` / ``?moderators`` / ``?modsquad``
-
-  - Returns the members of the :ref:`moderation-team` if you need to ping someone directly for help.
-
-* ``?history``
-
-  - Returns the answer for one of our most frequently asked questions: why you can't access the full chat history in the Write the Docs Slack.
 
 Guidelines
 ----------
