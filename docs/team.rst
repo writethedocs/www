@@ -103,7 +103,7 @@ Responsibilities
 * Round up any Write the Docs events or meetups for the upcoming month
 * Assemble and publish the monthly newsletter to the mailing list and `the website <https://www.writethedocs.org/blog/archive/tag/newsletter/>`_
 
-The full description of the :doc:`newsletter process <organizer-guide/newsletter/newsletter-process>` is available in our Organizer Guide.
+The full description of the :doc:`newsletter process </organizer-guide/newsletter/newsletter-process>` is available in our Organizer Guide.
 
 Members
 ```````
