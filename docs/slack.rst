@@ -70,13 +70,8 @@ We have some helpful Slackbot responses that you can summon in any channel, at a
 
   - Returns the answer for one of our most frequently asked questions: why you can't access the full chat history in the Write the Docs Slack.
 
-Channel guide
--------------
-
-There are lots of channels. Here's an overview of interesting channels and how to find more.
-
 Default channels
-~~~~~~~~~~~~~~~~
+----------------
 
 Everyone who joins the Slack will be added to these channels:
 
@@ -86,6 +81,11 @@ Everyone who joins the Slack will be added to these channels:
 * **#wtd-conferences** - Questions and other thoughts around the :doc:`/conf/index`.
 * **#meetups** - Questions and other thoughts about our :doc:`/meetups/index`.
 * **#intros** - Introduce yourself! Let people know you're here, and why you care about docs :)
+
+Channel guide
+-------------
+
+There are lots of channels. Here's an overview of interesting channels and how to find more.
 
 Other useful topical channels
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
