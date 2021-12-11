@@ -54,7 +54,7 @@ Plenty of us do more rewriting than writing. Some are full or part-time editors;
 
 Several documentarians agreed that the most important way to improve your editing is to edit more. Don't just read books or take training courses.
 
-That said, it's still interesting to read tips from great editors! Some recommendations: *On Writing Well* by Zinsser, *Bryson’s Dictionary for Writers and Editors* by Bill Bryson, *On Writing* by Stephen King; *The Elements of Eloquence* by Mark Forsyth; *The Sense of Style* by Steven Pinker; *The Oxford Style Manual* by OUP; *First You Write a Sentence* by Joe Moran. One documentarian got huge value from the Chartered Institue for Editing and Proofreading's resources and forums.
+That said, it's still interesting to read tips from great editors! Some recommendations: *On Writing Well* by Zinsser, *Bryson’s Dictionary for Writers and Editors* by Bill Bryson, *On Writing* by Stephen King; *The Elements of Eloquence* by Mark Forsyth; *The Sense of Style* by Steven Pinker; *The Oxford Style Manual* by OUP; *First You Write a Sentence* by Joe Moran. One documentarian got huge value from the Chartered Institute for Editing and Proofreading's resources and forums.
 
 Another tip was to understand why the "rules" are there. Digging into linguistics and anthropology can help you figure out if a rule is actually helpful or not. And a grammar reference like *The Gregg Reference Manual* can be helpful day-to-day.
 

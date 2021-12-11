@@ -54,7 +54,7 @@ which goes to the same list and has the same sponsorship opportunities.
 Pricing
 -------
 
-The introductory price for reaching our audience is **$250** per month.
+The price for reaching our audience is **$350** per month.
 
 Contact
 -------

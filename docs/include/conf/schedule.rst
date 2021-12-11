@@ -203,7 +203,7 @@ Job Fair
 
 We'll be holding a job fair on Tuesday morning!
 
-* **Where**: {{about.venue}}, {{about.unconfroom}}
+* **Where**: {{about.venue}}, {{about.job_fair_room }}
 {% if not flaghasschedule %}
 * **When**: **{{ date.day_four.job_fair_time }} {{ tz }}**
 {% endif %}

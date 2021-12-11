@@ -72,7 +72,7 @@ Continue the discussion in `#managing-writers <https://writethedocs.slack.com/me
 Order from chaos, or, a conversation about docs cleanup
 -------------------------------------------------------
 
-Over the years, how to organize your docs been a really popular topic at Write the Docs conferences. One notable piece of advice was to seek out and make public the often-hidden or kept-private stashes of information that individuals in a company invariably gather. If it's a problem you're interested in, there's an embarassment of riches for you in the video archives:
+Over the years, how to organize your docs been a really popular topic at Write the Docs conferences. One notable piece of advice was to seek out and make public the often-hidden or kept-private stashes of information that individuals in a company invariably gather. If it's a problem you're interested in, there's an embarrassment of riches for you in the video archives:
 
 - `What can brownfield do for you? </videos/na/2015/what-can-brownfield-do-for-you-mnishiyama>`__ - Mo Nishiyama, Portland 2015
 - `User-story driven docs </videos/na/2015/user-story-driven-docs-jfernandes>`__ - Joao Fernandes, Portland 2015

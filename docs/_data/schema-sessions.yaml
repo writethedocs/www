@@ -9,6 +9,8 @@ session-details:
   slug: str()
   slides: str(required=False)
   youtubeId: str(required=False)
+  sketchnoteLink: str(required=False)
+  sketchnoteImage: str(required=False)
   series: str(required=False)
   series_slug: str(required=False)
   year: int(min=2000, required=False)

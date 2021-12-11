@@ -17,8 +17,10 @@ photos:
 
 buttons:
   top:
-    - text: Welcome to our conference
-      link: /news/welcome
+    - text: Read our cancellation post
+      link: /news/cancel-announcement/
+#    - text: Welcome to our conference
+#      link: /news/welcome
 #    - text: Date and ticket information
 #      link: /news/announcing-virtual-conf-dates-tickets
     # - text: Read our conference guide
@@ -27,10 +29,10 @@ buttons:
     #   link: /schedule
 #    - text: Buy a Ticket!
 #      link: /tickets
-    - text: Sponsor us
-      link: /sponsors/prospectus
-    #- text: Submit a Talk
-    #  link: /cfp
+#    - text: Sponsor us
+#      link: /sponsors/prospectus
+#    - text: Submit a Talk
+#      link: /cfp
     #- text: See the talks!
     #   link: /speakers
     # - text: See the Schedule!
@@ -42,14 +44,18 @@ buttons:
     # - text: Watch the videos!
     #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
   bottom:
-     - text: Welcome to our conference
-       link: /news/welcome
+    - text: Read our cancellation post
+      link: /news/cancel-announcement/
+#     - text: Welcome to our conference
+#       link: /news/welcome
+#     - text: Welcome to our conference
+#       link: /news/welcome
     # - text: See the Schedule!
     #   link: /schedule
 #     - text: Date and ticket information
 #       link: /news/announcing-virtual-conf-dates-tickets
-     - text: Sponsor the conference
-       link: /sponsors/prospectus
+#     - text: Sponsor the conference
+#       link: /sponsors/prospectus
     # - text: See the talks!
     #   link: /speakers
 #     - text: Buy a Ticket!
@@ -67,23 +73,23 @@ buttons:
 
 tickets:
   corporate:
-    price: $150
+    price: $175
   independent:
     price: $100
   student:
-    price: $50
+    price: $25
 
 sponsorship:
   first_draft:
-    price: $500
+    price: AUD $500
   second_draft:
-    price: $1000
+    price: AUD $1000
   publisher:
-    price: $2000
+    price: AUD $2000
   patron:
-    price: $4000
+    price: AUD $4000
   keystone:
-    price: $7500
+    price: AUD $7500
 
 date: # how do we handle these? human readable would be nice.
   main: "**December 2-3, 2021, online**"
@@ -95,31 +101,42 @@ date: # how do we handle these? human readable would be nice.
     date: December 2
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Thursday
-    talk_time: 10:00-18:00
-    unconference_time: 9:45-17:00
+    talk_time: 12:00-19:00
+    unconference_time: 15:00-17:00
     icon: conference
   day_two:
     event: Conference Day 2
     date: December 3
     summary: And the conference goes on! We are already starting to miss you. |:heart:|
     dotw: Friday
-    talk_time: 10:00-18:00
-    job_fair_time: 9:45-12:00
-    unconference_time: 14:15-17:00
+    talk_time: 12:00-18:00
+    unconference_time: 15:00-17:00
     icon: conference
   total_talk_days: 2
 
 about:
   attendees: 150
   summary:
-    "The main presentation track takes place during **December 2-3 (Thursday and Friday) from 11:00am to 7:00pm AEDT**.
-    During the main event we also run an :doc:`/conf/australia/2020/unconference`."
+    "The main presentation track takes place during **December 2-3 (Thursday and Friday) from 12:00pm to 7:00pm AEDT**.
+    During the main event we also run an :doc:`/conf/australia/2021/unconference`."
   venue:
     "Online, https://hopin.to/. Your login will be emailed to you before the event"
   mainroom: "Video area"
   unconfroom: "Chat area"
   projector_ratio: "16:9"
   job_fair_room: "Sponsor area"
+
+cfp:
+  url: https://pretalx.com/wtd-australia-and-india-2021/cfp
+  ends: "August 31, 2021"           # 2 weeks to review and get confirmnations
+  notification: "September 15, 2021"   # leaves 6 weeks to write and record
+  video_by: "November 1, 2021"   # 4 weeks before the conf
+
+grants:
+  url: https://docs.google.com/forms/d/e/1FAIpQLSe7IUKVckN5m-C_x9JguqwT3zt_PctyCl62yCkCf6D73be99A/viewform
+  ends: "October 15, 2021"
+  notification: "October 31, 2021"
+
 
 sponsors:
   keystone:
@@ -143,10 +160,11 @@ flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
 flagpostconf: False
+flagcancelled: True
 
 # Truthy things that don't change
 flaghashike: False
 flaghasboat: False
-flaghaswritingday: True
+flaghaswritingday: False
 flaghasjobfair: True
 flaghasbadgeflair: False

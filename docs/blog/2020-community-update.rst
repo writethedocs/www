@@ -2,8 +2,8 @@
    :tags: stats, newsletter
    :author: Eric Holscher
 
-Write the Docs Community Update
-===============================
+Write the Docs Community Update - September 2020
+================================================
 
 Hey there documentarians!
 

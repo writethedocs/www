@@ -3,7 +3,8 @@
 Call for Proposals
 ==================
 
-Hello hello, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{ city }} conference, coming up on {{date.main}}. The conference is virtual this year, so you can speak or attend from anywhere. We will use regular {{ city }} conference times for the scheduling.
+G'day fellow documentarians! It's that time of the year again.
+We’re very excited to announce that we are now accepting talk proposals for our next {{ city }} conference, coming up on {{date.main}}. The conference is virtual this year, so you can speak or attend from anywhere. We will use regular {{ city }} conference times for the scheduling.
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you!
 Read on to learn more about the goals of the conference and what we look for in talk proposals.
@@ -113,6 +114,7 @@ If you are making those assumptions about what your audience knows, it helps eve
 
 It can be  helpful to check out topics that might be related to your talk from previous years as well:
 
+* `Australia {{year-1}} <https://www.writethedocs.org/conf/australia/{{year-1}}/speakers/>`_
 * `Portland {{year-1}} <https://www.writethedocs.org/conf/portland/{{year-1}}/speakers/>`_
 * `Prague {{year-1}} <https://www.writethedocs.org/conf/prague/{{year-1}}/speakers/>`_
 * `Portland {{year-2}} <https://www.writethedocs.org/conf/portland/{{year-2}}/speakers/>`_

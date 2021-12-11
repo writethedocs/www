@@ -20,7 +20,7 @@ Feel free to send a Pull Request to update `this page`_, if you want to include 
     If you think these may be unpleasant for you, you can `disable all animations`_
     in your Slack client.
 
-.. _join our slack: https://join.slack.com/t/writethedocs/shared_invite/zt-lqlaz4w6-WCnSTVD25MebjiqowO8EvQ
+.. _join our slack: https://join.slack.com/t/writethedocs/shared_invite/zt-tfokbfyb-4Yxwk8oTZGAQDHmITJGQyQ
 .. _this page: https://github.com/writethedocs/www/blob/master/docs/slack.rst
 .. _disable all animations: https://get.slack.help/hc/en-us/articles/228023907-Manage-animated-images-and-emoji
 
@@ -33,30 +33,10 @@ like ours, but many people seem to feel a freedom in knowing that their words wi
 We understand that not everyone loves this decision,
 but it's the way things are currently set up and we don't plan to change it in the near future. 
 
-Default channels
-----------------
+That doesn't mean everything gets lost, though - you can always react to a message with the 
+``:suggest-for-newsletter:`` emoji to nominate it for inclusion in our next monthly newsletter. 
+Read the newsletter archives at :doc:`/newsletter` and subscribe if you want them directly in your inbox! 
 
-Everyone who joins the Slack will be added to these channels:
-
-* **#general** - The main channel for documentation related conversation and questions.
-* **#watercooler** - For talking about things that are off-topic. Get to know folks other interests that aren't around documentation :)
-* **#jobs-posts-only** - Posting jobs. (You can look for jobs in **#career-advice**)
-* **#wtd-conferences** - Questions and other thoughts around the :doc:`/conf/index`.
-* **#meetups** - Questions and other thoughts about our :doc:`/meetups/index`.
-* **#intros** - Introduce yourself! Let people know you're here, and why you care about docs :)
-
-Other useful topical channels
------------------------------
-
-* **#career-advice** - Should you take that job? Am I being paid enough? Ask here!
-* **#markup-the-docs** - Talk about markup languages. Markdown, rST, Asciidoc, etc.
-* **#documenting-apis** - Talk about REST API's. Swagger, Apiary, API Blueprint, and other API doc tools.
-* **#sphinx** - Talk about the Sphinx documentation generation tool.
-* **#flare** - Talk about the Flare documentation toolkit.
-* **#confluence** - Talk about everyone's favorite Wiki.
-* **#community-showcase** - Announce your projects here! Blog posts, docs, code, products—whatever you make that you're excited to share!
-* **#community-help-wanted** - Got an open-source project that needs docs contributors? Looking for open-source communities who will mentor you while you contribute to their docs? This channel is for you! Only for volunteer/unpaid work with open-source projects; companies and paid job postings should continue to use #job-posts-only. 
-* **#wtd-weps** - Ask questions about the Write the Docs Enhancement Proposal (WEP) system and brainstorm on pre-proposal ideas to help improve our community processes and governance.
 
 Autoresponders
 --------------
@@ -86,20 +66,70 @@ We have some helpful Slackbot responses that you can summon in any channel, at a
 
   - Returns the members of the :ref:`moderation-team` if you need to ping someone directly for help.
 
+* ``?history``
+
+  - Returns the answer for one of our most frequently asked questions: why you can't access the full chat history in the Write the Docs Slack.
+
+Channel guide
+-------------
+
+The Write the Docs Slack has _lots_ of channels.
+Some channels are widely joined, while others are more specialized.
+Here's an overview of how we use channels on Slack.
+
+Default channels
+~~~~~~~~~~~~~~~~
+
+Everyone who joins the Slack will be added to these channels:
+
+* **#general** - The main channel for documentation related conversation and questions.
+* **#watercooler** - For talking about things that are off-topic. Get to know folks other interests that aren't around documentation :)
+* **#jobs-posts-only** - Posting jobs. (You can look for jobs in **#career-advice**)
+* **#wtd-conferences** - Questions and other thoughts around the :doc:`/conf/index`.
+* **#meetups** - Questions and other thoughts about our :doc:`/meetups/index`.
+* **#intros** - Introduce yourself! Let people know you're here, and why you care about docs :)
+
+Other useful topical channels
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* **#career-advice** - Should you take that job? Am I being paid enough? Ask here!
+* **#markup-the-docs** - Talk about markup languages. Markdown, rST, Asciidoc, etc.
+* **#documenting-apis** - Talk about REST API's. Swagger, Apiary, API Blueprint, and other API doc tools.
+* **#sphinx** - Talk about the Sphinx documentation generation tool.
+* **#flare** - Talk about the Flare documentation toolkit.
+* **#confluence** - Talk about everyone's favorite Wiki.
+* **#community-showcase** - Announce your projects here! Blog posts, docs, code, products—whatever you make that you're excited to share!
+* **#community-help-wanted** - Got an open-source project that needs docs contributors? Looking for open-source communities who will mentor you while you contribute to their docs? This channel is for you! Only for volunteer/unpaid work with open-source projects; companies and paid job postings should continue to use #job-posts-only. 
+* **#wtd-weps** - Ask questions about the Write the Docs Enhancement Proposal (WEP) system and brainstorm on pre-proposal ideas to help improve our community processes and governance.
+
 Channels that serve specific communities & their allies
--------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Allies are welcome as guests in these channels. Please be considerate.
 
 * **#bipoc** - Social and discussion space for Write the Docs' :doc:`/bipoc` community.
 * **#lgbtq** - Social and discussion space for LGBTQ+ people in the WTD community.
 
 Location-based channels
------------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 We have too many location-based channels to list.
 Chances are we have a large group of folks in your area,
 so join up and chat with them.
 They're a great way to get in touch with your local meetup organizer and community.
+
+Creating channels
+~~~~~~~~~~~~~~~~~
+
+If you didn't see a channel that matches your interests, make sure to browse the complete channel list in Slack.
+
+If you still can't find a suitable channel, you can propose a new channel. To propose a channel:
+
+1. Find two other people to cosponsor your channel idea. Ask in related channels to find people who share your interest.
+2. Together, come up with a channel name and write a channel description.
+3. Post in **#meta** requesting a channel. Be sure to share your proposed channel name, description, and to tag your cosponsors.
+
+The Write the Docs moderation team will review your proposal.
 
 Guidelines
 ----------
@@ -139,6 +169,8 @@ No sales-y content
 - **No Direct Pitches** - Our Slack is not the place for sales pitches. Consider sponsoring one of our :doc:`conferences </conf/index>` instead!
 - **No links without context** - If you put a link in the chat without context or explanation, it may be deleted.
 - **No Brands** - If you're going to post, post as yourself, not as a brand. We are a community of individuals and we all exist outside of our day jobs and personal brands.
+
+If you see a message in a public channel that looks like spam, you can react to it with the ``:spam:`` reactji to bring the moderators' attention to it.
 
 Reporting Issues
 ~~~~~~~~~~~~~~~~

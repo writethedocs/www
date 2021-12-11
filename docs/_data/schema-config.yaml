@@ -11,6 +11,7 @@ email: str()
 color: str(required=False)
 hex: str(required=False)
 rgb: str(required=False)
+time_format: enum('24h', '12h', required=False)
 titocode: str(required=False)
 cobrand: include('cobrand-details', required=False)
 
@@ -32,6 +33,7 @@ cfp: include('cfp-details', required=False)
 grants: include('grants-details', required=False)
 shirts: include('shirts-details', required=False)
 unconf: include('unconf-details', required=False)
+lightning_talks: include('lightning_talks-details', required=False)
 
 flaghassponsors: bool()
 flagcfp: bool()
@@ -44,6 +46,7 @@ flagwelcomewagon: bool(required=False)
 flaglivestreaming: bool(required=False)
 flagvideos: bool(required=False)
 flagpostconf: bool(required=False)
+flagcancelled: bool(required=False)
 
 flaghasshirts: bool(required=False)
 
@@ -139,7 +142,7 @@ sponsors-details:
 sponsor-detail:
   name: str(required=True)
   link: str(required=True)
-  brand: str(required=False)
+  brand: str(required=True)
   text: str(required=False)
   width: str(required=False)
 
@@ -173,3 +176,6 @@ shirts-details:
 
 unconf-details:
   url: str(required=True)
+
+lightning_talks-details:
+  signup_url: str(required=True)

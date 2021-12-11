@@ -11,4 +11,5 @@ node_modules
 docs/meetups/events.rst
 .idea
 .vscode
-_data/mc-info.yaml
+docs/_data/mc-info.yaml
+docs/_scripts/mc-info.md

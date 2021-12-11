@@ -62,25 +62,25 @@ The `Quorum program <https://github.com/write-the-docs-quorum/quorum-meetups>`_
 brings together various Write the Docs meetup chapters in nearby time zones
 to provide quarterly "super" meetups over Zoom throughout the year.
 
-Current Meetups: Quorum North America East
-------------------------------------------
+Current Meetups: Quorum North America East / Central
+----------------------------------------------------
 
 Several meetups are members of the Quorum North America East group:
 
 * Atlanta
 * Austin
-* Boston
 * Detroit / Windsor
 * Florida
+* New England
 * Ottawa / Montreal
 * Philadelphia
-* Raleigh / Durham
+* Washington, D.C.
 
 .. meetup-listing::
     :region: Quorum-US-East
 
-Current Meetups: Quorum North America West
-------------------------------------------
+Current Meetups: Quorum North America West / Mountain
+-----------------------------------------------------
 
 Several meetups are members of the Quorum North America West group:
 
@@ -88,6 +88,7 @@ Several meetups are members of the Quorum North America West group:
 * Los Angeles
 * Portland (OR)
 * Salt Lake City
+* Seattle
 
 .. meetup-listing::
     :region: Quorum-US-West

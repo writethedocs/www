@@ -19,7 +19,7 @@ To git or not to git docs as code
 
 Everybody's asking about a docs-as-code workflow and toolchain these days - one recent question about adopting it for a team that's unfamiliar with Git sparked a useful discussion about this potentially rather painful learning curve. Here's the advice from folks who've brought teams up to speed with Git:
 
-* It's crucial to have at least one Git expert available to help troubleshoot. Both beause as people are learning for the first time, and because everyone on the team (no matter how proficient) will encounter new and unexpected issues.
+* It's crucial to have at least one Git expert available to help troubleshoot. Both because as people are learning for the first time, and because everyone on the team (no matter how proficient) will encounter new and unexpected issues.
 * Make time for proper training. Find someone in-house, bring someone in from outside, give people time to take online courses. Two recommended resources were a YouTube video, `Git and GitHub for Poets <https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV>`__, and a Udemy course, `Git and GitHub for Writers <https://www.udemy.com/course/git-and-github-for-writers/>`__.
 * Consider GUI clients instead of the command line. Folks mentioned GitHub Desktop, TortoiseGit (Windows), Tower, Sourcetree, and GitKraken.
 * A lot of learning Git is about building confidence with an unfamiliar workflow and new underlying concepts. Once people get through the initial learning curve, stress levels tend to settle down.

@@ -173,7 +173,7 @@ Sponsorship schedule
 
 * **SUNDAY**: The conference online platform is open. You are welcome to hang out at your sponsorship booth and attend the Writing Day, but no formal sponsorship events are happening. You're also encouraged to lead a Writing Day project if your documentation is open source.
 
-* **MONDAY**: The conference platform opens at 8am, so we recommend arriving around this time to get the most interaction with attendees. The official start of the main conference talks is at 9am, when sponsor booths will need to be staffed. The conference will run until around 6pm.
+* **MONDAY**: The conference platform opens at 8am, so we recommend arriving around this time to get the most interaction with attendees. The conference will run until around 5pm.
 
 * **TUESDAY**: The Job Fair will be on Tuesday morning in the Expo area of the online platform. It will take place in existing sponsorship booths. If you do not have a booth, a temporary booth will be set up for the job fair, and then removed during lunch.
 
@@ -191,7 +191,7 @@ A quick overview of the important spaces in the "venue":
 
 * The *Main stage* is where the talks happen. This is also where Lightning talks will be given.
 * The *Sessions area* is where the Writing Day and Unconference will happen.
-* The *Expo area* is where sponsors will be able to have booths available and the Job Fair will happen. You can provide videos that will play whenever attendees enter your booth, as well as chat or video-call directly with attendees.
+* The *Expo area* is where the Job Fair will happen. You can chat in text or video directly with attendees.
 
 Sponsorship events
 ------------------
@@ -200,22 +200,13 @@ Job Fair
 ~~~~~~~~
 
 On Tuesday morning we hold our Job Fair,
-which is a wonderful place to connect with our over 500 attendees.
+which is a wonderful place to connect with our over {{ about.attendees }} attendees.
 Many of them are looking for jobs now or will be in the near future,
 so it's a great chance to talk more about your company culture and open positions.
 
 **Logistics**: You will be assigned a sponsor booth in the *Expo area* where you can engage with attendees and answer questions.  We recommend that you answer general questions in the main session and then break off into private calls or chats to talk in more depth with specific people.
 
 You can also offer attendees a link to your website or a way to register interest in your job postings.
-
-Sponsor booths
-~~~~~~~~~~~~~~
-
-Sponsor booths are available during the entire conference for our larger sponsors,
-and during the job fair for all sponsors.
-You will be given a booth that is in the *Expo area* of the online platform.
-
-**Logistics**: There will be *text chat* and a *video session*. You can do presentations, demos, and other interactive content in your booth. You can also record a video to play at your booth when nobody is on video, but we generally recommend having someone in the Expo hall to answer any questions that attendees might have. We also recommend that you answer general questions in the main booth and then break off into private calls or chat to talk in more depth to specific people.
 
 Writing day
 ~~~~~~~~~~~
