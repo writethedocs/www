@@ -55,6 +55,13 @@ Current Meetups: Asia
     :region: Asia
 
 
+Current Meetups: Africa
+-----------------------
+
+.. meetup-listing::
+    :region: Africa
+
+
 Current Meetups: Quorum
 -----------------------
 
