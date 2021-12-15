@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Dec 16, 2022
+.. post:: Dec 15, 2022
    :tags: {{shortcode}}-{{year}}, website, tickets
 
 Announcing Write the Docs {{ city }} {{year}}
