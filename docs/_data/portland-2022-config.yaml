@@ -19,8 +19,8 @@ buttons:
   top:
     - text: Welcome to our conference
       link: /news/welcome
-    - text: Sponsor us
-      link: /sponsors/prospectus
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
     # - text: Date and ticket information
     #   link: /news/announcing-virtual-conf-dates-tickets
     # - text: Read our conference guide
@@ -46,8 +46,8 @@ buttons:
   bottom:
     - text: Welcome to our conference
       link: /news/welcome
-    - text: Sponsor the conference
-      link: /sponsors/prospectus
+    # - text: Sponsor the conference
+    #   link: /sponsors/prospectus
     # - text: See the Schedule!
     #   link: /schedule
     # - text: Date and ticket information
@@ -135,7 +135,7 @@ date: # how do we handle these? human readable would be nice.
     event: Conference Day 2
     date: May 24
     summary: And the conference goes on! We are already starting to miss you. |:heart:|
-    icon: unconference
+    icon: conversation
     dotw: Tuesday
     talk_time: 9am-4pm
     job_fair_time: 9:45am-12pm
