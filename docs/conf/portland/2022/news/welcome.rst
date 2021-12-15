@@ -31,8 +31,13 @@ but our current plan is to have the following rules in place:
 * Vaccination required for all attendees
 * Masks required for all indoor spaces
 * A new venue that provides more access to outside air, and outdoor space
+* 100% refund for all attendees who need to cancel for COVID-related reasons
 * Limited venue capacity to give people enough room to socially distance
-* Multiple seating options based on comfort level being near others in various spaces
+* Seating options based on comfort level being near others in various spaces
+* Venue spaces with windows that open or that are fully outside
+
+We also have a few more ideas to ensure safety of all attendees that we are discussing,
+and will have more information as the event comes closer.
 
 Call for Proposals
 ------------------
