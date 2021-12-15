@@ -48,6 +48,8 @@ We're looking for ideas and use-cases from all disciplines and roles, so whether
 We plan to launch our CFP in January and have it last until sometime in February.
 We're still working out the exact details for the CFP,
 but our current plan is to record all talks so that the experience will be comparable between online and in-person attendees.
+We hope this will reduce anxiety for our speakers about feeling the need to attend in person,
+or have a second-rate experience presenting remotely.
 
 Get started coming up with ideas for the conference now,
 and we'll let you know when the CFP opens.
