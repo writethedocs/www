@@ -79,7 +79,7 @@ If you are already excited about sponsoring, reach out to us at sponsorship@writ
 We're open to customization or new ideas for our sponsorships levels, especially given the new format.
 
 Keep in touch
-------------
+-------------
 
 Want to find out what's happening with the conference, or enjoy our monthly global community newsletter?
 Sign up to one or more of our `mailing lists <http://eepurl.com/cdWqc5>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
