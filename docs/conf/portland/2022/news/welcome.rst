@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 
 .. post:: Dec 15, 2022
-   :tags: {{shortcode}}-{{year}}, website, tickets
+   :tags: {{shortcode}}-{{year}}
 
 Announcing Write the Docs {{ city }} {{year}}
 ===========================================
@@ -17,9 +17,9 @@ We are still in the planning phase for how to handle this safely,
 and would love your `feedback <mailto:portland@writethedocs.org>`_ on how we should progress.
 
 It's been a rough year for a lot of us,
-but we're hoping that by next spring things will be looking a lot safer for us to gather.
-We plan to release more details during the next few weeks,
-but there's a few specific updates below.
+but we're hoping that by the third week of May things will be looking a lot safer for us to gather in-person.
+We will be releasing more details at the start of 2022,
+but there are some initial details below.
 
 Health Guidelines
 -----------------
