@@ -45,7 +45,7 @@ Call for Proposals
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
 
-We plan to launch our CFP in January for those who are excited to speak.
+**We plan to launch our CFP in January** for those who are excited to speak.
 We're still working out the exact details for the CFP,
 but our current plan is to record all talks so that the experience will be comparable between online and in-person,
 for attendees and speakers.
@@ -59,7 +59,7 @@ and we'll let you know as soon as the CFP opens.
 Tickets
 -------
 
-Tickets will go on sale in **{{ date.tickets_live }}**.
+**Tickets will go on sale in {{ date.tickets_live }}**.
 We will announce ticket prices soon,
 so that you can start planning your budget.
 As with the previous years, we have tiered pricing to make it fair for everyone,
@@ -73,7 +73,7 @@ Sponsorship
 -----------
 
 We are still thinking about how best to handle sponsorship for a hybrid event,
-and will release our prospectus soon.
+and will release our prospectus in January as well.
 
 If you are already excited about sponsoring, reach out to us at sponsorship@writethedocs.org.
 We're open to customization or new ideas for our sponsorships levels, especially given the new format.
@@ -81,10 +81,12 @@ We're open to customization or new ideas for our sponsorships levels, especially
 Keep in touch
 -------------
 
-Want to find out what's happening with the conference, or enjoy our monthly global community newsletter?
+Want to find out what's happening with the conference,
+or enjoy our monthly global community newsletter?
 Sign up to one or more of our `mailing lists <http://eepurl.com/cdWqc5>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
 
-Want to connect with other documentarians in real-time? Join our `Slack <https://www.writethedocs.org/slack/>`_.
+Want to connect with other documentarians in real-time?
+Join our `Slack <https://www.writethedocs.org/slack/>`_.
 
 Conclusion
 ----------
