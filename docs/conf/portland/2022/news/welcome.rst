@@ -61,7 +61,7 @@ Tickets will go on sale in **{{ date.tickets_live }}**.
 We will announce ticket prices soon,
 so that you can start planning your budget.
 As with the previous years, we have tiered pricing to make it fair for everyone,
-and will likely price in-person and virtual tickets separately.
+and will price in-person and virtual tickets separately.
 
 As always, we keep ticket prices low so that it is accessible to the widest range of people possible.
 However, if you can't afford these prices and still wish to attend,
@@ -73,12 +73,10 @@ Sponsorship
 We are still thinking about how best to handle sponsorship for a hybrid event,
 and will release our prospectus soon.
 
-If you are already excited about sponsoring,
-you can always reach out to us now.
-We're always open to customization on our sponsorships, especially given the new format.
-You can always reach us with ideas or questions at sponsorship@writethedocs.org.
+If you are already excited about sponsoring, reach out to us at sponsorship@writethedocs.org.
+We're open to customization or new ideas for our sponsorships levels, especially given the new format.
 
-Stay Updated
+Keep in touch
 ------------
 
 Want to find out what's happening with the conference, or enjoy our monthly global community newsletter?
@@ -89,5 +87,5 @@ Want to connect with other documentarians in real-time? Join our `Slack <https:/
 Conclusion
 ----------
 
-We hope you will join us in Portland for another Write the Docs conference.
+We hope you will join us in Portland, or online, for another Write the Docs conference.
 Whether as a speaker, attendee, or sponsor, you can bet it will be another delightful year.
