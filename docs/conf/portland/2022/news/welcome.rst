@@ -18,7 +18,7 @@ and would love your `feedback <mailto:portland@writethedocs.org>`_ on how we sho
 .. TODO: Add link to survey?
 
 It's been a rough year for a lot of us,
-but we're hoping that late next spring things will be looking a lot safer for us to gather.
+but we're hoping that by next spring things will be looking a lot safer for us to gather.
 We plan to release more details during the next few weeks,
 but there's a few specific updates below.
 
@@ -29,11 +29,11 @@ We will continue to monitor the health guidelines for Portland & Oregon as the c
 but our current plan is to have the following rules in place:
 
 * Vaccination required for all attendees
-* Masks required for all indoor spaces
+* Masks required in all indoor spaces
 * A new venue that provides more access to outside air, and outdoor space
 * 100% refund for all attendees who need to cancel for COVID-related reasons
 * Limited venue capacity to give people enough room to socially distance
-* Seating options based on comfort level being near others in various spaces
+* Seating options based on distancing comfort level in various spaces
 * Venue spaces with windows that open or that are fully outside
 
 We also have a few more ideas to ensure safety of all attendees that we are discussing,
