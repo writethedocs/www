@@ -85,7 +85,8 @@
         <div class="uk-container">
                 {% block body %}
                 {{ body }}
-              {% endblock body %}
+                {% endblock body %}
+                {% include "postcard.html" %}
         </div>
     </div>
   {% endif %}
