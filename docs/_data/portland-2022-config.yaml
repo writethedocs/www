@@ -1,0 +1,227 @@
+name: Portland
+
+shortcode: portland # prague australia?
+year: 2022
+city: Portland
+local_area: Oregon
+area: North America # European Australian
+area_adj: North American
+tz: Pacific Time  # PT until March, PST after... :/
+email: portland@writethedocs.org
+color: green
+rgb: 61, 217, 74
+hex: 3dd94a
+
+photos:
+  default: _static/conf/images/headers/group.png
+
+buttons:
+  top:
+    - text: Welcome to our conference
+      link: /news/welcome
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
+    # - text: Date and ticket information
+    #   link: /news/announcing-virtual-conf-dates-tickets
+    # - text: Read our conference guide
+    #   link: /welcome-wagon
+    # - text: See the Schedule!
+    #   link: /schedule
+    # - text: Buy a Ticket!
+    #   link: /tickets
+    #- text: Submit a Talk
+    #  link: /cfp
+    #- text: See the talks!
+    #   link: /speakers
+#    - text: See the Schedule!
+#      link: /schedule
+#    - text: Read our guide
+#      link: /welcome-wagon
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: Browse the photos
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    # - text: Watch the videos!
+    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+  bottom:
+    - text: Welcome to our conference
+      link: /news/welcome
+    # - text: Sponsor the conference
+    #   link: /sponsors/prospectus
+    # - text: See the Schedule!
+    #   link: /schedule
+    # - text: Date and ticket information
+    #   link: /news/announcing-virtual-conf-dates-tickets
+    # - text: See the talks!
+    #   link: /speakers
+    # - text: Buy a Ticket!
+    #   link: /tickets
+#    - text: Read our guide
+#      link: /welcome-wagon
+#    - text: See the schedule!
+#      link: /schedule
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: Browse the photos
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    # - text: Watch the videos!
+    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+
+tickets:
+  corporate:
+    price: $500
+  independent:
+    price: $275
+  student:
+    price: $100
+
+sponsorship:
+  second_draft:
+    price: $2,000
+  publisher:
+    price: $4,000
+  patron:
+    price: $8,500
+  keystone:
+    price: $15,000
+
+grants:
+  url: https://docs.google.com/forms/d/e/1FAIpQLSdtgQLvwjR7FkVFNMP1qpD3SrUcHqQSPF8PExL-19mxOHrHBQ/viewform
+  ends: "March 1, 2022"
+  notification: "March 10, 2022"
+
+shirts:
+  url: https://teespring.com/wtd-pdx-2022
+  ends: "May 31, 2022"
+
+date: # how do we handle these? human readable would be nice.
+  main: "**May 22-24, 2022**"
+  short: May 22-24, 2022
+  tickets_live: "January 2022"
+  month: May
+
+  # Conference is special for the index to show the combined conference days
+  # conference:
+  #   event: Main Conference
+  #   date: May 23-24
+  #   summary: The main days of the conference. We will be running one main track, and an <a href="/conf/portland/2022/unconference/">Unconference</a>.
+  #   icon: conference
+
+  # These are listed in the schedule
+  day_one:
+    event: TBD
+    date: May 22
+    summary: We're still trying to figure out what the plan is for this day, and will adjust as we get closer to the event.
+    icon: writing
+    dotw: Sunday
+  # day_one:
+  #   event: TBD
+  #   date: May 22
+  #   summary: We are still trying to figure out the structure for the first day. It will likely be the hike
+  #   #summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+  #   icon: writing
+  #   dotw: Sunday
+  #   writing_day_time: 9am-5pm
+  day_two:
+    event: Conference Day 1
+    date: May 23
+    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks and unconference sessions.
+    icon: conference
+    dotw: Monday
+    talk_time: 9am-5pm
+    unconference_time: 9:45am-5pm
+    social_time: 5pm-7pm
+  day_three:
+    event: Conference Day 2
+    date: May 24
+    summary: And the conference goes on! We are already starting to miss you.
+    icon: conversation
+    dotw: Tuesday
+    talk_time: 9am-4pm
+    job_fair_time: 9:45am-12pm
+    unconference_time: 1:35pm-5pm
+  total_talk_days: 2
+
+about:
+  attendees: around 350 in-person and more online
+  summary:
+    "The main presentation track takes place from **May 23-24 (Monday and Tuesday) from 9am to 6pm**.
+    During the main event we also run an :doc:`/conf/portland/2022/unconference`."
+
+  social_venue: TBD
+  venue: "TBD"
+  photos:
+  mainroom: "TBD"
+  unconfroom: "TBD"
+  projector_ratio: "16:9"
+  job_fair_room: "TBD"
+
+cfp:
+  url: https://pretalx.com/write-the-docs-portland-2022/cfp
+  ends: "February 1, 2022"          # 2 weeks to review and get confirmnations
+  notification: "February 15, 2022" # leaves 6 weeks to write and record
+  video_by: "March 31, 2022"        # 3 weeks before the conf
+
+unconf:
+  url: http://bit.ly/wtd-schedule-pdx-2022
+
+sponsors:
+  keystone:
+  patron:
+    # - name: google
+    #   link: https://www.google.com
+    #   brand: Google
+  publisher:
+    # - name: cncf
+    #   link: https://www.cncf.io/
+    #   brand: Cloud Native Computing Foundation
+    # - name: slack
+    #   link: https://slack.com/
+    #   brand: Slack
+    # - name: twilio
+    #   link: https://www.twilio.com/
+    #   brand: Twilio
+  second:
+    # - name: knowledgeowl
+    #   link: https://www.knowledgeowl.com
+    #   brand: KnowledgeOwl
+    #   width: 250px
+    #   text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl​ is looking for more contributors for our ​company blog​. This is an opportunity to write about a topic that interests you and get paid for it :)</p> <p>KnowledgeOwl also sponsors and hosts The Not-Boring Tech Writer podcast. We are always looking for new guests to share their stories, experience, and expertise with the world.</p> <p>Feel free to stop by and ask us more about KnowledgeOwl, these opportunities, or anything else!</p>"
+    # - name: mongodb
+    #   link: https://www.mongodb.com/
+    #   brand: MongoDB
+    # - name: juniper
+    #   link: https://www.juniper.net/
+    #   brand: Juniper
+    #   text: "<p><b>Power connections. Empower change.</b>\n Juniper exists to solve the world’s most difficult problems in networking. We do this by remaining true to our values of being bold, building trust and delivering excellence. Visit us at the virtual job fair!</p>"
+    # - name: netlify
+    #   link: https://www.netlify.com/
+    #   brand: Netlify
+    # - name: starburst
+    #   link: https://www.starburst.io/
+    #   brand: Starburst
+    #   text: "<p>Starburst is on a mission to modernize data access &amp; analytics. Our company was founded in an unusual way; with customers and revenue from the beginning! Our growth is already ahead of some of the most successful software start-ups, and we don’t plan on slowing down.</p> <p>We believe our opportunity is huge. Every large company in the world suffers from a data silo problem. Traditional data warehouse products approach the problem with old solutions that breed inefficiency and ultimately can’t help business analysts run fast analytics on all their data.</p> <p>Starburst provides a modern solution that addresses these data silo &amp; speed of access problems. Starburst helps enterprises harness the value of open source Trino (formerly PrestoSQL), the fastest distributed query engine available today, by adding the tools and 24x7 support that meet the needs for big data access at scale. Ultimately, Starburst helps organizations run analytics anywhere to make better business decisions.</p>"
+  first:
+
+
+# Things that change over time, listed in order of change
+flaglanding: True
+flaghassponsors: False
+flagcfp: False
+flagticketsonsale: False
+flagsoldout: False
+flagspeakersannounced: False
+flagrunofshow: False
+flaghasschedule: False
+flaghasunconf: False
+flaghasshirts: False
+flagvideos: False
+flaglivestreaming: False
+flagpostconf: False
+
+# Truthy things that don't change
+flaghashike: False
+flaghasboat: False
+flaghaswritingday: False
+flaghasjobfair: False
+flaghasbadgeflair: False
