@@ -10,7 +10,6 @@ Welcome to the official launch of `Write the Docs Portland {{year}} <https://www
 We're excited to announce the dates for our next conference:
 **Write the Docs {{ city }} {{ year }} will be on {{ date.short }}**
 
-
 We will be running a **hybrid event** this year,
 with our online event joining a return to the in-person part of the conference.
 We are still in the planning phase for how to handle this safely,
@@ -20,6 +19,9 @@ It's been a rough year for a lot of us,
 but we're hoping that by the third week of May things will be looking a lot safer for us to gather in-person.
 We will be releasing more details at the start of 2022,
 but there are some initial details below.
+
+**Please do not book any non-refundable travel arrangements until tickets go on sale,
+as some details are still being worked out.**
 
 Health Guidelines
 -----------------
