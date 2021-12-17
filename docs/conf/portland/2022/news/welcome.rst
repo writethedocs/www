@@ -6,7 +6,7 @@
 Announcing Write the Docs {{ city }} {{year}}
 ===========================================
 
-Welcome to the official launch of `Write the Docs Portland {{year}} <https://www.writethedocs.org/conf/portland/{{year}}/>`_.
+Welcome to the official launch of `Write the Docs Portland {{year}} <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/>`_.
 We're excited to announce the dates for our next conference:
 **Write the Docs {{ city }} {{ year }} will be on {{ date.short }}**
 
@@ -85,7 +85,7 @@ Keep in touch
 
 Want to find out what's happening with the conference,
 or enjoy our monthly global community newsletter?
-Sign up to one or more of our `mailing lists <https://www.writethedocs.org/conf/portland/2022/mailing-list/>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
+Sign up to one or more of our `mailing lists <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/mailing-list/>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
 
 Want to connect with other documentarians in real-time?
 Join our `Slack <https://www.writethedocs.org/slack/>`_.
