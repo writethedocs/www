@@ -36,7 +36,7 @@ but our current plan is to have the following rules in place:
 * Limited venue capacity to give people enough room to socially distance
 * Seating options based on distancing comfort level in various spaces
 * Indoor meeting spaces with open windows (weather permitting)
-* Outdoor meeting areas
+* Outdoor gathering spaces
 
 We are discussing more ideas and processes to ensure safety of all attendees,
 and will publish more information as we get closer to the event.
