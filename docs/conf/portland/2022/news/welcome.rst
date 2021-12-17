@@ -85,7 +85,7 @@ Keep in touch
 
 Want to find out what's happening with the conference,
 or enjoy our monthly global community newsletter?
-Sign up to one or more of our `mailing lists <http://eepurl.com/cdWqc5>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
+Sign up to one or more of our `mailing lists <https://www.writethedocs.org/conf/portland/2022/mailing-list/>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
 
 Want to connect with other documentarians in real-time?
 Join our `Slack <https://www.writethedocs.org/slack/>`_.
