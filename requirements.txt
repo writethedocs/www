@@ -1,4 +1,4 @@
-Sphinx==4.3.1
+Sphinx==4.3.2
 recommonmark==0.7.1
 ablog==0.10.6  # pyup: ignore
 sphinx_autobuild==2021.3.14
@@ -14,7 +14,7 @@ urllib3[secure]==1.26.7
 yamale==4.0.2
 markdown==3.3.6
 ruamel.yaml==0.17.17
-lxml==4.7.0
+lxml==4.7.1
 # For emoji
 sphinxemoji==0.2.0
 # For atom feed support
