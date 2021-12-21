@@ -2,7 +2,7 @@
 2022 Conferences
 ----------------
 
-- :doc:`Write the Docs Portland 2022 </conf/portland/2022/index>`, May 22-24, **Portland + Virtual, Oregon**
+- :doc:`Write the Docs Portland 2022 </conf/portland/2022/index>`, May 22-24, **Portland, Oregon + Virtual**
 
 2021 Conferences
 ----------------
