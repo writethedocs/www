@@ -10,8 +10,8 @@ Your business identity is how you position yourself in the market, and your corp
 "I love the startup vibe."
 
 #### Related  
-[Core values > What sort of work do I want to do?](core-values.md#what-sort-of-work-do-i-want-to-do)  
-[Core values > Where do I want to work?](core-values.md#where-do-i-want-to-work)  
+[Core values > What sort of work do I want to do?](core-values#what-sort-of-work-do-i-want-to-do)  
+[Core values > Where do I want to work?](core-values#where-do-i-want-to-work)  
 
 
 ### How do I present myself to the world / what is the tone of my interaction with clients?
@@ -21,8 +21,8 @@ Your business identity is how you position yourself in the market, and your corp
 "I will adapt to each client's tone."
 
 #### Related
-[Core values > What sort of relationship do I want with my clients?](core-values.md#what-sort-of-relationship-do-i-want-with-my-clients)  
-[Core values > How much of myself do I want in my work?](core-values.md#how-much-of-myself-do-i-want-in-my-work)
+[Core values > What sort of relationship do I want with my clients?](core-values#what-sort-of-relationship-do-i-want-with-my-clients)  
+[Core values > How much of myself do I want in my work?](core-values#how-much-of-myself-do-i-want-in-my-work)
 
 ### What do I offer my client?
 
@@ -34,7 +34,7 @@ Think about your value proposition. Be specialized: the clearer you are about yo
 
 #### Related
 
-[Core values > What sort of work do I want to do?](core-values.md#what-sort-of-work-do-i-want-to-do)
+[Core values > What sort of work do I want to do?](core-values#what-sort-of-work-do-i-want-to-do)
 
 ### What tools do I specialize in?
 

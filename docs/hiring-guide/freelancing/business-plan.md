@@ -12,9 +12,9 @@ Your business plan is the practical implementation of the [values](core-values.m
 
 #### Related
 
-[Core values > What sort of work do I want to do?](core-values.md#what-sort-of-work-do-i-want-to-do)  
+[Core values > What sort of work do I want to do?](core-values#what-sort-of-work-do-i-want-to-do)  
 [Core values > Where do I want to work?](core-values.md#where-do-i-want-to-work)  
-[Business identity > What type of clients do I want?](business-identity.md#what-type-of-clients-do-i-want)  
+[Business identity > What type of clients do I want?](business-identity#what-type-of-clients-do-i-want)  
 [Resources > Finding work](find-work.md)
 
 ### What are my rates?
