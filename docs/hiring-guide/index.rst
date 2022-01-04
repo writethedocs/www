@@ -62,5 +62,5 @@ Consulting and freelancing
    freelancing/cost-estimate
    freelancing/one-page-contract
    freelancing/workflow
-   freelancing/finding-work
-   freelancing/getting-paid
+   freelancing/find-work
+   freelancing/get-paid
