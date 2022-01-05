@@ -8,11 +8,8 @@ Its content focuses on tricky points in the process of hiring a documentarian.
 A great place to start on your hiring or job-seeking journey is by posting to or browsing the job board.
 Check it out over at https://jobs.writethedocs.org/.
 
-.. note:: This is a living (and growing) guide that is missing some topics.
-          If you want to contribute, you can do so by
-          creating `issues <https://github.com/writethedocs/www>`_ and
-          `pull requests <https://github.com/writethedocs/www/pulls>`_ in the
-          `GitHub repository <https://github.com/writethedocs/www>`_.
+.. contents:: Table of Contents
+    :depth: 3
 
 
 Community Spotlight
@@ -52,7 +49,7 @@ Consulting and freelancing
 --------------------------
 
 .. toctree::
-   :maxdepth: 2 
+   :maxdepth: 1 
 
    freelancing/index
    freelancing/core-values
