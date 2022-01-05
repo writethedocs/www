@@ -49,7 +49,7 @@ Consulting and freelancing
 --------------------------
 
 .. toctree::
-   :maxdepth: 1 
+   :maxdepth: 1
 
    freelancing/index
    freelancing/core-values
