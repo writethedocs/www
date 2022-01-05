@@ -7,7 +7,7 @@ This page covers both planning when considering a new client or project, such as
 ### Are there any key deadlines?
 
 #### Example
-"This a new project. v1.0 releases in three months. Documentation must be ready then.
+"This a new project. v1.0 releases in three months. Documentation must be ready then."
 
 ### What are the deliverables?
 

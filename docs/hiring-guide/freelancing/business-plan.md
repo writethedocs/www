@@ -15,7 +15,7 @@ Your business plan is the practical implementation of the [values](core-values.m
 [Core values > What sort of work do I want to do?](../core-values#what-sort-of-work-do-i-want-to-do)  
 [Core values > Where do I want to work?](../core-values#where-do-i-want-to-work)  
 [Business identity > What type of clients do I want?](../business-identity#what-type-of-clients-do-i-want)  
-[Resources > Finding work](find-work.md)
+[Finding work](find-work.md)
 
 ### What are my rates?
 
@@ -44,7 +44,8 @@ A range of factors contribute to your rates:
 ### Where do I want to be in *X* years?
 
 #### Example
-"Within two years I want to have increased my rates so I can reduce my hours."  "I want to gain a new skill every year."  
+"Within two years I want to have increased my rates so I can reduce my hours."  
+"I want to gain a new skill every year."  
 "This is a stepping stone. Within five years I want to become a tech writing tutor."
 
 #### Related
