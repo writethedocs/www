@@ -13,6 +13,10 @@ If you're an employer looking to fill a role, you can find information about :do
 Schedule
 --------
 
+{% if not flaghasschedule %}
+**WARNING**: The conference schedule has not been finalized and is subject to major changes.
+{% endif %}
+
 Scheduling information is available on our :doc:`/conf/{{shortcode}}/{{year}}/schedule` page.
 
 

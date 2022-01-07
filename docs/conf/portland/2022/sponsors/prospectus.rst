@@ -12,9 +12,11 @@ Online Sponsorship Prospectus
 Introduction
 ============
 
-Welcome to our brand new **Online Conference Sponsorship Prospectus**.
-This document has been adapted for our new virtual conference format,
+Welcome to our **2022 Conference Sponsorship Prospectus**.
+This document has been adapted for our hybrid conference format,
 including new benefits and increased value across our community.
+Our new hybrid format has brought many questions,
+and we're working to create innovative solutions where possible.
 
 We're excited to work with the organizations in our community to build the best possible event in {{ year }}.
 In particular, we would love your feedback on sponsorship levels and benefits.
@@ -46,11 +48,12 @@ Second Draft
 
 The **Second Draft** package is great for companies looking to hire or to promote a product.
 
-- Three (3) tickets_
-- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- Two (2) tickets
+- A small table at our **job fair**
+- One (1) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - A short description (250 characters) and logo of your company on the conference website
-- A table at our **virtual job fair**
 - Name included in welcome announcement in email newsletters and social media
+- Display 1 promotional (“Swag”) item on the conference swag table (provided by sponsor)
 
 The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
 
@@ -59,12 +62,12 @@ Publisher
 
 The **Publisher** package is great for sending a team and getting to know the community.
 
-- Seven (7) tickets_
-- Four (4) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- A short description (250 characters) and logo of your company on the conference website
-- A table at our **virtual job fair**
+- Five (5) tickets
+- A table at our **job fair**
+- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- A medium description (500 characters) and logo of your company on the conference website
 - Name included in welcome announcement in email newsletters and social media
-- A small logo on all Write the Docs website pages for 3 months
+- Display 2 promotional (“Swag”) items on the conference swag table (provided by sponsor)
 
 The **Publisher** package costs **{{sponsorship.publisher.price}}**.
 
@@ -75,17 +78,16 @@ Patron
 
 The **Patron** package highlights your company as a force in the industry and community:
 
-- Thirteen (13) tickets_
-- Seven (7) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- A medium description (750 characters and logo of your company on the conference website
-- A **virtual sponsorship booth**
-- A featured table at our **virtual job fair**
-- Small logo included in intermission slides and on talk videos
-- Name included in welcome announcement in email newsletters and social media
-- 5 minute sponsored lightning talk on main stage of the conference
-- One newsletter sponsorship (logo & 300 characters) in our newsletter ({{ newsletter_subs }}+ subscribers)
+- Ten (10) tickets
+- A **sponsorship booth**
+- A featured table at our **job fair**
+- Four (4) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- A long description (750 characters) and logo of your company on the conference website
+- Small logo included **livestream & talk videos**
+- 5 minute **sponsored lightning talk**
 - A logo on all Write the Docs website pages until the end of {{ year }}. (30,000 pageviews/mo)
-- A :doc:`small ad </sponsorship/website>` displayed on all non-conferences pages of the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months.
+- Display unlimited promotional ("Swag") items
+- Name included in welcome announcement in email newsletters and social media
 
 The **Patron** package costs **{{sponsorship.patron.price}}**.
 
@@ -94,17 +96,16 @@ Keystone
 
 The **Keystone** package highlights you as our main community partner:
 
-- Twenty (20) tickets_
-- Ten (10) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- A large description (750 characters) and logo of your company on the conference website
-- A featured **virtual sponsorship booth**
-- A featured table at our **virtual job fair**
-- Large logo included in intermission slides and on talk videos
-- Name included in welcome announcement in email newsletters and social media
-- 5 minute sponsored lightning talk on main stage of the conference
-- Two newsletter sponsorships (logo & 300 characters) in our newsletter ({{ newsletter_subs }}+ subscribers)
+- Fifteen (15) tickets
+- A featured **sponsorship booth**
+- A featured table at our **job fair**
+- Eight (8) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- Large logo included **livestream & talk videos**
+- 5 minute **sponsored lightning talk**
+- A long description (750 characters) and logo of your company on the conference website
 - A logo on all Write the Docs website pages until the end of {{ year }}. (30,000 pageviews/mo)
-- A :doc:`small ad </sponsorship/website>` on the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months
+- Display unlimited promotional ("Swag") items
+- Name included in welcome announcement in email newsletters and social media
 
 The **Keystone** package costs **{{sponsorship.keystone.price}}**.
 
@@ -134,12 +135,10 @@ Benefits
 Writing Day
 -----------
 
-Sponsor the Writing Day on Sunday, where we get together to help improve the documentation of many projects.
+Sponsor the Writing Day, where we get together to help improve the documentation of many projects.
 This is great for any company that is looking for contributors to their open source projects.
 
 **{{sponsorship.second_draft.price}}**
-
-- **Logistics**: The Writing Day is during the day Sunday.
 
 Inquiries
 =========
@@ -151,7 +150,7 @@ Please direct all inquiries to our sponsorship team at:
 Payment
 =======
 
-Invoices must be paid **within 30 days of invoice receipt**, or no later than one (1) week before the virtual conference.
+Invoices must be paid **within 30 days of invoice receipt**, or no later than one (1) week before the conference.
 
 .. _ticket: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
 .. _tickets: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
@@ -170,8 +169,6 @@ Please let us know if there is any information missing that would be useful for 
 
 Sponsorship schedule
 --------------------
-
-* **SUNDAY**: The conference online platform is open. You are welcome to hang out at your sponsorship booth and attend the Writing Day, but no formal sponsorship events are happening. You're also encouraged to lead a Writing Day project if your documentation is open source.
 
 * **MONDAY**: The conference platform opens at 8am, so we recommend arriving around this time to get the most interaction with attendees. The conference will run until around 5pm.
 
