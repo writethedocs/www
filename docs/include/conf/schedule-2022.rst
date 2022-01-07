@@ -1,3 +1,7 @@
+{% if not flaghasschedule %}
+**WARNING**: This schedule has not been finalized and is subject to major changes.
+{% endif %}
+
 Write the Docs is more than a conference.
 Each year we organize a wide range of events so that people can come together, collaborate, and learn from each other in different ways.
 
