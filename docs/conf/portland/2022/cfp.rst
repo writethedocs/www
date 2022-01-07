@@ -5,8 +5,7 @@ Call for Proposals
 
 Hello hello, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{ city }} conference, coming up on {{date.main}}. We're running a `hybrid conference <https://www.writethedocs.org/conf/portland/2022/news/welcome/>`__ this year, so you can speak or attend from anywhere, but folks will also be there in person in {{ city }}. We will use regular {{ city }} conference times for the scheduling.
 
-.. note::
-    For speakers this means you'll be writing and recording talk before the event, as if for our virtual conference. And we'll have a videographer around to help with that if you want it. we're working on the exact details of a moderated remote live Q&A after your talk.
+    For speakers this means you'll be writing and recording your talk *before the event*, the same as for our virtual conference. We'll have a videographer around to help with that if you want it. we're working on the exact details of a moderated remote live Q&A after your talk.
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you!
 Read on to learn more about the goals of the conference and what we look for in talk proposals.
