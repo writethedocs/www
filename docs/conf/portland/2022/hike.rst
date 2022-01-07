@@ -11,12 +11,10 @@ It's rained on us the past, but we have faith it will be beautiful this year! We
 Logistics
 ---------
 
-.. **You can get your hike ticket here**: FIXME
+**WARNING: This hike has been modified this year because of construction on the Wildwood trail. Instead of ending at the Zoo, we are doing an "out and back" hike to Pittock Mansion, which will start and end at the same location.**
 
-Tickets will be available from April 2020.
-
-- Date & Time: Leaves promptly at **Saturday, August 8, 2 PM**. Meet at **1:45**.
-- Duration: The hike normally takes around 3 hours. Along with transportation back to Portland, allow for up to 4 hours total, returning at 6pm.
+- Date & Time: Leaves promptly at **Sunday, May 22, 1 PM**.
+- Duration: The hike normally takes around 3 hours. Along with transportation back to Portland, allow for up to 4 hours total.
 - Start: **Lower Macleay Park** (`Google Map <https://www.google.com/maps/place/Lower+Macleay+Park/@45.5359671,-122.7147082,17z/data=!3m1!4b1!4m5!3m4!1s0x549509e9f2adf02d:0x1b3668a7adc941d9!8m2!3d45.5359671!4d-122.7125142>`__. There is a pavilion at the park entrance where we will gather.
 - End: **Oregon Zoo** -- There is a MAX stop here to take us back downtown.
 - `Visual of the hike <https://maps.google.com/maps?saddr=MacLeay+Park+Entrance,+NW+Upshur+St,+Portland,+OR&daddr=45.527373,-122.718589+to:45.5225885,-122.717297+to:oregon+zoo&hl=en&ll=45.52448,-122.717757&spn=0.023933,0.032358&sll=45.522345,-122.712822&sspn=0.023934,0.032358&geocode=FYLStgIdMI6v-CGojI77DIHw4SnVqz2N6QmVVDGojI77DIHw4Q%3BFU2xtgIdg3av-CmRNoxzkQmVVDFxAN8jMh2eKQ%3BFZyetgIdj3uv-CnD2fb_jgmVVDHuWX9DnHsevQ%3BFZpttgIdAoGv-CEm_N2esCDn5ykFuFa4LgqVVDEm_N2esCDn5w&oq=macleay+park&gl=us&dirflg=w&mra=dpe&mrsp=2&sz=15&via=1,2&t=m&z=15>`__
@@ -30,7 +28,7 @@ from the venue to the park, or you can `take transit <https://www.google.com/map
 What to bring
 ~~~~~~~~~~~~~
 
-August in Portland can be interesting. It will probably be in the 60s, with a chance of rain. So, please bring:
+May in Portland can be interesting. It will probably be in the 60s, with a chance of rain. So, please bring:
 
 - Comfortable shoes, that you are comfortable getting a bit muddy.
 - 1 Liter of water. There is water available halfway through the hike.

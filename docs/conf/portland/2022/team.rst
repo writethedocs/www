@@ -55,11 +55,6 @@ Mikey Ariel
 
 {% include "bios/mikey.rst" %}
 
-Hillary Fraley
-~~~~~~~~~~~~~~~
-
-{% include "bios/hillary.rst" %}
-
 Bio coming soon
 
 Primary Roles
