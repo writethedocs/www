@@ -58,6 +58,8 @@ flaghashike: bool()
 flaghasboat: bool()
 flaglanding: bool()
 flaghasbadgeflair: bool(required=False)
+flaghasfood: bool(required=False)
+
 
 ---
 
