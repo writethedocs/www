@@ -33,6 +33,7 @@ Write the Docs {{ name }} {{ year }} is a virtual conference. Each ticket includ
 * Access to the conference chat with all other attendees, speakers and sponsors
 * Access to the writing day
 * The virtual job fair
+* Snacks and drinks will be provided, but meals will be found in the local neighbhorhood.
 
 **All talk videos will be published on our YouTube channel no later than 1 week after the conference.**
 
@@ -40,7 +41,7 @@ Refund Policy
 -------------
 
 Refunds will be offered with a 10% processing fee until 2 weeks before the conference.
-Refunds after this date are not possible.
+All COVID-related refunds will be refunded in full with no time limit.
 
 Ticket Types
 ------------

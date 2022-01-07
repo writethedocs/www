@@ -73,7 +73,7 @@ We're hoping to have some fun activities planned for the evening online.
 
 {% if flaghasfood %}
 
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+*Snacks and drinks will be provided, but meals will be found in the local neighbhorhood.*
 
 {% endif %}
 
@@ -137,7 +137,7 @@ and bring your favorite beverage to your computer :)
 
 {% if flaghasfood %}
 
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+*Snacks and drinks will be provided, but meals will be found in the local neighbhorhood.*
 
 {% endif %}
 

@@ -11,9 +11,7 @@ It's rained on us the past, but we have faith it will be beautiful this year! We
 Logistics
 ---------
 
-**WARNING: This hike has been modified this year because of construction on the Wildwood trail. Instead of ending at the Zoo, we are doing an "out and back" hike to Pittock Mansion, which will start and end at the same location.**
-
-- Date & Time: Leaves promptly at **Sunday, May 22, 1 PM**.
+- Date & Time: Leaves promptly at **{{ hike.date }}**.
 - Duration: The hike normally takes around 3 hours. Along with transportation back to Portland, allow for up to 4 hours total.
 - Start: **Lower Macleay Park** (`Google Map <https://www.google.com/maps/place/Lower+Macleay+Park/@45.5359671,-122.7147082,17z/data=!3m1!4b1!4m5!3m4!1s0x549509e9f2adf02d:0x1b3668a7adc941d9!8m2!3d45.5359671!4d-122.7125142>`__. There is a pavilion at the park entrance where we will gather.
 - End: **Oregon Zoo** -- There is a MAX stop here to take us back downtown.
@@ -28,7 +26,7 @@ from the venue to the park, or you can `take transit <https://www.google.com/map
 What to bring
 ~~~~~~~~~~~~~
 
-May in Portland can be interesting. It will probably be in the 60s, with a chance of rain. So, please bring:
+Weather in Portland can be interesting. It will probably be in the 60s, with a chance of rain. So, please bring:
 
 - Comfortable shoes, that you are comfortable getting a bit muddy.
 - 1 Liter of water. There is water available halfway through the hike.
