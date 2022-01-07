@@ -205,7 +205,7 @@ sponsors:
 
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: False
 flagcfp: True
 flagticketsonsale: False
@@ -220,7 +220,8 @@ flaglivestreaming: False
 flagpostconf: False
 
 # Truthy things that don't change
-flaghashike: False
+flaghashike: True
+flaghasfood: True
 flaghasboat: False
 flaghaswritingday: False
 flaghasjobfair: False
