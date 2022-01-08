@@ -9,10 +9,10 @@ Speaking at WTD --- what to expect?
 So you’ve been selected to give a talk at WTD; but what does that actually mean?
 
 You took a leap and proposed a talk; well done!
-A week or so later, an important email arived from the Write The Docs folks, telling you that good news, your talk was selected! Congratulations!
+A week or so later, an important email arived from the Write the Docs folks, telling you that good news, your talk was selected! Congratulations!
 
 So now you’re existing in the in-between; the conference is in the future. Maybe writing your **actual** talk is in the future as well, you might have decided to delay that part until you had confirmation that your talk would be accepted.
-As someone who’s just been in your position, since I gave a talk at Write The Docs Prague 2021, I’ve got a few tips and pointers about what to expect, and what to do, before, during, and after the conference you’re giving a talk at.
+As someone who’s just been in your position, since I gave a talk at Write the Docs Prague 2021, I’ve got a few tips and pointers about what to expect, and what to do, before, during, and after the conference you’re giving a talk at.
 
 Before the conference
 ---------------------
@@ -36,7 +36,7 @@ During the conference
 **Your talk! Plus a Q&A session.**
   Your talk will be show at a given time (in the local conference timezone). Immediately after, there’ll be a short Q&A session in where you’re live with an emcee who’ll funnel questions to you from the chat (as well as any they might have themselves). This is where the sound check comes in. This is the only time you’re officially expected to be present and engaging with others. 
   
-  In some of the Write The Docs documentation about conferences, you might find this phrase or something similar; that speakers are expected to actively participate in the conference. This is, in some ways, a leftover from when conferences were in-person events. For virtual conferences, when I asked, the messaging was this; attend, watch as many talks and be in as many unconference sessions as you want, be there and present for your Q&A; but you don’t have to “perform” or be “visible” for other peoples’ talks etc. You CAN, of course! But let your mental capacity and energy be your guide.
+  In some of the Write the Docs documentation about conferences, you might find this phrase or something similar; that speakers are expected to actively participate in the conference. This is, in some ways, a leftover from when conferences were in-person events. For virtual conferences, when I asked, the messaging was this; attend, watch as many talks and be in as many unconference sessions as you want, be there and present for your Q&A; but you don’t have to “perform” or be “visible” for other peoples’ talks etc. You CAN, of course! But let your mental capacity and energy be your guide.
   
   Now, back to the Q&A; prepare to have fun with this! You effectively “gave” your talk a month ago, because you recorded it and sent it to someone else, only for it to be shown a set time to a large group of other people. And they’re all reacting to it at the same time! So, now is when you get to reflect, talk, answer weird and lovely questions. It can be super enjoyable and stimulating. Also, just FYI, this part will be appended to your actual talk when the recording goes on up YouTube.
 **Unconference sessions.**
