@@ -77,7 +77,7 @@ We're hoping to have some fun activities planned for the evening online.
 
 {% if flaghasfood %}
 
-*Snacks and drinks will be provided, but meals will be found in the local neighbhorhood.*
+* Snacks and drinks will be provided, but not breakfast or lunch. We'll provide a list of local eateries before the conference.
 
 {% endif %}
 
@@ -141,7 +141,7 @@ and bring your favorite beverage to your computer :)
 
 {% if flaghasfood %}
 
-*Snacks and drinks will be provided, but meals will be found in the local neighbhorhood.*
+* Snacks and drinks will be provided, but not breakfast or lunch. We'll provide a list of local eateries before the conference.
 
 {% endif %}
 
