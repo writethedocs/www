@@ -13,7 +13,7 @@ Read on to learn more about the goals of the conference and what we look for in 
 {% if flagcfp %}
 In the meantime, mark your calendars:
 
-**The deadline for submitting proposals is Midnight {{tz}} on {{cfp.ends}}.**
+**The deadline for submitting proposals is midnight {{tz}} on {{cfp.ends}}.**
 
 We'll let you know if your proposal has been accepted by the end of {{cfp.notification}}.
 {% else %}
