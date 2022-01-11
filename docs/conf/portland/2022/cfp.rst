@@ -3,7 +3,7 @@
 Call for Proposals
 ==================
 
-Hello hello, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{ city }} conference, coming up on {{date.main}}. We're running a `hybrid conference <https://www.writethedocs.org/conf/portland/2022/news/welcome/>`__ this year, so you can speak or attend from anywhere, but folks will also be there in person in {{ city }}. We will use regular {{ city }} conference times for the scheduling.
+Hello hello, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{ city }} conference, coming up on {{date.main}}. We're running a `hybrid conference <https://www.writethedocs.org/conf/portland/2022/news/welcome/>`__ this year, so you can speak or attend from anywhere, but folks will also be there in person in {{ city }}. Schedules will be in {{ tz }}.
 
     For speakers, this means you'll be writing and recording your talk *before the event*, the same as for our virtual conference. Our video producer will be available to help with recording if you want it. We're working on the exact details of a moderated remote live Q&A after your talk.
 
