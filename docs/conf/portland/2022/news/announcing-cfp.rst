@@ -17,18 +17,19 @@ Call for Proposals
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
 
-**All talks will be pre-recorded and you can present and attend from anywhere!** This year we are holding a hybrid event, and in order to maintain accessibility for folks who are unable to travel, we are going to broadcast the talks both on the stage in the venue and in Hopin, our virtual conference program.
+**All talks will be pre-recorded allowing you to present and attend from anywhere!** This year we are holding a hybrid event, and in order to maintain accessibility for folks who are unable to travel, we are going to broadcast the talks both on the stage in the venue and in Hopin, our virtual conference program.
 
 You can read our full `Call for Proposals <https://www.writethedocs.org/conf/portland/{{year}}/cfp/>`__ on the website.
 
-The Call for Proposals will be open until **Midnight {{cfp.ends}} PST**.
+The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**.
 
 Tickets
 -------
 
 Tickets will officially go on sale towards the end of **January 2021**.
 
-We are working out the final details on the conference format and the different price tiers for in-person and virtual tickets. 
+We are working out the final details on the conference format and the different price tiers for in-person and virtual tickets.
+We expect tickets to be similar to past prices, with virtual tickets similar to our `2021 pricing <https://www.writethedocs.org/conf/portland/2021/tickets/>_, and in-person tickets similar to our `2019 pricing <https://www.writethedocs.org/conf/portland/2019/tickets/>`_. 
 
 As always, we keep ticket prices low so that the event is accessible to the widest range of people possible.
 However, if you can't afford the tickets and still wish to attend, we will launch our grants program soon after opening ticket sales.

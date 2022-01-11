@@ -15,7 +15,7 @@ Introduction
 Welcome to our **2022 Conference Sponsorship Prospectus**.
 This document has been adapted for our hybrid conference format,
 including new benefits and increased value across our community.
-Our new hybrid format has brought many questions,
+Our new hybrid format has brought on many questions,
 and we're working to create innovative solutions where possible.
 
 We're excited to work with the organizations in our community to build the best possible event in {{ year }}.
@@ -208,7 +208,7 @@ You can also offer attendees a link to your website or a way to register interes
 Writing day
 ~~~~~~~~~~~
 
-On Sunday we hold our Writing Day.
+We're still working out the details for the Writing Day, we will update this page when we know the schedule and details.
 This is a place where the community gathers to get actual work done.
 This generally involved communities and organizations hosting a documentation sprint on some piece of documentation that is open source and needs improvements.
 
