@@ -29,7 +29,7 @@ Tickets
 Tickets will officially go on sale towards the end of **January 2021**.
 
 We are working out the final details on the conference format and the different price tiers for in-person and virtual tickets.
-We expect tickets to be similar to past prices, with virtual tickets similar to our `2021 pricing <https://www.writethedocs.org/conf/portland/2021/tickets/>_, and in-person tickets similar to our `2019 pricing <https://www.writethedocs.org/conf/portland/2019/tickets/>`_. 
+We expect tickets to be similar to past prices, with virtual tickets similar to our `2021 pricing <https://www.writethedocs.org/conf/portland/2021/tickets/>`_, and in-person tickets similar to our `2019 pricing <https://www.writethedocs.org/conf/portland/2019/tickets/>`_. 
 
 As always, we keep ticket prices low so that the event is accessible to the widest range of people possible.
 However, if you can't afford the tickets and still wish to attend, we will launch our grants program soon after opening ticket sales.
