@@ -8,6 +8,7 @@ You can see them below:
    :caption: Survey Results
    :maxdepth: 1
 
+   salary-survey/2021
    salary-survey/2020
    salary-survey/2019
 
