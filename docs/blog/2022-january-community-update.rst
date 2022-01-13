@@ -69,7 +69,7 @@ All talks will be pre-recorded, so you can speak from anywhere again this year!
 
 **Submit your talk proposals by February 15th**,
 If you need feedback or help with your talk proposal,
-some of our meetups are hosting a proposal workshop which will be announced soon.
+we will be having a `virtual talk prep meetup <https://www.meetup.com/virtual-write-the-docs-west-coast-quorum>`_ on **February 3**.
 
 From our sponsor
 ----------------
