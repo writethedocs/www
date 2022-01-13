@@ -10,7 +10,7 @@ I'm here with the traditional January community update replacement to the newsle
 It's a short one this year.
 
 New hybrid conference format
-----------------------
+----------------------------
 
 Thanks to everyone who attended our virtual events in 2021.
 We had record attendance in Portland and Prague, and the 
