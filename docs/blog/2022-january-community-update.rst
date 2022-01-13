@@ -6,27 +6,26 @@ Write the Docs Community Kickoff - January 2022
 ===============================================
 
 Hey folks, Eric Holscher here, one of the co-founders of Write the Docs.
-This is the January edition of the newsletter,
-which has a community update to give the newsletter team the month off.
-We'll keep it a bit shorter this year,
-but did want to update you on the community overall.
+I'm here with the traditional January community update replacement to the newsletter. 
+It's a short one this year.
 
 New hybrid conference format
 ----------------------
 
 Thanks to everyone who attended our virtual events in 2021.
-We had record attendance in Portland and Prague this year,
-and took a well-deserved break in Australia to let the community there have a rest.
+We had record attendance in Portland and Prague, and the 
+Australian team took a well-deserved break.
 We continue to appreciate the warmth and spirit that you bring to our virtual events,
 and look forward to more of it in 2022.
 
-Our goal this year is to tentatively, and safely, come back to the in-person realm with our conferences.
-We're working to do this without losing the accessibility of the virtual events.
-Managing in-person and virtual is going to be a learning experience,
-but we think it will be worth it.
+Our goal this year is to tentatively, and safely, bring our conferences back to 
+the in-person realm while keeping the improved accessibility provided by the
+virtual events.
+Managing hybrid in-person *and* virtual conferences is going to be a huge 
+learning experience, but we think it will be worth it.
 
 We hope that you'll work with us to make all of our events special by submitting talks,
-and showing up with enthusiasm and warmth.
+and showing up with your usual enthusiasm and warmth.
 Hopefully your `Pac-Man skills <https://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/>`_ haven't gotten too rusty :)
 
 Overall community goals
@@ -54,7 +53,7 @@ I'd like to share a few pieces of anonymous feedback that show the value of this
 
 We are still working to build more engagement with our `Write the Docs Enhancement Proposal (WEP)`_ process.
 Having our community governance more formalized (and documented) is one of our continuing goals,
-and ensuring people have a voice in how the organization is run.
+as is ensuring that people in the community have a voice in how the organization is run.
 
 .. _Write the Docs Enhancement Proposal (WEP): https://www.writethedocs.org/blog/introducing-weps/
 
