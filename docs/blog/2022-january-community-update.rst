@@ -1,4 +1,4 @@
-.. post:: Jan 13, 2022
+.. post:: Jan 17, 2022
    :tags: stats, year in review, newsletter
    :author: Eric Holscher
 
