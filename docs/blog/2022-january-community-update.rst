@@ -45,11 +45,11 @@ Thanks to Kay Smoljak who continues to manage that for us.
 
 I'd like to share a few pieces of anonymous feedback that show the value of this information to our community:
 
-> Thank you for running this survey! I used last year's results, along with some other sources, to request a review of my salary this year. I was promoted and given the biggest pay rise I've ever seen!
+  I was promoted and given the biggest pay rise I've ever seen!
 
-> I appreciate the opportunity to speak about my work conditions, salary, experience, and to see how this fits into the bigger picture around the world. Thank you Write the Docs for making me feel like part of this community! Even as a lone writer, I don’t feel alone. Kind of like I’m in a union!
+  Even as a lone writer, I don’t feel alone. Kind of like I’m in a union!
 
-> Keep doing what you're doing! This survey REALLY helped me feel confident in my ask last year when I was negotiating a raise.
+  This survey REALLY helped me feel confident in my ask last year when I was negotiating a raise.
 
 We are still working to build more engagement with our `Write the Docs Enhancement Proposal (WEP)`_ process.
 Having our community governance more formalized (and documented) is one of our continuing goals,
@@ -62,7 +62,7 @@ Other community updates
 
 We have shared our high-level community stats for the past 5 years,
 and will continue to do it each year going forward.
-You can view our 2020 stats on our blog at :doc:`/blog/write-the-docs-2021-stats`.
+You can view our 2021 stats on our blog at :doc:`/blog/write-the-docs-2021-stats`.
 
 We're are now accepting `talk proposals <https://www.writethedocs.org/conf/portland/2022/cfp/>`_ for our Portland conference, May 22-24.
 All talks will be pre-recorded, so you can speak from anywhere again this year!
@@ -70,6 +70,7 @@ All talks will be pre-recorded, so you can speak from anywhere again this year!
 **Submit your talk proposals by February 15th**,
 If you need feedback or help with your talk proposal,
 we will be having a `virtual talk prep meetup <https://www.meetup.com/virtual-write-the-docs-west-coast-quorum>`_ on **February 3**.
+The meetup will be announced soon, so follow that group or the ``#meetups`` channel in Slack.
 
 From our sponsor
 ----------------
