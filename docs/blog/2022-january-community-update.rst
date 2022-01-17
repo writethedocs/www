@@ -45,11 +45,11 @@ Thanks to Kay Smoljak who continues to manage that for us.
 
 I'd like to share a few pieces of anonymous feedback that show the value of this information to our community:
 
+  This survey really helped me feel confident in my ask last year when I was negotiating a raise.
+
   I was promoted and given the biggest pay rise I've ever seen!
 
   Even as a lone writer, I don’t feel alone. Kind of like I’m in a union!
-
-  This survey REALLY helped me feel confident in my ask last year when I was negotiating a raise.
 
 We are still working to build more engagement with our `Write the Docs Enhancement Proposal (WEP)`_ process.
 Having our community governance more formalized (and documented) is one of our continuing goals,
