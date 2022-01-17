@@ -27,16 +27,24 @@ Feel free to send a Pull Request to update `this page`_, if you want to include 
 Slack History
 -------------
 
-We don't pay for our Slack, which means that the community has access to only the most
-recent 10,000 messages. Paying for Slack is prohibitively expensive for a community
-like ours, but many people seem to feel a freedom in knowing that their words will disappear shortly.
+We don't pay for our Slack, which means that the community has access to only the most recent 10,000 messages.
+Paying for Slack is prohibitively expensive for a community like ours,
+but many people seem to feel a freedom in knowing that their words will disappear shortly.
 We understand that not everyone loves this decision,
-but it's the way things are currently set up and we don't plan to change it in the near future. 
+but it's the way things are currently set up
+and we don't plan to change it in the near future.
 
-That doesn't mean everything gets lost, though - you can always react to a message with the 
-``:suggest-for-newsletter:`` emoji to nominate it for inclusion in our next monthly newsletter. 
-Read the newsletter archives at :doc:`/newsletter` and subscribe if you want them directly in your inbox! 
+That doesn't mean everything gets lost, though.
+Here are a few ways to preserve what you've learned for yourself and others:
 
+- React to a message with ``:suggest-for-newsletter:`` emoji to nominate it for inclusion in our next monthly newsletter.
+  Read the newsletter archives at :doc:`/newsletter/` and subscribe if you want them directly in your inbox!
+- Contribute a summary to one of the Write the Docs site's :doc:`/about/learning-resources`.
+- Turn a discussion into a talk proposal for :doc:`an upcoming Write the Docs conference </conf/index>`.
+- `Save a message`__ privately in Slack.
+- Recap what you learned and share it on your own site or social media accounts. Don't forget to tag `#writethedocs`!
+
+.. __: https://slack.com/intl/en-gb/help/articles/360042650274-Save-messages-and-files-
 
 Autoresponders
 --------------
