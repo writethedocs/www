@@ -111,6 +111,8 @@ Featured job posts
   Remote, full-time
 * `Technical Writer <https://jobs.writethedocs.org/job/559/technical-writer/>`__, Tecton
   Remote (San Francisco, CA, USA), full-time
+* `Technical Writer  <https://jobs.writethedocs.org/job/570/technical-writer/>`__, Corrily
+  Remote, part-time
 
 *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
