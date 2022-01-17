@@ -28,11 +28,6 @@ Slack History
 -------------
 
 We don't pay for our Slack, which means that the community has access to only the most recent 10,000 messages.
-Paying for Slack is prohibitively expensive for a community like ours,
-but many people seem to feel a freedom in knowing that their words will disappear shortly.
-We understand that not everyone loves this decision,
-but we don't plan to change it in the foreseeable future.
-
 That doesn't mean everything gets lost, though.
 Here are a few ways to preserve what you've learned for yourself and others:
 
@@ -44,6 +39,14 @@ Here are a few ways to preserve what you've learned for yourself and others:
 - Recap what you learned and share it on your own site or social media accounts. Don't forget to tag `#writethedocs`!
 
 .. __: https://slack.com/intl/en-gb/help/articles/360042650274-Save-messages-and-files-
+
+.. note::
+
+   Why don't we pay for Slack?
+   The Write the Docs Slack community is free-to-access and we aim to keep it that way.
+   A Slack subscription is prohibitively expensive for a community like ours.
+   Even if we had such resources, upgrading Slack is not a priority
+   and many people feel a freedom in knowing that their words will disappear shortly.
 
 Autoresponders
 --------------
