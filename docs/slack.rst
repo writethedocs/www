@@ -31,8 +31,7 @@ We don't pay for our Slack, which means that the community has access to only th
 Paying for Slack is prohibitively expensive for a community like ours,
 but many people seem to feel a freedom in knowing that their words will disappear shortly.
 We understand that not everyone loves this decision,
-but it's the way things are currently set up
-and we don't plan to change it in the near future.
+but we don't plan to change it in the foreseeable future.
 
 That doesn't mean everything gets lost, though.
 Here are a few ways to preserve what you've learned for yourself and others:
