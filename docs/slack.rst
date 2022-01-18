@@ -40,11 +40,11 @@ Here are a few ways to preserve what you've learned for yourself and others:
 
 .. __: https://slack.com/intl/en-gb/help/articles/360042650274-Save-messages-and-files-
 
-.. note::
+.. admonition:: Why we don't pay for Slack
+   :class: note
 
-   Why don't we pay for Slack?
    The Write the Docs Slack community is free-to-access and we aim to keep it that way.
-   A Slack subscription is prohibitively expensive for a community like ours.
+   A Slack subscription is prohibitively expensive—over $10,000 per month—for a community like ours.
    Even if we had such resources, upgrading Slack is not a priority
    and many people feel a freedom in knowing that their words will disappear shortly.
 
