@@ -12,13 +12,14 @@ Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel.
 Current Book Club
 -----------------
 
-On hiatus until January 2022.
+Our next book club starts the week of February 14, 2022.
 
 Upcoming Book Clubs
 ---------------------
 
-* January - March 2022: `Strategic Writing for UX <https://torreypodmajersky.com/strategic-writing-for-ux/>`_
-* TBD: `Docs for Developers <https://docsfordevelopers.com/>`_
+* February - April 2022: `Docs for Developers <https://docsfordevelopers.com/>`_
+* TBD: `Strategic Writing for UX <https://torreypodmajersky.com/strategic-writing-for-ux/>`_
+
 
 Previous Book club reads
 ------------------------
