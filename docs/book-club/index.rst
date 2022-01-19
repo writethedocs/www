@@ -12,11 +12,19 @@ Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel.
 Current Book Club
 -----------------
 
-* September - November 2021: `The Organised Writer <http://organised-writer.com/>`_
+Our next book club starts the week of February 14, 2022.
+
+Upcoming Book Clubs
+---------------------
+
+* February - April 2022: `Docs for Developers <https://docsfordevelopers.com/>`_
+* TBD: `Strategic Writing for UX <https://torreypodmajersky.com/strategic-writing-for-ux/>`_
+
 
 Previous Book club reads
 ------------------------
 
+* September - November 2021: `The Organised Writer <http://organised-writer.com/>`_
 * June - July 2021: `Letting Go of the Words <https://redish.net/books/letting-go-of-the-words/>`_
 * January - March 2021: `Managing Writers <https://www.amazon.com/gp/product/0982219105>`_
 * October - November 2020: `Docs Like Code <https://www.docslikecode.com/>`_

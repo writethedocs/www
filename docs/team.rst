@@ -52,11 +52,11 @@ Roles
 Members
 ```````
 
-* `Eric Holscher <https://twitter.com/ericholscher>`_ ``@ericholscher`` *
-* `Janine Chan <https://www.linkedin.com/in/janinechan/>`_ ``@janine``
+* `Janine Chan <https://www.linkedin.com/in/janinechan/>`_ ``@janine`` *
 * `Daniel Beck <https://twitter.com/ddbeck>`_ ``@ddbeck``
 * `Samuel Wright <https://twitter.com/plaindocs>`_ ``@plaindocs``
-* You?
+* `Ravind Kumar <https://www.linkedin.com/in/ravind-kumar-b4813650/>`_ ``@ravindk-minio``
+* `Eric Holscher <https://twitter.com/ericholscher>`_ ``@ericholscher``
 
 
 Meetup Coordination Team
@@ -102,6 +102,8 @@ Responsibilities
 * Round up any Write the Docs events or meetups for the upcoming month
 * Assemble and publish the monthly newsletter to the mailing list and `the website <https://www.writethedocs.org/blog/archive/tag/newsletter/>`_
 
+The full description of the :doc:`newsletter process </organizer-guide/newsletter/newsletter-process>` is available in our Organizer Guide.
+
 Members
 ```````
 
@@ -109,8 +111,7 @@ Members
 * `Hillary Fraley <https://github.com/hillaryfraley>`_
 * `Jennifer Rondeau <https://twitter.com/bradamante>`_
 * `Claire Lundeby <https://twitter.com/clairelundeby>`_
-* `Elle Jones <https://twitter.com/party_parrot18>`_
-* `Kyla del Rosario <https://kyladelrosario.com/>`_
+* Royce Cook
 * Volunteers welcome!
 
 
