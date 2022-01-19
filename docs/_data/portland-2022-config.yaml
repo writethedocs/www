@@ -19,6 +19,8 @@ buttons:
   top:
     - text: Welcome to our conference
       link: /news/welcome
+    - text: Submit a Talk
+      link: /cfp
     # - text: Sponsor us
     #   link: /sponsors/prospectus
     # - text: Date and ticket information
@@ -29,8 +31,6 @@ buttons:
     #   link: /schedule
     # - text: Buy a Ticket!
     #   link: /tickets
-    #- text: Submit a Talk
-    #  link: /cfp
     #- text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
@@ -77,11 +77,11 @@ tickets:
 
 sponsorship:
   second_draft:
-    price: $2,000
+    price: $2,500
   publisher:
-    price: $4,000
+    price: $5,000
   patron:
-    price: $8,500
+    price: $9,500
   keystone:
     price: $15,000
 
@@ -157,13 +157,16 @@ about:
   job_fair_room: "TBD"
 
 cfp:
-  url: https://pretalx.com/write-the-docs-portland-2022/cfp
-  ends: "February 1, 2022"          # 2 weeks to review and get confirmnations
-  notification: "February 15, 2022" # leaves 6 weeks to write and record
-  video_by: "March 31, 2022"        # 3 weeks before the conf
+  url: https://pretalx.com/wtd-portland-2022/cfp
+  ends: "February 15, 2022"          # 2 weeks to review and get confirmnations
+  notification: "March 1, 2022"      # 8 weeks to write and record
+  video_by: "May 1, 2022"            # 3 weeks before the conf
 
 unconf:
   url: http://bit.ly/wtd-schedule-pdx-2022
+
+hike:
+  date: Sunday, May 22, 1 PM
 
 sponsors:
   keystone:
@@ -207,7 +210,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: True
 flaghassponsors: False
-flagcfp: False
+flagcfp: True
 flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: False
@@ -220,7 +223,8 @@ flaglivestreaming: False
 flagpostconf: False
 
 # Truthy things that don't change
-flaghashike: False
+flaghashike: True
+flaghasfood: True
 flaghasboat: False
 flaghaswritingday: False
 flaghasjobfair: False
