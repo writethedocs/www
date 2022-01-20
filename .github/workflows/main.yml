@@ -24,7 +24,7 @@ jobs:
         with:
           files: docs/
 
-  vale-runner:
+  vale-runner-newsletter:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
