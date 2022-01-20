@@ -182,6 +182,11 @@ No sales-y content
 
 If you see a message in a public channel that looks like spam, you can react to it with the ``:spam:`` reactji to bring the moderators' attention to it.
 
+Avoid Microagressions
+~~~~~~~~~~~~~~~~~~~~~
+
+We recommend reading this `Microaggressions:  Making space for everybody <https://www.metafilter.com/microaggressions.mefi>`_ article that goes over how to avoid microaggressions when dealing with people in our community.
+
 Reporting Issues
 ~~~~~~~~~~~~~~~~
 
