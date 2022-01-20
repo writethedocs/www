@@ -24,6 +24,18 @@ jobs:
         with:
           files: docs/
 
+  vale-runner:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Vale Linter
+        uses: errata-ai/vale-action@v1.3.0
+        with:
+          files: docs/blog/
+    with:
+      onlyAnnotateModifiedLines: true
+
   yaml-validate:
     runs-on: ubuntu-latest
 
