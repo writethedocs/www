@@ -1,4 +1,4 @@
-Sphinx==4.3.2
+Sphinx==4.4.0
 recommonmark==0.7.1
 ablog==0.10.6  # pyup: ignore
 sphinx_autobuild==2021.3.14
@@ -10,10 +10,10 @@ yamllint==1.26.3
 pathlib==1.0.1
 sphinxcontrib.datatemplates==0.9.1
 meetup-api==0.1.1
-urllib3[secure]==1.26.7
+urllib3[secure]==1.26.8
 yamale==4.0.2
 markdown==3.3.6
-ruamel.yaml==0.17.19
+ruamel.yaml==0.17.20
 lxml==4.7.1
 # For emoji
 sphinxemoji==0.2.0
