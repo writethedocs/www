@@ -20,7 +20,7 @@ Feel free to send a Pull Request to update `this page`_, if you want to include 
     If you think these may be unpleasant for you, you can `disable all animations`_
     in your Slack client.
 
-.. _join our slack: https://join.slack.com/t/writethedocs/shared_invite/zt-tfokbfyb-4Yxwk8oTZGAQDHmITJGQyQ
+.. _join our slack: https://join.slack.com/t/writethedocs/shared_invite/zt-12k7dh46o-eNMS1sHejK2OiiBfnBf6hw
 .. _this page: https://github.com/writethedocs/www/blob/master/docs/slack.rst
 .. _disable all animations: https://get.slack.help/hc/en-us/articles/228023907-Manage-animated-images-and-emoji
 
