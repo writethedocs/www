@@ -50,7 +50,7 @@ I'd like to focus on four major areas where our decision was based:
 * Mental Health
 * Organizational Health
 
-The biggest worry that we have when orgnizing the conference is a COVID outbreak.
+The biggest worry that we have when organizing the conference is a COVID outbreak.
 We were already planning a number of mitigations,
 but this risk is always present whenever we gather in a large group.
 Omicron has lead to the highest case counts in the USA,
@@ -61,7 +61,7 @@ We discussed at length,
 but we couldn't find a good way to integrate in-person and virtual attendees.
 We figured out a way to handle it for talks,
 but things like the job fair, and unconference don't lend themselves to mixing between in-person and virtual.
-The biggest requirement to do this effectively is realiable in-person WiFi,
+The biggest requirement to do this effectively is reliable in-person WiFi,
 which has *always* proven to be difficult in the past.
 We think it is perhaps possible to integrate the two spaces well in the future,
 but we weren't able to commit to it this year.
@@ -75,7 +75,7 @@ without adding the stress of COVID-related disruptions or sickness on top.
 
 The other major consideration is the health of Write the Docs.
 Reserving a venue and committing to an in-person event adds a large amount of financial risk to the organization.
-We are unsure of what attendence or sposnorship for the in-person event would look like,
+We are unsure of what attendance or sponsorship for the in-person event would look like,
 and having to cancel the event would be quite a hit to the organization.
 
 Once we thought more deeply about our options to move forward,
