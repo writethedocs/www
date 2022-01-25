@@ -129,7 +129,7 @@ date: # how do we handle these? human readable would be nice.
   day_three:
     event: Conference Day 2
     date: May 24
-    summary: And the conference goes on! We are already starting to miss you.
+    summary: And the conference goes on! Today includes the Job Fair alongside the unconference. We are already starting to miss you.
     icon: conversation
     dotw: Tuesday
     talk_time: 9am-4pm
