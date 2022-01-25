@@ -42,7 +42,7 @@ so attendees don't feel rushed going from the main stage to the Q&A after every 
 
 Now that we have made this decision,
 we are moving on to the other tasks of launching the conference.
-We expect the full conference website, ticket sales in the next couple weeks.
+We expect the full conference website and ticket sales to be launched in the next couple weeks.
 The `sponsorship prospectus <https://www.writethedocs.org/conf/portland/2022/sponsors/prospectus/>`_ is now available as well.
 
 Reasons for going virtual
