@@ -4,7 +4,7 @@
    :tags: {{shortcode}}-{{year}}, virtual
 
 The Portland conference is going back to virtual
-===============================
+================================================
 
 We won't bury the lede on the announcement today:
 
@@ -12,7 +12,7 @@ We won't bury the lede on the announcement today:
 
 We make this very difficult decision with the understanding that it will disappoint some of you.
 We also make this decision with the knowledge that it will relieve some of you from stress or anxiety.
-I will explain a bit more below the reasoning for this decision,
+We'll explain a bit more below the reasoning for this decision,
 but the high-level issues are:
 
 * **After talking with our vendors and staff, we determined we couldn't produce the quality of event that our attendees expect if we run a hybrid event.**
@@ -40,15 +40,20 @@ We're excited to experiment and improve on our existing format as well.
 One change we're considering is doing scheduled Q&A blocks with 2 speakers,
 so attendees don't feel rushed going from the main stage to the Q&A after every talk.
 
+Now that we have made this decision,
+we are moving on to the other tasks of launching the conference.
+We expect the full conference website, ticket sales in the next couple weeks.
+The `sponsorship prospectus <https://www.writethedocs.org/conf/portland/2022/sponsors/prospectus/>`_ is now available as well.
+
 Reasons for going virtual
 -------------------------
 
-I'd like to focus on the four major areas that formed the basis of our decision:
+There are four major areas that formed the basis of our decision:
 
-* Physical Health
+* Physical health
 * Event success
-* Mental Health
-* Organizational Health
+* Mental health
+* Organizational sustainability
 
 The biggest worry that we have when organizing the conference is a COVID outbreak.
 We were already planning a number of mitigations,
@@ -83,16 +88,24 @@ keeping the event virtual for one more year seemed like the most prudent course 
 We know that we can produce a great virtual event for our attendees,
 and now we don't have to worry nearly as much about COVID-related risks.
 
+Sponsor the conference
+----------------------
+
+Now that we have firmed up the format for the event,
+we have also launched our `sponsorship prospectus <https://www.writethedocs.org/conf/portland/2022/sponsors/prospectus/>`_.
+We are excited to continue offering a similar sponsorship experience,
+including the Job Fair this year.
+
 Stay Updated
 ------------
 
 Want to find out what's happening with the conference, or enjoy our monthly global community newsletter?
 Sign up to one or more of our `mailing lists <http://eepurl.com/cdWqc5>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
 
-Want to connect with other documentarians in real-time? Join our `Slack <http://slack.writethedocs.org/>`_.
+Want to connect with other documentarians in real-time? Join our :doc:`/slack`.
 
 Thanks
 ------
 
-We hope you will join us online for yet another Write the Docs conference.
+We hope you will join us online for another Write the Docs conference.
 Whether as a speaker or attendee, you can bet it will be another delightful year.
