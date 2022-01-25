@@ -109,7 +109,7 @@ date: # how do we handle these? human readable would be nice.
 
   # These are listed in the schedule
   day_one:
-    event: TBD
+    event: Writing Day
     date: May 22
     summary: Join us for the Writing Day. The first official day of the conference is full of chances to interact with other documentarians.
     icon: writing
