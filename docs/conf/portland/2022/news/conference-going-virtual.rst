@@ -3,24 +3,24 @@
 .. post:: Jan 26, 2022
    :tags: {{shortcode}}-{{year}}, virtual
 
-Conference will be only virtual
+The Portland conference is going back to virtual
 ===============================
 
 We won't bury the lede on the announcement today:
 
-   The Portland 2022 conference held on May 23-25 will be fully virtual.
+   The Portland 2022 conference held on May 22-24 will be fully virtual again.
 
-We make this decision with the understanding that it will disappoint some of you.
-We also make this decision with the knowledge that it will relieve some of you from anxiety.
+We make this very difficult decision with the understanding that it will disappoint some of you.
+We also make this decision with the knowledge that it will relieve some of you from stress or anxiety.
 I will explain a bit more below the reasoning for this decision,
-but the high-level reasons are:
+but the high-level issues are:
 
-* **After talking with our vendors and staff, we determined we couldn't produce the quality of event that our attendees expect, while doing a hybrid event.**
-* Omicron has changed the risk profile associated with travel & large gatherings, and increased the number of unknown risks that we face as organizers.
+* **After talking with our vendors and staff, we determined we couldn't produce the quality of event that our attendees expect if we run a hybrid event.**
+* Omicron has changed the risk profile associated with travel and large gatherings, and increased the number of unknown risks that we face as organizers.
 
 We are excited about the quality of our previous virtual events,
-and look forward to iterating and improving our event once again this year.
-We are just as excited to be able to gather safely as you are,
+and look forward to iterating on and improving our event once again this year.
+We have been just as excited as you at the prospect of being able to gather safely,
 but we feel the need to hold off for one more year.
 
 We're also looking at the ability for some of our meetups to host watch parties.
@@ -32,18 +32,18 @@ Updated conference details
 
 Our 2022 conference will be structured the same to our previous virtual events:
 
-* Sunday, May 21: Writing Day
-* Monday, May 22: Conference talks, Lightning Talks, Unconference, Social event
-* Tuesday, May 23: Conference talks, Job Fair, Lightning Talks, Unconference
+* Sunday, May 22: Writing Day
+* Monday, May 23: Conference talks, Lightning Talks, Unconference, Social event
+* Tuesday, May 24: Conference talks, Job Fair, Lightning Talks, Unconference
 
 We're excited to experiment and improve on our existing format as well.
 One change we're considering is doing scheduled Q&A blocks with 2 speakers,
-so attendees don't feel rushed going from the main stage to the Q&A from a talk.
+so attendees don't feel rushed going from the main stage to the Q&A after every talk.
 
 Reasons for going virtual
 -------------------------
 
-I'd like to focus on four major areas where our decision was based:
+I'd like to focus on the four major areas that formed the basis of our decision:
 
 * Physical Health
 * Event success
@@ -71,16 +71,16 @@ we realized that our hybrid event would require much more staff.
 We'd effectively be running two conferences at once,
 and each organizer would be able to focus on one event at a time.
 This alone would stretch our existing team to the limit,
-without adding the stress of COVID-related disruptions or sickness on top.
+before you even consider the additional stress of COVID-related disruptions or sickness.
 
-The other major consideration is the health of Write the Docs.
+The other major consideration is the health of Write the Docs as a small community-supported organization.
 Reserving a venue and committing to an in-person event adds a large amount of financial risk to the organization.
 We are unsure of what attendance or sponsorship for the in-person event would look like,
 and having to cancel the event would be quite a hit to the organization.
 
 Once we thought more deeply about our options to move forward,
-moving the event to virtual for this year seemed like the most prudent course of action.
-We know that we can produce a great event for our attendees,
+keeping the event virtual for one more year seemed like the most prudent course of action.
+We know that we can produce a great virtual event for our attendees,
 and now we don't have to worry nearly as much about COVID-related risks.
 
 Stay Updated
