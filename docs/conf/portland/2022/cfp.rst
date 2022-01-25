@@ -3,7 +3,7 @@
 Call for Proposals
 ==================
 
-**Update:** The conference will now be fully virtual. More information is available in our :doc:`blog post <conf/portland/2022/news/conference-going-virtual>`.
+**Update:** The conference will now be fully virtual. More information is available in our :doc:`blog post </conf/portland/2022/news/conference-going-virtual>`.
 
 Hello hello, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{ city }} conference, coming up on {{date.main}}. We're running a virtual conference this year, so you can speak or attend from anywhere. Schedules will be in {{ tz }}.
 
