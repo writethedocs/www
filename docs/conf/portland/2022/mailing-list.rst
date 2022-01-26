@@ -3,6 +3,9 @@
 Join our mailing list
 =====================
 
+Our mailing lists send out messages 1-2 times a month,
+and your email won't be shared or used for any other purpose.
+
 .. raw :: html
 
     <!-- Begin Mailchimp Signup Form -->

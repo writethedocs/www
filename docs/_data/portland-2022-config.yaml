@@ -17,12 +17,12 @@ photos:
 
 buttons:
   top:
-    - text: Welcome to our conference
-      link: /news/welcome
+    # - text: Welcome to our conference
+    #   link: /news/welcome
+    - text: Sponsor us
+      link: /sponsors/prospectus
     - text: Submit a Talk
       link: /cfp
-    # - text: Sponsor us
-    #   link: /sponsors/prospectus
     # - text: Date and ticket information
     #   link: /news/announcing-virtual-conf-dates-tickets
     # - text: Read our conference guide
@@ -44,10 +44,12 @@ buttons:
     # - text: Watch the videos!
     #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
   bottom:
-    - text: Welcome to our conference
-      link: /news/welcome
-    # - text: Sponsor the conference
-    #   link: /sponsors/prospectus
+    # - text: Welcome to our conference
+    #   link: /news/welcome
+    - text: Sponsor the conference
+      link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
     # - text: See the Schedule!
     #   link: /schedule
     # - text: Date and ticket information
@@ -69,19 +71,19 @@ buttons:
 
 tickets:
   corporate:
-    price: $500
+    price: $200
   independent:
-    price: $275
+    price: $125
   student:
-    price: $100
+    price: $25
 
 sponsorship:
   second_draft:
     price: $2,500
   publisher:
-    price: $5,000
+    price: $4,500
   patron:
-    price: $9,500
+    price: $8,500
   keystone:
     price: $15,000
 
@@ -109,19 +111,12 @@ date: # how do we handle these? human readable would be nice.
 
   # These are listed in the schedule
   day_one:
-    event: TBD
+    event: Writing Day
     date: May 22
-    summary: We're still trying to figure out what the plan is for this day, and will adjust as we get closer to the event.
+    summary: Join us for the Writing Day. The first official day of the conference is full of chances to interact with other documentarians.
     icon: writing
     dotw: Sunday
-  # day_one:
-  #   event: TBD
-  #   date: May 22
-  #   summary: We are still trying to figure out the structure for the first day. It will likely be the hike
-  #   #summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
-  #   icon: writing
-  #   dotw: Sunday
-  #   writing_day_time: 9am-5pm
+    writing_day_time: 9am-5pm
   day_two:
     event: Conference Day 1
     date: May 23
@@ -134,7 +129,7 @@ date: # how do we handle these? human readable would be nice.
   day_three:
     event: Conference Day 2
     date: May 24
-    summary: And the conference goes on! We are already starting to miss you.
+    summary: And the conference goes on! Today includes the Job Fair alongside the unconference. We are already starting to miss you.
     icon: conversation
     dotw: Tuesday
     talk_time: 9am-4pm
@@ -143,18 +138,21 @@ date: # how do we handle these? human readable would be nice.
   total_talk_days: 2
 
 about:
-  attendees: around 350 in-person and more online
+  attendees: 600
   summary:
     "The main presentation track takes place from **May 23-24 (Monday and Tuesday) from 9am to 6pm**.
     During the main event we also run an :doc:`/conf/portland/2022/unconference`."
 
-  social_venue: TBD
-  venue: "TBD"
+  social_venue: Spatial chat platform
+  venue:
+    "Online conference platform"
   photos:
-  mainroom: "TBD"
-  unconfroom: "TBD"
+  mainroom:
+    "Video area"
+  unconfroom:
+    "Chat area"
   projector_ratio: "16:9"
-  job_fair_room: "TBD"
+  job_fair_room: "Sponsor area"
 
 cfp:
   url: https://pretalx.com/wtd-portland-2022/cfp
@@ -185,11 +183,11 @@ sponsors:
     #   link: https://www.twilio.com/
     #   brand: Twilio
   second:
-    # - name: knowledgeowl
-    #   link: https://www.knowledgeowl.com
-    #   brand: KnowledgeOwl
-    #   width: 250px
-    #   text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl​ is looking for more contributors for our ​company blog​. This is an opportunity to write about a topic that interests you and get paid for it :)</p> <p>KnowledgeOwl also sponsors and hosts The Not-Boring Tech Writer podcast. We are always looking for new guests to share their stories, experience, and expertise with the world.</p> <p>Feel free to stop by and ask us more about KnowledgeOwl, these opportunities, or anything else!</p>"
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+      brand: KnowledgeOwl
+      width: 250px
+      text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl​ is looking for more contributors for our ​company blog​. This is an opportunity to write about a topic that interests you and get paid for it :)</p> <p>KnowledgeOwl also sponsors and hosts The Not-Boring Tech Writer podcast. We are always looking for new guests to share their stories, experience, and expertise with the world.</p> <p>Feel free to stop by and ask us more about KnowledgeOwl, these opportunities, or anything else!</p>"
     # - name: mongodb
     #   link: https://www.mongodb.com/
     #   brand: MongoDB
@@ -209,7 +207,7 @@ sponsors:
 
 # Things that change over time, listed in order of change
 flaglanding: True
-flaghassponsors: False
+flaghassponsors: True
 flagcfp: True
 flagticketsonsale: False
 flagsoldout: False
