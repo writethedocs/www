@@ -31,9 +31,6 @@ TBD
 01 - Speaker logistics template
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
-
-
 Subject:
    WTD {{city}} {{year}} -- speaker logistics
 
@@ -43,11 +40,11 @@ Subject:
 
    Just wanted to drop you all a quick note covering some logistics.
 
-   * I've added some questions to our CFP tool (Pretalx) for you about your pronouns, interesting facts and name pronunciation. Please log in at https://pretalx.com/write-the-docs-{{city}}-{{year}}/login/ and answer those (although we'll only need them closer to the event).
+   * I've added some questions to our [CFP tool (Pretalx)]({{cfp.url}}) for you about your pronouns, interesting facts and name pronunciation. Please log in at {{cfp.url}} and answer those (although we'll only need them closer to the event).
 
    * If you haven't done so already, please upload a speaker pic to your Pretalx account, it'll look so much better than the anonymous outline.
 
-   * Private speaker slack channel! If you're not on the slack already, [join the WTD slack](https://join.slack.com/t/writethedocs/shared_invite/enQtNzQ2NzkwODQ3NDkwLWZhY2U4YTg5YjAyODk1NzkxYzI0ZmFjOWMxNWEwOWNjZDE3NDZjMmJiZTlkODc4Y2ZlNjkxNGIyNzMxNDkzZjA). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains all of our past speakers, who will be happy to offer advice or answer questions.
+   * Private speaker slack channel! If you're not on the slack already, [join the WTD slack](https://join.slack.com/t/writethedocs/shared_invite/zt-tfokbfyb-4Yxwk8oTZGAQDHmITJGQyQ). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains all of our past speakers, who will be happy to offer advice or answer questions.
 
    * [Speaker mentoring guidelines](https://www.writethedocs.org/organizer-guide/confs/cfp/#speaker-mentoring) -- let us know if you'd like to talk over your proposal or slide deck with a speaker from a previous year.
 
@@ -71,7 +68,7 @@ Subject:
 
    Here are the important details you've been waiting for! I'll get into specifics below, but first the important ones:
 
-   - [ ] we'd love you to upload your recorded talk by the **3rd of September**, or soon after. If you're likely to need more time, please let me know in advance where possible.
+   - [ ] we'd love you to upload your recorded talk by the **{{ cfp.video_by }}**, or soon after. If you're likely to need more time, please let me know in advance.
    - [ ] we have folks who can help you record online, both in US and EU time zones, if this is of interest just let me know and I'll get a slot booked. [Recording guidelines](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/talk-recording-guidelines/).
    - [ ] as well as the tips in the recording guidelines we've updated the [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) for virtual conferences.
 
@@ -110,9 +107,9 @@ Subject:
 
    We're about five weeks out from the conference now, lots of stuff is happening behind the scenes, and I hope you're feeling good about recording.
 
-   We've got a [provisional schedule](https://writethedocs-www--1577.org.readthedocs.build/conf/prague/2021/schedule/) up, and I'd *love it* if you could check your time-slot and make sure you can do a live Q&A immediately after your talk is streamed. Note that the talk slots include the Q&A time. We'll make that public on **1st September**.
+   We've got a [provisional schedule]({{cfp.preview}})) up, and I'd *love it* if you could check your time-slot and make sure you can do a live Q&A immediately after your talk is streamed. Note that the talk slots include the Q&A time. We'll make that public on **1st September**.
 
-   A few folks asked where to upload talk recordings when you have them (by **3rd September** ish, right?). I linked a temporary google drive in the speaker slack channel, but to avoid having to sign in with a Google account you might find this more convenient:
+   A few folks asked where to upload talk recordings when you have them (by **cfp.video_by** right?):
 
    - [Talk recording upload]({{cfp_variables['upload']}})
 
@@ -120,7 +117,7 @@ Subject:
 
    You might find it useful to check out the [Recording guidelines](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/talk-recording-guidelines/) and [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) for virtual conferences.
 
-   As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. Please upload those to the [Talk recording drive]({{cfp_variables['upload']}}) by **15th of September**.
+   As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. Please upload those to the [Talk recording drive]({{cfp_variables['upload']}}) by **{{cfp.slides_by}}**.
 
    In a few weeks I'll be in touch with some calendar invites for a sound check during the conference, to make sure you're all sorted with Hopin logins, audio and video, and to answer any questions you might have.
 
@@ -136,7 +133,7 @@ Subject:
 Tickets:
    {{cfp_variables['ticket']}}
 Calendly:
-   {cfp_variables['calendly']}}
+   {{cfp_variables['calendly']}}
 
 ----
 
@@ -194,7 +191,7 @@ Subject:
 
    ➡️ [Speaker feedback form]({{cfp_variables['feedback_form']}})
 
-   Finally, as is tradition at our in person events, we'd love to send you a free WTD speaker hoodie and sketchnote print of your talk, please fill in the form before the end of October.
+   Finally, as is tradition at our in person events, we'd love to send you a free WTD speaker hoodie and sketchnote print of your talk, please fill in the form before {{cfp.gifts_by}}.
 
    🎁 [Speaker gift form]({{cfp_variables['speaker_gift']}})
 
