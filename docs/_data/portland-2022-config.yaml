@@ -161,7 +161,7 @@ cfp:
   video_by: "May 1, 2022"            # 3 weeks before the conf
   slides_by: "May 15, 2022"          # 1 week before
   gifts_by: "July 1, 2022"           # 6? weeks after
-  preview: "https://writethedocs-www--1577.org.readthedocs.build/conf/portland/2022/schedule/"
+  preview: "TODO"                    # https://writethedocs-www--1577.org.readthedocs.build/conf/portland/2022/schedule/
 
 
 unconf:

@@ -72,6 +72,7 @@ blog_authors = {
     'Team': ('Write the Docs Team', 'https://www.writethedocs.org/team/'),
     'eric': ('Eric Holscher', 'http://ericholscher.com'),
     'kelly': ("Kelly O'Brien", 'https://twitter.com/OBrienEditorial'),
+
 }
 blog_default_author = 'Team'
 blog_feed_archives = True
@@ -161,6 +162,7 @@ html_context = {
     'website_visits': '30,000',
     'global_sponsors': global_sponsors,
     'cfp_variables': cfp_variables,
+    'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-12k7dh46o-eNMS1sHejK2OiiBfnBf6hw",
 }
 
 if build_videos:

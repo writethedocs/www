@@ -44,7 +44,7 @@ Subject:
 
    * If you haven't done so already, please upload a speaker pic to your Pretalx account, it'll look so much better than the anonymous outline.
 
-   * Private speaker slack channel! If you're not on the slack already, [join the WTD slack](https://join.slack.com/t/writethedocs/shared_invite/zt-tfokbfyb-4Yxwk8oTZGAQDHmITJGQyQ). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains all of our past speakers, who will be happy to offer advice or answer questions.
+   * Private speaker slack channel! If you're not on the slack already, [join the WTD slack]({{slack_join}}). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains all of our past speakers, who will be happy to offer advice or answer questions.
 
    * [Speaker mentoring guidelines](https://www.writethedocs.org/organizer-guide/confs/cfp/#speaker-mentoring) -- let us know if you'd like to talk over your proposal or slide deck with a speaker from a previous year.
 
