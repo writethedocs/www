@@ -6,7 +6,7 @@ Speaker email templates
 
 .. Make this whole file conditional
 
-{% if cfp_variables['print_templates'] %}
+{% if cfp_variables['print_templates'] and not flagpostconf %}
 
 .. contents::
     :local:
@@ -196,6 +196,10 @@ Subject:
    🎁 [Speaker gift form]({{cfp_variables['speaker_gift']}})
 
    Sam
+
+{% elif flagpostconf %}
+
+The conference is over.
 
 {% else %}
 
