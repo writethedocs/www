@@ -172,7 +172,7 @@ Subject:
 Feedback:
    {{cfp_variables['feedback_form']}}
 Gift:
-   {{cfp_variables['speaker_gift']}}
+   {{cfp_variables['speaker_gift_form']}}
 
 ----
 
@@ -193,7 +193,7 @@ Subject:
 
    Finally, as is tradition at our in person events, we'd love to send you a free WTD speaker hoodie and sketchnote print of your talk, please fill in the form before {{cfp.gifts_by}}.
 
-   🎁 [Speaker gift form]({{cfp_variables['speaker_gift']}})
+   🎁 [Speaker gift form]({{cfp_variables['speaker_gift_form']}})
 
    Sam
 
@@ -209,6 +209,6 @@ Populate the CFP environment variables to see the email templates.::
    export WTD_CFP_SPEAKER_TICKET='TODO'
    export WTD_CFP_CALENDLY='TODO'
    export WTD_CFP_FEEDBACK_FORM='TODO'
-   export WTD_CFP_SPEAKER_GIFT='TODO'
+   export WTD_CFP_SPEAKER_GIFT_FORM='TODO'
 
 {% endif%}
