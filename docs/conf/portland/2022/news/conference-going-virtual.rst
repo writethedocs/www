@@ -65,11 +65,8 @@ The quality of the event was another large factor in our decision.
 We discussed at length,
 but we couldn't find a good way to integrate in-person and virtual attendees.
 We figured out a way to handle it for talks,
-but things like the job fair, and unconference don't lend themselves to mixing between in-person and virtual.
-The biggest requirement to do this effectively is reliable in-person WiFi,
-which has *always* proven to be difficult in the past.
-We think it is perhaps possible to integrate the two spaces well in the future,
-but we weren't able to commit to it this year.
+but had not solved the issue for the job fair and unconference. Hybrid conferences require
+reliable in-person WiFi, which has *always* been a difficult issue in past conferences.
 
 Once we started planning the event,
 we realized that our hybrid event would require much more staff.
