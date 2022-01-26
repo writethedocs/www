@@ -175,7 +175,7 @@ Subject:
 Feedback:
    {{cfp_variables['feedback_form']}}
 Gift:
-   {cfp_variables['speaker_gift']}}
+   {{cfp_variables['speaker_gift']}}
 
 ----
 
