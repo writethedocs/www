@@ -40,13 +40,13 @@ cfp_variables['upload'] = os.environ.get('WTD_CFP_UPLOAD')
 cfp_variables['ticket'] = os.environ.get('WTD_CFP_SPEAKER_TICKET')
 cfp_variables['calendly'] = os.environ.get('WTD_CFP_CALENDLY')
 cfp_variables['feedback_form'] = os.environ.get('WTD_CFP_FEEDBACK_FORM')
-cfp_variables['speaker_gift'] = os.environ.get('WTD_CFP_SPEAKER_GIFT')
+cfp_variables['speaker_gift_form'] = os.environ.get('WTD_CFP_SPEAKER_GIFT_FORM')
 
-if None not in cfp_variables.values():
+if all(cfp_variables.values()):
     print('Private CFP environment variables set. ✅')
     cfp_variables['print_templates'] = True
 else:
-    print('Private CFP environment variables not set. ❌')
+    print('Private CFP environment variables not set, not building CFP email templates.')
 
 # Only build the videos on production, to speed up dev
 on_rtd = str(os.environ.get('READTHEDOCS')).lower() == 'true'
