@@ -199,6 +199,12 @@ Subject:
 
 {% else %}
 
-Populate the CFP environment variables to see the email templates.
+Populate the CFP environment variables to see the email templates.::
+
+   export WTD_CFP_UPLOAD='TODO'
+   export WTD_CFP_SPEAKER_TICKET='TODO'
+   export WTD_CFP_CALENDLY='TODO'
+   export WTD_CFP_FEEDBACK_FORM='TODO'
+   export WTD_CFP_SPEAKER_GIFT='TODO'
 
 {% endif%}
