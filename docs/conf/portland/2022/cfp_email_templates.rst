@@ -31,6 +31,9 @@ TBD
 01 - Speaker logistics template
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+
+
+
 Subject:
    WTD {{city}} {{year}} -- speaker logistics
 
@@ -91,6 +94,11 @@ Subject:
 03 - Provisional schedule template
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Upload:
+   {{cfp_variables['upload']}}
+
+----
+
 Subject:
    WTD {{city}} {{year}} -- schedule and upload drive
 
@@ -108,7 +116,7 @@ Subject:
 
    - [Talk recording upload]({{cfp_variables['upload']}})
 
-   If you'd like help recording that, let me know and I'll book you a slot with our videographer Bart. 
+   If you'd like help recording that, let me know and I'll book you a slot with our videographer Bart.
 
    You might find it useful to check out the [Recording guidelines](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/talk-recording-guidelines/) and [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) for virtual conferences.
 
@@ -124,6 +132,13 @@ Subject:
 
 04 - Hopin URL and calendly invites
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Tickets:
+   {{cfp_variables['ticket']}}
+Calendly:
+   {cfp_variables['calendly']}}
+
+----
 
 Subject:
    WTD {{city}} {{year}} -- hopin and calendly invites
@@ -156,6 +171,13 @@ Subject:
 
 05 - Post conf
 ~~~~~~~~~~~~~~
+
+Feedback:
+   {{cfp_variables['feedback_form']}}
+Gift:
+   {cfp_variables['speaker_gift']}}
+
+----
 
 Subject:
    WTD {{city}} {{year}} -- feedback, hoodies and THANKS
