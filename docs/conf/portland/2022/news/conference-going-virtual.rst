@@ -81,7 +81,7 @@ before you even consider the additional stress of COVID-related disruptions or s
 The other major consideration is the health of Write the Docs as a small community-supported organization.
 Reserving a venue and committing to an in-person event adds a large amount of financial risk to the organization.
 We are unsure of what attendance or sponsorship for the in-person event would look like,
-and having to cancel the event would be quite a hit to the organization.
+and cancellation fees would affect our financial health.
 
 Once we thought more deeply about our options to move forward,
 keeping the event virtual for one more year seemed like the most prudent course of action.
