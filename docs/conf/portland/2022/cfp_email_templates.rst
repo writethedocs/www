@@ -107,9 +107,9 @@ Subject:
 
    We're about five weeks out from the conference now, lots of stuff is happening behind the scenes, and I hope you're feeling good about recording.
 
-   We've got a [provisional schedule]({{cfp.preview}})) up, and I'd *love it* if you could check your time-slot and make sure you can do a live Q&A immediately after your talk is streamed. Note that the talk slots include the Q&A time. We'll make that public on **1st September**.
+   We've got a [provisional schedule]({{cfp.preview}})) up, and I'd *love it* if you could check your time-slot and make sure you can do a live Q&A immediately after your talk is streamed. Note that the talk slots include the Q&A time. We'll make that public in approximately one week.
 
-   A few folks asked where to upload talk recordings when you have them (by **cfp.video_by** right?):
+   A few folks asked where to upload talk recordings when you have them (by **{{cfp.video_by}}** right?):
 
    - [Talk recording upload]({{cfp_variables['upload']}})
 
