@@ -16,6 +16,14 @@ Speaker email templates
 CFP  - Acceptance template
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Tickets:
+   {{cfp_variables['ticket']}}
+
+--------------------------------------
+
+Subject:
+   WTD {{city}} {{year}} -- talk accepted!
+
 ::
 
    Hi {name},
@@ -24,12 +32,14 @@ CFP  - Acceptance template
 
    Write the Docs {city} is held in **{city} on {date}**.
 
-   We think your '{submission_title}' talk would be a great fit for the conference. We'd love to have you prepare it for a **30-minute** time slot.
+   We think your '{title}' talk would be a great fit for the conference. We'd love to have you prepare it for a **30-minute** time slot.
 
    So, from here, your first step is to reply to this email as soon as possible, to confirm both of the following:
 
    * You're still interested in presenting in {city} on {date}. We'll confirm the specific day and time for your talk at a later date.
    * You'll be attending most of the conference. So much of the value of Write the Docs comes from the community interactions, so it's really important to us that our speakers are around to participate.
+
+   Finally, get your free speaker ticket at: {{cfp_variables['ticket']}} (If you already purchased a ticket, let us know, and we will issue you a refund)
 
    Okay, with all that out of the way, it's time for the fun part – preparing your talk! To make sure everybody's on the same page, here are a few important things to keep in mind:
 
@@ -38,6 +48,8 @@ CFP  - Acceptance template
    * If you would be interested in having another member of the Write the Docs community mentor you through the talk preparation process, please tell us! We'll do our best to connect you with someone to bounce ideas off, to review drafts, and to help you refine your talk before the conference.
    * Make sure you plan your talk to fit in the allotted time. Also, note that we will not be pausing for questions after your presentation. Instead, we encourage attendees to chat with our speakers during the breaks, or in our unconference space.
    * Please review our Code of Conduct (http://writethedocs.org/code-of-conduct/) and make sure your talk content adheres to it. As a rule of thumb, if you're on the fence about whether something in your talk could be considered inappropriate or offensive, leave it out. If you have a question about the code, feel free to email us and ask!
+
+   If you're concerned about travel details or expenses, let us know. We have a budget for speaker travel, but it can't cover all our speakers. As we confirm your details, we'll publish your abstract, headshot, and information on the conference site. We'll also be emailing attendees so they can share in our excitement about the talks we'll be presenting this year!
 
    Thanks again for submitting your talk, we look forward to seeing you up on the Write the Docs stage! As you share the good news, remember to tag your posts with #writethedocs. And in the meantime, feel free to email us with any questions, concerns, or ideas.
 
@@ -48,17 +60,18 @@ CFP  - Acceptance template
 CFP - Rejection template
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+Subject:
+   WTD {{city}} {{year}} -- talk decision
+
 ::
 
    Hi {name},
 
-   Thanks so much for submitting a proposal to speak at this year's Write the Docs {city}.
-   Every year we receive a growing number of proposals, and we're always blown away by the amazing breadth of knowledge that our community brings to the table. However, presentation spots are limited, and unfortunately the talk selection committee wasn't able to include your talk in our program this year.
+   Thanks so much for submitting a proposal to speak at this year's Write the Docs {city}. Every year we receive a growing number of proposals, and we're always blown away by the amazing breadth of knowledge that our community brings to the table.  Unfortunately, presentation spots are limited and the talk selection committee wasn't able to include your talk in our program this year.
 
+   During the review process, each member of the review committee considered each proposal carefully and then compared notes to make their final selections. We thought it might be useful to share a couple of the common themes for why talks may not have been included for this year’s event:
 
-   During the review process, each member of the review committee considered each proposal carefully and then compared notes to make their final selections. We thought it might be useful to share a couple of the common themes for why talks may not have been included for this year's event:
-
-   * We had too many good talks. The quality of our submissions gets higher every year, and we always – heart-breakingly – end up having to pass up on some talks that we're really excited by.
+   * We had too many good talks. The quality of our submissions gets higher every year, and we always – heart-breakingly – end up having to pass up on some talks that we’re really excited by. 
    * The subject of the talk was too specific for a larger audience. One of the biggest strengths of the Write the Docs community is that we come from a huge variety of professional and personal backgrounds. The committee looks specifically for talks that appeal to a good mix of our attendees.
    * The subject of the talk was too broad and didn't have a strong enough connection to the core interests of the community.
    * The talk focused heavily on documentation tooling. We think these talks are important, but we tend to showcase higher-level concepts that progress the way we think in the documentation world.
@@ -70,20 +83,25 @@ CFP - Rejection template
 
    The Write the Docs Team
 
+
 CFP - Waitlist template
 ~~~~~~~~~~~~~~~~~~~~~~~
+
+Subject:
+   WTD {{city}} {{year}} -- talk decision
 
 ::
 
    Hi {name},
 
-   Thanks so much for submitting a proposal to speak at this year's Write the Docs {city} conference. Our selection committee has just wrapped up our review, and we had such a hard time choosing from so many awesome proposals. We'd like to ask if you'd be willing to be on the short list of alternates; talks that we'd really like to see, but ran out of room for on the schedule.
+   Thanks so much for submitting a proposal to speak at this year's Write the Docs {city} conference. Our selection committee has just wrapped up our review, and we had such a hard time choosing from so many awesome proposals. We'd like to ask if you'd be willing to be on the short list of alternates – talks that we'd really like to see, but ran out of room for on the schedule.
 
    Basically, what this entails is bearing with us for another week or two, while we get confirmations from our other speakers. If we have a speaker turn us down, their slot is yours! We'll let you know, one way or the other, in the next couple of weeks, so you won't have be in suspense for too long. Please reply as soon as you can and let us know if you'd be willing to stick it out.
 
    Thanks again for your proposal, and either way, we hope to see you at the conference!
 
    The Write the Docs Team
+
 
 01 - Speaker logistics template
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -93,7 +111,7 @@ Subject:
 
 ::
 
-   Hi {name}!
+   Hi folks!
 
    Just wanted to drop you all a quick note covering some logistics.
 
@@ -121,7 +139,7 @@ Subject:
 
 ::
 
-   Hi {name},
+   Hi Folks,
 
    Here are the important details you've been waiting for! I'll get into specifics below, but first the important ones:
 
@@ -158,7 +176,7 @@ Subject:
 
 ::
 
-   Hi {name},
+   Hi Folks,
 
    Hope you're all well!
 
@@ -199,7 +217,7 @@ Subject:
 
 ::
 
-   Hi {name},
+   Hi Folks,
 
    The conference is almost upon us! First off, thank you all so much for all of the hard work you've put into getting the recordings done and uploaded.
 
@@ -207,13 +225,13 @@ Subject:
 
    To that effect, please register your free Hopin speaker ticket so we we can connect the account to your talk:
 
-   * [register your free Hopin speaker ticket]({{cfp_variables['ticket']}})
+   ➡️ [register your free Hopin speaker ticket]({{cfp_variables['ticket']}})
 
    The entire conference is held in Hopin, from writing day on Sunday, all talks, unconference sessions, chat, etc. Only the Monday evening social will be held in Spatial.chat.
 
    I'd also like you to schedule an audio-visual check with me at least **an hour before** your talk. This helps me know you're around 😉 and lets us clear up any audio or visual issues before your Q&A. We recommend you do this even if you're confident about your setup. The audio-visual checks happen in a private Hopin room.
 
-   * [book an audio-visual check]({{cfp_variables['calendly']}})
+   ➡️ [book an audio-visual check]({{cfp_variables['calendly']}})
 
    Remember, all Q&A sessions **start at the end of your recording**, in the Speaker Q&A session (the Monday and Tuesday Q&A sessions have different URLs).
 
