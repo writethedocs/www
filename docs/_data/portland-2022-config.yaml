@@ -211,6 +211,9 @@ sponsors:
     - name: buildkite
       link: https://buildkite.com/
       brand: Buildkite
+    - name: rtd
+      link: https://readthedocs.com/
+      brand: Read the Docs
 
 # Things that change over time, listed in order of change
 flaglanding: True
