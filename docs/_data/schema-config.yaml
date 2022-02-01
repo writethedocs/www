@@ -169,6 +169,9 @@ cfp-details:
   ends: str(required=True)
   notification: str(required=True)
   video_by: str(required=False)
+  slides_by: str(required=False)
+  gifts_by: str(required=False)
+  preview: str(required=False)
 
 grants-details:
   url: str(required=True)
