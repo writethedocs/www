@@ -37,7 +37,7 @@ Following the decision to keep the conference virtual, we are extending the Call
 
 If you already have an idea but you’re having a hard time getting your proposal to come together, you can always ask for feedback on the `Write the Docs Slack <https://www.writethedocs.org/slack/>`_. The community is there to help!
 
-In addition to the online resources, the Write the Docs East Coast Quorom meetup will hold a `Conference Proposal Workshop on February 10th in US Eastern time zone <https://www.meetup.com/virtual-write-the-docs-east-coast-quorum/events/283502054/>`_. Join your fellow documentarians to discuss potential proposals, brainstorm ideas, and get feedback on your proposal before you submit. Big shout-out to Alyssa Rock and the organizers of this Quorom meetup!
+In addition to the online resources, the Write the Docs East Coast Quorum meetup will hold a `Conference Proposal Workshop on February 10th in US Eastern time zone <https://www.meetup.com/virtual-write-the-docs-east-coast-quorum/events/283502054/>`_. Join your fellow documentarians to discuss potential proposals, brainstorm ideas, and get feedback on your proposal before you submit. Big shout-out to Alyssa Rock and the organizers of this Quorum meetup!
 
 After we review all the talk proposals, and will be contacting everyone who submitted a proposal by {{ cfp.notification }}.
 
