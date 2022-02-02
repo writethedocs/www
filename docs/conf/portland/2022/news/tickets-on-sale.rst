@@ -16,21 +16,21 @@ Get your ticket for the conference
 
 **The Portland conference will be held online on {{ date.short }}.** The `full event website <https://www.writethedocs.org/conf/portland/{{year}}/>`_ is live and already includes some preliminary details. We'll be updating it with more information as we get closer to the event. 
 
-If you're excited too, go ahead and `register for your ticket now <https://www.writethedocs.org/conf/portland/{{year}}/tickets/>`_! We aren't sure exactly what capacity we will be able to hold for the virtual event, but we might still sell out to make sure we're providing a manageable event size for our attendees, as always.
+If you're excited too, go ahead and `register for your ticket now <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_! We are still planning to limit capacity of the event to ensure that we have a good experience for everyone, but normally that happens 1-2 weeks before the conference date.
 
 Similar to last year's virtual conference, we're going to keep as much of the spirit of the event as possible:
 
-* Excellent single track of pre-recorded presentations with moderated Q&A for each talk
+* Excellent single track of pre-recorded presentations with moderated Q&A of speakers
 * Writing Day
 * Unconference sessions
 * Job Fair
 * Sponsor booths
 * A virtual hallway track
-* A social event of some kind, bring your own beverage and snacks :)
+* A social event, but you'll need to bring your own beverage and snacks :)
 
-We really want to make sure that folks can get value from being at the event at the same time, and we think it will be another great year of helping our community connect.
+We plan the event to ensure lots of interaction, which is the main reason we're all gathered together, and we think it will be another great year of helping our community connect.
 
-Submit your talk by **February 25th, 2022**
+Submit your talk by **{{ cfp.ends }}**
 --------------------------------------------------
 
 Following the decision to keep the conference virtual, we are extending the Call for Proposals to give folks more time to prepare their proposals. Check out the `Call for Proposals page <https://www.writethedocs.org/conf/portland/{{year}}/cfp/>`_ for more details about what we are looking for.
@@ -44,7 +44,7 @@ After we review all the talk proposals, and will be contacting everyone who subm
 Grant program
 -------------
 
-We updated our grant program application to take into account the virtual format of the event.
+We are continuing our grant program again this year in a similar format. 
 We're excited to be able to offer free tickets to a larger number of people this year, since there are now minimal other costs to attend the event.
 
 You can apply by **{{ grants.ends }}** on `our website <https://www.writethedocs.org/conf/portland/{{year}}/opportunity-grants/>`_.
