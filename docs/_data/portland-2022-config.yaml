@@ -29,8 +29,8 @@ buttons:
     #   link: /welcome-wagon
     # - text: See the Schedule!
     #   link: /schedule
-    # - text: Buy a Ticket!
-    #   link: /tickets
+     - text: Buy a Ticket!
+       link: /tickets
     #- text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
@@ -56,8 +56,8 @@ buttons:
     #   link: /news/announcing-virtual-conf-dates-tickets
     # - text: See the talks!
     #   link: /speakers
-    # - text: Buy a Ticket!
-    #   link: /tickets
+     - text: Buy a Ticket!
+       link: /tickets
 #    - text: Read our guide
 #      link: /welcome-wagon
 #    - text: See the schedule!
@@ -156,8 +156,8 @@ about:
 
 cfp:
   url: https://pretalx.com/wtd-portland-2022/cfp
-  ends: "February 15, 2022"          # 2 weeks to review and get confirmnations
-  notification: "March 1, 2022"      # 8 weeks to write and record
+  ends: "February 25, 2022"          # 2.5 weeks to review and get confirmnations
+  notification: "March 15, 2022"     # 6 weeks to write and record
   video_by: "May 1, 2022"            # 3 weeks before the conf
   slides_by: "May 15, 2022"          # 1 week before
   gifts_by: "July 1, 2022"           # 6? weeks after
@@ -210,15 +210,15 @@ sponsors:
 
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: True
 flagcfp: True
-flagticketsonsale: False
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
 flaghasschedule: False
-flaghasunconf: False
+flaghasunconf: True
 flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
