@@ -29,8 +29,8 @@ buttons:
     #   link: /welcome-wagon
     # - text: See the Schedule!
     #   link: /schedule
-     - text: Buy a Ticket!
-       link: /tickets
+    - text: Buy a Ticket!
+      link: /tickets
     #- text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
@@ -56,8 +56,8 @@ buttons:
     #   link: /news/announcing-virtual-conf-dates-tickets
     # - text: See the talks!
     #   link: /speakers
-     - text: Buy a Ticket!
-       link: /tickets
+    - text: Buy a Ticket!
+      link: /tickets
 #    - text: Read our guide
 #      link: /welcome-wagon
 #    - text: See the schedule!
