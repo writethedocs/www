@@ -207,7 +207,13 @@ sponsors:
     #   brand: Starburst
     #   text: "<p>Starburst is on a mission to modernize data access &amp; analytics. Our company was founded in an unusual way; with customers and revenue from the beginning! Our growth is already ahead of some of the most successful software start-ups, and we don’t plan on slowing down.</p> <p>We believe our opportunity is huge. Every large company in the world suffers from a data silo problem. Traditional data warehouse products approach the problem with old solutions that breed inefficiency and ultimately can’t help business analysts run fast analytics on all their data.</p> <p>Starburst provides a modern solution that addresses these data silo &amp; speed of access problems. Starburst helps enterprises harness the value of open source Trino (formerly PrestoSQL), the fastest distributed query engine available today, by adding the tools and 24x7 support that meet the needs for big data access at scale. Ultimately, Starburst helps organizations run analytics anywhere to make better business decisions.</p>"
   first:
-
+  in_kind:
+    - name: buildkite
+      link: https://buildkite.com/
+      brand: Buildkite
+    - name: readthedocs
+      link: https://readthedocs.com/
+      brand: Read the Docs
 
 # Things that change over time, listed in order of change
 flaglanding: False
