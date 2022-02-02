@@ -211,7 +211,7 @@ sponsors:
     - name: buildkite
       link: https://buildkite.com/
       brand: Buildkite
-    - name: rtd
+    - name: readthedocs
       link: https://readthedocs.com/
       brand: Read the Docs
 
