@@ -3,6 +3,4 @@
 About the Venue
 ===============
 
-Our venue this year will be online!
-We're currently working to figure out the exact platform we'll be using.
-This page will be updated once we figure it out.
+Our virtual venue is Hopin, and it includes spaces to watch talks, participate in sessions, and chat with other documentarians. Check out the :doc:`/conf/{{shortcode}}/{{year}}/welcome-wagon` page for details on how to navigate the platform and get help in case you run into issues. 

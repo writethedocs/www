@@ -10,8 +10,6 @@ Lightning talks allow people to discuss topics that were not covered fully or pa
 Logistics
 ---------
 
-**We're still planning to have plenty of lightning talks in the new online format, and are working on the exact details.**
-
 We have two categories for people who submit talks:
 
 * First-time speakers
