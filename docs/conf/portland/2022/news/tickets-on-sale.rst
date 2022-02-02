@@ -57,7 +57,7 @@ Every year we are fortunate to have the support of like-minded organizations and
 We have published our `virtual sponsorship prospectus`_ for the conference,
 and are open for new sponsorship inquiries.
 
-.. _virtual sponsorship prospectus: https://www.writethedocs.org/conf/portland/2021/sponsors/prospectus/
+.. _virtual sponsorship prospectus: https://www.writethedocs.org/conf/portland/2022/sponsors/prospectus/
 
 We will still run the `job fair <https://www.writethedocs.org/conf/portland/{{year}}/job-fair/>`_, helping documentarians and organizations connect with each other. Check out the sponsorship prospectus for more details and to reserve your spot today.
 
