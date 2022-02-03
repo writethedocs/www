@@ -15,7 +15,7 @@ Schedule
 Your Project Here
 -----------------
 
-Add your project here!
+Add your project via a PR on GitHub or `mailing us <mailto:{{ shortcode }}@writethedocs.org>`_! You can always reach out to us if you have any questions or concerns before signing up.
 
 During the conference
 ---------------------

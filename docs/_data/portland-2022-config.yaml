@@ -104,33 +104,38 @@ date: # how do we handle these? human readable would be nice.
 
   # Conference is special for the index to show the combined conference days
   # conference:
-  #   event: Main Conference
-  #   date: May 23-24
-  #   summary: The main days of the conference. We will be running one main track, and an <a href="/conf/portland/2022/unconference/">Unconference</a>.
-  #   icon: conference
+    # event: Main Conference
+    # date: May 23-24
+    # summary: The main days of the conference. We will be running one main track, and an <a href="/conf/portland/2022/unconference/">Unconference</a>.
+    # icon: conference
 
   # These are listed in the schedule
   day_one:
+    event: Hike
+    date: On your own
+    summary: We encourage you to go on a hike in your own beautiful home town.
+    #summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    icon: hike
+    dotw: Saturday
+  day_two:
     event: Writing Day
     date: May 22
-    summary: Join us for the Writing Day. The first official day of the conference is full of chances to interact with other documentarians.
+    summary: Join us for the <a href="/conf/portland/2022/writing-day/">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
     icon: writing
     dotw: Sunday
     writing_day_time: 9am-5pm
-  day_two:
+  day_three:
     event: Conference Day 1
     date: May 23
-    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks and unconference sessions.
-    icon: conference
+    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Monday
     talk_time: 9am-5pm
     unconference_time: 9:45am-5pm
     social_time: 5pm-7pm
-  day_three:
+  day_four:
     event: Conference Day 2
     date: May 24
-    summary: And the conference goes on! Today includes the Job Fair alongside the unconference. We are already starting to miss you.
-    icon: conversation
+    summary: And the conference goes on! We are already starting to miss you. |:heart:|
     dotw: Tuesday
     talk_time: 9am-4pm
     job_fair_time: 9:45am-12pm
@@ -224,7 +229,7 @@ flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
 flaghasschedule: False
-flaghasunconf: False
+flaghasunconf: True
 flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
@@ -234,6 +239,6 @@ flagpostconf: False
 flaghashike: False
 flaghasfood: False
 flaghasboat: False
-flaghaswritingday: False
-flaghasjobfair: False
+flaghaswritingday: True
+flaghasjobfair: True
 flaghasbadgeflair: False
