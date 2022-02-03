@@ -106,7 +106,7 @@ date: # how do we handle these? human readable would be nice.
   conference:
     event: Main Conference
     date: May 23-24
-    summary: The main days of the conference. We will be running one main track, as well as a <a href="/conf/portland/2022/job-fair/">Job Fair</a> & <a href="/conf/portland/2022/unconference/">Unconference</a>.
+    summary: The main days of the conference. We will be running one main track, as well as a <a href="/conf/portland/2022/job-fair/">Job Fair</a>, <a href="/conf/portland/2022/lighting-talks/">Lighting Talks</a> & <a href="/conf/portland/2022/unconference/">Unconference</a>.
     icon: conference
 
   # These are listed in the schedule
@@ -120,7 +120,7 @@ date: # how do we handle these? human readable would be nice.
   day_two:
     event: Writing Day
     date: May 22
-    summary: Join us for the <a href="/conf/portland/2022/writing-day/">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    summary: Join us for the <a href="/conf/portland/2022/writing-day/">Writing Day</a> and work with fellow documentarians on a project.
     icon: writing
     dotw: Sunday
     writing_day_time: 9am-5pm
