@@ -103,11 +103,11 @@ date: # how do we handle these? human readable would be nice.
   month: May
 
   # Conference is special for the index to show the combined conference days
-  # conference:
-    # event: Main Conference
-    # date: May 23-24
-    # summary: The main days of the conference. We will be running one main track, and an <a href="/conf/portland/2022/unconference/">Unconference</a>.
-    # icon: conference
+  conference:
+    event: Main Conference
+    date: May 23-24
+    summary: The main days of the conference. We will be running one main track, as well as a <a href="/conf/portland/2022/job-fair/">Job Fair</a> & <a href="/conf/portland/2022/unconference/">Unconference</a>.
+    icon: conference
 
   # These are listed in the schedule
   day_one:
@@ -132,6 +132,7 @@ date: # how do we handle these? human readable would be nice.
     talk_time: 9am-5pm
     unconference_time: 9:45am-5pm
     social_time: 5pm-7pm
+    icon: conference
   day_four:
     event: Conference Day 2
     date: May 24
@@ -140,6 +141,7 @@ date: # how do we handle these? human readable would be nice.
     talk_time: 9am-4pm
     job_fair_time: 9:45am-12pm
     unconference_time: 1:35pm-5pm
+    icon: conversation
   total_talk_days: 2
 
 about:
