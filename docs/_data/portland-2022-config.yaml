@@ -231,7 +231,7 @@ flaglivestreaming: False
 flagpostconf: False
 
 # Truthy things that don't change
-flaghashike: True
+flaghashike: False
 flaghasfood: True
 flaghasboat: False
 flaghaswritingday: False
