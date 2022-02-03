@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 
 .. post:: Feb 2, 2022
-:tags: {{shortcode}}-{{year}}, website, cfp, tickets
+   :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Announcing ticket sales, full conference website, and CFP extension
 ===================================================================
