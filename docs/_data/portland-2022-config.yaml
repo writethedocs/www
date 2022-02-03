@@ -140,7 +140,7 @@ date: # how do we handle these? human readable would be nice.
     dotw: Tuesday
     talk_time: 9am-4pm
     job_fair_time: 9:45am-12pm
-    unconference_time: 1:35pm-5pm
+    unconference_time: 1:35pm-4pm
     icon: conversation
   total_talk_days: 2
 
