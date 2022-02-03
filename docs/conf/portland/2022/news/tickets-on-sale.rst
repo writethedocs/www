@@ -1,8 +1,7 @@
 :template: {{year}}/generic.html
 
 .. post:: Feb 2, 2022
-   :tags: portland-2021, tickets
-
+:tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Announcing ticket sales, full conference website, and CFP extension
 ===================================================================

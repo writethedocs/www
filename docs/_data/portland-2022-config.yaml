@@ -29,8 +29,8 @@ buttons:
     #   link: /welcome-wagon
     # - text: See the Schedule!
     #   link: /schedule
-    - text: Buy a Ticket!
-      link: /tickets
+    # - text: Buy a Ticket!
+    #   link: /tickets
     #- text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
@@ -224,7 +224,7 @@ flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
 flaghasschedule: False
-flaghasunconf: True
+flaghasunconf: False
 flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
