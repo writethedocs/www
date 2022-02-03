@@ -232,7 +232,7 @@ flagpostconf: False
 
 # Truthy things that don't change
 flaghashike: False
-flaghasfood: True
+flaghasfood: False
 flaghasboat: False
 flaghaswritingday: False
 flaghasjobfair: False
