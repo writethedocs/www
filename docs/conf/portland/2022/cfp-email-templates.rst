@@ -37,18 +37,18 @@ Subject:
 
    The Write the Docs {{city}} talk selection committee has finished the review process and we'd love it if you could join us as a speaker!
 
-   Write the Docs {{city}} is held **online {date}** in {tz}.
+   Write the Docs {{city}} is held **online {{date.short}}** in {{tz}}.
 
-   We think your talk: '{title}' would be a great fit for the conference. We'd love to have you prepare it for a **30-minute** time slot.
+   We think your talk: '{proposal_title}' would be a great fit for the conference. We'd love to have you prepare it for a **30-minute** time slot.
 
    Please click this link to confirm your attendance:
 
-   * ☐ {confirmation_link}
+   ☐ {confirmation_link}
 
    Please **reply to this email as soon as possible** if you need to let us know either of the following
 
-   * ☐ If you have a strong preference for presenting on Monday or Tuesday, or in the morning or afternoon due to timezones or other restrictions.
-   * ☐ If you already purchased a ticket so we can issue you a refund.
+   ☐ If you have a strong preference for presenting on Monday or Tuesday, or in the morning or afternoon due to timezones or other restrictions.
+   ☐ If you already purchased a ticket so we can issue you a refund.
 
    Okay, with all that out of the way, it's time for the fun part: preparing your talk! To make sure everybody's on the same page, here are a few important things to keep in mind:
 
@@ -124,11 +124,11 @@ Subject:
 
    Just wanted to drop you all a quick note covering some logistics.
 
-   * ☐  I've added some questions to our [CFP tool (Pretalx)]({{cfp.url}}) for you about your pronouns, interesting facts and name pronunciation. Please log in at {{cfp.url}} and answer those (although we'll only need them closer to the event).
+   ☐  I've added some questions to our [CFP tool (Pretalx)]({{cfp.url}}) for you about your pronouns, interesting facts and name pronunciation. Please log in at {{cfp.url}} and answer those (although we'll only need them closer to the event).
 
-   * ☐ If you haven't done so already, please upload a speaker pic to your Pretalx account, it'll look so much better than the anonymous outline.
+   ☐ If you haven't done so already, please upload a speaker pic to your Pretalx account, it'll look so much better than the anonymous outline.
 
-   * ☐ Private speaker slack channel! If you're not on the slack already, [join the WTD slack]({{slack_join}}). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains all of our past speakers, who will be happy to offer advice or answer questions.
+   ☐ Private speaker slack channel! If you're not on the slack already, [join the WTD slack]({{slack_join}}). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains all of our past speakers, who will be happy to offer advice or answer questions.
 
    * [Speaker mentoring guidelines](https://www.writethedocs.org/organizer-guide/confs/cfp/#speaker-mentoring) -- let us know if you'd like to talk over your proposal or slide deck with a speaker from a previous year.
 
@@ -152,9 +152,9 @@ Subject:
 
    Here are the important details you've been waiting for! I'll get into specifics below, but first the important ones:
 
-   * ☐ we'd love you to upload your recorded talk by the **{{ cfp.video_by }}**, or soon after. If you're likely to need more time, please let me know in advance.
-   * ☐  we have folks who can help you record online, both in US and EU time zones, if this is of interest just let me know and I'll get a slot booked. [Recording guidelines](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/talk-recording-guidelines/).
-   * ☐  as well as the tips in the recording guidelines we've updated the [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) for virtual conferences.
+   ☐ we'd love you to upload your recorded talk by the **{{ cfp.video_by }}**, or soon after. If you're likely to need more time, please let me know in advance.
+   ☐  we have folks who can help you record online, both in US and EU time zones, if this is of interest just let me know and I'll get a slot booked. [Recording guidelines](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/talk-recording-guidelines/).
+   ☐  as well as the tips in the recording guidelines we've updated the [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) for virtual conferences.
 
    Now those essentials are covered, a little more info about the event itself:
 
@@ -232,11 +232,11 @@ Subject:
 
    Especially now the recordings are in, all of the hard work is behind you, and you can settle in and enjoy the conference. :-)
 
-   * ☐ Please [register your free Hopin speaker ticket]({{cfp_variables['ticket']}}) so we we can connect the account to your talk:
+   ☐ Please [register your free Hopin speaker ticket]({{cfp_variables['ticket']}}) so we we can connect the account to your talk:
 
       The entire conference is held in Hopin, from writing day on Sunday, all talks, unconference sessions, chat, etc. Only the Monday evening social will be held in Spatial.chat.
 
-   * ☐ Schedule an [audio-visual check]({{cfp_variables['calendly']}}) with me or our AV tech at least **an hour before** your talk
+   ☐ Schedule an [audio-visual check]({{cfp_variables['calendly']}}) with me or our AV tech at least **an hour before** your talk
 
       This helps me know you're around 😉 and lets us clear up any audio or visual issues before your Q&A. We recommend you do this even if you're confident about your setup. The audio-visual checks happen in a private Hopin room.
 
@@ -271,11 +271,11 @@ Subject:
 
    We'd love to know how you found the whole process, from A to Z so we can improve next time. To that end we've got an anonymous (keep in mind that there aren't so many speaks) feedback form for you here:
 
-   * ☐ [Speaker feedback form]({{cfp_variables['feedback_form']}})
+   ☐ [Speaker feedback form]({{cfp_variables['feedback_form']}})
 
    Finally, as is tradition at our in person events, we'd love to send you a free WTD speaker hoodie and sketchnote print of your talk, please fill in the form before {{cfp.gifts_by}}.
 
-   * ☐ [Speaker gift form]({{cfp_variables['speaker_gift_form']}})
+   ☐ [Speaker gift form]({{cfp_variables['speaker_gift_form']}})
 
    The Write the Docs Team
 
