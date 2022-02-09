@@ -17,14 +17,14 @@ This gives speakers plenty of time to book travel, but also keeps the topics fre
 and ensures the speakers are still passionate about them.
 
 After the CFP ends, give reviewers 1 week to review all the talk proposals.
-After this, we will have rate them following the below process, and have the final
+After this, the reviewers rate the proposals following the review guidelines, and hold the final
 group meeting where we talk through the final schedule
 
 How to write a CFP?
 -------------------
 
 Announcing [conf name] Call for Proposals
-   Say hi and don't forget to mention when is the conference and when will close the CFP.
+   Say hi and don't forget to mention when the conference is and when the the CFP will close.
 Conference Goals
    Invite everyone who care about docs to contribute!
 Topic ideas
@@ -33,7 +33,7 @@ Presentation format
    Format is 30 minutes but invite people to contact you if they want to do something longer/shorter.
 Speaker Benefits and Logistics
    Say if you cover ticket, travel cost and lodging for speakers.
-Question?
+Questions?
    How people should contact you.
 Submit a Proposal
    Link or form where people can send their proposal.
@@ -56,7 +56,7 @@ Each member of the review committee will need:
 * (Optional) Review meeting (usually two hours)
 
 Reviewing starts as soon as there are propsals to review, although most proposals usually come in in the last week or so.
-We usually end the Call for Proposals around 8 weeks before conference, aim to hold the review meeting within one week, and give the speakers around a week to confir,
+We usually end the Call for Proposals around 8 weeks before the conference, aim to hold the review meeting within one week, and give the speakers around a week to confirm, then reach out to alternates if needed.
 
 We encourage our reviewers to comment on each proposal as well as rate them, since it makes for a much more productive review meeting.
 

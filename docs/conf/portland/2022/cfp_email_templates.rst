@@ -28,22 +28,22 @@ Subject:
 
    Hi {name},
 
-   The Write the Docs talk selection committee has just wrapped up the review process and we'd love it if you could join us as a speaker!
+   The Write the Docs talk selection committee has finished the review process and we'd love it if you could join us as a speaker!
 
    Write the Docs {city} is held in **{city} on {date}**.
 
-   We think your '{title}' talk would be a great fit for the conference. We'd love to have you prepare it for a **30-minute** time slot.
+   We think your talk: '{title}' would be a great fit for the conference. We'd love to have you prepare it for a **30-minute** time slot.
 
-   So, from here, your first step is to reply to this email as soon as possible, to confirm both of the following:
+  Please **reply to this email as soon as possible**, to confirm both of the following:
 
-   * You're still interested in presenting in {city} on {date}. We'll confirm the specific day and time for your talk at a later date.
+   * You're still interested in presenting for {city} on {date}. We'll confirm the specific day and time for your talk at a later date.
    * You'll be attending most of the conference. So much of the value of Write the Docs comes from the community interactions, so it's really important to us that our speakers are around to participate.
 
    Finally, get your free speaker ticket at: {{cfp_variables['ticket']}} (If you already purchased a ticket, let us know, and we will issue you a refund)
 
    Okay, with all that out of the way, it's time for the fun part – preparing your talk! To make sure everybody's on the same page, here are a few important things to keep in mind:
 
-   * Remember that one of the biggest strengths of the Write the Docs community is that we come from a huge variety of professional and personal backgrounds. When you're writing your talk (just like you're when writing documentation), think about the diverse needs and interests of your audience, avoid (or define) any jargony language, and make sure you clearly express what people are going to learn from your talk.
+   * Remember that one of the biggest strengths of the Write the Docs community is that we come from a huge variety of professional and personal backgrounds. When you're writing your talk (just like when you're writing documentation), think about the diverse needs and interests of your audience, avoid (or define) any jargon-y language, and make sure you clearly express what people are going to learn from your talk.
    * Remember this is a community conference. If you're representing your employer it's okay to mention that, but please don't treat your talk as a marketing opportunity.
    * If you would be interested in having another member of the Write the Docs community mentor you through the talk preparation process, please tell us! We'll do our best to connect you with someone to bounce ideas off, to review drafts, and to help you refine your talk before the conference.
    * Make sure you plan your talk to fit in the allotted time. Also, note that we will not be pausing for questions after your presentation. Instead, we encourage attendees to chat with our speakers during the breaks, or in our unconference space.
