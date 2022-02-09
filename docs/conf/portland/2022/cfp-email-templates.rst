@@ -13,8 +13,15 @@ Speaker email templates
    :depth: 1
    :backlinks: none
 
-CFP  - Acceptance template
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. note:: These templates use the following types of variables:
+
+      * Standard WTD conference variables {% raw %}``{{tz}}``{% endraw %} (which are expanded)
+      * Hidden environment variables {% raw %}``{{cfp_variables['upload']}}``{% endraw %} (which are expanded)
+      * Pretalx variables which are only expanded in Pretalx {% raw %}``{speakers}``{% endraw %}
+
+
+CFP - Acceptance template
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Tickets:
    {{cfp_variables['ticket']}}
@@ -26,22 +33,24 @@ Subject:
 
 ::
 
-   Hi {name},
+   Hi {speakers},
 
-   The Write the Docs talk selection committee has finished the review process and we'd love it if you could join us as a speaker!
+   The Write the Docs {{city}} talk selection committee has finished the review process and we'd love it if you could join us as a speaker!
 
-   Write the Docs {city} is held in **{city} on {date}**.
+   Write the Docs {{city}} is held **online {date}** in {tz}.
 
    We think your talk: '{title}' would be a great fit for the conference. We'd love to have you prepare it for a **30-minute** time slot.
 
-  Please **reply to this email as soon as possible**, to confirm both of the following:
+   Please click this link to confirm your attendance:
 
-   * You're still interested in presenting for {city} on {date}. We'll confirm the specific day and time for your talk at a later date.
-   * You'll be attending most of the conference. So much of the value of Write the Docs comes from the community interactions, so it's really important to us that our speakers are around to participate.
+   * ☐ {confirmation_link}
 
-   Finally, get your free speaker ticket at: {{cfp_variables['ticket']}} (If you already purchased a ticket, let us know, and we will issue you a refund)
+   Please **reply to this email as soon as possible** if you need to let us know either of the following
 
-   Okay, with all that out of the way, it's time for the fun part – preparing your talk! To make sure everybody's on the same page, here are a few important things to keep in mind:
+   * ☐ If you have a strong preference for presenting on Monday or Tuesday, or in the morning or afternoon due to timezones or other restrictions.
+   * ☐ If you already purchased a ticket so we can issue you a refund.
+
+   Okay, with all that out of the way, it's time for the fun part: preparing your talk! To make sure everybody's on the same page, here are a few important things to keep in mind:
 
    * Remember that one of the biggest strengths of the Write the Docs community is that we come from a huge variety of professional and personal backgrounds. When you're writing your talk (just like when you're writing documentation), think about the diverse needs and interests of your audience, avoid (or define) any jargon-y language, and make sure you clearly express what people are going to learn from your talk.
    * Remember this is a community conference. If you're representing your employer it's okay to mention that, but please don't treat your talk as a marketing opportunity.
@@ -49,7 +58,7 @@ Subject:
    * Make sure you plan your talk to fit in the allotted time. Also, note that we will not be pausing for questions after your presentation. Instead, we encourage attendees to chat with our speakers during the breaks, or in our unconference space.
    * Please review our Code of Conduct (http://writethedocs.org/code-of-conduct/) and make sure your talk content adheres to it. As a rule of thumb, if you're on the fence about whether something in your talk could be considered inappropriate or offensive, leave it out. If you have a question about the code, feel free to email us and ask!
 
-   If you're concerned about travel details or expenses, let us know. We have a budget for speaker travel, but it can't cover all our speakers. As we confirm your details, we'll publish your abstract, headshot, and information on the conference site. We'll also be emailing attendees so they can share in our excitement about the talks we'll be presenting this year!
+   If you're concerned about travel details or expenses (or microphones or video cameras), let us know. We have a budget for speaker expenses, but it can't cover all our speakers. As we confirm your details, we'll publish your abstract, headshot, and information on the conference site. We'll also be emailing attendees so they can share in our excitement about the talks we'll be presenting this year!
 
    Thanks again for submitting your talk, we look forward to seeing you up on the Write the Docs stage! As you share the good news, remember to tag your posts with #writethedocs. And in the meantime, feel free to email us with any questions, concerns, or ideas.
 
@@ -65,13 +74,13 @@ Subject:
 
 ::
 
-   Hi {name},
+   Hi {speakers},
 
    Thanks so much for submitting a proposal to speak at this year's Write the Docs {city}. Every year we receive a growing number of proposals, and we're always blown away by the amazing breadth of knowledge that our community brings to the table.  Unfortunately, presentation spots are limited and the talk selection committee wasn't able to include your talk in our program this year.
 
-   During the review process, each member of the review committee considered each proposal carefully and then compared notes to make their final selections. We thought it might be useful to share a couple of the common themes for why talks may not have been included for this year’s event:
+   During the review process, each member of the review committee considered each proposal carefully and then compared notes to make their final selections. We thought it might be useful to share a couple of the common themes for why talks may not have been included for this year's event:
 
-   * We had too many good talks. The quality of our submissions gets higher every year, and we always – heart-breakingly – end up having to pass up on some talks that we’re really excited by. 
+   * We had too many good talks. The quality of our submissions gets higher every year, and we always end up having to pass up on some talks that we're really excited by.
    * The subject of the talk was too specific for a larger audience. One of the biggest strengths of the Write the Docs community is that we come from a huge variety of professional and personal backgrounds. The committee looks specifically for talks that appeal to a good mix of our attendees.
    * The subject of the talk was too broad and didn't have a strong enough connection to the core interests of the community.
    * The talk focused heavily on documentation tooling. We think these talks are important, but we tend to showcase higher-level concepts that progress the way we think in the documentation world.
@@ -79,7 +88,7 @@ Subject:
 
    Keep in mind that we do run several batches of lightning talks that you can sign up for at the event. We also have an unconference space which is a great chance for more informal discussions. We'd love to have you, your ideas, and your passion at the conference--on stage or not, they're what make this event great!
 
-   Thanks again for your proposal. We strongly encourage you to submit again, for future events, and in the meantime we hope to see you in {city}!
+   Thanks again for your proposal. We strongly encourage you to submit again, for future events, and in the meantime we hope to see you in {city} or online!
 
    The Write the Docs Team
 
@@ -92,9 +101,9 @@ Subject:
 
 ::
 
-   Hi {name},
+   Hi {speakers},
 
-   Thanks so much for submitting a proposal to speak at this year's Write the Docs {city} conference. Our selection committee has just wrapped up our review, and we had such a hard time choosing from so many awesome proposals. We'd like to ask if you'd be willing to be on the short list of alternates – talks that we'd really like to see, but ran out of room for on the schedule.
+   Thanks so much for submitting a proposal to speak at this year's Write the Docs {city} conference. Our selection committee has just wrapped up our review, and we had such a hard time choosing from so many awesome proposals. We'd like to ask if you'd be willing to be on the short list of alternate talks that we'd really like to see, but ran out of room for on the schedule.
 
    Basically, what this entails is bearing with us for another week or two, while we get confirmations from our other speakers. If we have a speaker turn us down, their slot is yours! We'll let you know, one way or the other, in the next couple of weeks, so you won't have be in suspense for too long. Please reply as soon as you can and let us know if you'd be willing to stick it out.
 
@@ -111,15 +120,15 @@ Subject:
 
 ::
 
-   Hi folks!
+   Hi {speakers},
 
    Just wanted to drop you all a quick note covering some logistics.
 
-   * I've added some questions to our [CFP tool (Pretalx)]({{cfp.url}}) for you about your pronouns, interesting facts and name pronunciation. Please log in at {{cfp.url}} and answer those (although we'll only need them closer to the event).
+   * ☐  I've added some questions to our [CFP tool (Pretalx)]({{cfp.url}}) for you about your pronouns, interesting facts and name pronunciation. Please log in at {{cfp.url}} and answer those (although we'll only need them closer to the event).
 
-   * If you haven't done so already, please upload a speaker pic to your Pretalx account, it'll look so much better than the anonymous outline.
+   * ☐ If you haven't done so already, please upload a speaker pic to your Pretalx account, it'll look so much better than the anonymous outline.
 
-   * Private speaker slack channel! If you're not on the slack already, [join the WTD slack]({{slack_join}}). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains all of our past speakers, who will be happy to offer advice or answer questions.
+   * ☐ Private speaker slack channel! If you're not on the slack already, [join the WTD slack]({{slack_join}}). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains all of our past speakers, who will be happy to offer advice or answer questions.
 
    * [Speaker mentoring guidelines](https://www.writethedocs.org/organizer-guide/confs/cfp/#speaker-mentoring) -- let us know if you'd like to talk over your proposal or slide deck with a speaker from a previous year.
 
@@ -129,7 +138,7 @@ Subject:
 
    Looking forward to emailing with you all over the coming months.
 
-   Sam
+   The Write the Docs Team
 
 02 - Video recording template
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -139,13 +148,13 @@ Subject:
 
 ::
 
-   Hi Folks,
+   Hi {speakers},
 
    Here are the important details you've been waiting for! I'll get into specifics below, but first the important ones:
 
-   - [ ] we'd love you to upload your recorded talk by the **{{ cfp.video_by }}**, or soon after. If you're likely to need more time, please let me know in advance.
-   - [ ] we have folks who can help you record online, both in US and EU time zones, if this is of interest just let me know and I'll get a slot booked. [Recording guidelines](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/talk-recording-guidelines/).
-   - [ ] as well as the tips in the recording guidelines we've updated the [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) for virtual conferences.
+   * ☐ we'd love you to upload your recorded talk by the **{{ cfp.video_by }}**, or soon after. If you're likely to need more time, please let me know in advance.
+   * ☐  we have folks who can help you record online, both in US and EU time zones, if this is of interest just let me know and I'll get a slot booked. [Recording guidelines](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/talk-recording-guidelines/).
+   * ☐  as well as the tips in the recording guidelines we've updated the [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) for virtual conferences.
 
    Now those essentials are covered, a little more info about the event itself:
 
@@ -161,7 +170,7 @@ Subject:
 
    Please get in touch if I can help with anything, if you have worries, thoughts or ideas.
 
-   Sam
+   The Write the Docs Team
 
 03 - Provisional schedule template
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -176,7 +185,7 @@ Subject:
 
 ::
 
-   Hi Folks,
+   Hi {speakers},
 
    Hope you're all well!
 
@@ -186,7 +195,7 @@ Subject:
 
    A few folks asked where to upload talk recordings when you have them (by **{{cfp.video_by}}** right?):
 
-   - [Talk recording upload]({{cfp_variables['upload']}})
+   * [Talk recording upload]({{cfp_variables['upload']}})
 
    If you'd like help recording that, let me know and I'll book you a slot with our videographer Bart.
 
@@ -200,7 +209,7 @@ Subject:
 
    Please get in touch if I can help with anything, if you have worries, thoughts or ideas.
 
-   Sam
+   The Write the Docs Team
 
 04 - Hopin URL and calendly invites
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -217,21 +226,19 @@ Subject:
 
 ::
 
-   Hi Folks,
+   Hi {speakers},
 
    The conference is almost upon us! First off, thank you all so much for all of the hard work you've put into getting the recordings done and uploaded.
 
    Especially now the recordings are in, all of the hard work is behind you, and you can settle in and enjoy the conference. :-)
 
-   To that effect, please register your free Hopin speaker ticket so we we can connect the account to your talk:
+   * ☐ Please [register your free Hopin speaker ticket]({{cfp_variables['ticket']}}) so we we can connect the account to your talk:
 
-   ➡️ [register your free Hopin speaker ticket]({{cfp_variables['ticket']}})
+      The entire conference is held in Hopin, from writing day on Sunday, all talks, unconference sessions, chat, etc. Only the Monday evening social will be held in Spatial.chat.
 
-   The entire conference is held in Hopin, from writing day on Sunday, all talks, unconference sessions, chat, etc. Only the Monday evening social will be held in Spatial.chat.
+   * ☐ Schedule an [audio-visual check]({{cfp_variables['calendly']}}) with me or our AV tech at least **an hour before** your talk
 
-   I'd also like you to schedule an audio-visual check with me at least **an hour before** your talk. This helps me know you're around 😉 and lets us clear up any audio or visual issues before your Q&A. We recommend you do this even if you're confident about your setup. The audio-visual checks happen in a private Hopin room.
-
-   ➡️ [book an audio-visual check]({{cfp_variables['calendly']}})
+      This helps me know you're around 😉 and lets us clear up any audio or visual issues before your Q&A. We recommend you do this even if you're confident about your setup. The audio-visual checks happen in a private Hopin room.
 
    Remember, all Q&A sessions **start at the end of your recording**, in the Speaker Q&A session (the Monday and Tuesday Q&A sessions have different URLs).
 
@@ -239,7 +246,7 @@ Subject:
 
    If you have any questions at all about the event, you definitely know how to reach me by now.
 
-   Sam
+   The Write the Docs Team
 
 05 - Post conf
 ~~~~~~~~~~~~~~
@@ -256,21 +263,21 @@ Subject:
 
 ::
 
-   Hey Folks,
+   Hi {speakers},
 
    It is a wrap! Thank you one last time for your hard work, insight and creativity.
 
-   We'll be publishing the videos at some point this week or next, keep an eye on Twitter, Slack or the mailing list for those. 
+   We'll be publishing the videos at some point this week or next, keep an eye on Twitter, Slack or the mailing list for those.
 
    We'd love to know how you found the whole process, from A to Z so we can improve next time. To that end we've got an anonymous (keep in mind that there aren't so many speaks) feedback form for you here:
 
-   ➡️ [Speaker feedback form]({{cfp_variables['feedback_form']}})
+   * ☐ [Speaker feedback form]({{cfp_variables['feedback_form']}})
 
    Finally, as is tradition at our in person events, we'd love to send you a free WTD speaker hoodie and sketchnote print of your talk, please fill in the form before {{cfp.gifts_by}}.
 
-   🎁 [Speaker gift form]({{cfp_variables['speaker_gift_form']}})
+   * ☐ [Speaker gift form]({{cfp_variables['speaker_gift_form']}})
 
-   Sam
+   The Write the Docs Team
 
 {% elif flagpostconf %}
 
@@ -285,5 +292,7 @@ Populate the CFP environment variables to see the email templates.::
    export WTD_CFP_CALENDLY='TODO'
    export WTD_CFP_FEEDBACK_FORM='TODO'
    export WTD_CFP_SPEAKER_GIFT_FORM='TODO'
+
+.. note:: Do this *inside* your `venv` if you're using one. For example in `venv/bin/postactivate`
 
 {% endif%}
