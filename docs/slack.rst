@@ -1,7 +1,7 @@
 Slack
 =====
 
-.. tip:: Due to an increase in spammers, we now have a short `signup form`__ that you must fill out to join our Slack network.
+.. tip:: Due to an increase in spammers, we now have a short `signup form`_ that you must fill out to join our Slack network.
 
 Thanks for your interest in our Slack network.
 We have over {{ slack_members }} people who have joined,
@@ -18,7 +18,7 @@ Please also read the Slack guidelines carefully, and remember that our
 
 If you want to get involved you can:
 
-* Fill out our `signup form`__ to join our network.
+* Fill out our `signup form`_ to join our network.
 * Feel free to send a Pull Request to update `this page`_, if you want to include other channels you enjoy.
 
 .. note::
