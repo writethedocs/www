@@ -164,6 +164,7 @@ html_context = {
     'global_sponsors': global_sponsors,
     'cfp_variables': cfp_variables,
     'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-12k7dh46o-eNMS1sHejK2OiiBfnBf6hw",
+    'slack_form': "https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform?usp=sf_link",
 }
 
 if build_videos:
