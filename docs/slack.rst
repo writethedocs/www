@@ -26,7 +26,7 @@ If you want to get involved you can:
     If you think these may be unpleasant for you, you can `disable all animations`_
     in your Slack client.
 
-.. _short form: https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform?usp=sf_link
+.. _signup form: {{ slack_form }}
 .. _this page: https://github.com/writethedocs/www/blob/master/docs/slack.rst
 .. _disable all animations: https://get.slack.help/hc/en-us/articles/228023907-Manage-animated-images-and-emoji
 
