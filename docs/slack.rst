@@ -1,8 +1,11 @@
 Slack
 =====
 
-You can `join our Slack`_ network if you aren't already a member.
-Requests to join Slack are processed automatically.
+.. tip:: Due to an increase in spammers, we now have a short `signup form`_ that you must fill out to join our Slack network.
+
+Thanks for your interest in our Slack network.
+We have over {{ slack_members }} people who have joined,
+and you can be one of them.
 
 Our Slack network has lots of people hanging out and chatting about documentation.
 It's the best way to connect with our community,
@@ -13,14 +16,17 @@ This should help you get connected to people with similar interests.
 Please also read the Slack guidelines carefully, and remember that our
 :doc:`/code-of-conduct` also applies to our Slack.
 
-Feel free to send a Pull Request to update `this page`_, if you want to include other channels.
+If you want to get involved you can:
+
+* Fill out our `signup form`_ to join our network.
+* Feel free to send a Pull Request to update `this page`_, if you want to include other channels you enjoy.
 
 .. note::
     Our Slack includes animated emoji, and other animations are sometimes posted.
     If you think these may be unpleasant for you, you can `disable all animations`_
     in your Slack client.
 
-.. _join our slack: {{slack_join}}
+.. _signup form: {{ slack_form }}
 .. _this page: https://github.com/writethedocs/www/blob/master/docs/slack.rst
 .. _disable all animations: https://get.slack.help/hc/en-us/articles/228023907-Manage-animated-images-and-emoji
 
@@ -50,6 +56,7 @@ Here are a few ways to preserve what you've learned for yourself and others:
 
 Autoresponders
 --------------
+
 We have some helpful Slackbot responses that you can summon in any channel, at any time.
 
 * ``?invite`` / ``?join``
