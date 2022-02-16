@@ -90,6 +90,8 @@ Membership
 Members
   - All team leads are included in the community council
 
+.. _core-team:
+
 Core Operations (CoreOps)
 .........................
 
