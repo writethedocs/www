@@ -87,7 +87,8 @@ Membership
   - All team leads are included in the community council (no external membership)
   - The CoreOps team moderates the quarterly meetings and curates the quarterly report
     
-.. _core-team:
+Members
+  - All team leads are included in the community council
 
 Core Operations (CoreOps)
 .........................
