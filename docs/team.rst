@@ -21,218 +21,282 @@ folks.
    :backlinks: none
    :depth: 1
 
-.. _conference-teams:
+Terminology
+-----------
 
-Conference Teams
-----------------
+Team
+  Group of humans responsible for a specific aspect of the community.
 
-Each conference has a specific team that helps run that event. For this year,
-you can see who is helping out:
+Team Member
+  Human responsible for performing the team tasks. Reports to the team lead.
 
-* :doc:`Portland 2021 Team </conf/portland/2021/team>`
-* :doc:`Prague 2021 Team </conf/prague/2021/team>`
-* :doc:`Australia 2021 Team </conf/australia/2021/team>`
+Team Lead
+  Human responsible for managing the team. Accountable for the results of the team. Serves on the community council and votes on internal organizational changes.
 
-.. _moderation-team:
-
-Moderation Team
----------------
-
-This team helps keep our Slack network on topic and
-friendly. As a reminder, we expect exemplary behavior from our community, and
-won't tolerate any kind of harassment or prolonged negativity.
-
-Roles
-`````
-
-* Moderate the Slack network
-* Serve as points of contact for any issues or questions
-* Handle :doc:`/code-of-conduct` incidents on Slack or escalate them to the `Core Team`_
-
-Members
-```````
-
-* `Janine Chan <https://www.linkedin.com/in/janinechan/>`_ ``@janine`` *
-* `Daniel Beck <https://twitter.com/ddbeck>`_ ``@ddbeck``
-* `Samuel Wright <https://twitter.com/plaindocs>`_ ``@plaindocs``
-* `Ravind Kumar <https://www.linkedin.com/in/ravind-kumar-b4813650/>`_ ``@ravindk-minio``
-* `Eric Holscher <https://twitter.com/ericholscher>`_ ``@ericholscher``
+Community Council
+  Group of all the team leads. Proposes and votes on internal organizational changes, such as infrastructure and brand design.
 
 
-Meetup Coordination Team
-------------------------
+How teams operate and interact
+------------------------------
 
-These are the folks you can talk to about anything :doc:`/meetups/index`
-related.
+- **All membership and leadership roles are staffed by enthusiastic opt-in.** We want to prioritize the well-being of our contributors, and we're happy to have you if you're happy to contribute to the community. 
+- Each team operates independently except for actions that impact other teams or the community.
+- Each team is responsible for implementing and monitoring community guidelines, including CoC, within their team's area. 
+- All teams leads are included in the community council, which can propose and vote on internal organizational changes and processes. 
+- Team leads can serve on multiple teams, as much as their capacity and well-being allows.
+- CoreOps team members act as interim team leads in case team leads step down without a replacement.
+- Teams are generally comprised of volunteers. Depending on the scope and time investment of team leads, payment can be offered for ongoing service to people who have shown dedication to their role in the community.
 
-* Want to attend your first meetup?
-* Start your own meetup?
-* Have any other questions or concerns?
+Joining and leaving teams
+-------------------------
 
-Roles
-`````
+Team members
+  - Team members serve for a minimum of three months.
+  - Membership renews automatically after joining. To step down from the team, members need to give a 14-day notice to the team lead before the end of the term.
+  - Team membership requirements:
+    - be an active member of the community for at least one year (online or at events)
+    - be approved by the team lead and at least one additional team member from any team
+    - satisfy the membership requirements of that team as specified in each team section
+    - have sufficient English communication skills to perform the role in the teams, (English editorial skills are required in all teams that communicate in an official capacity, such as the Newsletter or Social Media team)
 
-* Serve as point of contact for people interested in :doc:`/meetups/index`
-* Update website with new meetups
-* Socialize information around meetups (new meetup topics, speaker ideas)
-* Maintain documentation on starting meetups
+Team leads
+  - Team leads serve for a minimum of one year.
+  - Membership renews automatically after joining. To step down from the team, team leads need to give a 30-day notice to the community council before the end of the term.
+  - Team lead role requirements:
+    - be an active member of the community for at least two years (online or at events)
+    - be approved by the community council
 
-Members
-```````
-
-* `Rose Williams <https://twitter.com/ZelWms>`_ *
-* `Alyssa Whipple Rock <https://alyssarock.pro/>`_
-* `Mike Jang <https://twitter.com/TheMikeJang>`_
-* `Swapnil Ogale <https://twitter.com/swapnilogale>`_ (APAC)
-* You?
-
-Newsletter Team
----------------
-
-These folks are in charge of putting out our monthly documentation newsletter to
-the wider Write the Docs community. The stories in each issue are distilled from
-conversations that happen across the WTD Slack, which are curated and written by
-a team of volunteers.
-
-Responsibilities
-````````````````
-
-* Curate Slack conversations and distill them into brief newsletter stories
-* Write a monthly update on general goings-on in the community
-* Round up any Write the Docs events or meetups for the upcoming month
-* Assemble and publish the monthly newsletter to the mailing list and `the website <https://www.writethedocs.org/blog/archive/tag/newsletter/>`_
-
-The full description of the :doc:`newsletter process </organizer-guide/newsletter/newsletter-process>` is available in our Organizer Guide.
-
-Members
-```````
-
-* `Beth Aitman <https://twitter.com/baitman>`_ *
-* `Hillary Fraley <https://github.com/hillaryfraley>`_
-* `Jennifer Rondeau <https://twitter.com/bradamante>`_
-* `Claire Lundeby <https://twitter.com/clairelundeby>`_
-* Royce Cook
-* Volunteers welcome!
-
-
-Support Team
-------------
-
-Friendly folk on the other end of the email addresses who answer miscellaneous
-questions about all and sundry. Anything from requests for information, to
-billing and technical issues.
-
-Roles
-`````
-
-* Respond to emails from the community
-* Help folks with anything they need :)
-
-Members
-```````
-
-* `Sasha Romijn <https://twitter.com/mxsash>`_ *
-* `Samuel Wright <https://twitter.com/plaindocs>`_
-* You?
-
-
-Guide Coordination Team
------------------------
-
-These are the folks who maintain https://www.writethedocs.org/guide/ and make
-sure it stays high quality. The site is built with Sphinx and hosted on Read the
-Docs, but we accept content in any format you can send.
-
-Roles
-`````
-
-* Serve as point of contact for issues or questions about contributing to the :doc:`/guide/index`
-* Update overview and TOC for ease of use
-* Curate and write new sections and topics
-* Identify new contributors and help them get started (like you!)
-
-Members
-```````
-
-* `Eric Holscher <https://twitter.com/ericholscher>`_ *
-* `Jennifer Rondeau <https://twitter.com/bradamante>`_
-* You?
-
-
-Social Media Team
+Want to join a team?
+  Send an email to support@writethedocs.org or contact the team lead directly. After the WEP process, the WTD website will be updated with the full list of teams and team lead contacts. 
+  
+Team Descriptions
 -----------------
 
-Roles
-`````
+Community Council
+.................
 
-* Manage the `@writethedocs <https://twitter.com/writethedocs>`_ twitter account
-* Reply to folks who have questions on Twitter
-* Track, post, and retweet relevant content (2-3 times a day, max)
+Responsibilities
+  - Meet quarterly to discuss community-wide projects and strategy, make internal organizational decisions, and give team leads a place to raise issues and ask questions
+  - Publish a quarterly transparency report with important updates and any decisions that were made during the quarterly meeting
+  - Follow and respond to emails sent to the Community Council mailing list (average volume 1-2 emails per month), including reviewing and approving team lead applications
 
-Members
-```````
+Membership
+  - All team leads are included in the community council (no external membership)
+  - The CoreOps team moderates the quarterly meetings and curates the quarterly report
+    
 
-* You?
+Core Operations (CoreOps)
+.........................
 
+Responsibilities
+  - Financial and legal compliance
+  - Trademark and brand development
+  - Support and enable all teams and team leads
+  - Manage internal tools (emails, passwords, conference tickets, sponsorships)
+  - Strategic development for the organization and the community
+  - Semi-annual publication of community-wide updates (statistics, strategy)
+  - Maintain Website pages that describe the community
+  - Monitor and triage the Support inbox
+  - Develop and maintain commonly-used email auto-respond templates
+  - At least one team member must check the Support inbox daily
 
-Website Team
-------------
-
-These are the folks who maintain http://www.writethedocs.org and keep it up to
-date. The site is built with Sphinx and hosted on Read the Docs, so familiarity
-with these tools is a plus. It's also a great way to learn them, if you want!
-
-Roles
-`````
-
-* Update website including Conference sites, Video archives, and other non-meetup and guide aspects.
-* Keep up with Pull Requests on https://github.com/writethedocs/www
-
-Members
-```````
-
-* `Samuel Wright <https://twitter.com/plaindocs>`_ *
-* `Sasha Romijn <https://twitter.com/mxsash>`_
-* `Eric Holscher <https://twitter.com/ericholscher>`_
-* You?
-
-
-.. _core-team:
-
-Core Team
----------
-
-Think about the core team like you would the board of a non-profit. They are the
-folks who are the current leadership of the organization, who create new teams,
-and are generally responsible for the community.
-
-Generally these folks have done one or more of the following:
-
-* Chaired a major Write the Docs :doc:`conference </conf/index>`
-* Done more than a year of volunteering to help make Write the Docs a lovely place to be
-
-Roles
-`````
-
-* Handle :doc:`/code-of-conduct` incidents anywhere
-* Create and dissolve teams
-* Set the general direction for the community and long term goals and business models
+Membership
+  - Team members are appointed the business owner of Write the Docs and approved by the community council
+  - Team members are paid on a freelance basis according to budget availability
 
 Members
-```````
+  * `Eric Holscher <https://twitter.com/ericholscher>`_ *
+  * `Mikey Ariel <https://twitter.com/thatdocslady>`_
+  * `Sasha Romijn <https://twitter.com/mxsash>`_ 
+  * `Samuel Wright <https://twitter.com/plaindocs>`_
 
-* `Eric Holscher <https://twitter.com/ericholscher>`_ *
-* `Mikey Ariel <https://twitter.com/thatdocslady>`_
-* `Samuel Wright <https://twitter.com/plaindocs>`_
-* `Sasha Romijn <https://twitter.com/mxsash>`_ <wtd@mxsasha.eu>
+Infrastructure
+..............
+
+Responsibilities
+  - Maintain Website infrastructure and community tools
+  - Triage and resolve technical issues 
+  - Review and support incoming proposed changes to the Website (GitHub)
+  - Technical support for other teams (i.e. Slack, Newsletter, Conferences)
+  - Maintain and develop video archives and other online resources
+  - Maintain Website layout and navigation
+  - Maintain the WEP system
+
+Membership
+  - Team members must have previous technical experience
+
+Members
+  * `Sasha Romijn <https://twitter.com/mxsash>`_ *
+  * `Samuel Wright <https://twitter.com/plaindocs>`_
+  * `Eric Holscher <https://twitter.com/ericholscher>`_
+
+WTD Enhancement Proposals (WEP)
+...............................
+
+Responsibilities
+  - Triage incoming WEPs according to the WEP process that is defined in `WEP0 <https://github.com/writethedocs/weps/blob/master/accepted/WEP0000.rst>`__.
+  - Maintain and develop WEP format, templates, and requirements.
+
+Membership
+  - Currently staffed by the CoreOps team with input on proposals from the Community Council
+
+Code of Conduct (CoC)
+.....................
+
+Responsibilities
+  - Maintain and develop community-wide CoC policy
+  - Monitor and process requests from the global CoC inbox
+  - Consult and support CoC escalations from other teams
+  - Semi-annual publication of CoC transparency reports from the whole community
+
+Membership
+  - Team members must have some previous experience with CoC handling
+
+Members
+  - Each conference has its own CoC team
+  - Meetups and Slack moderation teams perform their own processing
+
+Brand and Design
+................
+
+Responsibilities
+  - Maintain and develop brand design assets
+  - Coordinate web and print design with vendors
+  - Supply design assets to other teams
+  - Manage the community swag shop and support the conference swag shop
+
+Membership
+  - Team members must have previous experience in design or brand management 
+
+Members
+  * `Mikey Ariel <https://twitter.com/thatdocslady>`_ *
+  * You?
+
+Conferences
+...........
+
+Responsibilities
+  - Manage their respective conference according to official WTD conference guidelines
+  - Prepare and manage conference budgets, schedules, and resources (Web and print)
+  - Conference chair (team lead) contracts with local vendors, venues, and services
+
+Membership
+  - The conference chair appoints team members for each conference
+  - Conference-specific roles are defined in `Event Roles <https://www.writethedocs.org/organizer-guide/confs/event-roles/>`__ and are subject to change based on regional requirements
+
+Members (updated to reflect latest year)
+  * :doc:`Portland 2021 Team </conf/portland/2021/team>`
+  * :doc:`Prague 2021 Team </conf/prague/2021/team>`
+  * :doc:`Australia 2021 Team </conf/australia/2021/team>`
+
+Slack Moderation
+................
+
+Responsibilities
+  - Monitor the WTD Slack space and handle CoC issues, rotation 
+  - Full team procedures and processes are currently in the process of being finalized in a separate WEP: WEP0002
+    
+Membership
+  - Team members must have some previous experience with CoC handling or community moderation
+  - Team members must be active in the WTD Slack space and available for moderation shifts
+
+Members
+  * `Janine Chan <https://www.linkedin.com/in/janinechan/>`_ ``@janine`` *
+  * `Daniel Beck <https://twitter.com/ddbeck>`_ ``@ddbeck``
+  * `Samuel Wright <https://twitter.com/plaindocs>`_ ``@plaindocs``
+  * `Ravind Kumar <https://www.linkedin.com/in/ravind-kumar-b4813650/>`_ ``@ravindk-minio``
+  * `Eric Holscher <https://twitter.com/ericholscher>`_ ``@ericholscher``
 
 
-.. vale off
+Meetups
+.......
+
+Responsibilities
+  - Support local and regional meetups 
+  - Create and manage meetup.com accounts
+  - Assist with CoC escalations from meetup organizers
+  - Maintain a mailing list for meetup organizers
+  - Update website with new meetups
+  - Socialize information around meetups (new meetup topics, speaker ideas)
+  - Maintain documentation on starting meetups
+
+Membership
+  - Previous meetup organization experience preferred but not mandatory
+
+Members
+  * `Rose Williams <https://twitter.com/ZelWms>`_ *
+  * `Alyssa Whipple Rock <https://alyssarock.pro/>`_
+  * `Mike Jang <https://twitter.com/TheMikeJang>`_
+  * `Swapnil Ogale <https://twitter.com/swapnilogale>`_ (APAC)
+
+
+Newsletter
+..........
+
+Responsibilities
+  - Curate Slack conversations and distill them into brief newsletter stories
+  - Write a monthly update on general goings-on in the community
+  - Round up any WTD events or meetups for the upcoming month
+  - Assemble and publish the monthly newsletter to the mailing list and the website
+
+Membership
+  - Team members must have English editorial skills
+
+Members
+  * `Beth Aitman <https://twitter.com/baitman>`_ *
+  * `Hillary Fraley <https://github.com/hillaryfraley>`_
+  * `Jennifer Rondeau <https://twitter.com/bradamante>`_
+  * `Claire Lundeby <https://twitter.com/clairelundeby>`_
+  * Royce Cook
+
+
+Social Media
+............
+
+Responsibilities
+  - Serve as the point of contact for the WTD accounts on `Twitter <https://twitter.com/writethedocs>`_, Facebook, and LinkedIn
+  - Manage and develop social media strategy for the community
+  - Source updates and publications from other teams and manage scheduled posts
+    
+Membership
+  - Team members must have English editorial skills and some experience with social media
+
+Members
+  - You?
+
+Jobs
+....
+
+Responsibilities
+  - Serve as the point of contact for the `WTD Job Board <https://jobs.writethedocs.org/> `__
+  - Develop and implement marketing strategies to promote the job board and other job channels for the community
+
+Membership
+  - Experience with community moderation or marketing content is strongly preferred
+
+Members
+  - You?
+
+Documentation Guide
+...................
+
+Responsibilities
+  - Serve as point of contact for issues or questions about contributing to the `Documentation Guide <https://www.writethedocs.org/guide/>`_
+  - Update overview and TOC for ease of use
+  - Curate and write new sections and topics
+  - Identify new contributors and help them get started 
+
+Membership
+  - Team members must have English editorial skills
+
+Members
+  * `Eric Holscher <https://twitter.com/ericholscher>`_ *
+  * `Jennifer Rondeau <https://twitter.com/bradamante>`_
+
 
 Write the Docs Alumni
----------------------
-
-.. vale on
+.....................
 
 These are folks who have helped a lot in the past,
 but have moved on to other projects.
@@ -243,10 +307,3 @@ and want to make sure they aren't forgotten.
 * `Troy Howard <https://twitter.com/thoward37>`_
 * `Anthony Johnson <https://twitter.com/agjhnsn>`_
 * `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
-
-Bios
-----
-
-.. datatemplate::
-   :source: /_data/team.yaml
-   :template: team.rst
