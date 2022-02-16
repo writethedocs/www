@@ -55,6 +55,7 @@ Team members
   - Team members serve for a minimum of three months.
   - Membership renews automatically after joining. To step down from the team, members need to give a 14-day notice to the team lead before the end of the term.
   - Team membership requirements:
+
     - be an active member of the community for at least one year (online or at events)
     - be approved by the team lead and at least one additional team member from any team
     - satisfy the membership requirements of that team as specified in each team section
@@ -64,6 +65,7 @@ Team leads
   - Team leads serve for a minimum of one year.
   - Membership renews automatically after joining. To step down from the team, team leads need to give a 30-day notice to the community council before the end of the term.
   - Team lead role requirements:
+
     - be an active member of the community for at least two years (online or at events)
     - be approved by the community council
 
