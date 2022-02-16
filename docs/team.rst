@@ -85,6 +85,7 @@ Membership
   - All team leads are included in the community council (no external membership)
   - The CoreOps team moderates the quarterly meetings and curates the quarterly report
     
+.. _core-team:
 
 Core Operations (CoreOps)
 .........................
@@ -190,6 +191,8 @@ Members (updated to reflect latest year)
   * :doc:`Prague 2021 Team </conf/prague/2021/team>`
   * :doc:`Australia 2021 Team </conf/australia/2021/team>`
 
+.. _moderation-team:
+
 Slack Moderation
 ................
 
@@ -269,7 +272,7 @@ Jobs
 ....
 
 Responsibilities
-  - Serve as the point of contact for the `WTD Job Board <https://jobs.writethedocs.org/> `__
+  - Serve as the point of contact for the `WTD Job Board <https://jobs.writethedocs.org/>`__
   - Develop and implement marketing strategies to promote the job board and other job channels for the community
 
 Membership
