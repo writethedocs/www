@@ -129,6 +129,14 @@ Other Important Roles to Remember
     and the process was streamlined. It's still time-consuming and intense, 
     because we try to decide pretty quickly after the CFP closes.
 
+* **Shadow wrangler**
+
+  * This role is similar to the volunteer coordinator role.
+  * It is somewhat specific to the context of our remote conferences, which have made it challenging to recruit,
+    onboard, and retain new volunteers.
+  * This person recruits volunteers who are interested and committed to supporting the organizing team.
+  * They ask volunteers to "shadow" organizers in order to learn how to perform their roles and step-in as needed.
+
 * **Emcee** 
 
   * Historically this person hasn't necessarily been one of the main organizers 
@@ -136,3 +144,4 @@ Other Important Roles to Remember
   * Must understand how to keep things brief, and say "just enough" to keep the conference flowing
   * Must be comfortable with researching, preparing, and delivering speaker introductions
   * A knowledge of audio-visual equipment usage is helpful, but not mandatory. 
+
