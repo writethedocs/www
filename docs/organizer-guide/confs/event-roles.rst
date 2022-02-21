@@ -129,7 +129,7 @@ Other Important Roles to Remember
     and the process was streamlined. It's still time-consuming and intense, 
     because we try to decide pretty quickly after the CFP closes.
 
-* **Shadow wrangler**
+* **Shadowing coordinator**
 
   * This role is similar to the volunteer coordinator role.
   * It is more relevant in the context of our remote conferences, which have made it challenging to recruit,
