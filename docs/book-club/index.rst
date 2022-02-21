@@ -12,14 +12,14 @@ Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel.
 Current Book Club
 -----------------
 
-Our next book club starts the week of February 14, 2022.
+Our current book club started the week of February 14, 2022.
+
+* February - March 2022: `Docs for Developers <https://docsfordevelopers.com/>`_
 
 Upcoming Book Clubs
 ---------------------
 
-* February - April 2022: `Docs for Developers <https://docsfordevelopers.com/>`_
 * TBD: `Strategic Writing for UX <https://torreypodmajersky.com/strategic-writing-for-ux/>`_
-
 
 Previous Book club reads
 ------------------------
