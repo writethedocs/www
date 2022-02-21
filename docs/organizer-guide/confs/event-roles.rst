@@ -134,7 +134,7 @@ Other Important Roles to Remember
   * This role is similar to the volunteer coordinator role.
   * It is more relevant in the context of our remote conferences, which have made it challenging to recruit,
     onboard, and retain new volunteers.
-  * This person recruits volunteers who are interested and committed to supporting the organizing team.
+  * This person contacts volunteers who are interested and committed to supporting the organizing team, based on recommendations from other organizers or out of the pool of previous volunteers and speakers.
   * They ask volunteers to "shadow" organizers in order to learn how to perform their roles and step-in as needed.
 
 * **Emcee** 
