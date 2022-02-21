@@ -135,7 +135,8 @@ Other Important Roles to Remember
   * It is more relevant in the context of our remote conferences, which have made it challenging to recruit,
     onboard, and retain new volunteers.
   * This person contacts volunteers who are interested and committed to supporting the organizing team, based on recommendations from other organizers or out of the pool of previous volunteers and speakers.
-  * They ask volunteers to "shadow" organizers in order to learn how to perform their roles and step-in as needed.
+  * The coordinator then matches volunteers with organizers to "shadow" in order to learn how to perform their roles and step-in as needed. 
+  * The organizers are responsible for training the shadowing volunteer on the specific responsibilities, but they can request help with logistics and administration from the coordinator for things like document permissions and registrations.
 
 * **Emcee** 
 
