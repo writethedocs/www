@@ -132,7 +132,7 @@ Other Important Roles to Remember
 * **Shadow wrangler**
 
   * This role is similar to the volunteer coordinator role.
-  * It is somewhat specific to the context of our remote conferences, which have made it challenging to recruit,
+  * It is more relevant in the context of our remote conferences, which have made it challenging to recruit,
     onboard, and retain new volunteers.
   * This person recruits volunteers who are interested and committed to supporting the organizing team.
   * They ask volunteers to "shadow" organizers in order to learn how to perform their roles and step-in as needed.
