@@ -18,7 +18,7 @@ and ensures the speakers are still passionate about them.
 
 After the CFP ends, give reviewers 1 week to review all the talk proposals.
 After this, the reviewers rate the proposals following the review guidelines, and hold the final
-group meeting where we talk through the final schedule
+group meeting where we talk through the final schedule.
 
 How to write a CFP?
 -------------------
@@ -80,7 +80,7 @@ Review Process Best Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Time Commitment**
-   Please plan on committing 4-6 hours total to review all of the submissions in your track, depending on the amount you have been assigned. Aim to do 10-15 sessions at a time then take a break. This helps prevent burnout and allows you to see more proposals with fresh eyes.
+   Please plan on committing 4-6 hours total to review all of the submissions in your track, depending on the amount of submissions. Aim to do a few at a time then take a break. This helps prevent burnout and allows you to see more proposals with fresh eyes. Some folks have found the `Pomodoro Technique <https://en.wikipedia.org/wiki/Pomodoro_Technique>`__ for this.
 **Revisit your first ~15 talks**
    When you're reviewing this many talks, it can take a while to get the feel of the rating system since, at first, you only have a small sample to compare to. To solve this problem, we recommend that, when you get to the end of your reviews, you go back and take another quick look at the first 15 or so talks you looked at, to make sure your rating holds up in the context of the whole pool.
 **Bias**
