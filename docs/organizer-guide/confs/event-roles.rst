@@ -29,7 +29,7 @@ Primary Roles
     * Find local vendors, or 
     * Work with pre-existing WTD relationships.
 
-* **Speaker wrangler** (details: :doc:`/organizer-guide/confs/cfp`) 
+* **Speaker coordinator** (details: :doc:`/organizer-guide/confs/cfp`) 
 
   * Arrange the CFP panel and proposal evaluation
   * Write/edit and send emails to accepted speakers before the conference starts
