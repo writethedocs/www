@@ -29,7 +29,7 @@ Primary Roles
     * Find local vendors, or 
     * Work with pre-existing WTD relationships.
 
-* **Speaker wrangler** (details: :doc:`/organizer-guide/confs/cfp`) 
+* **Speaker coordinator** (details: :doc:`/organizer-guide/confs/cfp`) 
 
   * Arrange the CFP panel and proposal evaluation
   * Write/edit and send emails to accepted speakers before the conference starts
@@ -129,6 +129,15 @@ Other Important Roles to Remember
     and the process was streamlined. It's still time-consuming and intense, 
     because we try to decide pretty quickly after the CFP closes.
 
+* **Shadowing coordinator**
+
+  * This role is similar to the volunteer coordinator role.
+  * It is more relevant in the context of our remote conferences, which have made it challenging to recruit,
+    onboard, and retain new volunteers.
+  * This person contacts volunteers who are interested and committed to supporting the organizing team, based on recommendations from other organizers or out of the pool of previous volunteers and speakers.
+  * The coordinator then matches volunteers with organizers to "shadow" in order to learn how to perform their roles and step-in as needed. 
+  * The organizers are responsible for training the shadowing volunteer on the specific responsibilities, but they can request help with logistics and administration from the coordinator for things like document permissions and registrations.
+
 * **Emcee** 
 
   * Historically this person hasn't necessarily been one of the main organizers 
@@ -136,3 +145,4 @@ Other Important Roles to Remember
   * Must understand how to keep things brief, and say "just enough" to keep the conference flowing
   * Must be comfortable with researching, preparing, and delivering speaker introductions
   * A knowledge of audio-visual equipment usage is helpful, but not mandatory. 
+
