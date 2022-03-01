@@ -184,9 +184,9 @@ sponsors:
     #   link: https://www.google.com
     #   brand: Google
   publisher:
-    # - name: cncf
-    #   link: https://www.cncf.io/
-    #   brand: Cloud Native Computing Foundation
+    - name: cncf
+      link: https://www.cncf.io/
+      brand: Cloud Native Computing Foundation
     # - name: slack
     #   link: https://slack.com/
     #   brand: Slack
