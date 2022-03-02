@@ -3,4 +3,4 @@
 Schedule
 ========
 
-{% include "conf/schedule-2022.rst" %}
+{% include "conf/schedule.rst" %}

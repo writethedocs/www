@@ -66,7 +66,8 @@ Specs
 Cost
 ~~~~
 
-We currently sell advertising for the cost of **$250 per 10,000 impressions**.
+We currently sell advertising for the cost of **$150 per month** with up to 3 sponsors in rotation.
+You can buy multiple slots to ensure your placement is shown more frequently (or the only thing shown).
 
 Contact
 -------

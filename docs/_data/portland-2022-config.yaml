@@ -56,8 +56,8 @@ buttons:
     #   link: /news/announcing-virtual-conf-dates-tickets
     # - text: See the talks!
     #   link: /speakers
-    # - text: Buy a Ticket!
-    #   link: /tickets
+    - text: Buy a Ticket!
+      link: /tickets
 #    - text: Read our guide
 #      link: /welcome-wagon
 #    - text: See the schedule!
@@ -88,9 +88,9 @@ sponsorship:
     price: $15,000
 
 grants:
-  url: https://docs.google.com/forms/d/e/1FAIpQLSdtgQLvwjR7FkVFNMP1qpD3SrUcHqQSPF8PExL-19mxOHrHBQ/viewform
-  ends: "March 1, 2022"
-  notification: "March 10, 2022"
+  url: https://docs.google.com/forms/d/e/1FAIpQLSdNUhlUJlG3O795vyDh3B43k9uLj8OMmb04ctG130lQ8A0tEA/viewform
+  ends: "March 31, 2022"
+  notification: "April 10, 2022"
 
 shirts:
   url: https://teespring.com/wtd-pdx-2022
@@ -103,38 +103,45 @@ date: # how do we handle these? human readable would be nice.
   month: May
 
   # Conference is special for the index to show the combined conference days
-  # conference:
-  #   event: Main Conference
-  #   date: May 23-24
-  #   summary: The main days of the conference. We will be running one main track, and an <a href="/conf/portland/2022/unconference/">Unconference</a>.
-  #   icon: conference
+  conference:
+    event: Main Conference
+    date: May 23-24
+    summary: The main days of the conference. We will be running one main track, as well as a <a href="/conf/portland/2022/job-fair/">Job Fair</a>, <a href="/conf/portland/2022/lightning-talks/">Lightning Talks</a> & <a href="/conf/portland/2022/unconference/">Unconference</a>.
+    icon: conference
 
   # These are listed in the schedule
   day_one:
+    event: Hike
+    date: On your own
+    summary: We encourage you to go on a hike in your own beautiful home town.
+    #summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    icon: hike
+    dotw: Saturday
+  day_two:
     event: Writing Day
     date: May 22
-    summary: Join us for the Writing Day. The first official day of the conference is full of chances to interact with other documentarians.
+    summary: Join us for the <a href="/conf/portland/2022/writing-day/">Writing Day</a> and work with fellow documentarians on a project.
     icon: writing
     dotw: Sunday
     writing_day_time: 9am-5pm
-  day_two:
+  day_three:
     event: Conference Day 1
     date: May 23
-    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks and unconference sessions.
-    icon: conference
+    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Monday
     talk_time: 9am-5pm
     unconference_time: 9:45am-5pm
     social_time: 5pm-7pm
-  day_three:
+    icon: conference
+  day_four:
     event: Conference Day 2
     date: May 24
-    summary: And the conference goes on! Today includes the Job Fair alongside the unconference. We are already starting to miss you.
-    icon: conversation
+    summary: And the conference goes on! We are already starting to miss you. |:heart:|
     dotw: Tuesday
     talk_time: 9am-4pm
     job_fair_time: 9:45am-12pm
-    unconference_time: 1:35pm-5pm
+    unconference_time: 1:35pm-4pm
+    icon: conversation
   total_talk_days: 2
 
 about:
@@ -156,8 +163,8 @@ about:
 
 cfp:
   url: https://pretalx.com/wtd-portland-2022/cfp
-  ends: "February 15, 2022"          # 2 weeks to review and get confirmnations
-  notification: "March 1, 2022"      # 8 weeks to write and record
+  ends: "February 25, 2022"          # 2.5 weeks to review and get confirmnations
+  notification: "March 15, 2022"     # 6 weeks to write and record
   video_by: "May 1, 2022"            # 3 weeks before the conf
   slides_by: "May 15, 2022"          # 1 week before
   gifts_by: "July 1, 2022"           # 6? weeks after
@@ -177,9 +184,9 @@ sponsors:
     #   link: https://www.google.com
     #   brand: Google
   publisher:
-    # - name: cncf
-    #   link: https://www.cncf.io/
-    #   brand: Cloud Native Computing Foundation
+    - name: cncf
+      link: https://www.cncf.io/
+      brand: Cloud Native Computing Foundation
     # - name: slack
     #   link: https://slack.com/
     #   brand: Slack
@@ -207,27 +214,33 @@ sponsors:
     #   brand: Starburst
     #   text: "<p>Starburst is on a mission to modernize data access &amp; analytics. Our company was founded in an unusual way; with customers and revenue from the beginning! Our growth is already ahead of some of the most successful software start-ups, and we don’t plan on slowing down.</p> <p>We believe our opportunity is huge. Every large company in the world suffers from a data silo problem. Traditional data warehouse products approach the problem with old solutions that breed inefficiency and ultimately can’t help business analysts run fast analytics on all their data.</p> <p>Starburst provides a modern solution that addresses these data silo &amp; speed of access problems. Starburst helps enterprises harness the value of open source Trino (formerly PrestoSQL), the fastest distributed query engine available today, by adding the tools and 24x7 support that meet the needs for big data access at scale. Ultimately, Starburst helps organizations run analytics anywhere to make better business decisions.</p>"
   first:
-
+  in_kind:
+    - name: buildkite
+      link: https://buildkite.com/
+      brand: Buildkite
+    - name: rtd
+      link: https://readthedocs.com/
+      brand: Read the Docs
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: True
 flagcfp: True
-flagticketsonsale: False
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
 flaghasschedule: False
-flaghasunconf: False
+flaghasunconf: True
 flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
 flagpostconf: False
 
 # Truthy things that don't change
-flaghashike: True
-flaghasfood: True
+flaghashike: False
+flaghasfood: False
 flaghasboat: False
-flaghaswritingday: False
-flaghasjobfair: False
+flaghaswritingday: True
+flaghasjobfair: True
 flaghasbadgeflair: False

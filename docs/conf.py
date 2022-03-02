@@ -159,10 +159,12 @@ global_sponsors = yaml.safe_load("""
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
     'newsletter_subs': '6,500',
+    'slack_members': '15,000',
     'website_visits': '30,000',
     'global_sponsors': global_sponsors,
     'cfp_variables': cfp_variables,
     'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-12k7dh46o-eNMS1sHejK2OiiBfnBf6hw",
+    'slack_form': "https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform?usp=sf_link",
 }
 
 if build_videos:
