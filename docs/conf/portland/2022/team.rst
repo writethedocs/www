@@ -55,26 +55,24 @@ Mikey Ariel
 
 {% include "bios/mikey.rst" %}
 
-Bio coming soon
 
 Primary Roles
 -------------
 
 * **Conference chair** - Eric Holscher
-* **Conference co-chair** - *TBD*
 * **Code of conduct response** - See `code of conduct </code-of-conduct/#reporting-and-contact-information>`_ page
 * **Speaker coordinator** - Samuel Wright
-* **Unconference coordinator** - TBD
-* **Lightning Talk coordinator** - TBD
-* **Infrastructure coordinator** - TBD
-* **Swag coordinator** - TBD
-* **Communication coordinator** - TBD
-* **Job Fair coordinator** - TBD
-* **Welcome Wagon coordinators** - TBD
-* **Sponsorship coordinator** - TBD
-* **Writing Day coordinator** - TBD
-* **Volunteer coordinator** - TBD
-* **Emcee** - TBD
-* **Social media coordinator** - TBD
+* **Unconference coordinator** - Jennifer Rondeau
+* **Lightning Talk coordinator** - Rose Williams
+* **Infrastructure coordinator** - Sasha Romijn
+* **Swag coordinator** - Mikey Ariel
+* **Communication coordinator** - Mikey Ariel
+* **Job Fair coordinator** - Eric Holscher, Mike Jang
+* **Welcome Wagon coordinators** - Christy Lutz, Alicia Lewis, Mo Nishiyama
+* **Sponsorship coordinator** - Eric Holscher
+* **Writing Day coordinator** - Jennifer Rondeau, Rose Williams
+* **Attendee technical support** - Alex Fornuto
+* **Emcee** - Janine Chan, Alex Fornuto
+* **Social media coordinator** - Mo Nishiyama
 
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
