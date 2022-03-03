@@ -11,13 +11,7 @@ sys.path.insert(1, '../_ext')
 
 import os
 from collections import OrderedDict
-from utils import slugify
 import requests
-from ruamel import yaml
-from ruamel.yaml.representer import RoundTripRepresenter
-import markdown
-
-SPEAKER_IMAGE_PATH = '../_static/img/speakers/'
 
 def get_review_scores(pretalx_slug):
     if not os.environ.get('PRETALX_TOKEN'):
