@@ -71,7 +71,7 @@ This month’s newsletter is sponsored by SPONSOR:
 Featured job posts
 ------------------
 
-- `TITLE <LINK>`__, COMPANY (LOCATION)
+- `TITLE <https://jobs.writethedocs.org/LINK>`__, COMPANY (LOCATION)
 
 *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
@@ -79,5 +79,5 @@ Featured job posts
 Virtual events coming up
 ------------------------
 
-- 00 MONTH, TIME ZONE (location) - `TITLE <LINK>`__
+- 00 MONTH, TIME ZONE (location) - `TITLE <https://www.meetup.com/LINK>`__
 
