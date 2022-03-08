@@ -36,7 +36,7 @@ A question asking which things you'd most like to automate about docs produced a
 - Docs builds and deployments (not everyone works with CI/CD!).
 - Slackbots to create and even help manage docs issues and reviews directly from Slack conversations. A couple of folks use these, and one person offered `an example from the UK's Government Digital Services <https://technology.blog.gov.uk/2020/09/25/keeping-tech-docs-up-to-date-with-daniel-the-manual-spaniel/>`_
 
-Lots of ideas here - the next step is to go forth and automate
+Lots of ideas here - the next step is to go forth and automate!
 
 ---------------------------------------------
 The contrarian view: reasons to use "utilize"
