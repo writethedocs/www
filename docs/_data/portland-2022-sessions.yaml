@@ -1,0 +1,441 @@
+- title: 'Measuring Documentation Success in Open Source: Findings from Google''s
+    Season of Docs Program'
+  slug: measuring-documentation-success-in-open-source-findings-from-google-s-season-of-docs-program-kassandra-dhillon
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2022
+  speakers:
+  - name: Kassandra Dhillon
+    slug: kassandra-dhillon
+    twitter: 
+    website: 
+  - name: Erin McKean
+    slug: erin-mckean
+    twitter: '@emckean'
+    website: https://erinmckean.com
+  abstract: "<p>Season of Docs is a program run by Google’s Open Source Programs Office.
+    The SoD program has three goals: \n- Improve documentation in open source projects\n-
+    Create opportunities for technical writers to participate in open source projects\n-
+    Expand our knowledge of effective metrics for evaluating open source documentation</p>\n<p>2021
+    was the third year of the Season of Docs program, and the first year where projects
+    were asked to explicitly state the problems they expected their documentation
+    projects to solve and to outline the metrics they would use to evaluate the success
+    of their documentation projects. </p>\n<p>In this talk, we’ll share what we learned
+    about documentation metrics through the 30 case studies completed by Season of
+    Docs projects: what worked, what didn’t work, and what’s too soon to tell. We’ll
+    also share what projects learned about working with technical writers, including
+    how technical writers can be compensated for working in open source, and what
+    projects learned about integrating technical writers into their communities.</p>"
+- title: Don't trust the numbers!
+  slug: don-t-trust-the-numbers-kumar-dhanagopal
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2022
+  speakers:
+  - name: Kumar Dhanagopal
+    slug: kumar-dhanagopal
+    twitter: 
+    website: https://www.linkedin.com/in/kumardhanagopal/
+  abstract: '<p>As content producers and managers, we constantly seek to learn more
+    about what our users need, how they consume our content, whether they find it
+    useful, and what we can do to deliver content that’s more useful and usable. One
+    of the data sources that we often turn to for answers to these questions is web
+    analytics: page hits or views, time spent on a page, bounce rate, and so on.</p>
+
+    <p>In this talk, I’ll introduce web analytics briefly, and then discuss the pitfalls
+    of relying too much on web analytics as a source of data for important decisions.
+    I’ll also present a few real-life examples of web analytics data that might not
+    represent our users’ real behavior and preferences. We''ll conclude by looking
+    at techniques to use analytics data to gain reliable insights into our users''
+    needs and behaviors, while being mindful of the pitfalls discussed earlier.</p>'
+- title: 'From Me to Us: Building a docs team from the ground up'
+  slug: from-me-to-us-building-a-docs-team-from-the-ground-up-lana-brindley-she-her
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2022
+  speakers:
+  - name: Lana Brindley (she/her)
+    slug: lana-brindley-she-her
+    twitter: '@loquacities'
+    website: 
+  abstract: '<p>There are currently 824 members of the #lone-writer channel on the
+    Write the Docs Slack. That’s (presumably) 824 people who are the only documentarian
+    in their company or organisation. 824 people who need to handle all the planning,
+    researching, drafting, writing, editing, updating, and maintenance for the documentation
+    created by an entire organisation all by themselves. And that’s without even mentioning
+    all the managing upwards, education and outreach to other areas of the organisation,
+    and pointless meetings that are also part of everyday life in a modern corporate
+    enterprise. Not all of these people will be lone writers forever, though: what
+    happens when, sometimes after many months or years of asking politely, nagging,
+    or even begging, you get approval to hire another writer? Or even build a whole
+    team?</p>
+
+    <p>Going from one lone writer to a team of two, or five, or twenty, brings with
+    it a whole host of challenges. Some of them are obvious, like who reports to whom,
+    how to get your team talking to each other, how do we organise and apportion work,
+    and what collaboration tools should we use. Other challenges you might not expect
+    until you encounter them, like how do we make sure that our team is available
+    in multiple time zones, and how do make sure we don’t silo knowledge in single
+    individuals? </p>
+
+    <p>Lana is currently building out her third documentation team (or fourth, depending
+    on how you count it!), and will share the knowledge accumulated over many organisations,
+    community groups, and seventeen years of documentation management.</p>'
+- title: 'Beating the Virginia Blues: Thru-hiking strategies to help you survive your
+    next big project'
+  slug: beating-the-virginia-blues-thru-hiking-strategies-to-help-you-survive-your-next-big-project-kate-mueller
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2022
+  speakers:
+  - name: Kate Mueller
+    slug: kate-mueller
+    twitter: 
+    website: Can I add this later? Site is under development...
+  abstract: '<p>In 2018, I quit my job to hike the entire Appalachian Trail, also
+    known as the AT. It took me 163 days. That’s 163 days of carrying everything I
+    owned on my back, hiking for 10-12 hours a day, wearing the same clothes every
+    day, and eating lots of foods in bar or dehydrated form.</p>
+
+    <p>The AT covers roughly 2100 miles as it crosses 14 states, from Georgia to Maine;
+    Virginia is the single longest state, about a quarter of the trail. It has the
+    reputation for causing a lot of potential thru-hikers to quit--so much so that
+    the state of mind is known as the "Virginia Blues." </p>
+
+    <p>Virginia was the roughest state for me, by far. But using a variety of strategies,
+    I was able to stay on trail and successfully complete my thru-hike.</p>
+
+    <p>Our work lives are full of large endurance projects. They can be really exciting,
+    like:
+
+    - Starting a new knowledge base from scratch
+
+    - Taking ownership of an existing set of documentation
+
+    - Building new curricula or programming
+
+    - Building a major new feature
+
+    - Hiking a really long trail (okay, maybe not this one)</p>
+
+    <p>In all of these projects, there''s an initial phase of enthusiasm and excitement
+    followed by a period of productive work. Then there''s this period in the middle
+    where things feel all wrong--we don''t feel like we''re making progress; the project
+    feels like it will never end; we feel overwhelmed; and it might even feel totally
+    hopeless or outright impossible.</p>
+
+    <p>Somehow, we power through and finish the project. But we don''t talk a lot
+    about that rough patch in the middle. Until now.</p>
+
+    <p>This talk is all about that rough patch in the middle. You''ll walk away with
+    some actionable strategies you can use to help survive this lull in your next
+    big project. And a few random facts about the Appalachian Trail to wow your friends.</p>'
+- title: Don't shoot yourself in the foot with content reuse
+  slug: don-t-shoot-yourself-in-the-foot-with-content-reuse-anna-gasparyan
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2022
+  speakers:
+  - name: Anna Gasparyan
+    slug: anna-gasparyan
+    twitter: 
+    website: 
+  abstract: '<p>Everybody knows that reusing and repurposing content is good. Any
+    professional help authoring software will have support for single source as one
+    of their top three killer features. </p>
+
+    <p>The benefits are obvious. Yes, reusing content lets you
+
+    - maintain consistency
+
+    - avoid making updates to multiple help articles when an UI changes
+
+    - reduce on the review and editing effort
+
+    - reduce on localisation costs
+
+    - adjust content for different documentation deliverables</p>
+
+    <p>But has anyone ever told you about the flip side of single-sourcing every chunk
+    of content that can potentially be reused? Alas, there''s no such thing as a free
+    lunch. </p>
+
+    <p>We have a team of 18 tech writers working on the same project and writing documentation
+    for a family of 12 products based on the same platform. And, naturally, we reuse
+    a lot of content that covers shared functionality and include it into different
+    help instances with filters, conditions, and variables.</p>
+
+    <p>And at some point we began to notice things happening. In this talk, we''ll
+    look at things like debugging included content, traffic cannibalisation (doesn''t
+    that sound scary?) and how content reuse affects SEO, and other pitfalls of single-sourcing
+    that may not be so obvious. Single source is a powerful weapon, but, as with any
+    weapon, you need to know how to use it wisely so that you don''t shoot yourself
+    in the foot.</p>'
+- title: 'Unit Test the Docs: Why You Should Test Your Code Examples'
+  slug: unit-test-the-docs-why-you-should-test-your-code-examples-ben-perlmutter
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2022
+  speakers:
+  - name: Ben Perlmutter
+    slug: ben-perlmutter
+    twitter: '@bpmutter'
+    website: https://ben.perlmutter.io
+  abstract: "<p>What’s the fastest way to make developers complain about your docs?
+    Give them code examples that don’t work. </p>\n<p>As technical writers, we face
+    the constant challenge of keeping code examples accurate and up-to-date. Just
+    as software developers write unit tests to validate that their code remains functional,
+    technical writers can create code examples within unit tests to validate that
+    their documentation is correct. </p>\n<p>In this talk you will learn: \n- Why
+    you should write code examples within unit tests\n- What you should and shouldn’t
+    test\n- How to implement tested code examples \n- How to set up continuous integration
+    tests to make sure that code examples always work</p>"
+- title: Peer writing and beyond - An experimental approach to a sustainable open-source
+    projects
+  slug: peer-writing-and-beyond-an-experimental-approach-to-a-sustainable-open-source-projects-chris-ganta
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2022
+  speakers:
+  - name: Chris Ganta
+    slug: chris-ganta
+    twitter: 
+    website: 
+  abstract: "<p>At the Good Docs project, we serendipitously discovered that peer
+    writing is significantly more effective and efficient than traditional siloed
+    writing for open source documentation. As we were building the APAC templates
+    working group, one of the technical writers suggested a peer-writing approach
+    wherein an informal group is formed to collaborate and work together to create
+    a quickstart template. Thus began the story of global collaboration between three
+    technical writers with diverse backgrounds. Our goal was to plan, explore, analyze,
+    create, and publish an exemplary quickstart template.</p>\n<p>Unlike pair programming,
+    peer writing is often viewed with skepticism. We have often encountered intriguing
+    questions from the community, such as:</p>\n<ul>\n<li>How can multiple technical
+    writers work together on a single document?</li>\n<li>How did we overcome conflicts
+    without hurting each other?</li>\n<li>How did we create a haven for enthusiastic
+    newbies to quickly contribute?</li>\n<li>How did we create a culture that is non-judgemental
+    and adopt an attitude of acceptance, genuineness, and empathy?</li>\n</ul>\n<p>In
+    this talk, on behalf of the working group, I’ll be uncovering our experiences
+    \ and sharing how in this unique journey we:\n- Inspired the entire community
+    to adopt this model\n- Created judgment-free space to share our ideas\n- Helped
+    new tech writers onboard faster into the project\n- Applied our combined expertise
+    to create elegant documents \n- Encouraged each other to push out of our comfort
+    zone</p>\n<p>We strongly believe that the peer-writing model fosters a greater
+    sense of belonging within the community, builds resilient and empathetic teams,
+    and enables contributors to create top-quality documentation for the project.</p>"
+- title: 'All together now: Turning technologists into documentarians'
+  slug: all-together-now-turning-technologists-into-documentarians-liani-lye-she-her
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2022
+  speakers:
+  - name: Liani Lye (she/her)
+    slug: liani-lye-she-her
+    twitter: 
+    website: https://www.linkedin.com/in/lianilye/
+  abstract: '<p>I joined the VA’s Digital Experience group as a contract product manager
+    of two documentarians in a sea of 75+ technologists.  On paper, our job was to
+    build and populate a customer-facing information portal.  To do so in any enduring
+    way, we quickly realized that we had to create a culture that not only prioritized
+    documentation, but also empowered technologists to proactively author content.  My
+    government partner and I will share how we went from a haphazard content ecosystem
+    to an alright one, and are now going from an alright content ecosystem to a good
+    one.</p>
+
+    <p>Some things we’ll talk about:</p>
+
+    <ul>
+
+    <li>Acting as guardrails, not gatekeepers, to turn technologists into documentarians</li>
+
+    <li>Convincing our customers to trust the new information portal, when customer-facing
+    documentation had historically been ill-maintained and difficult to find</li>
+
+    <li>Using industry knowledge, best practices, and qualitative research to inform
+    our public sector work</li>
+
+    <li>Being comfortable with unfinished documentation</li>
+
+    </ul>
+
+    <p>If you need to create something from nothing, this talk is for you.</p>'
+- title: Inclusive Language
+  slug: inclusive-language-victor-bracht
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2022
+  speakers:
+  - name: Victor Bracht
+    slug: victor-bracht
+    twitter: https://twitter.com/thehexorcism
+    website: https://bandcamp.com/hexsymbol
+  abstract: '<p>What started as a small effort by Bandcamp’s Support team to replace
+    biased, unkind, and “cringe” tags in our support tools evolved into an ongoing
+    conversation about the importance of inclusive and kind communication in fostering
+    non-judgemental and accessible spaces. The goal of the Inclusive Language Project
+    is to eliminate biased and discriminatory language across all of Bandcamp’s surfaces,
+    benefiting artists, fans, and employees.</p>
+
+    <p>Bandcamp is a global company, with employees across 4 continents and many time
+    zones, working together for the benefit of artists around the world. Documentation–both
+    internal and external–is critical to our success. We started by identifying language
+    in our internal documentation that didn’t meet our updated standards. Working
+    with stakeholders across the company, we built consensus on replacements for biased,
+    non-inclusive words. Positive response to the project, and fostering of a safe
+    space for discourse, encouraged involvement from other teams and led to more inclusive
+    communication company-wide, from hiring and training to daily communication in
+    Slack. </p>
+
+    <p>As the project progressed, it was increasingly apparent that language inclusivity
+    is an accessibility concern. Inclusivity is about giving equal access and opportunities
+    to everyone, and naturally led us to think about how to build accessible systems
+    that enable and optimize that access. The inclusive language project is now an
+    on-going, cross functional effort to make Bandcamp more accessible. </p>
+
+    <p>In this session you''ll learn how to identify an entry point into more inclusive
+    documentation, how to demonstrate value by starting small, and how to build organizational
+    trust. We''ll also talk about how to continue the conversation and nurture ongoing
+    efforts beyond fixes to documentation, and review and answer questions like:</p>
+
+    <p>How can a company with an established brand or voice evolve towards a more
+    just presence?</p>
+
+    <p>How can a distributed team reduce and protect against culture bias?</p>
+
+    <p>How can an inclusive language policy foster a learning environment when discussing
+    sensitive or controversial topics?</p>'
+- title: 'Lessons Learned from Cloud Ops: Writing Docs for High-Stakes Situations'
+  slug: lessons-learned-from-cloud-ops-writing-docs-for-high-stakes-situations-alastair-dallas
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2022
+  speakers:
+  - name: Alastair Dallas
+    slug: alastair-dallas
+    twitter: 
+    website: 
+  - name: Shane Diven
+    slug: shane-diven
+    twitter: 
+    website: 
+  abstract: '<p>Runbooks written for DevOps organizations offer an unusual set of
+    writing challenges--time is of the essence for the reader and, often, performance
+    is monitored.</p>
+
+    <p>At Splunk, we use runbooks to prescribe our response to incidents and to codify
+    standard operating procedures. When an incident occurs, the goal is to restore
+    operations as quickly as possible. For standard procedures, the goal is to affect
+    change with no impact to the customer experience. In either case, the runbook
+    must be useful–concise, complete, authoritative, and inclusive of escalation paths
+    and other solutions if the first approach doesn’t work. Typical components of
+    a Splunk runbook include:
+
+    - Workflow diagram
+
+    - Pre-Checks - Guided investigation; what is the sit-rep?
+
+    - Execution
+
+    - Post-Checks - How do we prove that the system is back to a healthy state?
+
+    - Labels to assist Confluence search, especially including synonyms</p>
+
+    <p>No matter what kind of writing you do, we think you’ll find the world of runbooks
+    useful. Our reader’s goals may be different, but the strategies we use to write
+    clearly and with urgency leave nothing to chance–and your readers may benefit
+    from this approach, too. In this talk, you can learn:
+
+    - How we abbreviate information to speed up intake when time counts.
+
+    - How docs can work with teams to reinforce onboarding, expected behaviors, and
+    additional training.
+
+    - How documentation can help DevOps blur the distinction between developers and
+    operations teams.
+
+    - How to tighten feedback loops and plan for continuous improvement.</p>'
+- title: 'One AWS team’s move to docs as code: what worked, what didn’t, what’s next'
+  slug: one-aws-team-s-move-to-docs-as-code-what-worked-what-didn-t-what-s-next-marcia-riefer-johnston
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2022
+  speakers:
+  - name: Marcia Riefer Johnston
+    slug: marcia-riefer-johnston
+    twitter: '@MarciaRJohnston'
+    website: https://writing.rocks
+  abstract: '<p>If you deliver docs as PDFs, manually formatting your files and emailing
+    them around, you know that the process can be error-prone and slow. That’s how
+    our team used to do docs. Our team is an Amazon Web Services (AWS) group of developers
+    and tech writers—specifically, the Integration and Automation team. Our docs are
+    guides for <a href="https://aws.amazon.com/quickstart/">AWS reference architectures</a>
+    that help people deploy popular technologies in the AWS Cloud.</p>
+
+    <p>In 2020, we switched to a <a href="https://www.writethedocs.org/guide/docs-as-code/">docs-as-code</a>
+    approach, which we dubbed Docs 2.0, using AsciiDoc and GitHub Pages. </p>
+
+    <ul>
+
+    <li>With the use of AsciiDoc, a plain-text authoring format, we streamlined our
+    process in several ways: We incorporated documentation into the same CI/CD pipeline
+    that we used for code. We built a set of files whose content stayed the same across
+    the whole doc set, making that content uneditable so that authors could focus
+    on project-specific information. And we created variables and conditions to allow
+    for flexibility while improving consistency. </li>
+
+    <li>With GitHub Pages, we automatically generated attractive, navigable docs.</li>
+
+    </ul>
+
+    <p>Docs 2.0 has streamlined our process. Developers create content more efficiently
+    now that they’re working in a familiar text-based environment. Tech writers no
+    longer have to fix formatting or restore the content that no one was supposed
+    to touch. Also, docs get updated faster since anyone can submit pull requests.
+    Finally, we added translations and spun off various types of guides.</p>
+
+    <p>As successful as Docs 2.0 was, we ran into issues. </p>
+
+    <ul>
+
+    <li>Our docs became hard to manage and learn as variables and conditions proliferated.
+    </li>
+
+    <li>Subjecting docs to the same testing as the code created delays and prevented
+    technical writers from independently publishing doc edits.</li>
+
+    <li>Keeping common content in every doc made content maintenance unnecessarily
+    complex.</li>
+
+    </ul>
+
+    <p>We’re addressing these issues by further streamlining our files and processes
+    in Docs 2.1.</p>'
+- title: 'Code Cowpokes and Word Wranglers: from Mutual Admiration to Solidarity'
+  slug: code-cowpokes-and-word-wranglers-from-mutual-admiration-to-solidarity-erin-dees
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2022
+  speakers:
+  - name: Erin Dees
+    slug: erin-dees
+    twitter: '@undees'
+    website: https://erindees.me
+  abstract: '<p><em>Collaboration with tech writers, from a developer''s perspective</em></p>
+
+    <p>We''ve all been in workplaces that kept engineers and documentarians siloed.
+    We''ve suffered under time pressure, different tools, and even explicit directives
+    for each group not to "bother the others." The result is software projects and
+    documents that drift out of sync—not to mention frustrated collaborators all around.</p>
+
+    <p>But many of us have seen glimmers of hope, too. We''ve seen environments that
+    foster sharing across disciplines. We''ve worked with engineering teams who seek
+    out ways to contribute to the docs. Even better, we''ve seen software massively
+    improve <em>because of</em> the docs.</p>
+
+    <p>In this talk, you''ll hear stories from the field from an engineer''s perspective:
+    team structures that have made collaboration natural, features that we changed
+    because the docs proved them unusable in their current form, and how we''re making
+    documentation part of the software development process from the very beginning.</p>
+
+    <p>We''ll finish with ideas on how you can make this kind of collaboration part
+    of your culture, part of your reward structure, and part of your team design.</p>'
