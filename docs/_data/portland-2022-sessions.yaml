@@ -13,19 +13,30 @@
     slug: erin-mckean
     twitter: '@emckean'
     website: https://erinmckean.com
-  abstract: "<p>Season of Docs is a program run by Google’s Open Source Programs Office.
-    The SoD program has three goals: \n- Improve documentation in open source projects\n-
-    Create opportunities for technical writers to participate in open source projects\n-
-    Expand our knowledge of effective metrics for evaluating open source documentation</p>\n<p>2021
-    was the third year of the Season of Docs program, and the first year where projects
-    were asked to explicitly state the problems they expected their documentation
+  abstract: '<p>Season of Docs is a program run by Google’s Open Source Programs Office.
+    The SoD program has three goals:</p>
+
+    <ul>
+
+    <li>Improve documentation in open source projects</li>
+
+    <li>Create opportunities for technical writers to participate in open source projects</li>
+
+    <li>Expand our knowledge of effective metrics for evaluating open source documentation</li>
+
+    </ul>
+
+    <p>2021 was the third year of the Season of Docs program, and the first year where
+    projects were asked to explicitly state the problems they expected their documentation
     projects to solve and to outline the metrics they would use to evaluate the success
-    of their documentation projects. </p>\n<p>In this talk, we’ll share what we learned
-    about documentation metrics through the 30 case studies completed by Season of
-    Docs projects: what worked, what didn’t work, and what’s too soon to tell. We’ll
-    also share what projects learned about working with technical writers, including
-    how technical writers can be compensated for working in open source, and what
-    projects learned about integrating technical writers into their communities.</p>"
+    of their documentation projects. </p>
+
+    <p>In this talk, we’ll share what we learned about documentation metrics through
+    the 30 case studies completed by Season of Docs projects: what worked, what didn’t
+    work, and what’s too soon to tell. We’ll also share what projects learned about
+    working with technical writers, including how technical writers can be compensated
+    for working in open source, and what projects learned about integrating technical
+    writers into their communities.</p>'
 - title: Don't trust the numbers!
   slug: don-t-trust-the-numbers-kumar-dhanagopal
   series: Write the Docs Portland
@@ -106,17 +117,21 @@
     I was able to stay on trail and successfully complete my thru-hike.</p>
 
     <p>Our work lives are full of large endurance projects. They can be really exciting,
-    like:
+    like:</p>
 
-    - Starting a new knowledge base from scratch
+    <ul>
 
-    - Taking ownership of an existing set of documentation
+    <li>Starting a new knowledge base from scratch</li>
 
-    - Building new curricula or programming
+    <li>Taking ownership of an existing set of documentation</li>
 
-    - Building a major new feature
+    <li>Building new curricula or programming</li>
 
-    - Hiking a really long trail (okay, maybe not this one)</p>
+    <li>Building a major new feature</li>
+
+    <li>Hiking a really long trail (okay, maybe not this one)</li>
+
+    </ul>
 
     <p>In all of these projects, there''s an initial phase of enthusiasm and excitement
     followed by a period of productive work. Then there''s this period in the middle
@@ -144,17 +159,21 @@
     professional help authoring software will have support for single source as one
     of their top three killer features. </p>
 
-    <p>The benefits are obvious. Yes, reusing content lets you
+    <p>The benefits are obvious. Yes, reusing content lets you</p>
 
-    - maintain consistency
+    <ul>
 
-    - avoid making updates to multiple help articles when an UI changes
+    <li>maintain consistency</li>
 
-    - reduce on the review and editing effort
+    <li>avoid making updates to multiple help articles when an UI changes</li>
 
-    - reduce on localisation costs
+    <li>reduce on the review and editing effort</li>
 
-    - adjust content for different documentation deliverables</p>
+    <li>reduce on localisation costs</li>
+
+    <li>adjust content for different documentation deliverables</li>
+
+    </ul>
 
     <p>But has anyone ever told you about the flip side of single-sourcing every chunk
     of content that can potentially be reused? Alas, there''s no such thing as a free
@@ -181,15 +200,28 @@
     slug: ben-perlmutter
     twitter: '@bpmutter'
     website: https://ben.perlmutter.io
-  abstract: "<p>What’s the fastest way to make developers complain about your docs?
-    Give them code examples that don’t work. </p>\n<p>As technical writers, we face
-    the constant challenge of keeping code examples accurate and up-to-date. Just
-    as software developers write unit tests to validate that their code remains functional,
-    technical writers can create code examples within unit tests to validate that
-    their documentation is correct. </p>\n<p>In this talk you will learn: \n- Why
-    you should write code examples within unit tests\n- What you should and shouldn’t
-    test\n- How to implement tested code examples \n- How to set up continuous integration
-    tests to make sure that code examples always work</p>"
+  abstract: '<p>What’s the fastest way to make developers complain about your docs?
+    Give them code examples that don’t work. </p>
+
+    <p>As technical writers, we face the constant challenge of keeping code examples
+    accurate and up-to-date. Just as software developers write unit tests to validate
+    that their code remains functional, technical writers can create code examples
+    within unit tests to validate that their documentation is correct. </p>
+
+    <p>In this talk you will learn: </p>
+
+    <ul>
+
+    <li>Why you should write code examples within unit tests</li>
+
+    <li>What you should and shouldn’t test</li>
+
+    <li>How to implement tested code examples </li>
+
+    <li>How to set up continuous integration tests to make sure that code examples
+    always work</li>
+
+    </ul>'
 - title: Peer writing and beyond - An experimental approach to a sustainable open-source
     projects
   slug: peer-writing-and-beyond-an-experimental-approach-to-a-sustainable-open-source-projects-chris-ganta
@@ -201,28 +233,51 @@
     slug: chris-ganta
     twitter: 
     website: 
-  abstract: "<p>At the Good Docs project, we serendipitously discovered that peer
+  abstract: '<p>At the Good Docs project, we serendipitously discovered that peer
     writing is significantly more effective and efficient than traditional siloed
     writing for open source documentation. As we were building the APAC templates
     working group, one of the technical writers suggested a peer-writing approach
     wherein an informal group is formed to collaborate and work together to create
     a quickstart template. Thus began the story of global collaboration between three
     technical writers with diverse backgrounds. Our goal was to plan, explore, analyze,
-    create, and publish an exemplary quickstart template.</p>\n<p>Unlike pair programming,
-    peer writing is often viewed with skepticism. We have often encountered intriguing
-    questions from the community, such as:</p>\n<ul>\n<li>How can multiple technical
-    writers work together on a single document?</li>\n<li>How did we overcome conflicts
-    without hurting each other?</li>\n<li>How did we create a haven for enthusiastic
-    newbies to quickly contribute?</li>\n<li>How did we create a culture that is non-judgemental
-    and adopt an attitude of acceptance, genuineness, and empathy?</li>\n</ul>\n<p>In
-    this talk, on behalf of the working group, I’ll be uncovering our experiences
-    \ and sharing how in this unique journey we:\n- Inspired the entire community
-    to adopt this model\n- Created judgment-free space to share our ideas\n- Helped
-    new tech writers onboard faster into the project\n- Applied our combined expertise
-    to create elegant documents \n- Encouraged each other to push out of our comfort
-    zone</p>\n<p>We strongly believe that the peer-writing model fosters a greater
-    sense of belonging within the community, builds resilient and empathetic teams,
-    and enables contributors to create top-quality documentation for the project.</p>"
+    create, and publish an exemplary quickstart template.</p>
+
+    <p>Unlike pair programming, peer writing is often viewed with skepticism. We have
+    often encountered intriguing questions from the community, such as:</p>
+
+    <ul>
+
+    <li>How can multiple technical writers work together on a single document?</li>
+
+    <li>How did we overcome conflicts without hurting each other?</li>
+
+    <li>How did we create a haven for enthusiastic newbies to quickly contribute?</li>
+
+    <li>How did we create a culture that is non-judgemental and adopt an attitude
+    of acceptance, genuineness, and empathy?</li>
+
+    </ul>
+
+    <p>In this talk, on behalf of the working group, I’ll be uncovering our experiences  and
+    sharing how in this unique journey we:</p>
+
+    <ul>
+
+    <li>Inspired the entire community to adopt this model</li>
+
+    <li>Created judgment-free space to share our ideas</li>
+
+    <li>Helped new tech writers onboard faster into the project</li>
+
+    <li>Applied our combined expertise to create elegant documents </li>
+
+    <li>Encouraged each other to push out of our comfort zone</li>
+
+    </ul>
+
+    <p>We strongly believe that the peer-writing model fosters a greater sense of
+    belonging within the community, builds resilient and empathetic teams, and enables
+    contributors to create top-quality documentation for the project.</p>'
 - title: 'All together now: Turning technologists into documentarians'
   slug: all-together-now-turning-technologists-into-documentarians-liani-lye-she-her
   series: Write the Docs Portland
@@ -328,32 +383,40 @@
     change with no impact to the customer experience. In either case, the runbook
     must be useful–concise, complete, authoritative, and inclusive of escalation paths
     and other solutions if the first approach doesn’t work. Typical components of
-    a Splunk runbook include:
+    a Splunk runbook include:</p>
 
-    - Workflow diagram
+    <ul>
 
-    - Pre-Checks - Guided investigation; what is the sit-rep?
+    <li>Workflow diagram</li>
 
-    - Execution
+    <li>Pre-Checks - Guided investigation; what is the sit-rep?</li>
 
-    - Post-Checks - How do we prove that the system is back to a healthy state?
+    <li>Execution</li>
 
-    - Labels to assist Confluence search, especially including synonyms</p>
+    <li>Post-Checks - How do we prove that the system is back to a healthy state?</li>
+
+    <li>Labels to assist Confluence search, especially including synonyms</li>
+
+    </ul>
 
     <p>No matter what kind of writing you do, we think you’ll find the world of runbooks
     useful. Our reader’s goals may be different, but the strategies we use to write
     clearly and with urgency leave nothing to chance–and your readers may benefit
-    from this approach, too. In this talk, you can learn:
+    from this approach, too. In this talk, you can learn:</p>
 
-    - How we abbreviate information to speed up intake when time counts.
+    <ul>
 
-    - How docs can work with teams to reinforce onboarding, expected behaviors, and
-    additional training.
+    <li>How we abbreviate information to speed up intake when time counts.</li>
 
-    - How documentation can help DevOps blur the distinction between developers and
-    operations teams.
+    <li>How docs can work with teams to reinforce onboarding, expected behaviors,
+    and additional training.</li>
 
-    - How to tighten feedback loops and plan for continuous improvement.</p>'
+    <li>How documentation can help DevOps blur the distinction between developers
+    and operations teams.</li>
+
+    <li>How to tighten feedback loops and plan for continuous improvement.</li>
+
+    </ul>'
 - title: 'One AWS team’s move to docs as code: what worked, what didn’t, what’s next'
   slug: one-aws-team-s-move-to-docs-as-code-what-worked-what-didn-t-what-s-next-marcia-riefer-johnston
   series: Write the Docs Portland
