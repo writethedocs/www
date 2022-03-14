@@ -3,7 +3,7 @@
 .. post:: March 09, 2022
    :tags: portland-2022, speakers, tickets, visiting, sponsors
 
-Announcing speakers and sessions
+Announcing speakers and talks
 ================================
 
 We're writing today with an update on the next virtual Portland conference.
@@ -28,6 +28,8 @@ Tickets are going fast!
 -----------------------
 
 If you don't have your ticket yet, now's a great time to snap one up. Conference tickets have sold out for the last several years, and they go faster along with the speaker announcement, so if you're planning to come, don't leave it to the last minute.
+
+We will close registrations around one week before the conference, to give folks enough time to set up their Hopin credentials.
 
 `Buy your tickets here! <https://www.writethedocs.org/conf/portland/{{year}}/tickets/>`_
 
