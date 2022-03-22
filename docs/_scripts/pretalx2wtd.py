@@ -28,6 +28,8 @@ CONTENT_TYPE_EXTENSIONS = {
     'image/jpg': 'jpg',
     'image/png': 'png',
 }
+MAX_TITLE_LENGTH_FOR_SLUG = 80  # For #1311
+
 def convert_to_yaml(year, series, series_slug, yaml_output, pretalx_slug):
     if not os.environ.get('PRETALX_TOKEN'):
         print('Error: PRETALX_TOKEN not found in environment variables.')
@@ -41,7 +43,7 @@ def convert_to_yaml(year, series, series_slug, yaml_output, pretalx_slug):
         return
 
     for index, talk in enumerate(submissions.json()['results']):
-        slug = slugify(talk['title'] + '-' + talk['speakers'][0]['name'])
+        slug = slugify(talk['title'][:MAX_TITLE_LENGTH_FOR_SLUG] + '-' + talk['speakers'][0]['name'])
         print(f'Processing talk {slug}...')
 
         speaker_info = retrieve_speaker_info([s['code'] for s in talk['speakers']], http_headers, pretalx_slug)
