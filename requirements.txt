@@ -20,5 +20,5 @@ sphinxemoji==0.2.0
 # For atom feed support
 Werkzeug==0.16.1 # pyup: <1.0
 # For fancy 404 pages
-git+https://github.com/rtfd/sphinx-notfound-page@0.8#egg=sphinx-notfound-page
+sphinx-notfound-page==0.8
 
