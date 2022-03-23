@@ -1,7 +1,7 @@
 Write the Docs newsletter
 #########################
 
-At the beginning of every month, we put out an `email newsletter </newsletter/>`__ to the community - at time of writing, this goes to about 6k readers. It's built around a handful of stories that we capture and write-up from the Slack team, and also includes an overview of what the org team is working on and a calendar listing of upcoming community events.
+At the beginning of every month, we put out an `email newsletter </newsletter/>`__ to the community - around {{newsletter_subs}} readers. It's built around a handful of stories that we capture and write-up from the Slack team, and also includes an overview of what the org team is working on and a calendar listing of upcoming community events.
 
 This doc explains how to put the newsletter out each month. We take two breaks a year when we don't publish - we don't put out a newsletter in January or August.
 
