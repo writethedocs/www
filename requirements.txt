@@ -5,7 +5,7 @@ sphinx_autobuild==2021.3.14
 PyYAML>=4.2b1
 # Sphinx (checked with 4.3) requires docutils=<0.18
 docutils==0.17.1   # pyup: <0.18
-csvkit==1.0.6
+csvkit==1.0.7
 yamllint==1.26.3
 pathlib==1.0.1
 sphinxcontrib.datatemplates==0.9.1
@@ -20,5 +20,5 @@ sphinxemoji==0.2.0
 # For atom feed support
 Werkzeug==0.16.1 # pyup: <1.0
 # For fancy 404 pages
-git+https://github.com/rtfd/sphinx-notfound-page@master#egg=sphinx-notfound-page
+sphinx-notfound-page==0.8
 
