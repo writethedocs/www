@@ -57,7 +57,7 @@ This month’s newsletter is sponsored by SPONSOR:
           </td>
           <td width="25%">
             <a href="https://www.LINK.COM">
-              <img style="margin-left: 15px;" alt="SPONSOR" src="/_static/img/sponsors/IMAGE.png">
+              <img style="margin-left: 15px;" alt="SPONSOR" src="/_static/img/sponsors/rtd.png">
             </a>
           </td>
         </tr>
