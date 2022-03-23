@@ -28,6 +28,8 @@ CONTENT_TYPE_EXTENSIONS = {
     'image/jpg': 'jpg',
     'image/png': 'png',
 }
+MAX_TITLE_LENGTH_FOR_SLUG = 80  # For #1311
+
 def convert_to_yaml(year, series, series_slug, yaml_output, pretalx_slug):
     if not os.environ.get('PRETALX_TOKEN'):
         print('Error: PRETALX_TOKEN not found in environment variables.')
@@ -41,7 +43,7 @@ def convert_to_yaml(year, series, series_slug, yaml_output, pretalx_slug):
         return
 
     for index, talk in enumerate(submissions.json()['results']):
-        slug = slugify(talk['title'] + '-' + talk['speakers'][0]['name'])
+        slug = slugify(talk['title'][:MAX_TITLE_LENGTH_FOR_SLUG] + '-' + talk['speakers'][0]['name'])
         print(f'Processing talk {slug}...')
 
         speaker_info = retrieve_speaker_info([s['code'] for s in talk['speakers']], http_headers, pretalx_slug)
@@ -107,9 +109,9 @@ def retrieve_speaker_info(speaker_codes, http_headers, pretalx_slug):
 
 if __name__ == '__main__':
     convert_to_yaml(
-        year='2021',
-        series='Write the Docs Prague',
-        series_slug='prague',
-        yaml_output='../_data/prague-2021-sessions.yaml',
-        pretalx_slug='write-the-docs-prague-2021'
+        year='2022',
+        series='Write the Docs Portland',
+        series_slug='portland',
+        yaml_output='../_data/portland-2022-sessions.yaml',
+        pretalx_slug='wtd-portland-2022'
     )
