@@ -6,11 +6,11 @@ Working from Slack conversations is a little tricky, but our goal is to distill 
 
 The other thing to keep in mind is that, while we are paraphrasing from conversations we (probably) didn't participate in, we want to be on guard against the temptation to editorialize. Try not to let your personal opinions sneak into your articles too much. And if there are two (or more) sides that come up in a discussion, we want to cover all of them as even-handedly as possible.
 
-One last big picture thing: Remember that the newsletter is governed by the `WTD Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_ just like any other part of the community. (In fact, even more strenuously since it's coming from the organization directly.) So if you run across anything that's even minorly dicey, with regards to the CoC, omit it from your story.
+One last big picture thing: Remember that the newsletter is governed by the `WTD Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_ just like any other part of the community. (In fact, even more strenuously since it's coming from the organization directly.) So if you run across anything that's close to the line with regards to the CoC, omit it from your story.
 
 Some notes on the mechanics:
 
-* Each story should be 250 words maximum, unless there's a good reason for it to be longer.
+* Each story should be 250 words maximum. We do sometimes allow longer articles if there's a lot of valuable content, but in general try to stick to this.
 * Titles are in sentence case.
 * Hyperlinks should be plain text: use descriptive text, rather than the URL, to attach the link to.
 * The proper, branded capitalization for WTD is 'Write the Docs', with a lowercase ``the``. But the acronym *is* WTD, all caps.
