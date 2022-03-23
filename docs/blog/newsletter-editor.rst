@@ -1,5 +1,5 @@
 
-.. post:: March 07, 2022
+.. post:: March 23, 2022
 
 ###################################
 Looking for a new newsletter editor
@@ -15,7 +15,7 @@ What you'll do
 
 You'll be responsible for putting together the newsletter each month. The process looks roughly like this:
 
-- During the month, keep an eye on Slack and flag any interesting conversations. The community also able to flag conversations for the newsletter, which you can draw from. 
+- During the month, keep an eye on Slack and flag any interesting conversations. The community also flag conversations for the newsletter, so you can draw from their suggestions too. 
 - Towards the end of the month, pick 4-5 topics to turn into articles.
 - Share the topics to be written up with our awesome team of writers, and write one yourself.
 - Edit the articles into a coherent newsletter and fill out the rest (news, jobs, meetup) .
