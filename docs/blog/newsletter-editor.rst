@@ -15,12 +15,12 @@ What you'll do
 
 You'll be responsible for putting together the newsletter each month. The process looks roughly like this:
 
-- During the month, keep an eye on Slack and flag any interesting conversations.
+- During the month, keep an eye on Slack and flag any interesting conversations. The community also able to flag conversations for the newsletter, which you can draw from. 
 - Towards the end of the month, pick 4-5 topics to turn into articles.
 - Share the topics to be written up with our awesome team of writers, and write one yourself.
 - Edit the articles into a coherent newsletter and fill out the rest (news, jobs, meetup) .
 
-Overall it's a few hours of work each month - except for August and Janary, where we take a little holiday. For more detail, the whole process is documented (of course!) `on the WTD site </organizer-guide/newsletter/newsletter-process/>`__.
+Overall it's a few hours of work each month - except for August and Janary, where we take a little holiday. For more detail, the whole process is documented (of course!) `on the WTD site </organizer-guide/newsletter/newsletter-process/>`__. This role has an optional stipend of $200/mo to help ensure that you can dedicate time to completing the newsletter.
 
 You don't have to get started from scratch - if you'd like, you can pair with Beth for a month or two to get into the swing of things.
 
@@ -28,4 +28,5 @@ You don't have to get started from scratch - if you'd like, you can pair with Be
 Interested?
 -----------
 
-If you have any questions, or if you think you'd like to be our new editor, drop us a line at newsletter@writethedocs.org!
+If you have any questions, or if you think you'd like to be our new editor, drop us a line at newsletter@writethedocs.org! You can also ping Beth Aitman, or Eric Holscher on Slack to get more information if that's easier. 
+
