@@ -1,7 +1,7 @@
 Write the Docs newsletter
 #########################
 
-At the beginning of every month, we put out an `email newsletter </newsletter/>`__ to the community - around {{newsletter_subs}} readers. It's built around a handful of stories that we capture and write-up from the Slack team, and also includes an overview of what the org team is working on and a calendar listing of upcoming community events.
+At the beginning of every month, we put out an `email newsletter </newsletter/>`__ to the community - around {{newsletter_subs}} readers. It's built around a handful of stories that we capture and write-up from the Slack team; also includes an overview of what the org team is working on, a calendar listing of upcoming community events, and featured jobs from the jobs board.
 
 This doc explains how to put the newsletter out each month. We take two breaks a year when we don't publish - we don't put out a newsletter in January or August.
 
@@ -34,6 +34,8 @@ A week before the planned ship date, the editor should:
 
    Link to the new Google doc, and set a deadline to have drafts back, 2-3 days before shipping.
 
+You should also mention the contributor for the BIPOC "What we're reading", so they know about the deadline.
+
 Picking the stories
 -------------------
 
@@ -52,6 +54,7 @@ Once all the story drafts have come in, it's time to assemble, based on the `out
 
 * The top section is an Editor's letter. It's a quick greeting and introduction, then touches on any big things happening in the community during the month, then segues into the stories. Usually 100-200 words, depending on how much news there is.
 * Next come the stories. They should be edited for length and clarity and tone, as well as to make sure they've followed the :doc:`editorial-guidelines`.
+* After this is the "What we're reading" section, with three links chosen by folks in the #bipoc channel.
 * If there are sponsors this month, the sponsorship article comes after the main stories.
 * Featured jobs section.
 * Finally, the upcoming events section lists meetups scheduled for the next month. Get a list of current meetup events from https://www.writethedocs.org/meetups/.
