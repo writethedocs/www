@@ -184,9 +184,12 @@ sponsors:
     #   link: https://www.google.com
     #   brand: Google
   publisher:
-    # - name: cncf
-    #   link: https://www.cncf.io/
-    #   brand: Cloud Native Computing Foundation
+    - name: cncf
+      link: https://www.cncf.io/
+      brand: Cloud Native Computing Foundation
+    - name: mongodb
+      link: https://www.mongodb.com/
+      brand: MongoDB
     # - name: slack
     #   link: https://slack.com/
     #   brand: Slack
@@ -199,9 +202,6 @@ sponsors:
       brand: KnowledgeOwl
       width: 250px
       text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl​ is looking for more contributors for our ​company blog​. This is an opportunity to write about a topic that interests you and get paid for it :)</p> <p>KnowledgeOwl also sponsors and hosts The Not-Boring Tech Writer podcast. We are always looking for new guests to share their stories, experience, and expertise with the world.</p> <p>Feel free to stop by and ask us more about KnowledgeOwl, these opportunities, or anything else!</p>"
-    # - name: mongodb
-    #   link: https://www.mongodb.com/
-    #   brand: MongoDB
     # - name: juniper
     #   link: https://www.juniper.net/
     #   brand: Juniper
@@ -225,10 +225,10 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: True
+flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: False
 flaghasunconf: True
