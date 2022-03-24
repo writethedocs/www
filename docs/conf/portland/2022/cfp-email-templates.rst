@@ -17,7 +17,7 @@ Speaker email templates
 
       * Standard WTD conference variables {% raw %}``{{tz}}``{% endraw %} (which are expanded)
       * Hidden environment variables {% raw %}``{{cfp_variables['upload']}}``{% endraw %} (which are expanded)
-      * Pretalx variables which are only expanded in Pretalx {% raw %}``{speakers}``{% endraw %}
+      * Pretalx variables which are only expanded in Pretalx {% raw %}``{name}``{% endraw %}
 
 
 CFP - Acceptance template
@@ -33,7 +33,7 @@ Subject:
 
 ::
 
-   Hi {speakers},
+   Hi {name},
 
    The Write the Docs {{city}} talk selection committee has finished the review process and we'd love it if you could join us as a speaker!
 
@@ -74,7 +74,7 @@ Subject:
 
 ::
 
-   Hi {speakers},
+   Hi {name},
 
    Thanks so much for submitting a proposal to speak at this year's Write the Docs {{city}}. Every year we receive a growing number of proposals, and we're always blown away by the amazing breadth of knowledge that our community brings to the table.  Unfortunately, presentation spots are limited and the talk selection committee wasn't able to include your talk in our program this year.
 
@@ -101,7 +101,7 @@ Subject:
 
 ::
 
-   Hi {speakers},
+   Hi {name},
 
    Thanks so much for submitting a proposal to speak at this year's Write the Docs {{city}} conference. Our selection committee has just wrapped up our review, and we had such a hard time choosing from so many awesome proposals. We'd like to ask if you'd be willing to be on the short list of alternate talks that we'd really like to see, but ran out of room for on the schedule.
 
@@ -120,19 +120,19 @@ Subject:
 
 ::
 
-   Hi {speakers},
+   Hi {name},
 
-   Just wanted to drop you all a quick note covering some logistics.
+   Just wanted to drop you all a quick note covering some logistics. Talks are pre-recorded again this year, we'd love to get those recordings from you before {{cfp.video_by}}. We do have a videographer who can help you record remotely, drop us a line if that is something you're interested in. We're finzalizing details on the live Q&A for each talk.
 
-   ○  I've added some questions to our [CFP tool (Pretalx)]({{cfp.url}}) for you about your pronouns, interesting facts and name pronunciation. Please log in at {{cfp.url}} and answer those (although we'll only need them closer to the event).
+   ○  I've added some questions to our [CFP tool (Pretalx)]({{cfp.url}}) about your pronouns, interesting facts, name pronunciation, and slack username. Please log in at {{cfp.url}} and answer those (although we'll only need them closer to the event).
 
-   ○ If you haven't done so already, please upload a speaker pic to your Pretalx account, it'll look so much better than the anonymous outline.
+   ○ If you haven't done so already, please upload a speaker pic to your Pretalx account while you're there, it'll look so much better than the anonymous outline.
 
    ○ Private speaker slack channel! If you're not on the slack already, [join the WTD slack]({{slack_join}}). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains all of our past speakers, who will be happy to offer advice or answer questions.
 
-   * [Speaker mentoring guidelines](https://www.writethedocs.org/organizer-guide/confs/cfp/#speaker-mentoring) -- let us know if you'd like to talk over your proposal or slide deck with a speaker from a previous year.
+   ○ [Speaker mentoring guidelines](https://www.writethedocs.org/organizer-guide/confs/cfp/#speaker-mentoring) -- let us know if you'd like to talk over your proposal or slide deck with a speaker from a previous year.
 
-   * While you're working on your talks, we'd love for you to check out our updated [Speaking Tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) page! It's got all sorts of details on talk format, tech specs, content guidelines, etc.
+   ○ While you're working on your talks, we'd love for you to check out our updated [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) page! It's got all sorts of details on talk format, tech specs, content guidelines, etc.
 
    Also, if you're ever in doubt about whether something you're writing would be appropriate or not, we'd like to refer you to our conference Code of Conduct, which asks that you refrain from any sexually suggestive or harassing language of any kind. Check it out in full, drop me a line if you have questions: http://www.writethedocs.org/code-of-conduct/
 
@@ -148,7 +148,7 @@ Subject:
 
 ::
 
-   Hi {speakers},
+   Hi {name},
 
    Here are the important details you've been waiting for! I'll get into specifics below, but first the important ones:
 
@@ -185,7 +185,7 @@ Subject:
 
 ::
 
-   Hi {speakers},
+   Hi {name},
 
    Hope you're all well!
 
@@ -226,7 +226,7 @@ Subject:
 
 ::
 
-   Hi {speakers},
+   Hi {name},
 
    The conference is almost upon us! First off, thank you all so much for all of the hard work you've put into getting the recordings done and uploaded.
 
@@ -263,7 +263,7 @@ Subject:
 
 ::
 
-   Hi {speakers},
+   Hi {name},
 
    It is a wrap! Thank you one last time for your hard work, insight and creativity.
 
