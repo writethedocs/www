@@ -70,7 +70,7 @@ Team leads
     - be approved by the community council
 
 Want to join a team?
-  Send an email to support@writethedocs.org or contact the team lead directly. After the WEP process, the WTD website will be updated with the full list of teams and team lead contacts. 
+  Send an email to support@writethedocs.org or contact the team lead directly.
   
 Team Descriptions
 -----------------
@@ -80,8 +80,8 @@ Community Council
 
 Responsibilities
   - Meet quarterly to discuss community-wide projects and strategy, make internal organizational decisions, and give team leads a place to raise issues and ask questions
-  - Publish a quarterly transparency report with important updates and any decisions that were made during the quarterly meeting
-  - Follow and respond to emails sent to the Community Council mailing list (average volume 1-2 emails per month), including reviewing and approving team lead applications
+  - Publish a quarterly transparency report ("meeting minutes") with important updates and any decisions that were made during the quarterly meeting
+  - Follow and respond to emails sent to the Community Council team mailing list (average volume 1-2 emails per month), including reviewing and approving team lead applications
 
 Membership
   - All team leads are included in the community council (no external membership)
@@ -99,7 +99,7 @@ Responsibilities
   - Financial and legal compliance
   - Trademark and brand development
   - Support and enable all teams and team leads
-  - Manage internal tools (emails, passwords, conference tickets, sponsorships)
+  - Manage internal tools (email accounts, passwords, conference tickets, sponsorships)
   - Strategic development for the organization and the community
   - Semi-annual publication of community-wide updates (statistics, strategy)
   - Maintain Website pages that describe the community
@@ -108,7 +108,7 @@ Responsibilities
   - At least one team member must check the Support inbox daily
 
 Membership
-  - Team members are appointed the business owner of Write the Docs and approved by the community council
+  - Team members are appointed by the business owner of Write the Docs and approved by the community council
   - Team members are paid on a freelance basis according to budget availability
 
 Members
@@ -162,6 +162,7 @@ Membership
 Members
   - Each conference has its own CoC team
   - Meetups and Slack moderation teams perform their own processing
+  - A global CoC team is staffed by CoreOps, and acts as a fallback for the other CoC functions within the community. 
 
 Brand and Design
 ................
@@ -284,6 +285,7 @@ Membership
   - Experience with community moderation or marketing content is strongly preferred
 
 Members
+  - `Sasha Romijn <https://twitter.com/mxsash>`_ * 
   - You?
 
 Documentation Guide
