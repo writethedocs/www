@@ -139,7 +139,7 @@ over 1,500 :doc:`meetup </meetups/index>` members that have joined meetup groups
 The community keeps growing larger and larger,
 and we're happy to welcome everyone into this wonderful group of documentarians.
 
-For a video testimonial, see this interview of [Why You Should Doc Code with Write the Docs' Eric Holscher & Marcia Riefer Johnston](https://www.youtube.com/watch?v=j6rQpO_6XUU).
+For a video testimonial, see this interview of Why You Should Doc Code with Write the Docs' Eric Holscher & Marcia Riefer Johnston:
 
 .. raw:: html
 
@@ -149,6 +149,6 @@ For a video testimonial, see this interview of [Why You Should Doc Code with Wri
 
     <div class="talk">
       <div class="embed-container">
-        <iframe src="https://www.youtube.com/watch?v=j6rQpO_6XUU }}" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/watch?v=j6rQpO_6XUU }}" frameborder="0" allowfullscreen></iframe>
       </div>
     </div>
