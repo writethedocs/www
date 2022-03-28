@@ -145,6 +145,6 @@ For a video testimonial, see this interview of Why You Should Doc Code with Writ
 
     <div class="talk">
       <div class="embed-container">
-        <iframe src="https://www.youtube.com/embed/watch?j6rQpO_6XUU" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/j6rQpO_6XUU" frameborder="0" allowfullscreen></iframe>
       </div>
     </div>
