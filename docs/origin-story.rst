@@ -143,8 +143,6 @@ For a video testimonial, see this interview of Why You Should Doc Code with Writ
 
 .. raw:: html
 
-    @import url('http://fontawesome.io/assets/font-awesome/css/font-awesome.css');
-
     <div class="talk">
       <div class="embed-container">
         <iframe src="https://www.youtube.com/embed/watch?v=j6rQpO_6XUU }}" frameborder="0" allowfullscreen></iframe>
