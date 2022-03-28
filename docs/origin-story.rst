@@ -143,9 +143,7 @@ For a video testimonial, see this interview of Why You Should Doc Code with Writ
 
 .. raw:: html
 
-    <style type="text/css">
     @import url('http://fontawesome.io/assets/font-awesome/css/font-awesome.css');
-    </style>
 
     <div class="talk">
       <div class="embed-container">
