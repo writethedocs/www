@@ -231,6 +231,7 @@ flagsoldout: False
 flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: True
+flagscheduleincomplete: True
 flaghasunconf: True
 flaghasshirts: False
 flagvideos: False
