@@ -102,7 +102,7 @@
   - name: Kate Mueller
     slug: kate-mueller
     twitter: 
-    website: Can I add this later? Site is under development...
+    website: http://www.livewithsass.com/
   abstract: '<p>In 2018, I quit my job to hike the entire Appalachian Trail, also
     known as the AT. It took me 163 days. That’s 163 days of carrying everything I
     owned on my back, hiking for 10-12 hours a day, wearing the same clothes every
@@ -427,6 +427,10 @@
     slug: marcia-riefer-johnston
     twitter: '@MarciaRJohnston'
     website: https://writing.rocks
+  - name: Dave May
+    slug: dave-may
+    twitter: 
+    website: 
   abstract: '<p>If you deliver docs as PDFs, manually formatting your files and emailing
     them around, you know that the process can be error-prone and slow. That’s how
     our team used to do docs. Our team is an Amazon Web Services (AWS) group of developers
