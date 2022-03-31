@@ -46,6 +46,8 @@ talks_day1:
     title: 'Lunch Break'
   - duration: '0:30'
     title: Lightning Talks (30 mins)
+  - duration: '0:05'
+    title: '5 minute break'
   - duration: '0:30'
     slug: TBD 1/2
   - duration: '0:05'
@@ -66,35 +68,49 @@ talks_day1:
 talks_day2:
   - time: '8:00'
     title: Platform opens
-  - time: '9:00'
-    duration: '0:45'
-    slug: TBD
-  - duration: '0:00'
-    title: "<b>Job Fair Starts</b>"
-  - duration: '0:40'
-    slug: TBD
-  - duration: '0:10'
-    title: Break (10 mins)
-  - duration: '0:45'
-    slug: TBD
-  - duration: '0:40'
-    slug: TBD
-  - duration: '0:00'
-    title: "<b>Job Fair Ends</b>"
-  - duration: '1:00'
-    title: Lunch (60 mins)
-  - duration: '0:35'
-    title: Lightning Talks (30 mins)
   - duration: '0:00'
     title: "<b>Unconference Starts</b>"
-  - duration: '0:45'
-    slug: TBD
-  - duration: '0:45'
-    slug: TBD
-  - duration: '0:40'
-    slug: TBD
-  - duration: '0:15'
-    title: Closing address
+  - time: '09:00'
+    duration: '0:30'
+    slug: TBD 1/2
+  - duration: '0:05'
+    title: '5 minute break'
   - duration: '0:00'
-    title: "<b>Conference Ends</b> :("
+    title: "<b>Job Fair Starts</b>"
+  - duration: '0:30'
+    slug: TBD 2/2
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:15'
+    title: 'Two talk Q&A'
+  - duration: '0:15'
+    title: 'Coffee break'
+  - duration: '0:30'
+    slug: TBD 1/2
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: TBD 2/2
+  - duration: '0:15'
+    title: 'Two talk Q&A'
+  - duration: '1:00'
+    title: 'Lunch Break'
+  - duration: '0:30'
+    title: Lightning Talks (30 mins)
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: TBD 1/2
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: TBD 2/2
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:15'
+    title: 'Two talk Q&A'
+  - duration: '0:15'
+    title: 'Closing address'
+  - duration: '0:00'
+    title: 'Conference ends 😔'
 
