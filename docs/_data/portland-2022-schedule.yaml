@@ -32,28 +32,30 @@ talks_day1:
   - time: '10:40'
     title: 'Two talk Q&A'
   - time: '10:55'
-    title: '5 minute break'
-  - time: '11:00'
+    title: 'Coffee break'
+  - time: '11:10'
     slug: TBD 1/2
-  - time: '11:30'
+  - time: '11:40'
     title: '5 minute break'
-  - time: '11:35'
+  - time: '11:45'
     slug: TBD 2/2
-  - time: '12:05'
+  - time: '12:15'
     title: 'Two talk Q&A'
-  - time: '12:20'
+  - time: '12:30'
     title: 'Lunch Break'
-  - time: '1:20'
+  - time: '1:30'
+    title: Lightning Talks (30 mins)
+  - time: '2:00'
     slug: TBD 1/2
-  - time: '1:50'
+  - time: '2:30'
     title: '5 minute break'
-  - time: '1:55'
+  - time: '2:35'
     slug: TBD 2/2
-  - time: '2:25'
+  - time: '3:05'
     title: '5 minute break'
-  - time: '3:00'
+  - time: '3:10'
     title: 'Two talk Q&A'
-  - time: '3:15'
+  - time: '3:25'
     title: Day 1 wraps up
   - time: '5:00'
     title: "<b>Social Event</b>"
