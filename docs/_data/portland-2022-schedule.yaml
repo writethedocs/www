@@ -68,8 +68,6 @@ talks_day1:
 talks_day2:
   - time: '8:00'
     title: Platform opens
-  - duration: '0:00'
-    title: "<b>Unconference Starts</b>"
   - time: '09:00'
     duration: '0:30'
     slug: TBD 1/2
@@ -99,6 +97,8 @@ talks_day2:
     title: Lightning Talks (30 mins)
   - duration: '0:05'
     title: '5 minute break'
+  - duration: '0:00'
+    title: "<b>Unconference Starts</b>"
   - duration: '0:30'
     slug: TBD 1/2
   - duration: '0:05'
