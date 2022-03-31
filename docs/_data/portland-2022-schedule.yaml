@@ -16,34 +16,44 @@ talks_day1:
   - time: '8:00 <a href="https://time.is/PT">Pacific</a>'
     title: Platform opens
   - time: '8:30'
-    title: Conference Intro and Tour with the Welcome Wagon
+    title: Welcome Wagon intro to WTD
   - time: '9:00'
-    title: Write the Docs Team - Introduction to Write the Docs
-  - time: '9:45'
+    title: Write the Docs Team - Community update
+  - time: '9:30'
     title: "<b>Unconference Starts</b>"
-  - time: '9:45'
-    slug: TBD
-  - time: '10:25'
-    title: Break (10 mins)
+  - time: '9:30'
+    slug: TBD 1/2
+  - time: '10:00'
+    title: '5 minute break'
+  - time: '10:05'
+    slug: TBD 2/2
   - time: '10:35'
-    slug: TBD
-  - time: '11:20'
-    slug: TBD
-  - time: '12:00'
-    title: Lunch (60 mins)
-  - time: '1:00'
-    title: Lightning talks (30 mins)
-  - time: '1:35'
-    slug: TBD
-  - time: '2:20'
-    slug: TBD
+    title: '5 minute break'
+  - time: '10:40'
+    title: 'Two talk Q&A'
+  - time: '10:55'
+    title: '5 minute break'
+  - time: '11:00'
+    slug: TBD 1/2
+  - time: '11:30'
+    title: '5 minute break'
+  - time: '11:35'
+    slug: TBD 2/2
+  - time: '12:05'
+    title: 'Two talk Q&A'
+  - time: '12:20'
+    title: 'Lunch Break'
+  - time: '1:20'
+    slug: TBD 1/2
+  - time: '1:50'
+    title: '5 minute break'
+  - time: '1:55'
+    slug: TBD 2/2
+  - time: '2:25'
+    title: '5 minute break'
   - time: '3:00'
-    title: Break (10 mins)
-  - time: '3:10'
-    slug: TBD
-  - time: '3:55'
-    slug: TBD
-  - time: '4:35'
+    title: 'Two talk Q&A'
+  - time: '3:15'
     title: Day 1 wraps up
   - time: '5:00'
     title: "<b>Social Event</b>"
