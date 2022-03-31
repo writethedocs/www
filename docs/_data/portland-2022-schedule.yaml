@@ -1,5 +1,5 @@
 writing_day:
-  - time: '8:00 <a href="https://time.is/PT">Pacific</a>'
+  - time: '8:00'
     title: 'Platform opens'
   - time: '9:00'
     title: Morning introduction - Introduction to Sprints & Project Introductions
@@ -9,90 +9,92 @@ writing_day:
     title: Lunch Break
   - time: '12:30'
     title: Conference Intro and Tour with the Welcome Wagon
-  - time: '5:00'
+  - time: '17:00'
     title: End of Writing Day
 
 talks_day1:
-  - time: '8:00 <a href="https://time.is/PT">Pacific</a>'
+  - time: '8:00'
     title: Platform opens
   - time: '8:30'
     title: Welcome Wagon conference introduction and platform tour
   - time: '9:00'
+    duration: '0:30'
     title: Write the Docs Team - Community update
-  - time: '9:30'
+  - duration: '0:00'
     title: "<b>Unconference Starts</b>"
-  - time: '9:30'
+  - duration: '0:30'
     slug: TBD 1/2
-  - time: '10:00'
+  - duration: '0:05'
     title: '5 minute break'
-  - time: '10:05'
+  - duration: '0:30'
     slug: TBD 2/2
-  - time: '10:35'
+  - duration: '0:05'
     title: '5 minute break'
-  - time: '10:40'
+  - duration: '0:15'
     title: 'Two talk Q&A'
-  - time: '10:55'
+  - duration: '0:15'
     title: 'Coffee break'
-  - time: '11:10'
+  - duration: '0:30'
     slug: TBD 1/2
-  - time: '11:40'
+  - duration: '0:05'
     title: '5 minute break'
-  - time: '11:45'
+  - duration: '0:30'
     slug: TBD 2/2
-  - time: '12:15'
+  - duration: '0:15'
     title: 'Two talk Q&A'
-  - time: '12:30'
+  - duration: '1:00'
     title: 'Lunch Break'
-  - time: '1:30'
+  - duration: '0:30'
     title: Lightning Talks (30 mins)
-  - time: '2:00'
+  - duration: '0:30'
     slug: TBD 1/2
-  - time: '2:30'
+  - duration: '0:05'
     title: '5 minute break'
-  - time: '2:35'
+  - duration: '0:30'
     slug: TBD 2/2
-  - time: '3:05'
+  - duration: '0:05'
     title: '5 minute break'
-  - time: '3:10'
+  - duration: '0:15'
     title: 'Two talk Q&A'
-  - time: '3:25'
+  - duration: '0:00'
     title: Day 1 wraps up
-  - time: '5:00'
+  - time: '17:00'
     title: "<b>Social Event</b>"
-  - time: '7:00'
+  - time: '19:00'
     title: "<b>Social Event Ends</b>"
 
 talks_day2:
-  - time: '8:00 <a href="https://time.is/PT">Pacific</a>'
+  - time: '8:00'
     title: Platform opens
   - time: '9:00'
+    duration: '0:45'
     slug: TBD
-  - time: '9:45'
+  - duration: '0:00'
     title: "<b>Job Fair Starts</b>"
-  - time: '9:45'
+  - duration: '0:40'
     slug: TBD
-  - time: '10:25'
+  - duration: '0:10'
     title: Break (10 mins)
-  - time: '10:35'
+  - duration: '0:45'
     slug: TBD
-  - time: '11:20'
+  - duration: '0:40'
     slug: TBD
-  - time: '12:00'
+  - duration: '0:00'
     title: "<b>Job Fair Ends</b>"
-  - time: '12:00'
+  - duration: '1:00'
     title: Lunch (60 mins)
-  - time: '1:00'
+  - duration: '0:35'
     title: Lightning Talks (30 mins)
-  - time: '1:35'
+  - duration: '0:00'
     title: "<b>Unconference Starts</b>"
-  - time: '1:35'
+  - duration: '0:45'
     slug: TBD
-  - time: '2:20'
+  - duration: '0:45'
     slug: TBD
-  - time: '3:05'
+  - duration: '0:40'
     slug: TBD
-  - time: '3:45'
+  - duration: '0:15'
     title: Closing address
-  - time: '4:00'
+  - duration: '0:00'
     title: "<b>Conference Ends</b> :("
 
