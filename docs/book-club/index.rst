@@ -9,25 +9,27 @@ Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel.
    :depth: 1
    :backlinks: none
 
-Current Book Club
------------------
+Next Book Club
+--------------
 
-Our current book club started the week of February 14, 2022.
+Our next book club starts the week of April 18, 2022.
 
-* February - March 2022: `Docs for Developers <https://docsfordevelopers.com/>`_
+* April - May 2022: Rick Umali's `Learn Git in a Month of Lunches <https://www.manning.com/books/learn-git-in-a-month-of-lunches>`_
 
 Upcoming Book Clubs
----------------------
+-------------------
 
-* TBD: `Strategic Writing for UX <https://torreypodmajersky.com/strategic-writing-for-ux/>`_
+* TBD: Lynne Truss's `Eats, Shoots & Leaves <https://www.lynnetruss.com/books/eats-shoots-leaves/>`_ 
+* TBD: Torrey Podmajersky's `Strategic Writing for UX <https://torreypodmajersky.com/strategic-writing-for-ux/>`_
 
 Previous Book club reads
 ------------------------
 
-* September - November 2021: `The Organised Writer <http://organised-writer.com/>`_
-* June - July 2021: `Letting Go of the Words <https://redish.net/books/letting-go-of-the-words/>`_
-* January - March 2021: `Managing Writers <https://www.amazon.com/gp/product/0982219105>`_
-* October - November 2020: `Docs Like Code <https://www.docslikecode.com/>`_
+* February - March 2022: Jared Batti and others' `Docs for Developers <https://docsfordevelopers.com/>`_
+* September - November 2021: Antony Johnston's `The Organised Writer <http://organised-writer.com/>`_
+* June - July 2021: Janice Redish's `Letting Go of the Words <https://redish.net/books/letting-go-of-the-words/>`_
+* January - March 2021: Richard Hamilton's `Managing Writers <https://www.amazon.com/gp/product/0982219105>`_
+* October - November 2020: Anne Gentle's `Docs Like Code <https://www.docslikecode.com/>`_
 * August - September 2020: Steve Krug's `Don't Make Me Think, Revisited (3rd Edition) <https://www.sensible.com/dmmt.html>`_
 * June - July 2020: Abby Covert's `How to Make Sense of Any Mess <http://www.howtomakesenseofanymess.com/>`_
 * March - May 2020: Mark Baker's `Every Page Is Page One <https://everypageispageone.com/the-book/>`_
