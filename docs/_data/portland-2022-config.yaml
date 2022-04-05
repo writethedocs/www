@@ -11,6 +11,7 @@ email: portland@writethedocs.org
 color: green
 rgb: 61, 217, 74
 hex: 3dd94a
+time_format: 12h
 
 photos:
   default: _static/conf/images/headers/group.png
@@ -231,6 +232,7 @@ flagsoldout: False
 flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: False
+flagscheduleincomplete: False
 flaghasunconf: True
 flaghasshirts: False
 flagvideos: False
