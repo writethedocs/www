@@ -52,7 +52,7 @@ Assemble & review the newsletter (2-3 days before shipping)
 
 Once all the story drafts have come in, it's time to assemble, based on the `outline template <https://github.com/writethedocs/www/blob/main/docs/organizer-guide/newsletter/template.rst>`__:
 
-* The top section is an Editor's letter. It's a quick greeting and introduction, then touches on any big things happening in the community during the month, then segues into the stories. Usually 100-200 words, depending on how much news there is.
+* The top section is an Editor's letter. It's a quick greeting and introduction, then touches on any big things happening in the community during the month, then segues into the stories. Usually 100-200 words, depending on how much news there is. Ping the `staff` channel on Slack to check if there's anything worth mentioning.
 * Next come the stories. They should be edited for length and clarity and tone, as well as to make sure they've followed the :doc:`editorial-guidelines`.
 * After this is the "What we're reading" section, with three links chosen by folks in the #bipoc channel.
 * If there are sponsors this month, the sponsorship article comes after the main stories.
