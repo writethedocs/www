@@ -76,10 +76,42 @@ Did you start a new job in the last two years? Fast Company explains that `some 
 
 In the United States, should you say Black or African American? The Statesman `talks with people about the difference and what they prefer. <https://www.sbstatesman.com/2021/01/21/black-or-african-american-black-americans-discuss-the-difference/>`_.
 
+----------------
+From our sponsor
+----------------
 
-.. ----------------
-.. From our sponsor
-.. ----------------
+This month’s newsletter is sponsored by `Swimm <https://swimm.io/?utm_source=writethedocs&utm_medium=newsletter&utm_campaign=WTDHP1>`_:
+
+.. raw:: html
+
+    <hr>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
+      <tbody>
+        <tr>
+          <td width="75%">
+           <p>
+           <a href="https://swimm.io/?utm_source=writethedocs&utm_medium=newsletter&utm_campaign=WTDHP1">Swimm</a> helps engineering teams create documentation that is coupled to the code itself and therefore always up to date.
+           </p>
+           <p>
+            An integral part of the development lifecycle and a game-changer for R&D teams, Swimm’s platform is not only improving developer productivity but also facilitating faster and more efficient onboarding of new developers to bring them up to speed on any codebase and any project transition.
+            </p>
+            <p>
+            Code documentation has really come a long way. Developers deserve documentation and need it. Try <a href="https://swimm.io/?utm_source=writethedocs&utm_medium=newsletter&utm_campaign=WTDHP2">Swimm’s free beta</a> or you can <a href="https://swimm.io/get-started/?utm_source=writethedocs&utm_medium=newsletter&utm_campaign=WTDdemo">book a demo</a> for a deeper walkthrough on the product.
+              </p>
+          </td>
+          <td width="25%">
+            <a href="https://swimm.io/?utm_source=writethedocs&utm_medium=newsletter&utm_campaign=WTDHP1">
+              <img style="margin-left: 15px;" alt="SPONSOR" src="/_static/img/sponsors/swimm.png">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
+
+*Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
+
+
 
 ------------------
 Featured job posts
