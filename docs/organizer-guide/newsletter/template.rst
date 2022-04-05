@@ -1,5 +1,7 @@
-.. post:: January 01, 2022
-   :tags: newsletter
+.. This is commented out, so it doesn't show up in the blog..
+
+  .. post:: January 01, 2022
+     :tags: newsletter
 
 #########################################
 Write the Docs Newsletter – MONTH YEAR
