@@ -231,7 +231,7 @@ flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
 flagrunofshow: False
-flaghasschedule: False
+flaghasschedule: True
 flagscheduleincomplete: False
 flaghasunconf: True
 flaghasshirts: False

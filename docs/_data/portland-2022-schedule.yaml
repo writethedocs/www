@@ -23,11 +23,11 @@ talks_day1:
   - duration: '0:00'
     title: "<b>Unconference Starts</b>"
   - duration: '0:30'
-    slug: TBD 1/2
+    slug: one-aws-team-s-move-to-docs-as-code-what-worked-what-didn-t-what-s-next-marcia-riefer-johnston
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: TBD 2/2
+    slug: unit-test-the-docs-why-you-should-test-your-code-examples-ben-perlmutter
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:15'
@@ -35,11 +35,11 @@ talks_day1:
   - duration: '0:15'
     title: 'Coffee break'
   - duration: '0:30'
-    slug: TBD 1/2
+    slug: lessons-learned-from-cloud-ops-writing-docs-for-high-stakes-situations-alastair-dallas
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: TBD 2/2
+    slug: measuring-documentation-success-in-open-source-findings-from-google-s-season-of-kassandra-dhillon
   - duration: '0:15'
     title: 'Two talk Q&A'
   - duration: '1:00'
@@ -49,11 +49,11 @@ talks_day1:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: TBD 1/2
+    slug: peer-writing-and-beyond-an-experimental-approach-to-a-sustainable-open-source-chris-ganta
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: TBD 2/2
+    slug: from-me-to-us-building-a-docs-team-from-the-ground-up-lana-brindley-she-her
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:15'
@@ -70,13 +70,13 @@ talks_day2:
     title: Platform opens
   - time: '09:00'
     duration: '0:30'
-    slug: TBD 1/2
+    slug: beating-the-virginia-blues-thru-hiking-strategies-to-help-you-survive-your-next-kate-mueller
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:00'
     title: "<b>Job Fair Starts</b>"
   - duration: '0:30'
-    slug: TBD 2/2
+    slug: don-t-trust-the-numbers-kumar-dhanagopal
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:15'
@@ -84,11 +84,11 @@ talks_day2:
   - duration: '0:15'
     title: 'Coffee break'
   - duration: '0:30'
-    slug: TBD 1/2
+    slug: don-t-shoot-yourself-in-the-foot-with-content-reuse-anna-gasparyan
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: TBD 2/2
+    slug: inclusive-language-victor-bracht
   - duration: '0:15'
     title: 'Two talk Q&A'
   - duration: '1:00'
@@ -100,11 +100,11 @@ talks_day2:
   - duration: '0:00'
     title: "<b>Unconference Starts</b>"
   - duration: '0:30'
-    slug: TBD 1/2
+    slug: all-together-now-turning-technologists-into-documentarians-liani-lye-she-her
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: TBD 2/2
+    slug: code-cowpokes-and-word-wranglers-from-mutual-admiration-to-solidarity-erin-dees
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:15'
