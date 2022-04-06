@@ -24,7 +24,7 @@ Some recommended keeping everything together, for example on the same platform. 
 
 Folks who leaned toward separation pointed out that support content and technical docs are very different and may not fit neatly into one information architecture. Tools for presenting support content can look more like news websites, with links to new and trending content, but without a hierarchical navigation structure for all available content. And if you want integrate support content into a ticketing platform to help users with issues, such platforms usually aren't optimised for docs.
 
-Support docs are often written by non-documentarians like support engineers, who write content on the fly in response to real help requests. If a tech writer doesn't have time to edit everything, it's an advantage to keep support content separate from more polished technical docs. Content that quickly solves a problem is valuable even if it isn't perfectly written; it doesn't make sense to delay publication until it can get writerly attention. For one more perspective, check out `Product Documentation vs. Knowledge Base <https://dzone.com/articles/product-documentation-vs-knowledge-base-1>`_ by Jakub Vul.
+Others pointed out that support docs are often written by support engineers, writing speedy content in response to real help requests. If a tech writer doesn't have time to edit everything, it's an advantage to keep support content separate from more polished technical docs. Content that quickly solves a problem is valuable even if it isn't perfectly written; it doesn't make sense to delay publication until it can get writerly attention. For one more perspective, check out `Product Documentation vs. Knowledge Base <https://dzone.com/articles/product-documentation-vs-knowledge-base-1>`_ by Jakub Vul.
 
 A final gem from the discussion was a rule of thumb for identifying what really belongs in support content:
 
@@ -40,7 +40,7 @@ Breaking into tech writing
 Breaking into tech writing and navigating the career transition can be challenging and stressful. Questions about which certifications and training to take, or what experience you need, don't have clear-cut answers. Regardless, if you want to make the transition into tech writing, whether you’re coming from a different position or from college, here are some suggestions from our community:
 
 - Do your research on tech writing. Check exactly what type of work interests you and aligns with your career goals. The `WTD topic archive </topics/>`__ has plenty of links to useful books, articles, videos, conference presentations, and podcasts.
-- Certifications, training, and freelance opportunities are all valid ways to create a portfolio and gain a basic level of industry knowledge.
+- Certification, training, and freelance opportunities are all valid ways to create a portfolio and gain a basic level of industry knowledge.
 - Leverage your experience even if you’re coming from a completely different field: there are often relevant skills you can highlight, like other kinds of writing, or research skills.
 - Contribute and engage in open-source communities to show your skills and passion.
 - Look for internship programs, for example through `Outreachy <http://outreachy.org/>`__, to find low-barrier entry opportunities.
