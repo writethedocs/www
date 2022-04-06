@@ -50,7 +50,94 @@ Together, the five stories should be a nice balance, including fresh or timely t
 Assemble & review the newsletter (2-3 days before shipping)
 ************************************************************
 
-Once all the story drafts have come in, it's time to assemble, based on the `outline template <https://github.com/writethedocs/www/blob/main/docs/organizer-guide/newsletter/template.rst>`__:
+Once all the story drafts have come in, it's time to assemble, based on the outline template::
+
+   .. post:: January 01, 2022
+      :tags: newsletter
+
+   #########################################
+   Write the Docs Newsletter – MONTH YEAR
+   #########################################
+
+   Intro line.
+
+   Personal musings.
+
+   Community news.
+
+   Segue into articles.
+
+
+   ------------------
+   TTILE OF ARTICLE 1
+   ------------------
+
+   CONTENT.
+
+   ------------------
+   TTILE OF ARTICLE 2
+   ------------------
+
+   CONTENT.
+
+   ------------------
+   TTILE OF ARTICLE 3
+   ------------------
+
+   CONTENT.
+
+   ------------------
+   TTILE OF ARTICLE 4
+   ------------------
+
+   CONTENT.
+
+   ----------------
+   From our sponsor
+   ----------------
+
+   This month’s newsletter is sponsored by SPONSOR:
+
+   .. raw:: html
+
+       <hr>
+       <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
+         <tbody>
+           <tr>
+             <td width="75%">
+                 <p>
+                 CONTENT
+                 </p>
+             </td>
+             <td width="25%">
+               <a href="https://www.LINK.COM">
+                 <img style="margin-left: 15px;" alt="SPONSOR" src="/_static/img/sponsors/rtd.png">
+               </a>
+             </td>
+           </tr>
+         </tbody>
+       </table>
+       <hr>
+
+   *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
+
+   ------------------
+   Featured job posts
+   ------------------
+
+   - `TITLE <https://jobs.writethedocs.org/LINK>`__, COMPANY (LOCATION)
+
+   *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
+
+   ------------------------
+   Virtual events coming up
+   ------------------------
+
+   - 00 MONTH, TIME ZONE (location) - `TITLE <https://www.meetup.com/LINK>`__
+
+
+
+
 
 * The top section is an Editor's letter. It's a quick greeting and introduction, then touches on any big things happening in the community during the month, then segues into the stories. Usually 100-200 words, depending on how much news there is. Ping the `staff` channel on Slack to check if there's anything worth mentioning.
 * Next come the stories. They should be edited for length and clarity and tone, as well as to make sure they've followed the :doc:`editorial-guidelines`.
