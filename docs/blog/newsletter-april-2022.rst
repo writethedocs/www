@@ -12,7 +12,7 @@ Hey everyone! It's Beth and the newsletter team, back with another edition full 
 
 And if you fancy joining us for that 10th NA conference, you might like to know that we've just announced our `fabulous speakers </conf/portland/2022/news/announcing-speakers/>`__. Lots to get excited about there!
 
-To finish, a bit of news from your editor. After four lovely years and 35 (!!) issues, it's time for me to hand over stewardship of the newsletter to someone new. This is such a great opportunity to give back to the WTD community; so if you think it might be for you, take a look at `this blog post about the role </blog/newsletter-editor/>`__ and get in touch.
+To finish, a bit of news from your editor. After four lovely years and 35 (!!) issues, it's time for me to hand over stewardship of the newsletter to someone new. This is such a great opportunity to give back to the WTD community; so if you think it might be for you, take a look at our blog post about the role, `Looking for a new newsletter editor </blog/newsletter-editor/>`__ and get in touch.
 
 ----------------------------------
 Where should support content live?
@@ -60,7 +60,7 @@ But functional quality matters more. Do the docs achieve their goal of helping u
 
 But when you dig into the details of functional characteristics, the distinction between functional and structural starts to blur. If all the information a user needs is available, but is so badly organised that the user can't accomplish their goals, then functional quality is compromised by the lack of structural quality.
 
-A refinement of this point distinguishes between the goals of the user -- does the doc help the user accomplish their goals? and the goals of the writer or the company they work for. If a doc helps the user, but fails a structural quality test, it might be costly or difficult to maintain, or might not integrate well with the rest of the docs. And these problems can become a failure of functional quality for the writer or larger doc set.
+A refinement of this point distinguishes between the goals of the user -- does the doc help the user accomplish their goals? -- and the goals of the writer or the company they work for. If a doc helps the user, but fails a structural quality test, it might be costly or difficult to maintain, or might not integrate well with the rest of the docs. And these problems can become a failure of functional quality for the writer or larger doc set.
 
 No surprise -- it's complicated! Binary questions like this can help start assessing doc quality, but use them with care.
 
