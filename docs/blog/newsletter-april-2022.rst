@@ -80,7 +80,7 @@ In the United States, should you say Black or African American? The Statesman `t
 From our sponsor
 ----------------
 
-This month’s newsletter is sponsored by `Swimm <https://swimm.io/?utm_source=writethedocs&utm_medium=newsletter&utm_campaign=WTDHP1>`_:
+This month’s newsletter is sponsored by Swimm:
 
 .. raw:: html
 
