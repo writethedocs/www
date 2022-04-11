@@ -1,0 +1,116 @@
+writing_day:
+  - time: '8:00'
+    title: 'Platform opens'
+  - time: '9:00'
+    title: Morning introduction - Introduction to Sprints & Project Introductions
+  - time: '9:30'
+    title: Team up and start working
+  - time: '12:00'
+    title: Lunch Break
+  - time: '12:30'
+    title: Conference Intro and Tour with the Welcome Wagon
+  - time: '17:00'
+    title: End of Writing Day
+
+talks_day1:
+  - time: '8:00'
+    title: Platform opens
+  - time: '8:30'
+    title: Welcome Wagon conference introduction and platform tour
+  - time: '9:00'
+    duration: '0:30'
+    title: Write the Docs Team - Community update
+  - duration: '0:00'
+    title: "<b>Unconference Starts</b>"
+  - duration: '0:30'
+    slug: TBD 1/2
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: TBD 2/2
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:15'
+    title: 'Two talk Q&A'
+  - duration: '0:15'
+    title: 'Coffee break'
+  - duration: '0:30'
+    slug: TBD 1/2
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: TBD 2/2
+  - duration: '0:15'
+    title: 'Two talk Q&A'
+  - duration: '1:00'
+    title: 'Lunch Break'
+  - duration: '0:30'
+    title: Lightning Talks (30 mins)
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: TBD 1/2
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: TBD 2/2
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:15'
+    title: 'Two talk Q&A'
+  - duration: '0:00'
+    title: Day 1 wraps up
+  - time: '17:00'
+    title: "<b>Social Event</b>"
+  - time: '19:00'
+    title: "<b>Social Event Ends</b>"
+
+talks_day2:
+  - time: '8:00'
+    title: Platform opens
+  - time: '09:00'
+    duration: '0:30'
+    slug: TBD 1/2
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:00'
+    title: "<b>Job Fair Starts</b>"
+  - duration: '0:30'
+    slug: TBD 2/2
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:15'
+    title: 'Two talk Q&A'
+  - duration: '0:15'
+    title: 'Coffee break'
+  - duration: '0:30'
+    slug: TBD 1/2
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: TBD 2/2
+  - duration: '0:15'
+    title: 'Two talk Q&A'
+  - duration: '1:00'
+    title: 'Lunch Break'
+  - duration: '0:30'
+    title: Lightning Talks (30 mins)
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:00'
+    title: "<b>Unconference Starts</b>"
+  - duration: '0:30'
+    slug: TBD 1/2
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: TBD 2/2
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:15'
+    title: 'Two talk Q&A'
+  - duration: '0:15'
+    title: 'Closing address'
+  - duration: '0:00'
+    title: 'Conference ends 😔'
+
