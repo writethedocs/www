@@ -189,9 +189,11 @@ Subject:
 
    Hope you're all well!
 
-   We're about five weeks out from the conference now, lots of stuff is happening behind the scenes, and I hope you're feeling good about recording.
+   We're about six weeks out from the conference now, lots of stuff is happening behind the scenes, and I hope you're feeling good about recording.
 
-   We've got a [provisional schedule]({{cfp.preview}})) up, and I'd *love it* if you could check your time-slot and make sure you can do a live Q&A immediately after your talk is streamed. Note that the talk slots include the Q&A time. We'll make that public in approximately one week.
+   We've got a [provisional schedule]({{cfp.preview}}) up, and I'd *love it* if you could check your time-slot and make sure you can do a live Q&A shortly after your talk is streamed. I've tried to cater to all timezone requirements, but if you can't make your Q&A slot let me know and I'll refactor. We'll be publishing the schedule on **Monday**.
+
+   We're trying something new this year, and doing one Q&A for two talks, so it'll be live call with the MC, and two speakers (or more for talks with multiple speakers). A mini panel if you will. The exact format for each Q&A will be casual conversation style, the MC passing moderated questions from the audience to one speaker or the other (or even both where applicable).
 
    A few folks asked where to upload talk recordings when you have them (by **{{cfp.video_by}}** right?):
 
@@ -200,6 +202,8 @@ Subject:
    If you'd like help recording that, let me know and I'll book you a slot with our videographer Bart.
 
    You might find it useful to check out the [Recording guidelines](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/talk-recording-guidelines/) and [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) for virtual conferences.
+
+   And while we're here, 😉 if you don't have a profile picture set in [Pretalx](https://pretalx.com/write-the-docs-portland-2022/login/), now would be a great time to add one, and to fill out the questions on pronouns, name pronuniation and interests for our MC intro.
 
    As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. Please upload those to the [Talk recording drive]({{cfp_variables['upload']}}) by **{{cfp.slides_by}}**.
 

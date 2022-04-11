@@ -18,9 +18,9 @@ You'll be responsible for putting together the newsletter each month. The proces
 - During the month, keep an eye on Slack and flag any interesting conversations. The community also flag conversations for the newsletter, so you can draw from their suggestions too. 
 - Towards the end of the month, pick 4-5 topics to turn into articles.
 - Share the topics to be written up with our awesome team of writers, and write one yourself.
-- Edit the articles into a coherent newsletter and fill out the rest (news, jobs, meetup) .
+- Edit the articles into a coherent newsletter and fill out the rest (news, jobs, meetup).
 
-Overall it's a few hours of work each month - except for August and Janary, where we take a little holiday. For more detail, the whole process is documented (of course!) `on the WTD site </organizer-guide/newsletter/newsletter-process/>`__. This role has an optional stipend of $200/mo to help ensure that you can dedicate time to completing the newsletter.
+Overall it's a few hours of work each month - except for August and January, where we take a little holiday. For more detail, the whole process is documented (of course!) `on the WTD site </organizer-guide/newsletter/newsletter-process/>`__. This role has an optional stipend of $200/mo to help ensure that you can dedicate time to completing the newsletter.
 
 You don't have to get started from scratch - if you'd like, you can pair with Beth for a month or two to get into the swing of things.
 
