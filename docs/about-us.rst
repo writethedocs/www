@@ -81,6 +81,15 @@ We don't want to:
 
 * Have an high entry barrier to our events. Our conferences and activities are carefully priced to maintain the lowest possible ticket prices that we can offer while covering the production costs. We also offer free tickets to speakers, volunteers, staff, and diversity organizations, as well as travel assistance when possible.
 
+Decision-making process
+-----------------------
+
+- The default process for making decisions in WTD follows a fuzzy/lazy consensus methodology. This means a proposal can be supported, objected to, or ignored. Any objections are discussed within the group that makes the decision, and if the objections are resolved then the proposal is accepted with any adjustments that might be implemented based on feedback. Teams can decide to modify this process based on their needs.
+- Community-wide changes must use the WEP process and receive community approval. For more information, see `Scope of WEPs <https://github.com/writethedocs/weps/blob/master/accepted/WEP0000.rst#scope-of-weps>`__.
+- Internal organizational changes do not need to use the WEP process, but must be approved by the community council. Examples include switching email tools, infrastructure improvement, brand updates, or vendor selection for global resources.
+- Team-specific changes can be processed independently by agreement in the team, but each team lead is responsible to report such changes to the council and update the community-facing documentation as needed. 
+
+
 Legal Entity
 ------------
 
