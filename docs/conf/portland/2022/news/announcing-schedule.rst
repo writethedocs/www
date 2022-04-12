@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Apr 11, 2022
+.. post:: Apr 12, 2022
    :tags: {{year}}, portland-{{year}}, schedule
 
 Announcing Full Schedule
