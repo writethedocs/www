@@ -8,7 +8,7 @@ Announcing Full Schedule
 
 Hey everyone!
 
-We're just over a month away from the online Portland conference, and we're working hard to make sure it'll be as welcoming and as fun as the in-person event you're probably familiar with.
+We're just over a month away from the online Portland conference, and we're working hard to make sure it'll be as welcoming and fun as previous years.
 
 Today we're announcing the full presentation schedule and the platform we'll be hosting the conference on.
 We are working on last-minute details for a few more activities during the conference, so look out for more information in our next mailing.
