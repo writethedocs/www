@@ -107,12 +107,10 @@ talks_day2:
     title: '5 minute break'
   - duration: '0:30'
     slug: code-cowpokes-and-word-wranglers-from-mutual-admiration-to-solidarity-erin-dees
-  - duration: '0:05'
-    title: '5 minute break'
-  - duration: '0:15'
-    title: 'Q&A for the two previous talks'
   - duration: '0:15'
     title: 'Closing address'
+  - duration: '0:15'
+    title: 'Q&A for the two previous talks'
   - duration: '0:00'
     title: 'Conference ends 😔'
 
