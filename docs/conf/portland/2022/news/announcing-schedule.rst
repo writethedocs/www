@@ -21,7 +21,7 @@ Following the success of last year's virtual format, the conference will again b
 Full presentation schedule
 --------------------------
 
-The conference website is now updated with the :doc:`/conf/portland/{{year}}/schedule/` for the main stage presentations, so you can start planning your time (and getting excited!) for the conference. We're excited to continue the new tradition of live Q&A after most talks, this year two speakers will be chatting with the MC after every couple of talks, a little like a mini panel, which will come from your questions but be moderated by our MC.
+The conference website is now updated with the :doc:`/conf/portland/{{year}}/schedule/` for the main stage presentations, so you can start planning your time (and getting excited!) for the conference. We're excited to continue and adapt live Q&A after most talks. This year two speakers will be chatting with the MC each block of 2 talks, a little like a mini panel, which will come from your questions but be moderated by our MC.
 
 Like last year, we're scheduling more breaks during the day. We are all trying to balance our screen time, so we wanted to make sure that your eyes get their rest! We hope that this adjustment will help you stay alert and happy throughout the conferences.
 
