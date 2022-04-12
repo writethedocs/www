@@ -31,7 +31,7 @@ talks_day1:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:15'
-    title: 'Two talk Q&A'
+    title: 'Q&A for the two previous talks'
   - duration: '0:15'
     title: 'Coffee break'
   - duration: '0:30'
@@ -41,7 +41,7 @@ talks_day1:
   - duration: '0:30'
     slug: measuring-documentation-success-in-open-source-findings-from-google-s-season-of-kassandra-dhillon
   - duration: '0:15'
-    title: 'Two talk Q&A'
+    title: 'Q&A for the two previous talks'
   - duration: '1:00'
     title: 'Lunch Break'
   - duration: '0:30'
@@ -57,7 +57,7 @@ talks_day1:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:15'
-    title: 'Two talk Q&A'
+    title: 'Q&A for the two previous talks'
   - duration: '0:00'
     title: Day 1 wraps up
   - time: '17:00'
@@ -68,19 +68,19 @@ talks_day1:
 talks_day2:
   - time: '8:00'
     title: Platform opens
+  - duration: '0:00'
+    title: "<b>Job Fair Starts</b>"
   - time: '09:00'
     duration: '0:30'
     slug: beating-the-virginia-blues-thru-hiking-strategies-to-help-you-survive-your-next-kate-mueller
   - duration: '0:05'
     title: '5 minute break'
-  - duration: '0:00'
-    title: "<b>Job Fair Starts</b>"
   - duration: '0:30'
     slug: don-t-trust-the-numbers-kumar-dhanagopal
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:15'
-    title: 'Two talk Q&A'
+    title: 'Q&A for the two previous talks'
   - duration: '0:15'
     title: 'Coffee break'
   - duration: '0:30'
@@ -90,7 +90,9 @@ talks_day2:
   - duration: '0:30'
     slug: inclusive-language-victor-bracht
   - duration: '0:15'
-    title: 'Two talk Q&A'
+    title: 'Q&A for the two previous talks'
+  - duration: '0:00'
+    title: "<b>Job Fair Ends</b>"
   - duration: '1:00'
     title: 'Lunch Break'
   - duration: '0:30'
@@ -108,7 +110,7 @@ talks_day2:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:15'
-    title: 'Two talk Q&A'
+    title: 'Q&A for the two previous talks'
   - duration: '0:15'
     title: 'Closing address'
   - duration: '0:00'
