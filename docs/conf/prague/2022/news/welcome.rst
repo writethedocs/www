@@ -7,7 +7,7 @@ Announcing Write the Docs {{ city }} {{year}}
 ===========================================
 
 Welcome to the official launch of `Write the Docs {{ city }} {{year}} <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/>`_.
-We're excited to announce the dates for our next conference: **Write the Docs {{ city }} {{ year }} will be on {{ date.short }}**
+We're excited to announce the dates for our next conference: **Write the Docs {{ city }} {{ year }} will be on {{ date.short }}**.
 
 We will be running a **virtual event** again this year, same as the Portland conference. 
 We make this very difficult decision with the understanding that it will disappoint some of you.
@@ -25,7 +25,7 @@ Call for Proposals
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
 
-**We plan to launch our CFP in early May** for those who are excited to speak.
+**We plan to launch our CFP in early May 2022** for those who are excited to speak.
 All talks will be pre-recorded again, so you'll be able to present from anywhere!
 
 Start thinking about your talk proposal now, and we'll let you know as soon as the CFP opens.
