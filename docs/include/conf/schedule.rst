@@ -52,7 +52,7 @@ Further details will be announced later.
 {{date.day_two.dotw}}, {{date.day_two.date}}
 -----------------------------------------
 
-The Writing Day and Welcome Reception will be held in our **{{about.venue}}**.
+The Writing Day will be held in our **{{about.venue}}**.
 
 {% if flaghasfood %}
 
@@ -122,7 +122,7 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session at the end of their talk.
+Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
 
 .. separator to fix list formatting
 
@@ -186,7 +186,7 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session at the end of their talk.
+Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
 
 .. separator to fix list formatting
 
