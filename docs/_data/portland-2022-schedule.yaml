@@ -68,10 +68,10 @@ talks_day1:
 talks_day2:
   - time: '8:00'
     title: Platform opens
+    duration: '1:00'
   - duration: '0:00'
     title: "<b>Job Fair Starts</b>"
-  - time: '09:00'
-    duration: '0:30'
+  - duration: '0:30'
     slug: beating-the-virginia-blues-thru-hiking-strategies-to-help-you-survive-your-next-kate-mueller
   - duration: '0:05'
     title: '5 minute break'
