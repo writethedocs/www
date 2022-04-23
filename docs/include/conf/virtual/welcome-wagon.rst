@@ -183,7 +183,7 @@ Networking
 Add info to your profile
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-To add information about yourself to your conference profile, select your initials > **Edit Profile**. Share as much as you are comfortable.
+To add information about yourself to your conference profile, select your initials > **Edit Profile**. Let people know what you are interested in chatting about by putting it in your Headline. You can add something like, "Tech Writer interested in conversations about content reuse" or "Support Ops Manager open to talking about analytics." Check out Headlines from other attendees and head into a Hallway session or set up a small group video to connect and discuss. Headlines have a 100 character limit.
 
 Important: Any info you add to your profile can be seen by everyone attending the conference. All conversations should adhere to the `Write the Docs Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`__.
 
@@ -214,7 +214,6 @@ You can join with your own audio and video, or chat only.
 Here’s some icebreakers:
 
 - What are you reading for fun right now?
-- Have you found a website that makes you happy during social isolation?
 - If you could start a business, what would it be?
 - What is the best vacation you’ve ever been on?
 - Are you working on any passion projects right now?
