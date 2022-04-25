@@ -184,9 +184,9 @@ hike:
 sponsors:
   keystone:
   patron:
-    # - name: google
-    #   link: https://www.google.com
-    #   brand: Google
+    - name: google
+      link: https://www.google.com
+      brand: Google
   publisher:
     - name: cncf
       link: https://www.cncf.io/
@@ -209,6 +209,13 @@ sponsors:
     - name: livelike
       link: https://livelike.com/
       brand: LiveLike
+    - name: openwebdocs-new
+      link: https://opencollective.com/open-web-docs
+      brand: Open Web Docs
+      width: 150px
+    - name: jetbrains
+      link: https://www.jetbrains.com/
+      brand: JetBrains
     # - name: juniper
     #   link: https://www.juniper.net/
     #   brand: Juniper
