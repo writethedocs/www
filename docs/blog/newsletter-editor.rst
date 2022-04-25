@@ -28,5 +28,7 @@ You don't have to get started from scratch - if you'd like, you can pair with Be
 Interested?
 -----------
 
-If you have any questions, or if you think you'd like to be our new editor, drop us a line at newsletter@writethedocs.org! You can also ping Beth Aitman, or Eric Holscher on Slack to get more information if that's easier. 
+**Note: This position has been filled.**
+
+.. If you have any questions, or if you think you'd like to be our new editor, drop us a line at newsletter@writethedocs.org! You can also ping Beth Aitman, or Eric Holscher on Slack to get more information if that's easier. 
 
