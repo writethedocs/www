@@ -173,7 +173,10 @@ cfp:
 
 
 unconf:
-  url: http://bit.ly/wtd-schedule-pdx-2022
+  url: http://bit.ly/wtd-pdx-2022-ro
+
+lightning_talks:
+   signup_url: https://forms.gle/HSf9qvaRC8PVbEhu5
 
 hike:
   date: Sunday, May 22, 1 PM
