@@ -78,7 +78,7 @@ talks_day2:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: don-t-trust-the-numbers-kumar-dhanagopal
+    slug: don-t-shoot-yourself-in-the-foot-with-content-reuse-anna-gasparyanc
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:15'
@@ -86,7 +86,7 @@ talks_day2:
   - duration: '0:15'
     title: 'Coffee break'
   - duration: '0:30'
-    slug: don-t-shoot-yourself-in-the-foot-with-content-reuse-anna-gasparyan
+    slug: don-t-trust-the-numbers-kumar-dhanagopal
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
