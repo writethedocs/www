@@ -2,7 +2,7 @@
 API Blueprint
 =============
 
-API Blueprint is a high-level language for describing web APIs. The syntax is a combination of Markdown syntax and Markdown Syntax for Object Notation (MSON), and the files are saved with a `.apib` extension. Markdown is a lightweight text formatting syntax. `MSON <https://github.com/apiaryio/mson>`_ is an extension of Markdown for describing data objects.
+API Blueprint is a high-level language for describing web APIs. The syntax is a combination of Markdown syntax and Markdown Syntax for Object Notation (MSON), and the files are saved with a `.apib` extension. Markdown is a lightweight text formatting syntax. _`MSON <https://github.com/apiaryio/mson>`_ is an extension of Markdown for describing data objects.
 
 The goal of the API Blueprint format is to support the design-first philosophy for REST APIs; however, the format works just as well for documenting existing APIs.
 
