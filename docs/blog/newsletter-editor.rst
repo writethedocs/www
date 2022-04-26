@@ -9,6 +9,8 @@ We're looking for a new editor to join the `team </team/#newsletter>`__ that cre
 
 Our outgoing editor (Beth Aitman) has loved being on the team and would highly recommend it. It's a great opportunity to help a wide audience of documentarians, by sharing the knowledge from Slack in a more permanent form; it's also a fun way to practise or experiment with a different style of writing. The format isn't set in stone either - we welcome new ideas for how to make the newsletter even better.
 
+**Note: This position has been filled.** Thanks to everyone who applied. We're still excited to have you join our community though -- please reach out so we can help you find a way to contribute!
+
 --------------
 What you'll do
 --------------
