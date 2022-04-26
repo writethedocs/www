@@ -2,14 +2,14 @@
 API Blueprint
 =============
 
-API Blueprint is a high-level language for describing web APIs. The syntax is a combination of Markdown syntax and Markdown Syntax for Object Notation (MSON), and the files are saved with a `.apib` extension. Markdown is a lightweight text formatting syntax. _`MSON <https://github.com/apiaryio/mson>`_ is an extension of Markdown for describing data objects.
+API Blueprint is a high-level language for describing web APIs. The syntax is a combination of Markdown syntax and Markdown Syntax for Object Notation (MSON), and the files are saved with a `.apib` extension. Markdown is a lightweight text formatting syntax. `MSON <https://github.com/apiaryio/mson>`_ is an extension of Markdown for describing data objects.
 
 The goal of the API Blueprint format is to support the design-first philosophy for REST APIs; however, the format works just as well for documenting existing APIs.
 
 Getting Started
 ---------------
 
-The quickest way to get started is to use _`Apiary <https://apiary.io/>`_ to edit and view your documentation. Apiary is a service that allows you to edit and host documentation online. Start by signing up for an account `on Apiary. <https://login.apiary.io/register>`_
+The quickest way to get started is to use `Apiary <https://apiary.io/>`_ to edit and view your documentation. Apiary is a service that allows you to edit and host documentation online. Start by signing up for an account `on Apiary. <https://login.apiary.io/register>`_
 Next, continue with the `API Blueprint Tutorial. <https://apiblueprint.org/documentation/tutorial.html>`_ It provides a good overview of how to describe a basic API.
 
 Writing Docs
