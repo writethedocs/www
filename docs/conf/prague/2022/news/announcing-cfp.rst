@@ -6,7 +6,7 @@
 Announcing Call for Proposals
 =============================
 
-Today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/{{city}}/{{year}}/cfp/>`_.
+Today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_.
 
 Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
 If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!
@@ -19,7 +19,7 @@ We're looking for ideas and use-cases from all disciplines and roles, so whether
 
 **All talks will be pre-recorded allowing you to present and attend from anywhere!** This year we are holding a hybrid event, and in order to maintain accessibility for folks who are unable to travel, we are going to broadcast the talks both on the stage in the venue and in Hopin, our virtual conference program.
 
-You can read our full `Call for Proposals <https://www.writethedocs.org/conf/{{city}}/{{year}}/cfp/>`__ on the website.
+You can read our full `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`__ on the website.
 
 The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**.
 
@@ -29,7 +29,7 @@ Tickets
 Tickets will officially go on sale in a week or so. 
 We are working out the final details on the conference format and the different price tiers for in-person and virtual tickets.
 
-We expect tickets to be similar to the `2021 pricing <https://www.writethedocs.org/conf/{{city}}/2021/tickets/>`__.
+We expect tickets to be similar to the `2021 pricing <https://www.writethedocs.org/conf/{{shortcode}}/2021/tickets/>`__.
 
 As always, we keep ticket prices low so that the event is accessible to the widest range of people possible.
 However, if you can't afford the tickets and still wish to attend, we will launch our grants program soon after opening ticket sales.
