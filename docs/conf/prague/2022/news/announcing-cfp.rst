@@ -21,7 +21,7 @@ We're looking for ideas and use-cases from all disciplines and roles, so whether
 
 You can read our full `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`__ on the website.
 
-The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**.
+The Call for Proposals will be open until **11:59 PM {{cfp.ends}} {{ tz }}**.
 
 Tickets
 -------
@@ -38,7 +38,7 @@ Stay Updated
 Want to find out what's happening with the conference, or enjoy our monthly global community newsletter?
 Sign up to one or more of our `mailing lists <http://eepurl.com/cdWqc5>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
 
-Want to connect with other documentarians in real-time? Join our `Slack <http://slack.writethedocs.org/>`_.
+Want to connect with other documentarians in real-time? Join our `Slack <https://www.writethedocs.org/slack/>`_.
 
 Thanks
 ------
