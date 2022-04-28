@@ -143,7 +143,7 @@ about:
   job_fair_room: "Sponsor area"
 
 cfp:
-  url: https://pretalx.com/write-the-docs-prague-2022/cfp
+  url: https://pretalx.com/wtd-prague-2022/cfp
   ends: "June 30, 2022"           # 2 weeks to review and get confirmnations
   notification: "July 15, 2022"     #  5 weeks to write and record
   video_by: "August 20, 2022"   # 3 weeks before the conf
