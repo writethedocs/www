@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 
 .. post:: Apr 27, 2022
-   :tags: {{shortcode}}-{{year}} cfp
+   :tags: {{shortcode}}-{{year}}, cfp
 
 Announcing Call for Proposals
 =============================
