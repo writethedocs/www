@@ -41,9 +41,9 @@ A recent question about whether the job title "programmer writer" represents som
 
 * Several people associated the title "programmer writer" with AWS/Amazon or with Microsoft. And one seasoned programmer writer let us know that this particular title was in fact coined by Microsoft many years ago, and was part of a continuum that included "consumer writer" and "technical writer". The distinctions reflected not only degrees of technical/coding expertise, but also differences in audience: programmer writers wrote for developers, technical writers for other technical audiences (eg system administrators), and consumer writers for "all of humanity". But that level of distinction belonged to the time when Microsoft employed more than 1800 writers (!!)
 
-------------------------------------------------------
+-------------------------------------------------------
 Is written content outdated - and is it time for video?
-------------------------------------------------------
+-------------------------------------------------------
 
 In the world outside technical writing, video has become hugely popular; but most documentation is still in written form. Is written content outdated? Is it time to pivot to video? Obviously, the question about it this month provoked major debate.
 
