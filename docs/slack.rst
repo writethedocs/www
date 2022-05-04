@@ -1,8 +1,11 @@
 Slack
 =====
 
-You can `join our Slack`_ network if you aren't already a member.
-Requests to join Slack are processed automatically.
+.. tip:: Due to an increase in spammers, we now have a short `signup form`_ that you must fill out to join our Slack network.
+
+Thanks for your interest in our Slack network.
+We have over {{ slack_members }} people who have joined,
+and you can be one of them.
 
 Our Slack network has lots of people hanging out and chatting about documentation.
 It's the best way to connect with our community,
@@ -13,33 +16,47 @@ This should help you get connected to people with similar interests.
 Please also read the Slack guidelines carefully, and remember that our
 :doc:`/code-of-conduct` also applies to our Slack.
 
-Feel free to send a Pull Request to update `this page`_, if you want to include other channels.
+If you want to get involved you can:
+
+* Fill out our `signup form`_ to join our network.
+* Feel free to send a Pull Request to update `this page`_, if you want to include other channels you enjoy.
 
 .. note::
     Our Slack includes animated emoji, and other animations are sometimes posted.
     If you think these may be unpleasant for you, you can `disable all animations`_
     in your Slack client.
 
-.. _join our slack: https://join.slack.com/t/writethedocs/shared_invite/zt-tfokbfyb-4Yxwk8oTZGAQDHmITJGQyQ
+.. _signup form: {{ slack_form }}
 .. _this page: https://github.com/writethedocs/www/blob/master/docs/slack.rst
 .. _disable all animations: https://get.slack.help/hc/en-us/articles/228023907-Manage-animated-images-and-emoji
 
 Slack History
 -------------
 
-We don't pay for our Slack, which means that the community has access to only the most
-recent 10,000 messages. Paying for Slack is prohibitively expensive for a community
-like ours, but many people seem to feel a freedom in knowing that their words will disappear shortly.
-We understand that not everyone loves this decision,
-but it's the way things are currently set up and we don't plan to change it in the near future. 
+We don't pay for our Slack, which means that the community has access to only the most recent 10,000 messages.
+That doesn't mean everything gets lost, though.
+Here are a few ways to preserve what you've learned for yourself and others:
 
-That doesn't mean everything gets lost, though - you can always react to a message with the 
-``:suggest-for-newsletter:`` emoji to nominate it for inclusion in our next monthly newsletter. 
-Read the newsletter archives at :doc:`/newsletter` and subscribe if you want them directly in your inbox! 
+- React to a message with ``:suggest-for-newsletter:`` emoji to nominate it for inclusion in our next monthly newsletter.
+  Read the newsletter archives at :doc:`/newsletter/` and subscribe if you want them directly in your inbox!
+- Contribute a summary to one of the Write the Docs site's :doc:`/about/learning-resources`.
+- Turn a discussion into a talk proposal for :doc:`an upcoming Write the Docs conference </conf/index>`.
+- `Save a message`__ privately in Slack.
+- Recap what you learned and share it on your own site or social media accounts. Don't forget to tag `#writethedocs`!
 
+.. __: https://slack.com/intl/en-gb/help/articles/360042650274-Save-messages-and-files-
+
+.. admonition:: Why we don't pay for Slack
+   :class: note
+
+   The Write the Docs Slack community is free-to-access and we aim to keep it that way.
+   A Slack subscription is prohibitively expensive—over $10,000 per month—for a community like ours.
+   Even if we had such resources, upgrading Slack is not a priority
+   and many people feel a freedom in knowing that their words will disappear shortly.
 
 Autoresponders
 --------------
+
 We have some helpful Slackbot responses that you can summon in any channel, at any time.
 
 * ``?invite`` / ``?join``
@@ -171,6 +188,11 @@ No sales-y content
 - **No Brands** - If you're going to post, post as yourself, not as a brand. We are a community of individuals and we all exist outside of our day jobs and personal brands.
 
 If you see a message in a public channel that looks like spam, you can react to it with the ``:spam:`` reactji to bring the moderators' attention to it.
+
+Avoid Microagressions
+~~~~~~~~~~~~~~~~~~~~~
+
+We recommend reading this `Microaggressions:  Making space for everybody <https://www.metafilter.com/microaggressions.mefi>`_ article that goes over how to avoid microaggressions when dealing with people in our community.
 
 Reporting Issues
 ~~~~~~~~~~~~~~~~

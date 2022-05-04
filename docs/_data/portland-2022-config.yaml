@@ -11,26 +11,27 @@ email: portland@writethedocs.org
 color: green
 rgb: 61, 217, 74
 hex: 3dd94a
+time_format: 12h
 
 photos:
   default: _static/conf/images/headers/group.png
 
 buttons:
   top:
-    - text: Welcome to our conference
-      link: /news/welcome
+    # - text: Welcome to our conference
+    #   link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
     # - text: Date and ticket information
     #   link: /news/announcing-virtual-conf-dates-tickets
     # - text: Read our conference guide
     #   link: /welcome-wagon
-    # - text: See the Schedule!
-    #   link: /schedule
-    # - text: Buy a Ticket!
-    #   link: /tickets
-    #- text: Submit a Talk
-    #  link: /cfp
+    - text: See the Schedule!
+      link: /schedule
+    - text: Buy a Ticket!
+      link: /tickets
     #- text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
@@ -44,18 +45,20 @@ buttons:
     # - text: Watch the videos!
     #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
   bottom:
-    - text: Welcome to our conference
-      link: /news/welcome
-    # - text: Sponsor the conference
-    #   link: /sponsors/prospectus
+    # - text: Welcome to our conference
+    #   link: /news/welcome
+    - text: Sponsor the conference
+      link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
     # - text: See the Schedule!
     #   link: /schedule
     # - text: Date and ticket information
     #   link: /news/announcing-virtual-conf-dates-tickets
     # - text: See the talks!
     #   link: /speakers
-    # - text: Buy a Ticket!
-    #   link: /tickets
+    - text: Buy a Ticket!
+      link: /tickets
 #    - text: Read our guide
 #      link: /welcome-wagon
 #    - text: See the schedule!
@@ -69,26 +72,26 @@ buttons:
 
 tickets:
   corporate:
-    price: $500
+    price: $200
   independent:
-    price: $275
+    price: $125
   student:
-    price: $100
+    price: $25
 
 sponsorship:
   second_draft:
-    price: $2,000
+    price: $2,500
   publisher:
-    price: $4,000
+    price: $4,500
   patron:
     price: $8,500
   keystone:
     price: $15,000
 
 grants:
-  url: https://docs.google.com/forms/d/e/1FAIpQLSdtgQLvwjR7FkVFNMP1qpD3SrUcHqQSPF8PExL-19mxOHrHBQ/viewform
-  ends: "March 1, 2022"
-  notification: "March 10, 2022"
+  url: https://docs.google.com/forms/d/e/1FAIpQLSdNUhlUJlG3O795vyDh3B43k9uLj8OMmb04ctG130lQ8A0tEA/viewform
+  ends: "March 31, 2022"
+  notification: "April 10, 2022"
 
 shirts:
   url: https://teespring.com/wtd-pdx-2022
@@ -101,95 +104,118 @@ date: # how do we handle these? human readable would be nice.
   month: May
 
   # Conference is special for the index to show the combined conference days
-  # conference:
-  #   event: Main Conference
-  #   date: May 23-24
-  #   summary: The main days of the conference. We will be running one main track, and an <a href="/conf/portland/2022/unconference/">Unconference</a>.
-  #   icon: conference
+  conference:
+    event: Main Conference
+    date: May 23-24
+    summary: The main days of the conference. We will be running one main track, as well as a <a href="/conf/portland/2022/job-fair/">Job Fair</a>, <a href="/conf/portland/2022/lightning-talks/">Lightning Talks</a> & <a href="/conf/portland/2022/unconference/">Unconference</a>.
+    icon: conference
 
   # These are listed in the schedule
   day_one:
-    event: TBD
+    event: Hike
+    date: On your own
+    summary: We encourage you to go on a hike in your own beautiful home town.
+    #summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    icon: hike
+    dotw: Saturday
+  day_two:
+    event: Writing Day
     date: May 22
-    summary: We're still trying to figure out what the plan is for this day, and will adjust as we get closer to the event.
+    summary: Join us for the <a href="/conf/portland/2022/writing-day/">Writing Day</a> and work with fellow documentarians on a project.
     icon: writing
     dotw: Sunday
-  # day_one:
-  #   event: TBD
-  #   date: May 22
-  #   summary: We are still trying to figure out the structure for the first day. It will likely be the hike
-  #   #summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
-  #   icon: writing
-  #   dotw: Sunday
-  #   writing_day_time: 9am-5pm
-  day_two:
+    writing_day_time: 9am-5pm
+  day_three:
     event: Conference Day 1
     date: May 23
-    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks and unconference sessions.
-    icon: conference
+    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Monday
     talk_time: 9am-5pm
     unconference_time: 9:45am-5pm
     social_time: 5pm-7pm
-  day_three:
+    icon: conference
+  day_four:
     event: Conference Day 2
     date: May 24
-    summary: And the conference goes on! We are already starting to miss you.
-    icon: conversation
+    summary: And the conference goes on! We are already starting to miss you. |:heart:|
     dotw: Tuesday
     talk_time: 9am-4pm
     job_fair_time: 9:45am-12pm
-    unconference_time: 1:35pm-5pm
+    unconference_time: 1:35pm-4pm
+    icon: conversation
   total_talk_days: 2
 
 about:
-  attendees: around 350 in-person and more online
+  attendees: 600
   summary:
     "The main presentation track takes place from **May 23-24 (Monday and Tuesday) from 9am to 6pm**.
     During the main event we also run an :doc:`/conf/portland/2022/unconference`."
 
-  social_venue: TBD
-  venue: "TBD"
+  social_venue: Spatial chat platform
+  venue:
+    "Online conference platform"
   photos:
-  mainroom: "TBD"
-  unconfroom: "TBD"
+  mainroom:
+    "Video area"
+  unconfroom:
+    "Chat area"
   projector_ratio: "16:9"
-  job_fair_room: "TBD"
+  job_fair_room: "Sponsor area"
 
 cfp:
-  url: https://pretalx.com/write-the-docs-portland-2022/cfp
-  ends: "February 1, 2022"          # 2 weeks to review and get confirmnations
-  notification: "February 15, 2022" # leaves 6 weeks to write and record
-  video_by: "March 31, 2022"        # 3 weeks before the conf
+  url: https://pretalx.com/wtd-portland-2022/cfp
+  ends: "February 25, 2022"          # 2.5 weeks to review and get confirmnations
+  notification: "March 15, 2022"     # 6 weeks to write and record
+  video_by: "May 1, 2022"            # 3 weeks before the conf
+  slides_by: "May 15, 2022"          # 1 week before
+  gifts_by: "July 1, 2022"           # 6? weeks after
+  preview: "https://writethedocs-www--1693.org.readthedocs.build/conf/portland/2022/schedule/"                    # https://writethedocs-www--1577.org.readthedocs.build/conf/portland/2022/schedule/
+
 
 unconf:
-  url: http://bit.ly/wtd-schedule-pdx-2022
+  url: http://bit.ly/wtd-pdx-2022-ro
+
+lightning_talks:
+   signup_url: https://forms.gle/HSf9qvaRC8PVbEhu5
+
+hike:
+  date: Sunday, May 22, 1 PM
 
 sponsors:
   keystone:
   patron:
-    # - name: google
-    #   link: https://www.google.com
-    #   brand: Google
+    - name: google
+      link: https://www.google.com
+      brand: Google
   publisher:
-    # - name: cncf
-    #   link: https://www.cncf.io/
-    #   brand: Cloud Native Computing Foundation
+    - name: cncf
+      link: https://www.cncf.io/
+      brand: Cloud Native Computing Foundation
+    - name: mongodb-new
+      link: https://www.mongodb.com/
+      brand: MongoDB
+    - name: twilio
+      link: https://www.twilio.com/
+      brand: Twilio
     # - name: slack
     #   link: https://slack.com/
     #   brand: Slack
-    # - name: twilio
-    #   link: https://www.twilio.com/
-    #   brand: Twilio
   second:
-    # - name: knowledgeowl
-    #   link: https://www.knowledgeowl.com
-    #   brand: KnowledgeOwl
-    #   width: 250px
-    #   text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl​ is looking for more contributors for our ​company blog​. This is an opportunity to write about a topic that interests you and get paid for it :)</p> <p>KnowledgeOwl also sponsors and hosts The Not-Boring Tech Writer podcast. We are always looking for new guests to share their stories, experience, and expertise with the world.</p> <p>Feel free to stop by and ask us more about KnowledgeOwl, these opportunities, or anything else!</p>"
-    # - name: mongodb
-    #   link: https://www.mongodb.com/
-    #   brand: MongoDB
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+      brand: KnowledgeOwl
+      width: 250px
+      text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl​ is looking for more contributors for our ​company blog​. This is an opportunity to write about a topic that interests you and get paid for it :)</p> <p>KnowledgeOwl also sponsors and hosts The Not-Boring Tech Writer podcast. We are always looking for new guests to share their stories, experience, and expertise with the world.</p> <p>Feel free to stop by and ask us more about KnowledgeOwl, these opportunities, or anything else!</p>"
+    - name: livelike
+      link: https://livelike.com/
+      brand: LiveLike
+    - name: openwebdocs-new
+      link: https://opencollective.com/open-web-docs
+      brand: Open Web Docs
+      width: 150px
+    - name: jetbrains
+      link: https://www.jetbrains.com/
+      brand: JetBrains
     # - name: juniper
     #   link: https://www.juniper.net/
     #   brand: Juniper
@@ -202,18 +228,25 @@ sponsors:
     #   brand: Starburst
     #   text: "<p>Starburst is on a mission to modernize data access &amp; analytics. Our company was founded in an unusual way; with customers and revenue from the beginning! Our growth is already ahead of some of the most successful software start-ups, and we don’t plan on slowing down.</p> <p>We believe our opportunity is huge. Every large company in the world suffers from a data silo problem. Traditional data warehouse products approach the problem with old solutions that breed inefficiency and ultimately can’t help business analysts run fast analytics on all their data.</p> <p>Starburst provides a modern solution that addresses these data silo &amp; speed of access problems. Starburst helps enterprises harness the value of open source Trino (formerly PrestoSQL), the fastest distributed query engine available today, by adding the tools and 24x7 support that meet the needs for big data access at scale. Ultimately, Starburst helps organizations run analytics anywhere to make better business decisions.</p>"
   first:
-
+  in_kind:
+    - name: buildkite
+      link: https://buildkite.com/
+      brand: Buildkite
+    - name: rtd
+      link: https://readthedocs.com/
+      brand: Read the Docs
 
 # Things that change over time, listed in order of change
-flaglanding: True
-flaghassponsors: False
+flaglanding: False
+flaghassponsors: True
 flagcfp: False
-flagticketsonsale: False
+flagticketsonsale: True
 flagsoldout: False
-flagspeakersannounced: False
-flagrunofshow: False
-flaghasschedule: False
-flaghasunconf: False
+flagspeakersannounced: True
+flagrunofshow: True
+flaghasschedule: True
+flagscheduleincomplete: False
+flaghasunconf: True
 flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
@@ -221,7 +254,8 @@ flagpostconf: False
 
 # Truthy things that don't change
 flaghashike: False
+flaghasfood: False
 flaghasboat: False
-flaghaswritingday: False
-flaghasjobfair: False
+flaghaswritingday: True
+flaghasjobfair: True
 flaghasbadgeflair: False

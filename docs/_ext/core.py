@@ -120,14 +120,17 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
                     schedule_item['speaker_names'] = speaker_names_display(session_data['speakers'])
                     slugs_in_schedule.add(slug)
                 except KeyError:
-                    raise Exception(
-                        'ERROR: Unable to find details for session %s while rendering page %s' % (slug, page))
+                    if data.get('flagscheduleincomplete'):
+                        schedule_item['title'] = slug + ' (incomplete slug)'
+                    else:
+                        raise Exception(
+                            'ERROR: Unable to find details for session %s while rendering page %s' % (slug, page))
             elif 'title' not in schedule_item:
                 raise Exception(
                     'ERROR: Item %s in schedule rendered for %s has neither a slug nor title' % (schedule_item, page))
 
     missing_slugs_from_schedule = set(sessions_by_slug.keys()) - slugs_in_schedule
-    if missing_slugs_from_schedule:
+    if missing_slugs_from_schedule and not data.get('flagscheduleincomplete'):
         raise Exception('ERROR: Session slugs were found in the speakers YAML, '
                         'that are missing from the schedule: %s' % missing_slugs_from_schedule)
 

@@ -67,12 +67,6 @@
       <div class="sponsor-name">Read the Docs</div>
       <div class="sponsor-description">Donated Hosting</div>
     </a>
-    <a class="sponsor" href="http://stickermule.com" rel="noopener" target="_blank">
-      <img src="{{ pathto('/_static/img/sponsors/stickermule.png', 1) }}" alt="Sticker Mule" class="sponsor-image">
-      <div class="sponsor-name">Sticker Mule</div>
-      <div class="sponsor-description">Donated Stickers</div>
-    </a>
-
     {% for sponsor in global_sponsors %}
     <a class="sponsor" href="{{ sponsor.link }}" rel="noopener" target="_blank">
       <img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}" class="sponsor-image">

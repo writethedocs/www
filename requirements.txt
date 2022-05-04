@@ -1,24 +1,24 @@
-Sphinx==4.3.2
+Sphinx==4.5.0
 recommonmark==0.7.1
 ablog==0.10.6  # pyup: ignore
 sphinx_autobuild==2021.3.14
 PyYAML>=4.2b1
 # Sphinx (checked with 4.3) requires docutils=<0.18
 docutils==0.17.1   # pyup: <0.18
-csvkit==1.0.6
+csvkit==1.0.7
 yamllint==1.26.3
 pathlib==1.0.1
 sphinxcontrib.datatemplates==0.9.1
 meetup-api==0.1.1
-urllib3[secure]==1.26.7
-yamale==4.0.2
+urllib3[secure]==1.26.9
+yamale==4.0.4
 markdown==3.3.6
-ruamel.yaml==0.17.19
-lxml==4.7.1
+ruamel.yaml==0.17.21
+lxml==4.8.0
 # For emoji
 sphinxemoji==0.2.0
 # For atom feed support
 Werkzeug==0.16.1 # pyup: <1.0
 # For fancy 404 pages
-git+https://github.com/rtfd/sphinx-notfound-page@master#egg=sphinx-notfound-page
+sphinx-notfound-page==0.8
 

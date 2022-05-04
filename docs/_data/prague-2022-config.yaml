@@ -1,0 +1,197 @@
+name: Prague
+
+shortcode: prague
+year: 2022
+city: Prague
+local_area: Czech Republic
+area: Europe
+area_adj: European
+tz: CEST
+email: prague@writethedocs.org
+color: green
+rgb: 61, 217, 74
+hex: 3dd94a
+time_format: 24h
+
+photos:
+  default: _static/conf/images/headers/prague-group.png
+
+buttons:
+  top:
+    - text: Welcome to our conference
+      link: /news/welcome
+    #    - text: Date and ticket information
+    #      link: /news/announcing-virtual-conf-dates-tickets
+    # - text: Read our conference guide
+    #   link: /welcome-wagon
+    # - text: See the Schedule!
+    #   link: /schedule
+    # - text: Buy a Ticket!
+    #   link: /tickets
+    #- text: Sponsor us
+    #  link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
+    #- text: See the talks!
+    #  link: /speakers
+    #- text: See the Schedule!
+    #  link: /schedule
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: See the sketchnotes
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157720128594755
+    # - text: Watch the videos!
+    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpnaoiOQyd9BYbQbprDGQjQ9
+  bottom:
+    - text: Welcome to our conference
+      link: /news/welcome
+    # - text: See the Schedule!
+    #   link: /schedule
+#     - text: Date and ticket information
+#       link: /news/announcing-virtual-conf-dates-tickets
+    - text: Sponsor the conference
+      link: /sponsors/prospectus
+    # - text: See the talks!
+    #   link: /speakers
+#     - text: Buy a Ticket!
+#       link: /tickets
+    # - text: Prepare with the Welcome Wagon
+    #   link: /welcome-wagon
+    # - text: See the schedule!
+    #   link: /schedule
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: Browse the photos
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    # - text: Watch the videos!
+    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+
+tickets:
+  corporate:
+    price: €150
+  independent:
+    price: €100
+  student:
+    price: €25
+
+sponsorship:
+  second_draft:
+    price: €1,500
+  publisher:
+    price: €3,000
+  patron:
+    price: €6,500
+  keystone:
+    price: €12,500
+
+
+date: # how do we handle these? human readable would be nice.
+  main: "**September 11-13, 2022, online**"
+  short: Sep 11-13, 2022
+  tickets_live: "May 2022"
+  month: September
+  # Conference is special for the index to show the combined conference days
+  conference:
+    event: Main Conference
+    date: September 12-13
+    summary: The main days of the conference. We will be running one main track, and an <a href="/conf/prague/2022/unconference/">Unconference</a>.
+    icon: conference
+  # These are listed in the schedule
+  day_one:
+    event: Hike
+    date: On your own
+    summary: We encourage you to go on a hike in your own beautiful home town.
+    #summary: If you're in town early, join us for the Hike. prague has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    icon: hike
+    dotw: Saturday
+  day_two:
+    event: Writing Day
+    date: September 11
+    summary: Join us for the <a href="/conf/prague/2022/writing-day/">Writing Day</a> and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    #summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    icon: writing
+    dotw: Sunday
+    writing_day_time: 10:00-18:00
+  day_three:
+    event: Conference Day 1
+    date: September 12
+    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
+    dotw: Monday
+    talk_time: 10:00-18:00
+    unconference_time: 10:45-18:00
+  day_four:
+    event: Conference Day 2
+    date: September 13
+    summary: And the conference goes on! We are already starting to miss you. |:heart:|
+    dotw: Tuesday
+    talk_time: 10:00-18:00
+    job_fair_time: 10:00-12:00
+    unconference_time: 15:15-18:00
+  total_talk_days: 2
+
+about:
+  attendees: 300
+  summary:
+    "The main presentation track takes place on **September 12-13 (Monday and Tuesday) from 10:00 to 18:00**.
+    During the main event we also run an :doc:`/conf/prague/2022/unconference`."
+  social_venue: "Spatial chat platform"
+  venue: "Online conference platform"
+  photos:
+  mainroom: "Video area"
+  unconfroom: "Chat area"
+  projector_ratio: "16:9"
+  job_fair_room: "Sponsor area"
+
+cfp:
+  url: https://pretalx.com/wtd-prague-2022/cfp
+  ends: "June 30, 2022"           # 2 weeks to review and get confirmnations
+  notification: "July 15, 2022"     #  5 weeks to write and record
+  video_by: "August 20, 2022"   # 3 weeks before the conf
+
+# grants:
+#   url: https://docs.google.com/forms/d/e/1FAIpQLSfjeNFe_cJ0xbdQ5SuHiBe8RDzMrLGd_W58bWEWsCwmS0CJZw/viewform
+#   ends: "August 15, 2022"
+#   notification: "August 25, 2022"
+
+# unconf:
+#   url: https://bit.ly/wtd-prg-2021-ro
+
+# lightning_talks:
+#   signup_url: https://forms.gle/GzEn8GH7wjs7Aaun9
+
+sponsors:
+  keystone:
+  patron:
+  publisher:
+  second:
+  media:
+  in_kind:
+    - name: buildkite
+      link: https://buildkite.com/
+      brand: Buildkite
+    - name: rtd
+      link: https://readthedocs.com/
+      brand: Read the Docs
+
+
+# Things that change over time, listed in order of change
+flagcfp: True
+flaglanding: True
+flaghassponsors: False
+flagticketsonsale: False
+flagsoldout: False
+flagspeakersannounced: False
+flagrunofshow: False
+flaghasschedule: False
+flaghasunconf: False
+flaghasshirts: False
+flagvideos: False
+flaglivestreaming: False
+flagpostconf: False
+
+# Truthy things that don't change
+flaghashike: False
+flaghasboat: False
+flaghaswritingday: True
+flaghasjobfair: True
+flaghasbadgeflair: False

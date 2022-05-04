@@ -251,7 +251,7 @@ body .page-content {
             margin-bottom: 10px;
 
             .item-starting-time {
-                width: 44px;
+                width: 74px;
                 padding-right: 16px;
                 font-weight: $bold;
             }
@@ -1357,4 +1357,8 @@ body .uk-navbar-dropdown-nav>li>a:focus, body .uk-navbar-dropdown-nav>li>a:hover
 
 .strike {
   text-decoration: line-through;
+}
+
+pre {
+  white-space: pre-wrap;
 }

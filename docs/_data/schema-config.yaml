@@ -34,6 +34,8 @@ grants: include('grants-details', required=False)
 shirts: include('shirts-details', required=False)
 unconf: include('unconf-details', required=False)
 lightning_talks: include('lightning_talks-details', required=False)
+hike: include('hike-details', required=False)
+
 
 flaghassponsors: bool()
 flagcfp: bool()
@@ -41,6 +43,7 @@ flagticketsonsale: bool()
 flagsoldout: bool(required=False)
 flagspeakersannounced: bool()
 flaghasschedule: bool()
+flagscheduleincomplete: bool(required=False)
 flaghaswritingday: bool(required=False)
 flagwelcomewagon: bool(required=False)
 flaglivestreaming: bool(required=False)
@@ -58,6 +61,9 @@ flaghashike: bool()
 flaghasboat: bool()
 flaglanding: bool()
 flaghasbadgeflair: bool(required=False)
+flaghasfood: bool(required=False)
+
+
 
 ---
 
@@ -138,6 +144,8 @@ sponsors-details:
   job_fair: list(include('sponsor-detail'), required=False)
   lanyard: list(include('sponsor-detail'), required=False)
   writing_day: list(include('sponsor-detail'), required=False)
+  in_kind: list(include('sponsor-detail'), required=False)
+
 
 sponsor-detail:
   name: str(required=True)
@@ -164,6 +172,9 @@ cfp-details:
   ends: str(required=True)
   notification: str(required=True)
   video_by: str(required=False)
+  slides_by: str(required=False)
+  gifts_by: str(required=False)
+  preview: str(required=False)
 
 grants-details:
   url: str(required=True)
@@ -176,6 +187,9 @@ shirts-details:
 
 unconf-details:
   url: str(required=True)
+
+hike-details:
+  date: str(required=False)
 
 lightning_talks-details:
   signup_url: str(required=True)

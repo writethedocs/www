@@ -115,7 +115,7 @@ day. Over the next couple months we were contacted by people from a
 variety of disciplines; technical writing industry groups, designers,
 typographers, literate programmers, API driven startups, and more. We
 quickly found a new venue, and sold out a 250 person conference. The
-`experience <https://thoughtfuldrift.info/2013/04/11/write-the-docs-2013.html>`__
+`experience <https://andrewnhem.com/content-strategy/a-wonderful-time-at-write-the-docs-2013/>`__
 was amazing. We'd found our people, and they'd found us.
 
 Now, we're ramping up for year two, with conferences both `in
@@ -138,3 +138,13 @@ over 1,500 :doc:`meetup </meetups/index>` members that have joined meetup groups
 
 The community keeps growing larger and larger,
 and we're happy to welcome everyone into this wonderful group of documentarians.
+
+For a video testimonial, see this interview of Why You Should Doc Code with Write the Docs' Eric Holscher & Marcia Riefer Johnston:
+
+.. raw:: html
+
+    <div class="talk">
+      <div class="embed-container">
+        <iframe src="https://www.youtube-nocookie.com/embed/j6rQpO_6XUU" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
