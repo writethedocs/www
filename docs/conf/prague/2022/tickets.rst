@@ -105,7 +105,8 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 
 We offer a corporate concierge service if your company is unable to follow our regular ticket sales process through the website.
 We can offer payment by invoice, process purchase orders, bank transfers, fill in supplier registration forms, and offer other support.
-Note that payment must still be received in full before the start of the conference.
+Your tickets will be issued after we have received payment.
+The minimum purchase is three tickets.
 
 {% if flagticketsonsale %}
 

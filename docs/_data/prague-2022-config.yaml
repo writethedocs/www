@@ -68,7 +68,7 @@ buttons:
 
 tickets:
   concierge:
-    price: €350
+    price: €250
   corporate:
     price: €150
   independent:
