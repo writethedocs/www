@@ -86,6 +86,7 @@ button-details:
 
 ticket-details:
   community: include('price-type', required=False)
+  concierge: include('price-type', required=False)
   corporate: include('price-type')
   independent: include('price-type')
   student: include('price-type')
