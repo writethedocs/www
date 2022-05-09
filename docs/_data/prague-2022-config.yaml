@@ -67,6 +67,8 @@ buttons:
     #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
 
 tickets:
+  concierge:
+    price: €250
   corporate:
     price: €150
   independent:
