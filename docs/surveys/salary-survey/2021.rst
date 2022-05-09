@@ -6,7 +6,252 @@
 Write the Docs Salary Survey 2021 Results
 *****************************************
 
+.. contents::
+   :local:
+   :depth: 2
+   :backlinks: none
+
 Introduction
 ============
 
-The intro.
+The Write the Docs Salary Survey aims to gather data about salaries for documentarians across the world, to help our community members determine what appropriate salary ranges are, and to provide a benchmark for future negotiations.
+
+This report presents the results of the third annual survey, which gathered submissions between October 11 and December 20, 2021. Although employees and independent contractors filled out different forms this time around, all the questions other than for Section 3 (Salary Information) were identical and the submissions were combined for this report. 
+
+In total, 959 documentarians (887 employees and 72 independent contractors) filled out the 2021 survey – a 19% increase from 2020 and a 48% increase from 2019. 
+
+.. raw:: html
+
+   
+
+   <object role="img" aria-label="Chart showing XYZ" aria-describedby="sample_desc" type="image/svg+xml" data="2021-total-respondents.svg" style="width:100%">
+		<p id="sample_desc">Bar chart showing total survey growth between 2019 and 2021, split up into employees and contractors</p>
+	</object> 
+
+Figure: Total survey growth in number of employee and contractor respondents, 2019-2021
+
+
+Feedback
+--------
+
+We’d love your thoughts on this survey, so that we can continue to refine it over the years. You can email us at support@writethedocs.org with your ideas.
+
+Section 1: Employment Parameters
+================================
+
+In this section, we asked about the parameters of the respondent’s employment:
+
+- whether they were employees, self-employed, or had been employed or self-employed but were currently not working,
+- the number of hours they worked and the length of time they had held the same position, 
+- whether they worked solo or as part of a team and how they classified their role, and
+- how focused their role was on tasks related to documentation.
+
+1.1 Basis of employment
+-----------------------
+
+.. container:: question
+   
+   .. rubric:: What we asked
+
+   1. What is the basis of your employment?
+
+   - I am an employee
+   - I was an employee, but am not currently employed
+   - I am an independent contractor, freelance operator, or self-employed
+   - I was an independent contractor, freelance operator, or self-employed, but do not currently have work
+
+887 employees (92.5% of total respondents) and 72 independent contractors (7.5% of total respondents) completed the 2021 survey. These numbers have remained steady over the three surveys, with just a slight proportional increase in the number of independent contractors.
+
+.. figure:: https://via.placeholder.com/600x200
+   :alt: <chart type> of <type of data> where <reason for including chart>
+
+   Figure: Basis of employment (combined status)
+
+.. figure:: https://via.placeholder.com/600x200
+   :alt: <chart type> of <type of data> where <reason for including chart>
+
+   Figure: Basis of employment, 2019-2021 (combined status)
+
+In 2020 we introduced and option for former employees or independent contractors who were not currently working. We asked these respondents to answer the questions as though they were still in their previous employment or contract situation. 
+
+This option was included in 2021, and 7 employees and 3 independent contractors selected unemployed as their status – only 1% of all respondents. By contrast, in 2020, more than twice as many respondents indicated they were currently unemployed - 18 employees and 2 independent contractors, or 2.5% of all respondents. 
+
+.. figure:: https://via.placeholder.com/600x200
+   :alt: <chart type> of <type of data> where <reason for including chart>
+
+   Figure: Basis of employment by employment status
+
+.. figure:: https://via.placeholder.com/600x200
+   :alt: <chart type> of <type of data> where <reason for including chart>
+
+   Figure: Basis of employment by employment status, 2020-2021
+
+1.2 Hours worked
+----------------
+
+.. container:: question
+   
+   .. rubric:: What we asked
+
+   2. How many hours per week do you work?
+
+   - 1-20 hours
+   - 21-30 hours
+   - 31-40 hours
+   - 41-50 hours
+   - 51-60 hours
+   - More than 60 hours
+
+As in previous years, most respondents worked “full-time” hours:
+
+- 96% worked 31 hours per week or more
+- 32% worked between 41 and 50 hours
+- Only 2% worked 51 hours or more
+
+Only one respondent entered more than 60 hours - that person reported working 70 hours.  
+
+Of the remaining 4%, around half worked up to 20 and the other half worked between 21 and 30 hours. Notably, 56% of those working 30 hours or less were classified as independent contractors (29% of all contractors). 
+
+.. figure:: https://via.placeholder.com/600x200
+   :alt: <chart type> of <type of data> where <reason for including chart>
+
+   Figure: Hours worked - combined employment status
+
+.. figure:: https://via.placeholder.com/600x200
+   :alt: <chart type> of <type of data> where <reason for including chart>
+
+   Figure: Hours worked - employees only
+
+.. figure:: https://via.placeholder.com/600x200
+   :alt: <chart type> of <type of data> where <reason for including chart>
+
+   Figure: Hours worked – contractors only
+
+.. figure:: https://via.placeholder.com/600x200   
+   :alt: <chart type> of <type of data> where <reason for including chart>
+
+   Figure: Hours worked – full-time vs part-time – employees and contractors 
+
+1.3 Job title
+----------------
+
+.. container:: question
+   
+   .. rubric:: What we asked
+
+   3. What is your job title?
+   
+      Note: To help us process this information, please use full terms rather than abbreviations. For example, use "Senior" rather than "Sr" and "Technical" rather than "Tech".
+
+With abbreviations expanded, typos corrected, capitalization standardized and level indicators (i.e. I, II etc.) removed, 270 distinct job titles emerged (versus 255 in 2020, and 207 in 2019). 
+
+“Technical Writer”, entered by 31% of respondents, was by far the most widely-used title, followed by “Senior Technical Writer” which accounted for another 20%. 
+
+The next most widely-used titles were a long way behind the frontrunners: “Lead Technical Writer” represented 3% of all respondents, followed by “Staff Technical Writer” with 2.2%. 
+
+- 76% of all titles contained the word “technical”
+- 66% contained “writer”, while only 1% contained “author”
+- 20% contained “manager”, “lead”, “head” or “director”
+- 27% contained “senior”, but only 1% contained “junior”
+- 7% contained “document” or “documentation”
+- 5.9% contained “content”
+- 5.2% contained “develop” (encompassing “developer” and “development”), while 2.2% contained “engineer” or “engineering”, and only 1.25% contained “design”
+- 1.5% contained “editor”
+- 1.5% contained “communication”
+- 1.25% contained “support”, and 0.5% contained “customer”
+  
+.. figure:: https://via.placeholder.com/600x200
+   :alt: <chart type> of <type of data> where <reason for including chart>
+
+   Figure: Job title word cloud
+
+1.4 Type of role
+----------------
+
+.. container:: question
+   
+   .. rubric:: What we asked
+
+   4. How would you broadly categorize your primary role? 
+      
+      Note: If you are a team leader or manager but also work alongside your team, please select the category of your team.
+  
+   - I am a writer, content creator, producer, or editor
+   - I am a developer or an engineer
+   - I am an educator
+   - I work in a customer support role
+   - I am an advocate or work in community outreach
+   - I work in marketing
+   - I work primarily in a management role
+   - Other (please specify)
+  
+   5. In your primary role, are you:
+   
+   - A solo worker
+   - Part of a team (either of people doing the same kind of role, or a mixed-discipline team)
+   - Part of multiple teams
+   - A manager or team leader
+   - Other (please specify)
+
+The majority of respondents (85%) placed themselves in the writer, content creator, producer or editor category, slightly down from 87.7% in 2020. Management came in next at 7.4%, an increase from 2020’s 4.8%, followed by developer/engineer at 2.9% (down from 2.4% in 2020). 
+
+Support came in at just over 1%, and the remaining three categories held less than 1% each (advocate/community outreach, marketing, educator). 2% of respondents selected the Other category, and many of these responses indicated an evenly split role (e.g. developer and writer; writer and evangelist). Additional entered responses included product manager, quality manager, and strategy-based roles. 
+
+.. figure:: https://via.placeholder.com/600x200
+   :alt: <chart type> of <type of data> where <reason for including chart>
+
+   Figure: Role categorization
+
+Respondents were further asked to indicate if they worked primarily solo, as part of a team (either a team made up of people doing the same kind of job, or a multi-disciplinary team), as part of multiple teams, or as a manager or team leader.
+
+- 16.3% of respondents indicated that they worked solo (the same percentage as in 2020),
+- 52.5% worked on a single team,
+- 15.5% on multiple teams, and
+- 15.2% lead a team
+
+.. figure:: https://via.placeholder.com/600x200  
+   :alt: <chart type> of <type of data> where <reason for including chart>
+   
+   Figure: Team breakdown
+ 
+1.5 Length of time at current organization
+------------------------------------------
+
+.. container:: question
+   
+   .. rubric:: What we asked
+
+   6. How long have you worked at your current organization?
+   
+      Note:
+      Please select the length of time for your position at your current organization only - your total years of experience in documentation will be covered in the individual demographics section.
+   
+      If you have changed roles at the same organization, please select the length of time that you have been in your current role.
+
+   - Less than 1 year
+   - 1 - 2 years
+   - 2 - 5 years
+   - 5 - 10 years
+   - More than 10 years
+
+Perhaps reflecting the job market upheaval caused by the pandemic, 31.7% of respondents reported having been in their current position for less than 1 year, up from 26% in 2020.  
+
+- 17.9% clocked in between 1 and 2 years (down from 26.2% in 2020) 
+- 31.8% between 2 and 5 years (up from 29.2% in 2020)
+- 12.8% between 5 and 10 years (down from 12.3% in 2020)
+- 5.7% had been in their current position for over 10 years (around the same as in 2020) 
+
+Of those respondents reporting more than 10 years in their current position:
+
+- 61.8% (34 individuals) came in between 11 and 15 years 
+- 21.8% (12 individuals) came in between 16 and 20 years
+- 16.4% (9 individuals) came in between 21 and 35 years
+
+Single respondents reported 24, 29, 32 and 35 years tenure – an increase from 2020, when the “high scores” in this category were single respondents each reporting 27 and 28 years.  
+
+
+
+
+.. raw:: html
+
+   </div>
