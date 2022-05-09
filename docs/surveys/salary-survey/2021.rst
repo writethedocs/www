@@ -22,9 +22,7 @@ In total, 959 documentarians (887 employees and 72 independent contractors) fill
 
 .. raw:: html
 
-   
-
-   <object role="img" aria-label="Chart showing XYZ" aria-describedby="sample_desc" type="image/svg+xml" data="2021-total-respondents.svg" style="width:100%">
+   <object role="img" aria-label="Chart showing XYZ" aria-describedby="sample_desc" type="image/svg+xml" data="https://github.com/writethedocs/www/blob/36a697039e0c7adaa28f4019b1603717604db893/docs/surveys/salary-survey/images/2021/2021-total-respondents.svg" style="width:100%">
 		<p id="sample_desc">Bar chart showing total survey growth between 2019 and 2021, split up into employees and contractors</p>
 	</object> 
 
