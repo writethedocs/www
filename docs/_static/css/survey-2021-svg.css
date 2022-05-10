@@ -1,0 +1,11 @@
+text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important}
+@font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
+.legend .labels text{font-size:18px;fill:#666}
+.axis-label text{fill:#666}
+.axis-label .y-axis text{fill:#F0F0F0;font-size:16px}
+.axis-lines path{stroke:#F0F0F0}
+@media screen and (max-width: 550px) {
+	.legend text{font-size:20px}
+	.axis-label text{font-size:20px}
+	.value-labels text{font-size:20px}
+}

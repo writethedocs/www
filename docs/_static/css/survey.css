@@ -8,8 +8,6 @@
   .survey-results{font-family:"tabular-numbers",georgia,bitstream charter,serif !important}
   .survey-results hr{margin-top:40px}
   .survey-results table.docutils{border-spacing:0;box-shadow:none;-webkit-box-shadow:none;-moz-box-shadow:none}
-  .survey-results table.docutils td,
-  .survey-results table.docutils th{}
   .survey-results table caption{padding:0.5em;font-size:110%}
   .survey-results div.figure{margin-top:1em}
   .survey-results div.figure p.caption{text-align:center;font-size:110%;margin-top:0.5em}

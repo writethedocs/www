@@ -2,21 +2,11 @@
   <defs>
     <style type="text/css">
       <![CDATA[
-        text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important}
-        @font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
-        .legend .labels text{font-size:18px;fill:#666}
-        .axis-label text{fill:#666}
-        .axis-label .y-axis text{#F0F0F0;font-size:16px}
+        @import url(/_static/css/survey-2021-svg.css);
         .value-labels .series_a text{fill:#FFF}
         .value-labels .series_b text{fill:#000}
-        .axis-lines path{stroke:#F0F0F0}
         .series_a{fill:#1E73BE}
         .series_b{fill:#FFA600}
-        @media screen and (max-width: 550px) {
-          .legend text{font-size:20px}
-          .axis-label text{font-size:20px}
-          .value-labels text{font-size:20px}
-        }
       ]]>
     </style>
     <linearGradient id="paint0_linear_13_171" x1="138.5" y1="193" x2="138.5" y2="535" gradientUnits="userSpaceOnUse">
