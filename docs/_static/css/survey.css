@@ -110,5 +110,6 @@
   /* 2021 specific styles */
   #write-the-docs-salary-survey-2021-results img.hide{display:none !important}
   #write-the-docs-salary-survey-2021-results figcaption{text-align:center;font-size:110%;margin-top:0.5em;padding-bottom:0.5em;border-bottom:1px solid #F0F0F0}
+  #write-the-docs-salary-survey-2021-results object{width:100%}
 
 }
