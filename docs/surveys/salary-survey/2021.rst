@@ -23,7 +23,7 @@ In total, 959 documentarians (887 employees and 72 independent contractors) fill
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Bar chart showing total survey growth, 2019-2021" aria-describedby="figure1_desc" type="image/svg+xml" data="_images/2021-total-respondents.svg">
+      <object role="img" aria-label="Bar chart showing total survey growth, 2019-2021" aria-describedby="figure1_desc" type="image/svg+xml" data="https://writethedocs-www--1648.org.readthedocs.build/_images/2021-total-respondents.svg">
          <p id="figure1_desc">Bar chart showing total survey growth between 2019 and 2021, split up into employees and contractors</p>
       </object> 
       <figcaption>Figure: Total survey growth in number of employee and contractor respondents, 2019-2021</figcaption>
