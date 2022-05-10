@@ -1,4 +1,127 @@
-<svg xmlns:ct="http://gionkunz.github.com/chartist-js/ct" width="100%" height="100%" class="ct-chart-bar" style="width: 100%; height: 100%;">
-<title>Total survey growth in number of employee and contractor respondents, 2019-2021</title>
-   <desc>Stacked bar chart of total respondents (with employees and contractors shown separately in the stack) showing the growth of the survey over the three years it has been running</desc>
-<text class="ct-axis-title-y" x="0" y="451.875" transform="rotate(90, 0, 461.875)" text-anchor="middle">No. of Respondents</text><text class="ct-axis-title-x" x="517" y="893.75" text-anchor="middle">Survey Year</text><g class="ct-grids"><line x1="70" x2="70" y1="80" y2="843.75" class="ct-grid ct-horizontal"></line><line x1="368" x2="368" y1="80" y2="843.75" class="ct-grid ct-horizontal"></line><line x1="666" x2="666" y1="80" y2="843.75" class="ct-grid ct-horizontal"></line><line y1="843.75" y2="843.75" x1="70" x2="964" class="ct-grid ct-vertical"></line><line y1="767.375" y2="767.375" x1="70" x2="964" class="ct-grid ct-vertical"></line><line y1="691" y2="691" x1="70" x2="964" class="ct-grid ct-vertical"></line><line y1="614.625" y2="614.625" x1="70" x2="964" class="ct-grid ct-vertical"></line><line y1="538.25" y2="538.25" x1="70" x2="964" class="ct-grid ct-vertical"></line><line y1="461.875" y2="461.875" x1="70" x2="964" class="ct-grid ct-vertical"></line><line y1="385.5" y2="385.5" x1="70" x2="964" class="ct-grid ct-vertical"></line><line y1="309.125" y2="309.125" x1="70" x2="964" class="ct-grid ct-vertical"></line><line y1="232.75" y2="232.75" x1="70" x2="964" class="ct-grid ct-vertical"></line><line y1="156.375" y2="156.375" x1="70" x2="964" class="ct-grid ct-vertical"></line><line y1="80" y2="80" x1="70" x2="964" class="ct-grid ct-vertical"></line></g><g><g ct:series-name="Employees" class="ct-series ct-series-a"><line x1="219" x2="219" y1="843.75" y2="376.335" class="ct-bar" ct:value="612"></line><text x="219" y="610.0425" style="text-anchor: middle" class="ct-bar-label">612</text><line x1="517" x2="517" y1="843.75" y2="270.9375" class="ct-bar" ct:value="750"></line><text x="517" y="557.34375" style="text-anchor: middle" class="ct-bar-label">750</text><line x1="815" x2="815" y1="843.75" y2="166.30375000000004" class="ct-bar" ct:value="887"></line><text x="815" y="505.026875" style="text-anchor: middle" class="ct-bar-label">887</text></g><g ct:series-name="Contractors" class="ct-series ct-series-b"><line x1="219" x2="219" y1="376.335" y2="348.07625" class="ct-bar" ct:value="37"></line><text x="219" y="362.205625" style="text-anchor: middle" class="ct-bar-label">37</text><line x1="517" x2="517" y1="270.9375" y2="228.93124999999998" class="ct-bar" ct:value="55"></line><text x="517" y="249.934375" style="text-anchor: middle" class="ct-bar-label">55</text><line x1="815" x2="815" y1="166.30375000000004" y2="111.31375000000003" class="ct-bar" ct:value="72"></line><text x="815" y="138.80875000000003" style="text-anchor: middle" class="ct-bar-label">72</text></g></g><g class="ct-labels"><foreignObject style="overflow: visible;" x="70" y="848.75" width="298" height="20"><span class="ct-label ct-horizontal ct-end" style="width: 298px; height: 20px;">2019</span></foreignObject><foreignObject style="overflow: visible;" x="368" y="848.75" width="298" height="20"><span class="ct-label ct-horizontal ct-end" style="width: 298px; height: 20px;">2020</span></foreignObject><foreignObject style="overflow: visible;" x="666" y="848.75" width="298" height="20"><span class="ct-label ct-horizontal ct-end" style="width: 298px; height: 20px;">2021</span></foreignObject><foreignObject style="overflow: visible;" y="767.375" x="30" height="76.375" width="30"><span class="ct-label ct-vertical ct-start" style="height: 76px; width: 30px;">0</span></foreignObject><foreignObject style="overflow: visible;" y="691" x="30" height="76.375" width="30"><span class="ct-label ct-vertical ct-start" style="height: 76px; width: 30px;">100</span></foreignObject><foreignObject style="overflow: visible;" y="614.625" x="30" height="76.375" width="30"><span class="ct-label ct-vertical ct-start" style="height: 76px; width: 30px;">200</span></foreignObject><foreignObject style="overflow: visible;" y="538.25" x="30" height="76.375" width="30"><span class="ct-label ct-vertical ct-start" style="height: 76px; width: 30px;">300</span></foreignObject><foreignObject style="overflow: visible;" y="461.875" x="30" height="76.375" width="30"><span class="ct-label ct-vertical ct-start" style="height: 76px; width: 30px;">400</span></foreignObject><foreignObject style="overflow: visible;" y="385.5" x="30" height="76.375" width="30"><span class="ct-label ct-vertical ct-start" style="height: 76px; width: 30px;">500</span></foreignObject><foreignObject style="overflow: visible;" y="309.125" x="30" height="76.375" width="30"><span class="ct-label ct-vertical ct-start" style="height: 76px; width: 30px;">600</span></foreignObject><foreignObject style="overflow: visible;" y="232.75" x="30" height="76.375" width="30"><span class="ct-label ct-vertical ct-start" style="height: 76px; width: 30px;">700</span></foreignObject><foreignObject style="overflow: visible;" y="156.375" x="30" height="76.375" width="30"><span class="ct-label ct-vertical ct-start" style="height: 76px; width: 30px;">800</span></foreignObject><foreignObject style="overflow: visible;" y="80" x="30" height="76.375" width="30"><span class="ct-label ct-vertical ct-start" style="height: 76px; width: 30px;">900</span></foreignObject><foreignObject style="overflow: visible;" y="50" x="30" height="30" width="30"><span class="ct-label ct-vertical ct-start" style="height: 30px; width: 30px;">1000</span></foreignObject></g></svg>
+<svg width="660" height="660" viewBox="0 0 660 660" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important}
+        @font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
+        .legend .labels text{font-size:18px;fill:#666}
+        .axis-label text{fill:#666}
+        .axis-label .y-axis text{#F0F0F0;font-size:16px}
+        .value-labels .series_a text{fill:#FFF}
+        .value-labels .series_b text{fill:#000}
+        .axis-lines path{stroke:#F0F0F0}
+        .series_a{fill:#1E73BE}
+        .series_b{fill:#FFA600}
+        @media screen and (max-width: 550px) {
+          .legend text{font-size:20px}
+          .axis-label text{font-size:20px}
+          .value-labels text{font-size:20px}
+        }
+      ]]>
+    </style>
+    <linearGradient id="paint0_linear_13_171" x1="138.5" y1="193" x2="138.5" y2="535" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity="0"/>
+      <stop offset="1"/>
+      </linearGradient>
+      <linearGradient id="paint1_linear_13_171" x1="337" y1="116" x2="337" y2="535" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity="0"/>
+      <stop offset="1"/>
+      </linearGradient>
+      <linearGradient id="paint2_linear_13_171" x1="535.5" y1="40" x2="535.5" y2="535" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity="0"/>
+      <stop offset="1"/>
+      </linearGradient>
+      <linearGradient id="paint3_linear_13_171" x1="138.5" y1="173" x2="138.5" y2="191" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity="0"/>
+      <stop offset="1"/>
+      </linearGradient>
+      <linearGradient id="paint4_linear_13_171" x1="337" y1="86" x2="337" y2="114" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity="0"/>
+      <stop offset="1"/>
+      </linearGradient>
+      <linearGradient id="paint5_linear_13_171" x1="535.5" y1="0" x2="535.5" y2="38" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity="0"/>
+      <stop offset="1"/>
+  </linearGradient>
+  </defs>
+  <title>Total survey growth in number of employee and contractor respondents, 2019-2021</title>
+  <desc>Stacked bar chart of total respondents (with employees and contractors shown separately in the stack) showing the growth of the survey over the three years it has been running</desc>
+  <svg id="wrapper" x="0" y="0" width="100%" height="100%">
+    <svg id="chart" x="0" y="0" width="660" height="620" viewbox="0 0 660 620">
+      <svg width="100%" height="100%" viewBox="0 0 636 559">
+        <g class="axis-lines">
+          <path d="M40.5 535H635.5"/>
+          <path d="M40.5 479H635.5"/>
+          <path d="M40.5 423H635.5"/>
+          <path d="M40.5 368H635.5"/>
+          <path d="M40.5 312H635.5"/>
+          <path d="M40.5 256H635.5"/>
+          <path d="M40.5 200H635.5"/>
+          <path d="M40.5 144H635.5"/>
+          <path d="M40.5 88H635.5"/>
+          <path d="M40.5 33H635.5"/>
+        </g>
+        <g class="axis-label">
+          <text><tspan x="122.315" y="555.582">2019</tspan></text>
+          <text><tspan x="319.234" y="555.582">2020</tspan></text>
+          <text><tspan x="519.044" y="555.582">2021</tspan></text>
+          <g class="y-axis">
+            <text><tspan x="20.6719" y="538.582">0</tspan></text>
+            <text><tspan x="3.96875" y="482.582">100</tspan></text>
+            <text><tspan x="1.90625" y="426.582">200</tspan></text>
+            <text><tspan x="2.01562" y="371.582">300</tspan></text>
+            <text><tspan x="1.79688" y="315.582">400</tspan></text>
+            <text><tspan x="2.39062" y="259.582">500</tspan></text>
+            <text><tspan x="1.78125" y="203.582">600</tspan></text>
+            <text><tspan x="2.79688" y="147.582">700</tspan></text>
+            <text><tspan x="1.29688" y="91.582">800</tspan></text>
+            <text><tspan x="1.78125" y="36.582">900</tspan></text>
+          </g>
+        </g>
+        <g class="data">
+          <g class="series_a">
+            <path d="M221.5 193H55.5V535H221.5V193Z" />
+            <path d="M221.5 193H55.5V535H221.5V193Z" fill="url(#paint0_linear_13_171)" fill-opacity="0.1"/>
+            <path d="M420.5 116H253.5V535H420.5V116Z" />
+            <path d="M420.5 116H253.5V535H420.5V116Z" fill="url(#paint1_linear_13_171)" fill-opacity="0.1"/>
+            <path d="M618.5 40H452.5V535H618.5V40Z" />
+            <path d="M618.5 40H452.5V535H618.5V40Z" fill="url(#paint2_linear_13_171)" fill-opacity="0.1"/>
+          </g>
+          <g class="series_b">
+            <path d="M221.5 173H55.5V191H221.5V173Z" />
+            <path d="M221.5 173H55.5V191H221.5V173Z" fill="url(#paint3_linear_13_171)" fill-opacity="0.1"/>
+            <path d="M420.5 86H253.5V114H420.5V86Z" />
+            <path d="M420.5 86H253.5V114H420.5V86Z" fill="url(#paint4_linear_13_171)" fill-opacity="0.1"/>
+            <path d="M618.5 0H452.5V38H618.5V0Z" />
+            <path d="M618.5 0H452.5V38H618.5V0Z" fill="url(#paint5_linear_13_171)" fill-opacity="0.1"/>
+          </g>
+        </g>
+        <g class="value-labels">
+          <g class="series_a">
+            <text><tspan x="129.066" y="357">612</tspan></text>
+            <text><tspan x="327.931" y="318">750</tspan></text>
+            <text><tspan x="526.296" y="280">887</tspan></text>
+          </g>
+          <g class="series_b">
+            <text><tspan x="331.292" y="106">55</tspan></text>
+            <text><tspan x="529.231" y="24">72</tspan></text>
+          </g>
+        </g>
+        <path d="M139 180.667C138.264 180.667 137.667 181.264 137.667 182C137.667 182.736 138.264 183.333 139 183.333C139.736 183.333 140.333 182.736 140.333 182C140.333 181.264 139.736 180.667 139 180.667ZM138.75 151L138.75 182L139.25 182L139.25 151L138.75 151Z" fill="black"/>
+        <g class="value-labels"><g class="series_b"><text><tspan x="130.383" y="144.035">37</tspan></text></g></g>
+      </svg>
+    </svg>
+    <svg id="legend" x="10" y="620" width="640" height="30" style="overflow:visible" viewBox="0 0 640 30">
+      <g class="legend">
+        <svg x="20%" y="0" width="30%" height="100%" viewbox="0 0 100% 100%">
+          <ellipse cx="15" cy="15" rx="8" ry="8" class="series_a" />
+          <text><tspan x="30" y="20">Employees</tspan></text>
+        </svg>
+        <svg x="50%" y="0" width="30%" height="100%" viewbox="0 0 100% 100%">
+          <ellipse cx="15" cy="15" rx="8" ry="8" class="series_b" />
+          <text><tspan x="30" y="20">Contractors</tspan></text>
+        </svg>
+      </g>
+    </svg>
+  </svg> 
+</svg>

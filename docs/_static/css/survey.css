@@ -106,4 +106,9 @@
   #write-the-docs-salary-survey-2020-results #tbl-top-geo-other thead tr th:nth-child(4),
   #write-the-docs-salary-survey-2020-results #tbl-top-geo-other tbody tr td:nth-child(4)
   {text-align:center}
+
+  /* 2021 specific styles */
+  #write-the-docs-salary-survey-2021-results img.hide{display:none !important}
+  #write-the-docs-salary-survey-2021-results figcaption{text-align:center;font-size:110%;margin-top:0.5em;padding-bottom:0.5em;border-bottom:1px solid #F0F0F0}
+
 }
