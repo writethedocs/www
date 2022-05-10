@@ -31,7 +31,9 @@ At the Writing Day we'll be working on MDN Web Docs and we'd love you to join us
 
 - Updating JavaScript code samples: many of our code samples use JavaScript features that are now considered outdated. We'd love to go through these and update them to use the modern style.
 
-The MDN content is maintained in Markdown in a GitHub repository: https://github.com/mdn/content, so to get started, you'll need a GitHub account.
+The MDN content is maintained in Markdown in a GitHub repository: https://github.com/mdn/content, and updates are made as GitHub pull requests, so to get started, you'll need a GitHub account.
+
+However, we'll start with a session for complete beginners about how to write a pull request for a GitHub repository.
 
 We'll be available to help you understand exactly what's needed for all these tasks and to help work through any problems. We're also really interested in understanding where people have problems contributing to MDN and how we can make it easier. So if you do join us for Writing Day, please tell us about it - what worked and what didn’t, what was easy and what wasn’t - so we can improve the experience for contributors.
 
