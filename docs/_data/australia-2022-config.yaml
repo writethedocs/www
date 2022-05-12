@@ -18,24 +18,26 @@ photos:
 
 buttons:
   top:
-    - text: Welcome to our conference
-      link: /news/welcome
-#    - text: Date and ticket information
-#      link: /news/announcing-virtual-conf-dates-tickets
+     - text: Welcome to our conference
+       link: /news/welcome
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
+    # - text: Date and ticket information
+    #   link: /news/announcing-virtual-conf-dates-tickets
     # - text: Read our conference guide
     #   link: /welcome-wagon
     # - text: See the Schedule!
     #   link: /schedule
-#    - text: Buy a Ticket!
-#      link: /tickets
-#    - text: Sponsor us
-#      link: /sponsors/prospectus
-#    - text: Submit a Talk
-#      link: /cfp
-    #- text: See the talks!
+    # - text: Buy a Ticket!
+    #   link: /tickets
+    # - text: See the talks!
     #   link: /speakers
-    # - text: See the Schedule!
-    #   link: /schedule
+ #    - text: See the Schedule!
+ #      link: /schedule
+ #    - text: Read our guide
+ #      link: /welcome-wagon
     # - text: Watch the Live Stream
     #   link: /livestream
     # - text: Browse the photos
@@ -45,22 +47,22 @@ buttons:
   bottom:
      - text: Welcome to our conference
        link: /news/welcome
-#     - text: Welcome to our conference
-#       link: /news/welcome
+    # - text: Sponsor the conference
+    #   link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
     # - text: See the Schedule!
     #   link: /schedule
-#     - text: Date and ticket information
-#       link: /news/announcing-virtual-conf-dates-tickets
-#     - text: Sponsor the conference
-#       link: /sponsors/prospectus
+    # - text: Date and ticket information
+    #   link: /news/announcing-virtual-conf-dates-tickets
     # - text: See the talks!
     #   link: /speakers
-#     - text: Buy a Ticket!
-#       link: /tickets
-    # - text: Prepare with the Welcome Wagon
-    #   link: /welcome-wagon
-    # - text: See the schedule!
-    #   link: /schedule
+    # - text: Buy a Ticket!
+    #   link: /tickets
+ #    - text: Read our guide
+ #      link: /welcome-wagon
+ #    - text: See the schedule!
+ #      link: /schedule
     # - text: Watch the Live Stream
     #   link: /livestream
     # - text: Browse the photos
