@@ -100,13 +100,13 @@ date: # how do we handle these? human readable would be nice.
   conference:
     event: Main Conference
     date: Dec 8-9
-    summary: The main days of the conference. We will be running one main track, as well as a <a href="/conf/australia/2022/lightning-talks/">Lightning Talks</a> & <a href="/conf/australia/2022/unconference/">Unconference</a>.
+    summary: The main days of the conference. We will be running one main track, as well as <a href="/conf/australia/2022/lightning-talks/">Lightning Talks</a> & <a href="/conf/australia/2022/unconference/">Unconference</a>.
     icon: conference
 
   # These are listed in the schedule
   day_one:
     event: Conference Day 1
-    date: December 2
+    date: December 8
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Thursday
     talk_time: 11:00-18:00
@@ -114,7 +114,7 @@ date: # how do we handle these? human readable would be nice.
     icon: conference
   day_two:
     event: Conference Day 2
-    date: December 3
+    date: December 9
     summary: And the conference goes on! We are already starting to miss you. |:heart:|
     dotw: Friday
     talk_time: 11:00-18:00
