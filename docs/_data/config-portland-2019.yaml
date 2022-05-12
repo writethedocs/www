@@ -115,54 +115,77 @@ cfp:
 sponsors:
   keystone:
     - name: google
+      brand: Google
       link: https://www.google.com
   patron:
     - name: oracle-cloud
+      brand: Oracle cloud
       link: https://cloud.oracle.com/iaas
   publisher:
     - name: alexa
+      brand: Alexa
       link: https://developer.amazon.com/alexa
     - name: aws
+      brand: AWS
       link: https://aws.amazon.com/
     - name: square
+      brand: Square
       link: https://squareup.com/
     - name: microsoft
+      brand: Microsoft
       link: https://developer.microsoft.com
     - name: braintree
+      brand: Braintree
       link: https://www.braintreepayments.com/
     - name: twilio
+      brand: Twillio
       link: https://www.twilio.com/
     - name: redhat
+      brand: RedHat
       link: https://www.redhat.com/
     - name: mozilla-new
+      brand: Mozilla
       link: https://developer.mozilla.org/
   second:
     - name: salesforce
+      brand: Salesforce
       link: https://www.salesforce.com
     - name: gitlab
+      brand: GitLab
       link: https://gitlab.com
     - name: elastic
+      brand: Elastic
       link: https://www.elastic.co
     - name: cisco
+      brand: Cisco
       link: https://www.cisco.com
     - name: knowledgeowl
+      brand: KnowledgeOwl
       link: https://www.knowledgeowl.com
     - name: netlify
+      brand: Netlify
       link: https://www.netlify.com/wtd
     - name: appian
+      brand: Appian
       link: https://www.appian.com/
     - name: cockroachlabs
+      brand: Cockroach Labs
       link: https://www.cockroachlabs.com/
     - name: asciidoctor
+      brand: asciidoctor
       link: https://asciidoctor.org/
     - name: redocly
+      brand: redocly
       link: https://redoc.ly
   first:
     - name: support-driven
+      brand: support driven
       link: https://supportdriven.com
     - name: cncf
+      brand: CNCF
       link: https://www.cncf.io
     - name: stickermule
+      brand: Sticker Mule
       link: https://www.stickermule.com/supports/writethedocs-portland
 
 

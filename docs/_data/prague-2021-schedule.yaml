@@ -1,0 +1,101 @@
+writing_day:
+- time: '10:00'
+  duration: '00:30'
+  title: 'Platform opens'
+- duration: '0:15'
+  title: Morning introduction - Introduction to Sprints & Project Introductions
+- duration: '2:15'
+  title: Team up and start working
+- duration: '1:00'
+  title: Lunch Break (60 mins)
+- time: '14:00'
+  duration: '0:30'
+  title: Conference Intro and Tour with the Welcome Wagon
+- time: '17:00'
+  title: End of Writing Day
+
+talks_day1:
+- time: '9:00'
+  duration: '0:30'
+  title: Platform opens
+- time: '9:30'
+  duration: '0:30'
+  title: Conference Intro and Tour with the Welcome Wagon
+- duration: '0:40'
+  title: Write the Docs Team - Introduction to Write the Docs
+- duration: '0:5'
+  title: Break (5 mins)
+- title: <b>Unconference Starts</b>
+- duration: '0:40'
+  slug: hitchhiker-s-guide-to-documentation-tools-and-processes-lukas-reu-ner
+- duration: '0:10'
+  title: Break (10 mins)
+- duration: '0:40'
+  slug: more-than-words-reviewing-and-updating-your-information-architecture-lana-brindley-she-her
+- duration: '0:5'
+  title: Break (5 mins)
+- duration: '0:40'
+  slug: so-you-need-to-give-bad-news-to-users-ryan-macklin-he-they
+- duration: '1:00'
+  title: Lunch (60 mins)
+- duration: '0:30'
+  title: Lightning talks (30 mins)
+- duration: '0:5'
+  title: Break (5 mins)
+- duration: '0:40'
+  slug: when-documenting-is-designing-how-to-assist-api-design-as-a-technical-writer-fabrizio-ferri-benedetti
+- duration: '0:5'
+  title: Break (5 mins)
+- duration: '0:40'
+  slug: adventures-in-setting-up-a-knowledge-system-for-a-research-group-victor-sluiter
+- duration: '0:10'
+  title: Break (10 mins)
+- duration: '0:40'
+  slug: alchemy-in-adversity-how-to-become-better-and-more-resilient-tech-writers-in-a-turbulent-work-environment-anna-korinna-n-meth-szab
+- duration: '0:5'
+  title: Break (5 mins)
+- duration: '0:40'
+  slug: customer-feedback-is-the-fuel-in-our-engine-kevin-hwang
+- duration: '0:25'
+  title: Day 1 wraps up
+- time: '18:00'
+  duration: '2:00'
+  title: <b>Social Event on SpatialChat</b>
+- title: <b>Social Event Ends</b>
+
+talks_day2:
+- time: '9:00'
+  duration: '1:45'
+  title: Platform opens
+- title: <b>Job Fair Starts</b>
+- duration: '0:40'
+  slug: how-to-write-a-book-for-and-with-an-open-source-community-felicity-brand
+- duration: '0:10'
+  title: Break (10 mins)
+- duration: '0:40'
+  slug: hustling-for-fun-and-profit-as-a-technical-writer-a-freelancing-starter-kit-karen-sawrey
+- duration: '0:5'
+  title: Break (5 mins)
+- title: <b>Job Fair Ends</b>
+- duration: '0:40'
+  slug: cognitive-ergonomics-in-technical-writing-lessons-from-the-field-anita-diamond
+- duration: '1:00'
+  title: Lunch (60 mins)
+- duration: '0:30'
+  title: Lightning Talks (30 mins)
+- duration: '0:5'
+  title: Break (5 mins)
+- title: <b>Unconference Starts</b>
+- duration: '0:40'
+  slug: how-i-use-applied-linguistics-to-be-a-better-technical-writer-kat-stoica-ostenfeld
+- duration: '0:5'
+  title: Break (5 mins)
+- duration: '0:40'
+  slug: from-travel-content-to-technical-content-my-journey-kate-santo
+- duration: '0:5'
+  title: Break (5 mins)
+- duration: '0:30'
+  slug: docs-leadership-how-to-become-a-stronger-leader-for-your-team-jenn-leaver
+- duration: '0:15'
+  title: Closing address 
+- title: <b>Conference Ends</b> :(

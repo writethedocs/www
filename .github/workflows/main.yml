@@ -2,9 +2,9 @@ name: CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
   workflow_dispatch:
 
@@ -42,6 +42,16 @@ jobs:
     - name: Validate YAML
       run: docs/_scripts/validate-yaml.sh
 
+  spellcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: codespell-project/actions-codespell@master
+        name: Check spelling
+        with:
+          skip: "*.svg,*.js,*.css,*.scss,docs/_data/201[5|6|7]*"
+          ignore_words_file: "codespell/ignore.txt"
+          path: docs
 
   sphinx:
     runs-on: ubuntu-latest

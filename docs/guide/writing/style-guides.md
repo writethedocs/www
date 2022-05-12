@@ -53,6 +53,7 @@ Classics for software documentation include:
 ### More enterprise software style guides
 
 - [Google developer documentation](https://developers.google.com/style)
+- [The Red Hat Style Guide](https://redhat-documentation.github.io/supplementary-style-guide/)
 - [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm)
 - [Rackspace](https://docs.rackspace.com/docs/style-guide/)
 - [Mailchimp](https://styleguide.mailchimp.com/)
@@ -69,7 +70,6 @@ Classics for software documentation include:
 
 ### Style guides from open source projects
 
-- [The Red Hat Style Guide](http://stylepedia.net/style/)	
 - [Open SUSE Style Guide](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
 - [gnome Style Guide](https://developer.gnome.org/gdp-style-guide/2.32/gdp-style-guide.html)
 

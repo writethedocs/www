@@ -11,45 +11,46 @@ email: prague@writethedocs.org
 color: gold
 rgb: 253,185,19
 hex: fdb913
+time_format: 24h
 
 photos:
   default: _static/conf/images/headers/prague-group.png
 
 buttons:
   top:
-#    - text: Welcome to our conference
-#      link: /news/welcome
-#    - text: Date and ticket information
-#      link: /news/announcing-virtual-conf-dates-tickets
+    #    - text: Welcome to our conference
+    #      link: /news/welcome
+    #    - text: Date and ticket information
+    #      link: /news/announcing-virtual-conf-dates-tickets
     # - text: Read our conference guide
     #   link: /welcome-wagon
     # - text: See the Schedule!
     #   link: /schedule
-    - text: Buy a Ticket!
-      link: /tickets
+    # - text: Buy a Ticket!
+    #   link: /tickets
     #- text: Sponsor us
     #  link: /sponsors/prospectus
-#    - text: Submit a Talk
-#      link: /cfp
-    - text: See the talks!
-      link: /speakers
-    # - text: See the Schedule!
-    #   link: /schedule
+    #   - text: Submit a Talk
+    #     link: /cfp
+    #- text: See the talks!
+    #  link: /speakers
+    #- text: See the Schedule!
+    #  link: /schedule
     # - text: Watch the Live Stream
     #   link: /livestream
-    # - text: Browse the photos
-    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-    # - text: Watch the videos!
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+    - text: See the sketchnotes
+      link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157720128594755
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpnaoiOQyd9BYbQbprDGQjQ9
   bottom:
-     - text: Welcome to our conference
-       link: /news/welcome
+    # - text: Welcome to our conference
+    #   link: /news/welcome
     # - text: See the Schedule!
     #   link: /schedule
 #     - text: Date and ticket information
 #       link: /news/announcing-virtual-conf-dates-tickets
-     - text: Sponsor the conference
-       link: /sponsors/prospectus
+    # - text: Sponsor the conference
+    #   link: /sponsors/prospectus
     # - text: See the talks!
     #   link: /speakers
 #     - text: Buy a Ticket!
@@ -129,10 +130,11 @@ date: # how do we handle these? human readable would be nice.
   total_talk_days: 2
 
 about:
-  attendees: 400
+  attendees: 300
   summary:
     "The main presentation track takes place on **October 4-5 (Monday and Tuesday) from 10:00 to 18:00**.
     During the main event we also run an :doc:`/conf/prague/2021/unconference`."
+  social_venue: "Spatial chat platform"
   venue: "Online conference platform"
   photos:
   mainroom: "Video area"
@@ -151,14 +153,43 @@ grants:
   ends: "August 15, 2021"
   notification: "August 25, 2021"
 
+unconf:
+  url: https://bit.ly/wtd-prg-2021-ro
+
+lightning_talks:
+  signup_url: https://forms.gle/GzEn8GH7wjs7Aaun9
+
 sponsors:
   keystone:
   patron:
   publisher:
+    - name: redhat-new
+      link: https://www.redhat.com/en
+      brand: Red Hat
   second:
     - name: peopletext
       link: https://www.people-text.de/en/home-en.html
       brand: people text
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+      brand: KnowledgeOwl
+      width: 250px
+      text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl also sponsors and hosts The Not-Boring Tech Writer podcast. We are always looking for new guests to share their stories, experience, and expertise with the world.</p>"
+    - name: jetbrains
+      link: https://www.jetbrains.com/
+      brand: JetBrains
+    - name: openwebdocs-new
+      link: https://opencollective.com/open-web-docs
+      brand: Open Web Docs
+      width: 150px
+      text: "<p>Open Web Docs is proud to sponsor Write The Docs with underwriting from the Samsung Internet Research Team</p>"
+    - name: aiven
+      link: https://aiven.io/
+      brand: Aiven
+      text: "<p>Aiven provides managed open-source data technologies on all major clouds. We are looking for Developer Advocates, Developer Educators and Technical Writers to join our DevRel team. We have offices in Helsinki, and Berlin, however we are hiring for this position remotely in several countries all over Europe additionally to Germany and Finland. You will be empowering and enabling developers everywhere to take advantage of the best open source database technologies, preparing and delivering content for industry events, meetups, our own webinars and creating engaging demos and documentation. Contact us for more details!</p>"
+    - name: mdn
+      link: https://developer.mozilla.org/en-US/
+      brand: MDN Web Docs
   media:
     - name: bart
       link: http://www.bartatwork.com
@@ -172,16 +203,16 @@ sponsors:
 flagcfp: False
 flaglanding: False
 flaghassponsors: True
-flagticketsonsale: True
-flagsoldout: False
+flagticketsonsale: False
+flagsoldout: True
 flagspeakersannounced: True
-flagrunofshow: False
-flaghasschedule: False
+flagrunofshow: True
+flaghasschedule: True
 flaghasunconf: True
 flaghasshirts: True
 flagvideos: False
 flaglivestreaming: False
-flagpostconf: False
+flagpostconf: True
 
 # Truthy things that don't change
 flaghashike: False

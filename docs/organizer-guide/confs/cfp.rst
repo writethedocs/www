@@ -12,32 +12,36 @@ This section describes how to:
 CFP timeline
 ------------
 
-The CFP should be scheduled to end around **3 months** prior to the conference.
-This allows for time to book travel for speakers,
-but also keeps the topics fresh and ensures the speakers are still passionate about them.
+PLan to end the Call for Proposals around **3 months** prior to the conference.
+This gives speakers plenty of time to book travel, but also keeps the topics fresh
+and ensures the speakers are still passionate about them.
 
-After the CFP ends,
-reviews should be given 1 week to review all the talk proposals.
-After this, we will have rate them following the below process,
-and have the final group meeting where we talk through the final schedule
+After the CFP ends, give reviewers 1 week to review all the talk proposals.
+After this, the reviewers rate the proposals following the review guidelines, and hold the final
+group meeting where we talk through the final schedule.
 
 How to write a CFP?
 -------------------
 
-* **"Announcing [conf name] Call for Proposals":** Say hi and don't forget to mention when is the conference and when will close the CFP.
-* **"Conference Goals":** Invite everyone who care about docs to contribute!
-* **"Topic ideas":** To help potential speakers find a topic, list different subjects that make good talks. Add a few links to previous talks: it will help people get a better idea of what you want.
-* **"Presentation format":** Format is 30 minutes but invite people to contact you if they want to do something longer/shorter.
-* **"Speaker Benefits and Logistics":** Say if you cover ticket, travel cost and lodging for speakers.
-* **"Question?":** How people should contact you.
-* **"Submit a Proposal":** Link or form where people can send their proposal.
+Announcing [conf name] Call for Proposals
+   Say hi and don't forget to mention when the conference is and when the the CFP will close.
+Conference Goals
+   Invite everyone who care about docs to contribute!
+Topic ideas
+   To help potential speakers find a topic, list different subjects that make good talks. Add a few links to previous talks: it will help people get a better idea of what you want.
+Presentation format
+   Format is 30 minutes but invite people to contact you if they want to do something longer/shorter.
+Speaker Benefits and Logistics
+   Say if you cover ticket, travel cost and lodging for speakers.
+Questions?
+   How people should contact you.
+Submit a Proposal
+   Link or form where people can send their proposal.
 
 `Call for Proposals` examples from previous WTD conferences:
 
-* `WTD EU 2019 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/prague/2019/cfp.rst>`_
-* `WTD NA 2019 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2019/cfp.rst>`_
-* `WTD EU 2018 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/prague/2018/cfp.rst>`_
-* `WTD NA 2018 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2018/cfp.rst>`_
+* `WTD Prague 2021 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/prague/2021/cfp.rst>`_
+* `WTD Portland 2021 CFP <https://github.com/writethedocs/www/blob/master/docs/conf/portland/2021/cfp.rst>`_
 
 Talk review and selection
 -------------------------
@@ -48,74 +52,85 @@ We use a tool called Pretalx, which lets us store, review, and record our select
 Each member of the review committee will need:
 
 * Access to `Pretalx <https://pretalx.com>`__
-* 6+ hours of time for proposal review
-* Optional review meeting (usually two hours)
+* Around 6 hours of time for proposal review
+* (Optional) Review meeting (usually two hours)
 
 Reviewing starts as soon as there are propsals to review, although most proposals usually come in in the last week or so.
+We usually end the Call for Proposals around 8 weeks before the conference, aim to hold the review meeting within one week, and give the speakers around a week to confirm, then reach out to alternates if needed.
 
 We encourage our reviewers to comment on each proposal as well as rate them, since it makes for a much more productive review meeting.
 
 Reviewing Guidelines
 ~~~~~~~~~~~~~~~~~~~~~
 
-**How we rate talks.** Please use the following rating system:
+Grade the quality of each proposal on a 5 to 1 grading scale for overall content, originality, relevance, and speaker(s):
 
- 1. I will argue strongly against including this in the program.
- 2. I'm not a fan, but it wouldn't be the end of the world if we included this.
- 3. (DO NOT USE. Three means you don't have an opinion. We don't believe you. No threes.)
- 4. This is a decent talk. I'd be cool with including it.
- 5. I will fight to make sure this talk is included in the program.
+1. I will argue strongly against including this in the program.
+2. I'm not a fan, but it wouldn't be the end of the world if we included this.
+3. (DO NOT USE. Three means you don't have an opinion. We don't believe you. No threes.)
+4. This is a decent talk. I'd be cool with including it.
+5. I will fight to make sure this talk is included in the program.
 
-**Revisit your first ~15 talks.** When you're reviewing this many talks, it can take a while to get the feel of the rating system since, at first, you only have a small sample to compare to. To solve this problem, we recommend that, when you get to the end of your reviews, you go back and take another quick look at the first 15 or so talks you looked at, to make sure your rating holds up in the context of the whole pool.
+Reminders:
 
-**The review meeting.** This can take up to two hours. We sort talks by **Median** rating, and move quite quickly through the top six or so talks (although if there is a **1** as well as a high score it might need some discussion).
+* Leave comments for each proposal you review, with the reasons for your score.
+* Do not leave a score of 3.
 
-Dealing with conflicts of interest::
+Review Process Best Practices
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Time Commitment**
+   Please plan on committing 4-6 hours total to review all of the submissions in your track, depending on the amount of submissions. Aim to do a few at a time then take a break. This helps prevent burnout and allows you to see more proposals with fresh eyes. Some folks have found the `Pomodoro Technique <https://en.wikipedia.org/wiki/Pomodoro_Technique>`__ for this.
+**Revisit your first ~15 talks**
+   When you're reviewing this many talks, it can take a while to get the feel of the rating system since, at first, you only have a small sample to compare to. To solve this problem, we recommend that, when you get to the end of your reviews, you go back and take another quick look at the first 15 or so talks you looked at, to make sure your rating holds up in the context of the whole pool.
+**Bias**
+      It's really useful, when you're doing these reviews, to think not just about the things that you, personally, are most interested in, but also what talks are a good fit for the spirit of a Write the Docs conference. You've been before. You know the vibe. Try to keep that energy in mind when reading proposals and think about whether they would be at home in lineup of fun, educational, and often out-of-the-box speakers.
+
+      The other thing to consider is balance. One of the things that makes this process so hard how many different spectrums across which we need to balance our talks. Here are some of the ones we try to keep in mind:
+
+      * Writers/Developers/Product/Support
+      * Gender
+      * Technical level
+      * Speaking experience
+      * Open source vs. not
+**Process Integrity**
+   It is very important to protect the integrity of the review process, and to avoid undue bias, by keeping the submissions and your comments on them confidential. Please review and adhere to our Code of Conduct.
+**Public & Author Interaction**
+   To ensure an unbiased review process, program committee members should not discuss submissions with authors and/or the overall public (i.e., please no tweeting). Of course, please feel free to tweet about accepted sessions that you are excited to attend once the schedule has been published.
+**Conflict of Interest**
+   Reviewers are asked to wear their “Write the Docs” hats rather than the company or other affiliation when scoring submissions so that you rate all submissions fairly. If a submission was written by a colleague you work closely with or someone that you are seen to be associated with or in competition with, please skip the review. Mark it as a conflict of interest.
+**Review Metrics**
+   Highlight your level of confidence in your recommendation, as well as the reasons for your score. Consider the following criteria:
+
+   Relevance
+      Does the content provide takeaways that are new and exciting instead of information that was “so last year?” Is the content relevant to the conference?
+   Originality
+      Is this an original presentation, instead of one that a speaker repeats at every conference?
+   Soundness
+      Does the content make sense in delivery or is it all over the place? Is the proposal focused?
+   Quality of Presentation
+      Is the proposal engaging and well thought out? Does the background material suggest the speaker will deliver this presentation effectively?
+   Importance
+      How important is the content for the Write the Docs audience?
+   Experience
+      Is this speaker a good person to deliver this presentation? Does their experience with the subject matter align with the proposed content?
+
+Speakers with multiple submissions:
+   We will not accept more than one talk from the same speaker. Use your comments to indicate why you prefer one talk over another.
+
+The review meeting
+~~~~~~~~~~~~~~~~~~
+
+This can take up to two hours. We sort talks by **Median** rating, and move quite quickly through the top six or so talks (although if there is a **1** as well as a high score it might need some discussion).
+
+Dealing with conflicts of interest:
    Basically, if you have a conflict of interest with a particular proposal, don't vote on it. This includes your own proposals.
-
-The intellectual stuff
-~~~~~~~~~~~~~~~~~~~~~~
-
-It's really useful, when you're doing these reviews, to think not just about the things that you, personally, are most interested in, but also what talks are a good fit for the spirit of a Write the Docs conference. You've been before. You know the vibe. Try to keep that energy in mind when reading proposals and think about whether they would be at home in lineup of fun, educational, and often out-of-the-box speakers.
-
-The other thing to consider is balance. One of the things that makes this process so hard how many different spectrums across which we need to balance our talks. Here are some of the ones we try to keep in mind:
-
-* Writers/Developers/Product/Support
-* Gender
-* Technical level
-* Speaking experience
-* Open source vs. not
-
-It's not an exact science. Use your discretion and take lots of notes, come to the meeting ready to discuss.
 
 Sharing proposal decisions
 --------------------------
 We send emails out to everyone who submitted a proposal.
 They either get an acceptance, rejection, or waitlist email.
-The templates for all of these are linked below.
-
-.. note:: These templates are out of date and subject to a rework.
-
-Speaker Acceptance Template
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. literalinclude:: emails/cfp-acceptance.jinja
-   :language: jinja
-
-
-Speaker Rejection Template
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. literalinclude:: emails/cfp-rejection.jinja
-   :language: jinja
-
-
-Speaker Waitlist Template
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. literalinclude:: emails/cfp-waitlist.jinja
-   :language: jinja
-
+The CFP related templates are in the current conference folder (as of Portland 2022).
 
 Building a Schedule
 -------------------
@@ -181,7 +196,7 @@ Meeting 3 - Present slides:
 Meeting 4 - Practice talk:
    *Speaker pre-work: Practice the talk several times. Prepare speaker notes in the slidedeck if needed, but aim to reach the point that you don't need to reference the outline.*
    
-   The speaker presents a semi-final draft of the pratice talk. The mentor provides feedback on the presentation, asks questions they anticipate the audience might have, make suggestions on the flow and speed, and so on. If the speaker and mentor agree that additional practice talks are needed or desired, they can schedule them.
+   The speaker presents a semi-final draft of the practice talk. The mentor provides feedback on the presentation, asks questions they anticipate the audience might have, make suggestions on the flow and speed, and so on. If the speaker and mentor agree that additional practice talks are needed or desired, they can schedule them.
 
 Session considerations
 ~~~~~~~~~~~~~~~~~~~~~~

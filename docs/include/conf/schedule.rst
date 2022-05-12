@@ -1,3 +1,7 @@
+{% if not flaghasschedule %}
+**WARNING**: This schedule has not been finalized and is subject to change. The schedule will be finalized around 1 month prior to the event.
+{% endif %}
+
 Write the Docs is more than a conference.
 Each year we organize a wide range of events so that people can come together, collaborate, and learn from each other in different ways.
 
@@ -48,7 +52,7 @@ Further details will be announced later.
 {{date.day_two.dotw}}, {{date.day_two.date}}
 -----------------------------------------
 
-The Writing Day and Welcome Reception will be held in our **{{about.venue}}**.
+The Writing Day will be held in our **{{about.venue}}**.
 
 {% if flaghasfood %}
 
@@ -118,7 +122,7 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session at the end of their talk.
+Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
 
 .. separator to fix list formatting
 
@@ -182,7 +186,7 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session at the end of their talk.
+Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
 
 .. separator to fix list formatting
 
@@ -203,7 +207,7 @@ Job Fair
 
 We'll be holding a job fair on Tuesday morning!
 
-* **Where**: {{about.venue}}, {{about.unconfroom}}
+* **Where**: {{about.venue}}, {{about.job_fair_room }}
 {% if not flaghasschedule %}
 * **When**: **{{ date.day_four.job_fair_time }} {{ tz }}**
 {% endif %}

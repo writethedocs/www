@@ -3,11 +3,14 @@
   series: Write the Docs Prague
   series_slug: prague
   year: 2021
+  youtubeId: Gm-0IIvWLmE
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51632732991/in/album-72157720128594755/
+  sketchnoteImage: https://live.staticflickr.com/65535/51632732991_5bf4742172_b_d.jpg
   speakers:
   - name: Lana Brindley (she/her)
     slug: lana-brindley-she-her
     twitter: '@loquacities'
-    website: 
+    website:
   abstract: '<p>As technical writers, we already know that choosing the right words
     is important, and we also know that the style and layout of our pages matters.
     The third leg of the stool is information architecture: getting the right content,
@@ -27,6 +30,9 @@
   series: Write the Docs Prague
   series_slug: prague
   year: 2021
+  youtubeId: doYpi9hEE7w
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51631909667/in/album-72157720128594755/
+  sketchnoteImage: https://live.staticflickr.com/65535/51631909667_0cedd3f7bc_b_d.jpg
   speakers:
   - name: Karen Sawrey
     slug: karen-sawrey
@@ -76,6 +82,9 @@
   series: Write the Docs Prague
   series_slug: prague
   year: 2021
+  youtubeId: ODjX_3tGeeM
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51631909817/in/album-72157720128594755/
+  sketchnoteImage: https://live.staticflickr.com/65535/51631909817_32f0787993_b_d.jpg
   speakers:
   - name: Fabrizio Ferri-Benedetti
     slug: fabrizio-ferri-benedetti
@@ -103,11 +112,14 @@
   series: Write the Docs Prague
   series_slug: prague
   year: 2021
+  youtubeId: 3ceQ9xbRn3s
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51631909682/in/album-72157720128594755/
+  sketchnoteImage: https://live.staticflickr.com/65535/51631909682_5af787ce6c_b_d.jpg
   speakers:
   - name: Jenn Leaver
     slug: jenn-leaver
     twitter: '@jennleaver'
-    website: 
+    website:
   abstract: '<p>Leading a documentation team is challenging. You need to focus not
     only on the content related to your company’s products but also on the overall
     experience people have when using your documentation. In a lot of ways, the documentation
@@ -124,6 +136,9 @@
   series: Write the Docs Prague
   series_slug: prague
   year: 2021
+  youtubeId: lSzV1r5PbLA
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51633585500/in/album-72157720128594755/
+  sketchnoteImage: https://live.staticflickr.com/65535/51633585500_db3929ed99_b_d.jpg
   speakers:
   - name: Anita Diamond
     slug: anita-diamond
@@ -140,25 +155,28 @@
     the meaning of existing terminologies and the mental models they represent. </p>\n<p>What
     are the practical ways we can support the creation of new mental models to aid
     understanding?</p>\n</li>\n<li>\n<p>Fast and Slow Thinking - \nKahnemann - how
-    do we apply Kahnemann’s principles to Technical Writing \nWe know people don’t
+    do we apply Kahnemann’s principles to Technical Writing \n We know people don’t
     want to think, we know they prefer heuristics that are often biased to process
     information. Yet as Technical writers, we have to convey complex information that
     may require this less preferred deep thinking. </p>\n<p>What are the practical
     ways we can resolve this tension and support people to comprehend complexity easily.</p>\n</li>\n<li>\n<p>Culture
     and Behaviour Change \nDo you ever feel like you’re wading through mud. The docs
     aren’t getting written, you’re overwhelmed and a new release is coming out. \nWhy
-    culture matters and what it is? What is culture clash? \nHow do we discover cultural
+    culture matters and what it is? What is culture clash? \n How do we discover cultural
     indicators and work with them to promote an effective docs-first culture?</p>\n</li>\n</ol>"
 - title: Hitchhiker's Guide to Documentation Tools and Processes
   slug: hitchhiker-s-guide-to-documentation-tools-and-processes-lukas-reu-ner
   series: Write the Docs Prague
   series_slug: prague
   year: 2021
+  youtubeId: p8-ZLqYtD5o
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51631909467/in/album-72157720128594755/
+  sketchnoteImage: https://live.staticflickr.com/65535/51631909467_85cea25836_b_d.jpg
   speakers:
   - name: Lukas Reußner
     slug: lukas-reu-ner
     twitter: '@lukasreussner'
-    website: 
+    website:
   abstract: '<p>No matter if you are on earth or any other planet, it''s very likely
     that one day some Vogon will approach you and ask you the ultimate question: Which
     tool and process should we use for our documentation? And the worst thing about
@@ -204,54 +222,19 @@
 
     <p>And last but not least, we''ll have a look at different documentation processes
     and how they fit to our defined tool categories and types of use.</p>'
-- title: 'Common Tools: documentation outside the tech bubble'
-  slug: common-tools-documentation-outside-the-tech-bubble-kathleen-dimmich-mahaffy
-  series: Write the Docs Prague
-  series_slug: prague
-  year: 2021
-  speakers:
-  - name: Kathleen Dimmich Mahaffy
-    slug: kathleen-dimmich-mahaffy
-    twitter: 
-    website: 
-  abstract: '<p>When I went to WtD-Prague last year, I was struck by the assumption
-    that all tech writers are writing for technically savvy users, and that we all
-    had access to fancy tools. What do you do when you’re a tech writer for accountants
-    and social workers? When your documentation is written in MS Word, and hosted
-    on SharePoint? </p>
-
-    <p>I am part of a large base of documentarians who are still using word processing
-    programs, and who are writing for people for whom technology is still seen mostly
-    as an impediment, not as an asset for their jobs. I am the lead tech writer at
-    a property management firm, and my audience is made up of all 600 of our staff,
-    from maintenance personnel to the woman in the corner office. Our tools are simple
-    ones, because our staff needs explicit directions in a printable PDF, something
-    they can mark up and put in a binder on their desk. These are people who, by and
-    large, have a semi-antagonistic attitude about technology, from their phones to
-    our primary, custom SaaS database, and have a wide, <em>wide</em> variation in
-    use cases.</p>
-
-    <p>So when your tools are limited, and your audience is not at all technically
-    savvy, how do you organize the documentation upgrade process? I just finished
-    a complete reorganization and rewrite of all our manuals, to reflect the government
-    mandated changes in the SaaS. What does framing look like, and the style guide,
-    when git and docs-as-code aren’t actually options? When 60% of your audience needs
-    help changing their password, what are the things that you need to take into account
-    as you write your documentation on highly technical processes in the WYSIWYG SaaS
-    database? </p>
-
-    <p>Tl:dr: Not every tech writing job is in the tech industry - how does that change
-    your documentation?</p>'
 - title: How to write a book for (and with) an open source community
   slug: how-to-write-a-book-for-and-with-an-open-source-community-felicity-brand
   series: Write the Docs Prague
   series_slug: prague
   year: 2021
+  youtubeId: Enq7Esg3tHY
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51632956818/in/album-72157720128594755/
+  sketchnoteImage: https://live.staticflickr.com/65535/51632956818_2c8f39244a_b_d.jpg
   speakers:
   - name: Felicity Brand
     slug: felicity-brand
     twitter: '@felicity_brand'
-    website: flicstar.com
+    website: http://flicstar.com
   abstract: '<p>I''m a technical writer—I can''t write books! Well, apparently I can,
     I did, and so can you.</p>
 
@@ -297,10 +280,13 @@
   series: Write the Docs Prague
   series_slug: prague
   year: 2021
+  youtubeId: RwzrF1g2vf4
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51632956993/in/album-72157720128594755/
+  sketchnoteImage: https://live.staticflickr.com/65535/51632956993_54561d0f14_b_d.jpg
   speakers:
   - name: Anna Korinna Németh-Szabó
     slug: anna-korinna-n-meth-szab
-    twitter: 
+    twitter:
     website: https://hu.linkedin.com/in/anna-korinna-n%C3%A9meth-szab%C3%B3-084195a7
   abstract: '<p>The pandemic situation and working from home has affected the majority
     of the world, and most industries as well. Most employees, including technical
@@ -332,6 +318,9 @@
   series: Write the Docs Prague
   series_slug: prague
   year: 2021
+  youtubeId: 5tv4bOPpI7M
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51633383629/in/album-72157720128594755/
+  sketchnoteImage: https://live.staticflickr.com/65535/51633383629_8e77cf24e1_b_d.jpg
   speakers:
   - name: Victor Sluiter
     slug: victor-sluiter
@@ -350,10 +339,10 @@
 
     <p>In the following year we first set out to find out what we actually wanted
     to share with whom, and what roadblocks we found, both technical and organizational.
-    As our organization is trying to be "LEAN", we asked te help of a lean coach to
+    As our organization is trying to be "LEAN", we asked the help of a lean coach to
     look with us what the "root causes" were for the lack of information sharing.
     One of the main things we found out "on the go" is that the documents we had standardized,
-    but never made were indeed those that noone was interested in.</p>
+    but never made were indeed those that no one was interested in.</p>
 
     <p>In the process of standardizing and recreating our knowledge products, we had
     a lot of hurdles to take, such as getting consesus what we actually need to document,
@@ -366,10 +355,13 @@
   series: Write the Docs Prague
   series_slug: prague
   year: 2021
+  youtubeId: NKK2o0IPXjU
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51633585185/in/album-72157720128594755/
+  sketchnoteImage: https://live.staticflickr.com/65535/51633585185_29c32156a2_b_d.jpg
   speakers:
   - name: Kate Santo
     slug: kate-santo
-    twitter: 
+    twitter:
     website: https://katerine-santo.medium.com/
   abstract: '<p>In the last couple of years, I’ve gone from creating travel content
     in the biggest online travel agency in the world to creating technical content
@@ -396,11 +388,14 @@
   series: Write the Docs Prague
   series_slug: prague
   year: 2021
+  youtubeId: JbGTU15RlYk
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51632733066/in/album-72157720128594755/
+  sketchnoteImage: https://live.staticflickr.com/65535/51632733066_581fe12870_b_d.jpg
   speakers:
   - name: Kevin Hwang
     slug: kevin-hwang
     twitter: '@kevinyuhwang'
-    website: 
+    website:
   abstract: '<p>How do you know if your documentation is any good? You’ve written
     it, and a bunch of people have reviewed it, and maybe you even had it edited.
     But is it any good? Is it useful? Will it actually help a customer? And is anyone
@@ -439,11 +434,14 @@
   series: Write the Docs Prague
   series_slug: prague
   year: 2021
+  youtubeId: iuaLHLyLTpY
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51632956528/in/album-72157720128594755/
+  sketchnoteImage: https://live.staticflickr.com/65535/51632956528_98a401a6f0_b_d.jpg
   speakers:
   - name: Ryan Macklin (he/they)
     slug: ryan-macklin-he-they
     twitter: '@adocgeek'
-    website: macklin.cc
+    website: http://macklin.cc
   abstract: '<p>A lot of documentation advice talks about happy path docs, and sometimes
     abstractly about users who struggle. This talk focuses on actionable tips for
     when you have to give users bad news—whether in error messages, email comms, or
@@ -475,11 +473,14 @@
   series: Write the Docs Prague
   series_slug: prague
   year: 2021
+  youtubeId: 5e1h3cMEg8Q
+  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51632733166/in/album-72157720128594755/
+  sketchnoteImage: https://live.staticflickr.com/65535/51632733166_df5eefb346_b_d.jpg
   speakers:
   - name: Kat Stoica Ostenfeld
     slug: kat-stoica-ostenfeld
     twitter: '@Katstodian_'
-    website: 
+    website:
   abstract: '<p>Why is this talk relevant for documentarians? We work in highly international
     contexts. Most often with English as a shared corporate language. And we’re expected
     to function at a high level of both technical and social proficiency in English.

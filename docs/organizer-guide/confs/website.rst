@@ -41,7 +41,7 @@ the schemas in ``_data/schema-*``.
 Typical conference workflow
 ---------------------------
 
-* Create the intial conference website by copying the files from
+* Create the initial conference website by copying the files from
   ``conf/<shortcode>/<year>/`` from the previous conference
   (chronologically, not the previous conference in the same location).
   You may need to update some reference to specific locations/years,
@@ -265,20 +265,77 @@ a schedule for each main conference day, in the form of ``talks-day1``,
 and more if needed. The number of days must match ``date.total_talk_days``
 from the general config file.
 
-Within each day, each item must have a ``time``, which is free text, so it
-can be in 12 hour or 24 hour time, and either a ``title`` or a ``slug``.
+Each item must have either a ``title`` or a ``slug``.
 A title is used for free text schedule items, like "Snack Break". A slug is
 used for conference talks, where the slug must match the slug of a session
 in the ``_data/<shortcode>-<year>-sessions.yaml`` file. All sessions must
 be in the schedule.
 
+Timing
+~~~~~~
+
+The first item of every day must have a specific start time. The time of
+other items can be provided in several ways:
+
+* If an item has a specific time set, that is the time when the event is
+  listed in the schedule.
+* If an item does not have a specific time set, its start time is calculated
+  from the duration of all previous items, up to the last item that had
+  an explicit start time.
+
+You can mix these methods in the schedule. An item without a duration or time
+has a duration of zero. Note that all times in the config file must be written
+as strings, i.e. with quotes around them, and in 24 hour time format.
+The output format is determined by the ``time_format`` setting for the
+conference, which can be ``24h`` or ``12h``. The first entry of the day will
+include the conference timezone
+
+In the example below, the talk days use explicit times for every item, the
+writing day uses a mix. The writing day schedule would come out to:
+
+* 8:00: Doors open: explicit time set
+* 9:00: Helpdesk open: start of previous item (8:00) plus duration
+  of previous item (1 hour)
+* 9:00: Writing day introduction: start of previous item (9:00) plus duration
+  of previous item, which is zero
+* 9:15: Sponsor booths open: start of previous item (9:00) plus duration
+  of previous item (15 minutes)
+* 13:00: Lunch: explicit time set
+* 17:00: Wrap up: explicit time set
+* 17:15: End of Writing Day: start of previous item (17:00) plus duration
+  of previous item (15 minutes)
+
+In legacy conferences, only ``time`` was supported, always as a free form string.
+The schedule generator uses legacy mode when ``time_format`` is not set in the
+conference config.
+
+Quick view of schedule
+~~~~~~~~~~~~~~~~~~~~~~
+
+The ``show-conf-schedule.py`` script in ``_scripts`` takes a shortcode and year,
+and will show you the generated schedule. This can come in handy when adjusting
+the schedule, to see all generated start times without building the
+whole website.
+
+Example
+~~~~~~~
+
 A schedule file for a very brief conference could look like::
 
     writing_day:
       - time: '8:00'
+        duration: '1:00'
         title: Doors Open, Breakfast Served
-      - time: '5:00'
-        title: End of Writing Day
+      - title: 'Helpdesk open'
+      - duration: '0:15'
+        title: 'Writing day introduction'
+      - title: 'Sponsor booths open'
+      - time: '13:00'
+        title: Lunch
+      - time: '17:00'
+        duration: '0:15'
+        title: Wrap up
+      - title: End of Writing Day
 
     talks-day1:
       - time: '8:00'

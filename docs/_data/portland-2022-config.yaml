@@ -1,0 +1,261 @@
+name: Portland
+
+shortcode: portland # prague australia?
+year: 2022
+city: Portland
+local_area: Oregon
+area: North America # European Australian
+area_adj: North American
+tz: Pacific Time  # PT until March, PST after... :/
+email: portland@writethedocs.org
+color: green
+rgb: 61, 217, 74
+hex: 3dd94a
+time_format: 12h
+
+photos:
+  default: _static/conf/images/headers/group.png
+
+buttons:
+  top:
+    # - text: Welcome to our conference
+    #   link: /news/welcome
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
+    # - text: Date and ticket information
+    #   link: /news/announcing-virtual-conf-dates-tickets
+    # - text: Read our conference guide
+    #   link: /welcome-wagon
+    - text: See the Schedule!
+      link: /schedule
+    - text: Buy a Ticket!
+      link: /tickets
+    #- text: See the talks!
+    #   link: /speakers
+#    - text: See the Schedule!
+#      link: /schedule
+#    - text: Read our guide
+#      link: /welcome-wagon
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: Browse the photos
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    # - text: Watch the videos!
+    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+  bottom:
+    # - text: Welcome to our conference
+    #   link: /news/welcome
+    - text: Sponsor the conference
+      link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
+    # - text: See the Schedule!
+    #   link: /schedule
+    # - text: Date and ticket information
+    #   link: /news/announcing-virtual-conf-dates-tickets
+    # - text: See the talks!
+    #   link: /speakers
+    - text: Buy a Ticket!
+      link: /tickets
+#    - text: Read our guide
+#      link: /welcome-wagon
+#    - text: See the schedule!
+#      link: /schedule
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: Browse the photos
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    # - text: Watch the videos!
+    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+
+tickets:
+  corporate:
+    price: $200
+  independent:
+    price: $125
+  student:
+    price: $25
+
+sponsorship:
+  second_draft:
+    price: $2,500
+  publisher:
+    price: $4,500
+  patron:
+    price: $8,500
+  keystone:
+    price: $15,000
+
+grants:
+  url: https://docs.google.com/forms/d/e/1FAIpQLSdNUhlUJlG3O795vyDh3B43k9uLj8OMmb04ctG130lQ8A0tEA/viewform
+  ends: "March 31, 2022"
+  notification: "April 10, 2022"
+
+shirts:
+  url: https://teespring.com/wtd-pdx-2022
+  ends: "May 31, 2022"
+
+date: # how do we handle these? human readable would be nice.
+  main: "**May 22-24, 2022**"
+  short: May 22-24, 2022
+  tickets_live: "January 2022"
+  month: May
+
+  # Conference is special for the index to show the combined conference days
+  conference:
+    event: Main Conference
+    date: May 23-24
+    summary: The main days of the conference. We will be running one main track, as well as a <a href="/conf/portland/2022/job-fair/">Job Fair</a>, <a href="/conf/portland/2022/lightning-talks/">Lightning Talks</a> & <a href="/conf/portland/2022/unconference/">Unconference</a>.
+    icon: conference
+
+  # These are listed in the schedule
+  day_one:
+    event: Hike
+    date: On your own
+    summary: We encourage you to go on a hike in your own beautiful home town.
+    #summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    icon: hike
+    dotw: Saturday
+  day_two:
+    event: Writing Day
+    date: May 22
+    summary: Join us for the <a href="/conf/portland/2022/writing-day/">Writing Day</a> and work with fellow documentarians on a project.
+    icon: writing
+    dotw: Sunday
+    writing_day_time: 9am-5pm
+  day_three:
+    event: Conference Day 1
+    date: May 23
+    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
+    dotw: Monday
+    talk_time: 9am-5pm
+    unconference_time: 9:45am-5pm
+    social_time: 5pm-7pm
+    icon: conference
+  day_four:
+    event: Conference Day 2
+    date: May 24
+    summary: And the conference goes on! We are already starting to miss you. |:heart:|
+    dotw: Tuesday
+    talk_time: 9am-4pm
+    job_fair_time: 9:45am-12pm
+    unconference_time: 1:35pm-4pm
+    icon: conversation
+  total_talk_days: 2
+
+about:
+  attendees: 600
+  summary:
+    "The main presentation track takes place from **May 23-24 (Monday and Tuesday) from 9am to 6pm**.
+    During the main event we also run an :doc:`/conf/portland/2022/unconference`."
+
+  social_venue: Spatial chat platform
+  venue:
+    "Online conference platform"
+  photos:
+  mainroom:
+    "Video area"
+  unconfroom:
+    "Chat area"
+  projector_ratio: "16:9"
+  job_fair_room: "Sponsor area"
+
+cfp:
+  url: https://pretalx.com/wtd-portland-2022/cfp
+  ends: "February 25, 2022"          # 2.5 weeks to review and get confirmnations
+  notification: "March 15, 2022"     # 6 weeks to write and record
+  video_by: "May 1, 2022"            # 3 weeks before the conf
+  slides_by: "May 15, 2022"          # 1 week before
+  gifts_by: "July 1, 2022"           # 6? weeks after
+  preview: "https://writethedocs-www--1693.org.readthedocs.build/conf/portland/2022/schedule/"                    # https://writethedocs-www--1577.org.readthedocs.build/conf/portland/2022/schedule/
+
+
+unconf:
+  url: http://bit.ly/wtd-pdx-2022-ro
+
+lightning_talks:
+   signup_url: https://forms.gle/HSf9qvaRC8PVbEhu5
+
+hike:
+  date: Sunday, May 22, 1 PM
+
+sponsors:
+  keystone:
+  patron:
+    - name: google
+      link: https://www.google.com
+      brand: Google
+  publisher:
+    - name: cncf
+      link: https://www.cncf.io/
+      brand: Cloud Native Computing Foundation
+    - name: mongodb-new
+      link: https://www.mongodb.com/
+      brand: MongoDB
+    - name: twilio
+      link: https://www.twilio.com/
+      brand: Twilio
+    # - name: slack
+    #   link: https://slack.com/
+    #   brand: Slack
+  second:
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+      brand: KnowledgeOwl
+      width: 250px
+      text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl​ is looking for more contributors for our ​company blog​. This is an opportunity to write about a topic that interests you and get paid for it :)</p> <p>KnowledgeOwl also sponsors and hosts The Not-Boring Tech Writer podcast. We are always looking for new guests to share their stories, experience, and expertise with the world.</p> <p>Feel free to stop by and ask us more about KnowledgeOwl, these opportunities, or anything else!</p>"
+    - name: livelike
+      link: https://livelike.com/
+      brand: LiveLike
+    - name: openwebdocs
+      link: https://opencollective.com/open-web-docs
+      brand: Open Web Docs
+      width: 150px
+    - name: jetbrains
+      link: https://www.jetbrains.com/
+      brand: JetBrains
+    # - name: juniper
+    #   link: https://www.juniper.net/
+    #   brand: Juniper
+    #   text: "<p><b>Power connections. Empower change.</b>\n Juniper exists to solve the world’s most difficult problems in networking. We do this by remaining true to our values of being bold, building trust and delivering excellence. Visit us at the virtual job fair!</p>"
+    # - name: netlify
+    #   link: https://www.netlify.com/
+    #   brand: Netlify
+    # - name: starburst
+    #   link: https://www.starburst.io/
+    #   brand: Starburst
+    #   text: "<p>Starburst is on a mission to modernize data access &amp; analytics. Our company was founded in an unusual way; with customers and revenue from the beginning! Our growth is already ahead of some of the most successful software start-ups, and we don’t plan on slowing down.</p> <p>We believe our opportunity is huge. Every large company in the world suffers from a data silo problem. Traditional data warehouse products approach the problem with old solutions that breed inefficiency and ultimately can’t help business analysts run fast analytics on all their data.</p> <p>Starburst provides a modern solution that addresses these data silo &amp; speed of access problems. Starburst helps enterprises harness the value of open source Trino (formerly PrestoSQL), the fastest distributed query engine available today, by adding the tools and 24x7 support that meet the needs for big data access at scale. Ultimately, Starburst helps organizations run analytics anywhere to make better business decisions.</p>"
+  first:
+  in_kind:
+    - name: buildkite
+      link: https://buildkite.com/
+      brand: Buildkite
+    - name: rtd
+      link: https://readthedocs.com/
+      brand: Read the Docs
+
+# Things that change over time, listed in order of change
+flaglanding: False
+flaghassponsors: True
+flagcfp: False
+flagticketsonsale: True
+flagsoldout: False
+flagspeakersannounced: True
+flagrunofshow: True
+flaghasschedule: True
+flagscheduleincomplete: False
+flaghasunconf: True
+flaghasshirts: False
+flagvideos: False
+flaglivestreaming: False
+flagpostconf: False
+
+# Truthy things that don't change
+flaghashike: False
+flaghasfood: False
+flaghasboat: False
+flaghaswritingday: True
+flaghasjobfair: True
+flaghasbadgeflair: False

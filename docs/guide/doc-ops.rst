@@ -55,7 +55,7 @@ that a DocOps practitioner or team might have.
   (dare we say it?) fun
 
 This is by no means an exhaustive list. If you have responsibilities that 
-overlap with or incorporate some of these, then you may be a DocOps practioner.
+overlap with or incorporate some of these, then you may be a DocOps practitioner.
 
 It's also important to note that while DocOps tends to be associated with 
 docs-as-code, it's not a requirement. You might use DITA, a CMS, a wiki, etc.; 
