@@ -169,7 +169,7 @@ flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
 flagpostconf: False
-flagcancelled: True
+flagcancelled: False
 
 # Truthy things that don't change
 flaghashike: False
