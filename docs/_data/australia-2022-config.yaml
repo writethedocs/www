@@ -96,12 +96,12 @@ date: # how do we handle these? human readable would be nice.
   tickets_live: "July 2022"
   month: May
 
-# Conference is special for the index to show the combined conference days
-conference:
-  event: Main Conference
-  date: May 23-24
-  summary: The main days of the conference. We will be running one main track, as well as a <a href="/conf/portland/2022/job-fair/">Job Fair</a>, <a href="/conf/portland/2022/lightning-talks/">Lightning Talks</a> & <a href="/conf/portland/2022/unconference/">Unconference</a>.
-  icon: conference
+  # Conference is special for the index to show the combined conference days
+  conference:
+    event: Main Conference
+    date: Dec 8-9
+    summary: The main days of the conference. We will be running one main track, as well as a <a href="/conf/australia/2022/lightning-talks/">Lightning Talks</a> & <a href="/conf/australia/2022/unconference/">Unconference</a>.
+    icon: conference
 
   # These are listed in the schedule
   day_one:
@@ -175,6 +175,7 @@ flagcancelled: False
 
 # Truthy things that don't change
 flaghashike: False
+flaghasfood: False
 flaghasboat: False
 flaghaswritingday: False
 flaghasjobfair: False
