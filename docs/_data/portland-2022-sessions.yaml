@@ -314,51 +314,6 @@
     </ul>
 
     <p>If you need to create something from nothing, this talk is for you.</p>'
-- title: Inclusive Language
-  slug: inclusive-language-victor-bracht
-  series: Write the Docs Portland
-  series_slug: portland
-  year: 2022
-  speakers:
-  - name: Victor Bracht
-    slug: victor-bracht
-    twitter: https://twitter.com/thehexorcism
-    website: https://bandcamp.com/hexsymbol
-  abstract: '<p>What started as a small effort by Bandcamp’s Support team to replace
-    biased, unkind, and “cringe” tags in our support tools evolved into an ongoing
-    conversation about the importance of inclusive and kind communication in fostering
-    non-judgemental and accessible spaces. The goal of the Inclusive Language Project
-    is to eliminate biased and discriminatory language across all of Bandcamp’s surfaces,
-    benefiting artists, fans, and employees.</p>
-
-    <p>Bandcamp is a global company, with employees across 4 continents and many time
-    zones, working together for the benefit of artists around the world. Documentation–both
-    internal and external–is critical to our success. We started by identifying language
-    in our internal documentation that didn’t meet our updated standards. Working
-    with stakeholders across the company, we built consensus on replacements for biased,
-    non-inclusive words. Positive response to the project, and fostering of a safe
-    space for discourse, encouraged involvement from other teams and led to more inclusive
-    communication company-wide, from hiring and training to daily communication in
-    Slack. </p>
-
-    <p>As the project progressed, it was increasingly apparent that language inclusivity
-    is an accessibility concern. Inclusivity is about giving equal access and opportunities
-    to everyone, and naturally led us to think about how to build accessible systems
-    that enable and optimize that access. The inclusive language project is now an
-    on-going, cross functional effort to make Bandcamp more accessible. </p>
-
-    <p>In this session you''ll learn how to identify an entry point into more inclusive
-    documentation, how to demonstrate value by starting small, and how to build organizational
-    trust. We''ll also talk about how to continue the conversation and nurture ongoing
-    efforts beyond fixes to documentation, and review and answer questions like:</p>
-
-    <p>How can a company with an established brand or voice evolve towards a more
-    just presence?</p>
-
-    <p>How can a distributed team reduce and protect against culture bias?</p>
-
-    <p>How can an inclusive language policy foster a learning environment when discussing
-    sensitive or controversial topics?</p>'
 - title: 'Lessons Learned from Cloud Ops: Writing Docs for High-Stakes Situations'
   slug: lessons-learned-from-cloud-ops-writing-docs-for-high-stakes-situations-alastair-dallas
   series: Write the Docs Portland
