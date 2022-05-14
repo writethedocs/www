@@ -28,10 +28,10 @@ buttons:
     #   link: /schedule
     # - text: Buy a Ticket!
     #   link: /tickets
-    - text: Sponsor us
-      link: /sponsors/prospectus
-    #   - text: Submit a Talk
-    #     link: /cfp
+    #- text: Sponsor us
+    #  link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
     #- text: See the talks!
     #  link: /speakers
     #- text: See the Schedule!
@@ -67,6 +67,8 @@ buttons:
     #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
 
 tickets:
+  concierge:
+    price: €250
   corporate:
     price: €150
   independent:
@@ -143,7 +145,7 @@ about:
   job_fair_room: "Sponsor area"
 
 cfp:
-  url: https://pretalx.com/write-the-docs-prague-2022/cfp
+  url: https://pretalx.com/wtd-prague-2022/cfp
   ends: "June 30, 2022"           # 2 weeks to review and get confirmnations
   notification: "July 15, 2022"     #  5 weeks to write and record
   video_by: "August 20, 2022"   # 3 weeks before the conf
@@ -175,7 +177,7 @@ sponsors:
 
 
 # Things that change over time, listed in order of change
-flagcfp: False
+flagcfp: True
 flaglanding: True
 flaghassponsors: False
 flagticketsonsale: False
