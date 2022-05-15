@@ -90,6 +90,9 @@ Find events to participate in
 - You can view the schedule on the **Reception** page. You can also browse a list of events by selecting **Sessions**.
 - When you select an event in the schedule, like a Writing Day or Unconference session, you are directed to the **Sessions** page.
 - Once you are on the **Sessions** page, select the session you want to attend.
+- Add events you want attend to your calendar, and view your list of events (including any video meetings you scheduled) on the **My Agenda** tab.
+
+Note! If you select the **View Event Schedule** button while you are in a Session, you will automatically be removed from the Session and redirected to the schedule.
 
 Join an event
 ~~~~~~~~~~~~~
@@ -183,7 +186,7 @@ Networking
 Add info to your profile
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-To add information about yourself to your conference profile, select your initials > **Edit Profile**. Let people know what you are interested in chatting about by putting it in your Headline. You can add something like, "Tech Writer interested in conversations about content reuse" or "Support Ops Manager open to talking about analytics." Check out Headlines from other attendees and head into a Hallway session or set up a small group video to connect and discuss. Headlines have a 100 character limit.
+To add information about yourself to your conference profile, select your initials > **Edit Profile**. Let people know what you are interested in chatting about by putting it in your Headline or About You sections. You can add something like, "Tech Writer interested in conversations about content reuse" or "Support Ops Manager open to talking about analytics." Check out Headlines from other attendees and head into a Hallway session or set up a small group video to connect and discuss. Headlines have a 100 character limit. About You has a 400 character limit.
 
 Important: Any info you add to your profile can be seen by everyone attending the conference. All conversations should adhere to the `Write the Docs Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`__.
 
@@ -202,7 +205,7 @@ Direct message Chat
 Event and conference-wide Chat
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- When you chat on any of the main pages (Reception, Sessions, Networking, and Expo, you are chatting *the entire conference*.
+- When you chat on any of the main pages (Reception, Sessions, and Expo, you are chatting *the entire conference*.
 - When you attend a Session, view the main Stage, or visit an Expo booth, you’ll see a toggle for switching between conference-wide chat and event chat. When you select **Event**, you are chatting the entire conference. To chat just your session, toggle on the **Session** or **Booth** chat.
 
 Hallway sessions
