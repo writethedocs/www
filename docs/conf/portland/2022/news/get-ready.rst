@@ -42,7 +42,7 @@ We have had a couple of schedule changes that are notable from the previously an
 * We have had one speaker cancel their talk. We're sad they won't be able to share their knowledge with us, but we are able to replace it with a couple other interesting events
 * We have added a small session on how our meetup community is oragnized, and how you can get involved, in the previous speaking slot.
 
-The `schedule page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/>`_ on the website is always the most up-to-date place to check for schedule information.
+The `Schedule page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/>`_ on the website is always the most up-to-date place to check for schedule information.
 
 All our events and activities
 -----------------------------
