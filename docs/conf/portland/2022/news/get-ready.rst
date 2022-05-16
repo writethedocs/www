@@ -20,21 +20,21 @@ We have a few reminders before we welcome you all this Sunday:
 Ticket sales close on **May 18**
 --------------------------------
 
-To help us manage capacity and make sure that our conference environment is cozy and friendly, we are going to close ticket sales on **May 20 at 5PM Pacific Time**.
+To help us manage capacity and make sure that our conference environment is cozy and friendly, we are going to close ticket sales on **May 18 at 11:59PM Pacific Time**.
 If you haven't purchased your ticket yet we invite you to `get your tickets soon <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
 
-For those of you who already purchased your tickets, you will get an email with the Hopin registration link and instructions on May 17. We will also send a reminder on May 20, in case you missed the first email.
+For those of you who already purchased your tickets, you will get an email with our online conference platform (Hopin) registration link on May 17. We will also send a reminder on May 19, in case you missed the first email.
 This will give you the opportunity to set up your Hopin account and troubleshoot any access issues that you might have.
 
 If you have a ticket and don't get an email from us by May 20, please email us and we'll help you out!
 
-Welcome Wagon guide and platform walkthrough
---------------------------------------------
+Welcome Wagon guide and platform tour
+-------------------------------------
 
 Each year we create a guide to help our attendees get the most out of the conference.
 Following the success of last year's conferences and based on your feedback, we expanded `our Welcome Wagon guide <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/welcome-wagon/>`_ to help you get the most out of our event this year.
 
-Another valuable thing that we're doing this year is the Welcome Wagon team will hold a **live orientation session** for our virtual platform. **There will be 2 sessions on Sunday, and 1 on Monday morning.**  This will give you a chance to walk through the virtual event and ask all your questions ahead of the conference.
+Another valuable thing that we're doing this year is the Welcome Wagon team will hold a **live orientation session and platform tour** for our virtual platform, Hopin. **There will be 2 sessions on Sunday, and 1 on Monday morning.**  This will give you a chance to walk through the virtual event and ask all your questions ahead of the conference.
 
 Check out the `Schedule page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/>`_ for exact time and locations.
 
@@ -45,7 +45,7 @@ We have had a couple of schedule changes that are notable from the previously an
 
 * We have added a sponsored workshop from Google titled **Technical Writing for Accessibility**. This will happen on Tuesday afternoon after the main conference is over, but still on the conference platform.
 * We have had one speaker cancel their talk. We're sad they won't be able to share their knowledge with us, but we are able to replace it with a couple other interesting events
-* We have added a small session on how our meetup community is oragnized, and how you can get involved, in the previous speaking slot.
+* We have added a small session on how our meetup community is organized, and how you can get involved, in the previous speaking slot.
 
 The `Schedule page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/>`_ on the website is always the most up-to-date place to check for schedule information.
 
