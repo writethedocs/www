@@ -197,6 +197,9 @@ sponsors:
     - name: twilio
       link: https://www.twilio.com/
       brand: Twilio
+    - name: stackblitz
+      link: https://stackblitz.com/
+      brand: StackBlitz
     # - name: slack
     #   link: https://slack.com/
     #   brand: Slack
