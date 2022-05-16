@@ -10,7 +10,12 @@ Hey everyone!
 
 We're just a week away from the start of the conference, and we're getting excited to see you soon! We're excited to gather for 3 days of content, collaboration, and conversation.
 
-A few reminders are in order before we welcome you all this Sunday!
+A few reminders are in order before we welcome you all this Sunday that are covered below:
+
+* Ticket sales close in a few days, buy now!
+* We have a great Welcome Wagon which has a guide, as well as introductory tours of our online platform
+* We've had a couple schedule changes, including an exciting new sponsored workshop on writing for accessibility.
+* There are lots of ways to get involved at the conference on the day-of, which we list out below so you can prep a bit for them.
 
 Ticket sales closing on **May 20**
 ----------------------------------
