@@ -33,7 +33,7 @@ talks_day1:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:15'
-    title: 'Q&A for the two previous talks'
+    title: '✋ Q&A for the two previous talks'
   - duration: '0:15'
     title: 'Coffee break'
   - duration: '0:30'
@@ -43,7 +43,7 @@ talks_day1:
   - duration: '0:30'
     slug: measuring-documentation-success-in-open-source-findings-from-google-s-season-of-kassandra-dhillon
   - duration: '0:15'
-    title: 'Q&A for the two previous talks'
+    title: '✋ Q&A for the two previous talks'
   - duration: '1:00'
     title: 'Lunch Break'
   - duration: '0:30'
@@ -59,7 +59,7 @@ talks_day1:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:15'
-    title: 'Q&A for the two previous talks'
+    title: '✋ Q&A for the two previous talks'
   - duration: '0:00'
     title: Day 1 wraps up
   - time: '17:00'
@@ -82,23 +82,25 @@ talks_day2:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:15'
-    title: 'Q&A for the two previous talks'
+    title: '✋ Q&A for the two previous talks'
   - duration: '0:15'
     title: 'Coffee break'
   - duration: '0:30'
     slug: don-t-trust-the-numbers-kumar-dhanagopal
   - duration: '0:05'
     title: '5 minute break'
-  - duration: '0:30'
-    slug: inclusive-language-victor-bracht
   - duration: '0:15'
-    title: 'Q&A for the two previous talks'
+    title: "<b>Meetup information session - Get involved locally!</b>"
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:15'
+    title: '✋ Q&A for the previous talk'
   - duration: '0:00'
     title: "<b>Job Fair Ends</b>"
   - duration: '1:00'
     title: 'Lunch Break'
-  - duration: '0:30'
-    title: Lightning Talks (30 mins)
+  - duration: '0:40'
+    title: Lightning Talks (40 mins)
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:00'
@@ -112,7 +114,11 @@ talks_day2:
   - duration: '0:15'
     title: 'Closing address'
   - duration: '0:15'
-    title: 'Q&A for the two previous talks'
+    title: '✋ Q&A for the two previous talks'
+  - duration: '0:15'
+    title: '<b>Main stage talks done</b>'
+  - duration: '1:30'
+    slug: technical-writing-for-accessibility
   - duration: '0:00'
-    title: 'Conference ends 😔'
+    title: '<b>Conference ends 😔</b>'
 
