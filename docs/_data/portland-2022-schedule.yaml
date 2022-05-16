@@ -115,7 +115,7 @@ talks_day2:
     title: 'Closing address'
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
-  - duration: '0:15'
+  - duration: '0:20'
     title: '<b>Main stage talks done</b>'
   - duration: '1:30'
     slug: technical-writing-for-accessibility
