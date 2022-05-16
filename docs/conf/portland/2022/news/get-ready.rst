@@ -44,7 +44,7 @@ Schedule changes
 We have had a couple of schedule changes that are notable from the previously announced schedule.
 
 * We have added a sponsored workshop from Google titled **Technical Writing for Accessibility**. This will happen on Tuesday afternoon after the main conference is over, but still on the conference platform.
-* We have had one speaker cancel their talk. We're sad they won't be able to share their knowledge with us, but we are able to replace it with a couple other interesting events
+* We have had one speaker cancel their talk. We're sad they won't be able to share their knowledge with us.
 * We have added a small session on how our meetup community is organized, and how you can get involved, in the previous speaking slot.
 
 The `Schedule page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/>`_ on the website is always the most up-to-date place to check for schedule information.
