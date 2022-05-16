@@ -10,15 +10,15 @@ Hey everyone!
 
 We're just a week away from the start of the conference, and we're getting excited to see you soon! We're excited to gather for 3 days of content, collaboration, and conversation.
 
-A few reminders are in order before we welcome you all this Sunday that are covered below:
+We have a few reminders before we welcome you all this Sunday:
 
 * Ticket sales close in a few days, buy now!
-* We have a great Welcome Wagon which has a guide, as well as introductory tours of our online platform
+* We have a great Welcome Wagon, which has a guide, as well as introductory tours of our online platform
 * We've had a couple schedule changes, including an exciting new sponsored workshop on writing for accessibility.
 * There are lots of ways to get involved at the conference on the day-of, which we list out below so you can prep a bit for them.
 
-Ticket sales closing on **May 20**
-----------------------------------
+Ticket sales close on **May 18**
+--------------------------------
 
 To help us manage capacity and make sure that our conference environment is cozy and friendly, we are going to close ticket sales on **May 20 at 5PM Pacific Time**.
 If you haven't purchased your ticket yet we invite you to `get your tickets soon <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
@@ -34,7 +34,7 @@ Welcome Wagon guide and platform walkthrough
 Each year we create a guide to help our attendees get the most out of the conference.
 Following the success of last year's conferences and based on your feedback, we expanded `our Welcome Wagon guide <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/welcome-wagon/>`_ to help you get the most out of our event this year.
 
-Another valuable thing that we're doing this year is the Welcome Wagon team will hold a **live orientation session** for our virtual platform. **There will be 2 session on Sunday, and 1 on Monday morning.**  This will give you a chance to walk through the virtual event and ask all your questions ahead of the conference.
+Another valuable thing that we're doing this year is the Welcome Wagon team will hold a **live orientation session** for our virtual platform. **There will be 2 sessions on Sunday, and 1 on Monday morning.**  This will give you a chance to walk through the virtual event and ask all your questions ahead of the conference.
 
 Check out the `Schedule page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/>`_ for exact time and locations.
 
@@ -56,9 +56,9 @@ There are a large number of events at the conference beyond the main track of sp
 We hope that you'll get involved with some of our other events,
 and get to know more folks that are hanging out at the conference!
 
-* **Lightning Talks.** We'll have `lightning talks <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/>`__ each day after lunch. Registration is handled on the day of the conference. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.
+* **Lightning Talks.** We'll have `lightning talks <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/>`__ each day after lunch. Registration is handled on the day of the conference. These are 5-minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.
 * **Unconference.** We'll be running the `Unconference <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/unconference/>`_ all day Monday and on Tuesday afternoon. These are also planned day-of, and allow attendees to schedule a session to talk about any topic they wish. It's a great way to find others who share your specific interests.
-* **Job Fair**. On Tuesday morning we'll have a `job fair <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/job-fair>`_ where you can find your next documentarian friendly job. Many of our sponsors will have a table, where you can learn more about working with them.
+* **Job Fair**. On Tuesday morning we'll have a `job fair <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/job-fair>`_ where you can find your next documentarian-friendly job. Many of our sponsors will have a table, where you can learn more about working with them.
 * **Social event**. On Monday night we'll be moving to a spatial chat platform for our social event. This will be a more familiar social space where you can move around and join groups of people having conversations. We've used similar platforms at other events, and found that they really help people get to know each other in a more natural way.
 * **Conference Help Desk**. If you have any questions about navigating the virtual event, we'll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.
 
