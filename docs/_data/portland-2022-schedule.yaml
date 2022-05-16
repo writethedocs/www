@@ -89,7 +89,7 @@ talks_day2:
     slug: don-t-trust-the-numbers-kumar-dhanagopal
   - duration: '0:05'
     title: '5 minute break'
-  - duration: '0:15'
+  - duration: '0:25'
     title: "<b>Meetup information session - Get involved locally!</b>"
   - duration: '0:05'
     title: '5 minute break'
@@ -99,8 +99,8 @@ talks_day2:
     title: "<b>Job Fair Ends</b>"
   - duration: '1:00'
     title: 'Lunch Break'
-  - duration: '0:40'
-    title: Lightning Talks (40 mins)
+  - duration: '0:30'
+    title: Lightning Talks (30 mins)
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:00'
