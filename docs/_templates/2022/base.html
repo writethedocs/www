@@ -4,20 +4,9 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        {% if page_description %}
-        <meta name="description" content="{{ page_description }}">
-        {% endif %}
-
         <meta name="author" content="Write the Docs">
         <meta name="ROBOTS" content="ALL">
-
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-        <!-- Open Graph protocol -->
-        <meta property="og:type" content="conference">
-        <meta property="og:url" content="http://www.writethedocs.org">
-        <meta property="og:image" content="https://www.writethedocs.org/_static/img/stickers/sticker-wtd-colors.png">
-        <!-- /Open Graph protocol -->
 
         <link rel="apple-touch-icon" sizes="57x57" href="{{ pathto('_static/favicon/apple-icon-57x57.png', 1) }}">
         <link rel="apple-touch-icon" sizes="60x60" href="{{ pathto('_static/favicon/apple-icon-60x60.png', 1) }}">
@@ -32,6 +21,7 @@
         <link rel="icon" type="image/png" sizes="32x32" href="{{ pathto('_static/favicon/favicon-32x32.png', 1) }}">
         <link rel="icon" type="image/png" sizes="96x96" href="{{ pathto('_static/favicon/favicon-96x96.png', 1) }}">
         <link rel="icon" type="image/png" sizes="16x16" href="{{ pathto('_static/favicon/favicon-16x16.png', 1) }}">
+
         <link rel="manifest" href="{{ pathto('_static/favicon/manifest.json', 1) }}">
         <meta name="msapplication-TileColor" content="#ffffff">
         <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
@@ -48,6 +38,9 @@
         <meta property="og:site_name" content="Write the Docs {% if cobrand is defined and cobrand %} + {{ cobrand.brand }} {% endif %} {{ name }} {{ year }}">
         <meta name="dc.language" content="en">
         <meta name="geo.placename" content="{{ city }}, {{ area }}">
+        <!-- Open Graph protocol -->
+        {{ metatags  }}
+        <!-- /Open Graph protocol -->
         {% endblock %}
 
         <title>
