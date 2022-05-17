@@ -83,36 +83,20 @@ The Write the Docs website is hosted on [Read the Docs](https://readthedocs.org/
 
 You can preview changes you've made on a pull request by clicking "Show all checks" at the bottom of the pull request page, and then clicking "Details" on the Netflify line, and navigating to the page you're making changes to.
 
-### Updating the theme or CSS
+### Updating the CSS
 
-If you need to update the theme, the original source is in
-
-https://github.com/writethedocs/website-theme/
-
-and instructions on how to update it are in the [`README.md`](https://github.com/writethedocs/website-theme/pull/3).
-
-### Updating CSS for the 2018 Theme
-
-The website for 2018 uses SASS to compile all the assets it has. To modify the theme, you must first install the dependencies of
-`gulp`. In the main directory, run:
-
-`npm install`
-
-With that you will install all the requirements to minify your CSS;
-after that you only need to run:
+Styling is maintained in `docs/_static/conf/css/` as SASS. Convert SASS to minified CSS by installing SASS
 
 ```
-# Generate everything and serve site
-gulp
-
-# Only generate assets
-gulp styles
+npm install -g sass
 ```
 
-This has to be used alongside the sphinx server and it will
-automatically minify all the content in your `.scss` files to the
-`main.min.css` file. Also, `gulp` will be running browserify, allowing you
-to see the CSS changes immediately in the browser.
+ and then running (using a 2022 example):
+
+```
+sass --style=compressed --no-source-map docs/_static/conf/scss/main-2022.scss docs/_static/conf/css/main-2022.min.css
+```
+
 
 ### Deactivating venv
 
