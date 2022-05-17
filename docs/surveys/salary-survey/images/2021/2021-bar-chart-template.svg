@@ -1,0 +1,22 @@
+<svg viewBox="0 0 660 660" xmlns="http://www.w3.org/2000/svg"><!-- add proportional height of chart to viewBox -->
+	<defs>
+		<style type="text/css"><!-- add any chart-specific css to this block -->
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+		<!-- insert defs from chart here (gradients etc) -->
+	</defs>
+	<svg id="wrapper"><!-- wrapper for positioning context -->
+		<rect x="0" y="0" width="100%" height="100%" fill="none" stroke="blue" stroke-width="1"></rect><!-- visual aid -->
+		<svg width="10%">
+			<rect width="100%" height="100%" fill="pink" stroke="blue" stroke-width="0"></rect><!-- visual aid -->
+		</svg>
+		<svg width="90%" x="10%">
+			<rect width="100%" height="90%" fill="lightblue" stroke="blue" stroke-width="0"></rect><!-- visual aid -->
+			<svg width="100%" height="10%" y="90%">
+				<rect width="100%" height="100%" fill="lightgreen" stroke="blue" stroke-width="0"></rect><!-- visual aid -->
+			</svg>
+		</svg>
+	</svg>
+</svg>

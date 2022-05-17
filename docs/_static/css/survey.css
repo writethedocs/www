@@ -106,8 +106,95 @@
   {text-align:center}
 
   /* 2021 specific styles */
+  #write-the-docs-salary-survey-2021-results figure{margin:0;padding:0}
   #write-the-docs-salary-survey-2021-results img.hide{display:none !important}
-  #write-the-docs-salary-survey-2021-results figcaption{text-align:center;font-size:110%;margin-top:0.5em;padding-bottom:0.5em;border-bottom:1px solid #F0F0F0}
-  #write-the-docs-salary-survey-2021-results object{width:100%}
+  #write-the-docs-salary-survey-2021-results figcaption{text-align:center;margin-top:1em;padding-bottom:1em;border-bottom:1px solid #F0F0F0}
+  #write-the-docs-salary-survey-2021-results object{width:100%;padding:40px 0 20px 0} 
+  #write-the-docs-salary-survey-2021-results .question ul li{list-style-type:disc}
+  #write-the-docs-salary-survey-2021-results .question ul{margin-top:0.5em}
+  #write-the-docs-salary-survey-2021-results .contents{padding-bottom:20px}
+  #write-the-docs-salary-survey-2021-results h5{font-size:20px}
+  #write-the-docs-salary-survey-2021-results table{margin-top:40px;margin-bottom:40px}
+  #write-the-docs-salary-survey-2021-results table + table{margin-top:60px}
 
+  /* nowrap */
+  #write-the-docs-salary-survey-2021-results #tbl-currencies thead tr th:nth-child(5),
+  #write-the-docs-salary-survey-2021-results #tbl-currencies tbody tr td:first-child,
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyregion-employees th, 
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyregion-employees td,
+  #write-the-docs-salary-survey-2021-results #tbl-median-region-contractors thead tr th:nth-child(3)
+  {white-space:nowrap}
+
+  /* center */
+  #write-the-docs-salary-survey-2021-results #tbl-currencies thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-currencies thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #tbl-currencies thead tr th:nth-child(4),
+  #write-the-docs-salary-survey-2021-results #tbl-currencies tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-currencies tbody tr td:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #tbl-currencies tbody tr td:nth-child(4),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyregion-employees thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyregion-employees tbody tr td:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #tbl-median-region-contractors thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-median-region-contractors tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyexperience-employees thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyexperience-employees tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyexperience-employees-northamerica thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyexperience-employees-northamerica tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyorgsize-employees thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyorgsize-employees tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyorgsize-employees-northamerica thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyorgsize-employees-northamerica tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #median-salary-by-gender-identity-employees thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #median-salary-by-gender-identity-employees tbody tr td:nth-child(2)
+  {text-align:center}
+
+  /* right align */
+  #write-the-docs-salary-survey-2021-results #tbl-currencies thead tr th:nth-child(5),
+  #write-the-docs-salary-survey-2021-results #tbl-currencies tbody tr td:nth-child(5),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyregion-employees thead tr th:nth-child(4),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyregion-employees tbody tr td:nth-child(4),
+  #write-the-docs-salary-survey-2021-results #tbl-salary-reasons-employees thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-salary-reasons-employees tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-job-reasons-employees thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-job-reasons-employees tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-satisfaction-employees thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-satisfaction-employees tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-median-region-contractors thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #tbl-median-region-contractors tbody tr td:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #tbl-rate-reasons-contractors thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-rate-reasons-contractors tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-satisfaction-contractors thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-satisfaction-contractors tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-org-industry thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-org-industry tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-org-location thead tr th:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-org-location tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyexperience-employees thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyexperience-employees tbody tr td:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyexperience-employees-northamerica thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyexperience-employees-northamerica tbody tr td:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyorgsize-employees thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyorgsize-employees tbody tr td:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyorgsize-employees-northamerica thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #tbl-medianbyorgsize-employees-northamerica tbody tr td:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #median-salary-by-gender-identity-employees thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #median-salary-by-gender-identity-employees tbody tr td:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #median-salary-by-gender-identity-employees thead tr th:nth-child(4),
+  #write-the-docs-salary-survey-2021-results #median-salary-by-gender-identity-employees tbody tr td:nth-child(4)
+  {text-align:right}
+
+  /* multi-column lists */
+  #write-the-docs-salary-survey-2021-results #median-salary-by-respondent-region-employees ul.simple li{float:left;width:25%}
+  #write-the-docs-salary-survey-2021-results #median-salary-by-respondent-region-employees ul.simple{overflow:auto;padding-left:20px}
+
+}
+
+/* 2021 mobile specific styles */
+@media screen and (max-width: 870px) {
+  #write-the-docs-salary-survey-2021-results ul{margin-left:30px !important}
+  #write-the-docs-salary-survey-2021-results .question.docutils.container blockquote{margin:0}
+  #write-the-docs-salary-survey-2021-results .tablescroller{overflow-x:scroll}
+  #write-the-docs-salary-survey-2021-results caption{text-align:left}
+  #write-the-docs-salary-survey-2021-results #median-salary-by-respondent-region-employees ul.simple li{float:left;width:50%}
+  #write-the-docs-salary-survey-2021-results table{width:100% !important}
 }
