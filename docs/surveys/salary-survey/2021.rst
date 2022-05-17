@@ -522,7 +522,7 @@ Both employees and independent contractors were asked to specify the currency th
 
 .. table:: Currencies and exchange rates (to 1 USD)
    :width: 100%
-   :name: tbl-currencies
+   :name: tbl-2021-currencies
 
    +------------------------+------+-----------+-------------+---------------+
    | Currency               | Code | Employees | Contractors | Exchange Rate |
