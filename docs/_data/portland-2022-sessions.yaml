@@ -461,3 +461,17 @@
 
     <p>We''ll finish with ideas on how you can make this kind of collaboration part
     of your culture, part of your reward structure, and part of your team design.</p>'
+- title: 'Sponsored workshop: Technical Writing for Accessibility'
+  slug: technical-writing-for-accessibility
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2022
+  speakers:
+  - name: Nicola Yap
+    slug: nicola-yap
+  - name: Tina Ornduff
+    slug: tina-ornduff
+  abstract: 'Learn how to make your documents more accessible for everyone. In this class, you''ll practice skills you can apply to documentation, design docs, code comments, or other kinds of writing. This class builds on the Google&nbsp;<a href="https://developers.google.com/tech-writing/one/" target="_blank">Technical Writing One</a>&nbsp;and&nbsp;<a href="https://developers.google.com/tech-writing/two/" target="_blank">Technical Writing Two</a>&nbsp;classes. Familiarity with principles in those classes is recommended.</div>
+
+  <br>In this 90-minute instructor-led workshop, you will:<br><ul><li>Discuss inclusive design concepts</li><li>Practice writing helpful alt text</li><li>Learn how to check color contrast</li><li>Explore strategies to make diagrams more accessible</li><li>Find accessibility errors in a document</li></ul>
+  '

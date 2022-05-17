@@ -1,1 +1,1 @@
-Christy Lutz manages the tech content and training team at Green Bits, crochets to relax, loves to dance, and adores making connections through the Write the Docs Welcome Wagon.
+Christy Lutz founded the Welcome Wagon program and adores making connections through it. She also crochets to relax, loves to dance, and is a Program Manager with a passion for docs at Dutchie.
