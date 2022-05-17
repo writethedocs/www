@@ -175,7 +175,7 @@ The next most widely-used titles were a long way behind the frontrunners: “Lea
 
    <figure>
       <object role="img" aria-label="Job title word cloud (2021)" aria-describedby="figure-job-title_desc" type="image/svg+xml" data="/_images/2021-placeholder-chart.svg">
-         <p id="figure-job-title_desc">Word cloud showing terms used in job titles, sized proportionately to the number of occurences of each.</p>
+         <p id="figure-job-title_desc">Word cloud showing terms used in job titles, sized proportionately to the number of occurrences of each.</p>
       </object> 
       <figcaption>Figure: Job title word cloud (2021)</figcaption>
    </figure>
@@ -573,7 +573,7 @@ Both employees and independent contractors were asked to specify the currency th
    +------------------------+------+-----------+-------------+---------------+
    | Argentinian Peso       | ARS  |     1     |      --     |      0.010557 |
    +------------------------+------+-----------+-------------+---------------+
-   | Brazillian Real        | BRL  |     1     |      --     |      0.185533 |
+   | Brazilian Real         | BRL  |     1     |      --     |      0.185533 |
    +------------------------+------+-----------+-------------+---------------+
    | Danish Krone           | DKK  |     1     |      --     |      0.159071 |
    +------------------------+------+-----------+-------------+---------------+
