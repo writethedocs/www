@@ -94,7 +94,7 @@ npm install -g sass
  and then running (using a 2022 example):
 
 ```
-sass --style=compressed --no-source-map docs/_static/conf/scss/main-2022.scss docs/_static/conf/css/main-2022.min.css
+sass --style=compressed docs/_static/conf/scss/main-2022.scss docs/_static/conf/css/main-2022.min.css
 ```
 
 
