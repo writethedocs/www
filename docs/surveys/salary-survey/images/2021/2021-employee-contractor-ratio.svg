@@ -106,13 +106,13 @@
     </svg>
     <svg id="legend" x="10" y="620" width="640" height="30" style="overflow:visible" viewBox="0 0 640 30">
       <g class="legend">
-        <svg x="35%" y="0" width="30%" height="100%" viewbox="0 0 100% 100%">
+        <svg x="32%" y="0" width="30%" height="100%" viewbox="0 0 100% 100%">
           <ellipse cx="15" cy="15" rx="8" ry="8" class="series_a" />
-          <text><tspan x="30" y="20">Employees</tspan></text>
+          <text><tspan x="30" y="21">Employees</tspan></text>
         </svg>
         <svg x="55%" y="0" width="30%" height="100%" viewbox="0 0 100% 100%">
           <ellipse cx="15" cy="15" rx="8" ry="8" class="series_b" />
-          <text><tspan x="30" y="20">Contractors</tspan></text>
+          <text><tspan x="30" y="21">Contractors</tspan></text>
         </svg>
       </g>
     </svg>

@@ -3,29 +3,35 @@ text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important;fo
 .legend .labels text{fill:#666}
 
 .x-axis .axis-label text{fill:#666}
-.x-axis .axis-values text{fill:#666}
+.x-axis .axis-values text{fill:#666;font-size:16px}
+
 .y-axis .axis-label text{fill:#A39F9F}
-.y-axis .axis-values text{fill:#A39F9F}
+.y-axis .axis-values text{fill:#A39F9F;font-size:16px}
+
 .axis-lines path{stroke:#F0F0F0}
 
 .donut-chart .value-labels text{fill:#666}
 
-@media screen and (max-width: 680px) {
-	text{font-size:18px}
-}
-
 @media screen and (max-width: 600px) {
 	text{font-size:19px}
+	.x-axis .axis-values text{font-size:17px}
+	.y-axis .axis-values text{font-size:17px}
 }
 
 @media screen and (max-width: 580px) {
 	text{font-size:20px}
+	.x-axis .axis-values text{font-size:18px}
+	.y-axis .axis-values text{font-size:18px}
 }
 
 @media screen and (max-width: 500px) {
 	text{font-size:22px}
+	.x-axis .axis-values text{font-size:20px}
+	.y-axis .axis-values text{font-size:20px}
 }
 
 @media screen and (max-width: 450px) {
 	text{font-size:24px}
+	.x-axis .axis-values text{font-size:22px}
+	.y-axis .axis-values text{font-size:22px}
 }

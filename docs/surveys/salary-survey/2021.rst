@@ -120,13 +120,13 @@ One respondent entered more than 60 hours - that person reported working 70 hour
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Hours worked - employees and contractors (2021)" aria-describedby="figure-hours-employees_desc" type="image/svg+xml" data="/_images/2021-placeholder-chart.svg">
-         <p id="figure-hours-employees_desc">Bar chart showing weekly hours worked by employee respondents only</p>
+      <object role="img" aria-label="Hours worked - employees (2021)" aria-describedby="figure-hours-employees_desc" type="image/svg+xml" data="/_images/2021-hours-worked-employees.svg">
+         <p id="figure-hours-employees_desc">Bar chart showing weekly hours worked by employee respondents</p>
       </object> 
-      <figcaption>Figure: Hours worked - employees only (2021)</figcaption>
+      <figcaption>Figure: Hours worked - employees (2021)</figcaption>
    </figure>
 
-.. figure:: images/2021/2021-placeholder-chart.svg
+.. figure:: images/2021/2021-hours-worked-employees.svg 
    :class: hide
 
 Of the 4% of respondents who worked fewer than 31 hours per week, around half worked up to 20 and the other half worked between 21 and 30 hours. Notably, 56% of those working 30 hours or less were classified as independent contractors (29% of all contractors).    
@@ -174,13 +174,13 @@ The next most widely-used titles were a long way behind the frontrunners: “Lea
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Job title word cloud (2021)" aria-describedby="figure-job-title_desc" type="image/svg+xml" data="/_images/2021-placeholder-chart.svg">
+      <object role="img" aria-label="Job title word cloud (2021)" aria-describedby="figure-job-title_desc" type="image/svg+xml" data="/_images/2021-jobtitles-wordcloud.svg">
          <p id="figure-job-title_desc">Word cloud showing terms used in job titles, sized proportionately to the number of occurrences of each.</p>
       </object> 
       <figcaption>Figure: Job title word cloud (2021)</figcaption>
    </figure>
 
-.. figure:: images/2021/2021-placeholder-chart.svg
+.. figure:: images/2021/2021-jobtitles-wordcloud.svg
    :class: hide
 
 1.4 Type of role
@@ -1515,7 +1515,7 @@ As with the employee respondents, contractors on average chose many positive asp
 
 Only 1 contractor chose not to select any positive aspects. 
 
-Section 1: Organization demographics
+Section 4: Organization demographics
 ====================================
 
 This section of the survey contained questions relating to the organization that the respondent worked for: the organization size, industry and main geographical location. 

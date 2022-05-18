@@ -1,53 +1,68 @@
-<svg width="660" height="423" viewBox="0 0 660 423" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 660 229" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style type="text/css">
       <![CDATA[
         @import url(/_static/css/survey-2021-svg.css);
       ]]>
     </style>
-		<linearGradient id="paint0_linear_25_1230" x1="139.163" y1="293.874" x2="139.163" y2="355.812" gradientUnits="userSpaceOnUse">
-		<stop stop-opacity="0"/>
-		<stop offset="1"/>
+		<linearGradient id="paint0_linear_68_304" x1="126.328" y1="127.875" x2="126.328" y2="165" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
 		</linearGradient>
-		<linearGradient id="paint1_linear_25_1230" x1="282.148" y1="317.595" x2="282.148" y2="355.812" gradientUnits="userSpaceOnUse">
-		<stop stop-opacity="0"/>
-		<stop offset="1"/>
+		<linearGradient id="paint1_linear_68_304" x1="244.922" y1="142.312" x2="244.922" y2="165" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
 		</linearGradient>
-		<linearGradient id="paint2_linear_25_1230" x1="425.129" y1="141.007" x2="425.129" y2="355.812" gradientUnits="userSpaceOnUse">
-		<stop stop-opacity="0"/>
-		<stop offset="1"/>
+		<linearGradient id="paint2_linear_68_304" x1="363.516" y1="35.0625" x2="363.516" y2="165" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
 		</linearGradient>
-		<linearGradient id="paint3_linear_25_1230" x1="568.113" y1="326.82" x2="568.113" y2="355.812" gradientUnits="userSpaceOnUse">
-		<stop stop-opacity="0"/>
-		<stop offset="1"/>
+		<linearGradient id="paint3_linear_68_304" x1="482.109" y1="147.469" x2="482.109" y2="165" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
 		</linearGradient>
 	</defs>
-	<title>Weekly hours worked, contractors only (2021)</title>
-  <desc>Bar chart showing weekly hours worked by contractor respondents.</desc>
-	<svg width="100%" height="100%" viewBox="0 0 660 423" fill="none" xmlns="http://www.w3.org/2000/svg">
-		<path d="M68.0009 355.153H635.982" stroke="#F0F0F0"/>
-		<path d="M68.0009 269.495H635.982" stroke="#F0F0F0"/>
-		<path d="M68.0009 183.836H635.982" stroke="#F0F0F0"/>
-		<path d="M68.0009 96.86H635.982" stroke="#F0F0F0"/>
-		<path d="M68.0009 11.2015H635.982" stroke="#F0F0F0"/>
-		<text transform="translate(221.718 403.563)" fill="#666666" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="2.07274" y="14.8005">Hours worked (weekly)</tspan></text>
-		<text fill="#666666" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="13" letter-spacing="0.04em"><tspan x="126.719" y="377.072">1-20</tspan></text>
-		<text fill="#666666" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="13" letter-spacing="0.04em"><tspan x="265.724" y="377.072">21-30</tspan></text>
-		<text fill="#666666" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="13" letter-spacing="0.04em"><tspan x="408.511" y="377.072">31-40</tspan></text>
-		<text fill="#666666" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="13" letter-spacing="0.04em"><tspan x="551.515" y="377.072">41-50</tspan></text>
-		<text fill="#666666" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="13" letter-spacing="0.04em"><tspan x="47.2434" y="355.987">0</tspan></text>
-		<text fill="#666666" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="13" letter-spacing="0.04em"><tspan x="40.2108" y="270.329">25</tspan></text>
-		<text fill="#666666" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="13" letter-spacing="0.04em"><tspan x="39.8553" y="184.67">50</tspan></text>
-		<text fill="#666666" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="13" letter-spacing="0.04em"><tspan x="40.4139" y="97.6939">75</tspan></text>
-		<text fill="#666666" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="13" letter-spacing="0.04em"><tspan x="33.1147" y="12.0354">100</tspan></text>
-		<text transform="translate(0.0175781 315.476) rotate(-90)" fill="#666666" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="2.60953" y="14.582">Contractor respondents (%)</tspan></text>
-		<path d="M187.923 293.874H90.4037V355.812H187.923V293.874Z" fill="#1E73BE"/>
-		<path d="M187.923 293.874H90.4037V355.812H187.923V293.874Z" fill="url(#paint0_linear_25_1230)" fill-opacity="0.1"/>
-		<path d="M330.248 317.595H234.047V355.812H330.248V317.595Z" fill="#1E73BE"/>
-		<path d="M330.248 317.595H234.047V355.812H330.248V317.595Z" fill="url(#paint1_linear_25_1230)" fill-opacity="0.1"/>
-		<path d="M473.889 141.007H376.37V355.812H473.889V141.007Z" fill="#1E73BE"/>
-		<path d="M473.889 141.007H376.37V355.812H473.889V141.007Z" fill="url(#paint2_linear_25_1230)" fill-opacity="0.1"/>
-		<path d="M616.214 326.82H520.013V355.812H616.214V326.82Z" fill="#1E73BE"/>
-		<path d="M616.214 326.82H520.013V355.812H616.214V326.82Z" fill="url(#paint3_linear_25_1230)" fill-opacity="0.1"/>
-	</svg>
+	<title>Weekly hours worked, contractors (2021)</title>
+  <desc>Bar chart showing weekly hours worked by contractor respondents</desc>
+	<g class="bar-chart">
+		<g class="x-axis">
+			<g class="axis-lines">
+				<path d="M67.0315 164.484H660"/>
+				<path d="M67.0315 112.922H660"/>
+				<path d="M67.0315 60.3281H660"/>
+				<path d="M67.0315 7.73437H660"/>
+			</g>
+			<g class="axis-label">
+				<text transform="translate(66.0002 204.187)"><tspan x="214.57" y="17.957">Hours worked (weekly)</tspan></text>
+			</g>
+			<g class="axis-values">
+				<text><tspan x="113" y="184">1-20</tspan></text>
+				<text><tspan x="228" y="184">21-30</tspan></text>
+				<text><tspan x="346" y="184">31-40</tspan></text>
+				<text><tspan x="465" y="184">41-50</tspan></text>
+				<text><tspan x="579" y="184">51-60+</tspan></text>
+			</g>
+		</g>
+		<g class="y-axis">
+			<g class="axis-label">
+				<text transform="translate(0 169.125) rotate(-90)"><tspan x="24.7734" y="14.582">Contractors (%)</tspan></text>
+			</g>
+			<g class="axis-values">
+				<text><tspan x="49.1399" y="167.754">0</tspan></text>
+				<text><tspan x="42.1073" y="116.192">25</tspan></text>
+				<text><tspan x="41.7518" y="63.5979">50</tspan></text>
+				<text><tspan x="42.3104" y="12.0354">75</tspan></text>
+			</g>
+		</g>
+		<g class="data">
+			<path d="M176.344 127.875H76.3128V165H176.344V127.875Z" fill="#1E73BE"/>
+			<path d="M176.344 127.875H76.3128V165H176.344V127.875Z" fill="url(#paint0_linear_68_304)" fill-opacity="0.1"/>
+			<path d="M294.938 142.312H194.906V165H294.938V142.312Z" fill="#1E73BE"/>
+			<path d="M294.938 142.312H194.906V165H294.938V142.312Z" fill="url(#paint1_linear_68_304)" fill-opacity="0.1"/>
+			<path d="M413.531 35.0625H313.5V165H413.531V35.0625Z" fill="#1E73BE"/>
+			<path d="M413.531 35.0625H313.5V165H413.531V35.0625Z" fill="url(#paint2_linear_68_304)" fill-opacity="0.1"/>
+			<path d="M532.125 147.469H432.094V165H532.125V147.469Z" fill="#1E73BE"/>
+			<path d="M532.125 147.469H432.094V165H532.125V147.469Z" fill="url(#paint3_linear_68_304)" fill-opacity="0.1"/>
+		</g>	
+	</g>
 </svg>
