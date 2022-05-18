@@ -114,8 +114,11 @@ Writing Day
 
 You can bring a writing project you want to work on, or you can contribute to a project someone else brought.
 
-- **Bring a project**: If you want help with your project, `sign up <https://docs.google.com/spreadsheets/d/1bE3_p0EkfPrcQzfbPj-7B0mGZQwzOo2V10jEqiVQ6hk/edit#gid=0>`__ before Writing Day. When you are ready to start your project on Writing Day, go to **Sessions**, select your table, and start collaborating.
-- **Contribute to a project**: If you want to help someone else with their writing project, `check out the list of projects <https://docs.google.com/spreadsheets/d/1bE3_p0EkfPrcQzfbPj-7B0mGZQwzOo2V10jEqiVQ6hk/edit#gid=0>`__. When you are ready to participate, go to **Sessions**, select the session for the project you want to contribute to, and introduce yourself.
+{% if unconf and unconf.url %}
+
+- **Bring a project**: If you want help with your project, `sign up <{{ unconf.url }}>`__ before Writing Day. When you are ready to start your project on Writing Day, go to **Sessions**, select your table, and start collaborating.
+- **Contribute to a project**: If you want to help someone else with their writing project, `check out the list of projects <{{ unconf.url }}>`__. When you are ready to participate, go to **Sessions**, select the session for the project you want to contribute to, and introduce yourself.
+{% endif %}
 
 Unconference
 ------------
