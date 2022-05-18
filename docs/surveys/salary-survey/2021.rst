@@ -14,7 +14,7 @@ Write the Docs Salary Survey 2021 Results
 Introduction
 ============
 
-The Write the Docs Salary Survey aims to gather data about salaries for documentarians across the world, to help our community members determine what appropriate salary ranges are, and to provide a benchmark for future negotiations.
+The Write the Docs Salary Survey gathers salary data for documentarians across the world, to help our community members determine what appropriate salary ranges are, and to provide a benchmark for future negotiations.
 
 Here we present the results of the third annual survey, which gathered submissions between October 11 and December 20, 2021. Although employees and independent contractors filled out different survey forms this time around, all questions other than for Section 3 (Salary Information) were identical and the data from both forms was combined to produce this report. 
 
@@ -35,7 +35,7 @@ In total, 959 documentarians (887 employees and 72 independent contractors) fill
 Feedback
 --------
 
-We’d love your thoughts on this survey, so that we can continue to refine it over the years. You can email us at support@writethedocs.org with your ideas.
+We’d love your thoughts on this survey, so that we can continue to refine it. Email us at support@writethedocs.org with your ideas.
 
 Section 1: Employment parameters
 ================================
@@ -75,7 +75,7 @@ Of the 959 respondents who completed the survey in 2021, 887 were employees (92.
 .. figure:: images/2021/2021-basis-of-employment.svg
    :class: hide
 
-Although employees have always made up the majority of all respondents, there has been a slight increase in the proportion of independent contractors each year - from 5.7% in 2019, to 6.8% in 2020, to 7.5% in 2021. 
+Although employees have historically made up the majority of all respondents, there has been a slight increase in the proportion of independent contractors each year - from 5.7% in 2019, to 6.8% in 2020, to 7.5% in 2021. 
 
 .. raw:: html
 
