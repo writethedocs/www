@@ -667,6 +667,7 @@ body .uk-offcanvas-slide a.uk-button-ghost {
     justify-content: center;
 
     img {
+        width: 90%;
         max-width: 264px;
         height: auto;
         display: block;
@@ -1122,8 +1123,8 @@ footer {
 
     .footer-head .uk-container {
         flex-direction: row;
-        justify-content: flex-end;
-    padding: 24px;
+        justify-content: center;
+        padding: 24px;
 
         .uk-button {
             margin-left: 20px;
@@ -1133,7 +1134,7 @@ footer {
 
     & > * {
       position: relative;
-      top: 20px;
+      top: 5px;
     }
 
     }
