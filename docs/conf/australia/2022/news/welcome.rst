@@ -1,22 +1,27 @@
 :template: {{year}}/generic.html
 
-.. post:: Apr 21, 2021
+.. post:: May 20, 2022
    :tags: {{shortcode}}-{{year}}, website, tickets
 
-Announcing Write the Docs Australia & India {{year}}
+Announcing Write the Docs Australia {{year}}
 ===================================================
 
-G'day and welcome to the official launch of `Write the Docs Australia and India {{year}} <https://www.writethedocs.org/conf/australia/{{year}}/>`_,
+G'day and welcome to the official launch of `Write the Docs Australia {{year}} <https://www.writethedocs.org/conf/australia/{{year}}/>`_,
 our sixth virtual conference.
-We have been tuning our approach to these events since our first virtual event in August 2020,
-and are happy to invite you back to our online space.
-Similar to 2020, we are partnering with Write the Docs India for 2 days of Asia Pacific documentation goodness!
 
 We're excited to announce the dates for our next conference:
-**Write the Docs Australia and India 2021 will be on December 2-3, 2021**
+**Write the Docs Australia 2022 will be on December 8-9, 2022**
 
-This is another virtual conference, which means you can attend,
-speak or have a sponsor presence from anywhere in the world.
+We will be running a **virtual event** again this year, same as our Portland and Prague conferences.
+We make this very difficult decision with the understanding that it will disappoint some of you.
+We also make this decision with the knowledge that it will relieve some of you from stress or anxiety.
+
+**After talking with our vendors and staff, we determined we couldn't produce the quality of event that our attendees expect if we run a hybrid event.**
+
+If you want to read more about the detailed reasons for keeping our events virtual this year, check out the `Portland conference is going back to virtual <https://www.writethedocs.org/conf/portland/2022/news/conference-going-virtual/>`_ blog post.
+
+It's been another rough year for a lot of us, especially for our community members in the Australia and Pacific regions, but we hope that by the time the conference happens the situation will be calmer and that we'll see many of you join us from wherever you are in the world.
+
 The conference will take place during day time in AEDT_.
 
 .. _AEDT: https://time.is/AEDT
@@ -27,15 +32,14 @@ Call for Proposals
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
 
-We plan to launch our CFP in early June and have it last until sometime until mid-August.
+We plan to launch our CFP early to mid July and have it last until sometime until mid-September.
 Get started coming up with ideas for the conference now.
 
 Tickets
 -------
 
-Tickets will officially go on sale in **May {{ year }}**.
-We will announce ticket prices soon,
-so that you can start planning your budget.
+Tickets will officially go on sale in **July {{ year }}**.
+We will announce ticket prices soon, so that you can start planning your budget.
 As with the previous years, we have tiered pricing to make it fair for everyone.
 
 As always, we keep ticket prices low so that it is accessible to the widest range of people possible.
@@ -47,7 +51,7 @@ Sponsorship
 
 We are planning to do similar sponsorship levels again this year as last year.
 In addition to the regular sponsorship levels, we have additional ways to sponsor our online events.
-See our `sponsorship prospectus <https://www.writethedocs.org/conf/australia/2021/sponsors/prospectus/>`_ for all the options.
+See our `sponsorship prospectus <https://www.writethedocs.org/conf/australia/2022/sponsors/prospectus/>`_ for all the options.
 
 We're always open to customisations on our sponsorships, especially given the new online format.
 You can always reach us with ideas or questions at sponsorship@writethedocs.org.
@@ -63,5 +67,5 @@ Want to connect with other documentarians in real-time? Join our `Slack <http://
 Conclusion
 ----------
 
-We hope you will join us for yet another Write the Docs Australia and India conference.
+We hope you will join us for yet another Write the Docs Australia conference.
 Whether as a speaker, attendee, or sponsor, you can bet it will be another delightful year.
