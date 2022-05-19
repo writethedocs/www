@@ -188,6 +188,9 @@ sponsors:
       link: https://www.google.com
       brand: Google
   publisher:
+    - name: stackblitz-svg
+      link: https://stackblitz.com/
+      brand: StackBlitz
     - name: cncf
       link: https://www.cncf.io/
       brand: Cloud Native Computing Foundation
@@ -197,9 +200,6 @@ sponsors:
     - name: twilio
       link: https://www.twilio.com/
       brand: Twilio
-    - name: stackblitz-svg
-      link: https://stackblitz.com/
-      brand: StackBlitz
     # - name: slack
     #   link: https://slack.com/
     #   brand: Slack
