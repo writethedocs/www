@@ -243,8 +243,8 @@ sponsors:
 flaglanding: False
 flaghassponsors: True
 flagcfp: False
-flagticketsonsale: True
-flagsoldout: False
+flagticketsonsale: False
+flagsoldout: True
 flagspeakersannounced: True
 flagrunofshow: True
 flaghasschedule: True
