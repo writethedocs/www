@@ -214,7 +214,7 @@
 
     <li>Why you should write code examples within unit tests</li>
 
-    <li>What you should and shouldn’t test</li>
+    <li>What you should test</li>
 
     <li>How to implement tested code examples </li>
 
@@ -288,6 +288,10 @@
     slug: liani-lye-she-her
     twitter: 
     website: https://www.linkedin.com/in/lianilye/
+  - name: Gretchen Maciolek
+    slug: gretchen-maciolek
+    twitter: 
+    website: 
   abstract: '<p>I joined the VA’s Digital Experience group as a contract product manager
     of two documentarians in a sea of 75+ technologists.  On paper, our job was to
     build and populate a customer-facing information portal.  To do so in any enduring
@@ -386,11 +390,11 @@
     slug: dave-may
     twitter: 
     website: 
-  abstract: '<p>If you deliver docs as PDFs, manually formatting your files and emailing
+  abstract: '<p>If you create docs in Word, manually formatting your files and emailing
     them around, you know that the process can be error-prone and slow. That’s how
     our team used to do docs. Our team is an Amazon Web Services (AWS) group of developers
     and tech writers—specifically, the Integration and Automation team. Our docs are
-    guides for <a href="https://aws.amazon.com/quickstart/">AWS reference architectures</a>
+    guides for <a href="https://aws.amazon.com/quickstart/">Quick Start architectures</a>
     that help people deploy popular technologies in the AWS Cloud.</p>
 
     <p>In 2020, we switched to a <a href="https://www.writethedocs.org/guide/docs-as-code/">docs-as-code</a>
@@ -471,7 +475,4 @@
     slug: nicola-yap
   - name: Tina Ornduff
     slug: tina-ornduff
-  abstract: 'Learn how to make your documents more accessible for everyone. In this class, you''ll practice skills you can apply to documentation, design docs, code comments, or other kinds of writing. This class builds on the Google&nbsp;<a href="https://developers.google.com/tech-writing/one/" target="_blank">Technical Writing One</a>&nbsp;and&nbsp;<a href="https://developers.google.com/tech-writing/two/" target="_blank">Technical Writing Two</a>&nbsp;classes. Familiarity with principles in those classes is recommended.</div>
-
-  <br>In this 90-minute instructor-led workshop, you will:<br><ul><li>Discuss inclusive design concepts</li><li>Practice writing helpful alt text</li><li>Learn how to check color contrast</li><li>Explore strategies to make diagrams more accessible</li><li>Find accessibility errors in a document</li></ul>
-  '
+  abstract: 'Learn how to make your documents more accessible for everyone. In this class, you''ll practice skills you can apply to documentation, design docs, code comments, or other kinds of writing. This class builds on the Google&nbsp;<a href="https://developers.google.com/tech-writing/one/" target="_blank">Technical Writing One</a>&nbsp;and&nbsp;<a href="https://developers.google.com/tech-writing/two/" target="_blank">Technical Writing Two</a>&nbsp;classes. Familiarity with principles in those classes is recommended.</div><br>In this 90-minute instructor-led workshop, you will:<br><ul><li>Discuss inclusive design concepts</li><li>Practice writing helpful alt text</li><li>Learn how to check color contrast</li><li>Explore strategies to make diagrams more accessible</li><li>Find accessibility errors in a document</li></ul>'

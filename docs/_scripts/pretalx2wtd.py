@@ -27,6 +27,7 @@ CONTENT_TYPE_EXTENSIONS = {
     'image/jpeg': 'jpg',
     'image/jpg': 'jpg',
     'image/png': 'png',
+    'image/gif': 'gif',
 }
 MAX_TITLE_LENGTH_FOR_SLUG = 80  # For #1311
 
