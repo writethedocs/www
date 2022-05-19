@@ -12,8 +12,8 @@ Welcome to our community!
 
 * :doc:`Our slack network </slack>` with thousands of members
 * :doc:`Conferences </conf/index>` on 3 continents
-   - :doc:`Write the Docs Portland 2022 </conf/portland/2022/index>`, **May 22-24**, Virtual - PST
-   - :doc:`Write the Docs Prague 2022 </conf/prague/2022/index>`, **September 11-13**, Virtual - CET
+   - :doc:`Portland 2022 </conf/portland/2022/index>`, **May 22-24**, Virtual - PST
+   - :doc:`Prague 2022 </conf/prague/2022/index>`, **September 11-13**, Virtual - CET
 * :doc:`Local meetups </meetups/index>` in over 40 cities
 
 We consider everyone who cares about communication, documentation, and
