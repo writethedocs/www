@@ -12,7 +12,7 @@ Write the Docs Salary Survey 2021 Results
    :backlinks: none
 
 Introduction
-============
+============ 
 
 The Write the Docs Salary Survey gathers salary data for documentarians across the world, to help our community members determine what appropriate salary ranges are, and to provide a benchmark for future negotiations.
 
@@ -211,20 +211,36 @@ The next most widely-used titles were a long way behind the frontrunners: “Lea
       - A manager or team leader
       - Other (please specify)
 
-The majority of respondents (85%) placed themselves in the writer, content creator, producer or editor category, slightly down from 87.7% in 2020. Management came in next at 7.4%, an increase from 2020’s 4.8%, followed by developer/engineer at 2.9% (up from 2.4% in 2020). 
-
-Support came in at just over 1%, and the remaining three categories held less than 1% each (advocate/community outreach, marketing, educator). 2% of respondents selected the Other category, and many of these responses indicated an evenly split role (e.g. developer and writer; writer and evangelist). Additional entered responses included product manager, quality manager, and strategy-based roles. 
+The majority of respondents (85%) placed themselves in the writer, content creator, producer or editor category, slightly down from 87.7% in 2020. 
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Role categorization (2021)" aria-describedby="figure-role_desc" type="image/svg+xml" data="/_images/2021-placeholder-chart.svg">
-         <p id="figure-role_desc">Donut chart showing selected role categorization</p>
+      <object role="img" aria-label="Role categorization - major grouping (2021)" aria-describedby="figure-role-major_desc" type="image/svg+xml" data="/_images/2021-role-breakdown-major.svg">
+         <p id="figure-role-major_desc">Donut chart showing major role categorization of respondents - the majority (85%) being writers, content creators, producers or editors, and only 15% categorizing themselves as one of the other six categories</p>
       </object> 
-      <figcaption>Figure: Role categorization (2021)</figcaption>
+      <figcaption>Figure: Role categorization - major grouping (2021)</figcaption>
    </figure>
 
-.. figure:: images/2021/2021-placeholder-chart.svg
+.. figure:: images/2021/2021-role-breakdown-major.svg
+   :class: hide
+
+Of the remaining 15%, nearly half selected management - 7.4% of the total, an increase from 2020’s 4.8%. Developer/engineer made up ust under 20% of the non-writer categories - 2.9% of the total, up from 2.4% in 2020. 
+
+Support made up 7.7% of the non-writers - just over 1% overall. The remaining three categories each held less than 1% of the total each (advocate/community outreach, marketing, educator).
+
+2% of the total respondents selected the Other category, and while some of these responses fit into the writer/content creator/producer/editor category, some indicated an evenly split role (e.g. developer and writer; writer and evangelist). Additional entered responses included product manager, quality manager, research, and strategy-based roles. 
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Role categorization - minor grouping (2021)" aria-describedby="figure-role-minor_desc" type="image/svg+xml" data="/_images/2021-role-breakdown-minor.svg">
+         <p id="figure-role-minor_desc">Donut chart showing role categorization of the 15% of total respondendents who did not place themselves in the writer, content creator, producer or editor role: </p>
+      </object> 
+      <figcaption>Figure: Role categorization - minor grouping (2021)</figcaption>
+   </figure>
+
+.. figure:: images/2021/2021-role-breakdown-minor.svg
    :class: hide
 
 Respondents were asked to indicate if they worked primarily solo, as part of a team (either a team made up of people doing the same kind of job, or a multi-disciplinary team), as part of multiple teams, or as a manager or team leader.
@@ -239,13 +255,13 @@ Respondents were asked to indicate if they worked primarily solo, as part of a t
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Team breakdown (2021)" aria-describedby="figure-team_desc" type="image/svg+xml" data="/_images/2021-placeholder-chart.svg">
+      <object role="img" aria-label="Team breakdown (2021)" aria-describedby="figure-team_desc" type="image/svg+xml" data="/_images/2021-team-breakdown.svg">
          <p id="figure-team_desc">Donut chart showing team breakdown</p>
       </object> 
       <figcaption>Figure: Team breakdown (2021)</figcaption>
    </figure>
 
-.. figure:: images/2021/2021-placeholder-chart.svg
+.. figure:: images/2021/2021-team-breakdown.svg
    :class: hide
  
 1.5 Length of time at current organization
@@ -270,7 +286,7 @@ Respondents were asked to indicate if they worked primarily solo, as part of a t
 
 Perhaps reflecting the job market upheaval caused by the pandemic, 31.7% of respondents reported having been in their current position for less than 1 year, up from 26% in 2020.  
 
-- 17.9% had held their current role for between 1 and 2 years (down from 26.2% in 2020), 
+- 18% had held their current role for between 1 and 2 years (down from 26.2% in 2020), 
 - 31.8% clocked in between 2 and 5 years (up from 29.2% in 2020),
 - 12.8% reported between 5 and 10 years (down from 12.3% in 2020), and
 - 5.7% had been in their current position for over 10 years (around the same as in 2020). 
@@ -286,13 +302,13 @@ Single respondents reported 24, 29, 32 and 35 years tenure – an increase from 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Time in role (2021)" aria-describedby="figure-time_desc" type="image/svg+xml" data="/_images/2021-placeholder-chart.svg">
-         <p id="figure-time_desc">Bar chart showing time in current role</p>
+      <object role="img" aria-label="Time in role (2021)" aria-describedby="figure-time_desc" type="image/svg+xml" data="/_images/2021-time-in-role.svg">
+         <p id="figure-time_desc">Bar chart showing time in current role - with 31.7% of respondents reporting less than 1 year, 18% between 1 and 2 years, 31.8% between 2 and 5 years, 12.8% between 5 and 10 years, and 5.7% with more than 10 years</p>
       </object> 
       <figcaption>Figure: Time in role (2021)</figcaption>
    </figure>
 
-.. figure:: images/2021/2021-placeholder-chart.svg
+.. figure:: images/2021/2021-time-in-role.svg
    :class: hide
 
 1.6 Proportion of role officially related to documentation

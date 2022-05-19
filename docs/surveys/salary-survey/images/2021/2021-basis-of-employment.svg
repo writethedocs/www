@@ -28,8 +28,8 @@
 			<path d="M265.755 28.2328C273.976 28.2328 283.966 69.2035 284.734 72.3551L285.503 75.5067" stroke="#FFA600"/>
 		</g>
 		<g class="value-labels">
-			<text><tspan x="397.972" y="396.07">Employees: </tspan><tspan x="395.355" y="424.07">887 (92.5%)</tspan></text>
-			<text><tspan x="172.71" y="24.582">Contractors: </tspan><tspan x="182.983" y="48.582">72 (7.5%)</tspan></text>
+			<text><tspan x="400.472" y="396.07">Employees</tspan><tspan x="417.151" y="424.07">92.5%</tspan></text>
+			<text><tspan x="175.21" y="24.582">Contractors</tspan><tspan x="199.678" y="52.582">7.5%</tspan></text>
 		</g>
 	</g>
 </svg>
