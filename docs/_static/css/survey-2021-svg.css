@@ -5,7 +5,7 @@ text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important;fo
 .x-axis .axis-label text{fill:#666}
 .x-axis .axis-values text{fill:#666;font-size:16px}
 
-.y-axis .axis-label text{fill:#A39F9F}
+.y-axis .axis-label text{fill:#666}
 .y-axis .axis-values text{fill:#A39F9F;font-size:16px}
 
 .axis-lines path{stroke:#F0F0F0}

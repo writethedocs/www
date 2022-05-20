@@ -329,20 +329,20 @@ Not surprisingly for a community of documentarians, the largest proportion of re
 
 - 25.4% reported that it was only part,
 - 4.4% reported that documentation was not part of their official job description but they were still expected to perform documentation-related tasks, and 
-- 1.1% fit into the final category, those who performed documentation-related tasks despite it not being part of their job description and it not being expected of them. 
+- 1.2% fit into the final category, those who performed documentation-related tasks despite it not being part of their job description and it not being expected of them. 
 
 These ratios remain essentially unchanged from 2020 and 2019. 
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Proportion of role officially devoted to documentation (2021)" aria-describedby="figure-proportion-official_desc" type="image/svg+xml" data="/_images/2021-placeholder-chart.svg">
-         <p id="figure-proportion-official_desc">Donut chart showing proportion of role officially devoted to documentation</p>
+      <object role="img" aria-label="Proportion of role officially devoted to documentation (2021)" aria-describedby="figure-proportion-official_desc" type="image/svg+xml" data="/_images/2021-proportion-official.svg">
+         <p id="figure-proportion-official_desc">Donut chart showing proportion of role officially devoted to documentation: 69% said that documentation was the whole of their official job description, 25.4% said documentation was only part, 4.4% said documentation was not part of their role but they were expected to perform documentation-related tasks, and 1.2% said documentation was not part of their job description and even though it was not expected of them, they performed documentation-related tasks anyway</p>
       </object> 
       <figcaption>Figure: Proportion of role officially devoted to documentation (2021)</figcaption>
    </figure>
 
-.. figure:: images/2021/2021-placeholder-chart.svg
+.. figure:: images/2021/2021-proportion-official.svg
    :class: hide
 
 1.7 Proportion of role actually related to documentation
@@ -369,13 +369,13 @@ The proportions for this question remained mostly the same as in 2020 and 2019.
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Proportion of role actually related to documentation (2021)" aria-describedby="figure-proportion-actual_desc" type="image/svg+xml" data="/_images/2021-placeholder-chart.svg">
-         <p id="figure-proportion-actual_desc">Donut chart showing proportion of role actually devoted to documentation</p>
+      <object role="img" aria-label="Proportion of role actually related to documentation (2021)" aria-describedby="figure-proportion-actual_desc" type="image/svg+xml" data="/_images/2021-proportion-actual.svg">
+         <p id="figure-proportion-actual_desc">Bar chart showing proportion of day-to-day tasks that are actually related to documentation - with 5% of respondents estimating up to 25%, 9.8% of respondents estimating 25-50%, 28.2% of respondents estimating 50-75%, and 57% of respondents estimating 75-100%</p>
       </object> 
-      <figcaption>Figure: Proportion of role actually devoted to documentation (2021)</figcaption>
+      <figcaption>Figure: Proportion of role actually related to documentation (2021)</figcaption>
    </figure>
 
-.. figure:: images/2021/2021-placeholder-chart.svg
+.. figure:: images/2021/2021-proportion-actual.svg
    :class: hide
 
 Section 2: Work Location and COVID-19
@@ -452,7 +452,7 @@ Note for this section: respondents were advised that if they have changed jobs d
       - Positive
       - Very positive
 
-73.9% of respondents reported that their work location had been affected by COVID-19. As in 2020, by far the largest group were those who changed from working onsite to working remotely (i.e. "work from home"): 
+In 2021, 73.9% of respondents reported that their work location had been affected by COVID-19 - down from 80% in 2020. As in 2020, by far the largest group were those who changed from working onsite (i.e. in their employer's premises) to working remotely (i.e. working from home or another location not provided by their employer). 
 
 - 45.6% transitioned from onsite to remote,
 - 17.3% transitioned from partially remote to completely remote, and
@@ -466,13 +466,27 @@ In 2020, we asked respondents if they thought the changes to their work location
 
 In 2021, given that the situation was still ongoing, we instead asked respondents what changes had occurred.
 
-37.5% - the largest group, but only by a small margin - reported that their work location change was temporary, but had not yet changed back. Another 32.5% reported that their work location change had become permanent.
+37.5% - the largest group, but only by a small margin - reported that their work location change was temporary, but had not yet changed back. Another 34.8% reported that their work location change had become permanent.
 
 Of the remaining responses:
 
-- 14.1% reported that their work location change had been temporary and had now changed back,
-- 9.6% had experienced multiple changes which were not yet permanent, and 
+- 14.4% reported that their work location change had been temporary and had now changed back,
+- 9.6% had experienced multiple changes which were not yet permanent, and
 - 1.4% had experienced multiple changes but had settled on a permanent situation.
+
+The final 2.3% of respondents who inidcated that they had experienced a work location due to COVID-19 selected "other" and entered more detail - most of these indicated that they were as yet unsure if the changes were going to be permanent or not. 
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Work location changes due to COVID-19 (2021)" aria-describedby="figure-work-location-changes_desc" type="image/svg+xml" data="/_images/2021-work-location-changes.svg">
+         <p id="figure-work-location-changes_desc">Donut chart showing status of work locations changes due to the COVID-19 pandemic: 37.5% of respondents report that their work location change is temporary but has not yet changed back; 34.9% state that the change is now permanent; 14.4% report that the change was temporary and has now changed back; 9.6% have experienced multiple changes that are not yet permanent; 1.4% have experienced multiple changes that are now permanent; and 2.3% indicated their situation did not fit any of the provided options.</p>
+      </object> 
+      <figcaption>Figure: Work location changes due to COVID-19 (2021)</figcaption> 
+   </figure>
+
+.. figure:: images/2021/2021-work-location-changes.svg
+   :class: hide
 
 As in 2020, we asked how respondents felt about the changes to their work location:
 
@@ -489,8 +503,9 @@ For those 26.1% whose work location had not been affected by COVID-19, we asked 
 The overwhelming majority of respondents in this category were happy with their work location:
 
 - 87.2% reported feeling positive - and 67.2% of those classed themselves as “very positive”,
-- 10.8% were neutral, and
-- A mere 2% (5 individuals) reported feeling negative, with no one reporting that they felt “very negative”.
+- 10.8% were neutral, 
+- a mere 2% (5 individuals) reported feeling negative, and 
+- no one reported that they felt “very negative”.
 
 2.2 Other changes due to COVID-19
 ---------------------------------
