@@ -845,55 +845,55 @@ Please note that due to the low number of respondents, non-binary and other gend
 
 The so-called gender pay gap, much-discussed recently, is apparent in the 2021 survey results. The global median salary for women, who make up 60.5% of employee respondents working full-time hours, is USD $77,390 - 9% lower than the median salary for their male counterparts (USD $85,000). 
 
-When broken down by region, the trend continues everywhere except for the Middle East (which in our results is actually only Israel), where woman are paid 3.5% more than men. In Europe the difference is only 3.7%, but in Asia it is 26.3% - albeit with much smaller sample sizes than in North America or Europe. 
+When broken down by region, the trend continues everywhere except for the Middle East (which in our results is actually only represented by Israel), where woman are paid 3.5% more than men. In Europe the difference is only 3.7%, but in Asia it is 26.3% - albeit with much smaller sample sizes than in North America or Europe. 
 
 .. table:: Median employee salary by gender identity - North America
    :width: 100%
    :name: tbl-medianbygender-employees-northamerica
 
-   +--------+-----+--------------+------------+
-   | Gender | No. | Median (USD) | Difference |
-   +========+=====+==============+============+
-   | men    | 202 | 103,500      | +8.2%      |
-   +--------+-----+--------------+------------+
-   | women  | 303 | 95,000       |            |
-   +--------+-----+--------------+------------+
+   +--------+-----+--------------+
+   | Gender | No. | Median (USD) |
+   +========+=====+==============+
+   | men    | 202 | 103,500      |
+   +--------+-----+--------------+
+   | women  | 303 | 95,000       |
+   +--------+-----+--------------+
 
 .. table:: Median employee salary by gender identity - Europe
    :width: 100%
    :name: tbl-medianbygender-employees-europe
 
-   +--------+-----+--------------+------------+
-   | Gender | No. | Median (USD) | Difference |
-   +========+=====+==============+============+
-   | men    | 83  | 48,274       | +3.7%      |
-   +--------+-----+--------------+------------+
-   | women  | 144 | 46,464       |            |
-   +--------+-----+--------------+------------+
+   +--------+-----+--------------+
+   | Gender | No. | Median (USD) |
+   +========+=====+==============+
+   | men    | 83  | 48,274       |
+   +--------+-----+--------------+
+   | women  | 144 | 46,464       |
+   +--------+-----+--------------+
 
 .. table:: Median employee salary by gender identity - Asia
    :width: 100%
    :name: tbl-medianbygender-employees-asia
 
-   +--------+-----+--------------+------------+
-   | Gender | No. | Median (USD) | Difference |
-   +========+=====+==============+============+
-   | men    | 21  | 34,872       | +26.3%     |
-   +--------+-----+--------------+------------+
-   | women  | 21  | 25,701       |            |
-   +--------+-----+--------------+------------+
+   +--------+-----+--------------+
+   | Gender | No. | Median (USD) |
+   +========+=====+==============+
+   | men    | 21  | 34,872       |
+   +--------+-----+--------------+
+   | women  | 21  | 25,701       |
+   +--------+-----+--------------+
 
 .. table:: Median employee salary by gender identity - Middle East/Israel
    :width: 100%
    :name: tbl-medianbygender-employees-israel
 
-   +--------+-----+--------------+------------+
-   | Gender | No. | Median (USD) | Difference |
-   +========+=====+==============+============+
-   | men    | 19  | 100,286      |            |
-   +--------+-----+--------------+------------+
-   | women  | 21  | 104,000      | +3.5%      |
-   +--------+-----+--------------+------------+
+   +--------+-----+--------------+
+   | Gender | No. | Median (USD) |
+   +========+=====+==============+
+   | men    | 19  | 100,286      |
+   +--------+-----+--------------+
+   | women  | 21  | 104,000      |
+   +--------+-----+--------------+
 
 Despite this obvious trend in most regions, only 1.6% of respondents indicated in the job satisfaction section that they felt discriminated against on the basis of gender. 
 
@@ -1013,7 +1013,7 @@ In almost all countries apart from the US, employees are entitled to paid vacati
       - None of the above
       - Other (please specify)
 
-3% of employee respondents indicated that they did not receive any of the benefits listed. 
+A small percentage of employee respondents (3%) indicated that they did not receive any of the benefits listed. 
 
 .. table:: Benefits - employees
    :width: 100%
@@ -1099,7 +1099,7 @@ On the whole, most respondents - 72.8% - were “satisfied” (45.2%) or “very
 .. figure:: images/2021/2021-salary-satisfaction-employees.svg
    :class: hide
 
-Respondents were able to select reasons for dissatisfaction, even if they indicated that they were “very satisfied”. 45.8% of respondents did not select any reason for dissatisfaction with their salary and benefits.  
+Respondents were able to select reasons for dissatisfaction, even if they indicated that they were “very satisfied”. In total, 45.8% of employee respondents did not select any reasons for dissatisfaction with their salary and benefits.  
 
 .. table:: Reasons for salary dissatisfaction - employees
    :width: 100%
@@ -1169,18 +1169,18 @@ Of those who selected “Other” and entered a reason for dissatisfaction with 
       - None of the above
 
 The majority of respondents – 75.9% - rated their overall employment situation in a positive light. Nearly half (49.5%) indicated that they were “satisfied”, with 26.4% extending that to “very satisfied”.
-A further 15.2% felt “neutral”. 8.9% rated their employment situation negatively – 7.2% indicated that they were “unsatisfied”, and only 1.7% had reason to be “very unsatisfied”. 
+A further 15.2% felt “neutral”. Only 8.9% rated their employment situation negatively – 7.2% indicated that they were “unsatisfied”, and only 1.7% had reason to be “very unsatisfied”. 
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Overall job satisfaction - employees (2021)" aria-describedby="figure-job-satisfaction-employees_desc" type="image/svg+xml" data="/_images/2021-placeholder-chart.svg">
-         <p id="figure-job-satisfaction-employees_desc">Donut chart showing reported overall job satisfaction by employee respondents.</p>
+      <object role="img" aria-label="Overall job satisfaction - employees (2021)" aria-describedby="figure-job-satisfaction-employees_desc" type="image/svg+xml" data="/_images/2021-job-satisfaction-employees.svg">
+         <p id="figure-job-satisfaction-employees_desc">Donut chart showing reported overall job satisfaction by employee respondents: 75.9% felt satisfied; 12.5% felt neutral; 8.9% felt unsatisfied.</p>
       </object> 
       <figcaption>Figure: Overall job satisfaction - employees (2021)</figcaption>
    </figure>
 
-.. figure:: images/2021/2021-placeholder-chart.svg
+.. figure:: images/2021/2021-job-satisfaction-employees.svg
    :class: hide
 
 In 2021, 32.7% of employees did not indicate any reasons for dissatisfaction. 
@@ -1396,13 +1396,13 @@ The overall median day rate was **USD $389** (from 20 respondents in 14 countrie
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Rate satisfaction - contractors (2021)" aria-describedby="figure-salary-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2021-placeholder-chart.svg">
-         <p id="figure-salary-satisfaction-contractors_desc">Donut chart showing satisfaction with contract/freelance rates of independent contractor respondents</p>
+      <object role="img" aria-label="Rate satisfaction - contractors (2021)" aria-describedby="figure-salary-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2021-rate-satisfaction-contractors.svg">
+         <p id="figure-salary-satisfaction-contractors_desc">Donut chart showing satisfaction with contract/freelance rates of independent contractor respondents: 70.9% felt satisfied; 15.3% felt neutral; 13.9% felt unsatisfied.</p>
       </object> 
       <figcaption>Figure: Rate satisfaction - contractors (2021)</figcaption>
    </figure>
 
-.. figure:: images/2021/2021-placeholder-chart.svg
+.. figure:: images/2021/2021-rate-satisfaction-contractors.svg
    :class: hide
 
 36.1% of contractors did not list any reasons for dissatisfaction with their rates – the same percentage who cited “missing benefits”, the top reason. 23.6% stated that their rate was too low, while 11.1% felt that their responsibilities exceeded their pay grade. 
@@ -1486,13 +1486,13 @@ The overall median day rate was **USD $389** (from 20 respondents in 14 countrie
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Overall freelance/contract situation satisfaction - contractors (2021)" aria-describedby="figure-salary-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2021-placeholder-chart.svg">
-         <p id="figure-salary-satisfaction-contractors_desc">Donut chart showing satisfaction with overall freelance or contract situation of independent contractor respondents</p>
+      <object role="img" aria-label="Overall freelance/contract situation satisfaction - contractors (2021)" aria-describedby="figure-overall-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2021-overall-satisfaction-contractors.svg">
+         <p id="figure-overall-satisfaction-contractors_desc">Donut chart showing satisfaction with overall freelance or contract situation of independent contractor respondents: 76.4% felt satisfied; 9.7% felt neutral; 13.9% felt unsatisfied.</p>
       </object> 
       <figcaption>Figure: Overall freelance/contract situation satisfaction - contractors (2021)</figcaption>
    </figure>
 
-.. figure:: images/2021/2021-placeholder-chart.svg
+.. figure:: images/2021/2021-overall-satisfaction-contractors.svg
    :class: hide
 
 19.4% of contractors did not select any reasons for dissatisfaction with their contracting situation overall. As with employees, the top reason for dissatisfaction was “Role is undervalued or underfunded” (27.8% of contractors, and 28.3% of employees). Unlike employees, however, the next top reason was “Job instability (COVID-related or otherwise)” with 26.4% selecting this (compared to only 3.4% of employees). “No opportunities for advancement” was next, with 18.1% of contractors indicating this (a similar proportion to employees, at 18.9%, the second most common reason selected).
@@ -1649,13 +1649,13 @@ Very small operations (up to 10 employees) again made up the smallest proportion
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Organization size (2021)" aria-describedby="figure-org-size_desc" type="image/svg+xml" data="/_images/2021-placeholder-chart.svg">
+      <object role="img" aria-label="Organization size (2021)" aria-describedby="figure-org-size_desc" type="image/svg+xml" data="/_images/2021-organization-size.svg">
          <p id="figure-org-size_desc">Bar chart showing employer organization size</p>
       </object> 
       <figcaption>Figure: Organization size (2021)</figcaption>
    </figure>
 
-.. figure:: images/2021/2021-placeholder-chart.svg
+.. figure:: images/2021/2021-organization-size.svg
    :class: hide
 
 4.2 Industry
@@ -1695,7 +1695,8 @@ Very small operations (up to 10 employees) again made up the smallest proportion
       - Utilities, Energy, Mining, Extraction
       - Other (please specify)
 
-      Note: for software development and IT companies:
+      Note for software development and IT companies:
+      
       Please choose the industry that your product or service primarily serves.
       For example, if your organization produces e-learning software, select "Education, Training". If you work for a company that makes point of sale systems for restaurants, select "Food, Beverages".
       Please only select "Software Development, Software Development Tools" if your organization's customers are software developers.

@@ -1,0 +1,34 @@
+<svg height="100%" width="100%" viewBox="0 0 660 460" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+  <title>Organization size (2021)</title>
+  <desc>Bar chart showing employer organization size</desc>
+  <g class="x-axis">
+    <g class="axis-lines">
+       
+    </g>
+    <g class="axis-values">
+			
+		</g>
+    <g class="axis-label">
+
+    </g>    
+  </g>
+	<g class="y-axis">
+		<g class="axis-values">
+
+		</g>
+    <g class="axis-label">
+
+    </g>  
+	</g>
+  <g class="data">
+			
+	</g>
+</svg>
