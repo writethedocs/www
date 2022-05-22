@@ -1874,13 +1874,13 @@ The youngest age bracket (18-25 year olds) made up 6.3%, and the oldest bracket 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Respondent age range (2021)" aria-describedby="figure-age_desc" type="image/svg+xml" data="/_images/2021-placeholder-chart.svg">
-         <p id="figure-age_desc">Bar chart showing age range of respondents.</p>
+      <object role="img" aria-label="Respondent age range (2021)" aria-describedby="figure-age_desc" type="image/svg+xml" data="/_images/2021-respondent-age.svg">
+         <p id="figure-age_desc">Bar chart showing age range of respondents: 18-25 year olds made up 6.3%; 26-35 year olds made up 35.8%; 36-45 year olds made up 28.8%; 46-55 year olds made up 17.3%; 56-65 year olds made up 9%; over 66 year olds made up 1.6%.</p>
       </object> 
       <figcaption>Figure: Respondent age range (2021)</figcaption>
    </figure>
 
-.. figure:: images/2021/2021-placeholder-chart.svg
+.. figure:: images/2021/2021-respondent-age.svg
    :class: hide
 
 5.2 Gender Identity
@@ -1898,18 +1898,20 @@ The youngest age bracket (18-25 year olds) made up 6.3%, and the oldest bracket 
       - Other (please specify)
       - I'd rather not say
 
-57.5% of respondents identified as women, 38% as men, and 2.3% as non-binary, genderqueer or other. 21 respondents chose not to answer this question. These breakdowns are mostly unchanged from 2020 and 2019.  
+57.5% of respondents identified as women, 38% as men, and 2.3% as non-binary, genderqueer or other. 21 respondents chose not to answer this question. 
+
+These proportions are mostly unchanged from previous surveys.  
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Respondent gender identity (2021)" aria-describedby="figure-gender_desc" type="image/svg+xml" data="/_images/2021-placeholder-chart.svg">
-         <p id="figure-gender_desc">Donut chart showing respondent gender identity</p>
+      <object role="img" aria-label="Respondent gender identity (2021)" aria-describedby="figure-gender_desc" type="image/svg+xml" data="/_images/2021-gender-identity.svg">
+         <p id="figure-gender_desc">Donut chart showing respondent gender identity: 57.5% most identify as women, 38% as men, 2.3% as non-binary or other; and 2.2% chose not to specify.</p>
       </object> 
       <figcaption>Figure: Respondent gender identity (2021)</figcaption>
    </figure>
 
-.. figure:: images/2021/2021-placeholder-chart.svg
+.. figure:: images/2021/2021-gender-identity.svg
    :class: hide
 
 5.3 Years of experience in documentation
@@ -1941,13 +1943,13 @@ Of the 28 respondents reporting more than 30 years of experience, 24 fell betwee
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Years of experience in documentation (2021)" aria-describedby="figure-experience_desc" type="image/svg+xml" data="/_images/2021-placeholder-chart.svg">
-         <p id="figure-experience_desc">Bar chart showing respondent's years of experience in documentation.</p>
+      <object role="img" aria-label="Years of experience in documentation (2021)" aria-describedby="figure-experience_desc" type="image/svg+xml" data="/_images/2021-years-experience.svg">
+         <p id="figure-experience_desc">Bar chart showing respondent's years of experience in documentation: those with less than 1 year made up 4.4%; between 1 and 2 years made up 7.3%; between 2 and 5 years made up 22.8%; between 5 and 10 years made up 26.7%; between 10 and 15 years made up 12.5%; between 15 and 20 years made up 8.2%; between 20 and 25 years made up 9.4%; between 25 and 30 years made up 5%; more than 30 years made up 2.9%.</p>
       </object> 
       <figcaption>Figure: Years of experience in documentation (2021)</figcaption>
    </figure>
 
-.. figure:: images/2021/2021-placeholder-chart.svg
+.. figure:: images/2021/2021-years-experience.svg
    :class: hide
 
 5.4 Highest education level completed
@@ -1961,24 +1963,24 @@ Of the 28 respondents reporting more than 30 years of experience, 24 fell betwee
 
       - High School or equivalent
       - Technical College Qualification or equivalent
-      - College or University Graduate Qualification (Certificate, Diploma, Associate Degree, Bachelor's Degree)
+      - College or University Under-Graduate Qualification (Certificate, Diploma, Associate Degree, Bachelor's Degree)
       - Post-Graduate Degree (Master's Degree, Post-Graduate Diploma or Certificate, Doctorate)
       - Other (please specify)
       - I'd rather not say
 
-53.3% of respondents had a college or university graduate qualification, or equivalent. 39.5% had gone on to earn postgraduate qualifications. 
+53.3% of respondents had a college or university under-graduate qualification, or equivalent. 39.5% had gone on to earn post-graduate qualifications. 
 Only 3.6% of respondents selected high school as their highest completed level of education, with 2.6% completing a technical college or equivalent degree. 9 respondents chose not to answer. 
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Education level (2021)" aria-describedby="figure-education_desc" type="image/svg+xml" data="/_images/2021-placeholder-chart.svg">
-         <p id="figure-education_desc">Donut chart showing respondent's highest level of education completed.</p>
+      <object role="img" aria-label="Highest education level completed (2021)" aria-describedby="figure-education_desc" type="image/svg+xml" data="/_images/2021-education-level.svg">
+         <p id="figure-education_desc">Donut chart showing respondent's highest level of education completed: 3.6% completed high school or equivalent; 2.6% completed technical college or equivalent; 53.3% completed an under-graduate degree, and 39.5% completed a post-graduate degree.</p>
       </object> 
-      <figcaption>Figure: Education level (2021)</figcaption>
+      <figcaption>Figure: Highest education level completed (2021)</figcaption>
    </figure>
 
-.. figure:: images/2021/2021-placeholder-chart.svg
+.. figure:: images/2021/2021-education-level.svg
    :class: hide
 
 5.5 Geographical location

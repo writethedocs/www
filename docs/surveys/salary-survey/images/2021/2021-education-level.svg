@@ -1,0 +1,77 @@
+<svg height="100%" width="100%" viewBox="0 0 660 315" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    <linearGradient id="paint0_linear_42_130" x1="141.135" y1="233.857" x2="141.135" y2="250.857" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint1_linear_42_130" x1="288.942" y1="238.857" x2="288.942" y2="250.857" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint2_linear_42_130" x1="437.776" y1="0.857178" x2="437.776" y2="250.857" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint3_linear_42_130" x1="585.583" y1="65.8572" x2="585.583" y2="250.857" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+  </defs>
+  <title>Highest education level completed (2021)</title>
+  <desc>Donut chart showing respondent's highest level of education completed: 3.6% completed high school or equivalent; 2.6% completed technical college or equivalent; 53.3% completed an under-graduate degree, and 39.5% completed a post-graduate degree.</desc>
+  <g class="x-axis">
+    <g class="axis-lines">
+      <path d="M66.7185 250.357H660"/>
+			<path d="M66.7185 203.357H660"/>
+			<path d="M66.7185 156.357H660"/>
+			<path d="M66.7185 110.357H660"/>
+			<path d="M66.7185 63.3572H660"/>
+			<path d="M66.7185 16.3572H660"/>
+    </g>
+    <g class="axis-values">
+			<text class="high-school"><tspan x="98" y="275">Highschool</tspan></text>
+			<text class="technical-college"><tspan x="250" y="275">Technical</tspan></text>
+			<text class="undergraduate"><tspan x="395" y="275">Undergrad</tspan></text>
+			<text class="post-graduate"><tspan x="550" y="275">Postgrad</tspan></text>
+		</g>
+    <g class="axis-label">
+			<text><tspan x="300" y="315">Education level</tspan></text>
+    </g>    
+  </g>
+	<g class="y-axis">
+		<g class="axis-values">
+			<text><tspan x="47.8545" y="254.7">0</tspan></text>
+			<text><tspan x="41.8389" y="207.7">10</tspan></text>
+			<text><tspan x="40.0342" y="160.7">20</tspan></text>
+			<text><tspan x="40.1299" y="113.7">30</tspan></text>
+			<text><tspan x="39.9385" y="67.7">40</tspan></text>
+			<text><tspan x="40.458" y="20.7">50</tspan></text>
+		</g>
+    <g class="axis-label">
+			<text transform="translate(0 250) rotate(-90)"><tspan x="67" y="15">Respondents (%)</tspan></text>
+    </g>  
+	</g>
+  <g class="data">
+		<g class="bar high-school">
+			<path d="M203.235 233.857H79.0358V250.857H203.235V233.857Z" fill="#1E73BE"/>
+			<path d="M203.235 233.857H79.0358V250.857H203.235V233.857Z" fill="url(#paint0_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g class="bar technical-college">
+			<path d="M351.042 238.857H226.843V250.857H351.042V238.857Z" fill="#1E73BE"/>
+			<path d="M351.042 238.857H226.843V250.857H351.042V238.857Z" fill="url(#paint1_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g class="bar undergraduate">
+			<path d="M499.876 0.857178H375.677V250.857H499.876V0.857178Z" fill="#1E73BE"/>
+			<path d="M499.876 0.857178H375.677V250.857H499.876V0.857178Z" fill="url(#paint2_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g class="bar post-graduate">
+			<path d="M647.683 65.8572H523.484V250.857H647.683V65.8572Z" fill="#1E73BE"/>
+			<path d="M647.683 65.8572H523.484V250.857H647.683V65.8572Z" fill="url(#paint3_linear_42_130)" fill-opacity="0.1"/>
+		</g>	
+	</g>
+</svg>
