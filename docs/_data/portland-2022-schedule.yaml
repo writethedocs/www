@@ -20,8 +20,10 @@ talks_day1:
   - time: '8:15'
     title: Welcome Wagon conference introduction and platform tour
   - time: '9:00'
-    duration: '0:30'
+    duration: '0:25'
     title: Write the Docs Team - Community update
+  - duration: '0:05'
+    title: '5 minute break'
   - duration: '0:00'
     title: "<b>Unconference Starts</b>"
   - duration: '0:30'
