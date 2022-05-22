@@ -1,8 +1,7 @@
-```eval_rst
-
-.. post:: Sep 1, 2016
-   :tags: newsletter
-
+```{post} Sep 1, 2016
+---
+tags: newsletter
+---
 ```
 
 # Write the Docs Newsletter - September 2016
@@ -13,18 +12,12 @@ Hello Write the Docs! If you're getting this email, you've probably attended (or
 
 As part of that effort, we're sending you this, our inaugural edition of the new Write the Docs monthly newsletter! Our goal is to make it easier for folks to keep current with what the community's talking about each month. The bulk of the newsletter content will be distilled from interesting conversations that crop up on the #general channel of the [Write the Docs Slack ](http://slack.writethedocs.org/). We'll be highlighting topics that are recurring themes or simply seem to resonate with a lot of folks.
 
-```eval_rst
 
-.. note:: We know the #general channel is just one arena for docs talk. If  you see a conversation elsewhere on Slack (or Twitter or wherever) that would make good newsletter fodder, ping our editor, `Kelly O'Brien <https://www.writethedocs.org/team/#newsletter-team>`_.
+```{note}
+We know the #general channel is just one arena for docs talk. If  you see a conversation elsewhere on Slack (or Twitter or wherever) that would make good newsletter fodder, ping our editor, [Kelly O'Brien](https://www.writethedocs.org/team/#newsletter-team).
 
 ```
 
-```eval_rst
-
-.. only:: email
-
-    If this sounds like fun, awesome! Consider yourself subscribed! If you'd rather keep our emails limited to just conference-related notices, that's fine too. Just `click here to select which emails you get <*|UPDATE_PROFILE|*>`_ from the newsletter list.
-```
 
 And without further ado, here's a few topics of conversation from this past month that tickled our fancy:
 
@@ -43,12 +36,10 @@ There were also a handful of great suggestions for UI copy best practices:
 
 If you're looking for more info about UI help text, check out Beth Aitman's talk on the subject from Write the Docs EU 2015. For more on progressive disclosure, try this blog post: [Masking Complexity through Progressive Disclosure](https://blog.recurly.com/2013/04/masking-complexity-through-progressive-disclosure),
 
-
 ## Metrics case study: Total Time Reading (TTR)
 
 Who doesn't love talking about documentation metrics? (No one, that's who.) One of the Write the Docs co-founders, Troy Howard, has a new blog post out, in which he takes a close look at Total Time Reading (TTR) as a way of judging the success of a page or article. If documentation metrics is your thing, it's definitely worth a read:
 [TechDocs Metrics Case Study: Total Time Reading (TTR)](http://blog.thoward37.me/articles/techdocs-metrics-total-time-reading-(ttr))
-
 
 ## Code review versus copy review
 
