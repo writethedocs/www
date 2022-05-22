@@ -3,8 +3,6 @@
     <style type="text/css">
       <![CDATA[
         @import url(/_static/css/survey-2021-svg.css);
-        .value-labels .series_a text{fill:#FFF}
-        .value-labels .series_b text{fill:#000}
         .series_a{fill:#1E73BE}
         .series_b{fill:#FFA600}
       ]]>
@@ -89,19 +87,6 @@
             <path d="M618.5 0H452.5V38H618.5V0Z" fill="url(#paint5_linear_13_171)" fill-opacity="0.1"/>
           </g>
         </g>
-        <g class="value-labels">
-          <g class="series_a">
-            <text><tspan x="129.066" y="357">612</tspan></text>
-            <text><tspan x="327.931" y="318">750</tspan></text>
-            <text><tspan x="526.296" y="280">887</tspan></text>
-          </g>
-          <g class="series_b">
-            <text><tspan x="331.292" y="106">55</tspan></text>
-            <text><tspan x="529.231" y="24">72</tspan></text>
-          </g>
-        </g>
-        <path d="M139 180.667C138.264 180.667 137.667 181.264 137.667 182C137.667 182.736 138.264 183.333 139 183.333C139.736 183.333 140.333 182.736 140.333 182C140.333 181.264 139.736 180.667 139 180.667ZM138.75 151L138.75 182L139.25 182L139.25 151L138.75 151Z" fill="black"/>
-        <g class="value-labels"><g class="series_b"><text><tspan x="130.383" y="144.035">37</tspan></text></g></g>
       </svg>
     </svg>
     <svg id="legend" x="10" y="620" width="640" height="30" style="overflow:visible" viewBox="0 0 640 30">

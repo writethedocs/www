@@ -128,7 +128,8 @@
   #write-the-docs-salary-survey-2021-results #tbl-2021-currencies tbody tr td:first-child,
   #write-the-docs-salary-survey-2021-results #tbl-medianbyregion-employees th, 
   #write-the-docs-salary-survey-2021-results #tbl-medianbyregion-employees td,
-  #write-the-docs-salary-survey-2021-results #tbl-median-region-contractors thead tr th:nth-child(3)
+  #write-the-docs-salary-survey-2021-results #tbl-median-region-contractors thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #tbl-respondent-location thead tr th:nth-child(4)
   {white-space:nowrap}
 
   /* table cells center */
@@ -151,9 +152,11 @@
   #write-the-docs-salary-survey-2021-results #tbl-medianbyorgsize-employees-northamerica thead tr th:nth-child(2),
   #write-the-docs-salary-survey-2021-results #tbl-medianbyorgsize-employees-northamerica tbody tr td:nth-child(2),
   #write-the-docs-salary-survey-2021-results #median-salary-by-gender-identity-employees thead tr th:nth-child(2),
-  #write-the-docs-salary-survey-2021-results #median-salary-by-gender-identity-employees tbody tr td:nth-child(2)
+  #write-the-docs-salary-survey-2021-results #median-salary-by-gender-identity-employees tbody tr td:nth-child(2),
+  #write-the-docs-salary-survey-2021-results #tbl-respondent-location thead tr th:nth-child(3),
+  #write-the-docs-salary-survey-2021-results #tbl-respondent-location tbody tr td:nth-child(3)
   {text-align:center}
-
+ 
   /* table cells right align */
   #write-the-docs-salary-survey-2021-results #tbl-2021-currencies thead tr th:nth-child(5),
   #write-the-docs-salary-survey-2021-results #tbl-2021-currencies tbody tr td:nth-child(5),
@@ -186,7 +189,9 @@
   #write-the-docs-salary-survey-2021-results #median-salary-by-gender-identity-employees thead tr th:nth-child(3),
   #write-the-docs-salary-survey-2021-results #median-salary-by-gender-identity-employees tbody tr td:nth-child(3),
   #write-the-docs-salary-survey-2021-results #median-salary-by-gender-identity-employees thead tr th:nth-child(4),
-  #write-the-docs-salary-survey-2021-results #median-salary-by-gender-identity-employees tbody tr td:nth-child(4)
+  #write-the-docs-salary-survey-2021-results #median-salary-by-gender-identity-employees tbody tr td:nth-child(4),
+  #write-the-docs-salary-survey-2021-results #tbl-respondent-location thead tr th:nth-child(4),
+  #write-the-docs-salary-survey-2021-results #tbl-respondent-location tbody tr td:nth-child(4)
   {text-align:right}
 
   /* multi-column lists */
