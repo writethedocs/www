@@ -57,3 +57,18 @@ During the conference
 ---------------------
 
 Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet` for a quick reference that you can use during the conference to make the most out of Writing Day.
+
+The Good Docs Project
+^^^^^^^^^^^^^^^^^^^^^
+The `Good Docs Project <https://thegooddocsproject.dev/>`_ educates and empowers people to create high-quality documentation by providing them with resources, best practices, and tools to enhance their documentation in open source and beyond.
+We have a fun, supportive, and encouraging community where we geek out about tech writing. First and foremost, we create documentation templates with supporting guides. We also engage in many other initiatives around docs advocacy, docs education and docs tooling.
+
+During writing day, we’d love to introduce you to a range of aspects to our project:
+
+- **Kickoff: introduction to The Good Docs Project (9:00 - 9:50 PT)** - Get to know us! Join us to hear a general overview of our community.
+- **Identifying content types for templates (10:00 - 10:50 PT)** - Creating templates is one of our main projects. By participating in our template brainstorming workshop, we can identify what templates we should try to provide to our users and help us build a roadmap for our future template work.
+- **Docs advocacy and education (11:00 - 11:50 PT)** - We publish deep thought theory, best practices and ideas about documentation within our blog. Come help us brainstorm future topics, and maybe bullet out what should be covered.
+- **The Chronologue (1:00 - 1:50 PT)** - We’re creating our own fake project that can be used to generate documentation examples. Come help us build both the world and the documentation for The Chronologue tool, a fictional telescope that can view astronomical events at any moment in time.
+- **The Good Docs Project Q&A (2:15 - 2:50 PT)** - Come ask us anything about what it's really like contributing to The Good Docs Project.
+- **Business case for docs (3:00 PT - 3:50 PT)** - We want the perfect pitch to invent in docs. This is an early stage project. Come help us in the brainstorming and researching phase of the project.
+- **API reference template review ( 4:00 - 4:50 PT) ** - Our API Reference Template is draft complete. Join this session to assist us in reviewing and polishing an almost complete template.
