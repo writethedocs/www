@@ -1,7 +1,7 @@
 Style Guide
 ===========
 
-This document specifies how we write on our websites.
+This :doc:`style guide </guide/writing/style-guides>` specifies how we write on our websites.
 It's just a start,
 but everything has to start somewhere :)
 
