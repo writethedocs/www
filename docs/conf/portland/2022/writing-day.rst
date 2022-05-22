@@ -53,11 +53,6 @@ We're excited to meet you. Here's what we're up to and how you can help:
 
 - We're looking for contributors! Whether you have no experience with web development or already use the framework, we'd love for you to join our open-source docs team and help make the `#1 satisfaction-rated framework <https://2021.stateofjs.com/en-US/libraries/front-end-frameworks/>`__ even more satisfying!
 
-During the conference
----------------------
-
-Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet` for a quick reference that you can use during the conference to make the most out of Writing Day.
-
 The Good Docs Project
 ^^^^^^^^^^^^^^^^^^^^^
 The `Good Docs Project <https://thegooddocsproject.dev/>`_ educates and empowers people to create high-quality documentation by providing them with resources, best practices, and tools to enhance their documentation in open source and beyond.
@@ -72,3 +67,9 @@ During writing day, we’d love to introduce you to a range of aspects to our pr
 - **The Good Docs Project Q&A (2:15 - 2:50 PT)** - Come ask us anything about what it's really like contributing to The Good Docs Project.
 - **Business case for docs (3:00 PT - 3:50 PT)** - We want the perfect pitch to invent in docs. This is an early stage project. Come help us in the brainstorming and researching phase of the project.
 - **API reference template review ( 4:00 - 4:50 PT)** - Our API Reference Template is draft complete. Join this session to assist us in reviewing and polishing an almost complete template.
+
+
+During the conference
+---------------------
+
+Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet` for a quick reference that you can use during the conference to make the most out of Writing Day.
