@@ -71,4 +71,4 @@ During writing day, we’d love to introduce you to a range of aspects to our pr
 - **The Chronologue (1:00 - 1:50 PT)** - We’re creating our own fake project that can be used to generate documentation examples. Come help us build both the world and the documentation for The Chronologue tool, a fictional telescope that can view astronomical events at any moment in time.
 - **The Good Docs Project Q&A (2:15 - 2:50 PT)** - Come ask us anything about what it's really like contributing to The Good Docs Project.
 - **Business case for docs (3:00 PT - 3:50 PT)** - We want the perfect pitch to invent in docs. This is an early stage project. Come help us in the brainstorming and researching phase of the project.
-- **API reference template review ( 4:00 - 4:50 PT) ** - Our API Reference Template is draft complete. Join this session to assist us in reviewing and polishing an almost complete template.
+- **API reference template review ( 4:00 - 4:50 PT)** - Our API Reference Template is draft complete. Join this session to assist us in reviewing and polishing an almost complete template.
