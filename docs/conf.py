@@ -66,6 +66,8 @@ extensions = [
     'myst_parser',
 ]
 
+myst_heading_anchors = 4
+
 blog_baseurl = 'https://www.writethedocs.org/'
 blog_path = 'blog/archive'
 blog_authors = {
