@@ -74,7 +74,7 @@ The issues are great starting points:
     * Running a tech check
     * `How can presenters get in touch with organizers <https://github.com/writethedocs/www/issues/426>`__ (older ticket that applies to this topic)
 
-* `Add Meetup event attendence guidance <https://github.com/writethedocs/www/issues/912>`__
+* `Add Meetup event attendance guidance <https://github.com/writethedocs/www/issues/912>`__
 * `Add video guidance and posting options <https://github.com/writethedocs/www/issues/1093>`__
 * `Update Meetup FAQ page <https://github.com/writethedocs/www/issues/1735>`__
 
