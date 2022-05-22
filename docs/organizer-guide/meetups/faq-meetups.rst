@@ -42,7 +42,7 @@ Yes, as long as the sponsoring company or organization adheres to the following 
 
 * Sponsorship contributions should be directly proportionate to the needs of the meetup. Our meetups are not-for-profit and also reflect the `Write the Docs worldview <https://www.writethedocs.org/organizer-guide/meetups/starting/#write-the-docs-worldview>`_. This means that aggressive recruitment techniques and other marketing-heavy actions during the meetup may be considered a violation of our `Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_. However, an intro slide mentioning the sponsors, signs near refreshments or a mention by the organizer are all fine.
 
-* If you have any questions regarding a specific sponsorship offer or request, please do not hesitate to `email us <mailto:support@writethedocs.org>`_ or ask a question in the #meetup-organisers channel on our Slack.
+* If you have any questions regarding a specific sponsorship offer or request, please do not hesitate to `email us <mailto:support@writethedocs.org>`_ or ask a question in the #meetup-organizers channel on our Slack.
 
 Meetup organizer benefits
 --------------------------------------------
