@@ -4,6 +4,7 @@ A style guide contains a set of standards for writing and designing content. It 
 
 A consistent tone and style makes your content easier to read, reducing your users' [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) and increasing their confidence in the content's authority.
 
+
 Some content that used to live on this page has moved. See:
 
 - [Accessibility guidelines](https://www.writethedocs.org/guide/writing/accessibility)
@@ -21,6 +22,8 @@ Some content that used to live on this page has moved. See:
 A style guide can be something as simple as a list of decisions you've made about how to refer to different items you frequently write about. Or it can be as complicated as the mighty tomes of major publication houses.
 
 You can certainly create a style guide of your own. For the sake of simplicity, this approach might work if you're a lone writer or just starting a small docs group. But neither software nor its documentation operates in a vacuum, so it's a good idea to consult other resources as well. Working from an existing style guide can also help you figure out which things matter in your style guide.
+
+
 
 ### How-to articles for writing a style guide
 
@@ -72,6 +75,7 @@ Classics for software documentation include:
 
 - [Open SUSE Style Guide](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
 - [gnome Style Guide](https://developer.gnome.org/gdp-style-guide/2.32/gdp-style-guide.html)
+- [Write the Docs Official Website Style Guide](/guide/writing/style-guides)
 
 
 ## Thinking about accessibility and bias
