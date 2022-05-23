@@ -45,7 +45,7 @@ Yes, as long as the sponsoring company or organization adheres to the following 
 * If you have any questions regarding a specific sponsorship offer or request, please do not hesitate to `email us <mailto:support@writethedocs.org>`_ or ask a question in the #meetup-organizers channel on our Slack.
 
 Meetup organizer benefits
---------------------------------------------
+-------------------------
 
 We give each meetup organizer a 50% discount to all Write the Docs conferences as a way of saying thanks. If you haven't gotten your discount code and would like to buy a ticket, send an email to support@writethedocs.org. We also have organizer-specific sessions at conferences.
 
