@@ -1,4 +1,4 @@
-.. orphan::
+:orphan:
 
 Salary Survey: September 2020
 =============================
