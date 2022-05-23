@@ -1,0 +1,41 @@
+<svg width="100%" height="100%" viewBox="0 0 660 442" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    <radialGradient id="paint0_radial_75_112" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(335 258) scale(152)">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</radialGradient>
+  </defs>
+  <title>Chart title (2021)</title>
+  <desc>Donut chart showing ...</desc>
+	<g class="donut-chart">
+		<g class="data">
+			<path class="remote-required" d="M334.969 106C355.566 105.996 375.949 110.178 394.88 118.292C413.811 126.406 430.896 138.283 445.097 153.201C459.297 168.12 470.318 185.769 477.489 205.077C484.661 224.385 487.833 244.949 486.814 265.521C485.795 286.093 480.605 306.242 471.561 324.747C462.516 343.252 449.805 359.725 434.199 373.167C418.594 386.609 400.419 396.739 380.778 402.943C361.138 409.146 340.441 411.293 319.946 409.253L328.978 318.501C337.177 319.317 345.455 318.458 353.311 315.977C361.167 313.496 368.437 309.444 374.68 304.067C380.922 298.69 386.006 292.101 389.624 284.699C393.242 277.297 395.318 269.237 395.726 261.008C396.133 252.78 394.864 244.554 391.996 236.831C389.127 229.108 384.719 222.048 379.039 216.081C373.358 210.113 366.524 205.362 358.952 202.117C351.379 198.871 343.226 197.198 334.988 197.2L334.969 106Z" fill="#1E73BE" stroke="white" stroke-width="2"/>
+			<path class="remote-choice" d="M319.795 409.238C293.047 406.548 267.491 396.813 245.732 381.025C223.974 365.238 206.792 343.962 195.939 319.367C185.085 294.773 180.949 267.74 183.951 241.026C186.953 214.311 196.986 188.871 213.028 167.299L286.211 221.719C279.795 230.348 275.781 240.524 274.58 251.21C273.38 261.896 275.034 272.709 279.376 282.547C283.717 292.385 290.59 300.895 299.293 307.21C307.996 313.525 318.219 317.419 328.918 318.495L319.795 409.238Z" fill="#7271C9" stroke="white" stroke-width="2"/>
+			<path class="partial" d="M213.118 167.177C226.095 149.763 242.652 135.331 261.676 124.855L305.67 204.742C298.061 208.933 291.438 214.705 286.247 221.671L213.118 167.177Z" fill="#D761B6" stroke="white" stroke-width="2"/>
+			<path class="onsite-required" d="M261.809 124.782C277.435 116.197 294.451 110.427 312.077 107.738L325.831 197.895C318.78 198.971 311.974 201.279 305.724 204.713L261.809 124.782Z" fill="#FF6478" stroke="white" stroke-width="2"/>
+			<path class="onsite-choice" d="M312.227 107.716C319.695 106.584 327.236 106.011 334.789 106L334.916 197.2C331.895 197.204 328.878 197.434 325.891 197.886L312.227 107.716Z" fill="#FF8541" stroke="white" stroke-width="2"/>
+			<g class="gradient-overlay" style="mix-blend-mode:color-burn" opacity="0.5">
+				<path fill-rule="evenodd" clip-rule="evenodd" d="M335 410C418.947 410 487 341.947 487 258C487 174.053 418.947 106 335 106C251.053 106 183 174.053 183 258C183 341.947 251.053 410 335 410ZM333.191 320.429C367.169 320.429 394.714 292.883 394.714 258.905C394.714 224.926 367.169 197.381 333.191 197.381C299.212 197.381 271.667 224.926 271.667 258.905C271.667 292.883 299.212 320.429 333.191 320.429Z" fill="url(#paint0_radial_75_112)" fill-opacity="0.25" style="mix-blend-mode:multiply"/>
+			</g>
+		</g>
+		<g class="connectors">
+			<path class="remote-required" d="M521.77 267.144C516.77 267.144 490.803 265.838 488.806 265.738L486.808 265.637" stroke="#1E73BE"/>
+			<path class="remote-choice" d="M151 337C157.932 337 190.924 321.4 193.462 320.2L196 319" stroke="#7271C9"/>
+			<path class="partial" d="M173 132C181.486 132 205.5 129 232.771 141.538L235 143" stroke="#D761B6"/>
+			<path class="onsite-required" d="M226.5 72.5C232.42 72.5 248.5 77.5 270.5 99.5L283.5 114.5" stroke="#FF6478"/>
+			<path class="onsite-choice" d="M331 47C325.49 47 323.332 98.267 323.166 102.134L323 106" stroke="#FF8541"/>
+		</g>
+		<g class="value-labels">
+			<text class="remote-required"><tspan x="536.023" y="254.582">Remote</tspan><tspan x="527.188" y="272.582">(required)</tspan><tspan x="542.656" y="290.582">51.6%</tspan></text>
+			<text class="remote-choice"><tspan x="86.0234" y="324.582">Remote</tspan><tspan x="85.0547" y="342.582">(choice)</tspan><tspan x="91.4453" y="360.582">33.6%</tspan></text>
+			<text class="partial"><tspan x="118.375" y="128.582">Partial</tspan><tspan x="124" y="146.582">6.8%</tspan></text>
+			<text class="onsite-required"><tspan x="160.383" y="57.582">Onsite</tspan><tspan x="147.188" y="75.582">(required)</tspan><tspan x="166.047" y="93.582">5.6%</tspan></text>
+			<text class="onsite-choice"><tspan x="340.383" y="33.582">Onsite</tspan><tspan x="335.055" y="51.582">(choice)</tspan><tspan x="345.836" y="69.582">2.4%</tspan></text>
+		</g>
+	</g>
+</svg>

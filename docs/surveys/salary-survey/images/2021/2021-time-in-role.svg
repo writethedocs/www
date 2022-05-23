@@ -1,0 +1,80 @@
+<svg viewBox="0 45 660 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style type="text/css">
+			<![CDATA[
+				@import url('/_static/css/survey-2021-svg.css'); 
+			]]>
+		</style>
+		<linearGradient id="paint0_linear_90_290" x1="124.349" y1="49.2059" x2="124.349" y2="422.801" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint1_linear_90_290" x1="242.355" y1="211.353" x2="242.355" y2="422.801" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint2_linear_90_290" x1="360.902" y1="48.1103" x2="360.902" y2="422.801" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint3_linear_90_290" x1="479.45" y1="271.61" x2="479.45" y2="422.802" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint4_linear_90_290" x1="597.456" y1="355.971" x2="597.456" y2="422.801" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+	</defs>
+	<title>Time in current role (2021)</title>
+  <desc>Bar chart showing time in current role - with 31.7% of respondents reporting less than 1 year, 18% between 1 and 2 years, 31.8% between 2 and 5 years, 12.8% between 5 and 10 years, and 5.7% with more than 10 years</desc>
+	<g class="bar-chart">
+		<g class="x-axis">
+			<g class="axis-lines">
+				<path d="M64.8048 422.254H657"/>
+				<path d="M64.8048 363.092H657"/>
+				<path d="M64.8048 305.026H657"/>
+				<path d="M64.8048 245.864H657"/>
+				<path d="M64.8048 186.702H657"/>
+				<path d="M64.8048 127.54H657"/>
+				<path d="M64.8048 69.4742H657"/>
+			</g>
+			<g class="axis-label">
+				<text transform="translate(64 470)"><tspan x="224.172" y="17.082">Years in current role</tspan></text>
+			</g>
+			<g class="axis-values">
+				<text><tspan x="112.651" y="444.053">0-1</tspan></text>
+				<text><tspan x="230.809" y="444.053">1-2</tspan></text>
+				<text><tspan x="348.871" y="444.053">2-5</tspan></text>
+				<text><tspan x="464.411" y="444.053">5-10</tspan></text>
+				<text><tspan x="584.086" y="444.053">10+</tspan></text>
+			</g>
+		</g>
+		<g class="y-axis">
+			<g class="axis-label">
+				<text transform="translate(0 416) rotate(-90)"><tspan x="142.562" y="14.582">Respondents (%)</tspan></text>
+			</g>
+			<g class="axis-values">
+				<text><tspan x="43.5709" y="426.523">0</tspan></text>
+				<text><tspan x="45.591" y="367.361">5</tspan></text>
+				<text><tspan x="38.1845" y="309.295">10</tspan></text>
+				<text><tspan x="38.2047" y="250.134">15</tspan></text>
+				<text><tspan x="35.9646" y="190.972">20</tspan></text>
+				<text><tspan x="35.9847" y="131.81">25</tspan></text>
+				<text><tspan x="35.9959" y="73.7438">30</tspan></text>
+			</g>
+		</g>
+		<g class="data">
+			<path d="M174.15 49.2059H74.5485V422.801H174.15V49.2059Z" fill="#1E73BE"/>
+			<path d="M174.15 49.2059H74.5485V422.801H174.15V49.2059Z" fill="url(#paint0_linear_90_290)" fill-opacity="0.1"/>
+			<path d="M292.156 211.353H192.554V422.801H292.156V211.353Z" fill="#1E73BE"/>
+			<path d="M292.156 211.353H192.554V422.801H292.156V211.353Z" fill="url(#paint1_linear_90_290)" fill-opacity="0.1"/>
+			<path d="M410.162 48.1103H311.643V422.801H410.162V48.1103Z" fill="#1E73BE"/>
+			<path d="M410.162 48.1103H311.643V422.801H410.162V48.1103Z" fill="url(#paint2_linear_90_290)" fill-opacity="0.1"/>
+			<path d="M529.25 271.61H429.649V422.802H529.25V271.61Z" fill="#1E73BE"/>
+			<path d="M529.25 271.61H429.649V422.802H529.25V271.61Z" fill="url(#paint3_linear_90_290)" fill-opacity="0.1"/>
+			<path d="M647.256 355.971H547.655V422.801H647.256V355.971Z" fill="#1E73BE"/>
+			<path d="M647.256 355.971H547.655V422.801H647.256V355.971Z" fill="url(#paint4_linear_90_290)" fill-opacity="0.1"/>
+		</g>
+	</g>
+</svg>
