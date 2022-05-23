@@ -5,7 +5,7 @@ The following questions and answers cover some situations that you might
 encounter when you want to `start a meetup <https://www.writethedocs.org/organizer-guide/meetups/starting/>`_.
 
 Does Write the Docs cover the Meetup.com fees?
----------------------------------------------
+----------------------------------------------
 
 Yes! We can cover the website fees for active meetups, or for new meetups on a trial-period basis.
 
