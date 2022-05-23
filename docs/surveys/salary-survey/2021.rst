@@ -56,6 +56,8 @@ In this section, we asked about the parameters of the respondent’s employment:
 
    1. What is the basis of your employment?
 
+      As employees and independent contractors filled out separate survey forms this year, employees were offered only the first two options, and contractors only the second two. 
+
       - I am an employee
       - I was an employee, but am not currently employed
       - I am an independent contractor, freelance operator, or self-employed
@@ -1311,8 +1313,8 @@ In contrast, when asked to specify what they felt positive about in their jobs, 
 - pride in the quality of the work produced
 - positive impact (“doing good in the world”) 
 
-3.7 Salary – independent contractors, freelancers and self-employed
--------------------------------------------------------------------
+3.7 Salary – contractors
+------------------------
 
 .. container:: question
    
@@ -1333,7 +1335,7 @@ In contrast, when asked to specify what they felt positive about in their jobs, 
 
       You've indicated that you use a fee structure other than an hourly or daily rate. To make it possible for us to compare rates for contractors and freelance operators, we would appreciate if you could estimate the equivalent hourly or daily rate for your alternative fee structure.
 
-In 2021, we received submissions from 72 independent contractor, freelancer or self-employed respondents (hereinafter referred to as “contractors” for simplicity) – 7.5% of the total number of survey respondents. Although this represents an increase over the number of contractor submissions in 2019 and 2020, the low number makes it difficult to extract meaningful region, country or role-related median rate information without compromising the privacy of individuals in our community.
+In 2021, we received submissions from 72 independent contractor, freelancer or self-employed respondents – 7.5% of the total number of survey respondents. Although this represents an increase over the number of contractor submissions in 2019 and 2020, the low number makes it difficult to extract meaningful region, country or role-related median rate information without compromising the privacy of individuals in our community.
 
 73.6% of contractors bill their clients using an hourly rate fee structure, whereas 16.7% bill using a day rate fee structure, and only 3 individuals use both. 16.6% indicated that they used a different fee structure either instead of or in addition to the hourly rate or day rate – the majority of those specified a monthly fee structure.
 
@@ -1359,12 +1361,12 @@ The overall median hourly rate was **USD $46** (from 55 respondents in 13 countr
    +-------------------------------------------------------------------------------------------+-----+--------------+
 
 Median day rate (USD) - contractors
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The overall median day rate was **USD $389** (from 20 respondents in 14 countries). Due to the low number of respondents entering a day rate, there is not enough data to allow us to publish regional medians without compromising the privacy of community members.  
 
-3.8 Salary/Rate satisfaction – independent contractors, freelancers and self-employed
--------------------------------------------------------------------------------------
+3.8 Salary/Rate satisfaction – contractors
+------------------------------------------
 
 .. container:: question
    
@@ -1438,8 +1440,8 @@ The overall median day rate was **USD $389** (from 20 respondents in 14 countrie
 - Over-qualified for available opportunities, or rate ceiling for region already reached
 - Self-discipline
 
-3.9 Overall satisfaction – independent contractors, freelancers and self-employed
----------------------------------------------------------------------------------
+3.9 Overall satisfaction – contractors
+--------------------------------------
 
 .. container:: question
    
@@ -1619,6 +1621,7 @@ Section 4: Organization demographics
 ====================================
 
 This section of the survey contained questions relating to the organization that the respondent worked for: the organization size, industry and main geographical location. 
+
 Contractors were asked to profile either their main client organization or the typical client organization they work for, at their discretion. 
 
 4.1 Organization size
@@ -1795,6 +1798,7 @@ The largest proportion of respondents chose Software Development (not industry-s
       Note: This is the primary location, headquarters or main location of the organization that you work for. If your organization operates in multiple countries independently, select "multi-national or global organization". The location where you live will be covered in Section 6.
 
 As in 2020, the United States accounted for 46.6% of all employer organizations – the largest group. Another 21.4% worked for a global or multinational organization. 
+
 The next best-represented country was Canada, with 5%, followed by Russia with 3.3%, Great Britain with 3%, Germany with 2.9%, Israel with 2.6% and Australia with 2%.
 
 .. table:: Organization location
@@ -1869,6 +1873,7 @@ This section collected demographic information on the respondent themselves. All
       - I'd rather not say
 
 The two largest-represented age groups (26-35 year olds and 36-45 year olds) combined formed 64.6% of the total number of respondents. 46-55 year olds made up 17.3% and 56-65 year olds another 9%.
+
 The youngest age bracket (18-25 year olds) made up 6.3%, and the oldest bracket – those 66 years old or more – came in at 1.6% or 15 individuals, which is 3 times the number of respondents in that bracket in 2020 (there were no respondents in this bracket in 2019). 13 respondents chose not to provide their age range. 
 
 .. raw:: html
