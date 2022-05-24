@@ -109,11 +109,9 @@ FAQ
 Why aren't you a non-profit?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* In order to achieve an official non-profit tax status, one must venture on a long and arduous journey with a high legal, bureaucratic, and financial investment. When we researched this we realized that frankly, whatever benefits we might get simply don't justify the costs.
-
-* The running costs of maintaining a non-profit status would require us to redirect money from the community to various accountants, lawyers, and administrative entities, rather than reinvest said money in operations that directly benefit the community. We do work with a bookkeeper to help us keep our taxes in order, but as an LLC, compliance is more simple and allows us to focus on what we can do directly for the community.
-
-* Non-profits are limited in how they can generate revenue, and as an open organization with community-focused operations, we can't afford the restriction. If we can't experiment with sustainable income models, we cannot evolve along with the community.
+* In order to achieve an official non-profit tax status, one must venture on a long journey with a high legal, bureaucratic, and financial investment. When we researched this we realized that frankly, whatever benefits we might get simply don't justify the costs.
+* The running costs of maintaining a non-profit status would require us to redirect money from the community to various accountants, lawyers, and administrative entities, rather than reinvest this money in operations that directly benefit the community. We do work with a bookkeeper to help us keep our taxes in order, but as an LLC, compliance is simpler and allows us to focus on what we can do directly for the community.
+* Non-profits are limited in how they can generate revenue, and as an open organization with community-focused operations it's better if we don't have these restrictions. If we can't experiment with sustainable income models, we cannot evolve along with the community.
 
 Why do you have a paid core team?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
