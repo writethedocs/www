@@ -1,0 +1,122 @@
+<svg height="100%" width="100%" viewBox="0 0 660 292" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    <linearGradient id="paint0_linear_42_130" x1="97.5472" y1="197.844" x2="97.5472" y2="238" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint1_linear_42_130" x1="162.925" y1="173.358" x2="162.925" y2="238" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint2_linear_42_130" x1="228.302" y1="34.2798" x2="228.302" y2="238" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint3_linear_42_130" x1="292.642" y1="0" x2="292.642" y2="238" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint4_linear_42_130" x1="358.538" y1="125.367" x2="358.538" y2="238" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint5_linear_42_130" x1="423.396" y1="165.523" x2="423.396" y2="238" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint6_linear_42_130" x1="487.736" y1="154.749" x2="487.736" y2="238" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint7_linear_42_130" x1="553.632" y1="192.947" x2="553.632" y2="238" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint8_linear_42_130" x1="618.491" y1="211.556" x2="618.491" y2="238" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+  </defs>
+  <title>Years of experience in documentation (2021)</title>
+  <desc>Bar chart showing respondent's years of experience in documentation: those with less than 1 year made up 4.4%; between 1 and 2 years made up 7.3%; between 2 and 5 years made up 22.8%; between 5 and 10 years made up 26.7%; between 10 and 15 years made up 12.5%; between 15 and 20 years made up 8.2%; between 20 and 25 years made up 9.4%; between 25 and 30 years made up 5%; more than 30 years made up 2.9%.</desc>
+  <g class="x-axis">
+    <g class="axis-values">
+			<text><tspan x="86.495" y="256.035">0-1</tspan></text>
+			<text><tspan x="152.05" y="256.035">1-2</tspan></text>
+			<text><tspan x="216.229" y="256.035">2-5</tspan></text>
+			<text><tspan x="278.933" y="256.035">5-10</tspan></text>
+			<text><tspan x="342.333" y="256.035">10-15</tspan></text>
+			<text><tspan x="406.854" y="256.035">15-20</tspan></text>
+			<text><tspan x="470.855" y="256.035">20-25</tspan></text>
+			<text><tspan x="536.258" y="256.035">25-30</tspan></text>
+			<text><tspan x="607.968" y="256.035">30+</tspan></text>
+		</g>
+    <g class="axis-label">
+			<text transform="translate(57.0755 268)"><tspan x="241.908" y="17.582">Years experience</tspan></text>
+    </g>    
+  </g>
+	<g class="y-axis">
+		<g class="axis-values">
+			<text><tspan x="38.1634" y="242.035">0</tspan></text>
+			<text><tspan x="39.9225" y="196.035">5</tspan></text>
+			<text><tspan x="32.0716" y="151.035">10</tspan></text>
+			<text><tspan x="33.8306" y="105.035">15</tspan></text>
+			<text><tspan x="30.3371" y="60.0354">20</tspan></text>
+			<text><tspan x="32.0961" y="14.0354">25</tspan></text>
+		</g>
+		<g class="axis-lines">
+      <path d="M57.3542 238.5H659.999"/>
+			<path d="M57.3542 193.5H659.999"/>
+			<path d="M57.3542 147.5H659.999"/>
+			<path d="M57.3542 102.5H659.999"/>
+			<path d="M57.3542 56.5H659.999"/>
+			<path d="M57.3542 11.5H659.999"/>
+    </g>
+    <g class="axis-label">
+			<text transform="translate(3.05176e-05 239) rotate(-90)"><tspan x="58.0625" y="14.582">Respondents (%)</tspan></text>
+    </g>  
+	</g>
+  <g class="data">
+		<g class="bar">
+			<path d="M124.528 197.844H70.566V238H124.528V197.844Z" fill="#1E73BE"/>
+			<path d="M124.528 197.844H70.566V238H124.528V197.844Z" fill="url(#paint0_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g class="bar">
+			<path d="M190.943 173.358H134.906V238H190.943V173.358Z" fill="#1E73BE"/>
+			<path d="M190.943 173.358H134.906V238H190.943V173.358Z" fill="url(#paint1_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g class="bar">
+			<path d="M255.283 34.2798H201.321V238H255.283V34.2798Z" fill="#1E73BE"/>
+			<path d="M255.283 34.2798H201.321V238H255.283V34.2798Z" fill="url(#paint2_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g class="bar">
+			<path d="M319.623 0H265.66V238H319.623V0Z" fill="#1E73BE"/>
+			<path d="M319.623 0H265.66V238H319.623V0Z" fill="url(#paint3_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g class="bar">
+			<path d="M386.038 125.367H331.038V238H386.038V125.367Z" fill="#1E73BE"/>
+			<path d="M386.038 125.367H331.038V238H386.038V125.367Z" fill="url(#paint4_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g class="bar">
+			<path d="M450.377 165.523H396.415V238H450.377V165.523Z" fill="#1E73BE"/>
+			<path d="M450.377 165.523H396.415V238H450.377V165.523Z" fill="url(#paint5_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g class="bar">
+			<path d="M514.717 154.749H460.755V238H514.717V154.749Z" fill="#1E73BE"/>
+			<path d="M514.717 154.749H460.755V238H514.717V154.749Z" fill="url(#paint6_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g class="bar">
+			<path d="M581.132 192.947H526.132V238H581.132V192.947Z" fill="#1E73BE"/>
+			<path d="M581.132 192.947H526.132V238H581.132V192.947Z" fill="url(#paint7_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g class="bar">
+			<path d="M645.472 211.556H591.509V238H645.472V211.556Z" fill="#1E73BE"/>
+			<path d="M645.472 211.556H591.509V238H645.472V211.556Z" fill="url(#paint8_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+	</g>
+</svg>
