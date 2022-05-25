@@ -28,10 +28,10 @@ buttons:
     #   link: /news/announcing-virtual-conf-dates-tickets
     # - text: Read our conference guide
     #   link: /welcome-wagon
-    - text: See the Schedule!
-      link: /schedule
-    - text: Buy a Ticket!
-      link: /tickets
+    # - text: See the Schedule!
+    #   link: /schedule
+    # - text: Buy a Ticket!
+    #   link: /tickets
     #- text: See the talks!
     #   link: /speakers
 #    - text: See the Schedule!
@@ -47,8 +47,8 @@ buttons:
   bottom:
     # - text: Welcome to our conference
     #   link: /news/welcome
-    - text: Sponsor the conference
-      link: /sponsors/prospectus
+    # - text: Sponsor the conference
+    #   link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
     # - text: See the Schedule!
@@ -57,8 +57,8 @@ buttons:
     #   link: /news/announcing-virtual-conf-dates-tickets
     # - text: See the talks!
     #   link: /speakers
-    - text: Buy a Ticket!
-      link: /tickets
+    # - text: Buy a Ticket!
+    #   link: /tickets
 #    - text: Read our guide
 #      link: /welcome-wagon
 #    - text: See the schedule!
