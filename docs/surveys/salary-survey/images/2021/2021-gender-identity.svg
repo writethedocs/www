@@ -1,0 +1,38 @@
+<svg width="100%" height="100%" viewBox="0 0 660 410" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    <radialGradient id="paint0_radial_75_112" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(341 230) scale(150)">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</radialGradient>
+  </defs>
+  <title>Respondent gender identity (2021)</title>
+  <desc>Donut chart showing respondent gender identity: 57.5% most identify as women, 38% as men, 2.3% as non-binary or other; and 2.2% chose not to specify.</desc>
+	<g class="donut-chart">
+		<g class="data">
+			<path class="woman" d="M340.969 80C363.64 79.9954 386.018 85.1299 406.42 95.0177C426.821 104.905 444.716 119.289 458.759 137.088C472.802 154.886 482.628 175.636 487.498 197.779C492.369 219.921 492.156 242.879 486.877 264.927C481.598 286.976 471.39 307.541 457.02 325.076C442.65 342.612 424.493 356.662 403.911 366.171C383.33 375.679 360.862 380.399 338.194 379.975C315.527 379.551 293.25 373.994 273.039 363.723L313.815 283.489C321.9 287.598 330.81 289.821 339.877 289.99C348.944 290.16 357.932 288.272 366.164 284.469C374.397 280.665 381.66 275.045 387.408 268.031C393.156 261.017 397.239 252.791 399.351 243.971C401.462 235.152 401.547 225.969 399.599 217.112C397.651 208.255 393.721 199.955 388.103 192.835C382.486 185.716 375.328 179.963 367.168 176.007C359.007 172.052 350.056 169.999 340.987 170L340.969 80Z" fill="#1E73BE" stroke="white"/>
+			<path class="man" d="M272.907 363.655C246.122 350.008 224.055 328.629 209.568 302.289C195.081 275.949 188.842 245.864 191.661 215.935C194.48 186.007 206.226 157.616 225.376 134.444C244.526 111.272 270.197 94.3884 299.059 85.9831L324.224 172.394C312.679 175.756 302.411 182.509 294.751 191.778C287.091 201.047 282.392 212.403 281.265 224.375C280.137 236.346 282.633 248.38 288.428 258.916C294.222 269.452 303.049 278.004 313.763 283.462L272.907 363.655Z" fill="#C066C0" stroke="white"/>
+			<path class="non-binary" d="M299.203 85.9412C306.073 83.948 313.076 82.4487 320.16 81.4549L332.665 170.582C329.831 170.98 327.03 171.58 324.282 172.377L299.203 85.9412Z" fill="#FF6478" stroke="white"/>
+			<path class="unspecified" d="M320.309 81.4341C327.096 80.4887 333.94 80.0096 340.792 80.0001L340.917 170C338.176 170.004 335.439 170.196 332.724 170.574L320.309 81.4341Z" fill="#FFA600" stroke="white"/>
+			<g class="gradient-overlay" style="mix-blend-mode:color-burn" opacity="0.5">
+				<path d="M491 230C491 312.843 423.843 380 341 380C258.157 380 191 312.843 191 230C191 147.157 258.157 80 341 80C423.843 80 491 147.157 491 230Z" fill="url(#paint0_radial_75_112)" fill-opacity="0.25" style="mix-blend-mode:multiply"/>
+			</g>
+		</g>
+		<g class="connectors">
+			<path class="woman" d="M523 324.5C498.329 325.997 469.972 308.733 469 308.5" stroke="#1E73BE"/>
+			<path class="man" d="M139.5 276.5C156 277.5 193.004 260.906 194 261" stroke="#C066C0"/>
+			<path class="non-binary" d="M260.5 52.5C296 52.5 308.291 80.5221 308.5 81.5" stroke="#FF6478"/>
+			<path class="unspecified" d="M357.5 37C332 46.5 331.07 78.0024 331 79" stroke="#FFA600"/>			
+		</g>
+		<g class="value-labels">
+			<text class="woman"><tspan x="523.078" y="319.582">Woman</tspan><tspan x="529.531" y="337.582">57.5%</tspan></text>
+			<text class="man"><tspan x="100.32" y="271.582">Man</tspan><tspan x="100.773" y="289.582">38%</tspan></text>
+			<text class="non-binary"><tspan x="183.273" y="39.582">Non-binary/</tspan><tspan x="209.117" y="57.582">other</tspan><tspan x="210.445" y="75.582">2.3%</tspan></text>
+			<text class="unspecified"><tspan x="358.352" y="30.582">Not specified</tspan><tspan x="386.914" y="48.582">2.2%</tspan></text>	
+		</g>
+	</g>
+</svg>

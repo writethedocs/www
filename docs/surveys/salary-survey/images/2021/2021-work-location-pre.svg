@@ -1,0 +1,41 @@
+<svg width="100%" height="100%" viewBox="0 0 660 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    <radialGradient id="paint0_radial_75_112" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(330 265) scale(150)">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</radialGradient>
+  </defs>
+  <title>Work location - pre-COVID-19 (2021)</title>
+  <desc>Donut chart showing work location prior to COVID-19: 52.3% were required to be onsite; 22.7% were partially onsite and partially remote; 15.1% were onsite by choice; 5.6% were required to be remote; 4.3% were remote by choice.</desc>
+	<g class="donut-chart">
+		<g class="data">
+			<path class="onsite-required" d="M329.97 115C350.573 114.996 370.957 119.236 389.85 127.457C408.742 135.678 425.738 147.703 439.779 162.781C453.819 177.86 464.603 195.67 471.457 215.1C478.311 234.531 481.089 255.164 479.617 275.715C478.145 296.266 472.455 316.294 462.902 334.549C453.349 352.804 440.137 368.895 424.091 381.819C408.045 394.743 389.508 404.223 369.637 409.667C349.766 415.112 328.986 416.404 308.593 413.464L321.438 324.385C329.595 325.561 337.907 325.044 345.855 322.867C353.804 320.689 361.218 316.897 367.637 311.727C374.055 306.558 379.34 300.121 383.161 292.819C386.982 285.517 389.258 277.506 389.847 269.286C390.436 261.065 389.325 252.812 386.583 245.04C383.841 237.268 379.528 230.144 373.912 224.112C368.296 218.081 361.497 213.271 353.94 209.983C346.383 206.694 338.23 204.998 329.988 205L329.97 115Z" fill="#1E73BE" stroke="white" stroke-width="2"/>
+			<path class="partial" d="M308.444 413.442C272.786 408.264 240.183 390.423 216.598 363.182C193.012 335.941 180.021 301.121 180 265.088L270 265.035C270.008 279.448 275.205 293.376 284.639 304.273C294.073 315.169 307.114 322.305 321.377 324.377L308.444 413.442Z" fill="#7271C9" stroke="white" stroke-width="2"/>
+			<path class="onsite-choice" d="M180 264.938C180.01 241.152 185.676 217.71 196.531 196.545C207.386 175.38 223.119 157.1 242.431 143.214L294.972 216.285C287.247 221.84 280.954 229.152 276.612 237.618C272.27 246.084 270.004 255.461 270 264.975L180 264.938Z" fill="#D761B6" stroke="white" stroke-width="2"/>
+			<path class="remote-required" d="M242.553 143.127C256.849 132.869 272.838 125.207 289.789 120.49L313.915 207.196C307.134 209.082 300.739 212.147 295.021 216.25L242.553 143.127Z" fill="#FF6478" stroke="white" stroke-width="2"/>
+			<path class="remote-choice" d="M289.934 120.45C302.915 116.852 316.321 115.019 329.792 115L329.917 205C324.528 205.007 319.166 205.74 313.974 207.18L289.934 120.45Z" fill="#FF8541" stroke="white" stroke-width="2"/>
+			<g class="gradient-overlay" style="mix-blend-mode:color-burn" opacity="0.5">
+				<path d="M480 265C480 347.843 412.843 415 330 415C247.157 415 180 347.843 180 265C180 182.157 247.157 115 330 115C412.843 115 480 182.157 480 265Z" fill="url(#paint0_radial_75_112)" fill-opacity="0.25" style="mix-blend-mode:multiply"/>
+			</g>
+		</g>
+		<g class="connectors">
+			<path class="onsite-required" d="M552 268C541.691 268 488.226 261.933 484.113 261.467L480 261" stroke="#1E73BE"/>
+			<path class="partial" d="M144 404C156.279 404 204.571 364.133 208.285 361.067L212 358" stroke="#7271C9"/>
+			<path class="onsite-choice" d="M134 149C176.245 151.506 198.724 179.395 203 182" stroke="#D761B6"/>
+			<path class="remote-required" d="M214 50C250.861 62.5561 262.025 123.313 265 128" stroke="#FF6478"/>
+			<path class="remote-choice" d="M354 50C333.85 54.8465 305.639 95.3289 308.158 115" stroke="#FF8541"/>
+		</g>
+		<g class="value-labels">
+			<text class="partial"><tspan x="83.375" y="403.582">Partial</tspan><tspan x="85.0938" y="421.582">22.7%</tspan></text>
+			<text class="onsite-choice"><tspan x="74.3828" y="142.582">Onsite</tspan><tspan x="69.0547" y="160.582">(choice)</tspan><tspan x="77.7969" y="178.582">15.1%</tspan></text>
+			<text class="remote-required"><tspan x="141.023" y="37.582">Remote</tspan><tspan x="132.188" y="55.582">(required)</tspan><tspan x="151.047" y="73.582">5.6%</tspan></text>
+			<text class="remote-choice"><tspan x="366.023" y="34.582">Remote</tspan><tspan x="365.055" y="52.582">(choice)</tspan><tspan x="375.867" y="70.582">4.3%</tspan></text>
+			<text class="onsite-required"><tspan x="571.383" y="260.582">Onsite</tspan><tspan x="558.188" y="278.582">(required)</tspan><tspan x="572.719" y="296.582">52.3%</tspan></text>
+		</g>
+	</g>
+</svg>

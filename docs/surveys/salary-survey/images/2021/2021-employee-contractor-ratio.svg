@@ -1,0 +1,104 @@
+<svg height="100%" width="100%" viewBox="0 0 660 660" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+        .series_a{fill:#1E73BE}
+        .series_b{fill:#FFA600}
+      ]]>
+    </style>
+    <linearGradient id="paint0_linear_13_171" x1="138.5" y1="193" x2="138.5" y2="535" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear_13_171" x1="337" y1="116" x2="337" y2="535" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear_13_171" x1="535.5" y1="40" x2="535.5" y2="535" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint3_linear_13_171" x1="138.5" y1="173" x2="138.5" y2="191" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint4_linear_13_171" x1="337" y1="86" x2="337" y2="114" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="paint5_linear_13_171" x1="535.5" y1="0" x2="535.5" y2="38" gradientUnits="userSpaceOnUse">
+      <stop stop-opacity="0"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <title>Total survey growth in number of employee and contractor respondents, 2019-2021</title>
+  <desc>Stacked bar chart of total respondents (with employees and contractors as separate series) showing the growth of the survey over the three years it has been running</desc>
+    <svg id="chart" x="0" y="0" width="660" height="620" viewbox="0 0 660 620">
+      <svg width="100%" height="100%" viewBox="0 0 636 559">
+        <g class="x-axis">
+          <g class="axis-lines">
+            <path d="M40.5 535H635.5"/>
+            <path d="M40.5 479H635.5"/>
+            <path d="M40.5 423H635.5"/>
+            <path d="M40.5 368H635.5"/>
+            <path d="M40.5 312H635.5"/>
+            <path d="M40.5 256H635.5"/>
+            <path d="M40.5 200H635.5"/>
+            <path d="M40.5 144H635.5"/>
+            <path d="M40.5 88H635.5"/>
+            <path d="M40.5 33H635.5"/>
+          </g>
+          <g class="axis-values">
+            <text><tspan x="122.315" y="555.582">2019</tspan></text>
+            <text><tspan x="319.234" y="555.582">2020</tspan></text>
+            <text><tspan x="519.044" y="555.582">2021</tspan></text>
+          </g>
+        </g>
+        <g class="y-axis">
+          <g class="axis-values">
+            <text><tspan x="20.6719" y="538.582">0</tspan></text>
+            <text><tspan x="3.96875" y="482.582">100</tspan></text>
+            <text><tspan x="1.90625" y="426.582">200</tspan></text>
+            <text><tspan x="2.01562" y="371.582">300</tspan></text>
+            <text><tspan x="1.79688" y="315.582">400</tspan></text>
+            <text><tspan x="2.39062" y="259.582">500</tspan></text>
+            <text><tspan x="1.78125" y="203.582">600</tspan></text>
+            <text><tspan x="2.79688" y="147.582">700</tspan></text>
+            <text><tspan x="1.29688" y="91.582">800</tspan></text>
+            <text><tspan x="1.78125" y="36.582">900</tspan></text>
+          </g>
+        </g>
+        <g class="data">
+          <g class="series_a">
+            <path d="M221.5 193H55.5V535H221.5V193Z" />
+            <path d="M221.5 193H55.5V535H221.5V193Z" fill="url(#paint0_linear_13_171)" fill-opacity="0.1"/>
+            <path d="M420.5 116H253.5V535H420.5V116Z" />
+            <path d="M420.5 116H253.5V535H420.5V116Z" fill="url(#paint1_linear_13_171)" fill-opacity="0.1"/>
+            <path d="M618.5 40H452.5V535H618.5V40Z" />
+            <path d="M618.5 40H452.5V535H618.5V40Z" fill="url(#paint2_linear_13_171)" fill-opacity="0.1"/>
+          </g>
+          <g class="series_b">
+            <path d="M221.5 173H55.5V191H221.5V173Z" />
+            <path d="M221.5 173H55.5V191H221.5V173Z" fill="url(#paint3_linear_13_171)" fill-opacity="0.1"/>
+            <path d="M420.5 86H253.5V114H420.5V86Z" />
+            <path d="M420.5 86H253.5V114H420.5V86Z" fill="url(#paint4_linear_13_171)" fill-opacity="0.1"/>
+            <path d="M618.5 0H452.5V38H618.5V0Z" />
+            <path d="M618.5 0H452.5V38H618.5V0Z" fill="url(#paint5_linear_13_171)" fill-opacity="0.1"/>
+          </g>
+        </g>
+      </svg>
+    </svg>
+    <svg id="legend" x="10" y="620" width="640" height="30" style="overflow:visible" viewBox="0 0 640 30">
+      <g class="legend">
+        <svg x="32%" y="0" width="30%" height="100%" viewbox="0 0 100% 100%">
+          <ellipse cx="15" cy="15" rx="8" ry="8" class="series_a" />
+          <text><tspan x="30" y="21">Employees</tspan></text>
+        </svg>
+        <svg x="55%" y="0" width="30%" height="100%" viewbox="0 0 100% 100%">
+          <ellipse cx="15" cy="15" rx="8" ry="8" class="series_b" />
+          <text><tspan x="30" y="21">Contractors</tspan></text>
+        </svg>
+      </g>
+    </svg>
+</svg>

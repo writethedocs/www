@@ -1,0 +1,35 @@
+<svg width="100%" height="100%" viewBox="0 0 660 410" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    <radialGradient id="paint0_radial_75_112" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(341 235) scale(150)">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</radialGradient>
+  </defs>
+  <title>Overall job satisfaction - employees (2021)</title>
+  <desc>Donut chart showing reported overall job satisfaction by employee respondents: 75.9% felt satisfied; 12.5% felt neutral; 8.9% felt unsatisfied.</desc>
+	<g class="donut-chart">
+		<g class="data">
+			<path class="satisfied" d="M340.969 85C370.992 84.9939 400.325 93.997 425.175 110.845C450.025 127.692 469.247 151.609 480.355 179.501C491.463 207.393 493.946 237.977 487.482 267.295C481.018 296.613 465.905 323.318 444.098 343.953C422.291 364.588 394.794 378.204 365.164 383.041C335.533 387.877 305.133 383.711 277.897 371.081C250.66 358.451 227.84 337.938 212.389 312.197C196.939 286.455 189.568 256.67 191.23 226.693L281.092 231.677C280.427 243.668 283.375 255.582 289.556 265.879C295.736 276.175 304.864 284.38 315.759 289.432C326.653 294.484 338.813 296.151 350.666 294.216C362.518 292.282 373.517 286.835 382.239 278.581C390.962 270.327 397.007 259.645 399.593 247.918C402.178 236.191 401.185 223.957 396.742 212.8C392.299 201.644 384.61 192.077 374.67 185.338C364.73 178.599 352.997 174.998 340.988 175L340.969 85Z" fill="#1E73BE" stroke="white"/>
+			<path class="neutral" d="M191.239 226.543C192.59 202.618 199.654 179.364 211.839 158.729C224.024 138.095 240.975 120.68 261.273 107.943L309.11 184.177C300.99 189.272 294.21 196.238 289.336 204.492C284.462 212.746 281.636 222.047 281.096 231.617L191.239 226.543Z" fill="#F35DA3" stroke="white"/>
+			<path class="unsatisfied" d="M261.4 107.863C285.202 92.9607 312.709 85.0392 340.792 85.0002L340.917 175C329.684 175.016 318.681 178.184 309.16 184.145L261.4 107.863Z" fill="#FFA600" stroke="white"/>
+			<g class="gradient-overlay" style="mix-blend-mode:color-burn" opacity="0.5">
+				<path d="M491 235C491 317.843 423.843 385 341 385C258.157 385 191 317.843 191 235C191 152.157 258.157 85 341 85C423.843 85 491 152.157 491 235Z" fill="url(#paint0_radial_75_112)" fill-opacity="0.25" style="mix-blend-mode:multiply"/>
+			</g>
+		</g>
+		<g class="connectors">
+			<path class="satisfied" d="M502 376C488.212 376 449.394 343.504 447.5 341.5" stroke="#1E73BE"/>
+			<path class="neutral" d="M150.5 139.5C164.288 139.5 196.091 154.109 211 159.5" stroke="#F35DA3"/>
+			<path class="unsatisfied" d="M288 38C301.788 38 310.239 84.8495 311 87.5" stroke="#FFA600"/>
+		</g>
+		<g class="value-labels">
+			<text class="satisfied"><tspan x="505.281" y="366.582">Satisfied</tspan><tspan x="513.727" y="384.582">75.9%</tspan></text>
+			<text class="neutral"><tspan x="94.0234" y="131.582">Neutral</tspan><tspan x="100.242" y="149.582">15.2%</tspan></text>
+			<text class="unsatisfied"><tspan x="208.031" y="27.582">Unsatisfied</tspan><tspan x="230" y="45.582">8.9%</tspan></text>
+		</g>
+	</g>
+</svg>

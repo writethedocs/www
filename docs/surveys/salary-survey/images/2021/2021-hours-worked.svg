@@ -1,0 +1,110 @@
+<svg width="660" height="400" viewBox="0 0 660 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+		<linearGradient id="paint0_linear_25_633" x1="230.351" y1="376.238" x2="230.351" y2="397.97" gradientUnits="userSpaceOnUse">
+		<stop stop-opacity="0"/>
+		<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint1_linear_25_633" x1="357.515" y1="376.238" x2="357.515" y2="397.97" gradientUnits="userSpaceOnUse">
+		<stop stop-opacity="0"/>
+		<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint2_linear_25_633" x1="83.7344" y1="9.50783" x2="83.7344" y2="51.6139" gradientUnits="userSpaceOnUse">
+		<stop stop-opacity="0"/>
+		<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint3_linear_25_633" x1="86.451" y1="70.6295" x2="86.451" y2="112.736" gradientUnits="userSpaceOnUse">
+		<stop stop-opacity="0"/>
+		<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint4_linear_25_633" x1="317.355" y1="133.109" x2="317.355" y2="173.857" gradientUnits="userSpaceOnUse">
+		<stop stop-opacity="0"/>
+		<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint5_linear_25_633" x1="210.732" y1="194.231" x2="210.732" y2="236.337" gradientUnits="userSpaceOnUse">
+		<stop stop-opacity="0"/>
+		<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint6_linear_25_633" x1="89.8466" y1="255.353" x2="89.8466" y2="297.459" gradientUnits="userSpaceOnUse">
+		<stop stop-opacity="0"/>
+		<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint7_linear_25_633" x1="92.5631" y1="9.50783" x2="92.5631" y2="51.6139" gradientUnits="userSpaceOnUse">
+		<stop stop-opacity="0"/>
+		<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint8_linear_25_633" x1="95.9588" y1="70.6295" x2="95.9588" y2="112.736" gradientUnits="userSpaceOnUse">
+		<stop stop-opacity="0"/>
+		<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint9_linear_25_633" x1="573.387" y1="133.109" x2="573.387" y2="173.857" gradientUnits="userSpaceOnUse">
+		<stop stop-opacity="0"/>
+		<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint10_linear_25_633" x1="343.162" y1="194.231" x2="343.162" y2="236.337" gradientUnits="userSpaceOnUse">
+		<stop stop-opacity="0"/>
+		<stop offset="1"/>
+		</linearGradient>
+	</defs>
+	<title>Weekly hours worked, employees and contractors (2021)</title>
+  <desc>Stacked bar chart showing weekly hours worked by employee and contractor respondents.</desc>
+	<svg width="100%" height="100%" viewBox="0 0 660 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<g class="axis-lines">
+			<path d="M81.018 0V306.967" />
+			<path d="M166.588 0V306.967" />
+			<path d="M252.159 0V306.967" />
+			<path d="M337.729 0V306.967" />
+			<path d="M423.299 0V306.967" />
+			<path d="M508.87 0V306.967" />
+			<path d="M594.44 0V306.967" />
+			<path d="M82.1077 307.978H594.877" />
+		</g>
+		<g class="axis-label">
+			<text transform="translate(0.581795 242.985) rotate(-90)"><tspan x="0" y="14.582">Hours worked (weekly)</tspan></text>
+			<text><tspan x="42.023" y="32.4093">1-20</tspan></text>
+			<text><tspan x="35.0732" y="93.531">21-30</tspan></text>
+			<text><tspan x="35.0397" y="154.653">31-40</tspan></text>
+			<text><tspan x="35.3444" y="215.774">41-50</tspan></text>
+			<text><tspan x="25.9237" y="276.896">51-60+</tspan></text>
+			<text><tspan x="77.2284" y="329.868">0</tspan></text>
+			<text><tspan x="156.413" y="329.868">100</tspan></text>
+			<text><tspan x="241.127" y="329.868">200</tspan></text>
+			<text><tspan x="326.044" y="329.868">300</tspan></text>
+			<text><tspan x="412.204" y="329.868">400</tspan></text>
+			<text><tspan x="497.337" y="329.868">500</tspan></text>
+			<text><tspan x="583.338" y="329.868">600</tspan></text>
+		</g>
+		<g class="legend">
+			<path d="M219.485 387.104C219.485 389.986 220.63 392.75 222.668 394.787C224.706 396.825 227.469 397.97 230.351 397.97C233.233 397.97 235.997 396.825 238.035 394.787C240.073 392.75 241.217 389.986 241.217 387.104C241.217 384.222 240.073 381.458 238.035 379.421C235.997 377.383 233.233 376.238 230.351 376.238C227.469 376.238 224.706 377.383 222.668 379.421C220.63 381.458 219.485 384.222 219.485 387.104" fill="#1E73BE"/>
+			<path d="M219.485 387.104C219.485 389.986 220.63 392.75 222.668 394.787C224.706 396.825 227.469 397.97 230.351 397.97C233.233 397.97 235.997 396.825 238.035 394.787C240.073 392.75 241.217 389.986 241.217 387.104C241.217 384.222 240.073 381.458 238.035 379.421C235.997 377.383 233.233 376.238 230.351 376.238C227.469 376.238 224.706 377.383 222.668 379.421C220.63 381.458 219.485 384.222 219.485 387.104" fill="url(#paint0_linear_25_633)" fill-opacity="0.1"/>
+			<path d="M346.649 387.104C346.649 389.986 347.794 392.75 349.832 394.787C351.87 396.825 354.633 397.97 357.515 397.97C360.397 397.97 363.161 396.825 365.199 394.787C367.237 392.75 368.381 389.986 368.381 387.104C368.381 384.222 367.237 381.458 365.199 379.421C363.161 377.383 360.397 376.238 357.515 376.238C354.633 376.238 351.87 377.383 349.832 379.421C347.794 381.458 346.649 384.222 346.649 387.104" fill="#FFA600"/>
+			<path d="M346.649 387.104C346.649 389.986 347.794 392.75 349.832 394.787C351.87 396.825 354.633 397.97 357.515 397.97C360.397 397.97 363.161 396.825 365.199 394.787C367.237 392.75 368.381 389.986 368.381 387.104C368.381 384.222 367.237 381.458 365.199 379.421C363.161 377.383 360.397 376.238 357.515 376.238C354.633 376.238 351.87 377.383 349.832 379.421C347.794 381.458 346.649 384.222 346.649 387.104" fill="url(#paint1_linear_25_633)" fill-opacity="0.1"/>
+			<text fill="#666666" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="246.65" y="392.164">Employees</tspan></text>
+			<text fill="#666666" xml:space="preserve" style="white-space: pre" font-family="Georgia" font-size="16" letter-spacing="0em"><tspan x="373.814" y="392.164">Contractors</tspan></text>
+		</g>
+		<g class="data">
+			<path d="M85.7718 9.50783H81.6971V51.6139H85.7718V9.50783Z" fill="#1E73BE"/>
+			<path d="M85.7718 9.50783H81.6971V51.6139H85.7718V9.50783Z" fill="url(#paint2_linear_25_633)" fill-opacity="0.1"/>
+			<path d="M91.2049 70.6295H81.6971V112.736H91.2049V70.6295Z" fill="#1E73BE"/>
+			<path d="M91.2049 70.6295H81.6971V112.736H91.2049V70.6295Z" fill="url(#paint3_linear_25_633)" fill-opacity="0.1"/>
+			<path d="M553.013 133.109H81.6971V173.857H553.013V133.109Z" fill="#1E73BE"/>
+			<path d="M553.013 133.109H81.6971V173.857H553.013V133.109Z" fill="url(#paint4_linear_25_633)" fill-opacity="0.1"/>
+			<path d="M339.766 194.231H81.6971V236.337H339.766V194.231Z" fill="#1E73BE"/>
+			<path d="M339.766 194.231H81.6971V236.337H339.766V194.231Z" fill="url(#paint5_linear_25_633)" fill-opacity="0.1"/>
+			<path d="M97.9962 255.353H81.6971V297.459H97.9962V255.353Z" fill="#1E73BE"/>
+			<path d="M97.9962 255.353H81.6971V297.459H97.9962V255.353Z" fill="url(#paint6_linear_25_633)" fill-opacity="0.1"/>
+			<path d="M97.9961 9.50783H87.13V51.6139H97.9961V9.50783Z" fill="#FFA600"/>
+			<path d="M97.9961 9.50783H87.13V51.6139H97.9961V9.50783Z" fill="url(#paint7_linear_25_633)" fill-opacity="0.1"/>
+			<path d="M99.3544 70.6295H92.5631V112.736H99.3544V70.6295Z" fill="#FFA600"/>
+			<path d="M99.3544 70.6295H92.5631V112.736H99.3544V70.6295Z" fill="url(#paint8_linear_25_633)" fill-opacity="0.1"/>
+			<path d="M592.403 133.109H554.372V173.857H592.403V133.109Z" fill="#FFA600"/>
+			<path d="M592.403 133.109H554.372V173.857H592.403V133.109Z" fill="url(#paint9_linear_25_633)" fill-opacity="0.1"/>
+			<path d="M345.199 194.231H341.125V236.337H345.199V194.231Z" fill="#FFA600"/>
+			<path d="M345.199 194.231H341.125V236.337H345.199V194.231Z" fill="url(#paint10_linear_25_633)" fill-opacity="0.1"/>
+		</g>
+	</svg>
+</svg>

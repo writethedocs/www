@@ -1,0 +1,35 @@
+<svg width="100%" height="100%" viewBox="0 0 660 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    <radialGradient id="paint0_radial_75_112" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(330 236) scale(152)">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</radialGradient>
+  </defs>
+  <title>Feelings about work location - unaffected by COVID-19 (2021)</title>
+  <desc>Donut chart showing respondent attitudes towards their work location, where they have been unaffected by the COVID-19 pandemic: 87.2% feel positive or very positive; 10.8% feel neutral; 2% feel negative.</desc>
+	<g class="donut-chart">
+		<g class="data">
+			<path class="positive" d="M329.969 85C364.545 84.993 398.062 96.931 424.848 118.794C451.634 140.657 470.045 171.103 476.965 204.979C483.885 238.855 478.889 274.082 462.823 304.699C446.757 335.315 420.607 359.442 388.799 372.995C356.99 386.549 321.476 388.697 288.265 379.077C255.055 369.457 226.187 348.659 206.547 320.202C186.908 291.746 177.702 257.378 180.488 222.914C183.274 188.451 197.88 156.008 221.835 131.075L286.734 193.43C277.152 203.403 271.309 216.38 270.195 230.166C269.081 243.951 272.763 257.698 280.619 269.081C288.475 280.464 300.022 288.783 313.306 292.631C326.59 296.479 340.796 295.619 353.519 290.198C366.243 284.777 376.703 275.126 383.129 262.88C389.556 250.633 391.554 236.542 388.786 222.992C386.018 209.441 378.654 197.263 367.939 188.518C357.225 179.772 343.818 174.997 329.988 175L329.969 85Z" fill="#1E73BE" stroke="white"/>
+			<path class="neutral" d="M221.939 130.967C245.678 106.309 277.137 90.5111 311.092 86.1965L322.437 175.479C308.855 177.204 296.271 183.524 286.776 193.387L221.939 130.967Z" fill="#F35DA3" stroke="white"/>
+			<path class="negative" d="M311.241 86.1776C317.394 85.402 323.59 85.0088 329.792 85.0002L329.917 175C327.436 175.003 324.958 175.161 322.496 175.471L311.241 86.1776Z" fill="#FFA600" stroke="white"/>
+			<g class="gradient-overlay" style="mix-blend-mode:color-burn" opacity="0.5">
+				<path d="M480 235.5C480 318.067 412.843 385 330 385C247.157 385 180 318.067 180 235.5C180 152.933 247.157 86 330 86C412.843 86 480 152.933 480 235.5Z" fill="url(#paint0_radial_75_112)" fill-opacity="0.25" style="mix-blend-mode:multiply"/>
+			</g>
+		</g>
+		<g class="connectors">
+			<path class="positive" d="M525 310C507 310 471.48 291.268 470.5 290.5" stroke="#1E73BE"/>
+			<path class="neutral" d="M202 73C236.5 82 246.737 91.4572 257 103" stroke="#F35DA3"/>
+			<path class="negative" d="M293.5 32C311 51 316.736 84.3068 316.799 85.3049" stroke="#FFA600"/>
+		</g>
+		<g class="value-labels">
+			<text class="positive"><tspan x="528.047" y="305.582">Positive</tspan><tspan x="533.766" y="323.582">87.2%</tspan></text>
+			<text class="neutral"><tspan x="146.023" y="66.582">Neutral</tspan><tspan x="151.477" y="84.582">10.8%</tspan></text>
+			<text class="negative"><tspan x="240.43" y="23.582">Negative</tspan><tspan x="260.516" y="41.582">2%</tspan></text>
+		</g>
+	</g>
+</svg>
