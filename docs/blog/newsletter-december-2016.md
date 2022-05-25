@@ -1,8 +1,7 @@
-```eval_rst
-
-.. post:: Dec 5, 2016
-   :tags: newsletter
-
+```{post} Dec 5, 2016
+---
+tags: newsletter
+---
 ```
 
 # Write the Docs Newsletter - December 2016

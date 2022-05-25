@@ -6,7 +6,6 @@ import sys
 
 import yaml
 import ablog
-from recommonmark.transform import AutoStructify
 
 # Only for windows compatibility - Forces default encoding to UTF8, which it may not be on windows
 if os.name == 'nt':
@@ -64,8 +63,11 @@ extensions = [
     'sphinxcontrib.datatemplates',
     'notfound.extension',
     'sphinxemoji.sphinxemoji',
-    'recommonmark',
+    'myst_parser',
 ]
+
+myst_heading_anchors = 4
+
 blog_baseurl = 'https://www.writethedocs.org/'
 blog_path = 'blog/archive'
 blog_authors = {
@@ -199,12 +201,6 @@ def setup(app):
 
     app.add_directive('meetup-listing', MeetupListing)
     app.add_directive('datatemplate-video', videos.DataTemplateVideo)
-    app.add_config_value('recommonmark_config', {
-        'auto_toc_tree_section': 'Contents',
-        # 'enable_auto_doc_ref': True,
-        'enable_eval_rst': True,
-    }, True)
-    app.add_transform(AutoStructify)
     app.add_css_file('css/global-customizations.css')
     app.add_css_file('css/survey.css')
     app.add_js_file('js/jobs.js')
