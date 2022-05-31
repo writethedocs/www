@@ -156,6 +156,10 @@ global_sponsors = yaml.safe_load("""
   link: https://www.google.com
   brand: Google
   comment: Patron sponsor
+- name: archbee-new
+  link: https://archbee.io/?utm_medium=banner&utm_source=footer&utm_campaign=wtd
+  brand: Archbee
+  comment: Community sponsor
 """)
 
 html_context = {
