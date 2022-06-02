@@ -129,7 +129,7 @@ expectations of behavior set out in the CoC, please email us at
 `conduct@writethedocs.org <mailto:conduct@writethedocs.org>`_.
 
 Thanks again
-============
+------------
 
 Thanks so much to the following companies for supporting the Portland conference this year:
 
