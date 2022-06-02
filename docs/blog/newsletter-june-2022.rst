@@ -74,7 +74,7 @@ A longer read: Now a national holiday in the United States, June 19th is Junetee
 From our sponsor
 ----------------
 
-This month’s newsletter is sponsored by SPONSOR:
+This month’s newsletter is sponsored by KnowledgeOwl:
 
 .. raw:: html
 
@@ -83,13 +83,14 @@ This month’s newsletter is sponsored by SPONSOR:
       <tbody>
         <tr>
           <td width="75%">
-              <p>
-              CONTENT
-              </p>
+          <p>In the past, the <a href="https://www.knowledgeowl.com/home/blog">KnowledgeOwl blog</a> has covered a wide range of topics from guest bloggers and staff. Now we're tightening our focus to something we care passionately about: Documentarian Quality of Life.&nbsp; </p>
+          <p>So we owls have come with a request: we need your help. What are your biggest pain points? What deep-dive posts would you like to see?</p>
+          <p>We're also seeking 🦉 owl-themed names 🦉 for our new blog categories (and can offer swag in return). </p>
+          <p>See <a href="https://www.knowledgeowl.com/home/our-new-content-strategy">our latest blog post</a> for more details on this shift and how to send us your suggestions. </p>
           </td>
           <td width="25%">
-            <a href="https://www.LINK.COM">
-              <img style="margin-left: 15px;" alt="SPONSOR" src="/_static/img/sponsors/rtd.png">
+            <a href="https://www.knowledgeowl.com/home/blog">
+              <img style="margin-left: 15px;" alt="SPONSOR" src="/_static/img/sponsors/knowledgeowl-owl.png">
             </a>
           </td>
         </tr>
