@@ -102,7 +102,7 @@ the US or in a similar timezone.
 
 .. _build the meetup community: http://www.writethedocs.org/meetups/
 .. _starting: http://www.writethedocs.org/organizer-guide/meetups/starting/
-.. _Quorum Meetups: https://www.writethedocs.org/meetups/#current-meetups-quorum.
+.. _Quorum Meetups: https://www.writethedocs.org/meetups/#current-meetups-quorum
 
 Code of Conduct transparency report
 -----------------------------------
