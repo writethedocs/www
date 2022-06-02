@@ -106,7 +106,7 @@ Featured job posts
 - `Technical Writer <https://jobs.writethedocs.org/job/718/technical-writer/>`__, Wix (Vilnius, Lithuania )
 - `Technical Writer (Developer Documentation) <https://jobs.writethedocs.org/job/717/technical-writer-developer-documentation-fully-remote/>`__,  Humanitec GmbH (Remote)
 -  `Technical Writer, Serverless, Google Cloud <https://jobs.writethedocs.org/job/731/technical-writer-serverless-google-cloud/>`__, Google (Kitchener, ON, Canada)
-- `Technical Writer (IntelliJ) <https://jobs.writethedocs.org/job/735/technical-writer-intellij/>`__, JetBrains (arious locations)
+- `Technical Writer (IntelliJ) <https://jobs.writethedocs.org/job/735/technical-writer-intellij/>`__, JetBrains (various locations)
 - `Senior Manager, Technical Writing, Developer Acceleration Platforms <https://jobs.writethedocs.org/job/729/senior-manager-technical-writing-developer-acceleration-platforms/>`__, Google (Seattle, WA, USA)
 - `Technical Content Strategist, Developer Relations Content, Google Cloud <https://jobs.writethedocs.org/job/727/technical-content-strategist-developer-relations-content-google-cloud/>`__, Google (Seattle, WA, USA)
 - `Product Documentation Manager <https://jobs.writethedocs.org/job/714/product-documentation-manager/>`__, ReadMe (Remote)
