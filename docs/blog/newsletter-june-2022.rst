@@ -11,7 +11,7 @@ I certainly have learned a lot from her already on how to make a newsletter usef
 
 So as I start this journey, I'd like to (re-)invite you to come with me. If you see a conversation in Slack you think would be great for the newsletter, tag it with the ``:suggest-for-newsletter:`` emoji. We'll round up the most interesting and thought-provoking ideas and bring them to you.
 
-The past month was full of goodness outside the newsletter as we wrapped up the Portland conference. Those who were there talked a lot about how great all the talks and unconference sessions were. For those of us who couldn't make it, keep an eye on the `Write the Docs YouTube channel <https://www.youtube.com/channel/UCr019846MitZUEhc6apDdcQ>`__ to at least see the talks.
+The past month was full of goodness outside the newsletter as we wrapped up the Portland conference. Those who were there talked a lot about how great all the talks and unconference sessions were. For those of us who couldn't make it, check out the `videos of all the talks on YouTube <https://www.youtube.com/playlist?list=PLZAeFn6dfHpnDhFvXG8GprqlLlzSQRBui>`__ to at least see the talks.
 
 Looking to the future, the `Call for Proposals for the Prague conference <https://www.writethedocs.org/conf/prague/2022/cfp/>`__ is open until the end of the month. So don't hesitate to submit your idea.
 
