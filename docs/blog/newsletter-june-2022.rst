@@ -114,6 +114,12 @@ Featured job posts
 - `Technical Writer, Software Engineering <https://jobs.writethedocs.org/job/733/technical-writer-software-engineering/>`__, Google (Remote)
 - `Developer Educator - Remote APJ <https://jobs.writethedocs.org/job/725/developer-educator-remote-apj/>`__, Twilio (Remote)
 - `Developer Evangelist <https://jobs.writethedocs.org/job/726/developer-evangelist/>`__, Twilio (Remote)
+- `Technical Writer, Cloud Technologies and Tools <https://jobs.writethedocs.org/job/732/technical-writer-cloud-technologies-and-tools/>`__, Google (Waterloo, ON, Canada)
+- `Technical Writer, Cloud Data Analytics, Streams and Lakes <https://jobs.writethedocs.org/job/730/technical-writer-cloud-data-analytics-streams-and-lakes/>`__, Google (Remote)
+- `Technical Writer, Data Analytics, BigQuery, Google Cloud <https://jobs.writethedocs.org/job/728/technical-writer-data-analytics-bigquery-google-cloud/>`__, Google (Durham, NC, USA)
+- `Technical Writer (Kotlin) <https://jobs.writethedocs.org/job/736/technical-writer-kotlin/>`__, JetBrains (various locations)
+- `Developer Advocate <https://jobs.writethedocs.org/job/743/developer-advocate/>`__, Trunk (Remote [USA])
+- `Technical Writer <https://jobs.writethedocs.org/job/649/technical-writer/>`__, Semaphore  (Remote)
 
 *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
