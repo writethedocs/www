@@ -106,7 +106,7 @@ Featured job posts
 
 - `Technical Writer <https://jobs.writethedocs.org/job/718/technical-writer/>`__, Wix (Vilnius, Lithuania )
 - `Technical Writer (Developer Documentation) <https://jobs.writethedocs.org/job/717/technical-writer-developer-documentation-fully-remote/>`__,  Humanitec GmbH (Remote)
--  `Technical Writer, Serverless, Google Cloud <https://jobs.writethedocs.org/job/731/technical-writer-serverless-google-cloud/>`__, Google (Kitchener, ON, Canada)
+- `Technical Writer, Serverless, Google Cloud <https://jobs.writethedocs.org/job/731/technical-writer-serverless-google-cloud/>`__, Google (Kitchener, ON, Canada)
 - `Technical Writer (IntelliJ) <https://jobs.writethedocs.org/job/735/technical-writer-intellij/>`__, JetBrains (various locations)
 - `Senior Manager, Technical Writing, Developer Acceleration Platforms <https://jobs.writethedocs.org/job/729/senior-manager-technical-writing-developer-acceleration-platforms/>`__, Google (Seattle, WA, USA)
 - `Technical Content Strategist, Developer Relations Content, Google Cloud <https://jobs.writethedocs.org/job/727/technical-content-strategist-developer-relations-content-google-cloud/>`__, Google (Seattle, WA, USA)
@@ -121,10 +121,9 @@ Featured job posts
 Virtual events coming up
 ------------------------
 
-- 02 June, 19:00 PDT (Los Angelos) - `June: Catch up and discussion <https://www.meetup.com/Write-the-Docs-LA/events/285814451/>`__
-- 07 June, 08:30 EDT (New England) - `Morning social <https://www.meetup.com/ne-write-the-docs/events/hqvdfsydcjbkb/>`__
-- 08 June, 18:00 CDT (Austin) - `Why you should be "docs-as-code"-ing, with DevDocs CEO <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/285797949/K>`__
-- 00 June, TIME ZONE (location) - `TITLE <https://www.meetup.com/LINK>`__
-- 00 June, TIME ZONE (location) - `TITLE <https://www.meetup.com/LINK>`__
+- 07 June, 08:30 EDT (East Coast Quorum, USA) - `Morning social <https://www.meetup.com/ne-write-the-docs/events/hqvdfsydcjbkb/>`__
+- 07 June, 08:30 EDT (Florida, USA) - `Morning social <https://www.meetup.com/write-the-docs-florida/events/qpvdfsydcjbkb/>`__
+- 08 June, 18:00 CDT (Austin, USA) - `Why you should be "docs-as-code"-ing, with DevDocs CEO <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/285797949/K>`__
 - 20 June, 12 AEST (Australia) - `Better customer experiences using Machine Learning <https://www.meetup.com/Write-the-Docs-Australia/events/285712379/>`__
-- 21 June, 08:30 EDT (New England) - `Morning social <https://www.meetup.com/ne-write-the-docs/events/hqvdfsydcjbcc/>`__
+- 21 June, 08:30 EDT (East Coast Quorum, USA) - `Morning social <https://www.meetup.com/ne-write-the-docs/events/hqvdfsydcjbcc/>`__
+- 30 June, 19:00 PDT (West Coast/Australia Quorum) - `User Research for Technical Writers <https://www.meetup.com/virtual-write-the-docs-west-coast-quorum/events/286322885/>`__
