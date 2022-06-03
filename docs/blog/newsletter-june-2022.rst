@@ -128,7 +128,6 @@ Virtual events coming up
 ------------------------
 
 - 07 June, 08:30 EDT (East Coast Quorum, USA) - `Morning social <https://www.meetup.com/ne-write-the-docs/events/hqvdfsydcjbkb/>`__
-- 07 June, 08:30 EDT (Florida, USA) - `Morning social <https://www.meetup.com/write-the-docs-florida/events/qpvdfsydcjbkb/>`__
 - 08 June, 18:00 CDT (Austin, USA) - `Why you should be "docs-as-code"-ing, with DevDocs CEO <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/285797949/K>`__
 - 20 June, 12 AEST (Australia) - `Better customer experiences using Machine Learning <https://www.meetup.com/Write-the-Docs-Australia/events/285712379/>`__
 - 21 June, 08:30 EDT (East Coast Quorum, USA) - `Morning social <https://www.meetup.com/ne-write-the-docs/events/hqvdfsydcjbcc/>`__
