@@ -8,7 +8,7 @@ but it takes some additional planning and it will help if you have some familiar
 Said familiarity is not required, but if you don't know DC, it could affect the organizer roles that
 make sense for you to assume.
 
-### Location and Venue
+# Location and Venue
 
 Jennifer Rondeau, co-organizer of WTD NA in Portland for two years now, recently moved to DC,
 and is willing to be organizer in chief on the ground, so the DC area might make the most sense.

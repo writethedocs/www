@@ -1,0 +1,80 @@
+<svg viewBox="0 0 660 432" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style type="text/css">
+			<![CDATA[
+				@import url('/_static/css/survey-2021-svg.css'); 
+			]]>
+		</style>
+		<linearGradient id="paint0_linear_68_308" x1="123.134" y1="367.433" x2="123.134" y2="370.388" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint1_linear_68_308" x1="242.328" y1="364.478" x2="242.328" y2="370.388" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint2_linear_68_308" x1="361.522" y1="42.3582" x2="361.522" y2="370.388" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint3_linear_68_308" x1="480.716" y1="190.119" x2="480.716" y2="370.388" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint4_linear_68_308" x1="599.91" y1="358.567" x2="599.91" y2="370.388" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+	</defs>
+	<title>Weekly hours worked, employees (2021)</title>
+  <desc>Bar chart showing weekly hours worked by employee respondents.</desc>
+	<g class="bar-chart">
+		<g class="x-axis">
+			<g class="axis-lines">
+				<path d="M63.0448 369.896H660"/>
+				<path d="M63.0448 316.702H660"/>
+				<path d="M63.0448 264.493H660"/>
+				<path d="M63.0448 211.299H660"/>
+				<path d="M63.0448 158.104H660"/>
+				<path d="M63.0448 104.91H660"/>
+				<path d="M63.0448 52.7015H660"/>
+			</g>
+			<g class="axis-label">
+				<text transform="translate(62.0597 407.821)"><tspan x="216.54" y="17.4029">Hours worked (weekly)</tspan></text>
+			</g>
+			<g class="axis-values">
+				<text><tspan x="109.373" y="389.319">1-20</tspan></text>
+				<text><tspan x="224.917" y="389.319">21-30</tspan></text>
+				<text><tspan x="344.245" y="389.319">31-40</tspan></text>
+				<text><tspan x="463.788" y="389.319">41-50</tspan></text>
+				<text><tspan x="578.73" y="389.319">51-60+</tspan></text>
+			</g>
+		</g>
+		<g class="y-axis">
+			<g class="axis-label">
+				<text transform="translate(3.05176e-05 370.388) rotate(-90)"><tspan x="132.147" y="14.582">Employees (%)</tspan></text>
+			</g>
+			<g class="axis-values">
+				<text><tspan x="45.6149" y="373.558">0</tspan></text>
+				<text><tspan x="39.5852" y="320.364">10</tspan></text>
+				<text><tspan x="37.8713" y="268.155">20</tspan></text>
+				<text><tspan x="37.9221" y="214.961">30</tspan></text>
+				<text><tspan x="37.7443" y="161.767">40</tspan></text>
+				<text><tspan x="38.2268" y="108.573">50</tspan></text>
+				<text><tspan x="37.7316" y="56.3638">60</tspan></text>
+			</g>
+		</g>
+		<g class="data">
+			<path d="M173.373 367.433H72.8955V370.388H173.373V367.433Z" fill="#1E73BE"/>
+			<path d="M173.373 367.433H72.8955V370.388H173.373V367.433Z" fill="url(#paint0_linear_68_308)" fill-opacity="0.1"/>
+			<path d="M292.567 364.478H192.09V370.388H292.567V364.478Z" fill="#1E73BE"/>
+			<path d="M292.567 364.478H192.09V370.388H292.567V364.478Z" fill="url(#paint1_linear_68_308)" fill-opacity="0.1"/>
+			<path d="M411.761 42.3582H311.284V370.388H411.761V42.3582Z" fill="#1E73BE"/>
+			<path d="M411.761 42.3582H311.284V370.388H411.761V42.3582Z" fill="url(#paint2_linear_68_308)" fill-opacity="0.1"/>
+			<path d="M530.955 190.119H430.478V370.388H530.955V190.119Z" fill="#1E73BE"/>
+			<path d="M530.955 190.119H430.478V370.388H530.955V190.119Z" fill="url(#paint3_linear_68_308)" fill-opacity="0.1"/>
+			<path d="M650.149 358.567H549.672V370.388H650.149V358.567Z" fill="#1E73BE"/>
+			<path d="M650.149 358.567H549.672V370.388H650.149V358.567Z" fill="url(#paint4_linear_68_308)" fill-opacity="0.1"/>
+		</g>
+	</g>
+</svg>

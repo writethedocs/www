@@ -1,0 +1,54 @@
+<svg width="100%" height="100%" viewBox="0 0 660 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+		<linearGradient id="paint0_linear_29_43" x1="154.44" y1="96.4151" x2="154.44" y2="250.943" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint1_linear_29_43" x1="356.4" y1="58.1132" x2="356.4" y2="250.943" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint2_linear_29_43" x1="558.36" y1="22.4528" x2="558.36" y2="250.943" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+	</defs>	
+	<title>Survey growth (2019-2021)</title>
+  <desc>Bar chart showing WTD Salary Survey growth, in number of respondents, between 2019 and 2021</desc>
+	<g class="x-axis">
+		<g class="axis-lines">
+			<path d="M52.7999 250.283H660" />
+			<path d="M52.7999 190.849H660" />
+			<path d="M52.7999 131.415H660" />
+			<path d="M52.7999 70.6604H660" />
+			<path d="M52.7999 11.2264H660" />
+		</g>
+		<g class="axis-values">
+			<text><tspan x="138.722" y="272.224">2019</tspan></text>
+			<text><tspan x="340.157" y="272.224">2020</tspan></text>
+			<text><tspan x="543.592" y="272.224">2021</tspan></text>
+		</g>
+	</g>
+	<g class="y-axis">
+		<g class="axis-values">
+			<text><tspan x="32.0209" y="251.092">0</tspan></text>
+			<text><tspan x="16.8891" y="191.658">250</tspan></text>
+			<text><tspan x="16.5336" y="132.224">500</tspan></text>
+			<text><tspan x="17.0922" y="71.4694">750</tspan></text>
+			<text><tspan x="9.79293" y="12.0354">1000</tspan></text>
+		</g>
+	</g>
+	<g class="data">
+		<path d="M223.08 96.4151H85.8V250.943H223.08V96.4151Z" fill="#1E73BE"/>
+		<path d="M223.08 96.4151H85.8V250.943H223.08V96.4151Z" fill="url(#paint0_linear_29_43)" fill-opacity="0.1"/>
+		<path d="M425.04 58.1132H287.76V250.943H425.04V58.1132Z" fill="#1E73BE"/>
+		<path d="M425.04 58.1132H287.76V250.943H425.04V58.1132Z" fill="url(#paint1_linear_29_43)" fill-opacity="0.1"/>
+		<path d="M627 22.4528H489.72V250.943H627V22.4528Z" fill="#1E73BE"/>
+		<path d="M627 22.4528H489.72V250.943H627V22.4528Z" fill="url(#paint2_linear_29_43)" fill-opacity="0.1"/>
+	</g>
+</svg>

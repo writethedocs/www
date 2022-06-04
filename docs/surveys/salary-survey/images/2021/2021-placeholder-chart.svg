@@ -1,0 +1,63 @@
+<svg width="660" height="324" viewBox="0 0 660 324" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style type="text/css">
+			<![CDATA[
+				@import url('/_static/css/survey-2021-svg.css');
+			]]>
+		</style>
+		<linearGradient id="paint0_linear_31_48" x1="185.966" y1="106.434" x2="185.966" y2="249.162" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint1_linear_31_48" x1="379.459" y1="71.0573" x2="379.459" y2="249.162" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint2_linear_31_48" x1="572.952" y1="38.1201" x2="572.952" y2="249.162" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+	</defs>
+	<title>Placeholder Chart for WTD Salary Survey 2021</title>
+  <desc>Placeholder bar chart that will be replaced with the real data any second now</desc>
+	<text transform="translate(-3 104.292) rotate(-15)" fill="black" font-size="36"><tspan x="20%" y="40%">PLACEHOLDER CHART</tspan></text>
+	<g class="faded" opacity="0.2">
+		<g class="y-axis">
+			<g class="axis-label">
+				<text transform="translate(10 205.5) rotate(-90)" fill="#A39F9F"><tspan x="0" y="14.582">Y Axis Label</tspan></text>
+			</g>
+			<g class="axis-lines">
+				<path d="M88.827 249H650"/>
+				<path d="M88.827 194H650"/>
+				<path d="M88.827 139H650"/>
+				<path d="M88.827 83H650"/>
+				<path d="M88.827 28H650"/>
+			</g>
+			<g class="axis-values">
+				<text fill="#A39F9F"><tspan x="68.3607" y="252.837">0</tspan></text>
+				<text fill="#A39F9F"><tspan x="53.229" y="197.941">250</tspan></text>
+				<text fill="#A39F9F"><tspan x="52.9501" y="142.872">500</tspan></text>
+				<text fill="#A39F9F"><tspan x="53.2021" y="86.5299">750</tspan></text>
+				<text fill="#A39F9F"><tspan x="46.1328" y="32.0354">1000</tspan></text>
+			</g>
+		</g>
+		<g class="x-axis">
+			<g class="axis-label">
+				<text transform="translate(299.5 286)" fill="#666666"><tspan x="0" y="14.582">X Axis Label</tspan></text>
+			</g>
+			<g class="axis-values">
+				<text fill="#666666"><tspan x="170.294" y="269.737">2019</tspan></text>
+				<text fill="#666666"><tspan x="363.244" y="269.737">2020</tspan></text>
+				<text fill="#666666"><tspan x="558.193" y="269.737">2021</tspan></text>
+			</g>	
+		</g>
+		<g class="data">
+			<path d="M251.728 106.434H120.203V249.162H251.728V106.434Z" fill="#1E73BE"/>
+			<path d="M251.728 106.434H120.203V249.162H251.728V106.434Z" fill="url(#paint0_linear_31_48)" fill-opacity="0.1"/>
+			<path d="M445.221 71.0573H313.696V249.162H445.221V71.0573Z" fill="#1E73BE"/>
+			<path d="M445.221 71.0573H313.696V249.162H445.221V71.0573Z" fill="url(#paint1_linear_31_48)" fill-opacity="0.1"/>
+			<path d="M638.714 38.1201H507.189V249.162H638.714V38.1201Z" fill="#1E73BE"/>
+			<path d="M638.714 38.1201H507.189V249.162H638.714V38.1201Z" fill="url(#paint2_linear_31_48)" fill-opacity="0.1"/>
+		</g>
+	</g>
+</svg>

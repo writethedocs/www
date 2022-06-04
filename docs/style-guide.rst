@@ -1,7 +1,7 @@
 Style Guide
 ===========
 
-This document specifies how we write on our websites.
+This :doc:`style guide </guide/writing/style-guides>` specifies how we write on our websites.
 It's just a start,
 but everything has to start somewhere :)
 
@@ -21,7 +21,7 @@ If you are cross-referencing to a different page within our website, use the ``:
 Website content
 ~~~~~~~~~~~~~~~
 
-Our website uses mostly reStructured Text (RST) markup format. We still have some legacy content in Markdown but we try to retire it whenever we encounter it.
+Our website uses mostly reStructured Text (RST) and Markdown. Generally more people are familiar with Markdown, so some sections might be written with that if we expect a lot of contributions. 
 
 Content
 -------

@@ -1,0 +1,119 @@
+<svg width="100%" height="100%" viewBox="140 90 800 400" preserveAspectRatio="xMidYMin meet" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style type="text/css">
+				<![CDATA[
+				text{font-family:Georgia,serif}
+				.color1{fill:#155185}
+				.color2{fill:#185c98}
+				.color3{fill:#1b68ab}
+				.color4{fill:#1e73be}
+				.color5{fill:#327ec2}
+				.color6{fill:#4488c6}
+				]]>
+			</style>
+	</defs>
+	<title>Job title terms word cloud (2021)</title>
+	<desc>Word cloud showing terms used in job titles, sized proportionately to the number of occurrences of each</desc>
+	<g text-anchor="middle">
+		<text data-key="Technical" transform="matrix(1.16505 0 0 1.16505 680.388 364.078)" style="font-size:90px" class="color1">Technical</text>
+		<text data-key="Writer" transform="matrix(1.16505 0 0 1.16505 737.476 280.194)" style="font-size:84px" class="color2">Writer</text>
+		<text data-key="Senior" transform="matrix(1.16505 0 0 1.16505 354.175 323.301)" style="font-size:56px" class="color3">Senior</text>
+		<text data-key="Manager" transform="matrix(1.16505 0 0 1.16505 259.806 174.175)" style="font-size:37px" class="color4">Manager</text>
+		<text data-key="Documentation" transform="matrix(1.16505 0 0 1.16505 631.456 399.03)" style="font-size:31px" class="color5">Documentation</text>
+		<text data-key="Lead" transform="matrix(1.16505 0 0 1.16505 216.699 309.32)" style="font-size:31px" class="color5">Lead</text>
+		<text data-key="Content" transform="matrix(1.16505 0 0 1.16505 746.796 200.97)" style="font-size:30px" class="color5">Content</text>
+		<text data-key="Developer" transform="matrix(1.16505 0 0 1.16505 668.738 139.223)" style="font-size:27px" class="color5">Developer</text>
+		<text data-key="Specialist" transform="matrix(1.16505 0 0 1.16505 675.728 425.825)" style="font-size:25px" class="color5">Specialist</text>
+		<text data-key="Writing" transform="matrix(1.16505 0 0 1.16505 562.718 169.515)" style="font-size:24px" class="color5">Writing</text>
+		<text data-key="Staff" transform="matrix(1.16505 0 0 1.16505 320.388 147.379)" style="font-size:23px" class="color5">Staff</text>
+		<text data-key="Product" transform="matrix(1.16505 0 0 1.16505 288.932 368.738)" style="font-size:22px" class="color5">Product</text>
+		<text data-key="Information" transform="matrix(1.16505 0 0 1.16505 616.31 449.126)" style="font-size:21px" class="color5">Information</text>
+		<text data-key="Engineer" transform="matrix(1.16505 0 0 1.16505 319.223 345.437)" style="font-size:19px" class="color5">Engineer</text>
+		<text data-key="Principal" transform="matrix(1.16505 0 0 1.16505 358.835 265.049)" style="font-size:19px" class="color5">Principal</text>
+		<text data-key="Team" transform="matrix(1.16505 0 0 1.16505 545.243 237.087)" style="font-size:18px" class="color5">Team</text>
+		<text data-key="Editor" transform="matrix(1.16505 0 0 1.16505 435.728 364.078)" style="font-size:18px" class="color5">Editor</text>
+		<text data-key="Analyst" transform="matrix(1.16505 0 0 1.16505 528.932 417.67)" style="font-size:17px" class="color5">Analyst</text>
+		<text data-key="Communications" transform="matrix(1.16505 0 0 1.16505 463.69 438.64)" style="font-size:17px" class="color5">Communications</text>
+		<text data-key="Support" transform="matrix(1.16505 0 0 1.16505 521.942 283.69)" style="font-size:17px" class="color5">Support</text>
+		<text data-key="User" transform="matrix(1.16505 0 0 1.16505 266.796 145.049)" style="font-size:17px" class="color5">User</text>
+		<text data-key="Head" transform="matrix(1.16505 0 0 1.16505 587.184 467.767)" style="font-size:17px" class="color5">Head</text>
+		<text data-key="Education" transform="matrix(1.16505 0 0 1.16505 746.796 162.524)" style="font-size:16px" class="color5">Education</text>
+		<text data-key="Director" transform="matrix(1.16505 0 0 1.16505 221.36 329.126)" style="font-size:16px" class="color5">Director</text>
+		<text data-key="Knowledge" transform="matrix(1.16505 0 0 1.16505 482.33 249.903)" style="font-size:16px" class="color5">Knowledge</text>
+		<text data-key="Assistance" transform="matrix(1.16505 0 0 1.16505 234.175 126.408)" style="font-size:16px" class="color5">Assistance</text>
+		<text data-key="Designer" transform="matrix(1.16505 0 0 1.16505 596.505 189.32)" style="font-size:16px" class="color5">Designer</text>
+		<text data-key="Author" transform="matrix(1.16505 0 0 1.16505 502.136 145.049)" style="font-size:16px" class="color5">Author</text>
+		<text data-key="Junior" transform="matrix(1.16505 0 0 1.16505 514.951 460.777)" style="font-size:16px" class="color5">Junior</text>
+		<text data-key="Communicator" transform="matrix(1.16505 0 0 1.16505 391.456 464.272)" style="font-size:15px" class="color5">Communicator</text>
+		<text data-key="Program" transform="matrix(1.16505 0 0 1.16505 318.058 199.806)" style="font-size:15px" class="color5">Program</text>
+		<text data-key="Publications" transform="matrix(1.16505 0 0 1.16505 695.534 300)" style="font-size:15px" class="color5">Publications</text>
+		<text data-key="Associate" transform="matrix(1.16505 0 0 1.16505 517.282 126.408)" style="font-size:15px" class="color5">Associate</text>
+		<text data-key="Architect" transform="matrix(1.16505 0 0 1.16505 265.631 385.049)" style="font-size:15px" class="color5">Architect</text>
+		<text data-key="Consultant" transform="matrix(1.16505 0 0 1.16505 264.466 270.874)" style="font-size:14px" class="color5">Consultant</text>
+		<text data-key="Management" transform="matrix(1.16505 0 0 1.16505 412.427 420)" style="font-size:14px" class="color5">Management</text>
+		<text data-key="Software" transform="matrix(1.16505 0 0 1.16505 469.515 157.864)" style="font-size:14px" class="color5">Software</text>
+		<text data-key="Business" transform="matrix(1.16505 0 0 1.16505 737.476 466.602)" style="font-size:13px" class="color5">Business</text>
+		<text data-key="Marketing" transform="matrix(1.16505 0 0 1.16505 417.087 340.777)" style="font-size:13px" class="color5">Marketing</text>
+		<text data-key="Middle" transform="matrix(1.16505 0 0 1.16505 793.398 381.553)" style="font-size:13px" class="color5">Middle</text>
+		<text data-key="Expert" transform="matrix(1.16505 0 0 1.16505 573.204 306.99)" style="font-size:13px" class="color5">Expert</text>
+		<text data-key="Coordinator" transform="matrix(1.16505 0 0 1.16505 454.369 388.544)" style="font-size:13px" class="color5">Coordinator</text>
+		<text data-key="Engineering" transform="matrix(1.16505 0 0 1.16505 814.369 305.825)" style="font-size:13px" class="color5">Engineering</text>
+		<text data-key="Customer" transform="matrix(1.16505 0 0 1.16505 435.728 125.243)" style="font-size:13px" class="color5">Customer</text>
+		<text data-key="Development" transform="matrix(1.16505 0 0 1.16505 582.524 482.913)" style="font-size:13px" class="color5">Development</text>
+		<text data-key="Strategist" transform="matrix(1.16505 0 0 1.16505 495.146 477.087)" style="font-size:13px" class="color5">Strategist</text>
+		<text data-key="Writers" transform="matrix(1.16505 0 0 1.16505 651.262 207.961)" style="font-size:13px" class="color5">Writers</text>
+		<text data-key="Consulting" transform="matrix(1.16505 0 0 1.16505 547.573 214.951)" style="font-size:13px" class="color5">Consulting</text>
+		<text data-key="Design" transform="matrix(1.16505 0 0 1.16505 434.563 273.204)" style="font-size:13px" class="color5">Design</text>
+		<text data-key="Leader" transform="matrix(1.16505 0 0 1.16505 454.369 403.69)" style="font-size:13px" class="color5">Leader</text>
+		<text data-key="Communication" transform="matrix(1.16505 0 0 1.16505 354.175 241.748)" style="font-size:12px" class="color5">Communication</text>
+		<text data-key="Tech" transform="matrix(1.16505 0 0 1.16505 581.36 291.845)" style="font-size:12px" class="color5">Tech</text>
+		<text data-key="Training" transform="matrix(1.16505 0 0 1.16505 570.874 251.068)" style="font-size:12px" class="color5">Training</text>
+		<text data-key="Services" transform="matrix(1.16505 0 0 1.16505 724.66 445.631)" style="font-size:12px" class="color5">Services</text>
+		<text data-key="Technology" transform="matrix(1.16505 0 0 1.16505 379.806 402.524)" style="font-size:12px" class="color5">Technology</text>
+		<text data-key="Programmer" transform="matrix(1.16505 0 0 1.16505 228.35 235.922)" style="font-size:11px" class="color5">Programmer</text>
+		<text data-key="Relations" transform="matrix(1.16505 0 0 1.16505 348.35 227.767)" style="font-size:11px" class="color5">Relations</text>
+		<text data-key="Web" transform="matrix(1.16505 0 0 1.16505 427.573 139.223)" style="font-size:11px" class="color5">Web</text>
+		<text data-key="Proposal" transform="matrix(1.16505 0 0 1.16505 651.262 174.175)" style="font-size:11px" class="color5">Proposal</text>
+		<text data-key="Help" transform="matrix(1.16505 0 0 1.16505 325.049 382.718)" style="font-size:11px" class="color5">Help</text>
+		<text data-key="Success" transform="matrix(1.16505 0 0 1.16505 391.456 197.476)" style="font-size:11px" class="color5">Success</text>
+		<text data-key="Instructional" transform="matrix(1.16505 0 0 1.16505 788.738 411.845)" style="font-size:11px" class="color5">Instructional</text>
+		<text data-key="Project" transform="matrix(1.16505 0 0 1.16505 576.699 266.214)" style="font-size:11px" class="color5">Project</text>
+		<text data-key="Intermediate" transform="matrix(1.16505 0 0 1.16505 393.786 479.417)" style="font-size:11px" class="color5">Intermediate</text>
+		<text data-key="Owner" transform="matrix(1.16505 0 0 1.16505 631.456 376.893)" style="font-size:11px" class="color5">Owner</text>
+		<text data-key="Strategy" transform="matrix(1.16505 0 0 1.16505 671.068 157.864)" style="font-size:11px" class="color5">Strategy</text>
+		<text data-key="Experience" transform="matrix(1.16505 0 0 1.16505 445.049 228.932)" style="font-size:11px" class="color5">Experience</text>
+		<text data-key="Community" transform="matrix(1.16505 0 0 1.16505 245.825 225.437)" style="font-size:11px" class="color5">Community</text>
+		<text data-key="Api" transform="matrix(1.16505 0 0 1.16505 509.126 330.291)" style="font-size:11px" class="color5">API</text>
+		<text data-key="Digital" transform="matrix(1.16505 0 0 1.16505 383.301 381.553)" style="font-size:11px" class="color5">Digital</text>
+		<text data-key="Contract" transform="matrix(1.16505 0 0 1.16505 794.563 394.369)" style="font-size:11px" class="color5">Contract</text>
+		<text data-key="Advocate" transform="matrix(1.16505 0 0 1.16505 369.32 359.417)" style="font-size:11px" class="color5">Advocate</text>
+		<text data-key="Supervisor" transform="matrix(1.16505 0 0 1.16505 314.563 414.175)" style="font-size:11px" class="color5">Supervisor</text>
+		<text data-key="Cloud" transform="matrix(1.16505 0 0 1.16505 375.146 164.854)" style="font-size:10px" class="color6">Cloud</text>
+		<text data-key="Administrator" transform="matrix(1.16505 0 0 1.16505 341.36 122.913)" style="font-size:10px" class="color6">Administrator</text>
+		<text data-key="Operations" transform="matrix(1.16505 0 0 1.16505 521.942 192.816)" style="font-size:10px" class="color6">Operations</text>
+		<text data-key="Journalist" transform="matrix(1.16505 0 0 1.16505 339.03 280.194)" style="font-size:10px" class="color6">Journalist</text>
+		<text data-key="Mechanical" transform="matrix(1.16505 0 0 1.16505 484.66 181.165)" style="font-size:10px" class="color6">Mechanical</text>
+		<text data-key="Systems" transform="matrix(1.16505 0 0 1.16505 244.66 345.437)" style="font-size:10px" class="color6">Systems</text>
+		<text data-key="Ecodev" transform="matrix(1.16505 0 0 1.16505 493.98 265.049)" style="font-size:10px" class="color6">Ecodev</text>
+		<text data-key="Advanced" transform="matrix(1.16505 0 0 1.16505 812.039 224.272)" style="font-size:10px" class="color6">Advanced</text>
+		<text data-key="Media" transform="matrix(1.16505 0 0 1.16505 314.563 399.03)" style="font-size:10px" class="color6">Media</text>
+		<text data-key="Scientific" transform="matrix(1.16505 0 0 1.16505 355.34 440.97)" style="font-size:10px" class="color6">Scientific</text>
+		<text data-key="Online" transform="matrix(1.16505 0 0 1.16505 711.845 225.437)" style="font-size:10px" class="color6">Online</text>
+		<text data-key="Client" transform="matrix(1.16505 0 0 1.16505 226.02 407.184)" style="font-size:10px" class="color6">Client</text>
+		<text data-key="System" transform="matrix(1.16505 0 0 1.16505 333.204 426.99)" style="font-size:10px" class="color6">System</text>
+		<text data-key="Proces" transform="matrix(1.16505 0 0 1.16505 482.33 217.282)" style="font-size:10px" class="color6">Proces</text>
+		<text data-key="Creator" transform="matrix(1.16505 0 0 1.16505 615.146 150.874)" style="font-size:10px" class="color6">Creator</text>
+		<text data-key="Group" transform="matrix(1.16505 0 0 1.16505 588.35 415.34)" style="font-size:10px" class="color6">Group</text>
+		<text data-key="Knowledgebase" transform="matrix(1.16505 0 0 1.16505 377.476 212.621)" style="font-size:10px" class="color6">Knowledgebase</text>
+		<text data-key="Localization" transform="matrix(1.16505 0 0 1.16505 857.476 383.883)" style="font-size:10px" class="color6">Localization</text>
+		<text data-key="Tools" transform="matrix(1.16505 0 0 1.16505 772.427 177.67)" style="font-size:10px" class="color6">Tools</text>
+		<text data-key="Teamlead" transform="matrix(1.16505 0 0 1.16505 276.116 212.621)" style="font-size:10px" class="color6">Teamlead</text>
+		<text data-key="Adjunct" transform="matrix(1.16505 0 0 1.16505 657.087 463.107)" style="font-size:10px" class="color6">Adjunct</text>
+		<text data-key="English" transform="matrix(1.16505 0 0 1.16505 511.456 493.398)" style="font-size:10px" class="color6">English</text>
+		<text data-key="Instrctor" transform="matrix(1.16505 0 0 1.16505 782.913 143.883)" style="font-size:10px" class="color6">Instrctor</text>
+		<text data-key="Thechnical" transform="matrix(1.16505 0 0 1.16505 785.243 425.825)" style="font-size:10px" class="color6">Thechnical</text>
+		<text data-key="Educational" transform="matrix(1.16505 0 0 1.16505 643.107 111.262)" style="font-size:10px" class="color6">Educational</text>
+		<text data-key="Reporting" transform="matrix(1.16505 0 0 1.16505 672.233 484.078)" style="font-size:10px" class="color6">Reporting</text>
+		<text data-key="Professional" transform="matrix(1.16505 0 0 1.16505 308.738 478.252)" style="font-size:10px" class="color6">Professional</text>
+	</g>
+</svg>

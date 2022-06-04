@@ -1,0 +1,90 @@
+<svg height="100%" width="100%" viewBox="0 0 660 460" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    <linearGradient id="paint0_linear_42_130" x1="128.075" y1="225.164" x2="128.075" y2="389.39" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint1_linear_42_130" x1="246.855" y1="42.3474" x2="246.855" y2="389.39" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint2_linear_42_130" x1="364.601" y1="143.568" x2="364.601" y2="389.39" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint3_linear_42_130" x1="482.347" y1="279.906" x2="482.347" y2="389.39" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint4_linear_42_130" x1="601.127" y1="284.038" x2="601.127" y2="389.39" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+  </defs>
+  <title>Organization size (2021)</title>
+  <desc>Bar chart showing employer organization size</desc>
+  <g class="x-axis">
+    <g class="axis-lines">
+      <path d="M69.202 388.873H660"/>
+			<path d="M69.202 340.329H660"/>
+			<path d="M69.202 291.784H660"/>
+			<path d="M69.202 243.24H660"/>
+			<path d="M69.202 194.695H660"/>
+			<path d="M69.202 146.15H660"/>
+			<path d="M69.202 97.6057H660"/>
+			<path d="M69.202 49.061H660"/>
+    </g>
+    <g class="axis-values">
+			<text><tspan x="111.205" y="408.902">1-100</tspan></text>
+			<text><tspan x="217.216" y="408.902">100-1000</tspan></text>
+			<text><tspan x="325.781" y="408.902">1000-10,000</tspan></text>
+			<text><tspan x="433.313" y="408.902">10,000-100,000</tspan></text>
+			<text><tspan x="571.979" y="408.902">100,000+</tspan></text>
+		</g>
+    <g class="axis-label">
+			<text transform="translate(51.6433 433.803)"><tspan x="180.053" y="17.46">Approximate number of employees</tspan></text>
+    </g>    
+  </g>
+	<g class="y-axis">
+		<g class="axis-values">
+			<text><tspan x="51.2943" y="392.376">0</tspan></text>
+			<text><tspan x="52.0052" y="343.831">5</tspan></text>
+			<text><tspan x="45.2645" y="295.287">10</tspan></text>
+			<text><tspan x="45.9754" y="246.742">15</tspan></text>
+			<text><tspan x="43.5506" y="198.197">20</tspan></text>
+			<text><tspan x="44.2616" y="149.653">25</tspan></text>
+			<text><tspan x="43.6014" y="101.108">30</tspan></text>
+			<text><tspan x="44.3123" y="52.5636">35</tspan></text>
+		</g>
+    <g class="axis-label">
+			<text transform="translate(0 392.488) rotate(-90)"><tspan x="111.018" y="14.582">Respondents (%)</tspan></text>
+    </g>  
+	</g>
+  <g class="data">
+		<g id="Bar">
+			<path d="M177.653 225.164H78.4978V389.39H177.653V225.164Z" fill="#1E73BE"/>
+			<path d="M177.653 225.164H78.4978V389.39H177.653V225.164Z" fill="url(#paint0_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g id="Bar_2">
+			<path d="M296.432 42.3474H197.277V389.39H296.432V42.3474Z" fill="#1E73BE"/>
+			<path d="M296.432 42.3474H197.277V389.39H296.432V42.3474Z" fill="url(#paint1_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g id="Bar_3">
+			<path d="M414.178 143.568H315.024V389.39H414.178V143.568Z" fill="#1E73BE"/>
+			<path d="M414.178 143.568H315.024V389.39H414.178V143.568Z" fill="url(#paint2_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g id="Bar_4">
+			<path d="M531.925 279.906H432.77V389.39H531.925V279.906Z" fill="#1E73BE"/>
+			<path d="M531.925 279.906H432.77V389.39H531.925V279.906Z" fill="url(#paint3_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g id="Bar_5">
+			<path d="M650.704 284.038H551.549V389.39H650.704V284.038Z" fill="#1E73BE"/>
+			<path d="M650.704 284.038H551.549V389.39H650.704V284.038Z" fill="url(#paint4_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+	</g>
+</svg>

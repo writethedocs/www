@@ -1,0 +1,44 @@
+<svg width="100%" height="100%" viewBox="0 0 660 444" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    <radialGradient id="paint0_radial_75_112" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(331 245) scale(150)">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</radialGradient>
+  </defs>
+  <title>Work location changes (2021)</title>
+  <desc>Donut chart showing status of work locations changes due to the COVID-19 pandemic: 37.5% of respondents report that their work location change is temporary but has not yet changed back; 34.9% state that the change is now permanent; 14.4% report that the change was temporary and has now changed back; 9.6% have experienced multiple changes that are not yet permanent; 1.4% have experienced multiple changes that are now permanent; and 2.3% indicated their situation did not fit any of the provided options.</desc>
+	<g class="donut-chart">
+		<g class="data">
+			<path class="temporary-not-changed-back" d="M329.969 95C359.621 94.994 388.61 103.776 413.273 120.238C437.936 136.699 457.167 160.101 468.536 187.486C479.905 214.872 482.903 245.013 477.15 274.102C471.397 303.19 457.152 329.921 436.214 350.917L372.486 287.367C380.861 278.968 386.559 268.276 388.86 256.641C391.161 245.005 389.962 232.949 385.414 221.995C380.867 211.04 373.174 201.68 363.309 195.095C353.444 188.511 341.849 184.998 329.988 185L329.969 95Z" fill="#1E73BE" stroke="white"/>
+			<path class="permanent" d="M436.108 351.024C416.673 370.474 392.266 384.208 365.553 390.726C338.84 397.243 310.85 396.292 284.641 387.977C258.432 379.663 235.013 364.304 216.942 343.579C198.872 322.855 186.845 297.562 182.177 270.465L270.871 255.186C272.738 266.025 277.549 276.142 284.777 284.432C292.005 292.721 301.373 298.865 311.856 302.191C322.34 305.517 333.536 305.897 344.221 303.29C354.906 300.683 364.669 295.19 372.443 287.409L436.108 351.024Z" fill="#7271C9" stroke="white"/>
+			<path class="temporary-changed-back" d="M182.152 270.317C178.321 247.946 179.617 224.997 185.942 203.2C192.267 181.402 203.456 161.324 218.666 144.478L285.466 204.791C279.382 211.53 274.907 219.561 272.377 228.28C269.847 236.999 269.328 246.178 270.861 255.127L182.152 270.317Z" fill="#C066C0" stroke="white"/>
+			<path class="multiple-not-permanent" d="M218.767 144.367C239.114 121.876 265.802 106.081 295.309 99.0668L316.124 186.627C304.321 189.432 293.646 195.75 285.507 204.747L218.767 144.367Z" fill="#F35DA3" stroke="white"/>
+			<path class="other" d="M295.454 99.0321C302.415 97.3848 309.485 96.2374 316.609 95.5989L324.644 185.239C321.794 185.495 318.966 185.954 316.182 186.613L295.454 99.0321Z" fill="#FF6478" stroke="white"/>
+			<path class="multiple-permanent" d="M316.759 95.5855C321.092 95.2015 325.441 95.0062 329.792 95.0001L329.917 185C328.176 185.002 326.437 185.081 324.703 185.234L316.759 95.5855Z" fill="#FF8541" stroke="white"/>
+			<g class="gradient-overlay" style="mix-blend-mode:color-burn" opacity="0.5">
+				<path fill-rule="evenodd" clip-rule="evenodd" d="M331 395C413.843 395 481 327.843 481 245C481 162.157 413.843 95 331 95C248.157 95 181 162.157 181 245C181 327.843 248.157 395 331 395ZM329.214 306.607C362.746 306.607 389.929 279.424 389.929 245.893C389.929 212.361 362.746 185.179 329.214 185.179C295.683 185.179 268.5 212.361 268.5 245.893C268.5 279.424 295.683 306.607 329.214 306.607Z" fill="url(#paint0_radial_75_112)" fill-opacity="0.25" style="mix-blend-mode:multiply"/>
+			</g>
+		</g>
+		<g class="connectors">
+			<path class="temporary-not-changed-back" d="M527 183C518.594 183 475.106 193.267 473.553 193.633L472 194" stroke="#1E73BE"/>
+			<path class="multiple-not-permanent" d="M200 84C207.336 84 245.289 115.733 246.645 116.867L248 118" stroke="#F35DA3"/>
+			<path class="permanent" d="M232 413C239.806 413 253.054 378.467 253.527 377.233L254 376" stroke="#7271C9"/>
+			<path class="other" d="M288 42C297.708 42 306.381 92.5762 306.69 94.2881L307 96" stroke="#FF6478"/>
+			<path class="multiple-permanent" d="M352.704 36C334.462 38.3553 324.64 90.6194 324.278 92.3923L323.915 94.1653" stroke="#FFA600"/>
+			<path class="temporary-changed-back" d="M122 192C131.475 192 180.498 204.133 182.249 204.567L184 205" stroke="#C066C0"/>
+		</g>
+		<g class="value-labels">
+			<text class="temporary-not-changed-back"><tspan x="527.133" y="173.582">Temporary - not</tspan><tspan x="539.047" y="191.582">changed back</tspan><tspan x="565.344" y="209.582">37.5%</tspan></text>
+			<text class="permanent"><tspan x="151.305" y="409.582">Permanent</tspan><tspan x="168.094" y="427.582">34.8%</tspan></text>
+			<text class="temporary-changed-back"><tspan x="23.8672" y="183.582">Temporary - </tspan><tspan x="22.0469" y="201.582">changed back</tspan><tspan x="48.8672" y="219.582">14.4%</tspan></text>
+			<text class="multiple-not-permanent"><tspan x="66.0469" y="75.582">Multiple changes -</tspan><tspan x="66.3828" y="93.582">not yet permanent</tspan><tspan x="113.742" y="111.582">9.6%</tspan></text>
+			<text class="other"><tspan x="243.477" y="34.582">Other</tspan><tspan x="246.445" y="52.582">2.3%</tspan></text>
+			<text class="multiple-permanent"><tspan x="352.117" y="25.582">Multiple changes -</tspan><tspan x="363.75" y="43.582">now permanent</tspan><tspan x="402.891" y="61.582">1.4%</tspan></text>
+		</g>
+	</g>
+</svg>
