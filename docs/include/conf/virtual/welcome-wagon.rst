@@ -345,10 +345,10 @@ Troubleshooting guides:
 If none of these work, reach out to the Helpdesk for help. Select **Expo** > **Helpdesk** and ask your question in the **Chat** tab.
 
 
-I can’t access the Unconference Spreadsheet. I'm getting a “You need permission to access this published document” message.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+I can’t access the Unconference Spreadsheet. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Open the Unconference spreadsheet in an Incognito window or in a different browser.
+If you are getting a “You need permission to access this published document” message, open the Unconference spreadsheet in an Incognito window or in a different browser.
 
 
 What can I do at the conference?
