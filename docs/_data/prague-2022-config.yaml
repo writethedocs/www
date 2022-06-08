@@ -164,6 +164,10 @@ sponsors:
   keystone:
   patron:
   publisher:
+    - name: archbee-new
+      link: https://www.archbee.io/?utm_medium=banner&utm_source=conference&utm_campaign=wtd
+      brand: Archbee
+      min_width: 300px
   second:
     - name: knowledgeowl
       link: https://www.knowledgeowl.com
