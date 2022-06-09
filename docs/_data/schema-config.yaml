@@ -154,6 +154,7 @@ sponsor-detail:
   brand: str(required=True)
   text: str(required=False)
   width: str(required=False)
+  min_width: str(required=False)
 
 
 about-details:
