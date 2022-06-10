@@ -110,7 +110,7 @@ The minimum purchase is three tickets.
 
 {% if flagticketsonsale %}
 
-* Contact us on `{{email}} <mailto:{{email}}>`_ for this service.
+* Contact us at `{{email}} <mailto:{{email}}>`_ for this service.
 
 {% endif %}
 
