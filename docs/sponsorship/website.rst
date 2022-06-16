@@ -51,10 +51,14 @@ Sidebar Advertising
 This option gives you an ad on the Write the Docs sidebar,
 and is the best way to actively sell something to our community.
 
-Example
-~~~~~~~
+Examples
+~~~~~~~~
 
 .. image:: /_static/img/sponsorship/advertising-example.png
+   :width: 40%
+
+.. image:: /_static/img/sponsorship/sidebar-example.png
+   :width: 40%
 
 Specs
 ~~~~~
