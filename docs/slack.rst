@@ -186,6 +186,7 @@ No sales-y content
 - **No Direct Pitches** - Our Slack is not the place for sales pitches. Consider sponsoring one of our :doc:`conferences </conf/index>` instead!
 - **No links without context** - If you put a link in the chat without context or explanation, it may be deleted.
 - **No Brands** - If you're going to post, post as yourself, not as a brand. We are a community of individuals and we all exist outside of our day jobs and personal brands.
+- **Be Transparent** - Tell people clearly what you are promoting, why it matters to documentarians, and whether you are personally or professionally involved. Be up front if there are any paywalls or registration gates in front of the content. Avoid using link shorteners. These efforts help distinguish spam or drive-by marketing from actual community engagement.
 
 If you see a message in a public channel that looks like spam, you can react to it with the ``:spam:`` reactji to bring the moderators' attention to it.
 
