@@ -14,7 +14,8 @@ import requests
 import statistics
 
 
-def get_review_scores(pretalx_slug, previous_slugs, output_file):
+def get_review_scores(pretalx_slug, previous_slugs):
+    output_file = pretalx_slug + '-cfp-reviews.csv'
     if not os.environ.get('PRETALX_TOKEN'):
         print('Error: PRETALX_TOKEN not found in environment variables.')
         return
@@ -88,7 +89,6 @@ def get_previous_submissions(pretalx_slugs, http_headers):
                 state = submission['state']
                 speakers_submissions.setdefault(speaker['code'], {}).setdefault(state, set()).add(event_name)
 
-
     return speakers_submissions
 
 
@@ -123,5 +123,4 @@ if __name__ == '__main__':
             'write-the-docs-australia-2020',
             'wtd-australia-and-india-2021',
         ],
-        output_file='wtd-portland-2022-reviews.csv',
     )
