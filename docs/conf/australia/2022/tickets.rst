@@ -90,7 +90,7 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 
 {% if flagticketsonsale %}
 
-* `Buy Student or Unemployed Ticket <https://ti.to/writethedocs/write-the-docs-australia-india-2022>`__
+* `Buy Student or Unemployed Ticket <https://ti.to/writethedocs/write-the-docs-australia-2022>`__
 
 {% endif %}
 
