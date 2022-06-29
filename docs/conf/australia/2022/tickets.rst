@@ -64,7 +64,7 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 
 {% if flagticketsonsale %}
 
-* `Buy Corporate Ticket <https://ti.to/writethedocs/write-the-docs-australia-india-2022>`__
+* `Buy Corporate Ticket <https://ti.to/writethedocs/write-the-docs-australia-2022>`__
 
 {% endif %}
 
@@ -77,7 +77,7 @@ Purchase this ticket if you are paying for yourself, or if you work at a non-pro
 
 {% if flagticketsonsale %}
 
-* `Buy Independent Ticket <https://ti.to/writethedocs/write-the-docs-australia-india-2022>`__
+* `Buy Independent Ticket <https://ti.to/writethedocs/write-the-docs-australia-2022>`__
 
 {% endif %}
 
