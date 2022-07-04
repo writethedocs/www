@@ -1,4 +1,7 @@
-# Generate a CFP review sheet from Pretalx
+# Generate a CFP review meeting sheet from Pretalx
+# The resulting sheet is intended as an aid during the meeting,
+# not as an ongoing data source.
+#
 # To use:
 # - Get an API token from https://pretalx.com/orga/me
 # - Update the parameters at the end of this file, if needed (e.g. conference name)
@@ -22,9 +25,13 @@ def get_review_scores(pretalx_slug, previous_slugs):
     http_headers = {'Authorization': 'Token ' + os.environ['PRETALX_TOKEN']}
 
     submissions_url = f'https://pretalx.com/api/events/{pretalx_slug}/submissions/'
-    print(f'Loading submissions from {submissions_url}...')
+    print(f'Loading current submissions from {submissions_url}...')
     submissions_list = load_pretalx_resource(submissions_url, http_headers)
-    submissions = {submission['code']: submission for submission in submissions_list}
+    submissions = {
+        submission['code']: submission
+        for submission in submissions_list
+        if submission['state'] not in ['withdrawn', 'canceled']
+    }
 
     previous_submissions = get_previous_submissions(previous_slugs, http_headers)
 
@@ -71,7 +78,7 @@ def get_previous_submissions(pretalx_slugs, http_headers):
     events_list = []
     for slug in pretalx_slugs:
         url = f'https://pretalx.com/api/events/{slug}'
-        print(f'Loading event from {url}...')
+        print(f'Loading previous event from {url}...')
         response = requests.get(url, headers=http_headers)
         if response.status_code != 200:
             print(f'Error: request failed: {response.status_code}: {response.text}')
@@ -81,7 +88,7 @@ def get_previous_submissions(pretalx_slugs, http_headers):
     speakers_submissions = {}
     for event in events_list:
         submissions_url = f'https://pretalx.com/api/events/{event["slug"]}/submissions/'
-        print(f'Loading submissions from {submissions_url}...')
+        print(f'Loading previous submissions from {submissions_url}...')
         event_submissions = load_pretalx_resource(submissions_url, http_headers)
         for submission in event_submissions:
             for speaker in submission['speakers']:
