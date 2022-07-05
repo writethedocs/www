@@ -31,7 +31,7 @@ Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
-* **When**: **10:00pm-4:30pm AEDT**
+* **When**: **10:00am-4:30pm AEDT**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 .. separator to fix list formatting
@@ -82,7 +82,7 @@ Conference Talks
 ~~~~~~~~~~~~~~~~
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
-* **When**: **10:00pm-4:30pm AEDT**
+* **When**: **10:00am-4:30pm AEDT**
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 .. separator to fix list formatting
