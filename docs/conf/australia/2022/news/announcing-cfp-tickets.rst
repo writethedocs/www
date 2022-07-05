@@ -3,10 +3,10 @@
 .. post:: June 29, 2022
    :tags: {{shortcode}}-{{year}}, cfp
 
-Announcing Call for Proposals, Ticket Sales and the Grant Program
+Announcing Call for Proposals, Ticket Sales and the Grant program
 =================================================================
 
-G'day, today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/australia/{{year}}/cfp/>`_ and `ticket sales <https://www.writethedocs.org/conf/australia/{{year}}/tickets/>`_.
+G'day folks, today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/australia/{{year}}/cfp/>`_ and `ticket sales <https://www.writethedocs.org/conf/australia/{{year}}/tickets/>`_.
 We'll have more updates about the conference soon, but we wanted to announce our CFP so you have time to prepare your talk ideas. 
 
 Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
@@ -39,7 +39,7 @@ Our grant program offers tickets to people who would otherwise not be able to at
 We're excited to be able to offer free tickets to a larger number of people this year,
 since there are now minimal other costs to attend the event.
 
-You can apply until **October 15, 2022, Midnight AEDT** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
+You can apply until **October 15, 2022, midnight AEDT** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
 
 
 Stay Updated
