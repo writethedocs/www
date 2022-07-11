@@ -86,11 +86,32 @@ A longer read: Textio released their `Language Bias in Performance Feedback repo
 From our sponsor
 ----------------
 
-This month’s newsletter is sponsored by SPONSOR:
+This month’s newsletter is sponsored by `Zoomin <https://www.zoominsoftware.com/?vert=Write_The_Docs_Newsletter&utm_medium=referral&utm_source=WriteTheDocs&utm_campaign=Write_The_Docs_Newsletter>`_:
 
 .. raw:: html
 
-    <div></div>
+
+    <hr>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
+      <tbody>
+        <tr>
+          <td width="75%">
+          <p>
+          Fix your everyday blindspots with Zoomin’s live panel <a href="https://bit.ly/3P7Rzjl">5 big content mistakes, solved</a> and make your knowledge center the go-to portal. Host: The Content Wrangler.
+          </p>
+          <p>
+          Read Zoomin's guide <a href="https://bit.ly/3ytPOar">6 key elements of a world-class content experience</a> to get your customers the answers they are looking for.
+          </p>
+          </td>
+          <td width="25%">
+            <a href="https://www.zoominsoftware.com/?vert=Write_The_Docs_Newsletter&utm_medium=referral&utm_source=WriteTheDocs&utm_campaign=Write_The_Docs_Newsletter">
+              <img style="margin-left: 15px;" alt="SPONSOR" src="/_static/img/sponsors/zoomin.png">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
 
 *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
