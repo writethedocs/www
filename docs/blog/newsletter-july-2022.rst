@@ -11,7 +11,7 @@ Job security and transitions was a topic on lots of people's minds this month. S
 
 In related news, the `2021 Salary Survey <https://www.writethedocs.org/surveys/salary-survey/2021/>`__ has been released. It's based on responses from 959 documentarians (887 employees and 72 independent contractors) from 49 different countries. This year for the first time, we were able to break down median salary by years of experience, gender identity, and organization size. We hope you can find something useful for you in your own salary discussions. And look out for the 2022 survey, which will be opened up for responses later this year.
 
-We hope the post-solstice time, whether summer or winter, is treating you well and we'll be back with more news following a one-month break.
+We hope the post-solstice time, whether summer or winter, is treating you well and we'll be back with more news in September following a one-month break.
 
 ----------------------------------
 What's in a good reviewer's guide?
