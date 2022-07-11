@@ -40,7 +40,7 @@ The first option, "see", has plenty of advocates. It's a short, simple word and 
 
 But "see" has some downsides: it doesn't apply to folks with visual impairments and its vagueness can make it hard to translate correctly.
 
-The next contender is "refer". Per the `ASD-STE100 Simplified Technical English specification <https://asd-ste100.org/request.html>`_, refer is more correct: it means "to tell a person where to find information/give information," while see is litera_lly "to know with the eyes."
+The next contender is "refer". Per the `ASD-STE100 Simplified Technical English specification <https://asd-ste100.org/request.html>`__, refer is more correct: it means "to tell a person where to find information/give information," while see is litera_lly "to know with the eyes."
 
 This specification has other more precise options to replace "see" in other contexts. For example, instead of "move the tube to see if the connection is tight" use "move the tube to make sure the connection is tight".
 
@@ -74,13 +74,13 @@ Toward the end of the wide-ranging conversation, folks dug into the question of 
 What we’re reading
 ------------------
 
-The #bipoc group’s been discussing the following materials on diversity, inclusion, and equity. Want to join the conversation? Please join us in the `#bipoc Slack channel <https://writethedocs.slack.com/archives/C016STMEWJD>`_!
+The #bipoc group’s been discussing the following materials on diversity, inclusion, and equity. Want to join the conversation? Please join us in the `#bipoc Slack channel <https://writethedocs.slack.com/archives/C016STMEWJD>`__!
 
-A short read: Google, and other big tech companies, are struggling with `caste discrimination <https://www.nbcnews.com/news/asian-america/big-techs-big-problem-also-best-kept-secret-caste-discrimination-rcna33692>`_ after cancelling a Dalit History Month talk.
+A short read: Google, and other big tech companies, are struggling with `caste discrimination <https://www.nbcnews.com/news/asian-america/big-techs-big-problem-also-best-kept-secret-caste-discrimination-rcna33692>`__ after cancelling a Dalit History Month talk.
 
-A medium read: Belonging to a community of support can help shape your career and your life. However, for Black people, it can be hard to find role models in the tech field. The New Stack writes about `BlackTechTwitter <https://thenewstack.io/blacktechtwitter-for-life/>`_ and includes a list of accounts to follow.
+A medium read: Belonging to a community of support can help shape your career and your life. However, for Black people, it can be hard to find role models in the tech field. The New Stack writes about `BlackTechTwitter <https://thenewstack.io/blacktechtwitter-for-life/>`__ and includes a list of accounts to follow.
 
-A longer read: Textio released their `Language Bias in Performance Feedback report <https://www.oprahdaily.com/life/a32893726/what-is-juneteenth/>`_. They found that when looking at job performance feedback, patterns of bias appear for most all underrepresented groups.
+A longer read: Textio released their `Language Bias in Performance Feedback report <https://www.oprahdaily.com/life/a32893726/what-is-juneteenth/>`__. They found that when looking at job performance feedback, patterns of bias appear for most all underrepresented groups.
 
 ----------------
 From our sponsor
@@ -102,7 +102,7 @@ Featured job posts
 - `Documentation Team Lead <https://jobs.writethedocs.org/job/802/documentation-team-lead/>`__, StarTree (Remote US)
 - `Technical Author, Fast Track  <https://jobs.writethedocs.org/job/777/technical-author-fast-track/>`__, Canonical (Remote)
 
-*To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
+*To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`__.
 
 ------------------------
 Virtual events coming up
