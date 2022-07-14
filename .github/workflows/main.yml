@@ -110,4 +110,4 @@ jobs:
 
       - name: Check links
         run: |
-          htmlproofer --ignore-files "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/" --allow-hash-href  --ignore-empty-alt '/.*/' --disable-external docs/_build/html
+          htmlproofer --ignore-files "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/" --allow-hash-href  --ignore-empty-alt --disable-external docs/_build/html
