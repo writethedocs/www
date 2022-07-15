@@ -26,12 +26,12 @@ Previous Book club reads
 
 * April - June 2022: Rick Umali's `Learn Git in a Month of Lunches <https://www.manning.com/books/learn-git-in-a-month-of-lunches>`_
 * February - March 2022: Jared Batti and others' `Docs for Developers <https://docsfordevelopers.com/>`_
-* September - November 2021: Antony Johnston's `The Organised Writer <http://organised-writer.com/>`_
+* September - November 2021: Antony Johnston's `The Organised Writer <https://organised-writer.com/>`_
 * June - July 2021: Janice Redish's `Letting Go of the Words <https://redish.net/books/letting-go-of-the-words/>`_
 * January - March 2021: Richard Hamilton's `Managing Writers <https://www.amazon.com/gp/product/0982219105>`_
 * October - November 2020: Anne Gentle's `Docs Like Code <https://www.docslikecode.com/>`_
 * August - September 2020: Steve Krug's `Don't Make Me Think, Revisited (3rd Edition) <https://www.sensible.com/dmmt.html>`_
-* June - July 2020: Abby Covert's `How to Make Sense of Any Mess <http://www.howtomakesenseofanymess.com/>`_
+* June - July 2020: Abby Covert's `How to Make Sense of Any Mess <https://www.howtomakesenseofanymess.com/>`_
 * March - May 2020: Mark Baker's `Every Page Is Page One <https://everypageispageone.com/the-book/>`_
 * January 2020: Christopher Gale (and the Splunk team)'s `The Product Is Docs <https://www.splunk.com/en_us/blog/splunklife/the-product-is-docs.html>`_
 

@@ -15,7 +15,7 @@ and is willing to be organizer in chief on the ground, so the DC area might make
 Eric Holscher, original founder of WTD NA, also has family in the DC area and has already looked into
 this possibility for a venue:
 
-[State Theatre, Falls Church, VA](http://www.thestatetheatre.com/index.xml)
+[State Theatre, Falls Church, VA](https://www.thestatetheatre.com/index.xml)
 
 I (Jennifer) visited a couple of weeks ago and met with the owner and event coordinator.
 We discussed a somewhat shorter event (two days, 10am to 4pm Monday-Tuesday in early October).

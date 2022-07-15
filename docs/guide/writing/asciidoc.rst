@@ -4,7 +4,7 @@ Introduction to AsciiDoc
 What is AsciiDoc?
 -----------------
 
-`AsciiDoc <http://asciidoc.org>`_ is a text document format that was explicitly designed with the needs of publishing in mind, both print and web. It supports all the structural elements necessary for writing notes, documentation, articles, books, ebooks, slideshows, web pages, technical manuals and blogs. AsciiDoc is used in static site generators like `Antora <https://antora.org>`_.
+`AsciiDoc <https://asciidoc.org>`_ is a text document format that was explicitly designed with the needs of publishing in mind, both print and web. It supports all the structural elements necessary for writing notes, documentation, articles, books, ebooks, slideshows, web pages, technical manuals and blogs. AsciiDoc is used in static site generators like `Antora <https://antora.org>`_.
 
 AsciiDoc is highly configurable: both the AsciiDoc source file syntax and the backend output markups (which can be almost any type of SGML/XML markup) can be customized and extended by the user.
 
@@ -319,7 +319,7 @@ Include Files
 
 Resources
 ---------
-* `AsciiDoc <http://asciidoc.org>`_ 
+* `AsciiDoc <https://asciidoc.org>`_ 
 * `AsciiDoc Cheatsheet <https://powerman.name/doc/asciidoc>`_
 * `Asciidoctor <https://asciidoctor.org>`_
 * `AsciiDoctor Syntax Quick Reference <https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/>`_

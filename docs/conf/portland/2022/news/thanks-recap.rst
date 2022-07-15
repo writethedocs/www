@@ -76,7 +76,7 @@ the conference, and we hope that y’all continue the conversations
 throughout the year. If you haven’t joined, now is the time! Check out
 the `Write the Docs Slack`_.
 
-.. _Write the Docs Slack: http://www.writethedocs.org/slack/
+.. _Write the Docs Slack: https://www.writethedocs.org/slack/
 
 Write the Docs Newsletter
 -------------------------
@@ -86,7 +86,7 @@ that is happening with the community. Subscribe to make sure you hear
 about all the conferences, meetups, job postings, and summaries of
 relevant conversations in our Slack.
 
-.. _monthly newsletter: http://writethedocs.org/newsletter/
+.. _monthly newsletter: https://writethedocs.org/newsletter/
 
 Local Meetups
 -------------
@@ -100,8 +100,8 @@ New this year are our `Quorum Meetups`_ which are virtual and targeting
 large geographic areas. There’s already one covering most everyone in
 the US or in a similar timezone.
 
-.. _build the meetup community: http://www.writethedocs.org/meetups/
-.. _starting: http://www.writethedocs.org/organizer-guide/meetups/starting/
+.. _build the meetup community: https://www.writethedocs.org/meetups/
+.. _starting: https://www.writethedocs.org/organizer-guide/meetups/starting/
 .. _Quorum Meetups: https://www.writethedocs.org/meetups/#current-meetups-quorum
 
 Code of Conduct transparency report

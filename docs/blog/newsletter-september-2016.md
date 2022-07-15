@@ -10,7 +10,7 @@ tags: newsletter
 
 Hello Write the Docs! If you're getting this email, you've probably attended (or considered attending) one of the documentation [conferences](https://www.writethedocs.org/conf/) we've put on over the last few years. As our events have grown, so too has our community, and we're working hard to make Write the Docs a year-round affair.
 
-As part of that effort, we're sending you this, our inaugural edition of the new Write the Docs monthly newsletter! Our goal is to make it easier for folks to keep current with what the community's talking about each month. The bulk of the newsletter content will be distilled from interesting conversations that crop up on the #general channel of the [Write the Docs Slack ](http://slack.writethedocs.org/). We'll be highlighting topics that are recurring themes or simply seem to resonate with a lot of folks.
+As part of that effort, we're sending you this, our inaugural edition of the new Write the Docs monthly newsletter! Our goal is to make it easier for folks to keep current with what the community's talking about each month. The bulk of the newsletter content will be distilled from interesting conversations that crop up on the #general channel of the [Write the Docs Slack ](https://slack.writethedocs.org/). We'll be highlighting topics that are recurring themes or simply seem to resonate with a lot of folks.
 
 
 ```{note}
@@ -39,15 +39,15 @@ If you're looking for more info about UI help text, check out Beth Aitman's talk
 ## Metrics case study: Total Time Reading (TTR)
 
 Who doesn't love talking about documentation metrics? (No one, that's who.) One of the Write the Docs co-founders, Troy Howard, has a new blog post out, in which he takes a close look at Total Time Reading (TTR) as a way of judging the success of a page or article. If documentation metrics is your thing, it's definitely worth a read:
-[TechDocs Metrics Case Study: Total Time Reading (TTR)](http://blog.thoward37.me/articles/techdocs-metrics-total-time-reading-(ttr))
+[TechDocs Metrics Case Study: Total Time Reading (TTR)](https://blog.thoward37.me/articles/techdocs-metrics-total-time-reading-(ttr))
 
 ## Code review versus copy review
 
-Another blog post that spurred conversation was this one from the Atlassian blog, [The (written) unwritten guide to pull requests](http://blogs.atlassian.com/2016/07/written-unwritten-guide-pull-requests/). In addition to having lots of good pointers for, y'know, doing code reviews, it also sparked a conversation about some of those same techniques can be used to conduct copy reviews on your docs.
+Another blog post that spurred conversation was this one from the Atlassian blog, [The (written) unwritten guide to pull requests](https://blogs.atlassian.com/2016/07/written-unwritten-guide-pull-requests/). In addition to having lots of good pointers for, y'know, doing code reviews, it also sparked a conversation about some of those same techniques can be used to conduct copy reviews on your docs.
 
 This especially struck a chord with folks who work with a team of content contributors. Having a set editorial review process is really helpful for building up a reliable and transparent workflow. The general feeling was that stealing some code review techniques and adapting them to an editorial review process could save you from having to reinvent the wheel.
 
-Another suggestion for a good resource when you're building up copy review processes was ['The Checklist Manifesto'](http://www.powells.com/book/checklist-manifesto-9780805091748), by Atul Gawande.
+Another suggestion for a good resource when you're building up copy review processes was ['The Checklist Manifesto'](https://www.powells.com/book/checklist-manifesto-9780805091748), by Atul Gawande.
 
 ## One style guide or two?
 
@@ -65,7 +65,7 @@ From the other camp, here were some arguments in favor of a single guide:
 * A consistent voice across all company materials is a trend, even if, historically, technical docs may not have been beholden to the brand's tone guidelines.
 * Using terms that a layperson will understand is best practice in tech docs, and having a central style guide makes that consistency easier.
 
-For more on documentation style guides, this blog post from [I Heart Technical Writing](http://www.ihearttechnicalwriting.com/style-guide-technical-writing/) is a good place to start.
+For more on documentation style guides, this blog post from [I Heart Technical Writing](https://www.ihearttechnicalwriting.com/style-guide-technical-writing/) is a good place to start.
 
 ## Looking for more Write the Docs?
 

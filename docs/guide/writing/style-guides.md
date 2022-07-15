@@ -27,19 +27,19 @@ You can certainly create a style guide of your own. For the sake of simplicity, 
 
 ### How-to articles for writing a style guide
 
-- [Creative Blog — Create a website style guide](http://www.creativebloq.com/design/create-website-style-guide-6123030)
-- [Gather Content — Developing a Content style guide](http://blog.gathercontent.com/tone-of-voice-guide)
-- [HubSpot — How to Create a Writing style guide Built for the Web](http://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx)
-- [Meet Content — Editorial Style for the Web](http://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
+- [Creative Blog — Create a website style guide](https://www.creativebloq.com/design/create-website-style-guide-6123030)
+- [Gather Content — Developing a Content style guide](https://blog.gathercontent.com/tone-of-voice-guide)
+- [HubSpot — How to Create a Writing style guide Built for the Web](https://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx)
+- [Meet Content — Editorial Style for the Web](https://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
 - [Stanford — Creating a web style guide](https://swsblog.stanford.edu/blog/creating-web-style-guide-cardinal-work)
-- [Techwhirl – Developing a Style Guide for Technical Publications](http://techwhirl.com/developing-a-departmental-style-guide/)
+- [Techwhirl – Developing a Style Guide for Technical Publications](https://techwhirl.com/developing-a-departmental-style-guide/)
 
 ## Traditional writing style guide resources
 
 Style guides have been around for as long as people have been publishing in any format. Traditional style guides originally intended for specific forms of print publication have become basic standards for many others to refer to, including documentarians:
 
 - The [AP Stylebook](https://www.apstylebook.com/)
-- The [Chicago Manual of Style](http://www.chicagomanualofstyle.org/book/ed17/frontmatter/toc.html)
+- The [Chicago Manual of Style](https://www.chicagomanualofstyle.org/book/ed17/frontmatter/toc.html)
 
 Additional books on writing:
 
@@ -96,7 +96,7 @@ Writing for accessibility includes making sure copy can be read by screenreaders
 Relevant talks from Write the Docs:
 
 - [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write the Docs Prague 2018
-- [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015
+- [Inclusive Tech Docs - TechComm Meets Accessibility](https://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015
 
 ### Reducing bias in your writing
 
@@ -113,7 +113,7 @@ Relevant talk from Write the Docs:
 Style guide and guidelines for code samples:
 
 - [API reference code comments -- Google developer documentation style guide](https://developers.google.com/style/api-reference-comments)
-- [API Documentation Guidelines -- Ruby on Rails](http://guides.rubyonrails.org/api_documentation_guidelines.html)
+- [API Documentation Guidelines -- Ruby on Rails](https://guides.rubyonrails.org/api_documentation_guidelines.html)
 - [REST API Documentation Best Practices -- bocoup](https://bocoup.com/blog/documenting-your-api)
 
 ## Command line resources
@@ -244,7 +244,7 @@ What to avoid:
 
 - [App Release Notes Are Getting Stupid -- TechCrunch](https://techcrunch.com/2015/09/04/app-release-notes-are-getting-stupid/)
 - [Release Notes: 13 Mistakes to Avoid When Writing Bugs and Enhancements -- klariti.com](https://www.klariti.com/technical-writing/2015/05/08/release-notes-mistakes-to-avoid/) Related talks:
-- [Learning to love release notes](http://www.writethedocs.org/videos/prague/2018/learning-to-love-release-notes-anne-edwards/) at Write the Docs Prague 2018
+- [Learning to love release notes](https://www.writethedocs.org/videos/prague/2018/learning-to-love-release-notes-anne-edwards/) at Write the Docs Prague 2018
 - [Rethinking Release Notes](https://www.youtube.com/watch?v=SWduFnDPjYg) at Write the Docs Australia 2019
 
 <!-- vale on -->

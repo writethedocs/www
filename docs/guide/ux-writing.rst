@@ -17,13 +17,13 @@ Videos
 Websites/blogs
 --------------
 
-* `http://uxwritinghub.com/blog/ <http://uxwritinghub.com/blog/>`_
+* `https://uxwritinghub.com/blog/ <https://uxwritinghub.com/blog/>`_
 * `BJohn Saito @ Medium <https://medium.com/@jsaito>`_
 
 Podcast
 -------
 
-* `“Writers in Tech” <http://uxwritinghub.com/category/podcast/>`_
+* `“Writers in Tech” <https://uxwritinghub.com/category/podcast/>`_
 
 Books
 -----
@@ -40,7 +40,7 @@ Books
 
 Online courses
 --------------
-* `http://uxwritinghub.com/ <http://uxwritinghub.com/>`_ offers both a paid online course as well as a free foundations course.
+* `https://uxwritinghub.com/ <https://uxwritinghub.com/>`_ offers both a paid online course as well as a free foundations course.
 * `https://dailyuxwriting.com/ <https://dailyuxwriting.com/>`_ sends you short UX writing challenges for 14 days
 
 

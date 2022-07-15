@@ -43,7 +43,7 @@ Breaking into tech writing and navigating the career transition can be challengi
 - Certification, training, and freelance opportunities are all valid ways to create a portfolio and gain a basic level of industry knowledge.
 - Leverage your experience even if you’re coming from a completely different field: there are often relevant skills you can highlight, like other kinds of writing, or research skills.
 - Contribute and engage in open-source communities to show your skills and passion.
-- Look for internship programs, for example through `Outreachy <http://outreachy.org/>`__, to find low-barrier entry opportunities.
+- Look for internship programs, for example through `Outreachy <https://outreachy.org/>`__, to find low-barrier entry opportunities.
 - Update your resume by adding new skills, linking your portfolio and social media, and tailoring your experience to each job posting.
 - Network with tech writers and find mentors to learn about new roles, share experiences, and develop professional relationships.
 - Lastly - don’t give up! These things take time and effort, but the community is here to support you - drop by in `#career-advice <https://app.slack.com/client/T0299N2DL/C6ADX1YVA>`__ if you need a boost.

@@ -5,7 +5,7 @@ A beginner's guide to writing documentation
           Please provide feedback to `@ericholscher`_.
           You can view the source on `GitHub`_.
 
-.. _@ericholscher: http://twitter.com/ericholscher
+.. _@ericholscher: https://twitter.com/ericholscher
 .. _GitHub: https://github.com/writethedocs/www/blob/master/docs/guide/writing/beginners-guide-to-docs.rst
 
 ..
@@ -166,7 +166,7 @@ This removes obstacles to actually putting words on the page.
    and decide which you want to use going forward.
 
 .. _reStructuredText: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
-.. _Markdown: http://daringfireball.net/projects/markdown/
+.. _Markdown: https://daringfireball.net/projects/markdown/
 
 Version controlled plain text
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -187,8 +187,8 @@ Basic Example
 	Resources
 	---------
 
-	* Online documentation: http://docs.writethedocs.org/
-	* Conference: http://conf.writethedocs.org/
+	* Online documentation: https://docs.writethedocs.org/
+	* Conference: https://conf.writethedocs.org/
 
 This will render into a header,
 with a list underneath it.
@@ -207,7 +207,7 @@ So having a solid README will serve your project well.
 
 Some people even go as far as to `start your project with a README`_
 
-.. _start your project with a README: http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
+.. _start your project with a README: https://tom.preston-werner.com/2010/08/23/readme-driven-development.html
 
 .. _write:
 
@@ -234,7 +234,7 @@ What problem your project solves
 
 A lot of people will come to your docs trying to figure out what exactly your project is. Someone will mention it, or they'll google a phrase randomly. You should explain what your project does and why it exists. Fabric_ does a great job of this.
 
-.. _Fabric: http://docs.fabfile.org/
+.. _Fabric: https://docs.fabfile.org/
 
 A small code example
 ~~~~~~~~~~~~~~~~~~~~
@@ -248,14 +248,14 @@ A link to your code & issue tracker
 
 People like to browse the code sometimes. They might be interested in filing bugs against the code for issues they've found. Make it really easy for people who want to contribute back to the project in any way possible. I think the `Python Guide`_ does a good job with the link to the code portion.
 
-.. _Python Guide: http://docs.python-guide.org/en/latest/index.html
+.. _Python Guide: https://docs.python-guide.org/en/latest/index.html
 
 Frequently Asked Questions (FAQ)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A lot of people have the same problems. If things happen all the time, you should probably fix your documentation or the code, so that the problems go away. However, there are always questions that get asked about your project, things that can't be changed, etc. Document those, and **keep it up to date**. FAQs are generally out of date, but when done well, they are a golden resource. Tastypie_ did a great job with this, with their "Cookbook" concept.
 
-.. _Tastypie: http://django-tastypie.readthedocs.org/en/latest/cookbook.html
+.. _Tastypie: https://django-tastypie.readthedocs.org/en/latest/cookbook.html
 
 How to get support
 ~~~~~~~~~~~~~~~~~~
@@ -279,7 +279,7 @@ Installation instructions
 
 Once people figure out whether they want to use your code or not, they need to know how to actually get it and make it run. Hopefully your install instructions should be a couple lines for the basic case. A page that gives more information and caveats should be linked from here if necessary. I think at `Read the Docs`_ we do a good job with this.
 
-.. _Read the Docs: http://read-the-docs.readthedocs.org/en/latest/install.html
+.. _Read the Docs: https://read-the-docs.readthedocs.org/en/latest/install.html
 
 
 Your project's license

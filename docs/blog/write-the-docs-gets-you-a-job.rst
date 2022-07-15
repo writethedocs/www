@@ -30,7 +30,7 @@ via our *#jobs* channel in Slack.
 These connections are important to health and success of our community.
 In an effort to foster more of them,
 we're excited to announce the launch of two new Write the Docs resources this year.
-The first is an `online job board <http://jobs.writethedocs.org>`_,
+The first is an `online job board <https://jobs.writethedocs.org>`_,
 where employers can post jobs and candidates can peruse them.
 The second is an in-person job fair,
 which will be held at both the Portland and Prague conferences this year.
@@ -41,7 +41,7 @@ Write the Docs Job Board
 ------------------------
 
 The new job board is already live –
-pay it a visit at: http://jobs.writethedocs.org.
+pay it a visit at: https://jobs.writethedocs.org.
 The board has two simple functions.
 Employers can register and post their job openings.
 Candidates can search for and be notified about available positions.

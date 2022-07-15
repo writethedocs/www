@@ -37,7 +37,7 @@ Conferences
 Australia went from a one-day to a two-day conference,
 growing from 50 to 100 attendees.
 Cincinnati was new this year,
-in collaboration with `OpenHelp <http://openhelp.cc/>`_,
+in collaboration with `OpenHelp <https://openhelp.cc/>`_,
 and had 50 attendees.
 
 We also had a `full day meetup <https://www.meetup.com/Write-The-Docs-London/events/248304896/>`_ in London,

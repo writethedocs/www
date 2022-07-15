@@ -12,7 +12,7 @@ In the next few weeks, the organization team will be:
 
 - Announcing the call for proposals (and looking for volunteers) for next year's Portland conference! (If you're not signed up to the conference mailing list, you can do so  `here <https://www.writethedocs.org/newsletter/>`_.)
 - Wishing we were all going to be in Australia for their `Write the Docs Day mini-conference <https://www.writethedocs.org/conf/au/2017/>`_.
-- Looking on excitedly as API the Docs holds `their second one-day event in Amsterdam <http://apithedocs.org/>`_.
+- Looking on excitedly as API the Docs holds `their second one-day event in Amsterdam <https://apithedocs.org/>`_.
 - Musing on how we got so lucky as to have `almost a dozen meetups this month <#upcoming-community-events>`_ in a cities across the western hemisphere.
 
 Of course, in the meantime, we also have an array of documentation stories below, for your reading pleasure. Enjoy!
@@ -41,7 +41,7 @@ For many of us, our primary use of ``{}``, ``[]``, and ``()`` is in code. But wh
 
 Just in our own Slack community, people said they refer to ``{}`` as squiggly brackets, braces, curly brackets, curly braces, and (totally seriously, I'm sure) curly wurly woos. If that's not enough, `the wikipedia article on brackets <https://en.wikipedia.org/wiki/Bracket>`_ is not only a hilariously deep rabbit hole, but also provides us with more names including: French brackets, definite brackets, swirly brackets, birdie brackets, Scottish brackets, squirrelly brackets, gullwings, seagulls, twirly brackets, Tuborg brackets (DK), accolades (NL), pointy brackets, third brackets, fancy brackets, and m braces.
 
-As for their use in prose, as opposed to code, someone shared `a Grammar Girl article <http://www.quickanddirtytips.com/education/grammar/parentheses-brackets-and-braces>`_, which digs into the various proper usages for ``()`` and ``[]``. (Curly wurly woos don't come up much in prose, so the post doesn't touch on them much.)
+As for their use in prose, as opposed to code, someone shared `a Grammar Girl article <https://www.quickanddirtytips.com/education/grammar/parentheses-brackets-and-braces>`_, which digs into the various proper usages for ``()`` and ``[]``. (Curly wurly woos don't come up much in prose, so the post doesn't touch on them much.)
 
 So remember, for the Write the Docs hivemind, there is no question too big, and no question too small.
 
@@ -51,7 +51,7 @@ It's your turn to ask the questions
 
 We've all fretted over what we might be asked during an interview. But what about when it's our turn to ask questions? This month, a job-hunter sparked a great conversation about what to ask in an tech writing interview. We've written up a few highlights:
 
-**Show them you know your job.** Asking specific questions about their expectations and processes can get you into the nitty-gritty, and give you a chance to show off your chops. `This blog post has some good examples. <http://stcrmc.org/wordpress/?p=2968#>`_
+**Show them you know your job.** Asking specific questions about their expectations and processes can get you into the nitty-gritty, and give you a chance to show off your chops. `This blog post has some good examples. <https://stcrmc.org/wordpress/?p=2968#>`_
 
 **Don't be afraid to follow up.** If something they say raises a concern – or just piques your curiosity – loop back to it when your turn for questions comes.
 
@@ -85,7 +85,7 @@ November is a big-ticket month for the events! Not only do we have a cavalcade o
 
 **Write the Docs Day Australia** is happening in Melbourne on the 24th, and you can still snag a ticket here: `https://www.writethedocs.org/conf/au/2017/ <https://www.writethedocs.org/conf/au/2017/>`_
 
-**API The Docs** is holding their second event in Amsterdam on December 4th, and their sign up is still open here: `http://apithedocs.org/ <http://apithedocs.org/>`_
+**API The Docs** is holding their second event in Amsterdam on December 4th, and their sign up is still open here: `https://apithedocs.org/ <https://apithedocs.org/>`_
 
 Here's the full line-up:
 
@@ -113,4 +113,4 @@ November 27 – Berlin, Germany – `November Hackup <https://www.meetup.com/Wr
 
 November 29 – Leeds-Bradford, UK – `Social meetup: Burgers & Chat <https://www.meetup.com/Write-the-Docs-Leeds-Bradford/events/244243638/>`_
 
-December 4 – Amsterdam, Netherlands – `API The Docs mini-conference <http://apithedocs.org/>`_
+December 4 – Amsterdam, Netherlands – `API The Docs mini-conference <https://apithedocs.org/>`_

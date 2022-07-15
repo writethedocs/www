@@ -1,4 +1,4 @@
-Each year we run an event called the Writing Day during the conference. This event is modeled after the concept of `sprints <http://en.wikipedia.org/wiki/Sprint_%28software_development%29>`_, which are common in open-source conferences.
+Each year we run an event called the Writing Day during the conference. This event is modeled after the concept of `sprints <https://en.wikipedia.org/wiki/Sprint_%28software_development%29>`_, which are common in open-source conferences.
 The main premise is to get a bunch of interesting people in a room together and have them work towards shared goals.
 
 To make the most out of the Writing Day, we recommend that you either come with a project, or be ready and willing to contribute to someone else's project.
@@ -18,7 +18,7 @@ You get the idea.
 
 All this adds up to a room full of smart people sharing your problems, your passion, and your goals. So be ready to learn some new things and to teach others what you know.
 
-Even if you `feel <http://en.wikipedia.org/wiki/Impostor_syndrome>`__ as though you don't know that much, we know you have a lot to offer. Come surprise yourself with how much you can share.
+Even if you `feel <https://en.wikipedia.org/wiki/Impostor_syndrome>`__ as though you don't know that much, we know you have a lot to offer. Come surprise yourself with how much you can share.
 
 Documenting a new project?
 --------------------------

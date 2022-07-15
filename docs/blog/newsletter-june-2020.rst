@@ -60,7 +60,7 @@ Here are some tools to help you tell if a word is common or uncommon:
 *   `Google Trends <https://trends.google.com/trends/?geo=US>`__
 *   `iWeb Corpus <https://www.english-corpora.org/iweb/>`__
 *   `1000 Most Common English Words <https://1000mostcommonwords.com/1000-most-common-english-words/>`__
-*   `Plain English Campaign (guidelines) <http://www.plainenglish.co.uk/>`__
+*   `Plain English Campaign (guidelines) <https://www.plainenglish.co.uk/>`__
 *   `Simplified Technical English (guidelines) <https://en.wikipedia.org/wiki/Simplified_Technical_English>`__
 
 

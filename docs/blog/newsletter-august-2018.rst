@@ -24,7 +24,7 @@ In the meantime, let's tune into some highlights from the hiatus!
 Common misconceptions about documentation
 -----------------------------------------
 
-Inspired by `Emily January Petersen's guest post <http://idratherbewriting.com/2018/07/18/stereotypes-about-tech-writers-in-workplace/>`_ on `I'd Rather Be Writing <http://idratherbewriting.com>`_, documentarians discussed some common misconceptions about our profession that they've personally experienced. As one person pointed out, **we** know that it takes more than being able to use a word processor or a text editor to be a documentarian...but what about everyone else?
+Inspired by `Emily January Petersen's guest post <https://idratherbewriting.com/2018/07/18/stereotypes-about-tech-writers-in-workplace/>`_ on `I'd Rather Be Writing <https://idratherbewriting.com>`_, documentarians discussed some common misconceptions about our profession that they've personally experienced. As one person pointed out, **we** know that it takes more than being able to use a word processor or a text editor to be a documentarian...but what about everyone else?
 
 Here are some of the unfortunately common misconceptions mentioned on Slack this month:
 

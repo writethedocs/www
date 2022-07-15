@@ -17,7 +17,7 @@ One last thing - we're delighted to have some new recruits to the newsletter tea
 Adventures in generating docs from code comments
 ------------------------------------------------
 
-A question about how to improve on tools like `Javadoc <https://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html>`__ and `doxygen <http://www.doxygen.nl/>`__ yielded many insights into getting great results with docs generated from code comments:
+A question about how to improve on tools like `Javadoc <https://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html>`__ and `doxygen <https://www.doxygen.nl/>`__ yielded many insights into getting great results with docs generated from code comments:
 
 * Javadoc is pretty standard for Java development, so you can expect that devs are already looking for the Javadoc - and you can help them just by making sure it's easy to find.
 * No matter which tool you use, the content is only as good as the comments in the code. Great documentation depends on collaboration between developers and writers, which can be challenging.
@@ -57,10 +57,10 @@ Diagrams and technical illustrations were a hot topic this month. Here are some 
 
 Resources the community mentioned:
 
-* `Mike Parkinson's (of BillionDollarGraphics) Graphic Cheat Sheet <http://billiondollargraphics.com/graphic-cheat-sheet/>`__
+* `Mike Parkinson's (of BillionDollarGraphics) Graphic Cheat Sheet <https://billiondollargraphics.com/graphic-cheat-sheet/>`__
 * `Alicia Raszkowska's talk "Draw the Docs" </videos/portland/2019/draw-the-docs-alicja-raszkowska/>`__
 * `The Back of the Napkin by Dan Roam <https://hbr.org/2008/09/solving-problems-with-your-pen.html>`__
-* `Trees, maps, and theorems by Jean-luc Dumont <http://www.principiae.be/X0300.php>`__
+* `Trees, maps, and theorems by Jean-luc Dumont <https://www.principiae.be/X0300.php>`__
 
 And the tools documentarians said they use included:
 

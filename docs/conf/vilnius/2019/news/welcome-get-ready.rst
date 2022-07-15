@@ -40,7 +40,7 @@ Thanks again to our sponsors
 
 Once again, we're grateful to the companies and organizations that `sponsor <https://www.writethedocs.org/conf/vilnius/2019/sponsors/>`_ our events:
 
-* `TechWriter.pl <http://techwriter.pl/>`_
+* `TechWriter.pl <https://techwriter.pl/>`_
 * `KnowledgeOwl <https://www.knowledgeowl.com/>`_
 
 We're so excited to welcome you all to Vilnius soon – see you there!

@@ -19,7 +19,7 @@ There is no stage in an unconference, and sessions instead focus on small group 
 
 Whether you have a topic in mind, or a problem you would like to pose to the rest of the community, there is no wrong way to lead an unconference session. Good sessions emphasize group participation, however, so if you choose a format that includes a lot of your own ideas or material, be prepared to dial it back and use what you have as a starting point, not as the focal point.
 
-Here are a few ideas for how to structure an unconf session, borrowed from `Scott Berkun's post on unconference sessions <http://scottberkun.com/2006/how-to-run-a-great-unconference-session/>`__:
+Here are a few ideas for how to structure an unconf session, borrowed from `Scott Berkun's post on unconference sessions <https://scottberkun.com/2006/how-to-run-a-great-unconference-session/>`__:
 
 -  **Group discussion** - Pick a topic and facilitate a group discussion.
 -  **The semi-talk** - Use a short presentation to lead into a group discussion on a topic.

@@ -5,7 +5,7 @@ Introduction to reStructuredText
 What is reStructuredText?
 ----------------------------
 
-`reStructuredText <http://docutils.sourceforge.net/rst.html>`_ is a lightweight markup language that is used in static site generators like :doc:`Sphinx <../tools/sphinx>`. It contains robust tools for semantic markup, reusing content, and content filters for different kinds of outputs. It's also easily extendible using `custom directives <http://docutils.sourceforge.net/docs/ref/rst/directives.html>`_ that you can create yourself, allowing you to satisfy a wide variety of documentation needs.
+`reStructuredText <https://docutils.sourceforge.net/rst.html>`_ is a lightweight markup language that is used in static site generators like :doc:`Sphinx <../tools/sphinx>`. It contains robust tools for semantic markup, reusing content, and content filters for different kinds of outputs. It's also easily extendible using `custom directives <https://docutils.sourceforge.net/docs/ref/rst/directives.html>`_ that you can create yourself, allowing you to satisfy a wide variety of documentation needs.
 
 reStructuredText is widely used for Python documentation---both for the `Python language itself <https://docs.python.org/3/tutorial/index.html>`_ and for Python libraries.
 
@@ -14,7 +14,7 @@ Why use reStructuredText?
 
 reStructuredText is a lightweight markup language, so it's easier to read in plain-text format compared to heavier markup languages like DITA and other XML-based formats. You can easily find text editors that render reStructuredText with syntax highlighting and live previews, without having to invest in complex tools.
 
-Compared to some other lightweight markup languages like :doc:`MarkDown <markdown>`, reStructuredText contains stronger semantic markup tools. `Some writers <http://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/>`_ also prefer reStructuredText because the markup standards are more well-defined compared to MarkDown.
+Compared to some other lightweight markup languages like :doc:`MarkDown <markdown>`, reStructuredText contains stronger semantic markup tools. `Some writers <https://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/>`_ also prefer reStructuredText because the markup standards are more well-defined compared to MarkDown.
 
 How to use reStructuredText
 -----------------------------------
@@ -87,6 +87,6 @@ To display code samples, or any text that should not be formatted, end the parag
 Resources
 -------------------
 
-* `A ReStructuredText Primer <http://docutils.sourceforge.net/docs/user/rst/quickstart.html>`_
-* `reStructuredText Primer <http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_
+* `A ReStructuredText Primer <https://docutils.sourceforge.net/docs/user/rst/quickstart.html>`_
+* `reStructuredText Primer <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_
 * `Cheatsheet <https://github.com/ralsina/rst-cheatsheet>`_

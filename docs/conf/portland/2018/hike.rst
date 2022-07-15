@@ -21,7 +21,7 @@ You can get your hike ticket here: https://ti.to/writethedocs/write-the-docs-por
 - `Visual of the hike <https://maps.google.com/maps?saddr=MacLeay+Park+Entrance,+NW+Upshur+St,+Portland,+OR&daddr=45.527373,-122.718589+to:45.5225885,-122.717297+to:oregon+zoo&hl=en&ll=45.52448,-122.717757&spn=0.023933,0.032358&sll=45.522345,-122.712822&sspn=0.023934,0.032358&geocode=FYLStgIdMI6v-CGojI77DIHw4SnVqz2N6QmVVDGojI77DIHw4Q%3BFU2xtgIdg3av-CmRNoxzkQmVVDFxAN8jMh2eKQ%3BFZyetgIdj3uv-CnD2fb_jgmVVDHuWX9DnHsevQ%3BFZpttgIdAoGv-CEm_N2esCDn5ykFuFa4LgqVVDEm_N2esCDn5w&oq=macleay+park&gl=us&dirflg=w&mra=dpe&mrsp=2&sz=15&via=1,2&t=m&z=15>`__
 - **The hike is for conference attendees only**. We only have a limited number of spaces, so please don't bring non-attendees along.
 
-We will be hiking in the amazing `Forest Park <http://www.forestparkconservancy.org/>`__, the largest urban forested park in the country.
+We will be hiking in the amazing `Forest Park <https://www.forestparkconservancy.org/>`__, the largest urban forested park in the country.
 It is conveniently located in Northwest Portland, not far from the conference venue. It's about a 35 minute walk
 from the venue to the park, or you can `take transit <https://www.google.com/maps/dir/Crystal+Ballroom,+1332+W+Burnside+St,+Portland,+OR+97209,+United+States/MacLeay+Park+Entrance,+Northwest+Upshur+Street,+Portland,+OR/@45.5290603,-122.707244,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54950a02e43decb9:0xe289ad93ad758c66!2m2!1d-122.68483!2d45.522785!1m5!1m1!1s0x549509e98d3dabd5:0xe1f0810cfb8e8ca8!2m2!1d-122.712528!2d45.535874!3e3?hl=en>`__ to make it a bit quicker.
 
@@ -49,7 +49,7 @@ This classifies as a *moderate* hike. We'll be going nice and slow so people can
 Meander
 ~~~~~~~
 
-The hike will follow Balch Creek up from the entrance of `Forest Park <http://www.forestparkconservancy.org/>`__.
+The hike will follow Balch Creek up from the entrance of `Forest Park <https://www.forestparkconservancy.org/>`__.
 
 .. figure:: /_static/img/2015/hike/balch.jpg
    :alt: Balch Creek
@@ -70,13 +70,13 @@ Pittock affords one of the best views of the city, and hopefully Mt. Hood & Mt. 
 Admire
 ~~~~~~
 
-After this we will descend into `Washington Park <http://washingtonparkpdx.org/>`__, and the beautiful `Hoyt Arboretum <http://www.hoytarboretum.org/>`__.
+After this we will descend into `Washington Park <https://washingtonparkpdx.org/>`__, and the beautiful `Hoyt Arboretum <https://www.hoytarboretum.org/>`__.
 There are a number of paths through Hoyt, and we can play that by ear.
 More than 5,800 specimens from around the world grow here, including more than 1,100 species, which are valuable in reforesting damaged habitats.
 
 Finish
 ~~~~~~
 
-On the other side of Hoyt is the `Oregon Zoo <http://www.oregonzoo.org/>`__, where we can take the MAX back to downtown.
+On the other side of Hoyt is the `Oregon Zoo <https://www.oregonzoo.org/>`__, where we can take the MAX back to downtown.
 People who wish to stay around in the park or zoo are more than welcome.
 

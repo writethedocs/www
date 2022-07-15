@@ -21,7 +21,7 @@ Despite the severe measures taken by the Czech authorities during the past week,
 You can check the following resources for up-to-date information about Czech Republic and Europe:
 
 - `Czech Ministry of Health <https://koronavirus.mzcr.cz/en>`_
-- `WHO Regional office for Europe <http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19>`_
+- `WHO Regional office for Europe <https://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19>`_
 
 In the meantime, we understand that some of you are hesitant to make travel plans, so **we are postponing our ticket sales and Call for Proposals until mid-April**.
 

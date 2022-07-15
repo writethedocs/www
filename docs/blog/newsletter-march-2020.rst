@@ -71,7 +71,7 @@ Git
 
 * [Book] `Learn Git in a Month of Lunches <https://www.amazon.com/Learn-Month-Lunches-Rick-Umali/dp/1617292419>`_ was recommended as a great "how to be productive with Git" tutorial.
 * [Book] `Pro Git <https://git-scm.com/book/en/v2>`_
-* [Course] `GIT Immersion <http://gitimmersion.com/>`_
+* [Course] `GIT Immersion <https://gitimmersion.com/>`_
 * [Course] `Git and GitHub for Poets, a Youtube series <https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV>`_
 
 ----------------------------------------
@@ -100,7 +100,7 @@ Some discussions on style
 
 There's often great discussion about particular points of style and style guides going on in #general. Here's a summary of the high points:
 
-Firstly on *resources about and approaches to Global English*. `The Global English Style Guide <https://learning.oreilly.com/library/view/the-global-english/9781599946573/>`_ from O'Reilly was recommended, plus there's a `relevant section of The Microsoft Writing Style Guide <https://docs.microsoft.com/en-us/style-guide/global-communications/>`_. And it's not strictly about Global English, but there's a decent section on global communications in `The ASD Simplified Technical English dictionary <http://www.asd-ste100.org/index.html>`_. That was originally intended for a different industry (aviation), but still has helpful pointers.
+Firstly on *resources about and approaches to Global English*. `The Global English Style Guide <https://learning.oreilly.com/library/view/the-global-english/9781599946573/>`_ from O'Reilly was recommended, plus there's a `relevant section of The Microsoft Writing Style Guide <https://docs.microsoft.com/en-us/style-guide/global-communications/>`_. And it's not strictly about Global English, but there's a decent section on global communications in `The ASD Simplified Technical English dictionary <https://www.asd-ste100.org/index.html>`_. That was originally intended for a different industry (aviation), but still has helpful pointers.
 
 Next up, *how we feel about "e.g.", "i.e.", and other Latinisms*. A beleaguered poster who uses e.g. and i.e. asked the community whether they were alone in their practice. Most replies advocated against these abbreviations: they're often misused (for example, using ie to mean "for example"), and many feel their meaning isn't clear to a general audience. The same argument goes for "etc." too, and penty of the common software docs style guides agree. On the counter side, if you're confident you can use them accurately and have grounds to believe your audience will understand them, it might still be fine.
 

@@ -18,7 +18,7 @@ Here's a quick overview of the schedule:
 * **Day 2: Unconference discussion and open space.** Share ideas and discuss problems with others from the documentation community. Anyone can suggest and lead a session on any topic.
 * **Days 3-5: Documentation sprints and writing days.** Get together with other documentarians to work on your docs and learn some new skills. Don't have a team to bring to the sprints? Join us anyway--get involved with an open source project and learn from the people who are pioneering documentation sprints.
 
-Write the Docs + Open Help Cincinnati is scheduled for August 18-22, 2018 at `Union Hall <http://unionhallcincy.com/>`_ in the historic Over the Rhine neighborhood in `Cincinnati, Ohio <https://www.google.com/maps/place/Union+Hall/@39.109885,-84.515631,15z/data=!4m5!3m4!1s0x0:0x3caee5bfc65866b3!8m2!3d39.109885!4d-84.515631>`_.
+Write the Docs + Open Help Cincinnati is scheduled for August 18-22, 2018 at `Union Hall <https://unionhallcincy.com/>`_ in the historic Over the Rhine neighborhood in `Cincinnati, Ohio <https://www.google.com/maps/place/Union+Hall/@39.109885,-84.515631,15z/data=!4m5!3m4!1s0x0:0x3caee5bfc65866b3!8m2!3d39.109885!4d-84.515631>`_.
 
 Call for Organizers and Volunteers
 ----------------------------------
@@ -55,9 +55,9 @@ Stay Updated
 ------------
 
 Want to find out what's happening with the conference, or enjoy our monthly global community newsletter?
-Sign up to one or more of our `mailing lists <http://eepurl.com/cdWqc5>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
+Sign up to one or more of our `mailing lists <https://eepurl.com/cdWqc5>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
 
-Want to connect with other documentarians in real-time? Join our `Slack <http://slack.writethedocs.org/>`_.
+Want to connect with other documentarians in real-time? Join our `Slack <https://slack.writethedocs.org/>`_.
 
 Conclusion
 ----------

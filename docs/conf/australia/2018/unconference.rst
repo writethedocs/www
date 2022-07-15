@@ -16,7 +16,7 @@ There is no stage in an unconference, and talks instead focus on community inter
 While standard presentations can work, the format lends better to discussions within your group.
 
 Whether you have a topic in mind, or maybe just a problem you would like to pose to the rest of the community, there is no wrong way to lead an unconference session.
-Here are a few ideas of how to structure your session, borrowed from `Scott Berkun's post on unconference sessions <http://scottberkun.com/2006/how-to-run-a-great-unconference-session/>`__:
+Here are a few ideas of how to structure your session, borrowed from `Scott Berkun's post on unconference sessions <https://scottberkun.com/2006/how-to-run-a-great-unconference-session/>`__:
 
 -  **Group discussion** - Pick a topic and facilitate a group discussion
 -  **The semi-talk** - Use a short presentation to lead into a group discussion on a topic

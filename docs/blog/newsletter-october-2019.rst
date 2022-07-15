@@ -69,7 +69,7 @@ If you're struggling with the limitations of your docs tools, how do you decide 
 
 There was some consensus around establishing your specific business requirements before selecting a tool. What outputs do you need to publish? How much do you need to reuse content? Does OS compatibility matter? How long will migration take? The requirements matter because no single tool is right for all situations. If you understand your needs well, it'll really help - you might even realise that you don't need to switch.
 
-Separating features into must-haves and nice-to-haves makes evaluating tools easier. Take care not to get side-tracked by features that don't address an actual need you have! Someone posted a useful `list of features <http://lauriston.com/requirements_sanitized.pdf>`__ to use as a starting point for your own evaluation.
+Separating features into must-haves and nice-to-haves makes evaluating tools easier. Take care not to get side-tracked by features that don't address an actual need you have! Someone posted a useful `list of features <https://lauriston.com/requirements_sanitized.pdf>`__ to use as a starting point for your own evaluation.
 
 There are many tools out there, and no one size fits all; make sure you know what you need before picking one.
 

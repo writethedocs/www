@@ -54,8 +54,8 @@ The costs of outdated docs
 
 This month's discussions included a brief but fruitful conversation about the tangible costs of outdated, inaccurate, or just plain poorly written documentation. It can be helpful to keep data about the value of good documentation on hand, and our documentarians turned up several reports and studies to consider:
 
-- `The State of Unassisted Support 2014 <http://cdn.swcdn.net/creative/pdf/Whitepapers/SW-WP-The-State-of-Unassisted-Support-2014.pdf>`_, Technology Services Industry Association (TSIA). Includes a graph that compares the cost of self-service support with the costs of other methods.
-- `A Good User's Guide Means Fewer Support Calls and Lower Support Costs <http://www.jstor.org/stable/43095065>`_ by Cathy J. Spencer and Diana Kilbourn Yates. GE Information Services saved $1 million in support costs per year by providing good user documentation with software products.
+- `The State of Unassisted Support 2014 <https://cdn.swcdn.net/creative/pdf/Whitepapers/SW-WP-The-State-of-Unassisted-Support-2014.pdf>`_, Technology Services Industry Association (TSIA). Includes a graph that compares the cost of self-service support with the costs of other methods.
+- `A Good User's Guide Means Fewer Support Calls and Lower Support Costs <https://www.jstor.org/stable/43095065>`_ by Cathy J. Spencer and Diana Kilbourn Yates. GE Information Services saved $1 million in support costs per year by providing good user documentation with software products.
 - `Currents, A Seasonal Report on Developer Trends in the Cloud: Open Source Edition <https://www.digitalocean.com/currents/october-2018>`_, Digital Ocean. For open source technologies, great documentation can reduce the barrier to entry for contributors, and it's something companies are looking for when they evaluate open source products.
 
 ---------------------------------------

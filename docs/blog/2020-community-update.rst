@@ -11,8 +11,8 @@ The newsletter team is taking September off as usual,
 but there's still plenty going on in the community.
 This update covers what else is going on behind the scenes while they take a much deserved break.
 
-We're looking forward to seeing everyone online for our `Prague <http://www.writethedocs.org/conf/prague/2020/>`_ on October 18-20 in the CEST timezone.
-We're also getting excited about our upcoming `Australia & India <http://www.writethedocs.org/conf/australia/2020/>`_ conference on December 3-4 in the AEDT timezone.
+We're looking forward to seeing everyone online for our `Prague <https://www.writethedocs.org/conf/prague/2020/>`_ on October 18-20 in the CEST timezone.
+We're also getting excited about our upcoming `Australia & India <https://www.writethedocs.org/conf/australia/2020/>`_ conference on December 3-4 in the AEDT timezone.
 The talks were just announced for the Prague conference, we'll be publishing more information about the speakers for the Australia & India conference by the end of the month.
 
 We also just recently wrapped up our first online Portland conference.

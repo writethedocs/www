@@ -195,10 +195,10 @@ people you meet. Set a goal for yourself to meet a few new people. Here
 are some tips:
 
 -  Find out who is attending the conference before you get there. Join
-   the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow
+   the `Write the Docs Slack <https://slack.writethedocs.org/>`__, follow
    the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
    and review the `list of
-   speakers <http://www.writethedocs.org/conf/eu/2017/speakers/>`__.
+   speakers <https://www.writethedocs.org/conf/eu/2017/speakers/>`__.
 -  Figure out which companies will be represented at the conference. If
    you see a job post you're interested in, you might want to ask them a
    few questions. This might be a great time to better understand what
@@ -215,7 +215,7 @@ are some tips:
 **Sample strategy for my first Write the Docs conference**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__,
+-  Join the `Write the Docs Slack <https://slack.writethedocs.org/>`__,
    and participate in the Welcome Wagon chat room to start making
    conference connections.
 -  Make a list of two people who are attending with some notes about
@@ -253,5 +253,5 @@ Thanks
 This document was inspired by other conferences doing great work in this area.
 In particular, these two documents were heavily used as a reference:
 
-* http://doubleyouraudience.com/microconf-guide/
-* http://www.pydanny.com/beginners-guide-pycon-2014.html
+* https://doubleyouraudience.com/microconf-guide/
+* https://www.pydanny.com/beginners-guide-pycon-2014.html

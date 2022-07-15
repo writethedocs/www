@@ -71,7 +71,7 @@ This conference is also virtual next year, so you can attend or present from any
 Our Slack network has expanded yet again this year.
 Our #general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that you will continue the conversations throughout the year.
 If you haven't joined, now's the time!
-Check out the `Write the Docs Slack <http://www.writethedocs.org/slack/>`__.
+Check out the `Write the Docs Slack <https://www.writethedocs.org/slack/>`__.
 
 We’re also looking for more sponsors to make our other events just as magical as this year’s Australia and India event.
 You can see all our `sponsorship options <https://www.writethedocs.org/sponsorship/>`__ on our website.

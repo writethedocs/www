@@ -43,17 +43,17 @@ Static site generators have been a popular topic for some time, but there are a 
 
 * Sphinx, Jekyll, and Asciidoctor are parsing engines; rST, Markdown, and AsciiDoc are source file formats; and Python and Ruby are programming languages. So you can write in rST to publish with Sphinx, which is written in Python. Or, you can write in Markdown to publish in Jekyll, which is written in Ruby.
 * In general, Sphinx parses rST, and Jekyll parses Markdown.
-* There are also plugins out there to make Markdown work with Sphinx (like `recommonmark <http://recommonmark.readthedocs.io/en/latest/>`_), or to make rST work with GitBook.
+* There are also plugins out there to make Markdown work with Sphinx (like `recommonmark <https://recommonmark.readthedocs.io/en/latest/>`_), or to make rST work with GitBook.
 * All static site generators generate output in HTML, along with some that generate PDF, ePub, HTML inside JSON, and other formats.
 
-`This blog <https://davidwalsh.name/introduction-static-site-generators>`_ by David Walsh is a great primer on static site generators, especially if you're interested in the plusses and minuses. The `Docs as Code <http://docsascode.com/>`_ book and articles have a lot of great content around this as well.
+`This blog <https://davidwalsh.name/introduction-static-site-generators>`_ by David Walsh is a great primer on static site generators, especially if you're interested in the plusses and minuses. The `Docs as Code <https://docsascode.com/>`_ book and articles have a lot of great content around this as well.
 
 ------------------------------------------
 
 Podcast Alert
 #############
 
-The latest `Write the Docs podcast <http://podcast.writethedocs.org/2017/04/30/episode-5-where-do-we-belong>`_ is available! It's all about where technical writers fit in different organizations. Check it out!
+The latest `Write the Docs podcast <https://podcast.writethedocs.org/2017/04/30/episode-5-where-do-we-belong>`_ is available! It's all about where technical writers fit in different organizations. Check it out!
 
 ------------------------------------------
 
@@ -93,7 +93,7 @@ The Enforcer: UI Style Guides Edition
 Finally this month, a member of our community asked for advice for enforcing the UI style guide. What do you do when product owners want to keep their 20-word descriptions, but you're supposed to be gently tipping it toward short and sweet? Here's what folks recommended:
 
 * Compromise! For example, use short descriptors as the default. When the product team strongly feels like users will need a longer explanation, include a help symbol that users can click or mouse-over to display the longer explanation.
-* Strengthen your case with ideas about `progressive disclosure <https://en.wikipedia.org/wiki/Progressive_disclosure>`_: basically, providing the least amount of information that will do the trick (in this case, help users do what they whatever it is they want to do). WTD documentarian Mike Jang also offered up `the slides from his OSCON 2017 presentation <http://slides.com/mike-1/osconjang>`_ about simplicity in UI text. And `here is a source <https://insidegovuk.blog.gov.uk/2014/08/04/sentence-length-why-25-words-is-our-limit/>`_ that cites studies about how long sentences detract from reader comprehension.
+* Strengthen your case with ideas about `progressive disclosure <https://en.wikipedia.org/wiki/Progressive_disclosure>`_: basically, providing the least amount of information that will do the trick (in this case, help users do what they whatever it is they want to do). WTD documentarian Mike Jang also offered up `the slides from his OSCON 2017 presentation <https://slides.com/mike-1/osconjang>`_ about simplicity in UI text. And `here is a source <https://insidegovuk.blog.gov.uk/2014/08/04/sentence-length-why-25-words-is-our-limit/>`_ that cites studies about how long sentences detract from reader comprehension.
 * Instead of enforcing word counts, think in terms of thoughts per phrase--limit it to 2 concepts per blob of UI text. One participant suggested following a guideline like "as short as possible, but no shorter."
 * If you can't make progress against the pushback, you'll need to talk to the product director and explain what's going on. If product owners are resistant, all you may be able to do is make suggestions that they may or may not follow.
 

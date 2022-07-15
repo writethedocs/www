@@ -46,7 +46,7 @@ One approach that was suggested was `this Jekyll-based versioning solution <http
 
 Suggestions for other solutions included:
 
-* `Sphinx <http://www.sphinx-doc.org/en/master/>`_
+* `Sphinx <https://www.sphinx-doc.org/en/master/>`_
 * `DocFX <https://dotnet.github.io/docfx/>`_
 * `Antora <https://antora.org/>`_ (an Asciidoctor toolchain)
 * `MadCap Flare <https://www.madcapsoftware.com/products/flare/>`_

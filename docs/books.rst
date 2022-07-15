@@ -21,7 +21,7 @@ Content strategy
 
 * `Content Everywhere: Strategy and Structure for Future-Ready Content <https://www.goodreads.com/book/show/17123665-content-everywhere>`_, by Sara Wachter-Boettcher
 * `Content Strategy 101 <https://contentstrategy101.com/>`_, by Scriptorium
-* `The Elements of Content Strategy <http://elements-of-content-strategy.abookapart.com/>`_, by Erin Kissane
+* `The Elements of Content Strategy <https://elements-of-content-strategy.abookapart.com/>`_, by Erin Kissane
 * `Every Page is Page One <https://everypageispageone.com/the-book/>`_, by Mark Baker - **Read in our book club**
 * `Letting Go of the Words <https://www.goodreads.com/book/show/1135441.Letting_Go_of_the_Words>`_, by Janice (Ginny) Redish - **Read in our book club**
 * `Structured Writing <https://www.goodreads.com/book/show/41885955-structured-writing>`_, by Mark Baker
@@ -31,7 +31,7 @@ Design and information architecture
 
 * `Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability <https://www.sensible.com/dmmt.html>`_, by Steve Krug - **Read in our book club**
 * `Everyday Information Architecture <https://abookapart.com/products/everyday-information-architecture>`_, by Lisa Maria Marquis
-* `How to Make Sense of Any Mess <http://www.howtomakesenseofanymess.com/>`_, by Abby Covert - **Read in our book club**
+* `How to Make Sense of Any Mess <https://www.howtomakesenseofanymess.com/>`_, by Abby Covert - **Read in our book club**
 * `Information Architecture: For the Web and Beyond <https://www.goodreads.com/book/show/70132.Information_Architecture_for_the_World_Wide_Web>`_, by Lou Rosenfeld
 * `Information Development: Managing Your Documentation Projects, Portfolio, and People <https://www.goodreads.com/book/show/884914.Information_Development>`_, by JoAnn T. Hackos
 * `Strategic Writing for UX <https://www.oreilly.com/library/view/strategic-writing-for/9781492049388/>`_, by Torrey Podmojersky
@@ -44,10 +44,10 @@ The craft of writing
 * `Bugs in Writing: A Guide to Debugging Your Prose <https://www.goodreads.com/book/show/601222.Bugs_in_Writing>`_, by Lyn Dupre
 * `The Gotham Grammarian <https://www.calamaripress.com/Gotham_Grammarian.htm>`_, by Garielle Lutz
 * `It Was the Best of Sentences, It Was the Worst of Sentences <https://www.penguinrandomhouse.com/books/198856/it-was-the-best-of-sentences-it-was-the-worst-of-sentences-by-june-casagrande/>`_ , by June Casagrande
-* `Nicely Said <http://www.nicelysaid.co/>`_, by Nicole Fenton and Kate Kiefer Lee
+* `Nicely Said <https://www.nicelysaid.co/>`_, by Nicole Fenton and Kate Kiefer Lee
 * `On Writing <https://stephenking.com/works/nonfiction/on-writing-a-memoir-of-the-craft.html>`_, by Stephen King
 * `On Writing Well <https://www.goodreads.com/book/show/53343.On_Writing_Well>`_, by William Zinsser
-* `The Organised Writer <http://organised-writer.com/>`_, by Antony Johnston - **Read in our book club**
+* `The Organised Writer <https://organised-writer.com/>`_, by Antony Johnston - **Read in our book club**
 * `The Subversive Copy Editor <https://press.uchicago.edu/ucp/books/book/chicago/S/bo23530364.html>`_, by Carol Fisher Saller
 
 Other Lists

@@ -72,7 +72,7 @@ blog_baseurl = 'https://www.writethedocs.org/'
 blog_path = 'blog/archive'
 blog_authors = {
     'Team': ('Write the Docs Team', 'https://www.writethedocs.org/team/'),
-    'eric': ('Eric Holscher', 'http://ericholscher.com'),
+    'eric': ('Eric Holscher', 'https://ericholscher.com'),
     'kelly': ("Kelly O'Brien", 'https://twitter.com/OBrienEditorial'),
 
 }
@@ -81,7 +81,7 @@ blog_feed_archives = True
 blog_feed_fulltext = True
 blog_feed_length = 10
 blog_locations = {
-    'PDX': ('Portland, Oregon', 'http://www.portlandhikersfieldguide.org/'),
+    'PDX': ('Portland, Oregon', 'https://www.portlandhikersfieldguide.org/'),
 }
 blog_default_location = None
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'

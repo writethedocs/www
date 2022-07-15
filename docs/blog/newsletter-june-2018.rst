@@ -77,9 +77,9 @@ Here's a roundup of other links that were mentioned:
 
 * `How to Write a Perfect Error Message <https://uxplanet.org/how-to-write-a-perfect-error-message-da1ca65a8f36>`_ by Vitaly Dulenko
 * Apple's `Providing User Feedback <https://developer.apple.com/macos/human-interface-guidelines/user-interaction/providing-user-feedback/>`_
-* `Non-Fatal Errors: Creating Usable, Effective Error Messages <http://www.writersua.com/articles/message/index.html>`_ by Emily Wilska
-* Klariti.com's `A Review of Error Messages <http://www.klariti.com/technical-writing/writing-error-messages.shtml>`_
-* `Message Text <https://sites.google.com/site/moremiscellany/works/interface-text/message-text>`_ and `User Interface Text: Is it OK, Now? <http://www.authorstream.com/Presentation/RahulMehrotra-435484-is-it-ok-now/>`_ by Rahul Mehrotra
+* `Non-Fatal Errors: Creating Usable, Effective Error Messages <https://www.writersua.com/articles/message/index.html>`_ by Emily Wilska
+* Klariti.com's `A Review of Error Messages <https://www.klariti.com/technical-writing/writing-error-messages.shtml>`_
+* `Message Text <https://sites.google.com/site/moremiscellany/works/interface-text/message-text>`_ and `User Interface Text: Is it OK, Now? <https://www.authorstream.com/Presentation/RahulMehrotra-435484-is-it-ok-now/>`_ by Rahul Mehrotra
 * Windows Dev Center's `Messages <https://msdn.microsoft.com/en-us/library/windows/desktop/dn742469(v=vs.85).aspx>`_
 
 *For other style or mechanics questions, the* `#general <https://writethedocs.slack.com/messages/general>`_ *channel is full of helpful documentarians ready with guidance.*

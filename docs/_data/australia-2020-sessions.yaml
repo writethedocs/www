@@ -8,7 +8,7 @@
   - name: Kenzie Woodbridge
     slug: kenzie-woodbridge
     twitter: '@rainbowkenz'
-    website: http://www.prosocialresearch.ca
+    website: https://www.prosocialresearch.ca
   abstract: <p>This talk takes the approach of applying Player Type Theory (from game
     design) to getting people involved and engaged in technical and documentation
     projects in a technical environment. Practical tips are offered for dealing with
@@ -23,7 +23,7 @@
   - name: Sayraphim Lothian
     slug: sayraphim-lothian
     twitter: '@sayraphim'
-    website: http://www.sayraphimlothian.com
+    website: https://www.sayraphimlothian.com
   abstract: '<p>If a picture tells a thousand words, how many is a video worth?</p>
 
     <p>A study in 2015 found that 91% of smart phone users turn to their smart phone
@@ -73,7 +73,7 @@
   - name: Marcelina Haftka
     slug: marcelina-haftka
     twitter:
-    website: http://www.linkedin.com/in/marcelinahaftka/
+    website: https://www.linkedin.com/in/marcelinahaftka/
   abstract: '<p>Having worked in the localisation industry for many years, I can see
     how various stakeholders have different approaches to the legacy content. I am
     a translator and a technical writer myself, and my approach has also changed.</p>
@@ -193,7 +193,7 @@
   - name: Lana Brindley
     slug: lana-brindley
     twitter: Loquacities
-    website: http://lanabrindley.com
+    website: https://lanabrindley.com
   abstract: <p>We all age. Some more gracefully than others. Our documentation ages,
     too, and sadly it's not always glamorous. Docs that start out as a thing of sartorial
     elegance can, many years and patches later, become tired and sad and badly in
@@ -261,7 +261,7 @@
   - name: Sam Irons
     slug: sam-irons
     twitter:
-    website: http://www.samirons.me/
+    website: https://www.samirons.me/
   abstract: <p>Big companies have big content problems. With tens of thousands of
     pages, big companies may put too much pressure on their customers to find the
     exact content they need. And, that’s bad for business. After three years of experimentation,
@@ -281,7 +281,7 @@
   - name: Scott DeLoach
     slug: scott-deloach
     twitter: '@scottdeloach'
-    website: http://www.clickstart.net
+    website: https://www.clickstart.net
   abstract: <p>Microcontent is a focused block of content that can be easily consumed
     by users and reused in search results, context-sensitive help, chatbots, VR/AR
     systems, and more. In this presentation, I will share real-world examples of microcontent,
@@ -297,7 +297,7 @@
   - name: Yael Ben-David
     slug: yael-ben-david
     twitter: '@YaelBenDavid'
-    website: http://medium.com/@yaelbendavid
+    website: https://medium.com/@yaelbendavid
   abstract: '<p>I was completely panicked. The light on my dash came on and I had
     absolutely no idea what it meant. The icon was indecipherable. If only it had
     been accompanied by a tiny bit of microcopy. Two words -- “flat tire” -- would
@@ -355,7 +355,7 @@
   - name: Vikram Mulay
     slug: vikram-mulay
     twitter:
-    website: http://www.linkedin.com/in/vikramcmulay
+    website: https://www.linkedin.com/in/vikramcmulay
   abstract: '<p>Great localized content begins with a great copy! However, designing
     a great copy is hard without knowing the best practices. This talk will help you
     establish best practices for internationalization (i18n) that will enhance your

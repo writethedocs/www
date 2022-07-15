@@ -71,7 +71,7 @@ Forcing a hard wrap at a particular character count or column helps avoid `reflo
 * wreak havoc on diffs
 * make text more difficult to parse for people who are translating to different languages and people with cognitive disabilities
 
-Hard wraps also interfere with using filters like `grep <http://man7.org/linux/man-pages/man1/grep.1.html>`_ to search for words and phrases within a file. Soft wrap is an option for preserving searchability, but it requires everyone to use a text editor with soft wrap support.
+Hard wraps also interfere with using filters like `grep <https://man7.org/linux/man-pages/man1/grep.1.html>`_ to search for words and phrases within a file. Soft wrap is an option for preserving searchability, but it requires everyone to use a text editor with soft wrap support.
 
 Several people mentioned `one sentence per line <https://rhodesmill.org/brandon/2012/one-sentence-per-line/>`_ as a solution, noting that it's the `recommended approach for AsciiDoc <https://github.com/asciidoctor/asciidoctor.org/blob/master/docs/asciidoc-recommended-practices.adoc#one-sentence-per-line>`_.
 

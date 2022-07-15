@@ -12,7 +12,7 @@ And for general writing style, see [style guides](https://www.writethedocs.org/g
 
 - [MDN Web Docs introduction to accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
 - [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone)
-- [Collection of resources for doc accessibility](http://ideaspring.ca//resources#h.p_X6ux0ojiyLwG)
+- [Collection of resources for doc accessibility](https://ideaspring.ca//resources#h.p_X6ux0ojiyLwG)
 - [Introductory edX class from W3C, free](https://www.w3.org/WAI/fundamentals/foundations-course/)
 
 ## More resources
@@ -43,6 +43,6 @@ Writing for accessibility includes making sure copy can be read by screenreaders
 
 - [Moving beyond empathy: a11y in documentation](https://www.writethedocs.org/videos/portland/2020/moving-beyond-empathy-a11y-in-documentation-alexandra-white/)
 - [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write the Docs Prague 2018
-- [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015
+- [Inclusive Tech Docs - TechComm Meets Accessibility](https://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015
 
 

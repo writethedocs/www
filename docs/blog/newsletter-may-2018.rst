@@ -14,10 +14,10 @@ The Prague conference may seem a long way off, in September, but the CFP is open
 
 We also have two other Write the Docs events to look forward to in 2018!
 
-* On Aug 18-22, Write the Docs is teaming up with `Open Help <http://openhelp.cc/>`_ to put on 5-day event in Cincinnati that combines 2 days of talks and discussion with 3 days documentation sprints. We're really excited to try out this new format – `have a look at the website! <https://www.writethedocs.org/conf/cincinnati/2018/>`_
+* On Aug 18-22, Write the Docs is teaming up with `Open Help <https://openhelp.cc/>`_ to put on 5-day event in Cincinnati that combines 2 days of talks and discussion with 3 days documentation sprints. We're really excited to try out this new format – `have a look at the website! <https://www.writethedocs.org/conf/cincinnati/2018/>`_
 * Then from November 15-16, Write the Docs Australia will be returning for a second year as a full two-day conference. Check out what they're doing for year two on `the conference page! <https://www.writethedocs.org/conf/australia/2018/>`_
 
-In addition, our network of meetups is alive and busy! The London group, for example, is partnering with the UK Government Digital Service to put on a `full-day meetup <https://www.meetup.com/Write-The-Docs-London/events/248304896/>`_ on June 5th about building a career in documentation. One of the organizers is running a short survey about documentation roles, in order to present his findings at the event. If you have a few minutes and want to participate, you'll find it here: `http://www.smartsurvey.co.uk/s/ZXSGG/ <http://www.smartsurvey.co.uk/s/ZXSGG/>`_
+In addition, our network of meetups is alive and busy! The London group, for example, is partnering with the UK Government Digital Service to put on a `full-day meetup <https://www.meetup.com/Write-The-Docs-London/events/248304896/>`_ on June 5th about building a career in documentation. One of the organizers is running a short survey about documentation roles, in order to present his findings at the event. If you have a few minutes and want to participate, you'll find it here: `https://www.smartsurvey.co.uk/s/ZXSGG/ <https://www.smartsurvey.co.uk/s/ZXSGG/>`_
 
 *Full disclosure: I am one of the co-organizers of the London meetup group. If you run a meetup and ever need community-wide exposure for a project or a community event, feel free to drop me an email at: `newsletter@writethedocs.org <mailto:newsletter@writethedocs.org>`_ I'm happy to help boost the signal.*
 

@@ -13,7 +13,7 @@ Hello, Write the Docs! Let me tell ya, it's been a jam-packed month for interest
 
 But that's a decision for the future. For right now, we have an exciting milestone to celebrate: **The Write the Docs Slack community officially cleared 1000 members last week!!** Considering it's only been around since the 2014 North American conference, that's not too shabby! Thanks to all of you for making the Write the Docs Slack such an inquisitive, creative, supportive place to hang out.
 
-(If you haven't joined us on Slack yet, we'd love to have you. [Just click here.](http://slack.writethedocs.org/))
+(If you haven't joined us on Slack yet, we'd love to have you. [Just click here.](https://slack.writethedocs.org/))
 
 Now, let's get down to the stories for this month. Folks have had some really interesting chats on a great variety of topics – read on for some of the highlights!
 
@@ -24,16 +24,16 @@ _NOTE: Remember,  we'll be keeping an eye on the #general channel for newsletter
 One of the perks of the Write the Docs community is having a group of people available to help figure out tricky style questions, when we run into them. This month, one such query led to a big discussion about what style and usage resources people use when they have questions.
 
 Although lots of folks default to a simple Google search and go with the most common usage, there were some other suggestions for good places to start:
-* [Merriam-Webster Dictionary](http://www.merriam-webster.com/), always a good start
+* [Merriam-Webster Dictionary](https://www.merriam-webster.com/), always a good start
 * [18F's in-house Content Guide](https://pages.18f.gov/content-guide/)
-* [MailChimp's Style Guide](http://styleguide.mailchimp.com/)
+* [MailChimp's Style Guide](https://styleguide.mailchimp.com/)
 * And, in fact, according to the Poll the Docs survey from last year, most of the 100 respondents, regardless of the size of their team, used some kind of in-house style guide.
 
 In general, the recommendation was to pick one authoritative style guide and stick to it. This can be a little tricky since there's a scarcity of up-to-date TechComm style guides to work with. (The [Microsoft Manual of Style](https://www.amazon.com/Microsoft-Manual-Style-4th-Corporation/dp/0735648719) got honorable mention, but the most recent edition is still 4 years old.) Non-technical style guides like the Associated Press or Chicago Manual of Style are even more fraught, since they tend to lag seriously behind on the current technical lexicon.
 
 If you're looking for more style guide resources:
-* Thursday Bram (@thursday) made her style guide template available on her blog:  [http://www.thursdaybram.com/download-my-in-house-style-guide-template-to-use-however-you-want]( http://www.thursdaybram.com/download-my-in-house-style-guide-template-to-use-however-you-want) It makes an _excellent_ starting point if you're developing your own style guide.
-* This forum post from last year also has some style guide suggestions for documentarians: [http://forum.writethedocs.org/t/style-guides-for-documentarians/112](http://forum.writethedocs.org/t/style-guides-for-documentarians/112)
+* Thursday Bram (@thursday) made her style guide template available on her blog:  [https://www.thursdaybram.com/download-my-in-house-style-guide-template-to-use-however-you-want]( https://www.thursdaybram.com/download-my-in-house-style-guide-template-to-use-however-you-want) It makes an _excellent_ starting point if you're developing your own style guide.
+* This forum post from last year also has some style guide suggestions for documentarians: [https://forum.writethedocs.org/t/style-guides-for-documentarians/112](https://forum.writethedocs.org/t/style-guides-for-documentarians/112)
 
 ## How do documentation and content strategy intersect?
 
@@ -68,10 +68,10 @@ What started as a quick poll about how to abbreviate "input/output" – 'I/O' wo
 
 * **For common abbreviations and acronyms, are definitions necessary?** The consensus on this point seemed to be yes, a definition is needed, even for common abbreviations and acronyms. Folks leaned away from assuming that your readers are familiar with terminology and abbreviations. ("Assumption is the mother of all feckups," as one participant put it!) Basically, you never know who is reading your docs, so it's dangerous to assume that every reader will understand undefined abbreviations and acronyms.
 * **Does the intended audience affect whether you define abbreviations and acronyms?** Maybe you've heard something like "anyone ready to look at [X] documentation would already know what [Y] means." The general feeling on this point was that even if you think the audience knows what you do and understands the terminology, it's a mistake to disregard the readers who are new to the field or aren't as familiar.
-* **Can you count on readers to find definitions for acronyms via web searches?** It's easy enough to search for unfamiliar acronyms, but what if an acronym has more than one meaning? If you don't define what the acronym means in the context of your docs, readers could easily settle on a different meaning based on their searches. Take "CI" as an example. The most likely meaning might be "continuous integration," but there are more than 200 possible meanings… and [TheFreeDictionary.com](http://www.thefreedictionary.com/)'s list of the most common meanings doesn't include "continuous integration" at all!
+* **Can you count on readers to find definitions for acronyms via web searches?** It's easy enough to search for unfamiliar acronyms, but what if an acronym has more than one meaning? If you don't define what the acronym means in the context of your docs, readers could easily settle on a different meaning based on their searches. Take "CI" as an example. The most likely meaning might be "continuous integration," but there are more than 200 possible meanings… and [TheFreeDictionary.com](https://www.thefreedictionary.com/)'s list of the most common meanings doesn't include "continuous integration" at all!
 * **What does "define at first use" mean these days?** With so many technical documents published online, you might need to rethink the rule about defining acronyms at first use. Defining once "per document" doesn't make much sense when the document isn't a printed manual, there's no "beginning" to flip back to, and there's no index to check. Recommendations included spelling out acronyms at their first use in each section of documentation or in the overviews for sets of functions. The takeaway was that document structure and format will determine the best way to define acronyms.
 
-There was also an entertaining discussion of how the "everyone knows THAT" perspective can lead to problems, if you're not careful. Go have a read about [the location of the ancient Land of Punt](http://www.pbs.org/wgbh/nova/ancient/egypt-punt.html) or phenomenon like [iconography that doesn't make sense anymore]( http://www.hanselman.com/blog/TheFloppyDiskMeansSaveAnd14OtherOldPeopleIconsThatDontMakeSenseAnymore.aspx).
+There was also an entertaining discussion of how the "everyone knows THAT" perspective can lead to problems, if you're not careful. Go have a read about [the location of the ancient Land of Punt](https://www.pbs.org/wgbh/nova/ancient/egypt-punt.html) or phenomenon like [iconography that doesn't make sense anymore]( https://www.hanselman.com/blog/TheFloppyDiskMeansSaveAnd14OtherOldPeopleIconsThatDontMakeSenseAnymore.aspx).
 
 ## Need more documentation goodness?
 

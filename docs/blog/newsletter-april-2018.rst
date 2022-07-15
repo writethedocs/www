@@ -19,11 +19,11 @@ You can now easily browse all of the videos from every North American and Europe
 There are hours of excellent talks in there, on almost any docs-topic you can think of.
 Dive in!
 
-In case you missed it, there's a new episode of the Write the Docs Podcast up: `Episode 14 – Humanizing you documentation <http://bit.ly/wtdpodcast_episode_14_humanizing_docs>`_.
+In case you missed it, there's a new episode of the Write the Docs Podcast up: `Episode 14 – Humanizing you documentation <https://bit.ly/wtdpodcast_episode_14_humanizing_docs>`_.
 Hosts Tom Johnson and Chris Ward talk to Carolyn Stransky, a journalist and JavaScript developer living in Berlin, about how to write with transparency, empathy, sensitivity, clarity, and more, to make your docs as human as possible.
 
 In addition to all that, we had a handful of intriguing discussions crop up across Slack this month.
-Read on for those, as well as some featured listings from the `Job Board <http://jobs.writethedocs.org/>`_, news about upcoming community meetups, and a `discount link <https://ti.to/supportdriven/sd-expo-2018/discount/wtd>`_ for anyone interested in attending the `Support Driven Expo <https://www.supportdriven.com/expo/>`_ this June!
+Read on for those, as well as some featured listings from the `Job Board <https://jobs.writethedocs.org/>`_, news about upcoming community meetups, and a `discount link <https://ti.to/supportdriven/sd-expo-2018/discount/wtd>`_ for anyone interested in attending the `Support Driven Expo <https://www.supportdriven.com/expo/>`_ this June!
 
 Whew!
 Big month!

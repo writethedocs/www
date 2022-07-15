@@ -35,9 +35,9 @@ Key takeaways
 Gaurav goes by `gnelson` on the Write the Docs Slack group. You can find him in the `#web-development`, `#testthedocs` and `#style-guides` channels.
 
 .. _git: https://git-scm.com/
-.. _markdown: http://www.writethedocs.org/guide/writing/markdown/
-.. _asciidoc: http://www.writethedocs.org/guide/writing/asciidoc/
-.. _rst: http://www.writethedocs.org/guide/writing/reStructuredText/
+.. _markdown: https://www.writethedocs.org/guide/writing/markdown/
+.. _asciidoc: https://www.writethedocs.org/guide/writing/asciidoc/
+.. _rst: https://www.writethedocs.org/guide/writing/reStructuredText/
 .. _red hat: https://www.redhat.com/en/jobs
 .. _stackrox: https://www.stackrox.com/careers/
 .. _google: https://developers.google.com/style/

@@ -10,7 +10,7 @@ Greetings fellow documentarians!
 
 The conference is now just under four months away, and we hope you’re already planning for the latest installment of Write the Docs in Prague!
 
-Tickets are already going fast and folks are chatting in the #wtd-conferences and #prague `Slack channels <http://slack.writethedocs.org/>`_ about their travel plans, so feel free to get some tips for your trip and `grab your ticket soon <https://ti.to/writethedocs/write-the-docs-prague-2018>`_.
+Tickets are already going fast and folks are chatting in the #wtd-conferences and #prague `Slack channels <https://slack.writethedocs.org/>`_ about their travel plans, so feel free to get some tips for your trip and `grab your ticket soon <https://ti.to/writethedocs/write-the-docs-prague-2018>`_.
 
 New deadline to submit your proposal is 31st May
 ------------------------------------------------
@@ -19,7 +19,7 @@ The `Call for Proposals <https://www.writethedocs.org/conf/prague/2018/cfp/>`_ i
 Make sure to get your talk in before the new deadline; we're already excited to see lots of great proposals coming in, but we wanted to give everyone a chance to submit their ideas.
 
 Check out the `Call for Proposals <https://www.writethedocs.org/conf/prague/2018/cfp/>`_ page for tips and examples to help inspire you.
-And if you’ve got an idea but aren't sure what to do with it, feel free to ask for feedback on `Slack <http://slack.writethedocs.org/>`_. Your fellow documentarians will be happy to help!
+And if you’ve got an idea but aren't sure what to do with it, feel free to ask for feedback on `Slack <https://slack.writethedocs.org/>`_. Your fellow documentarians will be happy to help!
 
 We will send out the decision emails to all who submitted by **mid-June**, and the final talks will be published by the **end of June**.
 

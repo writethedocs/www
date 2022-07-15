@@ -83,7 +83,7 @@ But how many people *do* you need? The ratio of writers to developers varies hug
 
 It varies because needs vary: a developer team focused on performance improvements won't generate much doc work, whereas two working on big UI changes might create lots. Even with a great writer-to-dev ratio, if the team is building many complex features, writers may still struggle to keep up. Some thought that the ratio of writers to UX designers or product managers might match docs work generated more closely.
 
-There's further discussion on the right ratio in `this blog post <http://www.agiledocumentation.co.uk/2016/04/what-is-optimal-writerdeveloper-ratio.html>`__, and `this post on Medium <https://medium.com/ixda-berlin/staffing-ratios-finding-the-right-balance-between-pm-ux-and-engineering-in-your-team-12ada861a1d0>`__.
+There's further discussion on the right ratio in `this blog post <https://www.agiledocumentation.co.uk/2016/04/what-is-optimal-writerdeveloper-ratio.html>`__, and `this post on Medium <https://medium.com/ixda-berlin/staffing-ratios-finding-the-right-balance-between-pm-ux-and-engineering-in-your-team-12ada861a1d0>`__.
 
 ---------
 Job posts

@@ -163,7 +163,7 @@ cfp:
   video_by: "March 31, 2021"        # 3 weeks before the conf
 
 unconf:
-  url: http://bit.ly/wtd-schedule-pdx-2021
+  url: https://bit.ly/wtd-schedule-pdx-2021
 
 sponsors:
   keystone:

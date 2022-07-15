@@ -12,7 +12,7 @@ Anyone can suggest and lead a session on a topic. Session formats vary. You can 
 When is the unconference?
 -------------------------
 
-Unconference sessions take place in the second half of both days (Thursday and Friday) of the conference. The session times are in the `unconference schedule <http://tiny.cc/wtd-au-india-schedule2020>`__. There's a time and a table number for each session.
+Unconference sessions take place in the second half of both days (Thursday and Friday) of the conference. The session times are in the `unconference schedule <https://tiny.cc/wtd-au-india-schedule2020>`__. There's a time and a table number for each session.
 
 Where is the unconference?
 --------------------------
@@ -24,7 +24,7 @@ Scheduling a session
 
 If you want to lead an unconf session, propose a topic and pick a time:
 
-- Look for an empty slot in the `unconference signup sheet <http://tiny.cc/wtd-au-india-schedule2020>`__. 
+- Look for an empty slot in the `unconference signup sheet <https://tiny.cc/wtd-au-india-schedule2020>`__. 
 - Add your unconference topic. There's a time and a table number for each slot.
 
 We will start promoting the unconference sessions early in the day on the days of the conference, so post your topic early if you want a particular time slot, or to make sure that there's room.
@@ -43,7 +43,7 @@ There is no stage in an unconference, and sessions instead focus on small group 
 
 Whether you have a topic in mind, or a problem you would like to pose to the rest of the community, there is no wrong way to lead an unconference session. Good sessions emphasize group participation, however, so if you choose a format that includes a lot of your own ideas or material, be prepared to dial it back and use what you have as a starting point, not as the focal point.
 
-Here are a few ideas for how to structure an unconf session, borrowed from `Scott Berkun's post on unconference sessions <http://scottberkun.com/2006/how-to-run-a-great-unconference-session/>`__:
+Here are a few ideas for how to structure an unconf session, borrowed from `Scott Berkun's post on unconference sessions <https://scottberkun.com/2006/how-to-run-a-great-unconference-session/>`__:
 
 -  **Group discussion** - Pick a topic and facilitate a group discussion
 -  **The semi-talk** - Use a short presentation to lead into a group discussion on a topic
@@ -62,6 +62,6 @@ Joining an unconference session
 
 Here's how to take part in an unconference session:
 
-- Starting Thursday afternoon, check the `unconference schedule <http://tiny.cc/wtd-au-india-schedule2020>`__ to see if there are any sessions you are interested in. New sessions are added all the time, so check back periodically.
-- At the time the session starts, go to the **Sessions** tab in Hopin (our unconference platform) and select the session with the table number that corresponds to the one in the `unconference schedule <http://tiny.cc/wtd-au-india-schedule2020>`__.
+- Starting Thursday afternoon, check the `unconference schedule <https://tiny.cc/wtd-au-india-schedule2020>`__ to see if there are any sessions you are interested in. New sessions are added all the time, so check back periodically.
+- At the time the session starts, go to the **Sessions** tab in Hopin (our unconference platform) and select the session with the table number that corresponds to the one in the `unconference schedule <https://tiny.cc/wtd-au-india-schedule2020>`__.
 - The session leader will start the session when the group has gathered.

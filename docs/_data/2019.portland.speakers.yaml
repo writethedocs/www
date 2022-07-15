@@ -177,7 +177,7 @@
   - name: Meghan Mahar
     slug: meghan-mahar
     twitter: ravenwritingllc
-    website: http://www.ravenwriting.net
+    website: https://www.ravenwriting.net
   title: Tutorials, Tooltips, and Popups…oh MY!  How to ease yourself and your users
     into in-app messaging.
 - abstract: '<p>SDK docs written by developers tend to be implementer oriented, not
@@ -326,7 +326,7 @@
   - name: Shannon Crabill
     slug: shannon-crabill
     twitter: shannon_crabill
-    website: http://shannoncrabill.com
+    website: https://shannoncrabill.com
   title: Documenting for Open Source
 - abstract: '<p>The command line evokes fear from many. But the command line can be
     your friend. Command line mastery can create a sense of authority with software
@@ -663,7 +663,7 @@
   - name: Mark F Iverson
     slug: mark-f-iverson
     twitter: iversonic
-    website: http://eyeversonic.com/
+    website: https://eyeversonic.com/
   title: Harvest Past Experience to be a Great Tech Writer
 - abstract: '<p>Analyzing documentation metrics is a great way to prioritize documentation
     work and resources. For example, identifying well-read or under-viewed documentation

@@ -71,12 +71,12 @@ Tools of the Trade
     * `Merriam-Webster <https://www.merriam-webster.com/>`_
     *  https://www.dictionary.com | https://www.thesaurus.com | https://www.vocabulary.com
     * `Linguee <https://www.linguee.com/>`_ (phrases/idioms)
-    * `Lexique Pro <http://www.lexiquepro.com/>`_ (offline dictionary/term list builder…dated)
+    * `Lexique Pro <https://www.lexiquepro.com/>`_ (offline dictionary/term list builder…dated)
 * Grammar and Complexity
     * `Center for plain language <https://centerforplainlanguage.org/>`_
     * `Simple English Checker <https://www.online-utility.org/english/simple_basic_helper.jsp>`_
     * `Acrolinx <https://www.acrolinx.com/>`_
-    * `Hemingway Editor <http://www.hemingwayapp.com/>`_
+    * `Hemingway Editor <https://www.hemingwayapp.com/>`_
     * `Grammarly <https://www.grammarly.com/>`_
 * SEO (Search Engine Optimization)
     * `Headline Analyzer - <https://coschedule.com/headline-analyzer>`_
@@ -93,7 +93,7 @@ Documentation Guides
 * `Dozuki Guide to Technical Writing <https://www.dozuki.com/tech_writing/>`_
 * `Hitchhiker’s Guide to Documentation <https://docs-guide.readthedocs.io/en/latest/>`_
 * `Wikiversity Technical Writing <https://en.wikiversity.org/wiki/Technical_writing>`_
-* `Write the Docs <http://www.writethedocs.org/guide/>`_
+* `Write the Docs <https://www.writethedocs.org/guide/>`_
 
 .. _api-documentation:
 
@@ -161,7 +161,7 @@ Write the Docs Resources
 ------------------------
 
 * Conference: https://www.writethedocs.org/
-* Slack: `Write the Docs <http://slack.writethedocs.org/>`__
-* Twitter: http://twitter.com/writethedocs
+* Slack: `Write the Docs <https://slack.writethedocs.org/>`__
+* Twitter: https://twitter.com/writethedocs
 * Issues & feature requests: https://github.com/writethedocs/docs/issues
 * Source repository: https://github.com/writethedocs/docs

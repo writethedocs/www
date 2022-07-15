@@ -47,4 +47,4 @@ Credits
 -------
 
 This document was heavily inspired by the `JSConf
-<http://jsconf.com/i-want-to-run-a-jsconf.html>`_ version of the same.
+<https://jsconf.com/i-want-to-run-a-jsconf.html>`_ version of the same.

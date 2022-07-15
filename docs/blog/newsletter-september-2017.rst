@@ -42,7 +42,7 @@ People also had some interesting perspectives on why the Stack Overflow (SO) eff
 * SO wasn't seen as the "right" place to go for docs (even if a company's official docs aren't well done)
 * No easy or effective way to address gaps in official docs in the SO environment (which is problem:solution-based)
 
-If you're interested in a lengthier dicsussion about the SO Documentation beta sunsetting and crowdsourced docs in general, check out last month's episode of the `Write the Docs podcast <http://podcast.writethedocs.org/2017/08/22/stack-overflow-failure-open-source-challenges/>`_!
+If you're interested in a lengthier dicsussion about the SO Documentation beta sunsetting and crowdsourced docs in general, check out last month's episode of the `Write the Docs podcast <https://podcast.writethedocs.org/2017/08/22/stack-overflow-failure-open-source-challenges/>`_!
 
 *************************************
 Doc Portfolios: A Perpetual Conundrum
@@ -68,7 +68,7 @@ If you haven't explored any of the topic-specific channels on Slack, you definit
 In the last few weeks, folks have shared some valuable resources to help us think about how we track and measure the success of our documentation efforts:
 
 * Looking for a place to start with Google Analytics? One of our members - @wouter – shared a dashboard for measuring user docs engagement in Google Analytics. You can import it into the property for your docs on Google Analytics and start poking around. It's not a finished product, for sure, but if you're looking for a place to start, this would be a good one. `Download the dashboard here.  <https://analytics.google.com/analytics/gallery/#posts/search/%3F_.term%3Duser%20documentation%26_.start%3D0%26_.viewId%3Dja0-XZQsSB-GH7K3Hw3BWw/>`_
-* Another member – @docsbydesign – has been sharing a series of blog posts on measuring technical content. Also in-depth, and platform agnostic, they're a great way to get yourself oriented in metrics-land. Here are `part 1 <http://docsbydesign.com/2017/08/24/measuring-your-technical-content-part-1/>`_, `part 2 <http://docsbydesign.com/2017/08/27/measuring-your-technical-content-part-2/>`_, and `part 3 <http://docsbydesign.com/2017/08/29/measuring-your-technical-content-part-3/>`_
+* Another member – @docsbydesign – has been sharing a series of blog posts on measuring technical content. Also in-depth, and platform agnostic, they're a great way to get yourself oriented in metrics-land. Here are `part 1 <https://docsbydesign.com/2017/08/24/measuring-your-technical-content-part-1/>`_, `part 2 <https://docsbydesign.com/2017/08/27/measuring-your-technical-content-part-2/>`_, and `part 3 <https://docsbydesign.com/2017/08/29/measuring-your-technical-content-part-3/>`_
 * If you're looking for a deep dive, @tfranko came across  `Improving the User Experience through Practical Data Analytics  <https://www.safaribooksonline.com/library/view/improving-the-user/9780128006351/>`_, which looks like an interesting, in-depth read on digging into your user data.
 
 *************************

@@ -81,4 +81,4 @@ License
 
 Thanks to the lovely Portland Python Users Group for use of this content.
 
-Lightning Talks: A Guide for Beginners by Michelle Rowley of PDX Python is licensed under a `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`__.
+Lightning Talks: A Guide for Beginners by Michelle Rowley of PDX Python is licensed under a `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <https://creativecommons.org/licenses/by-nc-sa/4.0/>`__.

@@ -234,7 +234,7 @@
   - name: Felicity Brand
     slug: felicity-brand
     twitter: '@felicity_brand'
-    website: http://flicstar.com
+    website: https://flicstar.com
   abstract: '<p>I''m a technical writer—I can''t write books! Well, apparently I can,
     I did, and so can you.</p>
 
@@ -441,7 +441,7 @@
   - name: Ryan Macklin (he/they)
     slug: ryan-macklin-he-they
     twitter: '@adocgeek'
-    website: http://macklin.cc
+    website: https://macklin.cc
   abstract: '<p>A lot of documentation advice talks about happy path docs, and sometimes
     abstractly about users who struggle. This talk focuses on actionable tips for
     when you have to give users bad news—whether in error messages, email comms, or

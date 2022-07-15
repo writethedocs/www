@@ -25,7 +25,7 @@ It was interesting to hear how people have approached the task of bringing a bro
 
 * **Pop culture references** — Using familiar characters from popular culture (Star Trek was the example that came up) was one example. It has the advantage of having a set established characters to choose from, and a narrative you can borrow against to boot. It also, though, runs the risk of not translating across cultural boundaries, as well as requiring some research into fair use and copyright laws, to be on the safe side.
 * **Wikipedia common names** — Wikipedia has a [list of common placeholder names in lots of different languages](https://en.wikipedia.org/wiki/List_of_placeholder_names_by_language), that could be a good resource. That said, the consensus was that it'd be best to check any name found there with a native speaker to make sure it's on the up-and-up. (It was also suggested that vetting and rounding out this list might make an interesting project for a future Write the Docs writing day. Something to think on.)
-* **Random name generators** — There's also a few [random name generators](http://www.behindthename.com/random/) out there that would make for good resources.
+* **Random name generators** — There's also a few [random name generators](https://www.behindthename.com/random/) out there that would make for good resources.
 
 None of these are a perfect solution, perhaps, but they all give us somewhere to start from, when thinking about broader representation in our docs.
 
@@ -35,7 +35,7 @@ To help us with questions like the one above, Thursday Bram (@thursday) (one of 
 
 ## Writing and maintaining command reference pages
 
-On the technical side of things, early in the month a bunch of folks tackled the question of how best to put together command reference pages. For example, take a look at [http://redis.io/commands](http://redis.io/commands), [https://developer.wordpress.org/cli/commands/](https://developer.wordpress.org/cli/commands/), or [https://drushcommands.com/](https://drushcommands.com/).
+On the technical side of things, early in the month a bunch of folks tackled the question of how best to put together command reference pages. For example, take a look at [https://redis.io/commands](https://redis.io/commands), [https://developer.wordpress.org/cli/commands/](https://developer.wordpress.org/cli/commands/), or [https://drushcommands.com/](https://drushcommands.com/).
 
 One of the suggested approaches was to extract command messages in JSON format, then manually build a search and filter table on a static reference site. Although it might start out as a manual project, it's probably a process that could be automated, in the long run.
 
@@ -53,7 +53,7 @@ When getting started as a documentarian, your portfolio of writing samples is of
 * **Just show them you can write** — Even if you don't have professional technical writing samples, write a bit of example documentation for your favorite app or product. Even a blog post can be a good work sample, if it shows that you can write well.
 * **Proofread, fiercely** — You want to be obsessive in your proofreading, making sure to eliminate any spelling, grammar, or typographical errors. Don't give the hiring manager an easy way to disqualify your application!
 
-For more help with preparing technical writing portfolios, there are some guidelines available here: [http://www.synergistech.com/portfolios.shtml](http://www.synergistech.com/portfolios.shtml).
+For more help with preparing technical writing portfolios, there are some guidelines available here: [https://www.synergistech.com/portfolios.shtml](https://www.synergistech.com/portfolios.shtml).
 
 ## Tooling highlight: Bending the Atom editor to your will
 
@@ -69,7 +69,7 @@ Thanks for joining us for our second edition! Just in case this wasn't enough of
 * [Official Write the Docs Flickr Stream](https://www.flickr.com/photos/writethedocs/) — photos by Kay Smoljak (@goatlady)
 * Daily Summaries, [Day 1](https://icreatedocs.wordpress.com/2016/09/28/write-the-docs-prague-day-1-summary/) & [Day 2](https://icreatedocs.wordpress.com/2016/09/29/write-the-docs-prague-day-2-summary/) — by Swapnil Ogale (@swapnilogale)
 * [Live Note-taking](https://docs.google.com/document/d/1Mr0vYuk6yP-OybDTQ_Zs1vBQsg7LxqlweM_oppJZVqw/edit#) — by Sarah Chambers (@sarahleeyoga)
-* [Conference Session Notes](http://www.winglemeyer.org/technology/2016/09/20/wtd.html/) — by Brian Exelbierd (@bexelbie)
-* [Overall Conference Write-up](http://meetups.pixelastic.com/2016/09/19/writethedocs-europe-2016/) — by Tim Carry (@pixelastic)
+* [Conference Session Notes](https://www.winglemeyer.org/technology/2016/09/20/wtd.html/) — by Brian Exelbierd (@bexelbie)
+* [Overall Conference Write-up](https://meetups.pixelastic.com/2016/09/19/writethedocs-europe-2016/) — by Tim Carry (@pixelastic)
 
 p.s. And remember, even though our next conference isn't til the spring, you can always check to see if there's a [Write the Docs meetup](https://www.writethedocs.org/meetups/) near you! (And if there's not, [think about starting one up](https://www.writethedocs.org/organizer-guide/meetups/starting/)!)

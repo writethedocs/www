@@ -52,10 +52,10 @@ make too many assumptions about what people already know.
 Take a look at the abstracts for accepted talks from the last couple of conferences for some ideas:
 
 
-* `Portland 2018 <http://www.writethedocs.org/conf/portland/2018/speakers/>`_
-* `Prague 2018 <http://www.writethedocs.org/conf/prague/2018/speakers/>`_
-* `Portland 2017 <http://www.writethedocs.org/conf/na/2017/speakers/>`_
-* `Prague 2017 <http://www.writethedocs.org/conf/eu/2017/speakers/>`_
+* `Portland 2018 <https://www.writethedocs.org/conf/portland/2018/speakers/>`_
+* `Prague 2018 <https://www.writethedocs.org/conf/prague/2018/speakers/>`_
+* `Portland 2017 <https://www.writethedocs.org/conf/na/2017/speakers/>`_
+* `Prague 2017 <https://www.writethedocs.org/conf/eu/2017/speakers/>`_
 
 Need help?
 -----------
@@ -64,7 +64,7 @@ If you need a hand preparing your talk proposal, there are lots of good places t
 
 * **Community mentorship** – We have an ever-growing pool of previous Write the Docs speakers, many of whom are happy to be a second pair of eyes on talk proposals. If you're interested in working with a past speaker, let us know!
 * **Meetup brainstorming** – For some in-person workshopping, check in on your `local meetup group <https://www.writethedocs.org/meetups/>`_ and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
-* **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `http://slack.writethedocs.org/ <http://slack.writethedocs.org/>`_.)
+* **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `https://slack.writethedocs.org/ <https://slack.writethedocs.org/>`_.)
 
 Presentation format
 -------------------

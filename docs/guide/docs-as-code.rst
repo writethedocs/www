@@ -1,7 +1,7 @@
 Docs as Code
 ============
 
-:author: `Eric Holscher <http://ericholscher.com/>`_ & the Write the Docs community
+:author: `Eric Holscher <https://ericholscher.com/>`_ & the Write the Docs community
 
 Documentation as Code (*Docs as Code*) refers to a philosophy that you should be writing documentation with the same tools as code:
 

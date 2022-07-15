@@ -28,7 +28,7 @@ Call for proposals reminder
 Thank you so much to all who submitted their proposals so far! Our Call for Proposals is still open until **Midnight CET, 30th April 2019**. Make sure to get your talk in before the deadline!
 
 The `Call for Proposals <https://www.writethedocs.org/conf/prague/2019/cfp/>`_ page has tips and examples to help inspire you.
-And if you have an idea but aren't sure what to do with it, feel free to ask for feedback on `Slack <http://slack.writethedocs.org/>`_. Your fellow documentarians will be happy to help!
+And if you have an idea but aren't sure what to do with it, feel free to ask for feedback on `Slack <https://slack.writethedocs.org/>`_. Your fellow documentarians will be happy to help!
 
 Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
 If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!
@@ -42,9 +42,9 @@ We are so grateful to have our sponsors help in bringing these events to life ev
 
 `Cloud Native Computing Foundation <https://www.cncf.io>`_
 
-`Bart at Work (media sponsor) <http://www.bartatwork.com/>`_
+`Bart at Work (media sponsor) <https://www.bartatwork.com/>`_
 
-`TechWriter.pl (media sponsor) <http://techwriter.pl/>`_
+`TechWriter.pl (media sponsor) <https://techwriter.pl/>`_
 
 Want to support our community? Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/prague/2019/sponsors/prospectus/>`_ for details on how your company can get involved! We have several types of sponsorship available, including tables at the job fair that we'll be hosting on Tuesday.
 

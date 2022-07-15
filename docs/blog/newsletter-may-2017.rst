@@ -25,7 +25,7 @@ We're happy to help promote `Support Driven <https://supportdriven.com/>`_,
 a community built specifically around making customer support the best it can be.
 They have a Slack channel,
 newsletter,
-`SUPCONF <http://supconf.supportdriven.com/>`_,
+`SUPCONF <https://supconf.supportdriven.com/>`_,
 and now they're launching a new event workshop-focused event called `SDX <https://www.kickstarter.com/projects/supportdriven/sdx-take-your-support-skills-to-the-next-level/?utm_source=readthedocs>`_.
 
 Here is a bit of info from them:
@@ -75,12 +75,12 @@ A question about dividing a complicated data model into clickable sub-parts brou
 
 According to one Slack member, probably not. She explained, screen readers tend to go top-to-bottom, left-to-right, reading all the words and links. They can also read alphabetically by first letter and hierarchical by H1, H2, H3. But more complex stuff (like reading SVG flowcharts) is probably beyond the capability of common screen readers. For complex flowcharts, consider offering a text explanation along with the image.
 
-If you're interested in improving doc accessibility, check out @susanf's `list of accessibility resources <https://docs.google.com/document/d/19crjGz7lryYlvaIEzK8KTX_oMLAxzxx1AwGsjlsymgs/edit>`_. For an alt-text-centered guide, try Allen Flavell's article, `Use of ALT texts in IMGs <http://www.alanflavell.org.uk/alt/alt-text.html>`_.
+If you're interested in improving doc accessibility, check out @susanf's `list of accessibility resources <https://docs.google.com/document/d/19crjGz7lryYlvaIEzK8KTX_oMLAxzxx1AwGsjlsymgs/edit>`_. For an alt-text-centered guide, try Allen Flavell's article, `Use of ALT texts in IMGs <https://www.alanflavell.org.uk/alt/alt-text.html>`_.
 
 To address the original question about dividing a large data model into clickable sub-parts, commenters mentioned quite a few SVG tools:
 
 * `SVGOMG <https://jakearchibald.github.io/svgomg>`_
-* `Snapsvg <http://snapsvg.io/>`_
+* `Snapsvg <https://snapsvg.io/>`_
 * `Animatron <https://www.animatron.com/>`_
 * `Inkscape <https://inkscape.org/>`_
 * `Tom Sawyer <https://www.tomsawyer.com>`_
@@ -110,11 +110,11 @@ Last, but not Least
 
 Finally, you might be interested in this great series of tips and tricks for static sites by WTD Slack channel participant (and designer and writer at Balsamiq), @leonbarnard (with help from @annegentle):
 
-`Part 1: Multiple product versions <http://docslikecode.com/articles/balsamiq-case-study-part-1/>`_
+`Part 1: Multiple product versions <https://docslikecode.com/articles/balsamiq-case-study-part-1/>`_
 
-`Part 2: Animated GIFs Pause and Play <http://docslikecode.com/articles/balsamiq-case-study-part-2/>`_
+`Part 2: Animated GIFs Pause and Play <https://docslikecode.com/articles/balsamiq-case-study-part-2/>`_
 
-`Part 3: Lists Get a Makeover <http://docslikecode.com/articles/balsamiq-case-study-part-3/>`_
+`Part 3: Lists Get a Makeover <https://docslikecode.com/articles/balsamiq-case-study-part-3/>`_
 
 ------------------------------------------
 

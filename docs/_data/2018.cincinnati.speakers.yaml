@@ -33,7 +33,7 @@
     name: Mark Baker
     slug: mark-baker
     twitter: mbakeranalecta
-    website: http://analecta.com/
+    website: https://analecta.com/
   title: 'Structured Writing: How Rhetoric Supports Process'
   year: '2018'
 - abstract: "<p>Who cares about content? Everyone who touches an open
@@ -163,13 +163,13 @@
     name: Heidi Waterhouse
     slug: heidi-waterhouse
     twitter: wiredferret
-    website: http://heidiwaterhouse.com
+    website: https://heidiwaterhouse.com
   title: 'The Man Behind the Curtain: White Labeling, Automated Generation, and Customized Documentation'
   year: '2018'
 - abstract: "<p>Free and Open Source projects are notorious for
     incomplete and poorly written documentation.</p>\n
 
-    <p><a href=\"http://opensourcesurvey.org/2017/\">GitHub's
+    <p><a href=\"https://opensourcesurvey.org/2017/\">GitHub's
     2017 Open Source Survey</a> found that \"documentation is
     highly valued, but often overlooked\" with 93% of respondents
     agreeing that \"incomplete or outdated documentation is a
@@ -205,7 +205,7 @@
     participation.</p>\n
 
     <p>Highlighting the documentation process at
-    <a href=\"http://docs.opendatakit.org\">Open Data Kit</a>, and
+    <a href=\"https://docs.opendatakit.org\">Open Data Kit</a>, and
     featuring ideas from several other open source documentation
     projects, this talk will explore how using the common tools,
     processes, and platforms of modern open source development —
@@ -224,7 +224,7 @@
     name: Adam Michael Wood
     slug: adam-michael-wood
     twitter:
-    website: http://hackwrite.com
+    website: https://hackwrite.com
   title: Open Source DocOps
   year: '2018'
 - abstract: "<p>In May 2018, the Kubernetes special interest group

@@ -109,7 +109,7 @@ Lead an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
-- Look for an empty slot in the `unconference signup sheet <http://tiny.cc/wtd-au-india-schedule2020>`__ and add your unconference topic. There's a time and a table number for each slot.
+- Look for an empty slot in the `unconference signup sheet <https://tiny.cc/wtd-au-india-schedule2020>`__ and add your unconference topic. There's a time and a table number for each slot.
 - When it’s time for your unconference session to begin, go to **Sessions** in Hopin (our conference platform) and select the session that corresponds to your table number.
 - The previous unconference session will be in the same table. Let the attendees of the previous session know that their time is up, and your session will begin soon.
 - Once a group has entered your session, start the conversation!
@@ -126,8 +126,8 @@ Tips for your unconference session
 Join an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Starting Thursday afternoon, check the `unconference schedule <http://tiny.cc/wtd-au-india-schedule2020>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
-- At the time the session starts, go to the **Sessions** tab in Hopin (our unconference platform) and select the session with the table number that corresponds to the one in the `unconference schedule <http://tiny.cc/wtd-au-india-schedule2020>`__.
+- Starting Thursday afternoon, check the `unconference schedule <https://tiny.cc/wtd-au-india-schedule2020>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
+- At the time the session starts, go to the **Sessions** tab in Hopin (our unconference platform) and select the session with the table number that corresponds to the one in the `unconference schedule <https://tiny.cc/wtd-au-india-schedule2020>`__.
 - The session leader will start the session when the group has gathered.
 
 Lightning talks
@@ -151,12 +151,12 @@ The Thursday night Social will be designed by you this year! You can host a sess
 Attend a social event
 ~~~~~~~~~~~~~~~~~~~~~
 
-Check the `list of social events <http://tiny.cc/wtd-au-india-schedule2020>`__\ **,** and then go to the **Sessions** page and select the table that you want to join.
+Check the `list of social events <https://tiny.cc/wtd-au-india-schedule2020>`__\ **,** and then go to the **Sessions** page and select the table that you want to join.
 
 Host a social event
 ~~~~~~~~~~~~~~~~~~~
 
-If you have an idea for a social event, find an empty table in the `sign-up sheet <http://tiny.cc/wtd-au-india-schedule2020>`__ and add your session. Here’s some ideas:
+If you have an idea for a social event, find an empty table in the `sign-up sheet <https://tiny.cc/wtd-au-india-schedule2020>`__ and add your session. Here’s some ideas:
 
 - Online game night
 - WFH life meetup – give attendees a video tour of your space
@@ -222,6 +222,6 @@ Pro tips
 
 - Conferences are exhilarating, but can also be exhausting. Give your brain a break! Grab a quiet spot or take a quick walk. Play a board game on your lunch break. Come back invigorated.
 
-- Find out who is attending the conference before you attend. Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__, and review the `list of speakers <https://www.writethedocs.org/conf/australia/2020/speakers/>`__.
+- Find out who is attending the conference before you attend. Join the `Write the Docs Slack <https://slack.writethedocs.org/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__, and review the `list of speakers <https://www.writethedocs.org/conf/australia/2020/speakers/>`__.
 
 - In case of technical issues with our main platform Hopin, please watch the `#wtd-conferences Slack channel <https://writethedocs.slack.com/archives/C1AKFQATH>`_ for status updates and alternative viewing links that might be posted.

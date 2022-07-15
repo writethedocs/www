@@ -36,9 +36,9 @@ Resources for planning out your information architecture
 Often, when tackling a new docs project, one of the biggest challenges can be figuring out how to approach your information architecture. This month, a user came to the WTD hivemind for help with this very problem. Many of the good documentarians of Slack jumped in to share an excellent array of IA and user testing resources:
 
 * `Optimal Workshop <https://www.optimalworkshop.com>`_: suite of user research tools and services to help improve UX (folks specifically recommended their OptimalSort card sorting tool)
-* `Complete Beginner’s Guide to Information Architecture <http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/>`_: UX Booth article
+* `Complete Beginner’s Guide to Information Architecture <https://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/>`_: UX Booth article
 * `Nielsen Norman IA archive <https://www.nngroup.com/search/?q=information+architecture&searchSubmit=Search>`_: collection of articles from a UX research firm
-* `How to Make Sense of Any Mess <http://abbytheia.com/makesense/>`_: book + website by Abby Covert, which includes a fun and thorough seven-step IA process
+* `How to Make Sense of Any Mess <https://abbytheia.com/makesense/>`_: book + website by Abby Covert, which includes a fun and thorough seven-step IA process
 * `The Information Architecture Institute <https://www.iainstitute.org/what-is-ia>`_: brief overview with suggested books on IA
 
 *If you can't get enough IA, check out the* `#infoarchitecture <https://writethedocs.slack.com/messages/infoarchitecture/>`_ *channel on Slack.*

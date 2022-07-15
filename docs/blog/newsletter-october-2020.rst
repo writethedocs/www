@@ -9,7 +9,7 @@ Hi everyone - it’s Beth A and the newsletter team here, back from our summer b
 
 But there’s plenty to look forward to in the world of documentation! It’s just a few short weeks until our second virtual conference of the year - `"Prague" </conf/prague/2020/>`__, or more accurately, "the one in `CEST <https://time.is/CEST>`__". The `speaker list </conf/prague/2020/speakers/>`__ is out and looking great, so do `grab a ticket </conf/prague/2020/tickets/>`__ while they’re still available! (Ticket sales will close about a week before the conference.) I’ll be helping out on the `Welcome Wagon </conf/prague/2020/welcome-wagon/>`__, so if you’re attending the conference, please do say hi - I’d love to meet you.
 
-And if the Europe and America conferences weren’t in good time zones for you, fear not: our last conference of the year is for you! The `Australia and India conference </conf/australia/2020/>`__ (that’s in `AEDT <http://time.is/AEDT>`__) will be on 3-4 December, and we’ve just announced `the speaker line-up </conf/australia/2020/news/announcing-speakers/>`__.
+And if the Europe and America conferences weren’t in good time zones for you, fear not: our last conference of the year is for you! The `Australia and India conference </conf/australia/2020/>`__ (that’s in `AEDT <https://time.is/AEDT>`__) will be on 3-4 December, and we’ve just announced `the speaker line-up </conf/australia/2020/news/announcing-speakers/>`__.
 
 Finally, a request. Like we did `last year </surveys/salary-survey/2019/>`__, we’re running an anonymous salary survey, to help the community understand the pay scales and benefits in the software industry around documentation. We’d absolutely love it if you could fill it in; it’s open until Monday 16 November. `Find out more here </surveys/salary-survey-sep-2020/>`__.
 
@@ -22,7 +22,7 @@ When a documentarian asked if there is an automated way to update links from one
 Regular expressions are useful and time-saving, but they do have a bit of a learning curve. Fortunately, the group had great suggestions to help get you started:
 
 * `regular expressions 101 <https://regex101.com/>`_: A regex testing and validation tool with a searchable library, quiz, and sample code generator
-* `Rex Egg <http://www.rexegg.com/>`_: This lighthearted tutorial assumes a beginner's starting point
+* `Rex Egg <https://www.rexegg.com/>`_: This lighthearted tutorial assumes a beginner's starting point
 * `Regular expression syntax cheatsheet <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet>`_: A list of JavaScript-specific regex syntax by MDN Web Docs
 * `Ryans Tutorials Grep and Regular Expressions <https://ryanstutorials.net/linuxtutorial/grep.php>`_: When you're ready to pair regex with grep to search text for your regex, try this guide and the accompanying `cheatsheet <https://ryanstutorials.net/linuxtutorial/cheatsheetgrep.php>`_
 * `Advanced Bash Scripting Guide Chapter 18 Regular Expressions <https://tldp.org/LDP/abs/html/regexp.html>`_: If you're comfortable working from the command line, this lesson takes you through a regex overview and provides example commands for grepping a text file

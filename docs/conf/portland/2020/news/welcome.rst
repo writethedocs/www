@@ -39,9 +39,9 @@ Stay Updated
 ------------
 
 Want to find out what's happening with the conference, or enjoy our monthly global community newsletter?
-Sign up to one or more of our `mailing lists <http://eepurl.com/cdWqc5>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
+Sign up to one or more of our `mailing lists <https://eepurl.com/cdWqc5>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
 
-Want to connect with other documentarians in real-time? Join our `Slack <http://slack.writethedocs.org/>`_.
+Want to connect with other documentarians in real-time? Join our `Slack <https://slack.writethedocs.org/>`_.
 
 Conclusion
 ----------

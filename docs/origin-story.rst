@@ -29,7 +29,7 @@ before the second conference.
 So read it,
 and ponder just how far we've come since then.
 
-We'll let `Troy <https://twitter.com/thoward37>`_ tell the `story <http://blog.thoward37.me/articles/developer-to-documentarian/>`_ from here:
+We'll let `Troy <https://twitter.com/thoward37>`_ tell the `story <https://blog.thoward37.me/articles/developer-to-documentarian/>`_ from here:
 
 ----------
 
@@ -38,27 +38,27 @@ Background
 
 Living in Portland, I'm lucky to be surrounded by some amazing people.
 If you wander down to the `food
-carts <http://www.foodcartsportland.com/>`__ on any given weekday at
+carts <https://www.foodcartsportland.com/>`__ on any given weekday at
 lunch time, you're likely to run into any number of luminary 'people
 from the internet' hanging around.
 
 One of those people might be `Eric
-Holscher <http://twitter.com/ericholscher>`__. I've known Eric since
+Holscher <https://twitter.com/ericholscher>`__. I've known Eric since
 2011, mostly as a `towering wookie-like
-figure <http://flic.kr/p/eaGmjA>`__ with `killer ping-pong
+figure <https://flic.kr/p/eaGmjA>`__ with `killer ping-pong
 moves <https://twitter.com/ericholscher/status/270709054115033088>`__
 that is also an `insightful Python
-developer <http://ericholscher.com/blog/2009/nov/10/what-they-didnt-teach-me-college/>`__.
+developer <https://ericholscher.com/blog/2009/nov/10/what-they-didnt-teach-me-college/>`__.
 I was vaguely aware of his side-project, `Read The
 Docs <https://readthedocs.org/>`__, which, `since
-2010 <http://ericholscher.com/blog/2010/aug/16/announcing-read-docs/>`__
+2010 <https://ericholscher.com/blog/2010/aug/16/announcing-read-docs/>`__
 has been a vital resource to the Python open source community.
 
 As a developer, I have always cared about documentation, but I'm not
 sure I ever thought about it *deeply* until I got to know Eric Holscher
 better. Sometime in early 2013, I ran into Eric at a local eatery, and
 we started discussing Read the Docs. He had recently `left his job at
-Urban Airship <http://ericholscher.com/blog/2013/jan/10/walk-woods/>`__
+Urban Airship <https://ericholscher.com/blog/2013/jan/10/walk-woods/>`__
 and was able to work on Read the Docs full time. This was going well,
 but he was concerned about the future of the project. There didn't seem
 to be a sense of community around documentation. Was documentation ever
@@ -68,7 +68,7 @@ At the same time, I looked around me and realized that here in Portland,
 I was surrounded by some amazing people working with documentation;
 `Noirin Plunkett <https://twitter.com/noirinp>`__, `Luc
 Perkins <https://twitter.com/lucperkins>`__, `Leslie
-Hawthorn <http://hawthornlandings.org/>`__, `Adron
+Hawthorn <https://hawthornlandings.org/>`__, `Adron
 Hall <https://twitter.com/adron>`__, `Joe
 Moon <https://twitter.com/joebadmo>`__, `Eric
 Redmond <https://twitter.com/coderoshi>`__. I saw a community that
@@ -80,9 +80,9 @@ title "documentarian".
 Building a Community of Documentarians
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-I have a `habit <http://nodepdx.org/>`__ of
-`starting <http://jsconf.cn/>`__
-`conferences <http://conf.writethedocs.org>`__, as well as local
+I have a `habit <https://nodepdx.org/>`__ of
+`starting <https://jsconf.cn/>`__
+`conferences <https://conf.writethedocs.org>`__, as well as local
 meetups, and creating terrible inside-joke-esque slang. I really enjoy
 helping people organize to create the things they want to see happen.
 
@@ -119,12 +119,12 @@ quickly found a new venue, and sold out a 250 person conference. The
 was amazing. We'd found our people, and they'd found us.
 
 Now, we're ramping up for year two, with conferences both `in
-Portland <http://conf.writethedocs.org/na/2014/>`__ and `in
-Budapest <http://conf.writethedocs.org/eu/2014/>`__ this
+Portland <https://conf.writethedocs.org/na/2014/>`__ and `in
+Budapest <https://conf.writethedocs.org/eu/2014/>`__ this
 spring. We've seen local meetups spring up in `San
-Francisco <http://www.meetup.com/Write-the-Docs/>`__,
+Francisco <https://www.meetup.com/Write-the-Docs/>`__,
 `Boston <https://www.meetup.com/write-the-docs-bos/>`__, and `New
-York <http://www.meetup.com/Write-The-Docs-NY/>`__. We're working on
+York <https://www.meetup.com/Write-The-Docs-NY/>`__. We're working on
 building more.
 
 ----------

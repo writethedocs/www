@@ -69,4 +69,4 @@ Have we neglected something you need, or is there something not mentioned that w
 Please email us at cincinnati@writethedocs.org, and we'll do what we can to provide it.
 
 
-.. _Union Hall: http://unionhallcincy.com/
+.. _Union Hall: https://unionhallcincy.com/

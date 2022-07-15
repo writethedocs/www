@@ -45,7 +45,7 @@ Learn more about `PrePay buses <https://transportnsw.info/travel-info/ways-to-ge
 
 Taxi ranks exist around the city.
 
-`Shebah <http://shebah.com.au/>`_ is a ridesharing service by women, for women.
+`Shebah <https://shebah.com.au/>`_ is a ridesharing service by women, for women.
 
 `Uber <https://www.uber.com/au/en/ride/>`_ is another way to get direct transport. Just use the Uber app to order your ride.
 

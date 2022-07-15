@@ -327,7 +327,7 @@
     path: conf/na/2017/videos/building-navigation-for-your-doc-site-5-best-practices-tom-johnson
     series: Write the Docs NA
     series_slug: na
-    slides: http://idratherbewriting.com/files/doc-navigation-wtd/index.html
+    slides: https://idratherbewriting.com/files/doc-navigation-wtd/index.html
     slug: building-navigation-for-your-doc-site-5-best-practices-tom-johnson
     speakers:
     -   details: ''
@@ -370,7 +370,7 @@
     path: conf/na/2017/videos/you-have-already-succeeded-design-critique-guidelines-make-feedback-easier-christy-lutz
     series: Write the Docs NA
     series_slug: na
-    slides: http://canncrochet.com/Presentations-1
+    slides: https://canncrochet.com/Presentations-1
     slug: you-have-already-succeeded-design-critique-guidelines-make-feedback-easier-christy-lutz
     speakers:
     -   details: ''
@@ -1141,7 +1141,7 @@
     path: conf/na/2017/videos/do-you-know-a-runbook-from-a-flip-book-how-sysadmins-use-documentation-andrea-longo
     series: Write the Docs NA
     series_slug: na
-    slides: http://feorlen.org/wtd/index.html
+    slides: https://feorlen.org/wtd/index.html
     slug: do-you-know-a-runbook-from-a-flip-book-how-sysadmins-use-documentation-andrea-longo
     speakers:
     -   details: ''

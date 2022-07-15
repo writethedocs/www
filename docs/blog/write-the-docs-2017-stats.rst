@@ -58,7 +58,7 @@ Podcast
 
 * 12 episodes (up from 2 episodes in 2016)
 
-The `podcast <http://podcast.writethedocs.org/>`_ has been doing work again this year!
+The `podcast <https://podcast.writethedocs.org/>`_ has been doing work again this year!
 
 Website
 =======

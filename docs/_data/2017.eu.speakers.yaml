@@ -231,7 +231,7 @@
         \ a \"manage the docs\" checklist.</p>"
     event: Write the Docs EU 2017
     path: conf/eu/2017/videos/manage-your-docs-like-an-archivist-kathleen-de-roo
-    slides: http://bit.ly/managethedocs
+    slides: https://bit.ly/managethedocs
     series: Write the Docs EU
     series_slug: eu
     slug: manage-your-docs-like-an-archivist-kathleen-de-roo
@@ -323,7 +323,7 @@
         picture: kate-wilcox.jpg
         slug: kate-wilcox
         twitter: ''
-        website: http://gallery.yulefrog.com/
+        website: https://gallery.yulefrog.com/
     title: "Aw Snap!  The Docs, They Are A-Changin\u2019 (with apologies to Bob Dylan)"
     year: 2017
     youtubeId: DYgw6xcpDmE
@@ -428,7 +428,7 @@
         picture: chris-ward.png
         slug: chris-ward
         twitter: chrischinch
-        website: http://gregariousmammal.com
+        website: https://gregariousmammal.com
     title: Documentation beyond words
     year: 2017
     youtubeId: lTYvWjS1nHw
@@ -655,7 +655,7 @@
     path: conf/eu/2017/videos/you-have-already-succeeded-design-critique-guidelines-make-feedback-easier-2-0-christy-lutz
     series: Write the Docs EU
     series_slug: eu
-    slides: http://canncrochet.com/filter/articles/Presentations-1
+    slides: https://canncrochet.com/filter/articles/Presentations-1
     slug: you-have-already-succeeded-design-critique-guidelines-make-feedback-easier-2-0-christy-lutz
     speakers:
     -   details: ''

@@ -59,7 +59,7 @@ Huge thanks to our latest sponsors to come aboard:
 * `Elastic <https://www.elastic.co/>`_
 * `Document360 <https://document360.io/>`_
 * `KnowledgeOwl <https://www.knowledgeowl.com/>`_
-* `Stoplight <http://stoplight.io/>`_
+* `Stoplight <https://stoplight.io/>`_
 * `Microsoft Cloud Developer Advocates <https://developer.microsoft.com/en-us/advocates/index.html>`_
 
 *Interested in sponsoring* `Write the Docs Portland <https://www.writethedocs.org/conf/portland/2018/sponsors/prospectus/>`_ *or* `Write the Docs Prague <https://www.writethedocs.org/conf/prague/2018/sponsors/prospectus/>`_? *< those links will take you to our sponsorship prospectuses... prospecti? Anyway, have a look.*

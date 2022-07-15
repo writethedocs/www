@@ -10,7 +10,7 @@ Hi everybody! Kelly O. here, with our last issue of 2017! It's been a gigantic y
 
 * A very successful first Australian event! To catch up on how it went, `watch the videos <https://www.youtube.com/channel/UCPhWNEFb53x6PjnpRIYf1yg/videos>`_ or `read all about it <https://ffeathers.wordpress.com/2017/11/25/doc-sprint-at-write-the-docs-day-australia/>`_.
 * A lively and informative third API the Docs event in Amsterdam – `check out the recaps! <https://pronovix.com/api-docs-amsterdam-2017>`_.
-* And two new podcast episodes, `one focused on the Mozilla Developer Network's Web Docs Project <http://bit.ly/wtdpodcastepisode11>`_ and `the other featuring an interview with WTD organizers Eric Holscher and Mikey Ariel as guests  <http://podcast.writethedocs.org/2017/12/13/founding-principles-of-write-the-docs/>`_!
+* And two new podcast episodes, `one focused on the Mozilla Developer Network's Web Docs Project <https://bit.ly/wtdpodcastepisode11>`_ and `the other featuring an interview with WTD organizers Eric Holscher and Mikey Ariel as guests  <https://podcast.writethedocs.org/2017/12/13/founding-principles-of-write-the-docs/>`_!
 
 Not only are we ending the year on a high note, but we also have a TON of great stuff coming up in 2018 as well!
 
@@ -61,7 +61,7 @@ One documentarian's quest to help a dev brush up on differences between British 
 * `Bored Panda's pictoral guide <https://www.boredpanda.com/british-american-english-differences-language/>`_
 * `Oxford Dictionaries' British and American terms <https://en.oxforddictionaries.com/usage/british-and-american-terms>`_
 * `Six differences from Voice of America's Learning English <https://learningenglish.voanews.com/a/six-difference-between-britsh-and-american-english/3063743.html>`_
-* `Pictorial guide to 20 British words that mean something different in the US <http://www.bigstockphoto.com/blog/20-british-words-that-mean-something-totally-different-in-the-us>`_
+* `Pictorial guide to 20 British words that mean something different in the US <https://www.bigstockphoto.com/blog/20-british-words-that-mean-something-totally-different-in-the-us>`_
 
 As one keen observer pointed out, even `Apple's API docs <https://pbs.twimg.com/media/DPbb0TKUIAA_hL6.png>`_ need help with this now and then!
 
@@ -75,7 +75,7 @@ Several folks pointed out that it's almost impossible to coordinate the content 
 
 Questions also arose about usability and readability: with three columns, it can be difficult for readers to know where to focus their attention, especially on a smaller screen, and they have to work hard to map the explanations to the examples. It can be tricky for doc authors to figure out where to put tab selectors if examples are provided in multiple languages, too.
 
-But other contributors to the discussion pointed to research that suggests the three-column layout not only meets with the favor of API producers, it's also effective for API consumers. The research is an interesting read, and definitely worth it, if you want to dive deeper into the topic. You can `download the full paper <http://journals.sagepub.com/doi/abs/10.1177/0047281617721853>`_ or watch one of its authors `present on the content at Write the Docs Prague 2016. <https://www.youtube.com/watch?v=soQSOBwiXdA>`_
+But other contributors to the discussion pointed to research that suggests the three-column layout not only meets with the favor of API producers, it's also effective for API consumers. The research is an interesting read, and definitely worth it, if you want to dive deeper into the topic. You can `download the full paper <https://journals.sagepub.com/doi/abs/10.1177/0047281617721853>`_ or watch one of its authors `present on the content at Write the Docs Prague 2016. <https://www.youtube.com/watch?v=soQSOBwiXdA>`_
 
 ******************
 Community calendar

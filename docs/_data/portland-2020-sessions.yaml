@@ -8,7 +8,7 @@
   - name: Paul Logan
     slug: paul-logan
     twitter: '@scottishkilt'
-    website: http://www.pauljflogan.com
+    website: https://www.pauljflogan.com
   abstract: '<p>In q4 of 2019 Slack implemented an oft-requested documentation feature:
     site search. In this talk I''ll tell the story of technical and social considerations
     that went into implementing search on api.slack.com and the philosophy that''s
@@ -59,7 +59,7 @@
   - name: Alexandra White
     slug: alexandra-white
     twitter: heyawhite
-    website: http://heyawhite.com
+    website: https://heyawhite.com
   abstract: '<p>Accessibility is a crucial part of product creation. Every team member,
     from engineer to technical writer, must have at least a basic understanding of
     what accessibility means for their role in product development. Often, writers
@@ -96,7 +96,7 @@
   - name: Anni Bond
     slug: anni-bond
     twitter: sunshineparadox
-    website: http://annisimpson.com
+    website: https://annisimpson.com
   abstract: "<p>Writing documentation for new or existing products is a forward-thinking
     endeavor. They almost use a template that includes new features and processes
     the user might use, patch notes, and text on the user interface itself. However,
@@ -134,7 +134,7 @@
   - name: Matthew Baldwin
     slug: matthew-baldwin
     twitter: defectiveyeti
-    website: http://matthewscottbaldwin.com
+    website: https://matthewscottbaldwin.com
   abstract: '<p>Imagine writing guidance for a product that exists solely in the mind
     of the customer. That is the plight of the tabletop game designer. Yes, games
     come with boards and cards and dice and counters, but those are but the UI, so
@@ -223,7 +223,7 @@
   - name: Ryan Paul
     slug: ryan-paul
     twitter: segphault
-    website: http://seg.phault.net/
+    website: https://seg.phault.net/
   abstract: '<p>The modern web platform provides a rich canvas for presenting content,
     making it possible for documentation to offer a user experience that more closely
     resembles an application rather than a traditional user manual. Exploiting these
@@ -299,7 +299,7 @@
   - name: Lucy Carey
     slug: lucy-carey
     twitter: lucyrushi
-    website: http://www.lucycarey.com
+    website: https://www.lucycarey.com
   abstract: '<p>Your docs are looking good, the demand is there, and you’re thinking
     it’s time to open up your content to a non-English speaking market. Unfortunately,
     pushing out localised content isn’t always a plug-in-and-play exercise. Whilst
@@ -581,7 +581,7 @@
   - name: Avi Flax
     slug: avi-flax
     twitter: '@flaximus'
-    website: http://aviflax.com/
+    website: https://aviflax.com/
   abstract: '<p>Diagrams are an excellent tool for documenting the architecture of
     our software systems: they’re information dense and they utilize the visual circuits
     of our brains to create effective learning experiences. Many of us create or update

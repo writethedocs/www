@@ -25,7 +25,7 @@ The true power of community comes in the most trying of times. It's been amazing
 You can check the following resources for up-to-date information about Czech Republic and Europe:
 
 - `Czech Ministry of Health <https://koronavirus.mzcr.cz/en>`_
-- `WHO Regional office for Europe <http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19>`_
+- `WHO Regional office for Europe <https://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19>`_
 
 We are watching the situation closely and will send another update as more information becomes available. You can find all our COVID-19 updates in our `tagged archives </blog/archive/tag/covid-19/>`_.
 

@@ -63,7 +63,7 @@ If you're interested to get a sense of the overall state of software documentati
 * `DigitalOcean Currents Q3 2018 report <https://currents.nyc3.cdn.digitaloceanspaces.com/DigitalOcean-Currents-Q3-2018.pdf>`__ - in particular, "What factors does your company consider while making business decisions around when to use open source for a particular project?"
 * `SmartBear 2020 State of API report <https://static1.smartbear.co/smartbearbrand/media/pdf/smartbear_state_of_api_2020.pdf>`__, and Tom Johnson's `analysis of this report <https://idratherbewriting.com/blog/smartBear-2020-state-of-api-docs-review/>`__
 * `Postman 2020 State of the API report <https://www.postman.com/state-of-api/>`__
-* `The Content Wranger's 2019 State of Technical Communication <http://public2.brighttalk.com/resource/core/217857/the-state-of-technical-communication_474463.pdf>`__
+* `The Content Wranger's 2019 State of Technical Communication <https://public2.brighttalk.com/resource/core/217857/the-state-of-technical-communication_474463.pdf>`__
 * `Tom Johnson's 2020 Developer documentation survey <https://idratherbewriting.com/learnapidoc/slides/devdoctrends_results.html#/>`__
 
 ---------------------------------

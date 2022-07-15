@@ -89,7 +89,7 @@ This month’s newsletter is sponsored by Scroll Viewport:
               </p><p>
               Publish your docs as a branded help center so your users can self-serve the help they need.
               </p><p>
-              Got 5 minutes? That's all you need to <a href="http://scroll-viewport.io/?utm_source=write-the-docs&utm_medium=email&utm_campaign=2108-vprt-lp&utm_content=september-newsletter">get started →</a>
+              Got 5 minutes? That's all you need to <a href="https://scroll-viewport.io/?utm_source=write-the-docs&utm_medium=email&utm_campaign=2108-vprt-lp&utm_content=september-newsletter">get started →</a>
               </p>
           </td>
           <td width="25%">

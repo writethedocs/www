@@ -3,7 +3,7 @@
         {% for meetup in meetups %}
         <dt class="meetup-listing-detail">
 
-            <a href="{% if meetup['page'] %}{{ meetup['page'] }}{% else %}http://www.meetup.com/{{ meetup['meetup'] }}/{% endif %}">
+            <a href="{% if meetup['page'] %}{{ meetup['page'] }}{% else %}https://www.meetup.com/{{ meetup['meetup'] }}/{% endif %}">
                 {% if meetup['city'] %}{{ meetup['city'] }}, {% endif -%}
                 {% if meetup['state'] %}{{ meetup|state_abbr }}, {% endif -%}
                 {{ meetup['country'] -}}
@@ -15,7 +15,7 @@
             {# Alternative meetup link, we are already using the page as the site link #}
             {% if meetup['page'] %}
               <div>
-                More information on <a href="http://meetup.com/{{ meetup['meetup'] }}/">Meetup</a>
+                More information on <a href="https://meetup.com/{{ meetup['meetup'] }}/">Meetup</a>
               </div>
             {% endif %}
 

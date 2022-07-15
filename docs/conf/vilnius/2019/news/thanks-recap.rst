@@ -52,11 +52,11 @@ Our Slack network has really grown more this last year. Our general
 Slack channel has been extra busy in the days and weeks leading up to
 the conference, and we hope that y’all continue the conversations
 throughout the year. If you haven’t joined, now’s the time! Check out
-the `Write the Docs Slack <http://www.writethedocs.org/slack/>`__.
+the `Write the Docs Slack <https://www.writethedocs.org/slack/>`__.
 
 We’re also looking for more sponsors to make our events just as magical
 as this year’s event. You can see our prospectus for
-`Prague <http://www.writethedocs.org/conf/prague/2019/sponsors/prospectus/>`__.
+`Prague <https://www.writethedocs.org/conf/prague/2019/sponsors/prospectus/>`__.
 Get in touch if you have any questions.
 
 Thanks again

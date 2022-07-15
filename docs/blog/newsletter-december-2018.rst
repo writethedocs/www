@@ -64,7 +64,7 @@ Grammar and style questions
 This month came with a spate of language usage questions. We love getting these, so go ahead and post them in *#general*, but other good places to check came up: 
 
 - `Microsoft Writing Style Guide <https://docs.microsoft.com/en-us/style-guide/welcome/>`_ (the usual suspect)
-- `Oxford English Dictionary <http://www.oed.com/>`_
+- `Oxford English Dictionary <https://www.oed.com/>`_
 - `Merriam-Webster Dictionary <https://www.merriam-webster.com/>`_
 - `Google Trends <https://trends.google.com/trends/?geo=US>`_ can give you an idea of common usage
 

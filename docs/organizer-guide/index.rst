@@ -98,4 +98,4 @@ Salary Surveys
 Credits
 -------
 
-This guide draws much inspiration from the `Django Girls Organizer's Guide <http://organize.djangogirls.org/>`__.
+This guide draws much inspiration from the `Django Girls Organizer's Guide <https://organize.djangogirls.org/>`__.

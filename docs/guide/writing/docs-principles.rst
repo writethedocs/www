@@ -150,7 +150,7 @@ documentation, you are repeating yourself. Sure, `documentation generators`_
 exist and are useful, but it's important to acknowledge that they still
 require input from humans to function.
 
-.. _documentation generators: http://en.wikipedia.org/wiki/Comparison_of_documentation_generators
+.. _documentation generators: https://en.wikipedia.org/wiki/Comparison_of_documentation_generators
 
 The pursuit of *minimizing* repetition remains valiant! ARID does not mean
 `WET`_, hence the word choice. It means: try to keep things *as DRY as possible*
@@ -327,7 +327,7 @@ user to run ``iconv -l`` to produce a list of character encodings. In
 this example, the man page and the list are separate publications, both
 of which are complete, which is good!
 
-.. _man page: http://man7.org/linux/man-pages/man1/iconv.1.html
+.. _man page: https://man7.org/linux/man-pages/man1/iconv.1.html
 
 Publishing partially completed documentation must be done cautiously. To
 avoid misleading readers, make every effort to clearly state, up front,

@@ -15,9 +15,9 @@ Contributing
 
 A community without people who help maintain standards and advance the state of the art isn't worth having. Write the Docs on `GitHub`_ is the place to contribute to this site and other parts of the community. If you have any wild, crazy, mundance, or old-hat ideas, we'd love to consider and appreciate them.
 
-.. _Third Place: http://en.wikipedia.org/wiki/Third_place
-.. _#writethedocs: http://webchat.freenode.net/?channels=writethedocs
+.. _Third Place: https://en.wikipedia.org/wiki/Third_place
+.. _#writethedocs: https://webchat.freenode.net/?channels=writethedocs
 .. _Mailing List: https://groups.google.com/forum/?fromgroups=#!forum/write-the-docs
-.. _Twitter: http://twitter.com/writethedocs
+.. _Twitter: https://twitter.com/writethedocs
 .. _GitHub: https://github.com/writethedocs
-.. _Slack: http://slack.writethedocs.org
+.. _Slack: https://slack.writethedocs.org

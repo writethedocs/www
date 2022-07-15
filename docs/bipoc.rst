@@ -10,7 +10,7 @@ As with many other professions, BIPOC remain painfully underrepresented in the t
 
 According to Open MIC's 2017 Report, `Breaking the Mold: Investing in Racial Diversity in Tech`_:
 
-.. _`Breaking the Mold: Investing in Racial Diversity in Tech`: http://breakingthemold.openmic.org/
+.. _`Breaking the Mold: Investing in Racial Diversity in Tech`: https://breakingthemold.openmic.org/
 
 * Black people, Latinos and Native Americans are underrepresented in tech by 16-to-18 percentage points compared with their presence in the U.S. labor force overall. Black people and Latinos each comprise just 5.3 percent of the Professionals category in U.S. tech industry labor data.
 * While Asians are represented at a higher rate in the tech workforce than the private sector overall, white people are 1½ times more likely than Asians to rise to an executive rank.

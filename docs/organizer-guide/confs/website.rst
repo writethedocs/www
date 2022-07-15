@@ -156,13 +156,13 @@ The items in the general conference config file are:
       patron:
         # logo must be in _static/img/sponsors/patron-sponsor.jpg/png
         - name: patron-sponsor
-          link: http://www.example.com
+          link: https://www.example.com
       publisher:
       second:
       first:
       media:
         - name: media-sponsor-one
-          link: http://www.example.com
+          link: https://www.example.com
 
 * ``date``: the conference dates and days. Contains:
     * ``main``: the human readable conference dates and location,

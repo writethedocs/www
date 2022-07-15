@@ -259,7 +259,7 @@
   - name: Arran Southall
     slug: arran-southall
     twitter: arran_writes
-    website: http://www.avaloq.com
+    website: https://www.avaloq.com
   title: 'Fostering Talent: Mentorship, Peer Reviews and Going Beyond Your Job Description'
 - abstract: '<p>The new privacy regulations that came into force in 2018 (GDPR in
     the EU, Data Protection Act in the UK, the USA data privacy laws following suit)
@@ -446,7 +446,7 @@
   - name: James Scott
     slug: james-scott
     twitter: scottydocs
-    website: http://www.documenter.co.uk
+    website: https://www.documenter.co.uk
   title: '101 to 404s: How to write great error messages'
 - abstract: <p>This talk explores the challenges associated with documenting a project
     with a very difficult subject and having an audience with vastly different backgrounds.
@@ -470,5 +470,5 @@
   - name: Alison MacNeil
     slug: alison-macneil
     twitter: kimonomatopoeia
-    website: http://www.kimono.is
+    website: https://www.kimono.is
   title: Documenting known unknowns

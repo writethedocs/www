@@ -11,7 +11,7 @@ and generates a bunch of other awesome things, mainly HTML.
 For our use case you can think of it as a program that takes in plain text
 files in `reStructuredText`_ format, and outputs HTML.
 
-.. _reStructuredText: http://sphinx-doc.org/rest.html
+.. _reStructuredText: https://sphinx-doc.org/rest.html
 
 ::
 
@@ -144,7 +144,7 @@ The main parts you will need at first are:
 * **Sections**
 * **Directives**
 
-.. note:: You can live-preview RST on the web: http://rst.ninjs.org/
+.. note:: You can live-preview RST on the web: https://rst.ninjs.org/
           . Note that it won't understand Sphinx-specific markup though.
 
 Feel free to play around with RST a bit to make sure that you understand how
@@ -154,14 +154,14 @@ it works.
     If it is acting weirdly, make sure you indent lines that are part of the
     same content similarly.
 
-.. _Sphinx: http://sphinx-doc.org/
-.. _headings: http://sphinx.pocoo.org/rest.html#sections
-.. _Sphinx Getting Started guide: http://www.sphinx-doc.org/en/master/usage/quickstart.html
-.. _reStructuredText Primer:  http://sphinx.pocoo.org/rest.html#rst-primer
-.. _Sphinx install page: http://sphinx-doc.org/install.html
-.. _table of contents: http://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#table-of-contents
-.. _toctree directives: http://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#table-of-contents
-.. _directives: http://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#
+.. _Sphinx: https://sphinx-doc.org/
+.. _headings: https://sphinx.pocoo.org/rest.html#sections
+.. _Sphinx Getting Started guide: https://www.sphinx-doc.org/en/master/usage/quickstart.html
+.. _reStructuredText Primer:  https://sphinx.pocoo.org/rest.html#rst-primer
+.. _Sphinx install page: https://sphinx-doc.org/install.html
+.. _table of contents: https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#table-of-contents
+.. _toctree directives: https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#table-of-contents
+.. _directives: https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#
 
 
 Building docs

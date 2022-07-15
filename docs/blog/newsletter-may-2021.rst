@@ -41,7 +41,7 @@ General tech writing and interviews with documentarians:
 
 Content strategy and copywriting:
 
-- `Content Content with Ed Marsh <http://edmarsh.com/content-content-podcast/>`_
+- `Content Content with Ed Marsh <https://edmarsh.com/content-content-podcast/>`_
 - `Content Rookie <https://contentrookiepod.com/>`_
 - `Content Strategy Experts <https://www.scriptorium.com/content-strategy-experts-podcast/>`_
 - `Content Strategy Insights <https://ellessmedia.com/csi/>`_
@@ -49,7 +49,7 @@ Content strategy and copywriting:
 
 Humor:
 
-- `JustsayIT, Technical Writers' LAUGH <http://www.justsayit.ca/Content/Home.htm>`__
+- `JustsayIT, Technical Writers' LAUGH <https://www.justsayit.ca/Content/Home.htm>`__
 
 Tech writing and technology:
 

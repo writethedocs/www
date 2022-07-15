@@ -11,16 +11,16 @@ The newsletter team is taking the month off,
 but that doesn't mean the community is standing still.
 We're sending out a (somewhat belated :D) update to let you know about a few things we're working on while they take a much deserved break.
 
-We're looking forward to seeing everyone in `Prague <http://www.writethedocs.org/conf/prague/2019/>`_ in a few days.
+We're looking forward to seeing everyone in `Prague <https://www.writethedocs.org/conf/prague/2019/>`_ in a few days.
 If you aren't able to make it,
 check out the our experimental :doc:`livestream </conf/prague/2019/livestream>` of the event and join us in `#live-streaming` channel on Slack.
 
-We're also getting excited about our upcoming `Australia <http://www.writethedocs.org/conf/australia/2019/>`_ conference in Sydney on November 14-15.
+We're also getting excited about our upcoming `Australia <https://www.writethedocs.org/conf/australia/2019/>`_ conference in Sydney on November 14-15.
 The speaker list will be announced soon and the conference is coming up in a couple months,
 so start making your travel plans.
 
 Lastly,
-we've also announced the dates for the `Portland <http://www.writethedocs.org/conf/portland/2020/>`_ conference next year on May 3-5, 2020.
+we've also announced the dates for the `Portland <https://www.writethedocs.org/conf/portland/2020/>`_ conference next year on May 3-5, 2020.
 The sponsorship prospectus and a landing page are now online,
 with more updates on that conference in the coming months.
 
@@ -65,12 +65,12 @@ and having so many different stories and backgrounds really shows there isn't a 
 but many different ways.
 
 .. _Mohit Patel:  https://mohitpatel.design/2019/08/13/write-the-docs-internship-retrospective/
-.. _13 interviews with people in the community: http://www.writethedocs.org/hiring-guide/#community-spotlight
+.. _13 interviews with people in the community: https://www.writethedocs.org/hiring-guide/#community-spotlight
 
 Meetups
 -------
 
-We're almost at `50 meetups <http://www.writethedocs.org/meetups/>`_ now, including a newly created `remote meetup <http://writethedocsremote.tk/#events/>`_!
+We're almost at `50 meetups <https://www.writethedocs.org/meetups/>`_ now, including a newly created `remote meetup <https://writethedocsremote.tk/#events/>`_!
 The kick-off event was a few days ago, and we're eager to hear how it went.
 
 Speaking of remote events, on October 7th, Deborah Barnard and Lorna Jane from our North England meetup are running a virtual docs hackathon as part of `Hacktoberfest <https://hacktoberfest.digitalocean.com/>`_, more info at https://www.starfallprojects.co.uk/blog/hacktoberfest-2019/

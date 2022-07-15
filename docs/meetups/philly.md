@@ -10,6 +10,6 @@ We are people who care about making the reader experience awesome by delivering 
 ## Where to Find Us
 
 - **meetups** - Currently handled on [Meetup.com](https://www.meetup.com/WTD-Philadelphia/).
-- **chat** - Chat with meetup members via the official [Write the Docs Slack team](http://slack.writethedocs.org/). Introduce yourself in the `#philly` channel.
+- **chat** - Chat with meetup members via the official [Write the Docs Slack team](https://slack.writethedocs.org/). Introduce yourself in the `#philly` channel.
 - **Twitter** - [Twitter.com/WriteTheDocsPHL](https://twitter.com/WriteTheDocsPHL)
-- **Forum** - Long form discussion can be had in the [Write the Docs forum](http://forum.writethedocs.org/c/meetups).
+- **Forum** - Long form discussion can be had in the [Write the Docs forum](https://forum.writethedocs.org/c/meetups).
