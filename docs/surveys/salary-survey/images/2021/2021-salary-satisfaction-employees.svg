@@ -1,0 +1,35 @@
+<svg width="100%" height="100%" viewBox="0 0 660 375" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    <radialGradient id="paint0_radial_75_112" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(328 204) scale(150)">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</radialGradient>
+  </defs>
+  <title>Salary satisfaction - employees (2021)</title>
+  <desc>Donut chart showing reported satisfaction with salary and benefits, for employee respondents: 72.8% were “satisfied”, 14.5% were “neutral” and 12.6% were “unsatisfied”.</desc>
+	<g class="donut-chart">
+		<g class="data">
+			<path class="satisfied" d="M327.969 54C356.779 53.9941 384.98 62.2847 409.203 77.8808C433.426 93.4768 452.645 115.718 464.563 141.947C476.481 168.176 480.594 197.281 476.409 225.785C472.225 254.289 459.921 280.985 440.968 302.682C422.015 324.379 397.215 340.159 369.532 348.136C341.849 356.112 312.454 355.948 284.862 347.663C257.27 339.378 232.647 323.322 213.937 301.415C195.228 279.508 183.222 252.677 179.356 224.128L268.543 212.051C270.089 223.471 274.891 234.203 282.375 242.966C289.859 251.729 299.708 258.151 310.745 261.465C321.782 264.779 333.54 264.845 344.613 261.654C355.686 258.464 365.606 252.152 373.187 243.473C380.769 234.794 385.69 224.116 387.364 212.714C389.037 201.313 387.392 189.67 382.625 179.179C377.858 168.687 370.17 159.791 360.481 153.552C350.792 147.314 339.511 143.998 327.988 144L327.969 54Z" fill="#1E73BE" stroke="white"/>
+			<path class="neutral" d="M179.337 223.979C176.29 201.309 178.468 178.243 185.705 156.544C192.942 134.845 205.045 115.088 221.09 98.7849L285.236 161.914C278.818 168.435 273.977 176.338 271.082 185.017C268.187 193.697 267.316 202.924 268.535 211.992L179.337 223.979Z" fill="#F35DA3" stroke="white"/>
+			<path class="unsatisfied" d="M221.195 98.6781C235.126 84.5516 251.72 73.3289 270.018 65.6598C288.315 57.9908 307.952 54.0277 327.792 54.0002L327.917 144C319.981 144.011 312.126 145.596 304.807 148.664C297.488 151.732 290.85 156.221 285.278 161.871L221.195 98.6781Z" fill="#FFA600" stroke="white"/>
+			<g class="gradient-overlay" style="mix-blend-mode:color-burn" opacity="0.5">
+				<path d="M478 204C478 286.843 410.843 354 328 354C245.157 354 178 286.843 178 204C178 121.157 245.157 54 328 54C410.843 54 478 121.157 478 204Z" fill="url(#paint0_radial_75_112)" fill-opacity="0.25" style="mix-blend-mode:multiply"/>
+			</g>
+		</g>
+		<g class="connectors">
+			<path class="satisfied" d="M500.5 315.5C495.5 315.5 451.505 293.317 450.753 292.658L450 292" stroke="#1E73BE"/>
+			<path class="neutral" d="M133 140C138 140 184.558 151.87 185.506 152.187L186.455 152.503" stroke="#F35DA3"/>
+			<path class="unsatisfied" d="M243.5 32.5C248.5 32.5 265.807 64.8306 266.193 65.7531L266.578 66.6756" stroke="#FFA600"/>
+		</g>
+		<g class="value-labels">
+			<text class="satisfied"><tspan x="507.281" y="308.582">Satisfied</tspan><tspan x="515.266" y="326.582">72.8%</tspan></text>
+			<text class="neutral"><tspan x="74.0234" y="135.582">Neutral</tspan><tspan x="80.1641" y="153.582">14.5%</tspan></text>
+			<text class="unsatisfied"><tspan x="173.031" y="23.582">Unsatisfied</tspan><tspan x="191.938" y="41.582">12.6%</tspan></text>
+		</g>
+	</g>
+</svg>

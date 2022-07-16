@@ -12,19 +12,19 @@ Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel.
 Next Book Club
 --------------
 
-Our next book club starts the week of April 18, 2022.
+Our next book club starts the week of August 8, 2022.
 
-* April - May 2022: Rick Umali's `Learn Git in a Month of Lunches <https://www.manning.com/books/learn-git-in-a-month-of-lunches>`_
+* TBD: Torrey Podmajersky's `Strategic Writing for UX <https://torreypodmajersky.com/strategic-writing-for-ux/>`_
 
 Upcoming Book Clubs
 -------------------
 
 * TBD: Lynne Truss's `Eats, Shoots & Leaves <https://www.lynnetruss.com/books/eats-shoots-leaves/>`_ 
-* TBD: Torrey Podmajersky's `Strategic Writing for UX <https://torreypodmajersky.com/strategic-writing-for-ux/>`_
 
 Previous Book club reads
 ------------------------
 
+* April - June 2022: Rick Umali's `Learn Git in a Month of Lunches <https://www.manning.com/books/learn-git-in-a-month-of-lunches>`_
 * February - March 2022: Jared Batti and others' `Docs for Developers <https://docsfordevelopers.com/>`_
 * September - November 2021: Antony Johnston's `The Organised Writer <http://organised-writer.com/>`_
 * June - July 2021: Janice Redish's `Letting Go of the Words <https://redish.net/books/letting-go-of-the-words/>`_

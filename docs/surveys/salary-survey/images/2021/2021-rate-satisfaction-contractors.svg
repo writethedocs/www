@@ -1,0 +1,35 @@
+<svg width="100%" height="100%" viewBox="0 0 660 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    <radialGradient id="paint0_radial_75_112" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(341 210) scale(150)">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</radialGradient>
+  </defs>
+  <title>Rate satisfaction - contractors (2021)</title>
+  <desc>Donut chart showing satisfaction with contract/freelance rates of independent contractor respondents: 70.9% felt satisfied; 15.3% felt neutral; 13.9% felt unsatisfied.</desc>
+	<g class="donut-chart">
+		<g class="data">
+			<path class="satisfied" d="M340.969 60C368.962 59.9943 396.399 67.822 420.175 82.5978C443.951 97.3735 463.118 118.508 475.507 143.61C487.897 168.712 493.016 196.78 490.284 224.64C487.552 252.499 477.078 279.038 460.048 301.256C443.018 323.473 420.111 340.481 393.917 350.356C367.724 360.232 339.29 362.581 311.831 357.137C284.372 351.694 258.984 338.675 238.539 319.554C218.094 300.433 203.408 275.972 196.141 248.938L283.056 225.576C285.963 236.389 291.837 246.173 300.015 253.822C308.193 261.47 318.349 266.678 329.332 268.855C340.316 271.033 351.689 270.093 362.167 266.143C372.644 262.193 381.807 255.389 388.619 246.502C395.431 237.616 399.62 227 400.713 215.856C401.806 204.712 399.759 193.485 394.803 183.444C389.847 173.403 382.18 164.95 372.67 159.039C363.159 153.129 352.185 149.998 340.987 150L340.969 60Z" fill="#1E73BE" stroke="white"/>
+			<path class="neutral" d="M196.103 248.793C189.873 225.522 189.339 201.093 194.547 177.572C199.755 154.051 210.552 132.131 226.024 113.665L295.01 171.466C288.821 178.853 284.502 187.621 282.419 197.029C280.336 206.438 280.549 216.209 283.042 225.518L196.103 248.793Z" fill="#F35DA3" stroke="white"/>
+			<path class="unsatisfied" d="M226.12 113.55C240.177 96.8073 257.724 83.3393 277.532 74.0892C297.34 64.8391 318.931 60.0305 340.792 60.0002L340.917 150C332.173 150.012 323.536 151.936 315.613 155.636C307.69 159.336 300.671 164.723 295.048 171.42L226.12 113.55Z" fill="#FFA600" stroke="white"/>
+			<g class="gradient-overlay" style="mix-blend-mode:color-burn" opacity="0.5">
+				<path d="M491 210C491 292.843 423.843 360 341 360C258.157 360 191 292.843 191 210C191 127.157 258.157 60 341 60C423.843 60 491 127.157 491 210Z" fill="url(#paint0_radial_75_112)" fill-opacity="0.25" style="mix-blend-mode:multiply"/>
+			</g>
+		</g>
+		<g class="connectors">
+			<path class="satisfied" d="M529.5 302C524.5 302 475.587 280.217 474.793 279.609L474 279" stroke="#1E73BE"/>
+			<path class="neutral" d="M122.5 180C127.5 180 192.976 187.716 192 187.5" stroke="#F35DA3"/>
+			<path class="unsatisfied" d="M229.5 41.5C253 52.5 263.831 78.3777 264.254 79.284L264.676 80.1903" stroke="#FFA600"/>
+		</g>
+		<g class="value-labels">
+			<text class="satisfied"><tspan x="534.281" y="296.582">Satisfied</tspan><tspan x="542.289" y="314.582">70.9%</tspan></text>
+			<text class="neutral"><tspan x="64.0234" y="176.582">Neutral</tspan><tspan x="70.2734" y="194.582">15.3%</tspan></text>
+			<text class="unsatisfied"><tspan x="153.031" y="31.582">Unsatisfied</tspan><tspan x="171.969" y="49.582">13.9%</tspan></text>
+		</g>
+	</g>
+</svg>

@@ -1,7 +1,7 @@
-```eval_rst
-
-.. post:: Nov 3, 2016
-   :tags: newsletter, november, 
+```{post} Nov 3, 2016
+---
+tags: newsletter, november,
+---
 
 ```
 
@@ -61,7 +61,6 @@ All of that said, a handful of solutions and platforms were mentioned in the con
 * [Contentful](https://www.contentful.com/) — developer-friendly, API-forward content management platform
 * [Forestry](https://forestry.io/) – builds a CMS from a repo of your Jekyll or Hugo project
 * [CraftCMS](https://craftcms.com) – user-friendly CMS, handy if you have non-techy folks contributing to your docs
-
 
 ## Using abbreviations and acronyms in documentation
 

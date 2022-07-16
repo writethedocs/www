@@ -1,0 +1,99 @@
+<svg height="100%" width="100%" viewBox="0 0 660 432" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+		<linearGradient id="paint0_linear_42_130" x1="115.747" y1="308" x2="115.747" y2="365" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint1_linear_42_130" x1="212.704" y1="39" x2="212.704" y2="365" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint2_linear_42_130" x1="309.156" y1="103" x2="309.156" y2="365" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint3_linear_42_130" x1="406.112" y1="208" x2="406.112" y2="365" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint4_linear_42_130" x1="503.069" y1="283" x2="503.069" y2="365" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint5_linear_42_130" x1="599.521" y1="350" x2="599.521" y2="365" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+  </defs>
+  <title>Respondent age range (2021)</title>
+  <desc>Bar chart showing age range of respondents: 18-25 year olds made up 6.3%; 26-35 year olds made up 35.8%; 36-45 year olds made up 28.8%; 46-55 year olds made up 17.3%; 56-65 year olds made up 9%; over 66 year olds made up 1.6%.</desc>
+  <g class="x-axis">
+    <g class="axis-values">
+			<text><tspan x="98.338" y="384.035">18-25</tspan></text>
+			<text><tspan x="193.982" y="384.035">26-35</tspan></text>
+			<text><tspan x="290.707" y="384.035">36-45</tspan></text>
+			<text><tspan x="388.153" y="384.035">46-55</tspan></text>
+			<text><tspan x="484.935" y="384.035">56-65</tspan></text>
+			<text><tspan x="587.414" y="384.035">66+</tspan></text>
+		</g>
+    <g class="axis-label">
+			<text transform="translate(49.9994 408)"><tspan x="263.773" y="17.582">Age range</tspan></text>
+    </g>    
+  </g>
+	<g class="y-axis">
+		<g class="axis-values">
+			<text><tspan x="48.5" y="368.035">0</tspan></text>
+			<text><tspan x="50.2209" y="322.035">5</tspan></text>
+			<text><tspan x="42.4105" y="277.035">10</tspan></text>
+			<text><tspan x="44.1314" y="231.035">15</tspan></text>
+			<text><tspan x="40.6767" y="186.035">20</tspan></text>
+			<text><tspan x="42.3976" y="140.035">25</tspan></text>
+			<text><tspan x="40.7275" y="95.0354">30</tspan></text>
+			<text><tspan x="42.4484" y="49.0354">35</tspan></text>
+		</g>
+    <g class="axis-label">
+			<text transform="translate(0 372) rotate(-90)"><tspan x="125.562" y="14.582">Respondents (%)</tspan></text>
+    </g>  
+		<g class="axis-lines">
+      <path d="M67.2685 364.5H647.999"/>
+			<path d="M67.2685 319.5H647.999"/>
+			<path d="M67.2685 273.5H647.999"/>
+			<path d="M67.2685 228.5H647.999"/>
+			<path d="M67.2685 182.5H647.999"/>
+			<path d="M67.2685 137.5H647.999"/>
+			<path d="M67.2685 91.5H647.999"/>
+			<path d="M67.2685 46.5H647.999"/>
+    </g>
+	</g>
+  <g class="data">
+		<g class="bar">
+			<path d="M156.146 308H75.3482V365H156.146V308Z" fill="#1E73BE"/>
+			<path d="M156.146 308H75.3482V365H156.146V308Z" fill="url(#paint0_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g class="bar">
+			<path d="M253.102 39H172.305V365H253.102V39Z" fill="#1E73BE"/>
+			<path d="M253.102 39H172.305V365H253.102V39Z" fill="url(#paint1_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g class="bar">
+			<path d="M350.059 103H268.252V365H350.059V103Z" fill="#1E73BE"/>
+			<path d="M350.059 103H268.252V365H350.059V103Z" fill="url(#paint2_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g class="bar">
+			<path d="M447.016 208H365.209V365H447.016V208Z" fill="#1E73BE"/>
+			<path d="M447.016 208H365.209V365H447.016V208Z" fill="url(#paint3_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g class="bar">
+			<path d="M543.973 283H462.166V365H543.973V283Z" fill="#1E73BE"/>
+			<path d="M543.973 283H462.166V365H543.973V283Z" fill="url(#paint4_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+		<g class="bar">
+			<path d="M639.92 350H559.122V365H639.92V350Z" fill="#1E73BE"/>
+			<path d="M639.92 350H559.122V365H639.92V350Z" fill="url(#paint5_linear_42_130)" fill-opacity="0.1"/>
+		</g>
+	</g>
+</svg>

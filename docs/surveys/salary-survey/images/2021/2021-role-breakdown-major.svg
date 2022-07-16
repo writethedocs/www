@@ -1,0 +1,30 @@
+<svg width="100%" height="100%" viewBox="0 0 660 479" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    	<radialGradient id="paint0_radial_78_162" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(325 222) scale(150)">
+				<stop stop-opacity="0"/>
+				<stop offset="1"/>
+			</radialGradient>
+  </defs>
+  <title>Role categorization - major grouping (2021)</title>
+  <desc>Donut chart showing major role categorization of respondents - the majority (85%) being writers, content creators, producers or editors, and only 15% categorizing themselves as one of the other six categories</desc>
+	<g class="donut-chart">
+		<g class="data">
+			<path d="M324.969 72C358.658 71.9931 391.368 83.3268 417.83 104.175C444.292 125.024 462.965 154.173 470.842 186.928C478.719 219.682 475.34 254.135 461.251 284.735C447.161 315.335 423.181 340.302 393.173 355.613C363.165 370.924 328.877 375.687 295.831 369.136C262.786 362.586 232.908 345.101 211.011 319.501C189.113 293.9 176.471 261.673 175.121 228.012C173.77 194.351 183.791 161.215 203.567 133.943L276.427 186.777C268.516 197.686 264.508 210.94 265.048 224.405C265.588 237.869 270.645 250.76 279.404 261C288.163 271.241 300.114 278.234 313.333 280.855C326.551 283.475 340.266 281.569 352.269 275.445C364.272 269.321 373.864 259.334 379.5 247.094C385.136 234.854 386.488 221.073 383.337 207.971C380.186 194.869 372.717 183.209 362.132 174.87C351.547 166.531 338.463 161.997 324.988 162L324.969 72Z" fill="#1E73BE" stroke="white" stroke-width="2"/>
+			<path d="M204 133.968C217.864 114.803 236.039 99.2008 257.045 88.432C278.05 77.6632 301.292 72.0329 324.875 72L325 162.213C315.567 162.226 306.27 164.478 297.868 168.786C289.465 173.093 282.195 179.334 276.65 187L204 133.968Z" fill="#FFA600" stroke="white" stroke-width="2"/>
+			<path d="M385.166 404.487C382.052 405.316 364.674 369.583 363.337 366.834L362 364.085" stroke="#1E73BE"/>
+			<path d="M214 39.9767C219.223 37.8347 251.963 82.545 254.482 85.9842L257 89.4235" stroke="#FFA600"/>
+			<g style="mix-blend-mode:color-burn" opacity="0.5">
+				<path fill-rule="evenodd" clip-rule="evenodd" d="M325 372C407.843 372 475 304.843 475 222C475 139.157 407.843 72 325 72C242.157 72 175 139.157 175 222C175 304.843 242.157 372 325 372ZM323.214 283.607C356.746 283.607 383.929 256.424 383.929 222.893C383.929 189.361 356.746 162.179 323.214 162.179C289.683 162.179 262.5 189.361 262.5 222.893C262.5 256.424 289.683 283.607 323.214 283.607Z" fill="url(#paint0_radial_78_162)" fill-opacity="0.25" style="mix-blend-mode:multiply"/>
+			</g>
+		</g>
+		<g class="value-labels">
+			<text><tspan x="339.516" y="425.582">Writer, content creator,</tspan><tspan x="354.156" y="443.582">producer, or editor</tspan><tspan x="407.461" y="461.582">85%</tspan></text>
+			<text><tspan x="162.477" y="38.582">Other</tspan><tspan x="168.844" y="56.582">15%</tspan></text>
+		</g>
+	</g>
+</svg>

@@ -37,7 +37,7 @@ If you still have questions, reach out the Welcome Wagon staff at the Helpdesk a
 Message organisers
 ~~~~~~~~~~~~~~~~~~
 
-If you want to contact one of the conference organizers, go to the **People** tab, select the **Filter** icon, and select **Organisers**. Select an Organiser and start typing your question. You can also email us at {{ shortcode }}@writethedocs.org.
+If you want to contact one of the conference organizers, go to the **People** page and search for an organizer's name. You can also email us at {{ shortcode }}@writethedocs.org.
 
 Slack
 ~~~~~
@@ -277,6 +277,7 @@ Do I have to be on video during the conference?
 - You can also share your screen during an Unconference. Select the Monitor icon to share your screen. Multiple people can share their screens at once.
 - Select the Settings icon to change your audio or video settings.
 - To make someone’s screen larger, double-click on it.
+- You can use the Hopin Stream Test at https://app.hopin.to/precall to check if your settings are configured correctly and to see if you are having any network issues. Read more at https://hopin.zendesk.com/hc/en-gb/articles/360059622932-Test-your-stream-quality-with-the-Hopin-Stream-Test.
 
 How do I see what’s happening right now?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -320,43 +321,35 @@ How should I prepare for the Job Fair?
 I’m having a technical issue. What can I try?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Make sure you’re using a browser supported by Hopin. List of supported browsers: https://hopin.zendesk.com/hc/en-gb/articles/360056078872-Browser-Compatibility-for-online-events-on-Hopin
+If you are having issues with error messages or an inability to hear or participate in Sessions, try these steps:
+
 - Refresh the Hopin page.
-- Log out of Google. Log in with a different Google account, if you have separate personal and company accounts.
-- Try using a Private browsing window.
-- Disable browser extensions.
+- Make sure you’re using a browser supported by Hopin. List of supported browsers: https://hopin.zendesk.com/hc/en-gb/articles/360056078872-Browser-Compatibility-for-online-events-on-Hopin.
+- Make sure your browser allows Hopin to access your microphone and webcam. See troubleshooting guides below for more info.
+- If you are using a Mac, check your privacy settings to allow your browser to access to your camera. See troubleshooting guides below for more info.
+- Try a different browser.
+- Try using an Incognito or private browsing window.
 - Log into your company’s VPN. If you are already logged in, try logging out.
+- Verify that your computer has a webcam. If you don't, you won't be able to hear or be heard when participating in a Session. If you don't have a webcam, sign into Hopin on a mobile device.
+- Log out of Google. Log in with a different Google account, if you have separate personal and company accounts.
+- Unplug your USB devices and replug them in. If you plug in a headset *after* you have joined the conference, you may need to restart your browser and join again.
+- Disable browser extensions.
 - Try a different computer. Sometimes work computers can have video streaming restrictions.
 - Check that your router is not blocking video streaming.
+- If you are using your work computer and still running into issues, your company’s IT department may need to temporarily disable Restricted Mode or put Hopin on their allowlist. More details can be found here:  https://support.google.com/youtube/answer/174084?hl=en
 
-
-I’m unable to watch the main stage talks. I am getting a “This video is restricted” error.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Some attendees have reported issues not being able to see the main stage video stream, instead seeing the following error message: “This video is restricted. Please check the Google Workspace administrator and/or the network administrator restrictions”
-
-This issue is caused by restrictions on your computer’s account, browser, computer, or network. We most often see this issue when attendees use their work computers or work accounts to join the conference.
-
-Try the following steps to work around this issue:
-
-- Log into your company’s VPN. If you are already logged in, try logging out.
-- Log out of YouTube or your Google account.
-- Try a different browser.
-- Try a different computer.
-- If you are using your work computer and still running into issues, your company’s IT department may need to temporarily disable Restricted Mode. More details can be found here:  https://support.google.com/youtube/answer/174084?hl=en
-
-
-I'm unable to share my webcam or microphone in a session or table.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- You can use the Hopin Stream Test at https://app.hopin.to/precall to check if your settings are configured correctly and to see if you are having any network issues. Read more at https://hopin.zendesk.com/hc/en-gb/articles/360059622932-Test-your-stream-quality-with-the-Hopin-Stream-Test
-- If you plug in a headset *after* you have joined the conference, you may need to restart your browser and join in again.
-- You will need to grant browser permissions for Hopin to access your microphone and webcam. If you are having issues with your webcam and microphone check these two help articles
-
+Troubleshooting guides:
   - `I'm having Camera and/or Microphone issues on Mac <https://hopin.zendesk.com/hc/en-gb/articles/360056527911-I-m-having-Camera-and-or-Microphone-issues-on-Mac/>`__
   - `I'm having Camera and/or Microphone issues on Windows 10 <https://hopin.zendesk.com/hc/en-gb/articles/360059277232-I-m-having-Camera-and-or-Microphone-issues-on-Windows-10/>`__
 
 If none of these work, reach out to the Helpdesk for help. Select **Expo** > **Helpdesk** and ask your question in the **Chat** tab.
+
+
+I can’t access the Unconference Spreadsheet. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If you are getting a “You need permission to access this published document” message, open the Unconference spreadsheet in an Incognito window or in a different browser.
+
 
 What can I do at the conference?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
