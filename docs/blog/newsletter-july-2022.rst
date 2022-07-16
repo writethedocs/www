@@ -80,7 +80,7 @@ A short read: Google, and other big tech companies, are struggling with `caste d
 
 A medium read: Belonging to a community of support can help shape your career and your life. However, for Black people, it can be hard to find role models in the tech field. The New Stack writes about `BlackTechTwitter <https://thenewstack.io/blacktechtwitter-for-life/>`__ and includes a list of accounts to follow.
 
-A longer read: Textio released their `Language Bias in Performance Feedback report <https://www.oprahdaily.com/life/a32893726/what-is-juneteenth/>`__. They found that when looking at job performance feedback, patterns of bias appear for most all underrepresented groups.
+A longer read: Textio released their `Language Bias in Performance Feedback report <https://explore.textio.com/feedback-bias>`__. They found that when looking at job performance feedback, patterns of bias appear for most all underrepresented groups.
 
 ----------------
 From our sponsor
