@@ -1,7 +1,7 @@
-```eval_rst
-
-.. post:: Mar 14, 2017
-   :tags: newsletter, march, formatting, bylines, alt text, job titles, community
+```{post} Mar 14, 2017
+---
+tags: newsletter, march, formatting, bylines, alt text, job titles, community
+---
 
 ```
 

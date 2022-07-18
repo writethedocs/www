@@ -18,16 +18,16 @@ photos:
 
 buttons:
   top:
-    - text: Welcome to our conference
-      link: /news/welcome
-    #    - text: Date and ticket information
-    #      link: /news/announcing-virtual-conf-dates-tickets
+    # - text: Welcome to our conference
+    #   link: /news/welcome
+    # - text: Date and ticket information
+    #   link: /news/announcing-virtual-conf-dates-tickets
     # - text: Read our conference guide
     #   link: /welcome-wagon
     # - text: See the Schedule!
     #   link: /schedule
-    # - text: Buy a Ticket!
-    #   link: /tickets
+    - text: Buy a Ticket!
+      link: /tickets
     #- text: Sponsor us
     #  link: /sponsors/prospectus
     - text: Submit a Talk
@@ -43,18 +43,16 @@ buttons:
     # - text: Watch the videos!
     #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpnaoiOQyd9BYbQbprDGQjQ9
   bottom:
-    - text: Welcome to our conference
-      link: /news/welcome
+    # - text: Welcome to our conference
+    #   link: /news/welcome
     # - text: See the Schedule!
     #   link: /schedule
-#     - text: Date and ticket information
-#       link: /news/announcing-virtual-conf-dates-tickets
     - text: Sponsor the conference
       link: /sponsors/prospectus
     # - text: See the talks!
     #   link: /speakers
-#     - text: Buy a Ticket!
-#       link: /tickets
+    - text: Buy a Ticket!
+      link: /tickets
     # - text: Prepare with the Welcome Wagon
     #   link: /welcome-wagon
     # - text: See the schedule!
@@ -90,7 +88,7 @@ sponsorship:
 date: # how do we handle these? human readable would be nice.
   main: "**September 11-13, 2022, online**"
   short: Sep 11-13, 2022
-  tickets_live: "May 2022"
+  tickets_live: "June 2022"
   month: September
   # Conference is special for the index to show the combined conference days
   conference:
@@ -121,6 +119,7 @@ date: # how do we handle these? human readable would be nice.
     dotw: Monday
     talk_time: 10:00-18:00
     unconference_time: 10:45-18:00
+    social_time: 19:00-21:00
   day_four:
     event: Conference Day 2
     date: September 13
@@ -150,10 +149,10 @@ cfp:
   notification: "July 15, 2022"     #  5 weeks to write and record
   video_by: "August 20, 2022"   # 3 weeks before the conf
 
-# grants:
-#   url: https://docs.google.com/forms/d/e/1FAIpQLSfjeNFe_cJ0xbdQ5SuHiBe8RDzMrLGd_W58bWEWsCwmS0CJZw/viewform
-#   ends: "August 15, 2022"
-#   notification: "August 25, 2022"
+grants:
+  url: https://docs.google.com/forms/d/e/1FAIpQLSf-kI51jdU9e85AV-ipQR3524IsKsFffSHQFgO-DupAAaqCPQ/viewform?usp=sf_link
+  ends: "August 15, 2022"
+  notification: "August 25, 2022"
 
 # unconf:
 #   url: https://bit.ly/wtd-prg-2021-ro
@@ -165,7 +164,16 @@ sponsors:
   keystone:
   patron:
   publisher:
+    - name: archbee-new
+      link: https://www.archbee.io/?utm_medium=banner&utm_source=conference&utm_campaign=wtd
+      brand: Archbee
+      min_width: 300px
   second:
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+      brand: KnowledgeOwl
+      width: 250px
+      text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl​ is looking for more contributors for our ​company blog​. This is an opportunity to write about a topic that interests you and get paid for it :)</p> <p>KnowledgeOwl also sponsors and hosts The Not-Boring Tech Writer podcast. We are always looking for new guests to share their stories, experience, and expertise with the world.</p> <p>Feel free to stop by and ask us more about KnowledgeOwl, these opportunities, or anything else!</p>"
   media:
   in_kind:
     - name: buildkite
@@ -178,14 +186,13 @@ sponsors:
 
 # Things that change over time, listed in order of change
 flagcfp: True
-flaglanding: True
-flaghassponsors: False
-flagticketsonsale: False
+flaglanding: False
+flaghassponsors: True
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
 flaghasschedule: False
-flaghasunconf: False
 flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
@@ -194,6 +201,7 @@ flagpostconf: False
 # Truthy things that don't change
 flaghashike: False
 flaghasboat: False
+flaghasunconf: True
 flaghaswritingday: True
 flaghasjobfair: True
 flaghasbadgeflair: False

@@ -60,11 +60,11 @@ You can now visit our Write the Docs {{ name }} {{ year }} Pop-Up Shop and order
 **Corporate Tickets** *{{tickets.corporate.price}}*
 --------------------------------------------
 
-Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
+Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package. Tickets are in AUD.
 
 {% if flagticketsonsale %}
 
-* `Buy Corporate Ticket <https://ti.to/writethedocs/write-the-docs-australia-india-2021>`__
+* `Buy Corporate Ticket <https://ti.to/writethedocs/write-the-docs-australia-2022>`__
 
 {% endif %}
 
@@ -73,11 +73,11 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 **Independent Tickets** *{{tickets.independent.price}}*
 --------------------------------------------
 
-Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees.
+Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees. Tickets are in AUD.
 
 {% if flagticketsonsale %}
 
-* `Buy Independent Ticket <https://ti.to/writethedocs/write-the-docs-australia-india-2021>`__
+* `Buy Independent Ticket <https://ti.to/writethedocs/write-the-docs-australia-2022>`__
 
 {% endif %}
 
@@ -86,11 +86,11 @@ Purchase this ticket if you are paying for yourself, or if you work at a non-pro
 **Student or Unemployed Tickets** *{{tickets.student.price}}*
 --------------------------------------------
 
-Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
+Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income. Tickets are in AUD.
 
 {% if flagticketsonsale %}
 
-* `Buy Student or Unemployed Ticket <https://ti.to/writethedocs/write-the-docs-australia-india-2021>`__
+* `Buy Student or Unemployed Ticket <https://ti.to/writethedocs/write-the-docs-australia-2022>`__
 
 {% endif %}
 

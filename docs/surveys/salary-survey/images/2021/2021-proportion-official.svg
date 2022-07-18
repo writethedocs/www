@@ -1,0 +1,38 @@
+<svg width="100%" height="100%" viewBox="0 0 660 417" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    <radialGradient id="paint0_radial_75_112" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(327 241) scale(150)">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</radialGradient>
+  </defs>
+  <title>Official role breakdown (2021)</title>
+  <desc>Donut chart showing proportion of role officially devoted to documentation: 69% said that documentation was the whole of their official job description, 25.4% said documentation was only part, 4.4% said documentation was not part of their role but they were expected to perform documentation-related tasks, and 1.2% said documentation was not part of their job description and even though it was not expected of them, they performed documentation-related tasks anyway</desc>
+	<g class="donut-chart">
+		<g class="data">
+			<path d="M327.462 89.9814C354.723 89.9759 381.47 97.3994 404.828 111.454C428.186 125.509 447.273 145.664 460.036 169.752C472.8 193.84 478.757 220.951 477.269 248.171C475.781 275.391 466.902 301.691 451.589 324.244C436.275 346.797 415.105 364.75 390.353 376.174C365.602 387.599 338.205 392.062 311.107 389.084C284.01 386.106 258.236 375.8 236.556 359.273C214.876 342.747 198.11 320.624 188.059 295.284L271.719 262.102C275.74 272.239 282.446 281.087 291.118 287.698C299.79 294.309 310.099 298.431 320.939 299.622C331.778 300.813 342.736 299.028 352.637 294.459C362.537 289.889 371.006 282.708 377.131 273.686C383.257 264.665 386.808 254.145 387.403 243.257C387.998 232.369 385.615 221.525 380.51 211.89C375.405 202.254 367.77 194.192 358.427 188.571C349.083 182.949 338.385 179.979 327.48 179.981L327.462 89.9814Z" fill="#1E73BE" stroke="white" stroke-width="2"/>
+			<path d="M188.004 295.144C180.648 276.542 177.086 256.657 177.529 236.658C177.973 216.659 182.412 196.951 190.585 178.693C198.758 160.435 210.501 143.997 225.122 130.345C239.743 116.693 256.947 106.103 275.722 99.1988L306.784 183.668C299.274 186.43 292.393 190.666 286.544 196.127C280.696 201.588 275.999 208.163 272.73 215.466C269.46 222.769 267.685 230.653 267.507 238.652C267.33 246.652 268.755 254.606 271.697 262.047L188.004 295.144Z" fill="#7271C9" stroke="white" stroke-width="2"/>
+			<path d="M275.862 99.1471C288.792 94.4068 302.314 91.4698 316.045 90.4189L322.914 180.156C317.421 180.577 312.012 181.752 306.84 183.648L275.862 99.1471Z" fill="#D761B6" stroke="white" stroke-width="2"/>
+			<path d="M316.195 90.4075C319.885 90.1288 323.584 89.9867 327.284 89.9816L327.409 179.981C325.929 179.984 324.45 180.04 322.974 180.152L316.195 90.4075Z" fill="#FFA600" stroke="white" stroke-width="2"/>
+			<g class="gradient-overlay" style="mix-blend-mode:color-burn" opacity="0.5">
+				<path fill-rule="evenodd" clip-rule="evenodd" d="M327 391C409.843 391 477 323.843 477 241C477 158.157 409.843 91 327 91C244.157 91 177 158.157 177 241C177 323.843 244.157 391 327 391ZM325.214 302.607C358.746 302.607 385.929 275.424 385.929 241.893C385.929 208.361 358.746 181.179 325.214 181.179C291.683 181.179 264.5 208.361 264.5 241.893C264.5 275.424 291.683 302.607 325.214 302.607Z" fill="url(#paint0_radial_75_112)" fill-opacity="0.25" style="mix-blend-mode:multiply"/>
+			</g>
+		</g>
+		<g class="connectors">
+			<path d="M470.959 334.724C467.779 334.724 454.104 325.43 453.052 324.715L452 324" stroke="#1E73BE"/>
+			<path d="M170.226 172.441C173.406 172.441 188.496 179.197 189.657 179.717L190.818 180.237" stroke="#7271C9"/>
+			<path d="M251 55C282.807 55 289.041 89.7006 289.52 92.3503L290 95" stroke="#D761B6"/>
+			<path d="M332 50C323.844 50 322.246 84.7006 322.123 87.3503L322 90" stroke="#FFA600"/>
+		</g>
+		<g class="value-labels">
+			<text><tspan x="477.07" y="338.582">Whole</tspan><tspan x="484.398" y="356.582">69%</tspan></text>
+			<text><tspan x="124.039" y="161.582">Part</tspan><tspan x="117.109" y="179.582">25.4%</tspan></text>
+			<text><tspan x="191.438" y="46.582">Expected</tspan><tspan x="206.258" y="64.582">4.4%</tspan></text>
+			<text><tspan x="322.148" y="33.582">Not expected</tspan><tspan x="351.969" y="51.582">1.2%</tspan></text>
+		</g>
+	</g>
+</svg>

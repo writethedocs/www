@@ -66,6 +66,10 @@ Write the Docs has had a number of talks that touch on this topic over the years
 
 * `Swapnil Ogale`_ provided his take on transitioning from traditional tech writing tools to a docs as code approach.
 
+**2022 North America**
+
+* `Marcia Riefer Johnston and Dave May`_ from Amazon Web Services (AWS) told the story of their team's move to docs as code: what worked, what didn't, what's next.
+
 The *Docs as Code* concepts are widely practiced in the software industry,
 and are gaining adoption in the writing community.
 
@@ -77,6 +81,7 @@ and are gaining adoption in the writing community.
 .. _Predrag Mandic: https://www.youtube.com/watch?v=oW7rWJ2xNZU
 .. _Jen Lambourne: https://www.youtube.com/watch?v=Ql9Il7tssik
 .. _Swapnil Ogale: https://www.youtube.com/watch?v=FQ7DkPOw3Cc
+.. _Marcia Riefer Johnston and Dave May: https://www.youtube.com/watch?v=Cxuo3udElcE
 
 *Docs as Code* at other Conferences, Video Casts and Articles
 -------------------------------------------------------------

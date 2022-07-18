@@ -6,8 +6,8 @@ your sponsorship on any one of them, at a level that suits you:
 
 * Our conferences each have their own sponsorship prospectus
     - Our :doc:`2022 Portland virtual conference </conf/portland/2022/sponsors/prospectus>`
-    - Our :doc:`2021 Prague online conference </conf/prague/2021/sponsors/prospectus>`
-    - Our :doc:`2021 Australia & India online conference </conf/australia/2021/sponsors/prospectus>`
+    - Our :doc:`2022 Prague online conference </conf/prague/2022/sponsors/prospectus>`
+    - Our :doc:`2022 Australia online conference </conf/australia/2022/sponsors/prospectus>`
 * Our :doc:`/sponsorship/newsletter` with over {{ newsletter_subs }} subscribers
 * Our :doc:`/sponsorship/website` offers both logo sponsorships and advertising 
 

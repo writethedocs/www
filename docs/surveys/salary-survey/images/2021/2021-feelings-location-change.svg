@@ -1,0 +1,35 @@
+<svg width="100%" height="100%" viewBox="0 0 660 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    <radialGradient id="paint0_radial_75_112" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(330 225) scale(150)">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</radialGradient>
+  </defs>
+  <title>Feelings about pandemic-related work location change (2021)</title>
+  <desc>Donut chart showing respondent attitudes towards the work location changes brought about by the COVID-19 pandemic: 69.7% feel positive or very positive; 21.3% feel neutral; 9% felt negative or very negative.</desc>
+	<g class="donut-chart">
+		<g class="data">
+			<path class="positive" d="M329.969 75C357.51 74.9944 384.521 82.5713 408.041 96.9001C431.561 111.229 450.682 131.756 463.308 156.233C475.934 180.709 481.578 208.188 479.621 235.66C477.664 263.131 468.181 289.533 452.212 311.972C436.244 334.411 414.406 352.02 389.092 362.87C363.778 373.72 335.966 377.391 308.704 373.481C281.442 369.571 255.783 358.23 234.539 340.703C213.295 323.176 197.287 300.139 188.269 274.116L273.308 244.646C276.915 255.055 283.318 264.27 291.816 271.281C300.313 278.292 310.577 282.828 321.482 284.392C332.386 285.956 343.511 284.488 353.637 280.148C363.762 275.808 372.498 268.764 378.885 259.789C385.272 250.813 389.065 240.252 389.848 229.264C390.631 218.275 388.374 207.283 383.323 197.493C378.273 187.703 370.624 179.492 361.216 173.76C351.808 168.028 341.004 164.998 329.988 165L329.969 75Z" fill="#1E73BE" stroke="white"/>
+			<path class="neutral" d="M188.22 273.974C177.204 242.083 177.262 207.41 188.383 175.556C199.505 143.702 221.041 116.528 249.512 98.4234L297.805 174.369C286.416 181.611 277.802 192.481 273.353 205.222C268.905 217.964 268.882 231.833 273.288 244.59L188.22 273.974Z" fill="#F35DA3" stroke="white"/>
+			<path class="negative" d="M249.638 98.343C273.609 83.134 301.403 75.0396 329.792 75.0002L329.917 165C318.561 165.016 307.444 168.254 297.855 174.337L249.638 98.343Z" fill="#FFA600" stroke="white"/>
+			<g class="gradient-overlay" style="mix-blend-mode:color-burn" opacity="0.5">
+				<path fill-rule="evenodd" clip-rule="evenodd" d="M330 375C412.843 375 480 307.843 480 225C480 142.157 412.843 75 330 75C247.157 75 180 142.157 180 225C180 307.843 247.157 375 330 375ZM328.214 286.607C361.746 286.607 388.929 259.424 388.929 225.893C388.929 192.361 361.746 165.179 328.214 165.179C294.683 165.179 267.5 192.361 267.5 225.893C267.5 259.424 294.683 286.607 328.214 286.607Z" fill="url(#paint0_radial_75_112)" fill-opacity="0.25" style="mix-blend-mode:multiply"/>
+			</g>
+		</g>
+		<g class="connectors">
+			<path class="positive" d="M533 310C522.299 310 473.487 282.933 471.743 281.967L470 281" stroke="#1E73BE"/>
+			<path class="neutral" d="M123.5 181.385C128.5 181.385 184.479 180.725 185.423 181.055L186.367 181.385" stroke="#F35DA3"/>
+			<path class="negative" d="M261 40C264.835 40 286.572 77.1237 286.786 79.0618L287 81" stroke="#FFA600"/>
+		</g>
+		<g class="value-labels">
+			<text class="positive"><tspan x="540.213" y="306.093">Positive</tspan><tspan x="546.088" y="324.093">69.7%</tspan></text>
+			<text class="neutral"><tspan x="60.5064" y="174.071">Neutral</tspan><tspan x="66.5376" y="192.071">21.3%</tspan></text>
+			<text class="negative"><tspan x="209.59" y="30.0713">Negative</tspan><tspan x="231.52" y="48.0713">9%</tspan></text>
+		</g>
+	</g>
+</svg>

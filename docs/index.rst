@@ -14,6 +14,7 @@ Welcome to our community!
 * :doc:`Conferences </conf/index>` on 3 continents
    - :doc:`Portland 2022 </conf/portland/2022/index>`, **May 22-24**, Virtual - PST
    - :doc:`Prague 2022 </conf/prague/2022/index>`, **September 11-13**, Virtual - CET
+   - :doc:`Australia 2022 </conf/australia/2022/index>`, **December 8-9**, Virtual - AEDT
 * :doc:`Local meetups </meetups/index>` in over 40 cities
 
 We consider everyone who cares about communication, documentation, and

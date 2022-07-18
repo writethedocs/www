@@ -1,7 +1,7 @@
-```eval_rst
-
-.. post:: Oct 3, 2016
-   :tags: newsletter
+```{post} Oct 3, 2016
+---
+tags: newsletter
+---
 
 ```
 
@@ -32,7 +32,6 @@ None of these are a perfect solution, perhaps, but they all give us somewhere to
 ## Coming soon: The Responsible Communication Guide
 
 To help us with questions like the one above, Thursday Bram (@thursday) (one of our illustrious WtD speakers) and Audrey Eschright (founder and publisher of _[The Recompiler](https://recompilermag.com/)_) just successfully funded their Kickstarter campaign to publish the [Responsible Communication Guide](https://www.kickstarter.com/projects/961164339/the-responsible-communication-style-guide). The project will produce a cross-functional style guide to help people write about technology in way that is more sensitive and inclusive around questions of race, gender, sexuality, religion, and health. Definitely a project to keep an eye on—congratulations to everyone who worked so hard to get it funded!
-
 
 ## Writing and maintaining command reference pages
 

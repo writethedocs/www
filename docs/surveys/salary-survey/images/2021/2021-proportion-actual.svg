@@ -1,0 +1,79 @@
+<svg viewBox="0 0 660 470" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<style type="text/css">
+			<![CDATA[
+				@import url('/_static/css/survey-2021-svg.css'); 
+			]]>
+		</style>
+		<linearGradient id="paint0_linear_42_130" x1="137.866" y1="347.344" x2="137.866" y2="378.485" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint1_linear_42_130" x1="286.542" y1="317.207" x2="286.542" y2="378.485" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint2_linear_42_130" x1="436.222" y1="200.677" x2="436.222" y2="378.485" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+		<linearGradient id="paint3_linear_42_130" x1="584.898" y1="19.8549" x2="584.898" y2="378.485" gradientUnits="userSpaceOnUse">
+			<stop stop-opacity="0"/>
+			<stop offset="1"/>
+		</linearGradient>
+	</defs>
+	<title>Proportion of role actually related to documentation (2021)</title>
+  <desc>Bar chart showing proportion of day-to-day tasks that are actually related to documentation - with 5% of respondents estimating up to 25%, 9.8% of respondents estimating 25-50%, 28.2% of respondents estimating 50-75%, and 57% of respondents estimating 75-100%</desc>
+	<g class="bar-chart">
+		<g class="x-axis">
+			<g class="axis-lines">
+				<path d="M63.0257 377.983H659.738"/>
+				<path d="M63.0257 314.695H659.738"/>
+				<path d="M63.0257 252.412H659.738"/>
+				<path d="M63.0257 189.124H659.738"/>
+				<path d="M63.0257 125.837H659.738"/>
+				<path d="M63.0257 63.5535H659.738"/>
+			</g>
+			<g class="axis-label">
+				<text transform="translate(64.2922 462.1)"><tspan x="189.955" y="-20">Percentage of day-to-day tasks</tspan></text>
+			</g>
+			<g class="axis-values">
+				<text><tspan x="117.995" y="397.552">0-25%</tspan></text>
+				<text><tspan x="263.479" y="397.552">25-50%</tspan></text>
+				<text><tspan x="413.261" y="397.552">50-75%</tspan></text>
+				<text><tspan x="558.064" y="397.552">75-100%</tspan></text>
+			</g>
+		</g>
+		<g class="y-axis">
+			<g class="axis-label">
+				<text transform="translate(0 407.854) rotate(-90)"><tspan x="143.489" y="14.582">Respondents (%)</tspan></text>
+			</g>
+			<g class="axis-values">
+				<text><tspan x="45.4009" y="381.479">0</tspan></text>
+				<text><tspan x="39.3712" y="318.192">10</tspan></text>
+				<text><tspan x="37.6573" y="255.909">20</tspan></text>
+				<text><tspan x="37.7081" y="192.621">30</tspan></text>
+				<text><tspan x="37.5304" y="129.333">40</tspan></text>
+				<text><tspan x="38.0128" y="67.0502">50</tspan></text>
+			</g>
+		</g>
+		<g class="data">
+			<g class="bar1">
+				<path d="M200.651 347.344H75.0805V378.485H200.651V347.344Z" fill="#1E73BE"/>
+				<path d="M200.651 347.344H75.0805V378.485H200.651V347.344Z" fill="url(#paint0_linear_42_130)" fill-opacity="0.1"/>
+			</g>
+			<g class="bar2">
+				<path d="M349.327 317.207H223.756V378.485H349.327V317.207Z" fill="#1E73BE"/>
+				<path d="M349.327 317.207H223.756V378.485H349.327V317.207Z" fill="url(#paint1_linear_42_130)" fill-opacity="0.1"/>
+			</g>
+			<g class="bar3">
+				<path d="M499.007 200.677H373.437V378.485H499.007V200.677Z" fill="#1E73BE"/>
+				<path d="M499.007 200.677H373.437V378.485H499.007V200.677Z" fill="url(#paint2_linear_42_130)" fill-opacity="0.1"/>
+			</g>
+			<g class="bar4">
+				<path d="M647.683 19.8549H522.112V378.485H647.683V19.8549Z" fill="#1E73BE"/>
+				<path d="M647.683 19.8549H522.112V378.485H647.683V19.8549Z" fill="url(#paint3_linear_42_130)" fill-opacity="0.1"/>
+			</g>
+		</g>
+	</g>
+</svg>
