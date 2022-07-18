@@ -6,7 +6,7 @@ this is a general outline of the emcee script for use in virtual meetups. Each
 emcee should feel free to customize the script and rely on it only as needed to
 keep things natural without missing key info.
 
-See also: [Meeting agenda (detailed)](meeting-agenda-detailed.md).
+<!-- See also: [Meeting agenda (detailed)](meeting-agenda-detailed.md). -->
 
 
 ## Before the meetup starts
