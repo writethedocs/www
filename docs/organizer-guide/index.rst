@@ -28,6 +28,7 @@ Information about the global Write the Docs :doc:`/meetups/index`.
    meetups/faq-meetups
    meetups/sustainable-meetups
    meetups/livestreaming-meetups
+   meetups/quorum
 
 Newsletter
 ------------
