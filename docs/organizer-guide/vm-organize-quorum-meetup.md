@@ -49,7 +49,7 @@ Great ways to publicize the Quorum meetups in your local meetup groups include:
 
 ## Practice emcee-ing
 
-One week before your meetup, the meetup organizer hosts a dry-run of the event emceeing and general flow to work through the logistics and decide which ice-breaker questions you want to include---it only takes about 30 minutes! This dry run helps give you confidence in helming the big event and gives experienced Quorum volunteer leaders the information to effectively manage the event alongside you.
+One week before your meetup, the meetup organizer hosts a 30-45 minute technical check where we go through the event logistics and answer questions. This technical check helps give you confidence in helming the big event and gives experienced Quorum volunteer leaders the information to effectively manage the event alongside you.
 
 You can also invite your speaker or speakers to the dry-run if you feel it would be advantageous. It can help you and your speakers feel at ease and it gives everyone a chance to ask questions.
 
