@@ -1,5 +1,5 @@
-# Quorum meetup roles
-=====================
+Quorum meetup roles
+===================
 
 At each Quorum meetup, we want to give individual organizers who plan to attend some light roles to help make our meetings go even more smoothly.
 The goal here is two-fold:

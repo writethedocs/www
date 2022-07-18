@@ -1,5 +1,5 @@
-# Write the Docs Meetup Quorum
-==============================
+Write the Docs Meetup Quorum
+============================
 
 The Quorum program brings together various local [Write the Docs](https://www.writethedocs.org/) meetup chapters in compatible time zones to provide quarterly super meetups over Zoom throughout the year. These quarterly virtual meetups can serve one or more time zones. Virtual events increase community participation and offer more opportunities for sharing knowledge. Virtual Meetup Quorums have high value in geographies where there isn't a tech epicenter. 
 
