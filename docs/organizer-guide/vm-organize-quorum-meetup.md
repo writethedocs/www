@@ -24,8 +24,6 @@ To plan the meetup, begin by brainstorming possible speakers or presenters that 
 
 If you're stuck, ping into the #meetup-organizers-quorum channel on Slack to brainstorm possible speakers. 
 
-In the future, we hope to provide a speaker database to help assist with this part of the process. If you'd like to volunteer to help organize this database, we're happy to help you get started. 
-
 ## Confirm details
 
 When you have a speaker lined up and confirmed, you are ready to check with Quorum meeting volunteer leaders to discuss the speaker and topic and determine whether it's a good fit for a Quorum meetup event, and finalize details, including:
