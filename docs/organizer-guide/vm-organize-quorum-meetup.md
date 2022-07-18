@@ -51,7 +51,7 @@ Great ways to publicize the Quorum meetups in your local meetup groups include:
 
 One week before your meetup, the meetup organizer hosts a 30-45 minute technical check where we go through the event logistics and answer questions. This technical check helps give you confidence in helming the big event and gives experienced Quorum volunteer leaders the information to effectively manage the event alongside you.
 
-You can also invite your speaker or speakers to the dry-run if you feel it would be advantageous. It can help you and your speakers feel at ease and it gives everyone a chance to ask questions.
+You can also invite your speaker or speakers to the technical check if you feel it would be advantageous. It can help you and your speakers feel at ease and it gives everyone a chance to ask questions.
 
 At a minimum, if you don't feel an emcee practice dry-run is necessary, open an a Slack conversation with you, the speaker, and other leaders so that communication channels are open for sharing pertinent details.
 
