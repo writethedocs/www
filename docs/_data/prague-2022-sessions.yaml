@@ -1,0 +1,413 @@
+- title: Getting started and harnessing the opportunities in technical writing
+  slug: getting-started-and-harnessing-the-opportunities-in-technical-writing-deborah-emeni
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2022
+  speakers:
+  - name: Deborah Emeni
+    slug: deborah-emeni
+    twitter: https://twitter.com/_emeni_deborah
+    website: https://debbie.hashnode.dev/
+  abstract: "<p>Before I began my technical writing journey, I didn't know where to
+    begin. I was interested in writing technical articles, but it was a hassle for
+    me to start writing as I had no prior writing experience.</p>\n<p>I went on a
+    google search and watched a couple of technical writing/documentation videos,
+    but it was futile. \nI was looking for a road map and a beginner-friendly guide
+    to getting started in technical writing, but I didn't find any help.</p>\n<p>However,
+    I had to figure this out on my own. From my experience, I've been able to put
+    together a road map that people will find helpful. I'd love to share this road
+    map in my talk.</p>"
+- title: ADHD and its impact on the Creative Process for Writers
+  slug: adhd-and-its-impact-on-the-creative-process-for-writers-tyler-smith
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2022
+  speakers:
+  - name: Tyler Smith
+    slug: tyler-smith
+    twitter: 
+    website: 
+  abstract: '<p>Tyler was diagnosed with ADHD at 27 years old; 3 years later, and
+    having moved from a reactive Technical Support position into a creative and proactive
+    Technical Writing position, he discovered many ways in which his ADHD interacts
+    with his creative process. When comparing with other Technical Writers, especially
+    those who are “neuro-typical”, he noticed that his productivity levels were significantly
+    impacted - whilst other people put out a steady stream of work over time, he found
+    that he spent a lot of time ruminating over details and research before a massive
+    spike in productivity where all of the “measurable” metrics would spike too.</p>
+
+    <p>Realizing that this was significant, he took this thought process to a group
+    of colleagues who identify as neuro-diverse, and to his surprise, many of them
+    identified heavily with the situation and the attached feelings. He explored them
+    with those colleagues, as well as several other trusted people, and he would like
+    to share the findings with you.</p>
+
+    <p>Come and explore this topic with Tyler, where he’ll aim to help your understanding
+    of:</p>
+
+    <ul>
+
+    <li>The impact of ADHD on the creative writing process</li>
+
+    <li>Differences in the “neuro-typical” writing process and the “neuro-diverse”
+    process</li>
+
+    <li>Managing an ADHD writer</li>
+
+    <li>How to view measurable metrics in a supportive manner for ADHD employees</li>
+
+    </ul>'
+- title: How I convinced my boss to invest in our docs team
+  slug: how-i-convinced-my-boss-to-invest-in-our-docs-team-karissa-van-baulen
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2022
+  speakers:
+  - name: Karissa Van Baulen
+    slug: karissa-van-baulen
+    twitter: 
+    website: 
+  abstract: '<p>Yet again, docs are listed in the top three pain points for your organization
+    and still you can’t get buy-in for your ideas about doc improvements. Want to
+    change their mind? Getting support from stakeholders to invest in more resources,
+    whether it is more writers, more money, or just more support, is a hard hurdle
+    to jump over especially if you are at a growing company with growing needs to
+    be documented.</p>
+
+    <p>In this talk, we will go through how to create a compelling business case to
+    go from a lone writer to a dream team with the support of your direct leads, upper
+    exec, and any stakeholders.</p>'
+- title: The Art of Asking Questions
+  slug: the-art-of-asking-questions-jeff-smith
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2022
+  speakers:
+  - name: Jeff Smith
+    slug: jeff-smith
+    twitter: '@jeffreylees'
+    website: https://jeffreyleesmith.com
+  abstract: '<p>There are many times in your career as a technical writer or documentarian
+    where you may feel restricted on your communications with members of other teams.
+    Particularly when dealing with the more technical teammates, subject matter experts,
+    and co-founders who carry knowledge in their minds that needs documented, asking
+    questions can be daunting. What is the best method to use to interact with this
+    person? When is the best time? Will they even respond? If they don’t respond,
+    should you push harder? This can be discouraging and turn you away from inquisitiveness,
+    and doubly so if you are by nature a quiet or introverted person.</p>
+
+    <p>This is often true to such an extent that writers will apologize for asking
+    questions. This leads into the crux of the matter, which is this: Never apologize
+    for asking questions. Never apologize for being curious. And never apologize for
+    doing your job. Curiosity is one of the greatest qualities a documentarian can
+    have. Anecdotally, I just hired two technical writers for our documentation team,
+    and one of the qualities I and other interviewers were screening for was just
+    this. What questions do they ask? Are they inquisitive? Do they take on new subjects
+    to learn because they want to? Are they comfortable documenting things they’re
+    unfamiliar with before starting?</p>
+
+    <p>You should never be worried about or discouraged from asking questions. If
+    you’re not in the mental space to be comfortable with this part of your job, it’s
+    an easy enough habit to pick up, and it’s a critical part of documenting anything.
+    There are of course times when you can read about what you need, and simply rephrase
+    and organize existing information. That’s useful for the presentation of disorganized
+    information, but when you are tasked with documenting something new, questions
+    are essential. The people providing you with raw information, no matter how familiar
+    with the product or feature, often do not know everything that the customer, and
+    by proxy, you, will need to know to use it. That’s your job — that’s why you’re
+    being paid — to be the expert in generating, crafting, and refining the documentation.
+    Don’t sell yourself short.</p>
+
+    <p>In this talk I’ll cover the above points in more detail, provide some clear
+    real world examples, and discuss how to take into account things like domain knowledge,
+    egos, internal politics, and more while still gathering the information you need
+    to do your work. It’s your job as a documentarian to ask the questions the customer
+    may not be able to ask easily, so that you can answer them yourself!</p>'
+- title: Documentation as Marketing? From Conflict to Collaboration
+  slug: documentation-as-marketing-from-conflict-to-collaboration-mano-toth
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2022
+  speakers:
+  - name: Mano Toth
+    slug: mano-toth
+    twitter: '@manototh'
+    website: https://manototh.com/
+  abstract: '<p>Documentation and marketing are often considered as diametrically
+    opposed to each other, both in terms of their goals and methods. It is true that
+    the conventions for technical and marketing content are different, and technical
+    writing and marketing could both be conducted in a way that they come into conflict
+    with each other. However, this does not need to be the case.</p>
+
+    <p>In this talk, I argue that the goals of technical writing and marketing are
+    aligned in many ways. Specifically, the impact that documentation aims to have
+    on different user groups is closely connected to the goals of marketing. Technical
+    writing aims to motivate users, help them solve their problems, and enable them
+    to explore. In this understanding, documentation can effectively contribute to
+    the classical marketing aims of engagement, retention and upsell. Based on this
+    premise, my talk explores how documentation and marketing can collaborate with
+    and learn from each other.</p>'
+- title: Creating documentation for the African audience.
+  slug: creating-documentation-for-the-african-audience-benny-ifeanyi-iheagwara
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2022
+  speakers:
+  - name: Benny Ifeanyi Iheagwara
+    slug: benny-ifeanyi-iheagwara
+    twitter: '@bennykillua @iafur'
+    website: https://benny.hashnode.dev/
+  - name: Mustapha Rufai
+    slug: mustapha-rufai
+    twitter: 
+    website: 
+  abstract: '<p>They say good docs save lives—your users, developers, and consumers—
+    regardless of the form they come in, be it contents, tutorial pieces, or documentation.
+    Also, with an understanding of the market and your audience, these pieces of content
+    can tell stories, attract people, and inspire venture capitalists to invest. When
+    done right, the reward is massive, and Africa is no exception. </p>
+
+    <p>But why aren''t African startups doing more of this? The African tech ecosystem is
+    rocketing, and venture capitalists are taking notice. Could it be a short-sighted
+    view? Time constraints and money? Or is it the uniqueness of the African audience?</p>
+
+    <p>For this talk, we spoke with a few African startups to learn how they approach
+    documentation and content creation, their challenges, focuses, and how they tell
+    their stories.</p>'
+- title: 'Cultivating a Stakeholder Network for Our Docs: How Building Relationships
+    Improves Our Content'
+  slug: cultivating-a-stakeholder-network-for-our-docs-how-building-relationships-impro-taylor-cole
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2022
+  speakers:
+  - name: Taylor Cole
+    slug: taylor-cole
+    twitter: 
+    website: 
+  abstract: '<p>For many of us, helping others is the primary motivation underlying
+    the work that we do. As documentarians, helping others often equates to creating
+    content that’s truly aligned with our audience’s needs. But ensuring that our
+    efforts pay off in customer satisfaction can be challenging, because we often
+    receive doc requirements second-hand and not from the people who rely on us most.</p>
+
+    <p>In my work writing developer documentation, I’ve found that the best way to
+    meet the needs of my audience is to build long-lasting relationships with stakeholders,
+    whether through attending user conferences, eliciting feedback, or engaging in
+    other forms of outreach. Nurturing stakeholder relationships and helping others
+    with what we do makes our work not only higher quality, but also more rewarding
+    and meaningful.</p>
+
+    <p>In this talk, I’ll share how I’ve built lasting relationships with the external
+    community to better empathize with customers and enable their success.</p>
+
+    <p>We’ll explore:</p>
+
+    <ul>
+
+    <li>The value of cultivating a network of stakeholders for your documentation</li>
+
+    <li>Tangible ways you can build long-lasting relationships with your customers</li>
+
+    <li>Potential challenges you might encounter and how to overcome them</li>
+
+    <li>Ways to measure your impact and make the case for investing in your audience</li>
+
+    </ul>
+
+    <p>This talk is for anyone who wants to learn how to better connect with and serve
+    the people who consume your content.</p>'
+- title: Improve Customer Adoption with UI Help
+  slug: improve-customer-adoption-with-ui-help-prashant-mathapathi
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2022
+  speakers:
+  - name: Prashant Mathapathi
+    slug: prashant-mathapathi
+    twitter: 
+    website: https://prashantmathapathi1990.blogspot.com/
+  abstract: '<p>In today''s busy environment, not every customer has the time to migrate
+    from UI to doc site to read a doc, when they are stuck. This may lead to customer
+    not using a complex feature which might actually be very useful and a great revenue
+    generator to the organization. </p>
+
+    <p>In this presentation, I present a customer adoption technique by use of UI
+    based help. UI based help is not the same as context sensitive help nor does it
+    refer to the traditional hard-coded tooltips created by developers. UI based help
+    refers to various attractive, attention grabbing methods of presenting content
+    to the users on the UI itself thus negating the need to go to the documentation
+    site each time they are stuck.</p>
+
+    <p>Does that mean that the traditional style of documentation would be completely
+    be replaced? certainly Not. UI based help is generally crisp and serves a specific
+    purpose. For example, UI based help can be used to explain a specific field on
+    the UI which could otherwise be difficult to understand, a flow which explains
+    (in brief) how to use a new feature with a few clicks, an announcement (new release,
+    new feature, new investor, new acquisition etc), a survey and so on.   </p>
+
+    <p>In this presentation, I will explain the various types of UI based help that
+    technical writers can use to help improve the customer adoption, thus benefiting
+    the organization.</p>'
+- title: Beyond spell checking - what else can we check automatically?
+  slug: beyond-spell-checking-what-else-can-we-check-automatically-tibs
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2022
+  speakers:
+  - name: Tibs
+    slug: tibs
+    twitter: '@much_of_a'
+    website: https://www.tonyibbs.co.uk/
+  abstract: '<p>Writing documentation is hard, and spotting errors in that documentation
+    is
+
+    harder. Luckily, if we''re working in a docs-as-code environment, we can apply
+
+    some of the techniques that programmers have been using for a long time, in
+
+    particular <em>linting</em>, the automated checking for common errors or stylistic
+
+    problems.</p>
+
+    <p>In this talk, I shall go through some of the types of check it is possible
+    to
+
+    make, including spell checking (it''s still important), suggesting replacements
+
+    for words/phrases (<code>multi-cloud</code> instead of <code>multicloud</code>),
+    "if this then
+
+    that" rules (remember to expand an acronym on first use) and targeting checks
+
+    more closely using simple NLP (Natural Language Processing)</p>
+
+    <p>I''ll cover the use of pre-prepared styles, and I''ll give some
+
+    consideration as to how linting can be "plumbed in" to the review process.</p>
+
+    <p>At the end I''ll demonstrate how to implement some of these techniques, using
+
+    the example of Aiven''s open source developer documentation. I''ll make sure to
+
+    include my favourite check, for the correct usage of <code>®</code> on product
+    names.</p>'
+- title: 'Maintaining Documentation: Make It Easy!'
+  slug: maintaining-documentation-make-it-easy-emilia-juda-zbay
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2022
+  speakers:
+  - name: Emilia Juda-Özbay
+    slug: emilia-juda-zbay
+    twitter: 
+    website: 
+  abstract: '<p>Have you ever had trouble with outdated examples, installation instructions
+    that no longer work, or obsolete references in your documentation? You''re not
+    alone. At some point, everyone involved in software engineering has run into problems
+    like these. In fact, a significant portion of documentation issues stems from
+    inadequate maintenance.</p>
+
+    <p>There is a wealth of information on how to make reading documentation less
+    painful and more productive, from considerations about information architecture
+    to suggestions for appropriate UI solutions. However, good documentation doesn’t
+    just magically appear — someone must write and maintain it. Therefore, it is important
+    to consider the workflows of documentation maintainers. What issues do we face
+    and what can we do to improve them?</p>
+
+    <p>In this talk, we will take a closer look at six blockers commonly encountered
+    when maintaining documentation, such as poor workflow automation, unclear guidelines,
+    and lack of traceability. We will then discuss specific improvements you can implement
+    in your own organization, regardless of the programming language you use or who
+    reads your documentation.</p>
+
+    <p>Whether you’re an individual contributor trying to make your job easier, an
+    open source maintainer hoping to get more contributions from your community, or
+    a manager aspiring to remove blockers faced by your team, this talk will outline
+    steps you can take to create an exceptional documentation maintenance experience.</p>'
+- title: 'Two years of Markdoc: what we’ve learned about balancing developer and author
+    experience'
+  slug: two-years-of-markdoc-what-we-ve-learned-about-balancing-developer-and-author-ex-ryan-paul
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2022
+  speakers:
+  - name: Ryan Paul
+    slug: ryan-paul
+    twitter: '@segphault'
+    website: https://seg.phault.net
+  abstract: '<p>At <em>Write the Docs Portland</em> in 2020, we described how we built
+    Markdoc—an extensible Markdown-based content format—to enable application-like
+    user experiences in our documentation while providing a low-friction authoring
+    experience.</p>
+
+    <p>Two years later, Markdoc now powers thousands of pages of documentation at
+    Stripe and is available to the community under a permissive open source license.  We
+    are back to discuss what we’ve learned about using Markdoc in practice, how we
+    balance developer experience (DX) with authoring experience (AX), Markdoc’s burgeoning
+    open source community, and ideas for what you can start building with Markdoc
+    today.</p>
+
+    <p>In this talk, we’ll:</p>
+
+    <ul>
+
+    <li>Discuss common authoring pain points when hundreds of cross-functional stakeholders
+    contribute to documentation</li>
+
+    <li>Uncover some tips, tooling, and strategies for solving these problems</li>
+
+    <li>Showcase inspiring examples of Markdoc in the wild</li>
+
+    </ul>'
+- title: 'Toward the broader globalization of Open Source: documenting your localisation
+    Journey'
+  slug: toward-the-broader-globalization-of-open-source-documenting-your-localisation-j-batool-almarzouq
+  series: Write the Docs Prague
+  series_slug: prague
+  year: 2022
+  speakers:
+  - name: Batool Almarzouq
+    slug: batool-almarzouq
+    twitter: '@turingway'
+    website: 
+  abstract: '<p>The Turing Way is an open-source community-led guide to reproducible,
+    ethical and inclusive data science. Its goal is to provide all the information
+    that researchers, industry professionals and members of the public need to understand
+    reproducibility and ethical standards in data science at all stages of development.
+    The Turing Way contains chapters with best practices, guidance and recommendations
+    that are crowdsourced, collaboratively documented and used internationally by
+    researchers from across the globe.</p>
+
+    <p>The Turing Way community currently hosts over 200 sub-chapters across five
+    guides and over 300 direct contributors on GitHub, where we develop our resources
+    that are used by thousands of geographically and culturally diverse users. However,
+    the guide is written in English. This language barrier motivated us to create
+    community-led, multilingual versions of The Turing Way, with the same collaborative
+    spirit that permeates the main guide. The community then started working collaboratively
+    on translations of the Turing Way material to several languages, including Spanish,
+    Arabic and Turkish, while trying out different platforms (such as Transifex and
+    Crowdin).</p>
+
+    <p>Eventually, we established a workflow in Crowdin for the translation, which
+    is a key step for internationalisation (i18n) of The Turing Way. Localisation
+    (l10n) and internationalisation (i18n) are important aspects in the design of
+    any open-source project or document. Internationalisation allows open-source projects
+    to support and satisfy the needs of multiple locales, thus “enabling” localisation,
+    which is the adaptation of it to meet the language and the culture of a specific
+    target locale.</p>
+
+    <p>However, translation workflows can often become confusing and inconsistent,
+    and many translation efforts go unfinished for several different reasons. Our
+    aim is to provide clear guidelines so any potential contributor is able to participate
+    freely while keeping consistency in the translation. We project clear documentation
+    to facilitate the creation of language bridges that connect to diverse audiences.
+    Therefore, we have documented the translation workflows inside the Community Handbook,
+    which is a part of the Turing Way book. It provides information about all our
+    practices within the project, ways of working, and other aspects that can make
+    community participation equitable for all members. We also include language-specific
+    documentation in GitHub written by the target language contributors. By structuring
+    and combining the relevant glossaries available in such languages, we enable community
+    members to consistently translate using standardised terminology.  Sharing and
+    documenting our translation journey has proven to be important in reaching out
+    to new members and making their contributions smoother and more accessible.</p>'

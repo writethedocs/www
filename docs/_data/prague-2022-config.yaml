@@ -30,10 +30,10 @@ buttons:
       link: /tickets
     #- text: Sponsor us
     #  link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
-    #- text: See the talks!
-    #  link: /speakers
+    #- text: Submit a Talk
+    #  link: /cfp
+    - text: See the talks!
+      link: /speakers
     #- text: See the Schedule!
     #  link: /schedule
     # - text: Watch the Live Stream
@@ -190,7 +190,7 @@ flaglanding: False
 flaghassponsors: True
 flagticketsonsale: True
 flagsoldout: False
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: False
 flaghasshirts: False
