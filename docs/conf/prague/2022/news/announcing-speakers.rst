@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: July 18, 2022
+.. post:: July 20, 2022
    :tags: prague-2022, speakers, tickets, shirts
 
 Announcing speakers and talks
