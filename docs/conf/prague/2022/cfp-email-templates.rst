@@ -112,11 +112,6 @@ Subject:
 01 - Speaker logistics template
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Upload:
-   {{cfp_variables['upload']}}
-
-----
-
 Subject:
    WTD {{city}} {{year}} -- speaker logistics
 
