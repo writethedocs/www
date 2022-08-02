@@ -106,7 +106,7 @@ jobs:
         run: tar -xzf html.tar.gz
 
       - name: Install html-proofer
-        run: sudo gem install html-proofer
+        run: sudo gem install html-proofer -v 4.2.0
 
       - name: Check links
         run: |
