@@ -1,0 +1,97 @@
+writing_day:
+- time: '10:00'
+  duration: '00:30'
+  title: 'Platform opens'
+- duration: '0:15'
+  title: Morning introduction - Introduction to Sprints & Project Introductions
+- duration: '2:15'
+  title: Team up and start working
+- duration: '1:00'
+  title: Lunch Break (60 mins)
+- time: '14:00'
+  duration: '0:30'
+  title: Conference Intro and Tour with the Welcome Wagon
+- time: '17:00'
+  title: End of Writing Day
+
+talks_day1:
+- time: '9:00'
+  duration: '0:30'
+  title: Platform opens
+- time: '9:30'
+  duration: '0:30'
+  title: Conference Intro and Tour with the Welcome Wagon
+- duration: '0:40'
+  title: Write the Docs Team - Introduction to Write the Docs
+- duration: '0:5'
+  title: Break (5 mins)
+- title: <b>Unconference Starts</b>
+- duration: '0:40'
+  slug: maintaining-documentation-make-it-easy-emilia-juda-zbay
+- duration: '0:10'
+  title: Break (10 mins)
+- duration: '0:40'
+  slug: how-i-convinced-my-boss-to-invest-in-our-docs-team-karissa-van-baulen
+- duration: '0:5'
+  title: Break (5 mins)
+- duration: '0:40'
+  slug: documentation-as-marketing-from-conflict-to-collaboration-mano-toth
+- duration: '1:00'
+  title: Lunch (60 mins)
+- duration: '0:30'
+  title: Lightning talks (30 mins)
+- duration: '0:5'
+  title: Break (5 mins)
+- duration: '0:40'
+  slug: cultivating-a-stakeholder-network-for-our-docs-how-building-relationships-impro-taylor-cole
+- duration: '0:5'
+  title: Break (5 mins)
+- duration: '0:40'
+  slug: getting-started-and-harnessing-the-opportunities-in-technical-writing-deborah-emeni
+- duration: '0:10'
+  title: Break (10 mins)
+- duration: '0:40'
+  slug: beyond-spell-checking-what-else-can-we-check-automatically-tibs
+- duration: '0:5'
+  title: Break (5 mins)
+- duration: '0:40'
+  slug: the-art-of-asking-questions-jeff-smith
+- duration: '0:25'
+  title: Day 1 wraps up
+- time: '18:00'
+  duration: '2:00'
+  title: <b>Social Event on SpatialChat</b>
+- title: <b>Social Event Ends</b>
+
+talks_day2:
+- time: '9:00'
+  duration: '1:45'
+  title: Platform opens
+- title: <b>Job Fair Starts</b>
+- duration: '0:40'
+  slug: improve-customer-adoption-with-ui-help-prashant-mathapathi
+- duration: '0:10'
+  title: Break (10 mins)
+- duration: '0:40'
+  slug: toward-the-broader-globalization-of-open-source-documenting-your-localisation-j-batool-almarzouq
+- duration: '0:5'
+  title: Break (5 mins)
+- title: <b>Job Fair Ends</b>
+- duration: '0:40'
+  slug: two-years-of-markdoc-what-we-ve-learned-about-balancing-developer-and-author-ex-ryan-paul
+- duration: '1:00'
+  title: Lunch (60 mins)
+- duration: '0:30'
+  title: Lightning Talks (30 mins)
+- duration: '0:5'
+  title: Break (5 mins)
+- title: <b>Unconference Starts</b>
+- duration: '0:40'
+  slug: creating-documentation-for-the-african-audience-benny-ifeanyi-iheagwara
+- duration: '0:5'
+  title: Break (5 mins)
+- duration: '0:40'
+  slug: adhd-and-its-impact-on-the-creative-process-for-writers-tyler-smith
+- duration: '0:15'
+  title: Closing address
+- title: <b>Conference Ends</b> :(
