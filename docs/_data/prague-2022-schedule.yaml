@@ -91,12 +91,12 @@ talks_day2:
     slug: toward-the-broader-globalization-of-open-source-documenting-your-localisation-j-batool-almarzouq
   - duration: '0:05'
     title: '⏲ 5 minute break'
-  - duration: '0:25'
-    title: "<b>Meetup information session - Get involved locally!</b>"
+  - duration: '0:30'
+    slug: creating-documentation-for-the-african-audience-benny-ifeanyi-iheagwara
   - duration: '0:05'
     title: '⏲ 5 minute break'
   - duration: '0:15'
-    title: '✋ Q&A for the previous talk'
+    title: '✋ Q&A for the two previous talks'
   - duration: '0:00'
     title: "<b>Job Fair Ends</b>"
   - duration: '1:00'
@@ -112,15 +112,11 @@ talks_day2:
   - duration: '0:05'
     title: '⏲ 5 minute break'
   - duration: '0:30'
-    slug: creating-documentation-for-the-african-audience-benny-ifeanyi-iheagwara
+    slug: adhd-and-its-impact-on-the-creative-process-for-writers-tyler-smith
   - duration: '0:15'
     title: 'Closing address'
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
-  - duration: '0:20'
-    title: '<b>Main stage talks done</b>'
-  - duration: '1:30'
-    slug: adhd-and-its-impact-on-the-creative-process-for-writers-tyler-smith
   - duration: '0:00'
     title: '<b>Conference ends 😔</b>'
 
