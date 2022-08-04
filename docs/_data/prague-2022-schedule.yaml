@@ -27,11 +27,11 @@ talks_day1:
   - duration: '0:00'
     title: "<b>Unconference Starts</b>"
   - duration: '0:30'
-    slug: one-aws-team-s-move-to-docs-as-code-what-worked-what-didn-t-what-s-next-marcia-riefer-johnston
+    slug: maintaining-documentation-make-it-easy-emilia-juda-zbay
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: unit-test-the-docs-why-you-should-test-your-code-examples-ben-perlmutter
+    slug: how-i-convinced-my-boss-to-invest-in-our-docs-team-karissa-van-baulen
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:15'
@@ -39,11 +39,11 @@ talks_day1:
   - duration: '0:15'
     title: 'Coffee break'
   - duration: '0:30'
-    slug: lessons-learned-from-cloud-ops-writing-docs-for-high-stakes-situations-alastair-dallas
+    slug: documentation-as-marketing-from-conflict-to-collaboration-mano-toth
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: measuring-documentation-success-in-open-source-findings-from-google-s-season-of-kassandra-dhillon
+    slug: cultivating-a-stakeholder-network-for-our-docs-how-building-relationships-impro-taylor-cole
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
   - duration: '1:00'
@@ -53,11 +53,11 @@ talks_day1:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: peer-writing-and-beyond-an-experimental-approach-to-a-sustainable-open-source-chris-ganta
+    slug: getting-started-and-harnessing-the-opportunities-in-technical-writing-deborah-emeni
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: from-me-to-us-building-a-docs-team-from-the-ground-up-lana-brindley-she-her
+    slug: beyond-spell-checking-what-else-can-we-check-automatically-tibs
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:15'
@@ -76,11 +76,11 @@ talks_day2:
   - duration: '0:00'
     title: "<b>Job Fair Starts</b>"
   - duration: '0:30'
-    slug: beating-the-virginia-blues-thru-hiking-strategies-to-help-you-survive-your-next-kate-mueller
+    slug: the-art-of-asking-questions-jeff-smith
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: don-t-shoot-yourself-in-the-foot-with-content-reuse-anna-gasparyan
+    slug: improve-customer-adoption-with-ui-help-prashant-mathapathi
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:15'
@@ -88,7 +88,7 @@ talks_day2:
   - duration: '0:15'
     title: 'Coffee break'
   - duration: '0:30'
-    slug: don-t-trust-the-numbers-kumar-dhanagopal
+    slug: toward-the-broader-globalization-of-open-source-documenting-your-localisation-j-batool-almarzouq
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:25'
@@ -108,11 +108,11 @@ talks_day2:
   - duration: '0:00'
     title: "<b>Unconference Starts</b>"
   - duration: '0:30'
-    slug: all-together-now-turning-technologists-into-documentarians-liani-lye-she-her
+    slug: two-years-of-markdoc-what-we-ve-learned-about-balancing-developer-and-author-ex-ryan-paul
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: code-cowpokes-and-word-wranglers-from-mutual-admiration-to-solidarity-erin-dees
+    slug: creating-documentation-for-the-african-audience-benny-ifeanyi-iheagwara
   - duration: '0:15'
     title: 'Closing address'
   - duration: '0:15'
@@ -120,7 +120,7 @@ talks_day2:
   - duration: '0:20'
     title: '<b>Main stage talks done</b>'
   - duration: '1:30'
-    slug: technical-writing-for-accessibility
+    slug: adhd-and-its-impact-on-the-creative-process-for-writers-tyler-smith
   - duration: '0:00'
     title: '<b>Conference ends 😔</b>'
 
