@@ -1,5 +1,5 @@
 writing_day:
-  - time: '8:00'
+  - time: '9:00'
     title: 'Platform opens'
   - time: '9:00'
     title: Morning introduction - Introduction to Sprints & Project Introductions
@@ -15,7 +15,7 @@ writing_day:
     title: End of Writing Day
 
 talks_day1:
-  - time: '8:00'
+  - time: '9:00'
     title: Platform opens
   - time: '8:15'
     title: Welcome Wagon conference introduction and platform tour
@@ -23,25 +23,25 @@ talks_day1:
     duration: '0:25'
     title: Write the Docs Team - Community update
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:00'
     title: "<b>Unconference Starts</b>"
   - duration: '0:30'
     slug: maintaining-documentation-make-it-easy-emilia-juda-zbay
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: how-i-convinced-my-boss-to-invest-in-our-docs-team-karissa-van-baulen
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
   - duration: '0:15'
-    title: 'Coffee break'
+    title: '☕️ Coffee break'
   - duration: '0:30'
     slug: documentation-as-marketing-from-conflict-to-collaboration-mano-toth
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: cultivating-a-stakeholder-network-for-our-docs-how-building-relationships-impro-taylor-cole
   - duration: '0:15'
@@ -51,15 +51,15 @@ talks_day1:
   - duration: '0:30'
     title: Lightning Talks (30 mins)
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: getting-started-and-harnessing-the-opportunities-in-technical-writing-deborah-emeni
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: beyond-spell-checking-what-else-can-we-check-automatically-tibs
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
   - duration: '0:00'
@@ -70,7 +70,7 @@ talks_day1:
     title: "<b>Social Event Ends</b>"
 
 talks_day2:
-  - time: '8:00'
+  - time: '9:00'
     title: Platform opens
     duration: '1:00'
   - duration: '0:00'
@@ -78,23 +78,23 @@ talks_day2:
   - duration: '0:30'
     slug: the-art-of-asking-questions-jeff-smith
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: improve-customer-adoption-with-ui-help-prashant-mathapathi
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
   - duration: '0:15'
-    title: 'Coffee break'
+    title: '☕️ Coffee break'
   - duration: '0:30'
     slug: toward-the-broader-globalization-of-open-source-documenting-your-localisation-j-batool-almarzouq
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:25'
     title: "<b>Meetup information session - Get involved locally!</b>"
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:15'
     title: '✋ Q&A for the previous talk'
   - duration: '0:00'
@@ -104,13 +104,13 @@ talks_day2:
   - duration: '0:30'
     title: Lightning Talks (30 mins)
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:00'
     title: "<b>Unconference Starts</b>"
   - duration: '0:30'
     slug: two-years-of-markdoc-what-we-ve-learned-about-balancing-developer-and-author-ex-ryan-paul
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: creating-documentation-for-the-african-audience-benny-ifeanyi-iheagwara
   - duration: '0:15'
