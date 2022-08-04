@@ -1,97 +1,126 @@
 writing_day:
-- time: '10:00'
-  duration: '00:30'
-  title: 'Platform opens'
-- duration: '0:15'
-  title: Morning introduction - Introduction to Sprints & Project Introductions
-- duration: '2:15'
-  title: Team up and start working
-- duration: '1:00'
-  title: Lunch Break (60 mins)
-- time: '14:00'
-  duration: '0:30'
-  title: Conference Intro and Tour with the Welcome Wagon
-- time: '17:00'
-  title: End of Writing Day
+  - time: '8:00'
+    title: 'Platform opens'
+  - time: '9:00'
+    title: Morning introduction - Introduction to Sprints & Project Introductions
+  - time: '9:30'
+    title: Team up and start working
+  - time: '11:00'
+    title: Welcome Wagon conference introduction and platform tour
+  - time: '12:00'
+    title: Lunch Break - Determine length with table
+  - time: '14:00'
+    title: Welcome Wagon conference introduction and platform tour
+  - time: '17:00'
+    title: End of Writing Day
 
 talks_day1:
-- time: '9:00'
-  duration: '0:30'
-  title: Platform opens
-- time: '9:30'
-  duration: '0:30'
-  title: Conference Intro and Tour with the Welcome Wagon
-- duration: '0:40'
-  title: Write the Docs Team - Introduction to Write the Docs
-- duration: '0:5'
-  title: Break (5 mins)
-- title: <b>Unconference Starts</b>
-- duration: '0:40'
-  slug: maintaining-documentation-make-it-easy-emilia-juda-zbay
-- duration: '0:10'
-  title: Break (10 mins)
-- duration: '0:40'
-  slug: how-i-convinced-my-boss-to-invest-in-our-docs-team-karissa-van-baulen
-- duration: '0:5'
-  title: Break (5 mins)
-- duration: '0:40'
-  slug: documentation-as-marketing-from-conflict-to-collaboration-mano-toth
-- duration: '1:00'
-  title: Lunch (60 mins)
-- duration: '0:30'
-  title: Lightning talks (30 mins)
-- duration: '0:5'
-  title: Break (5 mins)
-- duration: '0:40'
-  slug: cultivating-a-stakeholder-network-for-our-docs-how-building-relationships-impro-taylor-cole
-- duration: '0:5'
-  title: Break (5 mins)
-- duration: '0:40'
-  slug: getting-started-and-harnessing-the-opportunities-in-technical-writing-deborah-emeni
-- duration: '0:10'
-  title: Break (10 mins)
-- duration: '0:40'
-  slug: beyond-spell-checking-what-else-can-we-check-automatically-tibs
-- duration: '0:5'
-  title: Break (5 mins)
-- duration: '0:40'
-  slug: the-art-of-asking-questions-jeff-smith
-- duration: '0:25'
-  title: Day 1 wraps up
-- time: '18:00'
-  duration: '2:00'
-  title: <b>Social Event on SpatialChat</b>
-- title: <b>Social Event Ends</b>
+  - time: '8:00'
+    title: Platform opens
+  - time: '8:15'
+    title: Welcome Wagon conference introduction and platform tour
+  - time: '9:00'
+    duration: '0:25'
+    title: Write the Docs Team - Community update
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:00'
+    title: "<b>Unconference Starts</b>"
+  - duration: '0:30'
+    slug: one-aws-team-s-move-to-docs-as-code-what-worked-what-didn-t-what-s-next-marcia-riefer-johnston
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: unit-test-the-docs-why-you-should-test-your-code-examples-ben-perlmutter
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:15'
+    title: '✋ Q&A for the two previous talks'
+  - duration: '0:15'
+    title: 'Coffee break'
+  - duration: '0:30'
+    slug: lessons-learned-from-cloud-ops-writing-docs-for-high-stakes-situations-alastair-dallas
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: measuring-documentation-success-in-open-source-findings-from-google-s-season-of-kassandra-dhillon
+  - duration: '0:15'
+    title: '✋ Q&A for the two previous talks'
+  - duration: '1:00'
+    title: 'Lunch Break'
+  - duration: '0:30'
+    title: Lightning Talks (30 mins)
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: peer-writing-and-beyond-an-experimental-approach-to-a-sustainable-open-source-chris-ganta
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: from-me-to-us-building-a-docs-team-from-the-ground-up-lana-brindley-she-her
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:15'
+    title: '✋ Q&A for the two previous talks'
+  - duration: '0:00'
+    title: Day 1 wraps up
+  - time: '17:00'
+    title: "<b>Social Event</b>"
+  - time: '19:00'
+    title: "<b>Social Event Ends</b>"
 
 talks_day2:
-- time: '9:00'
-  duration: '1:45'
-  title: Platform opens
-- title: <b>Job Fair Starts</b>
-- duration: '0:40'
-  slug: improve-customer-adoption-with-ui-help-prashant-mathapathi
-- duration: '0:10'
-  title: Break (10 mins)
-- duration: '0:40'
-  slug: toward-the-broader-globalization-of-open-source-documenting-your-localisation-j-batool-almarzouq
-- duration: '0:5'
-  title: Break (5 mins)
-- title: <b>Job Fair Ends</b>
-- duration: '0:40'
-  slug: two-years-of-markdoc-what-we-ve-learned-about-balancing-developer-and-author-ex-ryan-paul
-- duration: '1:00'
-  title: Lunch (60 mins)
-- duration: '0:30'
-  title: Lightning Talks (30 mins)
-- duration: '0:5'
-  title: Break (5 mins)
-- title: <b>Unconference Starts</b>
-- duration: '0:40'
-  slug: creating-documentation-for-the-african-audience-benny-ifeanyi-iheagwara
-- duration: '0:5'
-  title: Break (5 mins)
-- duration: '0:40'
-  slug: adhd-and-its-impact-on-the-creative-process-for-writers-tyler-smith
-- duration: '0:15'
-  title: Closing address
-- title: <b>Conference Ends</b> :(
+  - time: '8:00'
+    title: Platform opens
+    duration: '1:00'
+  - duration: '0:00'
+    title: "<b>Job Fair Starts</b>"
+  - duration: '0:30'
+    slug: beating-the-virginia-blues-thru-hiking-strategies-to-help-you-survive-your-next-kate-mueller
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: don-t-shoot-yourself-in-the-foot-with-content-reuse-anna-gasparyan
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:15'
+    title: '✋ Q&A for the two previous talks'
+  - duration: '0:15'
+    title: 'Coffee break'
+  - duration: '0:30'
+    slug: don-t-trust-the-numbers-kumar-dhanagopal
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:25'
+    title: "<b>Meetup information session - Get involved locally!</b>"
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:15'
+    title: '✋ Q&A for the previous talk'
+  - duration: '0:00'
+    title: "<b>Job Fair Ends</b>"
+  - duration: '1:00'
+    title: 'Lunch Break'
+  - duration: '0:30'
+    title: Lightning Talks (30 mins)
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:00'
+    title: "<b>Unconference Starts</b>"
+  - duration: '0:30'
+    slug: all-together-now-turning-technologists-into-documentarians-liani-lye-she-her
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: code-cowpokes-and-word-wranglers-from-mutual-admiration-to-solidarity-erin-dees
+  - duration: '0:15'
+    title: 'Closing address'
+  - duration: '0:15'
+    title: '✋ Q&A for the two previous talks'
+  - duration: '0:20'
+    title: '<b>Main stage talks done</b>'
+  - duration: '1:30'
+    slug: technical-writing-for-accessibility
+  - duration: '0:00'
+    title: '<b>Conference ends 😔</b>'
+
