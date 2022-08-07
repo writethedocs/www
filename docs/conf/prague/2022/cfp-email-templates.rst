@@ -186,11 +186,11 @@ Subject:
 
    Hope you're all well!
 
-   We're about six weeks out from the conference now, lots of stuff is happening behind the scenes, and I hope you're feeling good about recording.
+   We're about five weeks out from the conference now, lots of stuff is happening behind the scenes, and I hope you're feeling good about recording.
 
    We've got a [provisional schedule]({{cfp.preview}}) up, and I'd *love it* if you could check your time-slot and make sure you can do a live Q&A shortly after your talk is streamed. I've tried to cater to all timezone requirements, but if you can't make your Q&A slot let me know and I'll refactor. We'll be publishing the schedule on **Monday**.
 
-   We're trying something new this year, and doing one Q&A for two talks, so it'll be live call with the MC, and two speakers (or more for talks with multiple speakers). A mini panel if you will. The exact format for each Q&A will be casual conversation style, the MC passing moderated questions from the audience to one speaker or the other (or even both where applicable).
+   We're trying something new this year, and doing one Q&A for two talks, so it'll be live call with the emcee, and two speakers (or more for talks with multiple speakers). A mini panel if you will. The exact format for each Q&A will be casual conversation style, the emcee passing moderated questions from the audience to one speaker or the other (or even both where applicable).
 
    A few folks asked where to upload talk recordings when you have them (by **{{cfp.video_by}}** right?):
 
@@ -200,9 +200,9 @@ Subject:
 
    You might find it useful to check out the [Recording guidelines](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/talk-recording-guidelines/) and [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) for virtual conferences.
 
-   And while we're here, 😉 if you don't have a profile picture set in [Pretalx](https://pretalx.com/write-the-docs-portland-2022/login/), now would be a great time to add one, and to fill out the questions on pronouns, name pronuniation and interests for our MC intro.
+   And while we're here, 😉 if you don't have a profile picture set in [Pretalx](https://pretalx.com/write-the-docs-portland-2022/login/), now would be a great time to add one, and to fill out the questions on pronouns, name pronuniation and interests for our emcee intro.
 
-   As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. Please upload those to the [Talk recording drive]({{cfp_variables['upload']}}) by **{{cfp.slides_by}}**.
+   As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. Please upload those to the [Talk recording drive]({{cfp_variables['upload']}}) by **{{cfp.video_by}}**.
 
    In a few weeks I'll be in touch with some calendar invites for a sound check during the conference, to make sure you're all sorted with Hopin logins, audio and video, and to answer any questions you might have.
 
@@ -231,13 +231,13 @@ Subject:
 
    The conference is almost upon us! First off, thank you all so much for all of the hard work you've put into getting the recordings done and uploaded. Most of the hard work is behind you, and you can settle in and enjoy the conference 😊, but before you relax entirely, please:
 
-   ○ confirm that you've [uploaded your slides or vocabulary](https://bartatwork.stack.storage/s/tITmETk0y4Zz2nv8) for the captioners, **and** [answered the questions]({proposal_url}) that the EMCEE uses to record your intro by May 15th.
+   ○ confirm that you've [uploaded your slides or vocabulary](https://bartatwork.stack.storage/s/tITmETk0y4Zz2nv8) for the captioners, **and** [answered the questions]({proposal_url}) that the emcee uses to record your intro by May 15th.
 
    ○ register your free [Hopin speaker ticket]({{cfp_variables['ticket']}}) -- the entire conference is held in Hopin, from writing day on Sunday, all talks, unconference sessions, chat, etc. Only the Monday evening social will be held in Spatial.chat.
 
    ○ schedule an [audio-visual check]({{cfp_variables['calendly']}}) with me or our AV tech **the day before** your talk. This helps me know you're around 😉 and logged in to Hopin, and lets us clear up any audio or visual issues before your Q&A. We recommend you do this even if you're confident about your setup. The audio-visual checks happen in a private Hopin room.
 
-   Remember, all Q&A sessions this year will be a joint chat with the EMCEE and two speakers, and **start straight after every other talk**, in the Speaker Q&A session (the Monday and Tuesday Q&A sessions have different URLs).
+   Remember, all Q&A sessions this year will be a joint chat with the emcee and two speakers, and **start straight after every other talk**, in the Speaker Q&A session (the Monday and Tuesday Q&A sessions have different URLs).
 
    Some speakers like to hang out in the event chat and answer questions during their talk, but that is entirely up to you. We'll be moderating questions before the Q&A regardless.
 
