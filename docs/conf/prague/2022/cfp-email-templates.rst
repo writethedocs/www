@@ -177,7 +177,9 @@ Upload:
 Video by:
    {{cfp.video_by}}
 Slides by:
-   {{cfp.slides_by}}   
+   {{cfp.slides_by}}
+Provisional schedule:
+   {{cfp.preview}}
 
 ----
 
