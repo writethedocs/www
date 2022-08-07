@@ -174,6 +174,10 @@ Subject:
 
 Upload:
    {{cfp_variables['upload']}}
+Video by:
+   {{cfp.video_by}}
+Slides by:
+   {{cfp.slides_by}}   
 
 ----
 
@@ -202,7 +206,7 @@ Subject:
 
    And while we're here, 😉 if you don't have a profile picture set in [Pretalx](https://pretalx.com/write-the-docs-portland-2022/login/), now would be a great time to add one, and to fill out the questions on pronouns, name pronuniation and interests for our emcee intro.
 
-   As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. Please upload those to the [Talk recording drive]({{cfp_variables['upload']}}) by **{{cfp.video_by}}**.
+   As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. Please upload those to the [Talk recording drive]({{cfp_variables['upload']}}) by **{{cfp.slides_by}}**.
 
    In a few weeks I'll be in touch with some calendar invites for a sound check during the conference, to make sure you're all sorted with Hopin logins, audio and video, and to answer any questions you might have.
 
