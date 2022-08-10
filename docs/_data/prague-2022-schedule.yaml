@@ -1,9 +1,9 @@
 writing_day:
   - time: '9:00'
     title: 'Platform opens'
-  - time: '9:00'
+  - time: '10:00'
     title: Morning introduction - Introduction to Sprints & Project Introductions
-  - time: '9:30'
+  - time: '10:30'
     title: Team up and start working
   - time: '11:00'
     title: Welcome Wagon conference introduction and platform tour
@@ -17,9 +17,9 @@ writing_day:
 talks_day1:
   - time: '9:00'
     title: Platform opens
-  - time: '8:15'
+  - time: '9:15'
     title: Welcome Wagon conference introduction and platform tour
-  - time: '9:00'
+  - time: '10:00'
     duration: '0:25'
     title: Write the Docs Team - Community update
   - duration: '0:05'
