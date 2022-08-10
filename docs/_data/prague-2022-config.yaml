@@ -148,6 +148,8 @@ cfp:
   ends: "June 30, 2022"           # 2 weeks to review and get confirmnations
   notification: "July 15, 2022"     #  5 weeks to write and record
   video_by: "August 20, 2022"   # 3 weeks before the conf
+  slides_by: "August 27, 2022"  # 2 weeks before the conf
+  preview: "https://writethedocs-www--1777.org.readthedocs.build/conf/prague/2022/schedule/"
 
 grants:
   url: https://docs.google.com/forms/d/e/1FAIpQLSf-kI51jdU9e85AV-ipQR3524IsKsFffSHQFgO-DupAAaqCPQ/viewform?usp=sf_link
