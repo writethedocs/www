@@ -15,10 +15,10 @@ Swapnil Ogale
 
 {% include "bios/swapnil.rst" %}
 
-Rajakavitha Kodhandapani
+Jared Morgan
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-{% include "bios/rajie.rst" %}
+{% include "bios/jared.rst" %}
 
 Samuel Wright
 ~~~~~~~~~~~~~~~~~~
@@ -32,7 +32,6 @@ Primary Roles
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
 
 * **Conference chair** - Swapnil Ogale
-* **Conference co-chair** - Rajakavitha Kodhandapani
 * **Swag coordinator** - Mikey Ariel
 * **Speaker wrangler** - Swapnil Ogale
 * **Infrastructure chair** - Samuel Wright
@@ -41,6 +40,6 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 * **Volunteer coordinator** - TBA
 * **Sponsorship** - TBA
 * **Unconference coordinator** - TBA
-* **Emcee** - TBA
+* **Emcee** - Jared Morgan
 * **Welcome Wagon coordinators** - TBA
 * **Social media chair** - TBA
