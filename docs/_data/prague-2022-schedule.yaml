@@ -43,7 +43,7 @@ talks_day1:
   - duration: '0:05'
     title: '⏲ 5 minute break'
   - duration: '0:30'
-    slug: cultivating-a-stakeholder-network-for-our-docs-how-building-relationships-impro-taylor-cole
+    slug: beyond-spell-checking-what-else-can-we-check-automatically-tibs
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
   - duration: '1:00'
@@ -57,7 +57,7 @@ talks_day1:
   - duration: '0:05'
     title: '⏲ 5 minute break'
   - duration: '0:30'
-    slug: beyond-spell-checking-what-else-can-we-check-automatically-tibs
+    slug: cultivating-a-stakeholder-network-for-our-docs-how-building-relationships-impro-taylor-cole
   - duration: '0:05'
     title: '⏲ 5 minute break'
   - duration: '0:15'
