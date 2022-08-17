@@ -32,8 +32,6 @@ talks_day1:
     title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: how-i-convinced-my-boss-to-invest-in-our-docs-team-karissa-van-baulen
-  - duration: '0:05'
-    title: '⏲ 5 minute break'
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
   - duration: '0:15'
@@ -58,8 +56,6 @@ talks_day1:
     title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: cultivating-a-stakeholder-network-for-our-docs-how-building-relationships-impro-taylor-cole
-  - duration: '0:05'
-    title: '⏲ 5 minute break'
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
   - duration: '0:00'
@@ -81,8 +77,6 @@ talks_day2:
     title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: improve-customer-adoption-with-ui-help-prashant-mathapathi
-  - duration: '0:05'
-    title: '⏲ 5 minute break'
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
   - duration: '0:15'
@@ -93,8 +87,6 @@ talks_day2:
     title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: creating-documentation-for-the-african-audience-benny-ifeanyi-iheagwara
-  - duration: '0:05'
-    title: '⏲ 5 minute break'
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
   - duration: '0:00'
