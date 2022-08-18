@@ -7,7 +7,7 @@ writing_day:
     title: Team up and start working
   - time: '11:00'
     title: Welcome Wagon conference introduction and platform tour
-  - time: '12:00'
+  - time: '12:30'
     title: '🍲 Lunch Break - Determine length with table'
   - time: '14:00'
     title: Welcome Wagon conference introduction and platform tour
@@ -60,9 +60,9 @@ talks_day1:
     title: '✋ Q&A for the two previous talks'
   - duration: '0:00'
     title: Day 1 wraps up
-  - time: '17:00'
+  - time: '17:30'
     title: "<b>Social Event</b>"
-  - time: '19:00'
+  - time: '19:30'
     title: "<b>Social Event Ends</b>"
 
 talks_day2:
