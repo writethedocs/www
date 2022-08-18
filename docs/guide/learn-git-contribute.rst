@@ -10,7 +10,7 @@ Identify the page you want to edit
    https://www.writethedocs.org/documentarians/ is produced by
    ``/docs/documentarians.rst``. (You’ll need this filename later for
    making changes on your local copy.)
-3. This is a ReStrucuredText (.rst) file, so you may want to review the
+3. This is a ReStructuredText (.rst) file, so you may want to review the
    `RST documentation`_. Other common markup formats are Markdown (.md)
    and AsciiDoc (.adoc).
 
