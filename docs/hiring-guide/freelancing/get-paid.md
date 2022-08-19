@@ -4,7 +4,7 @@
 
 ### How will I handle international payments?
 
-International bank transfers and currency conversions incur fees. PayPal is one option, but there are fees for you to withdraw your money to your bank account. Consider using a service such as [Transferwise](https://transferwise.com/).
+International bank transfers and currency conversions incur fees. PayPal is one option, but there are fees for you to withdraw your money to your bank account. Consider using a service such as [Wise](https://wise.com/).
 
 ### Do I invoice in my currency, or the client's?
 
