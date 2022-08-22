@@ -16,10 +16,10 @@ folks.
           They get to choose who is in each team, so they are the best folks to
           talk to about how to join their team.
 
-.. contents:: Teams
+.. contents:: Contents & Teams
    :local:
    :backlinks: none
-   :depth: 1
+   :depth: 2
 
 Terminology
 -----------
