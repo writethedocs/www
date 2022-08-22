@@ -10,6 +10,8 @@ Hey there documentarians!
 Eric Holscher here, one of the co-founders of Write the Docs.
 Filling in again for the newsletter team in August this year,
 we have a few updates from the community and what has been going on.
+Thanks again to `Aaron <https://www.aaronrcollier.com/>`_ for taking over the newsletter editor role,
+and to `Beth <https://bethaitman.com/>`_ for doing it for the last few years.
 
 We're looking forward to seeing everyone online for our virtual `Prague <http://www.writethedocs.org/conf/prague/2022/>`_ on **September 11-13** in the CEST timezone.
 We're also getting excited about our upcoming virtual `Australia & India <http://www.writethedocs.org/conf/australia/2022/>`_ conference on **December 8-9** in the AEDT timezone.
@@ -38,16 +40,18 @@ and the value from live human interaction that we all miss.
 We will have more announcements about our 2023 plans closer to the end of the year,
 but we appreciate all the support we've gotten from you all as we figure things out.
 
-Slack history update
---------------------
+Slack update
+------------
 
 Slack has `changed it policy around free plans <https://slack.com/blog/news/pricing-and-plan-updates>`_,
-starting in September we will have 3 months of Slack history.
+starting in September we will have **3 months of Slack history**.
 This will make the community a much more useful place for people who interact occasionally,
 allowing them to catch up on past conversations a bit more easily. 
 
-We continue to be overjoyed at the helpful community that we've been able to curate on our Slack network.
-If you aren't there,
+We also wanted to take the time to show appreciation to our `Slack moderation team <https://www.writethedocs.org/team/#slack-moderation>`_.
+We are overjoyed at the helpful community that we've been able to curate on our Slack network,
+and they play a huge role in that.
+If you aren't on our Slack,
 we hope you'll join us and contribute to the many varied discussions happening each day.
 
 Salary Survey
