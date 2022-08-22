@@ -62,6 +62,10 @@ Write the Docs has had a number of talks that touch on this topic over the years
 
 * `Jen Lambourne`_ shared the UK Government Digital Service's experience adopting a docs as code approach.
 
+**2020 Europe**
+
+* `Diana Lakatos`_ showed various fully remote processes platformOS developed to help community members contribute content and code to their developer portal, including why they follow the docs as code approach, how they developed an editorial workflow that can work for all contributors, and how they implemented it through GitHub. 
+
 **2021 North America**
 
 * `Swapnil Ogale`_ provided his take on transitioning from traditional tech writing tools to a docs as code approach.
@@ -80,6 +84,7 @@ and are gaining adoption in the writing community.
 .. _Jodie Putrino: https://www.youtube.com/watch?v=Mzu-c-FoOdw
 .. _Predrag Mandic: https://www.youtube.com/watch?v=oW7rWJ2xNZU
 .. _Jen Lambourne: https://www.youtube.com/watch?v=Ql9Il7tssik
+.. _Diana Lakatos: https://www.youtube.com/watch?v=zm5Iw7jsyC4
 .. _Swapnil Ogale: https://www.youtube.com/watch?v=FQ7DkPOw3Cc
 .. _Marcia Riefer Johnston and Dave May: https://www.youtube.com/watch?v=Cxuo3udElcE
 
