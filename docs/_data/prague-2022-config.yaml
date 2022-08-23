@@ -180,12 +180,12 @@ sponsors:
       link: https://www.jetbrains.com/
       brand: JetBrains
   media:
-  - name: bart
-    link: http://www.bartatwork.com
-    brand: Bart at work
-  - name: techwriter-pl
-    link: http://techwriter.pl
-    brand: techwriter.pl
+    - name: bart
+      link: http://www.bartatwork.com
+      brand: Bart at work
+    - name: techwriter-pl
+      link: http://techwriter.pl
+      brand: techwriter.pl
   in_kind:
     - name: buildkite
       link: https://buildkite.com/
