@@ -108,12 +108,14 @@ This month’s newsletter is sponsored by `Zoomin <https://www.zoominsoftware.co
 Featured job posts
 ------------------
 
-This month’s job postings are sponsored by `JetBrains <https://www.jetbrains.com/careers/jobs/?role=Technical%20writer>`_:
+This month’s job postings are sponsored by `JetBrains <https://www.jetbrains.com/careers/jobs/?role=Technical%20writer>`_.
+**JetBrains** is constantly and desperately looking for technical writers who love development and developer environments and are open to new challenges.
+`Come to work with us <https://www.jetbrains.com/careers/jobs/?role=Technical%20writer>`_. We are the opposite of boring.**
 
-- JetBrains is constantly and desperately looking for technical writers who love development and developer environments and are open to new challenges.
-  `Come to work with us <https://www.jetbrains.com/careers/jobs/?role=Technical%20writer>`_. **We are the opposite of boring.**
-- `Technical Writer <https://jobs.writethedocs.org/job/904/technical-writer/>`__ ESLint (Remote)
-- `Technical Writer <https://jobs.writethedocs.org/job/917/technical-writer/>`__  Payara Services Ltd (Remote)
+We also had the following job postings:
+
+- `Technical Writer <https://jobs.writethedocs.org/job/904/technical-writer/>`__, ESLint (Remote)
+- `Technical Writer <https://jobs.writethedocs.org/job/917/technical-writer/>`__,  Payara Services Ltd (Remote)
 
 *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
