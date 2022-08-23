@@ -156,11 +156,11 @@ grants:
   ends: "August 15, 2022"
   notification: "August 25, 2022"
 
-# unconf:
-#   url: https://bit.ly/wtd-prg-2021-ro
+unconf:
+  url: https://bit.ly/wtd-prg-2022-ro
 
-# lightning_talks:
-#   signup_url: https://forms.gle/GzEn8GH7wjs7Aaun9
+lightning_talks:
+  signup_url: https://forms.gle/BjeN5BkdTPg9n3nAA
 
 sponsors:
   keystone:
@@ -187,7 +187,7 @@ sponsors:
 
 
 # Things that change over time, listed in order of change
-flagcfp: True
+flagcfp: False
 flaglanding: False
 flaghassponsors: True
 flagticketsonsale: True
