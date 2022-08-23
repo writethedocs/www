@@ -58,15 +58,15 @@ Salary Survey
 -------------
 
 Our annual salary survey gathers data about salaries for people working in documentation and related fields around the world.
-`Results of the third salary survey <https://www.writethedocs.org/surveys/salary-survey/2021/>`__ are available on our website.
+`Results of the 2021 salary survey <https://www.writethedocs.org/surveys/salary-survey/2021/>`__ are available on our website.
 
-We continue to hear from members of the community that use this information to set expectations around salary with their employers.
+We continue to receive great feedback from members of the community that use this information to set expectations around salary with their employers.
 Leveling the playing field in employment negotiations is one of the best things we can do to help our community members,
-and plan to continue working on this endeavour. 
+and we plan to continue working on this endeavor. 
 
 We're hoping to launch next year's survey here soon,
 but haven't put the finishing touches on it quite yet.
-Watch the newsletter for that in the coming months.
+Watch the newsletter for updates in the coming months.
 
 ---------------- 
 From our sponsor
