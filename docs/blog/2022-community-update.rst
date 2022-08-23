@@ -13,11 +13,12 @@ we have a few updates from the community about what has been going on.
 Thanks again to `Aaron <https://www.aaronrcollier.com/>`_ for taking over the newsletter editor role,
 and thanks to `Beth <https://bethaitman.com/>`_ for doing it for the last few years.
 
-We're looking forward to seeing everyone online for our virtual `Prague <http://www.writethedocs.org/conf/prague/2022/>`_ on **September 11-13** in the CEST timezone. Tickets are still on sale until a week before the event, so grab yours now if you haven't yet.
+We're looking forward to seeing everyone online for our virtual `Prague <http://www.writethedocs.org/conf/prague/2022/>`_ on **September 11-13** in the CEST timezone. 
+Tickets are still on sale until a week before the event, so grab yours now if you haven't yet.
 We're also getting excited about our upcoming virtual `Australia <http://www.writethedocs.org/conf/australia/2022/>`_ conference on **December 8-9** in the AEDT timezone.
-The `Australia conference CFP <https://www.writethedocs.org/conf/australia/2022/cfp/>`_ **is open until September 16 if you have ideas to present.**
+The `Australia conference CFP <https://www.writethedocs.org/conf/australia/2022/cfp/>`_ is open until September 16 if you have ideas to present.
 
-We also had our third virtual Portland conference this year.
+We had our third virtual Portland conference this year.
 It was another success with almost 600 people attending from all over the world.
 The `videos <https://www.youtube.com/playlist?list=PLZAeFn6dfHpnDhFvXG8GprqlLlzSQRBui>`_ from the conference are available online.
 
@@ -47,8 +48,10 @@ Slack has `changed it policy around free plans <https://slack.com/blog/news/pric
 starting in September we will have **3 months of Slack history**.
 This will make the community a much more useful place for people who interact occasionally,
 allowing them to catch up on past conversations a bit more easily. 
+We know some people wish we could pay for Slack,
+but we address `Slack history limitations <https://www.writethedocs.org/slack/#slack-history>`_ on our website.
 
-We also wanted to take the time to show appreciation to our `Slack moderation team <https://www.writethedocs.org/team/#slack-moderation>`_.
+We also wanted to take the time to show appreciation to Janine Chan and all our `Slack moderation team <https://www.writethedocs.org/team/#slack-moderation>`_.
 We are overjoyed at the helpful community that we've been able to curate on our Slack network,
 and they play a huge role in that.
 If you aren't on our Slack,
