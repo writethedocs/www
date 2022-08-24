@@ -10,7 +10,7 @@ Hey there documentarians!
 Eric Holscher here, one of the co-founders of Write the Docs.
 Filling in again for the newsletter team in August this year,
 we have a few updates from the community about what has been going on.
-Thanks again to `Aaron <https://www.aaronrcollier.com/>`_ for taking over the newsletter editor role,
+Thanks again to `Aaron <https://collier.cz/>`_ for taking over the newsletter editor role,
 and thanks to `Beth <https://bethaitman.com/>`_ for doing it for the last few years.
 
 We're looking forward to seeing everyone online for our virtual `Prague <http://www.writethedocs.org/conf/prague/2022/>`_ on **September 11-13** in the CEST timezone. 
