@@ -6,7 +6,7 @@
 Ticket Sales, Grant Program, and Call for Proposals Reminder
 =======================================================================
 
-Greetings, documentarians! Just a quick reminder that tickets are `on sale now <https://www.writethedocs.org/conf/prague/{{year}}/tickets/>`_, and to remind you that our `Call for Proposals <https://www.writethedocs.org/conf/prague/{{year}}/cfp/>`_ is still open.
+Greetings, documentarians! Just a quick reminder that tickets are `on sale now <https://www.writethedocs.org/conf/australia/{{year}}/tickets/>`_, and to remind you that our `Call for Proposals <https://www.writethedocs.org/conf/australia/{{year}}/cfp/>`_ is still open.
 
 Following the success of our previous virtual conferences, we look forward to more opportunities to bring the community together virtually. We excited to share the wonderful energy of our community wherever you are in the world.
 
