@@ -30,10 +30,10 @@ buttons:
       link: /tickets
     #- text: Sponsor us
     #  link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
-    #- text: See the talks!
-    #  link: /speakers
+    #- text: Submit a Talk
+    #  link: /cfp
+    - text: See the talks!
+      link: /speakers
     #- text: See the Schedule!
     #  link: /schedule
     # - text: Watch the Live Stream
@@ -148,17 +148,19 @@ cfp:
   ends: "June 30, 2022"           # 2 weeks to review and get confirmnations
   notification: "July 15, 2022"     #  5 weeks to write and record
   video_by: "August 20, 2022"   # 3 weeks before the conf
+  slides_by: "August 27, 2022"  # 2 weeks before the conf
+  preview: "https://writethedocs-www--1777.org.readthedocs.build/conf/prague/2022/schedule/"
 
 grants:
   url: https://docs.google.com/forms/d/e/1FAIpQLSf-kI51jdU9e85AV-ipQR3524IsKsFffSHQFgO-DupAAaqCPQ/viewform?usp=sf_link
   ends: "August 15, 2022"
   notification: "August 25, 2022"
 
-# unconf:
-#   url: https://bit.ly/wtd-prg-2021-ro
+unconf:
+  url: https://bit.ly/wtd-prg-2022-ro
 
-# lightning_talks:
-#   signup_url: https://forms.gle/GzEn8GH7wjs7Aaun9
+lightning_talks:
+  signup_url: https://forms.gle/BjeN5BkdTPg9n3nAA
 
 sponsors:
   keystone:
@@ -174,7 +176,16 @@ sponsors:
       brand: KnowledgeOwl
       width: 250px
       text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl​ is looking for more contributors for our ​company blog​. This is an opportunity to write about a topic that interests you and get paid for it :)</p> <p>KnowledgeOwl also sponsors and hosts The Not-Boring Tech Writer podcast. We are always looking for new guests to share their stories, experience, and expertise with the world.</p> <p>Feel free to stop by and ask us more about KnowledgeOwl, these opportunities, or anything else!</p>"
+    - name: jetbrains
+      link: https://www.jetbrains.com/
+      brand: JetBrains
   media:
+    - name: bart
+      link: http://www.bartatwork.com
+      brand: Bart at work
+    - name: techwriter-pl
+      link: http://techwriter.pl
+      brand: techwriter.pl
   in_kind:
     - name: buildkite
       link: https://buildkite.com/
@@ -185,14 +196,14 @@ sponsors:
 
 
 # Things that change over time, listed in order of change
-flagcfp: True
+flagcfp: False
 flaglanding: False
 flaghassponsors: True
 flagticketsonsale: True
 flagsoldout: False
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagrunofshow: False
-flaghasschedule: False
+flaghasschedule: True
 flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False

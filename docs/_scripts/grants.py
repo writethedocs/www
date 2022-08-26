@@ -20,12 +20,12 @@ codes = []
 
 for recipient in sys.stdin:
     discount_code = 'GRANT-' + ''.join(random.choices('BCDFGHKMNPQRSTVWXYZ2356789', k=10))
-    codes.append((recipient, discount_code))
+    codes.append((recipient.strip(), discount_code))
 
 
 with open('grants.csv', 'w') as f:
     f.write(
-        'Code*,Type [Flat|Percent]*,Value*,Quantity,Available From,Available To,Min. Tickets,Max. Tickets,Only Show Attached Tickets,Reveal Secret Tickets,Description for Organizer,Virtual Student Ticket,Virtual Independent Ticket,Virtual Corporate Ticket,Virtual Late Bird Ticket,Give to our grants program,Staff Ticket,Speaker Ticket,Sponsor Ticket,Opportunity Grant Ticket,Virtual Pass Free Ticket\n')
+        'Code*,Type [Flat|Percent]*,Value*,Quantity,Only Show Attached Tickets,Reveal Secret Tickets,Description for Organizer,Opportunity Grant\n')
 
     for recipient, discount_code in codes:
         row = [
@@ -33,38 +33,24 @@ with open('grants.csv', 'w') as f:
             'Percent',
             '100',
             '1',  # number of tickets
-            '',  # available from
-            '',  # available to
-            '',  # min tickets
-            '',  # max tickets
             'Y',  # only show attached
             'Y',  # reveal secret tickets that are attached
             f'Grant program for {recipient}',
-            # ticket types
-            'N',
-            'N',
-            'N',
-            'N',
-            'N',
-            'N',
-            'N',
-            'N',
             'Y',
-            'N',
         ]
         f.write(','.join(row) + '\n')
 
 input('Discounts file generated, press enter to send out emails - after uploading discounts to tito')
 
 for recipient, discount_code in codes:
-    url = 'https://ti.to/writethedocs/write-the-docs-portland-2021/discount/' + discount_code
+    url = 'https://ti.to/writethedocs/write-the-docs-prague-2022/discount/' + discount_code
     print(f'Email to {recipient}: {url}')
 
     text = f"""
 Hello,
 
 Thanks for applying to the Opportunity Grant program for Write the Docs.
-I’m happy to inform you that we will provide you with a free ticket for the upcoming Portland conference!
+I’m happy to inform you that we will provide you with a free ticket for the upcoming Prague conference!
 
 The ticket can be registered on the following URL:
 {url}
@@ -79,9 +65,9 @@ Write the Docs
     try:
         mandrill_client = mandrill.Mandrill()
         message = {
-            'from_email': 'portland@writethedocs.org',
-            'from_name': 'Write the Docs Portland',
-            'subject': 'Write the Docs Portland Opportunity Grant',
+            'from_email': 'prague@writethedocs.org',
+            'from_name': 'Write the Docs Prague',
+            'subject': 'Write the Docs Prague Opportunity Grant',
             'text': text,
             'to': recipients,
         }

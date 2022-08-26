@@ -10,6 +10,7 @@ area_adj: North American
 tz: PST
 email: portland@writethedocs.org
 
+
 photos:
   default: _static/conf/images/headers/group.png
 
@@ -54,6 +55,8 @@ about:
     You can find out more information about the venue and its accessibility on our :doc:`/conf/portland/2018/venue` page."
   location:
     "Crystal Ballroom located at 1332 W Burnside St"
+  photos: https://www.flickr.com/photos/writethedocs/albums/72157695853045204/
+
 
 cfp:
   url: https://docs.google.com/forms/d/e/1FAIpQLSdb-MNRT3TdDTuVIcf-3lZRWDOgguZfjatLr-HLN5ngx5t04w/viewform
