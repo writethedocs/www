@@ -4,7 +4,7 @@
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Ticket Sales, Grant Program, and Call for Proposals Reminder
-=======================================================================
+=============================================================
 
 Greetings, documentarians! Just a quick reminder that tickets are `on sale now <https://www.writethedocs.org/conf/australia/{{year}}/tickets/>`_, and to remind you that our `Call for Proposals <https://www.writethedocs.org/conf/australia/{{year}}/cfp/>`_ is still open.
 
@@ -13,7 +13,7 @@ Following the success of our previous virtual conferences, we look forward to mo
 If there is something you’d really like to see a talk about this year, submit a proposal for it or refer someone else who would be good!
 
 Get your ticket for the conference
-----------------------------------
+-----------------------------------
 
 **The Australia conference will be held online on {{ date.short }}.** The `full event website <https://www.writethedocs.org/conf/australia/{{year}}/>`_ is live, with some preliminary details, and we'll be filling in more as it gets closer.
 
@@ -37,7 +37,7 @@ We're excited to be able to offer free tickets to a larger number of people, sin
 You can apply by **{{ grants.ends }}** on `our website <https://www.writethedocs.org/conf/australia/{{year}}/opportunity-grants/>`_.
 
 Submit your talk by {{ cfp.ends }}
-----------------------------------
+----------------------------------------------
 
 There are still a couple of weeks left to submit your proposal! Check out the `Call for Proposals page <https://www.writethedocs.org/conf/australia/{{year}}/cfp/>`_ for more details about what we are looking for.
 
