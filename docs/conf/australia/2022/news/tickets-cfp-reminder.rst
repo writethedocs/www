@@ -17,7 +17,7 @@ Get your ticket for the conference
 
 **The Australia conference will be held online on {{ date.short }}.** The `full event website <https://www.writethedocs.org/conf/australia/{{year}}/>`_ is live, with some preliminary details, and we'll be filling in more as it gets closer.
 
-Tickets are on sale now, so go ahead and `register for your ticket now <https://www.writethedocs.org/conf/australia/{{year}}/tickets/>`_! Even though our capacity is more flexible due to the virtual event platform, we might still sell out to make sure we're providing a manageable event size for our attendees, as always.
+Tickets are already on sale, so go ahead and `register for your ticket now <https://www.writethedocs.org/conf/australia/{{year}}/tickets/>`_!
 
 Similar to our previous years' virtual conference, we're going to keep as much as possible of the spirit of the event alive:
 
