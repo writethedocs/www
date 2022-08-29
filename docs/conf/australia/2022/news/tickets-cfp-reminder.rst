@@ -19,7 +19,7 @@ Get your ticket for the conference
 
 Tickets are already on sale, so go ahead and `register for your ticket now <https://www.writethedocs.org/conf/australia/{{year}}/tickets/>`_!
 
-Similar to our previous years' virtual conference, we're going to keep as much as possible of the spirit of the event alive:
+We bring as much of the spirit of our in person events as we can to  our virtual conference, including but not limited to:
 
 * Excellent single track of pre-recorded presentations with live moderated Q&A
 * Unconference sessions
