@@ -173,7 +173,7 @@ Sponsorship schedule
 
 * **SUNDAY**: The conference online platform is open. You are welcome to hang out at your sponsorship booth and attend the Writing Day, but no formal sponsorship events are happening. You're also encouraged to lead a Writing Day project if your documentation is open source.
 
-* **MONDAY**: The conference platform opens at 8am, so we recommend arriving around this time to get the most interaction with attendees. The conference will run until around 5pm.
+* **MONDAY**: The conference platform is open all day from the morning, so we recommend arriving around the time it opens to get the most interaction with attendees. 
 
 * **TUESDAY**: The Job Fair will be on Tuesday morning in the Expo area of the online platform. It will take place in existing sponsorship booths. If you do not have a booth, a temporary booth will be set up for the job fair, and then removed during lunch.
 

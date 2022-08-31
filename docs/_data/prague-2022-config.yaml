@@ -202,7 +202,7 @@ flaghassponsors: True
 flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
-flagrunofshow: False
+flagrunofshow: True
 flaghasschedule: True
 flaghasshirts: False
 flagvideos: False
