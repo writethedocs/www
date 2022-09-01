@@ -170,6 +170,10 @@ sponsors:
       link: https://www.archbee.io/?utm_medium=banner&utm_source=conference&utm_campaign=wtd
       brand: Archbee
       min_width: 300px
+    - name: adyen
+      link: https://www.adyen.com/
+      brand: Adyen
+      min_width: 300px
   second:
     - name: knowledgeowl
       link: https://www.knowledgeowl.com
@@ -179,6 +183,9 @@ sponsors:
     - name: jetbrains
       link: https://www.jetbrains.com/
       brand: JetBrains
+    - name: veeam
+      link: https://www.veeam.com/
+      brand: Veeam
   media:
     - name: bart
       link: http://www.bartatwork.com
