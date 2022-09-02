@@ -33,7 +33,7 @@ If you want to get involved you can:
 Slack History
 -------------
 
-We don't pay for our Slack, which means that the community has access to only the most recent 10,000 messages.
+We don't pay for our Slack, which means that the community only has access to messages from the last 90 days.
 That doesn't mean everything gets lost, though.
 Here are a few ways to preserve what you've learned for yourself and others:
 
