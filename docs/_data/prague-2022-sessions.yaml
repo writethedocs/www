@@ -155,11 +155,11 @@
   speakers:
   - name: Benny Ifeanyi Iheagwara
     slug: benny-ifeanyi-iheagwara
-    twitter: '@bennykillua @iafur'
+    twitter: '@bennykillua'
     website: https://benny.hashnode.dev/
   - name: Mustapha Rufai
     slug: mustapha-rufai
-    twitter: iafur
+    twitter: '@iafur'
     website: https://mrufai.com
   abstract: '<p>They say good docs save lives—your users, developers, and consumers—
     regardless of the form they come in, be it contents, tutorial pieces, or documentation.
@@ -362,14 +362,18 @@
     </ul>'
 - title: 'Toward the broader globalization of Open Source: documenting your localisation
     Journey'
-  slug: toward-the-broader-globalization-of-open-source-documenting-your-localisation-j-batool-almarzouq
+  slug: toward-the-broader-globalization-of-open-source-documenting-your-localisation-j-melissa-black
   series: Write the Docs Prague
   series_slug: prague
   year: 2022
   speakers:
-  - name: Batool Almarzouq
-    slug: batool-almarzouq
-    twitter: '@turingway'
+  - name: Melissa Black
+    slug: melissa-black
+    twitter: 
+    website: 
+  - name: Asma Kacem
+    slug: asma-kacem
+    twitter: 
     website: 
   abstract: '<p>The Turing Way is an open-source community-led guide to reproducible,
     ethical and inclusive data science. Its goal is to provide all the information
