@@ -8,7 +8,7 @@ Get Ready for the conference!
 
 Hey everyone!
 
-We're just over a week away from the start of the conference, and we're getting excited to see you soon! We're looking forward to gather for 3 days of content, collaboration, and conversation.
+We're just under a week away from the start of the conference, and we're getting excited to see you soon! We're looking forward to gather for 3 days of content, collaboration, and conversation.
 
 We have a few reminders before we welcome you all next Sunday:
 
@@ -16,10 +16,10 @@ We have a few reminders before we welcome you all next Sunday:
 * We have a great Welcome Wagon, which has a guide, as well as introductory tours of our online platform
 * There are lots of ways to get involved at the conference on the day-of, which we list out below so you can prep a bit for them.
 
-Ticket sales close on **September 8th**
+Ticket sales close on **Thursday September 8th**
 ---------------------------------------
 
-To help us manage capacity and make sure that our conference environment is cozy and friendly, we are going to close ticket sales on **September 8th at 23:59 CEST**.
+To help us manage capacity and make sure that our conference environment is cozy and friendly, we are going to close ticket sales on **Thursday September 8th at 23:59 CEST**.
 If you haven't purchased your ticket yet we invite you to `get your tickets soon <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
 
 For those of you who already purchased your tickets, you will get an email with our online conference platform (Hopin) registration link on September 5th. We will also send a reminder on September 9th, in case you missed the first email.
