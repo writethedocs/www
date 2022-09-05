@@ -12,7 +12,7 @@ We're just under a week away from the start of the conference, and we're getting
 
 We have a few reminders before we welcome you all next Sunday:
 
-* Ticket sales close next week, so grab yours now!
+* Ticket sales close this week, so grab yours now!
 * We have a great Welcome Wagon, which has a guide, as well as introductory tours of our online platform
 * There are lots of ways to get involved at the conference on the day-of, which we list out below so you can prep a bit for them.
 
