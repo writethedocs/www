@@ -49,6 +49,18 @@ If you think learning how to code will better your career prospects or help you 
 
 Ultimately, while coding isn’t necessary for the job, many tech writers can benefit from some experience to make writing about software simpler. But keep in mind that, whether or not you decide to code, tech writing requires more skills than simply writing, so specializing in a niche can help you in the long run.
 
+------------------
+What we’re reading
+------------------
+
+The #bipoc group’s been discussing the following materials on diversity, inclusion, and equity. Want to join the conversation? Please join us in the `#bipoc Slack channel <https://writethedocs.slack.com/archives/C016STMEWJD>`_!
+
+A short read: The Atlantic points out that while striving for more diversity, `individual people are mistakenly targeted as being "diverse" <https://www.theatlantic.com/entertainment/archive/2016/01/ava-duvernay-oscars-so-white-diversity-academy-awards-language/429225/>`__ in themselves.
+
+A medium read: "Professionalism is, by its provenance, a legacy of elites." Business Insider explains `professionalism bias <https://www.businessinsider.com/professionalism-is-a-bias-making-machine-how-to-dismantle-it-2022-3>`__.
+
+A longer read: MIT Technology Review discusses the history of tech and its `ongoing problem breaking away from being a straight white man's world <https://www.technologyreview.com/2022/08/11/1056917/tech-fix-gender-problem/>`__.
+
 ----------------
 From our sponsor
 ----------------
