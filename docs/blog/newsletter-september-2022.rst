@@ -5,13 +5,13 @@
 Write the Docs Newsletter – September 2022
 ##########################################
 
-Hey, everyone, the newsletter is back! We took one of our regularly scheduled breaks, but now we're back with regularly exceptional insights from our community.
+Hey, everyone, the newsletter is back! We took one of our regular breaks, but now we're back with exceptional insights from the Write the Docs community.
 
-If you'd like to get more of those insights, it's your last chance to get `tickets for the Prague conference <https://www.writethedocs.org/conf/prague/2022/tickets/>`__. Ticket sales end on September 8. Then the conference starts September 11. We'll certainly all have lots of new ideas to think about afterwards.
+If you'd like to get more inspiration from the community, it's your last chance to get `tickets for the Prague conference <https://www.writethedocs.org/conf/prague/2022/tickets/>`__. Ticket sales end on September 8. Then the conference starts September 11. We'll certainly all have lots of new ideas to think about afterwards.
 
-And if you have insights of your own to share, there's still (a little) time to sign up to present at the Australia conference. For more details, see the `Call for Proposals <https://www.writethedocs.org/conf/australia/2022/cfp/>`__. The deadline for submissions is September 16. And you can join the conference to see all the amazing ideas on December 8--9.
+And if you have ideas of your own to share, there's still (a little) time to propose a presentation for the Australia conference. For more details, see the `Call for Proposals <https://www.writethedocs.org/conf/australia/2022/cfp/>`__. The deadline for submissions is September 16. And you can join the conference to see all the amazing ideas on December 8--9.
 
-And we still have the excellent insights from the past couple of months to share with you here. A reminder that if you see a conversation in Slack that seems relevant for the newsletter, tag it with the ``:suggest-for-newsletter:`` emoji. We'll summarize the most interesting topics here (almost) every month.
+And we still have the excellent thoughts from the past couple of months to share with you here. A reminder that if you see a conversation in Slack that seems relevant for the newsletter, tag it with the ``:suggest-for-newsletter:`` emoji. We'll summarize the most interesting topics here (almost) every month.
 
 --------------------------------
 Collecting helpful user feedback
@@ -31,9 +31,9 @@ We recently had a discussion about how to keep communication in sync between eng
 
 The original poster hadn't had much success asking engineering to keep them informed -- often engineering would forget. So they were thinking of trying to improve this with better process, via PMs; surely PMs keep tabs on what's changing in the product and are aware of what changes might need doc work?
 
-The answer is, it depends, because how PMs work with engineering can vary hugely among organizations and even among teams. Some PMs are the main point of contact for what's changing, and want to be kept in the loop. Oothers are focused on handling user requests and reviewing feature designs and aren't really involved in launching and so engineering is a better source.
+The answer is, it depends, because how PMs work with engineering can vary hugely among organizations and even among teams. Some PMs are the main point of contact for what's changing, and want to be kept in the loop. Others are focused on handling user requests and reviewing feature designs and aren't really involved in launching, in which case so engineering is a better source.
 
-Several contributors agreed that simply working more closely was the answer. Many tech writers get involved in longer-term planning meetings or even join in sprint meetings; this helps with understanding what's coming up without introducing new processes or extra effort for other roles.
+Several contributors agreed that working together more closely was the answer. Many tech writers get involved in longer-term planning meetings or even join in sprint meetings; this helps with understanding what's coming up without introducing new processes or extra effort for other roles.
 
 A lot of it does come down to building relationships. You can institute a process that's meant to keep tech writing informed -- but ignoring a checkbox isn't so hard for your colleagues. Whereas if they know you, talk to you regularly, and understand the value your work brings, they're much more likely to provide you with the information you need.
 
