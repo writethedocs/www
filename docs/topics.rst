@@ -252,7 +252,7 @@ Related roles
 Career growth
 ~~~~~~~~~~~~~
 
-- |:newspaper:| `Is coding necessary for tech writing? </blog/newsletter-september-2022/#is-coding-necessary-for-tech-writing>`__
+- |:newspaper:| `Is coding necessary to write good docs? </blog/newsletter-september-2022/#is-coding-necessary-to-write-good-docs>`__
 - |:newspaper:| `A magnificent array of management topics </blog/newsletter-july-2020/#a-magnificent-array-of-management-topics>`__
 - |:newspaper:| `Leading and following: finding a mentor, being a mentor </blog/newsletter-october-2019/#leading-and-following-finding-a-mentor-being-a-mentor>`__
 - |:newspaper:| `Feeling like a fraud and how to deal with it </blog/newsletter-october-2019/#feeling-like-a-fraud-and-how-to-deal-with-it>`__

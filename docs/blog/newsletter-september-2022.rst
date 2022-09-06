@@ -39,7 +39,7 @@ Many people agreed that it's better to err on the side of defining too many acro
 Improving communication about what's in releases
 ------------------------------------------------
 
-We recently had a discussion about how to keep communication in sync between engineering, product managers (PMs), and documentation. In particular, about making sure that tech writers know if the product is changing so they know what needs doing for a release.
+We recently had a discussion about how to keep communication in sync between engineering, product managers (PMs), and documentation. In particular, about making sure that documentarians know if the product is changing so they know what needs doing for a release.
 
 The original poster hadn't had much success asking engineering to keep them informed -- often engineering would forget. So they were thinking of trying to improve this with better process, via PMs; surely PMs keep tabs on what's changing in the product and are aware of what changes might need doc work?
 
@@ -49,13 +49,13 @@ Several contributors agreed that working together more closely was the answer. M
 
 A lot of it does come down to building relationships. You can institute a process that's meant to keep tech writing informed -- but ignoring a checkbox isn't so hard for your colleagues. Whereas if they know you, talk to you regularly, and understand the value your work brings, they're much more likely to provide you with the information you need.
 
--------------------------------------
-Is coding necessary for tech writing?
--------------------------------------
+---------------------------------------
+Is coding necessary to write good docs?
+---------------------------------------
 
-Is coding required for technical writing? Many individuals interested in the field have asked this question. Even seasoned tech writers ask and are unable to get a definite answer.
+Do you need to know how to code to write good docs? Many individuals interested in the field have asked this question. Even seasoned tech writers ask and are unable to get a definite answer.
 
-In short, no. To be a tech writer, you don’t need to code. However, the skill is valuable and may make you more employable. Knowing how to interpret code can also be useful if you come across API documentation or need to edit code comments at work.
+In short, no. To be a documentarian, you don’t need to code. However, the skill is valuable and may make you more employable. Knowing how to interpret code can also be useful if you come across API documentation or need to edit code comments at work.
 
 If you think learning how to code will better your career prospects or help you stand out at work, websites such as `freeCodeCamp <https://www.freecodecamp.org/>`__ can help you learn languages like JavaScript and Python. If coding seems out of reach, try learning fundamental computer science concepts and how development teams work within an organization. You may find it easier to communicate with engineers with just an understanding of the basics.
 
