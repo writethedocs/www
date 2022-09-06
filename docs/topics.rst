@@ -37,6 +37,8 @@ Specific writing questions
 
 One word vs another, using abbreviations, etc.
 
+- |:newspaper:| `And another thing! Referring to other documents </blog/newsletter-july-2022/#and-another-thing-referring-to-other-documents>`__
+- |:newspaper:| `Whether to say “please” </blog/newsletter-june-2022/#whether-to-say-please>`__
 - |:newspaper:| `Some discussions on style </blog/newsletter-march-2020/#some-discussions-on-style>`__
 - |:newspaper:| `Should documentation have a formal tone? </blog/newsletter-december-2019/#should-documentation-have-a-formal-tone>`__
 - |:newspaper:| `“You”-sing the second person in documentation </blog/newsletter-november-2019/#you-sing-the-second-person-in-documentation>`__
@@ -96,6 +98,7 @@ Including videos, diagrams, and screenshots.
 Writing topics
 --------------
 
+- |:newspaper:| `Toward a theory of technical writing? </blog/newsletter-july-2022/#toward-a-theory-of-technical-writing>`__
 - |:newspaper:| `What to do with tricky little details </blog/newsletter-august-2020/#what-to-do-with-tricky-little-details>`__
 - |:newspaper:| `Obvious things and whether to document them </blog/newsletter-june-2020/#obvious-things-and-whether-to-document-them>`__
 - |:newspaper:| `Types of docs and how to use them </blog/newsletter-june-2020/#types-of-docs-and-how-to-use-them>`__
@@ -221,6 +224,7 @@ Hiring
 Getting hired
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `Certifications and qualifications </blog/newsletter-july-2022/#certifications-and-qualifications>`__
 - |:newspaper:| `Job listings and managing your assumptions </blog/newsletter-march-2020/#job-listings-and-managing-your-assumptions>`__
 - |:newspaper:| `Cover letters </blog/newsletter-march-2019/#the-whys-and-wherefores-of-cover-letters>`__
 - |:newspaper:| `Hiring and getting hired guide </blog/newsletter-november-2018/#how-to-hire-a-documentarian>`__
@@ -247,6 +251,7 @@ Related roles
 Career growth
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `Is coding necessary for tech writing? </blog/newsletter-september-2022/#is-coding-necessary-for-tech-writing>`__
 - |:newspaper:| `A magnificent array of management topics </blog/newsletter-july-2020/#a-magnificent-array-of-management-topics>`__
 - |:newspaper:| `Leading and following: finding a mentor, being a mentor </blog/newsletter-october-2019/#leading-and-following-finding-a-mentor-being-a-mentor>`__
 - |:newspaper:| `Feeling like a fraud and how to deal with it </blog/newsletter-october-2019/#feeling-like-a-fraud-and-how-to-deal-with-it>`__
@@ -307,6 +312,7 @@ Design
 UX writing
 ~~~~~~~~~~
 
+- |:newspaper:| `Edge cases and when (and where!) to document them </blog/newsletter-june-2022/#edge-cases-and-when-and-where-to-document-them>`__
 - |:movie_camera:| `UX Writing - Let Your Product Speak <https://www.youtube.com/watch?v=TGdm-1vVLDw&index=10&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt>`__
 - |:movie_camera:| `Creating experiences with information <https://www.youtube.com/watch?v=N_fUHIu9cl4&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=6>`__
 - |:movie_camera:| `Conversational UI for Writers </videos/au/2017/conversational-uis-for-writers-chris-ward/>`__
@@ -423,6 +429,7 @@ User feedback
 
 Gathering it and acting on it.
 
+- |:newspaper:| `Collecting helpful user feedback </blog/newsletter-september-2022/#collecting-helpful-user-feedback>`__
 - |:newspaper:| `Gathering documentation feedback </blog/newsletter-july-2020/#gathering-documentation-feedback>`__
 - |:newspaper:| `Documentation feedback widgets - thumbs up or down? </blog/newsletter-december-2019/#documentation-feedback-widgets-thumbs-up-or-down>`__
 - |:newspaper:| `Collecting and acting on user feedback </blog/newsletter-may-2019/#collecting-and-acting-on-user-feedback>`__
@@ -505,6 +512,7 @@ Working with writers
 
 Including review, editing, and teaching.
 
+- |:newspaper:| `What’s in a good reviewer’s guide? </blog/newsletter-july-2022/#what-s-in-a-good-reviewer-s-guide>`__
 - |:newspaper:| `The challenge of giving difficult feedback </blog/newsletter-november-2019/#the-challenge-of-giving-difficult-feedback>`__
 - |:newspaper:| `Facilitating top-notch doc review </blog/newsletter-june-2019/#facilitating-top-notch-doc-review>`__
 - |:movie_camera:| `Good Code, Bad Code & Code Review <https://www.youtube.com/watch?v=Mx4iRq-inm8&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=8>`__
@@ -537,6 +545,7 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
+- |:newspaper:| `Improving communication about what's in releases </blog/newsletter-september-2022/#improving-communication-about-what-s-in-releases>`__
 - |:newspaper:| `Getting more info from SMEs </blog/newsletter-may-2020/#getting-more-info-from-smes>`__
 - |:movie_camera:| `The subtle art of interrogation <https://www.youtube.com/watch?v=HVdzjFeaM7k&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=7>`__
 - |:newspaper:| `Helping project managers understand docs </blog/newsletter-june-2018/#helping-your-project-managers-understand-docs>`__
@@ -549,6 +558,7 @@ Including product managers, higher-ups, etc.
 Planning and how we work
 ------------------------
 
+- |:newspaper:| `Estimating work </blog/newsletter-june-2022/#estimating-work>`__
 - |:newspaper:| `Adapting to working from home </blog/newsletter-april-2020/#adapting-to-working-from-home>`__
 - |:newspaper:| `The costs of outdated docs </blog/newsletter-february-2020/#the-costs-of-outdated-docs>`__
 - |:newspaper:| `How to set priorities on a documentation team </blog/newsletter-february-2020/#how-to-set-priorities-on-a-documentation-team>`__
