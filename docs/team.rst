@@ -257,7 +257,7 @@ Members
   * `Hillary Fraley <https://github.com/hillaryfraley>`_
   * `Claire Lundeby <https://twitter.com/clairelundeby>`_
   * Royce Cook
-  * Heather Zoppetti
+  * `Heather Zoppetti <https://github.com/hzoppetti>`__
   * `Aaron Collier <https://github.com/CollierCZ>`_
 
 
