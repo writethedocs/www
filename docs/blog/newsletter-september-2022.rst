@@ -23,6 +23,18 @@ One-click ratings mechanisms with limited options offer a low obstacle for users
 
 Some have had good results with prefilled feedback options as a middle ground between open-ended text fields and limited one-click rating scales. For example, you might ask users to complete a sentence from a list of short answers, such as completing "This page is..." with options like "helpful," "incomplete," "confusing," or "too long." The prefilled answers provide more detailed information that's still categorizable without burdening users. If desired, you can include options for sending detailed feedback or even creating tasks for doc team review.
 
+--------------------
+When to use acronyms
+--------------------
+
+Style guides such as the `Microsoft Style Guide <https://docs.microsoft.com/en-us/style-guide/>`__ suggest spelling out acronyms and abbreviations at the first use, except when the short versions are well known. This led to the question of how do you know that an acronym is known well enough? Where do you draw the line?
+
+People noted that, as with many questions about documentation, it depends on your audience and what they know. Some pointed to acronyms such as URL, HTTP, and API being better known than the spelled-out versions, especially among more technical audiences. They worried the long versions would actually be harder to understand. One person pointed to a threshold of 90% of users knowing the acronym as enough to use it without defining it.
+
+Others worried relying on a rule about common knowledge would mean people would abbreviate too much. They'd assume their audience knew technical terms like they do. And your audience can always expand beyond your initial ideas, so you may have more nontechnical people reading than you might think.
+
+Many people agreed that it's better to err on the side of defining too many acronyms, rather than too few. You never know if someone will see the term for the first time in your docs. It can be good to use some acronyms to shorten text when they appear multiple times, but take care not to let your docs get too full of acronyms that they become incomprehensible.
+
 ------------------------------------------------
 Improving communication about what's in releases
 ------------------------------------------------

@@ -37,6 +37,7 @@ Specific writing questions
 
 One word vs another, using abbreviations, etc.
 
+- |:newspaper:| `When to use acronyms </blog/newsletter-september-2022/#when-to-use-acronyms>`__
 - |:newspaper:| `And another thing! Referring to other documents </blog/newsletter-july-2022/#and-another-thing-referring-to-other-documents>`__
 - |:newspaper:| `Whether to say “please” </blog/newsletter-june-2022/#whether-to-say-please>`__
 - |:newspaper:| `Some discussions on style </blog/newsletter-march-2020/#some-discussions-on-style>`__
