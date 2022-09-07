@@ -77,11 +77,33 @@ A longer read: MIT Technology Review discusses the history of tech and its `ongo
 From our sponsor
 ----------------
 
-This month’s newsletter is sponsored by SPONSOR:
+This month’s newsletter is sponsored by `Zoomin <https://www.zoominsoftware.com/?vert=Write_The_Docs_Newsletter&utm_medium=referral&utm_source=WriteTheDocs&utm_campaign=Write_The_Docs_Newsletter>`_:
 
 .. raw:: html
 
-    <div />
+
+    <hr>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
+      <tbody>
+        <tr>
+          <td width="75%">
+          <p>
+          Enough with the stone-age publishing process! <a href="https://www.zoominsoftware.com/platform?vert=Write_The_Docs_Newsletter&utm_medium=referral&utm_source=WriteTheDocs&utm_campaign=September_Newsletter">Learn how</a> you can update product information from every source across your company and delivers personalized product answers wherever your users need them
+
+          </p>
+          <p>
+          Wanna know how Xandr designs customer-centric product content experiences? <a href="https://zoominsoftware.webflow.io/ebooks-success-stories/how-xandr-designs-customer-centric-product-content-experiences-amidst-rapid-growth?vert=Write_The_Docs_Newsletter&utm_medium=referral&utm_source=WriteTheDocs&utm_campaign=September_Newsletter">Read Success Story</a>
+          </p>
+          </td>
+          <td width="25%">
+            <a href="https://www.zoominsoftware.com/?vert=Write_The_Docs_Newsletter&utm_medium=referral&utm_source=WriteTheDocs&utm_campaign=Write_The_Docs_Newsletter">
+              <img style="margin-left: 15px;" alt="SPONSOR" src="/_static/img/sponsors/zoomin.png">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
 
 *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
