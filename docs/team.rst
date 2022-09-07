@@ -255,9 +255,10 @@ Membership
 Members
   * `Beth Aitman <https://twitter.com/baitman>`_ *
   * `Hillary Fraley <https://github.com/hillaryfraley>`_
-  * `Jennifer Rondeau <https://twitter.com/bradamante>`_
   * `Claire Lundeby <https://twitter.com/clairelundeby>`_
   * Royce Cook
+  * `Heather Zoppetti <https://github.com/hzoppetti>`__
+  * `Aaron Collier <https://github.com/CollierCZ>`_
 
 
 Social Media
