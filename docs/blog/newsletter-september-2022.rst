@@ -77,7 +77,7 @@ A longer read: MIT Technology Review discusses the history of tech and its `ongo
 From our sponsor
 ----------------
 
-This month’s newsletter is sponsored by `Zoomin <https://www.zoominsoftware.com/?vert=Write_The_Docs_Newsletter&utm_medium=referral&utm_source=WriteTheDocs&utm_campaign=Write_The_Docs_Newsletter>`_:
+This month’s newsletter is sponsored by `Zoomin <https://www.zoominsoftware.com/platform?vert=Write_The_Docs_Newsletter&utm_medium=referral&utm_source=WriteTheDocs&utm_campaign=September_Newsletter>`_:
 
 .. raw:: html
 
