@@ -20,7 +20,7 @@ The current Slack stats are:
 * Over 17,000 users
 * 100+ channels
 
-We don't have specific demographic data for our newsletter,
+We don't have specific demographic data for our Slack,
 but our conferences are made up of:
 
 - Technical Writers (60%)
@@ -72,4 +72,4 @@ The price for reaching our audience is **$350** per month.
 Contact
 -------
 
-Please email us at sponsorship@writethedocs.org in order to purchase a newsletter sponsorship.
+Please email us at sponsorship@writethedocs.org in order to purchase a Slack sponsorship.
