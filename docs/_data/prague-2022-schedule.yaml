@@ -48,12 +48,8 @@ talks_day1:
     title: '🍲 Lunch Break'
   - duration: '0:30'
     title: ⚡️ Lightning Talks (30 mins)
-  - duration: '0:05'
-    title: '⏲ 5 minute break'
-  - duration: '0:30'
-    slug: getting-started-and-harnessing-the-opportunities-in-technical-writing-deborah-emeni
-  - duration: '0:05'
-    title: '⏲ 5 minute break'
+  - duration: '0:40'
+    title: Hallway track break -- meet some folks!
   - duration: '0:30'
     slug: cultivating-a-stakeholder-network-for-our-docs-how-building-relationships-impro-taylor-cole
   - duration: '0:15'
