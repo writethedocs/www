@@ -31,7 +31,7 @@ talks_day1:
   - duration: '0:05'
     title: '⏲ 5 minute break'
   - duration: '0:30'
-    slug: how-i-convinced-my-boss-to-invest-in-our-docs-team-karissa-van-baulen
+    slug: how-i-convinced-my-boss-to-build-our-docs-team-karissa-van-baulen
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
   - duration: '0:15'
@@ -48,12 +48,8 @@ talks_day1:
     title: '🍲 Lunch Break'
   - duration: '0:30'
     title: ⚡️ Lightning Talks (30 mins)
-  - duration: '0:05'
-    title: '⏲ 5 minute break'
-  - duration: '0:30'
-    slug: getting-started-and-harnessing-the-opportunities-in-technical-writing-deborah-emeni
-  - duration: '0:05'
-    title: '⏲ 5 minute break'
+  - duration: '0:40'
+    title: Hallway break -- meet some folks in the unconference!
   - duration: '0:30'
     slug: cultivating-a-stakeholder-network-for-our-docs-how-building-relationships-impro-taylor-cole
   - duration: '0:15'
