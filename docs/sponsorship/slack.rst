@@ -41,7 +41,7 @@ so your message will be very visible in the community.
 The current format is:
 
 * Up to 300 characters of copy
-* Up to 2 links in that copy
+* Up to 2 links in that copy - we generally recommend inline links, so that some of your text is linked.
   - These links will be auto-expanded into a rich embed in Slack.
 
 We're still experimenting with exact format details,
