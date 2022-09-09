@@ -92,6 +92,18 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
 
    CONTENT.
 
+   ------------------
+   What we’re reading
+   ------------------
+
+   The #bipoc group’s been discussing the following materials on diversity, inclusion, and equity. Want to join the conversation? Please join us in the `#bipoc Slack channel <https://writethedocs.slack.com/archives/C016STMEWJD>`_!
+
+   A short read: Description `link text <link>`__.
+
+   A medium read: Description `link text <link>`__.
+
+   A longer read: Description `link text <link>`__.
+
    ----------------
    From our sponsor
    ----------------
