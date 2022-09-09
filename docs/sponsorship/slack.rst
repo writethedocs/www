@@ -47,6 +47,24 @@ The current format is:
 We're still experimenting with exact format details,
 so let us know if you have any questions.
 
+Content Guidance
+----------------
+
+The provided copy must respect our general `Slack
+Rules <https://www.writethedocs.org/slack/>`__ and `Code of
+Conduct <https://www.writethedocs.org/code-of-conduct/>`__. All other
+community engagement by your employees, contractors, or other affiliates
+*must* respect the general Slack rules.
+
+With regards to the *No Sales-Y Content* rule, sponsored posts have an
+exemption to the *No Direct Pitches*, *No links without context*, and
+*No Brands* subrules. We would still ask that you review the *Be
+Transparent* rule, as it is likely to improve the community reception of
+your copy.
+
+Write the Docs reserves the right to request changes to or reject copy
+that violates the Slack Rules or Code of Conduct.
+
 Schedule
 --------
 
