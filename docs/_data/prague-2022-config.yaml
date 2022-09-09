@@ -22,18 +22,18 @@ buttons:
     #   link: /news/welcome
     # - text: Date and ticket information
     #   link: /news/announcing-virtual-conf-dates-tickets
-    # - text: Read our conference guide
-    #   link: /welcome-wagon
-    # - text: See the Schedule!
-    #   link: /schedule
-    - text: Buy a Ticket!
-      link: /tickets
+    - text: Read our conference guide
+      link: /welcome-wagon
+    - text: See the Schedule!
+      link: /schedule
+    #- text: Buy a Ticket!
+    #  link: /tickets
     #- text: Sponsor us
     #  link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    - text: See the talks!
-      link: /speakers
+    #- text: See the talks!
+    #  link: /speakers
     #- text: See the Schedule!
     #  link: /schedule
     # - text: Watch the Live Stream
@@ -45,14 +45,14 @@ buttons:
   bottom:
     # - text: Welcome to our conference
     #   link: /news/welcome
-    # - text: See the Schedule!
-    #   link: /schedule
-    - text: Sponsor the conference
-      link: /sponsors/prospectus
+    - text: See the Schedule!
+      link: /schedule
+    #- text: Sponsor the conference
+    #  link: /sponsors/prospectus
     # - text: See the talks!
     #   link: /speakers
-    - text: Buy a Ticket!
-      link: /tickets
+    #- text: Buy a Ticket!
+    #  link: /tickets
     # - text: Prepare with the Welcome Wagon
     #   link: /welcome-wagon
     # - text: See the schedule!
@@ -186,6 +186,9 @@ sponsors:
     - name: veeam
       link: https://www.veeam.com/
       brand: Veeam
+    - name: dolby
+      link: https://www.dolby.com/
+      brand: Dolby
   media:
     - name: bart
       link: http://www.bartatwork.com
@@ -206,8 +209,8 @@ sponsors:
 flagcfp: False
 flaglanding: False
 flaghassponsors: True
-flagticketsonsale: True
-flagsoldout: False
+flagticketsonsale: False
+flagsoldout: True
 flagspeakersannounced: True
 flagrunofshow: True
 flaghasschedule: True
