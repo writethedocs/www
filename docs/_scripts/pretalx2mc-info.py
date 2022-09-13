@@ -77,17 +77,19 @@ def retrieve_speaker_info(speaker_codes, http_headers, pretalx_slug):
 
         result.append(OrderedDict([
             ('name', speaker['name']),
-            ('pronouns', search_answers(speaker, 'pronouns')),
+            ('email', speaker['email']),
+            ('pronouns', search_answers(speaker, 'do you use')),
             ('facts', search_answers(speaker, 'facts')),
             ('pronounce', search_answers(speaker, 'pronounce')),
+            ('slack', search_answers(speaker, 'slack')),
         ]))
     return result
 
 if __name__ == '__main__':
     convert_to_yaml(
-        year='2021',
-        series='Write the Docs Portland',
-        series_slug='portland',
+        year='2022',
+        series='Write the Docs Prague',
+        series_slug='prague',
         yaml_output='../_data/mc-info.yaml',
-        pretalx_slug='write-the-docs-portland-2021'
+        pretalx_slug='wtd-prague-2022'
     )
