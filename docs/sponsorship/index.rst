@@ -10,6 +10,7 @@ your sponsorship on any one of them, at a level that suits you:
     - Our :doc:`2022 Australia online conference </conf/australia/2022/sponsors/prospectus>`
 * Our :doc:`/sponsorship/newsletter` with over {{ newsletter_subs }} subscribers
 * Our :doc:`/sponsorship/website` offers both logo sponsorships and advertising 
+* Our :doc:`/sponsorship/slack` allows you to get in front of our Slack network
 
 In addition to these existing programs,
 we're always interested in working together with organizations in our community to build new approaches to sponsorship. 
@@ -41,4 +42,5 @@ We also run incidental activities, such as our recent salary survey, and are cur
 
    newsletter
    website
+   slack
 
