@@ -272,7 +272,7 @@ Subject:
 
    We'll be publishing the videos at some point this week or next, keep an eye on Twitter, Slack or the mailing list for those.
 
-   We'd love to know how you found the whole process, from A to Z so we can improve next time. To that end we've got an anonymous (keep in mind that there aren't so many speakerss) feedback form for you here:
+   We'd love to know how you found the whole process, from A to Z so we can improve next time. To that end we've got an anonymous (keep in mind that there aren't many speakers) feedback form for you here:
 
    ○ [Speaker feedback form]({{cfp_variables['feedback_form']}})
 
