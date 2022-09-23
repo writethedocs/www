@@ -85,7 +85,7 @@ We have a number of meetups in cities across the country, and if you don’t see
 
 New this year are our `Quorum Meetups`_ which are virtual and targeting large geographic areas. There’s already one covering most everyone in the US or in a similar timezone.
 
-.. _build the meetup community: http://www.writethedocs.org/meetups/
+.. _build your local or online communities: http://www.writethedocs.org/meetups/
 .. _starting: http://www.writethedocs.org/organizer-guide/meetups/starting/
 .. _Quorum Meetups: https://www.writethedocs.org/meetups/#current-meetups-quorum
 
