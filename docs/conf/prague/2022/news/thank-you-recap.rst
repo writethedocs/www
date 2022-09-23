@@ -52,7 +52,7 @@ We have loose and fitted options from different fabrics, and you can choose exac
 The campaign will run in 3-day batches, and shipping is available from the USA or Europe.
 
 Come see us at our Australia conference
-----------------------------------------------------------
+---------------------------------------
 
 Don’t forget our `Australia conference`_ on **Dec 8-9, 2022**. The talks will be posted soon!
 
