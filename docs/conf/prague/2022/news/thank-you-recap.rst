@@ -25,7 +25,7 @@ Talk videos
 `Videos of the talks`_ are now available on YouTube. This includes all conference talks and Q&A, as well as the lightning talks.
 You can also subscribe to our `YouTube channel`_ so you don’t miss any future content.
 
-Thanks again to all our presenters, moderator, and folks who asked wonderful questions!
+Thanks again to all our presenters, moderators, and folks who asked wonderful questions!
 Huge thanks also to `Bart at Work`_ for handling the A/V production on our event, it was flawless once again this year.
 
 .. _Videos of the talks: https://youtube.com/playlist?list=PLZAeFn6dfHpm1PRgp84X5jh9Jca_KTJSF
