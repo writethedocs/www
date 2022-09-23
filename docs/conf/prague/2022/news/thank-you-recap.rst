@@ -10,7 +10,7 @@ Conference highlights and thanks for attending!
 Hey everyone,
 
 Our team is now emerging from the post-conference recovery period, and we wanted to send out a quick message to thank everyone for helping to make our conference such a success. 
-We appreciate everyone who makes the conference possible: speakers, sponsors, organizers, and attendees alike!
+We appreciate everyone who makes the conference possible: speakers, sponsors, organizers, volunteers, and attendees alike!
 
 Conference recap
 ----------------
@@ -72,7 +72,7 @@ Subscribe to make sure you hear about all the conferences, meetups, job postings
 Local Meetups
 -------------
 
-We hope you continue to `build the meetup community`_ and keep in touch with other documentarians near your hometown. 
+We hope you continue to `build your local or online communities`_ and keep in touch with other documentarians. 
 We have a number of meetups in cities across the country, and if you don’t see your city listed consider `starting`_ a meetup!
 
 New this year are our `Quorum Meetups`_ which are virtual and targeting large geographic areas. There’s already one covering most everyone in the US or in a similar timezone.
