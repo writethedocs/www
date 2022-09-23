@@ -2,7 +2,7 @@
 :banner: _static/conf/images/headers/venue.png
 
 .. post:: Sept 23, 2022
-   :tags: recap, thanks, {{shortcode}}-{{year}}
+   :tags: recap, thanks, {{year}}, {{shortcode}}-{{year}}
 
 Conference highlights and thanks for attending!
 ===============================================
