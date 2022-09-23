@@ -43,6 +43,14 @@ Thanks to `Linette Voller`_ for doing them again this year!
 .. _Linette Voller: https://twitter.com/mslanei
 
 
+Shirts still on sale
+--------------------
+
+If you want a souvenir from this year's conference, our `Write the Docs Prague 2022 Pop-Up Shop <https://shirt.writethedocs.org/>`_ is still open until September 30th! 
+We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.
+
+The campaign will run in 3-day batches, and shipping is available from the USA or Europe.
+
 Come see us at our Australia conference
 ----------------------------------------------------------
 
