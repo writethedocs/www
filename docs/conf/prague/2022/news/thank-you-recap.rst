@@ -39,7 +39,7 @@ We’re excited to share the `full resolution sketchnotes`_ from the conference 
 
 Thanks to `Linette Voller`_ for doing them again this year!
 
-.. _full resolution sketchnotes: https://www.flickr.com/photos/writethedocs/albums/72177720299222782
+.. _full resolution sketchnotes: https://flic.kr/ps/2RZ8SH
 .. _Linette Voller: https://twitter.com/mslanei
 
 
