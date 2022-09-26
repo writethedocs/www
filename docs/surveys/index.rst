@@ -1,10 +1,5 @@
-Surveys
-=======
-
-Here's where you can find details of any surveys that we have run. 
-
 Salary Surveys
---------------
+==============
 
 In 2019, we launched the first Write the Docs salary survey, to gather data about pay scales and benefits in our industry. The original goal was to help our community members better understand what an appropriate salary is and provide a basis for future negotiations. 
 
