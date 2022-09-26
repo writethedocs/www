@@ -274,7 +274,7 @@ Membership
 Members
 ~~~~~~~
 
-  - `Eric Holscher <https://twitter.com/ericholscher>`_ (team lead)
+  - `Mikey Ariel <https://twitter.com/thatdocslady>`_ (team lead)
   - You?
 
 
