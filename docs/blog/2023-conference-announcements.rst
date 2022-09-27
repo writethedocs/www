@@ -8,7 +8,7 @@ We're excited to announce two Write the Docs conferences for 2023:
 
 * Write the Docs Portland on May 7-10, 2023, an in person conference in Portland, Oregon.
 * Write the Docs Atlantic, on September 10-12, 2023, a new virtual conference
-  in between European and US East coast timezones.
+  in between European/African and US East coast timezones.
 
 Write the Docs Prague is taking a break this year. Announcements about
 Write the Docs Australia will follow later in 2023.
@@ -25,8 +25,10 @@ be streamed.
 
 Write the Docs Atlantic
 -----------------------
-Write the Docs Atlantic is a new conference, similar to our virtual
-conferences from the last few years. The schedule will run from the
+Write the Docs Atlantic is a new conference, in the familiar format
+of our virtual conferences from the last few years.
+
+The schedule will run from the
 early afternoon to early evening in most European/African timezones,
 and from early morning to late afternoon in US East coast timezones.
 Of course, this being a virtual conference, attendees and speakers
@@ -37,8 +39,9 @@ Virtual and in person
 Although we initially did virtual conferences due to COVID, we found
 that despite some downsides, they also create many new opportunities.
 There are many people that have difficulty travelling
-to our in person conferences, due to financial, health, or immigration
-reasons. With a virtual conference, these people have equal access to
+to our in person conferences for many reasons, like financial, health,
+immigration or responsibilities at home.
+With a virtual conference, these people have equal access to
 our events, as speakers or attendees. We've also seen that our
 community has been great at bringing the same atmosphere that works
 so well at our in person conferences, to our virtual ones.
@@ -59,7 +62,7 @@ or support professional who cares about content and communication, we want to he
 The talks in Portland will be in person.
 
 Further details of the Atlantic CFP will be announced later in 2023.
-For Atlantic, all talks will be pre-recorded again, so you'll be able to present from anywhere.
+For Atlantic, all talks will be pre-recorded, so you'll be able to present from anywhere.
 
 Start thinking about your talk proposal now, and we'll let you know as soon as the CFPs open.
 
