@@ -11,6 +11,7 @@ Welcome to our community!
 **Write the Docs** is a global community of people who care about documentation.
 
 * :doc:`Join our slack network </slack>` with thousands of other documentarians
+* :doc:`Subscribe to one of our newsletters </newsletter>`
 * :doc:`Attend one of our conferences </conf/index>`
    - :doc:`Portland 2022 </conf/portland/2022/index>`, **May 22-24**, Virtual - PST
    - :doc:`Prague 2022 </conf/prague/2022/index>`, **September 11-13**, Virtual - CET
@@ -23,10 +24,6 @@ their users to be a member of our community. This can be programmers,
 tech writers, developer advocates, customer support, marketers, and anyone else who wants
 people to have great experiences with software.
 
-Our conferences create a time and a place for the global community of
-:doc:`documentarians` to share information, discuss ideas, and work together
-to improve the **art and science of documentation**.
-
 Community resources
 -------------------
 
@@ -38,15 +35,14 @@ Get more information on how to meet the community, learn new things, get involve
    :titlesonly:
    :includehidden:
 
-   about/events-activities
-   about/learning-resources
-   about/stay-connected
-   about/about-the-org
+   conf/index
+   meetups/index
+   topics
+   hiring-guide/index
+   guide/index
    surveys/index
-
-
-Our focus is on community, and putting on our conferences is where we spend much of our time and effort
-
+   blog/index
+   about/about-the-org
 
 .. toctree::
    :hidden:
@@ -67,3 +63,4 @@ Our focus is on community, and putting on our conferences is where we spend much
    conf/vilnius/*/*/*
    conf/cfp/*
    book-club/*/*
+   about/*
