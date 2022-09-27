@@ -55,7 +55,6 @@ Our focus is on community, and putting on our conferences is where we spend much
 
    *
    conf/*
-   news/*
    conf/portland/*/*
    conf/portland/*/*/*
    conf/prague/*/*
