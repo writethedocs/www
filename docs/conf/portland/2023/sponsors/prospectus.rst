@@ -1,8 +1,8 @@
 :template: {{year}}/generic.html
 :banner: _static/conf/images/headers/{{ shortcode }}-group.png
 
-Online Sponsorship Prospectus
-#############################
+Sponsorship Prospectus
+######################
 
 .. contents:: Sections
    :local:
@@ -12,12 +12,9 @@ Online Sponsorship Prospectus
 Introduction
 ============
 
-Welcome to our brand new **Online Conference Sponsorship Prospectus**.
-This document has been adapted for our new virtual conference format,
-including new benefits and increased value across our community.
+Welcome to the Write the Docs {{ city }} {{ year }} sponsorship prospectus.
+We're excited to work with the organizations in our community to build the best documentation event in {{ year }}.
 
-We're excited to work with the organizations in our community to build the best possible event in {{ year }}.
-In particular, we would love your feedback on sponsorship levels and benefits.
 We expanded the offerings and introduced a lot of new things,
 but please let us know if there are other points of interaction with our community that would be valuable for you.
 
@@ -39,17 +36,24 @@ Why Sponsor
 Sponsorship Packages
 ====================
 
-The following options are suggested sponsorship levels. We are happy to discuss adjustments and custom packages.
+We have broken our sponsorships based on what it is you're trying to get out of the sponsorship.
+We find that many sponsors have two primary goals in mind:
+
+* Hiring
+* Product promotion
 
 Second Draft
 ------------
 
-The **Second Draft** package is great for companies looking to hire or to promote a product.
+The **Second Draft** package gives you visibility on the primary conference website and communications.
+It's great for sending folks to the conference,
+and showing support for the community.
+
+Benefits
+~~~~~~~~
 
 - Three (3) tickets_
-- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- A short description (250 characters) and logo of your company on the conference website
-- A table at our **virtual job fair**
+- A small logo & short text content (250 characters) on the conference website
 - Name included in welcome announcement in email newsletters and social media
 
 The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
@@ -57,14 +61,27 @@ The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
 Publisher
 ---------
 
-The **Publisher** package is great for sending a team and getting to know the community.
+The **Publisher** package gets you a larger online presence and a visible on-site presence, either at the job fair or a sponsored workshop.
+
+Benefits
+~~~~~~~~
 
 - Seven (7) tickets_
-- Four (4) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- A short description (250 characters) and logo of your company on the conference website
-- A table at our **virtual job fair**
+- A medium logo & short text content (250 characters) on the conference website
 - Name included in welcome announcement in email newsletters and social media
-- A small logo on all Write the Docs website pages for 3 months
+- Benefits from *either* the Hiring or Product package
+
+Hiring Package
+~~~~~~~~~~~~~~
+
+- A table at our **virtual job fair**
+- Three (3) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+
+Product Package
+~~~~~~~~~~~~~~~
+
+- A 1 hour **sponsored tutorial** at the conference
+- One product promotion post in our conference mailing list
 
 The **Publisher** package costs **{{sponsorship.publisher.price}}**.
 
@@ -73,38 +90,49 @@ Patron
 
 **Limit 3**
 
-The **Patron** package highlights your company as a force in the industry and community:
+The **Patron** package gives you a full-time on-site booth at the conference, and one additional interaction point for hiring or product promotion.
 
-- Thirteen (13) tickets_
-- Seven (7) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- A medium description (750 characters and logo of your company on the conference website
-- A **virtual sponsorship booth**
-- A featured table at our **virtual job fair**
+Benefits
+~~~~~~~~
+
+- Seven (7) tickets_
+- A **sponsorship booth**
 - Small logo included in intermission slides and on talk videos
+- A large logo and long description (750 characters) on the conference website
 - Name included in welcome announcement in email newsletters and social media
-- 5 minute sponsored lightning talk on main stage of the conference
-- One newsletter sponsorship (logo & 300 characters) in our newsletter ({{ newsletter_subs }}+ subscribers)
-- A logo on all Write the Docs website pages until the end of {{ year }}. (30,000 pageviews/mo)
-- A :doc:`small ad </sponsorship/website>` displayed on all non-conferences pages of the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months.
+- Benefits from *either* the Hiring or Product package
+
+Hiring Package
+~~~~~~~~~~~~~~
+
+- A table at our **virtual job fair**
+- Three (3) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+
+Product Package
+~~~~~~~~~~~~~~~
+
+- A 1 hour **sponsored tutorial** at the conference
+- One product promotion post in our conference mailing list
 
 The **Patron** package costs **{{sponsorship.patron.price}}**.
 
 Keystone
 --------
 
-The **Keystone** package highlights you as our main community partner:
+The **Keystone** sponsorship highlights you as the primary sponsor of the conference. You get all in-person benefits, and the best placement for all physical spaces.
 
-- Twenty (20) tickets_
-- Ten (10) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- A large description (750 characters) and logo of your company on the conference website
-- A featured **virtual sponsorship booth**
-- A featured table at our **virtual job fair**
+Benefits
+~~~~~~~~
+
+- Ten (10) tickets_
+- The most visible **sponsorship booth**
 - Large logo included in intermission slides and on talk videos
+- A large logo and long description (750 characters) on the conference website
 - Name included in welcome announcement in email newsletters and social media
-- 5 minute sponsored lightning talk on main stage of the conference
-- Two newsletter sponsorships (logo & 300 characters) in our newsletter ({{ newsletter_subs }}+ subscribers)
-- A logo on all Write the Docs website pages until the end of {{ year }}. (30,000 pageviews/mo)
-- A :doc:`small ad </sponsorship/website>` on the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months
+- A table at our **virtual job fair**
+- Five (5) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- A 1 hour **sponsored tutorial** at the conference
+- One product promotion post in our conference mailing list
 
 The **Keystone** package costs **{{sponsorship.keystone.price}}**.
 
