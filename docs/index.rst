@@ -11,12 +11,12 @@ Welcome to our community!
 **Write the Docs** is a global community of people who care about documentation.
 
 * :doc:`Join our slack network </slack>` with thousands of other documentarians
-* :doc:`Attend Conferences </conf/index>` on 3 continents
+* :doc:`Attend one of our conferences </conf/index>`
    - :doc:`Portland 2022 </conf/portland/2022/index>`, **May 22-24**, Virtual - PST
    - :doc:`Prague 2022 </conf/prague/2022/index>`, **September 11-13**, Virtual - CET
    - :doc:`Australia 2022 </conf/australia/2022/index>`, **December 8-9**, Virtual - AEDT
-* :doc:`Join Local meetups </meetups/index>` in over 40 cities
-* `Find a doc related job <https://jobs.writethedocs.org/>`__
+* :doc:`Join a local or online meetup </meetups/index>`
+* `Find a docs related job <https://jobs.writethedocs.org/>`__
 
 We consider everyone who cares about communication, documentation, and
 their users to be a member of our community. This can be programmers,
