@@ -74,7 +74,7 @@ Benefits
 Hiring Package
 ~~~~~~~~~~~~~~
 
-- A table at our **virtual job fair**
+- A table at our **job fair**
 - Three (3) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 
 Product Package
@@ -105,7 +105,7 @@ Benefits
 Hiring Package
 ~~~~~~~~~~~~~~
 
-- A table at our **virtual job fair**
+- A table at our **job fair**
 - Three (3) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 
 Product Package
@@ -129,7 +129,7 @@ Benefits
 - Large logo included in intermission slides and on talk videos
 - A large logo and long description (750 characters) on the conference website
 - Name included in welcome announcement in email newsletters and social media
-- A table at our **virtual job fair**
+- A table at our **job fair**
 - Five (5) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - A 1 hour **sponsored tutorial** at the conference
 - One product promotion post in our conference mailing list
@@ -179,7 +179,7 @@ Please direct all inquiries to our sponsorship team at:
 Payment
 =======
 
-Invoices must be paid **within 30 days of invoice receipt**, or no later than one (1) week before the virtual conference.
+Invoices must be paid **within 30 days of invoice receipt**, or no later than one (1) week before the conference.
 
 .. _ticket: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
 .. _tickets: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
