@@ -38,6 +38,7 @@ Get more information on how to meet the community, learn new things, get involve
    conf/index
    meetups/index
    topics
+   sponsorship/index
    hiring-guide/index
    guide/index
    surveys/index
