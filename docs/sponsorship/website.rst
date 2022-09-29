@@ -19,32 +19,6 @@ Our audience is made up of:
 - Managers (10%)
 - Community contributors, enthusiasts & other folks (15%)
 
-Footer sponsorship
-------------------
-
-This sponsorship includes your company logo and a link to your site in the `footer <#community-sponsors>`_ of all our community site pages.
-
-Example
-~~~~~~~
-
-You can see an example of this on the footer of this website.
-
-.. image:: /_static/img/sponsorship/footer-example.png
-
-Specs
-~~~~~
-
-* Company logo image (square or rectangular is best)
-* One link for the image and copy to point to
-
-If you are a conference sponsor,
-we will use your existing logo and link from the conference sponsorship.
-
-Cost
-~~~~
-
-Currently our logo sponsorship costs **$200/mo**.
-
 Sidebar Advertising
 -------------------
 
