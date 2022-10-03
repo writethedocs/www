@@ -1,4 +1,4 @@
-Videos of Write the Docs PRAGUE 2021
+Videos of Write the Docs Prague 2021
 =============================================================
 
 .. toctree::
