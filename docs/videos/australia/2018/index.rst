@@ -1,4 +1,4 @@
-Videos of Write the Docs AUSTRALIA 2018
+Videos of Write the Docs Australia 2018
 =============================================================
 
 .. toctree::

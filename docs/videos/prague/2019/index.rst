@@ -1,4 +1,4 @@
-Videos of Write the Docs PRAGUE 2019
+Videos of Write the Docs Prague 2019
 =============================================================
 
 .. toctree::

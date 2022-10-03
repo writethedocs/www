@@ -1,4 +1,4 @@
-Videos of Write the Docs PORTLAND 2018
+Videos of Write the Docs Portland 2018
 =============================================================
 
 .. toctree::
