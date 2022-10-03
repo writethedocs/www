@@ -6,7 +6,7 @@ Speaker email templates
 
 .. Make this whole file conditional
 
-{% if cfp_variables['print_templates'] and not flagpostconf %}
+{% if flagcfp and cfp_variables['print_templates'] and not flagpostconf %}
 
 .. contents::
    :local:
