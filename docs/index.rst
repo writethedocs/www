@@ -62,6 +62,8 @@ Here are our latest events, and we hope to see you online or in person soon!
    *
    conf/*
    news/*
+   conf/atlantic/*/*
+   conf/atlantic/*/*/*
    conf/portland/*/*
    conf/portland/*/*/*
    conf/prague/*/*
