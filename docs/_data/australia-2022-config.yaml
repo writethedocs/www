@@ -32,8 +32,8 @@ buttons:
     #   link: /schedule
      - text: Buy a Ticket!
        link: /tickets
-    # - text: See the talks!
-    #   link: /speakers
+     - text: See the talks!
+       link: /speakers
  #    - text: See the Schedule!
  #      link: /schedule
  #    - text: Read our guide
@@ -109,16 +109,16 @@ date: # how do we handle these? human readable would be nice.
     date: December 8
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Thursday
-    talk_time: 10:00-16:30
-    unconference_time: 14:00-16:00
+    talk_time: 09:30-16:30
+    unconference_time: 13:30-15:30
     icon: conference
   day_two:
     event: Conference Day 2
     date: December 9
     summary: And the conference goes on! We are already starting to miss you.
     dotw: Friday
-    talk_time: 10:00-16:30
-    unconference_time: 14:00-16:00
+    talk_time: 09:30-16:45
+    unconference_time: 13:30-15:30
     icon: conference
   total_talk_days: 2
 
