@@ -80,18 +80,6 @@ A short video: In `Don't take the exit on people <https://youtu.be/Ml52Brr7AeA>`
 
 A book recommendation: `Just Work by Kim Scott <https://kimmalonescott.com/just-work>`__ continues the topic of Radical Candor but specifically addresses the challenges it presents to underrepresented groups.
 
-----------------
-From our sponsor
-----------------
-
-This month’s newsletter is sponsored by SPONSOR:
-
-.. raw:: html
-
-    <div />
-
-*Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
-
 ------------------
 Featured job posts
 ------------------
