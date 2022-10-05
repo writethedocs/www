@@ -1,4 +1,4 @@
-Videos of Write the Docs Australia 2020
+Videos of Write the Docs Prague 2022
 =============================================================
 
 .. toctree::
@@ -8,5 +8,5 @@ Videos of Write the Docs Australia 2020
    *
 
 .. datatemplate::
-   :source: /_data/australia-2020-sessions.yaml
+   :source: /_data/prague-2022-sessions.yaml
    :template: videos/video-listing.html
