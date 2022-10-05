@@ -5,9 +5,9 @@
 Write the Docs Newsletter – October 2022
 ########################################
 
-Helo once again to the wonderful Write the Docs community. While the weather may be getting cooler in my part of the world, I can always find something to warm my heart in this community, if not necessarily the rest of my body.
+Hello once again to the wonderful Write the Docs community. While the weather may be getting cooler in my part of the world, I can always find something to warm my heart in this community.
 
-Some of the best of the community was on display last month at the Prague conference. If you weren't able to see the talks as they were broadcast and join in on the productive conversations, you can at least catch up on `videos of all talks <https://youtube.com/playlist?list=PLZAeFn6dfHpm1PRgp84X5jh9Jca_KTJSF>`__, including the lightning talks. And if you want a visual guide to each talk, you can find `sketchnotes for each talk <https://www.flickr.com/photos/writethedocs/>`__ on Flickr. The talks represent a variety of perspectives and experiences so you'll probably find something to inspire you.
+Some of what makes the community great was on display last month at the Prague conference. If you weren't able to see the talks as they were broadcast and join in the productive conversations, you can at least catch up on `videos of all talks <https://youtube.com/playlist?list=PLZAeFn6dfHpm1PRgp84X5jh9Jca_KTJSF>`__, including the lightning talks. And if you want a visual guide to each talk, you can find `sketchnotes for each talk <https://www.flickr.com/photos/writethedocs/>`__ on Flickr. The talks represent a variety of perspectives and experiences so you'll probably find something to inspire you.
 
 If you're like me, you might be so inspired you feel like you have to give something back to the community. One way you can help is by joining the teams that help keep the conferences and Slack group running smoothly. Take a look at the `list of teams <https://www.writethedocs.org/team/>`__ and decide what area fits you best. For example, if you'd like to contribute to the newsletter, reach out to me (Aaron Collier) on Slack. Or find something else that suits your skills. We also understand if you need to conserve your energy to care for yourself and those closest to you.
 
@@ -60,7 +60,7 @@ If you have this much certainty, this is great for helping you see if you’re o
 Gerunds in headings
 -------------------
 
-Gerunds, words formed with verbs but functioning as nouns like playing, dancing, and eating, have been considered a problem in headings in technical documentation. Arguments for resistance include the fact that gerunds introduce a lot of visual repetition, which hinders skimming and causes noise. Gerunds are also inconsistent with `how people browse the internet <https://idratherbewriting.com/2008/02/11/are-gerunds-in-topic-titles-problematic-in-search-results/>`__. For example, people are more likely to search for "remove user account" than "removing user accounts". Moreover, gerunds can be challenging to translate and localize since some languages do not have identical counterparts.
+Gerunds, words formed with verbs but functioning as nouns like *creating*, *writing*, and *editing*, have been considered a problem in headings in technical documentation. Arguments for resistance include the fact that gerunds introduce a lot of visual repetition, which hinders skimming and causes noise. Gerunds are also inconsistent with `how people browse the internet <https://idratherbewriting.com/2008/02/11/are-gerunds-in-topic-titles-problematic-in-search-results/>`__. For example, people are more likely to search for "remove user account" than "removing user accounts". Moreover, gerunds can be challenging to translate and localize since some languages do not have identical counterparts.
 
 Despite the `caution about -ing words <https://learn.microsoft.com/en-us/style-guide/grammar/ing-words>`__, some people prefer them in headings since they are accustomed to them as a common standard. In addition, gerund advocates like to use them in tutorial-style content where the reader is active in completing a task. Others feel they add a friendly tone to the document that helps the reader feel like an active participant.
 
@@ -95,7 +95,7 @@ Featured job posts
 - `Product Designer - Documentation <https://jobs.writethedocs.org/job/977/product-designer-documentation/>`__, Adyen (Amsterdam, Netherlands)
 - `Internal Developer Advocate | Documentation <https://jobs.writethedocs.org/job/976/internal-developer-advocate-documentation/>`__, Adyen (Amsterdam, Netherlands)
 
-*To apply for this job and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
+*To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
 ------------------------
 Virtual events coming up
