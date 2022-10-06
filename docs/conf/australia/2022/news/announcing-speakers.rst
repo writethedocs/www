@@ -30,7 +30,7 @@ Shirts are on sale
 The `Write the Docs Australia 2022 Pop-Up Shop <https://shirt.writethedocs.org>`_ is now open!
 You can order loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.
 
-The campaign will run in 3-day batches until **November 15th, 2022**. 
+The campaign will run in 3-day batches until **December 31st, 2022**. 
 Shipping is available from the USA or Europe.
 However, given the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.
 
