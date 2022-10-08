@@ -58,7 +58,7 @@ talks_day2:
   - duration: '0:05'
     title: '⏲ 5 minute break'
   - duration: '0:15'
-    title: '✋ Q&A for the previou talk'
+    title: '✋ Q&A for the previous talk'
   - duration: '0:45'
     title: "<b>Break (45 mins)</b>"
   - duration: '0:00'
