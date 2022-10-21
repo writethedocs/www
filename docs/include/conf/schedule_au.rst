@@ -13,15 +13,15 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
     :backlinks: none
 
 
-Thursday, December 8
---------------------
+.. raw:: html
 
-.. contents::
-   :local:
-   :backlinks: none
+   <hr>
 
-This is the main event! Hear from lots of interesting folks about all things documentation.
-We will have talks all day, and an unconference session running in parallel.
+
+{{date.day_one.dotw}}, {{date.day_one.date}}
+-----------------------------------------
+
+{{ date.day_one.summary }}
 
 {% if flaghasfood %}
 
@@ -32,47 +32,50 @@ We will have talks all day, and an unconference session running in parallel.
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
-* **Where**: {{about.venue}}, {{about.mainroom}}
-* **When**: **10:00am-4:30pm AEDT**
+* **Where**: {{about.venue}}
+{% if not flaghasschedule %}
+* **When**: **{{ date.day_one.talk_time }} {{ tz }}**
+{% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
+
+Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
 
 .. separator to fix list formatting
 
 {% if flaghasschedule %}
 
 {% with day_schedule=schedule.talks_day1 %}
-{% include "include/schedule2022.rst" %}
+{% include "include/schedule2021.rst" %}
 {% endwith %}
 
 {% else %}
     A detailed schedule will be announced soon.
 {% endif %}
 
-Unconference
+
+Social Event
 ~~~~~~~~~~~~
-
-The unconference sessions run in the second half of the day.
-
-* **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **1:00pm-4:30pm AEDT**
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
-
-Thursday Night Social
-~~~~~~~~~~~~~~~~~~~~~
 
 The official Write the Docs social!
 Further details will be announced later,
 but expect some music and games,
-and bring your favourite beverage along to the computer :)
+and bring your favorite beverage to your computer :)
 
-Friday, December 9
-------------------
+* **Where**: {{ about.social_venue }}
+{% if not flaghasschedule %}
+* **When**: **{{ date.day_one.social_time }} {{ tz }}**
+{% endif %}
 
-.. contents::
-   :local:
-   :backlinks: none
 
-And the conference goes on!
+.. raw:: html
+
+   <hr>
+
+
+{{date.day_two.dotw}}, {{date.day_two.date}}
+-----------------------------------------
+
+{{ date.day_two.summary }}
 
 {% if flaghasfood %}
 
@@ -83,29 +86,38 @@ And the conference goes on!
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
-* **Where**: {{about.venue}}, {{about.mainroom}}
-* **When**: **1:00pm-4:30pm AEDT**
+* **Where**: {{about.venue}}
+{% if not flaghasschedule %}
+* **When**: **{{ date.day_two.talk_time }} {{ tz }}**
+{% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
+
+Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
 
 .. separator to fix list formatting
 
 {% if flaghasschedule %}
 
 {% with day_schedule=schedule.talks_day2 %}
-{% include "include/schedule2022.rst" %}
+{% include "include/schedule2021.rst" %}
 {% endwith %}
 
 {% else %}
   A detailed schedule will be announced soon.
 {% endif %}
 
-.. _{{shortcode}}-{{year}}-job-fair:
+{% if flaghasjobfair %}
 
-Unconference
-~~~~~~~~~~~~
+Job Fair
+~~~~~~~~
 
-The unconference sessions run in the second half of the day.
+We'll be holding a job fair on Tuesday morning!
 
-* **Where**: {{about.venue}}, {{about.unconfroom}}
-* **When**: **2:00pm-4:00pm AEDT**
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
+* **Where**: {{about.venue}}, {{about.job_fair_room }}
+{% if not flaghasschedule %}
+* **When**: **{{ date.day_two.job_fair_time }} {{ tz }}**
+{% endif %}
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
+
+{% endif %}
+
