@@ -8,7 +8,7 @@ talks_day1:
     title: Write the Docs Australia - Welcome and community update
   - duration: '0:10'
     title: '⏲ 10 minute break'
-  - duration: '2:00'
+  - duration: '2:15'
     title: The Good Docs Project - Day 1 workshop
   - duration: '1:00'
     title: "<b>Break (60 mins)</b>"
@@ -55,8 +55,6 @@ talks_day2:
     title: The Good Docs Project - Day 2 workshop
   - duration: '0:30'
     slug: happy-contributors-high-standards-pick-two-balancing-quality-and-community-in-sarah-rainsberger
-  - duration: '0:05'
-    title: '⏲ 5 minute break'
   - duration: '0:15'
     title: '✋ Q&A for the previous talk'
   - duration: '0:45'
