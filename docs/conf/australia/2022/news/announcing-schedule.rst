@@ -34,7 +34,7 @@ We're also making sure the social event starts and ends early. We want you to ha
 Shirts still on sale
 --------------------
 
-The `Write the Docs {{city}} {{year}} Pop-Up Shop <https://shirt.writethedocs.org/>`_ is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.
+The `Write the Docs Australia {{year}} Pop-Up Shop <https://shirt.writethedocs.org/>`_ is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.
 
 The campaign will run in batches until December 31st. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.
 
