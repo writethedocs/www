@@ -17,11 +17,11 @@ talks_day1:
   - duration: '0:30'
     slug: optimizing-seo-for-technical-documentation-braden-riggs
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: chaos-to-contained-how-a-content-project-can-lead-to-better-content-bau-claire-mahoney
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
   - duration: '0:20'
@@ -29,15 +29,15 @@ talks_day1:
   - duration: '0:20'
     title: Lightning Talks (20 mins)
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: how-customer-journey-mapping-can-improve-your-docs-and-customer-experience-hari-priya
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: let-s-bring-science-into-technical-writing-lana
   - duration: '0:05'
-    title: '5 minute break'
+    title: '⏲ 5 minute break'
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
   - duration: '0:00'
@@ -69,7 +69,7 @@ talks_day2:
     slug: sustainable-content-for-software-documentation-powered-by-simplified-technical-e-shumin-chen
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
-  - duration: '0:15'
+  - duration: '0:20'
     title: '☕️ Coffee break'
   - duration: '0:20'
     title: ⚡️ Lightning Talks (20 mins)
@@ -81,8 +81,6 @@ talks_day2:
     title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: knowledge-experience-for-a-plg-strategy-alex-fiedler
-  - duration: '0:15'
-    title: '✋ Q&A for the two previous talks'
   - duration: '0:10'
     title: 'Closing address'
   - duration: '0:15'
