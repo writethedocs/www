@@ -61,10 +61,6 @@ talks_day2:
     title: "<b>Break (45 mins)</b>"
   - duration: '0:00'
     title: "<b>Unconference Starts</b>"
-  - duration: '0:20'
-    title: ⚡️ Lightning Talks (20 mins)
-  - duration: '0:05'
-    title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: hack-the-docs-how-security-professionals-use-documentation-lilly-ryan
   - duration: '0:05'
@@ -75,6 +71,10 @@ talks_day2:
     title: '✋ Q&A for the two previous talks'
   - duration: '0:15'
     title: '☕️ Coffee break'
+  - duration: '0:20'
+    title: ⚡️ Lightning Talks (20 mins)
+  - duration: '0:05'
+    title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: interviewing-a-technical-writer-candidate-ishara-ilangasinghe
   - duration: '0:05'

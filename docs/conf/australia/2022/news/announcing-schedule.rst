@@ -48,7 +48,7 @@ Write the Docs is more than a conference. Every year we make sure to have a vari
 * **Social event**. On Thursday night we'll be moving to a spatial chat platform for our social event. This will be a more familiar social space where you can move around and join groups of people having conversations. We've used similar platforms at other events, and found that they really help people get to know each other in a more natural way.
 * **Conference Help Desk**. If you have any questions about navigating the virtual event, we'll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.
 
-The `Schedule page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/>`_ has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.
+The :doc:`/conf/{{shortcode}}/{{year}}/schedule/`_ page has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.
 
 Thanks to our sponsors
 ----------------------
