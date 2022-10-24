@@ -25,7 +25,6 @@ There was another theory for the prevalence of negative comments. Most documenta
 
 Here is some recommended reading:
 
-* `Maybe Our Documentation "Best Practices" Aren't Really Best Practices <https://kayce.basqu.es/blog/best-practices>`__
 * `To Allow Blog Comments or Not? Here's What the Data Shows... <https://optinmonster.com/to-allow-blog-comments-or-not-heres-what-the-data-shows/>`__
 
 As well as some tool suggestions:
