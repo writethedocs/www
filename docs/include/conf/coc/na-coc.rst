@@ -6,7 +6,7 @@
 **Jennifer Rondeau**
 
 * jennifer.rondeau@gmail.com
-=* slack: jrondeau
+* slack: jrondeau
 
 **Sasha Romijn**
 
