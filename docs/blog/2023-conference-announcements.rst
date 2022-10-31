@@ -1,5 +1,5 @@
 .. post:: September 26, 2022
-   :tags: portland-2023, prague, newsletter
+   :tags: portland-2023, prague, atlantic-2023, newsletter
 
 Announcing Write the Docs conferences for 2023
 ==============================================
@@ -34,12 +34,16 @@ and from early morning to late afternoon in US East coast timezones.
 Of course, this being a virtual conference, attendees and speakers
 are welcomed from anywhere in the world.
 
+Sign up to the separate Atlantic conference mailing list to stay
+up to date on CFP, ticket sales and all other updates. (TODO LINK)
+
+
 Virtual and in person
 ---------------------
 Although we initially did virtual conferences due to COVID, we found
 that despite some downsides, they also create many new opportunities.
 There are many people that have difficulty travelling
-to our in person conferences for many reasons, like financial, health,
+to our in person conferences for various reasons, like financial, health,
 immigration or responsibilities at home.
 With a virtual conference, these people have equal access to
 our events, as speakers or attendees. We've also seen that our
