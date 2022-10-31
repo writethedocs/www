@@ -19,7 +19,7 @@ photos:
 buttons:
   top:
     - text: Welcome to our conference
-      link: /news/welcome
+      link_absolute: /blog/2023-conference-announcements/
     - text: Sponsor us
       link: /sponsors/prospectus
   #   - text: Submit a Talk
