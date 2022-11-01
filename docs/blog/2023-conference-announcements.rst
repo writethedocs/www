@@ -15,18 +15,20 @@ Write the Docs Australia will follow later in 2023.
 
 Write the Docs Portland
 -----------------------
+
 Write the Docs Portland will be an in person conference, similar to our
 pre-COVID conferences. Speakers will be present in person and speaking
-from the conference stage. We will also offer a free live stream, and remote
-participants are encouraged to participate in our Slack, as for any of
-our previous in person conferences. The conference will follow all local
-COVID regulations that apply at the time. The unconference will not
-be streamed.
+from the conference stage. We will also offer a free live stream of the talks, 
+and remote participants are encouraged to participate in our Slack. The
+ unconference will not be streamed.
+ 
+The conference will follow all local COVID regulations that apply at the time, , 
+and we will announce more specific policies before our tickets go on sale so people can make an informed decision.
 
 Write the Docs Atlantic
 -----------------------
-Write the Docs Atlantic is a new conference, in the familiar format
-of our virtual conferences from the last few years.
+Write the Docs Atlantic is a new conference, in a similar online format
+to the virtual conferences we've been running in 2021 and 2022.
 
 The schedule will run from the
 early afternoon to early evening in most European/African timezones,
@@ -35,13 +37,13 @@ Of course, this being a virtual conference, attendees and speakers
 are welcomed from anywhere in the world.
 
 Sign up to the separate Atlantic conference mailing list to stay
-up to date on CFP, ticket sales and all other updates. (TODO LINK)
+up to date on the call for proposals, ticket sales and all other updates. (TODO LINK)
 
 
 Virtual and in person
 ---------------------
-Although we initially did virtual conferences due to COVID, we found
-that despite some downsides, they also create many new opportunities.
+Although we initially switched to running virtual conferences due to COVID, we found
+that despite many folks preferring the in-person experuience, the vritual format also created many new opportunities.
 There are many people that have difficulty travelling
 to our in person conferences for various reasons, like financial, health,
 immigration or responsibilities at home.
@@ -51,7 +53,7 @@ community has been great at bringing the same atmosphere that works
 so well at our in person conferences, to our virtual ones.
 
 Therefore, we think that the Portland and Atlantic conferences together
-are a great way to bring back the familiar that many of you miss,
+are a great way to bring back the familiar experience that many of you miss,
 while also keeping the many benefits of virtual conferences in 2023.
 
 Call for Proposals
