@@ -1,5 +1,6 @@
 from __future__ import print_function
 
+from jinja2 import TemplateError
 from yaml import YAMLError
 from .utils import load_yaml
 
@@ -179,8 +180,12 @@ def render_rst_with_jinja(app, docname, source):
     conf_context = load_conference_page_context(app, docname)
     final_context.update(conf_context)
     src = source[0]
-    rendered = app.builder.templates.render_string(src, final_context)
-    source[0] = rendered
+    try:
+        rendered = app.builder.templates.render_string(src, final_context)
+        source[0] = rendered
+    except TemplateError as exc:
+        message = exc.message + f' - while rendering {docname}'
+        raise TemplateError(message=message)
 
 
 def override_template_load_context(app, pagename, templatename, context, doctree):
