@@ -14,7 +14,7 @@ Welcome to our community!
 * :doc:`Conferences </conf/index>` on 3 continents
    - :doc:`Australia 2022 </conf/australia/2022/index>`, **December 8-9**, Virtual - AEDT
    - :doc:`Portland 2023 </conf/portland/2023/index>`, **May 7-9**, Portland, Oregon, United States
-   - :doc:`Atlantic 2023 </conf/prague/2022/index>`, **September 10-12**, Virtual - CEST and EDT
+   - :doc:`Atlantic 2023 </conf/atlantic/2022/index>`, **September 10-12**, Virtual - CEST and EDT
 * :doc:`Local meetups </meetups/index>` in over 40 cities
 
 We consider everyone who cares about communication, documentation, and
