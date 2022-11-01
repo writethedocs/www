@@ -43,7 +43,7 @@ up to date on the call for proposals, ticket sales and all other updates. (TODO 
 Virtual and in person
 ---------------------
 Although we initially switched to running virtual conferences due to COVID, we found
-that despite many folks preferring the in-person experuience, the vritual format also created many new opportunities.
+that despite many folks preferring the in-person experuience, the virtual format also created many new opportunities.
 There are many people that have difficulty travelling
 to our in person conferences for various reasons, like financial, health,
 immigration or responsibilities at home.
