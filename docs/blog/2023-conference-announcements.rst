@@ -20,7 +20,7 @@ Write the Docs Portland will be an in person conference, similar to our
 pre-COVID conferences. Speakers will be present in person and speaking
 from the conference stage. We will also offer a free live stream of the talks, 
 and remote participants are encouraged to participate in our Slack. The
- unconference will not be streamed.
+unconference will not be streamed.
  
 The conference will follow all local COVID regulations that apply at the time, , 
 and we will announce more specific policies before our tickets go on sale so people can make an informed decision.
