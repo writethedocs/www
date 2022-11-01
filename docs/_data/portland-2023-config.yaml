@@ -8,9 +8,9 @@ area: North America # European Australian
 area_adj: North American
 tz: Pacific Time  # PT until March, PST after... :/
 email: portland@writethedocs.org
-color: green
-rgb: 61, 217, 74
-hex: 3dd94a
+color: coral
+rgb: 234, 104, 82
+hex: ea6852
 time_format: 12h
 
 photos:
