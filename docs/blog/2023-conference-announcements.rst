@@ -68,7 +68,8 @@ or support professional who cares about content and communication, we want to he
 The talks in Portland will be in person.
 
 Further details of the Atlantic CFP will be announced later in 2023.
-For Atlantic, all talks will be pre-recorded, so you'll be able to present from anywhere.
+For Atlantic, you will need to supply a pre-recorded video of your talk,
+so you'll be able to present from anywhere.
 
 Start thinking about your talk proposal now, and we'll let you know as soon as the CFPs open.
 
