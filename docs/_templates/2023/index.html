@@ -59,7 +59,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
         <p>The conference focused on all things related to software documentation.</p>
         <p>
           <b>
-            {% if "Online" in about.venue %}
+            {% if flaghasfood %}
               Online: {{ tz }} <br>
             {% else %}
               {{ city }}, {{ local_area }}<br>
