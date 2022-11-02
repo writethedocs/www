@@ -1,0 +1,89 @@
+talks_day1:
+  - time: '8:30'
+    title: Platform opens
+  - time: '8:45'
+    title: Welcome Wagon conference introduction and platform tour
+  - time: '9:15'
+    duration: '0:20'
+    title: Write the Docs Australia - Welcome and community update
+  - duration: '0:10'
+    title: '⏲ 10 minute break'
+  - duration: '2:15'
+    title: The Good Docs Project - Day 1 workshop
+  - duration: '1:00'
+    title: "<b>Break (60 mins)</b>"
+  - duration: '0:00'
+    title: "<b>Unconference Starts</b>"
+  - duration: '0:30'
+    slug: optimizing-seo-for-technical-documentation-braden-riggs
+  - duration: '0:05'
+    title: '⏲ 5 minute break'
+  - duration: '0:30'
+    slug: chaos-to-contained-how-a-content-project-can-lead-to-better-content-bau-claire-mahoney
+  - duration: '0:05'
+    title: '⏲ 5 minute break'
+  - duration: '0:15'
+    title: '✋ Q&A for the two previous talks'
+  - duration: '0:20'
+    title: '☕️ Coffee break'
+  - duration: '0:20'
+    title: Lightning Talks (20 mins)
+  - duration: '0:05'
+    title: '⏲ 5 minute break'
+  - duration: '0:30'
+    slug: how-customer-journey-mapping-can-improve-your-docs-and-customer-experience-hari-priya
+  - duration: '0:05'
+    title: '⏲ 5 minute break'
+  - duration: '0:30'
+    slug: let-s-bring-science-into-technical-writing-lana
+  - duration: '0:05'
+    title: '⏲ 5 minute break'
+  - duration: '0:15'
+    title: '✋ Q&A for the two previous talks'
+  - duration: '0:00'
+    title: Day 1 wraps up
+  - time: '18:00'
+    title: "<b>Social Event</b>"
+  - time: '20:00'
+    title: "<b>Social Event Ends</b>"
+
+talks_day2:
+  - time: '8:30'
+    title: Platform opens
+    duration: '1:00'
+  - duration: '2:00'
+    title: The Good Docs Project - Day 2 workshop
+  - duration: '0:30'
+    slug: happy-contributors-high-standards-pick-two-balancing-quality-and-community-in-sarah-rainsberger
+  - duration: '0:15'
+    title: '✋ Q&A for the previous talk'
+  - duration: '0:45'
+    title: "<b>Break (45 mins)</b>"
+  - duration: '0:00'
+    title: "<b>Unconference Starts</b>"
+  - duration: '0:30'
+    slug: hack-the-docs-how-security-professionals-use-documentation-lilly-ryan
+  - duration: '0:05'
+    title: '⏲ 5 minute break'
+  - duration: '0:30'
+    slug: sustainable-content-for-software-documentation-powered-by-simplified-technical-e-shumin-chen
+  - duration: '0:15'
+    title: '✋ Q&A for the two previous talks'
+  - duration: '0:20'
+    title: '☕️ Coffee break'
+  - duration: '0:20'
+    title: ⚡️ Lightning Talks (20 mins)
+  - duration: '0:05'
+    title: '⏲ 5 minute break'
+  - duration: '0:30'
+    slug: interviewing-a-technical-writer-candidate-ishara-ilangasinghe
+  - duration: '0:05'
+    title: '⏲ 5 minute break'
+  - duration: '0:30'
+    slug: knowledge-experience-for-a-plg-strategy-alex-fiedler
+  - duration: '0:10'
+    title: 'Closing address'
+  - duration: '0:15'
+    title: '✋ Q&A for the two previous talks'
+  - duration: '0:00'
+    title: '<b>Conference ends 😔</b>'
