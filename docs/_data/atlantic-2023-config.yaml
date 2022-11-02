@@ -86,9 +86,9 @@ sponsorship:
 
 
 date:
-  main: "**September 10-12, 2022, online**"
-  short: Sep 10-12, 2022
-  tickets_live: "June 2022"
+  main: "**September 10-12, 2023, online**"
+  short: Sep 10-12, 2023
+  tickets_live: "June 2023"
   month: September
   # Conference is special for the index to show the combined conference days
   conference:
@@ -134,7 +134,7 @@ about:
   attendees: 300
   summary:
     "The main presentation track takes place on **September 11-12 (Monday and Tuesday) from 10:00 to 18:00**.
-    During the main event we also run an :doc:`/conf/prague/2022/unconference`."
+    During the main event we also run an :doc:`/conf/prague/2023/unconference`."
   #social_venue: "Spatial chat platform"
   venue: "Online conference platform"
   photos:
