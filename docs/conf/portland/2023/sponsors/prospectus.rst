@@ -60,7 +60,7 @@ The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
 Publisher
 ---------
 
-The **Publisher** package gets you a larger online presence and a visible on-site presence, either at the job fair or a sponsored workshop.
+The **Publisher** package gets you a larger website presence and a visible on-site presence, either at the job fair or a sponsored workshop that you provide.
 
 Benefits
 ~~~~~~~~
@@ -79,7 +79,7 @@ Hiring Package
 Product Package
 ~~~~~~~~~~~~~~~
 
-- A 1 hour **sponsored tutorial** at the conference
+- A 1 hour **sponsored tutorial** at the conference that you deliver
 - One product promotion post in our conference mailing list
 
 The **Publisher** package costs **{{sponsorship.publisher.price}}**.
@@ -110,7 +110,7 @@ Hiring Package
 Product Package
 ~~~~~~~~~~~~~~~
 
-- A 1 hour **sponsored tutorial** at the conference
+- A 1 hour **sponsored tutorial** at the conference that you deliver
 - One product promotion post in our conference mailing list
 
 The **Patron** package costs **{{sponsorship.patron.price}}**.
