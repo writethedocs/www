@@ -36,8 +36,7 @@ Why Sponsor
 Sponsorship Packages
 ====================
 
-We have broken our sponsorships based on what it is you're trying to get out of the sponsorship.
-We find that many sponsors have two primary goals in mind:
+We have separated our sponsorships into two streams, each one helping you achieve one of the following specific goals:
 
 * Hiring
 * Product promotion
@@ -45,7 +44,7 @@ We find that many sponsors have two primary goals in mind:
 Second Draft
 ------------
 
-The **Second Draft** package gives you visibility on the primary conference website and communications.
+The **Second Draft** package gives you visibility on the conference website and communications.
 It's great for sending folks to the conference,
 and showing support for the community.
 
