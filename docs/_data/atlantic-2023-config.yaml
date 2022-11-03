@@ -14,7 +14,7 @@ hex: ea6852
 time_format: 24h
 
 photos:
-  default: _static/conf/images/headers/prague-group.png
+  default: _static/conf/images/headers/atlantic-group.png
 
 buttons:
   top:
