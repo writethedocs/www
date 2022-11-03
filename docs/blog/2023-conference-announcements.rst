@@ -1,5 +1,5 @@
-.. post:: September 26, 2022
-   :tags: portland-2023, prague, atlantic-2023, newsletter
+.. post:: Nov 3, 2022
+   :tags: portland-2023, prague, atlantic-2023
 
 Announcing Write the Docs conferences for 2023
 ==============================================
