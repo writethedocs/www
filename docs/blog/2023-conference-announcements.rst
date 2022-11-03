@@ -36,8 +36,9 @@ and from early morning to late afternoon in US East coast timezones.
 Of course, this being a virtual conference, attendees and speakers
 are welcomed from anywhere in the world.
 
-Sign up to the separate Atlantic conference mailing list to stay
-up to date on the call for proposals, ticket sales and all other updates. (TODO LINK)
+Sign up to the separate 
+`Atlantic conference mailing list <https://www.writethedocs.org/newsletter/>`_ to stay
+up to date on the call for proposals, ticket sales and all other updates.
 
 
 Virtual and in person
@@ -100,7 +101,7 @@ Keep in touch
 -------------
 
 Want to find out what's happening with the conference, or enjoy our monthly global community newsletter?
-Sign up to one or more of our [TODO] `mailing lists <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/mailing-list/>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
+Sign up to one or more of our `mailing lists <https://www.writethedocs.org/newsletter/>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
 
 Want to connect with other documentarians in real-time?
 Join our `Slack <https://www.writethedocs.org/slack/>`_.
