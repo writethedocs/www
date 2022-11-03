@@ -6,8 +6,8 @@ Announcing Write the Docs conferences for 2023
 
 We're excited to announce two Write the Docs conferences for 2023:
 
-* Write the Docs Portland on May 7-9, 2023, an in person conference in Portland, Oregon.
-* Write the Docs Atlantic, on September 10-12, 2023, a new virtual conference
+* **Write the Docs Portland on May 7-9, 2023**, an in person conference in Portland, Oregon.
+* **Write the Docs Atlantic, on September 10-12, 2023**, a new virtual conference
   in between European/African and US East coast timezones.
 
 Write the Docs Prague is taking a break this year. Announcements about
