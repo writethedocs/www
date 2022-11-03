@@ -12,9 +12,9 @@ Welcome to our community!
 
 * :doc:`Our slack network </slack>` with thousands of members
 * :doc:`Conferences </conf/index>` on 3 continents
-   - :doc:`Portland 2022 </conf/portland/2022/index>`, **May 22-24**, Virtual - PST
-   - :doc:`Prague 2022 </conf/prague/2022/index>`, **September 11-13**, Virtual - CET
    - :doc:`Australia 2022 </conf/australia/2022/index>`, **December 8-9**, Virtual - AEDT
+   - :doc:`Portland 2023 </conf/portland/2023/index>`, **May 7-9**, Portland, Oregon, United States
+   - :doc:`Atlantic 2023 </conf/atlantic/2023/index>`, **September 10-12**, Virtual - CEST and EDT
 * :doc:`Local meetups </meetups/index>` in over 40 cities
 
 We consider everyone who cares about communication, documentation, and
@@ -62,6 +62,8 @@ Here are our latest events, and we hope to see you online or in person soon!
    *
    conf/*
    news/*
+   conf/atlantic/*/*
+   conf/atlantic/*/*/*
    conf/portland/*/*
    conf/portland/*/*/*
    conf/prague/*/*
