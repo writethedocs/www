@@ -16,7 +16,7 @@ Write the Docs Australia will follow later in 2023.
 Write the Docs Portland
 -----------------------
 
-Write the Docs Portland will be an in person conference, similar to our
+`Write the Docs Portland <https://www.writethedocs.org/conf/portland/2023/>`_ will be an in person conference, similar to our
 pre-COVID conferences. Speakers will be present in person and speaking
 from the conference stage. We will also offer a free live stream of the talks, 
 and remote participants are encouraged to participate in our Slack. The
@@ -27,7 +27,8 @@ and we will announce more specific policies before our tickets go on sale so peo
 
 Write the Docs Atlantic
 -----------------------
-Write the Docs Atlantic is a new conference, in a similar online format
+
+`Write the Docs Atlantic <https://www.writethedocs.org/conf/atlantic/2023/>`_ is a new conference, in a similar online format
 to the virtual conferences we've been running in 2021 and 2022.
 
 The schedule will run from the
