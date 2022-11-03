@@ -8,7 +8,7 @@ We're excited to announce two Write the Docs conferences for 2023:
 
 * **Write the Docs Portland on May 7-9, 2023**, an in person conference in Portland, Oregon.
 * **Write the Docs Atlantic, on September 10-12, 2023**, a new virtual conference
-  in between European/African and US East coast/South America timezones.
+  in between European/African and US East Coast/South America timezones.
 
 Write the Docs Prague is taking a break this year. Announcements about
 Write the Docs Australia will follow later in 2023.
@@ -33,7 +33,7 @@ to the virtual conferences we've been running in 2021 and 2022.
 
 The schedule will run from the
 early afternoon to early evening in most European/African timezones,
-and from early morning to late afternoon in US East coast timezones.
+and from early morning to late afternoon in US East Coast/South America timezones.
 Of course, this being a virtual conference, attendees and speakers
 are welcomed from anywhere in the world.
 
