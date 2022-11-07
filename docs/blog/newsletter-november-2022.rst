@@ -7,11 +7,11 @@ Write the Docs Newsletter – November 2022
 
 Hello once again from the newsletter team. We have a lot of things going on in the community right now.
 
-I wrote last month about opportunities to be a part of the Write the Docs community, and this month sees more information. A [new Write the Docs Enhancement Proposal](https://github.com/writethedocs/weps/pull/6) has been opened to provide more clarity on Write the Docs teams and what they do. The change also includes Mikey Ariel stepping down as Prague conference chair and starting as Community Board chair. While I'm sad to see an end to an era of conferences very near me, I'm excited for what she'll bring in the newly defined role. In related news, we have the dates for [conferences in 2023](/blog/2023-conference-announcements/) that you'll probably want to save.
+I wrote last month about opportunities to be a part of the Write the Docs community, and this month sees more information. A `new Write the Docs Enhancement Proposal <https://github.com/writethedocs/weps/pull/6>`__ has been opened to provide more clarity on Write the Docs teams and what they do. The change also includes Mikey Ariel stepping down as Prague conference chair and starting as Community Board chair. While I'm sad to see an end to an era of conferences very near me, I'm excited for what she'll bring in the newly defined role. In related news, we have the dates for `conferences in 2023 </blog/2023-conference-announcements/>`__ that you'll probably want to save.
 
-Of course, 2022 isn't over yet and there's still the exciting [Write the Docs Australia conference](/conf/australia/2022/) to come. The [full schedule](/conf/australia/2022/news/announcing-schedule/) has just been announced, so check out all the interesting talks. There will also be workshops led by people from [The Good Docs Project](https://thegooddocsproject.dev/). Be sure to [get your tickets soon](/conf/australia/2022/tickets/) as ticket sales close at the end of the month.
+Of course, 2022 isn't over yet and there's still the exciting `Write the Docs Australia conference </conf/australia/2022/>`__ to come. The `full schedule </conf/australia/2022/news/announcing-schedule/>`__ has just been announced, so check out all the interesting talks. There will also be workshops led by people from `The Good Docs Project <https://thegooddocsproject.dev/>`__. Be sure to `get your tickets soon </conf/australia/2022/tickets/>`__ as ticket sales close at the end of the month.
 
-In addition to the conferences, Write the Docs also runs yearly [salary surveys](/surveys/). These are a great resource for seeing where a salary fits in the overall industry, which should help you in any salary negotiations. Answers are always anonymous. Contribute your information to the [2022 salary survey](https://salary-survey.writethedocs.org/).
+In addition to the conferences, Write the Docs also runs yearly `salary surveys </surveys/>`__. These are a great resource for seeing where a salary fits in the overall industry, which should help you in any salary negotiations. Answers are always anonymous. Contribute your information to the `2022 salary survey <https://salary-survey.writethedocs.org/>`__.
 
 Outside of these wonderful community efforts, we had lots of interesting discussions in the Write the Docs Slack this month on goings, comings, and many things in between.
 
@@ -47,7 +47,7 @@ Minimum viable documentation is the minimum required information that's usable a
 
 Proponents of minimal documentation consider that a product should be capable of functioning with little explanation from its authors. They say this provides a quicker turnaround time on new features, enables faster bug fixes, and simplifies developers’ lives by removing tiresome writing duties. Opponents claim that this strategy results in varying quality across products and can lead to knowledge gaps within teams. They argue that all software should be documented since it eliminates uncertainty when using new systems (and makes life easier for users).
 
-If you’re interested in learning more about minimal viable documentation, read this [blog post from Sarah Moir](https://thisisimportant.net/posts/from-nothing-to-something-with-minimum-viable-documentation/). It covers defining such documentation, assessing documentation states, and structuring documentation.
+If you’re interested in learning more about minimal viable documentation, read this `blog post from Sarah Moir <https://thisisimportant.net/posts/from-nothing-to-something-with-minimum-viable-documentation/>`__. It covers defining such documentation, assessing documentation states, and structuring documentation.
 
 ----------------------
 Choosing a style guide
