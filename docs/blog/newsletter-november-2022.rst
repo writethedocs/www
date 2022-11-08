@@ -1,4 +1,4 @@
-.. post:: November 07, 2022
+.. post:: November 08, 2022
    :tags: newsletter
 
 #########################################
