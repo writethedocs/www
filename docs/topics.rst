@@ -101,6 +101,7 @@ Including videos, diagrams, and screenshots.
 Writing topics
 --------------
 
+- |:newspaper:| `Minimum viable documentation </blog/newsletter-november-2022/#minimum-viable-documentation>`__
 - |:newspaper:| `Toward a theory of technical writing? </blog/newsletter-july-2022/#toward-a-theory-of-technical-writing>`__
 - |:newspaper:| `Can form follow function in techdoc? </blog/newsletter-april-2022/#can-form-follow-function-in-techdoc>`__
 - |:newspaper:| `What to do with tricky little details </blog/newsletter-august-2020/#what-to-do-with-tricky-little-details>`__
@@ -213,6 +214,8 @@ Maintenance
 Jobs and careers
 ----------------
 
+- |:newspaper:| `Knowledge transfer for documentarians </blog/newsletter-november-2022/#knowledge-transfer-for-documentarians>`__
+- |:newspaper:| `Joining as a manager </blog/newsletter-november-2022/#joining-as-a-manager>`__
 - |:newspaper:| `Salary survey </blog/newsletter-april-2020/#salary-survey-speculations>`__
 - |:newspaper:| `For those who might consider freelancing </blog/newsletter-july-2019/#for-those-who-might-consider-freelancing>`__
 
@@ -501,6 +504,7 @@ Meetups
 Style guides
 ~~~~~~~~~~~~
 
+- |:newspaper:| `Choosing a style guide </blog/newsletter-november-2022/#choosing-a-style-guide>`__
 - |:movie_camera:| `The Art of Consistency: Creating an in-house style guide <https://www.youtube.com/watch?v=IDLSiX9O0Lg&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=11>`__
 - |:movie_camera:| `What They Don't Tell You About Creating New Style Guides </videos/portland/2018/what-they-don-t-tell-you-about-creating-new-style-guides-thursday-bram/>`__
 - |:newspaper:| `Enforcing UI style guides </blog/newsletter-june-2017/#the-enforcer-ui-style-guides-edition>`__
