@@ -5,9 +5,9 @@
 Write the Docs Newsletter – November 2022
 #########################################
 
-Hello once again from the newsletter team. We have a lot of things going on in the community right now.
+Hello once again from the newsletter team. There are many things going on in the community right now.
 
-I wrote last month about opportunities to be a part of the Write the Docs community, and this month sees more information. A `new Write the Docs Enhancement Proposal <https://github.com/writethedocs/weps/pull/6>`__ has been opened to provide more clarity on Write the Docs teams and what they do. The change also includes Mikey Ariel stepping down as Prague conference chair and starting as Community Board chair. While I'm sad to see an end to an era of conferences very near me, I'm excited for what she'll bring in the newly defined role. In related news, we have the dates for `conferences in 2023 </blog/2023-conference-announcements/>`__ that you'll probably want to save.
+I wrote last month about opportunities to get more involved in the Write the Docs community, and this month sees more information. A `new Write the Docs Enhancement Proposal <https://github.com/writethedocs/weps/pull/6>`__ has been opened to provide more clarity on Write the Docs teams and what they do. The change also includes Mikey Ariel stepping down as Prague conference chair and starting as Community Board chair. While I'm sad there won't be a conference very near me next year, I'm excited for what she'll bring in the newly defined role. In related news, we have the dates for `conferences in 2023 </blog/2023-conference-announcements/>`__ that you'll probably want to save.
 
 Of course, 2022 isn't over yet and there's still the exciting `Write the Docs Australia conference </conf/australia/2022/>`__ to come. The `full schedule </conf/australia/2022/news/announcing-schedule/>`__ has just been announced, so check out all the interesting talks. There will also be workshops led by people from `The Good Docs Project <https://thegooddocsproject.dev/>`__. Be sure to `get your tickets soon </conf/australia/2022/tickets/>`__ as ticket sales close at the end of the month.
 
