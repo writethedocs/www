@@ -47,7 +47,7 @@ Get more information on how to meet the community, learn new things, get involve
    about/about-the-org
 
 
-Our focus is on community, and putting on our conferences is where we spend much of our time and effort
+Our focus is on community, and putting on our conferences is where we spend much of our time and effort.
 Here are our latest events, and we hope to see you online or in person soon!
 
 .. include:: include/conf/current.rst
