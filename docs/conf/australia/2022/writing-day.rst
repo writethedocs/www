@@ -14,7 +14,7 @@ The Write the Docs Australia 2022 conference will feature workshops and events r
 
 Schedule - Day one
 ------------------
-The Writing Day events will take place both conference days mornings, for a few hours before the conference talks are scheduled. All times are listed in AEDT (Australian Eastern Daylight Time):
+The Writing Day events will take place both conference day mornings, for a few hours before the conference talks are scheduled. All times are listed in AEDT (Australian Eastern Daylight Time):
 
 **9:45 - 10:35** - Kickoff
 
@@ -27,7 +27,7 @@ The Writing Day events will take place both conference days mornings, for a few 
 
 Schedule - Day two
 ------------------
-The Writing Day events will take place both conference days mornings, for a few hours before the conference talks are scheduled. All times are listed in AEDT (Australian Eastern Daylight Time):
+The Writing Day events will take place both conference day mornings, for a few hours before the conference talks are scheduled. All times are listed in AEDT (Australian Eastern Daylight Time):
 
 **9:30 - 11:30** - Template review workshop
 
