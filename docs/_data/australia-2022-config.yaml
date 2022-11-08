@@ -185,6 +185,6 @@ flagcancelled: False
 flaghashike: False
 flaghasfood: False
 flaghasboat: False
-flaghaswritingday: False
+flaghaswritingday: True
 flaghasjobfair: False
 flaghasbadgeflair: False
