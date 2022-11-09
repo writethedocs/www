@@ -10,40 +10,45 @@ Welcome to our community!
 
 **Write the Docs** is a global community of people who care about documentation.
 
-* :doc:`Join our slack network </slack>` with thousands of other documentarians
-* :doc:`Subscribe to one of our newsletters </newsletter>`
-* :doc:`Attend one of our conferences </conf/index>`
-   - :doc:`Australia 2022 </conf/australia/2022/index>`, **December 8-9**, Virtual - AEDT
-   - :doc:`Portland 2023 </conf/portland/2023/index>`, **May 7-9**, Portland, Oregon, United States
-   - :doc:`Atlantic 2023 </conf/atlantic/2023/index>`, **September 10-12**, Virtual - CEST and EDT
-* :doc:`Join a local or online meetup </meetups/index>`
-* `Find a docs related job <https://jobs.writethedocs.org/>`__
-
 We consider everyone who cares about communication, documentation, and
 their users to be a member of our community. This can be programmers,
 tech writers, developer advocates, customer support, marketers, and anyone else who wants
 people to have great experiences with software.
 
-Community resources
--------------------
+* :doc:`Attend one of our conferences </conf/index>`
+   - :doc:`Australia 2022 </conf/australia/2022/index>`, **December 8-9**, Virtual - AEDT
+   - :doc:`Portland 2023 </conf/portland/2023/index>`, **May 7-9**, Portland, Oregon, United States
+   - :doc:`Atlantic 2023 </conf/atlantic/2023/index>`, **September 10-12**, Virtual - CEST and EDT
 
-Get more information on how to meet the community, learn new things, get involved, and stay in touch. We have a few sets of resources for you to start with:
+Find or advertise a job
+-----------------------
 
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :titlesonly:
-   :includehidden:
+Work with other documentarians.
 
-   conf/index
-   meetups/index
-   topics
-   sponsorship/index
-   hiring-guide/index
-   guide/index
-   surveys/index
-   blog/index
-   about/about-the-org
+* `Find a docs related job <https://jobs.writethedocs.org/>`__
+* :doc:`Read the Guide to Hiring and Getting Hired </hiring-guide/index>`
+
+Connect with the community
+--------------------------
+
+Get more information on how to meet the community, get involved, stay in touch.
+
+* :doc:`Join our slack network </slack>` with thousands of other documentarians
+* :doc:`Join a local or online meetup </meetups/index>`
+* :doc:`Sponsor a conference, the newsletter or the site <sponsorship/index>`
+* `Fill out the current salary survey <https://salary-survey.writethedocs.org/>`__
+
+Learn
+-----
+
+An ever increasing source of talk videos, articles, links, and resources:
+
+* :doc:`Subscribe to one of our newsletters </newsletter>`
+* :doc:`Browse the newsletter and video archives by topic </topics>`
+* :doc:`Read the Documentation Guide <guide/index>`
+* :doc:`Read the latest salary survey report </surveys/salary-survey/2021>`
+* :doc:`See what the teams have been up to </blog/index>`
+* :doc:`Learn about Write the Docs itself <about/about-the-org>` 
 
 .. toctree::
    :hidden:
@@ -52,7 +57,6 @@ Get more information on how to meet the community, learn new things, get involve
 
    *
    conf/*
-   news/*
    conf/atlantic/*/*
    conf/atlantic/*/*/*
    conf/portland/*/*
