@@ -37,6 +37,7 @@ Specific writing questions
 
 One word vs another, using abbreviations, etc.
 
+- |:newspaper:| `Gerunds in headings </blog/newsletter-october-2022/#gerunds-in-headings>`__
 - |:newspaper:| `When to use acronyms </blog/newsletter-september-2022/#when-to-use-acronyms>`__
 - |:newspaper:| `And another thing! Referring to other documents </blog/newsletter-july-2022/#and-another-thing-referring-to-other-documents>`__
 - |:newspaper:| `Whether to say “please” </blog/newsletter-june-2022/#whether-to-say-please>`__
@@ -83,6 +84,7 @@ Other media
 
 Including videos, diagrams, and screenshots.
 
+- |:newspaper:| `Is written content outdated - and is it time for video? </blog/newsletter-may-2022/#is-written-content-outdated-and-is-it-time-for-video>`__
 - |:newspaper:| `Command prompts in docs </blog/newsletter-october-2020/#command-prompts-in-docs>`__
 - |:newspaper:| `Tips for creating quality screenshots </blog/newsletter-may-2020/#tips-for-creating-quality-screenshots>`__
 - |:newspaper:| `Behind the scenes with fonts, emojis, and Unicode </blog/newsletter-october-2019/#behind-the-scenes-with-fonts-emojis-and-unicode>`__
@@ -99,7 +101,9 @@ Including videos, diagrams, and screenshots.
 Writing topics
 --------------
 
+- |:newspaper:| `Minimum viable documentation </blog/newsletter-november-2022/#minimum-viable-documentation>`__
 - |:newspaper:| `Toward a theory of technical writing? </blog/newsletter-july-2022/#toward-a-theory-of-technical-writing>`__
+- |:newspaper:| `Can form follow function in techdoc? </blog/newsletter-april-2022/#can-form-follow-function-in-techdoc>`__
 - |:newspaper:| `What to do with tricky little details </blog/newsletter-august-2020/#what-to-do-with-tricky-little-details>`__
 - |:newspaper:| `Obvious things and whether to document them </blog/newsletter-june-2020/#obvious-things-and-whether-to-document-them>`__
 - |:newspaper:| `Types of docs and how to use them </blog/newsletter-june-2020/#types-of-docs-and-how-to-use-them>`__
@@ -140,6 +144,7 @@ Other specific doc types
 
 Including how-tos, reference docs, tutorials, and books.
 
+- |:newspaper:| `Templates for concept documentation </blog/newsletter-may-2022/#templates-for-concept-documentation>`__
 - |:newspaper:| `To answer, or not to answer: FAQs </blog/newsletter-may-2020/#to-answer-or-not-to-answer-faqs>`__
 - |:newspaper:| `Do we tell users what’s new in the docs? </blog/newsletter-march-2020/#do-we-tell-users-what-s-new-in-the-docs>`__
 - |:movie_camera:| `Learning to love release notes </videos/prague/2018/learning-to-love-release-notes-anne-edwards/>`__
@@ -176,6 +181,7 @@ Writing doc sets
 Information architecture
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Where should support content live? </blog/newsletter-april-2022/#where-should-support-content-live>`__
 - |:newspaper:| `Organizing docs by role, or by topic? </blog/newsletter-october-2020/#organizing-docs-by-role-or-by-topic>`__
 - |:newspaper:| `A conversation about docs cleanup </blog/newsletter-june-2019/#order-from-chaos-or-a-conversation-about-docs-cleanup>`__
 - |:newspaper:| `Information architecture resources </blog/newsletter-october-2018/#resources-for-planning-out-your-information-architecture>`__
@@ -208,6 +214,8 @@ Maintenance
 Jobs and careers
 ----------------
 
+- |:newspaper:| `Knowledge transfer for documentarians </blog/newsletter-november-2022/#knowledge-transfer-for-documentarians>`__
+- |:newspaper:| `Joining as a manager </blog/newsletter-november-2022/#joining-as-a-manager>`__
 - |:newspaper:| `Salary survey </blog/newsletter-april-2020/#salary-survey-speculations>`__
 - |:newspaper:| `For those who might consider freelancing </blog/newsletter-july-2019/#for-those-who-might-consider-freelancing>`__
 
@@ -226,6 +234,7 @@ Getting hired
 ~~~~~~~~~~~~~
 
 - |:newspaper:| `Certifications and qualifications </blog/newsletter-july-2022/#certifications-and-qualifications>`__
+- |:newspaper:| `Breaking into tech writing </blog/newsletter-april-2022/#breaking-into-tech-writing>`__
 - |:newspaper:| `Job listings and managing your assumptions </blog/newsletter-march-2020/#job-listings-and-managing-your-assumptions>`__
 - |:newspaper:| `Cover letters </blog/newsletter-march-2019/#the-whys-and-wherefores-of-cover-letters>`__
 - |:newspaper:| `Hiring and getting hired guide </blog/newsletter-november-2018/#how-to-hire-a-documentarian>`__
@@ -253,6 +262,7 @@ Career growth
 ~~~~~~~~~~~~~
 
 - |:newspaper:| `Is coding necessary to write good docs? </blog/newsletter-september-2022/#is-coding-necessary-to-write-good-docs>`__
+- |:newspaper:| `What’s in a (role) name, after all? </blog/newsletter-may-2022/#what-s-in-a-role-name-after-all>`__
 - |:newspaper:| `A magnificent array of management topics </blog/newsletter-july-2020/#a-magnificent-array-of-management-topics>`__
 - |:newspaper:| `Leading and following: finding a mentor, being a mentor </blog/newsletter-october-2019/#leading-and-following-finding-a-mentor-being-a-mentor>`__
 - |:newspaper:| `Feeling like a fraud and how to deal with it </blog/newsletter-october-2019/#feeling-like-a-fraud-and-how-to-deal-with-it>`__
@@ -394,6 +404,7 @@ DITA
 Automation
 ~~~~~~~~~~
 
+- |:newspaper:| `Link-checking tools </blog/newsletter-may-2022/#link-checking-tools>`__
 - |:movie_camera:| `Run your documentation </videos/prague/2018/run-your-docs-predrag-mandic/>`__
 - |:newspaper:| `Automated screenshot-taking </blog/newsletter-april-2018/#new-tool-to-try-out-automated-screenshots>`__
 - |:movie_camera:| `Testing: it's not just for code anymore </videos/na/2017/testing-it-s-not-just-for-code-anymore-lyzi-diamond/>`__
@@ -493,6 +504,7 @@ Meetups
 Style guides
 ~~~~~~~~~~~~
 
+- |:newspaper:| `Choosing a style guide </blog/newsletter-november-2022/#choosing-a-style-guide>`__
 - |:movie_camera:| `The Art of Consistency: Creating an in-house style guide <https://www.youtube.com/watch?v=IDLSiX9O0Lg&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=11>`__
 - |:movie_camera:| `What They Don't Tell You About Creating New Style Guides </videos/portland/2018/what-they-don-t-tell-you-about-creating-new-style-guides-thursday-bram/>`__
 - |:newspaper:| `Enforcing UI style guides </blog/newsletter-june-2017/#the-enforcer-ui-style-guides-edition>`__
@@ -534,6 +546,7 @@ Customer support
 Helping engineers to write
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Tactics for motivating docs contributions </blog/newsletter-october-2022/#tactics-for-motivating-docs-contributions>`__
 - |:newspaper:| `The engineer and the writer can be friends: tales of collaboration </blog/newsletter-july-2020/#the-engineer-and-the-writer-can-be-friends-tales-of-collaboration>`__
 - |:movie_camera:| `Teaching geeks to fish: tales of a contagious documentarian </videos/prague/2018/teaching-geeks-to-fish-tales-of-a-contagious-documentarian-abigail-sutherland/>`__
 - |:newspaper:| `Promoting plain language </blog/newsletter-november-2018/#promoting-plain-language>`__
@@ -559,6 +572,7 @@ Including product managers, higher-ups, etc.
 Planning and how we work
 ------------------------
 
+- |:newspaper:| `Estimating docs work </blog/newsletter-october-2022/#estimating-docs-work>`__
 - |:newspaper:| `Estimating work </blog/newsletter-june-2022/#estimating-work>`__
 - |:newspaper:| `Adapting to working from home </blog/newsletter-april-2020/#adapting-to-working-from-home>`__
 - |:newspaper:| `The costs of outdated docs </blog/newsletter-february-2020/#the-costs-of-outdated-docs>`__

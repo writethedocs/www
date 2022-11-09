@@ -5,7 +5,6 @@
 - :doc:`Write the Docs Prague 2021 </conf/prague/2021/index>`, October 3-5, **"Prague" - Virtual - CEST**
 - **Cancelled** - :doc:`Write the Docs Australia & India 2021 </conf/australia/2021/index>`, December 2-3, **"Australia" - Virtual - AEDT**
 
-
 2020 Conferences
 ----------------
 

@@ -1,4 +1,4 @@
-Videos of Write the Docs PORTLAND 2020
+Videos of Write the Docs Portland 2020
 =============================================================
 
 .. toctree::
