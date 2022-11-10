@@ -25,7 +25,7 @@ Find or advertise a job
 
 Work with other documentarians.
 
-* `Find a docs related job with our Job Board <https://jobs.writethedocs.org/>`__
+* `Find a docs related job <https://jobs.writethedocs.org/>`__  on our Job Board
 * :doc:`Read the Guide to Hiring and Getting Hired </hiring-guide/index>`
 
 Connect with the community
