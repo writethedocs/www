@@ -28,7 +28,7 @@ jobs:
         uses: errata-ai/vale-action@v1.3.0
         with:
           files: docs/guide/
-          config: "../vale/guide.ini"
+          config: "vale/guide.ini"
 
   yaml-validate:
     runs-on: ubuntu-latest
