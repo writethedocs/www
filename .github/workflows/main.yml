@@ -24,6 +24,12 @@ jobs:
         with:
           files: docs/
 
+      - name: Vale Guide Linter
+        uses: errata-ai/vale-action@v1.3.0
+        with:
+          files: docs/guide/
+          vale_flags: "--config guide.ini"
+
   yaml-validate:
     runs-on: ubuntu-latest
 
