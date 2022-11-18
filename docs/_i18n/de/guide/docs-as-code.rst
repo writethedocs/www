@@ -1,42 +1,38 @@
-.. TODO: DE
-
 Docs as Code
 ============
 
-:author: `Eric Holscher <http://ericholscher.com/>`_ & the Write the Docs community
+:author: `Eric Holscher <http://ericholscher.com/>`_ & die Write-the-Docs-Community
 
-Documentation as Code (*Docs as Code*) refers to a philosophy that you should be writing documentation with the same tools as code:
+Dokumentation als Code (*Docs as Code*) bezeichnet die Auffassung, daß Dokumentation mit denselben Mitteln wie Code geschrieben werden sollte:
 
-.. TODO: Proofread
-
-* Ticketsysteme
+* Ticketsystemen
 * Versionskontrolle (Git)
 * Klartext-Syntax (Markdown, reStructuredText, Asciidoc)
 * Code Reviews
-* Automatisierte Tests
+* Automatisierten Tests
 
 Es bedeutet, demselben Workflow wie Entwicklungs-Teams zu folgen
 und ins Produkt-Team eingebunden zu sein.
-Das ermöglicht ein Umfeld, in dem Texter und Entwickler gleichermaßen die Verantwortung für Dokumentation haben
-und zusammenarbeiten, um sie so gut wie möglich zu gestalten.
+Das ermöglicht ein Umfeld, in dem technische Redakteure und Entwickler gleichermaßen die Verantwortung für Dokumentation tragen
+und darin zusammenarbeiten, sie so nützlich wie möglich zu gestalten.
 
 Grundsätzlich bietet ein „Docs-as-Code“-Ansatz folgende Vorteile:
 
-.. TODO: DE
+* Redakteure fügen sich besser in Entwicklungs-Teams ein
+* Entwickler schreiben häufig einen ersten Dokumentations-Entwurf
+* Das Mergen neuer Features kann verhindert werden, wenn keine Dokumentation enthalten ist. Das motiviert Entwickler dazu, über Features zu schreiben, solange sie noch neu sind
 
-* Writers integrate better with development teams
-* Developers will often write a first draft of documentation
-* You can block merging of new features if they don't include documentation, which incentivizes developers to write about features while they are fresh
-
-There is a lot more to building a proper *Docs as Code* workflow.
-There are a couple books we recommend that you check out:
+Es gehört mehr dazu, einen richtigen „_Docs-as-Code_“-Workflow zu aufzubauen.
+Wir empfehlen, zum Thema einige Bücher zu konsultieren:
 
 * `Docs Like Code <https://www.amazon.com/Docs-Like-Code-Anne-Gentle/dp/1387081322/>`_ - Anne Gentle
 * `Modern Technical Writing <https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS>`_ - Andrew Etter
 
-In addition, there is an open source tool-chain which shows how the docs-as-code approach can be implemented
+Außerdem existitiert eine Open-Source-Toolchain, die erklärt, wie der „_Docs-as-Code_“-Ansatz umgesetzt werden kann
 
 * `docToolchain <https://doctoolchain.github.io/docToolchain/>`_
+
+.. TODO: DE
 
 *Docs as Code* at Write the Docs
 ----------------------------------
