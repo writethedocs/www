@@ -152,9 +152,10 @@ If speaking incurs any costs that are difficult for you to cover, please `let us
 If you already have a ticket, we will of course refund it - just drop us an email at `{{email}} <mailto:{{email}}>`_.
 
 {% if flagcfp %}
-**You’ll hear from us with our proposal decisions by the end of {{cfp.notification}}.**
 
-**You'll be delivering your talk live, in-person in Portland, Oregon.
+**You'll hear from us with our proposal decisions by the end of {{cfp.notification}}**.
+
+**You'll be delivering your talk live, in-person in Portland, Oregon**.
 
 {% endif %}
 
