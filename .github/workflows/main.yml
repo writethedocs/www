@@ -30,7 +30,7 @@ jobs:
         uses: errata-ai/vale-action@v1.3.0
         with:
           files: docs/guide/
-          vale_flags: "--config guide.ini"
+          vale_flags: "--config=guide.ini"
           fail_on_error: true
 
   yaml-validate:
