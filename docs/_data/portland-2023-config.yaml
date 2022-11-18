@@ -162,13 +162,11 @@ about:
   job_fair_room: Sponsor area
 
 cfp:
-  url: https://pretalx.com/wtd-portland-2023/cfp
-                                     # Open December 1, 2022, 9 weeks to submit
-  ends: "February 06, 2023"          # (Mon) 1 week, to review. It'll take a little longer to announce
-  notification: "February 13, 2023"  # (Mon) 8 weeks to write and prepare
-  slides_by: "May 01, 2023"          # (Mon) 1 week before
-  gifts_by: "July 03, 2023"          # (Mon) 7? weeks after
-  preview: "TODO"                    # Preview URL TODO
+  url: https://pretalx.com/wtd-portland-2023/cfp  # Open December 1, 2022, 9 weeks to submit
+  ends: "February 06, 2023"                       # (Mon) 1 week, to review. It'll take a little longer to announce
+  notification: "February 13, 2023"               # (Mon) 8 weeks to write and prepare
+  slides_by: "May 01, 2023"                       # (Mon) 1 week before
+  preview: "TODO"                                 # Preview URL TODO
 
 
 unconf:
