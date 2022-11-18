@@ -7,18 +7,22 @@ Docs as Code
 
 Documentation as Code (*Docs as Code*) refers to a philosophy that you should be writing documentation with the same tools as code:
 
-* Issue Trackers
-* Version Control (Git)
-* Plain Text Markup (Markdown, reStructuredText, Asciidoc)
+.. TODO: Proofread
+
+* Ticketsysteme
+* Versionskontrolle (Git)
+* Klartext-Syntax (Markdown, reStructuredText, Asciidoc)
 * Code Reviews
-* Automated Tests
+* Automatisierte Tests
 
-This means following the same workflows as development teams,
-and being integrated in the product team.
-It enables a culture where writers and developers both feel ownership of documentation,
-and work together to make it as good as possible.
+Es bedeutet, demselben Workflow wie Entwicklungs-Teams zu folgen
+und ins Produkt-Team eingebunden zu sein.
+Das ermöglicht ein Umfeld, in dem Texter und Entwickler gleichermaßen die Verantwortung für Dokumentation haben
+und zusammenarbeiten, um sie so gut wie möglich zu gestalten.
 
-Generally a *Docs as Code* approach gives you the following benefits:
+Grundsätzlich bietet ein „Docs-as-Code“-Ansatz folgende Vorteile:
+
+.. TODO: DE
 
 * Writers integrate better with development teams
 * Developers will often write a first draft of documentation
