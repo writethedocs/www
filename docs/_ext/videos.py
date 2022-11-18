@@ -47,10 +47,11 @@ def load_conference_data():
             result[year][region]['speakers'] = load_yaml(f)
             for session in result[year][region]['speakers']:
                 normalize_session(session)
+                region_display = format_region(region)
                 session['year'] = year
-                session['series'] = u'Write the Docs {}'.format(region.upper())
+                session['series'] = u'Write the Docs {}'.format(region_display)
                 session['series_slug'] = region
-                session['event'] = u'Write the Docs {} {}'.format(region.upper(), year)
+                session['event'] = u'Write the Docs {} {}'.format(region_display, year)
                 session['path'] = 'conf/{series_slug}/{year}/videos/{slug}'.format(**session)
             continue
         mo = sessions_file_pattern.match(base)
@@ -64,10 +65,11 @@ def load_conference_data():
             result[year][region]['speakers'] = load_yaml(f)
             for session in result[year][region]['speakers']:
                 normalize_session(session)
+                region_display = format_region(region)
                 session['year'] = year
-                session['series'] = u'Write the Docs {}'.format(region.upper())
+                session['series'] = u'Write the Docs {}'.format(region_display)
                 session['series_slug'] = region
-                session['event'] = u'Write the Docs {} {}'.format(region.upper(), year)
+                session['event'] = u'Write the Docs {} {}'.format(region_display, year)
                 session['path'] = 'conf/{series_slug}/{year}/videos/{slug}'.format(**session)
             continue
     return result
@@ -108,7 +110,7 @@ def generate_video_listing(year, series):
 .. datatemplate::
    :source: {data_file}
    :template: videos/video-listing.html
-'''.format(year=year, series=series, series_title=series.upper(), data_file=data_file)
+'''.format(year=year, series=series, series_title=format_region(series), data_file=data_file)
 
 
 def main():
@@ -153,3 +155,7 @@ class DataTemplateVideo(DataTemplateYAML):
         context = super()._make_context(data, config, env)
         context['key'] = self.options.get('key')
         return context
+
+
+def format_region(region):
+    return region.title() if len(region) > 2 else region.upper()

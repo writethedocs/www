@@ -20,20 +20,20 @@ buttons:
   top:
     # - text: Welcome to our conference
     #   link: /news/welcome
-     - text: Sponsor us
-       link: /sponsors/prospectus
-     - text: Submit a Talk
-       link: /cfp
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
     # - text: Date and ticket information
     #   link: /news/announcing-virtual-conf-dates-tickets
     # - text: Read our conference guide
     #   link: /welcome-wagon
     # - text: See the Schedule!
     #   link: /schedule
-    # - text: Buy a Ticket!
-    #   link: /tickets
-    # - text: See the talks!
-    #   link: /speakers
+     - text: Buy a Ticket!
+       link: /tickets
+     - text: See the talks!
+       link: /speakers
  #    - text: See the Schedule!
  #      link: /schedule
  #    - text: Read our guide
@@ -109,16 +109,16 @@ date: # how do we handle these? human readable would be nice.
     date: December 8
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Thursday
-    talk_time: 10:00-16:30
-    unconference_time: 14:00-16:00
+    talk_time: 09:30-16:30
+    unconference_time: 13:30-15:30
     icon: conference
   day_two:
     event: Conference Day 2
     date: December 9
     summary: And the conference goes on! We are already starting to miss you.
     dotw: Friday
-    talk_time: 10:00-16:30
-    unconference_time: 14:00-16:00
+    talk_time: 09:30-16:45
+    unconference_time: 13:30-15:30
     icon: conference
   total_talk_days: 2
 
@@ -154,20 +154,28 @@ sponsors:
   patron:
   publisher:
   second:
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+      brand: KnowledgeOwl
+      width: 250px
+      text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl​ is looking for more contributors for our ​company blog​. This is an opportunity to write about a topic that interests you and get paid for it :)</p> <p>KnowledgeOwl also sponsors and hosts The Not-Boring Tech Writer podcast. We are always looking for new guests to share their stories, experience, and expertise with the world.</p> <p>Feel free to stop by and ask us more about KnowledgeOwl, these opportunities, or anything else!</p>"
   first:
 
+
+unconf:
+  url: http://bit.ly/wtd-au-2022-ro
 
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: True
+flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagrunofshow: False
-flaghasschedule: False
+flaghasschedule: True
 flaghasunconf: False
-flaghasshirts: False
+flaghasshirts: True
 flagvideos: False
 flaglivestreaming: False
 flagpostconf: False
@@ -177,6 +185,6 @@ flagcancelled: False
 flaghashike: False
 flaghasfood: False
 flaghasboat: False
-flaghaswritingday: False
+flaghaswritingday: True
 flaghasjobfair: False
 flaghasbadgeflair: False

@@ -1,0 +1,193 @@
+- title: Sustainable Content for Software Documentation Powered by Simplified Technical
+    English (STE)
+  slug: sustainable-content-for-software-documentation-powered-by-simplified-technical-e-shumin-chen
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2022
+  speakers:
+  - name: Shumin Chen
+    slug: shumin-chen
+    twitter: '@STE_trainer'
+    website: www.shufrans.com
+  abstract: <p>As a technical communicator, how often do you struggle to translate
+    complex ideas into brilliant content? Is this the result of a highly diversified
+    documentation team? Or do your subject matter experts waste too much time churning
+    out ineffective documentation? </p><p>How can you simplify technical subjects
+    to straightforward ideas that are accompanied by a few long overdue ‘aha’ moments?
+    </p><p>It is widely accepted that sustainable content makes for a strong and positive
+    impact, especially when implemented over a period of time. Substantial cost-savings
+    in human and machine translations are easily achieved by simplifying your technical
+    English content. This is because when sentences are simpler and less ambiguous,
+    they become easier and less expensive to translate. </p><p>What qualifies as sustainable
+    content and how does STE drive this change towards efficient content management,
+    re-use, and ultimately self-driven workflow processes? </p><p>With over 15 years
+    of experience working with software documentation writers who wish to become proficient
+    in the STE language standard, we find that many readers and users of their existing
+    documentation get confused at times when information is not being conveyed in
+    a very clear, easy-to-understand manner, and language can be a reason.</p><p>This
+    presentation will demonstrate how industry best practices based on STE principles
+    are used for standardising the English language of your technical content. Thanks
+    to this standardisation, a number of benefits towards sustainability can be achieved:</p><ol><li>A
+    robust industry-specific terminology</li><li>Leaner translation memories to facilitate
+    re-use</li><li>Technical accuracy.</li></ol>
+- title: Let's bring science into technical writing
+  slug: let-s-bring-science-into-technical-writing-lana
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2022
+  speakers:
+  - name: Lana Novikova
+    slug: lana
+    twitter: '@_Unsolved_'
+    website: 
+  abstract: <p>Lately, there was a discussion in the tech writing community about
+    a scientific basis for technical writing. </p><p>For instance, developers have
+    computer science which includes algorithms, theory of computation, information
+    theory, and automation, marketing managers have an economic theory and behavioral
+    theory at their disposal.  Therefore, technical writers suffer from imposter syndrome
+    because our expertise is based on practice, not formal theory. But it would be
+    misleading to believe that technical writing has no scientific basis. </p><p>In
+    this talk, I want to go through the main theoretical basics of technical writing
+    (cognitive science, psychology, andragogy, rationality and system thinking, statistics,
+    information design, and visual literacy) and let us all see the bits of it in
+    our day-to-day tasks. So that everyone can tell "You know, I am something of a
+    scientist myself". </p><p>I will draw a technical communication lifecycle and
+    we go through each stage together searching for scientific basements and applied
+    theory.</p>
+- title: Interviewing a Technical Writer Candidate
+  slug: interviewing-a-technical-writer-candidate-ishara-ilangasinghe
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2022
+  speakers:
+  - name: Ishara Ilangasinghe
+    slug: ishara-ilangasinghe
+    twitter: 
+    website: https://isharailanga.medium.com/
+  abstract: <p>Ever since I joined the Tech Industry I have always and always been
+    on the other side of the interviews; interviewee. For the first time in my career,
+    I got the opportunity to interview a candidate. The recruitment and interviewing
+    process is a tense situation, not only for the interviewee but also for the interviewer.</p><p>Even
+    though I was pretty anxious but at the same time excited, I prepared myself to
+    be the best interviewer possible. So that I can help my organization to pick the
+    most suitable candidate using my tech and soft skills. I did a thorough research
+    before interviewing my future teammate and want to share a few tips, specially
+    for a first-time Tech Writer Interviewer.</p>
+- title: 'Chaos to contained: How a content project can lead to better content BAU'
+  slug: chaos-to-contained-how-a-content-project-can-lead-to-better-content-bau-claire-mahoney
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2022
+  speakers:
+  - name: Claire Mahoney
+    slug: claire-mahoney
+    twitter: '@wordofanerd'
+    website: 
+  abstract: <p>Some content roles are straightforward and let us hit the ground running.
+    Other jobs are like arriving on a planet that has never heard of content or docs.
+    This is the story of how - as the first tech writer in the business - I brought
+    the chaos under control, restructured a knowledge base, filled in the content
+    gaps, and made the business take ownership of the docs. </p><p>In this talk I’ll
+    share the methods and approach I used in workshops, the kinds of conversations
+    I had, and the stakeholders that I reached. To finish off, I’ll talk about the
+    challenges that remain, the lessons learned and the side effects of leaving a
+    business wanting more.</p>
+- title: Optimizing SEO for Technical Documentation
+  slug: optimizing-seo-for-technical-documentation-braden-riggs
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2022
+  speakers:
+  - name: Braden Riggs
+    slug: braden-riggs
+    twitter: https://twitter.com/BradenRiggs1
+    website: https://bdriggs.medium.com/
+  abstract: <p>Technical Documentation can leave a major footprint on the web, sometimes
+    consisting of dozens if not hundreds of pages of content. This footprint plays
+    a major role in the discovery, usage, and developer satisfaction of platforms
+    or products. So why then does documentation tend to be so unoptimized for searchability?
+    In this talk, we'll explore the role SEO plays in helping developers find the
+    documentation they need, using real-world examples from Dolby's own developer
+    platform Dolby.io. Additionally, we'll highlight some of the tools we built and
+    tips we learned, improving and growing docs.dolby.io's online presence.</p>
+- title: Knowledge Experience for a PLG Strategy
+  slug: knowledge-experience-for-a-plg-strategy-alex-fiedler
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2022
+  speakers:
+  - name: Alex Fiedler
+    slug: alex-fiedler
+    twitter: 
+    website: 
+  abstract: <p>Product-led Growth (PLG) is a go-to-market strategy being adopted by
+    a growing number of SaaS companies. PLG is based on generating sales from customers
+    using the product and succeeding with as little interaction with sales and field
+    teams as possible. A pillar of implementing a PLG strategy is enabling users to
+    onboard and succeed in the product as quickly and easily as possible. This positions
+    Knowledge Experience as a leading pillar in the overall growth and success of
+    a company.</p>
+- title: How customer journey mapping can improve your docs and customer experience.
+  slug: how-customer-journey-mapping-can-improve-your-docs-and-customer-experience-hari-priya
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2022
+  speakers:
+  - name: Hari Priya
+    slug: hari-priya
+    twitter: '@hari_priya21'
+    website: 
+  abstract: '<p>As a college student, I focused more on learning and writing code.
+    I never imagined I would land three internships as a Technical Writer. Everything
+    happened naturally when I began my journey with the Fedora organisation as an
+    open-source contributor for the Fedora Magazine Community. In this chat, I aim
+    to introduce you to the step-by-step process of customer journey mapping and share
+    my internship experiences. It never occurred to me that journey mapping could
+    accomplish such amazing things. Usually, user experience engineers conduct the
+    majority of journey mapping. As a writer, when it''s your turn to identify flaws,
+    improve, or update your documents, it''s the best way to go. As I have experienced
+    it, I will describe the following:</p><p>The benefits of conducting a Journey
+    Mapping workshop.Who should be involved in the workshop?A list of mistakes to
+    avoid.Asking for feedback from customers: how to do it.A few style guides for
+    documentation.</p>'
+- title: 'Happy Contributors, High Standards: pick two! Balancing quality and community
+    in open source documentation'
+  slug: happy-contributors-high-standards-pick-two-balancing-quality-and-community-in-sarah-rainsberger
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2022
+  speakers:
+  - name: Sarah Rainsberger
+    slug: sarah-rainsberger
+    twitter: '@sarah11918'
+    website: https://www.rainsberger.ca
+  abstract: '<p>You’ve followed all the advice on community motivation and recruitment
+    strategies and you now have a vibrant community of volunteers actively contributing
+    to your open source documentation project. Fantastic!</p><p>At the same time,
+    you have to wrangle an unpredictable, at-will, motley crew of amateur technical
+    writers who don’t always produce the quality of documentation you want to present
+    to the world. How do you keep your community hyped without lowering your standards?
+    </p><p>Sarah will share some of the strategies she uses to get the best out of
+    Astro’s community-driven, open source documentation: from how to address the dreaded
+    “unsolicited PR” to tips for establishing a culture and process that improves
+    submissions before they ever reach your inbox. She describes how “settling for
+    less” can actually give you more, by cultivating an attitude of #NWTWWHB (“not
+    worse than what we had before”).</p>'
+- title: 'Hack the Docs: how security professionals use documentation'
+  slug: hack-the-docs-how-security-professionals-use-documentation-lilly-ryan
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2022
+  speakers:
+  - name: Lilly Ryan
+    slug: lilly-ryan
+    twitter: '@attacus_au'
+    website: links.attacus.net
+  abstract: <p>We write documentation to help our colleagues and users find their
+    way through our systems - but your carefully-crafted documentation can also help
+    attackers learn what your systems do, and give them unintentional pointers on
+    where to start breaking it.</p><p>In this session, we’ll discuss the common things
+    that go wrong in docs from a security perspective, from giving away too much to
+    giving away too little, and the kinds of harm erroneous docs can do; what “secure”
+    documentation looks like; and how security professionals themselves can improve
+    their work through documentation development.</p>
