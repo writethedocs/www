@@ -24,7 +24,7 @@ Who are your readers?
 * Intermediate or advanced users trying out something new
 * Any type of user who tried to do something and got stuck
 
-Your not being a technical expert is actually an asset. As a technical writer, one of your great skills is the ability to adopt different people's perspectives and understand exactly what bits of information they need, and how to present them. You may be writing for a very varied audience, not just in terms of learning level, but goals and personal background. As a good writer, you excel at understanding what your readers bring to the table, and what you need to give them so that they can learn efficiently. You make a qualified judgment call on what and how much to include.
+You not being a technical expert is actually an asset. As a technical writer, one of your great skills is the ability to adopt different people's perspectives and understand exactly what bits of information they need, and how to present them. You may be writing for a very varied audience, not just in terms of learning level, but goals and personal background. As a good writer, you excel at understanding what your readers bring to the table, and what you need to give them so that they can learn efficiently. You make a qualified judgment call on what and how much to include.
 
 Being overly proficient could lead you to overlook something; a step that may be glaringly obvious to a power user could seriously stump a beginner. You don't skip those obvious parts, and you provide complete information without being blinded by routine. 
 
@@ -32,7 +32,7 @@ Complex information and user context
 --------------------------------------------------
 The engineers have a deep understanding of their domain. They are used to outsiders not understanding it. The first answer you get to your technical question might be way too superficial because they haven't yet gauged how far your understanding reaches.
 
-Know that it does not reflect on your ability to grasp complex technical information. It's a normal process. The conversation might might take a few steps to reach the answers you need. This is another one of the areas where you excel. You ask the right questions and hunt down the answers to make sure that your documentation is of value to all your users.
+Know that it does not reflect on your ability to grasp complex technical information. It's a normal process. The conversation might take a few steps to reach the answers you need. This is another one of the areas where you excel. You ask the right questions and hunt down the answers to make sure that your documentation is of value to all your users.
 
 You do not need to be able to write code or even understand the code itself. Your job is to understand how the resulting software works and how it can help your users solve their business challenges. 
 
