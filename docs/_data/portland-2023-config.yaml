@@ -20,10 +20,10 @@ buttons:
   top:
     - text: Welcome to our conference
       link_absolute: /blog/2023-conference-announcements/
-    - text: Sponsor us
-      link: /sponsors/prospectus
-  #   - text: Submit a Talk
-  #     link: /cfp
+  #  - text: Sponsor us
+  #    link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: Read our conference guide
@@ -163,12 +163,12 @@ about:
 
 cfp:
   url: https://pretalx.com/wtd-portland-2023/cfp
-  ends: "February 25, 2023"          # 2.5 weeks to review and get confirmnations
-  notification: "March 15, 2023"     # 6 weeks to write and record
-  video_by: "May 1, 2023"            # 3 weeks before the conf
-  slides_by: "May 15, 2023"          # 1 week before
-  gifts_by: "July 1, 2023"           # 6? weeks after
-  preview: "https://writethedocs-www--1693.org.readthedocs.build/conf/portland/2023/schedule/"                    # https://writethedocs-www--1577.org.readthedocs.build/conf/portland/2023/schedule/
+                                     # Open December 1, 2022, 9 weeks to submit
+  ends: "February 06, 2023"          # (Mon) 1 week, to review. It'll take a little longer to announce
+  notification: "February 13, 2023"  # (Mon) 8 weeks to write and prepare
+  slides_by: "May 01, 2023"          # (Mon) 1 week before
+  gifts_by: "July 03, 2023"          # (Mon) 7? weeks after
+  preview: "TODO"                    # Preview URL TODO
 
 
 unconf:
@@ -241,7 +241,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: True
 flaghassponsors: False
-flagcfp: False
+flagcfp: True
 flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: False
