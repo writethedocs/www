@@ -22,13 +22,13 @@ Grundsätzlich bietet ein „Docs-as-Code“-Ansatz folgende Vorteile:
 * Entwickler schreiben häufig einen ersten Dokumentations-Entwurf
 * Das Mergen neuer Features kann verhindert werden, wenn keine Dokumentation enthalten ist. Das motiviert Entwickler dazu, über Features zu schreiben, solange sie noch neu sind
 
-Es gehört mehr dazu, einen richtigen „_Docs-as-Code_“-Workflow zu aufzubauen.
+Es gehört mehr dazu, einen richtigen „*Docs-as-Code*“-Workflow zu aufzubauen.
 Wir empfehlen, zum Thema einige Bücher zu konsultieren:
 
 * `Docs Like Code <https://www.amazon.com/Docs-Like-Code-Anne-Gentle/dp/1387081322/>`_ - Anne Gentle
 * `Modern Technical Writing <https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS>`_ - Andrew Etter
 
-Außerdem existitiert eine Open-Source-Toolchain, die erklärt, wie der „_Docs-as-Code_“-Ansatz umgesetzt werden kann
+Außerdem existitiert eine Open-Source-Toolchain, die erklärt, wie der „*Docs-as-Code*“-Ansatz umgesetzt werden kann
 
 * `docToolchain <https://doctoolchain.github.io/docToolchain/>`_
 
