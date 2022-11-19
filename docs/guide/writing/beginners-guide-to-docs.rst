@@ -179,7 +179,7 @@ Why would we forgo using those tools when writing documentation?
 This workflow is powerful, and familiar to developers.
 
 
-Basic Example
+Basic example
 ~~~~~~~~~~~~~
 
 ::
@@ -290,7 +290,7 @@ BSD? MIT? GPL? This stuff might not matter to you, but the people who want to us
 .. _template:
 
 
-Next Steps
+Next steps
 ----------
 
 After you follow the above guide,
