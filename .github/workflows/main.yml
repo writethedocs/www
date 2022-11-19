@@ -17,7 +17,7 @@ jobs:
   vale-runner:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Vale Linter
         uses: errata-ai/vale-action@v2.0.1
@@ -25,7 +25,11 @@ jobs:
           files: docs/
 
       - name: Vale Guide Linter
-        uses: errata-ai/vale-action@v2.0.1
+        uses: errata-ai/vale-action@reviewdog
+        env:
+          # Required, set by GitHub actions automatically:
+          # https://docs.github.com/en/actions/security-guides/automatic-token-authentication#about-the-github_token-secret
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         with:
           files: docs/guide/
           vale_flags: "--config:=../../vale/guide.ini"
