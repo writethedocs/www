@@ -5,3 +5,12 @@ scope: heading
 match: $sentence
 exceptions:
   - XML
+  - Blueprint
+  - HTMLProofer
+  - reStructuredText
+  - Sphinx
+  - Read the Docs
+  - Guzzle
+  - Documatt
+  - DocOps
+  - AsciiDoc
