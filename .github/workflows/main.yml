@@ -33,6 +33,7 @@ jobs:
         with:
           files: docs/guide/
           vale_flags: "--config=vale/guide.ini"
+          fail_on_error: true
 
   yaml-validate:
     runs-on: ubuntu-latest
