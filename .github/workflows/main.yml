@@ -32,7 +32,7 @@ jobs:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         with:
           files: docs/guide/
-          vale_flags: "--config=../../vale/guide.ini"
+          vale_flags: "--config=../vale/guide.ini"
 
   yaml-validate:
     runs-on: ubuntu-latest
