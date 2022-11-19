@@ -9,8 +9,8 @@ XML is a meta markup language developed for the Internet. It is derived from SGM
 
 XML defines a set of rules to encode data in a format that is both human and machine readable. That is why XML syntax is used in Microsoft Office, Apple iWork, LibreOffice, RSS, SVG, and many other tools.
 
-Why Use XML?
-============
+Why Test Use XML?
+==================
 
 Because you define your own tags and attributes, you can use XML to create essentially your own markup language. Defining these unique tags and attributes also gives structure to your document.
 
