@@ -8,7 +8,7 @@ All of this can engender an inferiority complex. Combine that with a non-technic
 
 If you are worried that you as a writer are just impersonating a skilled technician, you may need to revise your perception of what the required skills for your work truly are.
 
-"Anyone can Write"
+"Anyone can write"
 ------------------
 They sure can. Writing well is a different matter. So is writing well in a technical context. You were not hired because you can capitalise words and punctuate sentences correctly. You're not copying and pasting what the engineers say and making it look nice. Your skill goes far beyond that.
 
@@ -28,7 +28,7 @@ You not being a technical expert is actually an asset. As a technical writer, on
 
 Being overly proficient could lead you to overlook something; a step that may be glaringly obvious to a power user could seriously stump a beginner. You don't skip those obvious parts, and you provide complete information without being blinded by routine. 
 
-Complex Information and User Context
+Complex information and user context
 --------------------------------------------------
 The engineers have a deep understanding of their domain. They are used to outsiders not understanding it. The first answer you get to your technical question might be way too superficial because they haven't yet gauged how far your understanding reaches.
 
@@ -36,7 +36,7 @@ Know that it does not reflect on your ability to grasp complex technical informa
 
 You do not need to be able to write code or even understand the code itself. Your job is to understand how the resulting software works and how it can help your users solve their business challenges. 
 
-Dealing with Knowledge Gaps
+Dealing with knowledge gaps
 ---------------------------
 For all that, you do of course need to learn about the technologies that you document, and you do need to be prepared to enter domains that are outside of your comfort zone. You can avoid some common traps. 
 
@@ -48,7 +48,7 @@ For all that, you do of course need to learn about the technologies that you doc
 * Be honest about what you do and do not know. Be upfront when you don't understand something or got something wrong. 
 * Relentlessly ask questions and maintain a healthy thirst for more knowledge.  
 
-Documentation as a Part of the Product
+Documentation as a part of the product
 --------------------------------------
 Some of the issues need to be addressed on an organisational level. 
 We won't be able to change the fact that it's the product that rakes in the money, not the docs. However, the user experience is strongly tied to whether or not your users can reach their goals with the product or not. Documentation has a valuable role to play from that angle. The Definition of Done can include meaningful documentation, enshrining your contribution to a positive user experience from the get go. 
