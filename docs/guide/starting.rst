@@ -14,7 +14,7 @@ and what you should be striving for with those docs.
 A lot of projects are different, and a lot are the same.
 We will be covering the tactics for a few different groups.
 
-Open Source Developers
+Open source developers
 ----------------------
 
 You have some awesome open source code, but nobody knows how to use it.
@@ -38,7 +38,7 @@ Get started with :doc:`writing/mindshare`,
 which should give you a blueprint for how you can implement a documentation
 solution in your company.
 
-Enterprise Users
+Enterprise users
 ----------------
 
 You are a SAAS or Services company and you have developers as your target
