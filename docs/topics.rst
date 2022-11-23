@@ -208,6 +208,7 @@ Legacy docs
 Maintenance
 ~~~~~~~~~~~
 
+- |:movie_camera:| `Maintaining Documentation: Make It Easy! </videos/prague/2022/maintaining-documentation-make-it-easy-emilia-juda-zbay/>`__
 - |:newspaper:| `Broken links and how to find them </blog/newsletter-june-2020/#broken-links-and-how-to-find-them>`__
 - |:newspaper:| `When you find inaccuracies in your docs </blog/newsletter-february-2020/#when-you-find-inaccuracies-in-your-docs>`__
 - |:movie_camera:| `Making Yourself Redundant on Day One <https://www.youtube.com/watch?v=QYMUh55eXcY&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=9>`__
@@ -224,7 +225,6 @@ Jobs and careers
 Hiring
 ~~~~~~~
 
-- |:movie_camera:| `From Me to Us: Building a docs team from the ground up </videos/portland/2022/from-me-to-us-building-a-docs-team-from-the-ground-up-lana-brindley-she-her/>`__
 - |:newspaper:| `Using writing tests when hiring </blog/newsletter-august-2019/#using-writing-tests-when-hiring>`__
 - |:newspaper:| `Running objective interviews </blog/newsletter-june-2019/#running-objective-interviews>`__
 - |:newspaper:| `Developer to documentarian ratio </blog/newsletter-may-2019/#developer-to-documentarian-ratio>`__
@@ -284,14 +284,16 @@ Career growth
 - |:movie_camera:| `IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty, and Surf the Upcoming Swerve in Technical Documentation </videos/eu/2015/imposter-no-more-how-tech-writers-can-shed-self-doubt-embrace-uncertainty-and-surf-the-upcoming-swerve-in-technical-documentation-rmacnamara/>`__
 
 
-Becoming a tech writer
-~~~~~~~~~~~~~~~~~~~~~~
+Building a team
+~~~~~~~~~~~~~~~
 
-- |:newspaper:| `Breaking into tech writing </blog/newsletter-april-2022/#breaking-into-tech-writing>`__
+- |:movie_camera:| `How I convinced my boss to build our docs team </videos/prague/2022/how-i-convinced-my-boss-to-build-our-docs-team-karissa-van-baulen/>`__
+- |:movie_camera:| `From Me to Us: Building a docs team from the ground up </videos/portland/2022/from-me-to-us-building-a-docs-team-from-the-ground-up-lana-brindley-she-her/>`__
 
 Learning...
 ~~~~~~~~~~~
 
+- |:movie_camera:| `The Art of Asking Questions </videos/prague/2022/the-art-of-asking-questions-jeff-smith/>`__
 - |:newspaper:| `What we’re learning in #learn-tech-writing </blog/newsletter-october-2020/#what-we-re-learning-in-learn-tech-writing>`__
 - |:newspaper:| `Learning regular expressions (regex) </blog/newsletter-october-2020/#learning-regular-expressions-regex>`__
 - |:newspaper:| `Book club: an intro to ‘Every Page is Page One’ </blog/newsletter-april-2020/#book-club-an-intro-to-every-page-is-page-one>`__
@@ -308,6 +310,7 @@ Design and UX
 Accessibility and inclusivity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- |:movie_camera:| `ADHD and its impact on the Creative Process for Writers </videos/prague/2022/adhd-and-its-impact-on-the-creative-process-for-writers-tyler-smith/>`__
 - |:newspaper:| `Resources for diverse example names </blog/newsletter-july-2020/#resources-for-diverse-example-names>`__
 - |:movie_camera:| `A11y-Friendly Documentation </videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/>`__
 - |:newspaper:| `Accessibility for colour blindness </blog/newsletter-august-2017/#accessible-docs-colorblindness-edition>`__
@@ -318,6 +321,12 @@ Accessibility and inclusivity
 - |:newspaper:| `Responsible communication guide </blog/newsletter-october-2016/#coming-soon-the-responsible-communication-guide>`__
 - |:movie_camera:| `Accessible Math on the Web: A Server/Client Solution </videos/na/2016/accessible-math-on-the-web-a-server-client-solution-tim-arnold/>`__
 - |:movie_camera:| `Inclusive Tech Docs - TechComm Meets Accessibility </videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/>`__
+
+Localization and globalization
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- |:movie_camera:| `Creating documentation for the African audience </videos/prague/2022/creating-documentation-for-the-african-audience-benny-ifeanyi-iheagwara/>`__
+- |:movie_camera:| `Toward the broader globalization of Open Source: documenting your localisation Journey </videos/prague/2022/toward-the-broader-globalization-of-open-source-documenting-your-localisation-j-melissa-black/>`__
 
 Design
 ~~~~~~~
@@ -353,6 +362,7 @@ UX writing
 Doc site design
 ~~~~~~~~~~~~~~~
 
+- |:movie_camera:| `Improve Customer Adoption with UI Help </videos/prague/2022/improve-customer-adoption-with-ui-help-prashant-mathapathi/>`__
 - |:movie_camera:| `Responsive Content - Presenting Your information On Any Device <https://www.youtube.com/watch?v=z7KBdPyRb18&index=5&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt>`__
 - |:newspaper:| `"Last updated" in docs </blog/newsletter-july-2017/#struggles-with-dates-and-versions>`__
 - |:newspaper:| `Documentation bylines </blog/newsletter-march-2017/#should-documentation-have-bylines>`__
@@ -373,6 +383,8 @@ User needs
 Doc tools
 ---------
 
+- |:movie_camera:| `Two years of Markdoc: what we’ve learned about balancing developer and author experience </videos/prague/2022/two-years-of-markdoc-what-we-ve-learned-about-balancing-developer-and-author-ex-ryan-paul/>`__
+- |:newspaper:| `Standards in documentation tooling </blog/newsletter-december-2021/#standards-in-documentation-tooling>`__
 - |:newspaper:| `How your tools affect your writing </blog/newsletter-december-2019/#how-your-tools-affect-your-writing>`__
 - |:newspaper:| `Deciding on a new tool… </blog/newsletter-october-2019/#deciding-on-a-new-tool>`__
 - |:newspaper:| `… and migrating to a new tool </blog/newsletter-october-2019/#and-migrating-to-a-new-tool>`__
@@ -385,7 +397,6 @@ Doc tools
 - |:movie_camera:| `Writing multi-language documentation using Sphinx <https://www.youtube.com/watch?v=53iJTYLji0I&index=4&list=PLZAeFn6dfHpnHBLE4qEUwg1LjhDZEvC2A>`__
 - |:movie_camera:| `Designing MkDocs <https://www.youtube.com/watch?v=aOtnoBphzJ4&list=PLZAeFn6dfHpnHBLE4qEUwg1LjhDZEvC2A&index=10>`__
 - |:movie_camera:| `Going from Publican to Read the Docs <https://www.youtube.com/watch?v=UHsIhWI4hgE&index=12&list=PLZAeFn6dfHpnHBLE4qEUwg1LjhDZEvC2A>`__
-- |:newspaper:| `Standards in documentation tooling </blog/newsletter-december-2021/#standards-in-documentation-tooling>`__
 
 Docs-as-code
 ~~~~~~~~~~~~
@@ -419,6 +430,7 @@ Automation
 
 - |:newspaper:| `Link-checking tools </blog/newsletter-may-2022/#link-checking-tools>`__
 - |:movie_camera:| `Unit Test the Docs: Why You Should Test Your Code Examples </videos/portland/2022/unit-test-the-docs-why-you-should-test-your-code-examples-ben-perlmutter/>`__
+- |:movie_camera:| `Beyond spell checking - what else can we check automatically? </videos/prague/2022/beyond-spell-checking-what-else-can-we-check-automatically-tibs/>`__
 - |:movie_camera:| `Run your documentation </videos/prague/2018/run-your-docs-predrag-mandic/>`__
 - |:newspaper:| `Automated screenshot-taking </blog/newsletter-april-2018/#new-tool-to-try-out-automated-screenshots>`__
 - |:movie_camera:| `Testing: it's not just for code anymore </videos/na/2017/testing-it-s-not-just-for-code-anymore-lyzi-diamond/>`__
@@ -468,9 +480,9 @@ Gathering it and acting on it.
 Measuring docs success
 ~~~~~~~~~~~~~~~~~~~~~~
 
+- |:movie_camera:| `Measuring Documentation Success in Open Source: Findings from Google’s Season of Docs Program </videos/portland/2022/measuring-documentation-success-in-open-source-findings-from-google-s-season-of-kassandra-dhillon/>`__
 - |:newspaper:| `Objectives and key results (OKRs) for documentation </blog/newsletter-march-2019/#objectives-and-key-results-okrs-for-documentation>`__
 - |:newspaper:| `A/B testing docs </blog/newsletter-may-2018/#a-b-testing-for-stronger-docs>`__
-- |:movie_camera:| `Measuring Documentation Success in Open Source: Findings from Google’s Season of Docs Program </videos/portland/2022/measuring-documentation-success-in-open-source-findings-from-google-s-season-of-kassandra-dhillon/>`__
 
 Metrics
 ~~~~~~~
@@ -539,6 +551,7 @@ Style guides
 Working across roles
 --------------------
 
+- |:movie_camera:| `Cultivating a Stakeholder Network for Our Docs: How Building Relationships Improves Our Content </videos/prague/2022/cultivating-a-stakeholder-network-for-our-docs-how-building-relationships-impro-taylor-cole/>`__
 - |:newspaper:| `The strengths of different backgrounds </blog/newsletter-november-2019/#the-strengths-of-different-backgrounds>`__
 
 Working with writers
@@ -582,6 +595,7 @@ Working with other roles
 Including product managers, higher-ups, etc.
 
 - |:newspaper:| `Improving communication about what's in releases </blog/newsletter-september-2022/#improving-communication-about-what-s-in-releases>`__
+- |:movie_camera:| `Documentation as Marketing? From Conflict to Collaboration </videos/prague/2022/documentation-as-marketing-from-conflict-to-collaboration-mano-toth/>`__
 - |:newspaper:| `Getting more info from SMEs </blog/newsletter-may-2020/#getting-more-info-from-smes>`__
 - |:movie_camera:| `The subtle art of interrogation <https://www.youtube.com/watch?v=HVdzjFeaM7k&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=7>`__
 - |:newspaper:| `Helping project managers understand docs </blog/newsletter-june-2018/#helping-your-project-managers-understand-docs>`__
