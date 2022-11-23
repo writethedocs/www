@@ -3,13 +3,37 @@
 .. post:: Dec 01, 2022
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
-Announcing Call for Proposals
-=============================
+Announcing Venue and Call for Proposals
+=======================================
 
-Today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_.
+Today we are announcing our new Portland conference venue. 
+The needs of our conference have changed over the years, and have decided to move to a lovely new space in Portland. 
+We're also excited to announce our Portland `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_.
 
 Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
 If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!
+
+Our new venue: Revolution Hall
+------------------------------
+
+Our Portland conference will be held at `Revolution Hall`_. 
+It is a beautiful concert venue located on the `thriving inner east side`_ of Portland.
+It was converted from a high school,
+and still have some lockers in the hallway for that extra learning ambiance.
+
+.. image:: /_static/conf/pics/rev-hall-outside.jpg
+
+The venue has a large and beautiful primary theater,
+as well as many other social spaces:
+
+* The Assembly Lounge where we will be hosting our Unconference discussions
+* The Sunset Room which will be our Quiet room
+* The Library room where our snacks and drinks catering will happen
+
+It also has *outdoor seating* and a *city park* directly on the property for plenty of fresh air and free space.
+
+.. _Crystal Ballroom: https://www.revolutionhall.com/about/
+.. _thriving inner east side: https://goo.gl/maps/AwSBqVPtrDR2
 
 Call for Proposals
 ------------------
