@@ -184,7 +184,7 @@ Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx accoun
 
     <div class="announcement" style="background-color:white;">
         <div class="uk-container">
-        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}">Submit your proposal</a>
+        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}" target="_blank">Submit your proposal</a>
         </div>
     </div>
 
