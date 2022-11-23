@@ -5,6 +5,8 @@ Call for Proposals
 
 It's that time of year again: We’re now accepting talk proposals for our next **in-person** {{ city }} conference, coming up on {{date.main}}.
 
+(If you'd prefer not to attend an in-person event due to COVID-19 or any other reason, keep an eye out for `Atlantic`_ held online in a timezone as widely acessible as possible).
+
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you!
 Read on to learn more about the goals of the conference and what we look for in talk proposals.
 
@@ -32,7 +34,7 @@ You can do that here:
 
     <div class="announcement" style="background-color:white;">
         <div class="uk-container">
-        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}">Submit your proposal</a>
+        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}" target="_blank">Submit your proposal</a>
         </div>
     </div>
 
@@ -187,3 +189,11 @@ Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx accoun
     </div>
 
 {% endif %}
+
+.. _Atlantic:
+
+Write the Docs Atlantic, online September 2023
+----------------------------------------------
+
+If you want to speak at Write the Docs, but can't or don't want to attend an in-person event, keep an eye out for Write the Docs Atlantic, coming in September 2023.
+This conference will entirely virtual, in a timezone that works for as many people as possible, so you canm present or attend from anywhere.

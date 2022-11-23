@@ -23,6 +23,16 @@ You can read our full `Call for Proposals <https://www.writethedocs.org/conf/por
 
 The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**.
 
+(If you'd prefer not to attend an in-person event due to COVID-19 or any other reason, keep an eye out for `Atlantic_news`_ held online in a timezone as widely acessible as possible).
+
+.. _Atlantic_news:
+
+Write the Docs Atlantic, online September 2023
+----------------------------------------------
+
+If you want to speak at Write the Docs, but can't or don't want to attend an in-person event, keep an eye out for Write the Docs Atlantic, coming in September 2023.
+This conference will entirely virtual, in a timezone that works for as many people as possible, so you canm present or attend from anywhere.
+
 Tickets
 -------
 
