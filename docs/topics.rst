@@ -155,6 +155,8 @@ Including how-tos, reference docs, tutorials, and books.
 - |:newspaper:| `To answer, or not to answer: FAQs </blog/newsletter-may-2020/#to-answer-or-not-to-answer-faqs>`__
 - |:newspaper:| `Do we tell users what’s new in the docs? </blog/newsletter-march-2020/#do-we-tell-users-what-s-new-in-the-docs>`__
 - |:movie_camera:| `Emulating the Teacher’s Approving Nod in Teaching Material </videos/prague/2020/emulating-the-teacher-s-approving-nod-in-teaching-material-tanks-transfeld/>`__
+- |:movie_camera:| `How (and why) to make awesome video tutorials </videos/australia/2020/how-and-why-to-make-awesome-video-tutorials-sayraphim-lothian/>`__
+- |:movie_camera:| `Microcontent: Designing & Developing Reusable Content </videos/australia/2020/microcontent-designing-developing-reusable-content-scott-deloach/>`__
 - |:movie_camera:| `Learning to love release notes </videos/prague/2018/learning-to-love-release-notes-anne-edwards/>`__
 - |:movie_camera:| `"It's a Feature" - Documenting Known Issues and Product Shortcomings </videos/prague/2018/it-s-a-feature-documenting-known-issues-and-product-shortcomings-ivana-devcic/>`__
 - |:movie_camera:| `Writing the Next Great Tech Book </videos/portland/2018/writing-the-next-great-tech-book-brian-macdonald/>`__
@@ -175,6 +177,7 @@ Storytelling
 ~~~~~~~~~~~~
 
 - |:movie_camera:| `When Wishing Still Helped … What Folklore Can Teach Us about Technical Writing </videos/prague/2020/when-wishing-still-helped-what-folklore-can-teach-us-about-technical-writing-ingrid-k-towey/>`__
+- |:movie_camera:| `Storytelling for Technical Products - What We Can Learn from Lego and Pixar </videos/australia/2020/storytelling-for-technical-products-what-we-can-learn-from-lego-and-pixar-akshay-iyer/>`__
 - |:movie_camera:| `Telling a Great Story on GitHub </videos/eu/2017/telling-a-great-story-on-github-lauri-apple/>`__
 - |:movie_camera:| `What Writing Fiction Teaches You About Writing Documentation </videos/na/2016/what-writing-fiction-teaches-you-about-writing-documentation-thursday-bram/>`__
 - |:movie_camera:| `Documenting your Story - Crafting a good presentation </videos/eu/2015/documenting-your-story-crafting-a-good-presentation-cward/>`__
@@ -206,6 +209,8 @@ Legacy docs
 ~~~~~~~~~~~
 
 - |:movie_camera:| `Organizing a Confluence hoard, or, does this page spark joy? </videos/prague/2020/organizing-a-confluence-hoard-or-does-this-page-spark-joy-abigail-sutherland/>`__
+- |:movie_camera:| `Legacy content from various perspectives </videos/australia/2020/legacy-content-from-various-perspectives-marcelina-haftka/>`__
+- |:movie_camera:| `When Agile Fails: Working on Large Documentation Projects </videos/australia/2020/when-agile-fails-working-on-large-documentation-projects-lana-brindley/>`__
 - |:movie_camera:| `How to tear down existing documentation and rewrite docs that actually work </videos/prague/2018/how-to-tear-down-existing-documentation-and-rewrite-docs-that-actually-work-alexandra-white/>`__
 - |:movie_camera:| `Tackling technical debt in the docs </videos/prague/2018/tackling-technical-debt-in-the-docs-louise-fahey/>`__
 - |:movie_camera:| `Where do I start? The art and practice of documentation triage </videos/portland/2018/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan/>`__
@@ -283,6 +288,8 @@ Career growth
 - |:movie_camera:| `From travel content to technical content: my journey </videos/prague/2021/from-travel-content-to-technical-content-my-journey-kate-santo/>`__
 - |:newspaper:| `A magnificent array of management topics </blog/newsletter-july-2020/#a-magnificent-array-of-management-topics>`__
 - |:movie_camera:| `From Graffiti Writer to Technical Writer </videos/prague/2020/from-graffiti-writer-to-technical-writer-kruno-golubi/>`__
+- |:movie_camera:| `Overcoming the Plight of Lone Writers </videos/australia/2020/overcoming-the-plight-of-lone-writers-ankita-tripathi/>`__
+- |:movie_camera:| `Onboard yourself: How to get set-up for success in a new role </videos/australia/2020/onboard-yourself-how-to-get-set-up-for-success-in-a-new-role-michael-belton/>`__
 - |:newspaper:| `Leading and following: finding a mentor, being a mentor </blog/newsletter-october-2019/#leading-and-following-finding-a-mentor-being-a-mentor>`__
 - |:newspaper:| `Feeling like a fraud and how to deal with it </blog/newsletter-october-2019/#feeling-like-a-fraud-and-how-to-deal-with-it>`__
 - |:newspaper:| `Making the leap to managing writers </blog/newsletter-july-2019/#making-the-leap-to-managing-writers>`__
@@ -342,6 +349,7 @@ Localization and globalization
 - |:movie_camera:| `Creating documentation for the African audience </videos/prague/2022/creating-documentation-for-the-african-audience-benny-ifeanyi-iheagwara/>`__
 - |:movie_camera:| `Toward the broader globalization of Open Source: documenting your localisation Journey </videos/prague/2022/toward-the-broader-globalization-of-open-source-documenting-your-localisation-j-melissa-black/>`__
 - |:movie_camera:| `How I use applied linguistics to be a better technical writer </videos/prague/2021/how-i-use-applied-linguistics-to-be-a-better-technical-writer-kat-stoica-ostenfeld/>`__
+- |:movie_camera:| `Influence your customer outreach with best practices for internationalization </videos/australia/2020/influence-your-customer-outreach-with-best-practices-for-internationalization-vikram-mulay/>`__
 
 
 Design
@@ -360,6 +368,7 @@ UX writing
 ~~~~~~~~~~
 
 - |:newspaper:| `Edge cases and when (and where!) to document them </blog/newsletter-june-2022/#edge-cases-and-when-and-where-to-document-them>`__
+- |:movie_camera:| `Little words, big ideas: How to write microcopy that works </videos/australia/2020/little-words-big-ideas-how-to-write-microcopy-that-works-yael-ben-david/>`__
 - |:movie_camera:| `UX Writing - Let Your Product Speak <https://www.youtube.com/watch?v=TGdm-1vVLDw&index=10&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt>`__
 - |:movie_camera:| `Creating experiences with information <https://www.youtube.com/watch?v=N_fUHIu9cl4&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=6>`__
 - |:movie_camera:| `Conversational UI for Writers </videos/au/2017/conversational-uis-for-writers-chris-ward/>`__
@@ -379,6 +388,7 @@ UX writing
 Doc site design
 ~~~~~~~~~~~~~~~
 
+- |:movie_camera:| `A treasure map for the doc – Exploring the discoverability of documentation </videos/australia/2020/a-treasure-map-for-the-doc-exploring-the-discoverability-of-documentation-marika-vertzonis/>`__
 - |:movie_camera:| `Responsive Content - Presenting Your information On Any Device <https://www.youtube.com/watch?v=z7KBdPyRb18&index=5&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt>`__
 - |:newspaper:| `"Last updated" in docs </blog/newsletter-july-2017/#struggles-with-dates-and-versions>`__
 - |:newspaper:| `Documentation bylines </blog/newsletter-march-2017/#should-documentation-have-bylines>`__
@@ -517,6 +527,7 @@ Metrics
 Culture and community
 ---------------------
 
+- |:movie_camera:| `5 things I learned from my first open source contribution </videos/australia/2020/5-things-i-learned-from-my-first-open-source-contribution-andrea-szollossi/>`__
 - |:movie_camera:| `A Year in the Life of The Better Docs Project </videos/prague/2018/a-year-in-the-life-of-the-better-docs-project-rowan-cota/>`__
 - |:movie_camera:| `Technical writing as public service: working on open source in government </videos/na/2016/technical-writing-as-public-service-working-on-open-source-in-government-britta-gustafson/>`__
 
@@ -525,6 +536,7 @@ Building docs culture
 
 - |:movie_camera:| `Adventures in setting up a knowledge system for a research group </videos/prague/2021/adventures-in-setting-up-a-knowledge-system-for-a-research-group-victor-sluiter/>`__
 - |:movie_camera:| `How to be an Avante-Garde Guinea Pig: Building Better Content through Experimentation, Community-building, and Loud Squeaks </videos/prague/2020/how-to-be-an-avante-garde-guinea-pig-building-better-content-through-experimentation-community-building-and-loud-squeaks-jessica-valasek-estenssoro/>`__
+- |:movie_camera:| `Everyone’s a player (in a mid-90s MUD) </videos/australia/2020/everyone-s-a-player-in-a-mid-90s-mud-kenzie-woodbridge/>`__
 - |:newspaper:| `Promoting plain language </blog/newsletter-november-2018/#promoting-plain-language>`__
 - |:newspaper:| `Common misconceptions about docs </blog/newsletter-august-2018/#common-misconceptions-about-documentation>`__
 - |:movie_camera:| `Who Writes the Docs? </videos/portland/2018/who-writes-the-docs-beth-aitman/>`__
@@ -586,6 +598,7 @@ Including review, editing, and teaching.
 
 - |:newspaper:| `What’s in a good reviewer’s guide? </blog/newsletter-july-2022/#what-s-in-a-good-reviewer-s-guide>`__
 - |:movie_camera:| `Code Cowpokes and Word Wranglers: from Mutual Admiration to Solidarity </videos/portland/2022/code-cowpokes-and-word-wranglers-from-mutual-admiration-to-solidarity-erin-dees/>`__
+- |:movie_camera:| `The Pains of Composition: How to write your best documentation in a collaborative world </videos/australia/2020/the-pains-of-composition-how-to-write-your-best-documentation-in-a-collaborative-world-matt-reiner/>`__
 - |:newspaper:| `The challenge of giving difficult feedback </blog/newsletter-november-2019/#the-challenge-of-giving-difficult-feedback>`__
 - |:newspaper:| `Facilitating top-notch doc review </blog/newsletter-june-2019/#facilitating-top-notch-doc-review>`__
 - |:movie_camera:| `Good Code, Bad Code & Code Review <https://www.youtube.com/watch?v=Mx4iRq-inm8&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=8>`__
@@ -622,6 +635,7 @@ Including product managers, higher-ups, etc.
 - |:newspaper:| `Improving communication about what's in releases </blog/newsletter-september-2022/#improving-communication-about-what-s-in-releases>`__
 - |:movie_camera:| `Documentation as Marketing? From Conflict to Collaboration </videos/prague/2022/documentation-as-marketing-from-conflict-to-collaboration-mano-toth/>`__
 - |:newspaper:| `Getting more info from SMEs </blog/newsletter-may-2020/#getting-more-info-from-smes>`__
+- |:movie_camera:| `An introduction to developer experience, and the role of a documentarian </videos/australia/2020/an-introduction-to-developer-experience-and-the-role-of-a-documentarian-chris-ward/>`__
 - |:movie_camera:| `The subtle art of interrogation <https://www.youtube.com/watch?v=HVdzjFeaM7k&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=7>`__
 - |:newspaper:| `Helping project managers understand docs </blog/newsletter-june-2018/#helping-your-project-managers-understand-docs>`__
 - |:newspaper:| `Conflicts about what should be in the docs </blog/newsletter-july-2017/#who-s-running-this-content>`__
@@ -677,6 +691,7 @@ Strategy
 ~~~~~~~~
 
 - |:movie_camera:| `Lessons Learned from Cloud Ops: Writing Docs for High-Stakes Situations </videos/portland/2022/lessons-learned-from-cloud-ops-writing-docs-for-high-stakes-situations-alastair-dallas/>`__
+- |:movie_camera:| `Content strategy in practice: a case study </videos/australia/2020/content-strategy-in-practice-a-case-study-sam-irons/>`__
 - |:movie_camera:| `Backseat content strategy <https://www.youtube.com/watch?v=omwamA30e_Y&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=4>`__
 - |:movie_camera:| `Choosing a tool... and choosing your moment </videos/prague/2018/choosing-a-tool-and-choosing-your-moment-val-grimm/>`__
 - |:movie_camera:| `Audience, Market, Product: Tips for strategic API documentation planning </videos/portland/2018/audience-market-product-tips-for-strategic-api-documentation-planning-bob-watson/>`__
