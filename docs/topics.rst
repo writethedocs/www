@@ -128,6 +128,7 @@ Task-based writing
 API docs
 ~~~~~~~~
 
+- |:movie_camera:| `Write the API docs before the API exists </videos/prague/2019/write-the-api-docs-before-the-api-exists-ben-ahmady/>`__
 - |:newspaper:| `Documenting APIs with "interesting" design choices </blog/newsletter-february-2019/#documenting-apis-with-interesting-design-choices>`__
 - |:newspaper:| `When does one API stop and another begin? </blog/newsletter-may-2018/#distinguishing-one-api-from-many>`__
 - |:newspaper:| `API reference docs layout </blog/newsletter-december-2017/#thinking-hard-about-api-reference-docs-layout>`__
@@ -157,6 +158,8 @@ Including how-tos, reference docs, tutorials, and books.
 - |:movie_camera:| `Emulating the Teacher’s Approving Nod in Teaching Material </videos/prague/2020/emulating-the-teacher-s-approving-nod-in-teaching-material-tanks-transfeld/>`__
 - |:movie_camera:| `How (and why) to make awesome video tutorials </videos/australia/2020/how-and-why-to-make-awesome-video-tutorials-sayraphim-lothian/>`__
 - |:movie_camera:| `Microcontent: Designing & Developing Reusable Content </videos/australia/2020/microcontent-designing-developing-reusable-content-scott-deloach/>`__
+- |:movie_camera:| `The Power of Empathy in Support Documentation: A 5-Step Guide </videos/prague/2019/the-power-of-empathy-in-support-documentation-a-5-step-guide-plamena-maleva/>`__
+- |:movie_camera:| `101 to 404s: How to write great error messages </videos/prague/2019/101-to-404s-how-to-write-great-error-messages-james-scott/>`__
 - |:movie_camera:| `Learning to love release notes </videos/prague/2018/learning-to-love-release-notes-anne-edwards/>`__
 - |:movie_camera:| `"It's a Feature" - Documenting Known Issues and Product Shortcomings </videos/prague/2018/it-s-a-feature-documenting-known-issues-and-product-shortcomings-ivana-devcic/>`__
 - |:movie_camera:| `Writing the Next Great Tech Book </videos/portland/2018/writing-the-next-great-tech-book-brian-macdonald/>`__
@@ -178,6 +181,7 @@ Storytelling
 
 - |:movie_camera:| `When Wishing Still Helped … What Folklore Can Teach Us about Technical Writing </videos/prague/2020/when-wishing-still-helped-what-folklore-can-teach-us-about-technical-writing-ingrid-k-towey/>`__
 - |:movie_camera:| `Storytelling for Technical Products - What We Can Learn from Lego and Pixar </videos/australia/2020/storytelling-for-technical-products-what-we-can-learn-from-lego-and-pixar-akshay-iyer/>`__
+- |:movie_camera:| `Wild Geeks: Poetry in the Digital Age </videos/prague/2019/wild-geeks-poetry-in-the-digital-age-ellie-farrier/>`__
 - |:movie_camera:| `Telling a Great Story on GitHub </videos/eu/2017/telling-a-great-story-on-github-lauri-apple/>`__
 - |:movie_camera:| `What Writing Fiction Teaches You About Writing Documentation </videos/na/2016/what-writing-fiction-teaches-you-about-writing-documentation-thursday-bram/>`__
 - |:movie_camera:| `Documenting your Story - Crafting a good presentation </videos/eu/2015/documenting-your-story-crafting-a-good-presentation-cward/>`__
@@ -188,6 +192,7 @@ Writing doc sets
 ----------------
 
 - |:movie_camera:| `Don’t shoot yourself in the foot with content reuse </videos/portland/2022/don-t-shoot-yourself-in-the-foot-with-content-reuse-anna-gasparyan/>`__
+- |:movie_camera:| `How to launch your startup with good docs </videos/prague/2019/how-to-launch-your-startup-with-good-docs-brian-lemke/>`__
 - |:movie_camera:| `Delivering Documents For All Three Use Cases </videos/au/2017/delivering-documents-for-all-three-use-cases-margaret-fero/>`__
 - |:movie_camera:| `What nobody tells you about documentation </videos/eu/2017/the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida/>`__
 
@@ -241,6 +246,7 @@ Jobs and careers
 Hiring
 ~~~~~~~
 
+- |:movie_camera:| `Fostering Technical Writing in Developing Nations </videos/prague/2019/fostering-technical-writing-in-developing-nations-prerana-pradhan/>`__
 - |:newspaper:| `Using writing tests when hiring </blog/newsletter-august-2019/#using-writing-tests-when-hiring>`__
 - |:newspaper:| `Running objective interviews </blog/newsletter-june-2019/#running-objective-interviews>`__
 - |:newspaper:| `Developer to documentarian ratio </blog/newsletter-may-2019/#developer-to-documentarian-ratio>`__
@@ -292,6 +298,7 @@ Career growth
 - |:movie_camera:| `Onboard yourself: How to get set-up for success in a new role </videos/australia/2020/onboard-yourself-how-to-get-set-up-for-success-in-a-new-role-michael-belton/>`__
 - |:newspaper:| `Leading and following: finding a mentor, being a mentor </blog/newsletter-october-2019/#leading-and-following-finding-a-mentor-being-a-mentor>`__
 - |:newspaper:| `Feeling like a fraud and how to deal with it </blog/newsletter-october-2019/#feeling-like-a-fraud-and-how-to-deal-with-it>`__
+- |:movie_camera:| `Fostering Talent: Mentorship, Peer Reviews and Going Beyond Your Job Description </videos/prague/2019/fostering-talent-mentorship-peer-reviews-and-going-beyond-your-job-description-arran-southall/>`__
 - |:newspaper:| `Making the leap to managing writers </blog/newsletter-july-2019/#making-the-leap-to-managing-writers>`__
 - |:newspaper:| `Tips for lone writers starting from scratch </blog/newsletter-february-2019/#tips-for-lone-writers-starting-from-scratch>`__
 - |:newspaper:| `Personal development goals </blog/newsletter-february-2019/#personal-development-goals-for-documentarians>`__
@@ -333,6 +340,7 @@ Accessibility and inclusivity
 
 - |:movie_camera:| `ADHD and its impact on the Creative Process for Writers </videos/prague/2022/adhd-and-its-impact-on-the-creative-process-for-writers-tyler-smith/>`__
 - |:newspaper:| `Resources for diverse example names </blog/newsletter-july-2020/#resources-for-diverse-example-names>`__
+- |:movie_camera:| `Inclusive environments are better: science says so </videos/prague/2019/inclusive-environments-are-better-science-says-so-ilona-koren-deutsch/>`__
 - |:movie_camera:| `A11y-Friendly Documentation </videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/>`__
 - |:newspaper:| `Accessibility for colour blindness </blog/newsletter-august-2017/#accessible-docs-colorblindness-edition>`__
 - |:newspaper:| `Screen readers and svgs </blog/newsletter-may-2017/#screen-readers-and-accessibility>`__
@@ -350,12 +358,14 @@ Localization and globalization
 - |:movie_camera:| `Toward the broader globalization of Open Source: documenting your localisation Journey </videos/prague/2022/toward-the-broader-globalization-of-open-source-documenting-your-localisation-j-melissa-black/>`__
 - |:movie_camera:| `How I use applied linguistics to be a better technical writer </videos/prague/2021/how-i-use-applied-linguistics-to-be-a-better-technical-writer-kat-stoica-ostenfeld/>`__
 - |:movie_camera:| `Influence your customer outreach with best practices for internationalization </videos/australia/2020/influence-your-customer-outreach-with-best-practices-for-internationalization-vikram-mulay/>`__
+- |:movie_camera:| `Found in Translation: Lessons from a Year of Open Source Localization </videos/prague/2019/found-in-translation-lessons-from-a-year-of-open-source-localization-zachary-sarah-corleissen/>`__
 
 
 Design
 ~~~~~~~
 
 - |:movie_camera:| `When documenting is designing: How to assist API design as a technical writer </videos/prague/2021/when-documenting-is-designing-how-to-assist-api-design-as-a-technical-writer-fabrizio-ferri-benedetti/>`__
+- |:movie_camera:| `Surprise! You’re a designer now. </videos/prague/2019/surprise-you-re-a-designer-now-kelly-obrien/>`__
 - |:newspaper:| `Docs and design: When docs can’t fix all the things </blog/newsletter-november-2019/#docs-and-design-when-docs-can-t-fix-all-the-things>`__
 - |:movie_camera:| `How I decided to do this talk </videos/au/2017/how-i-decided-to-do-this-talk-gap-analysis-and-pull-apart-documentation-planning-laura-bailey>`__
 - |:movie_camera:| `Peanuts and Minimalism and Technical Writing </videos/au/2017/peanuts-and-minimalism-and-technical-writing-brice-fallon/>`__
@@ -389,6 +399,7 @@ Doc site design
 ~~~~~~~~~~~~~~~
 
 - |:movie_camera:| `A treasure map for the doc – Exploring the discoverability of documentation </videos/australia/2020/a-treasure-map-for-the-doc-exploring-the-discoverability-of-documentation-marika-vertzonis/>`__
+- |:movie_camera:| `Disagree with “I Agree”. Enforcing better data privacy through the language of documentation </videos/prague/2019/disagree-with-i-agree-enforcing-better-data-privacy-through-the-language-of-documentation-karen-sawrey/>`__
 - |:movie_camera:| `Responsive Content - Presenting Your information On Any Device <https://www.youtube.com/watch?v=z7KBdPyRb18&index=5&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt>`__
 - |:newspaper:| `"Last updated" in docs </blog/newsletter-july-2017/#struggles-with-dates-and-versions>`__
 - |:newspaper:| `Documentation bylines </blog/newsletter-march-2017/#should-documentation-have-bylines>`__
@@ -401,6 +412,8 @@ User needs
 ~~~~~~~~~~
 
 - |:movie_camera:| `The Baseline – Or Technical Writing for Non-Technical Readers </videos/prague/2020/the-baseline-or-technical-writing-for-non-technical-readers-paul-brown/>`__
+- |:movie_camera:| `Seeing your docs through different eyes: Mapping doc users’ experiences </videos/prague/2019/seeing-your-docs-through-different-eyes-mapping-doc-users-experiences-aaron-collier/>`__
+- |:movie_camera:| `Documenting known unknowns </videos/prague/2019/documenting-known-unknowns-alison-macneil/>`__
 - |:movie_camera:| `Requirements that you didn't know were there </videos/eu/2017/requirements-that-you-didn-t-know-were-there-lesia-zasadna/>`__
 - |:movie_camera:| `As Good As It Gets: Why Better Trumps Best </videos/eu/2016/pretty-hurts-why-better-trumps-best-riona-macnamara/>`__
 - |:movie_camera:| `API documentation: Exploring the information needs of software developers </videos/eu/2016/api-documentation-exploring-the-information-needs-of-software-developers-michael-meng/>`__
@@ -433,6 +446,7 @@ Docs-as-code
 - |:movie_camera:| `One AWS team’s move to docs as code: what worked, what didn’t, what’s next </videos/portland/2022/one-aws-team-s-move-to-docs-as-code-what-worked-what-didn-t-what-s-next-marcia-riefer-johnston/>`__
 - |:newspaper:| `To git or not to git docs as code </blog/newsletter-august-2020/#to-git-or-not-to-git-docs-as-code>`__
 - |:newspaper:| `Pros and cons of the docs-as-code approach </blog/newsletter-april-2020/#pros-and-cons-of-the-docs-as-code-approach>`__
+- |:movie_camera:| `The UK government meets docs as code </videos/prague/2019/the-uk-government-meets-docs-as-code-jen-lambourne/>`__
 - |:newspaper:| `Adventures in generating docs from code comments </blog/newsletter-august-2019/#adventures-in-generating-docs-from-code-comments>`__
 - |:newspaper:| `What to do about text wrapping </blog/newsletter-july-2019/#what-to-do-about-text-wrapping>`__
 - |:newspaper:| `DITA vs docs-as-code </blog/newsletter-june-2019/#dita-vs-docs-as-code>`__
@@ -654,6 +668,7 @@ Planning and how we work
 - |:movie_camera:| `Remote Job On-boarding: Top 10 Things We Can Do (Better) </videos/prague/2020/remote-job-on-boarding-top-10-things-we-can-do-better-karen-sawrey/>`__
 - |:newspaper:| `The costs of outdated docs </blog/newsletter-february-2020/#the-costs-of-outdated-docs>`__
 - |:newspaper:| `How to set priorities on a documentation team </blog/newsletter-february-2020/#how-to-set-priorities-on-a-documentation-team>`__
+- |:movie_camera:| `The Super Effective Writing Process of Grammy-winning Artists </videos/prague/2019/the-super-effective-writing-process-of-grammy-winning-artists-kayla-lee/>`__
 - |:newspaper:| `Writing remotely </blog/newsletter-august-2019/#writing-remotely>`__
 - |:newspaper:| `Roadmaps and documenting 'future features' </blog/newsletter-march-2019/#roadmaps-and-documenting-future-features>`__
 
