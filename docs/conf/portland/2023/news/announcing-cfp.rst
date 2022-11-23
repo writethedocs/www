@@ -6,7 +6,7 @@
 Announcing Call for Proposals
 =============================
 
-Today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/portland/{{year}}/cfp/>`_.
+Today we are announcing our `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_.
 
 Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
 If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!
