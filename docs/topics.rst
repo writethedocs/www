@@ -1,7 +1,7 @@
 Videos and articles
 ===================
 
-This page links to the topics that have been covered by `conference </conf/>`__ talks or in the `newsletter </newsletter/>`__. They’re in no particular order, and some topics are repeated if they fit into more than one category. Enjoy!
+This page links to the topics that have been covered by `conference </conf/>`__ talks or in the `newsletter </newsletter/>`__. They're in no particular order, and some topics are repeated if they fit into more than one category. Enjoy!
 
 If you think something is wrongly categorised, please send us a pull request :)
 
@@ -31,6 +31,7 @@ Naming and terminology
 - |:newspaper:| `Common words and how to identify them </blog/newsletter-june-2020/#common-words-and-how-to-identify-them>`__
 - |:movie_camera:| `Even Naming This Talk Is Hard </videos/na/2017/even-naming-this-talk-is-hard-ruthie-bendor/>`__
 - |:movie_camera:| `Whatchamacallit: Controlled Vocabularies for Technical Writers </videos/eu/2015/whatchamacallit-controlled-vocabularies-for-technical-writers-eboillat/>`__
+- 
 
 Specific writing questions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -51,6 +52,7 @@ One word vs another, using abbreviations, etc.
 - |:newspaper:| `Using abbreviations and acronyms </blog/newsletter-november-2016/#using-abbreviations-and-acronyms-in-documentation>`__
 - |:newspaper:| `Writing about unlabelled buttons </blog/newsletter-july-2017/#documenting-unlabeled-buttons>`__
 - |:newspaper:| `Jokes in documentation </blog/newsletter-july-2017/#keep-your-jokes-out-of-my-documentation>`__
+- |:newspaper:| `The contrarian view: reasons to use “utilize” </blog/newsletter-march-2022/#the-contrarian-view-reasons-to-use-utilize>`__
 
 Editing
 ~~~~~~~
@@ -175,6 +177,7 @@ Storytelling
 Writing doc sets
 ----------------
 
+- |:movie_camera:| `Don’t shoot yourself in the foot with content reuse </videos/portland/2022/don-t-shoot-yourself-in-the-foot-with-content-reuse-anna-gasparyan/>`__
 - |:movie_camera:| `Delivering Documents For All Three Use Cases </videos/au/2017/delivering-documents-for-all-three-use-cases-margaret-fero/>`__
 - |:movie_camera:| `What nobody tells you about documentation </videos/eu/2017/the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida/>`__
 
@@ -209,7 +212,6 @@ Maintenance
 - |:newspaper:| `When you find inaccuracies in your docs </blog/newsletter-february-2020/#when-you-find-inaccuracies-in-your-docs>`__
 - |:movie_camera:| `Making Yourself Redundant on Day One <https://www.youtube.com/watch?v=QYMUh55eXcY&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=9>`__
 - |:newspaper:| `Making docs maintainable </blog/newsletter-august-2017/#making-docs-maintainable>`__
-- |:movie_camera:| `CSAT - What's That? </videos/na/2016/csat-what-s-that-betsy-roseberg/>`__
 
 Jobs and careers
 ----------------
@@ -222,6 +224,7 @@ Jobs and careers
 Hiring
 ~~~~~~~
 
+- |:movie_camera:| `From Me to Us: Building a docs team from the ground up </videos/portland/2022/from-me-to-us-building-a-docs-team-from-the-ground-up-lana-brindley-she-her/>`__
 - |:newspaper:| `Using writing tests when hiring </blog/newsletter-august-2019/#using-writing-tests-when-hiring>`__
 - |:newspaper:| `Running objective interviews </blog/newsletter-june-2019/#running-objective-interviews>`__
 - |:newspaper:| `Developer to documentarian ratio </blog/newsletter-may-2019/#developer-to-documentarian-ratio>`__
@@ -263,6 +266,8 @@ Career growth
 
 - |:newspaper:| `Is coding necessary to write good docs? </blog/newsletter-september-2022/#is-coding-necessary-to-write-good-docs>`__
 - |:newspaper:| `What’s in a (role) name, after all? </blog/newsletter-may-2022/#what-s-in-a-role-name-after-all>`__
+- |:movie_camera:| `Beating the Virginia Blues: Thru-hiking strategies to help you survive your next big project </videos/portland/2022/beating-the-virginia-blues-thru-hiking-strategies-to-help-you-survive-your-next-kate-mueller/>`__
+- - |:newspaper:| `Taking steps into leadership </blog/newsletter-february-2022/#taking-steps-into-leadership>`__
 - |:newspaper:| `A magnificent array of management topics </blog/newsletter-july-2020/#a-magnificent-array-of-management-topics>`__
 - |:newspaper:| `Leading and following: finding a mentor, being a mentor </blog/newsletter-october-2019/#leading-and-following-finding-a-mentor-being-a-mentor>`__
 - |:newspaper:| `Feeling like a fraud and how to deal with it </blog/newsletter-october-2019/#feeling-like-a-fraud-and-how-to-deal-with-it>`__
@@ -275,9 +280,14 @@ Career growth
 - |:newspaper:| `Imposter syndrome </blog/newsletter-march-2018/#selling-yourself-short-impostor-syndrome-among-tech-writers>`__
 - |:movie_camera:| `An Alien Looking From the Outside In: Main Takeaways After One Year in Documentation </videos/eu/2017/an-alien-looking-from-the-outside-in-main-takeaways-after-one-year-in-documentation-meike-chabowski/>`__
 - |:newspaper:| `Job titles (real and imagined) </blog/newsletter-march-2017/#studies-in-comparative-job-titles>`__
-- |:newspaper:| `Exploring other careers </blog/newsletter-february-2017/#exploring-your-technical-writing-career-options>`__
 - |:movie_camera:| `We’re Not in Kansas Anymore: How to Find Courage while Following the Technical Doc Road </videos/na/2016/we-re-not-in-kansas-anymore-how-to-find-courage-while-following-the-technical-doc-road-christy-lutz/>`__
 - |:movie_camera:| `IMPOSTER NO MORE: How Tech Writers Can Shed Self-Doubt, Embrace Uncertainty, and Surf the Upcoming Swerve in Technical Documentation </videos/eu/2015/imposter-no-more-how-tech-writers-can-shed-self-doubt-embrace-uncertainty-and-surf-the-upcoming-swerve-in-technical-documentation-rmacnamara/>`__
+
+
+Becoming a tech writer
+~~~~~~~~~~~~~~~~~~~~~~
+
+- |:newspaper:| `Breaking into tech writing </blog/newsletter-april-2022/#breaking-into-tech-writing>`__
 
 Learning...
 ~~~~~~~~~~~
@@ -349,6 +359,7 @@ Doc site design
 - |:newspaper:| `Meaningful URLs </blog/newsletter-october-2017/#putting-our-urls-to-work-for-us-and-our-readers>`__
 - |:newspaper:| `API reference docs layout </blog/newsletter-december-2017/#thinking-hard-about-api-reference-docs-layout>`__
 - |:movie_camera:| `Code the Docs: Interactive Document Environments </videos/na/2016/code-the-docs-interactive-document-environments-tim-nugent-paris-buttfield-addison/>`__
+- |:newspaper:| `Can form follow function in techdoc? </blog/newsletter-april-2022/#can-form-follow-function-in-techdoc>`__
 
 User needs
 ~~~~~~~~~~
@@ -374,10 +385,12 @@ Doc tools
 - |:movie_camera:| `Writing multi-language documentation using Sphinx <https://www.youtube.com/watch?v=53iJTYLji0I&index=4&list=PLZAeFn6dfHpnHBLE4qEUwg1LjhDZEvC2A>`__
 - |:movie_camera:| `Designing MkDocs <https://www.youtube.com/watch?v=aOtnoBphzJ4&list=PLZAeFn6dfHpnHBLE4qEUwg1LjhDZEvC2A&index=10>`__
 - |:movie_camera:| `Going from Publican to Read the Docs <https://www.youtube.com/watch?v=UHsIhWI4hgE&index=12&list=PLZAeFn6dfHpnHBLE4qEUwg1LjhDZEvC2A>`__
+- |:newspaper:| `Standards in documentation tooling </blog/newsletter-december-2021/#standards-in-documentation-tooling>`__
 
 Docs-as-code
 ~~~~~~~~~~~~
 
+- |:movie_camera:| `One AWS team’s move to docs as code: what worked, what didn’t, what’s next </videos/portland/2022/one-aws-team-s-move-to-docs-as-code-what-worked-what-didn-t-what-s-next-marcia-riefer-johnston/>`__
 - |:newspaper:| `To git or not to git docs as code </blog/newsletter-august-2020/#to-git-or-not-to-git-docs-as-code>`__
 - |:newspaper:| `Pros and cons of the docs-as-code approach </blog/newsletter-april-2020/#pros-and-cons-of-the-docs-as-code-approach>`__
 - |:newspaper:| `Adventures in generating docs from code comments </blog/newsletter-august-2019/#adventures-in-generating-docs-from-code-comments>`__
@@ -405,12 +418,14 @@ Automation
 ~~~~~~~~~~
 
 - |:newspaper:| `Link-checking tools </blog/newsletter-may-2022/#link-checking-tools>`__
+- |:movie_camera:| `Unit Test the Docs: Why You Should Test Your Code Examples </videos/portland/2022/unit-test-the-docs-why-you-should-test-your-code-examples-ben-perlmutter/>`__
 - |:movie_camera:| `Run your documentation </videos/prague/2018/run-your-docs-predrag-mandic/>`__
 - |:newspaper:| `Automated screenshot-taking </blog/newsletter-april-2018/#new-tool-to-try-out-automated-screenshots>`__
 - |:movie_camera:| `Testing: it's not just for code anymore </videos/na/2017/testing-it-s-not-just-for-code-anymore-lyzi-diamond/>`__
 - |:movie_camera:| `Tech writing in a continuous deployment world </videos/na/2015/tech-writing-in-a-continuous-deployment-world-cburwinkle/>`__
 - |:movie_camera:| `Tested and Correct, How to Make Sure Your Documentation Keeps Working </videos/eu/2015/tested-and-correct-how-to-make-sure-your-documentation-keeps-working-adangoor/>`__
 - |:movie_camera:| `Generating docs from APIs </videos/eu/2015/generating-docs-from-apis-jhannaford/>`__
+- |:newspaper:| `Automation dreams - and realities </blog/newsletter-march-2022/#automation-dreams-and-realities>`__
 
 Git
 ~~~
@@ -423,6 +438,7 @@ Metrics and analytics
 ---------------------
 
 - |:newspaper:| `Discovering user needs </blog/newsletter-august-2019/#starting-out-with-analytics-and-then-upping-your-game>`__
+- |:movie_camera:| `Don’t trust the numbers! </videos/portland/2022/don-t-trust-the-numbers-kumar-dhanagopal/>`__
 
 User research
 ~~~~~~~~~~~~~
@@ -446,12 +462,15 @@ Gathering it and acting on it.
 - |:newspaper:| `Documentation feedback widgets - thumbs up or down? </blog/newsletter-december-2019/#documentation-feedback-widgets-thumbs-up-or-down>`__
 - |:newspaper:| `Collecting and acting on user feedback </blog/newsletter-may-2019/#collecting-and-acting-on-user-feedback>`__
 - |:newspaper:| `Gathering user feedback </blog/newsletter-november-2018/#getting-feedback-from-users>`__
+- |:movie_camera:| `CSAT - What's That? </videos/na/2016/csat-what-s-that-betsy-roseberg/>`__
+
 
 Measuring docs success
 ~~~~~~~~~~~~~~~~~~~~~~
 
 - |:newspaper:| `Objectives and key results (OKRs) for documentation </blog/newsletter-march-2019/#objectives-and-key-results-okrs-for-documentation>`__
 - |:newspaper:| `A/B testing docs </blog/newsletter-may-2018/#a-b-testing-for-stronger-docs>`__
+- |:movie_camera:| `Measuring Documentation Success in Open Source: Findings from Google’s Season of Docs Program </videos/portland/2022/measuring-documentation-success-in-open-source-findings-from-google-s-season-of-kassandra-dhillon/>`__
 
 Metrics
 ~~~~~~~
@@ -486,6 +505,8 @@ Building docs culture
 Building community
 ~~~~~~~~~~~~~~~~~~
 
+- |:movie_camera:| `Peer writing and beyond - An experimental approach to a sustainable open-source projects </videos/portland/2022/peer-writing-and-beyond-an-experimental-approach-to-a-sustainable-open-source-chris-ganta/>`__
+- |:movie_camera:| `All together now: Turning technologists into documentarians </videos/portland/2022/all-together-now-turning-technologists-into-documentarians-liani-lye-she-her/>`__
 - |:movie_camera:| `A content manager's guide to crowdsourcing the docs </videos/eu/2017/a-content-manager-s-guide-to-crowdsourcing-the-docs-becky-todd/>`__
 - |:movie_camera:| `No Community Members Were Harmed in the Making of This Doc Sprint </videos/na/2017/no-community-members-were-harmed-in-the-making-of-this-doc-sprint-how-we-ran-a-48-hour-event-to-collect-community-wisdom-into-a-guidebook-for-newsroom-developers-ryan-pitts-lindsay-muscato/>`__
 - |:movie_camera:| `The Wisdom of Crowds: Crowdsourcing Minimalism in an Open Organization </videos/na/2017/the-wisdom-of-crowds-crowdsourcing-minimalism-in-an-open-organization-ingrid-towey/>`__
@@ -526,6 +547,7 @@ Working with writers
 Including review, editing, and teaching.
 
 - |:newspaper:| `What’s in a good reviewer’s guide? </blog/newsletter-july-2022/#what-s-in-a-good-reviewer-s-guide>`__
+- |:movie_camera:| `Code Cowpokes and Word Wranglers: from Mutual Admiration to Solidarity </videos/portland/2022/code-cowpokes-and-word-wranglers-from-mutual-admiration-to-solidarity-erin-dees/>`__
 - |:newspaper:| `The challenge of giving difficult feedback </blog/newsletter-november-2019/#the-challenge-of-giving-difficult-feedback>`__
 - |:newspaper:| `Facilitating top-notch doc review </blog/newsletter-june-2019/#facilitating-top-notch-doc-review>`__
 - |:movie_camera:| `Good Code, Bad Code & Code Review <https://www.youtube.com/watch?v=Mx4iRq-inm8&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=8>`__
@@ -612,6 +634,7 @@ Continuous delivery
 Strategy
 ~~~~~~~~
 
+- |:movie_camera:| `Lessons Learned from Cloud Ops: Writing Docs for High-Stakes Situations </videos/portland/2022/lessons-learned-from-cloud-ops-writing-docs-for-high-stakes-situations-alastair-dallas/>`__
 - |:movie_camera:| `Backseat content strategy <https://www.youtube.com/watch?v=omwamA30e_Y&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=4>`__
 - |:movie_camera:| `Choosing a tool... and choosing your moment </videos/prague/2018/choosing-a-tool-and-choosing-your-moment-val-grimm/>`__
 - |:movie_camera:| `Audience, Market, Product: Tips for strategic API documentation planning </videos/portland/2018/audience-market-product-tips-for-strategic-api-documentation-planning-bob-watson/>`__
