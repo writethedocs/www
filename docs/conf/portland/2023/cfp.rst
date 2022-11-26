@@ -5,7 +5,7 @@ Call for Proposals
 
 It's that time of year again: We’re now accepting talk proposals for our next **in-person** {{ city }} conference, coming up on {{date.main}}.
 
-(If you'd prefer not to attend an in-person event due to COVID-19 or any other reason, keep an eye out for `Atlantic`_ held online in a timezone as widely accessible as possible).
+(If you'd prefer not to attend an in-person event due to COVID-19 or any other reason, keep an eye out for `Atlantic`_ held online between the CEST and EDT timezones).
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you!
 Read on to learn more about the goals of the conference and what we look for in talk proposals.
@@ -196,4 +196,4 @@ Write the Docs Atlantic, online September 2023
 ----------------------------------------------
 
 If you want to speak at Write the Docs, but can't or don't want to attend an in-person event, keep an eye out for Write the Docs Atlantic, coming in September 2023.
-This conference will entirely virtual, in a timezone that works for as many people as possible, so you canm present or attend from anywhere.
+This conference will entirely virtual, between the CEST and EDT timezones, so you can present or attend from anywhere.
