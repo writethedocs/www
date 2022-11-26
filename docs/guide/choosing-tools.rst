@@ -62,7 +62,7 @@ Consirations and "Gotchas"
   Who will handle tooling upgrades?
   Who will be responsible when something breaks down?
 - Most tools come with themes to get you started, but companies are going to want their content to look like their content.
-  There is time and knowledge required to implement customizations for the design and the idiosyncracies of your particular work methods.
+  There is time and knowledge required to implement customizations for the design and the idiosyncrasies of your particular work methods.
 - Some tool choices provide for content reuse, and single sourcing is a major topic in technical writing forums.
   However, how content gets reused and who can reuse it may be limiting factors.
 - Some tools maintain internal databases of links that propagate changes throughout the docs.
