@@ -1,17 +1,14 @@
+:template: {{year}}/generic.html
+
 Health and Safety Policy
 ========================
 
 This policy is up to date as of **November 2022**.
 
-**Policy Overview**
--------------------
-
-* Vaccine or Negative COVID-19 Test Requirement
- * Vaccine Requirement
- * Negative COVID-19 Test Requirement
-* Other Testing Encouraged
-* Onsite Health + Safety Measures
-* Masks Provided and Suggested Indoors
+.. contents::
+    :local:
+    :depth: 1
+    :backlinks: none
 
 **Vaccine or Negative COVID-19 Test Requirement**
 -------------------------------------------------

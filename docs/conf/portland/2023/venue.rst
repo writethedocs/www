@@ -8,7 +8,7 @@ It is a beautiful concert venue located on the thriving inner east side of Portl
 It was converted from a high school,
 and still have some lockers in the hallway for that extra learning ambiance.
 
-.. image:: /_static/conf/pics/rev-hall-outside.jpg
+.. image:: /_static/conf/images/pics/rev-hall-outside.jpg
 
 The venue has a large and beautiful primary theater,
 as well as many other social spaces:
@@ -107,7 +107,7 @@ Thanks
 
 Thank you to `Djangocon US`_ for inspiration on this page.
 
-.. _Crystal Ballroom: https://www.revolutionhall.com/about/
+.. _Revolution Hall: https://www.revolutionhall.com/about/
 .. _thriving inner east side: https://goo.gl/maps/AwSBqVPtrDR2
 .. _email us: portland@writethedocs.org
 .. _Djangocon US: https://2015.djangocon.us/
