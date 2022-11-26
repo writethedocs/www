@@ -1,4 +1,4 @@
-Videos of Write the Docs PRAGUE 2020
+Videos of Write the Docs Prague 2020
 =============================================================
 
 .. toctree::

@@ -1,4 +1,4 @@
-Videos of Write the Docs PORTLAND 2021
+Videos of Write the Docs Portland 2021
 =============================================================
 
 .. toctree::

@@ -62,7 +62,7 @@ docs-as-code, it's not a requirement. You might use DITA, a CMS, a wiki, etc.;
 if you're involved in the areas listed above, regardless of tool set, there's 
 a good chance you might be DocOps!
 
-DocOps Resources
+DocOps resources
 ----------------
 
 If you're interested in DocOps, join the conversation in the Write the Docs Slack 
