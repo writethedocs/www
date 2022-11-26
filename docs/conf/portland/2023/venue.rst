@@ -25,7 +25,7 @@ Accessibility
 We are committed to hosting a conference that is accessible to everyone.
 This page contains accessibility information as well as links to other resources. 
 If you have questions or require any additional accommodations, 
-please `email us`__.
+please `email us`_.
 
 Conference spaces
 *****************
@@ -54,7 +54,7 @@ Transportation
 
 All transit in Portland announce stops verbally in English.
 Most buses have a visual display of upcoming stops.
-See the `Trimet Website <https://trimet.org/access/index.htm>`_ for more information.
+See the `Trimet Website <https://trimet.org/access/index.htm>`__ for more information.
 
 Service Animals
 ***************
