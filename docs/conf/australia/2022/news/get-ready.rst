@@ -3,12 +3,12 @@
 .. post:: Nov 28, 2022
    :tags: {{year}}, {{shortcode}}-{{year}}, tickets
 
-Get Ready for the conference!
+Get ready for the conference!
 =============================
 
 Hey everyone!
 
-We're just over a week away from the start of the conference, and we're getting excited to see you soon! We're looking forward to gather for 3 days of content, collaboration, and conversation.
+We're just over a week away from the start of the conference, and we're getting excited to see you soon! We're looking forward to gather for 2 days of content, collaboration, and conversation.
 
 We have a few reminders before we welcome you all next week:
 
@@ -32,6 +32,8 @@ Welcome Wagon guide and platform tour
 
 Each year we create a guide to help our attendees get the most out of the conference.
 Following the success of last year's conferences and based on your feedback, we expanded `our Welcome Wagon guide <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/welcome-wagon/>`_ to help you get the most out of our event this year.
+
+Check out the `Schedule page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/>`_ for exact time and locations.
 
 All our events and activities
 -----------------------------

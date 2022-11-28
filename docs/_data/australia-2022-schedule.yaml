@@ -34,8 +34,6 @@ talks_day1:
     title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: let-s-bring-science-into-technical-writing-lana
-  - duration: '0:05'
-    title: '⏲ 5 minute break'
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
   - duration: '0:00'

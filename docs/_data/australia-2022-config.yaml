@@ -156,6 +156,7 @@ sponsors:
     - name: atlassian
       link: https://www.atlassian.com/
       brand: Atlassian
+      width: 550px
   second:
     - name: knowledgeowl
       link: https://www.knowledgeowl.com
