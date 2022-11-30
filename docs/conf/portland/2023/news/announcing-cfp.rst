@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Nov 29, 2022
+.. post:: Dec 01, 2022
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Announcing Venue and Call for Proposals
@@ -34,6 +34,11 @@ It also has *outdoor seating* and a *city park* directly on the property for ple
 
 .. _Revolution Hall: https://www.revolutionhall.com/about/
 .. _thriving inner east side: https://goo.gl/maps/AwSBqVPtrDR2
+
+Health and safety policy
+-------------------------
+
+As part of returning to an in-person conference, we're also introducing a new and more detailed :doc:`health and safety policy </conf/{{shortcode}}/{{year}}/health/>`.
 
 Call for Proposals
 ------------------
