@@ -33,7 +33,7 @@ Questions to ask
 - Do you prefer to work in a *What You See Is What You Get* environment (WYSIWYG) or do you like using a text editor so formatting doesn't get in the way of writing?
   Whichever you prefer, you still need a way to preview your content as you draft to make sure it turns out as expected.
   Plan for some kind of staging area for yourself and other reviewers.
-- How do you plan to handle subject matter expert reviews before publication?h
+- How do you plan to handle subject matter expert reviews before publication?
   Some tools require a separate license for each reviewer.
   Others will require that you train some reviewers on how to use tools that might be new to them.
 - Is there a support portal already in place (Zendesk, Freshdesk, Salesforce Service, or the like)? 
