@@ -36,7 +36,7 @@ In lieu of proof of vaccination, participants may instead show proof of a negati
 
 * Provide a negative COVID-19 test upon entry to the event for the first time.
 * The test must be a PCR, NAAT, or Antigen test taken within 48 hours of picking up your badge on-site.
-* The test may NOT be an unproctored at-home test. Tests must be administered by a verified provider, either locally in Vancouver or virtually before you travel from your home city (if time permits).
+* The test may NOT be an unproctored at-home test. Tests must be administered by a verified provider, either locally in Portland or virtually before you travel from your home city (if time permits).
 * The test results must include your name and the date and time of the test.
 
 If you are unable to take a test before the event, we will have a rapid test on-site for you to use to gain entry.
