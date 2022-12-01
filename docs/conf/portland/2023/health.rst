@@ -6,7 +6,7 @@ Health and Safety Policy
 This policy is up to date as of **November 2022**.
 **If we change this policy,
 it will only be to introduce additional restrictions, 
-and we will not be removing requirements from this policy.**
+and we will not be removing requirements.**
 
 .. contents::
     :local:
