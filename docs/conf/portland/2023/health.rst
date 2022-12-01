@@ -28,7 +28,7 @@ If you are showing proof of vaccination to attend in person, you will need to sh
 
 The following are acceptable forms of proof of full vaccination:
 
-* Government-issued or government-compliant digital vaccination verification app (such as Clear or VaxYes)
+* Government-issued or government-compliant digital vaccination verification app
 * Physical (or digital photocopy of) COVID-19 vaccination card, record, or certificate issued by a government agency, public health agency, or other authorized vaccine provider (a photo will also suffice).
 
 The proof of vaccination record must show the name of the vaccinated individual along with one other personal identifier (such as date of birth or passport number), name of the manufacturer for vaccine received, and date(s) of vaccination. It must also include the name of the official source issuing the record (e.g., public health agency, government agency, or other authorized vaccine provider).
