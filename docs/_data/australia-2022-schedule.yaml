@@ -20,11 +20,9 @@ talks_day1:
     title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: chaos-to-contained-how-a-content-project-can-lead-to-better-content-bau-claire-mahoney
-  - duration: '0:05'
-    title: '⏲ 5 minute break'
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
-  - duration: '0:20'
+  - duration: '0:25'
     title: '☕️ Coffee break'
   - duration: '0:20'
     title: Lightning Talks (20 mins)
@@ -36,16 +34,14 @@ talks_day1:
     title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: let-s-bring-science-into-technical-writing-lana
-  - duration: '0:05'
-    title: '⏲ 5 minute break'
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
   - duration: '0:00'
     title: Day 1 wraps up
-  - time: '18:00'
+  - time: '17:30'
     title: "<b>Social Event</b>"
-  - time: '20:00'
-    title: "<b>Social Event Ends</b>"
+  - time: '19:30'
+    title: "<b>Social Event ends</b>"
 
 talks_day2:
   - time: '8:30'
@@ -75,7 +71,7 @@ talks_day2:
     title: ⚡️ Lightning Talks (20 mins)
   - duration: '0:05'
     title: '⏲ 5 minute break'
-  - duration: '0:30'
+  - duration: '0:25'
     slug: interviewing-a-technical-writer-candidate-ishara-ilangasinghe
   - duration: '0:05'
     title: '⏲ 5 minute break'

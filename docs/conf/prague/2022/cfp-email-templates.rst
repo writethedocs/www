@@ -272,11 +272,11 @@ Subject:
 
    We'll be publishing the videos at some point this week or next, keep an eye on Twitter, Slack or the mailing list for those.
 
-   We'd love to know how you found the whole process, from A to Z so we can improve next time. To that end we've got an anonymous (keep in mind that there aren't so many speaks) feedback form for you here:
+   We'd love to know how you found the whole process, from A to Z so we can improve next time. To that end we've got an anonymous (keep in mind that there aren't many speakers) feedback form for you here:
 
    ○ [Speaker feedback form]({{cfp_variables['feedback_form']}})
 
-   Finally, as is tradition at our in person events, we'd love to send you a free WTD speaker hoodie and sketchnote print of your talk, please fill in the form before {{cfp.gifts_by}}.
+   Finally, as is tradition at our in person events, we'd love to send you a free WTD speaker hoodie and sketchnote print of your talk, please fill in the form *within two weeks* of the end of the conference so we can mail things out in one go.
 
    ○ [Speaker gift form]({{cfp_variables['speaker_gift_form']}})
 
