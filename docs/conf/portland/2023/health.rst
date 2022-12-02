@@ -37,7 +37,7 @@ If you are not sure whether your vaccination certificate is eligible, please ema
 
 **Negative COVID-19 Test** **Requirement**
 
-In lieu of proof of vaccination, participants may instead show proof of a negative COVID-19 test administered by a verified provider to enter the event.
+Instead of proof of vaccination, participants may show proof of a negative COVID-19 test administered by a verified provider, to enter the event.
 
 * Provide a negative COVID-19 test upon entry to the event for the first time.
 * The test must be a PCR or NAAT test taken within 72 hours of picking up your badge on-site, or an Antigen test taken within 24 hours.

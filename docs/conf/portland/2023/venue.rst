@@ -6,7 +6,7 @@ Our Venue: Revolution Hall
 Our conference will be held at `Revolution Hall`_. 
 It is a beautiful concert venue located on the thriving inner east side of Portland.
 It was converted from a high school,
-and still have some lockers in the hallway for that extra learning ambiance.
+and still has some lockers in the hallway for that extra ambiance.
 
 .. image:: /_static/conf/images/pics/rev-hall-outside.jpg
 

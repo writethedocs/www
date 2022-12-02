@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Dec 01, 2022
+.. post:: Dec 02, 2022
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Announcing Venue and Call for Proposals
