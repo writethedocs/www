@@ -119,7 +119,7 @@ You can bring a writing project you want to work on, or you can contribute to a 
 Unconference
 ------------
 
-- The Unconference is a set of informal sessions that take place all day Monday and Tuesday afternoon. `Unconference talks focus on conversations and exchanges of ideas between participants. <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/unconference/>`__
+- The Unconference is a set of informal sessions that take place in the afternoon both days (Thursday and Friday). `Unconference talks focus on conversations and exchanges of ideas between participants. <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/unconference/>`__
 - You can attend unconference sessions, or, if you have an idea for a session, you can lead one. Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
 
 Lead an unconference session
@@ -148,10 +148,10 @@ Join an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 {% if flaghasschedule %}
-- Starting Monday morning, check the `Unconference schedule <{{unconf.url}}>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
+- Starting Thursday morning, check the `Unconference schedule <{{unconf.url}}>`__ to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
 - At the time the session starts, go to **Sessions** and select the session with the table number that corresponds to the one in the `Unconference schedule <{{unconf.url}}>`__.
 {% else %}
-- Starting Monday morning, check the Unconference schedule to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
+- Starting Friday morning, check the Unconference schedule to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
 - At the time the session starts, go to **Sessions** and select the session with the table number that corresponds to the one in the Unconference schedule.
 {% endif %}
 - The session leader will begin when the group has gathered.
@@ -164,23 +164,15 @@ Lightning talks
 - Watch the conference chat and **Reception** for an announcement that Lightning Talk sign-ups have opened and for directions on how to sign up.
 - If you are selected to speak, one of the Organisers will contact you with more information.
 
-Job Fair
---------
-
-- The Job Fair takes place on Tuesday morning. Each company attending the Job Fair will have their own Session table. To view the Job Fair participants and booths, go to **Expo**.
-- Once you are in the session, check out the pinned message to review job and company information.
-- If you want to start a conversation with someone at the session, go to the **Chat** tab, make sure the **Expo** toggle is on, and ask your question. You can set up 1:1 conversations using chat or video, too.
-- Remember, there might be multiple people starting conversations, so there could be a wait.
-
 Sponsor booths
 --------------
 
 Select **Expo** to view Sponsor booths. Sponsors might have videos you can watch, information to review on the **Booth** tab, and people you can talk to on the **Chat** tab. Visiting Sponsor booths is a great way to make connections!
 
-Monday social
+Thursday social
 -------------
 
-The Monday night Social will be designed by you this year! You can host a session and meet fellow attendees for a video social event or you can attend a social event set up by someone else.
+The Thursday night Social will be designed by you this year! You can host a session and meet fellow attendees for a video social event or you can attend a social event set up by someone else.
 
 Attend a social event
 ~~~~~~~~~~~~~~~~~~~~~
@@ -220,7 +212,7 @@ Direct message Chat
 - To filter for Organisers or Speakers, select the **Filter** icon.
 - You can toggle between viewing **People** (a list of attendees) and **Messages** (a list of the messages you sent and received).
 
-Event and conference-wide Chat
+Event and conference-wide chat
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - When you chat on any of the main pages (Reception, Sessions, Networking, and Expo, you are chatting *the entire conference*.
