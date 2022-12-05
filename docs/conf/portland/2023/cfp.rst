@@ -3,7 +3,9 @@
 Call for Proposals
 ==================
 
-Hello hello, fellow documentarians! It's that time of year again: We’re very excited to announce that we are now accepting talk proposals for our next {{ city }} conference, coming up on {{date.main}}. The conference is virtual, so you can speak or attend from anywhere. We will use regular {{ city }} conference times for the scheduling.
+It's that time of year again: We’re now accepting talk proposals for our next **in-person** {{ city }} conference, coming up on {{date.main}}.
+
+As part of returning to an in-person conference, we're also introducing a new and more detailed :doc:`health and safety policy </conf/{{shortcode}}/{{year}}/health/>`. (If you'd prefer not to attend an in-person event due to COVID-19 or any other reason, keep an eye out for `Atlantic`_ held online between the CEST and EDT timezones).
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you!
 Read on to learn more about the goals of the conference and what we look for in talk proposals.
@@ -11,7 +13,7 @@ Read on to learn more about the goals of the conference and what we look for in 
 {% if flagcfp %}
 In the meantime, mark your calendars:
 
-**The deadline for submitting proposals is Midnight {{tz}} on {{cfp.ends}}.**
+**The deadline for submitting proposals is 11:59 PM {{tz}} on {{cfp.ends}}.**
 
 We'll let you know if your proposal has been accepted by the end of {{cfp.notification}}.
 {% else %}
@@ -32,7 +34,7 @@ You can do that here:
 
     <div class="announcement" style="background-color:white;">
         <div class="uk-container">
-        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}">Submit your proposal</a>
+        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}" target="_blank">Submit your proposal</a>
         </div>
     </div>
 
@@ -62,11 +64,14 @@ We welcome talks from first-time speakers, from industry experts, and from every
 Whatever your background and experience, we prefer hearing about new approaches rather than about tried-and-tested technology.
 We especially welcome talks from underrepresented groups within the tech community.
 We want to hear a variety of viewpoints, so we limit speakers to two talks in any four year period at each location.
+That said, we do strongly prefer talks written and given by a single speaker, and if you're planning to submit with a co-speaker, please let us know why you're doing so.
+
 If you're a WTD conference organizer, please only submit talks to conferences you're not actively organizing.
+
 
 **Mix of roles and perspectives**
 
-Talks from the scientific community, fiction writers, system administrators, and support staff – in addition to technical writers and software developers – are all valuable to our attendees.
+Talks from the scientific community, fiction writers, system administrators, and support staff – in addition to technical writers and software developers – are all valuable to our attendees.
 
 **Diverse audience**
 
@@ -130,33 +135,32 @@ If you need a hand preparing or honing your talk proposal, there are lots of goo
 * **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `http://slack.writethedocs.org/ <http://slack.writethedocs.org/>`_.)
 * **Twitter hivemind** – If Twitter is more your speed, `#writethedocs <https://twitter.com/hashtag/writethedocs>`__ will get you there.
 
-Because the conference is virtual this year, there is no need for travel, and we're hoping this will make our CFP accessible to more documentarians. We will also provide resources and support for recording your talk.
-
 Selection process
 ------------------
 
 We have a small panel of proposal reviewers, and make sure to have a similar diversity in the panel as we're aiming for in our speakers.
 We rate talks out of five, and then discuss the top rated proposals.
 
-We actively balance for diversity in as many ways as we can, which means that we do not review talks anonymously. Maybe one day the industry will be in a place where can do that, but we're certainly not there yet.
+We actively balance for diversity in as many ways as we can, which means that we do not review talks anonymously. Maybe one day the industry will be in a place where can do that, but we're not there yet.
 
 Presentation format
 -------------------
 
-Presentations will be scheduled in 30-minute blocks. As the conference is virtual, all talks will be pre-recorded. We will offer resources and support for making your talk recording. After your talk, there will be a live Q&A session. You can opt out of the Q&A if you do not feel comfortable, but please let us know well in advance.
+Presentations will be scheduled in 30-minute blocks, delivered **in-person, on-stage, live**.
 
 Speaker benefits & logistics
 ----------------------------
 
-If you are selected to speak at Write the Docs, we will waive your attendance fee. As the conference is virtual, there are no travel costs.
+If you are selected to speak at Write the Docs, we will waive your attendance fee.
 If speaking incurs any costs that are difficult for you to cover, please `let us know <mailto:{{email}}>`_ and we'll do our best to help out.
 
 If you already have a ticket, we will of course refund it - just drop us an email at `{{email}} <mailto:{{email}}>`_.
 
 {% if flagcfp %}
-**You’ll hear from us with our proposal decisions by the end of {{cfp.notification}}.**
 
-All talks will be shown prerecorded, and we'll be asking for a **completed video from you by {{cfp.video_by}}**. We have a host of options to support you in making this happen, including the possibility of a live recording call with our videographer. During the conference we'll ask you to participate in a moderated Q&A video session after your talk recording is shown.
+**You'll hear from us with our proposal decisions by the end of {{cfp.notification}}**.
+
+**You'll be delivering your talk live, in-person in Portland, Oregon**.
 
 {% endif %}
 
@@ -183,8 +187,16 @@ Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx accoun
 
     <div class="announcement" style="background-color:white;">
         <div class="uk-container">
-        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}">Submit your proposal</a>
+        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}" target="_blank">Submit your proposal</a>
         </div>
     </div>
 
 {% endif %}
+
+.. _Atlantic:
+
+Write the Docs Atlantic, online September 2023
+----------------------------------------------
+
+If you want to speak at Write the Docs, but can't or don't want to attend an in-person event, keep an eye out for Write the Docs Atlantic, coming in September 2023.
+This conference will entirely virtual, between the CEST and EDT timezones, so you can present or attend from anywhere.
