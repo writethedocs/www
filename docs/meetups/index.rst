@@ -74,7 +74,6 @@ Current Meetups: Quorum North America East / Central
 
 Several meetups are members of the Quorum North America East group:
 
-* Atlanta
 * Austin
 * Detroit / Windsor
 * Florida
