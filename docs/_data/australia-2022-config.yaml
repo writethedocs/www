@@ -30,14 +30,14 @@ buttons:
     #   link: /welcome-wagon
     # - text: See the Schedule!
     #   link: /schedule
-     - text: Buy a Ticket!
-       link: /tickets
+    # - text: Buy a Ticket!
+    #   link: /tickets
      - text: See the talks!
        link: /speakers
  #    - text: See the Schedule!
  #      link: /schedule
- #    - text: Read our guide
- #      link: /welcome-wagon
+     - text: Read our guide
+       link: /welcome-wagon
     # - text: Watch the Live Stream
     #   link: /livestream
     # - text: Browse the photos
@@ -177,12 +177,12 @@ unconf:
 flaglanding: False
 flaghassponsors: True
 flagcfp: False
-flagticketsonsale: True
+flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: True
-flaghasunconf: False
+flaghasunconf: True
 flaghasshirts: True
 flagvideos: False
 flaglivestreaming: False
