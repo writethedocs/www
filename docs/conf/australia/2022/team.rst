@@ -40,6 +40,12 @@ Felicity Brand
 
 {% include "bios/felicity.rst" %}
 
+Jennifer Appleby
+~~~~~~~~~~~~~~~~~~
+
+{% include "bios/jenniferau.rst" %}
+
+
 
 Primary Roles
 -------------

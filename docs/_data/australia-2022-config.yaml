@@ -30,14 +30,14 @@ buttons:
     #   link: /welcome-wagon
     # - text: See the Schedule!
     #   link: /schedule
-     - text: Buy a Ticket!
-       link: /tickets
+    # - text: Buy a Ticket!
+    #   link: /tickets
      - text: See the talks!
        link: /speakers
  #    - text: See the Schedule!
  #      link: /schedule
- #    - text: Read our guide
- #      link: /welcome-wagon
+     - text: Read our guide
+       link: /welcome-wagon
     # - text: Watch the Live Stream
     #   link: /livestream
     # - text: Browse the photos
@@ -57,10 +57,10 @@ buttons:
     #   link: /news/announcing-virtual-conf-dates-tickets
     # - text: See the talks!
     #   link: /speakers
-     - text: Buy a Ticket!
-       link: /tickets
- #    - text: Read our guide
- #      link: /welcome-wagon
+    # - text: Buy a Ticket!
+    #   link: /tickets
+     - text: Read our guide
+       link: /welcome-wagon
  #    - text: See the schedule!
  #      link: /schedule
     # - text: Watch the Live Stream
@@ -125,7 +125,7 @@ date: # how do we handle these? human readable would be nice.
 about:
   attendees: 150
   summary:
-    "The main presentation track takes place during **December 8-9 (Thursday and Friday) from 10:00am to 4:00pm AEDT**.
+    "The main presentation track takes place during **December 8-9 (Thursday and Friday) from 1:00pm to 4:30pm AEDT**.
     During the main event we also run an :doc:`/conf/australia/2022/unconference`."
 
   social_venue: Spatial chat platform
@@ -177,12 +177,12 @@ unconf:
 flaglanding: False
 flaghassponsors: True
 flagcfp: False
-flagticketsonsale: True
+flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: True
-flaghasunconf: False
+flaghasunconf: True
 flaghasshirts: True
 flagvideos: False
 flaglivestreaming: False
