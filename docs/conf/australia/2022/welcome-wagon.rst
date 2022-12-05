@@ -117,7 +117,7 @@ You can bring a writing project you want to work on, or you can contribute to a 
 - Here’s the `2019 Writing Day Project list that you can use as a guide <https://www.writethedocs.org/conf/{{ shortcode }}/2019/writing-day/>`__.
 
 Unconference
-------------
+-------------
 
 - The Unconference is a set of informal sessions that take place in the afternoon both days (Thursday and Friday). `Unconference talks focus on conversations and exchanges of ideas between participants. <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/unconference/>`__
 - You can attend unconference sessions, or, if you have an idea for a session, you can lead one. Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
@@ -157,7 +157,7 @@ Join an unconference session
 - The session leader will begin when the group has gathered.
 
 Lightning talks
----------------
+----------------
 
 - A Lightning Talk is a five-minute talk where you quickly share a concept or bit of info you find interesting. Lightning talks are a great way to practice public speaking, get people excited about your Unconference session, and test interest in a conference proposal idea.
 - If you are interested in giving a lightning talk, be prepared! There is a great guide `here <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/lightning-talks/?highlight=re>`__.
@@ -165,12 +165,12 @@ Lightning talks
 - If you are selected to speak, one of the Organisers will contact you with more information.
 
 Sponsor booths
---------------
+---------------
 
 Select **Expo** to view Sponsor booths. Sponsors might have videos you can watch, information to review on the **Booth** tab, and people you can talk to on the **Chat** tab. Visiting Sponsor booths is a great way to make connections!
 
 Thursday social
--------------
+----------------
 
 The Thursday night Social will be designed by you this year! You can host a session and meet fellow attendees for a video social event or you can attend a social event set up by someone else.
 
@@ -191,7 +191,7 @@ If you have an idea for a social event, find an empty table in the `sign-up shee
 - Silly hats/furry friends meetup
 
 Networking
-----------
+-----------
 
 Add info to your profile
 ~~~~~~~~~~~~~~~~~~~~~~~~
