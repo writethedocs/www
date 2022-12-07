@@ -88,6 +88,7 @@ Other media
 
 Including videos, diagrams, and screenshots.
 
+- |:newspaper:| `When to create screenshots </blog/newsletter-december-2022/#when-to-create-screenshots>`__
 - |:newspaper:| `Is written content outdated - and is it time for video? </blog/newsletter-may-2022/#is-written-content-outdated-and-is-it-time-for-video>`__
 - |:newspaper:| `Command prompts in docs </blog/newsletter-october-2020/#command-prompts-in-docs>`__
 - |:newspaper:| `Tips for creating quality screenshots </blog/newsletter-may-2020/#tips-for-creating-quality-screenshots>`__
@@ -662,6 +663,7 @@ Working with writers
 
 Including review, editing, and teaching.
 
+- |:newspaper:| `Getting it right: Constructive criticism </blog/newsletter-december-2022/#getting-it-right-constructive-criticism>`__
 - |:newspaper:| `What’s in a good reviewer’s guide? </blog/newsletter-july-2022/#what-s-in-a-good-reviewer-s-guide>`__
 - |:movie_camera:| `Code Cowpokes and Word Wranglers: from Mutual Admiration to Solidarity </videos/portland/2022/code-cowpokes-and-word-wranglers-from-mutual-admiration-to-solidarity-erin-dees/>`__
 - |:movie_camera:| `The Pains of Composition: How to write your best documentation in a collaborative world </videos/australia/2020/the-pains-of-composition-how-to-write-your-best-documentation-in-a-collaborative-world-matt-reiner/>`__
@@ -699,6 +701,7 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
+- |:newspaper:| `Push vs. pull for docs work </blog/newsletter-december-2022/#push-vs-pull-for-docs-work>`__
 - |:newspaper:| `Improving communication about what's in releases </blog/newsletter-september-2022/#improving-communication-about-what-s-in-releases>`__
 - |:movie_camera:| `Documentation as Marketing? From Conflict to Collaboration </videos/prague/2022/documentation-as-marketing-from-conflict-to-collaboration-mano-toth/>`__
 - |:movie_camera:| `Collaborating with teams on content strategy planning: pitfalls and best practices </videos/portland/2020/collaborating-with-teams-on-content-strategy-planning-pitfalls-and-best-practices-kateryna-osadchenko/>`__
