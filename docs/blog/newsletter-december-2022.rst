@@ -5,11 +5,11 @@
 Write the Docs Newsletter – December 2022
 #########################################
 
-Hello to all the lovely documentarians out there. The end of the year is approaching, which is a wonderful time to reflect on all the things we've done in 2022. And on what to look forward to for next year. I hope your personal list of accomplishments is long and your list of remaining things to do isn't quite as daunting as mine.
+Hello, lovely documentarians. The end of the year is approaching, which is a wonderful time to reflect on all the things we've done in 2022. And to reflect on what to look forward to for next year. I hope your personal list of accomplishments is long and your list of remaining things to do isn't quite as daunting as mine.
 
 This year, Write the Docs has already organized two conferences and is in the process of a third, the `Write the Docs Australia conference </conf/australia/2022/>`__. The new ideas may already be flowing there by the time you read this. And there's still time to contribute to the `2022 salary survey <https://salary-survey.writethedocs.org/>`__. The results from the survey are always helpful in understanding our industry and each of our places in it.
 
-Looking forward at next year, a `venue has been chosen and more details settled for the Portland conference <https://www.writethedocs.org/conf/portland/2023/news/announcing-cfp/>`__. The conference will once again be in person. If you have ideas you'd like to share, the `Call for Proposals <https://www.writethedocs.org/conf/portland/2023/cfp/>`__ is open until the beginning of February. The call is open to documentarians of all stripes, so don't be afraid to send in your proposal.
+Looking forward at next year, a `venue has been chosen and more details settled for the Portland conference <https://www.writethedocs.org/conf/portland/2023/news/announcing-cfp/>`__. The conference will once again be in person. If you have ideas you'd like to share, the `Call for Proposals <https://www.writethedocs.org/conf/portland/2023/cfp/>`__ is open until the beginning of February. The call is open to documentarians of all stripes, so don't be afraid to send in your proposal. If you can't make it to Portland, keep an eye out in the new year for the Call for Proposals for the Atlantic conference, which will be entirely virtual.
 
 We'll be taking a break from the newsletter in January, but we'll be back with more insights from the community in February. If you might want to help with this knowledge sharing, we're looking for someone to join the newsletter team. Ping me at `@Aaron Collier` on Slack if you're interested.
 
@@ -49,9 +49,9 @@ Finally, the work isn’t all on your side: the reviewee needs to be open to fee
 When to create screenshots
 --------------------------
 
-Best practices for creating and managing screenshots aren’t always the clearest. Moreover, because of the overhead of maintaining screenshots and the potential accessibility concerns they present, many people avoid creating them despite the benefit they can provide. Still, even with the shared aversion, sometimes screenshots are helpful or even necessary.
+Best practices for creating and managing screenshots aren’t always the clearest. With the overhead of maintaining screenshots and the potential accessibility concerns they present, many people avoid creating them despite the benefit they can provide. Still, even with the shared aversion, sometimes screenshots are helpful or even necessary.
 
-When determining what to capture in a screenshot, be selective to keep maintenance low. For example, avoid capturing the entire screen when only a small region is enough to help orient users. You might also focus more on screenshotting a conceptual flow. Even consider the screenshot’s value. Is the text already clear or will the screenshot make a procedure more understandable?
+When determining what to capture in a screenshot, be selective to keep maintenance low. For example, avoid capturing the entire screen when only a small region is enough to help orient users. You might also focus more on screenshots to visualize a conceptual flow. Even consider the screenshot’s value. Is the text already clear or will the screenshot make a procedure more understandable?
 
 If visuals are necessary, tools such as `Snagit <https://www.techsmith.com/screen-capture.html>`__ can help you capture screenshots and record videos quickly and powerfully. Or use a service like `Screenshow <https://screenshow.io/>`__ to help you manage visual content. 
 
