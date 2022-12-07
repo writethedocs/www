@@ -7,7 +7,7 @@ Announcing Venue and Call for Proposals
 =======================================
 
 Today we are announcing our new Portland conference venue. 
-The needs of our conference have changed over the years, and have decided to move to a lovely new space in Portland. 
+The needs of our conference have changed over the years, and we have decided to move to a lovely new space in Portland. 
 We're also excited to announce our Portland `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_.
 
 Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
@@ -19,7 +19,7 @@ Our new venue: Revolution Hall
 Our Portland conference will be held at `Revolution Hall`_. 
 It is a beautiful concert venue located on the `thriving inner east side`_ of Portland.
 It was converted from a high school,
-and still have some lockers in the hallway for that extra learning ambiance.
+and still has some lockers in the hallway for that extra learning ambiance.
 
 .. image:: /_static/conf/images/pics/rev-hall-outside.jpg
 
@@ -60,7 +60,7 @@ Write the Docs Atlantic, online September 2023
 ----------------------------------------------
 
 If you want to speak at Write the Docs, but can't or don't want to attend an in-person event, keep an eye out for Write the Docs Atlantic, coming in September 2023.
-This conference will entirely virtual, in a timezone that works for as many people as possible, so you canm present or attend from anywhere.
+This conference will be entirely virtual, in a timezone that works for as many people as possible, so you can present or attend from anywhere.
 
 Tickets
 -------
