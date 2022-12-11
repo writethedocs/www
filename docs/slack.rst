@@ -49,10 +49,21 @@ Here are a few ways to preserve what you've learned for yourself and others:
 .. admonition:: Why we don't pay for Slack
    :class: note
 
-   The Write the Docs Slack community is free-to-access and we aim to keep it that way.
-   A Slack subscription is prohibitively expensive—over $10,000 per month—for a community like ours.
+   The Write the Docs Slack community is free to access and we aim to keep it that way.
+   A Slack subscription is prohibitively expensive—over $10,000 per month—for a community as large as ours.
    Even if we had such resources, upgrading Slack is not a priority
    and many people feel a freedom in knowing that their words will disappear shortly.
+
+Why not use a tool like Discord?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In related discussions, people sometimes ask about moving the community to a different tool, like Discord, so we can access more chat history. 
+We haven't considered that for a few reasons:
+
+- Because Write the Docs is a work-related community, a lot of people access it from their work computers, and often use it alongside their professional Slack instances.
+  Conversely, many organizations restrict social media sites like Discord on their devices.
+- Our community has a *lot* of people in it - we're coming up on 20,000 registered members.
+  It's hard to move an active community that large to a different platform, especially people who aren't around very often.
 
 Autoresponders
 --------------
@@ -86,6 +97,10 @@ We have some helpful Slackbot responses that you can summon in any channel, at a
 * ``?history``
 
   - Returns the answer for one of our most frequently asked questions: why you can't access the full chat history in the Write the Docs Slack.
+
+* ``?discord``
+
+  - Returns the answer for one of our most common follow-up questions: why we don't move to a different tool like Discord.
 
 Channel guide
 -------------
