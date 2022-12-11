@@ -32,23 +32,23 @@ buttons:
     #   link: /schedule
     # - text: Buy a Ticket!
     #   link: /tickets
-     - text: See the talks!
-       link: /speakers
+    # - text: See the talks!
+    #   link: /speakers
  #    - text: See the Schedule!
  #      link: /schedule
-     - text: Read our guide
-       link: /welcome-wagon
+    # - text: Read our guide
+    #   link: /welcome-wagon
     # - text: Watch the Live Stream
     #   link: /livestream
-    # - text: Browse the photos
-    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-    # - text: Watch the videos!
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+     - text: See the sketchnotes
+       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720304378693
+     - text: Watch the videos!
+       link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
   bottom:
   #   - text: Welcome to our conference
   #     link: /news/welcome
-     - text: Sponsor the conference
-       link: /sponsors/prospectus
+  #   - text: Sponsor the conference
+  #     link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
     # - text: See the Schedule!
@@ -59,16 +59,16 @@ buttons:
     #   link: /speakers
     # - text: Buy a Ticket!
     #   link: /tickets
-     - text: Read our guide
-       link: /welcome-wagon
+    # - text: Read our guide
+    #   link: /welcome-wagon
  #    - text: See the schedule!
  #      link: /schedule
     # - text: Watch the Live Stream
     #   link: /livestream
     # - text: Browse the photos
     #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-    # - text: Watch the videos!
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+     - text: Watch the videos!
+       link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
 
 tickets:
   corporate:
@@ -184,9 +184,9 @@ flagrunofshow: False
 flaghasschedule: True
 flaghasunconf: True
 flaghasshirts: True
-flagvideos: False
+flagvideos: True
 flaglivestreaming: False
-flagpostconf: False
+flagpostconf: True
 flagcancelled: False
 
 # Truthy things that don't change
