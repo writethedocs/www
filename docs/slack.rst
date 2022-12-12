@@ -58,7 +58,7 @@ Why not use a tool like Discord?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In related discussions, people sometimes ask about moving the community to a different tool, like Discord, so we can access more chat history. 
-We haven't considered that for a few reasons:
+We considered that, and decided not to for the following reasons:
 
 - Because Write the Docs is a work-related community, a lot of people access it from their work computers, and often use it alongside their professional Slack instances.
   Conversely, many organizations restrict social media sites like Discord on their devices.
