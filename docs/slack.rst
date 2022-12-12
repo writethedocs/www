@@ -49,10 +49,25 @@ Here are a few ways to preserve what you've learned for yourself and others:
 .. admonition:: Why we don't pay for Slack
    :class: note
 
-   The Write the Docs Slack community is free-to-access and we aim to keep it that way.
-   A Slack subscription is prohibitively expensive—over $10,000 per month—for a community like ours.
+   The Write the Docs Slack community is free to access and we aim to keep it that way.
+   A Slack subscription is prohibitively expensive—over $10,000 per month—for a community as large as ours.
    Even if we had such resources, upgrading Slack is not a priority
    and many people feel a freedom in knowing that their words will disappear shortly.
+
+Other chat platforms (such as Discord)
+--------------------------------------
+
+Write the Docs does not have an official presence on Discord or other chat platforms.
+
+People sometimes ask about moving the community to a different tool, like Discord, so we can access more chat history or benefit from fewer chat accounts to manage.
+We considered that, and decided not to for the following reasons:
+
+- Many workplaces restrict access to social media sites including Discord.
+  Because it's a work-related community, a lot of people access the Write the Docs Slack from their work computers alongside their employers' Slack instances.
+  They often cannot do the same for other chat platforms.
+- Migrating platforms is not a priority for the capacity of our small moderation team.
+  Our community has a *lot* of people in it - we're coming up on 20,000 registered members.
+  Moving an active community that large to a different platform requires a lot of attention that we believe is better spent on other tasks to serve the community.
 
 Autoresponders
 --------------
@@ -86,6 +101,10 @@ We have some helpful Slackbot responses that you can summon in any channel, at a
 * ``?history``
 
   - Returns the answer for one of our most frequently asked questions: why you can't access the full chat history in the Write the Docs Slack.
+
+* ``?discord``
+
+  - Returns the answer for one of our most common follow-up questions: why we don't move to a different tool like Discord.
 
 Channel guide
 -------------
