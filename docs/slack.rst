@@ -54,10 +54,12 @@ Here are a few ways to preserve what you've learned for yourself and others:
    Even if we had such resources, upgrading Slack is not a priority
    and many people feel a freedom in knowing that their words will disappear shortly.
 
-Why not use a tool like Discord?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Other chat platforms (such as Discord)
+--------------------------------------
 
-In related discussions, people sometimes ask about moving the community to a different tool, like Discord, so we can access more chat history. 
+Write the Docs does not have an official presence on Discord or other chat platforms.
+
+People sometimes ask about moving the community to a different tool, like Discord, so we can access more chat history or benefit from fewer chat accounts to manage.
 We considered that, and decided not to for the following reasons:
 
 - Because Write the Docs is a work-related community, a lot of people access it from their work computers, and often use it alongside their professional Slack instances.
