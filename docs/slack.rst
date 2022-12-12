@@ -62,8 +62,9 @@ Write the Docs does not have an official presence on Discord or other chat platf
 People sometimes ask about moving the community to a different tool, like Discord, so we can access more chat history or benefit from fewer chat accounts to manage.
 We considered that, and decided not to for the following reasons:
 
-- Because Write the Docs is a work-related community, a lot of people access it from their work computers, and often use it alongside their professional Slack instances.
-  Conversely, many organizations restrict social media sites like Discord on their devices.
+- Many workplaces restrict access to social media sites including Discord.
+  Because it's a work-related community, a lot of people access the Write the Docs Slack from their work computers alongside their employers' Slack instances.
+  They often cannot do the same for other chat platforms.
 - Our community has a *lot* of people in it - we're coming up on 20,000 registered members.
   It's hard to move an active community that large to a different platform, especially people who aren't around very often.
 
