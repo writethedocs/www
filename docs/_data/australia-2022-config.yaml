@@ -43,7 +43,7 @@ buttons:
      - text: See the sketchnotes
        link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720304378693
      - text: Watch the videos!
-       link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+       link_absolute: https://youtube.com/playlist?list=PLy70RNJ7dYrJB-2yuGw-bTppEDmQr5T56
   bottom:
   #   - text: Welcome to our conference
   #     link: /news/welcome
@@ -68,7 +68,7 @@ buttons:
     # - text: Browse the photos
     #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
      - text: Watch the videos!
-       link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+       link_absolute: https://youtube.com/playlist?list=PLy70RNJ7dYrJB-2yuGw-bTppEDmQr5T56
 
 tickets:
   corporate:
