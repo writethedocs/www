@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 :banner: _static/conf/images/headers/venue.png
 
-.. post:: Dec 19, 2022
+.. post:: Dec 15, 2022
    :tags: recap, thanks, {{year}}, australia-2022
 
 Conference highlights and thanks to the community!
@@ -25,7 +25,7 @@ Lots of knowledge was shared, and we had a great time.
 Videos
 ======
 
-Videos of the talks and lightning talks are now available on `our YouTube playlist <https://www.youtube.com/playlist?list=PLZAeFn6dfHpl2E5JhVd34llZD4a4oAeCo>`__. We also included the Q&A recordings for the main talks.
+Videos of the talks and lightning talks are now available on `our YouTube playlist <https://youtube.com/playlist?list=PLy70RNJ7dYrJB-2yuGw-bTppEDmQr5T56>`__. We also included the Q&A recordings for the main talks.
 
 Thanks again to `Bart at Work <https://www.bartatwork.com/atwork/>`__ for doing such a great job with these. You can also subscribe to our `YouTube channel <https://www.youtube.com/writethedocs>`__ so you don't miss any future content!
 
