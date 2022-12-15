@@ -16,7 +16,7 @@ We're happy to share some of the highlights with you.
 Conference recap
 =================
 
-We had almost one hundred attendees and were happy to see folks come back after the Write The Ddocs Australia team took a year out in 2021. We had the usual mix of main stage and lightning talks, and a social event.
+We had almost one hundred attendees and were happy to see folks come back after the Write The Docs Australia team took a year out in 2021. We had the usual mix of main stage and lightning talks, and a social event.
 We thought everything went pretty smoothly this year; we’re getting pretty good at virtual events!
 
 Overall, we were excited with how our awesome community came together in our virtual venue.
@@ -45,34 +45,6 @@ Shirts still on sale
 If you want a souvenir from this year's conference, our `Write the Docs Australia 2022 Pop-Up Shop <https://shirt.writethedocs.org/>`_ is still open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.
 
 The campaign will run in 3-day batches until December 31st 2022. Shipping is available from the USA or Europe.
-
-Write the Docs Slack
---------------------
-
-Our Slack network has really grown more this last year. Our #general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y’all continue the conversations throughout the year. If you haven’t joined, now is the time! 
-Check out the `Write the Docs Slack`_.
-
-.. _Write the Docs Slack: http://www.writethedocs.org/slack/
-
-Write the Docs Newsletter
--------------------------
-
-Our `monthly newsletter`_ is the other place to keep track of everything that is happening with the community. 
-Subscribe to make sure you hear about all the conferences, meetups, job postings, and summaries of relevant conversations in our Slack.
-
-.. _monthly newsletter: http://writethedocs.org/newsletter/
-
-Local Meetups
--------------
-
-We hope you continue to `build your local or online communities`_ and keep in touch with other documentarians. 
-We have a number of meetups in cities across the country, and if you don’t see your city listed consider `starting`_ a meetup!
-
-New this year are our `Quorum Meetups`_ which are virtual and targeting large geographic areas. There’s already one covering most everyone in the US or in a similar timezone.
-
-.. _build your local or online communities: http://www.writethedocs.org/meetups/
-.. _starting: http://www.writethedocs.org/organizer-guide/meetups/starting/
-.. _Quorum Meetups: https://www.writethedocs.org/meetups/#current-meetups-quorum
 
 Code of Conduct transparency report
 ===================================
@@ -103,10 +75,7 @@ This conference will take place in-person in Portland.
 
 If you cannot make the Portland conference, we have also announced dates for the online `Atlantic conference <https://www.writethedocs.org/conf/atlantic/2023/>`__.
 
-Our Slack network has expanded yet again this year.
-Our #general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that you will continue the conversations throughout the year.
-If you haven't joined, now's the time!
-Check out the `Write the Docs Slack <http://www.writethedocs.org/slack/>`__.
+Around early-mid 2023, we will announce dates and more details for the Australian conference.
 
 We’re also looking for more sponsors to make our other events just as magical as this year’s Australia event.
 You can see all our `sponsorship options <https://www.writethedocs.org/sponsorship/>`__ on our website.
