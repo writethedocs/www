@@ -16,7 +16,7 @@ We're happy to share some of the highlights with you.
 Conference recap
 =================
 
-We had 95 registrations, and were happy to see folks come back after a pause (on this conference) in 2021. We had the usual mix of main stage and lightning talks, and a social event.
+We had almost one hundred attendees and were happy to see folks come back after the Write The Ddocs Australia team took a year out in 2021. We had the usual mix of main stage and lightning talks, and a social event.
 We thought everything went pretty smoothly this year; we’re getting pretty good at virtual events!
 
 Overall, we were excited with how our awesome community came together in our virtual venue.
