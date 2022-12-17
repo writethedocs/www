@@ -32,11 +32,11 @@ Subject:
 
    The Write the Docs {{city}} talk selection committee has finished the review process and we'd love it if you could join us as a speaker!
 
-   Write the Docs {{city}} is held **online {{date.short}}** in {{tz}}.
+   Write the Docs {{city}} {{year}} is back **in person** in {{city}} on **{{date.short}}**.
 
    We think your talk: '{proposal_title}' would be a great fit for the conference. We'd love to have you prepare it for a **30-minute** time slot.
 
-   Please click this link to confirm your attendance:
+   Please click this link to confirm your attendance **in-person**:
 
    ○ {confirmation_link}
 
@@ -54,7 +54,7 @@ Subject:
    * Make sure you plan your talk to fit in the allotted time.
    * Please review our Code of Conduct (http://writethedocs.org/code-of-conduct/) and make sure your talk content adheres to it. As a rule of thumb, if you're on the fence about whether something in your talk could be considered inappropriate or offensive, leave it out. If you have a question about the code, feel free to email us and ask!
 
-   If you're concerned about expenses such as microphones or video cameras, let us know. We do have a budget for speaker expenses, but it can't cover all our speakers.
+   If you're concerned about travel expenses, let us know. We do have a budget for speaker expenses, but it can't cover all our speakers.
    As we confirm your details, we'll publish your abstract, headshot, and information on the conference site. We'll also be emailing attendees so they can share in our excitement about the talks we'll be presenting this year!
 
    Thanks again for submitting your talk, we look forward to seeing you up on the Write the Docs stage! As you share the good news, remember to tag your posts with #writethedocs. And in the meantime, feel free to email us with any questions, concerns, or ideas.
@@ -119,7 +119,7 @@ Subject:
 
    Hi {name},
 
-   Just wanted to drop you all a quick note covering some logistics. Talks are pre-recorded again this year, we'd love to get those recordings from you before {{cfp.video_by}}. We do have a videographer who can help you record remotely, drop us a line if that is something you're interested in. We're finalizing details on the live Q&A for each talk.
+   Just wanted to drop you all a quick note covering some logistics.
 
    ○  I've added some questions to our [CFP tool (Pretalx)]({{cfp.url}}) about your pronouns, interesting facts, name pronunciation, and slack username. Please log in at {{cfp.url}} and answer those (although we'll only need them closer to the event).
 
@@ -174,8 +174,6 @@ Subject:
 
 Upload:
    {{cfp_variables['upload']}}
-Video by:
-   {{cfp.video_by}}
 Slides by:
    {{cfp.slides_by}}
 Provisional schedule:
