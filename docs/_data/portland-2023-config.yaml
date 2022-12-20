@@ -18,8 +18,8 @@ photos:
 
 buttons:
   top:
-    - text: Welcome to our conference
-      link_absolute: /blog/2023-conference-announcements/
+    - text: Read our latest news
+      link_absolute: /blog/website-tickets-cfp-reminder/
   #  - text: Sponsor us
   #    link: /sponsors/prospectus
     - text: Submit a Talk
