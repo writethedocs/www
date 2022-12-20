@@ -30,7 +30,7 @@ If you get into town early, join us on the hike and take the chance to explore P
 
 * **Where**: Lower Macleay Park or Macleay Park Entrance.
 {% if not flaghasschedule %}
-* **When**: **{{ date.day_two.hike_time }} {{ tz }}**
+* **When**: **{{ hike.date }} {{ tz }}**
 {% endif %}
 * **Details**: :doc:`Annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/outing>`
 

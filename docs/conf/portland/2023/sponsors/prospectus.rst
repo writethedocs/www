@@ -198,18 +198,18 @@ Please let us know if there is any information missing that would be useful for 
 Sponsorship schedule
 --------------------
 
-* **SUNDAY**: The conference online platform is open. You are welcome to hang out at your sponsorship booth and attend the Writing Day, but no formal sponsorship events are happening. You're also encouraged to lead a Writing Day project if your documentation is open source.
+* **SUNDAY**: The conference platform is open. You are welcome to hang out at your sponsorship booth and attend the Writing Day, but no formal sponsorship events are happening. You're also encouraged to lead a Writing Day project if your documentation is open source.
 
 * **MONDAY**: The conference platform is open all day from the morning, so we recommend arriving around the time it opens to get the most interaction with attendees. 
 
-* **TUESDAY**: The Job Fair will be on Tuesday morning in the Expo area of the online platform. It will take place in existing sponsorship booths. If you do not have a booth, a temporary booth will be set up for the job fair, and then removed during lunch.
+* **TUESDAY**: The Job Fair will be on Tuesday morning in the Expo area of the platform. It will take place in existing sponsorship booths. If you do not have a booth, a temporary booth will be set up for the job fair, and then removed during lunch.
 
 See the :doc:`full schedule </conf/{{ shortcode }}/{{ year }}/schedule>` for exact timing details.
 
 Sponsorship platform
 --------------------
 
-We will be using `Hopin <https://hopin.to/>`_ as our online conference platform. It has multiple unique spaces for attendees during the conference, and we hope it will allow for a good amount of interaction between attendees and sponsors. The conference platform won't become fully active until the Sunday of the conference.
+We will be using `Hopin <https://hopin.to/>`_ as our conference platform. It has multiple unique spaces for attendees during the conference, and we hope it will allow for a good amount of interaction between attendees and sponsors. The conference platform won't become fully active until the Sunday of the conference.
 
 Sponsorship spaces
 ------------------
