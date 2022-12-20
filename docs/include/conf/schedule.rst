@@ -56,7 +56,7 @@ The Writing Day will be held in our **{{about.venue}}**.
 
 {% if flaghasfood %}
 
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+*Snacks and drinks will be provided all day.*
 
 {% endif %}
 
@@ -109,7 +109,7 @@ We're hoping to have some fun activities planned for the evening online.
 
 {% if flaghasfood %}
 
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+*Snacks and drinks will be provided all day.*
 
 {% endif %}
 
@@ -173,7 +173,7 @@ and bring your favorite beverage to your computer :)
 
 {% if flaghasfood %}
 
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+*Snacks and drinks will be provided all day.*
 
 {% endif %}
 

@@ -154,8 +154,8 @@ about:
     During the main event we also run an :doc:`/conf/portland/2023/unconference`."
 
   social_venue: TBD
-  venue: TBD
-  photos:
+  venue: Revolution Hall
+  photos: TBD
   mainroom: Main stage
   unconfroom: Unconference area
   projector_ratio: "16:9"
@@ -171,9 +171,10 @@ cfp:
 
 unconf:
   url: http://bit.ly/wtd-pdx-2023-ro
+  date: "Monday all day and Tuesday after the job fair"
 
 lightning_talks:
-   signup_url: https://forms.gle/HSf9qvaRC8PVbEhu5
+   # signup_url: https://forms.gle/HSf9qvaRC8PVbEhu5
 
 hike:
   date: Saturday, May 6, 1 PM

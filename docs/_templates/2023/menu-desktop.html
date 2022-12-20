@@ -15,13 +15,12 @@
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/speakers') }}">Speakers</a></li>
                                           {% endif %}
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Schedule</a></li>
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/welcome-wagon') }}">Welcome Wagon</a></li>
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/lightning-talks') }}">Lightning Talks</a></li>
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/unconference') }}">Unconference</a></li>
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/job-fair') }}">Job Fair</a></li>
                                           {% if flaghaswritingday %}
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/writing-day') }}">Writing Day</a></li>
                                           {% endif %}
+                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/lightning-talks') }}">Lightning Talks</a></li>
+                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/unconference') }}">Unconference</a></li>
+                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/job-fair') }}">Job Fair</a></li>
                                           {% if flaghasbadgeflair %}
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/badge-flair') }}">Badge Flair Contest</a></li>
                                           {% endif %}
@@ -31,6 +30,7 @@
                                           {% if flaghasboat %}
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/boat') }}">Boat Ride</a></li>
                                           {% endif %}
+                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/welcome-wagon') }}">Welcome Wagon</a></li>
                                       </ul>
                                   </div>
                               </li>

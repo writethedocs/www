@@ -36,10 +36,15 @@ Why Sponsor
 Sponsorship Packages
 ====================
 
-We have separated our sponsorships into two streams, each one helping you achieve one of the following specific goals:
+We have separated our sponsorships into two primary audiences,
+each one helping you achieve one of the following specific goals:
 
 * Hiring
 * Product promotion
+
+Our largest sponsorship packages offer different benefits based on this.
+We can also customize sponsorships are required,
+so let us know what you need!
 
 Second Draft
 ------------
