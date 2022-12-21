@@ -3,12 +3,6 @@ Unconference sessions create an opportunity for conference attendees to share id
 If you've never attended an unconference, expect to interact closely with others from the community.
 Anyone can suggest and lead a session on a topic -- sessions can be organized around a presentation, a group discussion on a particular problem, or anything in between.
 
-Schedule
---------
-
-Unconference sessions are held all {{ unconf.date }}.
-Exact timing information is available on our :doc:`/conf/{{shortcode}}/{{year}}/schedule` page. 
-
 Leading a session
 -----------------
 
