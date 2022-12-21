@@ -36,7 +36,6 @@ unconf: include('unconf-details', required=False)
 lightning_talks: include('lightning_talks-details', required=False)
 hike: include('hike-details', required=False)
 
-
 flaghassponsors: bool()
 flagcfp: bool()
 flagticketsonsale: bool()
@@ -62,8 +61,6 @@ flaghasboat: bool()
 flaglanding: bool()
 flaghasbadgeflair: bool(required=False)
 flaghasfood: bool(required=False)
-
-
 
 ---
 
@@ -147,7 +144,6 @@ sponsors-details:
   writing_day: list(include('sponsor-detail'), required=False)
   in_kind: list(include('sponsor-detail'), required=False)
 
-
 sponsor-detail:
   name: str(required=True)
   link: str(required=True)
@@ -155,7 +151,6 @@ sponsor-detail:
   text: str(required=False)
   width: str(required=False)
   min_width: str(required=False)
-
 
 about-details:
   summary: str(required=False)
