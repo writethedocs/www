@@ -16,6 +16,7 @@ as well as many other social spaces:
 * The Assembly Lounge where we will be hosting our Unconference discussions
 * The Sunset Room which will be our Quiet room
 * The Library room where our snacks and drinks catering will happen
+* An on-site restaurant and coffee shop!
 
 It also has *outdoor seating* and a *city park* directly on the property for plenty of fresh air and free space.
 
