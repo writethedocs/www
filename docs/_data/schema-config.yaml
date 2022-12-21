@@ -189,6 +189,7 @@ shirts-details:
 
 unconf-details:
   url: str(required=True)
+  date: str(required=False)
 
 hike-details:
   date: str(required=False)
