@@ -219,11 +219,11 @@ We will be using `Hopin <https://hopin.to/>`_ as our conference platform. It has
 Sponsorship spaces
 ------------------
 
-A quick overview of the important spaces in the "venue":
+A quick overview of the spaces in the venue that are important:
 
-* The *Main stage* is where the talks happen. This is also where Lightning talks will be given.
-* The *Sessions area* is where the Writing Day and Unconference will happen.
-* The *Expo area* is where the Job Fair will happen. You can chat in text or video directly with attendees.
+* The *main ballroom* is where talks happen.
+* The *ballroom hallway* is where sponsor booths & swag tables set up.
+* *The unconference room* is across from the main ballroom. This is where the Unconference & Job Fair will happen. 
 
 Sponsorship events
 ------------------
