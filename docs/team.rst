@@ -43,7 +43,7 @@ Joining and leaving teams
 
   Team members
     - Team members serve for a minimum of three months.
-    - Membership renews automatically after joining. To step down from the team, members need to give a 14-day notice to the team lead before the end of the term.
+    - Membership renews automatically after joining. To step down from the team, members need to give a 14-day notice to the team lead before the end of the term. **In case of unexpected change of circumstances such as illness or burnout, team members can pause their membership immediately by notifying their team lead**. 
     - Team membership requirements:
 
       - be an active member of the community for at least one year (online or at events)
@@ -52,8 +52,8 @@ Joining and leaving teams
       - have sufficient English communication skills to perform the role in the teams, (English editorial skills are required in all teams that communicate in an official capacity, such as the Newsletter or Social Media team)
 
   Team leads
-    - Team leads serve for a minimum of one year.
-    - Membership renews automatically after joining. To step down from the team, team leads need to give a 30-day notice to the community board before the end of the term.
+    - Team leads serve for a minimum of one year. 
+    - Membership renews automatically after joining. To step down from the team, team leads need to give a 30-day notice to the community board before the end of the term. **In case of unexpected change of circumstances such as illness or burnout, team leads can pause their membership immediately by notifying the CoreOps team or the community board**.
     - Team lead role requirements:
 
       - be an active member of the community for at least two years (online or at events)
@@ -149,16 +149,22 @@ Members
 Conference teams
 ................
 
-  Responsibilities
+Responsibilities
+~~~~~~~~~~~~~~~~
+
     - Manage their respective conference according to official WTD conference guidelines
     - Prepare and manage conference budgets, schedules, and resources (Web and print)
     - Conference chair (team lead) contracts with local vendors, venues, and services
 
-  Membership
+Membership
+~~~~~~~~~~
+
     - The conference chair appoints team members for each conference
     - Conference-specific roles are defined in `Event Roles <https://www.writethedocs.org/organizer-guide/confs/event-roles/>`__ and are subject to change based on regional requirements
 
-  Team leads (conference chairs)
+Team leads (conference chairs)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
     * `Eric Holscher <https://twitter.com/ericholscher>`_ (Portland)
     * `Sasha Romijn <https://twitter.com/mxsash>`_ (Atlantic)
     * `Swapnil Ogale <https://twitter.com/swapnilogale>`_ (Australia)
@@ -169,11 +175,15 @@ Conference teams
 Slack
 .....
 
-  Responsibilities
+Responsibilities
+~~~~~~~~~~~~~~~~
+
     - Monitor the WTD Slack space and handle CoC issues, rotation 
     - Full team procedures and processes are currently in the process of being finalized in a separate WEP: WEP0002
       
-  Membership
+Membership
+~~~~~~~~~~
+
     - Team members must have some previous experience with CoC handling or community moderation
     - Team members must be active in the WTD Slack space and available for moderation shifts
 
@@ -188,7 +198,9 @@ Slack
 Meetups
 .......
 
-  Responsibilities
+Responsibilities
+~~~~~~~~~~~~~~~~
+
     - Support local and regional meetups 
     - Create and manage meetup.com accounts
     - Assist with CoC escalations from meetup organizers
@@ -197,12 +209,16 @@ Meetups
     - Socialize information around meetups (new meetup topics, speaker ideas)
     - Maintain documentation on starting meetups
 
-  Membership
+Membership
+~~~~~~~~~~
+
     - Previous meetup organization experience preferred but not mandatory
 
 //TODO choose team lead for community board
 
-  Members
+Members
+~~~~~~~
+
     - `Rose Williams <https://twitter.com/ZelWms>`_ 
     - `Alyssa Whipple Rock <https://alyssarock.pro/>`_
 
@@ -212,16 +228,22 @@ Meetups
 Newsletter
 ..........
 
-  Responsibilities
+Responsibilities
+~~~~~~~~~~~~~~~~
+
     - Curate Slack conversations and distill them into brief newsletter stories
     - Write a monthly update on general goings-on in the community
     - Round up any WTD events or meetups for the upcoming month
     - Assemble and publish the monthly newsletter to the mailing list and the website
 
-  Membership
+Membership
+~~~~~~~~~~
+
     - Team members must have English editorial skills
 
-  Members
+Members
+~~~~~~~
+
     * `Aaron Collier <https://github.com/CollierCZ>`_ (team lead)
     * `Hillary Fraley <https://github.com/hillaryfraley>`_
     * `Claire Lundeby <https://twitter.com/clairelundeby>`_
@@ -234,13 +256,16 @@ Newsletter
 Sales and sponsorships
 ......................
 
-  Responsibilities
+Responsibilities
+~~~~~~~~~~~~~~~~
+
     - Serve as the point of contact for the `WTD Job Board <https://jobs.writethedocs.org/>`__
-    - Develop and implement marketing strategies to promote the job board and other job channels for the community
+    - Develop and implement strategies for the job board and other career-related channels for the community
     - Initial point of contact for community sponsorship requests and liaison with conference sponsorship contacts
 
-  Membership
-    - Experience with community moderation or marketing content is strongly preferred
+Membership
+~~~~~~~~~~
+    - Experience with business development, sponsorship management, or fundraising is preferred but not required
 
   Members
     - `Eric Holscher <https://twitter.com/ericholscher>`_ (team lead)
@@ -283,15 +308,21 @@ Members
 Learning resources
 ..................
 
-  Responsibilities
+Responsibilities
+~~~~~~~~~~~~~~~~
+
     - Point of contact for the `Learning Resources <https://www.writethedocs.org/about/learning-resources/>`_  section of the community website
     - Curate and develop new sections and topics
     - Identify new contributors and help them get started 
 
-  Membership
+Membership
+~~~~~~~~~~
+
     - Team members must have English editorial skills
 
-  Members
+Members
+~~~~~~~
+
     - `Eric Holscher <https://twitter.com/ericholscher>`_ (team lead)
     - `Jennifer Rondeau <https://twitter.com/bradamante>`_
 
