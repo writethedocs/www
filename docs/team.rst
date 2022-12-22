@@ -89,7 +89,8 @@ Membership
 - All team leads are included in the community board (no external membership)
 - The CoreOps team moderates the quarterly meetings and curates the quarterly report
     
-  Members
+Members
+~~~~~~~
     - `Mikey Ariel <https://twitter.com/thatdocslady>`_ (board chair)
     - Team leads (including conference chairs)
     - CoreOps team
@@ -189,7 +190,8 @@ Membership
 - Team members must have some previous experience with CoC handling or community moderation
 - Team members must be active in the WTD Slack space and available for moderation shifts
 
-  Members
+Members
+~~~~~~~
 - `Janine Chan <https://www.linkedin.com/in/janinechan/>`_ ``@janine`` (team lead)
 - `Daniel Beck <https://twitter.com/ddbeck>`_ ``@ddbeck``
 - `Ravind Kumar <https://www.linkedin.com/in/ravind-kumar-b4813650/>`_ ``@ravindk-minio``
