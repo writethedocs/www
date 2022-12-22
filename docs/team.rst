@@ -84,10 +84,12 @@ Responsibilities
     - Publish a quarterly transparency report ("meeting minutes") with important updates and any decisions that were made during the quarterly meeting
 
 Membership
+~~~~~~~~~
     - All team leads are included in the community board (no external membership)
     - The CoreOps team moderates the quarterly meetings and curates the quarterly report
     
-  Members
+Members
+~~~~~~~
     - `Mikey Ariel <https://twitter.com/thatdocslady>`_ (board chair)
     - Team leads (including conference chairs)
     - CoreOps team
