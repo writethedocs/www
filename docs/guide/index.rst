@@ -64,6 +64,7 @@ Tools of the Trade
 .. toctree::
    :maxdepth: 2
 
+   choosing-tools
    tools/index
    learn-git-contribute
 

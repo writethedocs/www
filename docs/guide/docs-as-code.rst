@@ -88,7 +88,7 @@ and are gaining adoption in the writing community.
 .. _Swapnil Ogale: https://www.youtube.com/watch?v=FQ7DkPOw3Cc
 .. _Marcia Riefer Johnston and Dave May: https://www.youtube.com/watch?v=Cxuo3udElcE
 
-*Docs as Code* at other Conferences, Video Casts and Articles
+*Docs as Code* at other conferences, video casts and articles
 -------------------------------------------------------------
 
 The approach has been presented at several other conferences or just video casts by different speakers.

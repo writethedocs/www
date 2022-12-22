@@ -62,7 +62,7 @@ Attend a session
 
 {% if flaghasschedule %}
 
-* Starting Monday morning, check the `Unconference sign-up sheet <{{ unconf.url }}>`__ to see whether there are any sessions you want to join. New sessions are added all the time, so check back periodically.
+* Starting Thursday morning, check the `Unconference sign-up sheet <{{ unconf.url }}>`__ to see whether there are any sessions you want to join. New sessions are added all the time, so check back periodically.
 
 {% endif %}
 
