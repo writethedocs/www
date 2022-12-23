@@ -33,7 +33,7 @@ as well as many other social spaces:
 It also has *outdoor seating* and a *city park* directly on the property for plenty of fresh air and free space.
 
 .. _Revolution Hall: https://www.revolutionhall.com/about/
-.. _thriving inner east side: https://goo.gl/maps/AwSBqVPtrDR2
+.. _thriving inner east side: https://goo.gl/maps/7ncFK7Bt6jnouVJt7
 
 Health and safety policy
 -------------------------
