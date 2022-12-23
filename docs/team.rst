@@ -218,7 +218,6 @@ Membership
 
 - Previous meetup organization experience preferred but not mandatory
 
-\\TODO choose team lead for community board
 
 Members
 ~~~~~~~
