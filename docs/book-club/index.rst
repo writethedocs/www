@@ -2,7 +2,7 @@
  Book Club
 ===========
 
-Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel as we read a tech writing adjancent book together.
+Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel as we read a tech writing adjacent book together.
 
 .. contents::
    :local:
