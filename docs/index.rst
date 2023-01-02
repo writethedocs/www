@@ -16,7 +16,6 @@ tech writers, developer advocates, customer support, marketers, and anyone else 
 people to have great experiences with software.
 
 * :doc:`Attend one of our conferences </conf/index>`
-   - :doc:`Australia 2022 </conf/australia/2022/index>`, **December 8-9**, Virtual - AEDT
    - :doc:`Portland 2023 </conf/portland/2023/index>`, **May 7-9**, Portland, Oregon, United States
    - :doc:`Atlantic 2023 </conf/atlantic/2023/index>`, **September 10-12**, Virtual - CEST and EDT
 
