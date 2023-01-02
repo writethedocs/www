@@ -248,7 +248,7 @@ flagrunofshow: False
 flaghasschedule: False
 flagscheduleincomplete: True
 flaghasunconf: True
-flaghasshirts: True
+flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
 flagpostconf: False

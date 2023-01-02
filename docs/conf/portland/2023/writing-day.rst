@@ -17,13 +17,6 @@ Your Project Here
 
 *Send us a pull request or an email and we will add it to this site.*
 
-Write the Docs Meetups
-----------------------
-
-Organizing local Write the Docs meetup communities is a rewarding way to participate.
-During Writing Day, we'll have a table where we can share tips and best practices,
-especially in this time where all of our meetups are virtual.
-
 During the conference
 ---------------------
 

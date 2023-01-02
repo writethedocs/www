@@ -93,10 +93,10 @@ Quiet room
 We will have a clearly marked quiet room available.
 This room is intended to be a calm and quiet place for anyone who needs to have a break from the bustle of the conference, and will not be used for socializing.
 
-Mothers room
+Parents room
 ************
 
-We don't have a dedicated Mothers room but we have the ability to provide a private space for you to do it on request.
+We don't have a dedicated Parents Room but we have the ability to provide a private space for you on request.
 
 Did we miss something?
 **********************

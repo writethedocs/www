@@ -31,6 +31,8 @@ but there are many hotels available in Portland:
 
 Check TripAdvisor to find other hotels and accommodations in the Portland area.
 **Closest**: `The Jupiter Hotel <https://www.jupiterhotel.com/>`_
+
+
 How to get around
 -----------------
 

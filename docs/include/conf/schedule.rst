@@ -91,7 +91,7 @@ We're hoping to have some fun activities planned for the evening online.
 
 * **Where**: {{about.venue}}, {{about.mainroom}}
 {% if not flaghasschedule %}
-* **When**: **{{ date.day_two.reception_time }} {{ tz }}**
+* **When**: **{{ date.day_two.reception_time }} {{ tz }}** (this variable is broken?)
 {% endif %}
 
 {% endif %}
@@ -122,7 +122,7 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
+Talks are around 30 minutes, without on-stage Q&A. We will make sure to include sufficient breaks between talks so that you can chat with the speakers after their talk if you wish to ask them any questions. 
 
 .. separator to fix list formatting
 
@@ -151,13 +151,11 @@ Social Event
 ~~~~~~~~~~~~
 
 The official Write the Docs social!
-Further details will be announced later,
-but expect some music and games,
-and bring your favorite beverage to your computer :)
+Further details will be announced later, but expect a relaxed atmosphere where you can chat and network with your fellow documentarians, with drinks and snacks provided. 
 
 * **Where**: {{ about.social_venue }}
 {% if not flaghasschedule %}
-* **When**: **{{ date.day_three.social_time }} {{ tz }}**
+* **When**: **{{ date.day_three.social_time }} {{ tz }}** (need to change this to in-person schedule)
 {% endif %}
 
 
@@ -186,7 +184,7 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
+Talks are around 30 minutes, without on-stage Q&A. We will make sure to include sufficient breaks between talks so that you can chat with the speakers after their talk if you wish to ask them any questions. 
 
 .. separator to fix list formatting
 
