@@ -127,6 +127,7 @@ date: # how do we handle these? human readable would be nice.
     icon: writing
     dotw: Sunday
     writing_day_time: 9am-5pm
+    reception_time: 5-7pm
   day_three:
     event: Conference Day 1
     date: May 8
@@ -134,7 +135,7 @@ date: # how do we handle these? human readable would be nice.
     dotw: Monday
     talk_time: 9am-5pm
     unconference_time: 9:45am-5pm
-    social_time: 5pm-7pm
+    social_time: 7-9pm
     icon: conference
   day_four:
     event: Conference Day 2

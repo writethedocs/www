@@ -89,9 +89,9 @@ Reception
 We encourage everyone to drop by on Sunday evening for the conference reception.
 We're hoping to have some fun activities planned for the evening online.
 
-* **Where**: {{about.venue}}, {{about.mainroom}}
+* **Where**: {{about.venue}}, {{about.unconfroom}}
 {% if not flaghasschedule %}
-* **When**: **{{ date.day_two.reception_time }} {{ tz }}** (this variable is broken?)
+* **When**: **{{ date.day_two.reception_time }} {{ tz }}** 
 {% endif %}
 
 {% endif %}
