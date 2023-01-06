@@ -1,3 +1,5 @@
+{% if flaghashike %}
+
 Every year we have a conference hike, and at this point it's a fantastic tradition.
 We'll be doing the same hike again this year, because it's the best one easily accessible from downtown Portland.
 
@@ -69,3 +71,5 @@ Finish
 
 On the other side of Hoyt is the `Oregon Zoo <http://www.oregonzoo.org/>`__, where we can take the MAX back to downtown.
 People who wish to stay around in the park or zoo are more than welcome.
+
+{% endif %}
