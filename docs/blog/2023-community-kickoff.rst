@@ -2,12 +2,11 @@
    :tags: stats, year in review, newsletter
    :author: Eric Holscher
 
-Write the Docs Community Kickoff - January 2023
+Write the Docs Community Update - January 2023
 ===============================================
 
 Hey folks, Eric Holscher here, one of the co-founders of Write the Docs.
-I'm here with the traditional January community update,
-which goes out in place of the newsletter. 
+I'm here with our traditional January community update.
 
 We're excited about a lot of things this year,
 but most of all we're excited to see you all again in-person.
@@ -16,7 +15,7 @@ Our 2023 conferences
 --------------------
 
 Thanks to everyone who attended our virtual events in 2022.
-We had wonderful attendance in Portland, Prague, and Australia.
+We had wonderful attendance in all three of our online events, nominally located in Portland, Prague, and Australia.
 We continue to appreciate the warmth and spirit that you bring to our virtual events,
 and look forward to more of it in 2023.
 
@@ -26,21 +25,20 @@ and a new experiment for our virtual event:
 * `Portland <https://www.writethedocs.org/conf/portland/2023/>`_ will be in-person on **May 7-9**.
 * `Atlantic <https://www.writethedocs.org/conf/atlantic/2023/>`_ will be a virtual event, spanning the US and European timezones, on **September 10-12**.
 
-We hope that you'll work with us to make all of our events unique again this year by submitting talks,
-and showing up with your usual enthusiasm and warmth.
+We hope that you'll work with us to make all of our events unique again this year by submitting talks and showing up in person or virtually with your usual enthusiasm and warmth.
 
-Team restructuring
-------------------
+Community teams restructuring
+-----------------------------
 
 There are some changes coming to our teams this year,
-specifically the `CoreOps team <https://www.writethedocs.org/team/#core-operations-coreops>`_ and new `Community board <https://www.writethedocs.org/team/#community-board>`_.
+specifically the `Core Operations (CoreOps) team <https://www.writethedocs.org/team/#core-operations-coreops>`_ and new `Community board <https://www.writethedocs.org/team/#community-board>`_.
 
 The *CoreOps team* is a small group of us that have been working to make Write the Docs happen for a long time.
 Historically this group has included our Portland & Prague conference chairs,
-along with a couple other folks heavily involved in the overall operation of Write the Docs.
+along with a couple other folks heavily involved in the overall operation of Write the Docs, such as website infrastructure and community support.
 It's responsible for the tasks involved in keeping Write the Docs a viable organization.
 
-The major change happening there is that Mikey Ariel will moving into a new role focused on non-conference community development.
+The major change happening there is that Mikey Ariel will be stepping down as the Prague conference chair and moving to a new role focused on global and non-conference community development.
 Sasha Romijn will be filling the role of conference chair for our Atlantic conference.
 The other members of the CoreOps team, myself & Samuel Wright, will continue with our current roles.
 
@@ -48,8 +46,8 @@ The *Community board* is new, and tasked with the overall direction of the commu
 The members are the team leads of each of the Write the Docs team,
 as well as the conference chairs of our various conferences.
 Our goal is to have meetings quarterly where we all share the status of what we're working on,
-and any help that we could use in keeping the various teams functioning effectively.
-We're hoping that having more defined communication will help people feel more connected and supported in the work we're all doing.
+and request any help that we could use in keeping the various teams functioning effectively.
+We're hoping that having more defined communication will help the community teams (mostly run by volunteers) to feel more connected and supported in the work we're all doing.
 
 You can see the full set of changes in `pull request 1811 <https://github.com/writethedocs/www/pull/1811>`_.
 
@@ -61,7 +59,6 @@ and will continue to do it each year going forward.
 You can view our 2022 stats on our blog at :doc:`/blog/write-the-docs-2022-stats`.
 
 We're are now accepting `talk proposals <https://www.writethedocs.org/conf/portland/2023/cfp/>`_ and selling tickets for our Portland conference.
-It would be great to see you all in-person this year.
 
 **Submit your talk proposals by February 6th**,
 If you need feedback or help with your talk proposal,

@@ -5,8 +5,7 @@
 Write the Docs 2022 Stats
 =========================
 
-This year we have done a :doc:`/blog/2023-january-community-update` post along with our stats.
-Check there for context around the community going into 2023.
+This year we have done a :doc:`/blog/2023-january-community-update` post along with our stats, which has more context and information about where we're headed in 2023.
 
 Unfortunately our Podcast has been in hiatus for a while with no new episodes in 2022,
 so we have removed it from the stats post.
@@ -43,8 +42,8 @@ Slack Network
 
 * 18,339 :doc:`members </slack>` (up from 15,012)
 
-Newsletters
-~~~~~~~~~~~
+Newsletter subscribers
+~~~~~~~~~~~~~~~~~~~~~
 
 * 10,558 :doc:`subscribers </newsletter>` (up from 9,237)
 
