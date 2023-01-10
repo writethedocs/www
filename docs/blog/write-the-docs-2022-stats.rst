@@ -5,7 +5,7 @@
 Write the Docs 2022 Stats
 =========================
 
-This year we have done a :doc:`/blog/2023-january-community-update` post along with our stats, which has more context and information about where we're headed in 2023.
+This year we have done a :doc:`/blog/2023-january-update` post along with our stats, which has more context and information about where we're headed in 2023.
 
 Unfortunately our Podcast has been in hiatus for a while with no new episodes in 2022,
 so we have removed it from the stats post.
@@ -28,8 +28,8 @@ You can read our previous posts from 2016_, 2017_, 2018_, 2019_, 2020_, 2022_.
 Conferences
 ~~~~~~~~~~~
 
-* 650 attendees in Portland (down from 650)
-* 225 attendees in Prague (up from 330)
+* 600 attendees in Portland (down from 650)
+* 225 attendees in Prague (down from 330)
 * 100 attendees in Australia (no conference in 2022)
 
 We were excited to see continued success of the virtual conferences,
@@ -37,13 +37,13 @@ but it definitely felt like more people are slowly yearning to return to in-pers
 The world has also had another large shock with the war in Ukraine,
 which we expect to have lowered our 2022 attendance in Prague.
 
-Slack Network
+Slack network
 ~~~~~~~~~~~~~
 
 * 18,339 :doc:`members </slack>` (up from 15,012)
 
 Newsletter subscribers
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 * 10,558 :doc:`subscribers </newsletter>` (up from 9,237)
 
@@ -52,7 +52,7 @@ This is across all our various mailing lists (conference-specific and community 
 Meetups
 ~~~~~~~
 
-* Over 10,000 :doc:`members </meetups/index> (too many to count)
+* Over 10,000 :doc:`members </meetups/index>` (too many to count)
 
 Last year we stopped counting total meetups because we launched Quorum meetups that cover a larger geographic area.
 We're excited to see a return to in-person meetups,

@@ -25,6 +25,12 @@ and a new experiment for our virtual event:
 * `Portland <https://www.writethedocs.org/conf/portland/2023/>`_ will be in-person on **May 7-9**.
 * `Atlantic <https://www.writethedocs.org/conf/atlantic/2023/>`_ will be a virtual event, spanning the US and European timezones, on **September 10-12**.
 
+We are now accepting `talk proposals <https://www.writethedocs.org/conf/portland/2023/cfp/>`_ and selling tickets for our Portland conference.
+**Submit your talk proposals by February 6th**,
+If you need feedback or help with your talk proposal,
+we will be having a virtual talk prep meetup later this month.
+The meetup will be announced soon, so follow that group or the ``#meetups`` channel in Slack for updates.
+
 We hope that you'll work with us to make all of our events unique again this year by submitting talks and showing up in person or virtually with your usual enthusiasm and warmth.
 
 Community teams restructuring
@@ -49,7 +55,7 @@ Our goal is to have meetings quarterly where we all share the status of what we'
 and request any help that we could use in keeping the various teams functioning effectively.
 We're hoping that having more defined communication will help the community teams (mostly run by volunteers) to feel more connected and supported in the work we're all doing.
 
-You can see the full set of changes in `pull request 1811 <https://github.com/writethedocs/www/pull/1811>`_.
+You can see the full set of changes in `WEP 4 <https://github.com/writethedocs/weps/blob/main/accepted/WEP0004-community-board.rst>`_.
 
 Other community updates
 -----------------------
@@ -58,12 +64,8 @@ We have shared our high-level community stats for the past 5 years,
 and will continue to do it each year going forward.
 You can view our 2022 stats on our blog at :doc:`/blog/write-the-docs-2022-stats`.
 
-We're are now accepting `talk proposals <https://www.writethedocs.org/conf/portland/2023/cfp/>`_ and selling tickets for our Portland conference.
-
-**Submit your talk proposals by February 6th**,
-If you need feedback or help with your talk proposal,
-we will be having a `virtual talk prep meetup <https://www.meetup.com/virtual-write-the-docs-west-coast-quorum>`_.
-The meetup will be announced soon, so follow that group or the ``#meetups`` channel in Slack for updates.
+Submissions for our fourth annual salary survey have closed and we're eagerly poring over the numbers.
+Expect the full report, analyzing salary information from 524 documentarians in 42 countries, in the first quarter of this year.
 
 From our sponsor
 ----------------
