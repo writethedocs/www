@@ -280,8 +280,9 @@ If you see a message in a public channel that looks like spam, you can react to 
 
 If you see people not following the behavior guidelines you can:
 
-* Message them privately, and explain why what they said might have been hurtful to someone, referring to this guide.
-* Ask a :ref:`moderation team <moderation-team>` member to address the situation, include a link to the conversation if possible.
+- Ask the participant to change their behavior by referring to this guide and explaining why what they said might have been hurtful.
+- Ask the :ref:`moderation team <moderation-team>` (in the ``#meta`` channel or by DM) to address the situation.
+  Include a link or screenshot of the conversation, if possible.
 
 Moderation action
 ~~~~~~~~~~~~~~~~~
