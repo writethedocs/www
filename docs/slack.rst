@@ -271,7 +271,7 @@ Here are some channels specifically for wholesome self-promotion:
 - ``#community-help-wanted`` is a good place to share calls for participation on open-source projects
 - ``#???`` is a good place to announce non-Write the Docs events
 - ``#???`` is a good place to share a survey or calls for research interview subjects
-- ``#community-showcase`` is a space for shame-free self-promotion
+- ``#community-showcase`` is a space for responsible self-promotion
 
 Reporting Issues
 ~~~~~~~~~~~~~~~~
