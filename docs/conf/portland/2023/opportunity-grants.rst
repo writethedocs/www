@@ -3,7 +3,7 @@
 Opportunity grants
 ==================
 
-The grant program for WTD {{ name }} {{ year }} supports people who would otherwise not be able to
+The grant program for Write the Docs {{ name }} {{ year }} supports people who would otherwise not be able to
 attend the conference by covering attendance costs.
 Applications are open to anyone who wants to attend Write the Docs.
 
