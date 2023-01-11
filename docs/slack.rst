@@ -198,6 +198,8 @@ You can help us do this by following these tips:
   You know that you're joking, but some people might take you seriously.
 - **If you don't have anything nice to say, don't say anything at all.**
 
+We also recommend reading `Microaggressions: Making space for everybody <https://www.metafilter.com/microaggressions.mefi>`_, which goes over how to avoid small slights and hurtful behaviors, especially against members of marginalized groups.
+
 Online community issues
 ~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -268,11 +270,6 @@ Here are some channels specifically for wholesome self-promotion:
 - `#???` is a good place to announce non-Write the Docs events
 - `#???` is a good place to share a survey or calls for research interview subjects
 - `#community-showcase` is a space for shame-free self-promotion
-
-Avoid Microagressions
-~~~~~~~~~~~~~~~~~~~~~
-
-We recommend reading this `Microaggressions:  Making space for everybody <https://www.metafilter.com/microaggressions.mefi>`_ article that goes over how to avoid microaggressions when dealing with people in our community.
 
 Reporting Issues
 ~~~~~~~~~~~~~~~~
