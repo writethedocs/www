@@ -276,8 +276,9 @@ Here are some channels specifically for wholesome self-promotion:
 Reporting Issues
 ~~~~~~~~~~~~~~~~
 
-If you see people not following our etiquette guidelines,
-you have two options:
+If you see a message in a public channel that looks like spam, you can react to it with the ``:spam:`` reactji to bring the moderators' attention to it.
+
+If you see people not following the behavior guidelines you can:
 
 * Message them privately, and explain why what they said might have been hurtful to someone, referring to this guide.
 * Ask a :ref:`moderation-team` member to address the situation, include a link to the conversation if possible.
