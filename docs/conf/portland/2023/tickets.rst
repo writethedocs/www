@@ -102,12 +102,14 @@ The minimum purchase is three tickets.
 
 .. class:: ticket
 
-**None of the above**
----------------------
+**Opportunity Grants**
+----------------------
 
-If you can't afford these prices and still wish to attend, you can apply for our grant program.
+If you need support in paying for your ticket, travel or other costs,
+you can apply to our Opportunity Grant program.
+
 {% if grants and grants.ends and grants.url %}
-You can apply until **{{ grants.ends }}, Midnight {{ tz }}** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
+You can apply until **{{ grants.ends }}, 11:59 PM {{ tz }}** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
 {% else %}
 Grant applications will open soon.
 {% endif %}
