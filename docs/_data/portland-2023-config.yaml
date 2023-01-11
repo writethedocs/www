@@ -91,9 +91,9 @@ sponsorship:
     price: $17,500
 
 grants:
-  url: ''
-  ends: ''
-  notification: ''
+  url: 'https://docs.google.com/forms/d/e/1FAIpQLSfA1G4jnsUTWQeQnUtUJ3QUFcwokEAH8MrMamFaNs64LN-5Xg/viewform'
+  ends: 'March 1, 2023'
+  notification: 'March 14, 2023'
 
 shirts:
   url: https://teespring.com/wtd-pdx-2023
