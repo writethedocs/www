@@ -117,6 +117,7 @@ day-details:
   writing_day_time: str(required=False)
   talk_time: str(required=False)
   unconference_time: str(required=False)
+  reception_time: str(required=False)
   job_fair_time: str(required=False)
   social_time: str(required=False)
 
