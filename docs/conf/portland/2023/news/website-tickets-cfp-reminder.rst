@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Jan 9, 2023
+.. post:: Jan 13, 2023
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Announcing ticket sales, full conference website, and CFP reminder
