@@ -174,30 +174,44 @@ Our goal with Write the Docs is to be **the most welcoming community on the inte
 People who are new to our community in particular should be assisted and welcomed.
 
 Our :doc:`/code-of-conduct` applies to all spaces associated with Write the Docs, which includes our Slack.
-In addition, we have a few Slack-specific guidelines:
+In addition, we have several Slack-specific guidelines:
 
-Social rules
-~~~~~~~~~~~~
+Social tips
+~~~~~~~~~~~
 
-- **Use inclusive language** - Our community is multicultural, multiracial, multigendered, and generally diverse. When posting in channels, avoid using words such as "guys" to address a mixed group. Possible alternatives: "folks", "everyone", "documentarians".
-- **We're all documentarians** - The Write the Docs community is much more than a space for technical writers. We welcome everyone who wants to learn more about creating documentation, including developers, testers, customer support agents, technical writers, program/product managers, developer relations specialists, and more.
-- **Only participate when you can be constructive** - Try to be constructive in all that you do, and otherwise consider not participating in a conversation.
-- **Say hi** - The world is a better place with a flood of hello's.
-- **Don't be snarky** - We are all trying the best we can.
-- **Be careful with jokes** - You know that you're joking, but some people might take you seriously.
-- **If you don't have anything nice to say, don't say anything at all**.
+To have good experiences on Slack, create the conversations you want to be a part of.
+You can help us do this by following these tips:
+
+- **Say hi.**
+  The world is a better place with a flood of hello's.
+- **Use inclusive language.**
+  Our community is multicultural, multiracial, multigendered, and generally diverse.
+  When posting in channels, avoid using words such as "guys" to address a mixed group; possible alternatives include "folks", "everyone", and "documentarians".
+- **Remember that we're all documentarians.**
+  The Write the Docs community is much more than a space for technical writers.
+  We welcome everyone who wants to learn more about creating documentation, including developers, testers, customer support agents, technical writers, program/product managers, developer relations specialists, and more.
+- **Only participate when you can be constructive.**
+  Try to be constructive in all that you do, and otherwise consider not participating in a conversation.
+- **Don't be snarky.**
+  We are all trying the best we can.
+- **Be careful with jokes.**
+  You know that you're joking, but some people might take you seriously.
+- **If you don't have anything nice to say, don't say anything at all.**
 
 Online community issues
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 There is a specific set of behaviors that is prevalent in online communities that we'd like to address, to make sure our community doesn't fall into these traps. 
-
 Please avoid these behaviors:
 
-- **No Black Sheep** - There may be tools that you don't like. There is a good chance there is someone in the room who either helped create or likes to use that tool. Don't make them feel bad, they are likely just in a different context.
+- **No Black Sheep**. - There may be tools that you don't like.
+  There is a good chance there is someone in the room who either helped create or likes to use that tool.
+  Don't make them feel bad, they are likely just in a different context.
 - **Let Me Google That For You (LMGTFY)** - If people ask questions that are simple to answer on Google, still answer them nicely.
-- **Question Policing** - Some people might ask incomplete questions that are hard to answer. Ask follow up questions and act in good faith to help them solve their issues.
-- **Technology Competitions** - It doesn't matter if your tool is faster or better in some metric. We care about creating great documentation for our users.
+- **Question Policing** - Some people might ask incomplete questions that are hard to answer.
+  Ask follow up questions and act in good faith to help them solve their issues.
+- **Technology Competitions** - It doesn't matter if your tool is faster or better in some metric.
+  We care about creating great documentation for our users.
 
 Posting rules
 ~~~~~~~~~~~~~
