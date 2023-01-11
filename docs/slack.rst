@@ -267,11 +267,11 @@ In addition to the guidance that applies to all participants, we expect self-pro
 
 Here are some channels specifically for wholesome self-promotion:
 
-- `#job-posts-only` and `#freelance` are the best places to paid jobs
-- `#community-help-wanted` is a good place to share calls for participation on open-source projects
-- `#???` is a good place to announce non-Write the Docs events
-- `#???` is a good place to share a survey or calls for research interview subjects
-- `#community-showcase` is a space for shame-free self-promotion
+- ``#job-posts-only`` and ``#freelance`` are the best places to paid jobs
+- ``#community-help-wanted`` is a good place to share calls for participation on open-source projects
+- ``#???`` is a good place to announce non-Write the Docs events
+- ``#???`` is a good place to share a survey or calls for research interview subjects
+- ``#community-showcase`` is a space for shame-free self-promotion
 
 Reporting Issues
 ~~~~~~~~~~~~~~~~
