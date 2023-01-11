@@ -269,6 +269,22 @@ you have two options:
 * Message them privately, and explain why what they said might have been hurtful to someone, referring to this guide.
 * Ask a :ref:`moderation-team` member to address the situation, include a link to the conversation if possible.
 
+Moderation action
+~~~~~~~~~~~~~~~~~
+
+The role of the moderation team is to keep healthy conversation going and set expectations by example.
+When that fails, we have a few tools to help set things right: private and public cautions, message deletion, and temporary or permanent bans.
+
+Unfortunately, the guidelines above don't cover every scenario.
+If something is going on that gives the community or moderators headaches, we'll take action, even if there's no specific rule violation to point to.
+
+When we take action, it's usually in the form of a private message to ask someone to change their behavior.
+We try to discourage or encourage specific behaviors, not make judgments on people, for the benefit of the whole community.
+
+If you get a message from us, it might be about your behavior, but it's not about *you* as a person.
+If something goes wrong, we'll tell you about it and try to help you avoid the problem in the future.
+Help us help the community.
+
 Credit
 ~~~~~~
 
