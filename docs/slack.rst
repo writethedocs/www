@@ -183,6 +183,8 @@ To have good experiences on Slack, create the conversations you want to be a par
 You can help us do this by following these tips:
 
 - **Say hi.**
+  Don't forget to introduce yourself in ``#intros``.
+  If you've been away a while, reintroduce yourself.
   The world is a better place with a flood of hello's.
 - **Use inclusive language.**
   Our community is multicultural, multiracial, multigendered, and generally diverse.
