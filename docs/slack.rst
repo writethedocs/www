@@ -241,7 +241,7 @@ Posts not meeting these criteria may be deleted.
 Self-promotion, surveys, and sales
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-You're welcome to share, link to, and mention your own work, including blog posts, social media, events, and paid products or services, but posts where you stand to benefit from others' money, personal information, or labor, come with higher expectations.
+You're welcome to share, link to, and mention your own work, including blog posts, social media, events, and paid products or services. That said, posts where you stand to benefit from others' money, personal information, or labor, come with higher expectations.
 When this applies, make sure you follow the general guidelines closely.
 
 In addition to the guidance that applies to all participants, we expect self-promotion on the Write the Docs Slack to follow these additional guidelines:
@@ -267,7 +267,7 @@ In addition to the guidance that applies to all participants, we expect self-pro
 
 Here are some channels specifically for wholesome self-promotion:
 
-- ``#job-posts-only`` and ``#freelance`` are the best places to paid jobs
+- ``#job-posts-only`` and ``#freelance`` are the best places to post paid jobs and freelance work opportunities
 - ``#community-help-wanted`` is a good place to share calls for participation on open-source projects
 - ``#???`` is a good place to announce non-Write the Docs events
 - ``#???`` is a good place to share a survey or calls for research interview subjects
