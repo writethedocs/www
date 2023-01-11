@@ -208,9 +208,9 @@ Online community issues
 There is a specific set of behaviors that is prevalent in online communities that we'd like to address, to make sure our community doesn't fall into these traps. 
 Please avoid these behaviors:
 
-- **No Black Sheep**. - There may be tools that you don't like.
-  There is a good chance there is someone in the room who either helped create or likes to use that tool.
-  Don't make them feel bad, they are likely just in a different context.
+- **No Black Sheep**. - There may be organizations, job functions, and tools that you don't like.
+  There is a good chance there is someone in the room who is closely connected to that thing you don't like.
+  Don't make them feel bad; they are likely just in a different context.
 - **Let Me Google That For You (LMGTFY)** - If people ask questions that are simple to answer on Google, still answer them nicely.
 - **Question Policing** - Some people might ask incomplete questions that are hard to answer.
   Ask follow up questions and act in good faith to help them solve their issues.
