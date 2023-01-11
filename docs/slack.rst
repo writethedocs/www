@@ -92,11 +92,11 @@ We have some helpful Slackbot responses that you can summon in any channel, at a
 
 * ``?coc``
 
-  - "COC" is short for the :doc:`/code-of-conduct`. This is an easy way to get a link to it, and to summon a member of the :ref:`moderation-team` if you need one.
+  - "COC" is short for the :doc:`/code-of-conduct`. This is an easy way to get a link to it, and to summon a member of the :ref:`moderation team <moderation-team>` if you need one.
 
 * ``?mods`` / ``?moderators`` / ``?modsquad``
 
-  - Returns the members of the :ref:`moderation-team` if you need to ping someone directly for help.
+  - Returns the members of the :ref:`moderation team <moderation-team>` if you need to ping someone directly for help.
 
 * ``?history``
 
@@ -281,7 +281,7 @@ If you see a message in a public channel that looks like spam, you can react to 
 If you see people not following the behavior guidelines you can:
 
 * Message them privately, and explain why what they said might have been hurtful to someone, referring to this guide.
-* Ask a :ref:`moderation-team` member to address the situation, include a link to the conversation if possible.
+* Ask a :ref:`moderation team <moderation-team>` member to address the situation, include a link to the conversation if possible.
 
 Moderation action
 ~~~~~~~~~~~~~~~~~
