@@ -199,15 +199,61 @@ Please avoid these behaviors:
 - **Question Policing** - Some people might ask incomplete questions that are hard to answer. Ask follow up questions and act in good faith to help them solve their issues.
 - **Technology Competitions** - It doesn't matter if your tool is faster or better in some metric. We care about creating great documentation for our users.
 
-No sales-y content
-~~~~~~~~~~~~~~~~~~
+Posting rules
+~~~~~~~~~~~~~
 
-- **No Direct Pitches** - Our Slack is not the place for sales pitches. Consider sponsoring one of our :doc:`conferences </conf/index>` instead!
-- **No links without context** - If you put a link in the chat without context or explanation, it may be deleted.
-- **No Brands** - If you're going to post, post as yourself, not as a brand. We are a community of individuals and we all exist outside of our day jobs and personal brands.
-- **Be Transparent** - Tell people clearly what you are promoting, why it matters to documentarians, and whether you are personally or professionally involved. Be up front if there are any paywalls or registration gates in front of the content. Avoid using link shorteners. These efforts help distinguish spam or drive-by marketing from actual community engagement.
+The Write the Docs Slack hosts many documentarians and has few moderators.
+We expect everyone to follow these "rules of the road" at all times, to keep the conversation going smoothly and to reduce annoyances for everyone.
 
-If you see a message in a public channel that looks like spam, you can react to it with the ``:spam:`` reactji to bring the moderators' attention to it.
+- **Start and stay on topic.**
+  Digressions happen, but don't be afraid to move a conversation to a thread or another channel when it makes sense.
+- **Focus on quality over quantity.**
+  Excessive crossposting or reposting can drown out other conversations and looks like spam.
+  Send your message to the most-relevant channel then give some time for conversations to start before casting a wider net.
+  Sometimes it makes sense to send a similar message to multiple channels at once, or to post again, but show restraint.
+- **Include context with links.**
+  Give us your perspective: tell us what you're sharing, why, and your connection to it.
+  Don't post a bare URL or use link shorteners: they're not informative and look like spam.
+- **Use content warnings and threads for sensitive topics.**
+  Write the Docs is a big community: topics that seem safe to you could make others feel uncomfortable or unwelcome.
+  Help others choose which conversations they opt into by signposting sensitive or traumatic topics and confining them to threads.
+
+Posts not meeting these criteria may be deleted.
+
+Self-promotion, surveys, and sales
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+You're welcome to share, link to, and mention your own work, including blog posts, social media, events, and paid products or services, but posts where you stand to benefit from others' money, personal information, or labor, come with higher expectations.
+When this applies, make sure you follow the general guidelines closely.
+
+In addition to the guidance that applies to all participants, we expect self-promotion on the Write the Docs Slack to follow these additional guidelines:
+
+- **Post as yourself, not as a brand.**
+  Write the Docs Slack accounts must be operated by an individual human being that exists outside of work.
+  Leave the marketing language at work and talk to people like people, not a sales lead.
+- **Be transparent.**
+  Clearly explain what you are promoting, why it matters to documentarians, and your involvement.
+  Be up front about paywalls, registration requirements, referral benefits, or commissions.
+  If you're running a survey, say when and how the results will be published.
+- **Give more than you take.**
+  Make self-promotion a reasonable proportion of your participation in the community.
+  Too much self-promotion creates distrust and hostility.
+  If you're not sure if it's too much, aim to help others 10 times for every time you self-promote.
+- **Post publicly instead of sending direct messages (DMs)**.
+  A DM is like a home and you're like a vampire: you're not allowed in without an invitation.
+  It can be tempting to DM people, but please respect their inboxes and post in public channels unless invited to DM.
+- **Read the room.**
+  The Write the Docs Slack is informal and conversational; high-pressure sales aren't welcome.
+  If people aren't interested in what you're offering, don't take it as a license to become louder and more aggressive.
+  If you're asked to stop, then stop.
+
+Here are some channels specifically for wholesome self-promotion:
+
+- `#job-posts-only` and `#freelance` are the best places to paid jobs
+- `#community-help-wanted` is a good place to share calls for participation on open-source projects
+- `#???` is a good place to announce non-Write the Docs events
+- `#???` is a good place to share a survey or calls for research interview subjects
+- `#community-showcase` is a space for shame-free self-promotion
 
 Avoid Microagressions
 ~~~~~~~~~~~~~~~~~~~~~
