@@ -20,7 +20,7 @@
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/badge-flair') }}">Badge Flair Contest</a></li>
                           {% endif %}
                           {% if flaghashike %}
-                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/hike') }}">Hike</a></li>
+                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/outing') }}">Hike</a></li>
                           {% endif %}
                           {% if flaghasboat %}
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/boat') }}">Boat Ride</a></li>
@@ -39,18 +39,17 @@
                   <li class="uk-parent">
                     <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/tickets') }}">Tickets</a>
                     <ul class="uk-nav-sub">
-                        {% if flaghashike %}
-                        <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/tickets') }}">Online Ticket Options</a></li>
-                        {% endif %}
+                        <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/tickets') }}">Tickets</a></li>
                         <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/opportunity-grants') }}">Opportunity Grants</a></li>
                         <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/convince-your-manager') }}">Convince Your Manager</a></li>
                     </ul>
                   </li>
-                  <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/welcome-wagon') }}">Guide</a></li>
+
                   <li class="uk-parent">
                       <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/about') }}">About</a>
                       <ul class="uk-nav-sub">
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/about') }}">Overview</a></li>
+                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/welcome-wagon') }}">Attendee Guide</a></li>
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/press-kit') }}">Press Kit</a></li>
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/team') }}">Meet the Team</a></li>
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/speaking-tips') }}">Speaking Tips</a></li>
