@@ -16,7 +16,7 @@ so we have removed it from the stats post.
 We have shared our high-level community stats since 2016,
 and will continue to do it each year going forward.
 
-You can read our previous posts from 2016_, 2017_, 2018_, 2019_, 2020_, _2021_.
+You can read our previous posts from 2016_, 2017_, 2018_, 2019_, 2020_, 2021_.
 
 .. _2021: https://www.writethedocs.org/blog/write-the-docs-2021-stats/
 .. _2020: https://www.writethedocs.org/blog/write-the-docs-2020-stats/
