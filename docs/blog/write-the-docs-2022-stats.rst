@@ -13,12 +13,13 @@ so we have removed it from the stats post.
 2022 Stats
 ----------
 
-We have shared our high-level community stats for the past 5 years,
+We have shared our high-level community stats since 2016,
 and will continue to do it each year going forward.
 
-You can read our previous posts from 2016_, 2017_, 2018_, 2019_, 2020_, 2022_.
+You can read our previous posts from 2016_, 2017_, 2018_, 2019_, 2020_, _2021_, 2022_.
 
 .. _2022: https://www.writethedocs.org/blog/write-the-docs-2022-stats/
+.. _2021: https://www.writethedocs.org/blog/write-the-docs-2021-stats/
 .. _2020: https://www.writethedocs.org/blog/write-the-docs-2020-stats/
 .. _2019: https://www.writethedocs.org/blog/write-the-docs-2019-stats/
 .. _2018: https://www.writethedocs.org/blog/write-the-docs-2018-stats/
@@ -34,7 +35,7 @@ Conferences
 
 We were excited to see continued success of the virtual conferences,
 but it definitely felt like more people are slowly yearning to return to in-person.
-The world has also had another large shock with the war in Ukraine,
+The world has also had another large shock with the Russian invasion of Ukraine,
 which we expect to have lowered our 2022 attendance in Prague.
 
 Slack network
