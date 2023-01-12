@@ -99,20 +99,6 @@ This month’s newsletter is sponsored by Zoomin:
 
 *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
-
-Featured job posts
-------------------
-
-* `Technical Content Marketer <https://jobs.writethedocs.org/job/535/technical-content-marketer/>`__,  Chainlink Labs
-  Remote, full-time
-* `Technical Writer <https://jobs.writethedocs.org/job/559/technical-writer/>`__, Tecton
-  Remote (San Francisco, CA, USA), full-time
-* `Technical Writer  <https://jobs.writethedocs.org/job/570/technical-writer/>`__, Corrily
-  Remote, part-time
-
-*To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
-
-
 Have a great year
 -----------------
 
