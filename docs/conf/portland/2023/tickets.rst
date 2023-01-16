@@ -34,7 +34,7 @@ Write the Docs {{ name }} {{ year }} is an in-person conference. Each ticket inc
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
 
-**All talk videos will be published on our YouTube channel no later than 1 week after the conference.**
+**All talk videos will be published on our YouTube channel no later than 1 month after the conference.**
 
 Refund Policy
 -------------
