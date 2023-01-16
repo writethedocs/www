@@ -28,13 +28,13 @@ Ticket details
 
 Write the Docs {{ name }} {{ year }} is an in-person conference. Each ticket includes:
 
-* Live streaming of all talks
-* Q&A with speakers after each talk (may not be available for all speakers)
-* Access to the conference chat with all other attendees, speakers and sponsors
-* Access to the writing day
-* The virtual job fair
+* Entry to all conference events and activities
+* Drinks and snacks on event days (Sunday-Tuesday)
+* Welcome Reception and Social Event with light snacks and drinks
+* Wifi throughout the event
+* Meeting lots of fantastic people in a spacious, inviting venue
 
-**All talk videos will be published on our YouTube channel no later than 1 week after the conference.**
+**All talk videos will be published on our YouTube channel no later than 1 month after the conference.**
 
 Refund Policy
 -------------
