@@ -9,16 +9,13 @@ Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel a
    :depth: 1
    :backlinks: none
 
-Next Book Club
---------------
+Upcoming Book Club
+------------------
 
-Our next book club starts in January or February 2023.
+Our next book club starts Monday, February 5, 2023.
 
+Book: June Casagrande's `It Was the Best of Sentences, It Was the Worst of Sentences <https://www.penguinrandomhouse.com/books/198856/it-was-the-best-of-sentences-it-was-the-worst-of-sentences-by-june-casagrande/>`_
 
-Upcoming Book Clubs
--------------------
-
-* TBD: Lynne Truss's `Eats, Shoots & Leaves <https://www.lynnetruss.com/books/eats-shoots-leaves/>`_ 
 
 Previous Book club reads
 ------------------------

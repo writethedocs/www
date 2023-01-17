@@ -26,3 +26,14 @@ The first chance you will get to post your presentation is on Sunday, at the Wri
 If you don't make it to the Writing Day event or reception, be sure to find the board when you first arrive at the conference to post your topic.
 
 We will start promoting the unconference sessions early in the day on the days of the conference, so post your topic early if you want a particular time slot, or to make sure that there's room.
+
+Guidelines
+~~~~~~~~~~
+
+Because the unconference has become so popular in recent years, we ask session organizers to bear these guidelines in mind:
+
+* Keep your sessions manageably small. If attendance starts to spill into neighboring tables, consider asking folks to attend an additional session on the same topic.
+* If you're leading a session on a popular topic (notably API docs in the past), consider scheduling an early time so there's room to schedule overflow sessions as needed later in the day, or even the next day if the first session is on Monday.
+* Ask unconf organizers to help wrangle logistics. Lola's Room can get crowded especially when a popular topic is scheduled.
+
+Unconf organizers and a dedicated volunteer are available to help at any time during the conference. Ask about a topic, ask about the schedule, ask about multiple instances of the same topic -- we want to help you make your unconf session the best it can be. If you can't find us in Lola's room, feel free to seek us out elsewhere.

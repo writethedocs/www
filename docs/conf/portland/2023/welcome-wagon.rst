@@ -3,4 +3,5 @@
 Welcome Wagon Guide
 ===================
 
-{% include "conf/virtual/welcome-wagon.rst" %}
+We're still working to update our Welcome Wagon guide for 2023!
+Check back closer to the conference.

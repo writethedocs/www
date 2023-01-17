@@ -15,13 +15,10 @@ Schedule
 Your Project Here
 -----------------
 
-
-Write the Docs Meetups
-----------------------
-
-Organizing local Write the Docs meetup communities is a rewarding way to participate. During Writing Day, we'll have a table where we can share tips and best practices, especially in this time where all of our meetups are virtual.
+*Send us a pull request or an email and we will add it to this site.*
 
 During the conference
 ---------------------
 
-Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet` for a quick reference that you can use during the conference to make the most out of Writing Day.
+Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet` for a quick reference that you can use during the conference to make the most out of Writing Day. 
+
