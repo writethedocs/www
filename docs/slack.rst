@@ -239,7 +239,7 @@ We expect everyone to follow these "rules of the road" at all times, to keep the
   Write the Docs is a big community: topics that seem safe to you could make others feel uncomfortable or unwelcome.
   Help others choose which conversations they opt into by signposting sensitive or traumatic topics and confining them to threads.
 
-Posts not meeting these criteria may result in :ref:`moderation action <Moderation action>`, such as a warning or deletion.
+Posts not meeting these criteria may result in :ref:`moderation action <moderation-action>`, such as a warning or deletion.
 
 Self-promotion, surveys, and sales
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -285,6 +285,8 @@ If you see people not following the behavior guidelines you can:
 - Ask the participant to change their behavior by referring to this guide and explaining why what they said might have been hurtful.
 - Ask the :ref:`moderation team <moderation-team>` (in the ``#meta`` channel or by DM) to address the situation.
   Include a link or screenshot of the conversation, if possible.
+
+.. _moderation-action:
 
 Moderation action
 ~~~~~~~~~~~~~~~~~
