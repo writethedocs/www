@@ -239,7 +239,7 @@ We expect everyone to follow these "rules of the road" at all times, to keep the
   Write the Docs is a big community: topics that seem safe to you could make others feel uncomfortable or unwelcome.
   Help others choose which conversations they opt into by signposting sensitive or traumatic topics and confining them to threads.
 
-Posts not meeting these criteria may be deleted.
+Posts not meeting these criteria may result in :ref:`moderation action <Moderation action>`, such as a warning or deletion.
 
 Self-promotion, surveys, and sales
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
