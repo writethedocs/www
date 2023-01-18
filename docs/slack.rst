@@ -223,6 +223,9 @@ Posting rules
 The Write the Docs Slack hosts many documentarians and has few moderators.
 We expect everyone to follow these "rules of the road" at all times, to keep the conversation going smoothly and to reduce annoyances for everyone.
 
+- **Post as yourself, not as a brand.**
+  Write the Docs Slack accounts must be operated by an individual human being that exists outside of work.
+  Leave the marketing language at work and talk to people like people, not a sales lead.
 - **Start and stay on topic.**
   Digressions happen, but don't be afraid to move a conversation to a thread or another channel when it makes sense.
 - **Focus on quality over quantity.**
@@ -246,9 +249,6 @@ When this applies, make sure you follow the general guidelines closely.
 
 In addition to the guidance that applies to all participants, we expect self-promotion on the Write the Docs Slack to follow these additional guidelines:
 
-- **Post as yourself, not as a brand.**
-  Write the Docs Slack accounts must be operated by an individual human being that exists outside of work.
-  Leave the marketing language at work and talk to people like people, not a sales lead.
 - **Be transparent.**
   Clearly explain what you are promoting, why it matters to documentarians, and your involvement.
   Be up front about paywalls, registration requirements, referral benefits, or commissions.
