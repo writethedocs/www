@@ -276,6 +276,7 @@ Reporting Issues
 ~~~~~~~~~~~~~~~~
 
 If you see a message in a public channel that looks like spam, you can react to it with the ``:spam:`` reactji to bring the moderators' attention to it.
+Note that this is a public action, so only take it if you're okay with the user seeing you have done this. 
 
 If you see people not following the behavior guidelines you can:
 
