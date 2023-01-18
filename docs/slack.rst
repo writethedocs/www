@@ -244,7 +244,8 @@ Posts not meeting these criteria may result in :ref:`moderation action <Moderati
 Self-promotion, surveys, and sales
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-You're welcome to share, link to, and mention your own work, including blog posts, social media, events, and paid products or services. That said, posts where you stand to benefit from others' money, personal information, or labor, come with higher expectations.
+You're welcome to share, link to, and mention your own work, including blog posts, social media, events, and paid products or services.
+That said, posts where you stand to benefit from others' money, personal information, or labor come with higher expectations.
 When this applies, make sure you follow the general guidelines closely.
 
 In addition to the guidance that applies to all participants, we expect self-promotion on the Write the Docs Slack to follow these additional guidelines:
