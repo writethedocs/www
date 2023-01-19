@@ -141,7 +141,7 @@ Reporting and contact information
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Each Write the Docs conference has a Code of Conduct team. For each conference, their names and contact details are listed below. They will be introduced at the start of the conference. You can also approach any other staff member, who can be identified by t-shirts or special badges.
-* For online platforms, we ask that you make any reports by emailing conduct@writethedocs.org. This is received by all members of the :ref:`core-team`. For reports on incidents on Slack, the core team may involve the :ref:`moderation-team`.
+* For online platforms, we ask that you make any reports by emailing conduct@writethedocs.org. This is received by all members of the :ref:`core-team`. For reports on incidents on Slack, the core team may involve the :ref:`moderation team <moderation-team>`.
 * For meetups, please report the incident to the local meetup organisers. If you feel uncomfortable with this, if you feel the incident was not well handled by the local organisers, or if you are a meetup organiser and would like to ask for input, you can email conduct@writethedocs.org.
 
 If you believe anyone is in physical danger, please notify appropriate law enforcement first when possible. If you are unsure which law enforcement agency is appropriate, please include this in your report and we will attempt to notify them.
