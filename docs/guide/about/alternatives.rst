@@ -15,5 +15,5 @@ Interesting approaches to documentation
 
 * This GitHub repo has some great examples of documentation done well:
 
-  *  https://github.com/PharkMillups/beautiful-docs
+  *  https://github.com/matheusfelipeog/beautiful-docs
 
