@@ -155,7 +155,7 @@ Further details will be announced later, but expect a relaxed atmosphere where y
 
 * **Where**: {{ about.social_venue }}
 {% if not flaghasschedule %}
-* **When**: **{{ date.day_three.social_time }} {{ tz }}** (need to change this to in-person schedule)
+* **When**: **{{ date.day_three.social_time }} {{ tz }}** 
 {% endif %}
 
 
