@@ -10,6 +10,8 @@ Ticket Information
 
 **Tickets are on sale now!**
 
+We're excited to invite you to our {{ year }} conference in {{ city }}.
+
 {% elif flagsoldout %}
 
 Ticket status
@@ -33,6 +35,9 @@ Write the Docs {{ name }} {{ year }} is an in-person conference. Each ticket inc
 * Welcome Reception and Social Event with light snacks and drinks
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
+
+All attendees are required to abide by our `Health and Safety Policy <https://www.writethedocs.org/conf/portland/2023/health/>`_,
+as well as our `Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_.
 
 **All talk videos will be published on our YouTube channel no later than 1 month after the conference.**
 
