@@ -84,8 +84,8 @@ Hiring Package
 Product Package
 ~~~~~~~~~~~~~~~
 
-- A 1 hour **sponsored tutorial** at the conference that you deliver
-- One product promotion post in our conference mailing list
+- A **sponsored tutorial** at the conference that you deliver, up to 1 hour in length.
+- One product promotion highlight in our conference mailing list. Includes logo and 2 paragraphs of copy.
 
 The **Publisher** package costs **{{sponsorship.publisher.price}}**.
 
@@ -115,8 +115,8 @@ Hiring Package
 Product Package
 ~~~~~~~~~~~~~~~
 
-- A 1 hour **sponsored tutorial** at the conference that you deliver
-- One product promotion post in our conference mailing list
+- A **sponsored tutorial** at the conference that you deliver, up to 1 hour in length.
+- One product promotion highlight in our conference mailing list. Includes logo and 2 paragraphs of copy.
 
 The **Patron** package costs **{{sponsorship.patron.price}}**.
 
@@ -136,7 +136,7 @@ Benefits
 - A table at our **job fair**
 - Five (5) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - A 1 hour **sponsored tutorial** at the conference
-- One product promotion post in our conference mailing list
+- One product promotion highlight in our conference mailing list. Includes logo and 2 paragraphs of copy.
 
 The **Keystone** package costs **{{sponsorship.keystone.price}}**.
 
