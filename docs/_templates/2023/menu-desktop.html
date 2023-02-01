@@ -8,6 +8,9 @@
                                   <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Program</a>
                                   <div class="uk-navbar-dropdown">
                                       <ul class="uk-nav uk-navbar-dropdown-nav">
+                                          {% if flagcfp %}
+                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Call for Proposals</a></li>
+                                          {% endif %}
                                           {% if flaglivestreaming %}
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/livestream') }}">Live Stream</a></li>
                                           {% endif %}
@@ -108,7 +111,4 @@
                             </ul>
                           </li><!--- Parent element with it's children -->
 
-                          <!-- {% if flagcfp %}
-                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
-                          {% endif %} -->
                 </ul>
