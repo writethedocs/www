@@ -190,15 +190,15 @@ sponsors:
     - name: jetbrains
       link: https://www.jetbrains.com/
       brand: JetBrains
+    - name: mongodb-new
+      link: https://www.mongodb.com/
+      brand: MongoDB
     # - name: stackblitz-svg
     #   link: https://stackblitz.com/
     #   brand: StackBlitz
     # - name: cncf
     #   link: https://www.cncf.io/
     #   brand: Cloud Native Computing Foundation
-    # - name: mongodb-new
-    #   link: https://www.mongodb.com/
-    #   brand: MongoDB
     # - name: twilio
     #   link: https://www.twilio.com/
     #   brand: Twilio
