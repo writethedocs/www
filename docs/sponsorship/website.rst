@@ -9,7 +9,7 @@ You can sponsor the Write the Docs community website in two ways:
 Website Stats
 -------------
 
-Our website currently gets {{ website_visits }} visits a month.
+Our website currently gets {{ website_visits }}+ visits a month.
 The best idea of who is visiting our site is the information we have from our conferences.
 Our audience is made up of:
 
