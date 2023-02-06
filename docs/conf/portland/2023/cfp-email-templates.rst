@@ -85,7 +85,7 @@ Subject:
 
    Keep in mind that we do run several batches of lightning talks that you can sign up for at the event. We also have an unconference space which is a great chance for more informal discussions. We'd love to have you, your ideas, and your passion at the conference--on stage or not, they're what make this event great!
 
-   If you're not planning on attending Write the Docs {{city}}, or just want to hone your talk online, the [Write the Docs Quorum](https://www.writethedocs.org/organizer-guide/meetups/quorum/) holds quarterly virtual meetups, and is always looking for speakers
+   If you're not planning on attending Write the Docs {{city}}, or just want to hone your talk online, the [Write the Docs Quorum] holds quarterly virtual meetups, and is always looking for speakers
 
    Thanks again for your proposal. We strongly encourage you to submit again, for future events, and in the meantime we hope to see you in {{city}} or online!
 
