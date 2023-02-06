@@ -9,7 +9,7 @@ Greetings, documentarians! I hope your 2023 is off to a wonderful start. Mine ha
 
 It seems to be a time of change for many. The tech industry has been laying people off, which people have been discussing from many angles. And AI has been making the rounds, with some wondering if it will replace human documentarians in the near future. Since our last newsletter, the Slack community has double-digit threads with triple-digit participants. It's clearly on many people's minds! Some of the thoughts are below, but I'm sure you all have more to share.
 
-For those valuable conversations in Slack, you should know about the an update to the `guidelines for the Write the Docs Slack </slack/#guidelines>`__. They should help clarify how to keep our Slack community thriving and on-topic. If you find it all overwelming, you might find useful a description of `how to get the most out of the Slack community <https://flicstar.com/wtd-slack>`__ from Felicity Brand (@flicstar).
+For those valuable conversations in Slack, you should know about the an update to the `guidelines for the Write the Docs Slack </slack/#guidelines>`__. They should help clarify how to keep our Slack community thriving and on-topic. If you find it all overwhelming, you might find useful a description of `how to get the most out of the Slack community <https://flicstar.com/wtd-slack>`__ from Felicity Brand (@flicstar).
 
 In other news, if you're reading this today, you still have a few hours left to get in your proposals for `talks for the Portland conference this year </conf/portland/2023/cfp/>`__. If you're reading this later, you still have time to get your tickets to the in-person conference.
 
