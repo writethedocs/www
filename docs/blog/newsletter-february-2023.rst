@@ -47,7 +47,7 @@ Apologies to Mies Van Der Rohe who said, “Less is more.”
 
 The `#managing-writers channel <https://writethedocs.slack.com/archives/C5G1SBQHL>`__ had a recent discussion on layoffs. Managers are concerned when asked to downsize their documentation teams — especially when expected to maintain the same workload with fewer people. This is also a concern when people leave by choice and the manager has to justify hiring replacements. Having a smaller documentation team is particularly challenging when development teams have the same level of work on new products or features.
 
-One suggested solution at some companies was to have the development team work on documentation. This solution was met with some skepticism. Another suggestion was to document how the reduction (for example, 20%) would affect the team’s productivity. This elicted a discussion about a documentation team's responsibilities, which may include: 
+One suggested solution at some companies was to have the development team work on documentation. This solution was met with some skepticism. Another suggestion was to document how the reduction (for example, 20%) would affect the team’s productivity. This elicited a discussion about a documentation team's responsibilities, which may include: 
 
 • Writing new content for new features.
 • Reviewing existing content and updating as needed.
