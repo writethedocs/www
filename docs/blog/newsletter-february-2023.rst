@@ -73,11 +73,34 @@ Reviews are most productive when all reviewers understand their focus area as we
 From our sponsor
 ----------------
 
-This month’s newsletter is sponsored by SPONSOR:
+This month’s newsletter is sponsored by Zoomin:
 
 .. raw:: html
 
-    <html_here>
+    <hr>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
+      <tbody>
+        <tr>
+          <td width="75%">
+              <p>
+              All your technical content, right within your Salesforce support portal. <a href="https://www.zoominsoftware.com/use-case-sfdc/zoomin-for-salesforce-support-portal-new">Make sure</a> your customers never have to leave Salesforce to get the answers they need to effectively self-serve.
+              </p>
+
+              <p>
+              Our docs portal is now publicly available and open for all! <a href="https://docs.zoominsoftware.io/">See</a> what a SINGLE SOURCE OF TRUTH looks like.
+              </p>
+          </td>
+          <td width="25%">
+            <a href="https://www.zoominsoftware.com/?vert=Write_The_Docs_Newsletter&utm_medium=referral&utm_source=WriteTheDocs&utm_campaign=February_Newsletter">
+              <img style="margin-left: 15px;" alt="Zoomin" src="/_static/img/sponsors/zoomin.png">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
+
+
 
 *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
