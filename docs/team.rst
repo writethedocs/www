@@ -247,11 +247,11 @@ Membership
 Members
 ~~~~~~~
 
-- `Aaron Collier <https://github.com/CollierCZ>`_ (team lead)
-- `Hillary Fraley <https://github.com/hillaryfraley>`_
-- `Claire Lundeby <https://twitter.com/clairelundeby>`_
+- `Aaron Collier <https://github.com/CollierCZ>`__ (team lead)
+- `Hillary Fraley <https://github.com/hillaryfraley>`__
 - Royce Cook
-- `Heather Zoppetti <https://github.com/hzoppetti>`__
+- `Beth Aitman <https://twitter.com/baitman>`__
+- `Alia Michaels <https://www.aliamm.com/>`__
 
 
 .. _sales-team:

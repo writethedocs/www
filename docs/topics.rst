@@ -88,6 +88,7 @@ Other media
 
 Including videos, diagrams, and screenshots.
 
+- |:newspaper:| `Inclusiveness in diagrams </blog/newsletter-february-2023/#inclusiveness-in-diagrams>`__
 - |:newspaper:| `When to create screenshots </blog/newsletter-december-2022/#when-to-create-screenshots>`__
 - |:newspaper:| `Is written content outdated - and is it time for video? </blog/newsletter-may-2022/#is-written-content-outdated-and-is-it-time-for-video>`__
 - |:newspaper:| `Command prompts in docs </blog/newsletter-october-2020/#command-prompts-in-docs>`__
@@ -338,6 +339,7 @@ Building a team
 
 Including onboarding new writers
 
+- |:newspaper:| `When less is NOT more </blog/newsletter-february-2023/#when-less-is-not-more>`__
 - |:movie_camera:| `How I convinced my boss to build our docs team </videos/prague/2022/how-i-convinced-my-boss-to-build-our-docs-team-karissa-van-baulen/>`__
 - |:movie_camera:| `From Me to Us: Building a docs team from the ground up </videos/portland/2022/from-me-to-us-building-a-docs-team-from-the-ground-up-lana-brindley-she-her/>`__
 - |:movie_camera:| `Level Up - Onboarding that enables writers to thrive </videos/portland/2021/level-up-onboarding-that-enables-writers-to-thrive-nicola-yap/>`__
@@ -509,6 +511,7 @@ DITA
 Automation
 ~~~~~~~~~~
 
+- |:newspaper:| `Will AI take over documentation? </blog/newsletter-february-2023/#will-ai-take-over-documentation>`__
 - |:newspaper:| `Link-checking tools </blog/newsletter-may-2022/#link-checking-tools>`__
 - |:movie_camera:| `Unit Test the Docs: Why You Should Test Your Code Examples </videos/portland/2022/unit-test-the-docs-why-you-should-test-your-code-examples-ben-perlmutter/>`__
 - |:movie_camera:| `Beyond spell checking - what else can we check automatically? </videos/prague/2022/beyond-spell-checking-what-else-can-we-check-automatically-tibs/>`__
@@ -663,6 +666,7 @@ Working with writers
 
 Including review, editing, and teaching.
 
+- |:newspaper:| `Optimal number of reviewers </blog/newsletter-february-2023/#optimal-number-of-reviewers>`__
 - |:newspaper:| `Getting it right: Constructive criticism </blog/newsletter-december-2022/#getting-it-right-constructive-criticism>`__
 - |:newspaper:| `What’s in a good reviewer’s guide? </blog/newsletter-july-2022/#what-s-in-a-good-reviewer-s-guide>`__
 - |:movie_camera:| `Code Cowpokes and Word Wranglers: from Mutual Admiration to Solidarity </videos/portland/2022/code-cowpokes-and-word-wranglers-from-mutual-admiration-to-solidarity-erin-dees/>`__
