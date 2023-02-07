@@ -76,7 +76,7 @@ Meetings last an hour and follow this agenda and time structure. For example, fo
 - **7:15 to 8:00 - Presentation and Q&A** - The speaker has about 30-45 minutes for their presentation that includes the Q&A portion. The Q&A can expand to fill the time if the presentation is short.
 - **7:45 to 8:30 - Breakout rooms by meetup** - Attendance at this portion of the meetup is optional. We'll use Zoom breakout rooms to have people meet with their individual meetup organizers to say hi to other people in their meetup. Organizers can use that time to talk about job openings, talk about future meetups, and socialize.
 
-< !--- See [Meeting agenda (detailed)](meeting-agenda-detailed.md) more detailed meeting instructions. See also: [Emcee script](emcee-script.md).-->
+% See [Meeting agenda (detailed)](meeting-agenda-detailed.md) more detailed meeting instructions. See also: [Emcee script](emcee-script.md).-->
 
 
 ## Quorum meetup event publicity
@@ -90,7 +90,7 @@ Traffic is hopefully driven back to local meetups by:
 - Hosting breakout rooms at the end of the Quorum meetups in which local meetup leaders can connect in smaller groups with people who came to the Quorum meetup that are from a common area.
 - Post links to each of the sponsoring local meetup groups in the Quorum meetup event details.
 
-<!--- See [Quorum meetup publicity (detailed)](meetup-publicity-detailed.md) for more information about publicity. -->
+% See [Quorum meetup publicity (detailed)](meetup-publicity-detailed.md) for more information about publicity. -->
 
 
 ## Advantages of participating
@@ -117,9 +117,9 @@ Participating local meetup organizers agree to:
 - Attend as many regional super meetups for your region as possible.
 - (Optional): It helps to have 1-2 core team members who can assist in coordinating the Zoom calls and communicating with meetup organizers.
 
-<!--- For more information and tips for organizing a successful meetup when it's your turn, see [Organizing a meetup](meetup-organizing.md). -->
+% For more information and tips for organizing a successful meetup when it's your turn, see [Organizing a meetup](meetup-organizing.md). -->
 
-<!--- When you are the Zoom coordinator for the event, see the [Zoom coordinator guide](zoom-coordinator-guide).-->
+% When you are the Zoom coordinator for the event, see the [Zoom coordinator guide](zoom-coordinator-guide).-->
 
 
 ## How to participate in Quorum
