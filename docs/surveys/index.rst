@@ -5,7 +5,7 @@ In 2019, we launched the first Write the Docs salary survey, to gather data abou
 
 Overwhelmed by the positive response, we expanded the survey in 2020 and 2021 to collect information about remote work, the impact of the COVID-19 pandemic, and satisfaction about salaries, benefits and overall job situations. We've also continued to refine the questions to better cater for independent contractors, freelancers and the self-employed. 
 
-The Salary Survey for 2022 is closed. New this year: questions about pay transparency, wording clarifications and refinements, and a new, more convenient way to send private or public feedback about the survey itself. `Head on over to fill it out now, <https://salary-survey.writethedocs.org/>`_ and don't forget to share the link with your friends, co-workers and anyone you know who is involved in documentation. Submissions close on Monday 19th December 2022, and results will be made available in early 2023. 
+The Salary Survey for 2022 is closed. New this year: questions about pay transparency, wording clarifications and refinements, and a new, more convenient way to send private or public feedback about the survey itself. Submissions closed on Monday 19th December 2022, and results will be made available in 2023. 
 
 .. toctree::
    :caption: Survey Results
