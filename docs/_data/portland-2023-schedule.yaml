@@ -50,8 +50,6 @@ talks_day1:
     title: Lightning Talks (30 mins)
   - duration: '0:05'
     title: '5 minute break'
-  - duration: '0:05'
-    title: '5 minute break'
   - duration: '0:30'
     slug: measuring-documentation-success-in-open-source-findings-from-google-s-season-of-kassandra-dhillon
   - duration: '0:10'
@@ -133,8 +131,6 @@ talks_day2:
     title: 'Closing address'
   - duration: '0:20'
     title: '<b>Main stage talks done</b>'
-  - duration: '1:30'
-    slug: technical-writing-for-accessibility
   - duration: '0:00'
     title: '<b>Conference ends 😔</b>'
 
