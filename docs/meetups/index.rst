@@ -93,7 +93,6 @@ Several meetups are members of the Quorum North America West group:
 * San Francisco Bay Area
 * Los Angeles
 * Portland (OR)
-* Salt Lake City
 * Seattle
 
 .. meetup-listing::

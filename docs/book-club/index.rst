@@ -2,28 +2,25 @@
  Book Club
 ===========
 
-Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel.
+Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel as we read a tech writing adjacent book together.
 
 .. contents::
    :local:
    :depth: 1
    :backlinks: none
 
-Next Book Club
---------------
+Upcoming Book Club
+------------------
 
-Our next book club starts the week of August 8, 2022.
+Our next book club starts Monday, February 5, 2023.
 
-* TBD: Torrey Podmajersky's `Strategic Writing for UX <https://torreypodmajersky.com/strategic-writing-for-ux/>`_
+Book: June Casagrande's `It Was the Best of Sentences, It Was the Worst of Sentences <https://www.penguinrandomhouse.com/books/198856/it-was-the-best-of-sentences-it-was-the-worst-of-sentences-by-june-casagrande/>`_
 
-Upcoming Book Clubs
--------------------
-
-* TBD: Lynne Truss's `Eats, Shoots & Leaves <https://www.lynnetruss.com/books/eats-shoots-leaves/>`_ 
 
 Previous Book club reads
 ------------------------
 
+* September - December 2022: Torrey Podmajersky's `Strategic Writing for UX <https://torreypodmajersky.com/strategic-writing-for-ux/>`_
 * April - June 2022: Rick Umali's `Learn Git in a Month of Lunches <https://www.manning.com/books/learn-git-in-a-month-of-lunches>`_
 * February - March 2022: Jared Batti and others' `Docs for Developers <https://docsfordevelopers.com/>`_
 * September - November 2021: Antony Johnston's `The Organised Writer <http://organised-writer.com/>`_

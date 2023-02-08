@@ -16,6 +16,7 @@ as well as many other social spaces:
 * The Assembly Lounge where we will be hosting our Unconference discussions
 * The Sunset Room which will be our Quiet room
 * The Library room where our snacks and drinks catering will happen
+* An on-site restaurant and coffee shop!
 
 It also has *outdoor seating* and a *city park* directly on the property for plenty of fresh air and free space.
 
@@ -92,10 +93,10 @@ Quiet room
 We will have a clearly marked quiet room available.
 This room is intended to be a calm and quiet place for anyone who needs to have a break from the bustle of the conference, and will not be used for socializing.
 
-Mothers room
+Parents room
 ************
 
-We don't have a dedicated Mothers room but we have the ability to provide a private space for you to do it on request.
+We don't have a dedicated Parents Room but we have the ability to provide a private space for you on request.
 
 Did we miss something?
 **********************

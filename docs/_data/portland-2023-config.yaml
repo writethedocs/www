@@ -18,8 +18,8 @@ photos:
 
 buttons:
   top:
-    - text: Welcome to our conference
-      link_absolute: /blog/2023-conference-announcements/
+    # - text: Read our latest news
+    #   link: /news/website-tickets-cfp-reminder/
   #  - text: Sponsor us
   #    link: /sponsors/prospectus
     - text: Submit a Talk
@@ -30,8 +30,8 @@ buttons:
   #     link: /welcome-wagon
   #   - text: See the Schedule!
   #     link: /schedule
-  #   - text: Buy a Ticket!
-  #     link: /tickets
+    - text: Buy a Ticket!
+      link: /tickets
   #   - text: See the talks!
   #     link: /speakers
   #  - text: See the Schedule!
@@ -76,9 +76,9 @@ tickets:
   corporate:
     price: $600
   independent:
-    price: $350
+    price: $325
   student:
-    price: $150
+    price: $100
 
 sponsorship:
   second_draft:
@@ -91,9 +91,9 @@ sponsorship:
     price: $17,500
 
 grants:
-  url: ''
-  ends: ''
-  notification: ''
+  url: 'https://docs.google.com/forms/d/e/1FAIpQLSfA1G4jnsUTWQeQnUtUJ3QUFcwokEAH8MrMamFaNs64LN-5Xg/viewform'
+  ends: 'March 1, 2023'
+  notification: 'March 14, 2023'
 
 shirts:
   url: https://teespring.com/wtd-pdx-2023
@@ -116,8 +116,8 @@ date: # how do we handle these? human readable would be nice.
   day_one:
     event: Hike
     date: May 6
-    summary: We encourage you to go on a hike in your own beautiful home town.
-    #summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    # summary: We encourage you to go on a hike in your own beautiful home town.
+    summary: If you're in town early, join us for the  <a href="/conf/portland/2023/outing/">hike</a>. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
     icon: hike
     dotw: Saturday
   day_two:
@@ -127,6 +127,7 @@ date: # how do we handle these? human readable would be nice.
     icon: writing
     dotw: Sunday
     writing_day_time: 9am-5pm
+    reception_time: 5-7pm
   day_three:
     event: Conference Day 1
     date: May 8
@@ -134,7 +135,7 @@ date: # how do we handle these? human readable would be nice.
     dotw: Monday
     talk_time: 9am-5pm
     unconference_time: 9:45am-5pm
-    social_time: 5pm-7pm
+    social_time: 7-9pm
     icon: conference
   day_four:
     event: Conference Day 2
@@ -148,14 +149,14 @@ date: # how do we handle these? human readable would be nice.
   total_talk_days: 2
 
 about:
-  attendees: 600
+  attendees: 500
   summary:
     "The main presentation track takes place from **May 8-9 (Monday and Tuesday) from 9am to 6pm**.
     During the main event we also run an :doc:`/conf/portland/2023/unconference`."
 
   social_venue: TBD
-  venue: TBD
-  photos:
+  venue: Revolution Hall
+  photos: TBD
   mainroom: Main stage
   unconfroom: Unconference area
   projector_ratio: "16:9"
@@ -171,9 +172,10 @@ cfp:
 
 unconf:
   url: http://bit.ly/wtd-pdx-2023-ro
+  date: "Monday all day and Tuesday after the job fair"
 
 lightning_talks:
-   signup_url: https://forms.gle/HSf9qvaRC8PVbEhu5
+   # signup_url: https://forms.gle/HSf9qvaRC8PVbEhu5
 
 hike:
   date: Saturday, May 6, 1 PM
@@ -185,15 +187,18 @@ sponsors:
     #   link: https://www.google.com
     #   brand: Google
   publisher:
+    - name: jetbrains
+      link: https://www.jetbrains.com/
+      brand: JetBrains
+    - name: mongodb-new
+      link: https://www.mongodb.com/
+      brand: MongoDB
     # - name: stackblitz-svg
     #   link: https://stackblitz.com/
     #   brand: StackBlitz
     # - name: cncf
     #   link: https://www.cncf.io/
     #   brand: Cloud Native Computing Foundation
-    # - name: mongodb-new
-    #   link: https://www.mongodb.com/
-    #   brand: MongoDB
     # - name: twilio
     #   link: https://www.twilio.com/
     #   brand: Twilio
@@ -201,11 +206,11 @@ sponsors:
     #   link: https://slack.com/
     #   brand: Slack
   second:
-    # - name: knowledgeowl
-    #   link: https://www.knowledgeowl.com
-    #   brand: KnowledgeOwl
-    #   width: 250px
-    #   text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl​ is looking for more contributors for our ​company blog​. This is an opportunity to write about a topic that interests you and get paid for it :)</p> <p>KnowledgeOwl also sponsors and hosts The Not-Boring Tech Writer podcast. We are always looking for new guests to share their stories, experience, and expertise with the world.</p> <p>Feel free to stop by and ask us more about KnowledgeOwl, these opportunities, or anything else!</p>"
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+      brand: KnowledgeOwl
+      width: 250px
+      text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl​ is looking for more contributors for our ​company blog​. This is an opportunity to write about a topic that interests you and get paid for it :)</p> <p>Feel free to stop by and ask us more about KnowledgeOwl, these opportunities, or anything else!</p>"
     # - name: livelike
     #   link: https://livelike.com/
     #   brand: LiveLike
@@ -213,9 +218,6 @@ sponsors:
     #   link: https://opencollective.com/open-web-docs
     #   brand: Open Web Docs
     #   width: 150px
-    # - name: jetbrains
-    #   link: https://www.jetbrains.com/
-    #   # brand: JetBrains
     # - name: juniper
     #   link: https://www.juniper.net/
     #   brand: Juniper
@@ -237,10 +239,10 @@ sponsors:
     #   brand: Read the Docs
 
 # Things that change over time, listed in order of change
-flaglanding: True
-flaghassponsors: False
+flaglanding: False
+flaghassponsors: True
 flagcfp: True
-flagticketsonsale: False
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False

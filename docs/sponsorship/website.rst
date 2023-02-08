@@ -9,7 +9,7 @@ You can sponsor the Write the Docs community website in two ways:
 Website Stats
 -------------
 
-Our website currently gets {{ website_visits }} visits a month.
+Our website currently gets {{ website_visits }}+ visits a month.
 The best idea of who is visiting our site is the information we have from our conferences.
 Our audience is made up of:
 
@@ -44,8 +44,8 @@ Specs
 Cost
 ~~~~
 
-The sidebar sponsorship is **$150 per month**, with up to 3 sponsors in rotation.
-You can buy multiple slots to ensure your placement is shown more frequently, or the only thing shown.
+The sidebar sponsorship is **$250 per month**.
+It runs for a full calendar month, or 30 days from the date of purchase.
 
 Footer sponsorship
 ------------------
@@ -71,7 +71,8 @@ we will use your existing logo and link from the conference sponsorship.
 Cost
 ~~~~
 
-The footer logo sponsorship costs **$200/mo**.
+The footer logo sponsorship costs **$500 per year**.
+Sponsorship runs for a calendar year, or 365 days from the date of purchase.
 
 Contact
 -------

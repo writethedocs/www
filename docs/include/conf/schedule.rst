@@ -30,7 +30,7 @@ If you get into town early, join us on the hike and take the chance to explore P
 
 * **Where**: Lower Macleay Park or Macleay Park Entrance.
 {% if not flaghasschedule %}
-* **When**: **{{ date.day_two.hike_time }} {{ tz }}**
+* **When**: **{{ hike.date }} {{ tz }}**
 {% endif %}
 * **Details**: :doc:`Annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/outing>`
 
@@ -56,7 +56,7 @@ The Writing Day will be held in our **{{about.venue}}**.
 
 {% if flaghasfood %}
 
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+*Snacks and drinks will be provided all day.*
 
 {% endif %}
 
@@ -89,9 +89,9 @@ Reception
 We encourage everyone to drop by on Sunday evening for the conference reception.
 We're hoping to have some fun activities planned for the evening online.
 
-* **Where**: {{about.venue}}, {{about.mainroom}}
+* **Where**: {{about.venue}}, {{about.unconfroom}}
 {% if not flaghasschedule %}
-* **When**: **{{ date.day_two.reception_time }} {{ tz }}**
+* **When**: **{{ date.day_two.reception_time }} {{ tz }}** 
 {% endif %}
 
 {% endif %}
@@ -109,7 +109,7 @@ We're hoping to have some fun activities planned for the evening online.
 
 {% if flaghasfood %}
 
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+*Snacks and drinks will be provided all day.*
 
 {% endif %}
 
@@ -122,7 +122,7 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
+Talks are around 30 minutes, without on-stage Q&A. We will make sure to include sufficient breaks between talks so that you can chat with the speakers after their talk if you wish to ask them any questions. 
 
 .. separator to fix list formatting
 
@@ -151,13 +151,11 @@ Social Event
 ~~~~~~~~~~~~
 
 The official Write the Docs social!
-Further details will be announced later,
-but expect some music and games,
-and bring your favorite beverage to your computer :)
+Further details will be announced later, but expect a relaxed atmosphere where you can chat and network with your fellow documentarians, with drinks and snacks provided. 
 
 * **Where**: {{ about.social_venue }}
 {% if not flaghasschedule %}
-* **When**: **{{ date.day_three.social_time }} {{ tz }}**
+* **When**: **{{ date.day_three.social_time }} {{ tz }}** 
 {% endif %}
 
 
@@ -173,7 +171,7 @@ and bring your favorite beverage to your computer :)
 
 {% if flaghasfood %}
 
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+*Snacks and drinks will be provided all day.*
 
 {% endif %}
 
@@ -186,7 +184,7 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
+Talks are around 30 minutes, without on-stage Q&A. We will make sure to include sufficient breaks between talks so that you can chat with the speakers after their talk if you wish to ask them any questions. 
 
 .. separator to fix list formatting
 
