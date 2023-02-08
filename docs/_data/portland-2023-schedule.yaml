@@ -106,7 +106,7 @@ talks_day2:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    title: 'Talk that isnt cancelled'
+    title: 'Talk that is not cancelled'
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:00'
