@@ -8,9 +8,6 @@
                                   <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Program</a>
                                   <div class="uk-navbar-dropdown">
                                       <ul class="uk-nav uk-navbar-dropdown-nav">
-                                          {% if flagcfp %}
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/cfp') }}"Call for Proposals</a></li>
-                                          {% endif %}
                                           {% if flaglivestreaming %}
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/livestream') }}">Live Stream</a></li>
                                           {% endif %}
@@ -18,6 +15,9 @@
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/speakers') }}">Speakers</a></li>
                                           {% endif %}
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Schedule</a></li>
+                                          {% if flagcfp %}
+                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/cfp') }}">Call for Proposals</a></li>
+                                          {% endif %}
                                           {% if flaghaswritingday %}
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/writing-day') }}">Writing Day</a></li>
                                           {% endif %}
