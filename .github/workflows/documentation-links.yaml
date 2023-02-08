@@ -14,3 +14,4 @@ jobs:
       - uses: readthedocs/actions/preview@v1
         with:
           project-slug: "writethedocs-www"
+          single-version: "true" # Has to be a string value.
