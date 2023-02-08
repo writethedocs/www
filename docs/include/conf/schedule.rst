@@ -122,7 +122,7 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes, without on-stage Q&A. We will make sure to include sufficient breaks between talks so that you can chat with the speakers after their talk if you wish to ask them any questions. 
+Talks are around 30 minutes, with *moderated on-stage Q&A*. 
 
 .. separator to fix list formatting
 
@@ -184,7 +184,7 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes, without on-stage Q&A. We will make sure to include sufficient breaks between talks so that you can chat with the speakers after their talk if you wish to ask them any questions. 
+Talks are around 30 minutes, with *moderated on-stage Q&A*. 
 
 .. separator to fix list formatting
 
