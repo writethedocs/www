@@ -35,7 +35,7 @@ Opportunity Grants closing soon
 
 Applications for our Opportunity Grant program will close soon, on March 1st. This program is open to anyone who would otherwise have difficulties attending the conference.
 
-`Apply or a grant here! <https://www.writethedocs.org/conf/portland/{{year}}/opportunity-grants/>`_
+`Apply for a grant here! <https://www.writethedocs.org/conf/portland/{{year}}/opportunity-grants/>`_
 
 Thanks to our sponsors
 ----------------------
