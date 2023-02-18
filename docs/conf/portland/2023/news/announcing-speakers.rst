@@ -30,6 +30,13 @@ If you don't have your ticket yet, now's a great time to snap one up. Conference
 
 `Buy your tickets here! <https://www.writethedocs.org/conf/portland/{{year}}/tickets/>`_
 
+Opportunity Grants closing soon
+-------------------------------
+
+Applications for our Opportunity Grant program will close soon, on March 1st. This program is open to anyone who would otherwise have difficulties attending the conference.
+
+`Apply or a grant here! <https://www.writethedocs.org/conf/portland/{{year}}/opportunity-grants/>`_
+
 Thanks to our sponsors
 ----------------------
 
