@@ -6,8 +6,6 @@
 Announcing speakers and talks
 ================================
 
-We're writing today with an update on the next virtual Portland conference.
-
 We're delighted to announce that we've finalized our speakers for Write the Docs {{city}} {{year}}! 
 
 Thank you so much to everyone who took the time to send us a proposal, we literally wouldn't have an event without you!
@@ -23,7 +21,7 @@ We're really excited about the presentations we've got this year – we hope you
    :template: {{year}}/speakers-simple-list.rst
 
 Head over to the `Speakers page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`_ to see the full abstracts.
-We hope there’s something there for everyone to enjoy, and also something that will broaden your horizons a bit.
+We hope there's something there for everyone to enjoy, and also something that will broaden your horizons a bit.
 
 Tickets are going fast!
 -----------------------
