@@ -8,7 +8,10 @@ Job Fair
 Schedule
 --------
 
-The job fair happens on {{ date.day_four.date }}, {{ date.day_four.job_fair_time }}.
+- Date & Time: **{{ date.day_four.date }}, {{ date.day_four.job_fair_time }} {{tz}}**.
+- Location: **{{about.venue}}**.
+
+The job fair happens on .
 Full schedule information is available on our :ref:`{{shortcode}}-{{year}}-job-fair` page.
 
 Useful tips
