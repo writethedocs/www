@@ -60,7 +60,7 @@ The Writing Day will be held in our **{{about.venue}}**.
 
 {% endif %}
 
-. _{{shortcode}}-{{year}}-writing-day:
+.. _{{shortcode}}-{{year}}-writing-day:
 
 Writing Day
 ~~~~~~~~~~~

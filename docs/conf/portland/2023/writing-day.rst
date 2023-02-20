@@ -14,7 +14,6 @@ Schedule
 
 Full schedule information is available on our :ref:`{{shortcode}}-{{year}}-writing-day` page.
 
-
 During the conference
 ---------------------
 

@@ -18,12 +18,6 @@ We generally have two baskets for people who submit talks:
 We do this so we have a mix of first time and experienced speakers.
 We also want first-time speakers to know that we care about them having a chance to get on stage.
 
-Schedule
---------
-
-The lightning talks happen after lunch each day.
-Full schedule information is available on our :doc:`/conf/{{shortcode}}/{{year}}/schedule` page.
-
 Planning: What goes into a lightning talk?
 ------------------------------------------
 
