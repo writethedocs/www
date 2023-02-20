@@ -11,7 +11,6 @@ Schedule
 - Date & Time: **{{ date.day_four.date }}, {{ date.day_four.job_fair_time }} {{tz}}**.
 - Location: **{{about.unconfroom}}**.
 
-The job fair happens on .
 Full schedule information is available on our :ref:`{{shortcode}}-{{year}}-job-fair` page.
 
 Useful tips
