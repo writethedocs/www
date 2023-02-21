@@ -1,20 +1,25 @@
 :template: {{year}}/generic.html
 
 .. post:: February 22, 2023
-   :tags: portland-2023, speakers, tickets, visiting, sponsors
+   :tags: {{shortcode}}-{{year}}, speakers, tickets, visiting, sponsors
 
-Announcing speakers and talks
-================================
+Announcing Portland conference speakers
+=======================================
 
-We're delighted to announce that we've finalized our speakers for Write the Docs {{city}} {{year}}! 
+Our Portland conference is happening in just under 3 months, and we're excited to see everyone again in {{city}}.
+Now is a great time to start booking your tickets and travel,
+and we hope to see you soon.
 
-Thank you so much to everyone who took the time to send us a proposal, we literally wouldn't have an event without you!
+The biggest announcement today is our speakers and talks for the conference. 
+Thank you so much to everyone who took the time to send us a proposal,
+we literally wouldn't have an event without you!
 
 Full speaker line-up
 --------------------
 
 Every year, we look to bring a wide range of voices to the Write the Docs stage. Because the role of "documentarian" looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure.
-We hope that you'll be as excited as we are about the presentations we've got this year!
+
+We're really excited about the presentations we've got this year:
 
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-sessions.yaml
@@ -23,33 +28,42 @@ We hope that you'll be as excited as we are about the presentations we've got th
 Head over to the `Speakers page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`_ to see the full abstracts.
 We hope there's something there for everyone to enjoy, and also something that will broaden your horizons a bit.
 
-Tickets are going fast!
+Book your tickets today
 -----------------------
 
-If you don't have your ticket yet, now's a great time to snap one up. Conference tickets have sold out for the last several years, and they go faster along with the speaker announcement, so if you're planning to come, don't leave it to the last minute.
+If you don't have your ticket yet, now's a great time to start the process to attend.
+Conference tickets have sold out in the past,
+and tickets sell faster after with the speaker announcement,
+so don't leave it to the last minute.
+
 
 Please remember to book your travel only after you purchase a conference ticket. With the conference returning to in-person this year, we are working hard to make sure that our attendees have a safe and comfortable experience, so we must maintain capacity limits and guarantee late-registration tickets if you booked your travel already. 
-`Buy your tickets here! <https://www.writethedocs.org/conf/portland/{{year}}/tickets/>`_
+
+* Read our `Convince your manager page <https://www.writethedocs.org/conf/portland/{{year}}/convince-your-manager/>`_ to help make the case for attending.
+* Buy your tickets on our `Tickets page <https://www.writethedocs.org/conf/portland/{{year}}/tickets/>`_.
 
 Opportunity Grants closing soon
 -------------------------------
 
-Applications for our Opportunity Grant program will close soon, on March 1st. This program is open to anyone who would otherwise have difficulties attending the conference.
+Applications for our Opportunity Grant program close on March 1st.
+This program is open to anyone who would otherwise have difficulties attending the conference.
 
-`Apply for a grant here! <https://www.writethedocs.org/conf/portland/{{year}}/opportunity-grants/>`_
+`Apply for a grant today. <https://www.writethedocs.org/conf/portland/{{year}}/opportunity-grants/>`_
 
 Thanks to our sponsors
 ----------------------
 
-We are so grateful to have our sponsors help in bringing these events to life every year. Thanks sincerely to the following companies for supporting the Write the Docs community:
+We are so grateful to have our sponsors help in bringing these events to life every year.
+Thanks to the each of these companies for supporting the Write the Docs community:
 
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-config.yaml
    :template: {{year}}/sponsors-simplelist.rst
 
 Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/portland/{{year}}/sponsors/prospectus/>`_ for details on how your company can get involved!
-We have several types of sponsorship available, including tables at the job fair that we'll be hosting on Tuesday.
 
-And that's the latest on the Portland conference. We hope you're all getting as excited as we are! Stay tuned for more details.
+And that's the latest on the Portland conference.
+We hope you're all getting as excited as we are!
+Stay tuned for more details in the coming weeks about the conference.
 
-The Write the Docs Team
+The Write the Docs Portland Team
