@@ -217,6 +217,9 @@ sponsors:
     - name: raspberrypi
       link: https://www.raspberrypi.com/
       brand: Raspberry Pi
+    - name: readthedocs
+      link: https://about.readthedocs.com/
+      brand: Read the Docs
     # - name: livelike
     #   link: https://livelike.com/
     #   brand: LiveLike
