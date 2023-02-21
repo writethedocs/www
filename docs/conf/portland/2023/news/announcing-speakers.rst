@@ -37,11 +37,11 @@ so don't leave it to the last minute.
 
 Please remember to book your travel only after you purchase a conference ticket. With the conference returning to in-person this year, we are working hard to make sure that our attendees have a safe and comfortable experience, so we must maintain capacity limits and guarantee late-registration tickets if you booked your travel already. 
 
-* Read our `Convince your manager page <https://www.writethedocs.org/conf/portland/{{year}}/convince-your-manager/>`_ to help make the case for attending.
-* Buy your tickets on our `Tickets page <https://www.writethedocs.org/conf/portland/{{year}}/tickets/>`_.
+* Read our `Convince your manager page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/convince-your-manager/>`_ to help make the case for attending.
+* Buy your tickets on our `Tickets page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
 
-Opportunity Grants closing soon
--------------------------------
+Opportunity Grants and Volunteers
+---------------------------------
 
 Applications for our Opportunity Grant program **close on March 1st**.
 This program is open to anyone who would otherwise have difficulties attending the conference,
@@ -50,7 +50,8 @@ and we'd love to have more folks applying.
 If you're close to Portland, we'll also be announcing our Call for Volunteers in the next couple weeks.
 This will get you a free ticket to the conference in return for working a couple 2-3 hour shifts at the event.
 
-`Apply for a grant <https://www.writethedocs.org/conf/portland/{{year}}/opportunity-grants/>`_ today!
+* `Apply <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_ for a grant before the deadline.
+* `Let us know <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/contact/>`_ if you're interested in volunteering.
 
 Thanks to our sponsors
 ----------------------
@@ -62,7 +63,8 @@ Thanks to the each of these companies for supporting the Write the Docs communit
    :source: /_data/{{shortcode}}-{{year}}-config.yaml
    :template: {{year}}/sponsors-simplelist.rst
 
-Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/portland/{{year}}/sponsors/prospectus/>`_ for details on how your company can get involved!
+If your company is interested in sponsoring,
+you can find all the information in our `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_.
 
 And that's the latest on the Portland conference.
 We hope you're all getting as excited as we are!
