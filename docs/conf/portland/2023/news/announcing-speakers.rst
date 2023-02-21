@@ -25,12 +25,10 @@ We're really excited about the `presentations <https://www.writethedocs.org/conf
    :source: /_data/{{shortcode}}-{{year}}-sessions.yaml
    :template: {{year}}/speakers-simple-list.rst
 
-Head over to the `speakers page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`_ on our site to see the full abstracts.
-
 We hope there's something there for everyone to enjoy, and also something that will broaden your horizons a bit.
 
-Book your tickets today
------------------------
+Buy your tickets soon
+---------------------
 
 If you don't have your ticket yet, now's a great time to start the process to attend.
 Conference tickets have sold out in the past,
