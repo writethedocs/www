@@ -154,7 +154,7 @@ Social Event
 ~~~~~~~~~~~~
 
 The official Write the Docs social!
-Full details will be close to the day of the conference,
+Full details will be announced closer to the conference,
 but expect a relaxed atmosphere where you can chat and network with your fellow documentarians. 
 
 * **Where**: {{ about.social_venue }}
