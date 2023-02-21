@@ -14,7 +14,7 @@ Full speaker line-up
 --------------------
 
 Every year, we look to bring a wide range of voices to the Write the Docs stage. Because the role of "documentarian" looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure.
-We're really excited about the presentations we've got this year – we hope you are too!
+We hope that you'll be as excited as we are about the presentations we've got this year!
 
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-sessions.yaml
@@ -28,6 +28,7 @@ Tickets are going fast!
 
 If you don't have your ticket yet, now's a great time to snap one up. Conference tickets have sold out for the last several years, and they go faster along with the speaker announcement, so if you're planning to come, don't leave it to the last minute.
 
+Please remember to book your travel only after you purchase a conference ticket. With the conference returning to in-person this year, we are working hard to make sure that our attendees have a safe and comfortable experience, so we must maintain capacity limits and guarantee late-registration tickets if you booked your travel already. 
 `Buy your tickets here! <https://www.writethedocs.org/conf/portland/{{year}}/tickets/>`_
 
 Opportunity Grants closing soon
