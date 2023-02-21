@@ -187,15 +187,15 @@ sponsors:
     #   link: https://www.google.com
     #   brand: Google
   publisher:
-    - name: jetbrains
-      link: https://www.jetbrains.com/
-      brand: JetBrains
     - name: mongodb-new
       link: https://www.mongodb.com/
       brand: MongoDB
     - name: redocly
       link: https://redoc.ly/
       brand: Redocly
+    - name: jetbrains
+      link: https://www.jetbrains.com/
+      brand: JetBrains
     # - name: stackblitz-svg
     #   link: https://stackblitz.com/
     #   brand: StackBlitz
