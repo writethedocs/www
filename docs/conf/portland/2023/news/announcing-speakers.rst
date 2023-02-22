@@ -27,6 +27,26 @@ We're really excited about the `presentations <https://www.writethedocs.org/conf
 
 We hope there's something there for everyone to enjoy, and also something that will broaden your horizons a bit.
 
+Call for Volunteers
+-------------------
+
+We are looking for volunteers to help out at the conference and provide support with a variety of tasks - registration, A/V and tech, unconference, speaker support and anything else that may come up.
+
+Each individual who volunteers for two or more shifts receives a free ticket to the conference. Shifts range from 3-4 hours in length with a break during the shift.
+
+Application will be open until we have enough volunteers signed up for the event. This is typically mid-March.
+
+* Check out our `volunteer application form <https://docs.google.com/forms/d/e/1FAIpQLSfbnCr0Kbay2mBTe0mM7lTP85tzj9DUFD8LCyegUugk81KQGg/viewform?usp=sf_link>`_  for more information and to sign up to volunteer.
+
+Opportunity Grants close on March 1
+-----------------------------------
+
+Applications for our Opportunity Grant program **close on March 1st**.
+This program is open to anyone who would otherwise have difficulties attending the conference,
+and we'd love to have more folks applying.
+
+* `Apply for a grant <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_ before the deadline.
+
 Buy your tickets soon
 ---------------------
 
@@ -42,28 +62,6 @@ This means we have capacity limits and can't guarantee late-registration tickets
 * Read our `Convince your manager page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/convince-your-manager/>`_ to help make the case for attending.
 * Buy your tickets on our `Tickets page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
 
-Call for Volunteers
--------------------
-
-We're also looking for volunteers to help out at the conference.
-Generally volunteers live within driving distance to the venue,
-or are just excited about helping out with the conference.
-Volunteering will get you a free ticket to the conference in return for working at least two shifts (averaging around 3 hours each) at the event.
-
-This form will stay open until we have enough volunteers signed up for the event.
-The earliest we plan to close the form would be March 15.
-Volunteers will receive additional information in early April regarding shifts, detailed duties, and other updates to the volunteer duties and schedules.
-
-* `Complete our volunteer application form <https://docs.google.com/forms/d/e/1FAIpQLSfbnCr0Kbay2mBTe0mM7lTP85tzj9DUFD8LCyegUugk81KQGg/viewform?usp=sf_link>`_ if you're interested in volunteering.
-
-Opportunity Grants close on March 1
------------------------------------
-
-Applications for our Opportunity Grant program **close on March 1st**.
-This program is open to anyone who would otherwise have difficulties attending the conference,
-and we'd love to have more folks applying.
-
-* `Apply for a grant <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_ before the deadline.
 
 Thanks to our sponsors
 ----------------------
