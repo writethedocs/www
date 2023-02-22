@@ -1,0 +1,517 @@
+- title: Doing Data-Driven Content Maintenance
+  slug: doing-data-driven-content-maintenance-alex-garnett
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2023
+  speakers:
+  - name: Alex Garnett
+    slug: alex-garnett
+    twitter: 
+    website: 
+  - name: Lauren Kiss
+    slug: lauren-kiss
+    twitter: 
+    website: 
+  abstract: '<p>Doing maintenance or updates to existing content can be challenging
+    to justify to your organization. There’s even a community who call themselves
+    “The Maintainers” who identify as being “interested in the concepts of maintenance,
+    infrastructure, repair, and the myriad forms of labor and expertise that sustain
+    our human-built world”.</p>
+
+    <p>At DigitalOcean, we have a robust process of evaluating whether, when, and
+    how to update our legacy tutorials. We select tutorials for maintenance in essentially
+    two different ways: one (“Tech Debt”) is if we want something to link to from
+    our newer content, and the other (“Opportunistic”) is metrics-driven.</p>
+
+    <p>In this presentation, we’ll share some of our internal metrics dashboards,
+    explain the thresholds we use for determining whether to update our older content,
+    and demonstrate the measurable results we have from increasing traffic to the
+    content. We use several of our own metrics, including UVECs (Unique Visitors Excluding
+    Customers), Multi-touch signup starts, and customer conversions – our goal is
+    to do maintenance that consistently shows an improvement on all of these metrics.
+    You’ll learn how we pitch, schedule, and edit our own submissions to maximize
+    their value to our audience.</p>
+
+    <p>You’ll also learn about the team that authors and edits that content, and how
+    we prioritize and undertake that work. From an SEO perspective, this maintenance
+    is a great way to improve deep linking across our community site, and from an
+    everyday work perspective, it’s a great way to balance the need to always be publishing
+    new tutorials with the time to look after what we already have.</p>'
+- title: Zen And The Art Of Automanually Creating API Documentation - An Inquiry Into
+    Process
+  slug: zen-and-the-art-of-automanually-creating-api-documentation-an-inquiry-into-pro-dan-grabski
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2023
+  speakers:
+  - name: Dan Grabski
+    slug: dan-grabski
+    twitter: 
+    website: 
+  abstract: '<p>When presenting an API to a customer, that customer''s developers
+    depend on accurate and clear API documentation to understand the API contract
+    that their code will interact with. How do we make that documentation accurately
+    represent behavior, and also look good? How can we handle APIs spread across multiple
+    microservices and teams in a company, and make the documentation all look consistent
+    instead of looking like none of the teams have ever talked to each other?</p>
+
+    <p>Plenty of tools already exist for developers to write code that documents itself
+    and creates its own OpenAPI spec files. However, developer teams do not always
+    have the technical writing background needed to adequately describe APIs for customer
+    use. Technical writers can make excellent customer-facing documentation, but being
+    isolated from development and trying to keep up with field definition changes,
+    behavior changes, and various breaking changes, is an onerous task. And how do
+    we make it work with legacy code?</p>
+
+    <p>This presentation will show how we are pulling all of this together and creating
+    a new process for creating API documentation that we can be proud of. It will
+    show how we are creating a partially automatic, partially manual process that
+    is fault-tolerant and flexible enough to handle differences in technical approaches,
+    customer needs, and personalities.</p>
+
+    <p>What questions will this talk answer?</p>
+
+    <ul>
+
+    <li>How do I make a whole bunch of different services look uniform and coherent?</li>
+
+    <li>How do I create a process for creating OpenAPI spec files that are presentable
+    to customers?</li>
+
+    <li>How do I get technical writers, developers, and managers all working together?</li>
+
+    <li>How do I convince people that API documentation is a priority for everyone,
+    not just technical writers?</li>
+
+    </ul>
+
+    <p>And what can we learn from 24 hour psytrance at Burning Man that will help
+    people work together, anyway?</p>'
+- title: The visuals your users never saw…wait that’s most of them
+  slug: the-visuals-your-users-never-saw-wait-that-s-most-of-them-caitlin-davey
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2023
+  speakers:
+  - name: Caitlin Davey
+    slug: caitlin-davey
+    twitter: 
+    website: 
+  abstract: '<p>This talk shares practical evidence-informed ways to design and integrate
+    visuals into your documentation. The ultimate goal of including visuals in documentation
+    is to focus the learner’s attention. However, too often visuals end up being scrolled
+    over or worse distracting learners. The learning sciences provide a rich perspective
+    on images for learning. While instructional designers have a complex list of terms
+    to describe visuals for learning, I’ll break down the key terms to understand
+    when categorizing visuals. Moreover, I’ll share how to include different visuals
+    that support the aims of your documentation–instructing learners.  </p>
+
+    <p>This talk will focus on practical takeaways from evidence on how to best integrate
+    visuals into instructional content. Firstly, I’ll bust the myth of learning styles.
+    Then, I’ll explain why carefully chosen visuals can support all learners to get
+    more out of your written content. I’ll run through do’s, don’t’s, and nice-to-haves
+    when considering diagrams or other visuals within your documentation. Finally,
+    I’ll provide some ideas on how to get started updating the visual language of
+    your documentation.</p>'
+- title: 'Myths, Mistakes, and Missed Opportunities: Lessons learned from a year of
+    interviewing technical writers.'
+  slug: myths-mistakes-and-missed-opportunities-lessons-learned-from-a-year-of-interv-linda-ikechukwu
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2023
+  speakers:
+  - name: Linda Ikechukwu
+    slug: linda-ikechukwu
+    twitter: 
+    website: 
+  abstract: "<p>
+Developer advocate and technical writer Linda Ikechukwu launched her
+technical writing blog, www.everythingtechnicalwriting.com, in 2022. In
+just over a year, she’s interviewed over 10 prominent technical
+writers/documentarians on their career through her Tech Content Creator
+Series.
+</p>
+<p>
+From how Alexandra White, who had previously worked at only small
+unknown startups was able to stand out during Google’s technical writing
+interview process by submitting a style-guide formatted docs, to Amy
+Bun’s account of how she convinced her manager to create a new content
+design role for her on the Github documentation team. These experienced
+tech writers were eager to share the lessons they’ve learned while
+navigating their careers, their biggest challenges and how they overcame
+them, and mistakes they made, to help others avoid the same stumbling
+blocks, embarrassments, and missed opportunities.
+</p>
+<p>
+<p>This talk summarizes these once-in-a-lifetime lessons from seasoned
+industry technical writers for all newcomers who want to climb the
+ladder faster. Topics discussed will include:</p>
+<ul>
+<li>Best practices for interviewing for a tech writer role</li>
+<li>Levelling up as a tech writer without software engineering
+skills.</li>
+<li>Tips for freelancing as a technical writer.</li>
+<li>Transitioning from tech writing to other careers within your
+company.</li>
+<li>Transitioning from senior tech writer to management</li>
+<li>Working with managers who do not understand the importance of
+technical writers</li>
+</ul>
+</p>
+<p>"
+- title: Winning Over Coworkers, Collaborators, and Customers to a New Knowledge Experience
+  slug: winning-over-coworkers-collaborators-and-customers-to-a-new-knowledge-experien-jennifer-a-swallow
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2023
+  speakers:
+  - name: Jennifer A Swallow
+    slug: jennifer-a-swallow
+    twitter: 
+    website: 
+  abstract: '<p>In 2020, I was hired by Splunk to build a customer-facing, internally
+    crowdsourced use case and best practice repository. The project goal was to stop
+    gatekeeping expert knowledge that was previously limited to high-spend customers
+    and make it accessible to all customers through self-service. The larger business
+    goal was to improve our product adoption and customer retention rates. </p>
+
+    <p>Over the last three years, my content strategy has continuously evolved, and
+    Splunk Lantern has become a comprehensive customer success center. I faced so
+    many challenges during this time, but what I didn''t expect most of all was how
+    much of my role would be marketing, promotion, and communication. Just because
+    you build it, doesn''t mean they will come.</p>
+
+    <p>In this talk, I''ll share what I learned about:</p>
+
+    <ul>
+
+    <li>Winning, and sustaining, support of executives for a new documentation project</li>
+
+    <li>Helping managers encourage their team members to contribute content</li>
+
+    <li>Getting over impostor syndrome and learning to promote your project internally</li>
+
+    <li>Finding ways to reach customers and get them excited about your site</li>
+
+    <li>Ensuring continued awareness as new employees and new customers join</li>
+
+    </ul>
+
+    <p>If you are tasked with creating a new, crowd sourced knowledge base or if you
+    are managing a knowledge base with low usage or low internal support, this talk
+    is for you.</p>'
+- title: Navigating the Future of Technical Writing in a Rapidly Evolving Tech Landscape
+  slug: navigating-the-future-of-technical-writing-in-a-rapidly-evolving-tech-landscape-scott-truelove
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2023
+  speakers:
+  - name: Scott Truelove
+    slug: scott-truelove
+    twitter: 
+    website: 
+  abstract: '<p>Artificial Intelligence (AI) has been making strides in various industries,
+    but there is a common misconception that it will eventually replace human technical
+    writers. This talk aims to dispel that myth by presenting arguments and evidence
+    on why AI will never fully replace technical writers.</p>
+
+    <p>We will examine the current limitations of AI in areas such as creativity,
+    empathy, and problem-solving, which are critical skills for technical writing.
+    Additionally, we will discuss the importance of human intuition, critical thinking
+    and subject-matter expertise in technical writing and how AI falls short in these
+    areas.</p>
+
+    <p>We will explore the ethical and moral implications of relying solely on AI
+    for technical writing such as accountability, bias, and transparency. Talk will
+    provide a nuanced perspective on the relationship between AI and technical writing
+    and the role that human technical writers will play in the future and will highlight
+    the unique value that technical writers bring to the field and why AI will never
+    be able to fully replace them.</p>'
+- title: GREAT BIG ENGINEERING ORG; itty bitty docs team
+  slug: great-big-engineering-org-itty-bitty-docs-team-kari-halsted
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2023
+  speakers:
+  - name: Kari Halsted
+    slug: kari-halsted
+    twitter: 
+    website: 
+  abstract: '<p>In a <a href="https://medium.com/memory-leak/documentation-best-practices-b0de3cdc323#:~:text=10%3A1%20is%20the%20optimal%20ratio%20of%20developers%20to%20technical%20writers">2019
+    interview</a>, documentation veteran Pavi Sandhu cited a very reasonable 10:1
+    as the ideal ratio of software developers to technical writers, positing that
+    a writer can support two scrum teams. However, in case you were wondering why
+    you feel busy at work, according to the U.S. Bureau of Labor and Statistics, in
+    2021 there were 30 software developers for every 1 technical writer. </p>
+
+    <p>I work at a software company where the developer-to-writer ratio is, conservatively,
+    200:1. But this is not a talk about the ideal developer-to-writer ratio. It’s
+    not a talk about convincing your org to hire more writers. It’s not even really
+    a talk about how to grow the team. </p>
+
+    <p>This talk is about how my docs team survives, nay, <em>thrives</em> in an organization
+    where we are ridiculously outnumbered. It’s about a culmination of good choices
+    we made (and continue to make) based on <em>leaning into</em> the huge ratio rather
+    than fighting it.</p>
+
+    <p>It’s exhilarating to be part of an incredibly productive docs team! I’ll talk
+    about how we designed our roles, processes, infrastructure, and deliverables to
+    optimize for the needs of a large (and growing) product and engineering organization.
+    Even if your docs team isn’t quite as outnumbered, come hear about strategies
+    that can make your docs team more focused and capable:</p>
+
+    <ul>
+
+    <li>Implementing extreme docs-as-code and minimizing maintenance overhead.</li>
+
+    <li>Providing focus for writers.</li>
+
+    <li>Defining and sticking to service-level agreements that go both directions.</li>
+
+    <li>Fostering a “docs matter” mindset with product managers.</li>
+
+    <li>Building a strong, resilient team, and what that looks like.</li>
+
+    </ul>'
+- title: The Descriptivist Manifesto
+  slug: the-descriptivist-manifesto-ed-cormany
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2023
+  speakers:
+  - name: Ed Cormany
+    slug: ed-cormany
+    twitter: 
+    website: 
+  abstract: '<p>It''s easy to assume that the "technical" portion of technical writing
+    is adherence to rules: document specifications, style guides, and the like. But
+    so many of the alleged rules of English come from decades-old myths or the whims
+    of long-dead grammarians. How can we, as documentarians, ensure that the rules
+    we follow reflect excellent contemporary writing, as determined by both the world
+    at large and by our industry-specific language communities?</p>
+
+    <p>My answer to this problem is to constantly apply my training as a descriptive
+    linguist to my technical writing practice. I''ll show how to apply basic methods
+    of corpus linguistics to quickly answer usage questions, drawing on resources
+    as large as the 200 billion words in the Google Books corpus or as small as a
+    single Figma file shared among a few teammates. These tools can  quickly reveal
+    patterns of existing usage, preventing us from imposing unnatural choices on our
+    writing. </p>
+
+    <p>Adopting a descriptive view lets us <strong>document our products the same
+    way we talk about our products</strong>, eliminating a translation step that opens
+    up the risk of introducing factual errors. Ultimately, building linguistic consensus
+    within our teams and addressing our readers in language that feels familiar builds
+    truly communicative documentation, not merely "technical" writing.</p>'
+- title: 'Is it (layer) cake: Thinking in content levels'
+  slug: is-it-layer-cake-thinking-in-content-levels-ryan-young
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2023
+  speakers:
+  - name: Ryan Young
+    slug: ryan-young
+    twitter: 
+    website: 
+  abstract: '<p>“It’s levels to it, you and I know” </p>
+
+    <p>— Kendrick Lamar</p>
+
+    <p>Users visit docs to accomplish a goal. When a product is new, it’s relatively
+    simple to construct a good docs experience with a streamlined getting started
+    guide and a few concepts. As the product grows more complex, with added features
+    and alternative ways of accomplishing similar user goals, the docs swell in volume
+    to keep pace. This can lead to poor user experience of a docs site, with users
+    being directed to deep, technical guides that don’t answer their simple questions.
+    And when docs fail to provide the most important and relevant information to users,
+    users get frustrated. </p>
+
+    <p>At Stripe, we’ve developed a simple framework that helps us develop new content
+    and assess and revise existing content to create holistically consistent information
+    architecture (IA) and an improved user experience. The basic idea is that we should
+    think about three main levels of content: orientation, decision, and implementation.
+    Each level provides a different type of information that users are likely to need
+    at different times. Writers (and other docs contributors) should be aware of these
+    levels as they create or reorganize the IA for new products and content. Ideally,
+    following this framework ensures that we''ll create an experience where users:</p>
+
+    <ul>
+
+    <li>Don''t land on the wrong type of content</li>
+
+    <li>Know where they are in the docs, where to go next, and how to go back if they
+    need to</li>
+
+    <li>Accomplish their goal (like complete their Stripe integration successfully)
+    while having a surprisingly great experience</li>
+
+    </ul>
+
+    <p>In this presentation, I’ll explain how we developed this framework, compare
+    it to other similar frameworks, talk about how we’ve used it in our docs, and
+    how others can start using it.</p>'
+- title: 'From resistance to adoption: navigating the challenges of docs-like-code'
+  slug: from-resistance-to-adoption-navigating-the-challenges-of-docs-like-code-adam-altman
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2023
+  speakers:
+  - name: Adam Altman
+    slug: adam-altman
+    twitter: 
+    website: 
+  abstract: '<p>Many technical writers want to implement docs-like-code and must deal
+    with organizational resistance in the form of objections.</p>
+
+    <p>Technical writing has its own set of challenges. What happens when you want
+    to introduce a new docs-like-code system and workflows? If you’ve tried or considered
+    it and encountered organizational resistance this talk is for you.</p>
+
+    <p>After a brief intro to docs-like-code, we’ll overcome each of the 10 most common
+    objections to implementing docs-like-code.</p>
+
+    <ol>
+
+    <li>Lack of familiarity with Markdown or other document formatting languages.</li>
+
+    <li>Perceived lack of features compared to traditional word processors.</li>
+
+    <li>Resistance to change from established workflows and tools.</li>
+
+    <li>Concerns about collaboration and version control.</li>
+
+    <li>Uncertainty about the future of the technology and lack of widespread adoption.</li>
+
+    <li>Difficulty integrating with other tools or systems in use within the organization.</li>
+
+    <li>Difficulty in handling more complex formatting requirements.</li>
+
+    <li>Challenges in managing large documents with many dependencies.</li>
+
+    <li>Inability to handle multimedia content, such as images or videos.</li>
+
+    <li>Lack of support for real-time collaboration and feedback.</li>
+
+    </ol>'
+- title: 'Release-ready Docs: How a 2-person team keeps a help center consistently
+    accurate'
+  slug: release-ready-docs-how-a-2-person-team-keeps-a-help-center-consistently-accurat-daniel-murphey
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2023
+  speakers:
+  - name: Daniel Murphey
+    slug: daniel-murphey
+    twitter: 
+    website: 
+  abstract: '<p>How did a two-person technical writing team have 100% of their 200+
+    article, image-rich, 30-language Intercom help center up to date within hours
+    of a major software redesign release? Release-readiness practices!</p>
+
+    <p>Keeping a software help center up to date with continual product changes can
+    be a struggle, but it doesn’t have to be. It can even be a delight! For the past
+    two years, the Webex Events help center has been day-one release accurate through
+    a combination of careful planning and constant communication with product teams
+    and stakeholders. This means that customers, support, sales, and marketing are
+    all equipped with the latest information so they can act and learn with confidence.</p>
+
+    <p>In this talk, I’ll discuss:</p>
+
+    <ul>
+
+    <li>What “release-ready” means</li>
+
+    <li>The benefits of release-ready documentation</li>
+
+    <li>Processes and tools we use to keep our help center day-one release accurate</li>
+
+    <li>Challenges we’ve had to overcome</li>
+
+    <li>Tips to open lines of communication, make helpful friends, and achieve day-one
+    docs</li>
+
+    </ul>'
+- title: 'Trauma-Informed Documentation: Taking empathy and inclusive language to
+    the next level'
+  slug: trauma-informed-documentation-taking-empathy-and-inclusive-language-to-the-next-ashleigh-rentz
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2023
+  speakers:
+  - name: Ashleigh Rentz
+    slug: ashleigh-rentz
+    twitter: 
+    website: 
+  abstract: '<p>In the software industry, welcoming and empathetic communities don''t
+    form by accident—it takes intention, effort, and commitment. Our Write The Docs
+    community is special today because this has been a priority since the first conference
+    10 years ago. Inclusive language is one of the tools we use to nurture this environment,
+    but it''s often misunderstood (and sometimes disparaged) as a list of rules to
+    memorize just to avoid offending anyone. How can we improve this approach?</p>
+
+    <p>Trauma is complex, but can be succinctly described as a lasting emotional response
+    to distressing events one has lived through. By examining empathy and inclusive
+    language through the lens of trauma, we can:</p>
+
+    <ul>
+
+    <li>identify and evaluate potentially problematic language in advance</li>
+
+    <li>understand how and why problematic language may negatively affect people</li>
+
+    <li>advocate for inclusive language, even against resistance</li>
+
+    </ul>
+
+    <p>Trauma is far more widespread than we might first imagine, but we can avoid
+    the dynamics that may bring those emotional responses back to the forefront. The
+    words we choose genuinely matter.</p>
+
+    <p>NOTE: Trauma is a heavy subject to examine. Content warnings will be provided
+    both at the beginning of the talk and immediately prior to each slide they are
+    relevant to. Please prioritize your well-being.</p>'
+- title: Did You Read the SOP? Procedure Writing for the Laboratory
+  slug: did-you-read-the-sop-procedure-writing-for-the-laboratory-sarah-greene
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2023
+  speakers:
+  - name: Sarah Greene
+    slug: sarah-greene
+    twitter: 
+    website: 
+  abstract: '<p>Laboratory technologists must be precise, concise, and consistent
+    in their work to assist clinicians in making critical decisions. Sound familiar?
+    The work of laboratorians is parallel with documentarians in any field! </p>
+
+    <p>The essential tool that helps the lab achieve this goal is our SOPs (Standard
+    Operating Procedures). SOPs are the foundation to the diagnostic laboratory -
+    many lab errors can be avoided with consistent adherence to written procedures.
+    An array of documentation in the laboratory is essential for accurate results,
+    consistent and cohesive judgments on subjective evaluations, and for communicating
+    test results clearly.</p>
+
+    <p>Each specialty in the laboratory is responsible for the development and maintenance
+    of their own department’s documentation. This is often viewed as a burden. Most
+    laboratorians are not writers, and the added responsibility of technical writing
+    is not viewed favorably.</p>
+
+    <p>That’s what I aim to change in the laboratory! As a documentarian AND laboratorian,
+    my goal is to encourage my fellow lab techs to take ownership of their procedures
+    and inspire them to take pride in their writing.</p>
+
+    <p>In this talk we’ll discuss:</p>
+
+    <ul>
+
+    <li>What makes a good SOP from the laboratorian’s perspective</li>
+
+    <li>What are the attitudes of laboratorians toward documentation? How do we inspire
+    non-writers to take ownership of their docs?</li>
+
+    <li>What do laboratorians look for in documentation? Often in high-stress situations,
+    what works and what doesn’t?</li>
+
+    <li>What the lab experience can teach technical writers</li>
+
+    </ul>'
