@@ -51,7 +51,7 @@ or are just excited about helping out with the conference.
 Volunteering will get you a free ticket to the conference in return for working a couple shifts (averaging around 3 hours each) at the event.
 
 This form will stay open until we have enough volunteers signed up for the event.
-Generally you have until mid March
+The earliest we plan to close the form would be March 15.
 Volunteers will receive additional information in early April regarding shifts, detailed duties, and other updates to the volunteer duties and schedules.
 
 * `Complete our volunteer application form <https://docs.google.com/forms/d/e/1FAIpQLSfbnCr0Kbay2mBTe0mM7lTP85tzj9DUFD8LCyegUugk81KQGg/viewform?usp=sf_link>`_ if you're interested in volunteering.
