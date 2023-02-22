@@ -46,9 +46,9 @@ Call for Volunteers
 -------------------
 
 We're also looking for volunteers to help out at the conference.
-Generally volunteers live within driving distance,
+Generally volunteers live within driving distance to the venue,
 or are just excited about helping out with the conference.
-Volunteering will get you a free ticket to the conference in return for working a couple shifts (averaging around 3 hours each) at the event.
+Volunteering will get you a free ticket to the conference in return for working at least two shifts (averaging around 3 hours each) at the event.
 
 This form will stay open until we have enough volunteers signed up for the event.
 The earliest we plan to close the form would be March 15.
