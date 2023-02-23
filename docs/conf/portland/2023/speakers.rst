@@ -4,8 +4,6 @@
 Conference Speakers
 ===================
 
-**All talk videos will be published on our YouTube channel no later than 1 week after the conference.**
-
 {% if flagspeakersannounced %}
 
 .. datatemplate::

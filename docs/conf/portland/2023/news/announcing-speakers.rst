@@ -30,11 +30,11 @@ We hope there's something there for everyone to enjoy, and also something that w
 Call for Volunteers
 -------------------
 
-We are looking for volunteers to help out at the conference and provide support with a variety of tasks - registration, A/V and tech, unconference, speaker support and anything else that may come up.
+We are looking for volunteers to help out at the conference and provide support with a variety of tasks: registration, A/V and tech, unconference, speaker support, and anything else that may come up.
 
 Each individual who volunteers for two or more shifts receives a free ticket to the conference. Shifts range from 3-4 hours in length with a break during the shift.
 
-Application will be open until we have enough volunteers signed up for the event. This is typically mid-March.
+Application will be open until we have enough volunteers signed up for the conference. This is typically mid-March.
 
 * Check out our `volunteer application form <https://docs.google.com/forms/d/e/1FAIpQLSfbnCr0Kbay2mBTe0mM7lTP85tzj9DUFD8LCyegUugk81KQGg/viewform?usp=sf_link>`_  for more information and to sign up to volunteer.
 
