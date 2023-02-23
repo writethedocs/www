@@ -9,10 +9,10 @@ Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel a
    :depth: 1
    :backlinks: none
 
-Upcoming Book Club
+Current Book Club
 ------------------
 
-Our next book club starts Monday, February 5, 2023.
+Our current book club started Monday, February 6, 2023.
 
 Book: June Casagrande's `It Was the Best of Sentences, It Was the Worst of Sentences <https://www.penguinrandomhouse.com/books/198856/it-was-the-best-of-sentences-it-was-the-worst-of-sentences-by-june-casagrande/>`_
 
