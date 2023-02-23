@@ -17,21 +17,26 @@ During the main days of the conference (Monday and Tuesday), ample food and refr
 Where to stay
 -------------
 
-We are not working with any of the hotels for attendee accommodations,
-but there are many hotels available in Portland:
+There are also many options on VRBO, Airbnb, and other sites in the neighborhood around the venue.
 
-- **Closest**: `The Jupiter Hotel <https://www.jupiterhotel.com/>`_
-- `Crystal Hotel <http://www.mcmenamins.com/CrystalHotel>`__
+The venue is not located close to any specific hotels,
+but there are a few options that are a 5-10 minute walk away:
+
+- `Hotel Grand Stark <https://www.palisociety.com/hotels/hotel-grand-stark>`_ 
+- `Kex Hotel <https://kexhotels.com/>`_
+
+There are also many options located downtown,
+which is accessible by a bus or bike to the venue:
+
 - `Ace Hotel <http://www.acehotel.com/portland>`__
 - `Hotel DeLuxe <http://www.hoteldeluxeportland.com/>`__
 - `Dossier Hotel <https://dossierhotel.com>`__
 - `Mark Spencer <http://www.markspencer.com/>`__
 - `The Sentinel <http://www.sentinelhotel.com/>`__
 - `The Society Hotel <https://thesocietyhotel.com>`__
+- `Crystal Hotel <http://www.mcmenamins.com/CrystalHotel>`__
 
-Check TripAdvisor to find other hotels and accommodations in the Portland area.
-**Closest**: `The Jupiter Hotel <https://www.jupiterhotel.com/>`_
-
+Check Booking.com or TripAdvisor to find other hotels and accommodations in the Portland area.
 
 How to get around
 -----------------
@@ -67,9 +72,10 @@ Driving to Revolution Hall
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If you drive to the conference,
-note that the **venue doesn't have parking on-site.**
+note that the venue doesn't have parking on-site.
 You are able to park in the nearby neighborhood in street parking for free.
-Anywhere east of 16th Ave is allowed for all-day street parking.
+
+**Any of the streets east of the venue (15th Ave and higher) allow for all-day street parking.**
 
 Bike rentals
 ~~~~~~~~~~~~

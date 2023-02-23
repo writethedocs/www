@@ -61,7 +61,7 @@ This means we have capacity limits and can't guarantee late-registration tickets
 
 * Read our `Convince your manager page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/convince-your-manager/>`_ to help make the case for attending.
 * Buy your tickets on our `Tickets page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
-
+* Plan your trip with our `Visiting Portland page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`_.
 
 Thanks to our sponsors
 ----------------------
