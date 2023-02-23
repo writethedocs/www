@@ -60,6 +60,8 @@ The Writing Day will be held at **{{about.venue}}**.
 
 {% endif %}
 
+.. _{{shortcode}}-{{year}}-writing-day:
+
 Writing Day
 ~~~~~~~~~~~
 
@@ -150,6 +152,8 @@ with each session happening during a corresponding talk on the main stage.
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
+.. _{{shortcode}}-{{year}}-social-event:
+
 Social Event
 ~~~~~~~~~~~~
 
@@ -203,6 +207,8 @@ Talks are around 30 minutes, with _moderated on-stage Q&A_.
 {% endif %}
 
 {% if flaghasjobfair %}
+
+.. _{{shortcode}}-{{year}}-job-fair:
 
 Job Fair
 ~~~~~~~~
