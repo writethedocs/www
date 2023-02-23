@@ -22,8 +22,8 @@ buttons:
     #   link: /news/website-tickets-cfp-reminder/
   #  - text: Sponsor us
   #    link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
+    # - text: Submit a Talk
+    #   link: /cfp
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: Read our conference guide
@@ -32,8 +32,8 @@ buttons:
   #     link: /schedule
     - text: Buy a Ticket!
       link: /tickets
-  #   - text: See the talks!
-  #     link: /speakers
+    - text: See the talks!
+      link: /speakers
   #  - text: See the Schedule!
   #    link: /schedule
   #  - text: Read our guide
