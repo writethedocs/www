@@ -37,7 +37,7 @@ Review the search engine documentation guides:
 WTD resources on SEO
 ~~~~~~~~~~~~~~~~~~~~
 
-Look at the topic archive for the section on search.
+Look at the :doc:`topic archive </topics>` for the section on search.
 
 Books
 ~~~~~
