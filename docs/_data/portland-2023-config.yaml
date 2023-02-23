@@ -220,6 +220,7 @@ sponsors:
     - name: readthedocs
       link: https://about.readthedocs.com/
       brand: Read the Docs
+      width: 250px
     # - name: livelike
     #   link: https://livelike.com/
     #   brand: LiveLike
