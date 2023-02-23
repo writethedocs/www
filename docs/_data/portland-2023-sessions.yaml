@@ -124,41 +124,39 @@
     slug: linda-ikechukwu
     twitter: 
     website: 
-  abstract: "<p>
-Developer advocate and technical writer Linda Ikechukwu launched her
-technical writing blog, www.everythingtechnicalwriting.com, in 2022. In
-just over a year, she’s interviewed over 10 prominent technical
-writers/documentarians on their career through her Tech Content Creator
-Series.
-</p>
-<p>
-From how Alexandra White, who had previously worked at only small
-unknown startups was able to stand out during Google’s technical writing
-interview process by submitting a style-guide formatted docs, to Amy
-Bun’s account of how she convinced her manager to create a new content
-design role for her on the Github documentation team. These experienced
-tech writers were eager to share the lessons they’ve learned while
-navigating their careers, their biggest challenges and how they overcame
-them, and mistakes they made, to help others avoid the same stumbling
-blocks, embarrassments, and missed opportunities.
-</p>
-<p>
-<p>This talk summarizes these once-in-a-lifetime lessons from seasoned
-industry technical writers for all newcomers who want to climb the
-ladder faster. Topics discussed will include:</p>
-<ul>
-<li>Best practices for interviewing for a tech writer role</li>
-<li>Levelling up as a tech writer without software engineering
-skills.</li>
-<li>Tips for freelancing as a technical writer.</li>
-<li>Transitioning from tech writing to other careers within your
-company.</li>
-<li>Transitioning from senior tech writer to management</li>
-<li>Working with managers who do not understand the importance of
-technical writers</li>
-</ul>
-</p>
-<p>"
+  abstract: '<p>Developer advocate and technical writer Linda Ikechukwu launched her
+    technical writing blog, www.everythingtechnicalwriting.com, in 2022. In just over
+    a year, she’s interviewed over 10 prominent technical writers/documentarians on
+    their career through her Tech Content Creator Series. </p>
+
+    <p>From how Alexandra White, who had previously worked at only small unknown startups
+    was able to stand out during Google’s technical writing interview process by submitting
+    a style-guide formatted docs, to Amy Bun''s account of how she convinced her manager
+    to create a new content design role for her on the Github documentation team.
+    These experienced tech writers were eager to share the lessons they’ve learned
+    while navigating their careers, their biggest challenges and how they overcame
+    them, and mistakes they made, to help others avoid the same stumbling blocks,
+    embarrassments, and missed opportunities. </p>
+
+    <p>This talk summarizes these once-in-a-lifetime lessons from seasoned industry
+    technical writers for all newcomers who want to climb the ladder faster. Topics
+    discussed will include:</p>
+
+    <ul>
+
+    <li>Best practices for interviewing for a tech writer role</li>
+
+    <li>Levelling up as a tech writer without software engineering skills. </li>
+
+    <li>Tips for freelancing as a technical writer.</li>
+
+    <li>Transitioning from tech writing to other careers within your company.</li>
+
+    <li>Transitioning from senior tech writer to management</li>
+
+    <li>Working with managers who do not understand the importance of technical writers</li>
+
+    </ul>'
 - title: Winning Over Coworkers, Collaborators, and Customers to a New Knowledge Experience
   slug: winning-over-coworkers-collaborators-and-customers-to-a-new-knowledge-experien-jennifer-a-swallow
   series: Write the Docs Portland
