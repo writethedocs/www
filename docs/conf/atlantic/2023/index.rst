@@ -3,7 +3,8 @@
 
 :orphan:
 
-.. title:: Home
+.. title:: Home | Write the docs {{ name }} {{ year }}
+
 
 .. raw:: html
 
