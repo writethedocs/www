@@ -3,6 +3,9 @@
 
 :orphan:
 
+.. title:: Home
+
+
 .. raw:: html
 
   <div class="news-block">

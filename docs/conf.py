@@ -64,9 +64,19 @@ extensions = [
     'notfound.extension',
     'sphinxemoji.sphinxemoji',
     'myst_parser',
+    'sphinxext.opengraph',
 ]
 
 myst_heading_anchors = 4
+
+ogp_site_name = "Write the Docs"
+ogp_image = 'https://www.writethedocs.org/_static/logo-opengraph.png'
+ogp_use_first_image = True
+ogp_enable_meta_description = True
+# Inspired by https://github.com/executablebooks/MyST-Parser/pull/404/
+ogp_custom_meta_tags = [
+    '<meta name="twitter:card" content="summary_large_image" />',
+]
 
 blog_baseurl = 'https://www.writethedocs.org/'
 blog_path = 'blog/archive'
