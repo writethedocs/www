@@ -29,9 +29,8 @@
         <!-- things that change -->
         <meta name="dc.language" content="en">
         <meta name="geo.placename" content="{{ city }}, {{ area }}">
-        {% block meta %}
-        {{ metatags }}
-        {% endblock %}
+
+        {{- metatags }}
 
         <title>
         {% block full_title %}
