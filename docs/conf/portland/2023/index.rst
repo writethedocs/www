@@ -3,6 +3,8 @@
 
 :orphan:
 
+.. title:: Home
+
 
 .. raw:: html
 
