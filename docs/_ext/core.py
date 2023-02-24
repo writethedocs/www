@@ -44,9 +44,6 @@ def load_conference_page_context(app, page):
                 return app.config.wtd_cache[cache_key]
             context = load_conference_context_from_yaml(shortcode, year, year_str, page)
             context['year_str'] = year_str
-            # Hack title w/ opengraph
-            if context.get('title'):
-                context['meta']['og:title'] = f"context['title'] - Write the Docs context['name'] context['year']"
             app.config.wtd_cache[cache_key] = context
             return context
     return {}
@@ -208,6 +205,10 @@ def override_template_load_context(app, pagename, templatename, context, doctree
     """
     page_context = load_conference_page_context(app, pagename)
     context.update(page_context)
+    if 'year' in context and context['year'] >= 2018:
+        # Hack title w/ opengraph
+        if context.get('title'):
+            context['meta']['og:title'] = f"context['title'] - Write the Docs context['name'] context['year']"
 
     # Markdown
     if (context and
