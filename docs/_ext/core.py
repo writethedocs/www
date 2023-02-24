@@ -209,6 +209,7 @@ def override_template_load_context(app, pagename, templatename, context, doctree
     if 'year' in context:
         # Hack title w/ opengraph
         context['meta']['og:title'] = f"context['title'] - Write the Docs context['name'] context['year']"
+        context['meta']['og:site_name'] = f"Write the Docs context['name'] context['year']"
 
 
     # Markdown
