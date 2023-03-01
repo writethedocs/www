@@ -36,16 +36,18 @@
                         <li>
                           <ul class="uk-navbar-nav">
                               <li>
+                                {% if not flagisvirtual %}
                                   <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">Visiting</a>
                                   <div class="uk-navbar-dropdown">
                                       <ul class="uk-nav uk-navbar-dropdown-nav">
-                                          {% if not flagisvirtual %}
                                             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">{{ city }}</a></li>
                                             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/health') }}">Health and Safety Policy</a></li>
-                                          {% endif %}
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/venue') }}">Venue</a></li>
                                       </ul>
                                   </div>
+                                {% else %}
+                                  <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/venue') }}">Venue</a>
+                                {% endif %}
                               </li>
                           </ul>
                         </li>
