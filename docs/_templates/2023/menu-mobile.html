@@ -30,8 +30,10 @@
                   <li class="uk-parent">
                       <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">Visit</a>
                       <ul class="uk-nav-sub">
-                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">{{ city }}</a></li>
-                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/health') }}">Health and Safety Policy</a></li>
+                          {% if not flagisvirtual %}
+                            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">{{ city }}</a></li>
+                            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/health') }}">Health and Safety Policy</a></li>
+                          {% endif %}
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/venue') }}">Venue</a></li>
                       </ul>
                   </li>

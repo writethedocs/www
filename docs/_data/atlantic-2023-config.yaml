@@ -135,11 +135,11 @@ about:
   summary:
     "The main presentation track takes place on **September 11-12 (Monday and Tuesday) from 10:00 to 18:00**.
     During the main event we also run an :doc:`/conf/atlantic/2023/unconference`."
-  #social_venue: "Spatial chat platform"
-  venue: "Online conference platform"
+  social_venue: "Spatial chat platform"
+  venue: "Hopin online conference platform"
   photos:
-  mainroom: "Video area"
-  unconfroom: "Chat area"
+  mainroom: "Stage area"
+  unconfroom: "Sessions area"
   projector_ratio: "16:9"
   job_fair_room: "Sponsor area"
 
@@ -173,7 +173,7 @@ sponsors:
 
 # Things that change over time, listed in order of change
 flagcfp: False
-flaglanding: True
+flaglanding: False
 flaghassponsors: False
 flagticketsonsale: False
 flagsoldout: False
@@ -192,3 +192,4 @@ flaghasunconf: True
 flaghaswritingday: True
 flaghasjobfair: True
 flaghasbadgeflair: False
+flagisvirtual: True
