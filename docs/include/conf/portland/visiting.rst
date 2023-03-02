@@ -17,11 +17,54 @@ Where to stay
 
 Revolution Hall is a converted high school located in the historic Buckman neighborhood in Portland’s vibrant inner-east side. It is surrounded by a mixture of vintage and modern housing, parks, small businesses, and a variety of local eateries including coffee shops and restaurants.
 
-There are many options on VRBO, Airbnb, and other sites in the neighborhood around the venue. We encourage you to look into these options to find lodging nearest the venue. 
+There are many options on `VRBO <https://www.vrbo.com/>`_, `Airbnb <https://www.airbnb.com/>`_, and other sites in the neighborhood around the venue. We encourage you to look into these options to find lodging nearest the venue.
 
-There are a number of hotels located within 1.5 miles of the venue. These are a short rideshare trip away! You are welcome to walk, but please note that our beloved city has experienced an increase in unhoused residents in the past few years, and you may see evidence of this.
 
-*Lodging recommendations coming soon!*
+There are also a number of hotels located within two miles of the venue. These are a short rideshare trip away! You are welcome to walk, but please note that our beloved city has experienced an increase in unhoused residents in the past few years, and you may see evidence of this. 
+
+Eastside Portland (near Revolution Hall)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`Lolo Pass <https://www.lolopass.com/>`_
+
+- Affordable private and shared room options
+- Coffee/cafe in lobby, coworking space
+- 0.4 miles to venue, walkable
+
+`KEX Portland <https://kexhotels.com/>`_
+
+- Charming private and shared room options
+- Beautiful restaurant in lobby
+- 0.8 miles from venue
+
+`Hotel Eastlund <https://hoteleastlund.com/>`_
+
+- Wonderful rooftop restaurant and bar
+- 1.2 miles from venue
+
+Downtown/Westside Portland
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Our Westside hotel recommendations are located within and near Portland’s Pearl District, a vibrant neighborhood with shops, restaurants and Powell's Books!
+
+`Canopy Hotel by Hilton <https://www.hilton.com/en/hotels/pdxpepy-canopy-portland-pearl-district/>`_
+
+- Modern hotel near art and nightlife
+- Restaurant in lobby, 24-hour fitness center
+- 1.9 miles from venue
+
+`Ace Hotel <https://acehotel.com/portland/>`_
+
+- Boutique hotel with private and shared room options
+- 1.8 miles from venue
+
+`Mark Spencer Hotel <https://markspencer.com/>`_
+
+- Historic hotel with upscale accommodations
+- 1.9 miles from venue
+
+There are a number of other wonderful hotels in this city. If you have a question about a specific hotel or neighborhood outside of our list, contact portland@writethedocs.org.
+
 
 Getting around
 --------------
