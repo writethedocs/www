@@ -12,10 +12,10 @@ A portfolio consists of a set of the writer's best samples of their work.
 What "best samples" means is entirely subjective on your part.
 When building out a portfolio, include samples of writing that:
 
-- you are exceptionally proud of
-- demonstrate a particular skill
-- validate domain knowledge in a particular area
-- showcase your understanding of good technical writing technique
+- you are exceptionally proud of.
+- demonstrate a particular skill.
+- validate domain knowledge in a particular area.
+- showcase your understanding of good technical writing technique.
 
 Hiring managers and interviewers are pressed for time like anyone else.
 Long pieces are unlikely to be read in their entirety.
@@ -29,6 +29,15 @@ Even for samples you create on your own, overview who you would expect to involv
 Would you talk to product managers, engineers, QA?
 Would you involve reviewers or editors?
 Talk about your process for writing your samples. 
+
+Make sure you craft your portfolio to target the type of role(s) you want.
+It is perfectly okay to have multiple portfolios for different types of jobs.
+
+- When applying to editing roles, having before and after samples of work you edited would be beneficial.
+- If applying to information architecture roles, provide examples showing good practices for tables of contents and knowledge management.
+- For API documentation roles, the portfolio should demonstrate knowledge of HTTP request types, responses, and standards like OpenAPI.
+- For manufacturing, include design drawings.
+- When applying for senior or lead technical writer roles, include samples that show your project management and leadership skills.
 
 What not to include in a portfolio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -58,6 +67,7 @@ Create your own content not related to your current or past jobs.
 - Write out a "how to" for defeating the first boss of your favorite game
 - Create a "how to" for an open source tool
 - Craft a recipe in the style of the kinds of technical documents you write (or would like to write)
+- Discuss the role of style guides, including your preferences
 
 In short, use your imagination.
 Consider the kind of writing you know how to do well, and include something that really showcases that style.
@@ -84,10 +94,10 @@ There are many options for hosting your content depending on how you write it.
   SSGs make it easy to convert mark up text into a static web site.
   Many documentation teams use SSGs to publish their docs.
   Use creating your portfolio to learn docs-as-code publishing steps and tools like markdown, Hugo, Mkdocs, Git, and so many more.
-- Create one big PDF and email it when asked for samples.
+- Create one PDF file of your samples that you can provide when asked.
 
 You can also have printed samples ready to hand over for in-person interviews.
-However, those are more difficult to share between all the members of an interviewing team.
+However, those are more difficult to share among all the members of an interviewing team.
 
 Other portfolio considerations
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -114,6 +124,9 @@ Wordpress is perfectly fine if you can't get Hugo to build the way you want it t
 Word docs are perfectly fine if you have no interest in learning Markdown or DITA.
 It's your portfolio.
 You get to decide.
+
+Ask for help and portfolio reviews from the Write the Docs community.
+The ``#career-advice`` channel in Slack is a great place to ask.
 
 Portfolio examples
 ~~~~~~~~~~~~~~~~~~
