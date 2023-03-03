@@ -79,7 +79,7 @@ There are many options for hosting your content depending on how you write it.
   Wordpress powers 47% of the web, or so one statistic says.
   There is a reason it is so widely used.
   If you are familiar with Wordpress or want to become familiar with it, this is a good way to build those skills.
-  Similar tools like Squarespace or Wix.com are just as valid for hosting your samples.
+  Similar tools like `Squarespace <https://www.squarespace.com/>`_ or `Wix <https://wix.com>`_ are just as valid for hosting your samples.
 - A static site generator hosted on Github Pages, Netlify, or your own cloud storage.
   SSGs make it easy to convert mark up text into a static web site.
   Many documentation teams use SSGs to publish their docs.
@@ -122,4 +122,9 @@ A list of portfolio examples from Write the Docs folks who have agreed to share 
 
 - `Alia Michaels <https://www.aliamm.com>`__
 - `Daryl White <https://www.djw.fyi>`__
-- `Heather Cloward <hcloward.github.io>`__
+- `Heather Cloward <https://hcloward.github.io>`__
+
+Other resources
+~~~~~~~~~~~~~~~
+
+The :doc:`topic index </topics#getting-hired>` has links to several previous Write the Docs newsletter articles about portfolios.
