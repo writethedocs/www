@@ -140,4 +140,4 @@ A list of portfolio examples from Write the Docs folks who have agreed to share 
 Other resources
 ~~~~~~~~~~~~~~~
 
-The :doc:`topic index </topics>` has a Getting Hired heading with links to several previous Write the Docs newsletter articles about portfolios.
+The :doc:`topic index </topics/#getting-hired>` has links to several previous Write the Docs newsletter articles about portfolios.
