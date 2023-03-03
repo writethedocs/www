@@ -21,12 +21,12 @@ Hiring managers and interviewers are pressed for time like anyone else.
 Long pieces are unlikely to be read in their entirety.
 Include the best sections that really showcase your skills and abilities.
 
-You can incude links to published documents you contributed to.
+You can include links to published documents you contributed to.
 Include disclaimers where appropriate, as content you do not own or host on your own site may change or be removed at any time.
 
 Include a short description of each piece that talks about your process for creating it.
 Even for samples you create on your own, overview who you would expect to involve in creating the doc.
-Woud you talk to product managers, engineers, QA?
+Would you talk to product managers, engineers, QA?
 Would you involve reviewers or editors?
 Talk about your process for writing your samples. 
 
@@ -75,7 +75,7 @@ There are many options for hosting your content depending on how you write it.
 - Online drives like Google Drive, Microsoft OneDrive, an AWS S3 bucket, iCloud, Box.com, Dropbox, and similar are all great places.
   Create a folder for your files, load them up, then share the folder when the time comes.
 - A self-created website built with HTML, CSS, and/or JavaScript and hosted on a public server.
-- Wordpess website.
+- Wordpress website.
   Wordpress powers 47% of the web, or so one statistic says.
   There is a reason it is so widely used.
   If you are familiar with Wordpress or want to become familiar with it, this is a good way to build those skills.
