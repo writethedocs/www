@@ -140,4 +140,5 @@ A list of portfolio examples from Write the Docs folks who have agreed to share 
 Other resources
 ~~~~~~~~~~~~~~~
 
-The :doc:`topic index </topics>` has a Getting Hired heading with links to several previous Write the Docs newsletter articles about portfolios.
+- The :doc:`topic index </topics>` has a Getting Hired heading with links to several previous Write the Docs newsletter articles about portfolios.
+- Community member Kyle Rollins wrote up a `guide for getting started with a portfolio website using Github and Netlify <https://basic-portfolio-docs.netlify.app/>`_.
