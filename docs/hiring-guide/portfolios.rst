@@ -103,4 +103,4 @@ Portfolio examples
 
 A list of portfolio examples from Write the Docs folks who have agreed to share theirs here:
 
-- [Daryl White](https://www.djw.fyi)
+- `Daryl White <https://www.djw.fyi>`__
