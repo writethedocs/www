@@ -17,6 +17,19 @@ When building out a portfolio, include samples of writing that
 - validates domain knowledge in a particular area
 - showcases your understanding of good technical writing technique
 
+Hiring managers and interviewers are pressed for time like anyone else.
+Long pieces are unlikely to be read in their entirety.
+Include the best sections that really showcase your skills and abilities.
+
+You can incude links to published documents you contributed to.
+Include disclaimers where appropriate, as content you do not own or host on your own site may change or be removed at any time.
+
+Include a short description of each piece that talks about your process for creating it.
+Even for samples you create on your own, overview who you would expect to involve in creating the doc.
+Woud you talk to product managers, engineers, QA?
+Would you involve reviewers or editors?
+Talk about your process for writing your samples. 
+
 What not to include in a portfolio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -30,6 +43,8 @@ Abide by any restrictions they may have, such as scrubbing sensitive information
 Never include real or sensitive information about you or others.
 Do not include passwords, URLs, trade secrets, unreleased features, personal information, or other such items.
 
+Avoid including long samples, as those reviewing portfolios are unlikely to read them.
+
 Writing samples when you don't have permission to use real work
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -40,8 +55,8 @@ So what should you do instead?
 Create your own content not related to your current or past jobs.
 
 - Document a tool or software that you use regularly
-- Write out how to defeat the first boss of your favorite game
-- Create a how to for an open source tool
+- Write out a "how to" for defeating the first boss of your favorite game
+- Create a "how to" for an open source tool
 - Craft a recipe in the style of the kinds of technical documents you write (or would like to write)
 
 In short, use your imagination.
@@ -59,6 +74,7 @@ There are many options for hosting your content depending on how you write it.
 
 - Online drives like Google Drive, Microsoft OneDrive, an AWS S3 bucket, iCloud, Box.com, Dropbox, and similar are all great places.
   Create a folder for your files, load them up, then share the folder when the time comes.
+- A self-created website built with HTML, CSS, and/or JavaScript and hosted on a public server.
 - Wordpess website.
   Wordpress powers 47% of the web, or so one statistic says.
   There is a reason it is so widely used.
@@ -82,6 +98,7 @@ Don't neglect it.
 How you create your portfolio is itself part of your portfolio.
 Consider writing out why you created your portfolio the way you did, what steps you took to complete it, and any problems you solved along the way.
 Then include that as one of your writing samples.
+Be sure to include any skills you learn or tools you use along the way on your resume!
 
 Your portfolio should represent you at your best.
 Be sure to carefully comb through your samples for grammar and spelling errors and clean them up.
@@ -104,3 +121,4 @@ Portfolio examples
 A list of portfolio examples from Write the Docs folks who have agreed to share theirs here:
 
 - `Daryl White <https://www.djw.fyi>`__
+- `Alia Michaels <https://www.aliamm.com>`
