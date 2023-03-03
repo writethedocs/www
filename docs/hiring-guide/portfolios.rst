@@ -10,12 +10,12 @@ What to include in a portfolio
 
 A portfolio consists of a set of the writer's best samples of their work.
 What "best samples" means is entirely subjective on your part.
-When building out a portfolio, include samples of writing that
+When building out a portfolio, include samples of writing that:
 
 - you are exceptionally proud of
 - demonstrate a particular skill
-- validates domain knowledge in a particular area
-- showcases your understanding of good technical writing technique
+- validate domain knowledge in a particular area
+- showcase your understanding of good technical writing technique
 
 Hiring managers and interviewers are pressed for time like anyone else.
 Long pieces are unlikely to be read in their entirety.
@@ -120,5 +120,6 @@ Portfolio examples
 
 A list of portfolio examples from Write the Docs folks who have agreed to share theirs here:
 
+- `Alia Michaels <https://www.aliamm.com>`__
 - `Daryl White <https://www.djw.fyi>`__
-- `Alia Michaels <https://www.aliamm.com>`
+- `Heather Cloward <hcloward.github.io>`__
