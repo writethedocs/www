@@ -5,6 +5,8 @@ This :doc:`style guide </guide/writing/style-guides>` specifies how we write on 
 It's just a start,
 but everything has to start somewhere :)
 
+For other style guides, see :doc:`Style Guides </guide/writing/style-guides>`.
+
 Technical Formatting
 --------------------
 
