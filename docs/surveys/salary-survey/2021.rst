@@ -77,7 +77,7 @@ Of the 959 respondents who completed the survey in 2021, 887 were employees (92.
 .. figure:: images/2021/2021-basis-of-employment.svg
    :class: hide
 
-Although employees have historically made up the majority of all respondents, there has been a slight increase in the proportion of independent contractors each year - from 5.7% in 2019, to 6.8% in 2020, to 7.5% in 2021. 
+Although employees have historically made up the majority of all respondents, there has been a slight increase in the proportion of independent contractors each year – from 5.7% in 2019, to 6.8% in 2020, to 7.5% in 2021. 
 
 .. raw:: html
 
@@ -93,7 +93,7 @@ Although employees have historically made up the majority of all respondents, th
 
 In 2020 we introduced an option for people who were unemployed (or in the case of independent contractors, who were not currently working any contracts). We asked these respondents to answer the questions as though they were still in their previous employment or contract situation. 
 
-This option was included in 2021, and 7 employees and 3 independent contractors selected unemployed as their status – only 1% of all respondents. By contrast, in 2020, more than twice as many respondents indicated they were currently unemployed - 18 employees and 2 independent contractors, or 2.5% of all respondents. 
+This option was included in 2021, and 7 employees and 3 independent contractors selected unemployed as their status – only 1% of all respondents. By contrast, in 2020, more than twice as many respondents indicated they were currently unemployed – 18 employees and 2 independent contractors, or 2.5% of all respondents. 
 
 1.2 Hours worked
 ----------------
@@ -117,7 +117,7 @@ As in previous years, most respondents worked traditional “full-time” hours:
 - 32% worked between 41 and 50 hours
 - Only 2% worked 51 hours or more
 
-One respondent entered more than 60 hours - that person reported working 70 hours each week.  
+One respondent entered more than 60 hours – that person reported working 70 hours each week.  
 
 .. raw:: html
 
@@ -125,7 +125,7 @@ One respondent entered more than 60 hours - that person reported working 70 hour
       <object role="img" aria-label="Hours worked - employees (2021)" aria-describedby="figure-hours-employees_desc" type="image/svg+xml" data="/_images/2021-hours-worked-employees.svg">
          <p id="figure-hours-employees_desc">Bar chart showing weekly hours worked by employee respondents</p>
       </object> 
-      <figcaption>Figure: Hours worked - employees (2021)</figcaption>
+      <figcaption>Figure: Hours worked – employees (2021)</figcaption>
    </figure>
 
 .. figure:: images/2021/2021-hours-worked-employees.svg 
@@ -139,7 +139,7 @@ Of the 4% of respondents who worked fewer than 31 hours per week, around half wo
       <object role="img" aria-label="Weekly hours worked - contractors (2021)" aria-describedby="figure-hours-contractors_desc" type="image/svg+xml" data="/_images/2021-hours-worked-contractors.svg">
          <p id="figure-hours-contractors_desc">Donut chart showing weekly hours worked by contractor respondents (2021)</p>
       </object> 
-      <figcaption>Figure: Weekly hours worked - contractors (2021)</figcaption>
+      <figcaption>Figure: Weekly hours worked – contractors (2021)</figcaption>
    </figure>
 
 .. figure:: images/2021/2021-hours-worked-contractors.svg
@@ -219,17 +219,17 @@ The majority of respondents (85%) placed themselves in the writer, content creat
 
    <figure>
       <object role="img" aria-label="Role categorization - major grouping (2021)" aria-describedby="figure-role-major_desc" type="image/svg+xml" data="/_images/2021-role-breakdown-major.svg">
-         <p id="figure-role-major_desc">Donut chart showing major role categorization of respondents - the majority (85%) being writers, content creators, producers or editors, and only 15% categorizing themselves as one of the other six categories</p>
+         <p id="figure-role-major_desc">Donut chart showing major role categorization of respondents – the majority (85%) being writers, content creators, producers or editors, and only 15% categorizing themselves as one of the other six categories</p>
       </object> 
-      <figcaption>Figure: Role categorization - major grouping (2021)</figcaption>
+      <figcaption>Figure: Role categorization – major grouping (2021)</figcaption>
    </figure>
 
 .. figure:: images/2021/2021-role-breakdown-major.svg
    :class: hide
 
-Of the remaining 15%, nearly half selected management - 7.4% of the total, an increase from 2020’s 4.8%. Developer/engineer made up ust under 20% of the non-writer categories - 2.9% of the total, up from 2.4% in 2020. 
+Of the remaining 15%, nearly half selected management – 7.4% of the total, an increase from 2020’s 4.8%. Developer/engineer made up just under 20% of the non-writer categories – 2.9% of the total, up from 2.4% in 2020. 
 
-Support made up 7.7% of the non-writers - just over 1% overall. The remaining three categories each held less than 1% of the total each (advocate/community outreach, marketing, educator).
+Support made up 7.7% of the non-writers – just over 1% overall. The remaining three categories each held less than 1% of the total each (advocate/community outreach, marketing, educator).
 
 2% of the total respondents selected the Other category, and while some of these responses fit into the writer/content creator/producer/editor category, some indicated an evenly split role (e.g. developer and writer; writer and evangelist). Additional entered responses included product manager, quality manager, research, and strategy-based roles. 
 
@@ -239,7 +239,7 @@ Support made up 7.7% of the non-writers - just over 1% overall. The remaining th
       <object role="img" aria-label="Role categorization - minor grouping (2021)" aria-describedby="figure-role-minor_desc" type="image/svg+xml" data="/_images/2021-role-breakdown-minor.svg">
          <p id="figure-role-minor_desc">Donut chart showing role categorization of the 15% of total respondendents who did not place themselves in the writer, content creator, producer or editor role: </p>
       </object> 
-      <figcaption>Figure: Role categorization - minor grouping (2021)</figcaption>
+      <figcaption>Figure: Role categorization – minor grouping (2021)</figcaption>
    </figure>
 
 .. figure:: images/2021/2021-role-breakdown-minor.svg
@@ -250,7 +250,7 @@ Respondents were asked to indicate if they worked primarily solo, as part of a t
 - 16.3% of respondents indicated that they worked solo (the same percentage as in 2020),
 - 52.5% worked on a single team,
 - 15.5% on multiple teams, and
-- 15.2% lead a team
+- 15.2% lead a team.
 
 0.5% selected "Other" and entered additional comments - these respondents were either split between solo and team, or consultants to multiple teams, or both managers and team members. 
 
@@ -276,7 +276,7 @@ Respondents were asked to indicate if they worked primarily solo, as part of a t
    6. How long have you worked at your current organization?
    
       Note:
-      Please select the length of time for your position at your current organization only - your total years of experience in documentation will be covered in the individual demographics section.
+      Please select the length of time for your position at your current organization only – your total years of experience in documentation will be covered in the individual demographics section.
    
       If you have changed roles at the same organization, please select the length of time that you have been in your current role.
 
@@ -305,7 +305,7 @@ Single respondents reported 24, 29, 32 and 35 years tenure – an increase from 
 
    <figure>
       <object role="img" aria-label="Time in role (2021)" aria-describedby="figure-time_desc" type="image/svg+xml" data="/_images/2021-time-in-role.svg">
-         <p id="figure-time_desc">Bar chart showing time in current role - with 31.7% of respondents reporting less than 1 year, 18% between 1 and 2 years, 31.8% between 2 and 5 years, 12.8% between 5 and 10 years, and 5.7% with more than 10 years</p>
+         <p id="figure-time_desc">Bar chart showing time in current role – with 31.7% of respondents reporting less than 1 year, 18% between 1 and 2 years, 31.8% between 2 and 5 years, 12.8% between 5 and 10 years, and 5.7% with more than 10 years</p>
       </object> 
       <figcaption>Figure: Time in role (2021)</figcaption>
    </figure>
@@ -327,7 +327,7 @@ Single respondents reported 24, 29, 32 and 35 years tenure – an increase from 
       - not officially part of my job description, but I am expected to perform documentation-related tasks
       - not officially part of my job description, and I am not expected to perform documentation-related tasks, but I do anyway
 
-Not surprisingly for a community of documentarians, the largest proportion of respondents - 69% - reported that documentation makes up the whole of their official job description.
+Not surprisingly for a community of documentarians, the largest proportion of respondents – 69% – reported that documentation makes up the whole of their official job description.
 
 - 25.4% reported that it was only part,
 - 4.4% reported that documentation was not part of their official job description but they were still expected to perform documentation-related tasks, and 
@@ -372,7 +372,7 @@ The proportions for this question remained mostly the same as in 2020 and 2019.
 
    <figure>
       <object role="img" aria-label="Proportion of role actually related to documentation (2021)" aria-describedby="figure-proportion-actual_desc" type="image/svg+xml" data="/_images/2021-proportion-actual.svg">
-         <p id="figure-proportion-actual_desc">Bar chart showing proportion of day-to-day tasks that are actually related to documentation - with 5% of respondents estimating up to 25%, 9.8% of respondents estimating 25-50%, 28.2% of respondents estimating 50-75%, and 57% of respondents estimating 75-100%</p>
+         <p id="figure-proportion-actual_desc">Bar chart showing proportion of day-to-day tasks that are actually related to documentation – with 5% of respondents estimating up to 25%, 9.8% of respondents estimating 25-50%, 28.2% of respondents estimating 50-75%, and 57% of respondents estimating 75-100%</p>
       </object> 
       <figcaption>Figure: Proportion of role actually related to documentation (2021)</figcaption>
    </figure>
@@ -380,7 +380,7 @@ The proportions for this question remained mostly the same as in 2020 and 2019.
 .. figure:: images/2021/2021-proportion-actual.svg
    :class: hide
 
-Section 2: Work Location and COVID-19
+Section 2: Work location and COVID-19
 =====================================
 
 In 2019, we included one question about work location: whether the respondent worked on site, remotely (at home, at a co-working space, or at another non-employer provided location), or a combination of the two; the possible responses were arranged to also show if the work location was stipulated by the employer, or the respondent’s own choice. 
@@ -396,7 +396,7 @@ Note for this section: respondents were advised that if they have changed jobs d
    
    .. rubric:: What we asked
 
-   \9. Has your work location (i.e. onsite, remote) been affected by COVID-19 (temporarily or permanently)?
+   9. Has your work location (i.e. onsite, remote) been affected by COVID-19 (temporarily or permanently)?
 
       - Yes
       - No
@@ -454,12 +454,12 @@ Note for this section: respondents were advised that if they have changed jobs d
       - Positive
       - Very positive
 
-In 2021, 73.9% of respondents reported that their work location had been affected by COVID-19 - down from 80% in 2020. 
+In 2021, 73.9% of respondents reported that their work location had been affected by COVID-19 – down from 80% in 2020. 
 
-Work location - affected by COVID-19
+Work location – affected by COVID-19
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As in 2020, of those who had their work location changed due to the pandemic, by far the largest group were those who changed from working onsite (i.e. in their employer's premises) to working remotely (i.e. working from home or another location not provided by their employer) - this accounted for 45.6% of respondents. 
+As in 2020, of those who had their work location changed due to the pandemic, by far the largest group were those who changed from working onsite (i.e. in their employer's premises) to working remotely (i.e. working from home or another location not provided by their employer) – this accounted for 45.6% of respondents. 
 
 .. raw:: html
 
@@ -467,7 +467,7 @@ As in 2020, of those who had their work location changed due to the pandemic, by
       <object role="img" aria-label="Work location - pre-COVID-19 (2021)" aria-describedby="figure-work-location-pre_desc" type="image/svg+xml" data="/_images/2021-work-location-pre.svg">
          <p id="figure-work-location-pre_desc">Donut chart showing work location prior to COVID-19: 52.3% were required to be onsite; 22.7% were partially onsite and partially remote; 15.1% were onsite by choice; 5.6% were required to be remote; 4.3% were remote by choice.</p>
       </object> 
-      <figcaption>Figure: Work location - pre-COVID-19 (2021)</figcaption> 
+      <figcaption>Figure: Work location – pre-COVID-19 (2021)</figcaption> 
    </figure>
 
 .. figure:: images/2021/2021-work-location-pre.svg
@@ -484,7 +484,7 @@ Additionally:
       <object role="img" aria-label="Work location - post-COVID-19 (2021)" aria-describedby="figure-work-location-post_desc" type="image/svg+xml" data="/_images/2021-work-location-post.svg">
          <p id="figure-work-location-post_desc">Donut chart showing work location since COVID-19: 44.1% were remote by choice; 27.5% were required to be remote; 22.6% were partially onsite and partially remote; 3.2% were onsite by choice; 2.5% were required to be onsite.</p>
       </object> 
-      <figcaption>Figure: Work location - post-COVID-19 (2021)</figcaption> 
+      <figcaption>Figure: Work location – post-COVID-19 (2021)</figcaption> 
    </figure>
 
 .. figure:: images/2021/2021-work-location-post.svg
@@ -498,7 +498,7 @@ In 2020, we asked respondents if they thought the changes to their work location
 
 In 2021, given that the situation was still ongoing, we instead asked respondents about the current status of the changes. 
 
-The largest group (albeit only by a small margin) - 37.5% - reported that their work location change was temporary, but had not yet changed back. Another 34.8% reported that their work location change had become permanent.
+The largest group (albeit only by a small margin) – 37.5% – reported that their work location change was temporary, but had not yet changed back. Another 34.8% reported that their work location change had become permanent.
 
 Of the remaining responses:
 
@@ -506,7 +506,7 @@ Of the remaining responses:
 - 9.6% had experienced multiple changes which were not yet permanent, and
 - 1.4% had experienced multiple changes but had settled on a permanent situation.
 
-The final 2.3% of respondents who inidcated that they had experienced a work location due to COVID-19 selected "other" and entered more detail - most of these indicated that they were as yet unsure if the changes were going to be permanent or not. 
+The final 2.3% of respondents who indicated that they had experienced a work location change due to COVID-19 selected "other" and entered more detail – most of these indicated that they were as yet unsure if the changes were going to be permanent or not. 
 
 .. raw:: html
 
@@ -538,7 +538,7 @@ As in 2020, we asked how respondents felt about the changes to their work locati
 .. figure:: images/2021/2021-feelings-location-change.svg
    :class: hide   
 
-Work location - unaffected by COVID-19
+Work location – unaffected by COVID-19
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 For those 26.1% of respondents who indicated that their work location had not been affected by COVID-19, we asked where they work from, and how they felt about it:
@@ -553,7 +553,7 @@ For those 26.1% of respondents who indicated that their work location had not be
       <object role="img" aria-label="Work location - unaffected by COVID-19 (2021)" aria-describedby="figure-work-location-unaffected_desc" type="image/svg+xml" data="/_images/2021-work-location-unaffected.svg">
          <p id="figure-work-location-unaffected_desc">Donut chart showing respondent attitudes towards the work location changes brought about by the COVID-19 pandemic: 69.7% feel positive or very positive; 21.3% feel neutral; 9% felt negative or very negative.</p>
       </object> 
-      <figcaption>Figure: Work location - unaffected by COVID-19 (2021)</figcaption> 
+      <figcaption>Figure: Work location – unaffected by COVID-19 (2021)</figcaption> 
    </figure>
 
 .. figure:: images/2021/2021-work-location-unaffected.svg
@@ -561,7 +561,7 @@ For those 26.1% of respondents who indicated that their work location had not be
 
 The overwhelming majority of respondents in this category were happy with their work location:
 
-- 87.2% reported feeling positive - and 67.2% of those classed themselves as “very positive”,
+- 87.2% reported feeling positive – and 67.2% of those classed themselves as “very positive”,
 - 10.8% were neutral, 
 - a mere 2% (5 individuals) reported feeling negative, and 
 - no one reported that they felt “very negative”.
@@ -572,7 +572,7 @@ The overwhelming majority of respondents in this category were happy with their 
       <object role="img" aria-label="Feelings about work location - unaffected by COVID-19 (2021)" aria-describedby="figure-feelings-work-location-unaffected_desc" type="image/svg+xml" data="/_images/2021-feelings-work-location-unaffected.svg">
          <p id="figure-feelings-work-location-unaffected_desc">Donut chart showing respondent attitudes towards their work location, where they have been unaffected by the COVID-19 pandemic: 87.2% feel positive or very positive; 10.8% feel neutral; 2% feel negative.</p>
       </object> 
-      <figcaption>Figure: Feelings about work location - unaffected by COVID-19 (2021)</figcaption> 
+      <figcaption>Figure: Feelings about work location – unaffected by COVID-19 (2021)</figcaption> 
    </figure>
 
 .. figure:: images/2021/2021-feelings-work-location-unaffected.svg
@@ -589,7 +589,7 @@ The overwhelming majority of respondents in this category were happy with their 
 
       Note: If your employment has not been affected, please check "none of the above". If you have changed jobs since the pandemic started, please only choose "I changed roles" if COVID-19 was a factor in this change.
    
-      - Social distancing measures have been introduced in my workplace (masks, distance between desks, maximum people in a room, online meetings only etc)
+      - Social distancing measures have been introduced in my workplace (masks, distance between desks, maximum people in a room, online meetings only, etc.)
       - My hours have changed
       - I was furloughed
       - I was laid off
@@ -740,7 +740,7 @@ Overall median salary – employees
 
 The median salary across all regions was **USD $80,870** (meaning half of respondents earned more, and half earned less). This figure is slightly higher than the overall median in 2020 (USD $80,000), and an increase from the overall median in 2019 (USD $74,500).
 
-Median salary by respondent region - employees
+Median salary by respondent region – employees
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Given the range of socio-economic differences in the countries in the survey results, median salary figures broken down by country of residence of employee is more useful than overall median salary. 
@@ -787,7 +787,7 @@ In order to protect the privacy of respondents, median salaries are not shown fo
 
    <div class="tablescroller">
 
-.. table:: Median salary by respondent region - employees
+.. table:: Median salary by respondent region – employees
    :width: 100%
    :name: tbl-medianbyregion-employees
 
@@ -835,21 +835,21 @@ In order to protect the privacy of respondents, median salaries are not shown fo
 
    </div>
 
-Other breakdowns of median salary - employees
+Other breakdowns of median salary – employees
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In the salary results, clear correlations can be seen between median salary and years of experience, organization size, and gender identity. 
 
-Median salary by gender identity - employees
+Median salary by gender identity – employees
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Please note that due to the low number of respondents, non-binary and other gender identities could not be included in this section, and breakdowns by gender identity for Oceania, South America and Africa also had to be excluded. 
 
-The so-called gender pay gap, much-discussed recently, is apparent in the 2021 survey results. The global median salary for women, who make up 60.5% of employee respondents working full-time hours, is USD $77,390 - 9% lower than the median salary for their male counterparts (USD $85,000). 
+The so-called gender pay gap, much-discussed recently, is apparent in the 2021 survey results. The global median salary for women, who make up 60.5% of employee respondents working full-time hours, is USD $77,390 – 9% lower than the median salary for their male counterparts (USD $85,000). 
 
-When broken down by region, the trend continues everywhere except for the Middle East (which in our results is actually only represented by Israel), where woman are paid 3.5% more than men. In Europe the difference is only 3.7%, but in Asia it is 26.3% - albeit with much smaller sample sizes than in North America or Europe. 
+When broken down by region, the trend continues everywhere except for the Middle East (which in our results is actually only represented by Israel), where women are paid 3.5% more than men. In Europe the difference is only 3.7%, in North America it is 8.2%, but in Asia it is 26.3% – albeit with much smaller sample sizes than in North America or Europe. 
 
-.. table:: Median employee salary by gender identity - North America
+.. table:: Median employee salary by gender identity – North America
    :width: 100%
    :name: tbl-medianbygender-employees-northamerica
 
@@ -861,7 +861,7 @@ When broken down by region, the trend continues everywhere except for the Middle
    | women  | 303 | 95,000       |
    +--------+-----+--------------+
 
-.. table:: Median employee salary by gender identity - Europe
+.. table:: Median employee salary by gender identity – Europe
    :width: 100%
    :name: tbl-medianbygender-employees-europe
 
@@ -873,7 +873,7 @@ When broken down by region, the trend continues everywhere except for the Middle
    | women  | 144 | 46,464       |
    +--------+-----+--------------+
 
-.. table:: Median employee salary by gender identity - Asia
+.. table:: Median employee salary by gender identity – Asia
    :width: 100%
    :name: tbl-medianbygender-employees-asia
 
@@ -885,7 +885,7 @@ When broken down by region, the trend continues everywhere except for the Middle
    | women  | 21  | 25,701       |
    +--------+-----+--------------+
 
-.. table:: Median employee salary by gender identity - Middle East/Israel
+.. table:: Median employee salary by gender identity – Middle East/Israel
    :width: 100%
    :name: tbl-medianbygender-employees-israel
 
@@ -899,10 +899,10 @@ When broken down by region, the trend continues everywhere except for the Middle
 
 Despite this obvious trend in most regions, only 1.6% of respondents indicated in the job satisfaction section that they felt discriminated against on the basis of gender. 
 
-Median salary by years experience - employees
+Median salary by years experience – employees
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When looking at all regions, the median salary for the most experienced respondents - those with more than 10 years of experience - is more than double the median salary for those with less than 1 year of experience. Similarly, the median for those in the industry for more than 20 years is just under double the median for those with between 1 and 5 years of experience. 
+When looking at all regions, the median salary for the most experienced respondents – those with more than 10 years of experience – is more than double the median salary for those with less than 1 year of experience. Similarly, the median for those in the industry for more than 20 years is just under double the median for those with between 1 and 5 years of experience. 
 
 .. table:: Median employee salary by years experience
    :width: 100%
@@ -924,7 +924,7 @@ When looking at all regions, the median salary for the most experienced responde
 
 The contrast is less marked when looking only at respondents living in North America. In this region, salaries are higher across all experience levels, but the median for the most experienced is only 60% more than the median for the least experienced. 
 
-.. table:: Median employee salary by years experience - North America
+.. table:: Median employee salary by years experience – North America
    :width: 100%
    :name: tbl-medianbyexperience-employees-northamerica
 
@@ -942,7 +942,7 @@ The contrast is less marked when looking only at respondents living in North Ame
    | 20-30+ years | 110    | 120,000      |
    +--------------+--------+--------------+
 
-Median salary by organization size - employees
+Median salary by organization size – employees
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Globally, median salaries follow a general pattern: the larger the organization, the higher the median salary. 
@@ -965,9 +965,9 @@ Globally, median salaries follow a general pattern: the larger the organization,
    | 100,000+          | 100         | 117,125      |
    +-------------------+-------------+--------------+
 
-Like with years of experience, the contrast is less marked when looking at only respondents residing in North America - where the median salary for organizations of 1-100 employees is the same as the median salary for organizations with 100-1000 employees.
+Like with years of experience, the contrast is less marked when looking at only respondents residing in North America – where the median salary for organizations of 1-100 employees is the same as the median salary for organizations with 100-1000 employees.
 
-.. table:: Median employee salary by organization size - North America
+.. table:: Median employee salary by organization size – North America
    :width: 100%
    :name: tbl-medianbyorgsize-employees-northamerica
 
@@ -1017,7 +1017,7 @@ In almost all countries apart from the US, employees are entitled to paid vacati
 
 A small percentage of employee respondents (3%) indicated that they did not receive any of the benefits listed. 
 
-.. table:: Benefits - employees
+.. table:: Benefits – employees
    :width: 100%
    :name: tbl-benefits-employees
 
@@ -1084,7 +1084,7 @@ A small percentage of employee respondents (3%) indicated that they did not rece
       - Other (please specify)
       - None of the above
 
-On the whole, most respondents - 72.8% - were “satisfied” (45.2%) or “very satisfied” (27.6%) with their salary and benefits package. 
+On the whole, most respondents – 72.8% – were “satisfied” (45.2%) or “very satisfied” (27.6%) with their salary and benefits package. 
 
 - 14.5% were “neutral”, and 
 - only 12.6% were “unsatisfied” (9.2%) or very “unsatisfied” (3.4%).
@@ -1095,7 +1095,7 @@ On the whole, most respondents - 72.8% - were “satisfied” (45.2%) or “very
       <object role="img" aria-label="Salary satisfaction - employees (2021)" aria-describedby="figure-salary-satisfaction-employees_desc" type="image/svg+xml" data="/_images/2021-salary-satisfaction-employees.svg">
          <p id="figure-salary-satisfaction-employees_desc">Donut chart showing reported satisfaction with salary and benefits, for employee respondents: 72.8% were “satisfied”, 14.5% were “neutral” and 12.6% were “unsatisfied”.</p>
       </object> 
-      <figcaption>Figure: Salary satisfaction - employees (2021)</figcaption>
+      <figcaption>Figure: Salary satisfaction – employees (2021)</figcaption>
    </figure>
 
 .. figure:: images/2021/2021-salary-satisfaction-employees.svg
@@ -1103,7 +1103,7 @@ On the whole, most respondents - 72.8% - were “satisfied” (45.2%) or “very
 
 Respondents were able to select reasons for dissatisfaction, even if they indicated that they were “very satisfied”. In total, 45.8% of employee respondents did not select any reasons for dissatisfaction with their salary and benefits.  
 
-.. table:: Reasons for salary dissatisfaction - employees
+.. table:: Reasons for salary dissatisfaction – employees
    :width: 100%
    :name: tbl-salary-reasons-employees
 
@@ -1127,7 +1127,7 @@ Respondents were able to select reasons for dissatisfaction, even if they indica
 
 Of those who selected “Other” and entered a reason for dissatisfaction with their salary, cost of living increases and “worthless” stock options were the most common complaints that didn’t fit into one of the existing categories. 
 
-3.5 Overall job satisfaction - employees
+3.5 Overall job satisfaction – employees
 ----------------------------------------
 
 .. container:: question
@@ -1170,7 +1170,7 @@ Of those who selected “Other” and entered a reason for dissatisfaction with 
       - Other (please specify)
       - None of the above
 
-The majority of respondents – 75.9% - rated their overall employment situation in a positive light. Nearly half (49.5%) indicated that they were “satisfied”, with 26.4% extending that to “very satisfied”.
+The majority of respondents – 75.9% – rated their overall employment situation in a positive light. Nearly half (49.5%) indicated that they were “satisfied”, with 26.4% extending that to “very satisfied”.
 A further 15.2% felt “neutral”. Only 8.9% rated their employment situation negatively – 7.2% indicated that they were “unsatisfied”, and only 1.7% had reason to be “very unsatisfied”. 
 
 .. raw:: html
@@ -1179,7 +1179,7 @@ A further 15.2% felt “neutral”. Only 8.9% rated their employment situation n
       <object role="img" aria-label="Overall job satisfaction - employees (2021)" aria-describedby="figure-job-satisfaction-employees_desc" type="image/svg+xml" data="/_images/2021-job-satisfaction-employees.svg">
          <p id="figure-job-satisfaction-employees_desc">Donut chart showing reported overall job satisfaction by employee respondents: 75.9% felt satisfied; 12.5% felt neutral; 8.9% felt unsatisfied.</p>
       </object> 
-      <figcaption>Figure: Overall job satisfaction - employees (2021)</figcaption>
+      <figcaption>Figure: Overall job satisfaction – employees (2021)</figcaption>
    </figure>
 
 .. figure:: images/2021/2021-job-satisfaction-employees.svg
@@ -1189,7 +1189,7 @@ In 2021, 32.7% of employees did not indicate any reasons for dissatisfaction.
 
 As in 2020, the top reason for dissatisfaction overall was “Role is undervalued or underfunded”, with 28.3% of all respondents in this category selecting this reason. 
 
-.. table:: Reasons for overall job dissatisfaction - employees 
+.. table:: Reasons for overall job dissatisfaction – employees 
    :width: 100%
    :name: tbl-job-reasons-employees
 
@@ -1243,7 +1243,7 @@ As in 2020, the top reason for dissatisfaction overall was “Role is undervalue
    | I am discriminated against on the basis of race or nationality                       | 0.3%  |
    +--------------------------------------------------------------------------------------+-------+
 
-3.6 Positive job aspects - employees
+3.6 Positive job aspects – employees
 ------------------------------------
 
 In previous surveys, we asked respondents to specify reasons for dissatisfaction, but didn’t provide the opportunity to highlight aspects that are satisfying about their salary, benefits, and job. In 2021 we corrected this oversight.
@@ -1273,7 +1273,7 @@ While 67.3% of respondents selected something other than “none” for question
 
 In contrast, when asked to specify what they felt positive about in their jobs, only 4 individuals chose “none of the above”, and of the 13 other potential reasons, the median number of reasons selected was 8 – with 14.8% of respondents checking off all 12 reasons. That’s a lot of positivity! 
 
-.. table:: Reasons for job satisfaction - employees
+.. table:: Reasons for job satisfaction – employees
    :width: 100%
    :name: tbl-satisfaction-employees
 
@@ -1341,12 +1341,12 @@ In 2021, we received submissions from 72 independent contractor, freelancer or s
 
 To enable comparisons to be drawn, we asked contractors using alternative fee structures to estimate an equivalent hourly rate or a day rate (or both). In the final count, we had 55 individual hourly rates and 20 day rates in our 2021 data set.
 
-Median hourly rate (USD) - contractors 
+Median hourly rate (USD) – contractors 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The overall median hourly rate was **USD $46** (from 55 respondents in 13 countries). The only regions with enough data to safely split out, taking the privacy of respondents into account, are shown in the table below.
 
-.. table:: Median hourly rate (USD) by region - contractors
+.. table:: Median hourly rate (USD) by region – contractors
    :width: 100%
    :name: tbl-median-region-contractors
 
@@ -1360,7 +1360,7 @@ The overall median hourly rate was **USD $46** (from 55 respondents in 13 countr
    | European countries with a lower cost-of-living (Ukraine, Poland, Czech Republic, Croatia) | 10  | $19          |
    +-------------------------------------------------------------------------------------------+-----+--------------+
 
-Median day rate (USD) - contractors
+Median day rate (USD) – contractors
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The overall median day rate was **USD $389** (from 20 respondents in 14 countries). Due to the low number of respondents entering a day rate, there is not enough data to allow us to publish regional medians without compromising the privacy of community members.  
@@ -1401,7 +1401,7 @@ The overall median day rate was **USD $389** (from 20 respondents in 14 countrie
       <object role="img" aria-label="Rate satisfaction - contractors (2021)" aria-describedby="figure-salary-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2021-rate-satisfaction-contractors.svg">
          <p id="figure-salary-satisfaction-contractors_desc">Donut chart showing satisfaction with contract/freelance rates of independent contractor respondents: 70.9% felt satisfied; 15.3% felt neutral; 13.9% felt unsatisfied.</p>
       </object> 
-      <figcaption>Figure: Rate satisfaction - contractors (2021)</figcaption>
+      <figcaption>Figure: Rate satisfaction – contractors (2021)</figcaption>
    </figure>
 
 .. figure:: images/2021/2021-rate-satisfaction-contractors.svg
@@ -1409,7 +1409,7 @@ The overall median day rate was **USD $389** (from 20 respondents in 14 countrie
 
 36.1% of contractors did not list any reasons for dissatisfaction with their rates – the same percentage who cited “missing benefits”, the top reason. 23.6% stated that their rate was too low, while 11.1% felt that their responsibilities exceeded their pay grade. 
 
-.. table:: Reasons for contract rate dissatisfaction - contractors
+.. table:: Reasons for contract rate dissatisfaction – contractors
    :width: 100%
    :name: tbl-rate-reasons-contractors
 
@@ -1491,7 +1491,7 @@ The overall median day rate was **USD $389** (from 20 respondents in 14 countrie
       <object role="img" aria-label="Overall freelance/contract situation satisfaction - contractors (2021)" aria-describedby="figure-overall-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2021-overall-satisfaction-contractors.svg">
          <p id="figure-overall-satisfaction-contractors_desc">Donut chart showing satisfaction with overall freelance or contract situation of independent contractor respondents: 76.4% felt satisfied; 9.7% felt neutral; 13.9% felt unsatisfied.</p>
       </object> 
-      <figcaption>Figure: Overall freelance/contract situation satisfaction - contractors (2021)</figcaption>
+      <figcaption>Figure: Overall freelance/contract situation satisfaction – contractors (2021)</figcaption>
    </figure>
 
 .. figure:: images/2021/2021-overall-satisfaction-contractors.svg
@@ -1499,7 +1499,7 @@ The overall median day rate was **USD $389** (from 20 respondents in 14 countrie
 
 19.4% of contractors did not select any reasons for dissatisfaction with their contracting situation overall. As with employees, the top reason for dissatisfaction was “Role is undervalued or underfunded” (27.8% of contractors, and 28.3% of employees). Unlike employees, however, the next top reason was “Job instability (COVID-related or otherwise)” with 26.4% selecting this (compared to only 3.4% of employees). “No opportunities for advancement” was next, with 18.1% of contractors indicating this (a similar proportion to employees, at 18.9%, the second most common reason selected).
 
-.. table:: Reasons for overall dissatisfaction - contractors
+.. table:: Reasons for overall dissatisfaction – contractors
    :width: 100%
    :name: tbl-overall-reasons-contractors
 
@@ -1557,7 +1557,7 @@ The overall median day rate was **USD $389** (from 20 respondents in 14 countrie
 - Sporadic work
 - Difficulties in negotiations over rates and conditions
 
-3.10 Positive job aspects - contractors
+3.10 Positive job aspects – contractors
 ---------------------------------------
 
 .. container:: question
@@ -1583,7 +1583,7 @@ The overall median day rate was **USD $389** (from 20 respondents in 14 countrie
 
 As with the employee respondents, contractors on average chose many positive aspects about their contract/freelance situation. The top reason, indicated by 81.9% of contractors, was “I have flexibility in working hours or location” – this was also the second top reason selected by employees (79.5%). The next most selected reason was “I like and/or respect my co-workers” with 75%.
 
-.. table:: Reasons for job satisfaction - contractors
+.. table:: Reasons for job satisfaction – contractors
    :width: 100%
    :name: tbl-satisfaction-contractors
 
@@ -1643,9 +1643,9 @@ Contractors were asked to profile either their main client organization or the t
 
 Very small operations (up to 10 employees) again made up the smallest proportion of responses at just over 1% (11 individual respondents). At the other end of the scale, the largest proportion of respondents – 35.6% – worked for organizations made up of between 100 and 1000 employees.
  
-- 25.3% – the second largest group of respondents – worked for medium-large organizations with 1,000 to 10,000 employees
-- 11.2% worked for large organizations with 10,000 to 100,000 employees
-- 10.8% worked for organizations with over 100,000 employees
+- 25.3% – the second largest group of respondents – worked for medium-large organizations with 1,000 to 10,000 employees,
+- 11.2% worked for large organizations with 10,000 to 100,000 employees,
+- 10.8% worked for organizations with over 100,000 employees,
 - 8.3% worked for small companies, with 50 to 100 employees, and
 - 7.4% worked for companies with between 10 and 50 employees.
 
@@ -1845,7 +1845,7 @@ The next best-represented country was Canada, with 5%, followed by Russia with 3
    | Czech Republic, Denmark, Philippines, Spain, Estonia, Swaziland, Algeria, Hungary, Italy, Brazil, Vietnam, Nigeria, Taiwan, Argentina | 0.1%  |
    +---------------------------------------------------------------------------------------------------------------------------------------+-------+
 
-Organization location breakdown - United States
+Organization location breakdown – United States
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nearly half of all employer organizations based in the United States were based in California, with New York, Texas and Massachusetts coming in with 7%, 6.7% and 4.9% respectively. No other state made up more than 4% of the total. 

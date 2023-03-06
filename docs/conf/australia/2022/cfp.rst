@@ -115,6 +115,7 @@ If you are making those assumptions about what your audience knows, it helps eve
 It can be  helpful to check out topics that might be related to your talk from previous years as well:
 
 * `Australia {{year-1}} <https://www.writethedocs.org/conf/australia/{{year-1}}/speakers/>`_
+* `Australia {{year-2}} <https://www.writethedocs.org/conf/australia/{{year-2}}/speakers/>`_
 * `Portland {{year-1}} <https://www.writethedocs.org/conf/portland/{{year-1}}/speakers/>`_
 * `Prague {{year-1}} <https://www.writethedocs.org/conf/prague/{{year-1}}/speakers/>`_
 * `Portland {{year-2}} <https://www.writethedocs.org/conf/portland/{{year-2}}/speakers/>`_
@@ -127,8 +128,8 @@ Don't worry too much about whether we will accept your talk proposal, just submi
 
 If you need a hand preparing or honing your talk proposal, there are lots of good places to start:
 
-* **Community mentorship** – We have an ever-growing pool of previous Write the Docs speakers, many of whom are happy to be a second pair of eyes on talk proposals. If you're interested in working with a past speaker, let us know at {{ shortcode }}@writethedocs.org!
-* **Meetup brainstorming** – For some in-person workshopping, check in on your `local meetup group <https://www.writethedocs.org/meetups/>`_ and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
+* **Community mentorship** – We have an ever-growing pool of previous Write the Docs speakers, many of whom are happy to be a second pair of eyes on talk proposals. If you're interested in working with a past speaker, let us know at {{ shortcode }}@writethedocs.org!
+* **Meetup brainstorming** – For some in-person workshopping, check in on your `local meetup group <https://www.writethedocs.org/meetups/>`_ and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
 * **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `http://slack.writethedocs.org/ <http://slack.writethedocs.org/>`_.)
 * **Twitter hivemind** – If Twitter is more your speed, `#writethedocs <https://twitter.com/hashtag/writethedocs>`__ will get you there.
 

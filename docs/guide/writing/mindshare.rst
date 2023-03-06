@@ -25,7 +25,7 @@ Starting in the engineering organization I think is the simplest way to affect c
     * Best Practices
     * Style Guides
 
-Gather Input
+Gather input
 ------------
 
 You will want members from all of the teams in your organization to be invited to the planning meetings. They don't need to come, but you need to make sure it's an open and public discussion. This validates the outcome of the planning, and makes sure that you are taking into account all of the use cases of your team.
@@ -55,7 +55,7 @@ Have regular meetings throughout the process
 
 Having a weekly standing meeting where you keep track of the progress along all the stages is important. This gives people a known place to go and discuss issues or ideas. It also provides a sense that the project is moving forward. At the beginning these meetings will be used to plan and track implementation. After implementation, it will be a place to drive adoption and gather feedback.
 
-Make it long term
+Make it long-term
 ~~~~~~~~~~~~~~~~~
 
 Something like a good documentation system also needs pretty constant care and feeding, reorganizing, and other maintained work. If you view this project as getting the tools in place, without a long term commitment, it will fail just like your last system.

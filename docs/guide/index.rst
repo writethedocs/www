@@ -64,8 +64,10 @@ Tools of the Trade
 .. toctree::
    :maxdepth: 2
 
+   choosing-tools
    tools/index
    learn-git-contribute
+   seo
 
 * Dictionaries
     * `Merriam-Webster <https://www.merriam-webster.com/>`_
@@ -78,8 +80,6 @@ Tools of the Trade
     * `Acrolinx <https://www.acrolinx.com/>`_
     * `Hemingway Editor <http://www.hemingwayapp.com/>`_
     * `Grammarly <https://www.grammarly.com/>`_
-* SEO (Search Engine Optimization)
-    * `Headline Analyzer - <https://coschedule.com/headline-analyzer>`_
 * Translation Tools
     * `Google Translate <https://translate.google.com>`_
     * https://www.deepl.com/translator

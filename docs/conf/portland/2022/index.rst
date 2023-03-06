@@ -1,5 +1,8 @@
 :template: {{year}}/index.html
 :banner: _static/conf/images/headers/{{ shortcode }}-group.png
+:og:title: Home - Write the Docs {{ name }} {{ year }}
+
+
 
 :orphan:
 

@@ -10,3 +10,4 @@ tread
 wan
 wee
 wit
+zar

@@ -19,18 +19,6 @@ After 3 months, we will examine the state of the new meetup to determine the fol
 * **Whether the first meetup was well-attended and generated a potential for future meetups.** As a rule of thumb, an "active" meetup group runs at least 1 meetup per quarter (or 4 meetups per year).
 * **How many members are in the meetup group.** The minimum number might change depending on where the meetup is located, but generally between 20-50 members in most major cities can be expected after the first 3 months.
 
-Existing meetup groups
-~~~~~~~~~~~~~~~~~~~~~~
-
-If you already started a meetup group yourself and successfully ran several well-attended meetups, you can `contact us <mailto:support@writethedocs.org>`_ and we will take over the meetup fees. To transfer ownership of the meetup group, you use the `Step down as organizer <https://help.meetup.com/hc/en-us/articles/360002882191-How-do-I-step-down-as-organizer->`_ process and nominate the Write the Docs account as new organizer. After the transfer, we will assign you the co-organizer role, which lets you have full control over the specific meetup group without handling finances or global operations.
-
-Basic vs. Unlimited meetup subscriptions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-A Basic subscription allows your group a maximum of 50 members and 4 organizers, while an Unlimited subscription has no limits for members and organizers. If you anticipate less than 50 members for your meetup group, a Basic subscription may be suitable. If you anticipate over 50 members, an Unlimited subscription may be a better option.
-
-Some Write the Docs meetup groups have started with the Basic subscription plan and have grown quickly. When the meetup exceeds 50 members, Meetup prompts the organizer to upgrade to the Unlimited plan. If you upgrade right away, you will not be charged at the Unlimited rate until your subscription renewal date.
-
 Can a company sponsor a local meetup?
 -------------------------------------
 

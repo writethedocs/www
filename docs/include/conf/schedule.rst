@@ -1,11 +1,12 @@
-{% if not flaghasschedule %}
-**WARNING**: This schedule has not been finalized and is subject to change. The schedule will be finalized around 1 month prior to the event.
-{% endif %}
-
 Write the Docs is more than a conference.
 Each year we organize a wide range of events so that people can come together, collaborate, and learn from each other in different ways.
 
 All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
+
+{% if not flaghasschedule %}
+**WARNING**: This schedule has not been finalized and is subject to change. The schedule will be finalized around 1 month prior to the event.
+{% endif %}
+
 
 .. contents::
     :local:
@@ -30,7 +31,7 @@ If you get into town early, join us on the hike and take the chance to explore P
 
 * **Where**: Lower Macleay Park or Macleay Park Entrance.
 {% if not flaghasschedule %}
-* **When**: **{{ date.day_two.hike_time }} {{ tz }}**
+* **When**: **{{ hike.date }} {{ tz }}**
 {% endif %}
 * **Details**: :doc:`Annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/outing>`
 
@@ -52,13 +53,15 @@ Further details will be announced later.
 {{date.day_two.dotw}}, {{date.day_two.date}}
 -----------------------------------------
 
-The Writing Day will be held in our **{{about.venue}}**.
+The Writing Day will be held at **{{about.venue}}**.
 
 {% if flaghasfood %}
 
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+*Snacks and drinks will be provided all day.* 
 
 {% endif %}
+
+.. _{{shortcode}}-{{year}}-writing-day:
 
 Writing Day
 ~~~~~~~~~~~
@@ -87,11 +90,12 @@ Reception
 ~~~~~~~~~
 
 We encourage everyone to drop by on Sunday evening for the conference reception.
-We're hoping to have some fun activities planned for the evening online.
+This is a great chance to meet other attendees,
+and make sure you know your way around the conference venue.
 
-* **Where**: {{about.venue}}, {{about.mainroom}}
+* **Where**: {{about.venue}}, {{about.unconfroom}}
 {% if not flaghasschedule %}
-* **When**: **{{ date.day_two.reception_time }} {{ tz }}**
+* **When**: **{{ date.day_two.reception_time }} {{ tz }}** 
 {% endif %}
 
 {% endif %}
@@ -109,12 +113,14 @@ We're hoping to have some fun activities planned for the evening online.
 
 {% if flaghasfood %}
 
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+*Snacks and drinks will be provided all day.*
 
 {% endif %}
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
+
+Talks are around 30 minutes, with _moderated on-stage Q&A_. 
 
 * **Where**: {{about.venue}}
 {% if not flaghasschedule %}
@@ -122,7 +128,6 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
 
 .. separator to fix list formatting
 
@@ -139,7 +144,8 @@ Talks are around 30 minutes. Most speakers will have a live, moderated Q&A sessi
 Unconference
 ~~~~~~~~~~~~
 
-The unconference sessions run in parallel to the main conference talks.
+The unconference sessions run in parallel to the main conference talks,
+with each session happening during a corresponding talk on the main stage.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
 {% if not flaghasschedule %}
@@ -147,19 +153,19 @@ The unconference sessions run in parallel to the main conference talks.
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
+.. _{{shortcode}}-{{year}}-social-event:
+
 Social Event
 ~~~~~~~~~~~~
 
 The official Write the Docs social!
-Further details will be announced later,
-but expect some music and games,
-and bring your favorite beverage to your computer :)
+Full details will be announced closer to the conference,
+but expect a relaxed atmosphere where you can chat and network with your fellow documentarians. 
 
 * **Where**: {{ about.social_venue }}
 {% if not flaghasschedule %}
-* **When**: **{{ date.day_three.social_time }} {{ tz }}**
+* **When**: **{{ date.day_three.social_time }} {{ tz }}** 
 {% endif %}
-
 
 .. raw:: html
 
@@ -173,12 +179,14 @@ and bring your favorite beverage to your computer :)
 
 {% if flaghasfood %}
 
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+*Snacks and drinks will be provided all day.*
 
 {% endif %}
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
+
+Talks are around 30 minutes, with _moderated on-stage Q&A_. 
 
 * **Where**: {{about.venue}}
 {% if not flaghasschedule %}
@@ -186,7 +194,6 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
 
 .. separator to fix list formatting
 
@@ -202,10 +209,14 @@ Talks are around 30 minutes. Most speakers will have a live, moderated Q&A sessi
 
 {% if flaghasjobfair %}
 
+.. _{{shortcode}}-{{year}}-job-fair:
+
 Job Fair
 ~~~~~~~~
 
-We'll be holding a job fair on Tuesday morning!
+We'll be holding a job fair on Tuesday morning.
+This is a great chance to talk with some of our sponsors who are hiring,
+and get a sense of the job market.
 
 * **Where**: {{about.venue}}, {{about.job_fair_room }}
 {% if not flaghasschedule %}
@@ -218,10 +229,19 @@ We'll be holding a job fair on Tuesday morning!
 Unconference
 ~~~~~~~~~~~~
 
-The unconference sessions run in parallel to the main conference talks.
+The unconference sessions run in parallel to the main conference talks,
+with each session happening during a corresponding talk on the main stage.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
 {% if not flaghasschedule %}
 * **When**: **{{ date.day_four.unconference_time }} {{ tz }}**
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
+
+Conference Closing
+~~~~~~~~~~~~~~~~~~
+
+We all say goodbye 👋
+
+We wrap up the conference a bit early on the last day,
+to allow time for any onward travel you may have.

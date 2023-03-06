@@ -277,7 +277,7 @@ Do I have to be on video during the conference?
 - You can also share your screen during an Unconference. Select the Monitor icon to share your screen. Multiple people can share their screens at once.
 - Select the Settings icon to change your audio or video settings.
 - To make someone’s screen larger, double-click on it.
-- You can use the Hopin Stream Test at https://app.hopin.to/precall to check if your settings are configured correctly and to see if you are having any network issues. Read more at https://hopin.zendesk.com/hc/en-gb/articles/360059622932-Test-your-stream-quality-with-the-Hopin-Stream-Test
+- You can use the Hopin Stream Test at https://app.hopin.to/precall to check if your settings are configured correctly and to see if you are having any network issues. Read more at https://hopin.zendesk.com/hc/en-gb/articles/360059622932-Test-your-stream-quality-with-the-Hopin-Stream-Test.
 
 How do I see what’s happening right now?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -324,7 +324,7 @@ I’m having a technical issue. What can I try?
 If you are having issues with error messages or an inability to hear or participate in Sessions, try these steps:
 
 - Refresh the Hopin page.
-- Make sure you’re using a browser supported by Hopin. List of supported browsers: https://hopin.zendesk.com/hc/en-gb/articles/360056078872-Browser-Compatibility-for-online-events-on-Hopin
+- Make sure you’re using a browser supported by Hopin. List of supported browsers: https://hopin.zendesk.com/hc/en-gb/articles/360056078872-Browser-Compatibility-for-online-events-on-Hopin.
 - Make sure your browser allows Hopin to access your microphone and webcam. See troubleshooting guides below for more info.
 - If you are using a Mac, check your privacy settings to allow your browser to access to your camera. See troubleshooting guides below for more info.
 - Try a different browser.
@@ -332,7 +332,7 @@ If you are having issues with error messages or an inability to hear or particip
 - Log into your company’s VPN. If you are already logged in, try logging out.
 - Verify that your computer has a webcam. If you don't, you won't be able to hear or be heard when participating in a Session. If you don't have a webcam, sign into Hopin on a mobile device.
 - Log out of Google. Log in with a different Google account, if you have separate personal and company accounts.
-- Unplug your USB devices and replug them in. If you plug in a headset *after* you have joined the conference, you may need to restart your browser and join in again.
+- Unplug your USB devices and replug them in. If you plug in a headset *after* you have joined the conference, you may need to restart your browser and join again.
 - Disable browser extensions.
 - Try a different computer. Sometimes work computers can have video streaming restrictions.
 - Check that your router is not blocking video streaming.

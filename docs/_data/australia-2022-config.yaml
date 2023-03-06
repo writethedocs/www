@@ -18,8 +18,8 @@ photos:
 
 buttons:
   top:
-     - text: Welcome to our conference
-       link: /news/welcome
+    # - text: Welcome to our conference
+    #   link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
     # - text: Submit a Talk
@@ -36,19 +36,19 @@ buttons:
     #   link: /speakers
  #    - text: See the Schedule!
  #      link: /schedule
- #    - text: Read our guide
- #      link: /welcome-wagon
+    # - text: Read our guide
+    #   link: /welcome-wagon
     # - text: Watch the Live Stream
     #   link: /livestream
-    # - text: Browse the photos
-    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-    # - text: Watch the videos!
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+     - text: See the sketchnotes
+       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720304378693
+     - text: Watch the videos!
+       link_absolute: https://youtube.com/playlist?list=PLy70RNJ7dYrJB-2yuGw-bTppEDmQr5T56
   bottom:
   #   - text: Welcome to our conference
   #     link: /news/welcome
-    # - text: Sponsor the conference
-    #   link: /sponsors/prospectus
+  #   - text: Sponsor the conference
+  #     link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
     # - text: See the Schedule!
@@ -59,22 +59,22 @@ buttons:
     #   link: /speakers
     # - text: Buy a Ticket!
     #   link: /tickets
- #    - text: Read our guide
- #      link: /welcome-wagon
+    # - text: Read our guide
+    #   link: /welcome-wagon
  #    - text: See the schedule!
  #      link: /schedule
     # - text: Watch the Live Stream
     #   link: /livestream
     # - text: Browse the photos
     #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-    # - text: Watch the videos!
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+     - text: Watch the videos!
+       link_absolute: https://youtube.com/playlist?list=PLy70RNJ7dYrJB-2yuGw-bTppEDmQr5T56
 
 tickets:
   corporate:
-    price: $200
+    price: $175
   independent:
-    price: $125
+    price: $100
   student:
     price: $25
 
@@ -94,7 +94,7 @@ date: # how do we handle these? human readable would be nice.
   main: "**December 8-9, 2022**"
   short: Dec 8-9, 2022
   tickets_live: "July 2022"
-  month: May
+  month: December
 
   # Conference is special for the index to show the combined conference days
   # conference:
@@ -109,24 +109,24 @@ date: # how do we handle these? human readable would be nice.
     date: December 8
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Thursday
-    talk_time: 11:00-18:00
-    unconference_time: 15:00-17:00
+    talk_time: 09:30-16:30
+    unconference_time: 13:30-15:30
     icon: conference
   day_two:
     event: Conference Day 2
     date: December 9
     summary: And the conference goes on! We are already starting to miss you.
     dotw: Friday
-    talk_time: 11:00-18:00
-    unconference_time: 15:00-17:00
+    talk_time: 09:30-16:45
+    unconference_time: 13:30-15:30
     icon: conference
   total_talk_days: 2
 
 about:
   attendees: 150
   summary:
-    "The main presentation track takes place during **December 2-3 (Thursday and Friday) from 12:00pm to 7:00pm AEDT**.
-    During the main event we also run an :doc:`/conf/australia/2021/unconference`."
+    "The main presentation track takes place during **December 8-9 (Thursday and Friday) from 1:00pm to 4:30pm AEDT**.
+    During the main event we also run an :doc:`/conf/australia/2022/unconference`."
 
   social_venue: Spatial chat platform
   venue:
@@ -144,39 +144,55 @@ cfp:
   video_by: "November 7, 2022"   # 4 weeks before the conf
 
 grants:
-  url: https://docs.google.com/forms/d/e/1FAIpQLSe7IUKVckN5m-C_x9JguqwT3zt_PctyCl62yCkCf6D73be99A/viewform
-  ends: "October 15, 2021"
-  notification: "October 31, 2021"
+  url: https://docs.google.com/forms/d/e/1FAIpQLSfZczqqIwuz8Gj57O5MsJrPqW-K195bqD1-LovRw-dF_d4z5A/viewform
+  ends: "October 15, 2022"
+  notification: "October 31, 2022"
 
 
 sponsors:
   keystone:
   patron:
   publisher:
+    - name: atlassian
+      link: https://www.atlassian.com/
+      brand: Atlassian
+      width: 750px
   second:
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+      brand: KnowledgeOwl
+      width: 250px
+      text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl​ is looking for more contributors for our ​company blog​. This is an opportunity to write about a topic that interests you and get paid for it :)</p> <p>KnowledgeOwl also sponsors and hosts The Not-Boring Tech Writer podcast. We are always looking for new guests to share their stories, experience, and expertise with the world.</p> <p>Feel free to stop by and ask us more about KnowledgeOwl, these opportunities, or anything else!</p>"
   first:
+  in_kind:
+    - name: rtd
+      link: https://readthedocs.com/
+      brand: Read the Docs
 
+
+unconf:
+  url: http://bit.ly/wtd-au-2022-ro
 
 # Things that change over time, listed in order of change
-flaglanding: True
-flaghassponsors: False
+flaglanding: False
+flaghassponsors: True
 flagcfp: False
 flagticketsonsale: False
 flagsoldout: False
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagrunofshow: False
-flaghasschedule: False
-flaghasunconf: False
-flaghasshirts: False
-flagvideos: False
+flaghasschedule: True
+flaghasunconf: True
+flaghasshirts: True
+flagvideos: True
 flaglivestreaming: False
-flagpostconf: False
+flagpostconf: True
 flagcancelled: False
 
 # Truthy things that don't change
 flaghashike: False
 flaghasfood: False
 flaghasboat: False
-flaghaswritingday: False
+flaghaswritingday: True
 flaghasjobfair: False
 flaghasbadgeflair: False

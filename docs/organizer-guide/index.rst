@@ -28,9 +28,13 @@ Information about the global Write the Docs :doc:`/meetups/index`.
    meetups/faq-meetups
    meetups/sustainable-meetups
    meetups/livestreaming-meetups
+   meetups/quorum
+   meetups/quorum/vm-organize-quorum-meetup
+   meetups/quorum/vm-emcee-script
+   meetups/quorum/vm-roles
 
 Newsletter
-------------
+----------
 
 The nitty-gritty about creating our hand-crafted newsletter.
 

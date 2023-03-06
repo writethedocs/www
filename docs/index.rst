@@ -8,51 +8,47 @@
 Welcome to our community!
 =========================
 
-**Write the Docs** is a global community of people who care about documentation. Our primary gathering places are:
-
-* :doc:`Our slack network </slack>` with thousands of members
-* :doc:`Conferences </conf/index>` on 3 continents
-   - :doc:`Portland 2022 </conf/portland/2022/index>`, **May 22-24**, Virtual - PST
-   - :doc:`Prague 2022 </conf/prague/2022/index>`, **September 11-13**, Virtual - CET
-   - :doc:`Write the Docs Australia 2022 </conf/australia/2022/index>`, **December 8-9**, Virtual - AEDT
-* :doc:`Local meetups </meetups/index>` in over 40 cities
+**Write the Docs** is a global community of people who care about documentation.
 
 We consider everyone who cares about communication, documentation, and
 their users to be a member of our community. This can be programmers,
 tech writers, developer advocates, customer support, marketers, and anyone else who wants
 people to have great experiences with software.
 
-Our conferences create a time and a place for the global community of
-:doc:`documentarians` to share information, discuss ideas, and work together
-to improve the **art and science of documentation**.
+* Attend one of :doc:`our conferences </conf/index>`
+   - :doc:`Portland 2023 </conf/portland/2023/index>`, **May 7-9**, Portland, Oregon, United States
+   - :doc:`Atlantic 2023 </conf/atlantic/2023/index>`, **September 10-12**, Virtual - CEST and EDT
 
-Our :doc:`/code-of-conduct` applies to all our community spaces.
+Connect with the community
+--------------------------
 
-.. note:: You can find information and updates about the impact of COVID-19 on Write the Docs conferences and meetup events at the following links: `Conference updates <https://www.writethedocs.org/blog/write-the-docs-2016-year-in-review/>`_, `Meetup events <https://www.writethedocs.org/organizer-guide/meetups/covid-19-meetups/>`_.
+Get more information on how to meet the community, get involved, stay in touch.
 
-Join the community
-------------------
+* Join our :doc:`slack network </slack>` with thousands of other documentarians
+* Join a :doc:`local or online meetup </meetups/index>` to dive deeper into the community
+* Learn more about our :doc:`sponsorship options <sponsorship/index>` for your company
 
-Get more information on how to meet the community, learn new things, get involved, and stay in touch. We have a few sets of resources for you to start with:
+Find or advertise a job
+-----------------------
 
-.. toctree::
-   :glob:
-   :maxdepth: 2
-   :titlesonly:
-   :includehidden:
+Work with other documentarians.
 
-   about/events-activities
-   about/learning-resources
-   about/stay-connected
-   about/about-the-org
+* Find or post a `docs related job <https://jobs.writethedocs.org/>`__ on our Job Board
+* Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
+* Read our previous `salary survey <https://www.writethedocs.org/surveys/>`__ information to get a sense of the industry pay
 
+Learn from our resources
+------------------------
 
-Our focus is on community, and putting on our conferences is where we spend much of our time and effort
-Here are our latest events, and we hope to see you online or in person soon!
+We have an ever-increasing set of talk videos, articles, links, and resources:
 
-.. include:: include/conf/current.rst
+* Subscribe to one of :doc:`newsletter and conference </newsletter>` mailing lists
+* Browse our :doc:`topic index </topics>`
+* Read the latest in our :doc:`blog </blog/index>`
+* Learn about :doc:`Write the Docs <about/about-the-org>` itself
 
-.. So that Sphinx doesn't yell as us :)
+We're glad you stopped by!
+We hope you'll join us either online or in-person for an event soon.
 
 .. toctree::
    :hidden:
@@ -61,7 +57,8 @@ Here are our latest events, and we hope to see you online or in person soon!
 
    *
    conf/*
-   news/*
+   conf/atlantic/*/*
+   conf/atlantic/*/*/*
    conf/portland/*/*
    conf/portland/*/*/*
    conf/prague/*/*
@@ -74,3 +71,4 @@ Here are our latest events, and we hope to see you online or in person soon!
    conf/vilnius/*/*/*
    conf/cfp/*
    book-club/*/*
+   about/*
