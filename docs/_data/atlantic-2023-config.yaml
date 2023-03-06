@@ -145,10 +145,10 @@ about:
 
 cfp:
   url: https://pretalx.com/wtd-atlantic-2022/cfp
-  ends: "June 30, 2022"           # 2 weeks to review and get confirmnations
-  notification: "July 15, 2022"     #  5 weeks to write and record
-  video_by: "August 20, 2022"   # 3 weeks before the conf
-  slides_by: "August 27, 2022"  # 2 weeks before the conf
+  ends: "May 15, 2023"             # 2 weeks to review and get confirmation (Portland ends May 09)
+  notification: "June 01, 2023"     # 5 weeks to write and record
+  video_by: "August 15, 2025"       # 3 weeks before the conf
+  slides_by: "September 01, 2023"      # 2 weeks before the conf
   preview: "https://writethedocs-www--1777.org.readthedocs.build/conf/atlantic/2022/schedule/"
 
 #grants:
