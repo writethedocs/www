@@ -7,7 +7,7 @@ Write the Docs Newsletter – March 2023
 
 Hello, everyone! March is here, which should mean the changing of the season. I hope you are able to find some balance with the upcoming equinox.
 
-This month's big community news is the `annoucement of the Portland conference speakers <https://www.writethedocs.org/conf/portland/2023/news/announcing-speakers/>`__. This marks the return of in-person talks, and the variety of topics and speakers means it's sure to be a treat for those able to attend. If you can't make it to Portland, some other areas are also retuning to in-person meetups. So if that's your thing, check out the list at the end of the newsletter.
+This month's big community news is the `announcement of the Portland conference speakers <https://www.writethedocs.org/conf/portland/2023/news/announcing-speakers/>`__. This marks the return of in-person talks, and the variety of topics and speakers means it's sure to be a treat for those able to attend. If you can't make it to Portland, some other areas are also retuning to in-person meetups. So if that's your thing, check out the list at the end of the newsletter.
 
 In between, enjoy some discussions about how to deal with being the sole documentarian where you are, how to break up your docs-as-code, what the most interesting projects some of us have worked on, and how to face the challenge of documenting AI (since we know from last month that it won't yet replace us). 
 
@@ -60,7 +60,7 @@ A related challenge can be explaining to end users what AI is actually doing. On
 The community was also interested in the ethics of AI. They recommended a few pieces:
 
 - A paper called “On the Dangers of Stochastic Parrots”.
-- A recent publication, `A Critical Field Guide for Working With Machine Learning Datasets <https://knowingmachines.org/critical-field-guide >`__.
+- A recent publication, `A Critical Field Guide for Working With Machine Learning Datasets <https://knowingmachines.org/critical-field-guide>`__.
 - A few books that discuss the technical side of ethics in machine learning, but accessibly: `The Ethical Algorithm <https://wsp.wharton.upenn.edu/book/the-ethical-algorithm/>`__, `The Alignment Problem <https://brianchristian.org/the-alignment-problem/>`__, and `Living in Data <https://us.macmillan.com/books/9780374720513/livingindata>`__.
 
 ----------------
