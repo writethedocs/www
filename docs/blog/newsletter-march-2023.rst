@@ -19,7 +19,7 @@ Loneliness of the "Lone-ly" Documentarian
 
 A recent discussion in `#lone-writer <https://writethedocs.slack.com/archives/CAL5Y0NB1>`__ elicited some responses that may relate to all documentarians. The essence of the posted question also appears in #career-advice: How to develop skills to feel successful throughout a career?
 
-Some of the responses related to training opportunties: certification programs or online training (within the domain or for new skills). Some suggested joining the `#learn-tech-writing <https://writethedocs.slack.com/archives/C7YJR1N02>`__ channel and participating in its book club. For some people, reading books may be helpful.
+Some of the responses related to training opportunities: certification programs or online training (within the domain or for new skills). Some suggested joining the `#learn-tech-writing <https://writethedocs.slack.com/archives/C7YJR1N02>`__ channel and participating in its book club. For some people, reading books may be helpful.
 
 The importance of developing relationships with other documentarians was brought up. Interacting with the Write the Docs community (asking questions in the Slack workspace, mingling in meetups, or attending WTD conferences) was important for many people. Maintaining relationships with previous co-workers or finding a mentor to bounce ideas off of was suggested by others.
 
