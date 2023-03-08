@@ -14,9 +14,9 @@ We've gathered info here that will help you navigate the conference like a pro a
 Welcome Wagon Tours
 ~~~~~~~~~~~~~~~~~~~
 
-Sunday at noon
-Sunday at 2:00pm
-Monday morning at 8:15am
+- Sunday at noon
+- Sunday at 2:00pm
+- Monday morning at 8:15am
 
 Join us for an informal Introduction to Write the Docs in the Library/Astoria Room. We’ll review information about the conference specifically for first-timers and give everyone a chance to meet someone new. Come on a short tour of the venue so you’ll know where everything is and everything you can take part in.
 
