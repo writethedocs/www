@@ -9,7 +9,7 @@ Hello, everyone! March is here, which should mean the changing of the season. I 
 
 This month's big community news is the `announcement of the Portland conference speakers <https://www.writethedocs.org/conf/portland/2023/news/announcing-speakers/>`__. This marks the return of in-person talks, and the variety of topics and speakers means it's sure to be a treat for those able to attend. If you can't make it to Portland, some other areas are also retuning to in-person meetups. So if that's your thing, check out the list at the end of the newsletter.
 
-In between, enjoy some discussions about how to deal with being the sole documentarian where you are, how to break up your docs-as-code, what the most interesting projects some of us have worked on, and how to face the challenge of documenting AI (since we know from last month that it won't yet replace us). 
+Before the meetup list, enjoy some discussions about how to deal with being a sole documentarian, how to break up your docs-as-code, what the most interesting projects some of us have worked on, and how to face the challenge of documenting AI (since we know from last month that it won't yet replace us). 
 
 -----------------------------------------
 Loneliness of the "Lone-ly" Documentarian
@@ -17,7 +17,7 @@ Loneliness of the "Lone-ly" Documentarian
 
 “Sometimes being surrounded by everyone is the loneliest because you'll realize you have no one to turn to.” — Soraya
 
-A recent discussion in `#lone-writer <https://writethedocs.slack.com/archives/CAL5Y0NB1>`__ elicited some responses that may relate to all documentarians. The essence of the posted question also appears in #career-advice: How to develop skills to feel successful throughout a career?
+A recent discussion in `#lone-writer <https://writethedocs.slack.com/archives/CAL5Y0NB1>`__ elicited some responses with value for all documentarians. The essence of the posted question also appears in #career-advice: How to develop skills to feel successful throughout a career?
 
 Some of the responses related to training opportunities: certification programs or online training (within the domain or for new skills). Some suggested joining the `#learn-tech-writing <https://writethedocs.slack.com/archives/C7YJR1N02>`__ channel and participating in its book club. For some people, reading books may be helpful.
 
@@ -47,9 +47,9 @@ Others mentioned having a localization voiceover gig to demonstrate using a chai
 
 The most interesting projects that documentarians have worked on showcase the diverse range of topics and industries they can adapt to and the complexity of the information they need to communicate. As technology continues to evolve and shape our world, documentarians will remain a crucial part of the process, ensuring that information is shared effectively and efficiently with a broad audience. It's clear that it's already a fascinating and challenging field, and it’s expected that more innovative and interesting projects will emerge in the future.
 
----------------------
-AI for documentarians
----------------------
+----------------
+Documenting AI
+----------------
 
 Artificial intelligence (AI) is still top of mind for many. Based on a discussion this month, here's what the community thinks we should we be looking out for.
 
@@ -59,7 +59,7 @@ A related challenge can be explaining to end users what AI is actually doing. On
 
 The community was also interested in the ethics of AI. They recommended a few pieces:
 
-- A paper called “On the Dangers of Stochastic Parrots”.
+- A paper called `"On the Dangers of Stochastic Parrots" <https://dl.acm.org/doi/10.1145/3442188.3445922>`__.
 - A recent publication, `A Critical Field Guide for Working With Machine Learning Datasets <https://knowingmachines.org/critical-field-guide>`__.
 - A few books that discuss the technical side of ethics in machine learning, but accessibly: `The Ethical Algorithm <https://wsp.wharton.upenn.edu/book/the-ethical-algorithm/>`__, `The Alignment Problem <https://brianchristian.org/the-alignment-problem/>`__, and `Living in Data <https://us.macmillan.com/books/9780374720513/livingindata>`__.
 
