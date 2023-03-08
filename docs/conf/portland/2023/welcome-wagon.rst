@@ -151,7 +151,7 @@ Sample strategy for my first Write the Docs conference
 -  In the morning, or when you need a break during the day, head down to the Library/Astoria Room to check out the unconference schedule. Make note of any unconference talks you want to attend.
 -  Check out the lightning talks, and get excited about presenting one at next year's conference.
 
-Sample strategy for a second or higher Write the Docs conference
+Sample strategy for a second or subsequent Write the Docs conference
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Attend the Welcome Wagon events and share your conference knowledge. You might learn something new yourself!
