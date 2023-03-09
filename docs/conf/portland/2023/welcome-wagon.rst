@@ -11,31 +11,32 @@ When you get to the conference, come :ref:`say hello <say-hello-2023>`.
 
 We've gathered info here that will help you navigate the conference like a pro and make you feel more at home. The Welcome Wagon events give new attendees strategies and tips and connect them with people.
 
-Welcome Wagon Tours
-~~~~~~~~~~~~~~~~~~~
-
-- Sunday at noon
-- Sunday at 2:00pm
-- Monday morning at 8:15am
-
-Join us for an informal Introduction to Write the Docs in the Library/Astoria Room. We’ll review information about the conference specifically for first-timers and give everyone a chance to meet someone new. Come on a short tour of the venue so you’ll know where everything is and everything you can take part in.
-
-Pro Tips
-~~~~~~~~
-
--  You don't need to go to every talk. Look through the schedule of events before you arrive or while you are eating or taking a break. Figure out which talks you want to see the most. Spread out your time between talks, unconference sessions, networking, and breaks.
--  Speaking of breaks--conferences are exhilarating, but can also be exhausting. Give your brain a break! Grab a quiet spot in the Sunset Room or take a quick walk. Play a board game on your lunch break. Come back invigorated.
--  Starting Monday morning, check the unconference schedule in the Library/Astoria Room to see if there are any sessions you are interested in attending. New sessions are added all the time, so check back periodically.
--  Eat! You can use the energy. There will be snacks in the Library/Astoria Room.
--  Are you looking for a job or is there an opening at your company? Check out the job board and the job fair in the Library/Astoria Room.
 
 .. contents::
    :local:
    :backlinks: none
+   
+
+Welcome Wagon Tours
+~~~~~~~~~~~~~~~~~~~
+
++ Sunday at noon
++ Sunday at 2:00pm
++ Monday morning at 8:15am
+
+Join us for an informal introduction to Write the Docs in the Library/Astoria Room. We’ll review information about the conference specifically for first-timers and give everyone a chance to meet someone new. Come on a short tour of the venue so you’ll know where everything is and everything you can take part in.
+
+
+Where can I get help?
+~~~~~~~~~~~~~~~~~~~~~
+
+Stop by the Welcome Wagon Help Desk, next to Registration, outside of the main stage on the second floor. A Write the Docs volunteer will be there to answer your questions.
+
 
 Where is everything?
 ~~~~~~~~~~~~~~~~~~~~
 
+-  The Registration desk is on the the second floor, outside of the main stage.
 -  The conference main stage and lightning talks are in Revolution Hall on the second floor.
 -  The unconference takes place on the first floor in the Library/Astoria Room.
 -  The Job Fair is on the first floor in the Library/Astoria Room.
@@ -49,6 +50,7 @@ How should I get around?
 -  Portland is a very walk-able town.
 -  There are good public transportation options and taxi services. Check out the `Visiting Portland section of the Write the Docs website <https://www.writethedocs.org/conf/portland/2023/visiting/>`__ for more info.
 
+
 How should I dress?
 ~~~~~~~~~~~~~~~~~~~
 
@@ -56,12 +58,13 @@ How should I dress?
 -  If you are going on the `Write the Docs hike on Saturday <https://www.writethedocs.org/conf/portland/2023/outing/>`__, be sure
    to bring appropriate hiking clothes and shoes. This time of year, the Pacific Northwest tends to be muddy or raining with occasional swaths of blue skies. Layering is usually the way to go.
 
+
 What will I eat?
 ~~~~~~~~~~~~~~~~
 
--  Snacks are provided for you on conference days.
--  Coffee, tea, and water are always available in the Library/Astoria Room. Bring a water bottle to make it easier for you to stay hydrated.
+-  Snacks, coffee, tea, and water are provided on conference days in the Library/Astoria Room. Bring a water bottle to make it easier for you to stay hydrated.
 -  Food is available in restaurants in and around Revolution Hall. `Explore Portland's amazing food scene <https://www.writethedocs.org/conf/portland/2023/visiting/>`__. Invite someone you just met to join you! If you are invited to dinner, say yes! Making connections over dinner is a great way to get to know more people.
+
 
 Where should I sit?
 ~~~~~~~~~~~~~~~~~~~
@@ -69,7 +72,8 @@ Where should I sit?
 -  The Revolution Hall main stage will have tables and rows of seats behind them.
 -  There's seating in the balcony that you can access from the third floor.
 -  There are no reserved seats; feel free to sit anywhere.
--  If you can, show up early to the conference each morning to grab a seat at one of the round tables. Introducing yourself to your neighbors is one of the easiest way to meet people.
+-  If you can, show up early to the conference each morning to grab a seat at one of the tables. Introducing yourself to your neighbors is one of the easiest way to meet people.
+
 
 What should I do during the talks?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -81,6 +85,7 @@ What should I do during the talks?
 -  If you have a question during a talk, make a note of it and use it as a conversation starter with the speaker.
 -  After a talk, feel free to tweet about it with the hashtag #writethedocs. Try not to "watch" the conference through Twitter and other social media, though. You are attending the conference, so live in it as much as you can!
 
+
 How do I take part in the Writing Day?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -88,6 +93,7 @@ How do I take part in the Writing Day?
 
 -  Bring a writing project that you want to work on. If you want help with your project, `add it to the list <https://www.writethedocs.org/conf/portland/2023/writing-day/#your-project-here>`_ before or during Writing Day. Be sure to include how to reach out to you. Here's the `2022 Writing Day Project list that you can use as a guide <http://www.writethedocs.org/conf/portland/2022/writing-day/>`_.
 -  Help someone else with their writing project. `Check out the list <https://www.writethedocs.org/conf/portland/2023/writing-day/#your-project-here>`_ and connect with the project organizer, before or during Writing Day.
+
 
 How do I take part in the unconference?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -112,6 +118,7 @@ Tips for your unconference session
 -  Start the session with a prompt: think of a question that you have about the topic of your unconference and ask it. The conversation typically works itself out after that. If there’s a lull, ask the group if anyone else has a question to ask.
 -  Be on the lookout for people who aren’t joining in and invite them to speak. Don’t insist, if they make it clear they want to listen only.
 
+
 What are lightning talks, and should I give one?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -119,6 +126,7 @@ What are lightning talks, and should I give one?
 -  Lightning talks are a great way to practice public speaking, get people excited about your unconference session, and test interest in a conference proposal idea.
 -  Do you have an idea, want to talk about a new tool you are learning, or review a process? Then, yes! Sign up for a lightning talk. There will be a sign-up sheet at registration.
 -  If you are interested in giving a lightning talk, be prepared! There is a great guide `here <https://www.writethedocs.org/conf/portland/2023/lightning-talks/?highlight=re>`__.
+
 
 How do I take part in the Job Fair?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -131,13 +139,14 @@ How do I take part in the Job Fair?
 How do I make the most out of this conference?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The most important part of this conference (and any conference) is the people you meet. Set a goal for yourself to meet a few, new people. Here are some tips:
-
--  Find out who is attending the conference before you get there. Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
+-  The most important part of this conference (and any conference) is the people you meet. Set a goal for yourself to meet a few, new people. Find out who is attending the conference before you get there. Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
    and review the `list of speakers <https://www.writethedocs.org/conf/portland/2023/>`__.
--  Figure out which companies will be represented at the conference. If you see a job post you're interested in, you might want to ask them a few questions. This might be a great time to better understand what it's like to work at certain companies.
--  Make a list of a few people you would like to meet, and write down some questions for them. If you can find contact information, email them before the conference and let them know you are looking forward to chatting.
--  Most importantly, remember that you don't have to meet everyone. In fact, you shouldn't. You should plan to make a few, meaningful connections. That is what the Write the Docs conference is about, so go for it! Introduce yourself.
+-  You don't need to go to every talk. Look through the schedule of events before you arrive or while you are eating or taking a break. Figure out which talks you want to see the most. Spread out your time between talks, unconference sessions, networking, and breaks.
+-  Speaking of breaks--conferences are exhilarating, but can also be exhausting. Give your brain a break! Grab a quiet spot in the Sunset Room or take a quick walk. Play a board game on your lunch break. Come back invigorated.
+-  Starting Monday morning, check the unconference schedule in the Library/Astoria Room to see if there are any sessions you are interested in attending. New sessions are added all the time, so check back periodically.
+-  Eat! You can use the energy. There will be snacks in the Library/Astoria Room.
+-  Are you looking for a job or is there an opening at your company? Check out the job board and the job fair in the Library/Astoria Room.
+
 
 Sample strategy for my first Write the Docs conference
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -150,6 +159,7 @@ Sample strategy for my first Write the Docs conference
 -  Check out the talk schedule in advance and make note of the talks you don't want to miss.
 -  In the morning, or when you need a break during the day, head down to the Library/Astoria Room to check out the unconference schedule. Make note of any unconference talks you want to attend.
 -  Check out the lightning talks, and get excited about presenting one at next year's conference.
+
 
 Sample strategy for a second or subsequent Write the Docs conference
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
