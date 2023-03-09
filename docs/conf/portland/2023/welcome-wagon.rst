@@ -6,7 +6,7 @@ Welcome Wagon Guide
 Hello!
 
 We're your Welcome Wagon, and we're glad you're coming to Write the Docs!
-Feel free to `tweet <https://twitter.com/canncrochet>`_ or `email <mailto:canncrochet@gmail.com>`_ us if we can help make your first time at the conference easier.
+Feel free to ask questions in the Write the Docs Welcome Wagon slack channel or `email <mailto:canncrochet@gmail.com>`_ us if we can help make your first time at the conference easier.
 When you get to the conference, come :ref:`say hello <say-hello-2023>`.
 
 We've gathered info here that will help you navigate the conference like a pro and make you feel more at home. The Welcome Wagon events give new attendees strategies and tips and connect them with people.
@@ -75,10 +75,8 @@ Where should I sit?
 -  If you can, show up early to the conference each morning to grab a seat at one of the tables. Introducing yourself to your neighbors is one of the easiest way to meet people.
 
 
-What should I do during the talks?
+What should I do during the `speeches <https://www.writethedocs.org/conf/portland/2023/speakers>`_?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-:doc:`/conf/portland/2023/speakers/`
 
 -  The time between talks is for meeting your colleagues or taking a break. During the talks, listen and take in as much as you can.
 -  There is a lot of great information at this conference, but don't worry if you miss something! All talks are recorded and videos will be published shortly after the conference, so you can review them later.
@@ -89,8 +87,7 @@ What should I do during the talks?
 How do I take part in the Writing Day?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:doc:`/conf/portland/2023/writing-day/` takes place in the conference venue on Sunday, the day before the conference starts. You can show up any time between 9am and 5pm. There are lots of ways to contribute, and here are the most common:
-
+-  `Writing Day <https://www.writethedocs.org/conf/portland/2023/writing-day/>`_ takes place in the conference venue on Sunday, the day before the conference starts. You can show up any time between 9am and 5pm. There are lots of ways to contribute, and here are the most common:
 -  Bring a writing project that you want to work on. If you want help with your project, `add it to the list <https://www.writethedocs.org/conf/portland/2023/writing-day/#your-project-here>`_ before or during Writing Day. Be sure to include how to reach out to you. Here's the `2022 Writing Day Project list that you can use as a guide <http://www.writethedocs.org/conf/portland/2022/writing-day/>`_.
 -  Help someone else with their writing project. `Check out the list <https://www.writethedocs.org/conf/portland/2023/writing-day/#your-project-here>`_ and connect with the project organizer, before or during Writing Day.
 
@@ -102,11 +99,13 @@ The Unconference is a set of informal sessions that take place all day Monday an
 Learn more about the Unconference by reading the  `Unconference Cheat Sheet <https://www.writethedocs.org/conf/portland/2023/unconference/>`__.
 
 Join an unconference session
+
 -  Starting Monday morning, check the Unconference sign-up in the Library/Astoria Room to see if there are any sessions you are interested in joining. New ones are added all the time, so check back periodically.
 -  At the time the session starts, go to the table number that corresponds to the one in the Unconference schedule.
 -  The session leader will begin when the group has gathered.
 
 Lead an unconference session
+
 -  Look for an empty slot on the Unconference sign-up in the Library/Astoria Room, and add your Unconference topic. There will be a time and a table number for each slot.
 -  When it’s time for your Unconference session to begin, go to the Library/Astoria Room and go to the table number for your session.
 -  The previous unconference session will be in the same table. Let the attendees of the previous session know that their time is up, and your session will begin soon.
@@ -114,6 +113,7 @@ Lead an unconference session
 -  When the Unconference leader for the next session arrives at the table, finish up your discussion to make way for the next one.
 
 Tips for your unconference session
+
 -  Avoid doing roundtable introductions. You might run out of time to actually start the conversation!
 -  Start the session with a prompt: think of a question that you have about the topic of your unconference and ask it. The conversation typically works itself out after that. If there’s a lull, ask the group if anyone else has a question to ask.
 -  Be on the lookout for people who aren’t joining in and invite them to speak. Don’t insist, if they make it clear they want to listen only.
@@ -179,29 +179,7 @@ Say hello
 We'd love to say hi when you're at the conference.
 Come find us and ask any questions, or just chat about the conference!
 
-.. container:: crew-images
-
-   .. container:: crew-image
-
-      .. figure:: /_static/img/crew/christy.jpg
-         :width: 100px
-
-         Christy
-   .. container:: crew-image
-
-      .. figure:: /_static/img/crew/Mo.jpg
-         :width: 100px
-
-         Mo
-   .. container:: crew-image
-
-      .. figure:: /_static/img/crew/Alicia.jpg
-         :width: 100px
-
-         Alicia
-   .. container:: crew-image
-
-      .. figure:: /_static/img/crew/David.jpg
-         :width: 100px
-
-         David   
+-  `Christy <https://twitter.com/canncrochet>`_
+-  `Mo <https://twitter.com/synthcat>`_
+-  `Alicia <https://twitter.com/lillydizzle>`_
+-  `David <https://twitter.com/dbastedo>`_ 
