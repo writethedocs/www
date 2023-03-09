@@ -1,9 +1,11 @@
-Videos and articles
-===================
+Content Archive by Topic
+========================
 
-This page links to the topics that have been covered by `conference </conf/>`__ talks or in the `newsletter </newsletter/>`__. They're in no particular order, and some topics are repeated if they fit into more than one category. Enjoy!
+This page links to the topics that have been covered by `conference </conf/>`__ talks or in the `newsletter </newsletter/>`__.
+They're in no particular order, and some topics are repeated if they fit into more than one category.
+Enjoy!
 
-If you think something is wrongly categorised, please send us a pull request :)
+If you think something is wrongly categorized, please let us know.
 
 .. contents::
    :local:

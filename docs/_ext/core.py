@@ -206,6 +206,12 @@ def override_template_load_context(app, pagename, templatename, context, doctree
     page_context = load_conference_page_context(app, pagename)
     context.update(page_context)
 
+    if 'year' in context:
+        # Hack title w/ opengraph
+        context['meta']['og:title'] = f"context['title'] - Write the Docs context['name'] context['year']"
+        context['meta']['og:site_name'] = f"Write the Docs context['name'] context['year']"
+
+
     # Markdown
     if (context and
             'page_source_suffix' in context and

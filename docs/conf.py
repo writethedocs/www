@@ -64,9 +64,19 @@ extensions = [
     'notfound.extension',
     'sphinxemoji.sphinxemoji',
     'myst_parser',
+    'sphinxext.opengraph',
 ]
 
 myst_heading_anchors = 4
+
+ogp_site_name = "Write the Docs"
+ogp_image = 'https://www.writethedocs.org/_static/logo-opengraph.png'
+ogp_use_first_image = True
+ogp_enable_meta_description = True
+# Inspired by https://github.com/executablebooks/MyST-Parser/pull/404/
+ogp_custom_meta_tags = [
+    '<meta name="twitter:card" content="summary_large_image" />',
+]
 
 blog_baseurl = 'https://www.writethedocs.org/'
 blog_path = 'blog/archive'
@@ -151,22 +161,22 @@ suppress_warnings = ['image.nonlocal_uri']
 
 # Our additions
 
-global_sponsors = yaml.safe_load("""
-- name: google
-  link: https://www.google.com
-  brand: Google
-  comment: Patron sponsor
-- name: archbee-new
-  link: https://archbee.io/?utm_medium=banner&utm_source=footer&utm_campaign=wtd
-  brand: Archbee
-  comment: Community sponsor
-""")
+# No global sponsors currently
+#
+# global_sponsors = yaml.safe_load("""
+# - name: archbee-new
+#   link: https://archbee.io/?utm_medium=banner&utm_source=footer&utm_campaign=wtd
+#   brand: Archbee
+#   comment: Community sponsor
+# """)
+
+global_sponsors = {}
 
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
-    'newsletter_subs': '6,500',
+    'newsletter_subs': '10,000',
     'slack_members': '15,000',
-    'website_visits': '30,000',
+    'website_visits': '20,000',
     'global_sponsors': global_sponsors,
     'cfp_variables': cfp_variables,
     'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-12k7dh46o-eNMS1sHejK2OiiBfnBf6hw",

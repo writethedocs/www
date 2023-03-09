@@ -22,8 +22,8 @@ buttons:
     #   link: /news/website-tickets-cfp-reminder/
   #  - text: Sponsor us
   #    link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
+    # - text: Submit a Talk
+    #   link: /cfp
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: Read our conference guide
@@ -32,8 +32,8 @@ buttons:
   #     link: /schedule
     - text: Buy a Ticket!
       link: /tickets
-  #   - text: See the talks!
-  #     link: /speakers
+    - text: See the talks!
+      link: /speakers
   #  - text: See the Schedule!
   #    link: /schedule
   #  - text: Read our guide
@@ -149,7 +149,7 @@ date: # how do we handle these? human readable would be nice.
   total_talk_days: 2
 
 about:
-  attendees: 500
+  attendees: 400
   summary:
     "The main presentation track takes place from **May 8-9 (Monday and Tuesday) from 9am to 6pm**.
     During the main event we also run an :doc:`/conf/portland/2023/unconference`."
@@ -158,7 +158,7 @@ about:
   venue: Revolution Hall
   photos: TBD
   mainroom: Main stage
-  unconfroom: Unconference area
+  unconfroom: Library & Astoria room (Bottom floor)
   projector_ratio: "16:9"
   job_fair_room: Sponsor area
 
@@ -187,12 +187,15 @@ sponsors:
     #   link: https://www.google.com
     #   brand: Google
   publisher:
-    - name: jetbrains
-      link: https://www.jetbrains.com/
-      brand: JetBrains
     - name: mongodb-new
       link: https://www.mongodb.com/
       brand: MongoDB
+    - name: redocly
+      link: https://redoc.ly/
+      brand: Redocly
+    - name: jetbrains
+      link: https://www.jetbrains.com/
+      brand: JetBrains
     # - name: stackblitz-svg
     #   link: https://stackblitz.com/
     #   brand: StackBlitz
@@ -210,7 +213,16 @@ sponsors:
       link: https://www.knowledgeowl.com
       brand: KnowledgeOwl
       width: 250px
-      text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl​ is looking for more contributors for our ​company blog​. This is an opportunity to write about a topic that interests you and get paid for it :)</p> <p>Feel free to stop by and ask us more about KnowledgeOwl, these opportunities, or anything else!</p>"
+    - name: raspberrypi
+      link: https://www.raspberrypi.com/
+      brand: Raspberry Pi
+    - name: readthedocs
+      link: https://about.readthedocs.com/
+      brand: Read the Docs
+      width: 250px
+    - name: netlify-new
+      link: https://www.netlify.com/
+      brand: Netlify
     # - name: livelike
     #   link: https://livelike.com/
     #   brand: LiveLike
@@ -221,14 +233,9 @@ sponsors:
     # - name: juniper
     #   link: https://www.juniper.net/
     #   brand: Juniper
-    #   text: "<p><b>Power connections. Empower change.</b>\n Juniper exists to solve the world’s most difficult problems in networking. We do this by remaining true to our values of being bold, building trust and delivering excellence. Visit us at the virtual job fair!</p>"
-    # - name: netlify
-    #   link: https://www.netlify.com/
-    #   brand: Netlify
     # - name: starburst
     #   link: https://www.starburst.io/
     #   brand: Starburst
-    #   text: "<p>Starburst is on a mission to modernize data access &amp; analytics. Our company was founded in an unusual way; with customers and revenue from the beginning! Our growth is already ahead of some of the most successful software start-ups, and we don’t plan on slowing down.</p> <p>We believe our opportunity is huge. Every large company in the world suffers from a data silo problem. Traditional data warehouse products approach the problem with old solutions that breed inefficiency and ultimately can’t help business analysts run fast analytics on all their data.</p> <p>Starburst provides a modern solution that addresses these data silo &amp; speed of access problems. Starburst helps enterprises harness the value of open source Trino (formerly PrestoSQL), the fastest distributed query engine available today, by adding the tools and 24x7 support that meet the needs for big data access at scale. Ultimately, Starburst helps organizations run analytics anywhere to make better business decisions.</p>"
   first:
   in_kind:
     # - name: buildkite

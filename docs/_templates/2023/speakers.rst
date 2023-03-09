@@ -1,5 +1,6 @@
 {% for talk in data %}
 
+{# Make speakers linkable from announcements and other places #}
 {% for speaker in talk.speakers %}
 .. _speaker-{{ speaker.slug }}:
 {% endfor %}

@@ -10,6 +10,7 @@ About Our Organization
    /origin-story
    /documentarians
    /code-of-conduct
+   /contact
 
 
 Guiding Principles and Governance

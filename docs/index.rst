@@ -15,39 +15,40 @@ their users to be a member of our community. This can be programmers,
 tech writers, developer advocates, customer support, marketers, and anyone else who wants
 people to have great experiences with software.
 
-* :doc:`Attend one of our conferences </conf/index>`
+* Attend one of :doc:`our conferences </conf/index>`
    - :doc:`Portland 2023 </conf/portland/2023/index>`, **May 7-9**, Portland, Oregon, United States
    - :doc:`Atlantic 2023 </conf/atlantic/2023/index>`, **September 10-12**, Virtual - CEST and EDT
-
-Find or advertise a job
------------------------
-
-Work with other documentarians.
-
-* `Find a docs related job <https://jobs.writethedocs.org/>`__  on our Job Board
-* :doc:`Read the Guide to Hiring and Getting Hired </hiring-guide/index>`
 
 Connect with the community
 --------------------------
 
 Get more information on how to meet the community, get involved, stay in touch.
 
-* :doc:`Join our slack network </slack>` with thousands of other documentarians
-* :doc:`Join a local or online meetup </meetups/index>`
-* :doc:`Sponsor a conference, the newsletter or the site <sponsorship/index>`
-* `Fill out the current salary survey <https://salary-survey.writethedocs.org/>`__
+* Join our :doc:`slack network </slack>` with thousands of other documentarians
+* Join a :doc:`local or online meetup </meetups/index>` to dive deeper into the community
+* Learn more about our :doc:`sponsorship options <sponsorship/index>` for your company
 
-Learn
------
+Find or advertise a job
+-----------------------
 
-An ever increasing source of talk videos, articles, links, and resources:
+Work with other documentarians.
 
-* :doc:`Subscribe to one of our newsletters </newsletter>`
-* :doc:`Browse the newsletter and video archives by topic </topics>`
-* :doc:`Read the Documentation Guide <guide/index>`
-* :doc:`Read the latest salary survey report </surveys/salary-survey/2021>`
-* :doc:`See what the teams have been up to </blog/index>`
-* :doc:`Learn about Write the Docs itself <about/about-the-org>` 
+* Find or post a `docs related job <https://jobs.writethedocs.org/>`__ on our Job Board
+* Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
+* Read our previous `salary survey <https://www.writethedocs.org/surveys/>`__ information to get a sense of the industry pay
+
+Learn from our resources
+------------------------
+
+We have an ever-increasing set of talk videos, articles, links, and resources:
+
+* Subscribe to one of :doc:`newsletter and conference </newsletter>` mailing lists
+* Browse our :doc:`topic index </topics>`
+* Read the latest in our :doc:`blog </blog/index>`
+* Learn about :doc:`Write the Docs <about/about-the-org>` itself
+
+We're glad you stopped by!
+We hope you'll join us either online or in-person for an event soon.
 
 .. toctree::
    :hidden:
