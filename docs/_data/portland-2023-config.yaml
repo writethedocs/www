@@ -196,6 +196,10 @@ sponsors:
     - name: jetbrains
       link: https://www.jetbrains.com/
       brand: JetBrains
+    - name: paligo
+      link: https://paligo.net/
+      brand: Paligo
+      width: 200px
     # - name: stackblitz-svg
     #   link: https://stackblitz.com/
     #   brand: StackBlitz
