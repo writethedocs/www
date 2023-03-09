@@ -60,7 +60,7 @@ What will I eat?
 ~~~~~~~~~~~~~~~~
 
 -  Snacks are provided for you on conference days.
--  Coffee, tea, and water are always available in the Crystal Ballroom. Bring a water bottle to make it easier for you to stay hydrated.
+-  Coffee, tea, and water are always available in the Library/Astoria Room. Bring a water bottle to make it easier for you to stay hydrated.
 -  Food is available in restaurants in and around Revolution Hall. `Explore Portland's amazing food scene <https://www.writethedocs.org/conf/portland/2023/visiting/>`__. Invite someone you just met to join you! If you are invited to dinner, say yes! Making connections over dinner is a great way to get to know more people.
 
 Where should I sit?
