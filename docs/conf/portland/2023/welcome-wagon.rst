@@ -75,10 +75,10 @@ Where should I sit?
 -  If you can, show up early to the conference each morning to grab a seat at one of the tables. Introducing yourself to your neighbors is one of the easiest way to meet people.
 
 
-What should I do during the `speeches <https://www.writethedocs.org/conf/portland/2023/speakers>`_?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+What should I do during the speeches?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  The time between talks is for meeting your colleagues or taking a break. During the talks, listen and take in as much as you can.
+-  The time between `speeches <https://www.writethedocs.org/conf/portland/2023/speakers>`_ is for meeting your colleagues or taking a break. During the talks, listen and take in as much as you can.
 -  There is a lot of great information at this conference, but don't worry if you miss something! All talks are recorded and videos will be published shortly after the conference, so you can review them later.
 -  If you have a question during a talk, make a note of it and use it as a conversation starter with the speaker.
 -  After a talk, feel free to tweet about it with the hashtag #writethedocs. Try not to "watch" the conference through Twitter and other social media, though. You are attending the conference, so live in it as much as you can!
