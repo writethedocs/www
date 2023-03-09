@@ -152,7 +152,7 @@ Sample strategy for my first Write the Docs conference
 -  Check out the lightning talks, and get excited about presenting one at next year's conference.
 
 Sample strategy for a second or subsequent Write the Docs conference
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  Attend the Welcome Wagon events and share your conference knowledge. You might learn something new yourself!
 -  Reach out to some first-time attendees and tell them about your first conference.
