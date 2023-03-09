@@ -213,7 +213,6 @@ sponsors:
       link: https://www.knowledgeowl.com
       brand: KnowledgeOwl
       width: 250px
-      text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl​ is looking for more contributors for our ​company blog​. This is an opportunity to write about a topic that interests you and get paid for it :)</p> <p>Feel free to stop by and ask us more about KnowledgeOwl, these opportunities, or anything else!</p>"
     - name: raspberrypi
       link: https://www.raspberrypi.com/
       brand: Raspberry Pi
@@ -221,6 +220,9 @@ sponsors:
       link: https://about.readthedocs.com/
       brand: Read the Docs
       width: 250px
+    - name: netlify-new
+      link: https://www.netlify.com/
+      brand: Netlify
     # - name: livelike
     #   link: https://livelike.com/
     #   brand: LiveLike
@@ -231,14 +233,9 @@ sponsors:
     # - name: juniper
     #   link: https://www.juniper.net/
     #   brand: Juniper
-    #   text: "<p><b>Power connections. Empower change.</b>\n Juniper exists to solve the world’s most difficult problems in networking. We do this by remaining true to our values of being bold, building trust and delivering excellence. Visit us at the virtual job fair!</p>"
-    # - name: netlify
-    #   link: https://www.netlify.com/
-    #   brand: Netlify
     # - name: starburst
     #   link: https://www.starburst.io/
     #   brand: Starburst
-    #   text: "<p>Starburst is on a mission to modernize data access &amp; analytics. Our company was founded in an unusual way; with customers and revenue from the beginning! Our growth is already ahead of some of the most successful software start-ups, and we don’t plan on slowing down.</p> <p>We believe our opportunity is huge. Every large company in the world suffers from a data silo problem. Traditional data warehouse products approach the problem with old solutions that breed inefficiency and ultimately can’t help business analysts run fast analytics on all their data.</p> <p>Starburst provides a modern solution that addresses these data silo &amp; speed of access problems. Starburst helps enterprises harness the value of open source Trino (formerly PrestoSQL), the fastest distributed query engine available today, by adding the tools and 24x7 support that meet the needs for big data access at scale. Ultimately, Starburst helps organizations run analytics anywhere to make better business decisions.</p>"
   first:
   in_kind:
     # - name: buildkite
