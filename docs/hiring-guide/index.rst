@@ -44,6 +44,7 @@ Useful skills for a technical writer
    :maxdepth: 2 
 
    useful-skills
+   portfolios
 
 Consulting and freelancing
 --------------------------
