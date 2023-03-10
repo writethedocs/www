@@ -6,6 +6,7 @@ ines
 ist
 mobify
 ninjs
+slite
 tread
 wan
 wee
