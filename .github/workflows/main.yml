@@ -57,7 +57,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: codespell-project/actions-codespell@master
+      - uses: codespell-project/codespell-problem-matcher@v1
+      - uses: codespell-project/actions-codespell@v1
         name: Check spelling
         with:
           skip: "*.pdf,*.svg,*.js,*.map,*.css,*.scss,docs/_data/201[5|6|7]*"

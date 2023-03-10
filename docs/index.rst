@@ -45,7 +45,8 @@ We have an ever-increasing set of talk videos, articles, links, and resources:
 * Subscribe to one of :doc:`newsletter and conference </newsletter>` mailing lists
 * Browse our :doc:`topic index </topics>`
 * Read the latest in our :doc:`blog </blog/index>`
-* Learn about :doc:`Write the Docs <about/about-the-org>` itself
+* Learn about :doc:`Write the Docs <about/about-the-org>`
+* See all :doc:`learning resources </about/learning-resources>`
 
 We're glad you stopped by!
 We hope you'll join us either online or in-person for an event soon.
