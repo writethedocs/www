@@ -9,7 +9,7 @@ Greetings, documentarians! Mikey Ariel here, chairperson of the newly formed com
 
 As you might have heard, at the end of 2022 I stepped down from my role as conference chair and transitioned to the new role of community board chair. The board meets quarterly during the first month of the quarter, and is comprised of each team lead in the WTD organization. 
 
-We hope that this group will be able to discuss and drive more long-term strategic initiatives and collaboration for the community. 
+Our main goal with this group is to discuss and drive more long-term strategic initiatives and collaboration for the community. 
 
 Quarterly meeting update - Q1
 -----------------------------
@@ -34,7 +34,7 @@ The members are the team leads of each of the Write the Docs team, as well as th
 * Mikey Ariel (CoreOps, Brand and design, board chair)
 * Eric Holscher (CoreOps, Portland chair)
 * Samuel Wright (CoreOps, Infrastructure)
-* Sasha Romijn (CoreOps, Support)
+* Sasha Romijn (CoreOps, Support, Atlantic Chair)
 * Rose Williams (Meetups)
 * Janine Chan (Slack moderation)
 * Aaron Collier (Newsletter)
