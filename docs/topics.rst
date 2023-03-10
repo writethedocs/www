@@ -291,6 +291,7 @@ Getting hired
 - |:newspaper:| `Creating a doc portfolio </blog/newsletter-september-2017/#doc-portfolios-a-perpetual-conundrum>`__
 - |:newspaper:| `Writing a resume </blog/newsletter-august-2017/#what-resume-advice-is-the-right-resume-advice>`__
 - |:newspaper:| `Putting together a portfolio </blog/newsletter-october-2016/#putting-together-a-technical-writing-portfolio>`__
+- |:newspaper:| `Maintaining a portfolio </hiring-guide/portfolios/>`__
 
 Related roles
 ~~~~~~~~~~~~~
