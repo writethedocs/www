@@ -27,47 +27,45 @@ talks_day1:
   - duration: '0:00'
     title: "<b>Unconference Starts</b>"
   - duration: '0:30'
-    slug: one-aws-team-s-move-to-docs-as-code-what-worked-what-didn-t-what-s-next-marcia-riefer-johnston
+    slug: is-it-layer-cake-thinking-in-content-levels-ryan-young
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: unit-test-the-docs-why-you-should-test-your-code-examples-ben-perlmutter
+    slug: winning-over-coworkers-collaborators-and-customers-to-a-new-knowledge-experien-jennifer-a-swallow
   - duration: '0:10'
     title: '✋ 10 min Q&A'
-  - duration: '0:05'
-    title: '5 minute break'
   - duration: '0:15'
     title: 'Coffee break'
   - duration: '0:30'
-    slug: lessons-learned-from-cloud-ops-writing-docs-for-high-stakes-situations-alastair-dallas
+    slug: myths-mistakes-and-missed-opportunities-lessons-learned-from-a-year-of-interv-linda-ikechukwu
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '1:20'
-    title: 'Lunch Break'
+    title: '🍽️ Lunch Break (80 mins)'
   - duration: '0:30'
     title: Lightning Talks (30 mins)
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: measuring-documentation-success-in-open-source-findings-from-google-s-season-of-kassandra-dhillon
+    slug: release-ready-docs-how-a-2-person-team-keeps-a-help-center-consistently-accurat-daniel-murphey
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:30'
-    slug: peer-writing-and-beyond-an-experimental-approach-to-a-sustainable-open-source-chris-ganta
-  - duration: '0:10'
-    title: '✋ 10 min Q&A'
-  - duration: '0:05'
-    title: '5 minute break'
-  - duration: '0:30'
-    slug: from-me-to-us-building-a-docs-team-from-the-ground-up-lana-brindley-she-her
+    slug: did-you-read-the-sop-procedure-writing-for-the-laboratory-sarah-greene
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    title: 'The 13th talk'
+    slug: zen-and-the-art-of-automanually-creating-api-documentation-an-inquiry-into-pro-dan-grabski
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: from-resistance-to-adoption-navigating-the-challenges-of-docs-like-code-adam-altman
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:00'
@@ -84,33 +82,33 @@ talks_day2:
   - duration: '0:00'
     title: "<b>Job Fair Starts</b>"
   - duration: '0:30'
-    slug: beating-the-virginia-blues-thru-hiking-strategies-to-help-you-survive-your-next-kate-mueller
+    slug: the-visuals-your-users-never-saw-wait-that-s-most-of-them-caitlin-davey
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: don-t-shoot-yourself-in-the-foot-with-content-reuse-anna-gasparyan
+    slug: the-descriptivist-manifesto-ed-cormany
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:15'
-    title: 'Coffee break'
+    title: '☕ Coffee break'
   - duration: '0:30'
-    slug: don-t-trust-the-numbers-kumar-dhanagopal
+    slug: doing-data-driven-content-maintenance-alex-garnett
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    title: 'Talk that is not cancelled'
+    slug: navigating-the-future-of-technical-writing-in-a-rapidly-evolving-tech-landscape-scott-truelove
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:00'
     title: "<b>Job Fair Ends</b>"
   - duration: '1:20'
-    title: 'Lunch Break'
+    title: '🍽️ Lunch Break (80 mins)'
   - duration: '0:30'
     title: Lightning Talks (30 mins)
   - duration: '0:05'
@@ -118,13 +116,13 @@ talks_day2:
   - duration: '0:00'
     title: "<b>Unconference Starts</b>"
   - duration: '0:30'
-    slug: all-together-now-turning-technologists-into-documentarians-liani-lye-she-her
+    slug: trauma-informed-documentation-taking-empathy-and-inclusive-language-to-the-next-ashleigh-rentz
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: code-cowpokes-and-word-wranglers-from-mutual-admiration-to-solidarity-erin-dees
+    slug: great-big-engineering-org-itty-bitty-docs-team-kari-halsted
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:15'
