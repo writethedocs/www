@@ -4,4 +4,4 @@
 Speaking Tips
 =================
 
-{% include "conf/virtual/speaking-tips.rst" %}
+{% include "conf/portland/speaking-tips.rst" %}
