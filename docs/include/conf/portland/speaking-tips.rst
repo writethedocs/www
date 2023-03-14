@@ -15,7 +15,10 @@ Facts
    run through it in front of at least one other human.
 -  If you want to get some of that sweet internet buzz for your talk,
    we use the #writethedocs hashtag throughout the event.
+Venue specs
+------------------
 
+The projector is 1920 x 1200 resolution at 60Hz via HDMI, DisplayPort or VGA
 Presentation format
 -------------------
 
