@@ -49,6 +49,7 @@ Good resources on this include:
 
 Also, we know there's a ton of nuance and complexity here – 
 just do your best to be aware of and sensitive about your language choices!
+If you have any doubts about any of your language, feel free to ask us in advance.
 
 Slide display details
 ---------------------
