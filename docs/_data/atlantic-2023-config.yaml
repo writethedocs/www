@@ -19,8 +19,8 @@ photos:
 
 buttons:
   top:
-    - text: Welcome to our conference
-      link_absolute: /blog/2023-conference-announcements/
+#    - text: Welcome to our conference
+#      link_absolute: /blog/2023-conference-announcements/
     # - text: Date and ticket information
     #   link: /news/announcing-virtual-conf-dates-tickets
     #- text: Read our conference guide
@@ -31,8 +31,8 @@ buttons:
     #  link: /tickets
     - text: Sponsor us
       link: /sponsors/prospectus
-    #- text: Submit a Talk
-    #  link: /cfp
+    - text: Submit a Talk
+      link: /cfp
 #    - text: See the talks!
 #      link: /speakers
     #- text: See the Schedule!
@@ -143,7 +143,7 @@ about:
   job_fair_room: "Sponsor area"
 
 cfp:
-  url: https://pretalx.com/wtd-atlantic-2022/cfp
+  url: https://pretalx.com/wtd-atlantic-2023/cfp
   ends: "May 15, 2023"             # 2 weeks to review and get confirmation (Portland ends May 09)
   notification: "June 01, 2023"     # 5 weeks to write and record
   video_by: "August 15, 2025"       # 3 weeks before the conf
