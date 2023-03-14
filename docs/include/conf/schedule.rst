@@ -155,6 +155,8 @@ with each session happening during a corresponding talk on the main stage.
 
 .. _{{shortcode}}-{{year}}-social-event:
 
+{% if about.social_venue %}
+
 Social Event
 ~~~~~~~~~~~~
 
@@ -171,6 +173,7 @@ but expect a relaxed atmosphere where you can chat and network with your fellow 
 
    <hr>
 
+{% endif %}
 
 {{date.day_four.dotw}}, {{date.day_four.date}}
 -----------------------------------------

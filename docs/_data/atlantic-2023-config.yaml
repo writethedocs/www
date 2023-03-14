@@ -119,8 +119,7 @@ date:
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Monday
     talk_time: 12:00-18:00
-    unconference_time: 12:00-18:00
-    social_time: 21:00-23:00
+    unconference_time: 10:00-20:00
   day_four:
     event: Conference Day 2
     date: September 12
@@ -128,7 +127,7 @@ date:
     dotw: Tuesday
     talk_time: 12:00-18:00
     job_fair_time: 10:00-12:00  # disabled for now
-    unconference_time: 14:00-18:00
+    unconference_time: 10:00-20:00
   total_talk_days: 2
 
 about:
@@ -136,7 +135,6 @@ about:
   summary:
     "The main presentation track takes place on **September 11-12 (Monday and Tuesday) from 10:00 to 18:00**.
     During the main event we also run an :doc:`/conf/atlantic/2023/unconference`."
-  social_venue: "Spatial chat platform"
   venue: "Hopin online conference platform"
   photos:
   mainroom: "Stage area"
