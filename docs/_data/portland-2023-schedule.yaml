@@ -37,7 +37,7 @@ talks_day1:
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:15'
-    title: 'Coffee break'
+    title: '☕ Coffee break'
   - duration: '0:30'
     slug: myths-mistakes-and-missed-opportunities-lessons-learned-from-a-year-of-interv-linda-ikechukwu
   - duration: '0:10'
@@ -52,12 +52,14 @@ talks_day1:
     slug: release-ready-docs-how-a-2-person-team-keeps-a-help-center-consistently-accurat-daniel-murphey
   - duration: '0:10'
     title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
   - duration: '0:30'
     slug: did-you-read-the-sop-procedure-writing-for-the-laboratory-sarah-greene
   - duration: '0:10'
     title: '✋ 10 min Q&A'
-  - duration: '0:05'
-    title: '5 minute break'
+  - duration: '0:15'
+    title: '☕ Coffee break'
   - duration: '0:30'
     slug: zen-and-the-art-of-automanually-creating-api-documentation-an-inquiry-into-pro-dan-grabski
   - duration: '0:10'
@@ -91,8 +93,6 @@ talks_day2:
     slug: the-descriptivist-manifesto-ed-cormany
   - duration: '0:10'
     title: '✋ 10 min Q&A'
-  - duration: '0:05'
-    title: '5 minute break'
   - duration: '0:15'
     title: '☕ Coffee break'
   - duration: '0:30'
@@ -119,8 +119,8 @@ talks_day2:
     slug: trauma-informed-documentation-taking-empathy-and-inclusive-language-to-the-next-ashleigh-rentz
   - duration: '0:10'
     title: '✋ 10 min Q&A'
-  - duration: '0:05'
-    title: '5 minute break'
+  - duration: '0:15'
+    title: '☕ Coffee break'
   - duration: '0:30'
     slug: great-big-engineering-org-itty-bitty-docs-team-kari-halsted
   - duration: '0:10'
