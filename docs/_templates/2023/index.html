@@ -60,7 +60,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
         <p>
           <b>
             {% if not flaghasfood %}
-              Online: {{ tz }} <br>
+              Online: {% if tz_header %}{{ tz_header }}{% else %}{{ tz }}{% endif %}<br>
             {% else %}
               {{ city }}, {{ local_area }}<br>
             {% endif %}

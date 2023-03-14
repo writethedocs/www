@@ -6,7 +6,8 @@ city: Atlantic
 local_area: Atlantic
 area: Atlantic
 area_adj: Atlantic
-tz: CEST & EDT
+tz: UTC
+tz_header: CEST & EDT
 email: atlantic@writethedocs.org
 color: coral
 rgb: 234, 104, 82
@@ -88,7 +89,7 @@ sponsorship:
 date:
   main: "**September 10-12, 2023, online**"
   short: Sep 10-12, 2023
-  tickets_live: "June 2023"
+  tickets_live: "May 2023"
   month: September
   # Conference is special for the index to show the combined conference days
   conference:
@@ -111,23 +112,23 @@ date:
     #summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
     icon: writing
     dotw: Sunday
-    writing_day_time: 10:00-18:00
+    writing_day_time: 12:00-20:00
   day_three:
     event: Conference Day 1
     date: September 11
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Monday
-    talk_time: 10:00-18:00
-    unconference_time: 10:45-18:00
-    social_time: 19:00-21:00
+    talk_time: 12:00-20:00
+    unconference_time: 14:00-20:00
+    social_time: 21:00-23:00
   day_four:
     event: Conference Day 2
     date: September 12
     summary: And the conference goes on! We are already starting to miss you. |:heart:|
     dotw: Tuesday
-    talk_time: 10:00-18:00
-    job_fair_time: 10:00-12:00
-    unconference_time: 15:15-18:00
+    talk_time: 12:00-20:00
+    job_fair_time: 10:00-12:00  # disabled for now
+    unconference_time: 14:00-20:00
   total_talk_days: 2
 
 about:
@@ -190,6 +191,6 @@ flaghashike: False
 flaghasboat: False
 flaghasunconf: True
 flaghaswritingday: True
-flaghasjobfair: True
+flaghasjobfair: False
 flaghasbadgeflair: False
 flagisvirtual: True
