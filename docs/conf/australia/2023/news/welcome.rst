@@ -38,11 +38,6 @@ It also has *outdoor seating* and a *city park* directly on the property for ple
 
 .. _Library at the Dock: https://www.melbourne.vic.gov.au/community/hubs-bookable-spaces/the-dock/library-at-the-dock/Pages/library-at-the-dock.aspx
 
-Health and safety policy
--------------------------
-
-As part of returning to an in-person conference, we're also introducing a new and more detailed :doc:`health and safety policy </conf/{{shortcode}}/{{year}}/health/>`.
-
 Call for Proposals
 ------------------
 
