@@ -10,10 +10,10 @@ G'day and welcome to the official launch of `Write the Docs Australia {{year}} <
 our sixth conference.
 
 We're excited to announce the dates for our next conference:
-**Write the Docs Australia 2023 will be on December 7-8, 2022, in Melbourne**
+**Write the Docs Australia 2023 will be on December 7-8, 2022, in Melbourne**.
 
 Write the Docs Australia will be an in-person conference, similar to our pre-COVID conferences. 
-Speakers will be present in person and speaking from the conference stage. We will also offer a free live stream of the talks, and remote participants are encouraged to participate in our Slack. The unconference will not be streamed.
+Speakers will be present in person and speaking from the conference stage. We will also offer a free livestream of the talks, and remote participants are encouraged to participate in our Slack. The unconference will not be streamed.
 
 The conference will follow all local COVID regulations that apply at the time, and we will announce more specific policies before our tickets go on sale so people can make an informed decision.
 
@@ -31,9 +31,8 @@ It is a beautiful library space located alongside the Yarra river, at the Dockla
 
 Library at The Dock is Australia’s first 6 star Green Star rated public building and we will have access to these spaces:
 
-* The Performance space where we will be hosting our conference talks
-* The Community Room which will host the unconference sessions, and where our snacks and drinks catering will happen
-
+* The Performance space where we will be hosting our conference talks.
+* The Community Room which will host the unconference sessions, and where our snacks and drinks catering will happen.
 It also has *outdoor seating* and a *park* directly on the property for plenty of fresh air and free space.
 
 .. _Library at the Dock: https://www.melbourne.vic.gov.au/community/hubs-bookable-spaces/the-dock/library-at-the-dock/Pages/library-at-the-dock.aspx
