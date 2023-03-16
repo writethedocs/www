@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Mar 21, 2023
+.. post:: Mar 1, 2023
    :tags: {{shortcode}}-{{year}}, cfp
 
 Announcing Call for Proposals
