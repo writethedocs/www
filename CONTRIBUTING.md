@@ -53,4 +53,4 @@ We follow the fork > clone > branch > add > commit > push > pull request format.
 
 ## TLDR;
 
-As a contributor, we have a few guidelines we'd like you to follow after reading our [code of conduct](https://www.writethedocs.org/code-of-conduct/). Follow them to [create an issue](https://github.com/writethedocs/www/issues) or [create a pull request](https://github.com/Preshh0/www/pulls) while using our [style guide](https://www.writethedocs.org/style-guide/). Then, ping [@plaindocs](https://github.com/plaindocs) or [@mxsasha](https://github.com/mxsasha) for a review. 
+As a contributor, we have a few guidelines we'd like you to follow after reading our [code of conduct](https://www.writethedocs.org/code-of-conduct/). Follow them to [create an issue](https://github.com/writethedocs/www/issues) or [create a pull request](https://github.com/writethedocs/www/pulls) while using our [style guide](https://www.writethedocs.org/style-guide/). Then, ping [@plaindocs](https://github.com/plaindocs) or [@mxsasha](https://github.com/mxsasha) for a review. 
