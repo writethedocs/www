@@ -120,8 +120,6 @@ and make sure you know your way around the conference venue.
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
-Talks are around 30 minutes, with _moderated on-stage Q&A_. 
-
 * **Where**: {{about.venue}}
 {% if not flaghasschedule %}
 * **When**: **{{ date.day_three.talk_time }} {{ tz }}**
@@ -186,8 +184,6 @@ but expect a relaxed atmosphere where you can chat and network with your fellow 
 
 Conference Talks
 ~~~~~~~~~~~~~~~~
-
-Talks are around 30 minutes, with _moderated on-stage Q&A_. 
 
 * **Where**: {{about.venue}}
 {% if not flaghasschedule %}
