@@ -41,6 +41,7 @@ Design and information architecture
 * `Information Development: Managing Your Documentation Projects, Portfolio, and People <https://www.goodreads.com/book/show/884914.Information_Development>`_, by JoAnn T. Hackos
 * `Strategic Writing for UX <https://www.oreilly.com/library/view/strategic-writing-for/9781492049388/>`_, by Torrey Podmojersky - **Read in our book club**
 * `Think Like a UX Researcher <https://www.routledge.com/Think-like-a-UX-Researcher-How-to-Observe-Users-Influence-Design-and/Travis-Hodgson/p/book/9781138365292>`_, by David Travis and Philip Hodgson
+* `Web Style Guide, 4th Ed.: Foundations of User Experience Design <https://webstyleguide.com/index.html>`_, by Patrick J. Lynch, Sarah Horton, and Ethan Marcotte
 
 The craft of writing
 ----------------------

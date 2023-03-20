@@ -69,6 +69,7 @@ Classics for software documentation include:
 - [18F Content Guide](https://content-guide.18f.gov)
 - [Writing for gov.uk](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
 - [Princeton Editorial Style Guide](https://communications.princeton.edu/guides-tools/princeton-editorial-style-guide)
+- [Federal Plain Language Style Guide](https://www.plainlanguage.gov/guidelines/)
 
 
 ### Style guides from open source projects
