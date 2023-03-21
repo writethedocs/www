@@ -27,11 +27,11 @@ We're reviving the traditional Pittock Mansion `hike <https://www.writethedocs.o
 Start thinking about Writing Day
 --------------------------------
 
-Our pre-conference `Writing Day <https://www.writethedocs.org/conf/portland/{{year}}/writing-day/>`_ will happen on Sunday, and it is much more fun when folks come with projects in mind!
+Our pre-conference `Writing Day <https://www.writethedocs.org/conf/portland/{{year}}/writing-day/>`_ is happening on Sunday. It is much more fun when folks come with projects in mind!
 
 If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.
-If you'd like us to include your project on the Writing Day page, drop us an email at `portland@writethedocs.org <mailto:portland@writethedocs.org>`_.
-Or just show up on Sunday ready to introduce your project!
+
+If you'd like us to include your project on the Writing Day page `submit your project here<https://forms.gle/NNBzBCwjdB2vF7ZeA>`_ or drop us an email at `portland@writethedocs.org <mailto:portland@writethedocs.org>`_. You are also welcome to show up on Sunday ready to introduce your project!
 
 
 Shirts on sale
