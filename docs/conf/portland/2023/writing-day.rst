@@ -23,7 +23,7 @@ Submit Your Project
 -------------------
 
 We encourage attendees to `submit projects <https://forms.gle/NNBzBCwjdB2vF7ZeA>` 
-for Wrting Day in advance. You are more than welcome to bring a project,
+for Writing Day in advance. You are more than welcome to bring a project,
 and announce it during the actual Writing Day.
 
 Project Listing
