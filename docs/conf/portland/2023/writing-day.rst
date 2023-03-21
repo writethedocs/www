@@ -19,12 +19,17 @@ During the conference
 
 Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet` for a quick reference that you can use during the conference to make the most out of Writing Day. 
 
+Submit Your Project 
+-------------------
+
+We encourage attendees to `submit projects <https://forms.gle/NNBzBCwjdB2vF7ZeA>` 
+for Wrting Day in advance. You are more than welcome to bring a project,
+and announce it during the actual Writing Day.
+
 Project Listing
 ---------------
 
-Below we list some of the projects that you can work on during Writing Day.
-You can also just bring a project,
-and announce it during the actual Writing Day.
+Here are some of the projects that you can work on during Writing Day!
 
 Doc Detective
 ~~~~~~~~~~~~~
