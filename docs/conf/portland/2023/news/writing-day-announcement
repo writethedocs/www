@@ -1,0 +1,33 @@
+:template: {{year}}/generic.html
+
+.. post:: Mar 21, 2023
+   :tags: {{year}}, portland-{{year}}, schedule
+   
+Writing Day update!
+===================
+   
+Hey folks,
+
+`Writing Day <https://www.writethedocs.org/conf/portland/{{year}}/writing-day/>`_ holds a special place in our heart and community.
+We must confess, we have not always been the best at promoting it. In the past we have focused on the opportunities that Writing Day 
+creates for our attendees. We realized that our previous method falls short, especially when it comes to reminding our friends in 
+open source about the benefits of bringing their projects to Writing Day!
+
+What better way to show you, our open source friends, our appreciation and love than listing the reasons why Writing Day is worth it!
+
+Why bring your project to Writing Day?
+--------------------------------------
+
+Writing Day is an opportunity for you to show off your open source project. 
+Bringing your open source project to Writing Day gives you the chance to:
+
+1. Promote
+2. Recruit
+3. Improve
+
+Free advertisement and the chance to onboard tech writers and potential new users, what's not to love? You get to promote your project
+to a new and enthusiastic audience who wants to contribute.
+
+The truth is that it benefits your open source projects and your communities just as much as our attendees.
+This empowers all of us to work together to create opportunities for each other and bigger, better communities.
+
