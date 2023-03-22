@@ -22,7 +22,7 @@ Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet` for a q
 Submit Your Project 
 -------------------
 
-We encourage attendees to `submit projects <https://forms.gle/NNBzBCwjdB2vF7ZeA>` 
+We encourage attendees to `submit projects <https://forms.gle/NNBzBCwjdB2vF7ZeA>`_ 
 for Writing Day in advance. You are more than welcome to bring a project,
 and announce it during the actual Writing Day.
 
