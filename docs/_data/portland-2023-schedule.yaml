@@ -1,6 +1,6 @@
 writing_day:
   - time: '8:00'
-    title: 'Platform opens'
+    title: 'Doors open'
   - time: '9:00'
     title: Morning introduction - Introduction to Sprints & Project Introductions
   - time: '9:30'
@@ -16,7 +16,7 @@ writing_day:
 
 talks_day1:
   - time: '8:00'
-    title: Platform opens
+    title: Doors open
   - time: '8:15'
     title: Welcome Wagon conference introduction and platform tour
   - time: '9:00'
@@ -79,7 +79,7 @@ talks_day1:
 
 talks_day2:
   - time: '8:00'
-    title: Platform opens
+    title: Doors open
     duration: '1:00'
   - duration: '0:00'
     title: "<b>Job Fair Starts</b>"

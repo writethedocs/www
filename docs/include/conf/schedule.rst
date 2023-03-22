@@ -57,7 +57,7 @@ The Writing Day will be held at **{{about.venue}}**.
 
 {% if flaghasfood %}
 
-*Snacks and drinks will be provided all day.* 
+*Snacks and drinks will be provided throughout the day.*
 
 {% endif %}
 
@@ -113,7 +113,7 @@ and make sure you know your way around the conference venue.
 
 {% if flaghasfood %}
 
-*Snacks and drinks will be provided all day.*
+*Snacks and drinks will be provided throughout the day.*
 
 {% endif %}
 
@@ -126,7 +126,7 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes, with *moderated on-stage Q&A*. 
+Talks are around 30 minutes, with *moderated on-stage 10 minute Q&A*.
 
 .. separator to fix list formatting
 
@@ -178,7 +178,7 @@ but expect a relaxed atmosphere where you can chat and network with your fellow 
 
 {% if flaghasfood %}
 
-*Snacks and drinks will be provided all day.*
+*Snacks and drinks will be provided throughout the day.*
 
 {% endif %}
 
@@ -191,7 +191,7 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes, with *moderated on-stage Q&A*. 
+Talks are around 30 minutes, with *moderated on-stage 10 minute Q&A*.
 
 .. separator to fix list formatting
 
