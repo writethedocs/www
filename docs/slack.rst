@@ -118,6 +118,7 @@ Default channels
 
 Everyone who joins the Slack will be added to these channels:
 
+* **announcements** - Where organizers post housekeeping and community-wide announcements.
 * **#general** - The main channel for documentation related conversation and questions.
 * **#watercooler** - For talking about things that are off-topic. Get to know folks other interests that aren't around documentation :)
 * **#jobs-posts-only** - Posting jobs. (You can look for jobs in **#career-advice**)
@@ -129,6 +130,7 @@ Other useful topical channels
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **#career-advice** - Should you take that job? Am I being paid enough? Ask here!
+* **#learn-tech-writing** - Are you considering a job in documentation, or want to tune up your skills? Chat with experts and other learners here, and consider reading a tech writing-related book with the WTD book club!
 * **#markup-the-docs** - Talk about markup languages. Markdown, rST, Asciidoc, etc.
 * **#documenting-apis** - Talk about REST API's. Swagger, Apiary, API Blueprint, and other API doc tools.
 * **#sphinx** - Talk about the Sphinx documentation generation tool.
@@ -208,13 +210,13 @@ Online community issues
 There is a specific set of behaviors that is prevalent in online communities that we'd like to address, to make sure our community doesn't fall into these traps. 
 Please avoid these behaviors:
 
-- **No Black Sheep**. - There may be organizations, job functions, and tools that you don't like.
+- **No black sheep**. - There may be organizations, job functions, and tools that you don't like.
   There is a good chance there is someone in the room who is closely connected to that thing you don't like.
   Don't make them feel bad; they are likely just in a different context.
-- **Let Me Google That For You (LMGTFY)** - If people ask questions that are simple to answer on Google, still answer them nicely.
-- **Question Policing** - Some people might ask incomplete questions that are hard to answer.
+- **Let me Google that for you (LMGTFY)** - If people ask questions that are simple to answer on Google, still answer them nicely.
+- **Question policing** - Some people might ask incomplete questions that are hard to answer.
   Ask follow up questions and act in good faith to help them solve their issues.
-- **Technology Competitions** - It doesn't matter if your tool is faster or better in some metric.
+- **Technology competitions** - It doesn't matter if your tool is faster or better in some metric.
   We care about creating great documentation for our users.
 
 Posting rules
@@ -265,25 +267,29 @@ In addition to the guidance that applies to all participants, we expect self-pro
   The Write the Docs Slack is informal and conversational; high-pressure sales aren't welcome.
   If people aren't interested in what you're offering, don't take it as a license to become louder and more aggressive.
   If you're asked to stop, then stop.
+- **Treat the community like friends, not customers.**
+  Some posts can come off as infomercials, and those are harder for the community to engage with and for the moderation team to distinguish from spam.
+  If you post about things that aren't relevant to the documentation field or the channel you're posting in, moderators might delete your messages.
+  We want to give you the chance to talk about work you're excited about, but also want to make sure conversations stay relevant and not sales-focused.
 
 Here are some channels specifically for wholesome self-promotion:
 
-- ``#job-posts-only`` is the best place to post paid jobs.
-- ``#freelance`` is the best place to post freelance projects.
-- ``#community-events`` (formerly known as `#calls-for-papers`) is a good place to announce non-Write the Docs events.
-- ``#community-help-wanted`` is a good place to share surveys, calls for research interview subjects, and calls for participation on open-source projects.
-- ``#community-showcase`` is a space for responsible self-promotion.
+- **#job-posts-only** is the best place to post paid jobs.
+- **#freelance** is the best place to post freelance projects.
+- **#community-events** (formerly known as `#calls-for-papers`) is a good place to announce non-Write the Docs events.
+- **#community-help-wanted** is a good place to share surveys, calls for research interview subjects, and calls for participation on open-source projects.
+- **#community-showcase** is a space for responsible self-promotion.
 
 Reporting Issues
 ~~~~~~~~~~~~~~~~
 
 If you see a message in a public channel that looks like spam, you can react to it with the ``:spam:`` reactji to bring the moderators' attention to it.
-Note that this is a public action, so only take it if you're okay with the user seeing you have done this. 
+Note that this is a public action, so only take it if you're okay with the poster seeing you have done this. 
 
 If you see people not following the behavior guidelines you can:
 
 - Ask the participant to change their behavior by referring to this guide and explaining why what they said might have been hurtful.
-- Ask the :ref:`moderation team <moderation-team>` (in the ``#meta`` channel or by DM) to address the situation.
+- Ask the :ref:`moderation team <moderation-team>` (in the **#meta** channel or by DM) to address the situation.
   Include a link or screenshot of the conversation, if possible.
 
 .. _moderation-action:
