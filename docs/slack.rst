@@ -208,17 +208,18 @@ Online community issues
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 There is a specific set of behaviors that is prevalent in online communities that we'd like to address, to make sure our community doesn't fall into these traps. 
-Please avoid these behaviors:
+Please be mindful with the following behaviors:
 
 - **No black sheep.**
   There may be organizations, job functions, and tools that you don't like.
   There is a good chance there is someone in the room who is closely connected to that thing you don't like.
   Don't make them feel bad; they are likely just in a different context.
-- **Let me Google that for you (LMGTFY).**
+- **Don't criticize questions.**
+  Some people might ask incomplete questions that are hard to answer.
   If people ask questions that are simple to answer on Google, still answer them nicely.
-- **Question policing** - Some people might ask incomplete questions that are hard to answer.
   Ask follow up questions and act in good faith to help them solve their issues.
-- **Technology competitions** - It doesn't matter if your tool is faster or better in some metric.
+- **Avoid technology competitions.**
+  It doesn't matter if your tool is faster or better in some metric.
   We care about creating great documentation for our users.
 
 Posting rules
