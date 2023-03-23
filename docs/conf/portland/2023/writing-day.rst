@@ -22,7 +22,7 @@ Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet` for a q
 Submit Your Project 
 -------------------
 
-We encourage attendees to `submit projects <https://forms.gle/NNBzBCwjdB2vF7ZeA>` 
+We encourage attendees to `submit projects <https://forms.gle/NNBzBCwjdB2vF7ZeA>`_ 
 for Writing Day in advance. You are more than welcome to bring a project,
 and announce it during the actual Writing Day.
 
@@ -65,6 +65,17 @@ anyone can contribute it:
 Stop by to chat and build some tests for your docs. If you have
 any questions, you can reach out to us in person or on
 `Discord <https://discord.gg/tTmczpE4Yd>`__.
+
+Read the Docs
+~~~~~~~~~~~~~
+
+Read the Docs is an open source hosting tool, mostly focused on Docs as Code.
+This sprint will give you a few options:
+
+* Contribute to their `public documentation <https://docs.readthedocs.io/en/stable/>`_ which is on GitHub
+* Try building your Docs as Code documentation `on their platform <https://docs.readthedocs.io/en/stable/build-customization.html#build-commands-examples>`_
+
+The documentation is written in Sphinx & reStructuredText, but you can try out your own project using any framework, as long as it's open source.
 
 Your Project Here
 ~~~~~~~~~~~~~~~~~
