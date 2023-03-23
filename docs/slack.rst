@@ -210,7 +210,8 @@ Online community issues
 There is a specific set of behaviors that is prevalent in online communities that we'd like to address, to make sure our community doesn't fall into these traps. 
 Please avoid these behaviors:
 
-- **No black sheep**. - There may be organizations, job functions, and tools that you don't like.
+- **No black sheep.**
+  There may be organizations, job functions, and tools that you don't like.
   There is a good chance there is someone in the room who is closely connected to that thing you don't like.
   Don't make them feel bad; they are likely just in a different context.
 - **Let me Google that for you (LMGTFY)** - If people ask questions that are simple to answer on Google, still answer them nicely.
