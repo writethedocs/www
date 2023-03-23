@@ -214,7 +214,8 @@ Please avoid these behaviors:
   There may be organizations, job functions, and tools that you don't like.
   There is a good chance there is someone in the room who is closely connected to that thing you don't like.
   Don't make them feel bad; they are likely just in a different context.
-- **Let me Google that for you (LMGTFY)** - If people ask questions that are simple to answer on Google, still answer them nicely.
+- **Let me Google that for you (LMGTFY).**
+  If people ask questions that are simple to answer on Google, still answer them nicely.
 - **Question policing** - Some people might ask incomplete questions that are hard to answer.
   Ask follow up questions and act in good faith to help them solve their issues.
 - **Technology competitions** - It doesn't matter if your tool is faster or better in some metric.
