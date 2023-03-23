@@ -272,7 +272,7 @@ In addition to the guidance that applies to all participants, we expect self-pro
 - **Treat the community like friends, not customers.**
   Posts that resemble infomercials are harder for the community to engage with and for the moderation team to distinguish from spam.
   If you post about things that aren't relevant to the documentation field or the channel you're posting in, moderators might delete your messages.
-  We want to give you the chance to talk about work you're excited about, but also want to make sure conversations stay relevant and not sales-focused.
+  Make sure conversations stay relevant and not sales-focused, so you can have the chance to talk about work you're excited about.
 
 Here are some channels specifically for wholesome self-promotion:
 
