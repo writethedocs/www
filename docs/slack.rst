@@ -270,7 +270,7 @@ In addition to the guidance that applies to all participants, we expect self-pro
   If people aren't interested in what you're offering, don't take it as a license to become louder and more aggressive.
   If you're asked to stop, then stop.
 - **Treat the community like friends, not customers.**
-  Some posts can come off as infomercials, and those are harder for the community to engage with and for the moderation team to distinguish from spam.
+  Posts that resemble infomercials are harder for the community to engage with and for the moderation team to distinguish from spam.
   If you post about things that aren't relevant to the documentation field or the channel you're posting in, moderators might delete your messages.
   We want to give you the chance to talk about work you're excited about, but also want to make sure conversations stay relevant and not sales-focused.
 
