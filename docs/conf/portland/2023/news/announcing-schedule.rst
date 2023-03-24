@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 
-.. post:: Mar 21, 2023
-   :tags: {{year}}, portland-{{year}}, schedule
+.. post:: Mar 27, 2023
+   :tags: {{year}}, {{shortcode}}-{{year}}, schedule
 
 Announcing Full Schedule
 ========================
@@ -10,8 +10,7 @@ Hey folks!
 
 The {{city}} conference is less than two months away, and we're busy making things happen behind the scenes, and remembering how in-person conferences work again.
 
-You've already seen our list of awesome speakers, now we can also show you the schedule so you know when they will be presenting! 
-
+You've already seen our list of awesome speakers, now we can also show you the schedule so you know when they will be presenting!
 
 Full presentation schedule
 --------------------------
@@ -62,15 +61,18 @@ This is where we will also update any changes/cancellations if they should occur
 Thanks to our sponsors
 ----------------------
 
-Thanks in particular to our sponsors for supporting the conference this year.
-We've excited to have them at our Job Fair and around the entire conference participating in a few different ways.
+Thanks to our sponsors for supporting the conference again this year.
+We've excited to have them around the conference participating in a few different ways,
+and hope you get a chance to talk with them while you're here.
 
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-config.yaml
    :template: {{year}}/sponsors-simplelist.rst
 
 Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/portland/{{year}}/sponsors/prospectus/>`_ for details on how your company can get involved!
-We have several types of sponsorship available.
+
+See you soon
+------------
 
 Thanks so much for all your support and enthusiasm! We're so excited to see you all soon!
 
