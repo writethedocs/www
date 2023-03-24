@@ -86,6 +86,8 @@ Further details will be announced later.
 Writing Day
 ~~~~~~~~~~~
 
+Get together with other documentarians and work on an open source project and learn some new skills.
+
 * **Where**: {{about.unconfroom}}
 {% if not flaghasschedule %}
 * **When**: **{{ date.day_two.writing_day_time }} {{ tz }}**
