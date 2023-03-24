@@ -86,11 +86,21 @@ Further details will be announced later.
 Writing Day
 ~~~~~~~~~~~
 
-* **Where**: **{{about.unconfroom}}**.
+* **Where**: {{about.unconfroom}}
 {% if not flaghasschedule %}
 * **When**: **{{ date.day_two.writing_day_time }} {{ tz }}**
 {% endif %}
 * **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
+
+Welcome Wagon Introduction
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Is this your first time at Write the Docs?
+Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees.
+We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new.
+
+* **Where**: {{about.unconfroom}}
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/welcome-wagon`
 
 {% if flaghasfood %}
 
