@@ -19,14 +19,21 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
 {{date.day_one.dotw}}, {{date.day_one.date}}
 --------------------------------------------------
 
-{% endif %}
+.. raw:: html
 
-{% if flaghashike %}
+   {{ date.day_one.summary }}
+
+{% if flaghasschedule %}
+
+{% with day_schedule=schedule.hike %}
+{% include "include/schedule2021.rst" %}
+{% endwith %}
+
+{% endif %}
 
 Hike
 ~~~~
 
-The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/outing>`.
 If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
 
 * **Where**: Lower Macleay Park or Macleay Park Entrance.
@@ -49,30 +56,20 @@ Further details will be announced later.
 
 {% endif %}
 
+.. raw:: html
+
+   <hr>
 
 {{date.day_two.dotw}}, {{date.day_two.date}}
 -----------------------------------------
 
-The Writing Day will be held at **{{about.venue}}**.
+.. raw:: html
+
+   {{ date.day_two.summary }}
 
 {% if flaghasfood %}
-
 *Snacks and drinks will be provided throughout the day.*
-
 {% endif %}
-
-.. _{{shortcode}}-{{year}}-writing-day:
-
-Writing Day
-~~~~~~~~~~~
-
-* **Where**: {{about.venue}}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_two.writing_day_time }} {{ tz }}**
-{% endif %}
-* **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
-
-.. separator to fix list formatting
 
 {% if flaghasschedule %}
 
@@ -83,6 +80,17 @@ Writing Day
 {% else %}
   A detailed schedule will be announced soon.
 {% endif %}
+
+.. _{{shortcode}}-{{year}}-writing-day:
+
+Writing Day
+~~~~~~~~~~~
+
+* **Where**: **{{about.unconfroom}}**.
+{% if not flaghasschedule %}
+* **When**: **{{ date.day_two.writing_day_time }} {{ tz }}**
+{% endif %}
+* **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
 
 {% if flaghasfood %}
 
@@ -100,35 +108,20 @@ and make sure you know your way around the conference venue.
 
 {% endif %}
 
-
 .. raw:: html
 
    <hr>
 
-
 {{date.day_three.dotw}}, {{date.day_three.date}}
 -----------------------------------------
 
-{{ date.day_three.summary }}
+.. raw:: html
+
+   {{ date.day_three.summary }}
 
 {% if flaghasfood %}
-
 *Snacks and drinks will be provided throughout the day.*
-
 {% endif %}
-
-Conference Talks
-~~~~~~~~~~~~~~~~
-
-* **Where**: {{about.venue}}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_three.talk_time }} {{ tz }}**
-{% endif %}
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
-
-Talks are around 30 minutes, with *moderated on-stage 10 minute Q&A*.
-
-.. separator to fix list formatting
 
 {% if flaghasschedule %}
 
@@ -139,6 +132,17 @@ Talks are around 30 minutes, with *moderated on-stage 10 minute Q&A*.
 {% else %}
     A detailed schedule will be announced soon.
 {% endif %}
+
+Conference Talks
+~~~~~~~~~~~~~~~~
+
+Talks are around 30 minutes, with moderated on-stage 10 minute Q&A.
+
+* **Where**: {{about.venue}}
+{% if not flaghasschedule %}
+* **When**: **{{ date.day_three.talk_time }} {{ tz }}**
+{% endif %}
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 Unconference
 ~~~~~~~~~~~~
@@ -151,8 +155,6 @@ with each session happening during a corresponding talk on the main stage.
 * **When**: **{{ date.day_three.unconference_time }} {{ tz }}**
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
-
-.. _{{shortcode}}-{{year}}-social-event:
 
 {% if about.social_venue %}
 
@@ -177,26 +179,13 @@ but expect a relaxed atmosphere where you can chat and network with your fellow 
 {{date.day_four.dotw}}, {{date.day_four.date}}
 -----------------------------------------
 
-{{ date.day_four.summary }}
+.. raw:: html
+
+   {{ date.day_four.summary }}
 
 {% if flaghasfood %}
-
 *Snacks and drinks will be provided throughout the day.*
-
 {% endif %}
-
-Conference Talks
-~~~~~~~~~~~~~~~~
-
-* **Where**: {{about.venue}}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_four.talk_time }} {{ tz }}**
-{% endif %}
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
-
-Talks are around 30 minutes, with *moderated on-stage 10 minute Q&A*.
-
-.. separator to fix list formatting
 
 {% if flaghasschedule %}
 
@@ -208,15 +197,22 @@ Talks are around 30 minutes, with *moderated on-stage 10 minute Q&A*.
   A detailed schedule will be announced soon.
 {% endif %}
 
-{% if flaghasjobfair %}
+Conference Talks
+~~~~~~~~~~~~~~~~
 
-.. _{{shortcode}}-{{year}}-job-fair:
+Talks are around 30 minutes, with moderated on-stage 10 minute Q&A.
+
+* **Where**: {{about.venue}}
+{% if not flaghasschedule %}
+* **When**: **{{ date.day_four.talk_time }} {{ tz }}**
+{% endif %}
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
+{% if flaghasjobfair %}
 
 Job Fair
 ~~~~~~~~
 
-We'll be holding a job fair on Tuesday morning.
-This is a great chance to talk with some of our sponsors who are hiring,
+The Job Fair is a great chance to talk with some of our sponsors who are hiring,
 and get a sense of the job market.
 
 * **Where**: {{about.venue}}, {{about.job_fair_room }}
@@ -238,11 +234,3 @@ with each session happening during a corresponding talk on the main stage.
 * **When**: **{{ date.day_four.unconference_time }} {{ tz }}**
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
-
-Conference Closing
-~~~~~~~~~~~~~~~~~~
-
-We all say goodbye 👋
-
-We wrap up the conference a bit early on the last day,
-to allow time for any onward travel you may have.

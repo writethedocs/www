@@ -109,7 +109,7 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
                         (schedule_item.get('slug', schedule_item.get('title')), page)
                     )
                 schedule_item['time'] = item_start.strftime(TIME_FORMATS[data['time_format']])
-                if not next_item_default_start:  # first schedule item of the day
+                if not next_item_default_start and not data.get('flaghasfood'):  # first schedule item of the day
                     schedule_item['time'] += ' ' + data['tz']
                 next_item_default_start = item_start + duration
 

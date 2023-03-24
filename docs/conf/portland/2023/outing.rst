@@ -26,9 +26,9 @@ Logistics
 **Please register for your ticket so we can contact you in advance for day-of weather and logistics information**
 
 - Tickets: `Register your hike ticket <https://ti.to/writethedocs/write-the-docs-portland-2023/with/hike-ticket>`_
-- Date & Time: Leaves promptly at **{{ hike.date }} {{ tz }}**.
+- Date & Time: Leaves promptly at **{{ hike.date }}**.
 - Start: **Lower Macleay Park** (`Map link <https://goo.gl/maps/bU7MAMsKCJAbG3zFA>`__). There is a pavilion at the park entrance where we will gather.
-- End: **Oregon Zoo** -- There is a MAX stop here to take us back downtown.
+- End: **Oregon Zoo** around 4-5pm -- There is a MAX stop here to take us back downtown.
 - `Visual of the hike <https://maps.google.com/maps?saddr=MacLeay+Park+Entrance,+NW+Upshur+St,+Portland,+OR&daddr=45.527373,-122.718589+to:45.5225885,-122.717297+to:oregon+zoo&hl=en&ll=45.52448,-122.717757&spn=0.023933,0.032358&sll=45.522345,-122.712822&sspn=0.023934,0.032358&geocode=FYLStgIdMI6v-CGojI77DIHw4SnVqz2N6QmVVDGojI77DIHw4Q%3BFU2xtgIdg3av-CmRNoxzkQmVVDFxAN8jMh2eKQ%3BFZyetgIdj3uv-CnD2fb_jgmVVDHuWX9DnHsevQ%3BFZpttgIdAoGv-CEm_N2esCDn5ykFuFa4LgqVVDEm_N2esCDn5w&oq=macleay+park&gl=us&dirflg=w&mra=dpe&mrsp=2&sz=15&via=1,2&t=m&z=15>`__
 
 We will be hiking in the amazing `Forest Park <http://www.forestparkconservancy.org/>`__, the largest urban forested park in the country.
