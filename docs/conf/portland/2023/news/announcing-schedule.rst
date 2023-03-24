@@ -20,7 +20,7 @@ The conference website is now updated with the :doc:`schedule </conf/portland/{{
 We're learning and adapting from our virtual events from the past few years, so we're introducing a moderated Q&A session after each speaker. You'll have a chance to ask most of our speakers questions after the talk via our wonderful set of moderators.
 
 Now is a great time to buy your `tickets <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_ if you haven't already.
-Also please read over our `Health and Safety policy https://www.writethedocs.org/conf/portland/2023/health/`__,
+Also please read over our `Health and Safety policy <https://www.writethedocs.org/conf/portland/2023/health/>`__,
 so you understand the measures we're taking to keep our attendees safe.
 
 Join us for our hike again this year
