@@ -20,13 +20,38 @@ Samuel Wright
 
 {% include "bios/sam.rst" %}
 
+Mo Nishiyama
+~~~~~~~~~~~~
+
+{% include "bios/mo.rst" %}
+
+Alicia Duncan
+~~~~~~~~~~~~~
+
+{% include "bios/alicia.rst" %}
+
+Christy Lutz
+~~~~~~~~~~~~
+
+{% include "bios/christy.rst" %}
+
+Rose Williams
+~~~~~~~~~~~~~
+
+{% include "bios/rose.rst" %}
+
+Swapnil Ogale
+~~~~~~~~~~~~~~
+
+{% include "bios/swapnil.rst" %}
+
 Sasha Romijn
 ~~~~~~~~~~~~
 
 {% include "bios/sasha.rst" %}
 
 Mikey Ariel
-~~~~~~~~~~~
+~~~~~~~~~~~~~
 
 {% include "bios/mikey.rst" %}
 
@@ -34,18 +59,21 @@ Primary Roles
 -------------
 
 * **Conference chair** - Eric Holscher
-* **Code of conduct response** - See `code of conduct </code-of-conduct/#reporting-and-contact-information>`_ page
-* **Speaker coordinator** - Samuel Wright
-* **Unconference coordinator** - TBD
-* **Lightning Talk coordinator** - TBD
-* **Infrastructure coordinator** - Sasha Romijn
-* **Swag coordinator** - Mikey Ariel
-* **Communication coordinator** - TBD
-* **Job Fair coordinator** - TBD
-* **Welcome Wagon coordinators** - TBD
+* **Emcee** - Janine Chan & Swapnil Ogale
+* **Stage manager** - Samuel Wright
+* **Event manager** - Katie Janovec
+* **Unconference coordinator** - Ingrid Towey
+* **Lightning Talk coordinator** - Rose Williams
+* **Writing Day coordinator** - Rose Williams
+* **Welcome Wagon coordinators** - Christy Lutz, Alicia Lewis, Mo Nishiyama, David Bastedo
+* **Social media coordinator** - Mo Nishiyama
+* **Volunteer coordinator** - Katie Janovec
 * **Sponsorship coordinator** - Eric Holscher
-* **Writing Day coordinator** - TBD
-* **Emcee** - TBD
-* **Social media coordinator** - TBD
+* **Job Fair coordinator** - Eric Holscher
+* **Infrastructure coordinator** - Sasha Romijn
+* **Opportunity Grant coordinator** - Sasha Romijn
+* **Swag coordinator** - Katie Janovec & Mikey Ariel
+* **Registration coordinator** - Katie Janovec
+* **Code of conduct response** - See `code of conduct </code-of-conduct/#reporting-and-contact-information>`_ page
 
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
