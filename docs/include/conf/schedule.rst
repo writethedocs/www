@@ -25,7 +25,7 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.hike %}
+{% with day_schedule=schedule.outing %}
 {% include "include/schedule2021.rst" %}
 {% endwith %}
 

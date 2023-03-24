@@ -1,4 +1,5 @@
 # Note that this only covers 2020 and newer schedules
+outing: include('day-details', required=False)
 writing_day: include('day-details', required=False)
 talks_day1: include('day-details')
 talks_day2: include('day-details', required=False)
