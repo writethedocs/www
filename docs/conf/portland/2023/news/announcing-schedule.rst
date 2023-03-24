@@ -26,12 +26,12 @@ Join us for our hike again this year
 
 We're reviving the traditional Pittock Mansion `hike <https://www.writethedocs.org/conf/portland/{{year}}/outing/>`_ on Saturday. This is a great way to experience the beauty that Portland holds within city limits, with a walk along a creek, a majestic view of Mount Hood, and finishing with a meader through Hoyt Arboritum with hundreds of different trees and plants. 
 
-The hike will be on  **{{ hike.date }} **. Please register a `free ticket <https://ti.to/writethedocs/write-the-docs-portland-2023/with/hike-ticket>`_ so we can contact you with any last minute weather and logistics information.
+The hike will be on  **{{ hike.date }}**. Please register a `free ticket <https://ti.to/writethedocs/write-the-docs-portland-2023/with/hike-ticket>`_ so we can contact you with any last minute weather and logistics information.
 
 Start thinking about Writing Day
 --------------------------------
 
-Our pre-conference `Writing Day <https://www.writethedocs.org/conf/portland/{{year}}/writing-day/>`_ is happening on Sunday. It's a great chance to learn from other attendees, and get some contributors on a project you have in mind. There is also room for having discussions and showing off fun new tools you've found to folks.
+Our pre-conference `Writing Day <https://www.writethedocs.org/conf/portland/{{year}}/writing-day/>`_ is happening on Sunday. It's a great chance to learn from other attendees, and get some contributors on a project you have in mind. There is also room for having discussions and showing off fun new tools you've found.
 
 If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.
 
