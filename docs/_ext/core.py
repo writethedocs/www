@@ -186,8 +186,7 @@ def render_rst_with_jinja(app, docname, source):
     except TemplateError as exc:
         message = exc.message + f' - while rendering {docname}'
         raise TemplateError(message=message)
-
-
+    
 def override_template_load_context(app, pagename, templatename, context, doctree):
     """
     Set the template to use when rendering the page.
@@ -205,12 +204,6 @@ def override_template_load_context(app, pagename, templatename, context, doctree
     """
     page_context = load_conference_page_context(app, pagename)
     context.update(page_context)
-
-    if 'year' in context:
-        # Hack title w/ opengraph
-        context['meta']['og:title'] = f"context['title'] - Write the Docs context['name'] context['year']"
-        context['meta']['og:site_name'] = f"Write the Docs context['name'] context['year']"
-
 
     # Markdown
     if (context and
