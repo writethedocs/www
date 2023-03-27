@@ -11,7 +11,7 @@ Schedule
 - Date & Time: **{{ date.day_four.date }}, {{ date.day_four.job_fair_time }} {{tz}}**.
 - Location: **{{about.unconfroom}}**.
 
-Full schedule information is available on our :ref:`{{shortcode}}-{{year}}-job-fair` page.
+Full schedule information is available on our :doc:`/conf/{{shortcode}}/{{year}}/schedule`  page.
 
 Useful tips
 -----------

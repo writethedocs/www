@@ -109,7 +109,7 @@ date: # how do we handle these? human readable would be nice.
   conference:
     event: Main Conference
     date: May 8-9
-    summary: The main days of the conference. We will be running one main track, as well as a <a href="/conf/portland/2023/job-fair/">Job Fair</a>, <a href="/conf/portland/2023/lightning-talks/">Lightning Talks</a> & <a href="/conf/portland/2023/unconference/">Unconference</a>.
+    summary: The main days of the conference. We will be running one main track of talks, as well as a <a href="/conf/portland/2023/job-fair/">Job Fair</a>, <a href="/conf/portland/2023/lightning-talks/">Lightning Talks</a> & <a href="/conf/portland/2023/unconference/">Unconference</a>.
     icon: conference
 
   # These are listed in the schedule
@@ -123,7 +123,7 @@ date: # how do we handle these? human readable would be nice.
   day_two:
     event: Writing Day
     date: May 7
-    summary: Join us for the <a href="/conf/portland/2023/writing-day/">Writing Day</a> and work with fellow documentarians on a project.
+    summary: Join us for the <a href="/conf/portland/2023/writing-day/">Writing Day</a> and work with fellow documentarians on a project. Followed by the reception in the evening.
     icon: writing
     dotw: Sunday
     writing_day_time: 9am-5pm
@@ -140,7 +140,7 @@ date: # how do we handle these? human readable would be nice.
   day_four:
     event: Conference Day 2
     date: May 9
-    summary: And the conference goes on! We are already starting to miss you. |:heart:|
+    summary: And the conference goes on! More talks and unconference today, along with our job fair!
     dotw: Tuesday
     talk_time: 9am-4pm
     job_fair_time: 9:45am-12pm
