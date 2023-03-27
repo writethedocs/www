@@ -250,13 +250,13 @@ Self-promotion, surveys, and sales
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You're welcome to share, link to, and mention your own work, including blog posts, social media, events, and paid products or services.
-That said, posts where you stand to benefit from others' money, personal information, or labor come with higher expectations.
+That said, posts where you stand to benefit from others' money, personal information, attention, or labor come with higher expectations.
 When this applies, make sure you follow the general guidelines closely.
 
 In addition to the guidance that applies to all participants, we expect self-promotion on the Write the Docs Slack to follow these additional guidelines:
 
 - **Be transparent.**
-  Clearly explain what you are promoting, why it matters to documentarians, and your involvement.
+  Clearly explain what you are promoting, why it matters to documentarians, and your involvement (current/former employee, contractor, friend of a friend, etc.).
   Be up front about paywalls, registration requirements, referral benefits, or commissions.
   If you're running a survey, say when and how the results will be published.
 - **Give more than you take.**
@@ -275,6 +275,38 @@ In addition to the guidance that applies to all participants, we expect self-pro
   If you post about things that aren't relevant to the documentation field or the channel you're posting in, moderators might delete your messages.
   Make sure conversations stay relevant and not sales-focused, so you can have the chance to talk about work you're excited about.
 
+Common self-promotion situations
+++++++++++++++++++++++++++++++++
+
+Here are some examples of common self-promotion situations and how to self-promote responsibly (and irresponsibly):
+
+- You've written a blog post (Medium, Hashnode, etc.) that you want to share with the community, but it's not closely related to an ongoing discussion.
+
+  **Do** share it in **#community-showcase** and tell us why it is relevant to the practice of writing, creating, maintaining, or building docs.
+
+  **Don't** cross-post that content across multiple channels or use the **#community-showcase** (or any other) channel for link-farming or drive-by engagement only.
+
+- Your employer is hosting an event to promote their product or service (even if it's not the primary purpose of the event).
+
+  **Do** share it in **#community-events** and tell others your connection to the event.
+
+  **Don't** obscure the purpose of the event, your relationship to the employer, or the costs associated to attendance.
+
+- Someone else has asked a question and you're the author of an article, blog, book, or similar resource that answers the question.
+
+  **Do** reply by briefly summarizing your work, noting your authorship, and linking to the resource.
+
+  **Don't** cross-post a reply outside the thread or channel or send the person asking the question a direct message.
+
+- A moderator has raised one or more of your posts as violating the self-promotion guidelines, and provided you with feedback and guidance.
+
+  **Do** read the guidance, review our rules, and modify your posting patterns to respect the Write the Docs community.
+
+  **Don't** use DMs, alt-accounts, clever interpretations of the rules/guidance, or other methods to ignore or get around the moderator feedback.
+
+Suggested channels for self-promotion
++++++++++++++++++++++++++++++++++++++
+
 Here are some channels specifically for wholesome self-promotion:
 
 - **#job-posts-only** is the best place to post paid jobs.
@@ -282,6 +314,8 @@ Here are some channels specifically for wholesome self-promotion:
 - **#community-events** (formerly known as `#calls-for-papers`) is a good place to announce non-Write the Docs events.
 - **#community-help-wanted** is a good place to share surveys, calls for research interview subjects, and calls for participation on open-source projects.
 - **#community-showcase** is a space for responsible self-promotion.
+
+Posts in those channels not meeting the posting rules may result in :ref:`moderation action <moderation-action>`, such as a warning or deletion.
 
 Reporting Issues
 ~~~~~~~~~~~~~~~~
