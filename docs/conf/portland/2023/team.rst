@@ -25,7 +25,7 @@ Mo Nishiyama
 
 {% include "bios/mo.rst" %}
 
-Alicia Duncan
+Alicia Lewis
 ~~~~~~~~~~~~~
 
 {% include "bios/alicia.rst" %}
