@@ -33,7 +33,7 @@ talks_day1:
     title: '<i>Welcome Wagon conference introduction and venue tour</i>'
   - time: '9:00'
     duration: '0:25'
-    title: Write the Docs Team - Conference introduction
+    title: Write the Docs team - Conference introduction
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:00'
@@ -138,7 +138,7 @@ talks_day2:
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:15'
-    title: Write the Docs Team - Conference closing
+    title: Write the Docs team - Conference closing
   - duration: '0:20'
     title: '<b>Main stage talks done</b>'
   - duration: '0:00'

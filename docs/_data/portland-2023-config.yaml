@@ -123,7 +123,7 @@ date: # how do we handle these? human readable would be nice.
   day_two:
     event: Writing Day
     date: May 7
-    summary: Join us for the <a href="/conf/portland/2023/writing-day/">Writing Day</a> and work with fellow documentarians on a project. Followed by the Reception in the evening.
+    summary: Join us for the <a href="/conf/portland/2023/writing-day/">Writing Day</a> and work with fellow documentarians on a project. Followed by the reception in the evening.
     icon: writing
     dotw: Sunday
     writing_day_time: 9am-5pm
