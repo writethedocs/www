@@ -209,7 +209,7 @@ Quick tips
 ----------
 
 * **Arrive early**: The conference venue opens at 8am, so we recommend arriving around this time to get the most interaction with attendees.
-* **Bring swag (especially stickers)**: We recommend bringing a variety of swag to give away. Stickers are by far the most popular item, so that would be our top priority.
+* **Bring swag (especially stickers)**: We recommend bringing a variety of swag to give away. Stickers are by far the most popular item for our attendees.
 * **Engage with folks as both a sponsor and attendee**: This is a great opportunity to meet folks in the community, so we recommend engaging with folks in an official capacity, but also as a regular attendee.
 * **Use QR codes**: QR codes are a great way to get people a website quickly. We recommend using a service like https://www.qr-code-generator.com/ to create these.
 
