@@ -109,7 +109,7 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
                         (schedule_item.get('slug', schedule_item.get('title')), page)
                     )
                 schedule_item['time'] = item_start.strftime(TIME_FORMATS[data['time_format']])
-                if not next_item_default_start:  # first schedule item of the day
+                if not next_item_default_start and not data.get('flaghasfood'):  # first schedule item of the day
                     schedule_item['time'] += ' ' + data['tz']
                 next_item_default_start = item_start + duration
 
@@ -186,8 +186,7 @@ def render_rst_with_jinja(app, docname, source):
     except TemplateError as exc:
         message = exc.message + f' - while rendering {docname}'
         raise TemplateError(message=message)
-
-
+    
 def override_template_load_context(app, pagename, templatename, context, doctree):
     """
     Set the template to use when rendering the page.
@@ -205,12 +204,6 @@ def override_template_load_context(app, pagename, templatename, context, doctree
     """
     page_context = load_conference_page_context(app, pagename)
     context.update(page_context)
-
-    if 'year' in context:
-        # Hack title w/ opengraph
-        context['meta']['og:title'] = f"context['title'] - Write the Docs context['name'] context['year']"
-        context['meta']['og:site_name'] = f"Write the Docs context['name'] context['year']"
-
 
     # Markdown
     if (context and
