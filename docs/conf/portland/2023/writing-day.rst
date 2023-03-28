@@ -12,7 +12,7 @@ Schedule
 - Date & Time: **{{date.day_two.dotw}}, {{date.day_two.date}}, {{date.day_two.writing_day_time}} {{tz}}**.
 - Location: **{{about.unconfroom}}**.
 
-Full schedule information is available on our :ref:`{{shortcode}}-{{year}}-writing-day` page.
+Exact timing information is available on our :doc:`/conf/{{shortcode}}/{{year}}/schedule` page. 
 
 During the conference
 ---------------------

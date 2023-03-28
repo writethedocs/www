@@ -216,11 +216,11 @@ Quick tips
 Sponsorship schedule
 --------------------
 
-* **SUNDAY**: The conference venue is open. You are welcome to attend the Writing Day, but no formal sponsorship events are happening. You're also encouraged to lead a Writing Day project if your documentation is open source.
+* **SUNDAY**: The conference venue is open. You are welcome to attend the Writing Day, but no formal sponsorship events are happening. You're also encouraged to lead a Writing Day table if you have ways for our attendees to engage with your product or contribute to your documentation.
 
-* **MONDAY**: The conference venue is open all day, so we recommend arriving around the time it opens to get the most interaction with attendees. The unconference is open all day, but generally attended more heavily in the afternoon.
+* **MONDAY**: The conference venue is open all day, so we recommend arriving early to get the most interaction with attendees. The unconference is open all day, but generally attended more heavily in the afternoon.
 
-* **TUESDAY**: The Job Fair will be on Tuesday morning in the sponsor area. We recommend arriving around 8:30am to set up your table. 
+* **TUESDAY**: The Job Fair will be on Tuesday morning in the sponsor area. We recommend arriving around 8:30am to set up your table if you're attending. The unconference will continue on Tuesday as well, and is well attended.
 
 See the :doc:`full schedule </conf/{{ shortcode }}/{{ year }}/schedule>` for exact timing details.
 
@@ -231,7 +231,7 @@ A quick overview of the spaces in the venue that are important:
 
 * The *main stage* is where talks happen.
 * The *stage hallway* is where registration, sponsor booths, and swag tables are set up. This is where the Job Fair will happen.
-* *The unconference room* is downstairs from the main ballroom. This is where the Unconference will happen. 
+* The *unconference room* is downstairs from the main stage. This is where unconference sessions will be happening.
 
 Sponsorship events
 ------------------
@@ -241,12 +241,12 @@ Job Fair
 
 On Tuesday morning we hold our Job Fair,
 which is a wonderful place to connect with our attendees.
+This is included in Hiring sponsorhip packages.
+
 Many of them are looking for jobs now or will be in the near future,
 so it's a great chance to talk more about your company culture and open positions.
 
-**Logistics**: You will be assigned a sponsor booth where you can engage with attendees and answer questions.  We recommend that you answer general questions in the main session and schedule follow up discussions with folks later in the day or after the conference if they have deeper interest.
-
-You can also offer attendees QR Code your website or a way to your job postings.
+**Logistics**: You will be assigned a booth where you can engage with attendees and answer questions.  We recommend that you answer general questions in the main session and schedule follow up discussions with folks later in the day or after the conference if they have deeper interest. We recommend having handouts or a QR code that links to your open job postings.
 
 Unconference
 ~~~~~~~~~~~~
