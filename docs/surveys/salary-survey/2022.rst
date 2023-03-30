@@ -1,0 +1,21 @@
+.. raw:: html
+
+   <div class="survey-results">
+
+*****************************************
+Write the Docs Salary Survey 2021 Results
+*****************************************
+
+.. contents::
+   :local:
+   :depth: 2
+   :backlinks: none
+
+Introduction
+============ 
+
+Lorem ipsum dolor sit amet.
+
+.. raw:: html
+
+   </div>
