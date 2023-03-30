@@ -1,3 +1,5 @@
+.. while called schedule2021, this file applies to 2021 *and newer*
+
 .. raw:: html
 
     <article class="schedule">

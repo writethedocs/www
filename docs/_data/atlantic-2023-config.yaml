@@ -6,7 +6,8 @@ city: Atlantic
 local_area: Atlantic
 area: Atlantic
 area_adj: Atlantic
-tz: CEST & EDT
+tz: UTC
+tz_header: CEST & EDT
 email: atlantic@writethedocs.org
 color: coral
 rgb: 234, 104, 82
@@ -18,8 +19,8 @@ photos:
 
 buttons:
   top:
-    - text: Welcome to our conference
-      link_absolute: /blog/2023-conference-announcements/
+#    - text: Welcome to our conference
+#      link_absolute: /blog/2023-conference-announcements/
     # - text: Date and ticket information
     #   link: /news/announcing-virtual-conf-dates-tickets
     #- text: Read our conference guide
@@ -30,8 +31,8 @@ buttons:
     #  link: /tickets
     - text: Sponsor us
       link: /sponsors/prospectus
-    #- text: Submit a Talk
-    #  link: /cfp
+    - text: Submit a Talk
+      link: /cfp
 #    - text: See the talks!
 #      link: /speakers
     #- text: See the Schedule!
@@ -88,7 +89,7 @@ sponsorship:
 date:
   main: "**September 10-12, 2023, online**"
   short: Sep 10-12, 2023
-  tickets_live: "June 2023"
+  tickets_live: "April 2023"
   month: September
   # Conference is special for the index to show the combined conference days
   conference:
@@ -111,23 +112,22 @@ date:
     #summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
     icon: writing
     dotw: Sunday
-    writing_day_time: 10:00-18:00
+    writing_day_time: 12:00-18:00
   day_three:
     event: Conference Day 1
     date: September 11
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Monday
-    talk_time: 10:00-18:00
-    unconference_time: 10:45-18:00
-    social_time: 19:00-21:00
+    talk_time: 12:00-18:00
+    unconference_time: 10:00-20:00
   day_four:
     event: Conference Day 2
     date: September 12
     summary: And the conference goes on! We are already starting to miss you. |:heart:|
     dotw: Tuesday
-    talk_time: 10:00-18:00
-    job_fair_time: 10:00-12:00
-    unconference_time: 15:15-18:00
+    talk_time: 12:00-18:00
+    job_fair_time: 10:00-12:00  # disabled for now
+    unconference_time: 10:00-20:00
   total_talk_days: 2
 
 about:
@@ -135,20 +135,19 @@ about:
   summary:
     "The main presentation track takes place on **September 11-12 (Monday and Tuesday) from 10:00 to 18:00**.
     During the main event we also run an :doc:`/conf/atlantic/2023/unconference`."
-  #social_venue: "Spatial chat platform"
-  venue: "Online conference platform"
+  venue: "Hopin online conference platform"
   photos:
-  mainroom: "Video area"
-  unconfroom: "Chat area"
+  mainroom: "Stage area"
+  unconfroom: "Sessions area"
   projector_ratio: "16:9"
   job_fair_room: "Sponsor area"
 
 cfp:
-  url: https://pretalx.com/wtd-atlantic-2022/cfp
-  ends: "June 30, 2022"           # 2 weeks to review and get confirmnations
-  notification: "July 15, 2022"     #  5 weeks to write and record
-  video_by: "August 20, 2022"   # 3 weeks before the conf
-  slides_by: "August 27, 2022"  # 2 weeks before the conf
+  url: https://pretalx.com/wtd-atlantic-2023/cfp
+  ends: "May 15, 2023"             # 2 weeks to review and get confirmation (Portland ends May 09)
+  notification: "June 01, 2023"     # 5 weeks to write and record
+  video_by: "August 15, 2025"       # 3 weeks before the conf
+  slides_by: "September 01, 2023"      # 2 weeks before the conf
   preview: "https://writethedocs-www--1777.org.readthedocs.build/conf/atlantic/2022/schedule/"
 
 #grants:
@@ -172,8 +171,8 @@ sponsors:
 
 
 # Things that change over time, listed in order of change
-flagcfp: False
-flaglanding: True
+flagcfp: True
+flaglanding: False
 flaghassponsors: False
 flagticketsonsale: False
 flagsoldout: False
@@ -190,5 +189,6 @@ flaghashike: False
 flaghasboat: False
 flaghasunconf: True
 flaghaswritingday: True
-flaghasjobfair: True
+flaghasjobfair: False
 flaghasbadgeflair: False
+flagisvirtual: True

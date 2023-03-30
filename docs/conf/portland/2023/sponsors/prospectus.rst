@@ -197,33 +197,41 @@ The Run of Show will be published closer to the event.
 
 {% else %}
 
+.. contents::
+   :local:
+   :depth: 1
+   :backlinks: none
+
 This Run of Show provides more context about the event and answers some common questions you may have.
 Please let us know if there is any information missing that would be useful for you.
+
+Quick tips
+----------
+
+* **Arrive early**: The conference venue opens at 8am, so we recommend arriving around this time to get the most interaction with attendees.
+* **Bring swag (especially stickers)**: We recommend bringing a variety of swag to give away. Stickers are by far the most popular item for our attendees.
+* **Engage with folks as both a sponsor and attendee**: This is a great opportunity to meet folks in the community, so we recommend engaging with folks in an official capacity, but also as a regular attendee.
+* **Use QR codes**: QR codes are a great way to get people a website quickly. We recommend using a service like https://www.qr-code-generator.com/ to create these.
 
 Sponsorship schedule
 --------------------
 
-* **SUNDAY**: The conference platform is open. You are welcome to hang out at your sponsorship booth and attend the Writing Day, but no formal sponsorship events are happening. You're also encouraged to lead a Writing Day project if your documentation is open source.
+* **SUNDAY**: The conference venue is open. You are welcome to attend the Writing Day, but no formal sponsorship events are happening. You're also encouraged to lead a Writing Day table if you have ways for our attendees to engage with your product or contribute to your documentation.
 
-* **MONDAY**: The conference platform is open all day from the morning, so we recommend arriving around the time it opens to get the most interaction with attendees. 
+* **MONDAY**: The conference venue is open all day, so we recommend arriving early to get the most interaction with attendees. The unconference is open all day, but generally attended more heavily in the afternoon.
 
-* **TUESDAY**: The Job Fair will be on Tuesday morning in the Expo area of the platform. It will take place in existing sponsorship booths. If you do not have a booth, a temporary booth will be set up for the job fair, and then removed during lunch.
+* **TUESDAY**: The Job Fair will be on Tuesday morning in the sponsor area. We recommend arriving around 8:30am to set up your table if you're attending. The unconference will continue on Tuesday as well, and is well attended.
 
 See the :doc:`full schedule </conf/{{ shortcode }}/{{ year }}/schedule>` for exact timing details.
-
-Sponsorship platform
---------------------
-
-We will be using `Hopin <https://hopin.to/>`_ as our conference platform. It has multiple unique spaces for attendees during the conference, and we hope it will allow for a good amount of interaction between attendees and sponsors. The conference platform won't become fully active until the Sunday of the conference.
 
 Sponsorship spaces
 ------------------
 
 A quick overview of the spaces in the venue that are important:
 
-* The *main ballroom* is where talks happen.
-* The *ballroom hallway* is where sponsor booths & swag tables set up.
-* *The unconference room* is across from the main ballroom. This is where the Unconference & Job Fair will happen. 
+* The *main stage* is where talks happen.
+* The *stage hallway* is where registration, sponsor booths, and swag tables are set up. This is where the Job Fair will happen.
+* The *unconference room* is downstairs from the main stage. This is where unconference sessions will be happening.
 
 Sponsorship events
 ------------------
@@ -232,13 +240,24 @@ Job Fair
 ~~~~~~~~
 
 On Tuesday morning we hold our Job Fair,
-which is a wonderful place to connect with our over {{ about.attendees }} attendees.
+which is a wonderful place to connect with our attendees.
+This is included in Hiring sponsorhip packages.
+
 Many of them are looking for jobs now or will be in the near future,
 so it's a great chance to talk more about your company culture and open positions.
 
-**Logistics**: You will be assigned a sponsor booth in the *Expo area* where you can engage with attendees and answer questions.  We recommend that you answer general questions in the main session and then break off into private calls or chats to talk in more depth with specific people.
+**Logistics**: You will be assigned a booth where you can engage with attendees and answer questions.  We recommend that you answer general questions in the main session and schedule follow up discussions with folks later in the day or after the conference if they have deeper interest. We recommend having handouts or a QR code that links to your open job postings.
 
-You can also offer attendees a link to your website or a way to register interest in your job postings.
+Unconference
+~~~~~~~~~~~~
+
+The Unconference is a great place to talk with attendees about your company and products.
+If your sponsorship package includes Product promotion, you can use this time to talk about your product and how it can help the community.
+
+We recommend having a few discussion topics ready to go, so that you can post your unconference session about them early in the conference.
+This allows people to see the sessions, and plan to attend!
+
+**Logistics**: You will be given a number of slots at the unconference, and you can sign up with your official company as the host. Other attendees will be able to sign up for sessions, but under their names instead of a specific company.
 
 Writing day
 ~~~~~~~~~~~
@@ -254,28 +273,31 @@ Starting with these issues will make it much easier for people to start,
 and feel productive.
 Make sure you also have good installation instructions and other helpful beginners content as well.
 
-**Logistics**: We will send a signup sheet to the general attendee list a week before the conference, where you can sign up. You can introduce your project to attendees on Sunday morning during the Writing Day Introduction.
+**Logistics**: We will send a signup sheet to the general attendee list before the conference, where you can sign up for a table. You can introduce your project to attendees on Sunday morning during the Writing Day Introduction, and then engage with attendees during the day of the event.
+
+Frequently Asked Questions
+--------------------------
 
 How do I get the most out of my sponsorship?
---------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Come prepared to engage with our community, and to learn just as much as you teach. Engage with our event as attendees as well as sponsors. Send technical staff who can chat with people on the interesting things your company is doing, and get value from the vast amount of insight in the room. We do have some decision makers in the room, but soft sells will work better than hard sales in the environment we strive for.
 
 Who is my primary contact?
---------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Eric Holscher will be your primary contact, but our team is available at sponsorship@writethedocs.org. If you have a time sensitive inquiry, please email the entire team to ensure a timely response.
 
-During the conference itself, we will also have a *help desk* available on the Hopin platform.
+During the conference itself, we will also have a *help desk* available on the Hopin venue.
 You can find staff members there to ask any additional questions you might have.
 
 How do I use my sponsorship tickets?
-------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You should have received a unique URL with a discount code for your sponsorship tickets. We are happy to send it over again, just ask!
 
 How do I use my job postings?
------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You can post your jobs to our `job board <https://jobs.writethedocs.org/>`_.
 You will be given a discount code that will let you post them for free,
@@ -284,19 +306,8 @@ They will be published in our :doc:`Newsletter </newsletter>` every month,
 and displayed on our website as well.
 
 What do I need for the job fair?
---------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The job fair will be a low key event. Generally we recommend having links available to your job descriptions, and ways for attendees to engage with you online after the event.
-
-What does the platform look and feel like?
-------------------------------------------
-
-You can see a demo of the platform in this video.
-It's currently linked to the expo hall demo,
-but it has demos of all the other areas as well:
-
-.. raw:: html
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/JgGVOlbOPUU?start=465" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% endif %}
