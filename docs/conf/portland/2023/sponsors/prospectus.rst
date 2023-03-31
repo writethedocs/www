@@ -84,7 +84,8 @@ Hiring Package
 Product Package
 ~~~~~~~~~~~~~~~
 
-- A **sponsored tutorial** at the conference that you deliver, up to 1 hour in length.
+- **Removed**: A sponsored tutorial at the conference that you deliver, up to 1 hour in length.
+- **Added:** A 3-hour booth space to demo your products and discuss with attendees.
 - One product promotion highlight in our conference mailing list. Includes logo and 2 paragraphs of copy.
 
 The **Publisher** package costs **{{sponsorship.publisher.price}}**.
