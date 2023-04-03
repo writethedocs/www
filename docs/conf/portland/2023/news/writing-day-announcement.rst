@@ -15,10 +15,11 @@ and invite them to join us!
 In case this is the first time you're hearing about the Write the Docs conference or you're 
 unfamiliar with Writing Day, we got you:
 
-* `Write the Docs <https://www.writethedocs.org/conf/portland/2023/>`_ is the conference focused on all things 
-   related to software documentation.
-* `Writing Day <https://www.writethedocs.org/conf/portland/{{year}}/writing-day/>`_ is modeled after the concept 
-   of “code sprints” or “hackathons”, which are common in open-source conferences. The idea is to get a bunch of 
+`Write the Docs <https://www.writethedocs.org/conf/portland/2023/>`_
+    the conference focused on all things related to software documentation
+
+`Writing Day <https://www.writethedocs.org/conf/portland/{{year}}/writing-day/>`_
+   is modeled after the concept of “code sprints” or “hackathons”, which are common in open-source conferences -- getting a bunch of 
    people together and have them work towards a shared goal, such as creating or improving documentation.
 
 The Write the Docs conference has many enthusiastic attendees. These attendees, documentarians, want to learn new 
@@ -34,7 +35,7 @@ Get involved with Writing Day!
 ------------------------------
 
 Ready to get involved?! `Submit your project <https://forms.gle/NNBzBCwjdB2vF7ZeA>`_ and we'll 
-add it to our `Writing Day project list <https://www.writethedocs.org/conf/portland/2023/writing-day/#project-listing>`_.
+add it to our `Writing Day project list <https://www.writethedocs.org/conf/portland/2023/writing-day/#project-listing>`__.
 
 Need help convincing your OSS project community or corporate benefactors on the benefits of attending Writing Day? See :ref:`writing-day-case`.
 
@@ -62,7 +63,7 @@ get the most value out of Writing Day came prepared in the following ways:
 Remember, these are suggestions and not requirements. It is perfectly valid to show up to Writing Day the day of, tell us about 
 your project, and ask for volunteers! It's been done before and we expect it will be done again.
 
-.. Reminder::
+.. note::
 
    Documentarians have a variety of backgrounds and may need additional info to be successful in onboarding to your project!
 
