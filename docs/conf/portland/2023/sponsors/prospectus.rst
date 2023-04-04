@@ -223,7 +223,7 @@ Sponsorship schedule
 
 * **MONDAY**: The conference venue is open all day, so we recommend arriving early to get the most interaction with attendees. The unconference is open all day, but generally attended more heavily in the afternoon.
 
-* **TUESDAY**: The Job Fair will be on Tuesday morning in the sponsor area. We recommend arriving around 8:30am to set up your table if you're attending. The unconference will continue on Tuesday as well, and is well attended.
+* **TUESDAY**: The Sponsor Expo (Job Fair & Product demos) will be on Tuesday morning in the sponsor area. We recommend arriving around 8:30am to set up your table if you're attending. The unconference will continue on Tuesday as well, and is well attended.
 
 See the :doc:`full schedule </conf/{{ shortcode }}/{{ year }}/schedule>` for exact timing details.
 
@@ -233,7 +233,7 @@ Sponsorship spaces
 A quick overview of the spaces in the venue that are important:
 
 * The *main stage* is where talks happen.
-* The *stage hallway* is where registration, sponsor booths, and swag tables are set up. This is where the Job Fair will happen.
+* The *stage hallway* is where registration, sponsor booths, and swag tables are set up. This is where the Sponsor Expo (Job Fair & Product demos) will happen.
 * The *unconference room* is downstairs from the main stage. This is where unconference sessions will be happening.
 
 Sponsorship events
