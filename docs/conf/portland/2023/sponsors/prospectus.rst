@@ -66,7 +66,7 @@ The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
 Publisher
 ---------
 
-The **Publisher** package gets you a larger website presence and a visible on-site presence, either at the job fair or a sponsored workshop that you provide.
+The **Publisher** package gets you a larger website presence and a visible on-site presence at our Sponsor Expo.
 
 Benefits
 ~~~~~~~~
@@ -80,7 +80,7 @@ Benefits
 Hiring Package
 ~~~~~~~~~~~~~~
 
-- A table at our **job fair**
+- A table at our **sponsor expo**
 - Three (3) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 
 Product Package
@@ -112,7 +112,7 @@ Benefits
 Hiring Package
 ~~~~~~~~~~~~~~
 
-- A table at our **job fair**
+- A table at our **sponsor expo**
 - Three (3) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 
 Product Package
@@ -136,7 +136,7 @@ Benefits
 - Large logo included in intermission slides and on talk videos
 - A large logo and long description (750 characters) on the conference website
 - Name included in welcome announcement in email newsletters and social media
-- A table at our **job fair**
+- A table at our **sponsor expo**
 - Five (5) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - A 1 hour **sponsored tutorial** at the conference
 - One product promotion highlight in our conference mailing list. Includes logo and 2 paragraphs of copy.
@@ -223,7 +223,7 @@ Sponsorship schedule
 
 * **MONDAY**: The conference venue is open all day, so we recommend arriving early to get the most interaction with attendees. The unconference is open all day, but generally attended more heavily in the afternoon. 
 
-* **TUESDAY**: The Sponsor Expo (job fair & product demos) will be on Tuesday morning in the sponsor area. We recommend arriving around 8:30am to set up your table if you're attending. The unconference will continue on Tuesday as well, and is well attended.
+* **TUESDAY**: The Sponsor Expo will be on Tuesday morning in the sponsor area. We recommend arriving around 8:30am to set up your table if you're attending. The unconference will continue on Tuesday as well, and is well attended.
 
 See the :doc:`full schedule </conf/{{ shortcode }}/{{ year }}/schedule>` for exact timing details.
 
@@ -233,14 +233,14 @@ Sponsorship spaces
 A quick overview of the spaces in the venue that are important:
 
 * The *main stage* is where talks happen.
-* The *stage hallway* is where registration, sponsor booths, and swag tables are set up. This is where the Sponsor Expo (job fair & product demos) will happen.
+* The *stage hallway* is where registration, sponsor booths, and swag tables are set up. This is where the Sponsor Expo will happen.
 * The *unconference room* is downstairs from the main stage. This is where unconference sessions will be happening.
 
 Sponsorship events
 ------------------
 
-Sponsor Expo (job fair & product demos)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sponsor Expo
+~~~~~~~~~~~~
 
 On Tuesday morning we hold our Sponsor Expo,
 which is a wonderful place to connect with our attendees.

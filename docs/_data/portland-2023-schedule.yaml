@@ -94,7 +94,7 @@ talks_day2:
     title: Doors open
     duration: '1:00'
   - duration: '0:00'
-    title: "<b>Sponsor Expo (job fair & product demos) Starts</b>"
+    title: "<b>Sponsor Expo Starts</b>"
   - duration: '0:00'
     title: "<b>Unconference Starts</b>"
   - duration: '0:30'
@@ -120,7 +120,7 @@ talks_day2:
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:00'
-    title: "<b>Job Fair Ends</b>"
+    title: "<b>Sponsor Expo Ends</b>"
   - duration: '1:20'
     title: '🍽️ Lunch Break (80 mins)'
   - duration: '0:30'

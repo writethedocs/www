@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 
-Sponsor Expo: Job Fair & Product demos
-======================================
+Sponsor Expo
+============
 
 This year we're inviting our top sponsors to engage with our attendees at our Sponsor Expo.
 This is a combination of two primary events:
