@@ -59,6 +59,7 @@ Benefits
 - Three (3) tickets_
 - A small logo & short text content (250 characters) on the conference website
 - Name included in welcome announcement in email newsletters and social media
+- Display promotional (“Swag”) items on the conference swag table (provided by sponsor)
 
 The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
 
@@ -73,6 +74,7 @@ Benefits
 - Seven (7) tickets_
 - A medium logo & short text content (250 characters) on the conference website
 - Name included in welcome announcement in email newsletters and social media
+- Display promotional (“Swag”) items on the conference swag table (provided by sponsor)
 - Benefits from *either* the Hiring or Product package
 
 Hiring Package
@@ -84,7 +86,8 @@ Hiring Package
 Product Package
 ~~~~~~~~~~~~~~~
 
-- A **sponsored tutorial** at the conference that you deliver, up to 1 hour in length.
+- **Removed**: A sponsored tutorial at the conference that you deliver, up to 1 hour in length. (Removed due to venue limitation)
+- **Added:** A 3-hour booth space to demo your products and discuss with attendees.
 - One product promotion highlight in our conference mailing list. Includes logo and 2 paragraphs of copy.
 
 The **Publisher** package costs **{{sponsorship.publisher.price}}**.
@@ -236,12 +239,19 @@ A quick overview of the spaces in the venue that are important:
 Sponsorship events
 ------------------
 
+Sponsor booths
+~~~~~~~~~~~~~~
+
+Many sponsorships come with a booth at the conference. This will be an 8 foot table with 2 chairs, provided with power. You will be able to talk with attendees and show demos of your products in this space.
+
+**Logistics**: Booths are outside of the main conference venue, in the hallway. Setup timing will be coordinated with the sponsor coordinator.
+
 Job Fair
 ~~~~~~~~
 
 On Tuesday morning we hold our Job Fair,
 which is a wonderful place to connect with our attendees.
-This is included in Hiring sponsorhip packages.
+This is included in Hiring sponsorship packages.
 
 Many of them are looking for jobs now or will be in the near future,
 so it's a great chance to talk more about your company culture and open positions.
@@ -251,7 +261,7 @@ so it's a great chance to talk more about your company culture and open position
 Unconference
 ~~~~~~~~~~~~
 
-The Unconference is a great place to talk with attendees about your company and products.
+The unconference is a great place to talk with attendees about your company and products.
 If your sponsorship package includes Product promotion, you can use this time to talk about your product and how it can help the community.
 
 We recommend having a few discussion topics ready to go, so that you can post your unconference session about them early in the conference.
