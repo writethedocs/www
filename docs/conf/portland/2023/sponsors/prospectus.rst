@@ -221,9 +221,9 @@ Sponsorship schedule
 
 * **SUNDAY**: The conference venue is open. You are welcome to attend the Writing Day, but no formal sponsorship events are happening. You're also encouraged to lead a Writing Day table if you have ways for our attendees to engage with your product or contribute to your documentation.
 
-* **MONDAY**: The conference venue is open all day, so we recommend arriving early to get the most interaction with attendees. The unconference is open all day, but generally attended more heavily in the afternoon.
+* **MONDAY**: The conference venue is open all day, so we recommend arriving early to get the most interaction with attendees. The unconference is open all day, but generally attended more heavily in the afternoon. 
 
-* **TUESDAY**: The Sponsor Expo (Job Fair & Product demos) will be on Tuesday morning in the sponsor area. We recommend arriving around 8:30am to set up your table if you're attending. The unconference will continue on Tuesday as well, and is well attended.
+* **TUESDAY**: The Sponsor Expo (job fair & product demos) will be on Tuesday morning in the sponsor area. We recommend arriving around 8:30am to set up your table if you're attending. The unconference will continue on Tuesday as well, and is well attended.
 
 See the :doc:`full schedule </conf/{{ shortcode }}/{{ year }}/schedule>` for exact timing details.
 
@@ -233,30 +233,25 @@ Sponsorship spaces
 A quick overview of the spaces in the venue that are important:
 
 * The *main stage* is where talks happen.
-* The *stage hallway* is where registration, sponsor booths, and swag tables are set up. This is where the Sponsor Expo (Job Fair & Product demos) will happen.
+* The *stage hallway* is where registration, sponsor booths, and swag tables are set up. This is where the Sponsor Expo (job fair & product demos) will happen.
 * The *unconference room* is downstairs from the main stage. This is where unconference sessions will be happening.
 
 Sponsorship events
 ------------------
 
-Sponsor booths
-~~~~~~~~~~~~~~
+Sponsor Expo (job fair & product demos)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Many sponsorships come with a booth at the conference. This will be an 8 foot table with 2 chairs, provided with power. You will be able to talk with attendees and show demos of your products in this space.
-
-**Logistics**: Booths are outside of the main conference venue, in the hallway. Setup timing will be coordinated with the sponsor coordinator.
-
-Job Fair
-~~~~~~~~
-
-On Tuesday morning we hold our Job Fair,
+On Tuesday morning we hold our Sponsor Expo,
 which is a wonderful place to connect with our attendees.
-This is included in Hiring sponsorship packages.
+This gives you a chance to discuss whatever you'd like to with our attendees.
 
-Many of them are looking for jobs now or will be in the near future,
+Many attendees are looking for jobs now or will be in the near future,
 so it's a great chance to talk more about your company culture and open positions.
+Similarly,
+they are always looking for great products to use in their day to day workflows.
 
-**Logistics**: You will be assigned a booth where you can engage with attendees and answer questions.  We recommend that you answer general questions in the main session and schedule follow up discussions with folks later in the day or after the conference if they have deeper interest. We recommend having handouts or a QR code that links to your open job postings.
+**Logistics**: You will be assigned a booth where you can engage with attendees and answer questions.  We recommend that you answer general questions in the main session and schedule follow up discussions with folks later in the day or after the conference if they have deeper interest. We recommend having handouts or a QR code for folks to learn more information.
 
 Unconference
 ~~~~~~~~~~~~
@@ -315,9 +310,10 @@ please ask us for this if you don't have it!
 They will be published in our :doc:`Newsletter </newsletter>` every month,
 and displayed on our website as well.
 
-What do I need for the job fair?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+What do I need for the Sponsor Expo?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The job fair will be a low key event. Generally we recommend having links available to your job descriptions, and ways for attendees to engage with you online after the event.
+The Sponsor Expo will be a low key event. Generally we recommend having links available to resources, and ways for attendees to engage with you online after the event.
+Also some fun swag is never a bad choice :)
 
 {% endif %}
