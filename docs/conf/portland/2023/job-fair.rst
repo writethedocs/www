@@ -19,10 +19,3 @@ Schedule
 - Location: **{{about.job_fair_room}}**.
 
 Full schedule information is available on our :doc:`/conf/{{shortcode}}/{{year}}/schedule`  page.
-
-.. Hide this for now...
-
-    Useful tips
-    -----------
-
-    {% include "conf/events/job-fair-tips.rst" %}
