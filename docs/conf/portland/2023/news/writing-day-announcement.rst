@@ -16,10 +16,10 @@ In case this is the first time you're hearing about the Write the Docs conferenc
 unfamiliar with Writing Day, we got you:
 
 `Write the Docs <https://www.writethedocs.org/conf/portland/2023/>`_
-    the conference focused on all things related to software documentation
+    The conference focused on all things related to software documentation
 
 `Writing Day <https://www.writethedocs.org/conf/portland/{{year}}/writing-day/>`_
-   is modeled after the concept of “code sprints” or “hackathons”, which are common in open-source conferences -- getting a bunch of 
+   Is modeled after the concept of “code sprints” or “hackathons”, which are common in open-source conferences -- getting a bunch of 
    people together and have them work towards a shared goal, such as creating or improving documentation.
 
 The Write the Docs conference has many enthusiastic attendees. These attendees, documentarians, want to learn new 
@@ -45,27 +45,26 @@ Maximize your experience
 We want you to have a great experience as a project and community. We have found that the projects who
 get the most value out of Writing Day came prepared in the following ways:
 
-* Writing Day label: Creating a specific event label allows you to identify tasks and issues that are good for new contributors.
-* Pre-labeled tasks and issues: Labeling the documentation tasks and issues empowers new contributors 
+* **Writing Day label**: Creating a specific event label allows you to identify tasks and issues that are good for new contributors.
+* **Pre-labeled tasks and issues**: Labeling the documentation tasks and issues empowers new contributors 
   to find tasks that interest them.
-* Task filter: Creating a task filter helps contributors find issues more easily and see which issues have been assigned.
-* Clear onboarding: Ensuring your ReadMe, contribution guidelines, or onboarding instructions are accurate and up to date.
-* Specific focus or goals: Projects that clearly define a focus area or a goal for their Writing Day tasks have 
+* **Task filter**: Creating a task filter helps contributors find issues more easily and see which issues have been assigned.
+* **Clear onboarding**: Ensuring your ReadMe, contribution guidelines, or onboarding instructions are accurate and up to date.
+* **Specific focus or goals**: Projects that clearly define a focus area or a goal for their Writing Day tasks have 
   an advantage when it comes to enticing attendees to work on their project.
-* Project overview: Your project overview is a quick pitch that describes your project and what you're hoping to 
+* **Project overview**: Your project overview is a quick pitch that describes your project and what you're hoping to 
   get out of Writing Day, such as your goals or focus. Need some ideas? Here's a good example from Writing Day 2022, the `Open Web Docs <https://www.writethedocs.org/conf/portland/2022/writing-day/#open-web-docs>`_ project.
-* Writing Day project list: Adding your project to the `Writing Day project list <https://forms.gle/NNBzBCwjdB2vF7ZeA>`_ promotes
+* **Writing Day project list**: Adding your project to the `Writing Day project list <https://forms.gle/NNBzBCwjdB2vF7ZeA>`_ promotes
   your project to our attendees before the event. Many attendees have told us that their curiosity about certain projects 
   incentivised their attendance.
-* Project expert: We recommend having 1-2 project experts of some kind at Writing day. We love our developer advocates, community 
+* **Project experts**: We recommend having 1-2 project experts of some kind at Writing day. We love our developer advocates, community 
   managers, and subject matter experts! You're welcome to call for virtual reinforcements from your community as well.
 
 Remember, these are suggestions and not requirements. It is perfectly valid to show up to Writing Day the day of, tell us about 
 your project, and ask for volunteers! It's been done before and it will be done again.
 
-.. note::
-
-   Documentarians have a variety of backgrounds and may need additional info to be successful in onboarding to your project!
+.. **note**::
+     Documentarians have a variety of backgrounds and may need additional info to be successful in onboarding to your project!
 
 .. _writing-day-case:
 
