@@ -71,7 +71,7 @@ Make a case for Writing Day
 ---------------------------
 
 Write the Docs conferences bring together everyone who writes the docs – tech writers, developers, developer relations, 
-customer support – making the events an ideal networking opportunity.
+customer support – making the event an ideal networking opportunity.
 
 Writing Day is a community event modeled after the concept of “code sprints” or “hackathons”, which are common in open-source 
 conferences. The idea is to get a bunch of people together and have them work towards a shared goal, in this case the goal is
