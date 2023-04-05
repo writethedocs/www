@@ -63,8 +63,7 @@ get the most value out of Writing Day came prepared in the following ways:
 Remember, these are suggestions and not requirements. It is perfectly valid to show up to Writing Day the day of, tell us about 
 your project, and ask for volunteers! It's been done before and it will be done again.
 
-.. note::
-   Documentarians have a variety of backgrounds and may need additional info to be successful in onboarding to your project!
+**Reminder**: Documentarians have a variety of backgrounds and may need additional info to be successful in onboarding to your project!
 
 .. _writing-day-case:
 
