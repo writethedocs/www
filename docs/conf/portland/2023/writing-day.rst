@@ -34,7 +34,7 @@ Here are some of the projects that you can work on during Writing Day!
 Your Project Here
 ~~~~~~~~~~~~~~~~~
 
-*Send us a pull request or an email and we will add it to this site.*
+Send us a pull request or an email and we will add it to this site.
 
 Mutual Aid for Tech Writer/Documentarian Job Hunters
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
