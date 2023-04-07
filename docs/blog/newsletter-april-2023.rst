@@ -5,7 +5,7 @@
 Write the Docs Newsletter – April 2023
 ######################################
 
-Hello again. April may or may not be the cruelest month, but there's no cruelety in our latest batch of news and views from the world of docs.
+Hello again. April may or may not be the cruelest month, but there's no cruelty in our latest batch of news and views from the world of docs.
 
 In conferenece news, the Portland conference has `announced its full schedule <https://www.writethedocs.org/conf/portland/2023/news/announcing-schedule/>`__. So check out the exciting talks you can see in person.
 
@@ -59,7 +59,7 @@ Whatever you do, you should think it through. “What gets measured gets done”
 Setting boundaries
 ------------------
 
-As a documentarian, it’s common to seek feedback on your work from others, especially people who aren't exclusively focused on documentation.It’s important to remember that not everyone has the same level of expertise or understanding of the writing process. This can lead to reviewers overstepping boundaries or providing feedback that may not be helpful or relevant.
+As a documentarian, it’s common to seek feedback on your work from others, especially people who aren't exclusively focused on documentation. It’s important to remember that not everyone has the same level of expertise or understanding of the writing process. This can lead to reviewers overstepping boundaries or providing feedback that may not be helpful or relevant.
 
 To set clear working boundaries, it’s best to share documentation standards, which can be rooted in technical writing principles such as task-based writing, minimalism, and structured content. Suppose you receive pushback after sharing the standards. For example, what if reviewers ask about what they were derived from? In that case, you could offer sources on the validity of the standards.
 
