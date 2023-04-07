@@ -34,8 +34,6 @@ A week before the planned ship date, the editor should:
 
    Link to the new Google doc, and set a deadline to have drafts back, 2-3 days before shipping.
 
-You should also mention the contributor for the BIPOC "What we're reading", so they know about the deadline.
-
 Picking the stories
 -------------------
 
@@ -92,18 +90,6 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
 
    CONTENT.
 
-   ------------------
-   What we’re reading
-   ------------------
-
-   The #bipoc group’s been discussing the following materials on diversity, inclusion, and equity. Want to join the conversation? Please join us in the `#bipoc Slack channel <https://writethedocs.slack.com/archives/C016STMEWJD>`_!
-
-   A short read: Description `link text <link>`__.
-
-   A medium read: Description `link text <link>`__.
-
-   A longer read: Description `link text <link>`__.
-
    ----------------
    From our sponsor
    ----------------
@@ -141,9 +127,9 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
 
    *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
-   ------------------------
-   Virtual events coming up
-   ------------------------
+   ----------------
+   Events coming up
+   ----------------
 
    - 00 MONTH, TIME ZONE (location) - `TITLE <https://www.meetup.com/LINK>`__
 
@@ -153,7 +139,6 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
 
 * The top section is an Editor's letter. It's a quick greeting and introduction, then touches on any big things happening in the community during the month, then segues into the stories. Usually 100-200 words, depending on how much news there is. Ping the `staff` channel on Slack to check if there's anything worth mentioning.
 * Next come the stories. They should be edited for length and clarity and tone, as well as to make sure they've followed the :doc:`editorial-guidelines`.
-* After this is the "What we're reading" section, with three links chosen by folks in the #bipoc channel.
 * If there are sponsors this month, the sponsorship article comes after the main stories.
 * Featured jobs section.
 * Finally, the upcoming events section lists meetups scheduled for the next month. Get a list of current meetup events from https://www.writethedocs.org/meetups/.
