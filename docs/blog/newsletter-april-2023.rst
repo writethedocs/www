@@ -7,7 +7,7 @@ Write the Docs Newsletter – April 2023
 
 Hello again. April may or may not be the cruelest month, but there's no cruelty in our latest batch of news and views from the world of docs.
 
-In conferenece news, the Portland conference has `announced its full schedule <https://www.writethedocs.org/conf/portland/2023/news/announcing-schedule/>`__. So check out the exciting talks you can see in person.
+In conference news, the Portland conference has `announced its full schedule <https://www.writethedocs.org/conf/portland/2023/news/announcing-schedule/>`__. So check out the exciting talks you can see in person.
 
 If in-person talks aren't your thing or Portland is a little too far away from you, the Atlantic conference is new this year. It's an online conference timed to be as convenient as possible for both Europe and the eastern parts of the Americas. If you have ideas you'd like to share, the `Call for Proposals <https://www.writethedocs.org/conf/atlantic/2023/cfp/>`__ is open until May 15. Check out the call to see some guidance on how to put together a good proposal and share your ideas with other documentarians.
 
@@ -49,7 +49,7 @@ It’s a tricky problem because many metrics are obvious but unhelpful. Counting
 
 A bad metric can lead you down the wrong path. Consider Goodhart’s law: “As soon as a measure becomes a target, it ceases to be a good measure.”
 
-One place to start is what you want to achieve, then work backwards to a metric. If productivity means *velocity* to your team: perhaps tickets closed. If it's *solving problems* for your audience: possibly content satisfaction. For providing a *good service* to other teams: maybe backlog size growth. But be careful with what you’re aiming for. For example, a slow turnaround time can be good if it means well-thought out improvements that improve your users’ lives.
+One place to start is what you want to achieve, and then work backwards to a metric. If productivity means *velocity* to your team: perhaps tickets closed. If it's *solving problems* for your audience: possibly content satisfaction. For providing a *good service* to other teams: maybe backlog size growth. But be careful with what you’re aiming for. For example, a slow turnaround time can be good if it means well-thought out improvements to your users’ lives.
 
 It’s worth digging into what management is really looking for. Authoring is not like manufacturing: the visible output (topics published, page views) isn't well correlated with effort. A better angle is impact on the business – such as the diagram at the end of this `article on the value of documentation <https://document360.com/blog/value-of-documentation/>`__. Depending on what your users say, your goal might be increasing time spent on the docs website or reducing support tickets.
 
