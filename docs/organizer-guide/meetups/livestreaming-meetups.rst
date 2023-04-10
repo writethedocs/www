@@ -1,34 +1,68 @@
-Live-streaming or Recording a Meetup
-====================================
+Livestream or record a Meetup
+=============================
 
-Whether due to health or environmental reasons, or because you live somewhere where people are distributed across a large area, maybe you want to try live-streaming a meetup.
+Livestreaming and recording Meetups are a great way to reach a distributed audience! There are many reasons to
+livestream or upload recorded presentations, thank you for taking on the extra work.
 
-We welcome audio and video streams or uploads to the Write the Docs Podcast & Meetups YouTube channel, but first, we have to add you to the channel. A few days ahead of time, message @chrisward @tomjohnson or @jaredmorgs or the #podcast Slack channel with your email address and we will add you to the channel.
+YouTube permissions
+-------------------
 
-With that access, you can upload a recorded meetup or live stream to the channel.
+We welcome audio and video streams or uploads to the Write the Docs Podcast & Meetups YouTube channel.
 
-Recording a Meetup
-------------------
+Here's how WTD Meetup organizers can request access to our YouTube Studio channel:
 
-To record a meetup, all you need is a microphone. An external microphone is best, but the internal microphone on your laptop can work if you have nothing else.
+* Request access when you fill out the *Meetup organizer contact information* form (check slack).
+* Request acces on WTD slack in the #meetup-organisers or #meetup-organizers-quorum tag. 
+  Tag @rose w, the Meetup lead. Other WTD Meetup team members or staff may be able to assist.
+* Email meetups@writethedocs.org to request access
 
-If you want video too, then again, an external camera is best, but positioned well, the internal camera in a laptop can work.
+After you have access channel, you can upload a recorded meetup or livestream.
 
-If you want to mix the speaker and slides onto one recording, you can do this after the recording with video editing software, or live using software such as `Open Broadcast Studio (OBS) <https://obsproject.com/>`_.
+Record a Meetup presentation
+----------------------------
 
-If you use music or video clips in their presentations, you need to make sure that you use copyright-free or original sound, as YouTube will likely flag these for copyrighted content.
+We recommend recording video and audio for your Meetup presentation. You are welcome to record and upload audio-only presentations to the channel as well.
 
-Once the recording is complete, you need to convert it to `a format YouTube supports <https://support.google.com/youtube/troubleshooter/2888402?hl=en>`_.
+Here are some best practices for recording a Meetup presentation:
 
-Uploading a Recorded Meetup
----------------------------
+* **Microphone** - an external microphone is best, an internal laptop microphone can work.
+* **Camera** - an external camera is best, an internal laptop camera can work. 
+* **Music/sound** - use copyright-free or original sound, otherwise YouTube will likely flag copyrighted content.
 
-Once you have access to the channel, you can upload a video to the channel as usual. Please add it to the "Meetup Recordings" playlist, and add as much detail to the description and metadata as you can.
+Optional: After you record the presentation or event. You can use video editing software, or live using software such as `Open Broadcast Studio (OBS) <https://obsproject.com/>`_, to mix the speaker and slides onto one recording.
 
-Streaming a Meetup
-------------------
+Once the recording is complete, convert it to `a format YouTube supports <https://support.google.com/youtube/troubleshooter/2888402?hl=en>`_ so you can upload it.
 
-Live-streaming a meetup is harder, but once you have it set up, great for interacting live with remote participants. YouTube live streams even have a live chat for you to gather questions.
+Upload a recorded presentation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+This section assumes you have already requested and received access to the YouTube channel.
+
+1. Sign in to `YouTube Studio <http://studio.youtube.com/>`_
+2. Follow the appropriate instructions to upload your recorded Meetup presentation. 
+   Checkout how to  `Upload videos in YouTube Studio <https://support.google.com/youtube/answer/57407?hl=en&co=GENIE.Platform%3DDesktop>`_.
+3. Add your recording to the **Meetup recordings** playlist.
+4. Fill out the description and metadata to make your recording findable.
+
+Stream a Meetup presentation
+----------------------------
+
+Livestreaming a meetup event is a great way to interact with remote attendees. YouTube includes a live chat for livestream attendees. It does take more effort to setup in comparison to uploading a recorded meetup presentation.
+
+Here are some best practices for livestreaming a Meetup presentation:
+
+* **Schedule your livestream** - scheduling your livestream allows you to add the link to your Meetup event in advance.
+* **Test your livestream** - test your slides, video, audio quality, and lighting.
+* **Background** - consider a virtual background for people on camera, if that's not an option you might want to tidy up the space around you.
+
+Start your livestream
+^^^^^^^^^^^^^^^^^^^^^
+
+If you're happy with your tech setup and background, here's how you start your stream.
+
+1. Ensure you are logged in to the correct YouTube Studio channel.
+2. Click **Create** > **Go live** from the menu.
+3. 
 
 You can start a live stream by clicking the "Create > Go Live" button in the YouTube top menu. You can schedule a live stream for a future date from the same button and then set a date in the following settings screen.
 
