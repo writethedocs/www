@@ -143,13 +143,13 @@ date: # how do we handle these? human readable would be nice.
     summary: And the conference goes on! More talks and unconference today, along with our job fair!
     dotw: Tuesday
     talk_time: 9am-4pm
-    job_fair_time: 9:45am-12pm
+    job_fair_time: 9-12pm
     unconference_time: 1:35pm-4pm
     icon: conversation
   total_talk_days: 2
 
 about:
-  attendees: 400
+  attendees: 300
   summary:
     "The main presentation track takes place from **May 8-9 (Monday and Tuesday) from 9am to 6pm**.
     During the main event we also run an :doc:`/conf/portland/2023/unconference`."
@@ -196,10 +196,10 @@ sponsors:
     - name: jetbrains
       link: https://www.jetbrains.com/
       brand: JetBrains
-    - name: paligo
-      link: https://paligo.net/
-      brand: Paligo
-      width: 200px
+    # - name: paligo
+    #   link: https://paligo.net/
+    #   brand: Paligo
+    #   width: 200px
     # - name: stackblitz-svg
     #   link: https://stackblitz.com/
     #   brand: StackBlitz
