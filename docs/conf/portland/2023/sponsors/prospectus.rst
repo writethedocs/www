@@ -251,7 +251,7 @@ so it's a great chance to talk more about your company culture and open position
 Similarly,
 they are always looking for great products to use in their day to day workflows.
 
-**Logistics**: You will be assigned a booth where you can engage with attendees and answer questions.  We recommend that you answer general questions in the main session and schedule follow up discussions with folks later in the day or after the conference if they have deeper interest. We recommend having handouts or a QR code where folks can learn more.
+**Logistics**: You will be assigned a booth where you can engage with attendees and answer questions.  We recommend that you answer general questions in the main session and schedule follow up discussions with folks later in the day or after the conference if they have deeper interest. We recommend having handouts or a QR code where folks can learn more. The booth will be an 8 foot table, without table cloth, and include 2 chairs.
 
 Unconference
 ~~~~~~~~~~~~
