@@ -293,7 +293,7 @@ Who is my primary contact?
 
 Eric Holscher will be your primary contact, but our team is available at sponsorship@writethedocs.org. If you have a time sensitive inquiry, please email the entire team to ensure a timely response.
 
-During the conference itself, we will also have a *help desk* available on the Hopin venue.
+During the conference itself, we will also have a *help desk* available at registration.
 You can find staff members there to ask any additional questions you might have.
 
 How do I use my sponsorship tickets?
@@ -313,7 +313,17 @@ and displayed on our website as well.
 What do I need for the Sponsor Expo?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The Sponsor Expo will be a low key event. Generally we recommend having links available to resources, and ways for attendees to engage with you online after the event.
-Also some fun swag is never a bad choice :)
+The Sponsor Expo will be a low key event.
+Generally we recommend having links available to resources, and ways for attendees to engage with you online after the event.
+
+In general we recommend:
+
+* A table cloth with your company logo
+* Stickers and other swag items to give away
+* A laptop or tablet to show off your product
+
+You can of course do more than this,
+but the event is generally pretty low key,
+so don't worry as much about presentation as the conversations you're having.
 
 {% endif %}
