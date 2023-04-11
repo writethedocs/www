@@ -31,6 +31,25 @@ Project Listing
 
 Here are some of the projects that you can work on during Writing Day!
 
+Your Project Here
+~~~~~~~~~~~~~~~~~
+
+Send us a pull request or an email and we will add it to this site.
+
+Mutual Aid for Tech Writer/Documentarian Job Hunters
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Coordinated by Kenzie Woodbridge, they/them. Kenzie has hosted this session 
+for previous virtual Write the Docs conferences during Writing Day.
+
+Are you thinking of applying for a new or different tech writer/documentarian 
+jobs and would appreciate feedback on your resume? Or, are you responsible for 
+hiring and know what you're looking for in a resume and application? Let's get 
+together and offer each other some feedback on the important documentation 
+we're using to move our careers forward.
+
+Let's help each other get ready for the job fair!
+
 Doc Detective
 ~~~~~~~~~~~~~
 
@@ -75,9 +94,5 @@ This sprint will give you a few options:
 * Contribute to their `public documentation <https://docs.readthedocs.io/en/stable/>`_ which is on GitHub
 * Try building your Docs as Code documentation `on their platform <https://docs.readthedocs.io/en/stable/build-customization.html#build-commands-examples>`_
 
-The documentation is written in Sphinx & reStructuredText, but you can try out your own project using any framework, as long as it's open source.
-
-Your Project Here
-~~~~~~~~~~~~~~~~~
-
-*Send us a pull request or an email and we will add it to this site.*
+The documentation is written in Sphinx & reStructuredText, but you can try out 
+your own project using any framework, as long as it's open source.
