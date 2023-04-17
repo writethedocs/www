@@ -73,9 +73,7 @@ get a sense of how to contribute to an open-source documentation project, and ho
 use GitLab. The GitLab platform hosts many open-source projects, so participants will 
 hopefully garner the skills to contribute to other projects!
 
-Beginners are welcome 
-as we'll have instructions as well as people on hand to help.
-
+Beginners are welcome as we'll have instructions as well as people on hand to help.
 
 Mutual Aid for Tech Writer/Documentarian Job Hunters
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
