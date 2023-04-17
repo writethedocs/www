@@ -46,36 +46,33 @@ We’re looking for volunteers to help polish and make the style more consistent
 our most popular doc pages. Our docs are technically correct, but are not very concise. 
 We have opened issues for each of such pages and appriopately labeled them Writing Day.
 
-For each page, comb through and:
+Review each identified page and consider making the following types of improvements:
 
-- Convert it to use Semantic Linefeeds consistently. Right now, we are very inconsistent with this. 
-- Follow and apply the guidelines from Google's Developer Documentation Style Guide. 
+- Update and use Semantic Linefeeds consistently
+- Apply guidelines from `Google's Developer Documentation Style Guide <https://developers.google.com/style>`_.
+- Edit for grammar and style issues: convert passive voice to active voice, edit run-on sentences with multiple clauses,
+  reorder concepts lists as needed, etc.
 
-Things like: look for and correct grammar issues.  Look for passive voice and convert it to active 
-voice Look for long, unclear sentences with multiple clauses, and convert them into shorter and 
-clearer sentences.  Fix issues where concepts are introduced in the wrong order.  You can create 
-an issue on our repository if you come across something you can't fix yourself. 
+If you come across something you can't fix, you're welcome to create an issue on our repository.
 
-Our developer advocate Linda will be on the ground to help you understand exactly what’s needed 
-for all these tasks and to help work through any problems. We’re so excited to meet you and merge 
+Our developer advocate Linda is at Writing Day! She is available to help you understand exactly what’s
+needed for these tasks and to help work through any problems. We’re so excited to meet you and merge 
 your pull requests!
 
 GitLab Documentation (afternoon-only session)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-GitLab is the open-core project behind the platform that allows people to collaborate 
+GitLab is the open-core project behind the platform that empowers people to collaborate 
 on their own projects, primarily to deliver software faster, and more efficiently.
 
-The documentation for GitLab and the GitLab documentation website are open-source, 
-and maintained by GitLab team members and the community.
+The documentation for GitLab and the GitLab documentation website are open-source 
+and maintained by GitLab team members and our community.
 
-As with previous years, we want to invite participants to contribute! Participants 
-can get a sense of how to contribute to an open-source documentation project, and 
-how to use GitLab.
-
-The GitLab platform hosts many open-source projects, so participants will hopefully 
-garner the skills to contribute to other projects! 
-Beginners are welcome as we'll have instructions as well as people on hand to help.
+As with previous years, we want to invite participants to contribute! Participants can 
+get a sense of how to contribute to an open-source documentation project, and how to 
+use GitLab. The GitLab platform hosts many open-source projects, so participants will 
+hopefully garner the skills to contribute to other projects! Beginners are welcome 
+as we'll have instructions as well as people on hand to help.
 
 
 Mutual Aid for Tech Writer/Documentarian Job Hunters
