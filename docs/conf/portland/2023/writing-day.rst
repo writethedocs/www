@@ -71,7 +71,9 @@ and maintained by GitLab team members and our community.
 As with previous years, we want to invite participants to contribute! Participants can 
 get a sense of how to contribute to an open-source documentation project, and how to 
 use GitLab. The GitLab platform hosts many open-source projects, so participants will 
-hopefully garner the skills to contribute to other projects! Beginners are welcome 
+hopefully garner the skills to contribute to other projects!
+
+Beginners are welcome 
 as we'll have instructions as well as people on hand to help.
 
 
