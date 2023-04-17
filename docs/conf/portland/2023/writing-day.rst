@@ -17,7 +17,8 @@ Exact timing information is available on our :doc:`/conf/{{shortcode}}/{{year}}/
 During the conference
 ---------------------
 
-Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet` for a quick reference that you can use during the conference to make the most out of Writing Day. 
+Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet` for a quick reference 
+that you can use during the conference to make the most out of Writing Day. 
 
 Submit Your Project 
 -------------------
@@ -31,10 +32,51 @@ Project Listing
 
 Here are some of the projects that you can work on during Writing Day!
 
-Your Project Here
-~~~~~~~~~~~~~~~~~
+Step-ca
+~~~~~~~
 
-Send us a pull request or an email and we will add it to this site.
+Step-ca is analogous to the popular public web certificate authority, Let’s Encrypt. 
+It is an open-source certificate authority toolkit and ACME server for securely 
+automating certificate issuance and management.
+
+Step-ca is the perfect project to get involved with if you’d like to dive into how 
+TLS and HTTPS work. You can find  `the codebase <https://github.com/smallstep/certificates>`_ and `the docs <https://github.com/smallstep/docs>`_ on GitHub.
+
+We’re looking for volunteers to help polish and make the style more consistent across 
+our most popular doc pages. Our docs are technically correct, but are not very concise. 
+We have opened issues for each of such pages and appriopately labeled them Writing Day.
+
+For each page, comb through and:
+
+- Convert it to use Semantic Linefeeds consistently. Right now, we are very inconsistent with this. 
+- Follow and apply the guidelines from Google's Developer Documentation Style Guide. 
+
+Things like: look for and correct grammar issues.  Look for passive voice and convert it to active 
+voice Look for long, unclear sentences with multiple clauses, and convert them into shorter and 
+clearer sentences.  Fix issues where concepts are introduced in the wrong order.  You can create 
+an issue on our repository if you come across something you can't fix yourself. 
+
+Our developer advocate Linda will be on the ground to help you understand exactly what’s needed 
+for all these tasks and to help work through any problems. We’re so excited to meet you and merge 
+your pull requests!
+
+GitLab Documentation (afternoon-only session)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+GitLab is the open-core project behind the platform that allows people to collaborate 
+on their own projects, primarily to deliver software faster, and more efficiently.
+
+The documentation for GitLab and the GitLab documentation website are open-source, 
+and maintained by GitLab team members and the community.
+
+As with previous years, we want to invite participants to contribute! Participants 
+can get a sense of how to contribute to an open-source documentation project, and 
+how to use GitLab.
+
+The GitLab platform hosts many open-source projects, so participants will hopefully 
+garner the skills to contribute to other projects! 
+Beginners are welcome as we'll have instructions as well as people on hand to help.
+
 
 Mutual Aid for Tech Writer/Documentarian Job Hunters
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
