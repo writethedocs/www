@@ -24,7 +24,7 @@ If you are showing proof of vaccination to attend in person, you will need to sh
 
 * have completed a full round of vaccine (1 dose of a single-dose vaccine or 2 doses of a two-dose vaccine)
 * that your most recent dose was at least fourteen days before the conference start
-* that your most recent dose or booster was no more than twelve months before the conference
+* that your most recent dose or booster was no more than twelve months before the conference start
 
 The following are acceptable forms of proof of full vaccination:
 
