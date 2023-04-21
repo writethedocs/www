@@ -1,0 +1,76 @@
+<svg height="100%" width="100%" viewBox="0 0 660 334" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+  <title>Basis of employment (2019-2022)</title>
+  <desc>Bar chart showing the number of employee and contractor respondents in each year of the survey, 2019 until 2022.</desc>
+	<g class="bar-chart">
+		<g class="x-axis">
+			<g class="axis-lines">
+				<path d="M72.1342 270.612H649.555"/>
+				<path d="M72.1342 219.135H649.555"/>
+				<path d="M72.1342 167.658H649.555"/>
+				<path d="M72.1342 115.21H649.555"/>
+				<path d="M72.1342 63.7329H649.555"/>
+			</g>
+			<g class="axis-values">
+				<text><tspan x="129" y="290">2019</tspan></text>
+				<text><tspan x="272" y="290">2020</tspan></text>
+				<text><tspan x="418" y="290">2021</tspan></text>
+				<text><tspan x="561" y="290">2022</tspan></text>
+			</g>
+			<g class="axis-label">
+				<text transform="translate(272 313)"><tspan x="28" y="12">Survey Year</tspan></text>
+			</g>    
+		</g>
+		<g class="y-axis">
+			<g class="axis-values">
+				<text><tspan x="53.9948" y="274.6">0</tspan></text>
+				<text><tspan x="39.2153" y="223.123">250</tspan></text>
+				<text><tspan x="38.4585" y="171.646">500</tspan></text>
+				<text><tspan x="39.9722" y="119.198">750</tspan></text>
+				<text><tspan x="31.4471" y="67.721">1000</tspan></text>
+			</g>
+			<g class="axis-label">
+				<text transform="translate(10 212) rotate(-90)"><tspan x="0" y="12">Respondents</tspan></text>
+			</g>  
+		</g>
+		<g class="data">
+			<g class="seriesa">
+				<path d="M205.234 136.092H83.8783V271.098H205.234V136.092Z"/>
+				<path d="M349.1 116.667H227.744V271.098H349.1V116.667Z"/>
+				<path d="M493.945 87.5288H372.589V271.098H493.945V87.5288Z"/>
+				<path d="M637.81 170.086H516.454V271.098H637.81V170.086Z"/>
+			</g>
+			<g class="seriesb">
+				<path d="M205.234 127.351H83.8783V134.149H205.234V127.351Z"/>
+				<path d="M349.1 105.011H227.744V114.724H349.1V105.011Z"/>
+				<path d="M493.945 72.9597H372.589V85.5862H493.945V72.9597Z"/>
+				<path d="M637.81 162.316H516.454V168.144H637.81V162.316Z"/>
+			</g>
+		</g>
+		<g class="legend">
+			<g class="seriesa">
+				<path d="M231.79 23.7413C231.79 25.8021 232.615 27.7784 234.083 29.2356C235.552 30.6928 237.543 31.5114 239.62 31.5114C241.696 31.5114 243.688 30.6928 245.156 29.2356C246.624 27.7784 247.449 25.8021 247.449 23.7413C247.449 21.6805 246.624 19.7042 245.156 18.247C243.688 16.7898 241.696 15.9712 239.62 15.9712C237.543 15.9712 235.552 16.7898 234.083 18.247C232.615 19.7042 231.79 21.6805 231.79 23.7413Z"/>
+			</g>
+			<g class="seriesb">
+				<path d="M347.427 23.7413C347.427 25.8021 348.252 27.7784 349.72 29.2356C351.189 30.6928 353.18 31.5114 355.257 31.5114C357.333 31.5114 359.325 30.6928 360.793 29.2356C362.261 27.7784 363.086 25.8021 363.086 23.7413C363.086 21.6805 362.261 19.7042 360.793 18.247C359.325 16.7898 357.333 15.9712 355.257 15.9712C353.18 15.9712 351.189 16.7898 349.72 18.247C348.252 19.7042 347.427 21.6805 347.427 23.7413Z"/>
+			</g>
+			<g class="labels">
+				<text><tspan x="252" y="30">Employees</tspan></text>
+				<text><tspan x="368" y="30">Contractors</tspan></text>
+			</g>
+		</g>
+	</g>
+</svg>
+
+
+
+
+
+

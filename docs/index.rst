@@ -35,7 +35,7 @@ Work with other documentarians.
 
 * Find or post a `docs related job <https://jobs.writethedocs.org/>`__ on our Job Board
 * Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
-* Read our previous `salary survey <https://www.writethedocs.org/surveys/>`__ information to get a sense of the industry pay
+* Read our previous `salary survey </surveys/>`__ information to get a sense of the industry pay
 
 Learn from our resources
 ------------------------

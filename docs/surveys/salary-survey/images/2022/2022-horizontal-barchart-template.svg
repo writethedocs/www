@@ -1,0 +1,37 @@
+<svg height="100%" width="100%" viewBox="0 0 660 460" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+  <title>Chart title (2022)</title>
+  <desc>Horizontal bar chart showing employee benefits. </desc>
+  <g class="x-axis">
+    <g class="axis-lines">
+       <path d="M89.6348 10V386"/>
+			<path d="M248.904 10V386"/>
+			<path d="M409.635 10V386"/>
+			<path d="M568.904 10V386"/>
+    </g>
+    <g class="axis-values">
+			
+		</g>
+    <g class="axis-label">
+
+    </g>    
+  </g>
+	<g class="y-axis">
+		<g class="axis-values">
+
+		</g>
+    <g class="axis-label">
+
+    </g>  
+	</g>
+  <g class="data">
+			
+	</g>
+</svg>

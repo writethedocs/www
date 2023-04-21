@@ -1,0 +1,57 @@
+<svg height="100%" width="100%" viewBox="0 0 660 430" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+  <title>Hours worked (2021)</title>
+  <desc>Bar chart showing weekly hours worked</desc>
+	<g class="bar-chart">
+		<g class="x-axis">
+			<g class="axis-lines">
+				<path d="M68.4245 367.54H661"/>
+				<path d="M68.4245 316.259H661"/>
+				<path d="M68.4245 265.928H661"/>
+				<path d="M68.4245 214.647H661"/>
+				<path d="M68.4245 163.367H661"/>
+				<path d="M68.4245 112.086H661"/>
+				<path d="M68.4245 61.7554H661"/>
+			</g>
+			<g class="axis-values">
+				<text><tspan x="104.842" y="386.718">1-20</tspan></text>
+				<text><tspan x="200.276" y="386.718">21-30</tspan></text>
+				<text><tspan x="298.994" y="386.718">31-40</tspan></text>
+				<text><tspan x="397.4" y="386.718">41-50</tspan></text>
+				<text><tspan x="496.157" y="386.718">51-60</tspan></text>
+				<text><tspan x="599.581" y="386.718">60+</tspan></text>
+			</g>
+			<g class="axis-label">
+				<text transform="translate(270.698 408.849)"><tspan x="0" y="12">Weekly hours</tspan></text>
+			</g>    
+		</g>
+		<g class="y-axis">
+			<g class="axis-values">
+				<text><tspan x="34.4362" y="320.243">10%</tspan></text>
+				<text><tspan x="32.8215" y="269.912">20%</tspan></text>
+				<text><tspan x="32.9107" y="218.631">30%</tspan></text>
+				<text><tspan x="33.7503" y="167.351">40%</tspan></text>
+				<text><tspan x="33.2168" y="116.07">50%</tspan></text>
+				<text><tspan x="33.7376" y="65.7391">60%</tspan></text>
+			</g>
+			<g class="axis-label">
+				<text transform="translate(10 288) rotate(-90)"><tspan x="0" y="12">Respondents (%)</tspan></text>
+			</g>  
+		</g>
+		<g class="data">
+			<path d="M159.59 357.568H76.0216V368.014H159.59V357.568Z"/>
+			<path d="M258.352 352.82H174.784V368.014H258.352V352.82Z"/>
+			<path d="M357.115 51.7842H273.547V368.014H357.115V51.7842Z"/>
+			<path d="M455.878 215.122H372.309V368.014H455.878V215.122Z"/>
+			<path d="M554.64 357.568H471.072V368.014H554.64V357.568Z"/>
+			<path d="M653.403 363.266H569.834V368.014H653.403V363.266Z"/>
+		</g>
+	</g>
+</svg>

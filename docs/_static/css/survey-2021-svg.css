@@ -1,6 +1,11 @@
 @font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
 text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important;font-size:18px}
 .legend .labels text{fill:#666}
+.legend .seriesa{fill:#1E73BE} 
+.legend .seriesb{fill:#FFA600} 
+
+.legend .labels-five text{font-size:14px;fill:#666} 
+.pie-labels text{font-size:18px;fill:#666}
 
 .x-axis .axis-label text{fill:#666}
 .x-axis .axis-values text{fill:#666;font-size:16px}
@@ -11,6 +16,13 @@ text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important;fo
 .axis-lines path{stroke:#F0F0F0}
 
 .donut-chart .value-labels text{fill:#666}
+
+.bar-chart .data path{fill:#1E73BE}
+.bar-chart .data .seriesa path{fill:#1E73BE}
+.bar-chart .data .seriesb path{fill:#FFA600}
+
+.horizontal-bar-chart .overlapping-value-labels text{fill:#FFF;font-size:16px}
+
 
 @media screen and (max-width: 600px) {
 	text{font-size:19px}

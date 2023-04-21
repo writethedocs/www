@@ -1,0 +1,107 @@
+<svg width="100%" height="100%" viewBox="0 0 546 343" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        .wordcloud{font-family:Georgia,Times,serif}
+      ]]>
+    </style>
+    
+  </defs>
+  <title>Job title wordcloud (2022)</title>
+  <desc>Wordcloud showing visual representation of terms most commonly used in respondent job titles (larger terms appear more often)</desc>
+
+<g class="wordcloud">
+  <text transform="translate(61.5037 307.785) rotate(-10)" fill="#FF8541" font-size="20.9269"><tspan x="0.374821" y="20.1098">Consultant</tspan></text>
+  <text transform="translate(37.5567 149.159) rotate(20)" fill="#A06BC7" font-size="20.9269"><tspan x="0.465736" y="20.1098">Director</tspan></text>
+  <text transform="translate(338.476 205.776) rotate(-10)" fill="#666666" font-size="6.15497"><tspan x="0.0775528" y="5.73817">CEO</tspan></text>
+  <text transform="translate(250.98 59.0699) rotate(10)" fill="#1E73BE" font-size="61.5497"><tspan x="0.264511" y="59.3817">Technical</tspan></text>
+  <text transform="translate(283.435) rotate(20)" fill="#1E73BE" font-size="59.7032"><tspan x="0.342705" y="57.7103">Writer</tspan></text>
+  <text transform="translate(237.98 183.574) rotate(-20)" fill="#1E73BE" font-size="52.3172"><tspan x="0.243126" y="50.5245">Senior</tspan></text>
+  <text transform="translate(72.4083 219.271) rotate(-20)" fill="#FF8541" font-size="43.7003"><tspan x="0.493294" y="42.391">Manager</tspan></text>
+  <text transform="translate(159.572 219.884) rotate(10)" fill="#1E73BE" font-size="42.4693"><tspan x="0.106384" y="40.9434">Documentation</tspan></text>
+  <text transform="translate(326.938 196.059) rotate(20)" fill="#FF8541" font-size="39.3918"><tspan x="0.444267" y="38.3243">Developer</tspan></text>
+  <text transform="translate(210.082 87.2342) rotate(20)" fill="#FF8541" font-size="38.1608"><tspan x="0.0540848" y="36.8767">Content</tspan></text>
+  <text transform="translate(160.025 144.452) rotate(-10)" fill="#1E73BE" font-size="37.5453"><tspan x="0.276569" y="36.1528">Lead</tspan></text>
+  <text transform="translate(345.389 190.782) rotate(-10)" fill="#FFA600" font-size="36.9298"><tspan x="0.00629425" y="35.929">Specialist</tspan></text>
+  <text fill="#FFA600" font-size="33.8523"><tspan x="91.6511" y="293.38">Engineer</tspan></text>
+  <text fill="#FFA600" font-size="32.0058"><tspan x="86.2427" y="121.216">Writing</tspan></text>
+  <text transform="translate(23.9188 194.783) rotate(-10)" fill="#FFA600" font-size="30.7749"><tspan x="0.352699" y="29.6909">Information</tspan></text>
+  <text transform="translate(98.2445 165.235) rotate(-20)" fill="#F35DA3" font-size="30.1594"><tspan x="0.0405807" y="28.967">Staff</tspan></text>
+  <text transform="translate(235.002 272.194) rotate(10)" fill="#FFA600" font-size="29.5439"><tspan x="0.392956" y="28.7432">Principal</tspan></text>
+  <text transform="translate(228.198 207.004) rotate(20)" fill="#A06BC7" font-size="28.9284"><tspan x="0.22366" y="28.0194">Team</tspan></text>
+  <text transform="translate(399.4 163.575) rotate(-20)" fill="#F35DA3" font-size="27.0819"><tspan x="0.469273" y="26.348">User</tspan></text>
+  <text fill="#F35DA3" font-size="27.0819"><tspan x="170.511" y="96.1139">Editor</tspan></text>
+  <text transform="translate(408.619 204.184) rotate(20)" fill="#A06BC7" font-size="25.2354"><tspan x="0.235764" y="24.6765">Assistance</tspan></text>
+  <text fill="#FFA600" font-size="25.2354"><tspan x="174.054" y="74.7466">Product</tspan></text>
+  <text transform="translate(421.381 98.8819) rotate(-20)" fill="#FFA600" font-size="24.0044"><tspan x="0.0953484" y="23.2289">Associate</tspan></text>
+  <text transform="translate(79.468 2.58486) rotate(10)" fill="#FFA600" font-size="24.0044"><tspan x="0.271759" y="23.2289">Communications</tspan></text>
+  <text transform="translate(184.367 287.709) rotate(10)" fill="#F35DA3" font-size="24.0044"><tspan x="0.232822" y="23.2289">Software</tspan></text>
+  <text transform="translate(300.257 230.552) rotate(10)" fill="#666666" font-size="22.7734"><tspan x="0.160427" y="22.2812">Author</tspan></text>
+  <text transform="translate(81.0238 151.271) rotate(-20)" fill="#666666" font-size="22.7734"><tspan x="0.272949" y="22.2812">Architect</tspan></text>
+  <text transform="translate(380.701 31.2603) rotate(20)" fill="#A06BC7" font-size="20.9269"><tspan x="0.464706" y="20.1098">Knowledge</tspan></text>
+  <text transform="translate(461.605 202.359) rotate(20)" fill="#F35DA3" font-size="20.9269"><tspan x="0.459503" y="20.1098">Designer</tspan></text>
+  <text transform="translate(441 300.379) rotate(-10.3545)" fill="#FF8541" font-size="20.9269"><tspan x="0.200062" y="20.1098">Support</tspan></text>
+  <text transform="translate(108.12 63.5089) rotate(10)" fill="#FF8541" font-size="20.9269"><tspan x="0.498636" y="20.1098">Junior</tspan></text>
+  <text transform="translate(82.5028 125.808) rotate(-10)" fill="#1E73BE" font-size="18.4649"><tspan x="0.187975" y="17.7145">Leader</tspan></text>
+  <text transform="translate(127.927 244.924) rotate(-20)" fill="#F35DA3" font-size="16.0029"><tspan x="0.396134" y="15.3192">API</tspan></text>
+  <text transform="translate(304.071 323.529) rotate(-10)" fill="#A06BC7" font-size="16.0029"><tspan x="0.0235786" y="15.3192">Experience</tspan></text>
+  <text transform="translate(17.4963 219.933) rotate(10)" fill="#F35DA3" font-size="16.0029"><tspan x="0.126076" y="15.3192">Strategist</tspan></text>
+  <text fill="#1E73BE" font-size="16.0029"><tspan x="0.177391" y="96.1641">Communicator</tspan></text>
+  <text transform="translate(175.408 141.856) rotate(-10)" fill="#666666" font-size="16.0029"><tspan x="0.441647" y="15.3192">Head</tspan></text>
+  <text transform="translate(264.141 174.046) rotate(-10)" fill="#A06BC7" font-size="12.3099"><tspan x="0.285059" y="11.9763">Learning</tspan></text>
+  <text transform="translate(119.574 52.4167) rotate(-10)" fill="#666666" font-size="12.3099"><tspan x="0.120745" y="11.9763">Document</tspan></text>
+  <text transform="translate(360.321 298.446) rotate(10)" fill="#666666" font-size="12.3099"><tspan x="0.38607" y="11.9763">Management</tspan></text>
+  <text fill="#FF8541" font-size="12.3099"><tspan x="335.935" y="34.9645">Publications</tspan></text>
+  <text fill="#A06BC7" font-size="12.3099"><tspan x="50.6079" y="268.238">Communication</tspan></text>
+  <text fill="#FF8541" font-size="12.3099"><tspan x="48.0751" y="150.678">Program</tspan></text>
+  <text transform="translate(192.358 182.68) rotate(-20)" fill="#666666" font-size="12.3099"><tspan x="0.0463943" y="11.9763">Education</tspan></text>
+  <text transform="translate(495.137 205.3) rotate(-20)" fill="#666666" font-size="12.3099"><tspan x="0.268595" y="11.9763">Training</tspan></text>
+  <text fill="#666666" font-size="12.3099"><tspan x="246.294" y="339.02">Relations</tspan></text>
+  <text transform="translate(296.081 85.2813) rotate(-10)" fill="#A06BC7" font-size="12.3099"><tspan x="0.329159" y="11.9763">Writers</tspan></text>
+  <text transform="translate(445.093 44.1011) rotate(20)" fill="#666666" font-size="12.3099"><tspan x="0.135445" y="11.9763">Customer</tspan></text>
+  <text transform="translate(467.576 107.732) rotate(-10)" fill="#FF8541" font-size="12.3099"><tspan x="0.12989" y="11.9763">Business</tspan></text>
+  <text transform="translate(289.583 219.781) rotate(-20)" fill="#F35DA3" font-size="12.3099"><tspan x="0.150207" y="11.9763">Help</tspan></text>
+  <text fill="#666666" font-size="12.3099"><tspan x="145.621" y="329.172">Development</tspan></text>
+  <text transform="translate(71.8904 63.8251) rotate(-20)" fill="#A06BC7" font-size="12.3099"><tspan x="0.433561" y="11.9763">Analyst</tspan></text>
+  <text transform="translate(359.052 147.342) rotate(-10)" fill="#666666" font-size="12.3099"><tspan x="0.420689" y="11.9763">SME</tspan></text>
+  <text transform="translate(198.286 233.79) rotate(10)" fill="#666666" font-size="12.3099"><tspan x="0.350719" y="11.9763">Advocate</tspan></text>
+  <text transform="translate(194.958 19.635) rotate(-10)" fill="#A06BC7" font-size="12.3099"><tspan x="0.426182" y="11.9763">Marketing</tspan></text>
+  <text transform="translate(278.012 227.592) rotate(20)" fill="#666666" font-size="6.15497"><tspan x="0.332422" y="5.73817">Proposal</tspan></text>
+  <text transform="translate(65.7024 112.284) rotate(20)" fill="#666666" font-size="6.15497"><tspan x="0.0239811" y="5.73817">Publisher</tspan></text>
+  <text transform="translate(187.829 134.857) rotate(-10)" fill="#A06BC7" font-size="6.15497"><tspan x="0.271074" y="5.73817">Application</tspan></text>
+  <text transform="translate(192.4 225.531) rotate(10)" fill="#666666" font-size="6.15497"><tspan x="0.179476" y="5.73817">Controller</tspan></text>
+  <text transform="translate(187.014 230.539) rotate(20)" fill="#666666" font-size="6.15497"><tspan x="0.244415" y="5.73817">UX</tspan></text>
+  <text transform="translate(424.767 217.013) rotate(-10)" fill="#FF8541" font-size="6.15497"><tspan x="0.33876" y="5.73817">Journalist</tspan></text>
+  <text transform="translate(265 167.235) rotate(-20)" fill="#1E73BE" font-size="6.15497"><tspan x="0.0961103" y="5.73817">Assistant</tspan></text>
+  <text transform="translate(394.126 145.82) rotate(20)" fill="#666666" font-size="6.15497"><tspan x="0.17046" y="5.73817">Language</tspan></text>
+  <text fill="#666666" font-size="6.15497"><tspan x="322.388" y="117.201">Network</tspan></text>
+  <text transform="translate(296.827 73.0111) rotate(-20)" fill="#666666" font-size="6.15497"><tspan x="0.03267" y="5.73817">Security</tspan></text>
+  <text transform="translate(314.867 131.38) rotate(20)" fill="#666666" font-size="6.15497"><tspan x="0.390307" y="5.73817">Process</tspan></text>
+  <text fill="#666666" font-size="6.15497"><tspan x="234.595" y="113.049">Analyser</tspan></text>
+  <text fill="#666666" font-size="6.15497"><tspan x="397.003" y="190.602">DevOps</tspan></text>
+  <text transform="translate(386.347 57.7721) rotate(20)" fill="#666666" font-size="6.15497"><tspan x="0.443817" y="5.73817">Experienced</tspan></text>
+  <text transform="translate(50.2857 180.871) rotate(20)" fill="#666666" font-size="6.15497"><tspan x="0.0760536" y="5.73817">Programmer</tspan></text>
+  <text transform="translate(354.875 267.725) rotate(-10)" fill="#666666" font-size="6.15497"><tspan x="0.304263" y="5.73817">Success</tspan></text>
+  <text transform="translate(277.32 285.448) rotate(10)" fill="#A06BC7" font-size="6.15497"><tspan x="0.426699" y="5.73817">Educator</tspan></text>
+  <text fill="#666666" font-size="6.15497"><tspan x="233.768" y="106.894">Portfolio</tspan></text>
+  <text transform="translate(307.222 134.085) rotate(20)" fill="#666666" font-size="6.15497"><tspan x="0.365284" y="5.73817">Base</tspan></text>
+  <text transform="translate(365.29 96.9483) rotate(10)" fill="#666666" font-size="6.15497"><tspan x="0.133414" y="5.73817">Center</tspan></text>
+  <text transform="translate(51.9465 244.089) rotate(20)" fill="#666666" font-size="6.15497"><tspan x="0.428137" y="5.73817">Innovation</tspan></text>
+  <text fill="#666666" font-size="6.15497"><tspan x="52.1445" y="276.772">Localization</tspan></text>
+  <text transform="translate(386.182 232.295) rotate(-10)" fill="#666666" font-size="6.15497"><tspan x="0.0324726" y="5.73817">Web</tspan></text>
+  <text transform="translate(200.479 335.268) rotate(-10)" fill="#1E73BE" font-size="6.15497"><tspan x="0.311583" y="5.73817">Accessibility</tspan></text>
+  <text transform="translate(429.66 242.925) rotate(10)" fill="#666666" font-size="6.15497"><tspan x="0.0900993" y="5.73817">Solutions</tspan></text>
+  <text fill="#666666" font-size="6.15497"><tspan x="134.132" y="72.4266">Maintenance</tspan></text>
+  <text fill="#666666" font-size="6.15497"><tspan x="393.624" y="329.089">Engineering</tspan></text>
+  <text transform="translate(373.282 190.687) rotate(10)" fill="#666666" font-size="6.15497"><tspan x="0.464004" y="5.73817">Expert</tspan></text>
+  <text transform="translate(454.63 253.711) rotate(20)" fill="#666666" font-size="6.15497"><tspan x="0.13505" y="5.73817">Department</tspan></text>
+  <text transform="translate(127.689 89.2366) rotate(10)" fill="#666666" font-size="6.15497"><tspan x="0.119171" y="5.73817">Group</tspan></text>
+  <text transform="translate(466.213 162.633) rotate(20)" fill="#666666" font-size="6.15497"><tspan x="0.474328" y="5.73817">Consulting</tspan></text>
+  <text transform="translate(251.216 147) rotate(10)" fill="#FFA600" font-size="6.15497"><tspan x="0.201883" y="5.73817">Data</tspan></text>
+  <text transform="translate(247.951 37.6281) rotate(-20)" fill="#666666" font-size="6.15497"><tspan x="0.290347" y="5.73817">Contract</tspan></text>
+  <text transform="translate(236.01 207.507) rotate(20)" fill="#666666" font-size="6.15497"><tspan x="0.257745" y="5.73817">Project</tspan></text>
+  <text transform="translate(277.887 187.777) rotate(-20)" fill="#666666" font-size="6.15497"><tspan x="0.303609" y="5.73817">Online</tspan></text>
+  <text transform="translate(292.745 11.7393) rotate(10)" fill="#666666" font-size="6.15497"><tspan x="0.327065" y="5.73817">Contractor</tspan></text>
+  <text transform="translate(173.882 270.375) rotate(-10)" fill="#666666" font-size="6.15497"><tspan x="0.418923" y="5.73817">Owner</tspan></text>
+</g>
+</svg>

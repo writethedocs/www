@@ -1,0 +1,69 @@
+<svg width="100%" height="100%" viewBox="0 0 660 438" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+	<defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2021-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+	<title>Length of time at current organization (2022)</title>
+  <desc>Bar chart showing length of time at current organization.</desc>
+
+	<g class="x-axis">
+
+    <g class="axis-lines">
+			<path d="M68.4245 375.137H661"/>
+			<path d="M68.4245 330.504H661"/>
+			<path d="M68.4245 285.87H661"/>
+			<path d="M68.4245 241.237H661"/>
+			<path d="M68.4245 196.604H661"/>
+			<path d="M68.4245 151.971H661"/>
+			<path d="M68.4245 107.338H661"/>
+			<path d="M68.4245 62.705H661"/>
+    </g>
+
+    <g class="axis-values">
+			<text><tspan x="104.249" y="395.368">&#60; 1 year</tspan></text>
+			<text><tspan x="209.219" y="395.368">1 &#x2265; &#60; 2 years</tspan></text>
+			<text><tspan x="327.734" y="395.368">2 &#x2265; &#60; 5 years</tspan></text>
+			<text><tspan x="442.174" y="395.368">5 &#x2265; &#60; 10 years</tspan></text>
+			<text><tspan x="572.045" y="395.368">&#x2265; 10 years</tspan></text>
+		</g>
+
+    <g class="axis-label">
+			<text transform="translate(298.237 416.446)"><tspan x="0.809444" y="10.8112">Length of time</tspan></text>
+    </g>  
+
+  </g>
+
+	<g class="y-axis">
+
+		<g class="axis-values">
+			<text><tspan x="40.824" y="380.174">0%</tspan></text>
+			<text><tspan x="40.824" y="335.541">5%</tspan></text>
+			<text><tspan x="32.6171" y="290.908">10%</tspan></text>
+			<text><tspan x="32.6171" y="246.275">15%</tspan></text>
+			<text><tspan x="32.6171" y="201.642">20%</tspan></text>
+			<text><tspan x="32.6171" y="157.009">25%</tspan></text>
+			<text><tspan x="32.6171" y="112.376">30%</tspan></text>
+			<text><tspan x="32.6171" y="67.7425">35%</tspan></text>
+		</g>
+
+    <g class="axis-label">
+			<text transform="translate(1 295.842) rotate(-90)"><tspan x="0.598766" y="10.8112">Respondents (%)</tspan></text>
+    </g>  
+
+	</g>
+
+  <g class="data">
+		<path d="M168.137 47.036H87.4173V375.612H168.137V47.036Z" fill="#1E73BE"/>
+		<path d="M286.842 162.892H206.122V375.611H286.842V162.892Z" fill="#1E73BE"/>
+		<path d="M404.597 175.237H324.827V375.611H404.597V175.237Z" fill="#1E73BE"/>
+		<path d="M523.302 270.201H442.583V375.612H523.302V270.201Z" fill="#1E73BE"/>
+		<path d="M642.007 330.029H561.288V375.611H642.007V330.029Z" fill="#1E73BE"/>
+	</g>
+
+</svg>
