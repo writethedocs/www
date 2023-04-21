@@ -16,7 +16,7 @@ Introduction
 
 Now in its fourth year, the Write the Docs Salary Survey collects information from documentarians across various regions, covering not only salaries but also work environments and perspectives on job-related issues. Our aims are to assist community members in determining appropriate salary brackets, provide a reference point for future wage negotiations, and spark discussion.
 
-The 2022 survey accumulated data from 525 participants, including both employees and independent contractors, located in 43 nations. Although the number of responses has decreased compared to previous years (with 959 in 2021, 805 in 2020, and 649 in 2019), the information obtained remains significant, and we trust that the resulting insights will aid community members in better undertanding the salary landscape.
+The 2022 survey accumulated data from 525 participants, including both employees and independent contractors, located in 43 nations. Although the number of responses has decreased compared to previous years (with 959 in 2021, 805 in 2020, and 649 in 2019), the information obtained remains significant, and we trust that the resulting insights will aid community members in better understanding the salary landscape.
 
 Feedback
 --------
@@ -729,7 +729,7 @@ Salary
    
    What is your salary (including tax)?
 
-Employees were given the option of entering their salary as a monthly or as a yearly figure, to cater for different countries where one or the other is the norm. Monthly salaries were multipled by 12 in order to compare them to annual salaries. 
+Employees were given the option of entering their salary as a monthly or as a yearly figure, to cater for different countries where one or the other is the norm. Monthly salaries were multiplied by 12 in order to compare them to annual salaries. 
 
 In 2022, 79% of employee respondents entered an annual salary figure, and 21% entered a monthly figure. 
 
@@ -1126,7 +1126,7 @@ Respondents were then asked to indicate reasons for any dissatisfaction - again,
    +----------------------------+------+-------+
    | Excess responsibility      |   93 | 18.9% |
    +----------------------------+------+-------+
-   | Cost of living discrepency |   88 | 17.9% |
+   | Cost of living discrepancy |   88 | 17.9% |
    +----------------------------+------+-------+
    | Missing benefits           |   85 | 17.3% |
    +----------------------------+------+-------+
@@ -1141,7 +1141,7 @@ Respondents were then asked to indicate reasons for any dissatisfaction - again,
    | Too few hours              |    2 |  0.4% |
    +----------------------------+------+-------+
 
-   Of those respondents who chose "other" and entered an additional reason, the main areas of complaint were lack of 401k matching, no raises or low raises, and lowered effective income through inflation and currency fluctuations. Several respondents noted that although their salary was competitive for the area in which they reside, it was not competitive for the wider region - information gleaned from previous years' salary survey results.
+Of those respondents who chose "other" and entered an additional reason, the main areas of complaint were lack of 401k matching, no raises or low raises, and lowered effective income through inflation and currency fluctuations. Several respondents noted that although their salary was competitive for the area in which they reside, it was not competitive for the wider region - information gleaned from previous years' salary survey results.
 
 Overall job satisfaction
 ------------------------
@@ -1223,7 +1223,7 @@ Respondents were then asked to select reasons for dissatisfaction, if any. Again
    +---------------------------------------+-----+------+
    | Discrimination - race or nationality  |   6 |  1.2 |
    +---------------------------------------+-----+------+
-   | Bullying or harrassment               |   5 |    1 |
+   | Bullying or harassment                |   5 |    1 |
    +---------------------------------------+-----+------+
    | Discrimination - age                  |   2 |  0.4 |
    +---------------------------------------+-----+------+
@@ -1254,7 +1254,7 @@ Respondents in general selected far more reasons to be happy about their job tha
    +---------------------------+-----+------+
    | Interesting               | 327 | 66.6 |
    +---------------------------+-----+------+
-   | Managable workload        | 322 | 65.6 |
+   | Manageable workload       | 322 | 65.6 |
    +---------------------------+-----+------+
    | Contributions valued      | 307 | 62.5 |
    +---------------------------+-----+------+
@@ -1567,7 +1567,7 @@ Location
 
 47.2% of all organizations employing survey respondents in 2022 were based in North America, with the vast majority of those in the United States (43.8% of the total, versus 3.4% for Canada). Global or Multi-national organizations accounted for the second largest proportion, 25.7%. European countries account for another 20%.
 
-The remaining organizations were based in 36 different countries, with no signle nation accounting for more than 3% of the total. 
+The remaining organizations were based in 36 different countries, with no single nation accounting for more than 3% of the total. 
 
 .. table:: Organization location - country (2022)
    :width: 100%
