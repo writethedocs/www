@@ -324,7 +324,7 @@ Length of time at current organization
    - More than 5 years but less than 10 years
    - More than 10 years
 
-Reflecting an increasingly volatile job market, 36.8% of respondents reported being employed at their current organization for less than one year. This marks a significant increase from 31.7% in 2021, 26% in 2020, and just 9% in 2019. Notably, this year marks the first time since the inception of the survey that the number of individuals in new positions exceeds those who have held their current job for a medium-term or extended duration.    
+Reflecting an increasingly volatile job market, 36.8% of respondents reported being employed at their current organization for less than one year. This is a significant increase from 31.7% in 2021, 26% in 2020, and just 9% in 2019. Notably, it is the first time since the survey began that the number of individuals in new positions exceeds those who have held their current job for a medium-term or extended duration.    
 
 .. table:: Length of time at current organization (2022)
    :width: 70%
