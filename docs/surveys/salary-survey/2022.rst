@@ -197,7 +197,7 @@ Type of role
    
    .. rubric:: What we asked
 
-   How would you categorize your role? If your wear multiple hats, select all options that apply.
+   How would you categorize your role? If you wear multiple hats, select all options that apply.
 
    - Writer, content creator, producer, editor
    - Developer, engineer
