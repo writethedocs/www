@@ -71,9 +71,11 @@ In 2022, 93.5% of respondents were employees, and 6.5% were independent contract
 Hours worked
 ------------
 
-.. container:: question
+.. raw:: html
    
-   .. rubric:: What we asked
+   <details><summary>What we asked</summary>
+
+.. container:: question
 
    How many hours per week do you work?
 
@@ -84,6 +86,10 @@ Hours worked
    - 41–50 hours
    - 51–60 hours
    - More than 60 hours
+
+.. raw:: html
+
+   </details>
 
 In 2022, only 6 individual respondents (1.1%) reported that they were not currently working – down from 2021, when 2.5% (20 respondents) indicated this. Unemployed respondents were asked to complete the survey as though they were still in their previous employment situation.
 
@@ -130,11 +136,17 @@ Of the 4 individuals who entered more than 60 hours, 3 reported working 65 hours
 Job title
 ---------
 
-.. container:: question
+.. raw:: html
    
-   .. rubric:: What we asked
+   <details><summary>What we asked</summary>
+
+.. container:: question
 
    What is your job title?
+
+.. raw:: html
+
+   </details>
 
 With typos removed and abbreviations expanded, 171 unique job titles emerged (1 respondent indicated that they did not have a job title). Although this number, which represents around 3.07 respondents per unique title, is fewer than in previous years - there were around 3.55 respondents per distinct title in 2021, 3.16 in 2020, and 3.13 in 2019 - the trends are similar: "Technical Writer" was the most widely-used exact title at 27.8%, followed by "Senior Technical Writer" at 17%. 
 
@@ -193,9 +205,11 @@ Of all titles:
 Type of role
 ------------
 
-.. container:: question
+.. raw:: html
    
-   .. rubric:: What we asked
+   <details><summary>What we asked</summary>
+
+.. container:: question
 
    How would you categorize your role? If your wear multiple hats, select all options that apply.
 
@@ -215,6 +229,10 @@ Type of role
    - Part of multiple teams
    - A manager or team leader
    - Other (please specify)
+
+.. raw:: html
+
+   </details>
 
 Role category
 ~~~~~~~~~~~~~
@@ -309,9 +327,11 @@ When taking into account respondents who work on a team, work on multiple teams,
 Length of time at current organization
 --------------------------------------
 
-.. container:: question
+.. raw:: html
    
-   .. rubric:: What we asked
+   <details><summary>What we asked</summary>
+
+.. container:: question
 
    How long have you worked at your current organization?
    
@@ -323,6 +343,10 @@ Length of time at current organization
    - More than 2 years but less than 5 years
    - More than 5 years but less than 10 years
    - More than 10 years
+
+.. raw:: html
+
+   </details>
 
 Reflecting an increasingly volatile job market, 36.8% of respondents reported being employed at their current organization for less than one year. This marks a significant increase from 31.7% in 2021, 26% in 2020, and just 9% in 2019. Notably, this year marks the first time since the inception of the survey that the number of individuals in new positions exceeds those who have held their current job for a medium-term or extended duration.    
 
@@ -361,9 +385,11 @@ Of those 5.1% who had been in their current position for 10 or more years, aroun
 Proportion of role related to documentation
 -------------------------------------------
 
-.. container:: question
+.. raw:: html
    
-   .. rubric:: What we asked
+   <details><summary>What we asked</summary>
+
+.. container:: question
 
    Documentation is:
 
@@ -378,6 +404,10 @@ Proportion of role related to documentation
    - 26-50%
    - 51-75%
    - 76-100%
+
+.. raw:: html
+
+   </details>
 
 As Write the Docs is a documentation-focused community, it's not surprising that the majority of respondents (73.1% in 2022) reported that documentation makes up both their whole official job description, and most or all of their day-to-day tasks (90.3% reporting more than 51% of their daily workload). Given the cross-disciplinary nature of documentation work, it's also not surprising that a proportion of respondents also work outside of that definition, and that there are even a small number documenting "by steath": those that are not officially designated as documentation employees or not required to perform documentation-related tasks, but do anyway.
 
@@ -426,9 +456,11 @@ There was some uncertainty about whether to include COVID-19 questions section i
 
 For the purpose of this section, we consider “remote” to have the same meaning as “work from home” or “home office”.
 
-.. container:: question
+.. raw:: html
    
-   .. rubric:: What we asked
+   <details><summary>What we asked</summary>
+
+.. container:: question
 
    Has your work location (i.e. onsite, remote) been affected by COVID-19 (temporarily or permanently)?
 
@@ -487,6 +519,10 @@ For the purpose of this section, we consider “remote” to have the same meani
    - Neutral
    - Positive
    - Very positive
+
+.. raw:: html
+
+   </details>
 
 Affected by COVID-19
 --------------------
@@ -719,15 +755,21 @@ Respondents reported being paid in 27 different currencies. To make comparisons 
 Salary
 ------
 
-.. container:: question
+.. raw:: html
    
-   .. rubric:: What we asked
+   <details><summary>What we asked</summary>
+
+.. container:: question
 
    What currency are you paid in?
 
    Would you prefer to enter your salary as a yearly or monthly amount?
    
    What is your salary (including tax)?
+
+.. raw:: html
+
+   </details>
 
 Employees were given the option of entering their salary as a monthly or as a yearly figure, to cater for different countries where one or the other is the norm. Monthly salaries were multiplied by 12 in order to compare them to annual salaries. 
 
@@ -930,9 +972,11 @@ Benefits
 
 In almost all countries apart from the US, employees are entitled to paid vacation time and paid sick leave by law, and many also mandate pension contributions and/or paid parental leave. Similarly, many countries have some form of universal health care, negating the need for employer-provided health cover. To make this clearer, we asked respondents to only check the boxes for vacation time, health insurance, pension plans and parental leave if their employee benefit was in excess of what is required by law in the country where they live.
 
-.. container:: question
+.. raw:: html
    
-   .. rubric:: What we asked
+   <details><summary>What we asked</summary>
+
+.. container:: question
 
    Does your salary package include any additional benefits? 
 
@@ -953,6 +997,10 @@ In almost all countries apart from the US, employees are entitled to paid vacati
    - Phone and/or internet-related benefits or reimbursements
    - None of the above
    - Other (please specify)
+
+.. raw:: html
+
+   </details>
 
 A small number of respondents (4.1, representing 20 individuals) indicated that they did not receive any of the listed benefits.
 
@@ -994,6 +1042,8 @@ A small number of respondents (4.1, representing 20 individuals) indicated that 
    | Transportation-related benefits (company car, public transport passes, parking, fuel vouchers or reimbursements for any transport-related cost) | 123 | 25.1% |
    +-------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
 
+\* In excess of any government-mandated minimums
+
 .. raw:: html
 
    <figure>
@@ -1009,9 +1059,11 @@ A small number of respondents (4.1, representing 20 individuals) indicated that 
 Salary satisfaction
 -------------------
 
-.. container:: question
+.. raw:: html
    
-   .. rubric:: What we asked
+   <details><summary>What we asked</summary>
+
+.. container:: question
 
    Considering only your salary and benefits, rate your level of satisfaction:
 
@@ -1090,6 +1142,10 @@ Salary satisfaction
    -	I feel I have work-life balance
    -	Other (please specify)
    -	None of the above
+
+.. raw:: html
+
+   </details>
 
 Considering only their salary and benefits, employee respondents were asked to rate their level of satisfaction. The majority of respondents reported being satisfied (47.9%) or very satisfied (27.3%) with their salaries. Fewer participants indicated feeling neutral (14.7%), unsatisfied (7.9%), or very unsatisfied (2.2%) about their earnings.
 
@@ -1292,9 +1348,11 @@ Pay transparency
 
 New in the 2022 survey, we explored a concept that’s garnering a lot of attention lately: pay transparency. We define organizations with pay transparency as those that are open about salaries and benefits for existing and prospective employees and contractors.
 
-.. container:: question
+.. raw:: html
    
-   .. rubric:: What we asked
+   <details><summary>What we asked</summary>
+
+.. container:: question
 
    Is there an official pay transparency policy at your organization?
 
@@ -1318,6 +1376,10 @@ New in the 2022 survey, we explored a concept that’s garnering a lot of attent
    -	Neutral
    -	Support
    -	Strongly support
+
+.. raw:: html
+
+   </details>
 
 Pay transparency policy
 -----------------------
@@ -1396,10 +1458,12 @@ The questions in this section relate to the employing organization (or main/typi
 Organization size
 -----------------
 
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
 .. container:: question
    
-   .. rubric:: What we asked
-
    What is the approximate size of your organization, in number of employees?
 
    -	Less than 10
@@ -1409,6 +1473,10 @@ Organization size
    -	1,001 - 10,000
    -	10,001 - 100,000
    -	More than 100,000
+
+.. raw:: html
+
+   </details>
 
 Medium-sized organizations accounted for over half of the employers in the 2022 results, with the remaining portions evenly split between very large and very small operations. 
 
@@ -1437,10 +1505,12 @@ Medium-sized organizations accounted for over half of the employers in the 2022 
 Organization industry
 ---------------------
 
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
 .. container:: question
    
-   .. rubric:: What we asked
-
    Which industries does your organization operate in?
 
    -	Advertising, CRM, Marketing, Sales (online and offline)
@@ -1476,6 +1546,10 @@ Organization industry
    -	Travel, Hospitality, Holidays
    -	Utilities, Energy, Mining, Extraction
    -	Other
+
+.. raw:: html
+
+   </details>
 
 Based on feedback from previous surveys, we altered this question in 2022 to allow multiple industries to be selected. 33.7% of respondents chose more than one industry – 18.7% selected two, and 6.1% selected three. In total, 974 industries were chosen by the 525 respondents. 
 
@@ -1556,14 +1630,20 @@ While each of the 33 industries in the list accounted for at least 3 individual 
 Location
 --------
 
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
 .. container:: question
    
-   .. rubric:: What we asked
-
    In which country is your organization based?
    
    - State, Province, Territory or Region
    - City or Town
+
+.. raw:: html
+
+   </details>
 
 47.2% of all organizations employing survey respondents in 2022 were based in North America, with the vast majority of those in the United States (43.8% of the total, versus 3.4% for Canada). Global or Multi-national organizations accounted for the second largest proportion, 25.7%. European countries account for another 20%.
 
@@ -1674,9 +1754,11 @@ This section asked questions relating to the respondent – their age, gender id
 Age
 ---
 
-.. container:: question
+.. raw:: html
    
-   .. rubric:: What we asked
+   <details><summary>What we asked</summary>
+
+.. container:: question
 
    What is your age?
 
@@ -1687,6 +1769,10 @@ Age
    -	56-65
    -	66+
    -	I'd rather not say
+
+.. raw:: html
+
+   </details>
 
 As in previous surveys, two age brackets – 26-35 year olds and 36-45 year olds – made up 68.4% of the total number of respondents. The oldest bracket (66+) made up 1% of the total, while the youngest (18-25 year olds) made up 5.1%. Only 0.6% (3 individuals) did not provide an answer.  
 
@@ -1713,10 +1799,12 @@ As in previous surveys, two age brackets – 26-35 year olds and 36-45 year olds
 Gender identity
 ---------------
 
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
 .. container:: question
    
-   .. rubric:: What we asked
-
    What gender identity do you most identify with?
 
    -	Woman
@@ -1724,6 +1812,10 @@ Gender identity
    -	Non-binary
    -	Other (please specify)
    -	I'd rather not say
+
+.. raw:: html
+
+   </details>
 
 57.6% of respondents identified as women, 39.9% as men, and 2.5% as non-binary or other.  2.1% did not provide an answer. 
 These proportions have not significantly changed over the four surveys conducted. 
@@ -1747,10 +1839,12 @@ These proportions have not significantly changed over the four surveys conducted
 Experience
 ----------
 
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
 .. container:: question
    
-   .. rubric:: What we asked
-
    How many years of experience do you have in documentation?
 
    -	Less than 1 year
@@ -1763,6 +1857,10 @@ Experience
    -	More than 25 years but less than 30 years
    -	More than 30 years
    -	I'd rather not say
+
+.. raw:: html
+
+   </details>
 
 5% of respondents were new to the field of documentation, with less than 1 year of experience. Another 8.2% had between 1 and 2 years of experience. 
 
@@ -1802,10 +1900,12 @@ At the other end of the scale, 3.4% of respondents had 30 or more years of exper
 Education
 ---------
 
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
 .. container:: question
    
-   .. rubric:: What we asked
-
    What is the highest level of education that you have completed?
 
    If your education level isn't listed, choose the option that's the closest equivalent to the level you have completed. 
@@ -1820,6 +1920,10 @@ Education
    -	Multiple post-graduate qualifications
    -	None of the above
    -	I'd rather not say
+
+.. raw:: html
+
+   </details>
 
 Based on the responses gathered from previous surveys, this year additional options were added for those holding multiple qualifications. 
 
@@ -1850,9 +1954,11 @@ Technical or vocational qualifications accounted for 2.1% of the responses, and 
 Location
 --------
 
-.. container:: question
+.. raw:: html
    
-   .. rubric:: What we asked
+   <details><summary>What we asked</summary>
+
+.. container:: question
 
    Which of the following best describes the type of area where you reside?
 
@@ -1866,6 +1972,10 @@ Location
    
    - State, Province, Territory or Region
    - City or Town
+
+.. raw:: html
+
+   </details>
 
 In an effort to more effectively gather information on how geographical location affects income without requiring detailed location information, we added a new question about the type of area where respondents reside: rural (low population density), town or suburban area (semi-dense population density) or city (high population density). 
 
