@@ -36,12 +36,14 @@ In this section, we asked about the parameters of the respondent’s employment:
 Basis of employment
 -------------------
 
-While the majority of respondents – historically and in 2022 – are employees, a proportion are classified as independent contractors, freelance operators or self-employed individuals. To better cater for the differences between these groups, we ran two different versions of the survey side by side, starting in 2021. For all questions other than those directly related to salary or rate (or otherwise indicated), the data presented here is from both groups combined. 
+While the majority of respondents – historically and in 2022 – are employees, a proportion are classified as independent contractors, freelance operators or self-employed individuals. To better cater for the differences between these groups, we ran two different versions of the survey side by side, starting in 2021. 
+
+Unfortunately, due to the small number of contractor respondents, no statistically relevant data can be extracted regarding income or satisfaction for this group. The salary and salary satisfaction data is therefore drawn from employee respondents only. For all questions, the data is from both groups combined. 
 
 In 2022, 93.5% of respondents were employees, and 6.5% were independent contractors - similar ratios to previous years.
 
 .. table:: Basis of employment (2019-2022)
-   :width: 50%
+   :width: 60%
    :name: tbl-2022-basis-of-employment-history
 
    +------+-----------+-------------+
@@ -59,10 +61,13 @@ In 2022, 93.5% of respondents were employees, and 6.5% were independent contract
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Basis of employment (2019-2022)" aria-describedby="figure-basis-of-employment-history-desc" type="image/svg+xml" data="/_images/2022-basis-of-employment-history.svg">
+      <object role="img" aria-label="Basis of employment (2019-2022)" aria-describedby="figure-basis-of-employment-history-desc" type="image/svg+xml" data="/_images/2022-basis-of-employment-history.svg" id="fig-2022-basis-of-employment-history">
          <p id="figure-basis-of-employment-history-desc">Stacked vertical bar chart showing number of employee and contractor respondents in each survey, 2019 until 2022.</p>
       </object> 
-      <figcaption>Figure: Basis of employment (2019-2022)</figcaption>
+      <figcaption>
+         <span class="caption-text">Figure: Basis of employment (2019-2022)</span>
+         <a class="headerlink" href="#fig-2022-basis-of-employment-history" title="Permalink to this figure">¶</a>
+      </figcaption>
    </figure>
 
 .. figure:: images/2022/2022-basis-of-employment-history.svg
@@ -102,7 +107,7 @@ The majority of respondents worked traditional "full-time" hours:
 Of the 4 individuals who entered more than 60 hours, 3 reported working 65 hours per week, and one person reported working 80 hours per week. 
 
 .. table:: Weekly hours worked (2022)
-   :width: 60%
+   :width: 50%
    :name: tbl-2022-weekly-hours-worked
 
    +-------+-----+-------+
@@ -351,7 +356,7 @@ Length of time at current organization
 Reflecting an increasingly volatile job market, 36.8% of respondents reported being employed at their current organization for less than one year. This is a significant increase from 31.7% in 2021, 26% in 2020, and just 9% in 2019. Notably, it is the first time since the survey began that the number of individuals in new positions exceeds those who have held their current job for a medium-term or extended duration.    
 
 .. table:: Length of time at current organization (2022)
-   :width: 70%
+   :width: 80%
    :name: tbl-2022-time-current-organization
 
    +------------------------------------------+-----+-------+
@@ -412,7 +417,7 @@ Proportion of role related to documentation
 As Write the Docs is a documentation-focused community, it's not surprising that the majority of respondents (73.1% in 2022) reported that documentation makes up both their whole official job description, and most or all of their day-to-day tasks (90.3% reporting more than 51% of their daily workload). Given the cross-disciplinary nature of documentation work, it's also not surprising that a proportion of respondents also work outside of that definition, and that there are even a small number documenting "by steath": those that are not officially designated as documentation employees or not required to perform documentation-related tasks, but do anyway.
 
 .. table:: Portion of role officially documentation-related (2022)
-   :width: 80%
+   :width: 70%
    :name: tbl-2022-portion-of-role-officially-documentation-related
 
    +--------------------------------------+-----+-------+
@@ -428,7 +433,7 @@ As Write the Docs is a documentation-focused community, it's not surprising that
    +--------------------------------------+-----+-------+
 
 .. table:: Portion of role actually documentation-related (2022)
-   :width: 80%
+   :width: 70%
    :name: tbl-2022-portion-of-role-actually-documentation-related
 
    +-----------------+-----+-------+
@@ -610,7 +615,7 @@ Overall, this group was happy about their work location: 66.1% reported feeling 
 Breaking down attitudes by work location, those who are able to choose their work location - be it onsite, remote, or a combination - are generally happier than those who have their workplace stipulated by their employer. All of the negative responses were attributed to respondents required to be onsite, required to be remote, or partial (implying that one portion of the partial arrangement was required, and not that respondent's preference).
 
 .. table:: Feelings about work location - unaffected by COVID-19 (2022)
-   :width: 70%
+   :width: 50%
    :name: tbl-2022-work-location-feelings-unaffected
 
    +---------------+-----+-------+
@@ -635,7 +640,7 @@ Combining the "current" work location for respondents affected by COVID-19 with 
 68.9% of all resondents work remotely, either by choice (41.7%) or as required by their employer (27.2%). Another 24.8% work partially on-site and partially remote. Only 6.3% work completely on-site (3.6% are required to do so and 2.7% do so by choice). 
 
 .. table:: Work location - overall (2022)
-   :width: 70%
+   :width: 60%
    :name: tbl-2022-work-location-overall
 
    +------------------------+-----+-------+
@@ -655,7 +660,7 @@ Combining the "current" work location for respondents affected by COVID-19 with 
 Just over half of respondents reported feeling "very positive" about their work location, and another 31.4% felt "positive". 13.7% were "neutral", and 3.2% reported negative feelings. Only 0.8% of all repondents - 4 individuals - reported "very negative" feelings. 
 
 .. table:: Feelings about work location - overall (2022)
-   :width: 70%
+   :width: 60%
    :name: tbl-2022-work-location-feelings-overall
 
    +---------------+-----+-------+
@@ -689,6 +694,10 @@ Currencies
 ----------
 
 Respondents reported being paid in 27 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2022. 
+
+.. raw:: html
+
+   <div class="tablescroller">
 
 .. table:: Currencies - employees (2022)
    :width: 100%
@@ -751,6 +760,10 @@ Respondents reported being paid in 27 different currencies. To make comparisons 
    +------------------------+------+---------------+-----+
    | Kenyan Shilling        | KES  | 0.008         | 1   |
    +------------------------+------+---------------+-----+
+
+.. raw:: html
+
+   </div>
 
 Salary
 ------

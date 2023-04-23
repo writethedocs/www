@@ -227,5 +227,50 @@
 }
 
 /* 2022 specific styles */
-#write-the-docs-salary-survey-2022-results #median-salary-by-respondent-region ul.simple li{float:left;width:25%}
-#write-the-docs-salary-survey-2022-results #median-salary-by-respondent-region ul.simple{overflow:auto;padding-left:20px}
+
+/* list styling */
+.survey-results #write-the-docs-salary-survey-2022-results #median-salary-by-respondent-region ul.simple li{float:left;width:25%}
+.survey-results #write-the-docs-salary-survey-2022-results #median-salary-by-respondent-region ul.simple{overflow:auto;padding-left:20px}
+
+/* general table styling */
+.survey-results #write-the-docs-salary-survey-2022-results table.docutils,
+.survey-results #write-the-docs-salary-survey-2022-results table.docutils th,
+.survey-results #write-the-docs-salary-survey-2022-results table.docutils td,
+.survey-results #write-the-docs-salary-survey-2022-results table.docutils tr,
+.survey-results #write-the-docs-salary-survey-2022-results table.docutils thead,
+.survey-results #write-the-docs-salary-survey-2022-results table.docutils tbody
+{border:none;border-collapse:separate} /* fix the random double-weight cell borders */
+.survey-results #write-the-docs-salary-survey-2022-results table caption{padding:0.75em;font-size:100%}
+.survey-results #write-the-docs-salary-survey-2022-results table{margin-bottom:1.5em}
+.survey-results #write-the-docs-salary-survey-2022-results table.docutils th{font-weight:normal;color:#000;padding-top:0.75em;padding-bottom:0.75em;background-color:#CCC}
+.survey-results #write-the-docs-salary-survey-2022-results table.docutils tbody td{padding-top:0.5em;padding-bottom:0.5em}
+.survey-results #write-the-docs-salary-survey-2022-results table.docutils tbody tr.row-even td{background-color:#fafafa}
+.survey-results #write-the-docs-salary-survey-2022-results table.docutils tbody tr.row-even:hover td{background-color:#ddd}
+.survey-results #write-the-docs-salary-survey-2022-results table.docutils tbody tr.row-odd td{background-color:#f2f2f2}
+.survey-results #write-the-docs-salary-survey-2022-results table.docutils tbody tr.row-odd:hover td{background-color:#ddd}
+
+/* figure styling */
+.survey-results #write-the-docs-salary-survey-2022-results div.figure p.caption,
+.survey-results #write-the-docs-salary-survey-2022-results figcaption{text-align:center;font-size:100%;margin-top:0.5em}
+.survey-results #write-the-docs-salary-survey-2022-results figure{margin-bottom:1.5em}
+
+/* details rollup */
+.survey-results #write-the-docs-salary-survey-2022-results details{padding:1em 0}
+.survey-results #write-the-docs-salary-survey-2022-results details .question.docutils.container{margin:0.5em 0;padding:0.5em 1em}
+.survey-results #write-the-docs-salary-survey-2022-results details + .section h3{margin-top:0.5em}
+.survey-results #write-the-docs-salary-survey-2022-results details + .section h4{margin-top:0.5em}
+.survey-results #write-the-docs-salary-survey-2022-results details + p{margin-top:0.5em}
+
+/* specific table styling */
+
+
+
+/* 2022 mobile specific styles */
+@media screen and (max-width: 870px) {
+  #write-the-docs-salary-survey-2022-results ul{margin-left:30px !important}
+  #write-the-docs-salary-survey-2022-results .question.docutils.container blockquote{margin:0}
+  #write-the-docs-salary-survey-2022-results .tablescroller{overflow-x:scroll}
+  #write-the-docs-salary-survey-2022-results caption{text-align:left}
+  #write-the-docs-salary-survey-2022-results #median-salary-by-respondent-region-employees ul.simple li{float:left;width:50%}
+  #write-the-docs-salary-survey-2022-results table{width:100% !important}
+}
