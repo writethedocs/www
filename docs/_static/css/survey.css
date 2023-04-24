@@ -239,7 +239,7 @@
 .survey-results #write-the-docs-salary-survey-2022-results table.docutils tr,
 .survey-results #write-the-docs-salary-survey-2022-results table.docutils thead,
 .survey-results #write-the-docs-salary-survey-2022-results table.docutils tbody
-{border:none;border-collapse:separate} /* fix the random double-weight cell borders */
+{border:none;border-collapse:separate} /* fixes the random double-weight cell borders */
 .survey-results #write-the-docs-salary-survey-2022-results table caption{padding:0.75em;font-size:100%}
 .survey-results #write-the-docs-salary-survey-2022-results table{margin-bottom:1.5em}
 .survey-results #write-the-docs-salary-survey-2022-results table.docutils th{font-weight:normal;color:#000;padding-top:0.75em;padding-bottom:0.75em;background-color:#CCC}
@@ -261,7 +261,55 @@
 .survey-results #write-the-docs-salary-survey-2022-results details + .section h4{margin-top:0.5em}
 .survey-results #write-the-docs-salary-survey-2022-results details + p{margin-top:0.5em}
 
-/* specific table styling */
+/* specific table styling: column centering */
+#write-the-docs-salary-survey-2022-results table thead tr th:nth-child(2),
+#write-the-docs-salary-survey-2022-results table tr td:nth-child(2),
+#write-the-docs-salary-survey-2022-results #tbl-2022-basis-of-employment-history thead tr th:nth-child(3),
+#write-the-docs-salary-survey-2022-results #tbl-2022-basis-of-employment-history tbody tr td:nth-child(3),
+#write-the-docs-salary-survey-2022-results #tbl-2022-currency-employees thead tr th:nth-child(3),
+#write-the-docs-salary-survey-2022-results #tbl-2022-currency-employees tbody tr td:nth-child(3)
+
+{text-align:center}
+
+/*column left-alignment */
+#write-the-docs-salary-survey-2022-results #tbl-2022-median-salary-by-respondent-region thead tr th:nth-child(2),
+#write-the-docs-salary-survey-2022-results #tbl-2022-median-salary-by-respondent-region tbody tr td:nth-child(2),
+#write-the-docs-salary-survey-2022-results #tbl-2022-organization-location-country thead tr th:nth-child(2),
+#write-the-docs-salary-survey-2022-results #tbl-2022-organization-location-country tbody tr td:nth-child(2),
+#write-the-docs-salary-survey-2022-results #tbl-2022-respondent-location-region-country thead tr th:nth-child(2),
+#write-the-docs-salary-survey-2022-results #tbl-2022-respondent-location-region-country tbody tr td:nth-child(2)
+
+{text-align:left}
+
+
+/* column right-alignment */
+#write-the-docs-salary-survey-2022-results table thead tr th:nth-child(3),
+#write-the-docs-salary-survey-2022-results table tbody tr td:nth-child(3),
+#write-the-docs-salary-survey-2022-results #tbl-2022-weekly-hours-worked thead tr th:nth-child(3),
+#write-the-docs-salary-survey-2022-results #tbl-2022-weekly-hours-worked tbody tr td:nth-child(3),
+#write-the-docs-salary-survey-2022-results .section#currencies table thead tr th:last-child,
+#write-the-docs-salary-survey-2022-results .section#currencies table tbody tr td:last-child,
+#write-the-docs-salary-survey-2022-results .section#salary table thead tr th:last-child,
+#write-the-docs-salary-survey-2022-results .section#salary table tbody tr td:last-child,
+#write-the-docs-salary-survey-2022-results #tbl-2022-organization-location-country thead tr th:last-child,
+#write-the-docs-salary-survey-2022-results #tbl-2022-organization-location-country tbody tr td:last-child,
+#write-the-docs-salary-survey-2022-results #tbl-2022-respondent-location-region-country thead tr th:last-child,
+#write-the-docs-salary-survey-2022-results #tbl-2022-respondent-location-region-country tbody tr td:last-child
+
+
+
+
+{text-align:right}
+
+
+/* table cells nowrap */
+#write-the-docs-salary-survey-2022-results #tbl-2022-median-salary-by-organization-size thead tr th:nth-child(3)
+
+
+{white-space:nowrap}
+
+
+/* column widths */
 
 
 

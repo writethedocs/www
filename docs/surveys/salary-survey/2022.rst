@@ -38,25 +38,25 @@ Basis of employment
 
 While the majority of respondents – historically and in 2022 – are employees, a proportion are classified as independent contractors, freelance operators or self-employed individuals. To better cater for the differences between these groups, we ran two different versions of the survey side by side, starting in 2021. 
 
-Unfortunately, due to the small number of contractor respondents, no statistically relevant data can be extracted regarding income or satisfaction for this group. The salary and salary satisfaction data is therefore drawn from employee respondents only. For all questions, the data is from both groups combined. 
+In 2022, 93.5% of respondents (491 individuals) were employees, and 6.5% (34 individuals) were independent contractors - similar ratios to previous years.
 
-In 2022, 93.5% of respondents were employees, and 6.5% were independent contractors - similar ratios to previous years.
+Unfortunately, due to the small number of contractor respondents, no statistically relevant data can be extracted regarding income or satisfaction for this group. The salary and salary satisfaction data is therefore drawn from employee respondents only. For all questions, the data is from both groups combined. 
 
 .. table:: Basis of employment (2019-2022)
    :width: 60%
    :name: tbl-2022-basis-of-employment-history
 
-   +------+-----------+-------------+
-   | Year | Employees | Contractors |
-   +======+===========+=============+
-   | 2019 |       652 |          42 |
-   +------+-----------+-------------+
-   | 2020 |       748 |          57 |
-   +------+-----------+-------------+
-   | 2021 |       887 |          72 |
-   +------+-----------+-------------+
-   | 2022 |       491 |          34 |
-   +------+-----------+-------------+
+   +-------------+-------------+-------------+
+   | Survey year |  Employees  | Contractors |
+   +=============+=============+=============+
+   | 2019        | 652 (93.9%) | 42 (6.1%)   |
+   +-------------+-------------+-------------+
+   | 2020        | 748 (92.9%) | 57 (7.1%)   |
+   +-------------+-------------+-------------+
+   | 2021        | 887 (92.5%) | 72 (7.5%)   |
+   +-------------+-------------+-------------+
+   | 2022        | 491 (93.5%) | 34 (6.5%)   |
+   +-------------+-------------+-------------+
 
 .. raw:: html
 
@@ -110,21 +110,21 @@ Of the 4 individuals who entered more than 60 hours, 3 reported working 65 hours
    :width: 50%
    :name: tbl-2022-weekly-hours-worked
 
-   +-------+-----+-------+
-   | Hours | No. | %     |
-   +=======+=====+=======+
-   | 1-20  |  10 | 1.9%  |
-   +-------+-----+-------+
-   | 21-30 |  15 | 2.9%  |
-   +-------+-----+-------+
-   | 31-40 | 324 | 62.4% |
-   +-------+-----+-------+
-   | 41-50 |  56 | 30.1% |
-   +-------+-----+-------+
-   | 51-60 |  10 | 1.9%  |
-   +-------+-----+-------+
-   | 60+   |   4 | 0.8%  |
-   +-------+-----+-------+
+   +--------------+-----+-------+
+   | Hours worked | No. | %     |
+   +==============+=====+=======+
+   | 1-20 hours   |  10 | 1.9%  |
+   +--------------+-----+-------+
+   | 21-30 hours  |  15 | 2.9%  |
+   +--------------+-----+-------+
+   | 31-40 hours  | 324 | 62.4% |
+   +--------------+-----+-------+
+   | 41-50 hours  |  56 | 30.1% |
+   +--------------+-----+-------+
+   | 51-60 hours  |  10 | 1.9%  |
+   +--------------+-----+-------+
+   | 61+ hours    |   4 | 0.8%  |
+   +--------------+-----+-------+
 
 .. raw:: html
 
@@ -172,7 +172,7 @@ Of all titles:
    :name: tbl-2022-top-job-titles
 
    +----------------------------+-----+-------+
-   | Job Title                  | No. |     % |
+   | Job title                  | No. |     % |
    +============================+=====+=======+
    | Technical Writer           | 146 | 27.8% |
    +----------------------------+-----+-------+
@@ -249,11 +249,11 @@ Although "Writer/Creator/Editor" was still the top category - 93.9% of responden
 Overall, respondents selected 57 different combinations of the 8 role categories.  
 
 .. table:: Top role category combinations (2022)
-   :width: 70%
+   :width: 80%
    :name: tbl-2022-top-role-category-combinations
 
    +-------------------------------------------------------+-----+-------+
-   | Role Categorization                                   | No. | %     |
+   | Role category combination                             | No. | %     |
    +=======================================================+=====+=======+
    | Writer/Creator/Editor                                 | 300 | 57.1% |
    +-------------------------------------------------------+-----+-------+
@@ -269,28 +269,28 @@ Overall, respondents selected 57 different combinations of the 8 role categories
    +-------------------------------------------------------+-----+-------+
 
 .. table:: Role categories (2022)
-   :width: 70%
+   :width: 80%
    :name: tbl-2022-single-role-categories
 
-   +-----------------------+-----+-------+
-   | Role Category         | No. | %     |
-   +=======================+=====+=======+
-   | Writer/Creator/Editor | 493 | 93.9% |
-   +-----------------------+-----+-------+
-   | Management            |  85 | 16.2% |
-   +-----------------------+-----+-------+
-   | Developer/Engineer    |  70 | 13.3% |
-   +-----------------------+-----+-------+
-   | Educator              |  66 | 12.6% |
-   +-----------------------+-----+-------+
-   | Advocate              |  41 |  7.8% |
-   +-----------------------+-----+-------+
-   | Support               |  38 |  7.2% |
-   +-----------------------+-----+-------+
-   | Marketing             |  26 |    5% |
-   +-----------------------+-----+-------+
-   | Other                 |  26 |    5% |
-   +-----------------------+-----+-------+
+   +-------------------------------------------------------+-----+-------+
+   | Role category                                         | No. | %     |
+   +=======================================================+=====+=======+
+   | Writer/Creator/Editor                                 | 493 | 93.9% |
+   +-------------------------------------------------------+-----+-------+
+   | Management                                            |  85 | 16.2% |
+   +-------------------------------------------------------+-----+-------+
+   | Developer/Engineer                                    |  70 | 13.3% |
+   +-------------------------------------------------------+-----+-------+
+   | Educator                                              |  66 | 12.6% |
+   +-------------------------------------------------------+-----+-------+
+   | Advocate                                              |  41 |  7.8% |
+   +-------------------------------------------------------+-----+-------+
+   | Support                                               |  38 |  7.2% |
+   +-------------------------------------------------------+-----+-------+
+   | Marketing                                             |  26 |    5% |
+   +-------------------------------------------------------+-----+-------+
+   | Other                                                 |  26 |    5% |
+   +-------------------------------------------------------+-----+-------+
 
 Of those who selected "Other", responses included project manager, product owner/manager, information architect, and UX writer. 
 
@@ -436,17 +436,17 @@ As Write the Docs is a documentation-focused community, it's not surprising that
    :width: 70%
    :name: tbl-2022-portion-of-role-actually-documentation-related
 
-   +-----------------+-----+-------+
-   | Portion of role | No. | %     |
-   +=================+=====+=======+
-   | 76%-100%        | 293 | 55.8% |
-   +-----------------+-----+-------+
-   | 51%-75%         | 160 | 30.5% |
-   +-----------------+-----+-------+
-   | 26%-50%         | 47  | 9.0%  |
-   +-----------------+-----+-------+
-   | 0-25%           | 25  | 4.8%  |
-   +-----------------+-----+-------+
+   +--------------------------------------+-----+-------+
+   | Portion of role                      | No. | %     |
+   +======================================+=====+=======+
+   | 76%-100%                             | 293 | 55.8% |
+   +--------------------------------------+-----+-------+
+   | 51%-75%                              | 160 | 30.5% |
+   +--------------------------------------+-----+-------+
+   | 26%-50%                              | 47  | 9.0%  |
+   +--------------------------------------+-----+-------+
+   | 0-25%                                | 25  | 4.8%  |
+   +--------------------------------------+-----+-------+
 
 Interestingly, of the respondents who indicated that documentation was the whole of their official job description, 31% reported spending less than three quarters of their daily work time on documentation, with 5% reporting less than half their time. 
 
@@ -541,7 +541,7 @@ As in previous years, the bulk of the changes were moving from on-site to remote
    :name: tbl-2022-work-location-pre-covid19
 
    +-------------------------+-----+--------+
-   | Location                | No. | %      |
+   | Work location           | No. | %      |
    +=========================+=====+========+
    | On-site (required)      | 138 | 48.76% |
    +-------------------------+-----+--------+
@@ -559,7 +559,7 @@ As in previous years, the bulk of the changes were moving from on-site to remote
    :name: tbl-2022-work-location-current
 
    +------------------------+-----+--------+
-   | Location               | No. | %      |
+   | Work location          | No. | %      |
    +========================+=====+========+
    | Remote (not required)  | 130 | 45.94% |
    +------------------------+-----+--------+
@@ -597,7 +597,7 @@ Not affected by COVID-19
    :name: tbl-2022-work-location-unaffected
 
    +------------------------+-----+-------+
-   | Work Location          | No. | %     |
+   | Work location          | No. | %     |
    +========================+=====+=======+
    | On-site (required)     | 11  |  4.5% |
    +------------------------+-----+-------+
@@ -615,22 +615,22 @@ Overall, this group was happy about their work location: 66.1% reported feeling 
 Breaking down attitudes by work location, those who are able to choose their work location - be it onsite, remote, or a combination - are generally happier than those who have their workplace stipulated by their employer. All of the negative responses were attributed to respondents required to be onsite, required to be remote, or partial (implying that one portion of the partial arrangement was required, and not that respondent's preference).
 
 .. table:: Feelings about work location - unaffected by COVID-19 (2022)
-   :width: 50%
+   :width: 70%
    :name: tbl-2022-work-location-feelings-unaffected
 
-   +---------------+-----+-------+
-   | Feelings      | No. | %     |
-   +===============+=====+=======+
-   | Very Negative |   0 |  0.0% |
-   +---------------+-----+-------+
-   | Negative      |   5 |  2.1% |
-   +---------------+-----+-------+
-   | Neutral       |  13 |  5.4% |
-   +---------------+-----+-------+
-   | Positive      |  64 | 26.4% |
-   +---------------+-----+-------+
-   | Very Positive | 160 | 66.1% |
-   +---------------+-----+-------+
+   +------------------------+-----+-------+
+   | Feelings               | No. | %     |
+   +========================+=====+=======+
+   | Very Negative          |   0 |  0.0% |
+   +------------------------+-----+-------+
+   | Negative               |   5 |  2.1% |
+   +------------------------+-----+-------+
+   | Neutral                |  13 |  5.4% |
+   +------------------------+-----+-------+
+   | Positive               |  64 | 26.4% |
+   +------------------------+-----+-------+
+   | Very Positive          | 160 | 66.1% |
+   +------------------------+-----+-------+
 
 Overall work location
 ---------------------
@@ -640,11 +640,11 @@ Combining the "current" work location for respondents affected by COVID-19 with 
 68.9% of all resondents work remotely, either by choice (41.7%) or as required by their employer (27.2%). Another 24.8% work partially on-site and partially remote. Only 6.3% work completely on-site (3.6% are required to do so and 2.7% do so by choice). 
 
 .. table:: Work location - overall (2022)
-   :width: 60%
+   :width: 70%
    :name: tbl-2022-work-location-overall
 
    +------------------------+-----+-------+
-   | Work Location          | No. | %     |
+   | Work location          | No. | %     |
    +========================+=====+=======+
    | On-site (required)     | 19  | 3.6%  |
    +------------------------+-----+-------+
@@ -660,22 +660,22 @@ Combining the "current" work location for respondents affected by COVID-19 with 
 Just over half of respondents reported feeling "very positive" about their work location, and another 31.4% felt "positive". 13.7% were "neutral", and 3.2% reported negative feelings. Only 0.8% of all repondents - 4 individuals - reported "very negative" feelings. 
 
 .. table:: Feelings about work location - overall (2022)
-   :width: 60%
+   :width: 70%
    :name: tbl-2022-work-location-feelings-overall
 
-   +---------------+-----+-------+
-   | Feelings      | No. | %     |
-   +===============+=====+=======+
-   | Very Negative | 4   | 0.8%  |
-   +---------------+-----+-------+
-   | Negative      | 17  | 3.2%  |
-   +---------------+-----+-------+
-   | Neutral       | 72  | 13.7% |
-   +---------------+-----+-------+
-   | Positive      | 165 | 31.4% |
-   +---------------+-----+-------+
-   | Very Positive | 267 | 50.9% |
-   +---------------+-----+-------+
+   +------------------------+-----+-------+
+   | Feelings               | No. | %     |
+   +========================+=====+=======+
+   | Very Negative          | 4   | 0.8%  |
+   +------------------------+-----+-------+
+   | Negative               | 17  | 3.2%  |
+   +------------------------+-----+-------+
+   | Neutral                | 72  | 13.7% |
+   +------------------------+-----+-------+
+   | Positive               | 165 | 31.4% |
+   +------------------------+-----+-------+
+   | Very Positive          | 267 | 50.9% |
+   +------------------------+-----+-------+
 
 Breaking this down by work location, the same patterns emerge. 89.1% of respondents who were working remote by choice reported feeling "very positive" (61.2%) or "positive" (27.9%), with only 0.9% feeling "negative" and no one reporting "very negative" feelings. For those working remote by requirement, while 92% were happy with the arrangement (67.1% "very positive" and 25.2% "positive"), 2.8% reported "negative" feelings.     
 
@@ -700,66 +700,66 @@ Respondents reported being paid in 27 different currencies. To make comparisons 
    <div class="tablescroller">
 
 .. table:: Currencies - employees (2022)
-   :width: 100%
+   :width: 80%
    :name: tbl-2022-currency-employees
 
-   +------------------------+------+---------------+-----+
-   | Currency               | Code | Exchange rate | No. |
-   +========================+======+===============+=====+
-   | United States Dollar   | USD  | 1             | 235 |
-   +------------------------+------+---------------+-----+
-   | Euro                   | EUR  | 1.053783      | 75  |
-   +------------------------+------+---------------+-----+
-   | Canadian Dollar        | CAD  | 0.769193      | 34  |
-   +------------------------+------+---------------+-----+
-   | Indian Rupee           | INR  | 0.012738      | 26  |
-   +------------------------+------+---------------+-----+
-   | British Pound Stirling | GBP  | 1.237188      | 23  |
-   +------------------------+------+---------------+-----+
-   | Romanian Leu           | RON  | 0.2126        | 21  |
-   +------------------------+------+---------------+-----+
-   | Russian Ruble          | RUB  | 0.015         | 18  |
-   +------------------------+------+---------------+-----+
-   | Australian Dollar      | AUD  | 0.694662      | 16  |
-   +------------------------+------+---------------+-----+
-   | Israeli Shekel         | NIS  | 0.298003      | 15  |
-   +------------------------+------+---------------+-----+
-   | Swedish Krona          | SEK  | 0.099175      | 4   |
-   +------------------------+------+---------------+-----+
-   | Czech Koruna           | CZK  | 0.042892      | 4   |
-   +------------------------+------+---------------+-----+
-   | New Zealand Dollar     | NZD  | 0.635617      | 3   |
-   +------------------------+------+---------------+-----+
-   | Hungarian Forint       | HUF  | 0.002707      | 2   |
-   +------------------------+------+---------------+-----+
-   | Norwegian Krone        | NOK  | 0.104386      | 2   |
-   +------------------------+------+---------------+-----+
-   | Armenian Dram          | AMD  | 0.0024        | 1   |
-   +------------------------+------+---------------+-----+
-   | Polish Zloty           | PLN  | 0.22511       | 1   |
-   +------------------------+------+---------------+-----+
-   | Croatian Kuna          | HRK  | 0.1387        | 1   |
-   +------------------------+------+---------------+-----+
-   | Brazilian Real         | BRL  | 0.195         | 1   |
-   +------------------------+------+---------------+-----+
-   | South African Rand     | ZAR  | 0.061331      | 1   |
-   +------------------------+------+---------------+-----+
-   | Japanese Yen           | JPY  | 0.007657      | 1   |
-   +------------------------+------+---------------+-----+
-   | South Korean Wan       | KRW  | 0.0008        | 1   |
-   +------------------------+------+---------------+-----+
-   | New Taiwan Dollar      | TWD  | 0.0333        | 1   |
-   +------------------------+------+---------------+-----+
-   | Swiss Franc            | CHF  | 1.048015      | 1   |
-   +------------------------+------+---------------+-----+
-   | Serbian Dinar          | RSD  | 0.0089        | 1   |
-   +------------------------+------+---------------+-----+
-   | Icelandic Krona        | ISK  | 0.0073        | 1   |
-   +------------------------+------+---------------+-----+
-   | Singapore Dollar       | SGD  | 0.725526      | 1   |
-   +------------------------+------+---------------+-----+
-   | Kenyan Shilling        | KES  | 0.008         | 1   |
-   +------------------------+------+---------------+-----+
+   +-----------------------------+------+-----+---------------+
+   | Currency                    | Code | No. | Exchange rate |
+   +=============================+======+=====+===============+
+   | United States Dollar        |  USD | 235 |             1 |
+   +-----------------------------+------+-----+---------------+
+   | Euro                        |  EUR | 75  |      1.053783 |
+   +-----------------------------+------+-----+---------------+
+   | Canadian Dollar             |  CAD | 34  |      0.769193 |
+   +-----------------------------+------+-----+---------------+
+   | Indian Rupee                |  INR | 26  |      0.012738 |
+   +-----------------------------+------+-----+---------------+
+   | British Pound Stirling      |  GBP | 23  |      1.237188 |
+   +-----------------------------+------+-----+---------------+
+   | Romanian Leu                |  RON | 21  |        0.2126 |
+   +-----------------------------+------+-----+---------------+
+   | Russian Ruble               |  RUB | 18  |         0.015 |
+   +-----------------------------+------+-----+---------------+
+   | Australian Dollar           |  AUD | 16  |      0.694662 |
+   +-----------------------------+------+-----+---------------+
+   | Israeli Shekel              |  NIS | 15  |      0.298003 |
+   +-----------------------------+------+-----+---------------+
+   | Swedish Krona               |  SEK | 4   |      0.099175 |
+   +-----------------------------+------+-----+---------------+
+   | Czech Koruna                |  CZK | 4   |      0.042892 |
+   +-----------------------------+------+-----+---------------+
+   | New Zealand Dollar          |  NZD | 3   |      0.635617 |
+   +-----------------------------+------+-----+---------------+
+   | Hungarian Forint            |  HUF | 2   |      0.002707 |
+   +-----------------------------+------+-----+---------------+
+   | Norwegian Krone             |  NOK | 2   |      0.104386 |
+   +-----------------------------+------+-----+---------------+
+   | Armenian Dram               |  AMD | 1   |        0.0024 |
+   +-----------------------------+------+-----+---------------+
+   | Polish Zloty                |  PLN | 1   |       0.22511 |
+   +-----------------------------+------+-----+---------------+
+   | Croatian Kuna               |  HRK | 1   |        0.1387 |
+   +-----------------------------+------+-----+---------------+
+   | Brazilian Real              |  BRL | 1   |         0.195 |
+   +-----------------------------+------+-----+---------------+
+   | South African Rand          |  ZAR | 1   |      0.061331 |
+   +-----------------------------+------+-----+---------------+
+   | Japanese Yen                |  JPY | 1   |      0.007657 |
+   +-----------------------------+------+-----+---------------+
+   | South Korean Wan            |  KRW | 1   |        0.0008 |
+   +-----------------------------+------+-----+---------------+
+   | New Taiwan Dollar           |  TWD | 1   |        0.0333 |
+   +-----------------------------+------+-----+---------------+
+   | Swiss Franc                 |  CHF | 1   |      1.048015 |
+   +-----------------------------+------+-----+---------------+
+   | Serbian Dinar               |  RSD | 1   |        0.0089 |
+   +-----------------------------+------+-----+---------------+
+   | Icelandic Krona             |  ISK | 1   |        0.0073 |
+   +-----------------------------+------+-----+---------------+
+   | Singapore Dollar            |  SGD | 1   |      0.725526 |
+   +-----------------------------+------+-----+---------------+
+   | Kenyan Shilling             |  KES | 1   |         0.008 |
+   +-----------------------------+------+-----+---------------+
 
 .. raw:: html
 
@@ -835,7 +835,7 @@ In order to protect the privacy of respondents, median salaries are not shown fo
 - Ukraine
 
 .. table:: Median salary by respondent region (2022)
-   :width: 100%
+   :width: 80%
    :name: tbl-2022-median-salary-by-respondent-region
 
    +---------------+----------------+-----+--------------+
@@ -871,91 +871,91 @@ In order to protect the privacy of respondents, median salaries are not shown fo
 Median salary by US state
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Out of the 37 US states represented in the results, only 5 had more than the minimum 10 respondents required to calculate a median by region. While California drew the most respondents (37), Washington took the top spot for median salary with USD $140,000.
+Out of the 37 US states represented in the results, only 5 had more than the minimum 10 respondents required to calculate a median by region. While California drew the most respondents (37), Washington took the top spot for median salary with USD $140,350.
 
 .. table:: Median salary by US state (2022)
-   :width: 100%
+   :width: 60%
    :name: tbl-2022-median-salary-by-us-state
 
-   +------------+-----+---------------------+
-   | US state   | No. | Median salary (USD) |
-   +============+=====+=====================+
-   | Washington |  12 |            $140,350 |
-   +------------+-----+---------------------+
-   | California |  37 |            $135,000 |
-   +------------+-----+---------------------+
-   | Oregon     |  15 |            $115,000 |
-   +------------+-----+---------------------+
-   | Colorado   |  13 |            $110,000 |
-   +------------+-----+---------------------+
-   | Texas      |  18 |             $95,000 |
-   +------------+-----+---------------------+
+   +--------------------+-----+------------------+
+   | US state           | No. |     Median (USD) |
+   +====================+=====+==================+
+   | Washington         |  12 |         $140,350 |
+   +--------------------+-----+------------------+
+   | California         |  37 |         $135,000 |
+   +--------------------+-----+------------------+
+   | Oregon             |  15 |         $115,000 |
+   +--------------------+-----+------------------+
+   | Colorado           |  13 |         $110,000 |
+   +--------------------+-----+------------------+
+   | Texas              |  18 |          $95,000 |
+   +--------------------+-----+------------------+
 
 Median salary by gender identity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Due to there being fewer than 10 respondents, non-binary and "other" gender identities could not be included in this section, and breakdowns by gender identity for regions other than North America and Europe are also not possible. 
 
-Median salary by gender identity - North America
-""""""""""""""""""""""""""""""""""""""""""""""""
+Illustrating the much-discussed gender pay gap in effect, the median salary for men was 14.4% higher than the median for women in North America, and 26.7% higher in Europe.
 
 .. table:: Median salary by gender identity - North America (2022)
-   :width: 100%
+   :width: 60%
    :name: tbl-2022-median-salary-by-gender-identity-north-america
 
    +-----------------+-----+--------------+
    | Gender identity | No. | Median (USD) |
    +=================+=====+==============+
-   | man             | 86  | 115,000      |
+   | man             | 86  | $115,000     |
    +-----------------+-----+--------------+
-   | woman           | 156 | 100,500      |
+   | woman           | 156 | $100,500     |
    +-----------------+-----+--------------+
-
-Median salary by gender identity - Europe
-"""""""""""""""""""""""""""""""""""""""""
 
 .. table:: Median salary by gender identity - Europe (2022)
-   :width: 100%
+   :width: 60%
    :name: tbl-2022-median-salary-by-gender-identity-europe
 
    +-----------------+-----+--------------+
    | Gender identity | No. | Median (USD) |
    +=================+=====+==============+
-   | man             | 61  | 57,960       |
+   | man             | 61  | $57,960      |
    +-----------------+-----+--------------+
-   | woman           | 86  | 45,729       |
+   | woman           | 86  | $45,729      |
    +-----------------+-----+--------------+
 
 Median salary by years experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As experience increases, median salary rises, ranging from $54,613 for those with 1-2 years of experience to $130,197 for those with 25-30 years of experience.
+As a general rule, as experience increases, median salary rises - ranging from $54,613 for those with 1-2 years of experience, peaking at $130,197 for those with 25-30 years of experience, and dropping off slightly to $115,500 for those with more than 30 years of experience. 
 
-.. table:: Median salary by years experience - Europe (2022)
-   :width: 100%
-   :name: tbl-2022-median-salary-by-years-experience-europe
+However, in this year's results there is a new spike in salaries for respondents with less than 1 year of experience - this group's median is USD $3,500 higher than the slightly more experienced bracket of 1-2 years.
 
-   +-------------------------------------+---------------------+
-   | Experience in documentation (years) | Median salary (USD) |
-   +=====================================+=====================+
-   | 0-1 years                           | 57,958              |
-   +-------------------------------------+---------------------+
-   | 1-2 years                           | 54,613              |
-   +-------------------------------------+---------------------+
-   | 2-5 years                           | 73,921.5            |
-   +-------------------------------------+---------------------+
-   | 5-10 years                          | 71,968.5            |
-   +-------------------------------------+---------------------+
-   | 10-15 years                         | 84,151.5            |
-   +-------------------------------------+---------------------+
-   | 15-20 years                         | 91,547              |
-   +-------------------------------------+---------------------+
-   | 20-25 years                         | 120,000             |
-   +-------------------------------------+---------------------+
-   | 25-30 years                         | 130,197             |
-   +-------------------------------------+---------------------+
-   | 30+ years                           | 115,500             |
-   +-------------------------------------+---------------------+
+.. table:: Median salary by years experience (2022)
+   :width: 60%
+   :name: tbl-2022-median-salary-by-years-experience
+
+   +-------------+-----+--------------+
+   | Experience  | No. | Median (USD) |
+   +=============+=====+==============+
+   | 0-1 years   | 21  | $57,958      |
+   +-------------+-----+--------------+
+   | 1-2 years   | 40  | $54,613      |
+   +-------------+-----+--------------+
+   | 2-5 years   | 98  | $73,921      |
+   +-------------+-----+--------------+
+   | 5-10 years  | 122 | $71,968      |
+   +-------------+-----+--------------+
+   | 10-15 years | 78  | $84,151      |
+   +-------------+-----+--------------+
+   | 15-20 years | 43  | $91,547      |
+   +-------------+-----+--------------+
+   | 20-25 years | 36  | $120,000     |
+   +-------------+-----+--------------+
+   | 25-30 years | 22  | $130,197     |
+   +-------------+-----+--------------+
+   | 30+ years   | 16  | $115,500     |
+   +-------------+-----+--------------+
+
+**TO DO: Median salary by years experience in Europe vs North America vs globally; compare to last year's results**
 
 Median salary by organization size
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -963,22 +963,22 @@ Median salary by organization size
 While there is a general trend for higher salaries at larger organizations, the uneven distribution of respondent numbers makes concrete conclusions difficult to draw. 
 
 .. table:: Median salary by organization size (2022)
-   :width: 100%
+   :width: 60%
    :name: tbl-2022-median-salary-by-organization-size
 
-   +--------------------------+-----+---------------------+
-   | Organization size        | No. | Median salary (USD) |
-   +==========================+=====+=====================+
-   | 1-50 employees           |  26 |             $66,324 |
-   +--------------------------+-----+---------------------+
-   | 51-1,000 employees       | 234 |             $80,000 |
-   +--------------------------+-----+---------------------+
-   | 1,001-10,000 employees   | 126 |             $79,989 |
-   +--------------------------+-----+---------------------+
-   | 10,001-100,000 employees |  50 |             $77,235 |
-   +--------------------------+-----+---------------------+
-   | 100,001+ employees       |  40 |             $95,127 |
-   +--------------------------+-----+---------------------+
+   +--------------------------+-----+--------------+
+   | Organization size        | No. | Median (USD) |
+   +==========================+=====+==============+
+   | 1-50 employees           |  26 |      $66,324 |
+   +--------------------------+-----+--------------+
+   | 51-1,000 employees       | 234 |      $80,000 |
+   +--------------------------+-----+--------------+
+   | 1,001-10,000 employees   | 126 |      $79,989 |
+   +--------------------------+-----+--------------+
+   | 10,001-100,000 employees |  50 |      $77,235 |
+   +--------------------------+-----+--------------+
+   | 100,001+ employees       |  40 |      $95,127 |
+   +--------------------------+-----+--------------+
 
 Benefits
 --------
@@ -1163,7 +1163,7 @@ Salary satisfaction
 Considering only their salary and benefits, employee respondents were asked to rate their level of satisfaction. The majority of respondents reported being satisfied (47.9%) or very satisfied (27.3%) with their salaries. Fewer participants indicated feeling neutral (14.7%), unsatisfied (7.9%), or very unsatisfied (2.2%) about their earnings.
 
 .. table:: Salary satisfaction (2022)
-   :width: 100%
+   :width: 70%
    :name: tbl-2022-employee-salary-satisfaction
 
    +------------------+------+-------+
@@ -1183,7 +1183,7 @@ Considering only their salary and benefits, employee respondents were asked to r
 Respondents were then asked to indicate reasons for any dissatisfaction - again, considering only their salary and benefits. The largest proportion of respondents - 42.4% - chose no reason (including 2 of the respondents who indicated they were "very unsatisfied").
 
 .. table:: Reasons for salary dissatisfaction (2022)
-   :width: 100%
+   :width: 70%
    :name: tbl-2022-employee-reasons-salary-dissatisfaction
 
    +----------------------------+------+-------+
@@ -1217,87 +1217,87 @@ Overall job satisfaction
 
 Respondents were asked to consider their overall employment situation - separate from salary and benefits - and rate their level of satisfaction. Most respondents reported being satisfied (46.8%) or very satisfied (32.6%) with their job. A smaller percentage of participants expressed feeling neutral (13.2%), unsatisfied (6.7%), or very unsatisfied (0.6%) about their employment.
 
-.. table:: Overall job dissatisfaction (2022)
+.. table:: Overall job satisfaction (2022)
    :width: 70%
    :name: tbl-2022-employee-overall-job-satisfaction
 
-   +------------------+-----+------+
-   | Satisfaction     | No. | %    |
-   +==================+=====+======+
-   | Very unsatisfied |   3 |  0.6 |
-   +------------------+-----+------+
-   | Unsatisfied      |  33 |  6.7 |
-   +------------------+-----+------+
-   | Neutral          |  65 | 13.2 |
-   +------------------+-----+------+
-   | Satisfied        | 230 | 46.8 |
-   +------------------+-----+------+
-   | Very satisfied   | 160 | 32.6 |
-   +------------------+-----+------+
+   +------------------+-----+-------+
+   | Satisfaction     | No. | %     |
+   +==================+=====+=======+
+   | Very unsatisfied |   3 |  0.6% |
+   +------------------+-----+-------+
+   | Unsatisfied      |  33 |  6.7% |
+   +------------------+-----+-------+
+   | Neutral          |  65 | 13.2% |
+   +------------------+-----+-------+
+   | Satisfied        | 230 | 46.8% |
+   +------------------+-----+-------+
+   | Very satisfied   | 160 | 32.6% |
+   +------------------+-----+-------+
 
 Respondents were then asked to select reasons for dissatisfaction, if any. Again, the largest proportion of respondents - 33.2% - did not choose or enter a reason (including one respondent who indicated they were "very unsatisfied"). 
 
 .. table:: Reasons for overall job dissatisfaction (2022)
-   :width: 100%
+   :width: 70%
    :name: tbl-2022-employee-reasons-overall-job-dissatisfaction
 
-   +---------------------------------------+-----+------+
-   | Reason                                | No. | %    |
-   +=======================================+=====+======+
-   | None                                  | 163 | 33.2 |
-   +---------------------------------------+-----+------+
-   | Undervalued or underfunded            | 140 | 28.5 |
-   +---------------------------------------+-----+------+
-   | Lack of pay transparency              |  94 | 19.1 |
-   +---------------------------------------+-----+------+
-   | Organizational politics               |  88 | 17.9 |
-   +---------------------------------------+-----+------+
-   | Workload too high                     |  86 | 17.5 |
-   +---------------------------------------+-----+------+
-   | No advancement                        |  85 | 17.3 |
-   +---------------------------------------+-----+------+
-   | Stress or pressure                    |  70 | 14.3 |
-   +---------------------------------------+-----+------+
-   | Bureaucractic overhead                |  67 | 13.6 |
-   +---------------------------------------+-----+------+
-   | Toolset                               |  65 | 13.2 |
-   +---------------------------------------+-----+------+
-   | Insufficient professional development |  60 | 12.2 |
-   +---------------------------------------+-----+------+
-   | Uninteresting work                    |  53 | 10.8 |
-   +---------------------------------------+-----+------+
-   | Management                            |  43 |  8.8 |
-   +---------------------------------------+-----+------+
-   | Lack of respect                       |  40 |  8.1 |
-   +---------------------------------------+-----+------+
-   | Job instability                       |  34 |  6.9 |
-   +---------------------------------------+-----+------+
-   | Unsupportive environment              |  33 |  6.7 |
-   +---------------------------------------+-----+------+
-   | Other                                 |  25 |  5.1 |
-   +---------------------------------------+-----+------+
-   | Co-workers                            |  22 |  4.5 |
-   +---------------------------------------+-----+------+
-   | No remote support                     |  18 |  3.7 |
-   +---------------------------------------+-----+------+
-   | Workload too low                      |  16 |  3.3 |
-   +---------------------------------------+-----+------+
-   | No remote work                        |  14 |  2.9 |
-   +---------------------------------------+-----+------+
-   | Discrimination - other                |   8 |  1.6 |
-   +---------------------------------------+-----+------+
-   | No office location                    |   7 |  1.4 |
-   +---------------------------------------+-----+------+
-   | Discrimination - gender               |   7 |  1.4 |
-   +---------------------------------------+-----+------+
-   | Discrimination - race or nationality  |   6 |  1.2 |
-   +---------------------------------------+-----+------+
-   | Bullying or harassment                |   5 |    1 |
-   +---------------------------------------+-----+------+
-   | Discrimination - age                  |   2 |  0.4 |
-   +---------------------------------------+-----+------+
-   | Discrimination - education            |   1 |  0.2 |
-   +---------------------------------------+-----+------+
+   +---------------------------------------+-----+-------+
+   | Reason                                | No. | %     |
+   +=======================================+=====+=======+
+   | None                                  | 163 | 33.2% |
+   +---------------------------------------+-----+-------+
+   | Undervalued or underfunded            | 140 | 28.5% |
+   +---------------------------------------+-----+-------+
+   | Lack of pay transparency              |  94 | 19.1% |
+   +---------------------------------------+-----+-------+
+   | Organizational politics               |  88 | 17.9% |
+   +---------------------------------------+-----+-------+
+   | Workload too high                     |  86 | 17.5% |
+   +---------------------------------------+-----+-------+
+   | No advancement                        |  85 | 17.3% |
+   +---------------------------------------+-----+-------+
+   | Stress or pressure                    |  70 | 14.3% |
+   +---------------------------------------+-----+-------+
+   | Bureaucractic overhead                |  67 | 13.6% |
+   +---------------------------------------+-----+-------+
+   | Toolset                               |  65 | 13.2% |
+   +---------------------------------------+-----+-------+
+   | Insufficient professional development |  60 | 12.2% |
+   +---------------------------------------+-----+-------+
+   | Uninteresting work                    |  53 | 10.8% |
+   +---------------------------------------+-----+-------+
+   | Management                            |  43 |  8.8% |
+   +---------------------------------------+-----+-------+
+   | Lack of respect                       |  40 |  8.1% |
+   +---------------------------------------+-----+-------+
+   | Job instability                       |  34 |  6.9% |
+   +---------------------------------------+-----+-------+
+   | Unsupportive environment              |  33 |  6.7% |
+   +---------------------------------------+-----+-------+
+   | Other                                 |  25 |  5.1% |
+   +---------------------------------------+-----+-------+
+   | Co-workers                            |  22 |  4.5% |
+   +---------------------------------------+-----+-------+
+   | No remote support                     |  18 |  3.7% |
+   +---------------------------------------+-----+-------+
+   | Workload too low                      |  16 |  3.3% |
+   +---------------------------------------+-----+-------+
+   | No remote work                        |  14 |  2.9% |
+   +---------------------------------------+-----+-------+
+   | Discrimination - other                |   8 |  1.6% |
+   +---------------------------------------+-----+-------+
+   | No office location                    |   7 |  1.4% |
+   +---------------------------------------+-----+-------+
+   | Discrimination - gender               |   7 |  1.4% |
+   +---------------------------------------+-----+-------+
+   | Discrimination - race or nationality  |   6 |  1.2% |
+   +---------------------------------------+-----+-------+
+   | Bullying or harassment                |   5 |    1% |
+   +---------------------------------------+-----+-------+
+   | Discrimination - age                  |   2 |  0.4% |
+   +---------------------------------------+-----+-------+
+   | Discrimination - education            |   1 |  0.2% |
+   +---------------------------------------+-----+-------+
 
 Of those respondents who chose "other" and entered additional reasons, many cited issues with management ("chaos", lack of leadership, not modelling corporate values, inexperienced and out of touch managers). Another common area of concern was around work location: being forced back into working on-site, or an employer refusing to consider remote work. On the other end of the spectrum, several respondents missed working face-to-face with co-workers or had issues with their remote work setup, such as timezone mismatches. 
 
@@ -1310,41 +1310,41 @@ Respondents in general selected far more reasons to be happy about their job tha
    :width: 70%
    :name: tbl-2022-employee-positive-aspects
 
-   +---------------------------+-----+------+
-   | Reasons                   | No. | %    |
-   +===========================+=====+======+
-   | Like/respect co-workers   | 436 | 88.8 |
-   +---------------------------+-----+------+
-   | Flexibility               | 412 | 83.9 |
-   +---------------------------+-----+------+
-   | Work-life balance         | 346 | 70.5 |
-   +---------------------------+-----+------+
-   | Reasonable expectations   | 345 | 70.3 |
-   +---------------------------+-----+------+
-   | Interesting               | 327 | 66.6 |
-   +---------------------------+-----+------+
-   | Manageable workload       | 322 | 65.6 |
-   +---------------------------+-----+------+
-   | Contributions valued      | 307 | 62.5 |
-   +---------------------------+-----+------+
-   | Like/respect organization | 304 | 61.9 |
-   +---------------------------+-----+------+
-   | Fair compensation         | 297 | 60.5 |
-   +---------------------------+-----+------+
-   | Respect                   | 285 |   58 |
-   +---------------------------+-----+------+
-   | Satisfied with benefits   | 278 | 56.6 |
-   +---------------------------+-----+------+
-   | Positive impact           | 270 |   55 |
-   +---------------------------+-----+------+
-   | Professional development  | 237 | 48.3 |
-   +---------------------------+-----+------+
-   | Career advancement        | 194 | 39.5 |
-   +---------------------------+-----+------+
-   | Other                     |  10 |    2 |
-   +---------------------------+-----+------+
-   | None                      |   1 |  0.2 |
-   +---------------------------+-----+------+
+   +---------------------------+-----+-------+
+   | Reasons                   | No. | %     |
+   +===========================+=====+=======+
+   | Like/respect co-workers   | 436 | 88.8% |
+   +---------------------------+-----+-------+
+   | Flexibility               | 412 | 83.9% |
+   +---------------------------+-----+-------+
+   | Work-life balance         | 346 | 70.5% |
+   +---------------------------+-----+-------+
+   | Reasonable expectations   | 345 | 70.3% |
+   +---------------------------+-----+-------+
+   | Interesting               | 327 | 66.6% |
+   +---------------------------+-----+-------+
+   | Manageable workload       | 322 | 65.6% |
+   +---------------------------+-----+-------+
+   | Contributions valued      | 307 | 62.5% |
+   +---------------------------+-----+-------+
+   | Like/respect organization | 304 | 61.9% |
+   +---------------------------+-----+-------+
+   | Fair compensation         | 297 | 60.5% |
+   +---------------------------+-----+-------+
+   | Respect                   | 285 |   58% |
+   +---------------------------+-----+-------+
+   | Satisfied with benefits   | 278 | 56.6% |
+   +---------------------------+-----+-------+
+   | Positive impact           | 270 |   55% |
+   +---------------------------+-----+-------+
+   | Professional development  | 237 | 48.3% |
+   +---------------------------+-----+-------+
+   | Career advancement        | 194 | 39.5% |
+   +---------------------------+-----+-------+
+   | Other                     |  10 |    2% |
+   +---------------------------+-----+-------+
+   | None                      |   1 |  0.2% |
+   +---------------------------+-----+-------+
 
 10 respondents who selected "other" and entered additional things that they liked about their job. The themes included:
 
@@ -1406,7 +1406,7 @@ Just 5.3% of organizations - the smallest proportion - had a fully open pay tran
    :name: tbl-2022-pay-transparency-policy
 
    +-----------------------------+-----+-------+
-   | Pay Transparency Policy     | No. | %     |
+   | Pay transparency policy     | No. | %     |
    +=============================+=====+=======+
    | No policy                   | 275 | 52.4% |
    +-----------------------------+-----+-------+
@@ -1450,7 +1450,7 @@ Three quarters of all respondents expressed support for pay transparency, with 4
    :name: tbl-2022-pay-transparency-support
 
    +------------------+-----+-------+
-   | Support Level    | No. | %     |
+   | Support level    | No. | %     |
    +==================+=====+=======+
    | Strongly oppose  | 5   | 1.0%  |
    +------------------+-----+-------+
@@ -1497,23 +1497,23 @@ Medium-sized organizations accounted for over half of the employers in the 2022 
    :width: 70%
    :name: tbl-2022-organization-size
 
-   +-------------------+-------------+------------+
-   | Organization size | Respondents | % of total |
-   +===================+=============+============+
-   | 1-10              | 7           | 1.3%       |
-   +-------------------+-------------+------------+
-   | 11-50             | 33          | 6.3%       |
-   +-------------------+-------------+------------+
-   | 51-100            | 54          | 10.3%      |
-   +-------------------+-------------+------------+
-   | 101-1,000         | 196         | 37.3%      |
-   +-------------------+-------------+------------+
-   | 1,001-10,000      | 137         | 26.1%      |
-   +-------------------+-------------+------------+
-   | 10,001-100,000    | 54          | 10.3%      |
-   +-------------------+-------------+------------+
-   | 100,000+          | 44          | 8.4%       |
-   +-------------------+-------------+------------+
+   +--------------------------+-------+-------+
+   | Organization size        | No.   |     % |
+   +==========================+=======+=======+
+   | 1-10 employees           | 7     | 1.3%  |
+   +--------------------------+-------+-------+
+   | 11-50 employees          | 33    | 6.3%  |
+   +--------------------------+-------+-------+
+   | 51-100 employees         | 54    | 10.3% |
+   +--------------------------+-------+-------+
+   | 101-1,000 employees      | 196   | 37.3% |
+   +--------------------------+-------+-------+
+   | 1,001-10,000 employees   | 137   | 26.1% |
+   +--------------------------+-------+-------+
+   | 10,001-100,000 employees | 54    | 10.3% |
+   +--------------------------+-------+-------+
+   | 100,000+ employees       | 44    | 8.4%  |
+   +--------------------------+-------+-------+
 
 Organization industry
 ---------------------
@@ -1573,7 +1573,7 @@ While each of the 33 industries in the list accounted for at least 3 individual 
    :name: tbl-2022-organization-industry
 
    +------------------------------------------------------------------------------------------------------------------------------------+-----+------------+
-   | Industry                                                                                                                           | No. | % of total |
+   | Industry                                                                                                                           | No. | %          |
    +====================================================================================================================================+=====+============+
    | Software Development, Software Development Tools (not industry-specific), Open Source                                              | 237 | 24.3%      |
    +------------------------------------------------------------------------------------------------------------------------------------+-----+------------+
@@ -1663,7 +1663,7 @@ Location
 The remaining organizations were based in 36 different countries, with no single nation accounting for more than 3% of the total. 
 
 .. table:: Organization location - country (2022)
-   :width: 100%
+   :width: 80%
    :name: tbl-2022-organization-location-country
 
    +---------------+----------------------+-----+-------+
@@ -1790,24 +1790,24 @@ Age
 As in previous surveys, two age brackets – 26-35 year olds and 36-45 year olds – made up 68.4% of the total number of respondents. The oldest bracket (66+) made up 1% of the total, while the youngest (18-25 year olds) made up 5.1%. Only 0.6% (3 individuals) did not provide an answer.  
 
 .. table:: Age group (2022)
-   :width: 70%
+   :width: 50%
    :name: tbl-2022-age-group
 
-   +-----------+------------+
-   | Age group | % of total |
-   +===========+============+
-   | 18-25     | 5.2%       |
-   +-----------+------------+
-   | 26-35     | 36.8%      |
-   +-----------+------------+
-   | 36-45     | 32%        |
-   +-----------+------------+
-   | 46-55     | 18.6%      |
-   +-----------+------------+
-   | 56-65     | 6.5%       |
-   +-----------+------------+
-   | 66+       | 5.2%       |
-   +-----------+------------+
+   +-----------------+-----+-------+
+   | Age group       | No. | %     |
+   +=================+=====+=======+
+   | 18-25 years     | 27  | 5.1%  |
+   +-----------------+-----+-------+
+   | 26-35 years     | 192 | 36.6% |
+   +-----------------+-----+-------+
+   | 36-45 years     | 167 | 31.8% |
+   +-----------------+-----+-------+
+   | 46-55 years     | 97  | 18.5% |
+   +-----------------+-----+-------+
+   | 56-65 years     | 34  | 6.5%  |
+   +-----------------+-----+-------+
+   | 66+ years       | 5   | 1.0%  |
+   +-----------------+-----+-------+
 
 Gender identity
 ---------------
@@ -1830,24 +1830,24 @@ Gender identity
 
    </details>
 
-57.6% of respondents identified as women, 39.9% as men, and 2.5% as non-binary or other.  2.1% did not provide an answer. 
+57.6% of respondents identified as women, 39.9% as men, and 2.5% as non-binary or other. 2.1% did not provide an answer. 
 These proportions have not significantly changed over the four surveys conducted. 
 
 .. table:: Gender identity (2022)
-   :width: 70%
+   :width: 50%
    :name: tbl-2022-gender-identity
 
-   +-----------------+------------+
-   | Gender identity | % of total |
-   +=================+============+
-   | Woman           | 57.6%      |
-   +-----------------+------------+
-   | Man             | 39.9%      |
-   +-----------------+------------+
-   | Non-binary      | 2.1%       |
-   +-----------------+------------+
-   | Other           | 0.4%       |
-   +-----------------+------------+
+   +-----------------+-----+-------+
+   | Gender identity | No. | %     |
+   +=================+=====+=======+
+   | Woman           | 296 | 56.4% |
+   +-----------------+-----+-------+
+   | Man             | 205 | 39.1% |
+   +-----------------+-----+-------+
+   | Non-binary      | 11  |  2.1% |
+   +-----------------+-----+-------+
+   | Other           | 2   |  0.4% |
+   +-----------------+-----+-------+
 
 Experience
 ----------
@@ -1884,29 +1884,29 @@ At the other end of the scale, 3.4% of respondents had 30 or more years of exper
 1 respondent chose not to provide a response.  
 
 .. table:: Experience (2022)
-   :width: 70%
+   :width: 50%
    :name: tbl-2022-experience
 
    +------------------+-----+-------+
-   | Years Experience | No. | %     |
+   | Experience       | No. | %     |
    +==================+=====+=======+
-   | 0-1              | 26  | 5.0%  |
+   | 0-1 years        | 26  | 5.0%  |
    +------------------+-----+-------+
-   | 1-2              | 43  | 8.2%  |
+   | 1-2 years        | 43  | 8.2%  |
    +------------------+-----+-------+
-   | 2-5              | 108 | 20.6% |
+   | 2-5 years        | 108 | 20.6% |
    +------------------+-----+-------+
-   | 5-10             | 130 | 24.8% |
+   | 5-10 years       | 130 | 24.8% |
    +------------------+-----+-------+
-   | 10-15            | 83  | 15.8% |
+   | 10-15 years      | 83  | 15.8% |
    +------------------+-----+-------+
-   | 15-20            | 52  | 9.9%  |
+   | 15-20 years      | 52  | 9.9%  |
    +------------------+-----+-------+
-   | 20-25            | 40  | 7.6%  |
+   | 20-25 years      | 40  | 7.6%  |
    +------------------+-----+-------+
-   | 25-30            | 24  | 4.6%  |
+   | 25-30 years      | 24  | 4.6%  |
    +------------------+-----+-------+
-   | 30+              | 18  | 3.4%  |
+   | 30+ years        | 18  | 3.4%  |
    +------------------+-----+-------+
 
 
@@ -1945,7 +1945,7 @@ The majority of respondents – 94.4% – listed college or university qualifica
 Technical or vocational qualifications accounted for 2.1% of the responses, and high school for 3%. A single respondent indicated that they had no formal educational qualifications, and a single respondent chose not to provide a response.
 
 .. table:: Education (2022)
-   :width: 70%
+   :width: 50%
    :name: tbl-2022-education
 
    +-------------------------+-----+-------+
@@ -1997,11 +1997,11 @@ In the respondent demographic data for this year’s survey, 43 different countr
 Overall, 69.7% of respondents across all countries were city dwellers, 23.4% resided in semi-dense regions, and only 6.9% classified their location as rural. Looking at individual regions, North America had a slightly higher percentage of semi-dense dwellers, while in Europe and Oceania cities were better represented.
 
 .. table:: Respondent location - area type (2022)
-   :width: 100%
+   :width: 50%
    :name: tbl-2022-respondent-location-area-type
 
    +------------+-----+-------+
-   | Area Type  | No. | %     |
+   | Area type  | No. | %     |
    +============+=====+=======+
    | City       | 366 | 69.7% |
    +------------+-----+-------+
@@ -2011,7 +2011,7 @@ Overall, 69.7% of respondents across all countries were city dwellers, 23.4% res
    +------------+-----+-------+
 
 .. table:: Respondent location - region and country (2022)
-   :width: 100%
+   :width: 80%
    :name: tbl-2022-respondent-location-region-country
 
    +---------------+----------------+-----+-------+
@@ -2119,7 +2119,7 @@ Overall, 69.7% of respondents across all countries were city dwellers, 23.4% res
    +---------------+----------------+-----+-------+
 
 .. table:: Respondent location - US state (2022)
-   :width: 100%
+   :width: 70%
    :name: tbl-2022-respondent-location-us-state
 
    +-----------------------+-----+-------+
