@@ -959,8 +959,6 @@ However, in this year's results there is a new spike in salaries for respondents
    | 30+ years   | 16  | $115,500     |
    +-------------+-----+--------------+
 
-**TO DO: Median salary by years experience in Europe vs North America vs globally; compare to last year's results**
-
 Median salary by organization size
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
