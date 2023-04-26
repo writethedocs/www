@@ -32,6 +32,30 @@ Project Listing
 
 Here are some of the projects that you can work on during Writing Day!
 
+Raspberry Pi
+~~~~~~~~~~~~
+
+At Raspberry Pi we build computers and microcontrollers, and develop the software, documentation, 
+and other elements that support them.
+
+The `documentation for Raspberry Pi <https://www.raspberrypi.com/news/bring-on-the-documentation/>`_ grew as we did: 
+organically. Over the years, hundreds of community contributors have made thousands of individual 
+pull requests, ranging from fixing small typos to contributing whole new sections.
+
+Our online documentation is marked up in AsciiDoc, lives in Git, and is built automatically into 
+a static site using GitHub Actions.
+
+Raspberry Pi is looking for Writing Day attendees to contribute to our open source documentation. 
+We're looking for contributions that focus on: 
+
+- Copy-editing
+- Narrative structure
+-  `Style Guide <https://github.com/raspberrypi/style-guide>`_ improvments
+
+We’re looking forward to talking to you about the sort of issues (no pun intended) that come up 
+when you’re dealing with a big corpus of unedited documentation that comes from a number of 
+different sources — at the same time as incorporating new material into the documentation repo.
+
 Step-ca
 ~~~~~~~
 
