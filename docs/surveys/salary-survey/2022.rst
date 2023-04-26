@@ -18,6 +18,12 @@ Now in its fourth year, the Write the Docs Salary Survey collects information fr
 
 The 2022 survey accumulated data from 525 participants, including both employees and independent contractors, located in 43 nations. Although the number of responses has decreased compared to previous years (with 959 in 2021, 805 in 2020, and 649 in 2019), the information obtained remains significant, and we trust that the resulting insights will aid community members in better understanding the salary landscape.
 
+.. container:: note
+   
+   .. rubric:: Note on independent contractors
+
+   Unfortunately, due to the small number of contractor respondents, no statistically relevant data can be extracted regarding income or satisfaction for this group. The salary and salary satisfaction data is therefore drawn from employee respondents only. For all other questions, the data is from both groups combined. 
+
 Feedback
 --------
 
@@ -39,8 +45,6 @@ Basis of employment
 While the majority of respondents – historically and in 2022 – are employees, a proportion are classified as independent contractors, freelance operators or self-employed individuals. To better cater for the differences between these groups, we ran two different versions of the survey side by side, starting in 2021. 
 
 In 2022, 93.5% of respondents (491 individuals) were employees, and 6.5% (34 individuals) were independent contractors - similar ratios to previous years.
-
-Unfortunately, due to the small number of contractor respondents, no statistically relevant data can be extracted regarding income or satisfaction for this group. The salary and salary satisfaction data is therefore drawn from employee respondents only. For all questions, the data is from both groups combined. 
 
 .. table:: Basis of employment (2019-2022)
    :width: 60%
