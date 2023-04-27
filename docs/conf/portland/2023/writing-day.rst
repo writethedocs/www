@@ -50,7 +50,7 @@ We're looking for contributions that focus on:
 
 - Copy-editing
 - Narrative structure
--  `Style Guide <https://github.com/raspberrypi/style-guide>`_ improvments
+-  `Style Guide <https://github.com/raspberrypi/style-guide>`_ improvements
 
 We’re looking forward to talking to you about the sort of issues (no pun intended) that come up 
 when you’re dealing with a big corpus of unedited documentation that comes from a number of 
