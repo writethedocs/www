@@ -50,7 +50,7 @@ Write the Docs is more than a conference. Every year we make sure to have a vari
    fun. They can be about anything you want. This is your chance to
    share something you are passionate about with the audience. Slides
    are not required.
--  **Join us at the Monday night social.** This is an event just for conference attendees, held on *Monday evening from 7pm-9pm*, with free snacks and drinks. It will be held at Loyal Legion (710 SE 6th Ave).
+-  **Join us at the Monday night social.** This is an event just for conference attendees, held on *Monday evening from 7pm-9pm*, with free snacks and drinks. It will be held at Loyal Legion (710 SE 6th Ave) with good non-alcoholic beverage options, as well as alcoholic. 
 
 The `Schedule page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/>`_ has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.
 
