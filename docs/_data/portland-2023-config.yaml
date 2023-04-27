@@ -154,7 +154,7 @@ about:
     "The main presentation track takes place from **May 8-9 (Monday and Tuesday) from 9am to 6pm**.
     During the main event we also run an :doc:`/conf/portland/2023/unconference`."
 
-  social_venue: TBD
+  social_venue: Loyal Legion (710 SE 6th Ave)
   venue: Revolution Hall
   photos: TBD
   mainroom: Main stage
@@ -264,8 +264,8 @@ flaghasschedule: True
 flagscheduleincomplete: True
 flaghasunconf: True
 flaghasshirts: False
+flaglivestreaming: True
 flagvideos: False
-flaglivestreaming: False
 flagpostconf: False
 
 # Truthy things that don't change
