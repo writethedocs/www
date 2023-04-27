@@ -28,22 +28,57 @@ Logistics
 - Tickets: `Register your hike ticket <https://ti.to/writethedocs/write-the-docs-portland-2023/with/hike-ticket>`_
 - Date & Time: Leaves promptly at **{{ hike.date }}**.
 - Start: **Lower Macleay Park** (`Map link <https://goo.gl/maps/bU7MAMsKCJAbG3zFA>`__). There is a pavilion at the park entrance where we will gather.
-- End: **Oregon Zoo** around 4-5pm -- There is a MAX stop here to take us back downtown (tickets will be provided).
-- `Visual of the hike <https://maps.google.com/maps?saddr=MacLeay+Park+Entrance,+NW+Upshur+St,+Portland,+OR&daddr=45.527373,-122.718589+to:45.5225885,-122.717297+to:oregon+zoo&hl=en&ll=45.52448,-122.717757&spn=0.023933,0.032358&sll=45.522345,-122.712822&sspn=0.023934,0.032358&geocode=FYLStgIdMI6v-CGojI77DIHw4SnVqz2N6QmVVDGojI77DIHw4Q%3BFU2xtgIdg3av-CmRNoxzkQmVVDFxAN8jMh2eKQ%3BFZyetgIdj3uv-CnD2fb_jgmVVDHuWX9DnHsevQ%3BFZpttgIdAoGv-CEm_N2esCDn5ykFuFa4LgqVVDEm_N2esCDn5w&oq=macleay+park&gl=us&dirflg=w&mra=dpe&mrsp=2&sz=15&via=1,2&t=m&z=15>`__
+- End (**CHANGED**): **Lower Macleay Park** around 4pm. 
 
 We will be hiking in the amazing `Forest Park <http://www.forestparkconservancy.org/>`__, the largest urban forested park in the country.
-It is conveniently located in Northwest Portland, not far from the conference venue. It's about a 35 minute walk
-from the venue to the park, or you can `take transit <https://www.google.com/maps/dir/Crystal+Ballroom,+1332+W+Burnside+St,+Portland,+OR+97209,+United+States/MacLeay+Park+Entrance,+Northwest+Upshur+Street,+Portland,+OR/@45.5290603,-122.707244,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x54950a02e43decb9:0xe289ad93ad758c66!2m2!1d-122.68483!2d45.522785!1m5!1m1!1s0x549509e98d3dabd5:0xe1f0810cfb8e8ca8!2m2!1d-122.712528!2d45.535874!3e3?hl=en>`__ to make it a bit quicker.
+It is conveniently located in Northwest Portland, and has a beautiful walk along a creek, and a beautiful view from the top.
 
-**Note**
+Hike Reroute
+------------
 
-The hike does not end where it starts. Take this into consideration when you plan.
-There is an out-and-back option if you choose to just go to Pittock Mansion, then return back down to the start.
+Unfortunately, there is a closure of the trail that we were planning to hike because of a large rain event this spring.
+This means the hike will turn into an "out and back" hike from Lower Macleay Trailhead to Pittock Mansion.
+The options for public transit at the bottom of the trail are a bit limited,
+so we will work to ensure folks have a ride, or can get a ride share back to your accommodation.
 
-{% include "conf/portland/hike.rst" %}
+What to bring
+~~~~~~~~~~~~~
 
-{% else %}
+May in Portland can be interesting. It will probably be in the 60s, with a chance of rain. So, please bring:
 
-We don't have an outing yet.
+- Comfortable shoes, that you are comfortable getting a bit muddy.
+- 1 liter of water. There is water available halfway through the hike.
+- A light rain jacket. It won't be cold, but it might drizzle on you.
+- High spirits!
 
-{% endif %}
+The hike
+--------
+
+The hike will be around 6 miles long, and have 1000 feet of elevation gain.
+This classifies as a *moderate* hike. We'll be going nice and slow so people can appreciate the views and forest.
+
+You can find a full description here: https://www.oregonhikers.org/field_guide/Pittock_Mansion_Hike
+
+Creek
+~~~~~
+
+The hike will follow Balch Creek up from the entrance of `Forest Park <http://www.forestparkconservancy.org/>`__.
+
+.. figure:: /_static/img/2015/hike/balch.jpg
+   :alt: Balch Creek
+
+   Balch Creek
+
+Summit
+~~~~~~
+
+Then we will switchback through beautiful forest until we get to Pittock Mansion.
+Pittock affords one of the best views of the city, and hopefully Mt. Hood & Mt. St. Helens if it's clear!
+
+.. figure:: /_static/img/2015/hike/pittock.jpg
+   :alt: The view from Pittock Mansion
+
+   The view from Pittock Mansion
+
+
+We hope you will join us for this pre-conference activity!

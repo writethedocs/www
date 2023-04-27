@@ -22,6 +22,8 @@ This means the hike will turn into an "out and back" hike from Lower Macleay Tra
 The options for public transit at the bottom of the trail are a bit limited,
 so we will work to ensure folks have a ride, or can get a ride share back to your accommodation.
 
+See more information on the `Hike page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/outing/>`_
+
 Live streaming
 --------------
 
