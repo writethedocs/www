@@ -32,6 +32,48 @@ Project Listing
 
 Here are some of the projects that you can work on during Writing Day!
 
+Rocky Linux
+~~~~~~~~~~~
+
+`Rocky Linux <https://rockylinux.org/>`_ is a community Enterprise Linux distribution 
+for everything from desktops to hyperscale! It is under intensive development by the 
+open source community.
+
+The `Rocky Linux Docs <https://docs.rockylinux.org>`_ use markdown and this `basic writing and formatting guide <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>`_ by GitHub.
+
+Review our documentation `Contribution Guide <https://github.com/rocky-linux/documentation#contribution-guide>`_ prior to submitting pull requests. We also have a `First-time Contributor Guide <https://docs.rockylinux.org/guides/contribute/beginners>`_ you might find helpful.
+
+Our Writing Day goals:
+
+- Review the `Rocky Linux documentation <https://github.com/rocky-linux/documentation>`_ against `vale.sh`
+- Improve the grammar and style
+- Edit docs to ensure our language is gender neutral, non-offensive, 
+  and fits word usage
+
+Want to stay involved in documentation after Writing Day? Join our `Mattermost Documentation channel <https://chat.rockylinux.org/rocky-linux/channels/documentation>`_.
+
+dbt
+~~~
+
+dbt enables data analysts and engineers to transform their data using the same 
+practices that software engineers use to build applications. `dbt Core <https://github.com/dbt-labs/dbt-core>`_ 
+is the center of our `open source repository <https://github.com/dbt-labs/docs.getdbt.com>`_.
+
+The dbt Labs Docs team is a small but mighty team and Writing Day is the first 
+time that we will be all together! We are looking for collaborators and dbt docs
+contributions. We have **prizes** for the top contributors!
+
+Our Writing Day goals:
+
+- Give potential contributors an overview of the open source tool chain we use, Docusaurus and GitHub.
+- `Address open doc issues <https://github.com/dbt-labs/docs.getdbt.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22>`_, 
+  issues labelled **Good First Issue** can be addressed with little dbt knowledge.
+- `Draft an operating model <https://github.com/dbt-labs/docs.getdbt.com/blob/current/contributing/operating-model/outline.md>`_ 
+  to help internal stakeholders understand how to interact with the dbt Docs team.
+
+Check out dbt's `contribution guidelines <https://github.com/dbt-labs/docs.getdbt.com#writing-content>`_ and - `style guide <https://github.com/dbt-labs/docs.getdbt.com/blob/current/contributing/content-style-guide.md>`__.
+
+
 Raspberry Pi
 ~~~~~~~~~~~~
 
@@ -50,7 +92,7 @@ We're looking for contributions that focus on:
 
 - Copy-editing
 - Narrative structure
--  `Style Guide <https://github.com/raspberrypi/style-guide>`_ improvements
+-  `Style Guide <https://github.com/raspberrypi/style-guide>`__ improvements
 
 We’re looking forward to talking to you about the sort of issues (no pun intended) that come up 
 when you’re dealing with a big corpus of unedited documentation that comes from a number of 
