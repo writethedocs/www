@@ -71,7 +71,7 @@ Our Writing Day goals:
 - `Draft an operating model <https://github.com/dbt-labs/docs.getdbt.com/blob/current/contributing/operating-model/outline.md>`_ 
   to help internal stakeholders understand how to interact with the dbt Docs team.
 
-Check out dbt's `contribution guidelines <https://github.com/dbt-labs/docs.getdbt.com#writing-content)`_ and - `style guide <https://github.com/dbt-labs/docs.getdbt.com/blob/current/contributing/content-style-guide.md>`_.
+Check out dbt's `contribution guidelines <https://github.com/dbt-labs/docs.getdbt.com#writing-content)`_ and - `style guide <https://github.com/dbt-labs/docs.getdbt.com/blob/current/contributing/content-style-guide.md>`__.
 
 
 Raspberry Pi
