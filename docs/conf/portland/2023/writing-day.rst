@@ -41,12 +41,12 @@ open source community.
 
 The `Rocky Linux Docs <https://docs.rockylinux.org>`_ use markdown and this `basic writing and formatting guide <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>`_ by GitHub.
 
-Review our documentation  `Contribution Guide <https://github.com/rocky-linux/documentation#contribution-guide>`_ prior to submitting pull requests. We also have a `First-time Contributor Guide <https://docs.rockylinux.org/guides/contribute/beginners>`_ you might find helpful.
+Review our documentation `Contribution Guide <https://github.com/rocky-linux/documentation#contribution-guide>`_ prior to submitting pull requests. We also have a `First-time Contributor Guide <https://docs.rockylinux.org/guides/contribute/beginners>`_ you might find helpful.
 
 Our Writing Day goals:
 
 - Review the `Rocky Linux documentation <https://github.com/rocky-linux/documentation>`_ against `vale.sh`
-- Improve the grammer and style
+- Improve the grammar and style
 - Edit docs to ensure our language is gender neutral, non-offensive, 
   and fits word usage
 
