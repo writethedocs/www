@@ -35,11 +35,11 @@ Here are some of the projects that you can work on during Writing Day!
 Rocky Linux
 ~~~~~~~~~~~
 
-Rocky Linux is a community Enterprise Linux distribution for everything 
-from desktops to hyperscale! It is under intensive development by our 
+`Rocky Linux https://rockylinux.org/`_ is a community Enterprise Linux distribution 
+for everything from desktops to hyperscale! It is under intensive development by the 
 open source community.
 
-The Rocky Linux docs use markdown and this `basic writing and formatting guide <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>`_ by GitHub.
+The `Rocky Linux Docs <https://docs.rockylinux.org>`_ use markdown and this `basic writing and formatting guide <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>`_ by GitHub.
 
 Review our documentation  `Contribution Guide <https://github.com/rocky-linux/documentation#contribution-guide>`_ prior to submitting pull requests. We also have a `First-time Contributor Guide <https://docs.rockylinux.org/guides/contribute/beginners>`_ you might find helpful.
 
