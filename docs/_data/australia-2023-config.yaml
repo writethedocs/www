@@ -196,7 +196,7 @@ flagcancelled: False
 
 # Truthy things that don't change
 flaghashike: False
-flaghasfood: False
+flaghasfood: True
 flaghasboat: False
 flaghaswritingday: True
 flaghasjobfair: False
