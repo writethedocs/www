@@ -19,14 +19,21 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
 {{date.day_one.dotw}}, {{date.day_one.date}}
 --------------------------------------------------
 
-{% endif %}
+.. raw:: html
 
-{% if flaghashike %}
+   {{ date.day_one.summary }}
+
+{% if flaghasschedule %}
+
+{% with day_schedule=schedule.outing %}
+{% include "include/schedule2021.rst" %}
+{% endwith %}
+
+{% endif %}
 
 Hike
 ~~~~
 
-The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/outing>`.
 If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
 
 * **Where**: Lower Macleay Park or Macleay Park Entrance.
@@ -49,30 +56,20 @@ Further details will be announced later.
 
 {% endif %}
 
+.. raw:: html
+
+   <hr>
 
 {{date.day_two.dotw}}, {{date.day_two.date}}
 -----------------------------------------
 
-The Writing Day will be held at **{{about.venue}}**.
+.. raw:: html
+
+   {{ date.day_two.summary }}
 
 {% if flaghasfood %}
-
-*Snacks and drinks will be provided all day.* 
-
+*Snacks and drinks will be provided throughout the day.*
 {% endif %}
-
-.. _{{shortcode}}-{{year}}-writing-day:
-
-Writing Day
-~~~~~~~~~~~
-
-* **Where**: {{about.venue}}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_two.writing_day_time }} {{ tz }}**
-{% endif %}
-* **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
-
-.. separator to fix list formatting
 
 {% if flaghasschedule %}
 
@@ -83,6 +80,29 @@ Writing Day
 {% else %}
   A detailed schedule will be announced soon.
 {% endif %}
+
+.. _{{shortcode}}-{{year}}-writing-day:
+
+Writing Day
+~~~~~~~~~~~
+
+Get together with other documentarians and work on an open source project and learn some new skills.
+
+* **Where**: {{about.unconfroom}}
+{% if not flaghasschedule %}
+* **When**: **{{ date.day_two.writing_day_time }} {{ tz }}**
+{% endif %}
+* **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
+
+Welcome Wagon Introduction
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Is this your first time at Write the Docs?
+Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees.
+We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new.
+
+* **Where**: {{about.unconfroom}}
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/welcome-wagon`
 
 {% if flaghasfood %}
 
@@ -100,36 +120,20 @@ and make sure you know your way around the conference venue.
 
 {% endif %}
 
-
 .. raw:: html
 
    <hr>
 
-
 {{date.day_three.dotw}}, {{date.day_three.date}}
 -----------------------------------------
 
-{{ date.day_three.summary }}
+.. raw:: html
+
+   {{ date.day_three.summary }}
 
 {% if flaghasfood %}
-
-*Snacks and drinks will be provided all day.*
-
+*Snacks and drinks will be provided throughout the day.*
 {% endif %}
-
-Conference Talks
-~~~~~~~~~~~~~~~~
-
-Talks are around 30 minutes, with _moderated on-stage Q&A_. 
-
-* **Where**: {{about.venue}}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_three.talk_time }} {{ tz }}**
-{% endif %}
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
-
-
-.. separator to fix list formatting
 
 {% if flaghasschedule %}
 
@@ -140,6 +144,17 @@ Talks are around 30 minutes, with _moderated on-stage Q&A_.
 {% else %}
     A detailed schedule will be announced soon.
 {% endif %}
+
+Conference Talks
+~~~~~~~~~~~~~~~~
+
+Talks are around 30 minutes, with moderated on-stage 10 minute Q&A.
+
+* **Where**: {{about.venue}}
+{% if not flaghasschedule %}
+* **When**: **{{ date.day_three.talk_time }} {{ tz }}**
+{% endif %}
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
 Unconference
 ~~~~~~~~~~~~
@@ -153,7 +168,7 @@ with each session happening during a corresponding talk on the main stage.
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
-.. _{{shortcode}}-{{year}}-social-event:
+{% if about.social_venue %}
 
 Social Event
 ~~~~~~~~~~~~
@@ -171,31 +186,18 @@ but expect a relaxed atmosphere where you can chat and network with your fellow 
 
    <hr>
 
+{% endif %}
 
 {{date.day_four.dotw}}, {{date.day_four.date}}
 -----------------------------------------
 
-{{ date.day_four.summary }}
+.. raw:: html
+
+   {{ date.day_four.summary }}
 
 {% if flaghasfood %}
-
-*Snacks and drinks will be provided all day.*
-
+*Snacks and drinks will be provided throughout the day.*
 {% endif %}
-
-Conference Talks
-~~~~~~~~~~~~~~~~
-
-Talks are around 30 minutes, with _moderated on-stage Q&A_. 
-
-* **Where**: {{about.venue}}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_four.talk_time }} {{ tz }}**
-{% endif %}
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
-
-
-.. separator to fix list formatting
 
 {% if flaghasschedule %}
 
@@ -207,15 +209,23 @@ Talks are around 30 minutes, with _moderated on-stage Q&A_.
   A detailed schedule will be announced soon.
 {% endif %}
 
+Conference Talks
+~~~~~~~~~~~~~~~~
+
+Talks are around 30 minutes, with moderated on-stage 10 minute Q&A.
+
+* **Where**: {{about.venue}}
+{% if not flaghasschedule %}
+* **When**: **{{ date.day_four.talk_time }} {{ tz }}**
+{% endif %}
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
+
 {% if flaghasjobfair %}
 
-.. _{{shortcode}}-{{year}}-job-fair:
+Sponsor Expo
+~~~~~~~~~~~~
 
-Job Fair
-~~~~~~~~
-
-We'll be holding a job fair on Tuesday morning.
-This is a great chance to talk with some of our sponsors who are hiring,
+The Sponsor Expo is a great chance to talk with some of our sponsors who are hiring,
 and get a sense of the job market.
 
 * **Where**: {{about.venue}}, {{about.job_fair_room }}
@@ -237,11 +247,3 @@ with each session happening during a corresponding talk on the main stage.
 * **When**: **{{ date.day_four.unconference_time }} {{ tz }}**
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
-
-Conference Closing
-~~~~~~~~~~~~~~~~~~
-
-We all say goodbye 👋
-
-We wrap up the conference a bit early on the last day,
-to allow time for any onward travel you may have.

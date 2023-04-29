@@ -12,7 +12,7 @@
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/welcome-wagon') }}">Welcome Wagon</a></li>
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/lightning-talks') }}">Lightning Talks</a></li>
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/unconference') }}">Unconference</a></li>
-                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/job-fair') }}">Job Fair</a></li>
+                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/job-fair') }}">Sponsor Expo</a></li>
                           {% if flaghaswritingday %}
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/writing-day') }}">Writing Day</a></li>
                           {% endif %}
@@ -28,12 +28,16 @@
                       </ul>
                   </li>
                   <li class="uk-parent">
-                      <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">Visit</a>
-                      <ul class="uk-nav-sub">
-                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">{{ city }}</a></li>
-                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/health') }}">Health and Safety Policy</a></li>
-                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/venue') }}">Venue</a></li>
-                      </ul>
+                      {% if not flagisvirtual %}
+                        <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">Visit</a>
+                        <ul class="uk-nav-sub">
+                            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">{{ city }}</a></li>
+                            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/health') }}">Health and Safety Policy</a></li>
+                            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/venue') }}">Venue</a></li>
+                        </ul>
+                      {% else %}
+                        <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/venue') }}">Venue</a>
+                      {% endif %}
                   </li>
 
                   <li class="uk-parent">

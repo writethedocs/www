@@ -3,6 +3,7 @@
 About the Venue
 ===============
 
-Our venue this year will be online!
-We're currently working to figure out the exact platform we'll be using.
-This page will be updated once we figure it out.
+The conference will take place online in Hopin_. About a week before the
+conference all ticket holders will receive details of how to register.
+
+.. _Hopin: https://hopin.com/

@@ -25,6 +25,7 @@ Writing words
 Grammar
 ~~~~~~~
 
+- |:newspaper:| `Complexity of languages </blog/newsletter-april-2023/#setting-boundaries>`__
 - |:newspaper:| `Grammar questions: possessives, punctuation in quotes, capitalisation </blog/newsletter-december-2018/#grammar-and-style-questions>`__
 
 Naming and terminology
@@ -280,6 +281,7 @@ Hiring
 Getting hired
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `Building an API portfolio </blog/newsletter-april-2023/#building-an-api-portfolio>`__
 - |:newspaper:| `Certifications and qualifications </blog/newsletter-july-2022/#certifications-and-qualifications>`__
 - |:newspaper:| `Breaking into tech writing </blog/newsletter-april-2022/#breaking-into-tech-writing>`__
 - |:newspaper:| `Job listings and managing your assumptions </blog/newsletter-march-2020/#job-listings-and-managing-your-assumptions>`__
@@ -577,6 +579,7 @@ Gathering it and acting on it.
 Measuring docs success
 ~~~~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Measuring productivity of docs teams </blog/newsletter-april-2023/#measuring-productivity-of-docs-teams>`__
 - |:movie_camera:| `Measuring Documentation Success in Open Source: Findings from Google’s Season of Docs Program </videos/portland/2022/measuring-documentation-success-in-open-source-findings-from-google-s-season-of-kassandra-dhillon/>`__
 - |:newspaper:| `Objectives and key results (OKRs) for documentation </blog/newsletter-march-2019/#objectives-and-key-results-okrs-for-documentation>`__
 - |:newspaper:| `A/B testing docs </blog/newsletter-may-2018/#a-b-testing-for-stronger-docs>`__
@@ -708,6 +711,7 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
+- |:newspaper:| `Setting boundaries </blog/newsletter-april-2023/#setting-boundaries>`__
 - |:newspaper:| `Push vs. pull for docs work </blog/newsletter-december-2022/#push-vs-pull-for-docs-work>`__
 - |:newspaper:| `Improving communication about what's in releases </blog/newsletter-september-2022/#improving-communication-about-what-s-in-releases>`__
 - |:movie_camera:| `Documentation as Marketing? From Conflict to Collaboration </videos/prague/2022/documentation-as-marketing-from-conflict-to-collaboration-mano-toth/>`__

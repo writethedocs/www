@@ -1,0 +1,146 @@
+outing:
+  - time: '12:45'
+    title: Arrive at trailhead
+  - time: '13:00'
+    title: Hike starts
+  - time: '16:30'
+    title: Hike ends - end time approximate
+
+writing_day:
+  - time: '8:00'
+    title: 'Doors open'
+  - time: '9:15'
+    title: Morning introduction - Introduction to Sprints & Project Introductions
+  - time: '9:30'
+    title: Team up and start working
+  - time: '11:00'
+    title: '<i>Welcome Wagon conference introduction and venue tour</i>'
+  - time: '12:00'
+    title: Lunch Break - Determine length with table
+  - time: '14:00'
+    title: '<i>Welcome Wagon conference introduction and venue tour</i>'
+  - time: '17:00'
+    title: '<b>End of Writing Day</b>'
+  - time: '17:00'
+    title: '<b>Reception starts</b>'
+  - time: '19:00'
+    title: '<b>Reception ends</b>'
+
+talks_day1:
+  - time: '8:00'
+    title: Doors open
+  - time: '8:15'
+    title: '<i>Welcome Wagon conference introduction and venue tour</i>'
+  - time: '9:00'
+    duration: '0:25'
+    title: Write the Docs team - Conference introduction
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:00'
+    title: "<b>Unconference Starts</b>"
+  - duration: '0:30'
+    slug: is-it-layer-cake-thinking-in-content-levels-ryan-young
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: winning-over-coworkers-collaborators-and-customers-to-a-new-knowledge-experien-jennifer-a-swallow
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:15'
+    title: '☕ Coffee break'
+  - duration: '0:30'
+    slug: myths-mistakes-and-missed-opportunities-lessons-learned-from-a-year-of-interv-linda-ikechukwu
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '1:20'
+    title: '🍽️ Lunch Break (80 mins)'
+  - duration: '0:30'
+    title: Lightning Talks (30 mins)
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: release-ready-docs-how-a-2-person-team-keeps-a-help-center-consistently-accurat-daniel-murphey
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: did-you-read-the-sop-procedure-writing-for-the-laboratory-sarah-greene
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:15'
+    title: '☕ Coffee break'
+  - duration: '0:30'
+    slug: zen-and-the-art-of-automanually-creating-api-documentation-an-inquiry-into-pro-dan-grabski
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: from-resistance-to-adoption-navigating-the-challenges-of-docs-like-code-adam-altman
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:00'
+    title: Day 1 wraps up
+  - time: '19:00'
+    title: "<b>Social Event</b>"
+  - time: '21:00'
+    title: "<b>Social Event Ends</b>"
+
+talks_day2:
+  - time: '8:00'
+    title: Doors open
+    duration: '1:00'
+  - duration: '0:00'
+    title: "<b>Sponsor Expo Starts</b>"
+  - duration: '0:00'
+    title: "<b>Unconference Starts</b>"
+  - duration: '0:30'
+    slug: the-visuals-your-users-never-saw-wait-that-s-most-of-them-caitlin-davey
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: the-descriptivist-manifesto-ed-cormany
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:15'
+    title: '☕ Coffee break'
+  - duration: '0:30'
+    slug: doing-data-driven-content-maintenance-alex-garnett
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: navigating-the-future-of-technical-writing-in-a-rapidly-evolving-tech-landscape-scott-truelove
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:00'
+    title: "<b>Sponsor Expo Ends</b>"
+  - duration: '1:20'
+    title: '🍽️ Lunch Break (80 mins)'
+  - duration: '0:30'
+    title: Lightning Talks (30 mins)
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: trauma-informed-documentation-taking-empathy-and-inclusive-language-to-the-next-ashleigh-rentz
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:15'
+    title: '☕ Coffee break'
+  - duration: '0:30'
+    slug: great-big-engineering-org-itty-bitty-docs-team-kari-halsted
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:15'
+    title: Write the Docs team - Conference closing
+  - duration: '0:20'
+    title: '<b>Main stage talks done</b>'
+  - duration: '0:00'
+    title: '<b>Conference ends 😔</b>'
+

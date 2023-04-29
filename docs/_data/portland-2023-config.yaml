@@ -32,10 +32,10 @@ buttons:
   #     link: /schedule
     - text: Buy a Ticket!
       link: /tickets
-    - text: See the talks!
-      link: /speakers
-  #  - text: See the Schedule!
-  #    link: /schedule
+  #  - text: See the talks!
+  #    link: /speakers
+    - text: See the Schedule!
+      link: /schedule
   #  - text: Read our guide
   #    link: /welcome-wagon
   #   - text: Watch the Live Stream
@@ -109,7 +109,7 @@ date: # how do we handle these? human readable would be nice.
   conference:
     event: Main Conference
     date: May 8-9
-    summary: The main days of the conference. We will be running one main track, as well as a <a href="/conf/portland/2023/job-fair/">Job Fair</a>, <a href="/conf/portland/2023/lightning-talks/">Lightning Talks</a> & <a href="/conf/portland/2023/unconference/">Unconference</a>.
+    summary: The main days of the conference. We will be running one main track of talks, as well as a <a href="/conf/portland/2023/job-fair/">Job Fair</a>, <a href="/conf/portland/2023/lightning-talks/">Lightning Talks</a> & <a href="/conf/portland/2023/unconference/">Unconference</a>.
     icon: conference
 
   # These are listed in the schedule
@@ -123,7 +123,7 @@ date: # how do we handle these? human readable would be nice.
   day_two:
     event: Writing Day
     date: May 7
-    summary: Join us for the <a href="/conf/portland/2023/writing-day/">Writing Day</a> and work with fellow documentarians on a project.
+    summary: Join us for the <a href="/conf/portland/2023/writing-day/">Writing Day</a> and work with fellow documentarians on a project. Followed by the reception in the evening.
     icon: writing
     dotw: Sunday
     writing_day_time: 9am-5pm
@@ -140,16 +140,16 @@ date: # how do we handle these? human readable would be nice.
   day_four:
     event: Conference Day 2
     date: May 9
-    summary: And the conference goes on! We are already starting to miss you. |:heart:|
+    summary: And the conference goes on! More talks and unconference today, along with our job fair!
     dotw: Tuesday
     talk_time: 9am-4pm
-    job_fair_time: 9:45am-12pm
+    job_fair_time: 9-12pm
     unconference_time: 1:35pm-4pm
     icon: conversation
   total_talk_days: 2
 
 about:
-  attendees: 400
+  attendees: 300
   summary:
     "The main presentation track takes place from **May 8-9 (Monday and Tuesday) from 9am to 6pm**.
     During the main event we also run an :doc:`/conf/portland/2023/unconference`."
@@ -196,10 +196,13 @@ sponsors:
     - name: jetbrains
       link: https://www.jetbrains.com/
       brand: JetBrains
-    - name: paligo
-      link: https://paligo.net/
-      brand: Paligo
-      width: 200px
+    - name: bloomberg-engineering
+      link: https://www.bloomberg.com/company/careers/working-here/engineering/
+      brand: Bloomberg Engineering
+    # - name: paligo
+    #   link: https://paligo.net/
+    #   brand: Paligo
+    #   width: 200px
     # - name: stackblitz-svg
     #   link: https://stackblitz.com/
     #   brand: StackBlitz
@@ -252,12 +255,12 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: True
+flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
-flagrunofshow: False
-flaghasschedule: False
+flagrunofshow: True
+flaghasschedule: True
 flagscheduleincomplete: True
 flaghasunconf: True
 flaghasshirts: False
