@@ -35,7 +35,7 @@ Here are some of the projects that you can work on during Writing Day!
 Rocky Linux
 ~~~~~~~~~~~
 
-`Rocky Linux https://rockylinux.org/`_ is a community Enterprise Linux distribution 
+`Rocky Linux <https://rockylinux.org/>`_ is a community Enterprise Linux distribution 
 for everything from desktops to hyperscale! It is under intensive development by the 
 open source community.
 
