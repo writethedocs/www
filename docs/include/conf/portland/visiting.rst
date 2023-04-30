@@ -9,8 +9,81 @@ Eating
 
 During the main days of the conference (Monday and Tuesday), ample food and refreshments are provided. For non-conference days and dinners, connect with new friends and explore Portland's vibrant scene. For those attendees with specific dietary needs, Portland is very inclusive and accommodating.
 
-*Recommendations coming soon!*
+Recommendations
+~~~~~~~~~~~~~~~
+These are some of our favorite destinations. As with any subjective list, we may have omitted some venues or overhyped some of them. Be sure to check hours of service before venturing out.
 
+Quick bites near Revolution Hall
+________________________________
+- `Meat Cheese Bread <https://meatcheesebread.com/>`__ (excellent sandwiches)
+
+- `Flattop & Salamander <https://www.flattopsalamander.com/>`__ (great brunch option, may be noisy)
+
+- `Sweetpea Baking Co. <https://sweetpeabaking.com/>`__ (popular vegan bakery)
+
+- `Sunee Thai and Lao Kitchen <https://www.suneepdx.com/>`__ (across the street from Revolution Hall)
+
+- `Danwei Canting <https://www.danweicanting.com/>`__ (Chinese dumplings, noodles, and street food)
+
+- `Grand Fir Brewing <https://www.grandfirbrewing.com/>`__ (closed Monday)
+
+- `Nostrana <https://nostrana.com/>`__ (dinner only)
+
+
+Food cart pods near Revolution Hall
+_____________________________________
+Can’t decide what to eat? Visit one of the many food cart pods on the Eastside.
+
+- `Cartopia <https://www.cartopiafoodcarts.com/>`__ (SE 12th and Hawthorne)
+
+- `Hawthorne Asylum Food Truck Pod <https://www.yelp.com/biz/hawthorne-asylum-portland>`__ (SE 11th and Madison)
+
+- `Li’l America <https://pdx.eater.com/2022/10/31/23433316/lil-america-food-cart-pod>`__ (SE 10th and Stark, carts are all BIPOC and/or LGBTQ+ owned) 
+
+Other Eastside Portland destinations
+____________________________________
+
+- `Nong’s Khao Man Gai <https://khaomangai.com/>`__ (renowned Thai street food)
+
+- `Sizzle Pie <https://www.sizzlepie.com/>`__ (local pizza chain with vegetarian and vegan options)
+
+- `Kinboshi Ramen <https://www.kinboshiramen.com/>`__ (authentic Japanese ramen, with Hakata-style specialty)
+
+- `Snappy’s <https://www.makeitsnappys.com/>`__ (sandwiches)
+
+- `Sharetea Burnside <https://www.clover.com/online-ordering/sharetea-portland>`__ (bubble tea)
+
+- `Voodoo Doughnut <https://www.voodoodoughnut.com/>`__ (iconic Portland doughnut institution)
+
+- `Fire on the Mountain <https://www.portlandwings.com/>`__ (hot wings–including vegan wing options)
+
+- `The Eastburn <https://theeastburn.com/>`__ (comfortable neighborhood pub)
+
+- `Hey Love <https://www.heylovepdx.com/>`__ (dinner and fancy cocktails, inside the Jupiter NEXT Hotel)
+
+- `Afuri Izakaya <https://afuri.us/>`__ (dinner, but gets busy)
+
+- `Kachka <https://www.kachkapdx.com/>`__ (renowned dinner destination)
+
+- `Level Beer: Level 3 Buckman Kerns <https://www.levelbeer.com/level3>`__ (brewery with food from Midcity Smashedburger and Nacho's House)
+
+
+Grocery and convenience stores
+______________________________
+
+- `Market of Choice <https://www.marketofchoice.com/locations-belmont/>`__ (SE 11th and Belmont)
+
+- `Plaid Pantry <https://www.plaidpantry.com/store/buckman/>`__ (SE 12th and Morrison)
+
+
+Additional resources
+____________________
+
+- `Where to Eat Exceptionally Well in East Portland <https://pdx.eater.com/maps/best-restaurants-east-portland-neighborhood-dining-guide>`__ (Eater PDX)
+
+- `Central Eastside <https://www.travelportland.com/neighborhoods/central-eastside/>`__ (Travel Portland)
+
+- `Portland’s Top 50 Restaurants <https://www.pdxmonthly.com/eat-and-drink/best-restaurants-portland>`__ (Portland Monthly)
 
 Where to stay
 -------------
@@ -113,7 +186,7 @@ You are able to park in the nearby neighborhood in street parking for free.
 Sundries
 --------
 
-- There is a `Market of Choice <https://goo.gl/maps/G2s16U4wKfBXL6Zm6>`_ located within walking distance of the venue.
+- There is a `Market of Choice <https://goo.gl/maps/G2s16U4wKfBXL6Zm6>`__ located within walking distance of the venue.
 
 Things to do in Portland
 ------------------------
