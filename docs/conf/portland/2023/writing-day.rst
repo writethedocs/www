@@ -32,6 +32,21 @@ Project Listing
 
 Here are some of the projects that you can work on during Writing Day!
 
+The Good Docs Project
+~~~~~~~~~~~~~~~~~~~~~
+
+`The Good Docs Project <https://thegooddocsproject.dev/>`_ is an open source community of 50+ technical writers, doc tools 
+experts, UX designers, and software engineers who are committed to improving the quality 
+of documentation in open source. We aim to educate and empower people to create 
+high-quality documentation by providing them with resources, best practices, and tools 
+to enhance their documentation in open source and beyond.
+
+Our project is divided into small working groups that consist of a few people 
+collaborating together to work on a Good Docs Project initiative or focus area of the 
+project. Throughout Writing Day, we’ll feature workshops that will give you a chance 
+to provide feedback on these key initiatives. Your feedback will help us improve and 
+shape our future roadmap!
+
 Rocky Linux
 ~~~~~~~~~~~
 
