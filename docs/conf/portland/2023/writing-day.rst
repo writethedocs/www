@@ -49,6 +49,26 @@ shape our future roadmap!
 
 Get an early preview of `The Good Docs Project writing day agenda <https://tinyurl.com/good-docs-portland-2023/>`_.
 
+Hank
+~~~~
+
+Hank is an experimental prototype to see whether we can fine-tine an LLM to function as a
+style guide editor. The `initial results <https://technicalwriting.tools/posts/style-guide-fine-tuning/>`__ suggest that it could work. Let's keep going! 
+
+We are looking for contributors to help create training data. This requires no programming 
+experience whatsoever. Here's how it works, pick a style guide rule, and then create 50 to 
+100 examples of  "before" and "after" text for that rule.
+
+For example, here is how you would format a style guide "before" and "after" rule against
+the use of ``please`` in a document:
+
+* Before: ``Please click the button.``
+* After: ``Click the button.``
+
+At the end of Writing Day we will create a new fine-tuned LLM and see if it "remembers" all 
+the rules. Please put on your "scientist" hat and remember that this is an experiment... 
+experiments don't always work!
+
 Rocky Linux
 ~~~~~~~~~~~
 
