@@ -45,7 +45,7 @@ Our project is divided into small working groups that consist of a few people
 collaborating together to work on a Good Docs Project initiative or focus area of the 
 project. Throughout Writing Day, we’ll feature workshops that will give you a chance 
 to provide feedback on these key initiatives. Your feedback will help us improve and 
-shape our future roadmap!
+shape our future roadmap! Get an early preview of `The Good Docs Project writing day agenda <https://tinyurl.com/good-docs-portland-2023/>`_.
 
 Rocky Linux
 ~~~~~~~~~~~
