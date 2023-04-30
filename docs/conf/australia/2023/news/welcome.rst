@@ -61,8 +61,7 @@ we will bringing our Opportunity Grants program back again this year.
 Sponsorship
 -----------
 
-We are planning to do similar sponsorship levels again this year as last year.
-In addition to the regular sponsorship levels, we have additional ways to sponsor our online events.
+Sponsorship levels will be consistent with last year.
 See our `sponsorship prospectus <https://www.writethedocs.org/conf/australia/2023/sponsors/prospectus/>`_ for all the options.
 
 We're always open to customisations on our sponsorships, especially given the new online format.
