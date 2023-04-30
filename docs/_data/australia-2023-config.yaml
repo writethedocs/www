@@ -14,7 +14,7 @@ hex: ea6852
 time_format: 12h
 
 photos:
-  default: _static/conf/images/headers/atlantic-group.png
+  default: _static/conf/images/headers/WTDHeader.png
 
 buttons:
   top:
