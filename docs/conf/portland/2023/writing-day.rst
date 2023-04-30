@@ -202,20 +202,22 @@ This sprint will give you a few options:
 The documentation is written in Sphinx & reStructuredText, but you can try out 
 your own project using any framework, as long as it's open source.
 
-Hank, an experiment in fine-tuning an LLM to become a style guide editor
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hank
+~~~~
 
 Hank is an experimental prototype to see whether we can fine-tine an LLM to function as a
-style guide editor. The `initial results <https://technicalwriting.tools/posts/style-guide-fine-tuning/>`_
-suggest that it could work. Let's keep going! We are looking for contributors to help
-create training data. This requires no programming experience whatsoever. Just pick
-a style guide rule, and then create 50 to 100 examples of "before" and "after" text for that rule.
-A "before" and "after" example for a style guide rule against having ``please`` in documentation
-looks like this:
+style guide editor. The `initial results <https://technicalwriting.tools/posts/style-guide-fine-tuning/>`__ suggest that it could work. Let's keep going! 
+
+We are looking for contributors to help create training data. This requires no programming 
+experience whatsoever. Here's how it works, pick a style guide rule, and then create 50 to 
+100 examples of  "before" and "after" text for that rule.
+
+For example, here is how you would format a style guide "before" and "after" rule against
+the use of ``please`` in a document:
 
 * Before: ``Please click the button.``
 * After: ``Click the button.``
 
-At the end of Writing Day we will create a new fine-tuned LLM and see if it "remembers" all the rules.
-Please put on your "scientist" hat and remember that this is an experiment... experiments don't always
-work!
+At the end of Writing Day we will create a new fine-tuned LLM and see if it "remembers" all 
+the rules. Please put on your "scientist" hat and remember that this is an experiment... 
+experiments don't always work!
