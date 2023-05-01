@@ -4,7 +4,7 @@
 * Phone: 757-705-0532
 * slack: ericholscher
 
-**Sasha Romijn**
+**Samuel Wright**
 
-* sasha@writethedocs.org
-* slack: sasha
+* sam@writethedocs.org
+* slack: plaindocs
