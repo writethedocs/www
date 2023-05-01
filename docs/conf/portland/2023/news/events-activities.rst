@@ -27,7 +27,7 @@ See more information on the `Hike page <https://www.writethedocs.org/conf/{{shor
 Live streaming
 --------------
 
-If you can't attend the conference in person, we will be broadcasting all the main stage presentations on our `livestream page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/livestream>`_ .
+If you can't attend the conference in person, we will be broadcasting all the main stage presentations on our `livestream page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/livestream/>`_ .
 You can join the #live-streaming channel on Slack to connect with other remote attendees, ask questions, and troubleshoot technical issues with the stream.
 We are excited to be able enable folks to participate in the conference from afar!
 
