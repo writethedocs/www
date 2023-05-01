@@ -4,9 +4,7 @@ Health and Safety Policy
 ========================
 
 This policy is up to date as of **November 2022**.
-**If we change this policy,
-it will only be to introduce additional restrictions, 
-and we will not be removing requirements.**
+**If we change this policy, it will only be to introduce additional restrictions, and we will not be removing requirements.**
 
 .. contents::
     :local:
@@ -40,9 +38,7 @@ If you are not sure whether your vaccination certificate is eligible, please ema
 Instead of proof of vaccination, participants may show proof of a negative COVID-19 test administered by a verified provider, to enter the event.
 
 * Provide a negative COVID-19 test upon entry to the event for the first time.
-* The test must be a PCR or NAAT test taken within 72 hours of picking up your badge on-site, or an Antigen test taken within 24 hours.
-* The test may NOT be an unproctored at-home test. Tests must be administered by a healthcare provider.
-* The test results must include your name and the date and time of the test.
+* The test must be a PCR or RAT test taken within 72 hours of picking up your badge on-site, or an Antigen test taken within 24 hours.
 
 If you are unable to take a test before the event, we will have a rapid test on-site for you to use to gain entry.
 
@@ -60,10 +56,8 @@ We are not currently requiring that masks be worn at all times in the venue.
 We will be providing N95 and cloth masks to attendees at our registration desk.
 There will also be signage indicating that masks are recommended.
 
-Of all our policies,
-this is the one most likely to change to a mask requirement if the COVID conditions require it.
-However,
-we are currently moving forward with additional outdoor and social distancing options at the venue.
+Of all our policies, this is the one most likely to change to a mask requirement if the COVID conditions require it.
+However, we are currently moving forward with additional outdoor and social distancing options at the venue.
 
 Onsite health and safety measures
 ---------------------------------
