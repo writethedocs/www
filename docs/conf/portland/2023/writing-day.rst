@@ -32,6 +32,108 @@ Project Listing
 
 Here are some of the projects that you can work on during Writing Day!
 
+The Good Docs Project
+~~~~~~~~~~~~~~~~~~~~~
+
+`The Good Docs Project <https://thegooddocsproject.dev/>`_ is an open source community of 50+ technical writers, doc tools 
+experts, UX designers, and software engineers who are committed to improving the quality 
+of documentation in open source. We aim to educate and empower people to create 
+high-quality documentation by providing them with resources, best practices, and tools 
+to enhance their documentation in open source and beyond.
+
+Our project is divided into small working groups that consist of a few people 
+collaborating together to work on a Good Docs Project initiative or focus area of the 
+project. Throughout Writing Day, we’ll feature workshops that will give you a chance 
+to provide feedback on these key initiatives. Your feedback will help us improve and 
+shape our future roadmap! 
+
+Get an early preview of `The Good Docs Project writing day agenda <https://tinyurl.com/good-docs-portland-2023/>`_.
+
+Hank
+~~~~
+
+Hank is an experimental prototype to see whether we can fine-tine an LLM to function as a
+style guide editor. The `initial results <https://technicalwriting.tools/posts/style-guide-fine-tuning/>`__ suggest that it could work. Let's keep going! 
+
+We are looking for contributors to help create training data. This requires no programming 
+experience whatsoever. Here's how it works, pick a style guide rule, and then create 50 to 
+100 examples of  "before" and "after" text for that rule.
+
+For example, here is how you would format a style guide "before" and "after" rule against
+the use of ``please`` in a document:
+
+* Before: ``Please click the button.``
+* After: ``Click the button.``
+
+At the end of Writing Day we will create a new fine-tuned LLM and see if it "remembers" all 
+the rules. Please put on your "scientist" hat and remember that this is an experiment... 
+experiments don't always work!
+
+Rocky Linux
+~~~~~~~~~~~
+
+`Rocky Linux <https://rockylinux.org/>`_ is a community Enterprise Linux distribution 
+for everything from desktops to hyperscale! It is under intensive development by the 
+open source community.
+
+The `Rocky Linux Docs <https://docs.rockylinux.org>`_ use markdown and this `basic writing and formatting guide <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>`_ by GitHub.
+
+Review our documentation `Contribution Guide <https://github.com/rocky-linux/documentation#contribution-guide>`_ prior to submitting pull requests. We also have a `First-time Contributor Guide <https://docs.rockylinux.org/guides/contribute/beginners>`_ you might find helpful.
+
+Our Writing Day goals:
+
+- Review the `Rocky Linux documentation <https://github.com/rocky-linux/documentation>`_ against `vale.sh`
+- Improve the grammar and style
+- Edit docs to ensure our language is gender neutral, non-offensive, 
+  and fits word usage
+
+Want to stay involved in documentation after Writing Day? Join our `Mattermost Documentation channel <https://chat.rockylinux.org/rocky-linux/channels/documentation>`_.
+
+dbt
+~~~
+
+dbt enables data analysts and engineers to transform their data using the same 
+practices that software engineers use to build applications. `dbt Core <https://github.com/dbt-labs/dbt-core>`_ 
+is the center of our `open source repository <https://github.com/dbt-labs/docs.getdbt.com>`_.
+
+The dbt Labs Docs team is a small but mighty team and Writing Day is the first 
+time that we will be all together! We are looking for collaborators and dbt docs
+contributions. We have **prizes** for the top contributors!
+
+Our Writing Day goals:
+
+- Give potential contributors an overview of the open source tool chain we use, Docusaurus and GitHub.
+- `Address open doc issues <https://github.com/dbt-labs/docs.getdbt.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22>`_, 
+  issues labelled **Good First Issue** can be addressed with little dbt knowledge.
+- `Draft an operating model <https://github.com/dbt-labs/docs.getdbt.com/blob/current/contributing/operating-model/outline.md>`_ 
+  to help internal stakeholders understand how to interact with the dbt Docs team.
+
+Check out dbt's `contribution guidelines <https://github.com/dbt-labs/docs.getdbt.com#writing-content>`_ and - `style guide <https://github.com/dbt-labs/docs.getdbt.com/blob/current/contributing/content-style-guide.md>`__.
+
+Raspberry Pi
+~~~~~~~~~~~~
+
+At Raspberry Pi we build computers and microcontrollers, and develop the software, documentation, 
+and other elements that support them.
+
+The `documentation for Raspberry Pi <https://www.raspberrypi.com/news/bring-on-the-documentation/>`_ grew as we did: 
+organically. Over the years, hundreds of community contributors have made thousands of individual 
+pull requests, ranging from fixing small typos to contributing whole new sections.
+
+Our online documentation is marked up in AsciiDoc, lives in Git, and is built automatically into 
+a static site using GitHub Actions.
+
+Raspberry Pi is looking for Writing Day attendees to contribute to our open source documentation. 
+We're looking for contributions that focus on: 
+
+- Copy-editing
+- Narrative structure
+-  `Style Guide <https://github.com/raspberrypi/style-guide>`__ improvements
+
+We’re looking forward to talking to you about the sort of issues (no pun intended) that come up 
+when you’re dealing with a big corpus of unedited documentation that comes from a number of 
+different sources — at the same time as incorporating new material into the documentation repo.
+
 Step-ca
 ~~~~~~~
 

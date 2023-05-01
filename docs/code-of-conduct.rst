@@ -149,7 +149,7 @@ If you believe anyone is in physical danger, please notify appropriate law enfor
 Reports about a Code of Conduct response team member
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If your report concerns a member of the Code of Conduct team of a conference, you can report the issue to any other team response member or any other organiser. For reports regarding meetup organisers, you can make the report to another meetup organiser, if there is one. If this is not possible, or for any reason you feel uncomfortable with this, you can also email conduct@writethedocs.org.
+If your report concerns a member of the Code of Conduct team of a conference, you can report the issue to any other response team member or any other organiser. For reports regarding meetup organisers, you can make the report to another meetup organiser, if there is one. If this is not possible, or for any reason you feel uncomfortable with this, you can also email conduct@writethedocs.org.
 
 If your report concerns a member of the :ref:`core-team`, which receives emails to conduct@writethedocs.org, you can report the issue individually to any of the other core team members.
 
