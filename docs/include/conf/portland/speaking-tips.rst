@@ -20,6 +20,7 @@ Venue specs
 ------------------
 
 The projector is 1920 x 1200 resolution at 60Hz via HDMI, DisplayPort or VGA
+
 Presentation format
 -------------------
 
