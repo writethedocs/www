@@ -32,6 +32,43 @@ Project Listing
 
 Here are some of the projects that you can work on during Writing Day!
 
+The Good Docs Project
+~~~~~~~~~~~~~~~~~~~~~
+
+`The Good Docs Project <https://thegooddocsproject.dev/>`_ is an open source community of 50+ technical writers, doc tools 
+experts, UX designers, and software engineers who are committed to improving the quality 
+of documentation in open source. We aim to educate and empower people to create 
+high-quality documentation by providing them with resources, best practices, and tools 
+to enhance their documentation in open source and beyond.
+
+Our project is divided into small working groups that consist of a few people 
+collaborating together to work on a Good Docs Project initiative or focus area of the 
+project. Throughout Writing Day, we’ll feature workshops that will give you a chance 
+to provide feedback on these key initiatives. Your feedback will help us improve and 
+shape our future roadmap! 
+
+Get an early preview of `The Good Docs Project writing day agenda <https://tinyurl.com/good-docs-portland-2023/>`_.
+
+Hank
+~~~~
+
+Hank is an experimental prototype to see whether we can fine-tine an LLM to function as a
+style guide editor. The `initial results <https://technicalwriting.tools/posts/style-guide-fine-tuning/>`__ suggest that it could work. Let's keep going! 
+
+We are looking for contributors to help create training data. This requires no programming 
+experience whatsoever. Here's how it works, pick a style guide rule, and then create 50 to 
+100 examples of  "before" and "after" text for that rule.
+
+For example, here is how you would format a style guide "before" and "after" rule against
+the use of ``please`` in a document:
+
+* Before: ``Please click the button.``
+* After: ``Click the button.``
+
+At the end of Writing Day we will create a new fine-tuned LLM and see if it "remembers" all 
+the rules. Please put on your "scientist" hat and remember that this is an experiment... 
+experiments don't always work!
+
 Rocky Linux
 ~~~~~~~~~~~
 
@@ -72,7 +109,6 @@ Our Writing Day goals:
   to help internal stakeholders understand how to interact with the dbt Docs team.
 
 Check out dbt's `contribution guidelines <https://github.com/dbt-labs/docs.getdbt.com#writing-content>`_ and - `style guide <https://github.com/dbt-labs/docs.getdbt.com/blob/current/contributing/content-style-guide.md>`__.
-
 
 Raspberry Pi
 ~~~~~~~~~~~~
