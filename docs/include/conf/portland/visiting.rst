@@ -7,7 +7,7 @@ We have a bunch of great resources for you.
 Eating
 ------
 
-During the main days of the conference (Monday and Tuesday), ample food and refreshments are provided. For non-conference days and dinners, connect with new friends and explore Portland's vibrant scene. For those attendees with specific dietary needs, Portland is very inclusive and accommodating.
+During the main days of the conference, ample snacks and refreshments are provided. For non-conference days and dinners, connect with new friends and explore Portland's vibrant scene. For those attendees with specific dietary needs, Portland is very inclusive and accommodating.
 
 Recommendations
 ~~~~~~~~~~~~~~~
@@ -15,6 +15,7 @@ These are some of our favorite destinations. As with any subjective list, we may
 
 Quick bites near Revolution Hall
 ________________________________
+
 - `Meat Cheese Bread <https://meatcheesebread.com/>`__ (excellent sandwiches)
 
 - `Flattop & Salamander <https://www.flattopsalamander.com/>`__ (great brunch option, may be noisy)
@@ -32,13 +33,14 @@ ________________________________
 
 Food cart pods near Revolution Hall
 _____________________________________
+
 Can’t decide what to eat? Visit one of the many food cart pods on the Eastside.
+
+- `Li’l America <https://pdx.eater.com/2022/10/31/23433316/lil-america-food-cart-pod>`__ (SE 10th and Stark, carts are all BIPOC and/or LGBTQ+ owned, **closest to the venue**) 
 
 - `Cartopia <https://www.cartopiafoodcarts.com/>`__ (SE 12th and Hawthorne)
 
 - `Hawthorne Asylum Food Truck Pod <https://www.yelp.com/biz/hawthorne-asylum-portland>`__ (SE 11th and Madison)
-
-- `Li’l America <https://pdx.eater.com/2022/10/31/23433316/lil-america-food-cart-pod>`__ (SE 10th and Stark, carts are all BIPOC and/or LGBTQ+ owned) 
 
 Other Eastside Portland destinations
 ____________________________________
