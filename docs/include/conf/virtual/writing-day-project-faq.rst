@@ -51,7 +51,7 @@ there are benefits to submitting it in advance.
 
 Potential benefits vary based on when you submit your project to Writing Day, they can include:
 
-* Free advertisment - your project info is available on our conference site project list for all visitors to find.
+* Free advertisement - your project info is available on our conference site project list for all visitors to find.
 * Social media promotion - we post about Writing Day and the cool projects that are submitted.
 * Increased views and attendance - the earlier you submit your project, the more visitors and attendees are likely to 
   see it and see it more than once. Making them more likely to seek you out during the event.
