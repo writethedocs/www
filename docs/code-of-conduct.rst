@@ -158,8 +158,8 @@ Portland conference Code of Conduct Team
 
 .. include:: include/conf/coc/na-coc.rst
 
-Prague conference Code of Conduct Team
---------------------------------------
+Atlantic conference Code of Conduct Team
+----------------------------------------
 
 .. include:: include/conf/coc/eu-coc.rst
 
@@ -167,11 +167,6 @@ Australia Code-of-Conduct Team
 ------------------------------
 
 .. include:: include/conf/coc/au-coc.rst
-
-Vilnius Code-of-Conduct Team
-------------------------------
-
-.. include:: include/conf/coc/vilnius-coc.rst
 
 
 Thanks

@@ -24,7 +24,7 @@ See more information on the `Hike page <https://www.writethedocs.org/conf/{{shor
 Live streaming
 --------------
 
-If you can't attend the conference in person, we will be broadcasting all the main stage presentations on our `livestream page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/livestream/>`_ .
+If you can't attend the conference in person, we will be broadcasting all the main stage presentations on our `Livestream page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/livestream/>`_ .
 You can join the #live-streaming channel on Slack to connect with other remote attendees, ask questions, and troubleshoot technical issues with the stream.
 We are excited to be able enable folks to participate in the conference from afar!
 
@@ -32,7 +32,7 @@ Be prepared
 -----------
 
 * **Read the Welcome Wagon Guide.** Our `Welcome Wagon Guide <https://www.writethedocs.org/conf/portland/{{year}}/welcome-wagon/>`_ is full of information on how to get the most out of the conference. There will also be a few Welcome Wagon events that will help you learn more about the conference.
-* **Read the Visiting Portland information**. Our `Visiting {{city}} <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>` page contains all the information you need for finding food, transit, and other things to do while you're in town.
+* **Read the Visiting Portland information**. Our `Visiting {{city}} <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`__ page contains all the information you need for finding food, transit, and other things to do while you're in town.
 * **Review the schedule.** The `Schedule page <https://www.writethedocs.org/conf/portland/{{year}}/schedule/>`_ has the latest and most complete information about the presentations. This is where we will also update any changes/cancellations if they occur.
 * **Review the Code of Conduct.** We have a wonderful community full of diverse and amazing people. We expect everyone to behave in a respectful manner at all conference events and online channels. Our `Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_ has the full information.
 
@@ -50,7 +50,7 @@ Get involved at the conference
    all day Monday and Tuesday. Want to chat with like-minded folks about
    a very specific thing? This is the place. We’ll have a sign-up board
    so you know what’s happening, and supplies to help you brainstorm.
--  **Plan a lightning talk.** We’ll have `lightning talks <https://www.writethedocs.org/conf/portland/2023/lightning-talks/>`__
+-  **Plan a lightning talk.** We’ll have `Lightning Talks <https://www.writethedocs.org/conf/portland/2023/lightning-talks/>`__
    each day after lunch. These are 5 minute presentations and a lot of
    fun. They can be about anything you want. This is your chance to
    share something you are passionate about with the audience. Slides
@@ -62,15 +62,13 @@ The `Schedule page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sch
 Thanks to our sponsors
 ----------------------
 
-Thanks to our sponsors for supporting the conference again this year.
-We've excited to have them around the conference participating in a few different ways,
-and hope you get a chance to talk with them while you're here.
+Thanks to our sponsors for supporting the conference again this year:
 
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-config.yaml
    :template: {{year}}/sponsors-simplelist.rst
 
-Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/portland/{{year}}/sponsors/prospectus/>`_ for details on how your company can get involved!
+We hope you'll have a chance to chat with them at the Sponsor Expo on Tuesday morning.
 
 See you soon!
 -------------
