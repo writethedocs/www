@@ -1,18 +1,15 @@
 :template: {{year}}/generic.html
 :banner: _static/conf/images/headers/venue.png
 
-.. post:: April 28, 2023
-   :tags: tickets, events, practical, shirts, {{shortcode}}-{{year}}
+.. post:: May 1, 2023
+   :tags: {{shortcode}}-{{year}}
 
-Events and Activities, Hike Update, and Livestream
-==================================================
+Welcome to Write the Docs Portland 2023
+=======================================
 
-We're less than 2 weeks out from the conference, and we hope everyone is getting excited!
+We're 1 week out from the conference, and we hope everyone is getting excited!
 
-In this update, we're happy to share with you the different events and activities that will be available as a part of the conference,
-discuss a change to the hike, and share details on the talk livestream.
-
-Remember to check out our `Welcome Wagon <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/welcome-wagon/>`_ guide and the `Visiting {{city}} <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`_ page for information around transit, food, and making the most out of the conference.
+In this update we discuss a change to the hike, share details on the livestream, and a few other updates as the conference approaches.
 
 Hike Reroute
 ------------
@@ -31,10 +28,16 @@ If you can't attend the conference in person, we will be broadcasting all the ma
 You can join the #live-streaming channel on Slack to connect with other remote attendees, ask questions, and troubleshoot technical issues with the stream.
 We are excited to be able enable folks to participate in the conference from afar!
 
-Events and activities
----------------------
+Be prepared
+-----------
 
-Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge:
+* **Read the Welcome Wagon Guide.** Our `Welcome Wagon Guide <https://www.writethedocs.org/conf/portland/{{year}}/welcome-wagon/>`_ is full of information on how to get the most out of the conference. There will also be a few Welcome Wagon events that will help you learn more about the conference.
+* **Read the Visiting Portland information**. Our `Visiting {{city}} <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>` page contains all the information you need for finding food, transit, and other things to do while you're in town.
+* **Review the schedule.** The `Schedule page <https://www.writethedocs.org/conf/portland/{{year}}/schedule/>`_ has the latest and most complete information about the presentations. This is where we will also update any changes/cancellations if they occur.
+* **Review the Code of Conduct.** We have a wonderful community full of diverse and amazing people. We expect everyone to behave in a respectful manner at all conference events and online channels. Our `Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_ has the full information.
+
+Get involved at the conference
+------------------------------
 
 -  **Join us on the hike**. If you're in town early, join us on Saturday for our traditional `hike <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/outing/>`_. This activity is a great chance to get to know your fellow documentarians in a smaller setting. The hike is free with your conference ticket, but space is limited!
 -  **Host a table or participate in Writing Day.** The `Writing Day <https://www.writethedocs.org/conf/portland/2023/writing-day/>`__
@@ -55,6 +58,19 @@ Write the Docs is more than a conference. Every year we make sure to have a vari
 -  **Join us at the Monday night social.** This is an event just for conference attendees, held on *Monday evening from 7pm-9pm*, with free snacks and drinks. It will be held at Loyal Legion (710 SE 6th Ave) with good non-alcoholic beverage options, as well as alcoholic. 
 
 The `Schedule page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/>`_ has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.
+
+Thanks to our sponsors
+----------------------
+
+Thanks to our sponsors for supporting the conference again this year.
+We've excited to have them around the conference participating in a few different ways,
+and hope you get a chance to talk with them while you're here.
+
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-config.yaml
+   :template: {{year}}/sponsors-simplelist.rst
+
+Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/portland/{{year}}/sponsors/prospectus/>`_ for details on how your company can get involved!
 
 See you soon!
 -------------
