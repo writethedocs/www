@@ -85,7 +85,7 @@ Any of the streets east of the venue (15th Ave and higher) allow for all-day str
 Entering the building
 *********************
 
-The main entrance is actually an assuming ground-level door on the west side of building.
+The main entrance is actually an unassuming ground-level door on the west side of building.
 Please enter there and follow the signs for event check-in.
 
 Quiet room
