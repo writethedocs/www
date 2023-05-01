@@ -14,9 +14,9 @@ In this update we discuss a change to the hike, share details on the livestream,
 Hike Reroute
 ------------
 
-Unfortunately, there is a closure of the trail that we were planning to hike because of a large rain event this spring.
-This means the hike will turn into an "out and back" hike from Lower Macleay Trailhead to Pittock Mansion.
-The options for public transit at the bottom of the trail are a bit limited,
+Unfortunately the trail that we were planning to hike is currently closed due to spring rain.
+This means that we'll hike "out and back" from Lower Macleay Trailhead to Pittock Mansion, and returning to the starting point.
+Options for public transit to and from the starting point are a bit limited,
 so we will work to ensure folks have a ride, or can get a ride share back to your accommodation.
 
 See more information on the `Hike page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/outing/>`_
@@ -26,7 +26,7 @@ Live streaming
 
 If you can't attend the conference in person, we will be broadcasting all the main stage presentations on our `Livestream page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/livestream/>`_ .
 You can join the #live-streaming channel on Slack to connect with other remote attendees, ask questions, and troubleshoot technical issues with the stream.
-We are excited to be able enable folks to participate in the conference from afar!
+We are excited that folks can watch the conference talks from anywhere in the world with an internet connection!
 
 Be prepared
 -----------

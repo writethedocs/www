@@ -25,15 +25,15 @@ It is conveniently located in Northwest Portland, and has a beautiful walk along
 Hike Reroute
 ------------
 
-Unfortunately, there is a closure of the trail that we were planning to hike because of a large rain event this spring.
-This means the hike will turn into an "out and back" hike from Lower Macleay Trailhead to Pittock Mansion.
-The options for public transit at the bottom of the trail are a bit limited,
+Unfortunately the trail that we were planning to hike is currently closed due to spring rain.
+This means that we'll hike "out and back" from Lower Macleay Trailhead to Pittock Mansion, and returning to the starting point.
+Options for public transit to and from the starting point are a bit limited,
 so we will work to ensure folks have a ride, or can get a ride share back to your accommodation.
 
 What to bring
 ~~~~~~~~~~~~~
 
-May in Portland can be interesting. It will probably be in the 60s, with a chance of rain. So, please bring:
+May in Portland can be interesting. The temperature will probably be in the 60s, with a chance of rain. So, please bring:
 
 - Comfortable shoes, that you are comfortable getting a bit muddy.
 - 1 liter of water. There is water available halfway through the hike.
