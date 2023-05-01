@@ -35,6 +35,7 @@ Be prepared
 * **Read the Visiting Portland information**. Our `Visiting {{city}} <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`__ page contains all the information you need for finding food, transit, and other things to do while you're in town.
 * **Review the schedule.** The `Schedule page <https://www.writethedocs.org/conf/portland/{{year}}/schedule/>`_ has the latest and most complete information about the presentations. This is where we will also update any changes/cancellations if they occur.
 * **Review the Code of Conduct.** We have a wonderful community full of diverse and amazing people. We expect everyone to behave in a respectful manner at all conference events and online channels. Our `Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_ has the full information.
+* **Review our Health & Safety policy**. Please read over our `Health and Safety policy <https://www.writethedocs.org/conf/portland/2023/health/>`__, so you understand the measures we're taking to keep our attendees safe. If you're attending the conference, please also upload your vaccination card to your tickets (see the email you received via our registration provider, Tito, for instructions).
 
 Get involved at the conference
 ------------------------------
