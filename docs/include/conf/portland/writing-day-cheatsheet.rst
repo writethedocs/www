@@ -52,7 +52,7 @@ If you're a Writing Day attendee looking to learn about contributing, this secti
 If you're a volunteer for a project, we have information and guide lines for you in a different section.
 
 First, find a project you want to contribute to! Not sure where to begin, check out the 
-:doc:`/conf/{{shortcode}}/{{year}}/writing-day/#project-listing` to see the current OSS projects and content opportunities for year event.
+:doc:`/conf/{{shortcode}}/{{year}}/writing-day/` project list to see the current OSS projects and content opportunities for year event.
 
 No matter your experience level, welcome! We are glad you're here. Even if you feel 
 that you don’t know that much, or don’t have the right skills or experience, or 
@@ -74,5 +74,5 @@ our best to help you find someone!
 Can’t find a project that interests you?
 ----------------------------------------
 
-If none of the projects on the :doc:`/conf/{{shortcode}}/{{year}}/writing-day/#project-listing` intrigue you, you’re always welcome 
+If nothing on the :doc:`/conf/{{shortcode}}/{{year}}/writing-day/` project list intrigues you, you’re always welcome 
 to work on your own projects as space allows. We’re happy to have you with us today!
