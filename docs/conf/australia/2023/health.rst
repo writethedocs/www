@@ -45,7 +45,7 @@ If you are unable to take a test before the event, we will have a rapid test on-
 Other Testing Encouraged
 ------------------------
 
-We strongly encourage attendees to test themselves for COVID before and during the conference. Rapid tests are available for sale at pharmacies in Oregon [(Oregon Government - COVID-19 Testing and Vaccine Locator)](https://govstatus.egov.com/or-oha-covid-19-testing)
+We strongly encourage attendees to test themselves for COVID before and during the conference. Rapid tests are available for sale at pharmacies throughout Melbourne.
 
 Additionally, we intend to provide free tests to attendees who need them at registration, subject to availability. 
 
