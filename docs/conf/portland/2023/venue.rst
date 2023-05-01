@@ -13,7 +13,7 @@ and still has some lockers in the hallway for that extra ambiance.
 The venue has a large and beautiful primary theater,
 as well as many other social spaces:
 
-* The Assembly Lounge where we will be hosting our Unconference discussions
+* The Library & Astoria Room where we will be hosting our Unconference discussions
 * The Sunset Room which will be our Quiet room
 * The Library room where our snacks and drinks catering will happen
 * An on-site restaurant and coffee shop!
@@ -80,12 +80,13 @@ Parking
 *******
 
 There are two ADA spots in the guest parking lot and there is no charge to use these spots.
+Any of the streets east of the venue (15th Ave and higher) allow for all-day street parking.
 
 Entering the building
 *********************
 
-The main entrance is actually an assuming ground-level door on the west side of building.
-Please enter there and come to the second floor for event check-in.
+The main entrance is actually an unassuming ground-level door on the west side of building.
+Please enter there and follow the signs for event check-in.
 
 Quiet room
 **********
@@ -96,7 +97,7 @@ This room is intended to be a calm and quiet place for anyone who needs to have 
 Parents room
 ************
 
-We don't have a dedicated Parents Room but we have the ability to provide a private space for you on request.
+We have a dedicated Parents room that is available as needed. Please check in with registration to get the access information.
 
 Did we miss something?
 **********************
