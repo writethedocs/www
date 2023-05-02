@@ -108,7 +108,26 @@ Our Writing Day goals:
 - `Draft an operating model <https://github.com/dbt-labs/docs.getdbt.com/blob/current/contributing/operating-model/outline.md>`_ 
   to help internal stakeholders understand how to interact with the dbt Docs team.
 
-Check out dbt's `contribution guidelines <https://github.com/dbt-labs/docs.getdbt.com#writing-content>`_ and - `style guide <https://github.com/dbt-labs/docs.getdbt.com/blob/current/contributing/content-style-guide.md>`__.
+Check out dbt's `contribution guidelines <https://github.com/dbt-labs/docs.getdbt.com#writing-content>`_ and `style guide <https://github.com/dbt-labs/docs.getdbt.com/blob/current/contributing/content-style-guide.md>`__.
+
+Writerside
+~~~~~~~~~~
+
+`Writerside <https://jb.gg/writerside>`_ is an authoring and publication solution for
+writing technical docs built on the same platform as JetBrains IDEs. It comes with
+a handful of doc templates out of the box. You can use them to author common types
+of content like overviews, how-to guides, and reference material. Our goal is to
+share best practices and help writers who are starting new projects discover
+templates that help them achieve their goals.
+
+We hope to expand our `template library <https://github.com/JetBrains/writerside-project-templates/blob/main/Writerside/topics/Default-topic.md>`_, to include:
+
+- Templates for different industries and audiences
+- Templates for entire projects
+
+If you have experience in this area or are curious to know more, we welcome your
+participation. If you are about to start a new project, join us to see if these
+templates help kickstart your work.
 
 Raspberry Pi
 ~~~~~~~~~~~~
