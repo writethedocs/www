@@ -1,8 +1,8 @@
-Visiting Portland
-=================
-
 Wondering where to stay and how to get around once you get to Portland?
 We have a bunch of great resources for you.
+
+.. contents::
+    :depth: 2
 
 Eating
 ------
