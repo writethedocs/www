@@ -1,0 +1,204 @@
+name: Australia
+
+shortcode: australia # prague australia?
+year: 2023
+city: Melbourne
+local_area: Australia
+area: Australia
+area_adj: Australian
+tz: AEDT
+email: australia@writethedocs.org
+color: coral
+rgb: 234, 104, 82
+hex: ea6852
+time_format: 12h
+
+photos:
+  default: _static/conf/images/headers/WTDHeader.png
+
+buttons:
+  top:
+   - text: Read our latest news
+     link: /news/welcome
+  #  - text: Sponsor us
+  #    link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
+  #   - text: Date and ticket information
+  #     link: /news/announcing-virtual-conf-dates-tickets
+  #   - text: Read our conference guide
+  #     link: /welcome-wagon
+  #   - text: See the Schedule!
+  #     link: /schedule
+  #  - text: Buy a Ticket!
+  #    link: /tickets
+  #  - text: See the talks!
+  #    link: /speakers
+  #  - text: See the Schedule!
+  #    link: /schedule
+  #  - text: Read our guide
+  #    link: /welcome-wagon
+  #   - text: Watch the Live Stream
+  #     link: /livestream
+  #   - text: Watch the videos!
+  #     link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpnDhFvXG8GprqlLlzSQRBui
+  #   - text: Thanks for coming
+  #     link: /news/thanks-recap
+  bottom:
+     - text: Welcome to our conference
+       link: /news/welcome
+  #  - text: Sponsor the conference
+  #    link: /sponsors/prospectus
+  #   - text: Submit a Talk
+  #     link: /cfp
+  #   - text: See the Schedule!
+  #     link: /schedule
+  #   - text: Date and ticket information
+  #     link: /news/announcing-virtual-conf-dates-tickets
+  #   - text: See the talks!
+  #     link: /speakers
+  #   - text: Buy a Ticket!
+  #     link: /tickets
+  #  - text: Read our guide
+  #    link: /welcome-wagon
+  #  - text: See the schedule!
+  #    link: /schedule
+  #   - text: Watch the Live Stream
+  #     link: /livestream
+  #   - text: Browse the photos
+  #     link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+  #   - text: Watch the videos!
+  #     link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+
+tickets:
+  corporate:
+    price: $250
+  independent:
+    price: $150
+  student:
+    price: $50
+
+sponsorship:
+  first_draft:
+    price: $1,500
+  second_draft:
+    price: $2,500
+  publisher:
+    price: $4,500
+  patron:
+    price: $8,500
+  keystone:
+    price: $12,500
+
+shirts:
+  url: https://teespring.com/wtd-pdx-2023
+  ends: "Dec 31, 2023"
+
+date: # how do we handle these? human readable would be nice.
+  main: "**December 7-8, 2022**"
+  short: Dec 7-8, 2022
+  tickets_live: "July 2022"
+  month: December
+
+  # Conference is special for the index to show the combined conference days
+  # conference:
+    # event: Main Conference
+    # date: Dec 8-9
+    # summary: The main days of the conference. We will be running one main track, as well as <a href="/conf/australia/2022/lightning-talks/">Lightning Talks</a> & <a href="/conf/australia/2022/unconference/">Unconference</a>.
+    # icon: conference
+
+  # These are listed in the schedule
+  day_one:
+    event: Conference Day 1
+    date: December 7
+    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
+    dotw: Thursday
+    talk_time: 09:00-16:00
+    unconference_time: 13:30-15:30
+    icon: conference
+  day_two:
+    event: Conference Day 2
+    date: December 8
+    summary: And the conference goes on! We are already starting to miss you.
+    dotw: Friday
+    talk_time: 09:30-16:00
+    unconference_time: 13:30-15:30
+    icon: conference
+  total_talk_days: 2
+
+about:
+  attendees: 100
+  summary:
+    "The main presentation track takes place during **December 7-8 (Thursday and Friday) from 9:30am to 4:00pm AEDT**.
+    During the main event we also run an :doc:`/conf/australia/2023/unconference`."
+
+  social_venue: TBD
+  venue: Library at the Dock
+  photos: TBD
+  mainroom: Performance Space
+  unconfroom: Community Room
+  projector_ratio: "16:9"
+  job_fair_room: "Sponsor area"
+
+cfp:
+  url: https://pretalx.com/wtd-australia-2023/cfp # Open June 15, 2023, 12 weeks to submit
+  ends: "September 15, 2023"           # 2 weeks to review and get confirmations
+  notification: "September 30, 2022"   # 8 weeks to write and prepare
+  slides_by: "December 01, 2023"       # 1 week before
+  preview: "TODO"                      # Preview URL TODO
+
+unconf:
+  url: http://bit.ly/wtd-au-2022-ro
+  date: "Thursday and Friday after the lunch break"
+
+
+grants:
+  url: https://docs.google.com/forms/d/e/1FAIpQLSfZczqqIwuz8Gj57O5MsJrPqW-K195bqD1-LovRw-dF_d4z5A/viewform
+  ends: "October 15, 2023"
+  notification: "October 31, 2023"
+
+
+sponsors:
+  keystone:
+  patron:
+  publisher:
+  #  - name: atlassian
+  #    link: https://www.atlassian.com/
+  #    brand: Atlassian
+  #    width: 750px
+  second:
+  #  - name: knowledgeowl
+  #    link: https://www.knowledgeowl.com
+  #    brand: KnowledgeOwl
+  #    width: 250px
+  #    text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl​ is looking for more contributors for our ​company blog​. This is an opportunity to write about a topic that interests you and get paid for it :)</p> <p>KnowledgeOwl also sponsors and hosts The Not-Boring Tech Writer podcast. We are always looking for new guests to share their stories, experience, and expertise with the world.</p> <p>Feel free to stop by and ask us more about KnowledgeOwl, these opportunities, or anything else!</p>"
+  first:
+  in_kind:
+    - name: rtd
+      link: https://readthedocs.com/
+      brand: Read the Docs
+
+# Things that change over time, listed in order of change
+flaglanding: True
+flaghassponsors: False
+flagcfp: False
+flagticketsonsale: False
+flagsoldout: False
+flagspeakersannounced: False
+flagrunofshow: False
+flaghasschedule: False
+flaghasunconf: True
+flaghasshirts: False
+flagvideos: False
+flaglivestreaming: False
+flagpostconf: False
+flagcancelled: False
+
+# Truthy things that don't change
+flaghashike: False
+flaghasfood: True
+flaghasboat: False
+flaghaswritingday: True
+flaghasjobfair: False
+flaghasbadgeflair: False
+
