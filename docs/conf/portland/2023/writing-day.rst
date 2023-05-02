@@ -196,27 +196,27 @@ Doc Detective
 
 *Meet the Team, Test Your Docs, and Contribute to Ours.*
 
-`Doc Detective <https://github.com/doc-detective/doc-detective>`__ is
-an open-source documentation testing framework that aims to make
+`Doc Detective <https://doc-detective.com/>`__ is
+an open-source documentation testing framework that makes
 it easy to keep your docs accurate and up-to-date. You write
 low-code (soon no-code) tests, and Doc Detective runs them
 directly against your product to make sure your docs match your
 user experience. Whether it's a UI-based process or a series of
-API calls, Doc Detective can help you find doc bugs before your
+API calls, Doc Detective helps you find doc bugs before your
 users do.
 
 Doc Detective supports tests in Chrome and Firefox today and plans
 to support tests for native iOS, Android, macOS, Windows, and
 Linux applications in the future.
 
-Our documentation (and source code) is available on GitHub, and
-anyone can contribute it:
+Our documentation source files are `available on GitHub <https://github.com/doc-detective/doc-detective.github.io>`__, and
+anyone can contribute them:
 
-#. Take a look at the issues labeled "`writing day <https://github.com/doc-detective/doc-detective/labels/writing%20day>`__".
+#. Take a look at the issues labeled "`writing day <https://github.com/doc-detective/doc-detective.github.io/labels/writing%20day>`__".
 
-#. If you don’t find something you’d like to work on, view all issues labeled "`documentation <https://github.com/doc-detective/doc-detective/labels/documentation>`__" or browse `the docs <https://github.com/doc-detective/doc-detective>`__ and find something else you’d like to improve (and log it in a new issue).
+#. If you don't find something you'd like to work on, view all issues labeled "`documentation <https://github.com/doc-detective/doc-detective.github.io/labels/documentation>`__" or browse `the docs <https://github.com/doc-detective/doc-detective>`__ and find something else you'd like to improve (and log it in a new issue).
 
-#. Once you find the issue you want to work on, add a comment mentioning @hawkeyexl to inform us that you’re working on this for Writing Day (and tell us in person!).
+#. Once you find the issue you want to work on, add a comment mentioning @hawkeyexl to inform us that you're working on this for Writing Day (and tell us in person!).
 
 #. Create a pull request with your proposed changes.
 
@@ -224,7 +224,7 @@ anyone can contribute it:
 
 Stop by to chat and build some tests for your docs. If you have
 any questions, you can reach out to us in person or on
-`Discord <https://discord.gg/tTmczpE4Yd>`__.
+`Discord <https://discord.gg/2M7wXEThfF>`__.
 
 Read the Docs
 ~~~~~~~~~~~~~
