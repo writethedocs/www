@@ -16,7 +16,7 @@ Introduction
 
 Now in its fourth year, the Write the Docs Salary Survey collects information from documentarians across various regions, covering not only salaries but also work environments and perspectives on job-related issues. Our aims are to assist community members in determining appropriate salary brackets, provide a reference point for future wage negotiations, and spark discussion.
 
-The 2022 survey accumulated data from 525 participants, including both employees and independent contractors, located in 43 nations. Although the number of responses has decreased compared to previous years (with 959 in 2021, 805 in 2020, and 649 in 2019), the information obtained remains significant, and we trust that the resulting insights will aid community members in better understanding the salary landscape.
+The 2022 survey accumulated data from 525 participants, including both employees and independent contractors, located in 43 countries. Although the number of responses has decreased compared to previous years (with 959 in 2021, 805 in 2020, and 649 in 2019), the information obtained remains significant, and we trust that the resulting insights will aid community members in better understanding the salary landscape.
 
 .. container:: note
    
@@ -82,7 +82,7 @@ Hours worked
 
 .. raw:: html
    
-   <details><summary>What we asked</summary>
+   <details><summary>What we asked (click to expand)</summary>
 
 .. container:: question
 
@@ -147,7 +147,7 @@ Job title
 
 .. raw:: html
    
-   <details><summary>What we asked</summary>
+   <details><summary>What we asked (click to expand)</summary>
 
 .. container:: question
 
@@ -418,7 +418,7 @@ Proportion of role related to documentation
 
    </details>
 
-As Write the Docs is a documentation-focused community, it's not surprising that the majority of respondents (73.1% in 2022) reported that documentation makes up both their whole official job description, and most or all of their day-to-day tasks (90.3% reporting more than 51% of their daily workload). Given the cross-disciplinary nature of documentation work, it's also not surprising that a proportion of respondents also work outside of that definition, and that there are even a small number documenting "by steath": those that are not officially designated as documentation employees or not required to perform documentation-related tasks, but do anyway.
+As Write the Docs is a documentation-focused community, it's not surprising that the majority of respondents (73.1% in 2022) reported that documentation makes up both their whole official job description, and most or all of their day-to-day tasks (90.3% reporting more than 51% of their daily workload). Given the cross-disciplinary nature of documentation work, it's also not surprising that a proportion of respondents also work outside of that definition, and that there are even a small number documenting "by stealth": those that are not officially designated as documentation employees or not required to perform documentation-related tasks, but do anyway.
 
 .. table:: Portion of role officially documentation-related (2022)
    :width: 70%
@@ -471,7 +471,7 @@ For the purpose of this section, we consider “remote” to have the same meani
 
 .. container:: question
 
-   Has your work location (i.e. onsite, remote) been affected by COVID-19 (temporarily or permanently)?
+   Has your work location (i.e. on-site, remote) been affected by COVID-19 (temporarily or permanently)?
 
    - Yes
    - No
@@ -594,7 +594,7 @@ As in previous years, the bulk of the changes were moving from on-site to remote
 Not affected by COVID-19
 ------------------------
 
-46.1% of respondents indicated that their current work location was unaffected by COVID-19. Of these, the majority worked remotely - 41.3% were required to be remote, and 36.8% were remote by choice. 13.6% were partially remote, and only 8.2% worked onsite (4.5% by requirement and 3.7% by choice).
+46.1% of respondents indicated that their current work location was unaffected by COVID-19. Of these, the majority worked remotely - 41.3% were required to be remote, and 36.8% were remote by choice. 13.6% were partially remote, and only 8.2% worked on-site (4.5% by requirement and 3.7% by choice).
 
 .. table:: Work location - unaffected by COVID-19 (2022)
    :width: 70%
@@ -616,7 +616,7 @@ Not affected by COVID-19
 
 Overall, this group was happy about their work location: 66.1% reported feeling "very positive", 26.4% "positive", 5.4% "neutral", and only 2.1% "negative" (no respondents felt "very negative").
 
-Breaking down attitudes by work location, those who are able to choose their work location - be it onsite, remote, or a combination - are generally happier than those who have their workplace stipulated by their employer. All of the negative responses were attributed to respondents required to be onsite, required to be remote, or partial (implying that one portion of the partial arrangement was required, and not that respondent's preference).
+Breaking down attitudes by work location, those who are able to choose their work location - be it on-site, remote, or a combination - are generally happier than those who have their workplace stipulated by their employer. All of the negative responses were attributed to respondents required to be on-site, required to be remote, or partial (implying that one portion of the partial arrangement was required, and not that respondent's preference).
 
 .. table:: Feelings about work location - unaffected by COVID-19 (2022)
    :width: 70%
@@ -683,7 +683,7 @@ Just over half of respondents reported feeling "very positive" about their work 
 
 Breaking this down by work location, the same patterns emerge. 89.1% of respondents who were working remote by choice reported feeling "very positive" (61.2%) or "positive" (27.9%), with only 0.9% feeling "negative" and no one reporting "very negative" feelings. For those working remote by requirement, while 92% were happy with the arrangement (67.1% "very positive" and 25.2% "positive"), 2.8% reported "negative" feelings.     
 
-For those working partially remote and partially onsite, opinions were more evenly dispersed - 46.2% felt "positive", 25.4% declared they were "neutral", and 6.9% harbored "negative" feelings (5.4% "negative" and 1.5% "very negative").
+For those working partially remote and partially on-site, opinions were more evenly dispersed - 46.2% felt "positive", 25.4% declared they were "neutral", and 6.9% harbored "negative" feelings (5.4% "negative" and 1.5% "very negative").
 
 The number of respondents working on-site was small (6.3%, or 33 individuals), which means that any generalizations are not representative. For the record, "neutral" feelings were the most common at 30.3%.
 
@@ -909,9 +909,9 @@ Illustrating the much-discussed gender pay gap in effect, the median salary for 
    +-----------------+-----+--------------+
    | Gender identity | No. | Median (USD) |
    +=================+=====+==============+
-   | man             | 86  | $115,000     |
+   | Man             | 86  | $115,000     |
    +-----------------+-----+--------------+
-   | woman           | 156 | $100,500     |
+   | Woman           | 156 | $100,500     |
    +-----------------+-----+--------------+
 
 .. table:: Median salary by gender identity - Europe (2022)
@@ -921,9 +921,9 @@ Illustrating the much-discussed gender pay gap in effect, the median salary for 
    +-----------------+-----+--------------+
    | Gender identity | No. | Median (USD) |
    +=================+=====+==============+
-   | man             | 61  | $57,960      |
+   | Man             | 61  | $57,960      |
    +-----------------+-----+--------------+
-   | woman           | 86  | $45,729      |
+   | Woman           | 86  | $45,729      |
    +-----------------+-----+--------------+
 
 Median salary by years experience
@@ -1660,7 +1660,7 @@ Location
 
    </details>
 
-47.2% of all organizations employing survey respondents in 2022 were based in North America, with the vast majority of those in the United States (43.8% of the total, versus 3.4% for Canada). Global or Multi-national organizations accounted for the second largest proportion, 25.7%. European countries account for another 20%.
+47.2% of all organizations employing survey respondents in 2022 were based in North America, with the vast majority of those in the United States (43.8% of the total, versus 3.4% for Canada). Global or Multinational organizations accounted for the second largest proportion, 25.7%. European countries account for another 20%.
 
 The remaining organizations were based in 36 different countries, with no single nation accounting for more than 3% of the total. 
 
