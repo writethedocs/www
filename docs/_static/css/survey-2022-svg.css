@@ -15,7 +15,7 @@ text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important;fo
 
 .axis-lines path{stroke:#F0F0F0}
 
-.donut-chart .value-labels text{fill:#666}
+.donut-chart .value-labels text{fill:#666;font-size:16px}
 
 .bar-chart .data path{fill:#1E73BE}
 .bar-chart .data .seriesa path{fill:#1E73BE}

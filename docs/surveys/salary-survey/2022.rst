@@ -47,7 +47,8 @@ While the majority of respondents – historically and in 2022 – are employees
 In 2022, 93.5% of respondents (491 individuals) were employees, and 6.5% (34 individuals) were independent contractors - similar ratios to previous years.
 
 .. table:: Basis of employment (2019-2022)
-   :width: 60%
+   :width: 100%
+   :widths: 50 25 25
    :name: tbl-2022-basis-of-employment-history
 
    +-------------+-------------+-------------+
@@ -111,7 +112,8 @@ The majority of respondents worked traditional "full-time" hours:
 Of the 4 individuals who entered more than 60 hours, 3 reported working 65 hours per week, and one person reported working 80 hours per week. 
 
 .. table:: Weekly hours worked (2022)
-   :width: 50%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-weekly-hours-worked
 
    +--------------+-----+-------+
@@ -172,7 +174,8 @@ Of all titles:
 - 1% contained "support"
 
 .. table:: Most widely-used job titles (2022)
-   :width: 70%
+   :width: 100%
+   :width: 70 15 15
    :name: tbl-2022-top-job-titles
 
    +----------------------------+-----+-------+
@@ -253,7 +256,8 @@ Although "Writer/Creator/Editor" was still the top category - 93.9% of responden
 Overall, respondents selected 57 different combinations of the 8 role categories.  
 
 .. table:: Top role category combinations (2022)
-   :width: 80%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-top-role-category-combinations
 
    +-------------------------------------------------------+-----+-------+
@@ -272,8 +276,21 @@ Overall, respondents selected 57 different combinations of the 8 role categories
    | Other combinations (52 more in total)                 | 121 | 23.1% |
    +-------------------------------------------------------+-----+-------+
 
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Top role category combinations (2022)" aria-describedby="figure-top-role-category-combinations_desc" type="image/svg+xml" data="/_images/2022-role-category.svg">
+         <p id="figure-top-role-category-combinations_desc">Donut chart showing top role category combinations for respondents in 2022.</p>
+      </object> 
+      <figcaption>Figure: Top role category combinations (2022)</figcaption>
+   </figure>
+
+.. figure:: images/2022/2022-role-category.svg
+   :class: hide
+
 .. table:: Role categories (2022)
-   :width: 80%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-single-role-categories
 
    +-------------------------------------------------------+-----+-------+
@@ -304,7 +321,8 @@ Team breakdown
 When taking into account respondents who work on a team, work on multiple teams, and those who manage teams, 83.4% of respondents have roles that are team-based. Solo workers make up 15.4%, with the 1.1% selecting "other" mostly reporting some combination of solo and team work. 
 
 .. table:: Team breakdown (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-team-breakdown
 
    +------------------------+-----+-------+
@@ -360,7 +378,8 @@ Length of time at current organization
 Reflecting an increasingly volatile job market, 36.8% of respondents reported being employed at their current organization for less than one year. This is a significant increase from 31.7% in 2021, 26% in 2020, and just 9% in 2019. Notably, it is the first time since the survey began that the number of individuals in new positions exceeds those who have held their current job for a medium-term or extended duration.    
 
 .. table:: Length of time at current organization (2022)
-   :width: 80%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-time-current-organization
 
    +------------------------------------------+-----+-------+
@@ -421,7 +440,8 @@ Proportion of role related to documentation
 As Write the Docs is a documentation-focused community, it's not surprising that the majority of respondents (73.1% in 2022) reported that documentation makes up both their whole official job description, and most or all of their day-to-day tasks (90.3% reporting more than 51% of their daily workload). Given the cross-disciplinary nature of documentation work, it's also not surprising that a proportion of respondents also work outside of that definition, and that there are even a small number documenting "by stealth": those that are not officially designated as documentation employees or not required to perform documentation-related tasks, but do anyway.
 
 .. table:: Portion of role officially documentation-related (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-portion-of-role-officially-documentation-related
 
    +--------------------------------------+-----+-------+
@@ -436,8 +456,21 @@ As Write the Docs is a documentation-focused community, it's not surprising that
    | Not documentation, and not expected  | 3   | 0.6%  |
    +--------------------------------------+-----+-------+
 
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Portion of role officially documentation-related (2022)" aria-describedby="figure-proportion-official_desc" type="image/svg+xml" data="/_images/2022-proportion-official.svg">
+         <p id="figure-proportion-official_desc">Donut chart showing the proportion of respondent's official job description that is related to documentation in 2022.</p>
+      </object> 
+      <figcaption>Figure: Portion of role officially documentation-related (2022)</figcaption>
+   </figure>
+
+.. figure:: images/2022/2022-proportion-official.svg
+   :class: hide
+
 .. table:: Portion of role actually documentation-related (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-portion-of-role-actually-documentation-related
 
    +--------------------------------------+-----+-------+
@@ -451,6 +484,18 @@ As Write the Docs is a documentation-focused community, it's not surprising that
    +--------------------------------------+-----+-------+
    | 0-25%                                | 25  | 4.8%  |
    +--------------------------------------+-----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Portion of role actually documentation-related (2022)" aria-describedby="figure-proportion-actual_desc" type="image/svg+xml" data="/_images/2022-proportion-actual.svg">
+         <p id="figure-proportion-actual_desc">Vertical bar chart showing the proportion of respondent's actual day to day tasks that are related to documentation in 2022.</p>
+      </object> 
+      <figcaption>Figure: Portion of role actually documentation-related (2022)</figcaption>
+   </figure>
+
+.. figure:: images/2022/2022-proportion-actual.svg
+   :class: hide
 
 Interestingly, of the respondents who indicated that documentation was the whole of their official job description, 31% reported spending less than three quarters of their daily work time on documentation, with 5% reporting less than half their time. 
 
@@ -541,7 +586,8 @@ Affected by COVID-19
 As in previous years, the bulk of the changes were moving from on-site to remote or partially remote. 
 
 .. table:: Work location - pre-COVID-19 (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-work-location-pre-covid19
 
    +-------------------------+-----+--------+
@@ -559,7 +605,8 @@ As in previous years, the bulk of the changes were moving from on-site to remote
    +-------------------------+-----+--------+
 
 .. table:: Work location - current (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-work-location-current
 
    +------------------------+-----+--------+
@@ -597,7 +644,8 @@ Not affected by COVID-19
 46.1% of respondents indicated that their current work location was unaffected by COVID-19. Of these, the majority worked remotely - 41.3% were required to be remote, and 36.8% were remote by choice. 13.6% were partially remote, and only 8.2% worked on-site (4.5% by requirement and 3.7% by choice).
 
 .. table:: Work location - unaffected by COVID-19 (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-work-location-unaffected
 
    +------------------------+-----+-------+
@@ -619,7 +667,8 @@ Overall, this group was happy about their work location: 66.1% reported feeling 
 Breaking down attitudes by work location, those who are able to choose their work location - be it on-site, remote, or a combination - are generally happier than those who have their workplace stipulated by their employer. All of the negative responses were attributed to respondents required to be on-site, required to be remote, or partial (implying that one portion of the partial arrangement was required, and not that respondent's preference).
 
 .. table:: Feelings about work location - unaffected by COVID-19 (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-work-location-feelings-unaffected
 
    +------------------------+-----+-------+
@@ -644,7 +693,8 @@ Combining the "current" work location for respondents affected by COVID-19 with 
 68.9% of all resondents work remotely, either by choice (41.7%) or as required by their employer (27.2%). Another 24.8% work partially on-site and partially remote. Only 6.3% work completely on-site (3.6% are required to do so and 2.7% do so by choice). 
 
 .. table:: Work location - overall (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-work-location-overall
 
    +------------------------+-----+-------+
@@ -664,7 +714,8 @@ Combining the "current" work location for respondents affected by COVID-19 with 
 Just over half of respondents reported feeling "very positive" about their work location, and another 31.4% felt "positive". 13.7% were "neutral", and 3.2% reported negative feelings. Only 0.8% of all repondents - 4 individuals - reported "very negative" feelings. 
 
 .. table:: Feelings about work location - overall (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-work-location-feelings-overall
 
    +------------------------+-----+-------+
@@ -704,7 +755,8 @@ Respondents reported being paid in 27 different currencies. To make comparisons 
    <div class="tablescroller">
 
 .. table:: Currencies - employees (2022)
-   :width: 80%
+   :width: 100%
+   :widths: 45 15 15 25
    :name: tbl-2022-currency-employees
 
    +-----------------------------+------+-----+---------------+
@@ -839,7 +891,8 @@ In order to protect the privacy of respondents, median salaries are not shown fo
 - Ukraine
 
 .. table:: Median salary by respondent region (2022)
-   :width: 80%
+   :width: 100%
+   :widths: 30 30 15 25
    :name: tbl-2022-median-salary-by-respondent-region
 
    +---------------+----------------+-----+--------------+
@@ -878,7 +931,8 @@ Median salary by US state
 Out of the 37 US states represented in the results, only 5 had more than the minimum 10 respondents required to calculate a median by region. While California drew the most respondents (37), Washington took the top spot for median salary with USD $140,350.
 
 .. table:: Median salary by US state (2022)
-   :width: 60%
+   :width: 100%
+   :widths: 60 15 25
    :name: tbl-2022-median-salary-by-us-state
 
    +--------------------+-----+------------------+
@@ -903,7 +957,8 @@ Due to there being fewer than 10 respondents, non-binary and "other" gender iden
 Illustrating the much-discussed gender pay gap in effect, the median salary for men was 14.4% higher than the median for women in North America, and 26.7% higher in Europe.
 
 .. table:: Median salary by gender identity - North America (2022)
-   :width: 60%
+   :width: 100%
+   :widths: 60 15 25
    :name: tbl-2022-median-salary-by-gender-identity-north-america
 
    +-----------------+-----+--------------+
@@ -915,7 +970,8 @@ Illustrating the much-discussed gender pay gap in effect, the median salary for 
    +-----------------+-----+--------------+
 
 .. table:: Median salary by gender identity - Europe (2022)
-   :width: 60%
+   :width: 100%
+   :widths: 60 15 25
    :name: tbl-2022-median-salary-by-gender-identity-europe
 
    +-----------------+-----+--------------+
@@ -934,7 +990,8 @@ As a general rule, as experience increases, median salary rises - ranging from $
 However, in this year's results there is a new spike in salaries for respondents with less than 1 year of experience - this group's median is USD $3,500 higher than the slightly more experienced bracket of 1-2 years.
 
 .. table:: Median salary by years experience (2022)
-   :width: 60%
+   :width: 100%
+   :widths: 60 15 25
    :name: tbl-2022-median-salary-by-years-experience
 
    +-------------+-----+--------------+
@@ -965,7 +1022,8 @@ Median salary by organization size
 While there is a general trend for higher salaries at larger organizations, the uneven distribution of respondent numbers makes concrete conclusions difficult to draw. 
 
 .. table:: Median salary by organization size (2022)
-   :width: 60%
+   :width: 100%
+   :widths: 60 15 25
    :name: tbl-2022-median-salary-by-organization-size
 
    +--------------------------+-----+--------------+
@@ -1021,6 +1079,7 @@ A small number of respondents (4.1, representing 20 individuals) indicated that 
 
 .. table:: Benefits (2022)
    :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-employee-benefits
 
    +-------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
@@ -1165,7 +1224,8 @@ Salary satisfaction
 Considering only their salary and benefits, employee respondents were asked to rate their level of satisfaction. The majority of respondents reported being satisfied (47.9%) or very satisfied (27.3%) with their salaries. Fewer participants indicated feeling neutral (14.7%), unsatisfied (7.9%), or very unsatisfied (2.2%) about their earnings.
 
 .. table:: Salary satisfaction (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-employee-salary-satisfaction
 
    +------------------+------+-------+
@@ -1185,7 +1245,8 @@ Considering only their salary and benefits, employee respondents were asked to r
 Respondents were then asked to indicate reasons for any dissatisfaction - again, considering only their salary and benefits. The largest proportion of respondents - 42.4% - chose no reason (including 2 of the respondents who indicated they were "very unsatisfied").
 
 .. table:: Reasons for salary dissatisfaction (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-employee-reasons-salary-dissatisfaction
 
    +----------------------------+------+-------+
@@ -1220,7 +1281,8 @@ Overall job satisfaction
 Respondents were asked to consider their overall employment situation - separate from salary and benefits - and rate their level of satisfaction. Most respondents reported being satisfied (46.8%) or very satisfied (32.6%) with their job. A smaller percentage of participants expressed feeling neutral (13.2%), unsatisfied (6.7%), or very unsatisfied (0.6%) about their employment.
 
 .. table:: Overall job satisfaction (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-employee-overall-job-satisfaction
 
    +------------------+-----+-------+
@@ -1240,7 +1302,8 @@ Respondents were asked to consider their overall employment situation - separate
 Respondents were then asked to select reasons for dissatisfaction, if any. Again, the largest proportion of respondents - 33.2% - did not choose or enter a reason (including one respondent who indicated they were "very unsatisfied"). 
 
 .. table:: Reasons for overall job dissatisfaction (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-employee-reasons-overall-job-dissatisfaction
 
    +---------------------------------------+-----+-------+
@@ -1309,7 +1372,8 @@ Positive job aspects
 Respondents in general selected far more reasons to be happy about their job than reasons to be unhappy. Only one respondent chose "none", and most respondents selected more than one reason. 
 
 .. table:: Positive job aspects (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-employee-positive-aspects
 
    +---------------------------+-----+-------+
@@ -1404,7 +1468,8 @@ Pay transparency policy
 Just 5.3% of organizations - the smallest proportion - had a fully open pay transparency policy.  
 
 .. table:: Pay transparency policy (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-pay-transparency-policy
 
    +-----------------------------+-----+-------+
@@ -1427,7 +1492,8 @@ Pay transparency practise
 Regardless of official policy - or in the absence of an official policy - it seemed plausible that employees at some organizations would have an informal culture of sharing with regards to salary information. Only 1.7% of respondents reported that this existed in their workplace. 17.9% said that this was partially true, and another 14.5% said they were unsure or did not participate. The largest percentage - 65.9% - reported that there was no informal sharing of salary data. 
 
 .. table:: Pay transparency practise (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-pay-transparency-practise
 
    +-----------------------------+-----+-------+
@@ -1448,7 +1514,8 @@ Pay transparency support
 Three quarters of all respondents expressed support for pay transparency, with 45% saying they strongly supported such measures. Another 20.4% were neutral on the topic, and only 4% opposed it (1% in strong opposition).
 
 .. table:: Pay transparency support (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-pay-transparency-support
 
    +------------------+-----+-------+
@@ -1496,7 +1563,8 @@ Organization size
 Medium-sized organizations accounted for over half of the employers in the 2022 results, with the remaining portions evenly split between very large and very small operations. 
 
 .. table:: Organization size (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-organization-size
 
    +--------------------------+-------+-------+
@@ -1572,6 +1640,7 @@ While each of the 33 industries in the list accounted for at least 3 individual 
 
 .. table:: Organization industry (2022)
    :width: 100%
+   :widths: 80 10 10
    :name: tbl-2022-organization-industry
 
    +------------------------------------------------------------------------------------------------------------------------------------+-----+------------+
@@ -1665,7 +1734,8 @@ Location
 The remaining organizations were based in 36 different countries, with no single nation accounting for more than 3% of the total. 
 
 .. table:: Organization location - country (2022)
-   :width: 80%
+   :width: 100%
+   :widths: 40 40 10 10
    :name: tbl-2022-organization-location-country
 
    +---------------+----------------------+-----+-------+
@@ -1792,7 +1862,8 @@ Age
 As in previous surveys, two age brackets – 26-35 year olds and 36-45 year olds – made up 68.4% of the total number of respondents. The oldest bracket (66+) made up 1% of the total, while the youngest (18-25 year olds) made up 5.1%. Only 0.6% (3 individuals) did not provide an answer.  
 
 .. table:: Age group (2022)
-   :width: 50%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-age-group
 
    +-----------------+-----+-------+
@@ -1836,7 +1907,8 @@ Gender identity
 These proportions have not significantly changed over the four surveys conducted. 
 
 .. table:: Gender identity (2022)
-   :width: 50%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-gender-identity
 
    +-----------------+-----+-------+
@@ -1886,7 +1958,8 @@ At the other end of the scale, 3.4% of respondents had 30 or more years of exper
 1 respondent chose not to provide a response.  
 
 .. table:: Experience (2022)
-   :width: 50%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-experience
 
    +------------------+-----+-------+
@@ -1947,7 +2020,8 @@ The majority of respondents – 94.4% – listed college or university qualifica
 Technical or vocational qualifications accounted for 2.1% of the responses, and high school for 3%. A single respondent indicated that they had no formal educational qualifications, and a single respondent chose not to provide a response.
 
 .. table:: Education (2022)
-   :width: 50%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-education
 
    +-------------------------+-----+-------+
@@ -1999,7 +2073,8 @@ In the respondent demographic data for this year’s survey, 43 different countr
 Overall, 69.7% of respondents across all countries were city dwellers, 23.4% resided in semi-dense regions, and only 6.9% classified their location as rural. Looking at individual regions, North America had a slightly higher percentage of semi-dense dwellers, while in Europe and Oceania cities were better represented.
 
 .. table:: Respondent location - area type (2022)
-   :width: 50%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-respondent-location-area-type
 
    +------------+-----+-------+
@@ -2013,7 +2088,8 @@ Overall, 69.7% of respondents across all countries were city dwellers, 23.4% res
    +------------+-----+-------+
 
 .. table:: Respondent location - region and country (2022)
-   :width: 80%
+   :width: 100%
+   :widths: 35 35 15 15
    :name: tbl-2022-respondent-location-region-country
 
    +---------------+----------------+-----+-------+
@@ -2121,7 +2197,8 @@ Overall, 69.7% of respondents across all countries were city dwellers, 23.4% res
    +---------------+----------------+-----+-------+
 
 .. table:: Respondent location - US state (2022)
-   :width: 70%
+   :width: 100%
+   :widths: 70 15 15
    :name: tbl-2022-respondent-location-us-state
 
    +-----------------------+-----+-------+

@@ -251,8 +251,11 @@
 
 /* figure styling */
 .survey-results #write-the-docs-salary-survey-2022-results div.figure p.caption,
-.survey-results #write-the-docs-salary-survey-2022-results figcaption{text-align:center;font-size:100%;margin-top:0.5em}
-.survey-results #write-the-docs-salary-survey-2022-results figure{margin-bottom:1.5em}
+.survey-results #write-the-docs-salary-survey-2022-results figcaption{text-align:center;font-size:100%;margin-top:1em}
+.survey-results #write-the-docs-salary-survey-2022-results figure{margin:2em 0;padding:2em 0;border-width:1px 0;border-color:rgba(204,204,204,0.5);border-style:solid}
+.survey-results #write-the-docs-salary-survey-2022-results table + figure{border-top-width:0}
+
+
 
 /* details rollup */
 .survey-results #write-the-docs-salary-survey-2022-results details{padding:1em 0}

@@ -27,11 +27,11 @@
 		<path d="M325.328 13.784C330.415 13.784 331.33 40.222 331.4 42.2557L331.471 44.2894" stroke="#FF8541"/>
 	</g>
 	<g class="value-labels">
-		<text><tspan x="549.99" y="191.72">Team: 45.3%&#x200b;</tspan></text>
-		<text><tspan x="91.4577" y="413.143">Multiple teams: 21.9%&#x200b;</tspan></text>
-		<text><tspan x="16.1096" y="206.482">Manager/team </tspan><tspan x="26.9221" y="224.482">leader: 16.2%&#x200b;</tspan></text>
-		<text><tspan x="77.4815" y="48.6471">Solo workers: 15.4%&#x200b;</tspan></text>
-		<text><tspan x="239.572" y="14.582">Other: 1.1%&#x200b;</tspan></text>
+		<text><tspan x="549.99" y="191.72">Team 45.3%</tspan></text>
+		<text><tspan x="91.4577" y="413.143">Multiple teams 21.9%</tspan></text>
+		<text><tspan x="16.1096" y="206.482">Manager/team </tspan><tspan x="26.9221" y="224.482">leader 16.2%</tspan></text>
+		<text><tspan x="77.4815" y="48.6471">Solo workers 15.4%</tspan></text>
+		<text><tspan x="239.572" y="14.582">Other 1.1%</tspan></text>
 	</g>
 </g>
 </svg>
