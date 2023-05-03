@@ -175,7 +175,7 @@ Of all titles:
 
 .. table:: Most widely-used job titles (2022)
    :width: 100%
-   :width: 70 15 15
+   :widths: 70 15 15
    :name: tbl-2022-top-job-titles
 
    +----------------------------+-----+-------+
