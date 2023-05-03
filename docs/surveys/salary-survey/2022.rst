@@ -263,7 +263,7 @@ Overall, respondents selected 57 different combinations of the 8 role categories
    +-------------------------------------------------------+-----+-------+
    | Writer/Creator/Editor + Management                    |  45 |  8.6% |
    +-------------------------------------------------------+-----+-------+
-   | Writer/Creator/Editor + Developer/Engineer + Educator |  32 |  6.1% |
+   | Writer/Creator/Editor + Developer/Engineer            |  32 |  6.1% |
    +-------------------------------------------------------+-----+-------+
    | Writer/Creator/Editor + Educator                      |  17 |  3.2% |
    +-------------------------------------------------------+-----+-------+
