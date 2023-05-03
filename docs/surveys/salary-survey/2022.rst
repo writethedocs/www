@@ -797,7 +797,7 @@ As 95.2% of respondents reported working full-time hours (more than 30 per week)
 Median salary
 ~~~~~~~~~~~~~
 
-The median employee salary across all regions was USD $79,506 (meaning half of all respondent earned more, and half earned less). This is lower than the overall median in 2021 and 2022 (USD $80,870 and USD $80,000 respectively) but higher than the overall median in 2019 (USD $74,500).
+The median employee salary across all regions was USD $79,506 (meaning half of all respondent earned more, and half earned less). This is lower than the overall median in 2021 and 2020 (USD $80,870 and USD $80,000, respectively), but higher than the overall median in 2019 (USD $74,500).
 
 Median salary by respondent region
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
