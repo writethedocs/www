@@ -626,8 +626,8 @@ As in previous years, the bulk of the changes were moving from on-site to remote
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Work location (affected by COVID-19) (2022)" aria-describedby="figure-work-location-affected-desc" type="image/svg+xml" data="/_images/2022-work-location-affected.svg">
-         <p id="figure-work-location-affected-desc">Two donut charts showing work location, pre-COVID-19 and currently, for respondents who indicated that their workplace had been affected by the pandemic.</p>
+      <object role="img" aria-label="Work location (affected by COVID-19) (2022)" aria-describedby="figure-work-location-affected_desc" type="image/svg+xml" data="/_images/2022-work-location-affected.svg">
+         <p id="figure-work-location-affected_desc">Two donut charts showing work location, pre-COVID-19 and currently, for respondents who indicated that their workplace had been affected by the pandemic.</p>
       </object> 
       <figcaption>Figure: Work location (affected by COVID-19) (2022)</figcaption>
    </figure>
@@ -637,6 +637,13 @@ As in previous years, the bulk of the changes were moving from on-site to remote
 
 
 47.3% of respondents in this category reported that their location change was now permanent. 
+
+TODO: table???
+
+TODO: feelings about work location change (affected by COVID-19)
+
+
+
 
 Not affected by COVID-19
 ------------------------
@@ -662,6 +669,18 @@ Not affected by COVID-19
    | Remote (required)      | 100 | 41.3% |
    +------------------------+-----+-------+
 
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Work location (unaffected by COVID-19) (2022)" aria-describedby="figure-work-location-unaffected_desc" type="image/svg+xml" data="/_images/2022-work-location-unaffected.svg">
+         <p id="figure-work-location-unffected_desc">Donut chart showing work location for respondents who indicated that their workplace had not been affected by the pandemic.</p>
+      </object> 
+      <figcaption>Figure: Work location (unaffected by COVID-19) (2022)</figcaption>
+   </figure>
+
+.. figure:: images/2022/2022-work-location-unaffected.svg
+   :class: hide
+
 Overall, this group was happy about their work location: 66.1% reported feeling "very positive", 26.4% "positive", 5.4% "neutral", and only 2.1% "negative" (no respondents felt "very negative").
 
 Breaking down attitudes by work location, those who are able to choose their work location - be it on-site, remote, or a combination - are generally happier than those who have their workplace stipulated by their employer. All of the negative responses were attributed to respondents required to be on-site, required to be remote, or partial (implying that one portion of the partial arrangement was required, and not that respondent's preference).
@@ -684,6 +703,18 @@ Breaking down attitudes by work location, those who are able to choose their wor
    +------------------------+-----+-------+
    | Very Positive          | 160 | 66.1% |
    +------------------------+-----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Feelings about work location (unaffected by COVID-19) (2022)" aria-describedby="figure-work-location-unaffected-feelings_desc" type="image/svg+xml" data="/_images/2022-work-location-unaffected-feelings.svg">
+         <p id="figure-work-location-unffected-feelings_desc">Donut chart showing feelings about work location for respondents who indicated that their workplace had not been affected by the pandemic.</p>
+      </object> 
+      <figcaption>Figure: Feelings about work location (unaffected by COVID-19) (2022)</figcaption>
+   </figure>
+
+.. figure:: images/2022/2022-work-location-unaffected-feelings.svg
+   :class: hide
 
 Overall work location
 ---------------------
@@ -710,6 +741,21 @@ Combining the "current" work location for respondents affected by COVID-19 with 
    +------------------------+-----+-------+
    | Remote (required)      | 143 | 27.2% |
    +------------------------+-----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Work location (combined) (2022)" aria-describedby="figure-work-location-combined_desc" type="image/svg+xml" data="/_images/2022-work-location-overall.svg">
+         <p id="figure-work-location-combined_desc">Donut chart showing work location for all respondents combined (those whose work location was affected by COVID-19 and those whose work location was not affected).</p>
+      </object> 
+      <figcaption>Figure: Work location (combined) (2022)</figcaption>
+   </figure>
+
+.. figure:: images/2022/2022-work-location-overall.svg
+   :class: hide
+
+TODO: make different (but consistent) colours for attitude vs work location
+
 
 Just over half of respondents reported feeling "very positive" about their work location, and another 31.4% felt "positive". 13.7% were "neutral", and 3.2% reported negative feelings. Only 0.8% of all repondents - 4 individuals - reported "very negative" feelings. 
 
