@@ -65,8 +65,8 @@ See :ref:`making-writing-day-case`.
 Submit your project
 ^^^^^^^^^^^^^^^^^^^
 
-There is a basic level of information we need to add your project to the Writing Day list. `Submitting the form <>`_ is an
-easy way to give us that info. You are welcome to submit your project info to `Writing Day <https://github.com/writethedocs/www/blob/main/docs/conf/atlantic/2023/writing-day.rst>`_ using a PR.
+There is a basic level of information we need to add your project to the Writing Day list. `Submitting the form <https://forms.gle/JZanD3zWTBrrdL79A>`_ 
+is an easy way to give us that info. You are welcome to submit your project info to `Writing Day <https://github.com/writethedocs/www/blob/main/docs/conf/atlantic/2023/writing-day.rst>`_ using a PR.
 
 Here's an overview of the information we need, make sure your PR includes the following:
 
