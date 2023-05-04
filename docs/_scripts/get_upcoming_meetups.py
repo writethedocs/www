@@ -9,6 +9,12 @@ from datetime import datetime, timezone
 # This script scrapes the pages for meetups to see if there are upcoming events.
 # If there are, they're returned in the right format for the newsletter.
 
+# To run it, install the necessary dependencies and run the script with Python
+# such as `python docs/_scripts/get_upcoming_meetups.py`.
+# Then copy the resulting list into the newsletter article.
+# All the times will be in your local timezone,
+# so you may want to convert them to the timezone local to each meeting.
+
 # Look at a specific Meetup.com page and return data for any upcoming events
 async def get_events_info(meetup_link):
     # Make a GET request to the Meetup organization page
