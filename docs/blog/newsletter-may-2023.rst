@@ -7,11 +7,13 @@ Write the Docs Newsletter – May 2023
 
 Aloha, documentarians! I hope any showers you may have experienced in April are paying off in flowers. There's lots blossoming within Write the Docs.
 
-The main thing going on this week is the upcoming `Portland conference </conf/portland/2023/>`__. Wishing all of you who will make it to Portand safe travels, and if you can't make it there, you can follow along with the main talks through the livestream.
+The main thing going on this week is the `Portland conference </conf/portland/2023/>`__. Wishing all of you who will make it to Portand safe travels, and if you can't make it there, you can follow along with the main talks through the `livestream <conf/portland/2023/livestream/>`__.
 
 If you get inspired, there's still time this month to submit a talk for the Atlantic virtual conference. Check out the `Call for Proposals </conf/atlantic/2023/cfp/>`__ and submit your proposal by 15 May.
 
-Back home with this newsletter, I'd like to extend thanks from Write the Docs to Heather Zoppetti. For a long time, every month she took brought you discussions and things to read or listen to from the #bipoc channel. We appreciate the hard work that went into this. If you'd like to continue the conversation, join in the `#bipoc channel <https://writethedocs.slack.com/archives/C016STMEWJD>`__.
+And after that you can look forward to our third conference of the year, in Australia. Check out the `announcement for the dates </conf/australia/2023/news/welcome/>`__ and start planning for December.
+
+Away from the conferences and back to this newsletter, I'd like to extend thanks from Write the Docs to Heather Zoppetti. For a long time, every month she took brought you discussions and things to read or listen to from the #bipoc channel. We appreciate the hard work that went into this, but it's a difficult burden to carry alone. If you'd like to continue the conversation, join in the `#bipoc channel <https://writethedocs.slack.com/archives/C016STMEWJD>`__.
 
 I hope you have pleasant and insightful conversations, whether in Slack, at the conference, or elsewhere in the world of documentation.
 
