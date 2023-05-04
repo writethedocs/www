@@ -15,6 +15,7 @@ If you think something is wrongly categorized, please let us know.
 Writing words
 -------------
 
+- |:newspaper:| `Getting past tech writer's block </blog/newsletter-may-2023/#getting-past-tech-writer-s-block>`__
 - |:movie_camera:| `Don't Say Simply </videos/prague/2018/don-t-say-simply-jim-fisher/>`__
 - |:movie_camera:| `Aw Snap! The Docs, They Are A-Changin’ (with apologies to Bob Dylan) </videos/eu/2017/aw-snap-the-docs-they-are-a-changin-with-apologies-to-bob-dylan-kate-wilcox/>`__
 - |:movie_camera:| `Information micro-architecture: grammar, syntax, and cognitive rhetoric </videos/eu/2016/information-micro-architecture-grammar-syntax-and-cognitive-rhetoric-rory-tanner/>`__
@@ -260,6 +261,7 @@ Maintenance
 Jobs and careers
 ----------------
 
+- |:newspaper:| `What to do after surviving layoffs </blog/newsletter-may-2023/#what-to-do-after-surviving-layoffs>`__
 - |:newspaper:| `Knowledge transfer for documentarians </blog/newsletter-november-2022/#knowledge-transfer-for-documentarians>`__
 - |:newspaper:| `Joining as a manager </blog/newsletter-november-2022/#joining-as-a-manager>`__
 - |:movie_camera:| `Hustling for Fun and Profit as a Technical Writer: A Freelancing Starter Kit </videos/prague/2021/hustling-for-fun-and-profit-as-a-technical-writer-a-freelancing-starter-kit-karen-sawrey/>`__
@@ -312,6 +314,7 @@ Related roles
 Career growth
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `How to describe career progression </blog/newsletter-may-2023/#how-to-describe-career-progression>`__
 - |:newspaper:| `Is coding necessary to write good docs? </blog/newsletter-september-2022/#is-coding-necessary-to-write-good-docs>`__
 - |:newspaper:| `What’s in a (role) name, after all? </blog/newsletter-may-2022/#what-s-in-a-role-name-after-all>`__
 - |:movie_camera:| `Beating the Virginia Blues: Thru-hiking strategies to help you survive your next big project </videos/portland/2022/beating-the-virginia-blues-thru-hiking-strategies-to-help-you-survive-your-next-kate-mueller/>`__
@@ -603,6 +606,7 @@ Culture and community
 Building docs culture
 ~~~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `The importance of docs... in 30 minutes </blog/newsletter-may-2023/#the-importance-of-docs-in-30-minutes>`__
 - |:movie_camera:| `Adventures in setting up a knowledge system for a research group </videos/prague/2021/adventures-in-setting-up-a-knowledge-system-for-a-research-group-victor-sluiter/>`__
 - |:movie_camera:| `Almost None to Some: Driving DISQO’s Doc Culture as a Solo Documentarian </videos/portland/2021/almost-none-to-some-driving-disqo-s-doc-culture-as-a-solo-documentarian-falon-darville/>`__
 - |:movie_camera:| `How to be an Avante-Garde Guinea Pig: Building Better Content through Experimentation, Community-building, and Loud Squeaks </videos/prague/2020/how-to-be-an-avante-garde-guinea-pig-building-better-content-through-experimentation-community-building-and-loud-squeaks-jessica-valasek-estenssoro/>`__
