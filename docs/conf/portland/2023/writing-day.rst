@@ -120,7 +120,7 @@ of content like overviews, how-to guides, and reference material. Our goal is to
 share best practices and help writers who are starting new projects discover
 templates that help them achieve their goals.
 
-We hope to expand our `template library <https://github.com/JetBrains/writerside-project-templates/blob/main/Writerside/topics/Default-topic.md>`_, to include:
+We hope to expand our `template library <https://github.com/JetBrains/writerside-templates-library`_, to include:
 
 - Templates for different industries and audiences
 - Templates for entire projects
