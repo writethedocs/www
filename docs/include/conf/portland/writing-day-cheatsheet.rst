@@ -22,7 +22,7 @@ Here are some examples of projects that you might see at the event:
 * Love letters
 * The Write the Docs website and guides
 
-You plus all of these opportunities, OSS projects, volunteers, and other
+You and all of these opportunities, OSS projects, volunteers, and other
 attendees adds up to a room full of smart people working together. Together
 we can share what we are passionate about, collaborate to find creative 
 solutions, work towards our goals, and solves issues more quickly.
