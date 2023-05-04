@@ -1,14 +1,10 @@
 **Eric Holscher**
 
 * eric@writethedocs.org
+* Phone: 757-705-0532
 * slack: ericholscher
 
-**Jennifer Rondeau**
+**Samuel Wright**
 
-* jennifer.rondeau@gmail.com
-* slack: jrondeau
-
-**Sasha Romijn**
-
-* sasha@writethedocs.org
-* slack: sasha
+* sam@writethedocs.org
+* slack: plaindocs

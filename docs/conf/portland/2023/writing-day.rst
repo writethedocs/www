@@ -108,7 +108,26 @@ Our Writing Day goals:
 - `Draft an operating model <https://github.com/dbt-labs/docs.getdbt.com/blob/current/contributing/operating-model/outline.md>`_ 
   to help internal stakeholders understand how to interact with the dbt Docs team.
 
-Check out dbt's `contribution guidelines <https://github.com/dbt-labs/docs.getdbt.com#writing-content>`_ and - `style guide <https://github.com/dbt-labs/docs.getdbt.com/blob/current/contributing/content-style-guide.md>`__.
+Check out dbt's `contribution guidelines <https://github.com/dbt-labs/docs.getdbt.com#writing-content>`_ and `style guide <https://github.com/dbt-labs/docs.getdbt.com/blob/current/contributing/content-style-guide.md>`__.
+
+Writerside
+~~~~~~~~~~
+
+`Writerside <https://jb.gg/writerside>`_ is an authoring and publication solution for
+writing technical docs built on the same platform as JetBrains IDEs. It comes with
+a handful of doc templates out of the box. You can use them to author common types
+of content like overviews, how-to guides, and reference material. Our goal is to
+share best practices and help writers who are starting new projects discover
+templates that help them achieve their goals.
+
+We hope to expand our `template library <https://github.com/JetBrains/writerside-project-templates/blob/main/Writerside/topics/Default-topic.md>`_, to include:
+
+- Templates for different industries and audiences
+- Templates for entire projects
+
+If you have experience in this area or are curious to know more, we welcome your
+participation. If you are about to start a new project, join us to see if these
+templates help kickstart your work.
 
 Raspberry Pi
 ~~~~~~~~~~~~
@@ -196,27 +215,27 @@ Doc Detective
 
 *Meet the Team, Test Your Docs, and Contribute to Ours.*
 
-`Doc Detective <https://github.com/doc-detective/doc-detective>`__ is
-an open-source documentation testing framework that aims to make
+`Doc Detective <https://doc-detective.com/>`__ is
+an open-source documentation testing framework that makes
 it easy to keep your docs accurate and up-to-date. You write
 low-code (soon no-code) tests, and Doc Detective runs them
 directly against your product to make sure your docs match your
 user experience. Whether it's a UI-based process or a series of
-API calls, Doc Detective can help you find doc bugs before your
+API calls, Doc Detective helps you find doc bugs before your
 users do.
 
 Doc Detective supports tests in Chrome and Firefox today and plans
 to support tests for native iOS, Android, macOS, Windows, and
 Linux applications in the future.
 
-Our documentation (and source code) is available on GitHub, and
-anyone can contribute it:
+Our documentation source files are `available on GitHub <https://github.com/doc-detective/doc-detective.github.io>`__, and
+anyone can contribute them:
 
-#. Take a look at the issues labeled "`writing day <https://github.com/doc-detective/doc-detective/labels/writing%20day>`__".
+#. Take a look at the issues labeled "`writing day <https://github.com/doc-detective/doc-detective.github.io/labels/writing%20day>`__".
 
-#. If you don’t find something you’d like to work on, view all issues labeled "`documentation <https://github.com/doc-detective/doc-detective/labels/documentation>`__" or browse `the docs <https://github.com/doc-detective/doc-detective>`__ and find something else you’d like to improve (and log it in a new issue).
+#. If you don't find something you'd like to work on, view all issues labeled "`documentation <https://github.com/doc-detective/doc-detective.github.io/labels/documentation>`__" or browse `the docs <https://github.com/doc-detective/doc-detective>`__ and find something else you'd like to improve (and log it in a new issue).
 
-#. Once you find the issue you want to work on, add a comment mentioning @hawkeyexl to inform us that you’re working on this for Writing Day (and tell us in person!).
+#. Once you find the issue you want to work on, add a comment mentioning @hawkeyexl to inform us that you're working on this for Writing Day (and tell us in person!).
 
 #. Create a pull request with your proposed changes.
 
@@ -224,7 +243,7 @@ anyone can contribute it:
 
 Stop by to chat and build some tests for your docs. If you have
 any questions, you can reach out to us in person or on
-`Discord <https://discord.gg/tTmczpE4Yd>`__.
+`Discord <https://discord.gg/2M7wXEThfF>`__.
 
 Read the Docs
 ~~~~~~~~~~~~~
