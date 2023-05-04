@@ -81,7 +81,7 @@ Featured job posts
 
 - `Senior Technical Writer, Security/Observability  <https://jobs.writethedocs.org/job/688/technical-communications-director/>`__, Cockroach Labs (Hybrid)
 
-*To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
+*To apply for this job and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
 ----------------
 Events coming up
