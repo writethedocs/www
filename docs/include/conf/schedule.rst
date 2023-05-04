@@ -174,8 +174,9 @@ Social Event
 ~~~~~~~~~~~~
 
 The official Write the Docs social!
-Full details will be announced closer to the conference,
-but expect a relaxed atmosphere where you can chat and network with your fellow documentarians. 
+Expect a relaxed atmosphere where you can chat and network with your fellow documentarians. 
+
+Snacks and drinks (non-alcoholic & alcoholic) will be provided.
 
 * **Where**: {{ about.social_venue }}
 {% if not flaghasschedule %}
