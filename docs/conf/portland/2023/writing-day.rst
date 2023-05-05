@@ -51,7 +51,7 @@ the documentation for some of Blueprint's core features!
 Depending on time, we plan to cover some or all of the following topics. We believe the initial 
 work here includes:
 
-* blueprint spec: the syntax used in definied blueprints
+* blueprint spec: the syntax used in defined blueprints
 * we will go over the syntax and clarify any ambiguity as well as add additional features: 
   `blueprint validate <schema> <targetFile>`: check that <targetFile> matches a given blueprint     
 * we will go over what the output of validation should look like:
