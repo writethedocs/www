@@ -83,6 +83,8 @@ talks_day1:
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:00'
+    title: '<b>Group Photo!</b>'
+  - duration: '0:00'
     title: Day 1 wraps up
   - time: '19:00'
     title: "<b>Social Event</b>"
