@@ -30,14 +30,14 @@ buttons:
   #     link: /welcome-wagon
   #   - text: See the Schedule!
   #     link: /schedule
-    - text: Buy a Ticket!
-      link: /tickets
+    # - text: Buy a Ticket!
+    #   link: /tickets
   #  - text: See the talks!
   #    link: /speakers
-    - text: See the Schedule!
+    - text: Schedule
       link: /schedule
-  #  - text: Read our guide
-  #    link: /welcome-wagon
+    - text: Attendee Guide
+      link: /welcome-wagon
   #   - text: Watch the Live Stream
   #     link: /livestream
   #   - text: Watch the videos!
@@ -47,12 +47,12 @@ buttons:
   bottom:
   #   - text: Welcome to our conference
   #     link: /news/welcome
-    - text: Sponsor the conference
-      link: /sponsors/prospectus
+    # - text: Sponsor the conference
+    #   link: /sponsors/prospectus
   #   - text: Submit a Talk
   #     link: /cfp
-  #   - text: See the Schedule!
-  #     link: /schedule
+    - text: See the Schedule
+      link: /schedule
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: See the talks!
@@ -143,18 +143,18 @@ date: # how do we handle these? human readable would be nice.
     summary: And the conference goes on! More talks and unconference today, along with our job fair!
     dotw: Tuesday
     talk_time: 9am-4pm
-    job_fair_time: 9:45am-12pm
+    job_fair_time: 9-12pm
     unconference_time: 1:35pm-4pm
     icon: conversation
   total_talk_days: 2
 
 about:
-  attendees: 400
+  attendees: 300
   summary:
     "The main presentation track takes place from **May 8-9 (Monday and Tuesday) from 9am to 6pm**.
     During the main event we also run an :doc:`/conf/portland/2023/unconference`."
 
-  social_venue: TBD
+  social_venue: Loyal Legion (710 SE 6th Ave)
   venue: Revolution Hall
   photos: TBD
   mainroom: Main stage
@@ -196,10 +196,13 @@ sponsors:
     - name: jetbrains
       link: https://www.jetbrains.com/
       brand: JetBrains
-    - name: paligo
-      link: https://paligo.net/
-      brand: Paligo
-      width: 200px
+    - name: bloomberg-engineering
+      link: https://www.bloomberg.com/company/careers/working-here/engineering/
+      brand: Bloomberg Engineering
+    # - name: paligo
+    #   link: https://paligo.net/
+    #   brand: Paligo
+    #   width: 200px
     # - name: stackblitz-svg
     #   link: https://stackblitz.com/
     #   brand: StackBlitz
@@ -261,8 +264,8 @@ flaghasschedule: True
 flagscheduleincomplete: True
 flaghasunconf: True
 flaghasshirts: False
+flaglivestreaming: True
 flagvideos: False
-flaglivestreaming: False
 flagpostconf: False
 
 # Truthy things that don't change

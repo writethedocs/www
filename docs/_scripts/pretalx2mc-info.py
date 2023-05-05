@@ -60,7 +60,7 @@ def convert_to_yaml(year, series, series_slug, yaml_output, pretalx_slug):
 def retrieve_speaker_info(speaker_codes, http_headers, pretalx_slug):
     result = []
     for speaker_code in speaker_codes:
-        speaker_url = f'https://pretalx.com/api/events/{pretalx_slug}/speakers/{speaker_code}/'
+        speaker_url = f'https://pretalx.com/api/events/{pretalx_slug}/speakers/{speaker_code}/?questions=all'
         print(f'Loading speaker info from {speaker_url}...')
         speaker_response = requests.get(speaker_url, headers=http_headers)
         if speaker_response.status_code != 200:
@@ -87,9 +87,9 @@ def retrieve_speaker_info(speaker_codes, http_headers, pretalx_slug):
 
 if __name__ == '__main__':
     convert_to_yaml(
-        year='2022',
-        series='Write the Docs Prague',
-        series_slug='prague',
+        year='2023',
+        series='Write the Docs Portland',
+        series_slug='portland',
         yaml_output='../_data/mc-info.yaml',
-        pretalx_slug='wtd-prague-2022'
+        pretalx_slug='wtd-portland-2023'
     )

@@ -18,22 +18,21 @@
     infrastructure, repair, and the myriad forms of labor and expertise that sustain
     our human-built world”.</p>
 
-    <p>At DigitalOcean, we have a robust process of evaluating whether, when, and
-    how to update our legacy tutorials. We select tutorials for maintenance in essentially
-    two different ways: one (“Tech Debt”) is if we want something to link to from
+    <p>On our writing team, we had a robust process of evaluating whether, when, and
+    how to update our legacy tutorials. We selected tutorials for maintenance in essentially
+    two different ways: one (“Tech Debt”) is if we wanted something to link to from
     our newer content, and the other (“Opportunistic”) is metrics-driven.</p>
 
-    <p>In this presentation, we’ll share some of our internal metrics dashboards,
-    explain the thresholds we use for determining whether to update our older content,
-    and demonstrate the measurable results we have from increasing traffic to the
-    content. We use several of our own metrics, including UVECs (Unique Visitors Excluding
-    Customers), Multi-touch signup starts, and customer conversions – our goal is
-    to do maintenance that consistently shows an improvement on all of these metrics.
-    You’ll learn how we pitch, schedule, and edit our own submissions to maximize
-    their value to our audience.</p>
+    <p>In this presentation, we’ll share some of the metrics we used, explain the
+    thresholds we used for determining whether to update our older content, and demonstrate
+    the measurable results we have from increasing traffic to the content. We used
+    several of our own top-of-funnel traffic metrics, comparing against customer conversions
+    – our goal was to do maintenance that consistently shows an improvement on all
+    of these metrics. You’ll learn how we pitched, scheduled, and edited our own submissions
+    to maximize their value to our audience.</p>
 
-    <p>You’ll also learn about the team that authors and edits that content, and how
-    we prioritize and undertake that work. From an SEO perspective, this maintenance
+    <p>You’ll also learn about the team that authored and edited that content, and
+    how we prioritized and undertook that work. From an SEO perspective, this maintenance
     is a great way to improve deep linking across our community site, and from an
     everyday work perspective, it’s a great way to balance the need to always be publishing
     new tutorials with the time to look after what we already have.</p>'
