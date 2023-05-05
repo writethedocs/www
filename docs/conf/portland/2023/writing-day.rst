@@ -35,7 +35,7 @@ Here are some of the projects that you can work on during Writing Day!
 Blueprint (morning session)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Blueprint <https://github.com/dendronhq/blueprint>` is an experimental spec and toolchain to define the organization, structure, and 
+`Blueprint <https://github.com/dendronhq/blueprint>`_ is an experimental spec and toolchain to define the organization, structure, and 
 layout of docs. You can use blueprint to scaffold, migrate, analyze, and validate documentation. 
 
 Use blueprint to create **schemas** that describe the structure of common doc types like 
